@@ -15,7 +15,7 @@ full-attack: "Slam +4 melee (1d2+1 plus disease)"
 space-reach: "2 ft./0 ft."
 special-attacks: "Death throes, disease"
 special-qualities: "Blindsight 30 ft., ooze traits, resistance to acid 10"
-saves: "Fort +3, Ref –5, Will –4"
+defenses: "Fort 13, Ref 5, Will 6"
 abilities: "Str 12, Dex 1, Con 17, Int —, Wis 2, Cha 1"
 skills: "Athletics +9"
 skill-ranks: "Athletics 5"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2 ft./0 ft.
 - **Special Attacks**: Death throes, [[rangoric-srd/monsters/abilities/Disease|disease]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 30 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10
-- **Saves**: Fort +3, Ref –5, Will –4
+- **Defenses**: Fort 13, Ref 5, Will 6
 - **Abilities**: Str 12, Dex 1, Con 17, Int —, Wis 2, Cha 1
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +9
 - **Feats**: —
@@ -70,14 +70,14 @@ The boilborn detailed here is by far the most common, but as with diseases, othe
 
 **Abyssal Boilborn (CR 3)**: Colored in hues of bruised blue and bloody red and smelling like bile and pus, this dangerous boilborn has squeezed through a rift from a chaotic evil-aligned plane. It has the [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature|fiendish creature]] simple template and the [[rangoric-srd/monsters/simple-templates/Advanced Creature|advanced creature]] simple template, and infects its victims with demon fever.
 
-**Blindborn (CR 1)**: Pale greenish gray in color and slightly luminescent, this boilborn transmits blinding sickness (Fortitude DC 14) to creatures affected by its slam attack or death throes ability.
+**Blindborn (CR 1)**: Pale greenish gray in color and slightly luminescent, this boilborn transmits blinding sickness (+4 vs Fortitude) to creatures affected by its slam attack or death throes ability.
 
 **Infernal Boilborn (CR 3)**: Accompanied by the smell of brimstone, this black-skinned boilborn has the [[rangoric-srd/monsters/simple-templates/Advanced Creature|advanced creature]] simple template and the [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature|fiendish creature]] simple template, and infects victims it slams or splatters upon with devil chills.
 
-**Plagueborn (CR 2)**: Sickly yellow and wracked with perpetual palpitations that emit a fine mist, this boilborn has the [[rangoric-srd/monsters/simple-templates/Giant Creature|giant simple template]]. Any creatures within 5 feet of a plagueborn must succeed at a DC 16 Fortitude save or contract cackle fever.
+**Plagueborn (CR 2)**: Sickly yellow and wracked with perpetual palpitations that emit a fine mist, this boilborn has the [[rangoric-srd/monsters/simple-templates/Giant Creature|giant simple template]]. The mist attacks any creatures within 5 feet of a plagueborn at +6 vs Fortitude, and those it hits contract cackle fever.
 
 ### Combat
 
-**Death Throes (Su)**: When killed, a boilborn pops in a 10-foot-radius burst that deals 2d6 points of acid damage (DC 14 Reflex half). Creatures taking damage must succeed at a DC 12 Fortitude save or contract [[rangoric-srd/rules/afflictions/Leprosy|leprosy]].
+**Death Throes (Su)**: When killed, a boilborn pops in a 10-foot-radius burst that deals 2d6 points of acid damage (+4 vs Reflex; a miss halves). The burst attacks creatures taking damage at +2 vs Fortitude, and those it hits contract [[rangoric-srd/rules/afflictions/Leprosy|leprosy]].
 
-**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Su)**: [[rangoric-srd/rules/afflictions/Leprosy|Leprosy]]: Injury; save Fort DC 12; onset 2d4 weeks; frequency 1/week; effect 1d2 Cha damage; cure 2 consecutive saves. This save is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Su)**: [[rangoric-srd/rules/afflictions/Leprosy|Leprosy]]: Injury; attack +2 vs Fortitude; onset 2d4 weeks; frequency 1/week; effect 1d2 Cha damage; cure 2 consecutive misses. This attack bonus is Constitution-based.

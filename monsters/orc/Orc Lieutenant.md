@@ -16,7 +16,7 @@ full-attack: "Falchion +8 melee (2d4+4/18–20); or composite longbow +9/+9 rang
 space-reach: "5 ft./5 ft."
 special-attacks: "Weapon training (bows +1)"
 special-qualities: "Darkvision 60 ft., bravery +1, ferocity, armor training 1, weapon familiarity, light sensitivity"
-saves: "Fort +8, Ref +5, Will +0 (+1 vs. fear)"
+defenses: "Fort 18, Ref 15, Will 10 (+1 vs. fear)"
 abilities: "Str 17, Dex 16, Con 12, Int 8, Wis 6, Cha 12"
 skills: "Intimidation +9"
 skill-ranks: "Intimidation 5"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Fighter#^fighter-weapon-training|Weapon training]] (bows +1)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +1, [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1, [[rangoric-srd/races/Orc|weapon familiarity]], [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
-- **Saves**: Fort +8, Ref +5, Will +0 (+1 vs. fear)
+- **Defenses**: Fort 18, Ref 15, Will 10 (+1 vs. fear)
 - **Abilities**: Str 17, Dex 16, Con 12, Int 8, Wis 6, Cha 12
 - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +9
 - **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (composite longbow)

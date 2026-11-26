@@ -16,7 +16,7 @@ full-attack: "Masterwork scimitar +7 melee (1d6+3/18–20); or javelin +4 ranged
 space-reach: "5 ft./5 ft."
 special-attacks: "Bardic performance 12 rounds/day (countersong, distraction, inspire competence +2, inspire courage +1, inspiring blow)"
 special-qualities: "Darkvision 60 ft., ferocity, bardic knowledge +2, versatile performance (percussion), weapon familiarity, light sensitivity"
-saves: "Fort +1, Ref +6, Will +4 (+4 vs. bardic performance, language-dependent, and sonic)"
+defenses: "Fort 11, Ref 16, Will 14 (+4 vs. bardic performance, language-dependent, and sonic)"
 abilities: "Str 17, Dex 12, Con 8, Int 12, Wis 8, Cha 14"
 skills: "Arcana +10, Deception +9, Intimidation +9, Mysticism +8, Perception +6, Perform (percussion) +11, Sense Motive +6"
 skill-ranks: "Arcana 6, Deception 4, Intimidation 4, Mysticism 4, Perception 4, Perform (percussion) 7, Sense Motive 4"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Bard#^bardic-music|Bardic performance]] 12 rounds/day ([[rangoric-srd/classes/Bard#^countersong|countersong]], [[rangoric-srd/classes/Bard#^bard-distraction|distraction]], [[rangoric-srd/classes/Bard#^inspire-competence|inspire competence]] +2, [[rangoric-srd/classes/Bard#^inspire-courage|inspire courage]] +1, [[rangoric-srd/class-options/archetypes/bard/Savage Skald (Archetype)|inspiring blow]])
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], [[rangoric-srd/classes/Bard#^bardic-knowledge|bardic knowledge]] +2, [[rangoric-srd/classes/Bard#^bard-versatile-performance|versatile performance]] (percussion), [[rangoric-srd/races/Orc|weapon familiarity]], [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
-- **Saves**: Fort +1, Ref +6, Will +4 (+4 vs. bardic performance, language-dependent, and sonic)
+- **Defenses**: Fort 11, Ref 16, Will 14 (+4 vs. bardic performance, language-dependent, and sonic)
 - **Abilities**: Str 17, Dex 12, Con 8, Int 12, Wis 8, Cha 14
 - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +10, [[rangoric-srd/skills/Deception|Deception]] +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Mysticism|Mysticism]] +8, [[rangoric-srd/skills/Perception|Perception]] +6, Perform (percussion) +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6
 - **Feats**: [[rangoric-srd/feats/Spell Focus|Spell Focus]] (enchantment), [[rangoric-srd/feats/Toughness|Toughness]]
@@ -69,4 +69,4 @@ An orc war drummer speaks Common, Goblin, and Orc.
 
 ### Combat
 
-**Bard spells known** (CL 4th; concentration +6): 2nd (2/day)—_[[rangoric-srd/spells/Hold Person|hold person]]_ (DC 15), _[[rangoric-srd/spells/Sound Burst|sound burst]]_ (DC 14); 1st (4/day)—_[[rangoric-srd/spells/Grease|grease]]_ (DC 13), _[[rangoric-srd/spells/Hideous Laughter|hideous laughter]]_ (DC 14), _[[rangoric-srd/spells/Confusion, Lesser|lesser confusion]]_ (DC 14), _[[rangoric-srd/spells/Summon Monster I|summon monster I]]_; 0 (at will)—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (DC 12), _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_ (DC 12), _[[rangoric-srd/spells/Read Magic|read magic]]_, _[[rangoric-srd/spells/Summon Instrument|summon instrument]]_.
+**Bard spells known** (CL 4th; concentration +6): 2nd (2/day)—_[[rangoric-srd/spells/Hold Person|hold person]]_ (+5 vs Will), _[[rangoric-srd/spells/Sound Burst|sound burst]]_ (+4 vs Fortitude); 1st (4/day)—_[[rangoric-srd/spells/Grease|grease]]_ (+3), _[[rangoric-srd/spells/Hideous Laughter|hideous laughter]]_ (+4 vs Will), _[[rangoric-srd/spells/Confusion, Lesser|lesser confusion]]_ (+4), _[[rangoric-srd/spells/Summon Monster I|summon monster I]]_; 0 (at will)—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (+2 vs Will), _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_ (+2), _[[rangoric-srd/spells/Read Magic|read magic]]_, _[[rangoric-srd/spells/Summon Instrument|summon instrument]]_.

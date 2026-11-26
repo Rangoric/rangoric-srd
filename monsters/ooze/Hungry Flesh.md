@@ -15,7 +15,7 @@ full-attack: "Slam +5 melee (1d6+4 plus disease and grab)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Constrict (1d6+4 plus disease)"
 special-qualities: "Blindsight 60 ft., scent, regeneration 5 (acid or fire), amorphous, compression, monstrous growth, reactive regeneration, slime trail, ooze traits"
-saves: "Fort +6, Ref –2, Will –4"
+defenses: "Fort 16, Ref 8, Will 6"
 abilities: "Str 16, Dex 5, Con 20, Int —, Wis 1, Cha 1"
 skills: "—"
 skill-ranks: ""
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (1d6+4 plus disease)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (acid or fire), [[rangoric-srd/monsters/abilities/Amorphous|amorphous]], [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Monstrous Growth|monstrous growth]], [[rangoric-srd/monsters/abilities/Reactive Regeneration|reactive regeneration]], [[rangoric-srd/monsters/abilities/Slime Trail|slime trail]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]]
-- **Saves**: Fort +6, Ref –2, Will –4
+- **Defenses**: Fort 16, Ref 8, Will 6
 - **Abilities**: Str 16, Dex 5, Con 20, Int —, Wis 1, Cha 1
 - **Skills**: —
 - **Feats**: —
@@ -68,10 +68,10 @@ A hungry flesh starts out at approximately 7 feet in diameter, and weighs 3,000 
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Ex)**: [[rangoric-srd/rules/afflictions/Tumor Infestation|Tumor Infestation]]: Injury; save Fort DC 17; onset 1 minute; frequency 1/day; effect 1d2 Con and 1d2 Cha; cure 2 consecutive saves. Anyone who dies from [[rangoric-srd/rules/afflictions/Tumor Infestation|tumor infestation]] turns into a hungry flesh 1d4 hours later. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Ex)**: [[rangoric-srd/rules/afflictions/Tumor Infestation|Tumor Infestation]]: Injury; attack +7 vs Fortitude; onset 1 minute; frequency 1/day; effect 1d2 Con and 1d2 Cha; cure 2 consecutive misses. Anyone who dies from [[rangoric-srd/rules/afflictions/Tumor Infestation|tumor infestation]] turns into a hungry flesh 1d4 hours later. The attack bonus is Constitution-based.
 
 **[[rangoric-srd/monsters/abilities/Monstrous Growth|Monstrous Growth]] (Ex)**: A hungry flesh gains growth points from its reactive regeneration ability or from eating creatures. When it consumes a creature that's been dead no more than an hour, it gains 1 growth point if that creature is of its size or one size category smaller, or 2 growth points if its meal is larger than it is. Eating a creature takes a full-round action if it is the same size or smaller than the hungry flesh or 1 minute if it is larger. Each time a hungry flesh reaches 5 growth points, it gains the [[rangoric-srd/monsters/simple-templates/Giant Creature|giant creature simple template]]. This template stacks with itself each time the hungry flesh gains another 5 growth points, but the hungry flesh can't increase its size beyond Gargantuan. When it stops gaining growth points, a hungry flesh loses a single application of the [[rangoric-srd/monsters/simple-templates/Giant Creature|giant creature simple template]] for each hour that passes.
 
 **[[rangoric-srd/monsters/abilities/Reactive Regeneration|Reactive Regeneration]] (Ex)**: Whenever a hungry flesh takes piercing or slashing damage, it regenerates 5 hit points and gains 1 growth point.
 
-**[[rangoric-srd/monsters/abilities/Slime Trail|Slime Trail]] (Ex)**: A hungry flesh leaves behind a trail of slime that acts as a grease spell (DC 17). Any living creature that touches this slime with bare flesh must succeed at a Fortitude save (with a +4 bonus) or contract [[rangoric-srd/rules/afflictions/Tumor Infestation|tumor infestation]]. The slime dries up after 1 minute. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Slime Trail|Slime Trail]] (Ex)**: A hungry flesh leaves behind a trail of slime that acts as a grease spell (+7 vs Reflex). Any living creature that touches this slime with bare flesh is attacked against Fortitude (with a +4 bonus to its Fortitude Defense), and on a hit contracts [[rangoric-srd/rules/afflictions/Tumor Infestation|tumor infestation]]. The slime dries up after 1 minute. The attack bonus is Constitution-based.

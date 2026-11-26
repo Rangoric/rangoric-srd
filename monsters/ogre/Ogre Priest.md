@@ -14,9 +14,9 @@ cmd: "20"
 attack: "Masterwork greatsword +11 melee (3d6+10/19–20) or javelin +1 ranged (1d8+7)"
 full-attack: "Masterwork greatsword +11 melee (3d6+10/19–20); or javelin +1 ranged (1d8+7)"
 space-reach: "10 ft./10 ft."
-special-attacks: "Channel negative energy 1/day (DC 9, 1d6), rebuke undead, feat of strength (+2 Str, 1/day)"
+special-attacks: "Channel negative energy 1/day (−1 vs Will, 1d6), rebuke undead, feat of strength (+2 Str, 1/day)"
 special-qualities: "Darkvision 60 ft., low-light vision, insanity 1"
-saves: "Fort +11, Ref –1, Will +6"
+defenses: "Fort 21, Ref 9, Will 16"
 abilities: "Str 25, Dex 6, Con 19, Int 8, Wis 12, Cha 7"
 skills: "Mysticism +4, Perception +6"
 skill-ranks: "Mysticism 2, Perception 3"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Greatsword|greatsword]] +11 melee (3d6+10/19–20) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +1 ranged (1d8+7)
 - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Greatsword|greatsword]] +11 melee (3d6+10/19–20); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +1 ranged (1d8+7)
 - **Space/Reach**: 10 ft./10 ft.
-- **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel negative energy]] 1/day (DC 9, 1d6), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]], [[rangoric-srd/class-options/domains/Strength Domain|feat of strength]] (+2 Str, 1/day)
+- **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel negative energy]] 1/day (−1 vs Will, 1d6), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]], [[rangoric-srd/class-options/domains/Strength Domain|feat of strength]] (+2 Str, 1/day)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/class-options/domains/Madness Domain|insanity]] 1
-- **Saves**: Fort +11, Ref –1, Will +6
+- **Defenses**: Fort 21, Ref 9, Will 16
 - **Abilities**: Str 25, Dex 6, Con 19, Int 8, Wis 12, Cha 7
 - **Skills**: [[rangoric-srd/skills/Mysticism|Mysticism]] +4, [[rangoric-srd/skills/Perception|Perception]] +6
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]]

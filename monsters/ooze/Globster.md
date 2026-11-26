@@ -15,8 +15,8 @@ attack: "Slam +9 melee (2d6+9 plus grab and nausea)"
 full-attack: "Slam +9 melee (2d6+9 plus grab and nausea)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Create spawn, constrict (2d6+9)"
-special-qualities: "Stench (DC 18, 10 rounds), decompose, water dependency, immunity to acid and bludgeoning and piercing damage, ooze traits, resistance to cold 10 and electricity 10"
-saves: "Fort +7, Ref –3, Will –3"
+special-qualities: "Stench (+8 vs Fortitude, 10 rounds), decompose, water dependency, immunity to acid and bludgeoning and piercing damage, ooze traits, resistance to cold 10 and electricity 10"
+defenses: "Fort 17, Ref 7, Will 7"
 abilities: "Str 22, Dex 1, Con 20, Int —, Wis 1, Cha 1"
 skills: "Athletics +14"
 skill-ranks: "Athletics 5"
@@ -50,8 +50,8 @@ tags: [rangoric, rangoric/monster]
 - **Full Attack**: Slam +9 melee (2d6+9 plus [[rangoric-srd/monsters/abilities/Grab|grab]] and nausea)
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Create Spawn|Create spawn]], [[rangoric-srd/monsters/abilities/Constrict|constrict]] (2d6+9)
-- **Special Qualities**: [[rangoric-srd/monsters/abilities/Stench|Stench]] (DC 18, 10 rounds), [[rangoric-srd/monsters/abilities/Decompose|decompose]], [[rangoric-srd/monsters/abilities/Water Dependency|water dependency]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid and bludgeoning and piercing damage, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and electricity 10
-- **Saves**: Fort +7, Ref –3, Will –3
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Stench|Stench]] (+8 vs Fortitude, 10 rounds), [[rangoric-srd/monsters/abilities/Decompose|decompose]], [[rangoric-srd/monsters/abilities/Water Dependency|water dependency]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid and bludgeoning and piercing damage, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and electricity 10
+- **Defenses**: Fort 17, Ref 7, Will 7
 - **Abilities**: Str 22, Dex 1, Con 20, Int —, Wis 1, Cha 1
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +14
 - **Feats**: —
@@ -73,4 +73,4 @@ Globsters usually wash up on a beach or float to the shore to feed on terrestria
 
 **[[rangoric-srd/monsters/abilities/Decompose|Decompose]] (Ex)**: A slain globster decays into a mass of goo in the span of 24 hours. However, the corpse retains the creature's stench aura for 1d10 days after its death.
 
-**Nausea (Ex)**: Any creature struck by a globster must make a DC 18 Fortitude save to avoid being [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1 round. Once a creature makes this saving throw, it is immune to further nausea effects from that particular globster for 24 hours. This is a poison effect. The save DC is Constitution-based.
+**Nausea (Ex)**: Any creature struck by a globster is attacked at +8 vs Fortitude, and on a hit is [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1 round. Once this attack misses a creature, it is immune to further nausea effects from that particular globster for 24 hours. This is a poison effect. The attack bonus is Constitution-based.

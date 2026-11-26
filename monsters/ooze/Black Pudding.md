@@ -15,7 +15,7 @@ full-attack: "Slam +8 melee (2d6+4 plus 2d6 acid plus grab)"
 space-reach: "15 ft./10 ft."
 special-attacks: "Constrict (2d6+4 plus 2d6 acid), corrosion"
 special-qualities: "Blindsight 60 ft., split, ooze traits, suction"
-saves: "Fort +9, Ref –2, Will –2"
+defenses: "Fort 19, Ref 8, Will 8"
 abilities: "Str 16, Dex 1, Con 22, Int —, Wis 1, Cha 1"
 skills: "Athletics +11"
 skill-ranks: "Athletics 5"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (2d6+4 plus 2d6 acid), corrosion
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/monsters/abilities/Split|split]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]], suction
-- **Saves**: Fort +9, Ref –2, Will –2
+- **Defenses**: Fort 19, Ref 8, Will 8
 - **Abilities**: Str 16, Dex 1, Con 22, Int —, Wis 1, Cha 1
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11
 - **Feats**: —
@@ -73,9 +73,9 @@ The typical black pudding measures 15 feet across and 2 feet thick. It weighs ab
 
 A black pudding attacks by grabbing and squeezing their prey.
 
-**Acid (Ex)**: A black pudding secretes a digestive acid that dissolves organic material and metal quickly, but does not affect stone. Each time a creature suffers damage from a black pudding's acid, its clothing and armor take the same amount of damage from the acid. A DC 21 Reflex save prevents damage to clothing and armor. A metal or wooden weapon that strikes a black pudding takes 2d6 acid damage unless the weapon's wielder succeeds on a DC 21 Reflex save. If a black pudding remains in contact with a wooden or metal object for 1 full round, it inflicts 21 points of acid damage (no save) to the object. The save DCs are Constitution-based.
+**Acid (Ex)**: A black pudding secretes a digestive acid that dissolves organic material and metal quickly, but does not affect stone. Each time a creature suffers damage from a black pudding's acid, its clothing and armor take the same amount of damage from the acid. It attacks at +11 vs Reflex, and a miss prevents damage to clothing and armor. When a metal or wooden weapon strikes a black pudding, the acid attacks the weapon's wielder at +11 vs Reflex, and on a hit the weapon takes 2d6 acid damage. If a black pudding remains in contact with a wooden or metal object for 1 full round, it inflicts 21 points of acid damage (no attack against a defense) to the object. The attack bonuses are Constitution-based.
 
-**Corrosion (Ex)**: An opponent that is being constricted by a black pudding suffers a –4 penalty on Reflex saves made to resist acid damage applying to clothing and armor.
+**Corrosion (Ex)**: An opponent that is being constricted by a black pudding suffers a –4 penalty on Reflex Defense against acid damage applying to clothing and armor.
 
 **Split (Ex)**: Slashing and piercing weapons deal no damage to a black pudding. Instead, the creature splits into two identical puddings, each with half of the original's current hit points (round down). A pudding with 10 hit points or less cannot be further split and dies if reduced to 0 hit points.
 

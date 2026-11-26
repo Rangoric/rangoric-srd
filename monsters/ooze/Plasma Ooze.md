@@ -13,9 +13,9 @@ cmd: "42 (can't be tripped)"
 attack: "Slam +24 melee (4d6+19 plus 4d6 electricity, 4d6 fire, and grab) or 1d4 plasma rays +11 ranged touch (4d6 electricity plus 4d6 fire)"
 full-attack: "Slam +24 melee (4d6+19 plus 4d6 electricity, 4d6 fire, and grab); or 1d4 plasma rays +11 ranged touch (4d6 electricity plus 4d6 fire)"
 space-reach: "20 ft./20 ft."
-special-attacks: "Constrict (4d6+19 plus 4d6 electricity and 4d6 fire), engulf (DC 33, 4d6 electricity plus 4d6 fire)"
+special-attacks: "Constrict (4d6+19 plus 4d6 electricity and 4d6 fire), engulf (+23 vs Reflex, 4d6 electricity plus 4d6 fire)"
 special-qualities: "Blindsight 60 ft., magnetic pulse (30 ft., DC 27), split (slashing or sonic, 46 hp), no breath, damage reduction 15/-, immunity to acid, electricity, fire and bludgeoning and piercing damage, ooze traits, resistance to cold 30"
-saves: "Fort +14, Ref +7, Will +2"
+defenses: "Fort 24, Ref 17, Will 12"
 abilities: "Str 36, Dex 11, Con 24, Int —, Wis 1, Cha 1"
 skills: "Acrobatics +2"
 skill-ranks: "Acrobatics 5"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Slam +24 melee (4d6+19 plus 4d6 electricity, 4d6 fire, and grab) or 1d4 plasma rays +11 ranged touch (4d6 electricity plus 4d6 fire)
 - **Full Attack**: Slam +24 melee (4d6+19 plus 4d6 electricity, 4d6 fire, and grab); or 1d4 plasma rays +11 ranged touch (4d6 electricity plus 4d6 fire)
 - **Space/Reach**: 20 ft./20 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (4d6+19 plus 4d6 electricity and 4d6 fire), [[rangoric-srd/monsters/abilities/Engulf|engulf]] (DC 33, 4d6 electricity plus 4d6 fire)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (4d6+19 plus 4d6 electricity and 4d6 fire), [[rangoric-srd/monsters/abilities/Engulf|engulf]] (+23 vs Reflex, 4d6 electricity plus 4d6 fire)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/monsters/abilities/Magnetic Pulse|magnetic pulse]] (30 ft., DC 27), [[rangoric-srd/monsters/abilities/Split|split]] (slashing or sonic, 46 hp), [[rangoric-srd/monsters/abilities/No Breath|no breath]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, electricity, fire and bludgeoning and piercing damage, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 30
-- **Saves**: Fort +14, Ref +7, Will +2
+- **Defenses**: Fort 24, Ref 17, Will 12
 - **Abilities**: Str 36, Dex 11, Con 24, Int —, Wis 1, Cha 1
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +2
 - **Feats**: —

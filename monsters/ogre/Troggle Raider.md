@@ -16,7 +16,7 @@ full-attack: "Bite +11 melee (1d6+7 plus trip) and 2 claws +12 melee (1d4+7); or
 space-reach: "10 ft./10 ft."
 special-attacks: "Combat style (natural weapon), favored enemy (humans +2)"
 special-qualities: "Darkvision 60 ft., low-light vision, 5d8+2d10+21); regeneration 5 (acid or fire), ogre blood, track +1, wild empathy -2"
-saves: "Fort +10, Ref +7, Will +3"
+defenses: "Fort 20, Ref 17, Will 13"
 abilities: "Str 24, Dex 17, Con 16, Int 7, Wis 10, Cha 3"
 skills: "Athletics +12, Fieldcraft +6, Perception +8, Stealth +10 (+14 in dim light or darkness)"
 skill-ranks: "Athletics 2, Fieldcraft 3, Perception 5, Stealth 8"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: Combat style (natural weapon), favored enemy (humans +2)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], 5d8+2d10+21); [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (acid or fire), [[rangoric-srd/monsters/abilities/Ogre Blood|ogre blood]], track +1, wild empathy -2
-- **Saves**: Fort +10, Ref +7, Will +3
+- **Defenses**: Fort 20, Ref 17, Will 13
 - **Abilities**: Str 24, Dex 17, Con 16, Int 7, Wis 10, Cha 3
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +10 (+14 in dim light or darkness)
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Fleet|Fleet]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Night Stalker|Night Stalker]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claws)

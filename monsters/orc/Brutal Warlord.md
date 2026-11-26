@@ -16,7 +16,7 @@ full-attack: "+1 vicious flail +20/+15/+10 melee (1d8+10/19–20 plus 2d6) and l
 space-reach: "5 ft./5 ft."
 special-attacks: "Lion's shield bite (free action, 3/day, +13/+8/+3, 2d6 damage), weapon training (heavy flails +3, close +2, thrown +1)"
 special-qualities: "Darkvision 60 ft., bravery +3, orc ferocity, armor training 3, orc blood, weapon familiarity"
-saves: "Fort +15, Ref +9, Will +8 (+3 vs. fear)"
+defenses: "Fort 25, Ref 19, Will 18 (+3 vs. fear)"
 abilities: "Str 18, Dex 15, Con 18, Int 10, Wis 8, Cha 12"
 skills: "Intimidation +21, Sense Motive +14"
 skill-ranks: "Intimidation 17, Sense Motive 12"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Lion's shield bite (free action, 3/day, +13/+8/+3, 2d6 damage), [[rangoric-srd/classes/Fighter#^fighter-weapon-training|weapon training]] (heavy flails +3, close +2, thrown +1)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +3, [[rangoric-srd/races/Half-Orc#^half-orc-orc-ferocity|orc ferocity]], [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 3, [[rangoric-srd/races/Half-Orc#^half-orc-orc-blood|orc blood]], [[rangoric-srd/races/Half-Orc|weapon familiarity]]
-- **Saves**: Fort +15, Ref +9, Will +8 (+3 vs. fear)
+- **Defenses**: Fort 25, Ref 19, Will 18 (+3 vs. fear)
 - **Abilities**: Str 18, Dex 15, Con 18, Int 10, Wis 8, Cha 12
 - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +21, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14
 - **Feats**: [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Disruptive|Disruptive]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (flail), [[rangoric-srd/feats/Improved Shield Bash|Improved Shield Bash]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Shield Focus|Shield Focus]], [[rangoric-srd/feats/Shield Master|Shield Master]], [[rangoric-srd/feats/Shield Slam|Shield Slam]], [[rangoric-srd/feats/Spellbreaker|Spellbreaker]], [[rangoric-srd/feats/Staggering Critical|Staggering Critical]], [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (flail), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (flail)

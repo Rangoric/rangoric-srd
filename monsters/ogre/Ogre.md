@@ -16,7 +16,7 @@ full-attack: "Greatclub +7 melee (2d8+7); or javelin +1 ranged (1d8+5)"
 space-reach: "10 ft./10 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., low-light vision"
-saves: "Fort +6, Ref +0, Will +3"
+defenses: "Fort 16, Ref 10, Will 13"
 abilities: "Str 21, Dex 8, Con 15, Int 6, Wis 10, Cha 7"
 skills: "Athletics +7, Perception +5"
 skill-ranks: "Athletics 2, Perception 2"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]
-- **Saves**: Fort +6, Ref +0, Will +3
+- **Defenses**: Fort 16, Ref 10, Will 13
 - **Abilities**: Str 21, Dex 8, Con 15, Int 6, Wis 10, Cha 7
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +7, [[rangoric-srd/skills/Perception|Perception]] +5
 - **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Toughness|Toughness]]
@@ -133,7 +133,7 @@ Marginally more intelligent than his brutish fellows, an ogre barbarian is sligh
 
 Rage (Ex): Twice per day, an ogre barbarian can enter a state of fierce rage that last for 9 rounds. The following changes are in effect as long as he rages: AC 17 (touch 8, flat-footed 17); hp 95; Atk +18/+13 melee (2d6+16, +1 greatclub); SV Fort +14, Will +4; Str 30, Con 22; Athletics +15, Athletics +16. At the end of his rage, the ogre barbarian is fatigued for the duration of the encounter.
 
-Trap Sense (Ex): An ogre barbarian has a +1 bonus on Reflex saves made to avoid traps. He also has a +1 bonus to his AC against attacks by traps.
+Trap Sense (Ex): An ogre barbarian has a +1 bonus on Reflex Defense made to avoid traps. He also has a +1 bonus to his AC against attacks by traps.
 
 Uncanny Dodge (Ex): An ogre barbarian retains his Dex bonus to AC regardless of being caught flat-footed or attacked by an invisible opponent. His Dex bonus to AC is +0, but this means that he is not subject to a rogue’s sneak attack in these circumstances.
 

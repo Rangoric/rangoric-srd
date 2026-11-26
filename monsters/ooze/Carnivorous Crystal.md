@@ -14,9 +14,9 @@ cmd: "23 (can't be tripped)"
 attack: "Slam +18 melee (7d8+9/18–20 plus entrap)"
 full-attack: "Slam +18 melee (7d8+9/18–20 plus entrap)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Crystallize, entrap (DC 22, 1d10 rounds, hardness 10, hp 10), razor sharp"
-special-qualities: "Blindsight 120 ft., subsonic hum (60 ft., DC 22), freeze, split (critical hit from a bludgeoning or sonic attack, 15 hp), damage reduction 10/-, immunity to cold and electricity, ooze traits, resistance to fire 20, brittle, vulnerable to sonic"
-saves: "Fort +9, Ref +0, Will +0"
+special-attacks: "Crystallize, entrap (+12 vs Fortitude, 1d10 rounds, hardness 10, hp 10), razor sharp"
+special-qualities: "Blindsight 120 ft., subsonic hum (60 ft., +12 vs Fortitude), freeze, split (critical hit from a bludgeoning or sonic attack, 15 hp), damage reduction 10/-, immunity to cold and electricity, ooze traits, resistance to fire 20, brittle, vulnerable to sonic"
+defenses: "Fort 19, Ref 10, Will 10"
 abilities: "Str 22, Dex 1, Con 18, Int —, Wis 1, Cha 1"
 skills: "Athletics +14, Stealth +0 (+5 in rocky environs)"
 skill-ranks: "Athletics 5, Stealth 0"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Slam +18 melee (7d8+9/18–20 plus [[rangoric-srd/monsters/abilities/Entrap|entrap]])
 - **Full Attack**: Slam +18 melee (7d8+9/18–20 plus [[rangoric-srd/monsters/abilities/Entrap|entrap]])
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Crystallize|Crystallize]], [[rangoric-srd/monsters/abilities/Entrap|entrap]] (DC 22, 1d10 rounds, hardness 10, hp 10), [[rangoric-srd/monsters/abilities/Razor Sharp|razor sharp]]
-- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 120 ft., [[rangoric-srd/monsters/abilities/Subsonic Hum|subsonic hum]] (60 ft., DC 22), [[rangoric-srd/monsters/abilities/Freeze|freeze]], [[rangoric-srd/monsters/abilities/Split|split]] (critical hit from a bludgeoning or sonic attack, 15 hp), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold and electricity, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 20, [[rangoric-srd/monsters/abilities/Brittle|brittle]], vulnerable to sonic
-- **Saves**: Fort +9, Ref +0, Will +0
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Crystallize|Crystallize]], [[rangoric-srd/monsters/abilities/Entrap|entrap]] (+12 vs Fortitude, 1d10 rounds, hardness 10, hp 10), [[rangoric-srd/monsters/abilities/Razor Sharp|razor sharp]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 120 ft., [[rangoric-srd/monsters/abilities/Subsonic Hum|subsonic hum]] (60 ft., +12 vs Fortitude), [[rangoric-srd/monsters/abilities/Freeze|freeze]], [[rangoric-srd/monsters/abilities/Split|split]] (critical hit from a bludgeoning or sonic attack, 15 hp), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold and electricity, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 20, [[rangoric-srd/monsters/abilities/Brittle|brittle]], vulnerable to sonic
+- **Defenses**: Fort 19, Ref 10, Will 10
 - **Abilities**: Str 22, Dex 1, Con 18, Int —, Wis 1, Cha 1
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +0 (+5 in rocky environs)
 - **Feats**: —
@@ -71,8 +71,8 @@ On the Plane of Earth and in the deepest caverns of the Material Plane, ancient 
 
 **[[rangoric-srd/monsters/abilities/Brittle|Brittle]] (Ex)**: Bludgeoning and sonic attacks can inflict critical hits on a carnivorous crystal. A successful critical hit from such attacks causes the carnivorous crystal to split, even if the attack causes no damage. The crystal remains immune to precision-based damage, such as damage from sneak attacks.
 
-**[[rangoric-srd/monsters/abilities/Crystallize|Crystallize]] (Ex)**: A creature entrapped by a carnivorous crystal's attack must succeed at a DC 22 Fortitude save each round or become [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]]. If a helpless creature fails this save, it becomes [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|petrified]] as its body crystallizes. In 1d4 hours, the petrified victim shatters and a new carnivorous crystal emerges from the remains. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Crystallize|Crystallize]] (Ex)**: A creature entrapped by a carnivorous crystal's attack is attacked at +12 vs Fortitude each round, and on a hit becomes [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]]. If this attack hits a helpless creature, it becomes [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|petrified]] as its body crystallizes. In 1d4 hours, the petrified victim shatters and a new carnivorous crystal emerges from the remains. The attack bonus is Constitution-based.
 
 **[[rangoric-srd/monsters/abilities/Razor Sharp|Razor Sharp]] (Ex)**: A carnivorous crystal's slam attack deals devastating piercing and slashing damage, and threatens a critical hit on a roll of 18, 19, or 20.
 
-**[[rangoric-srd/monsters/abilities/Subsonic Hum|Subsonic Hum]] (Su)**: An active carnivorous crystal gives off supernatural sonic vibrations. Any living creature starting its turn within this aura must succeed at a DC 22 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1 round. A creature that successfully saves cannot be affected by the same carnivorous crystal's subsonic hum for 24 hours. This is a sonic mind-affecting effect. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Subsonic Hum|Subsonic Hum]] (Su)**: An active carnivorous crystal gives off supernatural sonic vibrations. Any living creature starting its turn within this aura is attacked at +12 vs Fortitude, and on a hit is [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1 round. A creature the hum misses cannot be affected by the same carnivorous crystal's subsonic hum for 24 hours. This is a sonic mind-affecting effect. The attack bonus is Constitution-based.

@@ -14,9 +14,9 @@ cmd: "—"
 attack: "Swarm (1d6 acid plus distraction)"
 full-attack: "Swarm (1d6 acid plus distraction)"
 space-reach: "10 ft./0 ft."
-special-attacks: "Distraction (DC 11)"
+special-attacks: "Distraction (+1 vs Fortitude)"
 special-qualities: "Blindsight 30 ft., ooze and swarm traits, amphibious, immunity to weapon damage"
-saves: "Fort +0, Ref –5, Will –5"
+defenses: "Fort 10, Ref 5, Will 5"
 abilities: "Str 1, Dex 1, Con 10, Int —, Wis 1, Cha 1"
 skills: "Athletics +3"
 skill-ranks: "Athletics 5"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Swarm (1d6 acid plus [[rangoric-srd/monsters/abilities/Distraction|distraction]])
 - **Full Attack**: Swarm (1d6 acid plus [[rangoric-srd/monsters/abilities/Distraction|distraction]])
 - **Space/Reach**: 10 ft./0 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Distraction|Distraction]] (DC 11)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Distraction|Distraction]] (+1 vs Fortitude)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 30 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze]] and [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to weapon damage
-- **Saves**: Fort +0, Ref –5, Will –5
+- **Defenses**: Fort 10, Ref 5, Will 5
 - **Abilities**: Str 1, Dex 1, Con 10, Int —, Wis 1, Cha 1
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +3
 - **Feats**: —

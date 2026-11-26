@@ -15,7 +15,7 @@ full-attack: "Slam +3 melee (1d4 plus 1d8 acid)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Acid, stink"
 special-qualities: "Blindsight 60 ft., ooze traits, camouflage, immunity to acid"
-saves: "Fort +3, Ref +4, Will –4"
+defenses: "Fort 13, Ref 14, Will 6"
 abilities: "Str 11, Dex 16, Con 15, Int —, Wis 1, Cha 2"
 skills: "Athletics +8"
 skill-ranks: "Athletics 5"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Acid (Garden Ooze)|Acid]], [[rangoric-srd/monsters/abilities/Stink|stink]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]], [[rangoric-srd/monsters/abilities/Camouflage|camouflage]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to [[rangoric-srd/monsters/abilities/Acid (Garden Ooze)|acid]]
-- **Saves**: Fort +3, Ref +4, Will –4
+- **Defenses**: Fort 13, Ref 14, Will 6
 - **Abilities**: Str 11, Dex 16, Con 15, Int —, Wis 1, Cha 2
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8
 - **Feats**: —
@@ -76,4 +76,4 @@ Fortunately for larger potential prey, most garden oozes are quite small, the la
 
 **[[rangoric-srd/monsters/abilities/Camouflage|Camouflage]] (Ex)**: A garden ooze is difficult to spot when it is at rest among plant growth of any type. A DC 15 Perception check is required to notice the ooze is a separate entity and not a diseased portion of the plant it rests upon. The ooze automatically hits with a slam against any creature that fails to notice the ooze and enters its square.
 
-**[[rangoric-srd/monsters/abilities/Stink|Stink]] (Ex)**: Once every 24 hours, a garden ooze can release foul-smelling gases in a 5-foot-radius spread centered on the ooze. The ooze usually does so after it is first injured. The stench of these vapors is overpowering during the first round it exists, causing living creatures within it to become [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1d3 rounds (Fort DC 13 negates). This is a poison effect. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Stink|Stink]] (Ex)**: Once every 24 hours, a garden ooze can release foul-smelling gases in a 5-foot-radius spread centered on the ooze. The ooze usually does so after it is first injured. The stench of these vapors is overpowering during the first round it exists, causing living creatures within it to become [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1d3 rounds (+3 vs Fortitude). This is a poison effect. The attack bonus is Constitution-based.

@@ -16,7 +16,7 @@ full-attack: "Masterwork heavy mace +7 melee (1d8+4); or masterwork sling +3 ran
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., orc ferocity, orc blood, summon familiar (bat), weapon familiarity"
-saves: "Fort +3, Ref +1, Will +6"
+defenses: "Fort 13, Ref 11, Will 16"
 abilities: "Str 18, Dex 10, Con 15, Int 9, Wis 14, Cha 8"
 skills: "Acrobatics +3, Intimidation +7, Theology +3"
 skill-ranks: "Acrobatics 3, Intimidation 5, Theology 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/races/Half-Orc#^half-orc-orc-ferocity|orc ferocity]], [[rangoric-srd/races/Half-Orc#^half-orc-orc-blood|orc blood]], [[rangoric-srd/classes/Adept|summon familiar]] (bat), [[rangoric-srd/races/Half-Orc|weapon familiarity]]
-- **Saves**: Fort +3, Ref +1, Will +6
+- **Defenses**: Fort 13, Ref 11, Will 16
 - **Abilities**: Str 18, Dex 10, Con 15, Int 9, Wis 14, Cha 8
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +3, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Theology|Theology]] +3
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Intimidation), [[rangoric-srd/feats/Toughness|Toughness]]
@@ -75,4 +75,4 @@ A doom prophet speaks Common and Orc.
 
 **Base Statistics**: Without bear's endurance and bull's strength, the adept's statistics are **hp** 22; **Fort** +1; **Melee** masterwork heavy mace +5 (1d8+2); **Ranged** masterwork sling +3 (1d4+2); **Str** 14; **Con** 11; **CMB** +4; **CMD** 14.
 
-**Adept spells prepared** (CL 4th; concentration +6): 2nd—_[[rangoric-srd/spells/Darkness|darkness]]_; 1st—_[[rangoric-srd/spells/Burning Hands|burning hands]]_ (DC 13), _[[rangoric-srd/spells/Cause Fear|cause fear]]_ (DC 13), _[[rangoric-srd/spells/Command|command]]_ (DC 13); 0 (at will)—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_.
+**Adept spells prepared** (CL 4th; concentration +6): 2nd—_[[rangoric-srd/spells/Darkness|darkness]]_; 1st—_[[rangoric-srd/spells/Burning Hands|burning hands]]_ (+3 vs Reflex), _[[rangoric-srd/spells/Cause Fear|cause fear]]_ (+3 vs Will), _[[rangoric-srd/spells/Command|command]]_ (+3 vs Will); 0 (at will)—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_.

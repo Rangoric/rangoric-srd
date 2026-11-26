@@ -16,7 +16,7 @@ full-attack: "Masterwork falchion +7 melee (2d4+3/18–20); or masterwork compos
 space-reach: "5 ft./5 ft."
 special-attacks: "Favored enemy (elves +2)"
 special-qualities: "Darkvision 60 ft., orc ferocity, favored terrain (plains +2), hunter's bond (companions), orc blood, track +2, weapon familiarity, wild empathy +3, resistance to fire 10"
-saves: "Fort +5, Ref +8, Will +2"
+defenses: "Fort 15, Ref 18, Will 12"
 abilities: "Str 14, Dex 18, Con 12, Int 10, Wis 13, Cha 8"
 skills: "Athletics +8, Fieldcraft +8, Intimidation +8, Nature +7, Perception +8, Society +5, Stealth +10"
 skill-ranks: "Athletics 3, Fieldcraft 4, Intimidation 6, Nature 4, Perception 4, Society 2, Stealth 3"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|Favored enemy]] (elves +2)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/races/Half-Orc#^half-orc-orc-ferocity|orc ferocity]], [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|favored terrain]] (plains +2), [[rangoric-srd/classes/Ranger#^ranger-hunters-bond|hunter's bond]] (companions), [[rangoric-srd/races/Half-Orc#^half-orc-orc-blood|orc blood]], [[rangoric-srd/classes/Ranger#^ranger-track|track]] +2, [[rangoric-srd/races/Half-Orc|weapon familiarity]], [[rangoric-srd/classes/Ranger#^ranger-wild-empathy|wild empathy]] +3, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10
-- **Saves**: Fort +5, Ref +8, Will +2
+- **Defenses**: Fort 15, Ref 18, Will 12
 - **Abilities**: Str 14, Dex 18, Con 12, Int 10, Wis 13, Cha 8
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Nature|Nature]] +7, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Society|Society]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +10
 - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Track|Track]]

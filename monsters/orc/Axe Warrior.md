@@ -16,7 +16,7 @@ full-attack: "Masterwork greataxe +9 melee (1d12+7/×3); or masterwork sling +5 
 space-reach: "5 ft./5 ft."
 special-attacks: "Rage (10 rounds/day), rage powers (intimidating glare)"
 special-qualities: "Darkvision 60 ft., orc ferocity, trap sense +1, uncanny dodge, fast movement, orc blood, weapon familiarity"
-saves: "Fort +7, Ref +2, Will +3"
+defenses: "Fort 17, Ref 12, Will 13"
 abilities: "Str 21, Dex 13, Con 18, Int 8, Wis 10, Cha 12"
 skills: "Athletics +7, Fieldcraft +4, Intimidation +14, Perception +6"
 skill-ranks: "Athletics 2, Fieldcraft 1, Intimidation 10, Perception 3"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (10 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] (intimidating [[rangoric-srd/class-options/rage-powers/Intimidating Glare (Rage Power)|glare]])
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/races/Half-Orc#^half-orc-orc-ferocity|orc ferocity]], [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] +1, [[rangoric-srd/classes/Barbarian#^barbarian-uncanny-dodge|uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/races/Half-Orc#^half-orc-orc-blood|orc blood]], [[rangoric-srd/races/Half-Orc|weapon familiarity]]
-- **Saves**: Fort +7, Ref +2, Will +3
+- **Defenses**: Fort 17, Ref 12, Will 13
 - **Abilities**: Str 21, Dex 13, Con 18, Int 8, Wis 10, Cha 12
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +7, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Perception|Perception]] +6
 - **Feats**: [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Power Attack|Power Attack]]

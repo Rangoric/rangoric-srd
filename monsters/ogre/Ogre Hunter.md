@@ -16,7 +16,7 @@ full-attack: "Masterwork greatsword +18/+13 melee (3d6+12/19–20); or masterwor
 space-reach: "10 ft./10 ft."
 special-attacks: "Combat style (two-handed weapon), favored enemy (animals +2, humans +4)"
 special-qualities: "Darkvision 60 ft., low-light vision, favored terrain (forest +2), hunter's bond (wolf animal companion), track +3, wild empathy +3"
-saves: "Fort +13, Ref +10, Will +6"
+defenses: "Fort 23, Ref 20, Will 16"
 abilities: "Str 26, Dex 12, Con 17, Int 8, Wis 10, Cha 5"
 skills: "Animal Handling +5, Athletics +15, Fieldcraft +8, Intimidation +5, Perception +13, Stealth +9"
 skill-ranks: "Animal Handling 5, Athletics 4, Fieldcraft 5, Intimidation 5, Perception 10, Stealth 9"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-combat-style|Combat style]] ([[rangoric-srd/class-options/combat-styles/Two-Handed Weapon Combat Style|two-handed weapon]]), [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemy]] (animals +2, humans +4)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|favored terrain]] (forest +2), [[rangoric-srd/classes/Ranger#^ranger-hunters-bond|hunter’s bond]] ([[rangoric-srd/class-options/animal-companions/Wolf (Animal Companion)|wolf]] [[rangoric-srd/classes/Ranger#^ranger-animal-companion|animal companion]]), [[rangoric-srd/classes/Ranger|track]] +3, [[rangoric-srd/classes/Ranger|wild empathy]] +3
-- **Saves**: Fort +13, Ref +10, Will +6
+- **Defenses**: Fort 23, Ref 20, Will 16
 - **Abilities**: Str 26, Dex 12, Con 17, Int 8, Wis 10, Cha 5
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +9
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Track|Track]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (greatsword)

@@ -16,7 +16,7 @@ full-attack: "2 claws +11 melee (1d8+7 plus grab); or javelin +6 ranged (2d6+7)"
 space-reach: "15 ft./15 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision, amphibious"
-saves: "Fort +11, Ref +5, Will +4"
+defenses: "Fort 21, Ref 15, Will 14"
 abilities: "Str 25, Dex 16, Con 23, Int 6, Wis 10, Cha 7"
 skills: "Athletics +15, Perception +7, Stealth –2 (+2 in water)"
 skill-ranks: "Athletics 5, Perception 4, Stealth 3"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./15 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]]
-- **Saves**: Fort +11, Ref +5, Will +4
+- **Defenses**: Fort 21, Ref 15, Will 14
 - **Abilities**: Str 25, Dex 16, Con 23, Int 6, Wis 10, Cha 7
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] –2 (+2 in water)
 - **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)

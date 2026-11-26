@@ -15,7 +15,7 @@ full-attack: "Slam +5 melee (2d4+3 plus 1d4 acid and grab)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Constrict (2d4+3 plus 1d4 acid)"
 special-qualities: "Blindsight 60 ft., split, immunity to electricity, mind-affecting effects and slashing and piercing damage, ooze traits"
-saves: "Fort +8, Ref –3, Will –3"
+defenses: "Fort 18, Ref 7, Will 7"
 abilities: "Str 14, Dex 1, Con 22, Int —, Wis 1, Cha 1"
 skills: "Athletics +10"
 skill-ranks: "Athletics 5"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (2d4+3 plus 1d4 acid)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/monsters/abilities/Split|split]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity, mind-affecting effects and slashing and piercing damage, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]]
-- **Saves**: Fort +8, Ref –3, Will –3
+- **Defenses**: Fort 18, Ref 7, Will 7
 - **Abilities**: Str 14, Dex 1, Con 22, Int —, Wis 1, Cha 1
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10
 - **Feats**: —

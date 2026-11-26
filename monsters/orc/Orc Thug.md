@@ -16,7 +16,7 @@ full-attack: "Masterwork short sword +7 melee (1d6+3/19–20); or dagger +6 mele
 space-reach: "5 ft./5 ft."
 special-attacks: "Sneak attack +2d6, debilitating injury"
 special-qualities: "Darkvision 60 ft., evasion, ferocity, danger sense +1, uncanny dodge, rogue talents (bleeding attack +2, fast stealth), trapfinding +2, weapon familiarity, light sensitivity, finesse training (short sword)"
-saves: "Fort +0, Ref +7, Will +0"
+defenses: "Fort 10, Ref 17, Will 10"
 abilities: "Str 17, Dex 16, Con 8, Int 12, Wis 8, Cha 10"
 skills: "Appraise +8, Athletics +10, Deception +7, Escape Artist +10, Intimidation +7, Perception +6, Sense Motive +6, Sleight of Hand +10, Stealth +10"
 skill-ranks: "Appraise 4, Athletics 4, Deception 4, Escape Artist 4, Intimidation 4, Perception 4, Sense Motive 4, Sleight of Hand 4, Stealth 4"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +2d6, [[rangoric-srd/classes/Rogue#^rogue-debilitating-injury|debilitating injury]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Rogue#^rogue-evasion|evasion]], [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], [[rangoric-srd/classes/Rogue#^rogue-trap-sense|danger sense]] +1, [[rangoric-srd/classes/Rogue#^rogue-uncanny-dodge|uncanny dodge]], [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]] ([[rangoric-srd/class-options/rogue-talents/Bleeding Attack (Rogue Talent)|bleeding attack]] +2, [[rangoric-srd/class-options/rogue-talents/Fast Stealth (Rogue Talent)|fast stealth]]), [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +2, [[rangoric-srd/races/Orc|weapon familiarity]], [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]], [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]] (short sword)
-- **Saves**: Fort +0, Ref +7, Will +0
+- **Defenses**: Fort 10, Ref 17, Will 10
 - **Abilities**: Str 17, Dex 16, Con 8, Int 12, Wis 8, Cha 10
 - **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +10
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]

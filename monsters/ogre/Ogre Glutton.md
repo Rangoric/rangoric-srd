@@ -16,7 +16,7 @@ full-attack: "+1 greataxe +21/+16/+11 melee (3d6+16/×3) and bite +15 melee (1d8
 space-reach: "10 ft./10 ft."
 special-attacks: "Rage (21 rounds/day), rage powers (animal fury, scent, strength surge +8, superstition +4)"
 special-qualities: "Darkvision 60 ft., low-light vision, improved uncanny dodge, trap sense +2, fast movement, damage reduction 1/—"
-saves: "Fort +16, Ref +6, Will +9 (+4 vs. magic)"
+defenses: "Fort 26, Ref 16, Will 19 (+4 vs. magic)"
 abilities: "Str 30, Dex 15, Con 21, Int 4, Wis 12, Cha 7"
 skills: "Fieldcraft +6, Perception +14"
 skill-ranks: "Fieldcraft 2, Perception 10"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (21 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/Animal Fury (Rage Power)|animal fury]], [[rangoric-srd/class-options/rage-powers/Scent (Rage Power)|scent]], [[rangoric-srd/class-options/rage-powers/Strength Surge (Rage Power)|strength surge]] +8, [[rangoric-srd/class-options/rage-powers/Superstition (Rage Power)|superstition]] +4)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/classes/Barbarian#^barbarian-improved-uncanny-dodge|improved uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] +2, [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 1/—
-- **Saves**: Fort +16, Ref +6, Will +9 (+4 vs. magic)
+- **Defenses**: Fort 26, Ref 16, Will 19 (+4 vs. magic)
 - **Abilities**: Str 30, Dex 15, Con 21, Int 4, Wis 12, Cha 7
 - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Perception|Perception]] +14
 - **Feats**: [[rangoric-srd/feats/Gluttonous Gobbler|Gluttonous Gobbler]], [[rangoric-srd/feats/Greater Grapple|Greater Grapple]], [[rangoric-srd/feats/Improved Grapple|Improved Grapple]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Toughness|Toughness]]

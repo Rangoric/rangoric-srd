@@ -15,7 +15,7 @@ full-attack: "Slam +6 melee (1d6+4 plus 1d6 acid and grab)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Acid, constrict (1d6+4 plus 1d6 acid)"
 special-qualities: "Blindsight 60 ft., ooze traits, transparent, immunity to cold and fire"
-saves: "Fort +9, Ref –4, Will –4"
+defenses: "Fort 19, Ref 6, Will 6"
 abilities: "Str 16, Dex 1, Con 26, Int —, Wis 1, Cha 1"
 skills: "—"
 skill-ranks: ""
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Acid, [[rangoric-srd/monsters/abilities/Constrict|constrict]] (1d6+4 plus 1d6 acid)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]], transparent, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold and fire
-- **Saves**: Fort +9, Ref –4, Will –4
+- **Defenses**: Fort 19, Ref 6, Will 6
 - **Abilities**: Str 16, Dex 1, Con 26, Int —, Wis 1, Cha 1
 - **Skills**: —
 - **Feats**: —
@@ -69,7 +69,7 @@ Some sages believe that the gray ooze is the result of a failed alchemical exper
 
 The gray ooze adapts readily and swiftly to changes in environments, the simple structure of its primeval form and its method of using fission to reproduce all but ensuring that such changes occur. Listed below are two such variants that adventurers have encountered.
 
-**Crystal Ooze (CR 4)**: The crystal ooze is an aquatic variant that dwells in deeper waters than most commonly found in the gray ooze's beloved swamps. A crystal ooze has the aquatic subtype and a swim speed of 30 ft. The crystal ooze lacks the gray ooze's constrict ability, but it does secrete a paralytic toxin that causes those whom it strikes to become [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] for 3d6 rounds if they fail a Fortitude saving throw (the save DC is Constitution-based).
+**Crystal Ooze (CR 4)**: The crystal ooze is an aquatic variant that dwells in deeper waters than most commonly found in the gray ooze's beloved swamps. A crystal ooze has the aquatic subtype and a swim speed of 30 ft. The crystal ooze lacks the gray ooze's constrict ability, but it does secrete a paralytic toxin that causes those whom it strikes to become [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] for 3d6 rounds if the toxin hits their Fortitude (the attack bonus is Constitution-based).
 
 **Id Ooze (CR 6)**: Perhaps the strangest variant gray oozes are those that have developed a rudimentary intelligence, including the ability to communicate telepathically with other oozes, or even the ability to blast enemies with pulses of raw mental power. Id oozes are advanced gray oozes with an Intelligence score of 2 (and thus gain skill ranks and feats—typically 4 ranks in Stealth, Improved Initiative, and Toughness), can communicate basic empathic information with other id oozes within 100 feet via telepathy, and can use _lesser confusion_ at will as a spell-like ability (CL equals the id ooze's HD).
 
@@ -79,6 +79,6 @@ A gray ooze can grow to a diameter of up to 10 feet and a thickness of about 6 i
 
 A gray ooze strikes like a snake, slamming opponents with its body.
 
-**Acid (Ex)**: The digestive acid that covers a gray ooze dissolves metals and organic material, but not stone. Each slam and constrict attack deals 1d6 additional acid damage. Armor or clothing worn by a creature grappled by a gray ooze takes the same amount of acid damage unless the wearer succeeds on a DC 20 Reflex saving throw. A wooden or metal weapon that strikes a gray ooze takes 1d6 acid damage unless the weapon's wielder succeeds on a DC 20 Reflex save. The ooze's touch deals 12 points of acid damage per round to wooden or metal objects, but the ooze must remain in contact with the material for 1 full round in order to deal this damage. The save DCs are Constitution-based.
+**Acid (Ex)**: The digestive acid that covers a gray ooze dissolves metals and organic material, but not stone. Each slam and constrict attack deals 1d6 additional acid damage. The acid attacks a creature grappled by a gray ooze at +10 vs Reflex, and on a hit its armor or clothing takes the same amount of acid damage. When a wooden or metal weapon strikes a gray ooze, the acid attacks the weapon's wielder at +10 vs Reflex, and on a hit the weapon takes 1d6 acid damage. The ooze's touch deals 12 points of acid damage per round to wooden or metal objects, but the ooze must remain in contact with the material for 1 full round in order to deal this damage. The attack bonuses are Constitution-based.
 
 **Transparent (Ex)**: Due to its lack of vivid coloration, a gray ooze is difficult to discern from its surroundings in most environments. A DC 15 Perception check is required to notice the gray ooze. Any creature that fails to notice a gray ooze and walks into it automatically suffers damage as if struck by the ooze's slam attack and is immediately subject to a grab attempt by the ooze.

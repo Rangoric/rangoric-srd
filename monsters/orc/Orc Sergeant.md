@@ -16,7 +16,7 @@ full-attack: "Masterwork spear +10 melee (1d8+9/×3); or falchion +9 melee (2d4+
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., bravery +1, ferocity, armor training 1, weapon familiarity, light sensitivity"
-saves: "Fort +5, Ref +0, Will +1 (+1 vs. fear)"
+defenses: "Fort 15, Ref 10, Will 11 (+1 vs. fear)"
 abilities: "Str 23, Dex 8, Con 14, Int 8, Wis 11, Cha 10"
 skills: "Intimidation +12"
 skill-ranks: "Intimidation 9"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +1, [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1, [[rangoric-srd/races/Orc|weapon familiarity]], [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
-- **Saves**: Fort +5, Ref +0, Will +1 (+1 vs. fear)
+- **Defenses**: Fort 15, Ref 10, Will 11 (+1 vs. fear)
 - **Abilities**: Str 23, Dex 8, Con 14, Int 8, Wis 11, Cha 10
 - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +12
 - **Feats**: [[rangoric-srd/feats/Bullying Blow|Bullying Blow]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Scarred Legion|Scarred Legion]]

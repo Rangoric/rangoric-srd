@@ -16,7 +16,7 @@ full-attack: "Masterwork battleaxe +10/+5 melee (1d8+3/×3); or +1 composite sho
 space-reach: "5 ft./5 ft."
 special-attacks: "Combat style (archery), favored enemy (dwarves +4, humans +2)"
 special-qualities: "Darkvision 60 ft., scent, ferocity, favored terrain (mountain +2), hunter's bond (companions), track +3, weapon familiarity, wild empathy +4, light sensitivity"
-saves: "Fort +6, Ref +8, Will +3"
+defenses: "Fort 16, Ref 18, Will 13"
 abilities: "Str 17, Dex 16, Con 12, Int 8, Wis 12, Cha 6"
 skills: "Animal Handling +7, Fieldcraft +10, Intimidation +7, Perception +10, Stealth +12"
 skill-ranks: "Animal Handling 6, Fieldcraft 6, Intimidation 6, Perception 6, Stealth 6"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-combat-style|Combat style]] (archery), [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemy]] (dwarves +4, humans +2)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|favored terrain]] (mountain +2), [[rangoric-srd/classes/Ranger#^ranger-hunters-bond|hunter's bond]] (companions), [[rangoric-srd/classes/Ranger|track]] +3, [[rangoric-srd/races/Orc|weapon familiarity]], [[rangoric-srd/classes/Ranger|wild empathy]] +4, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
-- **Saves**: Fort +6, Ref +8, Will +3
+- **Defenses**: Fort 16, Ref 18, Will 13
 - **Abilities**: Str 17, Dex 16, Con 12, Int 8, Wis 12, Cha 6
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +7, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +12
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Shot on the Run|Shot on the Run]], [[rangoric-srd/feats/Track|Track]]

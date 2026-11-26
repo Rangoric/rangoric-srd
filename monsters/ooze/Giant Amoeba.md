@@ -16,7 +16,7 @@ full-attack: "Slam +3 melee (1d3+1 plus 1d3 acid and grab)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Constrict (1d3+1 plus 1d3 acid)"
 special-qualities: "Blindsight 30 ft., ooze traits, amphibious"
-saves: "Fort +3, Ref –5, Will –5"
+defenses: "Fort 13, Ref 5, Will 5"
 abilities: "Str 12, Dex 1, Con 16, Int —, Wis 1, Cha 1"
 skills: "Athletics +9"
 skill-ranks: "Athletics 5"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (1d3+1 plus 1d3 acid)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 30 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]]
-- **Saves**: Fort +3, Ref –5, Will –5
+- **Defenses**: Fort 13, Ref 5, Will 5
 - **Abilities**: Str 12, Dex 1, Con 16, Int —, Wis 1, Cha 1
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +9
 - **Feats**: —

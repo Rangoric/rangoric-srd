@@ -13,9 +13,9 @@ cmd: "15 (can't be tripped)"
 attack: "Slam +4 melee (1d6+4 plus disease)"
 full-attack: "Slam +4 melee (1d6+4 plus disease)"
 space-reach: "10 ft./10 ft."
-special-attacks: "Engulf (DC 14, 1d6+4 bludgeoning plus disease)"
+special-attacks: "Engulf (+4 vs Reflex, 1d6+4 bludgeoning plus disease)"
 special-qualities: "Freeze, ooze traits, resistance to fire 10"
-saves: "Fort +6, Ref +0, Will –4"
+defenses: "Fort 16, Ref 10, Will 6"
 abilities: "Str 16, Dex 8, Con 21, Int —, Wis 1, Cha 1"
 skills: "—"
 skill-ranks: ""
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Slam +4 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Disease|disease]])
 - **Full Attack**: Slam +4 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Disease|disease]])
 - **Space/Reach**: 10 ft./10 ft.
-- **Special Attacks**: Engulf (DC 14, 1d6+4 bludgeoning plus [[rangoric-srd/monsters/abilities/Disease|disease]])
+- **Special Attacks**: Engulf (+4 vs Reflex, 1d6+4 bludgeoning plus [[rangoric-srd/monsters/abilities/Disease|disease]])
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Freeze|Freeze]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10
-- **Saves**: Fort +6, Ref +0, Will –4
+- **Defenses**: Fort 16, Ref 10, Will 6
 - **Abilities**: Str 16, Dex 8, Con 21, Int —, Wis 1, Cha 1
 - **Skills**: —
 - **Feats**: —
@@ -70,4 +70,4 @@ To reproduce, slime molds split off small patches of their bodies whenever they 
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Ex)**: [[rangoric-srd/rules/afflictions/Fungal Rot|Fungal Rot]]: Slam—contact; _save_ Fort DC 16; _onset_ 1 day; _frequency_ 1/day; _effect_ 1d2 Str damage and 1 Con damage and fatigue; _cure_ 1 save. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Ex)**: [[rangoric-srd/rules/afflictions/Fungal Rot|Fungal Rot]]: Slam—contact; _attack_ +6 vs Fortitude; _onset_ 1 day; _frequency_ 1/day; _effect_ 1d2 Str damage and 1 Con damage and fatigue; _cure_ 1 miss. The attack bonus is Constitution-based.

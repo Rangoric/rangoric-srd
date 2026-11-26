@@ -15,7 +15,7 @@ full-attack: "Falchion +5 melee (2d4+4/18–20); or javelin +1 ranged (1d6+3)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., ferocity, weapon familiarity, light sensitivity"
-saves: "Fort +3, Ref +0, Will –1"
+defenses: "Fort 13, Ref 10, Will 9"
 abilities: "Str 17, Dex 11, Con 12, Int 7, Wis 8, Cha 6"
 skills: "Intimidation +2"
 skill-ranks: "Intimidation 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], weapon familiarity, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
-- **Saves**: Fort +3, Ref +0, Will –1
+- **Defenses**: Fort 13, Ref 10, Will 9
 - **Abilities**: Str 17, Dex 11, Con 12, Int 7, Wis 8, Cha 6
 - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +2
 - **Feats**: [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (falchion)

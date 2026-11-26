@@ -16,7 +16,7 @@ full-attack: "+1 ogre hook +17/+12 melee (2d8+14/×3 plus trip); or unarmed stri
 space-reach: "10 ft./10 ft."
 special-attacks: "Weapon training (polearms +1)"
 special-qualities: "Darkvision 60 ft., low-light vision, bravery +1, armor training 1"
-saves: "Fort +13, Ref +4, Will +6 (+1 vs. fear)"
+defenses: "Fort 23, Ref 14, Will 16 (+1 vs. fear)"
 abilities: "Str 25, Dex 12, Con 18, Int 6, Wis 12, Cha 5"
 skills: "Perception +9, Profession (cook) +5"
 skill-ranks: "Perception 5, Profession (cook) 4"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Fighter#^fighter-weapon-training|Weapon training]] ([[rangoric-srd/equipment/Equipment Weapons#^weapon-groups|polearms]] +1)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +1, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1
-- **Saves**: Fort +13, Ref +4, Will +6 (+1 vs. fear)
+- **Defenses**: Fort 23, Ref 14, Will 16 (+1 vs. fear)
 - **Abilities**: Str 25, Dex 12, Con 18, Int 6, Wis 12, Cha 5
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Profession|Profession]] (cook) +5
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Vicious Stomp|Vicious Stomp]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (ogre hook), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (ogre hook)

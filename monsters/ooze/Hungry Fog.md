@@ -13,9 +13,9 @@ cmd: "12 (can't be tripped)"
 attack: "+5 touch (6d6 negative energy)"
 full-attack: "+5 touch (6d6 negative energy)"
 space-reach: "15 ft./15 ft."
-special-attacks: "Enveloping mists (DC 17, 3d6 negative energy and staggered)"
-special-qualities: "Blindsight 60 ft., bewitching brume (10 ft., DC 8), gaseous, negative energy affinity, damage reduction 10/magic, immunity to acid, electricity and sonic, ooze traits, resistance to cold 10, vulnerable to wind"
-saves: "Fort +6, Ref –1, Will –3"
+special-attacks: "Enveloping mists (+7 vs Reflex, 3d6 negative energy and staggered)"
+special-qualities: "Blindsight 60 ft., bewitching brume (10 ft., −2 vs Will), gaseous, negative energy affinity, damage reduction 10/magic, immunity to acid, electricity and sonic, ooze traits, resistance to cold 10, vulnerable to wind"
+defenses: "Fort 16, Ref 9, Will 7"
 abilities: "Str —, Dex 4, Con 18, Int —, Wis 1, Cha 1"
 skills: "—"
 skill-ranks: ""
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: +5 touch (6d6 negative energy)
 - **Full Attack**: +5 touch (6d6 negative energy)
 - **Space/Reach**: 15 ft./15 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Enveloping Mists|Enveloping mists]] (DC 17, 3d6 negative energy and staggered)
-- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/monsters/abilities/Bewitching Brume|bewitching brume]] (10 ft., DC 8), [[rangoric-srd/monsters/abilities/Gaseous|gaseous]], [[rangoric-srd/monsters/abilities/Negative Energy Affinity|negative energy affinity]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, electricity and sonic, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10, [[rangoric-srd/monsters/abilities/Vulnerable to Wind|vulnerable to wind]]
-- **Saves**: Fort +6, Ref –1, Will –3
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Enveloping Mists|Enveloping mists]] (+7 vs Reflex, 3d6 negative energy and staggered)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/monsters/abilities/Bewitching Brume|bewitching brume]] (10 ft., −2 vs Will), [[rangoric-srd/monsters/abilities/Gaseous|gaseous]], [[rangoric-srd/monsters/abilities/Negative Energy Affinity|negative energy affinity]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, electricity and sonic, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10, [[rangoric-srd/monsters/abilities/Vulnerable to Wind|vulnerable to wind]]
+- **Defenses**: Fort 16, Ref 9, Will 7
 - **Abilities**: Str —, Dex 4, Con 18, Int —, Wis 1, Cha 1
 - **Skills**: —
 - **Feats**: —
@@ -70,9 +70,9 @@ A hungry fog is instinctively drawn to areas where negative energy is strong. Th
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Bewitching Brume|Bewitching Brume]] (Su)**: Any creature within 10 feet of a hungry fog or currently being affected by its enveloping mists must succeed on a DC 8 Will save at the start of that creature's turn or become [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1 round at the half-glimpsed shapes of phantoms floating within the fog. This is a mind-affecting fear effect. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Bewitching Brume|Bewitching Brume]] (Su)**: Any creature within 10 feet of a hungry fog or currently being affected by its enveloping mists is attacked at –2 vs Will at the start of that creature's turn, and on a hit becomes [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1 round at the half-glimpsed shapes of phantoms floating within the fog. This is a mind-affecting fear effect. The attack bonus is Charisma-based.
 
-**[[rangoric-srd/monsters/abilities/Enveloping Mists|Enveloping Mists]] (Ex)**: A hungry fog can [[rangoric-srd/monsters/abilities/Engulf|engulf]] foes. A creature engulfed by a hungry fog does not gain the pinned condition and may move normally—such a creature is not in danger of suffocating, but as long as it begins its turn engulfed, it is [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] in addition to the damage the attack causes. The save DC to avoid the enveloping mists is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Enveloping Mists|Enveloping Mists]] (Ex)**: A hungry fog can [[rangoric-srd/monsters/abilities/Engulf|engulf]] foes. A creature engulfed by a hungry fog does not gain the pinned condition and may move normally—such a creature is not in danger of suffocating, but as long as it begins its turn engulfed, it is [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] in addition to the damage the attack causes. The attack bonus of the enveloping mists is Constitution-based.
 
 **[[rangoric-srd/monsters/abilities/Gaseous|Gaseous]] (Ex)**: A hungry fog has a body composed of eerie mist. It can pass through small holes or narrow openings, even mere cracks, but cannot enter water or other liquid. It has no Strength score, and cannot manipulate objects as a result.
 

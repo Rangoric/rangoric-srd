@@ -16,7 +16,7 @@ full-attack: "+1 greatclub +16/+11 melee (2d8+13) or javelin +6 ranged (1d8+8)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Rage 2/day"
 special-qualities: "Darkvision 60 ft., low-light vision, trap sense +1, uncanny dodge"
-saves: "Fort +12, Ref +2, Will +2"
+defenses: "Fort 22, Ref 12, Will 12"
 abilities: "Str 26, Dex 11, Con 18, Int 8, Wis 10, Cha 4"
 skills: "Athletics +17 (+21 jumping), Perception +11, Stealth –6"
 skill-ranks: "Athletics 8, Perception 8, Stealth 0"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: Rage 2/day
 - **Special Qualities**: Darkvision 60 ft., low-light vision, trap sense +1, uncanny dodge
-- **Saves**: Fort +12, Ref +2, Will +2
+- **Defenses**: Fort 22, Ref 12, Will 12
 - **Abilities**: Str 26, Dex 11, Con 18, Int 8, Wis 10, Cha 4
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +17 (+21 jumping), [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] –6
 - **Feats**: [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (greatclub)
