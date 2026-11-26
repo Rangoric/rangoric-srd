@@ -17,4 +17,4 @@ Your painful stare burns through your opponents.
 
 **Prerequisites**: Mesmerist level 11th, [[rangoric-srd/classes/Mesmerist#^mesmerist-painful-stare|painful stare]] class feature.
 
-**Benefit**: Whenever you trigger a painful stare, the target must succeed at a Will saving throw (DC = 10 + 1/2 your mesmerist level + your Charisma modifier) or become [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] by the pain for 1 round.
+**Benefit**: Whenever you trigger a painful stare, the stare attacks the target’s Will, its attack bonus 1/2 your mesmerist level + your Charisma modifier; on a hit, the target becomes [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] by the pain for 1 round.

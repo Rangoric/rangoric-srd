@@ -11,4 +11,4 @@ tags: [rangoric, rangoric/feat, epic]
 
 # Epic Fortitude
 
-Benefit: The character gains a +4 bonus on all Fortitude saving throws.
+Benefit: The character gains a +4 bonus on Fortitude Defense.

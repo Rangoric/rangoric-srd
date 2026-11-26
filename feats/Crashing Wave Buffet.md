@@ -16,4 +16,4 @@ You disorient your opponents by pushing and pounding them mercilessly, just like
 
 **Prerequisites**: Wis 15, [[rangoric-srd/feats/Crashing Wave Style|Crashing Wave Style]], [[rangoric-srd/feats/Improved Drag|Improved Drag]], [[rangoric-srd/feats/Improved Reposition|Improved Reposition]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], base attack bonus +6.
 
-**Benefit**: At the end of a drag or reposition, the opponent must succeed at a Fortitude save (DC 10 + 1/2 your character level + your Wisdom modifier, + 2 for every 5 feet you moved it) or take a –2 penalty on attack rolls, combat maneuver checks and Dexterity-based skill checks until the end of its next turn.
+**Benefit**: At the end of a drag or reposition, the move attacks the opponent’s Fortitude, its attack bonus 1/2 your character level + your Wisdom modifier, + 2 for every 5 feet you moved it; on a hit, the opponent takes a –2 penalty on attack rolls, combat maneuver checks and Dexterity-based skill checks until the end of its next turn.

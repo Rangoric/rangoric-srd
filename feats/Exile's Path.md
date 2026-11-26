@@ -17,4 +17,4 @@ A lifetime spent shunned by others and eschewing your heritage makes you resista
 
 **Prerequisites**: [[rangoric-srd/races/Half-Elf|Half-elf]].
 
-**Benefit**: Once per day, when you fail a Will save against an enchantment spell or effect, you may reroll that saving throw, but must take the reroll result even if it’s worse.
+**Benefit**: Once per day, when an enchantment spell or effect hits your Will Defense, you may make it reroll that attack, but must take the reroll result even if it’s worse for you.

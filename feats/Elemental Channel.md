@@ -17,6 +17,6 @@ Choose one elemental subtype, such as air, earth, fire, or water. You can channe
 
 **Prerequisites**: [[rangoric-srd/combat/Combat Special Attacks#^channel-energy|Channel energy]] class feature.
 
-**Benefit**: Choose air, earth, fire or water. Instead of its normal effect, your channel energy can heal or harm outsiders with that elemental subtype. You choose each time you channel; if you choose this, your channel energy has no effect on other creatures. The amount healed or dealt and the save DC are unchanged.
+**Benefit**: Choose air, earth, fire or water. Instead of its normal effect, your channel energy can heal or harm outsiders with that elemental subtype. You choose each time you channel; if you choose this, your channel energy has no effect on other creatures. The amount healed or dealt and the attack bonus are unchanged.
 
 **Special**: You can gain this feat multiple times. Its effects don’t stack. Each time, it applies to a new elemental subtype.

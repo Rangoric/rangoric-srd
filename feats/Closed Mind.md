@@ -13,7 +13,7 @@ tags: [rangoric, rangoric/feat]
 
 Your mind is better able to resist psionics than normal.
 
-Benefit: You get a +2 bonus on all saving throws to resist powers.
+Benefit: You get a +2 bonus on all defenses against powers.
 
 The benefit of this feat applies only to psionic powers and psi-like abilities. This is an exception to the psionics-magic transparency rule.
 

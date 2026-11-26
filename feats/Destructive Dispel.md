@@ -17,4 +17,4 @@ When you dispel an enemy's magical defenses, those defenses crash down with debi
 
 **Prerequisites**: Ability to cast _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_ or _[[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]]_, caster level 11th.
 
-**Benefit**: When you succeed at a targeted dispel check against an opponent, it must succeed at a Fortitude save (DC equal to the dispelling spell’s DC) or be [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] until the start of your next turn. On a successful save, it is [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] until the start of your next turn instead.
+**Benefit**: When you succeed at a targeted dispel check against an opponent, the dispel attacks its Fortitude, its attack bonus the dispelling spell’s attack bonus; on a hit, it is [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] until the start of your next turn. On a miss, it is [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] until the start of your next turn instead.

@@ -18,4 +18,4 @@ Your zeal for hunting your faith’s enemies empowers your ability to channel di
 
 **Prerequisites**: [[rangoric-srd/combat/Combat Special Attacks#^channel-energy|Channel energy]] class feature, [[rangoric-srd/classes/Inquisitor (Class)|inquisitor]] level 1st.
 
-**Benefit**: When you use [[rangoric-srd/combat/Combat Special Attacks#^channel-energy|channel energy]] to deal damage, your [[rangoric-srd/classes/Inquisitor (Class)|inquisitor]] levels count as cleric levels for determining the number of damage dice and the saving throw DC.
+**Benefit**: When you use [[rangoric-srd/combat/Combat Special Attacks#^channel-energy|channel energy]] to deal damage, your [[rangoric-srd/classes/Inquisitor (Class)|inquisitor]] levels count as cleric levels for determining the number of damage dice and the attack bonus.

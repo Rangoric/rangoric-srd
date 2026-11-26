@@ -17,4 +17,4 @@ Even when others run, you tend to stand your ground.
 
 **Prerequisites**: [[rangoric-srd/races/racial-traits/Craven|Craven]] racial trait or [[rangoric-srd/races/Halfling|fearless]] racial trait, [[rangoric-srd/races/Halfling|halfling]].
 
-**Benefit**: If you have the [[rangoric-srd/races/Halfling|fearless]] racial trait, your racial bonus on saving throws against fear effects increases to +4. If you have the [[rangoric-srd/races/racial-traits/Craven|craven]] racial trait, you still take the –2 penalty on fear saves, but you can gain the benefit of morale bonuses on saving throws against fear effects.
+**Benefit**: If you have the [[rangoric-srd/races/Halfling|fearless]] racial trait, your racial bonus on defenses against fear effects increases to +4. If you have the [[rangoric-srd/races/racial-traits/Craven|craven]] racial trait, you still take the –2 penalty on defenses against fear, but you can gain the benefit of morale bonuses on defenses against fear effects.

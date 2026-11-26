@@ -13,4 +13,4 @@ tags: [rangoric, rangoric/feat, epic]
 
 Prerequisites: Dex 25, slippery mind class feature.
 
-Benefit: Once per round, when targeted by an effect that requires a Will saving throw, the character may make a Reflex save instead to avoid the effect (evasion is not applicable).
+Benefit: Once per round, when an effect attacks the character’s Will Defense, the character may have it attack Reflex Defense instead (evasion is not applicable).
