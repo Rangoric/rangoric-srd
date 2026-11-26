@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 target: "One doorway"
 duration: "Permanent"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 book: "Faeries"
 based-on:
@@ -38,7 +38,7 @@ _Abjuration_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Target**: One doorway
 - **Duration**: Permanent
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 This spell opens a fey _[[rangoric-srd/rules/Fey Roads and Doorways#Doorways|doorway]]_ without having the key or meeting the normal conditions of entry. This spell can reopen a one-way _doorway_ without a [[rangoric-srd/monsters/Doorway Guardian|guardian]] for a short period of time, or temporarily negate the effects of the _[[rangoric-srd/spells/Gate Seal|gate seal]]_ spell (1 round/caster level).

@@ -20,7 +20,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "1 round/level or until broken (see text)"
-saving-throw: "Will negates (see text)"
+defense: "Will (see text)"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -41,7 +41,7 @@ _Enchantment (Compulsion) \[Emotion, Mind-affecting\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature
 - **Duration**: 1 round/level or until broken (see text)
-- **Saving Throw**: Will negates (see text)
+- **Defense**: Will (see text)
 - **Spell Resistance**: Yes
 
-You fill your target with boredom. The target loses all interest in its current task and must make a Will save against the spell's effect in order to perform its next action. If the target fails, it takes no action that round. The boredom lasts until the duration expires or the target breaks the spell's effect with a successful Will save.
+You fill your target with boredom. The target loses all interest in its current task and the spell attacks its Will before its next action; it can perform that action only on a miss. If the target fails, it takes no action that round. The boredom lasts until the duration expires or the spell misses the target’s Will, breaking its effect.

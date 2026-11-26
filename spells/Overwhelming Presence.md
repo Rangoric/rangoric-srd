@@ -22,7 +22,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 targets: "One creature/level, no two of which can be more than 30 ft. apart"
 duration: "1 round/level"
-saving-throw: "Will negates, see text"
+defense: "Will, see text"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -43,7 +43,7 @@ _Enchantment (Compulsion) \[Emotion, Mind-affecting\]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Targets**: One creature/level, no two of which can be more than 30 ft. apart
 - **Duration**: 1 round/level
-- **Saving Throw**: Will negates, see text
+- **Defense**: Will, see text
 - **Spell Resistance**: Yes
 
-Your presence inspires incredible awe in those nearby. A creature that fails a save against this spell falls to the ground and prostrates itself before you, believing it bows before a divine presence. A flying creature incapable of hovering must land immediately in order to prostrate itself. These creatures are considered to be helpless for the duration of the spell. Each round on its turn, a target of this spell may attempt a new saving throw to end the effect; this is a full-round action that does not provoke attacks of opportunity. A creature that recovers from this spell early after being affected by it for at least 1 round takes 1d6 points of Wisdom drain and is staggered for 1d4 rounds. A creature that makes the initial save to resist this spell is merely staggered for 1 round.
+Your presence inspires incredible awe in those nearby. A creature this spell hits falls to the ground and prostrates itself before you, believing it bows before a divine presence. A flying creature incapable of hovering must land immediately in order to prostrate itself. These creatures are considered to be helpless for the duration of the spell. Each round on its turn, a target of this spell may make it attack its Will again, and a miss ends the effect; this is a full-round action that does not provoke attacks of opportunity. A creature that recovers from this spell early after being affected by it for at least 1 round takes 1d6 points of Wisdom drain and is staggered for 1d4 rounds. A creature the spell’s first attack misses is merely staggered for 1 round.

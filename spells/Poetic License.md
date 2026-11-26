@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "24 hours"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Spells & Magic"
 based-on:
@@ -34,7 +34,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: 24 hours
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 With this spell, the bard is able to attach a negative or positive stigma to another person using creative storytelling. This stigma may cast the person in such a light that all of his past deeds become more heroic, increasing his renown and reputation as a result; or, the spell may socially damage him, extolling his wickedness and ruthlessness, making it more likely that those whom he meets react unfavorably. When the bard casts the spell, he decides whether the person receives a +2 or 2 enhancement bonus for social interactions only. This bonus applies to the use of the following skills**:** [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Persuasion|Persuasion]], [[rangoric-srd/skills/Persuasion|Persuasion]], [[rangoric-srd/skills/Intimidation|Intimidation]], or Perform. This bonus also applies to any generic Charisma check that is made in a social situation. This spell’s effect may only be cancelled through use of a _[[rangoric-srd/spells/Break Enchantment|break enchantment]]_, _[[rangoric-srd/spells/Limited Wish|limited wish]]_, _[[rangoric-srd/spells/Miracle|miracle]]_, _[[rangoric-srd/spells/Remove Curse|remove curse]]_, or _[[rangoric-srd/spells/Wish|wish]]_ spell. A target may only be affected by a single casting of this spell at a time.

@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "0 ft."
 effect: "Ethereal 5 ft. by 8 ft. opening, 10 ft. deep + 5 ft. deep per three levels"
 duration: "One usage per two levels"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Phase Door|Phase Door (3.5)]]"
@@ -34,7 +34,7 @@ _Conjuration (Creation)_
 - **Range**: 0 ft.
 - **Effect**: Ethereal 5 ft. by 8 ft. opening, 10 ft. deep + 5 ft. deep per three levels
 - **Duration**: One usage per two levels
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 This spell creates an ethereal passage through wooden, plaster, or stone walls, but not other materials. The phase door is [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] and inaccessible to all creatures except you, and only you can use the passage. You disappear when you enter the phase door and appear when you exit. If you desire, you can take one other creature (Medium or smaller) through the door. This counts as two uses of the door. The door does not allow light, sound, or spell effects through it, nor can you see through it without using it. Thus, the spell can provide an escape route, though certain creatures, such as phase spiders, can follow with ease. A gem of true seeing or similar magic reveals the presence of a phase door but does not allow its use.

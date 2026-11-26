@@ -21,7 +21,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Living creature touched"
 duration: "Instantaneous; see text"
-saving-throw: "Fortitude negates; see text"
+defense: "Fortitude; see text"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Poison|Poison (3.5)]]"
@@ -42,15 +42,15 @@ _Necromancy \[Poison\]_
 - **Range**: Touch
 - **Target**: Living creature touched
 - **Duration**: Instantaneous; see text
-- **Saving Throw**: Fortitude negates; see text
+- **Defense**: Fortitude; see text
 - **Spell Resistance**: Yes
 
-Calling upon the venomous powers of natural predators, you infect the subject with a horrible poison by making a successful melee touch attack. This poison deals 1d3 Constitution damage per round for 6 rounds. Poisoned creatures can make a Fortitude save each round to negate the damage and end the affliction.
+Calling upon the venomous powers of natural predators, you infect the subject with a horrible poison by making a successful melee touch attack. This poison deals 1d3 Constitution damage per round for 6 rounds. The poison attacks the creature’s Fortitude each round, and a miss negates the damage and ends the affliction.
 
 As an [[rangoric-srd/rules/Afflictions#The Affliction Block|affliction]]:
 
 - **Type**: poison, spell
-- **Save**: Fortitude negates; the DC is this spell’s
+- **Attack**: vs Fortitude; the attack bonus is this spell’s
 - **Frequency**: 1/round for 6 rounds
 - **Effect**: 1d3 Con damage
-- **Cure**: 1 save
+- **Cure**: 1 miss

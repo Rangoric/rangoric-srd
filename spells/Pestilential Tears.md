@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 area: "30foot diameter sphere"
 duration: "2 rounds/level"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 book: "Spells & Magic"
 based-on:
@@ -35,11 +35,11 @@ _Necromancy \[Evil\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Area**: 30foot diameter sphere
 - **Duration**: 2 rounds/level
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
 The effect of this spell is a rain of reeking drops of stagnant and polluted water. Open water sources completely contained within the area of effect is polluted with the [[rangoric-srd/rules/afflictions/Filth Fever|filth fever]] disease until purified. Normal plants within the area wither and die. Plant creatures in the area take 6d8 damage each round that they remain in the area.
 
-In the area of the pestilential tears, healing spells do not function. Any nonplant creature wounded must make a Fortitude Save, and those that fail are dealt an additional 1d8+5 damage and are afflicted with disease filth fever. This disease takes effect immediately, in the manner of the contagion spell. The caster is immune to this spell’s effects.
+In the area of the pestilential tears, healing spells do not function. The tears attack the Fortitude of any nonplant creature wounded, and those they hit are dealt an additional 1d8+5 damage and are afflicted with disease filth fever. This disease takes effect immediately, in the manner of the contagion spell. The caster is immune to this spell’s effects.
 
 The material component for this spell is a vial of holy water and a piece of spoiled meat.

@@ -19,7 +19,7 @@ casting-time: "10 minutes"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "One called elemental or outsider of 6 HD or less"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Planar Ally, Lesser|Planar Ally, Lesser (3.5)]]"
@@ -39,7 +39,7 @@ _Conjuration (Calling) \[see text\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Effect**: One called elemental or outsider of 6 HD or less
 - **Duration**: Instantaneous
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 By casting this spell, you request your deity to send you an elemental or outsider (of 6 HD or less) of the deity’s choice. If you serve no particular deity, the spell is a general plea answered by a creature sharing your philosophical alignment. If you know an individual creature’s name, you may request that individual by speaking the name during the spell (though you might get a different creature anyway).

@@ -17,7 +17,7 @@ casting-time: "1 round"
 range: "Touch"
 target: "Object touched"
 duration: "1 hour/level or until discharged"
-saving-throw: "Fortitude negates (object)"
+defense: "Fortitude (object)"
 spell-resistance: "No"
 book: "Ultimate Intrigue"
 based-on:
@@ -38,7 +38,7 @@ _Conjuration (Summoning)_
 - **Range**: Touch
 - **Target**: Object touched
 - **Duration**: 1 hour/level or until discharged
-- **Saving Throw**: Fortitude negates (object)
+- **Defense**: Fortitude (object)
 - **Spell Resistance**: No
 
 You set a magical ward upon the object touched, which must be a container such as a pouch, bag, backpack, or pocket. If any creature opens the container without first speaking a command word, 1d3 summoned venomous snakes appear, slithering out of the container and attacking that creature for 1 round/level before disappearing. They attack other creatures only if they themselves are attacked.

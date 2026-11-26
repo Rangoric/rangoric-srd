@@ -13,7 +13,7 @@ casting-time: "2 rounds"
 range: "See text"
 target-effect-or-area: "See text"
 duration: "Permanent; see text"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Permanency|Permanency (3.5)]]"
@@ -34,7 +34,7 @@ _Universal_
 
 Target, Effect, or Area: See text  
 Duration: Permanent; see text  
-Saving Throw: None  
+Defense: None  
 Spell Resistance: No
 
 This spell makes certain other spells permanent.

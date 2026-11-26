@@ -19,7 +19,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 target: "One living creature"
 duration: "Caster level round(s)"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Occult Adventures"
 based-on:
@@ -40,7 +40,7 @@ _Illusion (Phantasm) \[MindAffecting\]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Target**: One living creature
 - **Duration**: Caster level round(s)
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
-You cause the subject to believe it is being attacked by a creature out of its nightmares. Each round, the subject makes a full-attack action against the creature. A flying creature can still attempt a Acrobatics check to hover. Each round on its turn after making a full attack against the imaginary creature, the subject can attempt a new saving throw to end the effect. The subject is fatigued for 1 minute after the spell ends.
+You cause the subject to believe it is being attacked by a creature out of its nightmares. Each round, the subject makes a full-attack action against the creature. A flying creature can still attempt a Acrobatics check to hover. Each round on its turn after making a full attack against the imaginary creature, the subject can make the spell attack its Will again, and a miss ends the effect. The subject is fatigued for 1 minute after the spell ends.

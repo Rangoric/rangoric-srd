@@ -12,7 +12,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 target: "One creature"
 duration: "1 minute/level"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Advanced Player's Guide"
 based-on:
@@ -33,7 +33,7 @@ _Necromancy \[Curse\]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Target**: One creature
 - **Duration**: 1 minute/level
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 You entreat the forces of fate to bestow your [[rangoric-srd/classes/Oracle#^oracle-curse|oracle's curse]] upon another creature. The target creature suffers all the hindrances and none of the benefits of your oracle's curse class feature. You still suffer all effects of your oracle's curse. If you do not have the oracle's curse class feature, this spell has no effect.

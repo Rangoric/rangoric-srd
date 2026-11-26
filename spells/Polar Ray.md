@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "Ray"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Polar Ray|Polar Ray (3.5)]]"
@@ -34,7 +34,7 @@ _Evocation \[Cold\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Effect**: Ray
 - **Duration**: Instantaneous
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 A blue-white ray of freezing air and ice springs from your hand. You must succeed on a ranged touch attack with the ray to deal damage to a target. The ray deals 1d6 points of cold damage per caster level (maximum 25d6).

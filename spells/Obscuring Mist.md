@@ -23,7 +23,7 @@ casting-time: "1 standard action"
 range: "20 ft."
 effect: "Cloud spreads in 20-ft. radius from you, 20 ft. high"
 duration: "1 min./level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Obscuring Mist|Obscuring Mist (3.5)]]"
@@ -43,7 +43,7 @@ _Conjuration (Creation)_
 - **Range**: 20 ft.
 - **Effect**: Cloud spreads in 20-ft. radius from you, 20 ft. high
 - **Duration**: 1 min./level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 A misty vapor arises around you. It is stationary once created. The vapor obscures all sight, including darkvision, beyond 5 feet. A creature 5 feet away has concealment (attacks have a 20% miss chance). Creatures farther away have total concealment (50% miss chance, and the attacker cannot use sight to locate the target).

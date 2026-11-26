@@ -12,7 +12,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "Permanent"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Spells & Magic"
 based-on:
@@ -33,7 +33,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: Permanent
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 This is a variation on the _[[rangoric-srd/spells/Bestow Curse|bestow curse]]_ spell. A character affected by it receives one effect as per the original spell, plus all of the following additional effects:

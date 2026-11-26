@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One sheathed or slung weapon"
 duration: "1 minute/level"
-saving-throw: "Will negates (object)"
+defense: "Will (object)"
 spell-resistance: "Yes (object)"
 book: "Ultimate Combat"
 based-on:
@@ -35,7 +35,7 @@ _Abjuration_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One sheathed or slung weapon
 - **Duration**: 1 minute/level
-- **Saving Throw**: Will negates (object)
+- **Defense**: Will (object)
 - **Spell Resistance**: Yes (object)
 
-You lock a weapon in place on its owner's body, or within the weapon's sheath or holster. Anyone who then tries to draw the weapon must spend a standard action and succeed at a Strength check (DC equal to the saving throw DC) to do so, provoking attacks of opportunity whether the attempt succeeds or fails.
+You lock a weapon in place on its owner's body, or within the weapon's sheath or holster. Anyone who then tries to draw the weapon must spend a standard action and succeed at a Strength check (DC equal to 10 + the spell's attack bonus) to do so, provoking attacks of opportunity whether the attempt succeeds or fails.

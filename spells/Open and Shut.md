@@ -17,7 +17,7 @@ casting-time: "1 swift action"
 range: "Touch"
 target: "One door, window, or similar portal no more than 10 feet by 10 feet in area"
 duration: "Caster level round(s)"
-saving-throw: "Will disbelief"
+defense: "Will disbelief"
 spell-resistance: "No"
 book: "Ultimate Intrigue"
 based-on:
@@ -38,7 +38,7 @@ _Illusion (Glamer)_
 - **Range**: Touch
 - **Target**: One door, window, or similar portal no more than 10 feet by 10 feet in area
 - **Duration**: Caster level round(s)
-- **Saving Throw**: Will disbelief
+- **Defense**: Will disbelief
 - **Spell Resistance**: No
 
-You alter the appearance of a door and disguise whether it is open or closed. You can cause the touched door to appear closed regardless of whether it is open or closed, to appear open regardless of whether it is open or closed, or to appear to open or close. After you cast the spell, you can change between these options as a move action. Creatures using a move action to open or shut the door can attempt a Will save to disbelieve the illusion. Regardless of how you alter the appearance of the door, creatures that believe the illusion take a -5 penalty on Perception checks regarding the door itself or creatures on the other side of the door. This spell affects windows, gates, and similar openings in the same way it affects doors.
+You alter the appearance of a door and disguise whether it is open or closed. You can cause the touched door to appear closed regardless of whether it is open or closed, to appear open regardless of whether it is open or closed, or to appear to open or close. After you cast the spell, you can change between these options as a move action. The illusion attacks the Will of creatures using a move action to open or shut the door, which disbelieve it on a miss. Regardless of how you alter the appearance of the door, creatures that believe the illusion take a -5 penalty on Perception checks regarding the door itself or creatures on the other side of the door. This spell affects windows, gates, and similar openings in the same way it affects doors.

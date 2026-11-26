@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. +5 ft./2 levels)"
 target: "One creature"
 duration: "Instantaneous and 1 minute"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -34,7 +34,7 @@ _Necromancy \[Pain\]_
 - **Range**: Close (25 ft. +5 ft./2 levels)
 - **Target**: One creature
 - **Duration**: Instantaneous and 1 minute
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
 Your eyes flash and the target takes 1d6 points of nonlethal damage. For the next minute, you gain a +4 circumstance bonus on Intimidation checks against the target.
