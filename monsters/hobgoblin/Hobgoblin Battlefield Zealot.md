@@ -14,9 +14,9 @@ cmd: "16"
 attack: "Bastard sword +5 melee (1d10+2/19–20) or light crossbow +4 ranged (1d8/19–20)"
 full-attack: "Bastard sword +5 melee (1d10+2/19–20); or light crossbow +4 ranged (1d8/19–20)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Channel negative energy 3/day (DC 13, 1d6), rebuke undead, feat of strength (+2 Str, 1/day)"
+special-attacks: "Channel negative energy 3/day (+3 vs Will, 1d6), rebuke undead, feat of strength (+2 Str, 1/day)"
 special-qualities: "Darkvision 60 ft."
-saves: "Fort +7, Ref +2, Will +5"
+defenses: "Fort 17, Ref 12, Will 15"
 abilities: "Str 14, Dex 14, Con 15, Int 8, Wis 15, Cha 10"
 skills: "Craft (alchemy) +3, Medicine +10, Mysticism +3, Stealth +5"
 skill-ranks: "Craft (alchemy) 1, Medicine 5, Mysticism 1, Stealth 3"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: [[rangoric-srd/equipment/weapons/Bastard Sword|Bastard sword]] +5 melee (1d10+2/19–20) or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +4 ranged (1d8/19–20)
 - **Full Attack**: [[rangoric-srd/equipment/weapons/Bastard Sword|Bastard sword]] +5 melee (1d10+2/19–20); or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +4 ranged (1d8/19–20)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel negative energy]] 3/day (DC 13, 1d6), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]], [[rangoric-srd/class-options/domains/Strength Domain|feat of strength]] (+2 Str, 1/day)
+- **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel negative energy]] 3/day (+3 vs Will, 1d6), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]], [[rangoric-srd/class-options/domains/Strength Domain|feat of strength]] (+2 Str, 1/day)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft.
-- **Saves**: Fort +7, Ref +2, Will +5
+- **Defenses**: Fort 17, Ref 12, Will 15
 - **Abilities**: Str 14, Dex 14, Con 15, Int 8, Wis 15, Cha 10
 - **Skills**: [[rangoric-srd/skills/Craft|Craft]] (alchemy) +3, [[rangoric-srd/skills/Medicine|Medicine]] +10, [[rangoric-srd/skills/Mysticism|Mysticism]] +3, [[rangoric-srd/skills/Stealth|Stealth]] +5
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Improved Channel|Improved Channel]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bastard sword)
@@ -73,4 +73,4 @@ A hobgoblin battlefield zealot speaks Common and Goblin.
 
 **Domain Spell-Like Abilities** (CL 2nd; concentration +4): 5/day—[[rangoric-srd/class-options/domains/War Domain|battle rage]] (+1), [[rangoric-srd/class-options/domains/Strength Domain|strength surge]] (+1).
 
-**Cleric spells prepared** (CL 2nd; concentration +4): 1st—_[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, _[[rangoric-srd/spells/Magic Weapon|magic weapon]]_ <sup>D</sup>, _[[rangoric-srd/spells/Sanctuary|sanctuary]]_ (DC 13), _[[rangoric-srd/spells/Shield of Faith|shield of faith]]_; 0 (at will)—_[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]_, _[[rangoric-srd/spells/Virtue|virtue]]_; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Strength Domain|Strength]], [[rangoric-srd/class-options/domains/War Domain|War]].
+**Cleric spells prepared** (CL 2nd; concentration +4): 1st—_[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, _[[rangoric-srd/spells/Magic Weapon|magic weapon]]_ <sup>D</sup>, _[[rangoric-srd/spells/Sanctuary|sanctuary]]_ (+3 vs Will), _[[rangoric-srd/spells/Shield of Faith|shield of faith]]_; 0 (at will)—_[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]_, _[[rangoric-srd/spells/Virtue|virtue]]_; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Strength Domain|Strength]], [[rangoric-srd/class-options/domains/War Domain|War]].

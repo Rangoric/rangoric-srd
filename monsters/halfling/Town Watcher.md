@@ -16,7 +16,7 @@ full-attack: "Short sword +4 melee (1d4+1/19–20); or masterwork shortbow +7 ra
 space-reach: "5 ft./5 ft."
 special-attacks: "Favored enemy (fey +2)"
 special-qualities: "Track +1, wild empathy +2"
-saves: "Fort +4, Ref +7, Will +2 (+2 vs. fear)"
+defenses: "Fort 14, Ref 17, Will 12 (+2 vs. fear)"
 abilities: "Str 12, Dex 17, Con 10, Int 13, Wis 12, Cha 10"
 skills: "Acrobatics +7, Athletics +8 (+4 jumping), Fieldcraft +6, Intimidation +4, Nature +5, Perception +8, Persuasion +1, Society +5, Stealth +14"
 skill-ranks: "Acrobatics 1, Athletics 4, Fieldcraft 2, Intimidation 1, Nature 1, Perception 4, Persuasion 1, Society 1, Stealth 2"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|Favored enemy]] (fey +2)
 - **Special Qualities**: [[rangoric-srd/classes/Ranger#^ranger-track|Track]] +1, [[rangoric-srd/classes/Ranger#^ranger-wild-empathy|wild empathy]] +2
-- **Saves**: Fort +4, Ref +7, Will +2 (+2 vs. fear)
+- **Defenses**: Fort 14, Ref 17, Will 12 (+2 vs. fear)
 - **Abilities**: Str 12, Dex 17, Con 10, Int 13, Wis 12, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +8 (+4 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Intimidation|Intimidation]] +4, [[rangoric-srd/skills/Nature|Nature]] +5, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Persuasion|Persuasion]] +1, [[rangoric-srd/skills/Society|Society]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +14
 - **Feats**: [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Track|Track]]

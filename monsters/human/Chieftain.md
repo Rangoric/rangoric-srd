@@ -15,7 +15,7 @@ full-attack: "+1 human bane greatsword +17/+12/+7 melee (2d6+7/17–20); or +1 h
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "—"
-saves: "Fort +9, Ref +5, Will +3"
+defenses: "Fort 19, Ref 15, Will 13"
 abilities: "Str 19, Dex 12, Con 12, Int 8, Wis 9, Cha 10"
 skills: "Animal Handling +6, Athletics +7, Intimidation +19, Perception +2"
 skill-ranks: "Animal Handling 3, Athletics 3, Intimidation 16, Perception 3"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: —
-- **Saves**: Fort +9, Ref +5, Will +3
+- **Defenses**: Fort 19, Ref 15, Will 13
 - **Abilities**: Str 19, Dex 12, Con 12, Int 8, Wis 9, Cha 10
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +19, [[rangoric-srd/skills/Perception|Perception]] +2
 - **Feats**: [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (greatsword), [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Toughness|Toughness]]

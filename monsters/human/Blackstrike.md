@@ -16,7 +16,7 @@ full-attack: "+1 greatsword +17/+12 melee (2d6+13/19–20); or masterwork shortb
 space-reach: "5 ft./5 ft."
 special-attacks: "Weapon training (heavy blades +1)"
 special-qualities: "Darkvision 60 ft., bravery +2, evasion, uncanny dodge, armor training 2, hide in plain sight"
-saves: "Fort +8, Ref +10, Will +3 (+2 vs. fear)"
+defenses: "Fort 18, Ref 20, Will 13 (+2 vs. fear)"
 abilities: "Str 22, Dex 14, Con 14, Int 12, Wis 10, Cha 8"
 skills: "Acrobatics +14, Animal Handling +6, Arcana +4, Athletics +10, Medicine +1, Perception +12, Perform (dance) +4, Society +2, Stealth +14, Theology +2"
 skill-ranks: "Acrobatics 9, Animal Handling 1, Arcana 3, Athletics 1, Medicine 1, Perception 9, Perform (dance) 3, Society 1, Stealth 9, Theology 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Fighter#^fighter-weapon-training|Weapon training]] (heavy blades +1)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +2, [[rangoric-srd/prestige-classes/Shadowdancer|evasion]], [[rangoric-srd/prestige-classes/Shadowdancer|uncanny dodge]], [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 2, [[rangoric-srd/prestige-classes/Shadowdancer|hide in plain sight]]
-- **Saves**: Fort +8, Ref +10, Will +3 (+2 vs. fear)
+- **Defenses**: Fort 18, Ref 20, Will 13 (+2 vs. fear)
 - **Abilities**: Str 22, Dex 14, Con 14, Int 12, Wis 10, Cha 8
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Arcana|Arcana]] +4, [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Medicine|Medicine]] +1, [[rangoric-srd/skills/Perception|Perception]] +12, Perform (dance) +4, [[rangoric-srd/skills/Society|Society]] +2, [[rangoric-srd/skills/Stealth|Stealth]] +14, [[rangoric-srd/skills/Theology|Theology]] +2
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Disruptive|Disruptive]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (greatsword), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (greatsword)

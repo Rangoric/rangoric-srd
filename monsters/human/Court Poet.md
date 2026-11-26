@@ -16,7 +16,7 @@ full-attack: "Masterwork dagger +3 melee (1d4–1/19–20); or masterwork dagger
 space-reach: "5 ft./5 ft."
 special-attacks: "Bardic performance 16 rounds/day (countersong, distraction, fascinate, inspire competence +2, inspire courage +2)"
 special-qualities: "Bardic knowledge +2, lore master 1/day, versatile performance (oratory)"
-saves: "Fort +4, Ref +4, Will +5 (+4 vs. bardic performance, language-dependent, and sonic)"
+defenses: "Fort 14, Ref 14, Will 15 (+4 vs. bardic performance, language-dependent, and sonic)"
 abilities: "Str 8, Dex 10, Con 12, Int 14, Wis 13, Cha 18"
 skills: "Arcana +10, Deception +15, Mysticism +10, Perception +5, Perform (oratory) +12, Persuasion +12, Sense Motive +9, Society +12, Stealth +6, Theology +9"
 skill-ranks: "Arcana 5, Deception 8, Mysticism 5, Perception 1, Perform (oratory) 7, Persuasion 5, Sense Motive 5, Society 7, Stealth 3, Theology 4"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Bard#^bardic-music|Bardic performance]] 16 rounds/day (countersong, distraction, fascinate, inspire competence +2, inspire courage +2)
 - **Special Qualities**: [[rangoric-srd/classes/Bard|Bardic knowledge]] +2, [[rangoric-srd/classes/Bard#^bard-lore-master|lore master]] 1/day, [[rangoric-srd/classes/Bard#^bard-versatile-performance|versatile performance]] (oratory)
-- **Saves**: Fort +4, Ref +4, Will +5 (+4 vs. bardic performance, language-dependent, and sonic)
+- **Defenses**: Fort 14, Ref 14, Will 15 (+4 vs. bardic performance, language-dependent, and sonic)
 - **Abilities**: Str 8, Dex 10, Con 12, Int 14, Wis 13, Cha 18
 - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +10, [[rangoric-srd/skills/Deception|Deception]] +15, [[rangoric-srd/skills/Mysticism|Mysticism]] +10, [[rangoric-srd/skills/Perception|Perception]] +5, Perform (oratory) +12, [[rangoric-srd/skills/Persuasion|Persuasion]] +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Society|Society]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +6, [[rangoric-srd/skills/Theology|Theology]] +9
 - **Feats**: [[rangoric-srd/feats/Arcane Strike|Arcane Strike]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception), [[rangoric-srd/feats/Spell Focus|Spell Focus]] (enchantment)
@@ -71,4 +71,4 @@ A court poet speaks Common, Dwarven, and Elven.
 
 **During Combat**: The bard controls and confuses attackers with spells, leading combat by turning invisible and using detect thoughts to gain a better understanding of the enemy. She uses charm person to draw opponents to her side.
 
-**Bard spells known** (CL 5th; concentration +9): 2nd (3/day)—_[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ (DC 16), _[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Misdirection|misdirection]]_; 1st (5/day)—_[[rangoric-srd/spells/Alarm|alarm]]_, _[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 16), _[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]_, _[[rangoric-srd/spells/Undetectable Alignment|undetectable alignment]]_; 0 (at will)—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (DC 14), _[[rangoric-srd/spells/Light|light]], [[rangoric-srd/spells/Mage Hand|mage hand]], [[rangoric-srd/spells/Open-Close|open/close]], [[rangoric-srd/spells/Resistance|resistance]]_.
+**Bard spells known** (CL 5th; concentration +9): 2nd (3/day)—_[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ (+6 vs Will), _[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Misdirection|misdirection]]_; 1st (5/day)—_[[rangoric-srd/spells/Alarm|alarm]]_, _[[rangoric-srd/spells/Charm Person|charm person]]_ (+6 vs Will), _[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]_, _[[rangoric-srd/spells/Undetectable Alignment|undetectable alignment]]_; 0 (at will)—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (+4 vs Will), _[[rangoric-srd/spells/Light|light]], [[rangoric-srd/spells/Mage Hand|mage hand]], [[rangoric-srd/spells/Open-Close|open/close]], [[rangoric-srd/spells/Resistance|resistance]]_.

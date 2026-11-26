@@ -15,7 +15,7 @@ full-attack: "Trident of warning +22/+17 melee (1d8+11); or starknife +18/+13 me
 space-reach: "5 ft./5 ft."
 special-attacks: "Weapon training (thrown +2, bows +1)"
 special-qualities: "Bravery +2, armor training 2"
-saves: "Fort +11, Ref +5, Will +8 (+2 vs. fear)"
+defenses: "Fort 21, Ref 15, Will 18 (+2 vs. fear)"
 abilities: "Str 20, Dex 13, Con 14, Int 12, Wis 10, Cha 10"
 skills: "Acrobatics +10, Athletics +10, Craft (ships) +5, Engineering +5, Fieldcraft +10, Linguistics +5, Mysticism +16, Nature +10, Perception +10, Perform (keyboard instruments) +5, Persuasion +10, Profession (merchant) +5, Profession (sailor) +21, Society +10"
 skill-ranks: "Acrobatics 6, Athletics 2, Craft (ships) 1, Engineering 1, Fieldcraft 7, Linguistics 1, Mysticism 12, Nature 6, Perception 7, Perform (keyboard instruments) 1, Persuasion 7, Profession (merchant) 1, Profession (sailor) 17, Society 6"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Fighter#^fighter-weapon-training|Weapon training]] (thrown +2, bows +1)
 - **Special Qualities**: [[rangoric-srd/classes/Fighter#^fighter-bravery|Bravery]] +2, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 2
-- **Saves**: Fort +11, Ref +5, Will +8 (+2 vs. fear)
+- **Defenses**: Fort 21, Ref 15, Will 18 (+2 vs. fear)
 - **Abilities**: Str 20, Dex 13, Con 14, Int 12, Wis 10, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Craft|Craft]] (ships) +5, [[rangoric-srd/skills/Engineering|Engineering]] +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Linguistics|Linguistics]] +5, [[rangoric-srd/skills/Mysticism|Mysticism]] +16, [[rangoric-srd/skills/Nature|Nature]] +10, [[rangoric-srd/skills/Perception|Perception]] +10, Perform (keyboard instruments) +5, [[rangoric-srd/skills/Persuasion|Persuasion]] +10, [[rangoric-srd/skills/Profession|Profession]] (merchant) +5, [[rangoric-srd/skills/Profession|Profession]] (sailor) +21, [[rangoric-srd/skills/Society|Society]] +10
 - **Feats**: [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Greater Weapon Focus|Greater Weapon Focus]] (trident), [[rangoric-srd/feats/Master Craftsman|Master Craftsman]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Profession \[sailor\]), [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Strike Back|Strike Back]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (trident), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (trident)

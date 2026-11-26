@@ -15,7 +15,7 @@ full-attack: "Serving tray +1 melee (1d4); or frying pan +1 melee (1d6 plus 1 fi
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "—"
-saves: "Fort +0, Ref +1, Will –1"
+defenses: "Fort 10, Ref 11, Will 9"
 abilities: "Str 10, Dex 12, Con 11, Int 10, Wis 9, Cha 13"
 skills: "Perception +4, Perform (dance) +3, Profession (barmaid) +4, Profession (cook) +3, Sleight of Hand +2"
 skill-ranks: "Perception 2, Perform (dance) 3, Profession (barmaid) 1, Profession (cook) 3, Sleight of Hand 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: —
-- **Saves**: Fort +0, Ref +1, Will –1
+- **Defenses**: Fort 10, Ref 11, Will 9
 - **Abilities**: Str 10, Dex 12, Con 11, Int 10, Wis 9, Cha 13
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +4, Perform (dance) +3, [[rangoric-srd/skills/Profession|Profession]] (barmaid) +4, [[rangoric-srd/skills/Profession|Profession]] (cook) +3, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +2
 - **Feats**: [[rangoric-srd/feats/Catch Off-Guard|Catch Off-Guard]], [[rangoric-srd/feats/Throw Anything|Throw Anything]]

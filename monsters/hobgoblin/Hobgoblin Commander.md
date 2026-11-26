@@ -16,7 +16,7 @@ full-attack: "+1 shock katana +18/+13/+8 melee (1d8+4/15–20 plus 1d6 electrici
 space-reach: "5 ft./5 ft."
 special-attacks: "Banner +3/+2, challenge (+13, DR 4/-, 5/day), demanding challenge"
 special-qualities: "Darkvision 60 ft., greater resolve, honorable stand 1/day, resolve 7/day, mount (horse), mounted archer, order of the warrior (honor in all things 3/day, way of the samurai), weapon expertise (katana)"
-saves: "Fort +13, Ref +6, Will +8"
+defenses: "Fort 23, Ref 16, Will 18"
 abilities: "Str 16, Dex 10, Con 16, Int 12, Wis 10, Cha 15"
 skills: "Animal Handling +18, Intimidation +18, Persuasion +18, Society +17, Stealth –3"
 skill-ranks: "Animal Handling 13, Intimidation 13, Persuasion 13, Society 13, Stealth 0"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Samurai#^samurai-banner|Banner]] +3/+2, [[rangoric-srd/classes/Samurai#^samurai-challenge|challenge]] (+13, DR 4/-, 5/day), [[rangoric-srd/classes/Samurai#^samurai-demanding-challenge|demanding challenge]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Samurai#^samurai-greater-resolve|greater resolve]], [[rangoric-srd/classes/Samurai#^samurai-honorable-stand|honorable stand]] 1/day, [[rangoric-srd/classes/Samurai#^samurai-resolve|resolve]] 7/day, [[rangoric-srd/classes/Samurai#^samurai-mount|mount]] ([[rangoric-srd/monsters/Commander's Warhorse|horse]]), [[rangoric-srd/classes/Samurai#^samurai-mounted-archer|mounted archer]], [[rangoric-srd/class-options/orders/Order of the Warrior|order of the warrior]] ([[rangoric-srd/class-options/orders/Order of the Warrior|honor in all things]] 3/day, [[rangoric-srd/class-options/orders/Order of the Warrior|way of the samurai]]), [[rangoric-srd/classes/Samurai#^samurai-weapon-expertise|weapon expertise]] (katana)
-- **Saves**: Fort +13, Ref +6, Will +8
+- **Defenses**: Fort 23, Ref 16, Will 18
 - **Abilities**: Str 16, Dex 10, Con 16, Int 12, Wis 10, Cha 15
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +18, [[rangoric-srd/skills/Intimidation|Intimidation]] +18, [[rangoric-srd/skills/Persuasion|Persuasion]] +18, [[rangoric-srd/skills/Society|Society]] +17, [[rangoric-srd/skills/Stealth|Stealth]] –3
 - **Feats**: [[rangoric-srd/feats/Chain Challenge|Chain Challenge]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (katana), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mounted Archery|Mounted Archery]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (katana)

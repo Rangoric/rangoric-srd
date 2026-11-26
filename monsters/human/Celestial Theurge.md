@@ -14,9 +14,9 @@ cmd: "21"
 attack: "+1 spear +13 melee (1d8+7/×3) or masterwork heavy crossbow +6 ranged (1d10/19–20)"
 full-attack: "+1 spear +13 melee (1d8+7/×3); or masterwork heavy crossbow +6 ranged (1d10/19–20)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Channel positive energy 6/day (DC 12 [DC 14 against undead], 2d6), turn undead, glorious turning (+2 on turning checks, +1d6 turning damage)"
+special-attacks: "Channel positive energy 6/day (+2 vs Will [+4 against undead], 2d6), turn undead, glorious turning (+2 on turning checks, +1d6 turning damage)"
 special-qualities: "Aura, bloodline arcana (summoned creatures gain DR 2/evil), combined spells (1st), resistance to acid 5 and cold 5"
-saves: "Fort +7, Ref +3, Will +13"
+defenses: "Fort 17, Ref 13, Will 23"
 abilities: "Str 22, Dex 10, Con 14, Int 8, Wis 14, Cha 12"
 skills: "Arcana +5, Mysticism +3, Perception +8, Persuasion +7, Society +4, Theology +5"
 skill-ranks: "Arcana 3, Mysticism 1, Perception 3, Persuasion 3, Society 2, Theology 3"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: +1 [[rangoric-srd/equipment/weapons/Spear|spear]] +13 melee (1d8+7/×3) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Heavy Crossbow|heavy crossbow]] +6 ranged (1d10/19–20)
 - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Spear|spear]] +13 melee (1d8+7/×3); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Heavy Crossbow|heavy crossbow]] +6 ranged (1d10/19–20)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel positive energy]] 6/day (DC 12 \[DC 14 against undead\], 2d6), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|turn undead]], [[rangoric-srd/class-options/domains/Glory Domain|glorious turning]] (+2 on turning checks, +1d6 turning damage)
+- **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel positive energy]] 6/day (+2 vs Will \[+4 against undead\], 2d6), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|turn undead]], [[rangoric-srd/class-options/domains/Glory Domain|glorious turning]] (+2 on turning checks, +1d6 turning damage)
 - **Special Qualities**: [[rangoric-srd/classes/Cleric#^cleric-aura|Aura]], [[rangoric-srd/class-options/bloodlines/Celestial Bloodline|bloodline arcana]] (summoned creatures gain DR 2/evil), [[rangoric-srd/prestige-classes/Mystic Theurge|combined spells]] (1st), [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 5 and cold 5
-- **Saves**: Fort +7, Ref +3, Will +13
+- **Defenses**: Fort 17, Ref 13, Will 23
 - **Abilities**: Str 22, Dex 10, Con 14, Int 8, Wis 14, Cha 12
 - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +5, [[rangoric-srd/skills/Mysticism|Mysticism]] +3, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Society|Society]] +4, [[rangoric-srd/skills/Theology|Theology]] +5
 - **Feats**: [[rangoric-srd/feats/Arcane Armor Mastery|Arcane Armor Mastery]], [[rangoric-srd/feats/Arcane Armor Training|Arcane Armor Training]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Extra Channel|Extra Channel]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (spear)
@@ -79,4 +79,4 @@ A celestial theurge speaks Common.
 
 **Domain Spell-Like Abilities** (CL 3rd; concentration +5): 5/day—[[rangoric-srd/class-options/domains/Healing Domain|rebuke death]], [[rangoric-srd/class-options/domains/Glory Domain|touch of glory]].
 
-**Sorcerer spells known** (CL 6th; concentration +7; 25% spell failure): 3rd (3/day)—_[[rangoric-srd/spells/Haste|haste]]_; 2nd (5/day)—_[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_, _[[rangoric-srd/spells/Protection from Arrows|protection from arrows]]_; 1st (7/day)—_[[rangoric-srd/spells/Bless|bless]], [[rangoric-srd/spells/Burning Hands|burning hands]]_ (DC 12), _[[rangoric-srd/spells/Enlarge Person|enlarge person]]_, _[[rangoric-srd/spells/Shield|shield]]_, _[[rangoric-srd/spells/True Strike|true strike]]_; 0 (at will)—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Detect Poison|detect poison]]_, _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Mending|mending]]_, _[[rangoric-srd/spells/Message|message]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_; **Bloodline**: [[rangoric-srd/class-options/bloodlines/Celestial Bloodline|celestial]].
+**Sorcerer spells known** (CL 6th; concentration +7; 25% spell failure): 3rd (3/day)—_[[rangoric-srd/spells/Haste|haste]]_; 2nd (5/day)—_[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_, _[[rangoric-srd/spells/Protection from Arrows|protection from arrows]]_; 1st (7/day)—_[[rangoric-srd/spells/Bless|bless]], [[rangoric-srd/spells/Burning Hands|burning hands]]_ (+2 vs Reflex), _[[rangoric-srd/spells/Enlarge Person|enlarge person]]_, _[[rangoric-srd/spells/Shield|shield]]_, _[[rangoric-srd/spells/True Strike|true strike]]_; 0 (at will)—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Detect Poison|detect poison]]_, _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Mending|mending]]_, _[[rangoric-srd/spells/Message|message]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_; **Bloodline**: [[rangoric-srd/class-options/bloodlines/Celestial Bloodline|celestial]].

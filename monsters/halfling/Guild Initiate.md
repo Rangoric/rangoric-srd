@@ -16,7 +16,7 @@ full-attack: "+1 short sword +10 melee (1d4+5/19–20); or masterwork hand cross
 space-reach: "5 ft./5 ft."
 special-attacks: "Sneak attack +3d6, debilitating injury"
 special-qualities: "Evasion, danger sense +1, uncanny dodge, rogue talents (combat trick, slow reactions), trapfinding +2, finesse training (short sword), rogue's edge (Acrobatics)"
-saves: "Fort +4, Ref +11, Will +3 (+2 vs. fear)"
+defenses: "Fort 14, Ref 21, Will 13 (+2 vs. fear)"
 abilities: "Str 10, Dex 18, Con 14, Int 10, Wis 8, Cha 15"
 skills: "Acrobatics +14, Athletics +10 (+6 jumping), Deception +10, Engineering +14, Perception +9, Sleight of Hand +12, Society +8, Stealth +18"
 skill-ranks: "Acrobatics 7, Athletics 7, Deception 5, Engineering 7, Perception 7, Sleight of Hand 5, Society 5, Stealth 5"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +3d6, [[rangoric-srd/classes/Rogue#^rogue-debilitating-injury|debilitating injury]]
 - **Special Qualities**: [[rangoric-srd/classes/Rogue#^rogue-evasion|Evasion]], [[rangoric-srd/classes/Rogue#^rogue-trap-sense|danger sense]] +1, [[rangoric-srd/classes/Rogue#^rogue-uncanny-dodge|uncanny dodge]], [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]] (combat trick, [[rangoric-srd/class-options/rogue-talents/Slow Reactions (Rogue Talent)|slow reactions]]), [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +2, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]] (short sword), [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]] ([[rangoric-srd/skills/Acrobatics|Acrobatics]])
-- **Saves**: Fort +4, Ref +11, Will +3 (+2 vs. fear)
+- **Defenses**: Fort 14, Ref 21, Will 13 (+2 vs. fear)
 - **Abilities**: Str 10, Dex 18, Con 14, Int 10, Wis 8, Cha 15
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +10 (+6 jumping), [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Engineering|Engineering]] +14, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +12, [[rangoric-srd/skills/Society|Society]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +18
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (short sword)

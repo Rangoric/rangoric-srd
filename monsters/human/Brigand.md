@@ -16,7 +16,7 @@ full-attack: "Longsword +3 melee (1d8+1/19–20); or sap +3 melee (1d6+1 nonleth
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "—"
-saves: "Fort +4, Ref +1, Will +0"
+defenses: "Fort 14, Ref 11, Will 10"
 abilities: "Str 13, Dex 13, Con 12, Int 9, Wis 10, Cha 8"
 skills: "Intimidation +4, Stealth +6"
 skill-ranks: "Intimidation 2, Stealth 2"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: —
-- **Saves**: Fort +4, Ref +1, Will +0
+- **Defenses**: Fort 14, Ref 11, Will 10
 - **Abilities**: Str 13, Dex 13, Con 12, Int 9, Wis 10, Cha 8
 - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +6
 - **Feats**: [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)

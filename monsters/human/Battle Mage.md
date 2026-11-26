@@ -15,7 +15,7 @@ full-attack: "Dagger +2 melee (1d4–1/19–20); or wand of shocking grasp +2 me
 space-reach: "5 ft./5 ft."
 special-attacks: "Intense spells +3"
 special-qualities: "Arcane bond (wand)"
-saves: "Fort +3, Ref +4, Will +5"
+defenses: "Fort 13, Ref 14, Will 15"
 abilities: "Str 9, Dex 14, Con 12, Int 17, Wis 10, Cha 13"
 skills: "Acrobatics +11, Animal Handling +6, Arcana +12, Craft (Armor) +10, Craft (Weapons) +10, Engineering +7, Mysticism +12, Perception +6, Society +7"
 skill-ranks: "Acrobatics 6, Animal Handling 1, Arcana 6, Craft (Armor) 4, Craft (Weapons) 4, Engineering 1, Mysticism 6, Perception 3, Society 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/class-options/arcane-schools/Evocation School|Intense spells]] +3
 - **Special Qualities**: [[rangoric-srd/classes/Wizard#^wizard-arcane-bond|Arcane bond]] (wand)
-- **Saves**: Fort +3, Ref +4, Will +5
+- **Defenses**: Fort 13, Ref 14, Will 15
 - **Abilities**: Str 9, Dex 14, Con 12, Int 17, Wis 10, Cha 13
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Arcana|Arcana]] +12, [[rangoric-srd/skills/Craft|Craft]] (Armor) +10, [[rangoric-srd/skills/Craft|Craft]] (Weapons) +10, [[rangoric-srd/skills/Engineering|Engineering]] +7, [[rangoric-srd/skills/Mysticism|Mysticism]] +12, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Society|Society]] +7
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Craft Wand|Craft Wand]], [[rangoric-srd/feats/Defensive Combat Training|Defensive Combat Training]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (evocation)
@@ -70,4 +70,4 @@ A battle mage speaks Common, Draconic, Elven, and Giant.
 
 ### Combat
 
-**Wizard spells prepared** (CL 6th; concentration +9): 3rd—_[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Fly|fly]]_, _[[rangoric-srd/spells/Haste|haste]]_, _[[rangoric-srd/spells/Fireball|fireball]]_(2) (DC 17); 2nd—_[[rangoric-srd/spells/Flaming Sphere|flaming sphere]]_(DC 16), _[[rangoric-srd/spells/Glitterdust|glitterdust]]_(DC 15), _[[rangoric-srd/spells/Mirror Image|mirror image]]_, _[[rangoric-srd/spells/Protection from Arrows|protection from arrows]]_, _[[rangoric-srd/spells/Scorching Ray|scorching ray]]_(DC 16); 1st—_[[rangoric-srd/spells/Burning Hands|burning hands]]_(DC 15), _[[rangoric-srd/spells/Color Spray|color spray]]_(DC 14), _[[rangoric-srd/spells/Expeditious Retreat|expeditious retreat]]_, _[[rangoric-srd/spells/Mage Armor|mage armor]]_ (already cast), _[[rangoric-srd/spells/Shocking Grasp|shocking grasp]]_; 0 (at will)—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Message|message]]_.
+**Wizard spells prepared** (CL 6th; concentration +9): 3rd—_[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Fly|fly]]_, _[[rangoric-srd/spells/Haste|haste]]_, _[[rangoric-srd/spells/Fireball|fireball]]_(2) (+7 vs Reflex); 2nd—_[[rangoric-srd/spells/Flaming Sphere|flaming sphere]]_(+6 vs Reflex), _[[rangoric-srd/spells/Glitterdust|glitterdust]]_(+5 vs Will), _[[rangoric-srd/spells/Mirror Image|mirror image]]_, _[[rangoric-srd/spells/Protection from Arrows|protection from arrows]]_, _[[rangoric-srd/spells/Scorching Ray|scorching ray]]_(+6); 1st—_[[rangoric-srd/spells/Burning Hands|burning hands]]_(+5 vs Reflex), _[[rangoric-srd/spells/Color Spray|color spray]]_(+4 vs Will), _[[rangoric-srd/spells/Expeditious Retreat|expeditious retreat]]_, _[[rangoric-srd/spells/Mage Armor|mage armor]]_ (already cast), _[[rangoric-srd/spells/Shocking Grasp|shocking grasp]]_; 0 (at will)—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Message|message]]_.

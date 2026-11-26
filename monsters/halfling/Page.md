@@ -16,7 +16,7 @@ full-attack: "Dagger –1 melee (1d3–2/19–20)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "—"
-saves: "Fort +0, Ref +3, Will +3 (+2 vs. fear)"
+defenses: "Fort 10, Ref 13, Will 13 (+2 vs. fear)"
 abilities: "Str 6, Dex 15, Con 9, Int 12, Wis 10, Cha 12"
 skills: "Acrobatics +4, Athletics +0, Escape Artist +3, Perception +6, Persuasion +5, Society +5, Stealth +9"
 skill-ranks: "Acrobatics 2, Athletics 2, Escape Artist 1, Perception 3, Persuasion 1, Society 1, Stealth 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: —
-- **Saves**: Fort +0, Ref +3, Will +3 (+2 vs. fear)
+- **Defenses**: Fort 10, Ref 13, Will 13 (+2 vs. fear)
 - **Abilities**: Str 6, Dex 15, Con 9, Int 12, Wis 10, Cha 12
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +4, [[rangoric-srd/skills/Athletics|Athletics]] +0, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +3, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Persuasion|Persuasion]] +5, [[rangoric-srd/skills/Society|Society]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +9
 - **Feats**: [[rangoric-srd/feats/Fleet|Fleet]]

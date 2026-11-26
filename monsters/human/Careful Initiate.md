@@ -14,9 +14,9 @@ cmd: "17"
 attack: "Unarmed strike +3 melee (1d6+1) or kama +3 melee (1d6+1) or unarmed strike flurry of blows +2 melee (1d6+1) or light crossbow +3 ranged (1d8/19–20) or shuriken +3 ranged (1d2+1) or shuriken flurry of blows +2 ranged (1d2+1)"
 full-attack: "Unarmed strike +3 melee (1d6+1); or kama +3 melee (1d6+1); or unarmed strike flurry of blows +2/+2 melee (1d6+1); or light crossbow +3 ranged (1d8/19–20); or shuriken +3 ranged (1d2+1); or shuriken flurry of blows +2/2 ranged (1d2+1)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Flurry of blows, stunning fist (1/day, DC 12)"
+special-attacks: "Flurry of blows, stunning fist (1/day, +2 vs Fortitude)"
 special-qualities: "—"
-saves: "Fort +2, Ref +5, Will +4"
+defenses: "Fort 12, Ref 15, Will 14"
 abilities: "Str 12, Dex 16, Con 10, Int 13, Wis 15, Cha 8"
 skills: "Acrobatics +7, Perception +6, Sense Motive +6, Society +5, Stealth +7, Theology +5"
 skill-ranks: "Acrobatics 1, Perception 1, Sense Motive 1, Society 1, Stealth 1, Theology 1"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +3 melee (1d6+1) or [[rangoric-srd/equipment/weapons/Kama|kama]] +3 melee (1d6+1) or unarmed strike flurry of blows +2 melee (1d6+1) or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +3 ranged (1d8/19–20) or [[rangoric-srd/equipment/weapons/Shuriken|shuriken]] +3 ranged (1d2+1) or shuriken flurry of blows +2 ranged (1d2+1)
 - **Full Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +3 melee (1d6+1); or [[rangoric-srd/equipment/weapons/Kama|kama]] +3 melee (1d6+1); or unarmed strike flurry of blows +2/+2 melee (1d6+1); or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +3 ranged (1d8/19–20); or [[rangoric-srd/equipment/weapons/Shuriken|shuriken]] +3 ranged (1d2+1); or shuriken flurry of blows +2/2 ranged (1d2+1)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/classes/Monk#^monk-flurry-of-blows|Flurry of blows]], [[rangoric-srd/classes/Monk#^monk-stunning-fist|stunning fist]] (1/day, DC 12)
+- **Special Attacks**: [[rangoric-srd/classes/Monk#^monk-flurry-of-blows|Flurry of blows]], [[rangoric-srd/classes/Monk#^monk-stunning-fist|stunning fist]] (1/day, +2 vs Fortitude)
 - **Special Qualities**: —
-- **Saves**: Fort +2, Ref +5, Will +4
+- **Defenses**: Fort 12, Ref 15, Will 14
 - **Abilities**: Str 12, Dex 16, Con 10, Int 13, Wis 15, Cha 8
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6, [[rangoric-srd/skills/Society|Society]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +7, [[rangoric-srd/skills/Theology|Theology]] +5
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Stunning Fist|Stunning Fist]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]

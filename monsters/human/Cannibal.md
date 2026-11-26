@@ -15,7 +15,7 @@ full-attack: "Greatclub +6 melee (1d10+6) and bite +1 melee (1d4+2); or unarmed 
 space-reach: "5 ft./5 ft."
 special-attacks: "Rage (9 rounds/day), rage power (animal fury)"
 special-qualities: "Uncanny dodge, fast movement"
-saves: "Fort +8, Ref +1, Will +3"
+defenses: "Fort 18, Ref 11, Will 13"
 abilities: "Str 19, Dex 13, Con 20, Int 10, Wis 12, Cha 8"
 skills: "Animal Handling +4, Athletics +6, Fieldcraft +6, Perception +6"
 skill-ranks: "Animal Handling 2, Athletics 2, Fieldcraft 2, Perception 2"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (9 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (animal fury)
 - **Special Qualities**: [[rangoric-srd/classes/Barbarian#^barbarian-uncanny-dodge|Uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]]
-- **Saves**: Fort +8, Ref +1, Will +3
+- **Defenses**: Fort 18, Ref 11, Will 13
 - **Abilities**: Str 19, Dex 13, Con 20, Int 10, Wis 12, Cha 8
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +4, [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Perception|Perception]] +6
 - **Feats**: [[rangoric-srd/feats/Improved Grapple|Improved Grapple]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]]

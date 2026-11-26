@@ -16,7 +16,7 @@ full-attack: "+1 rapier +14/+9 melee (1d4+3/17–20) and masterwork handaxe +14/
 space-reach: "5 ft./5 ft."
 special-attacks: "Favored enemy (aquatic humanoids +4, humans +4, magical beasts +2)"
 special-qualities: "Evasion, favored terrain (urban +2, water +4), hunter's bond (companions), swift tracker, track +5, wild empathy +10, woodland stride, resistance to fire 20"
-saves: "Fort +10, Ref +13, Will +7 (+2 vs. fear)"
+defenses: "Fort 20, Ref 23, Will 17 (+2 vs. fear)"
 abilities: "Str 14, Dex 18, Con 12, Int 10, Wis 14, Cha 10"
 skills: "Acrobatics +11, Athletics +17, Fieldcraft +15, Nature +8, Perception +17, Profession (sailor) +10, Society +8, Stealth +23"
 skill-ranks: "Acrobatics 4, Athletics 12, Fieldcraft 10, Nature 5, Perception 12, Profession (sailor) 7, Society 5, Stealth 10"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|Favored enemy]] (aquatic humanoids +4, humans +4, magical beasts +2)
 - **Special Qualities**: [[rangoric-srd/classes/Ranger#^ranger-evasion|Evasion]], [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|favored terrain]] (urban +2, water +4), [[rangoric-srd/classes/Ranger#^ranger-hunters-bond|hunter's bond]] (companions), [[rangoric-srd/classes/Ranger#^ranger-swift-tracker|swift tracker]], [[rangoric-srd/classes/Ranger#^ranger-track|track]] +5, [[rangoric-srd/classes/Ranger#^ranger-wild-empathy|wild empathy]] +10, [[rangoric-srd/classes/Ranger#^ranger-woodland-stride|woodland stride]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 20
-- **Saves**: Fort +10, Ref +13, Will +7 (+2 vs. fear)
+- **Defenses**: Fort 20, Ref 23, Will 17 (+2 vs. fear)
 - **Abilities**: Str 14, Dex 18, Con 12, Int 10, Wis 14, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +17, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +15, [[rangoric-srd/skills/Nature|Nature]] +8, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Profession|Profession]] (sailor) +10, [[rangoric-srd/skills/Society|Society]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +23
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Improved Two-Weapon Fighting|Improved Two-Weapon Fighting]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Track|Track]], [[rangoric-srd/feats/Two-Weapon Defense|Two-Weapon Defense]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]

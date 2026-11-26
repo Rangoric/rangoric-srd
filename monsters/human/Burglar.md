@@ -15,7 +15,7 @@ full-attack: "Sap +3 melee (1d6+3 nonlethal); or dagger +3 melee (1d4+1/19–20)
 space-reach: "5 ft./5 ft."
 special-attacks: "Sneak attack +2d6"
 special-qualities: "Evasion, danger sense +1, rogue talent (quick disable), trapfinding +1, finesse training (sap)"
-saves: "Fort +2, Ref +6, Will +1"
+defenses: "Fort 12, Ref 16, Will 11"
 abilities: "Str 13, Dex 17, Con 12, Int 14, Wis 10, Cha 8"
 skills: "Acrobatics +9, Appraise +8, Athletics +9, Deception +5, Engineering +14, Escape Artist +9, Imitation +5, Perception +9 (+10 to find traps), Sleight of Hand +9, Society +8, Stealth +12"
 skill-ranks: "Acrobatics 3, Appraise 3, Athletics 5, Deception 3, Engineering 7, Escape Artist 5, Imitation 3, Perception 6, Sleight of Hand 5, Society 3, Stealth 5"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +2d6
 - **Special Qualities**: [[rangoric-srd/classes/Rogue#^rogue-evasion|Evasion]], [[rangoric-srd/classes/Rogue#^rogue-trap-sense|danger sense]] +1, [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] ([[rangoric-srd/class-options/rogue-talents/Quick Disable (Rogue Talent)|quick disable]]), [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +1, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]] (sap)
-- **Saves**: Fort +2, Ref +6, Will +1
+- **Defenses**: Fort 12, Ref 16, Will 11
 - **Abilities**: Str 13, Dex 17, Con 12, Int 14, Wis 10, Cha 8
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Appraise|Appraise]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Deception|Deception]] +5, [[rangoric-srd/skills/Engineering|Engineering]] +14, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +9, [[rangoric-srd/skills/Imitation|Imitation]] +5, [[rangoric-srd/skills/Perception|Perception]] +9 (+10 to find traps), [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +9, [[rangoric-srd/skills/Society|Society]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +12
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Engineering, Perception, Stealth)

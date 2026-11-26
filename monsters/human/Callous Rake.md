@@ -16,7 +16,7 @@ full-attack: "Longsword +5 melee (1d8+3/19â€“20); or dagger +2 ranged (1d4+3/19â
 space-reach: "5 ft./5 ft."
 special-attacks: "Smite evil 1/day (+2 attack and AC, +1 damage)"
 special-qualities: "Aura, code of conduct"
-saves: "Fort +3, Ref +1, Will +2"
+defenses: "Fort 13, Ref 11, Will 12"
 abilities: "Str 17, Dex 12, Con 13, Int 8, Wis 10, Cha 14"
 skills: "Intimidation +3, Sense Motive +4"
 skill-ranks: "Intimidation 1, Sense Motive 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Paladin#^paladin-smite-evil|Smite evil]] 1/day (+2 attack and AC, +1 damage)
 - **Special Qualities**: [[rangoric-srd/classes/Paladin|Aura]], [[rangoric-srd/classes/Paladin#^paladin-code-of-conudct|code of conduct]]
-- **Saves**: Fort +3, Ref +1, Will +2
+- **Defenses**: Fort 13, Ref 11, Will 12
 - **Abilities**: Str 17, Dex 12, Con 13, Int 8, Wis 10, Cha 14
 - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +3, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +4
 - **Feats**: [[rangoric-srd/feats/Dazzling Display|Dazzling Display]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longsword)

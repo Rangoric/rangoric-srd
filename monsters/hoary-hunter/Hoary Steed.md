@@ -18,7 +18,7 @@ full-attack: "2 hooves +17 (3d6+6) melee, bite +15 (5d8+3) melee"
 space-reach: "10 ft./5 ft."
 special-attacks: "-"
 special-qualities: "Cold immunity, fire vulnerability, air walk, astral projection and etherealness, magic circle against good, misty breath, SR 20, DR 5/magic and cold iron, immunities"
-saves: "Fort +11, Ref +12, Will +5"
+defenses: "Fort 21, Ref 22, Will 15"
 abilities: "Str 22, Dex 18, Con 17, Int 6, Wis 13, Cha 14"
 skills: "Athletics +11 (+15 jumping), Perception +20"
 skill-ranks: "Athletics 2, Perception 10"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: -
 - **Special Qualities**: Cold immunity, [[rangoric-srd/monsters/abilities/Vulnerabilities|fire vulnerability]], [[rangoric-srd/spells/Air Walk|air walk]], [[rangoric-srd/spells/Astral Projection|astral projection]] and [[rangoric-srd/spells/Etherealness|etherealness]], [[rangoric-srd/spells/Magic Circle against Good|magic circle against good]], misty breath, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 20, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 5/magic and cold iron, immunities
-- **Saves**: Fort +11, Ref +12, Will +5
+- **Defenses**: Fort 21, Ref 22, Will 15
 - **Abilities**: Str 22, Dex 18, Con 17, Int 6, Wis 13, Cha 14
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11 (+15 jumping), [[rangoric-srd/skills/Perception|Perception]] +20
 - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

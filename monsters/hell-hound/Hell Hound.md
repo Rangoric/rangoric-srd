@@ -14,9 +14,9 @@ cmd: "16 (20 vs. trip)"
 attack: "Bite +5 melee (1d8+1 plus 1d6 fire)"
 full-attack: "Bite +5 melee (1d8+1 plus 1d6 fire)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Breath weapon (10-ft. cone, once every 2d4 rounds, 2d6 fire damage, Reflex DC 14 for half)"
+special-attacks: "Breath weapon (10-ft. cone, once every 2d4 rounds, 2d6 fire damage, +4 vs Reflex; a miss halves)"
 special-qualities: "Darkvision 60 ft., scent, immunity to fire, vulnerability to cold"
-saves: "Fort +6, Ref +5, Will +1"
+defenses: "Fort 16, Ref 15, Will 11"
 abilities: "Str 13, Dex 13, Con 15, Int 6, Wis 10, Cha 6"
 skills: "Acrobatics +8, Fieldcraft +7, Perception +7, Stealth +13"
 skill-ranks: "Acrobatics 4, Fieldcraft 4, Perception 4, Stealth 4"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +5 melee (1d8+1 plus 1d6 fire)
 - **Full Attack**: Bite +5 melee (1d8+1 plus 1d6 fire)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (10-ft. cone, once every 2d4 rounds, 2d6 fire damage, Reflex DC 14 for half)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (10-ft. cone, once every 2d4 rounds, 2d6 fire damage, +4 vs Reflex; a miss halves)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, vulnerability to cold
-- **Saves**: Fort +6, Ref +5, Will +1
+- **Defenses**: Fort 16, Ref 15, Will 11
 - **Abilities**: Str 13, Dex 13, Con 15, Int 6, Wis 10, Cha 6
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +13
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Run|Run]]
