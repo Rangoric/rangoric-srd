@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/magic-item]
 
 # Elixir of Dragon Breath
 
-This gurgling, luminescent elixir comes in several different varieties, each keyed to a particular type of metallic or chromatic dragon. A creature that drinks the elixir can, as a standard action, breathe out a single blast of energy similar to a [[rangoric-srd/monsters/Dragon, True|dragon]]'s [[rangoric-srd/rules/Special Abilities and Conditions#Breath Weapon|breath weapon]], dealing 7d6 points of energy damage. Creatures in the area may attempt a DC 16 Reflex save for half damage. The magic of the elixir ends after one use of the breath weapon or after 1 hour has passed, whichever comes first. The type of energy produced and the shape of the blast are determined by the elixir's associated dragon type:
+This gurgling, luminescent elixir comes in several different varieties, each keyed to a particular type of metallic or chromatic dragon. A creature that drinks the elixir can, as a standard action, breathe out a single blast of energy similar to a [[rangoric-srd/monsters/Dragon, True|dragon]]'s [[rangoric-srd/rules/Special Abilities and Conditions#Breath Weapon|breath weapon]], dealing 7d6 points of energy damage. The breath attacks the Reflex of creatures in the area at +6, and a miss halves the damage. The magic of the elixir ends after one use of the breath weapon or after 1 hour has passed, whichever comes first. The type of energy produced and the shape of the blast are determined by the elixir's associated dragon type:
 
 **Black or copper dragon**: 30-foot line of acid.
 

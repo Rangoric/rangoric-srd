@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Hexing Doll
 
-This malevolent-looking doll is made out of cheap rags and embroidery thread and is stuffed with straw or sawdust. A creature holding or carrying the doll takes a –4 penalty on saving throws against [[rangoric-srd/classes/Witch|witch]] [[rangoric-srd/classes/Witch#^witch-hex|hexes]]. Alternatively, if the doll is stuffed with the hair of a creature, any witch holding the doll increases the DC of her hexes by +2 when using the hexes against that creature. A doll used in this way does not cause the witch to take a penalty on her saving throws.
+This malevolent-looking doll is made out of cheap rags and embroidery thread and is stuffed with straw or sawdust. A creature holding or carrying the doll takes a –4 penalty on defenses against [[rangoric-srd/classes/Witch|witch]] [[rangoric-srd/classes/Witch#^witch-hex|hexes]]. Alternatively, if the doll is stuffed with the hair of a creature, any witch holding the doll increases the DC of her hexes by +2 when using the hexes against that creature. A doll used in this way does not cause the witch to take a penalty on her defenses.
 
 Faint enchantment; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Bestow Curse|bestow curse]]_; Price 2,500 gp; Cost 1,250 gp; Weight 1 lb.

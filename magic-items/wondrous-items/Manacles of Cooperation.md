@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Manacles of Cooperation
 
-These tight iron cuffs can fit over the wrists of any Large or smaller humanoid. When placed on a [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]] humanoid, they make the captive more docile and compliant. The prisoner never attempts to escape of its own volition and agrees to any reasonable request unless it succeeds at a DC 11 Will saving throw.
+These tight iron cuffs can fit over the wrists of any Large or smaller humanoid. When placed on a [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]] humanoid, they make the captive more docile and compliant. The prisoner never attempts to escape of its own volition and agrees to any reasonable request unless a +1 attack against its Will misses.
 
 Faint enchantment (charm); CL 1st; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Charm Person|charm person]]_; Price 2,000 gp; Cost 1,000 gp; Weight 2 lbs.

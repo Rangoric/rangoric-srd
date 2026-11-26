@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Elixir of Love
 
-This sweet-tasting liquid causes the character drinking it to become charmed with the first creature she sees after consuming the draft (as charm person—the drinker must be a humanoid of Medium or smaller size, Will DC 14 negates). The charm effects wear off in 1d3 hours.
+This sweet-tasting liquid causes the character drinking it to become charmed with the first creature she sees after consuming the draft (as charm person—the drinker must be a humanoid of Medium or smaller size, +4 vs Will). The charm effects wear off in 1d3 hours.
 
 Faint transmutation; CL 4th; Craft Wondrous Item, charm person; Price 150 gp.

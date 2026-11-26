@@ -20,17 +20,17 @@ tags: [rangoric, rangoric/magic-item]
 
 # Naga-Scale Bindi
 
-This shining, jewel-like scale is usually worn on the forehead between the eyebrows, though a creature can affix the scale to any part of her body by pressing it to her skin and speaking its command word. Once affixed, the scale causes the creature to take on the attributes of a particular type of [[rangoric-srd/monsters/naga/Naga|naga]], chosen when the scale was created. Her skin becomes scaly, her eyes slitted and reptilian, her tongue forked, and her neck lengthens and distends until it resembles a cobra's hood. The creature gains a +4 bonus to her natural armor, [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 feet, and a poisonous bite attack that deals 1d4 points of damage (1d3 for a Small creature). Bite—injury; _save_ Fort DC 19; _frequency_ 1/round for 6 rounds; _effect_ varies by the scale's naga type (see below); _cure_ 1 save. Each scale also grants its wearer access to a special ability, as follows:
+This shining, jewel-like scale is usually worn on the forehead between the eyebrows, though a creature can affix the scale to any part of her body by pressing it to her skin and speaking its command word. Once affixed, the scale causes the creature to take on the attributes of a particular type of [[rangoric-srd/monsters/naga/Naga|naga]], chosen when the scale was created. Her skin becomes scaly, her eyes slitted and reptilian, her tongue forked, and her neck lengthens and distends until it resembles a cobra's hood. The creature gains a +4 bonus to her natural armor, [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 feet, and a poisonous bite attack that deals 1d4 points of damage (1d3 for a Small creature). Bite—injury; _attack_ +9 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ varies by the scale's naga type (see below); _cure_ 1 miss. Each scale also grants its wearer access to a special ability, as follows:
 
-**Dark naga**: The wearer gains a +8 bonus on saves made to resist any form of mind reading and a +2 bonus against charm effects. _Poison effect_: sleep for 1 round.
+**Dark naga**: The wearer gains a +8 bonus on defenses against any form of mind reading and a +2 bonus against charm effects. _Poison effect_: sleep for 1 round.
 
-**Guardian naga**: The wearer can spit venom up to 30 feet as a standard action. This is a ranged touch attack with no range increment. Opponents hit by this attack must make saves to avoid the poison's effect. _Poison effect_: 1d2 Con damage.
+**Guardian naga**: The wearer can spit venom up to 30 feet as a standard action. This is a ranged touch attack with no range increment. The poison then attacks opponents hit by this attack. _Poison effect_: 1d2 Con damage.
 
-**Spirit naga**: Once per minute, the wearer can attempt to charm a single creature within 30 feet, as the spell _[[rangoric-srd/spells/Charm Person|charm person]]_ (Will DC 19 negates). _Poison effect_: 1d4 Con damage.
+**Spirit naga**: Once per minute, the wearer can attempt to charm a single creature within 30 feet, as the spell _[[rangoric-srd/spells/Charm Person|charm person]]_ (+9 vs Will). _Poison effect_: 1d4 Con damage.
 
-**[[rangoric-srd/monsters/naga/Lunar Naga|Lunar naga]]**: Once per day, the wearer can spend a standard action to [[rangoric-srd/rules/Special Abilities and Conditions#^fascinated|fascinate]] all creatures within 30 feet, as per the spell _[[rangoric-srd/spells/Hypnotism|hypnotism]]_ (Will DC 19 negates). _Poison effect_: 1d3 Con and 1 Wis.
+**[[rangoric-srd/monsters/naga/Lunar Naga|Lunar naga]]**: Once per day, the wearer can spend a standard action to [[rangoric-srd/rules/Special Abilities and Conditions#^fascinated|fascinate]] all creatures within 30 feet, as per the spell _[[rangoric-srd/spells/Hypnotism|hypnotism]]_ (+9 vs Will). _Poison effect_: 1d3 Con and 1 Wis.
 
-**[[rangoric-srd/monsters/naga/Royal Naga|Royal naga]]**: Once per day, the wearer can attempt to blind or deafen a single creature within 30 feet, as the spell _[[rangoric-srd/spells/Blindness-Deafness|blindness/deafness]]_ (Will DC 19 negates). _Poison effect_: 1d6 [[rangoric-srd/rules/conditions/Bleed (Condition)|bleed]].
+**[[rangoric-srd/monsters/naga/Royal Naga|Royal naga]]**: Once per day, the wearer can attempt to blind or deafen a single creature within 30 feet, as the spell _[[rangoric-srd/spells/Blindness-Deafness|blindness/deafness]]_ (+9 vs Will). _Poison effect_: 1d6 [[rangoric-srd/rules/conditions/Bleed (Condition)|bleed]].
 
 **Water naga**: The wearer gains a swim speed equal to its base land speed, and can breathe water or air. _Poison effect_: 1 Con.
 

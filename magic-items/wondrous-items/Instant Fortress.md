@@ -21,7 +21,7 @@ This metal cube is small, but when activated by speaking a command word it grows
 
 The adamantine walls of instant fortress have 100 hit points and hardness 20. The fortress cannot be repaired except by a wish or a miracle, which restores 50 points of damage taken.
 
-The fortress springs up in just 1 round, with the door facing the device’s owner. The door opens and closes instantly at his command. People and creatures nearby (except the owner) must be careful not to be caught by the fortress’s sudden growth. Anyone so caught takes 10d10 points of damage (Reflex DC 19 half ).
+The fortress springs up in just 1 round, with the door facing the device’s owner. The door opens and closes instantly at his command. People and creatures nearby (except the owner) must be careful not to be caught by the fortress’s sudden growth. Anyone so caught takes 10d10 points of damage (+9 vs Reflex; a miss halves).
 
 The fortress is deactivated by speaking a command word (different from the one used to activate it). It cannot be deactivated unless it is empty.
 

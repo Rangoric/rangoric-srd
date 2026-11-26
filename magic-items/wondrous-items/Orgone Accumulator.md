@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/magic-item]
 
 This cabinet, the size of a large upright chest, is made of alternating layers of cold iron sheets and cypress slats insulated with sheep's wool, with just enough room inside for a Medium creature to sit on a small wooden seat. It draws in and focuses atmospheric energy to restore those who can cast psychic magic.
 
-Using it means spending hours inside it meditating: the creature must stay conscious and do nothing but meditate. A creature inside that does so gains a +2 bonus on saving throws to recover from curses, diseases and poisons. The accumulator can also be used with the [[rangoric-srd/skills/Medicine#Faith Healing|faith healing]] occult skill unlock: if the subject is inside it, the creature attempting the Medicine check gains a +2 circumstance bonus.
+Using it means spending hours inside it meditating: the creature must stay conscious and do nothing but meditate. A creature inside that does so gains a +2 bonus on defenses to recover from curses, diseases and poisons. The accumulator can also be used with the [[rangoric-srd/skills/Medicine#Faith Healing|faith healing]] occult skill unlock: if the subject is inside it, the creature attempting the Medicine check gains a +2 circumstance bonus.
 
 A creature can also concentrate inside the box to gain the benefits of restorative spells. Each spell below lists how long the user must meditate inside; at the end of that time, she attempts a Wisdom check with the listed DC to gain the spell's benefit. A creature with the [[rangoric-srd/feats/Psychic Sensitivity|Psychic Sensitivity]] feat or levels in an occult class gains a +2 bonus on this Wisdom check.
 

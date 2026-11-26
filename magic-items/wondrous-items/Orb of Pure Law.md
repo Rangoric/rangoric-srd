@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/magic-item]
 
 # Orb of Pure Law
 
-This featureless gray stone is perfectly smooth and flawlessly polished. The bearer of an _orb of pure law_ gains a +4 deflection bonus to AC against attacks from chaotic creatures and a +4 resistance bonus on saving throws against polymorph effects, effects with the chaotic descriptor, and effects that inflict the [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]] condition.
+This featureless gray stone is perfectly smooth and flawlessly polished. The bearer of an _orb of pure law_ gains a +4 deflection bonus to AC against attacks from chaotic creatures and a +4 resistance bonus on defenses against polymorph effects, effects with the chaotic descriptor, and effects that inflict the [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]] condition.
 
 When held in hand, the bearer of the orb may use _[[rangoric-srd/spells/Detect Chaos|detect chaos]]_ and _[[rangoric-srd/spells/Detect Law|detect law]]_ at will. A lawful creature may hold the orb in hand and command it to invoke _[[rangoric-srd/spells/Dispel Chaos|dispel chaos]]_ and _[[rangoric-srd/spells/Arrow of Law|arrow of law]]_ each once per day.
 

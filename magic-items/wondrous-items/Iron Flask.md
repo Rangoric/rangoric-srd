@@ -18,11 +18,11 @@ tags: [rangoric, rangoric/magic-item]
 
 # Iron Flask
 
-These special containers are typically inlaid with runes of silver and stoppered by a brass plug bearing a seal engraved with sigils, glyphs, and special symbols. When the user speaks the command word, he can force any creature from another plane into the container, provided that creature fails a DC 19 Will save. The range of this effect is 60 feet. Only one creature at a time can be so contained. Loosing the stopper frees the captured creature.
+These special containers are typically inlaid with runes of silver and stoppered by a brass plug bearing a seal engraved with sigils, glyphs, and special symbols. When the user speaks the command word, he can force any creature from another plane into the container, if the flask hits its Will (+9). The range of this effect is 60 feet. Only one creature at a time can be so contained. Loosing the stopper frees the captured creature.
 
 The command word can be given only once per day.
 
-If the individual freeing the captured creature speaks the command word, the creature can be forced to serve for 1 hour. If freed without the command word, the creature acts according to its natural inclinations. (It usually attacks the user, unless it perceives a good reason not to.) Any attempt to force the same creature into the flask a second time provides it a +2 bonus on its saving throw and makes it hostile. A newly discovered bottle might contain any of the following:
+If the individual freeing the captured creature speaks the command word, the creature can be forced to serve for 1 hour. If freed without the command word, the creature acts according to its natural inclinations. (It usually attacks the user, unless it perceives a good reason not to.) Any attempt to force the same creature into the flask a second time provides it a +2 bonus on its Will Defense and makes it hostile. A newly discovered bottle might contain any of the following:
 
 | d%    | Contents              | d%  | Contents                                                   |
 | ----- | --------------------- | --- | ---------------------------------------------------------- |

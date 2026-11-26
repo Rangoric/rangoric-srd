@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Halo of Inner Calm
 
-This silvery ring looks like a halo. When worn by a [[rangoric-srd/races/Tiefling|tiefling]] it hovers just above his head, though it still uses the head magic item slot. It helps to calm the baser emotions and the dark whispers that plague tieflings, granting the wearer a +4 resistance bonus on saving throws against all spells with the emotion descriptor. When worn by a tiefling of a good alignment, it provides spell resistance 13 against spells with the evil descriptor and a +2 sacred bonus on saving throws.
+This silvery ring looks like a halo. When worn by a [[rangoric-srd/races/Tiefling|tiefling]] it hovers just above his head, though it still uses the head magic item slot. It helps to calm the baser emotions and the dark whispers that plague tieflings, granting the wearer a +4 resistance bonus on defenses against all spells with the emotion descriptor. When worn by a tiefling of a good alignment, it provides spell resistance 13 against spells with the evil descriptor and a +2 sacred bonus on defenses.
 
 Strong abjuration; CL 15th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Holy Aura|holy aura]]_, creator must be a tiefling of good alignment; Price 16,000 gp; Cost 8,000 gp; Weight 1 lb.
