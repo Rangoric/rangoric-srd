@@ -16,7 +16,7 @@ full-attack: "+1 spear +8 melee (1d8+4/×3); or masterwork sap +7 melee (1d6+2 n
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "—"
-saves: "Fort +5, Ref +4, Will +6"
+defenses: "Fort 15, Ref 14, Will 16"
 abilities: "Str 14, Dex 11, Con 13, Int 10, Wis 10, Cha 9"
 skills: "Animal Handling +5, Athletics +6, Intimidation +3, Perception +15, Sense Motive +9, Society +6"
 skill-ranks: "Animal Handling 2, Athletics 1, Intimidation 1, Perception 11, Sense Motive 8, Society 3"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: —
-- **Saves**: Fort +5, Ref +4, Will +6
+- **Defenses**: Fort 15, Ref 14, Will 16
 - **Abilities**: Str 14, Dex 11, Con 13, Int 10, Wis 10, Cha 9
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Intimidation|Intimidation]] +3, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Society|Society]] +6
 - **Feats**: [[rangoric-srd/feats/Armor Proficiency (Light)|Armor Proficiency (Light)]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Martial Weapon Proficiency|Martial Weapon Proficiency]] (sap), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (spear)

@@ -15,7 +15,7 @@ full-attack: "Masterwork rapier +18/+13/+8 melee (1d6+2/18–20); or masterwork 
 space-reach: "5 ft./5 ft."
 special-attacks: "Favored enemy (humanoids [human] +6, humanoids [elf] +2, humanoids [halfling] +2), quarry"
 special-qualities: "Evasion, camouflage, favored terrain (urban +4, underground +2), hunter's bond (tiger animal companion), swift tracker, track +6, wild empathy +11, woodland stride"
-saves: "Fort +10, Ref +13, Will +5"
+defenses: "Fort 20, Ref 23, Will 15"
 abilities: "Str 14, Dex 20, Con 14, Int 10, Wis 13, Cha 8"
 skills: "Animal Handling +14, Athletics +10, Craft (traps) +10, Fieldcraft +16 (+22 to follow tracks), Intimidation +14, Linguistics +2, Medicine +5, Nature +5, Perception +16, Society +5, Stealth +24"
 skill-ranks: "Animal Handling 12, Athletics 5, Craft (traps) 7, Fieldcraft 12, Intimidation 12, Linguistics 2, Medicine 1, Nature 2, Perception 12, Society 2, Stealth 16"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|Favored enemy]] (humanoids \[human\] +6, humanoids \[elf\] +2, humanoids \[halfling\] +2), [[rangoric-srd/classes/Ranger#^ranger-quarry|quarry]]
 - **Special Qualities**: [[rangoric-srd/classes/Ranger#^ranger-evasion|Evasion]], [[rangoric-srd/classes/Ranger#^ranger-camouflage|camouflage]], [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|favored terrain]] (urban +4, underground +2), [[rangoric-srd/classes/Ranger#^ranger-hunters-bond|hunter's bond]] (tiger animal companion), [[rangoric-srd/classes/Ranger#^ranger-swift-tracker|swift tracker]], [[rangoric-srd/classes/Ranger#^ranger-track|track]] +6, [[rangoric-srd/classes/Ranger#^ranger-wild-empathy|wild empathy]] +11, [[rangoric-srd/classes/Ranger#^ranger-woodland-stride|woodland stride]]
-- **Saves**: Fort +10, Ref +13, Will +5
+- **Defenses**: Fort 20, Ref 23, Will 15
 - **Abilities**: Str 14, Dex 20, Con 14, Int 10, Wis 13, Cha 8
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Craft|Craft]] (traps) +10, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +16 (+22 to follow tracks), [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Linguistics|Linguistics]] +2, [[rangoric-srd/skills/Medicine|Medicine]] +5, [[rangoric-srd/skills/Nature|Nature]] +5, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Society|Society]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +24
 - **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Improved Precise Shot|Improved Precise Shot]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Manyshot|Manyshot]], [[rangoric-srd/feats/Pinpoint Targeting|Pinpoint Targeting]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Track|Track]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -68,4 +68,4 @@ A bounty hunter speaks Common, Elven, and Halfling.
 
 ### Combat
 
-**Ranger spells prepared** (CL 9th; concentration +10): 3rd—_[[rangoric-srd/spells/Plant Growth|plant growth]]_; 2nd—_[[rangoric-srd/spells/Barkskin|barkskin]]_, _[[rangoric-srd/spells/Protection from Energy|protection from energy]]_; 1st—_[[rangoric-srd/spells/Delay Poison|delay poison]]_, _[[rangoric-srd/spells/Entangle|entangle]]_ (DC 12), _[[rangoric-srd/spells/Longstrider|longstrider]]_.
+**Ranger spells prepared** (CL 9th; concentration +10): 3rd—_[[rangoric-srd/spells/Plant Growth|plant growth]]_; 2nd—_[[rangoric-srd/spells/Barkskin|barkskin]]_, _[[rangoric-srd/spells/Protection from Energy|protection from energy]]_; 1st—_[[rangoric-srd/spells/Delay Poison|delay poison]]_, _[[rangoric-srd/spells/Entangle|entangle]]_ (+2 vs Reflex), _[[rangoric-srd/spells/Longstrider|longstrider]]_.

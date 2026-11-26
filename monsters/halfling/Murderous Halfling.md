@@ -16,7 +16,7 @@ full-attack: "Masterwork dagger +9 melee (1d3+3/19–20) and masterwork dagger +
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Bravery +1, armor training 1"
-saves: "Fort +6, Ref —, Will —"
+defenses: "Fort 16, Ref —, Will —"
 abilities: "Str 12, Dex 18, Con 12, Int 13, Wis 10, Cha 10"
 skills: "Acrobatics +10, Athletics +3 (–1 jumping), Deception +4, Perception +6, Sleight of Hand +5, Stealth +13"
 skill-ranks: "Acrobatics 3, Athletics 2, Deception 1, Perception 3, Sleight of Hand 1, Stealth 3"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/classes/Fighter#^fighter-bravery|Bravery]] +1, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1
-- **Saves**: Fort +6, Ref —, Will —
+- **Defenses**: Fort 16, Ref —, Will —
 - **Abilities**: Str 12, Dex 18, Con 12, Int 13, Wis 10, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +3 (–1 jumping), [[rangoric-srd/skills/Deception|Deception]] +4, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +13
 - **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (dagger), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (dagger)

@@ -16,7 +16,7 @@ full-attack: "Dagger +1 melee (1d4–1/19–20); or dagger +3 ranged (1d4–1/19
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "—"
-saves: "Fort +1, Ref +2, Will +1"
+defenses: "Fort 11, Ref 12, Will 11"
 abilities: "Str 8, Dex 13, Con 11, Int 9, Wis 10, Cha 13"
 skills: "Perception +7, Persuasion +6, Sense Motive +4, Society +4"
 skill-ranks: "Perception 3, Persuasion 2, Sense Motive 3, Society 2"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: —
-- **Saves**: Fort +1, Ref +2, Will +1
+- **Defenses**: Fort 11, Ref 12, Will 11
 - **Abilities**: Str 8, Dex 13, Con 11, Int 9, Wis 10, Cha 13
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Persuasion|Persuasion]] +6, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +4, [[rangoric-srd/skills/Society|Society]] +4
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Fleet|Fleet]], [[rangoric-srd/feats/Nimble Moves|Nimble Moves]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

@@ -15,7 +15,7 @@ full-attack: "Sap +3 melee (1d6–1 nonlethal); or dagger +3 melee (1d4–1/19�
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: ""
-saves: "Fort +5, Ref +1, Will +6"
+defenses: "Fort 15, Ref 11, Will 16"
 abilities: "Str 9, Dex 11, Con 10, Int 12, Wis 14, Cha 10"
 skills: "Animal Handling +5, Deception +8, Intimidation +5, Linguistics +6, Perception +10, Perform (comedy) +6, Perform (oratory) +6, Profession (barkeep) +13, Sense Motive +10, Sleight of Hand +5, Society +9"
 skill-ranks: "Animal Handling 2, Deception 5, Intimidation 2, Linguistics 2, Perception 5, Perform (comedy) 2, Perform (oratory) 2, Profession (barkeep) 9, Sense Motive 5, Sleight of Hand 2, Society 5"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**:
-- **Saves**: Fort +5, Ref +1, Will +6
+- **Defenses**: Fort 15, Ref 11, Will 16
 - **Abilities**: Str 9, Dex 11, Con 10, Int 12, Wis 14, Cha 10
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Deception|Deception]] +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Linguistics|Linguistics]] +6, [[rangoric-srd/skills/Perception|Perception]] +10, Perform (comedy) +6, Perform (oratory) +6, [[rangoric-srd/skills/Profession|Profession]] (barkeep) +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +5, [[rangoric-srd/skills/Society|Society]] +9
 - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Rapid Reload|Rapid Reload]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Profession \[barkeep\])

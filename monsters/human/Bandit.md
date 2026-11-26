@@ -15,7 +15,7 @@ full-attack: "Rapier +3 melee (1d6+1/18–20); or sap +3 melee (1d6+1 nonlethal)
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "—"
-saves: "Fort +3, Ref +2, Will –1"
+defenses: "Fort 13, Ref 12, Will 9"
 abilities: "Str 13, Dex 14, Con 11, Int 10, Wis 8, Cha 9"
 skills: "Animal Handling +5, Athletics +4, Intimidation +3, Stealth +2"
 skill-ranks: "Animal Handling 3, Athletics 3, Intimidation 1, Stealth 0"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: —
-- **Saves**: Fort +3, Ref +2, Will –1
+- **Defenses**: Fort 13, Ref 12, Will 9
 - **Abilities**: Str 13, Dex 14, Con 11, Int 10, Wis 8, Cha 9
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +4, [[rangoric-srd/skills/Intimidation|Intimidation]] +3, [[rangoric-srd/skills/Stealth|Stealth]] +2
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]]

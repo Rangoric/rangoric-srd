@@ -16,7 +16,7 @@ full-attack: "+1 bastard sword +13/+8 melee (1d10+5/19–20); or spear +10/+5 me
 space-reach: "5 ft./5 ft."
 special-attacks: "Weapon training (heavy blades +1)"
 special-qualities: "Darkvision 60 ft., bravery +2, armor training 2"
-saves: "Fort +8, Ref +5, Will +4 (+2 vs. fear)"
+defenses: "Fort 18, Ref 15, Will 14 (+2 vs. fear)"
 abilities: "Str 16, Dex 14, Con 15, Int 10, Wis 8, Cha 14"
 skills: "Animal Handling +13, Stealth +4"
 skill-ranks: "Animal Handling 8, Stealth 2"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Fighter#^fighter-weapon-training|Weapon training]] (heavy blades +1)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +2, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 2
-- **Saves**: Fort +8, Ref +5, Will +4 (+2 vs. fear)
+- **Defenses**: Fort 18, Ref 15, Will 14 (+2 vs. fear)
 - **Abilities**: Str 16, Dex 14, Con 15, Int 10, Wis 8, Cha 14
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +4
 - **Feats**: [[rangoric-srd/feats/Exotic Weapon Proficiency|Exotic Weapon Proficiency]] (bastard sword), [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mounted Archery|Mounted Archery]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Ride-By Attack|Ride-By Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Animal Handling), [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bastard sword)

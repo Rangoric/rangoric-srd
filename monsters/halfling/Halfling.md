@@ -17,7 +17,7 @@ full-attack: "Longsword +3 melee (1d6/19–20) or light crossbow +3 ranged (1d6/
 space-reach: "5 ft./5 ft."
 special-attacks: "Halfling traits"
 special-qualities: "Halfling traits"
-saves: "Fort +4, Ref +2, Will +1"
+defenses: "Fort 14, Ref 12, Will 11"
 abilities: "Str 11, Dex 13, Con 12, Int 10, Wis 11, Cha 8"
 skills: "Athletics +4 (–2 jumping), Perception +6, Stealth +5"
 skill-ranks: "Athletics 1, Perception 1, Stealth 0"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Halfling traits
 - **Special Qualities**: Halfling traits
-- **Saves**: Fort +4, Ref +2, Will +1
+- **Defenses**: Fort 14, Ref 12, Will 11
 - **Abilities**: Str 11, Dex 13, Con 12, Int 10, Wis 11, Cha 8
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +4 (–2 jumping), [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +5
 - **Feats**: [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longsword)

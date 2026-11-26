@@ -16,7 +16,7 @@ full-attack: "Masterwork longsword +6 melee (1d8+2/19–20); or flail +5 melee (
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., bravery +1, armor training 1"
-saves: "Fort +6, Ref +3, Will +3 (+1 vs. fear)"
+defenses: "Fort 16, Ref 13, Will 13 (+1 vs. fear)"
 abilities: "Str 15, Dex 14, Con 16, Int 13, Wis 10, Cha 8"
 skills: "Animal Handling +7, Athletics +7, Intimidation +4, Perception +2, Stealth +7"
 skill-ranks: "Animal Handling 2, Athletics 2, Intimidation 2, Perception 2, Stealth 2"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +1, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1
-- **Saves**: Fort +6, Ref +3, Will +3 (+1 vs. fear)
+- **Defenses**: Fort 16, Ref 13, Will 13 (+1 vs. fear)
 - **Abilities**: Str 15, Dex 14, Con 16, Int 13, Wis 10, Cha 8
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +4, [[rangoric-srd/skills/Perception|Perception]] +2, [[rangoric-srd/skills/Stealth|Stealth]] +7
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Motivated March|Motivated March]], [[rangoric-srd/feats/Power Attack|Power Attack]]

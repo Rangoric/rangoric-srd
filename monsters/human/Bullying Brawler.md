@@ -14,9 +14,9 @@ cmd: "19"
 attack: "Unarmed strike +5 melee (1d6+4) or masterwork nunchaku +6 melee (1d6+4) or masterwork nunchaku flurry of blows +4 melee (1d6+4) or light crossbow +2 ranged (1d8/19–20)"
 full-attack: "Unarmed strike +5 melee (1d6+4); or masterwork nunchaku +6 melee (1d6+4); or masterwork nunchaku flurry of blows +4/+4 melee (1d6+4); or light crossbow +2 ranged (1d8/19–20)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Flurry of blows, stunning fist (2/day, DC 13)"
+special-attacks: "Flurry of blows, stunning fist (2/day, +3 vs Fortitude)"
 special-qualities: "Evasion"
-saves: "Fort +5, Ref +4, Will +5"
+defenses: "Fort 15, Ref 14, Will 15"
 abilities: "Str 19, Dex 12, Con 15, Int 8, Wis 14, Cha 10"
 skills: "Acrobatics +5, Deception +1, Intimidation +5, Perception +7, Sense Motive +7, Stealth +5"
 skill-ranks: "Acrobatics 1, Deception 1, Intimidation 2, Perception 2, Sense Motive 2, Stealth 1"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +5 melee (1d6+4) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Nunchaku|nunchaku]] +6 melee (1d6+4) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] nunchaku flurry of blows +4 melee (1d6+4) or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +2 ranged (1d8/19–20)
 - **Full Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +5 melee (1d6+4); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Nunchaku|nunchaku]] +6 melee (1d6+4); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] nunchaku flurry of blows +4/+4 melee (1d6+4); or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +2 ranged (1d8/19–20)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/classes/Monk#^monk-flurry-of-blows|Flurry of blows]], [[rangoric-srd/classes/Monk#^monk-stunning-fist|stunning fist]] (2/day, DC 13)
+- **Special Attacks**: [[rangoric-srd/classes/Monk#^monk-flurry-of-blows|Flurry of blows]], [[rangoric-srd/classes/Monk#^monk-stunning-fist|stunning fist]] (2/day, +3 vs Fortitude)
 - **Special Qualities**: [[rangoric-srd/classes/Monk#^monk-evasion|Evasion]]
-- **Saves**: Fort +5, Ref +4, Will +5
+- **Defenses**: Fort 15, Ref 14, Will 15
 - **Abilities**: Str 19, Dex 12, Con 15, Int 8, Wis 14, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Deception|Deception]] +1, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +5
 - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Scorpion Style|Scorpion Style]], [[rangoric-srd/feats/Stunning Fist|Stunning Fist]]

@@ -16,7 +16,7 @@ full-attack: "2 masterwork sickles +8 melee (1d6+3); or longbow +7 ranged (1d8/Ã
 space-reach: "5 ft./5 ft."
 special-attacks: "Combat style (two-weapon), favored enemy (elves +2, humans +5)"
 special-qualities: "Darkvision 60 ft., favored terrain (plains +2), hunter's bond (companions), track +2, wild empathy +4"
-saves: "Fort +8, Ref +7, Will +3"
+defenses: "Fort 18, Ref 17, Will 13"
 abilities: "Str 16, Dex 15, Con 16, Int 10, Wis 12, Cha 8"
 skills: "Acrobatics +5, Athletics +9 (+5 jumping), Fieldcraft +9, Intimidation +7, Perception +9, Stealth +12"
 skill-ranks: "Acrobatics 3, Athletics 3, Fieldcraft 5, Intimidation 5, Perception 5, Stealth 7"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-combat-style|Combat style]] (two-weapon), [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemy]] (elves +2, humans +5)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|favored terrain]] (plains +2), [[rangoric-srd/classes/Ranger#^ranger-hunters-bond|hunter's bond]] (companions), [[rangoric-srd/classes/Ranger|track]] +2, [[rangoric-srd/classes/Ranger|wild empathy]] +4
-- **Saves**: Fort +8, Ref +7, Will +3
+- **Defenses**: Fort 18, Ref 17, Will 13
 - **Abilities**: Str 16, Dex 15, Con 16, Int 10, Wis 12, Cha 8
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +9 (+5 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +12
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Double Slice|Double Slice]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Track|Track]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (sickle)

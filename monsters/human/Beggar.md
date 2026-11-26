@@ -15,7 +15,7 @@ full-attack: "Club +1 melee (1d6+1); or club +3 ranged (1d6+1)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Sneak attack +1d6"
 special-qualities: "Trapfinding +1, finesse training"
-saves: "Fort +2, Ref +5, Will +1"
+defenses: "Fort 12, Ref 15, Will 11"
 abilities: "Str 13, Dex 17, Con 14, Int 10, Wis 12, Cha 8"
 skills: "Athletics +6, Fieldcraft +6, Perception +6, Sleight of Hand +8, Society +5, Stealth +8"
 skill-ranks: "Athletics 2, Fieldcraft 2, Perception 2, Sleight of Hand 2, Society 2, Stealth 2"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +1d6
 - **Special Qualities**: [[rangoric-srd/classes/Rogue#^rogue-trapfinding|Trapfinding]] +1, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]]
-- **Saves**: Fort +2, Ref +5, Will +1
+- **Defenses**: Fort 12, Ref 15, Will 11
 - **Abilities**: Str 13, Dex 17, Con 14, Int 10, Wis 12, Cha 8
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +8, [[rangoric-srd/skills/Society|Society]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +8
 - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Fieldcraft)

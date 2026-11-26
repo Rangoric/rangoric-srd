@@ -15,7 +15,7 @@ full-attack: "+1 adamantine vicious greatsword +19/+14 melee (2d6+13/17–20 plu
 space-reach: "5 ft./5 ft."
 special-attacks: "Rage (14 rounds/day), rage powers (intimidating glare, strength surge +5), weapon training (heavy blades +1)"
 special-qualities: "Bravery +1, improved uncanny dodge, trap sense +1, armor training 1, fast movement"
-saves: "Fort +12, Ref +4, Will +4 (+1 vs. fear)"
+defenses: "Fort 22, Ref 14, Will 14 (+1 vs. fear)"
 abilities: "Str 22, Dex 14, Con 18, Int 8, Wis 10, Cha 12"
 skills: "Acrobatics +13, Animal Handling +5, Athletics +10 (+14 jumping), Fieldcraft +5, Intimidation +18 (+20 when raging), Perception +4"
 skill-ranks: "Acrobatics 8, Animal Handling 1, Athletics 1, Fieldcraft 2, Intimidation 14, Perception 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (14 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] (intimidating [[rangoric-srd/class-options/rage-powers/Intimidating Glare (Rage Power)|glare]], [[rangoric-srd/class-options/rage-powers/Strength Surge (Rage Power)|strength surge]] +5), [[rangoric-srd/classes/Fighter#^fighter-weapon-training|weapon training]] (heavy blades +1)
 - **Special Qualities**: [[rangoric-srd/classes/Fighter#^fighter-bravery|Bravery]] +1, [[rangoric-srd/classes/Barbarian#^barbarian-improved-uncanny-dodge|improved uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] +1, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1, [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]]
-- **Saves**: Fort +12, Ref +4, Will +4 (+1 vs. fear)
+- **Defenses**: Fort 22, Ref 14, Will 14 (+1 vs. fear)
 - **Abilities**: Str 22, Dex 14, Con 18, Int 8, Wis 10, Cha 12
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +10 (+14 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +18 (+20 when raging), [[rangoric-srd/skills/Perception|Perception]] +4
 - **Feats**: [[rangoric-srd/feats/Dazzling Display|Dazzling Display]], [[rangoric-srd/feats/Greater Sunder|Greater Sunder]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (greatsword), [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Shatter Defenses|Shatter Defenses]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (greatsword), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (greatsword)

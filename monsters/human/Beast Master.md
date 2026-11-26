@@ -15,7 +15,7 @@ full-attack: "+1 warhammer +12/+7 melee (1d8+5/×3); or +1 warhammer +10/+5 mele
 space-reach: "5 ft./5 ft."
 special-attacks: "Favored enemy (humanoid [human] +4, animal +2)"
 special-qualities: "Favored terrain (urban +2), hunter's bond (animal companion), track +3, wild empathy +6, woodland stride"
-saves: "Fort +7, Ref +6, Will +3"
+defenses: "Fort 17, Ref 16, Will 13"
 abilities: "Str 18, Dex 13, Con 14, Int 10, Wis 12, Cha 8"
 skills: "Animal Handling +10, Athletics +11, Dungeoneering +5, Fieldcraft +11 (+14 to follow tracks), Medicine +5, Nature +5, Perception +11, Stealth +10"
 skill-ranks: "Animal Handling 6, Athletics 4, Dungeoneering 2, Fieldcraft 7, Medicine 1, Nature 2, Perception 7, Stealth 6"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|Favored enemy]] (humanoid \[human\] +4, animal +2)
 - **Special Qualities**: [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|Favored terrain]] (urban +2), [[rangoric-srd/classes/Ranger#^ranger-hunters-bond|hunter's bond]] (animal companion), [[rangoric-srd/classes/Ranger#^ranger-track|track]] +3, [[rangoric-srd/classes/Ranger#^ranger-wild-empathy|wild empathy]] +6, [[rangoric-srd/classes/Ranger#^ranger-woodland-stride|woodland stride]]
-- **Saves**: Fort +7, Ref +6, Will +3
+- **Defenses**: Fort 17, Ref 16, Will 13
 - **Abilities**: Str 18, Dex 13, Con 14, Int 10, Wis 12, Cha 8
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +11 (+14 to follow tracks), [[rangoric-srd/skills/Medicine|Medicine]] +5, [[rangoric-srd/skills/Nature|Nature]] +5, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +10
 - **Feats**: [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Double Slice|Double Slice]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Improved Two-Weapon Fighting|Improved Two-Weapon Fighting]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Track|Track]], [[rangoric-srd/feats/Two-Weapon Defense|Two-Weapon Defense]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]]

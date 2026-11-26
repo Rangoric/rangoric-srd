@@ -14,9 +14,9 @@ cmd: "33 (37 vs. trip)"
 attack: "Bite +20 melee (2d6+12/19–20 plus 2d6 fire)"
 full-attack: "Bite +20 melee (2d6+12/19–20 plus 2d6 fire)"
 space-reach: "10 ft./10 ft."
-special-attacks: "Breath weapon (30-ft. cone, once every 1d4 rounds, 10d6 fire damage, Reflex DC 21 half)"
+special-attacks: "Breath weapon (30-ft. cone, once every 1d4 rounds, 10d6 fire damage, +11 vs Reflex; a miss halves)"
 special-qualities: "Darkvision 60 ft., scent, immunity to fire, vulnerability to cold"
-saves: "Fort +13, Ref +10, Will +5"
+defenses: "Fort 23, Ref 20, Will 15"
 abilities: "Str 27, Dex 15, Con 21, Int 4, Wis 12, Cha 6"
 skills: "Acrobatics +16, Fieldcraft +18, Perception +13, Stealth +21"
 skill-ranks: "Acrobatics 11, Fieldcraft 14, Perception 8, Stealth 15"
@@ -50,9 +50,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +20 melee (2d6+12/19–20 plus 2d6 fire)
 - **Full Attack**: Bite +20 melee (2d6+12/19–20 plus 2d6 fire)
 - **Space/Reach**: 10 ft./10 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (30-ft. cone, once every 1d4 rounds, 10d6 fire damage, Reflex DC 21 half)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (30-ft. cone, once every 1d4 rounds, 10d6 fire damage, +11 vs Reflex; a miss halves)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, vulnerability to cold
-- **Saves**: Fort +13, Ref +10, Will +5
+- **Defenses**: Fort 23, Ref 20, Will 15
 - **Abilities**: Str 27, Dex 15, Con 21, Int 4, Wis 12, Cha 6
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +16, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +18, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +21
 - **Feats**: [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception, Stealth, Fieldcraft), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)

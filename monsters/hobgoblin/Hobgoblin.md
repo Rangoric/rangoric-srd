@@ -16,7 +16,7 @@ full-attack: "Longsword +4 melee (1d8+2/19–20); or longbow +3 ranged (1d8/×3)
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft."
-saves: "Fort +5, Ref +2, Will +1"
+defenses: "Fort 15, Ref 12, Will 11"
 abilities: "Str 15, Dex 15, Con 16, Int 10, Wis 12, Cha 8"
 skills: "Perception +2, Stealth +5"
 skill-ranks: "Perception 1, Stealth 0"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft.
-- **Saves**: Fort +5, Ref +2, Will +1
+- **Defenses**: Fort 15, Ref 12, Will 11
 - **Abilities**: Str 15, Dex 15, Con 16, Int 10, Wis 12, Cha 8
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +2, [[rangoric-srd/skills/Stealth|Stealth]] +5
 - **Feats**: [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longsword)

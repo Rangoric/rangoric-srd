@@ -16,7 +16,7 @@ full-attack: "Dagger –1 melee (1d4–1/19–20)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "—"
-saves: "Fort +0, Ref +2, Will +2"
+defenses: "Fort 10, Ref 12, Will 12"
 abilities: "Str 8, Dex 15, Con 11, Int 12, Wis 10, Cha 9"
 skills: "Appraise +5, Craft (jewelry) +8, Emulation +3, Engineering +6, Perception +4, Persuasion +3, Society +5"
 skill-ranks: "Appraise 1, Craft (jewelry) 4, Emulation 1, Engineering 1, Perception 1, Persuasion 1, Society 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: —
-- **Saves**: Fort +0, Ref +2, Will +2
+- **Defenses**: Fort 10, Ref 12, Will 12
 - **Abilities**: Str 8, Dex 15, Con 11, Int 12, Wis 10, Cha 9
 - **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +5, [[rangoric-srd/skills/Craft|Craft]] (jewelry) +8, [[rangoric-srd/skills/Emulation|Emulation]] +3, [[rangoric-srd/skills/Engineering|Engineering]] +6, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Persuasion|Persuasion]] +3, [[rangoric-srd/skills/Society|Society]] +5
 - **Feats**: [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Craft \[jewelry\])

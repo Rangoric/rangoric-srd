@@ -17,7 +17,7 @@ full-attack: "+6 keen longsword of binding +46/+41/+36/+31 (1d8+27/17-20 plus 1d
 space-reach: "5 ft./5 ft."
 special-attacks: "Spell-like abilities"
 special-qualities: "Cold immunity, fire vulnerability, SR 36, DR 10/epic and cold iron"
-saves: "Fort +28, Ref +36, Will +31"
+defenses: "Fort 38, Ref 46, Will 41"
 abilities: "Str 38, Dex 33, Con 36, Int 21, Wis 23, Cha 26"
 skills: "Animal Handling +57 (+60 riding), Fieldcraft +55, Intimidation +57, Society +54, Nature +54, Perception +55, Persuasion +57, Investigation +54, Sense Motive +55, Stealth +60"
 skill-ranks: "Animal Handling 46, Fieldcraft 46, Intimidation 46, Investigation 46, Nature 46, Perception 46, Persuasion 46, Sense Motive 46, Society 46, Stealth 46"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Spell-like abilities
 - **Special Qualities**: Cold immunity, [[rangoric-srd/monsters/abilities/Vulnerabilities|fire vulnerability]], [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 36, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/epic and cold iron
-- **Saves**: Fort +28, Ref +36, Will +31
+- **Defenses**: Fort 38, Ref 46, Will 41
 - **Abilities**: Str 38, Dex 33, Con 36, Int 21, Wis 23, Cha 26
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +57 (+60 riding), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +55, [[rangoric-srd/skills/Intimidation|Intimidation]] +57, [[rangoric-srd/skills/Investigation|Investigation]] +54, [[rangoric-srd/skills/Nature|Nature]] +54, [[rangoric-srd/skills/Perception|Perception]] +55, [[rangoric-srd/skills/Persuasion|Persuasion]] +57, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +55, [[rangoric-srd/skills/Society|Society]] +54, [[rangoric-srd/skills/Stealth|Stealth]] +60
 - **Unspent Skill Points**: 46
@@ -71,9 +71,9 @@ A hoary hunter’s natural weapons are treated as epic for the purpose of overco
 
 #### Combat
 
-A critical hit (or the blow that would kill or render a foe [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]]) from the hoary hunter’s blade does not wound the hunter’s prey. Instead, the victim is bodily transported as per a [[rangoric-srd/spells/Soul Bind|soul binding]] spell heightened to 16th level (DC 30) into a diamond at the end of the sword’s hilt.
+A critical hit (or the blow that would kill or render a foe [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]]) from the hoary hunter’s blade does not wound the hunter’s prey. Instead, the victim is bodily transported as per a [[rangoric-srd/spells/Soul Bind|soul binding]] spell heightened to 16th level (+20 vs Will) into a diamond at the end of the sword’s hilt.
 
-Spell-Like Abilities: Caster level 23rd; save DC 18 + spell level.
+Spell-Like Abilities: Caster level 23rd; attack bonus +8 + spell level.
 
 At will - [[rangoric-srd/spells/Discern Location|discern location]], [[rangoric-srd/spells/True Strike|true strike]], [[rangoric-srd/spells/Fog Cloud|fog cloud]], [[rangoric-srd/spells/Hold Monster|hold monster]], [[rangoric-srd/spells/Plane Shift|plane shift]];
 

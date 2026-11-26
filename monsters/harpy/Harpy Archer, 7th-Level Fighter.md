@@ -16,7 +16,7 @@ full-attack: "+1 frost composite longbow (+1 Str bonus) +22/+17/+12 ranged (1d8+
 space-reach: "5 ft./5 ft."
 special-attacks: "Captivating song"
 special-qualities: "Darkvision 60 ft."
-saves: "Fort +11, Ref +14, Will +11"
+defenses: "Fort 21, Ref 24, Will 21"
 abilities: "Str 12, Dex 20, Con 14, Int 6, Wis 11, Cha 19"
 skills: "Deception +15, Intimidation +8, Perception +13, Performance (oratory) +13"
 skill-ranks: "Deception 4, Intimidation 1, Perception 3, Performance (oratory) 6"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Captivating song
 - **Special Qualities**: Darkvision 60 ft.
-- **Saves**: Fort +11, Ref +14, Will +11
+- **Defenses**: Fort 21, Ref 24, Will 21
 - **Abilities**: Str 12, Dex 20, Con 14, Int 6, Wis 11, Cha 19
 - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +15, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Performance|Performance]] (oratory) +13
 - **Feats**: [[rangoric-srd/feats/Feats All|Improved Critical]] (composite longbow), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Manyshot|Manyshot]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (composite longbow), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (composite longbow)

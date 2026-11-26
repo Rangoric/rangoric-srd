@@ -16,7 +16,7 @@ full-attack: "Quarterstaff +3 melee (1d4–2); or sling +7 ranged (1d3–2)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Summon familiar (toad)"
-saves: "Fort +6, Ref +5, Will +11 (+2 vs. fear)"
+defenses: "Fort 16, Ref 15, Will 21 (+2 vs. fear)"
 abilities: "Str 6, Dex 13, Con 10, Int 12, Wis 14, Cha 12"
 skills: "Acrobatics +3 (–1 when jumping), Appraise +4, Athletics +0, Fieldcraft +8, Linguistics +3, Medicine +19, Nature +13, Perception +4, Profession (herbalist) +14, Society +8"
 skill-ranks: "Acrobatics 2, Appraise 3, Athletics 2, Fieldcraft 3, Linguistics 2, Medicine 14, Nature 9, Perception 2, Profession (herbalist) 10, Society 4"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/classes/Adept|Summon familiar]] (toad)
-- **Saves**: Fort +6, Ref +5, Will +11 (+2 vs. fear)
+- **Defenses**: Fort 16, Ref 15, Will 21 (+2 vs. fear)
 - **Abilities**: Str 6, Dex 13, Con 10, Int 12, Wis 14, Cha 12
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +3 (–1 when jumping), [[rangoric-srd/skills/Appraise|Appraise]] +4, [[rangoric-srd/skills/Athletics|Athletics]] +0, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8, [[rangoric-srd/skills/Linguistics|Linguistics]] +3, [[rangoric-srd/skills/Medicine|Medicine]] +19, [[rangoric-srd/skills/Nature|Nature]] +13, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Profession|Profession]] (herbalist) +14, [[rangoric-srd/skills/Society|Society]] +8
 - **Feats**: [[rangoric-srd/feats/Brew Potion|Brew Potion]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Medicine)
@@ -81,4 +81,4 @@ A healer speaks Common, Elven, Gnome, Halfling, and Sylvan.
 
 **Base Statistics**: Without mage armor, the adept's statistics are **AC** 12, touch 12, flat-footed 11.
 
-**Adept spells prepared** (CL 9th; concentration +11): 3rd—_[[rangoric-srd/spells/Remove Disease|remove disease]]_; 2nd—_[[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]]_, _[[rangoric-srd/spells/Delay Poison|delay poison]]_, _[[rangoric-srd/spells/Web|web]]_ (DC 14); 1st—_[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_ (2), _[[rangoric-srd/spells/Endure Elements|endure elements]]_, _[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]_; 0 (at will)—_[[rangoric-srd/spells/Create Water|create water]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_, _[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]_.
+**Adept spells prepared** (CL 9th; concentration +11): 3rd—_[[rangoric-srd/spells/Remove Disease|remove disease]]_; 2nd—_[[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]]_, _[[rangoric-srd/spells/Delay Poison|delay poison]]_, _[[rangoric-srd/spells/Web|web]]_ (+4 vs Reflex); 1st—_[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_ (2), _[[rangoric-srd/spells/Endure Elements|endure elements]]_, _[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]_; 0 (at will)—_[[rangoric-srd/spells/Create Water|create water]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_, _[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]_.

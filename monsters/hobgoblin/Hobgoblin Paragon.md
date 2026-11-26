@@ -14,9 +14,9 @@ cmd: "32"
 attack: "+1 unarmed strike +14 melee (1d10+5) or +1 unarmed strike flurry of blows +14 melee (1d10+5) or masterwork javelin +13 ranged (1d6+4)"
 full-attack: "+1 unarmed strike +14/+9 melee (1d10+5); or +1 unarmed strike flurry of blows +14/+14/+9/+9/+4 melee (1d10+5); or masterwork javelin +13 ranged (1d6+4)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Flurry of blows, stunning fist (11/day, DC 17)"
+special-attacks: "Flurry of blows, stunning fist (11/day, +7 vs Fortitude)"
 special-qualities: "Darkvision 60 ft., improved evasion, fast movement, high jump, maneuver training, ki pool (7 points, cold iron/lawful/magic), slow fall 50 ft., wholeness of body (11 hit points), immunity to disease and poison"
-saves: "Fort +13, Ref +13, Will +11 (+2 vs. enchantments)"
+defenses: "Fort 23, Ref 23, Will 21 (+2 vs. enchantments)"
 abilities: "Str 18, Dex 18, Con 18, Int 10, Wis 14, Cha 8"
 skills: "Acrobatics +18, Athletics +4 (+27 jumping), Escape Artist +18, Intimidation +13, Stealth +22"
 skill-ranks: "Acrobatics 11, Athletics 0, Escape Artist 11, Intimidation 11, Stealth 15"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: +1 [[rangoric-srd/equipment/weapons/Unarmed Strike|unarmed strike]] +14 melee (1d10+5) or +1 unarmed strike flurry of blows +14 melee (1d10+5) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Javelin|javelin]] +13 ranged (1d6+4)
 - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Unarmed Strike|unarmed strike]] +14/+9 melee (1d10+5); or +1 unarmed strike flurry of blows +14/+14/+9/+9/+4 melee (1d10+5); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Javelin|javelin]] +13 ranged (1d6+4)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/classes/Monk#^monk-flurry-of-blows|Flurry of blows]], [[rangoric-srd/classes/Monk#^monk-stunning-fist|stunning fist]] (11/day, DC 17)
+- **Special Attacks**: [[rangoric-srd/classes/Monk#^monk-flurry-of-blows|Flurry of blows]], [[rangoric-srd/classes/Monk#^monk-stunning-fist|stunning fist]] (11/day, +7 vs Fortitude)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Monk#^monk-improved-evasion|improved evasion]], [[rangoric-srd/classes/Monk#^monk-fast-movement|fast movement]], [[rangoric-srd/classes/Monk#^monk-high-jump|high jump]], [[rangoric-srd/classes/Monk#^monk-maneuver-training|maneuver training]], [[rangoric-srd/classes/Monk#^monk-ki-pool|ki pool]] (7 points, cold iron/lawful/magic), [[rangoric-srd/classes/Monk#^monk-slow-fall|slow fall]] 50 ft., [[rangoric-srd/classes/Monk#^monk-wholeness-of-body|wholeness of body]] (11 hit points), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease and poison
-- **Saves**: Fort +13, Ref +13, Will +11 (+2 vs. enchantments)
+- **Defenses**: Fort 23, Ref 23, Will 21 (+2 vs. enchantments)
 - **Abilities**: Str 18, Dex 18, Con 18, Int 10, Wis 14, Cha 8
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +18, [[rangoric-srd/skills/Athletics|Athletics]] +4 (+27 jumping), [[rangoric-srd/skills/Escape Artist|Escape Artist]] +18, [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +22
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Stunning Fist|Stunning Fist]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (unarmed strike)

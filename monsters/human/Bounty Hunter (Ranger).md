@@ -16,7 +16,7 @@ full-attack: "+1 kukri +16/+11/+6 melee (1d4+5/18–20) and +1 kukri +16/+11 mel
 space-reach: "5 ft./5 ft."
 special-attacks: "Favored enemy (animals +2, humans +6, orcs +2)"
 special-qualities: "Evasion, camouflage, favored terrain (plains +2, urban +4), hunter's bond (companions), quarry, swift tracker, track +6, wild empathy +12, woodland stride, immunity to poison, resistance to fire 20"
-saves: "Fort +11, Ref +13, Will +6"
+defenses: "Fort 21, Ref 23, Will 16"
 abilities: "Str 19, Dex 18, Con 14, Int 10, Wis 12, Cha 10"
 skills: "Acrobatics +14, Athletics +12 (+16 jumping), Deception +10, Fieldcraft +16, Imitation +7, Linguistics +2, Nature +8, Perception +16, Sense Motive +11, Society +8, Stealth +19"
 skill-ranks: "Acrobatics 7, Athletics 5, Deception 7, Fieldcraft 12, Imitation 4, Linguistics 2, Nature 5, Perception 12, Sense Motive 7, Society 5, Stealth 12"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|Favored enemy]] (animals +2, humans +6, orcs +2)
 - **Special Qualities**: [[rangoric-srd/classes/Ranger#^ranger-evasion|Evasion]], [[rangoric-srd/classes/Ranger#^ranger-camouflage|camouflage]], [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|favored terrain]] (plains +2, urban +4), [[rangoric-srd/classes/Ranger#^ranger-hunters-bond|hunter's bond]] (companions), [[rangoric-srd/classes/Ranger#^ranger-quarry|quarry]], [[rangoric-srd/classes/Ranger#^ranger-swift-tracker|swift tracker]], [[rangoric-srd/classes/Ranger#^ranger-track|track]] +6, [[rangoric-srd/classes/Ranger#^ranger-wild-empathy|wild empathy]] +12, [[rangoric-srd/classes/Ranger#^ranger-woodland-stride|woodland stride]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 20
-- **Saves**: Fort +11, Ref +13, Will +6
+- **Defenses**: Fort 21, Ref 23, Will 16
 - **Abilities**: Str 19, Dex 18, Con 14, Int 10, Wis 12, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +12 (+16 jumping), [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +16, [[rangoric-srd/skills/Imitation|Imitation]] +7, [[rangoric-srd/skills/Linguistics|Linguistics]] +2, [[rangoric-srd/skills/Nature|Nature]] +8, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Society|Society]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +19
 - **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Double Slice|Double Slice]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Improved Grapple|Improved Grapple]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Two-Weapon Fighting|Improved Two-Weapon Fighting]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Track|Track]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (kukri)

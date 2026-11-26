@@ -15,7 +15,7 @@ full-attack: "Morningstar +8/+3 melee (1d8+1) and 2 talons +3 melee (1d6)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Captivating song"
 special-qualities: "Darkvision 60 ft."
-saves: "Fort +4, Ref +7, Will +6"
+defenses: "Fort 14, Ref 17, Will 16"
 abilities: "Str 12, Dex 15, Con 10, Int 7, Wis 12, Cha 17"
 skills: "Acrobatics +12, Deception +7, Intimidation +7, Perception +7, Performance (song) +5"
 skill-ranks: "Acrobatics 7, Deception 1, Intimidation 1, Perception 3, Performance (song) 4"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Captivating song
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft.
-- **Saves**: Fort +4, Ref +7, Will +6
+- **Defenses**: Fort 14, Ref 17, Will 16
 - **Abilities**: Str 12, Dex 15, Con 10, Int 7, Wis 12, Cha 17
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Perception|Perception]] +7, Performance (song) +5
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception)
@@ -82,7 +82,7 @@ Harpies speak Common.
 
 When a harpy engages in battle, it prefers to use [[rangoric-srd/feats/Flyby Attack|Flyby Attack]] and strike with a melee weapon.
 
-**Captivating Song (Su)**: A harpy's song has the power to infect the minds of those that hear it, calling them to the harpy's side. When a harpy sings, all creatures aside from other harpies within a 300-foot spread must succeed on a DC 16 Will saving throw or become captivated. A creature that successfully saves is not subject to the same harpy's song for 24 hours. A victim under the effects of the captivating song moves toward the harpy using the most direct means available. If the path leads them into a dangerous area such as through fire or off a cliff, that creature receives a second saving throw to end the effect before moving into peril. Captivated creatures can take no actions other than to defend themselves. A victim within 5 feet of the harpy simply stands and offers no resistance to the harpy's attacks. This effect continues for as long as the harpy sings and for 1 round thereafter. This is a sonic mind-affecting charm effect. The save DC is Charisma-based. A [[rangoric-srd/classes/Bard|bard]]’s countersong ability allows the captivated creature to attempt a new Will save.
+**Captivating Song (Su)**: A harpy's song has the power to infect the minds of those that hear it, calling them to the harpy's side. When a harpy sings, the song attacks all creatures aside from other harpies within a 300-foot spread at +6 vs Will, and those it hits become captivated. A creature the song misses is not subject to the same harpy's song for 24 hours. A victim under the effects of the captivating song moves toward the harpy using the most direct means available. If the path leads them into a dangerous area such as through fire or off a cliff, the song attacks that creature again, and a miss ends the effect, before it moves into peril. Captivated creatures can take no actions other than to defend themselves. A victim within 5 feet of the harpy simply stands and offers no resistance to the harpy's attacks. This effect continues for as long as the harpy sings and for 1 round thereafter. This is a sonic mind-affecting charm effect. The attack bonus is Charisma-based. A [[rangoric-srd/classes/Bard|bard]]’s countersong ability makes the song attack the captivated creature again, and a miss ends the effect.
 
 ### Harpy Archer
 
@@ -90,6 +90,6 @@ A cruel hunter and roaming brigand, the harpy archer has trained as a fighter sp
 
 #### Combat
 
-Captivating Song (Su): Will DC 17 negates.
+Captivating Song (Su): +7 vs Will.
 
 Possessions: +3 studded leather, +1 frost composite longbow (+1 Str bonus), 10 cold iron arrows, 10 silvered arrows, 5 +2 arrows, lesser bracers of archery, potion of cure moderate wounds, potion of cat’s grace, cloak of resistance +2, ring of protection +1. (Different harpy archers may have different possessions.)

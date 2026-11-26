@@ -16,7 +16,7 @@ full-attack: "Morningstar +0 melee (1d8); or silver dagger +0 melee (1d4/19–20
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "—"
-saves: "Fort –1, Ref +1, Will +3"
+defenses: "Fort 9, Ref 11, Will 13"
 abilities: "Str 10, Dex 12, Con 8, Int 9, Wis 13, Cha 10"
 skills: "Animal Handling +7, Medicine +7, Mysticism +3"
 skill-ranks: "Animal Handling 4, Medicine 3, Mysticism 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: —
-- **Saves**: Fort –1, Ref +1, Will +3
+- **Defenses**: Fort 9, Ref 11, Will 13
 - **Abilities**: Str 10, Dex 12, Con 8, Int 9, Wis 13, Cha 10
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +7, [[rangoric-srd/skills/Medicine|Medicine]] +7, [[rangoric-srd/skills/Mysticism|Mysticism]] +3
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Animal Handling), [[rangoric-srd/feats/Toughness|Toughness]]

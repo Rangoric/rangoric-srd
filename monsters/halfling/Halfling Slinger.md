@@ -16,7 +16,7 @@ full-attack: "+1 halfling sling staff +18/+13 melee (1d4+9/19–20); or short sw
 space-reach: "5 ft./5 ft."
 special-attacks: "Weapon training (thrown +2, light blades +1)"
 special-qualities: "Bravery +2, armor training 2"
-saves: "Fort +11, Ref +11, Will +9 (+4 vs. fear)"
+defenses: "Fort 21, Ref 21, Will 19 (+4 vs. fear)"
 abilities: "Str 16, Dex 20, Con 14, Int 8, Wis 12, Cha 12"
 skills: "Acrobatics +7, Animal Handling +17, Athletics +5 (+1 jumping), Fieldcraft +15, Perception +5"
 skill-ranks: "Acrobatics 2, Animal Handling 9, Athletics 2, Fieldcraft 11, Perception 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Fighter#^fighter-weapon-training|Weapon training]] (thrown +2, light blades +1)
 - **Special Qualities**: [[rangoric-srd/classes/Fighter#^fighter-bravery|Bravery]] +2, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 2
-- **Saves**: Fort +11, Ref +11, Will +9 (+4 vs. fear)
+- **Defenses**: Fort 21, Ref 21, Will 19 (+4 vs. fear)
 - **Abilities**: Str 16, Dex 20, Con 14, Int 8, Wis 12, Cha 12
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +17, [[rangoric-srd/skills/Athletics|Athletics]] +5 (+1 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +15, [[rangoric-srd/skills/Perception|Perception]] +5
 - **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Greater Weapon Focus|Greater Weapon Focus]] (halfling sling staff), [[rangoric-srd/feats/Improved Critical|Improved Critical]] (halfling sling staff), [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (halfling sling staff), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (halfling sling staff)
