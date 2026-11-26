@@ -10,7 +10,7 @@ casting-time: "1 immediate action"
 range: "Personal"
 target: "You"
 duration: "1 round"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Occult Adventures"
 based-on:
@@ -31,7 +31,7 @@ _Abjuration_
 - **Range**: Personal
 - **Target**: You
 - **Duration**: 1 round
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
-You put a barrier of mental energy that protects you from harm. This barrier grants you a +4 shield bonus to AC. In addition, you take half damage from _[[rangoric-srd/spells/Mind Thrust I|mind thrust I]]_ and _[[rangoric-srd/spells/Mind Thrust II|mind thrust II]]_ (reduced to one-quarter on a successful Will save).
+You put a barrier of mental energy that protects you from harm. This barrier grants you a +4 shield bonus to AC. In addition, you take half damage from _[[rangoric-srd/spells/Mind Thrust I|mind thrust I]]_ and _[[rangoric-srd/spells/Mind Thrust II|mind thrust II]]_ (reduced to one-quarter on a miss against your Will).

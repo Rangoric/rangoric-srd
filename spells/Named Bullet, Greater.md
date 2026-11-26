@@ -18,7 +18,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "One piece of ammunition or one thrown weapon"
 duration: "10 minutes/level or until discharged"
-saving-throw: "Will negates (harmless, object)"
+defense: "Will (harmless, object)"
 spell-resistance: "Yes (harmless, object)"
 book: "Ultimate Combat"
 based-on:
@@ -39,7 +39,7 @@ _Divination_
 - **Range**: Touch
 - **Target**: One piece of ammunition or one thrown weapon
 - **Duration**: 10 minutes/level or until discharged
-- **Saving Throw**: Will negates (harmless, object)
+- **Defense**: Will (harmless, object)
 - **Spell Resistance**: Yes (harmless, object)
 
 This spell functions like _[[rangoric-srd/spells/Named Bullet|named bullet]]_, except it deals 2 extra points of damage per caster level (maximum 40).

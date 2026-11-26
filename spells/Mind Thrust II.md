@@ -10,7 +10,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "Instantaneous"
-saving-throw: "Will half"
+defense: "Will half"
 spell-resistance: "Yes"
 book: "Occult Adventures"
 based-on:
@@ -31,7 +31,7 @@ _Divination_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature
 - **Duration**: Instantaneous
-- **Saving Throw**: Will half
+- **Defense**: Will half
 - **Spell Resistance**: Yes
 
 This functions as _[[rangoric-srd/spells/Mind Thrust I|mind thrust I]]_, but the target takes 1d8 points of damage per caster level (maximum 5d8). This spell can be [[rangoric-srd/spells/Magic Overview#^undercasting|undercast]].

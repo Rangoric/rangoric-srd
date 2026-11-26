@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "300 ft."
 target: "Creature or object weighing up to 1,000 lb."
 duration: "Instantaneous"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 to-develop: "558,000 gp; 12 days; 22,320 XP. Seeds: foresee (to preview endpoint of teleportation) (DC 17), transport (DC 27). Factors: unwilling target (+4 DC), increase range from touch (+4 DC), 1-action casting time (+20 DC). Mitigating factor: burn 1,000 XP (-10 DC)."
 based-on:
@@ -33,7 +33,7 @@ Casting Time: 1 standard action
 Range: 300 ft.  
 Target: Creature or object weighing up to 1,000 lb.  
 Duration: Instantaneous  
-Saving Throw: Will negates  
+Defense: Will  
 Spell Resistance: Yes  
 To Develop: 558,000 gp; 12 days; 22,320 XP. Seeds: foresee (to preview endpoint of teleportation) (DC 17), transport (DC 27). Factors: unwilling target (+4 DC), increase range from touch (+4 DC), 1-action casting time (+20 DC). Mitigating factor: burn 1,000 XP (-10 DC).
 

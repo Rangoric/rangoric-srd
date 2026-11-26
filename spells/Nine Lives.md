@@ -9,7 +9,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "One creature touched"
 duration: "1 hour/level"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Advanced Race Guide"
 based-on:
@@ -30,12 +30,12 @@ _Abjuration_
 - **Range**: Touch
 - **Target**: One creature touched
 - **Duration**: 1 hour/level
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 Despite its name, this powerful ward does not grant the target multiple lives, but rather gives the target the ability to get out of trouble and relieves harmful effects and conditions. For the spell's duration, the target can use any of the following abilities as an immediate action, but only up to a total of nine times, at which point the spell ends.
 
-> _Cat's Luck_: The target can use this ability when it fails a saving throw. The target can reroll the failed saving throw, but must take the new result even if it is worse.
+> _Cat's Luck_: The target can use this ability when an attack against one of its defenses hits it. The target can make the attacker reroll that attack, but must take the new result even if it is worse for the target.
 >
 > _Fortitude_: The target uses this ability when a critical hit or sneak attack is scored against it. The critical hit or sneak attack is negated and the damage is instead rolled normally.
 >

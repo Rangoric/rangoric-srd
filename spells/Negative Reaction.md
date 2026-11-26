@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "1 round/level"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Ultimate Combat"
 based-on:
@@ -38,7 +38,7 @@ _Illusion (Glamer)_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature
 - **Duration**: 1 round/level
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 The target's actions and words fail to impress. The target of this spell takes a –10 penalty on any Deception, Persuasion, and Intimidation checks as well as any [[rangoric-srd/rules/Performance Combat#^performance-combat-check|performance combat checks]] it attempts.

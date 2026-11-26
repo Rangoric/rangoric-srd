@@ -21,7 +21,7 @@ components:
 casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 duration: "1 round/level (D) and concentration + 3 rounds; see text"
-saving-throw: "None or Will disbelief (if interacted with); see text"
+defense: "None or Will disbelief (if interacted with); see text"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Mislead|Mislead (3.5)]]"
@@ -42,7 +42,7 @@ _Illusion (Figment, Glamer)_
 
 Target/Effect: You/one illusory double  
 Duration: 1 round/level (D) and concentration + 3 rounds; see text  
-Saving Throw: None or Will disbelief (if interacted with); see text  
+Defense: None or Will disbelief (if interacted with); see text  
 Spell Resistance: No
 
 You become [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] (as improved invisibility, a glamer), and at the same time, an illusory double of you (as major image, a figment) appears. You are then free to go elsewhere while your double moves away. The double appears within range but thereafter moves as you direct it (which requires concentration beginning on the first round after the casting). You can make the figment appear superimposed perfectly over your own body so that observers don’t notice an image appearing and you turning invisible. You and the figment can then move in different directions. The double moves at your speed and can talk and gesture as if it were real, but it cannot attack or cast spells, though it can pretend to do so.

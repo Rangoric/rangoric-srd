@@ -21,7 +21,7 @@ casting-time: "1 minute"
 range: "Unlimited"
 target: "You or one gnome touched"
 duration: "See text"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 book: "Advanced Race Guide"
 based-on:
@@ -42,7 +42,7 @@ _Illusion (Figment) \[Mind-affecting\]_
 - **Range**: Unlimited
 - **Target**: You or one gnome touched
 - **Duration**: See text
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 This spell functions as the _[[rangoric-srd/spells/Dream|dream]]_ spell, except as follows. The messenger must be yourself or a gnome touched. The message can be no longer than 20 words. If the recipient of the message is not asleep when the spell is cast, the spell automatically fails.

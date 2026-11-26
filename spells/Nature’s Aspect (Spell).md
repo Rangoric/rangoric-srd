@@ -18,7 +18,7 @@ casting-time: "1 standard action"
 range: "50 ft."
 area: "All allies within 50 ft."
 duration: "1 minute/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes (harmless)"
 book: "Faeries"
 based-on:
@@ -39,7 +39,7 @@ _Transmutation_
 - **Range**: 50 ft.
 - **Area**: All allies within 50 ft.
 - **Duration**: 1 minute/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes (harmless)
 
 _Nature’s aspect_ provides the recipients of the spell with the specific abilities associated with the [[rangoric-srd/races/aspects-of-nature/Aspects of Nature|Aspect of Nature]] belonging to either the caster or the immediate natural surroundings. If the caster has an Aspect of Nature and a related focus, the spell takes on one of the attributes of the caster. If, however, the caster does not have an Aspect of Nature, the spell instead draws its influence from the surrounding natural environment or season when conferring one aspect of nature to the recipients of the spell.

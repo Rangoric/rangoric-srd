@@ -20,7 +20,7 @@ casting-time: "1 standard action"
 range: "50 ft."
 target: "The caster and allies within a 50-ft. burst centered on the caster"
 duration: "1 minute/level or until discharged"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes (harmless)"
 book: "Ultimate Combat"
 based-on:
@@ -41,7 +41,7 @@ _Enchantment (Compulsion) \[Mind-affecting\]_
 - **Range**: 50 ft.
 - **Target**: The caster and allies within a 50-ft. burst centered on the caster
 - **Duration**: 1 minute/level or until discharged
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes (harmless)
 
 Each creature affected by this spell is given the potential for greater success and glory. If the affected creature is benefiting from a morale bonus of any type, it can double that morale bonus on one roll or check, before making the roll. Once an affected creature uses this spell's effect, the spell is discharged for that subject.

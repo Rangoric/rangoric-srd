@@ -24,7 +24,7 @@ casting-time: "1 standard action"
 range: "300 ft."
 target: "All creatures within a 300-ft.-radius burst centered on you"
 duration: "Concentration + 1 round/level (D)"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Advanced Race Guide"
 based-on:
@@ -45,7 +45,7 @@ _Enchantment (Charm) \[Mind-affecting, Sonic\]_
 - **Range**: 300 ft.
 - **Target**: All creatures within a 300-ft.-radius burst centered on you
 - **Duration**: Concentration + 1 round/level (D)
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
-This spell creates an unearthly and infectious song that seductively summons all who hear it. _Nixie's lure_ affects a maximum of 24 Hit Dice of creatures. Creatures in the area who fail their saves are lured by the song and move toward you using the most direct means available. If the path leads them into a dangerous area such as through fire or off a cliff, the creatures each receive a second saving throw to end the effect before moving into peril. Creatures lured by the spell's song can take no actions other than to defend themselves. A victim within 5 feet of you simply stands still and for the duration of the spell remains fascinated.
+This spell creates an unearthly and infectious song that seductively summons all who hear it. _Nixie's lure_ affects a maximum of 24 Hit Dice of creatures. Creatures in the area whose Will the spell hits are lured by the song and move toward you using the most direct means available. If the path leads them into a dangerous area such as through fire or off a cliff, the spell attacks each creature’s Will a second time before it moves into peril, and a miss ends the effect. Creatures lured by the spell's song can take no actions other than to defend themselves. A victim within 5 feet of you simply stands still and for the duration of the spell remains fascinated.

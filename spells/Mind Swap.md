@@ -22,7 +22,7 @@ casting-time: "1 round"
 range: "Medium (100 ft. + 10 ft./level)"
 target: "One creature"
 duration: "Caster level hour(s)"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Occult Adventures"
 based-on:
@@ -43,7 +43,7 @@ _Enchantment (Compulsion) \[MindAffecting\]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Target**: One creature
 - **Duration**: Caster level hour(s)
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 This spell is similar to _[[rangoric-srd/spells/Possession|possession]]_, except you switch minds with the target, so instead of the target's soul sharing its body with yours and being unable to act, the target's mind moves to your body and can control it as if you each had cast _[[rangoric-srd/spells/Possession|possession]]_ on the other.

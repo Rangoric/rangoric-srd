@@ -22,7 +22,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature or object, up to a 10-ft. cube in size"
 duration: "1 hour/level"
-saving-throw: "None or Will negates; see text"
+defense: "None or Will; see text"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Misdirection|Misdirection (3.5)]]"
@@ -42,7 +42,7 @@ _Illusion (Glamer)_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature or object, up to a 10-ft. cube in size
 - **Duration**: 1 hour/level
-- **Saving Throw**: None or Will negates; see text
+- **Defense**: None or Will; see text
 - **Spell Resistance**: No
 
-By means of this spell, you misdirect the information from divination spells that reveal auras (detect evil, detect magic, discern lies, and the like). On casting the spell, you choose another object within range. For the duration of the spell, the subject of misdirection is detected as if it were the other object. (Neither the subject nor the other object gets a saving throw against this effect.) Detection spells provide information based on the second object rather than on the actual target of the detection unless the caster of the detection succeeds on a Will save. For instance, you could make yourself detect as a tree if one were within range at casting: not evil, not lying, not magical, neutral in alignment, and so forth. This spell does not affect other types of divination magic (augury, detect thoughts, clairaudience/clairvoyance, and the like).
+By means of this spell, you misdirect the information from divination spells that reveal auras (detect evil, detect magic, discern lies, and the like). On casting the spell, you choose another object within range. For the duration of the spell, the subject of misdirection is detected as if it were the other object. (This effect hits both the subject and the other object automatically.) Detection spells provide information based on the second object rather than on the actual target of the detection unless this spell misses the Will of the caster of the detection. For instance, you could make yourself detect as a tree if one were within range at casting: not evil, not lying, not magical, neutral in alignment, and so forth. This spell does not affect other types of divination magic (augury, detect thoughts, clairaudience/clairvoyance, and the like).

@@ -16,7 +16,7 @@ casting-time: "See text"
 range: "Long (400 ft. + 40 ft./level)"
 area: "Dirt in an area up to 750 ft. square and up to 10 ft. deep (S)"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Move Earth|Move Earth (3.5)]]"
@@ -36,7 +36,7 @@ _Transmutation \[Earth\]_
 - **Range**: Long (400 ft. + 40 ft./level)
 - **Area**: Dirt in an area up to 750 ft. square and up to 10 ft. deep (S)
 - **Duration**: Instantaneous
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 Move earth moves dirt (clay, loam, sand), possibly collapsing embankments, moving hillocks, shifting dunes, and so forth.

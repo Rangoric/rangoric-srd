@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "See text"
 target-effect-or-area: "See text"
 duration: "See text"
-saving-throw: "See text"
+defense: "See text"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Miracle|Miracle (3.5)]]"
@@ -35,7 +35,7 @@ _Evocation_
 
 Target, Effect, or Area: See text  
 Duration: See text  
-Saving Throw: See text  
+Defense: See text  
 Spell Resistance: Yes
 
 You don’t so much cast a miracle as request one. You state what you would like to have happen and request that your deity (or the power you pray to for spells) intercede.
@@ -62,6 +62,6 @@ Alternatively, a cleric can make a very powerful request. Casting such a miracle
 
 In any event, a request that is out of line with the deity’s (or alignment’s) nature is refused.
 
-A duplicated spell allows saving throws and spell resistance as normal, but the save DCs are as for a 9th-level spell. When a miracle duplicates a spell that has an XP cost, you must pay that cost. When a miracle spell duplicates a spell with a material component that costs more than 100 gp, you must provide that component.
+A duplicated spell attacks defenses and allows spell resistance as normal, but its attack bonuses are as for a 9th-level spell. When a miracle duplicates a spell that has an XP cost, you must pay that cost. When a miracle spell duplicates a spell with a material component that costs more than 100 gp, you must provide that component.
 
 _XP Cost_: 5,000 XP (for some uses of the miracle spell; see above).
