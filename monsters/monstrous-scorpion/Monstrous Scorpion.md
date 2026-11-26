@@ -25,16 +25,16 @@ Monstrous scorpions are likely to attack any creature that approaches, and they 
 
 **Improved Grab (Ex)**: To use this ability, a monstrous scorpion must hit with a claw attack. A monstrous scorpion can use either its Strength modifier or Dexterity modifier for grapple checks, whichever is better.
 
-**Poison (Ex)**: A monstrous scorpion has a poisonous sting. The details vary by the scorpion’s size, as follows. The save DCs are Constitution- based. The indicated damage is initial and secondary damage.
+**Poison (Ex)**: A monstrous scorpion has a poisonous sting. The details vary by the scorpion’s size, as follows. The attack bonuses are Constitution- based. The indicated damage is initial and secondary damage.
 
-| Size       | Fort DC                                                                           | Damage   |
-| ---------- | --------------------------------------------------------------------------------- | -------- |
-| Tiny       | 12                                                                                | 1 Con    |
-| Small      | 12                                                                                | 1d2 Con  |
-| Medium     | 13                                                                                | 1d3 Con  |
-| Large      | see [[rangoric-srd/monsters/monstrous-scorpion/Monstrous Scorpion, Large\|Large]] | —        |
-| Huge       | 18                                                                                | 1d6 Con  |
-| Gargantuan | 23                                                                                | 1d8 Con  |
-| Colossal   | 33                                                                                | 1d10 Con |
+| Size       | Attack vs Fortitude                                                        | Damage   |
+| ---------- | -------------------------------------------------------------------------- | -------- | --- |
+| Tiny       | +2                                                                         | 1 Con    |
+| Small      | +2                                                                         | 1d2 Con  |
+| Medium     | +3                                                                         | 1d3 Con  |
+| Large      | see [[rangoric-srd/monsters/monstrous-scorpion/Monstrous Scorpion, Large\  | Large]]  | —   |
+| Huge       | +8                                                                         | 1d6 Con  |
+| Gargantuan | +13                                                                        | 1d8 Con  |
+| Colossal   | +23                                                                        | 1d10 Con |
 
 **Skills**: A monstrous scorpion has a +4 racial bonus on Athletics, Stealth, and Perception checks.

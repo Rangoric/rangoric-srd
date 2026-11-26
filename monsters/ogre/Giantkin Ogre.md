@@ -22,7 +22,7 @@ Blessed with the blood of greater giants, giantkin ogres are larger and stronger
 
 **Challenge Rating**: As base creature +1.
 
-**Rebuild Rules**: **Hit points** +10 hit points; **Saving Throws** +1 racial bonus to all saving throws; **Ability Scores** +4 Strength, +4 Constitution; **Special Attacks** [[rangoric-srd/monsters/abilities/Rock Throwing|rock throwing]] (1d6, 90 ft.), **Special** see table.
+**Rebuild Rules**: **Hit points** +10 hit points; **Defenses** +1 racial bonus to all defenses; **Ability Scores** +4 Strength, +4 Constitution; **Special Attacks** [[rangoric-srd/monsters/abilities/Rock Throwing|rock throwing]] (1d6, 90 ft.), **Special** see table.
 
 **Table: Giantkin Crossbreeds**
 

@@ -16,7 +16,7 @@ full-attack: "2 claws +9 melee (1d6+4 plus grab)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Clutches, tickle"
 special-qualities: "All-around vision, blindsight 60 ft., darkvision 60 ft., faceless, no breath, immunity to cold, gaze attacks, inhaled poison and scent-based attacks"
-saves: "Fort +3, Ref +8, Will +6"
+defenses: "Fort 13, Ref 18, Will 16"
 abilities: "Str 18, Dex 15, Con 14, Int 5, Wis 14, Cha 11"
 skills: "Acrobatics +7, Investigation +1, Perception +6, Stealth +11"
 skill-ranks: "Acrobatics 2, Perception 1, Stealth 2"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Clutches|Clutches]], [[rangoric-srd/monsters/abilities/Tickle|tickle]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/All-Around Vision|All-around vision]], [[rangoric-srd/monsters/abilities/Blindsight|blindsight]] 60 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Faceless|faceless]], [[rangoric-srd/monsters/abilities/No Breath|no breath]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, gaze attacks, inhaled poison and scent-based attacks
-- **Saves**: Fort +3, Ref +8, Will +6
+- **Defenses**: Fort 13, Ref 18, Will 16
 - **Abilities**: Str 18, Dex 15, Con 14, Int 5, Wis 14, Cha 11
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Investigation|Investigation]] +1, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +11
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
@@ -78,4 +78,4 @@ Nightgaunts understand Aklo but can't speak.
 
 **[[rangoric-srd/monsters/abilities/Faceless|Faceless]] (Ex)**: A nightgaunt has no face, but can still see in all directions as if its entire body were an eye. It is immune to gaze attacks, but not to illusions that rely upon vision to function. It has no need to breathe, and is immune to all inhaled and scent-based effects.
 
-**[[rangoric-srd/monsters/abilities/Tickle|Tickle]] (Ex)**: As a swift action, a nightgaunt can use its tail to tickle a grappled or [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]] foe with horrible efficiency. The target must succeed at a DC 14 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1 round. The save DC is Dexterity-based.
+**[[rangoric-srd/monsters/abilities/Tickle|Tickle]] (Ex)**: As a swift action, a nightgaunt can use its tail to tickle a grappled or [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]] foe with horrible efficiency. It attacks the target at +4 vs Fortitude, and on a hit the target is [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1 round. The attack bonus is Dexterity-based.

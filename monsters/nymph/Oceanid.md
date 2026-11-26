@@ -16,7 +16,7 @@ full-attack: "Slam +6 melee (1d4+3); or waterspout +8 ranged (7d6)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Water telekinesis, spell-like abilities"
 special-qualities: "Darkvision 120 ft., low-light vision, tremorsense 30 ft. (in water only), fast healing 10 (in salt water only), waveglide, damage reduction 10/cold iron, immunity to acid, resistance to cold 30, vulnerable to fire, water dependency, water magic"
-saves: "Fort +8, Ref +10, Will +10"
+defenses: "Fort 18, Ref 20, Will 20"
 abilities: "Str 14, Dex 19, Con 20, Int 14, Wis 19, Cha 21"
 skills: "Animal Handling +14, Athletics +22, Intimidation +14, Nature +14, Perception +16, Persuasion +17, Sense Motive +16, Stealth +16"
 skill-ranks: "Animal Handling 6, Athletics 17, Intimidation 6, Nature 9, Perception 9, Persuasion 9, Sense Motive 9, Stealth 9"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Water Telekinesis|Water telekinesis]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 30 ft. (in water only), [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 10 (in salt water only), [[rangoric-srd/monsters/abilities/Waveglide|waveglide]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 30, vulnerable to fire, [[rangoric-srd/monsters/abilities/Water Dependency (Oceanid)|water dependency]], [[rangoric-srd/monsters/abilities/Water Magic|water magic]]
-- **Saves**: Fort +8, Ref +10, Will +10
+- **Defenses**: Fort 18, Ref 20, Will 20
 - **Abilities**: Str 14, Dex 19, Con 20, Int 14, Wis 19, Cha 21
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +22, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Nature|Nature]] +14, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Persuasion|Persuasion]] +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +16
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Defensive Combat Training|Defensive Combat Training]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]]
@@ -81,4 +81,4 @@ Oceanids speak Aquan, Common and Sylvan.
 
 **[[rangoric-srd/monsters/abilities/Water Telekinesis|Water Telekinesis]] (Su)**: When immersed in water, an oceanid can manipulate water to affect creatures and objects within 500 feet that are in contact with the same body of water. This functions as the combat maneuver form of the telekinesis spell (caster level 9th, combat maneuver bonus +14), including the need to maintain concentration. This ability also allows her to create a small waterspout as a standard action once per round, striking an opponent within 100 feet with a blast of water as a ranged attack that deals 7d6 points of bludgeoning damage.
 
-**[[rangoric-srd/monsters/abilities/Waveglide|Waveglide]] (Su)**: An oceanid can create waves and currents to double or halve the speed of creatures or objects traveling on the surface of the water, affecting up to 100 contiguous 5-foot squares in a shapeable area (typically enough for one warship or two small sailing ships). This ability has a range of 1,000 feet, requires line of effect to some part of the area, and lasts as long as the oceanid concentrates. An unwilling target can ignore the effect for 1 round by succeeding at a DC 19 Will saving throw. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Waveglide|Waveglide]] (Su)**: An oceanid can create waves and currents to double or halve the speed of creatures or objects traveling on the surface of the water, affecting up to 100 contiguous 5-foot squares in a shapeable area (typically enough for one warship or two small sailing ships). This ability has a range of 1,000 feet, requires line of effect to some part of the area, and lasts as long as the oceanid concentrates. The effect attacks an unwilling target at +9 vs Will, and on a miss the target ignores it for 1 round. The attack bonus is Charisma-based.

@@ -13,9 +13,9 @@ cmd: "54 (56 vs. bull rush, can't be tripped)"
 attack: "Bite +29 melee (6d6+25/19–20 plus grab) or slam +29 melee (3d8+25/19–20)"
 full-attack: "Bite +29 melee (6d6+25/19–20 plus grab) and slam +29 melee (3d8+25/19–20)"
 space-reach: "30 ft./60 ft."
-special-attacks: "Breath weapon, overwhelming strength, swallow whole (20d6 acid damage, AC 26, 29 hp), trample (DC 37)"
+special-attacks: "Breath weapon, overwhelming strength, swallow whole (20d6 acid damage, AC 26, 29 hp), trample (+27 vs Reflex)"
 special-qualities: "Darkvision 60 ft., low-light vision, damage reduction 10/-, immunity to acid, fire, disease, magical control, paralysis, poison, sleep and stun, spell resistance 28"
-saves: "Fort +21, Ref +13, Will +11"
+defenses: "Fort 31, Ref 23, Will 21"
 abilities: "Str 44, Dex 8, Con 28, Int 3, Wis 21, Cha 23"
 skills: "Perception +28"
 skill-ranks: "Perception 20"
@@ -47,9 +47,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +29 melee (6d6+25/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or slam +29 melee (3d8+25/19–20)
 - **Full Attack**: Bite +29 melee (6d6+25/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and slam +29 melee (3d8+25/19–20)
 - **Space/Reach**: 30 ft./60 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]], [[rangoric-srd/monsters/abilities/Overwhelming Strength|overwhelming strength]], [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (20d6 acid damage, AC 26, 29 hp), [[rangoric-srd/monsters/abilities/Trample|trample]] (DC 37)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]], [[rangoric-srd/monsters/abilities/Overwhelming Strength|overwhelming strength]], [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (20d6 acid damage, AC 26, 29 hp), [[rangoric-srd/monsters/abilities/Trample|trample]] (+27 vs Reflex)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/-, immunity to acid, fire, disease, magical control, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]], poison, sleep and stun, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 28
-- **Saves**: Fort +21, Ref +13, Will +11
+- **Defenses**: Fort 31, Ref 23, Will 21
 - **Abilities**: Str 44, Dex 8, Con 28, Int 3, Wis 21, Cha 23
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +28
 - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Critical|Improved Critical]] (slam), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Staggering Critical|Staggering Critical]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
@@ -71,7 +71,7 @@ Bholes speak Aklo (rarely speaks).
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Breath Weapon|Breath Weapon]] (Su)**: Once every minute, a bhole can expel a prodigious amount of thick slime from its gullet. This breath weapon has a range of 900 feet, and creates a 40-foot-diameter spread of slime in its targeted area. Any creature within this area must succeed at a DC 29 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1d4 rounds. The slime transforms the area it coats into difficult terrain. Furthermore, any creature that is in the area (or that attempts to enter the area) must succeed at a DC 29 Reflex save or be [[rangoric-srd/rules/Special Abilities and Conditions#^entangled|entangled]] by the slime. Bhole slime persists for 2d6 hours and bhole lairs are typically pre-caked with the stuff. A bhole can move through bhole slime without penalty. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Breath Weapon|Breath Weapon]] (Su)**: Once every minute, a bhole can expel a prodigious amount of thick slime from its gullet. This breath weapon has a range of 900 feet, and creates a 40-foot-diameter spread of slime in its targeted area. It attacks any creature within this area at +19 vs Fortitude, and those it hits are [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1d4 rounds. The slime transforms the area it coats into difficult terrain. Furthermore, any creature that is in the area (or that attempts to enter the area) is attacked by the slime at +19 vs Reflex, and on a hit is [[rangoric-srd/rules/Special Abilities and Conditions#^entangled|entangled]] by the slime. Bhole slime persists for 2d6 hours and bhole lairs are typically pre-caked with the stuff. A bhole can move through bhole slime without penalty. The attack bonus is Constitution-based.
 
 **Immune to Magical Control (Ex)**: A bhole is immune to nearly all forms of mind control, including all charm, suggestion, and dominate spells. It is similarly immune to magic jar and possession attempts. Confusion and other mind-affecting effects that don't allow another creature to directly control a bhole work normally. Rare effects that allow a creature to manipulate the exact effects of confusion on a creature provide one of the few ways to magically control a bhole. Other methods, particularly those tied to strange and powerful artifacts, may work as well.
 

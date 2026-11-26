@@ -23,19 +23,19 @@ All monstrous spiders are aggressive predators that use their poisonous bites to
 
 Monstrous spiders come in two general types: hunters and web-spinners. Hunters rove about, while web-spinners usually attempt to trap prey. Hunting spiders can spin webs to use as lairs, but cannot use their webs as weapons the way web-spinners can. A hunting spider has a base land speed 10 feet faster than the figures given in the statistics blocks.
 
-**Poison (Ex)**: A monstrous spider has a poisonous bite. The details vary by the spider’s size, as shown on the table below. The save DCs are Constitution-based. The indicated damage is initial
+**Poison (Ex)**: A monstrous spider has a poisonous bite. The details vary by the spider’s size, as shown on the table below. The attack bonuses are Constitution-based. The indicated damage is initial
 
 and secondary damage.
 
-| Size       | Fort DC                                                                         | Damage  |
-| ---------- | ------------------------------------------------------------------------------- | ------- |
-| Tiny       | 10                                                                              | 1d2 Str |
-| Small      | 10                                                                              | 1d3 Str |
-| Medium     | see [[rangoric-srd/monsters/monstrous-spider/Monstrous Spider, Medium\|Medium]] | —       |
-| Large      | 13                                                                              | 1d6 Str |
-| Huge       | 16                                                                              | 1d8 Str |
-| Gargantuan | 20                                                                              | 2d6 Str |
-| Colossal   | 28                                                                              | 2d8 Str |
+| Size       | Attack vs Fortitude                                                     | Damage   |
+| ---------- | ----------------------------------------------------------------------- | -------- | --- |
+| Tiny       | +0                                                                      | 1d2 Str  |
+| Small      | +0                                                                      | 1d3 Str  |
+| Medium     | see [[rangoric-srd/monsters/monstrous-spider/Monstrous Spider, Medium\  | Medium]] | —   |
+| Large      | +3                                                                      | 1d6 Str  |
+| Huge       | +6                                                                      | 1d8 Str  |
+| Gargantuan | +10                                                                     | 2d6 Str  |
+| Colossal   | +18                                                                     | 2d8 Str  |
 
 **Web (Ex)**: Both types of monstrous spiders often wait in their webs or in trees, then lower themselves silently on silk strands and leap onto prey passing beneath. A single strand is strong enough to support the spider and one creature of the same size.
 

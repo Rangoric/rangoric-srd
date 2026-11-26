@@ -16,7 +16,7 @@ full-attack: "+1 greataxe +15/+10 melee (3d6+14/×3); or javelin +5/+0 ranged (1
 space-reach: "10 ft./10 ft."
 special-attacks: "Rage (12 rounds/day), rage powers (scent)"
 special-qualities: "Darkvision 60 ft., low-light vision, trap sense +1, uncanny dodge, fast movement"
-saves: "Fort +14, Ref +3, Will +8"
+defenses: "Fort 24, Ref 13, Will 18"
 abilities: "Str 29, Dex 10, Con 23, Int 6, Wis 12, Cha 5"
 skills: "Athletics +12, Fieldcraft +6, Perception +13"
 skill-ranks: "Athletics 3, Fieldcraft 2, Perception 9"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (12 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/Scent (Rage Power)|scent]])
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] +1, [[rangoric-srd/classes/Barbarian#^barbarian-uncanny-dodge|uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]]
-- **Saves**: Fort +14, Ref +3, Will +8
+- **Defenses**: Fort 24, Ref 13, Will 18
 - **Abilities**: Str 29, Dex 10, Con 23, Int 6, Wis 12, Cha 5
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Perception|Perception]] +13
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

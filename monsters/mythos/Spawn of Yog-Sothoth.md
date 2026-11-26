@@ -15,8 +15,8 @@ attack: "Bite +17 melee (1d8+8/19–20/×3) or tentacle +21 melee (1d6+4 plus gr
 full-attack: "Bite +17 melee (1d8+8/19–20/×3) and 4 tentacles +16 melee (1d6+4 plus grab)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Blood drain (1d4 Con), devastation"
-special-qualities: "Blindsight 30 ft., darkvision 60 ft., stench (30 ft., DC 22, 10 rounds), tenuous natural invisibility, damage reduction 10/magic, immunity to cold and fire, resistance to sonic 10, spell resistance 21"
-saves: "Fort +9, Ref +8, Will +12"
+special-qualities: "Blindsight 30 ft., darkvision 60 ft., stench (30 ft., +12 vs Fortitude, 10 rounds), tenuous natural invisibility, damage reduction 10/magic, immunity to cold and fire, resistance to sonic 10, spell resistance 21"
+defenses: "Fort 19, Ref 18, Will 22"
 abilities: "Str 26, Dex 15, Con 21, Int 17, Wis 17, Cha 20"
 skills: "Arcana +20, Athletics +33, Escape Artist +19, Intimidation +22, Mysticism +20, Perception +20, Stealth +15"
 skill-ranks: "Arcana 14, Athletics 22, Escape Artist 14, Intimidation 14, Mysticism 14, Perception 14, Stealth 14"
@@ -49,8 +49,8 @@ tags: [rangoric, rangoric/monster]
 - **Full Attack**: Bite +17 melee (1d8+8/19–20/×3) and 4 tentacles +16 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]] (1d4 Con), devastation
-- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Stench|stench]] (30 ft., DC 22, 10 rounds), tenuous [[rangoric-srd/monsters/abilities/Natural Invisibility|natural invisibility]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold and fire, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to sonic 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 21
-- **Saves**: Fort +9, Ref +8, Will +12
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Stench|stench]] (30 ft., +12 vs Fortitude, 10 rounds), tenuous [[rangoric-srd/monsters/abilities/Natural Invisibility|natural invisibility]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold and fire, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to sonic 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 21
+- **Defenses**: Fort 19, Ref 18, Will 22
 - **Abilities**: Str 26, Dex 15, Con 21, Int 17, Wis 17, Cha 20
 - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +20, [[rangoric-srd/skills/Athletics|Athletics]] +33, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +19, [[rangoric-srd/skills/Intimidation|Intimidation]] +22, [[rangoric-srd/skills/Mysticism|Mysticism]] +20, [[rangoric-srd/skills/Perception|Perception]] +20, [[rangoric-srd/skills/Stealth|Stealth]] +15
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (tentacle)

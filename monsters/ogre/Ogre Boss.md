@@ -16,7 +16,7 @@ full-attack: "Masterwork greatsword +16/+11 melee (3d6+14/19–20); or greatclub
 space-reach: "10 ft./10 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., low-light vision, bravery +1, armor training 1"
-saves: "Fort +12, Ref +0, Will +5 (+1 vs. fear)"
+defenses: "Fort 22, Ref 10, Will 15 (+1 vs. fear)"
 abilities: "Str 26, Dex 6, Con 19, Int 6, Wis 12, Cha 7"
 skills: "Intimidation +3, Perception +7"
 skill-ranks: "Intimidation 2, Perception 3"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +1, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1
-- **Saves**: Fort +12, Ref +0, Will +5 (+1 vs. fear)
+- **Defenses**: Fort 22, Ref 10, Will 15 (+1 vs. fear)
 - **Abilities**: Str 26, Dex 6, Con 19, Int 6, Wis 12, Cha 7
 - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +3, [[rangoric-srd/skills/Perception|Perception]] +7
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (greatsword), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (greatsword)

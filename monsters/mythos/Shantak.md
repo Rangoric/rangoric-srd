@@ -15,7 +15,7 @@ full-attack: "Bite +17 melee (2d6+8) 2 talons +17 (1d8+8 plus grab)"
 space-reach: "15 ft./15 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., low-light vision, slippery, no breath, share defenses, starflight, immunity to cold and disease"
-saves: "Fort +11, Ref +10, Will +6"
+defenses: "Fort 21, Ref 20, Will 16"
 abilities: "Str 26, Dex 17, Con 19, Int 8, Wis 17, Cha 10"
 skills: "Acrobatics +13, Escape Artist +11"
 skill-ranks: "Acrobatics 11, Escape Artist 0"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./15 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Slippery|slippery]], [[rangoric-srd/monsters/abilities/No Breath|no breath]], [[rangoric-srd/monsters/abilities/Share Defenses|share defenses]], [[rangoric-srd/monsters/abilities/Starflight|starflight]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold and disease
-- **Saves**: Fort +11, Ref +10, Will +6
+- **Defenses**: Fort 21, Ref 20, Will 16
 - **Abilities**: Str 26, Dex 17, Con 19, Int 8, Wis 17, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +11
 - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Wingover|Wingover]]

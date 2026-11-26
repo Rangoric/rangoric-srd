@@ -15,7 +15,7 @@ full-attack: "Bite +17 melee (1d8+7) and 4 claws +17 melee (1d6+7)"
 space-reach: "10 ft./15 ft."
 special-attacks: "Rend (2 claws, 1d6+10)"
 special-qualities: "Darkvision 60 ft., compression, immunity to disease and poison"
-saves: "Fort +9, Ref +6, Will +12"
+defenses: "Fort 19, Ref 16, Will 22"
 abilities: "Str 25, Dex 12, Con 18, Int 11, Wis 16, Cha 11"
 skills: "Athletics +15, Dungeoneering +10, Escape Artist +13, Fieldcraft +21, Perception +27, Stealth +15"
 skill-ranks: "Athletics 5, Dungeoneering 7, Escape Artist 5, Fieldcraft 15, Perception 21, Stealth 15"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./15 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rend|Rend]] (2 claws, 1d6+10)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease and poison
-- **Saves**: Fort +9, Ref +6, Will +12
+- **Defenses**: Fort 19, Ref 16, Will 22
 - **Abilities**: Str 25, Dex 12, Con 18, Int 11, Wis 16, Cha 11
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +10, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +13, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +21, [[rangoric-srd/skills/Perception|Perception]] +27, [[rangoric-srd/skills/Stealth|Stealth]] +15
 - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Greater Bull Rush|Greater Bull Rush]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

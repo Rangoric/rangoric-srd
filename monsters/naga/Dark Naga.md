@@ -15,7 +15,7 @@ full-attack: "Bite +8 melee (1d4+2) and sting +8 melee (2d4+2 plus poison)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Poison"
 special-qualities: "Darkvision 60 ft., detect thoughts, guarded thoughts, immunity to poison"
-saves: "Fort +7, Ref +10, Will +9"
+defenses: "Fort 17, Ref 20, Will 19"
 abilities: "Str 14, Dex 21, Con 18, Int 16, Wis 15, Cha 17"
 skills: "Arcana +13, Deception +13, Escape Artist +11, Imitation +9, Intimidation +12, Mysticism +12, Perception +21, Persuasion +9, Sense Motive +8, Stealth +20"
 skill-ranks: "Arcana 7, Deception 7, Escape Artist 5, Imitation 3, Intimidation 6, Mysticism 6, Perception 14, Persuasion 3, Sense Motive 5, Stealth 14"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect thoughts, guarded thoughts, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to poison
-- **Saves**: Fort +7, Ref +10, Will +9
+- **Defenses**: Fort 17, Ref 20, Will 19
 - **Abilities**: Str 14, Dex 21, Con 18, Int 16, Wis 15, Cha 17
 - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +13, [[rangoric-srd/skills/Deception|Deception]] +13, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +11, [[rangoric-srd/skills/Imitation|Imitation]] +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Mysticism|Mysticism]] +12, [[rangoric-srd/skills/Perception|Perception]] +21, [[rangoric-srd/skills/Persuasion|Persuasion]] +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +20
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception, Stealth)
@@ -77,10 +77,10 @@ Dark nagas prefer to fight from an elevated position where they get a good view 
 
 **Spells**: Dark nagas cast spells as 7th-level [[rangoric-srd/classes/Sorcerer|sorcerers]].
 
-**Spells known** (CL 7th): 3rd (5/day)—_[[rangoric-srd/spells/Displacement|displacement]], [[rangoric-srd/spells/Lightning Bolt|lightning bolt]]_ (DC 16); 2nd (7/day)—_[[rangoric-srd/spells/Cat’s Grace|cat's grace]], [[rangoric-srd/spells/Invisibility|invisibility]], [[rangoric-srd/spells/Scorching Ray|scorching ray]]_; 1st (7/day)—_[[rangoric-srd/spells/Expeditious Retreat|expeditious retreat]], [[rangoric-srd/spells/Magic Missile|magic missile]], [[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]_ (DC 14), _[[rangoric-srd/spells/Shield|shield]], [[rangoric-srd/spells/Silent Image|silent image]]_; 0 (at will)—_[[rangoric-srd/spells/Daze|daze]], [[rangoric-srd/spells/Detect Magic|detect magic]], [[rangoric-srd/spells/Light|light]], [[rangoric-srd/spells/Mage Hand|mage hand]], [[rangoric-srd/spells/Open-Close|open/close]], [[rangoric-srd/spells/Ray of Frost|ray of frost]], [[rangoric-srd/spells/Read Magic|read magic]]_.
+**Spells known** (CL 7th): 3rd (5/day)—_[[rangoric-srd/spells/Displacement|displacement]], [[rangoric-srd/spells/Lightning Bolt|lightning bolt]]_ (+6 vs Reflex); 2nd (7/day)—_[[rangoric-srd/spells/Cat’s Grace|cat's grace]], [[rangoric-srd/spells/Invisibility|invisibility]], [[rangoric-srd/spells/Scorching Ray|scorching ray]]_; 1st (7/day)—_[[rangoric-srd/spells/Expeditious Retreat|expeditious retreat]], [[rangoric-srd/spells/Magic Missile|magic missile]], [[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]_ (+4), _[[rangoric-srd/spells/Shield|shield]], [[rangoric-srd/spells/Silent Image|silent image]]_; 0 (at will)—_[[rangoric-srd/spells/Daze|daze]], [[rangoric-srd/spells/Detect Magic|detect magic]], [[rangoric-srd/spells/Light|light]], [[rangoric-srd/spells/Mage Hand|mage hand]], [[rangoric-srd/spells/Open-Close|open/close]], [[rangoric-srd/spells/Ray of Frost|ray of frost]], [[rangoric-srd/spells/Read Magic|read magic]]_.
 
-**Detect Thoughts (Su)**: A dark naga can continuously use detect thoughts as per the spell (caster level 9th; Will DC 18 negates). The save DC is Charisma-based.
+**Detect Thoughts (Su)**: A dark naga can continuously use detect thoughts as per the spell (caster level 9th; +8 vs Will). The attack bonus is Charisma-based.
 
-**Guarded Thoughts (Ex)**: Dark nagas are immune to any form of mind reading, such as that granted by detect thoughts. This ability also grants a +2 racial bonus on all saves against charm effects.
+**Guarded Thoughts (Ex)**: Dark nagas are immune to any form of mind reading, such as that granted by detect thoughts. This ability also grants a +2 racial bonus on all defenses against charm effects.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Dark Naga Venom|Dark Naga Venom]]: Sting—injury; _save_ Fort DC 19; _frequency_ 1 round; _effect_ sleep for 2d4 minutes; _cure_ 1 save.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Dark Naga Venom|Dark Naga Venom]]: Sting—injury; _attack_ +9 vs Fortitude; _frequency_ 1 round; _effect_ sleep for 2d4 minutes; _cure_ 1 miss.

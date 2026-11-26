@@ -14,9 +14,9 @@ cmd: "11"
 attack: "Masterwork dagger +2 melee (1d4+1/19–20)"
 full-attack: "Masterwork dagger +2 melee (1d4+1/19–20)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Channel negative energy 2/day (DC 9, 1d6), spell-like abilities"
+special-attacks: "Channel negative energy 2/day (−1 vs Will, 1d6), spell-like abilities"
 special-qualities: "Low-light vision, final change, sea longing, take to the water"
-saves: "Fort +5, Ref +0, Will +5"
+defenses: "Fort 15, Ref 10, Will 15"
 abilities: "Str 13, Dex 10, Con 17, Int 10, Wis 16, Cha 8"
 skills: "Athletics +9, Perception +4, Theology +4"
 skill-ranks: "Athletics 0, Perception 1, Theology 1"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +2 melee (1d4+1/19–20)
 - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +2 melee (1d4+1/19–20)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Channel Negative Energy|Channel negative energy]] 2/day (DC 9, 1d6), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Channel Negative Energy|Channel negative energy]] 2/day (−1 vs Will, 1d6), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/races/Deep One Hybrid|final change]], [[rangoric-srd/races/Deep One Hybrid|sea longing]], [[rangoric-srd/races/Deep One Hybrid|take to the water]]
-- **Saves**: Fort +5, Ref +0, Will +5
+- **Defenses**: Fort 15, Ref 10, Will 15
 - **Abilities**: Str 13, Dex 10, Con 17, Int 10, Wis 16, Cha 8
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Theology|Theology]] +4
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
@@ -73,4 +73,4 @@ Deep one hybrids speak Aklo and Common.
 
 **[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 1st; concentration +4): 6/day—[[rangoric-srd/class-options/domains/Chaos Domain|touch of chaos]], [[rangoric-srd/class-options/domains/Madness Domain|vision of madness]].
 
-**Cleric spells prepared** (CL 1st; concentration +4): 1st—_[[rangoric-srd/spells/Cause Fear|cause fear]]_ (DC 14), _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, _[[rangoric-srd/spells/Confusion, Lesser|lesser confusion]]_<sup>D</sup> (DC 14); 0 (at will)—_[[rangoric-srd/spells/Bleed|bleed]]_ (DC 13), _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Resistance|resistance]]_; **D** domain spell; **Domains** [[rangoric-srd/class-options/domains/Chaos Domain|Chaos]], [[rangoric-srd/class-options/domains/Madness Domain|Madness]].
+**Cleric spells prepared** (CL 1st; concentration +4): 1st—_[[rangoric-srd/spells/Cause Fear|cause fear]]_ (+4 vs Will), _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, _[[rangoric-srd/spells/Confusion, Lesser|lesser confusion]]_<sup>D</sup> (+4); 0 (at will)—_[[rangoric-srd/spells/Bleed|bleed]]_ (+3 vs Will), _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Resistance|resistance]]_; **D** domain spell; **Domains** [[rangoric-srd/class-options/domains/Chaos Domain|Chaos]], [[rangoric-srd/class-options/domains/Madness Domain|Madness]].

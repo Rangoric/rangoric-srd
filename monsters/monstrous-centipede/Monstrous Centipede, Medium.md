@@ -15,7 +15,7 @@ full-attack: "Bite +2 melee (1d6–1 plus poison)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Poison"
 special-qualities: "Darkvision 60 ft., immunity to mind-affecting effects"
-saves: "Fort +3, Ref +2, Will +0"
+defenses: "Fort 13, Ref 12, Will 10"
 abilities: "Str 9, Dex 15, Con 12, Int —, Wis 10, Cha 2"
 skills: "Athletics +10, Perception +4, Stealth +10"
 skill-ranks: "Athletics 8, Perception 0, Stealth 0"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-- **Saves**: Fort +3, Ref +2, Will +0
+- **Defenses**: Fort 13, Ref 12, Will 10
 - **Abilities**: Str 9, Dex 15, Con 12, Int —, Wis 10, Cha 2
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +10
 - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -70,4 +70,4 @@ Other species of giant centipede are listed under [[rangoric-srd/monsters/centip
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Giant Centipede Venom|Giant Centipede Venom]]: Bite—injury; _save_ Fort DC 13; _frequency_ 1/round for 6 rounds; _effect_ 1d3 Dex damage; _cure_ 1 save. The save DC is Constitution-based and includes a +2 racial bonus.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Giant Centipede Venom|Giant Centipede Venom]]: Bite—injury; _attack_ +3 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d3 Dex damage; _cure_ 1 miss. The attack bonus is Constitution-based and includes a +2 racial bonus.

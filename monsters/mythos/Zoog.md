@@ -15,7 +15,7 @@ full-attack: "Bite +6 melee (1d3–2 plus bleed 1) and 2 claws +6 melee (1d2–2
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "Bleed 1, spell-like abilities"
 special-qualities: "Darkvision 60 ft., detect magic, low-light vision, scent, spell sight, otherworldly touch"
-saves: "Fort +3, Ref +5, Will +1"
+defenses: "Fort 13, Ref 15, Will 11"
 abilities: "Str 6, Dex 15, Con 10, Int 5, Wis 12, Cha 5"
 skills: "Acrobatics +12, Athletics +16, Perception +5"
 skill-ranks: "Acrobatics 1, Athletics 9, Perception 1"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] 1, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect magic, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Spell Sight|spell sight]], [[rangoric-srd/monsters/abilities/Otherworldly Touch|otherworldly touch]]
-- **Saves**: Fort +3, Ref +5, Will +1
+- **Defenses**: Fort 13, Ref 15, Will 11
 - **Abilities**: Str 6, Dex 15, Con 10, Int 5, Wis 12, Cha 5
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Athletics|Athletics]] +16, [[rangoric-srd/skills/Perception|Perception]] +5
 - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]

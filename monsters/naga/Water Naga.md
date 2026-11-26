@@ -16,7 +16,7 @@ full-attack: "Bite +10 melee (2d6+5 plus poison) and tail slap +5 melee (1d8+2)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Poison"
 special-qualities: "Darkvision 60 ft., amphibious"
-saves: "Fort +7, Ref +10, Will +9"
+defenses: "Fort 17, Ref 20, Will 19"
 abilities: "Str 20, Dex 23, Con 20, Int 11, Wis 17, Cha 18"
 skills: "Athletics +13, Deception +8, Mysticism +11, Perception +17, Society +4, Stealth +16"
 skill-ranks: "Athletics 5, Deception 1, Mysticism 8, Perception 11, Society 1, Stealth 11"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Amphibious|amphibious]]
-- **Saves**: Fort +7, Ref +10, Will +9
+- **Defenses**: Fort 17, Ref 20, Will 19
 - **Abilities**: Str 20, Dex 23, Con 20, Int 11, Wis 17, Cha 18
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Deception|Deception]] +8, [[rangoric-srd/skills/Mysticism|Mysticism]] +11, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Society|Society]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +16
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
@@ -78,6 +78,6 @@ Water nagas prefer to stay mostly concealed in a body of water while they launch
 
 **Spells**: A water naga casts spells as a 7th-level [[rangoric-srd/classes/Sorcerer|sorcerer]] but never uses fire spells.
 
-**Spells known** (CL 7th; concentration +11): 3rd (5/day)—_[[rangoric-srd/spells/Protection from Energy|protection from energy]]_, _[[rangoric-srd/spells/Suggestion|suggestion]]_ (DC 17); 2nd (7/day)—_[[rangoric-srd/spells/Acid Arrow|acid arrow]]_, _[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Mirror Image|mirror image]]_; 1st (7/day)—_[[rangoric-srd/spells/Expeditious Retreat|expeditious retreat]]_, _[[rangoric-srd/spells/Magic Missile|magic missile]]_, _[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]_, _[[rangoric-srd/spells/Shield|shield]]_, _[[rangoric-srd/spells/True Strike|true strike]]_; 0 (at will)—_[[rangoric-srd/spells/Acid Splash|acid splash]]_, _[[rangoric-srd/spells/Daze|daze]]_ (DC 14), _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Open-Close|open/close]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_.
+**Spells known** (CL 7th; concentration +11): 3rd (5/day)—_[[rangoric-srd/spells/Protection from Energy|protection from energy]]_, _[[rangoric-srd/spells/Suggestion|suggestion]]_ (+7 vs Will); 2nd (7/day)—_[[rangoric-srd/spells/Acid Arrow|acid arrow]]_, _[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Mirror Image|mirror image]]_; 1st (7/day)—_[[rangoric-srd/spells/Expeditious Retreat|expeditious retreat]]_, _[[rangoric-srd/spells/Magic Missile|magic missile]]_, _[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]_, _[[rangoric-srd/spells/Shield|shield]]_, _[[rangoric-srd/spells/True Strike|true strike]]_; 0 (at will)—_[[rangoric-srd/spells/Acid Splash|acid splash]]_, _[[rangoric-srd/spells/Daze|daze]]_ (+4 vs Will), _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Open-Close|open/close]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Water Naga Venom|Water Naga Venom]]: Bite—injury; _save_ Fort DC 19; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con; _cure_ 2 saves.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Water Naga Venom|Water Naga Venom]]: Bite—injury; _attack_ +9 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con; _cure_ 2 misses.

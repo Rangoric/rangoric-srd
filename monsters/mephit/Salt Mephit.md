@@ -19,7 +19,7 @@ full-attack: "2 claws +7 melee (1d3+3)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Breath weapon, spell-like abilities, summon mephit"
 special-qualities: "Damage reduction 5/magic, darkvision 60 ft., fast healing 2"
-saves: "Fort +4, Ref +2, Will +3"
+defenses: "Fort 14, Ref 12, Will 13"
 abilities: "Str 17, Dex 8, Con 13, Int 6, Wis 11, Cha 15"
 skills: "Deception +8, Escape Artist +5, Fieldcraft +6 (+7 with bindings), Imitation +4 (+6 acting), Perception +6, Persuasion +2, Stealth +9"
 skill-ranks: "Deception 3, Escape Artist 3, Fieldcraft 3, Imitation 3, Perception 3, Persuasion 0, Stealth 3"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]], spell-like abilities, summon mephit
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/magic, darkvision 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 2
-- **Saves**: Fort +4, Ref +2, Will +3
+- **Defenses**: Fort 14, Ref 12, Will 13
 - **Abilities**: Str 17, Dex 8, Con 13, Int 6, Wis 11, Cha 15
 - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +8, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6 (+7 with bindings), [[rangoric-srd/skills/Imitation|Imitation]] +4 (+6 acting), [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Persuasion|Persuasion]] +2, [[rangoric-srd/skills/Stealth|Stealth]] +9
 - **Feats**: [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]]
@@ -72,10 +72,10 @@ Salt mephits speak Common and Terran.
 
 ## Combat
 
-**Breath Weapon (Su)**: 10-foot cone of salt crystals, damage 1d4, Reflex DC 13 half. Living creatures that fail their saves are tormented by itching skin and burning eyes. This effect imposes a –4 penalty to AC and a –2 penalty on attack rolls for 3 rounds. The save DC is Constitution-based and includes a +1 racial bonus.
+**Breath Weapon (Su)**: 10-foot cone of salt crystals, damage 1d4, +3 vs Reflex; a miss halves. Living creatures the breath hits are tormented by itching skin and burning eyes. This effect imposes a –4 penalty to AC and a –2 penalty on attack rolls for 3 rounds. The attack bonus is Constitution-based and includes a +1 racial bonus.
 
-**Spell-Like Abilities**: Once per hour a salt mephit can use [[rangoric-srd/spells/Glitterdust|glitterdust]] (DC 14, caster level 3rd).
+**Spell-Like Abilities**: Once per hour a salt mephit can use [[rangoric-srd/spells/Glitterdust|glitterdust]] (+4 vs Will, caster level 3rd).
 
-Once per day it can draw the moisture from an area in a 20-foot radius centered on itself. Living creatures within range take 2d8 points of damage (Fortitude DC 14 half; caster level 6th). This effect is especially devastating to plant creatures and aquatic creatures, which take a –2 penalty on their saving throws. This ability is the equivalent of a 2nd-level spell. The save DCs are Charisma-based.
+Once per day it can draw the moisture from an area in a 20-foot radius centered on itself. Living creatures within range take 2d8 points of damage (+4 vs Fortitude; a miss halves; caster level 6th). This effect is especially devastating to plant creatures and aquatic creatures, which take a –2 penalty to their defenses. This ability is the equivalent of a 2nd-level spell. The attack bonuses are Charisma-based.
 
 **Fast Healing (Ex)**: A salt mephit heals only if in an arid environment.
