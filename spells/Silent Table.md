@@ -17,7 +17,7 @@ casting-time: "1 round"
 range: "Close (25 ft. + 5 ft./2 levels)"
 area: "5-ft.-diameter emanation centered on an object or a point in space"
 duration: "1 minute/level (D)"
-saving-throw: "None (object)"
+defense: "None (object)"
 spell-resistance: "No (object)"
 book: "Advanced Class Guide"
 based-on:
@@ -38,7 +38,7 @@ _Illusion (Glamer)_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Area**: 5-ft.-diameter emanation centered on an object or a point in space
 - **Duration**: 1 minute/level (D)
-- **Saving Throw**: None (object)
+- **Defense**: None (object)
 - **Spell Resistance**: No (object)
 
-You protect an area against casual eavesdropping. Sounds and sonic effects that originate inside the area are muffled for anyone outside the area; Perception DCs to hear or understand sounds leaving the area increase by 20, and any saving throw DCs of these effects decrease by 2. The spell does not affect sounds that enter the area or the Perception checks of creatures inside it.
+You protect an area against casual eavesdropping. Sounds and sonic effects that originate inside the area are muffled for anyone outside the area; Perception DCs to hear or understand sounds leaving the area increase by 20, and the attack bonuses of these effects decrease by 2. The spell does not affect sounds that enter the area or the Perception checks of creatures inside it.

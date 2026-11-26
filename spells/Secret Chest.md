@@ -18,7 +18,7 @@ casting-time: "10 minutes"
 range: "See text"
 target: "One chest and up to 1 cu. ft. of goods/caster level"
 duration: "Sixty days or until discharged"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Secret Chest|Secret Chest (3.5)]]"
@@ -38,7 +38,7 @@ _Conjuration (Summoning)_
 - **Range**: See text
 - **Target**: One chest and up to 1 cu. ft. of goods/caster level
 - **Duration**: Sixty days or until discharged
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You hide a chest on the Ethereal Plane for as long as sixty days and can retrieve it at will. The chest can contain up to 1 cubic foot of material per caster level (regardless of the chest’s actual size, which is about 3 feet by 2 feet by 2 feet). If any living creatures are in the chest, there is a 75% chance that the spell simply fails. Once the chest is hidden, you can retrieve it by concentrating (a standard action), and it appears next to you.

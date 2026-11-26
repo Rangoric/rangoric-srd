@@ -14,7 +14,7 @@ components:
   - "S"
   - "F"
 range: "60 ft."
-saving-throw: "Fortitude partial or Reflex negates (object); see text"
+defense: "Fortitude partial or Reflex (object); see text"
 based-on:
   - "[[fantasy srd 3.5/spells/Shout, Greater|Shout, Greater (3.5)]]"
 status: draft
@@ -30,8 +30,8 @@ _Evocation \[Sonic\]_
 - **Level**: Brd 6, Psy 8, Skd 6, Sor/Wiz 8
 - **Components**: V, S, F
 - **Range**: 60 ft.
-- **Saving Throw**: Fortitude partial or Reflex negates (object); see text
+- **Defense**: Fortitude partial or Reflex (object); see text
 
-This spell functions like [[rangoric-srd/spells/Shout|shout]], except that the cone deals 10d6 points of sonic damage (or 1d6 points of sonic damage per caster level, maximum 20d6, against exposed brittle or crystalline objects or crystalline creatures). It also causes creatures to be [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1 round and [[rangoric-srd/rules/Special Abilities and Conditions#^deafened|deafened]] for 4d6 rounds. A creature in the area of the cone can negate the stunning and halve both the damage and the duration of the deafness with a successful Fortitude save. A creature holding vulnerable objects can attempt a Reflex save to negate the damage to those objects.
+This spell functions like [[rangoric-srd/spells/Shout|shout]], except that the cone deals 10d6 points of sonic damage (or 1d6 points of sonic damage per caster level, maximum 20d6, against exposed brittle or crystalline objects or crystalline creatures). It also causes creatures to be [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1 round and [[rangoric-srd/rules/Special Abilities and Conditions#^deafened|deafened]] for 4d6 rounds. A miss against the Fortitude of a creature in the area of the cone negates the stunning and halves both the damage and the duration of the deafness. A miss against the Reflex of a creature holding vulnerable objects negates the damage to those objects.
 
 _Arcane Focus_: A small metal or ivory horn.

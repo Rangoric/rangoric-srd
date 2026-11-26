@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "One scarf"
 duration: "1 round/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Ultimate Magic"
 based-on:
@@ -36,7 +36,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: One scarf
 - **Duration**: 1 round/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You imbue an ordinary scarf (or similar piece of clothing) with the strength of steel without altering its weight or flexibility. Each round on your turn, you can decide to use the scarf to defend yourself (gaining a +2 shield bonus to your Armor Class) or to attack as if the scarf were a whip.

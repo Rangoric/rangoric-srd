@@ -11,7 +11,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Your Familiar"
 duration: "1 round/level"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes"
 book: "Spells & Magic"
 based-on:
@@ -32,10 +32,10 @@ _Abjuration_
 - **Range**: Touch
 - **Target**: Your Familiar
 - **Duration**: 1 round/level
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes
 
-This spell surrounds your familiar with a glowing field of force that grants it a +2 cover bonus to Armor Class and a +1 cover bonus to reflex saves. _[[rangoric-srd/spells/Magic Missile|Magic missile]]_ spells are harmlessly absorbed by this field.
+This spell surrounds your familiar with a glowing field of force that grants it a +2 cover bonus to Armor Class and a +1 cover bonus to Reflex Defense. _[[rangoric-srd/spells/Magic Missile|Magic missile]]_ spells are harmlessly absorbed by this field.
 
 If the affected familiar is within 5 feet of you, this bonus stacks with those granted by the _[[rangoric-srd/spells/Shield|shield]]_ spell. For this to occur, the familiar must be conscious, mobile, and take no other action save for defending you with the _second shield_.
 

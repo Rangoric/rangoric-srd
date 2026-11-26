@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature or object touched"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Shocking Grasp|Shocking Grasp (3.5)]]"
@@ -36,7 +36,7 @@ _Evocation \[Electricity\]_
 - **Range**: Touch
 - **Target**: Creature or object touched
 - **Duration**: Instantaneous
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 Your successful melee touch attack deals 1d6 points of electricity damage per caster level (maximum 5d6). When delivering the jolt, you gain a +3 bonus on attack rolls if the opponent is wearing metal armor (or made out of metal, carrying a lot of metal, or the like).

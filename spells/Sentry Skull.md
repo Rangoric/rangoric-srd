@@ -17,7 +17,7 @@ casting-time: "1 hour"
 range: "Touch"
 target: "Severed head touched"
 duration: "Permanent (D); see text"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Advanced Race Guide"
 based-on:
@@ -38,7 +38,7 @@ _Necromancy \[Evil\]_
 - **Range**: Touch
 - **Target**: Severed head touched
 - **Duration**: Permanent (D); see text
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You restore the senses to the severed head of a humanoid or monstrous humanoid killed within the past 24 hours, creating a grisly sentinel. The head must be affixed to a pole, spear, tree branch, or other stable object, and the spell ends if the head or its object is moved. The head has darkvision 60 feet and low-light vision, can swivel in place to look in any direction, and has a +5 bonus on Perception checks.

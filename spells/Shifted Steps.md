@@ -25,7 +25,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature or object up to 10 feet across"
 duration: "Concentration + 1 round/level"
-saving-throw: "Will negates and Will disbelief (if interacted with); see text"
+defense: "Will and Will disbelief (if interacted with); see text"
 spell-resistance: "No"
 book: "Ultimate Intrigue"
 based-on:
@@ -46,7 +46,7 @@ _Illusion (Glamer) \[Sonic\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature or object up to 10 feet across
 - **Duration**: Concentration + 1 round/level
-- **Saving Throw**: Will negates and Will disbelief (if interacted with); see text
+- **Defense**: Will and Will disbelief (if interacted with); see text
 - **Spell Resistance**: No
 
-You cause the target to sound as if it is elsewhere within range, including its movements, speech, and all other sounds. As long as you concentrate, you can cause the sound's apparent location to change as you see fit within range from your current location. Once you cease concentrating, the sound moves so that it remains the same relative distance and direction from the target. This spell can fool any sound-based blindsense or blindsight (including echolocation), but it can't fool other forms of detection such as other forms of blindsense or blindsight, lifesense, normal vision, and tremorsense. The target receives a saving throw against the effect if it doesn't wish for you to shift its sound, and any creature that interacts with the illusion receives a Will save to disbelieve the glamer.
+You cause the target to sound as if it is elsewhere within range, including its movements, speech, and all other sounds. As long as you concentrate, you can cause the sound's apparent location to change as you see fit within range from your current location. Once you cease concentrating, the sound moves so that it remains the same relative distance and direction from the target. This spell can fool any sound-based blindsense or blindsight (including echolocation), but it can't fool other forms of detection such as other forms of blindsense or blindsight, lifesense, normal vision, and tremorsense. The spell attacks the target’s Will if it doesn't wish for you to shift its sound, and the glamer attacks the Will of any creature that interacts with the illusion, which disbelieves it on a miss.

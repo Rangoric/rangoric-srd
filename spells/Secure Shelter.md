@@ -17,7 +17,7 @@ casting-time: "10 minutes"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "20-ft.-square structure"
 duration: "2 hours/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Secure Shelter|Secure Shelter (3.5)]]"
@@ -37,7 +37,7 @@ _Conjuration (Creation)_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Effect**: 20-ft.-square structure
 - **Duration**: 2 hours/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You conjure a sturdy cottage or lodge made of material that is common in the area where the spell is cast. The floor is level, clean, and dry. In all respects the lodging resembles a normal cottage, with a sturdy door, two shuttered windows, and a small fireplace.

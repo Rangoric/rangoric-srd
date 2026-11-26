@@ -20,7 +20,7 @@ casting-time: "1 standard action"
 range: "Touch"
 targets: "Creatures touched"
 duration: "24 hours"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Ultimate Combat"
 based-on:
@@ -41,7 +41,7 @@ _Divination_
 - **Range**: Touch
 - **Targets**: Creatures touched
 - **Duration**: 24 hours
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 This spell functions like _[[rangoric-srd/spells/Share Language|share language]]_ , except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 1-hour increments among the creatures touched.

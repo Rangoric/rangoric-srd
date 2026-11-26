@@ -18,7 +18,7 @@ casting-time: "1 standard action"
 range: "Long (400 ft. + 40 ft./level)"
 area: "20-ft.-radius emanation centered on a creature, object, or point in space"
 duration: "1 min./level (D)"
-saving-throw: "Will negates; see text or none (object)"
+defense: "Will; see text or none (object)"
 spell-resistance: "Yes; see text or no (object)"
 based-on:
   - "[[fantasy srd 3.5/spells/Silence|Silence (3.5)]]"
@@ -38,7 +38,7 @@ _Illusion (Glamer)_
 - **Range**: Long (400 ft. + 40 ft./level)
 - **Area**: 20-ft.-radius emanation centered on a creature, object, or point in space
 - **Duration**: 1 min./level (D)
-- **Saving Throw**: Will negates; see text or none (object)
+- **Defense**: Will; see text or none (object)
 - **Spell Resistance**: Yes; see text or no (object)
 
-Upon the casting of this spell, complete silence prevails in the affected area. All sound is stopped: Conversation is impossible, spells with verbal components cannot be cast, and no noise whatsoever issues from, enters, or passes through the area. The spell can be cast on a point in space, but the effect is stationary unless cast on a mobile object. The spell can be centered on a creature, and the effect then radiates from the creature and moves as it moves. An unwilling creature can attempt a Will save to negate the spell and can use spell resistance, if any. Items in a creature’s possession or magic items that emit sound receive the benefits of saves and spell resistance, but unattended objects and points in space do not. This spell provides a defense against sonic or language-based attacks.
+Upon the casting of this spell, complete silence prevails in the affected area. All sound is stopped: Conversation is impossible, spells with verbal components cannot be cast, and no noise whatsoever issues from, enters, or passes through the area. The spell can be cast on a point in space, but the effect is stationary unless cast on a mobile object. The spell can be centered on a creature, and the effect then radiates from the creature and moves as it moves. The spell attacks an unwilling creature’s Will, and a miss negates it; the creature can also use spell resistance, if any. Items in a creature’s possession or magic items that emit sound get the benefits of defenses and spell resistance, but unattended objects and points in space do not. This spell provides a defense against sonic or language-based attacks.

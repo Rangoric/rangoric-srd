@@ -12,7 +12,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One living creature"
 duration: "10 minutes/level"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Advanced Player's Guide"
 based-on:
@@ -33,7 +33,7 @@ _Enchantment_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One living creature
 - **Duration**: 10 minutes/level
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 You curse the target, preventing it from drawing upon the powers of destiny. The target is shaken and cannot use [[rangoric-srd/unearthed-arcana/Hero Points|hero points]] for the duration of the spell. This effect can be removed by _dispel magic, remove curse_, or other similar effects.

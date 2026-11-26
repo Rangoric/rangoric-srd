@@ -12,7 +12,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 targets: "One creature or object/level, no two of which can be more than 30 ft. apart"
 duration: "1 hour/level (D)"
-saving-throw: "Will negates (object)"
+defense: "Will (object)"
 spell-resistance: "Yes (object)"
 based-on:
   - "[[fantasy srd 3.5/spells/Sculpt Sound|Sculpt Sound (3.5)]]"
@@ -32,7 +32,7 @@ _Transmutation_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Targets**: One creature or object/level, no two of which can be more than 30 ft. apart
 - **Duration**: 1 hour/level (D)
-- **Saving Throw**: Will negates (object)
+- **Defense**: Will (object)
 - **Spell Resistance**: Yes (object)
 
 You change the sounds that creatures or objects make. You can create sounds where none exist, deaden sounds, or transform sounds into other sounds. All affected creatures or objects must be transmuted in the same way. Once the transmutation is made, you cannot change it.

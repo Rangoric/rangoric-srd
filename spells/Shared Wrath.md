@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 targets: "Up to one creature/level, no two of which can be more than 30 ft. apart"
 duration: "1 minute"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Advanced Player's Guide"
 based-on:
@@ -37,7 +37,7 @@ _Enchantment (Compulsion) \[Emotion, Mind-affecting\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Targets**: Up to one creature/level, no two of which can be more than 30 ft. apart
 - **Duration**: 1 minute
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 This spell functions as _[[rangoric-srd/spells/Wrath|wrath]]_, except that you grant multiple creatures the bonuses against your designated foe. All subjects of _shared wrath_ receive their bonuses against the same creature.

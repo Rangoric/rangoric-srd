@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "1 minute/level"
-saving-throw: "Fortitude negates (harmless)"
+defense: "Fortitude (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Advanced Class Guide"
 based-on:
@@ -36,7 +36,7 @@ _Abjuration_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: 1 minute/level
-- **Saving Throw**: Fortitude negates (harmless)
+- **Defense**: Fortitude (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 This spell functions as _[[rangoric-srd/spells/Shield of Fortification|shield of fortification]]_, except there is a 50% chance that the critical hit or sneak attack is negated and damage is instead be rolled normally, rather than 25%.

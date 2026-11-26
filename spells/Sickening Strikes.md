@@ -19,7 +19,7 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 round/level"
-saving-throw: "Fortitude negates; see text"
+defense: "Fortitude; see text"
 spell-resistance: "Yes"
 book: "Advanced Race Guide"
 based-on:
@@ -40,7 +40,7 @@ _Transmutation \[Disease\]_
 - **Range**: Personal
 - **Target**: You
 - **Duration**: 1 round/level
-- **Saving Throw**: Fortitude negates; see text
+- **Defense**: Fortitude; see text
 - **Spell Resistance**: Yes
 
-You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be sickened for 1 minute. Creatures that are immune to disease are immune to this sickened effect.
+You are imbued with disease, and any creature you strike with a melee attack is attacked against Fortitude, and on a hit is sickened for 1 minute. Creatures that are immune to disease are immune to this sickened effect.

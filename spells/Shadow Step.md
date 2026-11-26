@@ -19,7 +19,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 target: "You"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Ultimate Magic"
 based-on:
@@ -40,7 +40,7 @@ _Illusion (Shadow) \[Shadow\]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Target**: You
 - **Duration**: Instantaneous
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 To use this spell, you must be in an area of dim light or darkness. You enter a shadow or area of darkness, which transports you along a coiling path of shadowstuff to another dim or dark location within range.

@@ -21,7 +21,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "24 hours"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Advanced Player's Guide"
 based-on:
@@ -42,7 +42,7 @@ _Divination_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: 24 hours
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 You can share your facility for one particular language with another creature. For 24 hours the target can read, understand, and communicate to the best of its ability in any one language which you already know. For every 5 levels you possess, you can grant the use of another language you know, to a maximum of 5 languages at 20th level. The target must have the physical capacity to articulate sounds, make gestures, or engage in whatever other method speakers of the language use to communicate with each other in order to actually converse. If the target lacks the mental capacity to grasp an actual language it still gains enough knowledge to respond to and carry out even extremely complex commands or suggestions coached in the language (whether written or spoken). However, since this spell does not endow the target with greater reasoning capacity, merely a temporarily enhanced vocabulary, the person offering up instructions to non-sentient creatures must take care to remove any ambiguity or guesswork.

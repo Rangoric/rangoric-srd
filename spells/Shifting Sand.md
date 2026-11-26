@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 area: "20-ft. spread"
 duration: "1 round/level (D)"
-saving-throw: "Reflex negates; see text"
+defense: "Reflex; see text"
 spell-resistance: "No"
 based-on:
   - "[[path srd 3.5/spells/Shifting Sand|Shifting Sand (PF1)]]"
@@ -36,9 +36,9 @@ _Transmutation \[Earth\]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Area**: 20-ft. spread
 - **Duration**: 1 round/level (D)
-- **Saving Throw**: Reflex negates; see text
+- **Defense**: Reflex; see text
 - **Spell Resistance**: No
 
-You cause an earthen or sandy surface to shift and churn within the area. The _shifting sand_ obliterates tracks and is considered difficult terrain. Acrobatics checks in the area take a penalty equal to your caster level (maximum +10). Creatures entering or beginning their turn in the _shifting sand_ must make a Reflex save each round or become entangled until the beginning of their next turn. If they attempt to move while entangled, they must make a second Reflex save or fall prone. Creatures with the stability racial trait (like dwarves) may apply it as a bonus on their saving throws.
+You cause an earthen or sandy surface to shift and churn within the area. The _shifting sand_ obliterates tracks and is considered difficult terrain. Acrobatics checks in the area take a penalty equal to your caster level (maximum +10). Creatures entering or beginning their turn in the _shifting sand_ are attacked against Reflex each round, and on a hit become entangled until the beginning of their next turn. If they attempt to move while entangled, the sand attacks their Reflex a second time, and on a hit they fall prone. Creatures with the stability racial trait (like dwarves) may apply it as a bonus to their Reflex Defense.
 
 As a move action, you may move the area of shifting sand up to 10 feet in any direction. Creatures that are entangled or prone in the spell's area are carried along with the _shifting sand_ in the same direction if possible. This movement does not provoke attacks of opportunity. Unattended Medium or smaller objects may also be carried along or shallowly buried by the _shifting sand_.
