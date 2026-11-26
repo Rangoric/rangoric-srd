@@ -28,7 +28,7 @@ This is the name by which the creature is generally known. The descriptive text 
 
 This line describes the creature’s size. A size modifier applies to the creature’s Armor Class (AC) and attack bonus, as well as to certain skills. A creature’s size also determines how far it can reach to make a melee attack and how much space it occupies in a fight (see Space/Reach, below).
 
-The size and type line continues with the creature’s type. Type determines how magic affects a creature. Type determines certain features, such as Hit Dice size, base attack bonus, base saving throw bonuses, and skill points.
+The size and type line continues with the creature’s type. Type determines how magic affects a creature. Type determines certain features, such as Hit Dice size, base attack bonus, base save bonuses, and skill points.
 
 ###### Hit Dice
 
@@ -86,11 +86,11 @@ This line describes how much space the creature takes up on the battle grid and 
 
 Many creatures have unusual abilities. A monster entry breaks these abilities into special attacks and special qualities. The latter category includes defenses, vulnerabilities, and other special abilities that are not modes of attack. A special ability is either extraordinary (Ex), spell-like (Sp), or supernatural (Su). Additional information (when needed) is provided in the creature’s descriptive text.
 
-When a special ability allows a saving throw, the kind of save and the save DC is noted in the descriptive text. Most saving throws against special abilities have DCs calculated as follows: 10 + 1/2 the attacker’s racial Hit Dice + the relevant ability modifier. The save DC is given in the creature’s description along with the ability on which the DC is based.
+When a special ability attacks a defense, the defense and the attack bonus are noted in the descriptive text. Most special abilities have attack bonuses calculated as follows: 1/2 the attacker’s racial Hit Dice + the relevant ability modifier ([[rangoric-srd/rules/Saving Throws|Saving Throws]]). The attack bonus is given in the creature’s description along with the ability on which it is based.
 
-###### Saves
+###### Defenses
 
-This line gives the creature’s Fortitude, Reflex, and Will save modifiers.
+This line gives the creature’s Fortitude, Reflex, and Will Defenses, each 10 + its save bonus.
 
 ###### Abilities
 

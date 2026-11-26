@@ -117,18 +117,10 @@ If you use two move actions in a round (sometimes called a “double move” act
 
 ##### Saving Throws
 
-Generally, when you are subject to an unusual or magical attack, you get a saving throw to avoid or reduce the effect. Like an attack roll, a saving throw is a d20 roll plus a bonus based on your class, level, and an ability score. Your saving throw modifier is:
+Generally, when you are subject to an unusual or magical attack, it attacks one of your three defenses, Fortitude, Reflex, or Will, to affect you, and a miss avoids or reduces the effect. Like Armor Class, a defense is 10 plus a bonus based on your class, level, and an ability score. Your defense is:
 
-**Base save bonus + ability modifier**
+**10 + base save bonus + ability modifier**
 
-**Saving Throw Types**: The three different kinds of saving throws are Fortitude, Reflex, and Will:
+**Attack Bonus**: The attack bonus against your defense is determined by the attack itself.
 
-_Fortitude_: These saves measure your ability to stand up to physical punishment or attacks against your vitality and health. Apply your Constitution modifier to your Fortitude saving throws.
-
-_Reflex_: These saves test your ability to dodge area attacks. Apply your Dexterity modifier to your Reflex saving throws.
-
-_Will_: These saves reflect your resistance to mental influence as well as many magical effects. Apply your Wisdom modifier to your Will saving throws.
-
-**Saving Throw Difficulty Class**: The DC for a save is determined by the attack itself.
-
-**Automatic Failures and Successes**: A natural 1 (the d20 comes up 1) on a saving throw is always a failure (and may cause damage to exposed items; see Items Surviving after a Saving Throw). A natural 20 (the d20 comes up 20) is always a success.
+What each defense measures, and how attacks against defenses work, is in [[rangoric-srd/rules/Saving Throws|Saving Throws]].

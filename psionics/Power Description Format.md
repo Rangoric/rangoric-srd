@@ -155,7 +155,7 @@ You must make some choice about whom the power is to affect or where the power�
 
 Target or Targets: Some powers have a target or targets. You manifest these powers on creatures or objects, as defined by the power itself. You must be able to see or touch the target, and you must specifically choose that target. However, you do not have to select your target until you finish manifesting the power.
 
-If you manifest a targeted power on the wrong type of target the power has no effect. If the target of a power is yourself (the power description has a line that reads “Target: You”), you do not receive a saving throw and power resistance does not apply. The Saving Throw and Power Resistance lines are omitted from such powers.
+If you manifest a targeted power on the wrong type of target the power has no effect. If the target of a power is yourself (the power description has a line that reads “Target: You”), the power does not attack your defenses and power resistance does not apply. The Defense and Power Resistance lines are omitted from such powers.
 
 Some powers can be manifested only on willing targets. Declaring yourself as a willing target is something that can be done at any time (even if you’re flat-footed or it isn’t your turn). [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|Unconscious]] creatures are automatically considered willing, but a character who is conscious but immobile or [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]] (such as one who is bound, [[rangoric-srd/rules/Special Abilities and Conditions#^cowering|cowering]], [[rangoric-srd/rules/conditions/Grappled (Condition)|grappling]], [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]], [[rangoric-srd/rules/conditions/Pinned (Condition)|pinned]], or [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]]) is not automatically willing. The Saving Throw and Power Resistance lines are usually omitted from such powers, since only willing subjects can be targeted.
 
@@ -219,35 +219,33 @@ Discharge: Occasionally a power lasts for a set duration or until triggered or d
 
 (D) Dismissible: If the Duration line ends with “(D),” you can dismiss the power at will. You must be within range of the power’s effect and must mentally will the dismissal, which causes the same display as when you first manifested the power. Dismissing a power is a standard action that does not provoke attacks of opportunity. A power that depends on concentration is dismissible by its very nature, and dismissing it does not take an action or cause a display, since all you have to do to end the power is to stop concentrating on your turn.
 
-##### Saving Throw
+##### Defense
 
-Usually a harmful power allows a target to make a saving throw to avoid some or all of the effect. The Saving Throw line in a power description defines which type of saving throw the power allows and describes how saving throws against the power work.
+Usually a harmful power attacks one of a target’s defenses, and a miss avoids some or all of the effect ([[rangoric-srd/rules/Saving Throws|Saving Throws]]). The Defense line in a power description defines which defense the power attacks and describes what happens when it misses.
 
-Negates: The power has no effect on a subject that makes a successful saving throw.
+The defense alone (such as “Will”): The power has no effect on a subject it misses.
 
-Partial: The power causes an effect on its subject, such as death. A successful saving throw means that some lesser effect occurs (such as being dealt damage rather than being killed).
+Partial: The power causes an effect on its subject, such as death. If it misses, some lesser effect occurs (such as being dealt damage rather than being killed).
 
-Half: The power deals damage, and a successful saving throw halves the damage taken (round down).
+Half: The power deals damage, and if it misses, the damage taken is halved (round down).
 
-None: No saving throw is allowed.
+None: The power attacks no defense.
 
-(object): The power can be manifested on objects, which receive saving throws only if they are psionic or if they are attended (held, worn, grasped, or the like) by a creature resisting the power, in which case the object uses the creature’s saving throw bonus unless its own bonus is greater. (This notation does not mean that a power can be manifested only on objects. Some powers of this sort can be manifested on creatures or objects.) A psionic item’s saving throw bonuses are each equal to 2 + one-half the item’s manifester level.
+(object): The power can be manifested on objects, which have defenses against it only if they are psionic or if they are attended (held, worn, grasped, or the like) by a creature resisting the power, in which case the object uses the creature’s defense unless its own defense is greater. (This notation does not mean that a power can be manifested only on objects. Some powers of this sort can be manifested on creatures or objects.) A psionic item’s defenses are each equal to 12 + one-half the item’s manifester level.
 
-(harmless): The power is usually beneficial, not harmful, but a targeted creature can attempt a saving throw if it desires.
+(harmless): The power is usually beneficial, not harmful, but a targeted creature can defend against it if it desires.
 
-Saving Throw Difficulty Class: A saving throw against your power has a DC 10 + the level of the power + your key ability modifier (Intelligence for a psion, Wisdom for a psychic warrior, or Charisma for a wilder). A power’s level can vary depending on your class. Always use the power level applicable to your class.
+Power Attack Bonus: Your power’s attack bonus against a defense is the level of the power + your key ability modifier (Intelligence for a psion, Wisdom for a psychic warrior, or Charisma for a wilder). A power’s level can vary depending on your class. Always use the power level applicable to your class.
 
-Succeeding on a Saving Throw: A creature that successfully saves against a power that has no obvious physical effects feels a hostile force or a tingle, but cannot deduce the exact nature of the attack. Likewise, if a creature’s saving throw succeeds against a targeted power you sense that the power has failed. You do not sense when creatures succeed on saves against effect and area powers.
+Defending against a Power: A creature that a power with no obvious physical effects misses feels a hostile force or a tingle, but cannot deduce the exact nature of the attack. Likewise, if your targeted power misses a creature you sense that the power has failed. You do not sense when effect and area powers miss creatures.
 
-Failing a Saving Throw against Mind-Affecting Powers: If you fail your save, you are unaware that you have been affected by a power.
+Failing Your Save against Mind-Affecting Powers: If you fail your save, you are unaware that you have been affected by a power.
 
-Automatic Failures and Successes: A natural 1 (the d20 comes up 1) on a saving throw is always a failure, and the power may deal damage to exposed items (see Items Surviving after a Saving Throw, below). A natural 20 (the d20 comes up 20) is always a success.
+Voluntarily Lowering a Defense: A creature can voluntarily lower a defense and willingly accept a power’s result. Even a character with a special resistance to psionics can suppress this quality.
 
-Voluntarily Giving up a Saving Throw: A creature can voluntarily forego a saving throw and willingly accept a power’s result. Even a character with a special resistance to psionics can suppress this quality.
+Items Surviving after a Saving Throw: Unless the descriptive text for the power specifies otherwise, all items carried or worn by a creature are assumed to survive a psionic attack. If the attack beats the creature’s defense by 10 or more, however, an exposed item is harmed (if the attack can harm objects). Refer to Table: Items Affected by Psionic Attacks.
 
-Items Surviving after a Saving Throw: Unless the descriptive text for the power specifies otherwise, all items carried or worn by a creature are assumed to survive a psionic attack. If a creature rolls a natural 1 on its saving throw against the effect, however, an exposed item is harmed (if the attack can harm objects). Refer to Table: Items Affected by Psionic Attacks.
-
-Determine which four objects carried or worn by the creature are most likely to be affected and roll randomly among them. The randomly determined item must make a saving throw against the attack form or take whatever damage the attack deals.
+Determine which four objects carried or worn by the creature are most likely to be affected and roll randomly among them. The attack is then rolled against the randomly determined item’s defense, and if it hits, the item takes whatever damage the attack deals.
 
 Table: Items Affected by Psionic Attacks   
 
@@ -272,7 +270,7 @@ Power resistance is a special defensive ability. If your power is being resisted
 
 The Power Resistance line and the descriptive text of a power description tell you whether power resistance protects creatures from the power. In many cases, power resistance applies only when a resistant creature is targeted by the power, not when a resistant creature encounters a power that is already in place.
 
-The terms “object” and “harmless” mean the same thing for power resistance as they do for saving throws. A creature with power resistance must voluntarily lower the resistance (a standard action) to be affected by a power noted as harmless. In such a case, you do not need to make the manifester level check described above.
+The terms “object” and “harmless” mean the same thing for power resistance as they do for defenses. A creature with power resistance must voluntarily lower the resistance (a standard action) to be affected by a power noted as harmless. In such a case, you do not need to make the manifester level check described above.
 
 ##### Power Points
 
