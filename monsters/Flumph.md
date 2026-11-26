@@ -15,7 +15,7 @@ full-attack: "Sting +5 melee (1d4 plus acid injection)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Stench spray"
 special-qualities: "Darkvision 60 ft."
-saves: "Fort +0, Ref +3, Will +5"
+defenses: "Fort 10, Ref 13, Will 15"
 abilities: "Str 10, Dex 16, Con 11, Int 10, Wis 14, Cha 10"
 skills: "Acrobatics +18, Perception +7, Persuasion +2, Sense Motive +3, Stealth +11"
 skill-ranks: "Acrobatics 10, Perception 2, Persuasion 2, Sense Motive 1, Stealth 1"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Stench Spray|Stench spray]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft.
-- **Saves**: Fort +0, Ref +3, Will +5
+- **Defenses**: Fort 10, Ref 13, Will 15
 - **Abilities**: Str 10, Dex 16, Con 11, Int 10, Wis 14, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +18, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Persuasion|Persuasion]] +2, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +3, [[rangoric-srd/skills/Stealth|Stealth]] +11
 - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -69,4 +69,4 @@ Flumphs float and speak via a constant flow of air through tiny pores in their w
 
 **Acid Injection (Ex)**: When a flumph strikes an opponent with its spikes, it injects a burning, irritating acid that deals 1d4 points of acid damage immediately and another 1d4 points of acid damage on the round after the attack. The target can end the acid's effects by submerging the wound in water for a round or by being treated with a DC 15 Medicine check. A creature that grapples or swallows the flumph takes this acid damage automatically every round it maintains this contact with a living flumph.
 
-**[[rangoric-srd/monsters/abilities/Stench Spray|Stench Spray]] (Ex)**: A flumph can spray a 20-foot line of foul-smelling liquid once every 1d4 rounds. This spray functions like the [[rangoric-srd/monsters/abilities/Stench|stench]] ability, except it only affects creatures struck by the spray, which must make a DC 11 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 5 rounds. The save DC is Constitution-based. Alternatively, the flumph can concentrate the spray on a single target within 5 feet. To use this version of its stench spray, the flumph must succeed at a ranged touch attack (+5 for most flumphs). If the target is hit, it must make a DC 11 Fortitude save or become [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 5 rounds; otherwise, it is sickened for 5 rounds. The odor from this spray lingers in the area and on all creatures struck for 1d4 hours, and can be detected at a range of 100 feet (creatures with the scent ability can smell it at double this range).
+**[[rangoric-srd/monsters/abilities/Stench Spray|Stench Spray]] (Ex)**: A flumph can spray a 20-foot line of foul-smelling liquid once every 1d4 rounds. This spray functions like the [[rangoric-srd/monsters/abilities/Stench|stench]] ability, except it only affects creatures struck by the spray, which are attacked at +1 vs Fortitude, and on a hit are [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 5 rounds. The attack bonus is Constitution-based. Alternatively, the flumph can concentrate the spray on a single target within 5 feet. To use this version of its stench spray, the flumph must succeed at a ranged touch attack (+5 for most flumphs). If the target is hit, it is attacked at +1 vs Fortitude, and on a hit becomes [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 5 rounds; otherwise, it is sickened for 5 rounds. The odor from this spray lingers in the area and on all creatures struck for 1d4 hours, and can be detected at a range of 100 feet (creatures with the scent ability can smell it at double this range).

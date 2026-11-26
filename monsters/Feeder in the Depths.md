@@ -15,7 +15,7 @@ full-attack: "Bite +15/+10 melee (2d6+10/19–20 plus deadly bleeding)"
 space-reach: "15 ft./10 ft."
 special-attacks: "Swift bite, spell-like abilities"
 special-qualities: "Blindsense 30 ft., darkvision 60 ft., keen scent, low-light vision, blood feast, blood feast (30 ft.), resistance to cold 20, spell resistance 19"
-saves: "Fort +12, Ref +9, Will +7"
+defenses: "Fort 22, Ref 19, Will 17"
 abilities: "Str 24, Dex 15, Con 20, Int 13, Wis 15, Cha 14"
 skills: "Athletics +15, Intimidation +19, Perception +20, Theology +11"
 skill-ranks: "Athletics 5, Intimidation 14, Perception 10, Theology 7"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Swift Bite|Swift bite]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Keen Scent|keen scent]], [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Blood Feast|blood feast]], [[rangoric-srd/monsters/abilities/Blood Feast|blood feast]] (30 ft.), [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 20, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 19
-- **Saves**: Fort +12, Ref +9, Will +7
+- **Defenses**: Fort 22, Ref 19, Will 17
 - **Abilities**: Str 24, Dex 15, Con 20, Int 13, Wis 15, Cha 14
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Intimidation|Intimidation]] +19, [[rangoric-srd/skills/Perception|Perception]] +20, [[rangoric-srd/skills/Theology|Theology]] +11
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
@@ -69,11 +69,11 @@ Feeder in the depths speak Aklo, Aquan and Infernal.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +12): At will—_[[rangoric-srd/spells/Blood Biography|blood biography]]_ (on any creature bitten in the past day, DC 15); 1/day—_[[rangoric-srd/spells/Summon Monster V|summon monster V]]_ (summons 1d4+1 hammerhead sharks or 1d3 great white sharks).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +12): At will—_[[rangoric-srd/spells/Blood Biography|blood biography]]_ (on any creature bitten in the past day, +5 vs Will); 1/day—_[[rangoric-srd/spells/Summon Monster V|summon monster V]]_ (summons 1d4+1 hammerhead sharks or 1d3 great white sharks).
 
 **[[rangoric-srd/monsters/abilities/Blood Feast|Blood Feast]] (Su)**: When a creature within 30 feet of a feeder in the depths takes bleed damage (including ongoing damage), the feeder heals an equal amount of damage.
 
-**Deadly Bleeding (Su)**: A feeder in the depth's bite causes bleeding wounds that resist healing. The first bite that damages a creature deals 1d4 points of bleed damage, and each subsequent bite increases the amount of bleed by 1d4. Stopping the bleeding requires a successful DC 20 Medicine check or the application of any magical healing. However, anyone attempting to cast a healing spell on a creature suffering from deadly bleeding must succeed at a DC 20 caster level check or the spell doesn't affect the bleeding creature. The save DC is Constitution-based.
+**Deadly Bleeding (Su)**: A feeder in the depth's bite causes bleeding wounds that resist healing. The first bite that damages a creature deals 1d4 points of bleed damage, and each subsequent bite increases the amount of bleed by 1d4. Stopping the bleeding requires a successful DC 20 Medicine check or the application of any magical healing. However, anyone attempting to cast a healing spell on a creature suffering from deadly bleeding must succeed at a DC 20 caster level check or the spell doesn't affect the bleeding creature. The attack bonus is Constitution-based.
 
 **[[rangoric-srd/monsters/abilities/Keen Scent|Keen Scent]] (Ex)**: A feeder in the depths can notice creatures by scent in a 180-foot radius underwater, and can detect blood in the water at a distance of up to 1 mile.
 

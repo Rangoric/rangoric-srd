@@ -15,7 +15,7 @@ full-attack: "Bite +13 melee (1d8+5) and 2 claws +13 melee (1d6+5)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Pounce, roar"
 special-qualities: "Darkvision 60 ft., low-light vision, scent"
-saves: "Fort +9, Ref +9, Will +4"
+defenses: "Fort 19, Ref 19, Will 14"
 abilities: "Str 21, Dex 17, Con 17, Int 6, Wis 12, Cha 12"
 skills: "Acrobatics +5, Perception +12"
 skill-ranks: "Acrobatics 1, Perception 4"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], roar
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +9, Ref +9, Will +4
+- **Defenses**: Fort 19, Ref 19, Will 14
 - **Abilities**: Str 21, Dex 17, Con 17, Int 6, Wis 12, Cha 12
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Perception|Perception]] +12
 - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]]
@@ -80,4 +80,4 @@ Dragonnes speak Draconic.
 
 A dragonne’s wings are useful only for short flights, carrying the creature for 10 to 30 minutes at a time. Nevertheless, it uses its wings effectively in battle. If opponents attempt to charge or encircle it, the dragonne simply takes to the air and finds a more defensible position.
 
-**Roar (Su)**: A dragonne can unleash a devastating roar every 1d4 rounds as a standard action. All creatures except dragonnes within 120 feet must succeed at a DC 17 Fortitude save or become [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]]. Those within 30 feet who fail their saves are also [[rangoric-srd/rules/Special Abilities and Conditions#^deafened|deafened]] for 2d4 rounds. This is a sonic effect. The save DC is Constitution-based.
+**Roar (Su)**: A dragonne can unleash a devastating roar every 1d4 rounds as a standard action. All creatures except dragonnes within 120 feet are attacked at +7 vs Fortitude, and on a hit become [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]]. Those within 30 feet it hits are also [[rangoric-srd/rules/Special Abilities and Conditions#^deafened|deafened]] for 2d4 rounds. This is a sonic effect. The attack bonus is Constitution-based.

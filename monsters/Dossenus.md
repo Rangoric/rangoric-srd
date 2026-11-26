@@ -15,7 +15,7 @@ full-attack: "Bite +4 melee (1d6+3/19–20)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Devastating maw, sneak attack +1d6, swarming"
 special-qualities: "Darkvision 60 ft., hydrophobia, light blindness"
-saves: "Fort +2, Ref +0, Will +3"
+defenses: "Fort 12, Ref 10, Will 13"
 abilities: "Str 12, Dex 11, Con 14, Int 3, Wis 10, Cha 5"
 skills: "Athletics +17, Perception +5"
 skill-ranks: "Athletics 5, Perception 2"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Devastating Maw|Devastating maw]], sneak attack +1d6, [[rangoric-srd/monsters/abilities/Swarming|swarming]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Hydrophobia|hydrophobia]], [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]]
-- **Saves**: Fort +2, Ref +0, Will +3
+- **Defenses**: Fort 12, Ref 10, Will 13
 - **Abilities**: Str 12, Dex 11, Con 14, Int 3, Wis 10, Cha 5
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +17, [[rangoric-srd/skills/Perception|Perception]] +5
 - **Feats**: [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (bite)
@@ -77,6 +77,6 @@ Once every few generations, dossenuses gather in great numbers, sometimes in the
 
 **[[rangoric-srd/monsters/abilities/Devastating Maw|Devastating Maw]] (Ex)**: A dossenus' bite attack counts as adamantine for the purposes of overcoming DR and bypassing hardness.
 
-**[[rangoric-srd/monsters/abilities/Hydrophobia|Hydrophobia]] (Ex)**: A dossenus cannot swim and always fails Athletics checks. If a dossenus becomes completely submerged in water, it must succeed at a DC 15 Will save on its turn each round or be [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] with fear until it is no longer submerged.
+**[[rangoric-srd/monsters/abilities/Hydrophobia|Hydrophobia]] (Ex)**: A dossenus cannot swim and always fails Athletics checks. If a dossenus becomes completely submerged in water, the water attacks it at +5 vs Will on its turn each round, and on a hit it is [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] with fear until it is no longer submerged.
 
 **[[rangoric-srd/monsters/abilities/Swarming|Swarming]] (Ex)**: Dossenuses are brutally efficient at swarming foes and often skitter atop one another in their haste to overwhelm and devour prey. Up to two dossenuses can share the same square at the same time. If two dossenuses sharing the same square attack the same foe, they are considered to be flanking that foe as if they were in two opposite squares.

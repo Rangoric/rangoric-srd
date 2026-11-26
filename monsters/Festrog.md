@@ -15,7 +15,7 @@ full-attack: "Bite +4 melee (1d6+3 plus feed) and 2 claws +5 melee (1d4+3)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Charging trip, diseased pustules, feed"
 special-qualities: "Darkvision 60 ft., scent, undead traits"
-saves: "Fort +0, Ref +1, Will +4"
+defenses: "Fort 10, Ref 11, Will 14"
 abilities: "Str 17, Dex 13, Con —, Int 10, Wis 12, Cha 11"
 skills: "Athletics +8, Fieldcraft +3, Perception +6, Stealth +6"
 skill-ranks: "Athletics 2, Fieldcraft 2, Perception 2, Stealth 2"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Charging Trip|Charging trip]], [[rangoric-srd/monsters/abilities/Diseased Pustules|diseased pustules]], [[rangoric-srd/monsters/abilities/Feed|feed]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-- **Saves**: Fort +0, Ref +1, Will +4
+- **Defenses**: Fort 10, Ref 11, Will 14
 - **Abilities**: Str 17, Dex 13, Con —, Int 10, Wis 12, Cha 11
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +3, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +6
 - **Feats**: [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
@@ -73,7 +73,7 @@ Festrogs speak Common.
 
 **[[rangoric-srd/monsters/abilities/Diseased Pustules|Diseased Pustules]] (Ex)**: When a festrog takes damage from a piercing or slashing weapon, some of its boils rupture, squirting the attacker with puslike fluids. The noxious secretions carry a potent contact disease that causes those infected to break out into painful necrotic boils.
 
-[[rangoric-srd/rules/afflictions/Necrotic Boils|Necrotic Boils]]: contact; _save_ Fort DC 11; _onset_ 1 day; _frequency_ 1/day; _effect_ 1d4 Con; _cure_ 1 save.
+[[rangoric-srd/rules/afflictions/Necrotic Boils|Necrotic Boils]]: contact; _attack_ +1 vs Fortitude; _onset_ 1 day; _frequency_ 1/day; _effect_ 1d4 Con; _cure_ 1 miss.
 
 **[[rangoric-srd/monsters/abilities/Feed|Feed]] (Su)**: Every time a festrog makes a successful bite attack, it feeds on its opponent's flesh and gains 5 temporary hit points. The festrog cannot have more than 5 temporary hit points gained by this ability at one time.
 

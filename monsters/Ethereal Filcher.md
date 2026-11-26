@@ -15,7 +15,7 @@ full-attack: "Bite +3 melee (1d4)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., detect magic, ethereal jaunt"
-saves: "Fort +1, Ref +5, Will +5"
+defenses: "Fort 11, Ref 15, Will 15"
 abilities: "Str 10, Dex 18, Con 11, Int 7, Wis 12, Cha 10"
 skills: "Perception +13, Sleight of Hand +12"
 skill-ranks: "Perception 5, Sleight of Hand 0"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: Darkvision 60 ft., [[rangoric-srd/spells/Detect Magic|detect magic]], [[rangoric-srd/spells/Ethereal Jaunt|ethereal jaunt]]
-- **Saves**: Fort +1, Ref +5, Will +5
+- **Defenses**: Fort 11, Ref 15, Will 15
 - **Abilities**: Str 10, Dex 18, Con 11, Int 7, Wis 12, Cha 10
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +12
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]

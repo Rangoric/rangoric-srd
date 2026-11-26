@@ -16,7 +16,7 @@ full-attack: "Tentacles +7 melee (3d6+4 plus grab)"
 space-reach: "10 ft./15 ft."
 special-attacks: "Savage bite (+7 melee, 2d6+4/18-20 plus poison), unholy blood"
 special-qualities: "Low-light vision, see in darkness, water dependency, resistance to cold 10"
-saves: "Fort +7, Ref +7, Will +2"
+defenses: "Fort 17, Ref 17, Will 12"
 abilities: "Str 17, Dex 17, Con 16, Int 3, Wis 12, Cha 8"
 skills: "Athletics +15, Escape Artist +5, Perception +5, Stealth +3"
 skill-ranks: "Athletics 9, Escape Artist 2, Perception 1, Stealth 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./15 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Savage Bite (Devilfish)|Savage bite]] (+7 melee, 2d6+4/18-20 plus poison), [[rangoric-srd/monsters/abilities/Unholy Blood|unholy blood]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]], [[rangoric-srd/monsters/abilities/Water Dependency|water dependency]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10
-- **Saves**: Fort +7, Ref +7, Will +2
+- **Defenses**: Fort 17, Ref 17, Will 12
 - **Abilities**: Str 17, Dex 17, Con 16, Int 3, Wis 12, Cha 8
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +5, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +3
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]]
@@ -70,10 +70,10 @@ A devilfish is 10 feet long and weighs 500 pounds.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Devilfish Venom|Devilfish Venom]]: Savage bite—injury; _save_ Fort DC 15; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Str; _cure_ 2 consecutive saves.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Devilfish Venom|Devilfish Venom]]: Savage bite—injury; _attack_ +5 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Str; _cure_ 2 consecutive misses.
 
 **[[rangoric-srd/monsters/abilities/Savage Bite (Devilfish)|Savage Bite]] (Ex)**: A devilfish can attack with its savage bite whenever it makes a successful grapple check. This attack is in place of any other action made with a successful grapple check. The bite threatens a critical hit on a roll of 18–20, and injects the target with poison as well.
 
-**[[rangoric-srd/monsters/abilities/Unholy Blood|Unholy Blood]] (Su)**: A devilfish's blood is infused with fiendish magic. Once per day, as a swift action, a devilfish can emit a night-black cloud of this foul liquid, filling a 20-foot-radius cloud if underwater, or a 20-foot-radius burst on land. In water, the blood provides total concealment for everything but a devilfish (which can see through the blood with ease); on land the slippery blood coats the ground, making the area difficult terrain. The blood persists for 1 minute before fading. Anyone who enters a cloud of the blood in the water or who is within the area of a burst of blood on land must make a DC 15 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1d4 rounds—this save need be made only once per cloud. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Unholy Blood|Unholy Blood]] (Su)**: A devilfish's blood is infused with fiendish magic. Once per day, as a swift action, a devilfish can emit a night-black cloud of this foul liquid, filling a 20-foot-radius cloud if underwater, or a 20-foot-radius burst on land. In water, the blood provides total concealment for everything but a devilfish (which can see through the blood with ease); on land the slippery blood coats the ground, making the area difficult terrain. The blood persists for 1 minute before fading. Anyone who enters a cloud of the blood in the water or who is within the area of a burst of blood on land is attacked at +5 vs Fortitude, and on a hit is [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1d4 rounds—a cloud attacks a creature only once. The attack bonus is Constitution-based.
 
 **[[rangoric-srd/monsters/abilities/Water Dependency|Water Dependency]] (Ex)**: A devilfish can survive out of the water for 1 hour, after which it becomes [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]]. After 2 hours, the devilfish becomes [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhausted]] and begins to suffocate.

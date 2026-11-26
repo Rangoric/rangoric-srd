@@ -15,7 +15,7 @@ full-attack: "Slam +3 melee (1d4 plus grab)"
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "Constrict (1d4), engulfing drop, strangle"
 special-qualities: "Blindsense 10 ft., darkvision 60 ft., scent, amorphous, immunity to sleep effects, light sensitivity, susceptible to alcohol"
-saves: "Fort +1, Ref +1, Will +4"
+defenses: "Fort 11, Ref 11, Will 14"
 abilities: "Str 10, Dex 12, Con 12, Int 3, Wis 13, Cha 9"
 skills: "Athletics +8, Perception +8, Stealth +13"
 skill-ranks: "Athletics 5, Perception 4, Stealth 1"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (1d4), [[rangoric-srd/monsters/abilities/Engulfing Drop|engulfing drop]], [[rangoric-srd/monsters/abilities/Strangle|strangle]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 10 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Amorphous|amorphous]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep effects, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]], [[rangoric-srd/monsters/abilities/Susceptible to Alcohol|susceptible to alcohol]]
-- **Saves**: Fort +1, Ref +1, Will +4
+- **Defenses**: Fort 11, Ref 11, Will 14
 - **Abilities**: Str 10, Dex 12, Con 12, Int 3, Wis 13, Cha 9
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +13
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

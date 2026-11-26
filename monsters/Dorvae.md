@@ -16,7 +16,7 @@ full-attack: "2 claws +18 melee (3d8+4/19–20 plus grab)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Writhing snakes, spell-like abilities"
 special-qualities: "Darkvision 60 ft., see invisibility, telepathy 50 ft., damage reduction 10/good, immunity to mind-affecting effects and poison, spell resistance 22"
-saves: "Fort +8, Ref +13, Will +10"
+defenses: "Fort 18, Ref 23, Will 20"
 abilities: "Str 18, Dex 21, Con 18, Int 17, Wis 14, Cha 17"
 skills: "Acrobatics +21, Deception +19, Intimidation +16, Perception +24, Persuasion +13, Sense Motive +18, Stealth +21, Theology +19"
 skill-ranks: "Acrobatics 13, Deception 13, Intimidation 10, Perception 19, Persuasion 7, Sense Motive 13, Stealth 13, Theology 13"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Writhing Snakes|Writhing snakes]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., see invisibility, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 50 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects and poison, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 22
-- **Saves**: Fort +8, Ref +13, Will +10
+- **Defenses**: Fort 18, Ref 23, Will 20
 - **Abilities**: Str 18, Dex 21, Con 18, Int 17, Wis 14, Cha 17
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +21, [[rangoric-srd/skills/Deception|Deception]] +19, [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Perception|Perception]] +24, [[rangoric-srd/skills/Persuasion|Persuasion]] +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +18, [[rangoric-srd/skills/Stealth|Stealth]] +21, [[rangoric-srd/skills/Theology|Theology]] +19
 - **Feats**: [[rangoric-srd/feats/Agile Maneuvers|Agile Maneuvers]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw), [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
@@ -70,6 +70,6 @@ Dorvaes speak Abyssal, Celestial, Common and Infernal.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 11th; concentration +14): Constant—_[[rangoric-srd/spells/See Invisibility|see invisibility]]_; At will—_[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ (DC 15); 3/day—_[[rangoric-srd/spells/Bestow Curse|bestow curse]]_ (DC 17), _[[rangoric-srd/spells/Dimension Door|dimension door]]_; 1/day—_[[rangoric-srd/spells/Feeblemind|feeblemind]]_ (DC 18), _[[rangoric-srd/spells/Geas, Lesser|lesser geas]]_ (DC 17).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 11th; concentration +14): Constant—_[[rangoric-srd/spells/See Invisibility|see invisibility]]_; At will—_[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ (+5 vs Will); 3/day—_[[rangoric-srd/spells/Bestow Curse|bestow curse]]_ (+7 vs Will), _[[rangoric-srd/spells/Dimension Door|dimension door]]_; 1/day—_[[rangoric-srd/spells/Feeblemind|feeblemind]]_ (+8 vs Will), _[[rangoric-srd/spells/Geas, Lesser|lesser geas]]_ (+7 vs Will).
 
-**[[rangoric-srd/monsters/abilities/Writhing Snakes|Writhing Snakes]] (Ex)**: When a dorvae succeeds at a grapple check against an opponent, the serpents of its body writhe around the grappled foe, biting wherever they can gain purchase. This deals 2d8 points of piercing damage, and the grappled foe is subject to the dorvae's supernatural poison. [[rangoric-srd/rules/afflictions/Dorvae Poison|Dorvae Poison]]: Writhing snakes—injury; save DC 20; frequency 1/round for 12 rounds; effect 1d4 Wis and on the first failed save the target is susceptible to the dorvae's lesser geas no matter its Hit Dice for 24 hours. Cure 3 saves. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Writhing Snakes|Writhing Snakes]] (Ex)**: When a dorvae succeeds at a grapple check against an opponent, the serpents of its body writhe around the grappled foe, biting wherever they can gain purchase. This deals 2d8 points of piercing damage, and the grappled foe is subject to the dorvae's supernatural poison. [[rangoric-srd/rules/afflictions/Dorvae Poison|Dorvae Poison]]: Writhing snakes—injury; attack +10 vs Fortitude; frequency 1/round for 12 rounds; effect 1d4 Wis and on the first hit the target is susceptible to the dorvae's lesser geas no matter its Hit Dice for 24 hours. Cure 3 misses. The attack bonus is Constitution-based.

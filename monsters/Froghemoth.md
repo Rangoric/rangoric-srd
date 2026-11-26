@@ -15,7 +15,7 @@ full-attack: "Bite +20 melee (2d6+10/19–20 plus grab) and 4 tentacles +18 mele
 space-reach: "15 ft./15 ft. (30 ft. with tongue)"
 special-attacks: "Constrict (tentacle, 1d6+10), swallow whole (3d6+10 damage, AC 19, hp 18)"
 special-qualities: "All-around vision, blindsight 30 ft., darkvision 60 ft., immunity to electricity (partial), resistance to fire 10, slowed by electricity"
-saves: "Fort +12, Ref +8, Will +11"
+defenses: "Fort 22, Ref 18, Will 21"
 abilities: "Str 30, Dex 13, Con 24, Int 2, Wis 13, Cha 11"
 skills: "Athletics +18, Investigation +0, Perception +16, Stealth +14 (+22 in marshes)"
 skill-ranks: "Athletics 5, Perception 4, Stealth 18"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./15 ft. (30 ft. with tongue)
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (tentacle, 1d6+10), [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (3d6+10 damage, AC 19, hp 18)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/All-Around Vision|All-around vision]], [[rangoric-srd/monsters/abilities/Blindsight|blindsight]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity (partial), [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10, slowed by electricity
-- **Saves**: Fort +12, Ref +8, Will +11
+- **Defenses**: Fort 22, Ref 18, Will 21
 - **Abilities**: Str 30, Dex 13, Con 24, Int 2, Wis 13, Cha 11
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Investigation|Investigation]] +0, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +14 (+22 in marshes)
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)

@@ -15,7 +15,7 @@ full-attack: "Gore +3 melee (1d6+2) and 2 hooves –2 melee (1d3+1)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision"
-saves: "Fort +6, Ref +8, Will +2"
+defenses: "Fort 16, Ref 18, Will 12"
 abilities: "Str 14, Dex 17, Con 16, Int 2, Wis 15, Cha 7"
 skills: "Perception +7"
 skill-ranks: "Perception 2"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]]
-- **Saves**: Fort +6, Ref +8, Will +2
+- **Defenses**: Fort 16, Ref 18, Will 12
 - **Abilities**: Str 14, Dex 17, Con 16, Int 2, Wis 15, Cha 7
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +7
 - **Feats**: [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Run|Run]]

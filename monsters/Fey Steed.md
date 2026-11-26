@@ -15,7 +15,7 @@ full-attack: "2 hooves +7 melee (1d6+4) and bite +2 melee (1d4+2)"
 space-reach: "10 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Long-lived, low-light vision, magic circle against evil, scent"
-saves: "Fort +7, Ref +5, Will +2"
+defenses: "Fort 17, Ref 15, Will 12"
 abilities: "Str 20, Dex 17, Con 19, Int 6, Wis 17, Cha 10"
 skills: "Perception +13"
 skill-ranks: "Perception 4"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: Long-lived, low-light vision, magic circle against evil, scent
-- **Saves**: Fort +7, Ref +5, Will +2
+- **Defenses**: Fort 17, Ref 15, Will 12
 - **Abilities**: Str 20, Dex 17, Con 19, Int 6, Wis 17, Cha 10
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +13
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

@@ -14,7 +14,7 @@ cmd: "38 (40 vs. disarm, can't be tripped)"
 attack: "Bite +23 melee (2d8+12 plus grab) or tentacle +26 melee (1d8+6 plus grab)"
 full-attack: "Bite +23 melee (2d8+12 plus grab) and 4 tentacles +21 melee (1d8+6 plus grab)"
 space-reach: "20 ft./20 ft. (40 ft. with tentacles)"
-special-attacks: "Breath weapon (80-ft. line, 12d6 acid damage, −8 vs Reflex7 half, usable every 1d4 rounds), swallow whole (4d6 acid damage plus absorb essence; AC 22, 23 hp), transfer"
+special-attacks: "Breath weapon (80-ft. line, 12d6 acid damage, +17 vs Reflex; a miss halves, usable every 1d4 rounds), swallow whole (4d6 acid damage plus absorb essence; AC 22, 23 hp), transfer"
 special-qualities: "Low-light vision, telepathy 1, vexing vines, spawn pod creature, immunity to sonic, plant traits, resistance to cold 20"
 defenses: "Fort 29, Ref 11, Will 21"
 abilities: "Str 34, Dex 1, Con 25, Int 21, Wis 16, Cha 14"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +23 melee (2d8+12 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or tentacle +26 melee (1d8+6 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
 - **Full Attack**: Bite +23 melee (2d8+12 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 4 tentacles +21 melee (1d8+6 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
 - **Space/Reach**: 20 ft./20 ft. (40 ft. with tentacles)
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (80-ft. line, 12d6 acid damage, −8 vs Reflex7 half, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (4d6 acid damage plus absorb essence; AC 22, 23 hp), [[rangoric-srd/monsters/abilities/Transfer|transfer]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (80-ft. line, 12d6 acid damage, +17 vs Reflex; a miss halves, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (4d6 acid damage plus absorb essence; AC 22, 23 hp), [[rangoric-srd/monsters/abilities/Transfer|transfer]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 1, [[rangoric-srd/monsters/abilities/Vexing Vines|vexing vines]], [[rangoric-srd/monsters/abilities/Spawn Pod Creature|spawn pod creature]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sonic, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 20
 - **Defenses**: Fort 29, Ref 11, Will 21
 - **Abilities**: Str 34, Dex 1, Con 25, Int 21, Wis 16, Cha 14

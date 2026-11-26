@@ -43,7 +43,7 @@ Normal creatures that have the fortune of being born in the fey realm are imbued
 
 **Special Qualities**: A fey-born creature retains all of the base creature’s extraordinary, supernatural, and spell-like abilities, plus [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]. Fey-born creatures gain fey traits granting them resistance to illusion and enchantment spells. This imparts them with a +1 racial bonus to resist spells and spell-like abilities of this nature, increasing by +1 for every four levels the creature attains.
 
-**Saves**: Each of the base creature’s saves increases by +1 in addition to ability score bonus changes.
+**Defenses**: Each of the base creature’s defenses increases by +1 in addition to ability score bonus changes.
 
 **Abilities**: Increase from the base creature as follows: Str +2, Dex +4, Con +2, Int +4, Wis +4, Cha +4.
 
@@ -84,7 +84,7 @@ This example uses a giant owl as the base creature.
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: Spell-like abilities
 - **Special Qualities**: Superior low-light vision, fey-born traits
-- **Saves**: Fort +6, Ref +10, Will +5
+- **Defenses**: Fort 16, Ref 20, Will 15
 - **Abilities**: Str 20, Dex 21, Con 14, Int 14, Wis 18, Cha 14
 - **Skills**: [[rangoric-srd/skills/Nature|Nature]] +9, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Stealth|Stealth]] +8
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

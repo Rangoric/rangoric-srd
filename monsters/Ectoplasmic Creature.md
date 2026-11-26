@@ -15,7 +15,7 @@ full-attack: "Slam +3 melee (1d4+3 plus horrifying ooze)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Horrifying ooze, spell-like abilities"
 special-qualities: "Darkvision 60 ft., phase lurch, damage reduction 5/slashing, undead traits"
-saves: "Fort +0, Ref +0, Will +2"
+defenses: "Fort 10, Ref 10, Will 12"
 abilities: "Str 16, Dex 11, Con —, Int —, Wis 10, Cha 12"
 skills: "—"
 skill-ranks: ""
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/Ectoplasmic Creature#^horrifying-ooze|Horrifying ooze]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/Ectoplasmic Creature#^phase-lurch|phase lurch]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/slashing, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-- **Saves**: Fort +0, Ref +0, Will +2
+- **Defenses**: Fort 10, Ref 10, Will 12
 - **Abilities**: Str 16, Dex 11, Con —, Int —, Wis 10, Cha 12
 - **Skills**: —
 - **Feats**: [[rangoric-srd/feats/Toughness|Toughness]]
@@ -108,7 +108,7 @@ Though these entities rarely coordinate complicated actions with others of their
 
 **Hit Dice**: Drop HD gained from class levels (to a minimum of 1 HD) and change racial Hit Dice to d8s. Ectoplasmic creatures use their Charisma modifiers to determine bonus hit points (instead of Constitution).
 
-**Saves**: Base save bonuses for racial Hit Dice are Fort +1/3 HD, Ref +1/3 HD, and Will +1/2 HD + 2.
+**Defenses**: Base save bonuses for racial Hit Dice are Fort 11/3 HD, Ref 11/3 HD, and Will 11/2 HD + 2.
 
 **Defensive Abilities**: An ectoplasmic creature loses the base creature's defensive abilities, and gains DR 5/ slashing as well as all of the standard immunities and traits possessed by undead creatures.
 
@@ -124,7 +124,7 @@ Though these entities rarely coordinate complicated actions with others of their
 
 **Special Attacks (Su)**: An ectoplasmic creature retains all of the special attacks of the base creature. In addition, an ectoplasmic creature gains the following special attack.
 
-**Horrifying Ooze (Su)**: Any creature struck by an ectoplasmic creature's slam attack must succeed at a Will save (DC = 10 + 1/2 the ectoplasmic creature's Hit Dice + the ectoplasmic creature's Charisma modifier) or be [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1d4 rounds. ^horrifying-ooze
+**Horrifying Ooze (Su)**: Any creature struck by an ectoplasmic creature's slam attack is attacked against Will (attack bonus 1/2 the ectoplasmic creature's Hit Dice + the ectoplasmic creature's Charisma modifier), and on a hit is [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1d4 rounds. ^horrifying-ooze
 
 **Special Abilities (Su)**: An ectoplasmic creature loses most special qualities of the base creature. It retains any extraordinary special qualities that improve its melee or ranged attacks. An ectoplasmic creature gains the following special ability:
 
@@ -134,6 +134,6 @@ Though these entities rarely coordinate complicated actions with others of their
 
 **[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 1st; concentration +1): Constant—_[[rangoric-srd/spells/Air Walk|air walk]]_.
 
-**Horrifying Ooze (Su)**: Any creature struck by an ectoplasmic creature's slam attack must succeed at a DC 11 Will save or be [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1d4 rounds. The save DC is Charisma-based.
+**Horrifying Ooze (Su)**: Any creature struck by an ectoplasmic creature's slam attack is attacked at +1 vs Will, and on a hit is [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1d4 rounds. The attack bonus is Charisma-based.
 
 **Phase Lurch (Su)**: An ectoplasmic creature has the ability to pass through walls or material obstacles. To use this ability, the ectoplasmic creature must begin and end its turn outside of whatever wall or obstacle it's moving through. An ectoplasmic creature cannot move through corporeal creatures with this ability, and its movement speed is halved while moving through a wall or obstacle. Any surface it moves through is coated with a thin, silvery mucus that lingers for 1 minute.

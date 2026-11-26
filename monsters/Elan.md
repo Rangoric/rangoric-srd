@@ -17,7 +17,7 @@ full-attack: "Warhammer +3 melee (1d8+1/x3) or longbow +1 ranged (1d8/x3)"
 space-reach: "5 ft./5 ft."
 special-attacks: "-"
 special-qualities: "Repletion, resilience, resistance"
-saves: "Fort +3, Ref +0, Will -1"
+defenses: "Fort 13, Ref 10, Will 9"
 abilities: "Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 6"
 skills: "Athletics +5"
 skill-ranks: "Athletics 1"
@@ -51,7 +51,7 @@ Full **Attack:** Warhammer +3 melee (1d8+1/x3) or longbow +1 ranged (1d8/x3)  
 **Space/Reach:** 5 ft./5 ft.     
 **Special Attacks:** -     
 **Special Qualities:** Repletion, resilience, resistance     
-**Saves:** Fort +3, Ref +0, Will -1     
+**Defenses:** Fort 13, Ref 10, Will 9     
 **Abilities:** Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 6     
 **Skills:** [[rangoric-srd/skills/Athletics|Athletics]] +5     
 **Unspent Skill Points**: 1
@@ -76,7 +76,7 @@ Repletion (Su): By expending 1 power point, an elan does not need to eat or drin
 
 Resilience (Su): As an immediate action, an elan can reduce the damage he is about to take by 2 points for every 1 power point spent.
 
-Resistance (Su): As an immediate action, an elan can spend 1 power point to gain a +4 racial bonus on saving throws until the beginning of his next turn.
+Resistance (Su): As an immediate action, an elan can spend 1 power point to gain a +4 racial bonus on defenses until the beginning of his next turn.
 
 The elan warrior presented here had the following ability scores before racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.
 

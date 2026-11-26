@@ -15,7 +15,7 @@ full-attack: "Gore +8 melee (2d6+9)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Powerful charge (gore, 4d6+12), smite good 1/day as a swift action (+0 attack, +5 damage)"
 special-qualities: "Darkvision 60 ft., scent, damage reduction 5/good, resistance to cold 10 and fire 10, spell resistance 10"
-saves: "Fort +10, Ref +4, Will +2"
+defenses: "Fort 20, Ref 14, Will 12"
 abilities: "Str 22, Dex 10, Con 19, Int 2, Wis 13, Cha 5"
 skills: "Perception +12"
 skill-ranks: "Perception 8"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Powerful Charge|Powerful charge]] (gore, 4d6+12), [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature|smite good]] 1/day as a swift action (+0 attack, +5 damage)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/good, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 10
-- **Saves**: Fort +10, Ref +4, Will +2
+- **Defenses**: Fort 20, Ref 14, Will 12
 - **Abilities**: Str 22, Dex 10, Con 19, Int 2, Wis 13, Cha 5
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +12
 - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

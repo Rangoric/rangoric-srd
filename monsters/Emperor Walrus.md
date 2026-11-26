@@ -15,7 +15,7 @@ full-attack: "Bite +16 melee (4d6+15/19–20); or slam +15 melee (2d6+15 plus tr
 space-reach: "20 ft./15 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision, hold breath"
-saves: "Fort +14, Ref +7, Will +8"
+defenses: "Fort 24, Ref 17, Will 18"
 abilities: "Str 31, Dex 9, Con 22, Int 2, Wis 15, Cha 6"
 skills: "Athletics +22, Perception +16"
 skill-ranks: "Athletics 9, Perception 11"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 20 ft./15 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]]
-- **Saves**: Fort +14, Ref +7, Will +8
+- **Defenses**: Fort 24, Ref 17, Will 18
 - **Abilities**: Str 31, Dex 9, Con 22, Int 2, Wis 15, Cha 6
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +22, [[rangoric-srd/skills/Perception|Perception]] +16
 - **Feats**: [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)

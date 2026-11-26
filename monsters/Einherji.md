@@ -16,7 +16,7 @@ full-attack: "+2 battleaxe +19/+14/+9 melee (1d8+6/×3); or masterwork throwing 
 space-reach: "5 ft./5 ft."
 special-attacks: "Challenge of single combat, spell-like abilities"
 special-qualities: "Darkvision 60 ft., deathwatch, fast healing 5, freedom of movement, battle-trained, thirst for battle, damage reduction 10/cold iron and lawful, immunity to cold, disease, fear and poison, resistance to acid 10, electricity 10 and fire 10, spell resistance 21"
-saves: "Fort +12, Ref +11, Will +8"
+defenses: "Fort 22, Ref 21, Will 18"
 abilities: "Str 19, Dex 16, Con 19, Int 10, Wis 14, Cha 11"
 skills: "Animal Handling +16, Engineering +16, Fieldcraft +18, Intimidation +16, Perception +18, Theology +16"
 skill-ranks: "Animal Handling 10, Engineering 13, Fieldcraft 13, Intimidation 13, Perception 13, Theology 13"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Challenge of Single Combat|Challenge of single combat]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., deathwatch, [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, freedom of movement, [[rangoric-srd/monsters/abilities/Battle-Trained|battle-trained]], [[rangoric-srd/monsters/abilities/Thirst for Battle|thirst for battle]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron and lawful, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, disease, fear and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, electricity 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 21
-- **Saves**: Fort +12, Ref +11, Will +8
+- **Defenses**: Fort 22, Ref 21, Will 18
 - **Abilities**: Str 19, Dex 16, Con 19, Int 10, Wis 14, Cha 11
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +16, [[rangoric-srd/skills/Engineering|Engineering]] +16, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +18, [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Theology|Theology]] +16
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Stand Still|Stand Still]], [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Strike Back|Strike Back]]

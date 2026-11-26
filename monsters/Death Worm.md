@@ -13,7 +13,7 @@ cmd: "24"
 attack: "Bite +11 melee (2d8+6 plus poison) or electrical jolt +8 ranged touch (4d6 electricity)"
 full-attack: "Bite +11 melee (2d8+6 plus poison); or electrical jolt +8 ranged touch (4d6 electricity)"
 space-reach: "10 ft./5 ft."
-special-attacks: "Breath weapon (30-ft. line, 8d6 acid damage, −9 vs Reflex7 for half, usable every 1d4 rounds), poison"
+special-attacks: "Breath weapon (30-ft. line, 8d6 acid damage, +7 vs Reflex; a miss halves, usable every 1d4 rounds), poison"
 special-qualities: "Darkvision 60 ft., low-light vision, tremorsense 60 ft., corrosive blood, venomous skin, immunity to acid, electricity and poison"
 defenses: "Fort 19, Ref 17, Will 14"
 abilities: "Str 18, Dex 13, Con 16, Int 3, Wis 11, Cha 5"
@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +11 melee (2d8+6 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or electrical jolt +8 ranged touch (4d6 electricity)
 - **Full Attack**: Bite +11 melee (2d8+6 plus [[rangoric-srd/monsters/abilities/Poison|poison]]); or electrical jolt +8 ranged touch (4d6 electricity)
 - **Space/Reach**: 10 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (30-ft. line, 8d6 acid damage, −9 vs Reflex7 for half, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Poison|poison]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (30-ft. line, 8d6 acid damage, +7 vs Reflex; a miss halves, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Poison|poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Corrosive Blood|corrosive blood]], [[rangoric-srd/monsters/abilities/Venomous Skin|venomous skin]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, electricity and poison
 - **Defenses**: Fort 19, Ref 17, Will 14
 - **Abilities**: Str 18, Dex 13, Con 16, Int 3, Wis 11, Cha 5

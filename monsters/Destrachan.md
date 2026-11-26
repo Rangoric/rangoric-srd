@@ -15,7 +15,7 @@ full-attack: "Bite +12 melee (2d6+4) and 2 claws +12 melee (1d8+4)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Destructive harmonics"
 special-qualities: "Blindsight 100 ft., protection from sonics, immunity to gaze attacks, visual effects, illusions and attacks relying on sight, resistance to sonic 30"
-saves: "Fort +9, Ref +7, Will +12"
+defenses: "Fort 19, Ref 17, Will 22"
 abilities: "Str 18, Dex 13, Con 16, Int 13, Wis 18, Cha 13"
 skills: "Athletics +19, Fieldcraft +19, Perception +27, Sense Motive +16, Stealth +12"
 skill-ranks: "Athletics 12, Fieldcraft 12, Perception 12, Sense Motive 9, Stealth 12"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: Destructive harmonics
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 100 ft., protection from sonics, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to gaze attacks, visual effects, illusions and attacks relying on sight, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to sonic 30
-- **Saves**: Fort +9, Ref +7, Will +12
+- **Defenses**: Fort 19, Ref 17, Will 22
 - **Abilities**: Str 18, Dex 13, Con 16, Int 13, Wis 18, Cha 13
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +19, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +19, [[rangoric-srd/skills/Perception|Perception]] +27, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +12
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
@@ -76,10 +76,10 @@ Destrachans understand Common but can't speak.
 
 A destrachan uses its claws only as a last resort or to finish off foes weakened by its sonic attacks. It often enters battle with surprise if possible. It first focuses on destroying metal armor and weapons and then changes to harmonics that disrupt flesh.
 
-**Destructive Harmonics (Su)**: A destrachan can project a blast of sonic energy in a cone up to 80 feet long or in a 30-foot-radius burst centered on itself as a standard action. It can adjust the harmonics of its sonic cry to generate one of two different effects on targets within the area of effect, but can only create one of these effects with each use of this ability. The save DCs are Constitution-based.
+**Destructive Harmonics (Su)**: A destrachan can project a blast of sonic energy in a cone up to 80 feet long or in a 30-foot-radius burst centered on itself as a standard action. It can adjust the harmonics of its sonic cry to generate one of two different effects on targets within the area of effect, but can only create one of these effects with each use of this ability. The attack bonuses are Constitution-based.
 
-_Destruction_: All creatures within the area of effect of the destructive harmonics take 8d6 points of sonic damage—a DC 19 Reflex save halves this damage. If the destrachan wishes, this damage can instead deal nonlethal damage rather than sonic damage. Alternatively, the destrachan can target a single crystal, metal, stone, or wooden object within 80 feet with this attack—that object takes 8d6 points of damage. This damage is not halved when applied to the object's hit points, but is reduced by the object's hardness. A magical or attended object can attempt a DC 19 Reflex save to halve the damage.
+_Destruction_: All creatures within the area of effect of the destructive harmonics are attacked at +9 vs Reflex and take 8d6 points of sonic damage—a miss halves this damage. If the destrachan wishes, this damage can instead deal nonlethal damage rather than sonic damage. Alternatively, the destrachan can target a single crystal, metal, stone, or wooden object within 80 feet with this attack—that object takes 8d6 points of damage. This damage is not halved when applied to the object's hit points, but is reduced by the object's hardness. A miss against a magical or attended object's Reflex (+9) halves its damage.
 
-_Pain:_ Rather than deal damage, the destrachan can cause intense pain and overwhelming sound to affect all creatures within the area. Targets in the area must succeed on a DC 19 Fortitude save to avoid being [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1 round and [[rangoric-srd/rules/Special Abilities and Conditions#^deafened|deafened]] for 1d6 rounds.
+_Pain:_ Rather than deal damage, the destrachan can cause intense pain and overwhelming sound to affect all creatures within the area. Targets in the area are attacked at +9 vs Fortitude, and on a hit are [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1 round and [[rangoric-srd/rules/Special Abilities and Conditions#^deafened|deafened]] for 1d6 rounds.
 
-**Protection from Sonics (Ex)**: A destrachan gains a +4 racial bonus on all saves against sonic attacks. It is immune to the effects of its own destructive harmonics. A destrachan whose sense of hearing is impaired is effectively [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]], treating all targets as if they had total concealment.
+**Protection from Sonics (Ex)**: A destrachan gains a +4 racial bonus on all defenses against sonic attacks. It is immune to the effects of its own destructive harmonics. A destrachan whose sense of hearing is impaired is effectively [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]], treating all targets as if they had total concealment.

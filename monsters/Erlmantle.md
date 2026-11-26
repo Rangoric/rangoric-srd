@@ -17,7 +17,7 @@ full-attack: "2 tendrils +1 melee (1d2+1)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Entangle, gaseous protection, improved grab"
 special-qualities: "Barkskin, blindsight 30 ft., camouflage, resistance to cold 10, plant traits"
-saves: "Fort +4, Ref +1, Will –1"
+defenses: "Fort 14, Ref 11, Will 9"
 abilities: "Str 13, Dex 12, Con 14, Int 3, Wis 8, Cha 11"
 skills: "—"
 feats: "—"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Entangle, gaseous protection, [[rangoric-srd/monsters/abilities/Grab|improved grab]]
 - **Special Qualities**: Barkskin, [[rangoric-srd/monsters/abilities/Blindsight|blindsight]] 30 ft., camouflage, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|plant traits]]
-- **Saves**: Fort +4, Ref +1, Will –1
+- **Defenses**: Fort 14, Ref 11, Will 9
 - **Abilities**: Str 13, Dex 12, Con 14, Int 3, Wis 8, Cha 11
 - **Skills**: —
 - **Feats**: —
@@ -81,7 +81,7 @@ Under normal circumstances, an erlmantle avoids combat and attempts to hide amon
 
 **Entangle (Ex)**: Once the erlmantle has sensed a victim, the entire plant becomes active and the leaves and tendrils of the vine all act as if under the influence of an _[[rangoric-srd/spells/Entangle|entangle]]_ spell cast by a 1st-level druid. It does not stay attached to its bearer while using this power, as its own structure is the core of the entangling mass.
 
-**Gaseous Protection (Ex)**: Once a week, the erlmantle can increase its oxygen output to a great degree for two minutes total, enveloping its wearer in pure oxygen and dissipating any gaseous or vaporous attacks. This adds a +2 circumstance bonus to any saves against such gases or provides a save where the bearer might not have one otherwise.
+**Gaseous Protection (Ex)**: Once a week, the erlmantle can increase its oxygen output to a great degree for two minutes total, enveloping its wearer in pure oxygen and dissipating any gaseous or vaporous attacks. This adds a +2 circumstance bonus to any defense against such gases, and makes such a gas attack a defense where it otherwise would hit automatically.
 
 **Improved Grab (Ex)**: The erlmantle needs to land a tendril attack to bring this ability to bear. It can grapple creatures of up to Medium size, as its mass is far greater than it appears.
 

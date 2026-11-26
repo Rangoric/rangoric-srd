@@ -16,7 +16,7 @@ full-attack: "2 claws +8 melee (1d8+4)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 60 ft., change shape (alter self), mimicry, perfect copy, immunity to charm and sleep"
-saves: "Fort +4, Ref +5, Will +6"
+defenses: "Fort 14, Ref 15, Will 16"
 abilities: "Str 18, Dex 13, Con 12, Int 13, Wis 14, Cha 13"
 skills: "Deception +9 (+13 while using change shape ability), Imitation +9 (+29 while using change shape ability), Perception +9, Persuasion +4, Sense Motive +6, Stealth +5"
 skill-ranks: "Deception 1, Imitation 1, Perception 4, Persuasion 3, Sense Motive 1, Stealth 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (alter self), mimicry, perfect copy, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to charm and sleep
-- **Saves**: Fort +4, Ref +5, Will +6
+- **Defenses**: Fort 14, Ref 15, Will 16
 - **Abilities**: Str 18, Dex 13, Con 12, Int 13, Wis 14, Cha 13
 - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +9 (+13 while using change shape ability), [[rangoric-srd/skills/Imitation|Imitation]] +9 (+29 while using change shape ability), [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Persuasion|Persuasion]] +4, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +5
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]]
@@ -81,7 +81,7 @@ Doppelgangers speak Common.
 
 When in its natural form, a doppelganger strikes with its powerful fists. In the shape of a warrior or some other armed person, it attacks with whatever weapon is appropriate. In such cases, it uses its [[rangoric-srd/spells/Detect Thoughts|detect thoughts]] ability to employ the same tactics and strategies as the person it is impersonating.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 18th): At will—_[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ (DC 13).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 18th): At will—_[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ (+3 vs Will).
 
 **Mimicry (Ex)**: A doppelganger is proficient in all weapons, armor, and shields. In addition, a doppelganger can use any spell trigger or spell completion item as if the spells were on its spell list. Its caster level is equal to its racial Hit Dice.
 

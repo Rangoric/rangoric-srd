@@ -15,7 +15,7 @@ full-attack: "Dagger +4 melee (1d4+2/19–20); or shortbow +4 ranged (1d6/×3)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Panpipes, spell-like abilities"
 special-qualities: "Low-light vision, damage reduction 2/cold iron"
-saves: "Fort +2, Ref +6, Will +5"
+defenses: "Fort 12, Ref 16, Will 15"
 abilities: "Str 14, Dex 16, Con 13, Int 11, Wis 14, Cha 17"
 skills: "Acrobatics +8, Deception +9, Fieldcraft +4, Perception +8, Performance (wind instruments) +11, Sense Motive +7, Stealth +9"
 skill-ranks: "Acrobatics 2, Deception 3, Fieldcraft 2, Perception 3, Performance (wind instruments) 8, Sense Motive 2, Stealth 3"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Panpipes, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 2/cold iron
-- **Saves**: Fort +2, Ref +6, Will +5
+- **Defenses**: Fort 12, Ref 16, Will 15
 - **Abilities**: Str 14, Dex 16, Con 13, Int 11, Wis 14, Cha 17
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Deception|Deception]] +9, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Performance|Performance]] (wind instruments) +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +9
 - **Feats**: [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -77,6 +77,6 @@ A different fey also called a faun is the [[rangoric-srd/monsters/Lesser Satyr|l
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 3rd; concentration +6): At will—_[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (DC 13); 1/day—_[[rangoric-srd/spells/Hideous Laughter|hideous laughter]]_ (DC 15), _[[rangoric-srd/spells/Sleep|sleep]]_ (DC 14).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 3rd; concentration +6): At will—_[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (+3 vs Will); 1/day—_[[rangoric-srd/spells/Hideous Laughter|hideous laughter]]_ (+5 vs Will), _[[rangoric-srd/spells/Sleep|sleep]]_ (+4 vs Will).
 
 **Panpipes (Su)**: Three times per day, a faun can use its masterwork panpipes to augment its spell-like abilities. Doing so is a swift action that increases the DC of the next spell-like ability it uses on its turn by +2.

@@ -14,8 +14,8 @@ attack: "+1 keen longsword +14 melee (1d8+6/17–20 plus 1d6 cold)"
 full-attack: "+1 keen longsword +14/+9 melee (1d8+6/17–20 plus 1d6 cold)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Chilling blade, death's calling, summon mount"
-special-qualities: "Blindsight 60 ft., fast healing 5, frightful presence (30 ft., DC 19), channel resistance +4, undead traits, spell resistance 18"
-saves: "Fort +7, Ref +5, Will +12"
+special-qualities: "Blindsight 60 ft., fast healing 5, frightful presence (30 ft., +9 vs Will), channel resistance +4, undead traits, spell resistance 18"
+defenses: "Fort 17, Ref 15, Will 22"
 abilities: "Str 20, Dex 14, Con —, Int 14, Wis 16, Cha 18"
 skills: "Animal Handling +14, Intimidation +17, Mysticism +15, Perception +16, Stealth +10"
 skill-ranks: "Animal Handling 7, Intimidation 10, Mysticism 10, Perception 10, Stealth 5"
@@ -48,8 +48,8 @@ tags: [rangoric, rangoric/monster]
 - **Full Attack**: +1 keen longsword +14/+9 melee (1d8+6/17–20 plus 1d6 cold)
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Chilling Blade|Chilling blade]], [[rangoric-srd/monsters/abilities/Death's Calling|death's calling]], [[rangoric-srd/monsters/abilities/Summon Mount|summon mount]]
-- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, [[rangoric-srd/monsters/abilities/Frightful Presence|frightful presence]] (30 ft., DC 19), [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 18
-- **Saves**: Fort +7, Ref +5, Will +12
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, [[rangoric-srd/monsters/abilities/Frightful Presence|frightful presence]] (30 ft., +9 vs Will), [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 18
+- **Defenses**: Fort 17, Ref 15, Will 22
 - **Abilities**: Str 20, Dex 14, Con —, Int 14, Wis 16, Cha 18
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +17, [[rangoric-srd/skills/Mysticism|Mysticism]] +15, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +10
 - **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Ride-By Attack|Ride-By Attack]], [[rangoric-srd/feats/Trample|Trample]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longsword)
@@ -71,6 +71,6 @@ Dullahans speak Common and Sylvan.
 
 **[[rangoric-srd/monsters/abilities/Chilling Blade|Chilling Blade]] (Su)**: A dullahan is proficient with all simple and martial slashing weapons. When it wields a slashing weapon, the blade inflicts +1d6 cold damage and gains the keen weapon property.
 
-**[[rangoric-srd/monsters/abilities/Death's Calling|Death's Calling]] (Su)**: Once per day as a standard action, a dullahan may place death's calling on a target within 60 feet (DC 22 Fortitude negates). If the dullahan knows and speaks the target's name, the target takes a –2 penalty on the save. If the victim fails the save, he becomes [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for 1d6 rounds. For the next 24 hours (or until the dullahan is slain), all critical hits against the victim automatically confirm. Finally, the victim automatically fails all Constitution checks to stabilize while dying. This is a mind-affecting curse effect. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Death's Calling|Death's Calling]] (Su)**: Once per day as a standard action, a dullahan may place death's calling on a target within 60 feet (+12 vs Fortitude). If the dullahan knows and speaks the target's name, the target takes a –2 penalty to its Fortitude Defense against it. On a hit, the victim becomes [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for 1d6 rounds. For the next 24 hours (or until the dullahan is slain), all critical hits against the victim automatically confirm. Finally, the victim automatically fails all Constitution checks to stabilize while dying. This is a mind-affecting curse effect. The attack bonus is Charisma-based.
 
 **[[rangoric-srd/monsters/abilities/Summon Mount|Summon Mount]] (Su)**: As a standard action, a dullahan can summon a war-trained heavy horse with the [[rangoric-srd/monsters/fiendish-creature/Alternate Fiendish Creature|fiendish creature simple template]]. This horse remains until it is slain or the dullahan dismisses it. He can only have one such horse in his service at a time.

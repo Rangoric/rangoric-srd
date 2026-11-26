@@ -16,7 +16,7 @@ full-attack: "Bite +18 melee (3d6+8) and 2 claws +18 melee (2d6+8)"
 space-reach: "15 ft./10 ft."
 special-attacks: "Breath weapon, capsize"
 special-qualities: "Low-light vision, darkvision 60 ft., scent, immunity to fire, sleep and paralysis"
-saves: "Fort +12, Ref +8, Will +9"
+defenses: "Fort 22, Ref 18, Will 19"
 abilities: "Str 27, Dex 10, Con 19, Int 12, Wis 13, Cha 12"
 skills: "Athletics +31, Fieldcraft +16, Intimidation +16, Perception +16, Persuasion +16, Sense Motive +16, Stealth +7 (+15 in water)"
 skill-ranks: "Athletics 20, Fieldcraft 12, Intimidation 12, Perception 12, Persuasion 12, Sense Motive 12, Stealth 12"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]], [[rangoric-srd/monsters/abilities/Capsize|capsize]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], immunity to fire, sleep and [[rangoric-srd/monsters/abilities/Paralysis|paralysis]]
-- **Saves**: Fort +12, Ref +8, Will +9
+- **Defenses**: Fort 22, Ref 18, Will 19
 - **Abilities**: Str 27, Dex 10, Con 19, Int 12, Wis 13, Cha 12
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +31, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +16, [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Persuasion|Persuasion]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +7 (+15 in water)
 - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]]
@@ -77,6 +77,6 @@ Dragon turtles speak Aquan, Draconic, and Common.
 
 Dragon turtles are fierce fighters and generally attack any creature that threatens their territory or looks like a potential meal.
 
-**Breath Weapon (Su)**: Cloud of steam 20 feet high, 25 feet wide, and 50 feet long, once every 1d4 rounds, damage 12d6 fire, Reflex DC 20 half; effective both on the surface and underwater. The save DC is Constitution-based.
+**Breath Weapon (Su)**: Cloud of steam 20 feet high, 25 feet wide, and 50 feet long, once every 1d4 rounds, damage 12d6 fire, +10 vs Reflex; a miss halves; effective both on the surface and underwater. The attack bonus is Constitution-based.
 
 **Capsize (Ex)**: A dragon turtle can attempt to capsize a boat or ship by ramming it as a charge attack and making a CMB check. The DC of this check is 25, or the result of the boat captain's Profession (sailor) check, whichever is higher. For each size category larger than the dragon turtle's size, it takes a cumulative –10 penalty on this CMB check.

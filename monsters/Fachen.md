@@ -14,8 +14,8 @@ attack: "Battleaxe +10 melee (1d8+5/×3) or bite +10 melee (1d6+2)"
 full-attack: "Battleaxe +10 melee (1d8+5/×3) and bite +5 melee (1d6+2)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
-special-qualities: "Darkvision 60 ft., fear (30 ft., DC 15), incredible balance"
-saves: "Fort +4, Ref +3, Will +8"
+special-qualities: "Darkvision 60 ft., fear (30 ft., +5 vs Will), incredible balance"
+defenses: "Fort 14, Ref 13, Will 18"
 abilities: "Str 20, Dex 13, Con 15, Int 6, Wis 12, Cha 15"
 skills: "Acrobatics +14, Perception +9, Stealth +6"
 skill-ranks: "Acrobatics 9, Perception 5, Stealth 2"
@@ -48,8 +48,8 @@ tags: [rangoric, rangoric/monster]
 - **Full Attack**: [[rangoric-srd/equipment/weapons/Battleaxe|Battleaxe]] +10 melee (1d8+5/×3) and bite +5 melee (1d6+2)
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
-- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Fear|fear]] (30 ft., DC 15), [[rangoric-srd/monsters/abilities/Incredible Balance|incredible balance]]
-- **Saves**: Fort +4, Ref +3, Will +8
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Fear|fear]] (30 ft., +5 vs Will), [[rangoric-srd/monsters/abilities/Incredible Balance|incredible balance]]
+- **Defenses**: Fort 14, Ref 13, Will 18
 - **Abilities**: Str 20, Dex 13, Con 15, Int 6, Wis 12, Cha 15
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +6
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Acrobatics)
@@ -71,6 +71,6 @@ A typical fachen stands just short of 6 feet tall, and despite appearing to be h
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Fear|Fear]] (Su)**: Each creature within a 30-foot radius that sees a fachen must succeed at a DC 15 Will save or be [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] by fear for 1d4 rounds. A creature that successfully saves is not subject to the same fachen's fear aura for 24 hours. This is a paralysis effect and a mind-affecting fear effect. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Fear|Fear]] (Su)**: Each creature within a 30-foot radius that sees a fachen is attacked at +5 vs Will, and on a hit is [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] by fear for 1d4 rounds. A creature the aura misses is not subject to the same fachen's fear aura for 24 hours. This is a paralysis effect and a mind-affecting fear effect. The attack bonus is Charisma-based.
 
 **[[rangoric-srd/monsters/abilities/Incredible Balance|Incredible Balance]] (Ex)**: Despite its strange anatomy, a fachen is adept at keeping itself upright and out of danger. A fachen gains a +3 dodge bonus to AC and a +4 racial bonus to its CMD against trip combat maneuvers.

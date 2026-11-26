@@ -15,7 +15,7 @@ full-attack: "2 claws +4 melee (1d6+1)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Spell-like abilities"
 special-qualities: "Low-light vision, damage reduction 5/cold iron, remorse"
-saves: "Fort +2, Ref +6, Will +5"
+defenses: "Fort 12, Ref 16, Will 15"
 abilities: "Str 12, Dex 15, Con 12, Int 4, Wis 13, Cha 9"
 skills: "Acrobatics +9, Perception +11, Stealth +9"
 skill-ranks: "Acrobatics 4, Perception 7, Stealth 4"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron, [[rangoric-srd/monsters/abilities/Remorse|remorse]]
-- **Saves**: Fort +2, Ref +6, Will +5
+- **Defenses**: Fort 12, Ref 16, Will 15
 - **Abilities**: Str 12, Dex 15, Con 12, Int 4, Wis 13, Cha 9
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +9
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -77,6 +77,6 @@ Forlarrens speak Common and Sylvan.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 4th; concentration +3): 3/day—_[[rangoric-srd/spells/Heat Metal|heat metal]]_ (DC 11).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 4th; concentration +3): 3/day—_[[rangoric-srd/spells/Heat Metal|heat metal]]_ (+1 vs Will).
 
-**[[rangoric-srd/monsters/abilities/Remorse|Remorse]] (Ex)**: Whenever a forlarren kills a living creature, it must make a DC 15 Will save to avoid becoming overwhelmed with remorse. If it fails this save, the forlarren becomes [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1d6 rounds. This is a mind-affecting effect.
+**[[rangoric-srd/monsters/abilities/Remorse|Remorse]] (Ex)**: Whenever a forlarren kills a living creature, its remorse attacks it at +5 vs Will, and a miss avoids becoming overwhelmed. On a hit, the forlarren becomes [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1d6 rounds. This is a mind-affecting effect.

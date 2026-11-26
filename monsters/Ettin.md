@@ -16,7 +16,7 @@ full-attack: "2 flails +12/+7 melee (2d6+6); or 2 javelins +5 ranged (1d8+6)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Superior two-weapon fighting"
 special-qualities: "Low-light vision"
-saves: "Fort +9, Ref +2, Will +5"
+defenses: "Fort 19, Ref 12, Will 15"
 abilities: "Str 23, Dex 8, Con 15, Int 6, Wis 10, Cha 11"
 skills: "Animal Handling +8, Perception +12"
 skill-ranks: "Animal Handling 5, Perception 9"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: Superior two-weapon fighting
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]]
-- **Saves**: Fort +9, Ref +2, Will +5
+- **Defenses**: Fort 19, Ref 12, Will 15
 - **Abilities**: Str 23, Dex 8, Con 15, Int 6, Wis 10, Cha 11
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +8, [[rangoric-srd/skills/Perception|Perception]] +12
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]]

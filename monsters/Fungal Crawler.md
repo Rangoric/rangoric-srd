@@ -15,7 +15,7 @@ full-attack: "Bite +6 melee (1d6+2 plus poison) and 2 claws +6 melee (1d4+2)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Leap, poison"
 special-qualities: "Darkvision 60 ft., plant defenses, immunity to mind-affecting effects, paralysis, poison, polymorph effects, sleep and stunning"
-saves: "Fort +3, Ref +6, Will +5"
+defenses: "Fort 13, Ref 16, Will 15"
 abilities: "Str 14, Dex 20, Con 15, Int 2, Wis 13, Cha 7"
 skills: "Acrobatics +10, Athletics +10 (+14 jumping), Perception +6"
 skill-ranks: "Acrobatics 2, Athletics 5, Perception 2"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Leap|Leap]], [[rangoric-srd/monsters/abilities/Poison|poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Plant Defenses|plant defenses]], immunity to mind-affecting effects, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]], poison, polymorph effects, sleep and stunning
-- **Saves**: Fort +3, Ref +6, Will +5
+- **Defenses**: Fort 13, Ref 16, Will 15
 - **Abilities**: Str 14, Dex 20, Con 15, Int 2, Wis 13, Cha 7
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +10 (+14 jumping), [[rangoric-srd/skills/Perception|Perception]] +6
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Step Up|Step Up]]
@@ -75,4 +75,4 @@ Thanks to the bizarre energies that suffuse their homes, fungal crawlers are inc
 
 **[[rangoric-srd/monsters/abilities/Plant Defenses|Plant Defenses]] (Ex)**: A fungal crawler is part plant and shares many of the immunities that plant creatures possess. A fungal crawler is immune to mind-affecting effects, paralysis, poison, polymorph, sleep, and stunning.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Fungal Crawler Venom|Fungal Crawler Venom]]: Bite—injury; _save_ Fort DC 14; _frequency_ 1/round for 4 rounds; _effect_ 1d2 Str and 1d2 Con; _cure_ 1 save. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Fungal Crawler Venom|Fungal Crawler Venom]]: Bite—injury; _attack_ +4 vs Fortitude; _frequency_ 1/round for 4 rounds; _effect_ 1d2 Str and 1d2 Con; _cure_ 1 miss. The attack bonus is Constitution-based.

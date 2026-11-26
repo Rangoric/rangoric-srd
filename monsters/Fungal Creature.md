@@ -14,9 +14,9 @@ cmd: "27"
 attack: "Slam +8 melee (1d4+3)"
 full-attack: "Slam +8 melee (1d4+3)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Create spawn, poison spore cloud (DC 20), stunning glance (DC 21), spell-like abilities"
-special-qualities: "Darkvision 60 ft., low-light vision, blinding beauty (30 ft., DC 21), poisonous blood (DC 20), fungal metabolism, inspiration, rejuvenation, unearthly grace, wild empathy +21, damage reduction 10/cold iron, immunity to disease, plant traits"
-saves: "Fort +15, Ref +17, Will +16"
+special-attacks: "Create spawn, poison spore cloud (+10 vs Fortitude), stunning glance (+11 vs Fortitude), spell-like abilities"
+special-qualities: "Darkvision 60 ft., low-light vision, blinding beauty (30 ft., +11 vs Fortitude), poisonous blood (+10 vs Fortitude), fungal metabolism, inspiration, rejuvenation, unearthly grace, wild empathy +21, damage reduction 10/cold iron, immunity to disease, plant traits"
+defenses: "Fort 25, Ref 27, Will 26"
 abilities: "Str 14, Dex 19, Con 22, Int 16, Wis 17, Cha 25"
 skills: "Athletics +10, Craft (alchemy) +14, Dungeoneering +11, Escape Artist +15, Fieldcraft +5, Medicine +13, Nature +14, Perception +14, Persuasion +18, Sense Motive +14, Stealth +15"
 skill-ranks: "Athletics 5, Craft (alchemy) 8, Dungeoneering 5, Escape Artist 8, Fieldcraft 2, Medicine 7, Nature 8, Perception 8, Persuasion 8, Sense Motive 8, Stealth 8"
@@ -56,9 +56,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Slam +8 melee (1d4+3)
 - **Full Attack**: Slam +8 melee (1d4+3)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Create Spawn|Create spawn]], [[rangoric-srd/monsters/Fungal Creature#^poison-spore-cloud|poison spore cloud]] (DC 20), stunning glance (DC 21), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], blinding beauty (30 ft., DC 21), [[rangoric-srd/monsters/Fungal Creature#^poisonous-blood|poisonous blood]] (DC 20), fungal metabolism, inspiration, [[rangoric-srd/monsters/Fungal Creature#^rejuvenation|rejuvenation]], [[rangoric-srd/monsters/abilities/Unearthly Grace|unearthly grace]], [[rangoric-srd/classes/Druid#^druid-wild-empathy|wild empathy]] +21, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
-- **Saves**: Fort +15, Ref +17, Will +16
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Create Spawn|Create spawn]], [[rangoric-srd/monsters/Fungal Creature#^poison-spore-cloud|poison spore cloud]] (+10 vs Fortitude), stunning glance (+11 vs Fortitude), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], blinding beauty (30 ft., +11 vs Fortitude), [[rangoric-srd/monsters/Fungal Creature#^poisonous-blood|poisonous blood]] (+10 vs Fortitude), fungal metabolism, inspiration, [[rangoric-srd/monsters/Fungal Creature#^rejuvenation|rejuvenation]], [[rangoric-srd/monsters/abilities/Unearthly Grace|unearthly grace]], [[rangoric-srd/classes/Druid#^druid-wild-empathy|wild empathy]] +21, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
+- **Defenses**: Fort 25, Ref 27, Will 26
 - **Abilities**: Str 14, Dex 19, Con 22, Int 16, Wis 17, Cha 25
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +14, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +11, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Medicine|Medicine]] +13, [[rangoric-srd/skills/Nature|Nature]] +14, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Persuasion|Persuasion]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +15
 - **Feats**: [[rangoric-srd/feats/Agile Maneuvers|Agile Maneuvers]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], Self-Sufficient, [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -88,7 +88,7 @@ Fungal creatures speak Common, Sylvan and Undercommon.
 
 **Challenge Rating**: Same as the base creature +1.
 
-**Type**: The creature's type changes to plant (augmented). Do not recalculate base class Hit Dice, BAB, saves, or skill points.
+**Type**: The creature's type changes to plant (augmented). Do not recalculate base class Hit Dice, BAB, defenses, or skill points.
 
 **Senses**: A fungal creature gains darkvision 60 feet.
 
@@ -108,15 +108,15 @@ Fungal creatures speak Common, Sylvan and Undercommon.
 
 A fungal spawn gains the fungal creature template, but it loses all class levels and memories of the base creature from which it was spawned. If the base creature has 1 or fewer racial Hit Dice and normally has class levels, use a 1st-level [[rangoric-srd/classes/Warrior|warrior]] version of it as the base creature. The fungal spawn awakens as a free-willed being that knows all it needs to know (including language) in order to use its abilities and survive. Although it bears no allegiance to the fungal creature that created it, the new fungal creature immediately recognizes other fungal creatures as its own kind.
 
-**Poison Spore Cloud (Ex)**: Once per day, a fungal creature can release a choking cloud of spores in a 15-foot-radius spread that lingers in the air for 10 rounds. This cloud functions as an inhaled poison. Any breathing creature in the cloud must succeed at a Fortitude save or inhale the spores. A creature that remains in the area of the spore cloud must continue to attempt Fortitude saves against its effects. Multiple spore clouds from multiple fungal creatures require multiple saves from any creature in an area where the clouds overlap. ^poison-spore-cloud
+**Poison Spore Cloud (Ex)**: Once per day, a fungal creature can release a choking cloud of spores in a 15-foot-radius spread that lingers in the air for 10 rounds. This cloud functions as an inhaled poison. The cloud attacks the Fortitude of any breathing creature in it, and on a hit it inhales the spores. The cloud keeps attacking a creature that remains in its area. Multiple spore clouds from multiple fungal creatures each attack any creature in an area where the clouds overlap. ^poison-spore-cloud
 
-[[rangoric-srd/rules/afflictions/Fungal Spores|Fungal Spores]]: Poison—inhaled; _save_ Fort DC 10 + 1/2 the fungal creature's racial Hit Dice + the fungal creature's Con modifier; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con damage and [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]] for 1 minute; _cure_ 2 saves.
+[[rangoric-srd/rules/afflictions/Fungal Spores|Fungal Spores]]: Poison—inhaled; _attack_ +0 vs Fortitude + 1/2 the fungal creature's racial Hit Dice + the fungal creature's Con modifier; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con damage and [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]] for 1 minute; _cure_ 2 misses.
 
-**Poisonous Blood (Ex)**: A fungal creature's blood and flesh are ingested poisons. Any creature that makes a bite attack against a fungal creature, swallows one whole, or otherwise ingests part of one must succeed at a Fortitude save or be afflicted by the poison. ^poisonous-blood
+**Poisonous Blood (Ex)**: A fungal creature's blood and flesh are ingested poisons. Any creature that makes a bite attack against a fungal creature, swallows one whole, or otherwise ingests part of one is attacked against Fortitude, and on a hit is afflicted by the poison. ^poisonous-blood
 
 A fungal creature can drain its own blood to procure an ingested poison that functions as described above. However, its blood has a distinctive and largely unwelcome smell and taste, so most intelligent creatures would refuse to eat food tainted with it unless the taste was thoroughly disguised (which requires a successful DC 15 Profession (cook) check). The fungal creature must deal at least 1 point of damage to itself to get a full dose of poison, and the drawn blood (or amputated flesh) retains its poisonous nature for only 24 hours unless additional living fungal blood is mixed into it.
 
-[[rangoric-srd/rules/afflictions/Fungal Blood or Flesh|Fungal Blood or Flesh]]: Poison—ingested; _save_ Fort DC 10 + 1/2 the fungal creature's racial Hit Dice + the fungal creature's Con modifier; _frequency_ 1/minute for 6 minutes; _effect_ 1 Str damage, 1 Dex damage, and [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1 minute; _cure_ 2 saves.
+[[rangoric-srd/rules/afflictions/Fungal Blood or Flesh|Fungal Blood or Flesh]]: Poison—ingested; _attack_ +0 vs Fortitude + 1/2 the fungal creature's racial Hit Dice + the fungal creature's Con modifier; _frequency_ 1/minute for 6 minutes; _effect_ 1 Str damage, 1 Dex damage, and [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1 minute; _cure_ 2 misses.
 
 **Special Qualities (Ex)**: _Fungal Metabolism_ Fungal creatures breathe, but they do not eat or sleep in the typical manner.
 
@@ -130,4 +130,4 @@ A fungal creature can drain its own blood to procure an ingested poison that fun
 
 **[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 8th; concentration +15): 1/day—_[[rangoric-srd/spells/Dimension Door|dimension door]]_.
 
-**Druid spells prepared** (CL 7th; concentration +10): 4th—_[[rangoric-srd/spells/Command Plants|command plants]]_ (DC 17); 3rd—_[[rangoric-srd/spells/Call Lightning|call lightning]]_ (DC 16), _[[rangoric-srd/spells/Speak with Plants|speak with plants]]_, _[[rangoric-srd/spells/Spike Growth|spike growth]]_ (DC 16); 2nd—_[[rangoric-srd/spells/Chill Metal|chill metal]]_ (DC 15), _[[rangoric-srd/spells/Flame Blade|flame blade]]_, _[[rangoric-srd/spells/Resist Energy|resist energy]]_, _[[rangoric-srd/spells/Summon Swarm|summon swarm]]_; 1st—_[[rangoric-srd/spells/Entangle|entangle]]_ (DC 14), _[[rangoric-srd/spells/Faerie Fire|faerie fire]]_, _[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]_, _[[rangoric-srd/spells/Pass without Trace|pass without trace]]_, _[[rangoric-srd/spells/Produce Flame|produce flame]]_; 0—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Resistance|resistance]]_, _[[rangoric-srd/spells/Virtue|virtue]]_.
+**Druid spells prepared** (CL 7th; concentration +10): 4th—_[[rangoric-srd/spells/Command Plants|command plants]]_ (+7 vs Will); 3rd—_[[rangoric-srd/spells/Call Lightning|call lightning]]_ (+6 vs Reflex), _[[rangoric-srd/spells/Speak with Plants|speak with plants]]_, _[[rangoric-srd/spells/Spike Growth|spike growth]]_ (+6 vs Reflex); 2nd—_[[rangoric-srd/spells/Chill Metal|chill metal]]_ (+5 vs Will), _[[rangoric-srd/spells/Flame Blade|flame blade]]_, _[[rangoric-srd/spells/Resist Energy|resist energy]]_, _[[rangoric-srd/spells/Summon Swarm|summon swarm]]_; 1st—_[[rangoric-srd/spells/Entangle|entangle]]_ (+4 vs Reflex), _[[rangoric-srd/spells/Faerie Fire|faerie fire]]_, _[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]_, _[[rangoric-srd/spells/Pass without Trace|pass without trace]]_, _[[rangoric-srd/spells/Produce Flame|produce flame]]_; 0—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Resistance|resistance]]_, _[[rangoric-srd/spells/Virtue|virtue]]_.
