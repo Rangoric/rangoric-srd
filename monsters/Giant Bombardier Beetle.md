@@ -15,7 +15,7 @@ full-attack: "Bite +2 melee (1d4+1)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Acid spray"
 special-qualities: "Darkvision 60 ft., vermin traits"
-saves: "Fort +5, Ref +0, Will +0"
+defenses: "Fort 15, Ref 10, Will 10"
 abilities: "Str 13, Dex 10, Con 14, Int —, Wis 10, Cha 9"
 skills: "Athletics +6"
 skill-ranks: "Athletics 2"
@@ -46,7 +46,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Acid spray
 - **Special Qualities**: Darkvision 60 ft., vermin traits
-- **Saves**: Fort +5, Ref +0, Will +0
+- **Defenses**: Fort 15, Ref 10, Will 10
 - **Abilities**: Str 13, Dex 10, Con 14, Int —, Wis 10, Cha 9
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +6
 - **Feats**: —
@@ -60,4 +60,4 @@ These creatures feed primarily on carrion and offal, gathering heaps of the stuf
 
 Giant bombardier beetles normally attack only to defend themselves, their nests, or their eggs.
 
-**Acid Spray (Ex)**: When attacked or disturbed, the creature can release a 10-foot cone of acidic vapor once per round. Those within the cone must succeed on a DC 13 Fortitude save or take 1d4+2 points of acid damage. The save DC is Constitution-based.
+**Acid Spray (Ex)**: When attacked or disturbed, the creature can release a 10-foot cone of acidic vapor once per round. Those within the cone are attacked at +3 vs Fortitude, and on a hit take 1d4+2 points of acid damage. The attack bonus is Constitution-based.

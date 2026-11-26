@@ -15,7 +15,7 @@ full-attack: "Bite +2 melee (1d4 plus grab, attach, and disease)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Blood drain (1 Constitution), disease"
 special-qualities: "Darkvision 60 ft., scent, immunity to mind-affecting effects"
-saves: "Fort +5, Ref +0, Will +0"
+defenses: "Fort 15, Ref 10, Will 10"
 abilities: "Str 11, Dex 10, Con 15, Int —, Wis 11, Cha 2"
 skills: "Athletics +8, Stealth +8"
 skill-ranks: "Athletics 5, Stealth 0"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]] (1 Constitution), [[rangoric-srd/monsters/abilities/Disease|disease]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-- **Saves**: Fort +5, Ref +0, Will +0
+- **Defenses**: Fort 15, Ref 10, Will 10
 - **Abilities**: Str 11, Dex 10, Con 15, Int —, Wis 11, Cha 2
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +8
 - **Feats**: —
@@ -67,4 +67,4 @@ In areas where large creatures like megafauna or dinosaurs dwell, the giant tick
 
 **[[rangoric-srd/monsters/abilities/Grab|Grab]] (Ex)**: A giant tick can grab targets of any size, and has a +8 racial bonus on grapple checks rather than the normal +4 bonus most creatures with grab possess.
 
-**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Ex)**: [[rangoric-srd/rules/afflictions/Red Ache|Red Ache]]: Bite—injury; _save_ Fort DC 13; _onset_ 1d3 days; _frequency_ 1/day; _effect_ 1d6 Str damage; _cure_ 2 consecutive saves. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Ex)**: [[rangoric-srd/rules/afflictions/Red Ache|Red Ache]]: Bite—injury; _attack_ +3 vs Fortitude; _onset_ 1d3 days; _frequency_ 1/day; _effect_ 1d6 Str damage; _cure_ 2 consecutive misses. The attack bonus is Constitution-based.

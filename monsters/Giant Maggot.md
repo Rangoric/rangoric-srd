@@ -15,7 +15,7 @@ full-attack: "Bite +0 melee (1d6)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Regurgitate"
 special-qualities: "Darkvision 60 ft., immunity to disease and mind-affecting effects"
-saves: "Fort +5, Ref –1, Will –3"
+defenses: "Fort 15, Ref 9, Will 7"
 abilities: "Str 10, Dex 8, Con 16, Int —, Wis 5, Cha 1"
 skills: "—"
 skill-ranks: ""
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Regurgitate|Regurgitate]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease and mind-affecting effects
-- **Saves**: Fort +5, Ref –1, Will –3
+- **Defenses**: Fort 15, Ref 9, Will 7
 - **Abilities**: Str 10, Dex 8, Con 16, Int —, Wis 5, Cha 1
 - **Skills**: —
 - **Feats**: —
@@ -65,4 +65,4 @@ Voracious scavengers, giant maggots feed constantly, gorging themselves on the d
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Regurgitate|Regurgitate]] (Ex)**: Once per day, a giant maggot can empty its putrid stomach upon one creature within 5 feet. The target must make a DC 13 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1 minute (or until the target spends a full-round action with at least a gallon of water to wash off the filth). The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Regurgitate|Regurgitate]] (Ex)**: Once per day, a giant maggot can empty its putrid stomach upon one creature within 5 feet. The filth attacks the target at +3 vs Fortitude, and on a hit it is [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1 minute (or until the target spends a full-round action with at least a gallon of water to wash off the filth). The attack bonus is Constitution-based.

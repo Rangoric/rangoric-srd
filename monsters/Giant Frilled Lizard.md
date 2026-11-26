@@ -15,7 +15,7 @@ full-attack: "Bite +9 melee (2d6+5) and tail +4 melee (1d8+2)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Intimidating charge"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +11, Ref +8, Will +4"
+defenses: "Fort 21, Ref 18, Will 14"
 abilities: "Str 21, Dex 13, Con 19, Int 2, Wis 14, Cha 10"
 skills: "Athletics +13, Perception +11, Stealth +8"
 skill-ranks: "Athletics 5, Perception 6, Stealth 4"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: Intimidating charge
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +11, Ref +8, Will +4
+- **Defenses**: Fort 21, Ref 18, Will 14
 - **Abilities**: Str 21, Dex 13, Con 19, Int 2, Wis 14, Cha 10
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +8
 - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -65,4 +65,4 @@ This lizard is a true behemoth—an apex predator found in tropical regions. Man
 
 ### Combat
 
-**Intimidating Charge (Ex)**: When a giant frilled lizard charges, it hisses ferociously, extends its neck frills, and darts forward on its hind legs, increasing its base speed to 50 feet for that round. In addition to the normal effects of a charge, the creature charged must make a DC 13 Will save or be [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1d6 rounds. This is a fear effect. The save DC is Charisma-based.
+**Intimidating Charge (Ex)**: When a giant frilled lizard charges, it hisses ferociously, extends its neck frills, and darts forward on its hind legs, increasing its base speed to 50 feet for that round. In addition to the normal effects of a charge, the lizard attacks the creature charged at +3 vs Will, and on a hit it is [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1d6 rounds. This is a fear effect. The attack bonus is Charisma-based.

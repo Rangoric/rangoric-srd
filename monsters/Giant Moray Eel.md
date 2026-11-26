@@ -16,7 +16,7 @@ full-attack: "Bite +11 melee (2d6+9 plus grab)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Gnaw"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +8, Ref +9, Will +3"
+defenses: "Fort 18, Ref 19, Will 13"
 abilities: "Str 22, Dex 14, Con 16, Int 1, Wis 12, Cha 8"
 skills: "Athletics +14, Escape Artist +10, Perception +7, Stealth +8"
 skill-ranks: "Athletics 5, Escape Artist 0, Perception 3, Stealth 7"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: Gnaw
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +8, Ref +9, Will +3
+- **Defenses**: Fort 18, Ref 19, Will 13
 - **Abilities**: Str 22, Dex 14, Con 16, Int 1, Wis 12, Cha 8
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +10, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +8
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)

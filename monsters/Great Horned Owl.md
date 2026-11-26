@@ -15,7 +15,7 @@ full-attack: "2 claws +3 melee (1d4–1)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision"
-saves: "Fort +3, Ref +4, Will +2"
+defenses: "Fort 13, Ref 14, Will 12"
 abilities: "Str 8, Dex 15, Con 13, Int 2, Wis 15, Cha 6"
 skills: "Acrobatics +8, Perception +10, Stealth +10"
 skill-ranks: "Acrobatics 0, Perception 1, Stealth 0"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]]
-- **Saves**: Fort +3, Ref +4, Will +2
+- **Defenses**: Fort 13, Ref 14, Will 12
 - **Abilities**: Str 8, Dex 15, Con 13, Int 2, Wis 15, Cha 6
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +10
 - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]

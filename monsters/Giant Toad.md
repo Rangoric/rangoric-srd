@@ -15,7 +15,7 @@ full-attack: "Bite +5 melee (1d6+6 plus grab)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Swallow whole (1d4 bludgeoning, AC 12, 2 hp)"
 special-qualities: "Low-light vision, scent, poison skin"
-saves: "Fort +6, Ref +6, Will +0"
+defenses: "Fort 16, Ref 16, Will 10"
 abilities: "Str 19, Dex 13, Con 16, Int 1, Wis 8, Cha 6"
 skills: "Acrobatics +5, Athletics +12 (+16 jumping), Perception +8, Stealth +5"
 skill-ranks: "Acrobatics 0, Athletics 5, Perception 6, Stealth 1"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Swallow Whole|Swallow whole]] (1d4 bludgeoning, AC 12, 2 hp)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Poison Skin|poison skin]]
-- **Saves**: Fort +6, Ref +6, Will +0
+- **Defenses**: Fort 16, Ref 16, Will 10
 - **Abilities**: Str 19, Dex 13, Con 16, Int 1, Wis 8, Cha 6
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +12 (+16 jumping), [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +5
 - **Feats**: [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -67,4 +67,4 @@ Giant toad companions are identical to giant frog companions, save that they lac
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison Skin|Poison Skin]] (Ex)**: A creature that strikes a giant toad with an unarmed strike or natural weapon exposes itself to the toad's poisonous skin. [[rangoric-srd/rules/afflictions/Toad Venom|Toad Venom]]: Skin—contact; _save_ Fort DC 14; _frequency_ 1/round for 4 rounds; _effect_ 1d2 Wis damage; _cure_ 1 save.
+**[[rangoric-srd/monsters/abilities/Poison Skin|Poison Skin]] (Ex)**: A creature that strikes a giant toad with an unarmed strike or natural weapon exposes itself to the toad's poisonous skin. [[rangoric-srd/rules/afflictions/Toad Venom|Toad Venom]]: Skin—contact; _attack_ +4 vs Fortitude; _frequency_ 1/round for 4 rounds; _effect_ 1d2 Wis damage; _cure_ 1 miss.

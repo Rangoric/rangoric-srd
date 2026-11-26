@@ -15,7 +15,7 @@ full-attack: "Bite +10 melee (2d8+7 plus grab)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Sand trap"
 special-qualities: "Darkvision 60 ft., tremorsense 60 ft., immunity to mind-affecting effects"
-saves: "Fort +9, Ref +2, Will +2"
+defenses: "Fort 19, Ref 12, Will 12"
 abilities: "Str 20, Dex 11, Con 17, Int —, Wis 11, Cha 10"
 skills: "—"
 skill-ranks: ""
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Sand Trap|Sand trap]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-- **Saves**: Fort +9, Ref +2, Will +2
+- **Defenses**: Fort 19, Ref 12, Will 12
 - **Abilities**: Str 20, Dex 11, Con 17, Int —, Wis 11, Cha 10
 - **Skills**: —
 - **Feats**: —
@@ -65,4 +65,4 @@ Perils of the desert depths, giant ant lions construct traps from the shifting s
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Sand Trap|Sand Trap]] (Ex)**: A giant ant lion can create a 60-foot-diameter, 20-foot-deep pit in any sand or soft earth surface. Creating a sand trap takes 1 hour. A DC 15 Perception check allows a creature to realize such a depression in the sand is in fact a trap. Any creature that steps into the trap slides to the center if it fails a DC 14 Reflex save—such victims take no damage, but they do fall [[rangoric-srd/rules/Special Abilities and Conditions#^prone|prone]]. A giant ant lion can make an attack of opportunity against any creature that falls to the bottom of its sand trap. These creatures can move across sand traps at their normal speed and are immune to the trap's effects. Other creatures can navigate the trap's walls with a DC 20 Athletics check. The save DC is Dexterity-based.
+**[[rangoric-srd/monsters/abilities/Sand Trap|Sand Trap]] (Ex)**: A giant ant lion can create a 60-foot-diameter, 20-foot-deep pit in any sand or soft earth surface. Creating a sand trap takes 1 hour. A DC 15 Perception check allows a creature to realize such a depression in the sand is in fact a trap. Any creature that steps into the trap slides to the center if the trap hits it at +4 vs Reflex—such victims take no damage, but they do fall [[rangoric-srd/rules/Special Abilities and Conditions#^prone|prone]]. A giant ant lion can make an attack of opportunity against any creature that falls to the bottom of its sand trap. These creatures can move across sand traps at their normal speed and are immune to the trap's effects. Other creatures can navigate the trap's walls with a DC 20 Athletics check. The attack bonus is Dexterity-based.

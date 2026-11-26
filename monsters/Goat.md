@@ -15,7 +15,7 @@ full-attack: "Gore +2 melee (1d4+1)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision"
-saves: "Fort +3, Ref +3, Will +0"
+defenses: "Fort 13, Ref 13, Will 10"
 abilities: "Str 12, Dex 13, Con 12, Int 2, Wis 11, Cha 5"
 skills: "Acrobatics +1, Athletics +5 (+9 jumping), Fieldcraft +0 (+4 to find food)"
 skill-ranks: "Acrobatics 0, Athletics 1, Fieldcraft 0"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]]
-- **Saves**: Fort +3, Ref +3, Will +0
+- **Defenses**: Fort 13, Ref 13, Will 10
 - **Abilities**: Str 12, Dex 13, Con 12, Int 2, Wis 11, Cha 5
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +1, [[rangoric-srd/skills/Athletics|Athletics]] +5 (+9 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +0 (+4 to find food)
 - **Feats**: [[rangoric-srd/feats/Nimble Moves|Nimble Moves]]

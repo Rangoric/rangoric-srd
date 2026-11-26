@@ -16,7 +16,7 @@ full-attack: "Bite +6 melee (1d8+2) and 2 claws +6 melee (1d6+2)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Confusion, implant, pheromones"
 special-qualities: "Darkvision 60 ft."
-saves: "Fort +3, Ref +7, Will +5"
+defenses: "Fort 13, Ref 17, Will 15"
 abilities: "Str 15, Dex 17, Con 15, Int 2, Wis 12, Cha 10"
 skills: "Acrobatics +5, Perception +9, Stealth +7 (+11 in dim light)"
 skill-ranks: "Acrobatics 1, Perception 5, Stealth 5"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Confusion (Gloomwing)|Confusion]], [[rangoric-srd/monsters/abilities/Implant (Gloomwing)|implant]], [[rangoric-srd/monsters/abilities/Pheromones|pheromones]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft.
-- **Saves**: Fort +3, Ref +7, Will +5
+- **Defenses**: Fort 13, Ref 17, Will 15
 - **Abilities**: Str 15, Dex 17, Con 15, Int 2, Wis 12, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +7 (+11 in dim light)
 - **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (confusion), [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Hover|Hover]]
@@ -68,8 +68,8 @@ For all the dangers a gloomwing presents, it is the creature's young that pose t
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Confusion (Gloomwing)|Confusion]] (Su)**: The eerie shifting of patterns on a gloomwing's wings is hypnotic—any creature within 30 feet that does not avert its gaze from the gloomwing must make a DC 14 Will save at the start of each turn or become [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]] for 1 round. This is a mind-affecting effect—gloomwings and tenebrous worms are immune to this effect. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Confusion (Gloomwing)|Confusion]] (Su)**: The eerie shifting of patterns on a gloomwing's wings is hypnotic—any creature within 30 feet that does not avert its gaze from the gloomwing is attacked at +4 vs Will at the start of each turn, and on a hit becomes [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]] for 1 round. This is a mind-affecting effect—gloomwings and tenebrous worms are immune to this effect. The attack bonus is Charisma-based.
 
-**[[rangoric-srd/monsters/abilities/Implant (Gloomwing)|Implant]] (Ex)**: A gloomwing can lay eggs inside a Small or larger [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]] or dead creature as a full-round action that provokes attacks of opportunity. A creature implanted with [[rangoric-srd/rules/afflictions/Gloomwing Eggs|gloomwing eggs]] must make a DC 14 Fortitude save each morning to avoid suffering 1d4 points of Constitution damage. Within 24 hours of a creature's death from this damage, 1d4 young tenebrous worms emerge from the corpse, devouring it completely in the process. The eggs can be destroyed via any effect that cures disease, but the eggs themselves are not treated as a disease for purposes of what creatures are immune to this effect. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Implant (Gloomwing)|Implant]] (Ex)**: A gloomwing can lay eggs inside a Small or larger [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]] or dead creature as a full-round action that provokes attacks of opportunity. A creature implanted with [[rangoric-srd/rules/afflictions/Gloomwing Eggs|gloomwing eggs]] is attacked by them at +4 vs Fortitude each morning, and on a hit takes 1d4 points of Constitution damage. Within 24 hours of a creature's death from this damage, 1d4 young tenebrous worms emerge from the corpse, devouring it completely in the process. The eggs can be destroyed via any effect that cures disease, but the eggs themselves are not treated as a disease for purposes of what creatures are immune to this effect. The attack bonus is Constitution-based.
 
-**[[rangoric-srd/monsters/abilities/Pheromones|Pheromones]] (Su)**: After the first round of combat, a gloomwing can emit a strange, musky scent in a 30-foot radius as a free action. All creatures within this area (save for other gloomwings or tenebrous worms) must make a DC 14 Fortitude save each round to avoid becoming weakened by the pheromones. Once a creature fails a save against this effect, it takes a –4 penalty to its Strength score—this penalty lasts for as long as the battle continues and for 1 hour thereafter. Lesser restoration or any other effect capable of healing ability damage immediately removes this Strength penalty. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Pheromones|Pheromones]] (Su)**: After the first round of combat, a gloomwing can emit a strange, musky scent in a 30-foot radius as a free action. All creatures within this area (save for other gloomwings or tenebrous worms) are attacked at +4 vs Fortitude each round, and on a hit become weakened by the pheromones. Once this effect hits a creature, it takes a –4 penalty to its Strength score—this penalty lasts for as long as the battle continues and for 1 hour thereafter. Lesser restoration or any other effect capable of healing ability damage immediately removes this Strength penalty. The attack bonus is Constitution-based.

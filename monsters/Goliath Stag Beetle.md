@@ -13,9 +13,9 @@ cmd: "31 (39 vs. trip)"
 attack: "Bite +17 melee (3d8+16)"
 full-attack: "Bite +17 melee (3d8+16)"
 space-reach: "15 ft./10 ft."
-special-attacks: "Trample (3d8+16, DC 26)"
+special-attacks: "Trample (3d8+16, +16 vs Reflex)"
 special-qualities: "Darkvision 60 ft., immunity to mind-affecting effects"
-saves: "Fort +12, Ref +3, Will +3"
+defenses: "Fort 22, Ref 13, Will 13"
 abilities: "Str 32, Dex 10, Con 21, Int —, Wis 10, Cha 4"
 skills: "Acrobatics –8"
 skill-ranks: "Acrobatics 0"
@@ -47,9 +47,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +17 melee (3d8+16)
 - **Full Attack**: Bite +17 melee (3d8+16)
 - **Space/Reach**: 15 ft./10 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Trample|Trample]] (3d8+16, DC 26)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Trample|Trample]] (3d8+16, +16 vs Reflex)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-- **Saves**: Fort +12, Ref +3, Will +3
+- **Defenses**: Fort 22, Ref 13, Will 13
 - **Abilities**: Str 32, Dex 10, Con 21, Int —, Wis 10, Cha 4
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –8
 - **Feats**: —

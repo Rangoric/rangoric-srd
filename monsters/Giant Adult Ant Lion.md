@@ -15,7 +15,7 @@ full-attack: "Bite +12 melee (3d8+10)"
 space-reach: "15 ft./10 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., immunity to mind-affecting effects"
-saves: "Fort +11, Ref +6, Will +3"
+defenses: "Fort 21, Ref 16, Will 13"
 abilities: "Str 24, Dex 16, Con 19, Int —, Wis 11, Cha 10"
 skills: "Acrobatics +3"
 skill-ranks: "Acrobatics 1"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./10 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-- **Saves**: Fort +11, Ref +6, Will +3
+- **Defenses**: Fort 21, Ref 16, Will 13
 - **Abilities**: Str 24, Dex 16, Con 19, Int —, Wis 11, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +3
 - **Feats**: —

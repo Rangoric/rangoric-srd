@@ -15,7 +15,7 @@ full-attack: "Bite +3 melee (1d6+2 plus grab); or tongue +3 melee touch (grab)"
 space-reach: "5 ft./5 ft. (15 ft. with tongue)"
 special-attacks: "Pull (tongue, 5 feet), swallow whole (1d4 bludgeoning damage, AC 10, 1 hp), tongue"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +6, Ref +6, Will –1"
+defenses: "Fort 16, Ref 16, Will 9"
 abilities: "Str 15, Dex 13, Con 16, Int 1, Wis 8, Cha 6"
 skills: "Acrobatics +9, Athletics +10 (+14 jumping), Perception +3, Stealth +5"
 skill-ranks: "Acrobatics 1, Athletics 5, Perception 1, Stealth 0"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft. (15 ft. with tongue)
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pull|Pull]] (tongue, 5 feet), [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (1d4 bludgeoning damage, AC 10, 1 hp), tongue
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +6, Ref +6, Will –1
+- **Defenses**: Fort 16, Ref 16, Will 9
 - **Abilities**: Str 15, Dex 13, Con 16, Int 1, Wis 8, Cha 6
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Athletics|Athletics]] +10 (+14 jumping), [[rangoric-srd/skills/Perception|Perception]] +3, [[rangoric-srd/skills/Stealth|Stealth]] +5
 - **Feats**: [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]

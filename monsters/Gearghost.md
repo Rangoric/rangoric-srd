@@ -15,7 +15,7 @@ full-attack: "2 slams +5 melee (1d4–2)"
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 60 ft., channel resistance +4, rejuvenation, create trap, resetter, damage reduction 5/-, undead traits"
-saves: "Fort +5, Ref +7, Will +7"
+defenses: "Fort 15, Ref 17, Will 17"
 abilities: "Str 6, Dex 17, Con —, Int 15, Wis 14, Cha 17"
 skills: "Acrobatics +20, Craft (traps) +17, Engineering +10, Mysticism +10, Perception +12, Stealth +24"
 skill-ranks: "Acrobatics 10, Craft (traps) 12, Engineering 4, Mysticism 5, Perception 7, Stealth 10"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/abilities/Rejuvenation (Gearghost)|rejuvenation]], [[rangoric-srd/monsters/abilities/Create Trap|create trap]], [[rangoric-srd/monsters/abilities/Resetter|resetter]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-- **Saves**: Fort +5, Ref +7, Will +7
+- **Defenses**: Fort 15, Ref 17, Will 17
 - **Abilities**: Str 6, Dex 17, Con —, Int 15, Wis 14, Cha 17
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +20, [[rangoric-srd/skills/Craft|Craft]] (traps) +17, [[rangoric-srd/skills/Engineering|Engineering]] +10, [[rangoric-srd/skills/Mysticism|Mysticism]] +10, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +24
 - **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
@@ -67,7 +67,7 @@ Gearghosts speak Aklo, Common and Undercommon.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th; concentration +12): At will—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Mending|mending]]_, _[[rangoric-srd/spells/Telekinesis|telekinesis]]_ (DC 18); 3/day—_[[rangoric-srd/spells/Make Whole|make whole]]_.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th; concentration +12): At will—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Mending|mending]]_, _[[rangoric-srd/spells/Telekinesis|telekinesis]]_ (+8 vs Will); 3/day—_[[rangoric-srd/spells/Make Whole|make whole]]_.
 
 **[[rangoric-srd/monsters/abilities/Create Trap|Create Trap]] (Su)**: Once per week, a gearghost can create a trap of CR 4 or lower regardless of cost, materials, or skill checks. Two or more gearghosts working together on a trap can increase the maximum CR by 2 for each additional gearghost working in concert. For example, three gearghosts working together can create any CR 8 or lower trap in a week. Example traps are in the [[rangoric-srd/rules/Traps|traps]] rules.
 

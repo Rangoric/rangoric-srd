@@ -15,7 +15,7 @@ full-attack: "Bite +2 melee (1d6+3 plus allergic reaction)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision, scent, immunity to disease"
-saves: "Fort +4, Ref +4, Will +1"
+defenses: "Fort 14, Ref 14, Will 11"
 abilities: "Str 15, Dex 14, Con 15, Int 2, Wis 12, Cha 8"
 skills: "Stealth +6"
 skill-ranks: "Stealth 1"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease
-- **Saves**: Fort +4, Ref +4, Will +1
+- **Defenses**: Fort 14, Ref 14, Will 11
 - **Abilities**: Str 15, Dex 14, Con 15, Int 2, Wis 12, Cha 8
 - **Skills**: [[rangoric-srd/skills/Stealth|Stealth]] +6
 - **Feats**: [[rangoric-srd/feats/Toughness|Toughness]]
@@ -73,4 +73,4 @@ A goblin dog is 5 feet long but weighs only 75 pounds.
 
 ### Combat
 
-**Allergic Reaction (Ex)**: A goblin dog's dander is highly irritating to all creatures save those with the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^goblinoid|goblinoid]] subtype. A non-goblinoid creature damaged by a goblin dog's bite, who deals damage to a goblin dog with a natural weapon or unarmed attack, or who otherwise comes into contact with a goblin dog (including attempts to grapple or ride the creature) must make a DC 12 Fortitude save or break out in an itching rash. A creature affected by this rash takes a –2 penalty to Dexterity and Charisma for 1 day (multiple allergic reactions do not stack). _[[rangoric-srd/spells/Remove Disease|Remove disease]]_ or any magical healing removes the rash instantly. This is a disease effect. The save DC is Constitution-based.
+**Allergic Reaction (Ex)**: A goblin dog's dander is highly irritating to all creatures save those with the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^goblinoid|goblinoid]] subtype. A non-goblinoid creature damaged by a goblin dog's bite, who deals damage to a goblin dog with a natural weapon or unarmed attack, or who otherwise comes into contact with a goblin dog (including attempts to grapple or ride the creature) is attacked at +2 vs Fortitude, and on a hit breaks out in an itching rash. A creature affected by this rash takes a –2 penalty to Dexterity and Charisma for 1 day (multiple allergic reactions do not stack). _[[rangoric-srd/spells/Remove Disease|Remove disease]]_ or any magical healing removes the rash instantly. This is a disease effect. The attack bonus is Constitution-based.

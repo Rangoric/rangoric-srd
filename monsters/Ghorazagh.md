@@ -15,7 +15,7 @@ full-attack: "Bite +16 melee (2d6+6) and 2 claws +16 melee (1d8+6) and 4 tentacl
 space-reach: "10 ft./10 ft."
 special-attacks: "Blood drain (1d4 Con), bloodspray"
 special-qualities: "Bloodsense, darkvision 30 ft., vulnerable to sonic"
-saves: "Fort +15, Ref +10, Will +12"
+defenses: "Fort 25, Ref 20, Will 22"
 abilities: "Str 22, Dex 17, Con 26, Int 15, Wis 17, Cha 16"
 skills: "Acrobatics +27, Athletics +14, Deception +18, Dungeoneering +17, Fieldcraft +21, Perception +21, Stealth +17"
 skill-ranks: "Acrobatics 23, Athletics 5, Deception 12, Dungeoneering 12, Fieldcraft 15, Perception 15, Stealth 15"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]] (1d4 Con), [[rangoric-srd/monsters/abilities/Bloodspray|bloodspray]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Bloodsense|Bloodsense]], [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 30 ft., vulnerable to sonic
-- **Saves**: Fort +15, Ref +10, Will +12
+- **Defenses**: Fort 25, Ref 20, Will 22
 - **Abilities**: Str 22, Dex 17, Con 26, Int 15, Wis 17, Cha 16
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +27, [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Deception|Deception]] +18, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +17, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +21, [[rangoric-srd/skills/Perception|Perception]] +21, [[rangoric-srd/skills/Stealth|Stealth]] +17
 - **Feats**: [[rangoric-srd/feats/Bleeding Critical|Bleeding Critical]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]]
@@ -71,6 +71,6 @@ Ghorazaghs speak Aklo.
 
 **[[rangoric-srd/monsters/abilities/Bloodsense|Bloodsense]] (Su)**: A ghorazagh notices living creatures within 60 feet just as if it possessed the blindsight ability.
 
-**[[rangoric-srd/monsters/abilities/Bloodspray|Bloodspray]] (Su)**: Once every 1d4 rounds, a ghorazagh can unleash a 20-foot cone of blood and eldritch enzymes. Any living creature struck by a ghorazagh's bloodspray must make a DC 25 Fortitude save or be affected as by the spell slow. A slowed creature struck by a ghorazagh's bloodspray a second time must make an additional save or be [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]]. These effects last for 2d6 rounds. A ghorazagh can also consciously alter its enzymes, producing a spray that removes all effects of this ability. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Bloodspray|Bloodspray]] (Su)**: Once every 1d4 rounds, a ghorazagh can unleash a 20-foot cone of blood and eldritch enzymes. Any living creature struck by a ghorazagh's bloodspray is attacked at +15 vs Fortitude, and on a hit is affected as by the spell slow. A slowed creature struck by a ghorazagh's bloodspray a second time is attacked again, and on a hit is [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]]. These effects last for 2d6 rounds. A ghorazagh can also consciously alter its enzymes, producing a spray that removes all effects of this ability. The attack bonus is Constitution-based.
 
 **Chemical Communication (Ex)**: Ghorazaghs can communicate with other ghorazaghs within 60 feet via pheromone transmission. In a ghorazagh hive, this range extends to cover the entire hive. This is a silent and instantaneous mode of communication that only ghorazaghs can understand.

@@ -15,7 +15,7 @@ full-attack: "Sting +8 melee (1d8+6 plus poison)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Poison"
 special-qualities: "Darkvision 60 ft., immunity to mind-affecting effects, vulnerable to smoke"
-saves: "Fort +9, Ref +2, Will +3"
+defenses: "Fort 19, Ref 12, Will 13"
 abilities: "Str 19, Dex 11, Con 18, Int —, Wis 12, Cha 13"
 skills: "Acrobatics +2"
 skill-ranks: "Acrobatics 1"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects, vulnerable to smoke
-- **Saves**: Fort +9, Ref +2, Will +3
+- **Defenses**: Fort 19, Ref 12, Will 13
 - **Abilities**: Str 19, Dex 11, Con 18, Int —, Wis 12, Cha 13
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +2
 - **Feats**: —
@@ -65,4 +65,4 @@ Bulbous and robust in comparison to others of the same species, giant queen bees
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Giant Queen Bee Venom|Giant Queen Bee Venom]]: Sting—injury; _save_ Fort DC 17; _frequency_ 1/round for 4 rounds; _effect_ 1d2 Con; _cure_ 2 consecutive saves.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Giant Queen Bee Venom|Giant Queen Bee Venom]]: Sting—injury; _attack_ +7 vs Fortitude; _frequency_ 1/round for 4 rounds; _effect_ 1d2 Con; _cure_ 2 consecutive misses.

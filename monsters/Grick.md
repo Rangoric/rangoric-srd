@@ -15,7 +15,7 @@ full-attack: "Bite +4 melee (1d4+1) and 4 tentacles –1 melee (1d4)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., scent, damage reduction 10/magic"
-saves: "Fort +2, Ref +3, Will +6"
+defenses: "Fort 12, Ref 13, Will 16"
 abilities: "Str 12, Dex 14, Con 13, Int 3, Wis 14, Cha 5"
 skills: "Athletics +9, Perception +12, Stealth +6 (+14 in rocky terrain)"
 skill-ranks: "Athletics 5, Perception 7, Stealth 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic
-- **Saves**: Fort +2, Ref +3, Will +6
+- **Defenses**: Fort 12, Ref 13, Will 16
 - **Abilities**: Str 12, Dex 14, Con 13, Int 3, Wis 14, Cha 5
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +6 (+14 in rocky terrain)
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Stand Still|Stand Still]]

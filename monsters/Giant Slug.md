@@ -15,7 +15,7 @@ full-attack: "Tongue +15 melee (2d10+12 plus 2d8 acid); or spit acid +3 ranged (
 space-reach: "15 ft./15 ft."
 special-attacks: "—"
 special-qualities: "Blindsight 60 ft., malleable, damage reduction 10/slashing or piercing, immunity to acid and mind-affecting effects, susceptible to salt"
-saves: "Fort +12, Ref +0, Will +4"
+defenses: "Fort 22, Ref 10, Will 14"
 abilities: "Str 27, Dex 2, Con 18, Int —, Wis 10, Cha 1"
 skills: "—"
 skill-ranks: ""
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./15 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., malleable, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/slashing or piercing, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid and mind-affecting effects, [[rangoric-srd/monsters/abilities/Susceptible to Salt|susceptible to salt]]
-- **Saves**: Fort +12, Ref +0, Will +4
+- **Defenses**: Fort 22, Ref 10, Will 14
 - **Abilities**: Str 27, Dex 2, Con 18, Int —, Wis 10, Cha 1
 - **Skills**: —
 - **Feats**: —
@@ -69,7 +69,7 @@ Deep below ground, some subterranean races use giant slugs as mounts or guardian
 
 ### Combat
 
-**Spit Acid (Ex)**: A giant slug can spit acid at an opponent within 60 feet (no range increment). With a successful ranged touch attack, the target takes 10d6 points of acid damage (no save).
+**Spit Acid (Ex)**: A giant slug can spit acid at an opponent within 60 feet (no range increment). With a successful ranged touch attack, the target takes 10d6 points of acid damage (no attack against a defense).
 
 **Malleable (Ex)**: A giant slug's body is very malleable, allowing it to fit into narrow areas with ease. A giant slug takes no penalty to its speed or checks when squeezing in an area that is one size category smaller than its actual size (10 feet wide for most giant slugs). A giant slug can squeeze normally through an area two size categories smaller than its actual size (5 feet wide for most giant slugs).
 

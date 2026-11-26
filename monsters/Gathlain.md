@@ -15,7 +15,7 @@ full-attack: "Spear +2 melee (1d6+1/×3)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision, bloodline arcana (+2 DC for compulsion spells)"
-saves: "Fort +0, Ref +3, Will +1"
+defenses: "Fort 10, Ref 13, Will 11"
 abilities: "Str 12, Dex 16, Con 11, Int 10, Wis 8, Cha 17"
 skills: "Acrobatics +1, Arcana +4, Mysticism +4"
 skill-ranks: "Acrobatics 0, Arcana 1, Mysticism 1"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], bloodline arcana (+2 DC for compulsion spells)
-- **Saves**: Fort +0, Ref +3, Will +1
+- **Defenses**: Fort 10, Ref 13, Will 11
 - **Abilities**: Str 12, Dex 16, Con 11, Int 10, Wis 8, Cha 17
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +1, [[rangoric-srd/skills/Arcana|Arcana]] +4, [[rangoric-srd/skills/Mysticism|Mysticism]] +4
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]]
@@ -83,4 +83,4 @@ Gathlains are defined by their class levels—they don't have racial Hit Dice. A
 
 ### Combat
 
-**Sorcerer spells known** (CL 1st; concentration +4): 1st (4/day)—_[[rangoric-srd/spells/Color Spray|color spray]]_ (DC 14), _[[rangoric-srd/spells/Magic Missile|magic missile]]_; 0 (at will)—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Daze|daze]]_ (DC 15), _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (DC 13), _[[rangoric-srd/spells/Ray of Frost|ray of frost]]_; **Bloodline** fey.
+**Sorcerer spells known** (CL 1st; concentration +4): 1st (4/day)—_[[rangoric-srd/spells/Color Spray|color spray]]_ (+4 vs Will), _[[rangoric-srd/spells/Magic Missile|magic missile]]_; 0 (at will)—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Daze|daze]]_ (+5 vs Will), _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (+3 vs Will), _[[rangoric-srd/spells/Ray of Frost|ray of frost]]_; **Bloodline** fey.

@@ -15,7 +15,7 @@ full-attack: "24 eye rays +31 ranged touch, 12 bites +28 (2d8+5/19-20) melee"
 space-reach: "15 ft./10 ft."
 special-attacks: "Gibbering, improved grab, swallow whole, eye rays, spell-like abilities"
 special-qualities: "All-around vision, flight, amorphous, SR 37, DR 10/epic"
-saves: "Fort +21, Ref +21, Will +24"
+defenses: "Fort 31, Ref 31, Will 34"
 abilities: "Str 32, Dex 35, Con 27, Int 40, Wis 24, Cha 22"
 skills: "Athletics +41 (+23 jumping), Escape Artist +42, Arcana +45, Linguistics (any five), Perception +37, Investigation +45, Stealth +34"
 skill-ranks: "Arcana 27, Athletics 27, Escape Artist 27, Investigation 27, Perception 27, Stealth 27"
@@ -49,7 +49,7 @@ Full Attack: 24 eye rays +31 ranged touch, 12 bites +28 (2d8+5/19-20) melee  �
 Space/Reach: 15 ft./10 ft.      
 Special Attacks: Gibbering, [[rangoric-srd/monsters/abilities/Grab|improved grab]], [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]], eye rays, spell-like abilities      
 Special Qualities: All-around vision, flight, amorphous, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 37, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/epic      
-Saves: Fort +21, Ref +21, Will +24      
+Defenses: Fort 31, Ref 31, Will 34      
 Abilities: Str 32, Dex 35, Con 27, Int 40, Wis 24, Cha 22      
 Skills: [[rangoric-srd/skills/Arcana|Arcana]] +45, [[rangoric-srd/skills/Athletics|Athletics]] +41 (+23 jumping), [[rangoric-srd/skills/Escape Artist|Escape Artist]] +42, [[rangoric-srd/skills/Investigation|Investigation]] +45, Linguistics (any five), [[rangoric-srd/skills/Perception|Perception]] +37, [[rangoric-srd/skills/Stealth|Stealth]] +34     
 **Unspent Skill Points**: 297
@@ -70,17 +70,17 @@ A gibbering orb’s natural weapons are treated as epic for the purpose of overc
 
 The gibbering orb has the ability to bite its foes by extending a pseudopod with one of its mouths protruding from the end. The orb can extend four of these at any one foe, or a total of twelve in any given round. At the same time, the legions of eyes have the ability to cast a host of spells at a rapid rate.
 
-Gibbering (Su): The cacophony of speech emanating from the scores of mouths that make up the orb forces all within 60 feet of the creature to succeed at a Will save each round (DC 40) or suffer the effects of an [[rangoric-srd/spells/Insanity (Spell)|insanity]] spell.
+Gibbering (Su): The cacophony of speech emanating from the scores of mouths that make up the orb attacks all within 60 feet of the creature at +30 vs Will each round, and those it hits suffer the effects of an [[rangoric-srd/spells/Insanity (Spell)|insanity]] spell.
 
 Improved Grab (Ex): To use this ability, the gibbering orb must hit with a bite attack. If it gets a hold, the orb automatically deals bite Damage and can attempt to [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]].
 
 Swallow Whole (Ex): A gibbering orb can attempt to swallow a Large or smaller opponent by making a successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check. Once inside, the opponent takes 4d8 points of constriction Damage plus 3d10 points of acid Damage per round. A swallowed creature can cut its way out by using claws or a light slashing weapon to deal 20 points of Damage in a single blow (AC 16, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/epic still applies). Once the creature exits, the fluidlike body structure of the orb closes the wound; other swallowed opponents must cut their own way out. When a creature dies by being swallowed whole (or when a creature killed by the gibbering orb in some other fashion is eaten by it), the gibbering orb absorbs the creature’s known spells, prepared spells, and spell-like abilities. The orb can use any two of those abilities per round as a free action. Each originates from an eye that is not producing an eye ray (see below) that round. Stolen spells and spell-like abilities are lost after 24 hours.
 
-Eye Rays (Su): Two dozen of the eyes can each produce a magical ray each round, with each eye emulating a spell from among the list of spells below as if cast by a 27th-level caster. The save DCs, where applicable, are 16 + spell level. A gibbering orb has no directional limitations on where it can point its eye rays, because the eyes orbiting around its body drift and float wherever needed. However, a gibbering orb can never aim more than five rays at any single target, due to limitations of aiming. All rays have a range of 150 feet. Each of these effects functions as a ray, regardless of the normal parameters of the spell it resembles. That is, each is usable against a single target and requires a ranged touch attack.
+Eye Rays (Su): Two dozen of the eyes can each produce a magical ray each round, with each eye emulating a spell from among the list of spells below as if cast by a 27th-level caster. The attack bonuses, where applicable, are 16 + spell level. A gibbering orb has no directional limitations on where it can point its eye rays, because the eyes orbiting around its body drift and float wherever needed. However, a gibbering orb can never aim more than five rays at any single target, due to limitations of aiming. All rays have a range of 150 feet. Each of these effects functions as a ray, regardless of the normal parameters of the spell it resembles. That is, each is usable against a single target and requires a ranged touch attack.
 
 The eye rays are: [[rangoric-srd/spells/Cone of Cold|cone of cold]], [[rangoric-srd/spells/Disintegrate|disintegrate]], [[rangoric-srd/spells/Dominate Monster|dominate monster]], [[rangoric-srd/spells/Energy Drain|energy drain]], [[rangoric-srd/spells/Feeblemind|feeblemind]], [[rangoric-srd/spells/Finger of Death|finger of death]], [[rangoric-srd/spells/Flesh to Stone|flesh to stone]], [[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]], [[rangoric-srd/spells/Harm|harm]], [[rangoric-srd/spells/Hold Monster|hold monster]], [[rangoric-srd/spells/Horrid Wilting|horrid wilting]], [[rangoric-srd/spells/Implosion|implosion]], [[rangoric-srd/spells/Inflict Critical Wounds|inflict critical wounds]], [[rangoric-srd/spells/Lightning Bolt|lightning bolt]], [[rangoric-srd/spells/Magic Missile|magic missile]], [[rangoric-srd/spells/Mage’s Disjunction|mage’s disjunction]], [[rangoric-srd/spells/Irresistible Dance|irresistible dance]], [[rangoric-srd/spells/Polymorph Any Object|polymorph any object]], [[rangoric-srd/spells/Power Word Blind|power word blind]], [[rangoric-srd/spells/Power Word Kill|power word kill]], [[rangoric-srd/spells/Power Word Stun|power word stun]], [[rangoric-srd/spells/Prismatic Spray|prismatic spray]], [[rangoric-srd/spells/Slay Living|slay living]], and [[rangoric-srd/spells/Temporal Stasis|temporal stasis]].
 
-Spell-Like Abilities: Caster level 27th, save DC 16 + spell level.
+Spell-Like Abilities: Caster level 27th, attack bonus +6 + spell level.
 
 At will -Two stolen spells or spell-like abilities per round. 
 

@@ -16,7 +16,7 @@ full-attack: "Tentacles +3 melee (2d6+1 plus grab and poison)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Swallow whole (1d6+1 bludgeoning damage, AC 11, 3 hp), poison"
 special-qualities: "Blindsight 30 ft., amorphous, anchored, sightless, immunity to gaze attacks, mind-affecting effects, poison and vision-based effects"
-saves: "Fort +8, Ref +3, Will +1"
+defenses: "Fort 18, Ref 13, Will 11"
 abilities: "Str 12, Dex 15, Con 18, Int —, Wis 10, Cha 2"
 skills: "Stealth +6"
 skill-ranks: "Stealth 0"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Swallow Whole|Swallow whole]] (1d6+1 bludgeoning damage, AC 11, 3 hp), [[rangoric-srd/monsters/abilities/Poison|poison]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 30 ft., [[rangoric-srd/monsters/abilities/Amorphous|amorphous]], [[rangoric-srd/monsters/abilities/Anchored|anchored]], [[rangoric-srd/monsters/abilities/Sightless|sightless]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to gaze attacks, mind-affecting effects, poison and vision-based effects
-- **Saves**: Fort +8, Ref +3, Will +1
+- **Defenses**: Fort 18, Ref 13, Will 11
 - **Abilities**: Str 12, Dex 15, Con 18, Int —, Wis 10, Cha 2
 - **Skills**: [[rangoric-srd/skills/Stealth|Stealth]] +6
 - **Feats**: —
@@ -85,6 +85,6 @@ Table: Sea Anemone Species
 
 **[[rangoric-srd/monsters/abilities/Anchored|Anchored]] (Ex)**: As a full-round action, a giant sea anemone can affix itself to a solid surface. While anchored, it cannot move, and it gains a +4 bonus to its CMD on all checks to resist being bull-rushed, dragged, overrun, or repositioned. This bonus increases by +4 for each size category larger the sea anemone is compared to the opponent attempting the maneuver. The creature can unanchor itself as a full-round action.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Giant Sea Anemone Venom|Giant Sea Anemone Venom]]: Tentacle—injury; _save_ Fort DC 16; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Dex damage; _cure_ 2 consecutive saves.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Giant Sea Anemone Venom|Giant Sea Anemone Venom]]: Tentacle—injury; _attack_ +6 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Dex damage; _cure_ 2 consecutive misses.
 
 **[[rangoric-srd/monsters/abilities/Sightless|Sightless]] (Ex)**: A sea anemone is blind and is not affected by any effect that relies on sight, such as gaze attacks or blindness.

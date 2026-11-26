@@ -15,7 +15,7 @@ full-attack: "2 claws +7 melee (1d6+5 plus grab) and bite +7 melee (1d6+5)"
 space-reach: "10 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +8, Ref +5, Will +2"
+defenses: "Fort 18, Ref 15, Will 12"
 abilities: "Str 21, Dex 13, Con 19, Int 2, Wis 12, Cha 6"
 skills: "Athletics +14, Fieldcraft +5, Perception +6"
 skill-ranks: "Athletics 2, Fieldcraft 1, Perception 2"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +8, Ref +5, Will +2
+- **Defenses**: Fort 18, Ref 15, Will 12
 - **Abilities**: Str 21, Dex 13, Con 19, Int 2, Wis 12, Cha 6
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Perception|Perception]] +6
 - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Fieldcraft)

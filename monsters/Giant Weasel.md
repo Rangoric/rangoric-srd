@@ -15,7 +15,7 @@ full-attack: "Bite +5 melee (1d6+3 plus grab)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Blood drain (1d2 Con), grab"
 special-qualities: "Low-light vision, scent, compression"
-saves: "Fort +3, Ref +7, Will +1"
+defenses: "Fort 13, Ref 17, Will 11"
 abilities: "Str 14, Dex 19, Con 10, Int 2, Wis 13, Cha 11"
 skills: "Athletics +8, Perception +7, Stealth +10"
 skill-ranks: "Athletics 1, Perception 1, Stealth 0"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]] (1d2 Con), [[rangoric-srd/monsters/abilities/Grab|grab]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Compression|compression]]
-- **Saves**: Fort +3, Ref +7, Will +1
+- **Defenses**: Fort 13, Ref 17, Will 11
 - **Abilities**: Str 14, Dex 19, Con 10, Int 2, Wis 13, Cha 11
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +10
 - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]

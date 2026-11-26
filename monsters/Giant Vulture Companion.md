@@ -15,7 +15,7 @@ full-attack: "Bite +5 melee (1d8+3)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision, evasion, tricks (attack, come, defend, down, guard, stay)"
-saves: "Fort +6, Ref +7, Will +3"
+defenses: "Fort 16, Ref 17, Will 13"
 abilities: "Str 14, Dex 16, Con 14, Int 2, Wis 15, Cha 7"
 skills: "Acrobatics +10, Perception +7"
 skill-ranks: "Acrobatics 4, Perception 2"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/class-options/companion-features/Evasion (Companion Feature)|evasion]], [[rangoric-srd/class-options/companion-features/Bonus Tricks (Companion Feature)|tricks]] (attack, come, defend, down, guard, stay)
-- **Saves**: Fort +6, Ref +7, Will +3
+- **Defenses**: Fort 16, Ref 17, Will 13
 - **Abilities**: Str 14, Dex 16, Con 14, Int 2, Wis 15, Cha 7
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Perception|Perception]] +7
 - **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Power Attack|Power Attack]]

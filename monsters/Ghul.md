@@ -16,7 +16,7 @@ full-attack: "Bite +10 melee (1d6+6) and 2 claws +10 melee (1d4+6 plus bleed)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Bleed (1), cursed claws, rend (2 claws, 1d6+6)"
 special-qualities: "Darkvision 60 ft., change shape (hyena; does not detect as undead in this form; beast shape I), genie-kin, damage reduction 5/good, undead traits, resistance to fire 10"
-saves: "Fort +8, Ref +4, Will +7"
+defenses: "Fort 18, Ref 14, Will 17"
 abilities: "Str 22, Dex 15, Con —, Int 14, Wis 15, Cha 18"
 skills: "Athletics +18, Deception +10, Fieldcraft +8 (+16 when following tracks), Imitation +11, Intimidation +11, Perception +15, Persuasion +7, Stealth +11"
 skill-ranks: "Athletics 9, Deception 3, Fieldcraft 3, Imitation 4, Intimidation 4, Perception 6, Persuasion 3, Stealth 6"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (1), [[rangoric-srd/monsters/abilities/Cursed Claws|cursed claws]], [[rangoric-srd/monsters/abilities/Rend|rend]] (2 claws, 1d6+6)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (hyena; does not detect as undead in this form; beast shape I), [[rangoric-srd/monsters/abilities/Genie-kin|genie-kin]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/good, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10
-- **Saves**: Fort +8, Ref +4, Will +7
+- **Defenses**: Fort 18, Ref 14, Will 17
 - **Abilities**: Str 22, Dex 15, Con —, Int 14, Wis 15, Cha 18
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8 (+16 when following tracks), [[rangoric-srd/skills/Imitation|Imitation]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +11, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +11
 - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Step Up|Step Up]]

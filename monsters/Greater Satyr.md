@@ -15,7 +15,7 @@ full-attack: "Gore +4 melee (1d6+4) and club +4 melee (1d6+4); or rock +4 ranged
 space-reach: "5 ft./5 ft."
 special-attacks: "Laugh"
 special-qualities: "Spell-like abilities"
-saves: "Fort +4, Ref +4, Will +4"
+defenses: "Fort 14, Ref 14, Will 14"
 abilities: "Str 19, Dex 14, Con 16, Int 8, Wis 10, Cha 11"
 skills: "Perception +10, Stealth +13"
 skill-ranks: "Perception 4, Stealth 4"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Laugh
 - **Special Qualities**: Spell-like abilities
-- **Saves**: Fort +4, Ref +4, Will +4
+- **Defenses**: Fort 14, Ref 14, Will 14
 - **Abilities**: Str 19, Dex 14, Con 16, Int 8, Wis 10, Cha 11
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +13
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spring Attack|Spring Attack]]
@@ -62,7 +62,7 @@ tags: [rangoric, rangoric/monster]
 
 Greater satyrs, also called korreds, are a different creature from the [[rangoric-srd/monsters/Korred|korred]]. They are the dwarf-like members of the [[rangoric-srd/monsters/Satyr|satyr]] family, smaller than the typical satyr but with broader and stockier torsos atop their stout mountain goat legs. Their long hair and beards fly wildly about and greater satyrs never move slowly once in motion. They speak boisterously in their own racial tongue and the Fae and Sylvan languages, though they are capable of stealth and quiet when necessary.
 
-Greater satyrs are even more rambunctious than the satyrs and live for their dances. Once a week, either at midday in the fey realm or under a midnight moon in mortal lands, a tribe of greater satyrs all dance; if a fey or a mortal comes across a greater satyr dance, he or she must make a Will save (DC 15) or join the dance, losing 1d4 hit points per round until either the dancer is dead or the greater satyrs stop the dance.
+Greater satyrs are even more rambunctious than the satyrs and live for their dances. Once a week, either at midday in the fey realm or under a midnight moon in mortal lands, a tribe of greater satyrs all dance; if a fey or a mortal comes across a greater satyr dance, the dance attacks his or her Will at +5, and on a hit he or she joins the dance, losing 1d4 hit points per round until either the dancer is dead or the greater satyrs stop the dance.
 
 #### Combat
 
@@ -70,7 +70,7 @@ Greater satyrs rarely run from a fight and are the most apt of the satyrkin to e
 
 Once melee is engaged, greater satyrs begin with head butts and goring foes with their horns or wielding their cudgels and clubs with almost utter abandon. A greater satyr can unleash its _laugh_ in the midst of battle if it begins to be overwhelmed or outnumbered.
 
-**Laugh (Su)**: A greater satyr’s laugh is both enchanting and disturbing. When a greater satyr laughs, all creatures (other than greater satyrs) within a 100-foot spread must succeed at a Will save (DC 15) or be [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1d4+1 rounds. This ability can be used up to three times per day.
+**Laugh (Su)**: A greater satyr’s laugh is both enchanting and disturbing. When a greater satyr laughs, all creatures (other than greater satyrs) within a 100-foot spread are attacked at +5 vs Will, and on a hit are [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1d4+1 rounds. This ability can be used up to three times per day.
 
 **Spell-Like Abilities (Sp)**: A greater satyr has a number of special abilities that are cast as if he were a 12th level spellcaster.
 

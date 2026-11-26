@@ -13,9 +13,9 @@ cmd: "20 (28 vs. trip)"
 attack: "Bite +8 melee (2d8+6)"
 full-attack: "Bite +8 melee (2d8+6)"
 space-reach: "10 ft./5 ft."
-special-attacks: "Trample (1d6+6, DC 17)"
+special-attacks: "Trample (1d6+6, +7 vs Reflex)"
 special-qualities: "Darkvision 60 ft., immunity to mind-affecting effects"
-saves: "Fort +7, Ref +2, Will +2"
+defenses: "Fort 17, Ref 12, Will 12"
 abilities: "Str 19, Dex 10, Con 15, Int —, Wis 10, Cha 9"
 skills: "Acrobatics –6"
 skill-ranks: "Acrobatics 0"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +8 melee (2d8+6)
 - **Full Attack**: Bite +8 melee (2d8+6)
 - **Space/Reach**: 10 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Trample|Trample]] (1d6+6, DC 17)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Trample|Trample]] (1d6+6, +7 vs Reflex)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-- **Saves**: Fort +7, Ref +2, Will +2
+- **Defenses**: Fort 17, Ref 12, Will 12
 - **Abilities**: Str 19, Dex 10, Con 15, Int —, Wis 10, Cha 9
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –6
 - **Feats**: —
@@ -68,6 +68,6 @@ These creatures are serious pests that greedily devour cultivated crops. A singl
 
 Variant species of these giant beetles exist as well. The two detailed below are the ones most commonly encountered.
 
-**[[rangoric-srd/monsters/Giant Bombardier Beetle|Bombardier Beetle]] (CR 2)**: This giant stag beetle has only 2 Hit Dice and is Medium sized, but can spray acid once per round in a 10-foot cone. Those in the cone must make a DC 11 Fortitude save or take 1d4+2 points of acid damage. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/Giant Bombardier Beetle|Bombardier Beetle]] (CR 2)**: This giant stag beetle has only 2 Hit Dice and is Medium sized, but can spray acid once per round in a 10-foot cone. Those in the cone are attacked at +1 vs Fortitude, and on a hit take 1d4+2 points of acid damage. The attack bonus is Constitution-based.
 
 **Goliath Beetle (CR 8)**: The immense goliath beetle is a Huge stag beetle with 12 HD and the trample special ability.
