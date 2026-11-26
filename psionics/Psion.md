@@ -84,7 +84,7 @@ Powers Known: A psion begins play knowing three psion powers of your choice. Eac
 Choose the powers known from the [[rangoric-srd/psionics/Psion and Wilder Power List|psion power list]], or from the list of [[rangoric-srd/psionics/Psion Discipline List|powers of your chosen discipline]]. You cannot choose powers from restricted discipline lists other than your own discipline list. You can choose powers from disciplines other than your own if they are not on a restricted discipline list. (Exception: The feats [[rangoric-srd/feats/Expanded Knowledge|Expanded Knowledge]] and [[rangoric-srd/feats/Epic Expanded Knowledge|Epic Expanded Knowledge]] do allow a psion to learn powers from the lists of other disciplines or even other classes.) A psion can manifest any power that has a power point cost equal to or lower than his manifester level.  
 The number of times a psion can manifest powers in a day is limited only by his daily power points.  
 A psion simply knows his powers; they are ingrained in his mind. He does not need to prepare them (in the way that some spellcasters prepare their spells), though he must get a good night’s sleep each day to regain all his spent power points.  
-The Difficulty Class for saving throws against psion powers is 10 + the power’s level + the psion’s Intelligence modifier. Maximum Power Level Known: A psion begins play with the ability to learn 1st-level powers. As he attains higher levels, a psion may gain the ability to master more complex powers.  
+The attack bonus of psion powers is the power’s level + the psion’s Intelligence modifier. Maximum Power Level Known: A psion begins play with the ability to learn 1st-level powers. As he attains higher levels, a psion may gain the ability to master more complex powers.  
 To learn or manifest a power, a psion must have an Intelligence score of at least 10 + the power’s level.
 
 Bonus Feats: A psion gains a bonus feat at 1st level, 5th level, 10th level, 15th level, and 20th level. This feat must be a psionic feat, a metapsionic feat, or a psionic item creation feat.  
@@ -114,7 +114,7 @@ Because it is an extension of its creator’s personality, a character’s psicr
 
 A psicrystal is treated as a construct for the purposes of all effects that depend on its type.
 
-A psicrystal grants special abilities to its owner, as shown on the Psicrystal Special Abilities table below. In addition, a psicrystal has a personality (being a fragment of the owner’s personality), which gives its owner a bonus on certain types of checks or saving throws, as given on the Psicrystal Personalities table below. These special abilities and bonuses apply only when the owner and the psicrystal are within 1 mile of each other.
+A psicrystal grants special abilities to its owner, as shown on the Psicrystal Special Abilities table below. In addition, a psicrystal has a personality (being a fragment of the owner’s personality), which gives its owner a bonus on certain types of checks or defenses, as given on the Psicrystal Personalities table below. These special abilities and bonuses apply only when the owner and the psicrystal are within 1 mile of each other.
 
 Psicrystal abilities are based on the owner’s levels in psionic classes. Levels from other classes do not count toward the owner’s level for purposes of psicrystal abilities.
 
@@ -122,7 +122,7 @@ A psicrystal can speak one language of its owner’s choice (so long as it is a 
 
 Psicrystal Basics: Use the statistics for a [[rangoric-srd/monsters/Psicrystal|psicrystal]], but make the following changes.
 
-Saving Throws: A psicrystal uses its owner’s base saving throw bonuses and ability modifiers on saves, though it doesn’t enjoy any other bonuses its owner might have (from magic items or feats, for example).
+Defenses: A psicrystal uses its owner’s base save bonuses and ability modifiers for its defenses, though it doesn’t enjoy any other bonuses its owner might have (from magic items or feats, for example).
 
 Abilities: When its self-propulsion ability is not activated, a psicrystal has no Strength score and no Dexterity score.
 
@@ -151,7 +151,7 @@ Intelligence Adj. (Ex): Add this value to the psicrystal’s Intelligence score.
 
 Keen Senses (Ex): The presence of a psicrystal sharpens its master’s senses. While a psicrystal is within arm’s reach (adjacent to or in the same square as its owner), its owner gains the [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception) feat.
 
-Improved Evasion (Ex): If a psicrystal is subjected to an attack that normally allows a Reflex saving throw for half damage, it takes no damage if it makes a successful saving throw and half damage even if the saving throw fails.
+Improved Evasion (Ex): If a psicrystal is subjected to an attack against its Reflex Defense that normally deals half damage on a miss, it takes no damage on a miss and half damage even on a hit.
 
 Personality (Ex): Every psicrystal has a personality. See Psicrystal Personality, below.
 
@@ -189,13 +189,13 @@ Psicrystal Personalities
 | Bully         | +3 bonus on [[rangoric-srd/skills/Intimidation\|Intimidation]] checks                                                                        |
 | Coward        | +3 bonus on [[rangoric-srd/skills/Stealth\|Stealth]] checks                                                                                  |
 | Friendly      | +3 bonus on [[rangoric-srd/skills/Persuasion\|Persuasion]] checks                                                                            |
-| Hero          | +2 bonus on Fortitude saves                                                                                                                  |
+| Hero          | +2 bonus on Fortitude Defense                                                                                                                |
 | Liar          | +3 bonus on [[rangoric-srd/skills/Deception\|Deception]] checks                                                                              |
 | Meticulous    | +3 bonus on [[rangoric-srd/skills/Investigation\|Investigation]] checks                                                                      |
 | Nimble        | +2 bonus on Initiative checks                                                                                                                |
 | Observant     | +3 bonus on [[rangoric-srd/skills/Perception\|Perception]] checks                                                                            |
 | Poised        | +3 bonus on [[rangoric-srd/skills/Acrobatics\|Acrobatics]] checks                                                                            |
-| Resolved      | +2 bonus on Will saves                                                                                                                       |
+| Resolved      | +2 bonus on Will Defense                                                                                                                     |
 | Sage          | +3 bonus on checks involving any one [[rangoric-srd/skills/Knowledge\|Knowledge]] skill owner already knows; once chosen, this does not vary |
 | Single-minded | +3 bonus on [[rangoric-srd/psionics/Psionics#Concentration\|Concentration]] checks                                                           |
 | Sneaky        | +3 bonus on [[rangoric-srd/skills/Stealth\|Stealth]] checks                                                                                  |

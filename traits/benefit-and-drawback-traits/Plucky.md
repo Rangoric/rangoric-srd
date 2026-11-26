@@ -17,8 +17,8 @@ tags: [rangoric, rangoric/trait]
 
 You have a strength of will not reflected in your limited physical gifts.
 
-**Benefit:** You gain a +1 bonus on Will saves.
+**Benefit:** You gain a +1 bonus on Will Defense.
 
-**Drawback:** You take a -1 penalty on Fortitude saves.
+**Drawback:** You take a -1 penalty on Fortitude Defense.
 
 **Roleplaying Ideas:** Characters with this trait might be annoyingly positive-minded, or they might only show their mental resilience in times of dire need.

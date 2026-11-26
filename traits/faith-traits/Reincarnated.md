@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/trait]
 
 **Category**: [[rangoric-srd/traits/Character Traits#Faith Traits|faith trait]].
 
-You lived a previous life as someone—or something—else. For you, life and death are a cycle, and you have no fear of death. You gain a +2 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] on saving throws against fear and death effects.
+You lived a previous life as someone—or something—else. For you, life and death are a cycle, and you have no fear of death. You gain a +2 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] on defenses against fear and death effects.

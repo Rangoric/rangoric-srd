@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/trait]
 
 **Category**: [[rangoric-srd/traits/Character Traits#Faith Traits|faith trait]].
 
-Some divine agent watches over you and heeds your call. Once per day as a swift action, you gain a +1 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] on all saving throws for 1 round.
+Some divine agent watches over you and heeds your call. Once per day as a swift action, you gain a +1 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] on all defenses for 1 round.

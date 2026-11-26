@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/trait]
 
 **Category**: [[rangoric-srd/traits/Character Traits#Social Traits|social trait]].
 
-You have lived a physically taxing life, working long hours for a master or to support a trade. Hard physical labor has toughened your body and mind. You gain a +1 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] on Fortitude saves.
+You have lived a physically taxing life, working long hours for a master or to support a trade. Hard physical labor has toughened your body and mind. You gain a +1 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] on Fortitude Defense.

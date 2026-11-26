@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/trait]
 
 **Category**: [[rangoric-srd/traits/Character Traits#Magic Traits|magic trait]].
 
-Your meticulous carefulness makes your bombs and extracts more potent. Once per day, you can either add a +2 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] to the save DC for one [[rangoric-srd/classes/Alchemist#^alchemist-bomb|bomb]] you throw or extend the duration of one extract you imbibe by 2 rounds. Extracts with an instantaneous duration are not affected by this trait.
+Your meticulous carefulness makes your bombs and extracts more potent. Once per day, you can either add a +2 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] to the attack bonus of one [[rangoric-srd/classes/Alchemist#^alchemist-bomb|bomb]] you throw or extend the duration of one extract you imbibe by 2 rounds. Extracts with an instantaneous duration are not affected by this trait.

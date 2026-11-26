@@ -17,4 +17,4 @@ Magic is in your blood, and at your fingertips.
 
 **Prerequisites**: Cha 10; [[rangoric-srd/races/Elf|elf]], [[rangoric-srd/races/Half-Elf|half-elf]], or [[rangoric-srd/races/Gnome|gnome]].
 
-**Benefit**: Choose a 0-level spell from the [[rangoric-srd/spells/Sorcerer and Wizards Spell List|sorcerer/wizard spell list]]. You can cast this spell three times per day as a spell-like ability. The caster level is equal to your character level. The save DC is 10 + your Charisma modifier.
+**Benefit**: Choose a 0-level spell from the [[rangoric-srd/spells/Sorcerer and Wizards Spell List|sorcerer/wizard spell list]]. You can cast this spell three times per day as a spell-like ability. The caster level is equal to your character level. Its attack bonus is your Charisma modifier.

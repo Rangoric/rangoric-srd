@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/trait]
 
 **Category**: [[rangoric-srd/traits/Character Traits#Drawbacks|drawback]].
 
-You are a creature of pleasure and comfort. Whenever you spend a day without gaining reward or treasure (at least 10 or more gold pieces) or spending an hour on entertainment or pleasure, attempt a DC 20 Fortitude save at the end of that day. If you fail, you begin the next day [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]]. This fatigue lasts 4 hours, or until you receive a reward or sufficient entertainment or pleasure.
+You are a creature of pleasure and comfort. Whenever you spend a day without gaining reward or treasure (at least 10 or more gold pieces) or spending an hour on entertainment or pleasure, the lack attacks your Fortitude at +10 at the end of that day. On a hit, you begin the next day [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]]. This fatigue lasts 4 hours, or until you receive a reward or sufficient entertainment or pleasure.

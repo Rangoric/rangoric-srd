@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/trait]
 
 **Category**: [[rangoric-srd/traits/Character Traits#Faith Traits|faith trait]].
 
-Your wanderings often go unnoticed. Efforts to use the [[rangoric-srd/skills/Persuasion|Persuasion]] skill to gather information about you take a –1 penalty, and you gain a +1 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] on all saving throws against scrying and mind-reading effects that allow saving throws.
+Your wanderings often go unnoticed. Efforts to use the [[rangoric-srd/skills/Persuasion|Persuasion]] skill to gather information about you take a –1 penalty, and you gain a +1 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] on all defenses against scrying and mind-reading effects that attack a defense.

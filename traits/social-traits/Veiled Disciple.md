@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/trait]
 
 **Category**: [[rangoric-srd/traits/Character Traits#Social Traits|social trait]].
 
-Trained in espionage, you're skilled at passing messages and staying on task. You gain a +1 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] on [[rangoric-srd/skills/Deception|Deception]] checks made to pass secret messages and a +1 trait bonus on saving throws against charm and compulsion effects.
+Trained in espionage, you're skilled at passing messages and staying on task. You gain a +1 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] on [[rangoric-srd/skills/Deception|Deception]] checks made to pass secret messages and a +1 trait bonus on defenses against charm and compulsion effects.

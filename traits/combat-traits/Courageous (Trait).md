@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/trait]
 
 **Category**: [[rangoric-srd/traits/Character Traits#Combat Traits|combat trait]].
 
-Your childhood was brutal, yet you persevered primarily through force of will and faith that no matter how hard things might get, as long as you kept a level head you'd make it through. You gain a +2 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] on saving throws against fear effects.
+Your childhood was brutal, yet you persevered primarily through force of will and faith that no matter how hard things might get, as long as you kept a level head you'd make it through. You gain a +2 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] on defenses against fear effects.

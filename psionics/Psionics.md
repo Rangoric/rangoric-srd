@@ -56,13 +56,13 @@ Powers also fail if your concentration is broken (see Concentration, above).
 
 ###### The Power’s Result
 
-Once you know which creatures (or objects or areas) are affected, and whether those creatures have made successful saving throws (if any were allowed), you can apply whatever results a power entails.
+Once you know which creatures (or objects or areas) are affected, and whether the power hit or missed their defenses (if it attacks one), you can apply whatever results a power entails.
 
 ###### Special Power Effects
 
 Certain special features apply to all powers.
 
-Attacks: Some powers refer to attacking. All offensive combat actions, even those that don’t damage opponents, such as [[rangoric-srd/combat/Combat Maneuvers#Disarm|disarm]] and [[rangoric-srd/combat/Combat Maneuvers#Bull Rush|bull rush]], are considered attacks. All powers that opponents can resist with saving throws, that deal damage, or that otherwise harm or hamper subjects are considered attacks. Astral construct and similar powers are not considered attacks because the powers themselves don’t harm anyone.
+Attacks: Some powers refer to attacking. All offensive combat actions, even those that don’t damage opponents, such as [[rangoric-srd/combat/Combat Maneuvers#Disarm|disarm]] and [[rangoric-srd/combat/Combat Maneuvers#Bull Rush|bull rush]], are considered attacks. All powers that attack opponents’ defenses, that deal damage, or that otherwise harm or hamper subjects are considered attacks. Astral construct and similar powers are not considered attacks because the powers themselves don’t harm anyone.
 
 Bonus Types: Many powers give creatures bonuses to ability scores, Armor Class, attacks, and other attributes. Each bonus has a type that indicates how the power grants the bonus. The important aspect of bonus types is that two bonuses of the same type don’t generally stack. With the exception of dodge bonuses, most circumstance bonuses, and racial bonuses, only the better bonus works (see Combining Psionic and Magical Effects, below). The same principle applies to penalties - a character taking two or more penalties of the same type applies only the worst one.
 
@@ -87,7 +87,7 @@ Dead magic areas are also dead psionics areas.
 
 Multiple Effects: Powers or psionic effects usually work as described no matter how many other powers, psionic effects, spells, or magical effects happen to be operating in the same area or on the same recipient. Except in special cases, a power does not affect the way another power or spell operates. Whenever a power has a specific effect on other powers or spells, the power description explains the effect (and vice versa for spells that affect powers). Several other general rules apply when powers, spells, magical effects, or psionic effects operate in the same place.
 
-Stacking Effects: Powers that provide bonuses or penalties on attack rolls, damage rolls, saving throws, and other attributes usually do not stack with themselves. More generally, two bonuses of the same type don’t stack even if they come from different powers, or one from a power and one from a spell. You use whichever bonus gives you the better result.
+Stacking Effects: Powers that provide bonuses or penalties on attack rolls, damage rolls, defenses, and other attributes usually do not stack with themselves. More generally, two bonuses of the same type don’t stack even if they come from different powers, or one from a power and one from a spell. You use whichever bonus gives you the better result.
 
 Different Bonus Types: The bonuses or penalties from two different powers, or a power and a spell, stack if the effects are of different types. A bonus that isn’t named (just a “+2 bonus” rather than a “+2 insight bonus”) stacks with any bonus.
 
@@ -111,7 +111,7 @@ Daily Power Point Acquisition: To regain used daily power points, a psionic char
 
 Recent Manifesting Limit/Rest Interruptions: If a psionic character has manifested powers recently, the drain on his resources reduces his capacity to regain power points. When he regains power points for the coming day, all power points he has used within the last 8 hours count against his daily limit.
 
-Peaceful Environment: To regain power points, a psionic character must have enough peace, quiet, and comfort to allow for proper concentration. The psionic character’s surroundings need not be luxurious, but they must be free from overt distractions, such as combat raging nearby or other loud noises. Exposure to inclement weather prevents the necessary concentration, as does any injury or failed saving throw the character might incur while concentrating on regaining power points.
+Peaceful Environment: To regain power points, a psionic character must have enough peace, quiet, and comfort to allow for proper concentration. The psionic character’s surroundings need not be luxurious, but they must be free from overt distractions, such as combat raging nearby or other loud noises. Exposure to inclement weather prevents the necessary concentration, as does any injury or hit against a defense the character might incur while concentrating on regaining power points.
 
 Regaining Power Points: Once the character has rested in a suitable environment, it takes only an act of concentration spanning 1 full round to regain all power points of the psionic character’s daily limit.
 
@@ -155,13 +155,13 @@ Supernatural Abilities: Some creatures have psionic abilities that are considere
 
 Ability Burn: This is a special form of [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|ability damage]] that cannot be magically or psionically healed. It is caused by the use of certain psionic feats and powers. It returns only through natural healing.
 
-Disease, Cascade Flu: Spread by brain moles and other vermin. [[rangoric-srd/rules/Afflictions#Disease|Disease]], injury; _save_ Fort DC 13; _onset_ 1 day; _frequency_ 1/day; _effect_ psionic cascade; _cure_ 2 consecutive saves.
+Disease, Cascade Flu: Spread by brain moles and other vermin. [[rangoric-srd/rules/Afflictions#Disease|Disease]], injury; _attack_ +3 vs Fortitude; _onset_ 1 day; _frequency_ 1/day; _effect_ psionic cascade; _cure_ 2 consecutive misses.
 
 A psionic cascade is a loss of control over psionic abilities. Using power points becomes dangerous for a character infected by cascade flu, once its onset has passed. Every time an afflicted character manifests a power, she must make a DC 16 [[rangoric-srd/psionics/Psionics#Concentration|Concentration]] check. On a failed check, a psionic cascade is triggered. The power operates normally, but during the following round, without the character’s volition, two additional powers she knows manifest randomly, and their power cost is deducted from the character’s reserve. During the next round, three additional powers manifest, and so on, until all the psionic character’s power points are drained. Powers with a range of personal or touch always affect the diseased character. For other powers that affect targets, roll d%: On a 01-50 result, the power affects the diseased character, and 51-00 indicates that the power targets other creatures in the vicinity. Psionic creatures (those that manifest their powers without paying points) cascade until all the powers they know have manifested at least twice.
 
 Psionic diseases are caught, run their course and are cured as any other [[rangoric-srd/rules/Afflictions#Disease|disease]] is.
 
-Disease, Cerebral Parasites: Spread by contact with infected psionic creatures. [[rangoric-srd/rules/Afflictions#Disease|Disease]], contact; _save_ Fort DC 15; _onset_ 1d4 days; _frequency_ 1/day; _effect_ 1d8 power points; _cure_ 2 consecutive saves.
+Disease, Cerebral Parasites: Spread by contact with infected psionic creatures. [[rangoric-srd/rules/Afflictions#Disease|Disease]], contact; _attack_ +5 vs Fortitude; _onset_ 1d4 days; _frequency_ 1/day; _effect_ 1d8 power points; _cure_ 2 consecutive misses.
 
 Cerebral parasites are tiny organisms, undetectable to normal sight. An afflicted character may not even know he carries the parasites - until he discovers he has fewer power points for the day than expected. Psionic creatures with cerebral parasites are limited to using each of their known powers only once per day (instead of freely manifesting them). See the note about diseases under Cascade Flu, above.
 
@@ -195,7 +195,7 @@ Listed below are arcane and divine spells that interact with psionics as well as
 
 ###### Mind Domain
 
-Granted Power: Gain a +2 bonus on [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Persuasion|Persuasion]], and [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks. Gain a +2 bonus on Will saves against enchantment spells and effects.
+Granted Power: Gain a +2 bonus on [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Persuasion|Persuasion]], and [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks. Gain a +2 bonus on Will Defense against enchantment spells and effects.
 
 Mind Domain Spells  
 1 [[rangoric-srd/spells/Comprehend Languages|Comprehend Languages:]] You understand all spoken and written languages.  
@@ -243,7 +243,7 @@ Casting Time: 1 round
 Range: Long (400 ft. + 40 ft./level)  
 Targets: Up to eight living creatures  
 Duration: 1 min./level  
-Saving Throw: Will negates  
+Defense: Will  
 Spell Resistance: Yes
 
 This spell allows you to eavesdrop as a standard action on the thoughts of up to eight other creatures at once, hearing as desired:
@@ -254,9 +254,9 @@ This spell allows you to eavesdrop as a standard action on the thoughts of up to
 
 - A study of the thoughts and memories of one creature of the group in detail.
 
-Once per round, if you do not perform a detailed study of one creature’s mind, you can attempt (as a standard action) to implant a [[rangoric-srd/spells/Suggestion|suggestion]] in the mind of any one of the affected creatures. The creature can make another Will saving throw to resist the suggestion, using the save DC of the brain spider spell. (Creatures with special resistance to enchantment spells can use this resistance to keep from being affected by the suggestion.) Success on this saving throw does not negate the other effects of the brain spider spell for that creature.
+Once per round, if you do not perform a detailed study of one creature’s mind, you can attempt (as a standard action) to implant a [[rangoric-srd/spells/Suggestion|suggestion]] in the mind of any one of the affected creatures. The spell attacks the creature’s Will again to implant the suggestion, with the brain spider spell’s attack bonus. (Creatures with special resistance to enchantment spells can use this resistance to keep from being affected by the suggestion.) A miss does not negate the other effects of the brain spider spell for that creature.
 
-You can affect all intelligent beings of your choice within range (up to the limit of eight), beginning with known or named beings. Language is not a barrier, and you need not personally know the beings The spell cannot reach those who make a successful Will save.
+You can affect all intelligent beings of your choice within range (up to the limit of eight), beginning with known or named beings. Language is not a barrier, and you need not personally know the beings The spell cannot reach those whose Will it misses.
 
 Material Component: A spider of any size or kind. It can be dead, but must still have all eight legs.
 
@@ -269,7 +269,7 @@ Casting Time: 1 minute
 Range: Close (25 ft. + 5 ft./2 levels)  
 Target: One willing psionic creature  
 Duration: 1 round/level  
-Saving Throw: Will negates (harmless)  
+Defense: Will (harmless)  
 Spell Resistance: Yes (harmless)
 
 With this spell, you form a radiating corona around the head of a psionic ally, then convert some of your spells into psionic power points. When you finish casting dweomer of transference, a red-orange glow surrounds the psionic creature’s head. For the duration of the spell, any spells cast at the subject don’t have their usual effect, instead converting themselves harmlessly into psionic energy that the subject can use as energy for psionic powers. You can cast any spell you like at the subject, even area spells, effect spells, and spells for whom the subject would ordinarily not be a legitimate target. The spells don’t do anything other than provide the subject with power points, but you must still cast them normally, obeying the component and range requirements listed in the description of each spell.
@@ -298,10 +298,10 @@ Casting Time: 1 standard action
 Range: 60 ft.  
 Area: Cone-shaped burst  
 Duration: Instantaneous  
-Saving Throw: Fortitude partial; see text  
+Defense: Fortitude partial; see text  
 Spell Resistance: Yes
 
-You utter shrieks of nonsense and gibberish that thinking creatures find distracting and confusing. The spell affects only creatures with Intelligence scores of 3 or higher. Any such creatures within the spell’s area must succeed on Fortitude saves or be [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1 round (if they have Intelligence scores of 20 or higher), [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|dazed]] for 1 round (if they have Intelligence scores between 10 and 19), or [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1 round (if they have Intelligence scores between 3 and 9). In addition, a creature within the spell’s area loses any psionic focus it might have had and takes a -4 penalty on [[rangoric-srd/psionics/Psionics#Concentration|Concentration]] checks for 1 round. These effects happen whether or not the creature succeeded on its save.
+You utter shrieks of nonsense and gibberish that thinking creatures find distracting and confusing. The spell affects only creatures with Intelligence scores of 3 or higher. The spell attacks the Fortitude of any such creatures within its area, and those it hits are [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1 round (if they have Intelligence scores of 20 or higher), [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|dazed]] for 1 round (if they have Intelligence scores between 10 and 19), or [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1 round (if they have Intelligence scores between 3 and 9). In addition, a creature within the spell’s area loses any psionic focus it might have had and takes a -4 penalty on [[rangoric-srd/psionics/Psionics#Concentration|Concentration]] checks for 1 round. These effects happen whether the spell hit or missed the creature.
 
 ###### Mental Pinnacle
 
@@ -340,10 +340,10 @@ Casting Time: 1 minute
 Range: Close (25 ft. + 5 ft./2 levels)  
 Target: One living creature  
 Duration: Concentration  
-Saving Throw: Fortitude negates; see text  
+Defense: Fortitude; see text  
 Spell Resistance: Yes
 
-All the subject’s memories and knowledge are accessible to you, ranging from memories deep below the surface to those still easily called to mind. You can learn the answer to one question per round, to the best of the subject’s knowledge. You can also probe a sleeping subject, though the subject may make a Will save against the DC of the probe thoughts spell to wake after each question. Subjects who do not wish to be probed can attempt to move beyond the power’s range, unless somehow hindered. You pose the questions telepathically, and the answers to those questions are imparted directly to your mind. You and the target do not need to speak the same language, though less intelligent creatures may yield up only appropriate visual images in answer to your questions.
+All the subject’s memories and knowledge are accessible to you, ranging from memories deep below the surface to those still easily called to mind. You can learn the answer to one question per round, to the best of the subject’s knowledge. You can also probe a sleeping subject, though the spell attacks the subject’s Will after each question, and it wakes on a miss. Subjects who do not wish to be probed can attempt to move beyond the power’s range, unless somehow hindered. You pose the questions telepathically, and the answers to those questions are imparted directly to your mind. You and the target do not need to speak the same language, though less intelligent creatures may yield up only appropriate visual images in answer to your questions.
 
 ###### Psychic Turmoil
 
@@ -354,12 +354,12 @@ Casting Time: 1 standard action
 Range: Close (25 ft. + 5 ft./2 levels)  
 Area: 40-ft.-radius emanation centered on a point in space  
 Duration: 1 round/level  
-Saving Throw: Will partial; see text  
+Defense: Will partial; see text  
 Spell Resistance: Yes
 
 With this spell, you create an invisible field that leeches away the power points of psionic characters standing within the emanation. Nonpsionic characters are unaffected.
 
-When the spell is cast and at the beginning of each of your subsequent turns, psionic creatures within the area of the psychic turmoil lose 1 power point per manifester level they have. Characters who succeed on a Will save when they first come into contact with the emanation lose only half as many power points (round down) each round. Characters get only one save attempt against any particular psychic turmoil effect, even if they leave the spell’s area and later return.
+When the spell is cast and at the beginning of each of your subsequent turns, psionic creatures within the area of the psychic turmoil lose 1 power point per manifester level they have. Characters whose Will the spell misses when they first come into contact with the emanation lose only half as many power points (round down) each round. The spell attacks a character only once for any particular psychic turmoil effect, even if they leave the spell’s area and later return.
 
 Material Component: Five playing cards, which are torn in half when the spell is cast.
 
@@ -380,7 +380,7 @@ Casting Time: 1 standard action
 Range: 30 ft.  
 Targets: You and one willing creature within 30 ft.  
 Duration: 10 min./level  
-Saving Throw: None  
+Defense: None  
 Spell Resistance: No
 
 You forge a telepathic bond with another creature with an Intelligence score of 6 or higher. The bond can be established only with a willing subject. You can communicate telepathically through the bond regardless of language. No special power or influence is established as a result of the bond. Once the bond is formed, it works over any distance (although not from one plane to another).

@@ -17,8 +17,8 @@ tags: [rangoric, rangoric/trait]
 
 You maintain a distance from events that keeps you grounded but limits your reaction speed.
 
-**Benefit:** You gain a +1 bonus on will saves.
+**Benefit:** You gain a +1 bonus on Will Defense.
 
-**Drawback:** You take a -1 penalty on Reflex saves.
+**Drawback:** You take a -1 penalty on Reflex Defense.
 
 **Roleplaying Ideas:** Characters with this trait are likely to be quiet and restrained, but they might be vocal when others falter in their beliefs.

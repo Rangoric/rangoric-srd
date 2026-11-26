@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/trait]
 
 **Category**: [[rangoric-srd/traits/Character Traits#Social Traits|social trait]].
 
-Blessed with good looks, you've come to depend on the fact that others find you attractive. You gain a +1 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] when you use [[rangoric-srd/skills/Deception|Deception]] or [[rangoric-srd/skills/Persuasion|Persuasion]] on a character that is (or could be) sexually attracted to you, and a +1 trait bonus to the save DC of any language-dependent spell you cast on such characters or creatures.
+Blessed with good looks, you've come to depend on the fact that others find you attractive. You gain a +1 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] when you use [[rangoric-srd/skills/Deception|Deception]] or [[rangoric-srd/skills/Persuasion|Persuasion]] on a character that is (or could be) sexually attracted to you, and a +1 trait bonus to the attack bonus of any language-dependent spell you cast on such characters or creatures.

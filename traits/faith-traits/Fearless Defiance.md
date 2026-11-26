@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/trait]
 
 **Category**: [[rangoric-srd/traits/Character Traits#Faith Traits|faith trait]].
 
-Upon overcoming your fear, you become a scourge to your enemies. You gain a +1 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] on all saving throws against fear effects. In addition, if you successfully save against such an effect, you receive a +1 trait bonus on attack rolls against your [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemies]] for 1 round.
+Upon overcoming your fear, you become a scourge to your enemies. You gain a +1 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] on all defenses against fear effects. In addition, if such an effect misses you, you receive a +1 trait bonus on attack rolls against your [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemies]] for 1 round.

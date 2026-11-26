@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/trait]
 
 **Category**: [[rangoric-srd/traits/Character Traits#Combat Traits|combat trait]].
 
-You have little to fear when there's a gun in your hand. As long as you are wielding a [[rangoric-srd/equipment/Firearms|firearm]], you gain a +2 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] on all saving throws against curse, fear, and emotion effects.
+You have little to fear when there's a gun in your hand. As long as you are wielding a [[rangoric-srd/equipment/Firearms|firearm]], you gain a +2 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] on all defenses against curse, fear, and emotion effects.
