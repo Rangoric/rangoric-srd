@@ -20,7 +20,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "One corpse or corporeal undead"
 duration: "Instantaneous or 1 minute; see text"
-saving-throw: "Fortitude negates (object)"
+defense: "Fortitude (object)"
 spell-resistance: "Yes (object)"
 book: "Ultimate Magic"
 based-on:
@@ -41,7 +41,7 @@ _Necromancy_
 - **Range**: Touch
 - **Target**: One corpse or corporeal undead
 - **Duration**: Instantaneous or 1 minute; see text
-- **Saving Throw**: Fortitude negates (object)
+- **Defense**: Fortitude (object)
 - **Spell Resistance**: Yes (object)
 
 Using this spell, the caster rapidly decomposes the flesh from a single corpse of size Huge or smaller, leaving behind a perfectly cleaned skeleton. If it is cast on a non-skeletal corporeal undead, the creature takes a –2 penalty on all rolls and to its Armor Class and CMD for 1 minute.

@@ -27,7 +27,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "1 hour/level"
-saving-throw: "Fortitude negates (harmless)"
+defense: "Fortitude (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Delay Poison|Delay Poison (3.5)]]"
@@ -47,7 +47,7 @@ _Conjuration (Healing)_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: 1 hour/level
-- **Saving Throw**: Fortitude negates (harmless)
+- **Defense**: Fortitude (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 The subject becomes temporarily immune to poison. Any poison in its system or any poison to which it is exposed during the spell’s duration does not affect the subject until the spell’s duration has expired. Delay poison does not cure any damage that poison may have already done.

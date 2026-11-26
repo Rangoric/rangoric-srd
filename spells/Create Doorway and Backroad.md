@@ -16,7 +16,7 @@ components:
 casting-time: "1d12+12 hours"
 range: "Touch"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Faeries"
 based-on:
@@ -36,7 +36,7 @@ _Conjuration (Creation)_
 - **Casting Time**: 1d12+12 hours
 - **Range**: Touch
 - **Duration**: Instantaneous
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You create two _[[rangoric-srd/rules/Fey Roads and Doorways#Doorways|doorways]]_ and the _[[rangoric-srd/rules/Fey Roads and Doorways#Fey Roads|backroad]]_ that stretches between them. The _doorways_ can be shaped by the caster as desired to fit particular entry or exit points; if left unspecified, they are rectangular fields of energy twice as tall and wide as the caster. You cannot create a _doorway_ to a remote location if you have not physically visited it at some point in the past. The two points linked by the _backroad_ must be within the same plane of existence. While it appears to others that you only sit in place for an extremely long time when casting this spell, you travel mentally through the first _doorway_ and witness the summoning of the [[rangoric-srd/monsters/Doorway Guardian|doorway guardian]] that will protect the _backroad_ and act as the sentry over both entry points. The doorway guardian always maintains a Helpful attitude toward the creator of the _backroad_ to which they are charged. If the doorway guardian is ever slain by those traveling its _backroad_, the magical backlash from its destruction permanently opens the _doorways_ on both ends, making it easily passable by any who find the openings.

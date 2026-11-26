@@ -24,7 +24,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 targets: "One or more humanoid creatures, no two of which may be more than 30 ft. apart"
 duration: "1 round"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -45,7 +45,7 @@ _Enchantment (Compulsion) \[Mind-affecting\]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Targets**: One or more humanoid creatures, no two of which may be more than 30 ft. apart
 - **Duration**: 1 round
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 This spell functions as _[[rangoric-srd/spells/Daze|daze]]_, except as noted above.

@@ -21,7 +21,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature/level, no two of which can be more than 30 ft. apart"
 duration: "Instantaneous"
-saving-throw: "Will half (harmless) or Will half; see text"
+defense: "Will half (harmless) or Will half; see text"
 spell-resistance: "Yes (harmless) or Yes; see text"
 based-on:
   - "[[fantasy srd 3.5/spells/Cure Light Wounds, Mass|Cure Light Wounds, Mass (3.5)]]"
@@ -41,9 +41,9 @@ _Conjuration (Healing)_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature/level, no two of which can be more than 30 ft. apart
 - **Duration**: Instantaneous
-- **Saving Throw**: Will half (harmless) or Will half; see text
+- **Defense**: Will half (harmless) or Will half; see text
 - **Spell Resistance**: Yes (harmless) or Yes; see text
 
 You channel positive energy to cure 1d8 points of damage +1 point per caster level (maximum +25) in each selected creature.
 
-Like other cure spells, mass cure light wounds deals damage to undead in its area rather than curing them. Each affected undead may attempt a Will save for half damage.
+Like other cure spells, mass cure light wounds deals damage to undead in its area rather than curing them. The spell attacks each affected undead creature’s Will, and a miss halves the damage.

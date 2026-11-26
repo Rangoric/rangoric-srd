@@ -19,7 +19,7 @@ casting-time: "1 minute"
 range: "Touch"
 target: "Unattended object touched"
 duration: "Permanent until discharged, then permanent (see text)"
-saving-throw: "Fortitude negates (object), then Will negates (see text)"
+defense: "Fortitude (object), then Will (see text)"
 spell-resistance: "Yes"
 book: "Villain Codex"
 based-on:
@@ -40,7 +40,7 @@ _Necromancy \[Curse\]_
 - **Range**: Touch
 - **Target**: Unattended object touched
 - **Duration**: Permanent until discharged, then permanent (see text)
-- **Saving Throw**: Fortitude negates (object), then Will negates (see text)
+- **Defense**: Fortitude (object), then Will (see text)
 - **Spell Resistance**: Yes
 
-You touch a piece of treasure or container filled with treasure and place a terrible curse upon it, choosing from any option available with _[[rangoric-srd/spells/Bestow Curse|bestow curse]]_. The next creature to take the treasure or remove items from the container is affected by the curse, unless it succeeds at a Will save (spell resistance applies). If you are the next creature to take the treasure or get objects from the container, though, the spell discharges harmlessly instead.
+You touch a piece of treasure or container filled with treasure and place a terrible curse upon it, choosing from any option available with _[[rangoric-srd/spells/Bestow Curse|bestow curse]]_. The next creature to take the treasure or remove items from the container is affected by the curse if the spell hits its Will (spell resistance applies). If you are the next creature to take the treasure or get objects from the container, though, the spell discharges harmlessly instead.

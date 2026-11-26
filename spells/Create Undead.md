@@ -19,7 +19,7 @@ casting-time: "1 hour"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One corpse"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Create Undead|Create Undead (3.5)]]"
@@ -39,7 +39,7 @@ _Necromancy \[Evil\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One corpse
 - **Duration**: Instantaneous
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 A much more potent spell than animate dead, this evil spell allows you to create more powerful sorts of undead: ghouls, ghasts, mummies, and mohrgs. The type or types of undead you can create is based on your caster level, as shown on the table below.

@@ -16,7 +16,7 @@ components:
   - "S"
 casting-time: "1 round"
 duration: "Instantaneous/1 round per HD of subject; see text"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 book: "Advanced Race Guide"
 based-on:
@@ -35,7 +35,7 @@ _Necromancy \[Death, Evil, Fire\]_
 - **Components**: V, S
 - **Casting Time**: 1 round
 - **Duration**: Instantaneous/1 round per HD of subject; see text
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
 This spell functions like _[[rangoric-srd/spells/Death Knell|death knell]]_, except instead of using the slain target's life energy to enhance yourself, you use it to summon a Small fire elemental resembling a burning, howling version of the slain creature. The elemental acts immediately on your turn and otherwise behaves as if you had summoned it with _[[rangoric-srd/spells/Summon Monster II|summon monster II]]_. The elemental remains for a number of rounds equal to the Hit Dice of the slain creature.

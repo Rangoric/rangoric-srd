@@ -19,7 +19,7 @@ casting-time: "2 hours"
 range: "0 ft."
 effect: "Extradimensional demiplane, up to three 10-ft. cubes/level (S)"
 duration: "1 day/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Ultimate Magic"
 based-on:
@@ -40,7 +40,7 @@ _Conjuration (Creation)_
 - **Range**: 0 ft.
 - **Effect**: Extradimensional demiplane, up to three 10-ft. cubes/level (S)
 - **Duration**: 1 day/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You create a small, finite demiplane. You must be on the Astral or Ethereal Plane or on a plane that has access to one of those planes (such as the Material Plane) to cast this spell.
@@ -51,7 +51,7 @@ There are no native creatures or plants on this plane, though you may bring some
 
 When you finish casting this spell, you may bring yourself and up to seven other creatures to the plane automatically by joining hands in a circle. The demiplane is another plane of existence, and therefore is outside the range of any spell or ability that cannot affect or reach other planes. Creatures can only enter the plane by the use of planar travel magic such as _[[rangoric-srd/spells/Astral Projection|astral projection]]_, _[[rangoric-srd/spells/Etherealness|etherealness]]_, or _[[rangoric-srd/spells/Plane Shift|plane shift]]_. You are considered “very familiar” with your entire demiplane.
 
-As a standard action, you may eject a creature from your demiplane. The creature may resist with a Will saving throw. An ejected creature goes to the closest plane to your demiplane (usually the Astral Plane or the Ethereal Plane, but if you cast this spell on the Material Plane, the creature is sent to the Material Plane). When the spell ends, the plane dissolves, and all creatures in the plane are ejected in this manner with no saving throw. The plane cannot be dispelled, but a creature on the plane can destroy it by using _[[rangoric-srd/spells/Limited Wish|limited wish]]_, _[[rangoric-srd/spells/Mage’s Disjunction|mage's disjunction]]_, _[[rangoric-srd/spells/Miracle|miracle]]_, or _[[rangoric-srd/spells/Wish|wish]]_ and making a successful dispel check.
+As a standard action, you may eject a creature from your demiplane. The spell attacks the creature’s Will, and on a miss the creature resists. An ejected creature goes to the closest plane to your demiplane (usually the Astral Plane or the Ethereal Plane, but if you cast this spell on the Material Plane, the creature is sent to the Material Plane). When the spell ends, the plane dissolves, and all creatures in the plane are ejected in this manner, with no attack against a defense. The plane cannot be dispelled, but a creature on the plane can destroy it by using _[[rangoric-srd/spells/Limited Wish|limited wish]]_, _[[rangoric-srd/spells/Mage’s Disjunction|mage's disjunction]]_, _[[rangoric-srd/spells/Miracle|miracle]]_, or _[[rangoric-srd/spells/Wish|wish]]_ and making a successful dispel check.
 
 If you are within the demiplane, you can add to its area by casting the spell again. Alternatively, you may cast this spell again to reset the duration of an existing area to that of your latest casting. If the duration on one area of the demiplane ends and other parts remain, creatures in the expiring area are shunted to remaining areas. If a collapsing portion of the demiplane would leave one section cut off from other sections of the demiplane (for example, if there were three areas connected in a straight line and the center part expired), the stranded sections count as separate demiplanes under your control. You may reconnect these stranded sections by casting the spell again to create a linked area between the two.
 

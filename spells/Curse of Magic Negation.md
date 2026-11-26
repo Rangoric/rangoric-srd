@@ -20,7 +20,7 @@ casting-time: "1 round"
 range: "Medium (100 ft. + 10 ft./level)"
 target: "One creature"
 duration: "10 minute/level"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "No"
 book: "Ultimate Magic"
 based-on:
@@ -41,7 +41,7 @@ _Abjuration \[Curse\]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Target**: One creature
 - **Duration**: 10 minute/level
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: No
 
 You disrupt the target creature's ability to draw upon magical energies. For the duration of the spell, it gains the [[rangoric-srd/rules/spellblights/Negated|negated]] [[rangoric-srd/rules/spellblights/Spellblights|spellblight]]. Caster level checks to [[rangoric-srd/rules/spellblights/Spellblights#Removing Spellblights|remove the spellblight]] take a –5 penalty due to this spell's interference with magical energies.

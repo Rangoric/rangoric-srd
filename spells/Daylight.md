@@ -23,7 +23,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Object touched"
 duration: "10 min./level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Daylight|Daylight (3.5)]]"
@@ -43,7 +43,7 @@ _Evocation \[Light\]_
 - **Range**: Touch
 - **Target**: Object touched
 - **Duration**: 10 min./level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 The object touched sheds light as bright as full daylight in a 60-foot radius, and dim light for an additional 60 feet beyond that. Creatures that take penalties in bright light also take them while within the radius of this magical light. Despite its name, this spell is not the equivalent of daylight for the purposes of creatures that are damaged or destroyed by bright light.

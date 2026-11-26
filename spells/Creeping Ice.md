@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 effect: "Anchored plane of ice, up to one 10-ft. square/level"
 duration: "10 minutes/level"
-saving-throw: "Reflex negates (see text)"
+defense: "Reflex (see text)"
 spell-resistance: "Yes"
 book: "Advanced Class Guide"
 based-on:
@@ -38,7 +38,7 @@ _Evocation \[Cold\]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Effect**: Anchored plane of ice, up to one 10-ft. square/level
 - **Duration**: 10 minutes/level
-- **Saving Throw**: Reflex negates (see text)
+- **Defense**: Reflex (see text)
 - **Spell Resistance**: Yes
 
 This spell covers the floor, the ground, or some other calm horizontal surface (such as a placid lake or a gentle river) with a sheet of slowly growing ice. The initial sheet of ice cannot form in an area occupied by physical objects or creatures. Its surface must be smooth and unbroken when created. The ice is hard, strong, and opaque, and is 1 inch thick per caster level. The ice is strong enough to support the weight of a typical horse, making it possible for creatures to cross a body of water.

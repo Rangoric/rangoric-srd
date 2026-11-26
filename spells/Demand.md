@@ -11,7 +11,7 @@ level:
   - "Psy 8"
   - "Sor/Wiz 8"
   - "Wit 8"
-saving-throw: "Will partial"
+defense: "Will partial"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Demand|Demand (3.5)]]"
@@ -26,10 +26,10 @@ tags: [rangoric, rangoric/spell]
 _Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Enchantment 9, Mes 6, Psy 8, Sor/Wiz 8, Wit 8
-- **Saving Throw**: Will partial
+- **Defense**: Will partial
 - **Spell Resistance**: Yes
 
-This spell functions like [[rangoric-srd/spells/Sending|sending]], but the message can also contain a suggestion (see the [[rangoric-srd/spells/Suggestion|suggestion]] spell), which the subject does its best to carry out. A successful Will save negates the suggestion effect but not the contact itself. The demand, if received, is understood even if the subject’s Intelligence score is as low as 1. If the message is impossible or meaningless according to the circumstances that exist for the subject at the time the demand is issued, the message is understood but the suggestion is ineffective.
+This spell functions like [[rangoric-srd/spells/Sending|sending]], but the message can also contain a suggestion (see the [[rangoric-srd/spells/Suggestion|suggestion]] spell), which the subject does its best to carry out. A miss against the target’s Will negates the suggestion effect but not the contact itself. The demand, if received, is understood even if the subject’s Intelligence score is as low as 1. If the message is impossible or meaningless according to the circumstances that exist for the subject at the time the demand is issued, the message is understood but the suggestion is ineffective.
 
 The demand’s message to the creature must be twenty-five words or less, including the suggestion. The creature can also give a short reply immediately.
 

@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "1 round(s)"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Ultimate Intrigue"
 based-on:
@@ -37,7 +37,7 @@ _Enchantment (Compulsion) \[MindAffecting\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature
 - **Duration**: 1 round(s)
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 You awaken a sudden criminal impulse in the target, compelling it to commit a criminal act as if affected by the [[rangoric-srd/spells/Crime Wave|crime wave]] spell.

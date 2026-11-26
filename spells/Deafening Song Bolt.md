@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "Up to 3 creatures, no two of which can be more than 30 ft. apart"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Advanced Player's Guide"
 based-on:
@@ -35,7 +35,7 @@ _Evocation \[Sonic\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: Up to 3 creatures, no two of which can be more than 30 ft. apart
 - **Duration**: Instantaneous
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 Three notes you sing or perform become tangible bolts of arcane energy that shriek across the battlefield. Each bolt requires a ranged touch attack to hit and deals 3d10 points of sonic damage, deafening the target for 1d6 rounds. The bolts may be fired at the same or different targets, but all must be fired simultaneously.

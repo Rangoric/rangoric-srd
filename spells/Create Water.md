@@ -21,7 +21,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "Up to 2 gallons of water/level"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Create Water|Create Water (3.5)]]"
@@ -41,7 +41,7 @@ _Conjuration (Creation) \[Water\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Effect**: Up to 2 gallons of water/level
 - **Duration**: Instantaneous
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 This spell generates wholesome, drinkable water, just like clean rain water. Water can be created in an area as small as will actually contain the liquid, or in an area three times as large—possibly creating a downpour or filling many small receptacles.
