@@ -36,7 +36,7 @@ Most deities are creatures of the [[rangoric-srd/monsters/Monster Types, Sybtype
 
 Levels: Most deities are 20 HD outsiders with 30 to 50 character levels as well. These additional character levels beyond an effective character level of 20th follow the rules for [[rangoric-srd/epic/Epic Levels|epic]] levels.  
 Character levels above 20th confer some, but not all, of the benefits of normal levels. Deities gain all the class features for all their levels. The deity also gains the normal Hit Die for that class, plus additional skill points as if the deity had a level in that class normally. The deity gains an ability bonus every four levels, and a feat every three levels.  
-Beyond character level 20th, deities’ attack and saving throw bonuses increase at new rates. Deities gain a +1 epic attack bonus at 21st level and every other level thereafter. No deity can have more than four attacks derived strictly from its base attack bonus.  Deities also gain a +1 bonus on saving throws at 22nd level and every other level thereafter.
+Beyond character level 20th, deities’ attack and saving throw bonuses increase at new rates. Deities gain a +1 epic attack bonus at 21st level and every other level thereafter. No deity can have more than four attacks derived strictly from its base attack bonus.  Deities also gain a +1 bonus on defenses at 22nd level and every other level thereafter.
 
 Hit Points: Deities receive maximum hit points for each Hit Die.
 
@@ -69,9 +69,9 @@ Attacks: A deity’s Hit Dice and type and character level determine its base at
 
 Bypassing Damage Reduction: As outsiders with alignment subtypes, the natural attacks of deities, as well as any weapons they wield, are considered aligned the same as the deity for the purposes of bypassing [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
-Always Maximize Roll: Greater deities (rank 16-20) automatically get the best result possible on any check, saving throw, attack roll, or damage roll. Calculate success, failure, or other effects accordingly. When a greater deity makes a check, attack, or save assume a 20 was rolled and calculate success or failure from there. A d20 should still be rolled and used to check for a threat of a critical hit.  This quality means that greater deities never need the [[rangoric-srd/feats/Maximize Spell|Maximize Spell]] feat, because their spells have maximum effect already.
+Always Maximize Roll: Greater deities (rank 16-20) automatically get the best result possible on any check, attack roll, or damage roll, and any attack against their defenses gets the worst result possible. Calculate success, failure, or other effects accordingly. When a greater deity makes a check or attack, assume a 20 was rolled, and when an attack is made against its defense, assume a 1 was rolled, and calculate success or failure from there. A d20 should still be rolled and used to check for a threat of a critical hit.  This quality means that greater deities never need the [[rangoric-srd/feats/Maximize Spell|Maximize Spell]] feat, because their spells have maximum effect already.
 
-Saving Throws: A deity’s outsider Hit Dice and character level determine its base saving throw bonuses. A deity gets its divine rank as a divine bonus on all saving throws. Deities of rank 1 or higher do not automatically fail on a natural saving throw roll of 1.
+Defenses: A deity’s outsider Hit Dice and character level determine its base save bonuses, from which its defenses are built. A deity gets its divine rank as a divine bonus on all defenses.
 
 Checks: A deity gets its divine rank as a divine bonus on all skill checks, ability checks, caster level checks, and turning checks. Lesser deities (rank 6-10) may take 10 on any check, provided they need to make a check at all. Intermediate and greater deities (rank 11-20) always get a result of 20 on any check, provided they need to make a check at all.
 
@@ -109,7 +109,7 @@ Salient Divine Abilities: Every deity of rank 1 or higher has at least one addit
 
 Domain Powers: A deity of rank 1 or higher can use any domain power it can grant a number of times per day equal to its divine rank (if the power normally can be used more often than that, the deity gets the greater number of uses). If a domain power is based on a cleric’s level (or one-half a cleric’s level), a deity with no cleric levels has an effective cleric level equal to the deity’s divine rank (or one-half the deity’s divine rank) for this purpose.
 
-Spell-Like Abilities: A deity can use any domain spell it can grant as a spell-like ability at will. The deity’s effective caster level for such abilities is 10 + the deity’s divine rank. The saving throw DC for such abilities is 10 + the spell level + the deity’s Charisma bonus (if any) + the deity’s divine rank.
+Spell-Like Abilities: A deity can use any domain spell it can grant as a spell-like ability at will. The deity’s effective caster level for such abilities is 10 + the deity’s divine rank. The attack bonus for such abilities is the spell level + the deity’s Charisma bonus (if any) + the deity’s divine rank.
 
 Immortality: All deities (even those of rank 0) are naturally immortal and cannot die from natural causes. Deities do not age, and they do not need to eat, sleep, or breathe. The only way for a deity to die is through special circumstances, usually by being slain in magical or physical combat. Deities of rank 1 or higher are not subject to death from massive damage.
 
@@ -153,7 +153,7 @@ Create Magic Items: A deity of rank 1 or higher can create magic items related t
 
 If a deity has the item creation feat pertaining to the item it wishes to create, the cost (in gold and XP) and creation times are halved.
 
-Divine Aura: The mere presence of a deity of rank 1 or higher can deeply affect mortals and beings of lower divine rank. All divine aura effects are mind-affecting, extraordinary abilities. Mortals and other deities of lower rank can resist the aura’s effects with successful Will saves; the DC is 10 + the deity’s rank + the deity’s Charisma modifier. Deities are immune to the auras of deities of equal or lower rank. Any being who makes a successful saving throw against a deity’s aura power becomes immune to that deity’s aura power for one day. Divine aura is an emanation that extends around the deity in a radius whose size is a function of divine rank. The deity chooses the size of the radius and can change it as a free action. If the deity chooses a radius of 0 feet, its aura power effectively becomes non-functional. When two or more deities’ auras cover the same area, only the aura that belongs to the deity with the highest rank functions. If divine ranks are equal, the auras coexist.
+Divine Aura: The mere presence of a deity of rank 1 or higher can deeply affect mortals and beings of lower divine rank. All divine aura effects are mind-affecting, extraordinary abilities. Mortals and other deities of lower rank defend against the aura’s effects: it attacks their Will, its attack bonus the deity’s rank + the deity’s Charisma modifier. Deities are immune to the auras of deities of equal or lower rank. Any being a deity’s aura power misses becomes immune to that deity’s aura power for one day. Divine aura is an emanation that extends around the deity in a radius whose size is a function of divine rank. The deity chooses the size of the radius and can change it as a free action. If the deity chooses a radius of 0 feet, its aura power effectively becomes non-functional. When two or more deities’ auras cover the same area, only the aura that belongs to the deity with the highest rank functions. If divine ranks are equal, the auras coexist.
 
 | Divine Rank | Divine Aura Size |
 | ----------- | ---------------- |
@@ -166,9 +166,9 @@ The deity can make its own worshipers, beings of its alignment, or both types of
 
 Daze: Affected beings just stare at the deity in fascination. They can defend themselves normally but can take no actions.
 
-Fright: Affected beings become [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] and suffer a -2 morale penalty on attack rolls, saves, and checks. The merest glance or gesture from the deity makes them [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]], and they flee as quickly as they can, although they can choose the path of their flight.
+Fright: Affected beings become [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] and suffer a -2 morale penalty on attack rolls, defenses, and checks. The merest glance or gesture from the deity makes them [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]], and they flee as quickly as they can, although they can choose the path of their flight.
 
-Resolve: The deity’s allies receive a +4 morale bonus on attack rolls, saves, and checks, while the deity’s foes receive a -4 morale penalty on attack rolls, saves, and checks.
+Resolve: The deity’s allies receive a +4 morale bonus on attack rolls, defenses, and checks, while the deity’s foes receive a -4 morale penalty on attack rolls, defenses, and checks.
 
 Grant Spells: A deity automatically grants spells and domain powers to mortal divine spellcasters who pray to it. Most deities can grant spells from the [[rangoric-srd/spells/Cleric Spell List|cleric spell list]], the [[rangoric-srd/spells/Ranger Spell List|ranger spell list]], and from three or more [[rangoric-srd/class-options/domains/Domains|domains]]. Deities with levels in the [[rangoric-srd/classes/Druid|druid]] class can grant spells from the [[rangoric-srd/spells/Druid Spell List|druid spell list]], and deities with [[rangoric-srd/classes/Paladin|paladin]] levels can grant spells from the [[rangoric-srd/spells/Paladin Spell List|paladin spell list]]. A deity can withhold spells from any particular mortal as a free action; once a spell has been granted, it remains in the mortal’s mind until expended.
 

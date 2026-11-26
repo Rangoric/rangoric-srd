@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 _Chymical; Special_
 
-The “water of tears” is another base from which alchemists create many potions and other items. Like aqua fortis, aqua lacrima can be used as an antidote against emotional attacks, charms, and enchantments—the very magics which this liquid preserves and stores as potions. Drinking aqua lacrima provides an immediate Will save with a +3 circumstance bonus.
+The “water of tears” is another base from which alchemists create many potions and other items. Like aqua fortis, aqua lacrima can be used as an antidote against emotional attacks, charms, and enchantments—the very magics which this liquid preserves and stores as potions. Drinking aqua lacrima makes the effect attack your Will again at once, with a +3 circumstance bonus to your Will Defense.
 
 Alchemists recognize (DC 8) aqua lacrima by its pink translucence, its scent of soured grapes and chalk, and its low evaporation point—it actually begins to turn to a light pink mist immediately upon exposure to sunlight (though it takes nearly an hour for all 8 ounces to dissolve into vapor), which is why it is often stored in opaque bottles.
 

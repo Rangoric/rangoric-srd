@@ -189,7 +189,7 @@ AC Bonus: The monk’s bonus to Armor Class when unarmored increases by +1 every
 
 Unarmed Strike: The damage for a monk’s unarmed strike does not increase after 20th level.
 
-Stunning Attack: If the monk has the Stunning Fist feat use the monk’s class level when determining the DC to resist this attack, as normal.
+Stunning Attack: If the monk has the Stunning Fist feat use the monk’s class level when determining this attack’s attack bonus, as normal.
 
 Unarmored Speed Bonus: The epic monk’s by 10 feet at 21st level and every three levels thereafter (24th, 27th, 30th, and so on). The unarmored speed of Small and dwarven monks increases by 5 feet instead of 10 feet.
 
@@ -201,7 +201,7 @@ Abundant Step (Su): Use the monk’s class level when determining the effective 
 
 Diamond Soul (Ex): The epic monk’s spell resistance is equal to his or her class level +10, as normal.
 
-Quivering Palm (Su): Use the monk’s class level when determining the DC to resist this attack, as normal.
+Quivering Palm (Su): Use the monk’s class level when determining this attack’s attack bonus, as normal.
 
 Empty Body (Su): Use the monk’s class level when determining the duration of this effect, as normal.
 
@@ -535,7 +535,7 @@ Powers: The epic wilder’s manifester level is equal to her class level. The wi
 
 Wild Surge: The epic wilder’s wild surge continues to increase after 20th level. At 23rd level and every four levels higher than 23rd, the wild surge continues to gain an additional +1 boost to manifester level when used (+7 at 23rd, +8 at 27th, and so on).
 
-Surging Euphoria: The wilder’s surging euphoria progression continues past 20th level. At 28th level and every eight levels higher than 28th, the morale bonus on her attack rolls, damage rolls, and saving throws increases by 1 (+4 at 28th, +5 at 36th, and so on).
+Surging Euphoria: The wilder’s surging euphoria progression continues past 20th level. At 28th level and every eight levels higher than 28th, the morale bonus on her attack rolls, damage rolls, and defenses increases by 1 (+4 at 28th, +5 at 36th, and so on).
 
 Volatile Mind: The epic wilder’s volatile mind ability continues to increase. At 21st level and every four levels higher than 21st, the penalty assessed against telepathy powers manifested on the wilder is increased by 1 power point (5 points at 21st, 6 points at 25th, and so on).
 

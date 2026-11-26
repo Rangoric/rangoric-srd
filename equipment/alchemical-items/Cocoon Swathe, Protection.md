@@ -39,7 +39,7 @@ In essence, herbalists have created and taught swathes to be semi-independent an
 **Cocoon Swathe of Protection** This is the simplest of the cocoon swathes, and its purpose is generally to protect innocents or injured bystanders from harm. It wraps around its subject (or multiple smaller subjects) and simply keeps them safe.
 
 - Its external defenses are Hardness 7, 30 hp, and break DC 29.
-- It has a +4 Fortitude save, and +1 to both other saves against external attacks.
+- It has +4 Fortitude Defense, and +1 to both other defenses against external attacks.
 - It can lash out with three massive tendrils (each has Improved Grab and deals 1d6 points of damage upon impact) if in melee combat.
 - Subjects inside a protection cocoon cannot cast spells or see outside of the cocoon, as they are assumed to be helpless and in need of the cocoon’s protection.
 

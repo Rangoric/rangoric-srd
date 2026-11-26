@@ -8,8 +8,8 @@ dc: "16"
 price: "500 gp"
 affliction-type: "drug"
 delivery: "ingested"
-save: "Fortitude DC 16"
-save-dc: 16
+attack: "+6 vs Fortitude"
+attack-bonus: 6
 addiction: "moderate"
 effect: "1 hour, +1d4 Cha"
 damage: "1d4 Con"
@@ -27,7 +27,7 @@ tags: [rangoric, rangoric/alchemical-item]
 A drug: a dose gives its effect and its ability damage at once, and risks [[rangoric-srd/rules/afflictions/Moderate Addiction|addiction]]. How drugs work, and what each line means, is in [[rangoric-srd/rules/Afflictions#Drugs and Addiction|drugs and addiction]].
 
 - **Type**: ingested
-- **Addiction**: [[rangoric-srd/rules/afflictions/Moderate Addiction|moderate]], Fortitude DC 16
+- **Addiction**: [[rangoric-srd/rules/afflictions/Moderate Addiction|moderate]], +6 vs Fortitude
 - **Price**: 500 gp
 - **Effect**: 1 hour; +1d4 Cha
 - **Damage**: 1d4 Con damage

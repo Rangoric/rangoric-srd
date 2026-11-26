@@ -97,13 +97,13 @@ Skill Points at Each Additional Level: 4 + Int modifier.
 
 Sneak Attack: The epic assassin’s sneak attack damage increases by +1d6 every two levels after 9th.
 
-Death Attack: The assassin counts only half his or her class levels beyond 10th when determining the DC to resist this attack.
+Death Attack: The assassin counts only half his or her class levels beyond 10th when determining this attack’s attack bonus.
 
 Spells: The assassin’s caster level is equal to his or her class level. The assassin’s number of spells per day does not increase after 10th level. The assassin gains no new spells known after 10th level.
 
-Uncanny Dodge: The assassin’s uncanny dodge bonus on saves against traps doesn’t increase after 10th level.
+Uncanny Dodge: The assassin’s uncanny dodge bonus on defenses against traps doesn’t increase after 10th level.
 
-Saving Throw Bonus against Poison: The assassin’s bonus on saves against poison increases by +1 every two levels after 10th.
+Defense Bonus against Poison: The assassin’s bonus on defenses against poison increases by +1 every two levels after 10th.
 
 Bonus Feats: The epic assassin gains a bonus feat (selected from the list of epic assassin feats) every four levels after 10th.
 
@@ -111,18 +111,18 @@ Epic Assassin Bonus Feat List: Dexterous Fortitude, Dexterous Will, Improved Com
 
 Table: The Epic Assassin
 
-| Level | Special                            |
-| ----- | ---------------------------------- |
-| 11th  | Sneak attack +6d6                  |
-| 12th  | +6 save against poison             |
-| 13th  | Sneak attack +7d6                  |
-| 14th  | +7 save against poison, bonus feat |
-| 15th  | Sneak attack +8d6                  |
-| 16th  | +8 save against poison             |
-| 17th  | Sneak attack +9d6                  |
-| 18th  | +9 save against poison, bonus feat |
-| 19th  | Sneak attack +10d6                 |
-| 20th  | +10 save against poison            |
+| Level | Special                               |
+| ----- | ------------------------------------- |
+| 11th  | Sneak attack +6d6                     |
+| 12th  | +6 defense against poison             |
+| 13th  | Sneak attack +7d6                     |
+| 14th  | +7 defense against poison, bonus feat |
+| 15th  | Sneak attack +8d6                     |
+| 16th  | +8 defense against poison             |
+| 17th  | Sneak attack +9d6                     |
+| 18th  | +9 defense against poison, bonus feat |
+| 19th  | Sneak attack +10d6                    |
+| 20th  | +10 defense against poison            |
 
 ### Epic Blackguard
 
@@ -229,7 +229,7 @@ Skill Points at Each Additional Level: 2 + Int modifier.
 
 Defensive Stance: The epic stalwart defender gains one additional defensive stance per day every two levels above 9th.
 
-Defensive Awareness: The stalwart defender’s defensive awareness bonus on saves against traps doesn’t increase after 10th level.
+Defensive Awareness: The stalwart defender’s defensive awareness bonus on defenses against traps doesn’t increase after 10th level.
 
 Damage Reduction: The epic stalwart defender’s damage reduction increases by 3 points every four levels above 10th.
 

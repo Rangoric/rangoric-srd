@@ -166,7 +166,7 @@ Just as a settlement can have unusual qualities to enhance its statistics, it ca
 
 **Impoverished**: Because of any number of factors, the settlement is destitute. Poverty, famine, and disease run rampant. (_Corruption and Crime +1; decrease base value and purchase limit by 50%; halve magic item availability_)
 
-**Plagued**: The community is suffering from a protracted contagion or malady. (_–2 to all modifiers; reduce base value by 20%; select a communicable disease—there's a 5% chance each day that a PC is exposed to the disease and must make a Fortitude save to avoid contracting the illness_)
+**Plagued**: The community is suffering from a protracted contagion or malady. (_–2 to all modifiers; reduce base value by 20%; select a communicable disease—there's a 5% chance each day that a PC is exposed to the disease and the disease attacks his Fortitude_)
 
 ## Sample Settlements
 

@@ -43,7 +43,7 @@ Metamagic, Items, and Epic Spells: Metamagic feats and other epic feats that man
 
 A character can’t craft a magic item that casts an epic spell, regardless of whether the item is activated with spell completion, a spell trigger, a command word, or simple use. Only major artifacts, which are beyond the means of even epic characters to create, can possibly contain magic of this power.
 
-The saving throw against a character’s epic spell has a DC of 20 + the character’s relevant ability score modifier. It’s possible to develop epic spells that have even higher DCs, however, by applying the appropriate factor.
+A character’s epic spell attacks a defense with an attack bonus of 10 + the character’s relevant ability score modifier. It’s possible to develop epic spells that have even higher attack bonuses, however, by applying the appropriate factor.
 
 ##### Epic Spell Terms
 
@@ -69,7 +69,7 @@ To Cast an Epic Spell: Mysticism check (DC = epic spell’s Casting DC).
 
 Level of an Epic Spell: Epic spells are considered 10th level for the purpose of Concentration checks, spell resistance, and other determinations.
 
-Saving Throw for an Epic Spell: DC = 20 + key ability modifier.
+Attack Bonus of an Epic Spell: 10 + key ability modifier.
 
 ##### Dispelling,epic Spells,and Antimagic Field
 

@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 _Chymical; Special_
 
-Aqua fortis finds use primarily as a base liquid for charisma, as well as mind-affecting potions and unguents. It can also be used as an antidote against active mind attacks and fear effects—drinking it provides an immediate Will save with a +3 circumstance bonus.
+Aqua fortis finds use primarily as a base liquid for charisma, as well as mind-affecting potions and unguents. It can also be used as an antidote against active mind attacks and fear effects—drinking it makes the effect attack your Will again at once, with a +3 circumstance bonus to your Will Defense.
 
 Alchemists identify (DC 10) aqua fortis by its olive scent or the oily reflective sheen that rises to the top when it’s poured.
 

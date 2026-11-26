@@ -121,7 +121,7 @@ Table: Intelligent Item Extraordinary Powers
 
 | d%     | Extraordinary Power                                                                              | Uses    |
 | ------ | ------------------------------------------------------------------------------------------------ | ------- |
-| 01-05  | Charm person (DC 11 (1)) on contact                                                              | 3/day   |
+| 01-05  | Charm person (+1 (1)) on contact                                                                 | 3/day   |
 | 06-10  | Clairaudience/clairvoyance (100-ft. range, 1 minute per use)                                     | 3/day   |
 | 11-15  | Magic missile (200-ft. range, 3 missiles)                                                        | 3/day   |
 | 16-20  | Shield on wielder                                                                                | 3/day   |
@@ -129,7 +129,7 @@ Table: Intelligent Item Extraordinary Powers
 | 26-30  | Levitation (wielder only, 10 minute duration)                                                    | 3/day   |
 | 31-35  | Invisibility (wielder only, up to 30 minutes per use)                                            | 3/day   |
 | 36-40  | Fly (30 minutes per use)                                                                         | 2/day   |
-| 41-45  | Lightning bolt (8d6 points of damage, 200-ft. range, DC 13 (1))                                  | 1/day   |
+| 41-45  | Lightning bolt (8d6 points of damage, 200-ft. range, +3 (1))                                     | 1/day   |
 | 46-50  | Summon monster III                                                                               | 1/day   |
 | 51-55  | Telepathy (100 ft. range)                                                                        | 2/day   |
 | 56-60  | Cat’s grace (wielder only)                                                                       | 1/day   |
@@ -144,12 +144,12 @@ Table: Intelligent Item Extraordinary Powers
 | 81     | True seeing                                                                                      | At will |
 | 82     | Wall of force                                                                                    | 1/day   |
 | 83     | Summon monster VI                                                                                | 1/day   |
-| 84     | Finger of death (100 ft. range, DC 17 (1))                                                       | 1/day   |
+| 84     | Finger of death (100 ft. range, +7 (1))                                                          | 1/day   |
 | 85     | Passwall                                                                                         | At will |
 | 86-90  | Roll twice again on this table                                                                   | -       |
 | 91-100 | Roll again on this table, and then roll for a special purpose on Table: Intelligent Item Purpose | -       |
 
-1 Choose an ability score of the item (usually the highest) at the time the item is created or randomly generated. Add that ability’s bonus to the given DC.
+1 Choose an ability score of the item (usually the highest) at the time the item is created or randomly generated. Add that ability’s bonus to the given attack bonus.
 
 If the same power is rolled twice, the uses per day are doubled. (If true seeing or passwall is rolled twice, roll again.) Powers function only when the item is drawn and held, and the possessor is concentrating upon the desired effect. Activating a power is a standard action. An intelligent item might activate a power on its own.
 
@@ -160,25 +160,25 @@ Table: Intelligent Item Awesome Powers
 | 01-04  | Astral projection                                                                                                    | 1/day |
 | 05-08  | Bull’s strength (wielder only; intensified; +10 enhancement bonus to Strength)                                       | 1/day |
 | 09-12  | Cat’s grace (wielder only; intensified; +10 enhancement bonus to Dexterity)                                          | 1/day |
-| 13-16  | Chain lightning (enhanced; 20d6 damage; DC 16 (1))                                                                   | 1/day |
-| 17-20  | Dominate monster (DC 19 (1)) on contact                                                                              | 1/day |
+| 13-16  | Chain lightning (enhanced; 20d6 damage; +6 (1))                                                                      | 1/day |
+| 17-20  | Dominate monster (+9 (1)) on contact                                                                                 | 1/day |
 | 21-24  | Endurance (wielder only; intensified; +10 enhancement bonus to Constitution)                                         | 1/day |
-| 25-28  | Energy drain (DC 19 (1)) on contact                                                                                  | 1/day |
-| 29-32  | Finger of death (heightened to 9th level; DC 19 (1))                                                                 | 1/day |
+| 25-28  | Energy drain (+9 (1)) on contact                                                                                     | 1/day |
+| 29-32  | Finger of death (heightened to 9th level; +9 (1))                                                                    | 1/day |
 | 33-36  | Foresight (wielder only)                                                                                             | 1/day |
 | 37-40  | Gate                                                                                                                 | 1/day |
 | 41-44  | Haste (wielder only; extended; 40-round duration)                                                                    | 3/day |
 | 45-48  | Improved invisibility (wielder only; extended; 40-minute duration)                                                   | 2/day |
-| 49-52  | Mass heal 1/day 53-56 Meteor swarm (DC 19 (1))                                                                       | 1/day |
-| 53-60  | Phase door 2/day 61-64 Prismatic sphere (DC 19 (1))                                                                  | 1/day |
+| 49-52  | Mass heal 1/day 53-56 Meteor swarm (+9 (1))                                                                          | 1/day |
+| 53-60  | Phase door 2/day 61-64 Prismatic sphere (+9 (1))                                                                     | 1/day |
 | 65-68  | Stoneskin (wielder only; extended; 400-minute duration)                                                              | 3/day |
 | 69-72  | Summon monster IX (2) (extended; 40-round duration)                                                                  | 1/day |
-| 73-76  | Sunburst (heightened to 9th level; DC 19 (1))                                                                        | 2/day |
+| 73-76  | Sunburst (heightened to 9th level; +9 (1))                                                                           | 2/day |
 | 77-80  | Teleport without error                                                                                               | 2/day |
 | 81-90  | Roll twice again on this table                                                                                       | -     |
 | 91-100 | Roll again on this table, and then roll for a special purpose on nonepic magic item Table: Intelligent Item Purpose. | -     |
 
-1 Choose an ability score of the item (usually the highest) at the time the item is created or randomly generated. Add that ability’s bonus to the listed DC.      
+1 Choose an ability score of the item (usually the highest) at the time the item is created or randomly generated. Add that ability’s bonus to the listed attack bonus.      
 2 The weapon can only summon monsters whose alignment has no components that oppose the item’s alignment.
 
 Unless otherwise stated, all awesome powers function at 20th caster level. If a power is rolled twice, the uses per day are doubled. Powers function only when the item is drawn and held, and the possessor is concentrating upon the desired effect. Activating a power is a standard action. An intelligent item might activate a power on its own.
@@ -212,19 +212,19 @@ A special purpose power operates only when the item is in pursuit of its special
 
 Table: Intelligent Item Special Purpose Powers
 
-| d%     | Special Purpose Power                                                           |
-| ------ | ------------------------------------------------------------------------------- |
-| 01–10  | Blindness (1) (DC 17 (2)) for 2d6 rounds                                        |
-| 11-20  | Confusion (1) (DC 19 (2)) for 2d6 rounds                                        |
-| 21-25  | Fear (1) (DC 19 (2)) for 1d4 rounds                                             |
-| 26-55  | Hold monster (1) (DC 19 (2)) for 1d4 rounds                                     |
-| 56-65  | Slay living (1) (DC 20 (2))                                                     |
-| 66-75  | Disintegrate (1) (DC 21 (2))                                                    |
-| 76-80  | True resurrection on wielder, one time only                                     |
-| 81-100 | +4 luck bonus on all saving throws, +4 deflection AC bonus, spell resistance 30 |
+| d%     | Special Purpose Power                                                      |
+| ------ | -------------------------------------------------------------------------- |
+| 01–10  | Blindness (1) (+7 (2)) for 2d6 rounds                                      |
+| 11-20  | Confusion (1) (+9 (2)) for 2d6 rounds                                      |
+| 21-25  | Fear (1) (+9 (2)) for 1d4 rounds                                           |
+| 26-55  | Hold monster (1) (+9 (2)) for 1d4 rounds                                   |
+| 56-65  | Slay living (1) (+10 (2))                                                  |
+| 66-75  | Disintegrate (1) (+11 (2))                                                 |
+| 76-80  | True resurrection on wielder, one time only                                |
+| 81-100 | +4 luck bonus on all defenses, +4 deflection AC bonus, spell resistance 30 |
 
-1 This power affects the opponent of the item’s wielder on a successful hit unless the opponent makes a Will save at the listed DC.      
-2 Choose an ability score of the item (usually the highest) at the time the item is created or randomly generated. Add that ability’s bonus to the listed DC.
+1 On a successful hit, this power attacks the Will of the opponent of the item’s wielder at the listed attack bonus, and affects it on a hit.      
+2 Choose an ability score of the item (usually the highest) at the time the item is created or randomly generated. Add that ability’s bonus to the listed attack bonus.
 
 ##### Item Ego
 
@@ -252,7 +252,7 @@ Table: Item Ego
 
 ##### Items Against Characters
 
-When an item has an Ego of its own, it has a will of its own. The item is, of course, absolutely true to its alignment. If the character who possesses the item is not true to that alignment’s goals or the item’s special purpose, personality conflict-item against character-results. Similarly, any item with an Ego score of 20 or higher always considers itself superior to any character, and a personality conflict results if the possessor does not always agree with the item. When a personality conflict occurs, the possessor must make a Will saving throw (DC = item’s Ego). If the possessor succeeds, he or she is dominant. If he or she fails, the item is dominant. Dominance lasts for one day or until a critical situation occurs (such as a major battle, a serious threat to either item or character, and so on). Should an item gain dominance, it resists the character’s desires and demands concessions such as any of the following:
+When an item has an Ego of its own, it has a will of its own. The item is, of course, absolutely true to its alignment. If the character who possesses the item is not true to that alignment’s goals or the item’s special purpose, personality conflict-item against character-results. Similarly, any item with an Ego score of 20 or higher always considers itself superior to any character, and a personality conflict results if the possessor does not always agree with the item. When a personality conflict occurs, the item attacks the possessor’s Will, its attack bonus the item’s Ego – 10. If it misses, the possessor is dominant. If it hits, the item is dominant. Dominance lasts for one day or until a critical situation occurs (such as a major battle, a serious threat to either item or character, and so on). Should an item gain dominance, it resists the character’s desires and demands concessions such as any of the following:
 
 - Removal of associates or items whose alignment or personality is distasteful to the item.
 

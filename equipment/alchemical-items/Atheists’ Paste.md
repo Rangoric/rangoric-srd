@@ -14,8 +14,8 @@ dc: "17"
 price: "5,000 gp"
 affliction-type: "poison"
 delivery: "contact"
-save: "Fortitude DC 17"
-save-dc: 17
+attack: "+7 vs Fortitude"
+attack-bonus: 7
 effect: "blinded and nauseated for 1d4 rounds; divine magic turns the paste into its vapor (see above)"
 based-on:
   - "[[individual books/Alchemy & Herbalists v3.5/items/Atheists’ Paste|Atheists’ Paste (Alchemy & Herbalists)]]"
@@ -29,7 +29,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 _Unguent/Toxin; Special_
 
-Atheists’ paste is an unguent that only becomes toxic when exposed to divine spells and magical energies. This toxin is a two-stage poison. First, it is a basic contact poison which causes blindness and nausea for 1d4 rounds (unless a Fortitude save is made against a DC of 17). The secondary effect only activates if the paste comes in contact with divine magical energies—it evaporates into a cloud of toxic vapor in a 20-foot radius from the point of origin, and this gas inflicts 1d4 points of damage per round to any within this cloud. The gas dissipates in 1d12 rounds.
+Atheists’ paste is an unguent that only becomes toxic when exposed to divine spells and magical energies. This toxin is a two-stage poison. First, it is a basic contact poison which causes blindness and nausea for 1d4 rounds (_attack_ +7 vs Fortitude). The secondary effect only activates if the paste comes in contact with divine magical energies—it evaporates into a cloud of toxic vapor in a 20-foot radius from the point of origin, and this gas inflicts 1d4 points of damage per round to any within this cloud. The gas dissipates in 1d12 rounds.
 
 Atheists’ paste comes in a wide-mouthed black ceramic jar (the applicator is a flexible wooden wand affixed to the underside of the jar’s lid), and appears as a thick cloudy unguent. This jar holds about one cup of paste, enough to coat a four-foot-square surface or a medium-sized item or weapon. It becomes transparent as it is spread out, so it takes a [[rangoric-srd/skills/Perception|Perception]] check (DC 13) to notice the dull sheen before its effects become obvious.
 
@@ -38,7 +38,7 @@ Alchemists created this toxin centuries ago to help commoners strike back at an 
 **Poison**: As an [[rangoric-srd/rules/Afflictions#The Affliction Block|affliction]]:
 
 - **Type**: poison, contact
-- **Save**: Fortitude DC 17
+- **Attack**: +7 vs Fortitude
 - **Effect**: [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] and [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1d4 rounds; divine magic turns the paste into its vapor (see above)
 
 **Construction**: Faint magic; CL 4th; [[rangoric-srd/feats/Craft Toxins|Craft Toxins]], _detect magic_; DC: 17; Price: 5,000 gp

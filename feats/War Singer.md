@@ -17,4 +17,4 @@ Your songs draw upon the savage chants and brutal ways of your people, inspiring
 
 **Prerequisites**: Cha 13, [[rangoric-srd/classes/Bard#^bardic-music|bardic performance]] class feature, [[rangoric-srd/races/Half-Orc|half-orc]] or orc.
 
-**Benefit**: When you use [[rangoric-srd/classes/Bard#^bardic-music|bardic performance]] with audible components on a battlefield (any area where a combat involving a dozen or more combatants is taking place), the range or area of your chosen performance is doubled. In addition, the DC for saving throws against your bardic performance is increased by +2 for creatures of the orc subtype, regardless of where the performance occurs.
+**Benefit**: When you use [[rangoric-srd/classes/Bard#^bardic-music|bardic performance]] with audible components on a battlefield (any area where a combat involving a dozen or more combatants is taking place), the range or area of your chosen performance is doubled. In addition, the attack bonus of your bardic performance is increased by +2 against creatures of the orc subtype, regardless of where the performance occurs.

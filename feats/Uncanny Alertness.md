@@ -17,4 +17,4 @@ Your research into arcana and the nature of reality has given you heightened sen
 
 **Prerequisites**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception).
 
-**Benefit**: You gain a +1 bonus on [[rangoric-srd/skills/Perception|Perception]] and [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks, and a +2 bonus on saving throws against sleep and charm effects.
+**Benefit**: You gain a +1 bonus on [[rangoric-srd/skills/Perception|Perception]] and [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks, and a +2 bonus on defenses against sleep and charm effects.
