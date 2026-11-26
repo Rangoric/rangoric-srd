@@ -26,7 +26,7 @@ Some barbarians disdain the hides and leather used as armor by most of their kin
 
 **Weapon and Armor Proficiency**: An armored hulk gains proficiency in heavy armor ([[rangoric-srd/classes/Barbarian#^barbarian-weapon-and-armor-proficiency|weapon and armor proficiency]]).
 
-**Indomitable Stance (Ex)**: An armored hulk gains a +1 bonus on combat maneuver checks and to CMD for [[rangoric-srd/combat/Combat Maneuvers#Overrun|overrun]] combat maneuvers, and on Reflex saves against [[rangoric-srd/monsters/abilities/Trample|trample]] attacks. She also gains a +1 bonus to her AC against [[rangoric-srd/combat/Combat Special Attacks#Charge|charge]] attacks and on attack and damage rolls against charging creatures. This ability replaces [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]].
+**Indomitable Stance (Ex)**: An armored hulk gains a +1 bonus on combat maneuver checks and to CMD for [[rangoric-srd/combat/Combat Maneuvers#Overrun|overrun]] combat maneuvers, and to Reflex Defense against [[rangoric-srd/monsters/abilities/Trample|trample]] attacks. She also gains a +1 bonus to her AC against [[rangoric-srd/combat/Combat Special Attacks#Charge|charge]] attacks and on attack and damage rolls against charging creatures. This ability replaces [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]].
 
 **Armored Swiftness (Ex)**: At 2nd level, an armored hulk moves faster in medium and heavy armor. When wearing medium or heavy armor, an armored hulk can move 5 feet faster than normal, to a maximum of her speed. This ability replaces [[rangoric-srd/classes/Barbarian#^barbarian-uncanny-dodge|uncanny dodge]].
 

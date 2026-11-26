@@ -38,4 +38,4 @@ While most druids focus their attention upon the rich earth and the bounty of na
 
 **Windlord**: At 9th level, a storm druid can select another domain or subdomain from those available to her through her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]]. This ability replaces [[rangoric-srd/classes/Druid#^druid-venom-immunity|venom immunity]].
 
-**Storm Lord (Ex)**: At 13th level, a storm druid is unaffected by natural and magical wind effects. She also becomes immune to [[rangoric-srd/rules/Special Abilities and Conditions#^deafened|deafness]] and gains +2 bonus on saving throws against sonic effects. This ability replaces [[rangoric-srd/classes/Druid#^druid-a-thousand-faces|a thousand faces]].
+**Storm Lord (Ex)**: At 13th level, a storm druid is unaffected by natural and magical wind effects. She also becomes immune to [[rangoric-srd/rules/Special Abilities and Conditions#^deafened|deafness]] and gains +2 bonus on defenses against sonic effects. This ability replaces [[rangoric-srd/classes/Druid#^druid-a-thousand-faces|a thousand faces]].

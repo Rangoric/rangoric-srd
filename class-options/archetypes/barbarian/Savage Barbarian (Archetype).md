@@ -21,7 +21,7 @@ _A [[rangoric-srd/classes/Barbarian#^barbarian-archetypes|barbarian]] [[rangoric
 
 Some barbarians are truly savage, having little training in modern arms. These savage barbarians learn to avoid blows and toughen up their skin. A savage barbarian has the following class features.
 
-**Naked Courage (Ex)**: At 3rd level, the savage barbarian gains a +1 dodge bonus to AC and a +1 morale bonus on saving throws against [[rangoric-srd/rules/Special Abilities and Conditions#Fear|fear]] when wearing no armor (shields are allowed). This bonus increases by +1 for every six levels after 3rd. This ability replaces [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]].
+**Naked Courage (Ex)**: At 3rd level, the savage barbarian gains a +1 dodge bonus to AC and a +1 morale bonus on defenses against [[rangoric-srd/rules/Special Abilities and Conditions#Fear|fear]] when wearing no armor (shields are allowed). This bonus increases by +1 for every six levels after 3rd. This ability replaces [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]].
 
 **Natural Toughness (Ex)**: At 7th level, the savage barbarian gains a +1 natural armor bonus to AC when wearing no armor (shields are allowed). This bonus increases by +1 for every three levels beyond 7th. This ability replaces [[rangoric-srd/classes/Barbarian#^barbarian-damage-reduction|damage reduction]].
 

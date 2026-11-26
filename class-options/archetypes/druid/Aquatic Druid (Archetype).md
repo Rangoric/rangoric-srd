@@ -32,7 +32,7 @@ Shepherds of the lakes and seas, aquatic druids guard ecosystems ranging from sh
 
 **Natural Swimmer (Ex)**: At 3rd level, an aquatic druid gains a swim speed equal to half her land speed. This ability replaces [[rangoric-srd/classes/Druid#^druid-trackless-step|trackless step]].
 
-**Resist Ocean's Fury (Ex)**: At 4th level, an aquatic druid gains a +4 bonus on saving throws against spells of the water type or the exceptional or supernatural abilities of creatures with the aquatic or water subtype. This ability replaces [[rangoric-srd/classes/Druid#^druid-resist-natures-lure|resist nature's lure]].
+**Resist Ocean's Fury (Ex)**: At 4th level, an aquatic druid gains a +4 bonus on defenses against spells of the water type or the exceptional or supernatural abilities of creatures with the aquatic or water subtype. This ability replaces [[rangoric-srd/classes/Druid#^druid-resist-natures-lure|resist nature's lure]].
 
 **Wild Shape (Su)**: An aquatic druid gains [[rangoric-srd/classes/Druid#^druid-wild-shape|this ability]] at 6th level, except that her effective druid level for the ability is equal to her druid level – 2.
 

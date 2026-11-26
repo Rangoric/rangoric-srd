@@ -34,7 +34,7 @@ Some druids develop ties not to a particular landscape, but instead to the endle
 
 **Sky's Embrace (Su)**: At 2nd level, a sky druid no longer takes falling damage, as though she were constantly under the effect of _[[rangoric-srd/spells/Feather Fall|feather fall]]_. Additionally, she may use [[rangoric-srd/skills/Acrobatics#Flying|Acrobatics]] in place of [[rangoric-srd/skills/Athletics#Jumping|Athletics]] when making jump checks. This ability replaces [[rangoric-srd/classes/Druid#^druid-woodland-stride|woodland stride]].
 
-**Resist Storm (Ex)**: At 4th level, a sky druid gains a +4 bonus on saving throws against spells with the air or electricity descriptors and against effects that control or modify the weather (such as _[[rangoric-srd/spells/Sleet Storm|sleet storm]]_). This ability replaces [[rangoric-srd/classes/Druid#^druid-resist-natures-lure|resist nature's lure]].
+**Resist Storm (Ex)**: At 4th level, a sky druid gains a +4 bonus on defenses against spells with the air or electricity descriptors and against effects that control or modify the weather (such as _[[rangoric-srd/spells/Sleet Storm|sleet storm]]_). This ability replaces [[rangoric-srd/classes/Druid#^druid-resist-natures-lure|resist nature's lure]].
 
 **Skymaster (Su)**: At 5th level, a sky druid can use the _[[rangoric-srd/spells/Fly|fly]]_ spell (self only) for a number of minutes per day equal to her druid level. These minutes do not need to be consecutive. This ability replaces [[rangoric-srd/classes/Druid#^druid-trackless-step|trackless step]].
 
