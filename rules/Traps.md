@@ -24,7 +24,7 @@ Dangers that belong to a place rather than being built, such as bad air or a cur
 
 ##### Mechanical Traps
 
-Dungeons are frequently equipped with deadly mechanical (nonmagical) traps. A trap typically is defined by its location and triggering conditions, how hard it is to spot before it goes off, how much damage it deals, and whether or not the heroes receive a saving throw to mitigate its effects. Traps that attack with arrows, sweeping blades, and other types of weaponry make normal attack rolls, with a specific attack bonus dictated by the trap’s design.
+Dungeons are frequently equipped with deadly mechanical (nonmagical) traps. A trap typically is defined by its location and triggering conditions, how hard it is to spot before it goes off, how much damage it deals, and whether or not the heroes can defend against it to mitigate its effects. Traps that attack with arrows, sweeping blades, and other types of weaponry make normal attack rolls, with a specific attack bonus dictated by the trap’s design.
 
 Creatures who succeed on a DC 20 [[rangoric-srd/skills/Investigation|Investigation]] check detect a simple mechanical trap before it is triggered. (A simple trap is a snare, a trap triggered by a tripwire, or a large trap such as a pit.)
 
@@ -36,13 +36,13 @@ Many spells can be used to create dangerous traps. Unless the spell or item desc
 
 - A successful [[rangoric-srd/skills/Investigation|Investigation]] check (DC 25 + spell level) made by a character with [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] detects a magic trap before it goes off. Other characters have no chance to find a magic trap with an Investigation check.
 
-- Magic traps permit a saving throw in order to avoid the effect (DC 10 + spell level x 1.5).
+- Magic traps attack a defense, and a miss avoids the effect (attack bonus equal to spell level x 1.5).
 
 - Magic traps may be disarmed by a character with [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] with a successful [[rangoric-srd/skills/Engineering|Engineering]] check (DC 25 + spell level).
 
 ##### Elements of a Trap
 
-All traps—mechanical or magic—have the following elements: trigger, reset, [[rangoric-srd/skills/Investigation|Investigation]] DC, [[rangoric-srd/skills/Engineering|Engineering]] DC, attack bonus (or saving throw or onset delay), damage/effect, and Challenge Rating. Some traps may also include optional elements, such as poison or a bypass. These characteristics are described below.
+All traps—mechanical or magic—have the following elements: trigger, reset, [[rangoric-srd/skills/Investigation|Investigation]] DC, [[rangoric-srd/skills/Engineering|Engineering]] DC, attack bonus (against Armor Class or a defense, or an onset delay), damage/effect, and Challenge Rating. Some traps may also include optional elements, such as poison or a bypass. These characteristics are described below.
 
 ###### Trigger
 
@@ -112,17 +112,17 @@ The builder sets the [[rangoric-srd/skills/Investigation|Investigation]] and [[r
 
 **Magic Trap**: The DC for both Investigation and Engineering checks is equal to 25 + the spell level of the highest-level spell used. Only a character with [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] can attempt an Investigation check or an Engineering check involving a magic trap. These DCs do not affect the trap’s cost or CR.
 
-###### Attack Bonus/Saving Throw DC
+###### Attack Bonus
 
-A trap usually either makes an attack roll or forces a saving throw to avoid it. Occasionally a trap uses both of these options, or neither (see Never Miss).
+A trap usually makes an attack roll, either against Armor Class or against a defense ([[rangoric-srd/rules/Saving Throws|Saving Throws]]). Occasionally a trap uses both of these options, or neither (see Never Miss).
 
-**Pits**: These are holes (covered or not) that characters can fall into and take damage. A pit needs no attack roll, but a successful Reflex save (DC set by the builder) avoids it. Other save-dependent mechanical traps also fall into this category.
+**Pits**: These are holes (covered or not) that characters can fall into and take damage. A pit needs no attack roll against Armor Class; it attacks Reflex Defense instead (attack bonus set by the builder), and a miss avoids it. Other defense-dependent mechanical traps also fall into this category.
 
 **Pits in dungeons come in three basic varieties**: uncovered, covered, and chasms. Pits and chasms can be defeated by judicious application of the [[rangoric-srd/skills/Athletics|Athletics]] skill, the [[rangoric-srd/skills/Athletics|Athletics]] skill, or various magical means.
 
 Uncovered pits serve mainly to discourage intruders from going a certain way, although they cause much grief to characters who stumble into them in the dark, and they can greatly complicate a melee taking place nearby.
 
-Covered pits are much more dangerous. They can be detected with a DC 20 [[rangoric-srd/skills/Investigation|Investigation]] check, but only if the character is taking the time to carefully examine the area before walking across it. A character who fails to detect a covered pit is still entitled to a DC 20 Reflex save to avoid falling into it. However, if she was running or moving recklessly at the time, she gets no saving throw and falls automatically.
+Covered pits are much more dangerous. They can be detected with a DC 20 [[rangoric-srd/skills/Investigation|Investigation]] check, but only if the character is taking the time to carefully examine the area before walking across it. A character who fails to detect a covered pit can still defend against it: it attacks her Reflex Defense at +10, and if it misses, she avoids falling into it. However, if she was running or moving recklessly at the time, the pit makes no attack and she falls automatically.
 
 Trap coverings can be as simple as piled refuse (straw, leaves, sticks, garbage), a large rug, or an actual trapdoor concealed to appear as a normal part of the floor. Such a trapdoor usually swings open when enough weight (usually about 50 to 80 pounds) is placed upon it. Devious trap builders sometimes design trapdoors so that they spring back shut after they open. The trapdoor might lock once it’s back in place, leaving the stranded character well and truly trapped. Opening such a trapdoor is just as difficult as opening a regular door (assuming the trapped character can reach it), and a DC 13 Strength check is needed to keep a spring-loaded door open.
 
@@ -150,11 +150,11 @@ The effect of a trap is what happens to those who spring it. Usually this takes 
 
 A melee attack trap can be constructed with a built-in bonus on damage rolls, just as if the trap itself had a high Strength score.
 
-**Spell Traps**: Spell traps produce the spell’s effect. Like all spells, a spell trap that allows a saving throw has a save DC of 10 + spell level + caster’s relevant ability modifier.
+**Spell Traps**: Spell traps produce the spell’s effect. Like all spells, a spell trap that attacks a defense has an attack bonus of spell level + caster’s relevant ability modifier.
 
-**Magic Device Traps**: These traps produce the effects of any spells included in their construction, as described in the appropriate entries. If the spell in a magic device trap allows a saving throw, its save DC is 10 + spell level x 1.5. Some spells make attack rolls instead.
+**Magic Device Traps**: These traps produce the effects of any spells included in their construction, as described in the appropriate entries. If the spell in a magic device trap attacks a defense, its attack bonus is spell level x 1.5. Some spells make attack rolls against Armor Class instead.
 
-**Special**: Some traps have miscellaneous features that produce special effects, such as drowning for a water trap or [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|ability damage]] for poison. Saving throws and damage depend on the poison or are set by the builder, as appropriate.
+**Special**: Some traps have miscellaneous features that produce special effects, such as drowning for a water trap or [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|ability damage]] for poison. Attacks and damage depend on the poison or are set by the builder, as appropriate.
 
 ###### Miscellaneous Trap Features
 
@@ -168,7 +168,7 @@ Some traps include optional features that can make them considerably more deadly
 
 **Multiple Target**: Traps with this feature can affect more than one character.
 
-**Never Miss**: When the entire dungeon wall moves to crush you, your quick reflexes won’t help, since the wall can’t possibly miss. A trap with this feature has neither an attack bonus nor a saving throw to avoid, but it does have an onset delay (see below). Most traps involving liquid or gas are of the never miss variety.
+**Never Miss**: When the entire dungeon wall moves to crush you, your quick reflexes won’t help, since the wall can’t possibly miss. A trap with this feature has no attack bonus against Armor Class or a defense, but it does have an onset delay (see below). Most traps involving liquid or gas are of the never miss variety.
 
 **Onset Delay**: An onset delay is the amount of time between when the trap is sprung and when it deals damage. A never miss trap always has an onset delay.
 
@@ -198,9 +198,9 @@ Rangers set traps of their own, improvised on the spot and without a CR: the [[r
 
 **[[rangoric-srd/rules/traps/Bear Trap|Bear Trap]]**: CR 1; mechanical; location trigger; manual reset. Its full entry is in its note.
 
-**Camouflaged Pit Trap**: CR 1; mechanical; location trigger; manual reset; DC 20 Reflex save avoids; 10 ft. deep (1d6, fall); Investigation DC 24; Engineering DC 20. Market Price: 1,800 gp.
+**Camouflaged Pit Trap**: CR 1; mechanical; location trigger; manual reset; Atk +10 vs Reflex; 10 ft. deep (1d6, fall); Investigation DC 24; Engineering DC 20. Market Price: 1,800 gp.
 
-**Deeper Pit Trap**: CR 1; mechanical; location trigger; manual reset; hidden switch bypass (Investigation DC 25); DC 15 Reflex save avoids; 20 ft. deep (2d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); Investigation DC 20; Engineering DC 23. Market Price: 1,300 gp.
+**Deeper Pit Trap**: CR 1; mechanical; location trigger; manual reset; hidden switch bypass (Investigation DC 25); Atk +5 vs Reflex; 20 ft. deep (2d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); Investigation DC 20; Engineering DC 23. Market Price: 1,300 gp.
 
 **[[rangoric-srd/rules/traps/Dragonfire Trap|Dragonfire Trap]]**: CR 1; mechanical; location trigger; no reset. Its full entry is in its note.
 
@@ -210,7 +210,7 @@ Rangers set traps of their own, improvised on the spot and without a CR: the [[r
 
 **Fusillade of Darts**: CR 1; mechanical; location trigger; manual reset; Atk +10 ranged (1d4+1, dart); multiple targets (fires 1d4 darts at each target in two adjacent 5-ft. squares); Investigation DC 14; Engineering DC 20. Market Price: 500 gp.
 
-**Poison Dart Trap**: CR 1; mechanical; location trigger; manual reset; Atk +8 ranged (1d4 plus poison, dart); poison (bloodroot, DC 12 Fortitude save resists, 0/1d4 Con plus 1d3 Wis); Investigation DC 20; Engineering DC 18. Market Price: 700 gp.
+**Poison Dart Trap**: CR 1; mechanical; location trigger; manual reset; Atk +8 ranged (1d4 plus poison, dart); poison (bloodroot, +2 vs Fortitude, 0/1d4 Con plus 1d3 Wis); Investigation DC 20; Engineering DC 18. Market Price: 700 gp.
 
 **Poison Needle Trap**: CR 1; mechanical; touch trigger; manual reset; Atk +8 ranged (1 plus greenblood oil poison); Investigation DC 22; Engineering DC 20. Market Price: 1,300 gp.
 
@@ -238,35 +238,35 @@ Rangers set traps of their own, improvised on the spot and without a CR: the [[r
 
 **Bricks from Ceiling**: CR 2; mechanical; touch trigger; repair reset; Atk +12 melee (2d6, bricks); multiple targets (all targets in two adjacent 5-ft. squares); Investigation DC 20; Engineering DC 20. Market Price: 2,400 gp.
 
-**Burning Hands Trap**: CR 2; magic device; proximity trigger (alarm); automatic reset; spell effect (burning hands, 1st-level wizard, 1d4 fire, DC 11 Reflex save half damage); Investigation DC 26; Engineering DC 26. Cost: 500 gp, 40 XP.
+**Burning Hands Trap**: CR 2; magic device; proximity trigger (alarm); automatic reset; spell effect (burning hands, 1st-level wizard, 1d4 fire, +1 vs Reflex half); Investigation DC 26; Engineering DC 26. Cost: 500 gp, 40 XP.
 
-**Camouflaged Pit Trap**: CR 2; mechanical; location trigger; manual reset; DC 20 Reflex save avoids; 20 ft. deep (2d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); Investigation DC 24; Engineering DC 19. Market Price: 3,400 gp.
+**Camouflaged Pit Trap**: CR 2; mechanical; location trigger; manual reset; Atk +10 vs Reflex; 20 ft. deep (2d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); Investigation DC 24; Engineering DC 19. Market Price: 3,400 gp.
 
 **[[rangoric-srd/rules/traps/Dragon Dung Pit Trap|Dragon Dung Pit Trap]]**: CR 2; mechanical; location trigger; manual reset. Its full entry is in its note.
 
 **[[rangoric-srd/rules/traps/Ettercap Spear Trap|Ettercap Spear Trap]]**: CR 2; mechanical; location trigger; repair reset. Its full entry is in its note.
 
-**Inflict Light Wounds Trap**: CR 2; magic device; touch trigger; automatic reset; spell effect (inflict light wounds, 1st-level cleric, 1d8+1, DC 11 Will save half damage); Investigation DC 26; Engineering DC 26. Cost: 500 gp, 40 XP.
+**Inflict Light Wounds Trap**: CR 2; magic device; touch trigger; automatic reset; spell effect (inflict light wounds, 1st-level cleric, 1d8+1, +1 vs Will half); Investigation DC 26; Engineering DC 26. Cost: 500 gp, 40 XP.
 
 **Javelin Trap**: CR 2; mechanical; location trigger; manual reset; Atk +16 ranged (1d6+4, javelin); Investigation DC 20; Engineering DC 18. Market Price: 4,800 gp.
 
-**Large Net Trap**: CR 2; mechanical; location trigger; manual reset; Atk +5 melee (see note); Investigation DC 20; Engineering DC 25. Note: Characters in 10-ft. square are grappled by net (Str 18) if they fail a DC 14 Reflex save. Market Price: 3,000 gp.
+**Large Net Trap**: CR 2; mechanical; location trigger; manual reset; Atk +5 melee (see note); Investigation DC 20; Engineering DC 25. Note: Characters in 10-ft. square are grappled by net (Str 18) if they fail their save against +4 vs Reflex. Market Price: 3,000 gp.
 
-**Pit Trap**: CR 2; mechanical, location trigger; manual reset; DC 20 Reflex save avoids; 40 ft. deep (4d6, fall); Investigation DC 20; Engineering DC 20. Market Price: 2,000 gp.
+**Pit Trap**: CR 2; mechanical, location trigger; manual reset; Atk +10 vs Reflex; 40 ft. deep (4d6, fall); Investigation DC 20; Engineering DC 20. Market Price: 2,000 gp.
 
-**Poison Needle Trap**: CR 2; mechanical; touch trigger; repair reset; lock bypass (Sleight of Hand DC 30); Atk +17 melee (1 plus poison, needle); poison (blue whinnis, DC 14 Fortitude save resists (poison only), 1 Con/unconsciousness); Investigation DC 22; Engineering DC 17. Market Price: 4,720 gp.
+**Poison Needle Trap**: CR 2; mechanical; touch trigger; repair reset; lock bypass (Sleight of Hand DC 30); Atk +17 melee (1 plus poison, needle); poison (blue whinnis, +4 vs Fortitude (poison only), 1 Con/unconsciousness); Investigation DC 22; Engineering DC 17. Market Price: 4,720 gp.
 
-**Spiked Pit Trap**: CR 2; mechanical; location trigger; automatic reset; DC 20 Reflex save avoids; 20 ft. deep (2d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); pit spikes (Atk +10 melee, 1d4 spikes per target for 1d4+2 each); Investigation DC 18; Engineering DC 15. Market Price: 1,600 gp.
+**Spiked Pit Trap**: CR 2; mechanical; location trigger; automatic reset; Atk +10 vs Reflex; 20 ft. deep (2d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); pit spikes (Atk +10 melee, 1d4 spikes per target for 1d4+2 each); Investigation DC 18; Engineering DC 15. Market Price: 1,600 gp.
 
 **Tripping Chain**: CR 2; mechanical; location trigger; automatic reset; multiple traps (tripping and melee attack); Atk +15 melee touch (trip), Atk +15 melee (2d4+2, spiked chain); Investigation DC 15; Engineering DC 18. Market Price: 3,800 gp. Note: This trap is really one CR 1 trap that trips and a second CR 1 trap that attacks with a spiked chain. If the tripping attack succeeds, a +4 bonus applies to the spiked chain attack because the opponent is prone.
 
-**Well-Camouflaged Pit Trap**: CR 2; mechanical; location trigger; repair reset; DC 20 Reflex save avoids; 10 ft. deep (1d6, fall); Investigation DC 27; Engineering DC 20. Market Price: 4,400 gp.
+**Well-Camouflaged Pit Trap**: CR 2; mechanical; location trigger; repair reset; Atk +10 vs Reflex; 10 ft. deep (1d6, fall); Investigation DC 27; Engineering DC 20. Market Price: 4,400 gp.
 
 ###### CR 3 Traps
 
-**Burning Hands Trap**: CR 3; magic device; proximity trigger (alarm); automatic reset; spell effect (burning hands, 5th-level wizard, 5d4 fire, DC 11 Reflex save half damage); Investigation DC 26; Engineering DC 26. Cost: 2,500 gp, 200 XP.
+**Burning Hands Trap**: CR 3; magic device; proximity trigger (alarm); automatic reset; spell effect (burning hands, 5th-level wizard, 5d4 fire, +1 vs Reflex half); Investigation DC 26; Engineering DC 26. Cost: 2,500 gp, 200 XP.
 
-**Camouflaged Pit Trap**: CR 3; mechanical; location trigger; manual reset; DC 20 Reflex save avoids; 30 ft. deep (3d6, fall); multiple targets (first target in each of two adjacent squares); Investigation DC 24; Engineering DC 18. Market Price: 4,800 gp.
+**Camouflaged Pit Trap**: CR 3; mechanical; location trigger; manual reset; Atk +10 vs Reflex; 30 ft. deep (3d6, fall); multiple targets (first target in each of two adjacent squares); Investigation DC 24; Engineering DC 18. Market Price: 4,800 gp.
 
 **Ceiling Pendulum**: CR 3; mechanical; timed trigger; automatic reset; Atk +15 melee (1d12+8/x3, greataxe); Investigation DC 15; Engineering DC 27. Market Price: 14,100 gp.
 
@@ -274,73 +274,73 @@ Rangers set traps of their own, improvised on the spot and without a CR: the [[r
 
 **[[rangoric-srd/rules/traps/Falling Log Trap|Falling Log Trap]]**: CR 3; mechanical; location trigger; repair reset. Its full entry is in its note.
 
-**Fire Trap**: CR 3; spell; spell trigger; no reset; spell effect (fire trap, 3rd-level druid, 1d4+3 fire, DC 13 Reflex save half damage); Investigation DC 27; Engineering DC 27. Cost: 85 gp to hire NPC spellcaster.
+**Fire Trap**: CR 3; spell; spell trigger; no reset; spell effect (fire trap, 3rd-level druid, 1d4+3 fire, +3 vs Reflex half); Investigation DC 27; Engineering DC 27. Cost: 85 gp to hire NPC spellcaster.
 
-**Extended Bane Trap**: CR 3; magic device; proximity trigger (detect good); automatic reset; spell effect (extended bane, 3rd-level cleric, DC 13 Will save negates); Investigation DC 27; Engineering DC 27. Cost: 3,500 gp, 280 XP.
+**Extended Bane Trap**: CR 3; magic device; proximity trigger (detect good); automatic reset; spell effect (extended bane, 3rd-level cleric, +3 vs Will); Investigation DC 27; Engineering DC 27. Cost: 3,500 gp, 280 XP.
 
-**Ghoul Touch Trap**: CR 3; magic device; touch trigger; automatic reset; spell effect (ghoul touch, 3rd-level wizard, DC 13 Fortitude save negates); Investigation DC 27; Engineering DC 27. Cost: 3,000 gp, 240 XP.
+**Ghoul Touch Trap**: CR 3; magic device; touch trigger; automatic reset; spell effect (ghoul touch, 3rd-level wizard, +3 vs Fortitude); Investigation DC 27; Engineering DC 27. Cost: 3,000 gp, 240 XP.
 
 **Hail of Needles**: CR 3; mechanical; location trigger; manual reset; Atk +20 ranged (2d4); Investigation DC 22; Engineering DC 22. Market Price: 5,400 gp.
 
 **Acid Arrow Trap**: CR 3; magic device; proximity trigger (alarm); automatic reset; Atk +2 ranged touch; spell effect (acid arrow, 3rd-level wizard, 2d4 acid/round for 2 rounds); Investigation DC 27; Engineering DC 27. Cost: 3,000 gp, 240 XP.
 
-**Pit Trap**: CR 3; mechanical, location trigger; manual reset; DC 20 Reflex save avoids; 60 ft. deep (6d6, fall); Investigation DC 20; Engineering DC 20. Market Price: 3,000 gp.
+**Pit Trap**: CR 3; mechanical, location trigger; manual reset; Atk +10 vs Reflex; 60 ft. deep (6d6, fall); Investigation DC 20; Engineering DC 20. Market Price: 3,000 gp.
 
-**Poisoned Arrow Trap**: CR 3; mechanical; touch trigger; manual reset; lock bypass (Sleight of Hand DC 30); Atk +12 ranged (1d8 plus poison, arrow); poison (Large monstrous scorpion venom, DC 14 Fortitude save resists, 1d4 Con/1d4 Con); Investigation DC 19; Engineering DC 15. Market Price: 2,900 gp.
+**Poisoned Arrow Trap**: CR 3; mechanical; touch trigger; manual reset; lock bypass (Sleight of Hand DC 30); Atk +12 ranged (1d8 plus poison, arrow); poison (Large monstrous scorpion venom, +4 vs Fortitude, 1d4 Con/1d4 Con); Investigation DC 19; Engineering DC 15. Market Price: 2,900 gp.
 
 **[[rangoric-srd/rules/traps/Snake Spear Trap|Snake Spear Trap]]**: CR 3; mechanical; location trigger; repair reset. Its full entry is in its note.
 
-**Spiked Pit Trap**: CR 3; mechanical; location trigger; manual reset; DC 20 Reflex save avoids; 20 ft. deep (2d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); pit spikes (Atk +10 melee, 1d4 spikes per target for 1d4+2 each); Investigation DC 21; Engineering DC 20. Market Price: 3,600 gp.
+**Spiked Pit Trap**: CR 3; mechanical; location trigger; manual reset; Atk +10 vs Reflex; 20 ft. deep (2d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); pit spikes (Atk +10 melee, 1d4 spikes per target for 1d4+2 each); Investigation DC 21; Engineering DC 20. Market Price: 3,600 gp.
 
 **Stone Blocks from Ceiling**: CR 3; mechanical; location trigger; repair reset; Atk +10 melee (4d6, stone blocks); Investigation DC 25; Engineering DC 20. Market Price: 5,400 gp.
 
 ###### CR 4 Traps
 
-**Bestow Curse Trap**: CR 4; magic device; touch trigger (detect chaos); automatic reset; spell effect (bestow curse, 5th-level cleric, DC 14 Will save negates); Investigation DC 28; Engineering DC 28. Cost: 8,000 gp, 640 XP.
+**Bestow Curse Trap**: CR 4; magic device; touch trigger (detect chaos); automatic reset; spell effect (bestow curse, 5th-level cleric, +4 vs Will); Investigation DC 28; Engineering DC 28. Cost: 8,000 gp, 640 XP.
 
 Its curse, as an [[rangoric-srd/rules/Afflictions#The Affliction Block|affliction]]:
 
 - **Type**: curse (spell, trap)
-- **Save**: Will DC 14 negates
+- **Attack**: +4 vs Will
 - **Effect**: –6 penalty to Strength
 
-**Camouflaged Pit Trap**: CR 4; mechanical; location trigger; manual reset; DC 20 Reflex save avoids; 40 ft. deep (4d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); Investigation DC 25; Engineering DC 17. Market Price: 6,800 gp.
+**Camouflaged Pit Trap**: CR 4; mechanical; location trigger; manual reset; Atk +10 vs Reflex; 40 ft. deep (4d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); Investigation DC 25; Engineering DC 17. Market Price: 6,800 gp.
 
 **Collapsing Column**: CR 4; mechanical; touch trigger (attached); no reset; Atk +15 melee (6d6, stone blocks); Investigation DC 20; Engineering DC 24. Market Price: 8,800 gp.
 
 **[[rangoric-srd/rules/traps/Electricity Arc Trap|Electricity Arc Trap]]**: CR 4; mechanical; touch trigger; no reset. Its full entry is in its note.
 
-**Glyph of Warding (Blast)**: CR 4; spell; spell trigger; no reset; spell effect (glyph of warding \[blast\], 5th-level cleric, 2d8 acid, DC 14 Reflex save half damage); multiple targets (all targets within 5 ft.); Investigation DC 28; Engineering DC 28. Cost: 350 gp to hire NPC spellcaster.
+**Glyph of Warding (Blast)**: CR 4; spell; spell trigger; no reset; spell effect (glyph of warding \[blast\], 5th-level cleric, 2d8 acid, +4 vs Reflex half); multiple targets (all targets within 5 ft.); Investigation DC 28; Engineering DC 28. Cost: 350 gp to hire NPC spellcaster.
 
-**Lightning Bolt Trap**: CR 4; magic device; proximity trigger (alarm); automatic reset; spell effect (lightning bolt, 5th-level wizard, 5d6 electricity, DC 14 Reflex save half damage); Investigation DC 28; Engineering DC 28. Cost: 7,500 gp, 600 XP.
+**Lightning Bolt Trap**: CR 4; magic device; proximity trigger (alarm); automatic reset; spell effect (lightning bolt, 5th-level wizard, 5d6 electricity, +4 vs Reflex half); Investigation DC 28; Engineering DC 28. Cost: 7,500 gp, 600 XP.
 
-**Pit Trap**: CR 4; mechanical, location trigger; manual reset; DC 20 Reflex save avoids; 80 ft. deep (8d6, fall); Investigation DC 20; Engineering DC 20. Market Price: 4,000 gp.
+**Pit Trap**: CR 4; mechanical, location trigger; manual reset; Atk +10 vs Reflex; 80 ft. deep (8d6, fall); Investigation DC 20; Engineering DC 20. Market Price: 4,000 gp.
 
-**Poisoned Dart Trap**: CR 4; mechanical; location trigger; manual reset; Atk +15 ranged (1d4+4 plus poison, dart); multiple targets (1 dart per target in a 10-ft.-by-10-ft. area); poison (Small monstrous centipede poison, DC 10 Fortitude save resists, 1d2 Dex/1d2 Dex); Investigation DC 21; Engineering DC 22. Market Price: 12,090 gp.
+**Poisoned Dart Trap**: CR 4; mechanical; location trigger; manual reset; Atk +15 ranged (1d4+4 plus poison, dart); multiple targets (1 dart per target in a 10-ft.-by-10-ft. area); poison (Small monstrous centipede poison, +0 vs Fortitude, 1d2 Dex/1d2 Dex); Investigation DC 21; Engineering DC 22. Market Price: 12,090 gp.
 
 **[[rangoric-srd/rules/traps/Rotting Badger Under a Falling Rock Trap|Rotting Badger Under a Falling Rock Trap]]**: CR 4; mechanical; location trigger; repair reset. Its full entry is in its note.
 
-**Sepia Snake Sigil Trap**: CR 4; spell; spell trigger; no reset; spell effect (sepia snake sigil, 5th-level wizard, DC 14 Reflex save negates); Investigation DC 28; Engineering DC 28. Cost: 650 gp to hire NPC spellcaster.
+**Sepia Snake Sigil Trap**: CR 4; spell; spell trigger; no reset; spell effect (sepia snake sigil, 5th-level wizard, +4 vs Reflex); Investigation DC 28; Engineering DC 28. Cost: 650 gp to hire NPC spellcaster.
 
-**Spiked Pit Trap**: CR 4; mechanical; location trigger; automatic reset; DC 20 Reflex save avoids; 60 ft. deep (6d6, fall); pit spikes (Atk +10 melee, 1d4 spikes per target for 1d4+5 each); Investigation DC 20; Engineering DC 20. Market Price: 4,000 gp.
+**Spiked Pit Trap**: CR 4; mechanical; location trigger; automatic reset; Atk +10 vs Reflex; 60 ft. deep (6d6, fall); pit spikes (Atk +10 melee, 1d4 spikes per target for 1d4+5 each); Investigation DC 20; Engineering DC 20. Market Price: 4,000 gp.
 
 **Wall Scythe Trap**: CR 4; mechanical; location trigger; automatic reset; Atk +20 melee (2d4+8/x4, scythe); Investigation DC 21; Engineering DC 18. Market Price: 17,200 gp.
 
 **Water-Filled Room Trap**: CR 4; mechanical; location trigger; automatic reset; multiple targets (all targets in a 10-ft.-by-10-ft. room); never miss; onset delay (5 rounds); liquid; Investigation DC 17; Engineering DC 23. Market Price: 11,200 gp.
 
-**Wide-Mouth Spiked Pit Trap**: CR 4; mechanical; location trigger; manual reset; DC 20 Reflex save avoids; 20 ft. deep (2d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); pit spikes (Atk +10 melee, 1d4 spikes per target for 1d4+2 each); Investigation DC 18; Engineering DC 25. Market Price: 7,200 gp.
+**Wide-Mouth Spiked Pit Trap**: CR 4; mechanical; location trigger; manual reset; Atk +10 vs Reflex; 20 ft. deep (2d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); pit spikes (Atk +10 melee, 1d4 spikes per target for 1d4+2 each); Investigation DC 18; Engineering DC 25. Market Price: 7,200 gp.
 
 ###### CR 5 Traps
 
-**Camouflaged Pit Trap**: CR 5; mechanical; location trigger; manual reset; DC 20 Reflex save avoids; 50 ft. deep (5d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); Investigation DC 25; Engineering DC 17. Market Price: 8,500 gp.
+**Camouflaged Pit Trap**: CR 5; mechanical; location trigger; manual reset; Atk +10 vs Reflex; 50 ft. deep (5d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); Investigation DC 25; Engineering DC 17. Market Price: 8,500 gp.
 
-**Doorknob Smeared with Contact Poison**: CR 5; mechanical; touch trigger (attached); manual reset; poison (nitharit, DC 13 Fortitude save resists, 0/3d6 Con); Investigation DC 25; Engineering DC 19. Market Price: 9,650 gp.
+**Doorknob Smeared with Contact Poison**: CR 5; mechanical; touch trigger (attached); manual reset; poison (nitharit, +3 vs Fortitude, 0/3d6 Con); Investigation DC 25; Engineering DC 19. Market Price: 9,650 gp.
 
 **Falling Block Trap**: CR 5; mechanical; location trigger; manual reset; Atk +15 melee (6d6); multiple targets (can strike all characters in two adjacent specified squares); Investigation DC 20; Engineering DC 25. Market Price: 15,000 gp.
 
-**Fire Trap**: CR 5; spell; spell trigger; no reset; spell effect (fire trap, 7th-level wizard, 1d4+7 fire, DC 16 Reflex save half damage); Investigation DC 29; Engineering DC 29. Cost: 305 gp to hire NPC spellcaster.
+**Fire Trap**: CR 5; spell; spell trigger; no reset; spell effect (fire trap, 7th-level wizard, 1d4+7 fire, +6 vs Reflex half); Investigation DC 29; Engineering DC 29. Cost: 305 gp to hire NPC spellcaster.
 
-**Fireball Trap**: CR 5; magic device; touch trigger; automatic reset; spell effect (fireball, 8th-level wizard, 8d6 fire, DC 14 Reflex save half damage); Investigation DC 28; Engineering DC 28. Cost: 12,000 gp, 960 XP.
+**Fireball Trap**: CR 5; magic device; touch trigger; automatic reset; spell effect (fireball, 8th-level wizard, 8d6 fire, +4 vs Reflex half); Investigation DC 28; Engineering DC 28. Cost: 12,000 gp, 960 XP.
 
 **Flooding Room Trap**: CR 5; mechanical; proximity trigger; automatic reset; no attack roll necessary (see note below); Investigation DC 20; Engineering DC 25. Note: Room floods in 4 rounds. Market Price: 17,500 gp.
 
@@ -348,17 +348,17 @@ Its curse, as an [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictio
 
 **Moving Executioner Statue**: CR 5; mechanical; location trigger; automatic reset; hidden switch bypass (Investigation DC 25); Atk +16 melee (1d12+8/x3, greataxe); multiple targets (both arms attack); Investigation DC 25; Engineering DC 18. Market Price: 22,500 gp.
 
-**Phantasmal Killer Trap**: CR 5; magic device; proximity trigger (alarm covering the entire room); automatic reset; spell effect (phantasmal killer, 7th-level wizard, DC 16 Will save for disbelief and DC 16 Fort save for partial effect); Investigation DC 29; Engineering DC 29. Cost: 14,000 gp, 1,120 XP.
+**Phantasmal Killer Trap**: CR 5; magic device; proximity trigger (alarm covering the entire room); automatic reset; spell effect (phantasmal killer, 7th-level wizard, +6 vs Will disbelief and +6 vs Fortitude partial); Investigation DC 29; Engineering DC 29. Cost: 14,000 gp, 1,120 XP.
 
-**Pit Trap**: CR 5; mechanical, location trigger; manual reset; DC 20 Reflex save avoids; 100 ft. deep (10d6, fall); Investigation DC 20; Engineering DC 20. Market Price: 5,000 gp.
+**Pit Trap**: CR 5; mechanical, location trigger; manual reset; Atk +10 vs Reflex; 100 ft. deep (10d6, fall); Investigation DC 20; Engineering DC 20. Market Price: 5,000 gp.
 
-**Poison Wall Spikes**: CR 5; mechanical; location trigger; manual reset; Atk +16 melee (1d8+4 plus poison, spike); multiple targets (closest target in each of two adjacent 5-ft. squares); poison (Medium monstrous spider venom, DC 12 Fortitude save resists, 1d4 Str/1d4 Str); Investigation DC 17; Engineering DC 21. Market Price: 12,650 gp.
+**Poison Wall Spikes**: CR 5; mechanical; location trigger; manual reset; Atk +16 melee (1d8+4 plus poison, spike); multiple targets (closest target in each of two adjacent 5-ft. squares); poison (Medium monstrous spider venom, +2 vs Fortitude, 1d4 Str/1d4 Str); Investigation DC 17; Engineering DC 21. Market Price: 12,650 gp.
 
-**Spiked Pit Trap**: CR 5; mechanical; location trigger; manual reset; DC 25 Reflex save avoids; 40 ft. deep (4d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); pit spikes (Atk +10 melee, 1d4 spikes per target for 1d4+4 each); Investigation DC 21; Engineering DC 20. Market Price: 13,500 gp.
+**Spiked Pit Trap**: CR 5; mechanical; location trigger; manual reset; Atk +15 vs Reflex; 40 ft. deep (4d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); pit spikes (Atk +10 melee, 1d4 spikes per target for 1d4+4 each); Investigation DC 21; Engineering DC 20. Market Price: 13,500 gp.
 
-**Spiked Pit Trap (80 Ft. Deep)**: CR 5; mechanical; location trigger, manual reset; DC 20 Reflex save avoids; 80 ft. deep (8d6, fall), pit spikes (Atk +10 melee, 1d4 spikes for 1d4+5 each); Investigation DC 20; Engineering DC 20. Market Price: 5,000 gp.
+**Spiked Pit Trap (80 Ft. Deep)**: CR 5; mechanical; location trigger, manual reset; Atk +10 vs Reflex; 80 ft. deep (8d6, fall), pit spikes (Atk +10 melee, 1d4 spikes for 1d4+5 each); Investigation DC 20; Engineering DC 20. Market Price: 5,000 gp.
 
-**Ungol Dust Vapor Trap**: CR 5; mechanical; location trigger; manual reset; gas; multiple targets (all targets in a 10-ft.-by-10-ft. room); never miss; onset delay (2 rounds); poison (ungol dust, DC 15 Fortitude save resists, 1 Cha/1d6 Cha plus 1 Cha drain); Investigation DC 20; Engineering DC 16. Market Price: 9,000 gp.
+**Ungol Dust Vapor Trap**: CR 5; mechanical; location trigger; manual reset; gas; multiple targets (all targets in a 10-ft.-by-10-ft. room); never miss; onset delay (2 rounds); poison (ungol dust, +5 vs Fortitude, 1 Cha/1d6 Cha plus 1 Cha drain); Investigation DC 20; Engineering DC 16. Market Price: 9,000 gp.
 
 ###### CR 6 Traps
 
@@ -366,87 +366,87 @@ Its curse, as an [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictio
 
 **Compacting Room**: CR 6; mechanical; timed trigger; automatic reset; hidden switch bypass (Investigation DC 25); walls move together (12d6, crush); multiple targets (all targets in a 10-ft.-by- 10-ft. room); never miss; onset delay (4 rounds); Investigation DC 20; Engineering DC 22. Market Price: 25,200 gp.
 
-**Flame Strike Trap**: CR 6; magic device; proximity trigger (detect magic); automatic reset; spell effect (flame strike, 9th-level cleric, 9d6 fire, DC 17 Reflex save half damage); Investigation DC 30; Engineering DC 30. Cost: 22,750 gp, 1,820 XP.
+**Flame Strike Trap**: CR 6; magic device; proximity trigger (detect magic); automatic reset; spell effect (flame strike, 9th-level cleric, 9d6 fire, +7 vs Reflex half); Investigation DC 30; Engineering DC 30. Cost: 22,750 gp, 1,820 XP.
 
 **Fusillade of Spears**: CR 6; mechanical; proximity trigger; repair reset; Atk +21 ranged (1d8, spear); multiple targets (1d6 spears per target in a 10 ft.-by-10-ft. area); Investigation DC 26; Engineering DC 20. Market Price: 31,200 gp.
 
-**Glyph of Warding (Blast)**: CR 6; spell; spell trigger; no reset; spell effect (glyph of warding \[blast\], 16th-level cleric, 8d8 sonic, DC 14 Reflex save half damage); multiple targets (all targets within 5 ft.); Investigation DC 28; Engineering DC 28. Cost: 680 gp to hire NPC spellcaster.
+**Glyph of Warding (Blast)**: CR 6; spell; spell trigger; no reset; spell effect (glyph of warding \[blast\], 16th-level cleric, 8d8 sonic, +4 vs Reflex half); multiple targets (all targets within 5 ft.); Investigation DC 28; Engineering DC 28. Cost: 680 gp to hire NPC spellcaster.
 
-**Lightning Bolt Trap**: CR 6; magic device; proximity trigger (alarm); automatic reset; spell effect (lightning bolt, 10th-level wizard, 10d6 electricity, DC 14 Reflex save half damage); Investigation DC 28; Engineering DC 28. Cost: 15,000 gp, 1,200 XP.
+**Lightning Bolt Trap**: CR 6; magic device; proximity trigger (alarm); automatic reset; spell effect (lightning bolt, 10th-level wizard, 10d6 electricity, +4 vs Reflex half); Investigation DC 28; Engineering DC 28. Cost: 15,000 gp, 1,200 XP.
 
 **Spiked Blocks from Ceiling**: CR 6; mechanical; location trigger; repair reset; Atk +20 melee (6d6, spikes); multiple targets (all targets in a 10-ft.-by-10-ft. area); Investigation DC 24; Engineering DC 20. Market Price: 21,600 gp.
 
-**Spiked Pit Trap (100 Ft. Deep)**: CR 6; mechanical; location trigger, manual reset; DC 20 Reflex save avoids; 100 ft. deep (10d6, fall); pit spikes (Atk +10 melee, 1d4 spikes per target for 1d4+5 each); Investigation DC 20; Engineering DC 20. Market Price: 6,000 gp.
+**Spiked Pit Trap (100 Ft. Deep)**: CR 6; mechanical; location trigger, manual reset; Atk +10 vs Reflex; 100 ft. deep (10d6, fall); pit spikes (Atk +10 melee, 1d4 spikes per target for 1d4+5 each); Investigation DC 20; Engineering DC 20. Market Price: 6,000 gp.
 
-**Whirling Poison Blades**: CR 6; mechanical; timed trigger; automatic reset; hidden lock bypass (Investigation DC 25, Sleight of Hand DC 30); Atk +10 melee (1d4+4/19–20 plus poison, dagger); poison (purple worm poison, DC 24 Fortitude save resists, 1d6 Str/2d6 Str); multiple targets (one target in each of three preselected 5-ft. squares); Investigation DC 20; Engineering DC 20. Market Price: 30,200 gp.
+**Whirling Poison Blades**: CR 6; mechanical; timed trigger; automatic reset; hidden lock bypass (Investigation DC 25, Sleight of Hand DC 30); Atk +10 melee (1d4+4/19–20 plus poison, dagger); poison (purple worm poison, +14 vs Fortitude, 1d6 Str/2d6 Str); multiple targets (one target in each of three preselected 5-ft. squares); Investigation DC 20; Engineering DC 20. Market Price: 30,200 gp.
 
-**Wide-Mouth Pit Trap**: CR 6; mechanical; location trigger, manual reset; DC 25 Reflex save avoids; 40 ft. deep (4d6, fall); multiple targets (all targets within a 10-ft.-by-10-ft. area); Investigation DC 26; Engineering DC 25. Market Price: 28,200 gp.
+**Wide-Mouth Pit Trap**: CR 6; mechanical; location trigger, manual reset; Atk +15 vs Reflex; 40 ft. deep (4d6, fall); multiple targets (all targets within a 10-ft.-by-10-ft. area); Investigation DC 26; Engineering DC 25. Market Price: 28,200 gp.
 
-**Wyvern Arrow Trap**: CR 6; mechanical; proximity trigger; manual reset; Atk +14 ranged (1d8 plus poison, arrow); poison (wyvern poison, DC 17 Fortitude save resists, 2d6 Con/2d6 Con); Investigation DC 20; Engineering DC 16. Market Price: 17,400 gp.
+**Wyvern Arrow Trap**: CR 6; mechanical; proximity trigger; manual reset; Atk +14 ranged (1d8 plus poison, arrow); poison (wyvern poison, +7 vs Fortitude, 2d6 Con/2d6 Con); Investigation DC 20; Engineering DC 16. Market Price: 17,400 gp.
 
 ###### CR 7 Traps
 
 **Acid Fog Trap**: CR 7; magic device; proximity trigger (alarm); automatic reset; spell effect (acid fog, 11th-level wizard, 2d6/round acid for 11 rounds); Investigation DC 31; Engineering DC 31. Cost: 33,000 gp, 2,640 XP.
 
-**Blade Barrier Trap**: CR 7; magic device; proximity trigger (alarm); automatic reset; spell effect (blade barrier, 11th-level cleric, 11d6 slashing, DC 19 Reflex save half damage); Investigation DC 31; Engineering DC 31. Cost: 33,000 gp, 2,640 XP.
+**Blade Barrier Trap**: CR 7; magic device; proximity trigger (alarm); automatic reset; spell effect (blade barrier, 11th-level cleric, 11d6 slashing, +9 vs Reflex half); Investigation DC 31; Engineering DC 31. Cost: 33,000 gp, 2,640 XP.
 
-**Burnt Othur Vapor Trap**: CR 7; mechanical; location trigger; repair reset; gas; multiple targets (all targets in a 10-ft.-by-10-ft. room); never miss; onset delay (3 rounds); poison (burnt othur fumes, DC 18 Fortitude save resists, 1 Con drain/3d6 Con); Investigation DC 21; Engineering DC 21. Market Price: 17,500 gp.
+**Burnt Othur Vapor Trap**: CR 7; mechanical; location trigger; repair reset; gas; multiple targets (all targets in a 10-ft.-by-10-ft. room); never miss; onset delay (3 rounds); poison (burnt othur fumes, +8 vs Fortitude, 1 Con drain/3d6 Con); Investigation DC 21; Engineering DC 21. Market Price: 17,500 gp.
 
-**Chain Lightning Trap**: CR 7; magic device; proximity trigger (alarm); automatic reset; spell effect (chain lightning, 11th-level wizard, 11d6 electricity to target nearest center of trigger area plus 5d6 electricity to each of up to eleven secondary targets, DC 19 Reflex save half damage); Investigation DC 31; Engineering DC 31. Cost: 33,000 gp, 2,640 XP.
+**Chain Lightning Trap**: CR 7; magic device; proximity trigger (alarm); automatic reset; spell effect (chain lightning, 11th-level wizard, 11d6 electricity to target nearest center of trigger area plus 5d6 electricity to each of up to eleven secondary targets, +9 vs Reflex half); Investigation DC 31; Engineering DC 31. Cost: 33,000 gp, 2,640 XP.
 
 **Black Tentacles Trap**: CR 7; magic device; proximity trigger (alarm); no reset; spell effect (black tentacles, 7th-level wizard, 1d4+7 tentacles, Atk +7 melee \[1d6+4, tentacle\]); multiple targets (up to six tentacles per target in each of two adjacent 5-ft. squares); Investigation DC 29; Engineering DC 29. Cost: 1,400 gp, 112 XP.
 
 **[[rangoric-srd/rules/traps/Frost Fangs Trap|Frost Fangs Trap]]**: CR 7; mechanical; location trigger; no reset. Its full entry is in its note.
 
-**Fusillade of Greenblood Oil Darts**: CR 7; mechanical; location trigger; manual reset; Atk +18 ranged (1d4+1 plus poison, dart); poison (greenblood oil, DC 13 Fortitude save resists, 1 Con/ 1d2 Con); multiple targets (1d8 darts per target in a 10-ft.-by-10-ft. area); Investigation DC 25; Engineering DC 25. Market Price: 33,000 gp.
+**Fusillade of Greenblood Oil Darts**: CR 7; mechanical; location trigger; manual reset; Atk +18 ranged (1d4+1 plus poison, dart); poison (greenblood oil, +3 vs Fortitude, 1 Con/ 1d2 Con); multiple targets (1d8 darts per target in a 10-ft.-by-10-ft. area); Investigation DC 25; Engineering DC 25. Market Price: 33,000 gp.
 
-**Lock Covered in Dragon Bile**: CR 7; mechanical; touch trigger (attached); no reset; poison (dragon bile, DC 26 Fortitude save resists, 3d6 Str/0); Investigation DC 27; Engineering DC 16. Market Price: 11,300 gp.
+**Lock Covered in Dragon Bile**: CR 7; mechanical; touch trigger (attached); no reset; poison (dragon bile, +16 vs Fortitude, 3d6 Str/0); Investigation DC 27; Engineering DC 16. Market Price: 11,300 gp.
 
 **Summon Monster VI Trap**: CR 7; magic device; proximity trigger (alarm); no reset; spell effect (summon monster VI, 11th-level wizard), Investigation DC 31; Engineering DC 31. Cost: 3,300 gp, 264 XP.
 
 **Water-Filled Room**: CR 7; mechanical; location trigger; manual reset; multiple targets (all targets in a 10-ft.-by-10-ft. room); never miss; onset delay (3 rounds); water; Investigation DC 20; Engineering DC 25. Market Price: 21,000 gp.
 
-**Well-Camouflaged Pit Trap**: CR 7; mechanical; location trigger; repair reset; DC 25 Reflex save avoids; 70 ft. deep (7d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); Investigation DC 27; Engineering DC 18. Market Price: 24,500 gp.
+**Well-Camouflaged Pit Trap**: CR 7; mechanical; location trigger; repair reset; Atk +15 vs Reflex; 70 ft. deep (7d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); Investigation DC 27; Engineering DC 18. Market Price: 24,500 gp.
 
 ###### CR 8 Traps
 
 **[[rangoric-srd/rules/traps/Camouflaged Spiked Pit Trap|Camouflaged Spiked Pit Trap]]**: CR 8; mechanical; location trigger; manual reset. Its full entry is in its note.
 
-**Deathblade Wall Scythe**: CR 8; mechanical; touch trigger; manual reset; Atk +16 melee (2d4+8 plus poison, scythe); poison (deathblade, DC 20 Fortitude save resists, 1d6 Con/2d6 Con); Investigation DC 24; Engineering DC 19. Market Price: 31,400 gp.
+**Deathblade Wall Scythe**: CR 8; mechanical; touch trigger; manual reset; Atk +16 melee (2d4+8 plus poison, scythe); poison (deathblade, +10 vs Fortitude, 1d6 Con/2d6 Con); Investigation DC 24; Engineering DC 19. Market Price: 31,400 gp.
 
-**Destruction Trap**: CR 8; magic device; touch trigger (alarm); automatic reset; spell effect (destruction, 13th-level cleric, DC 20 Fortitude save for 10d6 damage); Investigation DC 32; Engineering DC 32. Cost: 45,500 gp, 3,640 XP.
+**Destruction Trap**: CR 8; magic device; touch trigger (alarm); automatic reset; spell effect (destruction, 13th-level cleric, +10 vs Fortitude partial, 10d6 damage on a miss); Investigation DC 32; Engineering DC 32. Cost: 45,500 gp, 3,640 XP.
 
-**Earthquake Trap**: CR 8; magic device; proximity trigger (alarm); automatic reset; spell effect (earthquake, 13th-level cleric, 65-ft. radius, DC 15 or 20 Reflex save, depending on terrain); Investigation DC 32; Engineering DC 32. Cost: 45,500 gp, 3,640 XP.
+**Earthquake Trap**: CR 8; magic device; proximity trigger (alarm); automatic reset; spell effect (earthquake, 13th-level cleric, 65-ft. radius, +5 or +10 vs Reflex, depending on terrain); Investigation DC 32; Engineering DC 32. Cost: 45,500 gp, 3,640 XP.
 
-**Insanity Mist Vapor Trap**: CR 8; mechanical; location trigger; repair reset; gas; never miss; onset delay (1 round); poison (insanity mist, DC 15 Fortitude save resists, 1d4 Wis/2d6 Wis); multiple targets (all targets in a 10-ft.-by-10-ft. room); Investigation DC 25; Engineering DC 20. Market Price: 23,900 gp. Note: Also called an insanity mist trap.
+**Insanity Mist Vapor Trap**: CR 8; mechanical; location trigger; repair reset; gas; never miss; onset delay (1 round); poison (insanity mist, +5 vs Fortitude, 1d4 Wis/2d6 Wis); multiple targets (all targets in a 10-ft.-by-10-ft. room); Investigation DC 25; Engineering DC 20. Market Price: 23,900 gp. Note: Also called an insanity mist trap.
 
 **Acid Arrow Trap**: CR 8; magic device; visual trigger (true seeing); automatic reset; multiple traps (two simultaneous acid arrow traps); Atk +9 ranged touch and +9 ranged touch; spell effect (acid arrow, 18th-level wizard, 2d4 acid damage for 7 rounds); Investigation DC 27; Engineering DC 27. Cost: 83,500 gp, 4,680 XP. Note: This trap is really two CR 6 acid arrow traps that fire simultaneously, using the same trigger and reset.
 
 **Power Word Stun Trap**: CR 8; magic device; touch trigger; no reset; spell effect (power word stun, 13th-level wizard), Investigation DC 32; Engineering DC 32. Cost: 4,550 gp, 364 XP.
 
-**Prismatic Spray Trap**: CR 8; magic device; proximity trigger (alarm); automatic reset; spell effect (prismatic spray, 13th-level wizard, DC 20 Reflex, Fortitude, or Will save, depending on effect); Investigation DC 32; Engineering DC 32. Cost: 45,500 gp, 3,640 XP.
+**Prismatic Spray Trap**: CR 8; magic device; proximity trigger (alarm); automatic reset; spell effect (prismatic spray, 13th-level wizard, +10 vs Reflex, Fortitude, or Will, depending on effect); Investigation DC 32; Engineering DC 32. Cost: 45,500 gp, 3,640 XP.
 
-**Reverse Gravity Trap**: CR 8; magic device; proximity trigger (alarm, 10-ft. area); automatic reset; spell effect (reverse gravity, 13th-level wizard, 6d6 fall \[upon hitting the ceiling of the 60-ft.- high room\], then 6d6 fall \[upon falling 60 ft. to the floor when the spell ends\], DC 20 Reflex save avoids damage); Investigation DC 32; Engineering DC 32. Cost: 45,500 gp, 3,640 XP.
+**Reverse Gravity Trap**: CR 8; magic device; proximity trigger (alarm, 10-ft. area); automatic reset; spell effect (reverse gravity, 13th-level wizard, 6d6 fall \[upon hitting the ceiling of the 60-ft.- high room\], then 6d6 fall \[upon falling 60 ft. to the floor when the spell ends\], +10 vs Reflex, a miss avoids damage); Investigation DC 32; Engineering DC 32. Cost: 45,500 gp, 3,640 XP.
 
-**Well-Camouflaged Pit Trap**: CR 8; mechanical; location trigger; repair reset; DC 20 Reflex save avoids; 100 ft. deep (10d6, fall); Investigation DC 27; Engineering DC 18. Market Price: 16,000 gp.
+**Well-Camouflaged Pit Trap**: CR 8; mechanical; location trigger; repair reset; Atk +10 vs Reflex; 100 ft. deep (10d6, fall); Investigation DC 27; Engineering DC 18. Market Price: 16,000 gp.
 
 **Word of Chaos Trap**: CR 8; magic device; proximity trigger (detect law); automatic reset; spell effect (word of chaos, 13th-level cleric); Investigation DC 32; Engineering DC 32. Cost: 46,000 gp, 3,680 XP.
 
 ###### CR 9 Traps
 
-**Drawer Handle Smeared with Contact Poison**: CR 9; mechanical; touch trigger (attached); manual reset; poison (black lotus extract, DC 20 Fortitude save resists, 3d6 Con/3d6 Con); Investigation DC 18; Engineering DC 26. Market Price: 21,600 gp.
+**Drawer Handle Smeared with Contact Poison**: CR 9; mechanical; touch trigger (attached); manual reset; poison (black lotus extract, +10 vs Fortitude, 3d6 Con/3d6 Con); Investigation DC 18; Engineering DC 26. Market Price: 21,600 gp.
 
 **Dropping Ceiling**: CR 9; mechanical; location trigger; repair reset; ceiling moves down (12d6, crush); multiple targets (all targets in a 10-ft.-by-10-ft. room); never miss; onset delay (1 round); Investigation DC 20; Engineering DC 16. Market Price: 12,600 gp.
 
 **[[rangoric-srd/rules/traps/Hail of Arrows Trap|Hail of Arrows Trap]]**: CR 9; mechanical; visual trigger (arcane eye); repair reset. Its full entry is in its note.
 
-**Incendiary Cloud Trap**: CR 9; magic device; proximity trigger (alarm); automatic reset; spell effect (incendiary cloud, 15th-level wizard, 4d6/round for 15 rounds, DC 22 Reflex save half damage); Investigation DC 33; Engineering DC 33. Cost: 60,000 gp, 4,800 XP.
+**Incendiary Cloud Trap**: CR 9; magic device; proximity trigger (alarm); automatic reset; spell effect (incendiary cloud, 15th-level wizard, 4d6/round for 15 rounds, +12 vs Reflex half); Investigation DC 33; Engineering DC 33. Cost: 60,000 gp, 4,800 XP.
 
 **[[rangoric-srd/rules/traps/Shocking Floor Trap|Shocking Floor Trap]]**: CR 9; magic; proximity trigger (alarm); no reset. Its full entry is in its note.
 
-**Wide-Mouth Pit Trap**: CR 9; mechanical; location trigger; manual reset; DC 25 Reflex save avoids; 100 ft. deep (10d6, fall); multiple targets (all targets within a 10-ft.-by-10-ft. area); Investigation DC 25; Engineering DC 25. Market Price: 40,500 gp.
+**Wide-Mouth Pit Trap**: CR 9; mechanical; location trigger; manual reset; Atk +15 vs Reflex; 100 ft. deep (10d6, fall); multiple targets (all targets within a 10-ft.-by-10-ft. area); Investigation DC 25; Engineering DC 25. Market Price: 40,500 gp.
 
-**Wide-Mouth Spiked Pit with Poisoned Spikes**: CR 9; mechanical; location trigger; manual reset; hidden lock bypass (Investigation DC 25, Sleight of Hand DC 30); DC 20 Reflex save avoids; 70 ft. deep (7d6, fall); multiple targets (all targets within a 10-ft.-by-10-ft. area); pit spikes (Atk +10 melee, 1d4 spikes per target for 1d4+5 plus poison each); poison (giant wasp poison, DC 14 Fortitude save resists, 1d6 Dex/1d6 Dex); Investigation DC 20; Engineering DC 20. Market Price: 11,910 gp.
+**Wide-Mouth Spiked Pit with Poisoned Spikes**: CR 9; mechanical; location trigger; manual reset; hidden lock bypass (Investigation DC 25, Sleight of Hand DC 30); Atk +10 vs Reflex; 70 ft. deep (7d6, fall); multiple targets (all targets within a 10-ft.-by-10-ft. area); pit spikes (Atk +10 melee, 1d4 spikes per target for 1d4+5 plus poison each); poison (giant wasp poison, +4 vs Fortitude, 1d6 Dex/1d6 Dex); Investigation DC 20; Engineering DC 20. Market Price: 11,910 gp.
 
 ###### CR 10 Traps
 
@@ -456,13 +456,13 @@ Its curse, as an [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictio
 
 **Crushing Wall Trap**: CR 10; mechanical; location trigger; automatic reset; no attack roll required (18d6, crush); Investigation DC 20; Engineering DC 25. Market Price: 25,000 gp.
 
-**Energy Drain Trap**: CR 10; magic device; visual trigger (true seeing); automatic reset; Atk +8 ranged touch; spell effect (energy drain, 17th-level wizard, 2d4 negative levels for 24 hours, DC 23 Fortitude save negates); Investigation DC 34; Engineering DC 34. Cost: 124,000 gp, 7,920 XP.
+**Energy Drain Trap**: CR 10; magic device; visual trigger (true seeing); automatic reset; Atk +8 ranged touch; spell effect (energy drain, 17th-level wizard, 2d4 negative levels for 24 hours, +13 vs Fortitude); Investigation DC 34; Engineering DC 34. Cost: 124,000 gp, 7,920 XP.
 
 **Forcecage and Summon Monster VII trap**: CR 10; magic device; proximity trigger (alarm); automatic reset; multiple traps (one forcecage trap and one summon monster VII trap that summons a hamatula); spell effect (forcecage, 13th-level wizard), spell effect (summon monster VII, 13th-level wizard, hamatula); Investigation DC 32; Engineering DC 32. Cost: 241,000 gp, 7,280 XP. Note: This trap is really one CR 8 trap that creates a forcecage and a second CR 8 trap that summons a hamatula in the same area. If both succeed, the hamatula appears inside the forcecage. These effects are independent of each other.
 
-**Poisoned Spiked Pit Trap**: CR 10; mechanical; location trigger; manual reset; hidden lock bypass (Investigation DC 25, Sleight of Hand DC 30); DC 20 Reflex save avoids; 50 ft. deep (5d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); pit spikes (Atk +10 melee, 1d4 spikes per target for 1d4+5 plus poison each); poison (purple worm poison, DC 24 Fortitude save resists, 1d6 Str/2d6 Str); Investigation DC 16; Engineering DC 25. Market Price: 19,700 gp.
+**Poisoned Spiked Pit Trap**: CR 10; mechanical; location trigger; manual reset; hidden lock bypass (Investigation DC 25, Sleight of Hand DC 30); Atk +10 vs Reflex; 50 ft. deep (5d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); pit spikes (Atk +10 melee, 1d4 spikes per target for 1d4+5 plus poison each); poison (purple worm poison, +14 vs Fortitude, 1d6 Str/2d6 Str); Investigation DC 16; Engineering DC 25. Market Price: 19,700 gp.
 
-**Wail of the Banshee Trap**: CR 10; magic device; proximity trigger (alarm); automatic reset; spell effect (wail of the banshee, 17th-level wizard, DC 23 Fortitude save negates); multiple targets (up to 17 creatures); Investigation DC 34; Engineering DC 34. Cost: 76,500 gp, 6,120 XP.
+**Wail of the Banshee Trap**: CR 10; magic device; proximity trigger (alarm); automatic reset; spell effect (wail of the banshee, 17th-level wizard, +13 vs Fortitude); multiple targets (up to 17 creatures); Investigation DC 34; Engineering DC 34. Cost: 76,500 gp, 6,120 XP.
 
 ###### CR 11 Traps
 
@@ -526,51 +526,51 @@ _Multiple Independent Traps_: If two or more traps act independently (that is, n
 
 **Table: CR MODIFIERS FOR MECHANICAL TRAPS**
 
-| Feature                                                   | Feature | CR Modifier              | CR Modifier |
-| --------------------------------------------------------- | ------- | ------------------------ | ----------- |
-| _[[rangoric-srd/skills/Investigation\|Investigation]] DC_ |         |                          |             |
-| 15 or lower                                               |         | –1                       |             |
-| 25–29                                                     |         | +1                       |             |
-| 30 or higher                                              |         | +2                       |             |
-| _[[rangoric-srd/skills/Engineering\|Engineering]] DC_     |         |                          |             |
-| 15 or lower                                               |         | –1                       |             |
-| 25–29                                                     |         | +1                       |             |
-| 30 or higher                                              |         | +2                       |             |
-| _Reflex Save DC (Pit or Other Save-Dependent Trap)_       |         |                          |             |
-| 15 or lower                                               |         | –1                       |             |
-| 16–24                                                     |         | —                        |             |
-| 25–29                                                     |         | +1                       |             |
-| 30 or higher                                              |         | +2                       |             |
-| _Attack Bonus (Melee or Ranged Attack Trap)_              |         |                          |             |
-| +0 or lower                                               |         | –2                       |             |
-| +1 to +5                                                  |         | –1                       |             |
-| +6 to +14                                                 |         | —                        |             |
-| +15 to +19                                                |         | +1                       |             |
-| +20 to +24                                                |         | +2                       |             |
-| _Damage/Effect_                                           |         |                          |             |
-| Average damage                                            |         | +1/7 points\*            |             |
-| _Miscellaneous Features_                                  |         |                          |             |
-| Alchemical device                                         |         | Level of spell mimicked  |             |
-| Liquid                                                    |         | +5                       |             |
-| Multiple target                                           |         | +1 (or 0 if never miss)  |             |
-| Onset delay 1 round                                       |         | +3                       |             |
-| Onset delay 2 rounds                                      |         | +2                       |             |
-| Onset delay 3 rounds                                      |         | +1                       |             |
-| Onset delay 4+ rounds                                     |         | –1                       |             |
-| Poison                                                    |         | CR of poison (see below) |             |
-| Black adder venom                                         | +1      | Large scorpion venom     | +3          |
-| Black lotus extract                                       | +8      | Malyss root paste        | +3          |
-| Bloodroot                                                 | +1      | Medium spider venom      | +2          |
-| Blue whinnis                                              | +1      | Nitharit                 | +4          |
-| Burnt othur fumes                                         | +6      | Purple worm poison       | +4          |
-| Deathblade                                                | +5      | Sassone leaf residue     | +3          |
-| Dragon bile                                               | +6      | Shadow essence           | +3          |
-| Giant wasp poison                                         | +3      | Small centipede poison   | +1          |
-| Greenblood oil                                            | +1      | Terinav root             | +5          |
-| Insanity mist                                             | +4      | Ungol dust               | +3          |
-| Wyvern poison                                             | +5      |                          |             |
-| Pit spikes                                                |         | +1                       |             |
-| Touch attack                                              |         | +1                       |             |
+| Feature                                                        | Feature | CR Modifier              | CR Modifier |
+| -------------------------------------------------------------- | ------- | ------------------------ | ----------- |
+| _[[rangoric-srd/skills/Investigation\|Investigation]] DC_      |         |                          |             |
+| 15 or lower                                                    |         | –1                       |             |
+| 25–29                                                          |         | +1                       |             |
+| 30 or higher                                                   |         | +2                       |             |
+| _[[rangoric-srd/skills/Engineering\|Engineering]] DC_          |         |                          |             |
+| 15 or lower                                                    |         | –1                       |             |
+| 25–29                                                          |         | +1                       |             |
+| 30 or higher                                                   |         | +2                       |             |
+| _Attack Bonus vs Reflex (Pit or Other Defense-Dependent Trap)_ |         |                          |             |
+| +5 or lower                                                    |         | –1                       |             |
+| +6 to +14                                                      |         | —                        |             |
+| +15 to +19                                                     |         | +1                       |             |
+| +20 or higher                                                  |         | +2                       |             |
+| _Attack Bonus (Melee or Ranged Attack Trap)_                   |         |                          |             |
+| +0 or lower                                                    |         | –2                       |             |
+| +1 to +5                                                       |         | –1                       |             |
+| +6 to +14                                                      |         | —                        |             |
+| +15 to +19                                                     |         | +1                       |             |
+| +20 to +24                                                     |         | +2                       |             |
+| _Damage/Effect_                                                |         |                          |             |
+| Average damage                                                 |         | +1/7 points\*            |             |
+| _Miscellaneous Features_                                       |         |                          |             |
+| Alchemical device                                              |         | Level of spell mimicked  |             |
+| Liquid                                                         |         | +5                       |             |
+| Multiple target                                                |         | +1 (or 0 if never miss)  |             |
+| Onset delay 1 round                                            |         | +3                       |             |
+| Onset delay 2 rounds                                           |         | +2                       |             |
+| Onset delay 3 rounds                                           |         | +1                       |             |
+| Onset delay 4+ rounds                                          |         | –1                       |             |
+| Poison                                                         |         | CR of poison (see below) |             |
+| Black adder venom                                              | +1      | Large scorpion venom     | +3          |
+| Black lotus extract                                            | +8      | Malyss root paste        | +3          |
+| Bloodroot                                                      | +1      | Medium spider venom      | +2          |
+| Blue whinnis                                                   | +1      | Nitharit                 | +4          |
+| Burnt othur fumes                                              | +6      | Purple worm poison       | +4          |
+| Deathblade                                                     | +5      | Sassone leaf residue     | +3          |
+| Dragon bile                                                    | +6      | Shadow essence           | +3          |
+| Giant wasp poison                                              | +3      | Small centipede poison   | +1          |
+| Greenblood oil                                                 | +1      | Terinav root             | +5          |
+| Insanity mist                                                  | +4      | Ungol dust               | +3          |
+| Wyvern poison                                                  | +5      |                          |             |
+| Pit spikes                                                     |         | +1                       |             |
+| Touch attack                                                   |         | +1                       |             |
 
 \* _Rounded to the nearest multiple of 7 (round up for an average that lies exactly between two numbers)._
 
@@ -594,46 +594,46 @@ After you’ve multiplied the modified base cost by the Challenge Rating, add th
 
 **Table: COST MODIFIERS FOR MECHANICAL TRAPS**
 
-| Feature                                                   | Cost Modifier                                                            |
-| --------------------------------------------------------- | ------------------------------------------------------------------------ |
-| _Trigger Type_                                            |                                                                          |
-| Location                                                  | —                                                                        |
-| Proximity                                                 | +1,000 gp                                                                |
-| Touch                                                     | —                                                                        |
-| Touch (attached)                                          | –100 gp                                                                  |
-| Timed                                                     | +1,000 gp                                                                |
-| _Reset Type_                                              |                                                                          |
-| No reset                                                  | –500 gp                                                                  |
-| Repair                                                    | –200 gp                                                                  |
-| Manual                                                    | —                                                                        |
-| Automatic                                                 | +500 gp (or 0 if trap has timed trigger)                                 |
-| _Bypass Type_                                             |                                                                          |
-| Lock                                                      | +100 gp ([[rangoric-srd/skills/Sleight of Hand\|Sleight of Hand]] DC 30) |
-| Hidden switch                                             | +200 gp (Investigation DC 25)                                            |
-| Hidden lock                                               | +300 gp (Sleight of Hand DC 30, Investigation DC 25)                     |
-| _[[rangoric-srd/skills/Investigation\|Investigation]] DC_ |                                                                          |
-| 19 or lower                                               | –100 gp x (20 – DC)                                                      |
-| 20                                                        | —                                                                        |
-| 21 or higher                                              | +200 gp x (DC – 20)                                                      |
-| _[[rangoric-srd/skills/Engineering\|Engineering]] DC_     |                                                                          |
-| 19 or lower                                               | –100 gp x (20 – DC)                                                      |
-| 20                                                        | —                                                                        |
-| 21 or higher                                              | +200 gp x (DC – 20)                                                      |
-| _Reflex Save DC (Pit or Other Save-Dependent Trap)_       |                                                                          |
-| 19 or lower                                               | –100 gp x (20 – DC)                                                      |
-| 20                                                        | —                                                                        |
-| 21 or higher                                              | +300 gp x (DC – 20)                                                      |
-| _Attack Bonus (Melee or Ranged Attack Trap)_              |                                                                          |
-| +9 or lower                                               | –100 gp x (10 – bonus)                                                   |
-| +10                                                       | —                                                                        |
-| +11 or higher                                             | +200 gp x (bonus – 10)                                                   |
-| _Damage Bonus_                                            |                                                                          |
-| High strength rating (ranged attack trap)                 | +100 gp x bonus (max +4)                                                 |
-| High Strength bonus (melee attack trap)                   | +100 gp x bonus (max +8)                                                 |
-| _Miscellaneous Features_                                  |                                                                          |
-| Never miss                                                | +1,000 gp                                                                |
-| Poison                                                    | Cost of poison\*                                                         |
-| Alchemical item                                           | Cost of item\*                                                           |
+| Feature                                                        | Cost Modifier                                                            |
+| -------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| _Trigger Type_                                                 |                                                                          |
+| Location                                                       | —                                                                        |
+| Proximity                                                      | +1,000 gp                                                                |
+| Touch                                                          | —                                                                        |
+| Touch (attached)                                               | –100 gp                                                                  |
+| Timed                                                          | +1,000 gp                                                                |
+| _Reset Type_                                                   |                                                                          |
+| No reset                                                       | –500 gp                                                                  |
+| Repair                                                         | –200 gp                                                                  |
+| Manual                                                         | —                                                                        |
+| Automatic                                                      | +500 gp (or 0 if trap has timed trigger)                                 |
+| _Bypass Type_                                                  |                                                                          |
+| Lock                                                           | +100 gp ([[rangoric-srd/skills/Sleight of Hand\|Sleight of Hand]] DC 30) |
+| Hidden switch                                                  | +200 gp (Investigation DC 25)                                            |
+| Hidden lock                                                    | +300 gp (Sleight of Hand DC 30, Investigation DC 25)                     |
+| _[[rangoric-srd/skills/Investigation\|Investigation]] DC_      |                                                                          |
+| 19 or lower                                                    | –100 gp x (20 – DC)                                                      |
+| 20                                                             | —                                                                        |
+| 21 or higher                                                   | +200 gp x (DC – 20)                                                      |
+| _[[rangoric-srd/skills/Engineering\|Engineering]] DC_          |                                                                          |
+| 19 or lower                                                    | –100 gp x (20 – DC)                                                      |
+| 20                                                             | —                                                                        |
+| 21 or higher                                                   | +200 gp x (DC – 20)                                                      |
+| _Attack Bonus vs Reflex (Pit or Other Defense-Dependent Trap)_ |                                                                          |
+| +9 or lower                                                    | –100 gp x (10 – bonus)                                                   |
+| +10                                                            | —                                                                        |
+| +11 or higher                                                  | +300 gp x (bonus – 10)                                                   |
+| _Attack Bonus (Melee or Ranged Attack Trap)_                   |                                                                          |
+| +9 or lower                                                    | –100 gp x (10 – bonus)                                                   |
+| +10                                                            | —                                                                        |
+| +11 or higher                                                  | +200 gp x (bonus – 10)                                                   |
+| _Damage Bonus_                                                 |                                                                          |
+| High strength rating (ranged attack trap)                      | +100 gp x bonus (max +4)                                                 |
+| High Strength bonus (melee attack trap)                        | +100 gp x bonus (max +8)                                                 |
+| _Miscellaneous Features_                                       |                                                                          |
+| Never miss                                                     | +1,000 gp                                                                |
+| Poison                                                         | Cost of poison\*                                                         |
+| Alchemical item                                                | Cost of item\*                                                           |
 
 \* _Multiply cost by 20 if trap features automatic reset._
 

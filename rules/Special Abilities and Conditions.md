@@ -115,9 +115,9 @@ A creature attacking with a breath weapon is actually expelling something from i
 
 - Using a breath weapon is typically a standard action.
 
-- No attack roll is necessary. The breath simply fills its stated area.
+- No attack roll against Armor Class is necessary. The breath simply fills its stated area.
 
-- Any character caught in the area must make the appropriate saving throw or suffer the breath weapon’s full effect. In many cases, a character who succeeds on his saving throw still takes half damage or some other reduced effect.
+- The breath weapon attacks the appropriate defense of each character caught in the area, and a character it hits suffers its full effect. In many cases, a character it misses still takes half damage or some other reduced effect.
 
 - Breath weapons are supernatural abilities except where noted.
 
@@ -141,7 +141,7 @@ Charming another creature gives the charming character the ability to befriend a
 
 - A charmed character never obeys a command that is obviously suicidal or grievously harmful to her.
 
-- If the charming creature commands his minion to do something that the influenced character would be violently opposed to, the subject may attempt a new saving throw to break free of the influence altogether.
+- If the charming creature commands his minion to do something that the influenced character would be violently opposed to, the charm attacks the subject again, and if it misses, the subject breaks free of the influence altogether.
 
 - A charmed character who is openly attacked by the creature who charmed him or by that creature’s apparent allies is automatically freed of the spell or effect.
 
@@ -151,7 +151,7 @@ Regardless of whether a character is charmed or compelled, he won’t volunteer 
 
 ##### Cold Immunity
 
-A creature with cold immunity never takes cold damage. It has vulnerability to fire, which means it takes half again as much (+50%) damage as normal from fire, regardless of whether a saving throw is allowed, or if the save is a success or failure.
+A creature with cold immunity never takes cold damage. It has vulnerability to fire, which means it takes half again as much (+50%) damage as normal from fire, regardless of whether the fire attacks a defense, or if the attack hits or misses.
 
 ##### Curses
 
@@ -181,7 +181,7 @@ Darkvision is the extraordinary ability to see with no light source at all, out 
 
 ##### Death Attacks
 
-In most cases, a death attack allows the victim a Fortitude save to avoid the affect, but if the save fails, the character dies instantly.
+In most cases, a death attack attacks the victim’s Fortitude, and a miss avoids the effect, but if the victim fails the save, the character dies instantly.
 
 - Raise dead doesn’t work on someone killed by a death attack.
 
@@ -199,11 +199,11 @@ Diseases are [[rangoric-srd/rules/Afflictions#Disease|afflictions]]: how a disea
 
 Some spells and a number of undead creatures have the ability to drain away life and energy; this dreadful attack results in “negative levels.” These cause a character to take a number of penalties. Most energy drain attacks require a successful melee attack roll — mere physical contact is not enough. Each successful energy drain attack bestows one or more negative levels on the opponent.
 
-For each negative level a creature has, it takes a cumulative –1 penalty on all ability checks, attack rolls, [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Bonus|combat maneuver checks]], [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|Combat Maneuver Defense]], saving throws, and skill checks. In addition, the creature reduces its current and total hit points by 5 for each negative level it possesses. The creature is also treated as one level lower for the purpose of level-dependent variables (such as spellcasting) for each negative level possessed. Spellcasters do not lose any prepared spells or slots as a result of negative levels. If a creature’s negative levels equal or exceed its total Hit Dice, it dies. ^negative-levels
+For each negative level a creature has, it takes a cumulative –1 penalty on all ability checks, attack rolls, [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Bonus|combat maneuver checks]], [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|Combat Maneuver Defense]], defenses, and skill checks. In addition, the creature reduces its current and total hit points by 5 for each negative level it possesses. The creature is also treated as one level lower for the purpose of level-dependent variables (such as spellcasting) for each negative level possessed. Spellcasters do not lose any prepared spells or slots as a result of negative levels. If a creature’s negative levels equal or exceed its total Hit Dice, it dies. ^negative-levels
 
-A creature with temporary negative levels receives a new saving throw to remove the negative level each day. The DC of this save is the same as the effect that caused the negative levels. A negative level is temporary unless its source says it is permanent: a failed save against [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] or the _[[rangoric-srd/spells/Energy Drain|energy drain]]_ spell makes the negative level permanent, and some effects bestow [[#^permanent-negative-levels|permanent negative levels]] directly. An effect can also say otherwise, such as negative levels that end after a set time or last only while an item is held or worn. ^negative-level-save
+Each day, the effect that caused a creature’s temporary negative levels attacks it again, with the same attack bonus, and if it misses, the negative level is removed. A negative level is temporary unless its source says it is permanent: a failed save against [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] or the _[[rangoric-srd/spells/Energy Drain|energy drain]]_ spell makes the negative level permanent, and some effects bestow [[#^permanent-negative-levels|permanent negative levels]] directly. An effect can also say otherwise, such as negative levels that end after a set time or last only while an item is held or worn. ^negative-level-save
 
-Permanent negative levels are treated just like temporary negative levels, but they do not allow a new save each day to remove them. A permanent negative level never costs the creature a level: the creature keeps its levels, Hit Dice, and experience points. Permanent negative levels are removed with spells such as _[[rangoric-srd/spells/Restoration|restoration]]_ and _[[rangoric-srd/spells/Restoration, Greater|greater restoration]]_. Some effects, such as _[[rangoric-srd/spells/Raise Dead|raise dead]]_, bestow permanent negative levels directly. Permanent negative levels remain after a dead creature is restored to life. A creature whose permanent negative levels equal its Hit Dice cannot be brought back to life through spells like _[[rangoric-srd/spells/Raise Dead|raise dead]]_ and _[[rangoric-srd/spells/Resurrection|resurrection]]_ without also receiving a _[[rangoric-srd/spells/Restoration|restoration]]_ spell, cast the round after it is restored to life. ^permanent-negative-levels
+Permanent negative levels are treated just like temporary negative levels, but they do not attack again each day, and are not removed by a miss. A permanent negative level never costs the creature a level: the creature keeps its levels, Hit Dice, and experience points. Permanent negative levels are removed with spells such as _[[rangoric-srd/spells/Restoration|restoration]]_ and _[[rangoric-srd/spells/Restoration, Greater|greater restoration]]_. Some effects, such as _[[rangoric-srd/spells/Raise Dead|raise dead]]_, bestow permanent negative levels directly. Permanent negative levels remain after a dead creature is restored to life. A creature whose permanent negative levels equal its Hit Dice cannot be brought back to life through spells like _[[rangoric-srd/spells/Raise Dead|raise dead]]_ and _[[rangoric-srd/spells/Resurrection|resurrection]]_ without also receiving a _[[rangoric-srd/spells/Restoration|restoration]]_ spell, cast the round after it is restored to life. ^permanent-negative-levels
 
 A creature slain by negative levels may rise again, depending on the creature that killed it: if the slayer has a create spawn ability, the slain creature rises as that ability says, as a monster of the slayer’s kind. If not, it rises as a [[rangoric-srd/monsters/Wight|wight]] the next night, with the wight’s statistics. ^energy-drain-spawn
 
@@ -229,15 +229,15 @@ Ghosts have a power called manifestation that allows them to appear on the Mater
 
 These extraordinary abilities allow the target of an area attack to leap or twist out of the way. Rogues and monks have evasion and improved evasion as class features, but certain other creatures have these abilities, too.
 
-If subjected to an attack that allows a Reflex save for half damage, a character with evasion takes no damage on a successful save.
+If an attack that normally deals half damage on a miss misses its Reflex Defense, a character with evasion takes no damage.
 
-As with a Reflex save for any creature, a character must have room to move in order to evade. A bound character or one squeezing through an area cannot use evasion.
+As with Reflex Defense for any creature, a character must have room to move in order to evade. A bound character or one squeezing through an area cannot use evasion.
 
-As with a Reflex save for any creature, evasion is a reflexive ability. The character need not know that the attack is coming to use evasion.
+As with Reflex Defense for any creature, evasion is a reflexive ability. The character need not know that the attack is coming to use evasion.
 
 Rogues and monks cannot use evasion in medium or heavy armor. Some creatures with the evasion ability as an innate quality do not have this limitation.
 
-Improved evasion is like evasion, except that even on a failed saving throw the character takes only half damage.
+Improved evasion is like evasion, except that even when the attack hits, the character takes only half damage.
 
 ##### Fast Healing
 
@@ -255,9 +255,9 @@ Fast healing does not increase the number of hit points regained when a creature
 
 ##### Fear
 
-Spells, magic items, and certain monsters can affect characters with fear. In most cases, the character makes a Will saving throw to resist this effect, and a failed roll means that the character is shaken, frightened, or panicked.
+Spells, magic items, and certain monsters can affect characters with fear. In most cases, the effect attacks the character’s Will Defense, and a hit means that the character is shaken, frightened, or panicked.
 
-**Shaken**: Characters who are shaken take a –2 penalty on attack rolls, saving throws, skill checks, and ability checks. ^fear-shaken
+**Shaken**: Characters who are shaken take a –2 penalty on attack rolls, defenses, skill checks, and ability checks. ^fear-shaken
 
 **Frightened**: Characters who are frightened are shaken, and in addition they flee from the source of their fear as quickly as they can. They can choose the path of their flight. Other than that stipulation, once they are out of sight (or hearing) of the source of their fear, they can act as they want. However, if the duration of their fear continues, characters can be forced to flee once more if the source of their fear presents itself again. Characters unable to flee can fight (though they are still shaken). ^fear-frightened
 
@@ -267,7 +267,7 @@ Spells, magic items, and certain monsters can affect characters with fear. In mo
 
 ##### Fire Immunity
 
-A creature with fire immunity never takes fire damage. It has vulnerability to cold, which means it takes half again as much (+50%) damage as normal from cold, regardless of whether a saving throw is allowed, or if the save is a success or failure.
+A creature with fire immunity never takes fire damage. It has vulnerability to cold, which means it takes half again as much (+50%) damage as normal from cold, regardless of whether the cold attacks a defense, or if the attack hits or misses.
 
 ##### Gaseous Form
 
@@ -287,17 +287,17 @@ Discerning a creature in gaseous form from natural mist requires a DC 15 Percept
 
 While the medusa’s gaze is well known, gaze attacks can also charm, curse, or even kill. Gaze attacks not produced by a spell are supernatural.
 
-Each character within range of a gaze attack must attempt a saving throw (which can be a Fortitude or Will save) each round at the beginning of his turn.
+A gaze attack attacks each character within range (against Fortitude or Will Defense) each round at the beginning of his turn.
 
-An opponent can avert his eyes from the creature’s face, looking at the creature’s body, watching its shadow, or tracking the creature in a reflective surface. Each round, the opponent has a 50% chance of not having to make a saving throw. The creature with the gaze attack gains concealment relative to the opponent. An opponent can shut his eyes, turn his back on the creature, or wear a blindfold. In these cases, the opponent does not need to make a saving throw. The creature with the gaze attack gains total concealment relative to the opponent.
+An opponent can avert his eyes from the creature’s face, looking at the creature’s body, watching its shadow, or tracking the creature in a reflective surface. Each round, the opponent has a 50% chance of not being attacked. The creature with the gaze attack gains concealment relative to the opponent. An opponent can shut his eyes, turn his back on the creature, or wear a blindfold. In these cases, the gaze does not attack the opponent. The creature with the gaze attack gains total concealment relative to the opponent.
 
-A creature with a gaze attack can actively attempt to use its gaze as an attack action. The creature simply chooses a target within range, and that opponent must attempt a saving throw. If the target has chosen to defend against the gaze as discussed above, the opponent gets a chance to avoid the saving throw (either 50% chance for averting eyes or 100% chance for shutting eyes). It is possible for an opponent to save against a creature’s gaze twice during the same round, once before its own action and once during the creature’s action.
+A creature with a gaze attack can actively attempt to use its gaze as an attack action. The creature simply chooses a target within range, and the gaze attacks that opponent. If the target has chosen to defend against the gaze as discussed above, the opponent gets a chance to avoid the attack (either 50% chance for averting eyes or 100% chance for shutting eyes). It is possible for a creature’s gaze to attack an opponent twice during the same round, once before its own action and once during the creature’s action.
 
 Looking at the creature’s image (such as in a mirror or as part of an illusion) does not subject the viewer to a gaze attack.
 
 A creature is immune to its own gaze attack.
 
-If visibility is limited (by dim lighting, a fog, or the like) so that it results in concealment, there is a percentage chance equal to the normal miss chance for that degree of concealment that a character won’t need to make a saving throw in a given round. This chance is not cumulative with the chance for averting your eyes, but is rolled separately.
+If visibility is limited (by dim lighting, a fog, or the like) so that it results in concealment, there is a percentage chance equal to the normal miss chance for that degree of concealment that the gaze won’t attack a character in a given round. This chance is not cumulative with the chance for averting your eyes, but is rolled separately.
 
 Invisible creatures cannot use gaze attacks.
 
@@ -381,11 +381,11 @@ Otherwise, it melds with the new form and ceases to function for the duration of
 
 Telepathy, mental combat and psychic powers — psionics is a catchall word that describes special mental abilities possessed by various creatures. These are spell-like abilities that a creature generates from the power of its mind alone — no other outside magical force or ritual is needed. Each psionic creature’s description contains details on its psionic abilities.
 
-Psionic attacks almost always allow Will saving throws to resist them. However, not all psionic attacks are mental attacks. Some psionic abilities allow the psionic creature to reshape its own body, heal its wounds, or teleport great distances. Some psionic creatures can see into the future, the past, and the present (in far-off locales) as well as read the minds of others.
+Psionic attacks almost always attack Will Defense. However, not all psionic attacks are mental attacks. Some psionic abilities allow the psionic creature to reshape its own body, heal its wounds, or teleport great distances. Some psionic creatures can see into the future, the past, and the present (in far-off locales) as well as read the minds of others.
 
 ##### Rays
 
-All ray attacks require the attacker to make a successful ranged touch attack against the target. Rays have varying ranges, which are simple maximums. A ray’s attack roll never takes a range penalty. Even if a ray hits, it usually allows the target to make a saving throw (Fortitude or Will). Rays never allow a Reflex saving throw, but if a character’s Dexterity bonus to AC is high, it might be hard to hit her with the ray in the first place.
+All ray attacks require the attacker to make a successful ranged touch attack against the target. Rays have varying ranges, which are simple maximums. A ray’s attack roll never takes a range penalty. Even if a ray hits, it usually also attacks the target’s Fortitude or Will Defense. Rays never attack Reflex Defense, but if a character’s Dexterity bonus to AC is high, it might be hard to hit her with the ray in the first place.
 
 ##### Regeneration
 
@@ -543,24 +543,24 @@ A disabled character with negative hit points recovers hit points naturally if s
 
 **Exhausted**: An exhausted character moves at half speed and takes a –6 penalty to Strength and Dexterity. After 1 hour of complete rest, an exhausted character becomes [[#^fatigued|fatigued]]. A fatigued character becomes exhausted by doing something else that would normally cause fatigue. ^exhausted
 
-**Fascinated**: A fascinated creature is entranced by a supernatural or spell effect. The creature stands or sits quietly, taking no actions other than to pay attention to the fascinating effect, for as long as the effect lasts. It takes a –4 penalty on skill checks made as reactions, such as [[rangoric-srd/skills/Perception|Perception]] checks. Any potential threat, such as a hostile creature approaching, allows the fascinated creature a new saving throw against the fascinating effect. Any obvious threat, such as someone drawing a weapon, casting a spell, or aiming a ranged weapon at the fascinated creature, automatically breaks the effect. A fascinated creature’s ally may shake it free of the spell as a standard action. ^fascinated
+**Fascinated**: A fascinated creature is entranced by a supernatural or spell effect. The creature stands or sits quietly, taking no actions other than to pay attention to the fascinating effect, for as long as the effect lasts. It takes a –4 penalty on skill checks made as reactions, such as [[rangoric-srd/skills/Perception|Perception]] checks. Any potential threat, such as a hostile creature approaching, makes the fascinating effect attack the fascinated creature again, and if it misses, the effect ends. Any obvious threat, such as someone drawing a weapon, casting a spell, or aiming a ranged weapon at the fascinated creature, automatically breaks the effect. A fascinated creature’s ally may shake it free of the spell as a standard action. ^fascinated
 
 **Fatigued**: A fatigued character can neither run nor [[rangoric-srd/combat/Combat Special Attacks#Charge|charge]] and takes a –2 penalty to Strength and Dexterity. Doing anything that would normally cause fatigue causes the fatigued character to become [[#^exhausted|exhausted]]. After 8 hours of complete rest, fatigued characters are no longer fatigued. ^fatigued
 
 **Flat-Footed**: A character who has not yet acted during a combat is flat-footed, not yet reacting normally to the situation. A flat-footed character loses his Dexterity bonus to AC (if any) and cannot make attacks of opportunity. ^flat-footed
 
-**Frightened**: A frightened creature flees from the source of its fear as best it can. If unable to flee, it may fight. A frightened creature takes a –2 penalty on all attack rolls, saving throws, skill checks, and ability checks. A frightened creature can use special abilities, including spells, to flee; indeed, the creature must use such means if they are the only way to escape.  
+**Frightened**: A frightened creature flees from the source of its fear as best it can. If unable to flee, it may fight. A frightened creature takes a –2 penalty on all attack rolls, defenses, skill checks, and ability checks. A frightened creature can use special abilities, including spells, to flee; indeed, the creature must use such means if they are the only way to escape.  
 Frightened is like [[#^shaken|shaken]], except that the creature must flee if possible. [[#^panicked|Panicked]] is a more extreme state of fear. ^frightened
 
 **Grappled**: Held in a grapple; see [[rangoric-srd/rules/conditions/Grappled (Condition)|grappled]]. ^grappling
 
 **Helpless**: A helpless character is [[#^paralyzed|paralyzed]], held, bound, sleeping, [[#^unconscious|unconscious]], or otherwise completely at an opponent’s mercy. A helpless target is treated as having a Dexterity of 0 (–5 modifier). Melee attacks against a helpless target get a +4 bonus (equivalent to attacking a [[#^prone|prone]] target). Ranged attacks gets no special bonus against helpless targets. Rogues can sneak attack helpless targets. ^helpless
 
-As a full-round action, an enemy can use a melee weapon to deliver a coup de grace to a helpless foe. An enemy can also use a bow or crossbow, provided he is adjacent to the target. The attacker automatically hits and scores a critical hit. (A rogue also gets her sneak attack damage bonus against a helpless foe when delivering a coup de grace.) If the defender survives, he must make a Fortitude save (DC 10 + damage dealt) or die.
+As a full-round action, an enemy can use a melee weapon to deliver a coup de grace to a helpless foe. An enemy can also use a bow or crossbow, provided he is adjacent to the target. The attacker automatically hits and scores a critical hit. (A rogue also gets her sneak attack damage bonus against a helpless foe when delivering a coup de grace.) If the defender survives, the coup de grace attacks his Fortitude with an attack bonus equal to the damage dealt, and if he fails his save, he dies.
 
 Delivering a coup de grace provokes attacks of opportunity.
 
-Creatures that are immune to critical hits do not take critical damage, nor do they need to make Fortitude saves to avoid being killed by a coup de grace.
+Creatures that are immune to critical hits do not take critical damage, nor can a coup de grace attack their Fortitude to kill them.
 
 **Incorporeal**: Having no physical body. Incorporeal creatures are immune to all nonmagical attack forms. They can be harmed only by other incorporeal creatures, +1 or better magic weapons, spells, spell-like effects, or supernatural effects.  
 Also see [[#Incorporeality|Incorporeality]].  
@@ -572,7 +572,7 @@ Also see [[#Incorporeality|Incorporeality]].
 
 **Nauseated**: Experiencing stomach distress. Nauseated creatures are unable to attack, cast spells, concentrate on spells, or do anything else requiring attention. The only action such a character can take is a single move action per turn. ^nauseated
 
-**Panicked**: A panicked creature must drop anything it holds and flee at top speed from the source of its fear, as well as any other dangers it encounters, along a random path. It can’t take any other actions. In addition, the creature takes a –2 penalty on all saving throws, skill checks, and ability checks. If cornered, a panicked creature [[#^cowering|cowers]] and does not attack, typically using the total defense action in combat. A panicked creature can use special abilities, including spells, to flee; indeed, the creature must use such means if they are the only way to escape.  
+**Panicked**: A panicked creature must drop anything it holds and flee at top speed from the source of its fear, as well as any other dangers it encounters, along a random path. It can’t take any other actions. In addition, the creature takes a –2 penalty on all defenses, skill checks, and ability checks. If cornered, a panicked creature [[#^cowering|cowers]] and does not attack, typically using the total defense action in combat. A panicked creature can use special abilities, including spells, to flee; indeed, the creature must use such means if they are the only way to escape.  
 Panicked is a more extreme state of fear than [[#^shaken|shaken]] or [[#^frightened|frightened]]. ^panicked
 
 **Paralyzed**: A paralyzed character is frozen in place and unable to move or act. A paralyzed character has effective Dexterity and Strength scores of 0 and is [[#^helpless|helpless]], but can take purely mental actions. A winged creature flying in the air at the time that it becomes paralyzed cannot flap its wings and falls. A paralyzed swimmer can’t swim and may drown. An creature can move through a space occupied by a paralyzed creature ally or not. Each square occupied by a paralyzed creature, however, counts as 2 squares. ^paralyzed
@@ -584,10 +584,10 @@ Panicked is a more extreme state of fear than [[#^shaken|shaken]] or [[#^frighte
 **Prone**: The character is on the ground. An attacker who is prone has a –4 penalty on melee attack rolls and cannot use a ranged weapon (except for a crossbow). A defender who is prone gains a +4 bonus to Armor Class against ranged attacks, but takes a –4 penalty to AC against melee attacks.  
 Standing up is a move-equivalent action that provokes an attack of opportunity. ^prone
 
-**Shaken**: A shaken character takes a –2 penalty on attack rolls, saving throws, skill checks, and ability checks.  
+**Shaken**: A shaken character takes a –2 penalty on attack rolls, defenses, skill checks, and ability checks.  
 Shaken is a less severe state of fear than [[#^frightened|frightened]] or [[#^panicked|panicked]]. ^shaken
 
-**Sickened**: The character takes a –2 penalty on all attack rolls, weapon damage rolls, saving throws, skill checks, and ability checks. ^sickened
+**Sickened**: The character takes a –2 penalty on all attack rolls, weapon damage rolls, defenses, skill checks, and ability checks. ^sickened
 
 **Stable**: A character who was [[#^dying|dying]] but who has stopped losing hit points and still has negative hit points is stable. The character is no longer dying, but is still [[#^unconscious|unconscious]]. If the character has become stable because of aid from another character (such as a [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] check or magical healing), then the character no longer loses hit points. Each hour, he makes a [[rangoric-srd/combat/Injury and Death#Stable Characters and Recovery|Constitution check]] to become conscious and [[#^disabled|disabled]] (even though his hit points are still negative). ^stable
 

@@ -71,13 +71,13 @@ Spells also fail if your concentration is broken and might fail if you’re wear
 
 ##### The Spell’s Result
 
-Once you know which creatures (or objects or areas) are affected, and whether those creatures have made successful saving throws (if any were allowed), you can apply whatever results a spell entails.
+Once you know which creatures (or objects or areas) are affected, and whether the spell’s attacks against their defenses hit (if it makes any), you can apply whatever results a spell entails.
 
 ##### Special Spell Effects
 
 Many special spell effects are handled according to the school of the spells in question Certain other special spell features are found across spell schools.
 
-**Attacks**: Some spell descriptions refer to attacking. All offensive combat actions, even those that don’t damage opponents are considered attacks. Attempts to turn or rebuke undead count as attacks. All spells that opponents resist with saving throws, that deal damage, or that otherwise harm or hamper subjects are attacks. Spells that summon monsters or other allies are not attacks because the spells themselves don’t harm anyone.
+**Attacks**: Some spell descriptions refer to attacking. All offensive combat actions, even those that don’t damage opponents are considered attacks. Attempts to turn or rebuke undead count as attacks. All spells that attack a defense, that deal damage, or that otherwise harm or hamper subjects are attacks. Spells that summon monsters or other allies are not attacks because the spells themselves don’t harm anyone.
 
 **Bonus Types**: Usually, a bonus has a type that indicates how the spell grants the bonus. The important aspect of bonus types is that two bonuses of the same type don’t generally stack. With the exception of dodge bonuses, most circumstance bonuses, and racial bonuses, only the better bonus works (see Combining Magical Effects, below). The same principle applies to penalties—a character taking two or more penalties of the same type applies only the worst one.
 
@@ -95,7 +95,7 @@ _Revivification against One’s Will_: A soul cannot be returned to life if it d
 
 Spells or magical effects usually work as described, no matter how many other spells or magical effects happen to be operating in the same area or on the same recipient. Except in special cases, a spell does not affect the way another spell operates. Whenever a spell has a specific effect on other spells, the spell description explains that effect. Several other general rules apply when spells or magical effects operate in the same place:
 
-**Stacking Effects**: Spells that provide bonuses or penalties on attack rolls, damage rolls, saving throws, and other attributes usually do not stack with themselves.
+**Stacking Effects**: Spells that provide bonuses or penalties on attack rolls, damage rolls, defenses, and other attributes usually do not stack with themselves.
 
 More generally, two bonuses of the same type don’t stack even if they come from different spells (or from effects other than spells; see Bonus Types, above).
 
@@ -135,7 +135,7 @@ Spell-like abilities never need thought or emotion components, just as they neve
 
 ##### Undercasting
 
-Some psychic spells can be undercast: the caster can cast the spell at the level she knows or as any lower-level version of it, using the spell slot for that version. An undercast spell is treated exactly like the lower-level version, including its effect, saving throw, and other variables. For example, a psychic spellcaster who adds _[[rangoric-srd/spells/Ego Whip III|ego whip III]]_ to her spells known can cast it as _[[rangoric-srd/spells/Ego Whip I|ego whip I]]_, _[[rangoric-srd/spells/Ego Whip II|II]]_, or _[[rangoric-srd/spells/Ego Whip III|III]]_. Cast as _ego whip I_, it is that spell in every way: it uses that spell’s text and save DC, and the spell slot of _ego whip I_’s level. ^undercasting
+Some psychic spells can be undercast: the caster can cast the spell at the level she knows or as any lower-level version of it, using the spell slot for that version. An undercast spell is treated exactly like the lower-level version, including its effect, defense, and other variables. For example, a psychic spellcaster who adds _[[rangoric-srd/spells/Ego Whip III|ego whip III]]_ to her spells known can cast it as _[[rangoric-srd/spells/Ego Whip I|ego whip I]]_, _[[rangoric-srd/spells/Ego Whip II|II]]_, or _[[rangoric-srd/spells/Ego Whip III|III]]_. Cast as _ego whip I_, it is that spell in every way: it uses that spell’s text and attack bonus, and the spell slot of _ego whip I_’s level. ^undercasting
 
 Whenever a spontaneous spellcaster adds a spell that can be undercast to his spells known, he can at once learn a new spell in place of each lower-level version of that spell he knows: he loses each earlier version and replaces it with another spell of the same level from his spell list.
 
@@ -169,7 +169,7 @@ A cold iron spell uses cold-wrought iron as its manifested effect against target
 
 ##### Level
 
-The next line of a spell description gives the spell’s level, a number between 0 and 9 that defines the spell’s relative power. This number is preceded by an abbreviation for the class whose members can cast the spell. The Level entry also indicates whether a spell is a domain spell and, if so, what its domain and its level as a domain spell are. A spell’s level affects the DC for any save allowed against the effect.
+The next line of a spell description gives the spell’s level, a number between 0 and 9 that defines the spell’s relative power. This number is preceded by an abbreviation for the class whose members can cast the spell. The Level entry also indicates whether a spell is a domain spell and, if so, what its domain and its level as a domain spell are. A spell’s level affects its attack bonus against any defense it attacks.
 
 Names of spellcasting classes are abbreviated as follows: alchemist Alc; antipaladin Apl; apothecary Apo; bard Brd; bloodrager Blr; cleric Clr; druid Drd; faerie hunter Fhn; fey prankster Fpk; hunter Hun; inquisitor Inq; magus Mag; medium Med; mesmerist Mes; mortal slayer Msl; occultist Occ; oracle Ora; paladin Pal; psychic Psy; ranger Rgr; shaman Sha; skald Skd; sorcerer Sor; spiritualist Spi; summoner Sum; totem mage Tot; unchained summoner SumU; witch Wit; wizard Wiz.
 
@@ -233,7 +233,7 @@ You must make some choice about whom the spell is to affect or where the effect 
 
 **Target or Targets**: Some spells have a target or targets. You cast these spells on creatures or objects, as defined by the spell itself. You must be able to see or touch the target, and you must specifically choose that target. You do not have to select your target until you finish casting the spell.
 
-If the target of a spell is yourself (the spell description has a line that reads Target: You), you do not receive a saving throw, and spell resistance does not apply. The Saving Throw and Spell Resistance lines are omitted from such spells.
+If the target of a spell is yourself (the spell description has a line that reads Target: You), the spell does not attack your defenses, and spell resistance does not apply. The Defense and Spell Resistance lines are omitted from such spells.
 
 Some spells restrict you to willing targets only. Declaring yourself as a willing target is something that can be done at any time (even if you’re [[rangoric-srd/rules/Special Abilities and Conditions#^flat-footed|flat-footed]] or it isn’t your turn). [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|Unconscious]] creatures are automatically considered willing, but a character who is conscious but immobile or [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]] (such as one who is bound, [[rangoric-srd/rules/Special Abilities and Conditions#^cowering|cowering]], [[rangoric-srd/rules/conditions/Grappled (Condition)|grappling]], [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]], [[rangoric-srd/rules/conditions/Pinned (Condition)|pinned]], or [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]]) is not automatically willing.
 
@@ -311,35 +311,33 @@ Some touch spells allow you to touch multiple targets as part of the spell. You 
 
 **(D) Dismissible**: If the Duration line ends with “(D),” you can dismiss the spell at will. You must be within range of the spell’s effect and must speak words of dismissal, which are usually a modified form of the spell’s verbal component. If the spell has no verbal component, you can dismiss the effect with a gesture. Dismissing a spell is a standard action that does not provoke attacks of opportunity. A spell that depends on concentration is dismissible by its very nature, and dismissing it does not take an action, since all you have to do to end the spell is to stop concentrating on your turn.
 
-##### Saving Throw
+##### Defense
 
-Usually a harmful spell allows a target to make a saving throw to avoid some or all of the effect. The Saving Throw entry in a spell description defines which type of saving throw the spell allows and describes how saving throws against the spell work.
+Usually a harmful spell attacks one of a target’s defenses, and a miss avoids some or all of the effect ([[rangoric-srd/rules/Saving Throws|Saving Throws]]). The Defense entry in a spell description defines which defense the spell attacks and describes what happens when it misses.
 
-**Negates**: The spell has no effect on a subject that makes a successful saving throw.
+**The defense alone** (such as “Will”): The spell has no effect on a subject it misses.
 
-**Partial**: The spell causes an effect on its subject. A successful saving throw means that some lesser effect occurs.
+**Partial**: The spell causes an effect on its subject. If it misses, some lesser effect occurs.
 
-**Half**: The spell deals damage, and a successful saving throw halves the damage taken (round down).
+**Half**: The spell deals damage, and if it misses, the damage taken is halved (round down).
 
-**None**: No saving throw is allowed.
+**None**: The spell attacks no defense.
 
-**Disbelief**: A successful save lets the subject ignore the effect.
+**Disbelief**: If the spell misses, the subject can ignore the effect.
 
-**(object)**: The spell can be cast on objects, which receive saving throws only if they are magical or if they are attended (held, worn, grasped, or the like) by a creature resisting the spell, in which case the object uses the creature’s saving throw bonus unless its own bonus is greater. (This notation does not mean that a spell can be cast only on objects. Some spells of this sort can be cast on creatures or objects.) A magic item’s saving throw bonuses are each equal to 2 + one-half the item’s caster level.
+**(object)**: The spell can be cast on objects, which have defenses against it only if they are magical or if they are attended (held, worn, grasped, or the like) by a creature resisting the spell, in which case the object uses the creature’s defense unless its own defense is greater. (This notation does not mean that a spell can be cast only on objects. Some spells of this sort can be cast on creatures or objects.) A magic item’s defenses are each equal to 12 + one-half the item’s caster level.
 
-**(harmless)**: The spell is usually beneficial, not harmful, but a targeted creature can attempt a saving throw if it desires.
+**(harmless)**: The spell is usually beneficial, not harmful, but a targeted creature can defend against it if it desires.
 
-**Saving Throw Difficulty Class**: A saving throw against your spell has a DC of 10 + the level of the spell + your bonus for the relevant ability (Intelligence for a wizard, Charisma for a sorcerer or bard, or Wisdom for a cleric, druid, paladin, or ranger). A spell’s level can vary depending on your class. Always use the spell level applicable to your class.
+**Spell Attack Bonus**: Your spell’s attack bonus against a defense is the level of the spell + your bonus for the relevant ability (Intelligence for a wizard, Charisma for a sorcerer or bard, or Wisdom for a cleric, druid, paladin, or ranger). A spell’s level can vary depending on your class. Always use the spell level applicable to your class.
 
-**Succeeding on a Saving Throw**: A creature that successfully saves against a spell that has no obvious physical effects feels a hostile force or a tingle, but cannot deduce the exact nature of the attack. Likewise, if a creature’s saving throw succeeds against a targeted spell you sense that the spell has failed. You do not sense when creatures succeed on saves against effect and area spells.
+**Defending against a Spell**: A creature that a spell with no obvious physical effects misses feels a hostile force or a tingle, but cannot deduce the exact nature of the attack. Likewise, if your targeted spell misses a creature you sense that the spell has failed. You do not sense when effect and area spells miss creatures.
 
-**Automatic Failures and Successes**: A natural 1 (the d20 comes up 1) on a saving throw is always a failure, and the spell may cause damage to exposed items (see Items Surviving after a Saving Throw, below). A natural 20 (the d20 comes up 20) is always a success.
+**Voluntarily Lowering a Defense**: A creature can voluntarily lower a defense and willingly accept a spell’s result. Even a character with a special resistance to magic can suppress this quality.
 
-**Voluntarily Giving up a Saving Throw**: A creature can voluntarily forego a saving throw and willingly accept a spell’s result. Even a character with a special resistance to magic can suppress this quality.
+**Items Surviving after a Saving Throw**: Unless the descriptive text for the spell specifies otherwise, all items carried or worn by a creature are assumed to survive a magical attack. If the attack beats the creature’s defense by 10 or more, however, an exposed item is harmed (if the attack can harm objects). Refer to Table: Items Affected by Magical Attacks. Determine which four objects carried or worn by the creature are most likely to be affected and roll randomly among them. The attack is then rolled against the randomly determined item’s defense, and if it hits, the item takes whatever damage the attack deals.
 
-**Items Surviving after a Saving Throw**: Unless the descriptive text for the spell specifies otherwise, all items carried or worn by a creature are assumed to survive a magical attack. If a creature rolls a natural 1 on its saving throw against the effect, however, an exposed item is harmed (if the attack can harm objects). Refer to Table: Items Affected by Magical Attacks. Determine which four objects carried or worn by the creature are most likely to be affected and roll randomly among them. The randomly determined item must make a saving throw against the attack form and take whatever damage the attack deal.
-
-If an item is not carried or worn and is not magical, it does not get a saving throw. It simply is dealt the appropriate damage.
+If an item is not carried or worn and is not magical, it has no defense against the attack. It simply is dealt the appropriate damage.
 
 **Table: Items Affected by Magical Attacks**
 
@@ -364,7 +362,7 @@ Spell resistance is a special defensive ability. If your spell is being resisted
 
 The Spell Resistance entry and the descriptive text of a spell description tell you whether spell resistance protects creatures from the spell. In many cases, spell resistance applies only when a resistant creature is targeted by the spell, not when a resistant creature encounters a spell that is already in place.
 
-The terms “object” and “harmless” mean the same thing for spell resistance as they do for saving throws. A creature with spell resistance must voluntarily lower the resistance (a standard action) in order to be affected by a spell noted as harmless. In such a case, you do not need to make the caster level check described above.
+The terms “object” and “harmless” mean the same thing for spell resistance as they do for defenses. A creature with spell resistance must voluntarily lower the resistance (a standard action) in order to be affected by a spell noted as harmless. In such a case, you do not need to make the caster level check described above.
 
 ##### Descriptive Text
 

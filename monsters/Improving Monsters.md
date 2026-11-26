@@ -42,7 +42,7 @@ If a creature acquires a character class, it follows the rules for multiclass ch
 
 The creature’s Hit Dice equal the number of class levels it has plus its racial Hit Dice. Additional Hit Dice gained from taking levels in a character class never affect a creature’s size.
 
-**Humanoids and Class Levels**: Creatures with 1 or less HD replace their monster levels with their character levels. The monster loses the attack bonus, saving throw bonuses, skills, and feats granted by its 1 monster HD and gains the attack bonus, save bonuses, skills, feats, and other class abilities of a 1st-level character of the appropriate class.
+**Humanoids and Class Levels**: Creatures with 1 or less HD replace their monster levels with their character levels. The monster loses the attack bonus, save bonuses, skills, and feats granted by its 1 monster HD and gains the attack bonus, save bonuses, skills, feats, and other class abilities of a 1st-level character of the appropriate class.
 
 **Level Adjustment and Effective Character Level**: To determine the effective character level (ECL) of a monster character, add its level adjustment to its racial Hit Dice and character class levels. The monster is considered to have experience points equal to the minimum needed to be a character of its ECL.
 
@@ -52,13 +52,13 @@ If you choose to equip a monster with gear, use its ECL as its character level f
 
 ### Increasing Hit Dice
 
-As its Hit Dice increase, a creature’s attack bonuses and saving throw modifiers might improve. It gains more feats and skills, depending on its type, as shown on Table: Creature Improvement by Type.
+As its Hit Dice increase, a creature’s attack bonuses and defenses might improve. It gains more feats and skills, depending on its type, as shown on Table: Creature Improvement by Type.
 
 Note that if a creature acquires a character class, it improves according to its class, not its type.
 
 **Table: Creature Improvement by Type**
 
-|                    | Hit Die | Attack Bonus     | Good Saving Throws             | Skill Points (\*)         |
+|                    | Hit Die | Attack Bonus     | Good Saves                     | Skill Points (\*)         |
 | ------------------ | ------- | ---------------- | ------------------------------ | ------------------------- |
 | Aberration         | d8      | HD x3/4 (medium) | Will                           | 4 + Int mod per HD        |
 | Animal             | d8      | HD x3/4 (medium) | Fort, Ref (and sometimes Will) | 2 + Int mod per HD        |
@@ -158,11 +158,11 @@ If the Hit Dice entry in a template description is missing, Hit Dice and hit poi
 
 **Space/Reach**: A template may change this entry if it changes the monster’s size. Note that this table does not take into account special situations such as exceptional reach.
 
-**Special Attacks**: A template may add or remove special attacks. The template description gives the details of any special attacks a template provides, including how to determine saving throw DCs, if applicable.
+**Special Attacks**: A template may add or remove special attacks. The template description gives the details of any special attacks a template provides, including how to determine their attack bonuses, if applicable.
 
-**Special Qualities**: A template may add or remove special qualities. The template description gives the details of any special qualities a template provides, including how to determine saving throw DCs, if applicable. Even if the special qualities entry is missing from a template description, the creature still gains any qualities associated with its new type.
+**Special Qualities**: A template may add or remove special qualities. The template description gives the details of any special qualities a template provides, including how to determine their attack bonuses, if applicable. Even if the special qualities entry is missing from a template description, the creature still gains any qualities associated with its new type.
 
-**Base Saves**: As with attacks, changing a monster’s type does not always change its base saving throw bonuses. You only need to adjust them for new modifiers for Constitution, Dexterity, or Wisdom. A template may, however, state that a monster has a different “good” saving throw.
+**Base Saves**: As with attacks, changing a monster’s type does not always change its base save bonuses. You only need to adjust its defenses for new modifiers for Constitution, Dexterity, or Wisdom. A template may, however, state that a monster has a different “good” save.
 
 **Abilities**: If a template changes one or more ability scores, these changes are noted here.
 
@@ -218,7 +218,7 @@ Levels in NPC classes are always treated as nonassociated.
 
 ##### Adding Hit Dice
 
-When you improve a monster by adding Hit Dice, use Table: Improved Monster CR Increase to determine the effect on the creature’s CR. Keep in mind that many monsters that advance by adding Hit Dice also increase in size. Do not stack this CR increase with any increase from class levels. In general, once you’ve doubled a creature’s CR, you should closely watch any additional increases in its abilities. Adding Hit Dice to a creature improves several of its abilities, and radical increases might not follow this progression indefinitely. Compare the monster’s improved attack bonus, saving throw bonuses, and any DCs of its special abilities from the HD increase to typical characters of the appropriate level and adjust the CR accordingly.
+When you improve a monster by adding Hit Dice, use Table: Improved Monster CR Increase to determine the effect on the creature’s CR. Keep in mind that many monsters that advance by adding Hit Dice also increase in size. Do not stack this CR increase with any increase from class levels. In general, once you’ve doubled a creature’s CR, you should closely watch any additional increases in its abilities. Adding Hit Dice to a creature improves several of its abilities, and radical increases might not follow this progression indefinitely. Compare the monster’s improved attack bonus, defenses, and any attack bonuses of its special abilities from the HD increase to typical characters of the appropriate level and adjust the CR accordingly.
 
 **Table: Improved Monster CR Increase**
 

@@ -104,7 +104,7 @@ You apply your character’s Dexterity modifier to:
 
 - Ranged attack rolls, including those for attacks made with bows, crossbows, throwing axes, and other ranged weapons.
 - Armor Class (AC), provided that the character can react to the attack.
-- Reflex saving throws, for avoiding fireballs and other attacks that you can escape by moving quickly.
+- Reflex Defense, for avoiding fireballs and other attacks that you can escape by moving quickly.
 - [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Escape Artist|Escape Artist]], [[rangoric-srd/skills/Stealth|Stealth]], [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]], [[rangoric-srd/skills/Animal Handling|Animal Handling]], and [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks. These are the skills that have Dexterity as their key ability.
 
 ##### Constitution (Con)
@@ -114,7 +114,7 @@ Constitution represents your character’s health and stamina. A Constitution bo
 You apply your character’s Constitution modifier to:
 
 - Each roll of a Hit Die (though a penalty can never drop a result below 1—that is, a character always gains at least 1 hit point each time he or she advances in level).
-- Fortitude saving throws, for resisting poison and similar threats.
+- Fortitude Defense, for resisting poison and similar threats.
 - [[rangoric-srd/rules/Concentration (Check)|Concentration checks]], which spellcasters make with their caster level plus their Constitution modifier.
 
 If a character’s Constitution score changes enough to alter his or her Constitution modifier, the character’s hit points also increase or decrease accordingly.
@@ -139,7 +139,7 @@ Wisdom describes a character’s willpower, common sense, perception, and intuit
 
 You apply your character’s Wisdom modifier to:
 
-- Will saving throws (for negating the effect of charm person and other spells).
+- Will Defense (for negating the effect of charm person and other spells).
 - [[rangoric-srd/skills/Fieldcraft|Fieldcraft]], [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Profession|Profession]], and [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks. These are the skills that have Wisdom as their key ability.
 
 [[rangoric-srd/classes/Cleric|Clerics]], [[rangoric-srd/classes/Druid|druids]], and [[rangoric-srd/classes/Ranger|rangers]] get bonus spells based on their Wisdom scores. The minimum Wisdom score needed to cast a cleric, druid, or ranger spell is 10 + the spell’s level.
