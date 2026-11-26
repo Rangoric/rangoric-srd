@@ -9,7 +9,7 @@ display: "Visual"
 manifesting-time: "1 standard action"
 range: "Personal and touch"
 duration: "Instantaneous"
-saving-throw: "None or Will negates (object)"
+defense: "None or Will (object)"
 power-resistance: "No or Yes (object)"
 power-points: "9"
 based-on:
@@ -29,7 +29,7 @@ Psychoportation (Teleportation)
 **Range:** Personal and touch  
 Target or **Targets:** You and touched objects or other touched willing creatures  
 **Duration:** Instantaneous  
-**Saving Throw:** None or Will negates (object)  
+**Defense:** None or Will (object)  
 **Power Resistance:** No or Yes (object)  
 **Power Points:** 9
 

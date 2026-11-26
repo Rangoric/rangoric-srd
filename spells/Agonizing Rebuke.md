@@ -20,7 +20,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 level)"
 target: "One living creature"
 duration: "1 round/level"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes."
 book: "Advanced Race Guide"
 based-on:
@@ -41,7 +41,7 @@ _Illusion (Phantasm) \[Emotion, Mind-affecting\]_
 - **Range**: Close (25 ft. + 5 ft./2 level)
 - **Target**: One living creature
 - **Duration**: 1 round/level
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes.
 
 With a word and a gesture, you instill such apprehension about attacking you in your target that doing so causes it mental distress and pain. Each time the target makes an attack against you, targets you with a harmful spell, or otherwise takes and action that would harm you, it takes 2d6 points of nonlethal damage.

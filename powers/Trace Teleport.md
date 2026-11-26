@@ -9,7 +9,7 @@ manifesting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 area: "Spread with a radius of 25 ft. + 5 ft./2 levels, centered on you"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 power-resistance: "No"
 power-points: "7"
 based-on:
@@ -29,7 +29,7 @@ Clairsentience
 **Range:** Close (25 ft. + 5 ft./2 levels)  
 **Area:** Spread with a radius of 25 ft. + 5 ft./2 levels, centered on you  
 **Duration:** Instantaneous  
-**Saving Throw:** None  
+**Defense:** None  
 **Power Resistance:** No  
 **Power Points:** 7
 

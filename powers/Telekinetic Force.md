@@ -11,7 +11,7 @@ manifesting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./ level)"
 target: "One object at a time"
 duration: "Concentration, up to 1 round/level"
-saving-throw: "Will negates (object); see text"
+defense: "Will (object); see text"
 power-resistance: "Yes (object)"
 power-points: "5"
 based-on:
@@ -31,11 +31,11 @@ Psychokinesis \[Force\]
 **Range:** Medium (100 ft. + 10 ft./ level)  
 **Target:** One object at a time  
 **Duration:** Concentration, up to 1 round/level  
-**Saving Throw:** Will negates (object); see text  
+**Defense:** Will (object); see text  
 **Power Resistance:** Yes (object)  
 **Power Points:** 5
 
-You move an object by concentrating your mind upon its current location and then the location you desire, creating a sustained force. You can move an object weighing no more than 250 pounds up to 20 feet per round. A creature can negate the effect on an object it possesses with a successful Will save or with power resistance. The weight can be moved across the ground or through the air. This power ends if the object is forced out of range. If you cease concentration, the object falls or stops.
+You move an object by concentrating your mind upon its current location and then the location you desire, creating a sustained force. You can move an object weighing no more than 250 pounds up to 20 feet per round. The power attacks the Will of a creature that possesses the object, and a miss (or power resistance) negates the effect on it. The weight can be moved across the ground or through the air. This power ends if the object is forced out of range. If you cease concentration, the object falls or stops.
 
 You can drop a weight and pick up another during the power’s duration, as long as you don’t stop concentrating on maintaining the power. An object can be ally manipulated as if you were moving it with one hand.
 

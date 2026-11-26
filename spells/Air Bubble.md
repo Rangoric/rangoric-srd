@@ -19,7 +19,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "One creature or one object no larger than a Large two-handed weapon"
 duration: "1 minute/level"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Ultimate Combat"
 based-on:
@@ -40,7 +40,7 @@ _Conjuration (Creation)_
 - **Range**: Touch
 - **Target**: One creature or one object no larger than a Large two-handed weapon
 - **Duration**: 1 minute/level
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 _Air bubble_ creates a small pocket of breathable air that surrounds the touched creature's head or the touched object. The _air bubble_ allows the creature touched to breathe underwater or in similar airless environments, or protects the object touched from water damage.

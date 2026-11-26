@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Firearm or alchemical item touched"
 duration: "1 minute/level"
-saving-throw: "Fortitude negates (object)"
+defense: "Fortitude (object)"
 spell-resistance: "Yes"
 book: "Advanced Race Guide"
 based-on:
@@ -34,7 +34,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: Firearm or alchemical item touched
 - **Duration**: 1 minute/level
-- **Saving Throw**: Fortitude negates (object)
+- **Defense**: Fortitude (object)
 - **Spell Resistance**: Yes
 
 You transform one alchemical item or [[rangoric-srd/equipment/Firearms|firearm]] into another alchemical item or firearm of the same or lesser cost. Magic items are unaffected by this spell. At the end of the spell's duration, alchemical items used while transformed are destroyed and do not return to a usable state and firearms transformed revert back to their original type.

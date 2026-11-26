@@ -12,7 +12,7 @@ manifesting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "Wall whose area is up to one 10-ft. square/level or a sphere or hemisphere with a radius of up to 1 ft./level"
 duration: "1 min./level (D)"
-saving-throw: "None"
+defense: "None"
 power-resistance: "No"
 power-points: "7"
 based-on:
@@ -32,7 +32,7 @@ Metacreativity (Creation)
 **Range:** Close (25 ft. + 5 ft./2 levels)  
 **Effect:** Wall whose area is up to one 10-ft. square/level or a sphere or hemisphere with a radius of up to 1 ft./level  
 **Duration:** 1 min./level (D)  
-**Saving Throw:** None  
+**Defense:** None  
 **Power Resistance:** No  
 **Power Points:** 7
 

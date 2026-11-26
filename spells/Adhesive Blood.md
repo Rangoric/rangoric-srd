@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 minute/level"
-saving-throw: "Reflex negates (see text)"
+defense: "Reflex (see text)"
 spell-resistance: "No"
 book: "Advanced Class Guide"
 based-on:
@@ -36,7 +36,7 @@ _Transmutation_
 - **Range**: Personal
 - **Target**: You
 - **Duration**: 1 minute/level
-- **Saving Throw**: Reflex negates (see text)
+- **Defense**: Reflex (see text)
 - **Spell Resistance**: No
 
-Your blood thickens to becomes a glue-like substance upon contact with air. A piercing or slashing weapon that deals hit point damage to you is stuck fast unless the wielder succeeds at a Reflex save. A creature can pry off a stuck weapon on its turn as a standard action with a successful Strength check against the spell's DC. Strong alcohol or _[[rangoric-srd/magic-items/wondrous-items/Universal Solvent|universal solvent]]_ dissolves the adhesive. The glue breaks down 5 rounds after you die, or when the duration ends. This glue has no effect while underwater or in environments that lack air.
+Your blood thickens to becomes a glue-like substance upon contact with air. A piercing or slashing weapon that deals hit point damage to you is stuck fast if the spell hits the wielder’s Reflex. A creature can pry off a stuck weapon on its turn as a standard action with a successful Strength check against the spell's DC. Strong alcohol or _[[rangoric-srd/magic-items/wondrous-items/Universal Solvent|universal solvent]]_ dissolves the adhesive. The glue breaks down 5 rounds after you die, or when the duration ends. This glue has no effect while underwater or in environments that lack air.

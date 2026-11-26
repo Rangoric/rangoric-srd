@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 targets: "One Small object per caster level; see text"
 duration: "1 round/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Animate Objects|Animate Objects (3.5)]]"
@@ -37,7 +37,7 @@ _Transmutation_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Targets**: One Small object per caster level; see text
 - **Duration**: 1 round/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You imbue inanimate objects with mobility and a semblance of life. Each such animated object then immediately attacks whomever or whatever you initially designate.

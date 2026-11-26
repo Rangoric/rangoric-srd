@@ -19,7 +19,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature (Gargantuan or smaller) touched"
 duration: "10 min./level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Air Walk|Air Walk (3.5)]]"
@@ -39,7 +39,7 @@ _Transmutation \[Air\]_
 - **Range**: Touch
 - **Target**: Creature (Gargantuan or smaller) touched
 - **Duration**: 10 min./level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes (harmless)
 
 The subject can tread on air as if walking on solid ground. Moving upward is similar to walking up a hill. The maximum upward or downward angle possible is 45 degrees, at a rate equal to one-half the air walker’s normal speed.

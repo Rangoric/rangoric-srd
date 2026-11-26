@@ -21,7 +21,7 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 minute/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes (harmless)"
 book: "Ultimate Combat"
 based-on:
@@ -42,7 +42,7 @@ _Transmutation (Polymorph)_
 - **Range**: Personal
 - **Target**: You
 - **Duration**: 1 minute/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes (harmless)
 
 You gain some of the beneficial qualities of an animal. Your base form is largely unchanged and your size is unaltered, but some of your body parts are altered. Armor or gear you are wearing adjusts to your new shape for the duration of the spell. When you cast _animal aspect_, choose one of the following animals to gain the associated benefits. You can only have one _animal aspect_ or _[[rangoric-srd/spells/Animal Aspect, Greater|greater animal aspect]]_ spell active on you at a time.

@@ -19,7 +19,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature or object up to Large size"
 duration: "Instantaneous"
-saving-throw: "Reflex partial (see text)"
+defense: "Reflex partial (see text)"
 spell-resistance: "Yes"
 book: "Advanced Class Guide"
 based-on:
@@ -40,7 +40,7 @@ _Evocation \[Air\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature or object up to Large size
 - **Duration**: Instantaneous
-- **Saving Throw**: Reflex partial (see text)
+- **Defense**: Reflex partial (see text)
 - **Spell Resistance**: Yes
 
-You create a powerful blast of air capable of flinging an opponent upward. If the target fails its Reflex save, the force of the air deals 2d6 points of bludgeoning damage and hurls the target upward a number of feet equal to 5 × your caster level. If a solid object (such as a ceiling) is encountered, the target strikes the object in the same manner as it would during a normal fall. After this blast of air ceases, the target falls down (unless it was flying), taking falling damage as normal. A successful save means the target takes half damage from the air blast but is not moved by it.
+You create a powerful blast of air capable of flinging an opponent upward. If the spell hits the target’s Reflex, the force of the air deals 2d6 points of bludgeoning damage and hurls the target upward a number of feet equal to 5 × your caster level. If a solid object (such as a ceiling) is encountered, the target strikes the object in the same manner as it would during a normal fall. After this blast of air ceases, the target falls down (unless it was flying), taking falling damage as normal. A miss means the target takes half damage from the air blast but is not moved by it.

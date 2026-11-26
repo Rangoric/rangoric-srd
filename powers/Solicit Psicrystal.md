@@ -9,7 +9,7 @@ manifesting-time: "1 swift action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "Your psicrystal"
 duration: "1 round/level (D)"
-saving-throw: "No"
+defense: "No"
 power-resistance: "No"
 power-points: "5"
 based-on:
@@ -29,7 +29,7 @@ Telepathy
 **Range:** Close (25 ft. + 5 ft./2 levels)  
 **Target:** Your psicrystal  
 **Duration:** 1 round/level (D)  
-**Saving Throw:** No  
+**Defense:** No  
 **Power Resistance:** No  
 **Power Points:** 5
 

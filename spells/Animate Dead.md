@@ -20,7 +20,7 @@ casting-time: "1 standard action"
 range: "Touch"
 targets: "One or more corpses touched"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Animate Dead|Animate Dead (3.5)]]"
@@ -40,7 +40,7 @@ _Necromancy \[Evil\]_
 - **Range**: Touch
 - **Targets**: One or more corpses touched
 - **Duration**: Instantaneous
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 This spell turns the bones or bodies of [[rangoric-srd/rules/Special Abilities and Conditions#^dead|dead]] creatures into undead skeletons or zombies that follow your spoken commands.

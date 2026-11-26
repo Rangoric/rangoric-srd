@@ -18,7 +18,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature/level, no two of which can be more than 30 ft. apart"
 duration: "Permanent (see text)"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Advanced Class Guide"
 based-on:
@@ -39,7 +39,7 @@ _Enchantment (Compulsion) \[Mind-affecting\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature/level, no two of which can be more than 30 ft. apart
 - **Duration**: Permanent (see text)
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 You cause the targets to forget all but the most general information about you. If they saw you or interacted with you, they still remember your presence and your general shape (such as humanoid), as well as the gist of your interactions with them (such as "She was asking about the queen"), but they don't remember specifically what you said, details of your appearance, or any identifying information about you. This spell targets any memories of you in the minute preceding its casting, but is otherwise permanent.

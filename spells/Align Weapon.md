@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Weapon touched or fifty projectiles (all of which must be in contact with each other at the time of casting)"
 duration: "1 min./level"
-saving-throw: "Will negates (harmless, object)"
+defense: "Will (harmless, object)"
 spell-resistance: "Yes (harmless, object)"
 based-on:
   - "[[fantasy srd 3.5/spells/Align Weapon|Align Weapon (3.5)]]"
@@ -35,7 +35,7 @@ _Transmutation \[see text\]_
 - **Range**: Touch
 - **Target**: Weapon touched or fifty projectiles (all of which must be in contact with each other at the time of casting)
 - **Duration**: 1 min./level
-- **Saving Throw**: Will negates (harmless, object)
+- **Defense**: Will (harmless, object)
 - **Spell Resistance**: Yes (harmless, object)
 
 Align weapon makes a weapon good, evil, lawful, or chaotic, as you choose. A weapon that is aligned can bypass the [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|damage reduction]] of certain creatures. This spell has no effect on a weapon that already has an alignment.

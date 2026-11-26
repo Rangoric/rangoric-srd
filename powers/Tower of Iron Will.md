@@ -11,7 +11,7 @@ manifesting-time: "1 immediate action"
 range: "10 ft."
 area: "10-ft.-radius emanation centered on you"
 duration: "1 round"
-saving-throw: "None (harmless)"
+defense: "None (harmless)"
 power-resistance: "Yes (harmless)"
 power-points: "9"
 based-on:
@@ -31,7 +31,7 @@ Telepathy \[Mind-Affecting\]
 **Range:** 10 ft.  
 **Area:** 10-ft.-radius emanation centered on you  
 **Duration:** 1 round  
-**Saving Throw:** None (harmless)  
+**Defense:** None (harmless)  
 **Power Resistance:** Yes (harmless)  
 **Power Points:** 9
 

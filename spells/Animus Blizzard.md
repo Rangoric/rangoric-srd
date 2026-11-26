@@ -12,7 +12,7 @@ casting-time: "1 minute"
 range: "300 ft."
 area: "20-ft.-radius hemisphere burst"
 duration: "Instantaneous"
-saving-throw: "Reflex half"
+defense: "Reflex half"
 spell-resistance: "Yes"
 to-develop: "702,000 gp; 15 days; 28,080 XP. Seeds: energy (DC 19), animate dead (DC 23). Factors: increase damage to 30d6 (+40 DC), set undead type to wight (-4 DC)."
 based-on:
@@ -32,7 +32,7 @@ Casting Time: 1 minute
 Range: 300 ft.  
 Area: 20-ft.-radius hemisphere burst  
 Duration: Instantaneous  
-Saving Throw: Reflex half  
+Defense: Reflex half  
 Spell Resistance: Yes  
 To Develop: 702,000 gp; 15 days; 28,080 XP. Seeds: energy (DC 19), animate dead (DC 23). Factors: increase damage to 30d6 (+40 DC), set undead type to wight (-4 DC).
 

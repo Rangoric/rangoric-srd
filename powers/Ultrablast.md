@@ -11,7 +11,7 @@ manifesting-time: "1 standard action"
 range: "15 ft."
 area: "15-ft.-radius spread centered on you"
 duration: "Instantaneous"
-saving-throw: "Will half"
+defense: "Will half"
 power-resistance: "Yes"
 power-points: "13"
 based-on:
@@ -31,7 +31,7 @@ Telepathy \[Mind-Affecting\]
 **Range:** 15 ft.  
 **Area:** 15-ft.-radius spread centered on you  
 **Duration:** Instantaneous  
-**Saving Throw:** Will half  
+**Defense:** Will half  
 **Power Resistance:** Yes  
 **Power Points:** 13
 

@@ -10,7 +10,7 @@ display: "Visual"
 range: "Touch"
 target: "Weapon touched"
 duration: "1 round/level"
-saving-throw: "Fortitude negates (object, harmless)"
+defense: "Fortitude (object, harmless)"
 power-resistance: "None"
 power-points: "7"
 based-on:
@@ -29,7 +29,7 @@ Psychokinesis \[see text\]
 **Range:** Touch  
 **Target:** Weapon touched  
 **Duration:** 1 round/level  
-**Saving Throw:** Fortitude negates (object, harmless)  
+**Defense:** Fortitude (object, harmless)  
 **Power Resistance:** None  
 **Power Points:** 7
 

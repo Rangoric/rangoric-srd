@@ -12,7 +12,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 targets: "One Large plant per three caster levels or all plants within range; see text"
 duration: "1 round/level or 1 hour/level; see text"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Animate Plants|Animate Plants (3.5)]]"
@@ -32,7 +32,7 @@ _Transmutation_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Targets**: One Large plant per three caster levels or all plants within range; see text
 - **Duration**: 1 round/level or 1 hour/level; see text
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You imbue inanimate plants with mobility and a semblance of life. Each animated plant then immediately attacks whomever or whatever you initially designate as though it were an animated object of the appropriate size category. You may animate one Large or smaller plant, or an equivalent number of larger plants, per three caster levels. A Huge plant counts as two Large or smaller plants, a Gargantuan plant as four, and a Colossal plant as eight. You can change the designated target or targets as a move action, as if directing an active spell.

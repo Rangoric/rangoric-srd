@@ -22,7 +22,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creatures touched"
 duration: "2 hours/level"
-saving-throw: "Fortitude negates (harmless)"
+defense: "Fortitude (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Ultimate Combat"
 based-on:
@@ -43,7 +43,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: Creatures touched
 - **Duration**: 2 hours/level
-- **Saving Throw**: Fortitude negates (harmless)
+- **Defense**: Fortitude (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 This spell functions like _[[rangoric-srd/spells/Ant Haul|ant haul]]_, except you may [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 2-hour intervals among the creatures touched.

@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Willing drow touched"
 duration: "24 hours (D)"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Advanced Race Guide"
 based-on:
@@ -38,7 +38,7 @@ _Transmutation (Polymorph)_
 - **Range**: Touch
 - **Target**: Willing drow touched
 - **Duration**: 24 hours (D)
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 The target drow transforms into a surface elf. The drow loses her darkvision and light-blindness racial traits and gains the low-light vision racial trait in their place. The alignment and personality of the drow are not affected by the transformation, but the spell conceals her alignment as an _[[rangoric-srd/spells/Undetectable Alignment|undetectable alignment]]_ spell. The spell grants the target a +10 bonus on Imitation checks to pass as an elf, though she appears to be an elven analog of herself and can be recognized as such by other drow who know her.

@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Living creatures touched"
 duration: "1 hour/level; see text"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Advanced Race Guide"
 based-on:
@@ -38,7 +38,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: Living creatures touched
 - **Duration**: 1 hour/level; see text
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 The targets are able to breathe water, freely. However, they can no longer breathe air. Divide the duration evenly among all the creatures you touch. This spell has no effect on creatures that can already breathe water.
