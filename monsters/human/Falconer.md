@@ -16,7 +16,7 @@ full-attack: "Masterwork short sword +4 melee (1d6/19–20); or masterwork light
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "—"
-saves: "Fort +0, Ref +4, Will +3"
+defenses: "Fort 10, Ref 14, Will 13"
 abilities: "Str 10, Dex 12, Con 9, Int 11, Wis 8, Cha 14"
 skills: "Animal Handling +13, Athletics +5, Fieldcraft +3, Perception +10, Persuasion +9, Profession (falconer) +7, Society +7"
 skill-ranks: "Animal Handling 8, Athletics 2, Fieldcraft 1, Perception 8, Persuasion 4, Profession (falconer) 4, Society 4"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: —
-- **Saves**: Fort +0, Ref +4, Will +3
+- **Defenses**: Fort 10, Ref 14, Will 13
 - **Abilities**: Str 10, Dex 12, Con 9, Int 11, Wis 8, Cha 14
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +13, [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +3, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Persuasion|Persuasion]] +9, [[rangoric-srd/skills/Profession|Profession]] (falconer) +7, [[rangoric-srd/skills/Society|Society]] +7
 - **Feats**: [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Animal Handling, Perception)

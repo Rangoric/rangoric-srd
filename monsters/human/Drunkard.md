@@ -15,7 +15,7 @@ full-attack: "Club +3 melee (1d6+1); or dagger +3 melee (1d4+1/19–20); or club
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: ""
-saves: "Fort +7, Ref +0, Will –1"
+defenses: "Fort 17, Ref 10, Will 9"
 abilities: "Str 13, Dex 11, Con 14, Int 10, Wis 9, Cha 8"
 skills: "Animal Handling +4, Athletics +5, Intimidation +5, Profession (choose one) +3"
 skill-ranks: "Animal Handling 2, Athletics 1, Intimidation 3, Profession (choose one) 3"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**:
-- **Saves**: Fort +7, Ref +0, Will –1
+- **Defenses**: Fort 17, Ref 10, Will 9
 - **Abilities**: Str 13, Dex 11, Con 14, Int 10, Wis 9, Cha 8
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +4, [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Profession|Profession]] (choose one) +3
 - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]]

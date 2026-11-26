@@ -15,7 +15,7 @@ full-attack: "Masterwork guisarme +9 melee (2d4+5/×3); or sap +7 melee (1d6+3 n
 space-reach: "5 ft./5 ft. (10 ft. with guisarme)"
 special-attacks: "—"
 special-qualities: "Bravery +1, armor training 1"
-saves: "Fort +6, Ref +2, Will +1 (+1 vs. fear)"
+defenses: "Fort 16, Ref 12, Will 11 (+1 vs. fear)"
 abilities: "Str 16, Dex 13, Con 14, Int 10, Wis 10, Cha 12"
 skills: "Animal Handling +2, Intimidation +11, Perception +3, Sense Motive +2"
 skill-ranks: "Animal Handling 1, Intimidation 7, Perception 3, Sense Motive 2"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft. (10 ft. with guisarme)
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/classes/Fighter#^fighter-bravery|Bravery]] +1, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1
-- **Saves**: Fort +6, Ref +2, Will +1 (+1 vs. fear)
+- **Defenses**: Fort 16, Ref 12, Will 11 (+1 vs. fear)
 - **Abilities**: Str 16, Dex 13, Con 14, Int 10, Wis 10, Cha 12
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +2, [[rangoric-srd/skills/Intimidation|Intimidation]] +11, [[rangoric-srd/skills/Perception|Perception]] +3, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +2
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dazzling Display|Dazzling Display]], [[rangoric-srd/feats/Exotic Weapon Proficiency|Exotic Weapon Proficiency]] (net), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Intimidation), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (guisarme), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (guisarme)

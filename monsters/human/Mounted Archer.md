@@ -16,7 +16,7 @@ full-attack: "Masterwork scimitar +8 melee (1d6+2/18–20); or lance +7 melee (1
 space-reach: "5 ft./5 ft. (10 ft. with lance)"
 special-attacks: "Favored enemy (animals +2, humans +4)"
 special-qualities: "Favored terrain (desert +2), hunter's bond (companions), track +2, wild empathy +4, resistance to fire 10"
-saves: "Fort +7, Ref +8, Will +3"
+defenses: "Fort 17, Ref 18, Will 13"
 abilities: "Str 15, Dex 16, Con 14, Int 10, Wis 12, Cha 8"
 skills: "Animal Handling +9, Fieldcraft +9, Medicine +9, Nature +8, Perception +9, Society +8, Stealth +9"
 skill-ranks: "Animal Handling 3, Fieldcraft 5, Medicine 5, Nature 5, Perception 5, Society 5, Stealth 3"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft. (10 ft. with lance)
 - **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|Favored enemy]] (animals +2, humans +4)
 - **Special Qualities**: [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|Favored terrain]] (desert +2), [[rangoric-srd/classes/Ranger#^ranger-hunters-bond|hunter's bond]] (companions), [[rangoric-srd/classes/Ranger#^ranger-track|track]] +2, [[rangoric-srd/classes/Ranger#^ranger-wild-empathy|wild empathy]] +4, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10
-- **Saves**: Fort +7, Ref +8, Will +3
+- **Defenses**: Fort 17, Ref 18, Will 13
 - **Abilities**: Str 15, Dex 16, Con 14, Int 10, Wis 12, Cha 8
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +9, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +9, [[rangoric-srd/skills/Medicine|Medicine]] +9, [[rangoric-srd/skills/Nature|Nature]] +8, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Society|Society]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +9
 - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mounted Archery|Mounted Archery]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Track|Track]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (composite shortbow)

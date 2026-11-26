@@ -16,7 +16,7 @@ full-attack: "Short sword +4 melee (1d6+2/19–20); or dagger +3 ranged (1d4+2/1
 space-reach: "5 ft./5 ft."
 special-attacks: "Sneak attack +1d6"
 special-qualities: "Trapfinding +1, finesse training"
-saves: "Fort +1, Ref +5, Will –1"
+defenses: "Fort 11, Ref 15, Will 9"
 abilities: "Str 14, Dex 17, Con 13, Int 10, Wis 8, Cha 12"
 skills: "Acrobatics +7, Athletics +6, Engineering +7, Escape Artist +7, Perception +3, Sleight of Hand +7, Society +4, Stealth +7"
 skill-ranks: "Acrobatics 1, Athletics 1, Engineering 1, Escape Artist 1, Perception 1, Sleight of Hand 1, Society 1, Stealth 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +1d6
 - **Special Qualities**: [[rangoric-srd/classes/Rogue#^rogue-trapfinding|Trapfinding]] +1, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]]
-- **Saves**: Fort +1, Ref +5, Will –1
+- **Defenses**: Fort 11, Ref 15, Will 9
 - **Abilities**: Str 14, Dex 17, Con 13, Int 10, Wis 8, Cha 12
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Engineering|Engineering]] +7, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +7, [[rangoric-srd/skills/Perception|Perception]] +3, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +7, [[rangoric-srd/skills/Society|Society]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +7
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (short sword)

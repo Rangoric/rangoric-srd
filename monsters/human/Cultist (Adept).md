@@ -16,7 +16,7 @@ full-attack: "Masterwork silver dagger +5 melee (1d4–1/19–20); or masterwork
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Summon familiar (raven, speaks Aklo)"
-saves: "Fort +5, Ref +6, Will +12"
+defenses: "Fort 15, Ref 16, Will 22"
 abilities: "Str 8, Dex 16, Con 10, Int 9, Wis 16, Cha 12"
 skills: "Acrobatics +7, Appraise +2, Arcana +6, Deception +17, Linguistics +0, Mysticism +7, Theology +9"
 skill-ranks: "Acrobatics 1, Appraise 3, Arcana 4, Deception 13, Linguistics 1, Mysticism 5, Theology 7"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/classes/Adept|Summon familiar]] (raven, speaks Aklo)
-- **Saves**: Fort +5, Ref +6, Will +12
+- **Defenses**: Fort 15, Ref 16, Will 22
 - **Abilities**: Str 8, Dex 16, Con 10, Int 9, Wis 16, Cha 12
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Appraise|Appraise]] +2, [[rangoric-srd/skills/Arcana|Arcana]] +6, [[rangoric-srd/skills/Deception|Deception]] +17, [[rangoric-srd/skills/Linguistics|Linguistics]] +0, [[rangoric-srd/skills/Mysticism|Mysticism]] +7, [[rangoric-srd/skills/Theology|Theology]] +9
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception), [[rangoric-srd/feats/Toughness|Toughness]]
@@ -81,4 +81,4 @@ A cultist (adept) speaks Common and Aklo.
 
 **Base Statistics**: Without barkskin, cat's grace, fly, and mage armor, the adept's statistics are **Init** +5; **AC** 11, touch 11, flat-footed 10; **Ref** +4; **Speed** 30 ft; **Ranged** masterwork silver dagger +7 (1d4-1/19-20); **Dex** 12; **CMD** 15; **Skills** Acrobatics +1.
 
-**Adept spells prepared** (CL 10th; concentration +13): 3rd—_[[rangoric-srd/spells/Bestow Curse|bestow curse]]_ (DC 16), _[[rangoric-srd/spells/Cure Serious Wounds|cure serious wounds]]_; 2nd—_[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Mirror Image|mirror image]]_, _[[rangoric-srd/spells/Web|web]]_ (DC 15); 1st—_[[rangoric-srd/spells/Command|command]]_ (DC 14), _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, _[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]_, _[[rangoric-srd/spells/Protection from Law|protection from law]]_; 0 (at will)—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_.
+**Adept spells prepared** (CL 10th; concentration +13): 3rd—_[[rangoric-srd/spells/Bestow Curse|bestow curse]]_ (+6 vs Will), _[[rangoric-srd/spells/Cure Serious Wounds|cure serious wounds]]_; 2nd—_[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Mirror Image|mirror image]]_, _[[rangoric-srd/spells/Web|web]]_ (+5 vs Reflex); 1st—_[[rangoric-srd/spells/Command|command]]_ (+4 vs Will), _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, _[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]_, _[[rangoric-srd/spells/Protection from Law|protection from law]]_; 0 (at will)—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_.

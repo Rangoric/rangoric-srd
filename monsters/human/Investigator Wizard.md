@@ -16,7 +16,7 @@ full-attack: "Club +1 melee (1d6–1); or light crossbow +4 ranged (1d8/19–20)
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Arcane bond (ring of protection +1), forewarned"
-saves: "Fort +2, Ref +3, Will +5"
+defenses: "Fort 12, Ref 13, Will 15"
 abilities: "Str 8, Dex 14, Con 13, Int 18, Wis 12, Cha 10"
 skills: "Arcana +10, Intimidation +4, Mysticism +11, Perception +5, Persuasion +4, Sense Motive +5, Society +10, Theology +8"
 skill-ranks: "Arcana 3, Intimidation 1, Mysticism 4, Perception 1, Persuasion 1, Sense Motive 1, Society 3, Theology 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/classes/Wizard#^wizard-arcane-bond|Arcane bond]] (ring of protection +1), [[rangoric-srd/class-options/arcane-schools/Divination School|forewarned]]
-- **Saves**: Fort +2, Ref +3, Will +5
+- **Defenses**: Fort 12, Ref 13, Will 15
 - **Abilities**: Str 8, Dex 14, Con 13, Int 18, Wis 12, Cha 10
 - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +4, [[rangoric-srd/skills/Mysticism|Mysticism]] +11, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Persuasion|Persuasion]] +4, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Society|Society]] +10, [[rangoric-srd/skills/Theology|Theology]] +8
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]]
@@ -75,4 +75,4 @@ An investigator wizard speaks Common, Draconic, Dwarven, Elven, and Orc.
 
 **Base Statistics**: Without mage armor, the wizard's statistics are **AC** 14, touch 14, flat-footed 11.
 
-**Diviner spells prepared** (CL 4th; concentration +8): 2nd—_[[rangoric-srd/spells/Cat’s Grace|cat's grace]]_, _[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ (DC 16), _[[rangoric-srd/spells/Web|web]]_ (2, DC 16); 1st—_[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]_, _[[rangoric-srd/spells/Feather Fall|feather fall]]_, _[[rangoric-srd/spells/Mage Armor|mage armor]]_, _[[rangoric-srd/spells/Magic Missile|magic missile]]_(2); 0 (at will)—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Detect Poison|detect poison]]_, _[[rangoric-srd/spells/Message|message]]_; **Opposition Schools**: [[rangoric-srd/class-options/arcane-schools/Illusion School|illusion]], [[rangoric-srd/class-options/arcane-schools/Necromancy School|necromancy]].
+**Diviner spells prepared** (CL 4th; concentration +8): 2nd—_[[rangoric-srd/spells/Cat’s Grace|cat's grace]]_, _[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ (+6 vs Will), _[[rangoric-srd/spells/Web|web]]_ (2, +6 vs Reflex); 1st—_[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]_, _[[rangoric-srd/spells/Feather Fall|feather fall]]_, _[[rangoric-srd/spells/Mage Armor|mage armor]]_, _[[rangoric-srd/spells/Magic Missile|magic missile]]_(2); 0 (at will)—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Detect Poison|detect poison]]_, _[[rangoric-srd/spells/Message|message]]_; **Opposition Schools**: [[rangoric-srd/class-options/arcane-schools/Illusion School|illusion]], [[rangoric-srd/class-options/arcane-schools/Necromancy School|necromancy]].

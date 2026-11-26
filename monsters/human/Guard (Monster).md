@@ -15,7 +15,7 @@ full-attack: "Halberd +5 melee (1d10+3/×3); or heavy flail +5 melee (1d10+3/19�
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "—"
-saves: "Fort +4, Ref +1, Will +1"
+defenses: "Fort 14, Ref 11, Will 11"
 abilities: "Str 14, Dex 11, Con 13, Int 9, Wis 10, Cha 8"
 skills: "Animal Handling –3, Intimidation +5, Perception +4, Sense Motive +0"
 skill-ranks: "Animal Handling 0, Intimidation 3, Perception 3, Sense Motive 2"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: —
-- **Saves**: Fort +4, Ref +1, Will +1
+- **Defenses**: Fort 14, Ref 11, Will 11
 - **Abilities**: Str 14, Dex 11, Con 13, Int 9, Wis 10, Cha 8
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] –3, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +0
 - **Feats**: [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

@@ -16,7 +16,7 @@ full-attack: "Masterwork dagger +4 melee (1d4–1/19–20); or dagger +3 ranged 
 space-reach: "5 ft./5 ft."
 special-attacks: "Bardic performance 10 rounds/day (countersong, distraction, fascinate, inspire competence +2, inspire courage +1)"
 special-qualities: "Bardic knowledge +1, versatile performance (act)"
-saves: "Fort +2, Ref +4, Will +3 (+4 vs. bardic performance, language-dependent, and sonic)"
+defenses: "Fort 12, Ref 14, Will 13 (+4 vs. bardic performance, language-dependent, and sonic)"
 abilities: "Str 8, Dex 13, Con 12, Int 14, Wis 10, Cha 15"
 skills: "Appraise +6, Arcana +7, Deception +11, Imitation +8, Intimidation +6, Mysticism +8, Perception +4, Perform (act, dance) +8, Perform (sing) +7, Persuasion +8, Sense Motive +5, Society +9"
 skill-ranks: "Appraise 1, Arcana 2, Deception 6, Imitation 3, Intimidation 1, Mysticism 3, Perception 1, Perform (act, dance) 3, Perform (sing) 2, Persuasion 3, Sense Motive 2, Society 4"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Bard#^bardic-music|Bardic performance]] 10 rounds/day (countersong, distraction, fascinate, inspire competence +2, inspire courage +1)
 - **Special Qualities**: [[rangoric-srd/classes/Bard|Bardic knowledge]] +1, [[rangoric-srd/classes/Bard#^bard-versatile-performance|versatile performance]] (act)
-- **Saves**: Fort +2, Ref +4, Will +3 (+4 vs. bardic performance, language-dependent, and sonic)
+- **Defenses**: Fort 12, Ref 14, Will 13 (+4 vs. bardic performance, language-dependent, and sonic)
 - **Abilities**: Str 8, Dex 13, Con 12, Int 14, Wis 10, Cha 15
 - **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +6, [[rangoric-srd/skills/Arcana|Arcana]] +7, [[rangoric-srd/skills/Deception|Deception]] +11, [[rangoric-srd/skills/Imitation|Imitation]] +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Mysticism|Mysticism]] +8, [[rangoric-srd/skills/Perception|Perception]] +4, Perform (act, dance) +8, Perform (sing) +7, [[rangoric-srd/skills/Persuasion|Persuasion]] +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Society|Society]] +9
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception), [[rangoric-srd/feats/Spell Focus|Spell Focus]] (enchantment), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -71,4 +71,4 @@ A local celebrity speaks Common, Elven, and Infernal.
 
 **During Combat**: The bard uses bardic performance to bolster his entourage, and spells to impede enemies.
 
-**Bard spells known** (CL 3rd; concentration +5): 1st (4/day)—_[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 14), _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_ (DC 13), _[[rangoric-srd/spells/Hypnotism|hypnotism]]_ (DC 14), _[[rangoric-srd/spells/Sleep|sleep]]_ (DC 14); 0 (at will)—_[[rangoric-srd/spells/Daze|daze]]_ (DC 13), _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Lullaby|lullaby]]_ (DC 13), _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Resistance|resistance]]_.
+**Bard spells known** (CL 3rd; concentration +5): 1st (4/day)—_[[rangoric-srd/spells/Charm Person|charm person]]_ (+4 vs Will), _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_ (+3 vs Will), _[[rangoric-srd/spells/Hypnotism|hypnotism]]_ (+4 vs Will), _[[rangoric-srd/spells/Sleep|sleep]]_ (+4 vs Will); 0 (at will)—_[[rangoric-srd/spells/Daze|daze]]_ (+3 vs Will), _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Lullaby|lullaby]]_ (+3 vs Will), _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Resistance|resistance]]_.

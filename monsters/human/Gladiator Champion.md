@@ -16,7 +16,7 @@ full-attack: "+1 short sword +12/+7 melee (1d8+3) and masterwork light mace +11 
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "—"
-saves: "Fort +7, Ref +6, Will +2"
+defenses: "Fort 17, Ref 16, Will 12"
 abilities: "Str 14, Dex 16, Con 10, Int 10, Wis 8, Cha 11"
 skills: "Acrobatics +12, Intimidation +8, Perception +4, Sense Motive +9"
 skill-ranks: "Acrobatics 6, Intimidation 5, Perception 2, Sense Motive 7"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: —
-- **Saves**: Fort +7, Ref +6, Will +2
+- **Defenses**: Fort 17, Ref 16, Will 12
 - **Abilities**: Str 14, Dex 16, Con 10, Int 10, Wis 8, Cha 11
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9
 - **Feats**: [[rangoric-srd/feats/Dazzling Display|Dazzling Display]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Two-Weapon Defense|Two-Weapon Defense]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (short sword)

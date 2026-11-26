@@ -16,7 +16,7 @@ full-attack: "Masterwork longsword +4 melee (1d8/19–20); or dagger +4 ranged (
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "—"
-saves: "Fort +1, Ref +2, Will +3"
+defenses: "Fort 11, Ref 12, Will 13"
 abilities: "Str 10, Dex 12, Con 10, Int 11, Wis 8, Cha 13"
 skills: "Animal Handling +5, Engineering +4, Fieldcraft +5, Linguistics +4, Perception +3, Perform (dance) +5, Persuasion +11, Sense Motive +4, Society +7, Theology +4"
 skill-ranks: "Animal Handling 1, Engineering 1, Fieldcraft 3, Linguistics 1, Perception 1, Perform (dance) 2, Persuasion 7, Sense Motive 2, Society 4, Theology 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: —
-- **Saves**: Fort +1, Ref +2, Will +3
+- **Defenses**: Fort 11, Ref 12, Will 13
 - **Abilities**: Str 10, Dex 12, Con 10, Int 11, Wis 8, Cha 13
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Engineering|Engineering]] +4, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Linguistics|Linguistics]] +4, [[rangoric-srd/skills/Perception|Perception]] +3, Perform (dance) +5, [[rangoric-srd/skills/Persuasion|Persuasion]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +4, [[rangoric-srd/skills/Society|Society]] +7, [[rangoric-srd/skills/Theology|Theology]] +4
 - **Feats**: [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Persuasion), [[rangoric-srd/feats/Toughness|Toughness]]

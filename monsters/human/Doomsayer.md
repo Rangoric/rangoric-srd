@@ -15,7 +15,7 @@ full-attack: "Sickle +1 melee (1d6); or dart +0 ranged (1d4)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Summon familiar (toad)"
-saves: "Fort +1, Ref +0, Will +5"
+defenses: "Fort 11, Ref 10, Will 15"
 abilities: "Str 11, Dex 9, Con 10, Int 8, Wis 15, Cha 12"
 skills: "Fieldcraft +6, Intimidation +5, Medicine +6, Mysticism +3, Perception +5, Perform (oratory) +2, Persuasion +5, Profession (scribe) +6, Sense Motive +4, Theology +3"
 skill-ranks: "Fieldcraft 1, Intimidation 3, Medicine 1, Mysticism 1, Perception 3, Perform (oratory) 3, Persuasion 3, Profession (scribe) 4, Sense Motive 2, Theology 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/classes/Adept|Summon familiar]] (toad)
-- **Saves**: Fort +1, Ref +0, Will +5
+- **Defenses**: Fort 11, Ref 10, Will 15
 - **Abilities**: Str 11, Dex 9, Con 10, Int 8, Wis 15, Cha 12
 - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Medicine|Medicine]] +6, [[rangoric-srd/skills/Mysticism|Mysticism]] +3, [[rangoric-srd/skills/Perception|Perception]] +5, Perform (oratory) +2, [[rangoric-srd/skills/Persuasion|Persuasion]] +5, [[rangoric-srd/skills/Profession|Profession]] (scribe) +6, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +4, [[rangoric-srd/skills/Theology|Theology]] +3
 - **Feats**: [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Intimidation, Persuasion)
@@ -72,4 +72,4 @@ A doomsayer speaks Common.
 
 ### Combat
 
-**Adept spells prepared** (CL 3rd; concentration +5): 1st—_[[rangoric-srd/spells/Bless|bless]]_, _[[rangoric-srd/spells/Burning Hands|burning hands]]_ (DC 13), _[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]_; 0—_[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (DC 12), _[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Touch of Fatigue|touch of fatigue]]_ (DC 12).
+**Adept spells prepared** (CL 3rd; concentration +5): 1st—_[[rangoric-srd/spells/Bless|bless]]_, _[[rangoric-srd/spells/Burning Hands|burning hands]]_ (+3 vs Reflex), _[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]_; 0—_[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (+2 vs Will), _[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Touch of Fatigue|touch of fatigue]]_ (+2 vs Fortitude).

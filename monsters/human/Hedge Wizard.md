@@ -15,7 +15,7 @@ full-attack: "Dagger +2 melee (1d4/19–20); or dagger +3 ranged (1d4/19–20)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Hand of the apprentice (7/day)"
 special-qualities: "Arcane bond (raven familiar)"
-saves: "Fort +3, Ref +3, Will +6"
+defenses: "Fort 13, Ref 13, Will 16"
 abilities: "Str 10, Dex 13, Con 12, Int 18, Wis 14, Cha 8"
 skills: "Appraise +12, Arcana +12, Craft (alchemy) +15, Dungeoneering +10, Mysticism +12, Perception +6, Profession (herbalist) +10, Society +10"
 skill-ranks: "Appraise 5, Arcana 5, Craft (alchemy) 8, Dungeoneering 3, Mysticism 5, Perception 1, Profession (herbalist) 3, Society 3"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/class-options/arcane-schools/Universalist School|Hand of the apprentice]] (7/day)
 - **Special Qualities**: [[rangoric-srd/classes/Wizard#^wizard-arcane-bond|Arcane bond]] (raven familiar)
-- **Saves**: Fort +3, Ref +3, Will +6
+- **Defenses**: Fort 13, Ref 13, Will 16
 - **Abilities**: Str 10, Dex 13, Con 12, Int 18, Wis 14, Cha 8
 - **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +12, [[rangoric-srd/skills/Arcana|Arcana]] +12, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +15, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +10, [[rangoric-srd/skills/Mysticism|Mysticism]] +12, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Profession|Profession]] (herbalist) +10, [[rangoric-srd/skills/Society|Society]] +10
 - **Feats**: [[rangoric-srd/feats/Brew Potion|Brew Potion]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Defensive Combat Training|Defensive Combat Training]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Craft \[alchemy\])
@@ -72,4 +72,4 @@ A hedge wizard speaks Aquan, Common, Elven, Gnome, and Sylvan.
 
 ### Combat
 
-**Wizard spells prepared** (CL 3rd; concentration +7): 2nd—_[[rangoric-srd/spells/Blindness-Deafness|blindness/deafness]]_ (DC 16), _[[rangoric-srd/spells/Glitterdust|glitterdust]]_ (DC 16); 1st—_[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 15), _[[rangoric-srd/spells/Color Spray|color spray]]_ (DC 15), _[[rangoric-srd/spells/Unseen Servant|unseen servant]]_; 0 (at will)—_[[rangoric-srd/spells/Arcane Mark|arcane mark]]_, _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Mending|mending]]_, _[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_.
+**Wizard spells prepared** (CL 3rd; concentration +7): 2nd—_[[rangoric-srd/spells/Blindness-Deafness|blindness/deafness]]_ (+6 vs Fortitude), _[[rangoric-srd/spells/Glitterdust|glitterdust]]_ (+6 vs Will); 1st—_[[rangoric-srd/spells/Charm Person|charm person]]_ (+5 vs Will), _[[rangoric-srd/spells/Color Spray|color spray]]_ (+5 vs Will), _[[rangoric-srd/spells/Unseen Servant|unseen servant]]_; 0 (at will)—_[[rangoric-srd/spells/Arcane Mark|arcane mark]]_, _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Mending|mending]]_, _[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_.

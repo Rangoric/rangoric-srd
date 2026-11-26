@@ -13,9 +13,9 @@ cmd: "17"
 attack: "Masterwork rapier +6 melee (1d6+1/18–20) or +1 light crossbow +7 ranged (1d8+1/19–20)"
 full-attack: "Masterwork rapier +6 melee (1d6+1/18–20); or +1 light crossbow +7 ranged (1d8+1/19–20)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Bardic performance 24 rounds/day (countersong, distraction, fascinate [DC 17], inspire competence +2, inspire courage +2, suggestion [DC 17])"
+special-attacks: "Bardic performance 24 rounds/day (countersong, distraction, fascinate [+7 vs Will], inspire competence +2, inspire courage +2, suggestion [+7 vs Will])"
 special-qualities: "Bardic knowledge +3, lore master 1/day, versatile performance (oratory, string)"
-saves: "Fort +2, Ref +7, Will +4 (+4 vs. bardic performance, language-dependent, and sonic)"
+defenses: "Fort 12, Ref 17, Will 14 (+4 vs. bardic performance, language-dependent, and sonic)"
 abilities: "Str 12, Dex 14, Con 10, Int 13, Wis 8, Cha 18"
 skills: "Acrobatics +10, Deception +18, Linguistics +5, Mysticism +10, Perception +8, Perform (oratory) +13, Perform (sing) +13, Perform (string) +18, Persuasion +18, Sense Motive +13, Sleight of Hand +11, Society +9, Stealth +10"
 skill-ranks: "Acrobatics 5, Deception 11, Linguistics 1, Mysticism 6, Perception 6, Perform (oratory) 9, Perform (sing) 9, Perform (string) 14, Persuasion 11, Sense Motive 11, Sleight of Hand 6, Society 5, Stealth 5"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Rapier|rapier]] +6 melee (1d6+1/18–20) or +1 [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +7 ranged (1d8+1/19–20)
 - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Rapier|rapier]] +6 melee (1d6+1/18–20); or +1 [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +7 ranged (1d8+1/19–20)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/classes/Bard#^bardic-music|Bardic performance]] 24 rounds/day (countersong, distraction, fascinate \[DC 17\], inspire competence +2, inspire courage +2, suggestion \[DC 17\])
+- **Special Attacks**: [[rangoric-srd/classes/Bard#^bardic-music|Bardic performance]] 24 rounds/day (countersong, distraction, fascinate \[+7 vs Will\], inspire competence +2, inspire courage +2, suggestion \[+7 vs Will\])
 - **Special Qualities**: [[rangoric-srd/classes/Bard|Bardic knowledge]] +3, [[rangoric-srd/classes/Bard#^bard-lore-master|lore master]] 1/day, [[rangoric-srd/classes/Bard#^bard-versatile-performance|versatile performance]] (oratory, string)
-- **Saves**: Fort +2, Ref +7, Will +4 (+4 vs. bardic performance, language-dependent, and sonic)
+- **Defenses**: Fort 12, Ref 17, Will 14 (+4 vs. bardic performance, language-dependent, and sonic)
 - **Abilities**: Str 12, Dex 14, Con 10, Int 13, Wis 8, Cha 18
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Deception|Deception]] +18, [[rangoric-srd/skills/Linguistics|Linguistics]] +5, [[rangoric-srd/skills/Mysticism|Mysticism]] +10, [[rangoric-srd/skills/Perception|Perception]] +8, Perform (oratory) +13, Perform (sing) +13, Perform (string) +18, [[rangoric-srd/skills/Persuasion|Persuasion]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +11, [[rangoric-srd/skills/Society|Society]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +10
 - **Feats**: [[rangoric-srd/feats/Extra Performance|Extra Performance]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perform \[String\])
@@ -70,4 +70,4 @@ A minstrel speaks Common, Dwarven, and Elven.
 
 ### Combat
 
-**Bard spells known** (CL 6th; concentration +10): 2nd (4/day)—_[[rangoric-srd/spells/Calm Emotions|calm emotions]]_, _[[rangoric-srd/spells/Enthrall|enthrall]]_ (DC 16), _[[rangoric-srd/spells/Sound Burst|sound burst]]_ (DC 16), _[[rangoric-srd/spells/Tongues|tongues]]_; 1st (5/day)—_[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 15), _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, _[[rangoric-srd/spells/Expeditious Retreat|expeditious retreat]]_, _[[rangoric-srd/spells/Grease|grease]]_ (DC 15); 0 (at will)—_[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (DC 14), _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Lullaby|lullaby]]_, _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Resistance|resistance]]_, _[[rangoric-srd/spells/Summon Instrument|summon instrument]]_.
+**Bard spells known** (CL 6th; concentration +10): 2nd (4/day)—_[[rangoric-srd/spells/Calm Emotions|calm emotions]]_, _[[rangoric-srd/spells/Enthrall|enthrall]]_ (+6 vs Will), _[[rangoric-srd/spells/Sound Burst|sound burst]]_ (+6 vs Fortitude), _[[rangoric-srd/spells/Tongues|tongues]]_; 1st (5/day)—_[[rangoric-srd/spells/Charm Person|charm person]]_ (+5 vs Will), _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, _[[rangoric-srd/spells/Expeditious Retreat|expeditious retreat]]_, _[[rangoric-srd/spells/Grease|grease]]_ (+5); 0 (at will)—_[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (+4 vs Will), _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Lullaby|lullaby]]_, _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Resistance|resistance]]_, _[[rangoric-srd/spells/Summon Instrument|summon instrument]]_.

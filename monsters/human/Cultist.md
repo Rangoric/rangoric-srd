@@ -13,9 +13,9 @@ cmd: "13"
 attack: "Masterwork sickle +3 melee (1d6) or dart +3 ranged (1d4)"
 full-attack: "Masterwork sickle +3 melee (1d6); or dart +3 ranged (1d4)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Channel negative energy 6/day (DC 14, 2d6), rebuke undead"
+special-attacks: "Channel negative energy 6/day (+4 vs Will, 2d6), rebuke undead"
 special-qualities: "—"
-saves: "Fort +4, Ref +2, Will +5"
+defenses: "Fort 14, Ref 12, Will 15"
 abilities: "Str 10, Dex 13, Con 12, Int 8, Wis 15, Cha 16"
 skills: "Linguistics +4, Mysticism +3, Perception +3, Sense Motive +6, Theology +4"
 skill-ranks: "Linguistics 2, Mysticism 1, Perception 1, Sense Motive 1, Theology 2"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Sickle|sickle]] +3 melee (1d6) or [[rangoric-srd/equipment/weapons/Dart|dart]] +3 ranged (1d4)
 - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Sickle|sickle]] +3 melee (1d6); or [[rangoric-srd/equipment/weapons/Dart|dart]] +3 ranged (1d4)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel negative energy]] 6/day (DC 14, 2d6), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]]
+- **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel negative energy]] 6/day (+4 vs Will, 2d6), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]]
 - **Special Qualities**: —
-- **Saves**: Fort +4, Ref +2, Will +5
+- **Defenses**: Fort 14, Ref 12, Will 15
 - **Abilities**: Str 10, Dex 13, Con 12, Int 8, Wis 15, Cha 16
 - **Skills**: [[rangoric-srd/skills/Linguistics|Linguistics]] +4, [[rangoric-srd/skills/Mysticism|Mysticism]] +3, [[rangoric-srd/skills/Perception|Perception]] +3, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6, [[rangoric-srd/skills/Theology|Theology]] +4
 - **Feats**: [[rangoric-srd/feats/Alignment Channel|Alignment Channel]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Selective Channeling|Selective Channeling]]
@@ -72,4 +72,4 @@ A cultist speaks Abyssal, Common, and Infernal.
 
 ### Combat
 
-**Cleric spells prepared** (CL 3rd; concentration +5): 2nd—*[[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]]*D, _[[rangoric-srd/spells/Death Knell|death knell]]_(DC 14), _[[rangoric-srd/spells/Hold Person|hold person]]_(DC 14); 1st—_[[rangoric-srd/spells/Bane|bane]]_(DC13), _[[rangoric-srd/spells/Cause Fear|cause fear]]_(DC 13), *[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]*D, _[[rangoric-srd/spells/Doom|doom]]_ (DC 13); 0 (at will)—_[[rangoric-srd/spells/Bleed|bleed]]_(DC 12), _[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Resistance|resistance]]_; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Evil Domain|Evil]], [[rangoric-srd/class-options/domains/Healing Domain|Healing]].
+**Cleric spells prepared** (CL 3rd; concentration +5): 2nd—*[[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]]*D, _[[rangoric-srd/spells/Death Knell|death knell]]_(+4 vs Will), _[[rangoric-srd/spells/Hold Person|hold person]]_(+4 vs Will); 1st—_[[rangoric-srd/spells/Bane|bane]]_(DC13), _[[rangoric-srd/spells/Cause Fear|cause fear]]_(+3 vs Will), *[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]*D, _[[rangoric-srd/spells/Doom|doom]]_ (+3 vs Will); 0 (at will)—_[[rangoric-srd/spells/Bleed|bleed]]_(+2 vs Will), _[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Resistance|resistance]]_; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Evil Domain|Evil]], [[rangoric-srd/class-options/domains/Healing Domain|Healing]].

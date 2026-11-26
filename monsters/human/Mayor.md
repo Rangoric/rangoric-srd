@@ -15,7 +15,7 @@ full-attack: "+1 rapier +7/+2 melee (1d6/18–20); or dagger +6/+1 melee (1d4–
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "—"
-saves: "Fort +3, Ref +3, Will +8"
+defenses: "Fort 13, Ref 13, Will 18"
 abilities: "Str 8, Dex 10, Con 10, Int 14, Wis 11, Cha 14"
 skills: "Animal Handling +8, Deception +15, Intimidation +10, Linguistics +8, Perception +11, Perform (oratory) +15, Persuasion +21, Profession (choose one) +13, Sense Motive +13, Society +21"
 skill-ranks: "Animal Handling 5, Deception 10, Intimidation 5, Linguistics 3, Perception 7, Perform (oratory) 10, Persuasion 16, Profession (choose one) 8, Sense Motive 14, Society 16"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: —
-- **Saves**: Fort +3, Ref +3, Will +8
+- **Defenses**: Fort 13, Ref 13, Will 18
 - **Abilities**: Str 8, Dex 10, Con 10, Int 14, Wis 11, Cha 14
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +8, [[rangoric-srd/skills/Deception|Deception]] +15, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Linguistics|Linguistics]] +8, [[rangoric-srd/skills/Perception|Perception]] +11, Perform (oratory) +15, [[rangoric-srd/skills/Persuasion|Persuasion]] +21, [[rangoric-srd/skills/Profession|Profession]] (choose one) +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Society|Society]] +21
 - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Greater Disarm|Greater Disarm]], [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Knowledge \[local\]), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Persuasion, Perception)

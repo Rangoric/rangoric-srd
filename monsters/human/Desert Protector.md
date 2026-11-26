@@ -14,9 +14,9 @@ cmd: "22"
 attack: "+1 falchion +14 melee (2d4+7/18–20) or masterwork starknife +8 ranged (1d4+4/×3)"
 full-attack: "+1 falchion +14/+9 melee (2d4+7/18–20); or masterwork starknife +8/+3 ranged (1d4+4/×3)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Channel positive energy (DC 16, 4d6), smite evil 3/day (+2 attack and AC, +8 damage), turn undead"
+special-attacks: "Channel positive energy (+6 vs Will, 4d6), smite evil 3/day (+2 attack and AC, +8 damage), turn undead"
 special-qualities: "Aura of courage (10 ft.), aura of resolve (10 ft.), aura, code of conduct, divine bond (weapon +2, 1/day), lay on hands (4d6, 6/day), mercies (diseased, sickened), immunity to charm, disease and fear, special mount, remove disease 1/week"
-saves: "Fort +10, Ref +4, Will +11"
+defenses: "Fort 20, Ref 14, Will 21"
 abilities: "Str 18, Dex 8, Con 12, Int 10, Wis 14, Cha 14"
 skills: "Fieldcraft +4, Medicine +8, Perception +8, Persuasion +10, Sense Motive +13, Theology +11"
 skill-ranks: "Fieldcraft 2, Medicine 3, Perception 3, Persuasion 5, Sense Motive 8, Theology 8"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: +1 [[rangoric-srd/equipment/weapons/Falchion|falchion]] +14 melee (2d4+7/18–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Starknife|starknife]] +8 ranged (1d4+4/×3)
 - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Falchion|falchion]] +14/+9 melee (2d4+7/18–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Starknife|starknife]] +8/+3 ranged (1d4+4/×3)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/classes/Paladin#^paladin-channel-positive-energy|Channel positive energy]] (DC 16, 4d6), [[rangoric-srd/classes/Paladin#^paladin-smite-evil|smite evil]] 3/day (+2 attack and AC, +8 damage), [[rangoric-srd/classes/Paladin#^paladin-turn-undead|turn undead]]
+- **Special Attacks**: [[rangoric-srd/classes/Paladin#^paladin-channel-positive-energy|Channel positive energy]] (+6 vs Will, 4d6), [[rangoric-srd/classes/Paladin#^paladin-smite-evil|smite evil]] 3/day (+2 attack and AC, +8 damage), [[rangoric-srd/classes/Paladin#^paladin-turn-undead|turn undead]]
 - **Special Qualities**: [[rangoric-srd/classes/Paladin#^paladin-aura-of-courage|Aura of courage]] (10 ft.), [[rangoric-srd/classes/Paladin#^paladin-aura-of-resolve|aura of resolve]] (10 ft.), [[rangoric-srd/classes/Paladin|aura]], [[rangoric-srd/classes/Paladin#^paladin-code-of-conudct|code of conduct]], [[rangoric-srd/classes/Paladin#^paladin-divine-bond|divine bond]] (weapon +2, 1/day), [[rangoric-srd/classes/Paladin#^paladin-lay-on-hands|lay on hands]] (4d6, 6/day), [[rangoric-srd/classes/Paladin#^paladin-mercy|mercies]] ([[rangoric-srd/class-options/mercies/Diseased (Mercy)|diseased]], [[rangoric-srd/class-options/mercies/Sickened (Mercy)|sickened]]), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to charm, disease and fear, [[rangoric-srd/classes/Paladin#^paladin-special-mount|special mount]], [[rangoric-srd/classes/Paladin#^paladin-remove-disease|remove disease]] 1/week
-- **Saves**: Fort +10, Ref +4, Will +11
+- **Defenses**: Fort 20, Ref 14, Will 21
 - **Abilities**: Str 18, Dex 8, Con 12, Int 10, Wis 14, Cha 14
 - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Medicine|Medicine]] +8, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Persuasion|Persuasion]] +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Theology|Theology]] +11
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (falchion)

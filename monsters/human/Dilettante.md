@@ -16,7 +16,7 @@ full-attack: "+1 frost dagger +12/+7 melee (1d4+3/19–20 plus 1d6 cold); or dag
 space-reach: "5 ft./5 ft."
 special-attacks: "Sneak attack +6d6, debilitating injury"
 special-qualities: "Improved evasion, improved uncanny dodge, danger sense +4, rogue talents (improved evasion, major magic, minor magic, quick disable, slippery mind, trap spotter), trapfinding +6, finesse training (dagger), rogue's edge (Deception, Imitation)"
-saves: "Fort +6, Ref +12, Will +7"
+defenses: "Fort 16, Ref 22, Will 17"
 abilities: "Str 8, Dex 14, Con 10, Int 18, Wis 12, Cha 17"
 skills: "Acrobatics +17, Deception +24, Emulation +18, Engineering +19, Imitation +18, Perception +22, Perform (dance, sing) +18, Persuasion +18, Sense Motive +16, Society +19, Stealth +17, Theology +16"
 skill-ranks: "Acrobatics 12, Deception 16, Emulation 12, Engineering 14, Imitation 16, Perception 16, Perform (dance, sing) 11, Persuasion 12, Sense Motive 16, Society 12, Stealth 12, Theology 9"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +6d6, [[rangoric-srd/classes/Rogue#^rogue-debilitating-injury|debilitating injury]]
 - **Special Qualities**: Improved evasion, [[rangoric-srd/classes/Rogue#^rogue-improved-uncanny-dodge|improved uncanny dodge]], [[rangoric-srd/classes/Rogue#^rogue-trap-sense|danger sense]] +4, [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]] ([[rangoric-srd/class-options/rogue-talents/Improved Evasion (Rogue Talent)|improved evasion]], [[rangoric-srd/class-options/rogue-talents/Major Magic (Rogue Talent)|major magic]], [[rangoric-srd/class-options/rogue-talents/Minor Magic (Rogue Talent)|minor magic]], [[rangoric-srd/class-options/rogue-talents/Quick Disable (Rogue Talent)|quick disable]], [[rangoric-srd/class-options/rogue-talents/Slippery Mind (Rogue Talent)|slippery mind]], [[rangoric-srd/class-options/rogue-talents/Trap Spotter (Rogue Talent)|trap spotter]]), [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +6, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]] (dagger), [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]] ([[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Imitation|Imitation]])
-- **Saves**: Fort +6, Ref +12, Will +7
+- **Defenses**: Fort 16, Ref 22, Will 17
 - **Abilities**: Str 8, Dex 14, Con 10, Int 18, Wis 12, Cha 17
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +17, [[rangoric-srd/skills/Deception|Deception]] +24, [[rangoric-srd/skills/Emulation|Emulation]] +18, [[rangoric-srd/skills/Engineering|Engineering]] +19, [[rangoric-srd/skills/Imitation|Imitation]] +18, [[rangoric-srd/skills/Perception|Perception]] +22, Perform (dance, sing) +18, [[rangoric-srd/skills/Persuasion|Persuasion]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Society|Society]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +17, [[rangoric-srd/skills/Theology|Theology]] +16
 - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Greater Disarm|Greater Disarm]], [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception, Perception)

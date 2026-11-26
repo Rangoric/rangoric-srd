@@ -15,7 +15,7 @@ full-attack: "+1 short sword +15/+10 melee (1d6+6/17–20); or +1 short sword +1
 space-reach: "5 ft./5 ft. (15 ft. with whip)"
 special-attacks: "Weapon training (light blades +1)"
 special-qualities: "Bravery +1, armor training 1"
-saves: "Fort +7, Ref +6, Will +6 (+1 vs. fear)"
+defenses: "Fort 17, Ref 16, Will 16 (+1 vs. fear)"
 abilities: "Str 14, Dex 18, Con 14, Int 8, Wis 12, Cha 10"
 skills: "Acrobatics +13, Athletics +14, Craft (ships) +5, Fieldcraft +5, Intimidation +5, Linguistics +3, Nature +3, Perception +10, Perform (sing) +4, Perform (wind) +4, Profession (sailor) +12, Society +3"
 skill-ranks: "Acrobatics 6, Athletics 8, Craft (ships) 3, Fieldcraft 1, Intimidation 2, Linguistics 1, Nature 1, Perception 6, Perform (sing) 2, Perform (wind) 2, Profession (sailor) 10, Society 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft. (15 ft. with whip)
 - **Special Attacks**: [[rangoric-srd/classes/Fighter#^fighter-weapon-training|Weapon training]] (light blades +1)
 - **Special Qualities**: [[rangoric-srd/classes/Fighter#^fighter-bravery|Bravery]] +1, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1
-- **Saves**: Fort +7, Ref +6, Will +6 (+1 vs. fear)
+- **Defenses**: Fort 17, Ref 16, Will 16 (+1 vs. fear)
 - **Abilities**: Str 14, Dex 18, Con 14, Int 8, Wis 12, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Craft|Craft]] (ships) +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Linguistics|Linguistics]] +3, [[rangoric-srd/skills/Nature|Nature]] +3, [[rangoric-srd/skills/Perception|Perception]] +10, Perform (sing) +4, Perform (wind) +4, [[rangoric-srd/skills/Profession|Profession]] (sailor) +12, [[rangoric-srd/skills/Society|Society]] +3
 - **Feats**: [[rangoric-srd/feats/Exotic Weapon Proficiency|Exotic Weapon Proficiency]] (whip), [[rangoric-srd/feats/Improved Critical|Improved Critical]] (short sword), [[rangoric-srd/feats/Improved Two-Weapon Fighting|Improved Two-Weapon Fighting]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Athletics), [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (shortsword), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (short sword)

@@ -15,7 +15,7 @@ full-attack: "+1 spiked chain +12/+7 melee (2d4+7); or sap +10/+5 melee (1d6+1 n
 space-reach: "5 ft./5 ft."
 special-attacks: "Sneak attack +2d6"
 special-qualities: "Bravery +1, evasion, danger sense +1, armor training 1, rogue talent (combat trick), trapfinding +1, finesse training (spiked chain)"
-saves: "Fort +8, Ref +9, Will +4 (+1 vs. fear)"
+defenses: "Fort 18, Ref 19, Will 14 (+1 vs. fear)"
 abilities: "Str 12, Dex 18, Con 14, Int 13, Wis 8, Cha 10"
 skills: "Acrobatics +14, Animal Handling +9, Appraise +5, Athletics +5, Deception +13, Engineering +11, Escape Artist +10, Imitation +12, Intimidation +4, Perception +7 (+8 to find traps), Sleight of Hand +8, Stealth +14"
 skill-ranks: "Acrobatics 7, Animal Handling 2, Appraise 1, Athletics 1, Deception 9, Engineering 4, Escape Artist 3, Imitation 11, Intimidation 1, Perception 5, Sleight of Hand 1, Stealth 7"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +2d6
 - **Special Qualities**: [[rangoric-srd/classes/Fighter#^fighter-bravery|Bravery]] +1, [[rangoric-srd/classes/Rogue#^rogue-evasion|evasion]], [[rangoric-srd/classes/Rogue#^rogue-trap-sense|danger sense]] +1, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1, [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (combat trick), [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +1, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]] (spiked chain)
-- **Saves**: Fort +8, Ref +9, Will +4 (+1 vs. fear)
+- **Defenses**: Fort 18, Ref 19, Will 14 (+1 vs. fear)
 - **Abilities**: Str 12, Dex 18, Con 14, Int 13, Wis 8, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +9, [[rangoric-srd/skills/Appraise|Appraise]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Deception|Deception]] +13, [[rangoric-srd/skills/Engineering|Engineering]] +11, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +10, [[rangoric-srd/skills/Imitation|Imitation]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +4, [[rangoric-srd/skills/Perception|Perception]] +7 (+8 to find traps), [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +14
 - **Feats**: [[rangoric-srd/feats/Agile Maneuvers|Agile Maneuvers]], [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Exotic Weapon Proficiency|Exotic Weapon Proficiency]] (spiked chain), [[rangoric-srd/feats/Improved Feint|Improved Feint]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Trip|Improved Trip]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (spiked chain), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (spiked chain)

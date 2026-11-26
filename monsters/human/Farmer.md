@@ -15,7 +15,7 @@ full-attack: "Club +0 melee (1d6); or sickle +0 melee (1d6); or sling +0 ranged 
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: ""
-saves: "Fort +1, Ref +0, Will +3"
+defenses: "Fort 11, Ref 10, Will 13"
 abilities: "Str 11, Dex 10, Con 12, Int 10, Wis 13, Cha 9"
 skills: "Animal Handling +8, Craft (carpentry) +5, Medicine +5, Nature +4, Profession (farmer) +9, Society +4"
 skill-ranks: "Animal Handling 4, Craft (carpentry) 2, Medicine 1, Nature 1, Profession (farmer) 6, Society 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**:
-- **Saves**: Fort +1, Ref +0, Will +3
+- **Defenses**: Fort 11, Ref 10, Will 13
 - **Abilities**: Str 11, Dex 10, Con 12, Int 10, Wis 13, Cha 9
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +8, [[rangoric-srd/skills/Craft|Craft]] (carpentry) +5, [[rangoric-srd/skills/Medicine|Medicine]] +5, [[rangoric-srd/skills/Nature|Nature]] +4, [[rangoric-srd/skills/Profession|Profession]] (farmer) +9, [[rangoric-srd/skills/Society|Society]] +4
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Animal Handling, Profession \[farmer\])
@@ -64,7 +64,7 @@ tags: [rangoric, rangoric/monster]
 
 A farmer is a [[rangoric-srd/monsters/human/Human|human]] with 1 level of [[rangoric-srd/classes/Commoner|commoner]] and 1 level of [[rangoric-srd/classes/Expert|expert]]. Farmers are the backbone of any economy, producing the foodstuffs and livestock for the world. A typical farmer is fair-minded, sensible, and trustworthy, but suspicious of outsiders. A farmer can be a good source of local gossip, and knows the area around his farm like the back of his hand.
 
-Farmers in particularly dangerous areas might have a shabby suit of leather armor to don in times of trouble (AC 12), and often have an old spear or crossbow somewhere in the house, left over from militia training. A retired veteran farmer, or one who has had to defend his lands too many times from the creatures of the wilds, could have a level of warrior instead of commoner. Such a farmer has the same skills, but his hit points increase to 11, his Fortitude saves to +3, and his Base Attack Bonus to +1. He also normally has a suit of light armor and better weapons he can use to protect his house and family.
+Farmers in particularly dangerous areas might have a shabby suit of leather armor to don in times of trouble (AC 12), and often have an old spear or crossbow somewhere in the house, left over from militia training. A retired veteran farmer, or one who has had to defend his lands too many times from the creatures of the wilds, could have a level of warrior instead of commoner. Such a farmer has the same skills, but his hit points increase to 11, his Fortitude Defense to 13, and his Base Attack Bonus to +1. He also normally has a suit of light armor and better weapons he can use to protect his house and family.
 
 Farmers are usually found in families of two to six (CR 1 to 4). Outside, a farmer might be found working with his three stout farmer sons in the fields (CR 3). In town, a farmer could be haggling with a shopkeep (CR 2), or three farmers may be conversing with a lovely barmaid at the local tavern (CR 3). A dozen farmers outfitted with torches and pitchforks (treat as spears) creates an angry peasant mob (CR 6).
 

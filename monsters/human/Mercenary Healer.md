@@ -14,9 +14,9 @@ cmd: "10"
 attack: "Morningstar –1 melee (1d8–1) or light crossbow +2 ranged (1d8/19–20)"
 full-attack: "Morningstar –1 melee (1d8–1); or light crossbow +2 ranged (1d8/19–20)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Channel negative energy 6/day (DC 13, 1d6), rebuke undead, inspire allies (+2, 3 rounds, 1/day)"
+special-attacks: "Channel negative energy 6/day (+3 vs Will, 1d6), rebuke undead, inspire allies (+2, 3 rounds, 1/day)"
 special-qualities: "Aura, +10 base speed from [[rangoric-srd/class-options/domains/Travel Domain|Travel domain]], agile feet (5/day), freedom of movement (1 rounds/day)"
-saves: "Fort +3, Ref +1, Will +4"
+defenses: "Fort 13, Ref 11, Will 14"
 abilities: "Str 8, Dex 12, Con 13, Int 10, Wis 14, Cha 17"
 skills: "Appraise +4, Mysticism +4, Persuasion +7, Theology +4"
 skill-ranks: "Appraise 1, Mysticism 1, Persuasion 1, Theology 1"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: [[rangoric-srd/equipment/weapons/Morningstar|Morningstar]] –1 melee (1d8–1) or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +2 ranged (1d8/19–20)
 - **Full Attack**: [[rangoric-srd/equipment/weapons/Morningstar|Morningstar]] –1 melee (1d8–1); or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +2 ranged (1d8/19–20)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel negative energy]] 6/day (DC 13, 1d6), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]], [[rangoric-srd/class-options/domains/Nobility Domain|inspire allies]] (+2, 3 rounds, 1/day)
+- **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel negative energy]] 6/day (+3 vs Will, 1d6), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]], [[rangoric-srd/class-options/domains/Nobility Domain|inspire allies]] (+2, 3 rounds, 1/day)
 - **Special Qualities**: [[rangoric-srd/classes/Cleric#^cleric-aura|Aura]], +10 base speed from [[rangoric-srd/class-options/domains/Travel Domain|Travel domain]], [[rangoric-srd/class-options/domains/Travel Domain|agile feet]] (5/day), [[rangoric-srd/class-options/domains/Travel Domain|freedom of movement]] (1 rounds/day)
-- **Saves**: Fort +3, Ref +1, Will +4
+- **Defenses**: Fort 13, Ref 11, Will 14
 - **Abilities**: Str 8, Dex 12, Con 13, Int 10, Wis 14, Cha 17
 - **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +4, [[rangoric-srd/skills/Mysticism|Mysticism]] +4, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Theology|Theology]] +4
 - **Feats**: [[rangoric-srd/feats/Selective Channeling|Selective Channeling]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (light crossbow)

@@ -16,7 +16,7 @@ full-attack: "+1 keen rapier +13/+8 melee (1d6+5/15–20); or light crossbow +11
 space-reach: "5 ft./5 ft."
 special-attacks: "Sneak attack +5d6, debilitating injury"
 special-qualities: "Evasion, improved uncanny dodge, danger sense +3, rogue talents (combat trick, combat trick (2), opportunist, surprise attack, weapon training), trapfinding +5, finesse training (rapier), rogue's edge (Engineering, Acrobatics)"
-saves: "Fort +4, Ref +13, Will +4"
+defenses: "Fort 14, Ref 23, Will 14"
 abilities: "Str 14, Dex 19, Con 12, Int 13, Wis 8, Cha 10"
 skills: "Acrobatics +17, Athletics +15, Engineering +19, Escape Artist +17, Intimidation +13, Perception +12, Perform (dance) +13, Sleight of Hand +17, Stealth +17"
 skill-ranks: "Acrobatics 10, Athletics 10, Engineering 12, Escape Artist 10, Intimidation 10, Perception 10, Perform (dance) 9, Sleight of Hand 10, Stealth 10"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +5d6, [[rangoric-srd/classes/Rogue#^rogue-debilitating-injury|debilitating injury]]
 - **Special Qualities**: [[rangoric-srd/classes/Rogue#^rogue-evasion|Evasion]], [[rangoric-srd/classes/Rogue#^rogue-improved-uncanny-dodge|improved uncanny dodge]], [[rangoric-srd/classes/Rogue#^rogue-trap-sense|danger sense]] +3, [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]] ([[rangoric-srd/class-options/rogue-talents/Combat Trick (Rogue Talent)|combat trick]], combat trick (2), [[rangoric-srd/class-options/rogue-talents/Opportunist (Rogue Talent)|opportunist]], [[rangoric-srd/class-options/rogue-talents/Surprise Attack (Rogue Talent)|surprise attack]], [[rangoric-srd/class-options/rogue-talents/Weapon Training (Rogue Talent)|weapon training]]), [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +5, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]] (rapier), [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]] ([[rangoric-srd/skills/Engineering|Engineering]], [[rangoric-srd/skills/Acrobatics|Acrobatics]])
-- **Saves**: Fort +4, Ref +13, Will +4
+- **Defenses**: Fort 14, Ref 23, Will 14
 - **Abilities**: Str 14, Dex 19, Con 12, Int 13, Wis 8, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +17, [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Engineering|Engineering]] +19, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +17, [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Perception|Perception]] +12, Perform (dance) +13, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +17
 - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Nimble Moves|Nimble Moves]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (rapier), [[rangoric-srd/feats/Whirlwind Attack|Whirlwind Attack]]

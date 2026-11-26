@@ -16,7 +16,7 @@ full-attack: "+3 unholy cold iron falchion +40/+35/+30/+25 melee (2d4+23/15–20
 space-reach: "5 ft./5 ft."
 special-attacks: "Weapon mastery (falchion), weapon training (heavy blades +4, bows +3, axes +2, close +1)"
 special-qualities: "Bravery +5, no need to breathe, armor mastery, armor training 4, damage reduction 5/—"
-saves: "Fort +24, Ref +19, Will +17 (+5 vs. fear)"
+defenses: "Fort 34, Ref 29, Will 27 (+5 vs. fear)"
 abilities: "Str 26, Dex 17, Con 18, Int 8, Wis 12, Cha 10"
 skills: "Acrobatics +25, Intimidation +26, Linguistics +2, Perception +4"
 skill-ranks: "Acrobatics 19, Intimidation 23, Linguistics 3, Perception 3"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Fighter#^fighter-weapon-mastery|Weapon mastery]] (falchion), [[rangoric-srd/classes/Fighter#^fighter-weapon-training|weapon training]] (heavy blades +4, bows +3, axes +2, close +1)
 - **Special Qualities**: [[rangoric-srd/classes/Fighter#^fighter-bravery|Bravery]] +5, no need to breathe, [[rangoric-srd/classes/Fighter#^fighter-armor-mastery|armor mastery]], [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 4, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/—
-- **Saves**: Fort +24, Ref +19, Will +17 (+5 vs. fear)
+- **Defenses**: Fort 34, Ref 29, Will 27 (+5 vs. fear)
 - **Abilities**: Str 26, Dex 17, Con 18, Int 8, Wis 12, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +25, [[rangoric-srd/skills/Intimidation|Intimidation]] +26, [[rangoric-srd/skills/Linguistics|Linguistics]] +2, [[rangoric-srd/skills/Perception|Perception]] +4
 - **Feats**: [[rangoric-srd/feats/Bleeding Critical|Bleeding Critical]], [[rangoric-srd/feats/Blinding Critical|Blinding Critical]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Critical Mastery|Critical Mastery]], [[rangoric-srd/feats/Exhausting Critical|Exhausting Critical]], [[rangoric-srd/feats/Greater Penetrating Strike|Greater Penetrating Strike]], [[rangoric-srd/feats/Greater Weapon Focus|Greater Weapon Focus]] (falchion), [[rangoric-srd/feats/Greater Weapon Specialization|Greater Weapon Specialization]] (falchion), [[rangoric-srd/feats/Improved Critical|Improved Critical]] (falchion), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Penetrating Strike|Penetrating Strike]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Staggering Critical|Staggering Critical]], [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Stunning Critical|Stunning Critical]], [[rangoric-srd/feats/Tiring Critical|Tiring Critical]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (falchion), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (falchion)
