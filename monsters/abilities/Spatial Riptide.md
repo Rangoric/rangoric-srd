@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “spatial riptide”, on the Special Qualities line.
 
-Any non-protean teleporting into or out of the protean's aura must make a DC 28 Fortitude save or enter a state of suspended animation (identical to temporal stasis) for 1d3 rounds; success means the creature is merely [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1 round. The save DC is Constitution-based. The [[rangoric-srd/monsters/proteans/Keketar|keketar]] has it.
+Any non-protean teleporting into or out of the protean's aura is attacked at +18 vs Fortitude, and on a hit enters a state of suspended animation (identical to temporal stasis) for 1d3 rounds; a miss means the creature is merely [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1 round. The attack bonus is Constitution-based. The [[rangoric-srd/monsters/proteans/Keketar|keketar]] has it.

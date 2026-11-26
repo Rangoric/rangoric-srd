@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “stampede”, on the Special Attacks line.
 
-A stampede occurs if three or more creatures with stampede make a [[rangoric-srd/monsters/abilities/Trample|trample]] attack while remaining adjacent to each other. While stampeding, the creatures can trample foes of their size or smaller, and the trample’s save DC increases by +2.
+A stampede occurs if three or more creatures with stampede make a [[rangoric-srd/monsters/abilities/Trample|trample]] attack while remaining adjacent to each other. While stampeding, the creatures can trample foes of their size or smaller, and the trample’s attack bonus increases by +2.

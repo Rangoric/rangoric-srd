@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “soul of sorrow”, on the Special Qualities line.
 
-A nephilim gains a +2 bonus on Will saves against fear effects and any effect that causes sorrow. The [[rangoric-srd/monsters/Nephilim|nephilim]] has it.
+A nephilim gains a +2 bonus on Will Defense against fear effects and any effect that causes sorrow. The [[rangoric-srd/monsters/Nephilim|nephilim]] has it.

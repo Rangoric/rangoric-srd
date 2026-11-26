@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “siren song”, on the Special Attacks line.
 
-When the creature sings, all non-sirens within a 300-foot spread must succeed on a DC 19 Will save or become enthralled (see below). The effect depends on the type of song the creature chooses, and continues for as long as the creature sings and for 1 round thereafter. A creature that successfully saves cannot be affected again by any of that siren's songs for 1 hour. These are sonic, mind-affecting effects. The save DC is Charisma-based. Enthralled creatures behave in one of the following four ways, which the creature chooses when it begins singing.
+When the creature sings, all non-sirens within a 300-foot spread are attacked at +9 vs Will, and on a hit become enthralled (see below). The effect depends on the type of song the creature chooses, and continues for as long as the creature sings and for 1 round thereafter. A creature the song misses cannot be affected again by any of that siren's songs for 1 hour. These are sonic, mind-affecting effects. The attack bonus is Charisma-based. Enthralled creatures behave in one of the following four ways, which the creature chooses when it begins singing.
 
 - _Captivation_: This functions exactly like a harpy's captivating song.
 - _Fascination_: Affected creatures are [[rangoric-srd/rules/Special Abilities and Conditions#^fascinated|fascinated]].
