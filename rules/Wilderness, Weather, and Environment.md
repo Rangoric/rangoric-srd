@@ -85,9 +85,9 @@ Paper Walls: Paper walls are the opposite of iron walls, placed as screens to bl
 
 Wooden Walls: Wooden walls often exist as recent additions to older dungeons, used to create animal pens, storage bins, or just to make a number of smaller rooms out of a larger one.
 
-Magically Treated Walls: These walls are stronger than average, with a greater hardness, more hit points, and a higher break DC. Magic can usually double the hardness and hit points and can add up to 20 to the break DC. A magically treated wall also gains a saving throw against spells that could affect it, with the save bonus equaling 2 + one-half the caster level of the magic reinforcing the wall. Creating a magic wall requires the [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]] feat and the expenditure of 1,500 gp for each 10 foot-by-10-foot wall section.
+Magically Treated Walls: These walls are stronger than average, with a greater hardness, more hit points, and a higher break DC. Magic can usually double the hardness and hit points and can add up to 20 to the break DC. A magically treated wall also has defenses against spells that could affect it, each equaling 12 + one-half the caster level of the magic reinforcing the wall. Creating a magic wall requires the [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]] feat and the expenditure of 1,500 gp for each 10 foot-by-10-foot wall section.
 
-Walls with Arrow Slits: Walls with arrow slits can be made of any durable material but are most commonly masonry, hewn stone, or wood. Such a wall allows defenders to fire arrows or crossbow bolts at intruders from behind the safety of the wall. Archers behind arrow slits have improved cover that gives them a +8 bonus to Armor Class, a +4 bonus on Reflex saves, and the benefits of the improved evasion class feature.  
+Walls with Arrow Slits: Walls with arrow slits can be made of any durable material but are most commonly masonry, hewn stone, or wood. Such a wall allows defenders to fire arrows or crossbow bolts at intruders from behind the safety of the wall. Archers behind arrow slits have improved cover that gives them a +8 bonus to Armor Class, a +4 bonus on Reflex Defense, and the benefits of the improved evasion class feature.  
  ^walls-with-arrow-slits
 
 ##### Floors
@@ -196,7 +196,7 @@ Secret Doors: Disguised as a bare patch of wall (or floor, or ceiling), a bookca
 
 Many secret doors require a special method of opening, such as a hidden button or pressure plate. Secret doors can open like normal doors, or they may pivot, slide, sink, rise, or even lower like a drawbridge to permit access. Builders might put a secret door down low near the floor or high up in a wall, making it difficult to find or reach. Wizards and sorcerers have a spell, [[rangoric-srd/spells/Phase Door|phase door]], that allows them to create a magic secret door that only they can use.
 
-Magic Doors: Enchanted by the original builders, a door might speak to explorers, warning them away. It might be protected from harm, increasing its hardness or giving it more hit points as well as an improved saving throw bonus against [[rangoric-srd/spells/Disintegrate|disintegrate]] and other similar spells. A magic door might not lead into the space revealed beyond, but instead it might be a portal to a faraway place or even another plane of existence. Other magic doors might require passwords or special keys to open them.
+Magic Doors: Enchanted by the original builders, a door might speak to explorers, warning them away. It might be protected from harm, increasing its hardness or giving it more hit points as well as improved defenses against [[rangoric-srd/spells/Disintegrate|disintegrate]] and other similar spells. A magic door might not lead into the space revealed beyond, but instead it might be a portal to a faraway place or even another plane of existence. Other magic doors might require passwords or special keys to open them.
 
 Portcullises: These special doors consist of iron or thick, ironbound, wooden shafts that descend from a recess in the ceiling above an archway. Sometimes a portcullis has crossbars that create a grid, sometimes not. Typically raised by means of a winch or a capstan, a portcullis can be dropped quickly, and the shafts end in spikes to discourage anyone from standing underneath (or from attempting to dive under it as it drops). Once it is dropped, a portcullis locks, unless it is so large that no normal person could lift it anyway. In any event, lifting a typical portcullis requires a DC 25 Strength check.
 
@@ -252,7 +252,7 @@ Bridge: A bridge connects two higher areas separated by a lower area, stretching
 
 Narrow Bridge: If a bridge is particularly narrow, such as a series of planks laid over lava fissures, treat it as a ledge (see Special Floors). It requires an Acrobatics check (DC dependent on width) to cross such a bridge.
 
-Rope Bridge: Constructed of wooden planks suspended from ropes, a rope bridge is convenient because it’s portable and can be easily removed. It takes two full-round actions to untie one end of a rope bridge, but a DC 15 [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] check reduces the time to a move action. If only one of the two supporting ropes is attached, everyone on the bridge must succeed on a DC 15 Reflex save to avoid falling off, and thereafter must make DC 15 Athletics checks to move along the remnants of the bridge. Rope bridges are usually 5 feet wide. The two ropes that support them have 8 hit points each.
+Rope Bridge: Constructed of wooden planks suspended from ropes, a rope bridge is convenient because it’s portable and can be easily removed. It takes two full-round actions to untie one end of a rope bridge, but a DC 15 [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] check reduces the time to a move action. If only one of the two supporting ropes is attached, the bridge attacks the Reflex of everyone on it at +5, those it hits falling off, and thereafter must make DC 15 Athletics checks to move along the remnants of the bridge. Rope bridges are usually 5 feet wide. The two ropes that support them have 8 hit points each.
 
 Drawbridge: Some bridges have mechanisms that allow them to be extended or retracted from the gap they cross. Typically,  the winch mechanism exists on only one side of the bridge. It takes a move action to lower a drawbridge, but the bridge doesn’t come down until the beginning of the lowering character’s next turn. It takes a full-round action to raise a drawbridge; the drawbridge is up at the end of the action. Particularly long or wide drawbridges may take more time to raise and lower, and some may require Strength checks to rotate the winch.
 
@@ -262,7 +262,7 @@ Chutes and Chimneys: Stairs aren’t the only way to move up and down in a dunge
 
 Pillar: A common sight in any dungeon, pillars and columns give support to ceilings. The larger the room, the more likely it has pillars. As a rule of thumb, the deeper in the dungeon a room is, the thicker the pillars need to be to support the overhead weight. Pillars tend to be polished and often have carvings, paintings, or inscriptions upon them.
 
-Slender Pillar: These pillars are only a foot or two across, so they don’t occupy a whole square. A creature standing in the same square as a slender pillar gains a +2 cover bonus to Armor Class and a +1 cover bonus on Reflex saves (these bonuses don’t stack with cover bonuses from other sources). The presence of a slender pillar does not otherwise affect a creature’s fighting space, because it’s assumed that the creature is using the pillar to its advantage when it can. A typical slender pillar has AC 4, hardness 8, and 250 hit points.
+Slender Pillar: These pillars are only a foot or two across, so they don’t occupy a whole square. A creature standing in the same square as a slender pillar gains a +2 cover bonus to Armor Class and a +1 cover bonus on Reflex Defense (these bonuses don’t stack with cover bonuses from other sources). The presence of a slender pillar does not otherwise affect a creature’s fighting space, because it’s assumed that the creature is using the pillar to its advantage when it can. A typical slender pillar has AC 4, hardness 8, and 250 hit points.
 
 Wide Pillar: These pillars take up an entire square and provide cover to anyone behind them. They have AC 3, hardness 8, and 900 hit points. A DC 20 [[rangoric-srd/skills/Athletics|Athletics]] check is sufficient to climb most pillars; the DC increases to 25 for polished or unusually slick ones.
 
@@ -282,7 +282,7 @@ Pool: Pools of water collect naturally in low spots in dungeons (a dry dungeon i
 
 Shallow Pool: If a square contains a shallow pool, it has roughly 1 foot of standing water. It costs 2 squares of movement to move into a square with a shallow pool, and the DC of Acrobatics checks in such squares increases by 2.
 
-Deep Pool: These squares have at least 4 feet of standing water. It costs Medium or larger creatures 4 squares of movement to move into a square with a deep pool, or characters can swim if they wish. Small or smaller creatures must swim to move through a square containing a deep pool. Tumbling is impossible in a deep pool. The water in a deep pool provides cover for Medium or larger creatures. Smaller creatures gain improved cover (+8 bonus to AC, +4 bonus on Reflex saves). Medium or larger creatures can crouch as a move action to gain this improved cover. Creatures with this improved cover take a -10 penalty on attacks against creatures that aren’t also underwater.
+Deep Pool: These squares have at least 4 feet of standing water. It costs Medium or larger creatures 4 squares of movement to move into a square with a deep pool, or characters can swim if they wish. Small or smaller creatures must swim to move through a square containing a deep pool. Tumbling is impossible in a deep pool. The water in a deep pool provides cover for Medium or larger creatures. Smaller creatures gain improved cover (+8 bonus to AC, +4 bonus on Reflex Defense). Medium or larger creatures can crouch as a move action to gain this improved cover. Creatures with this improved cover take a -10 penalty on attacks against creatures that aren’t also underwater.
 
 Deep pool squares are usually clustered together and surrounded by a ring of shallow pool squares. Both shallow pools and deep pools impose a -2 circumstance penalty on [[rangoric-srd/skills/Stealth|Stealth]] checks.
 
@@ -312,7 +312,7 @@ Cave-ins and collapsing tunnels are extremely dangerous. Not only do dungeon exp
 
 A weakened ceiling may collapse when subjected to a major impact or concussion. A character can cause a cave-in by destroying half the pillars holding the ceiling up.
 
-Characters in the bury zone of a cave-in take 8d6 points of damage, or half that amount if they make a DC 15 Reflex save. They are subsequently buried. Characters in the slide zone take 3d6 points of damage, or no damage at all if they make a DC 15 Reflex save. Characters in the slide zone who fail their saves are buried.
+Characters in the bury zone of a cave-in take 8d6 points of damage, or half that amount if it misses (+5 vs Reflex). They are subsequently buried. Characters in the slide zone take 3d6 points of damage, or no damage at all if it misses (+5 vs Reflex). Characters in the slide zone who fail their saves are buried.
 
 Characters take 1d6 points of nonlethal damage per minute while buried. If such a character falls unconscious, he must make a DC 15 Constitution check. If it fails, he takes 1d6 points of lethal damage each minute thereafter until freed or dead.
 
@@ -330,7 +330,7 @@ Green Slime (CR 4): This dungeon peril is a dangerous variety of normal slime. G
 
 A single 5-foot square of green slime deals 1d6 points of Constitution damage per round while it devours flesh. On the first round of contact, the slime can be scraped off a creature (most likely destroying the scraping device), but after that it must be frozen, burned, or cut away (dealing damage to the victim as well). Anything that deals cold or fire damage, sunlight, or a [[rangoric-srd/spells/Remove Disease|remove disease]] spell destroys a patch of green slime. Against wood or metal, green slime deals 2d6 points of damage per round, ignoring metal’s hardness but not that of wood. It does not harm stone.
 
-Yellow Mold (CR 6): If disturbed, a 5-foot square of this mold bursts forth with a cloud of poisonous spores. All within 10 feet of the mold are exposed to an [[rangoric-srd/rules/Afflictions#^inhaled-poison|inhaled]] [[rangoric-srd/rules/Afflictions#Poison|poison]]: _save_ Fort DC 15; _frequency_ 1/round for 6 rounds; _effect_ 1d3 Con damage; _cure_ 1 save. Fire destroys yellow mold, and sunlight renders it dormant.
+Yellow Mold (CR 6): If disturbed, a 5-foot square of this mold bursts forth with a cloud of poisonous spores. All within 10 feet of the mold are exposed to an [[rangoric-srd/rules/Afflictions#^inhaled-poison|inhaled]] [[rangoric-srd/rules/Afflictions#Poison|poison]]: _attack_ +5 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d3 Con damage; _cure_ 1 miss. Fire destroys yellow mold, and sunlight renders it dormant.
 
 Brown Mold (CR 2): Brown mold feeds on warmth, drawing heat from anything around it. It normally comes in patches 5 feet in diameter, and the temperature is always cold in a 30-foot radius around it. Living creatures within 5 feet of it take 3d6 points of nonlethal cold damage. Fire brought within 5 feet of brown mold causes it to instantly double in size. Cold damage, such as from a [[rangoric-srd/spells/Cone of Cold|cone of cold]], instantly destroys it.
 
@@ -389,7 +389,7 @@ The table below describes in general terms how likely it is that a given square 
 | Light undergrowth | 50%                                  | 70%                                  | 50%                                 |
 | Heavy undergrowth | —                                    | 20%                                  | 50%                                 |
 
-**Trees**: The most important terrain element in a forest is the trees, obviously. A creature standing in the same square as a tree gains a +2 bonus to Armor Class and a +1 bonus on Reflex saves (these bonuses don’t stack with cover bonuses from other sources). The presence of a tree doesn’t otherwise affect a creature’s fighting space, because it’s assumed that the creature is using the tree to its advantage when it can. The trunk of a typical tree has AC 4, hardness 5, and 150 hp. A DC 15 [[rangoric-srd/skills/Athletics|Athletics]] check is sufficient to climb a tree.
+**Trees**: The most important terrain element in a forest is the trees, obviously. A creature standing in the same square as a tree gains a +2 bonus to Armor Class and a +1 bonus on Reflex Defense (these bonuses don’t stack with cover bonuses from other sources). The presence of a tree doesn’t otherwise affect a creature’s fighting space, because it’s assumed that the creature is using the tree to its advantage when it can. The trunk of a typical tree has AC 4, hardness 5, and 150 hp. A DC 15 [[rangoric-srd/skills/Athletics|Athletics]] check is sufficient to climb a tree.
 
 Medium and dense forests have massive trees as well. These trees take up an entire square and provide cover to anyone behind them. They have AC 3, hardness 5, and 600 hp. Like their smaller counterparts, it takes a DC 15 Athletics check to climb them.
 
@@ -419,11 +419,11 @@ The leading edge of a fire (the downwind side) can advance faster than a human c
 
 Within the bounds of a forest fire, a character faces three dangers: heat damage, catching on fire, and smoke inhalation.
 
-**Heat Damage**: Getting caught within a forest fire is even worse than being exposed to extreme heat (see Heat Dangers). Breathing the air causes a character to take 1d6 points of damage per round (no save). In addition, a character must make a Fortitude save every 5 rounds (DC 15, +1 per previous check) or take 1d4 points of nonlethal damage. A character who holds his breath can avoid the lethal damage, but not the nonlethal damage. Those wearing heavy clothing or any sort of armor take a –4 penalty on their saving throws. In addition, those wearing metal armor or coming into contact with very hot metal are affected as if by a heat metal spell.
+**Heat Damage**: Getting caught within a forest fire is even worse than being exposed to extreme heat (see Heat Dangers). Breathing the air causes a character to take 1d6 points of damage per round (no defense). In addition, the fire attacks a character’s Fortitude every 5 rounds (+5, +1 per previous attack), dealing 1d4 points of nonlethal damage on a hit. A character who holds his breath can avoid the lethal damage, but not the nonlethal damage. Those wearing heavy clothing or any sort of armor take a –4 penalty on Fortitude Defense against it. In addition, those wearing metal armor or coming into contact with very hot metal are affected as if by a heat metal spell.
 
 **Catching on Fire**: Characters engulfed in a forest fire are at risk of catching on fire when the leading edge of the fire overtakes them, and are then at risk once per minute thereafter (see Catching on Fire).
 
-**Smoke Inhalation**: Forest fires naturally produce a great deal of smoke. A character who breathes heavy smoke must make a Fortitude save each round (DC 15, +1 per previous check) or spend that round choking and coughing. A character who chokes for 2 consecutive rounds takes 1d6 points of nonlethal damage. Also, smoke obscures vision, providing concealment to characters within it.
+**Smoke Inhalation**: Forest fires naturally produce a great deal of smoke. Heavy smoke attacks the Fortitude of a character who breathes it each round (+5, +1 per previous attack), and a character it hits spends that round choking and coughing. A character who chokes for 2 consecutive rounds takes 1d6 points of nonlethal damage. Also, smoke obscures vision, providing concealment to characters within it.
 
 ##### Marsh Terrain
 
@@ -444,7 +444,7 @@ The table below describes terrain features found in marshes.
 
 A square that is part of a deep bog has roughly 4 feet of standing water. It costs Medium or larger creatures 4 squares of movement to move into a square with a deep bog, or characters can swim if they wish. Small or smaller creatures must swim to move through a deep bog. Tumbling is impossible in a deep bog.
 
-The water in a deep bog provides cover for Medium or larger creatures. Smaller creatures gain improved cover (+8 bonus to AC, +4 bonus on Reflex saves). Medium or larger creatures can crouch as a move action to gain this improved cover. Creatures with this improved cover take a –10 penalty on attacks against creatures that aren’t underwater.
+The water in a deep bog provides cover for Medium or larger creatures. Smaller creatures gain improved cover (+8 bonus to AC, +4 bonus on Reflex Defense). Medium or larger creatures can crouch as a move action to gain this improved cover. Creatures with this improved cover take a –10 penalty on attacks against creatures that aren’t underwater.
 
 Deep bog squares are usually clustered together and surrounded by an irregular ring of shallow bog squares.
 
@@ -559,9 +559,9 @@ It’s possible to hear an avalanche coming even if you can’t see it. Under op
 
 A landslide or avalanche consists of two distinct areas: the bury zone (in the direct path of the falling debris) and the slide zone (the area the debris spreads out to encompass). Characters in the bury zone always take damage from the avalanche; characters in the slide zone may be able to get out of the way.
 
-Characters in the bury zone take 8d6 points of damage, or half that amount if they make a DC 15 Reflex save. They are subsequently buried (see below).
+Characters in the bury zone take 8d6 points of damage, or half that amount if it misses (+5 vs Reflex). They are subsequently buried (see below).
 
-Characters in the slide zone take 3d6 points of damage, or no damage if they make a DC 15 Reflex save. Those who fail their saves are buried.
+Characters in the slide zone take 3d6 points of damage, or no damage if it misses (+5 vs Reflex). Those who fail their saves are buried.
 
 Buried characters take 1d6 points of nonlethal damage per minute. If a buried character falls [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]], he or she must make a DC 15 Constitution check or take 1d6 points of lethal damage each minute thereafter until freed or [[rangoric-srd/rules/Special Abilities and Conditions#^dead|dead]].
 
@@ -577,15 +577,15 @@ High altitude can be extremely fatiguing—or sometimes deadly—to creatures th
 
 _Low Pass (lower than 5,000 feet)_: Most travel in low mountains takes place in low passes, a zone consisting largely of alpine meadows and forests. Travelers may find the going difficult (which is reflected in the movement modifiers for traveling through mountains), but the altitude itself has no game effect.
 
-_Low Peak or High Pass (5,000 to 15,000 feet)_: Ascending to the highest slopes of low mountains, or most normal travel through high mountains, falls into this category. All nonacclimated creatures labor to breathe in the thin air at this altitude. Characters must succeed on a Fortitude save each hour (DC 15, +1 per previous check) or be [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]]. The fatigue ends when the character descends to an altitude with more air.
+_Low Peak or High Pass (5,000 to 15,000 feet)_: Ascending to the highest slopes of low mountains, or most normal travel through high mountains, falls into this category. All nonacclimated creatures labor to breathe in the thin air at this altitude. The thin air attacks characters’ Fortitude each hour (+5, +1 per previous attack), and those it hits are [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]]. The fatigue ends when the character descends to an altitude with more air.
 
-Acclimated characters do not have to attempt the Fortitude save.
+The thin air does not attack acclimated characters.
 
 _High Peak (more than 15,000 feet)_: The highest mountains exceed 20,000 feet in height. At these elevations, creatures are subject to both high altitude fatigue (as described above) and altitude sickness, whether or not they’re acclimated to high altitudes.
 
-Altitude sickness represents long-term oxygen deprivation, and it affects mental and physical ability scores. After each 6-hour period a character spends at an altitude of over 15,000 feet, he must succeed on a Fortitude save (DC 15, +1 per previous check) or take 1 point of damage to all ability scores.
+Altitude sickness represents long-term oxygen deprivation, and it affects mental and physical ability scores. After each 6-hour period a character spends at an altitude of over 15,000 feet, the altitude attacks his Fortitude (+5, +1 per previous attack), and on a hit he takes 1 point of damage to all ability scores.
 
-Creatures acclimated to high altitude receive a +4 competence bonus on their saving throws to resist high altitude effects and altitude sickness, but eventually even seasoned mountaineers must abandon these dangerous elevations.
+Creatures acclimated to high altitude receive a +4 competence bonus on Fortitude Defense against high altitude effects and altitude sickness, but eventually even seasoned mountaineers must abandon these dangerous elevations.
 
 ##### Desert Terrain
 
@@ -687,7 +687,7 @@ Land-based creatures can have considerable difficulty when fighting in water. Wa
 
 **Ranged Attacks Underwater**: Thrown weapons are ineffective underwater, even when launched from land. Attacks with other ranged weapons take a –2 penalty on attack rolls for every 5 feet of water they pass through, in addition to the normal penalties for range.
 
-**Attacks from Land**: Characters swimming, floating, or treading water on the surface, or wading in water at least chest deep, have improved cover (+8 bonus to AC, +4 bonus on Reflex saves) from opponents on land. Landbound opponents who have freedom of movement effects ignore this cover when making melee attacks against targets in the water. A completely submerged creature has total cover against opponents on land unless those opponents have freedom of movement effects. Magical effects are unaffected except for those that require attack rolls (which are treated like any other effects) and fire effects.
+**Attacks from Land**: Characters swimming, floating, or treading water on the surface, or wading in water at least chest deep, have improved cover (+8 bonus to AC, +4 bonus on Reflex Defense) from opponents on land. Landbound opponents who have freedom of movement effects ignore this cover when making melee attacks against targets in the water. A completely submerged creature has total cover against opponents on land unless those opponents have freedom of movement effects. Magical effects are unaffected except for those that require attack rolls (which are treated like any other effects) and fire effects.
 
 **Fire**: Nonmagical fire (including alchemist’s fire) does not burn underwater. Spells or spell-like effects with the fire descriptor are ineffective underwater unless the caster makes a [[rangoric-srd/skills/Mysticism|Mysticism]] check (DC 20 + spell level). If the check succeeds, the spell creates a bubble of steam instead of its usual fiery effect, but otherwise the spell works as described. A supernatural fire effect is ineffective underwater unless its description states otherwise.
 
@@ -790,7 +790,7 @@ Catapult Attack Modifiers
 | Successive shots (crew can see where most recent misses landed)                                       | Culumative +2 per previous miss (maximum +10) |
 | Successive shots (crew can't see where most recent misses landed, but observer is providing feedback) | Culumative +1 per previous miss (maximum +5)  |
 
-Catapult, Heavy: A heavy catapult is a massive engine capable of throwing rocks or heavy objects with great force. Because the catapult throws its payload in a high arc, it can hit squares out of its line of sight. To fire a heavy catapult, the crew chief makes a special check against DC 15 using only his base attack bonus, Intelligence modifier, range increment penalty, and the appropriate modifiers from the lower section of Table: Siege Engines . If the check succeeds, the catapult stone hits the square the catapult was aimed at, dealing the indicated damage to any object or character in the square. Characters who succeed on a DC 15 Reflex save take half damage. Once a catapult stone hits a square, subsequent shots hit the same square unless the catapult is reaimed or the wind changes direction or speed. ^catapult-heavy
+Catapult, Heavy: A heavy catapult is a massive engine capable of throwing rocks or heavy objects with great force. Because the catapult throws its payload in a high arc, it can hit squares out of its line of sight. To fire a heavy catapult, the crew chief makes a special check against DC 15 using only his base attack bonus, Intelligence modifier, range increment penalty, and the appropriate modifiers from the lower section of Table: Siege Engines . If the check succeeds, the catapult stone hits the square the catapult was aimed at, dealing the indicated damage to any object or character in the square. The stone attacks their Reflex at +5, and characters it misses take half damage. Once a catapult stone hits a square, subsequent shots hit the same square unless the catapult is reaimed or the wind changes direction or speed. ^catapult-heavy
 
 If a catapult stone misses, roll 1d8 to determine where it lands. This determines the misdirection of the throw, with 1 being back toward the catapult and 2 through 8 counting clockwise around the target square. Then, count 3 squares away from the target square for every range increment of the attack.
 
@@ -820,7 +820,7 @@ Typical city streets are narrow and twisting. Most streets average 15 to 20 feet
 
 Some cities have no larger thoroughfares, particularly cities that gradually grew from small settlements to larger cities. Cities that are planned, or perhaps have suffered a major fire that allowed authorities to construct new roads through formerly inhabited areas, might have a few larger streets through town. These main roads are 25 feet wide-offering room for wagons to pass each other-with 5-foot-wide sidewalks on either side.
 
-Crowds: Urban streets are often full of people going about their daily lives. In most cases, it isn’t necessary to put every 1st-level commoner on the map when a fight breaks out on the city’s main thoroughfare. Instead just indicate which squares on the map contain crowds. If crowds see something obviously dangerous, they’ll move away at 30 feet per round at initiative count 0. It takes 2 squares of movement to enter a square with crowds. The crowds provide cover for anyone who does so, enabling a [[rangoric-srd/skills/Stealth|Stealth]] check and providing a bonus to Armor Class and on Reflex saves. ^crowds
+Crowds: Urban streets are often full of people going about their daily lives. In most cases, it isn’t necessary to put every 1st-level commoner on the map when a fight breaks out on the city’s main thoroughfare. Instead just indicate which squares on the map contain crowds. If crowds see something obviously dangerous, they’ll move away at 30 feet per round at initiative count 0. It takes 2 squares of movement to enter a square with crowds. The crowds provide cover for anyone who does so, enabling a [[rangoric-srd/skills/Stealth|Stealth]] check and providing a bonus to Armor Class and on Reflex Defense. ^crowds
 
 Directing Crowds: It takes a DC 15 [[rangoric-srd/skills/Persuasion|Persuasion]] check or DC 20 [[rangoric-srd/skills/Intimidation|Intimidation]] check to convince a crowd to move in a particular direction, and the crowd must be able to hear or see the character making the attempt. It takes a full-round action to make the Persuasion check, but only a free action to make the Intimidation check. ^directing-crowds
 
@@ -951,7 +951,7 @@ _Snowstorm_: In addition to the wind and precipitation common to other storms, s
 
 _Thunderstorm_: In addition to wind and precipitation (usually rain, but sometimes also hail), thunderstorms are accompanied by lightning that can pose a hazard to characters without proper shelter (especially those in metal armor). As a rule of thumb, assume one bolt per minute for a 1-hour period at the center of the storm. Each bolt causes electricity damage equal to 1d10 eight-sided dice. One in ten thunderstorms is accompanied by a tornado (see below).
 
-**Powerful Storms**: Very high winds and torrential precipitation reduce visibility to zero, making Perception and Investigation checks and all ranged weapon attacks impossible. Unprotected flames are automatically extinguished, and protected flames have a 75% chance of being doused. Creatures caught in the area must make a DC 20 Fortitude save or face the effects based on the size of the creature (see Table: Wind Effects). Powerful storms are divided into the ^powerful-storms
+**Powerful Storms**: Very high winds and torrential precipitation reduce visibility to zero, making Perception and Investigation checks and all ranged weapon attacks impossible. Unprotected flames are automatically extinguished, and protected flames have a 75% chance of being doused. The storm attacks the Fortitude of creatures caught in the area at +10, and those it hits face the effects based on the size of the creature (see Table: Wind Effects). Powerful storms are divided into the ^powerful-storms
 
 following four types.
 
@@ -987,27 +987,27 @@ _Tornado (CR 10)_: All flames are extinguished. All ranged attacks are impossibl
 
 **Table: WIND EFFECTS**
 
-| Wind Force | Wind Speed  | Ranged Attacks Normal/Siege Weapons (1) | Creature Size (2)      | Wind Effect on Creatures                                                            | Fort Save DC |
-| ---------- | ----------- | --------------------------------------- | ---------------------- | ----------------------------------------------------------------------------------- | ------------ |
-| Light      | 0–10 mph    | —/—                                     | Any                    | None                                                                                | —            |
-| Moderate   | 11–20 mph   | —/—                                     | Any                    | None                                                                                | —            |
-| Strong     | 21–30 mph   | –2/—                                    | Tiny or smaller        | [[rangoric-srd/rules/Special Abilities and Conditions#^knocked-down\|Knocked down]] | 10           |
-|            |             |                                         | Small or larger        | None                                                                                |              |
-| Severe     | 31–50 mph   | –4/—                                    | Tiny                   | Blown away                                                                          | 15           |
-|            |             |                                         | Small                  | Knocked down                                                                        |              |
-|            |             |                                         | Medium                 | [[rangoric-srd/rules/Special Abilities and Conditions#^checked\|Checked]]           |              |
-|            |             |                                         | Large or larger        | None                                                                                |              |
-| Windstorm  | 51–74 mph   | Impossible/–4                           | Small or smaller       | Blown away                                                                          | 18           |
-|            |             |                                         | Medium                 | Knocked down                                                                        |              |
-|            |             |                                         | Large or Huge          | Checked                                                                             |              |
-|            |             |                                         | Gargantuan or Colossal | None                                                                                |              |
-| Hurricane  | 75–174 mph  | Impossible/–8                           | Medium or smaller      | Blown away                                                                          | 20           |
-|            |             |                                         | Large                  | Knocked down                                                                        |              |
-|            |             |                                         | Huge                   | Checked                                                                             |              |
-|            |             |                                         | Gargantuan or Colossal | None                                                                                |              |
-| Tornado    | 175–300 mph | Impossible/impossible                   | Large or smaller       | Blown away                                                                          | 30           |
-|            |             |                                         | Huge                   | Knocked down                                                                        |              |
-|            |             |                                         | Gargantuan or Colossal | Checked                                                                             |              |
+| Wind Force | Wind Speed  | Ranged Attacks Normal/Siege Weapons (1) | Creature Size (2)      | Wind Effect on Creatures                                                            | Attack vs Fort |
+| ---------- | ----------- | --------------------------------------- | ---------------------- | ----------------------------------------------------------------------------------- | -------------- |
+| Light      | 0–10 mph    | —/—                                     | Any                    | None                                                                                | —              |
+| Moderate   | 11–20 mph   | —/—                                     | Any                    | None                                                                                | —              |
+| Strong     | 21–30 mph   | –2/—                                    | Tiny or smaller        | [[rangoric-srd/rules/Special Abilities and Conditions#^knocked-down\|Knocked down]] | +0             |
+|            |             |                                         | Small or larger        | None                                                                                |                |
+| Severe     | 31–50 mph   | –4/—                                    | Tiny                   | Blown away                                                                          | +5             |
+|            |             |                                         | Small                  | Knocked down                                                                        |                |
+|            |             |                                         | Medium                 | [[rangoric-srd/rules/Special Abilities and Conditions#^checked\|Checked]]           |                |
+|            |             |                                         | Large or larger        | None                                                                                |                |
+| Windstorm  | 51–74 mph   | Impossible/–4                           | Small or smaller       | Blown away                                                                          | +8             |
+|            |             |                                         | Medium                 | Knocked down                                                                        |                |
+|            |             |                                         | Large or Huge          | Checked                                                                             |                |
+|            |             |                                         | Gargantuan or Colossal | None                                                                                |                |
+| Hurricane  | 75–174 mph  | Impossible/–8                           | Medium or smaller      | Blown away                                                                          | +10            |
+|            |             |                                         | Large                  | Knocked down                                                                        |                |
+|            |             |                                         | Huge                   | Checked                                                                             |                |
+|            |             |                                         | Gargantuan or Colossal | None                                                                                |                |
+| Tornado    | 175–300 mph | Impossible/impossible                   | Large or smaller       | Blown away                                                                          | +20            |
+|            |             |                                         | Huge                   | Knocked down                                                                        |                |
+|            |             |                                         | Gargantuan or Colossal | Checked                                                                             |                |
 
 1 _The siege weapon category includes ballista and catapult attacks as well as boulders tossed by giants._
 
@@ -1027,7 +1027,7 @@ Environmental hazards specific to one kind of terrain (such as an avalanche, whi
 
 Corrosive acids deals 1d6 points of damage per round of exposure except in the case of total immersion (such as into a vat of acid), which deals 10d6 points of damage per round. An attack with acid, such as from a hurled vial or a monster’s spittle, counts as a round of exposure.
 
-The fumes from most acids are inhaled poisons. Those who are adjacent to a large body of acid must make a DC 13 Fortitude save or take 1 point of Constitution damage each round. This poison has no frequency: a creature is safe as soon as it moves away from the acid.
+The fumes from most acids are inhaled poisons. The fumes attack the Fortitude of those adjacent to a large body of acid at +3 each round, dealing 1 point of Constitution damage on a hit. This poison has no frequency: a creature is safe as soon as it moves away from the acid.
 
 Creatures immune to acid’s caustic properties might still drown in it if they are totally immersed (see Drowning).
 
@@ -1035,13 +1035,13 @@ Creatures immune to acid’s caustic properties might still drown in it if they 
 
 Cold and exposure deal nonlethal damage to the victim. This nonlethal damage cannot be recovered until the character gets out of the cold and warms up again. Once a character is rendered [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]] through the accumulation of nonlethal damage, the cold and exposure begins to deal lethal damage at the same rate.
 
-An unprotected character in cold weather (below 40° F) must make a Fortitude save each hour (DC 15, + 1 per previous check) or take 1d6 points of nonlethal damage. A character who has the [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] skill may receive a bonus on this saving throw and may be able to apply this bonus to other characters as well (see the skill Description).
+Cold weather (below 40° F) attacks an unprotected character’s Fortitude each hour (+5, +1 per previous attack), dealing 1d6 points of nonlethal damage on a hit. A character who has the [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] skill may receive a bonus on Fortitude Defense against it and may be able to apply this bonus to other characters as well (see the skill Description).
 
-In conditions of severe cold or exposure (below 0° F), an unprotected character must make a Fortitude save once every 10 minutes (DC 15, +1 per previous check), taking 1d6 points of nonlethal damage on each failed save. A character who has the Fieldcraft skill may receive a bonus on this saving throw and may be able to apply this bonus to other characters as well (see the skill description). Characters wearing winter clothing only need check once per hour for cold and exposure damage.
+In conditions of severe cold or exposure (below 0° F), the cold attacks an unprotected character’s Fortitude once every 10 minutes (+5, +1 per previous attack), dealing 1d6 points of nonlethal damage on each hit. A character who has the Fieldcraft skill may receive a bonus on Fortitude Defense against it and may be able to apply this bonus to other characters as well (see the skill description). Characters wearing winter clothing only need check once per hour for cold and exposure damage.
 
 A character who takes any nonlethal damage from cold or exposure is beset by frostbite or hypothermia (treat her as [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]]). These penalties end when the character recovers the nonlethal damage she took from the cold and exposure.
 
-Extreme cold (below –20° F) deals 1d6 points of lethal damage per minute (no save). In addition, a character must make a Fortitude save (DC 15, +1 per previous check) or take 1d4 points of nonlethal damage. Those wearing metal armor or coming into contact with very cold metal are affected as if by a chill metal spell.
+Extreme cold (below –20° F) deals 1d6 points of lethal damage per minute (no defense). In addition, the cold attacks a character’s Fortitude (+5, +1 per previous attack), dealing 1d4 points of nonlethal damage on a hit. Those wearing metal armor or coming into contact with very cold metal are affected as if by a chill metal spell.
 
 ###### Ice Effects
 
@@ -1112,13 +1112,13 @@ For each additional increment an object falls, it deals an additional 1d6 points
 
 Heat deals nonlethal damage that cannot be recovered until the character gets cooled off (reaches shade, survives until nightfall, gets doused in water, is targeted by endure elements, and so forth). Once rendered [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]] through the accumulation of nonlethal damage, the character begins to take lethal damage at the same rate.
 
-A character in very hot conditions (above 90° F) must make a Fortitude saving throw each hour (DC 15, +1 for each previous check) or take 1d4 points of nonlethal damage. Characters wearing heavy clothing or armor of any sort take a –4 penalty on their saves. A character with the [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] skill may receive a bonus on this saving throw and may be able to apply this bonus to other characters as well (see the skill description). Characters reduced to unconsciousness begin taking lethal damage (1d4 points per hour).
+Very hot conditions (above 90° F) attack a character’s Fortitude each hour (+5, +1 for each previous attack), dealing 1d4 points of nonlethal damage on a hit. Characters wearing heavy clothing or armor of any sort take a –4 penalty on Fortitude Defense against it. A character with the [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] skill may receive a bonus on Fortitude Defense against it and may be able to apply this bonus to other characters as well (see the skill description). Characters reduced to unconsciousness begin taking lethal damage (1d4 points per hour).
 
-In severe heat (above 110° F), a character must make a Fortitude save once every 10 minutes (DC 15, +1 for each previous check) or take 1d4 points of nonlethal damage. Characters wearing heavy clothing or armor of any sort take a –4 penalty on their saves. A character with the Fieldcraft skill may receive a bonus on this saving throw and may be able to apply this bonus to other characters as well. Characters reduced to unconsciousness begin taking lethal damage (1d4 points per each 10-minute period).
+In severe heat (above 110° F), the heat attacks a character’s Fortitude once every 10 minutes (+5, +1 for each previous attack), dealing 1d4 points of nonlethal damage on a hit. Characters wearing heavy clothing or armor of any sort take a –4 penalty on Fortitude Defense against it. A character with the Fieldcraft skill may receive a bonus on Fortitude Defense against it and may be able to apply this bonus to other characters as well. Characters reduced to unconsciousness begin taking lethal damage (1d4 points per each 10-minute period).
 
 A character who takes any nonlethal damage from heat exposure now suffers from heatstroke and is [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]]. These penalties end when the character recovers the nonlethal damage she took from the heat.
 
-Extreme heat (air temperature over 140° F, fire, boiling water, lava) deals lethal damage. Breathing air in these temperatures deals 1d6 points of damage per minute (no save). In addition, a character must make a Fortitude save every 5 minutes (DC 15, +1 per previous check) or take 1d4 points of nonlethal damage. Those wearing heavy clothing or any sort of armor take a –4 penalty on their saves. In addition, those wearing metal armor or coming into contact with very hot metal are affected as if by a [[rangoric-srd/spells/Heat Metal|heat metal]] spell.
+Extreme heat (air temperature over 140° F, fire, boiling water, lava) deals lethal damage. Breathing air in these temperatures deals 1d6 points of damage per minute (no defense). In addition, the heat attacks a character’s Fortitude every 5 minutes (+5, +1 per previous attack), dealing 1d4 points of nonlethal damage on a hit. Those wearing heavy clothing or any sort of armor take a –4 penalty on Fortitude Defense against it. In addition, those wearing metal armor or coming into contact with very hot metal are affected as if by a [[rangoric-srd/spells/Heat Metal|heat metal]] spell.
 
 Boiling water deals 1d6 points of scalding damage, unless the character is fully immersed, in which case it deals 10d6 points of damage per round of exposure.
 
@@ -1126,11 +1126,11 @@ Boiling water deals 1d6 points of scalding damage, unless the character is fully
 
 Characters exposed to burning oil, bonfires, and noninstantaneous magic fires might find their clothes, hair, or equipment on fire. Spells with an instantaneous duration don’t normally set a character on fire, since the heat and flame from these come and go in a flash.
 
-Characters at risk of catching fire are allowed a DC 15 Reflex save to avoid this fate. If a character’s clothes or hair catch fire, he takes 1d6 points of damage immediately. In each subsequent round, the burning character must make another Reflex saving throw. Failure means he takes another 1d6 points of damage that round. Success means that the fire has gone out. (That is, once he succeeds on his saving throw, he’s no longer on fire.)
+Fire attacks the Reflex of characters at risk of catching fire at +5, and a miss avoids this fate. If a character’s clothes or hair catch fire, he takes 1d6 points of damage immediately. In each subsequent round, the fire attacks the burning character’s Reflex again. A hit means he takes another 1d6 points of damage that round. A miss means that the fire has gone out. (That is, once it misses, he’s no longer on fire.)
 
-A character on fire may automatically extinguish the flames by jumping into enough water to douse himself. If no body of water is at hand, rolling on the ground or smothering the fire with cloaks or the like permits the character another save with a +4 bonus.
+A character on fire may automatically extinguish the flames by jumping into enough water to douse himself. If no body of water is at hand, rolling on the ground or smothering the fire with cloaks or the like makes the fire attack again, with a +4 bonus on his Reflex Defense against it.
 
-Those unlucky enough to have their clothes or equipment catch fire must make DC 15 Reflex saves for each item. Flammable items that fail take the same amount of damage as the character.
+When the clothes or equipment of the unlucky catch fire, the fire attacks each item’s Reflex Defense at +5. Flammable items it hits take the same amount of damage as the character.
 
 ###### Lava Effects
 
@@ -1142,7 +1142,7 @@ An immunity or resistance to fire serves as an immunity to lava or magma. Howeve
 
 ##### Smoke Effects
 
-A character who breathes heavy smoke must make a Fortitude save each round (DC 15, +1 per previous check) or spend that round choking and coughing. A character who chokes for 2 consecutive rounds takes 1d6 points of nonlethal damage.
+Heavy smoke attacks the Fortitude of a character who breathes it each round (+5, +1 per previous attack), and a character it hits spends that round choking and coughing. A character who chokes for 2 consecutive rounds takes 1d6 points of nonlethal damage.
 
 Smoke obscures vision, giving concealment (20% miss chance) to characters within it.
 
@@ -1158,7 +1158,7 @@ Characters who have taken nonlethal damage from lack of food or water are [[rang
 
 ##### Suffocation
 
-A character who has no air to breathe can hold her breath for 2 rounds per point of Constitution. If she takes a standard action or a full-round action (such as making an attack) while holding her breath, the remainder of the duration for which she can hold her breath is reduced by 1 round. (Effectively, a character in combat can hold her breath only half as long as normal.) After this period of time, the character must make a DC 10 Constitution check in order to continue holding her breath. The save must be repeated each round, with the DC increasing by +1 for each previous success. ^hold-breath
+A character who has no air to breathe can hold her breath for 2 rounds per point of Constitution. If she takes a standard action or a full-round action (such as making an attack) while holding her breath, the remainder of the duration for which she can hold her breath is reduced by 1 round. (Effectively, a character in combat can hold her breath only half as long as normal.) After this period of time, the character must make a DC 10 Constitution check in order to continue holding her breath. The check must be repeated each round, with the DC increasing by +1 for each previous success. ^hold-breath
 
 When the character fails one of these Constitution checks, she begins to suffocate. In the first round, she falls [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]] (0 hit points). In the following round, she drops to –1 hit points and is [[rangoric-srd/rules/Special Abilities and Conditions#^dying|dying]]. In the third round, she suffocates.
 
@@ -1172,7 +1172,7 @@ Any character can wade in relatively calm water that isn’t over his head, no c
 
 By contrast, fast-moving water is much more dangerous. On a successful DC 15 Athletics check or a DC 15 Strength check, it deals 1d3 points of nonlethal damage per round (1d6 points of lethal damage if flowing over rocks and cascades). On a failed check, the character must make another check that round to avoid going under.
 
-Very deep water is not only generally pitch black, posing a navigational hazard, but worse, it deals water pressure damage of 1d6 points per minute for every 100 feet the character is below the surface. A successful Fortitude save (DC 15, +1 for each previous check) means the diver takes no damage in that minute.
+Very deep water is not only generally pitch black, posing a navigational hazard, but worse, it deals water pressure damage of 1d6 points per minute for every 100 feet the character is below the surface. The pressure attacks the diver’s Fortitude each minute (+5, +1 for each previous attack), and a miss means the diver takes no damage in that minute.
 
 Very cold water deals 1d6 points of nonlethal damage from hypothermia per minute of exposure.
 

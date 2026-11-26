@@ -38,7 +38,7 @@ A vast variety of boats and ships exist in the real world, from small rafts and 
 
 **hp**: The ship's total hit points. In addition, all ships have a hardness rating based on their construction material (hardness 5 for most wooden ships). At 0 or fewer hit points, a ship gains the sinking condition as described above.
 
-**Base Save**: The ship's base save modifier. All of a ship's saving throws (Fortitude, Reflex, and Will) have the same value. To determine a ship's actual saving throw modifiers, add the captain's [[rangoric-srd/skills/Profession|Profession]] (sailor) modifier to this base value.
+**Base Save**: The ship's base save modifier. All of a ship's defenses (Fortitude, Reflex, and Will) have the same value. To determine a ship's actual defenses, add 10 and the captain's [[rangoric-srd/skills/Profession|Profession]] (sailor) modifier to this base value.
 
 **Maximum Speed**: The ship's maximum tactical speed in combat. An asterisk indicates the ship has sails, and can move at double speed when it moves in the same direction as the wind. A ship with only sails can only move if there is some wind.
 

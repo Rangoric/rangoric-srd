@@ -4,11 +4,11 @@ section: "Rules"
 book: "Ultimate Equipment"
 affliction-type: "poison"
 delivery: "inhaled"
-save: "Fortitude DC 15"
-save-dc: 15
+attack: "+5 vs Fortitude"
+attack-bonus: 5
 frequency: "1/minute for 2 minutes"
 effect: "nauseated for 1 minute/paralyzed for 2d4 hours"
-cure: "1 save"
+cure: "1 miss"
 price: "1,500 gp"
 based-on:
   - "[[path srd 3.5/rules/ultimate-equipment/gear/Poisons|Poisons (PF1)]]"
@@ -24,8 +24,8 @@ tags: [rangoric, rangoric/affliction]
 A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]].
 
 - **Type**: poison, inhaled
-- **Save**: Fortitude DC 15
+- **Attack**: +5 vs Fortitude
 - **Frequency**: 1/minute for 2 minutes
 - **Effect**: [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1 minute/[[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] for 2d4 hours
-- **Cure**: 1 save
+- **Cure**: 1 miss
 - **Price**: 1,500 gp

@@ -4,12 +4,12 @@ section: "Rules"
 book: ["Core Rulebook", "Ultimate Equipment"]
 affliction-type: "poison"
 delivery: "ingested"
-save: "Fortitude DC 13"
-save-dc: 13
+attack: "+3 vs Fortitude"
+attack-bonus: 3
 onset: "10 minutes"
 frequency: "1/minute for 4 minutes"
 effect: "1d2 Con"
-cure: "1 save"
+cure: "1 miss"
 price: "120 gp"
 based-on:
   - "[[path srd 3.5/afflictions/Arsenic|Arsenic (PF1)]]"
@@ -26,9 +26,9 @@ tags: [rangoric, rangoric/affliction]
 A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]].
 
 - **Type**: poison, ingested
-- **Save**: Fortitude DC 13
+- **Attack**: +3 vs Fortitude
 - **Onset**: 10 minutes
 - **Frequency**: 1/minute for 4 minutes
 - **Effect**: 1d2 Con damage
-- **Cure**: 1 save
+- **Cure**: 1 miss
 - **Price**: 120 gp

@@ -4,11 +4,11 @@ section: "Rules"
 book: "Bestiary 3"
 affliction-type: "poison"
 delivery: "injury"
-save: "Fortitude DC 23"
-save-dc: 23
+attack: "+13 vs Fortitude"
+attack-bonus: 13
 frequency: "1/round for 6 rounds"
 effect: "1d4 Con"
-cure: "2 consecutive saves"
+cure: "2 consecutive misses"
 based-on:
   - "[[path srd 3.5/monsters/Asura, Aghasura|Aghasura (PF1)]]"
 status: draft
@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/affliction]
 A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the [[rangoric-srd/monsters/asuras/Aghasura|aghasura]].
 
 - **Type**: poison, injury
-- **Save**: Fortitude DC 23
+- **Attack**: +13 vs Fortitude
 - **Frequency**: 1/round for 6 rounds
 - **Effect**: 1d4 Constitution damage
-- **Cure**: 2 consecutive saves
+- **Cure**: 2 consecutive misses

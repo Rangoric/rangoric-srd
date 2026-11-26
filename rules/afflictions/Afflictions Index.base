@@ -22,6 +22,7 @@ views:
       - note.affliction-type
       - note.delivery
       - note.save
+      - note.attack
       - note.onset
       - note.frequency
       - note.effect
@@ -42,6 +43,7 @@ views:
       - file.name
       - note.delivery
       - note.save
+      - note.attack
       - note.onset
       - note.frequency
       - note.effect
@@ -49,6 +51,8 @@ views:
       - note.price
     sort:
       - property: note.delivery
+        direction: ASC
+      - property: note.attack-bonus
         direction: ASC
       - property: note.save-dc
         direction: ASC
@@ -63,6 +67,7 @@ views:
       - file.name
       - note.delivery
       - note.save
+      - note.attack
       - note.onset
       - note.frequency
       - note.effect
@@ -79,6 +84,7 @@ views:
       - file.name
       - note.delivery
       - note.save
+      - note.attack
       - note.onset
       - note.frequency
       - note.effect
@@ -96,6 +102,7 @@ views:
       - note.delivery
       - note.addiction
       - note.save
+      - note.attack
       - note.effect
       - note.damage
       - note.price
@@ -111,11 +118,14 @@ views:
     order:
       - file.name
       - note.save
+      - note.attack
       - note.onset
       - note.frequency
       - note.effect
       - note.cure
     sort:
+      - property: note.attack
+        direction: ASC
       - property: note.save
         direction: ASC
       - property: file.name
@@ -128,6 +138,7 @@ views:
     order:
       - file.name
       - note.save
+      - note.attack
       - note.onset
       - note.frequency
       - note.effect
@@ -142,6 +153,7 @@ views:
     order:
       - file.name
       - note.save
+      - note.attack
       - note.onset
       - note.effect
     sort:

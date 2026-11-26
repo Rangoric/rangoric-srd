@@ -4,11 +4,11 @@ section: "Rules"
 book: ["Core Rulebook", "Ultimate Equipment"]
 affliction-type: "poison"
 delivery: "inhaled"
-save: "Fortitude DC 18"
-save-dc: 18
+attack: "+8 vs Fortitude"
+attack-bonus: 8
 frequency: "1/round for 6 rounds"
 effect: "1 Con drain/1d3 Con"
-cure: "2 consecutive saves"
+cure: "2 consecutive misses"
 price: "2,100 gp"
 based-on:
   - "[[path srd 3.5/afflictions/Burnt Othur Fumes|Burnt Othur Fumes (PF1)]]"
@@ -25,8 +25,8 @@ tags: [rangoric, rangoric/affliction]
 A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]].
 
 - **Type**: poison, inhaled
-- **Save**: Fortitude DC 18
+- **Attack**: +8 vs Fortitude
 - **Frequency**: 1/round for 6 rounds
 - **Effect**: 1 Con [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]]/1d3 Con damage
-- **Cure**: 2 consecutive saves
+- **Cure**: 2 consecutive misses
 - **Price**: 2,100 gp

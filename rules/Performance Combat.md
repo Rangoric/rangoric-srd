@@ -40,17 +40,17 @@ During performance combat, it is important for the GM to keep track of the crowd
 
 The following are the general categories of crowd reaction and attitude. They are listed from lowest regard to highest. ^crowd-attitudes
 
-**Hostile**: The crowd does not like what it is seeing. Hostile crowds demoralize combatants in a performance combat. In these battles, while the crowd is hostile toward a given side, those combatants take a –2 penalty on all attack rolls, combat maneuver checks, ability checks, skill checks, and saving throws. This is a mind-affecting effect.
+**Hostile**: The crowd does not like what it is seeing. Hostile crowds demoralize combatants in a performance combat. In these battles, while the crowd is hostile toward a given side, those combatants take a –2 penalty on all attack rolls, combat maneuver checks, ability checks, skill checks, and defenses. This is a mind-affecting effect.
 
 If the crowd is hostile toward a side of the combat and a member of that side fails a performance combat check by 5 or more, that side automatically loses the performance part of the combat. This can be important for the story of the game, or if the PCs are participating in serialized performance combats.
 
-**Unfriendly**: While still biased against a side, the crowd reserves its most vocal disdain for failed performance combat checks. Unfriendly crowds demoralize combatants in a performance combat. In these battles, while the crowd is unfriendly toward a given side, those combatants take a –1 penalty on all attack rolls, combat maneuver checks, ability checks, skill checks, and saving throws. This is a mind-affecting effect.
+**Unfriendly**: While still biased against a side, the crowd reserves its most vocal disdain for failed performance combat checks. Unfriendly crowds demoralize combatants in a performance combat. In these battles, while the crowd is unfriendly toward a given side, those combatants take a –1 penalty on all attack rolls, combat maneuver checks, ability checks, skill checks, and defenses. This is a mind-affecting effect.
 
 **Indifferent**: The crowd is waiting for something exciting to happen. Audience members show little emotion other than anticipation and a desire for daring feats of combat to occur.
 
-**Friendly**: The crowd is beginning to be swayed toward one side in the fray. Audience members cheer when that side achieves some impressive feat in the combat, and their reaction grants a +1 morale bonus on all attack rolls, combat maneuver checks, ability checks, skill checks, and saving throws for their chosen side. This is a mind-affecting effect.
+**Friendly**: The crowd is beginning to be swayed toward one side in the fray. Audience members cheer when that side achieves some impressive feat in the combat, and their reaction grants a +1 morale bonus on all attack rolls, combat maneuver checks, ability checks, skill checks, and defenses for their chosen side. This is a mind-affecting effect.
 
-**Helpful**: The crowd loves what it is seeing from a given side. Audience members stand up, chant, cheer, and scream for the combatants to push on toward ultimate success. A helpful crowd grants its chosen champions a +2 morale bonus on all attack rolls, combat maneuver checks, ability checks, skill checks, and saving throws. This is a mind-affecting effect.
+**Helpful**: The crowd loves what it is seeing from a given side. Audience members stand up, chant, cheer, and scream for the combatants to push on toward ultimate success. A helpful crowd grants its chosen champions a +2 morale bonus on all attack rolls, combat maneuver checks, ability checks, skill checks, and defenses. This is a mind-affecting effect.
 
 If the crowd is helpful toward one side of the combat and a member of that side succeeds at a performance combat check, that side gains a [[#^victory-points|victory point]].
 
@@ -188,7 +188,7 @@ The following performance combat checks must be attempted whenever possible. The
 
 **Magical Healing**: Crowds tend to dislike the use of magical healing; some crowds even see it as cheating. On a turn when a combatant casts a healing spell or other healing effect, or uses a healing spell trigger, spell completion, or use-activated item (including forcing a _potion of cure light wounds_ or similar potion down the throat of an opponent) she must make a performance combat check. Success yields no change to the attitude of the crowd, but any failure reduces the crowd's attitude by one step.
 
-**Rolling a Natural 1**: When a combatant rolls a natural 1 on an attack roll or a saving throw, she must make a performance combat check. A success does not affect the crowd in any way, but any failure reduces the crowd's attitude by one step.
+**Rolling a Natural 1**: When a combatant rolls a natural 1 on an attack roll, or an attack against her defense rolls a natural 20, she must make a performance combat check. A success does not affect the crowd in any way, but any failure reduces the crowd's attitude by one step.
 
 **Withdraw**: Whenever a combatant uses the [[rangoric-srd/combat/Combat Actions#Withdraw|withdraw]] action, she must make a performance combat check as a free action. She takes a –5 penalty on the check, and success does not shift the crowd's attitude, but failure shifts it one step lower.
 
