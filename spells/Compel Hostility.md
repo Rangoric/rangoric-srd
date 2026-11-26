@@ -27,7 +27,7 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 round/level"
-saving-throw: "See text"
+defense: "See text"
 spell-resistance: "See text"
 book: "Ultimate Combat"
 based-on:
@@ -48,9 +48,9 @@ _Enchantment (Compulsion) \[Mind-affecting\]_
 - **Range**: Personal
 - **Target**: You
 - **Duration**: 1 round/level
-- **Saving Throw**: See text
+- **Defense**: See text
 - **Spell Resistance**: See text
 
-Whenever a creature you can see that threatens you makes an attack against one of your allies, as an immediate action, you can compel that creature to attack you instead. When you compel a creature to attack you, you must first overcome that creature's spell resistance, and the creature can attempt a Will saving throw to ignore the compulsion.
+Whenever a creature you can see that threatens you makes an attack against one of your allies, as an immediate action, you can compel that creature to attack you instead. When you compel a creature to attack you, you must first overcome that creature's spell resistance, and the spell attacks the creature’s Will; on a miss it ignores the compulsion.
 
 A [[rangoric-srd/classes/Summoner|summoner]] casting this spell can choose his [[rangoric-srd/classes/Summoner#^summoner-eidolon|eidolon]] as the target of the spell.

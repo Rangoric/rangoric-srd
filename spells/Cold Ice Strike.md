@@ -15,7 +15,7 @@ casting-time: "1 swift action"
 range: "30 ft."
 area: "30-ft. line"
 duration: "Instantaneous"
-saving-throw: "Reflex half"
+defense: "Reflex half"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -36,7 +36,7 @@ _Evocation \[Cold\]_
 - **Range**: 30 ft.
 - **Area**: 30-ft. line
 - **Duration**: Instantaneous
-- **Saving Throw**: Reflex half
+- **Defense**: Reflex half
 - **Spell Resistance**: Yes
 
 You create a shredding flurry of ice slivers, which blast from your hand in a line. The line deals 1d6 points of cold damage per caster level (maximum 15d6).

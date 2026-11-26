@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "20 ft."
 targets: "One creature/level in a 20-ft.-radius burst centered on you"
 duration: "1 round/level (D)"
-saving-throw: "See text"
+defense: "See text"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Cloak of Chaos|Cloak of Chaos (3.5)]]"
@@ -35,17 +35,17 @@ _Abjuration \[Chaotic\]_
 - **Range**: 20 ft.
 - **Targets**: One creature/level in a 20-ft.-radius burst centered on you
 - **Duration**: 1 round/level (D)
-- **Saving Throw**: See text
+- **Defense**: See text
 - **Spell Resistance**: Yes (harmless)
 
 A random pattern of color surrounds the subjects, protecting them from attacks, granting them resistance to spells cast by lawful creatures, and causing lawful creatures that strike the subjects to become [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]]. This abjuration has four effects.
 
-First, each warded creature gains a +4 deflection bonus to AC and a +4 resistance bonus on saves. Unlike protection from law, the benefit of this spell applies against all attacks, not just against attacks by lawful creatures.
+First, each warded creature gains a +4 deflection bonus to AC and a +4 resistance bonus on defenses. Unlike protection from law, the benefit of this spell applies against all attacks, not just against attacks by lawful creatures.
 
 Second, each warded creature gains spell resistance 25 against lawful spells and spells cast by lawful creatures.
 
 Third, the abjuration blocks possession and mental influence, just as protection from law does.
 
-Finally, if a lawful creature succeeds on a melee attack against a warded creature, the offending attacker is confused for 1 round (Will save negates, as with the confusion spell, but against the save DC of cloak of chaos).
+Finally, if a lawful creature succeeds on a melee attack against a warded creature, the offending attacker is confused for 1 round (vs Will, as with the confusion spell, but with the attack bonus of cloak of chaos).
 
 _Focus_: A tiny reliquary containing some sacred relic, such as a scrap of parchment from a chaotic text. The reliquary costs at least 500 gp.

@@ -28,7 +28,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One living creature with 5 or fewer HD"
 duration: "1d4 rounds or 1 round; see text"
-saving-throw: "Will partial"
+defense: "Will partial"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Cause Fear|Cause Fear (3.5)]]"
@@ -48,9 +48,9 @@ _Necromancy \[Fear, Mind-Affecting\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One living creature with 5 or fewer HD
 - **Duration**: 1d4 rounds or 1 round; see text
-- **Saving Throw**: Will partial
+- **Defense**: Will partial
 - **Spell Resistance**: Yes
 
-The affected creature becomes [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]]. If the subject succeeds on a Will save, it is [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1 round. Creatures with 6 or more Hit Dice are immune to this effect.
+The affected creature becomes [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]]. If the spell misses the subject’s Will, it is [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1 round. Creatures with 6 or more Hit Dice are immune to this effect.
 
 Cause fear counters and dispels remove fear.

@@ -20,7 +20,7 @@ casting-time: "1 standard action"
 range: "15 ft."
 area: "Cone-shaped burst"
 duration: "Instantaneous; see text"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Color Spray|Color Spray (3.5)]]"
@@ -40,7 +40,7 @@ _Illusion (Pattern) \[Mind-Affecting\]_
 - **Range**: 15 ft.
 - **Area**: Cone-shaped burst
 - **Duration**: Instantaneous; see text
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 A vivid cone of clashing colors springs forth from your hand, causing creatures to become [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]], perhaps also [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]], and possibly knocking them [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]].

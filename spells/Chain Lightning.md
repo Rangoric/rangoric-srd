@@ -18,7 +18,7 @@ casting-time: "1 standard action"
 range: "Long (400 ft. + 40 ft./level)"
 targets: "One primary target, plus one secondary target/level (each of which must be within 30 ft. of the primary target)"
 duration: "Instantaneous"
-saving-throw: "Reflex half"
+defense: "Reflex half"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Chain Lightning|Chain Lightning (3.5)]]"
@@ -38,13 +38,13 @@ _Evocation \[Electricity\]_
 - **Range**: Long (400 ft. + 40 ft./level)
 - **Targets**: One primary target, plus one secondary target/level (each of which must be within 30 ft. of the primary target)
 - **Duration**: Instantaneous
-- **Saving Throw**: Reflex half
+- **Defense**: Reflex half
 - **Spell Resistance**: Yes
 
 This spell creates an electrical discharge that begins as a single stroke commencing from your fingertips. Unlike lightning bolt, chain lightning strikes one object or creature initially, then arcs to other targets.
 
 The bolt deals 1d6 points of electricity damage per caster level (maximum 20d6) to the primary target. After it strikes, lightning can arc to a number of secondary targets equal to your caster level (maximum 20). The secondary bolts each strike one target and deal half as much damage as the primary one did (rounded down).
 
-Each target can attempt a Reflex saving throw for half damage. You choose secondary targets as you like, but they must all be within 30 feet of the primary target, and no target can be struck more than once. You can choose to affect fewer secondary targets than the maximum.
+The lightning attacks each target’s Reflex, and a miss halves the damage. You choose secondary targets as you like, but they must all be within 30 feet of the primary target, and no target can be struck more than once. You can choose to affect fewer secondary targets than the maximum.
 
 _Focus_: A bit of fur; a piece of amber, glass, or a crystal rod; plus one silver pin for each of your caster levels.

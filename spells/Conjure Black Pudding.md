@@ -18,7 +18,7 @@ casting-time: "1 round"
 range: "Close (25 ft. + 5 ft./2 level)"
 effect: "One summoned black pudding"
 duration: "1 round/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Ultimate Magic"
 based-on:
@@ -39,7 +39,7 @@ _Conjuration (Summoning) \[Acid\]_
 - **Range**: Close (25 ft. + 5 ft./2 level)
 - **Effect**: One summoned black pudding
 - **Duration**: 1 round/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You summon a black pudding that immediately attacks creatures near it. You have no control over the creature, and it may attack you if there are no more obvious opponents. The black pudding is treated as a summoned creature and has the extraplanar subtype. The black pudding's split ability works normally, but all puddings derived from the summoned one disappear when the spell ends.

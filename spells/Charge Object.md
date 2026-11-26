@@ -15,7 +15,7 @@ casting-time: "10 minutes"
 range: "Touch"
 target: "Object touched"
 duration: "Permanent"
-saving-throw: "None; see text"
+defense: "None; see text"
 spell-resistance: "No"
 book: "Occult Adventures"
 based-on:
@@ -36,7 +36,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: Object touched
 - **Duration**: Permanent
-- **Saving Throw**: None; see text
+- **Defense**: None; see text
 - **Spell Resistance**: No
 
 You charge an item with minor psychic energy. The item can be detected by the _[[rangoric-srd/spells/Detect Psychic Significance|detect psychic significance]]_ spell. If you wish, you can imprint the item with your ownership history. Spells such as _[[rangoric-srd/spells/Object Reading (Spell)|object reading]]_ and uses of the [[rangoric-srd/skills/Appraise#Psychometry|psychometry]] occult skill unlock can reveal any information about yourself you impart into the object, including your name, alignment, profession, and a summary of your experiences with the item. You can't impart false information into the object, but you can omit any details you'd prefer not to divulge. If the target object is already psychically charged, you can add more information to it, but you can't use _charge object_ to erase existing psychic information.

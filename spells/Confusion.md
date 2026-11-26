@@ -24,7 +24,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 targets: "All creatures in a 15-ft. radius burst"
 duration: "1 round/level"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Confusion|Confusion (3.5)]]"
@@ -44,7 +44,7 @@ _Enchantment (Compulsion) \[Mind-Affecting\]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Targets**: All creatures in a 15-ft. radius burst
 - **Duration**: 1 round/level
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 This spell causes the targets to become [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]], making them unable to independently determine what they will do.

@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 effect: "20-ft.-radius emanation centered on a creature, object or point in space"
 duration: "1 round/level (D)"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Ultimate Magic"
 based-on:
@@ -36,7 +36,7 @@ _Abjuration_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Effect**: 20-ft.-radius emanation centered on a creature, object or point in space
 - **Duration**: 1 round/level (D)
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
-You create a magical emanation that interferes with all figments and glamers within it, giving creatures a +4 bonus on saving throws to recognize them as illusions. The emanation negates concealment less than total concealment within the area. Perception checks to notice creatures or objects within the area gain a bonus equal to half your caster level (maximum +10). The spell is stationary if cast on a point in space. It is mobile if centered on a creature or object, though creatures or attended objects can negate the spell with a saving throw or spell resistance.
+You create a magical emanation that interferes with all figments and glamers within it, giving creatures a +4 bonus on defenses to recognize them as illusions. The emanation negates concealment less than total concealment within the area. Perception checks to notice creatures or objects within the area gain a bonus equal to half your caster level (maximum +10). The spell is stationary if cast on a point in space. It is mobile if centered on a creature or object, though creatures or attended objects can negate the spell if it misses their Will, or with spell resistance.

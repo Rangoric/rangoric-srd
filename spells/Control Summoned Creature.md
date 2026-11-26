@@ -22,7 +22,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One summoned creature"
 duration: "1 round/level"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -43,7 +43,7 @@ _Enchantment (Compulsion) \[Mind-affecting\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One summoned creature
 - **Duration**: 1 round/level
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 You seize control of a summoned creature by disrupting the bond between it and the caster who summoned it. If the creature fails its save, you may command it as if you had summoned it. The original caster can attempt to regain control of the creature as a standard action by making an opposed Mysticism check against you. When your spell ends, control reverts to the original summoner. If the summoning spell ends before this spell ends, the remaining duration of this spell is lost.

@@ -14,7 +14,7 @@ casting-time: "1 minute"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One willing creature"
 duration: "1 minute/level (D) or until discharged"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Advanced Class Guide"
 based-on:
@@ -35,7 +35,7 @@ _Evocation_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One willing creature
 - **Duration**: 1 minute/level (D) or until discharged
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 The target gains an extra action that becomes available when a condition which you dictate is met. At the time of casting, you dictate the condition, and the target specifies a readied action that occurs when triggered by this condition.

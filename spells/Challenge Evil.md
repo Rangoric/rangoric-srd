@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One evil creature"
 duration: "1 minute/level (D)"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Advanced Player's Guide"
 based-on:
@@ -35,7 +35,7 @@ _Enchantment (Compulsion) \[Mind-affecting\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One evil creature
 - **Duration**: 1 minute/level (D)
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 You challenge an evil creature to bring the fight to you, or suffer the consequences. You gain a +2 sacred bonus on all melee attacks against the subject of the spell. At the end of its turn, if the target has not made at least one attack on you, it becomes sickened. If you move away from the target, the spell ends.

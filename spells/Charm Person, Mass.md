@@ -20,7 +20,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One or more humanoid creatures, no two of which can be more than 30 ft. apart"
 duration: "Caster level hour(s)"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Ultimate Intrigue"
 based-on:
@@ -41,7 +41,7 @@ _Enchantment (Charm) \[MindAffecting\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One or more humanoid creatures, no two of which can be more than 30 ft. apart
 - **Duration**: Caster level hour(s)
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 This spell functions like [[rangoric-srd/spells/Charm Person|charm person]], except that mass _[[rangoric-srd/spells/Charm Person|charm person]]_ affects a number of humanoid creatures whose combined Hit Dice don't exceed twice your level. If there are more potential targets than you can affect, you choose them one at a time until you reach the limit of HD you can affect. If you cast mass _[[rangoric-srd/spells/Charm Person|charm person]]_ on only one creature, you ignore the spell's HD limit.

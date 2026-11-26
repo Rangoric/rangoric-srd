@@ -14,7 +14,7 @@ casting-time: "1 round"
 range: "Touch"
 effect: "A hole in space up to 10 ft. in diameter"
 duration: "Concentration"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Spells & Magic"
 based-on:
@@ -35,7 +35,7 @@ _Transmutation \[Teleportation\]_
 - **Range**: Touch
 - **Effect**: A hole in space up to 10 ft. in diameter
 - **Duration**: Concentration
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 Bards have discovered that every physical location contains a unique spiritual resonance. One can learn this resonance and later attune it to a second resonance in a different location by means of this spell, creating a point in space that conjoins the two. In order to learn a location’s resonance he must make a [[rangoric-srd/skills/Perception|Perception]] check (base DC 20, higher or lower at the GM’s discretion depending on its clarity.) Not all places have such noticeable resonance, but those that do can be memorized and returned to by means of this spell.

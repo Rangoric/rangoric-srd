@@ -16,7 +16,7 @@ casting-time: "10 minutes; see text"
 range: "2 miles"
 area: "2-mile-radius circle, centered on you; see text"
 duration: "4d12 hours; see text"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Control Weather|Control Weather (3.5)]]"
@@ -36,7 +36,7 @@ _Transmutation_
 - **Range**: 2 miles
 - **Area**: 2-mile-radius circle, centered on you; see text
 - **Duration**: 4d12 hours; see text
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You change the weather in the local area. It takes 10 minutes to cast the spell and an additional 10 minutes for the effects to manifest. You can call forth weather appropriate to the climate and season of the area you are in.

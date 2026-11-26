@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 targets: "You plus one willing creature per 3 levels, no two of which can be more than 30 ft. part"
 duration: "1 minute/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Advanced Player's Guide"
 based-on:
@@ -35,7 +35,7 @@ _Divination_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Targets**: You plus one willing creature per 3 levels, no two of which can be more than 30 ft. part
 - **Duration**: 1 minute/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 Choose a single [[rangoric-srd/feats/Feats Overview#^teamwork-feats|teamwork feat]] that you possess. You forge a link with your allies, allowing them to gain the benefits of the chosen feat even if they do not have it themselves. You must be a part of the group qualifying for a given bonus for your allies to gain the benefits. For example, two of your allies flanking an orc would gain no benefit from your [[rangoric-srd/feats/Outflank|Outflank]] feat, but an ally flanking the orc with you would. Your allies' positioning and actions must still meet the prerequisites listed in the teamwork feat for either of you to receive the listed bonus.

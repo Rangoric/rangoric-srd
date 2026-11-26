@@ -19,7 +19,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "10 minutes/level"
-saving-throw: "Fortitude negates (harmless)"
+defense: "Fortitude (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Advanced Player's Guide"
 based-on:
@@ -40,7 +40,7 @@ _Abjuration \[Chaotic, Evil, Good, Lawful\]_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: 10 minutes/level
-- **Saving Throw**: Fortitude negates (harmless)
+- **Defense**: Fortitude (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 You grant the touched creature limited protection from magical effects that inflict damage based on the target creature's alignment, such as _[[rangoric-srd/spells/Holy Smite|holy smite]]_, _[[rangoric-srd/spells/Order’s Wrath|order's wrath]]_, a paladin's smite evil attack, or an _[[rangoric-srd/magic-items/weapon-abilities/Unholy|unholy]]_ weapon. Choose one alignment type: chaos, evil, good, or law. The subject takes 5 less points of damage from effects that specifically harm creatures of that alignment. The value of the protection increases to 10 points at 7th level and 15 points at 11th level. The spell protects the recipient's equipment as well.

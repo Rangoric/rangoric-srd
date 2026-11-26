@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 area: "Several living creatures within a 40-ft.-radius burst"
 duration: "Instantaneous"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Circle of Death|Circle of Death (3.5)]]"
@@ -36,7 +36,7 @@ _Necromancy \[Death\]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Area**: Several living creatures within a 40-ft.-radius burst
 - **Duration**: Instantaneous
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
 A circle of death snuffs out the life force of living creatures, killing them instantly.

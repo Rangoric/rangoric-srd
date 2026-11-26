@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "Three or more rays"
 duration: "3 rounds"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 book: "Advanced Player's Guide"
 based-on:
@@ -36,7 +36,7 @@ _Evocation \[Fire\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: Three or more rays
 - **Duration**: 3 rounds
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 You blast several enemies with beams of fire. You may fire three rays, plus one additional ray for every four levels beyond 11th (to a maximum of five rays at 19th level). Each ray requires a ranged touch attack to hit and deals 4d6 points of fire damage. The rays may be fired at the same or different targets, but all rays must be aimed at targets within 30 feet of each other and fired simultaneously.

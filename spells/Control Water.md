@@ -19,7 +19,7 @@ casting-time: "1 standard action"
 range: "Long (400 ft. + 40 ft./level)"
 area: "Water in a volume of 10 ft./level by 10 ft./level by 2 ft./level (S)"
 duration: "10 min./level (D)"
-saving-throw: "None; see text"
+defense: "None; see text"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Control Water|Control Water (3.5)]]"
@@ -39,12 +39,12 @@ _Transmutation \[Water\]_
 - **Range**: Long (400 ft. + 40 ft./level)
 - **Area**: Water in a volume of 10 ft./level by 10 ft./level by 2 ft./level (S)
 - **Duration**: 10 min./level (D)
-- **Saving Throw**: None; see text
+- **Defense**: None; see text
 - **Spell Resistance**: No
 
 Depending on the version you choose, the control water spell raises or lowers water.
 
-_Lower Water_: This causes water or similar liquid to reduce its depth by as much as 2 feet per caster level (to a minimum depth of 1 inch). The water is lowered within a squarish depression whose sides are up to caster level x 10 feet long. In extremely large and deep bodies of water, such as a deep ocean, the spell creates a whirlpool that sweeps ships and similar craft downward, putting them at risk and rendering them unable to leave by normal movement for the duration of the spell. When cast on water elementals and other water-based creatures, this spell acts as a slow spell (Will negates). The spell has no effect on other creatures.
+_Lower Water_: This causes water or similar liquid to reduce its depth by as much as 2 feet per caster level (to a minimum depth of 1 inch). The water is lowered within a squarish depression whose sides are up to caster level x 10 feet long. In extremely large and deep bodies of water, such as a deep ocean, the spell creates a whirlpool that sweeps ships and similar craft downward, putting them at risk and rendering them unable to leave by normal movement for the duration of the spell. When cast on water elementals and other water-based creatures, this spell acts as a slow spell (vs Will). The spell has no effect on other creatures.
 
 _Raise Water_: This causes water or similar liquid to rise in height, just as the lower water version causes it to lower. Boats raised in this way slide down the sides of the hump that the spell creates. If the area affected by the spell includes riverbanks, a beach, or other land nearby, the water can spill over onto dry land.
 

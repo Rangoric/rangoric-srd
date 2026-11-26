@@ -21,7 +21,7 @@ casting-time: "1 standard action"
 range: "Long (400 ft. + 40 ft./level)"
 target: "One creature/level, no two of which can be more than 30 ft. apart"
 duration: "Concentration + 3 rounds"
-saving-throw: "Will disbelief"
+defense: "Will disbelief"
 spell-resistance: "Yes"
 book: "Ultimate Intrigue"
 based-on:
@@ -42,7 +42,7 @@ _Illusion (Phantasm) \[MindAffecting\]_
 - **Range**: Long (400 ft. + 40 ft./level)
 - **Target**: One creature/level, no two of which can be more than 30 ft. apart
 - **Duration**: Concentration + 3 rounds
-- **Saving Throw**: Will disbelief
+- **Defense**: Will disbelief
 - **Spell Resistance**: Yes
 
 This spell functions as [[rangoric-srd/spells/Audiovisual Hallucination|audiovisual hallucination]], except that the phantasm you create can also include olfactory, tactile, and thermal effects.
