@@ -17,8 +17,8 @@ tags: [rangoric, rangoric/trait]
 
 You are made of tougher stuff than the average person, but you are highly suggestible.
 
-**Benefit:** You gain a +1 bonus on Fortitude saves.
+**Benefit:** You gain a +1 bonus on Fortitude Defense.
 
-**Drawback:** You take a -1 penalty on Will saves.
+**Drawback:** You take a -1 penalty on Will Defense.
 
 **Roleplaying Ideas:** Characters with this trait might be gruff and place extreme value on overcoming physical obstacles, or conversely, their weakness against magical enchantments might leave them fascinated and fearful of such things.

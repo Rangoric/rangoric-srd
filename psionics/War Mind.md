@@ -69,7 +69,7 @@ Power Points/Day: A war mind can manifest powers. His ability to manifest powers
 
 Powers Known: A war mind chooses his powers from the [[rangoric-srd/psionics/Psychic Warrior Power List|psychic warrior power list]]. At 1st level, a war mind knows one psychic warrior power of your choice. At every even-numbered level higher than 1st, he learns one new power. A war mind can manifest any power that has a power point cost equal to or lower than his manifester level. The total number of powers a war mind can manifest per day is limited only by his daily power points.  
 A war mind simply knows his powers; they are ingrained in his mind. He does not need to prepare them (in the way that some spellcasters prepare their spells), though he must get a good night’s sleep each day to regain all his spent power points.  
-The Difficulty Class for saving throws against war mind powers is 10 + the power’s level + the war mind’s Wisdom modifier.
+The attack bonus of war mind powers is the power’s level + the war mind’s Wisdom modifier.
 
 Maximum Power Level Known: A war mind gains the ability to learn one 1st-level power when he takes his first level in the prestige class. As he attains each even-numbered level beyond 2nd, a war mind gains the ability to master more complex powers.  
 To learn or manifest a power, a war mind must have a Wisdom score of at least 10 + the power’s level.

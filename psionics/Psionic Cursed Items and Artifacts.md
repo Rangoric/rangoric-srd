@@ -23,7 +23,7 @@ Backfire: The imbedded psionic effect of the cursed item targets the user instea
 
 Exhausting: A cursed item of this sort resembles a normal psionic item with a power that can be freely activated, but it instead drains the user of power points whenever he activates its power.
 
-Subversive: A cursed item of this sort appears identical to a standard psionic item. However, it holds an inner malice for the wearer, whose saving throws take a constant -2 penalty. The owner isn’t instantly aware of this penalty but may become aware after a while, when it becomes clear that he fails saves that others make with the same result on the saving throw.
+Subversive: A cursed item of this sort appears identical to a standard psionic item. However, it holds an inner malice for the wearer, whose defenses take a constant -2 penalty. The owner isn’t instantly aware of this penalty but may become aware after a while, when it becomes clear that attacks hit him that miss others with the same defense.
 
 ###### Specific Cursed Item
 

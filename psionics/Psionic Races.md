@@ -27,7 +27,7 @@ tags: [rangoric, rangoric/overview]
 
 - Naturally Psionic: Dromites gain 1 bonus power point at 1st level. This benefit does not grant them the ability to manifest powers unless they gain that ability through another source, such as levels in a psionic class.
 
-- Psi-Like Ability: 1/day-[[rangoric-srd/powers/Energy Ray|energy ray]]. A dromite always deals the kind of energy damage that its chitin has resistance to (for example, a dromite who has resistance to cold 5 deals cold damage with its energy ray). Manifester level is equal to 1/2 Hit Dice (minimum 1st). The save DC is Charisma-based.
+- Psi-Like Ability: 1/day-[[rangoric-srd/powers/Energy Ray|energy ray]]. A dromite always deals the kind of energy damage that its chitin has resistance to (for example, a dromite who has resistance to cold 5 deals cold damage with its energy ray). Manifester level is equal to 1/2 Hit Dice (minimum 1st). The attack bonus is Charisma-based.
 
 - Scent: Its antennae give a dromite the scent ability. A dromite can detect opponents by scent within 30 feet. If the opponent is upwind, the range increases to 60 feet; if downwind, it drops to 15 feet. Strong scents, such as smoke or rotting garbage, can be detected at twice the ranges noted above. Overpowering scents, such as skunk musk or troglodyte stench, can be detected at triple normal range. When a dromite detects a scent, the exact location of the source is not revealed - only its presence somewhere within range. The dromite can take a move action to note the direction of the scent. Whenever the dromite comes within 5 feet of the source, the dromite pinpoints the source’s location.
 
@@ -55,7 +55,7 @@ The psionic duergar is the psionic version of the [[rangoric-srd/races/Duergar|d
 
 - Immunity to paralysis, phantasms, and poison.
 
-- \+2 racial bonus on saves against spells and spell-like effects.
+- \+2 racial bonus on defenses against spells and spell-like effects.
 
 - Stability: Duergar are exceptionally stable on their feet. A duergar receives a +4 bonus to its [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|CMD]] against [[rangoric-srd/combat/Combat Maneuvers#Bull Rush|bull rush]] and [[rangoric-srd/combat/Combat Maneuvers#Trip|trip]] when standing on the ground (but not when climbing, flying, riding or otherwise not standing firmly on the ground).
 
@@ -96,7 +96,7 @@ The psionic duergar is the psionic version of the [[rangoric-srd/races/Duergar|d
 
 - Naturally Psionic: Elans gain 2 bonus power points at 1st level. This benefit does not grant them the ability to manifest powers unless they gain that ability through another source, such as levels in a psionic class.
 
-- Resistance (Su): Elans can use psionic energy to increase their resistance to various forms of attack. As an immediate action, an elan can spend 1 power point to gain a +4 racial bonus on saving throws until the beginning of her next action.
+- Resistance (Su): Elans can use psionic energy to increase their resistance to various forms of attack. As an immediate action, an elan can spend 1 power point to gain a +4 racial bonus on defenses until the beginning of her next action.
 
 ^elan-resistance
 
@@ -124,7 +124,7 @@ The psionic duergar is the psionic version of the [[rangoric-srd/races/Duergar|d
 
 - Low-Light Vision: A half-giant can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination. He retains the ability to distinguish color and detail under these conditions.
 
-- Fire Acclimated: Half-giants have a +2 racial bonus on saving throws against all fire spells and effects. Half-giants are accustomed to enduring high temperatures.
+- Fire Acclimated: Half-giants have a +2 racial bonus on defenses against all fire spells and effects. Half-giants are accustomed to enduring high temperatures.
 
 ^half-giant-fire-acclimated
 
@@ -136,7 +136,7 @@ The psionic duergar is the psionic version of the [[rangoric-srd/races/Duergar|d
 
 - Naturally Psionic: Half-giants gain 2 bonus power points at 1st level. This benefit does not grant them the ability to manifest powers unless they gain that ability through another source, such as levels in a psionic class.
 
-- Psi-Like Ability: 1/day-[[rangoric-srd/powers/Stomp|stomp]]. Manifester level is equal to 1/2 Hit Dice (minimum 1st). The save DC is Charisma-based.
+- Psi-Like Ability: 1/day-[[rangoric-srd/powers/Stomp|stomp]]. Manifester level is equal to 1/2 Hit Dice (minimum 1st). The attack bonus is Charisma-based.
 
 - Automatic Language: Common. Bonus Languages: Draconic, Giant, Gnoll, Ignan.
 
@@ -150,7 +150,7 @@ The psionic duergar is the psionic version of the [[rangoric-srd/races/Duergar|d
 
 - Naturally Psionic: Maenads gain 2 bonus power points at 1st level. This benefit does not grant them the ability to manifest powers unless they gain that ability through another source, such as levels in a psionic class.
 
-- Psi-Like Ability: 1/day-[[rangoric-srd/powers/Energy Ray|energy ray]]. A maenad can deal only sonic damage with this ability. It is accompanied by a tremendous scream of rage. Manifester level is equal to 1/2 Hit Dice (minimum 1st). The save DC is Charisma-based.
+- Psi-Like Ability: 1/day-[[rangoric-srd/powers/Energy Ray|energy ray]]. A maenad can deal only sonic damage with this ability. It is accompanied by a tremendous scream of rage. Manifester level is equal to 1/2 Hit Dice (minimum 1st). The attack bonus is Charisma-based.
 
 - Outburst (Ex): Once per day, for up to 4 rounds, a maenad can subjugate her mentality to gain a boost of raw physical power. When she does so, she takes a -2 penalty to Intelligence and Wisdom but gains a +2 bonus to Strength.
 
@@ -170,7 +170,7 @@ The psionic duergar is the psionic version of the [[rangoric-srd/races/Duergar|d
 
 - Darkvision out to 60 feet.
 
-- \+1 racial bonus on saving throws against powers, spells, and spell-like effects. Xephs have an innate resistance to psionics and magic.
+- \+1 racial bonus on defenses against powers, spells, and spell-like effects. Xephs have an innate resistance to psionics and magic.
 
 - Naturally Psionic: Xephs gain 1 bonus power point at 1st level. This benefit does not grant them the ability to manifest powers unless they gain that ability through another source, such as levels in a psionic class.
 

@@ -72,7 +72,7 @@ Powers Known: A psychic warrior begins play knowing one psychic warrior power of
 Choose the powers known from the [[rangoric-srd/psionics/Psychic Warrior Power List|psychic warrior power list]]. (Exception: The feats [[rangoric-srd/feats/Expanded Knowledge|Expanded Knowledge]] and [[rangoric-srd/feats/Epic Expanded Knowledge|Epic Expanded Knowledge]] do allow a psychic warrior to learn powers from the lists of other classes.) A psychic warrior can manifest any power that has a power point cost equal to or lower than his manifester level.  
 The total number of powers a psychic warrior can manifest in a day is limited only by his daily power points.  
 A psychic warrior simply knows his powers; they are ingrained in his mind. He does not need to prepare them (in the way that some spellcasters prepare their spells), though he must get a good night’s sleep each day to regain all his spent power points.  
-The Difficulty Class for saving throws against psychic warrior powers is 10 + the power’s level + the psychic warrior’s Wisdom modifier.
+The attack bonus of psychic warrior powers is the power’s level + the psychic warrior’s Wisdom modifier.
 
 Maximum Power Level Known: A psychic warrior begins play with the ability to learn 1st-level powers. As he attains higher levels, he may gain the ability to master more complex powers.  
 To learn or manifest a power, a psychic warrior must have a Wisdom score of at least 10 + the power’s level.

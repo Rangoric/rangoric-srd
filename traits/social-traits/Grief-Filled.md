@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/trait]
 
 **Category**: [[rangoric-srd/traits/Character Traits#Social Traits|social trait]].
 
-You are no stranger to loss and intense emotions. You gain a +2 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] on all saving throws against emotion spells and effects.
+You are no stranger to loss and intense emotions. You gain a +2 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] on all defenses against emotion spells and effects.

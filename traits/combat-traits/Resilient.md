@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/trait]
 
 **Category**: [[rangoric-srd/traits/Character Traits#Combat Traits|combat trait]].
 
-Growing up in a poor neighborhood or in the unforgiving wilds often forced you to subsist on food and water from doubtful sources. You've built up your mettle as a result, and gain a +1 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] on Fortitude saves.
+Growing up in a poor neighborhood or in the unforgiving wilds often forced you to subsist on food and water from doubtful sources. You've built up your mettle as a result, and gain a +1 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] on Fortitude Defense.

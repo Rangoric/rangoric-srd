@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/trait]
 
 **Category**: [[rangoric-srd/traits/Character Traits#Faith Traits|faith trait]].
 
-You are resistant to the magic of other faiths. You gain a +2 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] on all Will saves you attempt against divine spells. This bonus does not apply against divine spells cast by a caster who worships the same deity you do.
+You are resistant to the magic of other faiths. You gain a +2 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] on Will Defense against divine spells. This bonus does not apply against divine spells cast by a caster who worships the same deity you do.

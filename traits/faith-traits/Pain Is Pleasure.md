@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/trait]
 
 **Category**: [[rangoric-srd/traits/Character Traits#Religion Traits|religion trait]].
 
-You have discovered a hint of the dark truths that lay hidden within blood and flesh. You gain a +1 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] on Fortitude and Will saves whenever you have fewer than half your maximum number of hit points.
+You have discovered a hint of the dark truths that lay hidden within blood and flesh. You gain a +1 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] on Fortitude and Will Defense whenever you have fewer than half your maximum number of hit points.

@@ -45,21 +45,21 @@ Use activation doesn’t mean that if you use an item, you automatically know wh
 
 Powers stored in use-activated items are usually not augmented, because the manifester level of such an item is assumed to be the minimum possible to manifest the stored power.
 
-##### Saving Throws Against Psionic Item Powers
+##### Attack Bonus of Psionic Item Powers
 
-Psionic items produce psionic powers. The DC of a saving throw against a power from a psionic item is always 10 + the level of the power or effect + the ability modifier of the minimum ability score needed to manifest that level of power.
+Psionic items produce psionic powers. The attack bonus of a power from a psionic item is always the level of the power or effect + the ability modifier of the minimum ability score needed to manifest that level of power.
 
-Another way to figure the same number is to multiply the power’s level by 1-1/2 and add 10 to the result.
+Another way to figure the same number is to multiply the power’s level by 1-1/2.
 
-Psicrowns are an exception to the rule. Treat the saving throw as if the wielder manifested the power, including manifester level and all modifiers to save DC.
+Psicrowns are an exception to the rule. Treat the attack as if the wielder manifested the power, including manifester level and all modifiers to its attack bonus.
 
-Some psionic items take advantage of the fact that powers can be augmented to increase their saving throw DCs. These items are special and have their cost to create and market price calculated using the manifester’s level instead of the power’s level.
+Some psionic items take advantage of the fact that powers can be augmented to increase their attack bonuses. These items are special and have their cost to create and market price calculated using the manifester’s level instead of the power’s level.
 
-Most item descriptions give saving throw DCs for various effects, particularly when the effect has no exact power equivalent (making its level otherwise difficult to quickly determine).
+Most item descriptions give attack bonuses for various effects, particularly when the effect has no exact power equivalent (making its level otherwise difficult to quickly determine).
 
 ##### Damaging Psionic Items
 
-A psionic item doesn’t need to make a saving throw unless it is unattended, it is specifically targeted by the effect, or its wielder rolls a natural 1 on his saving throw. Psionic items should always get a save against powers or spells that might deal damage to them - even against attacks from which a mundane item would normally get no chance to save. All types of psionic item saves - Fortitude, Reflex, and Will - are calculated the same way: The item’s saving throw bonus equals 2 + 1/2 its manifester level (round down). The only exceptions to this rule are intelligent psionic items, which make Will saves based on their own Wisdom scores.
+A psionic item isn’t attacked unless it is unattended, it is specifically targeted by the effect, or the attack beats its wielder’s defense by 10 or more. Psionic items always have a defense against powers or spells that might deal damage to them - even against attacks against which a mundane item would normally have no defense. All of a psionic item’s defenses - Fortitude, Reflex, and Will - are calculated the same way: The item’s defense equals 12 + 1/2 its manifester level (round down). The only exceptions to this rule are intelligent psionic items, whose Will Defense is based on their own Wisdom scores.
 
 A psionic item, unless otherwise noted, takes damage as a normal item of the same type. A damaged psionic item continues to function, but if it is destroyed, all its psionic power is lost.
 
@@ -117,7 +117,7 @@ Items with full descriptions have their abilities detailed, and each of the foll
 
 Aura: Most of the time, a [[rangoric-srd/powers/Detect Psionics|detect psionics]] power will reveal the discipline associated with a psionic item and the strength of the aura an item emits. This information (when applicable) is given at the beginning of the item’s notational entry in the form of a phrase. See the detect psionics power description for more information.
 
-Manifester Level: The next entry in the summary indicates the level of the creator (or the manifester level of the powers placed within the item, if this level is lower than the actual level of the creator). The manifester level provides the item’s saving throw bonus, as well as range and other level-dependent aspects of the powers of the item (if variable).
+Manifester Level: The next entry in the summary indicates the level of the creator (or the manifester level of the powers placed within the item, if this level is lower than the actual level of the creator). The manifester level provides the item’s defenses, as well as range and other level-dependent aspects of the powers of the item (if variable).
 
 It also determines the level that must be contended with should the item come under the effect of a [[rangoric-srd/powers/Dispel Psionics|dispel psionics]] power or a similar situation. This information is given in the form “ML x,” where “ML” is an abbreviation for manifester level and “x” is an ordinal number representing the manifester level itself.
 

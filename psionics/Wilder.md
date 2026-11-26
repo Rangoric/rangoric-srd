@@ -71,7 +71,7 @@ Powers Known: A wilder begins play knowing one wilder power of your choice. At e
 Choose the powers known from the [[rangoric-srd/psionics/Psion and Wilder Power List|wilder power list]]. (Exception: The feats [[rangoric-srd/feats/Expanded Knowledge|Expanded Knowledge]] and [[rangoric-srd/feats/Epic Expanded Knowledge|Epic Expanded Knowledge]] do allow a wilder to learn powers from the lists of other classes.) A wilder can manifest any power that has a power point cost equal to or lower than her manifester level.  
 The total number of powers a wilder can manifest in a day is limited only by her daily power points.  
 A wilder simply knows her powers; they are ingrained in her mind. She does not need to prepare them (in the way that some spellcasters prepare their spells), though she must get a good night’s sleep each day to regain all her spent power points.  
-The Difficulty Class for saving throws against wilder powers is 10 + the power’s level + the wilder’s Charisma modifier.
+The attack bonus of wilder powers is the power’s level + the wilder’s Charisma modifier.
 
 Maximum Power Level Known: A wilder begins play with the ability to learn 1st-level powers. As she attains higher levels, she may gain the ability to master more complex powers.  
 To learn or manifest a power, a wilder must have a Charisma score of at least 10 + the power’s level.
@@ -89,9 +89,9 @@ A wilder who is overcome by psychic enervation is [[rangoric-srd/rules/Special A
 
 Elude Touch (Ex): Starting at 2nd level, a wilder’s intuition supersedes her intellect, alerting her to danger from touch attacks (including rays). She gains a bonus to Armor Class against all touch attacks equal to her Charisma bonus; however, her touch AC can never exceed her Armor Class against normal attacks.
 
-Surging Euphoria (Ex): Starting at 4th level, when a wilder uses her wild surge ability, she gains a +1 morale bonus on attack rolls, damage rolls, and saving throws for a number of rounds equal to the intensity of her wild surge.  
+Surging Euphoria (Ex): Starting at 4th level, when a wilder uses her wild surge ability, she gains a +1 morale bonus on attack rolls, damage rolls, and defenses for a number of rounds equal to the intensity of her wild surge.  
 If a wilder is overcome by psychic enervation following her wild surge, she does not gain the morale bonus for this use of her wild surge ability.  
-At 12th level, the morale bonus on a wilder’s attack rolls, damage rolls, and saving throws increases to +2. At 20th level, the bonus increases to +3.
+At 12th level, the morale bonus on a wilder’s attack rolls, damage rolls, and defenses increases to +2. At 20th level, the bonus increases to +3.
 
 Volatile Mind (Ex): A wilder’s temperamental mind is hard to encompass with the discipline of telepathy. When any telepathy power is manifested on a wilder of 5th level or higher, the manifester of the power must pay 1 power point more than he otherwise would have spent.  
 The extra cost is not a natural part of that power’s cost. It does not augment the power; it is simply a wasted power point. The wilder’s volatile mind can force the manifester of the telepathy power to exceed the normal power point limit of 1 point per manifester level. If the extra cost raises the telepathy power’s cost to more points than the manifester has remaining in his reserve, the power simply fails, and the manifester exhausts the rest of his power points.  

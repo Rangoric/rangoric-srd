@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/trait]
 
 **Category**: [[rangoric-srd/traits/Character Traits#Religion Traits|religion trait]].
 
-Your faith in magic allows you to reflexively use the energy of any spell effect on you to save you from death. As long as you are under the effects of any spell, you gain a +2 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] on saving throws against death effects. If you are reduced to negative hit points while you are under the effects of any spell, you automatically confirm stabilization checks to stop bleeding.
+Your faith in magic allows you to reflexively use the energy of any spell effect on you to save you from death. As long as you are under the effects of any spell, you gain a +2 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] on defenses against death effects. If you are reduced to negative hit points while you are under the effects of any spell, you automatically confirm stabilization checks to stop bleeding.

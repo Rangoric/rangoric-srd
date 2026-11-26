@@ -89,9 +89,9 @@ Most psionic monsters have some number of psi-like abilities. These are very sim
 
 Psi-like abilities do not work in a null psionics field and are subject to power resistance if the power or spell the ability duplicates would be subject to power resistance. A psi-like ability usually has a limit on how often it can be used. A psi-like ability that can be used at will has no use limit. Using a psi-like ability is a standard action unless noted otherwise, and doing so while threatened provokes attacks of opportunity. It is possible to make a Concentration check to use a psi-like ability defensively and avoid provoking attacks of opportunity, just as when using a power or casting a spell. A psi-like ability can be interrupted just as a spell can be. Psi-like abilities cannot be used to counterspell, nor can they be counterspelled.
 
-All creatures with psi-like abilities are assigned a manifester level, which indicates how difficult it is to dispel their psi-like effects and determines all level-dependent variables (such as range or duration) the abilities might have. When a creature uses a psi-like ability, the power is manifested as if the creature had spent a number of power points equal to its manifester level, which may augment the power to improve its damage or save DC. However, the creature does not actually spend power points for its psi-like abilities, even if it has a power point reserve due to racial abilities, class levels, or some other psionic ability.
+All creatures with psi-like abilities are assigned a manifester level, which indicates how difficult it is to dispel their psi-like effects and determines all level-dependent variables (such as range or duration) the abilities might have. When a creature uses a psi-like ability, the power is manifested as if the creature had spent a number of power points equal to its manifester level, which may augment the power to improve its damage or attack bonus. However, the creature does not actually spend power points for its psi-like abilities, even if it has a power point reserve due to racial abilities, class levels, or some other psionic ability.
 
-The DC of a saving throw (if applicable) against a creature’s psi-like ability is 10 + the level of the power or spell the ability duplicates + the creature’s Cha modifier. Remember to check the power’s Augment entry to see if the creature’s manifester level (and thus the effective power point expenditure) increases the DC of the saving throw. Changes to the effect’s save DC, damage, and so on are noted in the psi-like ability entry.
+The attack bonus (if applicable) of a creature’s psi-like ability is the level of the power or spell the ability duplicates + the creature’s Cha modifier. Remember to check the power’s Augment entry to see if the creature’s manifester level (and thus the effective power point expenditure) increases its attack bonus. Changes to the effect’s attack bonus, damage, and so on are noted in the psi-like ability entry.
 
 ###### Psionic Focus
 
@@ -120,7 +120,7 @@ Only the portions of the monster entry that are specifically changed by the addi
 ##### Reading Psionic Creature Entries
 
 Creatures with Psi-Like Abilities  
-Each of a creature’s psi-like abilities has a manifester level. Each ability that allows a saving throw also gives a save DC in parentheses following the power name.
+Each of a creature’s psi-like abilities has a manifester level. Each ability that attacks a defense also gives its attack bonus in parentheses following the power name.
 
 Powers that have increased effects due to augmentation include information about the effect. An asterisk indicates that the power has already been augmented by the creature’s innate ability.
 

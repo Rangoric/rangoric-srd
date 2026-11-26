@@ -31,7 +31,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/powers/Dissipating Touch\|Dissipating Touch (A):]]             | Touch deals 1d6 damage.                                                                          |
 | [[rangoric-srd/powers/Distract\|Distract:]]                                   | Subject gets -4 on Perception, Investigation, and Sense Motive checks.                           |
 | [[rangoric-srd/powers/Elfsight\|Elfsight:]]                                   | Gain low-light vision, +2 bonus on Investigation and Perception checks, and notice secret doors. |
-| [[rangoric-srd/powers/Empty Mind\|Empty Mind:]]                               | Gain +2 on Will saves until your next action.                                                    |
+| [[rangoric-srd/powers/Empty Mind\|Empty Mind:]]                               | Gain +2 on Will Defense until your next action.                                                  |
 | [[rangoric-srd/powers/Expansion\|Expansion (A):]]                             | Become one size category larger.                                                                 |
 | [[rangoric-srd/powers/Float\|Float:]]                                         | Buoy yourself in water or other liquid.                                                          |
 | [[rangoric-srd/powers/Force Screen\|Force Screen (A):]]                       | Invisible disc provides +4 shield bonus to AC.                                                   |
@@ -41,7 +41,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/powers/Metaphysical Claw\|Metaphysical Claw (A):]]             | Your natural weapon gains +1 bonus.                                                              |
 | [[rangoric-srd/powers/Metaphysical Weapon\|Metaphysical Weapon (A):]]         | Weapon gains +1 bonus.                                                                           |
 | [[rangoric-srd/powers/My Light\|My Light (A):]]                               | Your eyes emit 20-ft. cone of light.                                                             |
-| [[rangoric-srd/powers/Precognition, Defensive\|Precognition, Defensive (A):]] | Gain +1 insight bonus to AC and saving throws.                                                   |
+| [[rangoric-srd/powers/Precognition, Defensive\|Precognition, Defensive (A):]] | Gain +1 insight bonus to AC and other defenses.                                                  |
 | [[rangoric-srd/powers/Precognition, Offensive\|Precognition, Offensive (A):]] | Gain +1 insight bonus on your attack rolls.                                                      |
 | [[rangoric-srd/powers/Prescience, Offensive\|Prescience, Offensive (A):]]     | Gain +2 insight bonus on your damage rolls.                                                      |
 | [[rangoric-srd/powers/Prevenom\|Prevenom (A):]]                               | Your claws gain a poison coating.                                                                |
@@ -82,24 +82,24 @@ tags: [rangoric, rangoric/overview]
 
 ##### 3rd-Level Psychic Warrior Powers
 
-| Power Name                                                                                  | Brief Description                                            |
-| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| [[rangoric-srd/powers/Claws of the Vampire\|Claws of the Vampire:]]                         | Heal half of your claw’s base damage.                        |
-| [[rangoric-srd/powers/Concealing Amorpha, Greater\|Concealing Amorpha, Greater:]]           | Quasi-real membrane grants you total concealment.            |
-| [[rangoric-srd/powers/Danger Sense\|Danger Sense:]]                                         | Gain +4 bonus against traps.                                 |
-| [[rangoric-srd/powers/Dimension Slide\|Dimension Slide (A):]]                               | Teleports you very short distance.                           |
-| [[rangoric-srd/powers/Duodimensional Claw\|Duodimensional Claw:]]                           | Increases your natural weapon’s threat range.                |
-| [[rangoric-srd/powers/Ectoplasmic Form\|Ectoplasmic Form:]]                                 | You gain benefits of being insubstantial and can fly slowly. |
-| [[rangoric-srd/powers/Empathic Feedback\|Empathic Feedback (A):]]                           | When you are hit in melee, your attacker takes damage.       |
-| [[rangoric-srd/powers/Empathic Transfer, Hostile\|Empathic Transfer, Hostile (A):]]         | Your touch transfers your hurt to another.                   |
-| [[rangoric-srd/powers/Escape Detection\|Escape Detection:]]                                 | You become difficult to detect with clairsentience powers.   |
-| [[rangoric-srd/powers/Evade Burst\|Evade Burst (A):]]                                       | You take no damage from a burst on a successful Reflex save. |
-| [[rangoric-srd/powers/Exhalation of the Black Dragon\|Exhalation of the Black Dragon (A):]] | Your acid breath deals 3d6 damage to a close target.         |
-| [[rangoric-srd/powers/Graft Weapon\|Graft Weapon:]]                                         | Your hand is replaced seamlessly by your weapon.             |
-| [[rangoric-srd/powers/Keen Edge, Psionic\|Keen Edge, Psionic:]]                             | Doubles normal weapon’s threat range.                        |
-| [[rangoric-srd/powers/Mental Barrier\|Mental Barrier (A):]]                                 | Gain +4 deflection bonus to AC until your next action.       |
-| [[rangoric-srd/powers/Ubiquitous Vision\|Ubiquitous Vision:]]                               | You have all-around vision.                                  |
-| [[rangoric-srd/powers/Vampiric Blade\|Vampiric Blade:]]                                     | You heal half of your base weapon damage.                    |
+| Power Name                                                                                  | Brief Description                                                |
+| ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| [[rangoric-srd/powers/Claws of the Vampire\|Claws of the Vampire:]]                         | Heal half of your claw’s base damage.                            |
+| [[rangoric-srd/powers/Concealing Amorpha, Greater\|Concealing Amorpha, Greater:]]           | Quasi-real membrane grants you total concealment.                |
+| [[rangoric-srd/powers/Danger Sense\|Danger Sense:]]                                         | Gain +4 bonus against traps.                                     |
+| [[rangoric-srd/powers/Dimension Slide\|Dimension Slide (A):]]                               | Teleports you very short distance.                               |
+| [[rangoric-srd/powers/Duodimensional Claw\|Duodimensional Claw:]]                           | Increases your natural weapon’s threat range.                    |
+| [[rangoric-srd/powers/Ectoplasmic Form\|Ectoplasmic Form:]]                                 | You gain benefits of being insubstantial and can fly slowly.     |
+| [[rangoric-srd/powers/Empathic Feedback\|Empathic Feedback (A):]]                           | When you are hit in melee, your attacker takes damage.           |
+| [[rangoric-srd/powers/Empathic Transfer, Hostile\|Empathic Transfer, Hostile (A):]]         | Your touch transfers your hurt to another.                       |
+| [[rangoric-srd/powers/Escape Detection\|Escape Detection:]]                                 | You become difficult to detect with clairsentience powers.       |
+| [[rangoric-srd/powers/Evade Burst\|Evade Burst (A):]]                                       | You take no damage from a burst that misses your Reflex Defense. |
+| [[rangoric-srd/powers/Exhalation of the Black Dragon\|Exhalation of the Black Dragon (A):]] | Your acid breath deals 3d6 damage to a close target.             |
+| [[rangoric-srd/powers/Graft Weapon\|Graft Weapon:]]                                         | Your hand is replaced seamlessly by your weapon.                 |
+| [[rangoric-srd/powers/Keen Edge, Psionic\|Keen Edge, Psionic:]]                             | Doubles normal weapon’s threat range.                            |
+| [[rangoric-srd/powers/Mental Barrier\|Mental Barrier (A):]]                                 | Gain +4 deflection bonus to AC until your next action.           |
+| [[rangoric-srd/powers/Ubiquitous Vision\|Ubiquitous Vision:]]                               | You have all-around vision.                                      |
+| [[rangoric-srd/powers/Vampiric Blade\|Vampiric Blade:]]                                     | You heal half of your base weapon damage.                        |
 
 ##### 4th-Level Psychic Warrior Powers
 

@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/trait]
 
 **Category**: [[rangoric-srd/traits/Character Traits#Religion Traits|religion trait]].
 
-Your faith encourages you to indulge a variety of perverse hungers, leading you to shrug at even some of the darkest taboos. You gain a +2 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] on Fortitude saves against diseases and can gain sustenance from rotting flesh with no negative side effects.
+Your faith encourages you to indulge a variety of perverse hungers, leading you to shrug at even some of the darkest taboos. You gain a +2 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] on Fortitude Defense against diseases and can gain sustenance from rotting flesh with no negative side effects.

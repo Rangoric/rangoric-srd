@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/trait]
 
 **Category**: [[rangoric-srd/traits/Character Traits#Drawbacks|drawback]].
 
-You're addicted to power. You take a –2 penalty on Will saving throws against charm and compulsion effects if the creature creating the effect promises wealth or power.
+You're addicted to power. You take a –2 penalty on Will Defense against charm and compulsion effects if the creature creating the effect promises wealth or power.

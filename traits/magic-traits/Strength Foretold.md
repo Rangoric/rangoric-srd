@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/trait]
 
 **Category**: [[rangoric-srd/traits/Character Traits#Magic Traits|magic trait]].
 
-You can channel extra power into one of your bloodline spells. Once per day as a free action, you gain a +1 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] to the DC of the saving throw of one of your bonus [[rangoric-srd/classes/Sorcerer#^sorcerer-bloodline|bloodline]] spells.
+You can channel extra power into one of your bloodline spells. Once per day as a free action, you gain a +1 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] to the attack bonus of one of your bonus [[rangoric-srd/classes/Sorcerer#^sorcerer-bloodline|bloodline]] spells.

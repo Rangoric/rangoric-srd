@@ -18,4 +18,4 @@ Your ranger traps are especially difficult to notice and avoid.
 
 **Prerequisites**: [[rangoric-srd/class-options/archetypes/ranger/Trapper (Archetype)#^trapper-trap|Trap]] class feature, [[rangoric-srd/classes/Ranger|ranger]] level 5th.
 
-**Benefit**: Add +1 to the Difficulty Class on all [[rangoric-srd/skills/Investigation|Investigation]] and [[rangoric-srd/skills/Engineering|Engineering]] skill checks to find or disable the traps you make with your trap class feature. Add a +1 to the Difficulty Class on all saving throws against the effects of the trap you make with your trap class feature.
+**Benefit**: Add +1 to the Difficulty Class on all [[rangoric-srd/skills/Investigation|Investigation]] and [[rangoric-srd/skills/Engineering|Engineering]] skill checks to find or disable the traps you make with your trap class feature. Add +1 to the attack bonus of the trap you make with your trap class feature.

@@ -19,7 +19,7 @@ You are cautious in combat, even a bit cowardly, and you take more care to defen
 
 **Benefit:** You gain an additional +1 dodge bonus to Armor Class whenever you [[rangoric-srd/combat/Combat Actions#^fighting-defensively-as-a-standard-action|fight defensively]] or take the [[rangoric-srd/combat/Combat Actions|total defense]] action.
 
-**Drawback:** You take a -1 penalty on saving throws made to resist fear effects.
+**Drawback:** You take a -1 penalty on defenses against fear effects.
 
 **Special:** You cannot select this trait if you have immunity to fear or fear effects. If you later gain immunity to fear, you lose the benefit of this trait.
 
