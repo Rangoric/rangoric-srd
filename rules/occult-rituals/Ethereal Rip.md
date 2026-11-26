@@ -24,7 +24,7 @@ _Evocation; [[rangoric-srd/rules/occult-rituals/Occult Rituals|occult ritual]] l
 - **Range**: touch
 - **Effect**: a rip between the Material Plane and the Ethereal Plane
 - **Duration**: 1 hour/character level of the primary caster and instantaneous; see text
-- **Saving Throw**: Reflex negates
+- **Defense**: Reflex
 - **Spell Resistance**: no
 - **Backlash**: The caster takes 4d6 points of damage.
 - **Failure**: The caster gains the [[rangoric-srd/rules/Special Abilities and Conditions#^incorporeal|incorporeal]] subtype and is [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]] for 24 hours.
@@ -33,4 +33,4 @@ When the ritual is complete, the focus dagger can cut a momentary rift between t
 
 At the ritual’s start, the caster must find a place where the features of the two planes are closely aligned (the GM determines the exact spot). After an incantation that weakens the border between the planes there, she coats the whole blade of the focus dagger with the material components. The ritual then succeeds and the backlash occurs, but its true effect can be delayed: as long as the caster doesn’t leave her space or let go of the dagger, she can cut into the weakened border as a standard action that doesn’t provoke attacks of opportunity, within 1 hour per character level of completing the ritual.
 
-The rip tries to pull every creature and unattended object within 30 feet of the caster’s space that weighs less than 200 pounds into the Ethereal Plane (if the rip is made on the Material Plane) or the Material Plane (if it is made on the Ethereal Plane). A creature that succeeds at a Reflex save avoids the pull. Creatures and objects pulled through land in the corresponding space on the other plane. The caster chooses whether she is pulled through or stays where she cast the ritual.
+The rip tries to pull every creature and unattended object within 30 feet of the caster’s space that weighs less than 200 pounds into the Ethereal Plane (if the rip is made on the Material Plane) or the Material Plane (if it is made on the Ethereal Plane). The rip attacks each creature’s Reflex, and a creature it misses avoids the pull. Creatures and objects pulled through land in the corresponding space on the other plane. The caster chooses whether she is pulled through or stays where she cast the ritual.

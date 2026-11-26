@@ -27,11 +27,11 @@ _Enchantment (Compulsion) \[Mind-Affecting\]; [[rangoric-srd/rules/occult-ritual
 - **Range**: medium (100 ft. + 10 ft./character level of the primary caster)
 - **Target**: one Colossal creature (minimum 20 HD)
 - **Duration**: instantaneous; see text
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: no
 - **Backlash**: All casters are [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhausted]].
 - **Failure**: The primary caster becomes the sole focus of the target, which attacks the primary caster to the best of its ability for the next hour.
 
 Many versions of this ritual exist, all meant to lull the rage of a gigantic, rampaging creature. The target is usually a unique creature that only a specific kind of Performance check affects (the GM decides which).
 
-When the ritual is complete, the target, which must be a Colossal creature with at least 20 HD, attempts a Will save. On a failure, it stops what it is doing and retreats away from civilization for at least 1 year. If it succeeds, the ritual fails and its failure effect occurs at once. A creature with the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^kaiju|kaiju subtype]] can’t use its [[rangoric-srd/monsters/abilities/Recovery|recovery]] ability to attempt a new save against this ritual. If an affected creature is attacked and damaged, the ritual’s effect ends at once and its failure effect occurs.
+When the ritual is complete, it attacks the Will of the target, which must be a Colossal creature with at least 20 HD. On a hit, the target stops what it is doing and retreats away from civilization for at least 1 year. On a miss, the ritual fails and its failure effect occurs at once. A creature with the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^kaiju|kaiju subtype]] can’t use its [[rangoric-srd/monsters/abilities/Recovery|recovery]] ability to make this ritual attack it again. If an affected creature is attacked and damaged, the ritual’s effect ends at once and its failure effect occurs.

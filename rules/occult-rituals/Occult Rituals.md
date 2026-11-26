@@ -43,7 +43,7 @@ A ritual is hard to disrupt. Casting a ritual doesn’t provoke [[rangoric-srd/c
 
 ### Success and Failure
 
-If more than half the skill checks for an occult ritual succeed, the ritual succeeds: the primary caster (and the secondary casters, if the ritual says so) experiences the ritual’s backlash, and then the ritual’s effect occurs. The DC of a saving throw against a ritual’s effects is 10 + the ritual level + the primary caster’s Intelligence, Wisdom or Charisma bonus (whichever is highest). ^ritual-save-dc
+If more than half the skill checks for an occult ritual succeed, the ritual succeeds: the primary caster (and the secondary casters, if the ritual says so) experiences the ritual’s backlash, and then the ritual’s effect occurs. The attack bonus of a ritual’s effects is the ritual level + the primary caster’s Intelligence, Wisdom or Charisma bonus (whichever is highest). ^ritual-attack-bonus
 
 If the casters fail half of the skill checks a ritual requires (rounded down), the ritual ends, the casters experience its backlash, and its failure consequences occur, as given in each ritual’s description. ^ritual-failure
 
@@ -69,9 +69,9 @@ Creating a new occult ritual has five steps.
 
 **Step 2, School**: Choose the school that best suits the ritual’s effect, as for any spell. If you’re unsure, compare its effects with existing spells; if several schools could fit, use the most relevant one.
 
-**Step 3, Ritual Level**: Occult rituals are always the equivalent of at least 4th-level spells; compare the ritual with other spells to set its level. The level sets how many skill checks the ritual requires (one per level), their base DC (28 + the ritual level), the save DC of its effect, and indirectly its range and duration. Any saving throw DC of the ritual (including the DC to remove a temporary negative level from its backlash or failure) is 10 + the ritual level + the primary caster’s Intelligence, Wisdom or Charisma bonus (whichever is highest).
+**Step 3, Ritual Level**: Occult rituals are always the equivalent of at least 4th-level spells; compare the ritual with other spells to set its level. The level sets how many skill checks the ritual requires (one per level), their base DC (28 + the ritual level), the attack bonus of its effect, and indirectly its range and duration. Any attack bonus of the ritual (including the daily attack of a temporary negative level from its backlash or failure) is the ritual level + the primary caster’s Intelligence, Wisdom or Charisma bonus (whichever is highest).
 
-The spell a ritual is based on usually guides its range, targets, area, effect, duration, saving throw and spell resistance. If you’re unsure, or the effect is new, use the benchmarks below. Departing from the school’s or base spell’s benchmarks should change the ritual’s skill check DCs, and can change its casting time, as Table: Modifying Occult Rituals shows.
+The spell a ritual is based on usually guides its range, targets, area, effect, duration, defense and spell resistance. If you’re unsure, or the effect is new, use the benchmarks below. Departing from the school’s or base spell’s benchmarks should change the ritual’s skill check DCs, and can change its casting time, as Table: Modifying Occult Rituals shows.
 
 **Step 4, Skills**: Choose skills connected to the ritual’s concept or effect. Arcana and Theology are obvious choices, but other skills can make a ritual more interesting and let secondary casters take a more active part. Always require checks with two or more skills. A check to work the ritual’s magic itself is a [[rangoric-srd/skills/Mysticism|Mysticism]] check.
 
@@ -116,14 +116,14 @@ The spell a ritual is based on usually guides its range, targets, area, effect, 
 
 **Occult Ritual Benchmarks by School** ^ritual-benchmarks
 
-- **Abjuration**: Range close; Target one or more creatures, no two of which can be more than 30 ft. apart; Duration minutes; Saving Throw Will negates; SR yes.
-- **Conjuration**: Range close; Target one creature; Duration hours (instantaneous for the teleportation subschool); Saving Throw Will negates (harmless); SR yes (harmless).
-- **Divination**: Range long; Target personal; Duration minutes; Saving Throw none; SR no.
-- **Enchantment**: Range close; Target one living creature; Duration minutes; Saving Throw Will negates; SR yes.
-- **Evocation**: Range medium; Area 5-ft.-wide bolt or 20-ft.-radius burst; Duration instantaneous; Saving Throw Reflex half; SR yes.
-- **Illusion**: Range touch; Target one living creature or 20 cu. ft. of matter; Duration minutes; Saving Throw Will disbelief; SR no.
-- **Necromancy**: Range close; Target one or more creatures or corpses; Duration instantaneous; Saving Throw none; SR no.
-- **Transmutation**: Range medium; Target one creature or 20 cu. ft. of matter; Duration rounds; Saving Throw Fortitude half (or harmless); SR yes.
+- **Abjuration**: Range close; Target one or more creatures, no two of which can be more than 30 ft. apart; Duration minutes; Defense Will; SR yes.
+- **Conjuration**: Range close; Target one creature; Duration hours (instantaneous for the teleportation subschool); Defense Will (harmless); SR yes (harmless).
+- **Divination**: Range long; Target personal; Duration minutes; Defense none; SR no.
+- **Enchantment**: Range close; Target one living creature; Duration minutes; Defense Will; SR yes.
+- **Evocation**: Range medium; Area 5-ft.-wide bolt or 20-ft.-radius burst; Duration instantaneous; Defense Reflex half; SR yes.
+- **Illusion**: Range touch; Target one living creature or 20 cu. ft. of matter; Duration minutes; Defense Will disbelief; SR no.
+- **Necromancy**: Range close; Target one or more creatures or corpses; Duration instantaneous; Defense none; SR no.
+- **Transmutation**: Range medium; Target one creature or 20 cu. ft. of matter; Duration rounds; Defense Fortitude half (or harmless); SR yes.
 
 ## Occult Rituals
 

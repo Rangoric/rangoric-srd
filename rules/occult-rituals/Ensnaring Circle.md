@@ -24,7 +24,7 @@ _Abjuration \[variable; see text\]; [[rangoric-srd/rules/occult-rituals/Occult R
 - **Range**: 10 ft.
 - **Effect**: a 20-foot-radius magic circle
 - **Duration**: 1 day/character level of the primary caster
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: no; see text
 - **Backlash**: The primary caster takes 2d6 points of damage.
 - **Failure**: The casters believe their work succeeded, but when they try to use the circle, nothing happens.

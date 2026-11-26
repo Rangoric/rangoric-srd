@@ -3,8 +3,8 @@ srd-type: "affliction"
 section: "Rules"
 book: "Core Rulebook"
 affliction-type: "curse"
-save: "Will DC 20 negates, no save to avoid effects"
-save-dc: 20
+attack: "+10 vs Will to curse, no defense against its effects"
+attack-bonus: 10
 frequency: "1/hour"
 effect: "target must reroll any roll decided by the GM and take the worse result"
 based-on:
@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/affliction]
 A curse; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]].
 
 - **Type**: curse
-- **Save**: Will DC 20 negates, no save to avoid effects
+- **Attack**: +10 vs Will to curse, no defense against its effects
 - **Frequency**: 1/hour
 - **Effect**: target must reroll any roll decided by the GM and take the worse result

@@ -24,10 +24,10 @@ _Transmutation; [[rangoric-srd/rules/occult-rituals/Occult Rituals|occult ritual
 - **Range**: touch
 - **Target**: primary and secondary casters
 - **Duration**: 1 day (D)
-- **Saving Throw**: Fortitude negates (harmless)
+- **Defense**: Fortitude (harmless)
 - **Spell Resistance**: yes (harmless)
 - **Backlash**: All casters take 2d6 points of damage.
-- **Failure**: All casters gain a temporary [[rangoric-srd/rules/Special Abilities and Conditions#^negative-levels|negative level]] (DC = 16 + the primary caster’s Charisma bonus to remove after the first day), and the primary caster is afflicted with a more potent version of [[rangoric-srd/rules/afflictions/Mindfire|mindfire]] (DC 17; 2 saves; 1d4 Int; 1/day).
+- **Failure**: All casters gain a temporary [[rangoric-srd/rules/Special Abilities and Conditions#^negative-levels|negative level]] (attacking again each day after the first at +6 + the primary caster’s Charisma bonus), and the primary caster is afflicted with a more potent version of [[rangoric-srd/rules/afflictions/Mindfire|mindfire]] (+7; 2 misses; 1d4 Int; 1/day).
 
 Through a ceremony of meditation and recitation, the casters become psychically attuned. Casters who don’t have levels in an occult class ([[rangoric-srd/classes/Kineticist|kineticist]], [[rangoric-srd/classes/Medium (Class)|medium]], [[rangoric-srd/classes/Mesmerist|mesmerist]], [[rangoric-srd/classes/Occultist|occultist]], [[rangoric-srd/classes/Psychic (Class)|psychic]] or [[rangoric-srd/classes/Spiritualist (Class)|spiritualist]]) gain these benefits:
 

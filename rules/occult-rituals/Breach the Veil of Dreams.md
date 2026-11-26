@@ -24,7 +24,7 @@ _Conjuration (Creation); [[rangoric-srd/rules/occult-rituals/Occult Rituals|occu
 - **Skill Checks**: [[rangoric-srd/skills/Arcana|Arcana]] DC 32, 3 successes; [[rangoric-srd/skills/Theology|Theology]] DC 32, 3 successes
 - **Range**: touch
 - **Duration**: instantaneous; see text
-- **Saving Throw**: none
+- **Defense**: none
 - **Spell Resistance**: no
 - **Backlash**: The primary caster takes 2d6 points of damage and becomes [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhausted]].
 - **Failure**: An animate dream appears at the site of the ritual and attacks the casters. At the GM’s discretion, the animate dream may have the [[rangoric-srd/monsters/simple-templates/Advanced Creature|advanced template]], be accompanied by other animate dreams, or both.

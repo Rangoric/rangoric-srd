@@ -31,4 +31,4 @@ This ritual is cast while building a campsite: the casters secure a 30-foot peri
 
 - **Alarm**: If a living creature that wasn’t in the area when the ritual was completed enters it, an audible alarm sounds for 2 rounds, loud enough to wake any creature resting in the campsite.
 - **Defensive Ring**: The outermost 5 feet of the area become rough, counting as [[rangoric-srd/equipment/gear/Caltrops|caltrops]] for any creature that wasn’t within the area when the ritual was cast.
-- **Shelter**: Creatures within the area gain the benefits of _[[rangoric-srd/spells/Endure Elements|endure elements]]_ (caster level = the primary caster’s character level) and a +4 circumstance bonus on saving throws against weather effects.
+- **Shelter**: Creatures within the area gain the benefits of _[[rangoric-srd/spells/Endure Elements|endure elements]]_ (caster level = the primary caster’s character level) and a +4 circumstance bonus on defenses against weather effects.

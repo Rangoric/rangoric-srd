@@ -4,11 +4,11 @@ section: "Rules"
 book: ["Core Rulebook", "Ultimate Equipment"]
 affliction-type: "poison"
 delivery: "inhaled"
-save: "Fortitude DC 15"
-save-dc: 15
+attack: "+5 vs Fortitude"
+attack-bonus: 5
 frequency: "1/round for 4 rounds"
 effect: "1 Cha drain/1d2 Cha"
-cure: "1 save"
+cure: "1 miss"
 price: "1,000 gp"
 based-on:
   - "[[path srd 3.5/afflictions/Ungol Dust|Ungol Dust (PF1)]]"
@@ -25,8 +25,8 @@ tags: [rangoric, rangoric/affliction]
 A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]].
 
 - **Type**: poison, inhaled
-- **Save**: Fortitude DC 15
+- **Attack**: +5 vs Fortitude
 - **Frequency**: 1/round for 4 rounds
 - **Effect**: 1 Cha [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]]/1d2 Cha damage
-- **Cure**: 1 save
+- **Cure**: 1 miss
 - **Price**: 1,000 gp

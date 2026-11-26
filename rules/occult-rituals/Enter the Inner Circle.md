@@ -24,7 +24,7 @@ _Divination; [[rangoric-srd/rules/occult-rituals/Occult Rituals|occult ritual]] 
 - **Range**: touch
 - **Target**: creature touched
 - **Duration**: instantaneous
-- **Saving Throw**: none
+- **Defense**: none
 - **Spell Resistance**: no
 - **Backlash**: All casters are [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhausted]].
 - **Failure**: The primary caster, and any secondary caster who failed a skill check, is [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]], [[rangoric-srd/rules/Special Abilities and Conditions#^deafened|deafened]] and unable to speak. This is a [[rangoric-srd/rules/Special Abilities and Conditions#Curses|curse effect]] that can be removed with _[[rangoric-srd/spells/Remove Curse|remove curse]]_ and similar effects.

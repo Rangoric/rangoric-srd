@@ -4,11 +4,11 @@ section: "Rules"
 book: "Bestiary 3"
 affliction-type: "poison"
 delivery: "injury"
-save: "Fortitude DC 17"
-save-dc: 17
+attack: "+7 vs Fortitude"
+attack-bonus: 7
 frequency: "1/minute for 6 minutes"
 effect: "paralysis for 1 minute"
-cure: "1 save"
+cure: "1 miss"
 based-on:
   - "[[path srd 3.5/monsters/Spider Eater|Spider Eater (PF1)]]"
 status: draft
@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/affliction]
 A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the [[rangoric-srd/monsters/Spider Eater|spider eater]].
 
 - **Type**: poison, injury
-- **Save**: Fortitude DC 17
+- **Attack**: +7 vs Fortitude
 - **Frequency**: 1/minute for 6 minutes
 - **Effect**: [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]] for 1 minute
-- **Cure**: 1 save
+- **Cure**: 1 miss

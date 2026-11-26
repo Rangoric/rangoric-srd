@@ -24,9 +24,9 @@ _Abjuration; [[rangoric-srd/rules/occult-rituals/Occult Rituals|occult ritual]] 
 - **Range**: touch
 - **Target**: one creature
 - **Duration**: 1 day/character level of the caster
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: yes (harmless)
 - **Backlash**: The caster takes 2d6 points of damage and is [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhausted]].
 - **Failure**: The caster gains 1 permanent [[rangoric-srd/rules/Special Abilities and Conditions#^negative-levels|negative level]].
 
-The caster begins this incantation at dusk or dawn, in a windowless room with the intended target (if it isn’t the caster), surrounded by mithral mirrors pointed inward. As the ritual concludes, the caster blows out the lantern with the diamond dust, leaving her and the target in darkness, and must touch the target before leaving the room. For a number of days equal to the caster’s character level, the target gains a +4 bonus on saving throws against psychic spells and abilities, but can’t use psychic abilities, cast psychic spells or use [[rangoric-srd/spells/Magic Overview#^psychic-magic|psychic magic]], and can’t engage or be engaged in a [[rangoric-srd/rules/Psychic Duels|psychic duel]].
+The caster begins this incantation at dusk or dawn, in a windowless room with the intended target (if it isn’t the caster), surrounded by mithral mirrors pointed inward. As the ritual concludes, the caster blows out the lantern with the diamond dust, leaving her and the target in darkness, and must touch the target before leaving the room. For a number of days equal to the caster’s character level, the target gains a +4 bonus on all defenses against psychic spells and abilities, but can’t use psychic abilities, cast psychic spells or use [[rangoric-srd/spells/Magic Overview#^psychic-magic|psychic magic]], and can’t engage or be engaged in a [[rangoric-srd/rules/Psychic Duels|psychic duel]].
