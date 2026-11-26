@@ -10,7 +10,7 @@ level:
   - "Occ 5"
   - "Sor/Wiz 7"
   - "Wit 7"
-saving-throw: "Will negates"
+defense: "Will"
 based-on:
   - "[[fantasy srd 3.5/spells/Symbol of Stunning|Symbol of Stunning (3.5)]]"
 status: draft
@@ -24,7 +24,7 @@ tags: [rangoric, rangoric/spell]
 _Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Clr 7, Occ 5, Sor/Wiz 7, Wit 7
-- **Saving Throw**: Will negates
+- **Defense**: Will
 
 This spell functions like [[rangoric-srd/spells/Symbol of Death|symbol of death]], except that all creatures within 60 feet of a symbol of stunning instead become [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1d6 rounds.
 

@@ -23,7 +23,7 @@ casting-time: "1 round"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "1d3 summoned creatures"
 duration: "1 round/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Ultimate Magic"
 based-on:
@@ -44,7 +44,7 @@ _Conjuration (Summoning)_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Effect**: 1d3 summoned creatures
 - **Duration**: 1 round/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 This spell functions as _[[rangoric-srd/spells/Summon Monster I|summon monster I]]_, except you can summon 1d3 Tiny or smaller animals, such as bats, lizards, monkeys, rats, ravens, toads, or weasels. The summoned animals must all be the same type of creature. As with animals summoned with _[[rangoric-srd/spells/Summon Monster I|summon monster I]]_, you may apply one alignment-appropriate template to these animals.

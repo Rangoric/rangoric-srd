@@ -10,7 +10,7 @@ level:
   - "Occ 4"
   - "Sor/Wiz 6"
   - "Wit 6"
-saving-throw: "Will negates"
+defense: "Will"
 based-on:
   - "[[fantasy srd 3.5/spells/Symbol of Fear|Symbol of Fear (3.5)]]"
 status: draft
@@ -24,7 +24,7 @@ tags: [rangoric, rangoric/spell]
 _Necromancy \[Fear, Mind-Affecting\]_
 
 - **Level**: Clr 6, Occ 4, Sor/Wiz 6, Wit 6
-- **Saving Throw**: Will negates
+- **Defense**: Will
 
 This spell functions like [[rangoric-srd/spells/Symbol of Death|symbol of death]], except that all creatures within 60 feet of the symbol of fear instead become [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] for 1 round per caster level.
 

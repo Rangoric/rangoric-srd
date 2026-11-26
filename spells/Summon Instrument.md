@@ -13,7 +13,7 @@ casting-time: "1 round"
 range: "0 ft."
 effect: "One summoned handheld musical instrument"
 duration: "1 min./level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Summon Instrument|Summon Instrument (3.5)]]"
@@ -33,7 +33,7 @@ _Conjuration (Summoning)_
 - **Range**: 0 ft.
 - **Effect**: One summoned handheld musical instrument
 - **Duration**: 1 min./level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 This spell summons one handheld musical instrument of your choice. This instrument appears in your hands or at your feet (your choice). The instrument is typical for its type. Only one instrument appears per casting, and it will play only for you. You can’t summon an instrument too large to be held in two hands.

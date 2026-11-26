@@ -18,7 +18,7 @@ casting-time: "10 minutes"
 range: "0 ft.; see text"
 effect: "One symbol"
 duration: "See text"
-saving-throw: "Will partial (harmless)"
+defense: "Will partial (harmless)"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -39,7 +39,7 @@ _Illusion (Figment) \[Death\]_
 - **Range**: 0 ft.; see text
 - **Effect**: One symbol
 - **Duration**: See text
-- **Saving Throw**: Will partial (harmless)
+- **Defense**: Will partial (harmless)
 - **Spell Resistance**: Yes
 
 This spell functions as _[[rangoric-srd/spells/Symbol of Death|symbol of death]]_, except it instead creates one illusory duplicate of each creature within 60 feet of the symbol. These duplicates function as _[[rangoric-srd/spells/Mirror Image|mirror image]]_, moving with the original creatures and mimicking their movements, sounds, and actions exactly. If an illusory double is destroyed, a new one appears on the creature's turn. The images last for as long as a creature remains within 60 feet of the symbol, and for 1 round/level thereafter. Once triggered, the symbol remains active for 10 minutes per caster level.

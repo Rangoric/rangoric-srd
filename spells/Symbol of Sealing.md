@@ -17,7 +17,7 @@ casting-time: "S 10 minutes"
 range: "0 ft.; see text"
 effect: "One symbol"
 duration: "Permanent"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Ultimate Magic"
 based-on:
@@ -38,7 +38,7 @@ _Abjuration \[Force\]_
 - **Range**: 0 ft.; see text
 - **Effect**: One symbol
 - **Duration**: Permanent
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 This spell allows you to scribe a potent rune of power upon or above a door or other opening measuring no more than 20 square feet/level in size. When the casting is completed, the symbol immediately triggers, glowing visibly and sealing the door or opening with an invisible barrier of force equivalent to a _[[rangoric-srd/spells/Wall of Force|wall of force]]_. Destroying the symbol ends the effect, though destroying it once the symbol has been activated requires destroying the _[[rangoric-srd/spells/Wall of Force|wall of force]]_ first. Once triggered, the wall remains for 10 minutes per caster level.

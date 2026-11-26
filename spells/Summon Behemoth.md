@@ -11,7 +11,7 @@ casting-time: "1 standard action"
 range: "75 ft."
 effect: "Summoned creature"
 duration: "20 rounds (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 to-develop: "648,000 gp; 13 days; 25,920 XP. Seed: summon (DC 14). Factors: summon CR 21 creature (DC +38), 1-action casting time (+20 DC)."
 based-on:
@@ -31,7 +31,7 @@ Casting Time: 1 standard action
 Range: 75 ft.  
 Effect: Summoned creature  
 Duration: 20 rounds (D)  
-Saving Throw: None  
+Defense: None  
 Spell Resistance: No  
 To Develop: 648,000 gp; 13 days; 25,920 XP. Seed: summon (DC 14). Factors: summon CR 21 creature (DC +38), 1-action casting time (+20 DC).
 

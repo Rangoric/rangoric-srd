@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "One melee weapon"
 duration: "1 round/level (see text)"
-saving-throw: "Fortitude negates (object)"
+defense: "Fortitude (object)"
 spell-resistance: "Yes (object)"
 book: "Ultimate Combat"
 based-on:
@@ -37,7 +37,7 @@ _Transmutation \[Fire\]_
 - **Range**: Touch
 - **Target**: One melee weapon
 - **Duration**: 1 round/level (see text)
-- **Saving Throw**: Fortitude negates (object)
+- **Defense**: Fortitude (object)
 - **Spell Resistance**: Yes (object)
 
 The target weapon ignites into flame that does not hurt the weapon or the wielder, but damages those hit by the weapon. When the weapon's wielder hits with this weapon, it deals an additional 1d4 points of fire damage. This damage is not multiplied in the case of a critical hit. This effect immediately ends if the weapon is submerged in water. This effect does not stack with the _[[rangoric-srd/magic-items/weapon-abilities/Flaming|flaming]]_ or _[[rangoric-srd/magic-items/weapon-abilities/Flaming Burst|flaming burst]]_ weapon special ability or any other effect that grants the weapon extra fire damage. It does not function on weapons with the _[[rangoric-srd/magic-items/weapon-abilities/Frost|frost]]_ or _[[rangoric-srd/magic-items/weapon-abilities/Icy Burst|icy burst]]_ weapon special ability or any other effect that grants a weapon extra cold damage.

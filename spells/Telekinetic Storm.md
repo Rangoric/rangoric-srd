@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "40 ft."
 area: "40-ft.-radius burst centered on you"
 duration: "Instantaneous"
-saving-throw: "Fortitude partial (see text)"
+defense: "Fortitude partial (see text)"
 spell-resistance: "Yes"
 book: "Occult Adventures"
 based-on:
@@ -34,7 +34,7 @@ _Evocation \[Force\]_
 - **Range**: 40 ft.
 - **Area**: 40-ft.-radius burst centered on you
 - **Duration**: Instantaneous
-- **Saving Throw**: Fortitude partial (see text)
+- **Defense**: Fortitude partial (see text)
 - **Spell Resistance**: Yes
 
-You generate a storm of telekinetic energy that emanates from you, ripping through the spell's area of effect with devastating force. Any creature caught in the spell's radius takes 1d6 points of damage per caster level (maximum 20d6) and is dazed and stunned for 1 round. A successful Fortitude save reduces the damage by half and negates the dazed and stunned effects. The _telekinetic storm_ damages objects in the area. If the damage caused to an interposing barrier shatters or breaks through it, the _telekinetic storm_ continues beyond the barrier if the spell's area permits; otherwise, it stops at the barrier just as any other spell effect does. You can designate any number of creatures to be immune to the spell's effect, though you must be capable of targeting those creatures.
+You generate a storm of telekinetic energy that emanates from you, ripping through the spell's area of effect with devastating force. Any creature caught in the spell's radius takes 1d6 points of damage per caster level (maximum 20d6) and is dazed and stunned for 1 round. The storm attacks Fortitude, and a miss reduces the damage by half and negates the dazed and stunned effects. The _telekinetic storm_ damages objects in the area. If the damage caused to an interposing barrier shatters or breaks through it, the _telekinetic storm_ continues beyond the barrier if the spell's area permits; otherwise, it stops at the barrier just as any other spell effect does. You can designate any number of creatures to be immune to the spell's effect, though you must be capable of targeting those creatures.

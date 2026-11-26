@@ -20,7 +20,7 @@ casting-time: "1 standard action"
 range: "30 ft."
 targets: "One creature/level, no two of which can be more than 30 ft. apart."
 duration: "12 hours (D)"
-saving-throw: "No"
+defense: "No"
 spell-resistance: "Yes"
 book: "Faeries"
 based-on:
@@ -41,7 +41,7 @@ _Transmutation_
 - **Range**: 30 ft.
 - **Targets**: One creature/level, no two of which can be more than 30 ft. apart.
 - **Duration**: 12 hours (D)
-- **Saving Throw**: No
+- **Defense**: No
 - **Spell Resistance**: Yes
 
 Created by fey spellcasters seeking a way around the physical laws of the mortal worlds, this spell enables the caster and one creature per level to travel at twice their swiftest normal speed while moving across land. The change in speed has no impact on combat movement and cannot be augmented by a _[[rangoric-srd/spells/Haste|haste]]_ or _[[rangoric-srd/spells/Slow|slow]]_ spell.

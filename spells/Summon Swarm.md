@@ -21,7 +21,7 @@ casting-time: "1 round"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "One swarm of bats, rats, or spiders"
 duration: "Concentration + 2 rounds"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Summon Swarm|Summon Swarm (3.5)]]"
@@ -41,7 +41,7 @@ _Conjuration (Summoning)_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Effect**: One swarm of bats, rats, or spiders
 - **Duration**: Concentration + 2 rounds
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You summon a swarm of bats, rats, or spiders (your choice), which attacks all other creatures within its area. (You may summon the swarm so that it shares the area of other creatures.) If no living creatures are within its area, the swarm attacks or pursues the nearest creature as best it can. The caster has no control over its target or direction of travel.

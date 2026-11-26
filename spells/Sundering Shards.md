@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Melee weapon touched"
 duration: "1 hour/level or until discharged"
-saving-throw: "Reflex negates (see text)"
+defense: "Reflex (see text)"
 spell-resistance: "Yes"
 book: "Advanced Class Guide"
 based-on:
@@ -36,7 +36,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: Melee weapon touched
 - **Duration**: 1 hour/level or until discharged
-- **Saving Throw**: Reflex negates (see text)
+- **Defense**: Reflex (see text)
 - **Spell Resistance**: Yes
 
-You channel power into a melee weapon. If the weapon's wielder destroys an item with a successful sunder combat maneuver, she can release the extra power in the weapon, shattering the sundered item into jagged shards that deal 1d6 points of piercing and slashing damage to the creature that was wearing, carrying, or wielding the now-shattered item. Any creature (other than the wielder of the weapon targeted by this spell) adjacent to that creature must succeed at a Reflex saving throw or take 1d6 points of piercing and slashing damage from flying shards. The shards also count as whatever special materials the sundered item was made of (for example, the shards from a shattered cold iron weapon are cold iron). Once the weapon's extra power is unleashed, the spell is discharged.
+You channel power into a melee weapon. If the weapon's wielder destroys an item with a successful sunder combat maneuver, she can release the extra power in the weapon, shattering the sundered item into jagged shards that deal 1d6 points of piercing and slashing damage to the creature that was wearing, carrying, or wielding the now-shattered item. Any creature (other than the wielder of the weapon targeted by this spell) adjacent to that creature is attacked against Reflex, and on a hit takes 1d6 points of piercing and slashing damage from flying shards. The shards also count as whatever special materials the sundered item was made of (for example, the shards from a shattered cold iron weapon are cold iron). Once the weapon's extra power is unleashed, the spell is discharged.

@@ -12,7 +12,7 @@ casting-time: "1 round"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "One summoned creature"
 duration: "1 round/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Ultimate Magic"
 based-on:
@@ -33,7 +33,7 @@ _Conjuration (Summoning)_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Effect**: One summoned creature
 - **Duration**: 1 round/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 This spell functions as _[[rangoric-srd/spells/Summon Nature’s Ally IX|summon nature's ally IX]]_, except you summon a froghemoth.

@@ -19,7 +19,7 @@ casting-time: "1 round"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "One swarm of animate teeth"
 duration: "1 round/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Monster Codex"
 based-on:
@@ -40,7 +40,7 @@ _Conjuration (Summoning)_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Effect**: One swarm of animate teeth
 - **Duration**: 1 round/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You summon a swarm consisting of thousands of animate, flying teeth in a 10-foot-by-10-foot cube. These fangs attack all creatures within the swarm's area. You can summon the swarm so that it shares an area with other creatures, and you can move the swarm up to 40 feet each round as a move action. If you choose not to move the swarm, it automatically moves up to 40 feet to envelop the nearest creature (including you) if it has not already done so.

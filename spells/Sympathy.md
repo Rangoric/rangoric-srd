@@ -20,7 +20,7 @@ casting-time: "1 hour"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One location (up to a 10-ft. cube/level) or one object"
 duration: "2 hours/level (D)"
-saving-throw: "Will negates; see text"
+defense: "Will; see text"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Sympathy|Sympathy (3.5)]]"
@@ -40,12 +40,12 @@ _Enchantment (Compulsion) \[Mind-Affecting\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One location (up to a 10-ft. cube/level) or one object
 - **Duration**: 2 hours/level (D)
-- **Saving Throw**: Will negates; see text
+- **Defense**: Will; see text
 - **Spell Resistance**: Yes
 
 You cause an object or location to emanate magical vibrations that attract either a specific kind of intelligent creature or creatures of a particular alignment, as defined by you. The particular kind of creature to be affected must be named specifically. A creature subtype is not specific enough. Likewise, the specific alignment must be named.
 
-Creatures of the specified kind or alignment feel elated and pleased to be in the area or desire to touch or to possess the object. The compulsion to stay in the area or touch the object is overpowering. If the save is successful, the creature is released from the enchantment, but a subsequent save must be made 1d6x10 minutes later. If this save fails, the affected creature attempts to return to the area or object.
+Creatures of the specified kind or alignment feel elated and pleased to be in the area or desire to touch or to possess the object. The compulsion to stay in the area or touch the object is overpowering. If the spell misses, the creature is released from the enchantment, but the spell attacks it again 1d6x10 minutes later. If this attack hits, the affected creature attempts to return to the area or object.
 
 Sympathy counters and dispels antipathy.
 

@@ -11,7 +11,7 @@ level:
   - "Occ 4"
   - "Sor/Wiz 5"
   - "Wit 5"
-saving-throw: "Will negates"
+defense: "Will"
 based-on:
   - "[[fantasy srd 3.5/spells/Symbol of Sleep|Symbol of Sleep (3.5)]]"
 status: draft
@@ -25,7 +25,7 @@ tags: [rangoric, rangoric/spell]
 _Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Clr 5, Mes 5, Occ 4, Sor/Wiz 5, Wit 5
-- **Saving Throw**: Will negates
+- **Defense**: Will
 
 This spell functions like [[rangoric-srd/spells/Symbol of Death|symbol of death]], except that all creatures of 10 HD or less within 60 feet of the symbol of sleep instead fall into a catatonic slumber for 3d6x10 minutes. Unlike with the sleep spell, sleeping creatures cannot be awakened by nonmagical means before this time expires.
 

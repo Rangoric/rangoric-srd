@@ -27,9 +27,9 @@ _Transmutation_
 - **Level**: Clr 4, Occ 3, Sor/Wiz 4, Wit 4
 - **Components**: V, S, M (mercury and phosphorous, plus powdered diamond and opal worth a total of 1,000 gp)
 
-## Saving Throw
+## Defense
 
-Will negates; **Spell Resistance** yes
+Will; **Spell Resistance** yes
 
 This spell functions as _[[rangoric-srd/spells/Symbol of Death|symbol of death]]_, except all creatures within 60 feet of a _symbol of slowing_ are slowed (as the _[[rangoric-srd/spells/Slow|slow]]_ spell) for 1 round per caster level.
 

@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 round/level or until discharged"
-saving-throw: "None and Will negates (see text)"
+defense: "None and Will (see text)"
 spell-resistance: "No and yes (see text)"
 book: "Advanced Class Guide"
 based-on:
@@ -36,7 +36,7 @@ _Abjuration_
 - **Range**: Personal
 - **Target**: You
 - **Duration**: 1 round/level or until discharged
-- **Saving Throw**: None and Will negates (see text)
+- **Defense**: None and Will (see text)
 - **Spell Resistance**: No and yes (see text)
 
-You are closely surrounded by a barely visible magical field. The field provides a +1 deflection bonus to AC and a +1 resistance bonus on saves. Any creature that strikes you with a melee attack is stunned for 1 round (Will negates). Once the field has stunned an opponent, the spell is discharged.
+You are closely surrounded by a barely visible magical field. The field provides a +1 deflection bonus to AC and a +1 resistance bonus on defenses. Any creature that strikes you with a melee attack is stunned for 1 round (vs Will). Once the field has stunned an opponent, the spell is discharged.
