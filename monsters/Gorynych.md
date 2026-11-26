@@ -13,9 +13,9 @@ cmd: "39"
 attack: "Bite +24 melee (2d8+8) or claw +23 melee (1d8+8)"
 full-attack: "3 bites +24 melee (2d8+8) and 2 claws +23 melee (1d8+8)"
 space-reach: "15 ft./10 ft. (20 ft. with bite)"
-special-attacks: "Breath weapon (40-ft. cone, 5d6 fire, Reflex DC 24 for half, usable every 1d4 rounds), spell-like abilities"
+special-attacks: "Breath weapon (40-ft. cone, 5d6 fire, +14 vs Reflex; a miss halves, usable every 1d4 rounds), spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, true seeing, regeneration 5 (acid), multi-headed, damage reduction 10/lawful, immunity to fire, paralysis, poison and sleep, spell resistance 26"
-saves: "Fort +16, Ref +14, Will +15"
+defenses: "Fort 26, Ref 24, Will 25"
 abilities: "Str 27, Dex 15, Con 22, Int 12, Wis 17, Cha 18"
 skills: "Acrobatics +7, Arcana +14, Athletics +24, Deception +17, Intimidation +17, Mysticism +14, Nature +14, Perception +23, Persuasion +17, Sense Motive +16, Stealth +14"
 skill-ranks: "Acrobatics 6, Arcana 10, Athletics 13, Deception 10, Intimidation 10, Mysticism 10, Nature 10, Perception 17, Persuasion 10, Sense Motive 10, Stealth 17"
@@ -47,9 +47,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +24 melee (2d8+8) or claw +23 melee (1d8+8)
 - **Full Attack**: 3 bites +24 melee (2d8+8) and 2 claws +23 melee (1d8+8)
 - **Space/Reach**: 15 ft./10 ft. (20 ft. with bite)
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (40-ft. cone, 5d6 fire, Reflex DC 24 for half, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (40-ft. cone, 5d6 fire, +14 vs Reflex; a miss halves, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], true seeing, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (acid), [[rangoric-srd/monsters/abilities/Multi-Headed|multi-headed]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/lawful, immunity to fire, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]], poison and sleep, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 26
-- **Saves**: Fort +16, Ref +14, Will +15
+- **Defenses**: Fort 26, Ref 24, Will 25
 - **Abilities**: Str 27, Dex 15, Con 22, Int 12, Wis 17, Cha 18
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Arcana|Arcana]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +24, [[rangoric-srd/skills/Deception|Deception]] +17, [[rangoric-srd/skills/Intimidation|Intimidation]] +17, [[rangoric-srd/skills/Mysticism|Mysticism]] +14, [[rangoric-srd/skills/Nature|Nature]] +14, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Persuasion|Persuasion]] +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +14
 - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Stand Still|Stand Still]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
@@ -71,8 +71,8 @@ Gorynyches speak Common, Draconic and Sylvan.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 15th; concentration +19): Constant—_[[rangoric-srd/spells/True Seeing|true seeing]]_; At will—_[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 15), _[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Message|message]]_; 3/day—_[[rangoric-srd/spells/Alter Self|alter self]]_, _[[rangoric-srd/spells/Bestow Curse|bestow curse]]_ (DC 18), _[[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]]_; 1/day—_[[rangoric-srd/spells/Geas, Lesser|lesser geas]]_ (DC 18), _[[rangoric-srd/spells/Limited Wish|limited wish]]_, _[[rangoric-srd/spells/Mislead|mislead]]_ (DC 20).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 15th; concentration +19): Constant—_[[rangoric-srd/spells/True Seeing|true seeing]]_; At will—_[[rangoric-srd/spells/Charm Person|charm person]]_ (+5 vs Will), _[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Message|message]]_; 3/day—_[[rangoric-srd/spells/Alter Self|alter self]]_, _[[rangoric-srd/spells/Bestow Curse|bestow curse]]_ (+8 vs Will), _[[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]]_; 1/day—_[[rangoric-srd/spells/Geas, Lesser|lesser geas]]_ (+8 vs Will), _[[rangoric-srd/spells/Limited Wish|limited wish]]_, _[[rangoric-srd/spells/Mislead|mislead]]_ (+10 vs Will).
 
-**[[rangoric-srd/monsters/abilities/Breath Weapon|Breath Weapon]] (Su)**: Each of a gorynych's heads has its own separate breath weapon. When a gorynych uses its breath weapon, it can breathe with one, two, or all three heads. If the areas of two or more breath weapons overlap, a creature caught in that overlapping area takes a –2 penalty on its Reflex save (or –4 if three breath weapons overlap). Damage done by overlapping breath weapons stacks and is considered to be a single source of fire damage for the purpose of tracking fire resistance. Regardless of how many heads breathe fire, the gorynych can only use its breath weapon once every 1d4 rounds.
+**[[rangoric-srd/monsters/abilities/Breath Weapon|Breath Weapon]] (Su)**: Each of a gorynych's heads has its own separate breath weapon. When a gorynych uses its breath weapon, it can breathe with one, two, or all three heads. If the areas of two or more breath weapons overlap, a creature caught in that overlapping area takes a –2 penalty to its Reflex Defense (or –4 if three breath weapons overlap). Damage done by overlapping breath weapons stacks and is considered to be a single source of fire damage for the purpose of tracking fire resistance. Regardless of how many heads breathe fire, the gorynych can only use its breath weapon once every 1d4 rounds.
 
 **[[rangoric-srd/monsters/abilities/Multi-Headed|Multi-Headed]] (Ex)**: All three of a gorynych's heads can act independently of each other. When it makes a full attack, each head can either bite or use its breath weapon, in any combination (two bites and one breath, three breaths and no bites, and so on).

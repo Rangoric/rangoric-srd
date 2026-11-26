@@ -15,7 +15,7 @@ full-attack: "2 claws +5 melee (1d6+3 plus grab)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Lunge, mandibles, sudden strike"
 special-qualities: "Darkvision 60 ft., immunity to mind-affecting effects"
-saves: "Fort +7, Ref +2, Will +3"
+defenses: "Fort 17, Ref 12, Will 13"
 abilities: "Str 16, Dex 13, Con 16, Int —, Wis 14, Cha 11"
 skills: "Acrobatics –5, Athletics +11, Perception +6, Stealth +1 (+13 in forests)"
 skill-ranks: "Acrobatics 0, Athletics 5, Perception 0, Stealth 0"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: Lunge, mandibles, sudden strike
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-- **Saves**: Fort +7, Ref +2, Will +3
+- **Defenses**: Fort 17, Ref 12, Will 13
 - **Abilities**: Str 16, Dex 13, Con 16, Int —, Wis 14, Cha 11
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –5, [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +1 (+13 in forests)
 - **Feats**: —

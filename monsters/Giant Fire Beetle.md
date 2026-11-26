@@ -15,7 +15,7 @@ full-attack: "Bite +1 melee (1d4)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision, luminescence, immunity to mind-affecting effects"
-saves: "Fort +2, Ref +0, Will +0"
+defenses: "Fort 12, Ref 10, Will 10"
 abilities: "Str 10, Dex 11, Con 11, Int —, Wis 10, Cha 7"
 skills: "Acrobatics –2"
 skill-ranks: "Acrobatics 0"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], luminescence, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-- **Saves**: Fort +2, Ref +0, Will +0
+- **Defenses**: Fort 12, Ref 10, Will 10
 - **Abilities**: Str 10, Dex 11, Con 11, Int —, Wis 10, Cha 7
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –2
 - **Feats**: —
@@ -68,7 +68,7 @@ Other variations on the common fire beetle exist. The two most common variants a
 
 **Mining Beetle (CR 1/2)**: A mining beetle is an advanced fire beetle with the [[rangoric-srd/monsters/simple-templates/Advanced Creature|advanced simple template]] and a burrowing speed of 20 feet.
 
-**Flash Beetle (CR 1/2)**: A flash beetle is an advanced fire beetle that can create a bright flash of light once an hour. When a flash beetle does so, all creatures in a 10-foot burst must make a DC 12 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^dazzled|dazzled]] for 1d3 rounds. The save DC is Constitution-based.
+**Flash Beetle (CR 1/2)**: A flash beetle is an advanced fire beetle that can create a bright flash of light once an hour. When a flash beetle does so, all creatures in a 10-foot burst are attacked at +2 vs Fortitude, and on a hit are [[rangoric-srd/rules/Special Abilities and Conditions#^dazzled|dazzled]] for 1d3 rounds. The attack bonus is Constitution-based.
 
 Giant fire beetles are about 2 feet long.
 

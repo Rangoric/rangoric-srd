@@ -15,7 +15,7 @@ full-attack: "Bite +14 melee (2d6+7) and 2 claws +15 melee (1d8+7 plus grab)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Rend (2 claws, 1d8+10)"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, double damage against objects"
-saves: "Fort +13, Ref +7, Will +4"
+defenses: "Fort 23, Ref 17, Will 14"
 abilities: "Str 25, Dex 13, Con 24, Int 3, Wis 14, Cha 8"
 skills: "Fieldcraft +6, Perception +13"
 skill-ranks: "Fieldcraft 1, Perception 4"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rend|Rend]] (2 claws, 1d8+10)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], double damage against objects
-- **Saves**: Fort +13, Ref +7, Will +4
+- **Defenses**: Fort 23, Ref 17, Will 14
 - **Abilities**: Str 25, Dex 13, Con 24, Int 3, Wis 14, Cha 8
 - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Perception|Perception]] +13
 - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)

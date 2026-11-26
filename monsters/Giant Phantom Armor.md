@@ -15,7 +15,7 @@ full-attack: "Heavy flail +7 melee (2d8+7/19–20)"
 space-reach: "10 ft./10 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., channel resistance +4, freeze (suit of armor), undead traits"
-saves: "Fort +3, Ref +1, Will +4"
+defenses: "Fort 13, Ref 11, Will 14"
 abilities: "Str 20, Dex 11, Con —, Int 7, Wis 11, Cha 15"
 skills: "Perception +8, Stealth +4"
 skill-ranks: "Perception 5, Stealth 5"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/abilities/Freeze|freeze]] (suit of armor), [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-- **Saves**: Fort +3, Ref +1, Will +4
+- **Defenses**: Fort 13, Ref 11, Will 14
 - **Abilities**: Str 20, Dex 11, Con —, Int 7, Wis 11, Cha 15
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +4
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]]

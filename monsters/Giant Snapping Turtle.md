@@ -15,7 +15,7 @@ full-attack: "Bite +16 melee (4d6+16 plus grab)"
 space-reach: "20 ft./15 ft."
 special-attacks: "Swallow whole (2d8+16 bludgeoning, AC 23, 22 hp)"
 special-qualities: "Low-light vision, scent, armored stomach, hold breath, shell"
-saves: "Fort +12, Ref +5, Will +6"
+defenses: "Fort 22, Ref 15, Will 16"
 abilities: "Str 32, Dex 6, Con 21, Int 1, Wis 13, Cha 6"
 skills: "Athletics +19, Perception +21"
 skill-ranks: "Athletics 5, Perception 17"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 20 ft./15 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Swallow Whole|Swallow whole]] (2d8+16 bludgeoning, AC 23, 22 hp)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Armored Stomach|armored stomach]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]], [[rangoric-srd/monsters/abilities/Shell|shell]]
-- **Saves**: Fort +12, Ref +5, Will +6
+- **Defenses**: Fort 22, Ref 15, Will 16
 - **Abilities**: Str 32, Dex 6, Con 21, Int 1, Wis 13, Cha 6
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +19, [[rangoric-srd/skills/Perception|Perception]] +21
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)

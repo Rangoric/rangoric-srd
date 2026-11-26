@@ -15,7 +15,7 @@ full-attack: "Bite +10 melee (1d8+6 plus bleed, disease, and grab)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Bleed (2d4), blood drain (1d2 Constitution), disease"
 special-qualities: "Darkvision 60 ft., scent, immunity to mind-affecting effects"
-saves: "Fort +9, Ref +9, Will +3"
+defenses: "Fort 19, Ref 19, Will 13"
 abilities: "Str 18, Dex 25, Con 17, Int —, Wis 13, Cha 6"
 skills: "Acrobatics +11, Perception +9"
 skill-ranks: "Acrobatics 1, Perception 5"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (2d4), [[rangoric-srd/monsters/abilities/Blood Drain|blood drain]] (1d2 Constitution), [[rangoric-srd/monsters/abilities/Disease|disease]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-- **Saves**: Fort +9, Ref +9, Will +3
+- **Defenses**: Fort 19, Ref 19, Will 13
 - **Abilities**: Str 18, Dex 25, Con 17, Int —, Wis 13, Cha 6
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Perception|Perception]] +9
 - **Feats**: —
@@ -67,4 +67,4 @@ Giant mosquitoes grow to 6 feet in length, and weigh up to 150 pounds. Variant s
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Ex)**: [[rangoric-srd/rules/afflictions/Malaria|Malaria]]: Bite—injury; _save_ Fort DC 17; _onset_ 1d3 days; _frequency_ 1 day; _effect_ 1d3 Con damage and 1d3 Wis damage; _cure_ 2 consecutive saves. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Ex)**: [[rangoric-srd/rules/afflictions/Malaria|Malaria]]: Bite—injury; _attack_ +7 vs Fortitude; _onset_ 1d3 days; _frequency_ 1 day; _effect_ 1d3 Con damage and 1d3 Wis damage; _cure_ 2 consecutive misses. The attack bonus is Constitution-based.

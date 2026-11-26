@@ -15,7 +15,7 @@ full-attack: "Gore +11 melee (2d6+12)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Powerful charge (gore, 4d6+16)"
 special-qualities: "Darkvision 60 ft., low-light vision, evasion, link, share spells, tricks (attack [all creatures], come, defend, heel, guard, seek, stay, work)"
-saves: "Fort +9, Ref +5, Will +2"
+defenses: "Fort 19, Ref 15, Will 12"
 abilities: "Str 26, Dex 11, Con 18, Int 2, Wis 10, Cha 5"
 skills: "Perception +9"
 skill-ranks: "Perception 6"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Powerful Charge|Powerful charge]] (gore, 4d6+16)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/class-options/companion-features/Evasion (Companion Feature)|evasion]], [[rangoric-srd/class-options/companion-features/Link (Companion Feature)|link]], [[rangoric-srd/class-options/companion-features/Share Spells (Companion Feature)|share spells]], [[rangoric-srd/class-options/companion-features/Bonus Tricks (Companion Feature)|tricks]] (attack \[all creatures\], come, defend, heel, guard, seek, stay, work)
-- **Saves**: Fort +9, Ref +5, Will +2
+- **Defenses**: Fort 19, Ref 15, Will 12
 - **Abilities**: Str 26, Dex 11, Con 18, Int 2, Wis 10, Cha 5
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +9
 - **Feats**: [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Power Attack|Power Attack]]

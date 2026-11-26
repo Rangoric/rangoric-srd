@@ -16,7 +16,7 @@ full-attack: "Bite +2 melee (1d6 plus attach)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Blood drain"
 special-qualities: "Blindsight 30 ft., scent, amphibious, immunity to mind-affecting effects, susceptible to salt"
-saves: "Fort +5, Ref +2, Will +1"
+defenses: "Fort 15, Ref 12, Will 11"
 abilities: "Str 11, Dex 12, Con 14, Int —, Wis 10, Cha 1"
 skills: "Athletics +8, Stealth +1 (+9 in swamps)"
 skill-ranks: "Athletics 5, Stealth 0"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 30 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects, [[rangoric-srd/monsters/abilities/Susceptible to Salt|susceptible to salt]]
-- **Saves**: Fort +5, Ref +2, Will +1
+- **Defenses**: Fort 15, Ref 12, Will 11
 - **Abilities**: Str 11, Dex 12, Con 14, Int —, Wis 10, Cha 1
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +1 (+9 in swamps)
 - **Feats**: —

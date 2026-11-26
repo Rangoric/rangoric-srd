@@ -15,7 +15,7 @@ full-attack: "Bite +1 melee (1d4)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., tremorsense 60 ft., hold breath, light sensitivity"
-saves: "Fort +6, Ref +1, Will +0"
+defenses: "Fort 16, Ref 11, Will 10"
 abilities: "Str 11, Dex 12, Con 19, Int —, Wis 11, Cha 2"
 skills: "Acrobatics –1, Athletics +8, Perception +4, Stealth +9"
 skill-ranks: "Acrobatics 0, Athletics 5, Perception 0, Stealth 0"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]], [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
-- **Saves**: Fort +6, Ref +1, Will +0
+- **Defenses**: Fort 16, Ref 11, Will 10
 - **Abilities**: Str 11, Dex 12, Con 19, Int —, Wis 11, Cha 2
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –1, [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +9
 - **Feats**: [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Endurance|Endurance]]

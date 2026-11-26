@@ -16,7 +16,7 @@ full-attack: "Bite +6 melee (2d6+3)"
 space-reach: "5 ft./5 ft. (10 ft. with bite)"
 special-attacks: "Extending jaw"
 special-qualities: "Darkvision 60 ft., immunity to mind-affecting effects"
-saves: "Fort +6, Ref +2, Will +2"
+defenses: "Fort 16, Ref 12, Will 12"
 abilities: "Str 15, Dex 13, Con 14, Int —, Wis 12, Cha 5"
 skills: "Athletics +10, Stealth +5 (+13 in shallow water)"
 skill-ranks: "Athletics 5, Stealth 0"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft. (10 ft. with bite)
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Extending Jaw|Extending jaw]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-- **Saves**: Fort +6, Ref +2, Will +2
+- **Defenses**: Fort 16, Ref 12, Will 12
 - **Abilities**: Str 15, Dex 13, Con 14, Int —, Wis 12, Cha 5
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +5 (+13 in shallow water)
 - **Feats**: —

@@ -15,7 +15,7 @@ full-attack: "+10 keen dagger of human dread +54/+49/+44/+39 (1d4+21/17-20) mele
 space-reach: "5 ft./5 ft."
 special-attacks: "Fear gaze, sneak attack +13d6"
 special-qualities: "Blindsight 60 ft., opportunist, quiescence, spell-like abilities, SR 35, DR 10/epic"
-saves: "Fort +17, Ref +32, Will +21"
+defenses: "Fort 27, Ref 42, Will 31"
 abilities: "Str 32, Dex 46, Con 29, Int 26, Wis 25, Cha 30"
 skills: "Acrobatics +46, Athletics +39, Deception +38, Fieldcraft +35, Intimidation +38, Perception +35, Stealth +66"
 skill-ranks: "Acrobatics 25, Athletics 25, Deception 25, Fieldcraft 25, Intimidation 25, Perception 25, Stealth 25"
@@ -49,7 +49,7 @@ Full Attack: +10 keen dagger of human dread +54/+49/+44/+39 (1d4+21/17-20) melee
 Space/Reach: 5 ft./5 ft.      
 Special Attacks: Fear [[rangoric-srd/monsters/abilities/Gaze|gaze]], sneak attack +13d6      
 Special Qualities: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., opportunist, quiescence, spell-like abilities, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 35, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/epic      
-Saves: Fort +17, Ref +32, Will +21      
+Defenses: Fort 27, Ref 42, Will 31      
 Abilities: Str 32, Dex 46, Con 29, Int 26, Wis 25, Cha 30      
 Skills: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +46, [[rangoric-srd/skills/Athletics|Athletics]] +39, [[rangoric-srd/skills/Deception|Deception]] +38, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +35, [[rangoric-srd/skills/Intimidation|Intimidation]] +38, [[rangoric-srd/skills/Perception|Perception]] +35, [[rangoric-srd/skills/Stealth|Stealth]] +66     
 **Unspent Skill Points**: 75
@@ -68,7 +68,7 @@ A gloom’s natural weapons are treated as epic for the purpose of overcoming [[
 
 #### Combat
 
-Fear Gaze (Su): Viewing the gloom’s face inspires terror. Creatures that meet the gloom’s [[rangoric-srd/monsters/abilities/Gaze|gaze]] must succeed at a Will save (DC 32) or suffer the effects of a [[rangoric-srd/spells/Fear|fear]] spell as cast by a 20th-level caster.   The DC is Charisma-based.
+Fear Gaze (Su): Viewing the gloom’s face inspires terror. Creatures that meet the gloom’s [[rangoric-srd/monsters/abilities/Gaze|gaze]] are attacked at +22 vs Will, and on a hit suffer the effects of a [[rangoric-srd/spells/Fear|fear]] spell as cast by a 20th-level caster.   The attack bonus is Charisma-based.
 
 Opportunist (Ex): This ability functions like the [[rangoric-srd/classes/Rogue|rogue]] class feature of the same name.
 
@@ -76,7 +76,7 @@ Sneak Attack (Ex): A gloom is able to sneak attack as a 25th-level [[rangoric-sr
 
 Quiescence (Su): A gloom is constantly silent, as per the [[rangoric-srd/spells/Silence|silence]] spell, although the area does not extend beyond the creature itself. This quality gives it a +20 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks (it is still possible for a gloom to create noise, such as by bumping into something that scrapes on the floor or by sounding a chime). The gloom can lower this effect at will.
 
-Spell-Like Abilities: Caster level 20th; save DC 20 + spell level.  The DC is Charisma-based.
+Spell-Like Abilities: Caster level 20th; attack bonus +10 + spell level.  The attack bonus is Charisma-based.
 
 At will - [[rangoric-srd/spells/Shadow Walk|shadow walk]];
 

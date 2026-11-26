@@ -15,7 +15,7 @@ full-attack: "Bite +9 melee (2d8+6 plus grab)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Darting charge"
 special-qualities: "Darkvision 60 ft., immunity to mind-affecting effects"
-saves: "Fort +7, Ref +4, Will +3"
+defenses: "Fort 17, Ref 14, Will 13"
 abilities: "Str 19, Dex 15, Con 14, Int —, Wis 12, Cha 9"
 skills: "Acrobatics +10"
 skill-ranks: "Acrobatics 5"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Darting Charge|Darting charge]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-- **Saves**: Fort +7, Ref +4, Will +3
+- **Defenses**: Fort 17, Ref 14, Will 13
 - **Abilities**: Str 19, Dex 15, Con 14, Int —, Wis 12, Cha 9
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10
 - **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]]

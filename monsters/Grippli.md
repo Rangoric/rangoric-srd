@@ -16,7 +16,7 @@ full-attack: "Short sword +3 melee (1d4+1/19–20); or dart +5 ranged (1d3+1); o
 space-reach: "5 ft./5 ft."
 special-attacks: "Favored enemy (vermin +2)"
 special-qualities: "Darkvision 60 ft., swamp stride, track, wild empathy"
-saves: "Fort +3, Ref +5, Will +1"
+defenses: "Fort 13, Ref 15, Will 11"
 abilities: "Str 12, Dex 17, Con 13, Int 12, Wis 12, Cha 8"
 skills: "(+15 in forests or marshes) Survival +7, Acrobatics +4, Animal Handling +3, Athletics +13, Medicine +5, Perception +5, Stealth +11"
 skill-ranks: "(+15 in forests or marshes) Survival 3, Acrobatics 1, Animal Handling 1, Athletics 9, Medicine 3, Perception 1, Stealth 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Favored enemy (vermin +2)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Swamp Stride|swamp stride]], track, wild empathy
-- **Saves**: Fort +3, Ref +5, Will +1
+- **Defenses**: Fort 13, Ref 15, Will 11
 - **Abilities**: Str 12, Dex 17, Con 13, Int 12, Wis 12, Cha 8
 - **Skills**: (+15 in forests or marshes) Survival +7, [[rangoric-srd/skills/Acrobatics|Acrobatics]] +4, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +3, [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Medicine|Medicine]] +5, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +11
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Fieldcraft)

@@ -15,7 +15,7 @@ full-attack: "Battleaxe +4 melee (1d8+3/x3)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Blindsight 40 ft., immunities, scent"
-saves: "Fort +1, Ref +4, Will +2"
+defenses: "Fort 11, Ref 14, Will 12"
 abilities: "Str 15, Dex 13, Con 13, Int 10, Wis 8, Cha 6"
 skills: "Athletics +7, Perception +7, Stealth +1*"
 skill-ranks: "Athletics 2, Perception 2, Stealth 0"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 40 ft., immunities, [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +1, Ref +4, Will +2
+- **Defenses**: Fort 11, Ref 14, Will 12
 - **Abilities**: Str 15, Dex 13, Con 13, Int 10, Wis 8, Cha 6
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +7, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +1\*
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Track|Track (B)]]

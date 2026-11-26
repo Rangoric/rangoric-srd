@@ -16,7 +16,7 @@ full-attack: "Bite +13 melee (2d6+15 plus grab)"
 space-reach: "15 ft./15 ft."
 special-attacks: "Swallow whole (2d6+10 bludgeoning damage, AC 15, hp 7)"
 special-qualities: "Low-light vision"
-saves: "Fort +11, Ref +7, Will +5"
+defenses: "Fort 21, Ref 17, Will 15"
 abilities: "Str 30, Dex 10, Con 23, Int 1, Wis 13, Cha 2"
 skills: "Athletics +18, Perception +11"
 skill-ranks: "Athletics 5, Perception 7"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./15 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Swallow Whole|Swallow whole]] (2d6+10 bludgeoning damage, AC 15, hp 7)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]]
-- **Saves**: Fort +11, Ref +7, Will +5
+- **Defenses**: Fort 21, Ref 17, Will 15
 - **Abilities**: Str 30, Dex 10, Con 23, Int 1, Wis 13, Cha 2
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Perception|Perception]] +11
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]]

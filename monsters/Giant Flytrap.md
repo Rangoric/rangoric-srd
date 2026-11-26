@@ -15,7 +15,7 @@ full-attack: "4 bites +15 melee (1d8+7 plus grab)"
 space-reach: "15 ft./15 ft."
 special-attacks: "Engulf"
 special-qualities: "Low-light vision, tremorsense 60 ft., plant traits, resistance to acid 20"
-saves: "Fort +17, Ref +8, Will +5"
+defenses: "Fort 27, Ref 18, Will 15"
 abilities: "Str 25, Dex 18, Con 25, Int 1, Wis 12, Cha 6"
 skills: "Perception +10, Stealth +9 (+17 in undergrowth)"
 skill-ranks: "Perception 6, Stealth 10"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./15 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Engulf|Engulf]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 20
-- **Saves**: Fort +17, Ref +8, Will +5
+- **Defenses**: Fort 27, Ref 18, Will 15
 - **Abilities**: Str 25, Dex 18, Con 25, Int 1, Wis 12, Cha 6
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +9 (+17 in undergrowth)
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)

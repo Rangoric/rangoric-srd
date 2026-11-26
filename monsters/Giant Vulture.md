@@ -15,7 +15,7 @@ full-attack: "Bite +9 melee (2d6+9 plus disease)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Disease"
 special-qualities: "Low-light vision, scent, diseased"
-saves: "Fort +10, Ref +6, Will +3"
+defenses: "Fort 20, Ref 16, Will 13"
 abilities: "Str 22, Dex 15, Con 18, Int 2, Wis 15, Cha 7"
 skills: "Acrobatics +7, Perception +14"
 skill-ranks: "Acrobatics 4, Perception 1"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Disease|Disease]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Diseased|diseased]]
-- **Saves**: Fort +10, Ref +6, Will +3
+- **Defenses**: Fort 20, Ref 16, Will 13
 - **Abilities**: Str 22, Dex 15, Con 18, Int 2, Wis 15, Cha 7
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Perception|Perception]] +14
 - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
@@ -67,4 +67,4 @@ A giant vulture stands more than 13 feet tall, has a wingspan of over 30 feet, a
 
 ### Combat
 
-**Diseased (Ex)**: Due to their filthy eating habits and constant exposure to decaying flesh, giant vultures are harbingers of disease—much more so than the standard vulture. Any creature bitten by a giant vulture has a 10% chance of being exposed to filth fever, blinding sickness, or a similar disease. Once this check is made, a victim can no longer be infected by this particular giant vulture, though attacks by different giant vultures are resolved normally and may result in multiple illnesses. While vultures aren't immune to all diseases, they do gain a +4 racial bonus on all saving throws against such ailments.
+**Diseased (Ex)**: Due to their filthy eating habits and constant exposure to decaying flesh, giant vultures are harbingers of disease—much more so than the standard vulture. Any creature bitten by a giant vulture has a 10% chance of being exposed to filth fever, blinding sickness, or a similar disease. Once this check is made, a victim can no longer be infected by this particular giant vulture, though attacks by different giant vultures are resolved normally and may result in multiple illnesses. While vultures aren't immune to all diseases, they do gain a +4 racial bonus on all defenses against such ailments.

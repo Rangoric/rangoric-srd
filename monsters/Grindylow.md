@@ -16,7 +16,7 @@ full-attack: "Spear +2 melee (1d6+1/×3) and bite –2 melee (1d3); or spear +3 
 space-reach: "5 ft./5 ft."
 special-attacks: "Tangling tentacles"
 special-qualities: "Darkvision 60 ft., amphibious"
-saves: "Fort +1, Ref +2, Will +2"
+defenses: "Fort 11, Ref 12, Will 12"
 abilities: "Str 12, Dex 14, Con 13, Int 9, Wis 10, Cha 9"
 skills: "Athletics +13, Perception +4, Stealth +14"
 skill-ranks: "Athletics 9, Perception 1, Stealth 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Tangling Tentacles|Tangling tentacles]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Amphibious|amphibious]]
-- **Saves**: Fort +1, Ref +2, Will +2
+- **Defenses**: Fort 11, Ref 12, Will 12
 - **Abilities**: Str 12, Dex 14, Con 13, Int 9, Wis 10, Cha 9
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +14
 - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]

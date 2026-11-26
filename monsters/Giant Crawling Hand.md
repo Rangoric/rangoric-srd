@@ -15,7 +15,7 @@ full-attack: "Claw +11 melee (1d6+7 plus grab)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Mark quarry, pus burst"
 special-qualities: "Blindsense 30 ft., darkvision 60 ft., undead traits"
-saves: "Fort +4, Ref +6, Will +6"
+defenses: "Fort 14, Ref 16, Will 16"
 abilities: "Str 21, Dex 15, Con —, Int 2, Wis 13, Cha 14"
 skills: "Acrobatics +3, Perception +7, Stealth +12"
 skill-ranks: "Acrobatics 1, Perception 3, Stealth 3"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Mark Quarry|Mark quarry]], [[rangoric-srd/monsters/abilities/Pus Burst|pus burst]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-- **Saves**: Fort +4, Ref +6, Will +6
+- **Defenses**: Fort 14, Ref 16, Will 16
 - **Abilities**: Str 21, Dex 15, Con —, Int 2, Wis 13, Cha 14
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +3, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +12
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
@@ -71,4 +71,4 @@ Giant crawling hands understand Common but can't speak.
 
 **[[rangoric-srd/monsters/abilities/Mark Quarry|Mark Quarry]] (Su)**: A crawling hand is assigned a quarry by anointing the hand with a drop of the intended quarry's blood. If the hand has no current quarry, it automatically gains the next creature it damages as its quarry. Once attuned to a target, it becomes aware of the target's location as if under the effect of a continuous locate creature spell. The hand gains a +1 bonus on all attack rolls, damage rolls, and skill checks made to seek out and destroy the marked quarry. The mark quarry ability lasts until the quarry or the hand is slain.
 
-**[[rangoric-srd/monsters/abilities/Pus Burst|Pus Burst]] (Su)**: When damaged by a piercing or slashing melee weapon, a spray of vile pus strikes the attacker unless the attacker makes a DC 15 Reflex save. Weapons that provide reach protect the attacker completely from a pus burst. Creatures struck by pus become [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1d3 rounds and take 2d6 points of negative energy damage. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Pus Burst|Pus Burst]] (Su)**: When damaged by a piercing or slashing melee weapon, a spray of vile pus attacks the attacker at +5 vs Reflex and strikes it on a hit. Weapons that provide reach protect the attacker completely from a pus burst. Creatures struck by pus become [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1d3 rounds and take 2d6 points of negative energy damage. The attack bonus is Charisma-based.

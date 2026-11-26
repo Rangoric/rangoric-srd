@@ -15,7 +15,7 @@ full-attack: "Bite +4 melee (1d4+3)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Goblin breath"
 special-qualities: "Darkvision 60 ft., scent, snake empathy +7"
-saves: "Fort +2, Ref +2, Will +4"
+defenses: "Fort 12, Ref 12, Will 14"
 abilities: "Str 14, Dex 15, Con 14, Int 9, Wis 12, Cha 13"
 skills: "Deception +6, Intimidation +5, Perception +5, Society +3, Stealth +10"
 skill-ranks: "Deception 2, Intimidation 1, Perception 1, Society 1, Stealth 1"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Goblin Breath|Goblin breath]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Snake Empathy|snake empathy]] +7
-- **Saves**: Fort +2, Ref +2, Will +4
+- **Defenses**: Fort 12, Ref 12, Will 14
 - **Abilities**: Str 14, Dex 15, Con 14, Int 9, Wis 12, Cha 13
 - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +6, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Society|Society]] +3, [[rangoric-srd/skills/Stealth|Stealth]] +10
 - **Feats**: [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception)
@@ -73,6 +73,6 @@ Goblin snakes share goblins' fear of horses (who could easily step on and crush 
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Goblin Breath|Goblin Breath]] (Ex)**: Once every 1d4 rounds, a goblin snake can release a disgusting belch as a standard action. Any creature within 5 feet of the goblin snake must succeed at a DC 13 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1d6 rounds by the stench. Creatures that successfully save cannot be affected by the same goblin snake's goblin breath for 24 hours. Goblin snakes and goblins are immune to this effect. This is a poison effect. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Goblin Breath|Goblin Breath]] (Ex)**: Once every 1d4 rounds, a goblin snake can release a disgusting belch as a standard action. Any creature within 5 feet of the goblin snake is attacked at +3 vs Fortitude, and on a hit is [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1d6 rounds by the stench. Creatures it misses cannot be affected by the same goblin snake's goblin breath for 24 hours. Goblin snakes and goblins are immune to this effect. This is a poison effect. The attack bonus is Constitution-based.
 
 **[[rangoric-srd/monsters/abilities/Snake Empathy|Snake Empathy]] (Ex)**: This ability functions similarly to a druid's wild empathy ability, but allows a goblin snake to verbally communicate with and be understood by snakes and similar serpentine reptiles. The bonus equals the goblin snake's racial Hit Dice plus its Charisma modifier and a +4 racial bonus.

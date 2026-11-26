@@ -15,7 +15,7 @@ full-attack: "Sting +2 melee (1d4 plus poison)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Poison"
 special-qualities: "Darkvision 60 ft., immunity to mind-affecting effects, vulnerable to smoke"
-saves: "Fort +4, Ref +3, Will +2"
+defenses: "Fort 14, Ref 13, Will 12"
 abilities: "Str 11, Dex 14, Con 13, Int —, Wis 12, Cha 9"
 skills: "Acrobatics +6"
 skill-ranks: "Acrobatics 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects, vulnerable to smoke
-- **Saves**: Fort +4, Ref +3, Will +2
+- **Defenses**: Fort 14, Ref 13, Will 12
 - **Abilities**: Str 11, Dex 14, Con 13, Int —, Wis 12, Cha 9
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6
 - **Feats**: —
@@ -72,6 +72,6 @@ Giant bees are usually not aggressive except when defending themselves or their 
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Giant Bee Venom|Giant Bee Venom]]: Sting—injury; _save_ Fort DC 12; _frequency_ 1/round for 4 rounds; _effect_ 1d2 Str; _cure_ 1 save.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Giant Bee Venom|Giant Bee Venom]]: Sting—injury; _attack_ +2 vs Fortitude; _frequency_ 1/round for 4 rounds; _effect_ 1d2 Str; _cure_ 1 miss.
 
-**Vulnerable to Smoke (Ex)**: Smoke from particularly smoky fires or effects (such as that created by a pyrotechnics spell) causes a giant bee to become [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] if it fails a DC 14 Fortitude save. This condition persists as long as the giant bee remains in the smoke, plus 1d4 rounds.
+**Vulnerable to Smoke (Ex)**: Smoke from particularly smoky fires or effects (such as that created by a pyrotechnics spell) causes a giant bee to become [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] if the smoke hits it at +4 vs Fortitude. This condition persists as long as the giant bee remains in the smoke, plus 1d4 rounds.

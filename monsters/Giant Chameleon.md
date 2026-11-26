@@ -15,7 +15,7 @@ full-attack: "Bite +5 melee (2d6+4); or tongue +5 melee touch (grab)"
 space-reach: "10 ft./10 ft. (15 ft. with tongue)"
 special-attacks: "Tongue, pull (tongue, 5 ft.)"
 special-qualities: "Low-light vision"
-saves: "Fort +8, Ref +6, Will +1"
+defenses: "Fort 18, Ref 16, Will 11"
 abilities: "Str 16, Dex 15, Con 18, Int 2, Wis 11, Cha 7"
 skills: "Athletics +15, Perception +4, Stealth +18 (+28 when still)"
 skill-ranks: "Athletics 9, Perception 1, Stealth 5"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft. (15 ft. with tongue)
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Tongue|Tongue]], pull ([[rangoric-srd/monsters/abilities/Tongue|tongue]], 5 ft.)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]]
-- **Saves**: Fort +8, Ref +6, Will +1
+- **Defenses**: Fort 18, Ref 16, Will 11
 - **Abilities**: Str 16, Dex 15, Con 18, Int 2, Wis 11, Cha 7
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +18 (+28 when still)
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)

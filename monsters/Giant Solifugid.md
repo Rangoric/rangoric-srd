@@ -15,7 +15,7 @@ full-attack: "Bite +3 melee (1d6+1) and 2 claws +3 melee (1d3+1)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Rend (2 claws, 1d3+1)"
 special-qualities: "Darkvision 60 ft., immunity to mind-affecting effects"
-saves: "Fort +5, Ref +2, Will +0"
+defenses: "Fort 15, Ref 12, Will 10"
 abilities: "Str 12, Dex 15, Con 15, Int —, Wis 11, Cha 2"
 skills: "Athletics +9, Perception +4, Stealth +10"
 skill-ranks: "Athletics 5, Perception 0, Stealth 0"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rend|Rend]] (2 claws, 1d3+1)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-- **Saves**: Fort +5, Ref +2, Will +0
+- **Defenses**: Fort 15, Ref 12, Will 10
 - **Abilities**: Str 12, Dex 15, Con 15, Int —, Wis 11, Cha 2
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +10
 - **Feats**: —

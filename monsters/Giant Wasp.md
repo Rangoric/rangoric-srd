@@ -15,7 +15,7 @@ full-attack: "Sting +6 melee (1d8+6 plus poison)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Poison"
 special-qualities: "Darkvision 60 ft., immunity to mind-affecting effects"
-saves: "Fort +8, Ref +2, Will +2"
+defenses: "Fort 18, Ref 12, Will 12"
 abilities: "Str 18, Dex 12, Con 18, Int —, Wis 13, Cha 11"
 skills: "Acrobatics +3, Perception +9"
 skill-ranks: "Acrobatics 1, Perception 0"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-- **Saves**: Fort +8, Ref +2, Will +2
+- **Defenses**: Fort 18, Ref 12, Will 12
 - **Abilities**: Str 18, Dex 12, Con 18, Int —, Wis 13, Cha 11
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +3, [[rangoric-srd/skills/Perception|Perception]] +9
 - **Feats**: —
@@ -68,4 +68,4 @@ Giant wasps attack when hungry or threatened, stinging their prey to death. They
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Giant Wasp Poison|Giant Wasp Poison]]: Sting—injury; _save_ Fort DC 18; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Dex damage; _cure_ 1 save. The save DC is Constitution-based, and includes a +2 racial bonus.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Giant Wasp Poison|Giant Wasp Poison]]: Sting—injury; _attack_ +8 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Dex damage; _cure_ 1 miss. The attack bonus is Constitution-based, and includes a +2 racial bonus.

@@ -15,7 +15,7 @@ full-attack: "Bite +6 melee (1d6+3 plus poison and grab)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Gnaw, grab (Medium), poison"
 special-qualities: "Blindsense 30 ft., immunity to mind-affecting effects"
-saves: "Fort +8, Ref +2, Will +1"
+defenses: "Fort 18, Ref 12, Will 11"
 abilities: "Str 14, Dex 12, Con 18, Int —, Wis 10, Cha 1"
 skills: "—"
 skill-ranks: ""
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Gnaw|Gnaw]], [[rangoric-srd/monsters/abilities/Grab|grab]] (Medium), [[rangoric-srd/monsters/abilities/Poison|poison]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-- **Saves**: Fort +8, Ref +2, Will +1
+- **Defenses**: Fort 18, Ref 12, Will 11
 - **Abilities**: Str 14, Dex 12, Con 18, Int —, Wis 10, Cha 1
 - **Skills**: —
 - **Feats**: —
@@ -69,4 +69,4 @@ In some cases, a rot grub continues to feed and grow, eventually reaching enormo
 
 **[[rangoric-srd/monsters/abilities/Gnaw|Gnaw]] (Ex)**: A rot grub that is grappling a foe and chooses to damage the foe with an additional grapple check deals twice its normal bite damage (2d6+6 for most giant rot grubs), in addition to injecting an additional dose of poison with each successful check.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Giant Rot Grub Venom|Giant Rot Grub Venom]]: Bite—injury; _save_ Fort DC 16; _frequency_ 1/round for 5 rounds; _effect_ 1d3 Str; _cure_ 1 save.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Giant Rot Grub Venom|Giant Rot Grub Venom]]: Bite—injury; _attack_ +6 vs Fortitude; _frequency_ 1/round for 5 rounds; _effect_ 1d3 Str; _cure_ 1 miss.

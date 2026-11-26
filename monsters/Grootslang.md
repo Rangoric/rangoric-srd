@@ -13,9 +13,9 @@ cmd: "53 (55 vs. trip)"
 attack: "Bite +35 melee (4d8+13/19–20) or stomps +27 melee (2d6+6) or tail slap +32 melee (2d6+6)"
 full-attack: "Bite +30 melee (4d8+13/19–20) and 2 stomps +27 melee (2d6+6) and tail slap +27 melee (2d6+6)"
 space-reach: "20 ft./20 ft."
-special-attacks: "Impaling bite, thunderous stomp (DC 28), trample (2d6+19, DC 33)"
+special-attacks: "Impaling bite, thunderous stomp (+18 vs Reflex), trample (2d6+19, +23 vs Reflex)"
 special-qualities: "Darkvision 120 ft., scent, aquatic elusion, hold breath, damage reduction 10/magic, spell resistance 27"
-saves: "Fort +20, Ref +16, Will +12"
+defenses: "Fort 30, Ref 26, Will 22"
 abilities: "Str 36, Dex 19, Con 26, Int 15, Wis 20, Cha 15"
 skills: "Acrobatics +15, Athletics +45 (+49 jumping), Deception +4, Intimidation +12, Perception +28, Sense Motive +13, Stealth +10"
 skill-ranks: "Acrobatics 8, Athletics 29, Deception 2, Intimidation 7, Perception 20, Sense Motive 5, Stealth 15"
@@ -47,9 +47,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +35 melee (4d8+13/19–20) or stomps +27 melee (2d6+6) or tail slap +32 melee (2d6+6)
 - **Full Attack**: Bite +30 melee (4d8+13/19–20) and 2 stomps +27 melee (2d6+6) and tail slap +27 melee (2d6+6)
 - **Space/Reach**: 20 ft./20 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Impaling Bite|Impaling bite]], [[rangoric-srd/monsters/abilities/Thunderous Stomp|thunderous stomp]] (DC 28), [[rangoric-srd/monsters/abilities/Trample|trample]] (2d6+19, DC 33)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Impaling Bite|Impaling bite]], [[rangoric-srd/monsters/abilities/Thunderous Stomp|thunderous stomp]] (+18 vs Reflex), [[rangoric-srd/monsters/abilities/Trample|trample]] (2d6+19, +23 vs Reflex)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Aquatic Elusion|aquatic elusion]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 27
-- **Saves**: Fort +20, Ref +16, Will +12
+- **Defenses**: Fort 30, Ref 26, Will 22
 - **Abilities**: Str 36, Dex 19, Con 26, Int 15, Wis 20, Cha 15
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +45 (+49 jumping), [[rangoric-srd/skills/Deception|Deception]] +4, [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Perception|Perception]] +28, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +10
 - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Bleeding Critical|Bleeding Critical]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Spring Attack|Spring Attack]]
@@ -75,4 +75,4 @@ Grootslangs speak Aquan, Common and Draconic.
 
 **[[rangoric-srd/monsters/abilities/Impaling Bite|Impaling Bite]] (Ex)**: A grootslang can make a bite attack against any creature it is grappling. If this attack hits, it is automatically treated as a critical threat.
 
-**[[rangoric-srd/monsters/abilities/Thunderous Stomp|Thunderous Stomp]] (Ex)**: As a full-round action, a grootslang can rear up on its serpentine body to bring its massive forelimbs down with awesome force. The grootslang chooses two adjacent targets to be affected as though trampling them. In addition, each creature within 10 feet must make a DC 28 Reflex save or be knocked [[rangoric-srd/rules/Special Abilities and Conditions#^prone|prone]]. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Thunderous Stomp|Thunderous Stomp]] (Ex)**: As a full-round action, a grootslang can rear up on its serpentine body to bring its massive forelimbs down with awesome force. The grootslang chooses two adjacent targets to be affected as though trampling them. In addition, each creature within 10 feet is attacked at +18 vs Reflex, and on a hit is knocked [[rangoric-srd/rules/Special Abilities and Conditions#^prone|prone]]. The attack bonus is Constitution-based.

@@ -15,7 +15,7 @@ full-attack: "Bite +4 melee (1d6+3)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision, buoyant, shell, slow and steady"
-saves: "Fort +8, Ref +1, Will +2"
+defenses: "Fort 18, Ref 11, Will 12"
 abilities: "Str 14, Dex 7, Con 16, Int 2, Wis 13, Cha 9"
 skills: "Perception +7 (+3 for sound–based checks)"
 skill-ranks: "Perception 3"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Buoyant|buoyant]], [[rangoric-srd/monsters/abilities/Shell|shell]], [[rangoric-srd/monsters/abilities/Slow and Steady|slow and steady]]
-- **Saves**: Fort +8, Ref +1, Will +2
+- **Defenses**: Fort 18, Ref 11, Will 12
 - **Abilities**: Str 14, Dex 7, Con 16, Int 2, Wis 13, Cha 9
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +7 (+3 for sound–based checks)
 - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]]

@@ -15,7 +15,7 @@ full-attack: "6 bites +7 melee (1d4 plus grab)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Blood drain, engulf (6d4 damage plus 2 Con damage, AC 13, hp 4), gibbering, ground manipulation, spittle (+6 ranged touch)"
 special-qualities: "All-around vision, darkvision 60 ft., amorphous, damage reduction 5/bludgeoning, immunity to critical hits and precision damage"
-saves: "Fort +8, Ref +4, Will +5"
+defenses: "Fort 18, Ref 14, Will 15"
 abilities: "Str 10, Dex 17, Con 24, Int 4, Wis 13, Cha 12"
 skills: "Athletics +8, Investigation +1, Perception +12"
 skill-ranks: "Athletics 5, Perception 4"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]], [[rangoric-srd/monsters/abilities/Engulf|engulf]] (6d4 damage plus 2 Con damage, AC 13, hp 4), gibbering, ground manipulation, spittle (+6 ranged touch)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/All-Around Vision|All-around vision]], [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Amorphous|amorphous]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/bludgeoning, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to critical hits and precision damage
-- **Saves**: Fort +8, Ref +4, Will +5
+- **Defenses**: Fort 18, Ref 14, Will 15
 - **Abilities**: Str 10, Dex 17, Con 24, Int 4, Wis 13, Cha 12
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Investigation|Investigation]] +1, [[rangoric-srd/skills/Perception|Perception]] +12
 - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
@@ -82,8 +82,8 @@ A gibbering mouther attacks by shooting out strings of protoplasmic flesh, each 
 
 **Engulf (Ex)**: This ability functions as swallow whole, except for the following changes. An engulfed creature is trapped in the gibbering mouther's body, where several of its mouths continue to feed and drain blood. A gibbering mouther can engulf only one foe of its size or smaller at a time. If an engulfed creature cuts its way free (the mouther's damage reduction still applies to those inside), the mouther simply flows together again and can still use its engulf attack.
 
-**Gibbering (Su)**: As a free action, a gibbering mouther can emit a cacophony of maddening sound. All creatures other than gibbering mouthers within 60 feet must succeed on a DC 13 Will save or be [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]] for 1 round. This is a mind-affecting compulsion insanity effect. A creature that saves cannot be affected by the same mouther's gibbering for 24 hours. The save DC is Constitution-based.
+**Gibbering (Su)**: As a free action, a gibbering mouther can emit a cacophony of maddening sound. All creatures other than gibbering mouthers within 60 feet are attacked at +3 vs Will, and on a hit are [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]] for 1 round. This is a mind-affecting compulsion insanity effect. A creature the gibbering misses cannot be affected by the same mouther's gibbering for 24 hours. The attack bonus is Constitution-based.
 
 **Ground Manipulation (Su)**: At will as a standard action, a gibbering mouther can cause stone and earth under its body to grow soft and muddy. The ground remains muddy for 1 minute after the mouther moves off of the location. A gibbering mouther can move through these areas with ease, but other creatures treat them as difficult terrain.
 
-**Spittle (Ex)**: Each round as a free action, a gibbering mouther can emit a stream of acidic spittle at one target within 30 feet. On a successful attack, the target is [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] for 1d4 rounds unless he succeeds on a DC 18 Fortitude save. The save DC is Constitution-based.
+**Spittle (Ex)**: Each round as a free action, a gibbering mouther can emit a stream of acidic spittle at one target within 30 feet. On a successful attack, the target is [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] for 1d4 rounds if the spittle hits him at +8 vs Fortitude. The attack bonus is Constitution-based.

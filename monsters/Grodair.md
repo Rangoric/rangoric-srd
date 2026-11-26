@@ -16,7 +16,7 @@ full-attack: "Bite +11 melee (1d8+4) and 2 tentacles +6 melee (1d4+2 plus trip);
 space-reach: "5 ft./5 ft."
 special-attacks: "Death flood, push (water blast, 5 ft.), spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, amphibious, muddy field"
-saves: "Fort +11, Ref +4, Will +5"
+defenses: "Fort 21, Ref 14, Will 15"
 abilities: "Str 18, Dex 8, Con 19, Int 12, Wis 13, Cha 15"
 skills: "Athletics +22, Fieldcraft +8, Nature +8"
 skill-ranks: "Athletics 15, Fieldcraft 4, Nature 4"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Death Flood|Death flood]], [[rangoric-srd/monsters/abilities/Push|push]] (water blast, 5 ft.), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Muddy Field|muddy field]]
-- **Saves**: Fort +11, Ref +4, Will +5
+- **Defenses**: Fort 21, Ref 14, Will 15
 - **Abilities**: Str 18, Dex 8, Con 19, Int 12, Wis 13, Cha 15
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +22, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8, [[rangoric-srd/skills/Nature|Nature]] +8
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (water blast)
@@ -72,7 +72,7 @@ Grodairs speak Aquan and Sylvan.
 
 **[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 7th; concentration +9): At will—_[[rangoric-srd/spells/Control Water|control water]]_.
 
-**[[rangoric-srd/monsters/abilities/Death Flood|Death Flood]] (Su)**: When a grodair is killed, it immediately explodes in a 15-foot-radius burst of highly pressurized water that deals 5d6 points of bludgeoning damage (DC 17 Reflex for half). After the explosion, a successful DC 25 Fieldcraft check allows a creature to recover a cluster of strange organs from the remains. This cluster functions as a decanter of endless water for 2d6 hours, but can only produce a “stream” or “fountain” effect. Failing this Fieldcraft check by 5 or more causes the cluster to burst, dealing an additional 2d6 points of damage to that creature (no save) and destroying the organs entirely. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Death Flood|Death Flood]] (Su)**: When a grodair is killed, it immediately explodes in a 15-foot-radius burst of highly pressurized water that deals 5d6 points of bludgeoning damage (+7 vs Reflex; a miss halves). After the explosion, a successful DC 25 Fieldcraft check allows a creature to recover a cluster of strange organs from the remains. This cluster functions as a decanter of endless water for 2d6 hours, but can only produce a “stream” or “fountain” effect. Failing this Fieldcraft check by 5 or more causes the cluster to burst, dealing an additional 2d6 points of damage to that creature (no attack against a defense) and destroying the organs entirely. The attack bonus is Constitution-based.
 
 **[[rangoric-srd/monsters/abilities/Muddy Field|Muddy Field]] (Su)**: As a standard action when on sand, soil, or other types of loose earth, a grodair can gush standing water into the area surrounding it. Upon doing so, the land within 15 feet of the grodair is treated as a shallow bog. This water remains as long as the grodair is within 15 feet and wishes to maintain the water. The bog instantly disperses as soon as the grodair is killed or moves out of the area.
 

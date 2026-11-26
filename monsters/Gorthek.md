@@ -13,9 +13,9 @@ cmd: "27 (29 vs. bull rush or sunder, 31 vs. trip)"
 attack: "Gore +16 melee (2d6+16)"
 full-attack: "Gore +16 melee (2d6+16)"
 space-reach: "10 ft./5 ft."
-special-attacks: "Powerful charge (gore, 4d6+22), trample (2d6+16, DC 25)"
+special-attacks: "Powerful charge (gore, 4d6+22), trample (2d6+16, +15 vs Reflex)"
 special-qualities: "Darkvision 60 ft., low-light vision, damage reduction 5/—"
-saves: "Fort +13, Ref +5, Will +3"
+defenses: "Fort 23, Ref 15, Will 13"
 abilities: "Str 32, Dex 9, Con 21, Int 2, Wis 10, Cha 5"
 skills: "Perception +12"
 skill-ranks: "Perception 9"
@@ -47,9 +47,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Gore +16 melee (2d6+16)
 - **Full Attack**: Gore +16 melee (2d6+16)
 - **Space/Reach**: 10 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Powerful Charge|Powerful charge]] (gore, 4d6+22), [[rangoric-srd/monsters/abilities/Trample|trample]] (2d6+16, DC 25)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Powerful Charge|Powerful charge]] (gore, 4d6+22), [[rangoric-srd/monsters/abilities/Trample|trample]] (2d6+16, +15 vs Reflex)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/—
-- **Saves**: Fort +13, Ref +5, Will +3
+- **Defenses**: Fort 23, Ref 15, Will 13
 - **Abilities**: Str 32, Dex 9, Con 21, Int 2, Wis 10, Cha 5
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +12
 - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Power Attack|Power Attack]]

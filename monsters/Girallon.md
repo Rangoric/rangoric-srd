@@ -15,7 +15,7 @@ full-attack: "Bite +10 melee (1d6+4) and 4 claws +10 melee (1d4+4 plus rend)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Rend (4 claws, 1d4+6)"
 special-qualities: "Darkvision 60 ft., low-light vision, scent"
-saves: "Fort +9, Ref +8, Will +5"
+defenses: "Fort 19, Ref 18, Will 15"
 abilities: "Str 19, Dex 17, Con 18, Int 2, Wis 12, Cha 7"
 skills: "Athletics +12, Perception +11, Stealth +5"
 skill-ranks: "Athletics 5, Perception 7, Stealth 3"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rend|Rend]] (4 claws, 1d4+6)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +9, Ref +8, Will +5
+- **Defenses**: Fort 19, Ref 18, Will 15
 - **Abilities**: Str 19, Dex 17, Con 18, Int 2, Wis 12, Cha 7
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +5
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Toughness|Toughness]]

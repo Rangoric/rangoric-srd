@@ -13,9 +13,9 @@ cmd: "26"
 attack: "Gore +14 melee (2d8+7) or hoof +14 melee (1d6+3)"
 full-attack: "Gore +14 melee (2d8+7) and 2 hooves +9 melee (1d6+3)"
 space-reach: "10 ft./5 ft."
-special-attacks: "Breath weapon (60-foot cone, turn to stone, Fortitude DC 21 negates), trample (2d8+10, DC 21)"
+special-attacks: "Breath weapon (60-foot cone, turn to stone, +11 vs Fortitude), trample (2d8+10, +11 vs Reflex)"
 special-qualities: "Darkvision 60 ft., low-light vision, scent"
-saves: "Fort +13, Ref +6, Will +7"
+defenses: "Fort 23, Ref 16, Will 17"
 abilities: "Str 24, Dex 10, Con 24, Int 2, Wis 16, Cha 9"
 skills: "Perception +17"
 skill-ranks: "Perception 11"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Gore +14 melee (2d8+7) or hoof +14 melee (1d6+3)
 - **Full Attack**: Gore +14 melee (2d8+7) and 2 hooves +9 melee (1d6+3)
 - **Space/Reach**: 10 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (60-foot cone, turn to stone, Fortitude DC 21 negates), [[rangoric-srd/monsters/abilities/Trample|trample]] (2d8+10, DC 21)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (60-foot cone, turn to stone, +11 vs Fortitude), [[rangoric-srd/monsters/abilities/Trample|trample]] (2d8+10, +11 vs Reflex)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +13, Ref +6, Will +7
+- **Defenses**: Fort 23, Ref 16, Will 17
 - **Abilities**: Str 24, Dex 10, Con 24, Int 2, Wis 16, Cha 9
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +17
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -74,4 +74,4 @@ There is no way to calm these furious creatures, and they are impossible to dome
 
 Whenever possible, a gorgon begins an encounter by [[rangoric-srd/combat/Combat Special Attacks#Charge|charging]] at its opponents.
 
-**Breath Weapon**: A gorgon can use its breath weapon once every 1d4+1 rounds to create a 60-foot cone of green gas. Those caught in the area of the gas can attempt a DC 21 Fortitude save to resist the effects, but those who fail the save are immediately [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|petrified]]. This petrification is temporary—each round, a petrified creature can attempt a new DC 21 Fortitude save to recover from the petrification as long as it is not caught within the area of effect of the gorgon's breath weapon a second time while petrified. A creature exposed to the gorgon's breath a second time while already petrified becomes permanently petrified, and can no longer attempt to make additional Fortitude saves to recover naturally. The save DC is Constitution-based.
+**Breath Weapon**: A gorgon can use its breath weapon once every 1d4+1 rounds to create a 60-foot cone of green gas. The gas attacks those caught in its area at +11 vs Fortitude, and a miss resists the effects, but those it hits are immediately [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|petrified]]. This petrification is temporary—each round, the gas attacks a petrified creature again at +11 vs Fortitude, and a miss ends the petrification, as long as it is not caught within the area of effect of the gorgon's breath weapon a second time while petrified. A creature exposed to the gorgon's breath a second time while already petrified becomes permanently petrified, and the gas no longer attacks it again to let it recover naturally. The attack bonus is Constitution-based.

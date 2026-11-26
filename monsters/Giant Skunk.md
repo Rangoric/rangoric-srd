@@ -15,7 +15,7 @@ full-attack: "Bite +5 melee (1d8+3) and 2 claws +5 melee (1d6+3); or spray +5 ra
 space-reach: "10 ft./5 ft."
 special-attacks: "Musk"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +5, Ref +7, Will +2"
+defenses: "Fort 15, Ref 17, Will 12"
 abilities: "Str 17, Dex 16, Con 13, Int 2, Wis 12, Cha 9"
 skills: "Athletics +7, Fieldcraft +2, Perception +7"
 skill-ranks: "Athletics 1, Fieldcraft 1, Perception 3"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Musk|Musk]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +5, Ref +7, Will +2
+- **Defenses**: Fort 15, Ref 17, Will 12
 - **Abilities**: Str 17, Dex 16, Con 13, Int 2, Wis 12, Cha 9
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +7, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +2, [[rangoric-srd/skills/Perception|Perception]] +7
 - **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (musk), [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]]
@@ -65,4 +65,4 @@ Much larger than their passive cousins, giant skunks are an aggressive lot. Havi
 
 ### Combat
 
-**Musk (Ex)**: Up to twice per day, a giant skunk can spray a stream of noxious musk at a single target within 30 feet as a standard action. With a successful ranged touch attack, the creature struck by this spray must make a DC 17 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1d6 rounds and then [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1d6 minutes by the horrific stench. A successful save reduces the effect to only 1d4 rounds of being sickened. A creature cannot use the scent ability as long as it is affected by this musk. The save DC is Constitution-based, and includes a +2 racial bonus.
+**Musk (Ex)**: Up to twice per day, a giant skunk can spray a stream of noxious musk at a single target within 30 feet as a standard action. With a successful ranged touch attack, the creature struck by this spray is attacked at +7 vs Fortitude, and on a hit is [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1d6 rounds and then [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1d6 minutes by the horrific stench. A miss reduces the effect to only 1d4 rounds of being sickened. A creature cannot use the scent ability as long as it is affected by this musk. The attack bonus is Constitution-based, and includes a +2 racial bonus.

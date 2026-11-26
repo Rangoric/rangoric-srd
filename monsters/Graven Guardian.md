@@ -15,7 +15,7 @@ full-attack: "+1 keen scimitar +10/+5 melee (1d6+5/15–20 plus bleed); or slam 
 space-reach: "5 ft./5 ft."
 special-attacks: "Bleed 2, magic weapon, rest eternal, spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, fast healing 2, guardian domains (Death, Repose), damage reduction 5/adamantine, construct traits, spell resistance 16, faith bound"
-saves: "Fort +2, Ref +4, Will +3"
+defenses: "Fort 12, Ref 14, Will 13"
 abilities: "Str 16, Dex 15, Con —, Int —, Wis 12, Cha 1"
 skills: "—"
 skill-ranks: ""
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] 2, [[rangoric-srd/monsters/abilities/Magic Weapon|magic weapon]], rest eternal, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 2, guardian domains (Death, Repose), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/adamantine, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 16, [[rangoric-srd/monsters/abilities/Faith Bound|faith bound]]
-- **Saves**: Fort +2, Ref +4, Will +3
+- **Defenses**: Fort 12, Ref 14, Will 13
 - **Abilities**: Str 16, Dex 15, Con —, Int —, Wis 12, Cha 1
 - **Skills**: —
 - **Feats**: —
@@ -65,7 +65,7 @@ Graven guardians are human-sized constructs of clay, stone, wood, or similar mat
 
 Graven guardians are inexorably tied to a specific deity's faith. While unintelligent and thus lacking any real personality, a graven guardian has the ability to recognize fellow worshipers or minions of its deity and does not treat them as enemies unless they first attack. This recognition does not extend so far as to allow these worshipers (or those cunningly disguised as worshipers) to give a graven guardian new orders. As with all constructs, a graven guardian follows only the orders of its creator.
 
-Each graven guardian gains a special ability from two domains assigned during construction. Save DCs for these abilities are Wisdom-based (DC 14 for most guardians). Caster level for these abilities is equal to the graven guardian's Hit Dice (CL 6th for most graven guardians).
+Each graven guardian gains a special ability from two domains assigned during construction. Attack bonuses for these abilities are Wisdom-based (+4 for most guardians). Caster level for these abilities is equal to the graven guardian's Hit Dice (CL 6th for most graven guardians).
 
 ### Combat
 
@@ -77,7 +77,7 @@ Each graven guardian gains a special ability from two domains assigned during co
 
 **[[rangoric-srd/class-options/domains/Air Domain|Air]] (Su)**: _Flight_ —The graven guardian gains a fly speed equal to its base speed with average maneuverability and an Acrobatics skill of +6 (this includes a +4 racial bonus).
 
-**[[rangoric-srd/class-options/domains/Animal Domain|Animal]] (Su)**: _Beast Ward_ —Animals must make a Will save before they can attack the graven guardian. Any attack on an animal (but not its allies) by the graven guardian breaks this protection. Once the animal makes this Will save, it need not save again against that particular graven guardian on subsequent attacks.
+**[[rangoric-srd/class-options/domains/Animal Domain|Animal]] (Su)**: _Beast Ward_ —The ward attacks an animal's Will before it can attack the graven guardian, and on a hit it can't. Any attack on an animal (but not its allies) by the graven guardian breaks this protection. Once the ward misses an animal, that particular graven guardian's ward doesn't attack it again on subsequent attacks.
 
 **[[rangoric-srd/class-options/domains/Artifice Domain|Artifice]] (Ex)**: _Repair_ —The graven guardian's fast healing increases to 5.
 
@@ -85,7 +85,7 @@ Each graven guardian gains a special ability from two domains assigned during co
 
 **[[rangoric-srd/class-options/domains/Charm Domain|Charm]] (Su)**: _[[rangoric-srd/spells/Command|Command]]_ —The graven guardian can cast _[[rangoric-srd/spells/Command|command]]_ three times per day as a spell-like ability.
 
-**[[rangoric-srd/class-options/domains/Community Domain|Community]] (Su)**: _Alliance_ —Adjacent worshipers and graven guardians dedicated to the same god gain a +1 luck bonus on attack rolls, weapon damage rolls, and saves.
+**[[rangoric-srd/class-options/domains/Community Domain|Community]] (Su)**: _Alliance_ —Adjacent worshipers and graven guardians dedicated to the same god gain a +1 luck bonus on attack rolls, weapon damage rolls, and defenses.
 
 **[[rangoric-srd/class-options/domains/Darkness Domain|Darkness]] (Su)**: _[[rangoric-srd/spells/Darkness|Darkness]]_ —The graven guardian can cast _[[rangoric-srd/spells/Darkness|darkness]]_ two times per day as a spell-like ability.
 
@@ -111,7 +111,7 @@ Each graven guardian gains a special ability from two domains assigned during co
 
 **[[rangoric-srd/class-options/domains/Liberation Domain|Liberation]] (Su)**: _Unfettered_ —The graven guardian gains a +4 bonus to its CMD.
 
-**[[rangoric-srd/class-options/domains/Luck Domain|Luck]] (Su)**: _Lucky_ —Once per day, the graven guardian may roll a saving throw twice and take the better of the two results as the actual result.
+**[[rangoric-srd/class-options/domains/Luck Domain|Luck]] (Su)**: _Lucky_ —Once per day, the graven guardian may make an attack against its defense roll twice and take the worse of the two results as the actual result.
 
 **[[rangoric-srd/class-options/domains/Madness Domain|Madness]] (Su)**: _[[rangoric-srd/spells/Confusion|Confusion]]_ —The graven guardian can cast _[[rangoric-srd/spells/Confusion|confusion]]_ once per day as a spell-like ability.
 
@@ -121,7 +121,7 @@ Each graven guardian gains a special ability from two domains assigned during co
 
 **[[rangoric-srd/class-options/domains/Plant Domain|Plant]] (Su)**: _[[rangoric-srd/spells/Entangle|Entangle]]_ —The graven guardian can cast _[[rangoric-srd/spells/Entangle|entangle]]_ three times per day as a spell-like ability.
 
-**[[rangoric-srd/class-options/domains/Protection Domain|Protection]] (Su)**: _Protected_ —The graven guardian gains a +2 bonus on all saves.
+**[[rangoric-srd/class-options/domains/Protection Domain|Protection]] (Su)**: _Protected_ —The graven guardian gains a +2 bonus on all defenses.
 
 **[[rangoric-srd/class-options/domains/Repose Domain|Repose]] (Su)**: _[[rangoric-srd/spells/Rest Eternal|Rest Eternal]]_ —Damage dealt by the graven guardian resists any magical healing. Attempting to use magical healing to cure this damage requires a successful caster level check against the guardian's SR. This ability does not affect natural healing or healing provided by extraordinary abilities.
 
@@ -129,7 +129,7 @@ Each graven guardian gains a special ability from two domains assigned during co
 
 **[[rangoric-srd/class-options/domains/Strength Domain|Strength]] (Ex)**: _Powerful_ —The graven guardian gains Power Attack as a bonus feat.
 
-**[[rangoric-srd/class-options/domains/Sun Domain|Sun]] (Su)**: _Dazzling_ —When the graven guardian scores a critical hit with its magic weapon, a bright flash blinds the target for 1d4 rounds (Fortitude save negates).
+**[[rangoric-srd/class-options/domains/Sun Domain|Sun]] (Su)**: _Dazzling_ —When the graven guardian scores a critical hit with its magic weapon, a bright flash blinds the target for 1d4 rounds (vs Fortitude).
 
 **[[rangoric-srd/class-options/domains/Travel Domain|Travel]] (Su)**: _Speedy_ —The guardian gains Mobility as a bonus feat, and all of its modes of movement increase by +10 feet.
 

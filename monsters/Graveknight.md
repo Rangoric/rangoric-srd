@@ -14,9 +14,9 @@ cmd: "29"
 attack: "+1 greatsword +25 melee (2d6+19 plus 2d6 acid) or composite longbow +14 ranged (1d8+11/×3)"
 full-attack: "+1 greatsword +25/+20 melee (2d6+19 plus 2d6 acid); or composite longbow +14/+9 ranged (1d8+11/×3)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Channel destruction, devastating blast (6d6 acid, DC 19), undead mastery (DC 19), weapon training (heavy blades +2, bows +1)"
+special-attacks: "Channel destruction, devastating blast (6d6 acid, +9 vs Reflex), undead mastery (+9 vs Will), weapon training (heavy blades +2, bows +1)"
 special-qualities: "Darkvision 60 ft., sacrilegious aura (30 ft., DC 19), bravery +3, channel resistance +4, rejuvenation, armor training 2, phantom mount, ruinous revivification, damage reduction 10/magic, immunity to acid, cold and electricity, undead traits, spell resistance 22"
-saves: "Fort +13, Ref +6, Will +6"
+defenses: "Fort 23, Ref 16, Will 16"
 abilities: "Str 27, Dex 12, Con —, Int 15, Wis 12, Cha 18"
 skills: "Animal Handling +19, Athletics +13, Intimidation +25, Perception +19, Society +12"
 skill-ranks: "Animal Handling 7, Athletics 2, Intimidation 10, Perception 7, Society 7"
@@ -56,9 +56,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: +1 [[rangoric-srd/equipment/weapons/Greatsword|greatsword]] +25 melee (2d6+19 plus 2d6 acid) or [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +14 ranged (1d8+11/×3)
 - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Greatsword|greatsword]] +25/+20 melee (2d6+19 plus 2d6 acid); or [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +14/+9 ranged (1d8+11/×3)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/Graveknight#^channel-destruction|Channel destruction]], [[rangoric-srd/monsters/Graveknight#^devastating-blast|devastating blast]] (6d6 acid, DC 19), [[rangoric-srd/monsters/Graveknight#^undead-mastery|undead mastery]] (DC 19), [[rangoric-srd/classes/Fighter#^fighter-weapon-training|weapon training]] (heavy blades +2, bows +1)
+- **Special Attacks**: [[rangoric-srd/monsters/Graveknight#^channel-destruction|Channel destruction]], [[rangoric-srd/monsters/Graveknight#^devastating-blast|devastating blast]] (6d6 acid, +9 vs Reflex), [[rangoric-srd/monsters/Graveknight#^undead-mastery|undead mastery]] (+9 vs Will), [[rangoric-srd/classes/Fighter#^fighter-weapon-training|weapon training]] (heavy blades +2, bows +1)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/Graveknight#^sacrilegious-aura|sacrilegious aura]] (30 ft., DC 19), [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +3, [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/Graveknight#^rejuvenation|rejuvenation]], [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 2, [[rangoric-srd/monsters/Graveknight#^phantom-mount|phantom mount]], [[rangoric-srd/monsters/Graveknight#^ruinous-revivification|ruinous revivification]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, cold and electricity, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 22
-- **Saves**: Fort +13, Ref +6, Will +6
+- **Defenses**: Fort 23, Ref 16, Will 16
 - **Abilities**: Str 27, Dex 12, Con —, Int 15, Wis 12, Cha 18
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +19, [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Intimidation|Intimidation]] +25, [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Society|Society]] +12
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Dazzling Display|Dazzling Display]], [[rangoric-srd/feats/Greater Weapon Focus|Greater Weapon Focus]] (greatsword), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Power Attack|Power Attack]], Ride-By Attack<sup>B</sup>, [[rangoric-srd/feats/Shatter Defenses|Shatter Defenses]], [[rangoric-srd/feats/Spirited Charge|Spirited Charge]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Trample|Trample]], [[rangoric-srd/feats/Unseat|Unseat]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (greatsword), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (greatsword)
@@ -82,7 +82,7 @@ Undying tyrants and eternal champions of the undead, graveknights arise from the
 
 **Alignment**: Any evil.
 
-**Type**: The graveknight's type changes to undead (augmented). Do not recalculate class Hit Dice, BAB, or saves.
+**Type**: The graveknight's type changes to undead (augmented). Do not recalculate class Hit Dice, BAB, or defenses.
 
 **Senses**: A graveknight gains darkvision 60 ft.
 
@@ -102,13 +102,13 @@ The graveknight also gains the following ability.
 
 **Attacks**: A graveknight gains a slam attack if the base creature didn't have one. Damage for the slam depends on the graveknight's size (see [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^natural-weapons|Natural Attacks by Size]]).
 
-**Special Attacks (Su)**: A graveknight gains the following special attacks. Save DCs are equal to 10 + 1/2 the graveknight's HD + the graveknight's Charisma modifier unless otherwise noted.
+**Special Attacks (Su)**: A graveknight gains the following special attacks. Attack bonuses are 1/2 the graveknight's HD + the graveknight's Charisma modifier unless otherwise noted.
 
 **Channel Destruction (Su)**: Any weapon a graveknight wields seethes with energy, and deals an additional 1d6 points of damage for every 4 Hit Dice the graveknight has. This additional damage is of the energy type determined by the ruinous revivification special quality. ^channel-destruction
 
-**Devastating Blast (Su)**: Three times per day, the graveknight may unleash a 30-foot cone of energy as a standard action. This blast deals 2d6 points of damage for every 3 Hit Dice a graveknight has (Reflex for half). This damage is of the energy type determined by the graveknight's ruinous revivification special quality. ^devastating-blast
+**Devastating Blast (Su)**: Three times per day, the graveknight may unleash a 30-foot cone of energy as a standard action. This blast deals 2d6 points of damage for every 3 Hit Dice a graveknight has (vs Reflex; a miss halves). This damage is of the energy type determined by the graveknight's ruinous revivification special quality. ^devastating-blast
 
-**Undead Mastery (Su)**: As a standard action, a graveknight can attempt to bend any undead creature within 50 feet to its will. The targeted undead must succeed at a Will save or fall under the graveknight's control. This control is permanent for unintelligent undead; an undead with an Intelligence score is allowed an additional save every day to break free from the graveknight's control. A creature that successfully saves cannot be affected again by the same graveknight's undead mastery for 24 hours. ^undead-mastery
+**Undead Mastery (Su)**: As a standard action, a graveknight can attempt to bend any undead creature within 50 feet to its will. The ability attacks the targeted undead's Will, and on a hit it falls under the graveknight's control. This control is permanent for unintelligent undead; the ability attacks an undead with an Intelligence score again every day, and a miss frees it from the graveknight's control. A creature it misses cannot be affected again by the same graveknight's undead mastery for 24 hours. ^undead-mastery
 
 A graveknight can control 5 Hit Dice of undead creatures for every Hit Die it has. If the graveknight exceeds this number, the excess from earlier uses of the ability becomes uncontrolled, as per _[[rangoric-srd/spells/Animate Dead|animate dead]]_.
 

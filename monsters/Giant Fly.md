@@ -15,7 +15,7 @@ full-attack: "Bite +2 melee (1d6+1 plus disease)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Disease"
 special-qualities: "Darkvision 60 ft., immunity to disease and mind-affecting effects"
-saves: "Fort +6, Ref +3, Will –2"
+defenses: "Fort 16, Ref 13, Will 8"
 abilities: "Str 12, Dex 17, Con 16, Int —, Wis 7, Cha 2"
 skills: "Acrobatics +7, Athletics +9, Perception +2"
 skill-ranks: "Acrobatics 1, Athletics 5, Perception 0"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Disease|Disease]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease and mind-affecting effects
-- **Saves**: Fort +6, Ref +3, Will –2
+- **Defenses**: Fort 16, Ref 13, Will 8
 - **Abilities**: Str 12, Dex 17, Con 16, Int —, Wis 7, Cha 2
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Perception|Perception]] +2
 - **Feats**: —
@@ -65,4 +65,4 @@ Much like their tiny cousins, giant flies feed upon carrion. Wholly monstrous, t
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Ex)**: [[rangoric-srd/rules/afflictions/Filth Fever|Filth Fever]]: Bite—injury; _save_ Fort DC 14; _onset_ 1d3 days; _frequency_ 1/day; _effect_ 1d3 Dex damage and 1d3 Con damage; _cure_ 2 consecutive saves. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Ex)**: [[rangoric-srd/rules/afflictions/Filth Fever|Filth Fever]]: Bite—injury; _attack_ +4 vs Fortitude; _onset_ 1d3 days; _frequency_ 1/day; _effect_ 1d3 Dex damage and 1d3 Con damage; _cure_ 2 consecutive misses. The attack bonus is Constitution-based.

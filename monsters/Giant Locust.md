@@ -15,7 +15,7 @@ full-attack: "Bite +6 melee (1d8+4); or spit +5 ranged touch (1d3 acid)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Voracious"
 special-qualities: "Darkvision 60 ft., leap, immunity to mind-affecting effects, resistance to acid 5"
-saves: "Fort +5, Ref +3, Will +1"
+defenses: "Fort 15, Ref 13, Will 11"
 abilities: "Str 16, Dex 15, Con 13, Int —, Wis 10, Cha 7"
 skills: "Acrobatics +2, Athletics +11 (+29 jumping)"
 skill-ranks: "Acrobatics 0, Athletics 5"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Voracious|Voracious]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Leap|leap]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 5
-- **Saves**: Fort +5, Ref +3, Will +1
+- **Defenses**: Fort 15, Ref 13, Will 11
 - **Abilities**: Str 16, Dex 15, Con 13, Int —, Wis 10, Cha 7
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +2, [[rangoric-srd/skills/Athletics|Athletics]] +11 (+29 jumping)
 - **Feats**: —
