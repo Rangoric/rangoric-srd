@@ -23,7 +23,7 @@ A driver makes her living driving vehicles in the service of those who can pay f
 
 **Hard Drive (Ex)**: When driving a vehicle that uses a group of animals or magical beasts as muscle propulsion, the DCs of all [[rangoric-srd/unearthed-arcana/Vehicles/Vehicle Basics|driving checks]] are reduced by 2, the maximum speed of the vehicle increases by 10 feet, and the acceleration increases by 5 feet. This ability takes the place of [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]].
 
-**Driver's Fortitude (Ex)**: At 3rd level, the driver learns to keep driving and maintain control of her vehicle, even when mortally wounded. If the driver drops below 0 hit points but is not dead, she can attempt a DC 15 Fortitude save each round to remain conscious and in control of her vehicle, though she may take no other actions. This ability replaces [[rangoric-srd/classes/Rogue#^rogue-trap-sense|danger sense]].
+**Driver's Fortitude (Ex)**: At 3rd level, the driver learns to keep driving and maintain control of her vehicle, even when mortally wounded. If the driver drops below 0 hit points but is not dead, she can attempt a DC 15 Fortitude check (1d20 + Fortitude save bonus) each round to remain conscious and in control of her vehicle, though she may take no other actions. This ability replaces [[rangoric-srd/classes/Rogue#^rogue-trap-sense|danger sense]].
 
 **Rogue Talents**: The following [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]] complement the driver archetype: [[rangoric-srd/class-options/rogue-talents/Firearm Training (Rogue Talent)|firearm training]] and [[rangoric-srd/class-options/rogue-talents/Getaway Artist (Rogue Talent)|getaway artist]].
 

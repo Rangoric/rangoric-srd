@@ -28,7 +28,7 @@ A toxitician gives up the mesmerist's stare to craft psychically charged injecti
 
 **Injections (Su)**: At 1st level, the toxitician uses his skill with alchemy and his own psychic powers to create injections. The toxitician can create a number of injections per day equal to his mesmerist level + his Charisma modifier. It takes 1 hour to create the injections. An injection is inert until the toxitician attempts to use it, taking a swift action to infuse it with his psychic power to activate it.
 
-Using an injection requires taking a standard action to attempt a melee touch attack. If the attack hits, the target of an injection takes a –2 penalty on its Will saving throws for a number of minutes equal to 1/2 the toxitician's class level (minimum 1). The penalty becomes –3 at 8th level.
+Using an injection requires taking a standard action to attempt a melee touch attack. If the attack hits, the target of an injection takes a –2 penalty to its Will Defense for a number of minutes equal to 1/2 the toxitician's class level (minimum 1). The penalty becomes –3 at 8th level.
 
 The toxitician can simultaneously attempt a DC 20 Sleight of Hand check to inject the target surreptitiously. If the toxitician uses Sleight of Hand, the target can attempt a [[rangoric-srd/skills/Perception|Perception]] check to detect the attempt, opposed by the Sleight of Hand check result, but detecting the attempt doesn't prevent the creature from being injected. Whenever the toxitician uses Sleight of Hand to administer one of his injections, he can implant it rather than injecting it and then trigger the effect of the injection at a later time. At any point before he regains his injections, the toxitician can trigger an implanted injection as a free action. The toxitician must be within medium range (100 feet + 10 feet per mesmerist level) of the target of the implanted injection.
 
@@ -40,17 +40,17 @@ This ability replaces [[rangoric-srd/classes/Mesmerist#^mesmerist-hypnotic-stare
 
 **Painful Injection (Su)**: The toxitician's injection causes intense pain. This increases the damage the subject takes in the same way as the mesmerist's [[rangoric-srd/classes/Mesmerist#^mesmerist-painful-stare|painful stare]] class feature. This extra damage is dealt automatically, without being triggered by the toxitician, but doesn't increase when the toxitician damages the target and can still be dealt only once per round. This ability replaces painful stare.
 
-**Injection Improvement (Su)**: At 3rd level and every 4 levels thereafter, a toxitician can select one improvement to add to his injections. The toxitician can't choose the same improvement more than once. The toxitician doesn't have to select the improvements when he prepares his injections at the start of the day; the choice is made as part of the swift action to activate the injection. The target can attempt a Fortitude saving throw to resist an injection with an improvement added to it. The DC is 10 + 1/2 the toxitician's class level + the toxitician's Charisma modifier. On a successful save, the target still takes the penalty on its Will saving throws, but not the effects of the improvement. A toxitician can, as a free action, sacrifice one use of his injections to increase the DC of another injection by 2.
+**Injection Improvement (Su)**: At 3rd level and every 4 levels thereafter, a toxitician can select one improvement to add to his injections. The toxitician can't choose the same improvement more than once. The toxitician doesn't have to select the improvements when he prepares his injections at the start of the day; the choice is made as part of the swift action to activate the injection. An injection with an improvement added to it attacks the target’s Fortitude at 1/2 the toxitician's class level + the toxitician's Charisma modifier. On a miss, the target still takes the penalty to its Will Defense, but not the effects of the improvement. A toxitician can, as a free action, sacrifice one use of his injections to increase the attack bonus of another injection by 2.
 
 _Ability Decrease_: The target takes a –2 penalty to one ability score of the toxitician's choosing. At 11th level, the penalty becomes –4.
 
 _Excruciating_: The extra damage from painful injection increases by an amount equal to 2 points + 1 point per 3 mesmerist levels the toxitician possesses.
 
-_Fortitude Decrease_: The target's immune system weakens, imposing a –2 penalty on Fortitude saving throws. At 11th level, the penalty becomes –4.
+_Fortitude Decrease_: The target's immune system weakens, imposing a –2 penalty on Fortitude Defense. At 11th level, the penalty becomes –4.
 
 _Natural Armor Decrease_: The target's skin becomes looser, decreasing its natural armor (if any) by 2. At 11th level, its natural armor bonus instead decreases by 4.
 
-_Reflex Decrease_: The target's body becomes stiffer, imposing a –2 penalty on the target's Reflex saving throws. At 11th level, the penalty becomes –4.
+_Reflex Decrease_: The target's body becomes stiffer, imposing a –2 penalty to the target's Reflex Defense. At 11th level, the penalty becomes –4.
 
 _Slow_: The target's actions become sluggish, reducing its base movement by 10 feet and imposing a –1 penalty on attack rolls. At 11th level, the penalty on attack rolls becomes –2.
 
@@ -58,4 +58,4 @@ This ability replaces [[rangoric-srd/classes/Mesmerist#^mesmerist-bold-stare|bol
 
 **Treatment Vials (Su)**: At 3rd level, a toxitician can create treatment vials when he creates his injections for the day; creating each treatment vial expends one use of [[rangoric-srd/classes/Mesmerist#^mesmerist-touch-treatment|touch treatment]]. A treatment vial has the same benefit as his touch treatment, but anyone can administer it as a standard action. A vial can remove any condition the toxitician is able to remove at his mesmerist level, but can't be used for a break enchantment effect. A treatment vial becomes inert after 24 hours. This ability alters touch treatment.
 
-**Improved Injections (Su)**: At 11th level, the toxitician can add two different improvements to an injection. The injection still requires only one save. This ability replaces [[rangoric-srd/classes/Mesmerist#^mesmerist-glib-lie|glib lie]].
+**Improved Injections (Su)**: At 11th level, the toxitician can add two different improvements to an injection. The injection still makes only one attack. This ability replaces [[rangoric-srd/classes/Mesmerist#^mesmerist-glib-lie|glib lie]].

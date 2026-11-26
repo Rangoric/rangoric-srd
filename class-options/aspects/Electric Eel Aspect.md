@@ -24,6 +24,6 @@ This additional electricity damage increases to 1d3 at 8th level and 1d6 at 15th
 
 At 8th level, your electricity resistance increases to 10 and you gain a +4 racial bonus on Escape Artist checks.
 
-At 15th level, on a critical hit with your tail attack, the creature struck must succeed at a Fortitude save (DC = 10 + half your shifter level + your Constitution modifier) or be [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1d4 rounds.
+At 15th level, on a critical hit with your tail attack, the critical attacks the struck creature’s Fortitude at half your shifter level + your Constitution modifier, and on a hit it is [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1d4 rounds.
 
 **Alternate Natural Attacks**: Bite (B, P, S), tail slap (B)

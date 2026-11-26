@@ -53,7 +53,7 @@ Instead of the normal [[rangoric-srd/classes/Magus#^magus-arcane-pool|arcane poo
 
 **Languages and Skills**: A _black blade_ starts with Common as a language. As the _black blade_ increases in Intelligence, it manifests knowledge of languages and arcane lore. Upon reaching an Intelligence of 12, it gains a bonus language of the GM's choice, and gains 1 rank in [[rangoric-srd/skills/Arcana|Arcana]]. Each time the sword gains a bonus to Intelligence, it gains another language and another rank in [[rangoric-srd/skills/Arcana|Arcana]].
 
-**Senses**: A _black blade_ is aware of everything around it like a creature that can see and hear. It can be [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] and [[rangoric-srd/rules/Special Abilities and Conditions#^deafened|deafened]] as if it were a creature. It uses the saving throws of its magus, even if the magus is not currently wielding the _black blade_.
+**Senses**: A _black blade_ is aware of everything around it like a creature that can see and hear. It can be [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] and [[rangoric-srd/rules/Special Abilities and Conditions#^deafened|deafened]] as if it were a creature. It uses the defenses of its magus, even if the magus is not currently wielding the _black blade_.
 
 **Black Blade Arcane Pool**: A _black blade_ has an arcane pool with a number of points equal to 1 + its Intelligence bonus.
 
@@ -71,7 +71,7 @@ Instead of the normal [[rangoric-srd/classes/Magus#^magus-arcane-pool|arcane poo
 
 **Teleport Blade (Sp)**: As a standard action, a magus of 9th level or higher can expend an arcane point from his or his _black blade_'s arcane pool, and can call his _black blade_ from as far as 1 mile away, causing it to instantaneously teleport to his hand.
 
-**Transfer Arcana (Su)**: At 13th level, once per day, a magus can attempt to siphon points from his _black blade_'s arcane pool into his own arcane pool. Doing so takes a full-round action and the magus must succeed at a Will saving throw with a DC equal to the _black blade_'s ego. If the magus succeeds, he regains 1 point to his arcane pool for every 2 points he saps from his _black blade_. If he fails the saving throw, the magus becomes [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]] (but can try again). If he is fatigued, he becomes [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhausted]] instead. He cannot use this ability if he is exhausted.
+**Transfer Arcana (Su)**: At 13th level, once per day, a magus can attempt to siphon points from his _black blade_'s arcane pool into his own arcane pool. Doing so takes a full-round action and the magus must succeed at a Will check (1d20 + Will save bonus) with a DC equal to the _black blade_'s ego. If the magus succeeds, he regains 1 point to his arcane pool for every 2 points he saps from his _black blade_. If he fails the check, the magus becomes [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]] (but can try again). If he is fatigued, he becomes [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhausted]] instead. He cannot use this ability if he is exhausted.
 
 **Spell Defense (Sp)**: A magus of 17th level or higher can expend an arcane point from his weapon's arcane pool as a free action; he then gains [[rangoric-srd/rules/Special Abilities and Conditions#Spell Resistance|SR]] equal to his _black blade_'s ego until the start of his next turn.
 
