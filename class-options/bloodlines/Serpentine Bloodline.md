@@ -29,11 +29,11 @@ Your bloodline carries the lingering stain of ancient serpent races that ruled w
 
 The treacherous and yet hypnotic serpent's blood that flows through you taints your magic with a sinuous and seductive grace.
 
-**Serpent's Fang (Ex)**: At 1st level, you can grow fangs as a free action. These fangs are treated as a natural weapon inflicting 1d4 points of damage plus your Strength modifier (1d3 if you are Small) plus poison (Bite—injury; _save_ Fort DC 10 + 1/2 your sorcerer level + your Constitution modifier; _frequency_ 1/round for 6 rounds; _effect_ 1 Con damage; _cure_ 1 save). At 5th level, these fangs are considered magical for the purpose of overcoming DR and the poison damage increases to 1d2 Con. At 7th level, your poison requires 2 successful saves to cure. At 11th level, your poison damage increases to 1d4 Con. You can use your fangs for a number of rounds per day equal to 3 + your Charisma modifier.
+**Serpent's Fang (Ex)**: At 1st level, you can grow fangs as a free action. These fangs are treated as a natural weapon inflicting 1d4 points of damage plus your Strength modifier (1d3 if you are Small) plus poison (Bite—injury; _attack_ 1/2 your sorcerer level + your Constitution modifier vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1 Con damage; _cure_ 1 miss). At 5th level, these fangs are considered magical for the purpose of overcoming DR and the poison damage increases to 1d2 Con. At 7th level, your poison requires 2 misses to cure. At 11th level, your poison damage increases to 1d4 Con. You can use your fangs for a number of rounds per day equal to 3 + your Charisma modifier.
 
 **Serpentfriend (Ex)**: At 3rd level, you can use _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_ at will with reptilian animals (including various forms of dinosaurs, lizards, and other cold-blooded creatures), and you gain a viper familiar using your sorcerer level –2 as your effective wizard level.
 
-**Snakeskin (Ex)**: At 9th level, you gain a +1 bonus to natural armor, a +2 racial bonus on saves against poison, and a +2 bonus on Escape Artist checks. At 13th level and 17th level, these bonuses increase by +1.
+**Snakeskin (Ex)**: At 9th level, you gain a +1 bonus to natural armor, a +2 racial bonus on defenses against poison, and a +2 bonus on Escape Artist checks. At 13th level and 17th level, these bonuses increase by +1.
 
 **Den of Vipers (Sp)**: At 15th level, you may summon a host of writhing serpents. This power acts as _[[rangoric-srd/spells/Creeping Doom|creeping doom]]_, but the swarms' poison inflicts Con damage and any creature other than you sharing a space with a swarm is entangled.
 

@@ -18,4 +18,4 @@ tags: [rangoric, rangoric/class-option]
 
 _A [[rangoric-srd/classes/Gunslinger#^gunslinger-deeds|gunslinger deed]] (Ex), 15th level._
 
-At 15th level, the gunslinger can spend grit to reroll a saving throw or a skill check. It costs 2 grit points to reroll a saving throw, and 1 grit point to reroll a skill check. The gunslinger must take the result of the second roll, even if it is lower. The deed's cost cannot be reduced by the [[rangoric-srd/classes/Gunslinger#^gunslinger-true-grit|true grit]] class ability, the [[rangoric-srd/feats/Signature Deed|Signature Deed]] feat, or any other effect that reduces the amount of grit a deed costs.
+At 15th level, the gunslinger can spend grit to make an attack against her defense reroll or to reroll a skill check. It costs 2 grit points to make an attack reroll, and 1 grit point to reroll a skill check. The second roll stands, even if it is worse for the gunslinger. The deed's cost cannot be reduced by the [[rangoric-srd/classes/Gunslinger#^gunslinger-true-grit|true grit]] class ability, the [[rangoric-srd/feats/Signature Deed|Signature Deed]] feat, or any other effect that reduces the amount of grit a deed costs.

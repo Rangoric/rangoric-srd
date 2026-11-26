@@ -21,7 +21,7 @@ _A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [
 
 This power replaces the [[rangoric-srd/class-options/domains/Repose Domain#Granted Powers|ward against death]] power of the [[rangoric-srd/class-options/domains/Repose Domain|Repose]] domain.
 
-**Speak With Dead (Su)**: At 8th level, as a standard action, you can ask one question of a dead creature as if using _[[rangoric-srd/spells/Speak with Dead|speak with dead]]_. The dead creature you are questioning does not gain a Will saving throw if your alignments are different. You can use this ability a number of times per day equal to your cleric level.
+**Speak With Dead (Su)**: At 8th level, as a standard action, you can ask one question of a dead creature as if using _[[rangoric-srd/spells/Speak with Dead|speak with dead]]_. This hits the dead creature you are questioning automatically, even if your alignments are different. You can use this ability a number of times per day equal to your cleric level.
 
 ## Replacement Domain Spells
 

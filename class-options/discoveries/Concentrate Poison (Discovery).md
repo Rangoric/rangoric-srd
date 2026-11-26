@@ -18,4 +18,4 @@ tags: [rangoric, rangoric/class-option]
 
 _An [[rangoric-srd/classes/Alchemist#^alchemist-discovery|alchemist discovery]]._
 
-The alchemist can combine two doses of the same poison to increase their effects. This requires two doses of the poison and 1 minute of concentration. When completed, the alchemist has one dose of poison. The [[rangoric-srd/rules/Afflictions#Poison|poison]]’s frequency is extended by 50% and the save DC increases by +2. This poison must be used within 1 hour of its creation or it is ruined.
+The alchemist can combine two doses of the same poison to increase their effects. This requires two doses of the poison and 1 minute of concentration. When completed, the alchemist has one dose of poison. The [[rangoric-srd/rules/Afflictions#Poison|poison]]’s frequency is extended by 50% and its attack bonus increases by +2. This poison must be used within 1 hour of its creation or it is ruined.
