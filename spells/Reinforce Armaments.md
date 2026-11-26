@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "One armor suit or weapon touched"
 duration: "10 minutes/level"
-saving-throw: "Will negates (harmless, object)"
+defense: "Will (harmless, object)"
 spell-resistance: "Yes (harmless, object)"
 book: "Ultimate Combat"
 based-on:
@@ -38,7 +38,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: One armor suit or weapon touched
 - **Duration**: 10 minutes/level
-- **Saving Throw**: Will negates (harmless, object)
+- **Defense**: Will (harmless, object)
 - **Spell Resistance**: Yes (harmless, object)
 
 You reinforce a weapon or armor suit to give it a temporarily upgrade or mitigate the [[rangoric-srd/equipment/Fragile (Quality)|fragile]] quality. A suit of armor or weapon touched that has the fragile quality is not considered to have the fragile quality for the spell's duration. Normal armor suits or weapons subjected to this spell instead gain the masterwork quality for the spell's duration and their hardness is doubled. If this spell is cast on masterwork or magical armor or weapons, their hardness is doubled for the duration of the spell.

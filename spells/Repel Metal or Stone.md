@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "60 ft."
 area: "60-ft. line from you"
 duration: "1 round/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Repel Metal or Stone|Repel Metal or Stone (3.5)]]"
@@ -33,7 +33,7 @@ _Abjuration \[Earth\]_
 - **Range**: 60 ft.
 - **Area**: 60-ft. line from you
 - **Duration**: 1 round/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 Like repel wood, this spell creates waves of [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] and intangible energy that roll forth from you. All metal or stone objects in the path of the spell are pushed away from you to the limit of the range. Fixed metal or stone objects larger than 3 inches in diameter and loose objects weighing more than 500 pounds are not affected. Anything else, including animated objects, small boulders, and creatures in metal armor, moves back. Fixed objects 3 inches in diameter or smaller bend or break, and the pieces move with the wave of energy. Objects affected by the spell are repelled at the rate of 40 feet per round.

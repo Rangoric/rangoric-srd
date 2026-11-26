@@ -18,7 +18,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "Instantaneous"
-saving-throw: "Fortitude negates (harmless)"
+defense: "Fortitude (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Remove Blindness-Deafness|Remove Blindness-Deafness (3.5)]]"
@@ -38,7 +38,7 @@ _Conjuration (Healing)_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: Instantaneous
-- **Saving Throw**: Fortitude negates (harmless)
+- **Defense**: Fortitude (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 Remove blindness/deafness cures [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blindness]] or [[rangoric-srd/rules/Special Abilities and Conditions#^deafened|deafness]] (your choice), whether the effect is normal or magical in nature. The spell does not restore ears or eyes that have been lost, but it repairs them if they are damaged.

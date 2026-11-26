@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 area: "20-ft.-radius emanation"
 duration: "2 hours/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Advanced Race Guide"
 based-on:
@@ -36,7 +36,7 @@ _Evocation \[Good\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Area**: 20-ft.-radius emanation
 - **Duration**: 2 hours/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
-This spell sanctifies an area with heavenly power. The DC to resist spells or spell-like abilities with the good descriptor or channeled energy that damages evil outsiders (as when using Alignment Channel) increases by +2. In addition, evil outsiders take a –1 penalty on attack rolls, damage rolls, and saving throws, and they cannot be called or summoned into a _sacred space_. If the _sacred space_ contains an altar, shrine, or other permanent fixture dedicated to your deity, pantheon, or good-aligned higher power, the modifiers given above are doubled. You cannot cast _sacred space_ in an area with a permanent fixture dedicated to a deity other than yours.
+This spell sanctifies an area with heavenly power. The DC to resist spells or spell-like abilities with the good descriptor or channeled energy that damages evil outsiders (as when using Alignment Channel) increases by +2. In addition, evil outsiders take a –1 penalty on attack rolls, damage rolls, and defenses, and they cannot be called or summoned into a _sacred space_. If the _sacred space_ contains an altar, shrine, or other permanent fixture dedicated to your deity, pantheon, or good-aligned higher power, the modifiers given above are doubled. You cannot cast _sacred space_ in an area with a permanent fixture dedicated to a deity other than yours.

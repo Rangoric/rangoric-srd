@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "1-ft.-diameter/level sphere, centered around a creature"
 duration: "1 min./level (D)"
-saving-throw: "Reflex negates"
+defense: "Reflex"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Resilient Sphere|Resilient Sphere (3.5)]]"
@@ -36,7 +36,7 @@ _Evocation \[Force\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Effect**: 1-ft.-diameter/level sphere, centered around a creature
 - **Duration**: 1 min./level (D)
-- **Saving Throw**: Reflex negates
+- **Defense**: Reflex
 - **Spell Resistance**: Yes
 
 A globe of shimmering force encloses a creature, provided the creature is small enough to fit within the diameter of the sphere. The sphere contains its subject for the spell’s duration. The sphere is not subject to damage of any sort except from a rod of cancellation, a rod of negation, a disintegrate spell, or a targeted dispel magic spell. These effects destroy the sphere without harm to the subject. Nothing can pass through the sphere, inside or out, though the subject can breathe normally.

@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Eidolon touched"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Advanced Player's Guide"
 based-on:
@@ -35,7 +35,7 @@ _Conjuration (Healing)_
 - **Range**: Touch
 - **Target**: Eidolon touched
 - **Duration**: Instantaneous
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 By laying your hand upon an eidolon, you cause its wounds to close and its form to solidify. This spell cures 1d10 points of damage +1 point per caster level (maximum +5).

@@ -12,7 +12,7 @@ casting-time: "1 standard action"
 range: "30 ft."
 area: "30-ft.-radius spread centered on you"
 duration: "Instantaneous"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 book: "Advanced Player's Guide"
 based-on:
@@ -33,7 +33,7 @@ _Evocation \[Sonic\]_
 - **Range**: 30 ft.
 - **Area**: 30-ft.-radius spread centered on you
 - **Duration**: Instantaneous
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
-You emit a shrill, piercing shriek, startling those around you into dropping their guard. Enemies in the area must make a successful saving throw or immediately provoke attacks of opportunity from foes that threaten them. You and your allies are unaffected by your own _screech_.
+You emit a shrill, piercing shriek, startling those around you into dropping their guard. Enemies in the area are attacked against Fortitude, and on a hit immediately provoke attacks of opportunity from foes that threaten them. You and your allies are unaffected by your own _screech_.

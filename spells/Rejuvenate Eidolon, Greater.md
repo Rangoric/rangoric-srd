@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Eidolon touched"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Advanced Player's Guide"
 based-on:
@@ -35,7 +35,7 @@ _Conjuration (Healing)_
 - **Range**: Touch
 - **Target**: Eidolon touched
 - **Duration**: Instantaneous
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 This spell functions as _lesser rejuvenate eidolon_, except that it cures 5d10 points of damage +1 point per caster level (maximum +20).

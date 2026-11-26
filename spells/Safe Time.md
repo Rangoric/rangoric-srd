@@ -12,7 +12,7 @@ casting-time: "1 minute"
 range: "Touch"
 target: "You or creature touched"
 duration: "Contingent until expended, then 1 round of safe time"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 to-develop: "576,000 gp; 12 days; 23,040 XP. Seed: transport (DC 27). Factors: move to time stream (+8 DC), reduce static time to 1 round (ad hoc +4 DC), activates when you would otherwise take 50 or more points of damage (+25 DC)."
 based-on:
@@ -32,7 +32,7 @@ Casting Time: 1 minute
 Range: Touch  
 Target: You or creature touched  
 Duration: Contingent until expended, then 1 round of safe time  
-Saving Throw: None  
+Defense: None  
 Spell Resistance: No  
 To Develop: 576,000 gp; 12 days; 23,040 XP. Seed: transport (DC 27). Factors: move to time stream (+8 DC), reduce static time to 1 round (ad hoc +4 DC), activates when you would otherwise take 50 or more points of damage (+25 DC).
 

@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Armor touched"
 duration: "1 minute/level"
-saving-throw: "Will negates (harmless, object)"
+defense: "Will (harmless, object)"
 spell-resistance: "Yes (harmless, object)"
 book: "Advanced Player's Guide"
 based-on:
@@ -35,7 +35,7 @@ _Abjuration \[Good\]_
 - **Range**: Touch
 - **Target**: Armor touched
 - **Duration**: 1 minute/level
-- **Saving Throw**: Will negates (harmless, object)
+- **Defense**: Will (harmless, object)
 - **Spell Resistance**: Yes (harmless, object)
 
 You imbue your armor with a righteous aura. It gains a +1 enhancement bonus per four caster levels (maximum +5 at 20th level). When using your judgment or smite ability, you gain DR 5/evil.

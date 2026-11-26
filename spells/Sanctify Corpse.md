@@ -19,7 +19,7 @@ casting-time: "1 standard action"
 range: "Touch"
 area: "Corpse touched"
 duration: "24 hours"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Ultimate Magic"
 based-on:
@@ -40,7 +40,7 @@ _Evocation \[Good\]_
 - **Range**: Touch
 - **Area**: Corpse touched
 - **Duration**: 24 hours
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 This spell blesses a corpse with positive energy, preventing it from being turned into an undead creature. Attempts to raise the corpse as an undead automatically fail. If the corpse is of a person slain by a creature that creates undead out of its slain foes (such as a shadow, vampire, or wraith), that effect is delayed until the end of this spell. It is possible to protect a corpse for an extended time by casting this spell each day.

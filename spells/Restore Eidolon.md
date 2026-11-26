@@ -14,7 +14,7 @@ casting-time: "1 minute"
 range: "Touch"
 target: "Eidolon touched"
 duration: "Instantaneous"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Ultimate Magic"
 based-on:
@@ -35,7 +35,7 @@ _Conjuration (Healing)_
 - **Range**: Touch
 - **Target**: Eidolon touched
 - **Duration**: Instantaneous
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 This spell functions as _[[rangoric-srd/spells/Restoration|restoration]]_, except it only affects an eidolon.

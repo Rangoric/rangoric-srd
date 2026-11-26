@@ -18,7 +18,7 @@ casting-time: "10 minutes"
 range: "Touch"
 target: "Dead creature touched"
 duration: "Instantaneous"
-saving-throw: "None; see text"
+defense: "None; see text"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Reincarnate|Reincarnate (3.5)]]"
@@ -39,10 +39,10 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: Dead creature touched
 - **Duration**: Instantaneous
-- **Saving Throw**: None; see text
+- **Defense**: None; see text
 - **Spell Resistance**: Yes (harmless)
 
-With this spell, you bring back a [[rangoric-srd/rules/Special Abilities and Conditions#^dead|dead]] creature in another body, provided that its death occurred no more than one week before the casting of the spell and the subject’s soul is free and willing to return. If the subject’s soul is not willing to return, the spell does not work; therefore, a subject that wants to return receives no saving throw.
+With this spell, you bring back a [[rangoric-srd/rules/Special Abilities and Conditions#^dead|dead]] creature in another body, provided that its death occurred no more than one week before the casting of the spell and the subject’s soul is free and willing to return. If the subject’s soul is not willing to return, the spell does not work; therefore, the spell hits a subject that wants to return automatically.
 
 Since the dead creature is returning in a new body, all physical ills and afflictions are repaired. The condition of the remains is not a factor. So long as some small portion of the creature’s body still exists, it can be reincarnated, but the portion receiving the spell must have been part of the creature’s body at the time of death. The magic of the spell creates an entirely new young adult body for the soul to inhabit from the natural elements at hand. This process takes 1 hour to complete. When the body is ready, the subject is reincarnated.
 

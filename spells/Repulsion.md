@@ -20,7 +20,7 @@ casting-time: "1 standard action"
 range: "Up to 10 ft./level"
 area: "Up to 10-ft.-radius/level emanation centered on you"
 duration: "1 round/level (D)"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Repulsion|Repulsion (3.5)]]"
@@ -40,10 +40,10 @@ _Abjuration_
 - **Range**: Up to 10 ft./level
 - **Area**: Up to 10-ft.-radius/level emanation centered on you
 - **Duration**: 1 round/level (D)
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
-An [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]], mobile field surrounds you and prevents creatures from approaching you. You decide how big the field is at the time of casting (to the limit your level allows). Any creature within or entering the field must attempt a save. If it fails, it becomes unable to move toward you for the duration of the spell. Repelled creatures’ actions are not otherwise restricted.
+An [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]], mobile field surrounds you and prevents creatures from approaching you. You decide how big the field is at the time of casting (to the limit your level allows). The field attacks the Will of any creature within or entering it. On a hit, the creature becomes unable to move toward you for the duration of the spell. Repelled creatures’ actions are not otherwise restricted.
 
 They can fight other creatures and can cast spells and attack you with ranged weapons. If you move closer to an affected creature, nothing happens. (The creature is not forced back.) The creature is free to make melee attacks against you if you come within reach. If a repelled creature moves away from you and then tries to turn back toward you, it cannot move any closer if it is still within the spell’s area.
 

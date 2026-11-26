@@ -12,7 +12,7 @@ casting-time: "1 standard action"
 range: "Personal"
 area: "Burst, 100 ft. + 10 ft./level radius"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 book: "Spells & Magic"
 based-on:
@@ -33,7 +33,7 @@ _Evocation \[Force\]_
 - **Range**: Personal
 - **Area**: Burst, 100 ft. + 10 ft./level radius
 - **Duration**: Instantaneous
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 This spell creates a burst of force that appears as a shimmering, expanding wave, like a ripple in a pond. The caster performs a _bull rush_ against each creature and unattended object weighing less than 25 pounds within the area. The caster is considered to have a Strength score of 15 plus one per caster level, and one roll is made for all opponents. If the _bull rush_ is successful, the caster is considered to follow the creature (the caster does not actually move), although creatures cannot be pushed beyond the range of the spell. If a creature beats the caster in the opposed roll, the caster does not move. Creatures suffer 1d4 nonlethal damage per two caster levels (maximum 10d4) if they collide with a solid, immovable object.

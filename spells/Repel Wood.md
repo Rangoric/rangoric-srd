@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "60 ft."
 area: "60-ft. line-shaped emanation from you"
 duration: "1 min./level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Repel Wood|Repel Wood (3.5)]]"
@@ -33,7 +33,7 @@ _Transmutation_
 - **Range**: 60 ft.
 - **Area**: 60-ft. line-shaped emanation from you
 - **Duration**: 1 min./level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 Waves of energy roll forth from you, moving in the direction that you determine, causing all wooden objects in the path of the spell to be pushed away from you to the limit of the range. Wooden objects larger than 3 inches in diameter that are fixed firmly are not affected, but loose objects are. Objects 3 inches in diameter or smaller that are fixed in place splinter and break, and the pieces move with the wave of energy. Objects affected by the spell are repelled at the rate of 40 feet per round.

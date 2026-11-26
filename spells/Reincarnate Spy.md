@@ -16,7 +16,7 @@ casting-time: "10 minutes"
 range: "Touch"
 target: "Dead creature touched"
 duration: "Instantaneous"
-saving-throw: "None (see text)"
+defense: "None (see text)"
 spell-resistance: "Yes"
 book: "Ultimate Intrigue"
 based-on:
@@ -37,7 +37,7 @@ _Conjuration (Healing)_
 - **Range**: Touch
 - **Target**: Dead creature touched
 - **Duration**: Instantaneous
-- **Saving Throw**: None (see text)
+- **Defense**: None (see text)
 - **Spell Resistance**: Yes
 
 This spell functions as [[rangoric-srd/spells/Reincarnate|reincarnate]] except that you can cause the new body to resemble a particular creature, matching its age category and sex and rerolling any race result that would be the wrong size category. The subject further gains a +5 bonus on Imitation checks to impersonate the chosen creature due to similar features, although it might take a penalty for being the wrong race. The spell automatically leaves you with a small piece of the creature's new body, typically a lock of hair (useful for _[[rangoric-srd/spells/Scrying|scrying]]_ and other such spells).

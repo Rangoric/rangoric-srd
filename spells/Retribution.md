@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature who has just struck you with an attack"
 duration: "1 round/level"
-saving-throw: "Fortitude partial"
+defense: "Fortitude partial"
 spell-resistance: "Yes"
 book: "Advanced Player's Guide"
 based-on:
@@ -34,7 +34,7 @@ _Necromancy \[Evil, Pain\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature who has just struck you with an attack
 - **Duration**: 1 round/level
-- **Saving Throw**: Fortitude partial
+- **Defense**: Fortitude partial
 - **Spell Resistance**: Yes
 
-_Retribution_ blasts those who have the temerity to assault your person. You may target anyone who has just struck you with an attack within the previous round, whether with a melee, ranged, or natural weapon, or a spell that requires an attack roll. The target is wracked with shooting pains that impose a –4 penalty on attack rolls, skills checks, and ability checks. On a successful Fortitude save, the penalty only lasts for 1 round. A target who worships the same god as you takes a –2 penalty on its saving throw.
+_Retribution_ blasts those who have the temerity to assault your person. You may target anyone who has just struck you with an attack within the previous round, whether with a melee, ranged, or natural weapon, or a spell that requires an attack roll. The target is wracked with shooting pains that impose a –4 penalty on attack rolls, skills checks, and ability checks. On a miss, the penalty only lasts for 1 round. A target who worships the same god as you takes a –2 penalty to its Fortitude Defense against the spell.

@@ -12,7 +12,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 effect: "Cloud spreads 30 ft. wide and 20 ft. high"
 duration: "1 round/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Spells & Magic"
 based-on:
@@ -33,7 +33,7 @@ _Necromancy_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Effect**: Cloud spreads 30 ft. wide and 20 ft. high
 - **Duration**: 1 round/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 The _rending mist_ is a cloud of greenish-gray vapors with streaks of red. Any creature entering the mist suffers slashing attacks from the bony blades concealed within the vapors. Any creature that performs all or part of an action, including movement, within the mist suffers one slashing attack per three levels of the caster. The first attack has an attack bonus equal to the caster’s level, and all subsequent attacks have an attack bonus five points lower. Each hit does 1d10 points of damage, and, if the damage roll is a 9 or 10, the victim suffers one point of bleeding damage per round as if struck with a Wounding weapon; multiple ‘wounds’ are cumulative. The bony blades within the mist strike as +2 weapons for purposes of bypassing damage reduction.

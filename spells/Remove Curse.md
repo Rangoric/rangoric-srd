@@ -22,7 +22,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature or item touched"
 duration: "Instantaneous"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Remove Curse|Remove Curse (3.5)]]"
@@ -43,7 +43,7 @@ _Abjuration_
 - **Range**: Touch
 - **Target**: Creature or item touched
 - **Duration**: Instantaneous
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 _Remove curse_ can remove all curses on an object or a creature. If the target is a creature, you must make a caster level check (1d20 + caster level) against the [[rangoric-srd/rules/Afflictions#^affliction-save|DC]] of each [[rangoric-srd/rules/Afflictions#Curse|curse]] affecting the target. Success means that the curse is removed. _Remove curse_ does not remove the curse from a cursed shield, weapon, or suit of armor, although a successful caster level check enables the creature afflicted with any such cursed item to remove and get rid of it. Certain special curses may not be countered by this spell or may be countered only by a caster of a certain level or higher.

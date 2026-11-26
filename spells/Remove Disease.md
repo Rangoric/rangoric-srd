@@ -20,7 +20,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "Instantaneous"
-saving-throw: "Fortitude negates (harmless)"
+defense: "Fortitude (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Remove Disease|Remove Disease (3.5)]]"
@@ -41,7 +41,7 @@ _Conjuration (Healing)_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: Instantaneous
-- **Saving Throw**: Fortitude negates (harmless)
+- **Defense**: Fortitude (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 _Remove disease_ can cure all diseases from which the subject is suffering. You must make a caster level check (1d20 + caster level) against the [[rangoric-srd/rules/Afflictions#^affliction-save|DC]] of each [[rangoric-srd/rules/Afflictions#Disease|disease]] affecting the target. Success means that the disease is cured. The spell also kills some hazards and parasites, including green slime and others. Certain special diseases may not be countered by this spell or may be countered only by a caster of a certain level or higher.
