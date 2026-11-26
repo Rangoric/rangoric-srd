@@ -19,6 +19,6 @@ tags: [rangoric, rangoric/action, first-aid]
 
 A [[rangoric-srd/actions/First Aid|First Aid]] action: make a [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] or [[rangoric-srd/skills/Medicine|Medicine]] check.
 
-**DC**: The disease’s save DC.
+**DC**: 10 + the disease’s attack bonus.
 
-You tend a single diseased character. Every time he or she makes a saving throw against disease effects, you make a check. If your check exceeds the disease’s DC, the character gets a +4 competence bonus on that saving throw. The diseased character must be in your care and must have spent the previous 8 hours resting.
+You tend a single diseased character. Every time a disease attacks him or her, you make a check. If your check exceeds 10 + the disease’s attack bonus, the character gets a +4 competence bonus on its defense against that attack. The diseased character must be in your care and must have spent the previous 8 hours resting.

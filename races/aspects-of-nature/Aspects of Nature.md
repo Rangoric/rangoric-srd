@@ -22,7 +22,7 @@ A creature can only have one Aspect of Nature at any given time. Some class abil
 
 In addition to the bonuses and penalties, there are physical, emotional, and magical manifestations associated with aspects of Nature. A creature’s skin and hair change color to a hue complimentary to the Aspect of Nature chosen. Their taste in clothing changes as well; they begin wearing clothes dyed in colors and made of materials associated with their chosen Aspect.
 
-For example, a feeorin [[rangoric-srd/classes/Sorcerer|sorcerer]] decides to champion the season autumn. After taking the Nature’s Aspect feat, his skin turns a reddish-hued sepia tone, and his hair becomes a mottled orange and brown pattern. His hair also grows thicker and almost twig-like in some places. This change grants him a +3 circumstance bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks in natural surroundings during autumn while leaves shift to vivid colors. Upon choosing the role of a Fey of Autumnal Splendor, he gains a +1 resistance bonus to Reflex saves and a –1 resistance penalty to Fortitude saves.
+For example, a feeorin [[rangoric-srd/classes/Sorcerer|sorcerer]] decides to champion the season autumn. After taking the Nature’s Aspect feat, his skin turns a reddish-hued sepia tone, and his hair becomes a mottled orange and brown pattern. His hair also grows thicker and almost twig-like in some places. This change grants him a +3 circumstance bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks in natural surroundings during autumn while leaves shift to vivid colors. Upon choosing the role of a Fey of Autumnal Splendor, he gains a +1 resistance bonus to Reflex Defense and a –1 resistance penalty to Fortitude Defense.
 
 Any spells cast by the character are also slightly affected by the Aspect of Nature, shifting in their visual or audible effects slightly. These subtle change can help those feats work more effectively (add +1 to the DC of any Mysticism check made to identify an affected spell; see [[rangoric-srd/skills/Mysticism|Mysticism]]). For example, if that feeorin casts the spell _[[rangoric-srd/spells/Magic Missile|magic missile]]_, it still appears as a missile of magical energy darting from his fingertips. His Aspect of the Autumn, however, could manifest a whooshing noise similar to rustling leaves with the normally silent spell, or autumn leaves themselves might seem to stream behind the _magic missile_ as it streaks toward its target.
 
@@ -93,7 +93,7 @@ Permanent Effects are constantly in effect and can not be turned off without cha
 
 **Crude Spellcasting:** When spells of a certain school or descriptor are cast, they are cast as if by a spellcaster of one level lower. This is offset by the _capable spellcasting_ effect on an opposing school or descriptor.
 
-**Saving Throws:** A bonus to one saving throw offsets a penalty to another; these never incur more than a +1/-1 adjustment unless stacking with another facet.
+**Defenses:** A bonus to one defense offsets a penalty to another; these never incur more than a +1/-1 adjustment unless stacking with another facet.
 
 **Spell Resistant:** Resistant is the ability to shrug off one point of damage per die (to a minimum of one point of damage sustained per die) when being injured by a particular element or type of magic. This is offset by the _spell vulnerable_ effect.
 

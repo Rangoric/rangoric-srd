@@ -22,4 +22,4 @@ A sample trap; how traps work, and what each line means, is in [[rangoric-srd/ru
 - **[[rangoric-srd/skills/Engineering|Engineering]]**: DC 34 to disable
 - **Trigger**: visual (_[[rangoric-srd/spells/True Seeing|true seeing]]_)
 - **Reset**: none
-- **Effect**: spell effect (_[[rangoric-srd/spells/Meteor Swarm|meteor swarm]]_, 4 meteors at separate targets, +9 ranged touch, 2d6 plus 6d6 fire [–4 save on a hit], DC 23 Reflex save for half fire damage, 18d6 fire damage from other meteors, DC 23 Reflex save for half damage); multiple targets (four targets, no two of which can be more than 40 ft. apart)
+- **Effect**: spell effect (_[[rangoric-srd/spells/Meteor Swarm|meteor swarm]]_, 4 meteors at separate targets, +9 ranged touch, 2d6 plus 6d6 fire [–4 Reflex Defense on a hit], +13 vs Reflex half fire damage, 18d6 fire damage from other meteors, +13 vs Reflex half); multiple targets (four targets, no two of which can be more than 40 ft. apart)

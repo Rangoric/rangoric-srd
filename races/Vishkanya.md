@@ -24,9 +24,9 @@ Perks:
 - Low-Light Vision: Vishkanyas have [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|low-light vision]].
 - Keen Senses: +2 racial bonus on [[rangoric-srd/skills/Perception|Perception]] checks.
 - Limber: +2 racial bonus on [[rangoric-srd/skills/Escape Artist|Escape Artist]] and [[rangoric-srd/skills/Stealth|Stealth]] checks.
-- Poison Resistance: A vishkanya has a racial bonus on saving throws against poison equal to its character level.
+- Poison Resistance: A vishkanya has a racial bonus on defenses against poison equal to its character level.
 - Poison Use: Vishkanyas have [[rangoric-srd/races/racial-traits/Poison Use|poison use]].
-- Toxic: A number of times per day equal to his Constitution modifier (minimum 1/day), a vishkanya can envenom a weapon that he wields with his toxic saliva or blood (using blood requires the vishkanya to be injured when he uses this ability). Applying venom in this way is a swift action. _Vishkanya Venom_: Injury; _save_ Fort DC 10 + 1/2 the vishkanya's Hit Dice + the vishkanya's Constitution modifier; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Dex; _cure_ 1 save. How poisons work is under [[rangoric-srd/rules/Afflictions#Poison|poison]].
+- Toxic: A number of times per day equal to his Constitution modifier (minimum 1/day), a vishkanya can envenom a weapon that he wields with his toxic saliva or blood (using blood requires the vishkanya to be injured when he uses this ability). Applying venom in this way is a swift action. _Vishkanya Venom_: Injury; _attack_ +1/2 the vishkanya's Hit Dice + the vishkanya's Constitution modifier vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Dex; _cure_ 1 miss. How poisons work is under [[rangoric-srd/rules/Afflictions#Poison|poison]].
 - Weapon Familiarity: Vishkanyas are always proficient with [[rangoric-srd/equipment/weapons/Blowgun|blowguns]], [[rangoric-srd/equipment/weapons/Kukri|kukri]], and [[rangoric-srd/equipment/weapons/Shuriken|shuriken]].
 
 Languages:

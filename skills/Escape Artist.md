@@ -56,8 +56,8 @@ You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill
 
 **5 Ranks**: If you take a –10 penalty, the time required to use this skill is halved; escaping a grapple or pin is a move action, and escaping a net, animate rope, _command plants,_ or control plants spell is a standard action.
 
-**10 Ranks**: You can attempt to escape from any entangling effect as a standard action with an Escape Artist check (DC = the effect's save DC + 10). You can attempt an Escape Artist check as a move action to set the DC for a creature to escape from ropes or bindings; you gain a +10 bonus on the check if you instead attempt it as a full-round action.
+**10 Ranks**: You can attempt to escape from any entangling effect as a standard action with an Escape Artist check (DC = 20 + the effect's attack bonus). You can attempt an Escape Artist check as a move action to set the DC for a creature to escape from ropes or bindings; you gain a +10 bonus on the check if you instead attempt it as a full-round action.
 
-**15 Ranks**: You can escape any entangling effect (as above) as a move action. As a standard action, you can attempt an Escape Artist check (DC = the effect's save DC + 20) to suppress a _slow_ or paralysis effect for 1 round, plus 1 round for every 5 by which you exceed the DC. This action counts as purely mental for the purpose of being able to take it while paralyzed.
+**15 Ranks**: You can escape any entangling effect (as above) as a move action. As a standard action, you can attempt an Escape Artist check (DC = 30 + the effect's attack bonus) to suppress a _slow_ or paralysis effect for 1 round, plus 1 round for every 5 by which you exceed the DC. This action counts as purely mental for the purpose of being able to take it while paralyzed.
 
 **20 Ranks**: You can escape being entangled, grappled, or pinned as an immediate action with an Escape Artist check (DC = the effect's DC + 10 or the attacker's CMB + 10). You can attempt to suppress a _slow_ or paralysis effect as a standard action (increasing the DC by 10), a move action (increasing the DC by 15), or an immediate action (increasing the DC by 20).

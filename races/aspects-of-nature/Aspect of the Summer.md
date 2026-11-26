@@ -33,5 +33,5 @@ How these effects work is in [[rangoric-srd/races/aspects-of-nature/Aspects of N
 | Blazing Sun   | capable spellcasting (light) | crude spellcasting (darkness)  |
 | Drought       | spell resistant (acid)       | spell vulnerable (electricity) |
 | Fiery Equinox | spell resistant (fire)       | spell vulnerable (water)       |
-| The Mirage    | +1 to Reflex saving throws   | -1 to Will saving throws       |
+| The Mirage    | +1 to Reflex Defense         | -1 to Will Defense             |
 | Summer’s Fury | +1 to Attack rolls 3x/day    | -1 to AC 3x/day                |

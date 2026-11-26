@@ -28,10 +28,10 @@ The followers of the Aspect of the Predator are Nature’s hunters, and as such 
 
 How these effects work is in [[rangoric-srd/races/aspects-of-nature/Aspects of Nature#Aspect of Nature Effects|Aspect of Nature Effects]].
 
-| Facet        | Bonus                         | Penalty                   |
-| ------------ | ----------------------------- | ------------------------- |
-| The Arachnid | practiced spell               | amateur spell             |
-| The Canine   | +1 to Damage rolls 3x/day     | -1 to Attack rolls 3x/day |
-| The Feline   | +1 to Reflex saving throws    | -1 to Will saving throws  |
-| The Raptor   | +1 to Fortitude saving throws | -1 to Will saving throws  |
-| The Serpent  | +1 to Attack rolls 3x/day     | -1 to Damage rolls 3x/day |
+| Facet        | Bonus                     | Penalty                   |
+| ------------ | ------------------------- | ------------------------- |
+| The Arachnid | practiced spell           | amateur spell             |
+| The Canine   | +1 to Damage rolls 3x/day | -1 to Attack rolls 3x/day |
+| The Feline   | +1 to Reflex Defense      | -1 to Will Defense        |
+| The Raptor   | +1 to Fortitude Defense   | -1 to Will Defense        |
+| The Serpent  | +1 to Attack rolls 3x/day | -1 to Damage rolls 3x/day |

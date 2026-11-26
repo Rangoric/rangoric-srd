@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/class-bonus]
 
 _A [[rangoric-srd/races/Halfling|halfling]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Druid#^druid-class-bonuses|druid]] level._
 
-Add a +1/4 luck bonus on the saving throws of the druid's [[rangoric-srd/classes/Druid#^druid-animal-companion|animal companion]].
+Add a +1/4 luck bonus on the defenses of the druid's [[rangoric-srd/classes/Druid#^druid-animal-companion|animal companion]].

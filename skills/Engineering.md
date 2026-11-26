@@ -82,6 +82,6 @@ You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill
 
 **10 Ranks**: You can disarm magical traps at a –10 penalty even if you lack the trapfinding ability. If you possess the trapfinding ability, when attempting to disable magic traps, you never trigger them, even if you perform the trigger action (such as looking at a _symbol_). If you fail the check, you can still trigger the trap, and you can't use this ability to bypass it.
 
-**15 Ranks**: When attacked by a trap, you can attempt a Engineering check as an immediate action (adding your trap sense bonus, if any) opposed by the trap's attack roll or its save DC. If you succeed, you take half damage (or no damage if you exceed the DC by at least 10).
+**15 Ranks**: When attacked by a trap, you can attempt a Engineering check as an immediate action (adding your trap sense bonus, if any) opposed by the trap's attack roll. If you succeed, you take half damage (or no damage if you exceed it by at least 10).
 
 **20 Ranks**: You halve the penalties for performing a quick disarm as described in the 5 Ranks entry. If you possess the trapfinding ability and accept a –20 penalty while using the ability unlocked at 15 ranks, all nearby allies gain the benefit, and you disable the trap as an immediate action before it can trigger if you exceed the DC by at least 10.

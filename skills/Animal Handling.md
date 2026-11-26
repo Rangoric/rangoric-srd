@@ -187,9 +187,9 @@ You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill
 
 ### Handling Animals
 
-**5 Ranks**: Creatures you have trained gain a +2 bonus on Will saves when adjacent to you.
+**5 Ranks**: Creatures you have trained gain a +2 bonus on Will Defense when adjacent to you.
 
-**10 Ranks**: Creatures you have trained gain a +2 bonus on Will saves whenever you are within 30 feet and clearly visible. You can teach a trick in 1 day by increasing the DC by 20.
+**10 Ranks**: Creatures you have trained gain a +2 bonus on Will Defense whenever you are within 30 feet and clearly visible. You can teach a trick in 1 day by increasing the DC by 20.
 
 **15 Ranks**: You can train an animal to understand your speech (as speak with animals) with 1 week of effort and a successful DC 30 Animal Handling check. Its actions are still limited by its Intelligence. You can teach a trick in 1 day (increasing the DC by 10) or 1 hour (increasing the DC by 20).
 
@@ -197,10 +197,10 @@ You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill
 
 ### Riding
 
-**5 Ranks**: Your mount gains a +2 bonus on Fortitude saves or Constitution checks to avoid becoming fatigued or exhausted. This bonus increases by 1 for every 5 ranks beyond 5 you possess in Animal Handling.
+**5 Ranks**: Your mount gains a +2 bonus on Fortitude Defense or Constitution checks to avoid becoming fatigued or exhausted. This bonus increases by 1 for every 5 ranks beyond 5 you possess in Animal Handling.
 
-**10 Ranks**: When you spur your mount, its speed is increased by 20 feet, and it gains a +2 bonus on Reflex saves and a +2 dodge bonus to AC.
+**10 Ranks**: When you spur your mount, its speed is increased by 20 feet, and it gains a +2 bonus on Reflex Defense and a +2 dodge bonus to AC.
 
 **15 Ranks**: When an opponent targets you or your mount with a bull rush, drag, overrun, reposition, or trip [[rangoric-srd/combat/Combat Maneuvers|combat maneuver]] while you are mounted, you can substitute the result of a Animal Handling check in place of your (or your mount's) CMD.
 
-**20 Ranks**: When you spur your mount, its speed is increased by 30 feet, and it gains a +4 bonus on Reflex saves and a +4 dodge bonus to AC.
+**20 Ranks**: When you spur your mount, its speed is increased by 30 feet, and it gains a +4 bonus on Reflex Defense and a +4 dodge bonus to AC.

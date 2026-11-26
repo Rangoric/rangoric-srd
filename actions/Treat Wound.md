@@ -18,8 +18,8 @@ tags: [rangoric, rangoric/action, first-aid]
 
 A [[rangoric-srd/actions/First Aid|First Aid]] action: make a [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] or [[rangoric-srd/skills/Medicine|Medicine]] check.
 
-**DC**: 15 for a caltrop; the spell’s save DC for spike growth or spike stones.
+**DC**: 15 for a caltrop; 10 + the spell’s attack bonus for spike growth or spike stones.
 
 A creature wounded by stepping on a caltrop moves at one-half normal speed. A successful check removes this movement penalty.
 
-A creature wounded by a spike growth or spike stones spell must succeed on a Reflex save or take injuries that reduce his speed by one-third. You can remove this penalty by taking 10 minutes to dress the victim’s injuries and succeeding on a check against the spell’s save DC.
+A creature wounded by a spike growth or spike stones spell that fails its save takes injuries that reduce his speed by one-third. You can remove this penalty by taking 10 minutes to dress the victim’s injuries and succeeding on a check against 10 + the spell’s attack bonus.

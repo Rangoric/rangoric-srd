@@ -27,8 +27,8 @@ Perks:
 - +2 Dexterity
 - +2 Wisdom
 - -2 Strength
-- Fearless: +2 racial bonus on all saving throws against fear. This bonus stacks with the bonus granted by halfling luck.
-- Halfling Luck: +1 racial bonus on all saving throws.
+- Fearless: +2 racial bonus on all defenses against fear. This bonus stacks with the bonus granted by halfling luck.
+- Halfling Luck: +1 racial bonus on all defenses.
 - Keen Senses: +2 racial bonus on [[rangoric-srd/skills/Perception|Perception]] checks.
 - Sure-Footed: +2 racial bonus on [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Athletics|Athletics]], and [[rangoric-srd/skills/Stealth|Stealth]] checks.
 - +1 racial bonus on attack rolls with thrown weapons and slings.
@@ -154,7 +154,7 @@ Bundles of alternate traits for halflings of a particular background.
 - **Aquatic Halfling**: More settled than their surface cousins, often living among dwarves and humans for protection from currents and predators. [[rangoric-srd/races/racial-traits/Aquatic Race Traits|Aquatic Race Traits]], with a swim speed of 20 feet. [[rangoric-srd/races/racial-traits/Superior Low-Light Vision|Superior Low-Light Vision]].
 - **Arctic Halfling**: Peaceful, spiritual hunters and fishers of walrus and seal. [[rangoric-srd/races/racial-traits/Cold Endurance|Cold Endurance]]. +2 racial bonus on [[rangoric-srd/skills/Athletics|Athletics]] checks. The +1 attack bonus applies to thrown weapons only, not slings.
 - **Desert Halfling**: Stealthy and nimble-fingered, appearing whether invited or not. [[rangoric-srd/races/racial-traits/Heat Endurance|Heat Endurance]]. +2 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] and [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] checks. Sure-footed has no Athletics bonus.
-- **Jungle Halfling**: Settled river villagers who farm, fish and hunt with poison-tipped weapons. Weapon familiarity also covers the throwing axe, handaxe and shortbow (including composite shortbow). [[rangoric-srd/races/racial-traits/Poison Use|Poison Use]]. No halfling luck and no fearless; instead a +2 racial bonus on Fortitude saves against poison. The +1 attack bonus applies to thrown weapons only, not slings.
+- **Jungle Halfling**: Settled river villagers who farm, fish and hunt with poison-tipped weapons. Weapon familiarity also covers the throwing axe, handaxe and shortbow (including composite shortbow). [[rangoric-srd/races/racial-traits/Poison Use|Poison Use]]. No halfling luck and no fearless; instead a +2 racial bonus on Fortitude Defense against poison. The +1 attack bonus applies to thrown weapons only, not slings.
 
 **Subraces from the 3.5 monster entry.** The [[rangoric-srd/monsters/halfling/Halfling#Subraces|monster Halfling]]'s subraces; each has the halfling's traits except as noted.
 

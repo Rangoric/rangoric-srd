@@ -48,7 +48,7 @@ _Discern Partial Alignment_: This use of the skill lets a character discern one 
 
 _Discern Full Alignment_: This use of the skill lets a character determine both components of a target’s alignment. The character can’t retry the check. The target must be visible and within 30 feet of the character.
 
-_Detect Surface Thoughts_: This lets a character read the surface thoughts of a single target (as the 3rd-round effect of the detect thoughts spell). There is no saving throw to resist this effect, though the target can use Deception to disguise his or her surface thoughts (see the Deception skill description), in which case this becomes an opposed check (any result lower than 100 automatically fails). The target must be visible and within 30 feet of the character.
+_Detect Surface Thoughts_: This lets a character read the surface thoughts of a single target (as the 3rd-round effect of the detect thoughts spell). There is no defense against this effect, though the target can use Deception to disguise his or her surface thoughts (see the Deception skill description), in which case this becomes an opposed check (any result lower than 100 automatically fails). The target must be visible and within 30 feet of the character.
 
 ## Unlocks
 

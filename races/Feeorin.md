@@ -20,7 +20,7 @@ Perks:
 - +2 Charisma
 - -2 Strength
 - Ageless: Feeorin do not age like mortals, and cannot die from old age. Upon reaching physical maturity (roughly 20 human years), feeorin can halt their physical aging at any point.
-- Fey Blood: Feeorin have a +2 racial bonus on saving throws against illusion and enchantment spells and spell-like abilities, which increases by +1 for every two levels they attain (see [[rangoric-srd/races/racial-traits/Fey Blood|fey blood]]).
+- Fey Blood: Feeorin have a +2 racial bonus on defenses against illusion and enchantment spells and spell-like abilities, which increases by +1 for every two levels they attain (see [[rangoric-srd/races/racial-traits/Fey Blood|fey blood]]).
 - Low-Light Vision: Feeorin have [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|low-light vision]].
 - Weapon Familiarity: Feeorin are proficient with either the longsword or the rapier. They are also proficient with the shortbow, longbow, composite shortbow, or composite longbow.
 - Faerie Traits: At 3rd level, a feeorin may pick one ECL point’s worth of [[rangoric-srd/races/Faerie#Faerie Traits|faerie traits]] (including spell-like abilities). Every four levels after that, a feeorin can select another half ECL point’s worth of traits, or save them to buy more expensive traits later.

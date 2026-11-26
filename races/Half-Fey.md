@@ -18,7 +18,7 @@ Perks:
 
 - Ability Scores: Half-fey have the ability score modifiers of their mortal parent’s race, not their fey parent’s.
 - Ageless: Half-fey, despite their mixed heritage, do not age like mortals and cannot die from old age. When they reach young adulthood, half-fey age normally for 3d20 years, and then their appearance doesn’t change. Thus, some stop aging in their twenties or thirties while others gain an aged and wizened appearance. No matter what age a half-fey appears to be, it suffers no aging-related benefits or penalties to ability scores.
-- Fey Blood: Half-fey have a +1 racial bonus on saving throws against illusion and enchantment spells and spell-like abilities, which increases by +1 for every four levels they attain (see [[rangoric-srd/races/racial-traits/Fey Blood|fey blood]]). For all special abilities and effects, half-fey are considered fey: for example, they can use special fey weapons and magic items with racially specific powers as if they were fey.
+- Fey Blood: Half-fey have a +1 racial bonus on defenses against illusion and enchantment spells and spell-like abilities, which increases by +1 for every four levels they attain (see [[rangoric-srd/races/racial-traits/Fey Blood|fey blood]]). For all special abilities and effects, half-fey are considered fey: for example, they can use special fey weapons and magic items with racially specific powers as if they were fey.
 - Low-Light Vision: Half-fey have [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|low-light vision]].
 - Spell-Like Ability: 3/day—_[[rangoric-srd/spells/Good Luck|good luck]]_ or _[[rangoric-srd/spells/Bad Luck|bad luck]]_ (its choice each time) (caster level equal to the half-fey’s character level).
 

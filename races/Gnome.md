@@ -28,9 +28,9 @@ Perks:
 - +2 Charisma
 - -2 Strength
 - Defensive Training: Gnomes have [[rangoric-srd/races/PC Races#^defensive-training|defensive training]].
-- Gnome Magic: Add +1 to the Difficulty Class for all saving throws against illusion spells cast by gnomes. This adjustment stacks with those from similar effects. A gnome with a Charisma score of 11 or higher also has the following spell-like abilities: 1/day—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_, _[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_, and _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_. The caster level for these effects is equal to the gnome’s level; save DC 10 + the spell’s level + the gnome’s Cha modifier.
+- Gnome Magic: Add +1 to the attack bonus of all illusion spells cast by gnomes. This adjustment stacks with those from similar effects. A gnome with a Charisma score of 11 or higher also has the following spell-like abilities: 1/day—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_, _[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_, and _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_. The caster level for these effects is equal to the gnome’s level; attack bonus the spell’s level + the gnome’s Cha modifier.
 - Hatred: +1 racial bonus on attack rolls against reptilian humanoids (such as kobolds) and goblinoids.
-- Illusion Resistance: +2 racial bonus on saving throws against illusions.
+- Illusion Resistance: +2 racial bonus on defenses against illusions.
 - Keen Senses: +2 racial bonus on [[rangoric-srd/skills/Perception|Perception]] checks.
 - Low-Light Vision: Gnomes have [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|low-light vision]]. ^gnome-low-light-vision
 - Obsessive: +2 racial bonus on one [[rangoric-srd/skills/Craft|Craft]] or [[rangoric-srd/skills/Profession|Profession]] skill of the gnome’s choice.
