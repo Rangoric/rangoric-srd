@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "Corpse"
 duration: "Permanent"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Soul Bind|Soul Bind (3.5)]]"
@@ -36,7 +36,7 @@ _Necromancy_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: Corpse
 - **Duration**: Permanent
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: No
 
 You draw the soul from a newly [[rangoric-srd/rules/Special Abilities and Conditions#^dead|dead]] body and imprison it in a black sapphire gem. The subject must have been dead no more than 1 round per caster level. The soul, once trapped in the gem, cannot be returned through clone, raise dead, reincarnation, resurrection, true resurrection, or even a miracle or a wish. Only by destroying the gem or dispelling the spell on the gem can one free the soul (which is then still dead).

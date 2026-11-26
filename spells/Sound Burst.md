@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 area: "10-ft.-radius spread"
 duration: "Instantaneous"
-saving-throw: "Fortitude partial"
+defense: "Fortitude partial"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Sound Burst|Sound Burst (3.5)]]"
@@ -37,10 +37,10 @@ _Evocation \[Sonic\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Area**: 10-ft.-radius spread
 - **Duration**: Instantaneous
-- **Saving Throw**: Fortitude partial
+- **Defense**: Fortitude partial
 - **Spell Resistance**: Yes
 
-You blast an area with a tremendous cacophony. Every creature in the area takes 1d8 points of sonic damage and must succeed on a Fortitude save to avoid being [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1 round.
+You blast an area with a tremendous cacophony. Every creature in the area takes 1d8 points of sonic damage and is attacked against Fortitude, and on a hit is [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1 round.
 
 Creatures that cannot hear are not stunned but are still damaged.
 

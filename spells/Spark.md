@@ -21,7 +21,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One Fine object"
 duration: "Instantaneous"
-saving-throw: "Fortitude negates (object)"
+defense: "Fortitude (object)"
 spell-resistance: "Yes (object)"
 book: "Advanced Player's Guide"
 based-on:
@@ -42,7 +42,7 @@ _Evocation \[Fire\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One Fine object
 - **Duration**: Instantaneous
-- **Saving Throw**: Fortitude negates (object)
+- **Defense**: Fortitude (object)
 - **Spell Resistance**: Yes (object)
 
 You can make an unattended Fine flammable object catch on fire. This works as if you were using flint and steel except that you can use _spark_ in any sort of weather and it takes much less time to actually ignite an object.

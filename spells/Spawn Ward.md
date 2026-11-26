@@ -12,7 +12,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "10 minutes/level"
-saving-throw: "Fortitude negates (harmless)"
+defense: "Fortitude (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Advanced Race Guide"
 based-on:
@@ -33,9 +33,9 @@ _Necromancy_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: 10 minutes/level
-- **Saving Throw**: Fortitude negates (harmless)
+- **Defense**: Fortitude (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 The target becomes resistant to the effects of energy drain and blood drain attacks made by undead creatures, and cannot be made into undead spawn if killed while the spell is in effect.
 
-If the attacking undead's Hit Dice is less than or equal to your caster level, the blood drain or energy drain has no effect. If the attacking undead's Hit Dice are greater than your caster level, the undead must make a Fortitude save (against the DC of the spell) with each attack for those special abilities to have any effect. The spell only prevents the Constitution damage from blood drain and negative levels from energy drain, but not any other effects of these attacks.
+If the attacking undead's Hit Dice is less than or equal to your caster level, the blood drain or energy drain has no effect. If the attacking undead's Hit Dice are greater than your caster level, the spell attacks the undead’s Fortitude with each attack, and those special abilities have an effect only on a hit. The spell only prevents the Constitution damage from blood drain and negative levels from energy drain, but not any other effects of these attacks.

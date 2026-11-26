@@ -20,7 +20,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 area: "Cylinder (40-ft. radius, 20 ft. high)"
 duration: "1 round/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Advanced Player's Guide"
 based-on:
@@ -41,7 +41,7 @@ _Conjuration (Creation) \[Earth\]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Area**: Cylinder (40-ft. radius, 20 ft. high)
 - **Duration**: 1 round/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 A rain of dirt, gravel, and small pebbles fills the area, dealing 2d6 points of bludgeoning damage to every creature in the area. This damage only occurs once, when the spell is cast. For the remaining duration of the spell, this debris covers the ground, making the entire area difficult terrain. At the end of the duration, the rocks disappear, leaving no aftereffects (other than the damage dealt).

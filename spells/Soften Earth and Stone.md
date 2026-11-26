@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 area: "10-ft. square/level; see text"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Soften Earth and Stone|Soften Earth and Stone (3.5)]]"
@@ -36,12 +36,12 @@ _Transmutation \[Earth\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Area**: 10-ft. square/level; see text
 - **Duration**: Instantaneous
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 When this spell is cast, all natural, undressed earth or stone in the spell’s area is softened. Wet earth becomes thick mud, dry earth becomes loose sand or dirt, and stone becomes soft clay that is easily molded or chopped. You affect a 10-footsquare area to a depth of 1 to 4 feet, depending on the toughness or resilience of the ground at that spot. Magical, enchanted, dressed, or worked stone cannot be affected. Earth or stone creatures are not affected.
 
-A creature in mud must succeed on a Reflex save or be caught for 1d2 rounds and unable to move, attack, or cast spells. A creature that succeeds on its save can move through the mud at half speed, and it can’t run or [[rangoric-srd/combat/Combat Special Attacks#Charge|charge]].
+The mud attacks the Reflex of a creature in it, and on a hit the creature is caught for 1d2 rounds and unable to move, attack, or cast spells. A creature the mud misses can move through the mud at half speed, and it can’t run or [[rangoric-srd/combat/Combat Special Attacks#Charge|charge]].
 
 Loose dirt is not as troublesome as mud, but all creatures in the area can move at only half their normal speed and can’t run or charge over the surface.
 

@@ -19,7 +19,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "1 min./level"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Spell Resistance|Spell Resistance (3.5)]]"
@@ -39,7 +39,7 @@ _Abjuration_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: 1 min./level
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 The creature gains spell resistance equal to 12 + your caster level.

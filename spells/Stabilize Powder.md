@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "1 loaded firearm"
 duration: "Instantaneous"
-saving-throw: "Will negates (harmless, object)"
+defense: "Will (harmless, object)"
 spell-resistance: "Yes (harmless, object)"
 book: "Ultimate Combat"
 based-on:
@@ -34,7 +34,7 @@ _Transmutation_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: 1 loaded firearm
 - **Duration**: Instantaneous
-- **Saving Throw**: Will negates (harmless, object)
+- **Defense**: Will (harmless, object)
 - **Spell Resistance**: Yes (harmless, object)
 
 Ammunition currently loaded in the target [[rangoric-srd/equipment/Firearms|firearm]] is less prone to [[rangoric-srd/equipment/Firearms#Misfires|misfire]]. Decrease the misfire range by 1 + 1 per five caster levels (maximum +5, minimum misfire 0) for the ammunition currently loaded into that firearm.

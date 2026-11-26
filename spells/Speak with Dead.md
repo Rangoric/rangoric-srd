@@ -20,7 +20,7 @@ casting-time: "10 minutes"
 range: "10 ft."
 target: "One dead creature"
 duration: "1 min./level"
-saving-throw: "Will negates; see text"
+defense: "Will; see text"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Speak with Dead|Speak with Dead (3.5)]]"
@@ -40,10 +40,10 @@ _Necromancy \[Language-Dependent\]_
 - **Range**: 10 ft.
 - **Target**: One [[rangoric-srd/rules/Special Abilities and Conditions#^dead|dead]] creature
 - **Duration**: 1 min./level
-- **Saving Throw**: Will negates; see text
+- **Defense**: Will; see text
 - **Spell Resistance**: No
 
-You grant the semblance of life and intellect to a corpse, allowing it to answer several questions that you put to it. You may ask one question per two caster levels. Unasked questions are wasted if the duration expires. The corpse’s knowledge is limited to what the creature knew during life, including the languages it spoke (if any). Answers are usually brief, cryptic, or repetitive. If the creature’s alignment was different from yours, the corpse gets a Will save to resist the spell as if it were alive.
+You grant the semblance of life and intellect to a corpse, allowing it to answer several questions that you put to it. You may ask one question per two caster levels. Unasked questions are wasted if the duration expires. The corpse’s knowledge is limited to what the creature knew during life, including the languages it spoke (if any). Answers are usually brief, cryptic, or repetitive. If the creature’s alignment was different from yours, the spell attacks the corpse’s Will as if it were alive, and a miss lets it resist the spell.
 
 If the corpse has been subject to speak with dead within the past week, the new spell fails. You can cast this spell on a corpse that has been deceased for any amount of time, but the body must be mostly intact to be able to respond. A damaged corpse may be able to give partial answers or partially correct answers, but it must at least have a mouth in order to speak at all.
 

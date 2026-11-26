@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creatures touched"
 duration: "10 min./level"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Ultimate Combat"
 based-on:
@@ -36,7 +36,7 @@ _Abjuration_
 - **Range**: Touch
 - **Target**: Creatures touched
 - **Duration**: 10 min./level
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 This spell functions like _[[rangoric-srd/spells/Spell Immunity|spell immunity]]_, except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 10-minute intervals among the creatures touched.

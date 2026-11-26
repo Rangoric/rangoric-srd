@@ -25,7 +25,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "10 min./level or until discharged"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Stoneskin|Stoneskin (3.5)]]"
@@ -45,7 +45,7 @@ _Abjuration_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: 10 min./level or until discharged
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 The warded creature gains resistance to blows, cuts, stabs, and slashes. The subject gains [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|damage reduction]] 10/adamantine. (It ignores the first 10 points of damage each time it takes damage from a weapon, though an adamantine weapon bypasses the reduction.) Once the spell has prevented a total of 10 points of damage per caster level (maximum 150 points), it is discharged.

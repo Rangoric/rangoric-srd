@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 target: "One creature"
 duration: "Instantaneous"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Advanced Class Guide"
 based-on:
@@ -35,7 +35,7 @@ _Abjuration_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Target**: One creature
 - **Duration**: Instantaneous
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 You create a discordant blast of energy that disrupts the target's available magic.

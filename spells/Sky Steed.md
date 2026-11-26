@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "A creature you are mounted upon"
 duration: "Caster level minute(s)"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Ultimate Wilderness"
 based-on:
@@ -34,7 +34,7 @@ _Transmutation (Polymorph)_
 - **Range**: Touch
 - **Target**: A creature you are mounted upon
 - **Duration**: Caster level minute(s)
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 The target sprouts angelic wings and gains a fly speed equal to its base speed with average maneuverability. It also gains a bonus on Acrobatics checks equal to your caster level.

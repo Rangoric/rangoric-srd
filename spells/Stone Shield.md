@@ -23,7 +23,7 @@ casting-time: "1 immediate action"
 range: "0 ft."
 effect: "Stone wall whose area is one 5-ft. square"
 duration: "1 round"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Advanced Race Guide"
 based-on:
@@ -44,9 +44,9 @@ _Conjuration (Creation) \[Earth\]_
 - **Range**: 0 ft.
 - **Effect**: Stone wall whose area is one 5-ft. square
 - **Duration**: 1 round
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
-A 1-inch-thick slab of stone springs up from the ground, interposing itself between you and an opponent of your choice. The _stone shield_ provides you with cover from that enemy until the beginning of your next turn, granting you a +4 bonus to Armor Class and a +2 bonus on Reflex saving throws. If the opponent's attack misses you by 4 or less, the attack strikes the shield instead. The _stone shield_ has hardness 8 and 15 hit points. If the shield is destroyed, the spell ends and the shield crumbles away into nothingness. Spells and effects that damage an area deal damage to the shield.
+A 1-inch-thick slab of stone springs up from the ground, interposing itself between you and an opponent of your choice. The _stone shield_ provides you with cover from that enemy until the beginning of your next turn, granting you a +4 bonus to Armor Class and a +2 bonus on Reflex Defense. If the opponent's attack misses you by 4 or less, the attack strikes the shield instead. The _stone shield_ has hardness 8 and 15 hit points. If the shield is destroyed, the spell ends and the shield crumbles away into nothingness. Spells and effects that damage an area deal damage to the shield.
 
 You cannot use this spell if you are not adjacent to a large area of earth or stone such as the ground or a wall. A [[rangoric-srd/class-options/archetypes/monk/Qinggong Monk (Archetype)|qinggong monk]] may select this spell as a _ki_ power at 4th level.
