@@ -15,7 +15,7 @@ full-attack: "2 claws +13 melee (1d8+4 plus spores)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Acidic tears, sneak attack +2d6, spores"
 special-qualities: "Darkvision 60 ft., damage reduction 5/bludgeoning or slashing, immunity to acid and disease"
-saves: "Fort +6, Ref +5, Will +9"
+defenses: "Fort 16, Ref 15, Will 19"
 abilities: "Str 19, Dex 14, Con 17, Int 6, Wis 11, Cha 8"
 skills: "Perception +19, Stealth +25"
 skill-ranks: "Perception 16, Stealth 16"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Acidic Tears|Acidic tears]], sneak attack +2d6, [[rangoric-srd/monsters/abilities/Spores (Halsora)|spores]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/bludgeoning or slashing, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid and disease
-- **Saves**: Fort +6, Ref +5, Will +9
+- **Defenses**: Fort 16, Ref 15, Will 19
 - **Abilities**: Str 19, Dex 14, Con 17, Int 6, Wis 11, Cha 8
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +25
 - **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
@@ -70,6 +70,6 @@ Halsoras understand Undercommon and Vegepygmy but can't speak.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Acidic Tears|Acidic Tears]] (Ex)**: A halsora's sunken eyes have oversized tear ducts that weep a constant stream of black, acidic tears. As a standard action that provokes attacks of opportunity, a halsora can jerk its head and flick the acidic tears on a single creature within 20 feet. That creature takes 2d6 acid damage (Reflex DC 18 half). A creature that fails its save takes an additional 1d4 points of acid damage at the end of the halsora's turn for 1d4 rounds or until the acid is scraped off, which requires a full-round action on the part of the creature taking the damage or a creature adjacent to that creature. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Acidic Tears|Acidic Tears]] (Ex)**: A halsora's sunken eyes have oversized tear ducts that weep a constant stream of black, acidic tears. As a standard action that provokes attacks of opportunity, a halsora can jerk its head and flick the acidic tears on a single creature within 20 feet. That creature takes 2d6 acid damage (+8 vs Reflex; a miss halves). A creature the tears hit takes an additional 1d4 points of acid damage at the end of the halsora's turn for 1d4 rounds or until the acid is scraped off, which requires a full-round action on the part of the creature taking the damage or a creature adjacent to that creature. The attack bonus is Constitution-based.
 
-**[[rangoric-srd/monsters/abilities/Spores (Halsora)|Spores]] (Ex)**: A halsora's claws are covered in mutated russet mold spores. A creature hit by a claw attack must succeed at a DC 18 Fortitude save or take 2 points of Constitution damage per round. It can attempt a new Fortitude save each round to halt the growth. A creature reduced to 0 Constitution by these spores explodes in a mess of viscera and spores. Creatures within the burst must succeed at a DC 18 Fortitude saving throw or be affected as if they were hit by the halsora's claw attack. This is a disease effect. The save is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Spores (Halsora)|Spores]] (Ex)**: A halsora's claws are covered in mutated russet mold spores. A creature hit by a claw attack is attacked at +8 vs Fortitude, and on a hit takes 2 points of Constitution damage per round. The spores attack it again each round, and a miss halts the growth. A creature reduced to 0 Constitution by these spores explodes in a mess of viscera and spores. Creatures within the burst are attacked at +8 vs Fortitude, and on a hit are affected as if they were hit by the halsora's claw attack. This is a disease effect. The attack bonus is Constitution-based.

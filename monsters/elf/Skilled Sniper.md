@@ -16,7 +16,7 @@ full-attack: "Rapier +3 melee (1d6+3/18–20); or masterwork composite longbow +
 space-reach: "5 ft./5 ft."
 special-attacks: "Sneak attack +2d6"
 special-qualities: "Low-light vision, evasion, danger sense +1, elf blood, rogue talents (surprise attack), trapfinding +1, immunity to sleep, finesse training (rapier)"
-saves: "Fort +3, Ref +6, Will +1 (+2 vs. enchantments)"
+defenses: "Fort 13, Ref 16, Will 11 (+2 vs. enchantments)"
 abilities: "Str 12, Dex 17, Con 14, Int 13, Wis 10, Cha 8"
 skills: "Acrobatics +9, Animal Handling +6, Athletics +7, Escape Artist +9, Fieldcraft +3, Imitation +5, Perception +11, Perform (wind) +5, Stealth +9"
 skill-ranks: "Acrobatics 3, Animal Handling 3, Athletics 3, Escape Artist 3, Fieldcraft 3, Imitation 3, Perception 8, Perform (wind) 1, Stealth 3"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +2d6
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Rogue#^rogue-evasion|evasion]], [[rangoric-srd/classes/Rogue#^rogue-trap-sense|danger sense]] +1, [[rangoric-srd/races/Half-Elf#^half-elf-elven-blood|elf blood]], [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]] ([[rangoric-srd/class-options/rogue-talents/Surprise Attack (Rogue Talent)|surprise attack]]), [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +1, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]] (rapier)
-- **Saves**: Fort +3, Ref +6, Will +1 (+2 vs. enchantments)
+- **Defenses**: Fort 13, Ref 16, Will 11 (+2 vs. enchantments)
 - **Abilities**: Str 12, Dex 17, Con 14, Int 13, Wis 10, Cha 8
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +7, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +9, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +3, [[rangoric-srd/skills/Imitation|Imitation]] +5, [[rangoric-srd/skills/Perception|Perception]] +11, Perform (wind) +5, [[rangoric-srd/skills/Stealth|Stealth]] +9
 - **Feats**: [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

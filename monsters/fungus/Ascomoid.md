@@ -13,9 +13,9 @@ cmd: "21 (can't be tripped)"
 attack: "Slam +8 melee (2d8+6)"
 full-attack: "Slam +8 melee (2d8+6)"
 space-reach: "10 ft./5 ft."
-special-attacks: "Poison, spores, trample (2d8+6, DC 17)"
+special-attacks: "Poison, spores, trample (2d8+6, +7 vs Reflex)"
 special-qualities: "Tremorsense 60 ft., damage reduction 10/piercing, plant traits, resistance to electricity 10 and fire 10"
-saves: "Fort +8, Ref +3, Will +2"
+defenses: "Fort 18, Ref 13, Will 12"
 abilities: "Str 18, Dex 13, Con 17, Int —, Wis 11, Cha 1"
 skills: "—"
 skill-ranks: ""
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Slam +8 melee (2d8+6)
 - **Full Attack**: Slam +8 melee (2d8+6)
 - **Space/Reach**: 10 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]], [[rangoric-srd/monsters/abilities/Spores (Ascomoid)|spores]], [[rangoric-srd/monsters/abilities/Trample|trample]] (2d8+6, DC 17)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]], [[rangoric-srd/monsters/abilities/Spores (Ascomoid)|spores]], [[rangoric-srd/monsters/abilities/Trample|trample]] (2d8+6, +7 vs Reflex)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Tremorsense|Tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/piercing, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 10 and fire 10
-- **Saves**: Fort +8, Ref +3, Will +2
+- **Defenses**: Fort 18, Ref 13, Will 12
 - **Abilities**: Str 18, Dex 13, Con 17, Int —, Wis 11, Cha 1
 - **Skills**: —
 - **Feats**: [[rangoric-srd/feats/Improved Overrun|Improved Overrun]]
@@ -72,6 +72,6 @@ Those crushed by an ascomoid or who fall victim to an ascomoid's spores face a r
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Ascomoid Spores|Ascomoid Spores]]: Spores—inhaled; _save_ Fort DC 16; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Str damage; _cure_ 2 saves. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Ascomoid Spores|Ascomoid Spores]]: Spores—inhaled; _attack_ +6 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Str damage; _cure_ 2 misses. The attack bonus is Constitution-based.
 
-**[[rangoric-srd/monsters/abilities/Spores (Ascomoid)|Spores]] (Ex)**: Once per round as a free action, an ascomoid can release a jet of deadly spores to a range of 30 feet. Upon impacting a solid surface, such as a wall or creature, the jet billows out into a cloud of spores that fills a 10-foot-radius spread. This cloud lasts for 1 round before dispersing. Any creature in the cloud must make a DC 16 Fortitude save or become [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] as long as it remains in the cloud. Any creature that fails to save against this nausea is also exposed to the ascomoid's poison (see above). The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Spores (Ascomoid)|Spores]] (Ex)**: Once per round as a free action, an ascomoid can release a jet of deadly spores to a range of 30 feet. Upon impacting a solid surface, such as a wall or creature, the jet billows out into a cloud of spores that fills a 10-foot-radius spread. This cloud lasts for 1 round before dispersing. Any creature in the cloud is attacked at +6 vs Fortitude, and on a hit becomes [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] as long as it remains in the cloud. Any creature this nausea hits is also exposed to the ascomoid's poison (see above). The attack bonus is Constitution-based.

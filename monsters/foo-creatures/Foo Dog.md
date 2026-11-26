@@ -16,7 +16,7 @@ full-attack: "Bite +4 melee (1d6+4 plus trip)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, paired protectors, stony defense 2/day, freeze, damage reduction 5/bludgeoning, immunity to poison, disease, paralysis and sleep"
-saves: "Fort +6, Ref +5, Will +3"
+defenses: "Fort 16, Ref 15, Will 13"
 abilities: "Str 17, Dex 15, Con 17, Int 6, Wis 12, Cha 6"
 skills: "Acrobatics +6, Athletics +3 (+11 jumping), Perception +8"
 skill-ranks: "Acrobatics 1, Athletics 0, Perception 4"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], paired protectors, stony defense 2/day, [[rangoric-srd/monsters/abilities/Freeze|freeze]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/bludgeoning, immunity to poison, disease, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] and sleep
-- **Saves**: Fort +6, Ref +5, Will +3
+- **Defenses**: Fort 16, Ref 15, Will 13
 - **Abilities**: Str 17, Dex 15, Con 17, Int 6, Wis 12, Cha 6
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +3 (+11 jumping), [[rangoric-srd/skills/Perception|Perception]] +8
 - **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

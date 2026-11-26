@@ -16,7 +16,7 @@ full-attack: "Masterwork dagger +3 melee (1d4+1/19–20); or handaxe +2 melee (1
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision, elven magic, weapon familiarity, immunity to sleep"
-saves: "Fort +0, Ref +1, Will +3 (+2 vs. enchantments)"
+defenses: "Fort 10, Ref 11, Will 13 (+2 vs. enchantments)"
 abilities: "Str 12, Dex 13, Con 11, Int 10, Wis 10, Cha 9"
 skills: "Acrobatics +5, Athletics +9, Craft (scrimshaw) +4, Fieldcraft +4, Perception +6, Perform (string) +3, Profession (sailor) +4, Sleight of Hand +5, Theology +4"
 skill-ranks: "Acrobatics 1, Athletics 4, Craft (scrimshaw) 1, Fieldcraft 1, Perception 3, Perform (string) 3, Profession (sailor) 1, Sleight of Hand 1, Theology 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/races/Elf|elven magic]], [[rangoric-srd/races/Elf|weapon familiarity]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep
-- **Saves**: Fort +0, Ref +1, Will +3 (+2 vs. enchantments)
+- **Defenses**: Fort 10, Ref 11, Will 13 (+2 vs. enchantments)
 - **Abilities**: Str 12, Dex 13, Con 11, Int 10, Wis 10, Cha 9
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Craft|Craft]] (scrimshaw) +4, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Perception|Perception]] +6, Perform (string) +3, [[rangoric-srd/skills/Profession|Profession]] (sailor) +4, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +5, [[rangoric-srd/skills/Theology|Theology]] +4
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Athletics)

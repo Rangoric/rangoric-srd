@@ -16,7 +16,7 @@ full-attack: "Masterwork elven curve blade +15/+10 melee (1d10+1/18–20); or +1
 space-reach: "5 ft./5 ft."
 special-attacks: "Favored enemy (animals +2, orcs +4)"
 special-qualities: "Low-light vision, elven magic, favored terrain (forest +4, plains +2), hunter's bond (companions), swift tracker, track +4, weapon familiarity, wild empathy +7, woodland stride, immunity to sleep, resistance to fire 10"
-saves: "Fort +8, Ref +13, Will +4 (+2 vs. enchantments)"
+defenses: "Fort 18, Ref 23, Will 14 (+2 vs. enchantments)"
 abilities: "Str 13, Dex 23, Con 12, Int 12, Wis 12, Cha 8"
 skills: "Acrobatics +13, Animal Handling +12, Athletics +9, Dungeoneering +6, Fieldcraft +12, Medicine +8, Nature +8, Perception +14, Society +6, Stealth +16"
 skill-ranks: "Acrobatics 4, Animal Handling 3, Athletics 5, Dungeoneering 2, Fieldcraft 8, Medicine 4, Nature 4, Perception 10, Society 2, Stealth 7"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|Favored enemy]] (animals +2, orcs +4)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/races/Elf|elven magic]], [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|favored terrain]] (forest +4, plains +2), [[rangoric-srd/classes/Ranger#^ranger-hunters-bond|hunter's bond]] (companions), [[rangoric-srd/classes/Ranger#^ranger-swift-tracker|swift tracker]], [[rangoric-srd/classes/Ranger#^ranger-track|track]] +4, [[rangoric-srd/races/Elf|weapon familiarity]], [[rangoric-srd/classes/Ranger#^ranger-wild-empathy|wild empathy]] +7, [[rangoric-srd/classes/Ranger#^ranger-woodland-stride|woodland stride]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10
-- **Saves**: Fort +8, Ref +13, Will +4 (+2 vs. enchantments)
+- **Defenses**: Fort 18, Ref 23, Will 14 (+2 vs. enchantments)
 - **Abilities**: Str 13, Dex 23, Con 12, Int 12, Wis 12, Cha 8
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +12, [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +12, [[rangoric-srd/skills/Medicine|Medicine]] +8, [[rangoric-srd/skills/Nature|Nature]] +8, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Society|Society]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +16
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Track|Track]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]

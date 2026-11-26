@@ -16,7 +16,7 @@ full-attack: "Masterwork elven curve blade +10/+5 melee (1d10+4/18–20); or +1 
 space-reach: "5 ft./5 ft."
 special-attacks: "Rage (15 rounds/day), rage powers (rolling dodge +2, swift foot +10 feet)"
 special-qualities: "Low-light vision, improved uncanny dodge, trap sense +2, elven magic, fast movement, weapon familiarity, immunity to sleep"
-saves: "Fort +8, Ref +6, Will +5 (+2 vs. enchantments)"
+defenses: "Fort 18, Ref 16, Will 15 (+2 vs. enchantments)"
 abilities: "Str 17, Dex 18, Con 16, Int 10, Wis 12, Cha 10"
 skills: "Acrobatics +12, Animal Handling +5, Athletics +10 (+18 jumping), Craft (bows) +5, Fieldcraft +5, Nature +5, Perception +12, Stealth +5"
 skill-ranks: "Acrobatics 5, Animal Handling 2, Athletics 4, Craft (bows) 2, Fieldcraft 1, Nature 2, Perception 8, Stealth 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (15 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/Rolling Dodge (Rage Power)|rolling dodge]] +2, [[rangoric-srd/class-options/rage-powers/Swift Foot (Rage Power)|swift foot]] +10 feet)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Barbarian#^barbarian-improved-uncanny-dodge|improved uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] +2, [[rangoric-srd/races/Elf|elven magic]], [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/races/Elf|weapon familiarity]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep
-- **Saves**: Fort +8, Ref +6, Will +5 (+2 vs. enchantments)
+- **Defenses**: Fort 18, Ref 16, Will 15 (+2 vs. enchantments)
 - **Abilities**: Str 17, Dex 18, Con 16, Int 10, Wis 12, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +10 (+18 jumping), [[rangoric-srd/skills/Craft|Craft]] (bows) +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Nature|Nature]] +5, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +5
 - **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Power Attack|Power Attack]]

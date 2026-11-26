@@ -16,7 +16,7 @@ full-attack: "Spear +2 melee (1d8–1/×3); or masterwork longbow +6 ranged (1d8
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision, bloodline arcana (change energy damage spells to electricity), elven magic, weapon familiarity, immunity to sleep, resistance to electricity 10"
-saves: "Fort +4, Ref +5, Will +7 (+2 vs. enchantments)"
+defenses: "Fort 14, Ref 15, Will 17 (+2 vs. enchantments)"
 abilities: "Str 8, Dex 15, Con 12, Int 12, Wis 12, Cha 16"
 skills: "Acrobatics +10, Arcana +9 (+12 to identify magic item properties), Linguistics +2, Mysticism +10, Perception +4"
 skill-ranks: "Acrobatics 5, Arcana 5, Linguistics 1, Mysticism 6, Perception 3"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/class-options/bloodlines/Elemental Bloodline|bloodline arcana]] (change energy damage spells to electricity), [[rangoric-srd/races/Elf|elven magic]], [[rangoric-srd/races/Elf|weapon familiarity]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 10
-- **Saves**: Fort +4, Ref +5, Will +7 (+2 vs. enchantments)
+- **Defenses**: Fort 14, Ref 15, Will 17 (+2 vs. enchantments)
 - **Abilities**: Str 8, Dex 15, Con 12, Int 12, Wis 12, Cha 16
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Arcana|Arcana]] +9 (+12 to identify magic item properties), [[rangoric-srd/skills/Linguistics|Linguistics]] +2, [[rangoric-srd/skills/Mysticism|Mysticism]] +10, [[rangoric-srd/skills/Perception|Perception]] +4
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (evocation)
@@ -77,4 +77,4 @@ A storm sorcerer speaks Auran, Common, Draconic, and Elven.
 
 **Bloodline Spell-Like Abilities** (CL 6th; concentration +9): 6/day—[[rangoric-srd/class-options/bloodlines/Elemental Bloodline|elemental ray]] (1d6+3 electricity).
 
-**Sorcerer spells known** (CL 6th; concentration +9): 3rd (4/day)—_[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]_ (DC 17); 2nd (6/day)—_[[rangoric-srd/spells/Gust of Wind|gust of wind]]_ (DC 16), _[[rangoric-srd/spells/Scorching Ray|scorching ray]]_ (electricity), _[[rangoric-srd/spells/Spectral Hand|spectral hand]]_; 1st (7/day)—_[[rangoric-srd/spells/Burning Hands|burning hands]]_ (electricity; DC 15), _[[rangoric-srd/spells/Mage Armor|mage armor]]_, _[[rangoric-srd/spells/Magic Missile|magic missile]]_, _[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]_, _[[rangoric-srd/spells/Shocking Grasp|shocking grasp]]_; 0 (at will)—_[[rangoric-srd/spells/Acid Splash|acid splash]]_ (electricity), _[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Ray of Frost|ray of frost]]_ (electricity), _[[rangoric-srd/spells/Read Magic|read magic]]_; **Bloodline**: [[rangoric-srd/class-options/bloodlines/Elemental Bloodline|elemental (air)]].
+**Sorcerer spells known** (CL 6th; concentration +9): 3rd (4/day)—_[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]_ (+7 vs Reflex); 2nd (6/day)—_[[rangoric-srd/spells/Gust of Wind|gust of wind]]_ (+6 vs Fortitude), _[[rangoric-srd/spells/Scorching Ray|scorching ray]]_ (electricity), _[[rangoric-srd/spells/Spectral Hand|spectral hand]]_; 1st (7/day)—_[[rangoric-srd/spells/Burning Hands|burning hands]]_ (electricity; +5 vs Reflex), _[[rangoric-srd/spells/Mage Armor|mage armor]]_, _[[rangoric-srd/spells/Magic Missile|magic missile]]_, _[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]_, _[[rangoric-srd/spells/Shocking Grasp|shocking grasp]]_; 0 (at will)—_[[rangoric-srd/spells/Acid Splash|acid splash]]_ (electricity), _[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Ray of Frost|ray of frost]]_ (electricity), _[[rangoric-srd/spells/Read Magic|read magic]]_; **Bloodline**: [[rangoric-srd/class-options/bloodlines/Elemental Bloodline|elemental (air)]].

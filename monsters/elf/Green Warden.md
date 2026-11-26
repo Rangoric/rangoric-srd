@@ -16,7 +16,7 @@ full-attack: "+2 short sword +14/+9 melee (1d6+4/19–20); or masterwork composi
 space-reach: "5 ft./5 ft."
 special-attacks: "Enhance arrows (magic), imbue arrow, weapon training (bows +1)"
 special-qualities: "Low-light vision, bravery +1, arcane bond (masterwork composite longbow), armor training 1, elven magic, summoner's charm (1 round), weapon familiarity, damage reduction 10/magic (ranged weapon attack only; 30 points), immunity to sleep"
-saves: "Fort +9, Ref +11, Will +9 (+2 vs. enchantments, +1 vs. fear)"
+defenses: "Fort 19, Ref 21, Will 19 (+2 vs. enchantments, +1 vs. fear)"
 abilities: "Str 14, Dex 21, Con 10, Int 12, Wis 13, Cha 8"
 skills: "Arcana +9, Athletics +10, Mysticism +9, Nature +9, Perception +14, Stealth +14"
 skill-ranks: "Arcana 5, Athletics 5, Mysticism 5, Nature 5, Perception 10, Stealth 6"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/prestige-classes/Arcane Archer|Enhance arrows]] (magic), [[rangoric-srd/prestige-classes/Arcane Archer|imbue arrow]], [[rangoric-srd/classes/Fighter#^fighter-weapon-training|weapon training]] (bows +1)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +1, [[rangoric-srd/classes/Wizard#^wizard-arcane-bond|arcane bond]] (masterwork composite longbow), [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1, [[rangoric-srd/races/Elf|elven magic]], [[rangoric-srd/class-options/arcane-schools/Conjuration School|summoner's charm]] (1 round), [[rangoric-srd/races/Elf|weapon familiarity]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic (ranged weapon attack only; 30 points), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep
-- **Saves**: Fort +9, Ref +11, Will +9 (+2 vs. enchantments, +1 vs. fear)
+- **Defenses**: Fort 19, Ref 21, Will 19 (+2 vs. enchantments, +1 vs. fear)
 - **Abilities**: Str 14, Dex 21, Con 10, Int 12, Wis 13, Cha 8
 - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +9, [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Mysticism|Mysticism]] +9, [[rangoric-srd/skills/Nature|Nature]] +9, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +14
 - **Feats**: [[rangoric-srd/feats/Arcane Armor Training|Arcane Armor Training]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Manyshot|Manyshot]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longbow), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (longbow)
@@ -77,4 +77,4 @@ A green warden speaks Common, Elven, and Goblin.
 
 **Conjurer Spell-Like Abilities** (CL 3rd; concentration +4): 4/day—[[rangoric-srd/class-options/arcane-schools/Conjuration School|acid dart]].
 
-**Conjurer spells prepared** (CL 3rd; concentration +4; arcane spell failure 15%): 2nd—_[[rangoric-srd/spells/Glitterdust|glitterdust]]_ (DC 13), _[[rangoric-srd/spells/Web|web]]_ (DC 13); 1st—_[[rangoric-srd/spells/Burning Hands|burning hands]]_ (2, DC 12), _[[rangoric-srd/spells/Color Spray|color spray]]_ (2, DC 12); 0 (at will)—_[[rangoric-srd/spells/Bleed|bleed]]_ (DC 11), _[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (DC 11), _[[rangoric-srd/spells/Mage Hand|mage hand]]_; **Opposition Schools**: [[rangoric-srd/class-options/arcane-schools/Divination School|divination]], [[rangoric-srd/class-options/arcane-schools/Necromancy School|necromancy]].
+**Conjurer spells prepared** (CL 3rd; concentration +4; arcane spell failure 15%): 2nd—_[[rangoric-srd/spells/Glitterdust|glitterdust]]_ (+3 vs Will), _[[rangoric-srd/spells/Web|web]]_ (+3 vs Reflex); 1st—_[[rangoric-srd/spells/Burning Hands|burning hands]]_ (2, +2 vs Reflex), _[[rangoric-srd/spells/Color Spray|color spray]]_ (2, +2 vs Will); 0 (at will)—_[[rangoric-srd/spells/Bleed|bleed]]_ (+1 vs Will), _[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (+1 vs Will), _[[rangoric-srd/spells/Mage Hand|mage hand]]_; **Opposition Schools**: [[rangoric-srd/class-options/arcane-schools/Divination School|divination]], [[rangoric-srd/class-options/arcane-schools/Necromancy School|necromancy]].

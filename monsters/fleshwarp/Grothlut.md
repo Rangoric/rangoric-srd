@@ -15,7 +15,7 @@ full-attack: "2 slams +6 melee (1d6+3)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Digestive spew, disgusting demise, piteous moan"
 special-qualities: "Darkvision 60 ft., piteous moan (30 ft.), compression, immunity to acid and mind-affecting effects"
-saves: "Fort +7, Ref –1, Will +3"
+defenses: "Fort 17, Ref 9, Will 13"
 abilities: "Str 15, Dex 6, Con 18, Int 1, Wis 8, Cha 5"
 skills: "Athletics +10"
 skill-ranks: "Athletics 5"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Digestive Spew|Digestive spew]], [[rangoric-srd/monsters/abilities/Disgusting Demise|disgusting demise]], [[rangoric-srd/monsters/abilities/Piteous Moan|piteous moan]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Piteous Moan|piteous moan]] (30 ft.), [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid and mind-affecting effects
-- **Saves**: Fort +7, Ref –1, Will +3
+- **Defenses**: Fort 17, Ref 9, Will 13
 - **Abilities**: Str 15, Dex 6, Con 18, Int 1, Wis 8, Cha 5
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10
 - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam)
@@ -68,8 +68,8 @@ Many fleshcrafters consider the grothlut a failure, as the transformation all bu
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Digestive Spew|Digestive Spew]] (Ex)**: In order to ingest food, a grothlut must first regurgitate its digestive liquids upon its victim. As a standard action, it can spit these liquids on a creature within 5 feet. This spew deals 3d6 acid damage (Reflex DC 15 half). The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Digestive Spew|Digestive Spew]] (Ex)**: In order to ingest food, a grothlut must first regurgitate its digestive liquids upon its victim. As a standard action, it can spit these liquids on a creature within 5 feet. This spew deals 3d6 acid damage (+5 vs Reflex; a miss halves). The attack bonus is Constitution-based.
 
-**[[rangoric-srd/monsters/abilities/Disgusting Demise|Disgusting Demise]] (Ex)**: When a grothlut reaches 0 or fewer hit points, its digestive organs rupture, freeing alchemical agents that have a violent effect on the rest of the grothlut's internal organs and flesh. This causes an explosion of grothlut viscera within a 30-foot-radius burst of the creature. Though this viscera deals no damage, it's disgusting to behold and its smell can cause living creatures within that radius to become [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1d4 rounds (Fortitude DC 14 negates). This is a poison effect. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Disgusting Demise|Disgusting Demise]] (Ex)**: When a grothlut reaches 0 or fewer hit points, its digestive organs rupture, freeing alchemical agents that have a violent effect on the rest of the grothlut's internal organs and flesh. This causes an explosion of grothlut viscera within a 30-foot-radius burst of the creature. Though this viscera deals no damage, it's disgusting to behold and its smell can cause living creatures within that radius to become [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1d4 rounds (+4 vs Fortitude). This is a poison effect. The attack bonus is Constitution-based.
 
-**[[rangoric-srd/monsters/abilities/Piteous Moan|Piteous Moan]] (Su)**: Whenever a grothlut sees another creature, it begins to moan as free action. Anyone within 60 feet who can hear the moan must succeed at a DC 15 Will saving throw or become [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] by the moaning for as long as she can hear it. Every two additional grothluts with the area increase the DC by 1, to a maximum of DC 18. This is a mind-affecting sonic effect. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Piteous Moan|Piteous Moan]] (Su)**: Whenever a grothlut sees another creature, it begins to moan as free action. Anyone within 60 feet who can hear the moan are attacked at +5 vs Will, and on a hit become [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] by the moaning for as long as she can hear it. Every two additional grothluts with the area increase the attack bonus by 1, to a maximum of +8. This is a mind-affecting sonic effect. The attack bonus is Constitution-based.

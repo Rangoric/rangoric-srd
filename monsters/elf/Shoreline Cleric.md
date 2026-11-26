@@ -14,9 +14,9 @@ cmd: "14"
 attack: "Trident +2 melee (1d8–1) or shortbow +5 ranged (1d6/×3)"
 full-attack: "Trident +2 melee (1d8–1); or shortbow +5 ranged (1d6/×3)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Channel positive energy 4/day (DC 13, 2d6), wooden fist (+2, 7 rounds/day), turn undead, rebuke plant creatures (4/day)"
+special-attacks: "Channel positive energy 4/day (+3 vs Will, 2d6), wooden fist (+2, 7 rounds/day), turn undead, rebuke plant creatures (4/day)"
 special-qualities: "Low-light vision, aura, elf blood, immunity to sleep"
-saves: "Fort +5, Ref +3, Will +8 (+2 vs. enchantments)"
+defenses: "Fort 15, Ref 13, Will 18 (+2 vs. enchantments)"
 abilities: "Str 8, Dex 14, Con 13, Int 10, Wis 18, Cha 12"
 skills: "Medicine +8, Nature +2, Perception +9, Sense Motive +8, Stealth +7, Theology +5"
 skill-ranks: "Medicine 1, Nature 2, Perception 2, Sense Motive 1, Stealth 2, Theology 2"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: [[rangoric-srd/equipment/weapons/Trident|Trident]] +2 melee (1d8–1) or [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +5 ranged (1d6/×3)
 - **Full Attack**: [[rangoric-srd/equipment/weapons/Trident|Trident]] +2 melee (1d8–1); or [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +5 ranged (1d6/×3)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel positive energy]] 4/day (DC 13, 2d6), [[rangoric-srd/class-options/domains/Plant Domain|wooden fist]] (+2, 7 rounds/day), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|turn undead]], [[rangoric-srd/class-options/domains/Plant Domain|rebuke plant creatures]] (4/day)
+- **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel positive energy]] 4/day (+3 vs Will, 2d6), [[rangoric-srd/class-options/domains/Plant Domain|wooden fist]] (+2, 7 rounds/day), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|turn undead]], [[rangoric-srd/class-options/domains/Plant Domain|rebuke plant creatures]] (4/day)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Cleric#^cleric-aura|aura]], [[rangoric-srd/races/Half-Elf#^half-elf-elven-blood|elf blood]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep
-- **Saves**: Fort +5, Ref +3, Will +8 (+2 vs. enchantments)
+- **Defenses**: Fort 15, Ref 13, Will 18 (+2 vs. enchantments)
 - **Abilities**: Str 8, Dex 14, Con 13, Int 10, Wis 18, Cha 12
 - **Skills**: [[rangoric-srd/skills/Medicine|Medicine]] +8, [[rangoric-srd/skills/Nature|Nature]] +2, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +7, [[rangoric-srd/skills/Theology|Theology]] +5
 - **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Martial Weapon Proficiency|Martial Weapon Proficiency]] (shortbow), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
@@ -77,4 +77,4 @@ A shoreline cleric speaks Common and Elven.
 
 **Domain Spell-Like Abilities** (CL 4th; concentration +8): 7/day—[[rangoric-srd/class-options/domains/Weather Domain|storm burst]] (1d6+2 nonlethal damage).
 
-**Cleric spells prepared** (CL 4th; concentration +8): 2nd—_[[rangoric-srd/spells/Barkskin|barkskin]]_, _[[rangoric-srd/spells/Hold Person|hold person]]_ (2, DC 16), _[[rangoric-srd/spells/Summon Monster II|summon monster II]]_; 1st—_[[rangoric-srd/spells/Cause Fear|cause fear]]_ (DC 15), _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, _[[rangoric-srd/spells/Endure Elements|endure elements]]_, _[[rangoric-srd/spells/Entangle|entangle]]_ (DC 15), _[[rangoric-srd/spells/Entropic Shield|entropic shield]]_; 0 (at will)—_[[rangoric-srd/spells/Bleed|bleed]]_ (2, DC 14), _[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Light|light]]_; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Plant Domain|Plant]], [[rangoric-srd/class-options/domains/Weather Domain|Weather]].
+**Cleric spells prepared** (CL 4th; concentration +8): 2nd—_[[rangoric-srd/spells/Barkskin|barkskin]]_, _[[rangoric-srd/spells/Hold Person|hold person]]_ (2, +6 vs Will), _[[rangoric-srd/spells/Summon Monster II|summon monster II]]_; 1st—_[[rangoric-srd/spells/Cause Fear|cause fear]]_ (+5 vs Will), _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, _[[rangoric-srd/spells/Endure Elements|endure elements]]_, _[[rangoric-srd/spells/Entangle|entangle]]_ (+5 vs Reflex), _[[rangoric-srd/spells/Entropic Shield|entropic shield]]_; 0 (at will)—_[[rangoric-srd/spells/Bleed|bleed]]_ (2, +4 vs Will), _[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Light|light]]_; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Plant Domain|Plant]], [[rangoric-srd/class-options/domains/Weather Domain|Weather]].

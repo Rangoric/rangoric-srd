@@ -16,7 +16,7 @@ full-attack: "Masterwork lance +18/+13 melee (1d8+4/×3); or flail +14/+9 melee 
 space-reach: "5 ft./5 ft. (10 ft. with lance)"
 special-attacks: "Weapon training (spears +2, bows +1)"
 special-qualities: "Low-light vision, bravery +3, armor training 2, elven magic, weapon familiarity, immunity to sleep"
-saves: "Fort +11, Ref +7, Will +6 (+2 vs. enchantments, +3 vs. fear)"
+defenses: "Fort 21, Ref 17, Will 16 (+2 vs. enchantments, +3 vs. fear)"
 abilities: "Str 15, Dex 14, Con 14, Int 10, Wis 13, Cha 10"
 skills: "Animal Handling +19, Perception +15"
 skill-ranks: "Animal Handling 14, Perception 11"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft. (10 ft. with lance)
 - **Special Attacks**: [[rangoric-srd/classes/Fighter#^fighter-weapon-training|Weapon training]] (spears +2, bows +1)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +3, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 2, [[rangoric-srd/races/Elf|elven magic]], [[rangoric-srd/races/Elf|weapon familiarity]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep
-- **Saves**: Fort +11, Ref +7, Will +6 (+2 vs. enchantments, +3 vs. fear)
+- **Defenses**: Fort 21, Ref 17, Will 16 (+2 vs. enchantments, +3 vs. fear)
 - **Abilities**: Str 15, Dex 14, Con 14, Int 10, Wis 13, Cha 10
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +19, [[rangoric-srd/skills/Perception|Perception]] +15
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Ride-By Attack|Ride-By Attack]], [[rangoric-srd/feats/Shield Focus|Shield Focus]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Animal Handling), [[rangoric-srd/feats/Spirited Charge|Spirited Charge]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Unseat|Unseat]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (lance)

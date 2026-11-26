@@ -15,7 +15,7 @@ full-attack: "Bite +14 melee (1d8+7) and 4 tentacles +8 melee (1d6+3 plus mind l
 space-reach: "10 ft./10 ft. (15 ft. with tentacles)"
 special-attacks: "Soul scream, rend (2 tentacles 2d6+10; 3 tentacles 3d6+10; 4 tentacles 4d6+10)"
 special-qualities: "Darkvision 60 ft."
-saves: "Fort +9, Ref +8, Will +9"
+defenses: "Fort 19, Ref 18, Will 19"
 abilities: "Str 24, Dex 17, Con 23, Int 8, Wis 14, Cha 18"
 skills: "Athletics +20, Perception +15, Stealth +12"
 skill-ranks: "Athletics 10, Perception 10, Stealth 10"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft. (15 ft. with tentacles)
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Soul Scream|Soul scream]], rend (2 [[rangoric-srd/monsters/abilities/Tentacles (Decapus)|tentacles]] 2d6+10; 3 tentacles 3d6+10; 4 tentacles 4d6+10)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft.
-- **Saves**: Fort +9, Ref +8, Will +9
+- **Defenses**: Fort 19, Ref 18, Will 19
 - **Abilities**: Str 24, Dex 17, Con 23, Int 8, Wis 14, Cha 18
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +20, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +12
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Deflect Arrows|Deflect Arrows]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (tentacle)
@@ -70,6 +70,6 @@ No two irnakurse look exactly the same—drow torturers take profane pride in sc
 
 ### Combat
 
-**Mind Lash (Su)**: Those struck by an irnakurse are overwhelmed with dark emotions and corrupted images of a ruined life. Any non-evil creature hit by an irnakurse's tentacle must succeed at a DC 19 Will save or be [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1 round. A creature that successfully saves can't be affected by the same irnakurse's mind lash for 24 hours. The save DC is Charisma-based.
+**Mind Lash (Su)**: Those struck by an irnakurse are overwhelmed with dark emotions and corrupted images of a ruined life. Any non-evil creature hit by an irnakurse's tentacle is attacked at +9 vs Will, and on a hit is [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1 round. A creature the mind lash misses can't be affected by the same irnakurse's mind lash for 24 hours. The attack bonus is Charisma-based.
 
-**[[rangoric-srd/monsters/abilities/Soul Scream|Soul Scream]] (Su)**: Capable of channeling all of its rage and terror into a single, unnatural noise, an irnakurse can unleash a sound of alien horror as a standard action. Any non-evil creature within 30 feet of a screaming irnakurse must succeed at a DC 19 Will save or take 1d4 points of Wisdom drain. Once it begins screaming, an irnakurse can continue as a free action for 6 rounds, but can't scream again for 5 minutes afterward. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Soul Scream|Soul Scream]] (Su)**: Capable of channeling all of its rage and terror into a single, unnatural noise, an irnakurse can unleash a sound of alien horror as a standard action. Any non-evil creature within 30 feet of a screaming irnakurse is attacked at +9 vs Will, and on a hit takes 1d4 points of Wisdom drain. Once it begins screaming, an irnakurse can continue as a free action for 6 rounds, but can't scream again for 5 minutes afterward. The attack bonus is Charisma-based.

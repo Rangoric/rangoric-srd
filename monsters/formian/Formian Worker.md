@@ -16,7 +16,7 @@ full-attack: "Bite +3 melee (1d6+1)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Blindsense 30 ft., darkvision 60 ft., hive mind, telepathy 60 ft., able assistant, formian traits, peerless bearer, resistance to sonic 10"
-saves: "Fort +1, Ref +2, Will +2"
+defenses: "Fort 11, Ref 12, Will 12"
 abilities: "Str 13, Dex 10, Con 13, Int 10, Wis 10, Cha 9"
 skills: "Athletics +5, Craft (any one) +4, Engineering +4, Perception +4 (+8 with hive mind), Profession (miner) +7, Stealth +8"
 skill-ranks: "Athletics 1, Craft (any one) 1, Engineering 1, Perception 1, Profession (miner) 1, Stealth 1"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/formian/Formian#^hive-mind|hive mind]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 60 ft., able assistant, [[rangoric-srd/monsters/formian/Formian#^formian-traits|formian traits]], peerless bearer, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to sonic 10
-- **Saves**: Fort +1, Ref +2, Will +2
+- **Defenses**: Fort 11, Ref 12, Will 12
 - **Abilities**: Str 13, Dex 10, Con 13, Int 10, Wis 10, Cha 9
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Craft|Craft]] (any one) +4, [[rangoric-srd/skills/Engineering|Engineering]] +4, [[rangoric-srd/skills/Perception|Perception]] +4 (+8 with hive mind), [[rangoric-srd/skills/Profession|Profession]] (miner) +7, [[rangoric-srd/skills/Stealth|Stealth]] +8
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Profession (miner))

@@ -16,7 +16,7 @@ full-attack: "—"
 space-reach: "5 ft./0 ft."
 special-attacks: "Shriek"
 special-qualities: "Low-light vision, plant traits"
-saves: "Fort +4, Ref —, Will –4"
+defenses: "Fort 14, Ref —, Will 6"
 abilities: "Str —, Dex —, Con 13, Int —, Wis 2, Cha 1"
 skills: "Perception +1"
 skill-ranks: "Perception 2"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./0 ft.
 - **Special Attacks**: Shriek
 - **Special Qualities**: Low-light vision, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|plant traits]]
-- **Saves**: Fort +4, Ref —, Will –4
+- **Defenses**: Fort 14, Ref —, Will 6
 - **Abilities**: Str —, Dex —, Con 13, Int —, Wis 2, Cha 1
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +1
 - **Feats**: —

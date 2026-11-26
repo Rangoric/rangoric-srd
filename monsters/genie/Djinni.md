@@ -14,9 +14,9 @@ cmd: "27"
 attack: "Slam +10 melee (1d8+4) or masterwork scimitar +11 melee (1d8+4/18–20)"
 full-attack: "2 slams +10 melee (1d8+4); or masterwork scimitar +11/+6 melee (1d8+4/18–20)"
 space-reach: "10 ft./10 ft."
-special-attacks: "Air mastery, whirlwind (1/10 minutes, 10-50 ft. tall, 1d8+4 damage, DC 17), spell-like abilities"
+special-attacks: "Air mastery, whirlwind (1/10 minutes, 10-50 ft. tall, 1d8+4 damage, +7 vs Reflex), spell-like abilities"
 special-qualities: "Darkvision 60 ft., telepathy 100 ft., immunity to acid"
-saves: "Fort +4, Ref +9, Will +7"
+defenses: "Fort 14, Ref 19, Will 17"
 abilities: "Str 18, Dex 19, Con 14, Int 14, Wis 15, Cha 15"
 skills: "Acrobatics +20, Appraise +12, Craft (any one) +12, Mysticism +12, Perception +12, Sense Motive +12, Stealth +10, Theology +12"
 skill-ranks: "Acrobatics 15, Appraise 7, Craft (any one) 7, Mysticism 7, Perception 7, Sense Motive 7, Stealth 7, Theology 7"
@@ -50,9 +50,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Slam +10 melee (1d8+4) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Scimitar|scimitar]] +11 melee (1d8+4/18–20)
 - **Full Attack**: 2 slams +10 melee (1d8+4); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Scimitar|scimitar]] +11/+6 melee (1d8+4/18–20)
 - **Space/Reach**: 10 ft./10 ft.
-- **Special Attacks**: Air mastery, [[rangoric-srd/monsters/abilities/Whirlwind|whirlwind]] (1/10 minutes, 10-50 ft. tall, 1d8+4 damage, DC 17), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Attacks**: Air mastery, [[rangoric-srd/monsters/abilities/Whirlwind|whirlwind]] (1/10 minutes, 10-50 ft. tall, 1d8+4 damage, +7 vs Reflex), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid
-- **Saves**: Fort +4, Ref +9, Will +7
+- **Defenses**: Fort 14, Ref 19, Will 17
 - **Abilities**: Str 18, Dex 19, Con 14, Int 14, Wis 15, Cha 15
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +20, [[rangoric-srd/skills/Appraise|Appraise]] +12, [[rangoric-srd/skills/Craft|Craft]] (any one) +12, [[rangoric-srd/skills/Mysticism|Mysticism]] +12, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +10, [[rangoric-srd/skills/Theology|Theology]] +12
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Wind Stance|Wind Stance]]
@@ -76,6 +76,6 @@ Djinn speak Auran, Celestial, Common, and Ignan.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th): At will—_[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only), _[[rangoric-srd/spells/Plane Shift|plane shift]]_ (willing targets to elemental planes, Astral Plane, or Material Plane only); 1/day—_[[rangoric-srd/spells/Create Food and Water|create food and water]]_, create wine (as _[[rangoric-srd/spells/Create Water|create water]]_, but wine instead), _[[rangoric-srd/spells/Gaseous Form|gaseous form]]_ (for up to 1 hour), _[[rangoric-srd/spells/Major Creation|major creation]]_ (created vegetable matter is permanent), _[[rangoric-srd/spells/Persistent Image|persistent image]]_ (DC 17), _[[rangoric-srd/spells/Wind Walk|wind walk]]_.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th): At will—_[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only), _[[rangoric-srd/spells/Plane Shift|plane shift]]_ (willing targets to elemental planes, Astral Plane, or Material Plane only); 1/day—_[[rangoric-srd/spells/Create Food and Water|create food and water]]_, create wine (as _[[rangoric-srd/spells/Create Water|create water]]_, but wine instead), _[[rangoric-srd/spells/Gaseous Form|gaseous form]]_ (for up to 1 hour), _[[rangoric-srd/spells/Major Creation|major creation]]_ (created vegetable matter is permanent), _[[rangoric-srd/spells/Persistent Image|persistent image]]_ (+7), _[[rangoric-srd/spells/Wind Walk|wind walk]]_.
 
 **Air Mastery (Ex)**: Airborne creatures take a –1 penalty on attack and damage rolls against a djinni.

@@ -16,7 +16,7 @@ full-attack: "Rapier +2 melee (1d6/18–20); or shortbow +2 ranged (1d6/×3)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Bardic performance 7 rounds/day (countersong, distraction, fascinate, inspire courage +1)"
 special-qualities: "Low-light vision, bardic knowledge +1, elf blood, immunity to sleep"
-saves: "Fort +1, Ref +4, Will +1 (+2 vs. enchantments)"
+defenses: "Fort 11, Ref 14, Will 11 (+2 vs. enchantments)"
 abilities: "Str 10, Dex 14, Con 12, Int 13, Wis 8, Cha 17"
 skills: "Deception +7, Emulation +7, Perception +5, Perform (wind) +12, Persuasion +7, Sense Motive +3, Sleight of Hand +6, Stealth +5"
 skill-ranks: "Deception 1, Emulation 1, Perception 3, Perform (wind) 8, Persuasion 1, Sense Motive 1, Sleight of Hand 1, Stealth 3"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Bard#^bardic-music|Bardic performance]] 7 rounds/day (countersong, distraction, fascinate, inspire courage +1)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Bard|bardic knowledge]] +1, [[rangoric-srd/races/Half-Elf#^half-elf-elven-blood|elf blood]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep
-- **Saves**: Fort +1, Ref +4, Will +1 (+2 vs. enchantments)
+- **Defenses**: Fort 11, Ref 14, Will 11 (+2 vs. enchantments)
 - **Abilities**: Str 10, Dex 14, Con 12, Int 13, Wis 8, Cha 17
 - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Emulation|Emulation]] +7, [[rangoric-srd/skills/Perception|Perception]] +5, Perform (wind) +12, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +3, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +5
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perform \[wind\]), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -71,4 +71,4 @@ A tavern singer speaks Common and Elven.
 
 **During Combat**: The bard uses grease to escape.
 
-**Bard spells known** (CL 1st; concentration +4): 1st (2/day)—_[[rangoric-srd/spells/Grease|grease]]_, _[[rangoric-srd/spells/Hideous Laughter|hideous laughter]]_ (DC 14); 0 (at will)—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (DC 13), _[[rangoric-srd/spells/Message|message]]_, _[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_.
+**Bard spells known** (CL 1st; concentration +4): 1st (2/day)—_[[rangoric-srd/spells/Grease|grease]]_, _[[rangoric-srd/spells/Hideous Laughter|hideous laughter]]_ (+4 vs Will); 0 (at will)—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (+3 vs Will), _[[rangoric-srd/spells/Message|message]]_, _[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_.

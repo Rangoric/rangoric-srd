@@ -16,7 +16,7 @@ full-attack: "Masterwork spiked chain +14/+9 melee (2d4+6); or +1 composite long
 space-reach: "5 ft./5 ft."
 special-attacks: "Favored enemy (aquatic humanoids +4, humans +2)"
 special-qualities: "Low-light vision, evasion, elf blood, favored terrain (forest +2, swamp +4), hunter's bond (companions), swift tracker, track +4, wild empathy +8, woodland stride, immunity to sleep"
-saves: "Fort +8, Ref +7, Will +5 (+2 vs. enchantments)"
+defenses: "Fort 18, Ref 17, Will 15 (+2 vs. enchantments)"
 abilities: "Str 18, Dex 12, Con 14, Int 10, Wis 14, Cha 8"
 skills: "Animal Handling +6, Athletics +16, Fieldcraft +14, Nature +12, Perception +16, Stealth +16"
 skill-ranks: "Animal Handling 4, Athletics 9, Fieldcraft 9, Nature 9, Perception 11, Stealth 12"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|Favored enemy]] (aquatic humanoids +4, humans +2)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Ranger#^ranger-evasion|evasion]], [[rangoric-srd/races/Half-Elf#^half-elf-elven-blood|elf blood]], [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|favored terrain]] (forest +2, swamp +4), [[rangoric-srd/classes/Ranger#^ranger-hunters-bond|hunter's bond]] (companions), [[rangoric-srd/classes/Ranger#^ranger-swift-tracker|swift tracker]], [[rangoric-srd/classes/Ranger#^ranger-track|track]] +4, [[rangoric-srd/classes/Ranger#^ranger-wild-empathy|wild empathy]] +8, [[rangoric-srd/classes/Ranger#^ranger-woodland-stride|woodland stride]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep
-- **Saves**: Fort +8, Ref +7, Will +5 (+2 vs. enchantments)
+- **Defenses**: Fort 18, Ref 17, Will 15 (+2 vs. enchantments)
 - **Abilities**: Str 18, Dex 12, Con 14, Int 10, Wis 14, Cha 8
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +16, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14, [[rangoric-srd/skills/Nature|Nature]] +12, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +16
 - **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Exotic Weapon Proficiency|Exotic Weapon Proficiency]] (spiked chain), [[rangoric-srd/feats/Improved Critical|Improved Critical]] (composite longbow), [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Track|Track]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (composite longbow)

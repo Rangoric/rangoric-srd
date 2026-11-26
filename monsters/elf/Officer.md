@@ -16,7 +16,7 @@ full-attack: "Masterwork greatsword +8 melee (2d6+3/19–20); or masterwork warh
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision, elven magic, weapon familiarity, immunity to sleep"
-saves: "Fort +2, Ref +2, Will +7 (+2 vs. enchantments)"
+defenses: "Fort 12, Ref 12, Will 17 (+2 vs. enchantments)"
 abilities: "Str 14, Dex 10, Con 10, Int 11, Wis 10, Cha 11"
 skills: "Animal Handling +6, Intimidation +5, Perception +8, Persuasion +9, Profession (soldier) +9, Sense Motive +5, Society +5"
 skill-ranks: "Animal Handling 3, Intimidation 2, Perception 5, Persuasion 6, Profession (soldier) 6, Sense Motive 2, Society 2"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/races/Elf|elven magic]], [[rangoric-srd/races/Elf|weapon familiarity]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep
-- **Saves**: Fort +2, Ref +2, Will +7 (+2 vs. enchantments)
+- **Defenses**: Fort 12, Ref 12, Will 17 (+2 vs. enchantments)
 - **Abilities**: Str 14, Dex 10, Con 10, Int 11, Wis 10, Cha 11
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Persuasion|Persuasion]] +9, [[rangoric-srd/skills/Profession|Profession]] (soldier) +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Society|Society]] +5
 - **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (greatsword)

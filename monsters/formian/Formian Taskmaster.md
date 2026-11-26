@@ -16,7 +16,7 @@ full-attack: "Sting +13 melee (1d4+3 plus poison) and 2 claws +13 melee (1d4+3);
 space-reach: "5 ft./5 ft."
 special-attacks: "Poison, spell-like abilities"
 special-qualities: "Blindsight 30 ft., darkvision 60 ft., hive mind, telepathy 120 ft., formian traits, mental motivator (20 rounds/day), resistance to sonic 10"
-saves: "Fort +6, Ref +9, Will +10"
+defenses: "Fort 16, Ref 19, Will 20"
 abilities: "Str 17, Dex 14, Con 16, Int 13, Wis 16, Cha 19"
 skills: "Appraise +6, Athletics +16, Craft (armor) +14, Deception +17, Mysticism +6, Perception +16 (+20 with hive mind), Persuasion +14, Sense Motive +16"
 skill-ranks: "Appraise 5, Athletics 10, Craft (armor) 10, Deception 10, Mysticism 5, Perception 10, Persuasion 10, Sense Motive 10"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/formian/Formian#^hive-mind|hive mind]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 120 ft., [[rangoric-srd/monsters/formian/Formian#^formian-traits|formian traits]], mental motivator (20 rounds/day), [[rangoric-srd/monsters/abilities/Resistance|resistance]] to sonic 10
-- **Saves**: Fort +6, Ref +9, Will +10
+- **Defenses**: Fort 16, Ref 19, Will 20
 - **Abilities**: Str 17, Dex 14, Con 16, Int 13, Wis 16, Cha 19
 - **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +16, [[rangoric-srd/skills/Craft|Craft]] (armor) +14, [[rangoric-srd/skills/Deception|Deception]] +17, [[rangoric-srd/skills/Mysticism|Mysticism]] +6, [[rangoric-srd/skills/Perception|Perception]] +16 (+20 with hive mind), [[rangoric-srd/skills/Persuasion|Persuasion]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (enchantment)
@@ -76,14 +76,14 @@ Formian taskmasters speak Common.
 
 Taskmasters rely on their dominated slaves to fight for them if at all possible. If necessary, though, they can defend themselves with claws and a poison sting.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +14): 3/day—_[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ (DC 16), _[[rangoric-srd/spells/Sending|sending]]_ (to the hive queen only).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +14): 3/day—_[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ (+6 vs Will), _[[rangoric-srd/spells/Sending|sending]]_ (to the hive queen only).
 
 **Spells**: A formian taskmaster casts spells as a 7th-level [[rangoric-srd/classes/Bard|bard]]. It favors enchantment and illusion spells.
 
-**Bard spells known** (CL 7th; concentration +11): 3rd (2/day)—_[[rangoric-srd/spells/Confusion|confusion]]_ (DC 18), _[[rangoric-srd/spells/Good Hope|good hope]]_; 2nd (4/day)—_[[rangoric-srd/spells/Heroism|heroism]]_, _[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Sound Burst|sound burst]]_ (DC 16), _[[rangoric-srd/spells/Suggestion|suggestion]]_ (DC 17); 1st (5/day)—_[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 16), _[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]_, _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, _[[rangoric-srd/spells/Hideous Laughter|hideous laughter]]_ (DC 16), _[[rangoric-srd/spells/Silent Image|silent image]]_ (DC 15); 0 (at will)—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Daze|daze]]_ (DC 15), _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Mending|mending]]_, _[[rangoric-srd/spells/Message|message]]_, _[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_.
+**Bard spells known** (CL 7th; concentration +11): 3rd (2/day)—_[[rangoric-srd/spells/Confusion|confusion]]_ (+8 vs Will), _[[rangoric-srd/spells/Good Hope|good hope]]_; 2nd (4/day)—_[[rangoric-srd/spells/Heroism|heroism]]_, _[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Sound Burst|sound burst]]_ (+6 vs Fortitude), _[[rangoric-srd/spells/Suggestion|suggestion]]_ (+7 vs Will); 1st (5/day)—_[[rangoric-srd/spells/Charm Person|charm person]]_ (+6 vs Will), _[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]_, _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, _[[rangoric-srd/spells/Hideous Laughter|hideous laughter]]_ (+6 vs Will), _[[rangoric-srd/spells/Silent Image|silent image]]_ (+5 vs Will); 0 (at will)—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Daze|daze]]_ (+5 vs Will), _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Mending|mending]]_, _[[rangoric-srd/spells/Message|message]]_, _[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_.
 
 **Mental Motivator (Su)**: A formian taskmaster can inspire competence or inspire courage as a 7th-level bard (typically 20 rounds/day). The taskmaster's performance is purely mental and only affects formians from its own hive within telepathic range.
 
-**Poison (Ex)**: Sting—injury; save Fort DC 18; frequency 1/round for 6 rounds; effect 1d4 Dexterity; cure 2 consecutive saves.
+**Poison (Ex)**: Sting—injury; attack +8 vs Fortitude; frequency 1/round for 6 rounds; effect 1d4 Dexterity; cure 2 consecutive misses.
 
-**Dominate Monster (Su)**: A taskmaster can use a [[rangoric-srd/spells/Dominate Monster|dominate monster]] ability as the spell from a 10th-level caster (Will DC 17 negates), although the subject may be of any kind and may be up to Large size. Creatures that successfully save cannot be affected by the same taskmaster’s dominate monster ability for 24 hours. A single taskmaster can dominate up to four subjects at a time. The save DC is Charisma-based.
+**Dominate Monster (Su)**: A taskmaster can use a [[rangoric-srd/spells/Dominate Monster|dominate monster]] ability as the spell from a 10th-level caster (+7 vs Will), although the subject may be of any kind and may be up to Large size. Creatures the ability misses cannot be affected by the same taskmaster’s dominate monster ability for 24 hours. A single taskmaster can dominate up to four subjects at a time. The attack bonus is Charisma-based.

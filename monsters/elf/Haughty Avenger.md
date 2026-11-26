@@ -16,7 +16,7 @@ full-attack: "Masterwork rapier +4 melee (1d6+2/18–20) and dagger +3 melee (1d
 space-reach: "5 ft./5 ft."
 special-attacks: "Smite evil 1/day (+2 attack and AC, +3 damage)"
 special-qualities: "Low-light vision, aura of courage (10 ft.), aura, code of conduct, elf blood, lay on hands (1d6, 3/day), mercy (shaken), immunity to disease, fear and sleep"
-saves: "Fort +5, Ref +5, Will +6 (+2 vs. enchantments)"
+defenses: "Fort 15, Ref 15, Will 16 (+2 vs. enchantments)"
 abilities: "Str 15, Dex 15, Con 10, Int 8, Wis 12, Cha 14"
 skills: "Acrobatics +7, Perception +4, Persuasion +7"
 skill-ranks: "Acrobatics 2, Perception 3, Persuasion 2"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Paladin#^paladin-smite-evil|Smite evil]] 1/day (+2 attack and AC, +3 damage)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Paladin#^paladin-aura-of-courage|aura of courage]] (10 ft.), [[rangoric-srd/classes/Paladin|aura]], [[rangoric-srd/classes/Paladin#^paladin-code-of-conudct|code of conduct]], [[rangoric-srd/races/Half-Elf#^half-elf-elven-blood|elf blood]], [[rangoric-srd/classes/Paladin#^paladin-lay-on-hands|lay on hands]] (1d6, 3/day), [[rangoric-srd/classes/Paladin#^paladin-mercy|mercy]] (shaken), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease, fear and sleep
-- **Saves**: Fort +5, Ref +5, Will +6 (+2 vs. enchantments)
+- **Defenses**: Fort 15, Ref 15, Will 16 (+2 vs. enchantments)
 - **Abilities**: Str 15, Dex 15, Con 10, Int 8, Wis 12, Cha 14
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Persuasion|Persuasion]] +7
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Acrobatics), [[rangoric-srd/feats/Two-Weapon Defense|Two-Weapon Defense]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]]
