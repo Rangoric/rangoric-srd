@@ -21,7 +21,7 @@ _A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [
 
 This power replaces the [[rangoric-srd/class-options/domains/Good Domain#Granted Powers|holy lance]] power of the [[rangoric-srd/class-options/domains/Good Domain|Good]] domain. Agathions are a race of neutral good outsiders.
 
-**Protective Aura (Su)**: At 8th level, you can emit a 30-foot protective aura as a standard action. Allies in this aura receive a +2 deflection bonus to AC and a +2 resistance bonus on all saving throws. In addition, allies in the area gain the benefits of _[[rangoric-srd/spells/Protection from Evil|protection from evil]]_ (although the AC bonus and saving throw bonus do not stack with those granted by this effect). You can use this ability for a number of rounds per day equal to your cleric level. These rounds do not have to be consecutive.
+**Protective Aura (Su)**: At 8th level, you can emit a 30-foot protective aura as a standard action. Allies in this aura receive a +2 deflection bonus to AC and a +2 resistance bonus on all defenses. In addition, allies in the area gain the benefits of _[[rangoric-srd/spells/Protection from Evil|protection from evil]]_ (although the AC bonus and defense bonus do not stack with those granted by this effect). You can use this ability for a number of rounds per day equal to your cleric level. These rounds do not have to be consecutive.
 
 ## Replacement Domain Spells
 

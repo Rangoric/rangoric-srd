@@ -21,7 +21,7 @@ The echoing cave-songs and the rumble and creak of primal spirits deep below the
 
 **Bonus Feats**: [[rangoric-srd/feats/Acrobatic Steps|Acrobatic Steps]], [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Forge Ring|Forge Ring]], [[rangoric-srd/feats/Nimble Moves|Nimble Moves]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception or Stealth), [[rangoric-srd/feats/Still Spell|Still Spell]].
 
-**Bloodline Arcana**: Whenever you and the target of your spell are both underground, increase the spell's save DC by +1.
+**Bloodline Arcana**: Whenever you and the target of your spell are both underground, increase the spell's attack bonus by +1.
 
 **Mutated Bloodline**: a [[rangoric-srd/class-options/archetypes/sorcerer/Wildblooded (Archetype)|wildblooded]] sorcerer with this bloodline can have its mutated version, the [[rangoric-srd/class-options/bloodlines/Bedrock (Mutated Bloodline)|bedrock mutated bloodline]].
 

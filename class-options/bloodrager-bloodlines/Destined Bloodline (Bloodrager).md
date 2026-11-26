@@ -29,11 +29,11 @@ Your future greatness grants you the might to strike your enemies with awe.
 
 **Destined Strike (Su)**: At 1st level, as a free action up to three times per day you can grant yourself an insight bonus equal to 1/2 your bloodrager level (minimum 1) on one melee attack. At 12th level, you can use this ability up to five times per day.
 
-**Fated Bloodrager (Su)**: At 4th level, you gain a +1 luck bonus to AC and on saving throws. At 8th level and every 4 levels thereafter, this bonus increases by 1 (to a maximum of +5 at 20th level).
+**Fated Bloodrager (Su)**: At 4th level, you gain a +1 luck bonus to AC and defenses. At 8th level and every 4 levels thereafter, this bonus increases by 1 (to a maximum of +5 at 20th level).
 
 **Certain Strike (Su)**: At 8th level, you may reroll an attack roll once during a bloodrage. You must decide to use this ability after the die is rolled, but before the GM reveals the results. You must take the second result, even if it’s worse.
 
-**Defy Death (Su)**: At 12th level, once per day when an attack or spell that deals damage would result in your death, you can attempt a DC 20 Fortitude save. If you succeed, you are instead reduced to 1 hit point; if you succeed and already have less than 1 hit point, you instead take no damage.
+**Defy Death (Su)**: At 12th level, once per day when an attack or spell that deals damage would result in your death, you can attempt a DC 20 Fortitude check (1d20 + Fortitude save bonus). If you succeed, you are instead reduced to 1 hit point; if you succeed and already have less than 1 hit point, you instead take no damage.
 
 **Unstoppable (Su)**: At 16th level, any critical threats you score are automatically confirmed. Any critical threats made against you confirm only if the second roll results in a natural 20 (or is automatically confirmed).
 

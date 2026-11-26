@@ -21,7 +21,7 @@ Scholars of the arcane are always creating new means to use magic.
 
 **Associated Bloodline**: [[rangoric-srd/class-options/bloodlines/Arcane Bloodline|Arcane]].
 
-**Bloodline Arcana**: Unlike most sorcerers, whose innate magic is powered by force of personality, you use your intellect to understand and master your mystic powers. You use your Intelligence, rather than your Charisma, to determine all class features and effects relating to your sorcerer class, such as bonus spells per day, the maximum spell level you can cast, the save DCs of your spells, and the number of daily uses of your bloodline powers. You gain a +2 bonus on all [[rangoric-srd/skills/Arcana|Arcana]] and [[rangoric-srd/skills/Mysticism|Mysticism]] checks.
+**Bloodline Arcana**: Unlike most sorcerers, whose innate magic is powered by force of personality, you use your intellect to understand and master your mystic powers. You use your Intelligence, rather than your Charisma, to determine all class features and effects relating to your sorcerer class, such as bonus spells per day, the maximum spell level you can cast, the attack bonuses of your spells, and the number of daily uses of your bloodline powers. You gain a +2 bonus on all [[rangoric-srd/skills/Arcana|Arcana]] and [[rangoric-srd/skills/Mysticism|Mysticism]] checks.
 
 **Bloodline Powers**: Your preferred focus is a bolt of mind-spun magic.
 

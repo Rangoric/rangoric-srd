@@ -29,9 +29,9 @@ When you bloodrage, hellfire infuses your blood with terrifying effects.
 
 **Hellfire Strike (Su)**: At 1st level, as a swift action up to three times a day you can infuse your attacks with hellfire. When you do, your melee attacks gain the _[[rangoric-srd/magic-items/weapon-abilities/Flaming|flaming]]_ weapon special ability for 1 round. At 12th level, you can use this ability five times per day, and the effect is treated as _[[rangoric-srd/magic-items/weapon-abilities/Flaming Burst|flaming burst]]_.
 
-**Infernal Resistance (Ex)**: At 4th level, you gain fire resistance 5, as well as a +2 bonus on saving throws against poison. At 8th level, your fire resistance increases to 10, and the bonus on saving throws against poison increases to +4.
+**Infernal Resistance (Ex)**: At 4th level, you gain fire resistance 5, as well as a +2 bonus on defenses against poison. At 8th level, your fire resistance increases to 10, and the bonus on defenses against poison increases to +4.
 
-**Diabolical Arrogance (Su)**: At 8th level, you gain a +4 bonus on saving throws against enchantment and fear effects.
+**Diabolical Arrogance (Su)**: At 8th level, you gain a +4 bonus on defenses against enchantment and fear effects.
 
 **Dark Wings (Su)**: At 12th level, when entering a bloodrage you can choose to have batlike wings grow from your back, giving you a fly speed of 60 feet with average maneuverability. At 16th level, your fly speed increases to 80 feet with good maneuverability.
 

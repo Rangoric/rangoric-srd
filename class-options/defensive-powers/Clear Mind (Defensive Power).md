@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/class-option]
 
 _A [[rangoric-srd/prestige-classes/Stalwart Defender#Defensive Powers|defensive power]] (Ex)._
 
-The defender may reroll a failed Will save. This power is used as an immediate action after the first save is attempted, but before the results are revealed by the GM. The defender must take the second result, even if it is worse. This power can only be used once per defensive stance.
+The defender may make an attack that hit her Will reroll. This power is used as an immediate action after the attack is rolled, but before the results are revealed by the GM. The second result stands, even if it is worse for the defender. This power can only be used once per defensive stance.

@@ -31,7 +31,7 @@ While some would say that you are possessed, you know better. The demonic influe
 
 **Claws (Su)**: At 1st level, you can grow claws as a free action. These claws are treated as natural weapons, allowing you to make two claw attacks as a full attack action using your full base attack bonus. These attacks deal 1d4 points of damage each (1d3 if you are Small) plus your Strength modifier. At 5th level, these claws are considered magic weapons for the purpose of overcoming DR. At 7th level, the damage increases by one step to 1d6 points of damage (1d4 if you are Small). At 11th level, these claws become _[[rangoric-srd/magic-items/weapon-abilities/Flaming|flaming]]_ _weapons_, each dealing an additional 1d6 points of fire damage on a successful hit. You can use your claws for a number of rounds per day equal to 3 + your Charisma modifier. These rounds do not need to be consecutive.
 
-**Demon Resistances (Ex)**: At 3rd level, you gain resist electricity 5 and a +2 bonus on saving throws made against poison. At 9th level, your resistance to electricity increases to 10 and your bonus on poison saving throws increases to +4.
+**Demon Resistances (Ex)**: At 3rd level, you gain resist electricity 5 and a +2 bonus on defenses against poison. At 9th level, your resistance to electricity increases to 10 and your bonus to defenses against poison increases to +4.
 
 **Strength of the Abyss (Ex)**: At 9th level, you gain a +2 inherent bonus to your Strength. This bonus increases to +4 at 13th level, and to +6 at 17th level.
 

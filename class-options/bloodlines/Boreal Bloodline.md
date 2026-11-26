@@ -21,7 +21,7 @@ Descended from inhabitants of the lands of ice and snow, you count among your an
 
 **Bonus Feats**: [[rangoric-srd/feats/Arcane Strike|Arcane Strike]], [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Empower Spell|Empower Spell]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Exotic Weapon Proficiency|Exotic Weapon Proficiency]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Intimidation), [[rangoric-srd/feats/Toughness|Toughness]].
 
-**Bloodline Arcana**: Whenever you cast a spell with the cold descriptor, increase the spell's save DC by 1.
+**Bloodline Arcana**: Whenever you cast a spell with the cold descriptor, increase the spell's attack bonus by 1.
 
 **Mutated Bloodline**: a [[rangoric-srd/class-options/archetypes/sorcerer/Wildblooded (Archetype)|wildblooded]] sorcerer with this bloodline can have its mutated version, the [[rangoric-srd/class-options/bloodlines/Rime-Blooded (Mutated Bloodline)|rime-blooded mutated bloodline]].
 

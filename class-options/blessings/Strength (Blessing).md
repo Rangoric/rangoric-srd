@@ -19,4 +19,4 @@ _A [[rangoric-srd/classes/Warpriest#^warpriest-blessings|warpriest blessing]], g
 
 **Strength Surge (minor)**: At 1st level, as a swift action you can focus your own strength. You gain an enhancement bonus equal to 1/2 your warpriest level (minimum +1) on melee attack rolls, combat maneuver checks that rely on Strength, Strength-based skills, and Strength checks for 1 round.
 
-**Strength of Will (major)**: At 10th level, as a swift action you can ignore the movement penalties caused by wearing medium or heavy armor or by carrying a medium or heavy load. This effect lasts for 1 minute. During this time, you can add your Strength modifier on saving throws against effects that would cause you to become entangled, staggered, or paralyzed.
+**Strength of Will (major)**: At 10th level, as a swift action you can ignore the movement penalties caused by wearing medium or heavy armor or by carrying a medium or heavy load. This effect lasts for 1 minute. During this time, you can add your Strength modifier to your defenses against effects that would cause you to become entangled, staggered, or paralyzed.

@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/overview]
 
 # Discoveries
 
-The [[rangoric-srd/classes/Alchemist|alchemist]]’s discoveries and grand discoveries, one note each. The class note’s [[rangoric-srd/classes/Alchemist#^alchemist-discovery|Discovery]] feature has the rules (when they’re gained, prerequisites, the save DC, and that discoveries marked \* modify bombs and don’t stack); its [[rangoric-srd/classes/Alchemist#^alchemist-grand-discovery|Grand Discovery]] feature embeds the grand discoveries. Each note has `bomb` (marked \*), `level` (the minimum alchemist level, where the discovery names one; the list below is grouped by it), `race` (for the few only one race’s alchemists can take, in brackets below) and `book`. These are separate from the wizard’s [[rangoric-srd/class-options/arcane-discoveries/Arcane Discoveries|arcane discoveries]].
+The [[rangoric-srd/classes/Alchemist|alchemist]]’s discoveries and grand discoveries, one note each. The class note’s [[rangoric-srd/classes/Alchemist#^alchemist-discovery|Discovery]] feature has the rules (when they’re gained, prerequisites, the attack bonus, and that discoveries marked \* modify bombs and don’t stack); its [[rangoric-srd/classes/Alchemist#^alchemist-grand-discovery|Grand Discovery]] feature embeds the grand discoveries. Each note has `bomb` (marked \*), `level` (the minimum alchemist level, where the discovery names one; the list below is grouped by it), `race` (for the few only one race’s alchemists can take, in brackets below) and `book`. These are separate from the wizard’s [[rangoric-srd/class-options/arcane-discoveries/Arcane Discoveries|arcane discoveries]].
 
 ## Discoveries
 

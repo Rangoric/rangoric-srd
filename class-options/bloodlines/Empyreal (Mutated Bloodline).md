@@ -21,7 +21,7 @@ Your heavenly power derives from insight rather than force of personality.
 
 **Associated Bloodline**: [[rangoric-srd/class-options/bloodlines/Celestial Bloodline|Celestial]].
 
-**Bloodline Arcana**: Unlike most sorcerers whose innate magic is powered by force of personality, you use pure willpower to master and fuel your magic. You use your Wisdom, rather than your Charisma, to determine all class features and effects relating to your sorcerer class, such as bonus spells per day, maximum spell level you can cast, and the save DCs of your spells. You gain a +2 bonus on all [[rangoric-srd/skills/Medicine|Medicine]] and [[rangoric-srd/skills/Theology|Theology]] checks.
+**Bloodline Arcana**: Unlike most sorcerers whose innate magic is powered by force of personality, you use pure willpower to master and fuel your magic. You use your Wisdom, rather than your Charisma, to determine all class features and effects relating to your sorcerer class, such as bonus spells per day, maximum spell level you can cast, and the attack bonuses of your spells. You gain a +2 bonus on all [[rangoric-srd/skills/Medicine|Medicine]] and [[rangoric-srd/skills/Theology|Theology]] checks.
 
 **Bloodline Powers**: Your quasi-divine nature gives you strange powers.
 

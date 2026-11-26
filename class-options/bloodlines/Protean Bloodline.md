@@ -31,10 +31,10 @@ Your ancestral immersion in primordial chaos begets your curiously warped magica
 
 **Protoplasm (Sp)**: At 1st level, you can create a ball of entropic protoplasm and hurl it at targets within 30 feet. This protoplasm acts as a tanglefoot bag that also inflicts 1 point of acid damage per round to a creature entangled by it. The protoplasm dissolves within 1d3 rounds. You may use this ability a number of times per day equal to 3 + your Charisma modifier.
 
-**Protean Resistances (Ex)**: At 3rd level, you gain resist acid 5 and a +2 bonus on saving throws against polymorph, petrification, and transmutation spells or effects. At 9th level, you gain resist acid 10 and your save bonus increases to +4.
+**Protean Resistances (Ex)**: At 3rd level, you gain resist acid 5 and a +2 bonus on defenses against polymorph, petrification, and transmutation spells or effects. At 9th level, you gain resist acid 10 and your save bonus increases to +4.
 
 **Reality Wrinkle (Sp)**: At 9th level, you can surround yourself with a mobile, 10-foot-radius emanation of mutable reality. This rippling distortion is similar to _[[rangoric-srd/spells/Solid Fog|solid fog]]_ but does not provide concealment or block line of sight. Your movement is not slowed by this aura. Attacks from outside the aura suffer a 20% miss chance against targets inside the aura. You may use this ability a number of rounds per day equal to your sorcerer level, though this duration need not be continuous.
 
 **Spatial Tear (Sp)**: At 15th level, once per day, you can unravel the fibers of reality and ride along them as they snap back into place. This power functions as _[[rangoric-srd/spells/Dimension Door|dimension door]]_, while also creating a mass of _[[rangoric-srd/spells/Black Tentacles|black tentacles]]_ centered on your former location. Both of these effects use your sorcerer level as the caster level. At 20th level, you can use this ability twice per day.
 
-**Avatar of Chaos (Ex)**: At 20th level, you are infused with the essence of raw chaos. You gain immunity to acid, petrification, and polymorph effects (except when cast on self), as well as a +2 bonus to save DCs and on checks to overcome spell penetration against creatures with the lawful subtype.
+**Avatar of Chaos (Ex)**: At 20th level, you are infused with the essence of raw chaos. You gain immunity to acid, petrification, and polymorph effects (except when cast on self), as well as a +2 bonus on attacks against defenses and on checks to overcome spell penetration against creatures with the lawful subtype.

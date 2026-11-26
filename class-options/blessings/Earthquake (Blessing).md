@@ -22,4 +22,4 @@ _A [[rangoric-srd/classes/Warpriest#^warpriest-blessings|warpriest blessing]]. T
 
 **Stone’s Base (minor)**: You can touch an ally to bless it with the stalwart resilience of stone. For 1 minute, the creature gains a +4 bonus to its [[rangoric-srd/combat/Combat Maneuvers|CMD]] against maneuvers that would move the ally or knock it prone.
 
-**Earth Hammer (major)**: At 10th level, you can touch a weapon to bless it with the force of a mighty earthquake for 1 minute. When the weapon hits a creature, the target must succeed at a Reflex save or fall prone; either way, the creature is immune to this ability for 24 hours.
+**Earth Hammer (major)**: At 10th level, you can touch a weapon to bless it with the force of a mighty earthquake for 1 minute. When the weapon hits a creature, it attacks the target’s Reflex, and on a hit the target falls prone; hit or miss, the creature is immune to this ability for 24 hours.

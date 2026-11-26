@@ -27,7 +27,7 @@ One of your ancestors was fey, or the fey realm somehow intermixed with your blo
 
 The power of the natural world saturates your being, and manifests itself when you bloodrage.
 
-**Confusing Critical (Su)**: At 1st level, fey power courses through your attacks. Each time you confirm a critical hit, the target must succeed at a Will saving throw or be [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]] for 1 round. The DC of this save is equal to 10 + 1/2 your bloodrager level + your Constitution modifier. This is a mind-affecting compulsion effect.
+**Confusing Critical (Su)**: At 1st level, fey power courses through your attacks. Each time you confirm a critical hit, it attacks the target’s Will, and on a hit the target is [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]] for 1 round. Its attack bonus is equal to 1/2 your bloodrager level + your Constitution modifier. This is a mind-affecting compulsion effect.
 
 **Leaping Charger (Su)**: At 4th level, you are able to leap over overgrowth and similar impediments with ease while charging. When you charge, you ignore difficult terrain (but not other creatures). You can move through it at normal speed, and it does not impede your charge.
 

@@ -27,7 +27,7 @@ There is a taint in your blood that is both alien and bizarre. When you bloodrag
 
 While bloodraging, you gain the abilities and immunities of some aberrations, but show signs of your tainted heritage.
 
-**Staggering Strike (Su)**: At 1st level, when you confirm a critical hit the target must succeed at a Fortitude saving throw or be [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for 1 round. The DC of this save is equal to 10 + 1/2 your bloodrager level + your Constitution modifier. These effects stack with the [[rangoric-srd/feats/Staggering Critical|Staggering Critical]] feat; the target must save against each effect individually.
+**Staggering Strike (Su)**: At 1st level, when you confirm a critical hit it attacks the target’s Fortitude, and on a hit the target is [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for 1 round. Its attack bonus is equal to 1/2 your bloodrager level + your Constitution modifier. These effects stack with the [[rangoric-srd/feats/Staggering Critical|Staggering Critical]] feat; each effect attacks the target separately.
 
 **Abnormal Reach (Su)**: At 4th level, your limbs elongate; your reach increases by 5 feet.
 

@@ -27,7 +27,7 @@ _A [[rangoric-srd/classes/Sorcerer#^sorcerer-bloodline|sorcerer bloodline]]._ Yo
 
 **Bonus Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Ectoplasmic Spell|Ectoplasmic Spell]], [[rangoric-srd/feats/Lingering Spell|Lingering Spell]], [[rangoric-srd/feats/Silent Spell|Silent Spell]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Acrobatics or Stealth), [[rangoric-srd/feats/Spell Focus|Spell Focus]].
 
-**Bloodline Arcana**: [[rangoric-srd/rules/Special Abilities and Conditions#^incorporeal|Incorporeal]] creatures take 75% of the normal amount of damage from your damaging spells, and when incorporeal creatures attempt saving throws against your non-damaging spells, they roll twice and must take the lower result.
+**Bloodline Arcana**: [[rangoric-srd/rules/Special Abilities and Conditions#^incorporeal|Incorporeal]] creatures take 75% of the normal amount of damage from your damaging spells, and when your non-damaging spells attack incorporeal creatures' defenses, they roll twice and take the higher result.
 
 ## Bloodline Powers
 
