@@ -16,7 +16,7 @@ full-attack: "Short sword +2 melee (1d6/19–20); or dagger +4 ranged (1d4/19–
 space-reach: "5 ft./5 ft."
 special-attacks: "Sneak attack +1d6"
 special-qualities: "Low-light vision, camouflaged step, chameleon skin"
-saves: "Fort +2, Ref +5, Will +3"
+defenses: "Fort 12, Ref 15, Will 13"
 abilities: "Str 11, Dex 14, Con 13, Int 10, Wis 14, Cha 7"
 skills: "Perception +5, Stealth +16"
 skill-ranks: "Perception 3, Stealth 3"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Sneak attack +1d6
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Camouflaged Step|camouflaged step]], [[rangoric-srd/monsters/abilities/Chameleon Skin|chameleon skin]]
-- **Saves**: Fort +2, Ref +5, Will +3
+- **Defenses**: Fort 12, Ref 15, Will 13
 - **Abilities**: Str 11, Dex 14, Con 13, Int 10, Wis 14, Cha 7
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +16
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)

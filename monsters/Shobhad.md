@@ -15,7 +15,7 @@ full-attack: "Longsword +5 melee (2d6+5/19–20) and longsword +5 melee (2d6+2/1
 space-reach: "10 ft./10 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., ferocity, resistance to cold 5"
-saves: "Fort +5, Ref +5, Will +4"
+defenses: "Fort 15, Ref 15, Will 14"
 abilities: "Str 20, Dex 13, Con 18, Int 10, Wis 11, Cha 13"
 skills: "Fieldcraft +8, Intimidation +9, Perception +8, Stealth +2"
 skill-ranks: "Fieldcraft 5, Intimidation 5, Perception 5, Stealth 2"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 5
-- **Saves**: Fort +5, Ref +5, Will +4
+- **Defenses**: Fort 15, Ref 15, Will 14
 - **Abilities**: Str 20, Dex 13, Con 18, Int 10, Wis 11, Cha 13
 - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +2
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Multiweapon Fighting|Multiweapon Fighting]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (shobhad longrifle)

@@ -15,7 +15,7 @@ full-attack: "Bite +8 melee (2d6+7/19–20)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Crippling bite"
 special-qualities: "Darkvision 60 ft., compression, immunity to mind-affecting effects"
-saves: "Fort +7, Ref +2, Will +2"
+defenses: "Fort 17, Ref 12, Will 12"
 abilities: "Str 21, Dex 11, Con 15, Int —, Wis 10, Cha 6"
 skills: "Acrobatics –6"
 skill-ranks: "Acrobatics 0"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Crippling Bite|Crippling bite]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-- **Saves**: Fort +7, Ref +2, Will +2
+- **Defenses**: Fort 17, Ref 12, Will 12
 - **Abilities**: Str 21, Dex 11, Con 15, Int —, Wis 10, Cha 6
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –6
 - **Feats**: —

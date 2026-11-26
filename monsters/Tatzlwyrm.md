@@ -15,7 +15,7 @@ full-attack: "Bite +5 melee (1d8+3 plus grab)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Poison gasp, pounce, rake (2 claws +5, 1d4+2)"
 special-qualities: "Darkvision 60 ft., low-light vision, immunity to paralysis and sleep"
-saves: "Fort +4, Ref +5, Will +5"
+defenses: "Fort 14, Ref 15, Will 15"
 abilities: "Str 14, Dex 15, Con 12, Int 5, Wis 14, Cha 11"
 skills: "Athletics +14, Escape Artist +3, Intimidation +4, Perception +8, Stealth +11 (+16 in dense vegetation)"
 skill-ranks: "Athletics 9, Escape Artist 3, Intimidation 1, Perception 3, Stealth 5"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison Gasp|poison gasp]], [[rangoric-srd/monsters/abilities/Pounce|pounce]], [[rangoric-srd/monsters/abilities/Rake|rake]] (2 claws +5, 1d4+2)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], immunity to [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] and sleep
-- **Saves**: Fort +4, Ref +5, Will +5
+- **Defenses**: Fort 14, Ref 15, Will 15
 - **Abilities**: Str 14, Dex 15, Con 12, Int 5, Wis 14, Cha 11
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +3, [[rangoric-srd/skills/Intimidation|Intimidation]] +4, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +11 (+16 in dense vegetation)
 - **Feats**: [[rangoric-srd/feats/Nimble Moves|Nimble Moves]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
@@ -69,4 +69,4 @@ Like true dragons, tatzlwyrms are strict carnivores. They spend most of their ti
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison Gasp|Poison Gasp]] (Ex)**: A tatzlwyrm's breath contains a poisonous vapor. While grappling, instead of making a bite or rake attack, a tatzlwyrm can breathe poison into its victim's face. A tatzlwyrm must begin its turn grappling to use this ability—it can't begin a grapple and use its poison gasp in the same turn. [[rangoric-srd/rules/afflictions/Tatzlwyrm Poison|Tatzlwyrm Poison]]: Breath—inhaled; _save_ Fort DC 12; _frequency_ 1/round for 2 rounds; _effect_ 1d2 Str damage; _cure_ 1 save. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison Gasp|Poison Gasp]] (Ex)**: A tatzlwyrm's breath contains a poisonous vapor. While grappling, instead of making a bite or rake attack, a tatzlwyrm can breathe poison into its victim's face. A tatzlwyrm must begin its turn grappling to use this ability—it can't begin a grapple and use its poison gasp in the same turn. [[rangoric-srd/rules/afflictions/Tatzlwyrm Poison|Tatzlwyrm Poison]]: Breath—inhaled; _attack_ +2 vs Fortitude; _frequency_ 1/round for 2 rounds; _effect_ 1d2 Str damage; _cure_ 1 miss. The attack bonus is Constitution-based.

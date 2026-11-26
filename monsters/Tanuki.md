@@ -16,7 +16,7 @@ full-attack: "Masterwork quarterstaff +7 melee (1d6+2) and masterwork quartersta
 space-reach: "5 ft./5 ft."
 special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 60 ft., detect poison, low-light vision, change shape (raccoon; beast shape II), sake affinity"
-saves: "Fort +5, Ref +7, Will +6"
+defenses: "Fort 15, Ref 17, Will 16"
 abilities: "Str 14, Dex 17, Con 18, Int 13, Wis 14, Cha 19"
 skills: "Deception +7, Mysticism +4, Nature +5, Perception +8, Perform (percussion) +8, Persuasion +6, Sense Motive +4, Stealth +10"
 skill-ranks: "Deception 3, Mysticism 3, Nature 1, Perception 3, Perform (percussion) 4, Persuasion 2, Sense Motive 2, Stealth 4"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (raccoon; beast shape II), [[rangoric-srd/monsters/abilities/Sake Affinity|sake affinity]]
-- **Saves**: Fort +5, Ref +7, Will +6
+- **Defenses**: Fort 15, Ref 17, Will 16
 - **Abilities**: Str 14, Dex 17, Con 18, Int 13, Wis 14, Cha 19
 - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Mysticism|Mysticism]] +4, [[rangoric-srd/skills/Nature|Nature]] +5, [[rangoric-srd/skills/Perception|Perception]] +8, Perform (percussion) +8, [[rangoric-srd/skills/Persuasion|Persuasion]] +6, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +10
 - **Feats**: [[rangoric-srd/feats/Two-Weapon Defense|Two-Weapon Defense]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (quarterstaff)
@@ -76,4 +76,4 @@ A tanuki is 5 feet tall and weighs 180 pounds.
 
 **[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 7th; concentration +11): Constant—_[[rangoric-srd/spells/Detect Poison|detect poison]]_; At will—_[[rangoric-srd/spells/Purify Food and Drink|purify food and drink]]_; 3/day—_[[rangoric-srd/spells/Magic Stone|magic stone]], [[rangoric-srd/spells/Major Creation|major creation]]_ (up to 1 cubic foot); 1/day—_[[rangoric-srd/spells/Create Food and Water|create food and water]]_, _[[rangoric-srd/spells/Shrink Item|shrink item]], [[rangoric-srd/spells/Veil|veil]]_ (self only).
 
-**[[rangoric-srd/monsters/abilities/Sake Affinity|Sake Affinity]] (Su)**: As a swift action, a tanuki can take a swig of sake from the gourd it always carries at its side. When it does so, it gains the effect of one of the following spells at caster level 7th: divine favor, false life, haste, or rage. Unusual tanukis might have additional spell effect choices at the GM's discretion. Each time a tanuki takes a swig of sake, it becomes progressively drunker and takes a –1 penalty to its AC and on Reflex saves for 1 minute. These penalties stack.
+**[[rangoric-srd/monsters/abilities/Sake Affinity|Sake Affinity]] (Su)**: As a swift action, a tanuki can take a swig of sake from the gourd it always carries at its side. When it does so, it gains the effect of one of the following spells at caster level 7th: divine favor, false life, haste, or rage. Unusual tanukis might have additional spell effect choices at the GM's discretion. Each time a tanuki takes a swig of sake, it becomes progressively drunker and takes a –1 penalty to its AC and Reflex Defense for 1 minute. These penalties stack.

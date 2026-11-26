@@ -15,7 +15,7 @@ full-attack: "Touch +7 melee (attach)"
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "Blood drain"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, diseased"
-saves: "Fort +2, Ref +6, Will +1"
+defenses: "Fort 12, Ref 16, Will 11"
 abilities: "Str 3, Dex 19, Con 10, Int 1, Wis 12, Cha 6"
 skills: "Acrobatics +8, Stealth +16"
 skill-ranks: "Acrobatics 0, Stealth 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], diseased
-- **Saves**: Fort +2, Ref +6, Will +1
+- **Defenses**: Fort 12, Ref 16, Will 11
 - **Abilities**: Str 3, Dex 19, Con 10, Int 1, Wis 12, Cha 6
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +16
 - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]

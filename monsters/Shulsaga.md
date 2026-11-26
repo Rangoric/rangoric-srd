@@ -16,7 +16,7 @@ full-attack: "Masterwork trident +6 melee (1d8+1); or masterwork longbow +9 rang
 space-reach: "5 ft./5 ft."
 special-attacks: "Astral recoil, spell-like abilities"
 special-qualities: "Darkvision 60 ft., disk rider, sense rift"
-saves: "Fort +1, Ref +8, Will +7"
+defenses: "Fort 11, Ref 18, Will 17"
 abilities: "Str 12, Dex 19, Con 10, Int 13, Wis 16, Cha 13"
 skills: "Acrobatics +19, Animal Handling +11, Fieldcraft +10, Perception +10, Stealth +11, Theology +8"
 skill-ranks: "Acrobatics 12, Animal Handling 4, Fieldcraft 4, Perception 4, Stealth 4, Theology 4"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Astral Recoil|Astral recoil]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Disk Rider|disk rider]], [[rangoric-srd/monsters/abilities/Sense Rift|sense rift]]
-- **Saves**: Fort +1, Ref +8, Will +7
+- **Defenses**: Fort 11, Ref 18, Will 17
 - **Abilities**: Str 12, Dex 19, Con 10, Int 13, Wis 16, Cha 13
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +19, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +11, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +11, [[rangoric-srd/skills/Theology|Theology]] +8
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]]
@@ -72,7 +72,7 @@ A shulsaga is born genderless. It reaches maturity when it's a century old, and 
 
 **[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 3rd; concentration +1): 3/day—_[[rangoric-srd/spells/Floating Disk|floating disk]]_ (see below), _[[rangoric-srd/spells/Shield|shield]]_, _[[rangoric-srd/spells/Spiritual Weapon|spiritual weapon]]_.
 
-**[[rangoric-srd/monsters/abilities/Astral Recoil|Astral Recoil]] (Su)**: As a full-round action, a shulsaga that touches a silver cord (such as that created by the spell astral projection) can cause the cord to recoil. The astral projecting creature must succeed at a DC 15 Will saving throw or be snapped back to its body, ending the spell effect but not harming the spellcaster. The save DC is Wisdom-based.
+**[[rangoric-srd/monsters/abilities/Astral Recoil|Astral Recoil]] (Su)**: As a full-round action, a shulsaga that touches a silver cord (such as that created by the spell astral projection) can cause the cord to recoil. The astral projecting creature is attacked at +5 vs Will, and on a hit is snapped back to its body, ending the spell effect but not harming the spellcaster. The attack bonus is Wisdom-based.
 
 **[[rangoric-srd/monsters/abilities/Disk Rider|Disk Rider]] (Su)**: A shulsaga can only use its fly speed in tandem with its floating disk spell-like ability. A shulsaga that casts floating disk can use the spell to its normal effect, or step upon it and use it to fly for the duration of the spell. The disk can support its creator and the creator's equipment (even if this exceeds the load a floating disk can normally bear), but nothing else. Only the disk's caster can ride it in this way. A floating disk cast by a shulsaga is dismissible.
 

@@ -15,7 +15,7 @@ full-attack: "2 claws +10 melee (1d8+6 plus grab) and bite +9 melee (2d6+6 plus 
 space-reach: "10 ft./5 ft."
 special-attacks: "Pounce, rake (2 claws +10, 1d8+6)"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +8, Ref +7, Will +3"
+defenses: "Fort 18, Ref 17, Will 13"
 abilities: "Str 23, Dex 15, Con 17, Int 2, Wis 12, Cha 6"
 skills: "Acrobatics +10, Athletics +11, Perception +8, Stealth +7 (+11 in areas of tall grass)"
 skill-ranks: "Acrobatics 1, Athletics 2, Perception 4, Stealth 2"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], [[rangoric-srd/monsters/abilities/Rake|rake]] (2 claws +10, 1d8+6)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +8, Ref +7, Will +3
+- **Defenses**: Fort 18, Ref 17, Will 13
 - **Abilities**: Str 23, Dex 15, Con 17, Int 2, Wis 12, Cha 6
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +7 (+11 in areas of tall grass)
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)

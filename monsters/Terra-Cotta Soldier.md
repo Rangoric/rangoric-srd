@@ -15,7 +15,7 @@ full-attack: "Longsword +10/+5 melee (1d8+3/19–20) and short sword +10 melee (
 space-reach: "5 ft./5 ft."
 special-attacks: "Keen weapons, rank fighting"
 special-qualities: "Darkvision 60 ft., low-light vision, damage reduction 5/bludgeoning, immunity to fire, construct traits, spell resistance 17"
-saves: "Fort +2, Ref +5, Will +2"
+defenses: "Fort 12, Ref 15, Will 12"
 abilities: "Str 16, Dex 16, Con —, Int 1, Wis 11, Cha 1"
 skills: "Perception +8"
 skill-ranks: "Perception 5"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Keen Weapons|Keen weapons]], [[rangoric-srd/monsters/abilities/Rank Fighting|rank fighting]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/bludgeoning, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 17
-- **Saves**: Fort +2, Ref +5, Will +2
+- **Defenses**: Fort 12, Ref 15, Will 12
 - **Abilities**: Str 16, Dex 16, Con —, Int 1, Wis 11, Cha 1
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +8
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longsword, shortsword)
@@ -73,7 +73,7 @@ Unlike most constructs, a terra-cotta soldier carries within its form a spark of
 
 **[[rangoric-srd/monsters/abilities/Keen Weapons|Keen Weapons]] (Su)**: After it has engaged in at least 1 round of combat, a terra-cotta soldier's weapons automatically gain the benefits of keen weapon (CL 6th). This effect persists until the end of the battle.
 
-**[[rangoric-srd/monsters/abilities/Rank Fighting|Rank Fighting]] (Ex)**: Whenever a terra-cotta soldier is adjacent to another terra-cotta soldier, it gains a +2 dodge bonus to its AC and a +2 bonus on saving throws, attack rolls, and damage rolls.
+**[[rangoric-srd/monsters/abilities/Rank Fighting|Rank Fighting]] (Ex)**: Whenever a terra-cotta soldier is adjacent to another terra-cotta soldier, it gains a +2 dodge bonus to its AC and a +2 bonus on defenses, attack rolls, and damage rolls.
 
 ### Construction
 

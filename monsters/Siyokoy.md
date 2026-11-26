@@ -16,7 +16,7 @@ full-attack: "Bite +18 melee (1d6+9/19–20 plus grab) and 2 claws +18 melee (1d
 space-reach: "5 ft./5 ft. (10 ft. with tail slap)"
 special-attacks: "Constrict (2d6+4), stunning shock, swim-by attack"
 special-qualities: "Blindsight 60 ft., darkvision 60 ft., scent, damage reduction 10/slashing, immunity to cold, electricity and poison, light sensitivity"
-saves: "Fort +10, Ref +9, Will +10"
+defenses: "Fort 20, Ref 19, Will 20"
 abilities: "Str 28, Dex 21, Con 22, Int 12, Wis 15, Cha 11"
 skills: "Athletics +25, Engineering +16, Escape Artist +5, Fieldcraft +16, Intimidation +9, Perception +24, Sense Motive +2, Society +10, Stealth +27"
 skill-ranks: "Athletics 13, Engineering 8, Escape Artist 2, Fieldcraft 11, Intimidation 6, Perception 17, Sense Motive 2, Society 6, Stealth 17"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft. (10 ft. with tail slap)
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (2d6+4), [[rangoric-srd/monsters/abilities/Stunning Shock|stunning shock]], [[rangoric-srd/monsters/abilities/Swim-By Attack|swim-by attack]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/slashing, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, electricity and poison, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
-- **Saves**: Fort +10, Ref +9, Will +10
+- **Defenses**: Fort 20, Ref 19, Will 20
 - **Abilities**: Str 28, Dex 21, Con 22, Int 12, Wis 15, Cha 11
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +25, [[rangoric-srd/skills/Engineering|Engineering]] +16, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +16, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +24, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +2, [[rangoric-srd/skills/Society|Society]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +27
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Grapple|Improved Grapple]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (tail slap), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception, Stealth)
@@ -76,6 +76,6 @@ Siyokoys speak Aquan.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Stunning Shock|Stunning Shock]] (Su)**: A siyokoy can emit a strong electrical charge from its tail. When it hits a creature with its tail slap, the attack deals 3d6 points of electrical damage and the target must succeed at a DC 22 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1d4 rounds. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Stunning Shock|Stunning Shock]] (Su)**: A siyokoy can emit a strong electrical charge from its tail. When it hits a creature with its tail slap, the attack deals 3d6 points of electrical damage and attacks the target at +12 vs Fortitude, and on a hit it is [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1d4 rounds. The attack bonus is Constitution-based.
 
 **[[rangoric-srd/monsters/abilities/Swim-By Attack|Swim-By Attack]] (Ex)**: Extremely quick in the water, a siyokoy gains Spring Attack as a bonus feat when swimming.

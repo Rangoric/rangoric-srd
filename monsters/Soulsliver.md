@@ -16,7 +16,7 @@ full-attack: "2 slams +5 melee (1d4+2)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Death throes, spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, fast healing 1, change shape (any humanoid, alter self), compression, mirror travel, perfect copy, sound mimicry (voices), resistance to acid 5 and fire 5, vulnerable to sonic"
-saves: "Fort +4, Ref +6, Will +2"
+defenses: "Fort 14, Ref 16, Will 12"
 abilities: "Str 14, Dex 17, Con 12, Int 11, Wis 12, Cha 13"
 skills: "Acrobatics +9, Athletics +2 (+6 jumping), Deception +7, Imitation +7 (+11 when using change shape), Perception +7, Sense Motive +7, Stealth +9"
 skill-ranks: "Acrobatics 3, Athletics 0, Deception 3, Imitation 3, Perception 3, Sense Motive 3, Stealth 3"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Death Throes|Death throes]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 1, [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (any humanoid, alter self), [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Mirror Travel|mirror travel]], [[rangoric-srd/monsters/abilities/Perfect Copy|perfect copy]], [[rangoric-srd/monsters/abilities/Sound Mimicry|sound mimicry]] (voices), [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 5 and fire 5, vulnerable to sonic
-- **Saves**: Fort +4, Ref +6, Will +2
+- **Defenses**: Fort 14, Ref 16, Will 12
 - **Abilities**: Str 14, Dex 17, Con 12, Int 11, Wis 12, Cha 13
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Athletics|Athletics]] +2 (+6 jumping), [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Imitation|Imitation]] +7 (+11 when using change shape), [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +9
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
@@ -72,7 +72,7 @@ Soulslivers speak Aklo and Common.
 
 **[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 3rd; concentration +4): 3/day—_[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Open-Close|open/close]]_, silent _image_; 1/day—_[[rangoric-srd/spells/Mirror Image|mirror image]]_.
 
-**[[rangoric-srd/monsters/abilities/Death Throes|Death Throes]] (Su)**: When a soulsliver is killed, its body explodes into jagged glass shards that deal 2d6 points of piercing and slashing damage to creatures within a 20-foot-radius burst (Reflex DC 12 half). The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Death Throes|Death Throes]] (Su)**: When a soulsliver is killed, its body explodes into jagged glass shards that deal 2d6 points of piercing and slashing damage to creatures within a 20-foot-radius burst (+2 vs Reflex; a miss halves). The attack bonus is Constitution-based.
 
 **[[rangoric-srd/monsters/abilities/Mirror Travel|Mirror Travel]] (Su)**: At will as a standard action, a soulsliver can crawl into any mirror as if it were a door or window, instantly transporting itself to another mirror within 500 feet as if using [[rangoric-srd/spells/Dimension Door|dimension door]] (caster level 7th). It can remain within that mirror indefinitely, or on its next turn crawl out or use this ability again. Its compression ability allows it to enter or exit Diminutive or larger mirrors. It can only exit a mirror if it is using change shape to take a specific creature's form.
 

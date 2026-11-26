@@ -14,9 +14,9 @@ cmd: "21"
 attack: "Incorporeal touch +10 melee (1d8 plus energy drain)"
 full-attack: "Incorporeal touch +10 melee (1d8 plus energy drain)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Create spawn, energy drain (2 levels, DC 16)"
+special-attacks: "Create spawn, energy drain (2 levels, +6 vs Fortitude)"
 special-qualities: "Darkvision 60 ft., unnatural aura (30 ft.), incorporeal, channel resistance +2, undead traits, resurrection vulnerability, sunlight powerlessness"
-saves: "Fort +4, Ref +5, Will +9"
+defenses: "Fort 14, Ref 15, Will 19"
 abilities: "Str —, Dex 16, Con —, Int 14, Wis 16, Cha 15"
 skills: "Acrobatics +11, Fieldcraft +11, Intimidation +13, Perception +17, Society +10, Stealth +14, Theology +13"
 skill-ranks: "Acrobatics 5, Fieldcraft 5, Intimidation 8, Perception 11, Society 5, Stealth 8, Theology 8"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Incorporeal touch +10 melee (1d8 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]])
 - **Full Attack**: Incorporeal touch +10 melee (1d8 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]])
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: Create spawn, [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] (2 levels, DC 16)
+- **Special Attacks**: Create spawn, [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] (2 levels, +6 vs Fortitude)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Unnatural Aura|unnatural aura]] (30 ft.), [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]], [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +2, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], resurrection vulnerability, [[rangoric-srd/monsters/abilities/Sunlight Powerlessness|sunlight powerlessness]]
-- **Saves**: Fort +4, Ref +5, Will +9
+- **Defenses**: Fort 14, Ref 15, Will 19
 - **Abilities**: Str —, Dex 16, Con —, Int 14, Wis 16, Cha 15
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Society|Society]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +14, [[rangoric-srd/skills/Theology|Theology]] +13
 - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (touch)
@@ -75,7 +75,7 @@ In close combat a spectre attacks with its numbing, life-draining touch. It make
 
 **Create Spawn (Su)**: Any humanoids slain by a spectre become spectres themselves in 1d4 rounds. Spawn so created are less powerful than typical spectres, and suffer a –2 penalty on all d20 rolls and checks, receive –2 hp per HD, and only drain one level on a touch. Spawn are under the command of the spectre that created them and remain enslaved until its death, at which point they lose their spawn penalties and become full-fledged and free-willed spectres. They do not possess any of the abilities they had in life.
 
-**Resurrection Vulnerability (Su)**: A raise dead or similar spell cast on a spectre destroys it (Will negates). Using the spell in this way does not require a material component.
+**Resurrection Vulnerability (Su)**: A raise dead or similar spell cast on a spectre destroys it (vs Will). Using the spell in this way does not require a material component.
 
 **Sunlight Powerlessness (Ex)**: Spectres are powerless in natural sunlight (not merely a daylight spell) and flee from it. A spectre caught in sunlight cannot attack and is [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]].
 

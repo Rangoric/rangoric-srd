@@ -13,9 +13,9 @@ cmd: "18"
 attack: "Masterwork dagger +9 melee (1d3+2/19–20)"
 full-attack: "Masterwork dagger +9 melee (1d3+2/19–20)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Breath weapon (15-ft. cone, 2d6 fire damage, Reflex DC 14 half, usable every 2d4 rounds), frightening gaze, vault, sneak attack +1d6, spell-like abilities"
+special-attacks: "Breath weapon (15-ft. cone, 2d6 fire damage, +4 vs Reflex; a miss halves, usable every 2d4 rounds), frightening gaze, vault, sneak attack +1d6, spell-like abilities"
 special-qualities: "Low-light vision"
-saves: "Fort +3, Ref +9, Will +4"
+defenses: "Fort 13, Ref 19, Will 14"
 abilities: "Str 15, Dex 21, Con 14, Int 10, Wis 10, Cha 13"
 skills: "Acrobatics +12, Athletics +9 (+13 jumping), Deception +6, Escape Artist +12, Perception +7, Sleight of Hand +10, Stealth +16"
 skill-ranks: "Acrobatics 4, Athletics 4, Deception 2, Escape Artist 4, Perception 4, Sleight of Hand 2, Stealth 4"
@@ -47,9 +47,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +9 melee (1d3+2/19–20)
 - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +9 melee (1d3+2/19–20)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (15-ft. cone, 2d6 fire damage, Reflex DC 14 half, usable every 2d4 rounds), [[rangoric-srd/monsters/abilities/Frightening Gaze|frightening gaze]], [[rangoric-srd/monsters/abilities/Vault|vault]], sneak attack +1d6, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (15-ft. cone, 2d6 fire damage, +4 vs Reflex; a miss halves, usable every 2d4 rounds), [[rangoric-srd/monsters/abilities/Frightening Gaze|frightening gaze]], [[rangoric-srd/monsters/abilities/Vault|vault]], sneak attack +1d6, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]]
-- **Saves**: Fort +3, Ref +9, Will +4
+- **Defenses**: Fort 13, Ref 19, Will 14
 - **Abilities**: Str 15, Dex 21, Con 14, Int 10, Wis 10, Cha 13
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Athletics|Athletics]] +9 (+13 jumping), [[rangoric-srd/skills/Deception|Deception]] +6, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +12, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +16
 - **Feats**: [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -75,6 +75,6 @@ Spring-heeled jacks speak Common and Sylvan.
 
 **[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 4th; concentration +5): Constant—_[[rangoric-srd/spells/Feather Fall|feather fall]], [[rangoric-srd/spells/Pass without Trace|pass without trace]]_; 1/day—_[[rangoric-srd/spells/Passwall|passwall]]_.
 
-**[[rangoric-srd/monsters/abilities/Frightening Gaze|Frightening Gaze]] (Su)**: Any creature within a 10-ft. radius upon whom Spring-Heeled Jack's gaze falls is [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] for 1d6 rounds. A successful DC 13 Will save negates. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Frightening Gaze|Frightening Gaze]] (Su)**: Any creature within a 10-ft. radius upon whom Spring-Heeled Jack's gaze falls is [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] for 1d6 rounds. It attacks at +3 vs Will, and a miss negates. The attack bonus is Charisma-based.
 
 **[[rangoric-srd/monsters/abilities/Vault|Vault]] (Su)**: Spring-Heeled Jack can jump up to 20 feet (vertically or horizontally in any combination) as a move action without provoking attacks of opportunity.

@@ -13,9 +13,9 @@ cmd: "29"
 attack: "Slam +17 melee (2d6+9/19–20) or rock +7 ranged (2d6+13)"
 full-attack: "2 slams +17 melee (2d6+9/19–20); or rock +7 ranged (2d6+13)"
 space-reach: "15 ft./15 ft."
-special-attacks: "Rock throwing (180 ft.), trample (2d6+13, DC 25)"
+special-attacks: "Rock throwing (180 ft.), trample (2d6+13, +15 vs Reflex)"
 special-qualities: "Low-light vision, animate trees, double damage against objects, treespeech, damage reduction 10/slashing, plant traits, vulnerability to fire"
-saves: "Fort +13, Ref +3, Will +9"
+defenses: "Fort 23, Ref 13, Will 19"
 abilities: "Str 29, Dex 8, Con 21, Int 12, Wis 16, Cha 13"
 skills: "Intimidation +9, Nature +9, Perception +13, Persuasion +9, Sense Motive +7, Stealth –9 (+7 in forests)"
 skill-ranks: "Intimidation 5, Nature 5, Perception 6, Persuasion 5, Sense Motive 3, Stealth 0"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Slam +17 melee (2d6+9/19–20) or rock +7 ranged (2d6+13)
 - **Full Attack**: 2 slams +17 melee (2d6+9/19–20); or rock +7 ranged (2d6+13)
 - **Space/Reach**: 15 ft./15 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Rock Throwing|Rock throwing]] (180 ft.), [[rangoric-srd/monsters/abilities/Trample|trample]] (2d6+13, DC 25)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Rock Throwing|Rock throwing]] (180 ft.), [[rangoric-srd/monsters/abilities/Trample|trample]] (2d6+13, +15 vs Reflex)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], animate trees, double damage against objects, treespeech, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/slashing, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], vulnerability to fire
-- **Saves**: Fort +13, Ref +3, Will +9
+- **Defenses**: Fort 23, Ref 13, Will 19
 - **Abilities**: Str 29, Dex 8, Con 21, Int 12, Wis 16, Cha 13
 - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Nature|Nature]] +9, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Persuasion|Persuasion]] +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] –9 (+7 in forests)
 - **Feats**: [[rangoric-srd/feats/Improved Critical|Improved Critical]] (slam), [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

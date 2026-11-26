@@ -16,7 +16,7 @@ full-attack: "Bite +4 melee (1d3+2) and tentacles +2 melee (1d4+1 plus grab)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision, ink cloud (5-ft. radius)"
-saves: "Fort +3, Ref +7, Will +2"
+defenses: "Fort 13, Ref 17, Will 12"
 abilities: "Str 15, Dex 15, Con 11, Int 2, Wis 12, Cha 2"
 skills: "Athletics +10, Perception +7"
 skill-ranks: "Athletics 5, Perception 3"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], ink cloud (5-ft. radius)
-- **Saves**: Fort +3, Ref +7, Will +2
+- **Defenses**: Fort 13, Ref 17, Will 12
 - **Abilities**: Str 15, Dex 15, Con 11, Int 2, Wis 12, Cha 2
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Perception|Perception]] +7
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Multiattack|Multiattack]]

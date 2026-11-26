@@ -15,7 +15,7 @@ full-attack: "Bite +8 melee (1d10+6 plus disease and trip)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Disease"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, regeneration 3 (acid or fire)"
-saves: "Fort +6, Ref +5, Will +1"
+defenses: "Fort 16, Ref 15, Will 11"
 abilities: "Str 18, Dex 13, Con 15, Int 2, Wis 11, Cha 6"
 skills: "Fieldcraft +1 (+5 scent tracking), Perception +8, Stealth +5"
 skill-ranks: "Fieldcraft 1, Perception 5, Stealth 1"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Disease|Disease]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 3 (acid or fire)
-- **Saves**: Fort +6, Ref +5, Will +1
+- **Defenses**: Fort 16, Ref 15, Will 11
 - **Abilities**: Str 18, Dex 13, Con 15, Int 2, Wis 11, Cha 6
 - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +1 (+5 scent tracking), [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +5
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -73,4 +73,4 @@ Trollhounds are most often found in the company of trolls, who breed the beasts 
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Ex)**: [[rangoric-srd/rules/afflictions/Bloodfire Fever|Bloodfire Fever]]: Bite—injury; _save_ Fort DC 14; _onset_ 1 day; _frequency_ 1/day; _effect_ 1d3 Str damage, 1d3 Dex damage, and target is fatigued; _cure_ 2 consecutive saves. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Ex)**: [[rangoric-srd/rules/afflictions/Bloodfire Fever|Bloodfire Fever]]: Bite—injury; _attack_ +4 vs Fortitude; _onset_ 1 day; _frequency_ 1/day; _effect_ 1d3 Str damage, 1d3 Dex damage, and target is fatigued; _cure_ 2 consecutive misses. The attack bonus is Constitution-based.

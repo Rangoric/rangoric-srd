@@ -17,7 +17,7 @@ attack: "Hoof +16 melee (1d8+10)"
 full-attack: "4 hooves +16 melee (1d8+10) and bite +11 melee (1d6+5)"
 space-reach: "10 ft./5 ft."
 special-qualities: "Construct traits, damage reduction 50/magic, flight, magic immunity, self repair"
-saves: "Fort +3, Ref +4, Will +3"
+defenses: "Fort 13, Ref 14, Will 13"
 abilities: "Str 30, Dex 13, Con —, Int —, Wis 10, Cha 2"
 skills: "Perception +7"
 skill-ranks: "Perception 7"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Full Attack**: 4 hooves +16 melee (1d8+10) and bite +11 melee (1d6+5)
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|construct traits]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 50/magic, flight, magic immunity, self repair
-- **Saves**: Fort +3, Ref +4, Will +3
+- **Defenses**: Fort 13, Ref 14, Will 13
 - **Abilities**: Str 30, Dex 13, Con —, Int —, Wis 10, Cha 2
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +7
 - **Feats**: —
@@ -79,7 +79,7 @@ A third command word deactivates the steed. Once deactivated, the steed remains 
 
 **Flight (Sp):** Every silver steed is capable of magical flight. The creature simply lifts off the ground at the rider’s command, with all 8 legs continuing to move as though the creature were running along solid ground.
 
-**Magic Immunity (Ex):** A silver steed is immune to all spells, spell-like abilities, and supernatural effects, except as indicated. Cold effects slow the steed, as the _[[rangoric-srd/spells/Slow|slow]]_ spell, for 3 rounds unless the steed succeeds at a Fortitude save (DC equal to the amount of cold damage done to it). Magical fire effects break any slow effects on the steed.
+**Magic Immunity (Ex):** A silver steed is immune to all spells, spell-like abilities, and supernatural effects, except as indicated. Cold effects slow the steed, as the _[[rangoric-srd/spells/Slow|slow]]_ spell, for 3 rounds if the cold hits the steed's Fortitude (attack bonus equal to the amount of cold damage done to it – 10). Magical fire effects break any slow effects on the steed.
 
 **Self Repair (Sp):** The steed can heal itself by burning gems at the rate of 100 gp worth of gems per hit point regained. These gems are dropped into a special slot located at the base of the construct’s neck. A silver steed holds up to 10,000 gp worth of gems in its furnace at any given time, burning the gems as they are needed. A rider can drop gems into the slot to refill the furnace without dismounting. Reloading the furnace with up to four gems at once is a standard action.
 

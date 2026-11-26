@@ -14,9 +14,9 @@ cmd: "6 (8 vs. steal)"
 attack: "+1 pliers +8 melee (1d4–2/19–20/×2) or bite +12 melee (1d4–3 plus paralysis)"
 full-attack: "+1 pliers +8 melee (1d4–2/19–20/×2) and bite +7 melee (1d4–3 plus paralysis)"
 space-reach: "1 ft./0 ft. (5 ft. with pliers)"
-special-attacks: "Death throes, paralysis (1d3 rounds, DC 11), pliers, tricky thief, spell-like abilities"
+special-attacks: "Death throes, paralysis (1d3 rounds, +1 vs Fortitude), pliers, tricky thief, spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, damage reduction 2/cold iron"
-saves: "Fort –1, Ref +5, Will +5"
+defenses: "Fort 9, Ref 15, Will 15"
 abilities: "Str 5, Dex 14, Con 9, Int 8, Wis 15, Cha 14"
 skills: "Acrobatics +16, Athletics –3 (–16 jumping), Escape Artist +7, Perception +7, Sense Motive +7, Stealth +19"
 skill-ranks: "Acrobatics 5, Athletics 0, Escape Artist 2, Perception 2, Sense Motive 2, Stealth 2"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: +1 pliers +8 melee (1d4–2/19–20/×2) or bite +12 melee (1d4–3 plus [[rangoric-srd/monsters/abilities/Paralysis|paralysis]])
 - **Full Attack**: +1 pliers +8 melee (1d4–2/19–20/×2) and bite +7 melee (1d4–3 plus [[rangoric-srd/monsters/abilities/Paralysis|paralysis]])
 - **Space/Reach**: 1 ft./0 ft. (5 ft. with pliers)
-- **Special Attacks**: Death throes, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] (1d3 rounds, DC 11), [[rangoric-srd/monsters/abilities/Pliers|pliers]], [[rangoric-srd/monsters/abilities/Tricky Thief|tricky thief]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Attacks**: Death throes, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] (1d3 rounds, +1 vs Fortitude), [[rangoric-srd/monsters/abilities/Pliers|pliers]], [[rangoric-srd/monsters/abilities/Tricky Thief|tricky thief]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 2/cold iron
-- **Saves**: Fort –1, Ref +5, Will +5
+- **Defenses**: Fort 9, Ref 15, Will 15
 - **Abilities**: Str 5, Dex 14, Con 9, Int 8, Wis 15, Cha 14
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +16, [[rangoric-srd/skills/Athletics|Athletics]] –3 (–16 jumping), [[rangoric-srd/skills/Escape Artist|Escape Artist]] +7, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +19
 - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Improved Steal|Improved Steal]], [[rangoric-srd/feats/Greater Steal|Greater Steal]]
@@ -72,9 +72,9 @@ Tooth fairys speak Sylvan.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 5th; concentration +7): At will—_[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Open-Close|open/close]]_; 1/day—_[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only), _[[rangoric-srd/spells/Sleep|sleep]]_ (DC 13).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 5th; concentration +7): At will—_[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Open-Close|open/close]]_; 1/day—_[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only), _[[rangoric-srd/spells/Sleep|sleep]]_ (+3 vs Will).
 
-**Death Throes (Su)**: When killed, a tooth fairy explodes into a cloud of sparkling white fairy dust that clings to creatures within 5 feet. This glittery substance has a stench so foul that it sickens any creature coated by it for 1d4 rounds (Fortitude DC 10 negates). This is a poison effect. The save DC is Constitution-based.
+**Death Throes (Su)**: When killed, a tooth fairy explodes into a cloud of sparkling white fairy dust that clings to creatures within 5 feet. This glittery substance has a stench so foul that it sickens any creature coated by it for 1d4 rounds (+0 vs Fortitude). This is a poison effect. The attack bonus is Constitution-based.
 
 **[[rangoric-srd/monsters/abilities/Pliers|Pliers]] (Su)**: Each tooth fairy owns a pair of pliers it uses to torment its victims. In the hands of a tooth fairy, the pliers deal damage as a +1 dagger wielded by a Medium creature. The pliers have hardness 10 and 3 hit points. If its pliers are destroyed, a tooth fairy is [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1 round. If the tooth fairy is killed, the pliers rust away into worthless splinters 1d4 rounds later. A tooth fairy can create a new pair of pliers by spending one hour crafting (no materials required), which destroys the previous pair. The pliers grant the tooth fairy the Greater Dirty Trick feat and a +4 bonus on dirty trick and steal combat maneuvers.
 

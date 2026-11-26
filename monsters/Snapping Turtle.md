@@ -15,7 +15,7 @@ full-attack: "Bite +1 melee (1d3–3)"
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision, scent, hold breath, shell"
-saves: "Fort +3, Ref +1, Will +1"
+defenses: "Fort 13, Ref 11, Will 11"
 abilities: "Str 4, Dex 8, Con 13, Int 1, Wis 13, Cha 6"
 skills: "Athletics +5, Perception +5"
 skill-ranks: "Athletics 5, Perception 1"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]], [[rangoric-srd/monsters/abilities/Shell|shell]]
-- **Saves**: Fort +3, Ref +1, Will +1
+- **Defenses**: Fort 13, Ref 11, Will 11
 - **Abilities**: Str 4, Dex 8, Con 13, Int 1, Wis 13, Cha 6
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Perception|Perception]] +5
 - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -61,7 +61,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: —
 - **Level Adjustment**: —
 
-Snapping turtles are water-dwelling reptiles known for their propensity to bite anyone they deem threatening. Adult snapping turtles are usually about 1-1/2 feet in diameter. A spellcaster who can acquire a familiar can choose a snapping turtle as a familiar. A snapping turtle familiar grants its master a +2 bonus on all Fortitude saves.
+Snapping turtles are water-dwelling reptiles known for their propensity to bite anyone they deem threatening. Adult snapping turtles are usually about 1-1/2 feet in diameter. A spellcaster who can acquire a familiar can choose a snapping turtle as a familiar. A snapping turtle familiar grants its master a +2 bonus on Fortitude Defense.
 
 ### Combat
 

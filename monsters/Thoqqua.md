@@ -14,9 +14,9 @@ cmd: "15 (can't be tripped)"
 attack: "Slam +4 melee (1d6+1 plus burn)"
 full-attack: "Slam +4 melee (1d6+1 plus burn)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Burn (1d6, DC 13)"
+special-attacks: "Burn (1d6, +3 vs Reflex)"
 special-qualities: "Darkvision 60 ft., tremorsense 60 ft., molten body, immunity to fire, elemental traits, vulnerability to cold"
-saves: "Fort +5, Ref +4, Will +2"
+defenses: "Fort 15, Ref 14, Will 12"
 abilities: "Str 13, Dex 13, Con 15, Int 6, Wis 12, Cha 10"
 skills: "Acrobatics +7, Fieldcraft +7, Perception +10, Stealth +7"
 skill-ranks: "Acrobatics 3, Fieldcraft 3, Perception 6, Stealth 3"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Slam +4 melee (1d6+1 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
 - **Full Attack**: Slam +4 melee (1d6+1 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Burn|Burn]] (1d6, DC 13)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Burn|Burn]] (1d6, +3 vs Reflex)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., molten body, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]], [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability]] to cold
-- **Saves**: Fort +5, Ref +4, Will +2
+- **Defenses**: Fort 15, Ref 14, Will 12
 - **Abilities**: Str 13, Dex 13, Con 15, Int 6, Wis 12, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +7
 - **Feats**: [[rangoric-srd/feats/Nimble Moves|Nimble Moves]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -77,4 +77,4 @@ Thoqquas understand Ignan but can't speak.
 
 When a thoqqua is disturbed, its first instinct is to attack. Its favored tactic is to spring directly at a foe, either by bursting out of the rock or by coiling up its body and launching itself like a spring. (Treat this as a charge, even though the thoqqua does not need to move 10 feet before attacking.)
 
-**Molten Body (Su)**: A thoqqua's body is hot enough to melt stone. Anyone striking a thoqqua with a natural weapon or unarmed strike takes 1d6 points of fire damage. A creature that grapples a thoqqua or is grappled by one takes 3d6 points of fire damage each round the grapple persists. A creature that strikes a thoqqua with a manufactured weapon can attempt a DC 13 Reflex save to pull the weapon away from the creature's molten body quickly enough to avoid having the weapon take 1d6 points of fire damage—damage caused to a weapon in this manner is not halved as is normal for damage caused to items, and ignores the first 5 points of hardness possessed by the item. As a result, most metal weapons can generally safely strike a thoqqua without taking much damage, but wooden weapons have a significant chance of burning away if used against one of these creatures. The save DC is Constitution-based.
+**Molten Body (Su)**: A thoqqua's body is hot enough to melt stone. Anyone striking a thoqqua with a natural weapon or unarmed strike takes 1d6 points of fire damage. A creature that grapples a thoqqua or is grappled by one takes 3d6 points of fire damage each round the grapple persists. A creature that strikes a thoqqua with a manufactured weapon is attacked at +3 vs Reflex, and on a miss pulls the weapon away from the creature's molten body quickly enough to avoid having the weapon take 1d6 points of fire damage—damage caused to a weapon in this manner is not halved as is normal for damage caused to items, and ignores the first 5 points of hardness possessed by the item. As a result, most metal weapons can generally safely strike a thoqqua without taking much damage, but wooden weapons have a significant chance of burning away if used against one of these creatures. The attack bonus is Constitution-based.

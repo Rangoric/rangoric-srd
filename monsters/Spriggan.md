@@ -16,7 +16,7 @@ full-attack: "Masterwork morningstar +5 melee (1d6–1); or light crossbow +8 ra
 space-reach: "5 ft./5 ft. / 10 ft./10 ft."
 special-attacks: "Sneak attack +2d6, spell-like abilities / —"
 special-qualities: "Size alteration, spriggan magic, spriggan skills / Low-light vision"
-saves: "Fort +5, Ref +5, Will +1 / Fort +8, Ref +4, Will +1"
+defenses: "Fort 15, Ref 15, Will 11 / Fort 18, Ref 14, Will 11"
 abilities: "Str 9, Dex 19, Con 12, Int 10, Wis 10, Cha 9 / Str 21, Dex 17, Con 18, Int 10, Wis 10, Cha 9"
 skills: "Athletics +1, Engineering +11, Perception +7, Sleight of Hand +11, Stealth +15 / Athletics +7, Engineering +10, Perception +7, Sleight of Hand +10, Stealth +6"
 skill-ranks: "Athletics 0, Engineering 2, Perception 2, Sleight of Hand 2, Stealth 2"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 | **Space/Reach:** | 5 ft./5 ft. | | 10 ft./10 ft. |
 | **Special Attacks:** | Sneak attack +2d6, [[rangoric-srd/monsters/abilities/Spell-Like Abilities\|spell-like abilities]] | | — |
 | **Special Qualities:** | [[rangoric-srd/monsters/abilities/Size Alteration\|Size alteration]], [[rangoric-srd/monsters/abilities/Spriggan Magic\|spriggan magic]], [[rangoric-srd/monsters/abilities/Spriggan Skills\|spriggan skills]] | | [[rangoric-srd/monsters/abilities/Low-Light Vision\|Low-light vision]] |
-| **Saves:** | Fort +5, Ref +5, Will +1 | | Fort +8, Ref +4, Will +1 |
+| **Defenses:** | Fort 15, Ref 15, Will 11 | | Fort 18, Ref 14, Will 11 |
 | **Abilities:** | Str 9, Dex 19, Con 12, Int 10, Wis 10, Cha 9 | | Str 21, Dex 17, Con 18, Int 10, Wis 10, Cha 9 |
 | **Skills:** | [[rangoric-srd/skills/Athletics\|Athletics]] +1, [[rangoric-srd/skills/Engineering\|Engineering]] +11, [[rangoric-srd/skills/Perception\|Perception]] +7, [[rangoric-srd/skills/Sleight of Hand\|Sleight of Hand]] +11, [[rangoric-srd/skills/Stealth\|Stealth]] +15 | | [[rangoric-srd/skills/Athletics\|Athletics]] +7, [[rangoric-srd/skills/Engineering\|Engineering]] +10, [[rangoric-srd/skills/Perception\|Perception]] +7, [[rangoric-srd/skills/Sleight of Hand\|Sleight of Hand]] +10, [[rangoric-srd/skills/Stealth\|Stealth]] +6 |
 | **Feats:** | [[rangoric-srd/feats/Combat Reflexes\|Combat Reflexes]], [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (morningstar) | | — |
@@ -73,10 +73,10 @@ Spriggans speak Aklo and Gnome.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 4th; concentration +4): At will—_[[rangoric-srd/spells/Flare|flare]]_ (DC 10), _[[rangoric-srd/spells/Scare|scare]]_ (DC 12), _[[rangoric-srd/spells/Shatter|shatter]]_ (DC 12).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 4th; concentration +4): At will—_[[rangoric-srd/spells/Flare|flare]]_ (+0 vs Fortitude), _[[rangoric-srd/spells/Scare|scare]]_ (+2 vs Will), _[[rangoric-srd/spells/Shatter|shatter]]_ (+2).
 
 **[[rangoric-srd/monsters/abilities/Size Alteration|Size Alteration]] (Su)**: At will as a standard action, a spriggan can change his size between Small and Large. Weapons, armor, and other objects on the spriggan's person grow proportionally when he changes size (objects revert to normal size 1 round after a spriggan releases them). When a spriggan becomes Large, his speed increases to 30 feet, he gains +12 Strength, –2 Dexterity, and +6 Constitution, and he takes a –2 size penalty to his AC. While Large, a spriggan cannot use his sneak attack or his racial spell-like abilities (although if he possesses either from class levels or templates, he retains their use in both sizes).
 
-**[[rangoric-srd/monsters/abilities/Spriggan Magic|Spriggan Magic]] (Ex)**: A spriggan gains a +1 racial bonus on concentration checks and to save DCs for all of its racial spell-like abilities.
+**[[rangoric-srd/monsters/abilities/Spriggan Magic|Spriggan Magic]] (Ex)**: A spriggan gains a +1 racial bonus on concentration checks and to the attack bonuses of all of its racial spell-like abilities.
 
 **[[rangoric-srd/monsters/abilities/Spriggan Skills|Spriggan Skills]] (Ex)**: Athletics, Engineering, Perception, Sleight of Hand, and Stealth are class skills for spriggans.

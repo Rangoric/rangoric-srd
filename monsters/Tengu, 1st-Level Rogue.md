@@ -16,7 +16,7 @@ full-attack: "Dagger +3 melee (1d4+1/19–20) and bite –2 melee (1d3); or shor
 space-reach: "5 ft./5 ft."
 special-attacks: "Sneak attack +1d6"
 special-qualities: "Low-light vision, gifted linguist, swordtrained, trapfinding"
-saves: "Fort +1, Ref +5, Will +2"
+defenses: "Fort 11, Ref 15, Will 12"
 abilities: "Str 12, Dex 17, Con 12, Int 10, Wis 15, Cha 8"
 skills: "Acrobatics +7, Appraise +4, Athletics +5, Deception +3, Linguistics +8, Perception +8, Society +4, Stealth +9"
 skill-ranks: "Acrobatics 1, Appraise 1, Athletics 1, Deception 1, Linguistics 1, Perception 1, Society 1, Stealth 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +1d6
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], gifted linguist, swordtrained, [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]]
-- **Saves**: Fort +1, Ref +5, Will +2
+- **Defenses**: Fort 11, Ref 15, Will 12
 - **Abilities**: Str 12, Dex 17, Con 12, Int 10, Wis 15, Cha 8
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Appraise|Appraise]] +4, [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Deception|Deception]] +3, [[rangoric-srd/skills/Linguistics|Linguistics]] +8, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Society|Society]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +9
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]

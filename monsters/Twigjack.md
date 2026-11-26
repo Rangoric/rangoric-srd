@@ -15,7 +15,7 @@ full-attack: "Spear +3 melee (1d4–1/×3); or 2 claws +7 melee (1d4–1)"
 space-reach: "2-1/2 ft./0 ft. (5 ft. with spear)"
 special-attacks: "Sneak attack +2d6, splinterspray"
 special-qualities: "Darkvision 60 ft., low-light vision, bramble jump, woodland stride, vulnerable to fire"
-saves: "Fort +3, Ref +7, Will +6"
+defenses: "Fort 13, Ref 17, Will 16"
 abilities: "Str 8, Dex 16, Con 15, Int 11, Wis 14, Cha 13"
 skills: "Acrobatics +11, Athletics +7, Engineering +8, Nature +8, Perception +10, Stealth +22"
 skill-ranks: "Acrobatics 5, Athletics 5, Engineering 2, Nature 5, Perception 5, Stealth 8"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft. (5 ft. with spear)
 - **Special Attacks**: Sneak attack +2d6, [[rangoric-srd/monsters/abilities/Splinterspray|splinterspray]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Bramble Jump|bramble jump]], woodland stride, vulnerable to fire
-- **Saves**: Fort +3, Ref +7, Will +6
+- **Defenses**: Fort 13, Ref 17, Will 16
 - **Abilities**: Str 8, Dex 16, Con 15, Int 11, Wis 14, Cha 13
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +7, [[rangoric-srd/skills/Engineering|Engineering]] +8, [[rangoric-srd/skills/Nature|Nature]] +8, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +22
 - **Feats**: [[rangoric-srd/feats/Agile Maneuvers|Agile Maneuvers]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -71,4 +71,4 @@ Twigjacks speak Common and Sylvan.
 
 **[[rangoric-srd/monsters/abilities/Bramble Jump|Bramble Jump]] (Su)**: A twigjack can travel short distances between brambles, shrubs, or thickets as if via dimension door as part of a move action. The twigjack must begin and end this movement while in an area of at least light undergrowth. The twigjack can travel in this manner up to 60 feet per day. This movement must be used in 10-foot increments and does not provoke attacks of opportunity.
 
-**[[rangoric-srd/monsters/abilities/Splinterspray|Splinterspray]] (Ex)**: A twigjack can eject a barrage of splinters and brambles from its body three times per day as a standard action. This effect creates a 15-foot conical burst of jagged splinters, dealing 4d6 points of piercing damage to all creatures in the area. A DC 14 Reflex saving throw halves this damage. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Splinterspray|Splinterspray]] (Ex)**: A twigjack can eject a barrage of splinters and brambles from its body three times per day as a standard action. This effect creates a 15-foot conical burst of jagged splinters, dealing 4d6 points of piercing damage to all creatures in the area. It attacks at +4 vs Reflex, and a miss halves this damage. The attack bonus is Constitution-based.

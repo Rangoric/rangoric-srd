@@ -15,7 +15,7 @@ full-attack: "Bite +14 melee (1d8+6 plus bleed) and 2 talons +14 melee (1d6+6) a
 space-reach: "10 ft./5 ft."
 special-attacks: "Bleed (1d6), glare, wing razors"
 special-qualities: "Low-light vision, damage reduction 10/magic and adamantine, immunity to fire, vulnerable to sonic"
-saves: "Fort +11, Ref +10, Will +5"
+defenses: "Fort 21, Ref 20, Will 15"
 abilities: "Str 22, Dex 15, Con 20, Int 2, Wis 15, Cha 17"
 skills: "Acrobatics +4, Perception +12"
 skill-ranks: "Acrobatics 1, Perception 7"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (1d6), [[rangoric-srd/monsters/abilities/Glare|glare]], [[rangoric-srd/monsters/abilities/Wing Razors|wing razors]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic and adamantine, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, vulnerable to sonic
-- **Saves**: Fort +11, Ref +10, Will +5
+- **Defenses**: Fort 21, Ref 20, Will 15
 - **Abilities**: Str 22, Dex 15, Con 20, Int 2, Wis 15, Cha 17
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +4, [[rangoric-srd/skills/Perception|Perception]] +12
 - **Feats**: [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -71,6 +71,6 @@ Peculiarly, the feathers and beak of a stymphalidies are made of steel-like mate
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Glare|Glare]] (Su)**: As a standard action, in any area of normal or brighter light, a stymphalidies can ruffle its metallic feathers in such a way as to blind all creatures nearby. Any creature within 30 feet must succeed at a DC 19 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] for 1d6 minutes. A creature can defend against this effect in the same way it would a gaze attack. This is a sight-based effect. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Glare|Glare]] (Su)**: As a standard action, in any area of normal or brighter light, a stymphalidies can ruffle its metallic feathers in such a way as to blind all creatures nearby. Any creature within 30 feet is attacked at +9 vs Fortitude, and on a hit is [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] for 1d6 minutes. A creature can defend against this effect in the same way it would a gaze attack. This is a sight-based effect. The attack bonus is Constitution-based.
 
 **[[rangoric-srd/monsters/abilities/Wing Razors|Wing Razors]] (Ex)**: A stymphalidies's metallic feathers are razor-sharp. In addition to being able to slash creatures with its wings as a melee attack, it may beat its wings, flinging two large, feathered shards at a single target. These wing razors deal 2d6 points of damage and cause bleed, with a range increment of 50 feet. A stymphalidies can use this attack a number of times per day equal to its Constitution modifier (5 times per day for most stymphalidies).

@@ -13,9 +13,9 @@ cmd: "26"
 attack: "Bite +10 melee (2d8+7 plus disease and paralysis)"
 full-attack: "Bite +10 melee (2d8+7 plus disease and paralysis)"
 space-reach: "10 ft./5 ft."
-special-attacks: "Screech, paralysis (1d4+1 rounds, DC 16), disease"
+special-attacks: "Screech, paralysis (1d4+1 rounds, +6 vs Fortitude), disease"
 special-qualities: "Blindsense 120 ft., undead traits"
-saves: "Fort +5, Ref +6, Will +8"
+defenses: "Fort 15, Ref 16, Will 18"
 abilities: "Str 21, Dex 17, Con —, Int 8, Wis 15, Cha 14"
 skills: "Acrobatics +13, Perception +14 (+18 when using blindsense), Stealth +14"
 skill-ranks: "Acrobatics 9, Perception 9, Stealth 12"
@@ -47,9 +47,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +10 melee (2d8+7 plus [[rangoric-srd/monsters/abilities/Disease|disease]] and [[rangoric-srd/monsters/abilities/Paralysis|paralysis]])
 - **Full Attack**: Bite +10 melee (2d8+7 plus [[rangoric-srd/monsters/abilities/Disease|disease]] and [[rangoric-srd/monsters/abilities/Paralysis|paralysis]])
 - **Space/Reach**: 10 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Screech|Screech]], [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] (1d4+1 rounds, DC 16), [[rangoric-srd/monsters/abilities/Disease|disease]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Screech|Screech]], [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] (1d4+1 rounds, +6 vs Fortitude), [[rangoric-srd/monsters/abilities/Disease|disease]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 120 ft., [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-- **Saves**: Fort +5, Ref +6, Will +8
+- **Defenses**: Fort 15, Ref 16, Will 18
 - **Abilities**: Str 21, Dex 17, Con —, Int 8, Wis 15, Cha 14
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Perception|Perception]] +14 (+18 when using blindsense), [[rangoric-srd/skills/Stealth|Stealth]] +14
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
@@ -67,8 +67,8 @@ Skavelings speak Undercommon.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Su)**: [[rangoric-srd/rules/afflictions/Skaveling Ghoul Fever|Skaveling Ghoul Fever]]: Bite—injury; _save_ Fort DC 16; _onset_ 1 day; _frequency_ 1/day; _effect_ 1d3 Con and 1d3 Dex damage; _cure_ 2 consecutive saves. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Su)**: [[rangoric-srd/rules/afflictions/Skaveling Ghoul Fever|Skaveling Ghoul Fever]]: Bite—injury; _attack_ +6 vs Fortitude; _onset_ 1 day; _frequency_ 1/day; _effect_ 1d3 Con and 1d3 Dex damage; _cure_ 2 consecutive misses. The attack bonus is Charisma-based.
 
 A humanoid who dies of ghoul fever rises as a ghoul at the next midnight (see [[rangoric-srd/monsters/ghoul/Ghoul|ghouls]]).
 
-**[[rangoric-srd/monsters/abilities/Screech|Screech]] (Su)**: Once per day as a standard action, a skaveling can screech as a mobat, save that those who are affected are [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1d3 rounds unless they make a DC 16 Fortitude save. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Screech|Screech]] (Su)**: Once per day as a standard action, a skaveling can screech as a mobat, save that those who are affected are [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1d3 rounds unless they make a DC 16 Fortitude save. The attack bonus is Charisma-based.

@@ -16,7 +16,7 @@ full-attack: "Bite +14 melee (2d6+4 plus 6d6 acid)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Poison"
 special-qualities: "Darkvision 60 ft., bristles, immunity to acid"
-saves: "Fort +14, Ref +6, Will +8"
+defenses: "Fort 24, Ref 16, Will 18"
 abilities: "Str 17, Dex 16, Con 20, Int 2, Wis 13, Cha 7"
 skills: "Perception +14"
 skill-ranks: "Perception 10"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Bristles|bristles]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid
-- **Saves**: Fort +14, Ref +6, Will +8
+- **Defenses**: Fort 24, Ref 16, Will 18
 - **Abilities**: Str 17, Dex 16, Con 20, Int 2, Wis 13, Cha 7
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +14
 - **Feats**: [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
@@ -70,6 +70,6 @@ Although the tenebrous worm tends to be relatively pale-colored, its internal or
 
 **[[rangoric-srd/monsters/abilities/Acid (Tenebrous Worm)|Acid]] (Su)**: The acid of a tenebrous worm's bite affects only organic matter—as it dissolves creatures, it converts their flesh to shadow that swiftly fades away, leaving raw, jagged wounds behind. In dim light, acid damage dealt by a tenebrous worm's bite increases to 8d6 points of damage, while in darkness or bright light, the acid damage is reduced to 4d6.
 
-**[[rangoric-srd/monsters/abilities/Bristles|Bristles]] (Su)**: Long bristles of shadowstuff extend from between the tenebrous worm's armor plates. These bristles react swiftly to attacks, stabbing at any creature that attempts to harm the worm. Each time a creature attacks a tenebrous worm, it must make a DC 18 Reflex save to avoid being punctured by several bristles. Each time a creature is punctured by these bristles, it takes 1d4 points of piercing damage and is exposed to the tenebrous worm's poison. A creature that grapples a tenebrous worm is automatically hurt by these bristles. The save DC to avoid the bristles is Dexterity-based.
+**[[rangoric-srd/monsters/abilities/Bristles|Bristles]] (Su)**: Long bristles of shadowstuff extend from between the tenebrous worm's armor plates. These bristles react swiftly to attacks, stabbing at any creature that attempts to harm the worm. Each time a creature attacks a tenebrous worm, the bristles attack it at +8 vs Reflex, and several puncture it on a hit. Each time a creature is punctured by these bristles, it takes 1d4 points of piercing damage and is exposed to the tenebrous worm's poison. A creature that grapples a tenebrous worm is automatically hurt by these bristles. The attack bonus to avoid the bristles is Dexterity-based.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Su)**: [[rangoric-srd/rules/afflictions/Tenebrous Worm Venom|Tenebrous Worm Venom]]: Bristles—injury; _save_ Fort DC 20; _frequency_ 1/round for 6 rounds; _effect_ paralysis for 1d4 rounds plus 1d2 Con (the duration of the paralysis is cumulative with each failed save); _cure_ 2 consecutive saves. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Su)**: [[rangoric-srd/rules/afflictions/Tenebrous Worm Venom|Tenebrous Worm Venom]]: Bristles—injury; _attack_ +10 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ paralysis for 1d4 rounds plus 1d2 Con (the duration of the paralysis is cumulative with each hit); _cure_ 2 consecutive misses. The attack bonus is Constitution-based.

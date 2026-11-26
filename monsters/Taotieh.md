@@ -15,7 +15,7 @@ full-attack: "Bite +23 melee (1d8+10 plus grab) and 2 claws +23 melee (1d6+10 pl
 space-reach: "10 ft./5 ft."
 special-attacks: "Pounce, rake (2 claws +23, 1d6+10), swallow whole (suffocation, AC 18, hardness 8, 25 hp)"
 special-qualities: "Darkvision 60 ft., low-light vision, damage reduction 10/adamantine, construct traits, resistance to acid 10, cold 10, electricity 10 and fire 10, vulnerable to sonic"
-saves: "Fort +4, Ref +6, Will +6"
+defenses: "Fort 14, Ref 16, Will 16"
 abilities: "Str 30, Dex 15, Con —, Int —, Wis 14, Cha 1"
 skills: "—"
 skill-ranks: ""
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], [[rangoric-srd/monsters/abilities/Rake|rake]] (2 claws +23, 1d6+10), [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (suffocation, AC 18, hardness 8, 25 hp)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/adamantine, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, cold 10, electricity 10 and fire 10, vulnerable to sonic
-- **Saves**: Fort +4, Ref +6, Will +6
+- **Defenses**: Fort 14, Ref 16, Will 16
 - **Abilities**: Str 30, Dex 15, Con —, Int —, Wis 14, Cha 1
 - **Skills**: —
 - **Feats**: —

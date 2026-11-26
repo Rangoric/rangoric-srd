@@ -17,7 +17,7 @@ full-attack: "+4 melee touch (eat thoughts)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Eat thoughts, psi-like abilities"
 special-qualities: "Darkvision 60 ft., ethereal jaunt"
-saves: "Fort +1, Ref +5, Will +4"
+defenses: "Fort 11, Ref 15, Will 14"
 abilities: "Str 12, Dex 18, Con 11, Int 7, Wis 12, Cha 14"
 skills: "Perception +9, Stealth +12"
 skill-ranks: "Perception 2, Stealth 1"
@@ -50,7 +50,7 @@ Full **Attack:** +4 melee touch (eat thoughts)   
 **Space/Reach:** 5 ft./5 ft.     
 **Special Attacks:** Eat thoughts, psi-like abilities     
 **Special Qualities:** Darkvision 60 ft., [[rangoric-srd/powers/Ethereal Jaunt, Psionic|ethereal jaunt]]     
-**Saves:** Fort +1, Ref +5, Will +4     
+**Defenses:** Fort 11, Ref 15, Will 14     
 **Abilities:** Str 12, Dex 18, Con 11, Int 7, Wis 12, Cha 14     
 **Skills:** [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +12     
 **Feats:** [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)     
@@ -72,9 +72,9 @@ Eat Thoughts (Su): A thought eater can drain psionic power points with a success
 
 A thought eater requires 12 power points per day to survive but will gorge itself on weak prey.
 
-Psi-Like **Abilities:** At will - [[rangoric-srd/powers/Detect Psionics|detect psionics]], [[rangoric-srd/powers/Distract|distract]] (DC 13), [[rangoric-srd/powers/Precognition|precognition]], [[rangoric-srd/powers/Daze, Psionic|psionic daze]] (DC 13\*); 3/day - [[rangoric-srd/powers/Thought Shield|thought shield]].
+Psi-Like **Abilities:** At will - [[rangoric-srd/powers/Detect Psionics|detect psionics]], [[rangoric-srd/powers/Distract|distract]] (+3 vs Will), [[rangoric-srd/powers/Precognition|precognition]], [[rangoric-srd/powers/Daze, Psionic|psionic daze]] (+3 vs Will\*); 3/day - [[rangoric-srd/powers/Thought Shield|thought shield]].
 
-Manifester level 3rd. The save DCs are Charisma-based.
+Manifester level 3rd. The attack bonuses are Charisma-based.
 
 \*Includes augmentation for the thought eater’s manifester level.
 

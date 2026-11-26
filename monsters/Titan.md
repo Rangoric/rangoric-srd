@@ -18,7 +18,7 @@ full-attack: "Gargantuan +3 adamantine warhammer +37/+32/+27/+22 melee (4d6+27/x
 space-reach: "15 ft./15 ft."
 special-attacks: "Oversized weapon, spell-like abilities"
 special-qualities: "Damage reduction 15/lawful, darkvision 60 ft., spell resistance 32"
-saves: "Fort +26, Ref +13, Will +21"
+defenses: "Fort 36, Ref 23, Will 31"
 abilities: "Str 43, Dex 12, Con 39, Int 21, Wis 28, Cha 24"
 skills: "Acrobatics +24, Athletics +39 (+43 jumping), Craft (any one) +28, Deception +30, Fieldcraft +32 (+34 following tracks), Imitation +28 (+30 acting), Intimidation +30, Knowledge skill (any one) +28, Mysticism +28, Perception +32, Performance (oratory) +30, Persuasion +7, Sense Motive +32, Investigation +28"
 skill-ranks: "Acrobatics 20, Athletics 20, Craft (any one) 20, Deception 20, Fieldcraft 20, Imitation 20, Intimidation 20, Investigation 20, Knowledge skill (any one) 20, Mysticism 20, Perception 20, Performance (oratory) 20, Persuasion 0, Sense Motive 20"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./15 ft.
 - **Special Attacks**: Oversized weapon, spell-like abilities
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 15/lawful, darkvision 60 ft., [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 32
-- **Saves**: Fort +26, Ref +13, Will +21
+- **Defenses**: Fort 36, Ref 23, Will 31
 - **Abilities**: Str 43, Dex 12, Con 39, Int 21, Wis 28, Cha 24
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +24, [[rangoric-srd/skills/Athletics|Athletics]] +39 (+43 jumping), [[rangoric-srd/skills/Craft|Craft]] (any one) +28, [[rangoric-srd/skills/Deception|Deception]] +30, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +32 (+34 following tracks), [[rangoric-srd/skills/Imitation|Imitation]] +28 (+30 acting), [[rangoric-srd/skills/Intimidation|Intimidation]] +30, [[rangoric-srd/skills/Investigation|Investigation]] +28, [[rangoric-srd/skills/Knowledge|Knowledge skill]] (any one) +28, [[rangoric-srd/skills/Mysticism|Mysticism]] +28, [[rangoric-srd/skills/Perception|Perception]] +32, [[rangoric-srd/skills/Performance|Performance]] (oratory) +30, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +32
 - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Quicken Spell-Like Ability|Quicken Spell-Like Ability]] (chain lightning)
@@ -75,25 +75,25 @@ A titan’s natural weapons, as well as any weapons it wields, are treated as ch
 
 **Oversized Weapon (Ex)**: A titan wields a great, two-handed warhammer (big enough for Gargantuan creatures) without penalty.
 
-**Spell-Like Abilities**: Caster level 20th. The save DCs are Charisma-based.
+**Spell-Like Abilities**: Caster level 20th. The attack bonuses are Charisma-based.
 
-At will - [[rangoric-srd/spells/Chain Lightning|chain lightning]] (DC 23), [[rangoric-srd/spells/Charm Monster|charm monster]] (DC 21), [[rangoric-srd/spells/Cure Critical Wounds|cure critical wounds]] (DC 21), [[rangoric-srd/spells/Fire Storm|fire storm]] (DC 24), [[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]], [[rangoric-srd/spells/Hold Monster|hold monster]] (DC 22), [[rangoric-srd/spells/Invisibility|invisibility]], [[rangoric-srd/spells/Invisibility Purge|invisibility purge]], [[rangoric-srd/spells/Levitate|levitate]], [[rangoric-srd/spells/Persistent Image|persistent image]] (DC 22)
+At will - [[rangoric-srd/spells/Chain Lightning|chain lightning]] (+13 vs Reflex), [[rangoric-srd/spells/Charm Monster|charm monster]] (+11 vs Will), [[rangoric-srd/spells/Cure Critical Wounds|cure critical wounds]] (+11), [[rangoric-srd/spells/Fire Storm|fire storm]] (+14 vs Reflex), [[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]], [[rangoric-srd/spells/Hold Monster|hold monster]] (+12 vs Will), [[rangoric-srd/spells/Invisibility|invisibility]], [[rangoric-srd/spells/Invisibility Purge|invisibility purge]], [[rangoric-srd/spells/Levitate|levitate]], [[rangoric-srd/spells/Persistent Image|persistent image]] (+12)
 
-3/day - [[rangoric-srd/spells/Etherealness|etherealness]], [[rangoric-srd/spells/Word of Chaos|word of chaos]] (DC 22), [[rangoric-srd/spells/Summon Nature’s Ally IX|summon nature’s ally IX]];
+3/day - [[rangoric-srd/spells/Etherealness|etherealness]], [[rangoric-srd/spells/Word of Chaos|word of chaos]] (+12 vs Will), [[rangoric-srd/spells/Summon Nature’s Ally IX|summon nature’s ally IX]];
 
-1/day - [[rangoric-srd/spells/Gate|gate]], [[rangoric-srd/spells/Maze|maze]], [[rangoric-srd/spells/Meteor Swarm|meteor swarm]] (DC 26). 
+1/day - [[rangoric-srd/spells/Gate|gate]], [[rangoric-srd/spells/Maze|maze]], [[rangoric-srd/spells/Meteor Swarm|meteor swarm]] (+16 vs Reflex). 
 
-In addition, titans of good or neutral alignment can use the following additional spell-like abilities. Caster level 20th. The save DCs are Charisma-based:
+In addition, titans of good or neutral alignment can use the following additional spell-like abilities. Caster level 20th. The attack bonuses are Charisma-based:
 
-At will - [[rangoric-srd/spells/Daylight|daylight]], [[rangoric-srd/spells/Holy Smite|holy smite]] (DC 21), [[rangoric-srd/spells/Remove Curse|remove curse]] (DC 21);
+At will - [[rangoric-srd/spells/Daylight|daylight]], [[rangoric-srd/spells/Holy Smite|holy smite]] (+11 vs Will), [[rangoric-srd/spells/Remove Curse|remove curse]] (+11 vs Will);
 
 1/day - [[rangoric-srd/spells/Restoration, Greater|greater restoration]].
 
-Titans of evil alignment can use the following additional spell-like abilities. Caster level 20th. The save DCs are Charisma-based:
+Titans of evil alignment can use the following additional spell-like abilities. Caster level 20th. The attack bonuses are Charisma-based:
 
-At will - [[rangoric-srd/spells/Bestow Curse|bestow curse]] (DC 21), [[rangoric-srd/spells/Deeper Darkness|deeper darkness]], [[rangoric-srd/spells/Unholy Blight|unholy blight]] (DC 21);
+At will - [[rangoric-srd/spells/Bestow Curse|bestow curse]] (+11 vs Will), [[rangoric-srd/spells/Deeper Darkness|deeper darkness]], [[rangoric-srd/spells/Unholy Blight|unholy blight]] (+11 vs Will);
 
-1/day - [[rangoric-srd/spells/Crushing Hand|crushing hand]] (DC 26).
+1/day - [[rangoric-srd/spells/Crushing Hand|crushing hand]] (+16).
 
 ### Tactics Round-By-Round
 
