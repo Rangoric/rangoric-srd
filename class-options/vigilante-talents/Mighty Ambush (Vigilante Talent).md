@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 _A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex)\*._
 
-Once per round, when the vigilante succeeds at a [[rangoric-srd/classes/Vigilante#^vigilante-specialization|hidden strike]], he can instantly drop the damaged enemy unconscious for 1d4 rounds. A successful Fortitude saving throw negates this effect (DC = 10 + 1/2 the vigilante’s class level + the higher of the vigilante’s Strength and Dexterity modifiers). Whether or not a creature’s saving throw is successful, it can’t be affected by that vigilante’s mighty ambush again for 24 hours.
+Once per round, when the vigilante succeeds at a [[rangoric-srd/classes/Vigilante#^vigilante-specialization|hidden strike]], he can instantly drop the damaged enemy unconscious for 1d4 rounds. It attacks Fortitude at 1/2 the vigilante’s class level + the higher of the vigilante’s Strength and Dexterity modifiers, and a miss negates this effect. Whether it hits or misses, a creature can’t be affected by that vigilante’s mighty ambush again for 24 hours.
 
 Only a stalker vigilante of at least 10th level can select this talent.

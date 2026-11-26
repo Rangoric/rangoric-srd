@@ -25,6 +25,6 @@ _A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|
 - **Level**: 1
 - **Burn**: 1
 - **Associated Blasts**: [[rangoric-srd/class-options/wild-talents/Charged Water Blast|charged water]], [[rangoric-srd/class-options/wild-talents/Water Blast|water]]
-- **Saving Throw**: none
+- **Defense**: none
 
 Your blast puts out nonmagical fires as if they had been touched by a water elemental. If you increase the [[rangoric-srd/classes/Kineticist#^kineticist-burn|burn]] cost to 2 or reduce the damage to 0, it also dispels magical fires as if you were a water elemental with a number of Hit Dice equal to your kineticist level.

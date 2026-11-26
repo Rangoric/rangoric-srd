@@ -12,7 +12,7 @@ manifesting-time: "1 round"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "One created astral construct"
 duration: "1 round/level (D)"
-saving-throw: "None"
+defense: "None"
 power-resistance: "No"
 power-points: "1"
 based-on:
@@ -32,7 +32,7 @@ Manifesting Time: 1 round
 Range: Close (25 ft. + 5 ft./2 levels)  
 Effect: One created astral construct  
 Duration: 1 round/level (D)  
-Saving Throw: None  
+Defense: None  
 Power Resistance: No  
 Power Points: 1
 

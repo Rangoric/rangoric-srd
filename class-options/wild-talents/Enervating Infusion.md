@@ -25,6 +25,6 @@ _A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|
 - **Level**: 7
 - **Burn**: 4
 - **Associated Blasts**: [[rangoric-srd/class-options/wild-talents/Negative Blast|negative]], [[rangoric-srd/class-options/wild-talents/Void Blast|void]]
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 
 Your kinetic blast drains life force. Foes that take damage from your infused blast also take 1 temporary [[rangoric-srd/rules/Special Abilities and Conditions#^negative-levels|negative level]]. Negative levels from this infusion fade after 24 hours and never become permanent.

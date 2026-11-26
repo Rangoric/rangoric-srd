@@ -25,6 +25,6 @@ _A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|
 - **Level**: 4
 - **Burn**: 3
 - **Associated Blasts**: [[rangoric-srd/class-options/wild-talents/Blue Flame Blast|blue flame]], [[rangoric-srd/class-options/wild-talents/Fire Blast|fire]], [[rangoric-srd/class-options/wild-talents/Plasma Blast|plasma]]
-- **Saving Throw**: Will negates
+- **Defense**: Will
 
-Your kinetic blast is so bright that it blinds your foes. Whenever an infused blast hits a foe and penetrates its [[rangoric-srd/rules/Special Abilities and Conditions#Spell Resistance|spell resistance]], that foe must succeed at a Will save or be [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] for 1 round, regardless of whether it takes damage from the blast. You can reduce the blast’s damage by half to increase the DC of this save by 2.
+Your kinetic blast is so bright that it blinds your foes. Whenever an infused blast hits a foe and penetrates its [[rangoric-srd/rules/Special Abilities and Conditions#Spell Resistance|spell resistance]], the blast also attacks that foe’s Will, and on a hit the foe is [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] for 1 round, regardless of whether it takes damage from the blast. You can reduce the blast’s damage by half to increase the attack bonus against Will by 2.

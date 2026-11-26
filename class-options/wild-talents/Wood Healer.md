@@ -25,7 +25,7 @@ _A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|u
 - **Level**: 1
 - **Burn**: 1; see text
 - **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Positive Blast|positive blast]]
-- **Saving Throw**: none
+- **Defense**: none
 - **Spell Resistance**: yes
 
 This functions as [[rangoric-srd/class-options/wild-talents/Kinetic Healer|kinetic healer]], but you must base the amount of healing on your [[rangoric-srd/class-options/wild-talents/Positive Blast|positive blast]], not [[rangoric-srd/class-options/wild-talents/Wood Blast|wood blast]].

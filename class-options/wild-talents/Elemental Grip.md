@@ -24,7 +24,7 @@ _A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|u
 - **Type**: utility (Sp)
 - **Level**: 3
 - **Burn**: 0
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: yes
 
 You use your element to halt a creature associated with your element, as _[[rangoric-srd/spells/Hold Monster|hold monster]]_ except it requires concentration to maintain, and it works only on creatures with a subtype matching one of your elements (for example, a pyrokineticist could use it on creatures of the fire subtype). At any time, you can accept 1 point of [[rangoric-srd/classes/Kineticist#^kineticist-burn|burn]] to remove the need to concentrate.

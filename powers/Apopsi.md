@@ -11,7 +11,7 @@ manifesting-time: "1 round"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One living psionic creature"
 duration: "Instantaneous"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 power-resistance: "Yes"
 power-points: "17, XP"
 based-on:
@@ -31,7 +31,7 @@ Manifesting Time: 1 round
 Range: Close (25 ft. + 5 ft./2 levels)  
 Target: One living psionic creature  
 Duration: Instantaneous  
-Saving Throw: Fortitude negates  
+Defense: Fortitude  
 Power Resistance: Yes  
 Power Points: 17, XP
 

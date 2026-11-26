@@ -25,6 +25,6 @@ _A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|
 - **Level**: 3
 - **Burn**: 2
 - **Associated Blasts**: [[rangoric-srd/class-options/wild-talents/Force Blast|force]]
-- **Saving Throw**: none
+- **Defense**: none
 
 Your [[rangoric-srd/class-options/wild-talents/Force Blast|force blast]] hooks onto its target and drags you adjacent to it. This effect functions as _[[rangoric-srd/spells/Force Hook Charge|force hook charge]]_, except with the range and damage of your force blast.

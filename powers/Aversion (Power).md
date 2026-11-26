@@ -14,7 +14,7 @@ manifesting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "1 hour/level"
-saving-throw: "Will negates"
+defense: "Will"
 power-resistance: "Yes"
 power-points: "3"
 based-on:
@@ -34,7 +34,7 @@ Manifesting Time: 1 standard action
 Range: Close (25 ft. + 5 ft./2 levels)  
 Target: One creature  
 Duration: 1 hour/level  
-Saving Throw: Will negates  
+Defense: Will  
 Power Resistance: Yes  
 Power Points: 3
 
@@ -42,4 +42,4 @@ You plant a powerful aversion in the mind of the subject. If the object of the i
 
 If the subject is forced into taking an action she has an aversion to, she takes a -2 penalty on any attack rolls, ability checks, or skill checks involved.
 
-Augment: For every 2 additional power points you spend, this power’s save DC increases by 1 and the duration increases by 1 hour.
+Augment: For every 2 additional power points you spend, this power’s attack bonus increases by 1 and the duration increases by 1 hour.

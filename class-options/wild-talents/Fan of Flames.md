@@ -25,6 +25,6 @@ _A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|
 - **Level**: 1
 - **Burn**: 1
 - **Associated Blasts**: [[rangoric-srd/class-options/wild-talents/Blue Flame Blast|blue flame]], [[rangoric-srd/class-options/wild-talents/Fire Blast|fire]]
-- **Saving Throw**: Reflex half
+- **Defense**: Reflex half
 
-Your kinetic blast extends in a fan of flames, damaging all creatures and objects in a 15-foot cone. The saving throw DC is Dexterity-based.
+Your kinetic blast extends in a fan of flames, damaging all creatures and objects in a 15-foot cone. The attack bonus is Dexterity-based.

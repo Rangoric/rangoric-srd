@@ -26,6 +26,6 @@ _A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|
 - **Burn**: 2
 - **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Kinetic Blade|kinetic blade]]
 - **Associated Blasts**: any
-- **Saving Throw**: none
+- **Defense**: none
 
 You form a long tendril of energy or elemental matter. This functions as [[rangoric-srd/class-options/wild-talents/Kinetic Blade|kinetic blade]] but counts as a reach weapon appropriate for your size. Unlike most reach weapons, the kinetic whip can also attack nearby creatures. The kinetic whip disappears at the beginning of your next turn, but in the intervening time, it threatens all squares within its reach, allowing you to make [[rangoric-srd/combat/Combat Initiative and Attacks of Opportunity#Attacks of Opportunity|attacks of opportunity]] that deal the whip’s usual damage.
