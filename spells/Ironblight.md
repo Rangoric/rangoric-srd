@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Long (400 ft. + 40 ft./level)"
 area: "10-ft.-radius spread"
 duration: "Instantaneous"
-saving-throw: "Reflex negates (object)"
+defense: "Reflex (object)"
 spell-resistance: "Yes (object)"
 book: "Faeries"
 based-on:
@@ -37,9 +37,9 @@ _Transmutation_
 - **Range**: Long (400 ft. + 40 ft./level)
 - **Area**: 10-ft.-radius spread
 - **Duration**: Instantaneous
-- **Saving Throw**: Reflex negates (object)
+- **Defense**: Reflex (object)
 - **Spell Resistance**: Yes (object)
 
-This spell creates a burst of brilliant yellow energy that rusts away any ferrous objects it contacts. A creature caught in the area of effect must make a Reflex save or risk losing iron or steel items in their possession. If the saving throw fails, each item must succeed a DC 20 save or be destroyed. Items failing their saves are rendered useless, turning into rusted, fragile, and worthless husks. For information regarding magic item saving throw bonuses, see [[rangoric-srd/magic-items/Magic Item Basics#Damaging Magic Items|Damaging Magic Items]]. Iron (including cold iron) and steel failing their saves are rendered ineffective versus fey.
+This spell creates a burst of brilliant yellow energy that rusts away any ferrous objects it contacts. The spell attacks the Reflex of a creature caught in the area of effect, and on a hit it risks losing iron or steel items in their possession. If it hits, the spell attacks each item’s defense at +10, and destroys each item it hits. Items it hits are rendered useless, turning into rusted, fragile, and worthless husks. For information regarding magic item defenses, see [[rangoric-srd/magic-items/Magic Item Basics#Damaging Magic Items|Damaging Magic Items]]. Iron (including cold iron) and steel it hits are rendered ineffective versus fey.
 
 _Material Component_: A small piece of rust monster armor plating inside a one-inch ball of clay.

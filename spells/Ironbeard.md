@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "1 minute/level"
-saving-throw: "Fortitude negates (harmless)"
+defense: "Fortitude (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Advanced Race Guide"
 based-on:
@@ -37,7 +37,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: 1 minute/level
-- **Saving Throw**: Fortitude negates (harmless)
+- **Defense**: Fortitude (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 This spell causes a brushy beard of stiff iron to erupt from the face of a willing target. The _ironbeard_ grants a +1 armor bonus to AC, and this bonus stacks with any armor worn by the creature. The _ironbeard_ may also be used as a weapon equivalent to cold iron armor spikes. The _ironbeard_ makes it difficult to speak, so any spellcasting with a verbal component has a 20% spell failure chance.

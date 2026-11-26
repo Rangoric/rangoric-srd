@@ -19,7 +19,7 @@ casting-time: "1 standard action"
 range: "60 ft."
 area: "All allies and opponents within a 60-ft.-radius burst centered on you"
 duration: "Instantaneous"
-saving-throw: "No"
+defense: "No"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -40,7 +40,7 @@ _Conjuration (Healing) \[Emotion\]_
 - **Range**: 60 ft.
 - **Area**: All allies and opponents within a 60-ft.-radius burst centered on you
 - **Duration**: Instantaneous
-- **Saving Throw**: No
+- **Defense**: No
 - **Spell Resistance**: Yes
 
 Your inspired words overwhelm others with transcendental bliss. All allies within the area of effect are freed from any harmful emotion effects. The spell also cures 1d4 points of Intelligence, Wisdom, or Charisma damage (your choice) to all allies in the area

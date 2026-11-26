@@ -12,7 +12,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels"
 effect: "Cloud that spreads in 10 ft. radius, 5 ft. high"
 duration: "Instantaneous"
-saving-throw: "Reflex half"
+defense: "Reflex half"
 spell-resistance: "Yes"
 book: "Spells & Magic"
 based-on:
@@ -33,7 +33,7 @@ _Necromancy_
 - **Range**: Close (25 ft. + 5 ft./2 levels
 - **Effect**: Cloud that spreads in 10 ft. radius, 5 ft. high
 - **Duration**: Instantaneous
-- **Saving Throw**: Reflex half
+- **Defense**: Reflex half
 - **Spell Resistance**: Yes
 
 You create a cloud of iron filings that carry a slight negative energy charge. Any fey creature caught within the cloud suffers 1d4 hit points of damage.

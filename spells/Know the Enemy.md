@@ -16,7 +16,7 @@ casting-time: "1 minute"
 range: "Personal"
 target: "You"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Ultimate Magic"
 based-on:
@@ -37,7 +37,7 @@ _Divination_
 - **Range**: Personal
 - **Target**: You
 - **Duration**: Instantaneous
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You commune with the divine, reflecting on one type of creature you encountered in the last day. You may make a Knowledge check regarding that creature type with a +10 insight bonus.

@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft + 5 ft./2 levels)"
 target: "One living creature"
 duration: "Instantaneous"
-saving-throw: "Fortitude partial"
+defense: "Fortitude partial"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -37,7 +37,7 @@ _Evocation \[Sonic\]_
 - **Range**: Close (25 ft + 5 ft./2 levels)
 - **Target**: One living creature
 - **Duration**: Instantaneous
-- **Saving Throw**: Fortitude partial
+- **Defense**: Fortitude partial
 - **Spell Resistance**: Yes
 
-With a guttural bark, you unleash a sudden blast of sonic energy that strikes your opponent. The target takes 1d6 points of sonic damage per level (maximum 20d6) and is stunned for 1 round; a successful Fortitude save reduces the damage by half and negates the stun.
+With a guttural bark, you unleash a sudden blast of sonic energy that strikes your opponent. The target takes 1d6 points of sonic damage per level (maximum 20d6) and is stunned for 1 round; a miss against Fortitude reduces the damage by half and negates the stun.

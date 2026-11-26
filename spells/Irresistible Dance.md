@@ -19,7 +19,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Living creature touched"
 duration: "1d4+1 rounds"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Irresistible Dance|Irresistible Dance (3.5)]]"
@@ -39,7 +39,7 @@ _Enchantment (Compulsion) \[Mind-Affecting\]_
 - **Range**: Touch
 - **Target**: Living creature touched
 - **Duration**: 1d4+1 rounds
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
-The subject feels an undeniable urge to dance and begins doing so, complete with foot shuffling and tapping. The spell effect makes it impossible for the subject to do anything other than caper and prance in place. The effect imposes a –4 penalty to Armor Class and a –10 penalty on Reflex saves, and it negates any AC bonus granted by a shield the target holds. The dancing subject provokes attacks of opportunity each round on its turn.
+The subject feels an undeniable urge to dance and begins doing so, complete with foot shuffling and tapping. The spell effect makes it impossible for the subject to do anything other than caper and prance in place. The effect imposes a –4 penalty to Armor Class and a –10 penalty on Reflex Defense, and it negates any AC bonus granted by a shield the target holds. The dancing subject provokes attacks of opportunity each round on its turn.

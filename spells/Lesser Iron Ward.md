@@ -12,7 +12,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "1 round/level"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Faeries"
 based-on:
@@ -33,7 +33,7 @@ _Abjuration_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: 1 round/level
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 The creature targeted by this spell becomes immune to nonmagical metal. Items made of metal simply pass through the creature as if it were incorporeal. Enchanted metal, spells and spell-like abilities, and supernatural effects all affect the target creature normally. Other attacks delivered by metal items (such as poison on a blade) affect the creature normally. If there is metal inside the creature when the spell expires, the creature and the metal both take 1d6 points of damage as the metal is ejected from the body.

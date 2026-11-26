@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "One splinter-sized missile of iron"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 book: "Faeries"
 based-on:
@@ -35,7 +35,7 @@ _Conjuration (Creation) \[Cold Iron\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Effect**: One splinter-sized missile of iron
 - **Duration**: Instantaneous
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 You fire a small shard of iron at the target. You must succeed at a ranged touch attack to hit your target. If you miss, there is no scatter effect. The spell deals 1d3 points of piercing damage. If the target is a fey creature, this damage increases to 1d4. The damage counts as [[rangoric-srd/spells/Magic Overview#^cold-iron-descriptor|cold iron]].

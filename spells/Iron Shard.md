@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "A needle-like shard of iron"
 duration: "1 round/2 levels"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 book: "Faeries"
 based-on:
@@ -38,7 +38,7 @@ _Conjuration (Creation) \[Cold Iron\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Effect**: A needle-like shard of iron
 - **Duration**: 1 round/2 levels
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 You unleash a small iron shard from your hand at your target. You must make a ranged attack to hit your target. If you miss, there is no damage due to scattering shards. Non-fey creatures receive 1d4+ your caster level in points of damage, while fey creatures suffer 1d6+ your caster level in points of damage. The damage counts as [[rangoric-srd/spells/Magic Overview#^cold-iron-descriptor|cold iron]].

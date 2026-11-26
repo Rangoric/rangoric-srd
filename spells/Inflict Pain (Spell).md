@@ -24,7 +24,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "Caster level round(s)"
-saving-throw: "Will partial; see text"
+defense: "Will partial; see text"
 spell-resistance: "Yes"
 book: "Occult Adventures"
 based-on:
@@ -45,7 +45,7 @@ _Enchantment \[MindAffecting, Pain\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature
 - **Duration**: Caster level round(s)
-- **Saving Throw**: Will partial; see text
+- **Defense**: Will partial; see text
 - **Spell Resistance**: Yes
 
-You telepathically wrack the target's mind and body with agonizing pain that imposes a -4 penalty on attack rolls, skill checks, and ability checks. A successful Will save reduces the duration to 1 round.
+You telepathically wrack the target's mind and body with agonizing pain that imposes a -4 penalty on attack rolls, skill checks, and ability checks. A miss against Will reduces the duration to 1 round.

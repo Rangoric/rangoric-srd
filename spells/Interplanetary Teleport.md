@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "Personal and touch"
 target: "You and touched objects or other touched willing creatures"
 duration: "Instantaneous"
-saving-throw: "None and Will negates (object)"
+defense: "None and Will (object)"
 spell-resistance: "No and yes (object)"
 book: "Ultimate Magic"
 based-on:
@@ -34,7 +34,7 @@ _Conjuration (Teleportation)_
 - **Range**: Personal and touch
 - **Target**: You and touched objects or other touched willing creatures
 - **Duration**: Instantaneous
-- **Saving Throw**: None and Will negates (object)
+- **Defense**: None and Will (object)
 - **Spell Resistance**: No and yes (object)
 
 This spell functions as _[[rangoric-srd/spells/Teleport|teleport]]_, except there is truly no range limit and you do not need to have seen your destination, though you must have a solid grasp of which world you wish to travel to (“the third planet from the sun” is an acceptable destination, but “a habitable world near that bright star” is not). If you have a specific location on a planet in mind, you arrive there without a chance of failure; otherwise you arrive at a location that would not immediately be life-threatening. If no such safe landing zone exists on the world, such as someone attempting to travel into the sun without the proper precautions in place, the spell simply fails.

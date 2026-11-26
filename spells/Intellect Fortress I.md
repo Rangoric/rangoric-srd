@@ -10,7 +10,7 @@ casting-time: "1 immediate action"
 range: "20 ft."
 area: "20-ft.-radius emanation centered on you"
 duration: "1 round"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes (harmless)"
 book: "Occult Adventures"
 based-on:
@@ -31,7 +31,7 @@ _Abjuration_
 - **Range**: 20 ft.
 - **Area**: 20-ft.-radius emanation centered on you
 - **Duration**: 1 round
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes (harmless)
 
 Using the power of pure logic, you disrupt mental attacks. _Intellect fortress I_ suppresses all effects with the [[rangoric-srd/spells/Magic Overview#^emotion-component|emotion]] and fear descriptors for its duration.

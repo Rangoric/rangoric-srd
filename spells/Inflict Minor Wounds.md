@@ -4,7 +4,7 @@ section: "Spells"
 school: "Necromancy"
 level:
   - "Clr 0"
-saving-throw: "Will negates"
+defense: "Will"
 based-on:
   - "[[fantasy srd 3.5/spells/Inflict Minor Wounds|Inflict Minor Wounds (3.5)]]"
 status: base
@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/spell]
 _Necromancy_
 
 - **Level**: Clr 0
-- **Saving Throw**: Will negates
+- **Defense**: Will
 
-This spell functions like [[rangoric-srd/spells/Inflict Light Wounds|inflict light wounds]], except that you deal 1 point of damage and a Will save negates the damage instead of halving it.
+This spell functions like [[rangoric-srd/spells/Inflict Light Wounds|inflict light wounds]], except that you deal 1 point of damage and a miss against Will negates the damage instead of halving it.

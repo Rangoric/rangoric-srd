@@ -23,7 +23,7 @@ casting-time: "1 standard action"
 range: "Personal or close (25 ft. + 5 ft./2 levels)"
 target: "You or one willing creature or one object (total weight up to 100 lb./level)"
 duration: "1 min./level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Levitate|Levitate (3.5)]]"
@@ -43,7 +43,7 @@ _Transmutation_
 - **Range**: Personal or close (25 ft. + 5 ft./2 levels)
 - **Target**: You or one willing creature or one object (total weight up to 100 lb./level)
 - **Duration**: 1 min./level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 Levitate allows you to move yourself, another creature, or an object up and down as you wish. A creature must be willing to be levitated, and an object must be unattended or possessed by a willing creature. You can mentally direct the recipient to move up or down as much as 20 feet each round; doing so is a move action. You cannot move the recipient horizontally, but the recipient could clamber along the face of a cliff, for example, or push against a ceiling to move laterally (generally at half its base land speed).

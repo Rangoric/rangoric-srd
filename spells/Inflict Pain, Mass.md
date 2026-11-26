@@ -22,7 +22,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature/level, no two of which can be more than 30 ft. apart."
 duration: "Caster level round(s)"
-saving-throw: "Will partial; see text"
+defense: "Will partial; see text"
 spell-resistance: "Yes"
 book: "Occult Adventures"
 based-on:
@@ -43,7 +43,7 @@ _Enchantment \[MindAffecting, Pain\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature/level, no two of which can be more than 30 ft. apart.
 - **Duration**: Caster level round(s)
-- **Saving Throw**: Will partial; see text
+- **Defense**: Will partial; see text
 - **Spell Resistance**: Yes
 
 This spell functions like [[rangoric-srd/spells/Inflict Pain (Spell)|inflict pain]] except as noted above.

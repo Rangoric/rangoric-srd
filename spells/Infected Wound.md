@@ -19,4 +19,4 @@ _Necromancy_
 
 - **Level**: Clr 5
 
-As _[[rangoric-srd/spells/Inflict Serious Wounds|inflict serious wounds]]_, except that, if the subject fails its saving throw, it is also afflicted with a disease per the spell _[[rangoric-srd/spells/Contagion|contagion]]_.
+As _[[rangoric-srd/spells/Inflict Serious Wounds|inflict serious wounds]]_, except that, if the spell hits the subject, it is also afflicted with a disease per the spell _[[rangoric-srd/spells/Contagion|contagion]]_.

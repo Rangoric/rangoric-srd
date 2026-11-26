@@ -18,7 +18,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 targets: "One creature"
 duration: "1 minute/level"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Occult Adventures"
 based-on:
@@ -39,7 +39,7 @@ _Illusion (Phantasm) \[Mind-Affecting\]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Targets**: One creature
 - **Duration**: 1 minute/level
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
-You begin a [[rangoric-srd/rules/Psychic Duels|psychic duel]] with a creature. This psychic duel takes place on a [[rangoric-srd/rules/Mindscapes#Binary Mindscapes|binary mindscape]] that includes only two minds: yours and the target's. This spell ends and both minds return to their respective bodies if one of you reaches 0 or fewer hit points or if both of you agree to end the psychic duel (a free action that you can perform even if it isn't your turn). Even if you cast the spell, you must succeed at a Will save to escape your own psychic duel if your opponent doesn't want to allow you to leave. Spells like _[[rangoric-srd/spells/Mindscape Door|mindscape door]]_ can also free you from the mindscape (and _[[rangoric-srd/spells/Mindscape Door|mindscape door]]_ is one of the few spells you can cast in a binary mindscape). A binary mindscape is clearly illusory, and disbelieving the illusion doesn't alter how the mindscape works.
+You begin a [[rangoric-srd/rules/Psychic Duels|psychic duel]] with a creature. This psychic duel takes place on a [[rangoric-srd/rules/Mindscapes#Binary Mindscapes|binary mindscape]] that includes only two minds: yours and the target's. This spell ends and both minds return to their respective bodies if one of you reaches 0 or fewer hit points or if both of you agree to end the psychic duel (a free action that you can perform even if it isn't your turn). Even if you cast the spell, you must succeed at a Will check (1d20 + Will save bonus; DC 10 + this spell’s attack bonus) to escape your own psychic duel if your opponent doesn't want to allow you to leave. Spells like _[[rangoric-srd/spells/Mindscape Door|mindscape door]]_ can also free you from the mindscape (and _[[rangoric-srd/spells/Mindscape Door|mindscape door]]_ is one of the few spells you can cast in a binary mindscape). A binary mindscape is clearly illusory, and disbelieving the illusion doesn't alter how the mindscape works.

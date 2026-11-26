@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "1 round/level"
-saving-throw: "Fortitude negates (object)"
+defense: "Fortitude (object)"
 spell-resistance: "Yes (object)"
 book: "Ultimate Combat"
 based-on:
@@ -35,7 +35,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: 1 round/level
-- **Saving Throw**: Fortitude negates (object)
+- **Defense**: Fortitude (object)
 - **Spell Resistance**: Yes (object)
 
-This spell converts the momentum and force from melee attacks made against the target of the spell, reflecting them back upon the attacker's weapon. After making a successful melee attack against the target, an attacker must make a Fortitude saving throw for the weapon used. If the weapon fails the save, it takes damage equal to the damage rolled against the target. Creatures using natural attacks or unarmed strikes are unaffected by this spell.
+This spell converts the momentum and force from melee attacks made against the target of the spell, reflecting them back upon the attacker's weapon. After making a successful melee attack against the target, the spell attacks the Fortitude of the weapon used. If it hits, the weapon takes damage equal to the damage rolled against the target. Creatures using natural attacks or unarmed strikes are unaffected by this spell.

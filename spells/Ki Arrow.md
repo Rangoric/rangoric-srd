@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "1 arrow touched"
 duration: "Instantaneous"
-saving-throw: "Fortitude (object)"
+defense: "Fortitude (object)"
 spell-resistance: "Yes (object)"
 book: "Ultimate Magic"
 based-on:
@@ -35,7 +35,7 @@ _Conjuration_
 - **Range**: Touch
 - **Target**: 1 arrow touched
 - **Duration**: Instantaneous
-- **Saving Throw**: Fortitude (object)
+- **Defense**: Fortitude (object)
 - **Spell Resistance**: Yes (object)
 
 You imbue an arrow with your power and throw it at a target up to 100 feet away. Make a ranged attack roll. If it hits, the target takes damage from the arrow as if you had hit it with a single unarmed strike (including your Strength bonus).

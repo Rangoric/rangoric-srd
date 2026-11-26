@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 targets: "One corporeal creature/round"
 duration: "Concentration (up to 4 rounds)"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Implosion|Implosion (3.5)]]"
@@ -33,7 +33,7 @@ _Evocation_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Targets**: One corporeal creature/round
 - **Duration**: Concentration (up to 4 rounds)
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
 You create a destructive resonance in a corporeal creature’s body. For each round you concentrate, you cause one creature to collapse in on itself, killing it. (This effect, being instantaneous, cannot be dispelled.)

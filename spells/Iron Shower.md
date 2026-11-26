@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 effect: "Cylinder (20 ft. radius, 20 ft. tall)"
 duration: "Instantaneous"
-saving-throw: "Reflex half"
+defense: "Reflex half"
 spell-resistance: "Yes"
 book: "Faeries"
 based-on:
@@ -36,7 +36,7 @@ _Conjuration (Creation) \[Cold Iron\]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Effect**: Cylinder (20 ft. radius, 20 ft. tall)
 - **Duration**: Instantaneous
-- **Saving Throw**: Reflex half
+- **Defense**: Reflex half
 - **Spell Resistance**: Yes
 
 You cause iron splinters to rain downward. The shards deal 1d4 points of piercing damage per caster level (maximum 15d4). Fey within the target area suffer 1d6 points of damage per caster level (maximum of 15d6). The damage counts as [[rangoric-srd/spells/Magic Overview#^cold-iron-descriptor|cold iron]].

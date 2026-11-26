@@ -11,7 +11,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "One ally"
 duration: "1 round/level"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Ultimate Magic"
 based-on:
@@ -32,7 +32,7 @@ _Divination_
 - **Range**: Touch
 - **Target**: One ally
 - **Duration**: 1 round/level
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 This functions as _[[rangoric-srd/spells/Lend Judgment|lend judgment]]_, except the ally gains the benefit of all your active judgments.

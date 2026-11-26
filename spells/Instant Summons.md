@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "See text"
 target: "One object weighing 10 lb. or less whose longest dimension is 6 ft. or less"
 duration: "Permanent until discharged"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Instant Summons|Instant Summons (3.5)]]"
@@ -35,7 +35,7 @@ _Conjuration (Summoning)_
 - **Range**: See text
 - **Target**: One object weighing 10 lb. or less whose longest dimension is 6 ft. or less
 - **Duration**: Permanent until discharged
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You call some nonliving item from virtually any location directly to your hand.
