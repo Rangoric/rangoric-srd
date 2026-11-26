@@ -8,6 +8,7 @@ Every departure from the source rules, newest first. One line each, with links t
 
 | Date | Change | Rangoric note | Source | Why |
 | --- | --- | --- | --- | --- |
+| 2026-11-26 | Saving throws as defenses, monsters (DF 56): Gashadokuro to Grootslang show defense numbers, and their abilities attack a defense instead of allowing a save. | [[DF Batch 56 Changes]] | | [[Saving Throws as Defenses]] DF 56 |
 | 2026-11-26 | Saving throws as defenses, monsters (DF 55): Destrachan to Garuda show defense numbers, and their abilities attack a defense instead of allowing a save; five breath weapon lines from DF 53 and 54 fixed. | [[DF Batch 55 Changes]] | | [[Saving Throws as Defenses]] DF 55 |
 | 2026-11-26 | Saving throws as defenses, monsters (DF 54): Baykok to Derro show defense numbers, and their abilities attack a defense instead of allowing a save. | [[DF Batch 54 Changes]] | | [[Saving Throws as Defenses]] DF 54 |
 | 2026-11-26 | Saving throws as defenses, spells and monsters (DF 53): Web to Zone of Truth and Abaia to Basilisk attack a defense instead of allowing a save; monster stat blocks show defense numbers. | [[DF Batch 53 Changes]] | | [[Saving Throws as Defenses]] DF 53 |
