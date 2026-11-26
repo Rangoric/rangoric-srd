@@ -16,7 +16,7 @@ full-attack: "Pain touch +25 melee touch (7d6)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Malevolence, spell-like abilities"
 special-qualities: "Darkvision 60 ft., incorporeal, channel resistance +4, damage reduction 10/good, undead traits, spell resistance 26"
-saves: "Fort +13, Ref +17, Will +17"
+defenses: "Fort 23, Ref 27, Will 27"
 abilities: "Str —, Dex 32, Con —, Int 15, Wis 18, Cha 25"
 skills: "Acrobatics +19, Deception +25, Intimidation +28, Perception +31, Persuasion +25, Sense Motive +25, Stealth +32"
 skill-ranks: "Acrobatics 5, Deception 15, Intimidation 18, Perception 22, Persuasion 15, Sense Motive 22, Stealth 18"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Malevolence|Malevolence]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]], [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 26
-- **Saves**: Fort +13, Ref +17, Will +17
+- **Defenses**: Fort 23, Ref 27, Will 27
 - **Abilities**: Str —, Dex 32, Con —, Int 15, Wis 18, Cha 25
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +19, [[rangoric-srd/skills/Deception|Deception]] +25, [[rangoric-srd/skills/Intimidation|Intimidation]] +28, [[rangoric-srd/skills/Perception|Perception]] +31, [[rangoric-srd/skills/Persuasion|Persuasion]] +25, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +25, [[rangoric-srd/skills/Stealth|Stealth]] +32
 - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (pain touch), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -68,9 +68,9 @@ Dybbuks speak Abyssal, Celestial and Common.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 18th; concentration +25): At will—_[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ (DC 19), _[[rangoric-srd/spells/Telekinesis|telekinesis]]_ (DC 22); 3/day—_[[rangoric-srd/spells/Dominate Monster|dominate monster]]_ (DC 26), _[[rangoric-srd/spells/Feeblemind|feeblemind]]_ (DC 22), _[[rangoric-srd/spells/Inflict Serious Wounds|inflict serious wounds]]_ (DC 20); 1/day—_[[rangoric-srd/spells/Heroism, Greater|greater heroism]]_, _[[rangoric-srd/spells/Modify Memory|modify memory]]_ (DC 21), _[[rangoric-srd/spells/Tongues|tongues]]_.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 18th; concentration +25): At will—_[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ (+9 vs Will), _[[rangoric-srd/spells/Telekinesis|telekinesis]]_ (+12 vs Will); 3/day—_[[rangoric-srd/spells/Dominate Monster|dominate monster]]_ (+16 vs Will), _[[rangoric-srd/spells/Feeblemind|feeblemind]]_ (+12 vs Will), _[[rangoric-srd/spells/Inflict Serious Wounds|inflict serious wounds]]_ (+10 vs Will); 1/day—_[[rangoric-srd/spells/Heroism, Greater|greater heroism]]_, _[[rangoric-srd/spells/Modify Memory|modify memory]]_ (+11 vs Will), _[[rangoric-srd/spells/Tongues|tongues]]_.
 
-**[[rangoric-srd/monsters/abilities/Malevolence|Malevolence]] (Su)**: Once per round, a dybbuk can merge itself with a creature on the Material Plane. This ability is similar to a magic jar spell (caster level 18th), except that it does not require a receptacle. To use this ability, the dybbuk must be adjacent to the target. The target can resist the attack with a successful DC 26 Will save. A creature that successfully saves is immune to that same dybbuk's malevolence for 24 hours. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Malevolence|Malevolence]] (Su)**: Once per round, a dybbuk can merge itself with a creature on the Material Plane. This ability is similar to a magic jar spell (caster level 18th), except that it does not require a receptacle. To use this ability, the dybbuk must be adjacent to the target. The malevolence attacks the target at +16 vs Will, and a miss resists it. A creature it misses is immune to that same dybbuk's malevolence for 24 hours. The attack bonus is Charisma-based.
 
 **Pain Touch (Su)**: With a successful touch attack, a dybbuk causes painful spasms throughout the target's body, dealing 7d6 points of damage. Creatures that are immune to pain take no damage from this touch.
 

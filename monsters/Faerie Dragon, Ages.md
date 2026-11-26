@@ -15,7 +15,7 @@ full-attack: "2 claws (1d3) and bite (1d4); attack bonus by age"
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "Breath weapon, spells"
 special-qualities: "Natural invisibility, telepathy, spell resistance (see table)"
-saves: "Varies by age (see table)"
+defenses: "Varies by age (see table)"
 abilities: "Varies by age (see table)"
 skills: "Deception +7, Escape Artist +8, Fieldcraft +3, Investigation +3, Perception +5, Sense Motive +5, Stealth +12"
 feats: "Skill Focus (Perception), Dodge, Improved Initiative"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft.
 - **Special Attacks**: Breath weapon, spells
 - **Special Qualities**: Natural invisibility, telepathy, spell resistance (see table)
-- **Saves**: Varies by age (see table)
+- **Defenses**: Varies by age (see table)
 - **Abilities**: Varies by age (see table)
 - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +3, [[rangoric-srd/skills/Investigation|Investigation]] +3, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +12
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
@@ -78,20 +78,20 @@ Faerie dragons avoid combat when they can, and refrain from inflicting damage un
 
 **Table: Faerie Dragons by Age** ^table-faerie-dragons-by-age
 
-| Age          | Hit Dice (hp) | Color         | AC          | Attack Bonus | Fort. Save | Ref. Save | Will Save | Breath Weapon (DC) | SR  |
-| ------------ | ------------- | ------------- | ----------- | ------------ | ---------- | --------- | --------- | ------------------ | --- |
-| Wyrmling     | 1d6/2 (2)     | Red           | 20 (+2 Dex) | -            | +4         | +3        | +4        | 13                 | 13  |
-| Very Young   | 1d6 (4)       | Red-orange    | 20 (+2 Dex) | +1           | +4         | +3        | +4        | 14                 | 14  |
-| Young        | 2d6 (6)       | Orange        | 20 (+2 Dex) | +2           | +5         | +4        | +5        | 15                 | 15  |
-| Juvenile     | 2d6+2 (8)     | Orange-yellow | 20 (+2 Dex) | +3           | +5         | +4        | +5        | 16                 | 16  |
-| Young Adult  | 3d6+1 (10)    | Yellow        | 21 (+3 Dex) | +4           | +6         | +5        | +6        | 17                 | 17  |
-| Adult        | 3d6+2 (12)    | Yellow-green  | 21 (+3 Dex) | +5           | +6         | +5        | +6        | 18                 | 18  |
-| Mature Adult | 4d6+2 (14)    | Green         | 21 (+3 Dex) | +6           | +7         | +6        | +7        | 19                 | 19  |
-| Old          | 5d6+1 (16)    | Blue-green    | 21 (+3 Dex) | +7           | +7         | +6        | +7        | 20                 | 20  |
-| Very Old     | 6d6 (18)      | Blue          | 21 (+3 Dex) | +8           | +7         | +7        | +8        | 21                 | 22  |
-| Ancient      | 6d6+2 (20)    | Blue-violet   | 22 (+4 Dex) | +9           | +8         | +7        | +8        | 22                 | 24  |
-| Wyrm         | 7d6+1 (22)    | Violet        | 22 (+4 Dex) | +10          | +8         | +8        | +9        | 23                 | 26  |
-| Great Wyrm   | 8d6 (24)      | Black         | 22 (+4 Dex) | +11          | +8         | +8        | +9        | 24                 | 28  |
+| Age          | Hit Dice (hp) | Color         | AC          | Attack Bonus | Fort Defense | Ref Defense | Will Defense | Breath Weapon Attack | SR  |
+| ------------ | ------------- | ------------- | ----------- | ------------ | ------------ | ----------- | ------------ | -------------------- | --- |
+| Wyrmling     | 1d6/2 (2)     | Red           | 20 (+2 Dex) | -            | 14           | 13          | 14           | +3                   | 13  |
+| Very Young   | 1d6 (4)       | Red-orange    | 20 (+2 Dex) | +1           | 14           | 13          | 14           | +4                   | 14  |
+| Young        | 2d6 (6)       | Orange        | 20 (+2 Dex) | +2           | 15           | 14          | 15           | +5                   | 15  |
+| Juvenile     | 2d6+2 (8)     | Orange-yellow | 20 (+2 Dex) | +3           | 15           | 14          | 15           | +6                   | 16  |
+| Young Adult  | 3d6+1 (10)    | Yellow        | 21 (+3 Dex) | +4           | 16           | 15          | 16           | +7                   | 17  |
+| Adult        | 3d6+2 (12)    | Yellow-green  | 21 (+3 Dex) | +5           | 16           | 15          | 16           | +8                   | 18  |
+| Mature Adult | 4d6+2 (14)    | Green         | 21 (+3 Dex) | +6           | 17           | 16          | 17           | +9                   | 19  |
+| Old          | 5d6+1 (16)    | Blue-green    | 21 (+3 Dex) | +7           | 17           | 16          | 17           | +10                  | 20  |
+| Very Old     | 6d6 (18)      | Blue          | 21 (+3 Dex) | +8           | 17           | 17          | 18           | +11                  | 22  |
+| Ancient      | 6d6+2 (20)    | Blue-violet   | 22 (+4 Dex) | +9           | 18           | 17          | 18           | +12                  | 24  |
+| Wyrm         | 7d6+1 (22)    | Violet        | 22 (+4 Dex) | +10          | 18           | 18          | 19           | +13                  | 26  |
+| Great Wyrm   | 8d6 (24)      | Black         | 22 (+4 Dex) | +11          | 18           | 18          | 19           | +14                  | 28  |
 
 ### Faerie Dragon Abilities by Age
 
@@ -112,7 +112,7 @@ Faerie dragons avoid combat when they can, and refrain from inflicting damage un
 | Wyrm         | 14  | 19  | 13  | 15  | 17  | 15  | 14     | 13     |
 | Great Wyrm   | 14  | 19  | 13  | 15  | 17  | 15  | 16     | 14     |
 
-**Breath Weapon (Su)**: A faerie dragon has one type of breath weapon—a cloud of euphoric gas. Anyone caught in the cloud of gas must succeed at a Fortitude saving throw or be struck with a euphoria that causes them to wander around blissfully for 3d4 minutes. During that time, the victim is unable to attack, cast spells, or defend themselves (treat as [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]]). While in the state of euphoria, the victim can make an Intelligence check each round versus the DC of the breath weapon to keep his mind on the situation. If a check fails, the victim is unaware of events that may occur during the remaining duration of the breath weapon’s effect.
+**Breath Weapon (Su)**: A faerie dragon has one type of breath weapon—a cloud of euphoric gas. The gas attacks the Fortitude of anyone caught in the cloud, and those it hits are struck with a euphoria that causes them to wander around blissfully for 3d4 minutes. During that time, the victim is unable to attack, cast spells, or defend themselves (treat as [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]]). While in the state of euphoria, the victim can make an Intelligence check each round against a DC of 10 + the breath weapon's attack bonus to keep his mind on the situation. If a check fails, the victim is unaware of events that may occur during the remaining duration of the breath weapon’s effect.
 
 **Natural Invisibility (Su)**: Faerie dragons are equally comfortable being visible or invisible. A faerie dragon can attack and use its special abilities while invisible and not be revealed. Faerie dragons can become [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] at will as a free action.
 

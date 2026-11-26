@@ -16,7 +16,7 @@ full-attack: "Bite +19 melee (1d6+3 plus 2d6 electricity) and 2 slams +19 melee 
 space-reach: "5 ft./5 ft. (10 ft. with slam)"
 special-attacks: "—"
 special-qualities: "Blindsense 60 ft., darkvision 60 ft., low-light vision, swarmlike, amphibious, compression, varied attack, damage reduction 10/slashing, immunity to electricity"
-saves: "Fort +12, Ref +13, Will +6"
+defenses: "Fort 22, Ref 23, Will 16"
 abilities: "Str 17, Dex 19, Con 16, Int 7, Wis 12, Cha 8"
 skills: "Athletics +15, Perception +10, Stealth +15"
 skill-ranks: "Athletics 9, Perception 6, Stealth 8"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft. (10 ft. with slam)
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 60 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Swarmlike|swarmlike]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Varied Attack|varied attack]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/slashing, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity
-- **Saves**: Fort +12, Ref +13, Will +6
+- **Defenses**: Fort 22, Ref 23, Will 16
 - **Abilities**: Str 17, Dex 19, Con 16, Int 7, Wis 12, Cha 8
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +15
 - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]

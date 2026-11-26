@@ -15,7 +15,7 @@ full-attack: "Slam +3 melee (1d4+1)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Blindsight 120 ft., low-light vision, hold breath"
-saves: "Fort +4, Ref +5, Will +1"
+defenses: "Fort 14, Ref 15, Will 11"
 abilities: "Str 12, Dex 15, Con 13, Int 2, Wis 13, Cha 6"
 skills: "Athletics +13, Perception +9"
 skill-ranks: "Athletics 9, Perception 1"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]]
-- **Saves**: Fort +4, Ref +5, Will +1
+- **Defenses**: Fort 14, Ref 15, Will 11
 - **Abilities**: Str 12, Dex 15, Con 13, Int 2, Wis 13, Cha 6
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Perception|Perception]] +9
 - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]

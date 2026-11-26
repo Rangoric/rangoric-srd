@@ -16,7 +16,7 @@ full-attack: "Bite +3 melee (1d6+3 plus grab)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision"
-saves: "Fort +5, Ref +5, Will +1"
+defenses: "Fort 15, Ref 15, Will 11"
 abilities: "Str 14, Dex 14, Con 15, Int 1, Wis 13, Cha 2"
 skills: "Athletics +10, Perception +6"
 skill-ranks: "Athletics 5, Perception 2"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]]
-- **Saves**: Fort +5, Ref +5, Will +1
+- **Defenses**: Fort 15, Ref 15, Will 11
 - **Abilities**: Str 14, Dex 14, Con 15, Int 1, Wis 13, Cha 2
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Perception|Perception]] +6
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]

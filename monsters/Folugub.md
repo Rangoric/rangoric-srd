@@ -15,7 +15,7 @@ full-attack: "Tongue +6 melee touch (liquefy crystal) and bite +1 melee (2d4)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Liquefy crystal"
 special-qualities: "Darkvision 60 ft., scent"
-saves: "Fort +4, Ref +4, Will +5"
+defenses: "Fort 14, Ref 14, Will 15"
 abilities: "Str 10, Dex 17, Con 17, Int 2, Wis 13, Cha 11"
 skills: "Perception +10, Stealth +7"
 skill-ranks: "Perception 3, Stealth 1"
@@ -48,7 +48,7 @@ Full **Attack:** Tongue +6 melee touch (liquefy crystal) and bite +1 melee (2d4)
 **Space/Reach:** 5 ft./5 ft.     
 **Special Attacks:** Liquefy crystal     
 **Special Qualities:** Darkvision 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]]     
-**Saves:** Fort +4, Ref +4, Will +5     
+**Defenses:** Fort 14, Ref 14, Will 15     
 **Abilities:** Str 10, Dex 17, Con 17, Int 2, Wis 13, Cha 11     
 **Skills:** [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +7     
 **Feats:** [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]     
@@ -64,6 +64,6 @@ Treasure: None   
 
 A folugub can scent a crystal object up to 90 feet away, and once it has the scent, little deters it from its goal. It usually ceases attacking to devour a freshly liquefied crystal. The creature targets the largest crystal object available.
 
-Liquefy Crystal (Ex): A folugub that makes a successful touch attack with its tongue causes the target crystal to change phase, turning immediately from solid to liquid and becoming worthless. The touch can destroy up to a 5-foot cube of crystal instantly. Magic or psionic items made of crystal (including crystalline armor and weapons) must succeed on a DC 19 Reflex save or be liquefied. The save DC is Constitution-based and includes a +4 racial modifier.
+Liquefy Crystal (Ex): A folugub that makes a successful touch attack with its tongue causes the target crystal to change phase, turning immediately from solid to liquid and becoming worthless. The touch can destroy up to a 5-foot cube of crystal instantly. Magic or psionic items made of crystal (including crystalline armor and weapons) are attacked at +9 vs Reflex, and on a hit are liquefied. The attack bonus is Constitution-based and includes a +4 racial modifier.
 
 A crystalline weapon that deals damage to a folugub becomes liquefied immediately.

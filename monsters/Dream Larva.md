@@ -19,7 +19,7 @@ full-attack: "Bite +56 (4d8+16) melee, 1 gore +51 (4d6+8) melee, 4 pincers +53 (
 space-reach: "10 ft./10 ft."
 special-attacks: "Worst nightmare, improved grab, sending, spell-like abilities, summon nightwalker"
 special-qualities: "Abomination traits, sonic immunity, regeneration 15, fast healing 15, SR 44, DR 15/ Good and Epic or Lawful and Epic"
-saves: "Fort +31, Ref +25, Will +29"
+defenses: "Fort 41, Ref 35, Will 39"
 abilities: "Str 42, Dex 17, Con 29, Int 16, Wis 24, Cha 36"
 skills: "Athletics +59 (+79 jumping), Craft (dreamweaving) +46, Escape Artist +46, Arcana +46, Perception +50, Persuasion +58, Investigation +46, Sense Motive +50, Stealth +46"
 skill-ranks: "Arcana 40, Athletics 40, Craft (dreamweaving) 40, Escape Artist 40, Investigation 40, Perception 40, Persuasion 40, Sense Motive 40, Stealth 40"
@@ -53,7 +53,7 @@ Full Attack: Bite +56 (4d8+16) melee, 1 gore +51 (4d6+8) melee, 4 pincers +53 (4
 Space/Reach: 10 ft./10 ft.      
 Special Attacks: Worst nightmare, [[rangoric-srd/monsters/abilities/Grab|improved grab]], sending, spell-like abilities, summon [[rangoric-srd/monsters/nightshade/Nightwalker|nightwalker]]     
 Special Qualities: Abomination traits, sonic immunity, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 15, [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 15, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 44, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 15/ Good and Epic or Lawful and Epic      
-Saves: Fort +31, Ref +25, Will +29      
+Defenses: Fort 41, Ref 35, Will 39      
 Abilities: Str 42, Dex 17, Con 29, Int 16, Wis 24, Cha 36      
 Skills: [[rangoric-srd/skills/Arcana|Arcana]] +46, [[rangoric-srd/skills/Athletics|Athletics]] +59 (+79 jumping), [[rangoric-srd/skills/Craft|Craft]] (dreamweaving) +46, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +46, [[rangoric-srd/skills/Investigation|Investigation]] +46, [[rangoric-srd/skills/Perception|Perception]] +50, [[rangoric-srd/skills/Persuasion|Persuasion]] +58, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +50, [[rangoric-srd/skills/Stealth|Stealth]] +46     
 **Unspent Skill Points**: 80
@@ -70,9 +70,9 @@ A dream larvas’s natural weapons are treated as epic, evil, and chaotic-aligne
 
 #### Combat
 
-Worst Nightmare (Su): Each time a living creature first views a specific dream larva from a distance of 30 feet or less (or from a scrying effect), the subject sees the image of the most fearsome creature imaginable. This is not an illusion or phantasm; the dream larva truly becomes, for just that instant, the subject’s worst nightmare. Even if simultaneously viewed by dozens of different creatures, the dream larva appears differently to each one of them. Creatures immune to fear or mind-affecting effects (or warded by [[rangoric-srd/spells/Protection from Evil|protection from evil]] or [[rangoric-srd/spells/Death Ward|death ward]] spells) are immune to worst nightmare; all others must make a Will save (DC 43) or die from the supernatural horror revealed. Survivors (and those resurrected) are immune to the effect from that individual dream larva in the future. The DC is Charisma-based.
+Worst Nightmare (Su): Each time a living creature first views a specific dream larva from a distance of 30 feet or less (or from a scrying effect), the subject sees the image of the most fearsome creature imaginable. This is not an illusion or phantasm; the dream larva truly becomes, for just that instant, the subject’s worst nightmare. Even if simultaneously viewed by dozens of different creatures, the dream larva appears differently to each one of them. Creatures immune to fear or mind-affecting effects (or warded by [[rangoric-srd/spells/Protection from Evil|protection from evil]] or [[rangoric-srd/spells/Death Ward|death ward]] spells) are immune to worst nightmare; it attacks all others at +33 vs Will, and those it hits die from the supernatural horror revealed. Survivors (and those resurrected) are immune to the effect from that individual dream larva in the future. The attack bonus is Charisma-based.
 
-Spell-Like Abilities: Caster level 31st; save DC 23 + spell level. The DC is Charisma-based.
+Spell-Like Abilities: Caster level 31st; attack bonus +13 + spell level. The attack bonus is Charisma-based.
 
 At will - [[rangoric-srd/spells/Fly|fly]], [[rangoric-srd/spells/Haste|haste]], [[rangoric-srd/spells/Nightmare (Spell)|nightmare]], [[rangoric-srd/spells/Prismatic Spray|prismatic spray]];
 
@@ -80,7 +80,7 @@ At will - [[rangoric-srd/spells/Fly|fly]], [[rangoric-srd/spells/Haste|haste]], 
 
 Improved Grab (Ex): If the dream larva hits with a claw or pincer, it deals normal damage and attempts to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity. Dream larvae can use improved grab on a creature of any size. The dream larva has the option to conduct the grapple normally, simply use the claw or pincer to hold the opponent, or use sending (see below) on the opponent. Each successful grapple check it makes during successive rounds automatically deals the damage listed for the attack that established the hold, unless it used sending on the victim.
 
-Sending (Su): Grappled victims may be physically sent into a nightmare, at the dream larva’s option, on the dream larva’s next action after establishing the grapple. Victims must make a Will save (DC 43) or be apparently swarmed by thousands of worms making up the dream larva’s body. The victim is actually cast into a shrieking maelstrom of dream where it can take no actions but observe. The victim physically returns 2d4 rounds later, apparently ejected from the dream larva’s body (but appearing even if if the dream larva has left or is otherwise absent). The victim of the nightmare has taken 4d6 points of temporary Wisdom [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]], but is otherwise free to act on the round it returns. If the victim takes more Wisdom damage than it has points of Wisdom, the extra points are instead treated as temporary Constitution damage. The DC is Charisma-based.
+Sending (Su): Grappled victims may be physically sent into a nightmare, at the dream larva’s option, on the dream larva’s next action after establishing the grapple. Victims are attacked at +33 vs Will, and on a hit are apparently swarmed by thousands of worms making up the dream larva’s body. The victim is actually cast into a shrieking maelstrom of dream where it can take no actions but observe. The victim physically returns 2d4 rounds later, apparently ejected from the dream larva’s body (but appearing even if if the dream larva has left or is otherwise absent). The victim of the nightmare has taken 4d6 points of temporary Wisdom [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]], but is otherwise free to act on the round it returns. If the victim takes more Wisdom damage than it has points of Wisdom, the extra points are instead treated as temporary Constitution damage. The attack bonus is Charisma-based.
 
 Summon Nightwalker (Sp): Five times per day, a dream larva can summon a [[rangoric-srd/monsters/nightshade/Nightwalker|nightwalker]].
 

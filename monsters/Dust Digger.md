@@ -15,7 +15,7 @@ full-attack: "Bite +5 melee (1d8+3 plus grab) and 5 tentacles +3 melee (1d4+1 pl
 space-reach: "10 ft./10 ft."
 special-attacks: "Sinkhole, swallow whole (2d8+4 bludgeoning, AC 13, 4 hp)"
 special-qualities: "Darkvision 60 ft., tremorsense 60 ft."
-saves: "Fort +5, Ref +1, Will +4"
+defenses: "Fort 15, Ref 11, Will 14"
 abilities: "Str 17, Dex 11, Con 18, Int 2, Wis 11, Cha 10"
 skills: "Perception +5, Stealth +5 (+13 in ambush)"
 skill-ranks: "Perception 2, Stealth 6"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Sinkhole|Sinkhole]], [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (2d8+4 bludgeoning, AC 13, 4 hp)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft.
-- **Saves**: Fort +5, Ref +1, Will +4
+- **Defenses**: Fort 15, Ref 11, Will 14
 - **Abilities**: Str 17, Dex 11, Con 18, Int 2, Wis 11, Cha 10
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +5 (+13 in ambush)
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
@@ -69,4 +69,4 @@ Dust diggers are asexual. They reproduce by budding, splitting off young three t
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Sinkhole|Sinkhole]] (Ex)**: A dust digger can burrow into sand, loose soil, or dirt to lie in ambush just under the surface. When it feels (via tremorsense) prey walk into a square it threatens, it can deflate its body as an immediate action, causing the sand and other loose soil above to shift and slide. All creatures who were standing in the dust digger's reach must make a DC 15 Reflex save or become [[rangoric-srd/rules/Special Abilities and Conditions#^entangled|entangled]] as long as they remain in the dust digger's reach. All creatures who were standing at least partially in the dust digger's actual space must make a DC 15 Reflex save or become entangled and fall [[rangoric-srd/rules/Special Abilities and Conditions#^prone|prone]]—if such a creature makes this save, it immediately moves to the closest adjacent unoccupied square. If this results in more than a 5-foot move, the creature moves that distance and then falls prone. The save DC is Strength-based.
+**[[rangoric-srd/monsters/abilities/Sinkhole|Sinkhole]] (Ex)**: A dust digger can burrow into sand, loose soil, or dirt to lie in ambush just under the surface. When it feels (via tremorsense) prey walk into a square it threatens, it can deflate its body as an immediate action, causing the sand and other loose soil above to shift and slide. All creatures who were standing in the dust digger's reach are attacked at +5 vs Reflex, and on a hit become [[rangoric-srd/rules/Special Abilities and Conditions#^entangled|entangled]] as long as they remain in the dust digger's reach. All creatures who were standing at least partially in the dust digger's actual space are attacked at +5 vs Reflex, and on a hit become entangled and fall [[rangoric-srd/rules/Special Abilities and Conditions#^prone|prone]]—if this attack misses such a creature, it immediately moves to the closest adjacent unoccupied square. If this results in more than a 5-foot move, the creature moves that distance and then falls prone. The attack bonus is Strength-based.

@@ -21,7 +21,7 @@ Epic dragons, already Colossal+ by the time they reach the great wyrm stage, do 
 
 Armor Class: A dragon’s natural armor bonus increases by +1 for every Hit Die it gains beyond the great wyrm stage. (This rule applies for lesser dragon advancement as well, since natural armor and Hit Dice always increase at the same rate.)
 
-Breath Weapon: If a dragon’s breath weapon deals damage, the damage typically increases by 2 dice for every virtual age category the dragon gains. The two exceptions among standard dragons are the brass and white dragons, whose breath weapon damage increases by only 1 die per age category. The saving throw DC against a dragon’s breath weapon remains 10 + 1/2 the dragon’s Hit Dice + its Constitution modifier.
+Breath Weapon: If a dragon’s breath weapon deals damage, the damage typically increases by 2 dice for every virtual age category the dragon gains. The two exceptions among standard dragons are the brass and white dragons, whose breath weapon damage increases by only 1 die per age category. The attack bonus against a dragon’s breath weapon remains 10 + 1/2 the dragon’s Hit Dice + its Constitution modifier.
 
 Spell Resistance: For standard advanced dragons, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] increases by 2 per additional age category. For epic dragons, spell resistance increases by 3 (for force dragons) or 6 (for prismatic dragons) per additional age category.
 

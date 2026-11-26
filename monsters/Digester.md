@@ -15,7 +15,7 @@ full-attack: "Claw +11 melee (1d8+4)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Acid spray"
 special-qualities: "Darkvision 60 ft., immunity to acid, low-light vision, scent"
-saves: "Fort +9, Ref +10, Will +3"
+defenses: "Fort 19, Ref 20, Will 13"
 abilities: "Str 17, Dex 15, Con 17, Int 2, Wis 12, Cha 10"
 skills: "Athletics +12 (+24 jumping), Perception +10, Stealth +12"
 skill-ranks: "Athletics 2, Perception 3, Stealth 3"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Acid spray
 - **Special Qualities**: Darkvision 60 ft., immunity to acid, low-light vision, [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +9, Ref +10, Will +3
+- **Defenses**: Fort 19, Ref 20, Will 13
 - **Abilities**: Str 17, Dex 15, Con 17, Int 2, Wis 12, Cha 10
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12 (+24 jumping), [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +12
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -66,6 +66,6 @@ A digester stands about 5 feet tall and is 7 feet long from snout to tail. It we
 
 A digester is a hunting and eating machine. When it is not hungry (which is rarely), it lies low and avoids most other creatures. When hunting, it looks about for a likely target, then charges forth and delivers a gout of acid. If the initial attack is insufficient to kill the prey, the digester attacks with its hind feet until it can spray acid again.
 
-**Acid Spray (Ex)**: A digester can spray acid in a 20-foot cone, dealing 4d8 points of damage to everything in the area. Once a digester uses this ability, it can’t use it again until 1d4 rounds later. The creature can also produce a concentrated stream of acid that deals 8d8 points of damage to a single target within 5 feet. In either case, a DC 17 Reflex save halves the damage. The save DC is Constitution-based.
+**Acid Spray (Ex)**: A digester can spray acid in a 20-foot cone, dealing 4d8 points of damage to everything in the area. Once a digester uses this ability, it can’t use it again until 1d4 rounds later. The creature can also produce a concentrated stream of acid that deals 8d8 points of damage to a single target within 5 feet. In either case, the acid attacks at +7 vs Reflex, and a miss halves the damage. The attack bonus is Constitution-based.
 
 **Skills**: A digester’s coloration gives it a +4 racial bonus on Stealth checks. It also has a +4 racial bonus on Athletics checks.

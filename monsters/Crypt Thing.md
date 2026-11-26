@@ -14,7 +14,7 @@ attack: "Claw +10 melee (1d8+4)"
 full-attack: "2 claws +10 melee (1d8+4)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Teleporting burst, spell-like abilities"
-special-qualities: "Darkvision 60 ft., low-light vision, fear (10 ft., frightened for 1d4 rounds, −9 vs Will6 negates), channel resistance +2, damage reduction 10/bludgeoning or magic, undead traits"
+special-qualities: "Darkvision 60 ft., low-light vision, fear (10 ft., frightened for 1d4 rounds, +6 vs Will), channel resistance +2, damage reduction 10/bludgeoning or magic, undead traits"
 defenses: "Fort 14, Ref 16, Will 18"
 abilities: "Str 19, Dex 14, Con —, Int 13, Wis 14, Cha 15"
 skills: "Arcana +6, Deception +6, Dungeoneering +5, Intimidation +13, Perception +16, Sense Motive +13, Society +3, Stealth +9"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Full Attack**: 2 claws +10 melee (1d8+4)
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Teleporting Burst|Teleporting burst]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Fear|fear]] (10 ft., frightened for 1d4 rounds, −9 vs Will6 negates), [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +2, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/bludgeoning or magic, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Fear|fear]] (10 ft., frightened for 1d4 rounds, +6 vs Will), [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +2, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/bludgeoning or magic, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
 - **Defenses**: Fort 14, Ref 16, Will 18
 - **Abilities**: Str 19, Dex 14, Con —, Int 13, Wis 14, Cha 15
 - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +6, [[rangoric-srd/skills/Deception|Deception]] +6, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Society|Society]] +3, [[rangoric-srd/skills/Stealth|Stealth]] +9

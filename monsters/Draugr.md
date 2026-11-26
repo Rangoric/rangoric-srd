@@ -16,7 +16,7 @@ full-attack: "Greataxe +5 (1d12+4/×3 plus nausea) or"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., damage reduction 5/bludgeoning or slashing, undead traits, resistance to fire 10"
-saves: "Fort +2, Ref +1, Will +3"
+defenses: "Fort 12, Ref 11, Will 13"
 abilities: "Str 17, Dex 10, Con —, Int 8, Wis 10, Cha 13"
 skills: "Athletics +11, Perception +6, Stealth +6"
 skill-ranks: "Athletics 5, Perception 3, Stealth 3"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/bludgeoning or slashing, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10
-- **Saves**: Fort +2, Ref +1, Will +3
+- **Defenses**: Fort 12, Ref 11, Will 13
 - **Abilities**: Str 17, Dex 10, Con —, Int 8, Wis 10, Cha 13
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +6
 - **Feats**: [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]]
@@ -74,4 +74,4 @@ Draugrs understand Common but can't speak.
 
 ### Combat
 
-**Nausea (Su)**: A creature that is damaged by a draugr must make a DC 12 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1 round. The save DC is Charisma-based.
+**Nausea (Su)**: A creature that is damaged by a draugr is attacked at +2 vs Fortitude, and on a hit is [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1 round. The attack bonus is Charisma-based.

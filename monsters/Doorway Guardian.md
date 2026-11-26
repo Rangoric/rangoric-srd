@@ -15,7 +15,7 @@ full-attack: "Incorporeal touch +12 melee (2d8)"
 space-reach: "20 ft./15 ft."
 special-attacks: "Summon lesser jabberwock"
 special-qualities: "Bad luck of the fey, incorporeal traits, telepathy 150 ft., guardian qualities"
-saves: "Fort +7, Ref +11, Will +16"
+defenses: "Fort 17, Ref 21, Will 26"
 abilities: "Str —, Dex 18, Con 17, Int 19, Wis 24, Cha 20"
 skills: "Deception +13, Escape Artist +12, Fieldcraft +19, Intimidation +15, Linguistics +10, Nature +13, Perception +22, Persuasion +14, Sense Motive +22, Stealth +2"
 skill-ranks: "Deception 5, Escape Artist 5, Fieldcraft 6, Intimidation 7, Linguistics 3, Nature 6, Perception 9, Persuasion 6, Sense Motive 9, Stealth 7"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 20 ft./15 ft.
 - **Special Attacks**: Summon lesser jabberwock
 - **Special Qualities**: Bad luck of the fey, incorporeal traits, telepathy 150 ft., guardian qualities
-- **Saves**: Fort +7, Ref +11, Will +16
+- **Defenses**: Fort 17, Ref 21, Will 26
 - **Abilities**: Str —, Dex 18, Con 17, Int 19, Wis 24, Cha 20
 - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +13, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +12, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +19, [[rangoric-srd/skills/Intimidation|Intimidation]] +15, [[rangoric-srd/skills/Linguistics|Linguistics]] +10, [[rangoric-srd/skills/Nature|Nature]] +13, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Persuasion|Persuasion]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +22, [[rangoric-srd/skills/Stealth|Stealth]] +2
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Sense Motive), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Fieldcraft)

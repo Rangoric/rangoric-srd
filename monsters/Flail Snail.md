@@ -15,7 +15,7 @@ full-attack: "4 slams +7 melee (1d4+3)"
 space-reach: "10 ft./10 ft."
 special-attacks: "—"
 special-qualities: "Blindsense 30 ft., darkvision 60 ft., low-light vision, scent, tremorsense 60 ft., retraction, warp magic, mucus, slime rope, suction, immunity to poison, resistance to fire 10"
-saves: "Fort +6, Ref +3, Will +2"
+defenses: "Fort 16, Ref 13, Will 12"
 abilities: "Str 16, Dex 8, Con 14, Int 5, Wis 12, Cha 8"
 skills: "Athletics +15, Perception +5, Stealth +0"
 skill-ranks: "Athletics 9, Perception 1, Stealth 2"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Retraction|retraction]], [[rangoric-srd/monsters/abilities/Warp Magic|warp magic]], [[rangoric-srd/monsters/abilities/Mucus|mucus]], [[rangoric-srd/monsters/abilities/Slime Rope|slime rope]], [[rangoric-srd/monsters/abilities/Suction|suction]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10
-- **Saves**: Fort +6, Ref +3, Will +2
+- **Defenses**: Fort 16, Ref 13, Will 12
 - **Abilities**: Str 16, Dex 8, Con 14, Int 5, Wis 12, Cha 8
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +0
 - **Feats**: [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam)
@@ -67,7 +67,7 @@ Flail snails speak Flail Snail (sign language, slime writing, cannot speak).
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Mucus|Mucus]] (Ex)**: As a free action, a flail snail can excrete a trail of mucus that covers its space and lasts for 10 minutes. This mucus comes in two types: slimy and sticky. A character who attempts to move through an area covered in slippery mucus must make a DC 14 Reflex save each round or fall [[rangoric-srd/rules/Special Abilities and Conditions#^prone|prone]]. Sticky mucus transforms squares into difficult terrain. Only one type of mucus can be in effect at a time in any one square. Flail snails can move through either type of slime with ease. A square of mucus exposed to a fire source dries and reverts to normal. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Mucus|Mucus]] (Ex)**: As a free action, a flail snail can excrete a trail of mucus that covers its space and lasts for 10 minutes. This mucus comes in two types: slimy and sticky. A character who attempts to move through an area covered in slippery mucus is attacked at +4 vs Reflex each round, and on a hit falls [[rangoric-srd/rules/Special Abilities and Conditions#^prone|prone]]. Sticky mucus transforms squares into difficult terrain. Only one type of mucus can be in effect at a time in any one square. Flail snails can move through either type of slime with ease. A square of mucus exposed to a fire source dries and reverts to normal. The attack bonus is Constitution-based.
 
 **[[rangoric-srd/monsters/abilities/Retraction|Retraction]] (Ex)**: A flail snail can pull its fleshy parts into its shell as a swift action, increasing its natural armor bonus by +6, but it cannot move or attack while retracted. It can return to normal as a free action.
 

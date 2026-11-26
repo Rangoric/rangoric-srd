@@ -16,7 +16,7 @@ full-attack: "Rapier +4 melee (1d6+1/18–20)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, negative energy affinity, resist level drain, light sensitivity"
-saves: "Fort +2, Ref +3, Will –1"
+defenses: "Fort 12, Ref 13, Will 9"
 abilities: "Str 13, Dex 17, Con 10, Int 10, Wis 8, Cha 16"
 skills: "Animal Handling +5, Deception +5, Fieldcraft +3, Intimidation +7, Perception +1"
 skill-ranks: "Animal Handling 2, Deception 0, Fieldcraft 1, Intimidation 1, Perception 0"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Negative Energy Affinity|negative energy affinity]], [[rangoric-srd/monsters/abilities/Resist Level Drain|resist level drain]], [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
-- **Saves**: Fort +2, Ref +3, Will –1
+- **Defenses**: Fort 12, Ref 13, Will 9
 - **Abilities**: Str 13, Dex 17, Con 10, Int 10, Wis 8, Cha 16
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Deception|Deception]] +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +3, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Perception|Perception]] +1
 - **Feats**: [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -70,7 +70,7 @@ Dhampirs speak Common.
 
 **[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 1st): 3/day—_[[rangoric-srd/spells/Detect Undead|detect undead]]_.
 
-**[[rangoric-srd/monsters/abilities/Resist Level Drain|Resist Level Drain]] (Ex)**: A dhampir takes no penalties from energy draining effects, though he can still be killed if he accrues more negative levels then he has Hit Dice. After 24 hours, any negative levels a dhampir takes are removed without the need for an additional saving throw.
+**[[rangoric-srd/monsters/abilities/Resist Level Drain|Resist Level Drain]] (Ex)**: A dhampir takes no penalties from energy draining effects, though he can still be killed if he accrues more negative levels then he has Hit Dice. After 24 hours, any negative levels a dhampir takes are removed without the need for an additional attack against a defense.
 
 ### Dhampir as Characters
 

@@ -14,9 +14,9 @@ cmd: "24"
 attack: "Incorporeal touch +11 melee (1d4 Con damage plus slime)"
 full-attack: "Incorporeal touch +11 melee (1d4 Con damage plus slime)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Create spawn, slime, trample (1 Con plus slime, DC 16)"
-special-qualities: "Darkvision 60 ft., stench (DC 14, 10 rounds), channel resistance +2, incorporeal, ghost touch, undead traits"
-saves: "Fort +5, Ref +8, Will +7"
+special-attacks: "Create spawn, slime, trample (1 Con plus slime, +6 vs Reflex)"
+special-qualities: "Darkvision 60 ft., stench (+4 vs Fortitude, 10 rounds), channel resistance +2, incorporeal, ghost touch, undead traits"
+defenses: "Fort 15, Ref 18, Will 17"
 abilities: "Str —, Dex 20, Con —, Int 6, Wis 12, Cha 15"
 skills: "Acrobatics +9, Perception +13, Stealth +17"
 skill-ranks: "Acrobatics 1, Perception 9, Stealth 9"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Incorporeal touch +11 melee (1d4 Con damage plus [[rangoric-srd/monsters/abilities/Slime|slime]])
 - **Full Attack**: Incorporeal touch +11 melee (1d4 Con damage plus [[rangoric-srd/monsters/abilities/Slime|slime]])
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Create Spawn|Create spawn]], [[rangoric-srd/monsters/abilities/Slime|slime]], [[rangoric-srd/monsters/abilities/Trample|trample]] (1 Con plus slime, DC 16)
-- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Stench|stench]] (DC 14, 10 rounds), [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +2, [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]], [[rangoric-srd/monsters/abilities/Ghost Touch|ghost touch]], [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-- **Saves**: Fort +5, Ref +8, Will +7
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Create Spawn|Create spawn]], [[rangoric-srd/monsters/abilities/Slime|slime]], [[rangoric-srd/monsters/abilities/Trample|trample]] (1 Con plus slime, +6 vs Reflex)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Stench|stench]] (+4 vs Fortitude, 10 rounds), [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +2, [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]], [[rangoric-srd/monsters/abilities/Ghost Touch|ghost touch]], [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
+- **Defenses**: Fort 15, Ref 18, Will 17
 - **Abilities**: Str —, Dex 20, Con —, Int 6, Wis 12, Cha 15
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +17
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]]
@@ -72,6 +72,6 @@ A festering spirit can't travel more than a mile from its remains. When left alo
 
 **[[rangoric-srd/monsters/abilities/Ghost Touch|Ghost Touch]] (Su)**: A festering spirit can manipulate corporeal objects that weigh up to 25 pounds as if those objects had the ghost touch special ability.
 
-**[[rangoric-srd/monsters/abilities/Slime|Slime]] (Su)**: A festering spirit's slime resembles the putrefying sludge of decaying corpses. Any creature that is hit by the spirit's incorporeal touch attack, passes through its square, or hits it with a natural weapon or unarmed strike must attempt a DC 16 Fortitude save. On a failure, the creature is [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1d4 rounds, and on a success the creature is [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for 1 round. A festering spirit's slime persists on objects and creatures for 1d10 minutes but has no harmful effect after its initial contact. Creatures immune to poison or disease are immune to this ability. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Slime|Slime]] (Su)**: A festering spirit's slime resembles the putrefying sludge of decaying corpses. Any creature that is hit by the spirit's incorporeal touch attack, passes through its square, or hits it with a natural weapon or unarmed strike is attacked at +6 vs Fortitude. On a hit, the creature is [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1d4 rounds, and on a miss the creature is [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for 1 round. A festering spirit's slime persists on objects and creatures for 1d10 minutes but has no harmful effect after its initial contact. Creatures immune to poison or disease are immune to this ability. The attack bonus is Charisma-based.
 
-**[[rangoric-srd/monsters/abilities/Trample|Trample]] (Ex)**: The DC of a festering spirit's trample is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Trample|Trample]] (Ex)**: The attack bonus of a festering spirit's trample is Charisma-based.

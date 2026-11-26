@@ -15,7 +15,7 @@ full-attack: "Bite +4 melee (1d6+4 plus grab)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Swallow whole (1d4 bludgeoning damage, AC 11, 2 hp), spell-like abilities"
 special-qualities: "Low-light vision, scent, poison skin, vanish (3 rounds/day), damage reduction 5/cold iron, resistance to cold 10 and electricity 10"
-saves: "Fort +6, Ref +8, Will +0"
+defenses: "Fort 16, Ref 18, Will 10"
 abilities: "Str 17, Dex 17, Con 16, Int 3, Wis 8, Cha 8"
 skills: "Acrobatics +11, Athletics +11 (+15 jumping), Perception +7, Stealth +8"
 skill-ranks: "Acrobatics 1, Athletics 5, Perception 5, Stealth 2"
@@ -61,7 +61,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Swallow Whole|Swallow whole]] (1d4 bludgeoning damage, AC 11, 2 hp), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Poison Skin|poison skin]], [[rangoric-srd/monsters/Fey Creature#^vanish|vanish]] (3 rounds/day), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and electricity 10
-- **Saves**: Fort +6, Ref +8, Will +0
+- **Defenses**: Fort 16, Ref 18, Will 10
 - **Abilities**: Str 17, Dex 17, Con 16, Int 3, Wis 8, Cha 8
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +11 (+15 jumping), [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +8
 - **Feats**: [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -93,13 +93,13 @@ Fey creatures speak Sylvan.
 
 **Alignment**: Any non-lawful.
 
-**Type**: The creature's type changes to fey. Do not recalculate HD, BAB, or saves.
+**Type**: The creature's type changes to fey. Do not recalculate HD, BAB, or defenses.
 
 **Senses**: A fey creature gains low-light vision.
 
 **Armor Class**: Reduce the creature's natural armor, if any, by 1 (minimum of 0).
 
-**Defensive Abilities**: A fey creature gains a +4 bonus on saves against mind-affecting effects, resist cold and electricity 10, and DR 5/cold iron (if 11 HD or less) or DR 10/cold iron (if 12 HD or more).
+**Defensive Abilities**: A fey creature gains a +4 bonus on defenses against mind-affecting effects, resist cold and electricity 10, and DR 5/cold iron (if 11 HD or less) or DR 10/cold iron (if 12 HD or more).
 
 **Speed**: Unless the base creature flies better, the fey creature flies at 1-1/2 times the base creature's land speed (good maneuverability), rounded down to the nearest multiple of 5 feet. If the creature already has flight with a maneuverability of good, it increases to perfect.
 
@@ -146,6 +146,6 @@ Fey creatures speak Sylvan.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 3rd; concentration +2): 3/day—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_; 1/day—_[[rangoric-srd/spells/Entangle|entangle]]_ (DC 10), _[[rangoric-srd/spells/Faerie Fire|faerie fire]]_, _[[rangoric-srd/spells/Glitterdust|glitterdust]]_ (DC 11).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 3rd; concentration +2): 3/day—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_; 1/day—_[[rangoric-srd/spells/Entangle|entangle]]_ (+0 vs Reflex), _[[rangoric-srd/spells/Faerie Fire|faerie fire]]_, _[[rangoric-srd/spells/Glitterdust|glitterdust]]_ (+1 vs Will).
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: A creature that strikes a fey giant toad with an unarmed strike or natural weapon exposes itself to the toad's poisonous skin. [[rangoric-srd/rules/afflictions/Fey Giant Toad Venom|Fey Giant Toad Venom]]: Skin—contact; _save_ Fort DC 14; _frequency_ 1/round for 4 rounds; _effect_ 1d2 Wis damage; _cure_ 1 save.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: A creature that strikes a fey giant toad with an unarmed strike or natural weapon exposes itself to the toad's poisonous skin. [[rangoric-srd/rules/afflictions/Fey Giant Toad Venom|Fey Giant Toad Venom]]: Skin—contact; _attack_ +4 vs Fortitude; _frequency_ 1/round for 4 rounds; _effect_ 1d2 Wis damage; _cure_ 1 miss.

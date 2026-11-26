@@ -14,9 +14,9 @@ cmd: "41 (can't be tripped)"
 attack: "Bite +25 melee (4d10+15 plus 4d6 cold)"
 full-attack: "Bite +25 melee (4d10+15 plus 4d6 cold)"
 space-reach: "15 ft./10 ft."
-special-attacks: "Breath weapon (60-ft. cone, 15d6 cold damage, Reflex DC 23 half, usable once per hour), death throes, trill"
+special-attacks: "Breath weapon (60-ft. cone, 15d6 cold damage, +13 vs Reflex; a miss halves, usable once per hour), death throes, trill"
 special-qualities: "Darkvision 60 ft., low-light vision, cold, immunity to cold, vulnerable to fire"
-saves: "Fort +15, Ref +13, Will +10"
+defenses: "Fort 25, Ref 23, Will 20"
 abilities: "Str 31, Dex 16, Con 21, Int 2, Wis 16, Cha 11"
 skills: "Perception +17, Stealth +6 (+14 in ice and snow)"
 skill-ranks: "Perception 11, Stealth 8"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +25 melee (4d10+15 plus 4d6 cold)
 - **Full Attack**: Bite +25 melee (4d10+15 plus 4d6 cold)
 - **Space/Reach**: 15 ft./10 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (60-ft. cone, 15d6 cold damage, Reflex DC 23 half, usable once per hour), death throes, trill
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (60-ft. cone, 15d6 cold damage, +13 vs Reflex; a miss halves, usable once per hour), death throes, trill
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^cold|cold]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, vulnerable to fire
-- **Saves**: Fort +15, Ref +13, Will +10
+- **Defenses**: Fort 25, Ref 23, Will 20
 - **Abilities**: Str 31, Dex 16, Con 21, Int 2, Wis 16, Cha 11
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +6 (+14 in ice and snow)
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Stand Still|Stand Still]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
@@ -77,6 +77,6 @@ Frost worms lurk under the snow, waiting for prey to come near. They begin an at
 
 **Cold (Su)**: A frost worm's body generates intense cold, allowing it to deal an additional 4d6 cold damage with its bite attack. Any creature that attacks a frost worm with an unarmed strike or a natural weapon takes 1d6 points of cold damage per successful hit. A creature that grapples or is grappled by a frost worm takes 4d6 points of cold damage per round the grapple is maintained.
 
-**Death Throes (Su)**: When killed, a frost worm explodes in a 100-foot-radius burst that deals 12d6 cold damage and 8d6 piercing damage (DC 23 Reflex half). The save DC is Constitution-based.
+**Death Throes (Su)**: When killed, a frost worm explodes in a 100-foot-radius burst that deals 12d6 cold damage and 8d6 piercing damage (+13 vs Reflex; a miss halves). The attack bonus is Constitution-based.
 
-**Trill (Su)**: As a full-round action, a frost worm can emit a strange trilling sound that affects all creatures within a 100-foot radius. Creatures must succeed on a DC 18 Will save or be [[rangoric-srd/rules/Special Abilities and Conditions#^fascinated|fascinated]] for as long as the worm continues to trill (the frost worm can maintain this trill by concentrating). Once a creature has resisted or broken the effect, it cannot be affected again by that same frost worm's trill for 24 hours. This is a sonic mind-affecting effect. The save DC is Charisma-based.
+**Trill (Su)**: As a full-round action, a frost worm can emit a strange trilling sound that affects all creatures within a 100-foot radius. The trill attacks creatures at +8 vs Will, and on a hit they are [[rangoric-srd/rules/Special Abilities and Conditions#^fascinated|fascinated]] for as long as the worm continues to trill (the frost worm can maintain this trill by concentrating). Once a creature has resisted or broken the effect, it cannot be affected again by that same frost worm's trill for 24 hours. This is a sonic mind-affecting effect. The attack bonus is Charisma-based.

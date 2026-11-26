@@ -96,20 +96,20 @@ Advancement Range: Wyrmling 21-24 HD (Huge); very young 26-29 HD (Huge); young 3
 
 Force Dragons by Age
 
-| Age          | Size | Hit Dice (hp)       | Str | Dex | Con | Int | Wis | Cha | Base Attack/ CMB | CMD                | Attack | Fort Save | Ref Save | Will Save | Breath Weapon DC | Frightful Presence DC |
-| ------------ | ---- | ------------------- | --- | --- | --- | --- | --- | --- | ---------------- | ------------------ | ------ | --------- | -------- | --------- | ---------------- | --------------------- |
-| Wyrmling     | H    | 20d12+100 (230)     | 31  | 10  | 21  | 18  | 19  | 18  | +20/+32          | 42 (46 vs. trip)   | +28    | +17       | +12      | +16       | 5d12 (25)        | 24                    |
-| Very young   | H    | 25d12+150 (312)     | 35  | 10  | 23  | 22  | 23  | 22  | +25/+39          | 49 (53 vs. trip)   | +35    | +20       | +14      | +20       | 10d12 (28)       | 28                    |
-| Young        | G    | 30d12+210 (405)     | 39  | 10  | 25  | 26  | 27  | 26  | +30/+48          | 58 (62 vs. trip)   | +40    | +24       | +17      | +25       | 15d12 (32)       | 33                    |
-| Juvenile     | G    | 35d12+315 (542)     | 43  | 10  | 29  | 30  | 31  | 30  | +35/+55          | 65 (69 vs. trip)   | +47    | +28       | +19      | +29       | 20d12 (36)       | 37                    |
-| Young adult  | G    | 40d12+440 (700)     | 47  | 10  | 33  | 34  | 35  | 34  | +40/+62          | 72 (76 vs. trip)   | +54    | +33       | +22      | +34       | 25d12 (41)       | 42                    |
-| Adult        | G    | 45d12+585 (877)     | 51  | 10  | 37  | 38  | 39  | 38  | +45/+69          | 79 (83 vs. trip)   | +61    | +37       | +24      | +38       | 30d12 (45)       | 46                    |
-| Mature adult | C    | 50d12+750 (1,075)   | 55  | 10  | 41  | 42  | 43  | 42  | +50/+80          | 90 (94 vs. trip)   | +64    | +42       | +27      | +43       | 35d12 (50)       | 51                    |
-| Old          | C    | 55d12+935 (1,292)   | 59  | 10  | 45  | 46  | 47  | 46  | +55/+87          | 97 (101 vs. trip)  | +71    | +46       | +29      | +47       | 40d12 (54)       | 55                    |
-| Very old     | C    | 60d12+1,140 (1,530) | 63  | 10  | 49  | 50  | 51  | 50  | +60/+94          | 104 (108 vs. trip) | +78    | +51       | +32      | +52       | 45d12 (59)       | 60                    |
-| Ancient      | C    | 65d12+1,365 (1,787) | 67  | 10  | 53  | 54  | 55  | 54  | +65/+101         | 111 (115 vs. trip) | +85    | +55       | +34      | +56       | 50d12 (63)       | 64                    |
-| Wyrm         | C+   | 70d12+1,610 (2,065) | 71  | 10  | 57  | 58  | 59  | 58  | +70/+108         | 118 (122 vs. trip) | +92    | +60       | +37      | +61       | 55d12 (68)       | 69                    |
-| Great wyrm   | C+   | 75d12+1,875 (2,362) | 75  | 10  | 61  | 62  | 63  | 62  | +75/+115         | 125 (129 vs. trip) | +99    | +64       | +39      | +65       | 60d12 (72)       | 73                    |
+| Age          | Size | Hit Dice (hp)       | Str | Dex | Con | Int | Wis | Cha | Base Attack/ CMB | CMD                | Attack | Fort Defense | Ref Defense | Will Defense | Breath Weapon Attack | Frightful Presence Attack |
+| ------------ | ---- | ------------------- | --- | --- | --- | --- | --- | --- | ---------------- | ------------------ | ------ | ------------ | ----------- | ------------ | -------------------- | ------------------------- |
+| Wyrmling     | H    | 20d12+100 (230)     | 31  | 10  | 21  | 18  | 19  | 18  | +20/+32          | 42 (46 vs. trip)   | +28    | 27           | 22          | 26           | 5d12 (+15)           | +14                       |
+| Very young   | H    | 25d12+150 (312)     | 35  | 10  | 23  | 22  | 23  | 22  | +25/+39          | 49 (53 vs. trip)   | +35    | 30           | 24          | 30           | 10d12 (+18)          | +18                       |
+| Young        | G    | 30d12+210 (405)     | 39  | 10  | 25  | 26  | 27  | 26  | +30/+48          | 58 (62 vs. trip)   | +40    | 34           | 27          | 35           | 15d12 (+22)          | +23                       |
+| Juvenile     | G    | 35d12+315 (542)     | 43  | 10  | 29  | 30  | 31  | 30  | +35/+55          | 65 (69 vs. trip)   | +47    | 38           | 29          | 39           | 20d12 (+26)          | +27                       |
+| Young adult  | G    | 40d12+440 (700)     | 47  | 10  | 33  | 34  | 35  | 34  | +40/+62          | 72 (76 vs. trip)   | +54    | 43           | 32          | 44           | 25d12 (+31)          | +32                       |
+| Adult        | G    | 45d12+585 (877)     | 51  | 10  | 37  | 38  | 39  | 38  | +45/+69          | 79 (83 vs. trip)   | +61    | 47           | 34          | 48           | 30d12 (+35)          | +36                       |
+| Mature adult | C    | 50d12+750 (1,075)   | 55  | 10  | 41  | 42  | 43  | 42  | +50/+80          | 90 (94 vs. trip)   | +64    | 52           | 37          | 53           | 35d12 (+40)          | +41                       |
+| Old          | C    | 55d12+935 (1,292)   | 59  | 10  | 45  | 46  | 47  | 46  | +55/+87          | 97 (101 vs. trip)  | +71    | 56           | 39          | 57           | 40d12 (+44)          | +45                       |
+| Very old     | C    | 60d12+1,140 (1,530) | 63  | 10  | 49  | 50  | 51  | 50  | +60/+94          | 104 (108 vs. trip) | +78    | 61           | 42          | 62           | 45d12 (+49)          | +50                       |
+| Ancient      | C    | 65d12+1,365 (1,787) | 67  | 10  | 53  | 54  | 55  | 54  | +65/+101         | 111 (115 vs. trip) | +85    | 65           | 44          | 66           | 50d12 (+53)          | +54                       |
+| Wyrm         | C+   | 70d12+1,610 (2,065) | 71  | 10  | 57  | 58  | 59  | 58  | +70/+108         | 118 (122 vs. trip) | +92    | 70           | 47          | 71           | 55d12 (+58)          | +59                       |
+| Great wyrm   | C+   | 75d12+1,875 (2,362) | 75  | 10  | 61  | 62  | 63  | 62  | +75/+115         | 125 (129 vs. trip) | +99    | 74           | 49          | 75           | 60d12 (+62)          | +63                       |
 
 Force Dragon Abilities by Age
 
@@ -144,7 +144,7 @@ Displacement (Su): An old force dragon’s deflecting force bends light even mor
 
 Invisibility (Su): A great wyrm force dragon is a creature of pure force, and is completely [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] (as though protected by [[rangoric-srd/spells/Invisibility, Greater|greater invisibility]]). A creature that can see invisible creatures must still contend with the dragon’s displacement ability.
 
-Spell-Like Abilities: The DCs are Charisma-based.
+Spell-Like Abilities: The attack bonuses are Charisma-based.
 
 3/day - [[rangoric-srd/spells/Forcecage|forcecage]], [[rangoric-srd/spells/Maze|maze]], [[rangoric-srd/spells/Resilient Sphere|resilient sphere]], [[rangoric-srd/spells/Telekinetic Sphere|telekinetic sphere]], [[rangoric-srd/spells/Wall of Force|wall of force]].
 
@@ -160,9 +160,9 @@ Base Attack: +45; CMB: +69; CMD: 93 (97 vs. trip)
 Attack:  Bite +61 (4d6+20/19-20) melee  
 Full Attack: Bite +61 (4d6+20/19-20) melee, 2 claws +56 (2d6+10/19-20) melee, 2 wings +56 (2d6+10/19-20) melee, tail slap +56 (2d8+30/19-20) melee  
 Space/Reach: 20 ft./15 ft.  
-Special Attacks: Crush 4d6+30 (DC 45), tail sweep 2d6+30 (DC 45), breath weapon, frightful presence (DC 46), spells (caster level 18th), spell-like abilities  
+Special Attacks: Crush 4d6+30 (+35 vs Reflex), tail sweep 2d6+30 (+35 vs Reflex), breath weapon, frightful presence (+36 vs Will), spells (caster level 18th), spell-like abilities  
 Special Qualities: Immunities, DR 15/epic, SR 39, blindsense 60ft., keen senses, deflecting force, blur (20% miss chance)  
-Saves: Fort +37, Ref +24, Will +38  
+Defenses: Fort 47, Ref 34, Will 48  
 Abilities: Str 51, Dex 10, Con 37, Int 38, Wis 39, Cha 38  
 Skills: [[rangoric-srd/skills/Appraise|Appraise]] +50, [[rangoric-srd/skills/Arcana|Arcana]] +56, [[rangoric-srd/skills/Athletics|Athletics]] +32, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +50, [[rangoric-srd/skills/Deception|Deception]] +62, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +48, [[rangoric-srd/skills/Intimidation|Intimidation]] +68, [[rangoric-srd/skills/Investigation|Investigation]] +72, all [[rangoric-srd/skills/Knowledge|Knowledge skills]] +56, [[rangoric-srd/skills/Mysticism|Mysticism]] +68, [[rangoric-srd/skills/Perception|Perception]] +74, [[rangoric-srd/skills/Persuasion|Persuasion]] +74, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +50  
 Feats: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Empower Spell-Like Ability|Empower Spell-Like Ability]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claws), [[rangoric-srd/feats/Improved Critical|Improved Critical]] (wings), [[rangoric-srd/feats/Improved Critical|Improved Critical]] (tail slap), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/monsters/Monster Feats|Maximize Spell-Like Ability]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Spell Knowledge|Spell Knowledge]], [[rangoric-srd/feats/Wingover|Wingover]]  
@@ -175,13 +175,13 @@ Advancement: 46-49 HD (Gargantuan)
 
 A force dragon’s natural weapons are treated as epic for the purpose of overcoming damage reduction.
 
-Breath Weapon (Su): Cone of force, 60 ft., damage 30d12, Ref half (DC 45). The DC is Constitution-based.
+Breath Weapon (Su): Cone of force, 60 ft., damage 30d12, +35 vs Reflex; a miss halves. The attack bonus is Constitution-based.
 
-Spell-Like Abilities: 3/day-resilient sphere, wall of force. Caster level 18th; save DC 24 + spell level.
+Spell-Like Abilities: 3/day-resilient sphere, wall of force. Caster level 18th; attack bonus +14 + spell level.
 
 Immunities (Ex): Immune to sleep and paralysis, immune to force effects.
 
-Sorcerer Spells Known (6/10/10/ 9/9/9/9/8/7/5; base DC 24 + spell level):
+Sorcerer Spells Known (6/10/10/ 9/9/9/9/8/7/5; attack bonus +14 + spell level):
 
 0 - arcane mark, dancing lights, detect magic, flare, ghost sound, light, mending, open/close, read magic;
 
@@ -218,20 +218,20 @@ Advancement Range: Wyrmling 24-27 HD (Huge); very young 29-32 HD (Huge); young 3
 
 Prismatic Dragons by Age
 
-| Age          | Size | Hit Dice (hp)       | Str | Dex | Con | Int | Wis | Cha | Base Attack/ CMB | CMD                | Attack | Fort Save | Ref Save | Will Save | Breath Weapon DC | Frightful Presence DC |
-| ------------ | ---- | ------------------- | --- | --- | --- | --- | --- | --- | ---------------- | ------------------ | ------ | --------- | -------- | --------- | ---------------- | --------------------- |
-| Wyrmling     | H    | 23d12+138 (287)     | 29  | 10  | 23  | 20  | 21  | 20  | +23/+34          | 44 (48 vs. trip)   | +30    | +19       | +13      | +18       | 27               | 26                    |
-| Very young   | H    | 28d12+196 (378)     | 33  | 10  | 25  | 24  | 25  | 24  | +28/+41          | 51 (55 vs. trip)   | +37    | +23       | +16      | +23       | 32               | 31                    |
-| Young        | G    | 33d12+297 (511)     | 37  | 10  | 29  | 28  | 29  | 28  | +33/+50          | 60 (64 vs. trip)   | +42    | +27       | +18      | +27       | 35               | 35                    |
-| Juvenile     | G    | 38d12+418 (665)     | 41  | 10  | 33  | 32  | 33  | 32  | +38/+57          | 67 (71 vs. trip)   | +49    | +32       | +21      | +32       | 40               | 40                    |
-| Young adult  | G    | 43d12+559 (838)     | 45  | 10  | 37  | 36  | 37  | 36  | +43/+64          | 74 (78 vs. trip)   | +56    | +36       | +23      | +36       | 44               | 44                    |
-| Adult        | C    | 48d12+720 (1,032)   | 49  | 10  | 41  | 40  | 41  | 40  | +48/+75          | 85 (89 vs. trip)   | +59    | +41       | +26      | +41       | 49               | 49                    |
-| Mature adult | C    | 53d12+901 (1,245)   | 53  | 10  | 45  | 44  | 45  | 44  | +53/+82          | 92 (96 vs. trip)   | +66    | +45       | +28      | +45       | 53               | 53                    |
-| Old          | C    | 58d12+1,102 (1,479) | 57  | 10  | 49  | 48  | 49  | 48  | +58/+89          | 99 (103 vs. trip)  | +73    | +50       | +31      | +50       | 58               | 58                    |
-| Very old     | C    | 63d12+1,323 (1,732) | 61  | 10  | 53  | 52  | 53  | 52  | +63/+96          | 106 (110 vs. trip) | +80    | +54       | +33      | +54       | 62               | 62                    |
-| Ancient      | C+   | 68d12+1,564 (2,006) | 65  | 10  | 57  | 56  | 57  | 56  | +68/+103         | 113 (117 vs. trip) | +87    | +59       | +36      | +59       | 67               | 67                    |
-| Wyrm         | C+   | 73d12+1,825 (2,299) | 69  | 10  | 61  | 60  | 61  | 60  | +73/+110         | 120 (124 vs. trip) | +94    | +63       | +38      | +63       | 71               | 71                    |
-| Great wyrm   | C+   | 78d12+2,106 (2,613) | 73  | 10  | 65  | 64  | 65  | 64  | +78/+117         | 127 (131 vs. trip) | +101   | +68       | +41      | +68       | 76               | 76                    |
+| Age          | Size | Hit Dice (hp)       | Str | Dex | Con | Int | Wis | Cha | Base Attack/ CMB | CMD                | Attack | Fort Defense | Ref Defense | Will Defense | Breath Weapon Attack | Frightful Presence Attack |
+| ------------ | ---- | ------------------- | --- | --- | --- | --- | --- | --- | ---------------- | ------------------ | ------ | ------------ | ----------- | ------------ | -------------------- | ------------------------- |
+| Wyrmling     | H    | 23d12+138 (287)     | 29  | 10  | 23  | 20  | 21  | 20  | +23/+34          | 44 (48 vs. trip)   | +30    | 29           | 23          | 28           | +17                  | +16                       |
+| Very young   | H    | 28d12+196 (378)     | 33  | 10  | 25  | 24  | 25  | 24  | +28/+41          | 51 (55 vs. trip)   | +37    | 33           | 26          | 33           | +22                  | +21                       |
+| Young        | G    | 33d12+297 (511)     | 37  | 10  | 29  | 28  | 29  | 28  | +33/+50          | 60 (64 vs. trip)   | +42    | 37           | 28          | 37           | +25                  | +25                       |
+| Juvenile     | G    | 38d12+418 (665)     | 41  | 10  | 33  | 32  | 33  | 32  | +38/+57          | 67 (71 vs. trip)   | +49    | 42           | 31          | 42           | +30                  | +30                       |
+| Young adult  | G    | 43d12+559 (838)     | 45  | 10  | 37  | 36  | 37  | 36  | +43/+64          | 74 (78 vs. trip)   | +56    | 46           | 33          | 46           | +34                  | +34                       |
+| Adult        | C    | 48d12+720 (1,032)   | 49  | 10  | 41  | 40  | 41  | 40  | +48/+75          | 85 (89 vs. trip)   | +59    | 51           | 36          | 51           | +39                  | +39                       |
+| Mature adult | C    | 53d12+901 (1,245)   | 53  | 10  | 45  | 44  | 45  | 44  | +53/+82          | 92 (96 vs. trip)   | +66    | 55           | 38          | 55           | +43                  | +43                       |
+| Old          | C    | 58d12+1,102 (1,479) | 57  | 10  | 49  | 48  | 49  | 48  | +58/+89          | 99 (103 vs. trip)  | +73    | 60           | 41          | 60           | +48                  | +48                       |
+| Very old     | C    | 63d12+1,323 (1,732) | 61  | 10  | 53  | 52  | 53  | 52  | +63/+96          | 106 (110 vs. trip) | +80    | 64           | 43          | 64           | +52                  | +52                       |
+| Ancient      | C+   | 68d12+1,564 (2,006) | 65  | 10  | 57  | 56  | 57  | 56  | +68/+103         | 113 (117 vs. trip) | +87    | 69           | 46          | 69           | +57                  | +57                       |
+| Wyrm         | C+   | 73d12+1,825 (2,299) | 69  | 10  | 61  | 60  | 61  | 60  | +73/+110         | 120 (124 vs. trip) | +94    | 73           | 48          | 73           | +61                  | +61                       |
+| Great wyrm   | C+   | 78d12+2,106 (2,613) | 73  | 10  | 65  | 64  | 65  | 64  | +78/+117         | 127 (131 vs. trip) | +101   | 78           | 51          | 78           | +66                  | +66                       |
 
 Prismatic Dragon Abilities by Age
 
@@ -260,7 +260,7 @@ Deflecting Force (Su): A prismatic dragon is protected by a shield of shimmering
 
 Immune to Light and Blindness (Ex): Prismatic dragons cannot be harmed by any light, including Evocation \[Light\] spells, [[rangoric-srd/spells/Searing Light|searing light]], and the various prismatic ([[rangoric-srd/spells/Prismatic Sphere|sphere]], [[rangoric-srd/spells/Prismatic Spray|spray]], [[rangoric-srd/spells/Prismatic Wall|wall]]) spells. In addition, they are immune to any spell or effect that causes [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blindness]].
 
-Spell-Like Abilities: The DC is Charisma-based.
+Spell-Like Abilities: The attack bonus is Charisma-based.
 
 At will - [[rangoric-srd/spells/Hypnotic Pattern|hypnotic pattern]], [[rangoric-srd/spells/Rainbow Pattern|rainbow pattern]];
 
@@ -278,9 +278,9 @@ Base Attack: +58; CMB: +89; CMD: 118 (122 vs. trip)
 Attack:  Bite +74 (4d8+23/19-20) melee  
 Full Attack:  Bite +74 melee, 2 claws +69 (4d6+11) melee, 2 wings +68 (2d8+11) melee, tail slap +69 (4d6+34) melee  
 Space/Reach: 30 ft./20 ft  
-Special Attacks: Crush 4d8+34 (DC 58), tail sweep 2d8+34 (DC 58), breath weapon, frightful presence (DC 58), spells (caster level 26th), spell-like abilities  
+Special Attacks: Crush 4d8+34 (+48 vs Reflex), tail sweep 2d8+34 (+48 vs Reflex), breath weapon, frightful presence (+48 vs Will), spells (caster level 26th), spell-like abilities  
 Special Qualities: Immunities, DR 20/epic, SR 66, blindsight, keen senses, deflecting force  
-Saves: Fort +50, Ref +31, Will +50  
+Defenses: Fort 60, Ref 41, Will 60  
 Abilities: Str 57, Dex 10, Con 49, Int 48, Wis 49, Cha 48  
 Skills: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +67, [[rangoric-srd/skills/Arcana|Arcana]] +80, [[rangoric-srd/skills/Athletics|Athletics]] +102, [[rangoric-srd/skills/Deception|Deception]] +80, [[rangoric-srd/skills/Emulation|Emulation]] +80, [[rangoric-srd/skills/Engineering|Engineering]] +80, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +61, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +80, [[rangoric-srd/skills/Intimidation|Intimidation]] +86, [[rangoric-srd/skills/Investigation|Investigation]] +80, all [[rangoric-srd/skills/Knowledge|Knowledge skills]] +80, [[rangoric-srd/skills/Mysticism|Mysticism]] +86, [[rangoric-srd/skills/Perception|Perception]] +80, [[rangoric-srd/skills/Performance|Performance]] (any two) +80, [[rangoric-srd/skills/Persuasion|Persuasion]] +92, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +80, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +61, [[rangoric-srd/skills/Stealth|Stealth]] +61  
 Feats: [[rangoric-srd/feats/Blinding Speed|Blinding Speed]] (x2), [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Improved Spell Capacity|Improved Spell Capacity]] (9th), [[rangoric-srd/feats/Improved Spell Capacity|Improved Spell Capacity]] (9th), [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Quicken Spell-Like Ability|Quicken Spell-Like Ability]], [[rangoric-srd/feats/Snatch|Snatch]], [[rangoric-srd/feats/Spell Knowledge|Spell Knowledge]] (x4), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (tail slap)  
@@ -293,13 +293,13 @@ Advancement: 59-62 HD (Colossal)
 
 A prismatic dragon’s natural weapons are treated as epic for the purpose of overcoming damage reduction.
 
-Breath Weapon (Su): Cone of prismatic spray, 70 ft., effect as spell, Ref half (DC 58).
+Breath Weapon (Su): Cone of prismatic spray, 70 ft., effect as spell, +48 vs Reflex; a miss halves.
 
-Spell-Like Abilities: At will-hypnotic pattern, rainbow pattern; 3/day-sunbeam, sunburst. Caster level 26th; save DC 29 + spell level. The DC is Charisma-based.
+Spell-Like Abilities: At will-hypnotic pattern, rainbow pattern; 3/day-sunbeam, sunburst. Caster level 26th; attack bonus +19 + spell level. The attack bonus is Charisma-based.
 
 Immunities (Ex): Immune to sleep and paralysis effects, immune to light and blindness effects.
 
-Sorcerer Spells Known (6/11/11/11/10/10/10/10/9/11; base DC 29 + spell level):
+Sorcerer Spells Known (6/11/11/11/10/10/10/10/9/11; attack bonus +19 + spell level):
 
 0 - dancing lights, daze, detect magic, ghost sound, light, prestidigitation, ray of frost, read magic, resistance;
 

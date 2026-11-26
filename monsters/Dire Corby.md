@@ -15,7 +15,7 @@ full-attack: "2 claws +3 melee (1d4+1)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Leap, rend (2 claws, 1d4+1)"
 special-qualities: "Darkvision 60 ft., ferocity"
-saves: "Fort +2, Ref +4, Will +3"
+defenses: "Fort 12, Ref 14, Will 13"
 abilities: "Str 13, Dex 12, Con 15, Int 7, Wis 10, Cha 8"
 skills: "Acrobatics +10, Athletics +13, Perception +6, Stealth +8"
 skill-ranks: "Acrobatics 1, Athletics 9, Perception 1, Stealth 4"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Leap|Leap]], [[rangoric-srd/monsters/abilities/Rend|rend]] (2 claws, 1d4+1)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Ferocity|ferocity]]
-- **Saves**: Fort +2, Ref +4, Will +3
+- **Defenses**: Fort 12, Ref 14, Will 13
 - **Abilities**: Str 13, Dex 12, Con 15, Int 7, Wis 10, Cha 8
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +8
 - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
@@ -77,4 +77,4 @@ Dire corbies speak Undercommon.
 
 **Dread Corby**: These powerful dire corbies are the offspring of dire corbies and [[rangoric-srd/monsters/harpy/Harpy|harpies]]. They have the [[rangoric-srd/monsters/simple-templates/Advanced Creature|advanced]] template and gain the following special attack.
 
-**Screech of Doom (Su)**: Once per day, a dread corby can shriek at a target within 30 feet. The target must make a DC 12 Will save or become [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]] for 1d4 rounds. This is a sonic, mind-affecting fear effect. The save DC is Charisma-based.
+**Screech of Doom (Su)**: Once per day, a dread corby can shriek at a target within 30 feet. The target is attacked at +2 vs Will, and on a hit becomes [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]] for 1d4 rounds. This is a sonic, mind-affecting fear effect. The attack bonus is Charisma-based.

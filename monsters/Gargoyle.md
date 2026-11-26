@@ -16,7 +16,7 @@ full-attack: "2 claws +7 melee (1d6+2) and bite +7 melee (1d4+2) and gore +7 mel
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., freeze, damage reduction 10/magic"
-saves: "Fort +4, Ref +6, Will +4"
+defenses: "Fort 14, Ref 16, Will 14"
 abilities: "Str 15, Dex 14, Con 16, Int 6, Wis 11, Cha 7"
 skills: "Acrobatics +12, Perception +5, Stealth +11 (+17 in stony areas)"
 skill-ranks: "Acrobatics 7, Perception 2, Stealth 4"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Freeze|freeze]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic
-- **Saves**: Fort +4, Ref +6, Will +4
+- **Defenses**: Fort 14, Ref 16, Will 14
 - **Abilities**: Str 15, Dex 14, Con 16, Int 6, Wis 11, Cha 7
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +11 (+17 in stony areas)
 - **Feats**: [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Acrobatics)

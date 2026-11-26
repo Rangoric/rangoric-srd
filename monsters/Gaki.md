@@ -13,9 +13,9 @@ cmd: "22"
 attack: "Claw +9 melee (2d6+3) or bite +9 melee (2d6+3 plus grab)"
 full-attack: "2 claws +9 melee (2d6+3) and bite +9 melee (2d6+3 plus grab)"
 space-reach: "5 ft./5 ft. (10 ft. with bite)"
-special-attacks: "Blood drain (1d2 Constitution), fear cone (30 ft., DC 16), spell-like abilities"
+special-attacks: "Blood drain (1d2 Constitution), fear cone (30 ft., +6 vs Will), spell-like abilities"
 special-qualities: "Darkvision 60 ft., detect evil, undead traits, aversion to sun and moon, compulsive hunger, vulnerable to cold and fire"
-saves: "Fort +5, Ref +7, Will +9"
+defenses: "Fort 15, Ref 17, Will 19"
 abilities: "Str 16, Dex 15, Con —, Int 9, Wis 12, Cha 18"
 skills: "Intimidation +14, Perception +13, Stealth +14"
 skill-ranks: "Intimidation 7, Perception 9, Stealth 9"
@@ -47,9 +47,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Claw +9 melee (2d6+3) or bite +9 melee (2d6+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
 - **Full Attack**: 2 claws +9 melee (2d6+3) and bite +9 melee (2d6+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
 - **Space/Reach**: 5 ft./5 ft. (10 ft. with bite)
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]] (1d2 Constitution), [[rangoric-srd/monsters/abilities/Fear|fear]] cone (30 ft., DC 16), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]] (1d2 Constitution), [[rangoric-srd/monsters/abilities/Fear|fear]] cone (30 ft., +6 vs Will), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect evil, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Aversion to Sun and Moon|aversion to sun and moon]], [[rangoric-srd/monsters/abilities/Compulsive Hunger|compulsive hunger]], vulnerable to cold and fire
-- **Saves**: Fort +5, Ref +7, Will +9
+- **Defenses**: Fort 15, Ref 17, Will 19
 - **Abilities**: Str 16, Dex 15, Con —, Int 9, Wis 12, Cha 18
 - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +14
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
@@ -77,4 +77,4 @@ Gakis speak Common.
 
 **[[rangoric-srd/monsters/abilities/Aversion to Sun and Moon|Aversion to Sun and Moon]] (Ex)**: A gaki takes 1d4 points of fire damage every round it's exposed to the light of a full moon. It takes 1d4 points of cold damage every round it is exposed to direct sunlight.
 
-**[[rangoric-srd/monsters/abilities/Compulsive Hunger|Compulsive Hunger]] (Ex)**: Despite being undead, a gaki is plagued by an insatiable hunger, and believes it can gain a normal body or rest in peace if it consumes the right mixture of flesh, food, and drink. A gaki that finds a corpse or is offered food, wine, holy water, or flowers must succeed at a DC 20 Will save or spend one turn trying to grab and consume it. Its narrow neck prevents it from swallowing more than a tiny amount, and it gives up after 1 round of attempting to do so. A gaki that consumes holy water in this way is not harmed by it.
+**[[rangoric-srd/monsters/abilities/Compulsive Hunger|Compulsive Hunger]] (Ex)**: Despite being undead, a gaki is plagued by an insatiable hunger, and believes it can gain a normal body or rest in peace if it consumes the right mixture of flesh, food, and drink. A gaki that finds a corpse or is offered food, wine, holy water, or flowers is attacked at +10 vs Will, and on a hit spends one turn trying to grab and consume it. Its narrow neck prevents it from swallowing more than a tiny amount, and it gives up after 1 round of attempting to do so. A gaki that consumes holy water in this way is not harmed by it.

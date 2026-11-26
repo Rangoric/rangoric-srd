@@ -16,7 +16,7 @@ full-attack: "2 hooves +16 melee (2d6+7 plus 1d6 electricity)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Breath weapons, flying charge"
 special-qualities: "Darkvision 120 ft., know alignment, low-light vision, telepathy 100 ft., shift planes"
-saves: "Fort +12, Ref +10, Will +9"
+defenses: "Fort 22, Ref 20, Will 19"
 abilities: "Str 24, Dex 17, Con 21, Int 16, Wis 18, Cha 21"
 skills: "Acrobatics +18, Fieldcraft +14, Perception +17, Sense Motive +14, Theology +13"
 skill-ranks: "Acrobatics 14, Fieldcraft 7, Perception 10, Sense Motive 7, Theology 7"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapons|Breath weapons]], [[rangoric-srd/monsters/abilities/Flying Charge|flying charge]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Know Alignment|know alignment]], [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Shift Planes|shift planes]]
-- **Saves**: Fort +12, Ref +10, Will +9
+- **Defenses**: Fort 22, Ref 20, Will 19
 - **Abilities**: Str 24, Dex 17, Con 21, Int 16, Wis 18, Cha 21
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +18, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14, [[rangoric-srd/skills/Theology|Theology]] +13
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]]
@@ -74,7 +74,7 @@ Dragon horses speak Auran, Common and Draconic.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Breath Weapons|Breath Weapons]] (Su)**: As a standard action, a dragon horse can breathe out a 30-foot cone of mist. This mist either deals 10d6 points of cold damage (DC 20 Reflex half), creates a region of fog in the area that lasts for 1 minute (similar to that created by a fog cloud spell), or creates a blast of severe wind (see [[rangoric-srd/rules/Wilderness, Weather, and Environment|the wind effects table]]) in the area. The dragon horse may use this breath weapon once every 1d4 rounds. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Breath Weapons|Breath Weapons]] (Su)**: As a standard action, a dragon horse can breathe out a 30-foot cone of mist. This mist either deals 10d6 points of cold damage (+10 vs Reflex; a miss halves), creates a region of fog in the area that lasts for 1 minute (similar to that created by a fog cloud spell), or creates a blast of severe wind (see [[rangoric-srd/rules/Wilderness, Weather, and Environment|the wind effects table]]) in the area. The dragon horse may use this breath weapon once every 1d4 rounds. The attack bonus is Constitution-based.
 
 **[[rangoric-srd/monsters/abilities/Flying Charge|Flying Charge]] (Ex)**: A dragon horse gains a +4 bonus on damage rolls if it charges while flying.
 

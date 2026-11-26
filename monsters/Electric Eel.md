@@ -15,7 +15,7 @@ full-attack: "Bite +3 melee (1d6+1) and tail –2 melee touch (1d6 electricity)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision, resistance to electricity 10"
-saves: "Fort +7, Ref +5, Will +0"
+defenses: "Fort 17, Ref 15, Will 10"
 abilities: "Str 13, Dex 14, Con 19, Int 1, Wis 10, Cha 6"
 skills: "Athletics +9, Escape Artist +10, Perception +4, Stealth +10"
 skill-ranks: "Athletics 5, Escape Artist 0, Perception 1, Stealth 1"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 10
-- **Saves**: Fort +7, Ref +5, Will +0
+- **Defenses**: Fort 17, Ref 15, Will 10
 - **Abilities**: Str 13, Dex 14, Con 19, Int 1, Wis 10, Cha 6
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +10, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +10
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
@@ -65,4 +65,4 @@ The electric eel is a curious fish that breathes air instead of water, yet certa
 
 ### Combat
 
-**Electricity (Ex)**: An electric eel can produce a powerful jolt of electricity from its tail, delivering the jolt with a successful touch attack. On a critical hit, the creature struck must make a DC 15 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1d4 rounds. The save DC is Constitution-based.
+**Electricity (Ex)**: An electric eel can produce a powerful jolt of electricity from its tail, delivering the jolt with a successful touch attack. On a critical hit, the eel attacks the creature struck at +5 vs Fortitude, and on a hit it is [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1d4 rounds. The attack bonus is Constitution-based.

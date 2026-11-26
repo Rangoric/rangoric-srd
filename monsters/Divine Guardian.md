@@ -16,7 +16,7 @@ full-attack: "5 bites +7 melee (1d8+3)"
 space-reach: "15 ft./10 ft."
 special-attacks: "Pounce, spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, fast healing 5, ability healing, blessed life, divine swiftness, hydra traits, regenerate head, sacred site, immunity to disease, mind-affecting effects and poison"
-saves: "Fort +8, Ref +5, Will +5"
+defenses: "Fort 18, Ref 15, Will 15"
 abilities: "Str 17, Dex 12, Con 18, Int 6, Wis 15, Cha 13"
 skills: "Acrobatics +9, Athletics +11, Perception +16, Sense Motive +7"
 skill-ranks: "Acrobatics 9, Athletics 5, Perception 4, Sense Motive 0"
@@ -57,7 +57,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, [[rangoric-srd/monsters/Divine Guardian#^ability-healing|ability healing]], [[rangoric-srd/monsters/Divine Guardian#^blessed-life|blessed life]], [[rangoric-srd/monsters/Divine Guardian#^divine-swiftness|divine swiftness]], [[rangoric-srd/monsters/abilities/Hydra Traits|hydra traits]], [[rangoric-srd/monsters/abilities/Regenerate Head|regenerate head]], [[rangoric-srd/monsters/Divine Guardian#^sacred-site|sacred site]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease, mind-affecting effects and poison
-- **Saves**: Fort +8, Ref +5, Will +5
+- **Defenses**: Fort 18, Ref 15, Will 15
 - **Abilities**: Str 17, Dex 12, Con 18, Int 6, Wis 15, Cha 13
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)

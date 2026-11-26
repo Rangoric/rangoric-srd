@@ -15,7 +15,7 @@ full-attack: "Bite +5 melee (1d6+2 plus poison) and 2 claws +5 melee (1d4+2)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Traps, web (+6 ranged, DC 15, hp 4), poison"
 special-qualities: "Darkvision 60 ft., low-light vision, spider empathy +7"
-saves: "Fort +6, Ref +4, Will +6"
+defenses: "Fort 16, Ref 14, Will 16"
 abilities: "Str 14, Dex 17, Con 17, Int 6, Wis 15, Cha 8"
 skills: "Athletics +14, Craft (trapmaking) +8, Perception +9, Stealth +7"
 skill-ranks: "Athletics 9, Craft (trapmaking) 7, Perception 4, Stealth 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Traps, [[rangoric-srd/monsters/abilities/Web|web]] (+6 ranged, DC 15, hp 4), [[rangoric-srd/monsters/abilities/Poison|poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], spider empathy +7
-- **Saves**: Fort +6, Ref +4, Will +6
+- **Defenses**: Fort 16, Ref 14, Will 16
 - **Abilities**: Str 14, Dex 17, Con 17, Int 6, Wis 15, Cha 8
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Craft|Craft]] (trapmaking) +8, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +7
 - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
@@ -70,7 +70,7 @@ Ettercaps speak Common.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Ettercap Venom|Ettercap Venom]]: Bite—injury; _save_ Fort DC 15; _frequency_ 1/round for 10 rounds; _effect_ 1d2 Dex; _cure_ 2 consecutive saves. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Ettercap Venom|Ettercap Venom]]: Bite—injury; _attack_ +5 vs Fortitude; _frequency_ 1/round for 10 rounds; _effect_ 1d2 Dex; _cure_ 2 consecutive misses. The attack bonus is Constitution-based.
 
 **Spider Empathy (Ex)**: This ability functions as the druid's wild empathy, save that an ettercap can only use this ability on spiders. An ettercap gains a +4 racial bonus on this check. Spiders are mindless, but this empathic communication imparts on them a modicum of implanted intelligence, allowing ettercaps to train giant spiders and use them as guardians.
 
