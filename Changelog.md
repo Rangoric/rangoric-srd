@@ -8,6 +8,7 @@ Every departure from the source rules, newest first. One line each, with links t
 
 | Date | Change | Rangoric note | Source | Why |
 | --- | --- | --- | --- | --- |
+| 2026-11-26 | Saving throws as defenses, monster abilities (DF 65): Seed to Token of Fortune attack a defense instead of allowing a save. | [[DF Batch 65 Changes]] | | [[Saving Throws as Defenses]] DF 65 |
 | 2026-11-26 | Saving throws as defenses, monster abilities (DF 64): Irreligious to Scrimshaw Magic attack a defense instead of allowing a save. | [[DF Batch 64 Changes]] | | [[Saving Throws as Defenses]] DF 64 |
 | 2026-11-26 | Saving throws as defenses, monster abilities (DF 63): Disease to Intoxicating Stench attack a defense instead of allowing a save. | [[DF Batch 63 Changes]] | | [[Saving Throws as Defenses]] DF 63 |
 | 2026-11-26 | Saving throws as defenses, monster abilities (DF 62): Barbed Hairs to Dazzling Brightness attack a defense instead of allowing a save. | [[DF Batch 62 Changes]] | | [[Saving Throws as Defenses]] DF 62 |
