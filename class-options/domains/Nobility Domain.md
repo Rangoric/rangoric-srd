@@ -23,11 +23,11 @@ _A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]]._
 
 You are a great leader, an inspiration to all who follow the teachings of your faith.
 
-**Inspiring Word (Sp)**: As a standard action, you can speak an inspiring word to a creature within 30 feet. That creature receives a +2 morale bonus on attack rolls, skill checks, ability checks, and saving throws for a number of rounds equal to 1/2 your cleric level (minimum 1). You can use this power a number of times per day equal to 3 + your Wisdom modifier.
+**Inspiring Word (Sp)**: As a standard action, you can speak an inspiring word to a creature within 30 feet. That creature receives a +2 morale bonus on attack rolls, skill checks, ability checks, and defenses for a number of rounds equal to 1/2 your cleric level (minimum 1). You can use this power a number of times per day equal to 3 + your Wisdom modifier.
 
 **Leadership (Ex)**: At 8th level, you receive [[rangoric-srd/feats/Leadership|Leadership]] as a bonus feat. In addition, you gain a +2 bonus on your leadership score as long as you uphold the tenets of your deity (or divine concept if you do not venerate a deity).
 
-**Granted Power (3.5)**: The character has the spell-like ability to inspire allies, giving them a +2 morale bonus on saving throws, attack rolls, ability checks, skill checks, and weapon damage rolls. Allies must be able to hear the character speak for 1 round. Using this ability is a standard action. It lasts a number of rounds equal to the character’s Charisma bonus and can be used once per day.
+**Granted Power (3.5)**: The character has the spell-like ability to inspire allies, giving them a +2 morale bonus on defenses, attack rolls, ability checks, skill checks, and weapon damage rolls. Allies must be able to hear the character speak for 1 round. Using this ability is a standard action. It lasts a number of rounds equal to the character’s Charisma bonus and can be used once per day.
 
 ## Domain Spells
 

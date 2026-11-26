@@ -21,7 +21,7 @@ _A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [
 
 This power replaces the [[rangoric-srd/class-options/domains/Knowledge Domain#Granted Powers|remote viewing]] power of the [[rangoric-srd/class-options/domains/Knowledge Domain|Knowledge]] domain.
 
-**Read Minds (Su)**: At 8th level, you can broaden your mental spectrum to encompass those around you. Doing so allows you to read the mind of every creature within 30 feet as if you had cast _[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_. This ability allows you to read the surface thoughts of any creature that you are aware of after only 1 round of concentration. Creatures in this area are allowed a Will save to negate the effect. The DC of this Will save is 10 + 1/2 your cleric level + your Wisdom modifier. You can use this ability for a number of rounds per day equal to your cleric level. These rounds do not need to be consecutive.
+**Read Minds (Su)**: At 8th level, you can broaden your mental spectrum to encompass those around you. Doing so allows you to read the mind of every creature within 30 feet as if you had cast _[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_. This ability allows you to read the surface thoughts of any creature that you are aware of after only 1 round of concentration. It attacks the Will of creatures in this area, and a miss negates the effect. Its attack bonus is 1/2 your cleric level + your Wisdom modifier. You can use this ability for a number of rounds per day equal to your cleric level. These rounds do not need to be consecutive.
 
 ## Replacement Domain Spells
 

@@ -19,4 +19,4 @@ tags: [rangoric, rangoric/class-option]
 
 _A focus power of [[rangoric-srd/class-options/implement-schools/Enchantment Implements|enchantment implements]], for the [[rangoric-srd/classes/Occultist|occultist]] (Sp)._
 
-As a standard action, you can inspire a living creature with a touch by expending 1 point of mental focus. The creature receives a morale bonus on attack rolls equal to 1 + 1 for every 6 occultist levels you possess (to a maximum bonus of +4 at 18th level). This bonus also applies on saving throws against fear effects. This bonus lasts for 1 minute.
+As a standard action, you can inspire a living creature with a touch by expending 1 point of mental focus. The creature receives a morale bonus on attack rolls equal to 1 + 1 for every 6 occultist levels you possess (to a maximum bonus of +4 at 18th level). This bonus also applies to defenses against fear effects. This bonus lasts for 1 minute.

@@ -25,7 +25,7 @@ Your touch can heal wounds, and your presence instills unity and strengthens emo
 
 **Calming Touch (Sp)**: You can touch a creature as a standard action to heal it of 1d6 points of nonlethal damage + 1 point per cleric level. This touch also removes the fatigued, shaken, and sickened conditions (but has no effect on more severe conditions). You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
-**Unity (Su)**: At 8th level, whenever a spell or effect targets you and one or more allies within 30 feet, you can use this ability to allow your allies to use your saving throw against the effect in place of their own. Each ally must decide individually before the rolls are made. Using this ability is an immediate action. You can use this ability once per day at 8th level, and one additional time per day for every four cleric levels beyond 8th.
+**Unity (Su)**: At 8th level, whenever a spell or effect targets you and one or more allies within 30 feet, you can use this ability to allow your allies to use your defense against the effect in place of their own. Each ally must decide individually before the rolls are made. Using this ability is an immediate action. You can use this ability once per day at 8th level, and one additional time per day for every four cleric levels beyond 8th.
 
 **Granted Power (3.5)**: Use calm emotions as a spell-like ability once per day. Gain a +2 competence bonus on Persuasion checks.
 
@@ -35,7 +35,7 @@ Where a level has two spells, the cleric prepares [[rangoric-srd/class-options/d
 
 | Level | Spell                                                                         | Brief Description                                            |
 | ----- | ----------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| 1st   | [[rangoric-srd/spells/Bless\|Bless]]                                          | Allies gain +1 on attack rolls and saves against fear.       |
+| 1st   | [[rangoric-srd/spells/Bless\|Bless]]                                          | Allies gain +1 on attack rolls and defenses against fear.    |
 | 2nd   | [[rangoric-srd/spells/Status\|Status]]                                        | Monitors condition, position of allies.                      |
 | 2nd   | [[rangoric-srd/spells/Shield Other\|Shield Other]] (F)                        | You take half of subject’s damage.                           |
 | 3rd   | [[rangoric-srd/spells/Prayer\|Prayer]]                                        | Allies +1 bonus on most rolls, enemies –1 penalty.           |

@@ -21,7 +21,7 @@ _A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [
 
 This power replaces the [[rangoric-srd/class-options/domains/Evil Domain#Granted Powers|scythe of evil]] power of the [[rangoric-srd/class-options/domains/Evil Domain|Evil]] domain. Daemons are a race of neutral evil outsiders.
 
-**Whispering Evil (Su)**: At 8th level, as a standard action, you can whisper a hypnotizing litany of empty promises. Each enemy within a 30-foot emanation that can hear you must succeed on a Will saving throw or become fascinated for as long as you continue the litany. You can use this power a number of rounds per day equal to your cleric level, but these rounds do not need to be consecutive. This is a mind-affecting effect.
+**Whispering Evil (Su)**: At 8th level, as a standard action, you can whisper a hypnotizing litany of empty promises. The litany attacks the Will of each enemy within a 30-foot emanation that can hear you, and on a hit it becomes fascinated for as long as you continue the litany. You can use this power a number of rounds per day equal to your cleric level, but these rounds do not need to be consecutive. This is a mind-affecting effect.
 
 ## Replacement Domain Spells
 

@@ -24,7 +24,7 @@ _Base Form_: Biped (limbs [arms], limbs [legs], slam).
 
 _Base Evolutions_:
 
-- At 1st level, archon eidolons gain the [[rangoric-srd/class-options/evolutions/Resistance (Evolution)|resistance]] (electricity) evolution and the [[rangoric-srd/class-options/evolutions/Skilled (Evolution)|skilled]] (Intimidation) evolution. They also gain a +4 bonus on saving throws against poison.
+- At 1st level, archon eidolons gain the [[rangoric-srd/class-options/evolutions/Resistance (Evolution)|resistance]] (electricity) evolution and the [[rangoric-srd/class-options/evolutions/Skilled (Evolution)|skilled]] (Intimidation) evolution. They also gain a +4 bonus on defenses against poison.
 - At 4th level, archon eidolons add 1 point to their evolution pools.
 - At 8th level, archon eidolons gain the [[rangoric-srd/class-options/evolutions/Ability Increase (Evolution)|ability increase]] evolution, applied to an ability score the summoner chooses.
 - At 12th level, archon eidolons gain DR 5/evil. They also gain immunity to petrification and the truespeech ability (see the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^archon|archon subtype]]).

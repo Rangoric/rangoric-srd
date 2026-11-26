@@ -26,8 +26,8 @@ Where a level has two spells, the cleric prepares [[rangoric-srd/class-options/d
 
 | Level | Spell                                                    | Brief Description                                                                      |
 | ----- | -------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| 1st   | [[rangoric-srd/spells/Bad Luck\|Bad Luck]]               | Target creature gains a –1 penalty to attack rolls and Reflex saves.                   |
-| 1st   | [[rangoric-srd/spells/Good Luck\|Good Luck]]             | Target creature gains a +1 bonus to attack rolls and Reflex saves.                     |
+| 1st   | [[rangoric-srd/spells/Bad Luck\|Bad Luck]]               | Target creature gains a –1 penalty to attack rolls and Reflex Defense.                 |
+| 1st   | [[rangoric-srd/spells/Good Luck\|Good Luck]]             | Target creature gains a +1 bonus to attack rolls and Reflex Defense.                   |
 | 2nd   | [[rangoric-srd/spells/Disrobe\|Disrobe]]                 | Strip a creature of items worn or carried.                                             |
 | 3rd   | [[rangoric-srd/spells/Luck of the Fey\|Luck of the Fey]] | Target rerolls last die roll and takes new result.                                     |
 | 4th   | [[rangoric-srd/spells/Discern Route\|Discern Route]]     | Learn destination of a fey road.                                                       |

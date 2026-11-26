@@ -26,14 +26,14 @@ The wide open spaces of the prairie, savanna, and steppe are yours to master.
 
 ## Domain Spells
 
-| Level | Spell                                                          | Brief Description                                                          |
-| ----- | -------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| 1st   | [[rangoric-srd/spells/Mount\|Mount]] (M)                       | Summons riding horse for 2 hours/level.                                    |
-| 2nd   | [[rangoric-srd/spells/Chameleon Stride\|Chameleon Stride]]     | Gives a +4 bonus on Stealth checks and concealment.                        |
-| 3rd   | [[rangoric-srd/spells/Haste\|Haste]] (M)                       | One creature/level moves faster, +1 on attack rolls, AC, and Reflex saves. |
-| 4th   | [[rangoric-srd/spells/Aspect of the Stag\|Aspect of the Stag]] | +2 AC against attacks of opportunity and increases speed.                  |
-| 5th   | [[rangoric-srd/spells/Control Winds\|Control Winds]]           | Change wind direction and speed.                                           |
-| 6th   | [[rangoric-srd/spells/Find the Path\|Find the Path]] (F)       | Shows most direct way to a location.                                       |
-| 7th   | [[rangoric-srd/spells/Whirlwind\|Whirlwind]]                   | Cyclone deals damage and can pick up creatures.                            |
-| 8th   | [[rangoric-srd/spells/Animal Shapes\|Animal Shapes]]           | One ally/level polymorphs into chosen animal.                              |
-| 9th   | [[rangoric-srd/spells/World Wave\|World Wave]]                 | Earth moves you across distances.                                          |
+| Level | Spell                                                          | Brief Description                                                            |
+| ----- | -------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| 1st   | [[rangoric-srd/spells/Mount\|Mount]] (M)                       | Summons riding horse for 2 hours/level.                                      |
+| 2nd   | [[rangoric-srd/spells/Chameleon Stride\|Chameleon Stride]]     | Gives a +4 bonus on Stealth checks and concealment.                          |
+| 3rd   | [[rangoric-srd/spells/Haste\|Haste]] (M)                       | One creature/level moves faster, +1 on attack rolls, AC, and Reflex Defense. |
+| 4th   | [[rangoric-srd/spells/Aspect of the Stag\|Aspect of the Stag]] | +2 AC against attacks of opportunity and increases speed.                    |
+| 5th   | [[rangoric-srd/spells/Control Winds\|Control Winds]]           | Change wind direction and speed.                                             |
+| 6th   | [[rangoric-srd/spells/Find the Path\|Find the Path]] (F)       | Shows most direct way to a location.                                         |
+| 7th   | [[rangoric-srd/spells/Whirlwind\|Whirlwind]]                   | Cyclone deals damage and can pick up creatures.                              |
+| 8th   | [[rangoric-srd/spells/Animal Shapes\|Animal Shapes]]           | One ally/level polymorphs into chosen animal.                                |
+| 9th   | [[rangoric-srd/spells/World Wave\|World Wave]]                 | Earth moves you across distances.                                            |

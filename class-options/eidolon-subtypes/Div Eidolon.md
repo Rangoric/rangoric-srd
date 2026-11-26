@@ -24,7 +24,7 @@ _Base Form_: Biped (claws, limbs [arms], limbs [legs]).
 
 _Base Evolutions_:
 
-- Starting at 1st level, div eidolons gain the [[rangoric-srd/class-options/evolutions/Resistance (Evolution)|resistance]] (fire) evolution. They also gain a +4 bonus on saving throws against poison.
+- Starting at 1st level, div eidolons gain the [[rangoric-srd/class-options/evolutions/Resistance (Evolution)|resistance]] (fire) evolution. They also gain a +4 bonus on defenses against poison.
 - At 4th level, div eidolons gain acid resistance 10 and electricity resistance 10.
 - At 8th level, div eidolons add 1 point to their evolution pools and immunity to poison.
 - At 12th level, div eidolons gain DR 5/good. They also gain see in darkness (see the div subtype).

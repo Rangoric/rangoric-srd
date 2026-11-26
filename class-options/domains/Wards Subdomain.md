@@ -21,7 +21,7 @@ _A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [
 
 This power replaces the [[rangoric-srd/class-options/domains/Rune Domain#Granted Powers|spell rune]] power of the [[rangoric-srd/class-options/domains/Rune Domain|Rune]] domain.
 
-**Warding Rune (Su)**: At 6th level, when a creature is damaged by your blast rune, it cannot attack you for a number of rounds equal to 1/2 your cleric level unless it succeeds at a Will save, as per the spell _[[rangoric-srd/spells/Sanctuary|sanctuary]]_. Using this ability is an immediate action when a creature triggers one of your blast runes. The ability does not prevent you from being attacked or affected by area of effect spells or abilities. You can use this ability once per day at 8th level, plus one additional time per day at 14th level and 20th level.
+**Warding Rune (Su)**: At 6th level, when a creature is damaged by your blast rune, it cannot attack you for a number of rounds equal to 1/2 your cleric level if the rune hits its Will, as per the spell _[[rangoric-srd/spells/Sanctuary|sanctuary]]_. Using this ability is an immediate action when a creature triggers one of your blast runes. The ability does not prevent you from being attacked or affected by area of effect spells or abilities. You can use this ability once per day at 8th level, plus one additional time per day at 14th level and 20th level.
 
 ## Replacement Domain Spells
 
