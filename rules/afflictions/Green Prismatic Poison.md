@@ -4,10 +4,10 @@ section: "Rules"
 book: "Core Rulebook"
 affliction-type: "poison"
 delivery: "spell"
-save: "Fortitude (the effect’s DC)"
+attack: "vs Fortitude (the effect’s attack bonus)"
 frequency: "1/round for 6 rounds"
 effect: "death/1 Con"
-cure: "2 consecutive saves"
+cure: "2 consecutive misses"
 based-on:
   - "[[path srd 3.5/afflictions/Green Prismatic Poison|Green Prismatic Poison (PF1)]]"
 status: draft
@@ -18,10 +18,10 @@ tags: [rangoric, rangoric/affliction]
 
 # Green Prismatic Poison
 
-A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. The green ray of _[[rangoric-srd/spells/Prismatic Spray|prismatic spray]]_, the green layer of _[[rangoric-srd/spells/Prismatic Wall|prismatic wall]]_ and _[[rangoric-srd/spells/Prismatic Sphere|prismatic sphere]]_, and the green ray of a [[rangoric-srd/magic-items/weapon-abilities/Prismatic|*prismatic*]] weapon poison with it; the DC is theirs.
+A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. The green ray of _[[rangoric-srd/spells/Prismatic Spray|prismatic spray]]_, the green layer of _[[rangoric-srd/spells/Prismatic Wall|prismatic wall]]_ and _[[rangoric-srd/spells/Prismatic Sphere|prismatic sphere]]_, and the green ray of a [[rangoric-srd/magic-items/weapon-abilities/Prismatic|*prismatic*]] weapon poison with it; the attack bonus is theirs.
 
 - **Type**: poison, spell
-- **Save**: Fortitude; the DC is the effect’s
+- **Attack**: vs Fortitude; the attack bonus is the effect’s
 - **Frequency**: 1/round for 6 rounds
 - **Effect**: death/1 Con damage
-- **Cure**: 2 consecutive saves
+- **Cure**: 2 consecutive misses

@@ -4,12 +4,12 @@ section: "Rules"
 book: "Bestiary 3"
 affliction-type: "disease"
 delivery: "contact"
-save: "Fortitude DC 21"
-save-dc: 21
+attack: "+11 vs Fortitude"
+attack-bonus: 11
 onset: "immediate"
 frequency: "1/day"
 effect: "1d4 Con and fatigued"
-cure: "2 consecutive saves (animals take a –2 penalty on their saves)"
+cure: "2 consecutive misses (animals take a –2 penalty on Fortitude Defense against it)"
 based-on:
   - "[[path srd 3.5/monsters/Nuckelavee|Nuckelavee (PF1)]]"
 status: draft
@@ -23,8 +23,8 @@ tags: [rangoric, rangoric/affliction]
 A disease; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the disease of the [[rangoric-srd/monsters/Nuckelavee|nuckelavee]]'s breath and touch.
 
 - **Type**: disease, contact
-- **Save**: Fortitude DC 21
+- **Attack**: +11 vs Fortitude
 - **Onset**: immediate
 - **Frequency**: 1/day
 - **Effect**: 1d4 Constitution damage and fatigued
-- **Cure**: 2 consecutive saves (animals take a –2 penalty on their saves)
+- **Cure**: 2 consecutive misses (animals take a –2 penalty on Fortitude Defense against it)

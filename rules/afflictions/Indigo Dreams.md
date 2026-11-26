@@ -4,12 +4,12 @@ section: "Rules"
 book: "Ultimate Equipment"
 affliction-type: "poison"
 delivery: "ingested"
-save: "Fortitude DC 13"
-save-dc: 13
+attack: "+3 vs Fortitude"
+attack-bonus: 3
 onset: "10 minutes"
 frequency: "1/minute for 6 minutes"
 effect: "1d3 Wis"
-cure: "2 consecutive saves"
+cure: "2 consecutive misses"
 price: "150 gp"
 based-on:
   - "[[path srd 3.5/rules/ultimate-equipment/gear/Poisons|Poisons (PF1)]]"
@@ -25,9 +25,9 @@ tags: [rangoric, rangoric/affliction]
 A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]].
 
 - **Type**: poison, ingested
-- **Save**: Fortitude DC 13
+- **Attack**: +3 vs Fortitude
 - **Onset**: 10 minutes
 - **Frequency**: 1/minute for 6 minutes
 - **Effect**: 1d3 Wis damage
-- **Cure**: 2 consecutive saves
+- **Cure**: 2 consecutive misses
 - **Price**: 150 gp

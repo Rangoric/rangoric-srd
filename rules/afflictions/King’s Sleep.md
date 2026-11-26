@@ -4,12 +4,12 @@ section: "Rules"
 book: ["Core Rulebook", "Ultimate Equipment"]
 affliction-type: "poison"
 delivery: "ingested"
-save: "Fortitude DC 19"
-save-dc: 19
+attack: "+9 vs Fortitude"
+attack-bonus: 9
 onset: "1 day"
 frequency: "1/day"
 effect: "1 Con drain"
-cure: "2 consecutive saves"
+cure: "2 consecutive misses"
 price: "5,000 gp"
 aliases:
   - "King's Sleep"
@@ -27,9 +27,9 @@ tags: [rangoric, rangoric/affliction]
 A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]].
 
 - **Type**: poison, ingested
-- **Save**: Fortitude DC 19
+- **Attack**: +9 vs Fortitude
 - **Onset**: 1 day
 - **Frequency**: 1/day
 - **Effect**: 1 Con [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]]
-- **Cure**: 2 consecutive saves
+- **Cure**: 2 consecutive misses
 - **Price**: 5,000 gp

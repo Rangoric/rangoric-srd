@@ -4,11 +4,11 @@ section: "Rules"
 book: "Bestiary"
 affliction-type: "poison"
 delivery: "injury"
-save: "Fortitude DC 32"
-save-dc: 32
+attack: "+22 vs Fortitude"
+attack-bonus: 22
 frequency: "1/round for 10 rounds"
 effect: "1d6 Con"
-cure: "3 consecutive saves"
+cure: "3 consecutive misses"
 based-on:
   - "[[path srd 3.5/monsters/Pit Fiend|Pit Fiend (PF1)]]"
 status: draft
@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/affliction]
 A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the [[rangoric-srd/monsters/devil/Pit Fiend|pit fiend]]'s bite.
 
 - **Type**: poison, injury
-- **Save**: Fortitude DC 32
+- **Attack**: +22 vs Fortitude
 - **Frequency**: 1/round for 10 rounds
 - **Effect**: 1d6 Con damage
-- **Cure**: 3 consecutive saves
+- **Cure**: 3 consecutive misses

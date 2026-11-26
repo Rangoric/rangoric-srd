@@ -4,11 +4,11 @@ section: "Rules"
 book: "Bestiary"
 affliction-type: "poison"
 delivery: "injury"
-save: "Fortitude DC 18"
-save-dc: 18
+attack: "+8 vs Fortitude"
+attack-bonus: 8
 frequency: "1/round for 8 rounds"
 effect: "1d2 Con"
-cure: "2 consecutive saves"
+cure: "2 consecutive misses"
 based-on:
   - "[[path srd 3.5/monsters/Phase Spider|Phase Spider (PF1)]]"
 status: draft
@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/affliction]
 A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the [[rangoric-srd/monsters/Phase Spider|phase spider]].
 
 - **Type**: poison, injury
-- **Save**: Fortitude DC 18
+- **Attack**: +8 vs Fortitude
 - **Frequency**: 1/round for 8 rounds
 - **Effect**: 1d2 Con damage
-- **Cure**: 2 consecutive saves
+- **Cure**: 2 consecutive misses

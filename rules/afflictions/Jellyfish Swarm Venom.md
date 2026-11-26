@@ -4,11 +4,11 @@ section: "Rules"
 book: "Bestiary"
 affliction-type: "poison"
 delivery: "injury"
-save: "Fortitude DC 16"
-save-dc: 16
+attack: "+6 vs Fortitude"
+attack-bonus: 6
 frequency: "1/round for 6 rounds"
 effect: "1d4 Dex"
-cure: "2 consecutive saves"
+cure: "2 consecutive misses"
 based-on:
   - "[[path srd 3.5/monsters/Swarm, Jellyfish|Swarm, Jellyfish (PF1)]]"
 status: draft
@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/affliction]
 A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the many stings of the [[rangoric-srd/monsters/jellyfish/Jellyfish Swarm|jellyfish swarm]].
 
 - **Type**: poison, injury
-- **Save**: Fortitude DC 16
+- **Attack**: +6 vs Fortitude
 - **Frequency**: 1/round for 6 rounds
 - **Effect**: 1d4 Dexterity damage
-- **Cure**: 2 consecutive saves
+- **Cure**: 2 consecutive misses
