@@ -22,7 +22,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 targets: "One creature/level, no two of which can be more than 30 ft. apart"
 duration: "1 round/level"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Slow|Slow (3.5)]]"
@@ -42,10 +42,10 @@ _Transmutation_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Targets**: One creature/level, no two of which can be more than 30 ft. apart
 - **Duration**: 1 round/level
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
-An affected creature moves and attacks at a drastically slowed rate. A slowed creature can take only a single move action or standard action each turn, but not both (nor may it take full-round actions). Additionally, it takes a –1 penalty on attack rolls, AC, and Reflex saves. A slowed creature moves at half its normal speed (round down to the next 5-foot increment), which affects the creature’s jumping distance as normal for decreased speed.
+An affected creature moves and attacks at a drastically slowed rate. A slowed creature can take only a single move action or standard action each turn, but not both (nor may it take full-round actions). Additionally, it takes a –1 penalty on attack rolls and to AC and Reflex Defense. A slowed creature moves at half its normal speed (round down to the next 5-foot increment), which affects the creature’s jumping distance as normal for decreased speed.
 
 Multiple slow effects don’t stack. Slow counters and dispels haste.
 

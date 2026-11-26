@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 target: "One creature"
 duration: "Permanent (D)"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -37,7 +37,7 @@ _Necromancy_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Target**: One creature
 - **Duration**: Permanent (D)
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
 The target's throat constricts, giving it the [[rangoric-srd/rules/spellblights/Caster Croak|caster croak]] [[rangoric-srd/rules/spellblights/Spellblights|spellblight]].

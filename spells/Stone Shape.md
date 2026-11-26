@@ -20,7 +20,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Stone or stone object touched, up to 10 cu. ft. + 1 cu. ft./level"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Stone Shape|Stone Shape (3.5)]]"
@@ -40,7 +40,7 @@ _Transmutation \[Earth\]_
 - **Range**: Touch
 - **Target**: Stone or stone object touched, up to 10 cu. ft. + 1 cu. ft./level
 - **Duration**: Instantaneous
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You can form an existing piece of stone into any shape that suits your purpose. While it’s possible to make crude coffers, doors, and so forth with stone shape, fine detail isn’t possible. There is a 30% chance that any shape including moving parts simply doesn’t work.

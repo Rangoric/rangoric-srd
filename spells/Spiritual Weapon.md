@@ -19,7 +19,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 effect: "Magic weapon of force"
 duration: "1 round/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Spiritual Weapon|Spiritual Weapon (3.5)]]"
@@ -39,7 +39,7 @@ _Evocation \[Force\]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Effect**: Magic weapon of force
 - **Duration**: 1 round/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 A weapon made of pure force springs into existence and attacks opponents at a distance, as you direct it, dealing 1d8 force damage per hit, +1 point per three caster levels (maximum +5 at 15th level). The weapon takes the shape of a weapon favored by your deity or a weapon with some spiritual significance or symbolism to you (see below) and has the same threat range and critical multipliers as a real weapon of its form. It strikes the opponent you designate, starting with one attack in the round the spell is cast and continuing each round thereafter on your turn. It uses your base attack bonus (possibly allowing it multiple attacks per round in subsequent rounds) plus your Wisdom modifier as its attack bonus. It strikes as a spell, not as a weapon, so, for example, it can damage creatures that have [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|damage reduction]]. As a force effect, it can strike [[rangoric-srd/rules/Special Abilities and Conditions#^incorporeal|incorporeal]] creatures without the normal miss chance associated with incorporeality. The weapon always strikes from your direction. It does not get a flanking bonus or help a combatant get one. Your feats or combat actions do not affect the weapon. If the weapon goes beyond the spell range, if it goes out of your sight, or if you are not directing it, the weapon returns to you and hovers.

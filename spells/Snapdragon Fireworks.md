@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "Long (400 ft. + 40 ft./level)"
 effect: "Dragon-shaped fireworks"
 duration: "1 round/level"
-saving-throw: "Reflex negates"
+defense: "Reflex"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -38,7 +38,7 @@ _Transmutation \[Fire, Light\]_
 - **Range**: Long (400 ft. + 40 ft./level)
 - **Effect**: Dragon-shaped fireworks
 - **Duration**: 1 round/level
-- **Saving Throw**: Reflex negates
+- **Defense**: Reflex
 - **Spell Resistance**: Yes
 
-A favorite display at halfling midsummer festivals, this spell lets you create fireworks in the shape of tiny dragons. Once per round, as a move action, you may designate a target 5-foot-square within range and launch a pyrotechnic in that direction. The pyrotechnic takes a zigzag path from you to that square, always missing creatures and objects in its path, and detonates in that square with a bang and a colorful burst of fire and light. Creatures in the target square take 1d4 points of fire damage and are dazzled for 1 round (Reflex half, a successful save negates the dazzled condition). Normally when this spell is used as part of a festival, the chosen target is high in the sky to increase visibility and protect observers.
+A favorite display at halfling midsummer festivals, this spell lets you create fireworks in the shape of tiny dragons. Once per round, as a move action, you may designate a target 5-foot-square within range and launch a pyrotechnic in that direction. The pyrotechnic takes a zigzag path from you to that square, always missing creatures and objects in its path, and detonates in that square with a bang and a colorful burst of fire and light. Creatures in the target square take 1d4 points of fire damage and are dazzled for 1 round (vs Reflex; a miss halves the damage and negates the dazzled condition). Normally when this spell is used as part of a festival, the chosen target is high in the sky to increase visibility and protect observers.

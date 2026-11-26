@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 target: "One creature (see text)"
 duration: "1 minute/level"
-saving-throw: "Fortitude negates (see text)"
+defense: "Fortitude (see text)"
 spell-resistance: "Yes"
 book: "Advanced Class Guide"
 based-on:
@@ -36,9 +36,9 @@ _Transmutation_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Target**: One creature (see text)
 - **Duration**: 1 minute/level
-- **Saving Throw**: Fortitude negates (see text)
+- **Defense**: Fortitude (see text)
 - **Spell Resistance**: Yes
 
-The target exudes a strong odor that most predators recognize as the scent of helpless prey. The closest 1d4+1 predatory creatures within 30 feet must succeed at a Will save or start attacking the target (animals with the scent ability are affected if within 60 feet). If the predator is an animal, it can be called away from the target by a handler using the "down" trick or any effect that suspends or dispels emotion or rage effects.
+The target exudes a strong odor that most predators recognize as the scent of helpless prey. The closest 1d4+1 predatory creatures within 30 feet are attacked against Will, and on a hit start attacking the target (animals with the scent ability are affected if within 60 feet). If the predator is an animal, it can be called away from the target by a handler using the "down" trick or any effect that suspends or dispels emotion or rage effects.
 
 This spell has no effect on constructs, undead, or creatures with the unnatural aura ability or effects that repel animals.

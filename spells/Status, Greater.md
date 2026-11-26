@@ -12,7 +12,7 @@ casting-time: "1 standard action"
 range: "Touch"
 targets: "One creature touched/three levels"
 duration: "1 hour/level"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 target: "Creature touched"
 based-on:
@@ -32,13 +32,13 @@ STATUS, GREATER _Divination_
 **Range:** Touch  
 **Targets:** One creature touched/three levels  
 **Duration:** 1 hour/level  
-**Saving Throw:** Will negates (harmless)  
+**Defense:** Will (harmless)  
 **Spell Resistance:** Yes (harmless)  
 As [[rangoric-srd/spells/Status|status]], but you can also cast a limited selection of spells through the link, as if you were touching the target. You can cast any spell that meets the following conditions:
 
 - Level: 0, 1st, or 2nd
 - Range: Touch
 - Target: Creature touched
-- Saving Throw: harmless
+- Defense: harmless
 
 For example, if you become aware (through the greater status spell) that one of your linked companions is dying, you can cast [[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]] to try to revive her.

@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 target: "One creature"
 duration: "Instantaneous"
-saving-throw: "Fortitude half and Reflex (see description)"
+defense: "Fortitude half and Reflex (see description)"
 spell-resistance: "Yes"
 book: "Ultimate Combat"
 based-on:
@@ -36,7 +36,7 @@ _Evocation \[Fire\]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Target**: One creature
 - **Duration**: Instantaneous
-- **Saving Throw**: Fortitude half and Reflex (see description)
+- **Defense**: Fortitude half and Reflex (see description)
 - **Spell Resistance**: Yes
 
-You point your finger at a creature, causing it to spontaneously burst into flame. The target takes 3d6 points of fire damage and catches on fire. A successful Fortitude save reduces this damage by half and prevents the target from catching on fire. Each round on your turn, a burning target can attempt a new save to extinguish the flames (DC equal to the DC of the spell); otherwise it takes another 1d6 fire damage.
+You point your finger at a creature, causing it to spontaneously burst into flame. The target takes 3d6 points of fire damage and catches on fire. A miss against Fortitude reduces this damage by half and prevents the target from catching on fire. Each round on your turn, the flames attack a burning target’s Fortitude again (with the spell’s attack bonus), and a miss extinguishes them; on a hit it takes another 1d6 fire damage.

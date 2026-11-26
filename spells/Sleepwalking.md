@@ -21,7 +21,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "1 hour/level"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Faeries"
 based-on:
@@ -42,7 +42,7 @@ _Enchantment (Compulsion) \[Mind-affecting, Language-Dependent\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature
 - **Duration**: 1 hour/level
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 As _[[rangoric-srd/spells/Suggestion|suggestion]]_, except this spell is cast upon a sleeping target. _Sleepwalking_ creatures react as if under the effects of a _suggestion_ spell, and are awakened by a slap or damage, but not by noise.

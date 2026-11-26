@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 target: "One creature"
 duration: "Instantaneous and see text"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Monster Codex"
 based-on:
@@ -35,7 +35,7 @@ _Abjuration_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Target**: One creature
 - **Duration**: Instantaneous and see text
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 You create a discordant blast of energy that disrupts the target's available magic and transfers knowledge of that magic to you.

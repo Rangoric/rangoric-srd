@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 target: "One creature"
 duration: "1 minute/level"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Faeries"
 based-on:
@@ -38,7 +38,7 @@ _Enchantment (Compulsion)_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Target**: One creature
 - **Duration**: 1 minute/level
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 As per the _[[rangoric-srd/spells/Sleep|sleep]]_ spell, except this spell affects only one creature of up to 4 HD (roll 1d4). If the creature has more HD than the roll, the creature is unaffected.

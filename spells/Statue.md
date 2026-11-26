@@ -14,7 +14,7 @@ casting-time: "1 round"
 range: "Touch"
 target: "Creature touched"
 duration: "1 hour/level (D)"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Statue|Statue (3.5)]]"
@@ -34,7 +34,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: 1 hour/level (D)
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 A statue spell turns the subject to solid stone, along with any garments and equipment worn or carried. In statue form, the subject gains hardness 8. The subject retains its own hit points.

@@ -23,7 +23,7 @@ casting-time: "1 round"
 range: "Medium (100 ft. + 10 ft./level)"
 area: "One or more living creatures within a 10-ft.-radius burst"
 duration: "1 min./level"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Sleep|Sleep (3.5)]]"
@@ -43,7 +43,7 @@ _Enchantment (Compulsion) \[Mind-Affecting\]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Area**: One or more living creatures within a 10-ft.-radius burst
 - **Duration**: 1 min./level
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 A sleep spell causes a magical slumber to come upon 4 Hit Dice of creatures. Creatures with the fewest HD are affected first.

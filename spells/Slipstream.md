@@ -20,7 +20,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "10 minutes/level (D)"
-saving-throw: "Reflex negates (harmless)"
+defense: "Reflex (harmless)"
 spell-resistance: "No"
 based-on:
   - "[[path srd 3.5/spells/Slipstream|Slipstream (PF1)]]"
@@ -40,7 +40,7 @@ _Conjuration (Creation) \[Water\]_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: 10 minutes/level (D)
-- **Saving Throw**: Reflex negates (harmless)
+- **Defense**: Reflex (harmless)
 - **Spell Resistance**: No
 
 You create a low-cresting wave of water that carries the target along the surface of water or the ground. When moving across level ground, the target's speed increases by 10 feet. If going downhill, speed increases by 20 feet instead, but _slipstream_ provides no movement bonus when going uphill. While swimming, the _slipstream_ increases the target's swim speed by 20 feet—if the target does not have a swim speed, this spell grants a swim speed of 20 ft.

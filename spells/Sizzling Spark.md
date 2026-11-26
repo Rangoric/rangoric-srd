@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 targets: "One creature"
 duration: "Instantaneous"
-saving-throw: "Reflex half"
+defense: "Reflex half"
 spell-resistance: "Yes"
 book: "Spells & Magic"
 based-on:
@@ -36,7 +36,7 @@ _Evocation \[Electricity, Fire\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Targets**: One creature
 - **Duration**: Instantaneous
-- **Saving Throw**: Reflex half
+- **Defense**: Reflex half
 - **Spell Resistance**: Yes
 
 The spell creates a mote of sizzling, crackling energy. The caster may throw this energy missile at one target within range as a ranged touch attack. The spell causes 1d6 hit points of damage per caster level (10d6 maximum) to the target. Half of this damage (rounded down) is fire damage, and the remainder is electrical damage.

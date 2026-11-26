@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "Spear-shaped projectile of good energy"
 duration: "Instantaneous (1 round)"
-saving-throw: "Will partial (see text)"
+defense: "Will partial (see text)"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -35,9 +35,9 @@ _Evocation \[Good\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Effect**: Spear-shaped projectile of good energy
 - **Duration**: Instantaneous (1 round)
-- **Saving Throw**: Will partial (see text)
+- **Defense**: Will partial (see text)
 - **Spell Resistance**: Yes
 
 You hurl a pure white or golden spear of light from your holy symbol, affecting any one target within range as a ranged touch attack.
 
-An evil creature struck by the spear takes 1d8 points of damage per two caster levels (maximum 5d8). An evil outsider instead takes 1d6 points of damage per caster level (maximum 10d6) and is blinded for 1 round. A successful Will save reduces the damage to half and negates the blinded effect. This spell deals only half damage to creatures that are neither evil nor good, and they are not blinded. The spear has no effect on good creatures.
+An evil creature struck by the spear takes 1d8 points of damage per two caster levels (maximum 5d8). An evil outsider instead takes 1d6 points of damage per caster level (maximum 10d6) and is blinded for 1 round. The spell attacks Will, and a miss reduces the damage to half and negates the blinded effect. This spell deals only half damage to creatures that are neither evil nor good, and they are not blinded. The spear has no effect on good creatures.

@@ -13,7 +13,7 @@ casting-time: "1 round"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One construct"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Ultimate Magic"
 based-on:
@@ -34,7 +34,7 @@ _Abjuration_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One construct
 - **Duration**: Instantaneous
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You soothe the elemental spirit of a targeted construct, reducing its chance of going berserk by 1d4% per four caster levels (maximum 5d4%). If cast on a construct that has already gone berserk and you are its master, you may immediately roll d% to end the construct's berserk state, it returns to normal functioning, and its berserk chance returns to 0%.
