@@ -15,7 +15,7 @@ full-attack: "Bite +20 melee (4d6+22/19–20 plus grab)"
 space-reach: "20 ft./20 ft."
 special-attacks: "Swallow whole (2d8+11, AC 17, hp 15)"
 special-qualities: "Low-light vision, scent, powerful bite"
-saves: "Fort +15, Ref +12, Will +10"
+defenses: "Fort 25, Ref 22, Will 20"
 abilities: "Str 32, Dex 13, Con 19, Int 2, Wis 15, Cha 10"
 skills: "Perception +37"
 skill-ranks: "Perception 24"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 20 ft./20 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Swallow Whole|Swallow whole]] (2d8+11, AC 17, hp 15)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], powerful bite
-- **Saves**: Fort +15, Ref +12, Will +10
+- **Defenses**: Fort 25, Ref 22, Will 20
 - **Abilities**: Str 32, Dex 13, Con 19, Int 2, Wis 15, Cha 10
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +37
 - **Feats**: [[rangoric-srd/feats/Bleeding Critical|Bleeding Critical]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

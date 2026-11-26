@@ -14,9 +14,9 @@ cmd: "44"
 attack: "Bite +30 melee (1d10+9 plus 2d6 acid) or claw +30 melee (2d6+13/19–20 plus 2d6 acid and grab)"
 full-attack: "Bite +30 melee (1d10+9 plus 2d6 acid) and 2 claws +30 melee (2d6+13/19–20 plus 2d6 acid and grab)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Acid, dread claws, faith-stealing strike (DC 23), spell-like abilities"
-special-qualities: "Darkvision 120 ft., detect good, detect magic, see invisibility, stench (DC 26, 1d6 rounds), heretical soul, damage reduction 10/good and magic, immunity to acid and poison, resistance to cold 10 and fire 10, spell resistance 27"
-saves: "Fort +18, Ref +13, Will +14"
+special-attacks: "Acid, dread claws, faith-stealing strike (+13 vs Will), spell-like abilities"
+special-qualities: "Darkvision 120 ft., detect good, detect magic, see invisibility, stench (+16 vs Fortitude, 1d6 rounds), heretical soul, damage reduction 10/good and magic, immunity to acid and poison, resistance to cold 10 and fire 10, spell resistance 27"
+defenses: "Fort 28, Ref 23, Will 24"
 abilities: "Str 28, Dex 18, Con 23, Int 14, Wis 15, Cha 17"
 skills: "Acrobatics +25, Arcana +13, Athletics +16, Deception +27, Fieldcraft +20, Intimidation +36, Mysticism +20, Sense Motive +26, Stealth +25, Theology +13"
 skill-ranks: "Acrobatics 18, Arcana 8, Athletics 4, Deception 21, Fieldcraft 15, Intimidation 30, Mysticism 15, Sense Motive 21, Stealth 18, Theology 8"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +30 melee (1d10+9 plus 2d6 acid) or claw +30 melee (2d6+13/19–20 plus 2d6 acid and [[rangoric-srd/monsters/abilities/Grab|grab]])
 - **Full Attack**: Bite +30 melee (1d10+9 plus 2d6 acid) and 2 claws +30 melee (2d6+13/19–20 plus 2d6 acid and [[rangoric-srd/monsters/abilities/Grab|grab]])
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Acid (Slimy Demodand)|Acid]], [[rangoric-srd/monsters/abilities/Dread Claws|dread claws]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^demodand|faith-stealing strike]] (DC 23), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., detect good, detect magic, see invisibility, [[rangoric-srd/monsters/abilities/Stench|stench]] (DC 26, 1d6 rounds), [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^demodand|heretical soul]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good and magic, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 27
-- **Saves**: Fort +18, Ref +13, Will +14
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Acid (Slimy Demodand)|Acid]], [[rangoric-srd/monsters/abilities/Dread Claws|dread claws]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^demodand|faith-stealing strike]] (+13 vs Will), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., detect good, detect magic, see invisibility, [[rangoric-srd/monsters/abilities/Stench|stench]] (+16 vs Fortitude, 1d6 rounds), [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^demodand|heretical soul]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good and magic, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 27
+- **Defenses**: Fort 28, Ref 23, Will 24
 - **Abilities**: Str 28, Dex 18, Con 23, Int 14, Wis 15, Cha 17
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +25, [[rangoric-srd/skills/Arcana|Arcana]] +13, [[rangoric-srd/skills/Athletics|Athletics]] +16, [[rangoric-srd/skills/Deception|Deception]] +27, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +20, [[rangoric-srd/skills/Intimidation|Intimidation]] +36, [[rangoric-srd/skills/Mysticism|Mysticism]] +20, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +26, [[rangoric-srd/skills/Stealth|Stealth]] +25, [[rangoric-srd/skills/Theology|Theology]] +13
 - **Feats**: [[rangoric-srd/feats/Bleeding Critical|Bleeding Critical]], [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Greater Vital Strike|Greater Vital Strike]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw), [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
@@ -71,7 +71,7 @@ Slimy demodands speak Abyssal, Celestial and Common.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 16th; concentration +19): Constant—_[[rangoric-srd/spells/Detect Good|detect good]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/See Invisibility|see invisibility]]_; At will—_[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ (DC 15), _[[rangoric-srd/spells/Fear|fear]]_ (DC 17); 3/day—_[[rangoric-srd/spells/Acid Fog|acid fog]]_, _[[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]]_; 1/day—[[rangoric-srd/monsters/abilities/Summon|summon]] (level 6, 1d4 tarry demodands 50%).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 16th; concentration +19): Constant—_[[rangoric-srd/spells/Detect Good|detect good]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/See Invisibility|see invisibility]]_; At will—_[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ (+5 vs Will), _[[rangoric-srd/spells/Fear|fear]]_ (+7 vs Will); 3/day—_[[rangoric-srd/spells/Acid Fog|acid fog]]_, _[[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]]_; 1/day—[[rangoric-srd/monsters/abilities/Summon|summon]] (level 6, 1d4 tarry demodands 50%).
 
 **[[rangoric-srd/monsters/abilities/Acid (Slimy Demodand)|Acid]] (Su)**: A slimy demodand is coated in an ever-dripping layer of acid that deals an extra 2d6 points of acid damage on a successful natural attack. In addition, opponents that successfully strike a slimy demodand with an unarmed strike or natural attack take 2d6 points of acid damage.
 

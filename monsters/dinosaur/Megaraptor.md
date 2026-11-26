@@ -16,7 +16,7 @@ full-attack: "Talons +10 melee (2d6+5) and 2 foreclaws +5 melee (1d4+2) and bite
 space-reach: "10 ft./5 ft."
 special-attacks: "Pounce"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +10, Ref +8, Will +4"
+defenses: "Fort 20, Ref 18, Will 14"
 abilities: "Str 21, Dex 15, Con 21, Int 2, Wis 15, Cha 10"
 skills: "Athletics +18 (+30 jumping), Fieldcraft +15, Perception +15, Stealth +11"
 skill-ranks: "Athletics 2, Fieldcraft 2, Perception 2, Stealth 2"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]]
 - **Special Qualities**: Low-light vision, [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +10, Ref +8, Will +4
+- **Defenses**: Fort 20, Ref 18, Will 14
 - **Abilities**: Str 21, Dex 15, Con 21, Int 2, Wis 15, Cha 10
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +18 (+30 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +15, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +11
 - **Feats**: [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Track|Track]]

@@ -15,7 +15,7 @@ full-attack: "Bite +4 melee (1d4+2) and 2 claws +4 melee (1d3+2)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Blood rage"
 special-qualities: "Low-light vision, scent, ferocity"
-saves: "Fort +6, Ref +5, Will +2"
+defenses: "Fort 16, Ref 15, Will 12"
 abilities: "Str 14, Dex 15, Con 17, Int 2, Wis 12, Cha 9"
 skills: "Escape Artist +6, Perception +10"
 skill-ranks: "Escape Artist 0, Perception 6"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Rage|Blood rage]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Ferocity|ferocity]]
-- **Saves**: Fort +6, Ref +5, Will +2
+- **Defenses**: Fort 16, Ref 15, Will 12
 - **Abilities**: Str 14, Dex 15, Con 17, Int 2, Wis 12, Cha 9
 - **Skills**: [[rangoric-srd/skills/Escape Artist|Escape Artist]] +6, [[rangoric-srd/skills/Perception|Perception]] +10
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

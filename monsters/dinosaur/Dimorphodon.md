@@ -15,7 +15,7 @@ full-attack: "Bite +3 melee (1d6+3 plus poison)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Poison"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +4, Ref +6, Will +1"
+defenses: "Fort 14, Ref 16, Will 11"
 abilities: "Str 15, Dex 17, Con 12, Int 2, Wis 13, Cha 12"
 skills: "Acrobatics +7, Perception +5"
 skill-ranks: "Acrobatics 1, Perception 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +4, Ref +6, Will +1
+- **Defenses**: Fort 14, Ref 16, Will 11
 - **Abilities**: Str 15, Dex 17, Con 12, Int 2, Wis 13, Cha 12
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Perception|Perception]] +5
 - **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]]
@@ -70,4 +70,4 @@ A dimorphodon's wingspan is between 4 and 5 feet long.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; _save_ Fort DC 12; _frequency_ 1/round for 4 rounds; _effect_ 1d2 Str; _cure_ 1 save.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; _attack_ +2 vs Fortitude; _frequency_ 1/round for 4 rounds; _effect_ 1d2 Str; _cure_ 1 miss.

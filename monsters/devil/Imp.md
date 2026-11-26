@@ -16,7 +16,7 @@ full-attack: "Sting +8 melee (1d4 plus poison)"
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "Poison, spell-like abilities"
 special-qualities: "Darkvision 60 ft., detect good, detect magic, see in darkness, fast healing 2, change shape (boar, giant spider, rat, or raven, beast shape I), damage reduction 5/good or silver, immunity to fire and poison, resistance to acid 10 and cold 10"
-saves: "Fort +1, Ref +6, Will +4"
+defenses: "Fort 11, Ref 16, Will 14"
 abilities: "Str 10, Dex 17, Con 10, Int 13, Wis 12, Cha 14"
 skills: "Acrobatics +21, Arcana +7, Deception +8, Mysticism +7, Perception +7, Theology +7"
 skill-ranks: "Acrobatics 11, Arcana 3, Deception 3, Mysticism 3, Perception 3, Theology 3"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., _[[rangoric-srd/spells/Detect Good|detect good]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_, [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 2, [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (boar, giant spider, rat, or raven, beast shape I), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/good or silver, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and cold 10
-- **Saves**: Fort +1, Ref +6, Will +4
+- **Defenses**: Fort 11, Ref 16, Will 14
 - **Abilities**: Str 10, Dex 17, Con 10, Int 13, Wis 12, Cha 14
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +21, [[rangoric-srd/skills/Arcana|Arcana]] +7, [[rangoric-srd/skills/Deception|Deception]] +8, [[rangoric-srd/skills/Mysticism|Mysticism]] +7, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Theology|Theology]] +7
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -78,6 +78,6 @@ Imps speak Common and Infernal.
 
 Imps are craven, but not so timid as to pass up an opportunity for a surprise attack using their [[rangoric-srd/spells/Invisibility|invisibility]] and [[rangoric-srd/monsters/abilities/Change Shape|change shape]] ability. In its natural form, an imp attacks with the wicked stinger on its tail. It quickly flies out of reach if a foe manages to strike back effectively.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th): Constant—_[[rangoric-srd/spells/Detect Good|detect good]], [[rangoric-srd/spells/Detect Magic|detect magic]]_; At will—_[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only); 1/day—_[[rangoric-srd/spells/Augury|augury]]_, _[[rangoric-srd/spells/Suggestion|suggestion]]_ (DC 15); 1/week—_[[rangoric-srd/spells/Commune|commune]]_ (6 questions, CL 12th).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th): Constant—_[[rangoric-srd/spells/Detect Good|detect good]], [[rangoric-srd/spells/Detect Magic|detect magic]]_; At will—_[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only); 1/day—_[[rangoric-srd/spells/Augury|augury]]_, _[[rangoric-srd/spells/Suggestion|suggestion]]_ (+5 vs Will); 1/week—_[[rangoric-srd/spells/Commune|commune]]_ (6 questions, CL 12th).
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Imp Venom|Imp Venom]]: Sting—injury; _save_ Fort DC 13; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Dex; _cure_ 1 save. The save DC is Constitution-based, and includes a +2 racial bonus.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Imp Venom|Imp Venom]]: Sting—injury; _attack_ +3 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Dex; _cure_ 1 miss. The attack bonus is Constitution-based, and includes a +2 racial bonus.

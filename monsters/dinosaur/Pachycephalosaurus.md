@@ -15,7 +15,7 @@ full-attack: "Slam +8 melee (2d6+9)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Clobbering charge"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +7, Ref +6, Will +2"
+defenses: "Fort 17, Ref 16, Will 12"
 abilities: "Str 22, Dex 15, Con 17, Int 2, Wis 12, Cha 5"
 skills: "Perception +8, Stealth +2"
 skill-ranks: "Perception 4, Stealth 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: Clobbering charge
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +7, Ref +6, Will +2
+- **Defenses**: Fort 17, Ref 16, Will 12
 - **Abilities**: Str 22, Dex 15, Con 17, Int 2, Wis 12, Cha 5
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +2
 - **Feats**: [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Run|Run]]
@@ -68,4 +68,4 @@ Pachycephalosauruses grow to a length of 15 feet and weigh 1,400 pounds.
 
 ### Combat
 
-**Clobbering Charge (Ex)**: When a pachycephalosaurus hits a target with its slam attack at the end of a charge, it can initiate a bull rush as a free action to move the struck target back in the same direction as the dinosaur's charge. The pachycephalosaurus cannot move with the target of the bull rush. If a pachycephalosaurus scores a critical hit against a creature with its slam attack at the end of a charge, it also staggers the target for 1 round. If the victim succeeds at a DC 18 Fortitude save, the stagger effect is negated, but the victim still suffers the effects of the dinosaur's bull rush attempt. The save DC is Strength-based.
+**Clobbering Charge (Ex)**: When a pachycephalosaurus hits a target with its slam attack at the end of a charge, it can initiate a bull rush as a free action to move the struck target back in the same direction as the dinosaur's charge. The pachycephalosaurus cannot move with the target of the bull rush. If a pachycephalosaurus scores a critical hit against a creature with its slam attack at the end of a charge, it also staggers the target for 1 round. The stagger attacks the victim at +8 vs Fortitude, and a miss negates it, but the victim still suffers the effects of the dinosaur's bull rush attempt. The attack bonus is Strength-based.

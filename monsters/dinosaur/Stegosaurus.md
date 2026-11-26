@@ -15,7 +15,7 @@ full-attack: "Tail +16 melee (4d6+12 plus trip)"
 space-reach: "15 ft./15 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +13, Ref +10, Will +5"
+defenses: "Fort 23, Ref 20, Will 15"
 abilities: "Str 27, Dex 14, Con 17, Int 2, Wis 13, Cha 10"
 skills: "Perception +16"
 skill-ranks: "Perception 12"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./15 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +13, Ref +10, Will +5
+- **Defenses**: Fort 23, Ref 20, Will 15
 - **Abilities**: Str 27, Dex 14, Con 17, Int 2, Wis 13, Cha 10
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +16
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (tail)

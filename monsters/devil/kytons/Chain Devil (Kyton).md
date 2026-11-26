@@ -16,7 +16,7 @@ full-attack: "4 chains +11 melee (2d4+2)"
 space-reach: "5 ft/5 ft. (10 ft. with chains)"
 special-attacks: "Dancing chains, unnerving gaze"
 special-qualities: "Darkvision 60 ft., regeneration 2 (good weapons and spells, silver weapons), chain armor, damage reduction 5/silver or good, immunity to cold, spell resistance 17"
-saves: "Fort +8, Ref +9, Will +3"
+defenses: "Fort 18, Ref 19, Will 13"
 abilities: "Str 15, Dex 17, Con 14, Int 11, Wis 12, Cha 12"
 skills: "Acrobatics +14, Athletics +13, Craft (blacksmithing) +11, Escape Artist +14, Intimidation +12, Perception +15"
 skill-ranks: "Acrobatics 8, Athletics 8, Craft (blacksmithing) 8, Escape Artist 8, Intimidation 8, Perception 10"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft/5 ft. (10 ft. with chains)
 - **Special Attacks**: Dancing chains, unnerving [[rangoric-srd/monsters/abilities/Gaze|gaze]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 2 (good weapons and spells, silver weapons), chain armor, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/silver or good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 17
-- **Saves**: Fort +8, Ref +9, Will +3
+- **Defenses**: Fort 18, Ref 19, Will 13
 - **Abilities**: Str 15, Dex 17, Con 14, Int 11, Wis 12, Cha 12
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Craft|Craft]] (blacksmithing) +11, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Perception|Perception]] +15
 - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (chain), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -78,6 +78,6 @@ A chain devil attacks by flailing away with the spiked chains that serve as its 
 
 **Chain Armor (Ex)**: The chains that adorn a kyton grant it a +4 armor bonus, but are not treated as armor for the purpose of arcane spell failure, armor check penalties, maximum Dexterity, weight, or proficiency.
 
-**Dancing Chains (Su)**: A kyton can control up to four chains within 20 feet as a standard action, making the chains dance or move as it wishes. In addition, a kyton can increase these chains' length by up to 15 feet and cause them to sprout razor-edged barbs. These chains attack as effectively as the kyton itself. If a chain is in another creature's possession, the creature can attempt a DC 15 Will save to break the kyton's power over that chain. If the save is successful, the kyton cannot attempt to control that particular chain again for 24 hours or until the chain leaves the creature's possession. A kyton can climb chains it controls at its normal speed without making Athletics checks. The save DC is Charisma-based.
+**Dancing Chains (Su)**: A kyton can control up to four chains within 20 feet as a standard action, making the chains dance or move as it wishes. In addition, a kyton can increase these chains' length by up to 15 feet and cause them to sprout razor-edged barbs. These chains attack as effectively as the kyton itself. If a chain is in another creature's possession, the kyton's control attacks the creature at +5 vs Will, and a miss breaks its power over that chain. On a miss, the kyton cannot attempt to control that particular chain again for 24 hours or until the chain leaves the creature's possession. A kyton can climb chains it controls at its normal speed without making Athletics checks. The attack bonus is Charisma-based.
 
-**Unnerving Gaze (Su)**: Range 30 ft., Will DC 15 negates. A kyton can make its face resemble one of an opponent's departed loved ones or bitter enemies. Those who fail their saves become [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1d3 rounds. This is a mind-affecting fear effect. The save DC is Charisma-based.
+**Unnerving Gaze (Su)**: Range 30 ft., +5 vs Will. A kyton can make its face resemble one of an opponent's departed loved ones or bitter enemies. Those it hits become [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1d3 rounds. This is a mind-affecting fear effect. The attack bonus is Charisma-based.

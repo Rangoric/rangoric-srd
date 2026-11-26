@@ -15,7 +15,7 @@ full-attack: "Bite +18 melee (3d6+13/19–20 plus grab) and tail slap +13 melee 
 space-reach: "20 ft./15 ft."
 special-attacks: "Death roll (3d6+19 plus trip), swallow whole (3d6+13, AC 16, 13 hp)"
 special-qualities: "Low-light vision, hold breath"
-saves: "Fort +15, Ref +8, Will +8"
+defenses: "Fort 25, Ref 18, Will 18"
 abilities: "Str 37, Dex 10, Con 25, Int 1, Wis 14, Cha 2"
 skills: "Athletics +21, Perception +14, Stealth +0 (+8 in water)"
 skill-ranks: "Athletics 5, Perception 9, Stealth 9"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 20 ft./15 ft.
 - **Special Attacks**: Death roll (3d6+19 plus [[rangoric-srd/monsters/abilities/Trip|trip]]), [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (3d6+13, AC 16, 13 hp)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]]
-- **Saves**: Fort +15, Ref +8, Will +8
+- **Defenses**: Fort 25, Ref 18, Will 18
 - **Abilities**: Str 37, Dex 10, Con 25, Int 1, Wis 14, Cha 2
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +21, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +0 (+8 in water)
 - **Feats**: [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception, Stealth)

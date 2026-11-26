@@ -14,9 +14,9 @@ cmd: "13 (can't be tripped)"
 attack: "Gore +4 melee (1d4–1 plus bleed)"
 full-attack: "Gore +4 melee (1d4–1 plus bleed)"
 space-reach: "2-1/2 ft./0 ft."
-special-attacks: "Bleed (1d2), unnerving gaze (30 ft., DC 9), spell-like abilities"
+special-attacks: "Bleed (1d2), unnerving gaze (30 ft., +-1 vs Will), spell-like abilities"
 special-qualities: "Darkvision 60 ft., deathwatch, regeneration 2 (good weapons and spells, silver weapons), damage reduction 5/good or silver, immunity to cold"
-saves: "Fort +2, Ref +8, Will +4"
+defenses: "Fort 12, Ref 18, Will 14"
 abilities: "Str 8, Dex 17, Con 12, Int 13, Wis 12, Cha 7"
 skills: "Acrobatics +15, Deception +4, Escape Artist +9, Intimidation +4, Perception +7, Sense Motive +7, Sleight of Hand +9, Stealth +17"
 skill-ranks: "Acrobatics 5, Deception 3, Escape Artist 3, Intimidation 3, Perception 3, Sense Motive 3, Sleight of Hand 3, Stealth 3"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Gore +4 melee (1d4–1 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]])
 - **Full Attack**: Gore +4 melee (1d4–1 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]])
 - **Space/Reach**: 2-1/2 ft./0 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (1d2), [[rangoric-srd/monsters/abilities/Unnerving Gaze (Augur Kyton)|unnerving gaze]] (30 ft., DC 9), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (1d2), [[rangoric-srd/monsters/abilities/Unnerving Gaze (Augur Kyton)|unnerving gaze]] (30 ft., +-1 vs Will), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., deathwatch, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 2 (good weapons and spells, silver weapons), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/good or silver, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold
-- **Saves**: Fort +2, Ref +8, Will +4
+- **Defenses**: Fort 12, Ref 18, Will 14
 - **Abilities**: Str 8, Dex 17, Con 12, Int 13, Wis 12, Cha 7
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Deception|Deception]] +4, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +4, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +17
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
@@ -77,6 +77,6 @@ Augur kytons understand Common and Infernal but can't speak.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th; concentration +4): Constant—_[[rangoric-srd/spells/Deathwatch|deathwatch]]_; At will—_[[rangoric-srd/spells/Bleed|bleed]]_ (DC 8), _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Open-Close|open/close]]_; 3/day—_[[rangoric-srd/spells/Inflict Light Wounds|inflict light wounds]]_ (DC 9); 1/week—_[[rangoric-srd/spells/Commune|commune]]_ (CL 12th, 6 questions).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th; concentration +4): Constant—_[[rangoric-srd/spells/Deathwatch|deathwatch]]_; At will—_[[rangoric-srd/spells/Bleed|bleed]]_ (−2 vs Will), _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Open-Close|open/close]]_; 3/day—_[[rangoric-srd/spells/Inflict Light Wounds|inflict light wounds]]_ (−1 vs Will); 1/week—_[[rangoric-srd/spells/Commune|commune]]_ (CL 12th, 6 questions).
 
 **[[rangoric-srd/monsters/abilities/Unnerving Gaze (Augur Kyton)|Unnerving Gaze]] (Ex)**: A creature that succumbs to an augur's unnerving gaze becomes [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1 round.

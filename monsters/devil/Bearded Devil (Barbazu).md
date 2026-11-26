@@ -16,7 +16,7 @@ full-attack: "Glaive +11/+6 melee (1d10+6 plus infernal wound); or 2 claws +10 m
 space-reach: "5 ft./5 ft. (10 ft. with glaive)"
 special-attacks: "Beard, battle frenzy, spell-like abilities"
 special-qualities: "Darkvision 60 ft., see in darkness, telepathy 100 ft., damage reduction 5/good or silver, immunity to fire and poison, resistance to acid 10 and cold 10, spell resistance 16"
-saves: "Fort +9, Ref +7, Will +3"
+defenses: "Fort 19, Ref 17, Will 13"
 abilities: "Str 19, Dex 15, Con 19, Int 6, Wis 12, Cha 10"
 skills: "Athletics +13, Intimidation +7, Perception +10, Sense Motive +6, Stealth +11"
 skill-ranks: "Athletics 6, Intimidation 4, Perception 6, Sense Motive 2, Stealth 6"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft. (10 ft. with glaive)
 - **Special Attacks**: Beard, battle frenzy, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/good or silver, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and cold 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 16
-- **Saves**: Fort +9, Ref +7, Will +3
+- **Defenses**: Fort 19, Ref 17, Will 13
 - **Abilities**: Str 19, Dex 15, Con 19, Int 6, Wis 12, Cha 10
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +11
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (glaive)
@@ -78,10 +78,10 @@ Bearded devils are aggressive and love to fight. They revel in their battle fren
 
 **[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th): At will—_[[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (self plus 50 lbs. of objects only); 1/day—[[rangoric-srd/monsters/abilities/Summon|summon]] (level 3, 1 [[rangoric-srd/monsters/devil/Bearded Devil (Barbazu)|bearded devil]] or 6 [[rangoric-srd/monsters/devil/Lemure|lemures]], 50%).
 
-**Beard (Ex)**: If a bearded devil hits a single opponent with both claw attacks, it also lashes at the same target with its spiky, filthy beard. The victim takes 1d8+2 points of damage and must succeed on a DC 17 Fortitude save or contract devil chills. The save DC is Constitution-based.
+**Beard (Ex)**: If a bearded devil hits a single opponent with both claw attacks, it also lashes at the same target with its spiky, filthy beard. The victim takes 1d8+2 points of damage and is attacked at +7 vs Fortitude, and on a hit contracts devil chills. The attack bonus is Constitution-based.
 
-[[rangoric-srd/rules/afflictions/Devil Chills|Devil Chills]]: Beard—injury; _save_ Fort DC 17; _onset_ 1d4 days; _frequency_ 1/day; _effect_ 1d4 Str damage; _cure_ 3 consecutive saves.
+[[rangoric-srd/rules/afflictions/Devil Chills|Devil Chills]]: Beard—injury; _attack_ +7 vs Fortitude; _onset_ 1d4 days; _frequency_ 1/day; _effect_ 1d4 Str damage; _cure_ 3 consecutive misses.
 
-**Battle Frenzy (Ex)**: Twice per day, a bearded devil can work itself into a battle frenzy similar to the barbarian’s rage (+4 Strength, +4 Constitution, +2 morale bonus on Will saves, –2 AC penalty). The frenzy lasts for 6 rounds, and the bearded devil suffers no ill effects afterward.
+**Battle Frenzy (Ex)**: Twice per day, a bearded devil can work itself into a battle frenzy similar to the barbarian’s rage (+4 Strength, +4 Constitution, +2 morale bonus on Will Defense, –2 AC penalty). The frenzy lasts for 6 rounds, and the bearded devil suffers no ill effects afterward.
 
 **Infernal Wound (Su)**: The damage a bearded devil deals with its glaive inflicts persistent wounds that cause 2 points of bleed damage. Bleed caused from an infernal wound is particularly difficult to stanch—a DC 17 Medicine check stops the damage, and any attempt to heal a creature suffering from an infernal wound must succeed on a DC 16 caster level check or the spell does not function. Success indicates the healing works normally and stops all bleed effects on the victim. The infernal wounds caused by a bearded devil are a supernatural ability of the devil, not of the weapon.

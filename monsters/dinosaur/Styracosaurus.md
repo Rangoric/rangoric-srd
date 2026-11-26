@@ -15,7 +15,7 @@ full-attack: "Gore +11 melee (2d8+9)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Powerful charge (gore, 4d8+9), reflexive strike"
 special-qualities: "Low-light vision, scent, ferocity"
-saves: "Fort +10, Ref +6, Will +5"
+defenses: "Fort 20, Ref 16, Will 15"
 abilities: "Str 22, Dex 13, Con 17, Int 2, Wis 12, Cha 7"
 skills: "Perception +11"
 skill-ranks: "Perception 7"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Powerful Charge|Powerful charge]] (gore, 4d8+9), reflexive strike
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Ferocity|ferocity]]
-- **Saves**: Fort +10, Ref +6, Will +5
+- **Defenses**: Fort 20, Ref 16, Will 15
 - **Abilities**: Str 22, Dex 13, Con 17, Int 2, Wis 12, Cha 7
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +11
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (gore)

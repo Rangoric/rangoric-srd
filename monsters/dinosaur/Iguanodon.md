@@ -15,7 +15,7 @@ full-attack: "2 claws +13 melee (1d8+8/×3)"
 space-reach: "15 ft./15 ft."
 special-attacks: "Thumb spikes"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +10, Ref +8, Will +4"
+defenses: "Fort 20, Ref 18, Will 14"
 abilities: "Str 27, Dex 14, Con 19, Int 2, Wis 12, Cha 7"
 skills: "Perception +12, Stealth +4"
 skill-ranks: "Perception 8, Stealth 7"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./15 ft.
 - **Special Attacks**: Thumb spikes
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +10, Ref +8, Will +4
+- **Defenses**: Fort 20, Ref 18, Will 14
 - **Abilities**: Str 27, Dex 14, Con 19, Int 2, Wis 12, Cha 7
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +4
 - **Feats**: [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)

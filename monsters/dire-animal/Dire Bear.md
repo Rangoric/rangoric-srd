@@ -15,7 +15,7 @@ full-attack: "2 claws +13 melee (1d6+7 plus grab) and bite +13 melee (1d8+7)"
 space-reach: "10 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +12, Ref +8, Will +4"
+defenses: "Fort 22, Ref 18, Will 14"
 abilities: "Str 25, Dex 13, Con 21, Int 2, Wis 12, Cha 10"
 skills: "Athletics +19, Perception +12"
 skill-ranks: "Athletics 5, Perception 8"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +12, Ref +8, Will +4
+- **Defenses**: Fort 22, Ref 18, Will 14
 - **Abilities**: Str 25, Dex 13, Con 21, Int 2, Wis 12, Cha 10
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +19, [[rangoric-srd/skills/Perception|Perception]] +12
 - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

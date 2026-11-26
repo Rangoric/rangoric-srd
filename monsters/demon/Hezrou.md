@@ -14,9 +14,9 @@ cmd: "29"
 attack: "Bite +17 melee (4d4+8 plus grab) or claw +17 melee (1d8+8 plus grab)"
 full-attack: "Bite +17 melee (4d4+8 plus grab) and 2 claws +17 melee (1d8+8 plus grab)"
 space-reach: "10 ft./10 ft."
-special-attacks: "Stench (DC 24, 10 rounds), nausea, spell-like abilities"
+special-attacks: "Stench (+14 vs Fortitude, 10 rounds), nausea, spell-like abilities"
 special-qualities: "Darkvision 60 ft., telepathy 100 ft., amphibious, damage reduction 10/good, immunity to electricity and poison, resistance to acid 10, cold 10 and fire 10, spell resistance 22"
-saves: "Fort +16, Ref +3, Will +9"
+defenses: "Fort 26, Ref 13, Will 19"
 abilities: "Str 27, Dex 11, Con 29, Int 14, Wis 14, Cha 18"
 skills: "Arcana +15, Athletics +29, Escape Artist +10, Intimidation +14, Mysticism +15, Perception +23, Stealth +9"
 skill-ranks: "Arcana 10, Athletics 18, Escape Artist 7, Intimidation 7, Mysticism 10, Perception 10, Stealth 10"
@@ -50,9 +50,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +17 melee (4d4+8 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or claw +17 melee (1d8+8 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
 - **Full Attack**: Bite +17 melee (4d4+8 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 claws +17 melee (1d8+8 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
 - **Space/Reach**: 10 ft./10 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Stench|Stench]] (DC 24, 10 rounds), nausea, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Stench|Stench]] (+14 vs Fortitude, 10 rounds), nausea, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, cold 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 22
-- **Saves**: Fort +16, Ref +3, Will +9
+- **Defenses**: Fort 26, Ref 13, Will 19
 - **Abilities**: Str 27, Dex 11, Con 29, Int 14, Wis 14, Cha 18
 - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +29, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Mysticism|Mysticism]] +15, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Stealth|Stealth]] +9
 - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]]
@@ -76,6 +76,6 @@ A hezrou is about 8 feet tall and weighs about 750 pounds.
 
 Hezrous enjoy melee combat even more than vrocks do. They eagerly press an attack deep into the heart of enemy forces, so their stench can take effect as quickly as possible. They enter most battles by using [[rangoric-srd/spells/Blasphemy|blasphemy]], and follow it with an occasional [[rangoric-srd/spells/Chaos Hammer|chaos hammer]] or [[rangoric-srd/spells/Unholy Blight|unholy blight]], depending on the alignment of their opponents.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 13th): At will—_[[rangoric-srd/spells/Chaos Hammer|chaos hammer]]_ (DC 18), _[[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (self plus 50 lbs. of objects only), _[[rangoric-srd/spells/Unholy Blight|unholy blight]]_ (DC 18); 3/day—_[[rangoric-srd/spells/Gaseous Form|gaseous form]]_; 1/day—_[[rangoric-srd/spells/Blasphemy|blasphemy]]_ (DC 21), [[rangoric-srd/monsters/abilities/Summon|summon]] (level 4, 1 [[rangoric-srd/monsters/demon/Hezrou|hezrou]] 35%).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 13th): At will—_[[rangoric-srd/spells/Chaos Hammer|chaos hammer]]_ (+8 vs Will), _[[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (self plus 50 lbs. of objects only), _[[rangoric-srd/spells/Unholy Blight|unholy blight]]_ (+8 vs Will); 3/day—_[[rangoric-srd/spells/Gaseous Form|gaseous form]]_; 1/day—_[[rangoric-srd/spells/Blasphemy|blasphemy]]_ (+11 vs Will), [[rangoric-srd/monsters/abilities/Summon|summon]] (level 4, 1 [[rangoric-srd/monsters/demon/Hezrou|hezrou]] 35%).
 
-**Nausea (Ex)**: The noxious vapors and foul fluids that constantly weep and seethe from a hezrou's body are particularly heinous to those the creature grapples. Each round a creature is grappled by a hezrou, the grappled foe must make a DC 24 Fortitude save to avoid becoming [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]]. A creature nauseated in this manner remains nauseated until he succeeds on a DC 24 Fortitude save, or until a minute has passed during which he is not grappled by the hezrou, whichever condition comes first. The save DC is Constitution-based.
+**Nausea (Ex)**: The noxious vapors and foul fluids that constantly weep and seethe from a hezrou's body are particularly heinous to those the creature grapples. Each round a creature is grappled by a hezrou, the nausea attacks the grappled foe at +14 vs Fortitude, and on a hit it becomes [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]]. A creature nauseated in this manner remains nauseated until the nausea attacks him again (each round) and misses, or until a minute has passed during which he is not grappled by the hezrou, whichever condition comes first. The attack bonus is Constitution-based.

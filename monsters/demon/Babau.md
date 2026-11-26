@@ -16,7 +16,7 @@ full-attack: "2 claws +12 melee (1d6+5) and bite +12 melee (1d6+5); or longspear
 space-reach: "5 ft./5 ft. (10 ft. with longspear)"
 special-attacks: "Sneak attack +2d6, spell-like abilities"
 special-qualities: "Darkvision 60 ft., see invisibility, telepathy 100 ft., protective slime, damage reduction 10/cold iron or good, immunity to electricity and poison, resistance to acid 10, cold 10 and fire 10, spell resistance 17"
-saves: "Fort +10, Ref +6, Will +5"
+defenses: "Fort 20, Ref 16, Will 15"
 abilities: "Str 21, Dex 13, Con 20, Int 14, Wis 13, Cha 16"
 skills: "Acrobatics +11, Athletics +12, Engineering +11, Escape Artist +11, Perception +19, Sense Motive +11, Sleight of Hand +11, Stealth +22"
 skill-ranks: "Acrobatics 7, Athletics 4, Engineering 7, Escape Artist 7, Perception 7, Sense Motive 7, Sleight of Hand 7, Stealth 10"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft. (10 ft. with longspear)
 - **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +2d6, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., _[[rangoric-srd/spells/See Invisibility|see invisibility]]_, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., protective slime, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron or good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, cold 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 17
-- **Saves**: Fort +10, Ref +6, Will +5
+- **Defenses**: Fort 20, Ref 16, Will 15
 - **Abilities**: Str 21, Dex 13, Con 20, Int 14, Wis 13, Cha 16
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +12, [[rangoric-srd/skills/Engineering|Engineering]] +11, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +11, [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +22
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
@@ -78,4 +78,4 @@ Babaus are sneaky and sly. They attack the most powerful foe first, hoping to el
 
 **[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 7th): Constant—_[[rangoric-srd/spells/See Invisibility|see invisibility]]_; At will—_[[rangoric-srd/spells/Darkness|darkness]], [[rangoric-srd/spells/Dispel Magic|dispel magic]], [[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (self plus 50 lbs. of objects only); 1/day—[[rangoric-srd/monsters/abilities/Summon|summon]] (level 3, 1 [[rangoric-srd/monsters/demon/Babau|babau]] at 40%).
 
-**Protective Slime (Su)**: A layer of acidic slime coats a babau's skin. Any creature that strikes a babau with a natural attack or unarmed strike takes 1d8 points of acid damage from this slime if it fails a DC 18 Reflex save. A creature that strikes a babau with a melee weapon must make a DC 18 Reflex save or the weapon takes 1d8 points of acid damage; if this damage penetrates the weapon's hardness, the weapon gains the broken condition. Ammunition that strikes a babau is automatically destroyed after it inflicts its damage.
+**Protective Slime (Su)**: A layer of acidic slime coats a babau's skin. Any creature that strikes a babau with a natural attack or unarmed strike takes 1d8 points of acid damage from this slime if the slime hits it at +8 vs Reflex. A creature that strikes a babau with a melee weapon is attacked at +8 vs Reflex, and on a hit the weapon takes 1d8 points of acid damage; if this damage penetrates the weapon's hardness, the weapon gains the broken condition. Ammunition that strikes a babau is automatically destroyed after it inflicts its damage.

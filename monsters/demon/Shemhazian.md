@@ -16,7 +16,7 @@ full-attack: "Bite +25 melee (2d6+12 plus 2d4 Strength drain) and 2 claws +25 me
 space-reach: "20 ft./20 ft. (30 ft. with tail slap)"
 special-attacks: "Paralyzing gaze, rend (2 claws, 2d6+18), spell-like abilities"
 special-qualities: "Darkvision 60 ft., detect good, scent, true seeing, telepathy 100 ft., damage reduction 10/cold iron and good, immunity to electricity and poison, resistance to acid 10, cold 10 and fire 10, spell resistance 27"
-saves: "Fort +19, Ref +11, Will +18"
+defenses: "Fort 29, Ref 21, Will 28"
 abilities: "Str 35, Dex 19, Con 29, Int 10, Wis 26, Cha 16"
 skills: "Acrobatics +2, Athletics +20, Deception +23, Intimidation +23, Medicine +28, Perception +36, Sense Motive +28, Theology +20"
 skill-ranks: "Acrobatics 1, Athletics 5, Deception 17, Intimidation 17, Medicine 17, Perception 17, Sense Motive 17, Theology 17"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 20 ft./20 ft. (30 ft. with tail slap)
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Paralyzing Gaze|Paralyzing gaze]], [[rangoric-srd/monsters/abilities/Rend|rend]] (2 claws, 2d6+18), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect good, [[rangoric-srd/monsters/abilities/Scent|scent]], true seeing, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron and good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, cold 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 27
-- **Saves**: Fort +19, Ref +11, Will +18
+- **Defenses**: Fort 29, Ref 21, Will 28
 - **Abilities**: Str 35, Dex 19, Con 29, Int 10, Wis 26, Cha 16
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +2, [[rangoric-srd/skills/Athletics|Athletics]] +20, [[rangoric-srd/skills/Deception|Deception]] +23, [[rangoric-srd/skills/Intimidation|Intimidation]] +23, [[rangoric-srd/skills/Medicine|Medicine]] +28, [[rangoric-srd/skills/Perception|Perception]] +36, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +28, [[rangoric-srd/skills/Theology|Theology]] +20
 - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
@@ -71,8 +71,8 @@ Shemhazians speak Abyssal, Celestial and Draconic.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 15th; concentration +18): Constant—_[[rangoric-srd/spells/Detect Good|detect good]]_, _[[rangoric-srd/spells/Fly|fly]]_, _[[rangoric-srd/spells/True Seeing|true seeing]]_; At will—_[[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (self plus 50 lbs. of objects only), _[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Telekinesis|telekinesis]]_ (DC 18); 3/day—_[[rangoric-srd/spells/Clairaudience-Clairvoyance|clairaudience/clairvoyance]]_, _[[rangoric-srd/spells/Inflict Serious Wounds, Mass|mass inflict serious wounds]]_ (DC 20), _[[rangoric-srd/spells/Prying Eyes|prying eyes]]_; 1/day—_[[rangoric-srd/spells/Blasphemy|blasphemy]]_ (DC 20), [[rangoric-srd/monsters/abilities/Summon|summon]] (level 5, 1 shemhazian 30% or 1d4 vrocks 60%).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 15th; concentration +18): Constant—_[[rangoric-srd/spells/Detect Good|detect good]]_, _[[rangoric-srd/spells/Fly|fly]]_, _[[rangoric-srd/spells/True Seeing|true seeing]]_; At will—_[[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (self plus 50 lbs. of objects only), _[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Telekinesis|telekinesis]]_ (+8 vs Will); 3/day—_[[rangoric-srd/spells/Clairaudience-Clairvoyance|clairaudience/clairvoyance]]_, _[[rangoric-srd/spells/Inflict Serious Wounds, Mass|mass inflict serious wounds]]_ (+10 vs Will), _[[rangoric-srd/spells/Prying Eyes|prying eyes]]_; 1/day—_[[rangoric-srd/spells/Blasphemy|blasphemy]]_ (+10 vs Will), [[rangoric-srd/monsters/abilities/Summon|summon]] (level 5, 1 shemhazian 30% or 1d4 vrocks 60%).
 
-**[[rangoric-srd/monsters/abilities/Paralyzing Gaze|Paralyzing Gaze]] (Su)**: Paralysis for 1 round, 30 feet, Fortitude DC 21 negates. Evil creatures are immune to this effect. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Paralyzing Gaze|Paralyzing Gaze]] (Su)**: Paralysis for 1 round, 30 feet, +11 vs Fortitude. Evil creatures are immune to this effect. The attack bonus is Charisma-based.
 
-**Strength Drain (Su)**: A shemhazian demon deals 2d4 points of Strength drain with each successful bite. A DC 27 Fortitude save reduces this amount to 1d4 points of Strength damage. The save DC is Constitution-based.
+**Strength Drain (Su)**: A shemhazian demon deals 2d4 points of Strength drain with each successful bite. It attacks at +17 vs Fortitude, and a miss reduces this amount to 1d4 points of Strength damage. The attack bonus is Constitution-based.

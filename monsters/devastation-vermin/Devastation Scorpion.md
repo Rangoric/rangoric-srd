@@ -16,7 +16,7 @@ full-attack: "Claw 10d10+14, sting 8d10+7 plus poison"
 space-reach: "50 ft./40 ft."
 special-attacks: "Improved grab, squeeze, poison"
 special-qualities: "Darkvision 300 ft., SR 50, DR 15/-"
-saves: "Fort +77, Ref +54, Will +42"
+defenses: "Fort 87, Ref 64, Will 52"
 abilities: "Str 38, Dex 35, Con 32, Int -, Wis 10, Cha 2"
 skills: "Athletics +153 (+181 jumping), Perception +8, Stealth +4"
 skill-ranks: "Athletics 128, Perception 0, Stealth 0"
@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 50 ft./40 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Grab|Improved grab]], squeeze, [[rangoric-srd/monsters/abilities/Poison|poison]]
 - **Special Qualities**: Darkvision 300 ft., [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 50, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 15/-
-- **Saves**: Fort +77, Ref +54, Will +42
+- **Defenses**: Fort 87, Ref 64, Will 52
 - **Abilities**: Str 38, Dex 35, Con 32, Int -, Wis 10, Cha 2
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +153 (+181 jumping), [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +4
 - **Climate/Terrain**: Any land
@@ -61,6 +61,6 @@ Improved Grab (Ex): To use this ability, the devastation scorpion must hit with 
 
 Squeeze (Ex): A devastation scorpion that gets a hold on a Gargantuan or smaller opponent automatically deals damage with both claws and its sting.
 
-Poison (Ex): Sting, Fort save (DC 95); initial and secondary damage 2d12 temporary Str.
+Poison (Ex): Sting, +85 vs Fortitude; initial and secondary damage 2d12 temporary Str.
 
 Skills: Devastation scorpions receive a +4 racial bonus on [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Stealth|Stealth]], and [[rangoric-srd/skills/Perception|Perception]] checks.

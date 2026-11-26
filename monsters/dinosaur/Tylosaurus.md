@@ -15,7 +15,7 @@ full-attack: "Bite +15 melee (2d8+18 plus grab)"
 space-reach: "15 ft./15 ft."
 special-attacks: "Swallow whole (2d6+12 bludgeoning, AC 16, hp 10)"
 special-qualities: "Low-light vision, darkvision 60 ft."
-saves: "Fort +15, Ref +8, Will +4"
+defenses: "Fort 25, Ref 18, Will 14"
 abilities: "Str 34, Dex 13, Con 22, Int 2, Wis 13, Cha 9"
 skills: "Athletics +20, Perception +14"
 skill-ranks: "Athletics 5, Perception 10"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./15 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Swallow Whole|Swallow whole]] (2d6+12 bludgeoning, AC 16, hp 10)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft.
-- **Saves**: Fort +15, Ref +8, Will +4
+- **Defenses**: Fort 25, Ref 18, Will 14
 - **Abilities**: Str 34, Dex 13, Con 22, Int 2, Wis 13, Cha 9
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +20, [[rangoric-srd/skills/Perception|Perception]] +14
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]]

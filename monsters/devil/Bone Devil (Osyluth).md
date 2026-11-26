@@ -14,9 +14,9 @@ cmd: "31"
 attack: "Bite +14 melee (1d8+5) or 2 claws +14 melee (1d6+5) or sting +14 melee (3d4+5 plus poison)"
 full-attack: "Bite +14 melee (1d8+5) and 2 claws +14 melee (1d6+5) and sting +14 melee (3d4+5 plus poison)"
 space-reach: "10 ft./10 ft."
-special-attacks: "Fear aura (5 ft., DC 19, 1d6 rounds), poison, spell-like abilities"
+special-attacks: "Fear aura (5 ft., +9 vs Will, 1d6 rounds), poison, spell-like abilities"
 special-qualities: "Darkvision 60 ft., see in darkness, telepathy 100 ft., damage reduction 10/good, immunity to fire and poison, resistance to acid 10 and cold 10, spell resistance 20"
-saves: "Fort +12, Ref +12, Will +7"
+defenses: "Fort 22, Ref 22, Will 17"
 abilities: "Str 21, Dex 21, Con 20, Int 16, Wis 15, Cha 18"
 skills: "Acrobatics +21, Deception +17, Intimidation +17, Mysticism +16, Perception +21, Persuasion +17, Sense Motive +15, Stealth +14, Theology +16"
 skill-ranks: "Acrobatics 15, Deception 10, Intimidation 10, Mysticism 10, Perception 14, Persuasion 10, Sense Motive 14, Stealth 10, Theology 10"
@@ -50,9 +50,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +14 melee (1d8+5) or 2 claws +14 melee (1d6+5) or sting +14 melee (3d4+5 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
 - **Full Attack**: Bite +14 melee (1d8+5) and 2 claws +14 melee (1d6+5) and sting +14 melee (3d4+5 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
 - **Space/Reach**: 10 ft./10 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Fear|Fear]] aura (5 ft., DC 19, 1d6 rounds), [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Fear|Fear]] aura (5 ft., +9 vs Will, 1d6 rounds), [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and cold 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 20
-- **Saves**: Fort +12, Ref +12, Will +7
+- **Defenses**: Fort 22, Ref 22, Will 17
 - **Abilities**: Str 21, Dex 21, Con 20, Int 16, Wis 15, Cha 18
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +21, [[rangoric-srd/skills/Deception|Deception]] +17, [[rangoric-srd/skills/Intimidation|Intimidation]] +17, [[rangoric-srd/skills/Mysticism|Mysticism]] +16, [[rangoric-srd/skills/Perception|Perception]] +21, [[rangoric-srd/skills/Persuasion|Persuasion]] +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +14, [[rangoric-srd/skills/Theology|Theology]] +16
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Quicken Spell-Like Ability|Quicken Spell-Like Ability]] (invisibility), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -76,6 +76,6 @@ Bone devils speak Celestial, Common, Draconic and Infernal.
 
 Bone devils hate all other creatures and attack ruthlessly. They freely use [[rangoric-srd/spells/Wall of Ice|wall of ice]] to keep the enemy divided.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th): Constant—_[[rangoric-srd/spells/Fly|fly]]_; At will—_[[rangoric-srd/spells/Dimensional Anchor|dimensional anchor]], [[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (self plus 50 lbs. of objects only), _[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only), _[[rangoric-srd/spells/Major Image|major image]]_ (DC 17), _[[rangoric-srd/spells/Wall of Ice|wall of ice]]_; 3/day—quickened _[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only); 1/day—[[rangoric-srd/monsters/abilities/Summon|summon]] (level 4, 1 [[rangoric-srd/monsters/devil/Bone Devil (Osyluth)|bone devil]], 35%).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th): Constant—_[[rangoric-srd/spells/Fly|fly]]_; At will—_[[rangoric-srd/spells/Dimensional Anchor|dimensional anchor]], [[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (self plus 50 lbs. of objects only), _[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only), _[[rangoric-srd/spells/Major Image|major image]]_ (+7 vs Will), _[[rangoric-srd/spells/Wall of Ice|wall of ice]]_; 3/day—quickened _[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only); 1/day—[[rangoric-srd/monsters/abilities/Summon|summon]] (level 4, 1 [[rangoric-srd/monsters/devil/Bone Devil (Osyluth)|bone devil]], 35%).
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Bone Devil Venom|Bone Devil Venom]]: Sting—injury; _save_ Fort DC 20; _frequency_ 1/round for 6 rounds; _effect_ 1d3 Str damage; _cure_ 2 consecutive saves. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Bone Devil Venom|Bone Devil Venom]]: Sting—injury; _attack_ +10 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d3 Str damage; _cure_ 2 consecutive misses. The attack bonus is Constitution-based.

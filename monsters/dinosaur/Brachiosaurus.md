@@ -13,9 +13,9 @@ cmd: "40 (44 vs. trip)"
 attack: "Tail +22 melee (4d6+19)"
 full-attack: "Tail +22 melee (4d6+19)"
 space-reach: "20 ft./20 ft."
-special-attacks: "Trample (2d6+19, DC 32)"
+special-attacks: "Trample (2d6+19, +22 vs Reflex)"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +18, Ref +11, Will +9"
+defenses: "Fort 28, Ref 21, Will 19"
 abilities: "Str 37, Dex 10, Con 21, Int 2, Wis 13, Cha 10"
 skills: "Perception +28"
 skill-ranks: "Perception 24"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Tail +22 melee (4d6+19)
 - **Full Attack**: Tail +22 melee (4d6+19)
 - **Space/Reach**: 20 ft./20 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Trample|Trample]] (2d6+19, DC 32)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Trample|Trample]] (2d6+19, +22 vs Reflex)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +18, Ref +11, Will +9
+- **Defenses**: Fort 28, Ref 21, Will 19
 - **Abilities**: Str 37, Dex 10, Con 21, Int 2, Wis 13, Cha 10
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +28
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Greater Overrun|Greater Overrun]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (tail)

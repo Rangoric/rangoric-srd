@@ -15,7 +15,7 @@ full-attack: "Bite +6 melee (1d6+4) and 2 claws +6 melee (1d4+4)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Rend (2 claws, 1d4+6)"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +7, Ref +6, Will +4"
+defenses: "Fort 17, Ref 16, Will 14"
 abilities: "Str 19, Dex 15, Con 16, Int 2, Wis 12, Cha 7"
 skills: "Acrobatics +6, Athletics +16, Perception +8, Stealth +2"
 skill-ranks: "Acrobatics 1, Athletics 9, Perception 4, Stealth 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rend|Rend]] (2 claws, 1d4+6)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +7, Ref +6, Will +4
+- **Defenses**: Fort 17, Ref 16, Will 14
 - **Abilities**: Str 19, Dex 15, Con 16, Int 2, Wis 12, Cha 7
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +16, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +2
 - **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

@@ -14,9 +14,9 @@ cmd: "36"
 attack: "+1 frost spear +21 melee (2d6+10/×3 plus 1d6 cold plus slow) or bite +14 melee (2d6+6) or tail +14 melee (3d6+3 plus slow)"
 full-attack: "+1 frost spear +21/+16/+11 melee (2d6+10/×3 plus 1d6 cold plus slow) and bite +14 melee (2d6+6) and tail +14 melee (3d6+3 plus slow)"
 space-reach: "10 ft./10 ft."
-special-attacks: "Fear (10 ft., DC 22), spell-like abilities"
+special-attacks: "Fear (10 ft., +12 vs Will), spell-like abilities"
 special-qualities: "Darkvision 60 ft., see in darkness, regeneration 5 (good weapons, good spells), telepathy 100 ft., damage reduction 10/good, immunity to fire, cold and poison, resistance to acid 10, spell resistance 24"
-saves: "Fort +15, Ref +14, Will +12"
+defenses: "Fort 25, Ref 24, Will 22"
 abilities: "Str 23, Dex 21, Con 22, Int 25, Wis 22, Cha 20"
 skills: "Acrobatics +22, Deception +22, Fieldcraft +23, Intimidation +19, Knowledge skills (any three others) +21, Mysticism +21, Perception +29, Persuasion +22, Sense Motive +23, Stealth +18, Theology +24"
 skill-ranks: "Acrobatics 14, Deception 14, Fieldcraft 14, Intimidation 11, Knowledge skills (any three others) 11, Mysticism 11, Perception 18, Persuasion 14, Sense Motive 18, Stealth 14, Theology 14"
@@ -50,9 +50,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: +1 frost spear +21 melee (2d6+10/×3 plus 1d6 cold plus slow) or bite +14 melee (2d6+6) or tail +14 melee (3d6+3 plus slow)
 - **Full Attack**: +1 frost spear +21/+16/+11 melee (2d6+10/×3 plus 1d6 cold plus slow) and bite +14 melee (2d6+6) and tail +14 melee (3d6+3 plus slow)
 - **Space/Reach**: 10 ft./10 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Fear|Fear]] (10 ft., DC 22), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Fear|Fear]] (10 ft., +12 vs Will), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (good weapons, good spells), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, cold and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 24
-- **Saves**: Fort +15, Ref +14, Will +12
+- **Defenses**: Fort 25, Ref 24, Will 22
 - **Abilities**: Str 23, Dex 21, Con 22, Int 25, Wis 22, Cha 20
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +22, [[rangoric-srd/skills/Deception|Deception]] +22, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +23, [[rangoric-srd/skills/Intimidation|Intimidation]] +19, [[rangoric-srd/skills/Knowledge|Knowledge skills]] (any three others) +21, [[rangoric-srd/skills/Mysticism|Mysticism]] +21, [[rangoric-srd/skills/Perception|Perception]] +29, [[rangoric-srd/skills/Persuasion|Persuasion]] +22, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +23, [[rangoric-srd/skills/Stealth|Stealth]] +18, [[rangoric-srd/skills/Theology|Theology]] +24
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (spear), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -76,6 +76,6 @@ Ice devils speak Celestial, Common, Draconic and Infernal.
 
 An ice devil prefers to fight only when doing so serves its mission, but it never hesitates to attack when it deems a battle necessary—or likely to end in its victory.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 13th): Constant—_[[rangoric-srd/spells/Fly|fly]]_; At will—_[[rangoric-srd/spells/Cone of Cold|cone of cold]]_ (DC 20), _[[rangoric-srd/spells/Ice Storm|ice storm]]_, _[[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (self plus 50 lbs. of objects only), _[[rangoric-srd/spells/Persistent Image|persistent image]]_ (DC 20), _[[rangoric-srd/spells/Wall of Ice|wall of ice]]_ (DC 19); 1/day—[[rangoric-srd/monsters/abilities/Summon|summon]] (level 4, 2 [[rangoric-srd/monsters/devil/Bone Devil (Osyluth)|bone devils]], 50%).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 13th): Constant—_[[rangoric-srd/spells/Fly|fly]]_; At will—_[[rangoric-srd/spells/Cone of Cold|cone of cold]]_ (+10 vs Reflex), _[[rangoric-srd/spells/Ice Storm|ice storm]]_, _[[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (self plus 50 lbs. of objects only), _[[rangoric-srd/spells/Persistent Image|persistent image]]_ (+10), _[[rangoric-srd/spells/Wall of Ice|wall of ice]]_ (+9 vs Reflex); 1/day—[[rangoric-srd/monsters/abilities/Summon|summon]] (level 4, 2 [[rangoric-srd/monsters/devil/Bone Devil (Osyluth)|bone devils]], 50%).
 
-**Slow (Su)**: A hit from an ice devil's tail or spear induces numbing cold. The opponent must succeed on a DC 23 Fortitude save or be affected as though by a _[[rangoric-srd/spells/Slow|slow]]_ spell for 1d6 rounds. This effect comes from the devil in the case of its weapon; it is not a quality possessed by the spear itself. The save DC is Constitution-based.
+**Slow (Su)**: A hit from an ice devil's tail or spear induces numbing cold. The opponent is attacked at +13 vs Fortitude, and on a hit is affected as though by a _[[rangoric-srd/spells/Slow|slow]]_ spell for 1d6 rounds. This effect comes from the devil in the case of its weapon; it is not a quality possessed by the spear itself. The attack bonus is Constitution-based.

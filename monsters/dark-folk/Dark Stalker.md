@@ -16,7 +16,7 @@ full-attack: "2 short swords +6/+6 melee (1d6+2/19–20 plus poison)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Death throes, sneak attack (+3d6), poison, spell-like abilities"
 special-qualities: "See in darkness, poison use, light blindness"
-saves: "Fort +4, Ref +9, Will +2"
+defenses: "Fort 14, Ref 19, Will 12"
 abilities: "Str 14, Dex 18, Con 14, Int 9, Wis 11, Cha 13"
 skills: "Athletics +10, Perception +8, Sleight of Hand +5, Stealth +8"
 skill-ranks: "Athletics 1, Perception 1, Sleight of Hand 1, Stealth 0"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Death throes, [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|sneak attack]] (+3d6), [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/See in Darkness|See in darkness]], [[rangoric-srd/races/racial-traits/Poison Use|poison use]], [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]]
-- **Saves**: Fort +4, Ref +9, Will +2
+- **Defenses**: Fort 14, Ref 19, Will 12
 - **Abilities**: Str 14, Dex 18, Con 14, Int 9, Wis 11, Cha 13
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +8
 - **Feats**: [[rangoric-srd/feats/Double Slice|Double Slice]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -77,8 +77,8 @@ Dark stalkers speak Dark Folk and Undercommon.
 
 **[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th): At will—_[[rangoric-srd/spells/Deeper Darkness|deeper darkness]], [[rangoric-srd/spells/Detect Magic|detect magic]], [[rangoric-srd/spells/Fog Cloud|fog cloud]]_.
 
-**Death Throes (Su)**: When a dark stalker is slain, its body combusts in a flash of white-hot flame. This acts like a _[[rangoric-srd/spells/Fireball|fireball]]_ that deals 3d6 points of fire damage to all creatures within a 20-foot-radius burst. A DC 15 Reflex save halves this damage. A dark stalker's gear and treasure are unaffected by this explosion. This save is Constitution-based.
+**Death Throes (Su)**: When a dark stalker is slain, its body combusts in a flash of white-hot flame. This acts like a _[[rangoric-srd/spells/Fireball|fireball]]_ that deals 3d6 points of fire damage to all creatures within a 20-foot-radius burst. It attacks at +5 vs Reflex, and a miss halves this damage. A dark stalker's gear and treasure are unaffected by this explosion. This attack bonus is Constitution-based.
 
-**[[rangoric-srd/races/racial-traits/Poison Use|Poison Use]] (Ex)**: Dark stalkers are skilled in the use of poison and never risk accidentally poisoning themselves. Like their diminutive kin, the [[rangoric-srd/monsters/dark-folk/Dark Creeper|dark creepers]], dark stalkers use black poison on their weapons and generally carry six doses on them. The poison DC is Constitution-based. [[rangoric-srd/rules/afflictions/Black Smear|Black Smear]]: Weapon—injury; _save_ Fort DC 15; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Str; _cure_ 1 save.
+**[[rangoric-srd/races/racial-traits/Poison Use|Poison Use]] (Ex)**: Dark stalkers are skilled in the use of poison and never risk accidentally poisoning themselves. Like their diminutive kin, the [[rangoric-srd/monsters/dark-folk/Dark Creeper|dark creepers]], dark stalkers use black poison on their weapons and generally carry six doses on them. The poison DC is Constitution-based. [[rangoric-srd/rules/afflictions/Black Smear|Black Smear]]: Weapon—injury; _attack_ +5 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Str; _cure_ 1 miss.
 
 **See in Darkness (Su)**: A dark stalker can see perfectly in darkness of any kind, including that created by deeper darkness.

@@ -16,7 +16,7 @@ full-attack: "Masterwork halberd +10 melee (1d10+4/×3 plus disease) and gore +3
 space-reach: "5 ft./5 ft."
 special-attacks: "Powerful charge (gore, 3d6+4), disease, spell-like abilities"
 special-qualities: "Darkvision 60 ft., see invisibility, telepathy 100 ft., damage reduction 5/cold iron or good, immunity to disease, electricity and poison, resistance to acid 10, cold 10 and fire 10, spell resistance 15"
-saves: "Fort +6, Ref +3, Will +3"
+defenses: "Fort 16, Ref 13, Will 13"
 abilities: "Str 17, Dex 14, Con 15, Int 8, Wis 5, Cha 6"
 skills: "Acrobatics +10, Athletics +11 (+19 jumping), Fieldcraft +2, Intimidation +6, Perception +13"
 skill-ranks: "Acrobatics 5, Athletics 5, Fieldcraft 2, Intimidation 5, Perception 5"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Powerful Charge|Powerful charge]] (gore, 3d6+4), [[rangoric-srd/monsters/abilities/Disease|disease]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., see invisibility, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron or good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease, electricity and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, cold 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 15
-- **Saves**: Fort +6, Ref +3, Will +3
+- **Defenses**: Fort 16, Ref 13, Will 13
 - **Abilities**: Str 17, Dex 14, Con 15, Int 8, Wis 5, Cha 6
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +11 (+19 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +2, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Perception|Perception]] +13
 - **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (halberd)
@@ -77,4 +77,4 @@ Schirs speak Abyssal.
 
 **[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th; concentration +4): Constant—_[[rangoric-srd/spells/See Invisibility|see invisibility]]_, _[[rangoric-srd/spells/Tongues|tongues]]_; 3/day—_[[rangoric-srd/spells/Arcane Lock|arcane lock]]_, _[[rangoric-srd/spells/Expeditious Retreat|expeditious retreat]]_, _[[rangoric-srd/spells/Protection from Good|protection from good]]_; 1/day—[[rangoric-srd/monsters/abilities/Summon|summon]] (level 2, 1d3 schirs 20%).
 
-**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Ex)**: A schir gnaws constantly at the ends of its halberd. This infuses the blades with disease from the demon's filthy spittle. Any creature struck by a schir's halberd must succeed at a DC 15 Fortitude save or contract gray pox—a frightening disease that causes weakness, gray splotches on the skin, and eventual catatonia. [[rangoric-srd/rules/afflictions/Gray Pox|Gray Pox]]: Halberd—injury; _save_ Fort DC 15; _onset_ 1 day; _frequency_ 1/day; _effect_ 1d6 Str damage; _cure_ 2 consecutive saves. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Ex)**: A schir gnaws constantly at the ends of its halberd. This infuses the blades with disease from the demon's filthy spittle. Any creature struck by a schir's halberd is attacked at +5 vs Fortitude, and on a hit contracts gray pox—a frightening disease that causes weakness, gray splotches on the skin, and eventual catatonia. [[rangoric-srd/rules/afflictions/Gray Pox|Gray Pox]]: Halberd—injury; _attack_ +5 vs Fortitude; _onset_ 1 day; _frequency_ 1/day; _effect_ 1d6 Str damage; _cure_ 2 consecutive misses. The attack bonus is Constitution-based.
