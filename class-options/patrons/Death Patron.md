@@ -19,7 +19,7 @@ _A [[rangoric-srd/classes/Witch#^witch-patron|witch’s patron]]. At each level 
 | Witch Level | Spell                                                                              | Brief Description                                  |
 | ----------- | ---------------------------------------------------------------------------------- | -------------------------------------------------- |
 | 2nd         | [[rangoric-srd/spells/Deathwatch\|Deathwatch]]                                     | Reveals how near death subjects within 30 ft. are. |
-| 4th         | [[rangoric-srd/spells/Blessing of Courage and Life\|Blessing of Courage and Life]] | Grants a +2 bonus on saves vs. fear and death.     |
+| 4th         | [[rangoric-srd/spells/Blessing of Courage and Life\|Blessing of Courage and Life]] | Grants a +2 bonus on defenses vs. fear and death.  |
 | 6th         | [[rangoric-srd/spells/Speak with Dead\|Speak with Dead]]                           | Corpse answers one question/two levels.            |
 | 8th         | [[rangoric-srd/spells/Rest Eternal\|Rest Eternal]]                                 | Dead creature cannot be revived.                   |
 | 10th        | [[rangoric-srd/spells/Suffocation\|Suffocation]]                                   | Target quickly suffocates to death.                |

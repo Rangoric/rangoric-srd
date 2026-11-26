@@ -28,7 +28,7 @@ A cavalier who belongs to this order has pledged himself to a sovereign; be it a
 
 A cavalier belonging to the order of the lion gains the following abilities as he increases in level.
 
-**Lion's Call (Ex)**: At 2nd level, an order of the lion cavalier gains the ability to rally his allies. As a standard action, he can give an encouraging speech which grants all allies within 60 feet a competence bonus on their saving throws against fear equal to his Charisma modifier and a +1 competence bonus on attack rolls for a number of rounds equal to his cavalier level. If an ally within range is under the effect of a spell or ability that causes him to be frightened or panicked, he can immediately make another saving throw to resist the effect (if allowed).
+**Lion's Call (Ex)**: At 2nd level, an order of the lion cavalier gains the ability to rally his allies. As a standard action, he can give an encouraging speech which grants all allies within 60 feet a competence bonus to their defenses against fear equal to his Charisma modifier and a +1 competence bonus on attack rolls for a number of rounds equal to his cavalier level. If an ally within range is under the effect of a spell or ability that causes him to be frightened or panicked, he can immediately make the effect attack him again, and a miss ends it (if allowed).
 
 **For the King (Ex)**: At 8th level, an order of the lion cavalier can call out to his allies, inspiring them to greatness. As a swift action, the cavalier can grant a competence bonus equal to his Charisma modifier on all attack and damage rolls to all allies within 30 feet. This bonus lasts for 1 round. This ability can be used once per combat.
 

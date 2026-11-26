@@ -19,13 +19,13 @@ tags: [rangoric, rangoric/class-option]
 
 _A legend of [[rangoric-srd/classes/Medium (Class)#^medium-spirit|spirits]] for the [[rangoric-srd/classes/Medium (Class)|medium]]._ A trickster spirit is a savvy and manipulative master of skills.
 
-**Spirit Bonus**: When you channel a trickster, your spirit bonus applies on Dexterity checks, skill checks, and Reflex saves. ^trickster-spirit-bonus
+**Spirit Bonus**: When you channel a trickster, your spirit bonus applies on Dexterity checks, skill checks, and Reflex Defense. ^trickster-spirit-bonus
 
 **Seance Boon**: Choose one skill when you gain this seance boon. You gain a +1 bonus on skill checks using that skill, and that skill counts as a class skill for you. ^trickster-seance-boon
 
 **Favored Locations**: Alleys, mazes, taverns, trap-filled locations.
 
-**Influence Penalty**: You never count as an ally for the purpose of gaining benefits from another creature’s abilities, nor do you count as a willing target for spells. Anyone attempting to target you with a touch range spell, even a beneficial spell, must succeed at a melee touch attack, though you need not attempt saving throws against harmless spells. You gain no benefit from another creature’s [[rangoric-srd/combat/Combat Special Attacks#Aid Another|aid another]] attempts. ^trickster-influence-penalty
+**Influence Penalty**: You never count as an ally for the purpose of gaining benefits from another creature’s abilities, nor do you count as a willing target for spells. Anyone attempting to target you with a touch range spell, even a beneficial spell, must succeed at a melee touch attack, though you can still lower your defenses against harmless spells. You gain no benefit from another creature’s [[rangoric-srd/combat/Combat Special Attacks#Aid Another|aid another]] attempts. ^trickster-influence-penalty
 
 **Taboos**: Choose one: you can’t abide revealing your true identity, and you break this taboo when anyone pierces your disguise, even your own allies; you can never tell the truth; you can never pass up a more lucrative offer, even if it causes you to switch sides. ^trickster-taboos
 

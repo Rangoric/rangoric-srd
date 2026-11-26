@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/class-option]
 
 _A legend of [[rangoric-srd/classes/Medium (Class)#^medium-spirit|spirits]] for the [[rangoric-srd/classes/Medium (Class)|medium]]._ A guardian spirit is an exemplar of protection and defense.
 
-**Spirit Bonus**: When you channel a guardian, your spirit bonus applies to AC and on Constitution checks, Fortitude saves, and Reflex saves. ^guardian-spirit-bonus
+**Spirit Bonus**: When you channel a guardian, your spirit bonus applies to AC, Fortitude Defense, and Reflex Defense, and on Constitution checks. ^guardian-spirit-bonus
 
 **Seance Boon**: You gain a +1 bonus to [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|CMD]]. ^guardian-seance-boon
 

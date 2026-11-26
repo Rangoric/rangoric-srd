@@ -48,4 +48,4 @@ An oracle with the life mystery can choose from any of the following [[rangoric-
 
 ## Final Revelation
 
-Upon reaching 20th level, you become a perfect channel for life energy. You become immune to bleed, death attacks, exhaustion, fatigue, nausea effects, negative levels, and sickened effects. Ability damage and drain cannot reduce you below 1 in any ability score. You automatically make saving throws against massive damage. When you are below 0 hit points, you do not die until your negative total is in excess of twice your Constitution score. ^life-final-revelation
+Upon reaching 20th level, you become a perfect channel for life energy. You become immune to bleed, death attacks, exhaustion, fatigue, nausea effects, negative levels, and sickened effects. Ability damage and drain cannot reduce you below 1 in any ability score. Massive damage automatically misses you. When you are below 0 hit points, you do not die until your negative total is in excess of twice your Constitution score. ^life-final-revelation

@@ -30,7 +30,7 @@ Psychic magic flows through you when you attain a peaceful mental state. Regular
 
 Your stable mind protects you and your allies.
 
-**Mental Placidity (Su)**: As an immediate action, you can gain a +2 bonus on a Will saving throw you are about to attempt. This bonus increases to +4 against an enchantment spell or effect. Any ally who attempts a saving throw against the same effect gains a +1 bonus on the Will save, or a +2 bonus if the effect is an enchantment. If you succeed at the saving throw, you regain 1 point in your phrenic pool. You can use this ability a number of times per day equal to your Wisdom modifier.
+**Mental Placidity (Su)**: As an immediate action, you can gain a +2 bonus to your Will Defense against an attack about to be rolled against it. This bonus increases to +4 against an enchantment spell or effect. Any ally the same effect attacks gains a +1 bonus to Will Defense against it, or a +2 bonus if the effect is an enchantment. If the attack misses you, you regain 1 point in your phrenic pool. You can use this ability a number of times per day equal to your Wisdom modifier.
 
 **Calming Presence (Su)**: At 5th level, you become a calming force. You can use _[[rangoric-srd/spells/Calm Emotions|calm emotions]]_ as a spell-like ability a number of times per day equal to your Wisdom modifier.
 

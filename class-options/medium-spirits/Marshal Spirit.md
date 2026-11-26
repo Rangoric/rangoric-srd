@@ -32,9 +32,9 @@ _A legend of [[rangoric-srd/classes/Medium (Class)#^medium-spirit|spirits]] for 
 
 ## Spirit Powers
 
-**Marshal’s Order (Lesser, Su)**: You can use your spirit surge on attack rolls, saving throws, ability checks, [[rangoric-srd/rules/Concentration (Check)|concentration checks]], and skill checks rolled by you or any allies who participated in your seance as long as you have line of sight and line of effect, and are within 30 feet of the chosen ally. You can still use spirit surge only once per round. ^marshals-order
+**Marshal’s Order (Lesser, Su)**: You can use your spirit surge on attack rolls, defenses, ability checks, [[rangoric-srd/rules/Concentration (Check)|concentration checks]], and skill checks rolled by you or any allies who participated in your seance as long as you have line of sight and line of effect, and are within 30 feet of the chosen ally. You can still use spirit surge only once per round. ^marshals-order
 
-**Inspiring Call (Intermediate, Su)**: As a standard action, you can grant all allies who can see and hear you a competence bonus equal to your spirit bonus on either saving throws or attack and damage rolls. You choose which bonus to grant each time you use inspiring call. This ability lasts for 1 round. If you have the decisive strike greater spirit power, you can use inspiring call as a move action. If you have the legendary marshal supreme spirit power, you can use inspiring call as a swift action. ^inspiring-call
+**Inspiring Call (Intermediate, Su)**: As a standard action, you can grant all allies who can see and hear you a competence bonus equal to your spirit bonus on either defenses or attack and damage rolls. You choose which bonus to grant each time you use inspiring call. This ability lasts for 1 round. If you have the decisive strike greater spirit power, you can use inspiring call as a move action. If you have the legendary marshal supreme spirit power, you can use inspiring call as a swift action. ^inspiring-call
 
 **Decisive Strike (Greater, Su)**: You can allow the marshal to gain 1 point of influence over you as a swift action to allow an ally within 30 feet who can see and hear you to make a single melee or ranged attack during your turn. You can use this ability as a standard action to instead allow the ally to perform any standard action. ^decisive-strike
 

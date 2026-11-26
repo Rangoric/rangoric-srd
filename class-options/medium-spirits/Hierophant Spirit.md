@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/class-option]
 
 _A legend of [[rangoric-srd/classes/Medium (Class)#^medium-spirit|spirits]] for the [[rangoric-srd/classes/Medium (Class)|medium]]._ A hierophant spirit is a being of true and pure faith.
 
-**Spirit Bonus**: When you channel a hierophant, your spirit bonus applies on Wisdom checks, Wisdom-based skill checks, and Will saves. ^hierophant-spirit-bonus
+**Spirit Bonus**: When you channel a hierophant, your spirit bonus applies on Wisdom checks, Wisdom-based skill checks, and Will Defense. ^hierophant-spirit-bonus
 
 **Seance Boon**: Your healing spells and abilities heal an additional 2 points of damage to each target. This does not affect healing conferred by magic items, nor does it add to fast healing or similar effects. ^hierophant-seance-boon
 
@@ -36,6 +36,6 @@ _A legend of [[rangoric-srd/classes/Medium (Class)#^medium-spirit|spirits]] for 
 
 **Energy Font (Intermediate, Su)**: You can [[rangoric-srd/combat/Combat Special Attacks#Channel Energy|channel energy]] a number of times per day equal to 1 + your Charisma modifier. Choose whether you channel positive or negative energy each time you contact a hierophant spirit; this choice must match the spirit’s faith. If you choose positive energy, add _cure_ spells of each level you can cast from the cleric list to your [[rangoric-srd/spells/Medium Spell List|medium spell list]] and spells known. Otherwise, add _inflict_ spells in the same way. These spells count as divine, as in the divine surge spirit power. ^energy-font
 
-**Overflowing Grace (Greater, Su)**: When you heal a creature to full hit points or a creature already at full hit points with your positive or negative energy, that creature gains a +1 sacred bonus on attack rolls, skill checks, ability checks, and saving throws for 1 round. The bonus is sacred if you use positive energy and profane if you use negative energy. If you destroy or kill one or more creatures with positive or negative energy, you gain a +1 bonus of the same type on attack rolls, skill checks, ability checks, and saving throws for 1 round. ^overflowing-grace
+**Overflowing Grace (Greater, Su)**: When you heal a creature to full hit points or a creature already at full hit points with your positive or negative energy, that creature gains a +1 sacred bonus on attack rolls, skill checks, ability checks, and defenses for 1 round. The bonus is sacred if you use positive energy and profane if you use negative energy. If you destroy or kill one or more creatures with positive or negative energy, you gain a +1 bonus of the same type on attack rolls, skill checks, ability checks, and defenses for 1 round. ^overflowing-grace
 
 **Legendary Hierophant (Supreme, Su)**: Once per day, you can request a minor miracle. This request must be in line with the options for _[[rangoric-srd/spells/Miracle|miracle]]_ that don’t cost powdered diamond. As usual for a _miracle_, the deity or other being the spirit worships can choose whether or not to grant the request at its whim. ^legendary-hierophant

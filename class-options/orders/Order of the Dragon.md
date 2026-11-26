@@ -28,7 +28,7 @@ Cavaliers belonging to the order of the dragon dedicate themselves to a group of
 
 A cavalier that belongs to the order of the dragon gains the following abilities as he increases in level.
 
-**Aid Allies (Ex)**: At 2nd level, whenever an order of the dragon cavalier uses the [[rangoric-srd/combat/Combat Special Attacks#Aid Another|aid another]] action to assist one of his allies, the ally receives a +3 bonus to his Armor Class, attack roll, saving throw, or skill check. At 8th level, and every six levels thereafter, this bonus increases by an additional +1.
+**Aid Allies (Ex)**: At 2nd level, whenever an order of the dragon cavalier uses the [[rangoric-srd/combat/Combat Special Attacks#Aid Another|aid another]] action to assist one of his allies, the ally receives a +3 bonus to his Armor Class, attack roll, defense, or skill check. At 8th level, and every six levels thereafter, this bonus increases by an additional +1.
 
 **Strategy (Ex)**: At 8th level, the cavalier can spend a standard action to grant one of a number of bonuses to all allies within 30 feet (including himself). The allies must be able to see or hear the cavalier to receive this bonus. The cavalier can grant a +2 dodge bonus to AC for 1 round, a +2 morale bonus on all attack rolls for 1 round, or the ability to move up to their speed as an immediate action once. The cavalier can grant a different bonus to each ally within range, but allies can only benefit from this ability once per combat.
 

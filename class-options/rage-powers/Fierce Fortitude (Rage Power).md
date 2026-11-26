@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 _A [[rangoric-srd/class-options/rage-powers/Rage Powers|rage power]] (Ex) of the [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|barbarian]] and the [[rangoric-srd/classes/Skald#^skald-rage-powers|skald]]._
 
-The character gains a +4 bonus on saving throws against [[rangoric-srd/rules/Afflictions#Disease|diseases]] and [[rangoric-srd/rules/Afflictions#Poison|poison]].
+The character gains a +4 bonus on defenses against [[rangoric-srd/rules/Afflictions#Disease|diseases]] and [[rangoric-srd/rules/Afflictions#Poison|poison]].
 
 A skald must be trained in [[rangoric-srd/skills/Intimidation|Intimidation]] to select this rage power.

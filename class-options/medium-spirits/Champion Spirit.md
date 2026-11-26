@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/class-option]
 
 _A legend of [[rangoric-srd/classes/Medium (Class)#^medium-spirit|spirits]] for the [[rangoric-srd/classes/Medium (Class)|medium]]._ A champion spirit is a paragon of skill at arms.
 
-**Spirit Bonus**: When you channel a champion, your spirit bonus applies on attack rolls, non-spell damage rolls, Strength checks, Strength-based skill checks, and Fortitude saves. ^champion-spirit-bonus
+**Spirit Bonus**: When you channel a champion, your spirit bonus applies on attack rolls, non-spell damage rolls, Strength checks, Strength-based skill checks, and Fortitude Defense. ^champion-spirit-bonus
 
 **Seance Boon**: You gain a +2 bonus on all non-spell damage rolls. ^champion-seance-boon
 
@@ -28,7 +28,7 @@ _A legend of [[rangoric-srd/classes/Medium (Class)#^medium-spirit|spirits]] for 
 
 **Influence Penalty**: You take a penalty equal to your spirit bonus on Intelligence checks and Intelligence-based skill checks, and to your caster level (to a minimum of caster level 0); as usual, a reduced caster level may render you unable to cast spells. You can’t benefit from effects that increase your caster level. ^champion-influence-penalty
 
-**Taboos**: Choose one: you are superstitious about arcane spellcasting, so you must not be the willing target of arcane spells or abilities and you must attempt a Will saving throw against even harmless arcane spells and abilities; you may not make an attack with any weapon except a specific manufactured weapon (such as "my father’s +2 falchion") that you choose when you take the taboo, and you may not choose unarmed strike for this taboo; you must accept any challenge to prove your prowess in battle, including challenges to single combat—if you or an ally breaks the rules of the challenge, you break this taboo. ^champion-taboos
+**Taboos**: Choose one: you are superstitious about arcane spellcasting, so you must not be the willing target of arcane spells or abilities and you can’t lower your Will Defense against even harmless arcane spells and abilities; you may not make an attack with any weapon except a specific manufactured weapon (such as "my father’s +2 falchion") that you choose when you take the taboo, and you may not choose unarmed strike for this taboo; you must accept any challenge to prove your prowess in battle, including challenges to single combat—if you or an ally breaks the rules of the challenge, you break this taboo. ^champion-taboos
 
 ## Spirit Powers
 

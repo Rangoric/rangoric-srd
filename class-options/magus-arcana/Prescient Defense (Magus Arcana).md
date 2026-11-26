@@ -17,4 +17,4 @@ tags: [rangoric, rangoric/class-option]
 
 _A [[rangoric-srd/classes/Magus#^magus-magus-arcana|magus arcana]] (Su)._
 
-The magus can expend 1 point from his arcane pool as an immediate action after hitting a target with a weapon attack, granting him a premonition of his enemy’s intentions. The magus gains a bonus to his AC and on Reflex saves equal to his Intelligence modifier (minimum 0) against attacks by that opponent until the beginning of his next turn. The magus must be at least 9th level before selecting this arcana.
+The magus can expend 1 point from his arcane pool as an immediate action after hitting a target with a weapon attack, granting him a premonition of his enemy’s intentions. The magus gains a bonus to his AC and Reflex Defense equal to his Intelligence modifier (minimum 0) against attacks by that opponent until the beginning of his next turn. The magus must be at least 9th level before selecting this arcana.

@@ -28,7 +28,7 @@ Cavaliers of the order of the seal are a secretive order, each charged with the 
 
 A cavalier belonging to the order of the seal gains the following abilities as he increases in level.
 
-**Keeper (Ex)**: At 2nd level, once per day the cavalier must select a location, or a secret that he has sworn to protect. If he chooses a location, he gains a +2 morale bonus on attack rolls when directly defending his charge. If he chooses a secret, he gains a +2 morale bonus on saving throws and opposed checks to resist revealing information about his charge. He gains these bonuses until he picks a new object, location, or secret to protect.
+**Keeper (Ex)**: At 2nd level, once per day the cavalier must select a location, or a secret that he has sworn to protect. If he chooses a location, he gains a +2 morale bonus on attack rolls when directly defending his charge. If he chooses a secret, he gains a +2 morale bonus on defenses and opposed checks to resist revealing information about his charge. He gains these bonuses until he picks a new object, location, or secret to protect.
 
 **I Shall Not Be Moved (Ex)**: At 8th level, the cavalier can draw on his dedication to overcome physical weakness. Whenever the cavalier does not move more than a 5-foot step, he receives a +2 dodge bonus to his CMD to resist bull rush, overrun, reposition, and trip combat maneuvers until his next turn.
 

@@ -19,4 +19,4 @@ tags: [rangoric, rangoric/class-option]
 
 _A [[rangoric-srd/classes/Ninja#^ninja-master-tricks|master trick]] (Ex)._
 
-Whenever the ninja throws a smoke bomb, all living creatures in the cloud must make a Fortitude save or be blinded by the black smoke for 1d4 rounds. The DC of this saving throw is equal to 10 + 1/2 the ninja's level + the ninja's Charisma modifier. This trick cannot be combined with a choking bomb, but the ninja can combine a blinding bomb with a poison bomb. The ninja must have the choking bomb ninja trick before selecting this trick.
+Whenever the ninja throws a smoke bomb, the smoke attacks the Fortitude of all living creatures in the cloud, and on a hit they are blinded by the black smoke for 1d4 rounds. The attack bonus is equal to 1/2 the ninja's level + the ninja's Charisma modifier. This trick cannot be combined with a choking bomb, but the ninja can combine a blinding bomb with a poison bomb. The ninja must have the choking bomb ninja trick before selecting this trick.

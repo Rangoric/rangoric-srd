@@ -28,7 +28,7 @@ Cavaliers who join the order of the sword dedicate their lives to the code of ch
 
 An order of the sword cavalier receives the following abilities as he increases in level.
 
-**By My Honor (Ex)**: At 2nd level, the cavalier must select one alignment. As long as he maintains the selected alignment, he receives a +2 morale bonus to one saving throw of his choice.
+**By My Honor (Ex)**: At 2nd level, the cavalier must select one alignment. As long as he maintains the selected alignment, he receives a +2 morale bonus to one defense of his choice.
 
 **Mounted Mastery (Ex)**: At 8th level, the cavalier ignores the armor check penalty when using the [[rangoric-srd/skills/Animal Handling|Animal Handling]] skill to ride, regardless of whether or not the creature he is riding is his mount. Whenever he makes a charge attack while mounted, he receives a +4 dodge bonus to his AC to avoid attacks set against his charge. When making such an attack, he can add his mount's Strength modifier to the damage roll, in addition to his own. He also receives a bonus feat, chosen from the following list: [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Ride-By Attack|Ride-By Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Animal Handling), [[rangoric-srd/feats/Spirited Charge|Spirited Charge]], [[rangoric-srd/feats/Trample|Trample]], or [[rangoric-srd/feats/Unseat|Unseat]]. He must qualify for the feat selected.
 
