@@ -15,7 +15,7 @@ full-attack: "4 tentacles +4 melee (1d4+1 plus rot)"
 space-reach: "5 ft./10 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision, plant traits"
-saves: "Fort +7, Ref +0, Will +1"
+defenses: "Fort 17, Ref 10, Will 11"
 abilities: "Str 12, Dex 8, Con 16, Int —, Wis 11, Cha 9"
 skills: "—"
 skill-ranks: ""
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./10 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
-- **Saves**: Fort +7, Ref +0, Will +1
+- **Defenses**: Fort 17, Ref 10, Will 11
 - **Abilities**: Str 12, Dex 8, Con 16, Int —, Wis 11, Cha 9
 - **Skills**: —
 - **Feats**: —
@@ -73,7 +73,7 @@ Some species of [[rangoric-srd/monsters/fungus/Shrieker|shriekers]] are relative
 
 A violet fungus is 4 feet tall and weighs 50 pounds.
 
-Although a violet fungus's tentacles swiftly grow inert after the mushroom is slain, they can be wielded as Medium-sized whips for 2d6 minutes after being harvested from the creature. These whips inflict rot on anything they touch—including the wielder of the deadly weapon—and both save DCs to resist and effects are identical to the stats presented above.
+Although a violet fungus's tentacles swiftly grow inert after the mushroom is slain, they can be wielded as Medium-sized whips for 2d6 minutes after being harvested from the creature. These whips inflict rot on anything they touch—including the wielder of the deadly weapon—and both attack bonuses and effects are identical to the stats presented above.
 
 A DC 25 Craft (alchemy) check and 250 gp worth of reagents can preserve the venom somewhat, although the procedure dilutes it significantly. The diluted venom is [[rangoric-srd/rules/afflictions/Violet Venom|violet venom]], a poison.
 
@@ -83,4 +83,4 @@ A violet fungi’s coloration ranges from purple overall to dull gray or violet 
 
 A violet fungus flails about with its tentacles at living creatures that come within its reach.
 
-**Rot (Ex)**: A creature struck by a violet fungus's tentacle must succeed on a DC 15 Fortitude save or the flesh around the point of contact swiftly begins to rot away, exposing raw bone with shocking swiftness. This hideous affliction causes 1d4 points of Strength damage and 1d4 points of Constitution damage. This is a poison effect. The save DC is Constitution-based.
+**Rot (Ex)**: A creature struck by a violet fungus's tentacle is attacked at +5 vs Fortitude, and on a hit the flesh around the point of contact swiftly begins to rot away, exposing raw bone with shocking swiftness. This hideous affliction causes 1d4 points of Strength damage and 1d4 points of Constitution damage. This is a poison effect. The attack bonus is Constitution-based.

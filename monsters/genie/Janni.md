@@ -16,7 +16,7 @@ full-attack: "Scimitar +9/+4 melee (1d6+4/18–20)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 60 ft., telepathy 100 ft., elemental endurance, resistance to fire 10"
-saves: "Fort +6, Ref +7, Will +4"
+defenses: "Fort 16, Ref 17, Will 14"
 abilities: "Str 16, Dex 15, Con 12, Int 14, Wis 15, Cha 13"
 skills: "Acrobatics +14, Animal Handling +6, Appraise +11, Craft (any one-usually weaponsmith) +11, Mysticism +11, Perception +11, Sense Motive +11, Stealth +6"
 skill-ranks: "Acrobatics 9, Animal Handling 1, Appraise 6, Craft (any one-usually weaponsmith) 6, Mysticism 6, Perception 6, Sense Motive 6, Stealth 1"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., elemental endurance, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10
-- **Saves**: Fort +6, Ref +7, Will +4
+- **Defenses**: Fort 16, Ref 17, Will 14
 - **Abilities**: Str 16, Dex 15, Con 12, Int 14, Wis 15, Cha 13
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Appraise|Appraise]] +11, [[rangoric-srd/skills/Craft|Craft]] (any one-usually weaponsmith) +11, [[rangoric-srd/skills/Mysticism|Mysticism]] +11, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +6
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]]
@@ -106,6 +106,6 @@ Janni characters possess the following racial traits.
 
 **[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 8th): 3/day—_[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only), _[[rangoric-srd/spells/Plane Shift|plane shift]]_ (willing targets to elemental planes, Astral Plane, or Material Plane only), _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_; 1/day—_[[rangoric-srd/spells/Create Food and Water|create food and water]]_, _[[rangoric-srd/spells/Ethereal Jaunt|ethereal jaunt]]_ (for 1 hour).
 
-**Change Size (Sp)**: Twice per day, a janni can magically change a creature's size. This works just like an _[[rangoric-srd/spells/Enlarge Person|enlarge person]]_ or _[[rangoric-srd/spells/Reduce Person|reduce person]]_ spell (the janni chooses when using the ability), except that the ability can work on the janni. A DC 13 Fortitude save negates the effect. The save DC is Charisma-based. This is the equivalent of a 2nd-level spell.
+**Change Size (Sp)**: Twice per day, a janni can magically change a creature's size. This works just like an _[[rangoric-srd/spells/Enlarge Person|enlarge person]]_ or _[[rangoric-srd/spells/Reduce Person|reduce person]]_ spell (the janni chooses when using the ability), except that the ability can work on the janni. It attacks at +3 vs Fortitude, and a miss negates the effect. The attack bonus is Charisma-based. This is the equivalent of a 2nd-level spell.
 
 **Elemental Endurance (Ex)**: Jann can remain on the Planes of Air, Earth, Fire, or Water for up to 48 hours at a time. Failure to return to the Material Plane before that time expires causes a janni to take 1 point of damage per additional hour spent on the elemental plane, until it dies or returns to the Material Plane.

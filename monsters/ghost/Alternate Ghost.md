@@ -11,12 +11,12 @@ armor-class: "17 (+1 Dex, +1 dodge, +5 deflection), touch 17, flat-footed 15"
 base-attack: "+5"
 cmb: "+5"
 cmd: "22"
-attack: "Corrupting touch +6 melee (7d6, Fort. DC 18 half)"
-full-attack: "Corrupting touch +6 melee (7d6, Fort. DC 18 half)"
+attack: "Corrupting touch +6 melee (7d6, +8 vs Fortitude; a miss halves)"
+full-attack: "Corrupting touch +6 melee (7d6, +8 vs Fortitude; a miss halves)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Frightful moan (DC 18)"
+special-attacks: "Frightful moan (+8 vs Will)"
 special-qualities: "Darkvision 60 ft., channel resistance +4, incorporeal, rejuvenation, undead traits"
-saves: "Fort +7, Ref +5, Will +7"
+defenses: "Fort 17, Ref 15, Will 17"
 abilities: "Str —, Dex 12, Con —, Int 10, Wis 11, Cha 20"
 skills: "Acrobatics +9, Perception +18, Sense Motive +10, Society +10, Stealth +9"
 skill-ranks: "Acrobatics 5, Perception 7, Sense Motive 7, Society 7, Stealth 0"
@@ -54,12 +54,12 @@ tags: [rangoric, rangoric/monster]
 - **Speed**: fly 30 ft. (perfect)
 - **Armor Class**: 17 (+1 Dex, +1 dodge, +5 deflection), touch 17, flat-footed 15
 - **Base Attack**: +5; **CMB**: +5; **CMD**: 22
-- **Attack**: Corrupting touch +6 melee (7d6, Fort. DC 18 half)
-- **Full Attack**: Corrupting touch +6 melee (7d6, Fort. DC 18 half)
+- **Attack**: Corrupting touch +6 melee (7d6, +8 vs Fortitude; a miss halves)
+- **Full Attack**: Corrupting touch +6 melee (7d6, +8 vs Fortitude; a miss halves)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/ghost/Alternate Ghost#^frightful-moan|Frightful moan]] (DC 18)
+- **Special Attacks**: [[rangoric-srd/monsters/ghost/Alternate Ghost#^frightful-moan|Frightful moan]] (+8 vs Will)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]], [[rangoric-srd/monsters/ghost/Alternate Ghost#^rejuvenation|rejuvenation]], [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-- **Saves**: Fort +7, Ref +5, Will +7
+- **Defenses**: Fort 17, Ref 15, Will 17
 - **Abilities**: Str —, Dex 12, Con —, Int 10, Wis 11, Cha 20
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Society|Society]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +9
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Toughness|Toughness]]
@@ -87,7 +87,7 @@ The original items remain behind, just as the ghost's physical remains do. If an
 
 **Challenge Rating**: Same as the base creature +2.
 
-**Type**: The creature's type changes to undead. Do not recalculate the creature's base attack bonus, saves, or skill points. It gains the incorporeal subtype.
+**Type**: The creature's type changes to undead. Do not recalculate the creature's base attack bonus, defenses, or skill points. It gains the incorporeal subtype.
 
 **Armor Class**: A ghost gains a deflection bonus equal to its Charisma modifier. It loses the base creature's natural armor bonus, as well as all armor and shield bonuses not from force effects or _ghost touch_ items.
 
@@ -101,17 +101,17 @@ The original items remain behind, just as the ghost's physical remains do. If an
 
 **Melee and Ranged Attacks**: A ghost loses all of the base creature's attacks. If it could wield weapons in life, it can wield _ghost touch weapons_ as a ghost.
 
-**Special Attacks**: A ghost retains all the special attacks of the base creature, but any relying on physical contact do not function. In addition, a ghost gains one ghost special attack from the list below for every 3 points of CR (minimum 1—the first ability chosen must always be corrupting touch). The save DC against a ghost's special attack is equal to 10 + 1/2 ghost's HD + ghost's Charisma modifier unless otherwise noted. Additional ghost abilities beyond these can be designed at the GM's discretion.
+**Special Attacks**: A ghost retains all the special attacks of the base creature, but any relying on physical contact do not function. In addition, a ghost gains one ghost special attack from the list below for every 3 points of CR (minimum 1—the first ability chosen must always be corrupting touch). The attack bonus against a ghost's special attack is equal to 10 + 1/2 ghost's HD + ghost's Charisma modifier unless otherwise noted. Additional ghost abilities beyond these can be designed at the GM's discretion.
 
-**Corrupting Gaze (Su)**: The ghost is disfigured through age or violence, and has a gaze attack with a range of 30 feet that causes 2d10 damage and 1d4 Charisma damage (Fortitude save negates Charisma damage but not physical damage). ^corrupting-gaze
+**Corrupting Gaze (Su)**: The ghost is disfigured through age or violence, and has a gaze attack with a range of 30 feet that causes 2d10 damage and 1d4 Charisma damage (vs Fortitude; a miss negates the Charisma damage but not the physical damage). ^corrupting-gaze
 
-**Corrupting Touch (Su)**: All ghosts gain this incorporeal touch attack. By passing part of its incorporeal body through a foe's body as a standard action, the ghost inflicts a number of d6s equal to its CR in damage. This damage is not negative energy—it manifests in the form of physical wounds and aches from supernatural aging. Creatures immune to magical aging are immune to this damage, but otherwise the damage bypasses all forms of damage reduction. A Fortitude save halves the damage inflicted. ^corrupting-touch
+**Corrupting Touch (Su)**: All ghosts gain this incorporeal touch attack. By passing part of its incorporeal body through a foe's body as a standard action, the ghost inflicts a number of d6s equal to its CR in damage. This damage is not negative energy—it manifests in the form of physical wounds and aches from supernatural aging. Creatures immune to magical aging are immune to this damage, but otherwise the damage bypasses all forms of damage reduction. It attacks Fortitude, and a miss halves the damage inflicted. ^corrupting-touch
 
 **Draining Touch (Su)**: The ghost died while insane or diseased. It gains a touch attack that drains 1d4 points from any one ability score it selects on a hit. On each such successful attack, the ghost heals 5 points of damage to itself. When a ghost makes a draining touch attack, it cannot use its standard ghostly touch attack. ^draining-touch
 
-**Frightful Moan (Su)**: The ghost died in the throes of crippling terror. It can emit a frightful moan as a standard action. All living creatures within a 30-foot spread must succeed on a Will save or become [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] for 2d4 rounds. This is a sonic mind-affecting fear effect. A creature that successfully saves against the moan cannot be affected by the same ghost's moan for 24 hours. ^frightful-moan
+**Frightful Moan (Su)**: The ghost died in the throes of crippling terror. It can emit a frightful moan as a standard action. The moan attacks all living creatures within a 30-foot spread against Will, and those it hits become [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] for 2d4 rounds. This is a sonic mind-affecting fear effect. A creature the moan misses cannot be affected by the same ghost's moan for 24 hours. ^frightful-moan
 
-**[[rangoric-srd/monsters/abilities/Malevolence|Malevolence]] (Su)**: The ghost's jealousy of the living is particularly potent. Once per round, the ghost can merge its body with a creature on the Material Plane. This ability is similar to a _[[rangoric-srd/spells/Magic Jar|magic jar]]_ spell (caster level 10th or the ghost's Hit Dice, whichever is higher), except that it does not require a receptacle. To use this ability, the ghost must be adjacent to the target. The target can resist the attack with a successful Will save. A creature that successfully saves is immune to that same ghost's malevolence for 24 hours.
+**[[rangoric-srd/monsters/abilities/Malevolence|Malevolence]] (Su)**: The ghost's jealousy of the living is particularly potent. Once per round, the ghost can merge its body with a creature on the Material Plane. This ability is similar to a _[[rangoric-srd/spells/Magic Jar|magic jar]]_ spell (caster level 10th or the ghost's Hit Dice, whichever is higher), except that it does not require a receptacle. To use this ability, the ghost must be adjacent to the target. The malevolence attacks the target's Will, and a miss resists it. A creature the malevolence misses is immune to that same ghost's malevolence for 24 hours.
 
 **[[rangoric-srd/monsters/abilities/Telekinesis|Telekinesis]] (Su)**: The ghost's death involved great physical trauma. The ghost can use _[[rangoric-srd/spells/Telekinesis|telekinesis]]_ as a standard action once every 1d4 rounds (caster level 12th or equal to the ghost's HD, whichever is higher).
 

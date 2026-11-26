@@ -14,9 +14,9 @@ cmd: "20"
 attack: "Longsword +6 melee (1d8/19–20) or +1 longbow +11 ranged (1d8+1/×3)"
 full-attack: "Longsword +6/+1 melee (1d8/19–20); or +1 longbow +11/+6 ranged (1d8+1/×3)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Channel positive energy (DC 15, 3d6), smite evil 2/day (+2 attack and AC, +6 damage), turn undead"
+special-attacks: "Channel positive energy (+5 vs Will, 3d6), smite evil 2/day (+2 attack and AC, +6 damage), turn undead"
 special-qualities: "Low-light vision, aura of courage (10 ft.), aura, code of conduct, divine bond (weapon +1, 1/day), elven magic, lay on hands (3d6, 5/day), mercies (fatigued, staggered), weapon familiarity, immunity to disease, fear and sleep, special mount, remove disease 1/week"
-saves: "Fort +7, Ref +8, Will +8 (+2 vs. enchantments)"
+defenses: "Fort 17, Ref 18, Will 18 (+2 vs. enchantments)"
 abilities: "Str 10, Dex 18, Con 11, Int 10, Wis 12, Cha 14"
 skills: "Athletics +2, Perception +9, Sense Motive +5, Stealth +5"
 skill-ranks: "Athletics 2, Perception 5, Sense Motive 1, Stealth 1"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: [[rangoric-srd/equipment/weapons/Longsword|Longsword]] +6 melee (1d8/19–20) or +1 [[rangoric-srd/equipment/weapons/Longbow|longbow]] +11 ranged (1d8+1/×3)
 - **Full Attack**: [[rangoric-srd/equipment/weapons/Longsword|Longsword]] +6/+1 melee (1d8/19–20); or +1 [[rangoric-srd/equipment/weapons/Longbow|longbow]] +11/+6 ranged (1d8+1/×3)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/classes/Paladin#^paladin-channel-positive-energy|Channel positive energy]] (DC 15, 3d6), [[rangoric-srd/classes/Paladin#^paladin-smite-evil|smite evil]] 2/day (+2 attack and AC, +6 damage), [[rangoric-srd/classes/Paladin#^paladin-turn-undead|turn undead]]
+- **Special Attacks**: [[rangoric-srd/classes/Paladin#^paladin-channel-positive-energy|Channel positive energy]] (+5 vs Will, 3d6), [[rangoric-srd/classes/Paladin#^paladin-smite-evil|smite evil]] 2/day (+2 attack and AC, +6 damage), [[rangoric-srd/classes/Paladin#^paladin-turn-undead|turn undead]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Paladin#^paladin-aura-of-courage|aura of courage]] (10 ft.), [[rangoric-srd/classes/Paladin|aura]], [[rangoric-srd/classes/Paladin#^paladin-code-of-conudct|code of conduct]], [[rangoric-srd/classes/Paladin#^paladin-divine-bond|divine bond]] (weapon +1, 1/day), [[rangoric-srd/races/Elf|elven magic]], [[rangoric-srd/classes/Paladin#^paladin-lay-on-hands|lay on hands]] (3d6, 5/day), [[rangoric-srd/classes/Paladin#^paladin-mercy|mercies]] ([[rangoric-srd/class-options/mercies/Fatigued (Mercy)|fatigued]], [[rangoric-srd/class-options/mercies/Staggered (Mercy)|staggered]]), [[rangoric-srd/races/Elf|weapon familiarity]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease, fear and sleep, [[rangoric-srd/classes/Paladin#^paladin-special-mount|special mount]], [[rangoric-srd/classes/Paladin#^paladin-remove-disease|remove disease]] 1/week
-- **Saves**: Fort +7, Ref +8, Will +8 (+2 vs. enchantments)
+- **Defenses**: Fort 17, Ref 18, Will 18 (+2 vs. enchantments)
 - **Abilities**: Str 10, Dex 18, Con 11, Int 10, Wis 12, Cha 14
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +2, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +5
 - **Feats**: [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]]

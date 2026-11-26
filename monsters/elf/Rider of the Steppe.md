@@ -14,9 +14,9 @@ cmd: "33"
 attack: "+1 longsword +17 melee (1d8+3/19–20) or +2 composite longbow +22 ranged (1d8+4/×3)"
 full-attack: "+1 longsword +17/+12/+7 melee (1d8+3/19–20); or +2 composite longbow +22/+17/+12 ranged (1d8+4/×3)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Channel positive energy (DC 18, 7d6), smite evil 5/day (+1 attack and AC, +14 damage), turn undead"
+special-attacks: "Channel positive energy (+8 vs Will, 7d6), smite evil 5/day (+1 attack and AC, +14 damage), turn undead"
 special-qualities: "Low-light vision, aura of courage (10 ft.), aura of faith (10 ft.), aura of justice (10 ft.), aura of resolve (10 ft.), aura, code of conduct, divine bond (weapon +4, 3/day), elf blood, lay on hands (7d6, 8/day), mercies (blinded, cursed, diseased, fatigued), immunity to charm, disease, fear and sleep, special mount, remove disease 3/week"
-saves: "Fort +13, Ref +13, Will +11 (+2 vs. enchantments)"
+defenses: "Fort 23, Ref 23, Will 21 (+2 vs. enchantments)"
 abilities: "Str 14, Dex 22, Con 12, Int 10, Wis 8, Cha 13"
 skills: "Animal Handling +10, Fieldcraft +4, Intimidation +6, Medicine +5, Perception +9, Society +5, Stealth +13"
 skill-ranks: "Animal Handling 1, Fieldcraft 2, Intimidation 2, Medicine 3, Perception 7, Society 2, Stealth 4"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: +1 [[rangoric-srd/equipment/weapons/Longsword|longsword]] +17 melee (1d8+3/19–20) or +2 [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +22 ranged (1d8+4/×3)
 - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Longsword|longsword]] +17/+12/+7 melee (1d8+3/19–20); or +2 [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +22/+17/+12 ranged (1d8+4/×3)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/classes/Paladin#^paladin-channel-positive-energy|Channel positive energy]] (DC 18, 7d6), [[rangoric-srd/classes/Paladin#^paladin-smite-evil|smite evil]] 5/day (+1 attack and AC, +14 damage), [[rangoric-srd/classes/Paladin#^paladin-turn-undead|turn undead]]
+- **Special Attacks**: [[rangoric-srd/classes/Paladin#^paladin-channel-positive-energy|Channel positive energy]] (+8 vs Will, 7d6), [[rangoric-srd/classes/Paladin#^paladin-smite-evil|smite evil]] 5/day (+1 attack and AC, +14 damage), [[rangoric-srd/classes/Paladin#^paladin-turn-undead|turn undead]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Paladin#^paladin-aura-of-courage|aura of courage]] (10 ft.), [[rangoric-srd/classes/Paladin#^paladin-aura-of-faith|aura of faith]] (10 ft.), [[rangoric-srd/classes/Paladin#^paladin-aura-of-justice|aura of justice]] (10 ft.), [[rangoric-srd/classes/Paladin#^paladin-aura-of-resolve|aura of resolve]] (10 ft.), [[rangoric-srd/classes/Paladin|aura]], [[rangoric-srd/classes/Paladin#^paladin-code-of-conudct|code of conduct]], [[rangoric-srd/classes/Paladin#^paladin-divine-bond|divine bond]] (weapon +4, 3/day), [[rangoric-srd/races/Half-Elf#^half-elf-elven-blood|elf blood]], [[rangoric-srd/classes/Paladin#^paladin-lay-on-hands|lay on hands]] (7d6, 8/day), [[rangoric-srd/classes/Paladin#^paladin-mercy|mercies]] ([[rangoric-srd/class-options/mercies/Blinded (Mercy)|blinded]], [[rangoric-srd/class-options/mercies/Cursed (Mercy)|cursed]], [[rangoric-srd/class-options/mercies/Diseased (Mercy)|diseased]], [[rangoric-srd/class-options/mercies/Fatigued (Mercy)|fatigued]]), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to charm, disease, fear and sleep, [[rangoric-srd/classes/Paladin#^paladin-special-mount|special mount]], [[rangoric-srd/classes/Paladin#^paladin-remove-disease|remove disease]] 3/week
-- **Saves**: Fort +13, Ref +13, Will +11 (+2 vs. enchantments)
+- **Defenses**: Fort 23, Ref 23, Will 21 (+2 vs. enchantments)
 - **Abilities**: Str 14, Dex 22, Con 12, Int 10, Wis 8, Cha 13
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +10, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Medicine|Medicine]] +5, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Society|Society]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +13
 - **Feats**: [[rangoric-srd/feats/Improved Precise Shot|Improved Precise Shot]], [[rangoric-srd/feats/Manyshot|Manyshot]], [[rangoric-srd/feats/Mounted Archery|Mounted Archery]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

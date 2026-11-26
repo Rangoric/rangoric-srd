@@ -16,7 +16,7 @@ full-attack: "2 slams +15 melee (1d8+6 plus 1d6 fire); or masterwork falchion +1
 space-reach: "10 ft./10 ft."
 special-attacks: "Change size, heat, spell-like abilities"
 special-qualities: "Darkvision 60 ft., detect magic, telepathy 100 ft., change shape (humanoid or giant, alter self or giant form I), immunity to fire, vulnerability to cold"
-saves: "Fort +7, Ref +10, Will +9"
+defenses: "Fort 17, Ref 20, Will 19"
 abilities: "Str 23, Dex 17, Con 18, Int 12, Wis 14, Cha 15"
 skills: "Acrobatics +13, Craft (any one) +14, Deception +21, Imitation +8, Intimidation +15, Mysticism +14, Perception +15, Sense Motive +15, Stealth +8"
 skill-ranks: "Acrobatics 9, Craft (any one) 10, Deception 14, Imitation 5, Intimidation 10, Mysticism 10, Perception 10, Sense Motive 10, Stealth 6"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: Change size, [[rangoric-srd/monsters/abilities/Heat|heat]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect magic, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (humanoid or giant, alter self or giant form I), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to cold]]
-- **Saves**: Fort +7, Ref +10, Will +9
+- **Defenses**: Fort 17, Ref 20, Will 19
 - **Abilities**: Str 23, Dex 17, Con 18, Int 12, Wis 14, Cha 15
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Craft|Craft]] (any one) +14, [[rangoric-srd/skills/Deception|Deception]] +21, [[rangoric-srd/skills/Imitation|Imitation]] +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +15, [[rangoric-srd/skills/Mysticism|Mysticism]] +14, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +8
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Quicken Spell-Like Ability|Quicken Spell-Like Ability]] (scorching ray), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception)
@@ -76,8 +76,8 @@ Efreet speak Auran, Common, Ignan, and Infernal.
 
 Efreet love to mislead, befuddle, and confuse their foes. They do so for enjoyment as well as a battle tactic.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 11th): Constant—_[[rangoric-srd/spells/Detect Magic|detect magic]]_; At Will—_[[rangoric-srd/spells/Plane Shift|plane shift]]_ (willing targets to elemental planes, Astral Plane, or Material Plane only), _[[rangoric-srd/spells/Produce Flame|produce flame]]_, _[[rangoric-srd/spells/Pyrotechnics|pyrotechnics]]_ (DC 14), _[[rangoric-srd/spells/Scorching Ray|scorching ray]]_; 3/day—_[[rangoric-srd/spells/Invisibility|invisibility]]_, quickened _[[rangoric-srd/spells/Scorching Ray|scorching ray]]_, _[[rangoric-srd/spells/Wall of Fire|wall of fire]]_ (DC 16); 1/day—grant up to 3 _[[rangoric-srd/spells/Wish|wishes]]_ (to nongenies only), _[[rangoric-srd/spells/Gaseous Form|gaseous form]]_, _[[rangoric-srd/spells/Permanent Image|permanent image]]_ (DC 18).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 11th): Constant—_[[rangoric-srd/spells/Detect Magic|detect magic]]_; At Will—_[[rangoric-srd/spells/Plane Shift|plane shift]]_ (willing targets to elemental planes, Astral Plane, or Material Plane only), _[[rangoric-srd/spells/Produce Flame|produce flame]]_, _[[rangoric-srd/spells/Pyrotechnics|pyrotechnics]]_ (+4), _[[rangoric-srd/spells/Scorching Ray|scorching ray]]_; 3/day—_[[rangoric-srd/spells/Invisibility|invisibility]]_, quickened _[[rangoric-srd/spells/Scorching Ray|scorching ray]]_, _[[rangoric-srd/spells/Wall of Fire|wall of fire]]_ (+6); 1/day—grant up to 3 _[[rangoric-srd/spells/Wish|wishes]]_ (to nongenies only), _[[rangoric-srd/spells/Gaseous Form|gaseous form]]_, _[[rangoric-srd/spells/Permanent Image|permanent image]]_ (+8 vs Will).
 
-**Change Size (Sp)**: Twice per day, an efreeti can magically change a creature's size. This works just like an _[[rangoric-srd/spells/Enlarge Person|enlarge person]]_ or _[[rangoric-srd/spells/Reduce Person|reduce person]]_ spell (the efreeti chooses when using the ability), except that the ability can work on the efreeti. A DC 13 Fortitude save negates the effect. The save DC is Charisma-based. This is the equivalent of a 2nd-level spell.
+**Change Size (Sp)**: Twice per day, an efreeti can magically change a creature's size. This works just like an _[[rangoric-srd/spells/Enlarge Person|enlarge person]]_ or _[[rangoric-srd/spells/Reduce Person|reduce person]]_ spell (the efreeti chooses when using the ability), except that the ability can work on the efreeti. It attacks at +3 vs Fortitude, and a miss negates the effect. The attack bonus is Charisma-based. This is the equivalent of a 2nd-level spell.
 
 **Heat (Ex)**: An efreeti's body deals 1d6 points of fire damage whenever it hits in melee, or in each round it grapples.

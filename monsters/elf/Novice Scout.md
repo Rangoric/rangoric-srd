@@ -16,7 +16,7 @@ full-attack: "Longsword +3 melee (1d8+3/19–20); or shortspear +3 melee (1d6+2)
 space-reach: "5 ft./5 ft."
 special-attacks: "Favored enemy (orcs +2)"
 special-qualities: "Low-light vision, elf blood, track +1, wild empathy +0, immunity to sleep"
-saves: "Fort +3, Ref +5, Will +1 (+2 vs. enchantments)"
+defenses: "Fort 13, Ref 15, Will 11 (+2 vs. enchantments)"
 abilities: "Str 14, Dex 17, Con 12, Int 10, Wis 13, Cha 8"
 skills: "Athletics +6, Fieldcraft +5, Nature +4, Perception +10, Society +1, Stealth +7"
 skill-ranks: "Athletics 1, Fieldcraft 1, Nature 1, Perception 6, Society 1, Stealth 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|Favored enemy]] (orcs +2)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/races/Half-Elf#^half-elf-elven-blood|elf blood]], [[rangoric-srd/classes/Ranger#^ranger-track|track]] +1, [[rangoric-srd/classes/Ranger#^ranger-wild-empathy|wild empathy]] +0, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep
-- **Saves**: Fort +3, Ref +5, Will +1 (+2 vs. enchantments)
+- **Defenses**: Fort 13, Ref 15, Will 11 (+2 vs. enchantments)
 - **Abilities**: Str 14, Dex 17, Con 12, Int 10, Wis 13, Cha 8
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Nature|Nature]] +4, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Society|Society]] +1, [[rangoric-srd/skills/Stealth|Stealth]] +7
 - **Feats**: [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Track|Track]]

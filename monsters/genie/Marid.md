@@ -14,9 +14,9 @@ cmd: "34"
 attack: "Slam +17 melee (2d6+6) or masterwork trident +18 melee (2d6+9)"
 full-attack: "2 slams +17 melee (2d6+6); or masterwork trident +18/+13/+8 melee (2d6+9)"
 space-reach: "10 ft./10 ft."
-special-attacks: "Vortex (1/10 minutes, 10–50 ft. tall, 1d8+4 damage, DC 22), water mastery, water's fury, spell-like abilities"
+special-attacks: "Vortex (1/10 minutes, 10–50 ft. tall, 1d8+4 damage, +12 vs Reflex), water mastery, water's fury, spell-like abilities"
 special-qualities: "Darkvision 60 ft., telepathy 100 ft., change shape (water elemental, humanoid or giant, alter self, elemental body III, or giant form I)"
-saves: "Fort +10, Ref +12, Will +10"
+defenses: "Fort 20, Ref 22, Will 20"
 abilities: "Str 23, Dex 19, Con 18, Int 14, Wis 15, Cha 16"
 skills: "Athletics +29, Craft (any one) +17, Mysticism +17, Perception +17, Persuasion +18, Sense Motive +17, Stealth +15, Theology +17"
 skill-ranks: "Athletics 20, Craft (any one) 12, Mysticism 12, Perception 12, Persuasion 12, Sense Motive 12, Stealth 12, Theology 12"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Slam +17 melee (2d6+6) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Trident|trident]] +18 melee (2d6+9)
 - **Full Attack**: 2 slams +17 melee (2d6+6); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Trident|trident]] +18/+13/+8 melee (2d6+9)
 - **Space/Reach**: 10 ft./10 ft.
-- **Special Attacks**: Vortex (1/10 minutes, 10–50 ft. tall, 1d8+4 damage, DC 22), water mastery, water's fury, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Attacks**: Vortex (1/10 minutes, 10–50 ft. tall, 1d8+4 damage, +12 vs Reflex), water mastery, water's fury, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (water elemental, humanoid or giant, alter self, elemental body III, or giant form I)
-- **Saves**: Fort +10, Ref +12, Will +10
+- **Defenses**: Fort 20, Ref 22, Will 20
 - **Abilities**: Str 23, Dex 19, Con 18, Int 14, Wis 15, Cha 16
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +29, [[rangoric-srd/skills/Craft|Craft]] (any one) +17, [[rangoric-srd/skills/Mysticism|Mysticism]] +17, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Persuasion|Persuasion]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +15, [[rangoric-srd/skills/Theology|Theology]] +17
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Natural Attack|Improved Natural Attack]], [[rangoric-srd/feats/Power Attack|Power Attack]]
@@ -73,10 +73,10 @@ Marids speak Aquan, Auran, Common, Ignan and Terran.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th): Constant—_[[rangoric-srd/spells/Detect Evil|detect evil]], [[rangoric-srd/spells/Detect Good|detect good]], [[rangoric-srd/spells/Detect Magic|detect magic]], [[rangoric-srd/spells/Water Walk|water walk]]_; At will—_[[rangoric-srd/spells/Create Water|create water]], [[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Plane Shift|plane shift]]_ (willing targets to elemental planes, Astral Plane, or Material Plane only), _[[rangoric-srd/spells/Purify Food and Drink|purify food and drink]]_ (liquids only), _[[rangoric-srd/spells/Quench|quench]]_; 5/day—_[[rangoric-srd/spells/Control Water|control water]], [[rangoric-srd/spells/Gaseous Form|gaseous form]], [[rangoric-srd/spells/Obscuring Mist|obscuring mist]], [[rangoric-srd/spells/Water Breathing|water breathing]]_; 3/day—_[[rangoric-srd/spells/See Invisibility|see invisibility]]_; 1/day—_[[rangoric-srd/spells/Persistent Image|persistent image]]_ (DC 18); 1/year—grant 1 _[[rangoric-srd/spells/Wish|wish]]_ (to nongenies only).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th): Constant—_[[rangoric-srd/spells/Detect Evil|detect evil]], [[rangoric-srd/spells/Detect Good|detect good]], [[rangoric-srd/spells/Detect Magic|detect magic]], [[rangoric-srd/spells/Water Walk|water walk]]_; At will—_[[rangoric-srd/spells/Create Water|create water]], [[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Plane Shift|plane shift]]_ (willing targets to elemental planes, Astral Plane, or Material Plane only), _[[rangoric-srd/spells/Purify Food and Drink|purify food and drink]]_ (liquids only), _[[rangoric-srd/spells/Quench|quench]]_; 5/day—_[[rangoric-srd/spells/Control Water|control water]], [[rangoric-srd/spells/Gaseous Form|gaseous form]], [[rangoric-srd/spells/Obscuring Mist|obscuring mist]], [[rangoric-srd/spells/Water Breathing|water breathing]]_; 3/day—_[[rangoric-srd/spells/See Invisibility|see invisibility]]_; 1/day—_[[rangoric-srd/spells/Persistent Image|persistent image]]_ (+8); 1/year—grant 1 _[[rangoric-srd/spells/Wish|wish]]_ (to nongenies only).
 
 **Water Mastery (Ex)**: A marid gains a +1 bonus on attack and damage rolls if both it and its opponent are touching water. If the opponent or the marid is touching the ground, the marid takes a –4 penalty on attack and damage rolls.
 
-**Water's Fury (Su)**: As a standard action, a marid can release a jet of water in a 60-foot line that deals 1d6 points of damage and blinds the target struck for 1d6 rounds. A DC 20 Reflex save reduces the damage by half and negates the blinding effect. The save DC is Constitution-based.
+**Water's Fury (Su)**: As a standard action, a marid can release a jet of water in a 60-foot line that deals 1d6 points of damage and blinds the target struck for 1d6 rounds. It attacks at +10 vs Reflex, and a miss reduces the damage by half and negates the blinding effect. The attack bonus is Constitution-based.
 
 **Vortex (Su)**: A marid can transform into a vortex of swirling, churning water once every 10 minutes. This ability functions identically to the [[rangoric-srd/monsters/abilities/Whirlwind|whirlwind]] ability, save that it can only be used while the marid is underwater; a marid cannot leave a body of water while in vortex form.

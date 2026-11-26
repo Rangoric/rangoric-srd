@@ -16,7 +16,7 @@ full-attack: "2 claws +1 melee (1d4); or masterwork longsword +2 melee (1d8/19�
 space-reach: "5 ft./5 ft."
 special-attacks: "Claws (2, 1d4, 5 rounds/day)"
 special-qualities: "Low-light vision, bloodline arcana (cold spells deal +1 damage per die), elven magic, weapon familiarity, immunity to sleep, resistance to cold 5"
-saves: "Fort +2, Ref +5, Will +2 (+2 vs. enchantments)"
+defenses: "Fort 12, Ref 15, Will 12 (+2 vs. enchantments)"
 abilities: "Str 10, Dex 14, Con 12, Int 15, Wis 8, Cha 15"
 skills: "Arcana +8, Intimidation +8, Mysticism +8, Perception +7"
 skill-ranks: "Arcana 3, Intimidation 3, Mysticism 3, Perception 5"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/class-options/bloodlines/Draconic Bloodline|Claws]] (2, 1d4, 5 rounds/day)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/class-options/bloodlines/Draconic Bloodline|bloodline arcana]] (cold spells deal +1 damage per die), [[rangoric-srd/races/Elf|elven magic]], [[rangoric-srd/races/Elf|weapon familiarity]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 5
-- **Saves**: Fort +2, Ref +5, Will +2 (+2 vs. enchantments)
+- **Defenses**: Fort 12, Ref 15, Will 12 (+2 vs. enchantments)
 - **Abilities**: Str 10, Dex 14, Con 12, Int 15, Wis 8, Cha 15
 - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Mysticism|Mysticism]] +8, [[rangoric-srd/skills/Perception|Perception]] +7
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
@@ -75,4 +75,4 @@ A whiteclaw sorcerer speaks Common, Draconic, Elven, and Goblin.
 
 **Base Statistics**: Without mage armor, the sorcerer's statistics are **AC** 13, touch 12, flat-footed 11.
 
-**Sorcerer spells known** (CL 3rd; concentration +5): 1st (6/day)—_[[rangoric-srd/spells/Cause Fear|cause fear]]_ (DC 13), _[[rangoric-srd/spells/Endure Elements|endure elements]]_, _[[rangoric-srd/spells/Mage Armor|mage armor]]_, _[[rangoric-srd/spells/Magic Missile|magic missile]]_; 0 (at will)—_[[rangoric-srd/spells/Bleed|bleed]]_ (DC 12), _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Ray of Frost|ray of frost]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_; **Bloodline**: [[rangoric-srd/class-options/bloodlines/Draconic Bloodline|draconic (white)]].
+**Sorcerer spells known** (CL 3rd; concentration +5): 1st (6/day)—_[[rangoric-srd/spells/Cause Fear|cause fear]]_ (+3 vs Will), _[[rangoric-srd/spells/Endure Elements|endure elements]]_, _[[rangoric-srd/spells/Mage Armor|mage armor]]_, _[[rangoric-srd/spells/Magic Missile|magic missile]]_; 0 (at will)—_[[rangoric-srd/spells/Bleed|bleed]]_ (+2 vs Will), _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Ray of Frost|ray of frost]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_; **Bloodline**: [[rangoric-srd/class-options/bloodlines/Draconic Bloodline|draconic (white)]].

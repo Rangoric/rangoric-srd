@@ -15,7 +15,7 @@ full-attack: "Acid pellet +5 ranged touch (2d6 acid plus spores)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Tremorsense 30 ft., immunity to acid, plant traits"
-saves: "Fort +7, Ref +2, Will +2"
+defenses: "Fort 17, Ref 12, Will 12"
 abilities: "Str 5, Dex 10, Con 15, Int —, Wis 11, Cha 1"
 skills: "—"
 skill-ranks: ""
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Tremorsense|Tremorsense]] 30 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
-- **Saves**: Fort +7, Ref +2, Will +2
+- **Defenses**: Fort 17, Ref 12, Will 12
 - **Abilities**: Str 5, Dex 10, Con 15, Int —, Wis 11, Cha 1
 - **Skills**: —
 - **Feats**: —
@@ -64,9 +64,9 @@ tags: [rangoric, rangoric/monster]
 
 - **Contracted**: injury or ingested
 - **Effect**: 1d2 Constitution damage
-- **Cure**: 1 save
+- **Cure**: 1 miss
 - **Frequency**: 1/round for 6 rounds
-- **Save**: Fortitude DC 15
+- **Attack**: +5 vs Fortitude
 
 Typically found in damp dungeons, refuse heaps, and forgotten, filthy chambers, phycomids are dangerous fungoid creatures that grow in small, steaming patches among decomposing organic matter. The phycomid's main body is a mass of green-brown mold that can slither and move when necessary to seek out new carrion to feed upon. Numerous mushrooms sprout from the main body—vile green stalks topped with purple or red caps that seem to steam with rank-smelling smoke. This smoke is in fact vapor escaping from the numerous globs of acid the plant produces as a method of both self-defense and reproduction.
 
@@ -78,6 +78,6 @@ Because of the filthy environment in which this fungus thrives, goblins are one 
 
 **Acid Pellet (Ex)**: A phycomid attacks by firing a glob of acid from one of its several mushroom-like stalks. This attack has a range increment of 10 feet. A phycomid can fire up to six acid pellets per minute—during rounds in which the fungus has no acid pellets, it has no method of attacking at all and must wait until its acid stores replenish in 4 rounds before continuing a battle.
 
-**Spores (Ex)**: Any creature that takes damage from a phycomid's acid pellet (or consumes even a small portion of the fungus) becomes exposed to the fungus's spores. These spores grow quickly in living creatures. This affliction is a disease effect, although its course runs much faster than most diseases and is more poison-like in its speed, and like a poison, the spores “burn out” after a short period. A creature that is slain by a phycomid spore infestation bursts open in 1d4 rounds as a fully grown new phycomid emerges. The save DC is Constitution-based.
+**Spores (Ex)**: Any creature that takes damage from a phycomid's acid pellet (or consumes even a small portion of the fungus) becomes exposed to the fungus's spores. These spores grow quickly in living creatures. This affliction is a disease effect, although its course runs much faster than most diseases and is more poison-like in its speed, and like a poison, the spores “burn out” after a short period. A creature that is slain by a phycomid spore infestation bursts open in 1d4 rounds as a fully grown new phycomid emerges. The attack bonus is Constitution-based.
 
-[[rangoric-srd/rules/afflictions/Phycomid Spores|Phycomid Spores]]: injury or ingested; _save_ Fort DC 15; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con damage; _cure_ 1 save.
+[[rangoric-srd/rules/afflictions/Phycomid Spores|Phycomid Spores]]: injury or ingested; _attack_ +5 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con damage; _cure_ 1 miss.

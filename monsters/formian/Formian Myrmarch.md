@@ -16,7 +16,7 @@ full-attack: "Sting +16 melee (1d8+5 plus poison) and 2 claws +16 melee (1d4+5/1
 space-reach: "10 ft./5 ft."
 special-attacks: "Poison, spell-like abilities"
 special-qualities: "Blindsense 30 ft., darkvision 60 ft., hive mind, telepathy 150 ft., formian traits, inspire hive, undersized weapons, resistance to sonic 10"
-saves: "Fort +11, Ref +14, Will +13"
+defenses: "Fort 21, Ref 24, Will 23"
 abilities: "Str 20, Dex 19, Con 20, Int 17, Wis 16, Cha 17"
 skills: "Arcana +15, Athletics +20, Deception +18, Mysticism +15, Perception +18 (+22 with hive mind), Persuasion +15, Sense Motive +18, Stealth +15, Theology +18"
 skill-ranks: "Arcana 12, Athletics 12, Deception 12, Mysticism 12, Perception 12, Persuasion 12, Sense Motive 12, Stealth 12, Theology 12"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/formian/Formian#^hive-mind|hive mind]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 150 ft., [[rangoric-srd/monsters/formian/Formian#^formian-traits|formian traits]], inspire hive, [[rangoric-srd/monsters/abilities/Undersized Weapons|undersized weapons]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to sonic 10
-- **Saves**: Fort +11, Ref +14, Will +13
+- **Defenses**: Fort 21, Ref 24, Will 23
 - **Abilities**: Str 20, Dex 19, Con 20, Int 17, Wis 16, Cha 17
 - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +20, [[rangoric-srd/skills/Deception|Deception]] +18, [[rangoric-srd/skills/Mysticism|Mysticism]] +15, [[rangoric-srd/skills/Perception|Perception]] +18 (+22 with hive mind), [[rangoric-srd/skills/Persuasion|Persuasion]] +15, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +18, [[rangoric-srd/skills/Stealth|Stealth]] +15, [[rangoric-srd/skills/Theology|Theology]] +18
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
@@ -82,8 +82,8 @@ Myrmarchs speak Common.
 
 They fight intelligently, aiding those under them (if any such are present) and commanding them through the hive mind. If chaotic creatures are present, however, a myrmarch is singleminded in its quest to destroy them.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +15): At will—_[[rangoric-srd/spells/Charm Monster|charm monster]]_ (DC 17), _[[rangoric-srd/spells/Clairaudience-Clairvoyance|clairaudience/clairvoyance]]_, _[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ (DC 15); 3/day—_[[rangoric-srd/spells/Hold Monster|hold monster]]_ (DC 18); 1/day—_[[rangoric-srd/spells/Feeblemind|feeblemind]]_ (DC 18).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +15): At will—_[[rangoric-srd/spells/Charm Monster|charm monster]]_ (+7 vs Will), _[[rangoric-srd/spells/Clairaudience-Clairvoyance|clairaudience/clairvoyance]]_, _[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ (+5 vs Will); 3/day—_[[rangoric-srd/spells/Hold Monster|hold monster]]_ (+8 vs Will); 1/day—_[[rangoric-srd/spells/Feeblemind|feeblemind]]_ (+8 vs Will).
 
 **Inspire Hive (Su)**: Once per day, a myrmarch can affect all warriors and workers in its telepathic range as if they were under the effect of a _[[rangoric-srd/spells/Heroism, Greater|greater heroism]]_ spell (CL 12th).
 
-**Poison (Ex)**: Javelin or sting—injury; save Fort DC 21; frequency 1/round for 6 rounds; effect 1d4 Dex and [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]]; cure 2 saves. The save DC is Constitution-based.
+**Poison (Ex)**: Javelin or sting—injury; attack +11 vs Fortitude; frequency 1/round for 6 rounds; effect 1d4 Dex and [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]]; cure 2 misses. The attack bonus is Constitution-based.

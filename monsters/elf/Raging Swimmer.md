@@ -16,7 +16,7 @@ full-attack: "+1 longspear +16/+11 melee (2d4+10/×3) orspiked gauntlet +15/+10 
 space-reach: "5 ft./5 ft. (10 ft. with longspear)"
 special-attacks: "Rage (22 rounds/day), rage powers (quick reflexes, raging swimmer +9, scent, superstition +4)"
 special-qualities: "Low-light vision, scent, improved uncanny dodge, trap sense +3, elf blood, fast movement, damage reduction 1/-, immunity to sleep"
-saves: "Fort +11, Ref +6, Will +6 (+4 vs. spells and spell-like and supernatural abilities, +2 vs. enchantments)"
+defenses: "Fort 21, Ref 16, Will 16 (+4 vs. spells and spell-like and supernatural abilities, +2 vs. enchantments)"
 abilities: "Str 22, Dex 14, Con 18, Int 12, Wis 10, Cha 8"
 skills: "Acrobatics +16, Animal Handling +10, Athletics +20 (+24 jumping), Fieldcraft +4, Linguistics +3, Nature +5, Perception +19, Stealth +10"
 skill-ranks: "Acrobatics 11, Animal Handling 8, Athletics 11, Fieldcraft 1, Linguistics 2, Nature 1, Perception 16, Stealth 5"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft. (10 ft. with longspear)
 - **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (22 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/Quick Reflexes (Rage Power)|quick reflexes]], [[rangoric-srd/class-options/rage-powers/Raging Swimmer (Rage Power)|raging swimmer]] +9, [[rangoric-srd/class-options/rage-powers/Scent (Rage Power)|scent]], [[rangoric-srd/class-options/rage-powers/Superstition (Rage Power)|superstition]] +4)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/classes/Barbarian#^barbarian-improved-uncanny-dodge|improved uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] +3, [[rangoric-srd/races/Half-Elf#^half-elf-elven-blood|elf blood]], [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/classes/Barbarian#^barbarian-damage-reduction|damage reduction]] 1/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep
-- **Saves**: Fort +11, Ref +6, Will +6 (+4 vs. spells and spell-like and supernatural abilities, +2 vs. enchantments)
+- **Defenses**: Fort 21, Ref 16, Will 16 (+4 vs. spells and spell-like and supernatural abilities, +2 vs. enchantments)
 - **Abilities**: Str 22, Dex 14, Con 18, Int 12, Wis 10, Cha 8
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +16, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +20 (+24 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Linguistics|Linguistics]] +3, [[rangoric-srd/skills/Nature|Nature]] +5, [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +10
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Acrobatics), [[rangoric-srd/feats/Vital Strike|Vital Strike]]

@@ -16,7 +16,7 @@ full-attack: "Masterwork lance +12 melee (1d8+6/×3) orarmor spikes +11 (1d6+6);
 space-reach: "5 ft./5 ft. (10 ft. with lance)"
 special-attacks: "Rage (14 rounds/day), rage powers (quick reflexes, superstition +3)"
 special-qualities: "Low-light vision, improved uncanny dodge, trap sense +1, elf blood, fast movement, immunity to sleep"
-saves: "Fort +9, Ref +3, Will +5 (+3 vs. spells and spell-like and supernatural abilities, +2 vs. enchantments)"
+defenses: "Fort 19, Ref 13, Will 15 (+3 vs. spells and spell-like and supernatural abilities, +2 vs. enchantments)"
 abilities: "Str 22, Dex 13, Con 18, Int 10, Wis 12, Cha 8"
 skills: "Acrobatics +2, Animal Handling +8, Athletics +12, Fieldcraft +5, Perception +11"
 skill-ranks: "Acrobatics 1, Animal Handling 4, Athletics 3, Fieldcraft 1, Perception 7"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft. (10 ft. with lance)
 - **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (14 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/Quick Reflexes (Rage Power)|quick reflexes]], [[rangoric-srd/class-options/rage-powers/Superstition (Rage Power)|superstition]] +3)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Barbarian#^barbarian-improved-uncanny-dodge|improved uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] +1, [[rangoric-srd/races/Half-Elf#^half-elf-elven-blood|elf blood]], [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep
-- **Saves**: Fort +9, Ref +3, Will +5 (+3 vs. spells and spell-like and supernatural abilities, +2 vs. enchantments)
+- **Defenses**: Fort 19, Ref 13, Will 15 (+3 vs. spells and spell-like and supernatural abilities, +2 vs. enchantments)
 - **Abilities**: Str 22, Dex 13, Con 18, Int 10, Wis 12, Cha 8
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +2, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +12, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Perception|Perception]] +11
 - **Feats**: [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Ride-By Attack|Ride-By Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Animal Handling), [[rangoric-srd/feats/Spirited Charge|Spirited Charge]]

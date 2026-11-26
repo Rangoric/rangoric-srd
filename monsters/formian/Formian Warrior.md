@@ -16,7 +16,7 @@ full-attack: "Sting +6 melee (1d4+2 plus poison) and 2 claws +6 melee (1d4+2 plu
 space-reach: "5 ft./5 ft."
 special-attacks: "Deadly grasp, poison"
 special-qualities: "Blindsense 30 ft., darkvision 60 ft., hive mind, telepathy 60 ft., coordinate, formian traits, resistance to sonic 10"
-saves: "Fort +3, Ref +7, Will +4"
+defenses: "Fort 13, Ref 17, Will 14"
 abilities: "Str 14, Dex 17, Con 15, Int 11, Wis 10, Cha 12"
 skills: "Acrobatics +10, Athletics +9 (+13 jumping), Intimidation +8, Perception +7 (+11 with hive mind), Sense Motive +7, Stealth +10"
 skill-ranks: "Acrobatics 4, Athletics 4, Intimidation 4, Perception 4, Sense Motive 4, Stealth 4"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Deadly grasp, [[rangoric-srd/monsters/abilities/Poison|poison]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/formian/Formian#^hive-mind|hive mind]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 60 ft., coordinate, [[rangoric-srd/monsters/formian/Formian#^formian-traits|formian traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to sonic 10
-- **Saves**: Fort +3, Ref +7, Will +4
+- **Defenses**: Fort 13, Ref 17, Will 14
 - **Abilities**: Str 14, Dex 17, Con 15, Int 11, Wis 10, Cha 12
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +9 (+13 jumping), [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Perception|Perception]] +7 (+11 with hive mind), [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +10
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Acrobatics), [[rangoric-srd/feats/Step Up|Step Up]]
@@ -84,4 +84,4 @@ Warriors are wicked combatants, using claws, bite, and a poisonous sting all at 
 
 **Deadly Grasp (Ex)**: When a formian warrior has a foe grappled, it deals sting damage when it succeeds at a grapple check to damage its opponent.
 
-**Poison (Ex)**: Javelin or sting—injury; save Fort DC 14; frequency 1/round for 6 rounds; effect 1d2 Dex; cure 1 save.
+**Poison (Ex)**: Javelin or sting—injury; attack +4 vs Fortitude; frequency 1/round for 6 rounds; effect 1d2 Dex; cure 1 miss.

@@ -13,7 +13,7 @@ full-attack: "Longsword +2 melee(1d8+1/19–20) or longbow +3 ranged (1d8/x3)"
 space-reach: "5 ft./5 ft."
 special-attacks: "None"
 special-qualities: "Elven traits"
-saves: "Fort +2, Ref +1, Will –1*"
+defenses: "Fort 12, Ref 11, Will 9*"
 abilities: "Str 13, Dex 13, Con 10, Int 12, Wis 9, Cha 8"
 skills: "Perception +2, Investigation +4, Stealth +1"
 skill-ranks: "Investigation 1, Perception 1, Stealth 0"
@@ -131,7 +131,7 @@ White is the most common hair color among drow, but almost any pale shade is pos
 
 Drow usually coat their arrows with a potent venom.
 
-**Poison (Ex)**: An opponent hit by a drow’s poisoned weapon must succeed on a DC 13 Fortitude save or fall [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]]. After 1 minute, the subject must succeed on another DC 13 Fortitude save or remain unconscious for 2d4 hours. A typical drow carries 1d4–1 doses of drow knockout poison. Drow typically coat arrows and crossbow bolts with this poison, but it can also be applied to a melee weapon. Drow have [[rangoric-srd/races/racial-traits/Poison Use|poison use]], so they never risk poisoning themselves when applying it. Since this poison is not a magical effect, drow and other elves are susceptible to it.
+**Poison (Ex)**: An opponent hit by a drow’s poisoned weapon is attacked at +3 vs Fortitude, and on a hit falls [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]]. After 1 minute, the poison attacks the subject again at +3 vs Fortitude, and on a hit it remains unconscious for 2d4 hours. A typical drow carries 1d4–1 doses of drow knockout poison. Drow typically coat arrows and crossbow bolts with this poison, but it can also be applied to a melee weapon. Drow have [[rangoric-srd/races/racial-traits/Poison Use|poison use]], so they never risk poisoning themselves when applying it. Since this poison is not a magical effect, drow and other elves are susceptible to it.
 
 Drow characters use the [[rangoric-srd/races/Drow|drow]] race, which has their racial traits, alternate racial traits, level adjustment and paragon class.
 

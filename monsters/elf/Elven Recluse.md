@@ -16,7 +16,7 @@ full-attack: "Masterwork quarterstaff +26/+26/+21/+16/+11 melee (1d6+11) and mas
 space-reach: "5 ft./5 ft. (10 ft. with longspear)"
 special-attacks: "Weapon training (double +4, bows +3, spears +2, light blades +1)"
 special-qualities: "Low-light vision, bravery +4, armor training 4, elven magic, weapon familiarity, immunity to bleed (hit points only) and sleep, resistance to cold 10 and fire 10"
-saves: "Fort +14, Ref +14, Will +11 (+2 vs. enchantments, +4 vs. fear)"
+defenses: "Fort 24, Ref 24, Will 21 (+2 vs. enchantments, +4 vs. fear)"
 abilities: "Str 17, Dex 20, Con 12, Int 13, Wis 12, Cha 8"
 skills: "Athletics +10, Craft (bows) +5, Craft (weapons) +5, Fieldcraft +16, Nature +16, Perception +3, Society +11, Stealth +10"
 skill-ranks: "Athletics 4, Craft (bows) 1, Craft (weapons) 1, Fieldcraft 12, Nature 12, Perception 2, Society 7, Stealth 2"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft. (10 ft. with longspear)
 - **Special Attacks**: [[rangoric-srd/classes/Fighter#^fighter-weapon-training|Weapon training]] (double +4, bows +3, spears +2, light blades +1)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +4, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 4, [[rangoric-srd/races/Elf|elven magic]], [[rangoric-srd/races/Elf|weapon familiarity]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to bleed (hit points only) and sleep, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and fire 10
-- **Saves**: Fort +14, Ref +14, Will +11 (+2 vs. enchantments, +4 vs. fear)
+- **Defenses**: Fort 24, Ref 24, Will 21 (+2 vs. enchantments, +4 vs. fear)
 - **Abilities**: Str 17, Dex 20, Con 12, Int 13, Wis 12, Cha 8
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Craft|Craft]] (bows) +5, [[rangoric-srd/skills/Craft|Craft]] (weapons) +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +16, [[rangoric-srd/skills/Nature|Nature]] +16, [[rangoric-srd/skills/Perception|Perception]] +3, [[rangoric-srd/skills/Society|Society]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +10
 - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Greater Two-Weapon Fighting|Greater Two-Weapon Fighting]], [[rangoric-srd/feats/Greater Weapon Focus|Greater Weapon Focus]] (quarterstaff), [[rangoric-srd/feats/Greater Weapon Specialization|Greater Weapon Specialization]] (quarterstaff), [[rangoric-srd/feats/Improved Two-Weapon Fighting|Improved Two-Weapon Fighting]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Two-Weapon Defense|Two-Weapon Defense]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (composite longbow), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (quarterstaff), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (composite longbow), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (quarterstaff)
