@@ -17,4 +17,4 @@ You can use your shield to protect an ally.
 
 **Prerequisites**: [[rangoric-srd/feats/Shield Focus|Shield Focus]], base attack bonus +6.
 
-**Benefit**: When you take the [[rangoric-srd/combat/Combat Actions#Total Defense|total defense]] action while using a light, heavy or tower shield, you can give an adjacent ally of your size or smaller a cover bonus to AC against all attacks, equal to your shield’s shield bonus, until the start of your next turn. It doesn’t give a cover bonus on Reflex saves.
+**Benefit**: When you take the [[rangoric-srd/combat/Combat Actions#Total Defense|total defense]] action while using a light, heavy or tower shield, you can give an adjacent ally of your size or smaller a cover bonus to AC against all attacks, equal to your shield’s shield bonus, until the start of your next turn. It doesn’t give a cover bonus on Reflex Defense.

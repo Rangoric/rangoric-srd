@@ -16,4 +16,4 @@ You can escape an area effect by throwing an enemy in its path to shield yoursel
 
 **Prerequisites**: Int 13, [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Improved Reposition|Improved Reposition]], [[rangoric-srd/classes/Rogue#^rogue-evasion|evasion]] class feature.
 
-**Benefit**: When you successfully use evasion to avoid taking damage from an effect that allows a Reflex save, you can attempt a special [[rangoric-srd/combat/Combat Maneuvers#Reposition|reposition]] combat maneuver check against one foe within reach as an immediate action. If it succeeds, you switch places with the target. If your foe wasn’t in the effect’s area to begin with, it must save against the effect as if it had been.
+**Benefit**: When you successfully use evasion to avoid taking damage from an effect that attacks your Reflex Defense, you can attempt a special [[rangoric-srd/combat/Combat Maneuvers#Reposition|reposition]] combat maneuver check against one foe within reach as an immediate action. If it succeeds, you switch places with the target. If your foe wasn’t in the effect’s area to begin with, the effect attacks it as if it had been.

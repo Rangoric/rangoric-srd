@@ -16,4 +16,4 @@ Your willpower is a thing of legend.
 
 **Prerequisites**: [[rangoric-srd/feats/Iron Will|Iron Will]].
 
-**Benefit**: You get a +2 bonus to all Will saving throws; this bonus combines with [[rangoric-srd/feats/Iron Will|Iron Will]].
+**Benefit**: You get a +2 bonus to Will Defense; this bonus combines with [[rangoric-srd/feats/Iron Will|Iron Will]].

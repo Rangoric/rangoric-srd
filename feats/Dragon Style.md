@@ -17,6 +17,6 @@ You call upon the spirit of dragonkind, gaining greater resilience, mobility, an
 
 **Prerequisites**: Str 15, [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/skills/Acrobatics|Acrobatics]] 3 ranks.
 
-**Benefit**: While using this style, you gain a +2 bonus on saving throws against sleep, paralysis and stunning effects. You ignore difficult terrain when you charge, run or withdraw, and you can charge through squares that contain allies. You add 1-1/2 times your Strength bonus to the damage roll for your first unarmed strike each round.
+**Benefit**: While using this style, you gain a +2 bonus on defenses against sleep, paralysis and stunning effects. You ignore difficult terrain when you charge, run or withdraw, and you can charge through squares that contain allies. You add 1-1/2 times your Strength bonus to the damage roll for your first unarmed strike each round.
 
 **Normal**: You can’t charge or run through difficult terrain or charge through a square with an ally in it. An unarmed strike adds your Strength bonus to damage.

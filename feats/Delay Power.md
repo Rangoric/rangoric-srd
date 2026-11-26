@@ -17,7 +17,7 @@ Benefit: To use this feat, you must expend your psionic focus. You can manifest 
 
 Only area and personal powers can be delayed.
 
-Any decisions you would make about the delayed power, including attack rolls, designating targets, or determining or shaping an area, are decided when the power is manifested. Any effects resolved by those affected by the power, including saving throws, are decided when the delay period ends.
+Any decisions you would make about the delayed power, including attack rolls, designating targets, or determining or shaping an area, are decided when the power is manifested. Any effects resolved by those affected by the power, including attacks against their defenses, are decided when the delay period ends.
 
 A delayed power can be dispelled normally during the delay, and can be detected normally in the area or on the target by the use of powers that can detect psionic effects.
 

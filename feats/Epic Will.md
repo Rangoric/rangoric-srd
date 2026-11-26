@@ -11,4 +11,4 @@ tags: [rangoric, rangoric/feat, epic]
 
 # Epic Will
 
-Benefit: The character gains a +4 bonus on all Will saving throws.
+Benefit: The character gains a +4 bonus on Will Defense.

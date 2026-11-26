@@ -17,4 +17,4 @@ Your careful study of mental magic grants you mastery in your discipline.
 
 **Prerequisites**: [[rangoric-srd/classes/Psychic (Class)#^psychic-discipline|psychic discipline]] class feature.
 
-**Benefit**: You gain a +1 bonus on [[rangoric-srd/rules/Concentration (Check)|caster level checks and concentration checks]] when casting spells from your psychic discipline, and you gain a +1 insight bonus on saving throws against spells from your discipline.
+**Benefit**: You gain a +1 bonus on [[rangoric-srd/rules/Concentration (Check)|caster level checks and concentration checks]] when casting spells from your psychic discipline, and you gain a +1 insight bonus on defenses against spells from your discipline.

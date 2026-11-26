@@ -11,4 +11,4 @@ tags: [rangoric, rangoric/feat, epic]
 
 # Epic Reflexes
 
-Benefit: The character gains a +4 bonus on all Reflex saving throws.
+Benefit: The character gains a +4 bonus on Reflex Defense.
