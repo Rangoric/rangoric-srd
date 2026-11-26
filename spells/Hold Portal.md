@@ -10,7 +10,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 target: "One portal, up to 20 sq. ft./level"
 duration: "1 min./level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Hold Portal|Hold Portal (3.5)]]"
@@ -30,7 +30,7 @@ _Abjuration_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Target**: One portal, up to 20 sq. ft./level
 - **Duration**: 1 min./level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 This spell magically holds shut a door, gate, window, or shutter of wood, metal, or stone. The magic affects the portal just as if it were securely closed and normally locked. A knock spell or a successful dispel magic spell can negate a hold portal spell.

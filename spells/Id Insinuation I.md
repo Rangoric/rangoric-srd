@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "Concentration + 1 round"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Occult Adventures"
 based-on:
@@ -34,7 +34,7 @@ _Enchantment (Compulsion) \[Mind-Affecting\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature
 - **Duration**: Concentration + 1 round
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
-By invading the mind of a creature with your psychic presence, you can isolate parts of its mind, preventing the target from functioning in a coherent manner. The target is confused as long as you concentrate on it plus 1 additional round. A successful Will save negates this effect.
+By invading the mind of a creature with your psychic presence, you can isolate parts of its mind, preventing the target from functioning in a coherent manner. The target is confused as long as you concentrate on it plus 1 additional round. A miss against the target’s Will negates this effect.

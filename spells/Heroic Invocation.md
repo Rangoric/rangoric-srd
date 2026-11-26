@@ -16,7 +16,7 @@ casting-time: "10 minutes"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One or more creatures, no two of which can be more than 30 ft. apart"
 duration: "10 minutes /level"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Ultimate Combat"
 based-on:
@@ -37,7 +37,7 @@ _Enchantment (Compulsion) \[Mind-affecting\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One or more creatures, no two of which can be more than 30 ft. apart
 - **Duration**: 10 minutes /level
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 Using worlds of ancient power, you bestow heroic powers on all creatures subject to this spell. They gain a +4 morale bonus on attack and damage rolls, gain 2d8+4 temporary hit points, and become immune to both fear and charm effects for the spell's duration.

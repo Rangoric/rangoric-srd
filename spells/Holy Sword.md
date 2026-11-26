@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Melee weapon touched"
 duration: "1 round/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Holy Sword|Holy Sword (3.5)]]"
@@ -33,7 +33,7 @@ _Evocation \[Good\]_
 - **Range**: Touch
 - **Target**: Melee weapon touched
 - **Duration**: 1 round/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 This spell allows you to channel holy power into your sword, or any other melee weapon you choose. The weapon acts as a +5 holy weapon (+5 enhancement bonus on attack and damage rolls, extra 2d6 damage against evil opponents). It also emits a magic circle against evil effect (as the spell). If the magic circle ends, the sword creates a new one on your turn as a free action. The spell is automatically canceled 1 round after the weapon leaves your hand. You cannot have more than one holy sword at a time.

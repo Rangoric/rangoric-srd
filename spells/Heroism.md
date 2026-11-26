@@ -25,7 +25,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "10 min./level"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Heroism|Heroism (3.5)]]"
@@ -45,7 +45,7 @@ _Enchantment (Compulsion) \[Mind-Affecting\]_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: 10 min./level
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
-This spell imbues a single creature with great bravery and morale in battle. The target gains a +2 morale bonus on attack rolls, saves, and skill checks.
+This spell imbues a single creature with great bravery and morale in battle. The target gains a +2 morale bonus on attack rolls, defenses, and skill checks.

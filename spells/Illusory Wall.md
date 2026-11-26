@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "Image 1 ft. by 10 ft. by 10 ft."
 duration: "Permanent"
-saving-throw: "Will disbelief (if interacted with)"
+defense: "Will disbelief (if interacted with)"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Illusory Wall|Illusory Wall (3.5)]]"
@@ -35,7 +35,7 @@ _Illusion (Figment)_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Effect**: Image 1 ft. by 10 ft. by 10 ft.
 - **Duration**: Permanent
-- **Saving Throw**: Will disbelief (if interacted with)
+- **Defense**: Will disbelief (if interacted with)
 - **Spell Resistance**: No
 
 This spell creates the illusion of a wall, floor, ceiling, or similar surface. It appears absolutely real when viewed, but physical objects can pass through it without difficulty. When the spell is used to hide pits, traps, or normal doors, any detection abilities that do not require sight work normally. Touch or a probing search reveals the true nature of the surface, though such measures do not cause the illusion to disappear.

@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 targets: "One weapon per level"
 duration: "1 minute/level (see text)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Advanced Class Guide"
 based-on:
@@ -38,7 +38,7 @@ _Transmutation \[Earth\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Targets**: One weapon per level
 - **Duration**: 1 minute/level (see text)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You lend the nature of adamantine, cold iron, or silver to the targeted weapons, with the following effects:

@@ -21,7 +21,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature; see text"
 duration: "1 round/level"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Hideous Laughter|Hideous Laughter (3.5)]]"
@@ -41,11 +41,11 @@ _Enchantment (Compulsion) \[Mind-Affecting\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature; see text
 - **Duration**: 1 round/level
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 This spell afflicts the subject with uncontrollable laughter. It collapses into gales of manic laughter, falling [[rangoric-srd/rules/Special Abilities and Conditions#^prone|prone]]. The subject can take no actions while laughing, but is not considered [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]]. After the spell ends, it can act normally.
 
-A creature with an Intelligence score of 2 or lower is not affected. A creature whose type is different from the caster’s receives a +4 bonus on its saving throw, because humor doesn’t “translate” well.
+A creature with an Intelligence score of 2 or lower is not affected. A creature whose type is different from the caster’s gets a +4 bonus to its Will Defense against the spell, because humor doesn’t “translate” well.
 
 _Material Component_: Tiny tarts that are thrown at the target and a feather that is waved in the air.

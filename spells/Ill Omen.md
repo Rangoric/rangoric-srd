@@ -19,7 +19,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "1 round/level or until discharged"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 book: "Advanced Player's Guide"
 based-on:
@@ -40,7 +40,7 @@ _Enchantment (Compulsion) \[Curse, Mind-affecting\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature
 - **Duration**: 1 round/level or until discharged
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 You afflict the target with bad luck. On the next d20 roll the target makes, it must roll twice and take the less favorable result. For every five caster levels you have, the target must roll twice on an additional d20 roll (to a maximum of five rolls at 20th level).

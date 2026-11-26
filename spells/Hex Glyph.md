@@ -5,7 +5,7 @@ school: "Abjuration"
 level:
   - "Sha 3"
   - "Wit 3"
-saving-throw: "See text"
+defense: "See text"
 spell-resistance: "No (object) and yes (see text)"
 book: "Advanced Class Guide"
 based-on:
@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/spell]
 _Abjuration_
 
 - **Level**: Sha 3, Wit 3
-- **Saving Throw**: See text
+- **Defense**: See text
 - **Spell Resistance**: No (object) and yes (see text)
 
 This spell functions like the spell glyph version of _[[rangoric-srd/spells/Glyph of Warding|glyph of warding]]_, except you can store a hex you know (but not a major hex or a grand hex) instead of a spell. If the hex has a target, it targets the intruder. If the hex has an area or an amorphous effect, the area or effect is centered on the intruder. The triggered hex uses this spell's caster level and DC.

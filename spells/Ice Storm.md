@@ -22,7 +22,7 @@ casting-time: "1 standard action"
 range: "Long (400 ft. + 40 ft./level)"
 area: "Cylinder (20-ft. radius, 40 ft. high)"
 duration: "1 full round"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Ice Storm|Ice Storm (3.5)]]"
@@ -42,7 +42,7 @@ _Evocation \[Cold\]_
 - **Range**: Long (400 ft. + 40 ft./level)
 - **Area**: Cylinder (20-ft. radius, 40 ft. high)
 - **Duration**: 1 full round
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 Great magical hailstones pound down for 1 full round, dealing 3d6 points of bludgeoning damage and 2d6 points of cold damage to every creature in the area. A –4 penalty applies to each [[rangoric-srd/skills/Perception|Perception]] check made within the ice storm’s effect, and all land movement within its area is at half speed. At the end of the duration, the hail disappears, leaving no aftereffects (other than the damage dealt).

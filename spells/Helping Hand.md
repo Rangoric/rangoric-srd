@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "5 miles"
 effect: "Ghostly hand"
 duration: "1 hour/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Helping Hand|Helping Hand (3.5)]]"
@@ -35,7 +35,7 @@ _Evocation_
 - **Range**: 5 miles
 - **Effect**: Ghostly hand
 - **Duration**: 1 hour/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You create the ghostly image of a hand, which you can send to find a creature within 5 miles. The hand then beckons to that creature and leads it to you if the creature is willing to follow.

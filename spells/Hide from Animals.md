@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Touch"
 targets: "One creature touched/level"
 duration: "10 min./level (D)"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Hide from Animals|Hide from Animals (3.5)]]"
@@ -35,7 +35,7 @@ _Abjuration_
 - **Range**: Touch
 - **Targets**: One creature touched/level
 - **Duration**: 10 min./level (D)
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes
 
 Animals cannot see, hear, or smell the warded creatures. Even extraordinary or supernatural sensory capabilities, such as blindsense, blindsight, scent, and tremorsense, cannot detect or locate warded creatures. Animals simply act as though the warded creatures are not there. If a warded character touches an animal or attacks any creature, even with a spell, the spell ends for all recipients.

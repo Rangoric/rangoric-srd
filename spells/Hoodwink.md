@@ -21,7 +21,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "Up to one creature/level, no two of which can be more than 30 ft. apart"
 duration: "Caster level hour(s)"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Villain Codex"
 based-on:
@@ -42,7 +42,7 @@ _Enchantment (Compulsion) \[MindAffecting\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: Up to one creature/level, no two of which can be more than 30 ft. apart
 - **Duration**: Caster level hour(s)
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 You befuddle the targets' senses, preventing the targets from clearly perceiving their surroundings. Instead, *hoodwink*ed creatures see only the roughest shapes and details and hear only muffled noises. However, targets can clearly hear verbal communication from the spell's caster. This spell does not impart understanding of the caster's language if the creature can't already understand it. Other than to hear the caster speak, targets automatically fail Perception checks with DCs greater than 5, and they are too disoriented by the spell to accurately remember the path they took while under its effects.

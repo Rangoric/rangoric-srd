@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "40 ft."
 area: "Nongood creatures in a 40-ft.-radius spread centered on you"
 duration: "Instantaneous"
-saving-throw: "None or Will negates; see text"
+defense: "None or Will; see text"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Holy Word|Holy Word (3.5)]]"
@@ -35,7 +35,7 @@ _Evocation \[Good, Sonic\]_
 - **Range**: 40 ft.
 - **Area**: Nongood creatures in a 40-ft.-radius spread centered on you
 - **Duration**: Instantaneous
-- **Saving Throw**: None or Will negates; see text
+- **Defense**: None or Will; see text
 - **Spell Resistance**: Yes
 
 Any nongood creature within the area that hears the holy word suffers the following ill effects.
@@ -47,7 +47,7 @@ Any nongood creature within the area that hears the holy word suffers the follow
 | Up to caster level -5  | [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed\|Paralyzed]], blinded, deafened |
 | Up to caster level -10 | Killed, paralyzed, blinded, deafened                                                             |
 
-The effects are cumulative and concurrent. No saving throw is allowed against these effects.
+The effects are cumulative and concurrent. These effects hit automatically, with no attack against a defense.
 
 _Deafened_: The creature is deafened for 1d4 rounds.
 
@@ -57,6 +57,6 @@ _Paralyzed_: The creature is paralyzed and [[rangoric-srd/rules/Special Abilitie
 
 _Killed_: Living creatures die. Undead creatures are destroyed.
 
-Furthermore, if you are on your home plane when you cast this spell, nongood extraplanar creatures within the area are instantly banished back to their home planes. Creatures so banished cannot return for at least 24 hours. This effect takes place regardless of whether the creatures hear the holy word. The banishment effect allows a Will save (at a –4 penalty) to negate.
+Furthermore, if you are on your home plane when you cast this spell, nongood extraplanar creatures within the area are instantly banished back to their home planes. Creatures so banished cannot return for at least 24 hours. This effect takes place regardless of whether the creatures hear the holy word. The banishment effect attacks Will, with a –4 penalty to the creature’s Will Defense, and a miss negates it.
 
 Creatures whose HD exceed your caster level are unaffected by holy word.

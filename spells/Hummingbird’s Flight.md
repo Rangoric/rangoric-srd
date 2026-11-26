@@ -12,7 +12,7 @@ casting-time: "1 standard action"
 range: "Personal"
 targets: "You"
 duration: "1 minute/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Spells & Magic"
 based-on:
@@ -33,7 +33,7 @@ _Transmutation_
 - **Range**: Personal
 - **Targets**: You
 - **Duration**: 1 minute/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 This spell allows you to fly with greater dexterity. For the duration of the spell, your maneuverability while flying is increased by 2 steps, to a maximum of _good_. For example, if you could fly with _clumsy_ maneuverability, casting this spell allows you to fly at _average_ maneuverability.

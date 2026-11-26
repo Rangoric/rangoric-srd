@@ -10,7 +10,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature/2 levels"
 duration: "See text"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Spells & Magic"
 based-on:
@@ -31,7 +31,7 @@ _Transmutation_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature/2 levels
 - **Duration**: See text
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 After casting this spell, the caster designates a number of people (up to the limit of one per 2 levels) within the spell’s range to hear a message of no more than twenty-five words. The chosen creatures gain no special ability to understand the caster’s message, though they do hear it clearly and as though the caster were speaking directly to them in a quiet area. Any creature not selected by the caster to understand the message hears something completely unrelated to the actual words the caster speaks. This secondary message is also determined by the caster, and may easily be part of a continuing conversation.
