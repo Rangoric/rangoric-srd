@@ -8,6 +8,7 @@ Every departure from the source rules, newest first. One line each, with links t
 
 | Date | Change | Rangoric note | Source | Why |
 | --- | --- | --- | --- | --- |
+| 2026-11-26 | Saving throws as defenses, spells (DF 42): Imbue with Elemental Might to Levitate and the Inquisitor spell list attack a defense instead of allowing a save; new saves make the spell attack again. | [[DF Batch 42 Changes]] | | [[Saving Throws as Defenses]] DF 42 |
 | 2026-11-26 | Saving throws as defenses, spells (DF 41): Haste to Imbue with Aura and the Hunter spell list attack a defense instead of allowing a save; new saves make the spell attack again. | [[DF Batch 41 Changes]] | | [[Saving Throws as Defenses]] DF 41 |
 | 2026-11-26 | Saving throws as defenses, spells (DF 40): Forest Aria to Harvest Breath of Life attack a defense instead of allowing a save; new saves make the spell attack again, and stat lines in prose read Defense. | [[DF Batch 40 Changes]] | | [[Saving Throws as Defenses]] DF 40 |
 | 2026-11-26 | Saving throws as defenses, spells (DF 39): Faerie Fire to Foresight attack a defense instead of allowing a save, and fixed DCs become attack bonuses. | [[DF Batch 39 Changes]] | | [[Saving Throws as Defenses]] DF 39 |
