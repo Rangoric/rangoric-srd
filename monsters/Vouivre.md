@@ -14,9 +14,9 @@ cmd: "32 (can't be tripped)"
 attack: "Bite +20 melee (3d6+4 plus grab) or claw +20 melee (2d6+4/19–20) or wing +19 melee (1d8+2)"
 full-attack: "Bite +20 melee (3d6+4 plus grab) and 2 claws +20 melee (2d6+4/19–20) and 2 wings +14 melee (1d8+2)"
 space-reach: "10 ft./10 ft."
-special-attacks: "Breath weapon (30-ft. cone, 8d6 fire, Reflex DC 22 half, usable every 1d4 rounds), spell-like abilities"
+special-attacks: "Breath weapon (30-ft. cone, 8d6 fire, +12 vs Reflex; a miss halves, usable every 1d4 rounds), spell-like abilities"
 special-qualities: "Darkvision 60 ft., unwavering mind, amphibious, snake empathy, immunity to cold, resistance to fire 10 and sonic 10"
-saves: "Fort +9, Ref +11, Will +14"
+defenses: "Fort 19, Ref 21, Will 24"
 abilities: "Str 19, Dex 13, Con 18, Int 11, Wis 14, Cha 18"
 skills: "Acrobatics +6, Athletics +12, Deception +20, Intimidation +15, Perception +17, Sense Motive +10, Stealth +12"
 skill-ranks: "Acrobatics 4, Athletics 5, Deception 13, Intimidation 8, Perception 12, Sense Motive 5, Stealth 12"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +20 melee (3d6+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or claw +20 melee (2d6+4/19–20) or wing +19 melee (1d8+2)
 - **Full Attack**: Bite +20 melee (3d6+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 claws +20 melee (2d6+4/19–20) and 2 wings +14 melee (1d8+2)
 - **Space/Reach**: 10 ft./10 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (30-ft. cone, 8d6 fire, Reflex DC 22 half, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (30-ft. cone, 8d6 fire, +12 vs Reflex; a miss halves, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Unwavering Mind|unwavering mind]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Snake Empathy|snake empathy]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10 and sonic 10
-- **Saves**: Fort +9, Ref +11, Will +14
+- **Defenses**: Fort 19, Ref 21, Will 24
 - **Abilities**: Str 19, Dex 13, Con 18, Int 11, Wis 14, Cha 18
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +12, [[rangoric-srd/skills/Deception|Deception]] +20, [[rangoric-srd/skills/Intimidation|Intimidation]] +15, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +12
 - **Feats**: [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Deafening Critical|Deafening Critical]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
@@ -72,8 +72,8 @@ Vouivres speak Common and Sylvan.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 13th; concentration +17): At will—_[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 15), _[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]_, _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (DC 14), _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_ (snakes only); 1/day—_[[rangoric-srd/spells/Charm Animal|charm animal]]_ (DC 15, snakes only), _[[rangoric-srd/spells/Shout|shout]]_ (DC 18), _[[rangoric-srd/spells/Song of Discord|song of discord]]_ (DC 19).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 13th; concentration +17): At will—_[[rangoric-srd/spells/Charm Person|charm person]]_ (+5 vs Will), _[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]_, _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (+4 vs Will), _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_ (snakes only); 1/day—_[[rangoric-srd/spells/Charm Animal|charm animal]]_ (+5 vs Will, snakes only), _[[rangoric-srd/spells/Shout|shout]]_ (+8), _[[rangoric-srd/spells/Song of Discord|song of discord]]_ (+9 vs Will).
 
 **[[rangoric-srd/monsters/abilities/Snake Empathy|Snake Empathy]] (Ex)**: A vouivre can communicate and empathize with snakes. It can use Persuasion to alter such an animal's attitude, and when doing so gains a +4 racial bonus on the check.
 
-**[[rangoric-srd/monsters/abilities/Unwavering Mind|Unwavering Mind]] (Ex)**: A vouivre gains a +4 bonus on saving throws to resist mind-affecting effects.
+**[[rangoric-srd/monsters/abilities/Unwavering Mind|Unwavering Mind]] (Ex)**: A vouivre gains a +4 bonus on defenses against mind-affecting effects.

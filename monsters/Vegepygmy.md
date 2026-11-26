@@ -15,7 +15,7 @@ full-attack: "2 claws +1 melee (1d4); or longspear +1 melee (1d6)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., low-light vision, damage reduction 5/slashing or bludgeoning, immunity to electricity, plant traits"
-saves: "Fort +3, Ref +2, Will +0"
+defenses: "Fort 13, Ref 12, Will 10"
 abilities: "Str 11, Dex 14, Con 12, Int 8, Wis 11, Cha 11"
 skills: "Perception +7, Stealth +10 (+18 in vegetation)"
 skill-ranks: "Perception 4, Stealth 0"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/slashing or bludgeoning, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
-- **Saves**: Fort +3, Ref +2, Will +0
+- **Defenses**: Fort 13, Ref 12, Will 10
 - **Abilities**: Str 11, Dex 14, Con 12, Int 8, Wis 11, Cha 11
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +10 (+18 in vegetation)
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

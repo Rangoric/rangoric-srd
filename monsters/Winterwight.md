@@ -16,7 +16,7 @@ full-attack: "Bite +30 melee (2d8+15 plus blightfire) and 2 claws +30 melee (2d6
 space-reach: "5 ft./5 ft."
 special-attacks: "Rend (2 claws 2d8+22), spell-like abilities"
 special-qualities: "Darkvision 60 ft., fast healing 10, aura of cold (10 ft.), channel resistance +4, damage reduction 15/bludgeoning and good, immunity to cold, undead traits, spell resistance 28, vulnerability to fire"
-saves: "Fort +15, Ref +14, Will +16"
+defenses: "Fort 25, Ref 24, Will 26"
 abilities: "Str 40, Dex 23, Con —, Int 11, Wis 18, Cha 29"
 skills: "Acrobatics +26, Intimidation +32, Perception +27, Stealth +29"
 skill-ranks: "Acrobatics 17, Intimidation 20, Perception 20, Stealth 20"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rend|Rend]] (2 claws 2d8+22), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 10, aura of cold (10 ft.), [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/bludgeoning and good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 28, vulnerability to fire
-- **Saves**: Fort +15, Ref +14, Will +16
+- **Defenses**: Fort 25, Ref 24, Will 26
 - **Abilities**: Str 40, Dex 23, Con —, Int 11, Wis 18, Cha 29
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +26, [[rangoric-srd/skills/Intimidation|Intimidation]] +32, [[rangoric-srd/skills/Perception|Perception]] +27, [[rangoric-srd/skills/Stealth|Stealth]] +29
 - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Greater Vital Strike|Greater Vital Strike]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Staggering Critical|Staggering Critical]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
@@ -72,8 +72,8 @@ Winterwights speak Common.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 17th; concentration +26): Constant—_[[rangoric-srd/spells/Air Walk|air walk]]_; At will—_[[rangoric-srd/spells/Cone of Cold|cone of cold]]_ (DC 24), _[[rangoric-srd/spells/Dimension Door|dimension door]]_, _[[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]]_, _[[rangoric-srd/spells/Sleet Storm|sleet storm]]_, _[[rangoric-srd/spells/Wall of Ice|wall of ice]]_; 3/day—_[[rangoric-srd/spells/Polar Ray|polar ray]]_; 1/day—_[[rangoric-srd/spells/Control Weather|control weather]]_.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 17th; concentration +26): Constant—_[[rangoric-srd/spells/Air Walk|air walk]]_; At will—_[[rangoric-srd/spells/Cone of Cold|cone of cold]]_ (+14 vs Reflex), _[[rangoric-srd/spells/Dimension Door|dimension door]]_, _[[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]]_, _[[rangoric-srd/spells/Sleet Storm|sleet storm]]_, _[[rangoric-srd/spells/Wall of Ice|wall of ice]]_; 3/day—_[[rangoric-srd/spells/Polar Ray|polar ray]]_; 1/day—_[[rangoric-srd/spells/Control Weather|control weather]]_.
 
 **Aura of Cold (Su)**: Winterwights are surrounded by a 10-foot radius of deathly chill. Any creatures within this area during the winterwight's turn takes 2d10 points of cold damage. All creatures of the cold subtype within this area (including the winterwight) are treated as having fast healing 10.
 
-**Blightfire (Su)**: Whenever a winterwight damages a creature with a bite or claw, the wound erupts with tongues of black fire. For the next 5 rounds, the victim must make a DC 29 Fortitude saving throw at the start of its turn or take 1d6 points of Constitution drain. The winterwight gains 10 temporary hit points each time the creature fails a saving throw against blightfire. A creature cannot be affected by more than one instance of blightfire at a time. The save DC is Charisma-based.
+**Blightfire (Su)**: Whenever a winterwight damages a creature with a bite or claw, the wound erupts with tongues of black fire. For the next 5 rounds, the blightfire attacks the victim at +19 vs Fortitude at the start of its turn, and on a hit it takes 1d6 points of Constitution drain. The winterwight gains 10 temporary hit points each time blightfire hits the creature. A creature cannot be affected by more than one instance of blightfire at a time. The attack bonus is Charisma-based.

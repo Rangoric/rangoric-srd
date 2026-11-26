@@ -16,7 +16,7 @@ full-attack: "Bite +14 melee (1d6+3 plus 1d6 electricity) and gore +14 melee (1d
 space-reach: "5 ft./5 ft. (10 ft. with bite)"
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., improved evasion, evolution points (bite, climb, energy attacks, flight [2], gore, improved evasion, improved natural armor [2], reach [bite], tail, tail slap)"
-saves: "Fort +7, Ref +11, Will +9"
+defenses: "Fort 17, Ref 21, Will 19"
 abilities: "Str 16, Dex 19, Con 14, Int 7, Wis 10, Cha 11"
 skills: "Acrobatics +16, Athletics +11, Deception +13, Perception +13, Sense Motive +8, Stealth +12, Theology +6"
 skill-ranks: "Acrobatics 9, Athletics 5, Deception 10, Perception 10, Sense Motive 5, Stealth 5, Theology 5"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft. (10 ft. with bite)
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., improved evasion, evolution points (bite, climb, energy attacks, [[rangoric-srd/monsters/abilities/Flight|flight]] \[2\], gore, improved evasion, improved natural armor \[2\], reach \[bite\], tail, tail slap)
-- **Saves**: Fort +7, Ref +11, Will +9
+- **Defenses**: Fort 17, Ref 21, Will 19
 - **Abilities**: Str 16, Dex 19, Con 14, Int 7, Wis 10, Cha 11
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +16, [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Deception|Deception]] +13, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +12, [[rangoric-srd/skills/Theology|Theology]] +6
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]

@@ -14,9 +14,9 @@ cmd: "14"
 attack: "Kukri +1 melee (1d4+1/18–20 plus poison) or shuriken +3 ranged (1d2+1 plus poison)"
 full-attack: "Kukri +1 melee (1d4+1/18–20 plus poison); or shuriken +3 ranged (1d2+1 plus poison)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Poison (DC 12), sneak attack +1d6"
+special-attacks: "Poison (+2 vs Fortitude), sneak attack +1d6"
 special-qualities: "Low-light vision, poison use, toxic"
-saves: "Fort +2, Ref +5, Will +0 (+1 vs. poison)"
+defenses: "Fort 12, Ref 15, Will 10 (+1 vs. poison)"
 abilities: "Str 13, Dex 17, Con 14, Int 8, Wis 10, Cha 12"
 skills: "Acrobatics +7, Deception +8, Escape Artist +9, Imitation +5, Perception +6, Sense Motive +4, Stealth +9"
 skill-ranks: "Acrobatics 1, Deception 3, Escape Artist 1, Imitation 3, Perception 1, Sense Motive 1, Stealth 1"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: [[rangoric-srd/equipment/weapons/Kukri|Kukri]] +1 melee (1d4+1/18–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or [[rangoric-srd/equipment/weapons/Shuriken|shuriken]] +3 ranged (1d2+1 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
 - **Full Attack**: [[rangoric-srd/equipment/weapons/Kukri|Kukri]] +1 melee (1d4+1/18–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]]); or [[rangoric-srd/equipment/weapons/Shuriken|shuriken]] +3 ranged (1d2+1 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]] (DC 12), sneak attack +1d6
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]] (+2 vs Fortitude), sneak attack +1d6
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Poison|poison]] use, [[rangoric-srd/monsters/abilities/Toxic|toxic]]
-- **Saves**: Fort +2, Ref +5, Will +0 (+1 vs. poison)
+- **Defenses**: Fort 12, Ref 15, Will 10 (+1 vs. poison)
 - **Abilities**: Str 13, Dex 17, Con 14, Int 8, Wis 10, Cha 12
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Deception|Deception]] +8, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +9, [[rangoric-srd/skills/Imitation|Imitation]] +5, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +9
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception)
@@ -70,13 +70,13 @@ Vishkanyas speak Common and Vishkanya.
 
 ### Combat
 
-**Poison Resistance (Ex)**: A vishkanya has a racial bonus on saving throws against [[rangoric-srd/rules/Afflictions#Poison|poison]] equal to its Hit Dice.
+**Poison Resistance (Ex)**: A vishkanya has a racial bonus on defenses against [[rangoric-srd/rules/Afflictions#Poison|poison]] equal to its Hit Dice.
 
 **Poison Use (Ex)**: Vishkanyas are skilled with poison and never accidentally poison themselves when using or applying poison.
 
 **[[rangoric-srd/monsters/abilities/Toxic|Toxic]] (Ex)**: A number of times per day equal to its Constitution modifier (minimum 1/day), a vishkanya can envenom a weapon that it wields with its toxic saliva or blood (using blood requires the vishkanya to be injured when it uses this ability). Applying venom in this way is a swift action.
 
-_Vishkanya Venom_: A number of times per day equal to its Constitution modifier (minimum 1/day), a vishkanya can envenom a weapon that it wields with its toxic saliva or blood (using blood requires the vishkanya to be injured when it uses this ability). Applying venom in this way is a swift action. [[rangoric-srd/rules/afflictions/Vishkanya Venom|Vishkanya Venom]]: injury; _save_ Fort DC 10 + 1/2 the vishkanya's Hit Dice + the vishkanya's Constitution modifier; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Dex; _cure_ 1 save.
+_Vishkanya Venom_: A number of times per day equal to its Constitution modifier (minimum 1/day), a vishkanya can envenom a weapon that it wields with its toxic saliva or blood (using blood requires the vishkanya to be injured when it uses this ability). Applying venom in this way is a swift action. [[rangoric-srd/rules/afflictions/Vishkanya Venom|Vishkanya Venom]]: injury; _attack_ +0 vs Fortitude + 1/2 the vishkanya's Hit Dice + the vishkanya's Constitution modifier; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Dex; _cure_ 1 miss.
 
 ### Vishkanya as Characters
 

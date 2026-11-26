@@ -16,7 +16,7 @@ full-attack: "2 claws +9 melee (1d6+4 plus 1d6 cold)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Frightful gaze, rend (2 claws, 1d6+6 plus 1d6 cold)"
 special-qualities: "Darkvision 60 ft., scent, immunity to cold, vulnerability to fire"
-saves: "Fort +6, Ref +6, Will +6"
+defenses: "Fort 16, Ref 16, Will 16"
 abilities: "Str 19, Dex 12, Con 15, Int 9, Wis 12, Cha 10"
 skills: "Athletics +21, Intimidation +9, Perception +10, Stealth +1 (+9 in snow)"
 skill-ranks: "Athletics 14, Intimidation 6, Perception 6, Stealth 0"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: Frightful [[rangoric-srd/monsters/abilities/Gaze|gaze]], [[rangoric-srd/monsters/abilities/Rend|rend]] (2 claws, 1d6+6 plus 1d6 cold)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to fire]]
-- **Saves**: Fort +6, Ref +6, Will +6
+- **Defenses**: Fort 16, Ref 16, Will 16
 - **Abilities**: Str 19, Dex 12, Con 15, Int 9, Wis 12, Cha 10
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +21, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +1 (+9 in snow)
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Power Attack|Power Attack]]
@@ -74,4 +74,4 @@ Yetis speak Aklo.
 
 **Cold (Su)**: A yeti's body generates intense cold, dealing 1d6 points of cold damage to any creature that contacts it with a natural attack or unarmed strike, or whenever it hits a foe with its claws or rend attack.
 
-**Frightful Gaze (Su)**: Creatures within 30 feet that meet a yeti's gaze must succeed on a DC 13 Will save or stand [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] in fear for 1 round. This is a mind-affecting fear paralysis effect. A creature that successfully saves cannot be affected again by the frightful gaze of that yeti for 1 day. The save DC is Charisma-based.
+**Frightful Gaze (Su)**: Creatures within 30 feet that meet a yeti's gaze are attacked at +3 vs Will, and on a hit stand [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] in fear for 1 round. This is a mind-affecting fear paralysis effect. A creature the gaze misses cannot be affected again by the frightful gaze of that yeti for 1 day. The attack bonus is Charisma-based.

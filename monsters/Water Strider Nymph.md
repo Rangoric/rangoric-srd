@@ -15,7 +15,7 @@ full-attack: "2 claw –1 melee (1d3–2) and bite –1 melee (1d2–2)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., tremorsense 60 ft. (see giant water strider), water skating, immunity to mind-affecting effects"
-saves: "Fort +2, Ref +2, Will +0"
+defenses: "Fort 12, Ref 12, Will 10"
 abilities: "Str 7, Dex 15, Con 10, Int —, Wis 10, Cha 2"
 skills: "Acrobatics +0, Athletics +2, Perception +4"
 skill-ranks: "Acrobatics 0, Athletics 0, Perception 0"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft. (see [[rangoric-srd/monsters/Giant Water Strider|giant water strider]]), [[rangoric-srd/monsters/abilities/Water Skating|water skating]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-- **Saves**: Fort +2, Ref +2, Will +0
+- **Defenses**: Fort 12, Ref 12, Will 10
 - **Abilities**: Str 7, Dex 15, Con 10, Int —, Wis 10, Cha 2
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +0, [[rangoric-srd/skills/Athletics|Athletics]] +2, [[rangoric-srd/skills/Perception|Perception]] +4
 - **Feats**: —

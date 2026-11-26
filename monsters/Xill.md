@@ -14,9 +14,9 @@ cmd: "26"
 attack: "Short sword +13 melee (1d6+3/19–20) or claw +13 melee (1d4+3 plus grab) or bite +12 melee (1d3+3 plus paralysis) or longbow +13 ranged (1d8/×3)"
 full-attack: "Short swords +13/+13/+8 melee (1d6+3/19–20) and claw +13 melee (1d4+3 plus grab) and bite +7 melee (1d3+1 plus paralysis); or 4 claws +13 melee (1d4+3 plus grab) and bite +12 melee (1d3+3 plus paralysis); or 2 longbows +13 ranged (1d8/×3)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Implant, paralysis (1d4 hours, DC 16)"
+special-attacks: "Implant, paralysis (1d4 hours, +6 vs Fortitude)"
 special-qualities: "Darkvision 60 ft., multiweapon mastery, planewalk, spell resistance 17"
-saves: "Fort +8, Ref +10, Will +6"
+defenses: "Fort 18, Ref 20, Will 16"
 abilities: "Str 17, Dex 18, Con 14, Int 15, Wis 12, Cha 11"
 skills: "Acrobatics +16, Arcana +14, Deception +12, Intimidation +12, Perception +13, Sense Motive +13, Stealth +14, Theology +14"
 skill-ranks: "Acrobatics 9, Arcana 9, Deception 9, Intimidation 9, Perception 9, Sense Motive 9, Stealth 7, Theology 9"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Short sword +13 melee (1d6+3/19–20) or claw +13 melee (1d4+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or bite +12 melee (1d3+3 plus [[rangoric-srd/monsters/abilities/Paralysis|paralysis]]) or [[rangoric-srd/equipment/weapons/Longbow|longbow]] +13 ranged (1d8/×3)
 - **Full Attack**: Short swords +13/+13/+8 melee (1d6+3/19–20) and claw +13 melee (1d4+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and bite +7 melee (1d3+1 plus [[rangoric-srd/monsters/abilities/Paralysis|paralysis]]); or 4 claws +13 melee (1d4+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and bite +12 melee (1d3+3 plus [[rangoric-srd/monsters/abilities/Paralysis|paralysis]]); or 2 [[rangoric-srd/equipment/weapons/Longbow|longbows]] +13 ranged (1d8/×3)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: Implant, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] (1d4 hours, DC 16)
+- **Special Attacks**: Implant, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] (1d4 hours, +6 vs Fortitude)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Multiweapon Mastery|multiweapon mastery]], planewalk, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 17
-- **Saves**: Fort +8, Ref +10, Will +6
+- **Defenses**: Fort 18, Ref 20, Will 16
 - **Abilities**: Str 17, Dex 18, Con 14, Int 15, Wis 12, Cha 11
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +16, [[rangoric-srd/skills/Arcana|Arcana]] +14, [[rangoric-srd/skills/Deception|Deception]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +14, [[rangoric-srd/skills/Theology|Theology]] +14
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw, short sword)

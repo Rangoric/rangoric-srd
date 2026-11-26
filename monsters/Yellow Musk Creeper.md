@@ -15,7 +15,7 @@ full-attack: "Tendril +5 melee (1d4+4)"
 space-reach: "5 ft./10 ft."
 special-attacks: "Create yellow musk zombie, pollen spray"
 special-qualities: "Tremorsense 30 ft., plant traits"
-saves: "Fort +6, Ref +3, Will +1"
+defenses: "Fort 16, Ref 13, Will 11"
 abilities: "Str 17, Dex 15, Con 16, Int —, Wis 11, Cha 8"
 skills: "—"
 skill-ranks: ""
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./10 ft.
 - **Special Attacks**: Create yellow musk zombie, pollen spray
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Tremorsense|Tremorsense]] 30 ft., [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
-- **Saves**: Fort +6, Ref +3, Will +1
+- **Defenses**: Fort 16, Ref 13, Will 11
 - **Abilities**: Str 17, Dex 15, Con 16, Int —, Wis 11, Cha 8
 - **Skills**: —
 - **Feats**: —
@@ -67,4 +67,4 @@ The yellow musk creeper is a hideous plant that grows in haunted graveyards, gri
 
 **Create Yellow Musk Zombie (Su)**: As a full-round action, a yellow musk creeper can bore dozens of tendrils into the brain of a [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]] creature within reach, such as a creature entranced by its pollen. This attack inflicts 1d4 points of Intelligence damage per round. When a creature is reduced to 0 Intelligence, it dies, and the tendrils break off inside its brain. One hour later, the creature animates as a [[rangoric-srd/monsters/Yellow Musk Zombie|yellow musk zombie]].
 
-**Pollen Spray (Ex)**: As a standard action, a yellow musk creeper can spray a cloud of pollen at a single creature within 30 feet. It must make a +4 ranged touch attack to strike the target, who must then succeed on a DC 14 Will save or be entranced for 1d6 rounds. An entranced creature can take no action other than to move at its normal speed into a space within the yellow musk creeper's reach, at which point an entranced creature remains motionless and allows the creeper to insert tendrils into its brain. The save DC is Constitution-based.
+**Pollen Spray (Ex)**: As a standard action, a yellow musk creeper can spray a cloud of pollen at a single creature within 30 feet. It must make a +4 ranged touch attack to strike the target, then attacks it at +4 vs Will, and on a hit it is entranced for 1d6 rounds. An entranced creature can take no action other than to move at its normal speed into a space within the yellow musk creeper's reach, at which point an entranced creature remains motionless and allows the creeper to insert tendrils into its brain. The attack bonus is Constitution-based.

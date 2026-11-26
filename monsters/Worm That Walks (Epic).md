@@ -10,7 +10,7 @@ armor-class: "47 (+4 Dex, +8 bracers, +3 ring, +2 amulet, +20 insight)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Spell-like abilities, engulf, frightful presence"
 special-qualities: "Blindsight 300 ft., SR 36, discorporate, bonus hit points, immunities"
-saves: "Fort +11, Ref +14, Will +17"
+defenses: "Fort 21, Ref 24, Will 27"
 abilities: "Str 10, Dex 14 (18 with gloves), Con 13 (15 with Ioun stone), Int 20 (26 with headband), Wis 12, Cha 8"
 skills: "Craft (alchemy) +31, Arcana +31, Mysticism +31, Society +31, Nature +31, Theology +31, Perception +27, Stealth +28"
 skill-ranks: "Arcana 23, Craft (alchemy) 23, Mysticism 23, Nature 23, Perception 23, Society 23, Stealth 23, Theology 23"
@@ -43,7 +43,7 @@ Damage: +4 staff 1d6+4   
 Space/Reach: 5 ft./5 ft.      
 Special Attacks: Spell-like abilities, engulf, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|frightful presence]]      
 Special Qualities: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 300 ft., [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 36, discorporate, bonus hit points, immunities     
-Saves: Fort +11, Ref +14, Will +17      
+Defenses: Fort 21, Ref 24, Will 27      
 Abilities: Str 10, Dex 14 (18 with gloves), Con 13 (15 with Ioun stone), Int 20 (26 with headband), Wis 12, Cha 8     
 Skills: [[rangoric-srd/skills/Arcana|Arcana]] +31, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +31, [[rangoric-srd/skills/Mysticism|Mysticism]] +31, [[rangoric-srd/skills/Nature|Nature]] +31, [[rangoric-srd/skills/Perception|Perception]] +27, [[rangoric-srd/skills/Society|Society]] +31, [[rangoric-srd/skills/Stealth|Stealth]] +28, [[rangoric-srd/skills/Theology|Theology]] +31     
 Feats: [[rangoric-srd/feats/Brew Potion|Brew Potion]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Craft Staff|Craft Staff]], [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Heighten Spell|Heighten Spell]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Maximize Spell|Maximize Spell]], [[rangoric-srd/feats/Quicken Spell|Quicken Spell]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]], [[rangoric-srd/feats/Spell Penetration|Spell Penetration]], [[rangoric-srd/feats/Toughness|Toughness]]      
@@ -62,7 +62,7 @@ A worm that walks rarely speaks, although it retains knowledge of all languages 
 
 Spells: A worm that walks can cast any spells it could cast as a character. This sample worm was a 23rd-level [[rangoric-srd/classes/Wizard|wizard]] (spells per day: 4/12/6/6/6/5/5/5/5/4/1/1). The last spell slots are 10th-level and 11th-level slots, respectively, and are available for 0-9th level meta-magic spells.
 
-Spell-Like Abilities: Caster level 20th; save DC 9 + spell level. The save DCs are Charisma-based.
+Spell-Like Abilities: Caster level 20th; attack bonus −1 + spell level. The attack bonuses are Charisma-based.
 
 1/day - [[rangoric-srd/spells/Animal Growth|animal growth]] (vermin), [[rangoric-srd/spells/Animal Messenger|animal messenger]] (vermin), [[rangoric-srd/spells/Animal Shapes|animal shapes]] (vermin), [[rangoric-srd/spells/Animal Trance|animal trance]] (vermin), colossal vermin (as [[rangoric-srd/spells/Giant Vermin|giant vermin]], but it can increase the creature’s size from Large to Gargantuan and from Huge to Colossal), [[rangoric-srd/spells/Creeping Doom|creeping doom]], [[rangoric-srd/spells/Giant Vermin|giant vermin]], [[rangoric-srd/spells/Summon Swarm|summon swarm]] (vermin), summon vermin (as [[rangoric-srd/spells/Spells S|summon nature’s ally]], except it summons 10 HD of vermin per level), and vermin plague (as [[rangoric-srd/spells/Insect Plague|insect plague]]).
 
@@ -70,7 +70,7 @@ Engulf (Ex): A worm that walks can choose to engulf an opponent who is no more t
 
 Spells: The worm that walks can cast any spells it could cast when a living character. It also gains several related abilities.
 
-Frightful Presence (Su): When a worm that walks engulfs a victim, witnesses must make a Will save (DC 10 + 1/2 the worm’s HD + the worm’s Cha modifier). Those who make the save are [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]]. Those who fail by 5 or fewer points are [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]]. Those who fail by 6 to10 points are [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]]. Those who fail by 11 or more points are [[rangoric-srd/rules/Special Abilities and Conditions#^cowering|cowering]]. All these conditions last for 1d4 rounds. Those who have seen a worm use this attack before gain a +5 bonus on their saving throws. The victim of the worm’s engulf attack has a -5 penalty on his or her saving throw.
+Frightful Presence (Su): When a worm that walks engulfs a victim, it attacks the Will of witnesses (attack bonus 1/2 the worm’s HD + the worm’s Cha modifier). Those it misses are [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]]. Those who fail by 5 or fewer points are [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]]. Those who fail by 6 to10 points are [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]]. Those who fail by 11 or more points are [[rangoric-srd/rules/Special Abilities and Conditions#^cowering|cowering]]. All these conditions last for 1d4 rounds. Those who have seen a worm use this attack before gain a +5 bonus to their Will Defense against it. The victim of the worm’s engulf attack has a -5 penalty to his or her Will Defense against it.
 
 Discorporate (Ex): If gravely threatened, a worm can discorporate as a free action, simply falling into a pile of individual vermin that slither quickly away. So long as any of the component vermin survive, they can breed and create a new body to house the wizard’s intelligence and personality. Discorporating is a dangerous tactic, because once separated, the vermin are treated no differently than other vermin. Also, the worm stands a good chance of losing all its equipment. However, discorporation almost assures that at least one maggot (if not dozens) will manage to crawl away, and so provide for the worm’s continued existence.
 
@@ -104,13 +104,13 @@ Blindsight (Ex): Worms that walk have [[rangoric-srd/monsters/abilities/Blindsig
 
 Spell Resistance (Ex): A worm that walks has [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] equal to its Challenge Rating +10.
 
-Frightful Presence (Su): When a worm that walks engulfs a victim, witnesses must make a Will save (DC 10 + 1/2 the worm’s HD + the worm’s Cha modifier). Those who make the save are [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]]. Those who fail by 5 or fewer points are [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]]. Those who fail by 6 to10 points are [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]]. Those who fail by 11 or more points are [[rangoric-srd/rules/Special Abilities and Conditions#^cowering|cowering]]. All these conditions last for 1d4 rounds. Those who have seen a worm use this attack before gain a +5 bonus on their saving throws. The victim of the worm’s engulf attack has a -5 penalty on his or her saving throw.
+Frightful Presence (Su): When a worm that walks engulfs a victim, it attacks the Will of witnesses (attack bonus 1/2 the worm’s HD + the worm’s Cha modifier). Those it misses are [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]]. Those who fail by 5 or fewer points are [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]]. Those who fail by 6 to10 points are [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]]. Those who fail by 11 or more points are [[rangoric-srd/rules/Special Abilities and Conditions#^cowering|cowering]]. All these conditions last for 1d4 rounds. Those who have seen a worm use this attack before gain a +5 bonus to their Will Defense against it. The victim of the worm’s engulf attack has a -5 penalty to his or her Will Defense against it.
 
 Discorporate (Ex): If gravely threatened, a worm can discorporate as a free action, simply falling into a pile of individual vermin that slither quickly away. So long as any of the component vermin survive, they can breed and create a new body to house the wizard’s intelligence and personality. Discorporating is a dangerous tactic, because once separated, the vermin are treated no differently than other vermin. Also, the worm stands a good chance of losing all its equipment. However, discorporation almost assures that at least one maggot (if not dozens) will manage to crawl away, and so provide for the worm’s continued existence.
 
 Immunities (Ex): A worm that walks has no discernable anatomy, so it is not subject to critical hits or flanking.
 
-Saves: Same as the character.
+Defenses: Same as the character.
 
 Abilities: Same as the character.
 
@@ -144,7 +144,7 @@ Components: V, S , D F
 Casting Time: 7 days  
 Target: Dead creature touched  
 Duration: Permanent  
-Saving Throw: Fortitude negates (harmless)  
+Defense: Fortitude (harmless)  
 Spell Resistance: Yes (harmless)  
 To Develop: 441,000 gp; 9 days; 17,640 XP. Seeds: life (DC 27), transform (DC 21). Factors: change creature type to aberration (+5 DC); add worm that walks’ spell-like, extraordinary, and supernatural abilities (+40 DC). Mitigating factors: increase casting time by 10 minutes (-20 DC); increase casting time by 7 days (-14 DC).
 

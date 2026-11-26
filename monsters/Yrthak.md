@@ -15,7 +15,7 @@ full-attack: "Bite +17 melee (2d6+7) and 2 claws +17 melee (1d8+7); or sonic lan
 space-reach: "15 ft./10 ft."
 special-attacks: "Explosion"
 special-qualities: "Blindsight 120 ft, immunity to gaze attacks, visual effects and illusions, sight-based attacks and sonic, blind"
-saves: "Fort +12, Ref +12, Will +8"
+defenses: "Fort 22, Ref 22, Will 18"
 abilities: "Str 24, Dex 14, Con 18, Int 7, Wis 15, Cha 11"
 skills: "Acrobatics +7, Perception +18"
 skill-ranks: "Acrobatics 6, Perception 9"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./10 ft.
 - **Special Attacks**: Explosion
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 120 ft, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to gaze attacks, visual effects and illusions, sight-based attacks and sonic, blind
-- **Saves**: Fort +12, Ref +12, Will +8
+- **Defenses**: Fort 22, Ref 22, Will 18
 - **Abilities**: Str 24, Dex 14, Con 18, Int 7, Wis 15, Cha 11
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Perception|Perception]] +18
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

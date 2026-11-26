@@ -14,9 +14,9 @@ cmd: "18"
 attack: "Quarterstaff +1 melee (1d6+1) or flurry of blows +0 melee (1d6+1)"
 full-attack: "Quarterstaff +1 melee (1d6+1); or flurry of blows +0/+0 melee (1d6+1)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Flurry of blows, stunning fist (1/day, DC 13)"
+special-attacks: "Flurry of blows, stunning fist (1/day, +3 vs Fortitude)"
 special-qualities: "Low-light vision, prehensile tail"
-saves: "Fort +2, Ref +5, Will +5"
+defenses: "Fort 12, Ref 15, Will 15"
 abilities: "Str 13, Dex 16, Con 10, Int 12, Wis 17, Cha 6"
 skills: "Acrobatics +9, Athletics +13, Perception +7, Sense Motive +7, Stealth +9"
 skill-ranks: "Acrobatics 1, Athletics 9, Perception 1, Sense Motive 1, Stealth 1"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: [[rangoric-srd/equipment/weapons/Quarterstaff|Quarterstaff]] +1 melee (1d6+1) or flurry of blows +0 melee (1d6+1)
 - **Full Attack**: [[rangoric-srd/equipment/weapons/Quarterstaff|Quarterstaff]] +1 melee (1d6+1); or flurry of blows +0/+0 melee (1d6+1)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: Flurry of blows, stunning fist (1/day, DC 13)
+- **Special Attacks**: Flurry of blows, stunning fist (1/day, +3 vs Fortitude)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Prehensile Tail|prehensile tail]]
-- **Saves**: Fort +2, Ref +5, Will +5
+- **Defenses**: Fort 12, Ref 15, Will 15
 - **Abilities**: Str 13, Dex 16, Con 10, Int 12, Wis 17, Cha 6
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +9
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Stunning Fist|Stunning Fist]]

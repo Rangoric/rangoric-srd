@@ -17,7 +17,7 @@ full-attack: "-"
 space-reach: "15 ft./0 ft."
 special-attacks: "Double manifest, psi-like abilities"
 special-qualities: "Blindsight 60 ft., immunity to electricity, plant traits, resistance to cold 10 and fire 10"
-saves: "Fort +8, Ref +4, Will +5"
+defenses: "Fort 18, Ref 14, Will 15"
 abilities: "Str -, Dex -, Con 16, Int 4, Wis 13, Cha 14"
 skills: "Perception +10"
 skill-ranks: "Perception 6"
@@ -50,7 +50,7 @@ Full **Attack:** -   
 **Space/Reach:** 15 ft./0 ft.     
 **Special Attacks:** Double manifest, psi-like abilities     
 **Special Qualities:** [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., immunity to electricity, [[rangoric-srd/monsters/All Monsters|plant traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance to cold]] 10 and fire 10     
-**Saves:** Fort +8, Ref +4, Will +5     
+**Defenses:** Fort 18, Ref 14, Will 15     
 **Abilities:** Str -, Dex -, Con 16, Int 4, Wis 13, Cha 14     
 **Skills:** [[rangoric-srd/skills/Perception|Perception]] +10     
 **Feats:** [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]     
@@ -70,9 +70,9 @@ An udoroot takes no damage from having a crown severed or destroyed. A severed c
 
 Double Manifest (Ex): An udoroot senses its surroundings and manifests its psi-like abilities through its crowns. It can manifest two psi-like abilities per round, as long as it has at least two crowns remaining.
 
-Psi-Like **Abilities:** At will - [[rangoric-srd/powers/Energy Stun|energy stun]] (electricity, 2d6, DC 15\*), [[rangoric-srd/powers/False Sensory Input|false sensory input]] (DC 15), [[rangoric-srd/powers/Id Insinuation|id insinuation]] (two targets, DC 15\*), [[rangoric-srd/powers/Mind Thrust|mind thrust]] (ML 4th, 4d10, DC 14\*), [[rangoric-srd/powers/Telekinetic Force|telekinetic force]] (275 lb., DC 15\*), [[rangoric-srd/powers/Thought Shield|thought shield]] (power resistance 16\*); 3/day - [[rangoric-srd/powers/Astral Construct (Power)|astral Construct]] (3rd level\*), [[rangoric-srd/powers/Body Adjustment|body adjustment]], [[rangoric-srd/powers/Mental Barrier|mental barrier]].
+Psi-Like **Abilities:** At will - [[rangoric-srd/powers/Energy Stun|energy stun]] (electricity, 2d6, +5\*), [[rangoric-srd/powers/False Sensory Input|false sensory input]] (+5 vs Will), [[rangoric-srd/powers/Id Insinuation|id insinuation]] (two targets, +5 vs Will\*), [[rangoric-srd/powers/Mind Thrust|mind thrust]] (ML 4th, 4d10, +4 vs Will\*), [[rangoric-srd/powers/Telekinetic Force|telekinetic force]] (275 lb., +5 vs Will\*), [[rangoric-srd/powers/Thought Shield|thought shield]] (power resistance 16\*); 3/day - [[rangoric-srd/powers/Astral Construct (Power)|astral Construct]] (3rd level\*), [[rangoric-srd/powers/Body Adjustment|body adjustment]], [[rangoric-srd/powers/Mental Barrier|mental barrier]].
 
-Manifester level 6th. The save DCs are Charisma-based.
+Manifester level 6th. The attack bonuses are Charisma-based.
 
 An udoroot can use its [[rangoric-srd/powers/Body Adjustment|body adjustment]] power to repair damage to one of its crowns, as long as the crown has not been severed or destroyed.
 

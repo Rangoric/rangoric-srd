@@ -15,7 +15,7 @@ full-attack: "Shortspear +1 melee (1d6); or slapping tail +0 melee (1d8; attacks
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., low-light vision, judgment 1/day, monster lore +3, stern gaze, immunity to paralysis and sleep"
-saves: "Fort +3, Ref +2, Will +5"
+defenses: "Fort 13, Ref 12, Will 15"
 abilities: "Str 10, Dex 14, Con 13, Int 6, Wis 17, Cha 14"
 skills: "Acrobatics –6, Intimidation +6, Perception +7, Theology +2"
 skill-ranks: "Acrobatics 0, Intimidation 1, Perception 1, Theology 1"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], judgment 1/day, monster lore +3, stern [[rangoric-srd/monsters/abilities/Gaze|gaze]], immunity to [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] and sleep
-- **Saves**: Fort +3, Ref +2, Will +5
+- **Defenses**: Fort 13, Ref 12, Will 15
 - **Abilities**: Str 10, Dex 14, Con 13, Int 6, Wis 17, Cha 14
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –6, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Theology|Theology]] +2
 - **Feats**: [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (shortspear)
@@ -85,6 +85,6 @@ Wyvarans are defined by their class levels—they don't have racial Hit Dice. Al
 
 ### Combat
 
-**Inquisitor spells known** (CL 1st; concentration +3): 1st (2/day)—_[[rangoric-srd/spells/Cause Fear|cause fear]]_ (DC 15), _[[rangoric-srd/spells/Shield of Faith|shield of faith]]_; 0 (at will)—_[[rangoric-srd/spells/Acid Splash|acid splash]], [[rangoric-srd/spells/Daze|daze]]_ (DC 14), _[[rangoric-srd/spells/Disrupt Undead|disrupt undead]], [[rangoric-srd/spells/Guidance|guidance]]_; **Domain** [[rangoric-srd/class-options/domains/Air Domain|Air]].
+**Inquisitor spells known** (CL 1st; concentration +3): 1st (2/day)—_[[rangoric-srd/spells/Cause Fear|cause fear]]_ (+5 vs Will), _[[rangoric-srd/spells/Shield of Faith|shield of faith]]_; 0 (at will)—_[[rangoric-srd/spells/Acid Splash|acid splash]], [[rangoric-srd/spells/Daze|daze]]_ (+4 vs Will), _[[rangoric-srd/spells/Disrupt Undead|disrupt undead]], [[rangoric-srd/spells/Guidance|guidance]]_; **Domain** [[rangoric-srd/class-options/domains/Air Domain|Air]].
 
 **Domain Spell-Like Abilities** (CL 1st; concentration +3): 6/day—[[rangoric-srd/class-options/domains/Air Domain|lightning arc]] (1d6 electricity).

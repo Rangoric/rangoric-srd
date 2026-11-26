@@ -10,12 +10,12 @@ armor-class: "40 (+10 Dex, +20 natural)"
 base-attack: "+42"
 cmb: "+42"
 cmd: "62 (can't be tripped)"
-attack: "Disintegrating touch +42 (5d6 plus disintegrating touch (Fort DC 38)) melee touch"
-full-attack: "Disintegrating touch +42 (5d6 plus disintegrating touch (Fort DC 38)) melee touch"
+attack: "Disintegrating touch +42 (5d6 plus disintegrating touch (+28 vs Fortitude)) melee touch"
+full-attack: "Disintegrating touch +42 (5d6 plus disintegrating touch (+28 vs Fortitude)) melee touch"
 space-reach: "5 ft./5 ft."
 special-attacks: "Disintegrating touch, vortex"
 special-qualities: "Blindsight 200 ft., construct traits, fast healing 10, planar travel, SR 44; acid, cold, electricity, fire, and sonic resistance 30"
-saves: "Fort +19, Ref +29, Will +29"
+defenses: "Fort 29, Ref 39, Will 39"
 abilities: "Str 10, Dex 30, Con -, Int 14, Wis 30, Cha 30"
 skills: "Fieldcraft +76, Perception +86, Sense Motive +86, Stealth +86"
 skill-ranks: "Fieldcraft 57, Perception 57, Sense Motive 57, Stealth 57"
@@ -44,12 +44,12 @@ Initiative: +18 (+10 Dex, +8 [[rangoric-srd/feats/Superior Initiative|Superior I
 Speed: Fly 90 ft. (perfect)      
 AC: 40 (+10 Dex, +20 natural)      
 Base Attack: +42; CMB: +42; CMD: 62 (can't be tripped)     
-Attack: Disintegrating touch +42 (5d6 plus disintegrating touch (Fort DC 38)) melee touch     
-Full Attack: Disintegrating touch +42 (5d6 plus disintegrating touch (Fort DC 38)) melee touch     
+Attack: Disintegrating touch +42 (5d6 plus disintegrating touch (+28 vs Fortitude)) melee touch     
+Full Attack: Disintegrating touch +42 (5d6 plus disintegrating touch (+28 vs Fortitude)) melee touch     
 Space/Reach: 5 ft./5 ft.     
 Special Attacks: Disintegrating touch, vortex      
 Special Qualities: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 200 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|construct traits]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 10, planar travel, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 44; acid, cold, electricity, fire, and [[rangoric-srd/monsters/abilities/Resistance|sonic resistance]] 30      
-Saves: Fort +19, Ref +29, Will +29      
+Defenses: Fort 29, Ref 39, Will 39      
 Abilities: Str 10, Dex 30, Con -, Int 14, Wis 30, Cha 30      
 Skills: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +76, [[rangoric-srd/skills/Perception|Perception]] +86, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +86, [[rangoric-srd/skills/Stealth|Stealth]] +86     
 Feats: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Sense Motive), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Skill Focus|Skill Focus]] ([[rangoric-srd/skills/Fieldcraft|Fieldcraft]]), [[rangoric-srd/feats/Track|Track]]     
@@ -63,12 +63,12 @@ Advancement: 58-63 HD (Medium-size); 64-79 HD (Large); 80-95 HD (Huge); 96-171 H
 
 #### Combat
 
-Disintegrating Touch (Ex): Any material object that comes into contact with a blackball is immediately [[rangoric-srd/spells/Disintegrate|disintegrated]] unless it succeeds at a Fortitude save (DC 38). A character or object that has been disintegrated by an umbral blot disappears completely, leaving behind not even dust to mark its passing. Those who make a successful saving throw still take 5d6 points of Damage from the disintegrating touch. Likewise, weapons or objects that save take a like amount of Damage. (Remember, tended or held objects save with the same bonus as their owners.)
+Disintegrating Touch (Ex): Any material object that comes into contact with a blackball is immediately [[rangoric-srd/spells/Disintegrate|disintegrated]] if the touch hits it at +28 vs Fortitude. A character or object that has been disintegrated by an umbral blot disappears completely, leaving behind not even dust to mark its passing. Those it misses still take 5d6 points of Damage from the disintegrating touch. Likewise, weapons or objects it misses take a like amount of Damage. (Remember, tended or held objects use the same defenses as their owners.)
 
-Vortex (Ex): Normally a blackball insulates itself somehow from the air around it (otherwise it would perpetually be at the center of a howling wind-storm). If it chooses, instead of allowing the air to bend around it, the blackball can suspend this insulation, causing a sudden rush of wind to pour toward the blackball from all directions. This vortex sucks all the air from a 30-foot-by-30-foot-by-30-foot room in a single round, creating a sudden influx of air in its direction. All flying or floating creatures within 30 feet of the umbral blot who fail a Reflex save (DC 38) are swept along with the wind into contact with the blackball. Nonflying creatures within 30 feet who fail a Reflex save (DC 19) are pulled into contact with the umbral blot. Contact with an umbral blot could lead to disintegration, as noted above.
+Vortex (Ex): Normally a blackball insulates itself somehow from the air around it (otherwise it would perpetually be at the center of a howling wind-storm). If it chooses, instead of allowing the air to bend around it, the blackball can suspend this insulation, causing a sudden rush of wind to pour toward the blackball from all directions. This vortex sucks all the air from a 30-foot-by-30-foot-by-30-foot room in a single round, creating a sudden influx of air in its direction. All flying or floating creatures within 30 feet of the umbral blot whom the wind hits at +28 vs Reflex are swept along with the wind into contact with the blackball. Nonflying creatures within 30 feet whom it hits at +9 vs Reflex are pulled into contact with the umbral blot. Contact with an umbral blot could lead to disintegration, as noted above.
 
 Spell Immunities (Ex): In addition to the spells that an umbral blot is immune to because of its construct traits, it is immune to disintegration spells and variations thereof.
 
 Planar Travel (Ex): A blackball can fold space at will, allowing it to use [[rangoric-srd/spells/Ethereal Jaunt|ethereal jaunt]], [[rangoric-srd/spells/Dimension Door|dimension door]], [[rangoric-srd/spells/Teleport, Greater|greater teleport]], or [[rangoric-srd/spells/Plane Shift|plane shift]] at will as a standard action.
 
-Construct Traits: Immune to mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects), and to [[rangoric-srd/rules/Afflictions#Poison|poison]], sleep, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunning]], [[rangoric-srd/rules/Afflictions#Disease|disease]], death effects, necromantic effects, and any effect that requires a Fortitude save unless it also works on objects. Cannot heal Damage (though [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] and [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] still apply, if present). Not subject to critical hits, subdual Damage, ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|Damage]], ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]], or [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]]. Not at risk of death from massive Damage, but destroyed when reduced to 0 hit points or less; cannot be raised or resurrected. Darkvision 60 ft.
+Construct Traits: Immune to mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects), and to [[rangoric-srd/rules/Afflictions#Poison|poison]], sleep, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunning]], [[rangoric-srd/rules/Afflictions#Disease|disease]], death effects, necromantic effects, and any effect that attacks Fortitude unless it also works on objects. Cannot heal Damage (though [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] and [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] still apply, if present). Not subject to critical hits, subdual Damage, ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|Damage]], ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]], or [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]]. Not at risk of death from massive Damage, but destroyed when reduced to 0 hit points or less; cannot be raised or resurrected. Darkvision 60 ft.

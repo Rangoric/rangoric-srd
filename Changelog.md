@@ -8,6 +8,7 @@ Every departure from the source rules, newest first. One line each, with links t
 
 | Date | Change | Rangoric note | Source | Why |
 | --- | --- | --- | --- | --- |
+| 2026-11-26 | Saving throws as defenses, monsters (DF 61): Tzitzimitl to Zuvembie and the first monster abilities show defense numbers, and their abilities attack a defense instead of allowing a save. | [[DF Batch 61 Changes]] | | [[Saving Throws as Defenses]] DF 61 |
 | 2026-11-26 | Saving throws as defenses, monsters (DF 60): Shipwrecker Crab to Twigjack show defense numbers, and their abilities attack a defense instead of allowing a save. | [[DF Batch 60 Changes]] | | [[Saving Throws as Defenses]] DF 60 |
 | 2026-11-26 | Saving throws as defenses, monsters (DF 59): Pickled Punk to Shining Child show defense numbers, and their abilities attack a defense instead of allowing a save. | [[DF Batch 59 Changes]] | | [[Saving Throws as Defenses]] DF 59 |
 | 2026-11-26 | Saving throws as defenses, monsters (DF 58): Living Wall to Phrenic Creature show defense numbers, and their abilities attack a defense instead of allowing a save. | [[DF Batch 58 Changes]] | | [[Saving Throws as Defenses]] DF 58 |

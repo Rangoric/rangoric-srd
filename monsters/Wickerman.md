@@ -14,9 +14,9 @@ cmd: "48"
 attack: "Slam +19 melee (2d8+13 plus burn and grab) or burning brand +9 ranged (4d6+13 plus burn)"
 full-attack: "2 slams +19 melee (2d8+13 plus burn and grab); or burning brand +9 ranged (4d6+13 plus burn)"
 space-reach: "30 ft./30 ft."
-special-attacks: "Burn (1d6 fire, DC 17), wicker cage"
+special-attacks: "Burn (1d6 fire, +7 vs Reflex), wicker cage"
 special-qualities: "Darkvision 60 ft., low-light vision, fast healing 1, fire healing, hardness 5, constant blaze, immunity to fire, construct traits, vulnerable to cold"
-saves: "Fort +4, Ref +7, Will +4"
+defenses: "Fort 14, Ref 17, Will 14"
 abilities: "Str 37, Dex 16, Con —, Int —, Wis 10, Cha 7"
 skills: "—"
 skill-ranks: ""
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Slam +19 melee (2d8+13 plus [[rangoric-srd/monsters/abilities/Burn|burn]] and [[rangoric-srd/monsters/abilities/Grab|grab]]) or burning brand +9 ranged (4d6+13 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
 - **Full Attack**: 2 slams +19 melee (2d8+13 plus [[rangoric-srd/monsters/abilities/Burn|burn]] and [[rangoric-srd/monsters/abilities/Grab|grab]]); or burning brand +9 ranged (4d6+13 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
 - **Space/Reach**: 30 ft./30 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Burn|Burn]] (1d6 fire, DC 17), [[rangoric-srd/monsters/abilities/Wicker Cage|wicker cage]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Burn|Burn]] (1d6 fire, +7 vs Reflex), [[rangoric-srd/monsters/abilities/Wicker Cage|wicker cage]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 1, [[rangoric-srd/monsters/abilities/Fire Healing|fire healing]], hardness 5, [[rangoric-srd/monsters/abilities/Constant Blaze|constant blaze]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], vulnerable to cold
-- **Saves**: Fort +4, Ref +7, Will +4
+- **Defenses**: Fort 14, Ref 17, Will 14
 - **Abilities**: Str 37, Dex 16, Con —, Int —, Wis 10, Cha 7
 - **Skills**: —
 - **Feats**: —
@@ -72,7 +72,7 @@ A wickerman is a towering wicker statue with a cage in its chest. Inanimate ones
 
 **[[rangoric-srd/monsters/abilities/Fire Healing|Fire Healing]] (Ex)**: A magical attack that deals fire damage heals the wickerman 1 point of damage for every 3 points of damage the attack would otherwise deal.
 
-**[[rangoric-srd/monsters/abilities/Wicker Cage|Wicker Cage]] (Su)**: If a wickerman successfully grapples a creature, as a move action it can shove the grabbed creature into the cage built into its chest. This works like swallow whole (4d6 fire damage plus the target automatically catches on fire, AC 17, 15 hp). The DC to put out this fire is 17. If a creature cuts its way free, the wickerman can't use this ability again until it is fully healed. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Wicker Cage|Wicker Cage]] (Su)**: If a wickerman successfully grapples a creature, as a move action it can shove the grabbed creature into the cage built into its chest. This works like swallow whole (4d6 fire damage plus the target automatically catches on fire, AC 17, 15 hp). The DC to put out this fire is 17. If a creature cuts its way free, the wickerman can't use this ability again until it is fully healed. The attack bonus is Constitution-based.
 
 ### Construction
 

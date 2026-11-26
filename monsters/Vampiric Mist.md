@@ -16,7 +16,7 @@ full-attack: "Touch +7 melee (bleed and blood siphon)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Bleed (1d6)"
 special-qualities: "Darkvision 60 ft., sense blood, amorphous, blood overdose, misty form, damage reduction 5/magic, vulnerable to fire"
-saves: "Fort +4, Ref +5, Will +5"
+defenses: "Fort 14, Ref 15, Will 15"
 abilities: "Str —, Dex 19, Con 16, Int 7, Wis 13, Cha 10"
 skills: "Acrobatics +12, Perception +8, Stealth +11"
 skill-ranks: "Acrobatics 5, Perception 4, Stealth 4"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (1d6)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Sense Blood|sense blood]], [[rangoric-srd/monsters/abilities/Amorphous|amorphous]], [[rangoric-srd/monsters/abilities/Blood Overdose|blood overdose]], [[rangoric-srd/monsters/abilities/Misty Form|misty form]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/magic, vulnerable to fire
-- **Saves**: Fort +4, Ref +5, Will +5
+- **Defenses**: Fort 14, Ref 15, Will 15
 - **Abilities**: Str —, Dex 19, Con 16, Int 7, Wis 13, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +11
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -72,7 +72,7 @@ Vampiric mists speak Aklo.
 
 **Blood Siphon (Ex)**: A vampiric mist drains blood with each melee touch attack dealing 1d3 points of Constitution damage. Every time a vampiric mist damages a creature in this way, it heals 1d8 hit points. Hit points healed in excess of its maximum are gained as temporary hit points, to a maximum amount equal to its Constitution score. These temporary hit points last for 1 hour.
 
-**[[rangoric-srd/monsters/abilities/Blood Overdose|Blood Overdose]] (Su)**: When a vampiric mist gorges on blood to an extent that it gains temporary hit points, it moves much more quickly. It gains a +2 bonus to its Armor Class and on Reflex saves, and can take one additional move action each round.
+**[[rangoric-srd/monsters/abilities/Blood Overdose|Blood Overdose]] (Su)**: When a vampiric mist gorges on blood to an extent that it gains temporary hit points, it moves much more quickly. It gains a +2 bonus to its Armor Class and Reflex Defense, and can take one additional move action each round.
 
 **[[rangoric-srd/monsters/abilities/Misty Form|Misty Form]] (Ex)**: A vampiric mist's body is composed of a semisolid red mist similar in consistency to thick foam. The vampiric mist does not have a Strength score, and it cannot manipulate or wear solid objects. This form grants it the amorphous defensive ability, and allows it to move through areas as small as 1 inch in diameter with no reduction to its speed. The creature can speak in a hissing voice. A vampiric mist cannot enter water or other fluids, and is treated as a creature two size categories smaller than its actual size (Tiny for most vampiric mists) for the purposes of how wind affects it.
 

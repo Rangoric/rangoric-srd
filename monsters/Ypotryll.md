@@ -15,7 +15,7 @@ full-attack: "Gore +31 melee (4d8+16 plus push) and 2 hooves +29 melee (2d8+11) 
 space-reach: "10 ft./15 ft. (15 ft. with tail slap)"
 special-attacks: "Destructive charge, push (gore, tail slap, 10 ft.), thundering path, trample (2d8+16), unstoppable force"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, bloody-minded, damage reduction 5/—"
-saves: "Fort +21, Ref +12, Will +9"
+defenses: "Fort 31, Ref 22, Will 19"
 abilities: "Str 32, Dex 9, Con 21, Int 2, Wis 10, Cha 7"
 skills: "Acrobatics +6, Athletics +23 (+35 jumping), Fieldcraft +4, Perception +12"
 skill-ranks: "Acrobatics 4, Athletics 5, Fieldcraft 1, Perception 9"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./15 ft. (15 ft. with tail slap)
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Destructive Charge|Destructive charge]], [[rangoric-srd/monsters/abilities/Push|push]] (gore, tail slap, 10 ft.), [[rangoric-srd/monsters/abilities/Thundering Path|thundering path]], [[rangoric-srd/monsters/abilities/Trample|trample]] (2d8+16), [[rangoric-srd/monsters/abilities/Unstoppable Force|unstoppable force]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Bloody-Minded|bloody-minded]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/—
-- **Saves**: Fort +21, Ref +12, Will +9
+- **Defenses**: Fort 31, Ref 22, Will 19
 - **Abilities**: Str 32, Dex 9, Con 21, Int 2, Wis 10, Cha 7
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +23 (+35 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Perception|Perception]] +12
 - **Feats**: [[rangoric-srd/feats/Charge Through|Charge Through]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Greater Overrun|Greater Overrun]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Toughness|Toughness]]
@@ -67,7 +67,7 @@ In the wild, ypotrylls spend their time roaming their territory looking for enou
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Bloody-Minded|Bloody-Minded]] (Ex)**: A ypotryll is not easily swayed from its bloody business. It gains a +6 bonus on saves against charm and compulsion effects.
+**[[rangoric-srd/monsters/abilities/Bloody-Minded|Bloody-Minded]] (Ex)**: A ypotryll is not easily swayed from its bloody business. It gains a +6 bonus on defenses against charm and compulsion effects.
 
 **[[rangoric-srd/monsters/abilities/Destructive Charge|Destructive Charge]] (Ex)**: A ypotryll's charge attack ignores up to 1 point of a target object's hardness for each 5 feet charged.
 

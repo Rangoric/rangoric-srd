@@ -13,9 +13,9 @@ cmd: "42 (can't be tripped)"
 attack: "Slam +21 melee (2d6+12 plus energy drain) or scrap ball +12 ranged (2d6+12)"
 full-attack: "4 slams +21 melee (2d6+12 plus energy drain); or 1 scrap ball +12 ranged (2d6+12)"
 space-reach: "20 ft./5 ft."
-special-attacks: "Absorb dying creature, energy drain (1 level, DC 26), trample (2d6+18, DC 31), spell-like abilities"
-special-qualities: "Darkvision 60 ft., frightful presence (60 ft., DC 26), channel resistance +4, profane magic, damage reduction 10/bludgeoning and magic, undead traits"
-saves: "Fort +13, Ref +9, Will +17"
+special-attacks: "Absorb dying creature, energy drain (1 level, +16 vs Fortitude), trample (2d6+18, +21 vs Reflex), spell-like abilities"
+special-qualities: "Darkvision 60 ft., frightful presence (60 ft., +16 vs Will), channel resistance +4, profane magic, damage reduction 10/bludgeoning and magic, undead traits"
+defenses: "Fort 23, Ref 19, Will 27"
 abilities: "Str 34, Dex 17, Con —, Int 9, Wis 22, Cha 25"
 skills: "Athletics +33, Perception +27"
 skill-ranks: "Athletics 18, Perception 18"
@@ -47,9 +47,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Slam +21 melee (2d6+12 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]) or scrap ball +12 ranged (2d6+12)
 - **Full Attack**: 4 slams +21 melee (2d6+12 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]); or 1 scrap ball +12 ranged (2d6+12)
 - **Space/Reach**: 20 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Absorb Dying Creature|Absorb dying creature]], [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] (1 level, DC 26), [[rangoric-srd/monsters/abilities/Trample|trample]] (2d6+18, DC 31), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Frightful Presence|frightful presence]] (60 ft., DC 26), [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/abilities/Profane Magic|profane magic]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/bludgeoning and magic, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-- **Saves**: Fort +13, Ref +9, Will +17
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Absorb Dying Creature|Absorb dying creature]], [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] (1 level, +16 vs Fortitude), [[rangoric-srd/monsters/abilities/Trample|trample]] (2d6+18, +21 vs Reflex), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Frightful Presence|frightful presence]] (60 ft., +16 vs Will), [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/abilities/Profane Magic|profane magic]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/bludgeoning and magic, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
+- **Defenses**: Fort 23, Ref 19, Will 27
 - **Abilities**: Str 34, Dex 17, Con —, Int 9, Wis 22, Cha 25
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +33, [[rangoric-srd/skills/Perception|Perception]] +27
 - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Greater Overrun|Greater Overrun]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Strike Back|Strike Back]]

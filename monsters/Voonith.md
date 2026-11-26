@@ -16,7 +16,7 @@ full-attack: "Bite +8 melee (1d6+1 plus trip) and 4 claws +7 melee (1d3+1)"
 space-reach: "5 ft./5 ft. (10 ft. with bite)"
 special-attacks: "Blood-freezing howl, pounce"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, amphibious"
-saves: "Fort +6, Ref +7, Will +2"
+defenses: "Fort 16, Ref 17, Will 12"
 abilities: "Str 13, Dex 16, Con 14, Int 5, Wis 12, Cha 13"
 skills: "Athletics +14, Perception +8, Stealth +12"
 skill-ranks: "Athletics 10, Perception 4, Stealth 2"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft. (10 ft. with bite)
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood-Freezing Howl|Blood-freezing howl]], [[rangoric-srd/monsters/abilities/Pounce|pounce]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]]
-- **Saves**: Fort +6, Ref +7, Will +2
+- **Defenses**: Fort 16, Ref 17, Will 12
 - **Abilities**: Str 13, Dex 16, Con 14, Int 5, Wis 12, Cha 13
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +12
 - **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (blood-freezing howl), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
@@ -72,4 +72,4 @@ Vooniths are 4 feet long and weigh 70 pounds, yet rumors tell of vooniths that h
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Blood-Freezing Howl|Blood-Freezing Howl]] (Su)**: As a standard action, a voonith can unleash a bloodcurdling howl. All creatures within a 30-foot-radius burst must succeed at a DC 15 Will save or become [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|dazed]] for 1 round and then [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for an additional 1d6 rounds. Any creature that makes a successful save against a voonith's howl is immune to the same voonith's howl for 24 hours. This is a sonic mind-affecting fear effect. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Blood-Freezing Howl|Blood-Freezing Howl]] (Su)**: As a standard action, a voonith can unleash a bloodcurdling howl. All creatures within a 30-foot-radius burst are attacked at +5 vs Will, and on a hit become [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|dazed]] for 1 round and then [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for an additional 1d6 rounds. Any creature a voonith's howl misses is immune to the same voonith's howl for 24 hours. This is a sonic mind-affecting fear effect. The attack bonus is Charisma-based.

@@ -15,7 +15,7 @@ full-attack: "Sting +10 melee (1d6+4 plus poison) and bite +10 melee (2d6+4 plus
 space-reach: "10 ft./5 ft."
 special-attacks: "Rake (2 talons +10, 1d6+4), poison"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, immunity to sleep and paralysis"
-saves: "Fort +9, Ref +6, Will +8"
+defenses: "Fort 19, Ref 16, Will 18"
 abilities: "Str 19, Dex 12, Con 18, Int 7, Wis 12, Cha 9"
 skills: "Acrobatics +5, Perception +18, Sense Motive +11, Stealth +7"
 skill-ranks: "Acrobatics 3, Perception 10, Sense Motive 7, Stealth 7"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rake|Rake]] (2 talons +10, 1d6+4), [[rangoric-srd/monsters/abilities/Poison|poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], immunity to sleep and [[rangoric-srd/monsters/abilities/Paralysis|paralysis]]
-- **Saves**: Fort +9, Ref +6, Will +8
+- **Defenses**: Fort 19, Ref 16, Will 18
 - **Abilities**: Str 19, Dex 12, Con 18, Int 7, Wis 12, Cha 9
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +7
 - **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -76,4 +76,4 @@ Wyverns speak Draconic, but usually don’t bother with anything more elaborate 
 
 Wyverns are rather stupid but always aggressive: They attack nearly anything that isn’t obviously more powerful than themselves. A wyvern dives from the air, snatching the opponent with its talons and stinging it to death.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Wyvern Poison|Wyvern Poison]]: Sting—injury; _save_ Fort DC 17; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Con damage; _cure_ 2 consecutive saves. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Wyvern Poison|Wyvern Poison]]: Sting—injury; _attack_ +7 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Con damage; _cure_ 2 consecutive misses. The attack bonus is Constitution-based.

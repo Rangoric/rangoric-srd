@@ -13,9 +13,9 @@ cmd: "15"
 attack: "Gore +3 melee (1d8+3)"
 full-attack: "Gore +3 melee (1d8+3)"
 space-reach: "10 ft./5 ft."
-special-attacks: "Stampede, trample (1d6+3, DC 13)"
-special-qualities: "Low-light vision, scent, stench (DC 13, 10 rounds)"
-saves: "Fort +5, Ref +4, Will +1"
+special-attacks: "Stampede, trample (1d6+3, +3 vs Reflex)"
+special-qualities: "Low-light vision, scent, stench (+3 vs Fortitude, 10 rounds)"
+defenses: "Fort 15, Ref 14, Will 11"
 abilities: "Str 14, Dex 13, Con 14, Int 1, Wis 12, Cha 5"
 skills: "Perception +6"
 skill-ranks: "Perception 2"
@@ -47,9 +47,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Gore +3 melee (1d8+3)
 - **Full Attack**: Gore +3 melee (1d8+3)
 - **Space/Reach**: 10 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Stampede|Stampede]], [[rangoric-srd/monsters/abilities/Trample|trample]] (1d6+3, DC 13)
-- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Stench|stench]] (DC 13, 10 rounds)
-- **Saves**: Fort +5, Ref +4, Will +1
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Stampede|Stampede]], [[rangoric-srd/monsters/abilities/Trample|trample]] (1d6+3, +3 vs Reflex)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Stench|stench]] (+3 vs Fortitude, 10 rounds)
+- **Defenses**: Fort 15, Ref 14, Will 11
 - **Abilities**: Str 14, Dex 13, Con 14, Int 1, Wis 12, Cha 5
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +6
 - **Feats**: [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (gore)
@@ -69,4 +69,4 @@ Yzobus are extremely aggressive, and fight ruthlessly to defend even the weakest
 
 ### Combat
 
-**Stampede (Ex)**: A stampede occurs if three or more creatures with stampede make a trample attack while remaining adjacent to each other. While stampeding, the creatures can trample foes of their size or smaller, and the trample's save DC increases by +2.
+**Stampede (Ex)**: A stampede occurs if three or more creatures with stampede make a trample attack while remaining adjacent to each other. While stampeding, the creatures can trample foes of their size or smaller, and the trample's attack bonus increases by +2.

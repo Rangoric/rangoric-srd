@@ -15,7 +15,7 @@ full-attack: "Bite +23 melee (2d6+8/19–20 plus 3d6 acid) and 4 tentacles +21 m
 space-reach: "10 ft./10 ft. (20 ft. with tentacle)"
 special-attacks: "Captivating cloud, constrict (1d6+8)"
 special-qualities: "Low-light vision, tremorsense 60 ft., immunity to acid, plant traits, cold lethargy"
-saves: "Fort +16, Ref +12, Will +6"
+defenses: "Fort 26, Ref 22, Will 16"
 abilities: "Str 26, Dex 19, Con 19, Int 1, Wis 10, Cha 6"
 skills: "Perception +13, Stealth +13"
 skill-ranks: "Perception 10, Stealth 10"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft. (20 ft. with tentacle)
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Captivating Cloud|Captivating cloud]], [[rangoric-srd/monsters/abilities/Constrict|constrict]] (1d6+8)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], [[rangoric-srd/monsters/abilities/Cold Lethargy|cold lethargy]]
-- **Saves**: Fort +16, Ref +12, Will +6
+- **Defenses**: Fort 26, Ref 22, Will 16
 - **Abilities**: Str 26, Dex 19, Con 19, Int 1, Wis 10, Cha 6
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +13
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (tentacle)
@@ -67,6 +67,6 @@ Since viper vines gain nourishment through the consumption of creatures rather t
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Captivating Cloud|Captivating Cloud]] (Su)**: Once per day as a swift action, a viper vine can emit a transparent cloud of pollen in a 60-foot spread that has the power to lull the minds of those that smell it. Once activated, the cloud persists for 5 rounds unless dispersed by moderate or stronger wind. All creatures in the cloud must succeed on a DC 24 Will saving throw each round or become captivated. Once a creature becomes captivated, it takes no actions save to approach the viper vine via the most direct route possible. If this path leads it into a dangerous area, such as through fire or off a cliff, that creature receives a second saving throw to end the effect before moving into peril. A victim that is attacked by the viper vine gets a new saving throw as a free action during each of the vine's attacks to overcome the effect. This is a mind-affecting effect. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Captivating Cloud|Captivating Cloud]] (Su)**: Once per day as a swift action, a viper vine can emit a transparent cloud of pollen in a 60-foot spread that has the power to lull the minds of those that smell it. Once activated, the cloud persists for 5 rounds unless dispersed by moderate or stronger wind. All creatures in the cloud are attacked at +14 vs Will each round, and on a hit become captivated. Once a creature becomes captivated, it takes no actions save to approach the viper vine via the most direct route possible. If this path leads it into a dangerous area, such as through fire or off a cliff, the effect attacks that creature again, and a miss ends it, before it moves into peril. The effect attacks a victim again during each of the vine's attacks on it, and a miss overcomes the effect. This is a mind-affecting effect. The attack bonus is Constitution-based.
 
 **[[rangoric-srd/monsters/abilities/Cold Lethargy|Cold Lethargy]] (Ex)**: Exposure to any cold effect slows a viper vine (as a slow spell) for 1d4 rounds.

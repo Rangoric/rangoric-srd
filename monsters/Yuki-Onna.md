@@ -16,7 +16,7 @@ full-attack: "2 touches +10 melee (4d6 cold plus chilling touch)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Chilling touch, fascinating gaze, spell-like abilities"
 special-qualities: "Darkvision 60 ft., snowstorm (200 ft.), incorporeal, immunity to cold, undead traits, vulnerable to fire, snow dependency"
-saves: "Fort +9, Ref +7, Will +11"
+defenses: "Fort 19, Ref 17, Will 21"
 abilities: "Str —, Dex 18, Con —, Int 17, Wis 21, Cha 22"
 skills: "Acrobatics +12, Deception +15, Fieldcraft +14, Intimidation +18, Mysticism +15, Perception +17, Sense Motive +17, Stealth +16"
 skill-ranks: "Acrobatics 5, Deception 6, Fieldcraft 6, Intimidation 9, Mysticism 9, Perception 9, Sense Motive 9, Stealth 9"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Chilling Touch|Chilling touch]], [[rangoric-srd/monsters/abilities/Fascinating Gaze|fascinating gaze]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Snowstorm|snowstorm]] (200 ft.), [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], vulnerable to fire, [[rangoric-srd/monsters/abilities/Snow Dependency|snow dependency]]
-- **Saves**: Fort +9, Ref +7, Will +11
+- **Defenses**: Fort 19, Ref 17, Will 21
 - **Abilities**: Str —, Dex 18, Con —, Int 17, Wis 21, Cha 22
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Deception|Deception]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +18, [[rangoric-srd/skills/Mysticism|Mysticism]] +15, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +16
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spring Attack|Spring Attack]]
@@ -72,11 +72,11 @@ Yuki-onnas speak Common.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +16): Constant—_[[rangoric-srd/spells/Blur|blur]]_; 3/day—_[[rangoric-srd/spells/Cone of Cold|cone of cold]]_ (DC 21), _[[rangoric-srd/spells/Eyebite|eyebite]]_ (comatose and panicked only, DC 22), _[[rangoric-srd/spells/Ice Storm|ice storm]]_.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +16): Constant—_[[rangoric-srd/spells/Blur|blur]]_; 3/day—_[[rangoric-srd/spells/Cone of Cold|cone of cold]]_ (+11 vs Reflex), _[[rangoric-srd/spells/Eyebite|eyebite]]_ (comatose and panicked only, +12 vs Fortitude), _[[rangoric-srd/spells/Ice Storm|ice storm]]_.
 
-**[[rangoric-srd/monsters/abilities/Chilling Touch|Chilling Touch]] (Su)**: A yuki-onna's touch causes 4d6 cold damage. Whenever a creature takes cold damage in this manner, it must make a DC 20 Fortitude save to avoid being [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] by the supernatural cold for 1 round. This duration stacks. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Chilling Touch|Chilling Touch]] (Su)**: A yuki-onna's touch causes 4d6 cold damage. Whenever a creature takes cold damage in this manner, it is attacked at +10 vs Fortitude, and on a hit is [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] by the supernatural cold for 1 round. This duration stacks. The attack bonus is Charisma-based.
 
-**[[rangoric-srd/monsters/abilities/Fascinating Gaze|Fascinating Gaze]] (Su)**: Fascinated for 1d4 rounds, 30 feet, Will DC 20 negates. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Fascinating Gaze|Fascinating Gaze]] (Su)**: Fascinated for 1d4 rounds, 30 feet, +10 vs Will. The attack bonus is Charisma-based.
 
 **[[rangoric-srd/monsters/abilities/Snow Dependency|Snow Dependency]] (Ex)**: A yuki-onna is [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] if she is ever in an area without snow while her snowstorm aura is suppressed or otherwise not functioning.
 
