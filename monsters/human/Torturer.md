@@ -15,7 +15,7 @@ full-attack: "+1 heavy flail +10 melee (1d10+7/19–20); or unarmed strike +9 me
 space-reach: "5 ft./5 ft. (15 ft. with whip)"
 special-attacks: "—"
 special-qualities: "Bravery +1"
-saves: "Fort +6, Ref +2, Will +5 (+1 vs. fear)"
+defenses: "Fort 16, Ref 12, Will 15 (+1 vs. fear)"
 abilities: "Str 18, Dex 13, Con 14, Int 8, Wis 12, Cha 10"
 skills: "Craft (traps) +4, Dungeoneering +3, Intimidation +14, Medicine +6, Perception +11, Persuasion +7, Profession (torturer) +19, Sense Motive +11"
 skill-ranks: "Craft (traps) 2, Dungeoneering 1, Intimidation 13, Medicine 2, Perception 7, Persuasion 3, Profession (torturer) 17, Sense Motive 7"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft. (15 ft. with whip)
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/classes/Fighter#^fighter-bravery|Bravery]] +1
-- **Saves**: Fort +6, Ref +2, Will +5 (+1 vs. fear)
+- **Defenses**: Fort 16, Ref 12, Will 15 (+1 vs. fear)
 - **Abilities**: Str 18, Dex 13, Con 14, Int 8, Wis 12, Cha 10
 - **Skills**: [[rangoric-srd/skills/Craft|Craft]] (traps) +4, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +3, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Medicine|Medicine]] +6, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Profession|Profession]] (torturer) +19, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11
 - **Feats**: [[rangoric-srd/feats/Exotic Weapon Proficiency|Exotic Weapon Proficiency]] (whip), [[rangoric-srd/feats/Improved Grapple|Improved Grapple]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Scorpion Style|Scorpion Style]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Persuasion, Profession \[torturer\])

@@ -16,7 +16,7 @@ full-attack: "Greatsword +6 melee (2d6+7/19–20) orheavy flail +6 (1d10+7/19–
 space-reach: "5 ft./5 ft."
 special-attacks: "Rage (6 rounds/day)"
 special-qualities: "Fast movement"
-saves: "Fort +6, Ref +1, Will +3"
+defenses: "Fort 16, Ref 11, Will 13"
 abilities: "Str 21, Dex 13, Con 18, Int 10, Wis 12, Cha 8"
 skills: "Athletics +5, Fieldcraft +5, Nature +4, Perception +5"
 skill-ranks: "Athletics 0, Fieldcraft 1, Nature 1, Perception 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (6 rounds/day)
 - **Special Qualities**: [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|Fast movement]]
-- **Saves**: Fort +6, Ref +1, Will +3
+- **Defenses**: Fort 16, Ref 11, Will 13
 - **Abilities**: Str 21, Dex 13, Con 18, Int 10, Wis 12, Cha 8
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Nature|Nature]] +4, [[rangoric-srd/skills/Perception|Perception]] +5
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Power Attack|Power Attack]]

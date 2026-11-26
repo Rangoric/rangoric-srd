@@ -16,7 +16,7 @@ full-attack: "Quarterstaff +5/+0 melee (1d6–1)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "—"
-saves: "Fort +2, Ref +3, Will +8"
+defenses: "Fort 12, Ref 13, Will 18"
 abilities: "Str 9, Dex 10, Con 8, Int 16, Wis 13, Cha 11"
 skills: "Appraise +14, Arcana +18, Dungeoneering +7, Emulation +14, Engineering +7, Linguistics +14, Mysticism +16, Nature +17, Society +14, Theology +17"
 skill-ranks: "Appraise 8, Arcana 11, Dungeoneering 1, Emulation 13, Engineering 1, Linguistics 8, Mysticism 10, Nature 11, Society 8, Theology 11"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: —
-- **Saves**: Fort +2, Ref +3, Will +8
+- **Defenses**: Fort 12, Ref 13, Will 18
 - **Abilities**: Str 9, Dex 10, Con 8, Int 16, Wis 13, Cha 11
 - **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +14, [[rangoric-srd/skills/Arcana|Arcana]] +18, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +7, [[rangoric-srd/skills/Emulation|Emulation]] +14, [[rangoric-srd/skills/Engineering|Engineering]] +7, [[rangoric-srd/skills/Linguistics|Linguistics]] +14, [[rangoric-srd/skills/Mysticism|Mysticism]] +16, [[rangoric-srd/skills/Nature|Nature]] +17, [[rangoric-srd/skills/Society|Society]] +14, [[rangoric-srd/skills/Theology|Theology]] +17
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Arcana, Knowledge \[arcana, Emulation, nature, planes\])

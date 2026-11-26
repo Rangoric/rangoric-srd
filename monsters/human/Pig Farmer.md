@@ -16,7 +16,7 @@ full-attack: "Scythe –2 melee (2d4+1/×4); or club +2 melee (1d6+1); or club +
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "—"
-saves: "Fort +1, Ref –1, Will +0"
+defenses: "Fort 11, Ref 9, Will 10"
 abilities: "Str 13, Dex 9, Con 12, Int 10, Wis 11, Cha 8"
 skills: "Animal Handling +7, Craft (carpentry) +6, Medicine +5, Nature +1, Profession (farmer) +5"
 skill-ranks: "Animal Handling 5, Craft (carpentry) 3, Medicine 2, Nature 1, Profession (farmer) 2"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: —
-- **Saves**: Fort +1, Ref –1, Will +0
+- **Defenses**: Fort 11, Ref 9, Will 10
 - **Abilities**: Str 13, Dex 9, Con 12, Int 10, Wis 11, Cha 8
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +7, [[rangoric-srd/skills/Craft|Craft]] (carpentry) +6, [[rangoric-srd/skills/Medicine|Medicine]] +5, [[rangoric-srd/skills/Nature|Nature]] +1, [[rangoric-srd/skills/Profession|Profession]] (farmer) +5
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Animal Handling, Medicine)

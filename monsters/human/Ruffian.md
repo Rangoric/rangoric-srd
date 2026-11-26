@@ -16,7 +16,7 @@ full-attack: "Masterwork dagger +7 melee (1d4+3/19–20); or club +6 melee (1d6+
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "—"
-saves: "Fort +3, Ref +1, Will +1"
+defenses: "Fort 13, Ref 11, Will 11"
 abilities: "Str 16, Dex 8, Con 12, Int 11, Wis 9, Cha 10"
 skills: "Deception +5, Intimidation +8, Perception +4, Sense Motive +1, Stealth +9"
 skill-ranks: "Deception 2, Intimidation 5, Perception 2, Sense Motive 2, Stealth 7"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: —
-- **Saves**: Fort +3, Ref +1, Will +1
+- **Defenses**: Fort 13, Ref 11, Will 11
 - **Abilities**: Str 16, Dex 8, Con 12, Int 11, Wis 9, Cha 10
 - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +1, [[rangoric-srd/skills/Stealth|Stealth]] +9
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Intimidation, Stealth), [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Toughness|Toughness]]

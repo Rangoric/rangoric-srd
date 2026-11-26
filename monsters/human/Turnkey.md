@@ -15,7 +15,7 @@ full-attack: "Masterwork guisarme +9 melee (2d4+4/×3); or spiked gauntlet +8 me
 space-reach: "5 ft./5 ft. (10 ft. with guisarme)"
 special-attacks: "—"
 special-qualities: "—"
-saves: "Fort +5, Ref +1, Will +0"
+defenses: "Fort 15, Ref 11, Will 10"
 abilities: "Str 16, Dex 11, Con 12, Int 8, Wis 9, Cha 10"
 skills: "Intimidation +10, Perception +5, Sense Motive +2"
 skill-ranks: "Intimidation 7, Perception 2, Sense Motive 2"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft. (10 ft. with guisarme)
 - **Special Attacks**: —
 - **Special Qualities**: —
-- **Saves**: Fort +5, Ref +1, Will +0
+- **Defenses**: Fort 15, Ref 11, Will 10
 - **Abilities**: Str 16, Dex 11, Con 12, Int 8, Wis 9, Cha 10
 - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +2
 - **Feats**: [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

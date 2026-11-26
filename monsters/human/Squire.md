@@ -15,7 +15,7 @@ full-attack: "Lance +1 melee (1d8+1/×3); or light pick +1 melee (1d4+1/×4); or
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "—"
-saves: "Fort +1, Ref +1, Will +1"
+defenses: "Fort 11, Ref 11, Will 11"
 abilities: "Str 13, Dex 13, Con 12, Int 9, Wis 8, Cha 10"
 skills: "Animal Handling +7, Craft (armor) +3, Craft (weapons) +3, Society +3"
 skill-ranks: "Animal Handling 3, Craft (armor) 1, Craft (weapons) 1, Society 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: —
-- **Saves**: Fort +1, Ref +1, Will +1
+- **Defenses**: Fort 11, Ref 11, Will 11
 - **Abilities**: Str 13, Dex 13, Con 12, Int 9, Wis 8, Cha 10
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +7, [[rangoric-srd/skills/Craft|Craft]] (armor) +3, [[rangoric-srd/skills/Craft|Craft]] (weapons) +3, [[rangoric-srd/skills/Society|Society]] +3
 - **Feats**: [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Animal Handling)

@@ -15,7 +15,7 @@ full-attack: "Short sword +7 melee (1d6+3/19–20); or masterwork shortbow +8 ra
 space-reach: "5 ft./5 ft."
 special-attacks: "Sneak attack +3d6, debilitating injury"
 special-qualities: "Evasion, danger sense +2, uncanny dodge, rogue talents (fast stealth, rogue crawl, trap spotter), trapfinding +3, finesse training (short sword), rogue's edge (Engineering)"
-saves: "Fort +6, Ref +8, Will +2"
+defenses: "Fort 16, Ref 18, Will 12"
 abilities: "Str 12, Dex 17, Con 14, Int 14, Wis 10, Cha 8"
 skills: "Acrobatics +12, Appraise +11, Athletics +10, Deception +5, Dungeoneering +11, Emulation +8, Engineering +20, Escape Artist +12, Linguistics +6, Perception +14 (+17 to find traps), Sleight of Hand +12, Society +6, Stealth +15"
 skill-ranks: "Acrobatics 6, Appraise 6, Athletics 6, Deception 3, Dungeoneering 6, Emulation 6, Engineering 14, Escape Artist 8, Linguistics 1, Perception 11, Sleight of Hand 6, Society 1, Stealth 8"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +3d6, [[rangoric-srd/classes/Rogue#^rogue-debilitating-injury|debilitating injury]]
 - **Special Qualities**: [[rangoric-srd/classes/Rogue#^rogue-evasion|Evasion]], [[rangoric-srd/classes/Rogue#^rogue-trap-sense|danger sense]] +2, [[rangoric-srd/classes/Rogue#^rogue-uncanny-dodge|uncanny dodge]], [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]] ([[rangoric-srd/class-options/rogue-talents/Fast Stealth (Rogue Talent)|fast stealth]], [[rangoric-srd/class-options/rogue-talents/Rogue Crawl (Rogue Talent)|rogue crawl]], [[rangoric-srd/class-options/rogue-talents/Trap Spotter (Rogue Talent)|trap spotter]]), [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +3, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]] (short sword), [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]] ([[rangoric-srd/skills/Engineering|Engineering]])
-- **Saves**: Fort +6, Ref +8, Will +2
+- **Defenses**: Fort 16, Ref 18, Will 12
 - **Abilities**: Str 12, Dex 17, Con 14, Int 14, Wis 10, Cha 8
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Appraise|Appraise]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Deception|Deception]] +5, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +11, [[rangoric-srd/skills/Emulation|Emulation]] +8, [[rangoric-srd/skills/Engineering|Engineering]] +20, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +12, [[rangoric-srd/skills/Linguistics|Linguistics]] +6, [[rangoric-srd/skills/Perception|Perception]] +14 (+17 to find traps), [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +12, [[rangoric-srd/skills/Society|Society]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +15
 - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Engineering, Stealth)

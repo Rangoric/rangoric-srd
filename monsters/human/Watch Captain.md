@@ -15,7 +15,7 @@ full-attack: "+1 halberd +14/+9 melee (1d10+10/×3); or sap +11/+6 melee (1d6+4 
 space-reach: "5 ft./5 ft."
 special-attacks: "Weapon training (pole arms +1)"
 special-qualities: "Bravery +2, armor training 2"
-saves: "Fort +8, Ref +4, Will +4 (+2 vs. fear)"
+defenses: "Fort 18, Ref 14, Will 14 (+2 vs. fear)"
 abilities: "Str 18, Dex 12, Con 14, Int 13, Wis 8, Cha 10"
 skills: "Animal Handling +4, Engineering +5, Intimidation +10, Perception +7, Persuasion +6, Profession (soldier) +5, Sense Motive +6"
 skill-ranks: "Animal Handling 1, Engineering 1, Intimidation 9, Perception 4, Persuasion 2, Profession (soldier) 1, Sense Motive 6"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Fighter#^fighter-weapon-training|Weapon training]] (pole arms +1)
 - **Special Qualities**: [[rangoric-srd/classes/Fighter#^fighter-bravery|Bravery]] +2, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 2
-- **Saves**: Fort +8, Ref +4, Will +4 (+2 vs. fear)
+- **Defenses**: Fort 18, Ref 14, Will 14 (+2 vs. fear)
 - **Abilities**: Str 18, Dex 12, Con 14, Int 13, Wis 8, Cha 10
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +4, [[rangoric-srd/skills/Engineering|Engineering]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Persuasion|Persuasion]] +6, [[rangoric-srd/skills/Profession|Profession]] (soldier) +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6
 - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Dazzling Display|Dazzling Display]], [[rangoric-srd/feats/Greater Trip|Greater Trip]], [[rangoric-srd/feats/Improved Trip|Improved Trip]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception, Persuasion), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (halberd), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (halberd)

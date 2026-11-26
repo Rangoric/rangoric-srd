@@ -15,7 +15,7 @@ full-attack: "Masterwork dagger +9/+4 melee (1d4–1/19–20); or masterwork dag
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "—"
-saves: "Fort +6, Ref +7, Will +14"
+defenses: "Fort 16, Ref 17, Will 24"
 abilities: "Str 8, Dex 12, Con 10, Int 12, Wis 14, Cha 16"
 skills: "Animal Handling +6, Deception +14, Intimidation +18, Linguistics +5, Perception +21, Perform (dance) +9, Perform (sing) +9, Perform (string) +9, Persuasion +24, Sense Motive +23, Society +16"
 skill-ranks: "Animal Handling 2, Deception 8, Intimidation 16, Linguistics 1, Perception 14, Perform (dance) 5, Perform (sing) 5, Perform (string) 5, Persuasion 16, Sense Motive 22, Society 12"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: —
-- **Saves**: Fort +6, Ref +7, Will +14
+- **Defenses**: Fort 16, Ref 17, Will 24
 - **Abilities**: Str 8, Dex 12, Con 10, Int 12, Wis 14, Cha 16
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Deception|Deception]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +18, [[rangoric-srd/skills/Linguistics|Linguistics]] +5, [[rangoric-srd/skills/Perception|Perception]] +21, Perform (dance) +9, Perform (sing) +9, Perform (string) +9, [[rangoric-srd/skills/Persuasion|Persuasion]] +24, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +23, [[rangoric-srd/skills/Society|Society]] +16
 - **Feats**: [[rangoric-srd/feats/Defensive Combat Training|Defensive Combat Training]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception, Persuasion, Sense Motive)

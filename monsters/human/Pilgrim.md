@@ -15,7 +15,7 @@ full-attack: "Spear +2 melee (1d8/×3); or spear +2 ranged (1d8/×3)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "—"
-saves: "Fort +1, Ref +1, Will +4"
+defenses: "Fort 11, Ref 11, Will 14"
 abilities: "Str 10, Dex 10, Con 11, Int 13, Wis 12, Cha 10"
 skills: "Animal Handling +5, Athletics +5, Medicine +10, Perception +8, Perform (sing) +5, Profession (midwife) +5, Sense Motive +5, Theology +5"
 skill-ranks: "Animal Handling 2, Athletics 2, Medicine 6, Perception 3, Perform (sing) 1, Profession (midwife) 1, Sense Motive 3, Theology 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: —
-- **Saves**: Fort +1, Ref +1, Will +4
+- **Defenses**: Fort 11, Ref 11, Will 14
 - **Abilities**: Str 10, Dex 10, Con 11, Int 13, Wis 12, Cha 10
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Medicine|Medicine]] +10, [[rangoric-srd/skills/Perception|Perception]] +8, Perform (sing) +5, [[rangoric-srd/skills/Profession|Profession]] (midwife) +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Theology|Theology]] +5
 - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Medicine, Perception)
@@ -66,7 +66,7 @@ A pilgrim is a [[rangoric-srd/monsters/human/Human|human]] with 5 levels of [[ra
 
 Pilgrims can serve as lay priests, common healers, or village wise women in settlements too small for a formal temple or full cleric. A pilgrim might also be found on a battlefield, pressed into service to make up for an army's lack of divine healers.
 
-Replacing one of the pilgrim's commoner levels with a level of adept creates a healer that has at least limited access to healing magic. Hit Dice, hit points, base attacks bonus, and skills don't change, but the pilgrim's Will save increases to +6.
+Replacing one of the pilgrim's commoner levels with a level of adept creates a healer that has at least limited access to healing magic. Hit Dice, hit points, base attacks bonus, and skills don't change, but the pilgrim's Will Defense increases to 16.
 
 A pilgrim often works alone, but two or three might staff a remote clinic (CR 5 or 6). Pilgrims can also be found in groups of four, often accompanied by four caravan guards or eight acolytes (CR 8). A single pilgrim may be served by a guard, caravan guard, or pair of acolytes (CR 4). A pilgrim in turn might serve under a shaman (CR 6), while an evil pilgrim may work with a torturer, helping to keep prisoners alive (CR 6).
 

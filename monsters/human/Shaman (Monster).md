@@ -15,7 +15,7 @@ full-attack: "Masterwork sickle +4 melee (1d6)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Summon familiar (smoke mephit)"
-saves: "Fort +3, Ref +1, Will +6"
+defenses: "Fort 13, Ref 11, Will 16"
 abilities: "Str 10, Dex 8, Con 12, Int 12, Wis 13, Cha 11"
 skills: "Craft (alchemy) +10, Fieldcraft +14, Medicine +10, Mysticism +6, Nature +6, Profession (herbalist) +10, Society +6, Theology +6"
 skill-ranks: "Craft (alchemy) 6, Fieldcraft 9, Medicine 8, Mysticism 2, Nature 2, Profession (herbalist) 6, Society 2, Theology 2"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/classes/Adept|Summon familiar]] (smoke mephit)
-- **Saves**: Fort +3, Ref +1, Will +6
+- **Defenses**: Fort 13, Ref 11, Will 16
 - **Abilities**: Str 10, Dex 8, Con 12, Int 12, Wis 13, Cha 11
 - **Skills**: [[rangoric-srd/skills/Craft|Craft]] (alchemy) +10, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14, [[rangoric-srd/skills/Medicine|Medicine]] +10, [[rangoric-srd/skills/Mysticism|Mysticism]] +6, [[rangoric-srd/skills/Nature|Nature]] +6, [[rangoric-srd/skills/Profession|Profession]] (herbalist) +10, [[rangoric-srd/skills/Society|Society]] +6, [[rangoric-srd/skills/Theology|Theology]] +6
 - **Feats**: [[rangoric-srd/feats/Brew Potion|Brew Potion]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Craft Wand|Craft Wand]], [[rangoric-srd/feats/Improved Familiar|Improved Familiar]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Fieldcraft)

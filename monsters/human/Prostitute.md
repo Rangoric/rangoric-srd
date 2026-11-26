@@ -15,7 +15,7 @@ full-attack: "Dagger –1 melee (1d4–1/19–20); or sap –1 melee (1d6–1 no
 space-reach: "5 ft./5 ft."
 special-attacks: "Sneak attack +1d6"
 special-qualities: "Trapfinding +1, finesse training"
-saves: "Fort +1, Ref +4, Will +2"
+defenses: "Fort 11, Ref 14, Will 12"
 abilities: "Str 8, Dex 14, Con 13, Int 12, Wis 10, Cha 17"
 skills: "Acrobatics +6, Deception +11, Imitation +9, Perception +5, Perform (act) +8, Perform (dance) +8, Persuasion +8, Profession (courtesan) +8, Sense Motive +5, Sleight of Hand +7, Society +5"
 skill-ranks: "Acrobatics 1, Deception 4, Imitation 5, Perception 2, Perform (act) 4, Perform (dance) 4, Persuasion 2, Profession (courtesan) 4, Sense Motive 2, Sleight of Hand 2, Society 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +1d6
 - **Special Qualities**: [[rangoric-srd/classes/Rogue#^rogue-trapfinding|Trapfinding]] +1, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]]
-- **Saves**: Fort +1, Ref +4, Will +2
+- **Defenses**: Fort 11, Ref 14, Will 12
 - **Abilities**: Str 8, Dex 14, Con 13, Int 12, Wis 10, Cha 17
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Deception|Deception]] +11, [[rangoric-srd/skills/Imitation|Imitation]] +9, [[rangoric-srd/skills/Perception|Perception]] +5, Perform (act) +8, Perform (dance) +8, [[rangoric-srd/skills/Persuasion|Persuasion]] +8, [[rangoric-srd/skills/Profession|Profession]] (courtesan) +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +7, [[rangoric-srd/skills/Society|Society]] +5
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception, Profession \[courtesan\])

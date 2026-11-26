@@ -15,7 +15,7 @@ full-attack: "Masterwork spear +12/+7 melee (1d8+7/×3); or kukri +11/+6 melee (
 space-reach: "5 ft./5 ft."
 special-attacks: "Rage (16 rounds/day), rage powers (animal fury, no escape, scent)"
 special-qualities: "Improved uncanny dodge, trap sense +2, fast movement"
-saves: "Fort +9, Ref +4, Will +5"
+defenses: "Fort 19, Ref 14, Will 15"
 abilities: "Str 21, Dex 14, Con 18, Int 10, Wis 12, Cha 8"
 skills: "Acrobatics +11, Athletics +11 (+15 jumping), Fieldcraft +7, Intimidation +8, Nature +6, Perception +8"
 skill-ranks: "Acrobatics 6, Athletics 3, Fieldcraft 3, Intimidation 6, Nature 3, Perception 4"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (16 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/Animal Fury (Rage Power)|animal fury]], [[rangoric-srd/class-options/rage-powers/No Escape (Rage Power)|no escape]], [[rangoric-srd/class-options/rage-powers/Scent (Rage Power)|scent]])
 - **Special Qualities**: [[rangoric-srd/classes/Barbarian#^barbarian-improved-uncanny-dodge|Improved uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] +2, [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]]
-- **Saves**: Fort +9, Ref +4, Will +5
+- **Defenses**: Fort 19, Ref 14, Will 15
 - **Abilities**: Str 21, Dex 14, Con 18, Int 10, Wis 12, Cha 8
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +11 (+15 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Nature|Nature]] +6, [[rangoric-srd/skills/Perception|Perception]] +8
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Shot on the Run|Shot on the Run]]

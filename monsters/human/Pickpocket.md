@@ -15,7 +15,7 @@ full-attack: "Sap +0 melee (1d6 nonlethal); or dart +3 ranged (1d4)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Sneak attack +1d6"
 special-qualities: "Trapfinding +1, finesse training"
-saves: "Fort +1, Ref +5, Will –1"
+defenses: "Fort 11, Ref 15, Will 9"
 abilities: "Str 10, Dex 17, Con 12, Int 13, Wis 8, Cha 14"
 skills: "Acrobatics +7, Appraise +5, Deception +6, Engineering +10, Escape Artist +7, Imitation +8, Perception +3 (+4 to find traps), Sense Motive +3, Sleight of Hand +10, Society +5, Stealth +7"
 skill-ranks: "Acrobatics 1, Appraise 1, Deception 1, Engineering 3, Escape Artist 1, Imitation 3, Perception 1, Sense Motive 1, Sleight of Hand 6, Society 1, Stealth 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +1d6
 - **Special Qualities**: [[rangoric-srd/classes/Rogue#^rogue-trapfinding|Trapfinding]] +1, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]]
-- **Saves**: Fort +1, Ref +5, Will –1
+- **Defenses**: Fort 11, Ref 15, Will 9
 - **Abilities**: Str 10, Dex 17, Con 12, Int 13, Wis 8, Cha 14
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Appraise|Appraise]] +5, [[rangoric-srd/skills/Deception|Deception]] +6, [[rangoric-srd/skills/Engineering|Engineering]] +10, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +7, [[rangoric-srd/skills/Imitation|Imitation]] +8, [[rangoric-srd/skills/Perception|Perception]] +3 (+4 to find traps), [[rangoric-srd/skills/Sense Motive|Sense Motive]] +3, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +10, [[rangoric-srd/skills/Society|Society]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +7
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Engineering, Sleight of Hand)

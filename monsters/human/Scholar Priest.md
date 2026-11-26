@@ -14,9 +14,9 @@ cmd: "12"
 attack: "Quarterstaff +3 melee (1d6+1) or light crossbow +1 ranged (1d8/19–20)"
 full-attack: "Quarterstaff +3 melee (1d6+1); or light crossbow +1 ranged (1d8/19–20)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Channel negative energy 7/day (DC 13, 2d6), hand of the acolyte (6/day), rebuke undead"
+special-attacks: "Channel negative energy 7/day (+3 vs Will, 2d6), hand of the acolyte (6/day), rebuke undead"
 special-qualities: "Aura"
-saves: "Fort +4, Ref +0, Will +8"
+defenses: "Fort 14, Ref 10, Will 18"
 abilities: "Str 12, Dex 8, Con 13, Int 10, Wis 16, Cha 15"
 skills: "Arcana +7, Mysticism +7, Perception +6, Sense Motive +9"
 skill-ranks: "Arcana 4, Mysticism 4, Perception 3, Sense Motive 3"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: [[rangoric-srd/equipment/weapons/Quarterstaff|Quarterstaff]] +3 melee (1d6+1) or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +1 ranged (1d8/19–20)
 - **Full Attack**: [[rangoric-srd/equipment/weapons/Quarterstaff|Quarterstaff]] +3 melee (1d6+1); or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +1 ranged (1d8/19–20)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel negative energy]] 7/day (DC 13, 2d6), [[rangoric-srd/class-options/domains/Magic Domain|hand of the acolyte]] (6/day), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]]
+- **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel negative energy]] 7/day (+3 vs Will, 2d6), [[rangoric-srd/class-options/domains/Magic Domain|hand of the acolyte]] (6/day), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]]
 - **Special Qualities**: [[rangoric-srd/classes/Cleric#^cleric-aura|Aura]]
-- **Saves**: Fort +4, Ref +0, Will +8
+- **Defenses**: Fort 14, Ref 10, Will 18
 - **Abilities**: Str 12, Dex 8, Con 13, Int 10, Wis 16, Cha 15
 - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +7, [[rangoric-srd/skills/Mysticism|Mysticism]] +7, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9
 - **Feats**: [[rangoric-srd/feats/Extra Channel|Extra Channel]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]], [[rangoric-srd/feats/Selective Channeling|Selective Channeling]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (enchantment)
@@ -73,4 +73,4 @@ A scholar priest speaks Common.
 
 **Domain Spell-Like Abilities** (CL 3rd; concentration +6): 6/day—[[rangoric-srd/class-options/domains/Rune Domain|blast rune]] (1d6+1 energy damage, 3 rounds).
 
-**Cleric spells prepared** (CL 3rd; concentration +6): 2nd—_[[rangoric-srd/spells/Hold Person|hold person]]_ (DC 16), _[[rangoric-srd/spells/Magic Mouth|magic mouth]]_ <sup>D</sup>, _[[rangoric-srd/spells/Spiritual Weapon|spiritual weapon]]_; 1st—_[[rangoric-srd/spells/Command|command]]_ (2, DC 15), _[[rangoric-srd/spells/Erase|erase]]_ <sup>D</sup>, _[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]_; 0 (at will)—_[[rangoric-srd/spells/Detect Magic|detect magic]], [[rangoric-srd/spells/Detect Poison|detect poison]], [[rangoric-srd/spells/Purify Food and Drink|purify food and drink]], [[rangoric-srd/spells/Stabilize (Spell)|stabilize]]_; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Magic Domain|Magic]], [[rangoric-srd/class-options/domains/Rune Domain|Rune]].
+**Cleric spells prepared** (CL 3rd; concentration +6): 2nd—_[[rangoric-srd/spells/Hold Person|hold person]]_ (+6 vs Will), _[[rangoric-srd/spells/Magic Mouth|magic mouth]]_ <sup>D</sup>, _[[rangoric-srd/spells/Spiritual Weapon|spiritual weapon]]_; 1st—_[[rangoric-srd/spells/Command|command]]_ (2, +5 vs Will), _[[rangoric-srd/spells/Erase|erase]]_ <sup>D</sup>, _[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]_; 0 (at will)—_[[rangoric-srd/spells/Detect Magic|detect magic]], [[rangoric-srd/spells/Detect Poison|detect poison]], [[rangoric-srd/spells/Purify Food and Drink|purify food and drink]], [[rangoric-srd/spells/Stabilize (Spell)|stabilize]]_; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Magic Domain|Magic]], [[rangoric-srd/class-options/domains/Rune Domain|Rune]].

@@ -16,7 +16,7 @@ full-attack: "Masterwork longsword +4 melee (1d8+1/19–20); or dagger +3 melee 
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "—"
-saves: "Fort +1, Ref +2, Will +2"
+defenses: "Fort 11, Ref 12, Will 12"
 abilities: "Str 13, Dex 12, Con 10, Int 8, Wis 9, Cha 11"
 skills: "Animal Handling +6, Intimidation +4, Perception +5, Persuasion +4, Society +3"
 skill-ranks: "Animal Handling 3, Intimidation 1, Perception 3, Persuasion 1, Society 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: —
-- **Saves**: Fort +1, Ref +2, Will +2
+- **Defenses**: Fort 11, Ref 12, Will 12
 - **Abilities**: Str 13, Dex 12, Con 10, Int 8, Wis 9, Cha 11
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Intimidation|Intimidation]] +4, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Persuasion|Persuasion]] +4, [[rangoric-srd/skills/Society|Society]] +3
 - **Feats**: [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]]

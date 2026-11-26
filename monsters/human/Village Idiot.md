@@ -15,7 +15,7 @@ full-attack: "Improvised club +1 melee (1d4+1); or sling –1 ranged (1d3+1)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "—"
-saves: "Fort +2, Ref +0, Will –1"
+defenses: "Fort 12, Ref 10, Will 9"
 abilities: "Str 12, Dex 11, Con 15, Int 4, Wis 9, Cha 10"
 skills: "Athletics +5, Perception +3"
 skill-ranks: "Athletics 1, Perception 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: —
-- **Saves**: Fort +2, Ref +0, Will –1
+- **Defenses**: Fort 12, Ref 10, Will 9
 - **Abilities**: Str 12, Dex 11, Con 15, Int 4, Wis 9, Cha 10
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Perception|Perception]] +3
 - **Feats**: [[rangoric-srd/feats/Catch Off-Guard|Catch Off-Guard]], [[rangoric-srd/feats/Endurance|Endurance]]

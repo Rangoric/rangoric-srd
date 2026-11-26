@@ -15,7 +15,7 @@ full-attack: "12 bites +15 melee (2d6+4)"
 space-reach: "15 ft./10 ft."
 special-attacks: "Pounce"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, fast healing 12, hydra traits, regenerate head"
-saves: "Fort +12, Ref +11, Will +6"
+defenses: "Fort 22, Ref 21, Will 16"
 abilities: "Str 18, Dex 12, Con 18, Int 2, Wis 11, Cha 9"
 skills: "Athletics +12, Perception +17"
 skill-ranks: "Athletics 5, Perception 12"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 12, [[rangoric-srd/monsters/abilities/Hydra Traits|hydra traits]], [[rangoric-srd/monsters/abilities/Regenerate Head|regenerate head]]
-- **Saves**: Fort +12, Ref +11, Will +6
+- **Defenses**: Fort 22, Ref 21, Will 16
 - **Abilities**: Str 18, Dex 12, Con 18, Int 2, Wis 11, Cha 9
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12, [[rangoric-srd/skills/Perception|Perception]] +17
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Natural Attack|Improved Natural Attack]] (bite), [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)

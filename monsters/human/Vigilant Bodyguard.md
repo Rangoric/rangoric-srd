@@ -14,9 +14,9 @@ cmd: "20"
 attack: "Unarmed strike +5 melee (1d6+2) or nunchaku +4 melee (1d6+2) or unarmed strike flurry of blows +3 melee (1d6+2) or shuriken +3 ranged (1d2+2)"
 full-attack: "Unarmed strike +5 melee (1d6+2); or nunchaku +4 melee (1d6+2); or unarmed strike flurry of blows +3/+3 melee (1d6+2); or shuriken +3 ranged (1d2+2)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Flurry of blows, stunning fist (3/day, DC 15)"
+special-attacks: "Flurry of blows, stunning fist (3/day, +5 vs Fortitude)"
 special-qualities: "Evasion, fast movement, maneuver training"
-saves: "Fort +4, Ref +4, Will +7 (+2 vs. enchantments)"
+defenses: "Fort 14, Ref 14, Will 17 (+2 vs. enchantments)"
 abilities: "Str 14, Dex 13, Con 12, Int 10, Wis 19, Cha 8"
 skills: "Acrobatics +7, Athletics +6 (+10 jumping), Fieldcraft +5, Intimidation +5, Perception +10, Sense Motive +10, Stealth +7"
 skill-ranks: "Acrobatics 3, Athletics 1, Fieldcraft 1, Intimidation 3, Perception 3, Sense Motive 3, Stealth 3"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +5 melee (1d6+2) or [[rangoric-srd/equipment/weapons/Nunchaku|nunchaku]] +4 melee (1d6+2) or unarmed strike flurry of blows +3 melee (1d6+2) or [[rangoric-srd/equipment/weapons/Shuriken|shuriken]] +3 ranged (1d2+2)
 - **Full Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +5 melee (1d6+2); or [[rangoric-srd/equipment/weapons/Nunchaku|nunchaku]] +4 melee (1d6+2); or unarmed strike flurry of blows +3/+3 melee (1d6+2); or [[rangoric-srd/equipment/weapons/Shuriken|shuriken]] +3 ranged (1d2+2)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/classes/Monk#^monk-flurry-of-blows|Flurry of blows]], [[rangoric-srd/classes/Monk#^monk-stunning-fist|stunning fist]] (3/day, DC 15)
+- **Special Attacks**: [[rangoric-srd/classes/Monk#^monk-flurry-of-blows|Flurry of blows]], [[rangoric-srd/classes/Monk#^monk-stunning-fist|stunning fist]] (3/day, +5 vs Fortitude)
 - **Special Qualities**: [[rangoric-srd/classes/Monk#^monk-evasion|Evasion]], [[rangoric-srd/classes/Monk#^monk-fast-movement|fast movement]], [[rangoric-srd/classes/Monk#^monk-maneuver-training|maneuver training]]
-- **Saves**: Fort +4, Ref +4, Will +7 (+2 vs. enchantments)
+- **Defenses**: Fort 14, Ref 14, Will 17 (+2 vs. enchantments)
 - **Abilities**: Str 14, Dex 13, Con 12, Int 10, Wis 19, Cha 8
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +6 (+10 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +7
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Stunning Fist|Stunning Fist]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (unarmed strike)

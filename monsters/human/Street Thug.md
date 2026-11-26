@@ -15,7 +15,7 @@ full-attack: "Quarterstaff +4 melee (1d6+3); or quarterstaff +2/+2 melee (1d6+3/
 space-reach: "5 ft./5 ft."
 special-attacks: "Sneak attack +1d6"
 special-qualities: "Trapfinding +1, finesse training"
-saves: "Fort +3, Ref +4, Will +0"
+defenses: "Fort 13, Ref 14, Will 10"
 abilities: "Str 16, Dex 15, Con 13, Int 8, Wis 10, Cha 12"
 skills: "Athletics +8, Intimidation +9, Perception +5 (+6 to find traps), Society +4, Stealth +7"
 skill-ranks: "Athletics 2, Intimidation 5, Perception 2, Society 2, Stealth 2"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +1d6
 - **Special Qualities**: [[rangoric-srd/classes/Rogue#^rogue-trapfinding|Trapfinding]] +1, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]]
-- **Saves**: Fort +3, Ref +4, Will +0
+- **Defenses**: Fort 13, Ref 14, Will 10
 - **Abilities**: Str 16, Dex 15, Con 13, Int 8, Wis 10, Cha 12
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +5 (+6 to find traps), [[rangoric-srd/skills/Society|Society]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +7
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Intimidation), [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]]

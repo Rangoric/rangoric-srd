@@ -16,7 +16,7 @@ full-attack: "Light mace +4 melee (1d6–1); or splash weapon +4 ranged (varies)
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Immunity to detect thoughts, discern lies and alignment detection"
-saves: "Fort +6, Ref +4, Will +6"
+defenses: "Fort 16, Ref 14, Will 16"
 abilities: "Str 9, Dex 8, Con 12, Int 12, Wis 12, Cha 14"
 skills: "Animal Handling +5, Deception +18, Linguistics +3, Perception +14, Persuasion +8, Sense Motive +12, Society +6"
 skill-ranks: "Animal Handling 3, Deception 13, Linguistics 2, Perception 10, Persuasion 3, Sense Motive 8, Society 2"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Immunity|Immunity]] to detect thoughts, discern lies and alignment detection
-- **Saves**: Fort +6, Ref +4, Will +6
+- **Defenses**: Fort 16, Ref 14, Will 16
 - **Abilities**: Str 9, Dex 8, Con 12, Int 12, Wis 12, Cha 14
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Deception|Deception]] +18, [[rangoric-srd/skills/Linguistics|Linguistics]] +3, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Persuasion|Persuasion]] +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12, [[rangoric-srd/skills/Society|Society]] +6
 - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception, Sense Motive), [[rangoric-srd/feats/Toughness|Toughness]]

@@ -15,7 +15,7 @@ full-attack: "+1 battleaxe +16/+11 melee (1d8+9/19–20/×3); or shortspear +14/
 space-reach: "5 ft./5 ft."
 special-attacks: "Rage (14 rounds per day), rage power (quick reflexes), weapon training (axes +1)"
 special-qualities: "Bravery +2, uncanny dodge, armor training 1, fast movement"
-saves: "Fort +14, Ref +4, Will +7 (+2 vs. fear)"
+defenses: "Fort 24, Ref 14, Will 17 (+2 vs. fear)"
 abilities: "Str 22, Dex 14, Con 18, Int 8, Wis 12, Cha 10"
 skills: "Acrobatics +6, Athletics +13 (+17 jumping), Craft (ships) +5, Fieldcraft +5, Intimidation +5, Perception +10, Profession (sailor) +5"
 skill-ranks: "Acrobatics 1, Athletics 3, Craft (ships) 3, Fieldcraft 1, Intimidation 2, Perception 6, Profession (sailor) 3"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (14 rounds per day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (quick reflexes), [[rangoric-srd/classes/Fighter#^fighter-weapon-training|weapon training]] (axes +1)
 - **Special Qualities**: [[rangoric-srd/classes/Fighter#^fighter-bravery|Bravery]] +2, [[rangoric-srd/classes/Barbarian#^barbarian-uncanny-dodge|uncanny dodge]], [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1, [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]]
-- **Saves**: Fort +14, Ref +4, Will +7 (+2 vs. fear)
+- **Defenses**: Fort 24, Ref 14, Will 17 (+2 vs. fear)
 - **Abilities**: Str 22, Dex 14, Con 18, Int 8, Wis 12, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +13 (+17 jumping), [[rangoric-srd/skills/Craft|Craft]] (ships) +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Profession|Profession]] (sailor) +5
 - **Feats**: [[rangoric-srd/feats/Extra Rage|Extra Rage]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Greater Overrun|Greater Overrun]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (battleaxe), [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Athletics), [[rangoric-srd/feats/Vital Strike|Vital Strike]]
