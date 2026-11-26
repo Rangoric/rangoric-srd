@@ -8,6 +8,7 @@ Every departure from the source rules, newest first. One line each, with links t
 
 | Date | Change | Rangoric note | Source | Why |
 | --- | --- | --- | --- | --- |
+| 2026-11-26 | Saving throws as defenses, monsters (DF 73): gnome to halfling attack a defense instead of allowing a save. | [[DF Batch 73 Changes]] | | [[Saving Throws as Defenses]] DF 73 |
 | 2026-11-26 | Saving throws as defenses, monsters (DF 72): ghoul to gnome attack a defense instead of allowing a save. | [[DF Batch 72 Changes]] | | [[Saving Throws as Defenses]] DF 72 |
 | 2026-11-26 | Saving throws as defenses, monsters (DF 71): elf to ghost attack a defense instead of allowing a save. | [[DF Batch 71 Changes]] | | [[Saving Throws as Defenses]] DF 71 |
 | 2026-11-26 | Saving throws as defenses, monsters (DF 70): dwarf to elf attack a defense instead of allowing a save. | [[DF Batch 70 Changes]] | | [[Saving Throws as Defenses]] DF 70 |
