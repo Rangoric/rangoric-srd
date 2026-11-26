@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "0 ft."
 effect: "One ice weapon"
 duration: "1 minute/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Advanced Class Guide"
 based-on:
@@ -38,7 +38,7 @@ _Transmutation \[Cold, Good, Water\]_
 - **Range**: 0 ft.
 - **Effect**: One ice weapon
 - **Duration**: 1 minute/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You create a masterwork weapon that has the qualities of ice and holy water. This weapon must be a simple weapon or your deity's favored weapon. The weapon deals normal damage for a weapon of that type, plus 1 point of cold damage per caster level (maximum 10). In addition, any creature struck by the weapon is also hit by holy water, dealing 1d4 points of damage if the creature is susceptible to holy water. If the weapon leaves your hands for more than 1 round, it melts and the spell ends.

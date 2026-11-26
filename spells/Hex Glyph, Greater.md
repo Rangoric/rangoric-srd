@@ -9,7 +9,7 @@ components:
   - "V"
   - "S"
   - "M"
-saving-throw: "See text"
+defense: "See text"
 spell-resistance: "No (object) and yes (see text)"
 book: "Advanced Class Guide"
 based-on:
@@ -26,7 +26,7 @@ _Abjuration_
 
 - **Level**: Sha 5, Wit 5
 - **Components**: V, S, M (powdered diamond worth 400 gp)
-- **Saving Throw**: See text
+- **Defense**: See text
 - **Spell Resistance**: No (object) and yes (see text)
 
 This spell functions as _[[rangoric-srd/spells/Hex Glyph|hex glyph]]_, except you can store a hex or a major hex (but not a grand hex). You trace the glyph with incense, which must first be sprinkled with powdered diamond (as noted in the material line).

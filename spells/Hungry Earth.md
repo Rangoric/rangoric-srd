@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 area: "20-foot-radius spread"
 duration: "1 round/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[path srd 3.5/spells/Hungry Earth|Hungry Earth (PF1)]]"
@@ -34,7 +34,7 @@ _Transmutation_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Area**: 20-foot-radius spread
 - **Duration**: 1 round/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 The ground attempts to pull creatures beneath its surface as if hungry for the flesh of mortals.

@@ -21,7 +21,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One living creature/level, no two of which can be more than 30 ft. apart"
 duration: "1 round/level"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -42,7 +42,7 @@ _Necromancy \[Death, Pain\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One living creature/level, no two of which can be more than 30 ft. apart
 - **Duration**: 1 round/level
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
-You send wracking pains through the targets' bodies. Because of the pain, affected creatures take a –2 penalty to AC, attacks, melee damage rolls, and Reflex saving throws, and must succeed at a concentration check (DC equal to the DC of this spell) to cast spells. However, if an affected creature spends a move action screaming as loudly as possible, it can act without any other penalties for the remainder of its turn. “Screaming,” for the purposes of this spell, includes any vocalization of pain or its telepathic equivalent; creatures that cannot scream (such as creatures without the natural ability to communicate or vocalize) suffer the full effect of the spell.
+You send wracking pains through the targets' bodies. Because of the pain, affected creatures take a –2 penalty to AC, attacks, melee damage rolls, and Reflex Defense, and must succeed at a concentration check (DC equal to 10 + this spell’s attack bonus) to cast spells. However, if an affected creature spends a move action screaming as loudly as possible, it can act without any other penalties for the remainder of its turn. “Screaming,” for the purposes of this spell, includes any vocalization of pain or its telepathic equivalent; creatures that cannot scream (such as creatures without the natural ability to communicate or vocalize) suffer the full effect of the spell.

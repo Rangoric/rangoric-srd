@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 effect: "10-ft.-by-10-ft. hole, 10 ft. deep/2 levels"
 duration: "1 round + 1 round/level"
-saving-throw: "Reflex negates; Reflex half; see text"
+defense: "Reflex; Reflex half; see text"
 spell-resistance: "No"
 book: "Advanced Player's Guide"
 based-on:
@@ -36,7 +36,7 @@ _Conjuration (Creation)_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Effect**: 10-ft.-by-10-ft. hole, 10 ft. deep/2 levels
 - **Duration**: 1 round + 1 round/level
-- **Saving Throw**: Reflex negates; Reflex half; see text
+- **Defense**: Reflex; Reflex half; see text
 - **Spell Resistance**: No
 
-This spell functions as _[[rangoric-srd/spells/Create Pit|create pit]]_, except that the pit has the ability to squeeze and crush any creature trapped within it and has a maximum depth of 100 feet. Creatures who fall into the hole take falling damage as normal. In addition, anyone within the pit, not just those on the bottom, takes 4d6 points of bludgeoning damage each round as the pit contracts and then returns to its normal size (a successful Reflex save halves this damage). The ever-shifting walls of the pit are quite difficult to scale and have a Athletics DC of 35.
+This spell functions as _[[rangoric-srd/spells/Create Pit|create pit]]_, except that the pit has the ability to squeeze and crush any creature trapped within it and has a maximum depth of 100 feet. Creatures who fall into the hole take falling damage as normal. In addition, anyone within the pit, not just those on the bottom, takes 4d6 points of bludgeoning damage each round as the pit contracts and then returns to its normal size (vs Reflex; a miss halves). The ever-shifting walls of the pit are quite difficult to scale and have a Athletics DC of 35.

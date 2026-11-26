@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 target: "One creature"
 duration: "1 minute/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 book: "Advanced Player's Guide"
 based-on:
@@ -35,7 +35,7 @@ _Divination_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Target**: One creature
 - **Duration**: 1 minute/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 Sharpening your perceptive abilities and tuning them against obfuscating effects, _hunter's eye_ greatly enhances your senses against the target creature. You gain the ability to perceive the target when it is invisible or ethereal as though using the _[[rangoric-srd/spells/See Invisibility|see invisibility]]_ spell, and receive a +20 competence bonus on Perception checks to locate the target. You ignore concealment provided by fog or mist, _[[rangoric-srd/spells/Blur|blur]]_, _[[rangoric-srd/spells/Displacement|displacement]]_, _[[rangoric-srd/spells/Invisibility|invisibility]]_, and similar effects affecting the target, but not concealment provided by darkness. This spell provides no benefits to your allies, and no benefits against creatures other than the target.

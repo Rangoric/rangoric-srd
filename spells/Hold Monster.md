@@ -39,6 +39,6 @@ _Enchantment (Compulsion) \[Mind-Affecting\]_
 - **Components**: V, S, M/DF
 - **Target**: One living creature
 
-This spell functions like [[rangoric-srd/spells/Hold Person|hold person]], except that it affects any living creature that fails its Will save.
+This spell functions like [[rangoric-srd/spells/Hold Person|hold person]], except that it affects any living creature whose Will it hits.
 
 _Arcane Material Component_: One hard metal bar or rod, which can be as small as a three-penny nail.

@@ -20,7 +20,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 effect: "Colorful lights in a 10-ft.-radius spread"
 duration: "Concentration + 2 rounds"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Hypnotic Pattern|Hypnotic Pattern (3.5)]]"
@@ -40,7 +40,7 @@ _Illusion (Pattern) \[Mind-Affecting\]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Effect**: Colorful lights in a 10-ft.-radius spread
 - **Duration**: Concentration + 2 rounds
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 A twisting pattern of subtle, shifting colors weaves through the air, fascinating creatures within it. Roll 2d4 and add your caster level (maximum 10) to determine the total number of Hit Dice of creatures affected. Creatures with the fewest HD are affected first; and, among creatures with equal HD, those who are closest to the spell’s point of origin are affected first. Hit Dice that are not sufficient to affect a creature are wasted. Affected creatures become [[rangoric-srd/rules/Special Abilities and Conditions#^fascinated|fascinated]] by the pattern of colors. Sightless creatures are not affected.

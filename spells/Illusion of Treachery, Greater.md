@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "You and one creature"
 duration: "Caster level round(s)"
-saving-throw: "Will disbelief"
+defense: "Will disbelief"
 spell-resistance: "Yes"
 book: "Ultimate Intrigue"
 based-on:
@@ -38,7 +38,7 @@ _Illusion (Figment)_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: You and one creature
 - **Duration**: Caster level round(s)
-- **Saving Throw**: Will disbelief
+- **Defense**: Will disbelief
 - **Spell Resistance**: Yes
 
 This spell functions as [[rangoric-srd/spells/Illusion of Treachery|Illusion of Treachery]] except that it also conceals your own actions (as [[rangoric-srd/spells/Illusion of Calm|Illusion of Calm]]) and renders invisible all spell effects and ranged attacks originating from you until they reach the attack's target (this doesn't cause the attack's target to be unable to avoid the attack, as they still see the attack originating from the spell's target).

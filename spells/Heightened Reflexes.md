@@ -12,7 +12,7 @@ casting-time: "1 standard action"
 range: "30 ft."
 area: "Allies within a 30-ft.-radius burst centered on you"
 duration: "1 minute/level or until discharged"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Advanced Class Guide"
 based-on:
@@ -33,7 +33,7 @@ _Transmutation_
 - **Range**: 30 ft.
 - **Area**: Allies within a 30-ft.-radius burst centered on you
 - **Duration**: 1 minute/level or until discharged
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
-You grant each of your allies within the area a +10 competence bonus on a single Reflex saving throw. Each ally must decide whether to use the bonus before making the roll to which it applies. When an ally uses the bonus, the spell ends for that individual.
+You grant each of your allies within the area a +10 competence bonus to Reflex Defense against a single attack. Each ally must decide whether to use the bonus before making the roll to which it applies. When an ally uses the bonus, the spell ends for that individual.

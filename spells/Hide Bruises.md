@@ -21,7 +21,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "One creature touched"
 duration: "10 * caster level minute(s)"
-saving-throw: "None and Will disbelief (see text)"
+defense: "None and Will disbelief (see text)"
 spell-resistance: "Yes"
 book: "Villain Codex"
 based-on:
@@ -42,7 +42,7 @@ _Illusion (Glamer)_
 - **Range**: Touch
 - **Target**: One creature touched
 - **Duration**: 10 \* caster level minute(s)
-- **Saving Throw**: None and Will disbelief (see text)
+- **Defense**: None and Will disbelief (see text)
 - **Spell Resistance**: Yes
 
-The target's wounds to seem to disappear. A creature attempting a Medicine check to tell the severity of the target's injuries takes a -10 penalty on that check. A creature that physically touches the glamered areas can attempt a Will save to recognize it as an illusion.
+The target's wounds to seem to disappear. A creature attempting a Medicine check to tell the severity of the target's injuries takes a -10 penalty on that check. The glamer attacks the Will of a creature that physically touches the glamered areas, which recognizes it as an illusion on a miss.

@@ -25,7 +25,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "10 * caster level minute(s)"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Ultimate Intrigue"
 based-on:
@@ -46,7 +46,7 @@ _Enchantment (Compulsion) \[MindAffecting, Ruse\]_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: 10 \* caster level minute(s)
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
-This spell functions as [[rangoric-srd/spells/Heroism|Heroism]], except that you can reverse the spell by issuing a special command as a standard action if you are within medium range (100 feet + 10 feet per caster level) of the target. The target loses the bonuses and instead takes a -2 penalty on attack rolls, saving throws, and skill checks until the spell's duration ends (no save). Attempts to identify hollow _[[rangoric-srd/spells/Heroism|heroism]]_ with a skill check incorrectly identify it as _[[rangoric-srd/spells/Heroism|heroism]]_.
+This spell functions as [[rangoric-srd/spells/Heroism|Heroism]], except that you can reverse the spell by issuing a special command as a standard action if you are within medium range (100 feet + 10 feet per caster level) of the target. The target loses the bonuses and instead takes a -2 penalty on attack rolls, defenses, and skill checks until the spell's duration ends (no attack against a defense). Attempts to identify hollow _[[rangoric-srd/spells/Heroism|heroism]]_ with a skill check incorrectly identify it as _[[rangoric-srd/spells/Heroism|heroism]]_.

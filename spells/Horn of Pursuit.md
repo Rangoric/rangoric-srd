@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "Personal"
 effect: "3 peals of a horn"
 duration: "1 round"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Ultimate Magic"
 based-on:
@@ -38,7 +38,7 @@ _Evocation \[Sonic\]_
 - **Range**: Personal
 - **Effect**: 3 peals of a horn
 - **Duration**: 1 round
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You create the sound of a large hunting horn, blowing up to three notes as loud as a roaring dragon. These notes can be heard up to 2 miles away in typical outdoor conditions. You can make these sounds at any point during the spell's duration as a free action, and each sounding can be short or long, allowing you to send very simple coded messages.

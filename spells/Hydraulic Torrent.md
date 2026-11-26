@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "60 ft."
 area: "60-ft. line"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 book: "Advanced Player's Guide"
 based-on:
@@ -38,7 +38,7 @@ _Evocation \[Water\]_
 - **Range**: 60 ft.
 - **Area**: 60-ft. line
 - **Duration**: Instantaneous
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 You call forth a powerful stream of water that batters all creatures and obstacles in its path until it strikes something it cannot push past. Against creatures and moveable objects this stream acts as a bull rush. You can bull rush creatures of any size, not just those one size larger than your own. Make a combat maneuver check and apply its results to each creature within the area. Your CMB for this bull rush is equal to your caster level plus your Intelligence, Wisdom, or Charisma modifier, whichever is highest. This bull rush does not provoke an attack of opportunity.

@@ -23,7 +23,7 @@ casting-time: "1 hour"
 range: "Touch"
 targets: "One touched object"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Identify|Identify (3.5)]]"
@@ -43,7 +43,7 @@ _Divination_
 - **Range**: Touch
 - **Targets**: One touched object
 - **Duration**: Instantaneous
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 The spell determines all magic properties of a single magic item, including how to activate those functions (if appropriate), and how many charges are left (if any).

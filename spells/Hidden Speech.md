@@ -21,7 +21,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "You plus one creature/level, no two of which can be more than 30 ft. apart"
 duration: "10 minutes/level (D)"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes"
 book: "Advanced Player's Guide"
 based-on:
@@ -42,7 +42,7 @@ _Transmutation \[Language-dependent\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: You plus one creature/level, no two of which can be more than 30 ft. apart
 - **Duration**: 10 minutes/level (D)
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes
 
 You greatly enhance the ability of the subjects to communicate hidden messages to each other. Each target gains a +10 competence bonus on Deception checks to send secret message to other recipients. Others using opposed Sense Motive checks to decipher these messages receive a –5 penalty. All subjects affected by the spell must share a language to be able to pass messages.

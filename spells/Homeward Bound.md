@@ -12,7 +12,7 @@ casting-time: "1 minute"
 range: "Touch"
 target: "One willing extraplanar creature"
 duration: "Instantaneous"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Planar Adventures"
 based-on:
@@ -33,7 +33,7 @@ _Abjuration_
 - **Range**: Touch
 - **Target**: One willing extraplanar creature
 - **Duration**: Instantaneous
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 This spell functions as [[rangoric-srd/spells/Dismissal|dismissal]], except as noted above.

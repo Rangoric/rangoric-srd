@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "20 ft."
 area: "20-ft.-radius burst"
 duration: "1 round/level"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "None"
 book: "Advanced Player's Guide"
 based-on:
@@ -37,7 +37,7 @@ _Necromancy \[Emotion, Fear, Mind-affecting\]_
 - **Range**: 20 ft.
 - **Area**: 20-ft.-radius burst
 - **Duration**: 1 round/level
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: None
 
 With a single primal howl, you strike fear in your opponents. Until the end of the spell's duration, you treat those affected by it as if they were your favored enemy, gaining a +2 bonus on weapon attack and damage rolls against them, and a +2 bonus on Deception, Knowledge, Perception, Sense Motive, and Fieldcraft checks against them. If an affected creature is already one of your favored enemies, it is shaken instead. This is a mind-affecting fear effect.

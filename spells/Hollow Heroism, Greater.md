@@ -19,7 +19,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "Caster level minute(s)"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Ultimate Intrigue"
 based-on:
@@ -40,7 +40,7 @@ _Enchantment (Compulsion) \[MindAffecting, Ruse\]_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: Caster level minute(s)
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
-This spell functions as [[rangoric-srd/spells/Heroism, Greater|Greater Heroism]], except that you can reverse the spell by issuing a special command as a standard action if you are within medium range (100 feet + 10 feet per caster level) of the target. The target loses the bonuses and instead takes a -4 penalty on attack rolls, saving throws, and skill checks until the spell's duration ends (no save), increasing to a -8 penalty against fear effects. Additionally, she takes damage equal to your caster level when you reverse the spell. Attempts to identify _greater hollow heroism_ with a skill check incorrectly identify it as _[[rangoric-srd/spells/Heroism, Greater|greater heroism]]_.
+This spell functions as [[rangoric-srd/spells/Heroism, Greater|Greater Heroism]], except that you can reverse the spell by issuing a special command as a standard action if you are within medium range (100 feet + 10 feet per caster level) of the target. The target loses the bonuses and instead takes a -4 penalty on attack rolls, defenses, and skill checks until the spell's duration ends (no attack against a defense), increasing to a -8 penalty against fear effects. Additionally, she takes damage equal to your caster level when you reverse the spell. Attempts to identify _greater hollow heroism_ with a skill check incorrectly identify it as _[[rangoric-srd/spells/Heroism, Greater|greater heroism]]_.
