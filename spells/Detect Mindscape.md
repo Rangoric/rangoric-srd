@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "60 ft."
 area: "Cone-shaped emanation"
 duration: "Concentration, up to 1 minute/level"
-saving-throw: "Will negates; see text"
+defense: "Will; see text"
 spell-resistance: "No"
 book: "Occult Adventures"
 based-on:
@@ -35,7 +35,7 @@ _Divination_
 - **Range**: 60 ft.
 - **Area**: Cone-shaped emanation
 - **Duration**: Concentration, up to 1 minute/level
-- **Saving Throw**: Will negates; see text
+- **Defense**: Will; see text
 - **Spell Resistance**: No
 
 This spell functions similarly to [[rangoric-srd/spells/Detect Thoughts|detect thoughts]], allowing you to sense when one or more creatures' consciousnesses are inside a [[rangoric-srd/rules/Mindscapes|mindscape]]. The amount of information revealed depends on how long you study a particular subject.

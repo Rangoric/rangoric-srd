@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "Ray"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Disrupt Undead|Disrupt Undead (3.5)]]"
@@ -33,7 +33,7 @@ _Necromancy_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Effect**: Ray
 - **Duration**: Instantaneous
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 You direct a ray of positive energy. You must make a ranged touch attack to hit, and if the ray hits an undead creature, it deals 1d6 points of damage to it.

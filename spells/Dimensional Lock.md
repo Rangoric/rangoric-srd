@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 area: "20-ft.-radius emanation centered on a point in space"
 duration: "One day/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Dimensional Lock|Dimensional Lock (3.5)]]"
@@ -34,7 +34,7 @@ _Abjuration_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Area**: 20-ft.-radius emanation centered on a point in space
 - **Duration**: One day/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 You create a shimmering emerald barrier that completely blocks extradimensional travel. Forms of movement barred include astral projection, blink, dimension door, ethereal jaunt, etherealness, gate, maze, plane shift, shadow walk, teleport, and similar spell-like or psionic abilities. Once dimensional lock is in place, extradimensional travel into or out of the area is not possible.

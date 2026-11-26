@@ -20,7 +20,7 @@ casting-time: "1 standard action"
 range: "30 ft. or 60 ft."
 area: "Cone-shaped burst or line"
 duration: "Instantaneous"
-saving-throw: "Reflex half"
+defense: "Reflex half"
 spell-resistance: "Yes"
 book: "Advanced Player's Guide"
 based-on:
@@ -41,10 +41,10 @@ _Evocation \[Acid, Cold, Electricity, Fire\]_
 - **Range**: 30 ft. or 60 ft.
 - **Area**: Cone-shaped burst or line
 - **Duration**: Instantaneous
-- **Saving Throw**: Reflex half
+- **Defense**: Reflex half
 - **Spell Resistance**: Yes
 
-You breathe out a blast of energy. Creatures in the affected area take 1d6 points of energy damage per caster level (maximum of 12d6). A successful Reflex save results in half damage. The spell's effect and energy type depend on the type of dragon scale used:
+You breathe out a blast of energy. Creatures in the affected area take 1d6 points of energy damage per caster level (maximum of 12d6). The breath attacks Reflex, and a miss halves the damage. The spell's effect and energy type depend on the type of dragon scale used:
 
 _Black dragon:_ 60-foot line of acid.
 

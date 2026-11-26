@@ -21,7 +21,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 target: "One creature"
 duration: "Caster level round(s)"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 book: "Planar Adventures"
 based-on:
@@ -42,7 +42,7 @@ _Transmutation_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Target**: One creature
 - **Duration**: Caster level round(s)
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
 You weaken a creature's resistance against one energy type you select: acid, cold, electricity, fire, or sonic. The creature's resistance to that energy type decreases by 5 (minimum 0), plus an additional 5 for every 5 caster levels beyond 3rd (to a maximum of 20 at 18th level).

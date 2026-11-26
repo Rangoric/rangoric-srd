@@ -32,7 +32,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 target-or-area: "One spellcaster, creature, or object; or 20-ft.-radius burst"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Dispel Magic|Dispel Magic (3.5)]]"
@@ -53,7 +53,7 @@ _Abjuration_
 
 Target or Area: One spellcaster, creature, or object; or 20-ft.-radius burst  
 Duration: Instantaneous  
-Saving Throw: None  
+Defense: None  
 Spell Resistance: No
 
 You can use dispel magic to end ongoing spells that have been cast on a creature or object, to temporarily suppress the magical abilities of a magic item, to end ongoing spells (or at least their effects) within an area, or to counter another spellcaster’s spell. A dispelled spell ends as if its duration had expired. Some spells, as detailed in their descriptions, can’t be defeated by dispel magic. Dispel magic can dispel (but not counter) spell-like effects just as it does spells.

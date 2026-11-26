@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 targets: "You and touched objects or other touched willing creatures"
 duration: "1 round/level or until discharged"
-saving-throw: "None and Will negates (object)"
+defense: "None and Will (object)"
 spell-resistance: "No and yes (object)"
 book: "Advanced Class Guide"
 based-on:
@@ -37,7 +37,7 @@ _Conjuration (Teleportation)_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Targets**: You and touched objects or other touched willing creatures
 - **Duration**: 1 round/level or until discharged
-- **Saving Throw**: None and Will negates (object)
+- **Defense**: None and Will (object)
 - **Spell Resistance**: No and yes (object)
 
 You designate two locations within range and create a dimensional link between them; you must have line of effect to both locations when casting this spell. As a swift action, you can teleport from your current location to either of the designated locations as if you had cast _[[rangoric-srd/spells/Dimension Door|dimension door]]_. The spell is discharged once you have used it to teleport a number of times equal to one-fourth your caster level (maximum 5 times).

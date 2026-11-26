@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "Touch"
 targets: "One melee weapon"
 duration: "1 round/level"
-saving-throw: "Will negates (harmless, object); see text"
+defense: "Will (harmless, object); see text"
 spell-resistance: "Yes (harmless, object)"
 based-on:
   - "[[fantasy srd 3.5/spells/Disrupting Weapon|Disrupting Weapon (3.5)]]"
@@ -33,7 +33,7 @@ _Transmutation_
 - **Range**: Touch
 - **Targets**: One melee weapon
 - **Duration**: 1 round/level
-- **Saving Throw**: Will negates (harmless, object); see text
+- **Defense**: Will (harmless, object); see text
 - **Spell Resistance**: Yes (harmless, object)
 
-This spell makes a melee weapon deadly to undead. Any undead creature with HD equal to or less than your caster level must succeed on a Will save or be destroyed utterly if struck in combat with this weapon. Spell resistance does not apply against the destruction effect.
+This spell makes a melee weapon deadly to undead. Any undead creature with HD equal to or less than your caster level is destroyed utterly if struck in combat with this weapon and the spell hits its Will. Spell resistance does not apply against the destruction effect.

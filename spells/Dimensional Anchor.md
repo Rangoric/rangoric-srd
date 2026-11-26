@@ -19,7 +19,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 effect: "Ray"
 duration: "1 min./level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes (object)"
 based-on:
   - "[[fantasy srd 3.5/spells/Dimensional Anchor|Dimensional Anchor (3.5)]]"
@@ -39,7 +39,7 @@ _Abjuration_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Effect**: Ray
 - **Duration**: 1 min./level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes (object)
 
 A green ray springs from your outstretched hand. You must make a ranged touch attack to hit the target. Any creature or object struck by the ray is covered with a shimmering emerald field that completely blocks extradimensional travel. Forms of movement barred by a dimensional anchor include astral projection, blink, dimension door, ethereal jaunt, etherealness, gate, maze, plane shift, shadow walk, teleport, and similar spell-like or psionic abilities. The spell also prevents the use of a gate or teleportation circle for the duration of the spell.

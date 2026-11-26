@@ -18,7 +18,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 target: "One creature and its clothes"
 duration: "Instantaneous"
-saving-throw: "See text"
+defense: "See text"
 spell-resistance: "Yes"
 book: "Faeries"
 based-on:
@@ -39,11 +39,11 @@ _Abjuration_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Target**: One creature and its clothes
 - **Duration**: Instantaneous
-- **Saving Throw**: See text
+- **Defense**: See text
 - **Spell Resistance**: Yes
 
 Created as a practical joke by the mischievous bogies, this spell strips a person naked instantly. No damage is done to any buckles, straps, or similar clothing features while it removes itself, and all items are gently placed on the ground around the victim without any damage. Picking up items off the ground is a move action that can provoke an attack of opportunity.
 
-If armor is worn, the total armor bonus is added to the target’s Reflex saving throw. For example, a 4th-level cleric (Ref +1) with a 14 Dex (+2) wearing _+1 studded leather_ (+1, +3) has a total bonus of +7 on the saving throw. If the target creature fails his saving throw, the clothing, armor, and other garments worn or carried are scattered in a 10 ft. radius around the target.
+If armor is worn, the total armor bonus is added to the target’s Reflex Defense against the spell. For example, a 4th-level cleric (Ref +1) with a 14 Dex (+2) wearing _+1 studded leather_ (+1, +3) has a total bonus of +7 to Reflex Defense against it. If the spell hits the target creature, the clothing, armor, and other garments worn or carried are scattered in a 10 ft. radius around the target.
 
 _Material Component_: A button strung on a short length of thread.

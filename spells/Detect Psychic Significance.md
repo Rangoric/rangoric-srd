@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "40 ft."
 area: "40-ft.-radius burst, centered on you"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Occult Adventures"
 based-on:
@@ -36,7 +36,7 @@ _Divination_
 - **Range**: 40 ft.
 - **Area**: 40-ft.-radius burst, centered on you
 - **Duration**: Instantaneous
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You detect the presence of psychically significant items in your vicinity. Such items are those that might have significant psychic imprints or histories that can be read by the [[rangoric-srd/skills/Appraise#Psychometry|psychometry]] occult skill unlock, or items under the effects of the _[[rangoric-srd/spells/Charge Object|charge object]]_ or _[[rangoric-srd/spells/Implant False Reading|implant false reading]]_ spells. Items within range that contain significant psychic energy spark a recognition in your mind's eye, but no other information is imparted. This spell doesn't automatically detect magic items or strongly aligned items, though such items often have storied histories and might have had previous owners who possessed psychic abilities.

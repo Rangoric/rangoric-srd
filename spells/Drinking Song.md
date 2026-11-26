@@ -14,7 +14,7 @@ casting-time: "1 round"
 range: "Close (25 ft. +5 ft./level)"
 target: "All living creatures within range"
 duration: "Concentration"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Spells & Magic"
 based-on:
@@ -35,9 +35,9 @@ _Enchantment \[Mind-Affecting\]_
 - **Range**: Close (25 ft. +5 ft./level)
 - **Target**: All living creatures within range
 - **Duration**: Concentration
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
-One reason bards are so popular in the common taverns and ale houses of many a city isn’t because of their ability to tell tales, recite heart-wrenching poetry, or play instruments with the skill of virtuoso performers, but because they have a tendency to make even the most dreary gathering fun. When an accomplished bard (8+ ranks in the [[rangoric-srd/skills/Performance|Performance]] skill) casts this spell, all living creatures within range who fail their Will save gain a temporary +4 enhancement bonus to Charisma and becomes utterly drunk for the duration. Bards with fewer than 8 ranks of the [[rangoric-srd/skills/Performance|Performance]] Skill only impart a +2 enhancement bonus to Charisma and the drunkenness lasts for half as long. Drunken characters are treated as if they were nauseated for the duration of the spell. Unwilling targets that successfully resist this spell immediately attempt to attack the bard.
+One reason bards are so popular in the common taverns and ale houses of many a city isn’t because of their ability to tell tales, recite heart-wrenching poetry, or play instruments with the skill of virtuoso performers, but because they have a tendency to make even the most dreary gathering fun. When an accomplished bard (8+ ranks in the [[rangoric-srd/skills/Performance|Performance]] skill) casts this spell, all living creatures within range whose Will the spell hits gain a temporary +4 enhancement bonus to Charisma and becomes utterly drunk for the duration. Bards with fewer than 8 ranks of the [[rangoric-srd/skills/Performance|Performance]] Skill only impart a +2 enhancement bonus to Charisma and the drunkenness lasts for half as long. Drunken characters are treated as if they were nauseated for the duration of the spell. Unwilling targets that successfully resist this spell immediately attempt to attack the bard.
 
 _Material Component:_ One alcoholic beverage for every creature affected.

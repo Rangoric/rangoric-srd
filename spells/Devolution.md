@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One eidolon"
 duration: "1 round/level"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Advanced Player's Guide"
 based-on:
@@ -36,7 +36,7 @@ _Transmutation_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One eidolon
 - **Duration**: 1 round/level
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 This spell causes an [[rangoric-srd/classes/Summoner#^summoner-eidolon|eidolon]] to lose one [[rangoric-srd/class-options/evolutions/Evolutions|evolution]] plus one additional evolution for every five caster levels. Evolutions with the highest total cost are lost first. If there is a tie, randomly determine which is lost. If this spell causes an eidolon to fail to meet the prerequisites for other evolutions or abilities, those evolutions or abilities are lost as long as this spell persists.

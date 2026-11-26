@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "You and one creature/level"
 duration: "1 hour/level"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Occult Adventures"
 based-on:
@@ -35,12 +35,12 @@ _Conjuration (Teleportation) \[Mind-Affecting\]_
 - **Range**: Touch
 - **Target**: You and one creature/level
 - **Duration**: 1 hour/level
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 This spell functions as _[[rangoric-srd/spells/Dream Travel (Spell)|dream travel]]_, but you and your companions travel through the Dimension of Dreams in a fantastical vehicle of your own devising that halves the travel time. Only you can pilot the vessel, and you can do so even if you aren't inside it. Your psychic vehicle buffers minds from the intense emotional tides of the Dimension of Dreams, rendering everyone inside immune to harmful [[rangoric-srd/spells/Magic Overview#^emotion-component|emotion]] and fear effects. Unlike with _[[rangoric-srd/spells/Dream Travel (Spell)|dream travel]]_, there is no chance the vessel arrives off target. In addition, you need not have met the target creature, but in that case you must have at least a reliable description of it. However, if you attempt to travel there with insufficient or incorrect information, you do need to roll, using the false identity entry from _[[rangoric-srd/spells/Dream Travel (Spell)|dream travel]]_.
 
-Creatures that disembark from your vehicle can either enter the dreamscape or exit to the plane where the dreamer's body lies, arriving within 1 mile of the dreamer's body. All creatures that disembark from the vehicle onto a plane at the same time arrive in the same place. The dreamer can't prevent the dream voyagers from entering its dream, but can attempt a Will save to prevent a group of creatures from exiting to the plane where its body resides.
+Creatures that disembark from your vehicle can either enter the dreamscape or exit to the plane where the dreamer's body lies, arriving within 1 mile of the dreamer's body. All creatures that disembark from the vehicle onto a plane at the same time arrive in the same place. The dreamer can't prevent the dream voyagers from entering its dream, but can make the spell attack its Will, and on a miss prevent a group of creatures from exiting to the plane where its body resides.
 
 The psychic vehicle remains in the dream for the remainder of the spell's duration, even if it's unoccupied. A creature adjacent to the dreamer can reenter the dream vessel as a full-round action through an illusory portal only subjects of the spell can see. You can return the vessel to the point where you cast _dream voyage_ to allow any number of passengers to return to that plane, and can return it to the dream again. Either of these trips takes the same amount of time as the initial travel, and can be done any number of times within the spell's duration. If the vessel moves out of a dreamscape, companions left behind can't return to the vessel by being near the dreamer. If a companion is killed, its body doesn't return to the _dream voyage_ unless you carry it with you, just like any other object.
 

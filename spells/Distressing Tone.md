@@ -15,7 +15,7 @@ casting-time: "1 round"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "1d4 living creatures"
 duration: "1 round/level"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -36,7 +36,7 @@ _Evocation \[Sonic\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: 1d4 living creatures
 - **Duration**: 1 round/level
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
-You create a powerful tone that vibrates living flesh. Targets must save or gain the sickened condition. Creatures that are immune to critical hits are immune to this spell.
+You create a powerful tone that vibrates living flesh. The tone attacks the Fortitude of targets, and on a hit they gain the sickened condition. Creatures that are immune to critical hits are immune to this spell.

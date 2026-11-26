@@ -11,7 +11,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "1 round/level"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Spells & Magic"
 based-on:
@@ -32,7 +32,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: 1 round/level
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 The caster chooses one ability score. The subject’s score for that ability is changed to 18, plus one per three caster levels (30 maximum). If the subject’s current ability score is already higher than this amount, the spell has no effect.

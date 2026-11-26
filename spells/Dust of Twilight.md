@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 target: "Creatures and objects in a 10-ft. spread"
 duration: "Instantaneous"
-saving-throw: "Fortitude negates (fatigue only)"
+defense: "Fortitude (fatigue only)"
 spell-resistance: "No"
 book: "Advanced Player's Guide"
 based-on:
@@ -38,7 +38,7 @@ _Conjuration \[Darkness\]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Target**: Creatures and objects in a 10-ft. spread
 - **Duration**: Instantaneous
-- **Saving Throw**: Fortitude negates (fatigue only)
+- **Defense**: Fortitude (fatigue only)
 - **Spell Resistance**: No
 
-A shower of iridescent black particles clings to and extinguishes torches, lanterns, sunrods, and similar mundane light sources and dispels any spell of 2nd level or lower with the light descriptor (as _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_). Creatures in the area must make a Fortitude save or become fatigued.
+A shower of iridescent black particles clings to and extinguishes torches, lanterns, sunrods, and similar mundane light sources and dispels any spell of 2nd level or lower with the light descriptor (as _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_). The dust attacks the Fortitude of creatures in the area, and on a hit they become fatigued.

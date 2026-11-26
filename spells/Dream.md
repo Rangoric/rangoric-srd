@@ -21,7 +21,7 @@ casting-time: "1 minute"
 range: "Unlimited"
 target: "One living creature touched"
 duration: "See text"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Dream|Dream (3.5)]]"
@@ -41,7 +41,7 @@ _Illusion (Phantasm) \[Mind-Affecting\]_
 - **Range**: Unlimited
 - **Target**: One living creature touched
 - **Duration**: See text
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 You, or a messenger touched by you, sends a phantasmal message to others in the form of a dream. At the beginning of the spell, you must name the recipient or identify him or her by some title that leaves no doubt as to identity. The messenger then enters a trance, appears in the intended recipient’s dream, and delivers the message. The message can be of any length, and the recipient remembers it perfectly upon waking. The communication is one-way. The recipient cannot ask questions or offer information, nor can the messenger gain any information by observing the dreams of the recipient.
@@ -52,4 +52,4 @@ If the recipient is awake when the spell begins, the messenger can choose to wak
 
 Creatures who don’t sleep (such as elves, but not half-elves) or don’t dream cannot be contacted by this spell.
 
-The messenger is unaware of its own surroundings or of the activities around it while in the trance. It is defenseless both physically and mentally (always fails any saving throw) while in the trance.
+The messenger is unaware of its own surroundings or of the activities around it while in the trance. It is defenseless both physically and mentally (attacks against its defenses always hit) while in the trance.

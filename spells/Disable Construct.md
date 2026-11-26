@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Construct touched"
 duration: "1 round/level (D)"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "No"
 book: "Advanced Class Guide"
 based-on:
@@ -34,7 +34,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: Construct touched
 - **Duration**: 1 round/level (D)
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: No
 
-You can make a melee touch attack to send a pulse into the target, interfering with the magic that endows it with life. If the construct fails its saving throw, it becomes helpless for the duration of the spell.
+You can make a melee touch attack to send a pulse into the target, interfering with the magic that endows it with life. If the spell hits the construct, it becomes helpless for the duration of the spell.

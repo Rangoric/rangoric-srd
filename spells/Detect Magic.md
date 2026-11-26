@@ -27,7 +27,7 @@ casting-time: "1 standard action"
 range: "60 ft."
 area: "Cone-shaped emanation"
 duration: "Concentration, up to 1 min./level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Detect Magic|Detect Magic (3.5)]]"
@@ -47,7 +47,7 @@ _Divination_
 - **Range**: 60 ft.
 - **Area**: Cone-shaped emanation
 - **Duration**: Concentration, up to 1 min./level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You detect magical auras. The amount of information revealed depends on how long you study a particular area or subject.

@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "60 ft."
 area: "Cone-shaped emanation"
 duration: "Concentration, up to 10 min./level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Detect Snares and Pits|Detect Snares and Pits (3.5)]]"
@@ -34,7 +34,7 @@ _Divination_
 - **Range**: 60 ft.
 - **Area**: Cone-shaped emanation
 - **Duration**: Concentration, up to 10 min./level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You can detect simple pits, deadfalls, and snares as well as mechanical traps constructed of natural materials. The spell does not detect complex traps, including trapdoor traps.

@@ -21,7 +21,7 @@ casting-time: "1 standard action"
 range: "See text"
 area: "Cone emanating from you to the extreme of the range"
 duration: "Concentration up to 10 minutes/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Faeries"
 based-on:
@@ -42,7 +42,7 @@ _Divination_
 - **Range**: See text
 - **Area**: Cone emanating from you to the extreme of the range
 - **Duration**: Concentration up to 10 minutes/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 As _[[rangoric-srd/spells/Detect Doorway|detect doorway]]_, but specifically in reference to fey _doorways_ that lead to the fey realm. With the specific focus of this spell, the caster can see the _doorway_ in the mortal world and can also get a vague visual idea of what the other end of the _sideroad_ looks like (and possibly know where it goes if well versed in the fey realm’s geography).

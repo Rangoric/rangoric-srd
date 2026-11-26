@@ -12,7 +12,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Your Familiar"
 duration: "2 rounds/level (d)"
-saving-throw: "Fortitude negates (harmless)"
+defense: "Fortitude (harmless)"
 spell-resistance: "Yes"
 book: "Spells & Magic"
 based-on:
@@ -33,7 +33,7 @@ _Evocation_
 - **Range**: Touch
 - **Target**: Your Familiar
 - **Duration**: 2 rounds/level (d)
-- **Saving Throw**: Fortitude negates (harmless)
+- **Defense**: Fortitude (harmless)
 - **Spell Resistance**: Yes
 
 This variation of _[[rangoric-srd/spells/Magic Weapon|magic weapon]]_ functions only for the natural weapons of a familiar. When cast, the familiar’s weapons take on the effects of a +1 enchantment bonus. At the caster’s option, this bonus does not have to be a +1 bonus to hit and damage. Instead, it can be any equivalent +1 bonus as listed for magical melee weapon qualities (such as _[[rangoric-srd/magic-items/weapon-abilities/Keen|keen]], [[rangoric-srd/magic-items/weapon-abilities/Flaming|flaming]],_ etc.). This gained property never does the familiar any harm, and cannot be one that involves the weapon leaving the wielder’s possession (like _[[rangoric-srd/magic-items/weapon-abilities/Throwing|throwing]]_).

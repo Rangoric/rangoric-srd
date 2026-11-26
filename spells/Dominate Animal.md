@@ -20,7 +20,7 @@ casting-time: "1 round"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One animal"
 duration: "1 round/level"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Dominate Animal|Dominate Animal (3.5)]]"
@@ -40,7 +40,7 @@ _Enchantment (Compulsion) \[Mind-Affecting\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One animal
 - **Duration**: 1 round/level
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 You can enchant an animal and direct it with simple commands such as “Attack,” “Run,” and “Fetch.” Suicidal or self-destructive commands (including an order to attack a creature two or more size categories larger than the dominated animal) are simply ignored.

@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "Arrow-shaped projectile of evil energy"
 duration: "Instantaneous (1d4 rounds)"
-saving-throw: "Will partial (see text)"
+defense: "Will partial (see text)"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -35,9 +35,9 @@ _Evocation \[Evil\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Effect**: Arrow-shaped projectile of evil energy
 - **Duration**: Instantaneous (1d4 rounds)
-- **Saving Throw**: Will partial (see text)
+- **Defense**: Will partial (see text)
 - **Spell Resistance**: Yes
 
 You unleash a crackling missile of darkness from your unholy symbol at any one target in range as a ranged touch attack.
 
-A good creature struck by _dread bolt_ takes 1d8 points of damage per two caster levels (maximum 5d8). A good outsider instead takes 1d6 points of damage per caster level (maximum 10d6) and is sickened for 1 round. A successful Will save reduces the damage to half and negates the sickened effect. This spell deals only half damage to creatures that are neither good nor evil, and they are not sickened. The bolt has no effect on evil creatures.
+A good creature struck by _dread bolt_ takes 1d8 points of damage per two caster levels (maximum 5d8). A good outsider instead takes 1d6 points of damage per caster level (maximum 10d6) and is sickened for 1 round. The spell attacks Will, and a miss reduces the damage to half and negates the sickened effect. This spell deals only half damage to creatures that are neither good nor evil, and they are not sickened. The bolt has no effect on evil creatures.
