@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Long (400 ft. + 40 ft./level)"
 area: "Cone-shaped emanation"
 duration: "Concentration, up to 10 minutes/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Advanced Player's Guide"
 based-on:
@@ -35,7 +35,7 @@ _Divination_
 - **Range**: Long (400 ft. + 40 ft./level)
 - **Area**: Cone-shaped emanation
 - **Duration**: Concentration, up to 10 minutes/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 This spell functions like _[[rangoric-srd/spells/Detect Animals or Plants|detect animals or plants]]_, except it detects creatures of the aberration type.

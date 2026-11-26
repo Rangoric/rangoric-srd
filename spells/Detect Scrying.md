@@ -22,7 +22,7 @@ casting-time: "1 standard action"
 range: "40 ft."
 area: "40-ft.-radius emanation centered on you"
 duration: "24 hours"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Detect Scrying|Detect Scrying (3.5)]]"
@@ -42,7 +42,7 @@ _Divination_
 - **Range**: 40 ft.
 - **Area**: 40-ft.-radius emanation centered on you
 - **Duration**: 24 hours
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You immediately become aware of any attempt to observe you by means of a divination (scrying) spell or effect. The spell’s area radiates from you and moves as you move. You know the location of every magical sensor within the spell’s area.

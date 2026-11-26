@@ -19,7 +19,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 area: "Quarter circle emanating from you to the extreme of the range"
 duration: "Concentration, up to 10 minutes/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Faeries"
 based-on:
@@ -40,7 +40,7 @@ _Divination_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Area**: Quarter circle emanating from you to the extreme of the range
 - **Duration**: Concentration, up to 10 minutes/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You can detect fey creatures in a cone emanating out from you in whatever direction you face. The amount of information revealed depends on how long you search a particular area.

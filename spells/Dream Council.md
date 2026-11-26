@@ -19,7 +19,7 @@ casting-time: "1 standard action"
 range: "Unlimited"
 target: "One or more living creatures"
 duration: "See text"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Occult Adventures"
 based-on:
@@ -40,7 +40,7 @@ _Illusion (Phantasm) \[MindAffecting\]_
 - **Range**: Unlimited
 - **Target**: One or more living creatures
 - **Duration**: See text
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 This spell functions as [[rangoric-srd/spells/Dream|dream]], but you and the target of your _[[rangoric-srd/spells/Dream|dream]]_ can converse in a limited fashion as long as the recipient is also asleep. You can send or receive a number of _[[rangoric-srd/spells/Dream|dream]]_ messages equal to your caster level. Each message can be up to 25 words long or a single vague image that can't convey fine details such as words. You can send and receive these _[[rangoric-srd/spells/Dream|dream]]_ messages with a single target or multiple targets, but each message you send or receive counts against the total number of messages allowed. Sending a message takes 1 round. The spell ends and you wake up when you run out of messages.

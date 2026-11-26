@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Long (400 ft. + 40 ft./level)"
 area: "Cone-shaped emanation"
 duration: "Concentration, up to 10 min./level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Detect Animals or Plants|Detect Animals or Plants (3.5)]]"
@@ -35,7 +35,7 @@ _Divination_
 - **Range**: Long (400 ft. + 40 ft./level)
 - **Area**: Cone-shaped emanation
 - **Duration**: Concentration, up to 10 min./level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You can detect a particular kind of animal or plant in a cone emanating out from you in whatever direction you face. You must think of a kind of animal or plant when using the spell, but you can change the animal or plant kind each round. The amount of information revealed depends on how long you search a particular area or focus on a specific kind of animal or plant.

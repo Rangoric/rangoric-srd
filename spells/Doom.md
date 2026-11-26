@@ -20,7 +20,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 target: "One living creature"
 duration: "1 min./level"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Doom|Doom (3.5)]]"
@@ -40,7 +40,7 @@ _Necromancy \[Fear, Mind-Affecting\]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Target**: One living creature
 - **Duration**: 1 min./level
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 This spell fills a single subject with a feeling of horrible dread that causes it to become [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]].

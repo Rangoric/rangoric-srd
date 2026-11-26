@@ -21,7 +21,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One extraplanar creature"
 duration: "Instantaneous"
-saving-throw: "Will negates; see text"
+defense: "Will; see text"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Dismissal|Dismissal (3.5)]]"
@@ -41,7 +41,7 @@ _Abjuration_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One extraplanar creature
 - **Duration**: Instantaneous
-- **Saving Throw**: Will negates; see text
+- **Defense**: Will; see text
 - **Spell Resistance**: Yes
 
-This spell forces an extraplanar creature back to its proper plane if it fails a special Will save (DC = spell’s save DC – creature’s HD + your caster level). If the spell is successful, the creature is instantly whisked away, but there is a 20% chance of actually sending the subject to a plane other than its own.
+This spell forces an extraplanar creature back to its proper plane if the spell hits its Will with a special attack bonus (the spell’s attack bonus – the creature’s HD + your caster level). If the spell is successful, the creature is instantly whisked away, but there is a 20% chance of actually sending the subject to a plane other than its own.

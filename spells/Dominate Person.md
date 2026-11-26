@@ -24,7 +24,7 @@ casting-time: "1 round"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One humanoid"
 duration: "One day/level"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Dominate Person|Dominate Person (3.5)]]"
@@ -44,7 +44,7 @@ _Enchantment (Compulsion) \[Mind-Affecting\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One humanoid
 - **Duration**: One day/level
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 You can control the actions of any humanoid creature through a telepathic link that you establish with the subject’s mind.
@@ -57,8 +57,8 @@ Changing your instructions or giving a dominated creature a new command is the e
 
 By concentrating fully on the spell (a standard action), you can receive full sensory input as interpreted by the mind of the subject, though it still can’t communicate with you. You can’t actually see through the subject’s eyes, so it’s not as good as being there yourself, but you still get a good idea of what’s going on.
 
-Subjects resist this control, and any subject forced to take actions against its nature receives a new saving throw with a +2 bonus. Obviously self-destructive orders are not carried out. Once control is established, the range at which it can be exercised is unlimited, as long as you and the subject are on the same plane. You need not see the subject to control it.
+Subjects resist this control, and the spell attacks the Will of any subject forced to take actions against its nature again, with a +2 bonus to its Will Defense, and a miss ends it. Obviously self-destructive orders are not carried out. Once control is established, the range at which it can be exercised is unlimited, as long as you and the subject are on the same plane. You need not see the subject to control it.
 
-If you don’t spend at least 1 round concentrating on the spell each day, the subject receives a new saving throw to throw off the domination.
+If you don’t spend at least 1 round concentrating on the spell each day, the spell attacks the subject’s Will again, and a miss throws off the domination.
 
 Protection from evil or a similar spell can prevent you from exercising control or using the telepathic link while the subject is so warded, but such an effect neither prevents the establishment of domination nor dispels it.

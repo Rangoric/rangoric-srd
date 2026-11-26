@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Touch"
 area: "10-ft.-radius emanation centered on a creature, object, or point in space"
 duration: "Caster level round(s)"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Ultimate Intrigue"
 based-on:
@@ -36,7 +36,7 @@ _Abjuration_
 - **Range**: Touch
 - **Area**: 10-ft.-radius emanation centered on a creature, object, or point in space
 - **Duration**: Caster level round(s)
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 You suppress magical sound-dampening effects within the area.
