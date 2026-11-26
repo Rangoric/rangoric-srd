@@ -21,7 +21,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One object"
 duration: "See text"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes (object)"
 book: "Ultimate Combat"
 based-on:
@@ -42,7 +42,7 @@ _Evocation \[Force\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One object
 - **Duration**: See text
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes (object)
 
 You create and control an invisible telekinetic force, manipulating it with either startling abruptness or careful deliberateness, allowing you to seize an object from an opponent or remotely manipulate an object. You can utilize this force to one of two ends.

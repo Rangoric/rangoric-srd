@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "See text"
 target-or-area: "See text"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Plant Growth|Plant Growth (3.5)]]"
@@ -36,7 +36,7 @@ _Transmutation_
 
 Target or Area: See text  
 Duration: Instantaneous  
-Saving Throw: None  
+Defense: None  
 Spell Resistance: No
 
 Plant growth has different effects depending on the version chosen.

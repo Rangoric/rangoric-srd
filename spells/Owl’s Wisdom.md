@@ -23,7 +23,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "1 min./level"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Owl’s Wisdom|Owl’s Wisdom (3.5)]]"
@@ -43,9 +43,9 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: 1 min./level
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes
 
-The transmuted creature becomes wiser. The spell grants a +4 enhancement bonus to Wisdom, adding the usual benefit to Wisdom-related skills. Clerics, druids, paladins, and rangers (and other Wisdom-based spellcasters) who receive owl’s wisdom do not gain any additional bonus spells for the increased Wisdom, but the save DCs for their spells increase.
+The transmuted creature becomes wiser. The spell grants a +4 enhancement bonus to Wisdom, adding the usual benefit to Wisdom-related skills. Clerics, druids, paladins, and rangers (and other Wisdom-based spellcasters) who receive owl’s wisdom do not gain any additional bonus spells for the increased Wisdom, but the attack bonuses of their spells increase.
 
 _Arcane Material Component_: A few feathers, or a pinch of droppings, from an owl.

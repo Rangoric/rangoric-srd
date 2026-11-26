@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 targets: "One creature/level, no two of which can be more than 30 ft. apart"
 duration: "1 hour/level (D)"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Advanced Player's Guide"
 based-on:
@@ -37,7 +37,7 @@ _Transmutation_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Targets**: One creature/level, no two of which can be more than 30 ft. apart
 - **Duration**: 1 hour/level (D)
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 This spell functions like _[[rangoric-srd/spells/Planar Adaptation|planar adaptation]]_, except as noted above.

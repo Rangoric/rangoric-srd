@@ -20,7 +20,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "One object touched of up to 100 lb./level"
 duration: "8 hours (D)"
-saving-throw: "Will negates (object)"
+defense: "Will (object)"
 spell-resistance: "Yes (object)"
 based-on:
   - "[[fantasy srd 3.5/spells/Obscure Object|Obscure Object (3.5)]]"
@@ -40,7 +40,7 @@ _Abjuration_
 - **Range**: Touch
 - **Target**: One object touched of up to 100 lb./level
 - **Duration**: 8 hours (D)
-- **Saving Throw**: Will negates (object)
+- **Defense**: Will (object)
 - **Spell Resistance**: Yes (object)
 
 This spell hides an object from location by divination (scrying) effects, such as the scrying spell or a crystal ball. Such an attempt automatically fails (if the divination is targeted on the object) or fails to perceive the object (if the divination is targeted on a nearby location, object, or person).

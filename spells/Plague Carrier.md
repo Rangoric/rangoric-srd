@@ -18,7 +18,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "1 hour/level"
-saving-throw: "Fortitude negates (harmless)"
+defense: "Fortitude (harmless)"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -39,7 +39,7 @@ _Necromancy \[Disease, Evil\]_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: 1 hour/level
-- **Saving Throw**: Fortitude negates (harmless)
+- **Defense**: Fortitude (harmless)
 - **Spell Resistance**: Yes
 
-The target's natural attacks carry [[rangoric-srd/rules/afflictions/Filth Fever|filth fever]] (DC 10 + 1/2 of the creature's Hit Dice + creature's Con modifier)
+The target's natural attacks carry [[rangoric-srd/rules/afflictions/Filth Fever|filth fever]] (attack bonus 1/2 of the creature's Hit Dice + creature's Con modifier, vs Fortitude)

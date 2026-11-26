@@ -19,7 +19,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "1 round/level"
-saving-throw: "Will negates (see text)"
+defense: "Will (see text)"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -40,7 +40,7 @@ _Enchantment (Compulsion) \[Emotion, Mind-affecting\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature
 - **Duration**: 1 round/level
-- **Saving Throw**: Will negates (see text)
+- **Defense**: Will (see text)
 - **Spell Resistance**: Yes
 
-You cause a single opponent to become profoundly stricken with intense grief. He can take no actions, takes a –2 penalty to Armor Class, and loses his Dexterity bonus (if any). He can attempt a new save each round to break the spell's effect.
+You cause a single opponent to become profoundly stricken with intense grief. He can take no actions, takes a –2 penalty to Armor Class, and loses his Dexterity bonus (if any). He can make the spell attack his Will again each round, and a miss breaks the spell's effect.

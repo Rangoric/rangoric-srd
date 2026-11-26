@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Touch (see text)"
 area: "Four 5-ft. squares/level (see text)"
 duration: "1 round/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Advanced Class Guide"
 based-on:
@@ -35,7 +35,7 @@ _Conjuration (Healing)_
 - **Range**: Touch (see text)
 - **Area**: Four 5-ft. squares/level (see text)
 - **Duration**: 1 round/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 This spell functions as _[[rangoric-srd/spells/Path of Glory|path of glory]]_, except as noted above, and a square provides 5 points of healing instead of 1.

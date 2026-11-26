@@ -20,7 +20,7 @@ casting-time: "10 minutes"
 range: "0 ft."
 effect: "One quasi-real, horselike creature"
 duration: "1 hour/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Phantom Steed|Phantom Steed (3.5)]]"
@@ -40,7 +40,7 @@ _Conjuration (Creation)_
 - **Range**: 0 ft.
 - **Effect**: One quasi-real, horselike creature
 - **Duration**: 1 hour/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You conjure a Large, quasi-real, horselike creature. The steed can be ridden only by you or by the one person for whom you specifically created the mount. A phantom steed has a black head and body, gray mane and tail, and smoke-colored, insubstantial hooves that make no sound. It has what seems to be a saddle, bit, and bridle. It does not fight, but animals shun it and refuse to attack it.

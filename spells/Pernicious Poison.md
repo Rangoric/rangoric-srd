@@ -19,7 +19,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "10 minute/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -40,7 +40,7 @@ _Necromancy \[Poison\]_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: 10 minute/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
-You weaken the target's defenses against poison. The target gains a –4 penalty on saves against poison, and poisons affecting the target continue for another 2 frequency increments (for example, [[rangoric-srd/rules/afflictions/Black Adder Venom|black adder venom]] lasts 8 rounds instead of 6, and [[rangoric-srd/rules/afflictions/Arsenic|arsenic]] lasts for 6 minutes instead of 4). Attempts to cure the poisoned target with skill or magic take a –4 penalty.
+You weaken the target's defenses against poison. The target gains a –4 penalty on defenses against poison, and poisons affecting the target continue for another 2 frequency increments (for example, [[rangoric-srd/rules/afflictions/Black Adder Venom|black adder venom]] lasts 8 rounds instead of 6, and [[rangoric-srd/rules/afflictions/Arsenic|arsenic]] lasts for 6 minutes instead of 4). Attempts to cure the poisoned target with skill or magic take a –4 penalty.

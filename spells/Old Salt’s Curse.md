@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "One creature"
 duration: "Permanent"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Advanced Race Guide"
 based-on:
@@ -38,7 +38,7 @@ _Necromancy \[Curse\]_
 - **Range**: Touch
 - **Target**: One creature
 - **Duration**: Permanent
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 You inflict a curse of the roiling sea upon the target, making it permanently sickened. Anytime the target is on or in the water more than a mile from shore, it also becomes staggered with seasickness. This curse cannot be dispelled, though _[[rangoric-srd/spells/Remove Curse|remove curse]]_ or _[[rangoric-srd/spells/Break Enchantment|break enchantment]]_ can negate it.

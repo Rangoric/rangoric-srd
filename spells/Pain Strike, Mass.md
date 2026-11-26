@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 targets: "One living creature/level, no two of which can be more than 30 ft. apart"
 duration: "1 round/level (D)"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 book: "Advanced Player's Guide"
 based-on:
@@ -38,7 +38,7 @@ _Evocation \[Evil, Pain\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Targets**: One living creature/level, no two of which can be more than 30 ft. apart
 - **Duration**: 1 round/level (D)
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
 This spell works like _[[rangoric-srd/spells/Pain Strike|pain strike]]_, except as noted above.

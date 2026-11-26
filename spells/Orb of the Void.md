@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "1-ft.-diameter sphere"
 duration: "1 round/level (D)"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -35,10 +35,10 @@ _Necromancy_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Effect**: 1-ft.-diameter sphere
 - **Duration**: 1 round/level (D)
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
-You create a small weightless sphere of pure negative energy. As a move action, you can move it up to 30 feet per round in any direction. If it enters a space with a living creature, it stops moving for the round and that creature gains one negative level (Fortitude negates). Any creature passing through or ending its turn in the space occupied by the sphere gains one negative level (Fortitude negates). Twenty-four hours after gaining a negative level from the sphere, the subject must make a Fortitude saving throw (the DC of this save is equal to the DC of this spell) for each negative level. If the save succeeds, that negative level is removed. If it fails, that negative level becomes permanent.
+You create a small weightless sphere of pure negative energy. As a move action, you can move it up to 30 feet per round in any direction. If it enters a space with a living creature, it stops moving for the round and that creature gains one negative level (vs Fortitude). Any creature passing through or ending its turn in the space occupied by the sphere gains one negative level (vs Fortitude). Twenty-four hours after a creature gains a negative level from the sphere, the sphere attacks its Fortitude (with this spell’s attack bonus) once for each negative level. If the attack misses, that negative level is removed. If it hits, that negative level becomes permanent.
 
 If more than one orb (from different castings of the spell) enters the same space, the orbs automatically fuse together. The resulting orb uses the higher of the two orbs' DCs as its DC and whichever duration has more time left. If the orbs are from different casters, each must make an opposed Intelligence check to move the sphere.
 

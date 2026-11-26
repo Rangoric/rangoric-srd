@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "20 ft."
 targets: "Allies within a 40-ft.-radius burst centered on you"
 duration: "1 round/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 book: "Advanced Class Guide"
 based-on:
@@ -37,7 +37,7 @@ _Enchantment (Compulsion)_
 - **Range**: 20 ft.
 - **Targets**: Allies within a 40-ft.-radius burst centered on you
 - **Duration**: 1 round/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 The magic of your allies in the area becomes more potent against certain outsiders. Chose one alignment subtype (chaotic, evil, good, or lawful). Against outsiders with that alignment component or subtype, your allies in the area gain a +2 bonus on caster level checks to overcome spell resistance, and their spells ignore the first 10 points of energy resistance (but not energy immunity).

@@ -11,7 +11,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "1 minute/level"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Ultimate Magic"
 based-on:
@@ -32,7 +32,7 @@ _Transmutation_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature
 - **Duration**: 1 minute/level
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 The target gains all the benefits of your [[rangoric-srd/classes/Oracle#^oracle-curse|oracle's curse]], with none of the penalties. In some cases, this has no effect (for example, a fighter with your [[rangoric-srd/class-options/curses/Haunted Curse|haunted curse]] can't cast spells and doesn't gain any benefit from having additional spells known).

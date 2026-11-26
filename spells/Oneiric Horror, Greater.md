@@ -19,7 +19,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 target: "One living creature"
 duration: "Caster level round(s)"
-saving-throw: "Will negates, Fortitude negates, see text"
+defense: "Will, Fortitude, see text"
 spell-resistance: "Yes"
 book: "Occult Adventures"
 based-on:
@@ -40,7 +40,7 @@ _Illusion (Phantasm) \[MindAffecting\]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Target**: One living creature
 - **Duration**: Caster level round(s)
-- **Saving Throw**: Will negates, Fortitude negates, see text
+- **Defense**: Will, Fortitude, see text
 - **Spell Resistance**: Yes
 
-This spell functions as [[rangoric-srd/spells/Oneiric Horror|Oneiric Horror]] except each round the subject fails its Will save, it takes 1 point of Strength damage, and after the spell ends, the subject must succeed at a Fortitude save or be fatigued for a number of minutes equal to the number of rounds spent under the spell's effect.
+This spell functions as [[rangoric-srd/spells/Oneiric Horror|Oneiric Horror]] except each round the spell hits the subject’s Will, it takes 1 point of Strength damage, and after the spell ends, the spell attacks the subject’s Fortitude, and on a hit it is fatigued for a number of minutes equal to the number of rounds spent under the spell's effect.

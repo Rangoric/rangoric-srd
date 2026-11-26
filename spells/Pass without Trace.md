@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "Touch"
 targets: "One creature/level touched"
 duration: "1 hour/level (D)"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Pass without Trace|Pass without Trace (3.5)]]"
@@ -37,7 +37,7 @@ _Transmutation_
 - **Range**: Touch
 - **Targets**: One creature/level touched
 - **Duration**: 1 hour/level (D)
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 The subject or subjects can move through any type of terrain and leave neither footprints nor scent. [[rangoric-srd/feats/Track|Tracking]] the subjects is impossible by nonmagical means.

@@ -21,9 +21,9 @@ The spells an [[rangoric-srd/classes/Occultist#^occultist-spells|occultist]] can
 
 **Abjuration** ^occ0-abjuration
 
-| Spell Name                                      | Brief Description                  |
-| ----------------------------------------------- | ---------------------------------- |
-| [[rangoric-srd/spells/Resistance\|Resistance]]: | Subject gains +1 on saving throws. |
+| Spell Name                                      | Brief Description             |
+| ----------------------------------------------- | ----------------------------- |
+| [[rangoric-srd/spells/Resistance\|Resistance]]: | Subject gains +1 on defenses. |
 
 **Conjuration** ^occ0-conjuration
 
@@ -34,15 +34,15 @@ The spells an [[rangoric-srd/classes/Occultist#^occultist-spells|occultist]] can
 
 **Divination** ^occ0-divination
 
-| Spell Name                                                                        | Brief Description                                    |
-| --------------------------------------------------------------------------------- | ---------------------------------------------------- |
-| [[rangoric-srd/spells/Detect Magic\|Detect Magic]]:                               | Detects spells and magic items within 60 ft.         |
-| [[rangoric-srd/spells/Detect Poison\|Detect Poison]]:                             | Detects poison in one creature or small object.      |
-| [[rangoric-srd/spells/Detect Psychic Significance\|Detect Psychic Significance]]: | Find psychically charged items.                      |
-| [[rangoric-srd/spells/Guidance\|Guidance]]:                                       | +1 on one attack roll, saving throw, or skill check. |
-| [[rangoric-srd/spells/Know Direction\|Know Direction]]:                           | You discern north.                                   |
-| [[rangoric-srd/spells/Read Magic\|Read Magic]]:                                   | Read scrolls and spellbooks.                         |
-| [[rangoric-srd/spells/Sift\|Sift]]:                                               | See area as though examining it.                     |
+| Spell Name                                                                        | Brief Description                                        |
+| --------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| [[rangoric-srd/spells/Detect Magic\|Detect Magic]]:                               | Detects spells and magic items within 60 ft.             |
+| [[rangoric-srd/spells/Detect Poison\|Detect Poison]]:                             | Detects poison in one creature or small object.          |
+| [[rangoric-srd/spells/Detect Psychic Significance\|Detect Psychic Significance]]: | Find psychically charged items.                          |
+| [[rangoric-srd/spells/Guidance\|Guidance]]:                                       | +1 on one attack roll or skill check, or to one defense. |
+| [[rangoric-srd/spells/Know Direction\|Know Direction]]:                           | You discern north.                                       |
+| [[rangoric-srd/spells/Read Magic\|Read Magic]]:                                   | Read scrolls and spellbooks.                             |
+| [[rangoric-srd/spells/Sift\|Sift]]:                                               | See area as though examining it.                         |
 
 **Enchantment** ^occ0-enchantment
 
@@ -91,7 +91,7 @@ The spells an [[rangoric-srd/classes/Occultist#^occultist-spells|occultist]] can
 | Spell Name                                                  | Brief Description                                                                                                                 |
 | ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | [[rangoric-srd/spells/Alarm\|Alarm]]:                       | Wards an area for 2 hours/level.                                                                                                  |
-| [[rangoric-srd/spells/Hex Ward\|Hex Ward]]:                 | Target gains +4 on saves against witch hexes.                                                                                     |
+| [[rangoric-srd/spells/Hex Ward\|Hex Ward]]:                 | Target gains +4 on defenses against witch hexes.                                                                                  |
 | [[rangoric-srd/spells/Hold Portal\|Hold Portal]]:           | Holds door shut.                                                                                                                  |
 | [[rangoric-srd/spells/Peacebond\|Peacebond]]:               | Locks a weapon in place on the target's body.                                                                                     |
 | [[rangoric-srd/spells/Shield\|Shield]]:                     | Invisible disc gives +4 to AC, blocks magic missiles.                                                                             |
@@ -467,17 +467,17 @@ The spells an [[rangoric-srd/classes/Occultist#^occultist-spells|occultist]] can
 
 **Necromancy** ^occ3-necromancy
 
-| Spell Name                                                              | Brief Description                                                                                   |
-| ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| [[rangoric-srd/spells/Animate Dead\|Animate Dead]] (M):                 | Creates undead skeletons and zombies.                                                               |
-| [[rangoric-srd/spells/Bestow Curse\|Bestow Curse]]:                     | –6 to an ability score; –4 on attack rolls, saves, and checks; or 50% chance of losing each action. |
-| [[rangoric-srd/spells/Gentle Repose\|Gentle Repose]]:                   | Preserves one corpse.                                                                               |
-| [[rangoric-srd/spells/Healing Thief\|Healing Thief]] (M):               | You siphon half of all magical healing that the targeted creature receives.                         |
-| [[rangoric-srd/spells/Inflict Serious Wounds\|Inflict Serious Wounds]]: | Touch attack, 3d8 damage +1/level (max +15).                                                        |
-| [[rangoric-srd/spells/Riding Possession\|Riding Possession]]:           | As possession, but you observe instead of control the subject.                                      |
-| [[rangoric-srd/spells/Sands of Time\|Sands of Time]]:                   | Target temporarily ages.                                                                            |
-| [[rangoric-srd/spells/Sessile Spirit\|Sessile Spirit]]:                 | Cause a spirit inhabiting a creature or an object to go dormant.                                    |
-| [[rangoric-srd/spells/Toxic Gift\|Toxic Gift]]:                         | Target suffers the effect of the poison in you.                                                     |
+| Spell Name                                                              | Brief Description                                                                                      |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| [[rangoric-srd/spells/Animate Dead\|Animate Dead]] (M):                 | Creates undead skeletons and zombies.                                                                  |
+| [[rangoric-srd/spells/Bestow Curse\|Bestow Curse]]:                     | –6 to an ability score; –4 on attack rolls, defenses, and checks; or 50% chance of losing each action. |
+| [[rangoric-srd/spells/Gentle Repose\|Gentle Repose]]:                   | Preserves one corpse.                                                                                  |
+| [[rangoric-srd/spells/Healing Thief\|Healing Thief]] (M):               | You siphon half of all magical healing that the targeted creature receives.                            |
+| [[rangoric-srd/spells/Inflict Serious Wounds\|Inflict Serious Wounds]]: | Touch attack, 3d8 damage +1/level (max +15).                                                           |
+| [[rangoric-srd/spells/Riding Possession\|Riding Possession]]:           | As possession, but you observe instead of control the subject.                                         |
+| [[rangoric-srd/spells/Sands of Time\|Sands of Time]]:                   | Target temporarily ages.                                                                               |
+| [[rangoric-srd/spells/Sessile Spirit\|Sessile Spirit]]:                 | Cause a spirit inhabiting a creature or an object to go dormant.                                       |
+| [[rangoric-srd/spells/Toxic Gift\|Toxic Gift]]:                         | Target suffers the effect of the poison in you.                                                        |
 
 **Transmutation** ^occ3-transmutation
 
@@ -492,7 +492,7 @@ The spells an [[rangoric-srd/classes/Occultist#^occultist-spells|occultist]] can
 | [[rangoric-srd/spells/Fly\|Fly]]:                                           | Subject flies at speed of 60 ft.                                             |
 | [[rangoric-srd/spells/Gaseous Form\|Gaseous Form]]:                         | Subject becomes insubstantial and can fly slowly.                            |
 | [[rangoric-srd/spells/Ghost Brand\|Ghost Brand]] (M):                       | Allow an item to transform into a brand and back.                            |
-| [[rangoric-srd/spells/Haste\|Haste]]:                                       | One creature/level moves faster, +1 on attack rolls, AC, and Reflex saves.   |
+| [[rangoric-srd/spells/Haste\|Haste]]:                                       | One creature/level moves faster, +1 on attack rolls, AC, and Reflex Defense. |
 | [[rangoric-srd/spells/Heart of the Metal\|Heart of the Metal]] (M):         | Enable weapons to overcome DR like adamantine, cold iron, or silver.         |
 | [[rangoric-srd/spells/Hostile Levitation\|Hostile Levitation]] (M):         | Levitates the targeted creature up off the ground.                           |
 | [[rangoric-srd/spells/Keen Edge\|Keen Edge]]:                               | Doubles normal weapon’s threat range.                                        |

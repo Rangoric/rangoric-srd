@@ -21,7 +21,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "Permanent"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Ultimate Intrigue"
 based-on:
@@ -42,7 +42,7 @@ _Divination \[Curse\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature
 - **Duration**: Permanent
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
-You lay bare not only the mind of a target, but the target's history as well. The target takes a -2 penalty on saving throws against divinations, and Persuasion checks to gather information about the target gain a bonus equal to half your caster level (maximum +10).
+You lay bare not only the mind of a target, but the target's history as well. The target takes a -2 penalty on defenses against divinations, and Persuasion checks to gather information about the target gain a bonus equal to half your caster level (maximum +10).

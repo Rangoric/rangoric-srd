@@ -21,7 +21,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched, or up to eight willing creatures joining hands"
 duration: "Instantaneous"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Plane Shift|Plane Shift (3.5)]]"
@@ -41,7 +41,7 @@ _Conjuration (Teleportation)_
 - **Range**: Touch
 - **Target**: Creature touched, or up to eight willing creatures joining hands
 - **Duration**: Instantaneous
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 You move yourself or some other creature to another plane of existence or alternate dimension. If several willing persons link hands in a circle, as many as eight can be affected by the plane shift at the same time. Precise accuracy as to a particular arrival location on the intended plane is nigh impossible. From the Material Plane, you can reach any other plane, though you appear 5 to 500 miles (5d%) from your intended destination.

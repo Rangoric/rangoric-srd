@@ -18,7 +18,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 effect: "Cloud spreads in 20-ft. radius, 20 ft. high"
 duration: "1 minute/level and instantaneous (see text)"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "No"
 book: "Ultimate Magic"
 based-on:
@@ -39,10 +39,10 @@ _Necromancy \[Disease, Evil\]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Effect**: Cloud spreads in 20-ft. radius, 20 ft. high
 - **Duration**: 1 minute/level and instantaneous (see text)
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: No
 
-You create a hideous gray cloud, similar to _[[rangoric-srd/spells/Fog Cloud|fog cloud]]_, that occasionally crackles with foul-smelling bolts of sickly green lightning. Creatures in the area must save or contract one of the following diseases: [[rangoric-srd/rules/afflictions/Blinding Sickness|blinding sickness]], [[rangoric-srd/rules/afflictions/Bubonic Plague|bubonic plague]], [[rangoric-srd/rules/afflictions/Cackle Fever|cackle fever]], [[rangoric-srd/rules/afflictions/Demon Fever|demon fever]], [[rangoric-srd/rules/afflictions/Devil Chills|devil chills]], [[rangoric-srd/rules/afflictions/Filth Fever|filth fever]], [[rangoric-srd/rules/afflictions/Leprosy|leprosy]], [[rangoric-srd/rules/afflictions/Mindfire|mindfire]], [[rangoric-srd/rules/afflictions/Red Ache|red ache]], [[rangoric-srd/rules/afflictions/Shakes|shakes]], or [[rangoric-srd/rules/afflictions/Slimy Doom|slimy doom]] (the disease is chosen by you when you cast the spell and applies to all creatures that fail the save). The disease is contracted immediately (the onset period does not apply) and is an instantaneous effect. Use the disease's listed frequency to determine further effects, but the disease's save DC increases by +2. For more information see [[rangoric-srd/rules/Afflictions#Disease|diseases]].
+You create a hideous gray cloud, similar to _[[rangoric-srd/spells/Fog Cloud|fog cloud]]_, that occasionally crackles with foul-smelling bolts of sickly green lightning. Creatures in the area the spell hits contract one of the following diseases: [[rangoric-srd/rules/afflictions/Blinding Sickness|blinding sickness]], [[rangoric-srd/rules/afflictions/Bubonic Plague|bubonic plague]], [[rangoric-srd/rules/afflictions/Cackle Fever|cackle fever]], [[rangoric-srd/rules/afflictions/Demon Fever|demon fever]], [[rangoric-srd/rules/afflictions/Devil Chills|devil chills]], [[rangoric-srd/rules/afflictions/Filth Fever|filth fever]], [[rangoric-srd/rules/afflictions/Leprosy|leprosy]], [[rangoric-srd/rules/afflictions/Mindfire|mindfire]], [[rangoric-srd/rules/afflictions/Red Ache|red ache]], [[rangoric-srd/rules/afflictions/Shakes|shakes]], or [[rangoric-srd/rules/afflictions/Slimy Doom|slimy doom]] (the disease is chosen by you when you cast the spell and applies to all creatures the spell hits). The disease is contracted immediately (the onset period does not apply) and is an instantaneous effect. Use the disease's listed frequency to determine further effects, but the disease's attack bonus increases by +2. For more information see [[rangoric-srd/rules/Afflictions#Disease|diseases]].
 
 Unlike a _[[rangoric-srd/spells/Fog Cloud|fog cloud]]_, the _plague storm_ moves away from you at 10 feet per round, rolling along the surface of the ground.
 

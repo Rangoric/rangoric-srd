@@ -16,7 +16,7 @@ casting-time: "10 minutes"
 range: "10 ft."
 effect: "One quasi-real, humanlike creature"
 duration: "1 hour/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Ultimate Combat"
 based-on:
@@ -37,7 +37,7 @@ _Conjuration (Creation)_
 - **Range**: 10 ft.
 - **Effect**: One quasi-real, humanlike creature
 - **Duration**: 1 hour/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You conjure a Small or Medium, quasi-real, humanlike creature (the exact physical features can be customized as you wish). This creation can drive any vehicle you command it to. This phantom creature does not fight, and while animals that power a muscle-propelled vehicle driven by the creature do respond to its commands, animals otherwise shun the creature and refuse to attack it.
