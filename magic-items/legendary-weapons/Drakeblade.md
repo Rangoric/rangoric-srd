@@ -57,7 +57,7 @@ _Value:_ To any character other than a battle scion who meets the above requirem
 
 _Initial Abilities:_ When first acquired, _Drakeblade_ functions as a +2 bastard sword. Anyone who wields it, whether a battle scion or not, also benefits from the bravery ability (see below).
 
-_Bravery (Ex):_ The wielder of _Drakeblade_ has immunity to a dragon’s frightful presence ability. All allies within 30 feet of the wielder gain a +4 morale bonus on saves against the frightful presence of dragons.
+_Bravery (Ex):_ The wielder of _Drakeblade_ has immunity to a dragon’s frightful presence ability. All allies within 30 feet of the wielder gain a +4 morale bonus on defenses against the frightful presence of dragons.
 
 _Bane (Dragons) (Su):_ When wielded by a battle scion, _Drakeblade_ gains the [[rangoric-srd/magic-items/weapon-abilities/Bane (Weapon Special Ability)|bane]] (dragons) special ability. Its enhancement bonus is treated as 2 points higher when attacking a dragon, and it deals an extra 2d6 points of damage on a successful strike against a dragon.
 
@@ -73,4 +73,4 @@ _Dodge Bonus (Ex):_ At 7th level and higher, a battle scion wielding _Drakeblade
 
 _Frightful Presence (Ex):_ A battle scion of 9th level or higher wielding _Drakeblade_ can unsettle foes with his mere presence. This ability takes effect automatically whenever the scion attacks or charges. Creatures within a radius of 60 feet are subject to the effect if they have fewer Hit Dice than the scion’s character level.
 
-A potentially affected creature that succeeds on a Will save (DC 10 + class level + scion’s Cha modifier) remains immune to that scion’s frightful presence for one day. On a failure, creatures with 4 or less HD become [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] for 4d6 rounds and those with 5 or more HD become [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 4d6 rounds. Even dragons can be affected by the scion’s frightful presence.
+The frightful presence attacks the Will of each potentially affected creature, its attack bonus class level + scion’s Cha modifier; a creature it misses remains immune to that scion’s frightful presence for one day. On a hit, creatures with 4 or less HD become [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] for 4d6 rounds and those with 5 or more HD become [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 4d6 rounds. Even dragons can be affected by the scion’s frightful presence.

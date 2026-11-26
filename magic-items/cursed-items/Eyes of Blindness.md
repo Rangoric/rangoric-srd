@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Eyes of Blindness
 
-These normal-looking glasses appear harmless and nondescript. When they are worn, the wearer becomes [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] as if subject to the _[[rangoric-srd/spells/Blindness-Deafness|blindness/deafness]]_ spell (no saving throw).
+These normal-looking glasses appear harmless and nondescript. When they are worn, the wearer becomes [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] as if subject to the _[[rangoric-srd/spells/Blindness-Deafness|blindness/deafness]]_ spell (hitting automatically).
 
 Faint necromancy; CL 5th; Intended magic item: any glasses or lenses.

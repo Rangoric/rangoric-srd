@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Potion of Poison
 
-This potion has lost its once beneficial magical abilities and has become a potent poison. The imbiber must make a DC 16 Fortitude save or take 1d10 points of Constitution damage. A minute later he must save again (DC 16) or take 1d10 points of Constitution damage.
+This potion has lost its once beneficial magical abilities and has become a potent poison. The poison attacks the imbiber’s Fortitude at +6, dealing 1d10 points of Constitution damage on a hit. A minute later it attacks again (+6), dealing 1d10 points of Constitution damage.
 
 Moderate conjuration; CL 12th; Craft Wondrous Item, poison; Price 5,000 gp.

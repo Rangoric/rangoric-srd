@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/magic-item]
 
 A rune-carved [[rangoric-srd/magic-items/construct-modifications/Construct Modifications|construct modification]].
 
-This modification is triggered the first time the modified construct takes damage. Creatures within a 20-foot-radius spread must succeed on a DC 17 Fortitude save or suffer from wracking pains that impose a –4 penalty on attack rolls, skill checks, and ability checks for 1 minute. On a successful saving throw, the creature takes the penalties imposed by the rune for 1 round.
+This modification is triggered the first time the modified construct takes damage. The rune attacks the Fortitude of creatures within a 20-foot-radius spread at +7, and those it hits suffer from wracking pains that impose a –4 penalty on attack rolls, skill checks, and ability checks for 1 minute. On a miss, the creature takes the penalties imposed by the rune for 1 round.
 
 Moderate necromancy; CL 9th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Symbol of Pain|symbol of pain]]_; Cost 18,000 gp.

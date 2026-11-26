@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Mace of Blood
 
-This +3 heavy mace must be coated in blood every day, or its bonus fades away (until the mace is coated again). The character using this mace must make a DC 13 Will save every day it is within his possession or become chaotic evil.
+This +3 heavy mace must be coated in blood every day, or its bonus fades away (until the mace is coated again). The character using this mace is attacked against his Will at +3 every day it is within his possession, and on a hit becomes chaotic evil.
 
 Moderate abjuration; CL 8th; Craft Magic Arms and Armor, creator must be at least 9th level and chaotic evil; Price 16,000 gp.
