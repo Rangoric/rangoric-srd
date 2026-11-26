@@ -25,6 +25,6 @@ Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ou
 
 The psionic couatl does not possess the psionic spell-like abilities of the [[rangoric-srd/monsters/Couatl|standard couatl]]. Instead, it has psi-like abilities.
 
-Psi-Like **Abilities:** At will - [[rangoric-srd/powers/Aura Sight|aura sight]], [[rangoric-srd/powers/Cloud Mind|cloud mind]] (DC 15), [[rangoric-srd/powers/Detect Psionics|detect psionics]], [[rangoric-srd/powers/Read Thoughts|read thoughts]] (DC 15); 3/day - [[rangoric-srd/powers/Mental Barrier|mental barrier]] (2 rounds\*), [[rangoric-srd/powers/Plane Shift, Psionic|psionic plane shift]], [[rangoric-srd/powers/Thought Shield|thought shield]] (power resistance 19\*). Manifester level 9th. The save DCs are Charisma-based.
+Psi-Like **Abilities:** At will - [[rangoric-srd/powers/Aura Sight|aura sight]], [[rangoric-srd/powers/Cloud Mind|cloud mind]] (+5 vs Will), [[rangoric-srd/powers/Detect Psionics|detect psionics]], [[rangoric-srd/powers/Read Thoughts|read thoughts]] (+5 vs Will); 3/day - [[rangoric-srd/powers/Mental Barrier|mental barrier]] (2 rounds\*), [[rangoric-srd/powers/Plane Shift, Psionic|psionic plane shift]], [[rangoric-srd/powers/Thought Shield|thought shield]] (power resistance 19\*). Manifester level 9th. The attack bonuses are Charisma-based.
 
 \*Includes augmentation for the psionic couatl’s manifester level.

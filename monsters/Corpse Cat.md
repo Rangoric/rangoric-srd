@@ -15,7 +15,7 @@ full-attack: "+1 bite +10 melee (1d4+2 plus trip) and 2 +1 claws +11 melee (1d2+
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, tricks (attack [all creatures], come, fetch, guard, seek, stay, track), undead traits"
-saves: "Fort +4, Ref +9, Will +2"
+defenses: "Fort 14, Ref 19, Will 12"
 abilities: "Str 13, Dex 22, Con —, Int 2, Wis 12, Cha 12"
 skills: "Acrobatics +10, Athletics +1 (+9 jumping), Perception +5, Stealth +14"
 skill-ranks: "Acrobatics 1, Athletics 0, Perception 1, Stealth 1"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/class-options/companion-features/Bonus Tricks (Companion Feature)|tricks]] (attack \[all creatures\], come, fetch, guard, seek, stay, track), [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-- **Saves**: Fort +4, Ref +9, Will +2
+- **Defenses**: Fort 14, Ref 19, Will 12
 - **Abilities**: Str 13, Dex 22, Con —, Int 2, Wis 12, Cha 12
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +1 (+9 jumping), [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +14
 - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)

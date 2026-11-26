@@ -16,7 +16,7 @@ full-attack: "+2 icy burst glaive +12/+7 melee (1d10+6/×3 plus 1d6 cold); or go
 space-reach: "5 ft./5 ft."
 special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, fast healing 5, implements of ice, immunity to cold, spell resistance 19, vulnerable to fire and sonic, susceptible to shatter"
-saves: "Fort +8, Ref +11, Will +10"
+defenses: "Fort 18, Ref 21, Will 20"
 abilities: "Str 17, Dex 16, Con 18, Int 14, Wis 15, Cha 17"
 skills: "Acrobatics +19, Animal Handling +22, Intimidation +16, Nature +18, Perception +18, Sense Motive +18, Stealth +19"
 skill-ranks: "Acrobatics 13, Animal Handling 16, Intimidation 10, Nature 13, Perception 13, Sense Motive 13, Stealth 13"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, [[rangoric-srd/monsters/abilities/Implements of Ice|implements of ice]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 19, vulnerable to fire and sonic, [[rangoric-srd/monsters/abilities/Susceptible to Shatter|susceptible to shatter]]
-- **Saves**: Fort +8, Ref +11, Will +10
+- **Defenses**: Fort 18, Ref 21, Will 20
 - **Abilities**: Str 17, Dex 16, Con 18, Int 14, Wis 15, Cha 17
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +19, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +22, [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Nature|Nature]] +18, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +18, [[rangoric-srd/skills/Stealth|Stealth]] +19
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Ride-By Attack|Ride-By Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Animal Handling), [[rangoric-srd/feats/Spirited Charge|Spirited Charge]], [[rangoric-srd/feats/Trample|Trample]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (glaive)
@@ -70,10 +70,10 @@ Cold riders speak Common, Elven and Sylvan.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +13): Constant—_[[rangoric-srd/spells/Pass without Trace|pass without trace]]_; At will—_[[rangoric-srd/spells/Chill Metal|chill metal]]_ (DC 15), _[[rangoric-srd/spells/Deep Slumber|deep slumber]]_ (DC 16), _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (DC 13), _[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]_, _[[rangoric-srd/spells/Phantom Steed|phantom steed]], [[rangoric-srd/spells/Ray of Frost|ray of frost]]_; 1/day—_[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]_, _[[rangoric-srd/spells/Ice Storm|ice storm]]_.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +13): Constant—_[[rangoric-srd/spells/Pass without Trace|pass without trace]]_; At will—_[[rangoric-srd/spells/Chill Metal|chill metal]]_ (+5 vs Will), _[[rangoric-srd/spells/Deep Slumber|deep slumber]]_ (+6 vs Will), _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (+3 vs Will), _[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]_, _[[rangoric-srd/spells/Phantom Steed|phantom steed]], [[rangoric-srd/spells/Ray of Frost|ray of frost]]_; 1/day—_[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]_, _[[rangoric-srd/spells/Ice Storm|ice storm]]_.
 
 **Icewalking (Ex)**: A cold rider and any creature it rides can move across icy surfaces without penalty and do not need to make Acrobatics checks to run or charge on ice. They may climb icy surfaces as if under the effects of the spider climb spell.
 
 **[[rangoric-srd/monsters/abilities/Implements of Ice|Implements of Ice]] (Su)**: A cold rider wears full plate armor and wields a +2 icy burst glaive made of magical ice as hard as steel. Its armor does not restrict it in any way. When a cold rider dies, its armor and glaive melt into water in 1d6 rounds.
 
-**[[rangoric-srd/monsters/abilities/Susceptible to Shatter|Susceptible to Shatter]] (Ex)**: A shatter spell deals 3d6 points of damage to a cold rider (no save) and reduces its armor bonus by 2 for 1 minute. Shatter spells automatically overcome a cold rider's spell resistance.
+**[[rangoric-srd/monsters/abilities/Susceptible to Shatter|Susceptible to Shatter]] (Ex)**: A shatter spell deals 3d6 points of damage to a cold rider (no attack against a defense) and reduces its armor bonus by 2 for 1 minute. Shatter spells automatically overcome a cold rider's spell resistance.

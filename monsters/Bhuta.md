@@ -16,7 +16,7 @@ full-attack: "2 incorporeal claws +17 melee (5d8 plus bleed)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Bleed (1d8), blood drain (1d6 Constitution), spell-like abilities"
 special-qualities: "Darkvision 60 ft., scent, incorporeal, channel resistance +4, undead traits, cold iron"
-saves: "Fort +10, Ref +11, Will +10"
+defenses: "Fort 20, Ref 21, Will 20"
 abilities: "Str —, Dex 25, Con —, Int 11, Wis 8, Cha 22"
 skills: "Acrobatics +15, Animal Handling +15, Deception +16, Escape Artist +7, Nature +8, Perception +13, Sense Motive +13, Stealth +26"
 skill-ranks: "Acrobatics 5, Animal Handling 5, Deception 7, Escape Artist 2, Nature 5, Perception 11, Sense Motive 11, Stealth 14"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (1d8), [[rangoric-srd/monsters/abilities/Blood Drain|blood drain]] (1d6 Constitution), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]], [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], cold iron
-- **Saves**: Fort +10, Ref +11, Will +10
+- **Defenses**: Fort 20, Ref 21, Will 20
 - **Abilities**: Str —, Dex 25, Con —, Int 11, Wis 8, Cha 22
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +15, [[rangoric-srd/skills/Deception|Deception]] +16, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +7, [[rangoric-srd/skills/Nature|Nature]] +8, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +26
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Animal Handling, Stealth)
@@ -76,8 +76,8 @@ Bhutas speak Common.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 11th; concentration +17): At will—_[[rangoric-srd/spells/Animal Trance|animal trance]]_ (DC 18), _[[rangoric-srd/spells/Speak with Animals|speak with animals]], [[rangoric-srd/spells/Veil|veil]]_ (self only, as animal with backward feet; DC 22); 3/day—_[[rangoric-srd/spells/Charm Animal|charm animal]]_ (DC 17); 1/day—_[[rangoric-srd/spells/Magic Jar|magic jar]]_ (animals only, DC 21).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 11th; concentration +17): At will—_[[rangoric-srd/spells/Animal Trance|animal trance]]_ (+8 vs Will), _[[rangoric-srd/spells/Speak with Animals|speak with animals]], [[rangoric-srd/spells/Veil|veil]]_ (self only, as animal with backward feet; +12 vs Will); 3/day—_[[rangoric-srd/spells/Charm Animal|charm animal]]_ (+7 vs Will); 1/day—_[[rangoric-srd/spells/Magic Jar|magic jar]]_ (animals only, +11 vs Will).
 
-**[[rangoric-srd/monsters/abilities/Blood Drain|Blood Drain]] (Su)**: As a standard action, a bhuta can suck blood from an adjacent opponent that is taking bleed damage. The target takes 1d6 points of Constitution damage (Fort DC 23 for half). The bhuta heals 5 hit points when it drains blood.
+**[[rangoric-srd/monsters/abilities/Blood Drain|Blood Drain]] (Su)**: As a standard action, a bhuta can suck blood from an adjacent opponent that is taking bleed damage. The target takes 1d6 points of Constitution damage (+13 vs Fortitude; a miss halves). The bhuta heals 5 hit points when it drains blood.
 
 **Cold Iron Weakness (Su)**: A cold iron weapon is considered to be magical when used against a bhuta. A magic cold iron weapon always functions as a ghost touch weapon when used against a bhuta.

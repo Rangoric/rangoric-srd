@@ -15,7 +15,7 @@ full-attack: "Slam +2 melee (1d2)"
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., undead traits"
-saves: "Fort +0, Ref +2, Will +2"
+defenses: "Fort 10, Ref 12, Will 12"
 abilities: "Str 11, Dex 15, Con —, Int —, Wis 11, Cha 10"
 skills: "Acrobatics +14"
 skill-ranks: "Acrobatics 5"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-- **Saves**: Fort +0, Ref +2, Will +2
+- **Defenses**: Fort 10, Ref 12, Will 12
 - **Abilities**: Str 11, Dex 15, Con —, Int —, Wis 11, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14
 - **Feats**: —
@@ -75,6 +75,6 @@ A neutral evil spellcaster can gain a beheaded as a familiar at 3rd level by tak
 
 **Grabbing (Ex)**: This type of beheaded has long tendrils of ragged hair or other limblike growths (such as a medusa's snake hair). Its slam attack gains the grab (Medium) special ability.
 
-**Screaming (Su)**: This type of beheaded can scream out once every 1d4 rounds. Every creature within 30 feet must succeed at a Will save or be [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1d4 rounds. The save DC is equal to 10 + 1/2 the screaming skull's racial Hit Dice + the screaming skull's Charisma modifier. This is a sonic mind-affecting fear effect. Whether or not the save is successful, any creature in the area can't be affected by that beheaded's scream for the next 24 hours.
+**Screaming (Su)**: This type of beheaded can scream out once every 1d4 rounds. The scream attacks the Will of every creature within 30 feet, and on a hit it is [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1d4 rounds. The attack bonus is 1/2 the screaming skull's racial Hit Dice + the screaming skull's Charisma modifier. This is a sonic mind-affecting fear effect. Whether the attack hits or misses, any creature in the area can't be affected by that beheaded's scream for the next 24 hours.
 
 **Swarming (Ex)**: The beheaded gains 1 additional Hit Die, the swarm subtype, swarm immunities, and the distraction special ability. It loses its slam attack but gains a swarm attack that deals 1d6 points of damage. This counts as two abilities for the purpose of determining the beheaded's CR.

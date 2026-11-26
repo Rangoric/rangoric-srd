@@ -15,7 +15,7 @@ full-attack: "2 slams +17 melee (1d6+8 plus 2d6 acid)"
 space-reach: "15 ft./10 ft."
 special-attacks: "Corrosive slime"
 special-qualities: "Darkvision 60 ft., immunity to acid, stone shape, tremorsense 60 ft."
-saves: "Fort +12, Ref +6, Will +11"
+defenses: "Fort 22, Ref 16, Will 21"
 abilities: "Str 27, Dex 13, Con 21, Int 14, Wis 14, Cha 12"
 skills: "Fieldcraft +20 (+22 underground), Dungeoneering +20, Nature +2, Perception +26, Stealth +11"
 skill-ranks: "Dungeoneering 15, Fieldcraft 15, Nature 0, Perception 15, Stealth 15"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./10 ft.
 - **Special Attacks**: Corrosive slime
 - **Special Qualities**: Darkvision 60 ft., immunity to acid, [[rangoric-srd/spells/Stone Shape|stone shape]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft.
-- **Saves**: Fort +12, Ref +6, Will +11
+- **Defenses**: Fort 22, Ref 16, Will 21
 - **Abilities**: Str 27, Dex 13, Con 21, Int 14, Wis 14, Cha 12
 - **Skills**: [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +20, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +20 (+22 underground), [[rangoric-srd/skills/Nature|Nature]] +2, [[rangoric-srd/skills/Perception|Perception]] +26, [[rangoric-srd/skills/Stealth|Stealth]] +11
 - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Toughness|Toughness]]
@@ -74,8 +74,8 @@ A delver expecting trouble may honeycomb an area with tunnels, leaving most clos
 
 A delver’s mere touch deals 2d6 points of acid damage to organic creatures or objects. Against metallic creatures or objects, a delver’s slime deals 4d8 points of damage, and against stony creatures (including [[rangoric-srd/monsters/Monsters E to F|earth elementals]]) or objects it deals 8d10 points of damage. A slam attack by a delver leaves a patch of slime that deals 2d6 points of damage on contact and another 2d6 points of damage in each of the next 2 rounds. A large quantity (at least a quart) of water or weak acid, such as vinegar, washes off the slime.
 
-An opponent’s armor and clothing dissolve and become useless immediately unless the wearer succeeds on a DC 22 Reflex save. Weapons that strike a delver also dissolve immediately unless the wielder succeeds on a DC 22 Reflex save.
+An opponent’s armor and clothing dissolve and become useless immediately if the slime hits the wearer at +12 vs Reflex. Weapons that strike a delver also dissolve immediately if the slime hits the wielder at +12 vs Reflex.
 
-A creature attacking a delver with natural weapons takes damage from its slime each time an attack hits unless the creature succeeds on a DC 22 Reflex save. These save DCs are Constitution-based.
+A creature attacking a delver with natural weapons takes damage from its slime each time an attack hits if the slime hits the creature at +12 vs Reflex. These attack bonuses are Constitution-based.
 
 **Stone Shape (Ex)**: A delver can alter its slime to temporarily soften stone instead of dissolving it. Once every 10 minutes, a delver can soften and shape up to 25 cubic feet of stone, as a [[rangoric-srd/spells/Stone Shape|stone shape]] spell (caster level 15th).

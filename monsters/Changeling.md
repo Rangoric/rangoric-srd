@@ -16,7 +16,7 @@ full-attack: "2 claws +0 melee (1d4+1)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Hexes (cauldron)"
 special-qualities: "Darkvision 60 ft., hulking changeling, witch's familiar (spider)"
-saves: "Fort +1, Ref –1, Will +4"
+defenses: "Fort 11, Ref 9, Will 14"
 abilities: "Str 10, Dex 8, Con 12, Int 15, Wis 14, Cha 15"
 skills: "Arcana +6, Craft (alchemy) +10, Medicine +6, Mysticism +6"
 skill-ranks: "Arcana 1, Craft (alchemy) 5, Medicine 1, Mysticism 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Hexes (cauldron)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., hulking changeling, witch's familiar (spider)
-- **Saves**: Fort +1, Ref –1, Will +4
+- **Defenses**: Fort 11, Ref 9, Will 14
 - **Abilities**: Str 10, Dex 8, Con 12, Int 15, Wis 14, Cha 15
 - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +6, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +10, [[rangoric-srd/skills/Medicine|Medicine]] +6, [[rangoric-srd/skills/Mysticism|Mysticism]] +6
 - **Feats**: [[rangoric-srd/feats/Brew Potion|Brew Potion]], [[rangoric-srd/feats/Combat Casting|Combat Casting]]
@@ -70,7 +70,7 @@ Changelings speak Common, Draconic, Elven and Orc.
 
 ### Combat
 
-**Witch spells prepared** (CL 1st; concentration +3): 1st—_[[rangoric-srd/spells/Hypnotism|hypnotism]]_ (DC 14), _[[rangoric-srd/spells/Sleep|sleep]]_ (DC 14); 0 (at will)—_[[rangoric-srd/spells/Daze|daze]]_ (DC 13), _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Touch of Fatigue|touch of fatigue]]_ (DC 13); **Patron**: [[rangoric-srd/class-options/patrons/Transformation Patron|transformation]].
+**Witch spells prepared** (CL 1st; concentration +3): 1st—_[[rangoric-srd/spells/Hypnotism|hypnotism]]_ (+4 vs Will), _[[rangoric-srd/spells/Sleep|sleep]]_ (+4 vs Will); 0 (at will)—_[[rangoric-srd/spells/Daze|daze]]_ (+3 vs Will), _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Touch of Fatigue|touch of fatigue]]_ (+3 vs Fortitude); **Patron**: [[rangoric-srd/class-options/patrons/Transformation Patron|transformation]].
 
 ### Changeling as Characters
 

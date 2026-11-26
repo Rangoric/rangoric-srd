@@ -15,7 +15,7 @@ full-attack: "2 tentacles +6 melee (1d4+3 plus grab)"
 space-reach: "5 ft./10 ft."
 special-attacks: "Constrict (1d4+3), strangle, grab (Large)"
 special-qualities: "Darkvision 60 ft., quickness"
-saves: "Fort +2, Ref +3, Will +4"
+defenses: "Fort 12, Ref 13, Will 14"
 abilities: "Str 16, Dex 14, Con 13, Int 4, Wis 13, Cha 7"
 skills: "Athletics +16, Stealth +13"
 skill-ranks: "Athletics 10, Stealth 4"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (1d4+3), [[rangoric-srd/monsters/abilities/Strangle|strangle]], [[rangoric-srd/monsters/abilities/Grab|grab]] (Large)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., quickness
-- **Saves**: Fort +2, Ref +3, Will +4
+- **Defenses**: Fort 12, Ref 13, Will 14
 - **Abilities**: Str 16, Dex 14, Con 13, Int 4, Wis 13, Cha 7
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +13
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)

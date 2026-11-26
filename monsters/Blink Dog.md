@@ -15,7 +15,7 @@ full-attack: "Bite +4 melee (1d6+1)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, scent"
-saves: "Fort +5, Ref +5, Will +4"
+defenses: "Fort 15, Ref 15, Will 14"
 abilities: "Str 12, Dex 15, Con 14, Int 10, Wis 13, Cha 11"
 skills: "Fieldcraft +2 (+6 scent tracking), Perception +7, Stealth +7"
 skill-ranks: "Fieldcraft 1, Perception 3, Stealth 2"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +5, Ref +5, Will +4
+- **Defenses**: Fort 15, Ref 15, Will 14
 - **Abilities**: Str 12, Dex 15, Con 14, Int 10, Wis 13, Cha 11
 - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +2 (+6 scent tracking), [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +7
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Iron Will|Iron Will]]

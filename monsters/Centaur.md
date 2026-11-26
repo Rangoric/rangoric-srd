@@ -15,7 +15,7 @@ full-attack: "Longsword +5 melee (1d8+2/19–20) and 2 hooves +0 melee (1d6+1); 
 space-reach: "10 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., undersized weapons"
-saves: "Fort +3, Ref +6, Will +6"
+defenses: "Fort 13, Ref 16, Will 16"
 abilities: "Str 15, Dex 14, Con 15, Int 11, Wis 14, Cha 12"
 skills: "Fieldcraft +9, Intimidation +6, Nature +4, Perception +7, Persuasion +5"
 skill-ranks: "Fieldcraft 4, Intimidation 2, Nature 1, Perception 2, Persuasion 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Undersized Weapons|undersized weapons]]
-- **Saves**: Fort +3, Ref +6, Will +6
+- **Defenses**: Fort 13, Ref 16, Will 16
 - **Abilities**: Str 15, Dex 14, Con 15, Int 11, Wis 14, Cha 12
 - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Nature|Nature]] +4, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Persuasion|Persuasion]] +5
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Run|Run]]

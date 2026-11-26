@@ -21,7 +21,7 @@ Most crystalline creatures occupy this state temporarily, but for some it become
 
 ### Creating a Crystalline Creature
 
-“Crystalline” is a template that can be added to any aberration, animal, dragon, fey, giant, humanoid, magical beast, monstrous humanoid, ooze, outsider, plant, shapechanger, or vermin (referred to hereafter as the base creature). The creature’s type becomes [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental]]. It uses all the base creature’s statistics and abilities except as noted here. Do not recalculate the creature’s Hit Dice, base attack bonus, saves, or skill points for its new type.
+“Crystalline” is a template that can be added to any aberration, animal, dragon, fey, giant, humanoid, magical beast, monstrous humanoid, ooze, outsider, plant, shapechanger, or vermin (referred to hereafter as the base creature). The creature’s type becomes [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental]]. It uses all the base creature’s statistics and abilities except as noted here. Do not recalculate the creature’s Hit Dice, base attack bonus, defenses, or skill points for its new type.
 
 **Speed**: A crystalline creature with wings has its maneuverability changed to clumsy, due to the immense weight of its crystal body. A crystalline creature’s weight is triple that of the base creature.
 
@@ -44,7 +44,7 @@ Most crystalline creatures occupy this state temporarily, but for some it become
 
 **Special Qualities**: A crystalline creature keeps any special qualities that the base creature had, and is now an elemental, granting it immunity to poison, sleep, paralysis, and stunning. It is no longer subject to critical hits, and gains darkvision out to 60 feet. It also has resistance to cold 10 and fire 10. It has no metabolism, and therefore needs no food, water, or air.
 
-**Saves**: Same as the base creature.
+**Defenses**: Same as the base creature.
 
 **Abilities**: Strength +4, Dexterity –2, Constitution +4.
 
@@ -85,7 +85,7 @@ This example uses a [[rangoric-srd/monsters/Dragonne|dragonne]] as the base crea
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], roar, spell-like abilities
 - **Special Qualities**: Darkvision 60 ft., elemental traits, low-light vision, resistance to cold 10 and fire 10, [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +11, Ref +7, Will +4
+- **Defenses**: Fort 21, Ref 17, Will 14
 - **Abilities**: Str 23, Dex 13, Con 21, Int 6, Wis 12, Cha 12
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +17
 - **Feats**: Blind-Fight, Combat Reflexes, Improved Initiative, Track
@@ -102,7 +102,7 @@ A crystalline dragonne looks like a dragonne carved from crystal, and weighs abo
 
 **Pounce (Ex)**: If a dragonne charges, it can make a full attack in the same round.
 
-**Roar (Su)**: A dragonne can loose a devastating roar every 1d4 rounds. All creatures except dragonnes within 120 feet must succeed on a DC 15 Will save or become fatigued. Those within 30 feet who fail their saves become exhausted. The save DC is Charisma-based.
+**Roar (Su)**: A dragonne can loose a devastating roar every 1d4 rounds. All creatures except dragonnes within 120 feet are attacked at +5 vs Will, and on a hit become fatigued. Those within 30 feet it hits become exhausted. The attack bonus is Charisma-based.
 
 **Spell-Like Abilities**: 3/day—_flare_; 1/day—_color spray_, _hypnotic pattern_. Caster level 9th.
 

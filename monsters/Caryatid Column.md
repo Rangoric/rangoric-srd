@@ -15,7 +15,7 @@ full-attack: "Masterwork longsword +8 melee (1d8+4/19–20)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., low-light vision, shatter weapons, statue, damage reduction 5/-, immunity to magic, construct traits"
-saves: "Fort +1, Ref +0, Will +1"
+defenses: "Fort 11, Ref 10, Will 11"
 abilities: "Str 18, Dex 9, Con —, Int —, Wis 11, Cha 1"
 skills: "—"
 skill-ranks: ""
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Shatter Weapons|shatter weapons]], [[rangoric-srd/monsters/abilities/Statue|statue]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to magic, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]]
-- **Saves**: Fort +1, Ref +0, Will +1
+- **Defenses**: Fort 11, Ref 10, Will 11
 - **Abilities**: Str 18, Dex 9, Con —, Int —, Wis 11, Cha 1
 - **Skills**: —
 - **Feats**: —
@@ -69,7 +69,7 @@ A caryatid column stands 7 feet tall and weighs 1,500 pounds. Caryatid columns a
 
 **Immunity to Magic (Ex)**: A caryatid column is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.
 
-- A _[[rangoric-srd/spells/Transmute Rock to Mud|transmute rock to mud]]_ spell deals 1d6 points of damage per caster level to a caryatid column, with no saving throw.
+- A _[[rangoric-srd/spells/Transmute Rock to Mud|transmute rock to mud]]_ spell deals 1d6 points of damage per caster level to a caryatid column, with no attack against a defense.
 - _[[rangoric-srd/spells/Transmute Mud to Rock|Transmute mud to rock]]_ immediately heals any and all damage currently suffered by a caryatid column.
 - A _[[rangoric-srd/spells/Stone to Flesh|stone to flesh]]_ spell does not actually change the column's structure but negates its damage reduction and immunity to magic for 1 round.
 

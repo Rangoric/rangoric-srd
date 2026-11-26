@@ -13,9 +13,9 @@ cmd: "26"
 attack: "Bite +9 melee (1d6+3 plus paralysis) or claw +9 melee (1d6+3 plus paralysis) or incorporeal touch +10 melee (1d4 Con damage)"
 full-attack: "1 bite +9 melee (1d6+3 plus paralysis) and 2 claws +9 melee (1d6+3 plus paralysis); or incorporeal touch +10 melee (1d4 Con damage)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Paralysis (1d4+1 rounds, DC 18), spell-like abilities"
+special-attacks: "Paralysis (1d4+1 rounds, +8 vs Fortitude), spell-like abilities"
 special-qualities: "Darkvision 60 ft., projection, damage reduction 10/good or silver, undead traits"
-saves: "Fort +6, Ref +6, Will +9"
+defenses: "Fort 16, Ref 16, Will 19"
 abilities: "Str 17, Dex 19, Con —, Int 13, Wis 16, Cha 18"
 skills: "Acrobatics +17, Deception +10, Escape Artist +10, Perception +14, Society +5, Stealth +15, Theology +6"
 skill-ranks: "Acrobatics 10, Deception 3, Escape Artist 3, Perception 8, Society 1, Stealth 8, Theology 2"
@@ -47,9 +47,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +9 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Paralysis|paralysis]]) or claw +9 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Paralysis|paralysis]]) or incorporeal touch +10 melee (1d4 Con damage)
 - **Full Attack**: 1 bite +9 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Paralysis|paralysis]]) and 2 claws +9 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Paralysis|paralysis]]); or incorporeal touch +10 melee (1d4 Con damage)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Paralysis|Paralysis]] (1d4+1 rounds, DC 18), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Paralysis|Paralysis]] (1d4+1 rounds, +8 vs Fortitude), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Projection|projection]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good or silver, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-- **Saves**: Fort +6, Ref +6, Will +9
+- **Defenses**: Fort 16, Ref 16, Will 19
 - **Abilities**: Str 17, Dex 19, Con —, Int 13, Wis 16, Cha 18
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +17, [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +10, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Society|Society]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +15, [[rangoric-srd/skills/Theology|Theology]] +6
 - **Feats**: [[rangoric-srd/feats/Defensive Combat Training|Defensive Combat Training]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Mobility|Mobility]]
@@ -67,6 +67,6 @@ Berbalangs speak Common.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th; concentration +13): At will—_[[rangoric-srd/spells/Bleed|bleed]]_, _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (DC 14); 3/day—_[[rangoric-srd/spells/Alter Self|alter self]]_, _[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 15).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th; concentration +13): At will—_[[rangoric-srd/spells/Bleed|bleed]]_, _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (+4 vs Will); 3/day—_[[rangoric-srd/spells/Alter Self|alter self]]_, _[[rangoric-srd/spells/Charm Person|charm person]]_ (+5 vs Will).
 
 **[[rangoric-srd/monsters/abilities/Projection|Projection]] (Su)**: Once per day as a full-round action, a berbalang can enter a trance that separates the creature's spirit from its body. This splits the berbalang's current hit points in half between its body and its spirit. The berbalang's spirit body gains the incorporeal subtype and special ability; otherwise, it retains the same statistics as its physical self with the following changes: AC 19, touch 19, flat-footed 14 (+4 Dex, +4 deflection, +1 dodge), single incorporeal touch attack that deals 1d4 Constitution damage on a hit as its sole attack. This spirit projection can travel no more than 1 mile away from the berbalang's body. Because the creature is only partially in existence when in this state, its body gains displacement as the spell. When separated in this way, the berbalang's body is [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]] and [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]]. If the berbalang's body is injured while in this state, the separated projection immediately returns to its body, and the body loses displacement. If the physical body is slain, the spirit body immediately dies as well. If the spirit is reduced to 0 or fewer hit points, it returns to the body immediately. A berbalang in spirit form can end the effect at any time as a standard action, at which point the spirit immediately returns to the body. When a berbalang's spirit form returns to the body, add both the spirit body's hit points and the physical body's hit points back together to determine the creature's current hit point total.

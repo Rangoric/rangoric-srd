@@ -15,7 +15,7 @@ full-attack: "Masterwork falchion +12/+7 melee (2d6+7/18–20); or 2 slams +11 m
 space-reach: "10 ft./10 ft."
 special-attacks: "Aerial charge, knockdown"
 special-qualities: "Darkvision 60 ft., scent, booming voice"
-saves: "Fort +5, Ref +8, Will +8"
+defenses: "Fort 15, Ref 18, Will 18"
 abilities: "Str 21, Dex 16, Con 17, Int 9, Wis 12, Cha 10"
 skills: "Acrobatics +13, Athletics +13, Perception +14"
 skill-ranks: "Acrobatics 6, Athletics 5, Perception 10"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Aerial Charge (Derhii)|Aerial charge]], [[rangoric-srd/monsters/abilities/Knockdown|knockdown]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Booming Voice|booming voice]]
-- **Saves**: Fort +5, Ref +8, Will +8
+- **Defenses**: Fort 15, Ref 18, Will 18
 - **Abilities**: Str 21, Dex 16, Con 17, Int 9, Wis 12, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Perception|Perception]] +14
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Acrobatics, Perception)

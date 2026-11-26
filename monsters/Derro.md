@@ -16,7 +16,7 @@ full-attack: "Short sword +5 melee (1d4); or aklys +5 melee (1d6); or repeating 
 space-reach: "5 ft./5 ft."
 special-attacks: "Sneak attack +1d6, poison, spell-like abilities"
 special-qualities: "Darkvision 60 ft., madness, poison use, spell resistance 14, vulnerability to sunlight"
-saves: "Fort +5, Ref +3, Will +6"
+defenses: "Fort 15, Ref 13, Will 16"
 abilities: "Str 11, Dex 15, Con 18, Int 10, Wis 5, Cha 16"
 skills: "Perception +0, Stealth +9"
 skill-ranks: "Perception 3, Stealth 3"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +1d6, [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., madness, [[rangoric-srd/monsters/abilities/Poison|poison]] use, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 14, vulnerability to sunlight
-- **Saves**: Fort +5, Ref +3, Will +6
+- **Defenses**: Fort 15, Ref 13, Will 16
 - **Abilities**: Str 11, Dex 15, Con 18, Int 10, Wis 5, Cha 16
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +0, [[rangoric-srd/skills/Stealth|Stealth]] +9
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -79,9 +79,9 @@ Derros speak Aklo and Undercommon.
 
 Derro are stealthy and bloodthirsty. They like to carefully arrange cruel traps and deadly ambushes, and strike savagely from hiding. They delight in taking captives who can be tortured to death later, and favor traps and poisons that disable without killing.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 3rd): At will—_[[rangoric-srd/spells/Darkness|darkness]], [[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (DC 13); 1/day—_[[rangoric-srd/spells/Daze|daze]]_ (DC 13), _[[rangoric-srd/spells/Sound Burst|sound burst]]_ (DC 15).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 3rd): At will—_[[rangoric-srd/spells/Darkness|darkness]], [[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (+3 vs Will); 1/day—_[[rangoric-srd/spells/Daze|daze]]_ (+3 vs Will), _[[rangoric-srd/spells/Sound Burst|sound burst]]_ (+5 vs Fortitude).
 
-**Madness (Ex)**: Derros use their Charisma modifier on Will saves instead of their Wisdom modifier, and are immune to insanity and confusion effects. Only a miracle or wish can remove a derro's madness. If this occurs, the derro gains 6 points of Wisdom and loses 6 points of Charisma.
+**Madness (Ex)**: Derros use their Charisma modifier for Will Defense instead of their Wisdom modifier, and are immune to insanity and confusion effects. Only a miracle or wish can remove a derro's madness. If this occurs, the derro gains 6 points of Wisdom and loses 6 points of Charisma.
 
 **Poison Use (Ex)**: Derros are not at risk of poisoning themselves when handling poison. They use [[rangoric-srd/rules/afflictions/Medium Spider Venom|Medium spider venom]] to poison their crossbow bolts, and generally carry 10 pre-poisoned bolts at all times.
 

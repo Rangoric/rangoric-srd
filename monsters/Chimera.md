@@ -15,7 +15,7 @@ full-attack: "Bite +12 melee (2d6+4) and bite +12 melee (1d8+4) and gore +12 mel
 space-reach: "10 ft./5 ft."
 special-attacks: "Breath weapon (usable every 1d4 rounds)"
 special-qualities: "Darkvision 60 ft., low-light vision, scent"
-saves: "Fort +9, Ref +7, Will +6"
+defenses: "Fort 19, Ref 17, Will 16"
 abilities: "Str 19, Dex 12, Con 17, Int 4, Wis 13, Cha 10"
 skills: "Acrobatics +2, Perception +10, Stealth +4 (+8 in scrubland or brush)"
 skill-ranks: "Acrobatics 3, Perception 4, Stealth 4"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (usable every 1d4 rounds)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +9, Ref +7, Will +6
+- **Defenses**: Fort 19, Ref 17, Will 16
 - **Abilities**: Str 19, Dex 12, Con 17, Int 4, Wis 13, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +2, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +4 (+8 in scrubland or brush)
 - **Feats**: [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Toughness|Toughness]]
@@ -70,7 +70,7 @@ Chimeras prefer meat but can subsist on vegetable matter if necessary (although 
 
 The chimera prefers to surprise prey. It often swoops down from the sky or lies concealed until it [[rangoric-srd/combat/Combat Special Attacks#Charge|charges]]. The dragon head can loose a [[rangoric-srd/monsters/abilities/Breath Weapon|breath weapon]] instead of biting. Several chimeras attack in concert.
 
-**Breath Weapon (Su)**: A chimera's breath weapon depends on the color of its dragon head, as summarized on the table below. Regardless of its type, a chimera's breath weapon is usable once every 1d4 rounds, deals 6d8 points of damage, and allows a DC 17 Reflex save for half damage. The save DC is Constitution-based. To determine a chimera's head color and breath weapon randomly, roll 1d10 and consult the table below.
+**Breath Weapon (Su)**: A chimera's breath weapon depends on the color of its dragon head, as summarized on the table below. Regardless of its type, a chimera's breath weapon is usable once every 1d4 rounds, deals 6d8 points of damage, and attacks Reflex at +7, a miss halving the damage. The attack bonus is Constitution-based. To determine a chimera's head color and breath weapon randomly, roll 1d10 and consult the table below.
 
 | d10  | Head Color | Breath Weapon             |
 | ---- | ---------- | ------------------------- |

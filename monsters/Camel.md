@@ -15,7 +15,7 @@ full-attack: "Bite +4 melee (1d4+6)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Spit (+3 ranged touch)"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +5, Ref +6, Will +0"
+defenses: "Fort 15, Ref 16, Will 10"
 abilities: "Str 18, Dex 16, Con 14, Int 2, Wis 11, Cha 4"
 skills: "Perception +5"
 skill-ranks: "Perception 2"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: Spit (+3 ranged touch)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +5, Ref +6, Will +0
+- **Defenses**: Fort 15, Ref 16, Will 10
 - **Abilities**: Str 18, Dex 16, Con 14, Int 2, Wis 11, Cha 4
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +5
 - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]]
@@ -74,4 +74,4 @@ The two-humped, or Bactrian, camel is suited to cooler, rocky areas. It is stock
 
 ### Combat
 
-**Spit (Ex)**: Once per hour, a camel can regurgitate the contents of its stomach, spitting the foul material at a single target within 10 feet. The target must make a DC 13 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1d4 rounds. The save DC is Constitution-based.
+**Spit (Ex)**: Once per hour, a camel can regurgitate the contents of its stomach, spitting the foul material at a single target within 10 feet. The spit attacks the target at +3 vs Fortitude, and on a hit it is [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1d4 rounds. The attack bonus is Constitution-based.

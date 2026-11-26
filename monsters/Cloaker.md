@@ -15,7 +15,7 @@ full-attack: "Bite +8 melee (1d6+5) and tail slap +3 melee (1d8+2)"
 space-reach: "10 ft./10 ft. (5 ft. with bite)"
 special-attacks: "Engulf, moan"
 special-qualities: "Darkvision 60 ft., shadow shift"
-saves: "Fort +6, Ref +5, Will +7"
+defenses: "Fort 16, Ref 15, Will 17"
 abilities: "Str 21, Dex 16, Con 19, Int 14, Wis 15, Cha 14"
 skills: "Acrobatics +10, Imitation +8 (+16 as cloak), Perception +14, Sense Motive +8, Stealth +8, Theology +11"
 skill-ranks: "Acrobatics 6, Imitation 3, Perception 9, Sense Motive 3, Stealth 6, Theology 6"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft. (5 ft. with bite)
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Engulf|Engulf]], moan
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., shadow shift
-- **Saves**: Fort +6, Ref +5, Will +7
+- **Defenses**: Fort 16, Ref 15, Will 17
 - **Abilities**: Str 21, Dex 16, Con 19, Int 14, Wis 15, Cha 14
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Imitation|Imitation]] +8 (+16 as cloak), [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +8, [[rangoric-srd/skills/Theology|Theology]] +11
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -78,14 +78,14 @@ Cloakers usually lie still, watching and listening for prey. If facing a single 
 
 **Moan (Ex)**: A cloaker can emit an infrasonic moan as a standard action, with one of four effects.
 
-_Fear_: All creatures in a 30-foot spread must save (Will negates) or become [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] for 2 rounds.
+_Fear_: All creatures in a 30-foot spread are attacked against Will, and on a hit become [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] for 2 rounds.
 
-_Nausea_: All creatures in a 30-foot cone must save (Fortitude negates) or fall [[rangoric-srd/rules/Special Abilities and Conditions#^prone|prone]] and be [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1d4+1 rounds.
+_Nausea_: All creatures in a 30-foot cone are attacked against Fortitude, and on a hit fall [[rangoric-srd/rules/Special Abilities and Conditions#^prone|prone]] and be [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1d4+1 rounds.
 
 _Stupor_: A single creature within 30 feet is affected by _[[rangoric-srd/spells/Hold Monster|hold monster]]_ for 5 rounds (Will negates).
 
-_Unnerve_: Anyone within a 60-foot spread automatically takes a –2 penalty on attack and damage rolls. Those in the area for more than 6 consecutive rounds must save (Will negates) or enter a trance, [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]] until the moaning stops.
+_Unnerve_: Anyone within a 60-foot spread automatically takes a –2 penalty on attack and damage rolls. Those in the area for more than 6 consecutive rounds are attacked against Will, and on a hit enter a trance, [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]] until the moaning stops.
 
-Cloakers are immune to these sonic, mind-affecting attacks. A creature that successfully saves against the cloaker's fear, nausea, or unnerve moans cannot be affected by that same moan effect from that cloaker for 24 hours. All of the save DCs against a cloaker's moan are DC 15. Save DCs are Charisma-based.
+Cloakers are immune to these sonic, mind-affecting attacks. A creature the cloaker's fear, nausea, or unnerve moan misses cannot be affected by that same moan effect from that cloaker for 24 hours. Every attack bonus of a cloaker's moan is +5. Attack bonuses are Charisma-based.
 
-**Shadow Shift (Su)**: When in dim illumination, a cloaker can manipulate shadows as a free action to create one of three effects: blur (lasts 1d4 rounds, self only), mirror image (CL 6th), or silent image (DC 15, CL 6th, save DC is Charisma-based).
+**Shadow Shift (Su)**: When in dim illumination, a cloaker can manipulate shadows as a free action to create one of three effects: blur (lasts 1d4 rounds, self only), mirror image (CL 6th), or silent image (+5 vs Will, CL 6th, attack bonus is Charisma-based).

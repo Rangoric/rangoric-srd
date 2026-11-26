@@ -15,7 +15,7 @@ full-attack: "Bite +11 melee (2d8+12) or tail slap +11 melee (1d12+12)"
 space-reach: "15 ft./10 ft."
 special-attacks: "Improved grab"
 special-qualities: "Hold breath, low-light vision"
-saves: "Fort +9, Ref +6, Will +3"
+defenses: "Fort 19, Ref 16, Will 13"
 abilities: "Str 27, Dex 12, Con 19, Int 1, Wis 12, Cha 2"
 skills: "Athletics +8 (+16 swimming), Perception +9, Stealth +4*"
 skill-ranks: "Athletics 0, Perception 2, Stealth 5"
@@ -46,7 +46,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./10 ft.
 - **Special Attacks**: Improved grab
 - **Special Qualities**: Hold breath, low-light vision
-- **Saves**: Fort +9, Ref +6, Will +3
+- **Defenses**: Fort 19, Ref 16, Will 13
 - **Abilities**: Str 27, Dex 12, Con 19, Int 1, Wis 12, Cha 2
 - **Skills**: Athletics +8 (+16 swimming), Perception +9, Stealth +4\*
 - **Feats**: Endurance, Skill Focus (Perception), Skill Focus (Stealth)

@@ -16,7 +16,7 @@ full-attack: "Bite +20 melee (2d8+12/19–20 plus grab) and 2 claws +20 melee (2
 space-reach: "20 ft./20 ft."
 special-attacks: "Fast swallow, rending claws, swallow whole (6d6 bludgeoning damage plus 6d6 acid damage, AC 21, hp 18), vortex"
 special-qualities: "Blindsight 60 ft., darkvision 120 ft., fast healing 10, immunity to acid, resistance to cold 20"
-saves: "Fort +12, Ref +6, Will +14"
+defenses: "Fort 22, Ref 16, Will 24"
 abilities: "Str 34, Dex 9, Con 25, Int 4, Wis 19, Cha 6"
 skills: "Athletics +20, Perception +23"
 skill-ranks: "Athletics 5, Perception 16"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 20 ft./20 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Fast Swallow|Fast swallow]], [[rangoric-srd/monsters/abilities/Rending Claws|rending claws]], [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (6d6 bludgeoning damage plus 6d6 acid damage, AC 21, hp 18), [[rangoric-srd/monsters/abilities/Vortex|vortex]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 10, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 20
-- **Saves**: Fort +12, Ref +6, Will +14
+- **Defenses**: Fort 22, Ref 16, Will 24
 - **Abilities**: Str 34, Dex 9, Con 25, Int 4, Wis 19, Cha 6
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +20, [[rangoric-srd/skills/Perception|Perception]] +23
 - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
@@ -74,4 +74,4 @@ Charybdis speak Aquan.
 
 **[[rangoric-srd/monsters/abilities/Rending Claws|Rending Claws]] (Ex)**: A charybdis's claws are particularly devastating when used against objects, and ignore the first 10 points of an object's hardness rating.
 
-**[[rangoric-srd/monsters/abilities/Vortex|Vortex]] (Su)**: A charybdis can generate a whirlpool as a standard action at will. This ability functions identically to the [[rangoric-srd/monsters/abilities/Whirlwind|whirlwind]] special attack, but the whirlpool can only form underwater and cannot leave the water. It's a DC 25 Reflex save to avoid being caught by the charybdis's vortex. The vortex itself is 20 feet across and 120 feet deep, and deals 2d6+12 points of damage per round. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Vortex|Vortex]] (Su)**: A charybdis can generate a whirlpool as a standard action at will. This ability functions identically to the [[rangoric-srd/monsters/abilities/Whirlwind|whirlwind]] special attack, but the whirlpool can only form underwater and cannot leave the water. The charybdis's vortex attacks at +15 vs Reflex, and a miss avoids being caught by it. The vortex itself is 20 feet across and 120 feet deep, and deals 2d6+12 points of damage per round. The attack bonus is Constitution-based.

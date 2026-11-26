@@ -15,7 +15,7 @@ full-attack: "2 claws +5 melee (1d4+3); or filament +3 ranged (drag)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Pull (filament, 10 feet)"
 special-qualities: "Darkvision 60 ft., immunity to mind-affecting effects"
-saves: "Fort +6, Ref +2, Will +1"
+defenses: "Fort 16, Ref 12, Will 11"
 abilities: "Str 17, Dex 12, Con 17, Int —, Wis 10, Cha 4"
 skills: "Athletics +11"
 skill-ranks: "Athletics 5"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pull|Pull]] (filament, 10 feet)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-- **Saves**: Fort +6, Ref +2, Will +1
+- **Defenses**: Fort 16, Ref 12, Will 11
 - **Abilities**: Str 17, Dex 12, Con 17, Int —, Wis 10, Cha 4
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11
 - **Feats**: —

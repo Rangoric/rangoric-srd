@@ -14,9 +14,9 @@ cmd: "38 (42 vs. trip)"
 attack: "Bite +22 melee (2d6+10) or hoof +22 melee (2d6+5 plus 1d6 fire)"
 full-attack: "Bite +22 melee (2d6+10) and 2 hooves +17 melee (2d6+5 plus 1d6 fire)"
 space-reach: "15 ft./10 ft."
-special-attacks: "Smoke (DC 22), spell-like abilities"
+special-attacks: "Smoke (+12 vs Fortitude), spell-like abilities"
 special-qualities: "Darkvision 60 ft."
-saves: "Fort +14, Ref +11, Will +7"
+defenses: "Fort 24, Ref 21, Will 17"
 abilities: "Str 31, Dex 15, Con 21, Int 16, Wis 12, Cha 12"
 skills: "Acrobatics +19, Arcana +20, Deception +18, Intimidation +18, Perception +24, Sense Motive +18, Stealth +11, Theology +20"
 skill-ranks: "Acrobatics 14, Arcana 14, Deception 14, Intimidation 14, Perception 18, Sense Motive 18, Stealth 14, Theology 14"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +22 melee (2d6+10) or hoof +22 melee (2d6+5 plus 1d6 fire)
 - **Full Attack**: Bite +22 melee (2d6+10) and 2 hooves +17 melee (2d6+5 plus 1d6 fire)
 - **Space/Reach**: 15 ft./10 ft.
-- **Special Attacks**: Smoke (DC 22), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Attacks**: Smoke (+12 vs Fortitude), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft.
-- **Saves**: Fort +14, Ref +11, Will +7
+- **Defenses**: Fort 24, Ref 21, Will 17
 - **Abilities**: Str 31, Dex 15, Con 21, Int 16, Wis 12, Cha 12
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +19, [[rangoric-srd/skills/Arcana|Arcana]] +20, [[rangoric-srd/skills/Deception|Deception]] +18, [[rangoric-srd/skills/Intimidation|Intimidation]] +18, [[rangoric-srd/skills/Perception|Perception]] +24, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +18, [[rangoric-srd/skills/Stealth|Stealth]] +11, [[rangoric-srd/skills/Theology|Theology]] +20
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -68,6 +68,6 @@ Cauchemars speak Abyssal and Infernal.
 
 ### Combat
 
-**Smoke (Su)**: As the [[rangoric-srd/monsters/Nightmare (Monster)|nightmare]]'s smoke, with a DC 22 Fortitude save.
+**Smoke (Su)**: As the [[rangoric-srd/monsters/Nightmare (Monster)|nightmare]]'s smoke, with a +12 attack bonus vs Fortitude.
 
 **[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 15th): 1/hour—_[[rangoric-srd/spells/Ethereal Jaunt|ethereal jaunt]]_ (self plus 1 rider only), _[[rangoric-srd/spells/Plane Shift|plane shift]]_.

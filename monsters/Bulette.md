@@ -15,7 +15,7 @@ full-attack: "Bite +13 melee (2d8+9/19–20) and 2 claws +12 melee (2d6+6)"
 space-reach: "15 ft./10 ft."
 special-attacks: "Leap, savage bite"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, tremorsense 60 ft"
-saves: "Fort +11, Ref +8, Will +5"
+defenses: "Fort 21, Ref 18, Will 15"
 abilities: "Str 23, Dex 15, Con 20, Int 2, Wis 13, Cha 6"
 skills: "Acrobatics +9, Athletics +6 (+14 jumping), Perception +11"
 skill-ranks: "Acrobatics 4, Athletics 0, Perception 7"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./10 ft.
 - **Special Attacks**: Leap, savage bite
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft
-- **Saves**: Fort +11, Ref +8, Will +5
+- **Defenses**: Fort 21, Ref 18, Will 15
 - **Abilities**: Str 23, Dex 15, Con 20, Int 2, Wis 13, Cha 6
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Athletics|Athletics]] +6 (+14 jumping), [[rangoric-srd/skills/Perception|Perception]] +11
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)

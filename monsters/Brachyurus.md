@@ -15,7 +15,7 @@ full-attack: "2 claws +48 (2d6+10/19-20) melee, 1 bite +46 (3d6+5/19-20) melee"
 space-reach: "10 ft./5 ft."
 special-attacks: "Frightful howl, savage 15d6+25"
 special-qualities: "Blindsight 240 ft., DR 10/epic, darkvision 60 ft., fast healing 10, lowlight vision, SR 32, scent, acid, cold, electricity, fire, and sonic resistance 20"
-saves: "Fort +41, Ref +35, Will +25"
+defenses: "Fort 51, Ref 45, Will 35"
 abilities: "Str 30, Dex 38, Con 47, Int 18, Wis 32, Cha 19"
 skills: "Athletics +51 (+71 jumping), Fieldcraft +52, Perception +58, Stealth +55"
 skill-ranks: "Athletics 38, Fieldcraft 38, Perception 38, Stealth 38"
@@ -49,7 +49,7 @@ Full Attack: 2 claws +48 (2d6+10/19-20) melee, 1 bite +46 (3d6+5/19-20) melee �
 Space/Reach: 10 ft./5 ft.      
 Special Attacks: Frightful howl, savage 15d6+25      
 Special Qualities: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 240 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/epic, darkvision 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 10, lowlight vision, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 32, [[rangoric-srd/monsters/abilities/Scent|scent]], acid, cold, electricity, fire, and [[rangoric-srd/monsters/abilities/Resistance|sonic resistance]] 20      
-Saves: Fort +41, Ref +35, Will +25      
+Defenses: Fort 51, Ref 45, Will 35      
 Abilities: Str 30, Dex 38, Con 47, Int 18, Wis 32, Cha 19      
 Skills: [[rangoric-srd/skills/Athletics|Athletics]] +51 (+71 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +52, [[rangoric-srd/skills/Perception|Perception]] +58, [[rangoric-srd/skills/Stealth|Stealth]] +55     
 **Unspent Skill Points**: 76
@@ -64,6 +64,6 @@ Advancement: 39-48 HD (Large); 49-58 HD (Huge); 59-66 HD (Gargantuan); 67-135 HD
 
 #### Combat
 
-Frightful Howl (Su): As a standard action, a brachyurus can emit a howl in a 60-foot-radius spread that affects opponents with fewer Hit Dice or levels than the brachyurus has. The affected creature must make a successful Will save (DC 33) or become [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]]. Success indicates that the target is immune to that brachyurus’s frightful howl for one day. The DC is Charisma-based.
+Frightful Howl (Su): As a standard action, a brachyurus can emit a howl in a 60-foot-radius spread that affects opponents with fewer Hit Dice or levels than the brachyurus has. The affected creature is attacked at +23 vs Will, and on a hit becomes [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]]. Success indicates that the target is immune to that brachyurus’s frightful howl for one day. The attack bonus is Charisma-based.
 
 Savage (Ex): If a brachyurus successfully [[rangoric-srd/combat/Combat Maneuvers#Trip|trips]] an opponent, it latches onto the opponent’s body and tears the flesh. This attack automatically deals an additional 15d6+25 points of damage. If an opponent goes [[rangoric-srd/rules/Special Abilities and Conditions#^prone|prone]] for any reason in an area a brachyurus threatens, the brachyurus can also savage the victim as a free action (treat as the brachyurus’s attack of opportunity for the round), even though it had nothing to do with tripping the foe.

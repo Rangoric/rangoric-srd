@@ -13,9 +13,9 @@ cmd: "20 (can't be tripped)"
 attack: "Slam +9 melee (1d6+4 plus grab)"
 full-attack: "2 slams +9 melee (1d6+4 plus grab)"
 space-reach: "10 ft./10 ft."
-special-attacks: "Constrict (1d6+4), engulf (DC 17, 1d6 acid and paralysis)"
+special-attacks: "Constrict (1d6+4), engulf (+7 vs Reflex, 1d6 acid and paralysis)"
 special-qualities: "Blindsense 120 ft., darkvision 60 ft., regeneration 2 (acid), telepathy 100 ft., amorphous, adaptation, combine"
-saves: "Fort +7, Ref +2, Will +9"
+defenses: "Fort 17, Ref 12, Will 19"
 abilities: "Str 19, Dex 11, Con 20, Int 12, Wis 14, Cha 11"
 skills: "Acrobatics +12, Animal Handling +7, Escape Artist +10, Perception +12, Stealth +6"
 skill-ranks: "Acrobatics 11, Animal Handling 4, Escape Artist 7, Perception 7, Stealth 7"
@@ -47,9 +47,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Slam +9 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
 - **Full Attack**: 2 slams +9 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
 - **Space/Reach**: 10 ft./10 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (1d6+4), engulf (DC 17, 1d6 acid and [[rangoric-srd/monsters/abilities/Paralysis|paralysis]])
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (1d6+4), engulf (+7 vs Reflex, 1d6 acid and [[rangoric-srd/monsters/abilities/Paralysis|paralysis]])
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 120 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 2 (acid), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Amorphous|amorphous]], [[rangoric-srd/monsters/abilities/Adaptation|adaptation]], [[rangoric-srd/monsters/abilities/Combine|combine]]
-- **Saves**: Fort +7, Ref +2, Will +9
+- **Defenses**: Fort 17, Ref 12, Will 19
 - **Abilities**: Str 19, Dex 11, Con 20, Int 12, Wis 14, Cha 11
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +7, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +10, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +6
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam)

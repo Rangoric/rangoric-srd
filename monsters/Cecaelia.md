@@ -16,7 +16,7 @@ full-attack: "Masterwork spear +11/+6 melee (1d8+4/×3) and 2 tentacles +5 melee
 space-reach: "5 ft./5 ft. (10 ft. with tentacles)"
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., tentacle sense 10 ft., amphibious"
-saves: "Fort +4, Ref +9, Will +6"
+defenses: "Fort 14, Ref 19, Will 16"
 abilities: "Str 16, Dex 19, Con 14, Int 9, Wis 12, Cha 11"
 skills: "Athletics +20, Fieldcraft +10, Stealth +13"
 skill-ranks: "Athletics 14, Fieldcraft 6, Stealth 6"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft. (10 ft. with tentacles)
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tentacle Sense|tentacle sense]] 10 ft., [[rangoric-srd/monsters/abilities/Amphibious|amphibious]]
-- **Saves**: Fort +4, Ref +9, Will +6
+- **Defenses**: Fort 14, Ref 19, Will 16
 - **Abilities**: Str 16, Dex 19, Con 14, Int 9, Wis 12, Cha 11
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +20, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +13
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (spear), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (tentacles)
