@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "One sword"
 duration: "1 round/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Mage’s Sword|Mage’s Sword (3.5)]]"
@@ -35,7 +35,7 @@ _Evocation \[Force\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Effect**: One sword
 - **Duration**: 1 round/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 This spell brings into being a shimmering, swordlike plane of force. The sword strikes at any opponent within its range, as you desire, starting in the round that you cast the spell. The sword attacks its designated target once each round on your turn. Its attack bonus is equal to your caster level + your Int bonus or your Cha bonus (for wizards or sorcerers, respectively) with an additional +3 enhancement bonus. As a force effect, it can strike ethereal and [[rangoric-srd/rules/Special Abilities and Conditions#^incorporeal|incorporeal]] creatures. It deals 4d6+3 points of force damage, with a threat range of 19–20 and a critical multiplier of x2.

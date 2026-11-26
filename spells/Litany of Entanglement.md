@@ -17,7 +17,7 @@ casting-time: "1 swift action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "1 round"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Ultimate Combat"
 based-on:
@@ -38,7 +38,7 @@ _Conjuration (Calling) \[Language-dependent\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature
 - **Duration**: 1 round
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 Your litany conjures chains of energy that lash upward from the ground and hamper the target's movement. The target is entangled. This spell has no effect on flying creatures, or creatures not standing upon solid ground.

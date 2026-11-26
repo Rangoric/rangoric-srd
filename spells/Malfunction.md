@@ -12,7 +12,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 area: "One construct"
 duration: "1 round/level (D)"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -33,7 +33,7 @@ _Transmutation_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Area**: One construct
 - **Duration**: 1 round/level (D)
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
 This functions as _[[rangoric-srd/spells/Confusion|confusion]]_, except it only affects constructs, and instead of babbling incoherently, the construct takes no actions on its turn (but may still make attacks of opportunity).

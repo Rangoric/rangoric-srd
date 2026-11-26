@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "Extradimensional mansion, up to three 10-ft. cubes/level (S)"
 duration: "2 hours/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Mage’s Magnificent Mansion|Mage’s Magnificent Mansion (3.5)]]"
@@ -34,7 +34,7 @@ _Conjuration (Creation)_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Effect**: Extradimensional mansion, up to three 10-ft. cubes/level (S)
 - **Duration**: 2 hours/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You conjure up an extradimensional dwelling that has a single entrance on the plane from which the spell was cast. The entry point looks like a faint shimmering in the air that is 4 feet wide and 8 feet high. Only those you designate may enter the mansion, and the portal is shut and made [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] behind you when you enter. You may open it again from your own side at will. Once observers have passed beyond the entrance, they are in a magnificent foyer with numerous chambers beyond. The atmosphere is clean, fresh, and warm.

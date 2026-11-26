@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "See text"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Maze|Maze (3.5)]]"
@@ -35,7 +35,7 @@ _Conjuration (Teleportation)_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature
 - **Duration**: See text
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 You banish the subject into an extradimensional labyrinth of force planes. Each round on its turn, it may attempt a DC 20 Intelligence check to escape the labyrinth as a full-round action. If the subject doesn’t escape, the maze disappears after 10 minutes, forcing the subject to leave.

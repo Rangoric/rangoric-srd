@@ -29,7 +29,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Object touched"
 duration: "10 min./level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Light|Light (3.5)]]"
@@ -49,7 +49,7 @@ _Evocation \[Light\]_
 - **Range**: Touch
 - **Target**: Object touched
 - **Duration**: 10 min./level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 This spell causes an object to glow like a torch, shedding bright light in a 20-foot radius (and dim light for an additional 20 feet) from the point you touch. The effect is immobile, but it can be cast on a movable object. Light taken into an area of magical darkness does not function.

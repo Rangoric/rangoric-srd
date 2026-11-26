@@ -18,7 +18,7 @@ casting-time: "1 standard action"
 range: "Long (400 ft. + 40 ft./level)"
 area: "120-ft.-radius emanation"
 duration: "10 minute/level"
-saving-throw: "Will negates, see text"
+defense: "Will, see text"
 spell-resistance: "No"
 book: "Ultimate Magic"
 based-on:
@@ -39,7 +39,7 @@ _Illusion (Shadow) \[Darkness, Shadow\]_
 - **Range**: Long (400 ft. + 40 ft./level)
 - **Area**: 120-ft.-radius emanation
 - **Duration**: 10 minute/level
-- **Saving Throw**: Will negates, see text
+- **Defense**: Will, see text
 - **Spell Resistance**: No
 
-You conjure a tremendous area of shadow to obscure moonlight within the area, creating something akin to a lunar eclipse. The light level is lowered by two steps (though unlike _[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]_, areas of normal light or dimmer become normal darkness rather than supernaturally dark). Lycanthropes in the area must make a Will save every round or revert to their humanoid forms. In addition, lycanthropes attempting to assume animal or hybrid form within the affected area take a –5 penalty on Constitution checks to do so.
+You conjure a tremendous area of shadow to obscure moonlight within the area, creating something akin to a lunar eclipse. The light level is lowered by two steps (though unlike _[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]_, areas of normal light or dimmer become normal darkness rather than supernaturally dark). The spell attacks the Will of lycanthropes in the area every round, and on a hit they revert to their humanoid forms. In addition, lycanthropes attempting to assume animal or hybrid form within the affected area take a –5 penalty on Constitution checks to do so.

@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creatures or objects touched"
 duration: "1 day/level (D)"
-saving-throw: "None; see text"
+defense: "None; see text"
 spell-resistance: "No"
 book: "Ultimate Combat"
 based-on:
@@ -36,7 +36,7 @@ _Illusion (Glamer)_
 - **Range**: Touch
 - **Target**: Creatures or objects touched
 - **Duration**: 1 day/level (D)
-- **Saving Throw**: None; see text
+- **Defense**: None; see text
 - **Spell Resistance**: No
 
 This spell functions like _[[rangoric-srd/spells/Mask Dweomer|mask dweomer]]_ , except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 1-day increments among the creatures or objects touched.

@@ -13,7 +13,7 @@ casting-time: "10 minutes"
 range: "Touch"
 target: "Tree touched"
 duration: "One day/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Liveoak|Liveoak (3.5)]]"
@@ -33,7 +33,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: Tree touched
 - **Duration**: One day/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 This spell turns an oak tree into a protector or guardian. The spell can be cast on only a single tree at a time; while liveoak is in effect, you can’t cast it again on another tree. The tree on which the spell is cast must be within 10 feet of your dwelling place, within a place sacred to you, or within 300 feet of something that you wish to guard or protect.

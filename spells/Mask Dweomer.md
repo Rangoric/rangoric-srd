@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature or object touched"
 duration: "1 day/level (D)"
-saving-throw: "None; see text"
+defense: "None; see text"
 spell-resistance: "No"
 book: "Advanced Player's Guide"
 based-on:
@@ -36,7 +36,7 @@ _Illusion (Glamer)_
 - **Range**: Touch
 - **Target**: Creature or object touched
 - **Duration**: 1 day/level (D)
-- **Saving Throw**: None; see text
+- **Defense**: None; see text
 - **Spell Resistance**: No
 
-You mask and manipulate a spell's magic aura to make it harder to detect. Select one spell effect on the target creature or object. You must have either cast this spell yourself or have perceived it by means such as _[[rangoric-srd/spells/Detect Magic|detect magic]]_ or _[[rangoric-srd/spells/Arcane Sight|arcane sight]]_. Both the desired spell effect and _mask dweomer_ are hidden from _[[rangoric-srd/spells/Detect Magic|detect magic]]_, although more powerful spells (such as _[[rangoric-srd/spells/Arcane Sight|arcane sight]]_) pierce the deception if the caster succeeds on a Will save. _[[rangoric-srd/spells/Analyze Dweomer|Analyze dweomer]]_ automatically detects both _mask dweomer_ and any masked spell effects.
+You mask and manipulate a spell's magic aura to make it harder to detect. Select one spell effect on the target creature or object. You must have either cast this spell yourself or have perceived it by means such as _[[rangoric-srd/spells/Detect Magic|detect magic]]_ or _[[rangoric-srd/spells/Arcane Sight|arcane sight]]_. Both the desired spell effect and _mask dweomer_ are hidden from _[[rangoric-srd/spells/Detect Magic|detect magic]]_, although more powerful spells (such as _[[rangoric-srd/spells/Arcane Sight|arcane sight]]_) pierce the deception if this spell misses the caster’s Will. _[[rangoric-srd/spells/Analyze Dweomer|Analyze dweomer]]_ automatically detects both _mask dweomer_ and any masked spell effects.

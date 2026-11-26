@@ -21,7 +21,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One weapon or fifty projectiles (all of which must be in contact with each other at the time of casting)"
 duration: "1 hour/level"
-saving-throw: "Will negates (harmless, object)"
+defense: "Will (harmless, object)"
 spell-resistance: "Yes (harmless, object)"
 based-on:
   - "[[fantasy srd 3.5/spells/Magic Weapon, Greater|Magic Weapon, Greater (3.5)]]"
@@ -41,7 +41,7 @@ _Transmutation_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One weapon or fifty projectiles (all of which must be in contact with each other at the time of casting)
 - **Duration**: 1 hour/level
-- **Saving Throw**: Will negates (harmless, object)
+- **Defense**: Will (harmless, object)
 - **Spell Resistance**: Yes (harmless, object)
 
 This spell functions like [[rangoric-srd/spells/Magic Weapon|magic weapon]], except that it gives a weapon an enhancement bonus on attack and damage rolls of +1 per four caster levels (maximum +5).

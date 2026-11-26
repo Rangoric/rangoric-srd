@@ -24,7 +24,7 @@ casting-time: "1 standard action"
 range: "Touch"
 area: "10-ft.-radius emanation from touched creature"
 duration: "10 min./level"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "No; see text"
 based-on:
   - "[[fantasy srd 3.5/spells/Magic Circle against Evil|Magic Circle against Evil (3.5)]]"
@@ -44,7 +44,7 @@ _Abjuration \[Good\]_
 - **Range**: Touch
 - **Area**: 10-ft.-radius emanation from touched creature
 - **Duration**: 10 min./level
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: No; see text
 
 All creatures within the area gain the effects of a protection from evil spell, and no nongood summoned creatures can enter the area either. You must overcome a creature’s spell resistance in order to keep it at bay (as in the third function of protection from evil), but the deflection and resistance bonuses and the protection from mental control apply regardless of enemies’ spell resistance.

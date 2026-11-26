@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 target: "One creature"
 duration: "1 hour/level or until you return to your body"
-saving-throw: "Will negates; see text"
+defense: "Will; see text"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Magic Jar|Magic Jar (3.5)]]"
@@ -36,7 +36,7 @@ _Necromancy_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Target**: One creature
 - **Duration**: 1 hour/level or until you return to your body
-- **Saving Throw**: Will negates; see text
+- **Defense**: Will; see text
 - **Spell Resistance**: Yes
 
 By casting magic jar, you place your soul in a gem or large crystal (known as the magic jar), leaving your body lifeless. Then you can attempt to take control of a nearby body, forcing its soul into the magic jar. You may move back to the jar (thereby returning the trapped soul to its body) and attempt to possess another body. The spell ends when you send your soul back to your own body, leaving the receptacle empty.
@@ -47,7 +47,7 @@ While in the magic jar, you can sense and attack any life force within 10 feet p
 
 You could choose to take over either a stronger or a weaker creature, but which particular stronger or weaker creature you attempt to possess is determined randomly.
 
-Attempting to possess a body is a full-round action. It is blocked by protection from evil or a similar ward. You possess the body and force the creature’s soul into the magic jar unless the subject succeeds on a Will save. Failure to take over the host leaves your life force in the magic jar, and the target automatically succeeds on further saving throws if you attempt to possess its body again.
+Attempting to possess a body is a full-round action. It is blocked by protection from evil or a similar ward. You possess the body and force the creature’s soul into the magic jar if the spell hits the subject’s Will. Failure to take over the host leaves your life force in the magic jar, and further attacks against the target’s Will automatically miss if you attempt to possess its body again.
 
 If you are successful, your life force occupies the host body, and the host’s life force is imprisoned in the magic jar. You keep your Intelligence, Wisdom, Charisma, level, class, base attack bonus, base save bonuses, alignment, and [[rangoric-srd/rules/Possession (Rules)#Mental Abilities|mental abilities]]. The body retains its Strength, Dexterity, Constitution, hit points, natural abilities, and automatic abilities. A body with extra limbs does not allow you to make more attacks (or more advantageous two-weapon attacks) than normal. You can’t choose to activate the body’s extraordinary or supernatural abilities. The creature’s spells and spell-like abilities do not stay with the body.
 

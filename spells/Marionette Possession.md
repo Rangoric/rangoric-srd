@@ -18,7 +18,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 target: "One willing creature"
 duration: "10 minutes/level or until you return to your body"
-saving-throw: "Will negates (see text)"
+defense: "Will (see text)"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -39,7 +39,7 @@ _Necromancy_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Target**: One willing creature
 - **Duration**: 10 minutes/level or until you return to your body
-- **Saving Throw**: Will negates (see text)
+- **Defense**: Will (see text)
 - **Spell Resistance**: Yes
 
 You project your soul out of your body and into the body of a willing creature. This possession is blocked by _[[rangoric-srd/spells/Protection from Evil|protection from evil]]_ or a similar ward. The target's soul shares its body with you; it is helpless but can still use its senses. You and the target's soul can communicate telepathically as if using a common language.

@@ -21,7 +21,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "1 round/level"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Ultimate Combat"
 based-on:
@@ -42,7 +42,7 @@ _Enchantment (Compulsion) \[Mind-affecting\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature
 - **Duration**: 1 round/level
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 You compel the target to look at you and only you for the spell's duration or until the spell is discharged. While staring at you, the target is considered to be averting its eyes from every creature but you, granting creatures other than you concealment against the target's attacks. If the target willingly leaves your line of sight, it is blinded for 1 round and the spell ends. If you willingly leave the target's line of sight or become unconscious or dead, the spell creature suffers no ill effects. Blind creatures and creatures immune to gaze attacks are immune to this spell.

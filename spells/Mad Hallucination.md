@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "Close (20 ft.)"
 target: "One humanoid creature"
 duration: "5 minute/level (maximum 1 hour)"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -38,7 +38,7 @@ _Illusion (Phantasm)_
 - **Range**: Close (20 ft.)
 - **Target**: One humanoid creature
 - **Duration**: 5 minute/level (maximum 1 hour)
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
-This spell induces a hallucinogenic reality in the mind of your target. Surfaces seem to swim, and movement constantly distracts the eye. The target takes a –2 penalty on Will saving throws, caster level checks, Intelligence-based skill checks, and Wisdom-based skill checks.
+This spell induces a hallucinogenic reality in the mind of your target. Surfaces seem to swim, and movement constantly distracts the eye. The target takes a –2 penalty on Will Defense, caster level checks, Intelligence-based skill checks, and Wisdom-based skill checks.

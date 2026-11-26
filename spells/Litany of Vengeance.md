@@ -16,7 +16,7 @@ casting-time: "1 swift action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "1 round"
-saving-throw: "No"
+defense: "No"
 spell-resistance: "Yes"
 book: "Ultimate Combat"
 based-on:
@@ -37,7 +37,7 @@ _Transmutation \[Language-dependent\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature
 - **Duration**: 1 round
-- **Saving Throw**: No
+- **Defense**: No
 - **Spell Resistance**: Yes
 
 This litany causes your enemy to feel the pain of blows more sharply. Anyone who hits the target with an attack gains a +5 sacred or profane bonus (depending on the alignment of the caster) to that attack's damage.

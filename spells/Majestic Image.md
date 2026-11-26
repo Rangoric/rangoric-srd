@@ -19,7 +19,7 @@ casting-time: "1 standard action"
 range: "200 ft."
 effect: "Transfer consciousness to an object bearing your likeness"
 duration: "Concentration"
-saving-throw: "Will negates (see text)"
+defense: "Will (see text)"
 spell-resistance: "Yes"
 book: "Ultimate Intrigue"
 based-on:
@@ -40,7 +40,7 @@ _Transmutation_
 - **Range**: 200 ft.
 - **Effect**: Transfer consciousness to an object bearing your likeness
 - **Duration**: Concentration
-- **Saving Throw**: Will negates (see text)
+- **Defense**: Will (see text)
 - **Spell Resistance**: Yes
 
 You cast your consciousness into a single object within range that bears your likeness, as if choosing a specific image with the spell [[rangoric-srd/spells/Enter Image|enter image]]. In addition to observing your surroundings, speaking, and manipulating the image you inhabit, however, you can converse with nearby creatures and use your normal social skills. You gain a +5 bonus on Deception checks to tell lies and Persuasion checks to make a request. You gain a +2 bonus on Intimidation checks and use the object's size to determine whether you gain a bonus or penalty on Intimidation checks for size.

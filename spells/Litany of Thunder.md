@@ -17,7 +17,7 @@ casting-time: "1 swift action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "1 round"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 book: "Ultimate Combat"
 based-on:
@@ -38,7 +38,7 @@ _Evocation \[Language-dependent, Sonic\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature
 - **Duration**: 1 round
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
 You call down a thunderous boom upon your enemy. The target becomes deafened until the condition is removed, and is confused for 1 round.

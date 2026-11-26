@@ -15,7 +15,7 @@ casting-time: "1 swift action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "1 round"
-saving-throw: "No"
+defense: "No"
 spell-resistance: "Yes"
 book: "Ultimate Combat"
 based-on:
@@ -36,7 +36,7 @@ _Necromancy \[Language-dependent\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature
 - **Duration**: 1 round
-- **Saving Throw**: No
+- **Defense**: No
 - **Spell Resistance**: Yes
 
 Your litany proclaims your target weak, sapping its strength. The target is fatigued for 1 round.

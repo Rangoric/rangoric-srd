@@ -13,7 +13,7 @@ casting-time: "10 minutes"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "Phantasmal, unattended, nonmagical object, up to 1 cu. ft./level"
 duration: "10 minutes/level (D)"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Advanced Race Guide"
 based-on:
@@ -34,7 +34,7 @@ _Illusion (Figment) \[Mind-affecting\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Effect**: Phantasmal, unattended, nonmagical object, up to 1 cu. ft./level
 - **Duration**: 10 minutes/level (D)
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
-This spell functions as the _major creation spell_, except as noted above and the object created is a semi-real phantasm. Any creature that interacts with the object may make a Will save, with success causing the object to cease to exist. A gnome casting this spell may make a Mysticism check in place of any Craft check required to make a complex item.
+This spell functions as the _major creation spell_, except as noted above and the object created is a semi-real phantasm. The object attacks the Will of any creature that interacts with it, and a miss causes the object to cease to exist. A gnome casting this spell may make a Mysticism check in place of any Craft check required to make a complex item.

@@ -18,7 +18,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Living creature touched"
 duration: "1 min./level"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Magic Fang|Magic Fang (3.5)]]"
@@ -38,7 +38,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: Living creature touched
 - **Duration**: 1 min./level
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 Magic fang gives one natural weapon of the subject a +1 enhancement bonus on attack and damage rolls. The spell can affect a slam attack, fist, bite, or other natural weapon. (The spell does not change an unarmed strike’s damage from nonlethal damage to lethal damage.)

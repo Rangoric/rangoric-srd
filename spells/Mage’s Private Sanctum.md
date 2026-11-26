@@ -16,7 +16,7 @@ casting-time: "10 minutes"
 range: "Close (25 ft. + 5 ft./2 levels)"
 area: "30-ft. cube/level (S)"
 duration: "24 hours (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Mage’s Private Sanctum|Mage’s Private Sanctum (3.5)]]"
@@ -36,7 +36,7 @@ _Abjuration_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Area**: 30-ft. cube/level (S)
 - **Duration**: 24 hours (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 This spell ensures privacy. Anyone looking into the area from outside sees only a dark, foggy mass. Darkvision cannot penetrate it. No sounds, no matter how loud, can escape the area, so nobody can eavesdrop from outside. Those inside can see out normally.
