@@ -22,7 +22,7 @@ Very few of these powerful devices have been crafted, not just because of the di
 
 The _vermillion vermifuge_ takes the form of an odd, ornate lantern, with a crystal dome on its top and no apparent fuel to power it. When the lamp is activated, a brilliant light shines forth, spreading outwards to form a hemisphere of redness with a radius of 10 feet per level of the caster. Unlike a normal lamp, the light from the _vermifuge_ doesn’t dim with distance, and the boundary between the lit hemisphere and the unlit outside is clearly discernible. The light is also able to penetrate solid matter within the hemisphere, and thus casts no shadows. Once activated the lamp cannot be moved without causing the vermillion light to wink out.
 
-The light of the _vermillion vermifuge_ repels any worm, from the lowliest earthworm to the mightiest gold dragon, as well as pseudodragons and purple and frost worms (but not dragonnes or rhemorazes). Those that fail a Will save (DC 22) are prevented from entering the lit area, and even those who make their saves suffer a –4 penalty to their Dex scores due to the light.
+The light of the _vermillion vermifuge_ repels any worm, from the lowliest earthworm to the mightiest gold dragon, as well as pseudodragons and purple and frost worms (but not dragonnes or rhemorazes). The light attacks their Will at +12, and on a hit they are prevented from entering the lit area, and even those it misses suffer a –4 penalty to their Dex scores due to the light.
 
 The vermillion light continues to emanate from the device for 24 hours per charge, and while a newly created _vermifuge_ has 50 charges, those bought secondhand or found in treasure troves are likely to have already lost some charges.
 

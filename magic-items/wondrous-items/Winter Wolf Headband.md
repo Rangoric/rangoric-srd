@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Winter Wolf Headband
 
-Crafted of pale bone or silver, this headband features a snarling wolf's head centered on the wearer's forehead. The wearer gains cold resistance 10. Once per day, the wearer may transform into a Large white-furred wolf for 11 minutes. In addition, once per day the wearer may breathe a 30-foot cone of cold that deals 7d6 points of cold damage (Reflex DC 16 for half). The wearer may use this breath weapon even when transformed.
+Crafted of pale bone or silver, this headband features a snarling wolf's head centered on the wearer's forehead. The wearer gains cold resistance 10. Once per day, the wearer may transform into a Large white-furred wolf for 11 minutes. In addition, once per day the wearer may breathe a 30-foot cone of cold that deals 7d6 points of cold damage (+6 vs Reflex; a miss halves). The wearer may use this breath weapon even when transformed.
 
 Moderate transmutation; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Beast Shape II|beast shape II]]_, _[[rangoric-srd/spells/Dragon’s Breath|dragon's breath]]_, _[[rangoric-srd/spells/Resist Energy|resist energy]]_; Price 32,000 gp; Cost 16,000 gp; Weight 1 lb.

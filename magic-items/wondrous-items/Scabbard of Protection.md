@@ -22,7 +22,7 @@ This scabbard resizes to fit any bladed weapon. When worn on the body the scabba
 
 - +1 natural armor bonus
 
-- +1 resistance bonus to all saving throws
+- +1 resistance bonus to all defenses
 
 - Energy resistance 5 against a specified energy form (this does not stack with any other energy protections currently in place)
 

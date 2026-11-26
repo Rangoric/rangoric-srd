@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Plague Rat Belt
 
-This belt grants its wearer a +2 enhancement bonus to Constitution. Treat this as a temporary ability bonus for the first 24 hours the belt is worn. Also, as an immediate action three times per day, the wearer can call upon the belt to reroll a saving throw made to resist a [[rangoric-srd/rules/Afflictions#Disease|disease]] or [[rangoric-srd/rules/Afflictions#Poison|poison]]. The wearer must use the second roll, even if it is worse.
+This belt grants its wearer a +2 enhancement bonus to Constitution. Treat this as a temporary ability bonus for the first 24 hours the belt is worn. Also, as an immediate action three times per day, the wearer can call upon the belt to make an attack reroll, keeping the result better for her, when it is made against her defenses by a [[rangoric-srd/rules/Afflictions#Disease|disease]] or [[rangoric-srd/rules/Afflictions#Poison|poison]]. The wearer must use the second roll, even if it is worse.
 
 Moderate transmutation; CL 8th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Bear’s Endurance|bear's endurance]]_, _[[rangoric-srd/spells/Neutralize Poison|neutralize poison]]_, _[[rangoric-srd/spells/Remove Disease|remove disease]]_; Price 5,200 gp; Cost 2,600 gp; Weight 1 lb.
