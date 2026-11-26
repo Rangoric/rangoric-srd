@@ -18,7 +18,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "One touched object of up to 1 lb. and 1 cu. ft."
 duration: "Instantaneous or 1 hour/level"
-saving-throw: "Will negates (object)"
+defense: "Will (object)"
 spell-resistance: "Yes"
 book: "Occult Adventures"
 based-on:
@@ -39,7 +39,7 @@ _Conjuration (Teleportation)_
 - **Range**: Touch
 - **Target**: One touched object of up to 1 lb. and 1 cu. ft.
 - **Duration**: Instantaneous or 1 hour/level
-- **Saving Throw**: Will negates (object)
+- **Defense**: Will (object)
 - **Spell Resistance**: Yes
 
 This spell allows you to instantaneously transport a small nonliving object from one location to another. There are two ways to use the spell: sending allows you to immediately send an object held in your hands to a nearby location, while receiving permits you to cast the spell ahead of time on an object and summon it to your location at a later time.

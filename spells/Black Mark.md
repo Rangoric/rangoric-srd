@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "One creature"
 duration: "Permanent"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Advanced Race Guide"
 based-on:
@@ -37,7 +37,7 @@ _Necromancy \[Curse, Fear\]_
 - **Range**: Touch
 - **Target**: One creature
 - **Duration**: Permanent
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 You mark the target with a black marking on its skin; the mark's exact appearance determined by you, but can be no larger than your hand. The _black mark_ functions as a _[[rangoric-srd/spells/Mark of Justice|mark of justice]]_, and when the mark is activated, the target becomes shaken anytime it is on or in the water more than a 5 feet from shore. In addition, as long as the _black mark_ is active, the target is affected as if subject to _[[rangoric-srd/spells/Nature’s Exile|nature's exile]]_ , but all creatures with the aquatic or water subtype or with a swim speed are made hostile, even those not of the animal type, though non-aquatic animals are not.

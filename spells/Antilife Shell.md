@@ -17,7 +17,7 @@ casting-time: "1 round"
 range: "10 ft."
 area: "10-ft.-radius emanation, centered on you"
 duration: "10 min./level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Antilife Shell|Antilife Shell (3.5)]]"
@@ -37,7 +37,7 @@ _Abjuration_
 - **Range**: 10 ft.
 - **Area**: 10-ft.-radius emanation, centered on you
 - **Duration**: 10 min./level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 You bring into being a mobile, hemispherical energy field that prevents the entrance of most types of living creatures.

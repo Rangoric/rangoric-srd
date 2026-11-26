@@ -20,7 +20,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "One touched animal of Tiny or smaller size"
 duration: "Instantaneous or 1 hour/level"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Occult Adventures"
 based-on:
@@ -41,7 +41,7 @@ _Conjuration (Teleportation)_
 - **Range**: Touch
 - **Target**: One touched animal of Tiny or smaller size
 - **Duration**: Instantaneous or 1 hour/level
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 This spell functions like [[rangoric-srd/spells/Apport Object|apport object]] except the target is an animal. Only normal, nonmagical creatures of the animal type can be teleported.

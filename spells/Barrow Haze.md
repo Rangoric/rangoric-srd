@@ -12,7 +12,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 effect: "Fog spreads in 20-ft. radius, 20 ft. high"
 duration: "1 minute/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Advanced Class Guide"
 based-on:
@@ -33,7 +33,7 @@ _Necromancy_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Effect**: Fog spreads in 20-ft. radius, 20 ft. high
 - **Duration**: 1 minute/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 _Barrow haze_ creates a bank of fog similar to that created by _[[rangoric-srd/spells/Fog Cloud|fog cloud]]_, except that the vapors are black and they have a necromantic link to you. The vapors do not interfere with your vision. Because of your link to the haze, if any part of it is within 30 feet of you, any creatures within the haze count as in range for the purpose of using any of your hexes that have a maximum range of 30 feet.

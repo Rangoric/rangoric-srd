@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "20 ft."
 area: "20-ft. radius centered on you"
 duration: "1 minute/level"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -36,7 +36,7 @@ _Evocation \[Good, Lawful\]_
 - **Range**: 20 ft.
 - **Area**: 20-ft. radius centered on you
 - **Duration**: 1 minute/level
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
-You gain a powerful aura, similar to an archon's aura of menace. Any hostile creature within a 20-foot radius of you must make a Will save to resist the effects of this aura. If the creature fails, it takes a –2 penalty on attack rolls and saving throws and to Armor Class for the duration of this spell, or until it successfully hits you with an attack. A creature that has resisted or broken the effect cannot be affected again by this particular casting of _archon's aura_.
+You gain a powerful aura, similar to an archon's aura of menace. This aura attacks the Will of any hostile creature within a 20-foot radius of you. On a hit, the creature takes a –2 penalty on attack rolls and defenses and to Armor Class for the duration of this spell, or until it successfully hits you with an attack. A creature that has resisted or broken the effect cannot be affected again by this particular casting of _archon's aura_.

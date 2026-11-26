@@ -20,7 +20,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "Caster level hour(s)"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 book: "Planar Adventures"
 based-on:
@@ -41,7 +41,7 @@ _Evocation_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: Caster level hour(s)
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
 This functions as [[rangoric-srd/spells/Bestow Planar Infusion I|bestow planar infusion I]], except that the touched creature gains the improved infusion of the current plane.

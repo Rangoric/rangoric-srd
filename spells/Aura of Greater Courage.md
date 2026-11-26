@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Personal"
 area: "10-ft.-radius emanation centered on you"
 duration: "10 minutes/level"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Advanced Player's Guide"
 based-on:
@@ -35,7 +35,7 @@ _Abjuration \[Emotion\]_
 - **Range**: Personal
 - **Area**: 10-ft.-radius emanation centered on you
 - **Duration**: 10 minutes/level
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 When you cast this spell you strengthen your paladin's aura of courage. Until the end of its duration, all allies within that aura are immune to fear (magical or otherwise). If you do not have the aura of courage class feature, _aura of greater courage_ has no effect.

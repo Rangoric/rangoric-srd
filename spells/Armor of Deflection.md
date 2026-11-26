@@ -12,7 +12,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "1 minute/level"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Spells & Magic"
 based-on:
@@ -33,7 +33,7 @@ _Abjuration_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: 1 minute/level
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 The subject of this spell gains [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|damage reduction]] 2/— and a +2 deflection bonus to AC but must be of the same faith as the caster.

@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "1 hour/level"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Faeries"
 based-on:
@@ -36,7 +36,7 @@ _Enchantment (Charm) \[Mind-Affecting\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature
 - **Duration**: 1 hour/level
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 As _[[rangoric-srd/spells/Charm Monster|charm monster]]_, but the spell also allows the caster to interact with the [[rangoric-srd/monsters/Doorway Guardian|doorway guardian]] to determine the outlet of the _[[rangoric-srd/rules/Fey Roads and Doorways#Fey Roads|fey road]]_ the creature protects. The caster can also gather simple information about creatures recently in the region, or have the creature help him (modify DC up/down based on Cha and level).

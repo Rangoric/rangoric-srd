@@ -16,7 +16,7 @@ casting-time: "24 hours"
 range: "Touch"
 target: "Animal or tree touched"
 duration: "Instantaneous"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Awaken|Awaken (3.5)]]"
@@ -36,10 +36,10 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: Animal or tree touched
 - **Duration**: Instantaneous
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
-You awaken a tree or animal to humanlike sentience. To succeed, you must make a Will save (DC 10 + the animal’s current HD, or the HD the tree will have once awakened).
+You awaken a tree or animal to humanlike sentience. To succeed, you must make a Will check (1d20 + your Will save bonus; DC 10 + the animal’s current HD, or the HD the tree will have once awakened).
 
 The awakened animal or tree is friendly toward you. You have no special empathy or connection with a creature you awaken, although it serves you in specific tasks or endeavors if you communicate your desires to it.
 

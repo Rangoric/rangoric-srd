@@ -19,7 +19,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature; see text"
 duration: "Caster level round(s)"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Occult Adventures"
 based-on:
@@ -40,7 +40,7 @@ _Enchantment (Compulsion) \[MindAffecting\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature; see text
 - **Duration**: Caster level round(s)
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
-This spell causes the target to break into a fit of bizarre, uncontrollable babbling. The target also becomes nauseated. If the target succeeds at its save, the effects end. If not, the creature continues babbling and is nauseated for the entire duration. Creatures within 30 feet of the subject that can hear the target's babbling must succeed at a Will save or become fascinated for as long as the babbling persists. Once a creature's fascination ends, it can't become fascinated by the same instance of _babble_ again. Creatures with an Intelligence score of 2 or lower aren't affected by this spell.
+This spell causes the target to break into a fit of bizarre, uncontrollable babbling. The target also becomes nauseated. If the spell misses, the effects end. If not, the creature continues babbling and is nauseated for the entire duration. The babbling attacks the Will of creatures within 30 feet of the subject that can hear it, and on a hit they become fascinated for as long as the babbling persists. Once a creature's fascination ends, it can't become fascinated by the same instance of _babble_ again. Creatures with an Intelligence score of 2 or lower aren't affected by this spell.

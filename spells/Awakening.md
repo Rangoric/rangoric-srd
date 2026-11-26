@@ -12,7 +12,7 @@ components:
 casting-time: "1 standard action"
 area: "60foot spread centered on the caster"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 book: "Spells & Magic"
 based-on:
@@ -32,7 +32,7 @@ _Enchantment_
 - **Casting Time**: 1 standard action
 - **Area**: 60foot spread centered on the caster
 - **Duration**: Instantaneous
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
-This spell quickly and silently awakens all sleeping creatures within the burst. Most often, it is used to rouse sleeping comrades to face a threat. It can also be used to counteract spells and abilities that cause victims to sleep, granting those victims a new saving throw if the original effect allowed a save.
+This spell quickly and silently awakens all sleeping creatures within the burst. Most often, it is used to rouse sleeping comrades to face a threat. It can also be used to counteract spells and abilities that cause victims to sleep, making the original effect attack those victims again if it attacked a defense, a miss ending it.

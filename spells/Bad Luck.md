@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "50 ft."
 area: "Several enemy creatures, no two of which may be more than 25 ft. apart"
 duration: "1 minute/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes (harmless)"
 book: "Faeries"
 based-on:
@@ -38,9 +38,9 @@ _Enchantment (Compulsion)_
 - **Range**: 50 ft.
 - **Area**: Several enemy creatures, no two of which may be more than 25 ft. apart
 - **Duration**: 1 minute/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes (harmless)
 
-_Bad luck_ decreases your enemies’ chances to hit your fellow adventurers. They receive a luck penalty of -1 to their attack rolls, and a -1 luck penalty to Reflex saving throws. You may target a number of enemy creatures equal to your level, to a maximum of nine creatures.
+_Bad luck_ decreases your enemies’ chances to hit your fellow adventurers. They receive a luck penalty of -1 to their attack rolls, and a -1 luck penalty to Reflex Defense. You may target a number of enemy creatures equal to your level, to a maximum of nine creatures.
 
 _Material Component_: a small shard of a glass mirror, thrown at the target.

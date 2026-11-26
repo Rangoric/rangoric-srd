@@ -16,7 +16,7 @@ casting-time: "1 round"
 range: "10 ft."
 area: "10-ft.-radius emanation centered on you"
 duration: "1 minute/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 book: "Advanced Class Guide"
 based-on:
@@ -37,7 +37,7 @@ _Abjuration_
 - **Range**: 10 ft.
 - **Area**: 10-ft.-radius emanation centered on you
 - **Duration**: 1 minute/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 You bring into being a mobile, hemispherical energy field that incorporeal creatures cannot enter.

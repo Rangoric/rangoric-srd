@@ -19,7 +19,7 @@ casting-time: "1 standard action"
 range: "Long (400 ft. + 40 ft./level)"
 area: "Cylinder (40-ft. radius, 20 ft. high)"
 duration: "1 round/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Ultimate Magic"
 based-on:
@@ -40,7 +40,7 @@ _Conjuration (Creation) \[Fire\]_
 - **Range**: Long (400 ft. + 40 ft./level)
 - **Area**: Cylinder (40-ft. radius, 20 ft. high)
 - **Duration**: 1 round/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 Driving ash blocks all sight (even darkvision) within the spell's area of effect, and falling cinders cause the ground in the area to become difficult terrain.

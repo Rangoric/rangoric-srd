@@ -19,7 +19,7 @@ casting-time: "1 round"
 range: "Touch"
 target: "One willing undead creature touched"
 duration: "Caster level hour(s)"
-saving-throw: "Will disbelief or Will negates (see text)"
+defense: "Will disbelief or Will (see text)"
 spell-resistance: "No"
 book: "Villain Codex"
 based-on:
@@ -40,7 +40,7 @@ _Illusion (Glamer)_
 - **Range**: Touch
 - **Target**: One willing undead creature touched
 - **Duration**: Caster level hour(s)
-- **Saving Throw**: Will disbelief or Will negates (see text)
+- **Defense**: Will disbelief or Will (see text)
 - **Spell Resistance**: No
 
-This spell functions as _appearance of life_, except that you can disguise a single undead creature regardless of its number of Hit Dice, and the illusion also creates relevant smells, sounds, textures, and temperatures to match the appearance. If you disguise the target as a living version of itself, creatures that interact with the target take a -5 penalty on their Will saving throws to disbelieve the illusion, though if the target attacks a creature, the attacked creature no longer takes this penalty.
+This spell functions as _appearance of life_, except that you can disguise a single undead creature regardless of its number of Hit Dice, and the illusion also creates relevant smells, sounds, textures, and temperatures to match the appearance. If you disguise the target as a living version of itself, creatures that interact with the target take a -5 penalty to their Will Defense against the illusion’s attack to make them believe it, though if the target attacks a creature, the attacked creature no longer takes this penalty.

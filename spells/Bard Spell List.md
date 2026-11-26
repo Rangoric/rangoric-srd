@@ -15,30 +15,30 @@ tags: [rangoric, rangoric/overview]
 
 ##### 0-Level Bard Spells (Cantrips)
 
-| Spell Name                                                      | Brief Description                                                                                                  |
-| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| [[rangoric-srd/spells/Dancing Lights\|Dancing Lights]]:         | Creates torches or other lights.                                                                                   |
-| [[rangoric-srd/spells/Daze\|Daze]]:                             | Humanoid creature of 4 HD or less loses next action.                                                               |
-| [[rangoric-srd/spells/Detect Doorway\|Detect Doorway]] (F):     | Senses the direction of doorways within 1 mile.                                                                    |
-| [[rangoric-srd/spells/Detect Magic\|Detect Magic]]:             | Detects spells and magic items within 60 ft.                                                                       |
-| [[rangoric-srd/spells/Flare\|Flare]]:                           | Dazzles one creature (–1 on attack rolls).                                                                         |
-| [[rangoric-srd/spells/Ghost Sound\|Ghost Sound]]:               | Figment sounds.                                                                                                    |
-| [[rangoric-srd/spells/Haunted Fey Aspect\|Haunted Fey Aspect]]: | You surround yourself with disturbing illusions.                                                                   |
-| [[rangoric-srd/spells/Know Direction\|Know Direction]]:         | You discern north.                                                                                                 |
-| [[rangoric-srd/spells/Light\|Light]]:                           | Object shines like a torch.                                                                                        |
-| [[rangoric-srd/spells/Lullaby\|Lullaby]]:                       | Makes subject drowsy; –5 on [[rangoric-srd/skills/Perception\|Perception]] checks, –2 on Will saves against sleep. |
-| [[rangoric-srd/spells/Mage Hand\|Mage Hand]]:                   | 5-pound telekinesis.                                                                                               |
-| [[rangoric-srd/spells/Mending\|Mending]]:                       | Makes minor repairs on an object.                                                                                  |
-| [[rangoric-srd/spells/Message\|Message]]:                       | Whispered conversation at distance.                                                                                |
-| [[rangoric-srd/spells/Spells M to O\|Open/Close]]:              | Opens or closes small or light things.                                                                             |
-| [[rangoric-srd/spells/Prestidigitation\|Prestidigitation]]:     | Performs minor tricks.                                                                                             |
-| [[rangoric-srd/spells/Read Magic\|Read Magic]]:                 | Read scrolls and spellbooks.                                                                                       |
-| [[rangoric-srd/spells/Resistance\|Resistance]]:                 | Subject gains +1 on saving throws.                                                                                 |
-| [[rangoric-srd/spells/Sift\|Sift]]:                             | See area as though examining it.                                                                                   |
-| [[rangoric-srd/spells/Snooze\|Snooze]]:                         | As sleep, but one creature of up to 1d4 HD.                                                                        |
-| [[rangoric-srd/spells/Spark\|Spark]]:                           | Ignites flammable objects.                                                                                         |
-| [[rangoric-srd/spells/Summon Instrument\|Summon Instrument]]:   | Summons one instrument of the caster’s choice.                                                                     |
-| [[rangoric-srd/spells/Unwitting Ally\|Unwitting Ally]]:         | Subject is considered ally for 1 round.                                                                            |
+| Spell Name                                                      | Brief Description                                                                                                    |
+| --------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| [[rangoric-srd/spells/Dancing Lights\|Dancing Lights]]:         | Creates torches or other lights.                                                                                     |
+| [[rangoric-srd/spells/Daze\|Daze]]:                             | Humanoid creature of 4 HD or less loses next action.                                                                 |
+| [[rangoric-srd/spells/Detect Doorway\|Detect Doorway]] (F):     | Senses the direction of doorways within 1 mile.                                                                      |
+| [[rangoric-srd/spells/Detect Magic\|Detect Magic]]:             | Detects spells and magic items within 60 ft.                                                                         |
+| [[rangoric-srd/spells/Flare\|Flare]]:                           | Dazzles one creature (–1 on attack rolls).                                                                           |
+| [[rangoric-srd/spells/Ghost Sound\|Ghost Sound]]:               | Figment sounds.                                                                                                      |
+| [[rangoric-srd/spells/Haunted Fey Aspect\|Haunted Fey Aspect]]: | You surround yourself with disturbing illusions.                                                                     |
+| [[rangoric-srd/spells/Know Direction\|Know Direction]]:         | You discern north.                                                                                                   |
+| [[rangoric-srd/spells/Light\|Light]]:                           | Object shines like a torch.                                                                                          |
+| [[rangoric-srd/spells/Lullaby\|Lullaby]]:                       | Makes subject drowsy; –5 on [[rangoric-srd/skills/Perception\|Perception]] checks, –2 on Will Defense against sleep. |
+| [[rangoric-srd/spells/Mage Hand\|Mage Hand]]:                   | 5-pound telekinesis.                                                                                                 |
+| [[rangoric-srd/spells/Mending\|Mending]]:                       | Makes minor repairs on an object.                                                                                    |
+| [[rangoric-srd/spells/Message\|Message]]:                       | Whispered conversation at distance.                                                                                  |
+| [[rangoric-srd/spells/Spells M to O\|Open/Close]]:              | Opens or closes small or light things.                                                                               |
+| [[rangoric-srd/spells/Prestidigitation\|Prestidigitation]]:     | Performs minor tricks.                                                                                               |
+| [[rangoric-srd/spells/Read Magic\|Read Magic]]:                 | Read scrolls and spellbooks.                                                                                         |
+| [[rangoric-srd/spells/Resistance\|Resistance]]:                 | Subject gains +1 on defenses.                                                                                        |
+| [[rangoric-srd/spells/Sift\|Sift]]:                             | See area as though examining it.                                                                                     |
+| [[rangoric-srd/spells/Snooze\|Snooze]]:                         | As sleep, but one creature of up to 1d4 HD.                                                                          |
+| [[rangoric-srd/spells/Spark\|Spark]]:                           | Ignites flammable objects.                                                                                           |
+| [[rangoric-srd/spells/Summon Instrument\|Summon Instrument]]:   | Summons one instrument of the caster’s choice.                                                                       |
+| [[rangoric-srd/spells/Unwitting Ally\|Unwitting Ally]]:         | Subject is considered ally for 1 round.                                                                              |
 
 ##### 1st-Level Bard Spells
 
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Anticipate Peril\|Anticipate Peril]]:                     | Target gains a bonus on one initiative check.                                                                                |
 | [[rangoric-srd/spells/Aphasia\|Aphasia]]:                                       | Prevent a target from understanding language.                                                                                |
 | [[rangoric-srd/spells/Auditory Hallucination\|Auditory Hallucination]]:         | Create a phantasm with auditory effects.                                                                                     |
-| [[rangoric-srd/spells/Bad Luck\|Bad Luck]] (F):                                 | Enemies take −1 on attack rolls and Reflex saves.                                                                            |
+| [[rangoric-srd/spells/Bad Luck\|Bad Luck]] (F):                                 | Enemies take −1 on attack rolls and Reflex Defense.                                                                          |
 | [[rangoric-srd/spells/Beguiling Gift\|Beguiling Gift]] (F):                     | Subject immediately accepts an offered item and uses it.                                                                     |
 | [[rangoric-srd/spells/Blurred Movement\|Blurred Movement]]:                     | As blur, but only while you are moving.                                                                                      |
 | [[rangoric-srd/spells/Borrow Skill\|Borrow Skill]]:                             | Make a skill check using another's ranks.                                                                                    |
@@ -92,7 +92,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Fumbletongue\|Fumbletongue]]:                             | Target cannot speak intelligently.                                                                                           |
 | [[rangoric-srd/spells/Glimmer Warning\|Glimmer Warning]]:                       | Caster glows when targeted by a spell.                                                                                       |
 | [[rangoric-srd/spells/Glue Seal\|Glue Seal]]:                                   | Makes one 5-ft.-square or one object sticky.                                                                                 |
-| [[rangoric-srd/spells/Good Luck\|Good Luck]] (F):                               | Allies gain +1 on attack rolls and Reflex saves.                                                                             |
+| [[rangoric-srd/spells/Good Luck\|Good Luck]] (F):                               | Allies gain +1 on attack rolls and Reflex Defense.                                                                           |
 | [[rangoric-srd/spells/Grease\|Grease]]:                                         | Makes 10-ft. square or one object slippery.                                                                                  |
 | [[rangoric-srd/spells/Heightened Awareness\|Heightened Awareness]] (M):         | Your recall and ability to process information improve.                                                                      |
 | [[rangoric-srd/spells/Hide Bruises\|Hide Bruises]] (M):                         | Disguise a creature's injuries, making them more difficult to heal                                                           |
@@ -126,9 +126,9 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Play Instrument\|Play Instrument]]:                       | Play instrument as if you were skilled.                                                                                      |
 | [[rangoric-srd/spells/Quintessence (Spell)\|Quintessence]]:                     | Mask any flaws of or damage to a creature or object.                                                                         |
 | [[rangoric-srd/spells/Recharge Innate Magic\|Recharge Innate Magic]]:           | You channel magic energy into your own aura, recharging your innate magic abilities.                                         |
-| [[rangoric-srd/spells/Remove Fear\|Remove Fear]]:                               | Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.                                     |
+| [[rangoric-srd/spells/Remove Fear\|Remove Fear]]:                               | Suppresses fear or gives +4 on defenses against fear for one subject + one per four levels.                                  |
 | [[rangoric-srd/spells/Restful Sleep\|Restful Sleep]] (M):                       | Gain more hit points while sleeping.                                                                                         |
-| [[rangoric-srd/spells/Saving Finale\|Saving Finale]]:                           | Subject rerolls failed saving throw.                                                                                         |
+| [[rangoric-srd/spells/Saving Finale\|Saving Finale]]:                           | Subject makes an attack that hit it reroll.                                                                                  |
 | [[rangoric-srd/spells/See Alignment\|See Alignment]] (M):                       | Pick an alignment; in your sight, creatures and items with that alignment emit a ghostly radiance.                           |
 | [[rangoric-srd/spells/Share Language\|Share Language]] (M):                     | Subject understands chosen language.                                                                                         |
 | [[rangoric-srd/spells/Silent Image\|Silent Image]]:                             | Creates minor illusion of your design.                                                                                       |
@@ -146,7 +146,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Unchained Melody\|Unchained Melody]]:                     | Subject cannot get tune out of their head.                                                                                   |
 | [[rangoric-srd/spells/Undetectable Alignment\|Undetectable Alignment]]:         | Conceals alignment for 24 hours.                                                                                             |
 | [[rangoric-srd/spells/Unnatural Lust\|Unnatural Lust]]:                         | Target is compelled to kiss or caress another.                                                                               |
-| [[rangoric-srd/spells/Unprepared Combatant\|Unprepared Combatant]]:             | Target takes -4 on initiative and Reflex saves.                                                                              |
+| [[rangoric-srd/spells/Unprepared Combatant\|Unprepared Combatant]]:             | Target takes -4 on initiative and Reflex Defense.                                                                            |
 | [[rangoric-srd/spells/Unseen Servant\|Unseen Servant]]:                         | Invisible force obeys your commands.                                                                                         |
 | [[rangoric-srd/spells/Urban Grace\|Urban Grace]]:                               | You become one with the city around you, allowing you to move more easily through its crowds and buildings.                  |
 | [[rangoric-srd/spells/Vanish\|Vanish]]:                                         | As invisibility for 1 round/level (5 max).                                                                                   |
@@ -230,9 +230,9 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Ghostly Disguise\|Ghostly Disguise]]:                       | You look like a ghost of yourself.                                                                                                                                |
 | [[rangoric-srd/spells/Glitterdust\|Glitterdust]]:                                 | Blinds creatures, outlines invisible creatures.                                                                                                                   |
 | [[rangoric-srd/spells/Haunting Mists\|Haunting Mists]]:                           | Creatures are shaken and take Wis damage.                                                                                                                         |
-| [[rangoric-srd/spells/Heightened Reflexes\|Heightened Reflexes]]:                 | Each ally in area gains a +10 bonus on one Reflex save.                                                                                                           |
+| [[rangoric-srd/spells/Heightened Reflexes\|Heightened Reflexes]]:                 | Each ally in area gains a +10 bonus to Reflex Defense against one attack.                                                                                         |
 | [[rangoric-srd/spells/Heroic Fortune\|Heroic Fortune]] (M):                       | Grants one hero point to a character                                                                                                                              |
-| [[rangoric-srd/spells/Heroism\|Heroism]]:                                         | Gives +2 on attack rolls, saves, skill checks.                                                                                                                    |
+| [[rangoric-srd/spells/Heroism\|Heroism]]:                                         | Gives +2 on attack rolls, defenses, skill checks.                                                                                                                 |
 | [[rangoric-srd/spells/Hidden Presence\|Hidden Presence]] (M):                     | Prevent creatures from noticing your presence.                                                                                                                    |
 | [[rangoric-srd/spells/Hidden Speech\|Hidden Speech]] (M):                         | Gain +10 on Deception to send secret messages.                                                                                                                    |
 | [[rangoric-srd/spells/Hold Person\|Hold Person]]:                                 | Paralyzes one humanoid for 1 round/level.                                                                                                                         |
@@ -264,7 +264,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Psychic Reading\|Psychic Reading]]:                         | Read surface thoughts to learn information about a subject.                                                                                                       |
 | [[rangoric-srd/spells/Pyrotechnics\|Pyrotechnics]]:                               | Turns fire into [[rangoric-srd/rules/Special Abilities and Conditions#^blinded\|blinding]] light or choking smoke.                                                |
 | [[rangoric-srd/spells/Qualm\|Qualm]]:                                             | Target gains penalties on ability checks, skill checks, and concentration checks until it spends an entire round doing nothing.                                   |
-| [[rangoric-srd/spells/Rage\|Rage]]:                                               | Gives +2 to Str and Con, +1 on Will saves, –2 to AC.                                                                                                              |
+| [[rangoric-srd/spells/Rage\|Rage]]:                                               | Gives +2 to Str and Con, +1 on Will Defense, –2 to AC.                                                                                                            |
 | [[rangoric-srd/spells/Reckless Infatuation\|Reckless Infatuation]]:               | Target is compelled to stay near another.                                                                                                                         |
 | [[rangoric-srd/spells/Refracted Vision\|Refracted Vision]]:                       | Gain a distant viewpoint.                                                                                                                                         |
 | [[rangoric-srd/spells/Reinvigorating Wind\|Reinvigorating Wind]] (M):             | Magical wind invigorates your allies                                                                                                                              |
@@ -322,7 +322,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Conjure Carriage\|Conjure Carriage]] (M):                 | Create a fine carriage.                                                                                                                           |
 | [[rangoric-srd/spells/Control Summoned Creature\|Control Summoned Creature]]:   | Direct a summoned monster as if you had summoned it.                                                                                              |
 | [[rangoric-srd/spells/Coordinated Effort\|Coordinated Effort]]:                 | Grants allies a teamwork feat.                                                                                                                    |
-| [[rangoric-srd/spells/Crushing Despair\|Crushing Despair]]:                     | Subjects take –2 on attack rolls, damage rolls, saves, and checks.                                                                                |
+| [[rangoric-srd/spells/Crushing Despair\|Crushing Despair]]:                     | Subjects take –2 on attack rolls, damage rolls, defenses, and checks.                                                                             |
 | [[rangoric-srd/spells/Cure Serious Wounds\|Cure Serious Wounds]]:               | Cures 3d8 damage +1/level (max +15).                                                                                                              |
 | [[rangoric-srd/spells/Curse of Disgust\|Curse of Disgust]]:                     | Target is sickened while viewing trigger.                                                                                                         |
 | [[rangoric-srd/spells/Daylight\|Daylight]]:                                     | 60-ft. radius of bright light.                                                                                                                    |
@@ -347,9 +347,9 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Geas, Lesser\|Geas, Lesser]]:                             | Commands subject of 7 HD or less.                                                                                                                 |
 | [[rangoric-srd/spells/Geomessage\|Geomessage]] (M):                             | Leave a message hidden on a surface                                                                                                               |
 | [[rangoric-srd/spells/Glibness\|Glibness]]:                                     | You gain +30 bonus on [[rangoric-srd/skills/Deception\|Deception]] checks, and your lies can escape magical discernment.                          |
-| [[rangoric-srd/spells/Good Hope\|Good Hope]]:                                   | Subjects gain +2 on attack rolls, damage rolls, saves, and checks.                                                                                |
+| [[rangoric-srd/spells/Good Hope\|Good Hope]]:                                   | Subjects gain +2 on attack rolls, damage rolls, defenses, and checks.                                                                             |
 | [[rangoric-srd/spells/Hairbelly Rhyme\|Hairbelly Rhyme]] (M):                   | Give temporary Half-orc traits to a subject.                                                                                                      |
-| [[rangoric-srd/spells/Haste\|Haste]]:                                           | One creature/level moves faster, +1 on attack rolls, AC, and Reflex saves.                                                                        |
+| [[rangoric-srd/spells/Haste\|Haste]]:                                           | One creature/level moves faster, +1 on attack rolls, AC, and Reflex Defense.                                                                      |
 | [[rangoric-srd/spells/Haunting Choir\|Haunting Choir]]:                         | Spirits cause wracking pain to listeners.                                                                                                         |
 | [[rangoric-srd/spells/Hillsong\|Hillsong]] (M):                                 | Give temporary Halfling traits to a subject.                                                                                                      |
 | [[rangoric-srd/spells/Hollow Heroism\|Hollow Heroism]]:                         | Provide a heroism effect that you can reverse at any time                                                                                         |
@@ -389,7 +389,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Seek Thoughts\|Seek Thoughts]] (M):                       | Detects thinking creatures' thoughts.                                                                                                             |
 | [[rangoric-srd/spells/Selective Alarm\|Selective Alarm]] (F):                   | As alarm, but only against selected creatures.                                                                                                    |
 | [[rangoric-srd/spells/Sepia Snake Sigil\|Sepia Snake Sigil]] (M):               | Creates text symbol that immobilizes reader.                                                                                                      |
-| [[rangoric-srd/spells/Slow\|Slow]]:                                             | One subject/level takes only one action/round, –1 to AC, reflex saves, and attack rolls.                                                          |
+| [[rangoric-srd/spells/Slow\|Slow]]:                                             | One subject/level takes only one action/round, –1 to AC, Reflex Defense, and attack rolls.                                                        |
 | [[rangoric-srd/spells/Smug Narcissism\|Smug Narcissism]] (M):                   | Target is distracted by its sense of self.                                                                                                        |
 | [[rangoric-srd/spells/Speak with Animals\|Speak with Animals]]:                 | You can communicate with animals.                                                                                                                 |
 | [[rangoric-srd/spells/Stonedigger Chant\|Stonedigger Chant]] (M):               | Give temporary Dwarf traits to a subject.                                                                                                         |
@@ -512,7 +512,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Foe to Friend\|Foe to Friend]]:                       | Redirect an enemy creature's attack.                                                                                                                                                             |
 | [[rangoric-srd/spells/Frozen Note\|Frozen Note]]:                           | Paralyzes creatures listening to your song.                                                                                                                                                      |
 | [[rangoric-srd/spells/Gaze Trigger\|Gaze Trigger]]:                         | Casts a spell readied within a magic mirror.                                                                                                                                                     |
-| [[rangoric-srd/spells/Heroism, Greater\|Heroism, Greater]]:                 | Gives +4 bonus on attack rolls, saves, skill checks; immunity to fear; temporary hp.                                                                                                             |
+| [[rangoric-srd/spells/Heroism, Greater\|Heroism, Greater]]:                 | Gives +4 bonus on attack rolls, defenses, skill checks; immunity to fear; temporary hp.                                                                                                          |
 | [[rangoric-srd/spells/Joyful Rapture\|Joyful Rapture]]:                     | Negate harmful emotions.                                                                                                                                                                         |
 | [[rangoric-srd/spells/Ki Shout\|Ki Shout]]:                                 | Target takes 1d6 sonic/level and is stunned.                                                                                                                                                     |
 | [[rangoric-srd/spells/Litany of the Lost\|Litany of the Lost]]:             | Improves morale of troops in battle.                                                                                                                                                             |
