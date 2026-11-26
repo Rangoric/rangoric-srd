@@ -16,7 +16,7 @@ full-attack: "Quarterstaff +2 melee (1d6–1)"
 space-reach: "5 ft./5 ft."
 special-attacks: "+1 on attack rolls against goblinoid and orc humanoids"
 special-qualities: "Darkvision 60 ft., defensive training (+4 dodge bonus to AC vs. giants), summon familiar (rat)"
-saves: "Fort +7, Ref +2, Will +8 (+2 vs. poison, spells, and spell-like abilities)"
+defenses: "Fort 17, Ref 12, Will 18 (+2 vs. poison, spells, and spell-like abilities)"
 abilities: "Str 8, Dex 10, Con 12, Int 9, Wis 16, Cha 10"
 skills: "Persuasion +6, Theology +11"
 skill-ranks: "Persuasion 3, Theology 9"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/races/Dwarf|+1 on attack rolls against goblinoid and orc humanoids]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/races/Dwarf#^defensive-training|defensive training]] (+4 dodge bonus to AC vs. giants), [[rangoric-srd/classes/Adept|summon familiar]] (rat)
-- **Saves**: Fort +7, Ref +2, Will +8 (+2 vs. poison, spells, and spell-like abilities)
+- **Defenses**: Fort 17, Ref 12, Will 18 (+2 vs. poison, spells, and spell-like abilities)
 - **Abilities**: Str 8, Dex 10, Con 12, Int 9, Wis 16, Cha 10
 - **Skills**: [[rangoric-srd/skills/Persuasion|Persuasion]] +6, [[rangoric-srd/skills/Theology|Theology]] +11
 - **Feats**: [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Knowledge \[religion\])

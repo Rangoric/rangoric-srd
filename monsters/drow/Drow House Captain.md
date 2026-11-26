@@ -16,7 +16,7 @@ full-attack: "+1 longsword +12/+7 melee (1d8+6/19–20 plus poison); or masterwo
 space-reach: "5 ft./5 ft."
 special-attacks: "Weapon training (heavy blades +1), poison, spell-like abilities"
 special-qualities: "Darkvision 120 ft., bravery +2, armor training 2, poison use, immunity to sleep, spell resistance 13, light blindness"
-saves: "Fort +5, Ref +6, Will +3 (+2 vs. fear); +2 vs. enchantment)"
+defenses: "Fort 15, Ref 16, Will 13 (+2 vs. fear); +2 vs. enchantment)"
 abilities: "Str 14, Dex 18, Con 11, Int 10, Wis 12, Cha 10"
 skills: "Athletics +5, Perception +8, Sense Motive +3, Stealth +12"
 skill-ranks: "Athletics 3, Perception 4, Sense Motive 2, Stealth 5"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Fighter#^fighter-weapon-training|Weapon training]] (heavy blades +1), [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +2, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 2, [[rangoric-srd/races/racial-traits/Poison Use|poison use]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 13, [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]]
-- **Saves**: Fort +5, Ref +6, Will +3 (+2 vs. fear); +2 vs. enchantment)
+- **Defenses**: Fort 15, Ref 16, Will 13 (+2 vs. fear); +2 vs. enchantment)
 - **Abilities**: Str 14, Dex 18, Con 11, Int 10, Wis 12, Cha 10
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +3, [[rangoric-srd/skills/Stealth|Stealth]] +12
 - **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Exotic Weapon Proficiency|Exotic Weapon Proficiency]] (heavy repeating crossbow), [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longsword), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (longsword)
@@ -69,6 +69,6 @@ A drow house captain speaks Elven and Undercommon.
 
 ### Combat
 
-A drow house captain’s poisoned weapons carry [[rangoric-srd/rules/afflictions/Drow Poison|drow poison]] (Fortitude DC 13).
+A drow house captain’s poisoned weapons carry [[rangoric-srd/rules/afflictions/Drow Poison|drow poison]] (+3 vs Fortitude).
 
 **[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 7th; concentration +7): 1/day—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Darkness|darkness]]_, _[[rangoric-srd/spells/Faerie Fire|faerie fire]]_.

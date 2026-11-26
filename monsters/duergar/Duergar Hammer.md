@@ -14,9 +14,9 @@ cmd: "33 (37 vs. bull rush or trip)"
 attack: "Unarmed strike +14 melee (2d6+2) or unarmed strike flurry of blows +15 melee (2d6+2) or +2 shuriken +16 ranged (1d2+4) or +2 shuriken flurry of blows +17 ranged (1d2+4)"
 full-attack: "Unarmed strike +14/+9 melee (2d6+2); or unarmed strike flurry of blows +15/+15/+10/+10/+5 melee (2d6+2); or +2 shuriken +16/+11 ranged (1d2+4); or +2 shuriken flurry of blows +17/+17/+12/+12/+7 ranged (1d2+4)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Flurry of blows, stunning fist (12/day, DC 18), spell-like abilities"
+special-attacks: "Flurry of blows, stunning fist (12/day, +8 vs Fortitude), spell-like abilities"
 special-qualities: "Darkvision 120 ft., improved evasion, born in darkness, earth glide, fade from sight, fast movement, gray heart, ki pool (10 points, cold iron, lawful, magic), maneuver training, slow and steady, stability, immunity to disease, paralysis, phantasms and poison, light sensitivity"
-saves: "Fort +11, Ref +14, Will +11 (+2 vs. spells)"
+defenses: "Fort 21, Ref 24, Will 21 (+2 vs. spells)"
 abilities: "Str 14, Dex 20, Con 14, Int 10, Wis 15, Cha 4"
 skills: "Acrobatics +20, Athletics +2 (+14 jumping), Escape Artist +20, Perception +17, Stealth +20"
 skill-ranks: "Acrobatics 12, Athletics 0, Escape Artist 12, Perception 12, Stealth 12"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +14 melee (2d6+2) or unarmed strike flurry of blows +15 melee (2d6+2) or +2 [[rangoric-srd/equipment/weapons/Shuriken|shuriken]] +16 ranged (1d2+4) or +2 shuriken flurry of blows +17 ranged (1d2+4)
 - **Full Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +14/+9 melee (2d6+2); or unarmed strike flurry of blows +15/+15/+10/+10/+5 melee (2d6+2); or +2 [[rangoric-srd/equipment/weapons/Shuriken|shuriken]] +16/+11 ranged (1d2+4); or +2 shuriken flurry of blows +17/+17/+12/+12/+7 ranged (1d2+4)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/classes/Monk#^monk-flurry-of-blows|Flurry of blows]], [[rangoric-srd/classes/Monk#^monk-stunning-fist|stunning fist]] (12/day, DC 18), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Attacks**: [[rangoric-srd/classes/Monk#^monk-flurry-of-blows|Flurry of blows]], [[rangoric-srd/classes/Monk#^monk-stunning-fist|stunning fist]] (12/day, +8 vs Fortitude), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/classes/Monk#^monk-improved-evasion|improved evasion]], born in darkness, [[rangoric-srd/monsters/abilities/Earth Glide|earth glide]], fade from sight, [[rangoric-srd/classes/Monk#^monk-fast-movement|fast movement]], gray heart, [[rangoric-srd/classes/Monk#^monk-ki-pool|ki pool]] (10 points, cold iron, lawful, magic), [[rangoric-srd/classes/Monk#^monk-maneuver-training|maneuver training]], slow and steady, stability, immunity to disease, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]], phantasms and poison, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
-- **Saves**: Fort +11, Ref +14, Will +11 (+2 vs. spells)
+- **Defenses**: Fort 21, Ref 24, Will 21 (+2 vs. spells)
 - **Abilities**: Str 14, Dex 20, Con 14, Int 10, Wis 15, Cha 4
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +20, [[rangoric-srd/skills/Athletics|Athletics]] +2 (+14 jumping), [[rangoric-srd/skills/Escape Artist|Escape Artist]] +20, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +20
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Gray Dwarf Magic|Gray Dwarf Magic]] (ironskin), [[rangoric-srd/feats/Extra Ki|Extra Ki]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Innate Flexibility|Innate Flexibility]] (2), [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Stunning Fist|Stunning Fist]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]

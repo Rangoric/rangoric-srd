@@ -16,7 +16,7 @@ full-attack: "Bite +10 melee (1d3–1) and tail slap +5 melee (1d3–1)"
 space-reach: "2-1/2 ft./0 ft. (5 ft. with tail)"
 special-attacks: "Stygian breath"
 special-qualities: "Darkvision 60 ft., low-light vision, shadow blend, speed surge, immunity to cold, paralysis and sleep, light sensitivity, vulnerable to fire"
-saves: "Fort +4, Ref +8, Will +4"
+defenses: "Fort 14, Ref 18, Will 14"
 abilities: "Str 9, Dex 20, Con 12, Int 11, Wis 12, Cha 16"
 skills: "Acrobatics +23, Athletics –1 (–20 jumping), Engineering +8, Perception +7, Sleight of Hand +8, Stealth +19"
 skill-ranks: "Acrobatics 11, Athletics 0, Engineering 3, Perception 3, Sleight of Hand 3, Stealth 3"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft. (5 ft. with tail)
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Stygian Breath|Stygian breath]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Shadow Blend|shadow blend]], [[rangoric-srd/monsters/abilities/Speed Surge|speed surge]], immunity to cold, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] and sleep, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]], vulnerable to fire
-- **Saves**: Fort +4, Ref +8, Will +4
+- **Defenses**: Fort 14, Ref 18, Will 14
 - **Abilities**: Str 9, Dex 20, Con 12, Int 11, Wis 12, Cha 16
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +23, [[rangoric-srd/skills/Athletics|Athletics]] –1 (–20 jumping), [[rangoric-srd/skills/Engineering|Engineering]] +8, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +19
 - **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -77,4 +77,4 @@ Shadow drakes speak Common and Draconic.
 
 **[[rangoric-srd/monsters/abilities/Speed Surge|Speed Surge]] (Ex)**: Three times per day as a swift action, a shadow drake may draw on its draconic heritage for a boost of strength and speed to take an additional move action in that round.
 
-**[[rangoric-srd/monsters/abilities/Stygian Breath|Stygian Breath]] (Su)**: As a standard action, a shadow drake can exhale a ball of black liquid that explodes into a cloud of frigid black mist. This attack has a range of 60 feet and deals 2d6 points of cold damage (Reflex DC 12 half) to all creatures within a 5-foot-radius spread. The mist snuffs out light sources in the area effect, extinguishing nonmagical light sources and dispelling light spells of 1st level or lower. Once a shadow drake has used its stygian breath, it cannot do so again for 1d6 rounds. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Stygian Breath|Stygian Breath]] (Su)**: As a standard action, a shadow drake can exhale a ball of black liquid that explodes into a cloud of frigid black mist. This attack has a range of 60 feet and deals 2d6 points of cold damage (+2 vs Reflex; a miss halves) to all creatures within a 5-foot-radius spread. The mist snuffs out light sources in the area effect, extinguishing nonmagical light sources and dispelling light spells of 1st level or lower. Once a shadow drake has used its stygian breath, it cannot do so again for 1d6 rounds. The attack bonus is Constitution-based.

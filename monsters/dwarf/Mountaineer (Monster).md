@@ -16,7 +16,7 @@ full-attack: "+1 warhammer +9/+4 melee (1d8+6/×3) and masterwork heavy shield +
 space-reach: "5 ft./5 ft."
 special-attacks: "+1 on attack rolls against goblinoid and orc humanoids, favored enemy (giants +2, humans +4)"
 special-qualities: "Defensive training (+4 dodge bonus to AC vs. giants), favored terrain (mountain +2), hunter's bond (companions), track +3, wild empathy +5, woodland stride, resistance to fire 10"
-saves: "Fort +8, Ref +8, Will +5 (+2 vs. poison, spells, and spell-like abilities)"
+defenses: "Fort 18, Ref 18, Will 15 (+2 vs. poison, spells, and spell-like abilities)"
 abilities: "Str 20, Dex 14, Con 14, Int 10, Wis 15, Cha 6"
 skills: "Athletics +11, Dungeoneering +8, Fieldcraft +10, Investigation +0 (+2 to notice unusual stonework), Nature +8, Perception +12, Profession (miner) +8, Society +8, Stealth +6"
 skill-ranks: "Athletics 3, Dungeoneering 5, Fieldcraft 5, Nature 5, Perception 7, Profession (miner) 5, Society 5, Stealth 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/races/Dwarf|+1 on attack rolls against goblinoid and orc humanoids]], [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemy]] (giants +2, humans +4)
 - **Special Qualities**: [[rangoric-srd/races/Dwarf#^defensive-training|Defensive training]] (+4 dodge bonus to AC vs. giants), [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|favored terrain]] (mountain +2), [[rangoric-srd/classes/Ranger#^ranger-hunters-bond|hunter's bond]] (companions), [[rangoric-srd/classes/Ranger#^ranger-track|track]] +3, [[rangoric-srd/classes/Ranger#^ranger-wild-empathy|wild empathy]] +5, [[rangoric-srd/classes/Ranger#^ranger-woodland-stride|woodland stride]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10
-- **Saves**: Fort +8, Ref +8, Will +5 (+2 vs. poison, spells, and spell-like abilities)
+- **Defenses**: Fort 18, Ref 18, Will 15 (+2 vs. poison, spells, and spell-like abilities)
 - **Abilities**: Str 20, Dex 14, Con 14, Int 10, Wis 15, Cha 6
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Investigation|Investigation]] +0 (+2 to notice unusual stonework), [[rangoric-srd/skills/Nature|Nature]] +8, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Profession|Profession]] (miner) +8, [[rangoric-srd/skills/Society|Society]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +6
 - **Feats**: [[rangoric-srd/feats/Double Slice|Double Slice]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Improved Shield Bash|Improved Shield Bash]], [[rangoric-srd/feats/Improved Two-Weapon Fighting|Improved Two-Weapon Fighting]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Shield Slam|Shield Slam]], [[rangoric-srd/feats/Track|Track]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]]

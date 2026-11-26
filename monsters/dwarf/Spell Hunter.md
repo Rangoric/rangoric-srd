@@ -16,7 +16,7 @@ full-attack: "Masterwork cold iron dwarven waraxe +14/+9 melee (1d10+9/×3); or 
 space-reach: "5 ft./5 ft."
 special-attacks: "+1 on attack rolls against goblinoid and orc humanoids, weapon training (axes +1)"
 special-qualities: "Bravery +2, defensive training (+4 dodge bonus to AC vs. giants), armor training 2"
-saves: "Fort +9, Ref +5, Will +5 (+2 vs. poison, spells, and spell-like abilities; +2 vs. fear)"
+defenses: "Fort 19, Ref 15, Will 15 (+2 vs. poison, spells, and spell-like abilities; +2 vs. fear)"
 abilities: "Str 19, Dex 14, Con 16, Int 10, Wis 14, Cha 6"
 skills: "Athletics +10, Fieldcraft +10, Intimidation +8, Investigation +0 (+2 to notice unusual stonework), Perception +5"
 skill-ranks: "Athletics 3, Fieldcraft 5, Intimidation 7, Perception 3"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/races/Dwarf|+1 on attack rolls against goblinoid and orc humanoids]], [[rangoric-srd/classes/Fighter#^fighter-weapon-training|weapon training]] (axes +1)
 - **Special Qualities**: [[rangoric-srd/classes/Fighter#^fighter-bravery|Bravery]] +2, [[rangoric-srd/races/Dwarf#^defensive-training|defensive training]] (+4 dodge bonus to AC vs. giants), [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 2
-- **Saves**: Fort +9, Ref +5, Will +5 (+2 vs. poison, spells, and spell-like abilities; +2 vs. fear)
+- **Defenses**: Fort 19, Ref 15, Will 15 (+2 vs. poison, spells, and spell-like abilities; +2 vs. fear)
 - **Abilities**: Str 19, Dex 14, Con 16, Int 10, Wis 14, Cha 6
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Investigation|Investigation]] +0 (+2 to notice unusual stonework), [[rangoric-srd/skills/Perception|Perception]] +5
 - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Disruptive|Disruptive]], [[rangoric-srd/feats/Greater Bull Rush|Greater Bull Rush]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (dwarven waraxe), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (dwarven waraxe)

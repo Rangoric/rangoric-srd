@@ -16,7 +16,7 @@ full-attack: "Bite +7 melee (2d4+3) and tail slap +2 melee (1d4+1)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Caustic mucus, pounce"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, amphibious, speed surge, immunity to paralysis and sleep, resistance to acid 20"
-saves: "Fort +6, Ref +7, Will +4"
+defenses: "Fort 16, Ref 17, Will 14"
 abilities: "Str 17, Dex 16, Con 15, Int 8, Wis 10, Cha 9"
 skills: "Acrobatics +10, Athletics +11, Fieldcraft +7, Intimidation +6, Perception +7, Stealth +10"
 skill-ranks: "Acrobatics 4, Athletics 5, Fieldcraft 4, Intimidation 4, Perception 4, Stealth 4"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Caustic Mucus|Caustic mucus]], [[rangoric-srd/monsters/abilities/Pounce|pounce]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Speed Surge|speed surge]], immunity to [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] and sleep, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 20
-- **Saves**: Fort +6, Ref +7, Will +4
+- **Defenses**: Fort 16, Ref 17, Will 14
 - **Abilities**: Str 17, Dex 16, Con 15, Int 8, Wis 10, Cha 9
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +10
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]]
@@ -77,6 +77,6 @@ River drakes speak Draconic.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Caustic Mucus|Caustic Mucus]] (Su)**: As a standard action, a river drake can spit a ball of caustic mucus that explodes in a 5-foot-radius spread. This attack has a range of 50 feet, deals 2d8 points of acid damage, and entangles creatures in the area. A DC 14 Reflex save halves the damage and negates the entangle effect. An [[rangoric-srd/rules/Special Abilities and Conditions#^entangled|entangled]] creature takes 1d4 points of acid damage each round on its turn, and may attempt a new saving throw at the end of its turn every round to escape the entanglement and end the acid damage. Once a river drake spits mucus, it cannot do so again for 1d6 rounds. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Caustic Mucus|Caustic Mucus]] (Su)**: As a standard action, a river drake can spit a ball of caustic mucus that explodes in a 5-foot-radius spread. This attack has a range of 50 feet, deals 2d8 points of acid damage, and entangles creatures in the area. It attacks at +4 vs Reflex, and a miss halves the damage and negates the entangle effect. An [[rangoric-srd/rules/Special Abilities and Conditions#^entangled|entangled]] creature takes 1d4 points of acid damage each round on its turn, and the mucus attacks it again at the end of its turn every round, and a miss frees it from the entanglement and ends the acid damage. Once a river drake spits mucus, it cannot do so again for 1d6 rounds. The attack bonus is Constitution-based.
 
 **[[rangoric-srd/monsters/abilities/Speed Surge|Speed Surge]] (Ex)**: Three times per day as a swift action, a river drake can draw on its draconic heritage for a boost of strength and speed that allows it to take an additional move action that round.

@@ -18,7 +18,7 @@ full-attack: "Dwarven waraxe +3 melee (1d10+1/x3) or shortbow +1 ranged (1d6/x3)
 space-reach: "5 ft./5 ft."
 special-attacks: "Dwarf traits"
 special-qualities: "Darkvision 60 ft., dwarf traits"
-saves: "Fort +4 (*), Ref +0 (*), Will +0 (*)"
+defenses: "Fort 14 (*), Ref 10 (*), Will 10 (*)"
 abilities: "Str 13, Dex 11, Con 14, Int 10, Wis 11, Cha 6"
 skills: "Appraise +3, Craft (blacksmithing) +2, Craft (stonemasonry) +2, Perception +1"
 skill-ranks: "Appraise 1, Craft (blacksmithing) 0, Craft (stonemasonry) 0, Perception 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Dwarf traits
 - **Special Qualities**: Darkvision 60 ft., dwarf traits
-- **Saves**: Fort +4 (\*), Ref +0 (\*), Will +0 (\*)
+- **Defenses**: Fort 14 (\*), Ref 10 (\*), Will 10 (\*)
 - **Abilities**: Str 13, Dex 11, Con 14, Int 10, Wis 11, Cha 6
 - **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +3, [[rangoric-srd/skills/Craft|Craft]] (blacksmithing) +2, [[rangoric-srd/skills/Craft|Craft]] (stonemasonry) +2, [[rangoric-srd/skills/Perception|Perception]] +1
 - **Feats**: Weapon Focus (dwarven waraxe)

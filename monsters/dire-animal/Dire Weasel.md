@@ -15,7 +15,7 @@ full-attack: "Bite +8 melee (1d8+7 plus grab)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Attach (bite), blood drain (1d4+1 Con), blood rage, grab"
 special-qualities: "Low-light vision, scent, compression"
-saves: "Fort +6, Ref +7, Will +2"
+defenses: "Fort 16, Ref 17, Will 12"
 abilities: "Str 21, Dex 16, Con 14, Int 2, Wis 13, Cha 11"
 skills: "Athletics +11, Perception +11, Stealth +10"
 skill-ranks: "Athletics 1, Perception 5, Stealth 2"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Attach|Attach]] (bite), [[rangoric-srd/monsters/abilities/Blood Drain|blood drain]] (1d4+1 Con), [[rangoric-srd/monsters/abilities/Blood Rage|blood rage]], [[rangoric-srd/monsters/abilities/Grab|grab]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Compression|compression]]
-- **Saves**: Fort +6, Ref +7, Will +2
+- **Defenses**: Fort 16, Ref 17, Will 12
 - **Abilities**: Str 21, Dex 16, Con 14, Int 2, Wis 13, Cha 11
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +10
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)

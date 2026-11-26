@@ -16,7 +16,7 @@ full-attack: "+1 warhammer +6 melee (1d8+2/×3); or masterwork cold iron warhamm
 space-reach: "5 ft./5 ft."
 special-attacks: "+1 on attack rolls against goblinoid and orc humanoids"
 special-qualities: "Darkvision 60 ft., defensive training (+4 dodge bonus to AC vs. giants)"
-saves: "Fort +4, Ref +2, Will +5 (+2 vs. poison, spells, and spell-like abilities)"
+defenses: "Fort 14, Ref 12, Will 15 (+2 vs. poison, spells, and spell-like abilities)"
 abilities: "Str 13, Dex 10, Con 14, Int 12, Wis 11, Cha 6"
 skills: "Appraise +10 (+12 to assess nonmagical metals or gemstones), Craft (armor, blacksmithing) +10, Craft (weapons) +15, Linguistics +7, Perform (sing) +7, Sense Motive +9, Society +9"
 skill-ranks: "Appraise 6, Craft (armor, blacksmithing) 6, Craft (weapons) 11, Linguistics 3, Perform (sing) 3, Sense Motive 6, Society 5"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/races/Dwarf|+1 on attack rolls against goblinoid and orc humanoids]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/races/Dwarf#^defensive-training|defensive training]] (+4 dodge bonus to AC vs. giants)
-- **Saves**: Fort +4, Ref +2, Will +5 (+2 vs. poison, spells, and spell-like abilities)
+- **Defenses**: Fort 14, Ref 12, Will 15 (+2 vs. poison, spells, and spell-like abilities)
 - **Abilities**: Str 13, Dex 10, Con 14, Int 12, Wis 11, Cha 6
 - **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +10 (+12 to assess nonmagical metals or gemstones), [[rangoric-srd/skills/Craft|Craft]] (armor, blacksmithing) +10, [[rangoric-srd/skills/Craft|Craft]] (weapons) +15, [[rangoric-srd/skills/Linguistics|Linguistics]] +7, Perform (sing) +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Society|Society]] +9
 - **Feats**: [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], [[rangoric-srd/feats/Master Craftsman|Master Craftsman]] (Craft \[weapons\]), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Craft \[armor, weapons\])

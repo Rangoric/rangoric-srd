@@ -16,7 +16,7 @@ full-attack: "Bite +21 melee (1d8+9/19–20) and 2 claws +21 melee (1d8+9 plus g
 space-reach: "10 ft./10 ft."
 special-attacks: "Consume essence, dusty pelt, rake (2 claws +21, 1d8+9), spell-like abilities"
 special-qualities: "Darkvision 60 ft., see in darkness, true seeing, telepathy 100 ft., damage reduction 10/cold iron and good, immunity to fire and poison, resistance to acid 10 and electricity 10, spell resistance 23"
-saves: "Fort +11, Ref +15, Will +14"
+defenses: "Fort 21, Ref 25, Will 24"
 abilities: "Str 28, Dex 25, Con 25, Int 13, Wis 22, Cha 20"
 skills: "Acrobatics +22, Athletics +24 (+32 jumping), Deception +20, Fieldcraft +21, Intimidation +20, Perception +21, Stealth +18"
 skill-ranks: "Acrobatics 12, Athletics 12, Deception 12, Fieldcraft 12, Intimidation 12, Perception 12, Stealth 12"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Consume Essence|Consume essence]], [[rangoric-srd/monsters/abilities/Dusty Pelt|dusty pelt]], [[rangoric-srd/monsters/abilities/Rake|rake]] (2 claws +21, 1d8+9), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]], true seeing, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron and good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and electricity 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 23
-- **Saves**: Fort +11, Ref +15, Will +14
+- **Defenses**: Fort 21, Ref 25, Will 24
 - **Abilities**: Str 28, Dex 25, Con 25, Int 13, Wis 22, Cha 20
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +22, [[rangoric-srd/skills/Athletics|Athletics]] +24 (+32 jumping), [[rangoric-srd/skills/Deception|Deception]] +20, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +21, [[rangoric-srd/skills/Intimidation|Intimidation]] +20, [[rangoric-srd/skills/Perception|Perception]] +21, [[rangoric-srd/skills/Stealth|Stealth]] +18
 - **Feats**: [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
@@ -76,6 +76,6 @@ Shiras speak Abyssal, Celestial and Infernal.
 
 **[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 13th; concentration +18): Constant—_[[rangoric-srd/spells/True Seeing|true seeing]]_; At will—_[[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (self plus 50 lbs. of objects only); 3/day—_[[rangoric-srd/spells/Magic Circle against Good|magic circle against good]]_, _[[rangoric-srd/spells/Waves of Fatigue|waves of fatigue]]_; 1/day—[[rangoric-srd/monsters/abilities/Summon|summon]] (level 5, 1d2 pairakas or 1 shira 35%).
 
-**[[rangoric-srd/monsters/abilities/Consume Essence|Consume Essence]] (Su)**: A shira's deadliest attacks drain away a portion of its victim's essence. Whenever a shira hits with a coup de grace attack using its bite, or confirms a critical hit with its claws or bite, the target must succeed at a DC 23 Fortitude save or take 1d4 points of Constitution drain. The save is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Consume Essence|Consume Essence]] (Su)**: A shira's deadliest attacks drain away a portion of its victim's essence. Whenever a shira hits with a coup de grace attack using its bite, or confirms a critical hit with its claws or bite, the target is attacked at +13 vs Fortitude, and on a hit takes 1d4 points of Constitution drain. The attack bonus is Constitution-based.
 
 **[[rangoric-srd/monsters/abilities/Dusty Pelt|Dusty Pelt]] (Ex)**: A shira collects and produces copious amounts of dust and ash within the coarse hairs of its furry hide. As a move action, it can shake itself, creating a cloud of dust that fills its space, providing it concealment. Any attack that deals at least 10 points of bludgeoning, piercing, or slashing damage to the shira (before DR) automatically activates this ability. The dust cloud lasts for 1 round. A light wind disperses this cloud immediately.

@@ -16,7 +16,7 @@ full-attack: "Bite +9 melee (1d4–1 plus poison)"
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "Poison, spell-like abilities"
 special-qualities: "Darkvision 60 ft., detect good, detect magic, see in darkness, telepathy 100 ft., damage reduction 10/cold iron or good, immunity to fire and poison, resistance to acid 10 and electricity 10, spell resistance 13"
-saves: "Fort +3, Ref +4, Will +4"
+defenses: "Fort 13, Ref 14, Will 14"
 abilities: "Str 8, Dex 17, Con 10, Int 10, Wis 12, Cha 14"
 skills: "Acrobatics +15, Arcana +6, Deception +8, Mysticism +6, Perception +7, Stealth +17, Theology +6"
 skill-ranks: "Acrobatics 5, Arcana 3, Deception 3, Mysticism 3, Perception 3, Stealth 3, Theology 3"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect good, detect magic, [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron or good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and electricity 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 13
-- **Saves**: Fort +3, Ref +4, Will +4
+- **Defenses**: Fort 13, Ref 14, Will 14
 - **Abilities**: Str 8, Dex 17, Con 10, Int 10, Wis 12, Cha 14
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Arcana|Arcana]] +6, [[rangoric-srd/skills/Deception|Deception]] +8, [[rangoric-srd/skills/Mysticism|Mysticism]] +6, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +17, [[rangoric-srd/skills/Theology|Theology]] +6
 - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
@@ -74,6 +74,6 @@ Dorus speak Abyssal, Celestial and Infernal.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th; concentration +8): Constant—_[[rangoric-srd/spells/Detect Good|detect good]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_; At will—_[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only); 3/day—_[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 13), _[[rangoric-srd/spells/Minor Image|minor image]]_ (DC 14); 1/day—_[[rangoric-srd/spells/Suggestion|suggestion]]_ (DC 15); 1/week—_[[rangoric-srd/spells/Commune|commune]]_ (CL 12th, 6 questions).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th; concentration +8): Constant—_[[rangoric-srd/spells/Detect Good|detect good]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_; At will—_[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only); 3/day—_[[rangoric-srd/spells/Charm Person|charm person]]_ (+3 vs Will), _[[rangoric-srd/spells/Minor Image|minor image]]_ (+4 vs Will); 1/day—_[[rangoric-srd/spells/Suggestion|suggestion]]_ (+5 vs Will); 1/week—_[[rangoric-srd/spells/Commune|commune]]_ (CL 12th, 6 questions).
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Doru Venom|Doru Venom]]: Bite—Bite—injury; _save_ Fort DC 11; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Wis damage; _cure_ 2 consecutive saves.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Doru Venom|Doru Venom]]: Bite—Bite—injury; _attack_ +1 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Wis damage; _cure_ 2 consecutive misses.

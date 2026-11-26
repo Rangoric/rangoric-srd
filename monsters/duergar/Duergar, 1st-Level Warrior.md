@@ -16,7 +16,7 @@ full-attack: "Warhammer +3 melee (1d8+1/×3); or light crossbow +0 ranged (1d8/1
 space-reach: "5 ft./5 ft."
 special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 120 ft., slow and steady, stability, immunity to paralysis, phantasms and poison, light sensitivity"
-saves: "Fort +4, Ref –1, Will +1"
+defenses: "Fort 14, Ref 9, Will 11"
 abilities: "Str 12, Dex 9, Con 15, Int 10, Wis 13, Cha 4"
 skills: "Intimidation +1, Stealth –3"
 skill-ranks: "Intimidation 1, Stealth 0"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., slow and steady, stability, immunity to [[rangoric-srd/monsters/abilities/Paralysis|paralysis]], phantasms and poison, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
-- **Saves**: Fort +4, Ref –1, Will +1
+- **Defenses**: Fort 14, Ref 9, Will 11
 - **Abilities**: Str 12, Dex 9, Con 15, Int 10, Wis 13, Cha 4
 - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +1, [[rangoric-srd/skills/Stealth|Stealth]] –3
 - **Feats**: [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (warhammer)

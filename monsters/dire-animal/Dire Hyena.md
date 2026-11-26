@@ -15,7 +15,7 @@ full-attack: "Bite +6 melee (2d6+6 plus trip)"
 space-reach: "10 ft./10 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +6, Ref +6, Will +2"
+defenses: "Fort 16, Ref 16, Will 12"
 abilities: "Str 18, Dex 15, Con 15, Int 2, Wis 13, Cha 6"
 skills: "Perception +8, Stealth +7 (+11 in tall grass or heavy undergrowth)"
 skill-ranks: "Perception 4, Stealth 6"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +6, Ref +6, Will +2
+- **Defenses**: Fort 16, Ref 16, Will 12
 - **Abilities**: Str 18, Dex 15, Con 15, Int 2, Wis 13, Cha 6
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +7 (+11 in tall grass or heavy undergrowth)
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception, Stealth)

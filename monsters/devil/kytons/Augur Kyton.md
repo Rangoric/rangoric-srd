@@ -14,7 +14,7 @@ cmd: "13 (can't be tripped)"
 attack: "Gore +4 melee (1d4–1 plus bleed)"
 full-attack: "Gore +4 melee (1d4–1 plus bleed)"
 space-reach: "2-1/2 ft./0 ft."
-special-attacks: "Bleed (1d2), unnerving gaze (30 ft., +-1 vs Will), spell-like abilities"
+special-attacks: "Bleed (1d2), unnerving gaze (30 ft., −1 vs Will), spell-like abilities"
 special-qualities: "Darkvision 60 ft., deathwatch, regeneration 2 (good weapons and spells, silver weapons), damage reduction 5/good or silver, immunity to cold"
 defenses: "Fort 12, Ref 18, Will 14"
 abilities: "Str 8, Dex 17, Con 12, Int 13, Wis 12, Cha 7"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Gore +4 melee (1d4–1 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]])
 - **Full Attack**: Gore +4 melee (1d4–1 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]])
 - **Space/Reach**: 2-1/2 ft./0 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (1d2), [[rangoric-srd/monsters/abilities/Unnerving Gaze (Augur Kyton)|unnerving gaze]] (30 ft., +-1 vs Will), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (1d2), [[rangoric-srd/monsters/abilities/Unnerving Gaze (Augur Kyton)|unnerving gaze]] (30 ft., −1 vs Will), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., deathwatch, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 2 (good weapons and spells, silver weapons), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/good or silver, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold
 - **Defenses**: Fort 12, Ref 18, Will 14
 - **Abilities**: Str 8, Dex 17, Con 12, Int 13, Wis 12, Cha 7

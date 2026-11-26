@@ -16,7 +16,7 @@ full-attack: "Miner's pick –2 melee (1d6+1); or heavy mace +2 melee (1d8+1)"
 space-reach: "5 ft./5 ft."
 special-attacks: "+1 on attack rolls against goblinoid and orc humanoids"
 special-qualities: "Darkvision 60 ft., defensive training (+4 dodge bonus to AC vs. giants)"
-saves: "Fort +3, Ref +0, Will +2 (+2 vs. poison, spells, and spell-like abilities)"
+defenses: "Fort 13, Ref 10, Will 12 (+2 vs. poison, spells, and spell-like abilities)"
 abilities: "Str 13, Dex 8, Con 14, Int 9, Wis 13, Cha 8"
 skills: "Appraise +3 (+5 to assess nonmagical metals or gemstones), Athletics +5, Dungeoneering +0, Investigation –1 (+1 to notice unusual stonework), Perception +5, Profession (miner) +9"
 skill-ranks: "Appraise 1, Athletics 1, Dungeoneering 1, Perception 1, Profession (miner) 7"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/races/Dwarf|+1 on attack rolls against goblinoid and orc humanoids]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/races/Dwarf#^defensive-training|defensive training]] (+4 dodge bonus to AC vs. giants)
-- **Saves**: Fort +3, Ref +0, Will +2 (+2 vs. poison, spells, and spell-like abilities)
+- **Defenses**: Fort 13, Ref 10, Will 12 (+2 vs. poison, spells, and spell-like abilities)
 - **Abilities**: Str 13, Dex 8, Con 14, Int 9, Wis 13, Cha 8
 - **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +3 (+5 to assess nonmagical metals or gemstones), [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +0, [[rangoric-srd/skills/Investigation|Investigation]] –1 (+1 to notice unusual stonework), [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Profession|Profession]] (miner) +9
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Appraise, Profession \[miner\])

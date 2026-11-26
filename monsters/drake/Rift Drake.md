@@ -16,7 +16,7 @@ full-attack: "Bite +18 melee (2d8+10/19–20 plus bleed) and tail slap +12 melee
 space-reach: "10 ft./10 ft."
 special-attacks: "Bleed (1d6), clinging corrosion, pounce, savage bite"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, speed surge, immunity to paralysis and sleep, resistance to acid 30"
-saves: "Fort +12, Ref +10, Will +8"
+defenses: "Fort 22, Ref 20, Will 18"
 abilities: "Str 25, Dex 17, Con 20, Int 8, Wis 12, Cha 11"
 skills: "Acrobatics +14, Athletics +15, Fieldcraft +13, Intimidation +12, Perception +14, Sense Motive +11, Stealth +12"
 skill-ranks: "Acrobatics 10, Athletics 5, Fieldcraft 9, Intimidation 9, Perception 10, Sense Motive 7, Stealth 10"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (1d6), [[rangoric-srd/monsters/abilities/Clinging Corrosion|clinging corrosion]], [[rangoric-srd/monsters/abilities/Pounce|pounce]], [[rangoric-srd/monsters/abilities/Savage Bite (Drake)|savage bite]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Speed Surge|speed surge]], immunity to [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] and sleep, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 30
-- **Saves**: Fort +12, Ref +10, Will +8
+- **Defenses**: Fort 22, Ref 20, Will 18
 - **Abilities**: Str 25, Dex 17, Con 20, Int 8, Wis 12, Cha 11
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +13, [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +12
 - **Feats**: [[rangoric-srd/feats/Bleeding Critical|Bleeding Critical]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
@@ -73,7 +73,7 @@ Rift drakes speak Draconic.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Clinging Corrosion|Clinging Corrosion]] (Su)**: As a standard action, a rift drake can spit a ball of caustic gas that bursts into a cloud upon impact. This attack has a range of 60 feet and deals 5d10 points of acid damage to all creatures within the resulting 15-foot-radius spread. Additionally, any creature damaged by this attack is affected as though by the spell slow for 1d4 rounds. A successful DC 20 Reflex save halves the damage and negates the slowing effect. Once a rift drake uses its breath weapon, it cannot do so again for 1d6 rounds. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Clinging Corrosion|Clinging Corrosion]] (Su)**: As a standard action, a rift drake can spit a ball of caustic gas that bursts into a cloud upon impact. This attack has a range of 60 feet and deals 5d10 points of acid damage to all creatures within the resulting 15-foot-radius spread. Additionally, any creature damaged by this attack is affected as though by the spell slow for 1d4 rounds. It attacks at +10 vs Reflex, and a miss halves the damage and negates the slowing effect. Once a rift drake uses its breath weapon, it cannot do so again for 1d6 rounds. The attack bonus is Constitution-based.
 
 **[[rangoric-srd/monsters/abilities/Savage Bite (Drake)|Savage Bite]] (Ex)**: A rift drake applies 1-1/2 times its Strength bonus to damage dealt with its bite attack, and it threatens a critical hit on a 19–20.
 

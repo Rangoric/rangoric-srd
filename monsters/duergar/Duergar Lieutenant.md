@@ -16,7 +16,7 @@ full-attack: "+1 warhammer +11/+6 melee (2d6+4/×3); or masterwork light crossbo
 space-reach: "5 ft./5 ft."
 special-attacks: "Favored enemy (dwarves +4, elves +2), spell-like abilities"
 special-qualities: "Darkvision 120 ft., favored terrain (underground +2), hunter's bond (companions), ironskinned, slow and steady, stability, track +3, twilight-touched, wild empathy +3, immunity to paralysis, phantasms and poison, light sensitivity"
-saves: "Fort +8, Ref +6, Will +4 (+2 vs. spells)"
+defenses: "Fort 18, Ref 16, Will 14 (+2 vs. spells)"
 abilities: "Str 16, Dex 12, Con 16, Int 10, Wis 15, Cha 4"
 skills: "Animal Handling +9, Athletics +11, Dungeoneering +9, Fieldcraft +11, Perception +11"
 skill-ranks: "Animal Handling 5, Athletics 5, Dungeoneering 6, Fieldcraft 6, Perception 6"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|Favored enemy]] (dwarves +4, elves +2), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|favored terrain]] (underground +2), [[rangoric-srd/classes/Ranger#^ranger-hunters-bond|hunter's bond]] (companions), [[rangoric-srd/races/racial-traits/Ironskinned|ironskinned]], slow and steady, stability, [[rangoric-srd/classes/Ranger#^ranger-track|track]] +3, [[rangoric-srd/races/racial-traits/Twilight-Touched|twilight-touched]], [[rangoric-srd/classes/Ranger#^ranger-wild-empathy|wild empathy]] +3, immunity to [[rangoric-srd/monsters/abilities/Paralysis|paralysis]], phantasms and poison, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
-- **Saves**: Fort +8, Ref +6, Will +4 (+2 vs. spells)
+- **Defenses**: Fort 18, Ref 16, Will 14 (+2 vs. spells)
 - **Abilities**: Str 16, Dex 12, Con 16, Int 10, Wis 15, Cha 4
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +9, [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +9, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +11, [[rangoric-srd/skills/Perception|Perception]] +11
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Track|Track]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (warhammer)

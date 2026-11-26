@@ -16,7 +16,7 @@ full-attack: "Bite +10 melee (2d6+5 plus 1d6 fire) and tail slap +5 melee (1d6+2
 space-reach: "10 ft./10 ft."
 special-attacks: "Fireball breath"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, speed surge, immunity to fire, paralysis and sleep, vulnerability to cold"
-saves: "Fort +8, Ref +6, Will +6"
+defenses: "Fort 18, Ref 16, Will 16"
 abilities: "Str 21, Dex 13, Con 16, Int 9, Wis 12, Cha 10"
 skills: "Acrobatics +8, Fieldcraft +10, Intimidation +9, Perception +10, Stealth +6"
 skill-ranks: "Acrobatics 6, Fieldcraft 6, Intimidation 6, Perception 6, Stealth 6"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Fireball Breath|Fireball breath]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Speed Surge|speed surge]], immunity to fire, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] and sleep, vulnerability to cold
-- **Saves**: Fort +8, Ref +6, Will +6
+- **Defenses**: Fort 18, Ref 16, Will 16
 - **Abilities**: Str 21, Dex 13, Con 16, Int 9, Wis 12, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +6
 - **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]]
@@ -73,6 +73,6 @@ Flame drakes speak Draconic.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Fireball Breath|Fireball Breath]] (Su)**: A flame drake can, as a standard action, breathe a ball of flame that explodes like a fireball. This attack has a range of 180 feet and deals 5d6 points of fire damage (DC 16 Reflex half) to all creatures within a 20-foot-radius spread. Once a flame drake has used its fireball breath, it cannot do so again for 1d6 rounds. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Fireball Breath|Fireball Breath]] (Su)**: A flame drake can, as a standard action, breathe a ball of flame that explodes like a fireball. This attack has a range of 180 feet and deals 5d6 points of fire damage (+6 vs Reflex; a miss halves) to all creatures within a 20-foot-radius spread. Once a flame drake has used its fireball breath, it cannot do so again for 1d6 rounds. The attack bonus is Constitution-based.
 
 **[[rangoric-srd/monsters/abilities/Speed Surge|Speed Surge]] (Ex)**: Three times per day as a swift action, a flame drake may draw on its draconic heritage for a boost of strength and speed to take an additional move action in that round.

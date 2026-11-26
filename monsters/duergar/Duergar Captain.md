@@ -16,7 +16,7 @@ full-attack: "+2 dwarven waraxe +17/+12 melee (2d8+12/19–20/×3); or masterwor
 space-reach: "5 ft./5 ft."
 special-attacks: "Weapon training (axes +2, crossbows +1), spell-like abilities"
 special-qualities: "Darkvision 120 ft., bravery +2, armor training 2, slow and steady, stability, immunity to paralysis, phantasms and poison, light sensitivity"
-saves: "Fort +10, Ref +4, Will +6 (+2 vs. fear); +2 vs. spells)"
+defenses: "Fort 20, Ref 14, Will 16 (+2 vs. fear); +2 vs. spells)"
 abilities: "Str 19, Dex 10, Con 16, Int 10, Wis 15, Cha 4"
 skills: "Animal Handling +8, Athletics +6, Fieldcraft +8, Perception +2"
 skill-ranks: "Animal Handling 5, Athletics 2, Fieldcraft 3, Perception 0"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Fighter#^fighter-weapon-training|Weapon training]] (axes +2, crossbows +1), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +2, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 2, slow and steady, stability, immunity to [[rangoric-srd/monsters/abilities/Paralysis|paralysis]], phantasms and poison, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
-- **Saves**: Fort +10, Ref +4, Will +6 (+2 vs. fear); +2 vs. spells)
+- **Defenses**: Fort 20, Ref 14, Will 16 (+2 vs. fear); +2 vs. spells)
 - **Abilities**: Str 19, Dex 10, Con 16, Int 10, Wis 15, Cha 4
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8, [[rangoric-srd/skills/Perception|Perception]] +2
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Greater Overrun|Greater Overrun]], [[rangoric-srd/feats/Greater Sunder|Greater Sunder]], [[rangoric-srd/feats/Greater Weapon Focus|Greater Weapon Focus]] (dwarven waraxe), [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (dwarven waraxe), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (dwarven waraxe)

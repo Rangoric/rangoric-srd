@@ -16,7 +16,7 @@ full-attack: "Dwarven waraxe +3 melee (1d10+1/×3); or dagger +2 melee (1d4+1/19
 space-reach: "5 ft./5 ft."
 special-attacks: "+1 on attack rolls against goblinoid and orc humanoids"
 special-qualities: "Darkvision 60 ft., defensive training (+4 dodge bonus to AC vs. giants)"
-saves: "Fort +4, Ref +0, Will +0 (+2 vs. poison, spells, and spell-like abilities)"
+defenses: "Fort 14, Ref 10, Will 10 (+2 vs. poison, spells, and spell-like abilities)"
 abilities: "Str 13, Dex 11, Con 14, Int 10, Wis 10, Cha 7"
 skills: "Intimidation +2, Investigation +0 (+2 to notice unusual stonework), Perception +1"
 skill-ranks: "Intimidation 1, Perception 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/races/Dwarf|+1 on attack rolls against goblinoid and orc humanoids]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/races/Dwarf#^defensive-training|defensive training]] (+4 dodge bonus to AC vs. giants)
-- **Saves**: Fort +4, Ref +0, Will +0 (+2 vs. poison, spells, and spell-like abilities)
+- **Defenses**: Fort 14, Ref 10, Will 10 (+2 vs. poison, spells, and spell-like abilities)
 - **Abilities**: Str 13, Dex 11, Con 14, Int 10, Wis 10, Cha 7
 - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +2, [[rangoric-srd/skills/Investigation|Investigation]] +0 (+2 to notice unusual stonework), [[rangoric-srd/skills/Perception|Perception]] +1
 - **Feats**: [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (dwarven waraxe)

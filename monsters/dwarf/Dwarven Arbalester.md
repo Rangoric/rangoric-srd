@@ -16,7 +16,7 @@ full-attack: "Masterwork dwarven waraxe +23/+18/+13/+8 melee (1d10+5/×3); or ma
 space-reach: "5 ft./5 ft."
 special-attacks: "+1 on attack rolls against goblinoid and orc humanoids, weapon training (crossbows +3, axes +2, hammers +1)"
 special-qualities: "Bravery +4, defensive training (+4 dodge bonus to AC vs. giants), armor training 4"
-saves: "Fort +19, Ref +15, Will +12 (+2 vs. poison, spells, and spell-like abilities; +4 vs. fear)"
+defenses: "Fort 29, Ref 25, Will 22 (+2 vs. poison, spells, and spell-like abilities; +4 vs. fear)"
 abilities: "Str 14, Dex 20, Con 18, Int 10, Wis 14, Cha 6"
 skills: "Animal Handling +25, Investigation +2 (+4 to notice unusual stonework), Perception +20"
 skill-ranks: "Animal Handling 17, Perception 15"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/races/Dwarf|+1 on attack rolls against goblinoid and orc humanoids]], [[rangoric-srd/classes/Fighter#^fighter-weapon-training|weapon training]] (crossbows +3, axes +2, hammers +1)
 - **Special Qualities**: [[rangoric-srd/classes/Fighter#^fighter-bravery|Bravery]] +4, [[rangoric-srd/races/Dwarf#^defensive-training|defensive training]] (+4 dodge bonus to AC vs. giants), [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 4
-- **Saves**: Fort +19, Ref +15, Will +12 (+2 vs. poison, spells, and spell-like abilities; +4 vs. fear)
+- **Defenses**: Fort 29, Ref 25, Will 22 (+2 vs. poison, spells, and spell-like abilities; +4 vs. fear)
 - **Abilities**: Str 14, Dex 20, Con 18, Int 10, Wis 14, Cha 6
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +25, [[rangoric-srd/skills/Investigation|Investigation]] +2 (+4 to notice unusual stonework), [[rangoric-srd/skills/Perception|Perception]] +20
 - **Feats**: [[rangoric-srd/feats/Blinding Critical|Blinding Critical]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Greater Vital Strike|Greater Vital Strike]], [[rangoric-srd/feats/Greater Weapon Focus|Greater Weapon Focus]] (heavy crossbow), [[rangoric-srd/feats/Greater Weapon Specialization|Greater Weapon Specialization]] (heavy crossbow), [[rangoric-srd/feats/Improved Critical|Improved Critical]] (heavy crossbow), [[rangoric-srd/feats/Improved Precise Shot|Improved Precise Shot]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Pinpoint Targeting|Pinpoint Targeting]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Rapid Reload|Rapid Reload]] (heavy crossbow), [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (heavy crossbow), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (heavy crossbow)
