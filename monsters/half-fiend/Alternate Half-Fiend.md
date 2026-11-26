@@ -16,7 +16,7 @@ full-attack: "Greataxe +11/+6 melee (3d6+9/×3) and bite +6 melee (1d8+3) and go
 space-reach: "10 ft./10 ft."
 special-attacks: "[[rangoric-srd/monsters/abilities/Smite Good (Template)|Smite good]] 1/day, powerful charge (gore +13, 2d6+9), spell-like abilities"
 special-qualities: "Darkvision 60 ft., natural cunning*, damage reduction 5/magic, immunity to poison, resistance to acid 10, cold 10, electricity 10 and fire 10, spell resistance 17"
-saves: "Fort +8, Ref +7, Will +6"
+defenses: "Fort 18, Ref 17, Will 16"
 abilities: "Str 23, Dex 14, Con 19, Int 9, Wis 12, Cha 10"
 skills: "Acrobatics +0, Fieldcraft +14, Intimidation +9, Knowl. (religion) +5, Percep. +14, Stealth +7"
 skill-ranks: "Acrobatics 0, Fieldcraft 6, Intimidation 6, Knowl. (religion) 3, Percep. 12, Stealth 6"
@@ -55,7 +55,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Smite Good (Template)|Smite good]] 1/day, [[rangoric-srd/monsters/abilities/Powerful Charge|powerful charge]] (gore +13, 2d6+9), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., natural cunning\*, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/magic, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, cold 10, electricity 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 17
-- **Saves**: Fort +8, Ref +7, Will +6
+- **Defenses**: Fort 18, Ref 17, Will 16
 - **Abilities**: Str 23, Dex 14, Con 19, Int 9, Wis 12, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +0, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, Knowl. (religion) +5, Percep. +14, [[rangoric-srd/skills/Stealth|Stealth]] +7
 - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]]
@@ -85,7 +85,7 @@ This is the second version of the half-fiend template; the first is [[rangoric-s
 
 **Alignment**: Any evil.
 
-**Type**: The creature's type changes to outsider (native). Do not recalculate HD, BAB, or saves.
+**Type**: The creature's type changes to outsider (native). Do not recalculate HD, BAB, or defenses.
 
 **Armor Class**: Natural armor improves by +1.
 
@@ -120,4 +120,4 @@ This is the second version of the half-fiend template; the first is [[rangoric-s
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th): 3/day—_[[rangoric-srd/spells/Darkness|darkness]]_; 1/day-_[[rangoric-srd/spells/Desecrate|desecrate]], [[rangoric-srd/spells/Unholy Blight|unholy blight]]_ (DC 14).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th): 3/day—_[[rangoric-srd/spells/Darkness|darkness]]_; 1/day-_[[rangoric-srd/spells/Desecrate|desecrate]], [[rangoric-srd/spells/Unholy Blight|unholy blight]]_ (+4 vs Will).

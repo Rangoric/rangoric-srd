@@ -16,7 +16,7 @@ full-attack: "2 slams +42 melee (4d8+13)"
 space-reach: "15 ft./15 ft."
 special-attacks: "Slow"
 special-qualities: "Construct traits, damage reduction 10/adamantine, darkvision 60 ft., immunity to magic, low-light vision"
-saves: "Fort +14, Ref +12, Will +14"
+defenses: "Fort 24, Ref 22, Will 24"
 abilities: "Str 37, Dex 7, Con -, Int -, Wis 11, Cha 1"
 skills: "Athletics +58"
 skill-ranks: "Athletics 42"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./15 ft.
 - **Special Attacks**: [[rangoric-srd/spells/Slow|Slow]]
 - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct traits]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/adamantine, darkvision 60 ft., immunity to magic, low-light vision
-- **Saves**: Fort +14, Ref +12, Will +14
+- **Defenses**: Fort 24, Ref 22, Will 24
 - **Abilities**: Str 37, Dex 7, Con -, Int -, Wis 11, Cha 1
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +58
 - **Feats**: -
@@ -61,4 +61,4 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: -
 - **Level Adjustment**: -
 
-A greater stone golem is 18 feet tall and weighs around 32,000 pounds. It resembles a typical stone golem in all respects, except that the Will save DC is 31 against its slow ability. CL 14th; [[rangoric-srd/feats/Feats All|Craft Construct]], [[rangoric-srd/spells/Antimagic Field|antimagic field]], [[rangoric-srd/spells/Geas-Quest|geas/quest]], [[rangoric-srd/spells/Slow|slow]], [[rangoric-srd/spells/Symbol of Stunning|symbol of stunning]], caster must be at least 14th level; Price 196,000 gp; Cost 105,000 gp + 7,640 XP.
+A greater stone golem is 18 feet tall and weighs around 32,000 pounds. It resembles a typical stone golem in all respects, except that its slow ability attacks at +21 vs Will. CL 14th; [[rangoric-srd/feats/Feats All|Craft Construct]], [[rangoric-srd/spells/Antimagic Field|antimagic field]], [[rangoric-srd/spells/Geas-Quest|geas/quest]], [[rangoric-srd/spells/Slow|slow]], [[rangoric-srd/spells/Symbol of Stunning|symbol of stunning]], caster must be at least 14th level; Price 196,000 gp; Cost 105,000 gp + 7,640 XP.

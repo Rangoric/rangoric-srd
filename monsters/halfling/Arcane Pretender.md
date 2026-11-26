@@ -16,7 +16,7 @@ full-attack: "+1 bastard sword +26/+21/+16 melee (1d8+10/19–20)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Weapon training (heavy blades +3, light blades +2, thrown +1)"
 special-qualities: "Bravery +4, armor training 3, damage reduction 2/—"
-saves: "Fort +16, Ref +13, Will +10 (+6 vs. fear)"
+defenses: "Fort 26, Ref 23, Will 20 (+6 vs. fear)"
 abilities: "Str 19, Dex 14, Con 14, Int 14, Wis 8, Cha 16"
 skills: "Acrobatics +20, Arcana +16, Athletics +8 (+4 jumping), Deception +19, Emulation +25, Mysticism +18, Perception +3"
 skill-ranks: "Acrobatics 15, Arcana 11, Athletics 1, Deception 13, Emulation 19, Mysticism 13, Perception 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Fighter#^fighter-weapon-training|Weapon training]] (heavy blades +3, light blades +2, thrown +1)
 - **Special Qualities**: [[rangoric-srd/classes/Fighter#^fighter-bravery|Bravery]] +4, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 3, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 2/—
-- **Saves**: Fort +16, Ref +13, Will +10 (+6 vs. fear)
+- **Defenses**: Fort 26, Ref 23, Will 20 (+6 vs. fear)
 - **Abilities**: Str 19, Dex 14, Con 14, Int 14, Wis 8, Cha 16
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +20, [[rangoric-srd/skills/Arcana|Arcana]] +16, [[rangoric-srd/skills/Athletics|Athletics]] +8 (+4 jumping), [[rangoric-srd/skills/Deception|Deception]] +19, [[rangoric-srd/skills/Emulation|Emulation]] +25, [[rangoric-srd/skills/Mysticism|Mysticism]] +18, [[rangoric-srd/skills/Perception|Perception]] +3
 - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Exotic Weapon Proficiency|Exotic Weapon Proficiency]] (bastard sword), [[rangoric-srd/feats/Greater Disarm|Greater Disarm]], [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Penetrating Strike|Penetrating Strike]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Emulation), [[rangoric-srd/feats/Strike Back|Strike Back]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bastard sword), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (bastard sword)

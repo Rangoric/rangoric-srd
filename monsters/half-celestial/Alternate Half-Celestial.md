@@ -16,7 +16,7 @@ full-attack: "Gore +10 melee (1d8+6) and 2 hooves +7 melee (1d3+3)"
 space-reach: "10 ft./5 ft."
 special-attacks: "[[rangoric-srd/monsters/abilities/Smite Evil (Template)|Smite evil]] 1/day (+7 attack, +4 damage), powerful charge (gore, 2d8+12), spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, magic circle against evil*, magical strike*, wild empathy +18*, damage reduction 5/magic, immunity to charm, compulsion, disease and poison, resistance to acid 10, cold 10 and electricity 10, spell resistance 15"
-saves: "Fort +9, Ref +8, Will +8"
+defenses: "Fort 19, Ref 18, Will 18"
 abilities: "Str 22, Dex 19, Con 20, Int 13, Wis 25, Cha 26"
 skills: "Acrobatics +13, Fieldcraft +14 (+17 forests), Perception +14, Sense Motive +14, Stealth +11, Theology +5"
 skill-ranks: "Acrobatics 8, Fieldcraft 4, Perception 4, Sense Motive 4, Stealth 4, Theology 1"
@@ -55,7 +55,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Smite Evil (Template)|Smite evil]] 1/day (+7 attack, +4 damage), [[rangoric-srd/monsters/abilities/Powerful Charge|powerful charge]] (gore, 2d8+12), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], magic circle against evil\*, magical strike\*, wild empathy +18\*, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/magic, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to charm, compulsion, disease and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, cold 10 and electricity 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 15
-- **Saves**: Fort +9, Ref +8, Will +8
+- **Defenses**: Fort 19, Ref 18, Will 18
 - **Abilities**: Str 22, Dex 19, Con 20, Int 13, Wis 25, Cha 26
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14 (+17 forests), [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +11, [[rangoric-srd/skills/Theology|Theology]] +5
 - **Feats**: [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (horn)
@@ -85,11 +85,11 @@ This is the second version of the half-celestial template; the first is [[rangor
 
 **Alignment**: Any good.
 
-**Type**: The creature's type changes to outsider (native). Do not recalculate HD, BAB, or saves.
+**Type**: The creature's type changes to outsider (native). Do not recalculate HD, BAB, or defenses.
 
 **Armor Class**: Natural armor improves by +1.
 
-**Defenses/Qualities**: It gains darkvision 60 feet; immunity to disease; +4 racial bonus on saves vs. poison; acid, cold, and electricity resist 10; DR 5/magic (if HD 11 or less) or 10/magic (if HD 12 or more); and SR equal to CR + 11 (maximum 35).
+**Defenses/Qualities**: It gains darkvision 60 feet; immunity to disease; +4 racial bonus on defenses vs. poison; acid, cold, and electricity resist 10; DR 5/magic (if HD 11 or less) or 10/magic (if HD 12 or more); and SR equal to CR + 11 (maximum 35).
 
 **Speed**: Unless the base creature flies better, the half-celestial flies at twice the base creature's land speed (good maneuverability).
 

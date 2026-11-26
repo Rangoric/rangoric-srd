@@ -18,7 +18,7 @@ full-attack: "2 slams +27 melee (2d10+13)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Breath weapon, fiery aura, splatter"
 special-qualities: "Construct traits, damage reduction 15/magic, darkvision 60 ft., death throes, immunity to magic, low-light vision"
-saves: "Fort +6, Ref +5, Will +6"
+defenses: "Fort 16, Ref 15, Will 16"
 abilities: "Str 37, Dex 8, Con —, Int —, Wis 10, Cha 1"
 skills: "—"
 feats: "—"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: Breath weapon, fiery aura, splatter
 - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|construct traits]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/magic, darkvision 60 ft., death throes, immunity to magic, low-light vision
-- **Saves**: Fort +6, Ref +5, Will +6
+- **Defenses**: Fort 16, Ref 15, Will 16
 - **Abilities**: Str 37, Dex 8, Con —, Int —, Wis 10, Cha 1
 - **Skills**: —
 - **Feats**: —
@@ -70,17 +70,17 @@ Amber golems are fearsome foes in combat. They attack relentlessly with their fi
 
 An amber golem’s natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
 
-**Breath Weapon (Su):** 20-foot cone, every other round, damage 8d6 fire, Reflex DC 20 half. The save DC is Constitution-based.
+**Breath Weapon (Su):** 20-foot cone, every other round, damage 8d6 fire, +10 vs Reflex; a miss halves. The attack bonus is Constitution-based.
 
-**Fiery Aura (Ex):** Each round, anyone within 5 feet of an amber golem must succeed on a DC 20 Fortitude save or take 1d4 points of fire damage from the intense heat. The save DC is Constitution-based.
+**Fiery Aura (Ex):** Each round, the heat attacks anyone within 5 feet of an amber golem at +10 vs Fortitude, and those it hits take 1d4 points of fire damage from the intense heat. The attack bonus is Constitution-based.
 
-**Splatter (Ex):** A creature who damages an amber golem with a piercing or slashing melee weapon releases gouts of fire from the wound, and must succeed on a DC 20 Reflex save or suffer 3d6 points of fire damage. The save DC is Constitution-based.
+**Splatter (Ex):** A creature who damages an amber golem with a piercing or slashing melee weapon releases gouts of fire from the wound, and the fire attacks it at +10 vs Reflex, and on a hit it suffers 3d6 points of fire damage. The attack bonus is Constitution-based.
 
 Piercing ranged weapons release gouts of fire as well, but the fire only affects a creature adjacent to the golem who was in a position to provide cover against the ranged attack (that is, who is between the attacker and the golem).
 
-**Death Throes (Su):** When an amber golem is slain, each creature within 5 feet of it must succeed on a DC 20 Reflex save or become encased in liquid amber, which then instantly hardens. The save DC is Constitution-based. Trapped creatures can only take mental actions and are subject to suffocation, but can be freed by destroying the amber shell. The shell has an AC of 2, a hardness of 2, and 20 hit points.
+**Death Throes (Su):** When an amber golem is slain, the amber attacks each creature within 5 feet of it at +10 vs Reflex, and those it hits become encased in liquid amber, which then instantly hardens. The attack bonus is Constitution-based. Trapped creatures can only take mental actions and are subject to suffocation, but can be freed by destroying the amber shell. The shell has an AC of 2, a hardness of 2, and 20 hit points.
 
-**Immunity to Magic (Ex):** An amber golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature. A magical attack that deals cold damage slows an amber golem (as the _[[rangoric-srd/spells/Slow|slow]]_ spell) for 1d3 rounds, with no saving throw. A magical attack that deals fire damage breaks any _slow_ effect on the golem and heals 1 point of damage for each point of damage the attack would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points.
+**Immunity to Magic (Ex):** An amber golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature. A magical attack that deals cold damage slows an amber golem (as the _[[rangoric-srd/spells/Slow|slow]]_ spell) for 1d3 rounds, with no attack against a defense. A magical attack that deals fire damage breaks any _slow_ effect on the golem and heals 1 point of damage for each point of damage the attack would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points.
 
 ## Construction
 

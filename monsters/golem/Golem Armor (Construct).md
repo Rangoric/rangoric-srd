@@ -16,7 +16,7 @@ full-attack: "2 claws +15 melee (1d8+6) and 2 wing blades +10 melee (1d12+3); or
 space-reach: "5 ft./5 ft."
 special-attacks: "Spikes"
 special-qualities: "Closed environment, Construct traits, damage reduction 30/magic, heightened senses, magic immunity, synchronize"
-saves: "Fort +4, Ref +9, Will +4"
+defenses: "Fort 14, Ref 19, Will 14"
 abilities: "Str 23, Dex 20, Con —, Int —, Wis 11, Cha 1"
 skills: "—"
 feats: "—"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Spikes
 - **Special Qualities**: Closed environment, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|construct traits]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 30/magic, heightened senses, magic immunity, synchronize
-- **Saves**: Fort +4, Ref +9, Will +4
+- **Defenses**: Fort 14, Ref 19, Will 14
 - **Abilities**: Str 23, Dex 20, Con —, Int —, Wis 11, Cha 1
 - **Skills**: —
 - **Feats**: —
@@ -70,15 +70,15 @@ A suit of golem armor responds to the will of its creator, and does not allow an
 
 ## Combat (Unoccupied)
 
-Without an occupant to command it, golem armor can be controlled by its creator to act upon fairly limited commands (like a typical iron golem). In this case, golem armor can move, attack, and cast spells based on the better abilities of either the trapped creature or the golem armor. At the end of each combat, the creator must make a Will save (DC 15 plus the HD of the trapped creature) to regain control over the golem armor. If failed, the golem armor attacks its creator.
+Without an occupant to command it, golem armor can be controlled by its creator to act upon fairly limited commands (like a typical iron golem). In this case, golem armor can move, attack, and cast spells based on the better abilities of either the trapped creature or the golem armor. At the end of each combat, the trapped spirit attacks the creator's Will (attack bonus 5 + the HD of the trapped creature), and on a miss the creator regains control over the golem armor. On a hit, the golem armor attacks its creator.
 
-If the creator is killed, the soul binding is broken and the creature returns to its native plane. If the creator escapes, the golem armor becomes an independent spirit until its creator can get within 30 feet of it to regain control (the Will save increases by 1 for each day that the golem remains independent).
+If the creator is killed, the soul binding is broken and the creature returns to its native plane. If the creator escapes, the golem armor becomes an independent spirit until its creator can get within 30 feet of it to regain control (the spirit's attack bonus increases by 1 for each day that the golem remains independent).
 
 In addition to whatever abilities the base creature possesses, golem armor has the following abilities:
 
 **Heightened Senses (Ex):** Golem armor’s magical senses link directly into the mind of its occupant. This provides the wearer with a +5 competence bonus on [[rangoric-srd/skills/Perception|Perception]] checks, as well as darkvision to a range of 60 feet.
 
-**Magic Immunity (Ex):** Golem armor is immune to all spells, spell-like abilities, and supernatural effects, except for the following: Electricity effects heal the golem of 1 hit point for every 3 points of damage the spell inflicts. A _[[rangoric-srd/spells/Break Enchantment|break enchantment]]_ spell cast on golem armor forces the creator to immediately make a saving throw to regain control as detailed above. A _[[rangoric-srd/spells/Transmute Metal to Wood|transmute metal to wood]]_ spell forces the golem armor to make a Fortitude save (DC 25) or be stunned for 1-2 rounds.
+**Magic Immunity (Ex):** Golem armor is immune to all spells, spell-like abilities, and supernatural effects, except for the following: Electricity effects heal the golem of 1 hit point for every 3 points of damage the spell inflicts. A _[[rangoric-srd/spells/Break Enchantment|break enchantment]]_ spell cast on golem armor makes the trapped spirit immediately attack the creator's Will as detailed above, and on a miss the creator regains control. A _[[rangoric-srd/spells/Transmute Metal to Wood|transmute metal to wood]]_ spell attacks the golem armor at +15 vs Fortitude, and on a hit it is stunned for 1-2 rounds.
 
 **Spikes (Ex):** The golem can launch a deadly spike from magazines on its wrists. The spikes inflict 1d8+3 points of damage on a successful ranged attack. The spikes have a range increment of 100 feet. Each launcher holds 10 mithral spikes and reloads automatically, firing at a rate of 1 spike per round. Refilling the spike cartridges takes a full-round action for each launcher.
 
@@ -90,7 +90,7 @@ A creature encased within golem armor gains the better of either its or the gole
 
 **Heightened Senses (Ex):** Golem armor’s magical senses link directly into the mind of its occupant. This provides the wearer with a +5 competence bonus on Perception checks, as well as darkvision to a range of 60 feet.
 
-**Magic Immunity (Ex):** Golem armor is immune to all spells, spell-like abilities, and supernatural effects, except for the following: Electricity effects heal the golem of 1 hit point for every 3 points of damage the spell inflicts. A _[[rangoric-srd/spells/Break Enchantment|break enchantment]]_ spell cast on occupied golem armor forces the wearer out of the armor unless a Fortitude save (DC 25) is made. A _[[rangoric-srd/spells/Transmute Metal to Wood|transmute metal to wood]]_ spell forces the golem armor to make a Fortitude save (DC 25) or be stunned for 1-2 rounds.
+**Magic Immunity (Ex):** Golem armor is immune to all spells, spell-like abilities, and supernatural effects, except for the following: Electricity effects heal the golem of 1 hit point for every 3 points of damage the spell inflicts. A _[[rangoric-srd/spells/Break Enchantment|break enchantment]]_ spell cast on occupied golem armor attacks the wearer at +15 vs Fortitude, and on a hit forces it out of the armor. A _[[rangoric-srd/spells/Transmute Metal to Wood|transmute metal to wood]]_ spell attacks the golem armor at +15 vs Fortitude, and on a hit it is stunned for 1-2 rounds.
 
 **Spikes (Ex):** The golem can launch a deadly spike from magazines on its wrists. The spikes inflict 1d8+3 points of damage on a successful ranged attack. The spikes have a range increment of 100 feet. Each launcher holds 10 mithral spikes and reloads automatically, firing at a rate of 1 spike per round. Refilling the spike cartridges takes a full-round action for each launcher.
 

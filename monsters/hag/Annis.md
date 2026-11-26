@@ -15,7 +15,7 @@ full-attack: "Bite +13 melee (1d6+7) and 2 claws +13 melee (1d6+7 plus grab)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Rake (2 claws +13, 1d6+7), rend (2 claws, 2d6+10), spell-like abilities"
 special-qualities: "Darkvision 60 ft., damage reduction 5/bludgeoning, spell resistance 17"
-saves: "Fort +8, Ref +6, Will +6"
+defenses: "Fort 18, Ref 16, Will 16"
 abilities: "Str 25, Dex 12, Con 18, Int 13, Wis 13, Cha 10"
 skills: "Deception +7, Intimidation +17, Perception +14, Persuasion +7, Sense Motive +1, Stealth +7"
 skill-ranks: "Deception 4, Intimidation 14, Perception 9, Persuasion 4, Sense Motive 2, Stealth 7"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rake|Rake]] (2 claws +13, 1d6+7), [[rangoric-srd/monsters/abilities/Rend|rend]] (2 claws, 2d6+10), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/bludgeoning, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 17
-- **Saves**: Fort +8, Ref +6, Will +6
+- **Defenses**: Fort 18, Ref 16, Will 16
 - **Abilities**: Str 25, Dex 12, Con 18, Int 13, Wis 13, Cha 10
 - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +17, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +1, [[rangoric-srd/skills/Stealth|Stealth]] +7
 - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

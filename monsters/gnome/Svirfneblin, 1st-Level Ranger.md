@@ -16,7 +16,7 @@ full-attack: "Heavy pick +3 melee (1d4+1/×4); or light crossbow +4 ranged (1d6/
 space-reach: "5 ft./5 ft."
 special-attacks: "Favored enemy (dwarf +2), +1 to attack vs. dwarven and reptilian humanoids, spell-like abilities"
 special-qualities: "Darkvision 120 ft., low-light vision, stonecunning, track, wild empathy +0, spell resistance 12"
-saves: "Fort +6, Ref +6, Will +2"
+defenses: "Fort 16, Ref 16, Will 12"
 abilities: "Str 13, Dex 15, Con 14, Int 10, Wis 10, Cha 8"
 skills: "Craft (alchemy) +6, Dungeoneering +4, Fieldcraft +4 (+5 tracking), Medicine +4, Perception +6, Stealth +12 (+14 underground)"
 skill-ranks: "Craft (alchemy) 3, Dungeoneering 1, Fieldcraft 1, Medicine 1, Perception 1, Stealth 1"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Favored enemy (dwarf +2), +1 to attack vs. dwarven and reptilian humanoids, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], stonecunning, track, wild empathy +0, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 12
-- **Saves**: Fort +6, Ref +6, Will +2
+- **Defenses**: Fort 16, Ref 16, Will 12
 - **Abilities**: Str 13, Dex 15, Con 14, Int 10, Wis 10, Cha 8
 - **Skills**: [[rangoric-srd/skills/Craft|Craft]] (alchemy) +6, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +4, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4 (+5 tracking), [[rangoric-srd/skills/Medicine|Medicine]] +4, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +12 (+14 underground)
 - **Feats**: [[rangoric-srd/feats/Toughness|Toughness]]
@@ -72,4 +72,4 @@ Svirfneblin speak Gnome and Undercommon.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 1st): Constant—_[[rangoric-srd/spells/Nondetection|nondetection]]_; 1/day—_[[rangoric-srd/spells/Blindness-Deafness|blindness/deafness]]_ (DC 12), _[[rangoric-srd/spells/Blur|blur]]_, _[[rangoric-srd/spells/Disguise Self|disguise self]]_.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 1st): Constant—_[[rangoric-srd/spells/Nondetection|nondetection]]_; 1/day—_[[rangoric-srd/spells/Blindness-Deafness|blindness/deafness]]_ (+2 vs Fortitude), _[[rangoric-srd/spells/Blur|blur]]_, _[[rangoric-srd/spells/Disguise Self|disguise self]]_.

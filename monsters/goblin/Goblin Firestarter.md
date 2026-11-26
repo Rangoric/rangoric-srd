@@ -16,7 +16,7 @@ full-attack: "Masterwork dogslicer +8 melee (1d4+5/19–20) and masterwork dogsl
 space-reach: "5 ft./5 ft."
 special-attacks: "Sneak attack +3d6 (+5 in the surprise round or before the target has acted), debilitating injury"
 special-qualities: "Darkvision 60 ft., evasion, danger sense +1, uncanny dodge, rogue talents (combat trick, surprise attack), trapfinding +2, weapon familiarity, finesse training (dogslicer), rogue's edge (Stealth)"
-saves: "Fort +3, Ref +9, Will +2"
+defenses: "Fort 13, Ref 19, Will 12"
 abilities: "Str 11, Dex 20, Con 14, Int 8, Wis 12, Cha 8"
 skills: "Acrobatics +13, Athletics +8, Engineering +13, Escape Artist +13, Perception +9, Sleight of Hand +13, Stealth +17"
 skill-ranks: "Acrobatics 5, Athletics 5, Engineering 5, Escape Artist 5, Perception 5, Sleight of Hand 5, Stealth 5"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +3d6 (+5 in the surprise round or before the target has acted), [[rangoric-srd/classes/Rogue#^rogue-debilitating-injury|debilitating injury]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Rogue#^rogue-evasion|evasion]], [[rangoric-srd/classes/Rogue#^rogue-trap-sense|danger sense]] +1, [[rangoric-srd/classes/Rogue#^rogue-uncanny-dodge|uncanny dodge]], [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]] ([[rangoric-srd/class-options/rogue-talents/Combat Trick (Rogue Talent)|combat trick]], [[rangoric-srd/class-options/rogue-talents/Surprise Attack (Rogue Talent)|surprise attack]]), [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +2, [[rangoric-srd/races/racial-traits/Weapon Familiarity (Goblin Trait)|weapon familiarity]], [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]] (dogslicer), [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]] ([[rangoric-srd/skills/Stealth|Stealth]])
-- **Saves**: Fort +3, Ref +9, Will +2
+- **Defenses**: Fort 13, Ref 19, Will 12
 - **Abilities**: Str 11, Dex 20, Con 14, Int 8, Wis 12, Cha 8
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Engineering|Engineering]] +13, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +13, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +17
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (shortbow)

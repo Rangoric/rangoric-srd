@@ -16,7 +16,7 @@ full-attack: "Masterwork rapier +7/+2 melee (1d4+4); or +1 heavy crossbow +13 ra
 space-reach: "5 ft./5 ft."
 special-attacks: "Impromptu sneak attack 1/day, sneak attack +4d6, debilitating injury"
 special-qualities: "Evasion, danger sense +1, uncanny dodge, arcane bond (+1 heavy crossbow), bloodline arcana (+1 DC for spells with metamagic feats that increase spell level), metamagic adept (1/day), ranged legerdemain, rogue talents (quick disable, trap spotter), trapfinding +2, finesse training (rapier)"
-saves: "Fort +9, Ref +18, Will +12 (+2 vs. fear)"
+defenses: "Fort 19, Ref 28, Will 22 (+2 vs. fear)"
 abilities: "Str 6, Dex 18, Con 16, Int 13, Wis 10, Cha 16"
 skills: "Acrobatics +15, Arcana +10, Athletics +9 (+5 jumping), Emulation +12, Engineering +26, Escape Artist +11, Perception +16, Stealth +26"
 skill-ranks: "Acrobatics 8, Arcana 6, Athletics 8, Emulation 6, Engineering 19, Escape Artist 4, Perception 13, Stealth 13"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/prestige-classes/Arcane Trickster|Impromptu sneak attack]] 1/day, [[rangoric-srd/prestige-classes/Arcane Trickster|sneak attack]] +4d6, [[rangoric-srd/classes/Rogue#^rogue-debilitating-injury|debilitating injury]]
 - **Special Qualities**: [[rangoric-srd/classes/Rogue#^rogue-evasion|Evasion]], [[rangoric-srd/classes/Rogue#^rogue-trap-sense|danger sense]] +1, [[rangoric-srd/classes/Rogue#^rogue-uncanny-dodge|uncanny dodge]], [[rangoric-srd/class-options/bloodlines/Arcane Bloodline|arcane bond]] (+1 heavy crossbow), [[rangoric-srd/class-options/bloodlines/Arcane Bloodline|bloodline arcana]] (+1 DC for spells with metamagic feats that increase spell level), [[rangoric-srd/class-options/bloodlines/Arcane Bloodline|metamagic adept]] (1/day), [[rangoric-srd/prestige-classes/Arcane Trickster|ranged legerdemain]], [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]] ([[rangoric-srd/class-options/rogue-talents/Quick Disable (Rogue Talent)|quick disable]], [[rangoric-srd/class-options/rogue-talents/Trap Spotter (Rogue Talent)|trap spotter]]), [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +2, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]] (rapier)
-- **Saves**: Fort +9, Ref +18, Will +12 (+2 vs. fear)
+- **Defenses**: Fort 19, Ref 28, Will 22 (+2 vs. fear)
 - **Abilities**: Str 6, Dex 18, Con 16, Int 13, Wis 10, Cha 16
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Arcana|Arcana]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +9 (+5 jumping), [[rangoric-srd/skills/Emulation|Emulation]] +12, [[rangoric-srd/skills/Engineering|Engineering]] +26, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +11, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +26
 - **Feats**: [[rangoric-srd/feats/Arcane Armor Training|Arcane Armor Training]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Extend Spell|Extend Spell]], [[rangoric-srd/feats/Improved Lightning Reflexes|Improved Lightning Reflexes]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Nimble Moves|Nimble Moves]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Engineering), [[rangoric-srd/feats/Still Spell|Still Spell]]

@@ -15,7 +15,7 @@ full-attack: "2 slam +8 melee (1d6+4 plus disease)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Disease"
 special-qualities: "Darkvision 60 ft., low-light vision, junk repair, discorporate, damage reduction 5/adamantine, immunity to magic, construct traits"
-saves: "Fort +1, Ref +0, Will +1"
+defenses: "Fort 11, Ref 10, Will 11"
 abilities: "Str 18, Dex 9, Con —, Int —, Wis 11, Cha 1"
 skills: "—"
 skill-ranks: ""
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Disease|Disease]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Junk Repair|junk repair]], [[rangoric-srd/monsters/abilities/Discorporate|discorporate]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/adamantine, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to magic, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]]
-- **Saves**: Fort +1, Ref +0, Will +1
+- **Defenses**: Fort 11, Ref 10, Will 11
 - **Abilities**: Str 18, Dex 9, Con —, Int —, Wis 11, Cha 1
 - **Skills**: —
 - **Feats**: —
@@ -68,7 +68,7 @@ Junk golems are assembled from trash and spare parts, and often leave trails of 
 
 **[[rangoric-srd/monsters/abilities/Discorporate|Discorporate]] (Ex)**: A junk golem can break apart into its constituent pieces as a standard action, becoming a swarming mass of Tiny parts. It gains the swarm subtype, its space changes to 10 feet, and its reach changes to 0. In this form, it gains a swarm attack that deals 1d6 points of damage and inflicts disease, but loses its slam attacks. It can revert back to its normal form as a full-round action.
 
-**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Ex)**: [[rangoric-srd/rules/afflictions/Tetanus|Tetanus]]: Slam—injury; _save_ Fort DC 12; _onset_ 1d6 days; _frequency_ 1 day; _effect_ 1d4 Dex damage. Each time someone takes Dex damage from tetanus, there's a 50% chance his jaw muscles stiffen, preventing speech and the use of spells with verbal components for 24 hours; _cure_ 2 consecutive saves. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Ex)**: [[rangoric-srd/rules/afflictions/Tetanus|Tetanus]]: Slam—injury; _attack_ +2 vs Fortitude; _onset_ 1d6 days; _frequency_ 1 day; _effect_ 1d4 Dex damage. Each time someone takes Dex damage from tetanus, there's a 50% chance his jaw muscles stiffen, preventing speech and the use of spells with verbal components for 24 hours; _cure_ 2 consecutive misses. The attack bonus is Constitution-based.
 
 **Immunity to Magic (Ex)**: A junk golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against a junk golem, as noted below.
 

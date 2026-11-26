@@ -14,9 +14,9 @@ cmd: "18"
 attack: "Slam +9 melee (1d6+3 plus 1d6 cold)"
 full-attack: "2 slams +9 melee (1d6+3 plus 1d6 cold)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Breath weapon (20-ft. cone, 3d6 cold damage, Reflex DC 13 half, usable once every 1d4 rounds), cold (1d6), icy destruction"
+special-attacks: "Breath weapon (20-ft. cone, 3d6 cold damage, +3 vs Reflex; a miss halves, usable once every 1d4 rounds), cold (1d6), icy destruction"
 special-qualities: "Darkvision 60 ft., low-light vision, damage reduction 5/adamantine, immunity to cold and magic, construct traits, vulnerability to fire"
-saves: "Fort +2, Ref +1, Will +2"
+defenses: "Fort 12, Ref 11, Will 12"
 abilities: "Str 16, Dex 9, Con —, Int —, Wis 11, Cha 1"
 skills: "—"
 skill-ranks: ""
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Slam +9 melee (1d6+3 plus 1d6 cold)
 - **Full Attack**: 2 slams +9 melee (1d6+3 plus 1d6 cold)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (20-ft. cone, 3d6 cold damage, Reflex DC 13 half, usable once every 1d4 rounds), [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^cold|cold (1d6)]], icy destruction
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (20-ft. cone, 3d6 cold damage, +3 vs Reflex; a miss halves, usable once every 1d4 rounds), [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^cold|cold (1d6)]], icy destruction
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/adamantine, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold and magic, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to fire]]
-- **Saves**: Fort +2, Ref +1, Will +2
+- **Defenses**: Fort 12, Ref 11, Will 12
 - **Abilities**: Str 16, Dex 9, Con —, Int —, Wis 11, Cha 1
 - **Skills**: —
 - **Feats**: —
@@ -75,9 +75,9 @@ CL 12th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd
 
 **Cold (Ex)**: An ice golem's body generates intense cold, dealing 1d6 points of damage with its touch. Creatures attacking an ice golem with unarmed strikes or natural weapons take this same cold damage each time one of their attacks hits.
 
-**Icy Destruction (Ex)**: When reduced to 0 hit points, an ice golem shatters in an explosion of jagged shards of ice. All creatures within a 10-foot burst take 3d6 points of slashing damage and 2d6 points of cold damage; a DC 13 Reflex save halves the damage. The save DC is Constitution-based.
+**Icy Destruction (Ex)**: When reduced to 0 hit points, an ice golem shatters in an explosion of jagged shards of ice. All creatures within a 10-foot burst take 3d6 points of slashing damage and 2d6 points of cold damage; it attacks at +3 vs Reflex, and a miss halves the damage. The attack bonus is Constitution-based.
 
 **Immunity to Magic (Ex)**: An ice golem is immune to any spell or spell-like ability that allows spell resistance, with the exception of spells and spell-like abilities that have the Fire descriptor, which affect it normally. In addition, certain spells and effects function differently against the creature, as noted below.
 
-- A magical attack that deals electricity damage slows an ice golem (as the _[[rangoric-srd/spells/Slow|slow]]_ spell) for 2d6 rounds, with no saving throw.
-- A magical attack that deals cold damage breaks any _[[rangoric-srd/spells/Slow|slow]]_ effect on the golem and heals 1 point of damage for every 3 points of damage the attack would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. An ice golem gets no saving throw against cold effects.
+- A magical attack that deals electricity damage slows an ice golem (as the _[[rangoric-srd/spells/Slow|slow]]_ spell) for 2d6 rounds, with no attack against a defense.
+- A magical attack that deals cold damage breaks any _[[rangoric-srd/spells/Slow|slow]]_ effect on the golem and heals 1 point of damage for every 3 points of damage the attack would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. Cold effects hit an ice golem's defenses automatically.

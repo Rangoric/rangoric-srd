@@ -15,7 +15,7 @@ full-attack: "Warhammer +0 melee (1d4–2/×3) and bite –2 melee (1d3–2)"
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "Speedy sabotage, wrecking crew, spell-like abilities"
 special-qualities: "Darkvision 120 ft., low-light vision, damage reduction 5/cold iron, spell resistance 12"
-saves: "Fort +2, Ref +3, Will +3"
+defenses: "Fort 12, Ref 13, Will 13"
 abilities: "Str 6, Dex 13, Con 14, Int 12, Wis 13, Cha 11"
 skills: "Appraise +2, Athletics +13, Craft (traps) +5, Engineering +9, Perception +5, Stealth +13 (+17 in metal or stony areas, +9 when moving)"
 skill-ranks: "Appraise 1, Athletics 12, Craft (traps) 1, Engineering 1, Perception 1, Stealth 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Speedy Sabotage|Speedy sabotage]], [[rangoric-srd/monsters/abilities/Wrecking Crew|wrecking crew]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 12
-- **Saves**: Fort +2, Ref +3, Will +3
+- **Defenses**: Fort 12, Ref 13, Will 13
 - **Abilities**: Str 6, Dex 13, Con 14, Int 12, Wis 13, Cha 11
 - **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +2, [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Craft|Craft]] (traps) +5, [[rangoric-srd/skills/Engineering|Engineering]] +9, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +13 (+17 in metal or stony areas, +9 when moving)
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Engineering), [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]

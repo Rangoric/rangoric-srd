@@ -15,7 +15,7 @@ full-attack: "2 claws +13 melee (1d4+4 plus weakness)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 90 ft., mimicry, spell resistance 16"
-saves: "Fort +6, Ref +7, Will +7"
+defenses: "Fort 16, Ref 17, Will 17"
 abilities: "Str 19, Dex 12, Con 12, Int 15, Wis 13, Cha 14"
 skills: "Arcana +11, Athletics +18, Deception +14, Imitation +11, Perception +16, Sense Motive +7, Stealth +13"
 skill-ranks: "Arcana 6, Athletics 11, Deception 8, Imitation 8, Perception 11, Sense Motive 5, Stealth 9"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 90 ft., mimicry, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 16
-- **Saves**: Fort +6, Ref +7, Will +7
+- **Defenses**: Fort 16, Ref 17, Will 17
 - **Abilities**: Str 19, Dex 12, Con 12, Int 15, Wis 13, Cha 14
 - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Deception|Deception]] +14, [[rangoric-srd/skills/Imitation|Imitation]] +11, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +13
 - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception, Perception)
@@ -69,9 +69,9 @@ A typical green hag stands between 5 and 6 feet tall and weighs just under 160 p
 
 When three hags of any type gather, they can form a coven to gain increased magical ability. Any combination of hags can form a coven, but green hags are the most common members of such foul gatherings.
 
-Whenever all three hags of a particular coven are within 10 feet of one another, all three of them can work together to use any of the following spell-like abilities: _[[rangoric-srd/spells/Animate Dead|animate dead]]_, _[[rangoric-srd/spells/Baleful Polymorph|baleful polymorph]]_ (DC 18), _[[rangoric-srd/spells/Blight|blight]]_ (DC 17), _[[rangoric-srd/spells/Bestow Curse|bestow curse]]_ (DC 17), _[[rangoric-srd/spells/Clairaudience-Clairvoyance|clairaudience/clairvoyance]]_, _[[rangoric-srd/spells/Charm Monster|charm monster]]_ (DC 17), _[[rangoric-srd/spells/Commune|commune]]_, _[[rangoric-srd/spells/Control Weather|control weather]]_, _[[rangoric-srd/spells/Dream|dream]]_, _[[rangoric-srd/spells/Forcecage|forcecage]]_, _[[rangoric-srd/spells/Mind Blank|mind blank]]_, _[[rangoric-srd/spells/Mirage Arcana|mirage arcana]]_ (DC 18), _[[rangoric-srd/spells/Reincarnate|reincarnate]]_, _[[rangoric-srd/spells/Speak with Dead|speak with dead]]_, _[[rangoric-srd/spells/Veil|veil]]_ (DC 19), _[[rangoric-srd/spells/Vision|vision]]_.
+Whenever all three hags of a particular coven are within 10 feet of one another, all three of them can work together to use any of the following spell-like abilities: _[[rangoric-srd/spells/Animate Dead|animate dead]]_, _[[rangoric-srd/spells/Baleful Polymorph|baleful polymorph]]_ (+8), _[[rangoric-srd/spells/Blight|blight]]_ (+7 vs Fortitude), _[[rangoric-srd/spells/Bestow Curse|bestow curse]]_ (+7 vs Will), _[[rangoric-srd/spells/Clairaudience-Clairvoyance|clairaudience/clairvoyance]]_, _[[rangoric-srd/spells/Charm Monster|charm monster]]_ (+7 vs Will), _[[rangoric-srd/spells/Commune|commune]]_, _[[rangoric-srd/spells/Control Weather|control weather]]_, _[[rangoric-srd/spells/Dream|dream]]_, _[[rangoric-srd/spells/Forcecage|forcecage]]_, _[[rangoric-srd/spells/Mind Blank|mind blank]]_, _[[rangoric-srd/spells/Mirage Arcana|mirage arcana]]_ (+8 vs Will), _[[rangoric-srd/spells/Reincarnate|reincarnate]]_, _[[rangoric-srd/spells/Speak with Dead|speak with dead]]_, _[[rangoric-srd/spells/Veil|veil]]_ (+9 vs Will), _[[rangoric-srd/spells/Vision|vision]]_.
 
-All three hags must take a full-round action to take part in this form of cooperative magic. All coven spell-like abilities function at CL 9th (or at the highest CL available to the most powerful hag in the coven). The save DCs are Charisma-based, and function as if with a Charisma score of 16 unless one of the hags has a higher Charisma score, in which case the spell-like ability DCs are adjusted by that hag's Charisma modifier.
+All three hags must take a full-round action to take part in this form of cooperative magic. All coven spell-like abilities function at CL 9th (or at the highest CL available to the most powerful hag in the coven). The attack bonuses are Charisma-based, and function as if with a Charisma score of 16 unless one of the hags has a higher Charisma score, in which case the spell-like ability DCs are adjusted by that hag's Charisma modifier.
 
 At the GM's discretion, certain more powerful hag covens might have additional spell-like abilities.
 
@@ -79,8 +79,8 @@ At the GM's discretion, certain more powerful hag covens might have additional s
 
 Green hags prefer to attack from hiding, usually after distracting foes. They often use darkvision to their advantage by attacking during moonless nights.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th): Constant—_[[rangoric-srd/spells/Pass without Trace|pass without trace]], [[rangoric-srd/spells/Tongues|tongues]], [[rangoric-srd/spells/Water Breathing|water breathing]]_; At will—_[[rangoric-srd/spells/Alter Self|alter self]], [[rangoric-srd/spells/Dancing Lights|dancing lights]], [[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (DC 12), _[[rangoric-srd/spells/Invisibility|invisibility]], [[rangoric-srd/spells/Pyrotechnics|pyrotechnics]]_ (DC 14), _[[rangoric-srd/spells/Tree Shape|tree shape]], [[rangoric-srd/spells/Whispering Wind|whispering wind]]_.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th): Constant—_[[rangoric-srd/spells/Pass without Trace|pass without trace]], [[rangoric-srd/spells/Tongues|tongues]], [[rangoric-srd/spells/Water Breathing|water breathing]]_; At will—_[[rangoric-srd/spells/Alter Self|alter self]], [[rangoric-srd/spells/Dancing Lights|dancing lights]], [[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (+2 vs Will), _[[rangoric-srd/spells/Invisibility|invisibility]], [[rangoric-srd/spells/Pyrotechnics|pyrotechnics]]_ (+4), _[[rangoric-srd/spells/Tree Shape|tree shape]], [[rangoric-srd/spells/Whispering Wind|whispering wind]]_.
 
-**Weakness (Su)**: A green hag's claws sap strength from those she strikes. Each time a green hag hits a foe with her claw attack, the victim takes 2 points of Strength damage unless he resists the weakness with a DC 16 Fortitude save. Alternatively, a green hag can attempt to inflict even greater weakness on a foe by making a touch attack—this variant requires a standard action, and cannot be attempted in the same round the hag makes claw attacks. The opponent touched must succeed on a DC 16 Fortitude save or take 2d4 points of Strength damage. The save DC is Charisma-based.
+**Weakness (Su)**: A green hag's claws sap strength from those she strikes. Each time a green hag hits a foe with her claw attack, the weakness attacks the victim at +6 vs Fortitude, and on a hit the victim takes 2 points of Strength damage. Alternatively, a green hag can attempt to inflict even greater weakness on a foe by making a touch attack—this variant requires a standard action, and cannot be attempted in the same round the hag makes claw attacks. It attacks the opponent touched at +6 vs Fortitude, and on a hit the opponent takes 2d4 points of Strength damage. The attack bonus is Charisma-based.
 
 **Mimicry (Ex)**: A green hag can imitate the sounds of almost any animal found near its lair.

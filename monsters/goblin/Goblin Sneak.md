@@ -16,7 +16,7 @@ full-attack: "Masterwork dogslicer +5 melee (1d4/19–20) and dogslicer +4 melee
 space-reach: "5 ft./5 ft."
 special-attacks: "Sneak attack +1d6 (+2 in the surprise round or before the target has acted)"
 special-qualities: "Darkvision 60 ft., evasion, rogue talents (combat trick), trapfinding +1, weapon familiarity, finesse training"
-saves: "Fort +2, Ref +7, Will +1"
+defenses: "Fort 12, Ref 17, Will 11"
 abilities: "Str 11, Dex 19, Con 14, Int 8, Wis 12, Cha 8"
 skills: "Acrobatics +8, Athletics +4, Engineering +8, Escape Artist +8, Perception +6, Sleight of Hand +8, Stealth +12"
 skill-ranks: "Acrobatics 1, Athletics 1, Engineering 1, Escape Artist 1, Perception 2, Sleight of Hand 1, Stealth 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +1d6 (+2 in the surprise round or before the target has acted)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Rogue#^rogue-evasion|evasion]], [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]] ([[rangoric-srd/class-options/rogue-talents/Combat Trick (Rogue Talent)|combat trick]]), [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +1, [[rangoric-srd/races/racial-traits/Weapon Familiarity (Goblin Trait)|weapon familiarity]], [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]]
-- **Saves**: Fort +2, Ref +7, Will +1
+- **Defenses**: Fort 12, Ref 17, Will 11
 - **Abilities**: Str 11, Dex 19, Con 14, Int 8, Wis 12, Cha 8
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +4, [[rangoric-srd/skills/Engineering|Engineering]] +8, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +8, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +12
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]

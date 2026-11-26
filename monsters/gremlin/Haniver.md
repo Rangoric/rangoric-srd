@@ -16,7 +16,7 @@ full-attack: "Bite +1 melee (1d3–1)"
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "Misplacement"
 special-qualities: "Darkvision 60 ft., low-light vision, amphibious, damage reduction 2/cold iron, spell resistance 11"
-saves: "Fort +1, Ref +3, Will +2"
+defenses: "Fort 11, Ref 13, Will 12"
 abilities: "Str 9, Dex 13, Con 12, Int 8, Wis 11, Cha 12"
 skills: "Acrobatics +5, Athletics +11, Engineering +3, Imitation +5, Perception +4, Sleight of Hand +7, Stealth +13"
 skill-ranks: "Acrobatics 0, Athletics 9, Engineering 0, Imitation 1, Perception 1, Sleight of Hand 1, Stealth 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Misplacement|Misplacement]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 2/cold iron, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 11
-- **Saves**: Fort +1, Ref +3, Will +2
+- **Defenses**: Fort 11, Ref 13, Will 12
 - **Abilities**: Str 9, Dex 13, Con 12, Int 8, Wis 11, Cha 12
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Engineering|Engineering]] +3, [[rangoric-srd/skills/Imitation|Imitation]] +5, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +13
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]

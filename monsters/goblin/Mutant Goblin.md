@@ -14,9 +14,9 @@ cmd: "18"
 attack: "Claw +9 melee (1d3+5) or composite shortbow +7 ranged (1d4+5/×3)"
 full-attack: "2 claws +9 melee (1d3+5); or composite shortbow +7 ranged (1d4+5/×3)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Breath weapon (20-ft. line, 3d4 acid damage, Reflex DC 14 half, usable every 1d4 rounds), rage (10 rounds/day), rage powers (superstition +2)"
+special-attacks: "Breath weapon (20-ft. line, 3d4 acid damage, +4 vs Reflex; a miss halves, usable every 1d4 rounds), rage (10 rounds/day), rage powers (superstition +2)"
 special-qualities: "Darkvision 60 ft., fast healing 1, trap sense +1, uncanny dodge, fast movement, mutations (breath weapon, claws, fast healing, wings)"
-saves: "Fort +7, Ref +4, Will +4 (+2 vs. magic)"
+defenses: "Fort 17, Ref 14, Will 14 (+2 vs. magic)"
 abilities: "Str 21, Dex 17, Con 18, Int 8, Wis 12, Cha 6"
 skills: "Acrobatics –4, Animal Handling +6, Athletics +10, Intimidation +4, Perception +7, Stealth +13"
 skill-ranks: "Acrobatics 0, Animal Handling 0, Athletics 2, Intimidation 3, Perception 3, Stealth 2"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Claw +9 melee (1d3+5) or [[rangoric-srd/equipment/weapons/Composite Shortbow|composite shortbow]] +7 ranged (1d4+5/×3)
 - **Full Attack**: 2 claws +9 melee (1d3+5); or [[rangoric-srd/equipment/weapons/Composite Shortbow|composite shortbow]] +7 ranged (1d4+5/×3)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (20-ft. line, 3d4 acid damage, Reflex DC 14 half, usable every 1d4 rounds), [[rangoric-srd/classes/Barbarian#^barbarian-rage|rage]] (10 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/Superstition (Rage Power)|superstition]] +2)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (20-ft. line, 3d4 acid damage, +4 vs Reflex; a miss halves, usable every 1d4 rounds), [[rangoric-srd/classes/Barbarian#^barbarian-rage|rage]] (10 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/Superstition (Rage Power)|superstition]] +2)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 1, [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] +1, [[rangoric-srd/classes/Barbarian#^barbarian-uncanny-dodge|uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/monsters/goblin/Mutant Goblin#Creating a Mutant Goblin|mutations]] ([[rangoric-srd/monsters/abilities/Breath Weapon|breath weapon]], claws, fast healing, wings)
-- **Saves**: Fort +7, Ref +4, Will +4 (+2 vs. magic)
+- **Defenses**: Fort 17, Ref 14, Will 14 (+2 vs. magic)
 - **Abilities**: Str 21, Dex 17, Con 18, Int 8, Wis 12, Cha 6
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –4, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +4, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +13
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]]

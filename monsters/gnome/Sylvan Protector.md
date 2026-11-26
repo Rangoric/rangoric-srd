@@ -16,7 +16,7 @@ full-attack: "Sickle +1 melee (1d4–2)"
 space-reach: "5 ft./5 ft."
 special-attacks: "+1 on attack rolls against goblinoid and reptilian humanoids, rebuke air creatures, turn earth creatures (5/day)"
 special-qualities: "Low-light vision, defensive training (+4 dodge bonus to AC vs. giants), nature bond (Air domain), nature sense, wild empathy +5, woodland stride, trackless step"
-saves: "Fort +5, Ref +3, Will +5 (+2 vs. illusions)"
+defenses: "Fort 15, Ref 13, Will 15 (+2 vs. illusions)"
 abilities: "Str 6, Dex 14, Con 15, Int 10, Wis 15, Cha 14"
 skills: "Animal Handling +7, Fieldcraft +10, Medicine +6, Mysticism +6, Nature +6, Perception +8, Stealth +8"
 skill-ranks: "Animal Handling 2, Fieldcraft 5, Medicine 1, Mysticism 3, Nature 3, Perception 3, Stealth 2"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/races/Gnome|+1 on attack rolls against goblinoid and reptilian humanoids]], [[rangoric-srd/class-options/domains/Air Domain|rebuke air creatures, turn earth creatures]] (5/day)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/races/Gnome#^defensive-training|defensive training]] (+4 dodge bonus to AC vs. giants), [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]] ([[rangoric-srd/class-options/domains/Air Domain|Air domain]]), [[rangoric-srd/classes/Druid#^druid-nature-sense|nature sense]], [[rangoric-srd/classes/Druid#^druid-wild-empathy|wild empathy]] +5, [[rangoric-srd/classes/Druid#^druid-woodland-stride|woodland stride]], [[rangoric-srd/classes/Druid#^druid-trackless-step|trackless step]]
-- **Saves**: Fort +5, Ref +3, Will +5 (+2 vs. illusions)
+- **Defenses**: Fort 15, Ref 13, Will 15 (+2 vs. illusions)
 - **Abilities**: Str 6, Dex 14, Con 15, Int 10, Wis 15, Cha 14
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +7, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Medicine|Medicine]] +6, [[rangoric-srd/skills/Mysticism|Mysticism]] +6, [[rangoric-srd/skills/Nature|Nature]] +6, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +8
 - **Feats**: [[rangoric-srd/feats/Augment Summoning|Augment Summoning]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (conjuration)
@@ -73,4 +73,4 @@ A sylvan protector speaks Common, Druidic, and Gnome.
 
 **Gnome Spell-Like Abilities** (CL 3rd; concentration +5): 1/day—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_, _[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_, _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_.
 
-**Druid spells prepared** (CL 3rd; concentration +5): 2nd—_[[rangoric-srd/spells/Flaming Sphere|flaming sphere]]_ (DC 14), _[[rangoric-srd/spells/Summon Swarm|summon swarm]]_, _[[rangoric-srd/spells/Wind Wall|wind wall]]_ <sup>D</sup>; 1st—_[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_ (2), _[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]_ <sup>D</sup>, _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_; 0 (at will)—_[[rangoric-srd/spells/Flare|flare]]_ (DC 12), _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]_, _[[rangoric-srd/spells/Virtue|virtue]]_; <sup>D</sup> domain spell; **Domain**: [[rangoric-srd/class-options/domains/Air Domain|Air]].
+**Druid spells prepared** (CL 3rd; concentration +5): 2nd—_[[rangoric-srd/spells/Flaming Sphere|flaming sphere]]_ (+4 vs Reflex), _[[rangoric-srd/spells/Summon Swarm|summon swarm]]_, _[[rangoric-srd/spells/Wind Wall|wind wall]]_ <sup>D</sup>; 1st—_[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_ (2), _[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]_ <sup>D</sup>, _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_; 0 (at will)—_[[rangoric-srd/spells/Flare|flare]]_ (+2 vs Fortitude), _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]_, _[[rangoric-srd/spells/Virtue|virtue]]_; <sup>D</sup> domain spell; **Domain**: [[rangoric-srd/class-options/domains/Air Domain|Air]].

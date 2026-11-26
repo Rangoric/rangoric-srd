@@ -15,7 +15,7 @@ full-attack: "2 slams +16 melee (2d8+5 plus bleed)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Bleed (1d8), dazzling brightness"
 special-qualities: "Darkvision 60 ft., low-light vision, reflect spells, damage reduction 5/adamantine, immunity to magic, construct traits"
-saves: "Fort +4, Ref +3, Will +4"
+defenses: "Fort 14, Ref 13, Will 14"
 abilities: "Str 20, Dex 9, Con —, Int —, Wis 11, Cha 1"
 skills: "—"
 skill-ranks: ""
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (1d8), [[rangoric-srd/monsters/abilities/Dazzling Brightness|dazzling brightness]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Reflect Spells|reflect spells]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/adamantine, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to magic, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]]
-- **Saves**: Fort +4, Ref +3, Will +4
+- **Defenses**: Fort 14, Ref 13, Will 14
 - **Abilities**: Str 20, Dex 9, Con —, Int —, Wis 11, Cha 1
 - **Skills**: —
 - **Feats**: —
@@ -70,14 +70,14 @@ A typical glass golem is 10 feet tall and weighs 2,500 pounds.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Dazzling Brightness|Dazzling Brightness]] (Ex)**: A glass golem in an area of bright light dazzles any creature within 30 feet that sees it for 1 round (Fortitude DC 16 negates). Once a creature makes its save against this ability, it is immune to that golem's brightness for 24 hours. The DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Dazzling Brightness|Dazzling Brightness]] (Ex)**: A glass golem in an area of bright light dazzles any creature within 30 feet that sees it for 1 round (+6 vs Fortitude). Once this ability misses a creature, it is immune to that golem's brightness for 24 hours. The attack bonus is Constitution-based.
 
 **Immune to Magic (Ex)**: A glass golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against a glass golem, as noted below.
 
 - A _[[rangoric-srd/spells/Shatter|shatter]]_ spell damages a glass golem as if it were a crystalline creature.
 - A _[[rangoric-srd/spells/Keen Edge|keen edge]]_ spell affects all of a glass golem's slam attacks as if they were slashing weapons.
-- A magical attack that deals cold damage slows a glass golem (as the _[[rangoric-srd/spells/Slow|slow]]_ spell) for 3 rounds (no saving throw).
-- A magical attack that deals fire damage ends any slow effect on the golem and heals 1 point of damage for each 3 points of damage the attack would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. A glass golem gets no saving throw against fire effects.
+- A magical attack that deals cold damage slows a glass golem (as the _[[rangoric-srd/spells/Slow|slow]]_ spell) for 3 rounds (no attack against a defense).
+- A magical attack that deals fire damage ends any slow effect on the golem and heals 1 point of damage for each 3 points of damage the attack would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. Fire effects hit a glass golem's defenses automatically.
 
 **[[rangoric-srd/monsters/abilities/Reflect Spells|Reflect Spells]] (Ex)**: As a free action once every 1d4 rounds, a glass golem can align its internal structure to enhance its resistance to magic for 1 round. During this time, the golem reflects spells (even spells that function differently against the golem as described in its immune to magic ability) as if under the effect of a spell turning spell.
 

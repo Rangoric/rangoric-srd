@@ -15,7 +15,7 @@ full-attack: "Dagger +0 melee (1d3–1/19–20); or dart +2 ranged (1d3–1)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Hatred, spell-like abilities"
 special-qualities: "Darkvision 120 ft., low-light vision, scent, vermin empathy +4, damage reduction 2/cold iron, light sensitivity"
-saves: "Fort +0, Ref +3, Will +3"
+defenses: "Fort 10, Ref 13, Will 13"
 abilities: "Str 8, Dex 13, Con 11, Int 8, Wis 13, Cha 8"
 skills: "Animal Handling +2, Athletics +7, Perception +5, Sleight of Hand +9, Stealth +13"
 skill-ranks: "Animal Handling 1, Athletics 5, Perception 1, Sleight of Hand 1, Stealth 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Hatred, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], vermin empathy +4, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 2/cold iron, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
-- **Saves**: Fort +0, Ref +3, Will +3
+- **Defenses**: Fort 10, Ref 13, Will 13
 - **Abilities**: Str 8, Dex 13, Con 11, Int 8, Wis 13, Cha 8
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +2, [[rangoric-srd/skills/Athletics|Athletics]] +7, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +13
 - **Feats**: [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]]
@@ -74,7 +74,7 @@ Mites speak Undercommon.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 1st): At will—_[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_; 1/day—_[[rangoric-srd/spells/Doom|doom]]_ (DC 10).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 1st): At will—_[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_; 1/day—_[[rangoric-srd/spells/Doom|doom]]_ (+0 vs Will).
 
 **Hatred (Ex)**: Mites receive a +1 bonus on attack rolls against humanoid creatures of the dwarf or gnome subtype due to special training against these hated foes.
 

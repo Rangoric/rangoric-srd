@@ -16,7 +16,7 @@ full-attack: "2 claws +8 melee (1d6+4)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Horrific appearance (60 ft.), evil eye"
 special-qualities: "Darkvision 60 ft., amphibious, spell resistance 15"
-saves: "Fort +5, Ref +7, Will +5"
+defenses: "Fort 15, Ref 17, Will 15"
 abilities: "Str 19, Dex 16, Con 18, Int 12, Wis 13, Cha 15"
 skills: "Athletics +19, Deception +9, Knowledge (any one) +5, Perception +11, Stealth +10"
 skill-ranks: "Athletics 12, Deception 4, Knowledge (any one) 1, Perception 7, Stealth 4"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Horrific appearance (60 ft.), evil eye
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 15
-- **Saves**: Fort +5, Ref +7, Will +5
+- **Defenses**: Fort 15, Ref 17, Will 15
 - **Abilities**: Str 19, Dex 16, Con 18, Int 12, Wis 13, Cha 15
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +19, [[rangoric-srd/skills/Deception|Deception]] +9, [[rangoric-srd/skills/Knowledge|Knowledge]] (any one) +5, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +10
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception, Perception)
@@ -76,8 +76,8 @@ Sea hags speak Common and Giant.
 
 Sea hags are not subtle and prefer a direct approach to combat. They usually remain in hiding until they can affect as many foes as possible with their horrific appearance.
 
-**Evil Eye (Su)**: Three times per day, a sea hag can cast her dire gaze upon any single creature within 30 feet. The target must succeed on a DC 14 Will save or be [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] as strange nebulous distress and a gnawing sense of impending doom plagues the victim. If a sea hag uses her evil eye on someone already afflicted by this [[rangoric-srd/rules/afflictions/Evil Eye (Curse)|curse]], the victim must make a DC 14 Fortitude save or be overwhelmed with fright and collapse into a comatose state for 3 days. Each day that passes, the comatose victim must make a DC 14 Fortitude save or perish. The evil eye is a mind-affecting fear effect. The save DCs are Charisma-based.
+**Evil Eye (Su)**: Three times per day, a sea hag can cast her dire gaze upon any single creature within 30 feet. The gaze attacks the target at +4 vs Will, and on a hit the target is [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] as strange nebulous distress and a gnawing sense of impending doom plagues the victim. If a sea hag uses her evil eye on someone already afflicted by this [[rangoric-srd/rules/afflictions/Evil Eye (Curse)|curse]], it attacks the victim at +4 vs Fortitude, and on a hit the victim is overwhelmed with fright and collapse into a comatose state for 3 days. Each day that passes, the curse attacks the comatose victim at +4 vs Fortitude, and on a hit the victim perishes. The evil eye is a mind-affecting fear effect. The attack bonuses are Charisma-based.
 
-_Evil Eye_: gaze; _save_ Will DC 14; _frequency_ 1/day; _effect_ staggered (or fall comatose if already under the effects of the evil eye).
+_Evil Eye_: gaze; _attack_ +4 vs Will; _frequency_ 1/day; _effect_ staggered (or fall comatose if already under the effects of the evil eye).
 
-**Horrific Appearance (Su)**: The sight of a sea hag is so revolting that anyone within 60 feet (other than another hag) who sets eyes upon one must succeed on a DC 14 Fortitude save or instantly be weakened, taking 1d6 points of Strength damage. Creatures that are affected by this power or that successfully save against it cannot be affected again by the same hag's horrific appearance for 24 hours. This is a mind-affecting effect. The save DC is Charisma-based.
+**Horrific Appearance (Su)**: The sight of a sea hag is so revolting that anyone within 60 feet (other than another hag) who sets eyes upon one is attacked at +4 vs Fortitude, and on a hit is instantly weakened, taking 1d6 points of Strength damage. Creatures this power hits or misses cannot be affected again by the same hag's horrific appearance for 24 hours. This is a mind-affecting effect. The attack bonus is Charisma-based.

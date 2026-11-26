@@ -16,7 +16,7 @@ full-attack: "2 claws +3 melee (1d3–2); or dart +3 ranged (1d2–2)"
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "Congeal water, spell-like abilities"
 special-qualities: "Darkvision 120 ft., low-light vision, amphibious, damage reduction 5/cold iron, resistance to cold 10, spell resistance 12, vulnerable to fire and sunlight"
-saves: "Fort +1, Ref +3, Will +3"
+defenses: "Fort 11, Ref 13, Will 13"
 abilities: "Str 7, Dex 13, Con 12, Int 10, Wis 13, Cha 8"
 skills: "Animal Handling +4, Athletics +13, Emulation +3, Escape Artist +5, Perception +5, Stealth +13"
 skill-ranks: "Animal Handling 1, Athletics 12, Emulation 1, Escape Artist 1, Perception 1, Stealth 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Congeal Water|Congeal water]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 12, vulnerable to fire and sunlight
-- **Saves**: Fort +1, Ref +3, Will +3
+- **Defenses**: Fort 11, Ref 13, Will 13
 - **Abilities**: Str 7, Dex 13, Con 12, Int 10, Wis 13, Cha 8
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +4, [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Emulation|Emulation]] +3, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +5, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +13
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -73,8 +73,8 @@ Fuaths speak Aquan.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 1st; concentration +0): At will—_[[rangoric-srd/spells/Create Water|create water]]_, _[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_; 1/day—_[[rangoric-srd/spells/Sleep|sleep]]_ (DC 10).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 1st; concentration +0): At will—_[[rangoric-srd/spells/Create Water|create water]]_, _[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_; 1/day—_[[rangoric-srd/spells/Sleep|sleep]]_ (+0 vs Will).
 
-**[[rangoric-srd/monsters/abilities/Congeal Water|Congeal Water]] (Su)**: Once per day, a fuath can surround a creature in a thin layer of magically viscous water as a standard action at a range of 30 feet. A target that fails a DC 10 Reflex save becomes [[rangoric-srd/rules/Special Abilities and Conditions#^entangled|entangled]] and must hold its breath or risk drowning. The target or an adjacent creature can spend a full-round action on its turn scraping off the clinging fluid, allowing a new Reflex save with a +2 bonus; otherwise, the effect lasts for 1d4 minutes. A fuath can use this ability even if there is no source of water nearby. The save DC is Charisma-based and includes a +1 racial bonus.
+**[[rangoric-srd/monsters/abilities/Congeal Water|Congeal Water]] (Su)**: Once per day, a fuath can surround a creature in a thin layer of magically viscous water as a standard action at a range of 30 feet. A target it hits at +0 vs Reflex becomes [[rangoric-srd/rules/Special Abilities and Conditions#^entangled|entangled]] and must hold its breath or risk drowning. The target or an adjacent creature can spend a full-round action on its turn scraping off the clinging fluid, and the water attacks it again, with a +2 bonus to its Reflex Defense, a miss ending the effect; otherwise, the effect lasts for 1d4 minutes. A fuath can use this ability even if there is no source of water nearby. The attack bonus is Charisma-based and includes a +1 racial bonus.
 
 **Vulnerable to Sunlight (Ex)**: A fuath takes 1 point of Constitution damage after every hour it is exposed to sunlight. Water of a depth of at least 1 foot negates this harmful effect.

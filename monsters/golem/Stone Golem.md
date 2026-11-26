@@ -15,7 +15,7 @@ full-attack: "2 slams +22 melee (2d10+9)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Slow"
 special-qualities: "Darkvision 60 ft., low-light vision, damage reduction 10/adamantine, immunity to magic, construct traits"
-saves: "Fort +4, Ref +3, Will +4"
+defenses: "Fort 14, Ref 13, Will 14"
 abilities: "Str 28, Dex 9, Con —, Int —, Wis 11, Cha 1"
 skills: "—"
 skill-ranks: ""
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: Slow
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/adamantine, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to magic, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]]
-- **Saves**: Fort +4, Ref +3, Will +4
+- **Defenses**: Fort 14, Ref 13, Will 14
 - **Abilities**: Str 28, Dex 9, Con —, Int —, Wis 11, Cha 1
 - **Skills**: —
 - **Feats**: —
@@ -81,8 +81,8 @@ CL 14th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], [[rangoric-srd/
 
 **Immunity to Magic (Ex)**: A stone golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.
 
-- A _[[rangoric-srd/spells/Transmute Rock to Mud|transmute rock to mud]]_ spell slows a stone golem (as the _[[rangoric-srd/spells/Slow|slow]]_ spell) for 2d6 rounds, with no saving throw, while _[[rangoric-srd/spells/Transmute Mud to Rock|transmute mud to rock]]_ heals all of its lost hit points.
+- A _[[rangoric-srd/spells/Transmute Rock to Mud|transmute rock to mud]]_ spell slows a stone golem (as the _[[rangoric-srd/spells/Slow|slow]]_ spell) for 2d6 rounds, with no attack against a defense, while _[[rangoric-srd/spells/Transmute Mud to Rock|transmute mud to rock]]_ heals all of its lost hit points.
 
 - A _[[rangoric-srd/spells/Stone to Flesh|stone to flesh]]_ spell does not actually change the golem's structure but negates its damage reduction and immunity to magic for 1 full round.
 
-**Slow (Su)**: A stone golem can use a slow effect, as the spell, as a free action once every 2 rounds. The effect has a range of 10 feet in a burst centered on the golem and a duration of 7 rounds, requiring a DC 17 Will save to negate. The save DC is Constitution-based.
+**Slow (Su)**: A stone golem can use a slow effect, as the spell, as a free action once every 2 rounds. The effect has a range of 10 feet in a burst centered on the golem and a duration of 7 rounds, attacking at +7 vs Will, and a miss negates it. The attack bonus is Constitution-based.
