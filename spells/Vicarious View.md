@@ -20,7 +20,7 @@ casting-time: "1 standard action"
 range: "Touch"
 effect: "Magical sensor"
 duration: "Caster level minute(s)"
-saving-throw: "Will negates (object)"
+defense: "Will (object)"
 spell-resistance: "Yes"
 book: "Ultimate Intrigue"
 based-on:
@@ -41,7 +41,7 @@ _Divination (Scrying)_
 - **Range**: Touch
 - **Effect**: Magical sensor
 - **Duration**: Caster level minute(s)
-- **Saving Throw**: Will negates (object)
+- **Defense**: Will (object)
 - **Spell Resistance**: Yes
 
 You plant a scrying sensor on a touched creature, object, or point in space, allowing you to see and hear the creature, object, or point and its surroundings (approximately 10 feet in all directions). If the creature or object on moves, the sensor moves with it. Unlike other scrying spells, _vicarious view_ doesn't allow magically or supernaturally enhanced senses to work through it.

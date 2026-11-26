@@ -21,7 +21,7 @@ casting-time: "1 standard action"
 range: "30 ft."
 area: "Cone-shaped burst"
 duration: "1 round/level; see text"
-saving-throw: "Will partial (see text)"
+defense: "Will partial (see text)"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -42,7 +42,7 @@ _Enchantment (Compulsion) \[Emotion, Mind-affecting\]_
 - **Range**: 30 ft.
 - **Area**: Cone-shaped burst
 - **Duration**: 1 round/level; see text
-- **Saving Throw**: Will partial (see text)
+- **Defense**: Will partial (see text)
 - **Spell Resistance**: Yes
 
-You emanate waves of intense pleasure that cause all targets within range to falter. Affected creatures are stunned for 1 round and are staggered for the remainder of the spell. A creature that makes its save is staggered for the first round and can act normally thereafter.
+You emanate waves of intense pleasure that cause all targets within range to falter. Affected creatures are stunned for 1 round and are staggered for the remainder of the spell. A creature the spell misses is staggered for the first round and can act normally thereafter.

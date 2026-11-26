@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 area: "One living creature/level within a 40-ft.-radius spread"
 duration: "Instantaneous"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Wail of the Banshee|Wail of the Banshee (3.5)]]"
@@ -37,7 +37,7 @@ _Necromancy \[Death, Sonic\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Area**: One living creature/level within a 40-ft.-radius spread
 - **Duration**: Instantaneous
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
 You emit a terrible scream that kills creatures that hear it (except for yourself). Creatures closest to the point of origin are affected first.

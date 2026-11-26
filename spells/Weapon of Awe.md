@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Weapon touched"
 duration: "1 minute/level"
-saving-throw: "Will negates (harmless, object)"
+defense: "Will (harmless, object)"
 spell-resistance: "Yes (harmless, object)"
 book: "Advanced Player's Guide"
 based-on:
@@ -38,9 +38,9 @@ _Transmutation \[Emotion\]_
 - **Range**: Touch
 - **Target**: Weapon touched
 - **Duration**: 1 minute/level
-- **Saving Throw**: Will negates (harmless, object)
+- **Defense**: Will (harmless, object)
 - **Spell Resistance**: Yes (harmless, object)
 
-You transform a single weapon into an awe-inspiring instrument. The weapon gains a +2 sacred bonus on damage rolls, and if the weapon scores a critical hit, the target of that critical hit becomes shaken for 1 round with no saving throw. This is a mind-affecting fear effect. A ranged weapon affected by this spell applies these effects to its ammunition.
+You transform a single weapon into an awe-inspiring instrument. The weapon gains a +2 sacred bonus on damage rolls, and if the weapon scores a critical hit, the target of that critical hit becomes shaken for 1 round with no attack against a defense. This is a mind-affecting fear effect. A ranged weapon affected by this spell applies these effects to its ammunition.
 
 You can't cast this spell on a natural weapon, but you can cast it on an unarmed strike.

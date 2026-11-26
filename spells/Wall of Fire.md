@@ -23,7 +23,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 effect: "Opaque sheet of flame up to 20 ft. long/level or a ring of fire with a radius of up to 5 ft. per two levels; either form 20 ft. high"
 duration: "Concentration + 1 round/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Wall of Fire|Wall of Fire (3.5)]]"
@@ -43,7 +43,7 @@ _Evocation \[Fire\]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Effect**: Opaque sheet of flame up to 20 ft. long/level or a ring of fire with a radius of up to 5 ft. per two levels; either form 20 ft. high
 - **Duration**: Concentration + 1 round/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 An immobile, blazing curtain of shimmering violet fire springs into existence. One side of the wall, selected by you, sends forth waves of heat, dealing 2d4 points of fire damage to creatures within 10 feet and 1d4 points of fire damage to those past 10 feet but within 20 feet. The wall deals this damage when it appears and on your turn each round to all creatures in the area. In addition, the wall deals 2d6 points of fire damage +1 point of fire damage per caster level (maximum +20) to any creature passing through it. The wall deals double damage to undead creatures.

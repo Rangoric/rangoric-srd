@@ -20,7 +20,7 @@ casting-time: "1 standard action"
 range: "Touch"
 targets: "One touched creature/level"
 duration: "10 min./level (D)"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Water Walk|Water Walk (3.5)]]"
@@ -40,7 +40,7 @@ _Transmutation \[Water\]_
 - **Range**: Touch
 - **Targets**: One touched creature/level
 - **Duration**: 10 min./level (D)
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 The transmuted creatures can tread on any liquid as if it were firm ground. Mud, oil, snow, quicksand, running water, ice, and even lava can be traversed easily, since the subjects’ feet hover an inch or two above the surface. (Creatures crossing molten lava still take damage from the heat because they are near it.) The subjects can walk, run, [[rangoric-srd/combat/Combat Special Attacks#Charge|charge]], or otherwise move across the surface as if it were normal ground.

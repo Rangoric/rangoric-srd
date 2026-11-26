@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "One creature"
 duration: "1 hour/level"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "No"
 book: "Advanced Race Guide"
 based-on:
@@ -37,7 +37,7 @@ _Abjuration_
 - **Range**: Touch
 - **Target**: One creature
 - **Duration**: 1 hour/level
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: No
 
 This spell harnesses the power of the seasons to protect the target and grant a number of bonuses. This spell has one of four different effects. The caster of the spell can select any one of the following four effects, but can change the effect as a standard action that reduces the total remaining duration by 1 hour.
@@ -46,6 +46,6 @@ This spell harnesses the power of the seasons to protect the target and grant a 
 >
 > _Summer_: The target is surrounded by tiny motes of light. While the spell remains in effect, the target's base speed increases 10 feet. The target may instead increase its base speed by 30 feet for 1 round by reducing the spell's total remaining duration by 1 hour.
 >
-> _Fall_: A cloak of autumn leaves appears on the target. While the spell remains in effect, the target gains a +2 morale bonus on Fortitude saves. The target can decide to roll twice on any saving throw against disease or poison and take the higher result by reducing the spell's total remaining duration by 1 hour.
+> _Fall_: A cloak of autumn leaves appears on the target. While the spell remains in effect, the target gains a +2 morale bonus on Fortitude Defense. The target can decide to make any attack against its defenses from disease or poison roll twice and take the lower result by reducing the spell's total remaining duration by 1 hour.
 >
 > _Winter_: A flutter of snow and crisp air surrounds the target. While this spell remains in effect, the target automatically succeeds at Acrobatics skill checks made to avoid falling while moving across slick or narrow surfaces. The target can move freely through difficult terrain for 1 round by reducing the spell's remaining duration by 1 hour. Difficult terrain created by magic affects the target normally.

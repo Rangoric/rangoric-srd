@@ -17,7 +17,7 @@ casting-time: "24 hours"
 range: "Touch"
 area: "40-ft. radius emanating from the touched point"
 duration: "Instantaneous"
-saving-throw: "See text"
+defense: "See text"
 spell-resistance: "See text"
 based-on:
   - "[[fantasy srd 3.5/spells/Unhallow|Unhallow (3.5)]]"
@@ -37,7 +37,7 @@ _Evocation \[Evil\]_
 - **Range**: Touch
 - **Area**: 40-ft. radius emanating from the touched point
 - **Duration**: Instantaneous
-- **Saving Throw**: See text
+- **Defense**: See text
 - **Spell Resistance**: See text
 
 Unhallow makes a particular site, building, or structure an unholy site. This has three major effects.
@@ -50,7 +50,7 @@ Finally, you may choose to fix a single spell effect to the unhallowed site. The
 
 Spell effects that may be tied to an unhallowed site include aid, bane, bless, cause fear, darkness, daylight, death ward, deeper darkness, detect magic, detect good, dimensional anchor, discern lies, dispel magic, endure elements, freedom of movement, invisibility purge, protection from energy, remove fear, resist energy, silence, tongues, and zone of truth.
 
-Saving throws and spell resistance might apply to these spells’ effects. (See the individual spell descriptions for details.)
+Attacks against defenses and spell resistance might apply to these spells’ effects. (See the individual spell descriptions for details.)
 
 An area can receive only one unhallow spell (and its associated spell effect) at a time.
 

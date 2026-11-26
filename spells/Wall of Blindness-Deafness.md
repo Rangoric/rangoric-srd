@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 effect: "Translucent wall 20 ft. long/level or a translucent ring with a radius of up to 5 ft./two levels; either form 20 ft. high"
 duration: "Concentration + 1 round/level"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 book: "Advanced Class Guide"
 based-on:
@@ -37,9 +37,9 @@ _Necromancy_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Effect**: Translucent wall 20 ft. long/level or a translucent ring with a radius of up to 5 ft./two levels; either form 20 ft. high
 - **Duration**: Concentration + 1 round/level
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
-You create a translucent wall of energy, within which can be seen indistinct images of faces with their eyes or ears sewn shut. When you create the wall, decide whether it blinds or deafens. Any creature that passes through the wall must save or become permanently blinded or deafened (as _[[rangoric-srd/spells/Blindness-Deafness|blindness/deafness]]_).
+You create a translucent wall of energy, within which can be seen indistinct images of faces with their eyes or ears sewn shut. When you create the wall, decide whether it blinds or deafens. The wall attacks the Fortitude of any creature that passes through it, and on a hit the creature becomes permanently blinded or deafened (as _[[rangoric-srd/spells/Blindness-Deafness|blindness/deafness]]_).
 
 The wall must be vertical and rectangular. It need not touch the ground. The wall must be continuous and unbroken when formed. If its surface is broken by any object or creature when it is cast, the spell fails.

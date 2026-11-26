@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 effect: "Wall of ice or flying ice javelins (see text)"
 duration: "1 minute/level, instantaneous, or until expended (see text)"
-saving-throw: "Reflex negates or none (see text)"
+defense: "Reflex or none (see text)"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -37,7 +37,7 @@ _Transmutation \[Cold, Evil, Water\]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Effect**: Wall of ice or flying ice javelins (see text)
 - **Duration**: 1 minute/level, instantaneous, or until expended (see text)
-- **Saving Throw**: Reflex negates or none (see text)
+- **Defense**: Reflex or none (see text)
 - **Spell Resistance**: Yes
 
 This spell functions as _[[rangoric-srd/spells/Holy Ice|holy ice]]_, except it is made of frozen unholy water rather than holy water.
