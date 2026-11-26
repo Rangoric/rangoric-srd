@@ -17,4 +17,4 @@ tags: [rangoric, rangoric/class-option]
 
 _A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex)._
 
-A barbarian may reroll a failed Will save. This power is used as an immediate action after the first save is attempted, but before the results are revealed by the GM. The barbarian must take the second result, even if it is worse. A barbarian must be at least 8th level before selecting this power. This power can only be used once per rage.
+A barbarian may make an attack that hits her Will reroll. This power is used as an immediate action after the first attack is rolled, but before the results are revealed by the GM. The barbarian must take the second result, even if it is worse. A barbarian must be at least 8th level before selecting this power. This power can only be used once per rage.

@@ -28,7 +28,7 @@ _A legend of [[rangoric-srd/classes/Medium (Class)#^medium-spirit|spirits]] for 
 
 **Influence Penalty**: You take a penalty equal to your spirit bonus on Strength checks, Strength-based skill checks, Constitution checks, attack rolls, and non-spell damage rolls. ^archmage-influence-penalty
 
-**Taboos**: Choose one: you eschew all faith in the divine, so you must not be the willing target of divine spells or abilities and you must attempt a Will saving throw against even harmless divine spells and abilities; you must not pass up the opportunity to learn something new and significant (a nontrivial piece of information with a [[rangoric-srd/skills/Knowledge|Knowledge]] check of DC 20 or higher) when that opportunity is directly present; you must use your own magical solution to a challenge if you can, even if a mundane solution that would require fewer resources is available. ^archmage-taboos
+**Taboos**: Choose one: you eschew all faith in the divine, so you must not be the willing target of divine spells or abilities and you can’t lower your Will Defense against even harmless divine spells and abilities; you must not pass up the opportunity to learn something new and significant (a nontrivial piece of information with a [[rangoric-srd/skills/Knowledge|Knowledge]] check of DC 20 or higher) when that opportunity is directly present; you must use your own magical solution to a challenge if you can, even if a mundane solution that would require fewer resources is available. ^archmage-taboos
 
 ## Spirit Powers
 

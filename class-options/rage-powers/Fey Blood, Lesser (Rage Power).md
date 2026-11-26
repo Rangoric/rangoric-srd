@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/class-option]
 
 _A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Su)._
 
-While raging, each time the barbarian confirms a critical hit, the target must succeed at a Will saving throw (DC = 10 + 1/2 the barbarian’s level + her Constitution modifier) or be [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]] for 1 round. This is a mind-affecting compulsion effect.
+While raging, each time the barbarian confirms a critical hit, it attacks the target’s Will at 1/2 the barbarian’s level + her Constitution modifier, and on a hit the target is [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]] for 1 round. This is a mind-affecting compulsion effect.
 
 A barbarian cannot take blood rage powers from more than one group of blood rage powers.

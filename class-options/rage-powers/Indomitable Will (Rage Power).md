@@ -17,4 +17,4 @@ tags: [rangoric, rangoric/class-option]
 
 _A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex)._
 
-While in rage, a barbarian of 14th level or higher gains a +4 bonus on Will saves to resist enchantment spells. This bonus stacks with all other modifiers, including the morale bonus on Will saves she also receives during her rage.
+While in rage, a barbarian of 14th level or higher gains a +4 bonus on Will Defense against enchantment spells. This bonus stacks with all other modifiers, including the morale bonus on Will Defense she also receives during her rage.

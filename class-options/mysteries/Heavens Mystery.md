@@ -48,4 +48,4 @@ An oracle with the heavens mystery can choose from any of the following [[rangor
 
 ## Final Revelation
 
-Upon achieving 20th level, your rapport with the heavens grants you perfect harmony with the universe. You receive a bonus on all saving throws equal to your Charisma modifier. You automatically stabilize if you are below 0 hit points, are immune to fear effects, and automatically confirm all critical hits. Should you die, you are reborn 3 days later in the form of a star child, who matures over the course of 7 days (treat as the _[[rangoric-srd/spells/Reincarnate|reincarnate]]_ spell). ^heavens-final-revelation
+Upon achieving 20th level, your rapport with the heavens grants you perfect harmony with the universe. You receive a bonus on all defenses equal to your Charisma modifier. You automatically stabilize if you are below 0 hit points, are immune to fear effects, and automatically confirm all critical hits. Should you die, you are reborn 3 days later in the form of a star child, who matures over the course of 7 days (treat as the _[[rangoric-srd/spells/Reincarnate|reincarnate]]_ spell). ^heavens-final-revelation

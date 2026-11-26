@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 _A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex)._
 
-A barbarian’s mount can affect creatures up to its own size with its ferocious trample. In addition, it can make an [[rangoric-srd/combat/Combat Maneuvers|overrun]] combat maneuver check as a free action against a creature that fails its Reflex save (or chooses not to save in order to take an attack of opportunity) against its trample.
+A barbarian’s mount can affect creatures up to its own size with its ferocious trample. In addition, it can make an [[rangoric-srd/combat/Combat Maneuvers|overrun]] combat maneuver check as a free action against a creature its trample hits (or that chooses to take an attack of opportunity instead).
 
 A barbarian must have the [[rangoric-srd/class-options/rage-powers/Ferocious Trample (Rage Power)|ferocious trample]] rage power to select this rage power.
 

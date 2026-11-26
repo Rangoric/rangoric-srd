@@ -48,4 +48,4 @@ An oracle with the ancestor mystery can choose from any of the following [[rango
 
 ## Final Revelation
 
-Upon reaching 20th level, you become one with the spirits of your ancestors. You gain a bonus on Will saving throws equal to your Charisma modifier, blindsense out to a range of 60 feet, and a +4 bonus on your caster level for all divination spells. You can cast _[[rangoric-srd/spells/Astral Projection|astral projection]]_ as a spell-like ability once per day without requiring material components. ^ancestor-final-revelation
+Upon reaching 20th level, you become one with the spirits of your ancestors. You gain a bonus on Will Defense equal to your Charisma modifier, blindsense out to a range of 60 feet, and a +4 bonus on your caster level for all divination spells. You can cast _[[rangoric-srd/spells/Astral Projection|astral projection]]_ as a spell-like ability once per day without requiring material components. ^ancestor-final-revelation

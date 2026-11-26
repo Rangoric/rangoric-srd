@@ -19,4 +19,4 @@ tags: [rangoric, rangoric/class-option]
 
 _A [[rangoric-srd/classes/Ninja#^ninja-tricks|ninja trick]] (Ex)._
 
-Whenever a ninja throws a smoke bomb, all living creatures in the resulting cloud must make a Fortitude save or become staggered by the choking black smoke for 1d4 rounds. The DC of this saving throw is equal to 10 + 1/2 the ninja's level + the ninja's Charisma modifier. The ninja can decide to create an ordinary smoke bomb or add poison to this smoke bomb as normal. The ninja must have the poison bomb ninja trick before selecting this trick.
+Whenever a ninja throws a smoke bomb, the smoke attacks the Fortitude of all living creatures in the resulting cloud, and on a hit they become staggered by the choking black smoke for 1d4 rounds. The attack bonus is equal to 1/2 the ninja's level + the ninja's Charisma modifier. The ninja can decide to create an ordinary smoke bomb or add poison to this smoke bomb as normal. The ninja must have the poison bomb ninja trick before selecting this trick.

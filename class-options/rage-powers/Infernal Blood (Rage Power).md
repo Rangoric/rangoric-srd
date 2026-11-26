@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/class-option]
 
 _A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Su)._
 
-While raging, the barbarian gains fire resistance 5, as well as a +2 bonus on saving throws against poison.
+While raging, the barbarian gains fire resistance 5, as well as a +2 bonus on defenses against poison.
 
 A barbarian must have the [[rangoric-srd/class-options/rage-powers/Infernal Blood, Lesser (Rage Power)|lesser infernal blood]] rage power and be at least 6th level before selecting this rage power.

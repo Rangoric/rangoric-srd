@@ -19,4 +19,4 @@ tags: [rangoric, rangoric/class-option]
 
 _A [[rangoric-srd/classes/Ninja#^ninja-master-tricks|master trick]] (Ex)._
 
-A ninja can avoid even magical and unusual attacks with great agility. If she makes a successful Reflex saving throw against an attack that normally deals half damage on a successful save, she instead takes no damage. Evasion can be used only if the ninja is wearing light armor or no armor. A helpless ninja does not gain the benefit of evasion.
+A ninja can avoid even magical and unusual attacks with great agility. If an attack that normally deals half damage on a miss misses her Reflex Defense, she instead takes no damage. Evasion can be used only if the ninja is wearing light armor or no armor. A helpless ninja does not gain the benefit of evasion.
