@@ -18,4 +18,4 @@ tags: [rangoric, rangoric/class-option]
 
 _A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Bones Mystery|bones]] mystery._
 
-You gain a +2 insight bonus on saves against diseases, mind-affecting effects, and poisons. At 7th level, this bonus also applies on saves against death effects, sleep effects, and stunning. At 11th level, the bonus increases to +4.
+You gain a +2 insight bonus on defenses against diseases, mind-affecting effects, and poisons. At 7th level, this bonus also applies to defenses against death effects, sleep effects, and stunning. At 11th level, the bonus increases to +4.

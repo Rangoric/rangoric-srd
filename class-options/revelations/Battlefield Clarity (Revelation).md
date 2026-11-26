@@ -18,4 +18,4 @@ tags: [rangoric, rangoric/class-option]
 
 _A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Ex) of the [[rangoric-srd/class-options/mysteries/Battle Mystery|battle]] mystery._
 
-Once per day, as an immediate action, whenever you fail a saving throw that causes you to become blind, deaf, frightened, panicked, paralyzed, shaken, or stunned, you may attempt that saving throw again, with a +4 insight bonus on the roll. You must take the second result, even if it is worse. At 7th and 15th level, you can use this ability one additional time per day.
+Once per day, as an immediate action, whenever an effect that causes you to become blind, deaf, frightened, panicked, paralyzed, shaken, or stunned hits your defense, you may make it attack you again, with a +4 insight bonus to your defense. You must take the second result, even if it is worse. At 7th and 15th level, you can use this ability one additional time per day.

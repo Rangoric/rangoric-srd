@@ -22,4 +22,4 @@ _A [[rangoric-srd/class-options/ranger-traps/Ranger Traps|ranger trap]] (Ex or S
 
 - **Type**: mechanical or magic
 - **Trigger**: location; **Reset**: none; [[rangoric-srd/class-options/ranger-traps/Ranger Traps#^ranger-traps-dc|DCs]] and [[rangoric-srd/class-options/ranger-traps/Ranger Traps#^ranger-traps-duration|duration]] as for every ranger trap
-- **Effect**: The trap explodes in flames, dealing a number of points of fire damage equal to 1d6 + 1/2 the ranger’s level to the triggering creature (Reflex negates). If it is an extraordinary trap, the ranger must use an explosive material such as [[rangoric-srd/equipment/gear/Alchemist's Fire|alchemist’s fire]] when setting the trap.
+- **Effect**: The trap explodes in flames, dealing a number of points of fire damage equal to 1d6 + 1/2 the ranger’s level to the triggering creature (vs Reflex). If it is an extraordinary trap, the ranger must use an explosive material such as [[rangoric-srd/equipment/gear/Alchemist's Fire|alchemist’s fire]] when setting the trap.

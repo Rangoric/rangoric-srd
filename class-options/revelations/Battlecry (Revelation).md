@@ -18,4 +18,4 @@ tags: [rangoric, rangoric/class-option]
 
 _A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Ex) of the [[rangoric-srd/class-options/mysteries/Battle Mystery|battle]] mystery._
 
-As a standard action, you can unleash an inspiring battlecry. All allies within 100 feet who hear your cry gain a +1 morale bonus on attack rolls, skill checks, and saving throws for a number of rounds equal to your Charisma modifier. At 10th level, this bonus increases to +2. You can use this ability once per day, plus one additional time per day at 5th level and for every five levels thereafter.
+As a standard action, you can unleash an inspiring battlecry. All allies within 100 feet who hear your cry gain a +1 morale bonus on attack rolls, skill checks, and defenses for a number of rounds equal to your Charisma modifier. At 10th level, this bonus increases to +2. You can use this ability once per day, plus one additional time per day at 5th level and for every five levels thereafter.

@@ -18,4 +18,4 @@ tags: [rangoric, rangoric/class-option]
 
 _A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Time Mystery|time]] mystery._
 
-Once per day, you can gain a glimpse into your immediate future. On the round after you use this ability, you gain a +2 insight bonus on a single attack roll, saving throw, or skill check or to your Armor Class until the start of your next turn. At 5th level, and every four levels thereafter, you can use this ability one additional time per day.
+Once per day, you can gain a glimpse into your immediate future. On the round after you use this ability, you gain a +2 insight bonus on a single attack roll or skill check, or to your Armor Class or one defense, until the start of your next turn. At 5th level, and every four levels thereafter, you can use this ability one additional time per day.

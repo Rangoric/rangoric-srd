@@ -18,4 +18,4 @@ tags: [rangoric, rangoric/class-option]
 
 _A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Flame Mystery|flame]] mystery._
 
-As a standard action, you can unleash a 15-foot cone of flame from your mouth. This flame deals 1d4 points of fire damage per level. A Reflex save halves this damage. You can use this ability once per day, plus one additional time per day at 5th level and every five levels thereafter. The save DC is Charisma-based.
+As a standard action, you can unleash a 15-foot cone of flame from your mouth. This flame deals 1d4 points of fire damage per level. It attacks Reflex, and a miss halves this damage. You can use this ability once per day, plus one additional time per day at 5th level and every five levels thereafter. The attack bonus is Charisma-based.

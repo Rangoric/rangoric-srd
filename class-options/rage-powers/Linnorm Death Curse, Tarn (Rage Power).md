@@ -17,8 +17,8 @@ tags: [rangoric, rangoric/class-option]
 
 _A [[rangoric-srd/class-options/rage-powers/Rage Powers|rage power]] (Su) of the [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|barbarian]] and the [[rangoric-srd/classes/Skald#^skald-rage-powers|skald]]._
 
-The character channels the power of a tarn linnorm. The character's melee attacks deal an additional 1 point of acid damage. If the character is knocked [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]] or killed by an attack or spell, the attacker suffers the curse of death (Will negates).
+The character channels the power of a tarn linnorm. The character's melee attacks deal an additional 1 point of acid damage. If the character is knocked [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]] or killed by an attack or spell, the attacker suffers the curse of death (vs Will).
 
 A character must be at least 4th level to select this rage power.
 
-_Curse of Death_: _save_ Will DC 10 + 1/2 character's level + character's Charisma bonus; _effect_ target is no longer affected by healing spells and can't heal damage naturally by resting.
+_Curse of Death_: _attack_ vs Will at 1/2 character's level + character's Charisma bonus; _effect_ target is no longer affected by healing spells and can't heal damage naturally by resting.

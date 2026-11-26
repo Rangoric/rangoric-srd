@@ -34,7 +34,7 @@ A shaman who chooses the stone spirit as her [[rangoric-srd/classes/Shaman#^sham
 
 A shaman who chooses the stone spirit as her spirit or wandering spirit gains the following ability upon having access to the greater version of that spirit.
 
-**Body of Earth (Su)**: The shaman gains DR 2/adamantine. This DR increases by 1 for every 4 levels beyond 8th the shaman possesses. In addition, as a standard action, she can cause jagged pieces of stone to explode from her body in a 10-foot-radius burst. This deals 1d6 points of piercing damage per 2 shaman levels she possesses. A successful Reflex saving throw halves this damage. The shaman can use this ability three times per day, but she must wait 1d4 rounds between each use.
+**Body of Earth (Su)**: The shaman gains DR 2/adamantine. This DR increases by 1 for every 4 levels beyond 8th the shaman possesses. In addition, as a standard action, she can cause jagged pieces of stone to explode from her body in a 10-foot-radius burst. This deals 1d6 points of piercing damage per 2 shaman levels she possesses. It attacks Reflex, and a miss halves this damage. The shaman can use this ability three times per day, but she must wait 1d4 rounds between each use.
 
 ## True Spirit Ability
 

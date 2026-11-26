@@ -19,4 +19,4 @@ tags: [rangoric, rangoric/class-option]
 
 _A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex)._
 
-Whenever the rogue fails a [[rangoric-srd/skills/Athletics|Athletics]] check by 5 or more, she can attempt a Reflex save (using the same DC as the Athletics check) to catch herself and avoid falling.
+Whenever the rogue fails a [[rangoric-srd/skills/Athletics|Athletics]] check by 5 or more, she can attempt a Reflex check (1d20 + her Reflex save bonus, using the same DC as the Athletics check) to catch herself and avoid falling.

@@ -44,4 +44,4 @@ A shaman who chooses the life spirit as her spirit or wandering spirit gains the
 
 ## Manifestation
 
-Upon reaching 20th level, the shaman becomes a perfect channel for life energy. She gains immunity to bleed, death attacks, and negative energy, as well as to the exhausted, fatigued, nauseated, and sickened conditions. Ability damage and drain cannot reduce her to below 1 in any ability score. She automatically succeeds at saving throws against massive damage. When she is reduced to below 0 hit points, she doesn't die until her negative hit point total exceeds double her Constitution score.
+Upon reaching 20th level, the shaman becomes a perfect channel for life energy. She gains immunity to bleed, death attacks, and negative energy, as well as to the exhausted, fatigued, nauseated, and sickened conditions. Ability damage and drain cannot reduce her to below 1 in any ability score. Massive damage automatically misses her. When she is reduced to below 0 hit points, she doesn't die until her negative hit point total exceeds double her Constitution score.

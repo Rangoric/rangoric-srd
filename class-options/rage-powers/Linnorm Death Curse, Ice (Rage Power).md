@@ -21,4 +21,4 @@ The character channels the power of an ice linnorm. The character's melee attack
 
 A character must be at least 4th level to select this rage power.
 
-_Curse of Frost_: _save_ Will DC 10 + 1/2 character's level + character's Charisma bonus; _effect_ target gains [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to cold]].
+_Curse of Frost_: _attack_ vs Will at 1/2 character's level + character's Charisma bonus; _effect_ target gains [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to cold]].

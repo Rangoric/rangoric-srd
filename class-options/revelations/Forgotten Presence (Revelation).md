@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 _A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Sp) of the [[rangoric-srd/class-options/mysteries/Intrigue Mystery|intrigue]] mystery._
 
-Once per day as an immediate action, you can cause a creature to forget that you were present for the last minute per oracle level, including forgetting all actions you took during that time, unless it succeeds at a Will save (DC 10 + 1/2 your oracle level + your Charisma modifier). Effects such as modify memory can restore the lost memories.
+Once per day as an immediate action, you can cause a creature to forget that you were present for the last minute per oracle level, including forgetting all actions you took during that time, (vs Will, attack bonus 1/2 your oracle level + your Charisma modifier). Effects such as modify memory can restore the lost memories.
 
 At 15th level, you can use this ability twice per day.
 

@@ -44,4 +44,4 @@ A shaman who chooses the heavens spirit as her spirit or wandering spirit gains 
 
 ## Manifestation
 
-Upon reaching 20th level, the shaman becomes the spirit of heaven. She receives a bonus on all saving throws equal to her Wisdom modifier. She automatically stabilizes if she is reduced to below 0 hit points. She's immune to fear effects, and she automatically confirms all critical hits she threatens. If she dies, she's reborn 3 days later in the form of a star child, maturing over the course of 7 days (as _[[rangoric-srd/spells/Reincarnate|reincarnate]]_).
+Upon reaching 20th level, the shaman becomes the spirit of heaven. She receives a bonus on all defenses equal to her Wisdom modifier. She automatically stabilizes if she is reduced to below 0 hit points. She's immune to fear effects, and she automatically confirms all critical hits she threatens. If she dies, she's reborn 3 days later in the form of a star child, maturing over the course of 7 days (as _[[rangoric-srd/spells/Reincarnate|reincarnate]]_).

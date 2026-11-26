@@ -34,7 +34,7 @@ A shaman who chooses the waves spirit as her [[rangoric-srd/classes/Shaman#^sham
 
 A shaman who chooses the waves spirit as her spirit or wandering spirit gains the following ability upon having access to the greater version of that spirit.
 
-**Fluid Mastery (Su)**: The shaman gains a swim speed equal to her base land speed, as well as the ability to breathe underwater. In addition, she can unleash a torrent of ice and water from her hands in a 15-foot cone as a standard action. This torrent deals 1d4 points of cold damage per 2 shaman levels she possesses, and pushes affected creatures back 5 feet directly away from the shaman. A successful Reflex saving throw halves the damage and negates the push. The shaman can use this ability three times per day, but she must wait 1d4 rounds between each use.
+**Fluid Mastery (Su)**: The shaman gains a swim speed equal to her base land speed, as well as the ability to breathe underwater. In addition, she can unleash a torrent of ice and water from her hands in a 15-foot cone as a standard action. This torrent deals 1d4 points of cold damage per 2 shaman levels she possesses, and pushes affected creatures back 5 feet directly away from the shaman. It attacks Reflex, and a miss halves the damage and negates the push. The shaman can use this ability three times per day, but she must wait 1d4 rounds between each use.
 
 ## True Spirit Ability
 
