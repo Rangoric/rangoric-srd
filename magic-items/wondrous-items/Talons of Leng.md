@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/magic-item]
 
 # Talons of Leng
 
-Finely laid gold filigree lines these ornately worked talons. Once donned, the _talons of Leng_ grant the wearer a natural claw attack with each hand that deal 1d4 points of damage for a Medium wearer, or 1d3 points of damage for a Small wearer. These claw attacks have a +3 enhancement bonus on attack and damage rolls. On a critical hit, the target must succeed at a DC 20 Will save or become permanently [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]] as per the _[[rangoric-srd/spells/Insanity (Spell)|insanity]]_ spell. This is a mind-affecting effect.
+Finely laid gold filigree lines these ornately worked talons. Once donned, the _talons of Leng_ grant the wearer a natural claw attack with each hand that deal 1d4 points of damage for a Medium wearer, or 1d3 points of damage for a Small wearer. These claw attacks have a +3 enhancement bonus on attack and damage rolls. On a critical hit, the talons attack the target’s Will at +10, and on a hit it becomes permanently [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]] as per the _[[rangoric-srd/spells/Insanity (Spell)|insanity]]_ spell. This is a mind-affecting effect.
 
 The wearer of the _talons of Leng_ is immune to effects that grant the confused condition. For as long as she wears the talons, however, her Wisdom is reduced by 2, as alien voices constantly whisper through her head. The _talons of Leng_ do not interfere with spellcasting, the use of handheld items, or wielding weapons.
 

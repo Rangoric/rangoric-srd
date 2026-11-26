@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/magic-item]
 
 A talisman works as described under [[rangoric-srd/magic-items/Magic Item Basics#^talismans|Talismans]] in the rules for magic items on the body. A lesser talisman has only enough magic to protect its wearer once, after which it crumbles to dust.
 
-The first time the wearer rolls a natural 1 on a d20 roll (such as an ability check, attack roll, saving throw or skill check), he can immediately roll again and take the new result.
+The first time the wearer rolls a natural 1 on a d20 roll (such as an ability check, attack roll or skill check), he can immediately roll again and take the new result.
 
 Moderate enchantment; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Good Hope|good hope]]_; Price 1,680 gp; Cost 840 gp; Weight 1 lb.

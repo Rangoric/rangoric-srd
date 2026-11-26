@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Sorcerer's Robe
 
-This dapper robe enables a [[rangoric-srd/classes/Sorcerer|sorcerer]] to add the effects of her 1st-level [[rangoric-srd/classes/Sorcerer#^sorcerer-bloodline|bloodline power]] to spells she casts. As a swift action before casting a spell, the wearer expends one use of her 1st-level bloodline power and selects one target of the spell to be affected by that bloodline power. If the spell allows a saving throw, a successful save against the spell means the bloodline power deals half damage (if it normally deals hit point damage) or is negated (if it does not). The robe can be used up to three times per day.
+This dapper robe enables a [[rangoric-srd/classes/Sorcerer|sorcerer]] to add the effects of her 1st-level [[rangoric-srd/classes/Sorcerer#^sorcerer-bloodline|bloodline power]] to spells she casts. As a swift action before casting a spell, the wearer expends one use of her 1st-level bloodline power and selects one target of the spell to be affected by that bloodline power. If the spell attacks a defense, a miss means the bloodline power deals half damage (if it normally deals hit point damage) or is negated (if it does not). The robe can be used up to three times per day.
 
 Moderate evocation; CL 10th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Quicken Spell-Like Ability|Quicken Spell-Like Ability]], creator must be a [[rangoric-srd/classes/Sorcerer|sorcerer]]; Price 5,000 gp; Cost 2,500 gp; Weight 1 lb.

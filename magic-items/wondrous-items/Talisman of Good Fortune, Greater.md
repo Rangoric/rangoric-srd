@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/magic-item]
 
 A talisman works as described under [[rangoric-srd/magic-items/Magic Item Basics#^talismans|Talismans]] in the rules for magic items on the body. A greater talisman works as a lesser talisman of the same type, but lasts far longer: it can give its benefit once per day.
 
-The first time the wearer rolls a natural 1 on a d20 roll (such as an ability check, attack roll, saving throw or skill check), he can immediately roll again and take the new result.
+The first time the wearer rolls a natural 1 on a d20 roll (such as an ability check, attack roll or skill check), he can immediately roll again and take the new result.
 
 Moderate enchantment; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Good Hope|good hope]]_; Price 16,800 gp; Cost 8,400 gp; Weight 1 lb.

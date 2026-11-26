@@ -22,7 +22,7 @@ This normal-appearing garment can be white (01–45 on d%, good alignment), gray
 
 - \+5 armor bonus to AC.
 - Spell resistance 18.
-- \+4 resistance bonus on all saving throws.
+- \+4 resistance bonus on all defenses.
 - \+2 enhancement bonus on caster level checks made to overcome spell resistance.
 
 If a white robe is donned by an evil character, she immediately gains three negative levels. The reverse is true with respect to a black robe donned by a good character. An evil or good character who puts on a gray robe, or a neutral character who dons either a white or black robe, gains two negative levels. While these negative levels never result in lost levels, they remain as long as the garment is worn and cannot be overcome in any way (including restoration spells).

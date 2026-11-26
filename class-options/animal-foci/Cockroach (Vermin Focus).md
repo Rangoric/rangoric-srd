@@ -17,4 +17,4 @@ tags: [rangoric, rangoric/class-option]
 
 _A [[rangoric-srd/class-options/archetypes/hunter/Verminous Hunter (Archetype)|vermin focus]] (Su), which a verminous hunter takes in place of the [[rangoric-srd/classes/Hunter#^hunter-animal-focus|animal focus]]._
 
-The creature gains a +4 bonus on saves against cold dangers, [[rangoric-srd/rules/Afflictions|disease]], heat dangers, starvation, thirst, and on Constitution checks to avoid suffocation. These bonuses increase to +6 at 8th level and +8 at 15th level.
+The creature gains a +4 bonus on defenses against cold dangers, [[rangoric-srd/rules/Afflictions|disease]], heat dangers, starvation, thirst, and on Constitution checks to avoid suffocation. These bonuses increase to +6 at 8th level and +8 at 15th level.

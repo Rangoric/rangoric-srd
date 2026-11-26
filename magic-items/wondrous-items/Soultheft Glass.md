@@ -20,11 +20,11 @@ tags: [rangoric, rangoric/magic-item]
 
 # Soultheft Glass
 
-The wielder of this hand-sized glass mirror can capture part of a creature's soul by viewing its reflection. He must avert his eyes as if defending against a [[rangoric-srd/monsters/abilities/Gaze|gaze attack]], so he sees the creature only in the mirror, then take a standard action that provokes attacks of opportunity. The creature reflected gains 1 temporary [[rangoric-srd/rules/Special Abilities and Conditions#^negative-levels|negative level]] (Fortitude DC 16 negates). The glass holds no more than three portions of a soul, and only from one creature at a time; once it's full, further attempts fail. While it holds at least one portion, its possessor gains a +1 luck bonus on ability checks, saving throws and skill checks.
+The wielder of this hand-sized glass mirror can capture part of a creature's soul by viewing its reflection. He must avert his eyes as if defending against a [[rangoric-srd/monsters/abilities/Gaze|gaze attack]], so he sees the creature only in the mirror, then take a standard action that provokes attacks of opportunity. The creature reflected gains 1 temporary [[rangoric-srd/rules/Special Abilities and Conditions#^negative-levels|negative level]] (+6 vs Fortitude). The glass holds no more than three portions of a soul, and only from one creature at a time; once it's full, further attempts fail. While it holds at least one portion, its possessor gains a +1 luck bonus on ability checks, defenses and skill checks.
 
 The wielder can question the trapped portions, as _[[rangoric-srd/spells/Call Spirit|call spirit]]_, except that the creature needn't be dead; he can ask one question per day for each portion in the glass.
 
-Negative levels from a soultheft glass never become permanent. The victim can attempt a DC 16 Fortitude save every 24 hours to remove each one; a success removes it and frees one soul portion. Any other way of removing a negative level (such as _[[rangoric-srd/spells/Restoration|restoration]]_) also frees a portion.
+Negative levels from a soultheft glass never become permanent. Each one attacks the victim’s Fortitude again at +6 every 24 hours; a miss removes it and frees one soul portion. Any other way of removing a negative level (such as _[[rangoric-srd/spells/Restoration|restoration]]_) also frees a portion.
 
 Once it has given a creature a negative level, the glass shows a ghostly reflection of that creature (but nothing of its surroundings) until every portion has been returned. If the victim dies, its portions fade after 24 hours. As a standard action, the wielder can release all the portions, which also removes the victim's negative levels.
 

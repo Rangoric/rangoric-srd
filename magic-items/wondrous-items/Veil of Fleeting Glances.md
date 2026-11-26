@@ -20,8 +20,8 @@ tags: [rangoric, rangoric/magic-item]
 
 # Veil of Fleeting Glances
 
-In addition to hiding the face, this fine lace veil protects the wearer against [[rangoric-srd/rules/Special Abilities and Conditions#Gaze Attacks|gaze attacks]]. The wearer has a 50% chance to avoid making a saving throw against a gaze attack even when not averting her eyes. If the wearer averts her eyes, she rolls twice (once for the veil, once for averting her eyes) and uses the more favorable result.
+In addition to hiding the face, this fine lace veil protects the wearer against [[rangoric-srd/rules/Special Abilities and Conditions#Gaze Attacks|gaze attacks]]. The wearer has a 50% chance to avoid a gaze attack’s attack against her defenses even when not averting her eyes. If the wearer averts her eyes, she rolls twice (once for the veil, once for averting her eyes) and uses the more favorable result.
 
-Against patterns, visual figments, and other vision-based effects and attacks that cannot affect blind creatures, the veil grants the wearer a +4 circumstance bonus on saving throws. The veil does not otherwise impede the wearer's vision in any way.
+Against patterns, visual figments, and other vision-based effects and attacks that cannot affect blind creatures, the veil grants the wearer a +4 circumstance bonus on defenses. The veil does not otherwise impede the wearer's vision in any way.
 
 Faint divination; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], blindness/deafness, _[[rangoric-srd/spells/True Strike|true strike]]_; Price 9,000 gp; Cost 4,500 gp.

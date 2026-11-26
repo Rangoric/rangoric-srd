@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Swarmbane Clasp
 
-An ancient fossilized insect lies trapped within this ornate amber clasp, impaled by the long golden pin that fastens the wearer's cloak. The wearer's weapons, unarmed attacks, and natural attacks deal full damage to swarms, regardless of the swarm's immunity to weapon damage (if any, although damage reduction applies as normal). If the wearer is damaged by a swarm, she automatically succeeds on her saving throw against the swarm's [[rangoric-srd/monsters/abilities/Distraction|distraction]] ability.
+An ancient fossilized insect lies trapped within this ornate amber clasp, impaled by the long golden pin that fastens the wearer's cloak. The wearer's weapons, unarmed attacks, and natural attacks deal full damage to swarms, regardless of the swarm's immunity to weapon damage (if any, although damage reduction applies as normal). If the wearer is damaged by a swarm, the swarm's [[rangoric-srd/monsters/abilities/Distraction|distraction]] ability automatically misses her.
 
 Moderate abjuration; CL 8th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Repel Vermin|repel vermin]]_; Price 3,000 gp; Cost 1,500 gp; Weight 1/2 lb.

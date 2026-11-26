@@ -22,7 +22,7 @@ This garment is typically black or dark blue and embroidered with small white or
 
 - It enables its wearer to travel physically to the Astral Plane, along with all that she is wearing or carrying.
 
-- It gives its wearer a +1 luck bonus on all saving throws.
+- It gives its wearer a +1 luck bonus on all defenses.
 
 - Its wearer can use up to six of the embroidered stars on the chest portion of the robe as +5 shuriken. The robe grants its wearer proficiency with such weapons. Each shuriken disappears after it is used.
 

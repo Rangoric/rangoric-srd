@@ -24,7 +24,7 @@ tags: [rangoric, rangoric/magic-item]
 These magnificent vestments disguise the presence of armor as normal clothing (as the _[[rangoric-srd/magic-items/armor-abilities/Glamered|glamered]]_ armor property). When worn by a [[rangoric-srd/classes/Bard|bard]], the robe grants the wearer the following powers:
 
 - Spell resistance 18
-- +4 resistance bonus on all saving throws
+- +4 resistance bonus on all defenses
 - +2 enhancement bonus on caster level checks made to overcome spell resistance
 
 Bards and those who fancy themselves actors or performers commission versions of these robes using only the finest fabric.
