@@ -16,7 +16,7 @@ full-attack: "Bite +21 melee (1d8+7/19–20) and 2 claws +20 melee (1d6+7) and s
 space-reach: "10 ft./10 ft."
 special-attacks: "Boiling sea, poison, spell-like abilities"
 special-qualities: "Darkvision 60 ft., detect good, detect magic, see in darkness, telepathy 100 ft., rough hide, amphibious, damage reduction 10/cold iron and good, immunity to fire and poison, resistance to acid 10 and electricity 10, spell resistance 21"
-saves: "Fort +10, Ref +13, Will +11"
+defenses: "Fort 20, Ref 23, Will 21"
 abilities: "Str 24, Dex 15, Con 23, Int 12, Wis 15, Cha 14"
 skills: "Athletics +32, Deception +19, Fieldcraft +19, Knowledge +18, Perception +19, Stealth +15"
 skill-ranks: "Athletics 22, Deception 14, Fieldcraft 14, Knowledge 14, Perception 14, Stealth 14"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Boiling Sea|Boiling sea]], [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect good, detect magic, [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Rough Hide|rough hide]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron and good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and electricity 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 21
-- **Saves**: Fort +10, Ref +13, Will +11
+- **Defenses**: Fort 20, Ref 23, Will 21
 - **Abilities**: Str 24, Dex 15, Con 23, Int 12, Wis 15, Cha 14
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +32, [[rangoric-srd/skills/Deception|Deception]] +19, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +19, [[rangoric-srd/skills/Knowledge|Knowledge]] +18, [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +15
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
@@ -72,10 +72,10 @@ Ghawwas speak Abyssal, Aquan, Celestial and Infernal.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +14): Constant—_[[rangoric-srd/spells/Detect Good|detect good]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_; At will—_[[rangoric-srd/spells/Control Water|control water]]_, _[[rangoric-srd/spells/Curse Water|curse water]]_, _[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]_, _[[rangoric-srd/spells/Dimension Door|dimension door]]_; 3/day—_[[rangoric-srd/spells/Hallucinatory Terrain|hallucinatory terrain]]_ (DC 16), _[[rangoric-srd/spells/Stinking Cloud|stinking cloud]]_ (DC 15), [[rangoric-srd/monsters/abilities/Summon|summon]] (level 6, 1 pairaka 60%), _[[rangoric-srd/spells/Quench|quench]]_ (DC 15).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +14): Constant—_[[rangoric-srd/spells/Detect Good|detect good]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_; At will—_[[rangoric-srd/spells/Control Water|control water]]_, _[[rangoric-srd/spells/Curse Water|curse water]]_, _[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]_, _[[rangoric-srd/spells/Dimension Door|dimension door]]_; 3/day—_[[rangoric-srd/spells/Hallucinatory Terrain|hallucinatory terrain]]_ (+6 vs Will), _[[rangoric-srd/spells/Stinking Cloud|stinking cloud]]_ (+5 vs Fortitude), [[rangoric-srd/monsters/abilities/Summon|summon]] (level 6, 1 pairaka 60%), _[[rangoric-srd/spells/Quench|quench]]_ (+5 vs Will).
 
-**[[rangoric-srd/monsters/abilities/Boiling Sea|Boiling Sea]] (Su)**: As a standard action, a ghawwas can cause the waters around it to boil. Any creature within 50 feet of the ghawwas, within the same body of water, and at least half submerged takes 6d6 points of fire damage (DC 23 Fortitude save for half). The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Boiling Sea|Boiling Sea]] (Su)**: As a standard action, a ghawwas can cause the waters around it to boil. Any creature within 50 feet of the ghawwas, within the same body of water, and at least half submerged takes 6d6 points of fire damage (+13 vs Fortitude; a miss halves). The attack bonus is Constitution-based.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Ghawwas Venom|Ghawwas Venom]]: Sting—injury; _save_ Fort DC 23; _frequency_ 1/round for 6 rounds; _effect_ 1d6 Str damage; _cure_ 2 consecutive saves.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Ghawwas Venom|Ghawwas Venom]]: Sting—injury; _attack_ +13 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d6 Str damage; _cure_ 2 consecutive misses.
 
 **[[rangoric-srd/monsters/abilities/Rough Hide|Rough Hide]] (Ex)**: Ghawwas have rough hides studded with jagged barbs and spiny protrusions. Any creature striking a ghawwas with a natural weapon or an unarmed strike takes 1d6 points of slashing and piercing damage.

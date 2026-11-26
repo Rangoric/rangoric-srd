@@ -14,9 +14,9 @@ cmd: "16"
 attack: "Masterwork rapier +4 melee (1d6+1/18–20) or hand crossbow +5 ranged (1d4/19–20 plus poison)"
 full-attack: "Masterwork rapier +4 melee (1d6+1/18–20); or hand crossbow +5 ranged (1d4/19–20 plus poison)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Bleeding touch (6/day), channel negative energy (4/day, 2d6, DC 12), death touch (3d6, 1/day), poison, rebuke undead, spell-like abilities, touch of chaos (6/day)"
+special-attacks: "Bleeding touch (6/day), channel negative energy (4/day, 2d6, +2 vs Will), death touch (3d6, 1/day), poison, rebuke undead, spell-like abilities, touch of chaos (6/day)"
 special-qualities: "Darkvision 120 ft., poison use, immunity to sleep, spell resistance 14, light blindness"
-saves: "Fort +4, Ref +4, Will +6"
+defenses: "Fort 14, Ref 14, Will 16"
 abilities: "Str 12, Dex 17, Con 12, Int 10, Wis 17, Cha 12"
 skills: "Mysticism +6, Sense Motive +9, Theology +6"
 skill-ranks: "Mysticism 3, Sense Motive 3, Theology 3"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Rapier|rapier]] +4 melee (1d6+1/18–20) or [[rangoric-srd/equipment/weapons/Hand Crossbow|hand crossbow]] +5 ranged (1d4/19–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
 - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Rapier|rapier]] +4 melee (1d6+1/18–20); or [[rangoric-srd/equipment/weapons/Hand Crossbow|hand crossbow]] +5 ranged (1d4/19–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/class-options/domains/Death Domain|Bleeding touch]] (6/day), [[rangoric-srd/classes/Cleric#^cleric-channel-energy|channel negative energy]] (4/day, 2d6, DC 12), [[rangoric-srd/class-options/domains/Death Domain|death touch]] (3d6, 1/day), [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]], [[rangoric-srd/class-options/domains/Chaos Domain|touch of chaos]] (6/day)
+- **Special Attacks**: [[rangoric-srd/class-options/domains/Death Domain|Bleeding touch]] (6/day), [[rangoric-srd/classes/Cleric#^cleric-channel-energy|channel negative energy]] (4/day, 2d6, +2 vs Will), [[rangoric-srd/class-options/domains/Death Domain|death touch]] (3d6, 1/day), [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]], [[rangoric-srd/class-options/domains/Chaos Domain|touch of chaos]] (6/day)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/races/racial-traits/Poison Use|poison use]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 14, [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]]
-- **Saves**: Fort +4, Ref +4, Will +6
+- **Defenses**: Fort 14, Ref 14, Will 16
 - **Abilities**: Str 12, Dex 17, Con 12, Int 10, Wis 17, Cha 12
 - **Skills**: [[rangoric-srd/skills/Mysticism|Mysticism]] +6, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Theology|Theology]] +6
 - **Feats**: [[rangoric-srd/feats/Channel Smite|Channel Smite]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -78,6 +78,6 @@ Drow nobles speak Elven and Undercommon.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 3rd): Constant—_[[rangoric-srd/spells/Detect Magic|detect magic]]_; At will—_[[rangoric-srd/spells/Dancing Lights|dancing lights]], [[rangoric-srd/spells/Deeper Darkness|deeper darkness]], [[rangoric-srd/spells/Faerie Fire|faerie fire]], [[rangoric-srd/spells/Feather Fall|feather fall]], [[rangoric-srd/spells/Levitate|levitate]]_; 1/day—_[[rangoric-srd/spells/Divine Favor|divine favor]], [[rangoric-srd/spells/Dispel Magic|dispel magic]], [[rangoric-srd/spells/Suggestion|suggestion]]_ (DC 14).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 3rd): Constant—_[[rangoric-srd/spells/Detect Magic|detect magic]]_; At will—_[[rangoric-srd/spells/Dancing Lights|dancing lights]], [[rangoric-srd/spells/Deeper Darkness|deeper darkness]], [[rangoric-srd/spells/Faerie Fire|faerie fire]], [[rangoric-srd/spells/Feather Fall|feather fall]], [[rangoric-srd/spells/Levitate|levitate]]_; 1/day—_[[rangoric-srd/spells/Divine Favor|divine favor]], [[rangoric-srd/spells/Dispel Magic|dispel magic]], [[rangoric-srd/spells/Suggestion|suggestion]]_ (+4 vs Will).
 
-**Cleric spells prepared** (CL 3rd): 2nd—_[[rangoric-srd/spells/Death Knell|death knell]]_<sup>D</sup> (DC 15), _[[rangoric-srd/spells/Hold Person|hold person]]_ (DC 15), _[[rangoric-srd/spells/Silence|silence]]_ (DC 15); 1st—_[[rangoric-srd/spells/Bless|bless]]_, _[[rangoric-srd/spells/Cause Fear|cause fear]]_ (DC 14), _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, _[[rangoric-srd/spells/Protection from Law|protection from law]]_<sup>D</sup>; 0—_[[rangoric-srd/spells/Bleed|bleed]]_ (DC 13), _[[rangoric-srd/spells/Detect Poison|detect poison]], [[rangoric-srd/spells/Read Magic|read magic]], [[rangoric-srd/spells/Resistance|resistance]]_; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Chaos Domain|Chaos]], [[rangoric-srd/class-options/domains/Death Domain|Death]].
+**Cleric spells prepared** (CL 3rd): 2nd—_[[rangoric-srd/spells/Death Knell|death knell]]_<sup>D</sup> (+5 vs Will), _[[rangoric-srd/spells/Hold Person|hold person]]_ (+5 vs Will), _[[rangoric-srd/spells/Silence|silence]]_ (+5 vs Will); 1st—_[[rangoric-srd/spells/Bless|bless]]_, _[[rangoric-srd/spells/Cause Fear|cause fear]]_ (+4 vs Will), _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, _[[rangoric-srd/spells/Protection from Law|protection from law]]_<sup>D</sup>; 0—_[[rangoric-srd/spells/Bleed|bleed]]_ (+3 vs Will), _[[rangoric-srd/spells/Detect Poison|detect poison]], [[rangoric-srd/spells/Read Magic|read magic]], [[rangoric-srd/spells/Resistance|resistance]]_; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Chaos Domain|Chaos]], [[rangoric-srd/class-options/domains/Death Domain|Death]].

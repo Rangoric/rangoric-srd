@@ -16,7 +16,7 @@ full-attack: "Masterwork adamantine greataxe +13/+8 melee (1d12+7/×3); or light
 space-reach: "5 ft./5 ft."
 special-attacks: "+1 on attack rolls against goblinoid and orc humanoids, rage (19 rounds/day), rage powers (guarded stance +2, knockback, strength surge +7)"
 special-qualities: "Defensive training (+4 dodge bonus to AC vs. giants), improved uncanny dodge, trap sense +2, fast movement, damage reduction 1/—"
-saves: "Fort +11, Ref +4, Will +7 (+2 vs. poison, spells, and spell-like abilities)"
+defenses: "Fort 21, Ref 14, Will 17 (+2 vs. poison, spells, and spell-like abilities)"
 abilities: "Str 20, Dex 13, Con 20, Int 10, Wis 14, Cha 6"
 skills: "Acrobatics +5, Athletics +10 (+6 jumping), Craft (weapons) +10, Dungeoneering +5, Investigation +0 (+2 to notice unusual stonework), Perception +12"
 skill-ranks: "Acrobatics 1, Athletics 2, Craft (weapons) 7, Dungeoneering 2, Perception 7"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/races/Dwarf|+1 on attack rolls against goblinoid and orc humanoids]], [[rangoric-srd/classes/Barbarian#^barbarian-rage|rage]] (19 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/Guarded Stance (Rage Power)|guarded stance]] +2, [[rangoric-srd/class-options/rage-powers/Knockback (Rage Power)|knockback]], [[rangoric-srd/class-options/rage-powers/Strength Surge (Rage Power)|strength surge]] +7)
 - **Special Qualities**: [[rangoric-srd/races/Dwarf#^defensive-training|Defensive training]] (+4 dodge bonus to AC vs. giants), [[rangoric-srd/classes/Barbarian#^barbarian-improved-uncanny-dodge|improved uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] +2, [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/classes/Barbarian#^barbarian-damage-reduction|damage reduction]] 1/—
-- **Saves**: Fort +11, Ref +4, Will +7 (+2 vs. poison, spells, and spell-like abilities)
+- **Defenses**: Fort 21, Ref 14, Will 17 (+2 vs. poison, spells, and spell-like abilities)
 - **Abilities**: Str 20, Dex 13, Con 20, Int 10, Wis 14, Cha 6
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +10 (+6 jumping), [[rangoric-srd/skills/Craft|Craft]] (weapons) +10, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +5, [[rangoric-srd/skills/Investigation|Investigation]] +0 (+2 to notice unusual stonework), [[rangoric-srd/skills/Perception|Perception]] +12
 - **Feats**: [[rangoric-srd/feats/Armor Proficiency (Heavy)|Armor Proficiency (Heavy)]], [[rangoric-srd/feats/Greater Sunder|Greater Sunder]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Power Attack|Power Attack]]

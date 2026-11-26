@@ -16,7 +16,7 @@ full-attack: "Spiked gauntlet +3 melee (1d4+2); or heavy mace +3 melee (1d8+2); 
 space-reach: "5 ft./5 ft."
 special-attacks: "+1 on attack rolls vs. goblinoid and orc humanoids"
 special-qualities: "Darkvision 60 ft., defensive training (+4 dodge bonus to AC vs. giants), bloodline arcana (change energy damage spells to fire)"
-saves: "Fort +2, Ref +0, Will +3 (+2 vs. poison, spells, and spell-like abilities)"
+defenses: "Fort 12, Ref 10, Will 13 (+2 vs. poison, spells, and spell-like abilities)"
 abilities: "Str 14, Dex 10, Con 15, Int 12, Wis 10, Cha 13"
 skills: "Appraise +5 (+7 to assess metals or gemstones), Craft (jewelry) +5, Emulation +5, Investigation +1 (+3 to notice unusual stonework), Mysticism +5, Perception +2"
 skill-ranks: "Appraise 1, Craft (jewelry) 1, Emulation 1, Mysticism 1, Perception 2"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: +1 on attack rolls vs. goblinoid and orc humanoids
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/races/Dwarf#^defensive-training|defensive training]] (+4 dodge bonus to AC vs. giants), [[rangoric-srd/class-options/bloodlines/Elemental Bloodline|bloodline arcana]] (change energy damage spells to fire)
-- **Saves**: Fort +2, Ref +0, Will +3 (+2 vs. poison, spells, and spell-like abilities)
+- **Defenses**: Fort 12, Ref 10, Will 13 (+2 vs. poison, spells, and spell-like abilities)
 - **Abilities**: Str 14, Dex 10, Con 15, Int 12, Wis 10, Cha 13
 - **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +5 (+7 to assess metals or gemstones), [[rangoric-srd/skills/Craft|Craft]] (jewelry) +5, [[rangoric-srd/skills/Emulation|Emulation]] +5, [[rangoric-srd/skills/Investigation|Investigation]] +1 (+3 to notice unusual stonework), [[rangoric-srd/skills/Mysticism|Mysticism]] +5, [[rangoric-srd/skills/Perception|Perception]] +2
 - **Feats**: [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Toughness|Toughness]]
@@ -73,4 +73,4 @@ A gem sorcerer speaks Common, Dwarven, and Giant.
 
 **Bloodline Spell-Like Abilities** (CL 2nd; concentration +3): 4/day—[[rangoric-srd/class-options/bloodlines/Elemental Bloodline|elemental ray]] (1d6+1 fire).
 
-**Sorcerer spells known** (CL 2nd; concentration +3; arcane spell failure 10%): 1st (5/day)—_[[rangoric-srd/spells/Burning Hands|burning hands]]_ (DC 12), _[[rangoric-srd/spells/Shocking Grasp|shocking grasp]]_ (fire); 0 (at will)—_[[rangoric-srd/spells/Acid Splash|acid splash]]_(fire), _[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Mending|mending]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_, _[[rangoric-srd/spells/Touch of Fatigue|touch of fatigue]]_ (DC 11); **Bloodline**: [[rangoric-srd/class-options/bloodlines/Elemental Bloodline|elemental (fire)]].
+**Sorcerer spells known** (CL 2nd; concentration +3; arcane spell failure 10%): 1st (5/day)—_[[rangoric-srd/spells/Burning Hands|burning hands]]_ (+2 vs Reflex), _[[rangoric-srd/spells/Shocking Grasp|shocking grasp]]_ (fire); 0 (at will)—_[[rangoric-srd/spells/Acid Splash|acid splash]]_(fire), _[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Mending|mending]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_, _[[rangoric-srd/spells/Touch of Fatigue|touch of fatigue]]_ (+1 vs Fortitude); **Bloodline**: [[rangoric-srd/class-options/bloodlines/Elemental Bloodline|elemental (fire)]].

@@ -16,7 +16,7 @@ full-attack: "Masterwork dwarven waraxe +7 melee (1d10+4/×3) ormwk dwarven wara
 space-reach: "5 ft./5 ft."
 special-attacks: "+1 on attack rolls against goblinoid and orc humanoids, rage (8 rounds/day), rage powers (knockback)"
 special-qualities: "Defensive training (+4 dodge bonus to AC vs. giants), uncanny dodge, fast movement"
-saves: "Fort +7, Ref +2, Will +4 (+2 vs. poison, spells, and spell-like abilities)"
+defenses: "Fort 17, Ref 12, Will 14 (+2 vs. poison, spells, and spell-like abilities)"
 abilities: "Str 18, Dex 15, Con 19, Int 10, Wis 14, Cha 6"
 skills: "Athletics +3, Dungeoneering +2, Engineering +2, Fieldcraft +6, Investigation +0 (+2 to notice unusual stonework), Perception +7"
 skill-ranks: "Athletics 0, Dungeoneering 2, Engineering 2, Fieldcraft 1, Perception 2"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/races/Dwarf|+1 on attack rolls against goblinoid and orc humanoids]], [[rangoric-srd/classes/Barbarian#^barbarian-rage|rage]] (8 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/Knockback (Rage Power)|knockback]])
 - **Special Qualities**: [[rangoric-srd/races/Dwarf#^defensive-training|Defensive training]] (+4 dodge bonus to AC vs. giants), [[rangoric-srd/classes/Barbarian#^barbarian-uncanny-dodge|uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]]
-- **Saves**: Fort +7, Ref +2, Will +4 (+2 vs. poison, spells, and spell-like abilities)
+- **Defenses**: Fort 17, Ref 12, Will 14 (+2 vs. poison, spells, and spell-like abilities)
 - **Abilities**: Str 18, Dex 15, Con 19, Int 10, Wis 14, Cha 6
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +3, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +2, [[rangoric-srd/skills/Engineering|Engineering]] +2, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Investigation|Investigation]] +0 (+2 to notice unusual stonework), [[rangoric-srd/skills/Perception|Perception]] +7
 - **Feats**: [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]]

@@ -15,7 +15,7 @@ full-attack: "Bite +7 melee (1d8+6 plus trip)"
 space-reach: "10 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +7, Ref +6, Will +2"
+defenses: "Fort 17, Ref 16, Will 12"
 abilities: "Str 19, Dex 15, Con 17, Int 2, Wis 12, Cha 10"
 skills: "Fieldcraft +1 (+5 scent tracking), Perception +10, Stealth +3"
 skill-ranks: "Fieldcraft 0, Perception 6, Stealth 2"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +7, Ref +6, Will +2
+- **Defenses**: Fort 17, Ref 16, Will 12
 - **Abilities**: Str 19, Dex 15, Con 17, Int 2, Wis 12, Cha 10
 - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +1 (+5 scent tracking), [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +3
 - **Feats**: [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)

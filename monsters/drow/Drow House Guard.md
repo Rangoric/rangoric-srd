@@ -16,7 +16,7 @@ full-attack: "Masterwork longsword +7 melee (1d8+2/19–20 plus poison); or repe
 space-reach: "5 ft./5 ft."
 special-attacks: "Poison, spell-like abilities"
 special-qualities: "Darkvision 120 ft., bravery +1, armor training 1, poison use, immunity to sleep, spell resistance 9, light blindness"
-saves: "Fort +3, Ref +4, Will +2 (+1 vs. fear); +2 vs. enchantment)"
+defenses: "Fort 13, Ref 14, Will 12 (+1 vs. fear); +2 vs. enchantment)"
 abilities: "Str 14, Dex 17, Con 11, Int 10, Wis 12, Cha 10"
 skills: "Athletics +6, Perception +6, Stealth +5"
 skill-ranks: "Athletics 1, Perception 2, Stealth 2"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +1, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1, [[rangoric-srd/races/racial-traits/Poison Use|poison use]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 9, [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]]
-- **Saves**: Fort +3, Ref +4, Will +2 (+1 vs. fear); +2 vs. enchantment)
+- **Defenses**: Fort 13, Ref 14, Will 12 (+1 vs. fear); +2 vs. enchantment)
 - **Abilities**: Str 14, Dex 17, Con 11, Int 10, Wis 12, Cha 10
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +5
 - **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Exotic Weapon Proficiency|Exotic Weapon Proficiency]] (heavy repeating crossbow), [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longsword)
@@ -69,7 +69,7 @@ A drow house guard speaks Elven and Undercommon.
 
 ### Combat
 
-A drow house guard’s poisoned weapons carry [[rangoric-srd/rules/afflictions/Drow Poison|drow poison]] (Fortitude DC 13).
+A drow house guard’s poisoned weapons carry [[rangoric-srd/rules/afflictions/Drow Poison|drow poison]] (+3 vs Fortitude).
 
 **During Combat**: The house guard uses alchemical weapons and poison against spellcasters.
 

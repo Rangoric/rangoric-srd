@@ -41,7 +41,7 @@ Duergar characters possess the following racial traits.
 
 - Immunity to [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], phantasms, and [[rangoric-srd/rules/Afflictions#Poison|poison]].
 
-- \+2 racial bonus on saves against spells and spell-like effects.
+- \+2 racial bonus on defenses against spells and spell-like effects.
 
 - Stability: Duergar are exceptionally stable on their feet. A duergar receives a +4 bonus on ability checks made to resist being [[rangoric-srd/combat/Combat Maneuvers#Bull Rush|bull rushed]] or [[rangoric-srd/combat/Combat Maneuvers#Trip|tripped]]when standing on the ground (but not when climbing, flying, riding or otherwise not standing firmly on the ground).
 

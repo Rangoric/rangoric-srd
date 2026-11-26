@@ -14,9 +14,9 @@ cmd: "25"
 attack: "+1 scimitar +16 melee (1d6+5/15–20) or heavy crossbow +12 ranged (1d10/19–20)"
 full-attack: "+1 scimitar +16/+11 melee (1d6+5/15–20); or heavy crossbow +12 ranged (1d10/19–20)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Channel negative energy (DC 18, 5d6), smite good 4/day (+3 attack and AC, +10 damage), spell-like abilities"
+special-attacks: "Channel negative energy (+8 vs Will, 5d6), smite good 4/day (+3 attack and AC, +10 damage), spell-like abilities"
 special-qualities: "Darkvision 120 ft., aura of cowardice (10 ft.), aura of despair (10 ft.), cruelties (dazed, nauseated, sickened, staggered), fiendish boon (weapon +2, 2/day), poison use, touch of corruption 8/day (5d6), immunity to sleep and disease, spell resistance 16, light blindness"
-saves: "Fort +11, Ref +7, Will +9 (+2 vs. enchantments)"
+defenses: "Fort 21, Ref 17, Will 19 (+2 vs. enchantments)"
 abilities: "Str 18, Dex 12, Con 12, Int 12, Wis 8, Cha 16"
 skills: "Acrobatics +0, Athletics +3, Intimidation +11, Perception +11, Stealth +8"
 skill-ranks: "Acrobatics 0, Athletics 0, Intimidation 5, Perception 9, Stealth 4"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: +1 [[rangoric-srd/equipment/weapons/Scimitar|scimitar]] +16 melee (1d6+5/15–20) or [[rangoric-srd/equipment/weapons/Heavy Crossbow|heavy crossbow]] +12 ranged (1d10/19–20)
 - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Scimitar|scimitar]] +16/+11 melee (1d6+5/15–20); or [[rangoric-srd/equipment/weapons/Heavy Crossbow|heavy crossbow]] +12 ranged (1d10/19–20)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/classes/Antipaladin#^antipaladin-channel-negative-energy|Channel negative energy]] (DC 18, 5d6), [[rangoric-srd/classes/Antipaladin#^antipaladin-smite-good|smite good]] 4/day (+3 attack and AC, +10 damage), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Attacks**: [[rangoric-srd/classes/Antipaladin#^antipaladin-channel-negative-energy|Channel negative energy]] (+8 vs Will, 5d6), [[rangoric-srd/classes/Antipaladin#^antipaladin-smite-good|smite good]] 4/day (+3 attack and AC, +10 damage), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/classes/Antipaladin#^antipaladin-aura-of-cowardice|aura of cowardice]] (10 ft.), [[rangoric-srd/classes/Antipaladin#^antipaladin-aura-of-despair|aura of despair]] (10 ft.), [[rangoric-srd/classes/Antipaladin#^antipaladin-cruelty|cruelties]] ([[rangoric-srd/class-options/cruelties/Dazed (Cruelty)|dazed]], [[rangoric-srd/class-options/cruelties/Nauseated (Cruelty)|nauseated]], [[rangoric-srd/class-options/cruelties/Sickened (Cruelty)|sickened]], [[rangoric-srd/class-options/cruelties/Staggered (Cruelty)|staggered]]), [[rangoric-srd/classes/Antipaladin#^antipaladin-fiendish-boon|fiendish boon]] (weapon +2, 2/day), [[rangoric-srd/races/racial-traits/Poison Use|poison use]], [[rangoric-srd/classes/Antipaladin#^antipaladin-touch-of-corruption|touch of corruption]] 8/day (5d6), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep and disease, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 16, [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]]
-- **Saves**: Fort +11, Ref +7, Will +9 (+2 vs. enchantments)
+- **Defenses**: Fort 21, Ref 17, Will 19 (+2 vs. enchantments)
 - **Abilities**: Str 18, Dex 12, Con 12, Int 12, Wis 8, Cha 16
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +0, [[rangoric-srd/skills/Athletics|Athletics]] +3, [[rangoric-srd/skills/Intimidation|Intimidation]] +11, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +8
 - **Feats**: [[rangoric-srd/feats/Channel Smite|Channel Smite]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (scimitar), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Shield Focus|Shield Focus]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (scimitar)
@@ -79,4 +79,4 @@ A drow demonic champion speaks Elven and Undercommon.
 
 **[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +3): 1/day—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Darkness|darkness]]_, _[[rangoric-srd/spells/Faerie Fire|faerie fire]]_.
 
-**Antipaladin spells prepared** (CL 7th; concentration +10): 3rd—_[[rangoric-srd/spells/Litany of Sight|litany of sight]]_; 2nd—_[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Silence|silence]]_ (DC 15); 1st—_[[rangoric-srd/spells/Litany of Sloth|litany of sloth]]_, _[[rangoric-srd/spells/Murderous Command|murderous command]]_ (DC 14), _[[rangoric-srd/spells/Protection from Good|protection from good]]_.
+**Antipaladin spells prepared** (CL 7th; concentration +10): 3rd—_[[rangoric-srd/spells/Litany of Sight|litany of sight]]_; 2nd—_[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Silence|silence]]_ (+5 vs Will); 1st—_[[rangoric-srd/spells/Litany of Sloth|litany of sloth]]_, _[[rangoric-srd/spells/Murderous Command|murderous command]]_ (+4 vs Will), _[[rangoric-srd/spells/Protection from Good|protection from good]]_.

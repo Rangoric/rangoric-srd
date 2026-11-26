@@ -14,9 +14,9 @@ cmd: "16 (20 vs. bull rush or trip)"
 attack: "Light mace +2 melee (1d6+1) or bomb +6 (1d6+2 acid or fire) or light crossbow +3 ranged (1d8/19–20)"
 full-attack: "Light mace +2 melee (1d6+1); or bomb +6 (1d6+2 acid; or fire); or light crossbow +3 ranged (1d8/19–20)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Bomb 6/day (1d6+2 acid or fire, DC 13), spell-like abilities"
+special-attacks: "Bomb 6/day (1d6+2 acid or fire, +3 vs Reflex), spell-like abilities"
 special-qualities: "Darkvision 120 ft., alchemy (alchemy crafting +2, identify potions), discovery (acid bomb), ironskinned, mutagen (+4/-2, +2 natural, 20 minutes), poison use, slow and steady, stability, immunity to paralysis, phantasms and poison, light sensitivity"
-saves: "Fort +5, Ref +7, Will +0 (+2 vs. spells)"
+defenses: "Fort 15, Ref 17, Will 10 (+2 vs. spells)"
 abilities: "Str 12, Dex 16, Con 15, Int 15, Wis 10, Cha 4"
 skills: "Arcana +7, Craft (alchemy) +7, Engineering +8, Fieldcraft +4, Medicine +4, Perception +6"
 skill-ranks: "Arcana 2, Craft (alchemy) 2, Engineering 2, Fieldcraft 1, Medicine 1, Perception 3"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: [[rangoric-srd/equipment/weapons/Light Mace|Light mace]] +2 melee (1d6+1) or bomb +6 (1d6+2 acid or fire) or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +3 ranged (1d8/19–20)
 - **Full Attack**: [[rangoric-srd/equipment/weapons/Light Mace|Light mace]] +2 melee (1d6+1); or bomb +6 (1d6+2 acid; or fire); or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +3 ranged (1d8/19–20)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/classes/Alchemist#^alchemist-bomb|Bomb]] 6/day (1d6+2 acid or fire, DC 13), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Attacks**: [[rangoric-srd/classes/Alchemist#^alchemist-bomb|Bomb]] 6/day (1d6+2 acid or fire, +3 vs Reflex), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/classes/Alchemist#^alchemist-alchemy|alchemy]] (alchemy crafting +2, identify potions), [[rangoric-srd/classes/Alchemist#^alchemist-discovery|discovery]] (acid bomb), [[rangoric-srd/races/racial-traits/Ironskinned|ironskinned]], [[rangoric-srd/classes/Alchemist#^alchemist-mutagen|mutagen]] (+4/-2, +2 natural, 20 minutes), [[rangoric-srd/classes/Alchemist#^alchemist-poison-use|poison use]], slow and steady, stability, immunity to [[rangoric-srd/monsters/abilities/Paralysis|paralysis]], phantasms and poison, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
-- **Saves**: Fort +5, Ref +7, Will +0 (+2 vs. spells)
+- **Defenses**: Fort 15, Ref 17, Will 10 (+2 vs. spells)
 - **Abilities**: Str 12, Dex 16, Con 15, Int 15, Wis 10, Cha 4
 - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +7, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +7, [[rangoric-srd/skills/Engineering|Engineering]] +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Medicine|Medicine]] +4, [[rangoric-srd/skills/Perception|Perception]] +6
 - **Feats**: [[rangoric-srd/feats/Brew Potion|Brew Potion]], [[rangoric-srd/feats/Extra Bombs|Extra Bombs]], [[rangoric-srd/feats/Throw Anything|Throw Anything]]

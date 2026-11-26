@@ -16,7 +16,7 @@ full-attack: "+1 giant-bane dwarven waraxe +19/+14/+9 melee (1d10+7/×3); or mas
 space-reach: "5 ft./5 ft."
 special-attacks: "+1 on attack rolls against goblinoid and orc humanoids, greater rage (31 rounds/day), rage powers (guarded stance +3, mighty swing, no escape, roused anger, strength surge +12, unexpected strike)"
 special-qualities: "Defensive training (+4 dodge bonus to AC vs. giants), improved uncanny dodge, trap sense +4, fast movement, damage reduction 2/—"
-saves: "Fort +17, Ref +6, Will +10 (+2 vs. poison, spells, and spell-like abilities)"
+defenses: "Fort 27, Ref 16, Will 20 (+2 vs. poison, spells, and spell-like abilities)"
 abilities: "Str 22, Dex 13, Con 26, Int 8, Wis 14, Cha 8"
 skills: "Athletics +10, Fieldcraft +10, Investigation –1 (+1 to notice unusual stonework), Linguistics +0, Medicine +5, Nature +5, Perception +17"
 skill-ranks: "Athletics 1, Fieldcraft 5, Linguistics 1, Medicine 3, Nature 3, Perception 12"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/races/Dwarf|+1 on attack rolls against goblinoid and orc humanoids]], [[rangoric-srd/classes/Barbarian#^barbarian-greater-rage|greater rage]] (31 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/Guarded Stance (Rage Power)|guarded stance]] +3, [[rangoric-srd/class-options/rage-powers/Mighty Swing (Rage Power)|mighty swing]], [[rangoric-srd/class-options/rage-powers/No Escape (Rage Power)|no escape]], [[rangoric-srd/class-options/rage-powers/Roused Anger (Rage Power)|roused anger]], [[rangoric-srd/class-options/rage-powers/Strength Surge (Rage Power)|strength surge]] +12, [[rangoric-srd/class-options/rage-powers/Unexpected Strike (Rage Power)|unexpected strike]])
 - **Special Qualities**: [[rangoric-srd/races/Dwarf#^defensive-training|Defensive training]] (+4 dodge bonus to AC vs. giants), [[rangoric-srd/classes/Barbarian#^barbarian-improved-uncanny-dodge|improved uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] +4, [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/classes/Barbarian#^barbarian-damage-reduction|damage reduction]] 2/—
-- **Saves**: Fort +17, Ref +6, Will +10 (+2 vs. poison, spells, and spell-like abilities)
+- **Defenses**: Fort 27, Ref 16, Will 20 (+2 vs. poison, spells, and spell-like abilities)
 - **Abilities**: Str 22, Dex 13, Con 26, Int 8, Wis 14, Cha 8
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Investigation|Investigation]] –1 (+1 to notice unusual stonework), [[rangoric-srd/skills/Linguistics|Linguistics]] +0, [[rangoric-srd/skills/Medicine|Medicine]] +5, [[rangoric-srd/skills/Nature|Nature]] +5, [[rangoric-srd/skills/Perception|Perception]] +17
 - **Feats**: [[rangoric-srd/feats/Armor Proficiency (Heavy)|Armor Proficiency (Heavy)]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]

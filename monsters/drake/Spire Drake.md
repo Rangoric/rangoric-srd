@@ -15,7 +15,7 @@ full-attack: "Bite +13 melee (2d6+6 plus 1d6 negative energy) and tail slap +8 m
 space-reach: "10 ft./10 ft."
 special-attacks: "Accursed breath, soul corruption"
 special-qualities: "Darkvision 60 ft., low-light vision, speed surge, immunity to curses, energy drain, negative energy, paralysis and sleep"
-saves: "Fort +10, Ref +7, Will +6"
+defenses: "Fort 20, Ref 17, Will 16"
 abilities: "Str 22, Dex 12, Con 19, Int 10, Wis 11, Cha 15"
 skills: "Acrobatics +10, Arcana +10, Athletics +20, Emulation +13, Mysticism +10, Perception +11, Theology +10"
 skill-ranks: "Acrobatics 8, Arcana 7, Athletics 11, Emulation 8, Mysticism 7, Perception 8, Theology 7"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Accursed Breath|Accursed breath]], [[rangoric-srd/monsters/abilities/Soul Corruption|soul corruption]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Speed Surge (Spire Drake)|speed surge]], immunity to curses, [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]], negative energy, paralysis and sleep
-- **Saves**: Fort +10, Ref +7, Will +6
+- **Defenses**: Fort 20, Ref 17, Will 16
 - **Abilities**: Str 22, Dex 12, Con 19, Int 10, Wis 11, Cha 15
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Arcana|Arcana]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +20, [[rangoric-srd/skills/Emulation|Emulation]] +13, [[rangoric-srd/skills/Mysticism|Mysticism]] +10, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Theology|Theology]] +10
 - **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Wingover|Wingover]]
@@ -74,7 +74,7 @@ Spire drakes speak Draconic.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Accursed Breath|Accursed Breath]] (Su)**: As a standard action, a spire drake can spit a compressed ball of jet-black dust that bursts into a spray of clinging motes that sap the spiritual strength of creatures in an area. The attack has a range of 60 feet and deals 5d6 points of negative energy damage (Will DC 18 half) to all creatures in a 20-foot radius. Affected creatures take a -2 penalty on attack rolls, saving throws, skill checks, and ability checks for 1d4 rounds (or for 1 round on a successful Will save). As long as these motes cling to a creature, the effect of any conjuration (healing) effect used on that creature is halved. This is a curse effect. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Accursed Breath|Accursed Breath]] (Su)**: As a standard action, a spire drake can spit a compressed ball of jet-black dust that bursts into a spray of clinging motes that sap the spiritual strength of creatures in an area. The attack has a range of 60 feet and deals 5d6 points of negative energy damage (+8 vs Will; a miss halves) to all creatures in a 20-foot radius. Affected creatures take a -2 penalty on attack rolls, defenses, skill checks, and ability checks for 1d4 rounds (or for 1 round on a miss against Will). As long as these motes cling to a creature, the effect of any conjuration (healing) effect used on that creature is halved. This is a curse effect. The attack bonus is Constitution-based.
 
 **[[rangoric-srd/monsters/abilities/Soul Corruption|Soul Corruption]] (Su)**: If a spire drake successfully performs a coup de grace upon a creature afflicted by its accursed breath, the slain target arises 1d4 rounds later as a [[rangoric-srd/monsters/Wight|wight]]. This wight is not under the drake's control, and the wight and any spawn that it creates perish 1d6 days after arising.
 

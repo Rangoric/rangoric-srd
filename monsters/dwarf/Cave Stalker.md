@@ -16,7 +16,7 @@ full-attack: "Masterwork short sword +6 melee (1d6+3/19–20); or +1 light cross
 space-reach: "5 ft./5 ft."
 special-attacks: "+1 on attack rolls against goblinoid and orc humanoids, sneak attack +3d6, debilitating injury"
 special-qualities: "Darkvision 60 ft., defensive training (+4 dodge bonus to AC vs. giants), evasion, danger sense +2, uncanny dodge, rogue talents (combat trick, resiliency, weapon training), trapfinding +3, finesse training (short sword), rogue's edge (Athletics)"
-saves: "Fort +5, Ref +8, Will +4 (+2 vs. poison, spells, and spell-like abilities)"
+defenses: "Fort 15, Ref 18, Will 14 (+2 vs. poison, spells, and spell-like abilities)"
 abilities: "Str 13, Dex 16, Con 16, Int 10, Wis 14, Cha 6"
 skills: "Acrobatics +12, Athletics +12 (+8 jumping), Dungeoneering +9, Escape Artist +12, Fieldcraft +8, Investigation +0 (+2 to notice unusual stonework), Perception +11, Stealth +12"
 skill-ranks: "Acrobatics 6, Athletics 8, Dungeoneering 6, Escape Artist 6, Fieldcraft 3, Perception 6, Stealth 6"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/races/Dwarf|+1 on attack rolls against goblinoid and orc humanoids]], [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|sneak attack]] +3d6, [[rangoric-srd/classes/Rogue#^rogue-debilitating-injury|debilitating injury]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/races/Dwarf#^defensive-training|defensive training]] (+4 dodge bonus to AC vs. giants), [[rangoric-srd/classes/Rogue#^rogue-evasion|evasion]], [[rangoric-srd/classes/Rogue#^rogue-trap-sense|danger sense]] +2, [[rangoric-srd/classes/Rogue#^rogue-uncanny-dodge|uncanny dodge]], [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]] ([[rangoric-srd/class-options/rogue-talents/Combat Trick (Rogue Talent)|combat trick]], [[rangoric-srd/class-options/rogue-talents/Resiliency (Rogue Talent)|resiliency]], [[rangoric-srd/class-options/rogue-talents/Weapon Training (Rogue Talent)|weapon training]]), [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +3, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]] (short sword), [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]] ([[rangoric-srd/skills/Athletics|Athletics]])
-- **Saves**: Fort +5, Ref +8, Will +4 (+2 vs. poison, spells, and spell-like abilities)
+- **Defenses**: Fort 15, Ref 18, Will 14 (+2 vs. poison, spells, and spell-like abilities)
 - **Abilities**: Str 13, Dex 16, Con 16, Int 10, Wis 14, Cha 6
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Athletics|Athletics]] +12 (+8 jumping), [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +9, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +12, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8, [[rangoric-srd/skills/Investigation|Investigation]] +0 (+2 to notice unusual stonework), [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +12
 - **Feats**: [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Rapid Reload|Rapid Reload]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (light crossbow)

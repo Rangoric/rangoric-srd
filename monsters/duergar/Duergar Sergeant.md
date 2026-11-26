@@ -16,7 +16,7 @@ full-attack: "Masterwork dwarven waraxe +5 melee (2d8+4/×3); or heavy crossbow 
 space-reach: "10 ft./5 ft."
 special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 120 ft., bravery +1, slow and steady, stability, immunity to paralysis, phantasms and poison, light sensitivity"
-saves: "Fort +6, Ref +0, Will +2 (+1 vs. fear); +2 vs. spells)"
+defenses: "Fort 16, Ref 10, Will 12 (+1 vs. fear); +2 vs. spells)"
 abilities: "Str 17, Dex 10, Con 16, Int 10, Wis 15, Cha 4"
 skills: "Animal Handling +1, Fieldcraft +6, Perception +2"
 skill-ranks: "Animal Handling 1, Fieldcraft 1, Perception 0"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +1, slow and steady, stability, immunity to [[rangoric-srd/monsters/abilities/Paralysis|paralysis]], phantasms and poison, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
-- **Saves**: Fort +6, Ref +0, Will +2 (+1 vs. fear); +2 vs. spells)
+- **Defenses**: Fort 16, Ref 10, Will 12 (+1 vs. fear); +2 vs. spells)
 - **Abilities**: Str 17, Dex 10, Con 16, Int 10, Wis 15, Cha 4
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +1, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Perception|Perception]] +2
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (dwarven waraxe)

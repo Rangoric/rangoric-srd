@@ -14,9 +14,9 @@ cmd: "18 (22 vs. bull rush or trip)"
 attack: "Unarmed strike +3 melee (1d6+2) or unarmed strike flurry of blows +2 melee (1d6+2) or shuriken +3 ranged (1d2+2) or shuriken flurry of blows +2 ranged (1d2+2)"
 full-attack: "Unarmed strike +3 melee (1d6+2); or unarmed strike flurry of blows +2/+2 melee (1d6+2); or shuriken +3 ranged (1d2+2); or shuriken flurry of blows +2/+2 ranged (1d2+2)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Flurry of blows, stunning fist (2/day, DC 13), spell-like abilities"
+special-attacks: "Flurry of blows, stunning fist (2/day, +3 vs Fortitude), spell-like abilities"
 special-qualities: "Darkvision 120 ft., evasion, slow and steady, stability, immunity to paralysis, phantasms and poison, light sensitivity"
-saves: "Fort +5, Ref +5, Will +5 (+2 vs. spells)"
+defenses: "Fort 15, Ref 15, Will 15 (+2 vs. spells)"
 abilities: "Str 14, Dex 15, Con 14, Int 10, Wis 15, Cha 4"
 skills: "Acrobatics +7, Escape Artist +7, Perception +7, Stealth +7"
 skill-ranks: "Acrobatics 2, Escape Artist 2, Perception 2, Stealth 2"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +3 melee (1d6+2) or unarmed strike flurry of blows +2 melee (1d6+2) or [[rangoric-srd/equipment/weapons/Shuriken|shuriken]] +3 ranged (1d2+2) or shuriken flurry of blows +2 ranged (1d2+2)
 - **Full Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +3 melee (1d6+2); or unarmed strike flurry of blows +2/+2 melee (1d6+2); or [[rangoric-srd/equipment/weapons/Shuriken|shuriken]] +3 ranged (1d2+2); or shuriken flurry of blows +2/+2 ranged (1d2+2)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/classes/Monk#^monk-flurry-of-blows|Flurry of blows]], [[rangoric-srd/classes/Monk#^monk-stunning-fist|stunning fist]] (2/day, DC 13), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Attacks**: [[rangoric-srd/classes/Monk#^monk-flurry-of-blows|Flurry of blows]], [[rangoric-srd/classes/Monk#^monk-stunning-fist|stunning fist]] (2/day, +3 vs Fortitude), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/classes/Monk#^monk-evasion|evasion]], slow and steady, stability, immunity to [[rangoric-srd/monsters/abilities/Paralysis|paralysis]], phantasms and poison, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
-- **Saves**: Fort +5, Ref +5, Will +5 (+2 vs. spells)
+- **Defenses**: Fort 15, Ref 15, Will 15 (+2 vs. spells)
 - **Abilities**: Str 14, Dex 15, Con 14, Int 10, Wis 15, Cha 4
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +7, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +7
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Innate Flexibility|Innate Flexibility]], [[rangoric-srd/feats/Stunning Fist|Stunning Fist]]

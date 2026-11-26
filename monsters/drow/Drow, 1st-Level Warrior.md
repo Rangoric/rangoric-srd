@@ -16,7 +16,7 @@ full-attack: "Rapier +2 melee (1d6/18–20); or hand crossbow +3 ranged (1d4/19�
 space-reach: "5 ft./5 ft."
 special-attacks: "Poison, spell-like abilities"
 special-qualities: "Darkvision 120 ft., poison use, immunity to sleep, spell resistance 7, light blindness"
-saves: "Fort +2, Ref +2, Will –1"
+defenses: "Fort 12, Ref 12, Will 9"
 abilities: "Str 11, Dex 15, Con 10, Int 10, Wis 9, Cha 10"
 skills: "Perception +2, Stealth +2"
 skill-ranks: "Perception 1, Stealth 0"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/races/racial-traits/Poison Use|poison use]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 7, [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]]
-- **Saves**: Fort +2, Ref +2, Will –1
+- **Defenses**: Fort 12, Ref 12, Will 9
 - **Abilities**: Str 11, Dex 15, Con 10, Int 10, Wis 9, Cha 10
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +2, [[rangoric-srd/skills/Stealth|Stealth]] +2
 - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -108,4 +108,4 @@ Drow speak Elven and Undercommon.
 
 **[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 1st): 1/day—_[[rangoric-srd/spells/Dancing Lights|dancing lights]], [[rangoric-srd/spells/Darkness|darkness]], [[rangoric-srd/spells/Faerie Fire|faerie fire]]_.
 
-**[[rangoric-srd/races/racial-traits/Poison Use|Poison Use]] (Ex)**: Drow are skilled in the use of poison and never risk accidentally poisoning themselves. Drow favor an insidious toxin that causes its victims to lapse into unconsciousness—this poison allows drow to capture slaves with great ease. [[rangoric-srd/rules/afflictions/Drow Poison|Drow Poison]]: Weapon—injury; _save_ Fort DC 13; _frequency_ 1/minute for 2 minutes; _initial effect_ unconsciousness for 1 minute; _secondary effect_ unconsciousness for 2d4 hours; _cure_ 1 save.
+**[[rangoric-srd/races/racial-traits/Poison Use|Poison Use]] (Ex)**: Drow are skilled in the use of poison and never risk accidentally poisoning themselves. Drow favor an insidious toxin that causes its victims to lapse into unconsciousness—this poison allows drow to capture slaves with great ease. [[rangoric-srd/rules/afflictions/Drow Poison|Drow Poison]]: Weapon—injury; _attack_ +3 vs Fortitude; _frequency_ 1/minute for 2 minutes; _initial effect_ unconsciousness for 1 minute; _secondary effect_ unconsciousness for 2d4 hours; _cure_ 1 miss.

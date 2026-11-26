@@ -16,7 +16,7 @@ full-attack: "+1 short sword +12/+7 melee (1d6+4/19–20); or +1 light slaver's 
 space-reach: "5 ft./5 ft."
 special-attacks: "Sneak attack +3d6, spell-like abilities, debilitating injury"
 special-qualities: "Darkvision 150 ft., evasion, improved uncanny dodge, danger sense +2, hide in plain sight, ironskinned, rogue talents (combat trick, fast stealth, weapon training, stand up), shadow jump (40 ft./day), slow and steady, stability, summon shadow, trapfinding +3, immunity to paralysis, phantasms and poison, light sensitivity, finesse training (short sword), rogue's edge (Stealth)"
-saves: "Fort +5, Ref +11, Will +7 (+2 vs. spells)"
+defenses: "Fort 15, Ref 21, Will 17 (+2 vs. spells)"
 abilities: "Str 13, Dex 17, Con 12, Int 12, Wis 16, Cha 4"
 skills: "Acrobatics +15, Athletics +9 (+5 jumping), Dungeoneering +10, Engineering +12, Escape Artist +15, Fieldcraft +4, Perception +16, Perform (dance) +2, Sense Motive +16, Sleight of Hand +15, Stealth +15"
 skill-ranks: "Acrobatics 9, Athletics 5, Dungeoneering 6, Engineering 6, Escape Artist 9, Fieldcraft 1, Perception 10, Perform (dance) 1, Sense Motive 10, Sleight of Hand 9, Stealth 9"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +3d6, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]], [[rangoric-srd/classes/Rogue#^rogue-debilitating-injury|debilitating injury]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 150 ft., [[rangoric-srd/classes/Rogue#^rogue-evasion|evasion]], [[rangoric-srd/classes/Rogue#^rogue-improved-uncanny-dodge|improved uncanny dodge]], [[rangoric-srd/classes/Rogue#^rogue-trap-sense|danger sense]] +2, [[rangoric-srd/prestige-classes/Shadowdancer|hide in plain sight]], [[rangoric-srd/races/racial-traits/Ironskinned|ironskinned]], [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]] ([[rangoric-srd/class-options/rogue-talents/Combat Trick (Rogue Talent)|combat trick]], [[rangoric-srd/class-options/rogue-talents/Fast Stealth (Rogue Talent)|fast stealth]], [[rangoric-srd/class-options/rogue-talents/Weapon Training (Rogue Talent)|weapon training]], [[rangoric-srd/class-options/rogue-talents/Stand Up (Rogue Talent)|stand up]]), [[rangoric-srd/prestige-classes/Shadowdancer|shadow jump]] (40 ft./day), slow and steady, stability, [[rangoric-srd/prestige-classes/Shadowdancer|summon shadow]], [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +3, immunity to [[rangoric-srd/monsters/abilities/Paralysis|paralysis]], phantasms and poison, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]], [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]] (short sword), [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]] ([[rangoric-srd/skills/Stealth|Stealth]])
-- **Saves**: Fort +5, Ref +11, Will +7 (+2 vs. spells)
+- **Defenses**: Fort 15, Ref 21, Will 17 (+2 vs. spells)
 - **Abilities**: Str 13, Dex 17, Con 12, Int 12, Wis 16, Cha 4
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +9 (+5 jumping), [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +10, [[rangoric-srd/skills/Engineering|Engineering]] +12, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Perception|Perception]] +16, Perform (dance) +2, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +15
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Exotic Weapon Proficiency|Exotic Weapon Proficiency]] (slaver's crossbow), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (short sword)
@@ -69,6 +69,6 @@ A duergar taskmaster speaks Common, Dwarven, and Undercommon.
 
 ### Combat
 
-**Shadowdancer Spell-Like Abilities** (CL 4th; concentration +1): 2/day—_[[rangoric-srd/prestige-classes/Shadowdancer|shadow illusion]]_ (DC 8); 1/day—_[[rangoric-srd/prestige-classes/Shadowdancer|shadow call]]_ (DC 11).
+**Shadowdancer Spell-Like Abilities** (CL 4th; concentration +1): 2/day—_[[rangoric-srd/prestige-classes/Shadowdancer|shadow illusion]]_ (−2 vs Will); 1/day—_[[rangoric-srd/prestige-classes/Shadowdancer|shadow call]]_ (+1 vs Will).
 
 **[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +7): 1/day—_[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only), _[[rangoric-srd/spells/Ironskin|ironskin]]_.

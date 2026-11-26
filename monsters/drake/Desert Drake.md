@@ -16,7 +16,7 @@ full-attack: "Bite +15 melee (2d6+9/19–20 plus 1d10 electricity) and tail slap
 space-reach: "10 ft./10 ft."
 special-attacks: "Dazzling emergence, push (tail slap, 10 ft.), sandstorm breath, savage bite"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, tremorsense 30 ft., speed surge, immunity to paralysis and sleep, resistance to electricity 20"
-saves: "Fort +11, Ref +8, Will +8"
+defenses: "Fort 21, Ref 18, Will 18"
 abilities: "Str 22, Dex 15, Con 21, Int 8, Wis 11, Cha 12"
 skills: "Acrobatics +12, Fieldcraft +12, Intimidation +13, Perception +12, Stealth +10"
 skill-ranks: "Acrobatics 9, Fieldcraft 9, Intimidation 9, Perception 9, Stealth 9"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Dazzling Emergence|Dazzling emergence]], [[rangoric-srd/monsters/abilities/Push|push]] (tail slap, 10 ft.), [[rangoric-srd/monsters/abilities/Sandstorm Breath|sandstorm breath]], [[rangoric-srd/monsters/abilities/Savage Bite (Drake)|savage bite]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 30 ft., [[rangoric-srd/monsters/abilities/Speed Surge|speed surge]], immunity to [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] and sleep, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 20
-- **Saves**: Fort +11, Ref +8, Will +8
+- **Defenses**: Fort 21, Ref 18, Will 18
 - **Abilities**: Str 22, Dex 15, Con 21, Int 8, Wis 11, Cha 12
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +10
 - **Feats**: [[rangoric-srd/feats/Dazzling Display|Dazzling Display]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
@@ -73,7 +73,7 @@ Desert drakes speak Draconic.
 
 **[[rangoric-srd/monsters/abilities/Dazzling Emergence|Dazzling Emergence]] (Ex)**: During a surprise round, a desert drake can use Dazzling Display as a standard action.
 
-**[[rangoric-srd/monsters/abilities/Sandstorm Breath|Sandstorm Breath]] (Su)**: As a standard action, a desert drake can spit a ball of electrically charged sand that bursts into a cloud. This attack has a range of 60 feet and deals 3d6 points of slashing damage plus 4d8 points of electricity damage in a 15-foot-radius spread (Reflex DC 19 for half). The cloud remains for 1d4 rounds, dealing no damage but otherwise acting as obscuring mist. Once a desert drake uses its breath, it cannot do so again for 1d6 rounds. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Sandstorm Breath|Sandstorm Breath]] (Su)**: As a standard action, a desert drake can spit a ball of electrically charged sand that bursts into a cloud. This attack has a range of 60 feet and deals 3d6 points of slashing damage plus 4d8 points of electricity damage in a 15-foot-radius spread (+9 vs Reflex; a miss halves). The cloud remains for 1d4 rounds, dealing no damage but otherwise acting as obscuring mist. Once a desert drake uses its breath, it cannot do so again for 1d6 rounds. The attack bonus is Constitution-based.
 
 **[[rangoric-srd/monsters/abilities/Savage Bite (Drake)|Savage Bite]] (Ex)**: A desert drake applies 1-1/2 times its Strength modifier to damage dealt with its bite attack, and it threatens a critical hit on a 19–20.
 

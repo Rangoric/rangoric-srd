@@ -15,7 +15,7 @@ full-attack: "Bite +1 melee (1d4 plus disease)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Disease"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +3, Ref +5, Will +1"
+defenses: "Fort 13, Ref 15, Will 11"
 abilities: "Str 10, Dex 17, Con 13, Int 2, Wis 13, Cha 4"
 skills: "Athletics +11, Perception +4, Stealth +11"
 skill-ranks: "Athletics 8, Perception 3, Stealth 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Disease|Disease]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +3, Ref +5, Will +1
+- **Defenses**: Fort 13, Ref 15, Will 11
 - **Abilities**: Str 10, Dex 17, Con 13, Int 2, Wis 13, Cha 4
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +11
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -71,4 +71,4 @@ Dire rats are omnivorous scavengers, but will attack to defend their nests and t
 
 Dire rat packs attack fearlessly, biting and chewing with their sharp incisors.
 
-**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Ex)**: [[rangoric-srd/rules/afflictions/Filth Fever|Filth Fever]]: Bite—injury; _save_ Fort DC 11; _onset_ 1d3 days; _frequency_ 1/day; _effect_ 1d3 Dex damage and 1d3 Con damage; _cure_ 2 consecutive saves. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Ex)**: [[rangoric-srd/rules/afflictions/Filth Fever|Filth Fever]]: Bite—injury; _attack_ +1 vs Fortitude; _onset_ 1d3 days; _frequency_ 1/day; _effect_ 1d3 Dex damage and 1d3 Con damage; _cure_ 2 consecutive misses. The attack bonus is Constitution-based.

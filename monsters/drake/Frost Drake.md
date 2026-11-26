@@ -16,7 +16,7 @@ full-attack: "Bite +13 melee (2d6+6 plus 1d6 cold) and tail slap +8 melee (1d8+3
 space-reach: "10 ft./10 ft."
 special-attacks: "Freezing mist breath"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, snow vision, speed surge, icewalking, immunity to cold, paralysis and sleep, vulnerability to fire"
-saves: "Fort +10, Ref +7, Will +5"
+defenses: "Fort 20, Ref 17, Will 15"
 abilities: "Str 22, Dex 13, Con 18, Int 8, Wis 9, Cha 13"
 skills: "Acrobatics +10, Athletics +17, Intimidation +12, Perception +10, Stealth +8"
 skill-ranks: "Acrobatics 8, Athletics 8, Intimidation 8, Perception 8, Stealth 8"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Freezing Mist Breath|Freezing mist breath]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Snow Vision|snow vision]], [[rangoric-srd/monsters/abilities/Speed Surge|speed surge]], [[rangoric-srd/monsters/abilities/Icewalking|icewalking]], immunity to cold, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] and sleep, vulnerability to fire
-- **Saves**: Fort +10, Ref +7, Will +5
+- **Defenses**: Fort 20, Ref 17, Will 15
 - **Abilities**: Str 22, Dex 13, Con 18, Int 8, Wis 9, Cha 13
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +17, [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +8
 - **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
@@ -71,7 +71,7 @@ Frost drakes speak Draconic.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Freezing Mist Breath|Freezing Mist Breath]] (Su)**: A frost drake can, as a standard action, spit a ball of liquid that bursts into a cloud of freezing mist. This attack has a range of 60 feet and deals 7d6 points of cold damage (DC 18 Reflex half) to all creatures in a 20-foot-radius spread. The mist cakes all surfaces in the area with a sheet of slippery ice that turns the area into difficult terrain for 2d4 rounds, after which the ice cracks or melts enough to revert to the normal terrain features in the area. Once a frost drake has used its freezing mist breath, it cannot do so again for 1d6 rounds. The Reflex save is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Freezing Mist Breath|Freezing Mist Breath]] (Su)**: A frost drake can, as a standard action, spit a ball of liquid that bursts into a cloud of freezing mist. This attack has a range of 60 feet and deals 7d6 points of cold damage (+8 vs Reflex; a miss halves) to all creatures in a 20-foot-radius spread. The mist cakes all surfaces in the area with a sheet of slippery ice that turns the area into difficult terrain for 2d4 rounds, after which the ice cracks or melts enough to revert to the normal terrain features in the area. Once a frost drake has used its freezing mist breath, it cannot do so again for 1d6 rounds. The attack bonus is Constitution-based.
 
 **[[rangoric-srd/monsters/abilities/Icewalking|Icewalking]] (Ex)**: This ability works like spider climb, but the surfaces the drake climbs must be icy. It can move across icy surfaces without penalty and does not need to make Acrobatics checks to run or charge on ice.
 

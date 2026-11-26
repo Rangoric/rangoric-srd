@@ -16,7 +16,7 @@ full-attack: "+1 adamantine guisarme +21/+16/+11 melee (2d4+9/×3); or masterwor
 space-reach: "5 ft./5 ft. (10 ft. with guisarme)"
 special-attacks: "+1 on attack rolls against goblinoid and orc humanoids, weapon training (polearms +2, thrown +1)"
 special-qualities: "Bravery +3, defensive training (+4 dodge bonus to AC vs. giants), armor training 3"
-saves: "Fort +14, Ref +8, Will +7 (+2 vs. poison, spells, and spell-like abilities; +3 vs. fear)"
+defenses: "Fort 24, Ref 18, Will 17 (+2 vs. poison, spells, and spell-like abilities; +3 vs. fear)"
 abilities: "Str 19, Dex 17, Con 20, Int 13, Wis 10, Cha 8"
 skills: "Acrobatics +2, Athletics +4 (+9 jumping), Dungeoneering +15, Fieldcraft +11, Intimidation +14, Investigation +1 (+3 to notice unusual stonework), Perception +12"
 skill-ranks: "Acrobatics 0, Athletics 0, Dungeoneering 11, Fieldcraft 8, Intimidation 12, Perception 9"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft. (10 ft. with guisarme)
 - **Special Attacks**: [[rangoric-srd/races/Dwarf|+1 on attack rolls against goblinoid and orc humanoids]], [[rangoric-srd/classes/Fighter#^fighter-weapon-training|weapon training]] (polearms +2, thrown +1)
 - **Special Qualities**: [[rangoric-srd/classes/Fighter#^fighter-bravery|Bravery]] +3, [[rangoric-srd/races/Dwarf#^defensive-training|defensive training]] (+4 dodge bonus to AC vs. giants), [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 3
-- **Saves**: Fort +14, Ref +8, Will +7 (+2 vs. poison, spells, and spell-like abilities; +3 vs. fear)
+- **Defenses**: Fort 24, Ref 18, Will 17 (+2 vs. poison, spells, and spell-like abilities; +3 vs. fear)
 - **Abilities**: Str 19, Dex 17, Con 20, Int 13, Wis 10, Cha 8
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +2, [[rangoric-srd/skills/Athletics|Athletics]] +4 (+9 jumping), [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Investigation|Investigation]] +1 (+3 to notice unusual stonework), [[rangoric-srd/skills/Perception|Perception]] +12
 - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Greater Sunder|Greater Sunder]], [[rangoric-srd/feats/Greater Weapon Focus|Greater Weapon Focus]] (guisarme), [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (guisarme), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (guisarme), [[rangoric-srd/feats/Whirlwind Attack|Whirlwind Attack]]

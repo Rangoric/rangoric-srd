@@ -16,7 +16,7 @@ full-attack: "Warhammer +3 melee (1d8+2/×3); or masterwork light crossbow +4 ra
 space-reach: "5 ft./5 ft."
 special-attacks: "Favored enemy (dwarves +2), spell-like abilities"
 special-qualities: "Darkvision 120 ft., ironskinned, slow and steady, stability, track +1, wild empathy -2, immunity to paralysis, phantasms and poison, light sensitivity"
-saves: "Fort +4, Ref +4, Will +2 (+2 vs. spells)"
+defenses: "Fort 14, Ref 14, Will 12 (+2 vs. spells)"
 abilities: "Str 14, Dex 15, Con 14, Int 10, Wis 15, Cha 4"
 skills: "Animal Handling +1, Athletics +5, Dungeoneering +4, Fieldcraft +6, Perception +6, Stealth +5"
 skill-ranks: "Animal Handling 1, Athletics 3, Dungeoneering 1, Fieldcraft 1, Perception 1, Stealth 3"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|Favored enemy]] (dwarves +2), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/races/racial-traits/Ironskinned|ironskinned]], slow and steady, stability, [[rangoric-srd/classes/Ranger#^ranger-track|track]] +1, [[rangoric-srd/classes/Ranger#^ranger-wild-empathy|wild empathy]] -2, immunity to [[rangoric-srd/monsters/abilities/Paralysis|paralysis]], phantasms and poison, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
-- **Saves**: Fort +4, Ref +4, Will +2 (+2 vs. spells)
+- **Defenses**: Fort 14, Ref 14, Will 12 (+2 vs. spells)
 - **Abilities**: Str 14, Dex 15, Con 14, Int 10, Wis 15, Cha 4
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +1, [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +4, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +5
 - **Feats**: [[rangoric-srd/feats/Rapid Reload|Rapid Reload]] (light crossbow), [[rangoric-srd/feats/Track|Track]]
