@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “prescience”, on the Special Qualities line.
 
-Limited precognitive abilities grant a brain ooze a +2 insight bonus on initiative checks, on Reflex saves, and to its Armor Class. Brain oozes are never surprised or flat-footed. The [[rangoric-srd/monsters/ooze/Brain Ooze|brain ooze]] has it.
+Limited precognitive abilities grant a brain ooze a +2 insight bonus on initiative checks, to Reflex Defense, and to its Armor Class. Brain oozes are never surprised or flat-footed. The [[rangoric-srd/monsters/ooze/Brain Ooze|brain ooze]] has it.

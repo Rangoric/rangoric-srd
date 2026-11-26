@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “light pulse”, on the Special Attacks line.
 
-As a standard action, a moonflower can release a pulse of bright light. All creatures within a 50-foot burst that can see the moonflower must make a DC 20 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] for 1d4 rounds. Moonflowers are immune to this ability. The save DC is Constitution-based. The [[rangoric-srd/monsters/Moonflower|moonflower]] has it.
+As a standard action, a moonflower can release a pulse of bright light. All creatures within a 50-foot burst that can see the moonflower are attacked at +10 vs Fortitude, and on a hit are [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] for 1d4 rounds. Moonflowers are immune to this ability. The attack bonus is Constitution-based. The [[rangoric-srd/monsters/Moonflower|moonflower]] has it.

@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “mental drain”, on the Special Attacks line.
 
-When the creature attacks with a claw, it can choose, as a swift action, to deal 1d4 points of Intelligence damage on that attack. A DC 22 Will save negates this ability damage. The save DC is Charisma-based. The [[rangoric-srd/monsters/Baku|baku]] has it.
+When the creature attacks with a claw, it can choose, as a swift action, to deal 1d4 points of Intelligence damage on that attack. The claw attacks at +12 vs Will, and a miss negates this ability damage. The attack bonus is Charisma-based. The [[rangoric-srd/monsters/Baku|baku]] has it.

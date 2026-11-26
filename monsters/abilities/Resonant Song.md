@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “resonant song”, on the Special Attacks line.
 
-As a standard action every 1d4 rounds, the bakekujira can release a damaging resonance, dealing 12d8 points of sonic damage to creatures in a 60-foot cone (Fortitude DC 28 for half). The save DC is Charisma-based. The [[rangoric-srd/monsters/Bakekujira|bakekujira]] has it.
+As a standard action every 1d4 rounds, the bakekujira can release a damaging resonance, dealing 12d8 points of sonic damage to creatures in a 60-foot cone (+18 vs Fortitude; a miss halves). The attack bonus is Charisma-based. The [[rangoric-srd/monsters/Bakekujira|bakekujira]] has it.

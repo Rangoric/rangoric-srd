@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “quill barrage”, on the Special Attacks line.
 
-Three times per day, a peluda can fire dozens of spearlike barbs in all directions. All creatures within 15 feet take 6d6 points of piercing damage (Reflex DC 20 half) and are subject to its poison quills. The save DC is Constitution-based. The [[rangoric-srd/monsters/Peluda|peluda]] has it.
+Three times per day, a peluda can fire dozens of spearlike barbs in all directions. All creatures within 15 feet take 6d6 points of piercing damage (+10 vs Reflex; a miss halves) and are subject to its poison quills. The attack bonus is Constitution-based. The [[rangoric-srd/monsters/Peluda|peluda]] has it.

@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “screech”, on the Special Attacks line.
 
-Once per day as a standard action, the creature can produce an ear-splitting screech that stuns non-mobats in a 20-foot-radius burst. All creatures within the area must make a DC 15 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for 1d3 rounds. Other mobats and urdefhans are immune to this effect. This is a sonic mind-affecting effect. The save DC is Constitution-based. The [[rangoric-srd/monsters/Mobat|mobat]] has it.
+Once per day as a standard action, the creature can produce an ear-splitting screech that stuns non-mobats in a 20-foot-radius burst. All creatures within the area is attacked at +5 vs Fortitude, and on a hit is [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for 1d3 rounds. Other mobats and urdefhans are immune to this effect. This is a sonic mind-affecting effect. The attack bonus is Constitution-based. The [[rangoric-srd/monsters/Mobat|mobat]] has it.
