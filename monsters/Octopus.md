@@ -16,7 +16,7 @@ full-attack: "Bite +5 melee (1d3+1 plus poison) and tentacles +3 melee (grab)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Poison"
 special-qualities: "Low-light vision, ink cloud"
-saves: "Fort +5, Ref +6, Will +1"
+defenses: "Fort 15, Ref 16, Will 11"
 abilities: "Str 12, Dex 17, Con 14, Int 2, Wis 13, Cha 3"
 skills: "Athletics +9, Escape Artist +13, Stealth +20"
 skill-ranks: "Athletics 5, Escape Artist 0, Stealth 2"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], ink cloud
-- **Saves**: Fort +5, Ref +6, Will +1
+- **Defenses**: Fort 15, Ref 16, Will 11
 - **Abilities**: Str 12, Dex 17, Con 14, Int 2, Wis 13, Cha 3
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +20
 - **Feats**: [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -73,4 +73,4 @@ These bottom-dwelling sea creatures are dangerous only to their prey. If disturb
 
 **Jet (Ex)**: An octopus can jet backward once per round as a full-round action, at a speed of 200 feet. It must move in a straight line while jetting, and does not provoke attacks of opportunity when it does so.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Octopus Venom|Octopus Venom]]: Bite—injury; _save_ Fort DC 13; _frequency_ 1/round for 6 rounds; _effect_ 1 Str; _cure_ 1 save.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Octopus Venom|Octopus Venom]]: Bite—injury; _attack_ +3 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1 Str; _cure_ 1 miss.

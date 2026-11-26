@@ -15,7 +15,7 @@ full-attack: "2 slams +6 melee (1d8+4 plus grab)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Crushing push, push (slam, 5 ft.)"
 special-qualities: "Darkvision 60 ft., low-light vision, fast healing 1, fleshy link, damage reduction 5/slashing, construct traits, resistance to acid 5, cold 5 and fire 5"
-saves: "Fort +1, Ref –3, Will +1"
+defenses: "Fort 11, Ref 7, Will 11"
 abilities: "Str 18, Dex 3, Con —, Int —, Wis 11, Cha 1"
 skills: "—"
 skill-ranks: ""
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Crushing Push|Crushing push]], [[rangoric-srd/monsters/abilities/Push|push]] (slam, 5 ft.)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 1, [[rangoric-srd/monsters/abilities/Fleshy Link|fleshy link]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/slashing, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 5, cold 5 and fire 5
-- **Saves**: Fort +1, Ref –3, Will +1
+- **Defenses**: Fort 11, Ref 7, Will 11
 - **Abilities**: Str 18, Dex 3, Con —, Int —, Wis 11, Cha 1
 - **Skills**: —
 - **Feats**: [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]]

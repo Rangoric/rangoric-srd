@@ -16,7 +16,7 @@ full-attack: "Slam +10 melee (1d8+6 plus adhesive)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Constrict (slam, 1d8+6)"
 special-qualities: "Darkvision 60 ft., mimic object, immunity to acid"
-saves: "Fort +5, Ref +5, Will +6"
+defenses: "Fort 15, Ref 15, Will 16"
 abilities: "Str 19, Dex 12, Con 17, Int 10, Wis 13, Cha 10"
 skills: "Athletics +14, Dungeoneering +10, Imitation +10 (+30 when mimicking objects), Perception +14"
 skill-ranks: "Athletics 7, Dungeoneering 7, Imitation 7, Perception 10"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (slam, 1d8+6)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., mimic object, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid
-- **Saves**: Fort +5, Ref +5, Will +6
+- **Defenses**: Fort 15, Ref 15, Will 16
 - **Abilities**: Str 19, Dex 12, Con 17, Int 10, Wis 13, Cha 10
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +10, [[rangoric-srd/skills/Imitation|Imitation]] +10 (+30 when mimicking objects), [[rangoric-srd/skills/Perception|Perception]] +14
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam)
@@ -75,6 +75,6 @@ Mimics speak Common.
 
 A mimic often surprises an unsuspecting adventurer, lashing out with a heavy pseudopod. The creature does not necessarily fight to the death if it can succeed in extorting treasure or food from a party.
 
-**Adhesive (Ex)**: A mimic exudes a thick slime that acts as a powerful adhesive, holding fast any creatures or items that touch it. An adhesive-covered mimic automatically grapples any creature it hits with its slam attack. Opponents so grappled cannot get free while the mimic is alive without removing the adhesive first. A weapon that strikes an adhesive-coated mimic is stuck fast unless the wielder succeeds on a DC 17 Reflex save. A successful DC 17 Strength check is needed to pry off a stuck weapon. Strong alcohol or universal solvent dissolves the adhesive, but the mimic can still grapple normally. A mimic can dissolve its adhesive at will, and the substance breaks down 5 rounds after the creature dies. The save DC is Strength-based.
+**Adhesive (Ex)**: A mimic exudes a thick slime that acts as a powerful adhesive, holding fast any creatures or items that touch it. An adhesive-covered mimic automatically grapples any creature it hits with its slam attack. Opponents so grappled cannot get free while the mimic is alive without removing the adhesive first. A weapon that strikes an adhesive-coated mimic is stuck fast if the adhesive hits the wielder at +7 vs Reflex. A successful DC 17 Strength check is needed to pry off a stuck weapon. Strong alcohol or universal solvent dissolves the adhesive, but the mimic can still grapple normally. A mimic can dissolve its adhesive at will, and the substance breaks down 5 rounds after the creature dies. The attack bonus is Strength-based.
 
 **Mimic Object (Ex)**: A mimic can assume the general shape of any Medium object, such as a massive chest, a stout bed, or a door. The creature cannot substantially alter its size, though. A mimic's body is hard and has a rough texture, no matter what appearance it might present. A mimic gains a +20 racial bonus on Imitation checks when imitating an object in this manner. Imitation is always a class skill for a mimic.

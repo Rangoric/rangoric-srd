@@ -15,7 +15,7 @@ full-attack: "Bite +32 melee (6d6+16/19–20 plus grab) and 4 tentacles +27 mele
 space-reach: "30 ft./30 ft. (60 ft. with tentacle)"
 special-attacks: "Spore cough, constrict (3d8+16), swallow whole (20d8 acid, AC 28, 41 hp)"
 special-qualities: "Blindsight 240 ft., low-light vision, fast healing 10, grasping tendrils, damage reduction 10/epic, plant traits, resistance to acid 30"
-saves: "Fort +26, Ref +11, Will +19"
+defenses: "Fort 36, Ref 21, Will 29"
 abilities: "Str 42, Dex 9, Con 29, Int 18, Wis 28, Cha 29"
 skills: "Acrobatics +33, Dungeoneering +35, Nature +35, Perception +43, Sense Motive +40, Society +35"
 skill-ranks: "Acrobatics 39, Dungeoneering 28, Nature 28, Perception 31, Sense Motive 28, Society 28"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 30 ft./30 ft. (60 ft. with tentacle)
 - **Special Attacks**: Spore cough, [[rangoric-srd/monsters/abilities/Constrict|constrict]] (3d8+16), [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (20d8 acid, AC 28, 41 hp)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 240 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 10, grasping tendrils, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/epic, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 30
-- **Saves**: Fort +26, Ref +11, Will +19
+- **Defenses**: Fort 36, Ref 21, Will 29
 - **Abilities**: Str 42, Dex 9, Con 29, Int 18, Wis 28, Cha 29
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +33, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +35, [[rangoric-srd/skills/Nature|Nature]] +35, [[rangoric-srd/skills/Perception|Perception]] +43, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +40, [[rangoric-srd/skills/Society|Society]] +35
 - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Greater Bull Rush|Greater Bull Rush]], [[rangoric-srd/feats/Greater Vital Strike|Greater Vital Strike]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Critical|Improved Critical]] (tentacles), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Lightning Reflexes|Improved Lightning Reflexes]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Staggering Critical|Staggering Critical]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (tentacles)
@@ -72,4 +72,4 @@ Mu spores speak Aklo, Common, Terran, and Undercommon.
 
 **Grasping Tendrils (Ex)**: Sticky, arm-length tendrils cover a mu spore. A mu spore can use these tendrils to attempt a grab as an immediate action when an adjacent creature hits it with a melee attack. As it is only using the tendrils (instead of conducting the grapple normally), it takes a –20 penalty to its CMB to make and maintain the grapple (+31 CMB with tendrils). The mu spore does not gain the grappled condition while grappling a creature with its tendrils.
 
-**Spore Cough (Su)**: Once every 1d4 rounds as a standard action, a mu spore can release a cloud of burrowing spores in a 100-foot cone. The burrowing spores deal 20d8 points of damage to all creatures and wooden structures in the area, or half damage to any creatures that make a DC 34 Reflex save. Plants and plant creatures are immune to this damage. The save DC is Constitution-based.
+**Spore Cough (Su)**: Once every 1d4 rounds as a standard action, a mu spore can release a cloud of burrowing spores in a 100-foot cone. The burrowing spores attack the creatures in the area at +24 vs Reflex, and deal 20d8 points of damage to all creatures and wooden structures in the area, or half damage to any creatures they miss. Plants and plant creatures are immune to this damage. The attack bonus is Constitution-based.

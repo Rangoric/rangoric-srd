@@ -16,7 +16,7 @@ full-attack: "2 claws +12 melee (1d8+4 plus 1d6 cold); or burning cold +14 range
 space-reach: "5 ft./5 ft."
 special-attacks: "Burning cold, curse of darkness, spell-like abilities"
 special-qualities: "Darkvision 60 ft., see in darkness, fast healing 2, telepathy 100 ft., immunity to cold, light sensitivity"
-saves: "Fort +10, Ref +8, Will +8"
+defenses: "Fort 20, Ref 18, Will 18"
 abilities: "Str 18, Dex 22, Con 19, Int 11, Wis 15, Cha 16"
 skills: "Acrobatics +18, Deception +12, Mysticism +7, Perception +13, Persuasion +11, Sense Motive +13, Stealth +17, Theology +11"
 skill-ranks: "Acrobatics 9, Deception 6, Mysticism 4, Perception 8, Persuasion 5, Sense Motive 8, Stealth 8, Theology 8"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Burning Cold|Burning cold]], [[rangoric-srd/monsters/abilities/Curse of Darkness|curse of darkness]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 2, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
-- **Saves**: Fort +10, Ref +8, Will +8
+- **Defenses**: Fort 20, Ref 18, Will 18
 - **Abilities**: Str 18, Dex 22, Con 19, Int 11, Wis 15, Cha 16
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +18, [[rangoric-srd/skills/Deception|Deception]] +12, [[rangoric-srd/skills/Mysticism|Mysticism]] +7, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Persuasion|Persuasion]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +17, [[rangoric-srd/skills/Theology|Theology]] +11
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]]
@@ -78,8 +78,8 @@ Owbs understand Dark Folk but can't speak.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 8th; concentration +11): Constant—_[[rangoric-srd/spells/Blur|blur]]_; At will—_[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]_, _[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_, _[[rangoric-srd/spells/Dust of Twilight|dust of twilight]]_ (DC 15); 5/day—_[[rangoric-srd/spells/Shadow Step|shadow step]]_; 1/day—_[[rangoric-srd/spells/Plane Shift|plane shift]]_ (self only, to or from the Shadow Plane only).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 8th; concentration +11): Constant—_[[rangoric-srd/spells/Blur|blur]]_; At will—_[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]_, _[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_, _[[rangoric-srd/spells/Dust of Twilight|dust of twilight]]_ (+5 vs Fortitude); 5/day—_[[rangoric-srd/spells/Shadow Step|shadow step]]_; 1/day—_[[rangoric-srd/spells/Plane Shift|plane shift]]_ (self only, to or from the Shadow Plane only).
 
 **[[rangoric-srd/monsters/abilities/Burning Cold|Burning Cold]] (Su)**: As a standard action, an owb can conjure a ball of flickering flames and hurl it at an opponent. The flames can be thrown as a ranged touch attack at a range of 120 feet with no range increment, and deal 3d6 points of cold damage.
 
-**[[rangoric-srd/monsters/abilities/Curse of Darkness|Curse of Darkness]] (Su)**: With a touch, an owb can make bright light unbearable to the victim. Any creature touched must succeed at a DC 17 Fortitude save or gain the light blindness weakness. This ability also robs the victim of its coloration, leaving the creature and its equipment in washed-out shades of gray. This effect can be removed with break enchantment or remove curse, unless the target has the dark folk subtype, in which case the effect can only be removed by wish or similar magic. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Curse of Darkness|Curse of Darkness]] (Su)**: With a touch, an owb can make bright light unbearable to the victim. Any creature touched is attacked at +7 vs Fortitude, and on a hit gains the light blindness weakness. This ability also robs the victim of its coloration, leaving the creature and its equipment in washed-out shades of gray. This effect can be removed with break enchantment or remove curse, unless the target has the dark folk subtype, in which case the effect can only be removed by wish or similar magic. The attack bonus is Charisma-based.

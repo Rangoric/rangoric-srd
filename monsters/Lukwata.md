@@ -16,7 +16,7 @@ full-attack: "Bite +22 melee (4d10+15/19–20 plus grab)"
 space-reach: "15 ft./15 ft."
 special-attacks: "Capsize (DC 25), digest magic, dispelling bite"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, damage reduction 10/nonmagical weapons, spell resistance 27, eldritch encrustation"
-saves: "Fort +14, Ref +13, Will +8"
+defenses: "Fort 24, Ref 23, Will 18"
 abilities: "Str 30, Dex 19, Con 20, Int 2, Wis 15, Cha 11"
 skills: "Athletics +30, Perception +9, Stealth +0"
 skill-ranks: "Athletics 17, Perception 4, Stealth 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./15 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Capsize|Capsize]] (DC 25), [[rangoric-srd/monsters/abilities/Digest Magic|digest magic]], [[rangoric-srd/monsters/abilities/Dispelling Bite|dispelling bite]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/nonmagical weapons, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 27, [[rangoric-srd/monsters/abilities/Eldritch Encrustation|eldritch encrustation]]
-- **Saves**: Fort +14, Ref +13, Will +8
+- **Defenses**: Fort 24, Ref 23, Will 18
 - **Abilities**: Str 30, Dex 19, Con 20, Int 2, Wis 15, Cha 11
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +30, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +0
 - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Bleeding Critical|Bleeding Critical]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]]
@@ -72,7 +72,7 @@ A lukwata is 20 feet long and weighs 4,000 pounds.
 
 **[[rangoric-srd/monsters/abilities/Damage Reduction|Damage Reduction]] (Ex)**: A lukwata's damage reduction is penetrated only by nonmagical weapons (temporary magical weapons, such as those created by the spell magic weapon and similar effects, count as magical weapons).
 
-**[[rangoric-srd/monsters/abilities/Digest Magic|Digest Magic]] (Su)**: A magic item swallowed by a lukwata must make a DC 22 Fortitude save after an hour or become permanently nonmagical. Artifacts are immune to this effect. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Digest Magic|Digest Magic]] (Su)**: After an hour, the lukwata attacks a magic item it swallowed at +12 vs Fortitude, and on a hit the item becomes permanently nonmagical. Artifacts are immune to this effect. The attack bonus is Constitution-based.
 
 **[[rangoric-srd/monsters/abilities/Dispelling Bite|Dispelling Bite]] (Su)**: When a lukwata scores a critical hit with its bite, the victim is affected as if targeted by a greater dispel magic spell. The caster level for this effect is equal to the lukwata's Hit Dice (CL 14th for most lukwatas).
 

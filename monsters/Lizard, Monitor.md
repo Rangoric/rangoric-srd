@@ -15,7 +15,7 @@ full-attack: "Bite +5 melee (1d8+4 plus grab and poison)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Poison"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +8, Ref +5, Will +2"
+defenses: "Fort 18, Ref 15, Will 12"
 abilities: "Str 17, Dex 15, Con 17, Int 2, Wis 12, Cha 6"
 skills: "Athletics +11, Perception +8, Stealth +10 (+14 in undergrowth)"
 skill-ranks: "Athletics 5, Perception 4, Stealth 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +8, Ref +5, Will +2
+- **Defenses**: Fort 18, Ref 15, Will 12
 - **Abilities**: Str 17, Dex 15, Con 17, Int 2, Wis 12, Cha 6
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +10 (+14 in undergrowth)
 - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -68,4 +68,4 @@ Monitor lizards are large enough to pose a threat to humans, and in some societi
 
 Monitor lizards can be aggressive, using their powerful jaws to tear at prey or enemies.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Monitor Lizard Venom|Monitor Lizard Venom]]: Bite—injury; _save_ Fort DC 14; _onset_ 1 minute; _frequency_ 1/hour for 6 hours; _effect_ 1d2 Dex damage; _cure_ 1 save. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Monitor Lizard Venom|Monitor Lizard Venom]]: Bite—injury; _attack_ +4 vs Fortitude; _onset_ 1 minute; _frequency_ 1/hour for 6 hours; _effect_ 1d2 Dex damage; _cure_ 1 miss. The attack bonus is Constitution-based.

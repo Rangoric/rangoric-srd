@@ -13,9 +13,9 @@ cmd: "35 (39 vs. trip)"
 attack: "Bite +17 melee (2d6+6 plus energy drain) or bite +17 melee (1d4+6 plus poison) or claw +17 melee (1d6+6)"
 full-attack: "Bite +17 melee (2d6+6 plus energy drain) and bite +17 melee (1d4+6 plus poison) and 2 claws +17 melee (1d6+6)"
 space-reach: "10 ft./10 ft."
-special-attacks: "Energy drain (2 levels, DC 16), pounce, poison, spell-like abilities"
+special-attacks: "Energy drain (2 levels, +6 vs Fortitude), pounce, poison, spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, cloud form"
-saves: "Fort +13, Ref +13, Will +7"
+defenses: "Fort 23, Ref 23, Will 17"
 abilities: "Str 22, Dex 21, Con 20, Int 7, Wis 17, Cha 10"
 skills: "Athletics +13, Perception +10, Stealth +11"
 skill-ranks: "Athletics 4, Perception 4, Stealth 7"
@@ -47,9 +47,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +17 melee (2d6+6 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]) or bite +17 melee (1d4+6 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or claw +17 melee (1d6+6)
 - **Full Attack**: Bite +17 melee (2d6+6 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]) and bite +17 melee (1d4+6 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) and 2 claws +17 melee (1d6+6)
 - **Space/Reach**: 10 ft./10 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Energy Drain|Energy drain]] (2 levels, DC 16), [[rangoric-srd/monsters/abilities/Pounce|pounce]], [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Energy Drain|Energy drain]] (2 levels, +6 vs Fortitude), [[rangoric-srd/monsters/abilities/Pounce|pounce]], [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Cloud Form|cloud form]]
-- **Saves**: Fort +13, Ref +13, Will +7
+- **Defenses**: Fort 23, Ref 23, Will 17
 - **Abilities**: Str 22, Dex 21, Con 20, Int 7, Wis 17, Cha 10
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +11
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
@@ -75,8 +75,8 @@ Nues speak Common.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +12): 3/day—_[[rangoric-srd/spells/Contagion|contagion]]_ (DC 14), _[[rangoric-srd/spells/Hold Person|hold person]]_ (DC 13); 1/day—_[[rangoric-srd/spells/Nightmare (Spell)|nightmare]]_ (DC 15), _[[rangoric-srd/spells/Shout|shout]]_ (DC 14), _[[rangoric-srd/spells/Waves of Fatigue|waves of fatigue]]_.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +12): 3/day—_[[rangoric-srd/spells/Contagion|contagion]]_ (+4 vs Fortitude), _[[rangoric-srd/spells/Hold Person|hold person]]_ (+3 vs Will); 1/day—_[[rangoric-srd/spells/Nightmare (Spell)|nightmare]]_ (+5 vs Will), _[[rangoric-srd/spells/Shout|shout]]_ (+4), _[[rangoric-srd/spells/Waves of Fatigue|waves of fatigue]]_.
 
 **[[rangoric-srd/monsters/abilities/Cloud Form|Cloud Form]] (Su)**: A nue can change into the form of a 10-foot black cloud or back to its normal form as a standard action. A nue in cloud form is otherwise treated as if under the effects of gaseous form, except that it obscures vision like fog cloud.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Nue Venom|Nue Venom]]: Bite—injury; _save_ Fort DC 21; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Str damage; _cure_ 2 consecutive saves. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Nue Venom|Nue Venom]]: Bite—injury; _attack_ +11 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Str damage; _cure_ 2 consecutive misses. The attack bonus is Constitution-based.

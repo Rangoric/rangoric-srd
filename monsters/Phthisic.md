@@ -17,7 +17,7 @@ full-attack: "2 claws +11 melee (1d6+6) and bite +6 melee (1d6+3 plus mind feed)
 space-reach: "10 ft./10 ft."
 special-attacks: "Mind feed, psi-like abilities"
 special-qualities: "Damage reduction 10/magic, darkvision 60 ft., regeneration 5, resistance to cold 10, scent"
-saves: "Fort +9, Ref +6, Will +8"
+defenses: "Fort 19, Ref 16, Will 18"
 abilities: "Str 23, Dex 12, Con 21, Int 10, Wis 16, Cha 16"
 skills: "Perception +15, Stealth +6"
 skill-ranks: "Perception 6, Stealth 6"
@@ -50,7 +50,7 @@ Full **Attack:** 2 claws +11 melee (1d6+6) and bite +6 melee (1d6+3 plus mind fe
 **Space/Reach:** 10 ft./10 ft.     
 **Special Attacks:** Mind feed, psi-like abilities     
 **Special Qualities:** [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 10/magic, darkvision 60 ft., [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5, [[rangoric-srd/monsters/abilities/Resistance|resistance to cold]] 10, [[rangoric-srd/monsters/abilities/Scent|scent]]     
-**Saves:** Fort +9, Ref +6, Will +8     
+**Defenses:** Fort 19, Ref 16, Will 18     
 **Abilities:** Str 23, Dex 12, Con 21, Int 10, Wis 16, Cha 16     
 **Skills:** [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +6     
 **Feats:** [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)     
@@ -70,7 +70,7 @@ A phthisic speaks the primary language of the mind that birthed it, usually Comm
 
 Mind Feed (Ex): A phthisic that hits with its bite attack deals 1d4 points of Intelligence [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]]. If this effect reduces the opponent’s Intelligence score to 0, the ability damage becomes [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|ability drain]].
 
-Psi-Like **Abilities:** 3/day - [[rangoric-srd/powers/Brain Lock|brain lock]] (affects animals, fey, Giants, Humanoids, Magical Beasts, and monstrous Humanoids, DC 15\*), [[rangoric-srd/powers/Dimension Slide|dimension slide]], [[rangoric-srd/powers/Ego Whip|ego whip]] (1d4, DC 15\*), [[rangoric-srd/powers/Mental Barrier|mental barrier]], [[rangoric-srd/powers/Mind Thrust|mind thrust]] (ML 4th, 4d10, DC 15\*), [[rangoric-srd/powers/Skate|skate]]; 1/day - [[rangoric-srd/powers/Body Adjustment|body adjustment]] (heal 1d12\*), [[rangoric-srd/powers/Catapsi|catapsi]] (DC 18). Manifester level 6th. The save DCs are Charisma-based.
+Psi-Like **Abilities:** 3/day - [[rangoric-srd/powers/Brain Lock|brain lock]] (affects animals, fey, Giants, Humanoids, Magical Beasts, and monstrous Humanoids, +5 vs Will\*), [[rangoric-srd/powers/Dimension Slide|dimension slide]], [[rangoric-srd/powers/Ego Whip|ego whip]] (1d4, +5 vs Will\*), [[rangoric-srd/powers/Mental Barrier|mental barrier]], [[rangoric-srd/powers/Mind Thrust|mind thrust]] (ML 4th, 4d10, +5 vs Will\*), [[rangoric-srd/powers/Skate|skate]]; 1/day - [[rangoric-srd/powers/Body Adjustment|body adjustment]] (heal 1d12\*), [[rangoric-srd/powers/Catapsi|catapsi]] (+8 vs Will). Manifester level 6th. The attack bonuses are Charisma-based.
 
 \*Includes augmentation for the phthisic’s manifester level.
 

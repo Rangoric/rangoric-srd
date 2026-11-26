@@ -15,7 +15,7 @@ full-attack: "2 claws +9 melee (2d6+5)"
 space-reach: "15 ft./10 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision, animal telepathy 30 ft, insightful senses, piercing stare"
-saves: "Fort +9, Ref +7, Will +5"
+defenses: "Fort 19, Ref 17, Will 15"
 abilities: "Str 20, Dex 15, Con 18, Int 14, Wis 17, Cha —"
 skills: "Acrobatics +11, Nature +11, Perception +18, Sense Motive +13, Society +11, Stealth +9"
 skill-ranks: "Acrobatics 6, Nature 6, Perception 3, Sense Motive 5, Society 6, Stealth 4"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./10 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], animal [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 30 ft, insightful senses, piercing stare
-- **Saves**: Fort +9, Ref +7, Will +5
+- **Defenses**: Fort 19, Ref 17, Will 15
 - **Abilities**: Str 20, Dex 15, Con 18, Int 14, Wis 17, Cha —
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Nature|Nature]] +11, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Society|Society]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +9
 - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

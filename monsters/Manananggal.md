@@ -15,7 +15,7 @@ full-attack: "Bite +11 melee (1d8+4) and 2 claws +12 melee (1d8+4 plus grab)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Blood drain (1d2 Constitution), spell-like abilities"
 special-qualities: "Darkvision 60 ft., separate, damage reduction 10/good or silver, undead traits, light sensitivity, vulnerable to light blades"
-saves: "Fort +7, Ref +8, Will +10"
+defenses: "Fort 17, Ref 18, Will 20"
 abilities: "Str 19, Dex 17, Con —, Int 12, Wis 16, Cha 19"
 skills: "Acrobatics +16, Deception +19, Imitation +17, Mysticism +6, Perception +16, Sense Motive +11, Theology +11"
 skill-ranks: "Acrobatics 10, Deception 11, Imitation 14, Mysticism 2, Perception 10, Sense Motive 5, Theology 7"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]] (1d2 Constitution), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Separate|separate]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good or silver, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]], [[rangoric-srd/monsters/abilities/Vulnerable to Light Blades|vulnerable to light blades]]
-- **Saves**: Fort +7, Ref +8, Will +10
+- **Defenses**: Fort 17, Ref 18, Will 20
 - **Abilities**: Str 19, Dex 17, Con —, Int 12, Wis 16, Cha 19
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +16, [[rangoric-srd/skills/Deception|Deception]] +19, [[rangoric-srd/skills/Imitation|Imitation]] +17, [[rangoric-srd/skills/Mysticism|Mysticism]] +6, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Theology|Theology]] +11
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claws), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception)
@@ -71,7 +71,7 @@ Manananggals speak Abyssal and Common.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th; concentration +13): At will—_[[rangoric-srd/spells/Bleed|bleed]]_ (DC 14), _[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Touch of Fatigue|touch of fatigue]]_ (DC 14); 3/day—_[[rangoric-srd/spells/Darkness|darkness]]_, _[[rangoric-srd/spells/Deep Slumber|deep slumber]]_ (DC 17), _[[rangoric-srd/spells/Fear|fear]]_ (DC 18).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th; concentration +13): At will—_[[rangoric-srd/spells/Bleed|bleed]]_ (+4 vs Will), _[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Touch of Fatigue|touch of fatigue]]_ (+4 vs Fortitude); 3/day—_[[rangoric-srd/spells/Darkness|darkness]]_, _[[rangoric-srd/spells/Deep Slumber|deep slumber]]_ (+7 vs Will), _[[rangoric-srd/spells/Fear|fear]]_ (+8 vs Will).
 
 **[[rangoric-srd/monsters/abilities/Separate|Separate]] (Su)**: During the day, a manananggal looks like a living human woman. She does not detect as undead during the day, but is still an undead creature. At night, her upper torso rips away (this is a full round action that occurs at sunset), leaving her lower torso behind. Her lower torso is [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]], but her upper torso gains its fly speed and natural attacks at this time. The upper and lower portions share the same pool of hit points (despite any intervening distance), and if the helpless lower portion is damaged, the manananggal is immediately aware of the attack. Since manananggals can be destroyed by damage to their lower bodies, they prefer to hide their lower torsos when separated. A manananggal must return to its lower torso and reattach to it (a full-round action) within the hour before sunrise—each round a manananggal remains separated after sunrise, it takes 1d6 points of damage until it rejoins its lower torso or it crumbles into dust.
 

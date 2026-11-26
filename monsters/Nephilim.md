@@ -16,7 +16,7 @@ full-attack: "Masterwork spear +13/+8/+3 ranged (2d6+7/×3)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Crushing blow, mortal challenge"
 special-qualities: "Darkvision 60 ft., soul of sorrow, damage reduction 10/magic, resistance to cold 10 and fire 10, spell resistance 19"
-saves: "Fort +13, Ref +7, Will +10"
+defenses: "Fort 23, Ref 17, Will 20"
 abilities: "Str 25, Dex 15, Con 18, Int 14, Wis 16, Cha 17"
 skills: "Athletics +13, Deception +12, Fieldcraft +12, Intimidation +17, Perception +17, Persuasion +17, Sense Motive +17, Society +11, Stealth +9, Theology +11"
 skill-ranks: "Athletics 3, Deception 6, Fieldcraft 6, Intimidation 11, Perception 11, Persuasion 11, Sense Motive 11, Society 6, Stealth 8, Theology 6"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Crushing Blow (Nephilim)|Crushing blow]], [[rangoric-srd/monsters/abilities/Mortal Challenge|mortal challenge]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Soul of Sorrow|soul of sorrow]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 19
-- **Saves**: Fort +13, Ref +7, Will +10
+- **Defenses**: Fort 23, Ref 17, Will 20
 - **Abilities**: Str 25, Dex 15, Con 18, Int 14, Wis 16, Cha 17
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Deception|Deception]] +12, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +17, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Persuasion|Persuasion]] +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +17, [[rangoric-srd/skills/Society|Society]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +9, [[rangoric-srd/skills/Theology|Theology]] +11
 - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Greater Sunder|Greater Sunder]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (longsword), [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Quick Draw|Quick Draw]]
@@ -70,8 +70,8 @@ Nephilims speak celestial.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Crushing Blow (Nephilim)|Crushing Blow]] (Ex)**: When a nephilim makes a successful critical hit with a melee attack, the target must make a DC 22 Fortitude save or take an additional 3d6 points of nonlethal damage and be [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for 1 round. The save DC is Strength-based.
+**[[rangoric-srd/monsters/abilities/Crushing Blow (Nephilim)|Crushing Blow]] (Ex)**: When a nephilim makes a successful critical hit with a melee attack, the blow attacks the target at +12 vs Fortitude, and on a hit the target takes an additional 3d6 points of nonlethal damage and is [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for 1 round. The attack bonus is Strength-based.
 
-**[[rangoric-srd/monsters/abilities/Mortal Challenge|Mortal Challenge]] (Su)**: When a nephilim spends a standard action to roar a battle challenge, all humanoids and monstrous humanoids within 100 feet of the nephilim must make a DC 18 Will save to avoid becoming [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]] for 5d6 rounds. On a successful save, the creatures only become [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for that time. Creatures with more HD than the nephilim become shaken if they fail their save, and suffer no effect if they succeed. A creature that succeeds at the save is immune to that nephilim's mortal challenge for 24 hours. This is a mind-affecting fear effect. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Mortal Challenge|Mortal Challenge]] (Su)**: When a nephilim spends a standard action to roar a battle challenge, all humanoids and monstrous humanoids within 100 feet of the nephilim are attacked at +8 vs Will, and on a hit become [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]] for 5d6 rounds. On a miss, the creatures only become [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for that time. Creatures with more HD than the nephilim become shaken on a hit, and suffer no effect on a miss. A creature the challenge misses is immune to that nephilim's mortal challenge for 24 hours. This is a mind-affecting fear effect. The attack bonus is Charisma-based.
 
-**[[rangoric-srd/monsters/abilities/Soul of Sorrow|Soul of Sorrow]] (Ex)**: A nephilim gains a +2 bonus on Will saves against fear effects and any effect that causes sorrow.
+**[[rangoric-srd/monsters/abilities/Soul of Sorrow|Soul of Sorrow]] (Ex)**: A nephilim gains a +2 bonus on Will Defense against fear effects and any effect that causes sorrow.

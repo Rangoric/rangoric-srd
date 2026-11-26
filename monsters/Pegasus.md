@@ -15,7 +15,7 @@ full-attack: "Bite +7 melee (1d3+4) and 2 hooves +2 melee (1d6+2)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 60 ft., detect evil, detect good, low-light vision, scent"
-saves: "Fort +7, Ref +6, Will +4"
+defenses: "Fort 17, Ref 16, Will 14"
 abilities: "Str 18, Dex 15, Con 16, Int 10, Wis 13, Cha 13"
 skills: "Acrobatics +5, Perception +11, Sense Motive +7"
 skill-ranks: "Acrobatics 2, Perception 3, Sense Motive 3"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect evil, detect good, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +7, Ref +6, Will +4
+- **Defenses**: Fort 17, Ref 16, Will 14
 - **Abilities**: Str 18, Dex 15, Con 16, Int 10, Wis 13, Cha 13
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7
 - **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Iron Will|Iron Will]]
@@ -72,7 +72,7 @@ Pegasi mature at the same rate as horses. Professional trainers charge 1,000 gp 
 
 A light load for a pegasus is up to 300 pounds; a medium load, 301–600 pounds; and a heavy load, 601–900 pounds.
 
-In some pegasi, the blood of a mighty heroic stallion ancestor runs strong. These champions have the lifespan of a human, the [[rangoric-srd/monsters/simple-templates/Advanced Creature|advanced template]], perfect flight maneuverability, fire resistance 10, a +4 racial bonus on saving throws against poison, and an immunity to petrification attacks. Some are able to speak a few words in Common or Celestial. They are fully aware of their superiority over common horses and pegasi, and need no training to fly with a rider, but only allow themselves to be ridden by great heroes.
+In some pegasi, the blood of a mighty heroic stallion ancestor runs strong. These champions have the lifespan of a human, the [[rangoric-srd/monsters/simple-templates/Advanced Creature|advanced template]], perfect flight maneuverability, fire resistance 10, a +4 racial bonus on defenses against poison, and an immunity to petrification attacks. Some are able to speak a few words in Common or Celestial. They are fully aware of their superiority over common horses and pegasi, and need no training to fly with a rider, but only allow themselves to be ridden by great heroes.
 
 ### Combat
 

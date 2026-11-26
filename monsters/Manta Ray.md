@@ -16,7 +16,7 @@ full-attack: "Tail slap +4 melee (1d6+4)"
 space-reach: "10 ft./10 ft."
 special-attacks: "—"
 special-qualities: "Blindsense 30 ft, low-light vision"
-saves: "Fort +5, Ref +4, Will +2"
+defenses: "Fort 15, Ref 14, Will 12"
 abilities: "Str 16, Dex 13, Con 15, Int 1, Wis 13, Cha 2"
 skills: "Athletics +15, Perception +6"
 skill-ranks: "Athletics 9, Perception 2"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]
-- **Saves**: Fort +5, Ref +4, Will +2
+- **Defenses**: Fort 15, Ref 14, Will 12
 - **Abilities**: Str 16, Dex 13, Con 15, Int 1, Wis 13, Cha 2
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Perception|Perception]] +6
 - **Feats**: [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]]

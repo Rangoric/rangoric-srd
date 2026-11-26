@@ -16,7 +16,7 @@ full-attack: "Bite +8 melee (1d4+1 plus poison)"
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "Poison"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, regeneration 1 (cold iron), ferocity, amphibious, elusive, damage reduction 5/cold iron, immunity to paralysis and sleep, resistance to acid 5"
-saves: "Fort +4, Ref +6, Will +3"
+defenses: "Fort 14, Ref 16, Will 13"
 abilities: "Str 13, Dex 16, Con 12, Int 5, Wis 10, Cha 9"
 skills: "Acrobatics +11, Athletics +13, Escape Artist +13, Perception +5, Stealth +20"
 skill-ranks: "Acrobatics 1, Athletics 9, Escape Artist 2, Perception 2, Stealth 6"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 1 (cold iron), [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Elusive|elusive]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron, immunity to [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] and sleep, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 5
-- **Saves**: Fort +4, Ref +6, Will +3
+- **Defenses**: Fort 14, Ref 16, Will 13
 - **Abilities**: Str 13, Dex 16, Con 12, Int 5, Wis 10, Cha 9
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +13, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +20
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -76,4 +76,4 @@ Nycars understand Draconic but can't speak.
 
 **[[rangoric-srd/monsters/abilities/Elusive|Elusive]] (Ex)**: A nycar can make an Escape Artist check as a swift action.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Nycar Poison|Nycar Poison]]: Bite—injury; _save_ Fort DC 12; _frequency_ 1/round for 6 rounds; _effect_ 1d4 acid and 1 Con damage; _cure_ 2 consecutive saves.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Nycar Poison|Nycar Poison]]: Bite—injury; _attack_ +2 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d4 acid and 1 Con damage; _cure_ 2 consecutive misses.

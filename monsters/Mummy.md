@@ -13,9 +13,9 @@ cmd: "23"
 attack: "Slam +14 melee (1d8+10 plus mummy rot)"
 full-attack: "Slam +14 melee (1d8+10 plus mummy rot)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Despair (30 ft., paralyzed for 1d4 rounds, Will DC 16 negates)"
+special-attacks: "Despair (30 ft., paralyzed for 1d4 rounds, +6 vs Will)"
 special-qualities: "Darkvision 60 ft., damage reduction 5/-, undead traits, vulnerable to fire"
-saves: "Fort +4, Ref +2, Will +8"
+defenses: "Fort 14, Ref 12, Will 18"
 abilities: "Str 24, Dex 10, Con —, Int 6, Wis 15, Cha 15"
 skills: "Perception +16, Stealth +11"
 skill-ranks: "Perception 11, Stealth 8"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Slam +14 melee (1d8+10 plus [[rangoric-srd/rules/afflictions/Mummy Rot|mummy rot]])
 - **Full Attack**: Slam +14 melee (1d8+10 plus [[rangoric-srd/rules/afflictions/Mummy Rot|mummy rot]])
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: Despair (30 ft., paralyzed for 1d4 rounds, Will DC 16 negates)
+- **Special Attacks**: Despair (30 ft., paralyzed for 1d4 rounds, +6 vs Will)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], vulnerable to fire
-- **Saves**: Fort +4, Ref +2, Will +8
+- **Defenses**: Fort 14, Ref 12, Will 18
 - **Abilities**: Str 24, Dex 10, Con —, Int 6, Wis 15, Cha 15
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +11
 - **Feats**: [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam)
@@ -74,8 +74,8 @@ Mummies can speak Common, but seldom bother to do so.
 
 ### Combat
 
-**Despair (Su)**: All creatures within a 30-foot radius that see a mummy must make a DC 16 Will save or be [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] by fear for 1d4 rounds. Whether or not the save is successful, that creature cannot be affected again by the same mummy's despair ability for 24 hours. This is a paralysis and a mind-affecting fear affect. The save DC is Charisma-based.
+**Despair (Su)**: All creatures within a 30-foot radius that see a mummy are attacked at +6 vs Will, and on a hit are [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] by fear for 1d4 rounds. Whether the attack hits or misses, that creature cannot be affected again by the same mummy's despair ability for 24 hours. This is a paralysis and a mind-affecting fear affect. The attack bonus is Charisma-based.
 
-**Mummy Rot (Su)**: [[rangoric-srd/rules/afflictions/Mummy Rot|Mummy Rot]]: Curse and disease—slam—injury; _save_ Fort DC 16; _onset_ 1 minute; _frequency_ 1/day; _effect_ 1d6 Con damage and 1d6 Cha damage; _cure_ —. The save DC is Charisma-based.
+**Mummy Rot (Su)**: [[rangoric-srd/rules/afflictions/Mummy Rot|Mummy Rot]]: Curse and disease—slam—injury; _attack_ +6 vs Fortitude; _onset_ 1 minute; _frequency_ 1/day; _effect_ 1d6 Con damage and 1d6 Cha damage; _cure_ —. The attack bonus is Charisma-based.
 
 Mummy rot is both a curse and disease and can only be cured if the curse is first removed, at which point the disease can be magically removed. Even after the curse element of mummy rot is lifted, a creature suffering from it cannot recover naturally over time. Anyone casting a conjuration (healing) spell on the afflicted creature must succeed on a DC 20 caster level check, or the spell is wasted and the healing has no effect. Anyone who dies from mummy rot turns to dust and cannot be raised without a resurrection or greater magic.

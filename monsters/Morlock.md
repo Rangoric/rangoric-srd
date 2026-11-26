@@ -15,7 +15,7 @@ full-attack: "Club +5 melee (1d6+2) and bite +0 melee (1d4+1)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Leap attack, sneak attack +1d6, swarming"
 special-qualities: "Darkvision 120 ft., scent, expert climber, immunity to disease and poison, light blindness"
-saves: "Fort +3, Ref +9, Will +5"
+defenses: "Fort 13, Ref 19, Will 15"
 abilities: "Str 14, Dex 19, Con 15, Int 5, Wis 14, Cha 6"
 skills: "Acrobatics +13, Athletics +22, Stealth +8 (+12 in caverns)"
 skill-ranks: "Acrobatics 1, Athletics 1, Stealth 1"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Leap attack, [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|sneak attack]] +1d6, swarming
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], expert climber, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease and poison, [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]]
-- **Saves**: Fort +3, Ref +9, Will +5
+- **Defenses**: Fort 13, Ref 19, Will 15
 - **Abilities**: Str 14, Dex 19, Con 15, Int 5, Wis 14, Cha 6
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Athletics|Athletics]] +22, [[rangoric-srd/skills/Stealth|Stealth]] +8 (+12 in caverns)
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]

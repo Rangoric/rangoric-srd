@@ -15,7 +15,7 @@ full-attack: "Bite +13 melee (1d6+4 plus poison) and 2 claws +13 melee (1d4+4/19
 space-reach: "5 ft./5 ft."
 special-attacks: "Infectious dance, poison, spell-like abilities"
 special-qualities: "Darkvision 60 ft., mad feast, immunity to calm emotions, resistance to fire 10, spell resistance 19"
-saves: "Fort +8, Ref +10, Will +9 (+13 vs. mind-affecting effects)"
+defenses: "Fort 18, Ref 20, Will 19 (+13 vs. mind-affecting effects)"
 abilities: "Str 19, Dex 18, Con 20, Int 13, Wis 16, Cha 21"
 skills: "Deception +14, Imitation +11, Intimidation +17, Perception +15, Persuasion +14, Sense Motive +9"
 skill-ranks: "Deception 6, Imitation 3, Intimidation 11, Perception 9, Persuasion 5, Sense Motive 3"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Infectious dance, [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., mad feast, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to _[[rangoric-srd/spells/Calm Emotions|calm emotions]]_, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 19
-- **Saves**: Fort +8, Ref +10, Will +9 (+13 vs. mind-affecting effects)
+- **Defenses**: Fort 18, Ref 20, Will 19 (+13 vs. mind-affecting effects)
 - **Abilities**: Str 19, Dex 18, Con 20, Int 13, Wis 16, Cha 21
 - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +14, [[rangoric-srd/skills/Imitation|Imitation]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +17, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Persuasion|Persuasion]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Persuasion)
@@ -71,10 +71,10 @@ The psionic humanoid race of the same name is [[rangoric-srd/monsters/Maenad, Ps
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +17): At will—_[[rangoric-srd/spells/Murderous Command|murderous command]]_ (DC 16), _[[rangoric-srd/spells/Polypurpose Panacea|polypurpose panacea]]_, _[[rangoric-srd/spells/Rage|rage]]_; 3/day—_[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_, _[[rangoric-srd/spells/Charm Monster|charm monster]]_ (DC 19), _[[rangoric-srd/spells/Mad Hallucination|mad hallucination]]_ (DC 17), _[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]_.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +17): At will—_[[rangoric-srd/spells/Murderous Command|murderous command]]_ (+6 vs Will), _[[rangoric-srd/spells/Polypurpose Panacea|polypurpose panacea]]_, _[[rangoric-srd/spells/Rage|rage]]_; 3/day—_[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_, _[[rangoric-srd/spells/Charm Monster|charm monster]]_ (+9 vs Will), _[[rangoric-srd/spells/Mad Hallucination|mad hallucination]]_ (+7 vs Will), _[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]_.
 
-**Infectious Dance (Su)**: Any creature viewing a dancing maenad from within 60 feet of her must succeed at a DC 19 Will save or be affected as if by _[[rangoric-srd/spells/Confusion|confusion]]_ for 1 hour. For every four creatures affected by this ability, the maenad gains 1d10 temporary hit points and her Charisma score increases by 1; these benefits end if the affected creatures break free of the dance.
+**Infectious Dance (Su)**: Any creature viewing a dancing maenad from within 60 feet of her is attacked at +9 vs Will, and on a hit is affected as if by _[[rangoric-srd/spells/Confusion|confusion]]_ for 1 hour. For every four creatures affected by this ability, the maenad gains 1d10 temporary hit points and her Charisma score increases by 1; these benefits end if the affected creatures break free of the dance.
 
-**Mad Feast (Su)**: As a full-round action, a maenad can conjure a supernatural feast. Creatures eating from this feast gain a +2 bonus to Strength and Constitution, 1d8 temporary hit points, and a +4 morale bonus on fear saves for 12 hours. Creatures affected also take a -4 penalty on Will saving throws (this penalty does not apply on saves against fear), and find it more compelling to engage in debauchery, excess, and violence.
+**Mad Feast (Su)**: As a full-round action, a maenad can conjure a supernatural feast. Creatures eating from this feast gain a +2 bonus to Strength and Constitution, 1d8 temporary hit points, and a +4 morale bonus to defenses against fear for 12 hours. Creatures affected also take a -4 penalty on Will Defense (this penalty does not apply against fear), and find it more compelling to engage in debauchery, excess, and violence.
 
-**Poison (Ex)**: Bite—injury; save Fort DC 19; frequency 1/round for 6 rounds; effect 1d3 Con; cure 2 consecutive saves.
+**Poison (Ex)**: Bite—injury; attack +9 vs Fortitude; frequency 1/round for 6 rounds; effect 1d3 Con; cure 2 consecutive misses.

@@ -16,7 +16,7 @@ full-attack: "Bite +13 melee (1d8+5 plus poison) and 8 tentacles +11 melee (1d4+
 space-reach: "10 ft./10 ft. (20 ft. with tentacle)"
 special-attacks: "Constrict (tentacle, 1d4+2), poison"
 special-qualities: "Low-light vision, ink cloud (30-foot-radius sphere)"
-saves: "Fort +11, Ref +12, Will +7"
+defenses: "Fort 21, Ref 22, Will 17"
 abilities: "Str 20, Dex 15, Con 17, Int 2, Wis 12, Cha 3"
 skills: "Athletics +13, Escape Artist +19, Perception +8, Stealth +16"
 skill-ranks: "Athletics 5, Escape Artist 3, Perception 4, Stealth 9"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft. (20 ft. with tentacle)
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (tentacle, 1d4+2), [[rangoric-srd/monsters/abilities/Poison|poison]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], ink cloud (30-foot-radius sphere)
-- **Saves**: Fort +11, Ref +12, Will +7
+- **Defenses**: Fort 21, Ref 22, Will 17
 - **Abilities**: Str 20, Dex 15, Con 17, Int 2, Wis 12, Cha 3
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +19, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +16
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Escape Artist, Stealth)
@@ -71,4 +71,4 @@ These creatures are aggressive and territorial hunters, with arms reaching 10 fe
 
 An opponent can attack a giant octopus’s tentacles with a sunder attempt as if they were weapons. A giant octopus’s tentacles have 10 hit points each. If a giant octopus is currently grappling a target with the tentacle that is being attacked, it usually uses another limb to make its attack of opportunity against the opponent making the sunder attempt. Severing one of a giant octopus’s tentacles deals 5 points of damage to the creature. A giant octopus usually withdraws from combat if it loses four tentacles. The creature regrows severed limbs in 1d6+2 months.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Giant Octopus Venom|Giant Octopus Venom]]: Bite—injury; _save_ Fort DC 19; _frequency_ 1/round for 6 rounds; _effect_ 1d3 Str; _cure_ 2 saves.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Giant Octopus Venom|Giant Octopus Venom]]: Bite—injury; _attack_ +9 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d3 Str; _cure_ 2 misses.

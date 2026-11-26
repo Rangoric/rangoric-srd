@@ -13,9 +13,9 @@ cmd: "30"
 attack: "Slam +15 melee (2d8+5 plus grab) or tongue +10 melee touch (paralysis)"
 full-attack: "2 slams +15 melee (2d8+5 plus grab) and tongue +10 melee touch (paralysis)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Create spawn, paralysis (1d4 minutes, DC 21)"
+special-attacks: "Create spawn, paralysis (1d4 minutes, +11 vs Fortitude)"
 special-qualities: "Darkvision 60 ft., undead traits"
-saves: "Fort +6, Ref +10, Will +9"
+defenses: "Fort 16, Ref 20, Will 19"
 abilities: "Str 21, Dex 19, Con —, Int 11, Wis 10, Cha 14"
 skills: "Athletics +22, Perception +23, Stealth +21"
 skill-ranks: "Athletics 14, Perception 20, Stealth 14"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Slam +15 melee (2d8+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or tongue +10 melee touch ([[rangoric-srd/monsters/abilities/Paralysis|paralysis]])
 - **Full Attack**: 2 slams +15 melee (2d8+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and tongue +10 melee touch ([[rangoric-srd/monsters/abilities/Paralysis|paralysis]])
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: Create spawn, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] (1d4 minutes, DC 21)
+- **Special Attacks**: Create spawn, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] (1d4 minutes, +11 vs Fortitude)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-- **Saves**: Fort +6, Ref +10, Will +9
+- **Defenses**: Fort 16, Ref 20, Will 19
 - **Abilities**: Str 21, Dex 19, Con —, Int 11, Wis 10, Cha 14
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +22, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Stealth|Stealth]] +21
 - **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (paralysis), [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Spring Attack|Spring Attack]]

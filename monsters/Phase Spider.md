@@ -15,7 +15,7 @@ full-attack: "Bite +10 melee (2d6+7 plus poison and grab)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Ethereal ambush, poison"
 special-qualities: "Darkvision 60 ft., low-light vision, ethereal jaunt"
-saves: "Fort +8, Ref +8, Will +3"
+defenses: "Fort 18, Ref 18, Will 13"
 abilities: "Str 20, Dex 17, Con 16, Int 7, Wis 13, Cha 10"
 skills: "Athletics +18, Perception +6, Stealth +7"
 skill-ranks: "Athletics 10, Perception 2, Stealth 5"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: Ethereal ambush, [[rangoric-srd/monsters/abilities/Poison|poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], ethereal jaunt
-- **Saves**: Fort +8, Ref +8, Will +3
+- **Defenses**: Fort 18, Ref 18, Will 13
 - **Abilities**: Str 20, Dex 17, Con 16, Int 7, Wis 13, Cha 10
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +7
 - **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (poison), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
@@ -80,4 +80,4 @@ Phase spiders dwell and hunt on the Material Plane. Once a spider locates prey, 
 
 **Ethereal Jaunt (Su)**: A phase spider can shift from the Ethereal Plane to the Material Plane as a free action, and shift back again as a move action (or as part of a move action). The ability is otherwise identical to ethereal jaunt (CL 15th).
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Phase Spider Venom|Phase Spider Venom]]: Bite—injury; _save_ Fort DC 18; _frequency_ 1/round for 8 rounds; _effect_ 1d2 Con damage; _cure_ 2 consecutive saves. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Phase Spider Venom|Phase Spider Venom]]: Bite—injury; _attack_ +8 vs Fortitude; _frequency_ 1/round for 8 rounds; _effect_ 1d2 Con damage; _cure_ 2 consecutive misses. The attack bonus is Constitution-based.

@@ -73,7 +73,7 @@ _Traits_: An agathion has the following traits (unless otherwise noted in a crea
 
 - _Lay on Hands_: As a [[rangoric-srd/classes/Paladin|paladin]] whose level equals the agathion’s Hit Dice.
 
-- +4 racial bonus on saves against poison.
+- +4 racial bonus on defenses against poison.
 
 - Except where otherwise noted, agathions speak Celestial, Infernal, and Draconic.
 
@@ -97,9 +97,9 @@ _Traits_: An angel possesses the following traits (unless otherwise noted in a c
 
 - [[rangoric-srd/monsters/abilities/Resistance|Resistance]] to electricity 10 and fire 10.
 
-- +4 racial bonus on saves against poison.
+- +4 racial bonus on defenses against poison.
 
-- _Protective Aura (Su)_: Against attacks made or effects created by evil creatures, this ability provides a +4 deflection bonus to AC and a +4 resistance bonus on saving throws to anyone within 20 feet of the angel. Otherwise, it functions as a _[[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]]_ effect and a _[[rangoric-srd/spells/Globe of Invulnerability, Lesser|lesser globe of invulnerability]]_, both with a radius of 20 feet (caster level equals angel’s HD). This aura can be dispelled, but the angel can create it again as a free action on its next turn. The defensive benefits from the circle are not included in an angel’s stat block.
+- _Protective Aura (Su)_: Against attacks made or effects created by evil creatures, this ability provides a +4 deflection bonus to AC and a +4 resistance bonus on defenses to anyone within 20 feet of the angel. Otherwise, it functions as a _[[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]]_ effect and a _[[rangoric-srd/spells/Globe of Invulnerability, Lesser|lesser globe of invulnerability]]_, both with a radius of 20 feet (caster level equals angel’s HD). This aura can be dispelled, but the angel can create it again as a free action on its next turn. The defensive benefits from the circle are not included in an angel’s stat block.
 
 - _Truespeech (Su)_: All angels can speak with any creature that has a language, as though using a _[[rangoric-srd/spells/Tongues|tongues]]_ spell (caster level equal to angel’s Hit Dice). This ability is always active.
 
@@ -143,11 +143,11 @@ _Traits_: An archon possesses the following traits (unless otherwise noted in a 
 
 - [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 feet and [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]].
 
-- _Aura of Menace (Su)_: A righteous aura surrounds archons that fight or get angry. Any hostile creature within a 20-foot radius of an archon must succeed on a Will save to resist its effects. The save DC varies with the type of archon, is Charisma-based, and includes a +2 racial bonus. Those who fail take a –2 penalty on attack rolls, on saves, and to AC for 24 hours or until they successfully hit the archon that generated the aura. A creature that has resisted or broken the effect cannot be affected again by the same archon’s aura for 24 hours.
+- _Aura of Menace (Su)_: A righteous aura surrounds archons that fight or get angry. Any hostile creature within a 20-foot radius of an archon is attacked against Will, and a miss resists its effects. The attack bonus varies with the type of archon, is Charisma-based, and includes a +2 racial bonus. Those it hits take a –2 penalty on attack rolls, to defenses, and to AC for 24 hours or until they successfully hit the archon that generated the aura. A creature that has resisted or broken the effect cannot be affected again by the same archon’s aura for 24 hours.
 
 - [[rangoric-srd/monsters/abilities/Immunity|Immunity]] to electricity and petrification.
 
-- +4 racial bonus on saves against poison.
+- +4 racial bonus on defenses against poison.
 
 - _Teleport (Sp)_: Archons can use _[[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ at will, as the spell (caster level 14th), except that the creature can transport only itself and up to 50 pounds of carried objects.
 
@@ -165,7 +165,7 @@ _Traits_: An asura has the following traits (unless otherwise noted in a creatur
 
 - [[rangoric-srd/monsters/abilities/Resistance|Resistance]] to acid 10 and electricity 10.
 
-- +2 racial bonus on saving throws against enchantment spells.
+- +2 racial bonus on defenses against enchantment spells.
 
 - [[rangoric-srd/monsters/abilities/Telepathy|Telepathy]].
 
@@ -228,7 +228,7 @@ _Traits_: A boggard has the following traits (unless otherwise noted in a creatu
 
 **Chaotic Subtype**: A subtype usually applied only to [[#^outsider|outsiders]] native to the chaotic-aligned Outer Planes. Most creatures that have this subtype also have chaotic alignments; however, if their alignments change they still retain the subtype. Any effect that depends on alignment affects a creature with this subtype as if the creature has a chaotic alignment, no matter what its alignment actually is. The creature also suffers effects according to its actual alignment. A creature with the chaotic subtype overcomes [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] as if its natural weapons and any weapons it wields were chaotic-aligned. ^chaotic
 
-**Cold Subtype**: A creature with the cold subtype has immunity to cold. It has [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to fire]], which means it takes half again as much (+50%) damage as normal from fire, regardless of whether a saving throw is allowed, or if the save is a success or failure. ^cold
+**Cold Subtype**: A creature with the cold subtype has immunity to cold. It has [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to fire]], which means it takes half again as much (+50%) damage as normal from fire, regardless of whether the effect attacks a defense, or whether that attack hits or misses. ^cold
 
 **Constrict (Ex)**: See [[rangoric-srd/monsters/abilities/Constrict|constrict]]. ^constrict
 
@@ -260,7 +260,7 @@ _Traits_: A construct possesses the following traits (unless otherwise noted in 
 
 - Not subject to [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|ability damage]], ability drain, fatigue, exhaustion, [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]], or nonlethal damage.
 
-- Immunity to any effect that requires a Fortitude save (unless the effect also works on objects, or is harmless).
+- Immunity to any effect that attacks Fortitude (unless the effect also works on objects, or is harmless).
 
 - Not at risk of death from massive damage. Immediately destroyed when reduced to 0 hit points or less.
 
@@ -332,9 +332,9 @@ _Traits_: A demodand has the following traits (unless otherwise noted in a creat
 
 - _Summon (Sp)_: Demodands share the ability to [[rangoric-srd/monsters/abilities/Summon|summon]] others of their kind, typically another of their type or a small number of less powerful demodands.
 
-- _Faith-Stealing Strike (Su)_: When a demodand’s natural attack or melee weapon damages a creature capable of casting divine spells, that creature must make a Will saving throw or be unable to cast any divine spells for 1 round. Once a creature makes this save, it is immune to further faith-stealing strikes from that particular demodand for 24 hours. The save DC is Charisma-based.
+- _Faith-Stealing Strike (Su)_: When a demodand’s natural attack or melee weapon damages a creature capable of casting divine spells, the strike attacks that creature's Will, and on a hit it is unable to cast any divine spells for 1 round. Once the strike misses a creature, it is immune to further faith-stealing strikes from that particular demodand for 24 hours. The attack bonus is Charisma-based.
 
-- _Heretical Soul (Ex)_: All demodands gain a +4 bonus on saving throws against divine spells. In addition, any attempt to scry on a demodand using divine magic automatically fails. The caster can see the scried area normally, but the demodand simply does not appear.
+- _Heretical Soul (Ex)_: All demodands gain a +4 bonus on defenses against divine spells. In addition, any attempt to scry on a demodand using divine magic automatically fails. The caster can see the scried area normally, but the demodand simply does not appear.
 
 - Except where otherwise noted, demodands speak Abyssal, Celestial, and Common.
 
@@ -466,7 +466,7 @@ _Traits_: A fey possesses the following traits (unless otherwise noted in a crea
 
 - Fey eat, sleep, and breathe.
 
-**Fire Subtype**: A creature with the fire subtype has immunity to fire. It has vulnerability to cold, which means it takes half again as much (+50%) damage as normal from cold, regardless of whether a saving throw is allowed, or if the save is a success or failure. ^fire
+**Fire Subtype**: A creature with the fire subtype has immunity to fire. It has vulnerability to cold, which means it takes half again as much (+50%) damage as normal from cold, regardless of whether the effect attacks a defense, or whether that attack hits or misses. ^fire
 
 **Flight (Ex or Su)**: See [[rangoric-srd/monsters/abilities/Flight|flight]]. ^flight
 
@@ -506,13 +506,13 @@ _Traits_: A Great Old One has the following traits.
 
 - [[rangoric-srd/monsters/abilities/Immunity|Immunity]] to ability damage, ability drain, aging, cold, death effects, disease, [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]], mind-affecting effects, paralysis, and petrification.
 
-- **Insanity (Ex)**: Any creature that attempts to interact directly with a Great Old One's thoughts (such as via _[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ or [[rangoric-srd/monsters/abilities/Telepathy|telepathy]]) must succeed at a Will save or be driven permanently insane. The save DC is equal to 10 + 1/2 the Great Old One's Hit Dice + the Great Old One's Charisma modifier. This duplicates the effect of the _[[rangoric-srd/spells/Insanity (Spell)|insanity]]_ spell, or the [[rangoric-srd/rules/Afflictions#Insanity|insanity rules]] (in which case the save DC is also the ongoing insanity DC). A Great Old One using its telepathy to communicate doesn't activate this ability unless it spends a standard action to focus its mind on one opponent. This is a mind-affecting effect.
+- **Insanity (Ex)**: Any creature that attempts to interact directly with a Great Old One's thoughts (such as via _[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ or [[rangoric-srd/monsters/abilities/Telepathy|telepathy]]) is attacked against Will, and on a hit is driven permanently insane. The attack bonus is 1/2 the Great Old One's Hit Dice + the Great Old One's Charisma modifier. This duplicates the effect of the _[[rangoric-srd/spells/Insanity (Spell)|insanity]]_ spell, or the [[rangoric-srd/rules/Afflictions#Insanity|insanity rules]] (in which case the attack bonus is also the ongoing insanity DC). A Great Old One using its telepathy to communicate doesn't activate this ability unless it spends a standard action to focus its mind on one opponent. This is a mind-affecting effect.
 
 - **Mythic (Su)**: A Great Old One has mythic power (10/day, surge +1d12) and counts as a 10th-rank mythic creature. A Great Old One can use any of its spell-like abilities as the mythic versions of those spells (if a mythic version of that spell exists), expending mythic power as normal. It can also expend mythic power to use the augmented versions of these spell-like abilities.
 
 - **Otherworldly Insight (Ex)**: All Great Old Ones gain a +10 insight bonus on Initiative checks and to AC.
 
-- **Unspeakable Presence (Su)**: A Great Old One's aura inflicts intense mental anguish and torment upon all creatures within 300 feet who can see and hear the Great Old One. The exact effects caused by a Great Old One's unspeakable presence vary by type. A successful Will save (DC 10 + 1/2 the Great Old One's Hit Dice + the Great Old One's Charisma modifier) reduces or negates the effect. This is a mind-affecting effect.
+- **Unspeakable Presence (Su)**: A Great Old One's aura inflicts intense mental anguish and torment upon all creatures within 300 feet who can see and hear the Great Old One. The exact effects caused by a Great Old One's unspeakable presence vary by type. It attacks Will (attack bonus 1/2 the Great Old One's Hit Dice + the Great Old One's Charisma modifier), and a miss reduces or negates the effect. This is a mind-affecting effect.
 
 **Grippli Subtype**: A humanoid subtype for [[rangoric-srd/races/Grippli|gripplis]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^grippli
 
@@ -564,7 +564,7 @@ _Traits_: An inevitable has the following traits.
 
 - [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]].
 
-- _Constructed_: Although inevitables are living outsiders, their bodies are constructed of physical components, and in many ways they function as constructs. For the purposes of effects targeting creatures by type (such as a [[rangoric-srd/classes/Ranger|ranger]]'s favored enemy and _[[rangoric-srd/magic-items/weapon-abilities/Bane (Weapon Special Ability)|bane]]_ weapons), inevitables count as both outsiders and [[#^construct|constructs]]. They are immune to death effects, disease, mind-affecting effects, necromancy effects, paralysis, poison, sleep, stun, and any effect that requires a Fortitude save (unless the effect also works on objects, or is harmless). Inevitables are not subject to nonlethal damage, ability damage, ability drain, fatigue, exhaustion, or energy drain. They are not at risk of death from massive damage. They have bonus hit points as constructs of their size.
+- _Constructed_: Although inevitables are living outsiders, their bodies are constructed of physical components, and in many ways they function as constructs. For the purposes of effects targeting creatures by type (such as a [[rangoric-srd/classes/Ranger|ranger]]'s favored enemy and _[[rangoric-srd/magic-items/weapon-abilities/Bane (Weapon Special Ability)|bane]]_ weapons), inevitables count as both outsiders and [[#^construct|constructs]]. They are immune to death effects, disease, mind-affecting effects, necromancy effects, paralysis, poison, sleep, stun, and any effect that attacks Fortitude (unless the effect also works on objects, or is harmless). Inevitables are not subject to nonlethal damage, ability damage, ability drain, fatigue, exhaustion, or energy drain. They are not at risk of death from massive damage. They have bonus hit points as constructs of their size.
 
 - _Saves_: An inevitable's good saving throws are Fortitude and Will.
 
@@ -614,7 +614,7 @@ _Traits_: A kami has the following traits (unless otherwise noted in a creature'
 
 - _Merge with Ward (Su)_: As a standard action, a kami can merge its body and mind with its ward. When merged, the kami can observe the surrounding region with its senses as if it were using its own body, as well as via any senses its ward might have. It has no control over its ward, nor can it communicate or otherwise take any action other than to emerge from its ward as a standard action. A kami must be adjacent to its ward to merge with or emerge from it. If its ward is a creature, plant, or object, the kami can emerge mounted on the creature provided the kami’s body is at least one size category smaller than the creature. If its ward is a location, the kami may emerge at any point within that location.
 
-- _Ward (Su)_: A kami has a specific ward—a creature with a 2 or lower Intelligence (usually an animal or vermin), a plant (not a plant creature), an object, or a location. The type of ward is listed in parentheses in the kami’s stat block. Several of a kami’s abilities function only when it is either merged with its ward or within 120 feet of it. If a kami’s ward is portable and travels with the kami to another plane, the kami does not gain the extraplanar subtype on that other plane as long as its ward remains within 120 feet. If a ward is destroyed while a kami is merged with it, the kami dies (no save). If a ward is destroyed while a kami is not merged with it, the kami loses its merge with ward ability and its fast healing, and becomes permanently sickened.
+- _Ward (Su)_: A kami has a specific ward—a creature with a 2 or lower Intelligence (usually an animal or vermin), a plant (not a plant creature), an object, or a location. The type of ward is listed in parentheses in the kami’s stat block. Several of a kami’s abilities function only when it is either merged with its ward or within 120 feet of it. If a kami’s ward is portable and travels with the kami to another plane, the kami does not gain the extraplanar subtype on that other plane as long as its ward remains within 120 feet. If a ward is destroyed while a kami is merged with it, the kami dies (no attack against a defense). If a ward is destroyed while a kami is not merged with it, the kami loses its merge with ward ability and its fast healing, and becomes permanently sickened.
 
 **Kasatha Subtype**: A humanoid subtype for [[rangoric-srd/monsters/Kasatha|kasathas]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^kasatha
 
@@ -630,7 +630,7 @@ _Traits_: A kyton has the following traits (unless otherwise noted in a creature
 
 - [[rangoric-srd/monsters/abilities/Immunity|Immunity]] to cold.
 
-- _Unnerving Gaze (Su)_: All kytons have a gaze attack that manipulates the perceptions of those who look upon them. An unnerving gaze has a range of 30 feet and can be negated by a Will save; what it does depends on the kind of kyton. All kytons are immune to the unnerving gazes of other kytons. An unnerving gaze is always a mind-affecting fear effect. The save DC is Charisma-based.
+- _Unnerving Gaze (Su)_: All kytons have a gaze attack that manipulates the perceptions of those who look upon them. An unnerving gaze has a range of 30 feet and attacks Will, a miss negating it; what it does depends on the kind of kyton. All kytons are immune to the unnerving gazes of other kytons. An unnerving gaze is always a mind-affecting fear effect. The attack bonus is Charisma-based.
 
 **Lawful**: A subtype usually applied only to outsiders native to the lawful-aligned Outer Planes. Most creatures that have this subtype also have lawful alignments; however, if their alignments change, they still retain the subtype. Any effect that depends on alignment affects a creature with this subtype as if the creature has a lawful alignment, no matter what its alignment actually is. The creature also suffers effects according to its actual alignment. A creature with the lawful subtype overcomes damage reduction as if its natural weapons and any weapons it wields were lawful-aligned (see Damage Reduction, above). ^lawful
 
@@ -760,7 +760,7 @@ _Traits_: A nightshade has the following traits.
 
 - [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]].
 
-- _Desecrating Aura (Su)_: All nightshades have a 30-foot-radius emanation equivalent to a _[[rangoric-srd/spells/Desecrate|desecrate]]_ spell centered on a shrine of evil power. Undead within this radius (including the nightshade) gain a +2 profane bonus on attack and damage rolls and saving throws, as well as +2 hit points per die, and the save DC of channeled negative energy is increased by +6 (these adjustments are included for the nightshades in their entries). This aura can be negated by _[[rangoric-srd/spells/Dispel Evil|dispel evil]]_, but a nightshade can reactivate it on its turn as a free action. A desecrating aura suppresses and is suppressed by _[[rangoric-srd/spells/Consecrate|consecrate]]_ or _[[rangoric-srd/spells/Hallow|hallow]]_; both effects are negated within any overlapping area of effect.
+- _Desecrating Aura (Su)_: All nightshades have a 30-foot-radius emanation equivalent to a _[[rangoric-srd/spells/Desecrate|desecrate]]_ spell centered on a shrine of evil power. Undead within this radius (including the nightshade) gain a +2 profane bonus on attack and damage rolls and defenses, as well as +2 hit points per die, and the attack bonus of channeled negative energy is increased by +6 (these adjustments are included for the nightshades in their entries). This aura can be negated by _[[rangoric-srd/spells/Dispel Evil|dispel evil]]_, but a nightshade can reactivate it on its turn as a free action. A desecrating aura suppresses and is suppressed by _[[rangoric-srd/spells/Consecrate|consecrate]]_ or _[[rangoric-srd/spells/Hallow|hallow]]_; both effects are negated within any overlapping area of effect.
 
 - _Channel Energy (Su)_: A nightshade can [[rangoric-srd/classes/Cleric|channel negative energy]] as a cleric of a level equal to its base CR. It can use this ability a number of times per day equal to 3 + its Charisma modifier.
 
@@ -774,9 +774,9 @@ _Traits_: A nightshade has the following traits.
 
 _Strength_: Any creature that can physically manipulate other objects has at least 1 point of Strength. A creature with no Strength score can’t exert force, usually because it has no physical body or because it doesn’t move. The creature automatically fails Strength checks. If the creature can attack, it applies its Dexterity modifier to its base attack bonus instead of a Strength modifier.
 
-_Dexterity_: Any creature that can move has at least 1 point of Dexterity. A creature with no Dexterity score can’t move. If it can perform actions (such as casting spells), it applies its Intelligence modifier to initiative checks instead of a Dexterity modifier. The creature automatically fails Reflex saves and Dexterity checks.
+_Dexterity_: Any creature that can move has at least 1 point of Dexterity. A creature with no Dexterity score can’t move. If it can perform actions (such as casting spells), it applies its Intelligence modifier to initiative checks instead of a Dexterity modifier. Attacks against its Reflex Defense hit automatically, and it automatically fails Dexterity checks.
 
-_Constitution_: Any living creature has at least 1 point of Constitution. A creature with no Constitution has no body or no metabolism. It is immune to any effect that requires a Fortitude save unless the effect works on objects or is harmless. The creature is also immune to ability damage, ability drain, and energy drain, and automatically fails Constitution checks. A creature with no Constitution cannot tire and thus can run indefinitely without tiring (unless the creature’s description says it cannot run).
+_Constitution_: Any living creature has at least 1 point of Constitution. A creature with no Constitution has no body or no metabolism. It is immune to any effect that attacks Fortitude unless the effect works on objects or is harmless. The creature is also immune to ability damage, ability drain, and energy drain, and automatically fails Constitution checks. A creature with no Constitution cannot tire and thus can run indefinitely without tiring (unless the creature’s description says it cannot run).
 
 _Intelligence_: Any creature that can think, learn, or remember has at least 1 point of Intelligence. A creature with no Intelligence score is mindless, an automaton operating on simple instincts or programmed instructions. It has immunity to mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects) and automatically fails Intelligence checks.
 
@@ -940,7 +940,7 @@ _Traits_: A qlippoth has the following traits (unless otherwise noted in a creat
 
 - [[rangoric-srd/monsters/abilities/Resistance|Resistance]] to acid 10, electricity 10, and fire 10.
 
-- _[[rangoric-srd/monsters/abilities/Horrific Appearance|Horrific Appearance]] (Su)_: All qlippoth have such horrific and mind-rending shapes that those who gaze upon them suffer all manner of ill effects. A qlippoth can present itself as a standard action to assault the senses of all living creatures within 30 feet. The exact effects caused by a qlippoth's horrific appearance vary by the type of qlippoth. A successful Will save (DC 10 + 1/2 the qlippoth's Hit Dice + the qlippoth's Charisma modifier) reduces or negates the effect. This ability is a mind-affecting gaze attack.
+- _[[rangoric-srd/monsters/abilities/Horrific Appearance|Horrific Appearance]] (Su)_: All qlippoth have such horrific and mind-rending shapes that those who gaze upon them suffer all manner of ill effects. A qlippoth can present itself as a standard action to assault the senses of all living creatures within 30 feet. The exact effects caused by a qlippoth's horrific appearance vary by the type of qlippoth. It attacks Will (attack bonus 1/2 the qlippoth's Hit Dice + the qlippoth's Charisma modifier), and a miss reduces or negates the effect. This ability is a mind-affecting gaze attack.
 
 - [[rangoric-srd/monsters/abilities/Telepathy|Telepathy]].
 
@@ -954,7 +954,7 @@ _Traits_: A rakshasa has the following traits (unless otherwise noted in a creat
 
 - _[[rangoric-srd/monsters/abilities/Change Shape|Change Shape]] (Su)_: All rakshasas have the ability to change shape into any humanoid, as if using _[[rangoric-srd/spells/Alter Self|alter self]]_.
 
-- _Detect Thoughts (Su)_: A rakshasa can _[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ as per the spell of the same name. This effect functions at CL 18th. A rakshasa can suppress or resume this ability as a free action. When a rakshasa uses this ability, it always functions as if it had spent 3 rounds concentrating and thus gains the maximum amount of information possible. The Will save DC to resist this effect is equal to 10 + 1/2 the rakshasa’s HD + the rakshasa’s Charisma modifier.
+- _Detect Thoughts (Su)_: A rakshasa can _[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ as per the spell of the same name. This effect functions at CL 18th. A rakshasa can suppress or resume this ability as a free action. When a rakshasa uses this ability, it always functions as if it had spent 3 rounds concentrating and thus gains the maximum amount of information possible. This effect attacks Will, with an attack bonus equal to 1/2 the rakshasa’s HD + the rakshasa’s Charisma modifier.
 
 - _Enhanced Defenses (Ex)_: All rakshasas have [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] that can be penetrated by good and piercing weapons only. The amount of damage reduction varies according to the specific rakshasa. In addition, rakshasas are exceptionally resistant to magic, and possess [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] equal to their CR + 15.
 
@@ -978,7 +978,7 @@ _Traits_: A rakshasa has the following traits (unless otherwise noted in a creat
 
 - _Giant type_: a [[#^humanoid|humanoid]] with the [[#^giant|giant subtype]].
 
-A stat block worked out under the older type rules keeps the numbers it was worked out with (Hit Dice, base attack, saves, feats and skill points).
+A stat block worked out under the older type rules keeps the numbers it was worked out with (Hit Dice, base attack, defenses, feats and skill points).
 
 **Sasquatch Subtype**: A humanoid subtype for [[rangoric-srd/monsters/Sasquatch|sasquatches]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^sasquatch
 
@@ -1002,7 +1002,7 @@ _Extraordinary_: Extraordinary abilities are nonmagical, don’t become ineffect
 
 _Spell-Like_: See [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]].
 
-_Supernatural_: Supernatural abilities are magical and go away in an antimagic field but are not subject to spell resistance. Supernatural abilities cannot be dispelled. Using a supernatural ability is a standard action unless noted otherwise. Supernatural abilities may have a use limit or be usable at will, just like spell-like abilities. However, supernatural abilities do not provoke attacks of opportunity and never require Concentration checks. Unless otherwise noted, a supernatural ability has an effective caster level equal to the creature’s Hit Dice. The saving throw (if any) against a supernatural ability is 10 + 1/2 the creature’s HD + the creature’s ability modifier (usually Charisma).
+_Supernatural_: Supernatural abilities are magical and go away in an antimagic field but are not subject to spell resistance. Supernatural abilities cannot be dispelled. Using a supernatural ability is a standard action unless noted otherwise. Supernatural abilities may have a use limit or be usable at will, just like spell-like abilities. However, supernatural abilities do not provoke attacks of opportunity and never require Concentration checks. Unless otherwise noted, a supernatural ability has an effective caster level equal to the creature’s Hit Dice. The attack bonus (if any) of a supernatural ability is 1/2 the creature’s HD + the creature’s ability modifier (usually Charisma).
 
 **Spell Immunity (Ex)**: See [[rangoric-srd/monsters/abilities/Spell Immunity|spell immunity]]. ^spell-immunity
 
@@ -1020,7 +1020,7 @@ A spellcasting creature is not actually a member of a class unless its entry say
 
 **Swallow Whole (Ex)**: See [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]]. ^swallow-whole
 
-**Swarm Subtype**: A swarm is a collection of Fine, Diminutive, or Tiny creatures that acts as a single creature. A swarm has the characteristics of its type, except as noted here. A swarm has a single pool of Hit Dice and hit points, a single initiative modifier, a single speed, and a single Armor Class. A swarm makes saving throws as a single creature. A single swarm occupies a square (if it is made up of nonflying creatures) or a cube (of flying creatures) 10 feet on a side, but its reach is 0 feet, like its component creatures. In order to attack, it moves into an opponent’s space, which provokes an attack of opportunity. It can occupy the same space as a creature of any size, since it crawls all over its prey. A swarm can move through squares occupied by enemies and vice versa without impediment, although the swarm provokes an attack of opportunity if it does so. A swarm can move through cracks or holes large enough for its component creatures. ^swarm
+**Swarm Subtype**: A swarm is a collection of Fine, Diminutive, or Tiny creatures that acts as a single creature. A swarm has the characteristics of its type, except as noted here. A swarm has a single pool of Hit Dice and hit points, a single initiative modifier, a single speed, and a single Armor Class. A swarm has a single set of defenses, as a single creature. A single swarm occupies a square (if it is made up of nonflying creatures) or a cube (of flying creatures) 10 feet on a side, but its reach is 0 feet, like its component creatures. In order to attack, it moves into an opponent’s space, which provokes an attack of opportunity. It can occupy the same space as a creature of any size, since it crawls all over its prey. A swarm can move through squares occupied by enemies and vice versa without impediment, although the swarm provokes an attack of opportunity if it does so. A swarm can move through cracks or holes large enough for its component creatures. ^swarm
 
 A swarm of Tiny creatures consists of 300 nonflying creatures or 1,000 flying creatures. A swarm of Diminutive creatures consists of 1,500 nonflying creatures or 5,000 flying creatures. A swarm of Fine creatures consists of 10,000 creatures, whether they are flying or not. Swarms of nonflying creatures include many more creatures than could normally fit in a 10-foot square based on their normal space, because creatures in a swarm are packed tightly together and generally crawl over each other and their prey when moving or attacking. Larger swarms are represented by multiples of single swarms. The area occupied by a large swarm is completely shapeable, though the swarm usually remains in contiguous squares.
 
@@ -1044,7 +1044,7 @@ A swarm’s attacks are nonmagical, unless the swarm’s description states othe
 
 Swarms do not threaten creatures in their square, and do not make attacks of opportunity with their swarm attack. However, they distract foes whose squares they occupy, as described below.
 
-_Distraction (Ex)_: Any living creature vulnerable to a swarm’s damage that begins its turn with a swarm in its square is nauseated for 1 round; a Fortitude save (DC 10 + 1/2 swarm’s HD + swarm’s Con modifier; the exact DC is given in a swarm’s description) negates the effect. Spellcasting or concentrating on spells within the area of a swarm requires a [[rangoric-srd/spells/Magic Overview#Concentration|Concentration]] check (DC 20 + spell level). Using skills that involve patience and concentration requires a DC 20 Concentration check.
+_Distraction (Ex)_: Any living creature vulnerable to a swarm’s damage that begins its turn with a swarm in its square is attacked against Fortitude (attack bonus 1/2 swarm’s HD + swarm’s Con modifier; the exact bonus is given in a swarm’s description), and on a hit is nauseated for 1 round. Spellcasting or concentrating on spells within the area of a swarm requires a [[rangoric-srd/spells/Magic Overview#Concentration|Concentration]] check (DC 20 + spell level). Using skills that involve patience and concentration requires a DC 20 Concentration check.
 
 **Telepathy (Su)**: See [[rangoric-srd/monsters/abilities/Telepathy|telepathy]]. ^telepathy
 
@@ -1094,7 +1094,7 @@ _Features_: An undead creature has the following features.
 
 _Traits_: An undead creature possesses the following traits (unless otherwise noted in a creature’s entry).
 
-- No Constitution score. Undead use their Charisma score in place of their Constitution score when calculating hit points, Fortitude saves, and any special ability that relies on Constitution (such as a breath weapon’s DC).
+- No Constitution score. Undead use their Charisma score in place of their Constitution score when calculating hit points, Fortitude Defense, and any special ability that relies on Constitution (such as a breath weapon’s attack bonus).
 
 - Darkvision out to 60 feet.
 
@@ -1106,7 +1106,7 @@ _Traits_: An undead creature possesses the following traits (unless otherwise no
 
 - Cannot heal damage on its own if it has no Intelligence score, although it can be healed. Negative energy (such as an inflict spell) can heal undead creatures. The fast healing special quality works regardless of the creature’s Intelligence score.
 
-- Immunity to any effect that requires a Fortitude save (unless the effect also works on objects or is harmless).
+- Immunity to any effect that attacks Fortitude (unless the effect also works on objects or is harmless).
 
 - Uses its Charisma modifier for [[rangoric-srd/spells/Magic Overview#Concentration|Concentration]] checks.
 

@@ -15,7 +15,7 @@ full-attack: "2 claws +8 melee (1d6+4 plus grab) and bite +8 melee (1d6+4)"
 space-reach: "10 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., low-light vision, scent"
-saves: "Fort +10, Ref +5, Will +2"
+defenses: "Fort 20, Ref 15, Will 12"
 abilities: "Str 19, Dex 12, Con 18, Int 2, Wis 12, Cha 10"
 skills: "Perception +12"
 skill-ranks: "Perception 8"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +10, Ref +5, Will +2
+- **Defenses**: Fort 20, Ref 15, Will 12
 - **Abilities**: Str 19, Dex 12, Con 18, Int 2, Wis 12, Cha 10
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +12
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

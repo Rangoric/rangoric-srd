@@ -14,8 +14,8 @@ attack: "+1 pistols +15 ranged (1d8+1/19–20/×4)"
 full-attack: "+1 pistols +15/+15/+10/+10/+5 ranged (1d8+1/19–20/×4)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Pistols, stranger's shot"
-special-qualities: "Darkvision 60 ft., fear (10 ft., DC 21), channel resistance +4, stranger's luck, damage reduction 10/bludgeoning and magic, undead traits, spell resistance 21"
-saves: "Fort +9, Ref +10, Will +13"
+special-qualities: "Darkvision 60 ft., fear (10 ft., +11 vs Will), channel resistance +4, stranger's luck, damage reduction 10/bludgeoning and magic, undead traits, spell resistance 21"
+defenses: "Fort 19, Ref 20, Will 23"
 abilities: "Str 17, Dex 21, Con —, Int 11, Wis 18, Cha 18"
 skills: "Acrobatics +10, Animal Handling +15, Athletics +11, Intimidation +22, Perception +22, Stealth +13"
 skill-ranks: "Acrobatics 2, Animal Handling 7, Athletics 5, Intimidation 15, Perception 15, Stealth 5"
@@ -48,8 +48,8 @@ tags: [rangoric, rangoric/monster]
 - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Pistol|pistols]] +15/+15/+10/+10/+5 ranged (1d8+1/19–20/×4)
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pistols|Pistols]], [[rangoric-srd/monsters/abilities/Stranger's Shot|stranger's shot]]
-- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Fear|fear]] (10 ft., DC 21), [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/abilities/Stranger's Luck|stranger's luck]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/bludgeoning and magic, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 21
-- **Saves**: Fort +9, Ref +10, Will +13
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Fear|fear]] (10 ft., +11 vs Will), [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/abilities/Stranger's Luck|stranger's luck]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/bludgeoning and magic, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 21
+- **Defenses**: Fort 19, Ref 20, Will 23
 - **Abilities**: Str 17, Dex 21, Con —, Int 11, Wis 18, Cha 18
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +22, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Stealth|Stealth]] +13
 - **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (pistol), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Two-Weapon Fighting|Improved Two-Weapon Fighting]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]]

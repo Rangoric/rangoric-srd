@@ -14,9 +14,9 @@ cmd: "15"
 attack: "Touch +7 melee (1 fire plus burn) or slam +7 melee (1d6+2 plus 1 fire and burn)"
 full-attack: "Touch +7 melee (1 fire plus burn); or slam +7 melee (1d6+2 plus 1 fire and burn)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Burn (1d6, DC 14)"
-special-qualities: "Darkvision 60 ft., searing aura (20 ft., DC 14), heated flesh, damage reduction 5/magic, immunity to fire, elemental traits, vulnerability to cold"
-saves: "Fort +6, Ref +4, Will +3"
+special-attacks: "Burn (1d6, +4 vs Reflex)"
+special-qualities: "Darkvision 60 ft., searing aura (20 ft., +4 vs Fortitude), heated flesh, damage reduction 5/magic, immunity to fire, elemental traits, vulnerability to cold"
+defenses: "Fort 16, Ref 14, Will 13"
 abilities: "Str 15, Dex 11, Con 15, Int 8, Wis 10, Cha 10"
 skills: "Acrobatics +7, Athletics +9, Perception +7, Sense Motive +7, Stealth +11"
 skill-ranks: "Acrobatics 4, Athletics 4, Perception 4, Sense Motive 4, Stealth 4"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Touch +7 melee (1 fire plus [[rangoric-srd/monsters/abilities/Burn|burn]]) or slam +7 melee (1d6+2 plus 1 fire and [[rangoric-srd/monsters/abilities/Burn|burn]])
 - **Full Attack**: Touch +7 melee (1 fire plus [[rangoric-srd/monsters/abilities/Burn|burn]]); or slam +7 melee (1d6+2 plus 1 fire and [[rangoric-srd/monsters/abilities/Burn|burn]])
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Burn|Burn]] (1d6, DC 14)
-- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., searing aura (20 ft., DC 14), heated flesh, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/magic, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]], [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability]] to cold
-- **Saves**: Fort +6, Ref +4, Will +3
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Burn|Burn]] (1d6, +4 vs Reflex)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., searing aura (20 ft., +4 vs Fortitude), heated flesh, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/magic, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]], [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability]] to cold
+- **Defenses**: Fort 16, Ref 14, Will 13
 - **Abilities**: Str 15, Dex 11, Con 15, Int 8, Wis 10, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +11
 - **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]]
@@ -81,6 +81,6 @@ Although small, magmins are dangerous opponents. Their touch is effective agains
 
 A magmin’s natural weapons are treated as magic weapons for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
-**Heated Flesh (Ex)**: Any metal weapon striking a magmin must succeed at a DC 14 Fortitude save or melt and gain the broken condition. Another strike by the same weapon causes the metal weapon to be destroyed if it fails a second save. Wood weapons are destroyed after only one failed save. Unarmed and natural attacks made against the magmin deal 1 point of fire damage to the attacker. The save DC is Constitution-based.
+**Heated Flesh (Ex)**: The heat attacks any metal weapon striking a magmin at +4 vs Fortitude, and on a hit the weapon melts and gains the broken condition. Another strike by the same weapon causes the metal weapon to be destroyed if a second attack hits it. Wood weapons are destroyed after only one hit. Unarmed and natural attacks made against the magmin deal 1 point of fire damage to the attacker. The attack bonus is Constitution-based.
 
-**Searing Aura (Ex)**: A magmin radiates extremely high temperatures, and any creature that starts its turn within 20 feet of a magmin must succeed at a DC 14 Fortitude save or take 1d6 points of fire damage. The save DC is Constitution-based.
+**Searing Aura (Ex)**: A magmin radiates extremely high temperatures, and any creature that starts its turn within 20 feet of a magmin is attacked at +4 vs Fortitude, and on a hit takes 1d6 points of fire damage. The attack bonus is Constitution-based.

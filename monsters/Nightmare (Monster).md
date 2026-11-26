@@ -16,7 +16,7 @@ full-attack: "Bite +9 melee (1d4+4) and 2 hooves +4 melee (1d6+2 plus 1d4 fire)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Smoke, spell-like abilities"
 special-qualities: "Darkvision 60 ft."
-saves: "Fort +8, Ref +7, Will +3"
+defenses: "Fort 18, Ref 17, Will 13"
 abilities: "Str 18, Dex 15, Con 16, Int 13, Wis 13, Cha 12"
 skills: "Acrobatics +13, Fieldcraft +10, Intimidation +10, Perception +13, Sense Motive +10, Stealth +7, Theology +10"
 skill-ranks: "Acrobatics 10, Fieldcraft 6, Intimidation 6, Perception 8, Sense Motive 8, Stealth 6, Theology 6"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: Smoke, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft.
-- **Saves**: Fort +8, Ref +7, Will +3
+- **Defenses**: Fort 18, Ref 17, Will 13
 - **Abilities**: Str 18, Dex 15, Con 16, Int 13, Wis 13, Cha 12
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +7, [[rangoric-srd/skills/Theology|Theology]] +10
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -75,7 +75,7 @@ A nightmare can fight while carrying a rider, but the rider cannot also fight un
 
 **[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th): 1/day—_[[rangoric-srd/spells/Plane Shift|plane shift]]_ (self plus 1 rider only).
 
-**Smoke (Su)**: In battle, a nightmare exhales smoke that chokes and blinds foes, filling a 15-foot cone each round as a free action. Anyone in the cone must succeed on a DC 16 Fortitude save or become [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] until 1d6 minutes after leaving the area. This smoke acts as _[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]_ for the purposes of concealment. The smoke persists for 1 round. The save DC is Constitution-based.
+**Smoke (Su)**: In battle, a nightmare exhales smoke that chokes and blinds foes, filling a 15-foot cone each round as a free action. Anyone in the cone is attacked at +6 vs Fortitude, and on a hit becomes [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] until 1d6 minutes after leaving the area. This smoke acts as _[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]_ for the purposes of concealment. The smoke persists for 1 round. The attack bonus is Constitution-based.
 
 **Flaming Hooves (Su)**: A blow from a nightmare’s hooves sets combustible materials alight.
 

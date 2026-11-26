@@ -15,7 +15,7 @@ full-attack: "Bite +33 melee (4d6+21 plus 2d6 electricity and grab) and tail sla
 space-reach: "30 ft./30 ft."
 special-attacks: "Capsize, swallow whole (6d6 acid damage, AC 25, 29 hp)"
 special-qualities: "Darkvision 60 ft., low-light vision, carrier, no breath, starflight, immunity to cold, electricity and fire"
-saves: "Fort +23, Ref +10, Will +7"
+defenses: "Fort 33, Ref 20, Will 17"
 abilities: "Str 52, Dex 7, Con 29, Int 2, Wis 12, Cha 5"
 skills: "Acrobatics –10, Perception +24"
 skill-ranks: "Acrobatics 0, Perception 20"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 30 ft./30 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Capsize|Capsize]], [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (6d6 acid damage, AC 25, 29 hp)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Carrier|carrier]], [[rangoric-srd/monsters/abilities/No Breath|no breath]], [[rangoric-srd/monsters/abilities/Starflight|starflight]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, electricity and fire
-- **Saves**: Fort +23, Ref +10, Will +7
+- **Defenses**: Fort 33, Ref 20, Will 17
 - **Abilities**: Str 52, Dex 7, Con 29, Int 2, Wis 12, Cha 5
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –10, [[rangoric-srd/skills/Perception|Perception]] +24
 - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Staggering Critical|Staggering Critical]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
@@ -69,6 +69,6 @@ A typical oma is 150 feet long and weighs 250 tons.
 
 **[[rangoric-srd/monsters/abilities/Capsize|Capsize]] (Ex)**: An oma can attempt to capsize a ship or other vehicle by ramming it as a charge attack and attempting a combat maneuver check. The DC of this check is 25, or the result of the captain's Profession (sailor) check, whichever is higher. For each size category the ship is larger than the oma, the oma takes a cumulative -10 penalty on this combat maneuver check.
 
-**[[rangoric-srd/monsters/abilities/Carrier|Carrier]] (Ex)**: A creature swallowed whole by an oma can forgo attempts to cut itself out and instead attempt a DC 20 Reflex save on its turn. Success allows the creature to move into the creature's larger second stomach, where it can ride safely for an indefinite period without taking damage. When a passenger wishes to leave, it can cut its way free using the normal rules, or attempt an additional DC 20 Reflex save to be safely excreted in a square adjacent to the oma. An oma's carrier stomach can hold up to one Gargantuan creature (or twice as many creatures of the next smallest size: two Huge creatures, four Large, and so on). At its option, an oma can choose to forgo the normal bite damage of swallowing whole, but not the acid damage of the first stomach.
+**[[rangoric-srd/monsters/abilities/Carrier|Carrier]] (Ex)**: A creature swallowed whole by an oma can forgo attempts to cut itself out and instead attempt a DC 20 Reflex check (1d20 + Reflex save bonus) on its turn. Success allows the creature to move into the creature's larger second stomach, where it can ride safely for an indefinite period without taking damage. When a passenger wishes to leave, it can cut its way free using the normal rules, or attempt an additional DC 20 Reflex check to be safely excreted in a square adjacent to the oma. An oma's carrier stomach can hold up to one Gargantuan creature (or twice as many creatures of the next smallest size: two Huge creatures, four Large, and so on). At its option, an oma can choose to forgo the normal bite damage of swallowing whole, but not the acid damage of the first stomach.
 
 **[[rangoric-srd/monsters/abilities/Starflight|Starflight]] (Ex)**: An oma can survive in the void of outer space, and soars through vacuum at incredible speed. Although exact travel times vary, a trip between two planets within a solar system should take 3d20 days, while one to another system should take 3d20 weeks (or more, at the GM's discretion), provided the oma knows the way to its destination.

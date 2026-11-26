@@ -13,9 +13,9 @@ cmd: "35 (39 vs. trip)"
 attack: "Gore +21 melee (2d8+12) or slam +20 melee (2d6+12)"
 full-attack: "Gore +21 melee (2d8+12) and slam +20 melee (2d6+12)"
 space-reach: "15 ft./15 ft."
-special-attacks: "Trample (2d8+18, DC 29)"
+special-attacks: "Trample (2d8+18, +19 vs Reflex)"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +14, Ref +10, Will +7"
+defenses: "Fort 24, Ref 20, Will 17"
 abilities: "Str 34, Dex 12, Con 21, Int 2, Wis 13, Cha 7"
 skills: "Perception +24"
 skill-ranks: "Perception 20"
@@ -47,9 +47,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Gore +21 melee (2d8+12) or slam +20 melee (2d6+12)
 - **Full Attack**: Gore +21 melee (2d8+12) and slam +20 melee (2d6+12)
 - **Space/Reach**: 15 ft./15 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Trample|Trample]] (2d8+18, DC 29)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Trample|Trample]] (2d8+18, +19 vs Reflex)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +14, Ref +10, Will +7
+- **Defenses**: Fort 24, Ref 20, Will 17
 - **Abilities**: Str 34, Dex 12, Con 21, Int 2, Wis 13, Cha 7
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +24
 - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (gore)

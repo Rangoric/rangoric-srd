@@ -15,7 +15,7 @@ full-attack: "Bite +6 melee (1d8+4 plus paralysis)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Dance of death"
 special-qualities: "Darkvision 60 ft., low-light vision, damage reduction 5/bludgeoning, construct traits"
-saves: "Fort +1, Ref +4, Will +1"
+defenses: "Fort 11, Ref 14, Will 11"
 abilities: "Str 16, Dex 17, Con —, Int —, Wis 11, Cha 1"
 skills: "Stealth +15"
 skill-ranks: "Stealth 9"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Dance of Death|Dance of death]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/bludgeoning, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]]
-- **Saves**: Fort +1, Ref +4, Will +1
+- **Defenses**: Fort 11, Ref 14, Will 11
 - **Abilities**: Str 16, Dex 17, Con —, Int —, Wis 11, Cha 1
 - **Skills**: [[rangoric-srd/skills/Stealth|Stealth]] +15
 - **Feats**: —
@@ -71,9 +71,9 @@ A typical necrophidius is 10 feet long and weighs 200 pounds.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Dance of Death|Dance of Death]] (Ex)**: A necrophidius can entrance opponents by swaying back and forth as a full-round action. All creatures within 30 feet who can see the necrophidius when it uses its dance of death must succeed on a DC 15 Will save or be [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|dazed]] for 2d4 rounds. This is a mind-affecting effect. The save DC is Constitution-based and includes a +4 racial bonus.
+**[[rangoric-srd/monsters/abilities/Dance of Death|Dance of Death]] (Ex)**: A necrophidius can entrance opponents by swaying back and forth as a full-round action. All creatures within 30 feet who can see the necrophidius when it uses its dance of death are attacked at +5 vs Will, and on a hit are [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|dazed]] for 2d4 rounds. This is a mind-affecting effect. The attack bonus is Constitution-based and includes a +4 racial bonus.
 
-**[[rangoric-srd/monsters/abilities/Paralysis|Paralysis]] (Su)**: Any living creature that is bitten by a necrophidius must succeed on a DC 13 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] for 1d4 rounds. The save DC is Constitution-based and includes a +2 racial bonus.
+**[[rangoric-srd/monsters/abilities/Paralysis|Paralysis]] (Su)**: Any living creature that is bitten by a necrophidius is attacked at +3 vs Fortitude, and on a hit is [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] for 1d4 rounds. The attack bonus is Constitution-based and includes a +2 racial bonus.
 
 ### Construction
 

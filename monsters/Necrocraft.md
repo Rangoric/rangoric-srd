@@ -15,7 +15,7 @@ full-attack: "2 claws +5 melee (1d4+2) and bite +5 melee (1d6+2)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., Construction Points (additional movement [fly], extra attack [bite]), undead traits"
-saves: "Fort +2, Ref +2, Will +4"
+defenses: "Fort 12, Ref 12, Will 14"
 abilities: "Str 15, Dex 13, Con —, Int —, Wis 10, Cha 13"
 skills: "Investigation +4"
 skill-ranks: ""
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., Construction Points (additional movement \[fly\], extra attack \[bite\]), [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-- **Saves**: Fort +2, Ref +2, Will +4
+- **Defenses**: Fort 12, Ref 12, Will 14
 - **Abilities**: Str 15, Dex 13, Con —, Int —, Wis 10, Cha 13
 - **Skills**: [[rangoric-srd/skills/Investigation|Investigation]] +4
 - **Feats**: [[rangoric-srd/feats/Toughness|Toughness]]
@@ -91,7 +91,7 @@ _Cannibalize (Ex, 1 CP)_: If the necrocraft is left near the corpse of a Medium 
 
 _Constrict (Ex, 1 CP)_: The necrocraft's claw attacks gain the constrict ability. It must have grab before this ability can be selected.
 
-_Disease (Su, 1 CP)_: One of the necrocraft's natural attacks is grafted with ghoul mouthparts, exposing a creature it hits to ghoul fever. _[[rangoric-srd/rules/afflictions/Ghoul Fever|Ghoul Fever]]_: Bite, claw, or slam—injury; _save_ Fort DC 13; _onset_ 1 day; _frequency_ 1/day; _effect_ 1d3 Con damage and 1d3 Dex damage; _cure_ 2 consecutive saves. The save DC is Charisma-based. A humanoid who dies of ghoul fever rises as a ghoul at the next midnight. A humanoid who becomes a ghoul in this way retains none of the abilities it possessed in life. It is not under the control of any other ghouls, but it hungers for the flesh of the living and behaves like a normal ghoul in all respects. A humanoid of 4 Hit Dice or more rises as a ghast.
+_Disease (Su, 1 CP)_: One of the necrocraft's natural attacks is grafted with ghoul mouthparts, exposing a creature it hits to ghoul fever. _[[rangoric-srd/rules/afflictions/Ghoul Fever|Ghoul Fever]]_: Bite, claw, or slam—injury; _attack_ +3 vs Fortitude; _onset_ 1 day; _frequency_ 1/day; _effect_ 1d3 Con damage and 1d3 Dex damage; _cure_ 2 consecutive misses. The attack bonus is Charisma-based. A humanoid who dies of ghoul fever rises as a ghoul at the next midnight. A humanoid who becomes a ghoul in this way retains none of the abilities it possessed in life. It is not under the control of any other ghouls, but it hungers for the flesh of the living and behaves like a normal ghoul in all respects. A humanoid of 4 Hit Dice or more rises as a ghast.
 
 _Extra Attack (Ex, 1 CP)_: The necrocraft gains an additional bite attack or claw attack. This ability can be selected multiple times.
 
@@ -109,14 +109,14 @@ _Mostly Skeletons (Ex, 1 CP)_: Most of the necrocraft's parts come from undead s
 
 _Mostly Zombies (Ex, 1 CP)_: Most of the necrocraft's parts come from zombies. The necrocraft gains DR 5/slashing and 5 additional hit points. This ability can't be added to a necrocraft with the mostly skeletons ability.
 
-_Paralysis (Su, 2 CP)_: Up to three of necrocraft's natural attacks gain the paralysis ability (1d4+1 rounds, DC 13, elves are immune to this effect). This graft requires the body of at least 1 ghoul. For an additional Construction Point, the paralysis ability can affect elves.
+_Paralysis (Su, 2 CP)_: Up to three of necrocraft's natural attacks gain the paralysis ability (1d4+1 rounds, +3 vs Fortitude, elves are immune to this effect). This graft requires the body of at least 1 ghoul. For an additional Construction Point, the paralysis ability can affect elves.
 
 _Reach Attacks (Ex, 1 CP)_: Up to two of the necrocraft's natural attacks increase their natural reach by 5 feet. This ability can be selected multiple times.
 
 _Rending Claws (Ex, 2 CP)_: The necrocraft gains the rend ability, activating when both claws hit and dealing additional damage equal to the damage dice for one claw plus 1-1/2 times the necrocraft's Strength bonus.
 
-_Rotting Flesh (Ex, 2 CP)_: Two of the necrocraft's bite or claw attacks are poisonous. _[[rangoric-srd/monsters/abilities/Poison|Poison]]_: bite or claw—injury; _save_ Fort DC 15; _frequency_ 1/round for 2 rounds; _effect_ 1d3 Constitution damage; _cure_ 1 save.
+_Rotting Flesh (Ex, 2 CP)_: Two of the necrocraft's bite or claw attacks are poisonous. _[[rangoric-srd/monsters/abilities/Poison|Poison]]_: bite or claw—injury; _attack_ +5 vs Fortitude; _frequency_ 1/round for 2 rounds; _effect_ 1d3 Constitution damage; _cure_ 1 miss.
 
-_Stench (Ex, 2 CP)_: The necrocraft has the stench ability (10-foot radius, Fort DC 15 negates, [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1d6+4 minutes). This graft requires the body of at least one ghoul.
+_Stench (Ex, 2 CP)_: The necrocraft has the stench ability (10-foot radius, +5 vs Fortitude, [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1d6+4 minutes). This graft requires the body of at least one ghoul.
 
 _Trample (Ex, 2 CP)_: The necrocraft gains the trample universal monster ability as a special attack.

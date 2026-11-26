@@ -21,7 +21,7 @@ Monsters who naturally possess psionic ability are not found as phrenic creature
 
 Size and Type: The creature’s type does not change, unless it is an animal (in which case it becomes a [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]] \[augmented animal\]). It gains the psionic subtype.
 
-Psi-Like Abilities (Sp): A phrenic creature possesses the psi-like abilities indicated below, depending on its Hit Dice. The abilities are cumulative. Unless otherwise noted, an ability is usable once per day. Manifester level is equal to the creature’s HD. The save DCs for a phrenic creature’s psi-like abilities are Charisma-based.
+Psi-Like Abilities (Sp): A phrenic creature possesses the psi-like abilities indicated below, depending on its Hit Dice. The abilities are cumulative. Unless otherwise noted, an ability is usable once per day. Manifester level is equal to the creature’s HD. The attack bonuses for a phrenic creature’s psi-like abilities are Charisma-based.
 
 | HD    | Abilities                                                                                                                                   |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -13,9 +13,9 @@ cmd: "37 (can't be tripped)"
 attack: "Tongue +21 melee (3d6+10/19–20 plus grab)"
 full-attack: "4 tongues +21 melee (3d6+10/19–20 plus grab)"
 space-reach: "20 ft./20 ft."
-special-attacks: "Breath weapon (50-ft. cone, 14d10 acid, Reflex DC 27 half, once every 1d4 rounds), mind thrust, psychic crush, swallow whole (2d6+10 plus 2d6 acid, AC 23, hp 23), spell-like abilities"
+special-attacks: "Breath weapon (50-ft. cone, 14d10 acid, +17 vs Reflex; a miss halves, once every 1d4 rounds), mind thrust, psychic crush, swallow whole (2d6+10 plus 2d6 acid, AC 23, hp 23), spell-like abilities"
 special-qualities: "Blindsight 100 ft., trace teleport 60 ft., telepathy 100 ft., damage reduction 10/cold iron, spell resistance 26"
-saves: "Fort +15, Ref +4, Will +16"
+defenses: "Fort 25, Ref 14, Will 26"
 abilities: "Str 30, Dex 7, Con 24, Int 16, Wis 15, Cha 21"
 skills: "Acrobatics –4, Arcana +26, Athletics +33, Deception +25, Intimidation +28, Mysticism +26, Perception +25, Persuasion +25"
 skill-ranks: "Acrobatics 1, Arcana 20, Athletics 20, Deception 17, Intimidation 20, Mysticism 20, Perception 20, Persuasion 17"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Tongue +21 melee (3d6+10/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
 - **Full Attack**: 4 tongues +21 melee (3d6+10/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
 - **Space/Reach**: 20 ft./20 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (50-ft. cone, 14d10 acid, Reflex DC 27 half, once every 1d4 rounds), mind thrust, psychic crush, [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (2d6+10 plus 2d6 acid, AC 23, hp 23), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (50-ft. cone, 14d10 acid, +17 vs Reflex; a miss halves, once every 1d4 rounds), mind thrust, psychic crush, [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (2d6+10 plus 2d6 acid, AC 23, hp 23), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 100 ft., trace teleport 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 26
-- **Saves**: Fort +15, Ref +4, Will +16
+- **Defenses**: Fort 25, Ref 14, Will 26
 - **Abilities**: Str 30, Dex 7, Con 24, Int 16, Wis 15, Cha 21
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –4, [[rangoric-srd/skills/Arcana|Arcana]] +26, [[rangoric-srd/skills/Athletics|Athletics]] +33, [[rangoric-srd/skills/Deception|Deception]] +25, [[rangoric-srd/skills/Intimidation|Intimidation]] +28, [[rangoric-srd/skills/Mysticism|Mysticism]] +26, [[rangoric-srd/skills/Perception|Perception]] +25, [[rangoric-srd/skills/Persuasion|Persuasion]] +25
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (tongue), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Quicken Spell-Like Ability|Quicken Spell-Like Ability]] (suggestion)
@@ -74,10 +74,10 @@ The psionic version is [[rangoric-srd/monsters/Neothelid, Psionic|Neothelid, Psi
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 20th): Constant—_[[rangoric-srd/spells/Fly|fly]]_; At will—_[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ (DC 17), _[[rangoric-srd/spells/Charm Monster|charm monster]]_ (DC 19), _[[rangoric-srd/spells/Clairaudience-Clairvoyance|clairvoyance/clairaudience]], [[rangoric-srd/spells/Suggestion|suggestion]]_ (DC 18), _[[rangoric-srd/spells/Telekinesis|telekinesis]]_ (DC 20), _[[rangoric-srd/spells/Teleport|teleport]], [[rangoric-srd/spells/Poison|poison]]_ (DC 19); 3/day-quickened _[[rangoric-srd/spells/Suggestion|suggestion]]_ (DC 18).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 20th): Constant—_[[rangoric-srd/spells/Fly|fly]]_; At will—_[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ (+7 vs Will), _[[rangoric-srd/spells/Charm Monster|charm monster]]_ (+9 vs Will), _[[rangoric-srd/spells/Clairaudience-Clairvoyance|clairvoyance/clairaudience]], [[rangoric-srd/spells/Suggestion|suggestion]]_ (+8 vs Will), _[[rangoric-srd/spells/Telekinesis|telekinesis]]_ (+10 vs Will), _[[rangoric-srd/spells/Teleport|teleport]], [[rangoric-srd/spells/Poison|poison]]_ (+9 vs Fortitude); 3/day-quickened _[[rangoric-srd/spells/Suggestion|suggestion]]_ (+8 vs Will).
 
-**Mind Thrust (Su)**: As a standard action up to three times a day, a neothelid can deliver a massive blast of mental energy at any one target within 60 feet, inflicting 15d10 points of damage. A successful DC 25 Will save negates the effect. This effect can only harm creatures with Intelligence scores. This is a mind-affecting effect. The save DC is Charisma-based.
+**Mind Thrust (Su)**: As a standard action up to three times a day, a neothelid can deliver a massive blast of mental energy at any one target within 60 feet, inflicting 15d10 points of damage. It attacks at +15 vs Will, and a miss negates the effect. This effect can only harm creatures with Intelligence scores. This is a mind-affecting effect. The attack bonus is Charisma-based.
 
-**Psychic Crush (Su)**: As a standard action up to three times a day, a neothelid can attempt to crush the mind of a single creature within 60 feet. The target must make a DC 25 Will save or collapse, becoming [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]] and dying at –1 hit points. If the target succeeds on the save, it takes 6d6 points of damage and is [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1 round. This is a mind-affecting effect. The save DC is Charisma-based.
+**Psychic Crush (Su)**: As a standard action up to three times a day, a neothelid can attempt to crush the mind of a single creature within 60 feet. It attacks the target at +15 vs Will, and on a hit the target collapses, becoming [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]] and dying at –1 hit points. If it misses, the target takes 6d6 points of damage and is [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1 round. This is a mind-affecting effect. The attack bonus is Charisma-based.
 
 **Trace Teleport (Ex)**: A neothelid telepathically and reflexively learns the mental coordinates of the destination, of all creatures that teleport within 60 feet of it, gaining an awareness of the location equivalent to “seen casually.” This knowledge fades and is lost after 1 minute. This power does not grant any environmental information about the conditions of the destination.
