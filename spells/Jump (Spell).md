@@ -23,7 +23,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "1 min./level (D)"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Jump (Spell)|Jump (Spell) (3.5)]]"
@@ -43,7 +43,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: 1 min./level (D)
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes
 
 The subject gets a +10 enhancement bonus on [[rangoric-srd/skills/Athletics|Athletics]] checks. The enhancement bonus increases to +20 at caster level 5th, and to +30 (the maximum) at caster level 9th.

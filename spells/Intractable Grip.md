@@ -11,7 +11,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./level)"
 target: "One creature"
 duration: "1 round/level"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Spells & Magic"
 based-on:
@@ -32,7 +32,7 @@ _Enchantment_
 - **Range**: Close (25 ft. + 5 ft./level)
 - **Target**: One creature
 - **Duration**: 1 round/level
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 Any object held by the subject seems to have a life of its own. Rope, tools and other items used in conjunction with skills lose any bonuses they grant to those skills, and the subject suffers a further 5 circumstance penalty if the tools or objects are required for the use of the skill.

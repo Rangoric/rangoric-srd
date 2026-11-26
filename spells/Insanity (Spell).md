@@ -20,7 +20,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 target: "One living creature"
 duration: "Instantaneous"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Insanity (Spell)|Insanity (Spell) (3.5)]]"
@@ -40,7 +40,7 @@ _Enchantment (Compulsion) \[Mind-Affecting\]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Target**: One living creature
 - **Duration**: Instantaneous
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 The affected creature suffers from a continuous confusion effect, as the spell.

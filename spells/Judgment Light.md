@@ -35,7 +35,7 @@ _Evocation \[Light\]_
 
 An inquisitor may only cast this spell while she has a [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-judgment|judgment]] active. When she does cast this spell, it causes one or more of the following effects based on the inquisitor's active judgments.
 
-_[[rangoric-srd/class-options/judgments/Destruction (Judgment)|Destruction]]_: Red light erupts from the caster. Enemies in the area take 4d8 points of damage and become shaken for 1d4 rounds. A successful Will saving throw halves the damage and negates the shaken effect.
+_[[rangoric-srd/class-options/judgments/Destruction (Judgment)|Destruction]]_: Red light erupts from the caster. Enemies in the area take 4d8 points of damage and become shaken for 1d4 rounds. The spell attacks Will, and a miss halves the damage and negates the shaken effect.
 
 _[[rangoric-srd/class-options/judgments/Healing (Judgment)|Healing]]_: Green light erupts from the caster. Allies in the area regain a number of hit points equal to 1d8 + the caster's Wisdom modifier.
 
@@ -45,7 +45,7 @@ _[[rangoric-srd/class-options/judgments/Piercing (Judgment)|Piercing]]_: Violet 
 
 _[[rangoric-srd/class-options/judgments/Protection (Judgment)|Protection]]_: Amber light erupts from the caster, granting allies in the burst a +2 sacred bonus to AC and CMD, and a +4 bonus to AC against critical confirmation attack rolls for 1 round per caster level.
 
-_[[rangoric-srd/class-options/judgments/Purity (Judgment)|Purity]]_: White light erupts from the caster, allowing each ally within the burst to attempt a saving throw against a single effect that allows a saving throw with a +2 sacred bonus on the roll.
+_[[rangoric-srd/class-options/judgments/Purity (Judgment)|Purity]]_: White light erupts from the caster, allowing each ally within the burst to make a single effect that attacked one of its defenses attack it again, with a +2 sacred bonus to that defense, and a miss ends the effect.
 
 _[[rangoric-srd/class-options/judgments/Resiliency (Judgment)|Resiliency]]_: Golden light erupts from the caster, granting allies within the burst DR 3/magic or the alignment your judgment allows for 1 round per caster level.
 

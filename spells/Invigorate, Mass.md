@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Touch"
 targets: "Creatures touched, up to one/level"
 duration: "10 minutes/level (D)"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Advanced Player's Guide"
 based-on:
@@ -36,7 +36,7 @@ _Illusion \[Figment\]_
 - **Range**: Touch
 - **Targets**: Creatures touched, up to one/level
 - **Duration**: 10 minutes/level (D)
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 This spell work as _[[rangoric-srd/spells/Invigorate|invigorate]]_, except it affects multiple creatures.

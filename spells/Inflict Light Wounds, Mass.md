@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature/level, no two of which can be more than 30 ft. apart"
 duration: "Instantaneous"
-saving-throw: "Will half"
+defense: "Will half"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Inflict Light Wounds, Mass|Inflict Light Wounds, Mass (3.5)]]"
@@ -36,7 +36,7 @@ _Necromancy_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature/level, no two of which can be more than 30 ft. apart
 - **Duration**: Instantaneous
-- **Saving Throw**: Will half
+- **Defense**: Will half
 - **Spell Resistance**: Yes
 
 Negative energy spreads out in all directions from the point of origin, dealing 1d8 points of damage +1 point per caster level (maximum +25) to nearby living enemies.

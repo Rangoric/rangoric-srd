@@ -12,7 +12,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Weapon touched"
 duration: "1 minute/level"
-saving-throw: "Will negates (harmless, object), see text"
+defense: "Will (harmless, object), see text"
 spell-resistance: "Yes (harmless, object), see text"
 book: "Ultimate Combat"
 based-on:
@@ -33,7 +33,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: Weapon touched
 - **Duration**: 1 minute/level
-- **Saving Throw**: Will negates (harmless, object), see text
+- **Defense**: Will (harmless, object), see text
 - **Spell Resistance**: Yes (harmless, object), see text
 
-You cause a weapon to exude a palpable aura of divine fury. While wielding this weapon, a creature gains a +2 morale bonus on Intimidation checks. When an attack made using the targeted weapon hits, the wielder can spend a free action to discharge the effect to inflict agony on the creature the weapon hit. If that creature has spell resistance, it applies against this effect. If the creature fails a Will save, it is nauseated for 1d4+1 rounds. If it succeeds at the saving throw, the creature is instead sickened for 1 round. The sickened condition created by the instrument is a mind-affecting effect.
+You cause a weapon to exude a palpable aura of divine fury. While wielding this weapon, a creature gains a +2 morale bonus on Intimidation checks. When an attack made using the targeted weapon hits, the wielder can spend a free action to discharge the effect to inflict agony on the creature the weapon hit. If that creature has spell resistance, it applies against this effect. If the spell hits the creature’s Will, it is nauseated for 1d4+1 rounds. On a miss, the creature is instead sickened for 1 round. The sickened condition created by the instrument is a mind-affecting effect.

@@ -24,7 +24,7 @@ components:
   - "S"
 target: "You or creature touched"
 duration: "1 round/level (D)"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Invisibility, Greater|Invisibility, Greater (3.5)]]"
 status: draft
@@ -41,6 +41,6 @@ _Illusion (Glamer)_
 - **Components**: V, S
 - **Target**: You or creature touched
 - **Duration**: 1 round/level (D)
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 
 This spell functions like [[rangoric-srd/spells/Invisibility|invisibility]], except that it doesn’t end if the subject attacks.

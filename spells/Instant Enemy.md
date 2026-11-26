@@ -12,7 +12,7 @@ casting-time: "1 swift action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature that is not your favored enemy."
 duration: "1 minute/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Advanced Player's Guide"
 based-on:
@@ -33,7 +33,7 @@ _Enchantment_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature that is not your favored enemy.
 - **Duration**: 1 minute/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 With this spell you designate the target as your favored enemy for the remainder of its duration. Select one of your favored enemy types. For the duration of the spell, you treat the target as if it were that type of favored enemy for all purposes.

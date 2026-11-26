@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "One living creature"
 duration: "Instantiations"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Advanced Player's Guide"
 based-on:
@@ -35,7 +35,7 @@ _Conjuration (Teleportation)_
 - **Range**: Touch
 - **Target**: One living creature
 - **Duration**: Instantiations
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 You teleport the target to a space you can see within 30 feet of the target. The destination must be on solid ground, and the teleportation cannot end in a space that is by nature hazardous to the creature you are teleporting.

@@ -28,7 +28,7 @@ casting-time: "1 standard action"
 range: "Personal or touch"
 target: "You or a creature or object weighing no more than 100 lb./level"
 duration: "1 min./level (D)"
-saving-throw: "Will negates (harmless) or Will negates (harmless, object)"
+defense: "Will (harmless) or Will (harmless, object)"
 spell-resistance: "Yes (harmless) or Yes (harmless, object)"
 based-on:
   - "[[fantasy srd 3.5/spells/Invisibility|Invisibility (3.5)]]"
@@ -48,7 +48,7 @@ _Illusion (Glamer)_
 - **Range**: Personal or touch
 - **Target**: You or a creature or object weighing no more than 100 lb./level
 - **Duration**: 1 min./level (D)
-- **Saving Throw**: Will negates (harmless) or Will negates (harmless, object)
+- **Defense**: Will (harmless) or Will (harmless, object)
 - **Spell Resistance**: Yes (harmless) or Yes (harmless, object)
 
 The creature or object touched becomes [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]], vanishing from sight, even from darkvision. If the recipient is a creature carrying gear, that vanishes, too. If you cast the spell on someone else, neither you nor your allies can see the subject, unless you can normally see invisible things or you employ magic to do so.

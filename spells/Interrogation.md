@@ -18,7 +18,7 @@ casting-time: "1 round"
 range: "Touch"
 target: "Living creature touched"
 duration: "1 minute/level"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -39,7 +39,7 @@ _Necromancy \[Evil, Pain\]_
 - **Range**: Touch
 - **Target**: Living creature touched
 - **Duration**: 1 minute/level
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
 You question the target, backed up by the threat of magical pain. You may ask one question per two caster levels. The target can either answer the question or take 1d4 points of damage plus your Wisdom bonus. The target is not compelled to answer truthfully, but the threat of pain gives it a –4 penalty on Deception checks to convince you when it is lying.

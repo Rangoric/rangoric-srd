@@ -15,7 +15,7 @@ casting-time: "1 round"
 range: "Touch"
 target: "Living creature touched"
 duration: "1 minute/level"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -36,7 +36,7 @@ _Necromancy \[Evil, Pain\]_
 - **Range**: Touch
 - **Target**: Living creature touched
 - **Duration**: 1 minute/level
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
 This spell functions as _[[rangoric-srd/spells/Interrogation|interrogation]]_, except you may ask one question per caster level and the spell deals damage equal to 1d8 points plus your Wisdom bonus if the target doesn't answer a question.
