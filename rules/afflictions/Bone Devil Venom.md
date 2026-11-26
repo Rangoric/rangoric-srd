@@ -4,11 +4,11 @@ section: "Rules"
 book: "Bestiary"
 affliction-type: "poison"
 delivery: "injury"
-save: "Fortitude DC 20"
-save-dc: 20
+attack: "+10 vs Fortitude"
+attack-bonus: 10
 frequency: "1/round for 6 rounds"
 effect: "1d3 Str"
-cure: "2 consecutive saves"
+cure: "2 consecutive misses"
 based-on:
   - "[[path srd 3.5/monsters/Devil, Bone|Devil, Bone (PF1)]]"
 status: draft
@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/affliction]
 A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the [[rangoric-srd/monsters/devil/Bone Devil (Osyluth)|bone devil]]'s sting.
 
 - **Type**: poison, injury
-- **Save**: Fortitude DC 20
+- **Attack**: +10 vs Fortitude
 - **Frequency**: 1/round for 6 rounds
 - **Effect**: 1d3 Str damage
-- **Cure**: 2 consecutive saves
+- **Cure**: 2 consecutive misses

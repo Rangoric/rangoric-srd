@@ -4,11 +4,11 @@ section: "Rules"
 book: "Bestiary"
 affliction-type: "poison"
 delivery: "injury"
-save: "Fortitude DC 27"
-save-dc: 27
+attack: "+17 vs Fortitude"
+attack-bonus: 17
 frequency: "1/round for 6 rounds"
 effect: "1d4 Str, 1d4 Dex and 1d4 Con"
-cure: "3 saves"
+cure: "3 misses"
 based-on:
   - "[[path srd 3.5/monsters/Scorpion, Black|Scorpion, Black (PF1)]]"
 status: draft
@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/affliction]
 A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the [[rangoric-srd/monsters/scorpion/Black Scorpion|black scorpion]]'s sting.
 
 - **Type**: poison, injury
-- **Save**: Fortitude DC 27
+- **Attack**: +17 vs Fortitude
 - **Frequency**: 1/round for 6 rounds
 - **Effect**: 1d4 Strength damage, 1d4 Dexterity damage and 1d4 Constitution damage
-- **Cure**: 3 saves
+- **Cure**: 3 misses

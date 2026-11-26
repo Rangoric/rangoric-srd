@@ -4,11 +4,11 @@ section: "Rules"
 book: "Bestiary"
 affliction-type: "poison"
 delivery: "injury or contact"
-save: "Fortitude DC 17"
-save-dc: 17
+attack: "+7 vs Fortitude"
+attack-bonus: 7
 frequency: "1/round for 6 rounds"
 effect: "1d2 Con"
-cure: "2 saves"
+cure: "2 misses"
 based-on:
   - "[[path srd 3.5/monsters/Death Worm|Death Worm (PF1)]]"
 status: draft
@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/affliction]
 A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the [[rangoric-srd/monsters/Death Worm|death worm]]'s bite, and of its venomous skin.
 
 - **Type**: poison, injury or contact
-- **Save**: Fortitude DC 17
+- **Attack**: +7 vs Fortitude
 - **Frequency**: 1/round for 6 rounds
 - **Effect**: 1d2 Constitution damage
-- **Cure**: 2 saves
+- **Cure**: 2 misses

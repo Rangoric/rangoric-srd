@@ -25,7 +25,7 @@ The rules for a duel between spellcasters are usually very simple, but can be ch
 - Each participant must fight alone and can receive no help from outside sources, with the exception of familiars or other bonded creatures.
 - Each participant must fight with magic. The use of melee or ranged weapons is forbidden, with the exception of bonded objects and weapons that can cast spells, such as staves.
 - The use of summoned or otherwise conjured creatures is forbidden, unless the duel expects such creatures to combat one another at the behest of the participants (rather than directly attacking the dueling opponent). This sort of creature duel is common among druids, summoners, and conjurers.
-- The duel lasts until one of the casters has been knocked unconscious or otherwise prevented from continuing. Spells such as _[[rangoric-srd/spells/Hold Person|hold person]]_ do not end duels, but _[[rangoric-srd/spells/Flesh to Stone|flesh to stone]]_ certainly does, assuming the target fails her saving throw. Some duels go to the death and are only ended when one duelist or team is a smoking pile of ash.
+- The duel lasts until one of the casters has been knocked unconscious or otherwise prevented from continuing. Spells such as _[[rangoric-srd/spells/Hold Person|hold person]]_ do not end duels, but _[[rangoric-srd/spells/Flesh to Stone|flesh to stone]]_ certainly does, assuming the target fails her save. Some duels go to the death and are only ended when one duelist or team is a smoking pile of ash.
 
 ## Duel Combat
 

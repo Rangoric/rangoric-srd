@@ -4,8 +4,8 @@ section: "Rules"
 book: ["Core Rulebook", "Ultimate Equipment"]
 affliction-type: "poison"
 delivery: "contact"
-save: "Fortitude DC 26"
-save-dc: 26
+attack: "+16 vs Fortitude"
+attack-bonus: 16
 frequency: "1/round for 6 rounds"
 effect: "1d3 Str"
 price: "1,500 gp"
@@ -24,7 +24,7 @@ tags: [rangoric, rangoric/affliction]
 A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]].
 
 - **Type**: poison, contact
-- **Save**: Fortitude DC 26
+- **Attack**: +16 vs Fortitude
 - **Frequency**: 1/round for 6 rounds
 - **Effect**: 1d3 Str damage
 - **Price**: 1,500 gp

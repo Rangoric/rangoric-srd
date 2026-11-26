@@ -338,9 +338,9 @@ _Damaged Objects_: A damaged object remains fully functional until the item’s 
 
 Damaged (but not destroyed) objects can be repaired with the [[rangoric-srd/skills/Skills All|Craft]] skill.
 
-**Saving Throws**: Nonmagical, unattended items never make saving throws. They are considered to have failed their saving throws, so they always are affected by spells. An item attended by a character (being grasped, touched, or worn) makes saving throws as the character (that is, using the character’s saving throw bonus).
+**Defenses**: Nonmagical, unattended items have no defenses. They are considered to have failed their saves, so they always are affected by spells. An item attended by a character (being grasped, touched, or worn) uses the character’s defenses.
 
-Magic items always get saving throws. A magic item’s Fortitude, Reflex, and Will save bonuses are equal to 2 + one-half its caster level. An attended magic item either makes saving throws as its owner or uses its own saving throw bonus, whichever is better.
+Magic items always have defenses. A magic item’s Fortitude, Reflex, and Will Defenses are equal to 12 + one-half its caster level. An attended magic item uses its owner’s defenses or its own, whichever is better.
 
 _Animated Objects_: Animated objects count as creatures for purposes of determining their Armor Class (do not treat them as inanimate objects).
 

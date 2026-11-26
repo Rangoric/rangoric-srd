@@ -58,4 +58,4 @@ A creature’s health aura is a direct picture of the vital force flowing within
 
 Magic auras are usually the result of outside forces working on an object, creature or place. Each magical effect swirls together with the others in the greater aura but stays distinct, so it’s possible to single out one effect within the aura, for example to dispel one magical effect and leave the others intact.
 
-Other magic auras come from a creature’s own supernatural abilities, and can affect those who come too close. Such auras (such as a dragon’s frightful presence) often force creatures to attempt saving throws to resist them. For more on magic auras, see _[[rangoric-srd/spells/Detect Magic|detect magic]]_.
+Other magic auras come from a creature’s own supernatural abilities, and can affect those who come too close. Such auras (such as a dragon’s frightful presence) often attack the defenses of creatures that come near. For more on magic auras, see _[[rangoric-srd/spells/Detect Magic|detect magic]]_.

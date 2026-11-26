@@ -4,8 +4,8 @@ section: "Rules"
 book: "Bestiary 3"
 affliction-type: "curse"
 delivery: "contact"
-save: "Will DC 31"
-save-dc: 31
+attack: "+21 vs Will"
+attack-bonus: 21
 frequency: "1/day"
 effect: "1d6 Wis drain"
 based-on:
@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/affliction]
 A curse; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the curse of the [[rangoric-srd/monsters/asuras/Asurendra|asurendra]]'s claws.
 
 - **Type**: curse, contact
-- **Save**: Will DC 31
+- **Attack**: +21 vs Will
 - **Frequency**: 1/day
 - **Effect**: 1d6 Wisdom drain

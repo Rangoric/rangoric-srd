@@ -30,7 +30,7 @@ In this table, _level_ is the level of the spell you're casting or the power you
 | Taking damage                                                                                                                    | 10 + damage taken + level                          |
 | Taking continuous damage                                                                                                         | 10 + half the damage the source last dealt + level |
 | Damaged by a spell or power                                                                                                      | 10 + damage + level                                |
-| Distracted by a spell or power in some other way                                                                                 | its save DC + level                                |
+| Distracted by a spell or power in some other way                                                                                 | 10 + its attack bonus + level                      |
 | [[rangoric-srd/rules/conditions/Grappled (Condition)\|Grappled]] or [[rangoric-srd/rules/conditions/Pinned (Condition)\|pinned]] | 20 + level                                         |
 | Casting a spell with a somatic component while grappled                                                                          | 50 + level                                         |
 | Casting a spell with a [[rangoric-srd/spells/Magic Overview#^thought-component\|thought component]]                              | The distraction’s DC + 10                          |
@@ -44,7 +44,7 @@ In this table, _level_ is the level of the spell you're casting or the power you
 
 **Taking Damage**: The damage counts if it comes between when you start and when you finish (for a spell or power that takes 1 round or more), or if it comes in response to what you're doing, such as an attack of opportunity it provokes or a readied attack. Continuous damage counts as half dealt while you're casting or manifesting. If the last damage dealt was the last the effect could deal, the damage is over and doesn't distract you. Repeated damage doesn't count as continuous.
 
-**Spells and Powers**: If a spell or power that allows no saving throw distracts you, use the DC its save would have if it allowed one. Weather caused by a spell or power works the same way.
+**Spells and Powers**: If a spell or power that attacks no defense distracts you, use 10 + the attack bonus it would have if it attacked one. Weather caused by a spell or power works the same way.
 
 **Motion**: Vigorous motion is riding a moving mount, a bouncy wagon ride, a small boat in rough water, being below decks in a storm-tossed ship, or being jostled in a similar way. Violent motion is a galloping horse, a very rough wagon ride, a small boat in rapids or a storm, being on deck in a storm-tossed ship, or being tossed roughly about in a similar way.
 

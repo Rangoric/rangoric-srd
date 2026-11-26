@@ -4,10 +4,10 @@ section: "Rules"
 book: "Bestiary"
 affliction-type: "curse"
 delivery: "contact"
-save: "Fortitude DC 17"
-save-dc: 17
+attack: "+7 vs Fortitude"
+attack-bonus: 7
 effect: "amorphous body and 1 Wis drain per round"
-cure: "3 consecutive saves"
+cure: "3 consecutive misses"
 based-on:
   - "[[path srd 3.5/monsters/Chaos Beast|Chaos Beast (PF1)]]"
 status: draft
@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/affliction]
 A curse; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the [[rangoric-srd/monsters/Chaos Beast|chaos beast]]'s claw; what an amorphous body does, and how a victim regains its shape for a while, is described there.
 
 - **Type**: curse, contact
-- **Save**: Fortitude DC 17
+- **Attack**: +7 vs Fortitude
 - **Effect**: amorphous body and 1 Wisdom drain per round
-- **Cure**: 3 consecutive saves
+- **Cure**: 3 consecutive misses

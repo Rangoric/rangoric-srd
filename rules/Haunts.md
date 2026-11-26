@@ -28,7 +28,7 @@ A haunt can infuse a maximum area with a 5-foot radius per point of CR possessed
 
 When a haunt is triggered, its effects manifest at initiative rank 10 in a surprise round. All characters in the haunt's proximity can attempt to notice the haunt at the start of this surprise round by making a notice check. All haunts detect life sources and trigger as a result of the approach of or contact with living creatures, but some haunts can be tricked by effects like _[[rangoric-srd/spells/Hide from Undead|hide from undead]]_ or _[[rangoric-srd/spells/Invisibility|invisibility]]_.
 
-On the surprise round in which a haunt manifests, positive energy applied to the haunt (via channeled energy, cure spells, and the like) can damage the haunt's hit points (a haunt never gains a Will save to lessen the damage done by such effects, and attacks that require a successful attack roll to work must strike AC 10 in order to affect the haunt and not merely the physical structure it inhabits). Unless the haunt has an unusual weakness, no other form of attack can reduce its hit points. If the haunt is reduced to 0 hit points by positive energy, it is neutralized—if this occurs before the haunt takes its action at initiative rank 10, its effect does not occur.
+On the surprise round in which a haunt manifests, positive energy applied to the haunt (via channeled energy, cure spells, and the like) can damage the haunt's hit points (such effects never need to hit a haunt’s Will Defense to deal full damage, and attacks that require a successful attack roll to work must strike AC 10 in order to affect the haunt and not merely the physical structure it inhabits). Unless the haunt has an unusual weakness, no other form of attack can reduce its hit points. If the haunt is reduced to 0 hit points by positive energy, it is neutralized—if this occurs before the haunt takes its action at initiative rank 10, its effect does not occur.
 
 A haunt can have virtually any effect identical to an existing spell effect, but often with different—and distinctly more frightening or unnerving—sensory or physical features than that spell effect normally has. (A haunt that has an effect not identical to an existing spell is certainly possible, but this requires designing a new spell effect.) A haunt might cause a room to explode into flames (duplicating _[[rangoric-srd/spells/Fireball|fireball]]_ or _[[rangoric-srd/spells/Fire Storm|fire storm]]_), infuse a chamber with fear (duplicating _[[rangoric-srd/spells/Cause Fear|cause fear]]_, _[[rangoric-srd/spells/Scare|scare]]_, or _[[rangoric-srd/spells/Fear|fear]]_), or try to frighten a target to death (duplicating _[[rangoric-srd/spells/Phantasmal Killer|phantasmal killer]]_ or _[[rangoric-srd/spells/Slay Living|slay living]]_). How the haunt's effects manifest are left to you to determine.
 
@@ -101,7 +101,7 @@ To make a haunt like the example below (Bleeding Walls), follow these steps.
 
 **Step 4—Determine Hit Points**: A haunt's hit points are equal to twice its CR (or equal to its CR × 4.5 if the haunt is persistent).
 
-**Step 5—Calculate Attacks and Save DCs**: A haunt's attack modifier (if one is needed) is equal to its CR. If a haunt's spell effect allows a saving throw to resist or negate the effect, the save DC is equal to 10 + the level of the spell + the ability modifier of the minimum ability score needed to cast that level of spell.
+**Step 5—Calculate Attacks**: A haunt's attack modifier (if one is needed) is equal to its CR. If a haunt's spell effect attacks a defense, its attack bonus is equal to the level of the spell + the ability modifier of the minimum ability score needed to cast that level of spell.
 
 ### Example: Bleeding Walls
 
@@ -114,5 +114,5 @@ To make a haunt like the example below (Bleeding Walls), follow these steps.
 - **hp**: 10
 - **Trigger**: proximity
 - **Reset**: 1 day
-- **Effect**: When this haunt is triggered, thick rivulets of blood course down the walls accompanied by the shrill shriek of a woman’s scream. All creatures in the hallway are targeted by a _[[rangoric-srd/spells/Fear|fear]]_ spell (save DC 16).
+- **Effect**: When this haunt is triggered, thick rivulets of blood course down the walls accompanied by the shrill shriek of a woman’s scream. All creatures in the hallway are targeted by a _[[rangoric-srd/spells/Fear|fear]]_ spell (+6).
 - **Destruction**: The body of the maid entombed behind the walls must be extracted and given a proper burial.

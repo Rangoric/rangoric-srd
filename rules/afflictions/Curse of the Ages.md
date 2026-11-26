@@ -3,8 +3,8 @@ srd-type: "affliction"
 section: "Rules"
 book: "Core Rulebook"
 affliction-type: "curse"
-save: "Will DC 17"
-save-dc: 17
+attack: "+7 vs Will"
+attack-bonus: 7
 frequency: "1/day"
 effect: "age 1 year"
 based-on:
@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/affliction]
 A curse; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]].
 
 - **Type**: curse
-- **Save**: Will DC 17
+- **Attack**: +7 vs Will
 - **Frequency**: 1/day
 - **Effect**: age 1 year
