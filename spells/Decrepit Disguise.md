@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One object of no more than 10 cu. ft./level"
 duration: "Caster level day(s)"
-saving-throw: "None (object) or Will disbelief (if interacted with)"
+defense: "None (object) or Will disbelief (if interacted with)"
 spell-resistance: "No"
 book: "Occult Adventures"
 based-on:
@@ -38,7 +38,7 @@ _Illusion (Glamer)_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One object of no more than 10 cu. ft./level
 - **Duration**: Caster level day(s)
-- **Saving Throw**: None (object) or Will disbelief (if interacted with)
+- **Defense**: None (object) or Will disbelief (if interacted with)
 - **Spell Resistance**: No
 
-You make an object seem like a worthless version of itself. A masterwork or magic sword could seem to be a useless, rusting, discarded blade, and a luxurious throne could appear to be a decrepit wooden chair. If used against an attended object, the wielder can immediately attempt a Will save to disbelieve the effect. _Decrepit disguise_ counters and dispels _[[rangoric-srd/spells/Quintessence (Spell)|quintessence]]_. _Decrepit disguise_ can be made permanent with a _[[rangoric-srd/spells/Permanency|permanency]]_ spell by a caster of 9th level or higher for the cost of 500 gp.
+You make an object seem like a worthless version of itself. A masterwork or magic sword could seem to be a useless, rusting, discarded blade, and a luxurious throne could appear to be a decrepit wooden chair. If used against an attended object, the illusion immediately attacks the wielder’s Will, and on a miss the wielder disbelieves the effect. _Decrepit disguise_ counters and dispels _[[rangoric-srd/spells/Quintessence (Spell)|quintessence]]_. _Decrepit disguise_ can be made permanent with a _[[rangoric-srd/spells/Permanency|permanency]]_ spell by a caster of 9th level or higher for the cost of 500 gp.

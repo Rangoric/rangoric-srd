@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Living creature touched"
 duration: "1 round/level"
-saving-throw: "Fortitude negates (harmless)"
+defense: "Fortitude (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Mythic Adventures"
 based-on:
@@ -39,7 +39,7 @@ _Necromancy_
 - **Range**: Touch
 - **Target**: Living creature touched
 - **Duration**: 1 round/level
-- **Saving Throw**: Fortitude negates (harmless)
+- **Defense**: Fortitude (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 The target's soul is strongly anchored to its body, preventing death from hit point damage. No matter how low the target's hit points get, it remains alive (though not necessarily [[rangoric-srd/combat/Injury and Death|conscious]]).

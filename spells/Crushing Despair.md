@@ -22,7 +22,7 @@ casting-time: "1 standard action"
 range: "30 ft."
 area: "Cone-shaped burst"
 duration: "1 min./level"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Crushing Despair|Crushing Despair (3.5)]]"
@@ -42,10 +42,10 @@ _Enchantment (Compulsion) \[Mind-Affecting\]_
 - **Range**: 30 ft.
 - **Area**: Cone-shaped burst
 - **Duration**: 1 min./level
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
-An [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] cone of despair causes great sadness in the subjects. Each affected creature takes a –2 penalty on attack rolls, saving throws, ability checks, skill checks, and weapon damage rolls.
+An [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] cone of despair causes great sadness in the subjects. Each affected creature takes a –2 penalty on attack rolls, defenses, ability checks, skill checks, and weapon damage rolls.
 
 Crushing despair counters and dispels good hope.
 

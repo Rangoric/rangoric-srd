@@ -29,7 +29,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "Instantaneous"
-saving-throw: "Will half (harmless); see text"
+defense: "Will half (harmless); see text"
 spell-resistance: "Yes (harmless); see text"
 based-on:
   - "[[fantasy srd 3.5/spells/Cure Light Wounds|Cure Light Wounds (3.5)]]"
@@ -49,9 +49,9 @@ _Conjuration (Healing)_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: Instantaneous
-- **Saving Throw**: Will half (harmless); see text
+- **Defense**: Will half (harmless); see text
 - **Spell Resistance**: Yes (harmless); see text
 
 When laying your hand upon a living creature, you channel positive energy that cures 1d8 points of damage +1 point per caster level (maximum +5).
 
-Since undead are powered by negative energy, this spell deals damage to them instead of curing their wounds. An undead creature can apply spell resistance, and can attempt a Will save to take half damage.
+Since undead are powered by negative energy, this spell deals damage to them instead of curing their wounds. An undead creature can apply spell resistance, and the spell attacks its Will; a miss halves the damage.

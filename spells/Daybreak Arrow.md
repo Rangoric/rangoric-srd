@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Up to 50 pieces of ammunition, all of which must be together at the time of casting"
 duration: "10 minutes/level"
-saving-throw: "Fortitude negates (harmless, object)"
+defense: "Fortitude (harmless, object)"
 spell-resistance: "Yes (harmless, object)"
 book: "Ultimate Combat"
 based-on:
@@ -37,7 +37,7 @@ _Evocation \[Light\]_
 - **Range**: Touch
 - **Target**: Up to 50 pieces of ammunition, all of which must be together at the time of casting
 - **Duration**: 10 minutes/level
-- **Saving Throw**: Fortitude negates (harmless, object)
+- **Defense**: Fortitude (harmless, object)
 - **Spell Resistance**: Yes (harmless, object)
 
 You cause ammunition, including shuriken, to exude radiant energy. Creatures that take penalties in bright light take these penalties for 1 round after being struck by such ammunition. Undead and creatures harmed by sunlight take an additional 1d6 points of damage from such projectiles. This extra damage and half of any other damage you deal with an affected projectile results directly from radiant energy and is not subject to damage resistance. Such a projectile sheds light as if it were a sunrod for 1 round after it is fired or thrown.

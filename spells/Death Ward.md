@@ -22,7 +22,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Living creature touched"
 duration: "1 min./level"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Death Ward|Death Ward (3.5)]]"
@@ -43,11 +43,11 @@ _Necromancy_
 - **Range**: Touch
 - **Target**: Living creature touched
 - **Duration**: 1 min./level
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 The subject is immune to all death spells, magical death effects, energy drain, and any negative energy effects.
 
-This spell doesn’t remove negative levels that the subject has already gained, nor does it affect the saving throw necessary 24 hours after gaining a negative level, but it does remove the penalties from negative levels for the duration of its effect.
+This spell doesn’t remove negative levels that the subject has already gained, nor does it affect the daily attack that can remove a negative level, but it does remove the penalties from negative levels for the duration of its effect.
 
 Death ward does not protect against other sorts of attacks even if those attacks might be lethal.

@@ -16,7 +16,7 @@ casting-time: "6 hours"
 range: "0 ft."
 effect: "Extradimensional demiplane, up to 20 10-ft. cubes/level (S)"
 duration: "1 day/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Ultimate Magic"
 based-on:
@@ -37,7 +37,7 @@ _Conjuration (Creation)_
 - **Range**: 0 ft.
 - **Effect**: Extradimensional demiplane, up to 20 10-ft. cubes/level (S)
 - **Duration**: 1 day/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 This spell functions as _[[rangoric-srd/spells/Create Demiplane|create demiplane]]_, except the area is larger and you can add more features to the plane. You can use this spell to expand a demiplane you created with _[[rangoric-srd/spells/Create Demiplane, Lesser|lesser create demiplane]]_ or _[[rangoric-srd/spells/Create Demiplane|create demiplane]]_ (you do not need to create an entirely new plane using this spell), in which case it has a duration of 1 day/level. Alternatively, when cast within your demiplane, you may add to your demiplane (or remove from it) one of the following features (or any of the features described in _[[rangoric-srd/spells/Create Demiplane|create demiplane]]_) with each casting of the spell, in which case it has an instantaneous duration.

@@ -13,7 +13,7 @@ level:
 casting-time: "1 standard action"
 target: "Self and creatures within a 10-foot-radius burst (see below)"
 duration: "1 minutes/level"
-saving-throw: "Reflex half, see text"
+defense: "Reflex half, see text"
 spell-resistance: "No"
 book: "Advanced Race Guide"
 based-on:
@@ -33,7 +33,7 @@ _Conjuration (Teleportation) \[Fire\]_
 - **Casting Time**: 1 standard action
 - **Target**: Self and creatures within a 10-foot-radius burst (see below)
 - **Duration**: 1 minutes/level
-- **Saving Throw**: Reflex half, see text
+- **Defense**: Reflex half, see text
 - **Spell Resistance**: No
 
-This spell functions like _[[rangoric-srd/spells/Dimension Door|dimension door]]_, except you leave behind a burst of fire. Choose one corner of your starting square. A 10-foot-radius burst of flame explodes from that corner the moment you leave, dealing 4d6 points of fire damage (Reflex negates).
+This spell functions like _[[rangoric-srd/spells/Dimension Door|dimension door]]_, except you leave behind a burst of fire. Choose one corner of your starting square. A 10-foot-radius burst of flame explodes from that corner the moment you leave, dealing 4d6 points of fire damage (vs Reflex).

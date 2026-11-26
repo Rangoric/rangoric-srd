@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "30 ft."
 area: "Cone-shaped emanation"
 duration: "10 min./level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Deathwatch|Deathwatch (3.5)]]"
@@ -35,7 +35,7 @@ _Necromancy \[Evil\]_
 - **Range**: 30 ft.
 - **Area**: Cone-shaped emanation
 - **Duration**: 10 min./level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 Using the foul sight granted by the powers of unlife, you can determine the condition of creatures near death within the spell’s range. You instantly know whether each creature within the area is dead, fragile (alive and wounded, with 3 or fewer hit points left), fighting off death (alive with 4 or more hit points), undead, or neither alive nor dead (such as a construct).

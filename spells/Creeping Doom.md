@@ -15,7 +15,7 @@ casting-time: "1 round"
 range: "Close (25 ft. + 5 ft./2 levels)/ 100 ft.; see text"
 effect: "One swarm of centipedes per two levels"
 duration: "1 min./level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Creeping Doom|Creeping Doom (3.5)]]"
@@ -35,7 +35,7 @@ _Conjuration (Summoning)_
 - **Range**: Close (25 ft. + 5 ft./2 levels)/ 100 ft.; see text
 - **Effect**: One swarm of centipedes per two levels
 - **Duration**: 1 min./level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 When you utter the spell of creeping doom, you call forth a mass of centipede swarms (one per two caster levels, to a maximum of ten swarms at 20th level), which need not appear adjacent to one another.

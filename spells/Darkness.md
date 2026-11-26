@@ -21,7 +21,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Object touched"
 duration: "10 min./level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Darkness|Darkness (3.5)]]"
@@ -41,7 +41,7 @@ _Evocation \[Darkness\]_
 - **Range**: Touch
 - **Target**: Object touched
 - **Duration**: 10 min./level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 This spell causes an object to radiate shadowy illumination out to a 20-foot radius. All creatures in the area gain concealment (20% miss chance). Even creatures that can normally see in such conditions (such as with darkvision or low-light vision) have the miss chance in an area shrouded in magical darkness.

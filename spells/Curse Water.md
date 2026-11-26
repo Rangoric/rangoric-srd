@@ -16,7 +16,7 @@ casting-time: "1 minute"
 range: "Touch"
 target: "Flask of water touched"
 duration: "Instantaneous"
-saving-throw: "Will negates (object)"
+defense: "Will (object)"
 spell-resistance: "Yes (object)"
 based-on:
   - "[[fantasy srd 3.5/spells/Curse Water|Curse Water (3.5)]]"
@@ -36,7 +36,7 @@ _Necromancy \[Evil\]_
 - **Range**: Touch
 - **Target**: Flask of water touched
 - **Duration**: Instantaneous
-- **Saving Throw**: Will negates (object)
+- **Defense**: Will (object)
 - **Spell Resistance**: Yes (object)
 
 This spell imbues a flask (1 pint) of water with negative energy, turning it into unholy water. Unholy water damages good outsiders the way holy water damages undead and evil outsiders.

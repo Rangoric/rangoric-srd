@@ -22,7 +22,7 @@ casting-time: "1 standard action"
 range: "Touch"
 effect: "Animates one lantern"
 duration: "1 hour/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Advanced Player's Guide"
 based-on:
@@ -43,7 +43,7 @@ _Transmutation \[Fire, Light\]_
 - **Range**: Touch
 - **Effect**: Animates one lantern
 - **Duration**: 1 hour/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You can animate a lantern and order it to follow you. The lantern floats at shoulder height and remains within 5 feet of you, no matter how fast you move. The lantern cannot support any additional weight. The lantern illuminates its normal area, even if it does not have any oil in it. For the purposes of spells or effects targeting it the lantern always acts as if in your possession even when not directly on your person. A _dancing lantern_ can be made permanent with a _[[rangoric-srd/spells/Permanency|permanency]]_ spell (CL 9th, 2,500 gp).

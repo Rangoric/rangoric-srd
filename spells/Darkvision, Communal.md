@@ -18,7 +18,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creatures touched"
 duration: "1 hour/level"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Ultimate Combat"
 based-on:
@@ -39,7 +39,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: Creatures touched
 - **Duration**: 1 hour/level
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 This spell functions like _[[rangoric-srd/spells/Darkvision|darkvision]]_, except you may [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 1-hour intervals among the creatures touched.

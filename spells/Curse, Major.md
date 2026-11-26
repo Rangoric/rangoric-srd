@@ -20,7 +20,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "Permanent"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -41,7 +41,7 @@ _Necromancy \[Curse\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature
 - **Duration**: Permanent
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
-This spell functions as _[[rangoric-srd/spells/Bestow Curse|bestow curse]]_, except the DC to remove the curse is equal to the save DC + 5.
+This spell functions as _[[rangoric-srd/spells/Bestow Curse|bestow curse]]_, except the DC to remove the curse is equal to 15 + the spell’s attack bonus.

@@ -16,7 +16,7 @@ components:
 casting-time: "One day"
 range: "Touch"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Faeries"
 based-on:
@@ -36,7 +36,7 @@ _Conjuration (Creation)_
 - **Casting Time**: One day
 - **Range**: Touch
 - **Duration**: Instantaneous
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 As the _[[rangoric-srd/spells/Create Doorway and Backroad|create doorway and backroad]]_ spell, but this spell builds a _doorway_ and _[[rangoric-srd/rules/Fey Roads and Doorways#Fey Roads|sideroad]]_ specifically to the fey realm. The _sideroad_ can traverse dimensional boundaries, allowing travel between the fey realm and the mortal world.

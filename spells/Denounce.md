@@ -18,7 +18,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 area: "30-ft.-radius burst"
 duration: "1 hour/level"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Advanced Player's Guide"
 based-on:
@@ -39,7 +39,7 @@ _Enchantment (Compulsion) \[Language-dependent, Mind-affecting\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Area**: 30-ft.-radius burst
 - **Duration**: 1 hour/level
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
-You speak out against a single creature within line of sight and turn possible allies against it by drawing upon the power of your voice and conviction. Creatures in the area who can see the denounced creature must make a Will saving throw or have their starting attitude toward the denounced creature worsened by two levels. For example, creatures previously indifferent to the subject turn unfriendly. Persuasion checks made to reverse the effects of _denounce_ are made at a –10 penalty.
+You speak out against a single creature within line of sight and turn possible allies against it by drawing upon the power of your voice and conviction. Creatures in the area who can see the denounced creature are attacked against Will, and on a hit have their starting attitude toward the denounced creature worsened by two levels. For example, creatures previously indifferent to the subject turn unfriendly. Persuasion checks made to reverse the effects of _denounce_ are made at a –10 penalty.

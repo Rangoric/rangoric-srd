@@ -22,7 +22,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creatures touched"
 duration: "1 hour/level"
-saving-throw: "Fortitude negates (harmless)"
+defense: "Fortitude (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Ultimate Combat"
 based-on:
@@ -43,7 +43,7 @@ _Conjuration (Healing)_
 - **Range**: Touch
 - **Target**: Creatures touched
 - **Duration**: 1 hour/level
-- **Saving Throw**: Fortitude negates (harmless)
+- **Defense**: Fortitude (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 This spell functions like _[[rangoric-srd/spells/Delay Poison|delay poison]]_, except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 1-hour intervals among the creatures touched.

@@ -23,7 +23,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 target: "One creature/level"
 duration: "10 minutes/level, then 1 hour/level or until completed (D); see text"
-saving-throw: "Will negates (see text)"
+defense: "Will (see text)"
 spell-resistance: "Yes"
 book: "Ultimate Intrigue"
 based-on:
@@ -44,7 +44,7 @@ _Enchantment (Compulsion) \[LanguageDependent, MindAffecting\]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Target**: One creature/level
 - **Duration**: 10 minutes/level, then 1 hour/level or until completed (D); see text
-- **Saving Throw**: Will negates (see text)
+- **Defense**: Will (see text)
 - **Spell Resistance**: Yes
 
-This spell initially functions as [[rangoric-srd/spells/Message|message]] (allowing no save or spell resistance). Once during the _[[rangoric-srd/spells/Message|message]]_ effect, you can concentrate as a standard action to issue a _[[rangoric-srd/spells/Suggestion|suggestion]]_ to one target as part of delivering a _[[rangoric-srd/spells/Message|message]]_. Spell resistance and a Will save apply to the _[[rangoric-srd/spells/Suggestion|suggestion]]_, and it lasts for 1 hour per level or until completed.
+This spell initially functions as [[rangoric-srd/spells/Message|message]] (with no attack against a defense and no spell resistance). Once during the _[[rangoric-srd/spells/Message|message]]_ effect, you can concentrate as a standard action to issue a _[[rangoric-srd/spells/Suggestion|suggestion]]_ to one target as part of delivering a _[[rangoric-srd/spells/Message|message]]_. Spell resistance applies to the _[[rangoric-srd/spells/Suggestion|suggestion]]_, which attacks Will, and it lasts for 1 hour per level or until completed.

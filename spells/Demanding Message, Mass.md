@@ -22,7 +22,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 target: "One creature/level"
 duration: "10 minutes/level, then 1 hour/level or until completed (D); see text"
-saving-throw: "Will negates (see text)"
+defense: "Will (see text)"
 spell-resistance: "Yes"
 book: "Ultimate Intrigue"
 based-on:
@@ -43,7 +43,7 @@ _Enchantment (Compulsion) \[LanguageDependent, MindAffecting\]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Target**: One creature/level
 - **Duration**: 10 minutes/level, then 1 hour/level or until completed (D); see text
-- **Saving Throw**: Will negates (see text)
+- **Defense**: Will (see text)
 - **Spell Resistance**: Yes
 
 This spell functions as [[rangoric-srd/spells/Demanding Message|demanding message]], except that you can issue one _[[rangoric-srd/spells/Suggestion|suggestion]]_ to each of the spell's targets instead of just one. Each time you do so, it takes a standard action. You can issue a different _[[rangoric-srd/spells/Suggestion|suggestion]]_ to each target.

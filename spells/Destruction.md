@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "Instantaneous"
-saving-throw: "Fortitude partial"
+defense: "Fortitude partial"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Destruction|Destruction (3.5)]]"
@@ -37,9 +37,9 @@ _Necromancy \[Death\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature
 - **Duration**: Instantaneous
-- **Saving Throw**: Fortitude partial
+- **Defense**: Fortitude partial
 - **Spell Resistance**: Yes
 
-This spell instantly slays the subject and consumes its remains (but not its equipment and possessions) utterly. If the target’s Fortitude saving throw succeeds, it instead takes 10d6 points of damage. The only way to restore life to a character who has failed to save against this spell is to use true resurrection, a carefully worded wish spell followed by resurrection, or miracle.
+This spell instantly slays the subject and consumes its remains (but not its equipment and possessions) utterly. If the spell misses the target’s Fortitude, it instead takes 10d6 points of damage. The only way to restore life to a character this spell has slain is to use true resurrection, a carefully worded wish spell followed by resurrection, or miracle.
 
 _Focus_: A special holy (or unholy) symbol of silver marked with verses of anathema (cost 500 gp).
