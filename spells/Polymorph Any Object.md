@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature, or one nonmagical object of up to 100 cu. ft./level"
 duration: "See text"
-saving-throw: "Fortitude negates (object); see text"
+defense: "Fortitude (object); see text"
 spell-resistance: "Yes (object)"
 based-on:
   - "[[fantasy srd 3.5/spells/Polymorph Any Object|Polymorph Any Object (3.5)]]"
@@ -33,7 +33,7 @@ _Transmutation_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature, or one nonmagical object of up to 100 cu. ft./level
 - **Duration**: See text
-- **Saving Throw**: Fortitude negates (object); see text
+- **Defense**: Fortitude (object); see text
 - **Spell Resistance**: Yes (object)
 
 This spell functions like [[rangoric-srd/spells/Polymorph|polymorph]], except that it changes one object or creature into another. The duration of the spell depends on how radical a change is made from the original state to its enchanted state. The duration is determined by using the following guidelines.

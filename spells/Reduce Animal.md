@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "One willing animal of Small, Medium, Large, or Huge size"
 duration: "1 hour/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Reduce Animal|Reduce Animal (3.5)]]"
@@ -33,7 +33,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: One willing animal of Small, Medium, Large, or Huge size
 - **Duration**: 1 hour/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 This spell functions like [[rangoric-srd/spells/Reduce Person|reduce person]], except that it affects a single willing animal. Reduce the damage dealt by the animal’s natural attacks as appropriate for its new size.

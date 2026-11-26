@@ -23,7 +23,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 targets: "One willing living creature per three levels, no two of which may be more than 30 ft. apart"
 duration: "Concentration + 1 round/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Rage|Rage (3.5)]]"
@@ -43,7 +43,7 @@ _Enchantment (Compulsion) \[Mind-Affecting\]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Targets**: One willing living creature per three levels, no two of which may be more than 30 ft. apart
 - **Duration**: Concentration + 1 round/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
-Each affected creature gains a +2 morale bonus to Strength and Constitution, a +1 morale bonus on Will saves, and a –2 penalty to AC. The effect is otherwise identical with a barbarian’s rage except that the subjects aren’t [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]] at the end of the rage.
+Each affected creature gains a +2 morale bonus to Strength and Constitution, a +1 morale bonus on Will Defense, and a –2 penalty to AC. The effect is otherwise identical with a barbarian’s rage except that the subjects aren’t [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]] at the end of the rage.

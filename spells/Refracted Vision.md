@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 round/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Spells & Magic"
 based-on:
@@ -37,7 +37,7 @@ _Divination_
 - **Range**: Personal
 - **Target**: You
 - **Duration**: 1 round/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 This spell allows the caster to move their point of vision up to 50 ft. and rotate it up to 180 degrees in any direction. The location and direction of vision is set at the moment the spell is cast, and cannot be changed. The primary benefit of this spell is that another spell can be cast from the new viewpoint, though doing so immediately ends the spell. When casting a spell through the refracted vision, treat all aspects of the spell as if the caster were standing at the new viewpoint when the spell is cast. This spell can be used to fire other spells around corner or as a simple spying tool.

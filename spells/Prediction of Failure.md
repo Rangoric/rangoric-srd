@@ -18,7 +18,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "Permanent or 1 round/level (see text)"
-saving-throw: "Will partial"
+defense: "Will partial"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -39,7 +39,7 @@ _Divination \[Curse, Fear, Mind-affecting\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature
 - **Duration**: Permanent or 1 round/level (see text)
-- **Saving Throw**: Will partial
+- **Defense**: Will partial
 - **Spell Resistance**: Yes
 
-You wrack the target's body and mind with the anguish and suffering of every bitter failure it will ever experience, rendering it permanently shaken and sickened. A successful Will save reduces the duration to 1 round per level. If the target is a spellcaster, failing this saving throw means it also gains a random minor [[rangoric-srd/rules/spellblights/Spellblights#^table-minor-spellblights|spellblight]].
+You wrack the target's body and mind with the anguish and suffering of every bitter failure it will ever experience, rendering it permanently shaken and sickened. A miss against Will reduces the duration to 1 round per level. If the target is a spellcaster, a hit means it also gains a random minor [[rangoric-srd/rules/spellblights/Spellblights#^table-minor-spellblights|spellblight]].

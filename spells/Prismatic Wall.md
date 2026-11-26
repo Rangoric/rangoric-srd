@@ -12,7 +12,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "Wall 4 ft./level wide, 2 ft./level high"
 duration: "10 min./level (D)"
-saving-throw: "See text"
+defense: "See text"
 spell-resistance: "See text"
 based-on:
   - "[[fantasy srd 3.5/spells/Prismatic Wall|Prismatic Wall (3.5)]]"
@@ -33,7 +33,7 @@ _Abjuration_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Effect**: Wall 4 ft./level wide, 2 ft./level high
 - **Duration**: 10 min./level (D)
-- **Saving Throw**: See text
+- **Defense**: See text
 - **Spell Resistance**: See text
 
 Prismatic wall creates a vertical, opaque wall—a shimmering, multicolored plane of light that protects you from all forms of attack. The wall flashes with seven colors, each of which has a distinct power and purpose. The wall is immobile, and you can pass through and remain near the wall without harm. However, any other creature with less than 8 HD that is within 20 feet of the wall is [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] for 2d4 rounds by the colors if it looks at the wall.
@@ -46,14 +46,14 @@ The wall can be destroyed, color by color, in consecutive order, by various magi
 
 Prismatic wall can be made permanent with a permanency spell.
 
-| Color  | Order | Effect of Color                                                                                                                                                                          | Negated By    |
-| ------ | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| Red    | 1st   | Stops nonmagical ranged weapons. Deals 20 points of fire damage (Reflex half).                                                                                                           | Cone of cold  |
-| Orange | 2nd   | Stops magical ranged weapons. Deals 40 points of acid damage (Reflex half).                                                                                                              | Gust of wind  |
-| Yellow | 3rd   | Stops poisons, gases, and petrification. Deals 80 points of electricity damage (Reflex half).                                                                                            | Disintegrate  |
-| Green  | 4th   | Stops breath weapons. [[rangoric-srd/rules/afflictions/Green Prismatic Poison\|Poison]] (frequency 1/round for 6 rounds; effect death/1 Con damage; cure 2 consecutive Fortitude saves). | Passwall      |
-| Blue   | 5th   | Stops divination and mental attacks. Turned to stone (Fortitude negates).                                                                                                                | Magic missile |
-| Indigo | 6th   | Stops all spells. Will save or become insane (as insanity spell).                                                                                                                        | Daylight      |
-| Violet | 7th   | Energy field destroys all objects and effects. (1) Creatures sent to another plane (Will negates).                                                                                       | Dispel magic  |
+| Color  | Order | Effect of Color                                                                                                                                                                            | Negated By    |
+| ------ | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------- |
+| Red    | 1st   | Stops nonmagical ranged weapons. Deals 20 points of fire damage (vs Reflex; a miss halves).                                                                                                | Cone of cold  |
+| Orange | 2nd   | Stops magical ranged weapons. Deals 40 points of acid damage (vs Reflex; a miss halves).                                                                                                   | Gust of wind  |
+| Yellow | 3rd   | Stops poisons, gases, and petrification. Deals 80 points of electricity damage (vs Reflex; a miss halves).                                                                                 | Disintegrate  |
+| Green  | 4th   | Stops breath weapons. [[rangoric-srd/rules/afflictions/Green Prismatic Poison\|Poison]] (frequency 1/round for 6 rounds; effect death/1 Con damage; cure 2 consecutive Fortitude Defense). | Passwall      |
+| Blue   | 5th   | Stops divination and mental attacks. Turned to stone (vs Fortitude).                                                                                                                       | Magic missile |
+| Indigo | 6th   | Stops all spells. Become insane, as insanity spell (vs Will).                                                                                                                              | Daylight      |
+| Violet | 7th   | Energy field destroys all objects and effects. (1) Creatures sent to another plane (vs Will).                                                                                              | Dispel magic  |
 
 1 _The violet effect makes the special effects of the other six colors redundant, but these six effects are included here because certain magic items can create prismatic effects one color at a time, and spell resistance might render some colors ineffective (see above)._

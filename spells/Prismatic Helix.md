@@ -11,7 +11,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "See text"
 duration: "10 minutes/level"
-saving-throw: "See text"
+defense: "See text"
 spell-resistance: "Yes"
 book: "Spells & Magic"
 based-on:
@@ -32,7 +32,7 @@ _Evocation_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Effect**: See text
 - **Duration**: 10 minutes/level
-- **Saving Throw**: See text
+- **Defense**: See text
 - **Spell Resistance**: Yes
 
 The _prismatic helix_ is an ancient variation on the _[[rangoric-srd/spells/Prismatic Sphere|prismatic sphere]]_. Where the _[[rangoric-srd/spells/Prismatic Sphere|prismatic sphere]]_ is primarily a passive defense, the _prismatic helix_ is an active but no less deadly defense. The visible effect of the _prismatic helix_ is a stationary, slowly rotating, seven strand helix, one for each color in the spectrum. This Helix is 5 feet in diameter and up to 20 feet high, if possible. Any creature of 8 HD or less that looks at the Helix from less than 60 feet away is captivated as by the spell rainbow pattern. There is no limit to the number of creatures that can be captivated in this manner.

@@ -17,7 +17,7 @@ casting-time: "1 minute"
 range: "One mile"
 effect: "Ten or more levitating eyes"
 duration: "1 hour/level; see text (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Prying Eyes|Prying Eyes (3.5)]]"
@@ -37,7 +37,7 @@ _Divination_
 - **Range**: One mile
 - **Effect**: Ten or more levitating eyes
 - **Duration**: 1 hour/level; see text (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You create a number of semitangible, visible magical orbs (called “eyes”) equal to 1d4 + your caster level. These eyes move out, scout around, and return as you direct them when casting the spell. Each eye can see 120 feet (normal vision only) in all directions.

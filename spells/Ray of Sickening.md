@@ -20,7 +20,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "Ray"
 duration: "1 min./level"
-saving-throw: "Fortitude partial; see text"
+defense: "Fortitude partial; see text"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -41,7 +41,7 @@ _Necromancy_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Effect**: Ray
 - **Duration**: 1 min./level
-- **Saving Throw**: Fortitude partial; see text
+- **Defense**: Fortitude partial; see text
 - **Spell Resistance**: Yes
 
-This spell functions as _[[rangoric-srd/spells/Ray of Exhaustion|ray of exhaustion]]_, except the target is sickened if it fails its save and unaffected if it makes its save.
+This spell functions as _[[rangoric-srd/spells/Ray of Exhaustion|ray of exhaustion]]_, except the target is sickened on a hit and unaffected on a miss.

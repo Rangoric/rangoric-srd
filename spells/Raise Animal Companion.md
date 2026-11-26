@@ -16,7 +16,7 @@ casting-time: "1 minute"
 range: "Touch"
 target: "Dead animal companion or bonded mount"
 duration: "Instantaneous"
-saving-throw: "None, see text"
+defense: "None, see text"
 spell-resistance: "Yes (harmless)"
 book: "Ultimate Magic"
 based-on:
@@ -37,7 +37,7 @@ _Conjuration (Healing)_
 - **Range**: Touch
 - **Target**: Dead animal companion or bonded mount
 - **Duration**: Instantaneous
-- **Saving Throw**: None, see text
+- **Defense**: None, see text
 - **Spell Resistance**: Yes (harmless)
 
 This spell functions as _[[rangoric-srd/spells/Raise Dead|raise dead]]_, but it only affects an animal companion, familiar, or paladin's bonded mount.

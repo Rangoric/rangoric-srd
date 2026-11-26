@@ -21,7 +21,7 @@ casting-time: "1 round"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "One swarm of stones"
 duration: "Concentration + 2 rounds"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 book: "Advanced Race Guide"
 based-on:
@@ -42,7 +42,7 @@ _Transmutation \[Earth\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Effect**: One swarm of stones
 - **Duration**: Concentration + 2 rounds
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
-You animate an area of rubble, gravel, or other small stones, creating a dangerous, rolling area of debris. The animated rubble has a space of 10 feet and acts like a swarm, damaging (1d6 hit points) and distracting (DC 12) anything within it. As a move action, you can direct the rubble to move up to 10 feet. If the rubble is attacked, treat it as a Medium animated object with the [[rangoric-srd/monsters/simple-templates/Young Creature|young creature simple template]] and the swarm subtype.
+You animate an area of rubble, gravel, or other small stones, creating a dangerous, rolling area of debris. The animated rubble has a space of 10 feet and acts like a swarm, damaging (1d6 hit points) and distracting (+2 vs Fortitude) anything within it. As a move action, you can direct the rubble to move up to 10 feet. If the rubble is attacked, treat it as a Medium animated object with the [[rangoric-srd/monsters/simple-templates/Young Creature|young creature simple template]] and the swarm subtype.

@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 target: "One creature or haunt"
 duration: "Instantaneous"
-saving-throw: "Will partial"
+defense: "Will partial"
 spell-resistance: "Yes"
 book: "Occult Adventures"
 based-on:
@@ -37,7 +37,7 @@ _Necromancy_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Target**: One creature or haunt
 - **Duration**: Instantaneous
-- **Saving Throw**: Will partial
+- **Defense**: Will partial
 - **Spell Resistance**: Yes
 
-_Purge spirit_ rips away at the target's spiritual substance, scattering it over a wide area and hampering the target's ability to reform. The target takes 1d6 points of damage per caster level (maximum 10d6) and is staggered for 1 round. On a successful saving throw, the target takes half damage and is not staggered. This spell affects astrally projected creatures, ethereal creatures, haunts, incorporeal creatures, [[rangoric-srd/classes/Medium (Class)|mediums]] channeling a [[rangoric-srd/classes/Medium (Class)#^medium-spirit|spirit]], and [[rangoric-srd/classes/Spiritualist (Class)#^spiritualist-phantom|phantoms]], and at the GM's discretion can affect other spirits or creatures made of ectoplasm. Incorporeal creatures take full damage from _purge spirit_.
+_Purge spirit_ rips away at the target's spiritual substance, scattering it over a wide area and hampering the target's ability to reform. The target takes 1d6 points of damage per caster level (maximum 10d6) and is staggered for 1 round. On a miss, the target takes half damage and is not staggered. This spell affects astrally projected creatures, ethereal creatures, haunts, incorporeal creatures, [[rangoric-srd/classes/Medium (Class)|mediums]] channeling a [[rangoric-srd/classes/Medium (Class)#^medium-spirit|spirit]], and [[rangoric-srd/classes/Spiritualist (Class)#^spiritualist-phantom|phantoms]], and at the GM's discretion can affect other spirits or creatures made of ectoplasm. Incorporeal creatures take full damage from _purge spirit_.

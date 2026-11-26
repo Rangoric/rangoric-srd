@@ -17,7 +17,7 @@ casting-time: "3 full rounds"
 range: "Touch"
 target: "Living creature touched"
 duration: "Instantaneous"
-saving-throw: "Fortitude negates (harmless)"
+defense: "Fortitude (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Regenerate|Regenerate (3.5)]]"
@@ -37,7 +37,7 @@ _Conjuration (Healing)_
 - **Range**: Touch
 - **Target**: Living creature touched
 - **Duration**: Instantaneous
-- **Saving Throw**: Fortitude negates (harmless)
+- **Defense**: Fortitude (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 The subject’s severed body members (fingers, toes, hands, feet, arms, legs, tails, or even heads of multiheaded creatures), broken bones, and ruined organs grow back. After the spell is cast, the physical regeneration is complete in 1 round if the severed members are present and touching the creature. It takes 2d10 rounds otherwise.

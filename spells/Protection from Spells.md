@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Touch"
 targets: "Up to one creature touched per four levels"
 duration: "10 min./level"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Protection from Spells|Protection from Spells (3.5)]]"
@@ -36,10 +36,10 @@ _Abjuration_
 - **Range**: Touch
 - **Targets**: Up to one creature touched per four levels
 - **Duration**: 10 min./level
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
-The subject gains a +8 resistance bonus on saving throws against spells and spell-like abilities (but not against supernatural and extraordinary abilities).
+The subject gains a +8 resistance bonus on defenses against spells and spell-like abilities (but not against supernatural and extraordinary abilities).
 
 _Material Component_: A diamond of at least 500 gp value, which must be crushed and sprinkled over the targets.
 

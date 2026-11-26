@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Willing living creature touched"
 duration: "1 min./level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Polymorph|Polymorph (3.5)]]"
@@ -33,7 +33,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: Willing living creature touched
 - **Duration**: 1 min./level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 This spell functions like [[rangoric-srd/spells/Alter Self|alter self]], except that you change the willing subject into another form of living creature. The new form may be of the same type as the subject or any of the following types: aberration, animal, dragon, fey, giant, humanoid, magical beast, monstrous humanoid, ooze, plant, or vermin. The assumed form can’t have more Hit Dice than your caster level (or the subject’s HD, whichever is lower), to a maximum of 15 HD at 15th level. You can’t cause a subject to assume a form smaller than Fine, nor can you cause a subject to assume an [[rangoric-srd/rules/Special Abilities and Conditions#^incorporeal|incorporeal]] or gaseous form. The subject’s creature type and subtype (if any) change to match the new form.
