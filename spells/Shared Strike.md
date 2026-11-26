@@ -12,7 +12,7 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 round/level"
-saving-throw: "Fortitude negates (harmless)"
+defense: "Fortitude (harmless)"
 spell-resistance: "Yes"
 book: "Spells & Magic"
 based-on:
@@ -33,7 +33,7 @@ _Transmutation_
 - **Range**: Personal
 - **Target**: You
 - **Duration**: 1 round/level
-- **Saving Throw**: Fortitude negates (harmless)
+- **Defense**: Fortitude (harmless)
 - **Spell Resistance**: Yes
 
 For this spell to work, the caster must be in physical contact with her familiar at the time of casting. _Shared strike_ grants the caster one of the familiar’s attack modes, complete with a slight physical change in appearance to account for the new ability.

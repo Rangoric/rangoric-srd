@@ -16,7 +16,7 @@ casting-time: "10 minutes"
 range: "Touch"
 target: "Page touched, up to 3 sq. ft. in size"
 duration: "Permanent"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Secret Page|Secret Page (3.5)]]"
@@ -36,7 +36,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: Page touched, up to 3 sq. ft. in size
 - **Duration**: Permanent
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 Secret page alters the contents of a page so that they appear to be something entirely different. The text of a spell can be changed to show even another spell. Explosive runes or sepia snake sigil can be cast upon the secret page.

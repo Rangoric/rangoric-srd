@@ -14,7 +14,7 @@ casting-time: "1 hour"
 range: "0 ft."
 effect: "One duplicate creature"
 duration: "1 hour/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Ultimate Magic"
 based-on:
@@ -35,7 +35,7 @@ _Illusion (Shadow)_
 - **Range**: 0 ft.
 - **Effect**: One duplicate creature
 - **Duration**: 1 hour/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 This spell functions as _[[rangoric-srd/spells/Simulacrum|simulacrum]]_, except you can't create a simulacrum of a creature whose HD or levels exceed your caster level, and it has no magical abilities. The creature is not under your control, though it recognizes you are its creator.

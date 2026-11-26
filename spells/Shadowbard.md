@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. +5 ft./2 levels)"
 effect: "Phantom singer"
 duration: "1 round/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Ultimate Magic"
 based-on:
@@ -37,7 +37,7 @@ _Illusion (Shadow) \[Shadow\]_
 - **Range**: Close (25 ft. +5 ft./2 levels)
 - **Effect**: Phantom singer
 - **Duration**: 1 round/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 School illusion (shadow) \[shadow\]; **Level** bard 5

@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Willing living creature touched"
 duration: "Caster level hour(s)"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 book: "Ultimate Wilderness"
 based-on:
@@ -34,7 +34,7 @@ _Transmutation (Polymorph)_
 - **Range**: Touch
 - **Target**: Willing living creature touched
 - **Duration**: Caster level hour(s)
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
 This spell functions as [[rangoric-srd/spells/Shapechanger’s Gift|shapechanger's gift]] except the chosen form can be an animal (as per _beast shape_ I), elemental (as per _elemental body_ I), fey (as per _fey form I_\*), humanoid (as per _alter_ self), monstrous humanoid (as per _monstrous physique_ IUM), or vermin (as per _vermin shape_ IUM) and the chosen form can have a fly speed.

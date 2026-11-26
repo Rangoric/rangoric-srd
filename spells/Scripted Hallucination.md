@@ -20,7 +20,7 @@ casting-time: "1 standard action"
 range: "Long (400 ft. + 40 ft./level)"
 target: "One creature/level, no two of which can be more than 30 ft. apart"
 duration: "Caster level minute(s)"
-saving-throw: "Will disbelief"
+defense: "Will disbelief"
 spell-resistance: "Yes"
 book: "Ultimate Intrigue"
 based-on:
@@ -41,7 +41,7 @@ _Illusion (Phantasm) \[MindAffecting\]_
 - **Range**: Long (400 ft. + 40 ft./level)
 - **Target**: One creature/level, no two of which can be more than 30 ft. apart
 - **Duration**: Caster level minute(s)
-- **Saving Throw**: Will disbelief
+- **Defense**: Will disbelief
 - **Spell Resistance**: Yes
 
 This spell functions as [[rangoric-srd/spells/Audiovisual Hallucination|audiovisual hallucination]], except that the phantasm includes visual, auditory, olfactory, tactile, and thermal components, and the phantasm follows a complex script. The phantasm follows that script without your concentration and can react to stimuli the targets perceive.

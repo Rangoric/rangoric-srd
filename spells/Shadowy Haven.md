@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "One 5-foot square of floor touched"
 duration: "2 hours/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Advanced Race Guide"
 based-on:
@@ -34,7 +34,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: One 5-foot square of floor touched
 - **Duration**: 2 hours/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 This spell functions like _[[rangoric-srd/spells/Rope Trick|rope trick]]_, except the point of entry is through a 5-foot-square instead of a rope. The space holds as many as 10 creatures of any size.

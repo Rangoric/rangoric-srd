@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "30 ft."
 area: "One 10-ft. cube"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Advanced Player's Guide"
 based-on:
@@ -37,7 +37,7 @@ _Divination_
 - **Range**: 30 ft.
 - **Area**: One 10-ft. cube
 - **Duration**: Instantaneous
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You examine an area at range as if you were searching for fine details with the Perception skill. Make a Perception check with a –5 penalty, modified as normal for conditions. No penalty is applied for distance. Apply the result against the DC for any hidden features, such as secret doors, traps, or hidden treasure. You must be able to see the area you are attempting to search, and you only find details that can be perceived with sight or touch. _Sift_ detects only objects and features, not actual creatures.

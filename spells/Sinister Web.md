@@ -4,7 +4,7 @@ section: "Spells"
 school: "Conjuration"
 level:
   - "Sor/Wiz 4"
-saving-throw: "Reflex negates, Fortitude negates (see text)"
+defense: "Reflex, Fortitude (see text)"
 spell-resistance: "No"
 book: "Spells & Magic"
 based-on:
@@ -20,9 +20,9 @@ tags: [rangoric, rangoric/spell]
 _Conjuration_
 
 - **Level**: Sor/Wiz 4
-- **Saving Throw**: Reflex negates, Fortitude negates (see text)
+- **Defense**: Reflex, Fortitude (see text)
 - **Spell Resistance**: No
 
 As _[[rangoric-srd/spells/Web|web]]_, except the webs conjured are not particularly vulnerable to flame attacks. The webs do not burn unless in constant contact with fire, and it takes 2 rounds to burn away a 5 foot square area.
 
-In addition, any creature caught in the webs must make a Fortitude Save or be paralyzed for 1d6+1 rounds. For each round that a creature tries to move through the webs, a new Fortitude Save is necessary.
+In addition, the webs attack the Fortitude of any creature caught in them, and on a hit it is paralyzed for 1d6+1 rounds. For each round that a creature tries to move through the webs, they attack its Fortitude again.

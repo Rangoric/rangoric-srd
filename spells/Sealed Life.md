@@ -11,7 +11,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "1 round/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 book: "Occult Adventures"
 based-on:
@@ -32,7 +32,7 @@ _Abjuration_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature
 - **Duration**: 1 round/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 You seal the life force within the target, preventing it from sharing its vitality with others. Affected creatures can't transfer damage to or from another, such as through _[[rangoric-srd/spells/Shield Other|shield other]]_, a [[rangoric-srd/classes/Spiritualist (Class)|spiritualist]]'s [[rangoric-srd/classes/Spiritualist (Class)#^spiritualist-spiritual-bond|life bond]], or a summoner's [[rangoric-srd/classes/Summoner#^summoner-life-link|life link]]. Effects such as _[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]_ that steal vitality from others deal damage normally, but provide no benefits.

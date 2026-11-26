@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Willing living creature touched"
 duration: "10 * caster level minute(s)"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 book: "Ultimate Wilderness"
 based-on:
@@ -36,7 +36,7 @@ _Transmutation (Polymorph)_
 - **Range**: Touch
 - **Target**: Willing living creature touched
 - **Duration**: 10 \* caster level minute(s)
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
 You change the target into an animal (as per _beast shape_ I), humanoid (as per _alter_ self), or monstrous humanoid (as per _monstrous physique_ IUM). The chosen form can't have a fly speed. The subject's statistics change as per the appropriate spell except the creature's ability scores and natural armor do not change. The creature can change between its natural form and the chosen form at will as a standard action.

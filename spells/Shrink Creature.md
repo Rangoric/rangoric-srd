@@ -12,7 +12,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "One creature up to 100 lb./level"
 duration: "1 minute/level"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 book: "Faeries"
 based-on:
@@ -33,7 +33,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: One creature up to 100 lb./level
 - **Duration**: 1 minute/level
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
 Similar to _[[rangoric-srd/spells/Reduce Person|reduce person]]_, this spell causes the instant shrinking of a person or animal to one-tenth its normal size. All equipment worn or carried by a creature subjected to this spell is also shrunk by the spell. This reduces a creature’s Strength to one-tenth of normal (round down) to a minimum score of 1. Multiple magical effects that shrink or reduce do not stack. _[[rangoric-srd/spells/Enlarge Person|Enlarge person]]_ does not counter a _shrink creature_ spell, but it does take effect on the creature’s current size and work its magics accordingly.

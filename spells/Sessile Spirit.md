@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 target: "One creature or object (see text)"
 duration: "Caster level round(s)"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Occult Adventures"
 based-on:
@@ -37,7 +37,7 @@ _Necromancy_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Target**: One creature or object (see text)
 - **Duration**: Caster level round(s)
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
-You reach into the target creature and cause that spirits within to become dormant and inactive. If the target is a [[rangoric-srd/classes/Medium (Class)|medium]] with a [[rangoric-srd/classes/Medium (Class)#^medium-spirit|spirit]] inhabiting its body or a [[rangoric-srd/classes/Spiritualist (Class)|spiritualist]] with a [[rangoric-srd/classes/Spiritualist (Class)#^spiritualist-phantom|phantom]] inhabiting its consciousness (or a member of another class using the [[rangoric-srd/classes/Medium (Class)#^medium-spirit|spirit]] or [[rangoric-srd/classes/Spiritualist (Class)#^spiritualist-phantom|phantom]] class features), a failed save renders that spirit or phantom powerless, suppressing any benefits the spirit or phantom normally provides to its host, including bonus feats and spells known. If a spirit within the target is a creature using a _[[rangoric-srd/spells/Possession|possession]]_ effect, including _[[rangoric-srd/spells/Possess Object|possess object]]_, _[[rangoric-srd/spells/Possession|possession]]_, or a ghost's malevolence, the spell targets the possessing creature rather than the creature it inhabits. On a failed save, the possessing spirit isn't exorcised from the target but is dazed for the duration of the spell.
+You reach into the target creature and cause that spirits within to become dormant and inactive. If the target is a [[rangoric-srd/classes/Medium (Class)|medium]] with a [[rangoric-srd/classes/Medium (Class)#^medium-spirit|spirit]] inhabiting its body or a [[rangoric-srd/classes/Spiritualist (Class)|spiritualist]] with a [[rangoric-srd/classes/Spiritualist (Class)#^spiritualist-phantom|phantom]] inhabiting its consciousness (or a member of another class using the [[rangoric-srd/classes/Medium (Class)#^medium-spirit|spirit]] or [[rangoric-srd/classes/Spiritualist (Class)#^spiritualist-phantom|phantom]] class features), a hit renders that spirit or phantom powerless, suppressing any benefits the spirit or phantom normally provides to its host, including bonus feats and spells known. If a spirit within the target is a creature using a _[[rangoric-srd/spells/Possession|possession]]_ effect, including _[[rangoric-srd/spells/Possess Object|possess object]]_, _[[rangoric-srd/spells/Possession|possession]]_, or a ghost's malevolence, the spell targets the possessing creature rather than the creature it inhabits. On a hit, the possessing spirit isn't exorcised from the target but is dazed for the duration of the spell.

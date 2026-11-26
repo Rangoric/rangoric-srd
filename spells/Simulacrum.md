@@ -17,7 +17,7 @@ casting-time: "12 hours"
 range: "0 ft."
 effect: "One duplicate creature"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Simulacrum|Simulacrum (3.5)]]"
@@ -37,7 +37,7 @@ _Illusion (Shadow)_
 - **Range**: 0 ft.
 - **Effect**: One duplicate creature
 - **Duration**: Instantaneous
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 Simulacrum creates an illusory duplicate of any creature. The duplicate creature is partially real and formed from ice or snow. It appears to be the same as the original, but it has only one-half of the real creature’s levels or Hit Dice (and the appropriate hit points, feats, skill ranks, and special abilities for a creature of that level or HD). You can’t create a simulacrum of a creature whose Hit Dice or levels exceed twice your caster level. You must make an [[rangoric-srd/skills/Imitation|Imitation]] check when you cast the spell to determine how good the likeness is. A creature familiar with the original might detect the ruse with a successful [[rangoric-srd/skills/Perception|Perception]] check (opposed by the caster’s Imitation check) or a DC 20 [[rangoric-srd/skills/Sense Motive|Sense Motive]] check.

@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "15 ft."
 area: "Cone-shaped burst"
 duration: "Instantaneous"
-saving-throw: "Reflex half"
+defense: "Reflex half"
 spell-resistance: "Yes"
 book: "Advanced Class Guide"
 based-on:
@@ -37,7 +37,7 @@ _Conjuration (Creation)_
 - **Range**: 15 ft.
 - **Area**: Cone-shaped burst
 - **Duration**: Instantaneous
-- **Saving Throw**: Reflex half
+- **Defense**: Reflex half
 - **Spell Resistance**: Yes
 
 A cone of silver darts springs from your hand. These darts act as a silver weapon that deals 1d6 points of piercing damage per caster level (maximum 10d6). Any creature with an armor bonus greater than +4 or a natural armor bonus greater than +4 takes 50% less damage.

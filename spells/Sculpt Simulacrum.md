@@ -12,7 +12,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Simulacrum touched"
 duration: "Instantaneous"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -33,7 +33,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: Simulacrum touched
 - **Duration**: Instantaneous
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
 You create cosmetic changes to a simulacrum, similar to _[[rangoric-srd/spells/Disguise Self|disguise self]]_, except the changes are physical rather than illusory. This does not change any of the simulacrum's abilities.

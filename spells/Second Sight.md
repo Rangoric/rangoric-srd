@@ -19,7 +19,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 area: "Cone"
 duration: "10 minutes/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Faeries"
 based-on:
@@ -40,7 +40,7 @@ _Divination_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Area**: Cone
 - **Duration**: 10 minutes/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 As the _[[rangoric-srd/spells/See Invisibility|see invisibility]]_ spell, you can see any creatures or objects that are invisible, the subject of a _[[rangoric-srd/spells/Fey Mask|fey mask]]_ spell, or have stepped sideways out of the world nearby (such as with the _[[rangoric-srd/spells/Step Sideways|step sideways]]_ spell or the fae-walker’s [[rangoric-srd/prestige-classes/Fae-walker#^fae-walker-step-sideways|step sideways]]).
