@@ -90,7 +90,7 @@ Any spellsong with a duration of concentration requires the caster to keep makin
 
 **Greater Countersong**: At 2nd level, a spellsinger is able to counter the effects of sound-based magic more effectively than normal bards. Any Performance checks made in order to use the [[rangoric-srd/classes/Bard#^countersong|countersong]] ability receive a +5 competence bonus. ^spellsinger-greater-countersong
 
-**Pierce Silence (Su)**: At 3rd level, a spellsinger receives a +2 natural bonus on any saving throw made to resist magical silence. ^spellsinger-pierce-silence
+**Pierce Silence (Su)**: At 3rd level, a spellsinger receives a +2 natural bonus on any defense against magical silence. ^spellsinger-pierce-silence
 
 **Singing Radius**: At 4th level, when preparing spells (or when casting them, for sorcerers and bards), the spellsinger may choose to increase the range of her spells to affect everyone nearby. This acts as a metamagic feat that increases the spell slot required for the spell, and the spell must be prepared or cast as a spellsong. Using this ability in all ways functions exactly like using a metamagic feat. Everyone within the radius is affected by the spell, be they friend or foe. ^spellsinger-singing-radius
 

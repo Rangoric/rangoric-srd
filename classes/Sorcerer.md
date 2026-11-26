@@ -94,7 +94,7 @@ All of the following are class features of the sorcerer.
 
 **Spells**: A sorcerer casts arcane spells which are drawn primarily from the [[rangoric-srd/spells/Sorcerer and Wizards Spell List|sorcerer/wizard spell list]]. He can cast any spell he knows without preparing it ahead of time, the way a wizard or a cleric must (see below).
 
-To learn or cast a spell, a sorcerer must have a Charisma score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a sorcerer’s spell is 10 + the spell level + the sorcerer’s Charisma modifier.
+To learn or cast a spell, a sorcerer must have a Charisma score equal to at least 10 + the spell level. The attack bonus of a sorcerer’s spell is the spell level + the sorcerer’s Charisma modifier.
 
 Like other spellcasters, a sorcerer can cast only a certain number of spells of each spell level per day. His base daily spell allotment is given on Table: The Sorcerer. In addition, he receives bonus spells per day if he has a high Charisma score.
 
@@ -124,7 +124,7 @@ The bloodlines are in [[rangoric-srd/class-options/bloodlines/Bloodlines|Bloodli
 
 The sorcerer chooses the kind of familiar he gets. As the sorcerer advances in level, his familiar also increases in power, with the [[rangoric-srd/class-options/companion-features/Familiar (Companion Feature)|familiar features]].
 
-If the familiar dies or is dismissed by the sorcerer, the sorcerer must attempt a DC 15 Fortitude saving throw. Failure means he loses 200 experience points per sorcerer level; success reduces the loss to one-half that amount. However, a sorcerer’s experience point total can never go below 0 as the result of a familiar’s demise or dismissal. A slain or dismissed familiar cannot be replaced for a year and day. (A wizard replaces hers through a [[rangoric-srd/classes/Wizard#^wizard-familiar-replacement|ritual]] instead.) A slain familiar can be raised from the dead just as a character can be, and it does not gain [[rangoric-srd/rules/Special Abilities and Conditions#^negative-levels|negative levels]] or lose Constitution when this happy event occurs.
+If the familiar dies or is dismissed by the sorcerer, the loss attacks the sorcerer’s Fortitude at +5. A hit means he loses 200 experience points per sorcerer level; a miss reduces the loss to one-half that amount. However, a sorcerer’s experience point total can never go below 0 as the result of a familiar’s demise or dismissal. A slain or dismissed familiar cannot be replaced for a year and day. (A wizard replaces hers through a [[rangoric-srd/classes/Wizard#^wizard-familiar-replacement|ritual]] instead.) A slain familiar can be raised from the dead just as a character can be, and it does not gain [[rangoric-srd/rules/Special Abilities and Conditions#^negative-levels|negative levels]] or lose Constitution when this happy event occurs.
 
 A character with more than one class that grants a familiar may have only one familiar at a time.
 

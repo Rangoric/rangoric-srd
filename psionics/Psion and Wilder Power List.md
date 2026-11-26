@@ -37,7 +37,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/powers/Distract\|Distract:]]                                       | Target gets -4 bonus on Perception, Investigation, and Sense Motive checks. |
 | [[rangoric-srd/powers/Ecto Protection\|Ecto Protection (A):]]                     | An astral construct gains bonus against dismiss ectoplasm.                  |
 | [[rangoric-srd/powers/Empathy\|Empathy (A):]]                                     | You know the subject’s surface emotions.                                    |
-| [[rangoric-srd/powers/Empty Mind\|Empty Mind (A):]]                               | You gain +2 on Will saves until your next action.                           |
+| [[rangoric-srd/powers/Empty Mind\|Empty Mind (A):]]                               | You gain +2 on Will Defense until your next action.                         |
 | [[rangoric-srd/powers/Energy Ray\|Energy Ray (A):]]                               | Deal 1d6 energy (cold, electricity, fire, or sonic) damage.                 |
 | [[rangoric-srd/powers/Entangling Ectoplasm\|Entangling Ectoplasm:]]               | You entangle a foe in sticky goo.                                           |
 | [[rangoric-srd/powers/Far Hand\|Far Hand (A):]]                                   | Move small objects at a limited distance.                                   |
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/powers/Mind Thrust\|Mind Thrust (A):]]                             | Deal 1d10 damage.                                                           |
 | [[rangoric-srd/powers/Missive\|Missive (A):]]                                     | Send a one-way telepathic message to subject.                               |
 | [[rangoric-srd/powers/My Light\|My Light (A):]]                                   | Your eyes emit 20-ft. cone of light.                                        |
-| [[rangoric-srd/powers/Precognition, Defensive\|Precognition, Defensive (A):]]     | Gain +1 insight bonus to AC and saving throws.                              |
+| [[rangoric-srd/powers/Precognition, Defensive\|Precognition, Defensive (A):]]     | Gain +1 insight bonus to AC and other defenses.                             |
 | [[rangoric-srd/powers/Precognition, Offensive\|Precognition, Offensive (A):]]     | Gain +1 insight bonus on your attack rolls.                                 |
 | [[rangoric-srd/powers/Prescience, Offensive\|Prescience, Offensive (A):]]         | Gain +2 insight bonus on your damage rolls.                                 |
 | [[rangoric-srd/powers/Sense Link\|Sense Link (A):]]                               | You sense what the subject senses (single sense).                           |
@@ -76,11 +76,11 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/powers/Elfsight\|Elfsight:]]                                             | Gain low-light vision, +2 bonus on Investigation and Perception checks, and notice secret doors. |
 | [[rangoric-srd/powers/Energy Adaptation, Specified\|Energy Adaptation, Specified (A):]] | Gain resistance 10 against one energy type.                                                      |
 | [[rangoric-srd/powers/Energy Push\|Energy Push (A):]]                                   | Deal 2d6 damage and knock subject back.                                                          |
-| [[rangoric-srd/powers/Energy Stun\|Energy Stun (A):]]                                   | Deal 1d6 damage and stun target if it fails both saves.                                          |
+| [[rangoric-srd/powers/Energy Stun\|Energy Stun (A):]]                                   | Deal 1d6 damage and stun target if both its attacks hit.                                         |
 | [[rangoric-srd/powers/Feat Leech\|Feat Leech (A):]]                                     | Borrow another’s psionic or metapsionic feats.                                                   |
 | [[rangoric-srd/powers/Id Insinuation\|Id Insinuation (A):]]                             | Swift tendrils of thought disrupt and confuse your target.                                       |
 | [[rangoric-srd/powers/Identify, Psionic\|Identify, Psionic:]]                           | Learn the properties of a psionic item.                                                          |
-| [[rangoric-srd/powers/Inflict Pain (Power)\|Inflict Pain (A):]]                         | Telepathic stab gives your foe -4 on attack rolls, or -2 if he makes the save.                   |
+| [[rangoric-srd/powers/Inflict Pain (Power)\|Inflict Pain (A):]]                         | Telepathic stab gives your foe -4 on attack rolls, or -2 on a miss.                              |
 | [[rangoric-srd/powers/Knock, Psionic\|Knock, Psionic:]]                                 | Opens locked or psionically sealed door.                                                         |
 | [[rangoric-srd/powers/Levitate, Psionic\|Levitate, Psionic:]]                           | You move up and down via mental support.                                                         |
 | [[rangoric-srd/powers/Mental Disruption\|Mental Disruption (A):]]                       | Daze creatures within 10 feet for 1 round.                                                       |
@@ -151,7 +151,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/powers/Catapsi\|Catapsi (A):]]                             | Psychic static inhibits power manifestation.                                                   |
 | [[rangoric-srd/powers/Ectoplasmic Shambler\|Ectoplasmic Shambler:]]       | Foglike predator deals 1 point of damage/two levels each round to an area.                     |
 | [[rangoric-srd/powers/Incarnate\|Incarnate (X):]]                         | Make some powers permanent.                                                                    |
-| [[rangoric-srd/powers/Leech Field\|Leech Field (A):]]                     | Leech power points each time you make a saving throw.                                          |
+| [[rangoric-srd/powers/Leech Field\|Leech Field (A):]]                     | Leech power points each time a power misses your defense.                                      |
 | [[rangoric-srd/powers/Major Creation, Psionic\|Major Creation, Psionic:]] | As psionic minor creation, plus stone and metal.                                               |
 | [[rangoric-srd/powers/Plane Shift, Psionic\|Plane Shift, Psionic:]]       | Travel to other planes.                                                                        |
 | [[rangoric-srd/powers/Power Resistance\|Power Resistance:]]               | Grant PR equal to 12 + level.                                                                  |
@@ -185,10 +185,10 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/powers/Divert Teleport\|Divert Teleport:]]                             | Choose destination for another’s teleport.                               |
 | [[rangoric-srd/powers/Energy Conversion\|Energy Conversion:]]                         | Offensively channel energy you’ve absorbed.                              |
 | [[rangoric-srd/powers/Energy Wave\|Energy Wave (A):]]                                 | Deal 13d4 damage of your chosen energy type in 120-ft. cone.             |
-| [[rangoric-srd/powers/Evade Burst\|Evade Burst (A):]]                                 | You take no damage from a burst on a successful Reflex save.             |
+| [[rangoric-srd/powers/Evade Burst\|Evade Burst (A):]]                                 | You take no damage from a burst that misses your Reflex Defense.         |
 | [[rangoric-srd/powers/Insanity (Power)\|Insanity (A):]]                               | Subject is permanently confused.                                         |
 | [[rangoric-srd/powers/Mind Blank, Personal\|Mind Blank, Personal:]]                   | You are immune to scrying and mental effects.                            |
-| [[rangoric-srd/powers/Moment of Prescience, Psionic\|Moment of Prescience, Psionic:]] | You gain insight bonus on single attack roll, check, or save.            |
+| [[rangoric-srd/powers/Moment of Prescience, Psionic\|Moment of Prescience, Psionic:]] | You gain insight bonus on single attack roll, check, or defense.         |
 | [[rangoric-srd/powers/Oak Body\|Oak Body (A):]]                                       | Your body becomes as hard as oak.                                        |
 | [[rangoric-srd/powers/Phase Door, Psionic\|Phase Door, Psionic:]]                     | Invisible passage through wood or stone.                                 |
 | [[rangoric-srd/powers/Sequester, Psionic\|Sequester, Psionic (X):]]                   | Subject invisible to sight and remote viewing; renders subject comatose. |

@@ -73,7 +73,7 @@ All of the following are class features of the wizard.
 
 **Spells**: A wizard casts arcane spells which are drawn from the [[rangoric-srd/spells/Sorcerer and Wizards Spell List|sorcerer/ wizard spell list]]. A wizard must choose and prepare her spells ahead of time (see below). ^wizard-spells
 
-To learn, prepare, or cast a spell, the wizard must have an Intelligence score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a wizard’s spell is 10 + the spell level + the wizard’s Intelligence modifier.
+To learn, prepare, or cast a spell, the wizard must have an Intelligence score equal to at least 10 + the spell level. The attack bonus of a wizard’s spell is the spell level + the wizard’s Intelligence modifier.
 
 Like other spellcasters, a wizard can cast only a certain number of spells of each spell level per day. Her base daily spell allotment is given on Table: The Wizard. In addition, she receives bonus spells per day if she has a high Intelligence score.
 
@@ -151,19 +151,19 @@ Levels of different classes that are entitled to familiars stack for the purpose
 | Cat       | Master gains a +3 bonus on [[rangoric-srd/skills/Stealth\|Stealth]] checks                       |
 | Centipede | Master gains a +3 bonus on [[rangoric-srd/skills/Stealth\|Stealth]] checks                       |
 | Crab      | Master gains a +2 bonus on combat maneuver checks to grapple                                     |
-| Fox       | Master gains a +2 bonus on Reflex saves                                                          |
+| Fox       | Master gains a +2 bonus on Reflex Defense                                                        |
 | Hawk      | Master gains a +3 bonus on [[rangoric-srd/skills/Perception\|Perception]] checks in bright light |
 | Lizard    | Master gains a +3 bonus on [[rangoric-srd/skills/Athletics\|Athletics]] checks                   |
 | Monkey    | Master gains a +3 bonus on [[rangoric-srd/skills/Acrobatics\|Acrobatics]] checks                 |
 | Octopus   | Master gains a +3 bonus on [[rangoric-srd/skills/Athletics\|Athletics]] checks to swim           |
 | Owl       | Master gains a +3 bonus on Perception checks in shadows                                          |
-| Rat       | Master gains a +2 bonus on Fortitude saves                                                       |
+| Rat       | Master gains a +2 bonus on Fortitude Defense                                                     |
 | Raven (1) | Master gains a +3 bonus on [[rangoric-srd/skills/Appraise\|Appraise]] checks                     |
 | Scorpion  | Master gains a +2 bonus on initiative checks                                                     |
 | Snake (2) | Master gains a +3 bonus on [[rangoric-srd/skills/Deception\|Deception]] checks                   |
 | Spider    | Master gains a +3 bonus on [[rangoric-srd/skills/Athletics\|Athletics]] checks to climb          |
 | Toad      | Master gains +3 hit points                                                                       |
-| Weasel    | Master gains a +2 bonus on Reflex saves                                                          |
+| Weasel    | Master gains a +2 bonus on Reflex Defense                                                        |
 
 1 _A raven familiar can speak one language of its master’s choice as a supernatural ability._
 
@@ -177,7 +177,7 @@ _Hit Points_: The familiar has one-half the master’s total hit points (not inc
 
 _Attacks_: Use the master’s base attack bonus, as calculated from all his classes. Use the familiar’s Dexterity or Strength modifier, whichever is greater, to get the familiar’s melee attack bonus with natural weapons. Damage equals that of a normal creature of the familiar’s kind.
 
-_Saving Throws_: For each saving throw, use either the familiar’s base save bonus (Fortitude +2, Reflex +2, Will +0) or the master’s (as calculated from all his classes), whichever is better. The familiar uses its own ability modifiers to saves, and it doesn’t share any of the other bonuses that the master might have on saves.
+_Defenses_: For each of its Fortitude, Reflex and Will Defenses, use either the familiar’s base save bonus (Fortitude +2, Reflex +2, Will +0) or the master’s (as calculated from all his classes), whichever is better. The familiar uses its own ability modifiers for these defenses, and it doesn’t share any of the other bonuses that the master might have on defenses.
 
 _Skills_: For each skill in which either the master or the familiar has ranks, use either the normal skill ranks for an animal of that type or the master’s skill ranks, whichever are better. In either case, the familiar uses its own ability modifiers. Regardless of a familiar’s total skill modifiers, some skills may remain beyond the familiar’s ability to use. Familiars treat [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Perception|Perception]], and [[rangoric-srd/skills/Stealth|Stealth]] as class skills.
 
@@ -189,7 +189,7 @@ _Int_: The familiar’s Intelligence score.
 
 _Keen Senses (Ex)_: While a familiar is within arm’s reach, the master gains the [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception) feat. ^familiar-alertness
 
-_Improved Evasion (Ex)_: When subjected to an attack that normally allows a Reflex saving throw for half damage, a familiar takes no damage if it makes a successful saving throw and half damage even if the saving throw fails. ^familiar-improved-evasion
+_Improved Evasion (Ex)_: When subjected to an attack against its Reflex Defense that normally deals half damage on a miss, a familiar takes no damage on a miss and half damage even on a hit. ^familiar-improved-evasion
 
 _Share Spells_: At the master’s option, he may have any spell (but not any spell-like ability) he casts on himself also affect his familiar. The familiar must be within 5 feet at the time of casting to receive the benefit. If the spell or effect has a duration other than instantaneous, it stops affecting the familiar if it moves farther than 5 feet away and will not affect the familiar again even if it returns to the master before the duration expires. Additionally, the master may cast a spell with a target of “You” on his familiar (as a touch range spell) instead of on himself. A master and his familiar can share spells even if the spells normally do not affect creatures of the familiar’s type (magical beast). ^familiar-share-spells
 

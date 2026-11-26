@@ -88,7 +88,7 @@ _Sneak Attack:_ If a swift scion has the [[rangoric-srd/classes/Rogue#^rogue-sne
 
 _Swift Tracker (Ex):_ If a swift scion has the [[rangoric-srd/feats/Track|Track]] feat, she may select this special ability. A swift scion with this ability can move at her normal speed while following tracks without taking the normal -5 penalty. She takes only a -10 penalty (instead of the normal -20) when moving at up to twice normal speed while tracking.
 
-_Trap Sense:_ If a swift scion has the [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] ability, she can take this special ability to increase her bonus on Reflex saves and to AC against traps by 1.
+_Trap Sense:_ If a swift scion has the [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] ability, she can take this special ability to increase her bonus on Reflex Defense and to AC against traps by 1.
 
 _Uncanny Dodge (Ex):_ A swift scion may choose to gain the [[rangoric-srd/classes/Rogue#^rogue-uncanny-dodge|uncanny dodge]] ability. If she already has uncanny dodge, she gains [[rangoric-srd/classes/Rogue#^rogue-improved-uncanny-dodge|improved uncanny dodge]] instead, and her swift scion levels stack with her levels in other classes that grant uncanny dodge to determine the minimum rogue level required to flank the character.
 

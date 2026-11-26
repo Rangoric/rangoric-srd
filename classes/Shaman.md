@@ -72,7 +72,7 @@ All of the following are class features of the shaman.
 
 **Spells**: A shaman casts divine spells drawn from the [[rangoric-srd/spells/Shaman Spell List|shaman spell list]]. A shaman must choose and prepare her spells in advance. ^shaman-spells
 
-To prepare or cast a spell, a shaman must have a Wisdom score equal to at least 10 + the spell’s level. The saving throw DC against a shaman’s spell is 10 + the spell’s level + the shaman’s Wisdom modifier.
+To prepare or cast a spell, a shaman must have a Wisdom score equal to at least 10 + the spell’s level. The attack bonus of a shaman’s spell is the spell’s level + the shaman’s Wisdom modifier.
 
 Like other spellcasters, a shaman can cast only a certain number of spells of each spell level per day. Her base daily spell allotment is given on the table above. In addition, she receives bonus spells per day if she has a high Wisdom score.
 
@@ -84,7 +84,7 @@ Shamans commune with their spirit animals to prepare their spells. Each shaman m
 
 At 1st level, a shaman gains the spirit ability granted by her chosen spirit. She adds the spells granted by that spirit to the list of spells that she can cast using spirit magic. She also adds the hexes possessed by that spirit to the list of hexes that she can use with the hex and wandering hex class features.
 
-At 8th level, the shaman gains the abilities listed in the greater version of her selected spirit. At 16th level, the shaman gains the abilities listed for the true version of her selected spirit. Unless otherwise noted, the DC to save against the special abilities granted by a spirit is equal to 10 + 1/2 the shaman’s level + the shaman’s Wisdom modifier.
+At 8th level, the shaman gains the abilities listed in the greater version of her selected spirit. At 16th level, the shaman gains the abilities listed for the true version of her selected spirit. Unless otherwise noted, the attack bonus of the special abilities granted by a spirit is 1/2 the shaman’s level + the shaman’s Wisdom modifier.
 
 If the shaman takes levels in another class that grants a mystery (such as the [[rangoric-srd/classes/Oracle|oracle]]), the spirit and [[rangoric-srd/class-options/mysteries/Mysteries|mystery]] must match, even if that means one of them must change. At the GM’s discretion, the shaman can change her former mystery or spirit to make them conform. ^shaman-spirit
 
@@ -96,7 +96,7 @@ A shaman must commune with her spirit animal each day to prepare her spells. Whi
 
 **Hex**: A shaman learns a number of magical tricks, called [[rangoric-srd/class-options/hexes/Hexes|hexes]], which grant her powers or weaken foes. At 2nd level, a shaman learns one hex. At 4th, 8th, 10th, 12th, 16th, 18th, and 20th level, the shaman learns new hexes. A shaman can select from any of the shaman hexes in [[rangoric-srd/class-options/hexes/Hexes|Hexes]] or from the hexes listed for her chosen spirit. A shaman cannot select a hex more than once unless noted otherwise.
 
-Using a hex is a standard action that doesn’t provoke an attack of opportunity unless otherwise noted. The saving throw DC to resist a hex is equal to 10 + 1/2 the shaman’s level + the shaman’s Wisdom modifier. ^shaman-hex
+Using a hex is a standard action that doesn’t provoke an attack of opportunity unless otherwise noted. The attack bonus of a hex is 1/2 the shaman’s level + the shaman’s Wisdom modifier. ^shaman-hex
 
 **Wandering Spirit (Su)**: At 4th level, a shaman can form a temporary bond with a spirit other than the one selected using her spirit class feature. She must make this selection each day when preparing her spells. While this feature is active, she gains the spirit ability granted by the spirit. She also adds the spells granted by that spirit to her list of spells that she can cast using spirit magic. She does not add the hexes from her wandering spirit to her list of hexes that she can choose from with the hex class feature. At 12th level, she gains the abilities listed in the greater version of her wandering spirit. At 20th level, she gains the ability listed in the true version of her wandering spirit. ^shaman-wandering-spirit
 

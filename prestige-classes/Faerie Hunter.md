@@ -74,7 +74,7 @@ All of the following are class features of the faerie hunter prestige class.
 
 **Weapon and Armor Proficiency**: Faerie hunters are proficient with all simple and martial weapons as well as all types of armor and shields. ^faerie-hunter-weapon-and-armor-proficiency
 
-**Fey Wary (Su)**: Due to their absolute hatred for the fey and anything they create, faerie hunters develop a resistance to enchantment and illusion spells. This supernatural ability provides them with a +1 insight bonus on saves to resist spells and spell-like abilities of these schools. This bonus increases by +1 at 4th, 7th and 10th level. ^faerie-hunter-fey-wary
+**Fey Wary (Su)**: Due to their absolute hatred for the fey and anything they create, faerie hunters develop a resistance to enchantment and illusion spells. This supernatural ability provides them with a +1 insight bonus on defenses against spells and spell-like abilities of these schools. This bonus increases by +1 at 4th, 7th and 10th level. ^faerie-hunter-fey-wary
 
 At 10th level, this faerie hunter ability extends to a radius emanating 5 feet from her.
 
@@ -94,7 +94,7 @@ At 10th level, this faerie hunter ability extends to a radius emanating 5 feet f
 
 **Destroy Doorway (Su)**: At 9th level, faerie hunters gain the supernatural ability to close [[rangoric-srd/rules/Fey Roads and Doorways#Doorways|doorways]] to the fey realm, thus removing avenues to and from the mortal world and preventing the escape of those fey already in mortal lands. In melee this takes a move action, and it provokes attacks of opportunity if performed in a threatened space. A ranged attack can be used to destroy a doorway if the faerie hunter fires a cold iron bolt or arrow imbued with this ability at the door. Through force of will, the faerie hunter is able to imbue a cold iron anchor (see [[rangoric-srd/prestige-classes/Faerie Hunter#^faerie-hunter-anchor|Anchor]]) with the destroy doorway ability for use as a ranged attack, but this takes an additional round. ^faerie-hunter-destroy-doorway
 
-**Spells**: Beginning at 1st level, a faerie hunter gains the ability to cast a small number of arcane spells. To cast a spell, the faerie hunter must have a Charisma score of at least 10 + the spell’s level. Faerie hunter bonus spells are based on Charisma, and saving throws against these spells have a DC of 10 + spell level + the faerie hunter’s Charisma modifier. When the faerie hunter gets 0 spells of a given level, such as 0 1st-level spells at 1st level, she gets only bonus spells. (A faerie hunter without a bonus spell for that level cannot yet cast a spell of that level.) The faerie hunter’s spell list appears below. A faerie hunter can freely choose, prepare, and cast any spell on the list, just like a bard. ^faerie-hunter-spells
+**Spells**: Beginning at 1st level, a faerie hunter gains the ability to cast a small number of arcane spells. To cast a spell, the faerie hunter must have a Charisma score of at least 10 + the spell’s level. Faerie hunter bonus spells are based on Charisma, and the attack bonus of these spells is the spell level + the faerie hunter’s Charisma modifier. When the faerie hunter gets 0 spells of a given level, such as 0 1st-level spells at 1st level, she gets only bonus spells. (A faerie hunter without a bonus spell for that level cannot yet cast a spell of that level.) The faerie hunter’s spell list appears below. A faerie hunter can freely choose, prepare, and cast any spell on the list, just like a bard. ^faerie-hunter-spells
 
 ###### Faerie Hunter Spell List
 

@@ -63,7 +63,7 @@ All of the following are class features of the star magus prestige class.
 
 **Spells per Day/Spells Known**: When a new star magus level is gained, the character gains new spells per day (and spells known, if applicable) as if she had also gained a level in an arcane spellcasting class she belonged to before she added the prestige class. She does not, however, gain any other benefit a character of that class would have gained. This means she adds her star magus levels to the level of one arcane spellcasting class she has, then works out spells per day, spells known and caster level, which also count for [[rangoric-srd/rules/star magic/Star Magic#^other-arcane-casters|star magic]]. If she had more than one arcane spellcasting class before, she decides to which class each new level is added.
 
-**Superior Spell Focus (Ex)**: The save DCs of the stars and constellations a star magus calls are 2 higher. This becomes +4 at 3rd level and +6 at 5th level, and stacks with [[rangoric-srd/feats/Spell Focus|Spell Focus]]. ^star-magus-superior-spell-focus
+**Superior Spell Focus (Ex)**: The attack bonuses of the stars and constellations a star magus calls are 2 higher. This becomes +4 at 3rd level and +6 at 5th level, and stacks with [[rangoric-srd/feats/Spell Focus|Spell Focus]]. ^star-magus-superior-spell-focus
 
 **Focused Spell Penetration (Ex)**: At 2nd level, a star magus gains a +2 bonus on caster level checks to overcome spell resistance with stars and constellations. This becomes +4 at 4th level. ^star-magus-focused-spell-penetration
 

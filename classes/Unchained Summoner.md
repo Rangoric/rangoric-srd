@@ -100,7 +100,7 @@ All of the following are class features of the unchained summoner.
 
 **Spells**: A summoner casts arcane spells drawn from the [[rangoric-srd/spells/Unchained Summoner Spell List|summoner spell list]]. (The unchained summoner’s spell list is different from the summoner’s.) He can cast any spell he knows without preparing it ahead of time. ^unchained-summoner-spells
 
-To learn or cast a spell, a summoner must have a Charisma score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a summoner’s spell is 10 + the spell level + the summoner’s Charisma modifier.
+To learn or cast a spell, a summoner must have a Charisma score equal to at least 10 + the spell level. The attack bonus of a summoner’s spell is the spell level + the summoner’s Charisma modifier.
 
 A summoner can cast only a certain number of spells of each spell level each day. His base daily spell allotment is given on [[rangoric-srd/classes/Unchained Summoner#^table-the-unchained-summoner|Table: The Unchained Summoner]]. In addition, he gains bonus spells per day if he has a high Charisma score.
 
@@ -128,7 +128,7 @@ In addition, the eidolon and the summoner must remain within 100 feet of one ano
 
 **Bond Senses (Su)**: At 2nd level, a summoner can, as a standard action, share the senses of his eidolon, hearing, seeing, smelling, tasting, and touching everything the eidolon does. He can use this ability a number of rounds per day equal to his summoner level. There is no maximum range to this effect, but the eidolon and the summoner must be on the same plane. The summoner can end this effect as a free action. ^unchained-summoner-bond-senses
 
-**Shield Ally (Ex)**: At 4th level, whenever a summoner is within his eidolon’s reach, the summoner gains a +2 shield bonus to his Armor Class and a +2 circumstance bonus on his saving throws. This bonus does not apply if the eidolon is grappled, helpless, paralyzed, stunned, or unconscious. ^unchained-summoner-shield-ally
+**Shield Ally (Ex)**: At 4th level, whenever a summoner is within his eidolon’s reach, the summoner gains a +2 shield bonus to his Armor Class and a +2 circumstance bonus on his defenses. This bonus does not apply if the eidolon is grappled, helpless, paralyzed, stunned, or unconscious. ^unchained-summoner-shield-ally
 
 **Maker’s Call (Su)**: At 6th level, as a standard action, a summoner can call his eidolon to his side. This functions as [[rangoric-srd/spells/Dimension Door|dimension door]], using the summoner’s caster level. When this ability is used, the eidolon appears adjacent to the summoner (or as close as possible if all adjacent spaces are occupied). If the eidolon is out of range, the ability is wasted. The summoner can use this ability once per day at 6th level, plus one additional time per day for every four levels beyond 6th. ^unchained-summoner-makers-call
 
@@ -136,7 +136,7 @@ In addition, the eidolon and the summoner must remain within 100 feet of one ano
 
 **Aspect (Su)**: At 10th level, a summoner can divert up to 2 points from his eidolon’s evolution pool to add evolutions to himself. He cannot select any evolution that the eidolon could not possess, and he must be able to meet the requirements as well (except for subtype requirements, so long as his eidolon meets the subtype requirement). He cannot select the [[rangoric-srd/class-options/evolutions/Ability Increase (Evolution)|ability increase]] evolution through this ability. Any points spent in this way are taken from the eidolon’s evolution pool (reducing the total number available to the eidolon). The summoner can change the evolutions granted by these points anytime he can change the eidolon’s evolutions. ^unchained-summoner-aspect
 
-**Greater Shield Ally (Su)**: At 12th level, whenever an ally is within reach of the summoner’s eidolon, the ally gains a +2 shield bonus to its Armor Class and a +2 circumstance bonus on its saving throws. If this ally is the summoner, these bonuses increase to +4. This bonus does not apply if the eidolon is grappled, helpless, paralyzed, stunned, or unconscious. ^unchained-summoner-greater-shield-ally
+**Greater Shield Ally (Su)**: At 12th level, whenever an ally is within reach of the summoner’s eidolon, the ally gains a +2 shield bonus to its Armor Class and a +2 circumstance bonus on its defenses. If this ally is the summoner, these bonuses increase to +4. This bonus does not apply if the eidolon is grappled, helpless, paralyzed, stunned, or unconscious. ^unchained-summoner-greater-shield-ally
 
 **Life Bond (Su)**: At 14th level, the summoner’s life becomes linked to his eidolon’s. As long as the eidolon has 1 or more hit points, the summoner is protected from harm. Damage in excess of that which would reduce the summoner to 0 hit points is instead transferred to the eidolon. This damage is transferred 1 point at a time, meaning that as soon as the eidolon is reduced to a number of negative hit points equal to its Constitution score, all excess damage remains with the summoner. Effects that cause death but don’t deal damage are unaffected by this ability. This ability does not affect spells such as [[rangoric-srd/spells/Baleful Polymorph|baleful polymorph]], [[rangoric-srd/spells/Flesh to Stone|flesh to stone]], [[rangoric-srd/spells/Imprisonment|imprisonment]], or other spells that don’t deal damage. ^unchained-summoner-life-bond
 
@@ -186,15 +186,15 @@ An eidolon’s abilities are determined by the summoner’s level and by the cho
 
 **Share Spells (Ex)**: The summoner can cast a spell with a target of “you” on his eidolon (as a spell with a range of touch) instead of on himself. A summoner can cast spells on his eidolon even if the spells normally do not affect creatures of the eidolon’s type (outsider). Spells cast in this way must come from the summoner spell list. This ability does not allow the eidolon to share abilities that are not spells, even if they function like spells.
 
-**[[rangoric-srd/rules/Special Abilities and Conditions#Evasion and Improved Evasion|Evasion]] (Ex)**: If the eidolon is subjected to an attack that normally allows a Reflex save for half damage, it takes no damage if it succeeds at its saving throw.
+**[[rangoric-srd/rules/Special Abilities and Conditions#Evasion and Improved Evasion|Evasion]] (Ex)**: If the eidolon is subjected to an attack against its Reflex Defense that normally deals half damage on a miss, it takes no damage on a miss.
 
 **Ability Score Increase (Ex)**: The eidolon adds 1 to one of its ability scores.
 
-**Devotion (Ex)**: An eidolon gains a +4 morale bonus on Will saves against enchantment spells and effects.
+**Devotion (Ex)**: An eidolon gains a +4 morale bonus on Will Defense against enchantment spells and effects.
 
 **[[rangoric-srd/feats/Multiattack|Multiattack]]**: An eidolon gains [[rangoric-srd/feats/Multiattack|Multiattack]] as a bonus feat if it has three or more natural attacks and does not already have that feat. If it does not have the requisite three or more natural attacks (or it is reduced to fewer than three attacks), the eidolon instead gains a second attack with one of its natural weapons, albeit at a –5 penalty. If the eidolon later gains three or more natural attacks, it loses this additional attack and instead gains [[rangoric-srd/feats/Multiattack|Multiattack]].
 
-**Improved Evasion (Ex)**: When subjected to an attack that allows a Reflex saving throw for half damage, an eidolon takes no damage if it succeeds at its saving throw and only half damage if it fails.
+**Improved Evasion (Ex)**: When subjected to an attack against its Reflex Defense that deals half damage on a miss, an eidolon takes no damage on a miss and only half damage on a hit.
 
 **Table: Unchained Eidolon Base Statistics** ^table-unchained-eidolon-base-statistics
 

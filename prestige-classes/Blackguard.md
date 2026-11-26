@@ -73,11 +73,11 @@ All of the following are Class Features of the blackguard prestige class.
 
 **Poison Use**: A blackguard has [[rangoric-srd/rules/Afflictions#^poison-use|poison use]].
 
-**Dark Blessing (Su)**: A blackguard applies his Charisma modifier (if positive) as a bonus on all saving throws.
+**Dark Blessing (Su)**: A blackguard applies his Charisma modifier (if positive) as a bonus on all defenses.
 
 **Spells**: A blackguard has the ability to cast a small number of divine spells. To cast a blackguard spell, a blackguard must have a Wisdom score of at least 10 + the spell's level, so a blackguard with a Wisdom of 10 or lower cannot cast these spells.
 
-Blackguard bonus spells are based on Wisdom, and saving throws against these spells have a DC of 10 + spell level + the blackguard’s Wisdom modifier. When the blackguard gets 0 spells per day of a given spell level he gains only the bonus spells he would be entitled to based on his Wisdom score for that spell level. The blackguard’s spell list appears below. A blackguard has access to any spell on the list and can freely choose which to prepare, just as a cleric. A blackguard prepares and casts spells just as a cleric does (though a blackguard cannot spontaneously cast cure or inflict spells).
+Blackguard bonus spells are based on Wisdom, and the attack bonus of these spells is the spell level + the blackguard’s Wisdom modifier. When the blackguard gets 0 spells per day of a given spell level he gains only the bonus spells he would be entitled to based on his Wisdom score for that spell level. The blackguard’s spell list appears below. A blackguard has access to any spell on the list and can freely choose which to prepare, just as a cleric. A blackguard prepares and casts spells just as a cleric does (though a blackguard cannot spontaneously cast cure or inflict spells).
 
 **Smite Good (Su)**: Once a day, a blackguard of 2nd level or higher may attempt to smite good with one normal melee attack.
 
@@ -85,7 +85,7 @@ He adds his Charisma modifier (if positive) to his attack roll and deals 1 extra
 
 At 5th level, and again at 10th level, a blackguard may smite good one additional time per day.
 
-**Aura of Despair (Su)**: Beginning at 3rd level, the blackguard radiates a malign aura that causes enemies within 10 feet of him to take a –2 penalty on all saving throws.
+**Aura of Despair (Su)**: Beginning at 3rd level, the blackguard radiates a malign aura that causes enemies within 10 feet of him to take a –2 penalty on all defenses.
 
 **Command Undead (Su)**: When a blackguard reaches 3rd level, he gains the supernatural ability to command and rebuke undead. He commands undead as would a cleric of two levels lower. He also gains the ability to channel negative energy ([[rangoric-srd/combat/Combat Special Attacks#Channel Energy|channel energy]]) a number of times per day equal to 3 + his Charisma modifier, with an effective cleric level two lower than his blackguard level; each rebuke or command attempt spends one of these uses.
 
@@ -137,12 +137,12 @@ A blackguard may have only one fiendish servant at a time.
 
 Should the blackguard's servant die, he may call for another one after a year and a day. The new fiendish servant has all the accumulated abilities due a servant of the blackguard's current level.
 
-| Character Level | Bonus HD | Natural Armor Adj. | Str Adj. | Int | Special                                                            |
-| --------------- | -------- | ------------------ | -------- | --- | ------------------------------------------------------------------ |
-| 12th or lower   | +2       | +1                 | +1       | 6   | Empathic link, improved evasion, share saving throws, share spells |
-| 13th–15th       | +4       | +3                 | +2       | 7   | Speak with blackguard                                              |
-| 16th–18th       | +6       | +5                 | +3       | 8   | Blood bond                                                         |
-| 19th–20th       | +8       | +7                 | +4       | 9   | Spell resistance                                                   |
+| Character Level | Bonus HD | Natural Armor Adj. | Str Adj. | Int | Special                                                       |
+| --------------- | -------- | ------------------ | -------- | --- | ------------------------------------------------------------- |
+| 12th or lower   | +2       | +1                 | +1       | 6   | Empathic link, improved evasion, share defenses, share spells |
+| 13th–15th       | +4       | +3                 | +2       | 7   | Speak with blackguard                                         |
+| 16th–18th       | +6       | +5                 | +3       | 8   | Blood bond                                                    |
+| 19th–20th       | +8       | +7                 | +4       | 9   | Spell resistance                                              |
 
 _Character Level_: The character level of the blackguard (his blackguard level plus his original class level).
 
@@ -160,15 +160,15 @@ The abilities mentioned in the “Special” column of the accompanying table ar
 
 Because of the empathic link between the servant and the blackguard, the blackguard has the same connection to a place or an item that the servant does.
 
-**Improved Evasion (Ex)**: If the servant is subjected to an attack that normally allows a Reflex saving throw for half damage, it takes no damage on a successful saving throw and only half damage on a failed saving throw. Improved evasion is an extraordinary ability.
+**Improved Evasion (Ex)**: If the servant is subjected to an attack against its Reflex Defense that normally deals half damage on a miss, it takes no damage on a miss and only half damage on a hit. Improved evasion is an extraordinary ability.
 
-**Share Saving Throws**: For each of its saving throws, the servant uses either its own base save bonus or the blackguard’s, whichever is higher. The servant applies its own ability modifiers to saves, and it doesn’t share any other bonuses on saves that the blackguard might have.
+**Share Defenses**: For each of its Fortitude, Reflex and Will Defenses, the servant uses either its own base save bonus or the blackguard’s, whichever is higher. The servant applies its own ability modifiers to these defenses, and it doesn’t share any other bonuses on defenses that the blackguard might have.
 
 **Share Spells**: At the blackguard’s option, he may have any spell (but not any spell-like ability) he casts on himself also affect his servant. The servant must be within 5 feet at the time of casting to receive the benefit. If the spell has a duration other than instantaneous, it stops affecting the servant if it moves farther than 5 feet away and will not affect the servant again even if the servant returns to the blackguard before the duration expires. Additionally, the blackguard may cast a spell with a target of “You” on his servant (as a touch range spell) instead of on himself. A blackguard and his servant can share spells even if the spells normally do not affect creatures of the servant’s type (magical beast).
 
 **Speak with Blackguard (Ex)**: If the blackguard’s character level is 13th or higher, the blackguard and servant can communicate verbally as if they were using a common language. Other creatures do not understand the communication without magical help.
 
-**Blood Bond (Ex)**: If the blackguard’s character level is 16th or higher, the servant gains a +2 bonus on all attack rolls, checks, and saves if it witnesses the blackguard being threatened or harmed.
+**Blood Bond (Ex)**: If the blackguard’s character level is 16th or higher, the servant gains a +2 bonus on all attack rolls, checks, and defenses if it witnesses the blackguard being threatened or harmed.
 
 This bonus lasts as long as the threat is immediate and apparent.
 
