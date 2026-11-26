@@ -19,6 +19,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Fear Arrow
 
-When one of these black _+1 arrows_ strikes its target, it explodes in a shower of black motes. The target takes nonlethal damage only and must make a Will save (DC 16) to avoid becoming [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] for 7 rounds. On a successful save, the target is only [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1 round.
+When one of these black _+1 arrows_ strikes its target, it explodes in a shower of black motes. The target takes nonlethal damage only and is attacked against its Will at +6, and on a hit becomes [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] for 7 rounds. On a miss, the target is only [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1 round.
 
 Moderate necromancy; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Fear|fear]]_; Price 746 gp; Cost 376 gp + 29 XP.

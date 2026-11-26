@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Mire
 
-Weapons that possess this enchantment usually appear thicker, heavier, broader, and more unbalanced than others of their type. Despite their appearance, they are no more difficult to wield than normal weapons. Upon a successful critical hit, the weapon’s target must succeed at a Reflex save (DC 15) or become mired, anchored to the spot upon which they stand. Mired creatures have their feet magically held to the ground for 1d4 rounds, are unable to walk, and lose any Dexterity bonuses to AC. This enchantment has no effect on creatures not in contact with the ground.
+Weapons that possess this enchantment usually appear thicker, heavier, broader, and more unbalanced than others of their type. Despite their appearance, they are no more difficult to wield than normal weapons. Upon a successful critical hit, the weapon’s target is attacked against its Reflex at +5, and on a hit becomes mired, anchored to the spot upon which they stand. Mired creatures have their feet magically held to the ground for 1d4 rounds, are unable to walk, and lose any Dexterity bonuses to AC. This enchantment has no effect on creatures not in contact with the ground.
 
 Moderate abjuration; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Entangle|entangle]]_; Price +2 bonus.

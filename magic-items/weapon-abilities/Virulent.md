@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Virulent
 
-A _virulent_ weapon magically intensifies any poison it delivers. The saving throw DC of any poison applied to either a _virulent_ weapon or any ammunition fired from it increases by a number equal to the weapon's enhancement bonus. The duration of the poison increases by a number of rounds equal to the _virulent_ weapon's enhancement bonus.
+A _virulent_ weapon magically intensifies any poison it delivers. The attack bonus of any poison applied to either a _virulent_ weapon or any ammunition fired from it increases by a number equal to the weapon's enhancement bonus. The duration of the poison increases by a number of rounds equal to the _virulent_ weapon's enhancement bonus.
 
 Faint necromancy; CL 5th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Pernicious Poison|pernicious poison]]_; Price +1 bonus.

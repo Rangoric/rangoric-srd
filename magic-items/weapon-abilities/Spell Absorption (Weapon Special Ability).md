@@ -26,6 +26,6 @@ When targeted by a spell, the wielder is entitled to a [[rangoric-srd/skills/Mys
 
 Once absorbing energy, the weapon must be discharged in one round. A charged weapon deals 1d4 points of additional damage per spell level absorbed on a successful attack. Alternatively, a charged weapon can be used to heal the wielder for 1d4 hit points per spell level absorbed. Use of the healing power is a move action.
 
-If the wielder does not use the absorbed magical energy within one round, or if she attacks a creature but fails to hit with the spell-charged weapon, she immediately suffers 1d4 points of damage per spell level (Fortitude save; DC 22 for half) as the weapon discharges the energy contained within it. A spell absorption weapon can absorb up to 10 spell levels per day.
+If the wielder does not use the absorbed magical energy within one round, or if she attacks a creature but fails to hit with the spell-charged weapon, she immediately suffers 1d4 points of damage per spell level (+12 vs Fortitude; a miss halves) as the weapon discharges the energy contained within it. A spell absorption weapon can absorb up to 10 spell levels per day.
 
 Strong abjuration; CL 15th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Spell Turning|spell turning]]_; Price +3 bonus.

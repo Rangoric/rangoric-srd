@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Mace of Smiting
 
-This +3 adamantine heavy mace has a +5 enhancement bonus against constructs, and any critical hit dealt to a construct completely destroys it (no saving throw). A critical hit dealt to an outsider deals x4 damage rather than x2.
+This +3 adamantine heavy mace has a +5 enhancement bonus against constructs, and any critical hit dealt to a construct completely destroys it (hitting automatically). A critical hit dealt to an outsider deals x4 damage rather than x2.
 
 Moderate transmutation; CL 11th; Craft Magic Arms and Armor, disintegrate; Price 75,312 gp; Cost 39,312 gp + 2,880 XP.

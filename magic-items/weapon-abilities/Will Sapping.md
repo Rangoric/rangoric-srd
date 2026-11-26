@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Will Sapping
 
-A living creature struck with a weapon possessing this enhancement must make a Will save (DC 20) or take 1 point of Wisdom damage. On a critical hit, the point is Wisdom drain instead.
+A living creature struck with a weapon possessing this enhancement is attacked against its Will at +10, and on a hit takes 1 point of Wisdom damage. On a critical hit, the point is Wisdom drain instead.
 
 Moderate necromancy; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Bestow Curse|bestow curse]]_; Price +2 bonus.

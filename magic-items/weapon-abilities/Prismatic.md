@@ -19,15 +19,15 @@ tags: [rangoric, rangoric/magic-item]
 
 Wreathed in shifting colors, a _prismatic_ weapon releases a spray of colors upon hitting a target. On a successful critical hit, colored rays spring from the weapon, affecting the target with a random prismatic effect. Except as noted, the effects are similar to those caused by a _[[rangoric-srd/spells/Prismatic Spray|prismatic spray]]_ spell. Bows, crossbows, and slings that are so ensorcelled bestow the _prismatic_ ability upon their ammunition.
 
-| 1d8 | Color  | Effect (save DC 20)                                                                                                                                               |
-| --- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Red    | 20 points of fire damage (Reflex half)                                                                                                                            |
-| 2   | Orange | 40 points of acid damage (Reflex half)                                                                                                                            |
-| 3   | Yellow | 80 points of electricity damage (Reflex half)                                                                                                                     |
-| 4   | Green  | [[rangoric-srd/rules/afflictions/Green Prismatic Poison\|Poison]] (frequency 1/round for 6 rounds; effect death/1 Con damage; cure 2 consecutive Fortitude saves) |
-| 5   | Blue   | Turned to stone (Fortitude negates)                                                                                                                               |
-| 6   | Indigo | Insane (as _[[rangoric-srd/spells/Insanity (Spell)\|insanity]]_ spell; Will negates)                                                                              |
-| 7   | Violet | Sent to another plane (Will negates)                                                                                                                              |
-| 8   | —      | Struck by two rays (roll twice more, ignoring any other “8” results)                                                                                              |
+| 1d8 | Color  | Effect (attack +10)                                                                                                                                      |
+| --- | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Red    | 20 points of fire damage (Reflex half)                                                                                                                   |
+| 2   | Orange | 40 points of acid damage (Reflex half)                                                                                                                   |
+| 3   | Yellow | 80 points of electricity damage (Reflex half)                                                                                                            |
+| 4   | Green  | [[rangoric-srd/rules/afflictions/Green Prismatic Poison\|Poison]] (frequency 1/round for 6 rounds; effect death/1 Con damage; cure 2 consecutive misses) |
+| 5   | Blue   | Turned to stone (Fortitude)                                                                                                                              |
+| 6   | Indigo | Insane (as _[[rangoric-srd/spells/Insanity (Spell)\|insanity]]_ spell; Will)                                                                             |
+| 7   | Violet | Sent to another plane (Will)                                                                                                                             |
+| 8   | —      | Struck by two rays (roll twice more, ignoring any other “8” results)                                                                                     |
 
 Strong evocation; CL 14th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Prismatic Spray|prismatic spray]]_; Price +3 bonus.
