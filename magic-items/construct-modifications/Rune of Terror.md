@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/magic-item]
 
 A rune-carved [[rangoric-srd/magic-items/construct-modifications/Construct Modifications|construct modification]].
 
-This rune is triggered the first time a creature moves adjacent to the modified construct. The rune creates 20-foot-radius spread of necromantic energy. Creatures in the area must succeed on a DC 20 Will saving throw or become [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] for 1d4 rounds. If the Will save succeeds, the creature is [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1 round.
+This rune is triggered the first time a creature moves adjacent to the modified construct. The rune creates 20-foot-radius spread of necromantic energy. The energy attacks the Will of creatures in the area at +10, and those it hits become [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] for 1d4 rounds. On a miss, the creature is [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1 round.
 
 Moderate necromancy; CL 7th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Fear|fear]]_; Cost 11,200 gp.

@@ -28,13 +28,13 @@ tags: [rangoric, rangoric/magic-item]
 
 These _[[rangoric-srd/magic-items/rings/Ring of Protection +3|rings of protection +3]]_ are extremely varied in form. They can be of any alignment and each has its own unique personality and proclivities. Each ring has a specific obsession. To determine a particular _obsession ring_'s obsession, roll on the [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Special Purpose Items|Intelligent Item Purpose]] table. When the ring is in pursuit of its purpose, its Ego is 10 points higher than normal.
 
-Gnomes with the [[rangoric-srd/races/Gnome|obsessive]] racial trait have a unique understanding of the ring's mentality and gain a +5 bonus on Will saving throws to resist the _obsession ring_'s attempts to dominate the wearer.
+Gnomes with the [[rangoric-srd/races/Gnome|obsessive]] racial trait have a unique understanding of the ring's mentality and gain a +5 bonus on Will Defense against the _obsession ring_'s attempts to dominate the wearer.
 
 When an _obsession ring_ is engaged in action directly related to its obsession, it grants its wearer the following powers, but can choose to withhold such powers if it does not believe their uses would further its obsession.
 
 - The ring functions as a _[[rangoric-srd/magic-items/rings/Ring of Protection +5|ring of protection +5]]_.
 - The ring grants its wearer a +2 luck bonus on attack rolls against creatures its obsession is sworn to defeat.
-- Three times per day, the ring can allow its wearer to reroll any saving throw. The wearer gains a +4 luck bonus on the saving throw reroll.
+- Three times per day, the ring can make an attack against its wearer’s defense reroll. The wearer gains a +4 luck bonus to that defense against the rerolled attack.
 
 These rings are typically quite emphatic on their desire to fulfill their obsessions, and frequently communicate with their wielder to encourage pursuit of this goal.
 

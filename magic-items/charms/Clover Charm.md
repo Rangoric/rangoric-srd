@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 _A [[rangoric-srd/magic-items/charms/Charms|charm]], worn on a [[rangoric-srd/magic-items/charms/Charm Bracelet|charm bracelet]]._
 
-Appearing as four-leafed clovers, these small, carved wood _charms_ are coated in a paint made with crushed malachite. These _charms_ grant the wearer a +1 luck bonus to attack rolls and Reflex saves.
+Appearing as four-leafed clovers, these small, carved wood _charms_ are coated in a paint made with crushed malachite. These _charms_ grant the wearer a +1 luck bonus to attack rolls and Reflex Defense.
 
 CL 3rd; [[rangoric-srd/feats/Craft Charms and Bracelets|Craft Charms and Bracelets]], _[[rangoric-srd/spells/Good Luck|good luck]]_; Price 4,375 gp.

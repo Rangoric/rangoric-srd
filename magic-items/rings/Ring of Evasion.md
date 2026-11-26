@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Ring of Evasion
 
-This ring continually grants the wearer the ability to avoid damage as if she had evasion. Whenever she makes a Reflex saving throw to determine whether she takes half damage, a successful save results in no damage.
+This ring continually grants the wearer the ability to avoid damage as if she had evasion. If an attack against her Reflex Defense that normally deals half damage on a miss misses her, she instead takes no damage.
 
 Moderate transmutation; CL 7th; Forge Ring, jump; Price 25,000 gp.

@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Scarab of Death
 
-This small pin appears to be any one of the various beneficial amulets, brooches, or scarabs. However, if it is held for more than 1 round or carried by a living creature for 1 minute, it changes into a horrible burrowing beetlelike creature. The thing tears through any leather or cloth, burrows into flesh, and reaches the victim’s heart in 1 round, causing death. A DC 25 Reflex save allows the wearer to tear the scarab away before it burrows out of sight, but he still takes 3d6 points of damage. The beetle then returns to its scarab form. Placing the scarab in a container of wood, ceramic, bone, ivory, or metal prevents the monster from coming to life and allows for long-term storage of the item.
+This small pin appears to be any one of the various beneficial amulets, brooches, or scarabs. However, if it is held for more than 1 round or carried by a living creature for 1 minute, it changes into a horrible burrowing beetlelike creature. The thing tears through any leather or cloth, burrows into flesh, and reaches the victim’s heart in 1 round, causing death. The scarab attacks the wearer’s Reflex at +15; on a miss, he tears it away before it burrows out of sight, but he still takes 3d6 points of damage. The beetle then returns to its scarab form. Placing the scarab in a container of wood, ceramic, bone, ivory, or metal prevents the monster from coming to life and allows for long-term storage of the item.
 
 Strong abjuration; CL 19th; Create Wondrous Item, slay living; Price 80,000 gp.

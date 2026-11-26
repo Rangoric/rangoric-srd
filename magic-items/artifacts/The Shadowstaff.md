@@ -12,7 +12,7 @@ tags: [rangoric, rangoric/magic-item]
 
 # The Shadowstaff
 
-This artifact was crafted centuries ago, weaving together the wispy strands of shadow itself into a twisted black staff. The Shadowstaff makes the wielder slightly shadowy and incorporeal, granting him a +4 bonus to AC and Reflex saves (which stacks with any other bonuses). However, in bright light (such as that of the sun, but not a torch) or in absolute darkness, the wielder takes a –2 penalty on all attack rolls, saves, and checks.
+This artifact was crafted centuries ago, weaving together the wispy strands of shadow itself into a twisted black staff. The Shadowstaff makes the wielder slightly shadowy and incorporeal, granting him a +4 bonus to AC and Reflex Defense (which stacks with any other bonuses). However, in bright light (such as that of the sun, but not a torch) or in absolute darkness, the wielder takes a –2 penalty on all attack rolls, defenses, and checks.
 
 The Shadowstaff also has these powers.
 

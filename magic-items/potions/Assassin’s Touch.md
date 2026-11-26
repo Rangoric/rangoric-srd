@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 _A [[rangoric-srd/magic-items/potions/Strange Brew Potions|strange brew]]._
 
-This oil bestows upon the user the ability to poison all nonmagical creatures he touches with her bare skin as per the _[[rangoric-srd/spells/Poison|poison]]_ spell (DC 16; Fort negates). The effect normally lasts for 3 hours, but each dose applied carries with it a 10% chance the effect is permanent instead. Despite such dangers, certain assassins favor this rare potion in undertaking difficult assignments.
+This oil bestows upon the user the ability to poison all nonmagical creatures he touches with her bare skin as per the _[[rangoric-srd/spells/Poison|poison]]_ spell (+6 vs Fortitude). The effect normally lasts for 3 hours, but each dose applied carries with it a 10% chance the effect is permanent instead. Despite such dangers, certain assassins favor this rare potion in undertaking difficult assignments.
 
 CL 7th; [[rangoric-srd/feats/Brew Potion|Brew Potion]], _[[rangoric-srd/spells/Poison|poison]]_; Price 2,100 gp.

@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/magic-item]
 
 # Crystal Hypnosis Ball
 
-This cursed item is indistinguishable from a normal crystal ball. However, anyone attempting to use the scrying device becomes fascinated for 1d6 minutes, and a telepathic suggestion is implanted in his mind (Will DC 19 negates).
+This cursed item is indistinguishable from a normal crystal ball. However, anyone attempting to use the scrying device becomes fascinated for 1d6 minutes, and a telepathic suggestion is implanted in his mind (+9 vs Will).
 
 The user of the device believes that the desired creature or scene was viewed, but actually he came under the influence of a powerful wizard, lich, or even some power or being from another plane. Each further use brings the crystal hypnosis ball gazer deeper under the influence of the controller, either as a servant or a tool. Note that throughout this time, the user remains unaware of his subjugation.
 

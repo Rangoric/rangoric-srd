@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Vacuous Grimoire
 
-A book of this sort looks like a normal one on some mildly interesting topic. Any character who opens the work and reads so much as a single word therein must make two DC 15 Will saves. The first is to determine if the reader takes 1 point of permanent Intelligence drain. The second is to find out if the reader takes 2 points of permanent Wisdom drain. To destroy the book, a character must burn it while casting remove curse. If the grimoire is placed with other books, its appearance instantly alters to conform to the look of those other works.
+A book of this sort looks like a normal one on some mildly interesting topic. Any character who opens the work and reads so much as a single word therein is attacked twice against Will at +5. On a hit, the first drains 1 point of the reader’s Intelligence permanently, and the second drains 2 points of the reader’s Wisdom permanently. To destroy the book, a character must burn it while casting remove curse. If the grimoire is placed with other books, its appearance instantly alters to conform to the look of those other works.
 
 Strong enchantment; CL 20th; Create Wondrous Item, feeblemind; Price 6,000 gp.

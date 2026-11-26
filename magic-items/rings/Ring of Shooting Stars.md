@@ -40,7 +40,7 @@ Once the ball lightning function is activated, the balls can be released at any 
 
 The second special function produces three shooting stars that can be released from the ring each week, simultaneously or one at a time. They impact for 12 points of damage and spread (as a fireball) in a 5-foot-radius sphere for 24 points of fire damage.
 
-Any creature struck by a shooting star takes full damage from impact plus full fire damage from the spread unless it makes a DC 13 Reflex save. Creatures not struck but within the spread ignore the impact damage and take only half damage from the fire spread on a successful DC 13 Reflex save. Range is 70 feet, at the end of which the shooting star explodes, unless it strikes a creature or object before that. A shooting star always follows a straight line, and any creature in its path must make a save or be hit by the projectile.
+Any creature struck by a shooting star takes full damage from impact plus full fire damage from the spread if the star hits its Reflex (+3). Creatures not struck but within the spread ignore the impact damage and take only half damage from the fire spread if it misses their Reflex (+3). Range is 70 feet, at the end of which the shooting star explodes, unless it strikes a creature or object before that. A shooting star always follows a straight line, and it attacks the Reflex of any creature in its path, and those it hits are hit by the projectile.
 
 Indoors at night, or underground, the ring of shooting stars has the following properties.
 

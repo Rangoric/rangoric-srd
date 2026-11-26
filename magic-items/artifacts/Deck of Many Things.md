@@ -27,7 +27,7 @@ Each time a card is taken from the deck, it is replaced (making it possible to d
 | Balance   | XI. Justice         | Two of spades             | Change alignment instantly.                                      |
 | Comet     | Two of swords       | Two of diamonds           | Defeat the next monster you meet to gain one level.              |
 | Donjon    | Four of swords      | Ace of spades             | You are imprisoned.                                              |
-| Euryale   | Ten of swords       | Queen of spades           | –1 penalty on all saving throws henceforth.                      |
+| Euryale   | Ten of swords       | Queen of spades           | –1 penalty on all defenses henceforth.                           |
 | The Fates | Three of cups       | Ace of hearts             | Avoid any situation you choose . . . once.                       |
 | Flames    | XV. The Devil       | Queen of clubs            | Enmity between you and an outsider.                              |
 | Fool      | 0\. The Fool        | Joker (with trademark)    | Lose 10,000 experience points and you must draw again.           |
@@ -53,7 +53,7 @@ _Comet_: The character must single-handedly defeat the next hostile monster or m
 
 _Donjon_: This card signifies imprisonment— either by the imprisonment spell or by some powerful being. All gear and spells are stripped from the victim in any case. Draw no more cards.
 
-_Euryale_: The medusalike visage of this card brings a curse that only the fates card or a deity can remove. The –1 penalty on all saving throws is otherwise permanent.
+_Euryale_: The medusalike visage of this card brings a curse that only the fates card or a deity can remove. The –1 penalty on all defenses is otherwise permanent.
 
 _Fates_: This card enables the character to avoid even an instantaneous occurrence if so desired, for the fabric of reality is unraveled and respun. Note that it does not enable something to happen. It can only stop something from happening or reverse a past occurrence. The reversal is only for the character who drew the card; other party members may have to endure the situation.
 

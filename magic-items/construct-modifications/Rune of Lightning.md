@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/magic-item]
 
 A rune-carved [[rangoric-srd/magic-items/construct-modifications/Construct Modifications|construct modification]].
 
-This rune is triggered when the modified construct is hit by a melee attack. The rune releases a 5-foot-radius burst of electricity dealing 3d8 points of electrical damage to all creatures within the burst. A successful DC 12 Reflex saving throw halves the damage.
+This rune is triggered when the modified construct is hit by a melee attack. The rune releases a 5-foot-radius burst of electricity dealing 3d8 points of electrical damage to all creatures within the burst. It attacks their Reflex at +2, and a miss halves the damage.
 
 Faint evocation; CL 5th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Shocking Grasp|shocking grasp]]_; Cost 2,000 gp.

@@ -36,7 +36,7 @@ The user's draconic appearance is always the same each subsequent time it swallo
 - The user gains a +4 competence bonus on [[rangoric-srd/skills/Acrobatics#Flying|Acrobatics]] checks to fly.
 - The user gains a +4 competence bonus on [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Persuasion|Persuasion]], [[rangoric-srd/skills/Intimidation|Intimidation]], and [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks made against or involving dragons.
 - The user is immune to sleep and [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]] and gains a spell resistance equal to 11 + its Hit Dice.
-- The user gains [[rangoric-srd/monsters/abilities/Frightful Presence|frightful presence]] with a 200-foot-radius range and a Will save DC equal to 10 + Hit Dice + Charisma modifier.
+- The user gains [[rangoric-srd/monsters/abilities/Frightful Presence|frightful presence]] with a 200-foot-radius range and an attack bonus equal to Hit Dice + Charisma modifier.
 
 The jar never creates dragon teeth for the same creature more than once. If the owner changes before all the teeth created by the jar are consumed, the original owner no longer gains benefit from this artifact.
 

@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Belt of Weakness
 
-Appearing to be a wide leather belt that functions as a _[[rangoric-srd/magic-items/wondrous-items/Belt of Mighty Constitution +4|belt of mighty constitution +4]]_, this belt in fact saps the wearer's health rather than supplement it. A _belt of weakness_ confers a –4 penalty to its wearer's Constitution score. Furthermore, when the wearer rolls a natural 1 on any Fortitude save, the belt constricts, dealing 2d8 points of damage.
+Appearing to be a wide leather belt that functions as a _[[rangoric-srd/magic-items/wondrous-items/Belt of Mighty Constitution +4|belt of mighty constitution +4]]_, this belt in fact saps the wearer's health rather than supplement it. A _belt of weakness_ confers a –4 penalty to its wearer's Constitution score. Furthermore, when an attack against the wearer’s Fortitude rolls a natural 20, the belt constricts, dealing 2d8 points of damage.
 
 Moderate transmutation; CL 8th; Intended magic item: _[[rangoric-srd/magic-items/wondrous-items/Belt of Mighty Constitution +2|belt of mighty constitution]]_ (any).
