@@ -129,17 +129,17 @@ Some items can be worn or carried without taking up a slot on a character’s bo
 
 [[rangoric-srd/magic-items/Wondrous Items by Slot|Wondrous Items by Slot]] has a d% table for each slot and price band.
 
-##### Saving Throws Against Magic Item Powers
+##### Defenses Against Magic Item Powers
 
-Magic items produce spells or spell-like effects. For a saving throw against a spell or spell-like effect from a magic item, the DC is 10 + the level of the spell or effect + the ability modifier of the minimum ability score needed to cast that level of spell.
+Magic items produce spells or spell-like effects. A spell or spell-like effect from a magic item attacks with an attack bonus of the level of the spell or effect + the ability modifier of the minimum ability score needed to cast that level of spell.
 
-Staffs are an exception to the rule. Treat the saving throw as if the wielder cast the spell, including caster level and all modifiers to save DC.
+Staffs are an exception to the rule. Treat the attack as if the wielder cast the spell, including caster level and all modifiers to its attack bonus.
 
-Most item descriptions give saving throw DCs for various effects, particularly when the effect has no exact spell equivalent (making its level otherwise difficult to determine quickly).
+Most item descriptions give attack bonuses for various effects, particularly when the effect has no exact spell equivalent (making its level otherwise difficult to determine quickly).
 
 ##### Damaging Magic Items
 
-A magic item doesn’t need to make a saving throw unless it is unattended, it is specifically targeted by the effect, or its wielder rolls a natural 1 on his save. Magic items should always get a saving throw against spells that might deal damage to them— even against attacks from which a nonmagical item would normally get no chance to save. Magic items use the same saving throw bonus for all saves, no matter what the type (Fortitude, Reflex, or Will). A magic item’s saving throw bonus equals 2 + one-half its caster level (round down). The only exceptions to this are intelligent magic items, which make Will saves based on their own Wisdom scores.
+An effect doesn’t attack a magic item’s own defense unless the item is unattended, it is specifically targeted by the effect, or the attack against its wielder rolls a natural 20. Magic items always have defenses against spells that might deal damage to them— even against attacks against which a nonmagical item would normally have no defense. A magic item’s Fortitude, Reflex, and Will Defenses are all the same: 12 + one-half its caster level (round down). The only exceptions to this are intelligent magic items, whose Will Defense is based on their own Wisdom scores.
 
 Magic items, unless otherwise noted, take damage as nonmagical items of the same sort. A damaged magic item continues to function, but if it is destroyed, all its magical power is lost.
 
@@ -179,7 +179,7 @@ Items with full descriptions have their powers detailed, and each of the followi
 
 **Aura**: Most of the time, a detect magic spell will reveal the school of magic associated with a magic item and the strength of the aura an item emits. This information (when applicable) is given at the beginning of the item’s notational entry. See the detect magic spell description for details.
 
-**Caster Level**: The next item in a notational entry gives the caster level of the item, indicating its relative power. The caster level determines the item’s saving throw bonus, as well as range or other level-dependent aspects of the powers of the item (if variable). It also determines the level that must be contended with should the item come under the effect of a dispel magic spell or similar situation. This information is given in the form “CL x,” where “CL” is an abbreviation for caster level and “x” is an ordinal number representing the caster level itself.
+**Caster Level**: The next item in a notational entry gives the caster level of the item, indicating its relative power. The caster level determines the item’s defenses, as well as range or other level-dependent aspects of the powers of the item (if variable). It also determines the level that must be contended with should the item come under the effect of a dispel magic spell or similar situation. This information is given in the form “CL x,” where “CL” is an abbreviation for caster level and “x” is an ordinal number representing the caster level itself.
 
 For potions, scrolls, and wands, the creator can set the caster level of an item at any number high enough to cast the stored spell and not higher than her own caster level. For other magic items, the caster level is determined by the creator. The minimum caster level is that which is needed to meet the prerequisites given.
 

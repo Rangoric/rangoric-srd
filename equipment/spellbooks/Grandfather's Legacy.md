@@ -22,7 +22,7 @@ This pair of lexicons is covered in excellently preserved human skin, with an in
 
 **Opposition Schools**: Enchantment, illusion
 
-**Protection**: A series of three superior locks each augmented with arcane lock (DC 50) and a symbol of weakness (Fortitude DC 20) on the second page of each book.
+**Protection**: A series of three superior locks each augmented with arcane lock (DC 50) and a symbol of weakness (_attack_ +10 vs Fortitude) on the second page of each book.
 
 **Value**: 7,610 gp
 

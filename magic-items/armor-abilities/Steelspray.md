@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Steelspray
 
-This armor enhancement allows the wearer to cause armor spikes on his armor to erupt in a burst or a cone, as desired. This is a standard action and does not provoke an attack of opportunity. Lost spikes take one round to reform. The burst attack inflicts 3d6 points of damage to all creatures within 20 feet of the wearer. The cone effect is 30 feet long, 20 feet wide at the end and inflicts the same damage. Targets may make a Reflex save (DC 15 + the enhancement bonus of the armor). Either mode may be activated at will up to 3/day.
+This armor enhancement allows the wearer to cause armor spikes on his armor to erupt in a burst or a cone, as desired. This is a standard action and does not provoke an attack of opportunity. Lost spikes take one round to reform. The burst attack inflicts 3d6 points of damage to all creatures within 20 feet of the wearer. The cone effect is 30 feet long, 20 feet wide at the end and inflicts the same damage. The spikes attack each target’s Reflex at +5 + the enhancement bonus of the armor. Either mode may be activated at will up to 3/day.
 
 Strong transmutation and conjuration; CL 12th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Make Whole|make whole]]_, _[[rangoric-srd/spells/Telekinesis|telekinesis]]_; Price +3 bonus.

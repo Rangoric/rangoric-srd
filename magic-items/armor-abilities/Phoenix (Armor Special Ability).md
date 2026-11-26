@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/magic-item]
 
 # Phoenix
 
-Armor with the _phoenix_ ability allows its wearer to experience an unusual rebirth; if he is slain by a particular type of attack, he may make a Will save (DC 10 + the slayer’s CR). If successful, the wearer is _resurrected_ one round later, at full hit points. The _phoenix_ armor is destroyed in the process.
+Armor with the _phoenix_ ability allows its wearer to experience an unusual rebirth; if he is slain by a particular type of attack, he may make a Will check (1d20 + his Will save bonus; DC 10 + the slayer’s CR). If successful, the wearer is _resurrected_ one round later, at full hit points. The _phoenix_ armor is destroyed in the process.
 
 The known subtypes of _phoenix_ armor are: fire, cold, lightning, venom (which works against all poisons), and nemesis (which works against an assassin’s [[rangoric-srd/rules/Special Abilities and Conditions#Death Attacks|death attack]]).
 

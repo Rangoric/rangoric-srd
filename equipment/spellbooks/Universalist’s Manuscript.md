@@ -20,7 +20,7 @@ Blood, dirt, wine, and more stain this white leather book. The owner’s name is
 
 **Level**: 10 universalist
 
-**Protection**: Average lock with arcane lock (DC 35) and explosive runes (Reflex DC 16)
+**Protection**: Average lock with arcane lock (DC 35) and explosive runes (_attack_ +6 vs Reflex)
 
 **Value**: 2,820 gp
 

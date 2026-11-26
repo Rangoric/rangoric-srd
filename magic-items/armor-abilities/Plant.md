@@ -23,7 +23,7 @@ Unlike most armor, plant armor has a 0% chance of arcane spell failure.
 
 To support the living plant armor, a wearer must have the _plant growth_ spell cast on it once per season or the armor will cease to gather the sustenance it needs to continue living. Within 2d6 months, the magics that bind the plant armor together will fail due to the base plant’s inability to sustain its own life.
 
-The armor also requires a quart of water to be poured on it daily, or it will become dry, brittle, and possibly die. For each day that passes without the needed water, the armor must succeed on a Fortitude saving throw of DC 15 + the number of days without water, or it will die. The enchantment process renders the plant unnaturally resistant to conditions that would normally kill a plant. When the wearer fails a saving throw against an area energy attack (such as a _fireball_), the armor is entitled to a saving throw of its own to resist being severely damaged (see [[rangoric-srd/magic-items/Magic Item Basics#Damaging Magic Items|Damaging Magic Items]]).
+The armor also requires a quart of water to be poured on it daily, or it will become dry, brittle, and possibly die. For each day that passes without the needed water, dryness attacks the armor’s Fortitude at +5 + the number of days without water, and on a hit it dies. The enchantment process renders the plant unnaturally resistant to conditions that would normally kill a plant. When an area energy attack (such as a _fireball_) hits the wearer, it also attacks the armor’s own defense, and a miss keeps the armor from being severely damaged (see [[rangoric-srd/magic-items/Magic Item Basics#Damaging Magic Items|Damaging Magic Items]]).
 
 All plant armors are immune to spells that specifically affect metal armor.
 

@@ -70,8 +70,8 @@ The secrets of creating artifacts are long lost.
 | AC bonus (deflection)             | Bonus squared x 2,000 gp                       | Ring of protection +3        |
 | AC bonus (other) (1)              | Bonus squared x 2,500 gp                       | Ioun stone, dusty rose prism |
 | Natural armor bonus (enhancement) | Bonus squared x 2,000 gp                       | Amulet of natural armor +1   |
-| Save bonus (resistance)           | Bonus squared x 1,000 gp                       | Cloak of resistance +5       |
-| Save bonus (other) (1)            | Bonus squared x 2,000 gp                       | Stone of good luck           |
+| Defense bonus (resistance)        | Bonus squared x 1,000 gp                       | Cloak of resistance +5       |
+| Defense bonus (other) (1)         | Bonus squared x 2,000 gp                       | Stone of good luck           |
 | Skill bonus (competence)          | Bonus squared x 100 gp                         | Cloak of elvenkind           |
 | Spell resistance                  | 10,000 gp per point over SR 12; SR 13 minimum  | Mantle of spell resistance   |
 | Weapon bonus (enhancement)        | Bonus squared x 2,000 gp                       | +1 longsword                 |
@@ -110,7 +110,7 @@ Many factors must be considered when determining the price of new magic items. T
 
 **Multiple Similar Abilities**: For items with multiple similar abilities that don’t take up space on a character’s body use the following formula: Calculate the price of the single most costly ability, then add 75% of the value of the next most costly ability, plus one-half the value of any other abilities.
 
-**Multiple Different Abilities**: Abilities such as an attack roll bonus or saving throw bonus and a spell-like function are not similar, and their values are simply added together to determine the cost. For items that do take up a space on a character’s body each additional power not only has no discount but instead has a 50% increase in price.
+**Multiple Different Abilities**: Abilities such as an attack roll bonus or defense bonus and a spell-like function are not similar, and their values are simply added together to determine the cost. For items that do take up a space on a character’s body each additional power not only has no discount but instead has a 50% increase in price.
 
 **0-Level Spells**: When multiplying spell levels to determine value, 0- level spells should be treated as 1/2 level.
 

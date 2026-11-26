@@ -16,5 +16,5 @@ tags: [rangoric, rangoric/magic-item]
 
 # Mindarmor
 
-This kind of armor or shield grants the wearer a +3 insight bonus on Will saving throws to resist all mind-affecting and/or compulsion powers.  
+This kind of armor or shield grants the wearer a +3 insight bonus on Will Defense against all mind-affecting and/or compulsion powers.  
 Faint psychokinesis; ML 5th; Craft Psionic Arms and Armor, empty mind; Price +24,000 gp.

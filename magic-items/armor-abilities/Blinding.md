@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Blinding
 
-A shield with this ability flashes with a brilliant light up to twice per day upon command of the wielder. Anyone within 20 feet except the wielder must make a DC 14 Reflex save or be blinded for 1d4 rounds.
+A shield with this ability flashes with a brilliant light up to twice per day upon command of the wielder. The flash attacks the Reflex of anyone within 20 feet except the wielder at +4, and those it hits are blinded for 1d4 rounds.
 
 Moderate evocation; CL 7th; Craft Magic Arms and Armor, searing light; Price +1 bonus.

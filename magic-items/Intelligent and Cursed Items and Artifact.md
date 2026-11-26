@@ -183,43 +183,43 @@ When generating a special purpose for an intelligent weapon, there is a 20% chan
 
 **Battle Seeker:** This type of weapon seeks to engage other creatures in combat for its own glorification. The wielder gains the benefits of an _[[rangoric-srd/spells/Iron Body|iron body]]_ spell whenever the weapon is drawn. Any other holder of a _battle seeker_ weapon within line of sight is automatically recognized and attacked. A battle seeker always engages first what appears to be the most powerful fighter in an opposing group during combat. Once engaged with an opponent, a _battle seeker_ does not allow its wielder to turn away until the opponent either falls or flees. Caster level 16th.
 
-**Defender:** These weapons are crafted to protect followers of a deity, a family, a race, or an organization. Whenever holding a _defending_ weapon the wielder is protected by _[[rangoric-srd/spells/Resist Energy|resist energy]]_. As a free action, each round the wielder may change which energy type he is protected from. Anyone struck by the weapon is affected as if by a _[[rangoric-srd/spells/Slow|slow]]_ spell (Will save DC 16). Additionally, once per day, the weapon can be used to cast _[[rangoric-srd/spells/Repulsion|repulsion]]_ (Will save DC 19).
+**Defender:** These weapons are crafted to protect followers of a deity, a family, a race, or an organization. Whenever holding a _defending_ weapon the wielder is protected by _[[rangoric-srd/spells/Resist Energy|resist energy]]_. As a free action, each round the wielder may change which energy type he is protected from. Anyone struck by the weapon is affected as if by a _[[rangoric-srd/spells/Slow|slow]]_ spell (+6 vs Will). Additionally, once per day, the weapon can be used to cast _[[rangoric-srd/spells/Repulsion|repulsion]]_ (+9 vs Will).
 
-Additional spell-like abilities are granted, but only to protect members of the championed group. _[[rangoric-srd/spells/Shield Other|Shield other]]_ may be used at will (range 35 feet). _[[rangoric-srd/spells/Discern Location|Discern location]]_, and _[[rangoric-srd/spells/Sympathy|sympathy]]_ may be each cast once per day (Will save DC 18). The _sympathy_ effect is always centered on the weapon.
+Additional spell-like abilities are granted, but only to protect members of the championed group. _[[rangoric-srd/spells/Shield Other|Shield other]]_ may be used at will (range 35 feet). _[[rangoric-srd/spells/Discern Location|Discern location]]_, and _[[rangoric-srd/spells/Sympathy|sympathy]]_ may be each cast once per day (+8 vs Will). The _sympathy_ effect is always centered on the weapon.
 
 The wielder of a _defending_ weapon is compelled by the weapon to protect the specified group. This may include anything from donating money to seeking out and destroying their enemies. Even if the protected group no longer exists, the weapon continues its purpose. It may compel its wielder to find or resurrect a member of an annihilated family, or to reform a cult. Caster level 18th.
 
-**Extraplanar Hunter:** These weapons are designed to track down and destroy outsiders and outside influences to a specific plane. Any creature struck by an _extraplanar hunting_ weapon is cursed unless it succeeds at a Will save (DC 17). This curse gives a 75% chance of failure when casting any divine spell or using any divine spell-like ability. Any outsider struck by the weapon is subject to the effect of a _[[rangoric-srd/spells/Banishment|banishment]]_ spell unless it succeeds on a Will save (DC 20). If the wielder of one of these weapons is the target of a spell cast by an outsider or divine spellcaster, even a healing spell, the weapon attempts to force him to attack the caster.
+**Extraplanar Hunter:** These weapons are designed to track down and destroy outsiders and outside influences to a specific plane. Any creature struck by an _extraplanar hunting_ weapon is cursed if the weapon hits its Will (+7). This curse gives a 75% chance of failure when casting any divine spell or using any divine spell-like ability. Any outsider struck by the weapon is subject to the effect of a _[[rangoric-srd/spells/Banishment|banishment]]_ spell if the weapon hits its Will (+10). If the wielder of one of these weapons is the target of a spell cast by an outsider or divine spellcaster, even a healing spell, the weapon attempts to force him to attack the caster.
 
 The weapon compels its wielder to hunt down and destroy or banish any outsiders of which it has certain knowledge, even if the outsider is of the same alignment as the weapon. If this weapon is ever taken off the plane on which it was forged, it becomes totally inert, acting as a nonmagical weapon. Outsiders and divine spellcasters always start one attitude step worse toward the wielder of this type of weapon than they otherwise would. Caster level 20th.
 
 **Fiery Destruction:** Fiery destruction weapons are created to burn their enemies to cinders. These weapons’ alignments are always chaotic. A chaotic good weapon attempts to seek out and destroy evil enemies, especially lawful ones, while chaotic evil weapons seek out good enemies. Chaotic neutral weapons of this type are perhaps the most dangerous, glorying in the destruction of anything, whether it is a creature, forest, or structure.
 
-This type of weapon always has the _[[rangoric-srd/magic-items/weapon-abilities/Flaming Burst|flaming burst]]_ special ability. While drawn, a constant flame aura plays about the wielder, conferring total invulnerability to fire damage, even from magical fire. Anyone within five feet of the wielder that strikes him suffers 1d6+12 points of fire damage. Any highly combustible items on the wielder’s person must save every round or be consumed (Fortitude DC 13; the GM chooses which items are affected).
+This type of weapon always has the _[[rangoric-srd/magic-items/weapon-abilities/Flaming Burst|flaming burst]]_ special ability. While drawn, a constant flame aura plays about the wielder, conferring total invulnerability to fire damage, even from magical fire. Anyone within five feet of the wielder that strikes him suffers 1d6+12 points of fire damage. The flames attack any highly combustible items on the wielder’s person every round and consume those they hit (+3 vs Fortitude; the GM chooses which items are affected).
 
-As a standard action, the wielder may cast a fiery bolt, similar to the spell _[[rangoric-srd/spells/Flame Arrow|flame arrow]]_, doing 4d6 points of fire damage (Reflex DC 16 half). A fiery destruction weapon is impatient. It does not wish to plan or follow long-range goals, preferring to confront its enemies immediately. It believes negotiation and diplomacy waste time and are best short-circuited by direct action. This impatience applies to the weapon’s wielder unless he wins a [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Items Against Characters|personality conflict]].
+As a standard action, the wielder may cast a fiery bolt, similar to the spell _[[rangoric-srd/spells/Flame Arrow|flame arrow]]_, doing 4d6 points of fire damage (+6 vs Reflex; a miss halves). A fiery destruction weapon is impatient. It does not wish to plan or follow long-range goals, preferring to confront its enemies immediately. It believes negotiation and diplomacy waste time and are best short-circuited by direct action. This impatience applies to the weapon’s wielder unless he wins a [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Items Against Characters|personality conflict]].
 
 In addition to all other powers, there is a 10% chance every hour that a fire spontaneously bursts into being somewhere within 30 feet of the weapon, evincing its chaotic nature. Caster level 16th.
 
 **Law Upholder:** _Law upholding_ weapons are dedicated to enforcing and supporting local laws. These weapons’ alignments are always lawful. A lawful good weapon enforces just laws and attempts to change other laws using the proper existing governmental structures. A lawful evil weapon attempts to twist laws to benefit itself and its wielder. A lawful neutral weapon ensures that all individuals are universally subjected to the same set of laws.
 
-While drawn, a continuous _[[rangoric-srd/spells/Zone of Truth|zone of truth]]_ emanates from the weapon (Will save DC 15). The wielder also benefits from the effect of _[[rangoric-srd/spells/True Seeing|true seeing]]_.
+While drawn, a continuous _[[rangoric-srd/spells/Zone of Truth|zone of truth]]_ emanates from the weapon (+5 vs Will). The wielder also benefits from the effect of _[[rangoric-srd/spells/True Seeing|true seeing]]_.
 
 _Law upholding_ weapons compel their wielders to always speak the truth. At any point in time, the sword may force its owner to stop and explain to it why he is following a course of action not directly and obviously flowing from an appropriate law. Arguing with the sword is a standard action, requiring an Intelligence check (DC 11). If this check fails, the sword refuses to use any of its powers, even refusing to strike at enemies. The check may be repeated once per round until successful. However, a legitimate explanation must be given to even attempt a check.
 
 _Caster Level:_ 16th.
 
-**Magic Killer:** _Magic killing_ weapons desire to destroy magic. On a successful hit with one of these weapons, the target’s armor, if magical, must save (DC 23) or suffer the effects of _[[rangoric-srd/spells/Mage’s Disjunction|mage’s disjunction]]_. In addition, any spell effects centered on the target are affected as if subject to a targeted _[[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]]_. If a _magic killing_ weapon is used to damage another magic weapon, it is also subject to _[[rangoric-srd/spells/Mage’s Disjunction|mage’s disjunction]]_. Specific items on an opponent’s body may be targeted in an attempt to destroy their magical properties. Treat this as a normal melee attack against the opponent, with an additional modifier based on the target’s size. A helmet, for instance, is Tiny, and would gain a +2 bonus to AC. A ring is Fine and gains +8 to AC.
+**Magic Killer:** _Magic killing_ weapons desire to destroy magic. On a successful hit with one of these weapons, the weapon attacks the target’s armor, if magical, at +13, and on a hit it suffers the effects of _[[rangoric-srd/spells/Mage’s Disjunction|mage’s disjunction]]_. In addition, any spell effects centered on the target are affected as if subject to a targeted _[[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]]_. If a _magic killing_ weapon is used to damage another magic weapon, it is also subject to _[[rangoric-srd/spells/Mage’s Disjunction|mage’s disjunction]]_. Specific items on an opponent’s body may be targeted in an attempt to destroy their magical properties. Treat this as a normal melee attack against the opponent, with an additional modifier based on the target’s size. A helmet, for instance, is Tiny, and would gain a +2 bonus to AC. A ring is Fine and gains +8 to AC.
 
 These weapons also grant their wielders the power to _[[rangoric-srd/spells/Detect Magic|detect magic]]_ at will. Also, once per round, as a free action, the wielder may attempt to counterspell a spell being cast at him as if using _[[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]]_. The wielder may do this even without preparing a ready action.
 
-_Magic killing_ weapons compel their users to destroy all other magic items they own. In melee, they prefer to strike at magical items on an opponent, rather than at the opponent itself. If the wielder tries to cast a spell, the weapon attempts to counterspell it, using up its counterspell action for that round. Additionally, every round the weapon automatically attempts to dispel any magic affecting its wielder, regardless of whether it is helpful or harmful (this ability does not use up its counterspell for a given round). If ever successful in destroying an artifact, a _magic killing_ weapon must succeed at a saving throw (DC 25) or permanently lose all powers. Caster level 20th.
+_Magic killing_ weapons compel their users to destroy all other magic items they own. In melee, they prefer to strike at magical items on an opponent, rather than at the opponent itself. If the wielder tries to cast a spell, the weapon attempts to counterspell it, using up its counterspell action for that round. Additionally, every round the weapon automatically attempts to dispel any magic affecting its wielder, regardless of whether it is helpful or harmful (this ability does not use up its counterspell for a given round). If ever successful in destroying an artifact, the artifact attacks the _magic killing_ weapon’s defense at +15, and on a hit the weapon permanently loses all powers. Caster level 20th.
 
 **Nature’s Protector:** These weapons are designed to protect untamed nature from any who would defile it. These weapons’ alignments are always at least partly neutral. Anyone without at least one level in druid, ranger, or a nature-based cleric class gains two [[rangoric-srd/rules/Special Abilities and Conditions#Energy Drain and Negative Levels|negative levels]] whenever wielding this weapon. Although these negative levels fade when the weapon is set down and never result in actual level loss, they cannot be overcome in any way while the weapon is held.
 
 The wielder of a _nature’s protector_ weapon gains the ability to detect the natural balance of the area within 100 miles. The locations of old wounds, such as cities, are intuitively known, as is the presence of new threats, such as forest fires or infestations. In a region lacking any examples of pristine nature this sense causes pain, resulting in a –4 reduction to Dexterity, which cannot be overcome in any way as long as the weapon is in use.
 
-The weapon’s wielder may also use the following spell-like abilities: _[[rangoric-srd/spells/Sunburst|sunburst]]_ once per day (DC 22) and _[[rangoric-srd/spells/Tree Stride|tree stride]]_ at will. In addition, 1d4 Huge elementals (of an element chosen by the wielder) may be summoned once per day. The summoning takes a full minute, and the elementals stay for a single hour. These elementals do not attack the wielder, but otherwise are uncontrolled and may do whatever they wish, although such creatures typically focus their attentions on “unnatural” opponents such as aberrations and undead.
+The weapon’s wielder may also use the following spell-like abilities: _[[rangoric-srd/spells/Sunburst|sunburst]]_ once per day (+12) and _[[rangoric-srd/spells/Tree Stride|tree stride]]_ at will. In addition, 1d4 Huge elementals (of an element chosen by the wielder) may be summoned once per day. The summoning takes a full minute, and the elementals stay for a single hour. These elementals do not attack the wielder, but otherwise are uncontrolled and may do whatever they wish, although such creatures typically focus their attentions on “unnatural” opponents such as aberrations and undead.
 
 The weapon compels its wielder to fight dangers identified through its affinity with nature. More recent threats are almost always opposed first before older scars are dealt with. Caster level 18th.
 
@@ -241,7 +241,7 @@ A dedicated power operates only when an intelligent item is in pursuit of its sp
 | 44–50  | Item can use rusting grasp as touch attack                       | +56,000 gp          |
 | 51–56  | Item can cast 10d6 lightning bolt                                | +60,000 gp          |
 | 57–62  | Item can cast 10d6 fireball                                      | +60,000 gp          |
-| 63–68  | Wielder gets +2 luck bonus on attacks, saves, and checks         | +80,000 gp          |
+| 63–68  | Wielder gets +2 luck bonus on attacks, defenses, and checks      | +80,000 gp          |
 | 69–74  | Item can use mass inflict light wounds                           | +81,000 gp          |
 | 75–81  | Item can use song of discord                                     | +81,000 gp          |
 | 82–87  | Item can use prying eyes                                         | +81,000 gp          |
@@ -273,7 +273,7 @@ Ego is a measure of the total power and force of personality that an item posses
 
 When an item has an Ego of its own, it has a will of its own. The item is, of course, absolutely true to its alignment. If the character who possesses the item is not true to that alignment’s goals or the item’s special purpose, personality conflict—item against character—results. Similarly, any item with an Ego score of 20 or higher always considers itself superior to any character, and a personality conflict results if the possessor does not always agree with the item.
 
-When a personality conflict occurs, the possessor must make a Will saving throw (DC = item’s Ego). If the possessor succeeds, she is dominant. If she fails, the item is dominant. Dominance lasts for one day or until a critical situation occurs (such as a major battle, a serious threat to either the item or the character, and so on). Should an item gain dominance, it resists the character’s desires and demands concessions such as any of the following.
+When a personality conflict occurs, the item attacks the possessor’s Will, its attack bonus the item’s Ego – 10. If it misses, the possessor is dominant. If it hits, the item is dominant. Dominance lasts for one day or until a critical situation occurs (such as a major battle, a serious threat to either the item or the character, and so on). Should an item gain dominance, it resists the character’s desires and demands concessions such as any of the following.
 
 - Removal of associates or items whose alignment or personality is distasteful to the item.
 
@@ -437,7 +437,7 @@ An intelligent magic item with this ability can read magical writings and scroll
 
 ###### Intelligent Item Powers (Alternate)
 
-Each intelligent item should possess at least one power, although some might possess a host of powers. To find the item’s specific powers, roll on or choose from the table below. All powers function at the direction of the item, though intelligent items generally follow the wishes of their owner. Activating a power or concentrating on an active one is a standard action for the item. The caster level for these effects is equal to the item’s caster level. Save DCs are based on the item’s highest mental ability score.
+Each intelligent item should possess at least one power, although some might possess a host of powers. To find the item’s specific powers, roll on or choose from the table below. All powers function at the direction of the item, though intelligent items generally follow the wishes of their owner. Activating a power or concentrating on an active one is a standard action for the item. The caster level for these effects is equal to the item’s caster level. Attack bonuses are based on the item’s highest mental ability score.
 
 **Table: Intelligent Item Powers**
 
@@ -487,7 +487,7 @@ The table below has a number of sample purposes that a magic item might possess.
 
 ###### Dedicated Powers
 
-A dedicated power operates only when an intelligent item is in pursuit of its special purpose. This determination is always made by the item. Unlike its other powers, an intelligent item can refuse to use its dedicated powers even if the owner is dominant (see Items Against Characters). The caster level for these effects is equal to the item’s caster level. Save DCs are based on the item’s highest mental ability score.
+A dedicated power operates only when an intelligent item is in pursuit of its special purpose. This determination is always made by the item. Unlike its other powers, an intelligent item can refuse to use its dedicated powers even if the owner is dominant (see Items Against Characters). The caster level for these effects is equal to the item’s caster level. Attack bonuses are based on the item’s highest mental ability score.
 
 **Table: Special Purpose Item Dedicated Powers**
 
@@ -495,7 +495,7 @@ A dedicated power operates only when an intelligent item is in pursuit of its sp
 | ------ | ------------------------------------------------------------------------------------------------------ | ------------------- | ------------ |
 | 01–20  | Item can detect any special purpose foes within 60 feet                                                | +10,000 gp          | +1           |
 | 21–35  | Item can use a 4th-level spell at will                                                                 | +56,000 gp          | +2           |
-| 36–50  | Wielder gets +2 luck bonus on attacks, saves, and checks                                               | +80,000 gp          | +2           |
+| 36–50  | Wielder gets +2 luck bonus on attacks, defenses, and checks                                            | +80,000 gp          | +2           |
 | 51–65  | Item can use a 5th-level spell at will                                                                 | +90,000 gp          | +2           |
 | 66–80  | Item can use a 6th-level spell at will                                                                 | +132,000 gp         | +2           |
 | 81–95  | Item can use a 7th-level spell at will                                                                 | +182,000 gp         | +2           |
@@ -522,7 +522,7 @@ Ego is a measure of the total power and force of personality that an item posses
 
 When an item has an Ego of its own, it has a will of its own. The item is absolutely true to its alignment. If the character who possesses the item is not true to that alignment’s goals or the item’s special purpose, a personality conflict results—item against character. Similarly, any item with an Ego score of 20 or higher always considers itself superior to any character, and a personality conflict results if the possessor does not always agree with the item.
 
-When a personality conflict occurs, the possessor must make a Will saving throw (DC = the item’s Ego). If the possessor succeeds, she is dominant. If she fails, the item is dominant. Dominance lasts for 1 day or until a critical situation occurs (such as a major battle, a serious threat to either the item or the character, and so on, as determined by the GM). Should an item gain dominance, it resists the character’s desires and demands concessions such as any of the following:
+When a personality conflict occurs, the item attacks the possessor’s Will, its attack bonus the item’s Ego – 10. If it misses, the possessor is dominant. If it hits, the item is dominant. Dominance lasts for 1 day or until a critical situation occurs (such as a major battle, a serious threat to either the item or the character, and so on, as determined by the GM). Should an item gain dominance, it resists the character’s desires and demands concessions such as any of the following:
 
 - Removal of associates or items whose alignment or personality is distasteful to the item.
 - The character divesting herself of all other magic items or items of a certain type.
@@ -748,39 +748,39 @@ Requirements are so dependent upon suitability to the item that they should neve
 
 Roll on the table below to generate a drawback that (unless otherwise indicated) remains in effect as long as the item is in the character’s possession.
 
-| d%    | Drawback                                                                                               |
-| ----- | ------------------------------------------------------------------------------------------------------ |
-| 01–04 | Character’s hair grows 1 inch longer. Only happens once.                                               |
-| 05–09 | Character either shrinks 1/2 inch (01–50 on d%) or grows that much taller (51–100). Only happens once. |
-| 10–13 | Temperature around item is 10°F cooler than normal.                                                    |
-| 14–17 | Temperature around item is 10°F warmer than normal.                                                    |
-| 18–21 | Character’s hair color changes.                                                                        |
-| 22–25 | Character’s skin color changes.                                                                        |
-| 26–29 | Character now bears some identifying mark (tattoo, weird glow, or the like).                           |
-| 30–32 | Character’s gender changes.                                                                            |
-| 33–34 | Character’s race or kind changes.                                                                      |
-| 35    | Character is afflicted with a random disease that cannot be cured.                                     |
-| 36–39 | Item continually emits a disturbing sound (moaning, weeping, screaming, cursing, insults).             |
-| 40    | Item looks ridiculous (garishly colored, silly shape, glows bright pink, . . .).                       |
-| 41–45 | Character becomes selfishly possessive about the item.                                                 |
-| 46–49 | Character becomes paranoid about losing the item and afraid of damage occurring to it.                 |
-| 50–51 | Character’s alignment changes.                                                                         |
-| 52–54 | Character must attack nearest creature (5% chance \[01–05 on d%\] each day).                           |
-| 55–57 | Character is stunned for 1d4 rounds once item function is finished (or randomly, 1/day).               |
-| 58–60 | Character’s vision is blurry (–2 penalty on attack rolls, saves, and skill checks requiring vision).   |
-| 61–64 | Character gains one negative level.                                                                    |
-| 65    | Character gains two negative levels.                                                                   |
-| 66–70 | Character must make a Will save each day or take 1 point of Intelligence damage.                       |
-| 71–75 | Character must make a Will save each day or take 1 point of Wisdom damage.                             |
-| 76–80 | Character must make a Will save each day or take 1 point of Charisma damage.                           |
-| 81–85 | Character must make a Fortitude save each day or take 1 point of Constitution damage.                  |
-| 86–90 | Character must make a Fortitude save each day or take 1 point of Strength damage.                      |
-| 91–95 | Character must make a Fortitude save each day or take 1 point of Dexterity damage.                     |
-| 96    | Character is polymorphed into a specific creature (5% chance \[01–05 on d%\] each day).                |
-| 97    | Character cannot cast arcane spells.                                                                   |
-| 98    | Character cannot cast divine spells.                                                                   |
-| 99    | Character cannot cast any spells.                                                                      |
-| 100   | Either pick one of the above that’s appropriate or create a drawback specifically for that item.       |
+| d%    | Drawback                                                                                                           |
+| ----- | ------------------------------------------------------------------------------------------------------------------ |
+| 01–04 | Character’s hair grows 1 inch longer. Only happens once.                                                           |
+| 05–09 | Character either shrinks 1/2 inch (01–50 on d%) or grows that much taller (51–100). Only happens once.             |
+| 10–13 | Temperature around item is 10°F cooler than normal.                                                                |
+| 14–17 | Temperature around item is 10°F warmer than normal.                                                                |
+| 18–21 | Character’s hair color changes.                                                                                    |
+| 22–25 | Character’s skin color changes.                                                                                    |
+| 26–29 | Character now bears some identifying mark (tattoo, weird glow, or the like).                                       |
+| 30–32 | Character’s gender changes.                                                                                        |
+| 33–34 | Character’s race or kind changes.                                                                                  |
+| 35    | Character is afflicted with a random disease that cannot be cured.                                                 |
+| 36–39 | Item continually emits a disturbing sound (moaning, weeping, screaming, cursing, insults).                         |
+| 40    | Item looks ridiculous (garishly colored, silly shape, glows bright pink, . . .).                                   |
+| 41–45 | Character becomes selfishly possessive about the item.                                                             |
+| 46–49 | Character becomes paranoid about losing the item and afraid of damage occurring to it.                             |
+| 50–51 | Character’s alignment changes.                                                                                     |
+| 52–54 | Character must attack nearest creature (5% chance \[01–05 on d%\] each day).                                       |
+| 55–57 | Character is stunned for 1d4 rounds once item function is finished (or randomly, 1/day).                           |
+| 58–60 | Character’s vision is blurry (–2 penalty on attack rolls, defenses, and skill checks requiring vision).            |
+| 61–64 | Character gains one negative level.                                                                                |
+| 65    | Character gains two negative levels.                                                                               |
+| 66–70 | The item attacks the character’s Will each day; on a hit, the character takes 1 point of Intelligence damage.      |
+| 71–75 | The item attacks the character’s Will each day; on a hit, the character takes 1 point of Wisdom damage.            |
+| 76–80 | The item attacks the character’s Will each day; on a hit, the character takes 1 point of Charisma damage.          |
+| 81–85 | The item attacks the character’s Fortitude each day; on a hit, the character takes 1 point of Constitution damage. |
+| 86–90 | The item attacks the character’s Fortitude each day; on a hit, the character takes 1 point of Strength damage.     |
+| 91–95 | The item attacks the character’s Fortitude each day; on a hit, the character takes 1 point of Dexterity damage.    |
+| 96    | Character is polymorphed into a specific creature (5% chance \[01–05 on d%\] each day).                            |
+| 97    | Character cannot cast arcane spells.                                                                               |
+| 98    | Character cannot cast divine spells.                                                                               |
+| 99    | Character cannot cast any spells.                                                                                  |
+| 100   | Either pick one of the above that’s appropriate or create a drawback specifically for that item.                   |
 
 ##### Specific Cursed Items
 
@@ -1014,43 +1014,43 @@ Requirements are so dependent upon suitability to the individual item that they 
 
 Items with drawbacks are usually still beneficial to the possessor, but carry some negative aspect. Although sometimes drawbacks occur only when the item is used (or held, in the case of some weapons), usually the drawback remains with the character for as long as she has the item.
 
-Unless otherwise indicated, drawbacks remain in effect as long as the item is possessed. The DC to save against any of these effects is usually equal to 10 + the item’s caster level.
+Unless otherwise indicated, drawbacks remain in effect as long as the item is possessed. The attack bonus of any of these effects is usually equal to the item’s caster level.
 
 **Table: Cursed Item Drawbacks**
 
-| d%    | Drawback                                                                                               |
-| ----- | ------------------------------------------------------------------------------------------------------ |
-| 01–04 | Character’s hair grows 1 inch longer every hour.                                                       |
-| 05–09 | Character either shrinks 6 inches (01–50 on d%) or grows that much taller (51–100). Only happens once. |
-| 10–13 | Temperature around item is 10° F cooler than normal.                                                   |
-| 14–17 | Temperature around item is 10° F warmer than normal.                                                   |
-| 18–21 | Character’s hair color changes.                                                                        |
-| 22–25 | Character’s skin color changes.                                                                        |
-| 26–29 | Character now bears some identifying mark (tattoo, weird glow, or the like).                           |
-| 30–32 | Character’s gender changes.                                                                            |
-| 33–34 | Character’s race or kind changes.                                                                      |
-| 35    | Character is afflicted with a random disease that cannot be cured.                                     |
-| 36–39 | Item continually emits a disturbing sound (moaning, weeping, screaming, cursing, insults).             |
-| 40    | Item looks ridiculous (garishly colored, silly shape, glows bright pink).                              |
-| 41–45 | Character becomes selfishly possessive.                                                                |
-| 46–49 | Character becomes paranoid about losing the item and afraid of damage occurring to it.                 |
-| 50–51 | Character’s alignment changes.                                                                         |
-| 52–54 | Character must attack nearest creature (5% chance \[01–05 on d%\] each day).                           |
-| 55–57 | Character is _stunned_ for 1d4 rounds once item function is finished (or randomly, 1/day).             |
-| 58–60 | Character’s vision is blurry (–2 penalty on attack rolls, saves, and skill checks requiring vision).   |
-| 61–64 | Character gains one negative level.                                                                    |
-| 65    | Character gains two _negative levels_.                                                                 |
-| 66–70 | Character must make a _Will_ save each day or take 1 point of _Intelligence_ damage.                   |
-| 71–75 | Character must make a _Will_ save each day or take 1 point of _Wisdom_ damage.                         |
-| 76–80 | Character must make a _Will_ save each day or take 1 point of _Charisma_ damage.                       |
-| 81–85 | Character must make a _Fortitude_ save each day or take 1 point of _Constitution_ damage.              |
-| 86–90 | Character must make a _Fortitude_ save each day or take 1 point of Strength damage.                    |
-| 91–95 | Character must make a _Fortitude_ save each day or take 1 point of _Dexterity_ damage.                 |
-| 96    | Character is polymorphed into a specific creature (5% chance \[01–05 on d%\] each day).                |
-| 97    | Character cannot cast arcane spells.                                                                   |
-| 98    | Character cannot cast divine spells.                                                                   |
-| 99    | Character cannot cast any spells.                                                                      |
-| 100   | Either pick one of the above that’s appropriate or create a drawback specifically for that item.       |
+| d%    | Drawback                                                                                                               |
+| ----- | ---------------------------------------------------------------------------------------------------------------------- |
+| 01–04 | Character’s hair grows 1 inch longer every hour.                                                                       |
+| 05–09 | Character either shrinks 6 inches (01–50 on d%) or grows that much taller (51–100). Only happens once.                 |
+| 10–13 | Temperature around item is 10° F cooler than normal.                                                                   |
+| 14–17 | Temperature around item is 10° F warmer than normal.                                                                   |
+| 18–21 | Character’s hair color changes.                                                                                        |
+| 22–25 | Character’s skin color changes.                                                                                        |
+| 26–29 | Character now bears some identifying mark (tattoo, weird glow, or the like).                                           |
+| 30–32 | Character’s gender changes.                                                                                            |
+| 33–34 | Character’s race or kind changes.                                                                                      |
+| 35    | Character is afflicted with a random disease that cannot be cured.                                                     |
+| 36–39 | Item continually emits a disturbing sound (moaning, weeping, screaming, cursing, insults).                             |
+| 40    | Item looks ridiculous (garishly colored, silly shape, glows bright pink).                                              |
+| 41–45 | Character becomes selfishly possessive.                                                                                |
+| 46–49 | Character becomes paranoid about losing the item and afraid of damage occurring to it.                                 |
+| 50–51 | Character’s alignment changes.                                                                                         |
+| 52–54 | Character must attack nearest creature (5% chance \[01–05 on d%\] each day).                                           |
+| 55–57 | Character is _stunned_ for 1d4 rounds once item function is finished (or randomly, 1/day).                             |
+| 58–60 | Character’s vision is blurry (–2 penalty on attack rolls, defenses, and skill checks requiring vision).                |
+| 61–64 | Character gains one negative level.                                                                                    |
+| 65    | Character gains two _negative levels_.                                                                                 |
+| 66–70 | The item attacks the character’s _Will_ each day; on a hit, the character takes 1 point of _Intelligence_ damage.      |
+| 71–75 | The item attacks the character’s _Will_ each day; on a hit, the character takes 1 point of _Wisdom_ damage.            |
+| 76–80 | The item attacks the character’s _Will_ each day; on a hit, the character takes 1 point of _Charisma_ damage.          |
+| 81–85 | The item attacks the character’s _Fortitude_ each day; on a hit, the character takes 1 point of _Constitution_ damage. |
+| 86–90 | The item attacks the character’s _Fortitude_ each day; on a hit, the character takes 1 point of Strength damage.       |
+| 91–95 | The item attacks the character’s _Fortitude_ each day; on a hit, the character takes 1 point of _Dexterity_ damage.    |
+| 96    | Character is polymorphed into a specific creature (5% chance \[01–05 on d%\] each day).                                |
+| 97    | Character cannot cast arcane spells.                                                                                   |
+| 98    | Character cannot cast divine spells.                                                                                   |
+| 99    | Character cannot cast any spells.                                                                                      |
+| 100   | Either pick one of the above that’s appropriate or create a drawback specifically for that item.                       |
 
 **Table: Common Item Curses**
 

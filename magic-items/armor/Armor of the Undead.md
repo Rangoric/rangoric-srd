@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/magic-item]
 
 Created by evil wizards and clerics as protection for their undead servants, this enchanted suit of [[rangoric-srd/equipment/armor/Chainmail|chain mail]] armor is specially crafted to offer superior protection for creatures that draw their strength from the Negative Energy Plane. As reward for loyal service this armor is often given to such free-willed undead by malicious deities and their powerful followers.
 
-The protection afforded the wearer is dependant on the Hit Dice of the sacrifice—the stronger the creature, the more protection granted by the armor (see below). As a result this armor is highly coveted by powerful undead such as vampires, skeletal warriors, bodak, and liches. This enchantment grants a profane bonus to both armor class and saving throws, plus grants an SR equal to the 5 times the enchantment against Good spells. If a creature already has SR better than this, it gets a bonus on its SR of the base enchantment.
+The protection afforded the wearer is dependant on the Hit Dice of the sacrifice—the stronger the creature, the more protection granted by the armor (see below). As a result this armor is highly coveted by powerful undead such as vampires, skeletal warriors, bodak, and liches. This enchantment grants a profane bonus to both armor class and defenses, plus grants an SR equal to the 5 times the enchantment against Good spells. If a creature already has SR better than this, it gets a bonus on its SR of the base enchantment.
 
 | Hit Dice | Profane Bonus |
 | -------- | ------------- |

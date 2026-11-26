@@ -23,7 +23,7 @@ This simple book is bound in white leather with a silver clasp. Careful notes on
 
 **Opposition Schools**: Illusion, necromancy
 
-**Protection**: Good lock (DC 30), explosive runes (Reflex DC 16)
+**Protection**: Good lock (DC 30), explosive runes (_attack_ +6 vs Reflex)
 
 **Value**: 1,810 gp (2,610 gp with the preparation ritual)
 

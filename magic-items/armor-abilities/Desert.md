@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Desert
 
-This quality gives the wearer of the armor the ability to withstand the wind, sand, heat, and cold of the desert. Those who wear _desert_ armor endure the noonday sun or the midnight chill as though it was temperate, mild, and shaded; they do not need to make Fortitude saves when exposed to temperatures above 90 degrees or below 40 degrees (Fahrenheit). The armor provides a +2 circumstance bonus to saves against a djinni’s _[[rangoric-srd/spells/Whirlwind|whirlwind]]_ effect, as well as other wind and sand spells.
+This quality gives the wearer of the armor the ability to withstand the wind, sand, heat, and cold of the desert. Those who wear _desert_ armor endure the noonday sun or the midnight chill as though it was temperate, mild, and shaded; heat and cold don’t attack their Fortitude when they are exposed to temperatures above 90 degrees or below 40 degrees (Fahrenheit). The armor provides a +2 circumstance bonus to defenses against a djinni’s _[[rangoric-srd/spells/Whirlwind|whirlwind]]_ effect, as well as other wind and sand spells.
 
 Faint abjuration; CL 5th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Endure Elements|endure elements]]_; Price +2 bonus.

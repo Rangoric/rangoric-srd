@@ -961,9 +961,9 @@ A staff is a long shaft of wood that stores several spells. Unlike wands, which 
 
 ###### Staff Descriptions
 
-Staffs use the wielder’s ability score and relevant feats to set the DC for saves against their spells. Unlike with other sorts of magic items, the wielder can use his caster level when activating the power of a staff if it’s higher than the caster level of the staff.
+Staffs use the wielder’s ability score and relevant feats to set the attack bonus of their spells. Unlike with other sorts of magic items, the wielder can use his caster level when activating the power of a staff if it’s higher than the caster level of the staff.
 
-This means that staffs are far more potent in the hands of a powerful spellcaster. Because they use the wielder’s ability score to set the save DC for the spell, spells from a staff are often harder to resist than ones from other magic items, which use the minimum ability score required to cast the spell. Not only are aspects of the spell dependant on caster level (range, duration, and so on) potentially higher, but spells from a staff are harder to dispel and have a better chance of overcoming a target’s spell resistance.
+This means that staffs are far more potent in the hands of a powerful spellcaster. Because they use the wielder’s ability score to set the spell’s attack bonus, spells from a staff are often harder to resist than ones from other magic items, which use the minimum ability score required to cast the spell. Not only are aspects of the spell dependant on caster level (range, duration, and so on) potentially higher, but spells from a staff are harder to dispel and have a better chance of overcoming a target’s spell resistance.
 
 Furthermore, a staff can hold a spell of any level, unlike a wand, which is limited to spells of 4th level or lower. The minimum caster level of a staff is 8th. Every staff is listed under [[rangoric-srd/magic-items/Magic Scrolls, Staffs, and Wands#All Staffs|All Staffs]], below.
 

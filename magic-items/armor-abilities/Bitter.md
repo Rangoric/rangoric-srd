@@ -18,8 +18,8 @@ tags: [rangoric, rangoric/magic-item]
 
 # Bitter
 
-This armor exudes an exceptionally vile and bitter taste whenever something bites or swallows a creature that is wearing it. Any creature that [[rangoric-srd/rules/conditions/Grappled (Condition)|grapples]] the wearer with a bite attack (or any other attack using the mouth) must succeed at a DC 14 Fortitude save to avoid immediately ending the grapple.
+This armor exudes an exceptionally vile and bitter taste whenever something bites or swallows a creature that is wearing it. Any creature that [[rangoric-srd/rules/conditions/Grappled (Condition)|grapples]] the wearer with a bite attack (or any other attack using the mouth) is attacked by the taste against its Fortitude at +4, and on a hit immediately ends the grapple.
 
-If the wearer is swallowed whole, the swallowing creature must succeed at a DC 14 Fortitude save at the start of each turn that the armored victim remains alive inside of the creature or become [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1 round. The creature may vomit up the victim as a standard action. This is a poison effect.
+If the wearer is swallowed whole, the taste attacks the swallowing creature’s Fortitude at +4 at the start of each turn that the armored victim remains alive inside of the creature, and on a hit it becomes [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1 round. The creature may vomit up the victim as a standard action. This is a poison effect.
 
 Faint transmutation; CL 5th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Stinking Cloud|stinking cloud]]_; Price +1 bonus.
