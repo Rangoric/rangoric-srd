@@ -27,4 +27,4 @@ _Medium armor._ Cost 50 gp; Armor Bonus +4; Maximum Dex Bonus +3; Armor Check Pe
 
 Carved from thick wooden plates, this armor hinders movement and is typically limited only to inflexible areas of the body, such as the forearms, shins and chest.
 
-In warm or humid weather, the armor is more comfortable than studded leather. Wooden armor causes its wearer to suffer only a -3 penalty to Fortitude saving throws against nonlethal damage from [[rangoric-srd/rules/Wilderness, Weather, and Environment#Heat Dangers|heat exposure]], instead of the usual -4. Wooden armor can be donned in 4 minutes, donned hastily in 1 minute, and removed in 1 minute.
+In warm or humid weather, the armor is more comfortable than studded leather. Wooden armor causes its wearer to suffer only a -3 penalty to Fortitude Defense against nonlethal damage from [[rangoric-srd/rules/Wilderness, Weather, and Environment#Heat Dangers|heat exposure]], instead of the usual -4. Wooden armor can be donned in 4 minutes, donned hastily in 1 minute, and removed in 1 minute.

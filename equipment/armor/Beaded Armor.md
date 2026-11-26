@@ -27,4 +27,4 @@ _Light armor._ Cost 25 gp; Armor Bonus +2; Maximum Dex Bonus +6; Armor Check Pen
 
 This armor is made from beads and woven leather cord. This makes the armor highly decorative, yet still provides some degree of protection to the wearer. It is most common among nobility and the priesthood.
 
-Unlike leather armor, beaded armor is quite comfortable in warm weather and high humidity. Beaded armor causes its wearer to suffer only a -2 penalty to Fortitude saving throws against nonlethal damage from [[rangoric-srd/rules/Wilderness, Weather, and Environment#Heat Dangers|heat exposure]], instead of the usual -4. Beaded armor can be donned in 1 minute, donned hastily in 5 rounds, and removed in 1 minute.
+Unlike leather armor, beaded armor is quite comfortable in warm weather and high humidity. Beaded armor causes its wearer to suffer only a -2 penalty to Fortitude Defense against nonlethal damage from [[rangoric-srd/rules/Wilderness, Weather, and Environment#Heat Dangers|heat exposure]], instead of the usual -4. Beaded armor can be donned in 1 minute, donned hastily in 5 rounds, and removed in 1 minute.

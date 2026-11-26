@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/herb]
 - **Environment**: Warm lands
 - **Harvest**: Annual
 - **Cost**: 4 gp/oz. dried flowers or leaves; 6 gp/oz. sap; 10gp/pound of wood chips
-- **Game Use**: Component (Item), Decoration/Incense (Inhaling acacia smoke as incense adds +1 to any Will saves for 1 hour.), Dye/Ink
+- **Game Use**: Component (Item), Decoration/Incense (Inhaling acacia smoke as incense adds +1 to Will Defense for 1 hour.), Dye/Ink
 
 Acacia is a smallish tree with thin bark, rounded compound leaves, and clusters of small yellow-and-white flowers. Its bark is most commonly used as an incense, thrown directly onto fires, and its yellow flowers make a subtle dye. The viscous sap flows easily out of the tree when the bark is scored, and many collect it for a variety of uses.
 

@@ -30,4 +30,4 @@ The steel cover of this slim journal has taken its fair share of abuse; acid sca
 
 ## Preparation Ritual
 
-**Alchemical Protection (Su)**: The alchemical knowledge granted by this book protects you from poisons and alchemical items. Spend this boon's effect as an immediate action when you make a saving throw against poison or an alchemical item but before rolling the saving throw. You gain a +4 bonus on that saving throw.
+**Alchemical Protection (Su)**: The alchemical knowledge granted by this book protects you from poisons and alchemical items. Spend this boon's effect as an immediate action when poison or an alchemical item attacks your defense but before the attack is rolled. You gain a +4 bonus to that defense against the attack.

@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 _Ingestible; Special_
 
-This drinkable antidote provides an immediate Fort save with a +5 bonus vs. any poisons or toxins in the person’s system. It also negates any secondary effects of a poison or toxin without the need for a saving throw.
+This drinkable antidote makes any poisons or toxins in the person’s system attack their Fortitude again at once, with a +5 bonus to their Fortitude Defense, and a miss ends them. It also negates any secondary effects of a poison or toxin without any attack.
 
 **Construction**: No aura; CL 8th; [[rangoric-srd/feats/Brew Ingestibles|Brew Ingestibles]] or [[rangoric-srd/feats/Craft Herbal Restoratives|Craft Herbal Restoratives]]; DC: 25; Price: 105 gp/1 oz.
 

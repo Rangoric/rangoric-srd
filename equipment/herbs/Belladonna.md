@@ -8,8 +8,8 @@ harvest: "Perennial"
 cost: "5 gp/oz. of dried leaves and flowers, stalks, or root or 1 oz. of berry juice (12 berries)"
 affliction-type: "poison"
 delivery: "ingested"
-save: "Fortitude DC 15"
-save-dc: 15
+attack: "+5 vs Fortitude"
+attack-bonus: 5
 frequency: "1/minute for 2 minutes"
 effect: "nauseated for 1 minute/1d8 damage"
 based-on:
@@ -26,12 +26,12 @@ tags: [rangoric, rangoric/herb]
 - **Environment**: Temperate forests
 - **Harvest**: Perennial
 - **Cost**: 5 gp/oz. of dried leaves and flowers, stalks, or root or 1 oz. of berry juice (12 berries)
-- **Game Use**: Poison (DC 15 Nausea/1d8 hp damage per dose ingested), Special (Eat within an hour of a lycanthrope’s attack to gain a DC 20 Fort save to resist lycanthropic curse).
+- **Game Use**: Poison (+5 vs Fortitude, Nausea/1d8 hp damage per dose ingested), Special (Eat within an hour of a lycanthrope’s attack to make the lycanthropic curse attack your Fortitude at +10, a miss resisting it).
 
 **Poison**: As an [[rangoric-srd/rules/Afflictions#The Affliction Block|affliction]]:
 
 - **Type**: poison, ingested (its macerated oil also contact or injury)
-- **Save**: Fortitude DC 15
+- **Attack**: +5 vs Fortitude
 - **Frequency**: 1/minute for 2 minutes
 - **Effect**: [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1 minute/1d8 damage
 

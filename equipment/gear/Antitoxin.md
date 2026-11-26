@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/gear]
 
 # Antitoxin
 
-If you drink antitoxin, you get a +5 alchemical bonus on Fortitude saving throws against poison for 1 hour.
+If you drink antitoxin, you get a +5 alchemical bonus on Fortitude Defense against poison for 1 hour.
 
 It can be made by a character with the [[rangoric-srd/skills/Craft|Craft]] (alchemy) skill.
 

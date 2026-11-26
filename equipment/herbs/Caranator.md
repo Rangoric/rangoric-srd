@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/herb]
 - **Environment**: Any mountain forests
 - **Harvest**: Biennial
 - **Cost**: 12 gp/ 1 oz. of root, dried, 20 gp for whole root, fresh
-- **Game Use**: Component (Item/Spells), Special (chew a thumb-sized piece of root to gain a Will save vs. _any_ charms or enchantments immediately)
+- **Game Use**: Component (Item/Spells), Special (chew a thumb-sized piece of root to make _any_ charms or enchantments attack your Will again immediately, a miss ending them)
 
 An ugly weed by all accounts, caranator is a tough rhizome that crawls and clambers at great speeds, its dark green heart-shaped leaves with black ribs and undersides hardly brightening the plant. While it can spread over a 5-foot-wide area, caranator’s only useful part is its tuberous central root—caranator root, when chewed, helps clear the mind and allows many enchantments to be fought and possibly overcome.
 

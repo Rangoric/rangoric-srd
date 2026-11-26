@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/gear]
 
 # Wandermeal
 
-This tough, dried cake is a halfling invention made from flour, water, and spices. Wandermeal keeps for months without spoiling, travels well, and fills the belly. However, eating it for over a week without other nutrients requires the eater to make a daily Fortitude saving throw (DC 15 + 1 for each additional day) or be [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]]. The effect ends 1 day after more nutritious food is eaten. The listed price is for a day's worth of food.
+This tough, dried cake is a halfling invention made from flour, water, and spices. Wandermeal keeps for months without spoiling, travels well, and fills the belly. However, eating it for over a week without other nutrients makes it attack the eater’s Fortitude daily (+5, +1 for each additional day), and on a hit the eater is [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]]. The effect ends 1 day after more nutritious food is eaten. The listed price is for a day's worth of food.
 
 Price 1 cp per day; Weight 1/2 lb. ([[rangoric-srd/equipment/Equipment Goods and Services#Weights|less for Small characters]]).

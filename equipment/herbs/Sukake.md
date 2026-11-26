@@ -9,8 +9,8 @@ harvest: "Biennial"
 cost: "5 pp/ 1 sukake segment, fresh or dried"
 affliction-type: "poison"
 delivery: "ingested"
-save: "Fortitude DC 13"
-save-dc: 13
+attack: "+3 vs Fortitude"
+attack-bonus: 3
 frequency: "1/minute for 2 minutes"
 effect: "1 Int damage and 1 Wis damage/asleep (unconscious) for 1d4 hours"
 based-on:
@@ -29,12 +29,12 @@ Also called citron.
 - **Environment**: Any warm hills or plains
 - **Harvest**: Biennial
 - **Cost**: 5 pp/ 1 sukake segment, fresh or dried
-- **Game Use**: Component (Spells), Poison (Narcotic DC 13 Int -1 and Wis -1/Sleep 1d4 hours)
+- **Game Use**: Component (Spells), Poison (Narcotic +3 vs Fortitude, Int -1 and Wis -1/Sleep 1d4 hours)
 
 **Poison**: As an [[rangoric-srd/rules/Afflictions#The Affliction Block|affliction]]:
 
 - **Type**: poison, ingested
-- **Save**: Fortitude DC 13
+- **Attack**: +3 vs Fortitude
 - **Frequency**: 1/minute for 2 minutes
 - **Effect**: 1 Int damage and 1 Wis damage/asleep ([[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]]) for 1d4 hours
 
