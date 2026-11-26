@@ -11,4 +11,4 @@ tags: [rangoric, rangoric/feat]
 
 # Iron Will
 
-**Benefit**: You get a +2 bonus on all Will saving throws.
+**Benefit**: You get a +2 bonus on Will Defense.

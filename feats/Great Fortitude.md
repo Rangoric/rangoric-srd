@@ -11,4 +11,4 @@ tags: [rangoric, rangoric/feat]
 
 # Great Fortitude
 
-**Benefit**: You get a +2 bonus on all Fortitude saving throws.
+**Benefit**: You get a +2 bonus on Fortitude Defense.

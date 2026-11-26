@@ -15,7 +15,7 @@ Your mind recoils violently against those who use psionics against you.
 
 Prerequisite: Cha 15.
 
-Benefit: Whenever you are subject to a power from the telepathy discipline (regardless of whether the power is harmful or beneficial to you), the manifester must make a Will saving throw against a DC of 10 + 1/2 your character level + your Charisma bonus or take 2d6 points of damage.
+Benefit: Whenever you are subject to a power from the telepathy discipline (regardless of whether the power is harmful or beneficial to you), you attack the manifester’s Will, your attack bonus 1/2 your character level + your Charisma bonus; on a hit, it takes 2d6 points of damage.
 
 The benefit of this feat applies only to psionic powers and psi-like abilities. This is an exception to the psionics-magic transparency rule.
 

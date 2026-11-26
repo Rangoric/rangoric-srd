@@ -13,4 +13,4 @@ tags: [rangoric, rangoric/feat, epic]
 
 Prerequisite: Cha 25, aura of despair class ability.
 
-Benefit: The character’s aura of despair causes a -4 morale penalty on all saving throws.
+Benefit: The character’s aura of despair causes a -4 morale penalty on all defenses.

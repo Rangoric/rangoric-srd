@@ -15,4 +15,4 @@ You can use meditation to focus your powers.
 
 Prerequisite: [[rangoric-srd/feats/Psionic Endowment|Psionic Endowment]].
 
-Benefit: When you use the Psionic Endowment feat, you add +2 to the save DC of a power you manifest instead of +1.
+Benefit: When you use the Psionic Endowment feat, you add +2 to the attack bonus of a power you manifest instead of +1.

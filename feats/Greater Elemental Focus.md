@@ -17,6 +17,6 @@ Choose an energy type to which you have already applied the Elemental Focus feat
 
 **Prerequisites**: [[rangoric-srd/feats/Elemental Focus|Elemental Focus]].
 
-**Benefit**: Add +1 to the DC of all saving throws against your spells that deal damage of the energy type you chose. This stacks with Elemental Focus.
+**Benefit**: Add +1 to the attack bonus of your spells that deal damage of the energy type you chose. This stacks with Elemental Focus.
 
 **Special**: You can take this feat multiple times. Its effects don’t stack. Each time, it applies to a new energy type you have already chosen for Elemental Focus.

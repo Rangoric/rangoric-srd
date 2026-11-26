@@ -11,4 +11,4 @@ tags: [rangoric, rangoric/feat]
 
 # Lightning Reflexes
 
-**Benefit**: You get a +2 bonus on all Reflex saving throws.
+**Benefit**: You get a +2 bonus on Reflex Defense.

@@ -15,7 +15,7 @@ You are able to resist psionic attacks with extreme force of will.
 
 Prerequisite: [[rangoric-srd/feats/Iron Will|Iron Will]].
 
-Benefit: Once per round, when targeted by a psionic effect that allows a Reflex save or a Fortitude save, you can instead make a Will saving throw to avoid the effect.
+Benefit: Once per round, when a psionic effect attacks your Reflex or Fortitude Defense, you can have it attack your Will Defense instead.
 
 The benefit of this feat applies only to psionic powers and psi-like abilities. This is an exception to the psionics-magic transparency rule.
 

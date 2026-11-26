@@ -64,7 +64,7 @@ Some magic items similarly incur extra costs in material components or XP, as no
 
 ##### Metamagic Feats
 
-As a spellcaster’s knowledge of magic grows, she can learn to cast spells in ways slightly different from the ways in which the spells were originally designed or learned. Preparing and casting a spell in such a way is harder than normal but, thanks to metamagic feats, at least it is possible. Spells modified by a metamagic feat use a spell slot higher than normal. This does not change the level of the spell, so the DC for saving throws against it does not go up.
+As a spellcaster’s knowledge of magic grows, she can learn to cast spells in ways slightly different from the ways in which the spells were originally designed or learned. Preparing and casting a spell in such a way is harder than normal but, thanks to metamagic feats, at least it is possible. Spells modified by a metamagic feat use a spell slot higher than normal. This does not change the level of the spell, so its attack bonus does not go up.
 
 **Wizards and Divine Spellcasters**: Wizards and divine spellcasters must prepare their spells in advance. During preparation, the character chooses which spells to prepare with metamagic feats (and thus which ones take up higher-level spell slots than normal).
 
@@ -72,7 +72,7 @@ As a spellcaster’s knowledge of magic grows, she can learn to cast spells in w
 
 **Spontaneous Casting and Metamagic Feats**: A cleric spontaneously casting a cure or inflict spell can cast a metamagic version of it instead. Extra time is also required in this case. Casting a 1-action metamagic spell spontaneously is a full-round action, and a spell with a longer casting time takes an extra full-round action to cast.
 
-**Effects of Metamagic Feats on a Spell**: In all ways, a metamagic spell operates at its original spell level, even though it is prepared and cast as a higher-level spell. Saving throw modifications are not changed unless stated otherwise in the feat description. The modifications made by these feats only apply to spells cast directly by the feat user. A spellcaster can’t use a metamagic feat to alter a spell being cast from a wand, scroll, or other device.
+**Effects of Metamagic Feats on a Spell**: In all ways, a metamagic spell operates at its original spell level, even though it is prepared and cast as a higher-level spell. Attack bonus modifications are not changed unless stated otherwise in the feat description. The modifications made by these feats only apply to spells cast directly by the feat user. A spellcaster can’t use a metamagic feat to alter a spell being cast from a wand, scroll, or other device.
 
 Metamagic feats that eliminate components of a spell don’t eliminate the attack of opportunity provoked by casting a spell while threatened. However, casting a spell modified by Quicken Spell does not provoke an attack of opportunity.
 

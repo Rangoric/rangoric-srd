@@ -17,4 +17,4 @@ You can throw off the effects of crippling conditions.
 
 **Prerequisites**: [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Endurance|Endurance]], base Fortitude save +4.
 
-**Benefit**: Once per day as a standard action, you can attempt a new saving throw against a harmful condition or affliction affecting you that needs a Fortitude save. A failed save has no further effect, but a successful one counts toward curing an affliction such as a poison or disease. You can’t use this feat against instantaneous effects, effects that allow no saving throw, or effects that don’t use a Fortitude save.
+**Benefit**: Once per day as a standard action, you can make a harmful condition or affliction affecting you that attacks your Fortitude attack you again. A hit has no further effect, but a miss counts toward curing an affliction such as a poison or disease. You can’t use this feat against instantaneous effects, effects that make no attack against a defense, or effects that don’t attack Fortitude.
