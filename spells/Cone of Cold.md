@@ -19,7 +19,7 @@ casting-time: "1 standard action"
 range: "60 ft."
 area: "Cone-shaped burst"
 duration: "Instantaneous"
-saving-throw: "Reflex half"
+defense: "Reflex half"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Cone of Cold|Cone of Cold (3.5)]]"
@@ -39,7 +39,7 @@ _Evocation \[Cold\]_
 - **Range**: 60 ft.
 - **Area**: Cone-shaped burst
 - **Duration**: Instantaneous
-- **Saving Throw**: Reflex half
+- **Defense**: Reflex half
 - **Spell Resistance**: Yes
 
 Cone of cold creates an area of extreme cold, originating at your hand and extending outward in a cone. It drains heat, dealing 1d6 points of cold damage per caster level (maximum 15d6).

@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "Instantaneous"
-saving-throw: "Will partial"
+defense: "Will partial"
 spell-resistance: "Yes"
 book: "Advanced Player's Guide"
 based-on:
@@ -35,7 +35,7 @@ _Abjuration_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: Instantaneous
-- **Saving Throw**: Will partial
+- **Defense**: Will partial
 - **Spell Resistance**: Yes
 
-With a melee touch attack you blast a single creature and disrupt any magic controlling it. The target takes 2d8 points of damage + 1 point per caster level (maximum +15). In addition, you make a dispel check against any _[[rangoric-srd/spells/Magic Jar|magic jar]]_ effect (including a ghost's malevolence ability) or enchantment (compulsion) spells on the target creature, starting with the highest level spells and proceeding to lower level spells. Treat this as a targeted _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_ spell, except _cast out_ can dispel one such spell for every four caster levels you possess. A successful Will save halves the damage and limits the dispelling to a single spell or effect.
+With a melee touch attack you blast a single creature and disrupt any magic controlling it. The target takes 2d8 points of damage + 1 point per caster level (maximum +15). In addition, you make a dispel check against any _[[rangoric-srd/spells/Magic Jar|magic jar]]_ effect (including a ghost's malevolence ability) or enchantment (compulsion) spells on the target creature, starting with the highest level spells and proceeding to lower level spells. Treat this as a targeted _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_ spell, except _cast out_ can dispel one such spell for every four caster levels you possess. The spell attacks Will, and a miss halves the damage and limits the dispelling to a single spell or effect.

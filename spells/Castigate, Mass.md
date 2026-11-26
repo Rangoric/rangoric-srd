@@ -19,7 +19,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 targets: "One creature/level, no two of which can be more than 30 ft. apart"
 duration: "1 round/level or 1 round; see text"
-saving-throw: "Will partial"
+defense: "Will partial"
 spell-resistance: "Yes"
 book: "Advanced Player's Guide"
 based-on:
@@ -40,7 +40,7 @@ _Enchantment (Compulsion) \[Emotion, Fear, Language-dependent, Mind-affecting\]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Targets**: One creature/level, no two of which can be more than 30 ft. apart
 - **Duration**: 1 round/level or 1 round; see text
-- **Saving Throw**: Will partial
+- **Defense**: Will partial
 - **Spell Resistance**: Yes
 
 This spell functions as _[[rangoric-srd/spells/Castigate|castigate]]_, except it affects many creatures.

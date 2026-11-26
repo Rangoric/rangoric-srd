@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 effect: "Cloud spreads in 20-ft. radius, 20 ft. high"
 duration: "1 min./level"
-saving-throw: "Fortitude partial; see text"
+defense: "Fortitude partial; see text"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Cloudkill|Cloudkill (3.5)]]"
@@ -36,12 +36,12 @@ _Conjuration (Creation)_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Effect**: Cloud spreads in 20-ft. radius, 20 ft. high
 - **Duration**: 1 min./level
-- **Saving Throw**: Fortitude partial; see text
+- **Defense**: Fortitude partial; see text
 - **Spell Resistance**: No
 
-This spell generates a bank of fog, similar to a fog cloud, except that its vapors are yellowish green and poisonous. These vapors automatically kill any living creature with 3 or fewer HD (no save). A living creature with 4 to 6 HD is slain unless it succeeds on a Fortitude save (in which case it takes 1d4 points of Constitution damage on your turn each round while in the cloud).
+This spell generates a bank of fog, similar to a fog cloud, except that its vapors are yellowish green and poisonous. These vapors automatically kill any living creature with 3 or fewer HD (no attack against a defense). The vapors attack the Fortitude of a living creature with 4 to 6 HD, and slay it on a hit (on a miss it takes 1d4 points of Constitution damage on your turn each round while in the cloud).
 
-A living creature with 6 or more HD takes 1d4 points of Constitution damage on your turn each round while in the cloud (a successful Fortitude save halves this damage). Holding one’s breath doesn’t help, but creatures immune to poison are unaffected by the spell.
+A living creature with 6 or more HD takes 1d4 points of Constitution damage on your turn each round while in the cloud (vs Fortitude; a miss halves). Holding one’s breath doesn’t help, but creatures immune to poison are unaffected by the spell.
 
 Unlike a fog cloud, the cloudkill moves away from you at 10 feet per round, rolling along the surface of the ground.
 

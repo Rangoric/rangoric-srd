@@ -19,7 +19,7 @@ range: "Touch"
 target: "Object touched"
 effect: "Magical, heatless flame"
 duration: "Permanent"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Continual Flame|Continual Flame (3.5)]]"
@@ -40,7 +40,7 @@ _Evocation \[Light\]_
 - **Target**: Object touched
 - **Effect**: Magical, heatless flame
 - **Duration**: Permanent
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 A flame, equivalent in brightness to a torch, springs forth from an object that you touch. The effect looks like a regular flame, but it creates no heat and doesn’t use oxygen. A continual flame can be covered and hidden but not smothered or quenched.

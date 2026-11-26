@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 area: "Burst extending to maximum range centered on the caster"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 book: "Spells & Magic"
 based-on:
@@ -36,7 +36,7 @@ _Evocation \[Good\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Area**: Burst extending to maximum range centered on the caster
 - **Duration**: Instantaneous
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 All undead within the area suffer 1d8 hit points of sacred damage per caster level (20d8 maximum). Undead reduced to 0 hit points by this spell are destroyed irrevocably unless their life force was held in some other location.

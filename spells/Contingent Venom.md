@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "One dose of poison or one venomous creature"
 duration: "Permanent until discharged"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 book: "Ultimate Intrigue"
 based-on:
@@ -35,7 +35,7 @@ _Necromancy \[Poison\]_
 - **Range**: Touch
 - **Target**: One dose of poison or one venomous creature
 - **Duration**: Permanent until discharged
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
 This spell functions as languid venom, but you can stipulate a specific condition or circumstance that will end the poison's onset time and cause it to take effect. The conditions for triggering the poison can be as general or as detailed as desired, but the triggers must be visual or audible (as per _magic_ mouth) or else based on physical contact with or consumption of a specific object, substance, or creature. This triggering condition can either result in the immediate onset of the poison, or cause the poison to take effect a number of rounds after being triggered no greater than 1 round per caster level. You must make all decisions involving triggering when you cast _contingent venom_, and you can't change those decisions later.

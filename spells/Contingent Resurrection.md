@@ -12,7 +12,7 @@ casting-time: "1 minute"
 range: "Touch"
 target: "You or creature touched"
 duration: "Contingent until expended, then instantaneous"
-saving-throw: "None (see text)"
+defense: "None (see text)"
 spell-resistance: "Yes (harmless)"
 to-develop: "468,000 gp; 10 days; 18,720 XP. Seed: life (DC 27). Factor: activates when subject is slain (+25 DC)."
 based-on:
@@ -32,7 +32,7 @@ Casting Time: 1 minute
 Range: Touch  
 Target: You or creature touched  
 Duration: Contingent until expended, then instantaneous  
-Saving Throw: None (see text)  
+Defense: None (see text)  
 Spell Resistance: Yes (harmless)  
 To Develop: 468,000 gp; 10 days; 18,720 XP. Seed: life (DC 27). Factor: activates when subject is slain (+25 DC).
 

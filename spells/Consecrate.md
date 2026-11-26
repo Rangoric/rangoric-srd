@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 area: "20-ft.-radius emanation"
 duration: "2 hours/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Consecrate|Consecrate (3.5)]]"
@@ -36,10 +36,10 @@ _Evocation \[Good\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Area**: 20-ft.-radius emanation
 - **Duration**: 2 hours/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
-This spell blesses an area with positive energy. Each Charisma check made to [[rangoric-srd/combat/Combat Special Attacks#Turn or Rebuke Undead|turn undead]] within this area gains a +3 sacred bonus. Every undead creature entering a consecrated area suffers minor disruption, giving it a –1 penalty on attack rolls, damage rolls, and saves. Undead cannot be created within or summoned into a consecrated area.
+This spell blesses an area with positive energy. Each Charisma check made to [[rangoric-srd/combat/Combat Special Attacks#Turn or Rebuke Undead|turn undead]] within this area gains a +3 sacred bonus. Every undead creature entering a consecrated area suffers minor disruption, giving it a –1 penalty on attack rolls, damage rolls, and defenses. Undead cannot be created within or summoned into a consecrated area.
 
 If the consecrated area contains an altar, shrine, or other permanent fixture dedicated to your deity, pantheon, or aligned higher power, the modifiers given above are doubled (+6 sacred bonus on turning checks, –2 penalties for undead in the area). You cannot consecrate an area with a similar fixture of a deity other than your own patron.
 

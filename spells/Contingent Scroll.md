@@ -17,7 +17,7 @@ casting-time: "1 hour"
 range: "Touch"
 target: "Willing creature touched"
 duration: "1 hour/level (D) or until discharged"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Advanced Class Guide"
 based-on:
@@ -38,7 +38,7 @@ _Evocation_
 - **Range**: Touch
 - **Target**: Willing creature touched
 - **Duration**: 1 hour/level (D) or until discharged
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 You transfer the power of a scroll to the target so that it comes into effect under some condition you dictate. Casting this spell destroys the scroll, but allows the spell in it to be triggered in a manner similar to the _[[rangoric-srd/spells/Contingency|contingency]]_ spell. The spell on the scroll must be a spell on your spell list, it must affect the target of this spell (the target of this spell is considered the caster of the scroll), and its level must be no higher than one-fourth your caster level (maximum 5th level).

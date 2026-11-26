@@ -12,7 +12,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One construct"
 duration: "Concentration"
-saving-throw: "None (see text)"
+defense: "None (see text)"
 spell-resistance: "No"
 book: "Ultimate Magic"
 based-on:
@@ -33,7 +33,7 @@ _Transmutation_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One construct
 - **Duration**: Concentration
-- **Saving Throw**: None (see text)
+- **Defense**: None (see text)
 - **Spell Resistance**: No
 
 You wrest the control of a construct from its master. For as long as you concentrate, you can control the construct as if you were its master. You must make a Mysticism check each round to maintain control. The DC of the Mysticism check is (10 + the construct's HD). If the construct's creator or master is present and trying to control the construct, you both must make opposed Mysticism checks each round to control the construct.

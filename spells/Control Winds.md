@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "40 ft./level"
 area: "40 ft./level radius cylinder 40 ft. high"
 duration: "10 min./level"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Control Winds|Control Winds (3.5)]]"
@@ -37,7 +37,7 @@ _Transmutation \[Air\]_
 - **Range**: 40 ft./level
 - **Area**: 40 ft./level radius cylinder 40 ft. high
 - **Duration**: 10 min./level
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: No
 
 You alter wind force in the area surrounding you. You can make the wind blow in a certain direction or manner, increase its strength, or decrease its strength. The new wind direction and strength persist until the spell ends or until you choose to alter your handiwork, which requires concentration. You may create an “eye” of calm air up to 80 feet in diameter at the center of the area if you so desire, and you may choose to limit the area to any cylindrical area less than your full limit.
@@ -52,7 +52,7 @@ _Wind Direction_: You may choose one of four basic wind patterns to function ove
 
 • A blast simply causes the winds to blow in one direction across the entire area from one side to the other.
 
-_Wind Strength_: For every three caster levels, you can increase or decrease wind strength by one level. Each round on your turn, a creature in the wind must make a Fortitude save or suffer the effect of being in the windy area.
+_Wind Strength_: For every three caster levels, you can increase or decrease wind strength by one level. Each round on your turn, the wind attacks the Fortitude of a creature in it, and on a hit the creature suffers the effect of being in the windy area.
 
 Strong winds (21+ mph) make sailing difficult.
 

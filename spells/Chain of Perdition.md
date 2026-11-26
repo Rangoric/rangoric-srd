@@ -18,7 +18,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "10-ft. chain"
 duration: "1 round/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 book: "Ultimate Combat"
 based-on:
@@ -39,7 +39,7 @@ _Evocation \[Force\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Effect**: 10-ft. chain
 - **Duration**: 1 round/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 A floating chain of force with hooks at each end appears within an unoccupied space of your choosing within range. This chain is a Medium object that has a 10-foot reach. Physical attacks cannot hit or harm the _chain of perdition_, but _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_,_[[rangoric-srd/spells/Disintegrate|disintegrate]]_, a _[[rangoric-srd/magic-items/artifacts/Sphere of Annihilation|sphere of annihilation]]_, or a _[[rangoric-srd/magic-items/rods/Rod of Cancellation|rod of cancellation]]_ affects it normally. The chain's AC against touch attacks is 10 + your Charisma modifier (sorcerer), Intelligence modifier (wizard), or Wisdom modifier (cleric).
