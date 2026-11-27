@@ -8,6 +8,7 @@ Every departure from the source rules, newest first. One line each, with links t
 
 | Date | Change | Rangoric note | Source | Why |
 | --- | --- | --- | --- | --- |
+| 2026-11-27 | Saving throws as defenses, the check rule (DF 89): the README marks the old save keys never, and "Check notes" fails save keys and save wording. | [[DF Batch 89 Changes]] | | [[Saving Throws as Defenses]] DF 89 |
 | 2026-11-27 | Saving throws as defenses, last sweep (DF 88): save wording the earlier scans missed, in every folder. | [[DF Batch 88 Changes]] | | [[Saving Throws as Defenses]] DF 88 |
 | 2026-11-27 | Saving throws as defenses, catch-up (DF 87): notes the scans missed, rules to traits, attack a defense instead of allowing a save. | [[DF Batch 87 Changes]] | | [[Saving Throws as Defenses]] DF 87 |
 | 2026-11-27 | Saving throws as defenses, catch-up (DF 86): notes the scans missed, monsters to rules, attack a defense instead of allowing a save. | [[DF Batch 86 Changes]] | | [[Saving Throws as Defenses]] DF 86 |
