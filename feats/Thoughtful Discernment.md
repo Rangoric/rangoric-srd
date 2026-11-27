@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Discern lies class feature."
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/feats/Thoughtful Discernment|Thoughtful Discernment (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Thoughtful Discernment|Thoughtful Discernment (PF1 Foundry)]]"

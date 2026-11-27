@@ -3,7 +3,6 @@ srd-type: "class-bonus"
 section: "Races"
 race: "Fetchling"
 class: ["Summoner", "Unchained Summoner"]
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Fetchlings#Favored Class Options|Fetchlings, Favored Class Options (ARG)]]"
 status: draft

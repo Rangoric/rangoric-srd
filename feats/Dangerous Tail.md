@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Base attack bonus +5, Lizardfolk."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/lizardfolk/New Rules (Lizardfolk)#Dangerous Tail|Dangerous Tail (PF1)]]"
 status: draft

@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Arcana 5 ranks, keen recollection class feature."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/feats/Formula Recollection|Formula Recollection (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Formula Recollection|Formula Recollection (PF1 Foundry)]]"

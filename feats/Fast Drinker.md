@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Con 18, drunken ki class feature."
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/feats/Fast Drinker|Fast Drinker (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Fast Drinker|Fast Drinker (PF1)]]"

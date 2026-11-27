@@ -2,7 +2,6 @@
 srd-type: "trait"
 section: "Traits"
 trait-type: "campaign"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/traits/Outlander|Outlander (PF1)]]"
   - "[[path srd 3.5 foundry/traits/Outlander - Exile (Any Campaign)|Outlander - Exile (PF1, Foundry)]]"

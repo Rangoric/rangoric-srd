@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Grit class feature or Amateur Gunslinger feat, Dodge, Mobility."
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/feats/Deft Shootist Deed|Deft Shootist Deed (PF1)]]"
 status: draft

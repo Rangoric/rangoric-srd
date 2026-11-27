@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Phrenic pool class feature."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/feats/Expanded Phrenic Pool|Expanded Phrenic Pool (PF1 Foundry)]]"
 status: draft

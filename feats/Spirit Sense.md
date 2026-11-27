@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Psychic Sensitivity or ability to cast psychic spells."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/feats/Spirit Sense (Feat)|Spirit Sense (PF1 Foundry)]]"
 status: draft

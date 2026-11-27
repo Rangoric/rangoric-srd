@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Base attack bonus +3, kinetic blast class feature."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/feats/Delay Blast|Delay Blast (PF1 Foundry)]]"
 status: draft

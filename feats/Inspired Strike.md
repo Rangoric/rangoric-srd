@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Studied combat class feature."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/feats/Inspired Strike|Inspired Strike (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Inspired Strike|Inspired Strike (PF1 Foundry)]]"

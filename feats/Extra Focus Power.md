@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Focus power class feature."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/feats/Extra Focus Power|Extra Focus Power (PF1 Foundry)]]"
 status: draft

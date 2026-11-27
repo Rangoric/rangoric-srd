@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Psychic Sensitivity or ability to cast psychic spells or use psychic spell-like abilities, character level 2nd."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/feats/Shatter Mental Mask|Shatter Mental Mask (PF1 Foundry)]]"
 status: draft

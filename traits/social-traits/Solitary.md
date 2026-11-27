@@ -2,7 +2,6 @@
 srd-type: "trait"
 section: "Traits"
 trait-type: "social"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5 foundry/traits/Solitary|Solitary (PF1)]]"
 status: draft

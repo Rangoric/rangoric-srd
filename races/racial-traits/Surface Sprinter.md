@@ -3,7 +3,6 @@ srd-type: "racial-trait"
 section: "Races"
 race: "[[rangoric-srd/races/Ratfolk|Ratfolk]]"
 replaces: "darkvision and the base speed of 20 feet"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/ratfolk/New Rules (Ratfolk)#Alternate Racial Traits|Ratfolk, Alternate Racial Traits (PF1)]]"
 status: draft

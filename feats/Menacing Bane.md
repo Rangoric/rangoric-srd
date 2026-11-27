@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Bane class feature."
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/feats/Menacing Bane|Menacing Bane (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Menacing Bane|Menacing Bane (PF1 Foundry)]]"

@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dazzling Display, Weapon Focus, any nongood alignment, great renown social talent, proficiency with chosen weapon."
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/feats/Notorious Vigilante|Notorious Vigilante (PF1 Foundry)]]"
 status: draft

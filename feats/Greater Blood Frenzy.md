@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Blood frenzy ability, sahuagin."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/sahuagin/New Rules (Sahuagin)#Greater Blood Frenzy|Greater Blood Frenzy (PF1)]]"
 status: draft

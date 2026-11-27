@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Base attack bonus +6, bite attack, rend, troll."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/trolls/New Rules (Trolls)#Mighty Bite|Mighty Bite (PF1)]]"
 status: draft

@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Challenge class feature, character level 7th."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/hobgoblins/New Rules (Hobgoblins)#Chain Challenge|Chain Challenge (PF1)]]"
 status: draft

@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Cha 13, hobgoblin."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/hobgoblins/New Rules (Hobgoblins)#Commander of Goblinkind|Commander of Goblinkind (PF1)]]"
 status: draft

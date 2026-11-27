@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Discovery class feature."
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/feats/Extra Discovery|Extra Discovery (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Extra Discovery|Extra Discovery (PF1 Foundry)]]"

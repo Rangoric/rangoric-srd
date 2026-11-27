@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Poison use class feature, Craft (alchemy) 1 rank, Improved Unarmed Strike."
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/feats/Adder Strike|Adder Strike (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Adder Strike|Adder Strike (PF1 Foundry)]]"

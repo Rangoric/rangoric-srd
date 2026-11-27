@@ -1,7 +1,6 @@
 ---
 srd-type: "feat"
 section: "Feats"
-book: "Alchemy & Herbalists"
 prerequisites: "4 ranks in each of two related skills."
 based-on:
   - "[[individual books/Alchemy & Herbalists v3.5/feats/Reciprocal Knowledge|Reciprocal Knowledge (Alchemy & Herbalists)]]"

@@ -2,7 +2,6 @@
 srd-type: "trait"
 section: "Traits"
 trait-type: "religion"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/traits/Corpse Cannibal|Corpse Cannibal (PF1)]]"
 status: draft

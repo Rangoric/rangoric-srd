@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Wis 13, judgment class feature."
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/feats/Favored Judgment|Favored Judgment (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Favored Judgment|Favored Judgment (PF1 Foundry)]]"

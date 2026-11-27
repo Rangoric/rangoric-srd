@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Amateur Swashbuckler or panache class feature."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/feats/Extra Panache|Extra Panache (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Extra Panache|Extra Panache (PF1)]]"

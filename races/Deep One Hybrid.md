@@ -1,7 +1,6 @@
 ---
 srd-type: "race"
 section: "Races"
-book: "Bestiary 5"
 based-on:
   - "[[path srd 3.5 foundry/races/Deep One Hybrid|Deep One Hybrid (PF1 Foundry)]]"
   - "[[path srd 3.5 foundry/racial-traits/Languages (Deep One Hybrid)|Languages (Deep One Hybrid) (PF1 Foundry)]]"

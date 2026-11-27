@@ -1,7 +1,6 @@
 ---
 srd-type: "feat"
 section: "Feats"
-book: "Alchemy & Herbalists"
 prerequisites: "Craft (alchemy) 2 ranks or Profession (herbalist) 2 ranks."
 based-on:
   - "[[individual books/Alchemy & Herbalists v3.5/feats/Bodily Awareness|Bodily Awareness (Alchemy & Herbalists)]]"

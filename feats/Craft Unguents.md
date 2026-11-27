@@ -1,7 +1,6 @@
 ---
 srd-type: "feat"
 section: "Feats"
-book: "Alchemy & Herbalists"
 prerequisites: "Craft (alchemy) 6 ranks or Profession (herbalist) 4 ranks, Craft Powders & Dusts."
 based-on:
   - "[[individual books/Alchemy & Herbalists v3.5/feats/Craft Unguents|Craft Unguents (Alchemy & Herbalists)]]"

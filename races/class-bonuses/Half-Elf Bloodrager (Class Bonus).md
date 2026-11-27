@@ -3,7 +3,6 @@ srd-type: "class-bonus"
 section: "Races"
 race: "Half-Elf"
 class: ["Bloodrager"]
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/rules/advanced-class-guide/hybrid-classes/Racial Favored Class Options#Half-Elves|Racial Favored Class Options, Half-Elves (ACG)]]"
 status: draft

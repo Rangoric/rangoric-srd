@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Str 19, ogre, sneak attack +2d6."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/ogres/New Rules (Ogres)#Savage Critical|Savage Critical (PF1)]]"
 status: draft

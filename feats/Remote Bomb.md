@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Delayed bomb discovery."
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/feats/Remote Bomb|Remote Bomb (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Remote Bomb|Remote Bomb (PF1 Foundry)]]"

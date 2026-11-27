@@ -3,7 +3,6 @@ srd-type: "class-bonus"
 section: "Races"
 race: "Drow"
 class: ["Cleric"]
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Drow (Race)#Favored Class Options|Drow, Favored Class Options (ARG)]]"
 status: draft

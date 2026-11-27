@@ -1,7 +1,6 @@
 ---
 srd-type: "rules"
 section: "Races"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/rules/advanced-race-guide/race-builder/Racial Traits (Race Builder)|Racial Traits (Race Builder) (ARG)]]"
   - "[[path srd 3.5/rules/advanced-race-guide/race-builder/Racial Qualities|Racial Qualities (ARG)]]"

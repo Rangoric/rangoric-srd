@@ -1,7 +1,6 @@
 ---
 srd-type: "race"
 section: "Races"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/races/Deep Fey|Deep Fey (Faeries)]]"
 status: draft

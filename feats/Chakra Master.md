@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Chakra Adept, Chakra Initiate, ability to awaken the crown chakra."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/feats/Chakra Master|Chakra Master (PF1 Foundry)]]"
 status: draft

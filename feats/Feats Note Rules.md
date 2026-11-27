@@ -19,7 +19,6 @@ What the notes in `feats` look like. The whole-SRD rules are in the [README](../
 | `section`       | yes      | `Feats`                                 |
 | `prerequisites` | no       | `text`                                  |
 | `feat-type`     | no       | `General`, `Metamagic`, `Item Creation` |
-| `book`          | no       | `text`                                  |
 
 Headings, in order:
 
@@ -31,7 +30,6 @@ Headings, in order:
 | ---------- | -------- | ---------- |
 | `srd-type` | yes      | `overview` |
 | `section`  | yes      | `Feats`    |
-| `book`     | no       |            |
 
 ## Failing notes
 

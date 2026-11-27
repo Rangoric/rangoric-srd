@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Mesmerist level 13th, painful stare class feature."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/feats/Compounded Pain|Compounded Pain (PF1 Foundry)]]"
 status: draft

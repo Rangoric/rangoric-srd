@@ -2,7 +2,6 @@
 srd-type: "race"
 section: "Races"
 race-points: 10
-book: ["Advanced Race Guide", "Unearthed Arcana", "Advanced Player's Guide"]
 based-on:
   - "[[fantasy srd 3.5/rules/PC Races|PC Races (3.5)]]"
   - "[[path srd 3.5/races/Half-Elves|Half-Elves (PF1)]]"

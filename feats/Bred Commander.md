@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Hobgoblin."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/hobgoblins/New Rules (Hobgoblins)#Bred Commander|Bred Commander (PF1)]]"
 status: draft

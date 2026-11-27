@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Bardic performance class feature, Performance 10 ranks."
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/feats/Discordant Voice|Discordant Voice (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Discordant Voice|Discordant Voice (PF1)]]"

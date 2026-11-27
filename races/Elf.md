@@ -2,7 +2,6 @@
 srd-type: "race"
 section: "Races"
 race-points: 12
-book: ["Unearthed Arcana", "Advanced Player's Guide"]
 based-on:
   - "[[fantasy srd 3.5/rules/PC Races|PC Races (3.5)]]"
   - "[[path srd 3.5/races/Elves|Elves (PF1)]]"

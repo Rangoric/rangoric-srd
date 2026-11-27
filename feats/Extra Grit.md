@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Grit class feature or the Amateur Gunslinger feat."
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/feats/Extra Grit|Extra Grit (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Extra Grit|Extra Grit (PF1 F)]]"

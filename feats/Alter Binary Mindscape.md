@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Int 13, ability to cast instigate psychic duel."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/feats/Alter Binary Mindscape|Alter Binary Mindscape (PF1 Foundry)]]"
 status: draft

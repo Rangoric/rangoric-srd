@@ -2,7 +2,6 @@
 srd-type: "trait"
 section: "Traits"
 trait-type: "regional"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/traits/Frontier-Forged|Frontier-Forged (PF1)]]"
 status: draft

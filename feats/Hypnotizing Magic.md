@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Fey Magic."
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/feats/Hypnotizing Magic|Hypnotizing Magic (Faeries)]]"
 status: draft

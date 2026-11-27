@@ -2,7 +2,6 @@
 srd-type: "trait"
 section: "Traits"
 trait-type: "combat"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/traits/Indelible Ire|Indelible Ire (PF1)]]"
 status: draft

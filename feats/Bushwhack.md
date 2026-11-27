@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 13, Improved Grapple, Improved Unarmed Strike."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/bugbears/New Rules (Bugbears)#Bushwhack|Bushwhack (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Bushwhack|Bushwhack (PF1 Foundry)]]"

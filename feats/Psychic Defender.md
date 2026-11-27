@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Int 13, Psychic Sensitivity or the ability to cast psychic spells or use psychic spell-like abilities, character level 3rd."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/feats/Psychic Defender|Psychic Defender (PF1 Foundry)]]"
 status: draft

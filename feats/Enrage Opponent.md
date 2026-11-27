@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Cha 13, Amateur Swashbuckler or panache class feature, Skill Focus (Persuasion or Intimidation)."
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/feats/Enrage Opponent|Enrage Opponent (PF1)]]"
 status: draft

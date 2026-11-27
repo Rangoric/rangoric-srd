@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Maximized magic magus arcana, weapon expertise class feature or Quick Draw."
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/feats/Maximized Spellstrike|Maximized Spellstrike (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Maximized Spellstrike|Maximized Spellstrike (PF1 Foundry)]]"

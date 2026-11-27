@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Ability to create 2nd-level extracts, alchemy class feature, inspiration class feature."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/feats/Inspired Alchemy|Inspired Alchemy (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Inspired Alchemy|Inspired Alchemy (PF1 Foundry)]]"

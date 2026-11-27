@@ -1,7 +1,6 @@
 ---
 srd-type: "feat"
 section: "Feats"
-book: "Alchemy & Herbalists"
 prerequisites: "Craft (alchemy) 2 ranks, Skill Focus (Craft (alchemy))."
 based-on:
   - "[[individual books/Alchemy & Herbalists v3.5/feats/Craft Chymicals|Craft Chymicals (Alchemy & Herbalists)]]"

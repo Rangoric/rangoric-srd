@@ -3,7 +3,6 @@ srd-type: "class-bonus"
 section: "Races"
 race: "Changeling"
 class: ["Rogue"]
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Changelings#Favored Class Options|Changelings, Favored Class Options (ARG)]]"
 status: draft

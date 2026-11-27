@@ -3,7 +3,6 @@ srd-type: "class-bonus"
 section: "Races"
 race: "Tiefling"
 class: ["Wizard"]
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Tieflings#Favored Class Options|Tieflings, Favored Class Options (ARG)]]"
 status: draft

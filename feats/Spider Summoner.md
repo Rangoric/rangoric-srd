@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Ability to cast summon monster or summon nature’s ally spells, drow."
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/feats/Spider Summoner|Spider Summoner (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Spider Summoner|Spider Summoner (PF1)]]"

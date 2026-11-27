@@ -2,7 +2,6 @@
 srd-type: "trait"
 section: "Traits"
 trait-type: "magic"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/traits/Gifted Adept|Gifted Adept (PF1)]]"
 status: draft

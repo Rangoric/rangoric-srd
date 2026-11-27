@@ -3,7 +3,6 @@ srd-type: "class-bonus"
 section: "Races"
 race: "Vanara"
 class: ["Ranger"]
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Vanaras#Favored Class Options|Vanaras, Favored Class Options (ARG)]]"
 status: draft

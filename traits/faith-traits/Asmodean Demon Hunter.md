@@ -2,7 +2,6 @@
 srd-type: "trait"
 section: "Traits"
 trait-type: "religion"
-book: "Ultimate Campaign, Advanced Player's Guide"
 aliases:
   - "Demon Hunter (Trait)"
 based-on:

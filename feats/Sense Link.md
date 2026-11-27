@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Bond senses class feature."
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/feats/Sense Link|Sense Link (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Sense Link|Sense Link (PF1 Foundry)]]"

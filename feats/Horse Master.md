@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Expert trainer class feature, Animal Handling 6 ranks."
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/feats/Horse Master|Horse Master (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Horse Master|Horse Master (PF1)]]"

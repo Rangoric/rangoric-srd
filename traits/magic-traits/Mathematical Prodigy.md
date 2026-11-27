@@ -2,7 +2,6 @@
 srd-type: "trait"
 section: "Traits"
 trait-type: "magic"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/traits/Mathematical Prodigy|Mathematical Prodigy (PF1)]]"
 status: draft

@@ -2,7 +2,6 @@
 srd-type: "trait"
 section: "Traits"
 trait-type: "faith"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/traits/Indomitable Faith|Indomitable Faith (PF1)]]"
 status: draft

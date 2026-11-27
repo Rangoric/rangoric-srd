@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Ghoul."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/ghouls/New Rules (Ghouls)#Bag of Bones|Bag of Bones (PF1)]]"
 status: draft

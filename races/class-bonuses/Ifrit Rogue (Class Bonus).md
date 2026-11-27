@@ -3,7 +3,6 @@ srd-type: "class-bonus"
 section: "Races"
 race: "Ifrit"
 class: ["Rogue"]
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Ifrits#Favored Class Options|Ifrits, Favored Class Options (ARG)]]"
 status: draft

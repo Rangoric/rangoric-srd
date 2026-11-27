@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Both Improved Unarmed Strike and Improved Grapple or the grab ability, ogre, size Large or larger."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/ogres/New Rules (Ogres)#Gluttonous Gobbler|Gluttonous Gobbler (PF1)]]"
 status: draft

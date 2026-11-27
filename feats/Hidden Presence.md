@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Int or Cha 17, ability to cast possession or greater possession."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/feats/Hidden Presence (Feat)|Hidden Presence (PF1 Foundry)]]"
 status: draft

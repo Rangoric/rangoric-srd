@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Judgment class feature."
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/feats/Judgment Surge|Judgment Surge (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Judgment Surge|Judgment Surge (PF1 Foundry)]]"

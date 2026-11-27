@@ -3,7 +3,6 @@ srd-type: "class-bonus"
 section: "Races"
 race: "Catfolk"
 class: ["Rogue"]
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Catfolk (Race)#Favored Class Options|Catfolk, Favored Class Options (ARG)]]"
 status: draft

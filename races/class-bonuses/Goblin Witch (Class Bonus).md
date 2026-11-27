@@ -3,7 +3,6 @@ srd-type: "class-bonus"
 section: "Races"
 race: "Goblin"
 class: ["Witch"]
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Goblins#Favored Class Options|Goblins, Favored Class Options (ARG)]]"
 status: draft

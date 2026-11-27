@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Animal focus class feature, wild empathy class feature."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/feats/Lay of the Land|Lay of the Land (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Lay of the Land|Lay of the Land (PF1)]]"

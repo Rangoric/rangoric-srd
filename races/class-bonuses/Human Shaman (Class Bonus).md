@@ -3,7 +3,6 @@ srd-type: "class-bonus"
 section: "Races"
 race: "Human"
 class: ["Shaman"]
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/rules/advanced-class-guide/hybrid-classes/Racial Favored Class Options#Humans|Racial Favored Class Options, Humans (ACG)]]"
 status: draft

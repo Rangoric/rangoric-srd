@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Base attack bonus +1, proficient with weapon."
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/feats/Disposable Weapon|Disposable Weapon (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Disposable Weapon|Disposable Weapon (PF1)]]"

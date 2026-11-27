@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Magus arcana class feature."
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/feats/Extra Arcana|Extra Arcana (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Extra Arcana|Extra Arcana (PF1 Foundry)]]"

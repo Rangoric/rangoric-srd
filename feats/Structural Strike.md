@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Engineering 5 ranks, precise strike class feature or precise strike deed."
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/feats/Structural Strike|Structural Strike (PF1)]]"
 status: draft

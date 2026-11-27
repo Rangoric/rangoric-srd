@@ -1,7 +1,6 @@
 ---
 srd-type: "feat"
 section: "Feats"
-book: "Alchemy & Herbalists"
 prerequisites: "Medicine 2 ranks, Profession (apothecary) 2 ranks."
 based-on:
   - "[[individual books/Alchemy & Herbalists v3.5/feats/Diagnosis|Diagnosis (Alchemy & Herbalists)]]"

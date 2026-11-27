@@ -2,7 +2,6 @@
 srd-type: "trait"
 section: "Traits"
 trait-type: "regional"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/traits/Desert Child|Desert Child (PF1)]]"
 status: draft

@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Grit class feature or Amateur Gunslinger feat, Deception 4 ranks."
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/feats/No Name|No Name (PF1)]]"
   - "[[path srd 3.5 foundry/feats/No Name|No Name (PF1 F)]]"

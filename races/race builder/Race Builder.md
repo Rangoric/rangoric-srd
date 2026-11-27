@@ -1,7 +1,6 @@
 ---
 srd-type: "rules"
 section: "Races"
-book: ["Advanced Race Guide", "Faeries"]
 based-on:
   - "[[path srd 3.5/rules/advanced-race-guide/race-builder/Creating a New Race|Creating a New Race (ARG)]]"
   - "[[path srd 3.5/rules/advanced-race-guide/race-builder/Step 1- Concept|Step 1: Concept (ARG)]]"

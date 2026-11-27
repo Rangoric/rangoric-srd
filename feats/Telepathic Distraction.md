@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Cha 15, serpentfolk."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/serpentfolk/New Rules (Serpentfolk)#Telepathic Distraction|Telepathic Distraction (PF1)]]"
 status: draft

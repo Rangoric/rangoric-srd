@@ -1,7 +1,6 @@
 ---
 srd-type: "rules"
 section: "Races"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/races/Faeries|Faeries (Faeries)]]"
   - "[[individual books/Faeries/tables/Table 1 Faerie Physical Characteristics|Table 1 (Faeries)]]"

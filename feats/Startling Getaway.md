@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Startling appearance class feature."
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/feats/Startling Getaway|Startling Getaway (PF1 Foundry)]]"
 status: draft

@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Lizardfolk, swim speed."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/lizardfolk/New Rules (Lizardfolk)#Swift Swimmer|Swift Swimmer (PF1)]]"
 status: draft

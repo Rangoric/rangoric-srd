@@ -1,7 +1,6 @@
 ---
 srd-type: "feat"
 section: "Feats"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/feats/Scarring Spell|Scarring Spell (PF1 Foundry)]]"
 status: draft

@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 feat-type: "General"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/feats/Skilled Driver|Skilled Driver (PF1 Ultimate Combat)]]"
 status: draft

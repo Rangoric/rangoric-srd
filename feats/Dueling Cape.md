@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Amateur Swashbuckler or panache class feature; Dodge, Sleight of Hand 1 rank."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/feats/Dueling Cape|Dueling Cape (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Dueling Cape Deed|Dueling Cape Deed (PF1)]]"

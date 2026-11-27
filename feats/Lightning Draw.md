@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Quick Draw, swashbuckler initiative deed, swashbuckler level 7th."
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/feats/Lightning Draw|Lightning Draw (PF1)]]"
 status: draft

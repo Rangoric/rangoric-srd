@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Occultist level 7th."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/feats/Efficient Focus Shift|Efficient Focus Shift (PF1 Foundry)]]"
 status: draft

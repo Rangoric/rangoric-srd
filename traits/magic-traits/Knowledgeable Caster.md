@@ -2,7 +2,6 @@
 srd-type: "trait"
 section: "Traits"
 trait-type: "magic"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/traits/Knowledgeable Caster|Knowledgeable Caster (PF1)]]"
 status: draft

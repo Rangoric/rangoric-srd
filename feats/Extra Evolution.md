@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Eidolon class feature."
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/feats/Extra Evolution|Extra Evolution (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Extra Evolution|Extra Evolution (PF1 Foundry)]]"

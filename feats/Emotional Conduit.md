@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Shared consciousness class feature."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/feats/Emotional Conduit|Emotional Conduit (PF1 Foundry)]]"
 status: draft

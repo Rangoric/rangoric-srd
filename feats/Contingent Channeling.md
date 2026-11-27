@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "True healer class feature, Selective Channeling."
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/feats/Contingent Channeling|Contingent Channeling (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Contingent Channeling|Contingent Channeling (PF1)]]"

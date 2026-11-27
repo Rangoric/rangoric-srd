@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Skill Focus (Persuasion or Intimidation), frightening appearance class feature."
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/feats/Agent of Fear|Agent of Fear (PF1 Foundry)]]"
 status: draft

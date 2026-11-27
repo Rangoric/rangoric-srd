@@ -2,7 +2,6 @@
 srd-type: "trait"
 section: "Traits"
 trait-type: "bloodline"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/traits/Blood of Dragons|Blood of Dragons (PF1)]]"
 status: draft

@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Str 25, Awesome Blow, Improved Bull Rush, Power Attack."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/frost-giants/New Rules (Frost Giants)#Awesome Charge|Awesome Charge (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Awesome Charge|Awesome Charge (PF1 Foundry)]]"

@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Spiritual interference class feature."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/feats/Focused Phantom|Focused Phantom (PF1 Foundry)]]"
 status: draft

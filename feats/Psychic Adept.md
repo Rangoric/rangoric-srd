@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Int 11, Psychic Sensitivity."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/feats/Psychic Adept|Psychic Adept (PF1 Foundry)]]"
 status: draft

@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Trap class feature, ranger level 5th."
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/feats/Advanced Ranger Trap|Advanced Ranger Trap (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Advanced Ranger Trap|Advanced Ranger Trap (PF1 Foundry)]]"

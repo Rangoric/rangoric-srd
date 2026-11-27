@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Warren Digger, ghoul."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/ghouls/New Rules (Ghouls)#Sleeper|Sleeper (PF1)]]"
 status: draft

@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Fieldcraft 2 ranks."
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/feats/Learn Ranger Trap|Learn Ranger Trap (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Learn Ranger Trap|Learn Ranger Trap (PF1 Foundry)]]"

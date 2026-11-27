@@ -3,7 +3,6 @@ srd-type: "class-bonus"
 section: "Races"
 race: "Elf"
 class: ["Witch"]
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Elves (Advanced Race Guide)#Favored Class Options|Elves, Favored Class Options (ARG)]]"
 status: draft

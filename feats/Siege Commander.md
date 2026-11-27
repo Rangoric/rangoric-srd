@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Craft (siege engine) 5 ranks, Engineering 5 ranks or Profession (siege engineer) 1 rank."
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/feats/Siege Commander|Siege Commander (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Siege Commander|Siege Commander (PF1)]]"

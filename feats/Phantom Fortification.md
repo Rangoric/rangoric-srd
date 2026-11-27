@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Phantom class feature, phantom with the incorporeal flight ability."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/feats/Phantom Fortification|Phantom Fortification (PF1 Foundry)]]"
 status: draft

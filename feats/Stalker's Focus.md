@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Nature 3 ranks, Fieldcraft 3 ranks, no levels in a class that has the animal focus class feature."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/feats/Stalker's Focus|Stalker's Focus (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Stalker's Focus|Stalker's Focus (PF1)]]"

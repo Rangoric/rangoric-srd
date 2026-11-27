@@ -3,7 +3,6 @@ srd-type: "class-bonus"
 section: "Races"
 race: "Strix"
 class: ["Ranger"]
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Strix#Favored Class Options|Strix, Favored Class Options (ARG)]]"
 status: draft

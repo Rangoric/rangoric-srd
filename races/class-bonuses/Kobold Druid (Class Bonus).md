@@ -3,7 +3,6 @@ srd-type: "class-bonus"
 section: "Races"
 race: "Kobold"
 class: ["Druid"]
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Kobolds#Favored Class Options|Kobolds, Favored Class Options (ARG)]]"
 status: draft

@@ -1,7 +1,6 @@
 ---
 srd-type: "feat"
 section: "Feats"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/feats/Additional Traits|Additional Traits (PF1)]]"
 status: draft

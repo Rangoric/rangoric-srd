@@ -19,7 +19,6 @@ What the notes in `races` look like. The whole-SRD rules are in the [README](../
 | `section`  | yes      | `Races`        |
 | `race`     | yes      | `text`         |
 | `class`    | yes      | list of `text` |
-| `book`     | yes      | `text`         |
 
 Headings, in order:
 
@@ -45,7 +44,6 @@ Headings, in order:
 | ------------- | -------- | -------- |
 | `srd-type`    | yes      | `race`   |
 | `section`     | yes      | `Races`  |
-| `book`        | no       |          |
 | `race-points` | no       | `number` |
 
 ## aspect-of-nature
@@ -76,7 +74,6 @@ Headings, in order:
 | ---------- | -------- | ------- |
 | `srd-type` | yes      | `rules` |
 | `section`  | yes      | `Races` |
-| `book`     | no       |         |
 
 Headings, in order:
 

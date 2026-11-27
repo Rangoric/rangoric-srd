@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Fey Magic, caster level 4th."
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/feats/Craft Fey Dusts|Craft Fey Dusts (Faeries)]]"
 status: draft

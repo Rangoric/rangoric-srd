@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Chakra Initiate, ability to awaken the heart chakra."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/feats/Chakra Adept|Chakra Adept (PF1 Foundry)]]"
 status: draft

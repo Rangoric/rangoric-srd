@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Mental focus class feature."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/feats/Extra Mental Focus|Extra Mental Focus (PF1 Foundry)]]"
 status: draft

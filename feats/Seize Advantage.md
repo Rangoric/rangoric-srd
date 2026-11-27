@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Opportune parry and riposte deed."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/feats/Seize Advantage|Seize Advantage (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Seize Advantage|Seize Advantage (PF1)]]"

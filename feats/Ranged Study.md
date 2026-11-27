@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Weapon Focus with the chosen weapon, studied combat class feature."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/feats/Ranged Study|Ranged Study (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Ranged Study|Ranged Study (PF1 Foundry)]]"

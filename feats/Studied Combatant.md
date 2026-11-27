@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Int 13, Amateur Investigator, base attack bonus +6, 1 rank in at least one Knowledge skill, no levels in a class that has the inspiration class feature."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/feats/Studied Combatant|Studied Combatant (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Studied Combatant|Studied Combatant (PF1 Foundry)]]"

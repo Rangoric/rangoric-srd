@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "You have no levels in a class that has the grit class feature."
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/feats/Amateur Gunslinger|Amateur Gunslinger (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Amateur Gunslinger|Amateur Gunslinger (PF1 F)]]"

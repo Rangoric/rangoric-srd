@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Sharptooth, ratfolk."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/ratfolk/New Rules (Ratfolk)#Gnawer|Gnawer (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Gnawer|Gnawer (PF1 Foundry)]]"

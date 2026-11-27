@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Bane class feature, Dazzling Display, Weapon Focus, character level 8th."
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/feats/Intimidating Bane|Intimidating Bane (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Intimidating Bane|Intimidating Bane (PF1 Foundry)]]"

@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Mesmerist level 5th, painful stare class feature."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/feats/Bleeding Stare|Bleeding Stare (PF1 Foundry)]]"
 status: draft

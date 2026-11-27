@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Channel energy 6d6 (positive energy)."
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/feats/Channeled Revival|Channeled Revival (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Channeled Revival|Channeled Revival (PF1)]]"

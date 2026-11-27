@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 13, Point-Blank Shot, Rapid Shot, Snap Shot, Two-Weapon Fighting, base attack bonus +6."
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/feats/Sword and Pistol|Sword and Pistol (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Sword and Pistol|Sword and Pistol (PF1 F)]]"

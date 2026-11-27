@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Arcane reservoir class feature."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/feats/Extra Reservoir|Extra Reservoir (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Extra Reservoir|Extra Reservoir (PF1)]]"

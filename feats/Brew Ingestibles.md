@@ -1,7 +1,6 @@
 ---
 srd-type: "feat"
 section: "Feats"
-book: "Alchemy & Herbalists"
 prerequisites: "Craft (alchemy) 6 ranks or Profession (herbalist) 4 ranks."
 based-on:
   - "[[individual books/Alchemy & Herbalists v3.5/feats/Brew Ingestibles|Brew Ingestibles (Alchemy & Herbalists)]]"
