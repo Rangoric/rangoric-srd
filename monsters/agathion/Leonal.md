@@ -29,11 +29,7 @@ alignment: "Always neutral good"
 advancement: "13–18 HD (Medium); 19–36 HD (Large)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/agathion/Agathion|Agathion]]"
-based-on:
-  - "[[path srd 3.5/monsters/Agathion, Leonal|Agathion, Leonal (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Leonal|Leonal (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---

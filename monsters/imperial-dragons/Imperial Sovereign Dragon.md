@@ -9,13 +9,7 @@ challenge-rating: [7, 9, 11, 12, 14, 15, 16, 18, 19, 20, 21, 23]
 treasure: "Triple"
 alignment: "Usually neutral"
 advancement: "Wyrmling 9 HD; very young 11 HD; young 13 HD; juvenile 15 HD; young adult 17 HD; adult 19 HD; mature adult 21 HD; old 23 HD; very old 25 HD; ancient 27 HD; wyrm 29 HD; great wyrm 31+ HD"
-based-on:
-  - "[[path srd 3.5/monsters/Dragon, Imperial, Sovereign|Imperial Sovereign Dragon (PF1)]]"
-  - "[[path srd 3.5/monsters/Dragon, Imperial, Sovereign, Young|Young Imperial Sovereign Dragon (PF1)]]"
-  - "[[path srd 3.5/monsters/Dragon, Imperial, Sovereign, Adult|Adult Imperial Sovereign Dragon (PF1)]]"
-  - "[[path srd 3.5/monsters/Dragon, Imperial, Sovereign, Ancient|Ancient Imperial Sovereign Dragon (PF1)]]"
 status: draft
-change: modified
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/monster]
 ---

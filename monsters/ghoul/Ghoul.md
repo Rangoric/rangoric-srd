@@ -27,12 +27,7 @@ treasure: "Standard"
 alignment: "Always chaotic evil"
 advancement: "3 HD (Medium)"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Ghoul|Ghoul (PF1)]]"
-  - "[[path srd 3.5/rules/monster-codex/ghouls/Ghouls (Ghouls)|Ghouls, society (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/ghoul/Ghoul|Ghoul (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---

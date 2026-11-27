@@ -28,10 +28,7 @@ treasure: "Incidental"
 alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Vampiric Mist|Vampiric Mist (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/monster]
 ---

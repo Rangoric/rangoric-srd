@@ -28,12 +28,7 @@ treasure: "NPC gear (leather armor, light wooden shield, short sword, short bow 
 alignment: "Usually neutral evil"
 advancement: "By character class"
 level-adjustment: "+0"
-based-on:
-  - "[[path srd 3.5/monsters/Goblin|Goblin (PF1)]]"
-  - "[[path srd 3.5/rules/monster-codex/goblins/Goblins (Goblins)|Goblins, society (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Goblin|Goblin (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

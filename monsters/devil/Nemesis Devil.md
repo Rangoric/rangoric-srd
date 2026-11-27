@@ -29,10 +29,7 @@ alignment: "Usually lawful evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/devil/Devil|Devil]]"
-based-on:
-  - "[[path srd 3.5/monsters/Devil, Nemesis|Devil, Nemesis (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/monster]
 ---

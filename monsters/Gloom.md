@@ -27,10 +27,7 @@ challenge-rating: 25
 treasure: "Nonstandard (just its dagger)"
 alignment: "Usually lawful evil"
 advancement: "25+ HD (Medium-size)"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Gloom|Gloom (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

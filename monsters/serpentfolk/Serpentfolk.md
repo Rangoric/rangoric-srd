@@ -27,11 +27,7 @@ treasure: "NPC gear (masterwork dagger, other treasure)"
 alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Serpentfolk|Serpentfolk (PF1)]]"
-  - "[[path srd 3.5/rules/monster-codex/serpentfolk/Serpentfolk (Serpentfolk)|Serpentfolk, society (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/monster]
 ---

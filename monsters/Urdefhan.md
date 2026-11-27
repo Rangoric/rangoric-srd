@@ -28,10 +28,7 @@ treasure: "NPC gear (studded leather, rhoka sword, composite longbow (+4 Str) wi
 alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Urdefhan|Urdefhan (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

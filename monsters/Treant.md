@@ -27,11 +27,7 @@ treasure: "Standard"
 alignment: "Usually neutral good"
 advancement: "8–16 HD (Huge); 17–21 HD (Gargantuan)"
 level-adjustment: "+5"
-based-on:
-  - "[[path srd 3.5/monsters/Treant|Treant (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Treant|Treant (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

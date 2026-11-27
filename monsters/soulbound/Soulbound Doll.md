@@ -28,10 +28,7 @@ alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/soulbound/Soulbound|Soulbound]]"
-based-on:
-  - "[[path srd 3.5/monsters/Soulbound Doll (Monster)|Soulbound Doll (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/monster]
 ---

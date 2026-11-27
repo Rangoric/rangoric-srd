@@ -27,10 +27,7 @@ challenge-rating: 23
 treasure: "Standard"
 alignment: "Usually lawful neutral"
 advancement: "39-48 HD (Large); 49-58 HD (Huge); 59-66 HD (Gargantuan); 67-135 HD (Colossal)"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Brachyurus|Brachyurus (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

@@ -28,10 +28,7 @@ treasure: "NPC gear (sais [2], other treasure)"
 alignment: "Usually lawful neutral"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Kasatha|Kasatha (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/monster]
 ---

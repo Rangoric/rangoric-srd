@@ -1,14 +1,7 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-based-on:
-  - "[[path srd 3.5/monsters/Dragon, Primal, Brine|Dragon, Primal, Brine (PF1)]]"
-  - "[[path srd 3.5/monsters/Dragon, Primal, Cloud|Dragon, Primal, Cloud (PF1)]]"
-  - "[[path srd 3.5/monsters/Dragon, Primal, Crystal|Dragon, Primal, Crystal (PF1)]]"
-  - "[[path srd 3.5/monsters/Dragon, Primal, Magma|Dragon, Primal, Magma (PF1)]]"
-  - "[[path srd 3.5/monsters/Umbral Dragon|Umbral Dragon (PF1 Bestiary 2)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/monster]
 ---

@@ -1,11 +1,7 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-based-on:
-  - "[[fantasy srd 3.5/monsters/animated-object/Animated Object|Animated Object (3.5)]]"
-  - "[[path srd 3.5/items/building-and-modifying-constructs/Animated Object (Item)|Animated Object (PF1)]]"
 status: draft
-change: modified
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/monster]
 ---

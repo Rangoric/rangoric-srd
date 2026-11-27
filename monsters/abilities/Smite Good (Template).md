@@ -3,11 +3,7 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Su"]
 kind: ["attack"]
-based-on:
-  - "[[path srd 3.5 foundry/template-abilities/Smite Good (Template Ability)|Smite Good (Template Ability) (PF1 Foundry)]]"
-  - "[[path srd 3.5/monsters/Half-Fiend|Half-Fiend (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster-ability]
 ---

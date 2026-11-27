@@ -29,10 +29,7 @@ alignment: "Usually lawful evil"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/sahuagin/Sahuagin|Sahuagin]]"
-based-on:
-  - "[[path srd 3.5/monsters/Sahuagin Scout|Sahuagin Scout (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

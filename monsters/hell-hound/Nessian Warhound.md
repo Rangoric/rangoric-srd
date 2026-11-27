@@ -29,11 +29,7 @@ alignment: "Always lawful evil"
 advancement: "13-17 HD (Large); 18-24 HD (Huge)"
 level-adjustment: "+4 (cohort)"
 group: "[[rangoric-srd/monsters/hell-hound/Hell Hound|Hell Hound]]"
-based-on:
-  - "[[path srd 3.5/monsters/Hell Hound, Nessian|Hell Hound, Nessian (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/hell-hound/Nessian Warhound|Nessian Warhound (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/monster]
 ---

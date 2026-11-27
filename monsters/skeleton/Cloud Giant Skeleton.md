@@ -28,10 +28,7 @@ treasure: "None"
 alignment: "Always neutral evil"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[fantasy srd 3.5/monsters/skeleton/Cloud Giant Skeleton|Cloud Giant Skeleton (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

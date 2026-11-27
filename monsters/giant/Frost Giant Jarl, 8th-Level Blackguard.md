@@ -30,10 +30,7 @@ treasure: "Standard"
 alignment: "Always chaotic evil"
 advancement: "By character class"
 level-adjustment: "-"
-based-on:
-  - "[[fantasy srd 3.5/monsters/giant/Frost Giant Jarl, 8th-Level Blackguard|Frost Giant Jarl, 8th-Level Blackguard (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

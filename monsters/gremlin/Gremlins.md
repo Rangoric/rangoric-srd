@@ -1,18 +1,7 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-based-on:
-  - "[[path srd 3.5/monsters/Gremlin, Fuath|Gremlin, Fuath (PF1)]]"
-  - "[[path srd 3.5/monsters/Gremlin, Grimple|Gremlin, Grimple (PF1)]]"
-  - "[[path srd 3.5/monsters/Gremlin, Haniver|Gremlin, Haniver (PF1)]]"
-  - "[[path srd 3.5/monsters/Gremlin, Jinkin|Gremlin, Jinkin (PF1)]]"
-  - "[[path srd 3.5/monsters/Mite|Mite (PF1)]]"
-  - "[[path srd 3.5/monsters/Gremlin, Monaciello|Gremlin, Monaciello (PF1)]]"
-  - "[[path srd 3.5/monsters/Gremlin, Nuglub|Gremlin, Nuglub (PF1)]]"
-  - "[[path srd 3.5/monsters/Gremlin, Pugwampi|Gremlin, Pugwampi (PF1)]]"
-  - "[[path srd 3.5/monsters/Gremlin, Vexgit|Gremlin, Vexgit (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/monster]
 ---

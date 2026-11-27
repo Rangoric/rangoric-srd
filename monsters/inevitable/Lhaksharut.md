@@ -28,10 +28,7 @@ treasure: "Double (+2 longsword, +2 spear, +2 morningstar, other treasure)"
 alignment: "Usually lawful neutral"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Inevitable, Lhaksharut|Inevitable, Lhaksharut (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/monster]
 ---

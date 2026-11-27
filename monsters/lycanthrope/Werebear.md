@@ -31,10 +31,7 @@ creature-type: "Humanoid"
 subtypes:
   - "Human"
   - "Shapechanger"
-based-on:
-  - "[[fantasy srd 3.5/monsters/lycanthrope/Werebear|Werebear (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

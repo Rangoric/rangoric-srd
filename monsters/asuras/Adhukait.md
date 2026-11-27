@@ -28,10 +28,7 @@ treasure: "Standard (2 masterwork kukris, other treasure)"
 alignment: "Usually lawful evil"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Asura, Adhukait|Asura, Adhukait (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/monster]
 ---

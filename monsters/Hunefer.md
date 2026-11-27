@@ -27,10 +27,7 @@ challenge-rating: 25
 treasure: "Standard"
 alignment: "Always lawful evil"
 advancement: "51-56 HD (Medium-size); 57-60 HD (Large); 61-66 HD (Huge); 67-70 HD (Gargantuan); 71+ HD (Colossal)"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Hunefer|Hunefer (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

@@ -29,10 +29,7 @@ alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/demodands/Demodand|Demodand]]"
-based-on:
-  - "[[path srd 3.5/monsters/Demodand, Tarry|Demodand, Tarry (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/monster]
 ---

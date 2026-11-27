@@ -29,11 +29,7 @@ alignment: "Always neutral"
 advancement: "None"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/centipede/Centipede|Centipede]]"
-based-on:
-  - "[[path srd 3.5/monsters/Swarm, Centipede|Swarm, Centipede (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/swarm/Centipede Swarm|Centipede Swarm (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/monster]
 ---

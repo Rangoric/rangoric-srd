@@ -6,11 +6,7 @@ size: "Huge"
 creature-type: "Magical Beast"
 subtypes:
   - "Cold"
-based-on:
-  - "[[path srd 3.5/monsters/Hydra|Hydra (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/hydra/Cryohydra|Cryohydra (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

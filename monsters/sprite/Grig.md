@@ -28,11 +28,7 @@ alignment: "Always neutral good"
 advancement: "1–3 HD (Tiny)"
 level-adjustment: "+3"
 group: "[[rangoric-srd/monsters/sprite/Sprite|Sprite]]"
-based-on:
-  - "[[path srd 3.5/monsters/Grig|Grig (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/sprite/Grig|Grig (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---

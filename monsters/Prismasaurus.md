@@ -27,10 +27,7 @@ challenge-rating: 28
 treasure: "None"
 alignment: "Always neutral"
 advancement: "61-90 HD (Huge); 91-150 HD (Gargantuan)"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Prismasaurus|Prismasaurus (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

@@ -28,11 +28,7 @@ treasure: "Standard (leather armor, 2 flails, 4 javelins, other treasure)"
 alignment: "Usually chaotic evil"
 advancement: "By character class"
 level-adjustment: "+5"
-based-on:
-  - "[[path srd 3.5/monsters/Ettin|Ettin (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Ettin|Ettin (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

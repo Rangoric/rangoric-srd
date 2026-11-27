@@ -28,10 +28,7 @@ treasure: "Double (+3 morningstar, other treasure)"
 alignment: "Usually neutral good"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Angel, Monadic Deva|Angel, Monadic Deva (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/monster]
 ---

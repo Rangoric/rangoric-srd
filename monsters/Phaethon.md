@@ -31,10 +31,7 @@ challenge-rating: 34
 treasure: "Standard"
 alignment: "Always chaotic evil"
 advancement: "63-80 HD (Gargantuan); 81-186 HD (Colossal)"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Phaethon|Phaethon (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

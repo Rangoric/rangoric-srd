@@ -30,10 +30,7 @@ treasure: "Standard"
 alignment: "Usually neutral"
 advancement: "By character class"
 level-adjustment: "+0"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Maenad|Maenad (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---

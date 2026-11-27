@@ -29,10 +29,7 @@ alignment: "Usually lawful evil"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/hobgoblin/Hobgoblin|Hobgoblin]]"
-based-on:
-  - "[[path srd 3.5/monsters/Hobgoblin Battlefield Zealot|Hobgoblin Battlefield Zealot (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---

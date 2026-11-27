@@ -1,12 +1,7 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-based-on:
-  - "[[path srd 3.5/monsters/Titan, Elysian|Titan, Elysian (PF1)]]"
-  - "[[path srd 3.5/monsters/Titan, Hekatonkheires|Titan, Hekatonkheires (PF1)]]"
-  - "[[path srd 3.5/monsters/Titan, Thanatotic|Titan, Thanatotic (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

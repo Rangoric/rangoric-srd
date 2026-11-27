@@ -29,10 +29,7 @@ alignment: "Chaotic neutral"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/halfling/Halfling|Halfling]]"
-based-on:
-  - "[[path srd 3.5/monsters/Carousing Champion|Carousing Champion (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

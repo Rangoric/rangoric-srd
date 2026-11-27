@@ -2,14 +2,7 @@
 srd-type: "monster"
 section: "Monsters"
 group: "[[rangoric-srd/monsters/simple-templates/Simple Templates|Simple Templates]]"
-based-on:
-  - "[[path srd 3.5/rules/monster-codex/appendix/Modifying Monsters#Ranger Creature|Modifying Monsters (PF1)]]"
-  - "[[path srd 3.5 foundry/monster-templates/Ranger (Quick, Str)|Ranger (Quick, Str) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/monster-templates/Ranger (Quick, Dex)|Ranger (Quick, Dex) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/monster-templates/Ranger (Rebuild, Str)|Ranger (Rebuild, Str) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/monster-templates/Ranger (Rebuild, Dex)|Ranger (Rebuild, Dex) (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

@@ -27,10 +27,7 @@ challenge-rating: 2
 treasure: "1/10 coins; 50% goods; 50% items"
 advancement: "5–6 HD (Large); 7–8 HD (Huge)"
 level-adjustment: "—"
-based-on:
-  - "[[fantasy srd 3.5/monsters/giant-ant/Giant Ant, Queen|Giant Ant, Queen (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

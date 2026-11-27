@@ -30,10 +30,7 @@ challenge-rating: 18
 treasure: "None"
 alignment: "Always neutral"
 advancement: "21-42 HD (Colossal)"
-based-on:
-  - "[[fantasy srd 3.5/monsters/behemoth/Behemoth Eagle|Behemoth Eagle (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

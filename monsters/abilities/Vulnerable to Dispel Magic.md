@@ -3,10 +3,7 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Ex"]
 kind: ["defense"]
-based-on:
-  - "[[path srd 3.5/monsters/Disenchanter (Monster)|Disenchanter (Monster) (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/monster-ability]
 ---

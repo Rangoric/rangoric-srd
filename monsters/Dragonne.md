@@ -27,11 +27,7 @@ treasure: "Standard"
 alignment: "Usually neutral"
 advancement: "10–12 HD (Large); 13–27 HD (Huge)"
 level-adjustment: "+4 (cohort)"
-based-on:
-  - "[[path srd 3.5/monsters/Dragonne|Dragonne (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Dragonne|Dragonne (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

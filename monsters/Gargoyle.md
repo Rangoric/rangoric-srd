@@ -28,11 +28,7 @@ treasure: "Standard"
 alignment: "Usually chaotic evil"
 advancement: "5–6 HD (Medium); 7–12 HD (Large)"
 level-adjustment: "+5"
-based-on:
-  - "[[path srd 3.5/monsters/Gargoyle|Gargoyle (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Gargoyle|Gargoyle (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

@@ -30,10 +30,7 @@ challenge-rating: 19
 treasure: "None"
 alignment: "Always neutral"
 advancement: "22-42 HD (Huge)"
-based-on:
-  - "[[fantasy srd 3.5/monsters/behemoth/Behemoth Gorilla|Behemoth Gorilla (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

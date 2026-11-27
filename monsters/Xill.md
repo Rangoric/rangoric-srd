@@ -28,11 +28,7 @@ treasure: "Standard (heavy steel shield, 2 short swords, 2 longbows with 40 arro
 alignment: "Always lawful evil"
 advancement: "6–8 HD (Medium); 9–15 HD (Large)"
 level-adjustment: "+4"
-based-on:
-  - "[[path srd 3.5/monsters/Xill|Xill (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Xill|Xill (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---

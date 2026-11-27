@@ -28,11 +28,7 @@ alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/snake/Viper Snake|Viper Snake]]"
-based-on:
-  - "[[path srd 3.5/monsters/Familiar, Viper|Familiar, Viper (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/snake/Snake, Tiny Viper|Snake, Tiny Viper (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/monster]
 ---

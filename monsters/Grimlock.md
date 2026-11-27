@@ -27,10 +27,7 @@ treasure: "Standard coins; standard goods (gems only); standard items"
 alignment: "Often neutral evil"
 advancement: "By character class"
 level-adjustment: "+2"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Grimlock|Grimlock (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

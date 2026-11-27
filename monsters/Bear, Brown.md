@@ -25,10 +25,7 @@ organization: "Solitary or pair"
 challenge-rating: 4
 advancement: "7–10 HD (Large)"
 level-adjustment: "—"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Bear, Brown|Bear, Brown (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

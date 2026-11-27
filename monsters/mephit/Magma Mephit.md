@@ -31,10 +31,7 @@ treasure: "Standard"
 alignment: "Usually neutral"
 advancement: "4–6 HD (Small); 7–9 HD (Medium)"
 level-adjustment: "+3 (cohort)"
-based-on:
-  - "[[fantasy srd 3.5/monsters/mephit/Magma Mephit|Magma Mephit (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

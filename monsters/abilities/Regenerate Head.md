@@ -3,11 +3,7 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Ex"]
 kind: ["defense"]
-based-on:
-  - "[[path srd 3.5/monsters/Hydra|Hydra (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/hydra/Hydra|Hydra (3.5)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster-ability]
 ---

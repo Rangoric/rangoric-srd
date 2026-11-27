@@ -2,10 +2,7 @@
 srd-type: "monster"
 section: "Monsters"
 armor-class: "A dragon’s natural armor bonus increases by +1 for every Hit Die it gains beyond the great wyrm stage. (This rule applies for lesser dragon advancement as well, since natural armor and Hit Dice always increase at the same rate.)"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Dragon, Advanced|Dragon, Advanced (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

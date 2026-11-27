@@ -28,10 +28,7 @@ treasure: "Standard (chain shirt, mwk longsword, longbow with 20 arrows, other t
 alignment: "Usually chaotic good"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Swan Maiden|Swan Maiden (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/monster]
 ---

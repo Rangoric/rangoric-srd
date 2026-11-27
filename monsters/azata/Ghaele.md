@@ -29,11 +29,7 @@ alignment: "Always chaotic good"
 advancement: "11–15 HD (Medium); 16–30 HD (Large)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/azata/Azata|Azata]]"
-based-on:
-  - "[[path srd 3.5/monsters/Azata, Ghaele|Azata, Ghaele (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Ghaele|Ghaele (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---

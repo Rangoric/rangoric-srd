@@ -1,11 +1,7 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-based-on:
-  - "[[path srd 3.5/monsters/Shadow Creature#Creating a Shadow Creature|Shadow Creature (PF1)]]"
-  - "[[path srd 3.5 foundry/monster-templates/Shadow (Template)|Shadow (Template) (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---

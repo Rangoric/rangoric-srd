@@ -28,13 +28,7 @@ treasure: "NPC gear (+1 breastplate, heavy steel shield, +2 longsword, mwk light
 alignment: "Usually lawful evil"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Bodythief|Bodythief (PF1)]]"
-  - "[[path srd 3.5 foundry/monster-templates/Pod-Spawned|Pod-Spawned (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Mimic (Template Ability)|Mimic (Template Ability) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/monsters/bestiary-4/Pod-Spawned Guard Captain (fighter 9)|Pod-Spawned Guard Captain (fighter 9) (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

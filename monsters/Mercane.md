@@ -28,11 +28,7 @@ treasure: "Double (masterwork Large falchion, other treasure)"
 alignment: "Always lawful neutral"
 advancement: "By character class"
 level-adjustment: "+7"
-based-on:
-  - "[[path srd 3.5/monsters/Mercane|Mercane (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Mercane|Mercane (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---

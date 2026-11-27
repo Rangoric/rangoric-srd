@@ -27,13 +27,7 @@ treasure: "None"
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Ectoplasmic Creature|Ectoplasmic Creature (PF1)]]"
-  - "[[path srd 3.5 foundry/monster-templates/Ectoplasmic|Ectoplasmic (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Horrifying Ooze|Horrifying Ooze (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Phase Lurch|Phase Lurch (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/monster]
 ---

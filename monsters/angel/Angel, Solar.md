@@ -29,11 +29,7 @@ alignment: "Usually neutral good"
 advancement: "23–33 HD (Large); 34–66 HD (Huge)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/angel/Angel|Angel]]"
-based-on:
-  - "[[path srd 3.5/monsters/Angel, Solar|Angel, Solar (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/angel/Angel, Solar|Angel, Solar (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---

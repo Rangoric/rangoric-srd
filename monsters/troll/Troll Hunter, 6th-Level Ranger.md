@@ -28,10 +28,7 @@ treasure: "Standard"
 alignment: "Usually chaotic evil"
 advancement: "-"
 level-adjustment: "+5"
-based-on:
-  - "[[fantasy srd 3.5/monsters/troll/Troll Hunter, 6th-Level Ranger|Troll Hunter, 6th-Level Ranger (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

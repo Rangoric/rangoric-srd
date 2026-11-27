@@ -29,11 +29,7 @@ alignment: "Usually neutral good"
 advancement: "13–18 HD (Medium); 19–36 HD (Large)"
 level-adjustment: "+8"
 group: "[[rangoric-srd/monsters/angel/Angel|Angel]]"
-based-on:
-  - "[[path srd 3.5/monsters/Angel, Astral Deva|Angel, Astral Deva (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/angel/Angel, Astral Deva|Angel, Astral Deva (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---

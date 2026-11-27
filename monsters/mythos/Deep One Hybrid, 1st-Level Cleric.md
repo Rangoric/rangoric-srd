@@ -29,10 +29,7 @@ alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
 aliases: ["Deep One Hybrid (cleric 1)"]
-based-on:
-  - "[[path srd 3.5 foundry/monsters/bestiary-5/Deep One Hybrid (cleric 1)|Deep One Hybrid (cleric 1) (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

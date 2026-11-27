@@ -31,10 +31,7 @@ treasure: "None"
 alignment: "Usually neutral"
 advancement: "16–21 HD (Large); 22–45 HD (Huge)"
 level-adjustment: "—"
-based-on:
-  - "[[fantasy srd 3.5/monsters/xorn/Elder Xorn|Elder Xorn (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

@@ -7,10 +7,7 @@ subtypes:
   - "Native"
   - "Psionic"
 special-attacks: "Constrict 2d8+6, improved grab, poison, psi-like abilities, spells"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Couatl, Psionic|Couatl, Psionic (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

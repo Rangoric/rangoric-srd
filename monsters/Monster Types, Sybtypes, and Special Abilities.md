@@ -1,16 +1,7 @@
 ---
 srd-type: "overview"
 section: "Monsters"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Monster Types, Sybtypes, and Special Abilities|Monster Types, Sybtypes, and Special Abilities (3.5)]]"
-  - "[[path srd 3.5/rules/bestiary/Universal Monster Rules|Universal Monster Rules (PF1)]]"
-  - "[[path srd 3.5/rules/advanced-race-guide/Featured Races|Featured Races (ARG)]]"
-  - "[[path srd 3.5/rules/advanced-race-guide/Uncommon Races|Uncommon Races (ARG)]]"
-  - "[[path srd 3.5/rules/bestiary/creature-types/Creature Types (Creature Types)|Creature Types (PF1)]]"
-  - "[[path srd 3.5/rules/bestiary/creature-types/Creature SubTypes|Creature Subtypes (PF1)]]"
-  - "[[path srd 3.5/rules/bestiary/universal-monster-rules/Natural Attacks|Natural Attacks (PF1)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---

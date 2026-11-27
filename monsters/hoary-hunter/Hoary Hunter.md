@@ -29,10 +29,7 @@ challenge-rating: 25
 treasure: "None"
 alignment: "Always neutral evil"
 advancement: "47+ HD (Medium)"
-based-on:
-  - "[[fantasy srd 3.5/monsters/hoary-hunter/Hoary Hunter|Hoary Hunter (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

@@ -26,10 +26,7 @@ challenge-rating: 1
 treasure: "None"
 alignment: "Any (same as creator)"
 advancement: "2–4 HD (Tiny) or as familiar"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/monsters/Alchemunculus|Alchemunculus (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/monster]
 ---

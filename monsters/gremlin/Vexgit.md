@@ -28,10 +28,7 @@ alignment: "Usually lawful evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/gremlin/Gremlins|Gremlins]]"
-based-on:
-  - "[[path srd 3.5/monsters/Gremlin, Vexgit|Gremlin, Vexgit (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/monster]
 ---

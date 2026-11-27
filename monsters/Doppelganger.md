@@ -28,11 +28,7 @@ treasure: "NPC Gear"
 alignment: "Usually neutral"
 advancement: "By character class"
 level-adjustment: "+4"
-based-on:
-  - "[[path srd 3.5/monsters/Doppelganger|Doppelganger (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Doppelganger|Doppelganger (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

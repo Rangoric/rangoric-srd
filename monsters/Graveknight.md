@@ -28,18 +28,7 @@ treasure: "NPC gear (+1 full plate, +1 greatsword, composite longbow [+8 Str] wi
 alignment: "Usually lawful evil"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Graveknight|Graveknight (PF1)]]"
-  - "[[path srd 3.5 foundry/monster-templates/Graveknight|Graveknight (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Sacrilegious Aura|Sacrilegious Aura (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Rejuvenation (Bestiary 3)|Rejuvenation (Bestiary 3) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Channel Destruction|Channel Destruction (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Devastating Blast|Devastating Blast (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Undead Mastery|Undead Mastery (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Phatom Mount|Phatom Mount (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Ruinous Revivification|Ruinous Revivification (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/monster]
 ---

@@ -30,10 +30,7 @@ treasure: "None"
 alignment: "Always neutral evil"
 advancement: "20 HD (Huge)"
 level-adjustment: "—"
-based-on:
-  - "[[fantasy srd 3.5/monsters/skeleton/Young Adult Red Dragon Skeleton|Young Adult Red Dragon Skeleton (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

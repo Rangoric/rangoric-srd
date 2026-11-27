@@ -29,10 +29,7 @@ treasure: "None"
 alignment: "Always neutral"
 advancement: "4 HD (Medium); 5–9 HD (Large)"
 level-adjustment: "—"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Ravid|Ravid (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

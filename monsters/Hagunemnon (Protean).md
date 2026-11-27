@@ -29,10 +29,7 @@ challenge-rating: 29
 treasure: "Standard"
 alignment: "Always chaotic neutral"
 advancement: "45-59 HD (Large); 60-74 HD (Huge); 75-89 HD (Huge)"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Hagunemnon (Protean)|Hagunemnon (Protean) (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

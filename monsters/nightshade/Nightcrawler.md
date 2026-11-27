@@ -29,11 +29,7 @@ alignment: "Always chaotic evil"
 advancement: "26–50 HD (Colossal)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/nightshade/Nightshade|Nightshade]]"
-based-on:
-  - "[[path srd 3.5/monsters/Nightshade, Nightcrawler|Nightshade, Nightcrawler (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/nightshade/Nightcrawler|Nightcrawler (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---

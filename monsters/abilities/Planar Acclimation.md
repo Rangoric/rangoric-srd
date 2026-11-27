@@ -3,13 +3,7 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Ex"]
 kind: ["quality"]
-based-on:
-  - "[[path srd 3.5/monsters/Bandersnatch|Bandersnatch (PF1)]]"
-  - "[[path srd 3.5/monsters/Jubjub Bird|Jubjub Bird (PF1)]]"
-  - "[[path srd 3.5/monsters/Thrasfyr|Thrasfyr (PF1)]]"
-  - "[[path srd 3.5/monsters/Sard|Sard (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/monster-ability]
 ---

@@ -27,10 +27,7 @@ treasure: "Standard (masterwork falchion, 4 javelins, other treasure)"
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Derhii|Derhii (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/monster]
 ---

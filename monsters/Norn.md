@@ -27,10 +27,7 @@ treasure: "Double (+3 hide armor, shears, golden thread worth 500 gp, other trea
 alignment: "Usually lawful neutral"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Norn|Norn (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/monster]
 ---

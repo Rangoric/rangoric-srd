@@ -28,10 +28,7 @@ alignment: "Always evil (any)"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/vampire/Vampire|Vampire]]"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Vampire Spawn|Vampire Spawn (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

@@ -27,10 +27,7 @@ challenge-rating: 24
 treasure: "Standard"
 alignment: "Usually chaotic neutral"
 advancement: "41-50 HD (Large), 51-60 HD (Huge), 61+ HD (Gargantuan)"
-based-on:
-  - "[[fantasy srd 3.5/monsters/sirrush/Sirrush|Sirrush (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

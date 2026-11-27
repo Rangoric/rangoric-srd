@@ -31,10 +31,7 @@ challenge-rating: 30
 treasure: "Standard"
 alignment: "Always lawful evil"
 advancement: "67-80 HD (Large); 81-100 HD (Huge)"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Atropal|Atropal (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

@@ -27,10 +27,7 @@ challenge-rating: 24
 treasure: "Standard"
 alignment: "Usually lawful neutral"
 advancement: "43-52 HD (Large); 53-70 HD (Huge)"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Vermiurge|Vermiurge (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

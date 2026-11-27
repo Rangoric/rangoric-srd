@@ -29,10 +29,7 @@ treasure: "None"
 alignment: "Always neutral"
 advancement: "4-6 HD (Small); 7-9 HD (Medium)"
 level-adjustment: "-"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Puppeteer, Flesh Harrower|Puppeteer, Flesh Harrower (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

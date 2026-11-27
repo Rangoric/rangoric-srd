@@ -28,10 +28,7 @@ treasure: "None"
 alignment: "Usually chaotic neutral"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Protean, Naunet|Protean, Naunet (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/monster]
 ---

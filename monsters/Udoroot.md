@@ -29,10 +29,7 @@ treasure: "1/5 coins; 50% goods; 50% items"
 alignment: "Always neutral"
 advancement: "7-16 HD (Huge); 17-18 HD (Gargantuan)"
 level-adjustment: "-"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Udoroot|Udoroot (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

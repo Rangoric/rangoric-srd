@@ -27,10 +27,7 @@ challenge-rating: 1
 treasure: "None"
 advancement: "3–4 HD (Medium); 5–6 HD (Large)"
 level-adjustment: "—"
-based-on:
-  - "[[fantasy srd 3.5/monsters/giant-ant/Giant Ant, Worker|Giant Ant, Worker (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

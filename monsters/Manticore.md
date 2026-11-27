@@ -27,11 +27,7 @@ treasure: "Standard"
 alignment: "Usually lawful evil"
 advancement: "7–16 HD (Large); 17–18 HD (Huge)"
 level-adjustment: "+3 (cohort)"
-based-on:
-  - "[[path srd 3.5/monsters/Manticore|Manticore (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Manticore|Manticore (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

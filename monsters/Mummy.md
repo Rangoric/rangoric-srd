@@ -27,11 +27,7 @@ treasure: "Standard"
 alignment: "Usually lawful evil"
 advancement: "9–16 HD (Medium); 17–24 HD (Large)"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Mummy|Mummy (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Mummy|Mummy (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---

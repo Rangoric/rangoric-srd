@@ -28,10 +28,7 @@ treasure: "None"
 alignment: "Always neutral"
 advancement: "3 HD (Medium)"
 level-adjustment: "—"
-based-on:
-  - "[[fantasy srd 3.5/monsters/fungus/Shrieker|Shrieker (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

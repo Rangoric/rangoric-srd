@@ -1,11 +1,7 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-based-on:
-  - "[[fantasy srd 3.5/monsters/formian/Formian|Formian (3.5)]]"
-  - "[[path srd 3.5 foundry/monster-abilities/Formian Traits|Formian Traits (PF1 Foundry)]]"
 status: draft
-change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---

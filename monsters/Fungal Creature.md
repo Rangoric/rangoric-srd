@@ -28,18 +28,7 @@ treasure: "Standard"
 alignment: "Usually chaotic good"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Fungal Creature|Fungal Creature (PF1)]]"
-  - "[[path srd 3.5/monsters/Fungal Creature#Creating a Fungal Creature|Creating a Fungal Creature (PF1)]]"
-  - "[[path srd 3.5 foundry/monster-templates/Fungal Creature|Fungal Creature (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Create Spawn|Create Spawn (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Poison Spore Cloud|Poison Spore Cloud (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Poisonous Blood|Poisonous Blood (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Fungal Metabolism|Fungal Metabolism (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Rejuvenation (Fungal Creature)|Rejuvenation (Fungal Creature) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/monsters/bestiary-4/Fungal Nymph|Fungal Nymph (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

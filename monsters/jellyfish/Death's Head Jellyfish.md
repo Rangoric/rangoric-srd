@@ -29,10 +29,7 @@ alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/jellyfish/Jellyfish|Jellyfish]]"
-based-on:
-  - "[[path srd 3.5/monsters/Jellyfish, Death's Head|Jellyfish, Death's Head (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/monster]
 ---

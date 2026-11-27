@@ -29,10 +29,7 @@ challenge-rating: 30
 treasure: "Standard"
 alignment: "Always neutral"
 advancement: "71-140 HD (Colossal)"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Titan, Elder|Titan, Elder (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

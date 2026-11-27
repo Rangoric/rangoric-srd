@@ -28,16 +28,7 @@ treasure: "Standard (+1 longsword, masterwork harp, other treasure)"
 alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Broken Soul|Broken Soul (PF1)]]"
-  - "[[path srd 3.5/monsters/Broken Soul#Creating a Broken Soul|Creating a Broken Soul (PF1)]]"
-  - "[[path srd 3.5 foundry/monster-templates/Broken Soul|Broken Soul (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Agonized Wail|Agonized Wail (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Baleful Gaze|Baleful Gaze (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Torturous Touch|Torturous Touch (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/monsters/bestiary-4/Broken Soul Lillend|Broken Soul Lillend (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

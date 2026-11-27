@@ -29,15 +29,7 @@ alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/lich/Lich|Lich]]"
-based-on:
-  - "[[path srd 3.5/monsters/Lich|Lich (PF1)]]"
-  - "[[path srd 3.5 foundry/monster-templates/Lich|Lich (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Rejuvenation (Bestiary)|Rejuvenation (Bestiary) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Touch Attack (Lich)|Touch Attack (Lich) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Fear Aura|Fear Aura (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Paralyzing Touch|Paralyzing Touch (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/monster]
 ---

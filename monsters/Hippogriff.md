@@ -27,11 +27,7 @@ treasure: "None"
 alignment: "Always neutral"
 advancement: "4–6 HD (Large); 7–9 HD (Huge)"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Hippogriff (Monster)|Hippogriff (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Hippogriff|Hippogriff (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

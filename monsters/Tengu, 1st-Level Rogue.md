@@ -28,10 +28,7 @@ treasure: "NPC gear (leather armor, dagger, shortbow with 20 arrows, other treas
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Tengu|Tengu (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/monster]
 ---

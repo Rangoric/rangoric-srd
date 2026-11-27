@@ -2,7 +2,6 @@
 srd-type: "monster"
 section: "Monsters"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

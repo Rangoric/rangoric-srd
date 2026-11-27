@@ -26,10 +26,7 @@ challenge-rating: "2"
 treasure: "None"
 alignment: "Always good"
 advancement: "—"
-based-on:
-  - "[[individual books/Faeries/creatures/Fey Steed|Fey Steed (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/monster]
 ---

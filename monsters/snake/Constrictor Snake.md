@@ -28,11 +28,7 @@ alignment: "Usually neutral"
 advancement: "4–5 HD (Medium); 6–10 HD (Large)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/snake/Snake|Snake]]"
-based-on:
-  - "[[path srd 3.5/monsters/Snake, Constrictor (Monster)|Snake, Constrictor (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/snake/Constrictor Snake|Constrictor Snake (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/monster]
 ---

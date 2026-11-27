@@ -28,11 +28,7 @@ treasure: "Incidental"
 alignment: "Usually chaotic evil"
 advancement: "10–18 HD (Small)"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Will-o'-Wisp|Will-o'-Wisp (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Will-O’-Wisp|Will-O’-Wisp (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

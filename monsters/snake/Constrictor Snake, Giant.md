@@ -26,10 +26,7 @@ organization: "Solitary"
 challenge-rating: 5
 advancement: "12–16 HD (Huge); 17–33 HD (Gargantuan)"
 level-adjustment: "—"
-based-on:
-  - "[[fantasy srd 3.5/monsters/snake/Constrictor Snake, Giant|Constrictor Snake, Giant (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

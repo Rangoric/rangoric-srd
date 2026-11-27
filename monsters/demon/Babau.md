@@ -29,11 +29,7 @@ alignment: "Always chaotic evil"
 advancement: "8–14 HD (Large); 15–21 HD (Huge)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/demon/Demon|Demon]]"
-based-on:
-  - "[[path srd 3.5/monsters/Demon, Babau|Demon, Babau (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/demon/Babau|Babau (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---

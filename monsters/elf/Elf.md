@@ -29,10 +29,7 @@ size: "Medium"
 creature-type: "Humanoid"
 subtypes:
   - "Elf"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Elf|Elf (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

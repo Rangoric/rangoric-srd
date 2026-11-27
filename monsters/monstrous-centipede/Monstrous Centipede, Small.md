@@ -26,10 +26,7 @@ organization: "Colony (2–5) or swarm (6–11)"
 challenge-rating: "1/4"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[fantasy srd 3.5/monsters/monstrous-centipede/Monstrous Centipede, Small|Monstrous Centipede, Small (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

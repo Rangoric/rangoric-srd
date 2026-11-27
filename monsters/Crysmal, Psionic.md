@@ -30,10 +30,7 @@ treasure: "Double goods (gems only)"
 alignment: "Any lawful"
 advancement: "7-12 HD (Medium); 13-18 HD (Large)"
 level-adjustment: "-"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Crysmal|Crysmal (3.5)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---

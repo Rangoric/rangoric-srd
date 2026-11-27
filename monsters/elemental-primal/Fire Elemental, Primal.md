@@ -31,10 +31,7 @@ challenge-rating: 35
 treasure: "None"
 alignment: "Usually neutral"
 advancement: "65-288 HD (Colossal)"
-based-on:
-  - "[[fantasy srd 3.5/monsters/elemental-primal/Fire Elemental, Primal|Fire Elemental, Primal (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

@@ -29,10 +29,7 @@ alignment: "Lawful neutral"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/halfling/Halfling|Halfling]]"
-based-on:
-  - "[[path srd 3.5/monsters/Little Fist|Little Fist (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

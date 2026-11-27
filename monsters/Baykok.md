@@ -27,10 +27,7 @@ treasure: "Standard (+1 composite longbow [+3 Str], other treasure)"
 alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Baykok|Baykok (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/monster]
 ---

@@ -29,11 +29,7 @@ alignment: "Always lawful evil"
 advancement: "None"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/swarm/Swarm|Swarm]]"
-based-on:
-  - "[[path srd 3.5/monsters/Swarm, Hellwasp|Swarm, Hellwasp (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/swarm/Hellwasp Swarm|Hellwasp Swarm (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

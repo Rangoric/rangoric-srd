@@ -28,10 +28,7 @@ alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/skeleton/Skeleton|Skeleton]]"
-based-on:
-  - "[[path srd 3.5/monsters/Human Skeleton|Human Skeleton (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/monster]
 ---

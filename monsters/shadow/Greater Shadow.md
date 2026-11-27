@@ -29,11 +29,7 @@ alignment: "Always chaotic evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/shadow/Shadow|Shadow]]"
-based-on:
-  - "[[path srd 3.5/monsters/Shadow, Greater|Shadow, Greater (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/shadow/Greater Shadow|Greater Shadow (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---

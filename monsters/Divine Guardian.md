@@ -28,17 +28,7 @@ treasure: "Standard"
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Divine Guardian|Divine Guardian (PF1)]]"
-  - "[[path srd 3.5/monsters/Divine Guardian#Creating a Divine Guardian|Creating a Divine Guardian (PF1)]]"
-  - "[[path srd 3.5 foundry/monster-templates/Divine Guardian|Divine Guardian (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Ability Healing|Ability Healing (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Aura (Divine Guardian)|Aura (Divine Guardian) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Divine Swiftness|Divine Swiftness (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Sacred Site|Sacred Site (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/monsters/bestiary-4/Divine Guardian Hydra|Divine Guardian Hydra (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

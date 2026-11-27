@@ -28,11 +28,7 @@ treasure: "Double"
 alignment: "Usually neutral"
 advancement: "13–24 HD (Huge); 25–36 HD (Gargantuan)"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Dragon Turtle|Dragon Turtle (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Dragon Turtle|Dragon Turtle (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---

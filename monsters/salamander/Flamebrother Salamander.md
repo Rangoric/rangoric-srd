@@ -31,10 +31,7 @@ treasure: "Standard (nonflammables only)"
 alignment: "Usually evil (any)"
 advancement: "4–6 HD (Small)"
 level-adjustment: "+4"
-based-on:
-  - "[[fantasy srd 3.5/monsters/salamander/Flamebrother Salamander|Flamebrother Salamander (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

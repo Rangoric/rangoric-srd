@@ -27,11 +27,7 @@ treasure: "Incidental"
 alignment: "Usually neutral evil"
 advancement: "9–16 HD (Large); 17–24 HD (Huge)"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Destrachan|Destrachan (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Destrachan|Destrachan (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

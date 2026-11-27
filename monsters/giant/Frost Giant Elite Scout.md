@@ -29,10 +29,7 @@ alignment: "Usually chaotic evil"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/giant/Frost Giant|Frost Giant]]"
-based-on:
-  - "[[path srd 3.5/monsters/Frost Giant Elite Scout|Frost Giant Elite Scout (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

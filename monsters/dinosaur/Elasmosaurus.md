@@ -28,11 +28,7 @@ alignment: "Always neutral"
 advancement: "11–20 HD (Huge); 21–30 HD (Gargantuan)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/dinosaur/Dinosaur|Dinosaur]]"
-based-on:
-  - "[[path srd 3.5/monsters/Dinosaur, Elasmosaurus|Dinosaur, Elasmosaurus (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/dinosaur/Elasmosaurus|Elasmosaurus (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/monster]
 ---

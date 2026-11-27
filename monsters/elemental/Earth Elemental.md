@@ -2,11 +2,7 @@
 srd-type: "monster"
 section: "Monsters"
 group: "[[rangoric-srd/monsters/elemental/Elemental|Elemental]]"
-based-on:
-  - "[[path srd 3.5/monsters/Elemental, Earth|Elemental, Earth (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/elemental/Earth Elemental|Earth Elemental (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---

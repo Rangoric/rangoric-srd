@@ -28,11 +28,7 @@ alignment: "Always neutral"
 advancement: "7–9 HD (Large); 10–18 HD (Huge)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/ooze/Ooze|Ooze]]"
-based-on:
-  - "[[path srd 3.5/monsters/Ochre Jelly|Ochre Jelly (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/ooze/Ochre Jelly|Ochre Jelly (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

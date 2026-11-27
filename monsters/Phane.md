@@ -32,10 +32,7 @@ challenge-rating: 25
 treasure: "None"
 alignment: "Always chaotic evil"
 advancement: "37-50 HD (Large); 51-65 HD (Huge)"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Phane|Phane (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

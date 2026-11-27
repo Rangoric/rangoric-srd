@@ -8,10 +8,7 @@ subtypes:
   - "Psionic"
 special-attacks: "Psi-like abilities, slime"
 feats: "Combat Manifestation, Iron Will, Skill Focus (Perception)"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Aboleth, Psionic|Aboleth, Psionic (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

@@ -28,10 +28,7 @@ treasure: "Double (masterwork breastplate, +1 longsword, 4 masterwork spears, ot
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Nephilim|Nephilim (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

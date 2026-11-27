@@ -28,11 +28,7 @@ treasure: "Incidental"
 alignment: "Usually neutral evil"
 advancement: "8–10 HD (Large); 11–21 HD (Huge)"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Belker|Belker (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Belker|Belker (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---

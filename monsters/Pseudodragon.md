@@ -27,11 +27,7 @@ treasure: "Standard"
 alignment: "Always neutral good"
 advancement: "3–4 HD (Tiny)"
 level-adjustment: "+3"
-based-on:
-  - "[[path srd 3.5/monsters/Pseudodragon (Monster)|Pseudodragon (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Pseudodragon|Pseudodragon (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---

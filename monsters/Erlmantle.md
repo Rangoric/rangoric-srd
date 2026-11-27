@@ -26,10 +26,7 @@ challenge-rating: 1
 treasure: "None"
 alignment: "Neutral"
 advancement: "3–6 HD (Medium); 7–10 HD (Large)"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/monsters/Erlmantle|Erlmantle (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/monster]
 ---

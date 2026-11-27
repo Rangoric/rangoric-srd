@@ -29,11 +29,7 @@ alignment: "Always chaotic evil"
 advancement: "4–6 HD (Tiny)"
 level-adjustment: "— (Improved Familiar)"
 group: "[[rangoric-srd/monsters/demon/Demon|Demon]]"
-based-on:
-  - "[[path srd 3.5/monsters/Demon, Quasit|Demon, Quasit (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/demon/Quasit|Quasit (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---

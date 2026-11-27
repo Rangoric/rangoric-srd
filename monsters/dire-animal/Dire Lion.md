@@ -28,11 +28,7 @@ alignment: "Always neutral"
 advancement: "9–16 HD (Large); 17–24 HD (Huge)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/dire-animal/Dire Animal|Dire Animal]]"
-based-on:
-  - "[[path srd 3.5/monsters/Lion, Dire|Lion, Dire (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/dire-animal/Dire Lion|Dire Lion (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/monster]
 ---

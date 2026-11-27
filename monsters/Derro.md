@@ -28,11 +28,7 @@ treasure: "NPC Gear (leather armor, short sword or aklys, repeating light crossb
 alignment: "Usually chaotic evil"
 advancement: "By character class"
 level-adjustment: "— (+2 if sane)"
-based-on:
-  - "[[path srd 3.5/monsters/Derro|Derro (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Derro|Derro (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

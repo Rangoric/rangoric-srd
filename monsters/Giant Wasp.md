@@ -27,11 +27,7 @@ treasure: "None"
 alignment: "Usually neutral"
 advancement: "6–8 HD (Large); 9–15 HD (Huge)"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Wasp, Giant (Monster)|Wasp, Giant (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Giant Wasp|Giant Wasp (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/monster]
 ---

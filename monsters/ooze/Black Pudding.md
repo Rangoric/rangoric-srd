@@ -28,11 +28,7 @@ alignment: "Always neutral"
 advancement: "11–15 HD (Huge); 16–30 HD (Gargantuan)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/ooze/Ooze|Ooze]]"
-based-on:
-  - "[[path srd 3.5/monsters/Black Pudding|Black Pudding (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/ooze/Black Pudding|Black Pudding (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

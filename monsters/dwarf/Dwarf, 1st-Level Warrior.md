@@ -30,10 +30,7 @@ treasure: "Standard coins; double goods; standard items"
 alignment: "Often lawful good (Deep: Usually lawful neutral or neutral)"
 advancement: "By character class"
 level-adjustment: "+0"
-based-on:
-  - "[[fantasy srd 3.5/monsters/dwarf/Dwarf, 1st-Level Warrior|Dwarf, 1st-Level Warrior (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

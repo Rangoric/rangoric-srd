@@ -27,11 +27,7 @@ treasure: "Double"
 alignment: "Always Chaotic Evil"
 advancement: "7-8 HD (Small); 9-15 HD (Medium); 16-18 HD (Large)"
 level-adjustment: "+6"
-based-on:
-  - "[[path srd 3.5/monsters/Intellect Devourer|Intellect Devourer (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Intellect Devourer|Intellect Devourer (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

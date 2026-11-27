@@ -28,10 +28,7 @@ treasure: "Double (500 to 2,000 gp in rubies, other treasure)"
 alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Denizen of Leng|Denizen of Leng (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

@@ -28,10 +28,7 @@ treasure: "Triple (+2 flaming burst scimitar, other treasure)"
 alignment: "Usually neutral good"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Peri|Peri (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

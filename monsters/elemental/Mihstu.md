@@ -29,10 +29,7 @@ alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/elemental/Elemental|Elemental]]"
-based-on:
-  - "[[path srd 3.5/monsters/Mihstu|Mihstu (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

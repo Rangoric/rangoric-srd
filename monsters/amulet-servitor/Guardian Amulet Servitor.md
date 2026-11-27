@@ -26,10 +26,7 @@ treasure: "None"
 alignment: "Always neutral"
 advancement: "7–9 HD (Medium); 10–18 HD (Large)"
 level-adjustment: "—"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/constructs/Amulet Servitors|Amulet Servitors (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/monster]
 ---

@@ -10,13 +10,7 @@ challenge-rating: [5, 7, 9, 10, 12, 13, 14, 16, 17, 18, 19, 21]
 treasure: "Triple"
 alignment: "Usually lawful good"
 advancement: "Wyrmling 7 HD; very young 9 HD; young 11 HD; juvenile 13 HD; young adult 15 HD; adult 17 HD; mature adult 19 HD; old 21 HD; very old 23 HD; ancient 25 HD; wyrm 27 HD; great wyrm 29+ HD"
-based-on:
-  - "[[path srd 3.5/monsters/Dragon, Imperial, Sky|Imperial Sky Dragon (PF1)]]"
-  - "[[path srd 3.5/monsters/Dragon, Imperial, Sky, Young|Young Imperial Sky Dragon (PF1)]]"
-  - "[[path srd 3.5/monsters/Dragon, Imperial, Sky, Adult|Adult Imperial Sky Dragon (PF1)]]"
-  - "[[path srd 3.5/monsters/Dragon, Imperial, Sky, Ancient|Ancient Imperial Sky Dragon (PF1)]]"
 status: draft
-change: modified
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/monster]
 ---

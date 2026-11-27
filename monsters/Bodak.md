@@ -28,11 +28,7 @@ treasure: "None"
 alignment: "Always chaotic evil"
 advancement: "10–13 HD (Medium); 14–27 HD (Large)"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Bodak|Bodak (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Bodak|Bodak (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---

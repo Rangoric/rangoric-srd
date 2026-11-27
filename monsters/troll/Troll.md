@@ -28,12 +28,7 @@ treasure: "Standard"
 alignment: "Usually chaotic evil"
 advancement: "By character class"
 level-adjustment: "+5"
-based-on:
-  - "[[path srd 3.5/monsters/Troll|Troll (PF1)]]"
-  - "[[path srd 3.5/rules/monster-codex/trolls/Trolls (Trolls)|Trolls, society (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/troll/Troll|Troll (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

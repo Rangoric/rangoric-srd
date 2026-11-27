@@ -28,11 +28,7 @@ treasure: "Standard (masterwork scale mail, masterwork warhammer, light hammer, 
 alignment: "Always lawful neutral"
 advancement: "By character class"
 level-adjustment: "+4"
-based-on:
-  - "[[path srd 3.5/monsters/Azer|Azer (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Azer|Azer (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---

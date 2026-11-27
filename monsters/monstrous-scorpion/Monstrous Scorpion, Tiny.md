@@ -27,10 +27,7 @@ challenge-rating: "1/4"
 alignment: "Always neutral"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[fantasy srd 3.5/monsters/monstrous-scorpion/Monstrous Scorpion, Tiny|Monstrous Scorpion, Tiny (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

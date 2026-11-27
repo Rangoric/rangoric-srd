@@ -29,10 +29,7 @@ alignment: "Usually neutral evil"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/vampire/Vampire|Vampire]]"
-based-on:
-  - "[[path srd 3.5/monsters/Vampire Seducer|Vampire Seducer (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/monster]
 ---

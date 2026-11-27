@@ -29,10 +29,7 @@ alignment: "Usually lawful evil"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/giant/Fire Giant|Fire Giant]]"
-based-on:
-  - "[[path srd 3.5/monsters/Fire Giant Strongarm|Fire Giant Strongarm (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

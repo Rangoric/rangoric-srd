@@ -28,16 +28,7 @@ treasure: "NPC gear"
 alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Penanggalen|Penanggalen (PF1)]]"
-  - "[[path srd 3.5 foundry/monster-templates/Penanggalen|Penanggalen (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Blood Drain (Penanggalen)|Blood Drain (Penanggalen) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Create Spawn (Bestiary 3)|Create Spawn (Bestiary 3) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Disease (Template Ability)|Disease (Template Ability) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Wither|Wither (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Separate|Separate (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/monster]
 ---

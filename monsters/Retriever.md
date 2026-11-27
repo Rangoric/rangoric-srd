@@ -28,11 +28,7 @@ treasure: "None"
 alignment: "Always chaotic evil"
 advancement: "11–15 HD (Huge); 16–30 HD (Gargantuan)"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Retriever|Retriever (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/demon/Retriever|Retriever (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---

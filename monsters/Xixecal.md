@@ -32,10 +32,7 @@ challenge-rating: 36
 treasure: "Standard"
 alignment: "Always chaotic evil"
 advancement: "73-150 HD (Colossal)"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Xixecal|Xixecal (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

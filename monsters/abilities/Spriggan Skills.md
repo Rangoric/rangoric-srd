@@ -3,11 +3,7 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Ex"]
 kind: ["quality"]
-based-on:
-  - "[[path srd 3.5/monsters/Spriggan|Spriggan (PF1)]]"
-  - "[[path srd 3.5/monsters/Spriggan (Large Size)|Spriggan (Large Size) (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/monster-ability]
 ---

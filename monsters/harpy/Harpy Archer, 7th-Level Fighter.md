@@ -28,10 +28,7 @@ treasure: "Standard (including equipment)"
 alignment: "Usually chaotic evil"
 advancement: "By character class"
 level-adjustment: "+3"
-based-on:
-  - "[[fantasy srd 3.5/monsters/harpy/Harpy Archer, 7th-Level Fighter|Harpy Archer, 7th-Level Fighter (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

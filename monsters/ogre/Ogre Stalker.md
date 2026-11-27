@@ -29,10 +29,7 @@ alignment: "Usually chaotic evil"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/ogre/Ogre|Ogre]]"
-based-on:
-  - "[[path srd 3.5/monsters/Ogre Stalker|Ogre Stalker (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

@@ -26,10 +26,7 @@ organization: "Solitary"
 challenge-rating: 3
 advancement: "7–18 HD (Huge)"
 level-adjustment: "—"
-based-on:
-  - "[[fantasy srd 3.5/monsters/snake/Snake, Huge Viper|Snake, Huge Viper (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

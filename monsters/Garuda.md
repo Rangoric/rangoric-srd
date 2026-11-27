@@ -28,10 +28,7 @@ treasure: "Double (+1 shock composite longbow [+3 Str], other treasure)"
 alignment: "Usually chaotic good"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Garuda|Garuda (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

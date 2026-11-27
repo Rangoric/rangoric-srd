@@ -28,10 +28,7 @@ alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/dire-animal/Dire Animal|Dire Animal]]"
-based-on:
-  - "[[path srd 3.5/monsters/Hyena, Dire|Hyena, Dire (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/monster]
 ---

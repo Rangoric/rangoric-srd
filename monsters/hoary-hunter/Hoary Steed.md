@@ -30,10 +30,7 @@ challenge-rating: 9
 treasure: "None"
 alignment: "Always neutral evil"
 advancement: "13-24 HD (Large); 25-36 HD (Huge)"
-based-on:
-  - "[[fantasy srd 3.5/monsters/hoary-hunter/Hoary Steed|Hoary Steed (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

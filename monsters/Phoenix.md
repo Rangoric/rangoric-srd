@@ -28,10 +28,7 @@ treasure: "Standard"
 alignment: "Usually neutral good"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Phoenix|Phoenix (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/monster]
 ---

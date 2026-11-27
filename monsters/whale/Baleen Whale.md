@@ -26,10 +26,7 @@ organization: "Solitary"
 challenge-rating: 6
 advancement: "13–18 HD (Gargantuan); 19–36 HD (Colossal)"
 level-adjustment: "—"
-based-on:
-  - "[[fantasy srd 3.5/monsters/whale/Baleen Whale|Baleen Whale (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

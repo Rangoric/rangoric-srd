@@ -27,11 +27,7 @@ treasure: "Standard"
 alignment: "Usually neutral"
 advancement: "8–10 HD (Huge); 11–21 HD (Gargantuan)"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Wyvern|Wyvern (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Wyvern|Wyvern (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---

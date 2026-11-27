@@ -1,14 +1,7 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-based-on:
-  - "[[path srd 3.5/monsters/Dragon, Outer, Lunar|Dragon, Outer, Lunar (PF1)]]"
-  - "[[path srd 3.5/monsters/Dragon, Outer, Solar|Dragon, Outer, Solar (PF1)]]"
-  - "[[path srd 3.5/monsters/Dragon, Outer, Time|Dragon, Outer, Time (PF1)]]"
-  - "[[path srd 3.5/monsters/Dragon, Outer, Void|Dragon, Outer, Void (PF1)]]"
-  - "[[path srd 3.5/monsters/Dragon, Outer, Vortex|Dragon, Outer, Vortex (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/monster]
 ---

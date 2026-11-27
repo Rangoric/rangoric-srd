@@ -29,22 +29,7 @@ alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/vampire/Vampire|Vampire]]"
-based-on:
-  - "[[path srd 3.5/monsters/Vampire|Vampire (PF1)]]"
-  - "[[path srd 3.5 foundry/monster-templates/Vampire|Vampire (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Blood Drain (Template Ability)|Blood Drain (Template Ability) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Children of the Night|Children of the Night (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Create Spawn (Bestiary)|Create Spawn (Bestiary) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Dominate|Dominate (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Energy Drain (Template Ability)|Energy Drain (Template Ability) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Change Shape (Template Ability, Bestiary)|Change Shape (Template Ability, Bestiary) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Gaseous Form (Template Ability)|Gaseous Form (Template Ability) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Shadowless|Shadowless (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Spider Climb (Template Ability)|Spider Climb (Template Ability) (PF1 Foundry)]]"
-  - "[[path srd 3.5/rules/monster-codex/vampires/Vampires (Vampires)|Vampires (PF1)]]"
-  - "[[path srd 3.5/rules/monster-codex/vampires/New Rules (Vampires)#Vampire Templates|New Rules (Vampires) (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/monster]
 ---

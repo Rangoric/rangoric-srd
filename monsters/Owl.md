@@ -27,11 +27,7 @@ treasure: "None"
 alignment: "Usually neutral"
 advancement: "2 HD (Small)"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Familiar, Owl|Familiar, Owl (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Owl|Owl (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/monster]
 ---

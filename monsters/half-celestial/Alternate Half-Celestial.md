@@ -29,14 +29,7 @@ alignment: "Usually chaotic good"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/half-celestial/Half-Celestial|Half-Celestial]]"
-based-on:
-  - "[[path srd 3.5/monsters/Half-Celestial|Half-Celestial (PF1)]]"
-  - "[[path srd 3.5/monsters/Half-Celestial#Creating a Half-Celestial|Creating a Half-Celestial (PF1)]]"
-  - "[[path srd 3.5 foundry/monster-templates/Half-Celestial|Half-Celestial (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Smite Evil (Template Ability)|Smite Evil (Template Ability) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/monsters/bestiary/Half-Celestial Unicorn|Half-Celestial Unicorn (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

@@ -28,24 +28,7 @@ treasure: "NPC gear (+1 leather armor, +1 seeking composite longbow [+5 Str] wit
 alignment: "Usually neutral good"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Animal Lord|Animal Lord (PF1)]]"
-  - "[[path srd 3.5/monsters/Animal Lord#Creating an Animal Lord|Creating an Animal Lord (PF1)]]"
-  - "[[path srd 3.5 foundry/monster-templates/Animal Lord|Animal Lord (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Change Shape (Template Ability)|Change Shape (Template Ability) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Dominion|Dominion (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Bear Hug (Template Ability)|Bear Hug (Template Ability) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Savage (Template Ability)|Savage (Template Ability) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Leap|Leap (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Thick Skin|Thick Skin (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Primeval Mind|Primeval Mind (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Raptor's Dive|Raptor's Dive (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Hearty|Hearty (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Brutal Jaws|Brutal Jaws (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Poison Immunity (Template Ability)|Poison Immunity (Template Ability) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/monsters/bestiary-3/Cat Lord (ranger 10)|Cat Lord (ranger 10) (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

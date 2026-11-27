@@ -25,10 +25,7 @@ organization: "Solitary or colony (6–11)"
 challenge-rating: 4
 advancement: "8–14 HD (Huge)"
 level-adjustment: "—"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Crocodile, Giant|Crocodile, Giant (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

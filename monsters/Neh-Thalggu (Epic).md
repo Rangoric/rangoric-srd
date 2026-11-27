@@ -30,10 +30,7 @@ challenge-rating: 26
 treasure: "Triple standard"
 alignment: "Usually chaotic neutral, neutral evil, or chaotic evil"
 advancement: "33-66 HD (Gargantuan); 67-112 HD (Colossal)"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Neh-Thalggu (Brain Collector)|Neh-Thalggu (Brain Collector) (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

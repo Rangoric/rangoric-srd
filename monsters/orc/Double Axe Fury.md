@@ -29,10 +29,7 @@ alignment: "Chaotic evil"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/orc/Orc|Orc]]"
-based-on:
-  - "[[path srd 3.5/monsters/Double Axe Fury|Double Axe Fury (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

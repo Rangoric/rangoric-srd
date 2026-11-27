@@ -27,11 +27,7 @@ treasure: "Standard (leather armor, morningstar, and other treasure)"
 alignment: "Usually chaotic evil"
 advancement: "By character class"
 level-adjustment: "+3"
-based-on:
-  - "[[path srd 3.5/monsters/Harpy|Harpy (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/harpy/Harpy|Harpy (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

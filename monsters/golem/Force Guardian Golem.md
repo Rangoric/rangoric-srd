@@ -31,10 +31,7 @@ treasure: "None"
 alignment: "Always neutral"
 advancement: "13–18 HD (Medium); 19–25 HD (Large); 26–36 HD (Huge)"
 level-adjustment: "—"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/constructs/Golem, Force Guardian|Golem, Force Guardian (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/monster]
 ---

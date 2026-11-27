@@ -28,11 +28,7 @@ alignment: "Usually chaotic good"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/nymph/Nymphs|Nymphs]]"
-based-on:
-  - "[[path srd 3.5/monsters/Dryad|Dryad (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Dryad|Dryad (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---

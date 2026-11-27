@@ -28,11 +28,7 @@ alignment: "Always neutral"
 advancement: "5–12 HD (Large); 13–24 HD (Huge)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/ooze/Ooze|Ooze]]"
-based-on:
-  - "[[path srd 3.5/monsters/Gelatinous Cube|Gelatinous Cube (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/ooze/Gelatinous Cube|Gelatinous Cube (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

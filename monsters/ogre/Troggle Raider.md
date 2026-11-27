@@ -29,10 +29,7 @@ alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/ogre/Ogre|Ogre]]"
-based-on:
-  - "[[path srd 3.5/monsters/Troggle Raider|Troggle Raider (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/monster]
 ---

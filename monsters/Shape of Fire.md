@@ -30,10 +30,7 @@ challenge-rating: 26
 treasure: "None"
 alignment: "Always lawful evil"
 advancement: "36-42 HD (Large); 43-70 HD (Huge)"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Shape of Fire|Shape of Fire (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

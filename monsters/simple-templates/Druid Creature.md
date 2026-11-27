@@ -2,12 +2,7 @@
 srd-type: "monster"
 section: "Monsters"
 group: "[[rangoric-srd/monsters/simple-templates/Simple Templates|Simple Templates]]"
-based-on:
-  - "[[path srd 3.5/rules/monster-codex/appendix/Modifying Monsters#Druid Creature|Modifying Monsters (PF1)]]"
-  - "[[path srd 3.5 foundry/monster-templates/Druid (Quick)|Druid (Quick) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/monster-templates/Druid (Rebuild)|Druid (Rebuild) (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

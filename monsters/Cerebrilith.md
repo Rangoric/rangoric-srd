@@ -32,10 +32,7 @@ treasure: "Standard"
 alignment: "Always Chaotic Evil"
 advancement: "10-18 HD (Large); 19-27 HD (Huge)"
 level-adjustment: "+9"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Cerebrilith|Cerebrilith (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

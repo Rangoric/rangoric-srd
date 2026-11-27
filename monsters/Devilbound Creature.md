@@ -28,30 +28,7 @@ treasure: "NPC gear (dagger, amulet of natural armor +3, belt of mighty constitu
 alignment: "Usually lawful evil"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Devilbound Creature|Devilbound Creature (PF1)]]"
-  - "[[path srd 3.5/monsters/Devilbound Creature#Creating a Devilbound Creature|Creating a Devilbound Creature (PF1)]]"
-  - "[[path srd 3.5 foundry/monster-templates/Devilbound (Accuser)|Devilbound (Accuser) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Contract Bound|Contract Bound (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/monster-templates/Devilbound (Barbed, Bearded, Host)|Devilbound (Barbed, Bearded, Host) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Contract Bound|Contract Bound (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/monster-templates/Devilbound (Belier, Contract, Handmaiden)|Devilbound (Belier, Contract, Handmaiden) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Contract Bound|Contract Bound (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/monster-templates/Devilbound (Bone, Ice)|Devilbound (Bone, Ice) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Contract Bound|Contract Bound (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/monster-templates/Devilbound (Drowning, Horned)|Devilbound (Drowning, Horned) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Contract Bound|Contract Bound (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/monster-templates/Devilbound (Erinyes)|Devilbound (Erinyes) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Contract Bound|Contract Bound (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/monster-templates/Devilbound (Immolation)|Devilbound (Immolation) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Contract Bound|Contract Bound (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/monster-templates/Devilbound (Imp)|Devilbound (Imp) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Contract Bound|Contract Bound (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/monster-templates/Devilbound (Nemesis, Pit Fiend)|Devilbound (Nemesis, Pit Fiend) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Contract Bound|Contract Bound (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/monsters/bestiary-4/Devilbound Sorcerer|Devilbound Sorcerer (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

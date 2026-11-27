@@ -28,10 +28,7 @@ alignment: "Usually lawful neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/thriae/Thriae|Thriae]]"
-based-on:
-  - "[[path srd 3.5/monsters/Thriae Seer|Thriae Seer (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/monster]
 ---

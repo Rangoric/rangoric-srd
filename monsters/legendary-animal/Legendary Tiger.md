@@ -27,10 +27,7 @@ challenge-rating: 10
 treasure: "None"
 alignment: "Always neutral"
 advancement: "27-48 HD (Large)"
-based-on:
-  - "[[fantasy srd 3.5/monsters/legendary-animal/Legendary Tiger|Legendary Tiger (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

@@ -27,11 +27,7 @@ treasure: "Incidental"
 alignment: "Always neutral"
 advancement: "5–16 HD (Huge); 17–32 HD (Gargantuan); 33+ HD (Colossal)"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Assassin Vine|Assassin Vine (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Assassin Vine|Assassin Vine (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

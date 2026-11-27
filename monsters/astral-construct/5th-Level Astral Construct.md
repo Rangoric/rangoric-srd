@@ -28,10 +28,7 @@ treasure: "None"
 alignment: "Always Neutral"
 advancement: "-"
 level-adjustment: "-"
-based-on:
-  - "[[fantasy srd 3.5/monsters/astral-construct/5th-Level Astral Construct|5th-Level Astral Construct (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

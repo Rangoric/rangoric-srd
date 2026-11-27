@@ -27,11 +27,7 @@ treasure: "Standard"
 alignment: "Always chaotic evil"
 advancement: "15–21 HD (Medium); 22–28 HD (Large)"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Mohrg|Mohrg (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Mohrg|Mohrg (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---

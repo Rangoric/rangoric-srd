@@ -2,12 +2,7 @@
 srd-type: "monster"
 section: "Monsters"
 group: "[[rangoric-srd/monsters/fiendish-creature/Fiendish Creature|Fiendish Creature]]"
-based-on:
-  - "[[path srd 3.5/rules/bestiary/monster-advancement/Simple Templates#Fiendish Creature|Simple Templates (PF1)]]"
-  - "[[path srd 3.5 foundry/monster-templates/Fiendish|Fiendish (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Smite Good (Template Ability)|Smite Good (Template Ability) (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

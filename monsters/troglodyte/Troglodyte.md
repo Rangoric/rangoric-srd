@@ -28,13 +28,7 @@ treasure: "NPC gear (club, 3 javelins, other treasure)"
 alignment: "Usually chaotic evil"
 advancement: "By character class"
 level-adjustment: "+2"
-based-on:
-  - "[[path srd 3.5/monsters/Troglodyte|Troglodyte (PF1)]]"
-  - "[[path srd 3.5/rules/monster-codex/troglodytes/Troglodytes (Troglodytes)|Troglodytes, society (PF1)]]"
-  - "[[path srd 3.5/rules/monster-codex/troglodytes/New Rules (Troglodytes)#Troglodyte Variants|New Rules (Troglodytes) (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Troglodyte|Troglodyte (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

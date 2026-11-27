@@ -27,11 +27,7 @@ treasure: "Standard (greataxe, other treasure)"
 alignment: "Usually chaotic Evil"
 advancement: "By character class"
 level-adjustment: "+2"
-based-on:
-  - "[[path srd 3.5/monsters/Minotaur|Minotaur (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Minotaur|Minotaur (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

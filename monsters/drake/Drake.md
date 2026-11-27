@@ -1,20 +1,7 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-based-on:
-  - "[[path srd 3.5/monsters/Drake, Desert|Drake, Desert (PF1)]]"
-  - "[[path srd 3.5/monsters/Drake, Flame|Drake, Flame (PF1)]]"
-  - "[[path srd 3.5/monsters/Drake, Forest|Drake, Forest (PF1)]]"
-  - "[[path srd 3.5/monsters/Drake, Frost|Drake, Frost (PF1)]]"
-  - "[[path srd 3.5/monsters/Drake, Lava|Drake, Lava (PF1)]]"
-  - "[[path srd 3.5/monsters/Drake, Mist|Drake, Mist (PF1)]]"
-  - "[[path srd 3.5/monsters/Drake, Rift|Drake, Rift (PF1)]]"
-  - "[[path srd 3.5/monsters/Drake, River|Drake, River (PF1)]]"
-  - "[[path srd 3.5/monsters/Drake, Sea|Drake, Sea (PF1)]]"
-  - "[[path srd 3.5/monsters/Drake, Shadow|Drake, Shadow (PF1)]]"
-  - "[[path srd 3.5/monsters/Drake, Spire|Drake, Spire (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/monster]
 ---

@@ -28,10 +28,7 @@ treasure: "Incidental"
 alignment: "Usually chaotic neutral"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Colour Out of Space|Colour Out of Space (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

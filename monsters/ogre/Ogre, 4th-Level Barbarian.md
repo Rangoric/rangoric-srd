@@ -28,10 +28,7 @@ treasure: "Standard (including +1 hide armor, +1 greatclub, and ring of protecti
 alignment: "Usually chaotic evil"
 advancement: "By character class"
 level-adjustment: "+2"
-based-on:
-  - "[[fantasy srd 3.5/monsters/ogre/Ogre, 4th-Level Barbarian|Ogre, 4th-Level Barbarian (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

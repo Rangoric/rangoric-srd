@@ -1,11 +1,7 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/creatures/Crystalline Creatures|Crystalline Creatures (Spells & Magic)]]"
-  - "[[individual books/Spells & Magic v3.0/tables/Table p35 Level|Table p35 (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/monster]
 ---

@@ -29,11 +29,7 @@ alignment: "Always lawful evil"
 advancement: "13–24 HD (Medium); 25–36 HD (Large)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/devil/Devil|Devil]]"
-based-on:
-  - "[[path srd 3.5/monsters/Devil, Barbed|Devil, Barbed (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/devil/Barbed Devil (Hamatula)|Barbed Devil (Hamatula) (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---

@@ -29,18 +29,7 @@ alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/ghost/Ghost|Ghost]]"
-based-on:
-  - "[[path srd 3.5/monsters/Ghost|Ghost (PF1)]]"
-  - "[[path srd 3.5 foundry/monster-templates/Ghost|Ghost (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Rejuvenation|Rejuvenation (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Corrupting Gaze|Corrupting Gaze (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Corrupting Touch (Template Ability)|Corrupting Touch (Template Ability) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Draining Touch (Template Ability)|Draining Touch (Template Ability) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Frightful Moan|Frightful Moan (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Malevolence|Malevolence (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Telekinesis (Template Ability)|Telekinesis (Template Ability) (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/monster]
 ---

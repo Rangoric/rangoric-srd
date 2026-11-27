@@ -28,10 +28,7 @@ treasure: "Triple"
 alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5 foundry/monsters/bestiary-5/Elder Deep One|Elder Deep One (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

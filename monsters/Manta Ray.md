@@ -28,11 +28,7 @@ treasure: "None"
 alignment: "Usually neutral"
 advancement: "5–6 HD (Medium)"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Ray, Manta|Ray, Manta (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Manta Ray|Manta Ray (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/monster]
 ---

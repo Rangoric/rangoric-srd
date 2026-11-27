@@ -28,11 +28,7 @@ treasure: "NPC Gear (leather armor, light steel shield, rapier, hand crossbow wi
 alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Drow (Monster)|Drow (PF1)]]"
-  - "[[path srd 3.5/rules/monster-codex/drow/Drow (Drow)|Drow, society (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/monster]
 ---

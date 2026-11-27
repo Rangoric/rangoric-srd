@@ -7,10 +7,7 @@ subtypes:
   - "Dwarf"
   - "Psionic"
 special-attacks: "Duergar traits, psi-like abilities"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Duergar, Psionic|Duergar, Psionic (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

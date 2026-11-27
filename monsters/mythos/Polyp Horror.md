@@ -29,10 +29,7 @@ alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
 aliases: ["Flying Polyp"]
-based-on:
-  - "[[path srd 3.5/monsters/Flying Polyp|Flying Polyp (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

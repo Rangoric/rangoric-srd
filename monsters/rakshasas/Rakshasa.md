@@ -28,11 +28,7 @@ treasure: "Double (+1 kukri, other treasure)"
 alignment: "Always lawful evil"
 advancement: "By character class"
 level-adjustment: "+7"
-based-on:
-  - "[[path srd 3.5/monsters/Rakshasa|Rakshasa (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Rakshasa|Rakshasa (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---

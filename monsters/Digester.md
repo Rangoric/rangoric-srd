@@ -27,10 +27,7 @@ treasure: "None"
 alignment: "Always neutral"
 advancement: "9–12 HD (Medium); 13–24 HD (Large)"
 level-adjustment: "—"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Digester|Digester (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

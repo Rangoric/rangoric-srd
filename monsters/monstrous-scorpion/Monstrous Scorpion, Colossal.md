@@ -27,10 +27,7 @@ challenge-rating: 12
 treasure: "1/10 coins; 50% goods; 50% items"
 advancement: "41–60 HD (Colossal)"
 level-adjustment: "—"
-based-on:
-  - "[[fantasy srd 3.5/monsters/monstrous-scorpion/Monstrous Scorpion, Colossal|Monstrous Scorpion, Colossal (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

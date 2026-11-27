@@ -27,11 +27,7 @@ treasure: "Standard"
 alignment: "Usually neutral evil"
 advancement: "6–7 HD (Medium); 8–15 HD (Large)"
 level-adjustment: "+4"
-based-on:
-  - "[[path srd 3.5/monsters/Ettercap|Ettercap (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Ettercap|Ettercap (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

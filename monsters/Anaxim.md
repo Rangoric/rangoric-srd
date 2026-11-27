@@ -30,10 +30,7 @@ challenge-rating: 22
 treasure: "Standard"
 alignment: "Always lawful neutral"
 advancement: "39-48 HD (Large); 49-55 HD (Huge); 56-70 HD (Gargantuan); 71-140 HD (Colossal)"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Anaxim|Anaxim (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

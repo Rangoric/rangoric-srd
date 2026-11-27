@@ -28,12 +28,7 @@ treasure: "NPC Gear (studded leather armor, light steel shield, longsword, longb
 alignment: "Usually lawful evil"
 advancement: "By character class"
 level-adjustment: "+1"
-based-on:
-  - "[[path srd 3.5/monsters/Hobgoblin|Hobgoblin (PF1)]]"
-  - "[[path srd 3.5/rules/monster-codex/hobgoblins/Hobgoblins (Hobgoblins)|Hobgoblins, society (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Hobgoblin|Hobgoblin (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

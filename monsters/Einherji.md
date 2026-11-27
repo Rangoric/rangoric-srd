@@ -28,10 +28,7 @@ treasure: "Triple (+2 scale mail, +2 heavy wooden shield, +2 battleaxe, masterwo
 alignment: "Usually chaotic neutral"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Einherji|Einherji (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

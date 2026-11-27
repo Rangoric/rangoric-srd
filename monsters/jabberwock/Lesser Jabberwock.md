@@ -26,11 +26,7 @@ challenge-rating: "7"
 treasure: "None"
 alignment: "Chaotic evil"
 advancement: "8–10 HD (Huge); 11–21 HD (Gargantuan)"
-based-on:
-  - "[[individual books/Faeries/creatures/Jabberwock|Jabberwock (Faeries)]]"
-  - "[[individual books/Faeries/tables/Table p119 Greater Jabberwock|Table p119 Greater Jabberwock (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/monster]
 ---

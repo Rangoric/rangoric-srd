@@ -10,13 +10,7 @@ challenge-rating: [2, 4, 6, 7, 9, 10, 11, 13, 14, 15, 16, 18]
 treasure: "Triple"
 alignment: "Usually chaotic good"
 advancement: "Wyrmling 4 HD; very young 6 HD; young 8 HD; juvenile 10 HD; young adult 12 HD; adult 14 HD; mature adult 16 HD; old 18 HD; very old 20 HD; ancient 22 HD; wyrm 24 HD; great wyrm 26+ HD"
-based-on:
-  - "[[path srd 3.5/monsters/Dragon, Primal, Crystal|Primal Crystal Dragon (PF1)]]"
-  - "[[path srd 3.5/monsters/Dragon, Primal, Crystal, Young|Young Primal Crystal Dragon (PF1)]]"
-  - "[[path srd 3.5/monsters/Dragon, Primal, Crystal, Adult|Adult Primal Crystal Dragon (PF1)]]"
-  - "[[path srd 3.5/monsters/Dragon, Primal, Crystal, Ancient|Ancient Primal Crystal Dragon (PF1)]]"
 status: draft
-change: modified
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/monster]
 ---

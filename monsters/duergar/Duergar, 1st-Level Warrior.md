@@ -29,12 +29,7 @@ alignment: "Often lawful evil"
 advancement: "By character class"
 level-adjustment: "+1"
 group: "[[rangoric-srd/monsters/dwarf/Dwarf|Dwarf]]"
-based-on:
-  - "[[path srd 3.5/monsters/Duergar (Monster)|Duergar (PF1)]]"
-  - "[[path srd 3.5/rules/monster-codex/duergar/Duergar (Duergar)|Duergar, society (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/dwarf/Duergar, 1st-Level Warrior|Duergar, 1st-Level Warrior (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/monster]
 ---

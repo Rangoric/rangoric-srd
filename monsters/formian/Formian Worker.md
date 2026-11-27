@@ -29,11 +29,7 @@ alignment: "Always lawful neutral"
 advancement: "2–3 HD (Medium)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/formian/Formian|Formian]]"
-based-on:
-  - "[[path srd 3.5/monsters/Formian Worker|Formian Worker (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/formian/Formian Worker|Formian Worker (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---

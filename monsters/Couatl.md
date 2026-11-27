@@ -28,11 +28,7 @@ treasure: "Standard"
 alignment: "Always lawful good"
 advancement: "10–13 HD (Large); 14–27 HD (Huge)"
 level-adjustment: "+7"
-based-on:
-  - "[[path srd 3.5/monsters/Couatl|Couatl (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Couatl|Couatl (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---

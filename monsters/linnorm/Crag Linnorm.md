@@ -28,10 +28,7 @@ alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/linnorm/Linnorm|Linnorm]]"
-based-on:
-  - "[[path srd 3.5/monsters/Linnorm, Crag|Linnorm, Crag (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/monster]
 ---

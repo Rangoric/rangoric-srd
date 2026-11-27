@@ -27,10 +27,7 @@ challenge-rating: 8
 treasure: "1/10 coins; 50% goods; 50% items"
 advancement: "17–31 HD (Gargantuan)"
 level-adjustment: "—"
-based-on:
-  - "[[fantasy srd 3.5/monsters/monstrous-spider/Monstrous Spider, Gargantuan|Monstrous Spider, Gargantuan (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

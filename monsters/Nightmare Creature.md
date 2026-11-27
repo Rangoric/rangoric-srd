@@ -27,19 +27,7 @@ treasure: "Standard"
 alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Nightmare Creature|Nightmare Creature (PF1)]]"
-  - "[[path srd 3.5/monsters/Nightmare Creature#Creating a Nightmare Creature|Creating a Nightmare Creature (PF1)]]"
-  - "[[path srd 3.5 foundry/monster-templates/Nightmare Creature|Nightmare Creature (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Feign Death|Feign Death (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Illusion Resistance (Template Ability)|Illusion Resistance (Template Ability) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Regeneration 5 (Nightmare Creature)|Regeneration 5 (Nightmare Creature) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Fear Aura (Nightmare Creature)|Fear Aura (Nightmare Creature) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Frightful Presence (Nightmare Creature)|Frightful Presence (Nightmare Creature) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Night Terrors (Template Ability)|Night Terrors (Template Ability) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/monsters/bestiary-4/Nightmare Ettercap|Nightmare Ettercap (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

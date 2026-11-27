@@ -6,7 +6,6 @@ creature-type: "Humanoid"
 subtypes:
   - "Human"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

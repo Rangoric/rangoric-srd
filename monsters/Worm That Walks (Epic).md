@@ -25,10 +25,7 @@ challenge-rating: 26
 treasure: "As character"
 alignment: "Any evil"
 advancement: "As character"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Worm That Walks|Worm That Walks (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

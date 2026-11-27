@@ -28,11 +28,7 @@ treasure: "None"
 alignment: "Always neutral evil"
 advancement: "2–3 HD (Small)"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Vargouille|Vargouille (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Vargouille|Vargouille (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---

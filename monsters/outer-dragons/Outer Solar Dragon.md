@@ -10,13 +10,7 @@ challenge-rating: [5, 7, 9, 10, 12, 13, 14, 16, 17, 18, 19, 21]
 treasure: "Triple"
 alignment: "Usually lawful neutral"
 advancement: "Wyrmling 8 HD; very young 10 HD; young 12 HD; juvenile 14 HD; young adult 16 HD; adult 18 HD; mature adult 20 HD; old 22 HD; very old 24 HD; ancient 26 HD; wyrm 28 HD; great wyrm 30+ HD"
-based-on:
-  - "[[path srd 3.5/monsters/Dragon, Outer, Solar|Outer Solar Dragon (PF1)]]"
-  - "[[path srd 3.5/monsters/Dragon, Outer, Solar, Young|Young Outer Solar Dragon (PF1)]]"
-  - "[[path srd 3.5/monsters/Dragon, Outer, Solar, Adult|Adult Outer Solar Dragon (PF1)]]"
-  - "[[path srd 3.5/monsters/Dragon, Outer, Solar, Ancient|Ancient Outer Solar Dragon (PF1)]]"
 status: draft
-change: modified
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/monster]
 ---
