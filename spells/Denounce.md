@@ -4,8 +4,8 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "Language-dependent"
-  - "Mind-affecting"
+  - "Language-Dependent"
+  - "Mind-Affecting"
 level:
   - "Brd 4"
   - "Inq 4"
@@ -30,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 # Denounce
 
-_Enchantment (Compulsion) \[Language-dependent, Mind-affecting\]_
+_Enchantment (Compulsion) \[Language-Dependent, Mind-Affecting\]_
 
 - **Level**: Brd 4, Inq 4, Mes 4, Psy 5, Skd 4
 - **Components**: V

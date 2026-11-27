@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Brd 1"
   - "Mes 1"
@@ -31,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 # Compulsive Liar
 
-_Enchantment (Compulsion) \[MindAffecting\]_
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Brd 1, Mes 1, Psy 2, Skd 1, Sor/Wiz 2, Wit 2
 - **Components**: V, S

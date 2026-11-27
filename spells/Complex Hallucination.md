@@ -4,7 +4,7 @@ section: "Spells"
 school: "Illusion"
 subschool: "Phantasm"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Brd 4"
   - "Mag 4"
@@ -33,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 # Complex Hallucination
 
-_Illusion (Phantasm) \[MindAffecting\]_
+_Illusion (Phantasm) \[Mind-Affecting\]_
 
 - **Level**: Brd 4, Mag 4, Med 3, Mes 4, Occ 4, Psy 4, Skd 4, Sor/Wiz 4, Wit 4
 - **Components**: S

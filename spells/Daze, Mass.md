@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Brd 4"
   - "Inq 4"
@@ -36,7 +36,7 @@ tags: [rangoric, rangoric/spell]
 
 # Daze, Mass
 
-_Enchantment (Compulsion) \[Mind-affecting\]_
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Brd 4, Inq 4, Med 3, Mes 4, Occ 4, Psy 3, Skd 4, Sor/Wiz 4, Sum 4, SumU 4, Wit 4
 - **Components**: V, S

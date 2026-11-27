@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Apl 2"
   - "Drd 3"
@@ -30,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 # Bleed for Your Master
 
-_Enchantment (Compulsion) \[MindAffecting\]_
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Apl 2, Drd 3, Hun 3, Rgr 3, Sor/Wiz 3, Wit 3
 - **Components**: V, S

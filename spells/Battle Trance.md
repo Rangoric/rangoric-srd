@@ -5,7 +5,7 @@ school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
   - "Emotion"
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Alc 3"
   - "Apl 3"
@@ -33,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 # Battle Trance
 
-_Enchantment (Compulsion) \[Emotion, Mind-affecting\]_
+_Enchantment (Compulsion) \[Emotion, Mind-Affecting\]_
 
 - **Level**: Alc 3, Apl 3, Clr 4, Hun 3, Inq 3, Rgr 3, Wit 4
 - **Components**: V, S

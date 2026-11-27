@@ -4,8 +4,8 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "Language-dependent"
-  - "Mind-affecting"
+  - "Language-Dependent"
+  - "Mind-Affecting"
 level:
   - "Inq 2"
   - "Mes 2"
@@ -30,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 # Confess
 
-_Enchantment (Compulsion) \[Language-dependent, Mind-affecting\]_
+_Enchantment (Compulsion) \[Language-Dependent, Mind-Affecting\]_
 
 - **Level**: Inq 2, Mes 2, Psy 2
 - **Components**: V, S, DF

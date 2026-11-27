@@ -5,7 +5,7 @@ school: "Necromancy"
 descriptor:
   - "Emotion"
   - "Fear"
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Brd 4"
   - "Mes 4"
@@ -34,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 # Feast on Fear
 
-_Necromancy \[Emotion, Fear, Mind-affecting\]_
+_Necromancy \[Emotion, Fear, Mind-Affecting\]_
 
 - **Level**: Brd 4, Mes 4, Psy 5, Sha 5, Skd 4, Sor/Wiz 5, Spi 5, Wit 5
 - **Components**: V, S

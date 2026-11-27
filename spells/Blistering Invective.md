@@ -4,7 +4,7 @@ section: "Spells"
 school: "Evocation"
 descriptor:
   - "Fire"
-  - "Language-dependent"
+  - "Language-Dependent"
 level:
   - "Alc 2"
   - "Brd 2"
@@ -30,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 # Blistering Invective
 
-_Evocation \[Fire, Language-dependent\]_
+_Evocation \[Fire, Language-Dependent\]_
 
 - **Level**: Alc 2, Brd 2, Inq 2, Mes 2, Skd 2
 - **Components**: V, S

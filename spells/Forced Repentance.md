@@ -5,7 +5,7 @@ school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
   - "Emotion"
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Inq 4"
   - "Pal 4"
@@ -29,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 # Forced Repentance
 
-_Enchantment (Compulsion) \[Emotion, Mind-affecting\]_
+_Enchantment (Compulsion) \[Emotion, Mind-Affecting\]_
 
 - **Level**: Inq 4, Pal 4
 - **Components**: V, S, DF

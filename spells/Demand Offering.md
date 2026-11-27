@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Apl 1"
   - "Brd 2"
@@ -34,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 # Demand Offering
 
-_Enchantment (Compulsion) \[MindAffecting\]_
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Apl 1, Brd 2, Inq 2, Mes 1, Occ 2, Psy 2, Skd 2, Sor/Wiz 2, Wit 2
 - **Components**: V, S

@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Alc 2"
   - "Apl 2"
@@ -37,7 +37,7 @@ tags: [rangoric, rangoric/spell]
 
 # Bestow Weapon Proficiency
 
-_Enchantment (Compulsion) \[Mind-affecting\]_
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Alc 2, Apl 2, Clr 2, Inq 2, Mag 2, Med 2, Occ 2, Pal 2, Psy 2, Sor/Wiz 2, Wit 2
 - **Components**: V, S, M (pieces of shaved metal)

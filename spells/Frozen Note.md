@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
   - "Sonic"
 level:
   - "Brd 5"
@@ -27,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 # Frozen Note
 
-_Enchantment (Compulsion) \[Mind-affecting, Sonic\]_
+_Enchantment (Compulsion) \[Mind-Affecting, Sonic\]_
 
 - **Level**: Brd 5, Skd 5
 - **Components**: V

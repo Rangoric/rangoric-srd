@@ -5,7 +5,7 @@ school: "Necromancy"
 descriptor:
   - "Death"
   - "Fear"
-  - "Mind-affecting"
+  - "Mind-Affecting"
   - "Sonic"
 level:
   - "Sor/Wiz 6"
@@ -30,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 # Banshee Blast
 
-_Necromancy \[Death, Fear, Mind-affecting, Sonic\]_
+_Necromancy \[Death, Fear, Mind-Affecting, Sonic\]_
 
 - **Level**: Sor/Wiz 6, Spi 6, Wit 6
 - **Components**: V, S

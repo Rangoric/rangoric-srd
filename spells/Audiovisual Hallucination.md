@@ -4,7 +4,7 @@ section: "Spells"
 school: "Illusion"
 subschool: "Phantasm"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Brd 3"
   - "Mag 3"
@@ -32,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 # Audiovisual Hallucination
 
-_Illusion (Phantasm) \[MindAffecting\]_
+_Illusion (Phantasm) \[Mind-Affecting\]_
 
 - **Level**: Brd 3, Mag 3, Med 2, Mes 3, Occ 3, Psy 3, Skd 3, Sor/Wiz 3
 - **Components**: S

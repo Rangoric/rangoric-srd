@@ -4,7 +4,7 @@ section: "Spells"
 school: "Illusion"
 subschool: "Shadow"
 descriptor:
-  - "LanguageDependent"
+  - "Language-Dependent"
   - "Shadow"
 level:
   - "Apl 1"
@@ -35,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 # Dark Whispers
 
-_Illusion (Shadow) \[LanguageDependent, Shadow\]_
+_Illusion (Shadow) \[Language-Dependent, Shadow\]_
 
 - **Level**: Apl 1, Brd 2, Clr 2, Skd 2, Sor/Wiz 2, Sum 2, SumU 2, Wit 2
 - **Components**: V, S, F, F/DF

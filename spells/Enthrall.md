@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Charm"
 descriptor:
-  - "Language Dependent"
+  - "Language-Dependent"
   - "Mind-Affecting"
   - "Sonic"
 level:
@@ -35,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 # Enthrall
 
-_Enchantment (Charm) \[Language Dependent, Mind-Affecting, Sonic\]_
+_Enchantment (Charm) \[Language-Dependent, Mind-Affecting, Sonic\]_
 
 - **Level**: Brd 2, Clr 2, Inq 2, Mes 2, Psy 2, Sha 2, Skd 2, Wit 2
 - **Components**: V, S

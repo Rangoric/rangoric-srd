@@ -2,9 +2,9 @@
 srd-type: "spell"
 section: "Spells"
 school: "Transmutation"
+subschool: "Polymorph"
 descriptor:
-  - "MindAffecting"
-  - "Polymorph"
+  - "Mind-Affecting"
 level:
   - "Drd 7"
   - "Sor/Wiz 6"
@@ -28,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 # Delectable Flesh
 
-_Transmutation \[MindAffecting, Polymorph\]_
+_Transmutation (Polymorph) \[Mind-Affecting\]_
 
 - **Level**: Drd 7, Sor/Wiz 6, Wit 6
 - **Components**: V, S

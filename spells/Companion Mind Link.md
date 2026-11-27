@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Charm"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Drd 3"
   - "Hun 3"
@@ -26,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 # Companion Mind Link
 
-_Enchantment (Charm) \[Mind-affecting\]_
+_Enchantment (Charm) \[Mind-Affecting\]_
 
 - **Level**: Drd 3, Hun 3, Rgr 3
 - **Components**: V, S

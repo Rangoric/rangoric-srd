@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Brd 3"
   - "Clr 4"
@@ -34,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 # Control Summoned Creature
 
-_Enchantment (Compulsion) \[Mind-affecting\]_
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Brd 3, Clr 4, Mes 3, Occ 3, Psy 4, Skd 3, Sor/Wiz 4, Sum 3, SumU 3
 - **Components**: V, S

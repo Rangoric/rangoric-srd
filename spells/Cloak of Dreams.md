@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Brd 5"
   - "Mes 5"
@@ -34,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 # Cloak of Dreams
 
-_Enchantment (Compulsion) \[Mind-affecting\]_
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Brd 5, Mes 5, Occ 6, Psy 6, Sha 7, Skd 5, Sor/Wiz 6, Wit 6
 - **Components**: V, S, M (a rose petal and a drop of perfume)

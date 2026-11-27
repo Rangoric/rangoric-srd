@@ -3,7 +3,8 @@ srd-type: "spell"
 section: "Spells"
 school: "Evocation"
 descriptor:
-  - "Fire or Cold"
+  - "Fire"
+  - "Cold"
 level:
   - "Alc 4"
   - "Blr 4"

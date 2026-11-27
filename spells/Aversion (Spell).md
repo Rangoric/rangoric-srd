@@ -6,7 +6,7 @@ aliases:
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Brd 2"
   - "Drd 3"
@@ -36,7 +36,7 @@ tags: [rangoric, rangoric/spell]
 
 # Aversion
 
-_Enchantment (Compulsion) \[MindAffecting\]_
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Brd 2, Drd 3, Hun 3, Mes 2, Occ 2, Psy 2, Skd 2, Sor/Wiz 3, Wit 3
 - **Components**: V, S

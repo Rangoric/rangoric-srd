@@ -4,7 +4,7 @@ section: "Spells"
 school: "Illusion"
 subschool: "Phantasm"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Brd 6"
   - "Med 4"
@@ -31,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 # Dream Council
 
-_Illusion (Phantasm) \[MindAffecting\]_
+_Illusion (Phantasm) \[Mind-Affecting\]_
 
 - **Level**: Brd 6, Med 4, Mes 5, Psy 6, Skd 6, Sor/Wiz 7
 - **Components**: V, S
