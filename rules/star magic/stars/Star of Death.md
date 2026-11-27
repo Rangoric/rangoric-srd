@@ -13,10 +13,7 @@ target: "One creature"
 duration: "2 rounds + 1 round/level"
 defense: "Fortitude"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/stars/Death|Death (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/star]
 ---

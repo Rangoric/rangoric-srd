@@ -1,11 +1,7 @@
 ---
 srd-type: "condition"
 section: "Conditions"
-based-on:
-  - "[[fantasy srd 3.5/rules/Special Abilities and Conditions|Special Abilities and Conditions (3.5)]]"
-  - "[[fantasy srd 3.5/skills/Hide|Hide (3.5)]]"
 status: draft
-change: new
 pi-review: 2026-10-20
 tags: [rangoric, rangoric/condition]
 ---

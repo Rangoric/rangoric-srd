@@ -8,10 +8,7 @@ attack-bonus: 2
 frequency: "1/hour"
 effect: "1 Wis damage"
 cure: "1 miss"
-based-on:
-  - "[[path srd 3.5/monsters/Howler|Howler (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/affliction]
 ---

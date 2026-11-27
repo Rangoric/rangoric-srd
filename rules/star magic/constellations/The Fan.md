@@ -15,10 +15,7 @@ target: "One creature"
 duration: "1 week or until its next Profession check"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/constellations/The Fan|The Fan (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/constellation]
 ---

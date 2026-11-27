@@ -8,11 +8,7 @@ onset: "1 day"
 frequency: "1/day"
 effect: "–2 Con"
 cure: "2 consecutive misses"
-based-on:
-  - "[[path srd 3.5/afflictions/Minor Addiction|Minor Addiction (PF1)]]"
-  - "[[path srd 3.5/rules/game-mastery-guide/drugs-and-addiction/Addiction|Addiction (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/affliction]
 ---

@@ -8,10 +8,7 @@ attack-bonus: 15
 frequency: "1/round for 6 rounds"
 effect: "1d4 Str (good-aligned creatures also take 2d8 damage)"
 cure: "2 consecutive misses"
-based-on:
-  - "[[path srd 3.5/monsters/Xacarba|Xacarba (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/affliction]
 ---

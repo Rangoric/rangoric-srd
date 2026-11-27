@@ -3,14 +3,7 @@ srd-type: "skill"
 section: "Skills"
 key-ability: "Dex"
 armor-check-penalty: true
-based-on:
-  - "[[path srd 3.5/rules/pathfinder-unchained/Skill Unlocks|Skill Unlocks (PF1 Unchained)]]"
-  - "[[path srd 3.5/skills/Fly (Skill)|Fly (Skill) (PF1)]]"
-  - "[[fantasy srd 3.5/skills/Balance|Balance (3.5)]]"
-  - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
-  - "[[fantasy srd 3.5/skills/Tumble|Tumble (3.5)]]"
 status: draft
-change: new
 pi-review: 2026-10-22
 tags: [rangoric, rangoric/skill, core]
 ---

@@ -1,10 +1,7 @@
 ---
 srd-type: "designer-reference"
 section: "Design Notes"
-based-on:
-  - "[[path srd 3.5/rules/ultimate-magic/mastering-magic/Designing Spells|Designing Spells (PF1 Ultimate Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/designer-reference]
 ---

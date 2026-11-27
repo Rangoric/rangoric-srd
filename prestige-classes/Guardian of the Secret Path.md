@@ -7,11 +7,7 @@ fort: good
 ref: good
 will: good
 skill-points: "2 + Int modifier"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/prestige-classes/Guardian of the Secret Path|Guardian of the Secret Path (Star Magic)]]"
-  - "[[individual books/Encyclopaedia Arcane Star Magic/tables/The Guardian of the Secret Path|Table: The Guardian of the Secret Path (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class]
 ---

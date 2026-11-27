@@ -8,10 +8,7 @@ attack-bonus: 8
 frequency: "1/round for 8 rounds"
 effect: "1d2 Con"
 cure: "2 consecutive misses"
-based-on:
-  - "[[path srd 3.5/monsters/Phase Spider|Phase Spider (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/affliction]
 ---

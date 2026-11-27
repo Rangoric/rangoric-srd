@@ -8,10 +8,7 @@ attack-bonus: 4
 frequency: "1/round for 6 rounds"
 effect: "1 Con and 1 Cha"
 cure: "2 consecutive misses"
-based-on:
-  - "[[path srd 3.5/monsters/Jellyfish, Death's Head|Jellyfish, Death's Head (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/affliction]
 ---

@@ -9,12 +9,7 @@ frequency: "1/round for 4 rounds"
 effect: "see text"
 cure: "1 miss"
 price: "200 gp"
-based-on:
-  - "[[path srd 3.5/items/uncommon-race/Spellscorch (Item)|Spellscorch (PF1)]]"
-  - "[[path srd 3.5/afflictions/Spellscorch (Affliction)|Spellscorch (Affliction) (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Spellscorch|Spellscorch (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/affliction]
 ---

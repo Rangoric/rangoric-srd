@@ -1,10 +1,7 @@
 ---
 srd-type: "rules"
 section: "Rules"
-based-on:
-  - "[[path srd 3.5/rules/ultimate-combat/mastering-combat/Siege Engines|Siege Engines (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/rules]
 ---

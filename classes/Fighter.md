@@ -8,11 +8,7 @@ fort: good
 ref: poor
 will: poor
 skill-points: "2 + Int modifier"
-based-on:
-  - "[[path srd 3.5/classes/Fighter|Fighter (PF1)]]"
-  - "[[fantasy srd 3.5/classes/Fighter|Fighter (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/class]
 ---

@@ -1,10 +1,7 @@
 ---
 srd-type: "overview"
 section: "Psionics"
-based-on:
-  - "[[fantasy srd 3.5/psionics/Psionic Cursed Items and Artifacts|Psionic Cursed Items and Artifacts (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---

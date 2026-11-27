@@ -1,10 +1,7 @@
 ---
 srd-type: "flavor"
 place-kind: region
-based-on:
-  - "[[individual books/Faeries/places/Meadows of Fertility|Meadows of Fertility (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/flavor, flavor]
 ---

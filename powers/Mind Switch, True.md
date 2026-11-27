@@ -11,10 +11,7 @@ duration: "Instantaneous"
 defense: "Will; see text"
 power-resistance: "Yes"
 power-points: "17, XP"
-based-on:
-  - "[[fantasy srd 3.5/powers/Mind Switch, True|Mind Switch, True (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

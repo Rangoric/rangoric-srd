@@ -6,10 +6,7 @@ skills:
   - "[[rangoric-srd/skills/Fieldcraft|Fieldcraft]]"
   - "[[rangoric-srd/skills/Medicine|Medicine]]"
 provokes: false
-based-on:
-  - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
 status: draft
-change: new
 pi-review: 2026-10-31
 tags: [rangoric, rangoric/action, first-aid]
 ---

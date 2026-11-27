@@ -1,10 +1,7 @@
 ---
 srd-type: "overview"
 section: "Combat"
-based-on:
-  - "[[fantasy srd 3.5/combat/Combat Initiative and Attacks of Opportunity|Combat Initiative and Attacks of Opportunity (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---

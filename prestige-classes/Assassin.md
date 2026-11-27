@@ -8,11 +8,7 @@ ref: good
 will: poor
 alignment: "Any evil"
 skill-points: "4 + Int modifier"
-based-on:
-  - "[[fantasy srd 3.5/prestige-classes/Assassin|Assassin (3.5)]]"
-  - "[[path srd 3.5/classes/Assassin|Assassin (PF1)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/class]
 ---

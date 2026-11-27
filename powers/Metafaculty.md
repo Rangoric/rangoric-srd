@@ -10,10 +10,7 @@ range: "Personal"
 target: "You"
 duration: "Instantaneous and 1 min./level (D); see text"
 power-points: "17, XP"
-based-on:
-  - "[[fantasy srd 3.5/powers/Metafaculty|Metafaculty (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

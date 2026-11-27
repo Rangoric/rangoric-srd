@@ -6,11 +6,7 @@ attack: "+4 vs Will"
 attack-bonus: 4
 onset: "1 day"
 effect: "sickened (mania) or shaken (phobia) near its source"
-based-on:
-  - "[[path srd 3.5/afflictions/Mania-Phobia|Mania-Phobia (PF1)]]"
-  - "[[path srd 3.5/rules/game-mastery-guide/sanity-and-madness/Types of Insanity|Types of Insanity (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/affliction]
 ---

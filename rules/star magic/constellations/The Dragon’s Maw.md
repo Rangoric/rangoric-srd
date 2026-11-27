@@ -18,10 +18,7 @@ area: "15-ft.-radius spread"
 duration: "Instantaneous, or 3 or 9 rounds at higher call levels (see text)"
 defense: "Reflex half"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/constellations/The Dragon’s Maw|The Dragon’s Maw (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/constellation]
 ---

@@ -1,9 +1,6 @@
 ---
 srd-type: "flavor"
-based-on:
-  - "[[individual books/Faeries/rules/Understanding the Fey A short treatise by Merle of Endswick|Understanding the Fey (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/flavor, flavor]
 ---

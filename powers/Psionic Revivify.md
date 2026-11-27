@@ -14,10 +14,7 @@ duration: "Instantaneous"
 defense: "None"
 power-resistance: "Yes (harmless)"
 power-points: "9, XP"
-based-on:
-  - "[[fantasy srd 3.5/powers/Psionic Revivify|Psionic Revivify (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power, good]
 ---

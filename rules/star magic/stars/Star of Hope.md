@@ -15,10 +15,7 @@ area: "10-ft.-radius spread"
 duration: "1 hour/level"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/stars/Hope|Hope (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/star]
 ---

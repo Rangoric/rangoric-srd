@@ -7,10 +7,7 @@ fort: good
 ref: poor
 will: good
 skill-points: "2 + Int modifier"
-based-on:
-  - "[[path srd 3.5/classes/Holy Vindicator|Holy Vindicator (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/class]
 ---

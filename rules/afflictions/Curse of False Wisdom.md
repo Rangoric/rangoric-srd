@@ -7,10 +7,7 @@ attack: "+21 vs Will"
 attack-bonus: 21
 frequency: "1/day"
 effect: "1d6 Wis drain"
-based-on:
-  - "[[path srd 3.5/monsters/Asura, Asurendra|Asurendra (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/affliction]
 ---

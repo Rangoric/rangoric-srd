@@ -8,10 +8,7 @@ attack-bonus: 17
 frequency: "1/round for 6 rounds"
 effect: "1d4 Str, 1d4 Dex and 1d4 Con"
 cure: "3 misses"
-based-on:
-  - "[[path srd 3.5/monsters/Scorpion, Black|Scorpion, Black (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/affliction]
 ---

@@ -7,11 +7,7 @@ fort: good
 ref: poor
 will: good
 skill-points: "2 + Int modifier"
-based-on:
-  - "[[individual books/Faeries/prestige-classes/Knight of the Fey|Knight of the Fey (Faeries)]]"
-  - "[[individual books/Faeries/tables/Table 11 The Knight of the Fey|Table 11 The Knight of the Fey (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class]
 ---

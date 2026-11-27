@@ -7,12 +7,7 @@ fort: good
 ref: poor
 will: good
 skill-points: "2 + Int modifier"
-based-on:
-  - "[[path srd 3.5/classes/Dragon Disciple|Dragon Disciple (PF1)]]"
-  - "[[fantasy srd 3.5/prestige-classes/Dragon Disciple|Dragon Disciple (3.5)]]"
-  - "[[path srd 3.5/classes/Dragon Disciple|Dragon Disciple (PF1)]]"
 status: draft
-change: modified
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/class]
 ---

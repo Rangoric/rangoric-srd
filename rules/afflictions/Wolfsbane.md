@@ -10,11 +10,7 @@ frequency: "1/minute for 6 minutes"
 effect: "1d3 Con"
 cure: "1 miss"
 price: "500 gp"
-based-on:
-  - "[[path srd 3.5/afflictions/Wolfsbane|Wolfsbane (PF1)]]"
-  - "[[path srd 3.5/rules/ultimate-equipment/gear/Poisons|Poisons (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/affliction]
 ---

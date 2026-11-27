@@ -8,23 +8,7 @@ fort: good
 ref: poor
 will: good
 skill-points: "4 + Int modifier"
-based-on:
-  - "[[path srd 3.5 foundry/classes/Occultist|Occultist (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Implements|Implements (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Mental Focus|Mental Focus (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Focus Powers|Focus Powers (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Knacks (OCC)|Knacks (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Magic Item Skill|Magic Item Skill (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Object Reading (Occultist)|Object Reading (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Shift Focus|Shift Focus (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Aura Sight (Occultist)|Aura Sight (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Magic Circles|Magic Circles (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Outside Contact|Outside Contact (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Binding Circles|Binding Circles (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Fast Circles|Fast Circles (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Implement Mastery (Occultist)|Implement Mastery (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class]
 ---

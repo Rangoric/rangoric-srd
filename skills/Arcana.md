@@ -2,11 +2,7 @@
 srd-type: "skill"
 section: "Skills"
 key-ability: "Int"
-based-on:
-  - "[[fantasy srd 3.5/skills/Knowledge|Knowledge (3.5)]]"
-  - "[[path srd 3.5 foundry/rules/Skills#Phrenology (Arcana)|Phrenology (Arcana) (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-10-30
 tags: [rangoric, rangoric/skill, core, knowledge]
 ---

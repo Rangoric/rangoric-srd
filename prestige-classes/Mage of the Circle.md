@@ -7,11 +7,7 @@ fort: poor
 ref: poor
 will: good
 skill-points: "4 + Int modifier"
-based-on:
-  - "[[individual books/Faeries/prestige-classes/Mage of the Circle|Mage of the Circle (Faeries)]]"
-  - "[[individual books/Faeries/tables/Table 12 The Mage of the Circle|Table 12 The Mage of the Circle (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class]
 ---

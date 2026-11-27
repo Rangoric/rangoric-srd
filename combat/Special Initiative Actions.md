@@ -1,10 +1,7 @@
 ---
 srd-type: "overview"
 section: "Combat"
-based-on:
-  - "[[fantasy srd 3.5/combat/Special Initiative Actions|Special Initiative Actions (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---

@@ -7,10 +7,7 @@ fort: good
 ref: poor
 will: good
 skill-points: "4 + Int modifier"
-based-on:
-  - "[[path srd 3.5/classes/Nature Warden|Nature Warden (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/class]
 ---

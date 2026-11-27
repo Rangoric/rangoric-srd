@@ -12,10 +12,7 @@ duration: "Concentration, up to 10 min./level"
 defense: "None"
 power-resistance: "No"
 power-points: "3"
-based-on:
-  - "[[fantasy srd 3.5/powers/Sensitivity to Psychic Impressions|Sensitivity to Psychic Impressions (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

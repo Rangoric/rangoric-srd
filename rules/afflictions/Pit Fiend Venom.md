@@ -8,10 +8,7 @@ attack-bonus: 22
 frequency: "1/round for 10 rounds"
 effect: "1d6 Con"
 cure: "3 consecutive misses"
-based-on:
-  - "[[path srd 3.5/monsters/Pit Fiend|Pit Fiend (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/affliction]
 ---

@@ -12,10 +12,7 @@ duration: "1 min./level"
 defense: "Will (harmless)"
 power-resistance: "Yes (harmless)"
 power-points: "9"
-based-on:
-  - "[[fantasy srd 3.5/powers/Power Resistance|Power Resistance (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

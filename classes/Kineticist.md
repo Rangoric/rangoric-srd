@@ -8,10 +8,7 @@ fort: good
 ref: good
 will: poor
 skill-points: "4 + Int modifier"
-based-on:
-  - "[[path srd 3.5 foundry/classes/Kineticist|Kineticist (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class]
 ---

@@ -12,10 +12,7 @@ range: "Medium (100 ft. + 10 ft./level)"
 target: "One willing creature"
 duration: "Concentration, up to 1min./level"
 power-points: "1"
-based-on:
-  - "[[fantasy srd 3.5/powers/Sense Link|Sense Link (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

@@ -6,11 +6,7 @@ attack: "+7 vs Fortitude"
 attack-bonus: 7
 frequency: "1/round"
 effect: "1d2 Con per grub"
-based-on:
-  - "[[path srd 3.5/afflictions/Rot Grubs|Rot Grubs (PF1)]]"
-  - "[[path srd 3.5/rules/game-mastery-guide/hazards/Sample Hazards#Rot Grubs (CR 4)|Sample Hazards (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/affliction]
 ---

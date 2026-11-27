@@ -8,10 +8,7 @@ attack-bonus: 9
 frequency: "1 round"
 effect: "sleep for 2d4 minutes"
 cure: "1 miss"
-based-on:
-  - "[[path srd 3.5/monsters/Naga, Dark|Naga, Dark (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/affliction]
 ---

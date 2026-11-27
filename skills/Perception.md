@@ -2,15 +2,7 @@
 srd-type: "skill"
 section: "Skills"
 key-ability: "Wis"
-based-on:
-  - "[[path srd 3.5/rules/pathfinder-unchained/Skill Unlocks|Skill Unlocks (PF1 Unchained)]]"
-  - "[[fantasy srd 3.5/skills/Spot|Spot (3.5)]]"
-  - "[[fantasy srd 3.5/skills/Listen|Listen (3.5)]]"
-  - "[[path srd 3.5/skills/Perception|Perception (PF1)]]"
-  - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
-  - "[[path srd 3.5 foundry/rules/Skills#Read Aura|Read Aura (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-10-18
 tags: [rangoric, rangoric/skill, core]
 ---

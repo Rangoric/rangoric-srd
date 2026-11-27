@@ -9,10 +9,7 @@ level:
 defense: "Will"
 power-resistance: "Yes"
 power-points: "3"
-based-on:
-  - "[[fantasy srd 3.5/powers/Sense Link, Forced|Sense Link, Forced (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

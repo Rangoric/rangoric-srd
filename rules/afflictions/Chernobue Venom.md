@@ -8,10 +8,7 @@ attack-bonus: 13
 frequency: "1/round for 6 rounds"
 effect: "1d2 Con drain"
 cure: "1 miss"
-based-on:
-  - "[[path srd 3.5/monsters/Qlippoth, Chernobue|Chernobue (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/affliction]
 ---

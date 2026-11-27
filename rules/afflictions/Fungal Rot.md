@@ -9,10 +9,7 @@ onset: "1 day"
 frequency: "1/day"
 effect: "1d2 Str, 1 Con and fatigued"
 cure: "1 miss"
-based-on:
-  - "[[path srd 3.5/monsters/Slime Mold|Slime Mold (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/affliction]
 ---

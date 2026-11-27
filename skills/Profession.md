@@ -2,11 +2,7 @@
 srd-type: "skill"
 section: "Skills"
 key-ability: "Wis"
-based-on:
-  - "[[path srd 3.5/rules/pathfinder-unchained/Skill Unlocks|Skill Unlocks (PF1 Unchained)]]"
-  - "[[fantasy srd 3.5/skills/Profession|Profession (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/skill, background]
 ---

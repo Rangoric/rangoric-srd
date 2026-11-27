@@ -13,10 +13,7 @@ area: "20-ft.-radius burst"
 duration: "Instantaneous (light: 1 day/level)"
 defense: "Reflex half"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/stars/Light|Light (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/star]
 ---

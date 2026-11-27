@@ -6,10 +6,7 @@ attack: "+10 vs Will to curse, no defense against its effects"
 attack-bonus: 10
 frequency: "1/hour"
 effect: "target must reroll any roll decided by the GM and take the worse result"
-based-on:
-  - "[[path srd 3.5/afflictions/Unluck|Unluck (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/affliction]
 ---

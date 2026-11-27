@@ -1,19 +1,7 @@
 ---
 srd-type: "overview"
 section: "Rules"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/rules/Mirror Magic|Mirror Magic (Spells & Magic)]]"
-  - "[[individual books/Spells & Magic v3.0/rules/The Reflecting World|The Reflecting World (Spells & Magic)]]"
-  - "[[individual books/Spells & Magic v3.0/rules/The Art of Glass and Silver|The Art of Glass and Silver (Spells & Magic)]]"
-  - "[[individual books/Spells & Magic v3.0/rules/Slaves of Glass|Slaves of Glass (Spells & Magic)]]"
-  - "[[individual books/Spells & Magic v3.0/rules/Powers of Glass Shadows|Powers of Glass Shadows (Spells & Magic)]]"
-  - "[[individual books/Spells & Magic v3.0/tables/Table 10 The Glass|Table 10 The Glass (Spells & Magic)]]"
-  - "[[individual books/Spells & Magic v3.0/tables/Table 11 Creating the Frame|Table 11 Creating the Frame (Spells & Magic)]]"
-  - "[[individual books/Spells & Magic v3.0/tables/Table 12 Creating the Backing|Table 12 Creating the Backing (Spells & Magic)]]"
-  - "[[individual books/Spells & Magic v3.0/tables/Table 13 The Interior|Table 13 The Interior (Spells & Magic)]]"
-  - "[[individual books/Spells & Magic v3.0/tables/Table 14 Mirror Durability|Table 14 Mirror Durability (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/overview]
 ---

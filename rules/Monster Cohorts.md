@@ -1,10 +1,7 @@
 ---
 srd-type: "rules"
 section: "Rules"
-based-on:
-  - "[[path srd 3.5/rules/bestiary/misc-monster-rules/Monster Cohorts|Monster Cohorts (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/rules]
 ---

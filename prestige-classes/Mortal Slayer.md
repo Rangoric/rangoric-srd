@@ -7,11 +7,7 @@ fort: good
 ref: good
 will: poor
 skill-points: "2 + Int modifier"
-based-on:
-  - "[[individual books/Faeries/prestige-classes/Mortal Slayer|Mortal Slayer (Faeries)]]"
-  - "[[individual books/Faeries/tables/Table 13 The Mortal Slayer|Table 13 The Mortal Slayer (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class]
 ---

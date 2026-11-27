@@ -13,10 +13,7 @@ area: "10-ft.-radius + 5 ft./level spread, centered on a fixed point"
 duration: "1 hour/level"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/stars/Darkness|Darkness (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/star]
 ---

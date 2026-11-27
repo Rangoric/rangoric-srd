@@ -7,11 +7,7 @@ fort: poor
 ref: good
 will: poor
 skill-points: "6 + Int modifier"
-based-on:
-  - "[[individual books/Faeries/prestige-classes/Fae-walker|Fae-walker (Faeries)]]"
-  - "[[individual books/Faeries/tables/Table 7 The Fae-walker|Table 7 The Fae-walker (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class]
 ---

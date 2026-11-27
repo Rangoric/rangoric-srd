@@ -14,10 +14,7 @@ duration: "Instantaneous"
 defense: "Will"
 power-resistance: "Yes"
 power-points: "17, XP; see text"
-based-on:
-  - "[[fantasy srd 3.5/powers/Psychic Chirurgery|Psychic Chirurgery (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

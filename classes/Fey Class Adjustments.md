@@ -1,10 +1,7 @@
 ---
 srd-type: "overview"
 section: "Classes"
-based-on:
-  - "[[individual books/Faeries/rules/Classes|Classes (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/overview]
 ---

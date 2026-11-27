@@ -8,10 +8,7 @@ attack-bonus: 12
 frequency: "1/round for 6 rounds"
 effect: "1d2 Con plus staggered for 1 round"
 cure: "2 consecutive misses"
-based-on:
-  - "[[path srd 3.5/monsters/Daemon, Piscodaemon|Piscodaemon (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/affliction]
 ---

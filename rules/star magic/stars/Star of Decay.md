@@ -13,10 +13,7 @@ target: "One object/level, all within a 40-ft.-radius"
 duration: "1 round/level"
 defense: "Will (object)"
 spell-resistance: "No"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/stars/Decay|Decay (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/star]
 ---

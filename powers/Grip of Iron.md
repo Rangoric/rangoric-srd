@@ -10,10 +10,7 @@ range: "Personal"
 target: "You"
 duration: "1 round/level"
 power-points: "1"
-based-on:
-  - "[[fantasy srd 3.5/powers/Grip of Iron|Grip of Iron (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

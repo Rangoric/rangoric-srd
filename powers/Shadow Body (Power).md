@@ -12,10 +12,7 @@ range: "Personal"
 target: "You"
 duration: "1 min./level (D)"
 power-points: "15"
-based-on:
-  - "[[fantasy srd 3.5/powers/Shadow Body|Shadow Body (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

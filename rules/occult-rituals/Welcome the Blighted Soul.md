@@ -6,10 +6,7 @@ descriptor:
   - "Evil"
 level: 9
 casting-time: "9 hours (only during the new moon)"
-based-on:
-  - "[[path srd 3.5 foundry/occult-rituals/Welcome the Blighted Soul (Occult Ritual)|Welcome the Blighted Soul (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/occult-ritual, evil]
 ---

@@ -1,10 +1,7 @@
 ---
 srd-type: "overview"
 section: "Skills"
-based-on:
-  - "[[fantasy srd 3.5/skills/Knowledge|Knowledge (3.5)]]"
 status: draft
-change: new
 pi-review: 2026-10-30
 tags: [rangoric, rangoric/overview]
 ---

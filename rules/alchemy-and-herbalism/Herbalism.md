@@ -1,12 +1,7 @@
 ---
 srd-type: "rule"
 section: "Rules"
-based-on:
-  - "[[source files/raw/individual books/Alchemy & Herbalists v3.5/03 Basics Of Herbalism|Chapter 3: Basics of Herbalism (Alchemy & Herbalists)]]"
-  - "[[source files/raw/individual books/Alchemy & Herbalists v3.5/05 Herbal Catalog|Chapter 5: Herbal Catalog (Alchemy & Herbalists)]]"
-  - "[[individual books/Alchemy & Herbalists v3.5/tables/Table 6 Herbal Costs Adjustment Table|Table 6 Herbal Costs Adjustment Table (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/rule]
 ---

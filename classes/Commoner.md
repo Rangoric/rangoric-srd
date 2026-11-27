@@ -7,11 +7,7 @@ fort: poor
 ref: poor
 will: poor
 skill-points: "2 + Int modifier"
-based-on:
-  - "[[fantasy srd 3.5/classes/NPC Classes#Commoner|NPC Classes (3.5)]]"
-  - "[[path srd 3.5/classes/Commoner|Commoner (PF1)]]"
 status: draft
-change: modified
 pi-review: 2026-11-01
 tags: [rangoric, rangoric/class]
 ---

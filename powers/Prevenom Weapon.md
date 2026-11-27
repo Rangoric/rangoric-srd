@@ -8,10 +8,7 @@ level:
 range: "Touch"
 target: "Weapon touched"
 power-points: "1"
-based-on:
-  - "[[fantasy srd 3.5/powers/Prevenom Weapon|Prevenom Weapon (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

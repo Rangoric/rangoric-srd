@@ -1,10 +1,7 @@
 ---
 srd-type: "rule"
 section: "Rules"
-based-on:
-  - "[[source files/raw/individual books/Alchemy & Herbalists v3.5/01 Introduction|Chapter 1: Introduction (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/rule]
 ---

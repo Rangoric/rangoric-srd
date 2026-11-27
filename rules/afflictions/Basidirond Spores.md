@@ -8,11 +8,7 @@ attack-bonus: 6
 frequency: "1/round for 6 rounds"
 effect: "1d2 Con damage"
 cure: "1 miss"
-based-on:
-  - "[[path srd 3.5/monsters/Basidirond|Basidirond (PF1)]]"
-  - "[[path srd 3.5 foundry/monsters/bestiary/Basidirond|Basidirond (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/affliction]
 ---

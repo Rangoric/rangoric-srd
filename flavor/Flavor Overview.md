@@ -1,7 +1,6 @@
 ---
 srd-type: "flavor"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/flavor, rangoric/index, flavor]
 ---

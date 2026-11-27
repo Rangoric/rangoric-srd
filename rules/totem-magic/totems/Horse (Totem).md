@@ -3,10 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "totem"
 class: "Totem Mage"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/totems/Horse|Horse (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

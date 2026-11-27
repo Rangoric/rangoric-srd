@@ -9,10 +9,7 @@ onset: "1 day"
 frequency: "1/day"
 effect: "1d4 Con and 1 Cha and the target is fatigued"
 cure: "2 consecutive misses"
-based-on:
-  - "[[path srd 3.5/afflictions/Bubonic Plague|Bubonic Plague (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/affliction]
 ---

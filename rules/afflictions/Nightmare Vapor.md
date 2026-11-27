@@ -9,11 +9,7 @@ frequency: "1/round for 6 rounds"
 effect: "1 Wis and confused for 1 round"
 cure: "2 consecutive misses"
 price: "1,800 gp"
-based-on:
-  - "[[path srd 3.5/afflictions/Nightmare Vapor|Nightmare Vapor (PF1)]]"
-  - "[[path srd 3.5/rules/ultimate-equipment/gear/Poisons|Poisons (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/affliction]
 ---

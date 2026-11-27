@@ -9,11 +9,7 @@ onset: "1 minute"
 frequency: "1/day"
 effect: "1d6 Con and 1d6 Cha"
 cure: "only by casting both remove curse and remove disease within 1 minute of each other"
-based-on:
-  - "[[path srd 3.5/afflictions/Mummy Rot|Mummy Rot (PF1)]]"
-  - "[[fantasy srd 3.5/rules/Special Abilities and Conditions|Special Abilities and Conditions (3.5)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/affliction]
 ---

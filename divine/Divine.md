@@ -1,11 +1,7 @@
 ---
 srd-type: "overview"
 section: "Divine"
-based-on:
-  - "[[fantasy srd 3.5/divine/Divine|Divine (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/rules/Divine Ranks|Divine Ranks (Arms & Armor)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---

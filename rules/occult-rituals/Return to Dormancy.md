@@ -7,10 +7,7 @@ descriptor:
   - "Mind-Affecting"
 level: 8
 casting-time: "80 minutes"
-based-on:
-  - "[[path srd 3.5 foundry/occult-rituals/Return to Dormancy (Occult Ritual)|Return to Dormancy (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/occult-ritual]
 ---

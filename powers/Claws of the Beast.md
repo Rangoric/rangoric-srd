@@ -10,10 +10,7 @@ range: "Personal"
 target: "You"
 duration: "1 hour/level"
 power-points: "see text"
-based-on:
-  - "[[fantasy srd 3.5/powers/Claws of the Beast|Claws of the Beast (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

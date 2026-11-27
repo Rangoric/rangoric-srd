@@ -13,10 +13,7 @@ duration: "Instantaneous"
 defense: "Will; see text"
 power-resistance: "No"
 power-points: "11"
-based-on:
-  - "[[fantasy srd 3.5/powers/Retrieve|Retrieve (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

@@ -2,10 +2,7 @@
 srd-type: "flavor"
 place-kind: site
 region: "[[rangoric-srd/flavor/the-fey-realm/places/Sands of Time|Sands of Time]]"
-based-on:
-  - "[[individual books/Faeries/places/Doorway of Sorrows|Doorway of Sorrows (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/flavor, flavor]
 ---

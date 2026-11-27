@@ -7,10 +7,7 @@ attack: "+16 vs Fortitude"
 attack-bonus: 16
 frequency: "1/day"
 effect: "1d6 Con drain plus constant stench"
-based-on:
-  - "[[path srd 3.5/monsters/Qlippoth, Augnagar|Augnagar (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/affliction]
 ---

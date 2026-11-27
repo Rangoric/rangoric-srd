@@ -1,11 +1,7 @@
 ---
 srd-type: "rules"
 section: "Rules"
-based-on:
-  - "[[individual books/Faeries/rules/Faercana|Faercana (Faeries)]]"
-  - "[[individual books/Faeries/tables/Table 17 Magic Sand Wild Characteristics|Table 17 Magic Sand Wild Characteristics (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/rules]
 ---

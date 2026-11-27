@@ -12,10 +12,7 @@ range: "Personal"
 target: "You"
 duration: "Instantaneous"
 power-points: "1"
-based-on:
-  - "[[fantasy srd 3.5/powers/Call to Mind|Call to Mind (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

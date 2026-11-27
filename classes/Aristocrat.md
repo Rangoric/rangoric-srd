@@ -7,11 +7,7 @@ fort: poor
 ref: poor
 will: good
 skill-points: "4 + Int modifier"
-based-on:
-  - "[[fantasy srd 3.5/classes/NPC Classes#Aristocrat|NPC Classes (3.5)]]"
-  - "[[path srd 3.5/classes/Aristocrat|Aristocrat (PF1)]]"
 status: draft
-change: modified
 pi-review: 2026-11-01
 tags: [rangoric, rangoric/class]
 ---

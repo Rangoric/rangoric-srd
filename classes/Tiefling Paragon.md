@@ -9,10 +9,7 @@ ref: good
 will: good
 skill-points: "4 + Int modifier"
 race: "[[rangoric-srd/races/Tiefling|tieflings]]"
-based-on:
-  - "[[fantasy srd 3.5/unearthed-arcana/Racial Paragon|Racial Paragon (3.5)]]"
 status: draft
-change: new
 pi-review: 2026-11-09
 tags: [rangoric, rangoric/class]
 ---

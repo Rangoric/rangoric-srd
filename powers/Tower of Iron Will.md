@@ -14,10 +14,7 @@ duration: "1 round"
 defense: "None (harmless)"
 power-resistance: "Yes (harmless)"
 power-points: "9"
-based-on:
-  - "[[fantasy srd 3.5/powers/Tower of Iron Will|Tower of Iron Will (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

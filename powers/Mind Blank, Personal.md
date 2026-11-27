@@ -13,10 +13,7 @@ range: "Personal"
 target: "You"
 duration: "One day"
 power-points: "Psion/wilder 13, psychic warrior 11"
-based-on:
-  - "[[fantasy srd 3.5/powers/Mind Blank, Personal|Mind Blank, Personal (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

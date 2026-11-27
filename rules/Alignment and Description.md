@@ -1,11 +1,7 @@
 ---
 srd-type: "overview"
 section: "Rules"
-based-on:
-  - "[[fantasy srd 3.5/rules/Alignment and Description|Alignment and Description (3.5)]]"
-  - "[[path srd 3.5/rules/advanced-race-guide/age-height-weight/Age|Age (ARG)]]"
 status: draft
-change: modified
 pi-review: 2026-11-09
 tags: [rangoric, rangoric/overview]
 ---

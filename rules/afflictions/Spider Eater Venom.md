@@ -8,10 +8,7 @@ attack-bonus: 7
 frequency: "1/minute for 6 minutes"
 effect: "paralysis for 1 minute"
 cure: "1 miss"
-based-on:
-  - "[[path srd 3.5/monsters/Spider Eater|Spider Eater (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/affliction]
 ---

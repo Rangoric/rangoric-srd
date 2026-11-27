@@ -6,11 +6,7 @@ attack: "+6 vs Will"
 attack-bonus: 6
 onset: "1d6 days"
 effect: "–4 on Wis- and Cha-based skill checks; no taking 10 or 20; confused under stress"
-based-on:
-  - "[[path srd 3.5/afflictions/Schizophrenia|Schizophrenia (PF1)]]"
-  - "[[path srd 3.5/rules/game-mastery-guide/sanity-and-madness/Types of Insanity|Types of Insanity (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/affliction]
 ---

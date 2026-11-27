@@ -13,10 +13,7 @@ duration: "10 min./level (D)"
 defense: "None"
 power-resistance: "Yes"
 power-points: "17"
-based-on:
-  - "[[fantasy srd 3.5/powers/Teleportation Circle, Psionic|Teleportation Circle, Psionic (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

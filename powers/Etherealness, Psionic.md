@@ -11,10 +11,7 @@ duration: "1 min./level (D)"
 defense: "None"
 power-resistance: "Yes (harmless)"
 power-points: "17"
-based-on:
-  - "[[fantasy srd 3.5/powers/Etherealness, Psionic|Etherealness, Psionic (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

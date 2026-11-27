@@ -13,10 +13,7 @@ target: "One creature/level, all within a 20-ft.-radius"
 duration: "1 round/level"
 defense: "Fortitude"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/stars/Frost|Frost (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/star]
 ---

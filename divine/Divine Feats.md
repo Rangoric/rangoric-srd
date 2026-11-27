@@ -1,10 +1,7 @@
 ---
 srd-type: "overview"
 section: "Divine"
-based-on:
-  - "[[fantasy srd 3.5/divine/Divine Feats|Divine Feats (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---

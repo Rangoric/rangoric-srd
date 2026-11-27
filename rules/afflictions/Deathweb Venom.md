@@ -8,10 +8,7 @@ attack-bonus: 7
 frequency: "1/round for 6 rounds"
 effect: "1d4 Str damage"
 cure: "2 consecutive misses"
-based-on:
-  - "[[path srd 3.5/monsters/Deathweb|Deathweb (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/affliction]
 ---

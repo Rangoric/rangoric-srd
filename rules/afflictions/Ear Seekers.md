@@ -7,11 +7,7 @@ attack-bonus: 5
 onset: "4d6 hours"
 frequency: "1/hour"
 effect: "1d6 Con"
-based-on:
-  - "[[path srd 3.5/afflictions/Ear Seekers|Ear Seekers (PF1)]]"
-  - "[[path srd 3.5/rules/game-mastery-guide/hazards/Sample Hazards#Ear Seekers (CR 5)|Sample Hazards (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/affliction]
 ---

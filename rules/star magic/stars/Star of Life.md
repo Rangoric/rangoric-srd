@@ -13,10 +13,7 @@ target: "One creature/level, all within a 10-ft.-radius"
 duration: "1 day/call level"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/stars/Life|Life (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/star]
 ---

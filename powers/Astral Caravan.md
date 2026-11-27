@@ -10,10 +10,7 @@ range: "Personal"
 targets: "You and touched willing creatures"
 duration: "See text"
 power-points: "5"
-based-on:
-  - "[[fantasy srd 3.5/powers/Astral Caravan|Astral Caravan (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

@@ -7,10 +7,7 @@ attack: "+4 vs Will"
 attack-bonus: 4
 frequency: "1/day"
 effect: "staggered (or comatose if already under the evil eye)"
-based-on:
-  - "[[path srd 3.5/monsters/Sea Hag|Sea Hag (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/affliction]
 ---

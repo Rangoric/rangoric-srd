@@ -13,10 +13,7 @@ duration: "1 hour/level (D)"
 defense: "None"
 power-resistance: "Yes (harmless, object)"
 power-points: "11"
-based-on:
-  - "[[fantasy srd 3.5/powers/Dispelling Buffer|Dispelling Buffer (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

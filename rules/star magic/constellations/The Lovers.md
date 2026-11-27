@@ -17,10 +17,7 @@ target: "Two willing creatures"
 duration: "Permanent"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/constellations/The Lovers|The Lovers (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/constellation]
 ---

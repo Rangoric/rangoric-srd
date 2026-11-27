@@ -1,14 +1,7 @@
 ---
 srd-type: "overview"
 section: "Rules"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/rules/The Path of Shades|The Path of Shades (Spells & Magic)]]"
-  - "[[individual books/Spells & Magic v3.0/rules/The Gray Road|The Gray Road (Spells & Magic)]]"
-  - "[[individual books/Spells & Magic v3.0/rules/The Red Road|The Red Road (Spells & Magic)]]"
-  - "[[individual books/Spells & Magic v3.0/tables/Table 23 Necromantic Sources|Table 23 Necromantic Sources (Spells & Magic)]]"
-  - "[[individual books/Spells & Magic v3.0/prestige-classes/Shadetouched|Shadetouched (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/overview]
 ---

@@ -12,10 +12,7 @@ range: "Personal"
 target: "You"
 duration: "Instantaneous and up to one day; see text"
 power-points: "9"
-based-on:
-  - "[[fantasy srd 3.5/powers/Fiery Discorporation|Fiery Discorporation (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

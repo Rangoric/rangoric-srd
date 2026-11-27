@@ -17,10 +17,7 @@ area: "20-ft.-radius emanation centered on you"
 duration: "1 round/level"
 defense: "Fortitude (thrown out only)"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/constellations/The Bridge of Birds|The Bridge of Birds (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/constellation]
 ---

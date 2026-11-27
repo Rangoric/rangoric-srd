@@ -8,10 +8,7 @@ level:
   - "psychic warrior 3"
 duration: "1 round/level (D)"
 power-points: "5"
-based-on:
-  - "[[fantasy srd 3.5/powers/Concealing Amorpha, Greater|Concealing Amorpha, Greater (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

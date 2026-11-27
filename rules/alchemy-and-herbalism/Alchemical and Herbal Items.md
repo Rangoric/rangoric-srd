@@ -1,16 +1,7 @@
 ---
 srd-type: "rule"
 section: "Rules"
-based-on:
-  - "[[source files/raw/individual books/Alchemy & Herbalists v3.5/06 Knowledge & Development|Chapter 6: Knowledge & Development (Alchemy & Herbalists)]]"
-  - "[[source files/raw/individual books/Alchemy & Herbalists v3.5/07 Catalog Herbala Y Alchemica|Chapter 7: Catalog Herbala y Alchemica (Alchemy & Herbalists)]]"
-  - "[[source files/raw/individual books/Alchemy & Herbalists v3.5/04 Tarasta’s School Of Herbalism|Chapter 4, Creation Times and Crisis Creations (Alchemy & Herbalists)]]"
-  - "[[individual books/Alchemy & Herbalists v3.5/tables/Table 7 Alchemical & Herbal Item Creation Feats Table|Table 7 Alchemical & Herbal Item Creation Feats Table (Alchemy & Herbalists)]]"
-  - "[[individual books/Alchemy & Herbalists v3.5/tables/Table 9 Item Creation Feats & Types Table|Table 9 Item Creation Feats & Types Table (Alchemy & Herbalists)]]"
-  - "[[individual books/Alchemy & Herbalists v3.5/tables/Table 10 Mundane Treasure Levels|Table 10 Mundane Treasure Levels (Alchemy & Herbalists)]]"
-  - "[[individual books/Alchemy & Herbalists v3.5/tables/Table 11 Alchemical and Herbal Treasures|Table 11 Alchemical and Herbal Treasures (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/rule]
 ---

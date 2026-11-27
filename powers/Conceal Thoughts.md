@@ -15,10 +15,7 @@ duration: "1 hour/level"
 defense: "Will (harmless)"
 power-resistance: "Yes (harmless)"
 power-points: "1"
-based-on:
-  - "[[fantasy srd 3.5/powers/Conceal Thoughts|Conceal Thoughts (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

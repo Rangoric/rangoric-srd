@@ -10,10 +10,7 @@ range: "Personal"
 target: "You"
 duration: "1 min./level"
 power-points: "1"
-based-on:
-  - "[[fantasy srd 3.5/powers/Metaphysical Claw|Metaphysical Claw (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

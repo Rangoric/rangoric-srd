@@ -20,10 +20,7 @@ effect: "1d6 hezrou"
 duration: "Until the battle ends (see text)"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/constellations/The Trumpet|The Trumpet (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/constellation]
 ---

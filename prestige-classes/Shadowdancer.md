@@ -7,11 +7,7 @@ fort: poor
 ref: good
 will: poor
 skill-points: "6 + Int modifier"
-based-on:
-  - "[[fantasy srd 3.5/prestige-classes/Shadowdancer|Shadowdancer (3.5)]]"
-  - "[[path srd 3.5/classes/Shadowdancer|Shadowdancer (PF1)]]"
 status: draft
-change: modified
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/class]
 ---

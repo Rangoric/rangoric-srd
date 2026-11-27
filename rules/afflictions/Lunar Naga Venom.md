@@ -8,10 +8,7 @@ attack-bonus: 8
 frequency: "1/round for 6 rounds"
 effect: "1d3 Con and 1 Wis"
 cure: "1 miss"
-based-on:
-  - "[[path srd 3.5/monsters/Naga, Lunar|Naga, Lunar (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/affliction]
 ---

@@ -14,10 +14,7 @@ duration: "24 hours + 1 hour/level"
 defense: "Will half; see text"
 power-resistance: "No"
 power-points: "11"
-based-on:
-  - "[[fantasy srd 3.5/powers/Remote View Trap|Remote View Trap (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

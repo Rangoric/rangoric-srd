@@ -3,10 +3,7 @@ srd-type: "trap"
 section: "Rules"
 cr: "11"
 trap-type: "magic"
-based-on:
-  - "[[path srd 3.5/traps/Cone of Cold Trap|Cone of Cold Trap (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/trap]
 ---

@@ -8,11 +8,7 @@ fort: poor
 ref: good
 will: good
 skill-points: "6 + Int modifier"
-based-on:
-  - "[[path srd 3.5/classes/Bard|Bard (PF1)]]"
-  - "[[fantasy srd 3.5/classes/Bard|Bard (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/class]
 ---

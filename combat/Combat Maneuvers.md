@@ -1,12 +1,7 @@
 ---
 srd-type: "overview"
 section: "Combat"
-based-on:
-  - "[[path srd 3.5/rules/core-rulebook/combat/Special Attacks|Special Attacks (PF1)]]"
-  - "[[path srd 3.5/rules/advanced-player-s-guide/new-rules/Combat Maneuvers|Combat Maneuvers (PF1 APG)]]"
-  - "[[fantasy srd 3.5/combat/Combat Special Attacks|Combat Special Attacks (3.5)]]"
 status: draft
-change: new
 pi-review: 2026-11-01
 tags: [rangoric, rangoric/overview]
 ---

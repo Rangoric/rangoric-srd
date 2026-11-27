@@ -7,11 +7,7 @@ fort: good
 ref: poor
 will: poor
 skill-points: "4 + Int modifier"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/prestige-classes/Nomad Shaman|Nomad Shaman (Star Magic)]]"
-  - "[[individual books/Encyclopaedia Arcane Star Magic/tables/The Nomad Shaman|Table: The Nomad Shaman (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class]
 ---

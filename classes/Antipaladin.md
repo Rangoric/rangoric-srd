@@ -8,11 +8,7 @@ fort: good
 ref: poor
 will: good
 skill-points: "2 + Int modifier"
-based-on:
-  - "[[path srd 3.5/classes/Antipaladin|Antipaladin (PF1)]]"
-  - "[[path srd 3.5/archetypes/Class Features|Antipaladin Class Features (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/class]
 ---

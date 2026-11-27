@@ -6,11 +6,7 @@ attack: "+7 vs Will"
 attack-bonus: 7
 onset: "2d6 days"
 effect: "–4 on Will Defense and Cha-based skill checks; no aid from others"
-based-on:
-  - "[[path srd 3.5/afflictions/Paranoia|Paranoia (PF1)]]"
-  - "[[path srd 3.5/rules/game-mastery-guide/sanity-and-madness/Types of Insanity|Types of Insanity (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/affliction]
 ---

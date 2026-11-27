@@ -8,10 +8,7 @@ attack-bonus: 4
 frequency: "1/minute for 10 minutes"
 effect: "sleep for 1 minute"
 cure: "1 miss"
-based-on:
-  - "[[path srd 3.5/monsters/Pseudodragon (Monster)|Pseudodragon (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/affliction]
 ---

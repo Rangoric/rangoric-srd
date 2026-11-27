@@ -13,10 +13,7 @@ target: "One creature"
 duration: "Until the deed is done or 2 hours"
 defense: "Will (harmless)"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/stars/Oaths|Oaths (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/star]
 ---

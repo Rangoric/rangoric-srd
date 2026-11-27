@@ -10,10 +10,7 @@ range: "Personal; see text"
 target: "You"
 duration: "1 round/level (D)"
 power-points: "11"
-based-on:
-  - "[[fantasy srd 3.5/powers/Form of Doom|Form of Doom (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

@@ -15,10 +15,7 @@ duration: "Instantaneous"
 defense: "None"
 power-resistance: "No"
 power-points: "7"
-based-on:
-  - "[[fantasy srd 3.5/powers/Quintessence|Quintessence (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

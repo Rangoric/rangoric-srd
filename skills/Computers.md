@@ -2,12 +2,7 @@
 srd-type: "skill"
 section: "Skills"
 key-ability: "Int"
-based-on:
-  - "[[modern srd 3.5/skills/Computer Use|Computer Use (Modern)]]"
-  - "[[modern srd 3.5/skills/Knowledge (Technology)|Knowledge (Technology) (Modern)]]"
-  - "[[star srd 3.5/rules/Skills|Skills (Starfinder)]]"
 status: draft
-change: new
 pi-review: 2026-10-31
 tags: [rangoric, rangoric/skill, core]
 ---

@@ -14,10 +14,7 @@ duration: "1 min./level (D)"
 defense: "Reflex (object)"
 power-resistance: "Yes (object)"
 power-points: "15"
-based-on:
-  - "[[fantasy srd 3.5/powers/Telekinetic Sphere, Psionic|Telekinetic Sphere, Psionic (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

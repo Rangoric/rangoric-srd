@@ -7,10 +7,7 @@ attack: "+7 vs Fortitude"
 attack-bonus: 7
 effect: "amorphous body and 1 Wis drain per round"
 cure: "3 consecutive misses"
-based-on:
-  - "[[path srd 3.5/monsters/Chaos Beast|Chaos Beast (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/affliction]
 ---

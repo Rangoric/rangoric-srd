@@ -11,10 +11,7 @@ range: "Touch"
 target: "Willing creature touched"
 duration: "Instantaneous"
 power-points: "3"
-based-on:
-  - "[[fantasy srd 3.5/powers/Empathic Transfer|Empathic Transfer (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

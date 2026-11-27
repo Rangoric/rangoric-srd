@@ -8,10 +8,7 @@ attack-bonus: 11
 frequency: "1/day"
 effect: "1d4 Wis drain and fatigue"
 cure: "3 consecutive misses or dispel evil, dream, or remove curse"
-based-on:
-  - "[[path srd 3.5/monsters/Animate Dream|Animate Dream (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/affliction]
 ---

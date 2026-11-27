@@ -1,13 +1,7 @@
 ---
 srd-type: "overview"
 section: "Rules"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/rules/Rune Magic|Rune Magic (Spells & Magic)]]"
-  - "[[individual books/Spells & Magic v3.0/rules/Casting Rune Spells|Casting Rune Spells (Spells & Magic)]]"
-  - "[[individual books/Spells & Magic v3.0/rules/Runes|Runes (Spells & Magic)]]"
-  - "[[individual books/Spells & Magic v3.0/rules/Running a Rune Magic Only World|Running a Rune Magic Only World (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/overview]
 ---

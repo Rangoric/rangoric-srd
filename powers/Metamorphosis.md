@@ -10,10 +10,7 @@ range: "Personal"
 target: "You"
 duration: "1 min./level (D) for a creature; 1 hour/level (D) for an object"
 power-points: "7"
-based-on:
-  - "[[fantasy srd 3.5/powers/Metamorphosis|Metamorphosis (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

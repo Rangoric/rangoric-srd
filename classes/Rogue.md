@@ -8,13 +8,7 @@ fort: poor
 ref: good
 will: poor
 skill-points: "8 + Int modifier"
-based-on:
-  - "[[path srd 3.5/classes/Rogue (Unchained)|Rogue (Unchained) (PF1)]]"
-  - "[[path srd 3.5/classes/Rogue|Rogue (PF1)]]"
-  - "[[path srd 3.5/classes/Rogue (Unchained)|Unchained Rogue (PF1)]]"
-  - "[[fantasy srd 3.5/classes/Rogue|Rogue (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/class]
 ---

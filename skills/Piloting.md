@@ -2,13 +2,7 @@
 srd-type: "skill"
 section: "Skills"
 key-ability: "Dex"
-based-on:
-  - "[[modern srd 3.5/skills/Drive|Drive (Modern)]]"
-  - "[[modern srd 3.5/skills/Pilot|Pilot (Modern)]]"
-  - "[[modern srd 3.5/skills/Navigate|Navigate (Modern)]]"
-  - "[[star srd 3.5/rules/Skills|Skills (Starfinder)]]"
 status: draft
-change: new
 pi-review: 2026-10-31
 tags: [rangoric, rangoric/skill, core]
 ---

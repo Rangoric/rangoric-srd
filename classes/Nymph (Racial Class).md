@@ -9,13 +9,7 @@ ref: good
 will: good
 progression: per-hit-die
 race: "[[rangoric-srd/races/Nymph|nymphs]]"
-based-on:
-  - "[[individual books/Faeries/tables/Table 2 The Nymph Racial Class|Table 2 The Nymph Racial Class (Faeries)]]"
-  - "[[individual books/Faeries/rules/Other Fey Monsters as PCs|Other Fey Monsters as PCs (Faeries)]]"
-  - "[[individual books/Faeries/races/Nymph|Nymph (Faeries)]]"
-  - "[[fantasy srd 3.5/monsters/Nymph|Nymph (3.5)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class]
 ---

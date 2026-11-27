@@ -11,10 +11,7 @@ range: "Personal"
 target: "You"
 effect: "1 extra move action"
 power-points: "Egoist 5, psychic warrior 3"
-based-on:
-  - "[[fantasy srd 3.5/powers/Hustle|Hustle (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

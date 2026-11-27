@@ -13,10 +13,7 @@ area: "5-ft./level-radius emanation centered on you"
 duration: "3 rounds/level"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/stars/Revelation|Revelation (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/star]
 ---

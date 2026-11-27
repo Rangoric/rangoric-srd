@@ -12,10 +12,7 @@ duration: "Instantaneous"
 defense: "Reflex half; see text"
 power-resistance: "No"
 power-points: "17"
-based-on:
-  - "[[fantasy srd 3.5/powers/Tornado Blast|Tornado Blast (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

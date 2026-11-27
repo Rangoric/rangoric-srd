@@ -1,14 +1,7 @@
 ---
 srd-type: "overview"
 section: "Rules"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/rules/Dragon Magic|Dragon Magic (Spells & Magic)]]"
-  - "[[individual books/Spells & Magic v3.0/rules/History and Nature of Dragon Magic|History and Nature of Dragon Magic (Spells & Magic)]]"
-  - "[[individual books/Spells & Magic v3.0/rules/The Trovebond|The Trovebond (Spells & Magic)]]"
-  - "[[individual books/Spells & Magic v3.0/rules/The Trove|The Trove (Spells & Magic)]]"
-  - "[[individual books/Spells & Magic v3.0/rules/Ways of the Dragon|Ways of the Dragon (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/overview]
 ---

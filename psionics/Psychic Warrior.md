@@ -5,10 +5,7 @@ bab: medium
 fort: good
 ref: poor
 will: poor
-based-on:
-  - "[[fantasy srd 3.5/psionics/Psychic Warrior|Psychic Warrior (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---

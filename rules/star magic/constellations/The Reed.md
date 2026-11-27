@@ -15,10 +15,7 @@ area: "20-ft.-radius emanation centered on you"
 duration: "2 rounds/level"
 defense: "Fortitude half"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/constellations/The Reed|The Reed (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/constellation]
 ---

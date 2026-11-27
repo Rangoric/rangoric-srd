@@ -1,10 +1,7 @@
 ---
 srd-type: "overview"
 section: "Epic"
-based-on:
-  - "[[fantasy srd 3.5/epic/Epic Intelligent Items and Artifacts|Epic Intelligent Items and Artifacts (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---

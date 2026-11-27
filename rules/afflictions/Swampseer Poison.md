@@ -10,11 +10,7 @@ frequency: "1/minute for 3 minutes"
 effect: "1d4 Wis/1d2 Wis and confused for 1 minute"
 cure: "2 consecutive misses"
 price: "400 gp"
-based-on:
-  - "[[path srd 3.5/rules/ultimate-equipment/gear/Poisons|Poisons (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Swampseer poison|Swampseer poison (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/affliction]
 ---

@@ -9,10 +9,7 @@ onset: "1 day"
 frequency: "1/day"
 effect: "1d4 Con and 1d4 Cha"
 cure: "2 consecutive misses"
-based-on:
-  - "[[path srd 3.5/monsters/Daemon, Meladaemon|Meladaemon (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/affliction]
 ---

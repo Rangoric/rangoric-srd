@@ -12,11 +12,7 @@ cure: "2 consecutive misses"
 price: "5,000 gp"
 aliases:
   - "King's Sleep"
-based-on:
-  - "[[path srd 3.5/afflictions/King's Sleep|King's Sleep (PF1)]]"
-  - "[[path srd 3.5/rules/ultimate-equipment/gear/Poisons|Poisons (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/affliction]
 ---

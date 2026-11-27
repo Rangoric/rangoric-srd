@@ -11,10 +11,7 @@ duration: "Permanent; see text"
 defense: "None"
 power-resistance: "No"
 power-points: "9, XP"
-based-on:
-  - "[[fantasy srd 3.5/powers/Incarnate|Incarnate (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

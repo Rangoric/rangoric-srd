@@ -2,13 +2,7 @@
 srd-type: "skill"
 section: "Skills"
 key-ability: "Int"
-based-on:
-  - "[[individual books/Faeries/skills/Knowledge (Fey) (Int; trained only)|Knowledge (Fey) (Faeries)]]"
-  - "[[individual books/Faeries/skills/Knowledge (Folk Tales) (Int; trained only)|Knowledge (Folk Tales) (Faeries)]]"
-  - "[[path srd 3.5/rules/pathfinder-unchained/Background Skills|Background Skills (PF1 Unchained)]]"
-  - "[[fantasy srd 3.5/skills/Knowledge|Knowledge (3.5)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/skill, background, knowledge]
 ---

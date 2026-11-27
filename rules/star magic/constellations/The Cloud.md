@@ -15,10 +15,7 @@ area: "500-ft.-radius spread"
 duration: "5 rounds/level"
 defense: "Reflex half (see text)"
 spell-resistance: "No"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/constellations/The Cloud|The Cloud (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/constellation]
 ---

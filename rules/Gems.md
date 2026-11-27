@@ -1,12 +1,7 @@
 ---
 srd-type: "overview"
 section: "Rules"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/rules/Expanded Gem Descriptions|Expanded Gem Descriptions (Spells & Magic)]]"
-  - "[[individual books/Spells & Magic v3.0/tables/Table 20 Gem Values and Descriptors|Table 20 Gem Values and Descriptors (Spells & Magic)]]"
-  - "[[individual books/Spells & Magic v3.0/rules/New Uses for Old Skills|New Uses for Old Skills (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/overview]
 ---

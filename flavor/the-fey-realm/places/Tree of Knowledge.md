@@ -2,10 +2,7 @@
 srd-type: "flavor"
 place-kind: site
 region: "[[rangoric-srd/flavor/the-fey-realm/places/Faerie Woods|Faerie Woods]]"
-based-on:
-  - "[[individual books/Faeries/places/Tree of Knowledge|Tree of Knowledge (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/flavor, flavor]
 ---

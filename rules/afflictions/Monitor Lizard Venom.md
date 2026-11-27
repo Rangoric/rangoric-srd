@@ -9,10 +9,7 @@ onset: "1 minute"
 frequency: "1/hour for 6 hours"
 effect: "1d2 Dex"
 cure: "1 miss"
-based-on:
-  - "[[path srd 3.5/monsters/Lizard, Monitor|Lizard, Monitor (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/affliction]
 ---

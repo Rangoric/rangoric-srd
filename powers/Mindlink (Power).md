@@ -16,10 +16,7 @@ duration: "10 min./level"
 defense: "None; see text"
 power-resistance: "Yes (harmless)"
 power-points: "1"
-based-on:
-  - "[[fantasy srd 3.5/powers/Mindlink|Mindlink (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

@@ -8,10 +8,7 @@ attack-bonus: 6
 frequency: "1/round for 6 rounds"
 effect: "1d2 Dex"
 cure: "2 consecutive misses"
-based-on:
-  - "[[path srd 3.5/monsters/Sea Anemone, Giant|Sea Anemone, Giant (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/affliction]
 ---

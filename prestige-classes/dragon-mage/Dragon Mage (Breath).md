@@ -7,11 +7,7 @@ fort: poor
 ref: poor
 will: good
 skill-points: "3 + Int modifier"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/prestige-classes/Dragon Mage|Dragon Mage (Spells & Magic)]]"
-  - "[[individual books/Spells & Magic v3.0/tables/Table 3 The Dragon Mage (Breath)|Table 3 The Dragon Mage (Breath) (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class]
 ---

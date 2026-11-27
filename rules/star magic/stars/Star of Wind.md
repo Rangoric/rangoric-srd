@@ -13,10 +13,7 @@ target: "You and one creature/level, all within a 15-ft.-radius"
 duration: "1 round/level"
 defense: "Reflex (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/stars/Wind|Wind (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/star]
 ---

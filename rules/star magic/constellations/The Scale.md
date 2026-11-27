@@ -18,10 +18,7 @@ target: "Two creatures"
 duration: "Instantaneous (bonuses: 1 hour/level)"
 defense: "Fortitude (see text)"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/constellations/The Scale|The Scale (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/constellation]
 ---

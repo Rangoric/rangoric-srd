@@ -3,10 +3,7 @@ srd-type: "trap"
 section: "Rules"
 cr: "12"
 trap-type: "mechanical"
-based-on:
-  - "[[path srd 3.5/traps/Poisoned Pit Trap|Poisoned Pit Trap (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/trap]
 ---

@@ -8,12 +8,7 @@ fort: poor
 ref: good
 will: good
 skill-points: "6 + Int modifier"
-based-on:
-  - "[[path srd 3.5 foundry/classes/Mesmerist|Mesmerist (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Hypnotic Stare|Hypnotic Stare (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Touch Treatment|Touch Treatment (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class]
 ---

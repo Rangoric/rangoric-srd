@@ -9,10 +9,7 @@ onset: "1 day"
 frequency: "1/day"
 effect: "1d4 Con damage"
 cure: "1 miss"
-based-on:
-  - "[[path srd 3.5/monsters/Festrog|Festrog (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/affliction]
 ---

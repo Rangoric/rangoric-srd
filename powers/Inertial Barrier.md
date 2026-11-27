@@ -11,10 +11,7 @@ range: "Personal"
 target: "You"
 duration: "10 min./level"
 power-points: "7"
-based-on:
-  - "[[fantasy srd 3.5/powers/Inertial Barrier|Inertial Barrier (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

@@ -7,11 +7,7 @@ fort: poor
 ref: poor
 will: good
 skill-points: "6 + Int modifier"
-based-on:
-  - "[[fantasy srd 3.5/classes/NPC Classes#Expert|NPC Classes (3.5)]]"
-  - "[[path srd 3.5/classes/Expert|Expert (PF1)]]"
 status: draft
-change: modified
 pi-review: 2026-11-01
 tags: [rangoric, rangoric/class]
 ---

@@ -13,10 +13,7 @@ area: "10-ft.-radius burst"
 duration: "Instantaneous (see text)"
 defense: "Fortitude"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/stars/Thunder|Thunder (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/star]
 ---

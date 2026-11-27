@@ -9,11 +9,7 @@ onset: "1 minute"
 frequency: "1/minute for 6 minutes"
 effect: "1d6 Con and paralyzed for 1 minute"
 price: "6,500 gp"
-based-on:
-  - "[[path srd 3.5/afflictions/Tears of Death|Tears of Death (PF1)]]"
-  - "[[path srd 3.5/rules/ultimate-equipment/gear/Poisons|Poisons (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/affliction]
 ---

@@ -10,10 +10,7 @@ range: "Personal"
 target: "You"
 duration: "24 hours (D)"
 power-points: "5"
-based-on:
-  - "[[fantasy srd 3.5/powers/Graft Weapon|Graft Weapon (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

@@ -1,11 +1,7 @@
 ---
 srd-type: "condition"
 section: "Conditions"
-based-on:
-  - "[[path srd 3.5/rules/core-rulebook/glossary/Conditions|Conditions (PF1)]]"
-  - "[[fantasy srd 3.5/rules/Special Abilities and Conditions|Special Abilities and Conditions (3.5)]]"
 status: draft
-change: new
 pi-review: 2026-11-01
 tags: [rangoric, rangoric/condition]
 ---

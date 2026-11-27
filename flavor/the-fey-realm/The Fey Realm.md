@@ -1,12 +1,7 @@
 ---
 srd-type: "flavor"
 setting: "The Fey Realm"
-based-on:
-  - "[[individual books/Faeries/rules/How to use this book|How to use this book (Faeries)]]"
-  - "[[individual books/Faeries/rules/World of Faerie|World of Faerie (Faeries)]]"
-  - "[[individual books/Faeries/rules/Places of Faerie|Places of Faerie (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/flavor, flavor]
 ---

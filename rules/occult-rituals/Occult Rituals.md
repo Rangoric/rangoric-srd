@@ -3,9 +3,7 @@ srd-type: "rules"
 section: "Rules"
 aliases:
   - "Occult Ritual"
-based-on: []
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/rules]
 ---

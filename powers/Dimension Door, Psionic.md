@@ -13,10 +13,7 @@ duration: "Instantaneous"
 defense: "None and Will (object)"
 power-resistance: "No and Yes (object)"
 power-points: "7"
-based-on:
-  - "[[fantasy srd 3.5/powers/Dimension Door, Psionic|Dimension Door, Psionic (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

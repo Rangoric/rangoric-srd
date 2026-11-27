@@ -7,11 +7,7 @@ fort: poor
 ref: poor
 will: good
 skill-points: "2 + Int modifier"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/prestige-classes/Magus|Magus (Star Magic)]]"
-  - "[[individual books/Encyclopaedia Arcane Star Magic/tables/The Magus|Table: The Magus (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class]
 ---

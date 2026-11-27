@@ -10,14 +10,7 @@ fort: good
 ref: poor
 will: good
 skill-points: "4 + Int modifier"
-based-on:
-  - "[[path srd 3.5 foundry/classes/Spiritualist|Spiritualist (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Phantom|Phantom (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Shared Consciousness|Shared Consciousness (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Bonded Manifestation|Bonded Manifestation (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Etheric Tether|Etheric Tether (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class]
 ---

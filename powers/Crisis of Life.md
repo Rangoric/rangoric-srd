@@ -15,10 +15,7 @@ duration: "Instantaneous"
 defense: "Fortitude partial; see text"
 power-resistance: "Yes"
 power-points: "13"
-based-on:
-  - "[[fantasy srd 3.5/powers/Crisis of Life|Crisis of Life (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

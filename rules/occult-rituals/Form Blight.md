@@ -4,10 +4,7 @@ section: "Occult Rituals"
 school: "Necromancy"
 level: 9
 casting-time: "9 hours"
-based-on:
-  - "[[path srd 3.5 foundry/occult-rituals/Form Blight (Occult Ritual)|Form Blight (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/occult-ritual]
 ---

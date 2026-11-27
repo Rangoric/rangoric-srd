@@ -7,10 +7,7 @@ attack-bonus: 4
 frequency: "1/day"
 effect: "1d4 Con"
 cure: "any effect that cures disease"
-based-on:
-  - "[[path srd 3.5/monsters/Gloomwing|Gloomwing (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/affliction]
 ---

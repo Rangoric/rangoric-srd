@@ -8,10 +8,7 @@ attack-bonus: 5
 frequency: "2 rounds"
 effect: "1d4 Con plus nausea"
 cure: "1 miss"
-based-on:
-  - "[[path srd 3.5/monsters/Tentamort|Tentamort (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/affliction]
 ---

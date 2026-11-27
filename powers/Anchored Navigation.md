@@ -10,10 +10,7 @@ range: "Personal"
 target: "You"
 duration: "1 hour/level"
 power-points: "7"
-based-on:
-  - "[[fantasy srd 3.5/powers/Anchored Navigation|Anchored Navigation (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

@@ -10,10 +10,7 @@ duration: "1 hour/level (D)"
 defense: "Reflex"
 power-resistance: "No"
 power-points: "13"
-based-on:
-  - "[[fantasy srd 3.5/powers/Ectoplasmic Cocoon, Mass|Ectoplasmic Cocoon, Mass (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

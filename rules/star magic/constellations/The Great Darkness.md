@@ -18,10 +18,7 @@ area: "30-ft.-radius burst"
 duration: "Instantaneous"
 defense: "Reflex half (see text)"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/constellations/The Great Darkness|The Great Darkness (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/constellation]
 ---

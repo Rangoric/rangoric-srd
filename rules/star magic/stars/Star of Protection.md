@@ -13,10 +13,7 @@ area: "10-ft.-radius burst"
 duration: "5 rounds + 1 round/level"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/stars/Protection|Protection (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/star]
 ---

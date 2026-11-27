@@ -7,11 +7,7 @@ fort: poor
 ref: poor
 will: good
 skill-points: "2 + Int modifier"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/prestige-classes/Astrologer|Astrologer (Star Magic)]]"
-  - "[[individual books/Encyclopaedia Arcane Star Magic/tables/The Astrologer|Table: The Astrologer (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class]
 ---

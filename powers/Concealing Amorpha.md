@@ -12,10 +12,7 @@ range: "0 ft."
 effect: "Quasi-real amorphous film centered on you"
 duration: "1 min./level (D)"
 power-points: "3"
-based-on:
-  - "[[fantasy srd 3.5/powers/Concealing Amorpha|Concealing Amorpha (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

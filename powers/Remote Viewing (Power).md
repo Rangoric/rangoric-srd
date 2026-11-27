@@ -15,10 +15,7 @@ duration: "1 min./level (D)"
 defense: "Will"
 power-resistance: "Yes"
 power-points: "7, XP"
-based-on:
-  - "[[fantasy srd 3.5/powers/Remote Viewing|Remote Viewing (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

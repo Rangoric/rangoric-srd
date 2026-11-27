@@ -11,10 +11,7 @@ target: "You"
 duration: "1 min./level or until discharged"
 defense: "None and Fortitude; see text"
 power-points: "7"
-based-on:
-  - "[[fantasy srd 3.5/powers/Truevenom|Truevenom (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/power]
 ---
