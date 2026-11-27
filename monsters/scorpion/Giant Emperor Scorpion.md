@@ -15,7 +15,7 @@ full-attack: "2 claws +18 melee (2d6+11 plus grab) and sting +18 melee (2d6+11 p
 space-reach: "20 ft./20 ft."
 special-attacks: "Ambush pit, constrict (2d6+11), poison, pounce"
 special-qualities: "Darkvision 60 ft., tremorsense 60 ft., ferocity, immunity to mind-affecting effects"
-saves: "Fort +14, Ref +6, Will +6"
+defenses: "Fort 24, Ref 16, Will 16"
 abilities: "Str 33, Dex 13, Con 20, Int —, Wis 12, Cha 2"
 skills: "Athletics +15, Perception +5, Stealth –3 (+1 in deserts)"
 skill-ranks: "Athletics 0, Perception 0, Stealth 0"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 20 ft./20 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Ambush Pit|Ambush pit]], [[rangoric-srd/monsters/abilities/Constrict|constrict]] (2d6+11), [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Pounce|pounce]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-- **Saves**: Fort +14, Ref +6, Will +6
+- **Defenses**: Fort 24, Ref 16, Will 16
 - **Abilities**: Str 33, Dex 13, Con 20, Int —, Wis 12, Cha 2
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] –3 (+1 in deserts)
 - **Feats**: —
@@ -68,4 +68,4 @@ A giant emperor scorpion is an ambush predator, burying itself in soil or sand u
 
 **[[rangoric-srd/monsters/abilities/Ambush Pit|Ambush Pit]] (Ex)**: A giant emperor scorpion can spend 1 minute digging itself into the soil or other ground debris. It then waits for its tremorsense to detect prey. When a creature comes within range, it can erupt from the ground as a free action as part of a charge, allowing it to use its pounce ability. When dug in, the scorpion has improved cover granting it a +10 bonus on Stealth checks.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Sting—injury; _save_ Fort DC 22; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Str and 1d4 Dex; _cure_ 1 save. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Sting—injury; _attack_ +12 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Str and 1d4 Dex; _cure_ 1 miss. The attack bonus is Constitution-based.

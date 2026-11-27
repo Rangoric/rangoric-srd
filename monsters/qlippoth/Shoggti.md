@@ -14,9 +14,9 @@ cmd: "27 (31 vs. trip)"
 attack: "Bite +12 melee (1d8+6) or tentacle +13 melee (1d4+3 plus grab)"
 full-attack: "Bite +12 melee (1d8+6) and 4 tentacles +8 melee (1d4+3 plus grab)"
 space-reach: "10 ft./10 ft."
-special-attacks: "Braincloud, horrific appearance (DC 15), constrict (1d4+6), spell-like abilities"
+special-attacks: "Braincloud, horrific appearance (+5 vs Will), constrict (1d4+6), spell-like abilities"
 special-qualities: "Darkvision 60 ft., telepathy 100 ft., uncanny dodge, damage reduction 10/cold iron or lawful, immunity to cold, poison and mind-affecting effects, resistance to acid 10, electricity 10 and fire 10"
-saves: "Fort +11, Ref +5, Will +9"
+defenses: "Fort 21, Ref 15, Will 19"
 abilities: "Str 22, Dex 16, Con 23, Int 12, Wis 19, Cha 15"
 skills: "Emulation +19, Escape Artist +13, Intimidation +16, Perception +18, Sense Motive +14, Stealth +9, Theology +11"
 skill-ranks: "Emulation 10, Escape Artist 7, Intimidation 7, Perception 7, Sense Motive 7, Stealth 7, Theology 7"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +12 melee (1d8+6) or tentacle +13 melee (1d4+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
 - **Full Attack**: Bite +12 melee (1d8+6) and 4 tentacles +8 melee (1d4+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
 - **Space/Reach**: 10 ft./10 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Braincloud|Braincloud]], [[rangoric-srd/monsters/abilities/Horrific Appearance|horrific appearance]] (DC 15), [[rangoric-srd/monsters/abilities/Constrict|constrict]] (1d4+6), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Braincloud|Braincloud]], [[rangoric-srd/monsters/abilities/Horrific Appearance|horrific appearance]] (+5 vs Will), [[rangoric-srd/monsters/abilities/Constrict|constrict]] (1d4+6), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., uncanny dodge, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron or lawful, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, poison and mind-affecting effects, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, electricity 10 and fire 10
-- **Saves**: Fort +11, Ref +5, Will +9
+- **Defenses**: Fort 21, Ref 15, Will 19
 - **Abilities**: Str 22, Dex 16, Con 23, Int 12, Wis 19, Cha 15
 - **Skills**: [[rangoric-srd/skills/Emulation|Emulation]] +19, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +13, [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +9, [[rangoric-srd/skills/Theology|Theology]] +11
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Emulation), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (tentacles)
@@ -72,7 +72,7 @@ Shoggtis speak Abyssal.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 7th; concentration +9): Constant—_[[rangoric-srd/spells/Tongues|tongues]]_; At will—_[[rangoric-srd/spells/Command|command]]_ (DC 13); 3/day—_[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 13), _[[rangoric-srd/spells/Protection from Law|protection from law]]_; 1/day—_[[rangoric-srd/spells/Charm Monster|charm monster]]_ (DC 16), _[[rangoric-srd/spells/Dimension Door|dimension door]]_.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 7th; concentration +9): Constant—_[[rangoric-srd/spells/Tongues|tongues]]_; At will—_[[rangoric-srd/spells/Command|command]]_ (+3 vs Will); 3/day—_[[rangoric-srd/spells/Charm Person|charm person]]_ (+3 vs Will), _[[rangoric-srd/spells/Protection from Law|protection from law]]_; 1/day—_[[rangoric-srd/spells/Charm Monster|charm monster]]_ (+6 vs Will), _[[rangoric-srd/spells/Dimension Door|dimension door]]_.
 
 **[[rangoric-srd/monsters/abilities/Braincloud|Braincloud]] (Su)**: Once per round, in place of a melee attack with a tentacle, a shoggti can make a melee touch attack with the pincer on the end of that tentacle. If it hits, the target takes 1d4 points of Wisdom damage. Shoggti use this ability to mentally debilitate their victims so they can more easily use their charm spell-like abilities against them.
 

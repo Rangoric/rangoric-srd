@@ -16,7 +16,7 @@ full-attack: "Dagger +0 melee (1d4–1/19–20); or dart +0 ranged (1d4–1)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., orc ferocity, orc blood, summon familiar (weasel), weapon familiarity"
-saves: "Fort +1, Ref +1, Will +5"
+defenses: "Fort 11, Ref 11, Will 15"
 abilities: "Str 9, Dex 8, Con 12, Int 10, Wis 15, Cha 11"
 skills: "Intimidation +2, Medicine +9, Theology +5"
 skill-ranks: "Intimidation 2, Medicine 4, Theology 2"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/races/Half-Orc#^half-orc-orc-ferocity|orc ferocity]], [[rangoric-srd/races/Half-Orc#^half-orc-orc-blood|orc blood]], [[rangoric-srd/classes/Adept|summon familiar]] (weasel), [[rangoric-srd/races/Half-Orc|weapon familiarity]]
-- **Saves**: Fort +1, Ref +1, Will +5
+- **Defenses**: Fort 11, Ref 11, Will 15
 - **Abilities**: Str 9, Dex 8, Con 12, Int 10, Wis 15, Cha 11
 - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +2, [[rangoric-srd/skills/Medicine|Medicine]] +9, [[rangoric-srd/skills/Theology|Theology]] +5
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]]
@@ -73,4 +73,4 @@ A shaman (adept) speaks Common and Orc.
 
 **During Combat**: If fighting foes that lack darkvision, the adept reads his scroll of darkness. He looks for groups to target with burning hands or sleep, resorting to darts or alchemist's fire otherwise.
 
-**Adept spells prepared** (CL 2nd; concentration +4): 1st—_[[rangoric-srd/spells/Burning Hands|burning hands]]_ (DC 13), _[[rangoric-srd/spells/Sleep|sleep]]_ (DC 13); 0 (at will)—_[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (DC 12), _[[rangoric-srd/spells/Read Magic|read magic]]_, _[[rangoric-srd/spells/Touch of Fatigue|touch of fatigue]]_ (DC 12).
+**Adept spells prepared** (CL 2nd; concentration +4): 1st—_[[rangoric-srd/spells/Burning Hands|burning hands]]_ (+3 vs Reflex), _[[rangoric-srd/spells/Sleep|sleep]]_ (+3 vs Will); 0 (at will)—_[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (+2 vs Will), _[[rangoric-srd/spells/Read Magic|read magic]]_, _[[rangoric-srd/spells/Touch of Fatigue|touch of fatigue]]_ (+2 vs Fortitude).

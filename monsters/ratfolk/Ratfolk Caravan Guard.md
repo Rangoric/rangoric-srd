@@ -16,7 +16,7 @@ full-attack: "Masterwork scimitar +7 melee (1d4+1/18–20); or masterwork compos
 space-reach: "5 ft./5 ft."
 special-attacks: "Combat style (archery), favored enemy (magical beasts +2), swarming"
 special-qualities: "Low-light vision, favored terrain (desert +2), hunter's bond (animal companion, riding rat), [[rangoric-srd/races/racial-traits/Surface Sprinter|surface sprinter]], track +2, wild empathy +4"
-saves: "Fort +5, Ref +7, Will +3"
+defenses: "Fort 15, Ref 17, Will 13"
 abilities: "Str 12, Dex 17, Con 12, Int 10, Wis 14, Cha 10"
 skills: "Animal Handling +10, Athletics +6, Craft (alchemy) +2, Dungeoneering +5, Emulation +2, Fieldcraft +9, Nature +5, Perception +11, Society +5, Stealth +14"
 skill-ranks: "Animal Handling 4, Athletics 2, Craft (alchemy) 2, Dungeoneering 2, Emulation 2, Fieldcraft 4, Nature 2, Perception 6, Society 2, Stealth 4"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-combat-style|Combat style]] (archery), [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemy]] (magical beasts +2), [[rangoric-srd/monsters/abilities/Swarming|swarming]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|favored terrain]] (desert +2), [[rangoric-srd/classes/Ranger#^ranger-hunters-bond|hunter's bond]] (animal companion, riding rat), [[rangoric-srd/races/racial-traits/Surface Sprinter|surface sprinter]], [[rangoric-srd/classes/Ranger#^ranger-track|track]] +2, [[rangoric-srd/classes/Ranger#^ranger-wild-empathy|wild empathy]] +4
-- **Saves**: Fort +5, Ref +7, Will +3
+- **Defenses**: Fort 15, Ref 17, Will 13
 - **Abilities**: Str 12, Dex 17, Con 12, Int 10, Wis 14, Cha 10
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +2, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +5, [[rangoric-srd/skills/Emulation|Emulation]] +2, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +9, [[rangoric-srd/skills/Nature|Nature]] +5, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Society|Society]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +14
 - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Track|Track]]

@@ -16,7 +16,7 @@ full-attack: "Short sword +3 melee (1d6+1/19–20); or light crossbow +3 ranged 
 space-reach: "5 ft./5 ft."
 special-attacks: "Sneak attack +1d6, spell-like abilities"
 special-qualities: "Darkvision 60 ft., fiendish sorcery, trapfinding, finesse training, resistance to cold 5, electricity 5 and fire 5"
-saves: "Fort +2, Ref +5, Will +1"
+defenses: "Fort 12, Ref 15, Will 11"
 abilities: "Str 13, Dex 17, Con 14, Int 12, Wis 12, Cha 6"
 skills: "Acrobatics +6, Deception +4, Engineering +6, Escape Artist +6, Intimidation +2, Perception +5, Sense Motive +5, Sleight of Hand +6, Stealth +8"
 skill-ranks: "Acrobatics 3, Deception 1, Engineering 3, Escape Artist 3, Intimidation 1, Perception 1, Sense Motive 1, Sleight of Hand 3, Stealth 3"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +1d6, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/races/Tiefling|fiendish sorcery]], [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]], [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 5, electricity 5 and fire 5
-- **Saves**: Fort +2, Ref +5, Will +1
+- **Defenses**: Fort 12, Ref 15, Will 11
 - **Abilities**: Str 13, Dex 17, Con 14, Int 12, Wis 12, Cha 6
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Deception|Deception]] +4, [[rangoric-srd/skills/Engineering|Engineering]] +6, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +6, [[rangoric-srd/skills/Intimidation|Intimidation]] +2, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +8
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]

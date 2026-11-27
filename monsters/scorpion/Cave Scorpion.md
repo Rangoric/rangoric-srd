@@ -15,7 +15,7 @@ full-attack: "2 claws +2 melee (1d4) and sting +2 melee (1d4 plus poison)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Rend (2 claws, 2d4), poison"
 special-qualities: "Darkvision 60 ft., tremorsense 60 ft., immunity to mind-affecting effects"
-saves: "Fort +4, Ref +1, Will +1"
+defenses: "Fort 14, Ref 11, Will 11"
 abilities: "Str 11, Dex 10, Con 13, Int —, Wis 10, Cha 2"
 skills: "Athletics +8, Perception +4, Stealth +0 (+12 in caves)"
 skill-ranks: "Athletics 5, Perception 0, Stealth 0"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rend|Rend]] (2 claws, 2d4), [[rangoric-srd/monsters/abilities/Poison|poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-- **Saves**: Fort +4, Ref +1, Will +1
+- **Defenses**: Fort 14, Ref 11, Will 11
 - **Abilities**: Str 11, Dex 10, Con 13, Int —, Wis 10, Cha 2
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +0 (+12 in caves)
 - **Feats**: —
@@ -66,4 +66,4 @@ The squat cave scorpion is quite well suited for life in caves. With its bulky a
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Cave Scorpion Venom|Cave Scorpion Venom]]: Sting—injury; _save_ Fort DC 12; _frequency_ 1/round for 4 rounds; _effect_ 1d2 Str; _cure_ 1 save.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Cave Scorpion Venom|Cave Scorpion Venom]]: Sting—injury; _attack_ +2 vs Fortitude; _frequency_ 1/round for 4 rounds; _effect_ 1d2 Str; _cure_ 1 miss.

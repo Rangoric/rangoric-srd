@@ -16,7 +16,7 @@ full-attack: "+1 two-bladed sword +9/+4 melee (1d3+4/19–20) and masterwork two
 space-reach: "5 ft./5 ft."
 special-attacks: "Combat style (two-weapon), favored enemy (animals +2, humans +4), swarming"
 special-qualities: "Low-light vision, favored terrain (desert +4, urban +2), hunter's bond (companions), [[rangoric-srd/races/racial-traits/Surface Sprinter|surface sprinter]], swift tracker, track +4, wild empathy +7, woodland stride"
-saves: "Fort +9, Ref +10, Will +4"
+defenses: "Fort 19, Ref 20, Will 14"
 abilities: "Str 14, Dex 16, Con 14, Int 12, Wis 12, Cha 8"
 skills: "Animal Handling +10, Athletics +9, Craft (alchemy) +3, Dungeoneering +8, Fieldcraft +12, Medicine +8, Mysticism +6, Nature +8, Perception +14, Society +8, Stealth +18"
 skill-ranks: "Animal Handling 4, Athletics 4, Craft (alchemy) 2, Dungeoneering 4, Fieldcraft 8, Medicine 4, Mysticism 2, Nature 4, Perception 10, Society 4, Stealth 8"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-combat-style|Combat style]] (two-weapon), [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemy]] (animals +2, humans +4), [[rangoric-srd/monsters/abilities/Swarming|swarming]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|favored terrain]] (desert +4, urban +2), [[rangoric-srd/classes/Ranger#^ranger-hunters-bond|hunter's bond]] (companions), [[rangoric-srd/races/racial-traits/Surface Sprinter|surface sprinter]], [[rangoric-srd/classes/Ranger#^ranger-swift-tracker|swift tracker]], [[rangoric-srd/classes/Ranger#^ranger-track|track]] +4, [[rangoric-srd/classes/Ranger#^ranger-wild-empathy|wild empathy]] +7, [[rangoric-srd/monsters/abilities/Woodland Stride|woodland stride]]
-- **Saves**: Fort +9, Ref +10, Will +4
+- **Defenses**: Fort 19, Ref 20, Will 14
 - **Abilities**: Str 14, Dex 16, Con 14, Int 12, Wis 12, Cha 8
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +3, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +12, [[rangoric-srd/skills/Medicine|Medicine]] +8, [[rangoric-srd/skills/Mysticism|Mysticism]] +6, [[rangoric-srd/skills/Nature|Nature]] +8, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Society|Society]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +18
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Exotic Weapon Proficiency|Exotic Weapon Proficiency]] (two-bladed sword), [[rangoric-srd/feats/Improved Two-Weapon Fighting|Improved Two-Weapon Fighting]], [[rangoric-srd/feats/Track|Track]], [[rangoric-srd/feats/Two-Weapon Defense|Two-Weapon Defense]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (two-bladed sword)

@@ -15,7 +15,7 @@ full-attack: "2 claws +13 melee (1d8+8 plus grab) and sting +13 melee (1d8+8 plu
 space-reach: "15 ft./15 ft."
 special-attacks: "Constrict (1d8+8), sudden strike, poison"
 special-qualities: "Darkvision 60 ft., tremorsense 60 ft., immunity to mind-affecting effects"
-saves: "Fort +12, Ref +5, Will +5"
+defenses: "Fort 22, Ref 15, Will 15"
 abilities: "Str 27, Dex 15, Con 20, Int —, Wis 14, Cha 2"
 skills: "Perception +6, Stealth +5 (+13 in forests)"
 skill-ranks: "Perception 0, Stealth 3"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./15 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (1d8+8), [[rangoric-srd/monsters/abilities/Sudden Strike|sudden strike]], [[rangoric-srd/monsters/abilities/Poison|poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-- **Saves**: Fort +12, Ref +5, Will +5
+- **Defenses**: Fort 22, Ref 15, Will 15
 - **Abilities**: Str 27, Dex 15, Con 20, Int —, Wis 14, Cha 2
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +5 (+13 in forests)
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
@@ -66,6 +66,6 @@ The enormous deadfall scorpion is disturbingly stealthy for a creature of its si
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Deadfall Scorpion Venom|Deadfall Scorpion Venom]]: Sting—injury; _save_ Fort DC 20; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Str damage; _cure_ 2 consecutive saves.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Deadfall Scorpion Venom|Deadfall Scorpion Venom]]: Sting—injury; _attack_ +10 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Str damage; _cure_ 2 consecutive misses.
 
 **[[rangoric-srd/monsters/abilities/Sudden Strike|Sudden Strike]] (Ex)**: A deadfall scorpion is adept at moving quickly when its foes are surprised. During a surprise round, a deadfall scorpion may act as if it had a full round to act, rather than just one standard action.

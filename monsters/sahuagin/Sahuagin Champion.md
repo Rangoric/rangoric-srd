@@ -16,7 +16,7 @@ full-attack: "+1 trident +18/+13 melee (1d8+13) and claw +15 melee (1d4+4) and m
 space-reach: "5 ft./5 ft."
 special-attacks: "Blood frenzy, multiweapon mastery, rage (19 rounds/day), rage powers (inspire ferocity, no escape, reckless stance +2)"
 special-qualities: "Blindsense 30 ft., darkvision 60 ft., improved uncanny dodge, trap sense +2, fast movement, damage reduction 1/—, light blindness, speak with sharks"
-saves: "Fort +14, Ref +10, Will +10"
+defenses: "Fort 24, Ref 20, Will 20"
 abilities: "Str 26, Dex 16, Con 21, Int 12, Wis 13, Cha 10"
 skills: "Acrobatics +14, Animal Handling +8, Athletics +27 (+31 jumping), Intimidation +20, Perception +13, Stealth +11"
 skill-ranks: "Acrobatics 8, Animal Handling 2, Athletics 16, Intimidation 17, Perception 9, Stealth 5"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/sahuagin/Sahuagin|Blood frenzy]], [[rangoric-srd/monsters/abilities/Multiweapon Mastery|multiweapon mastery]], [[rangoric-srd/classes/Barbarian#^barbarian-rage|rage]] (19 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/Inspire Ferocity (Rage Power)|inspire ferocity]], [[rangoric-srd/class-options/rage-powers/No Escape (Rage Power)|no escape]], [[rangoric-srd/class-options/rage-powers/Reckless Stance (Rage Power)|reckless stance]] +2)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/classes/Barbarian#^barbarian-improved-uncanny-dodge|improved uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] +2, [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 1/—, [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]], [[rangoric-srd/monsters/sahuagin/Sahuagin|speak with sharks]]
-- **Saves**: Fort +14, Ref +10, Will +10
+- **Defenses**: Fort 24, Ref 20, Will 20
 - **Abilities**: Str 26, Dex 16, Con 21, Int 12, Wis 13, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +27 (+31 jumping), [[rangoric-srd/skills/Intimidation|Intimidation]] +20, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +11
 - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Shield Bash|Improved Shield Bash]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]]

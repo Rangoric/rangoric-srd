@@ -16,7 +16,7 @@ full-attack: "Bite +8 melee (1d3–1)"
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "Haunting melody, spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, spiritsense, change shape (raven or songbird [same statistics], beast shape II), spirit touch, damage reduction 2/adamantine, immunity to death effects, disease and poison, resistance to cold 10 and electricity 10"
-saves: "Fort +2, Ref +6, Will +4"
+defenses: "Fort 12, Ref 16, Will 14"
 abilities: "Str 8, Dex 16, Con 12, Int 11, Wis 13, Cha 16"
 skills: "Acrobatics +17, Perception +10, Profession (scribe) +7, Sense Motive +1, Society +6, Stealth +17, Theology +6"
 skill-ranks: "Acrobatics 7, Perception 5, Profession (scribe) 4, Sense Motive 2, Society 3, Stealth 3, Theology 3"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Haunting Melody|Haunting melody]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], spiritsense, [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (raven or songbird \[same statistics\], beast shape II), spirit touch, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 2/adamantine, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to death effects, disease and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and electricity 10
-- **Saves**: Fort +2, Ref +6, Will +4
+- **Defenses**: Fort 12, Ref 16, Will 14
 - **Abilities**: Str 8, Dex 16, Con 12, Int 11, Wis 13, Cha 16
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +17, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Profession|Profession]] (scribe) +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +1, [[rangoric-srd/skills/Society|Society]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +17, [[rangoric-srd/skills/Theology|Theology]] +6
 - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -74,6 +74,6 @@ Nosois speak Abyssal, Celestial and Infernal.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 3rd; concentration +6): At will—_[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only); 3/day—_[[rangoric-srd/spells/Speak with Dead|speak with dead]]_ (6 questions, CL 12th); 1/day—_[[rangoric-srd/spells/Hide from Undead|hide from undead]]_ (DC 14), _[[rangoric-srd/spells/Sound Burst|sound burst]]_ (DC 15).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 3rd; concentration +6): At will—_[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only); 3/day—_[[rangoric-srd/spells/Speak with Dead|speak with dead]]_ (6 questions, CL 12th); 1/day—_[[rangoric-srd/spells/Hide from Undead|hide from undead]]_ (+4 vs Will), _[[rangoric-srd/spells/Sound Burst|sound burst]]_ (+5 vs Fortitude).
 
-**[[rangoric-srd/monsters/abilities/Haunting Melody|Haunting Melody]] (Su)**: A nosoi's song has the power to grip the spirits of those that hear it. All living and undead creatures within a 60-foot spread must succeed at a DC 14 Will saving throw or be [[rangoric-srd/rules/Special Abilities and Conditions#^fascinated|fascinated]]. A creature that successfully saves is not subject to that nosoi's song for 24 hours. This effect continues for as long as the nosoi sings and for 1 round thereafter. A nosoi can sing for a number or rounds per day equal to twice its Hit Dice. This is a sonic mind-affecting charm effect. This ability can affect undead creatures, even though the undead subtype makes such creatures immune to mind-affecting effects (though undead creatures with immunity to mind-affecting effects from a source other than their creature type are still immune). The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Haunting Melody|Haunting Melody]] (Su)**: A nosoi's song has the power to grip the spirits of those that hear it. All living and undead creatures within a 60-foot spread are attacked at +4 vs Will, and on a hit are [[rangoric-srd/rules/Special Abilities and Conditions#^fascinated|fascinated]]. A creature the aura misses is not subject to that nosoi's song for 24 hours. This effect continues for as long as the nosoi sings and for 1 round thereafter. A nosoi can sing for a number or rounds per day equal to twice its Hit Dice. This is a sonic mind-affecting charm effect. This ability can affect undead creatures, even though the undead subtype makes such creatures immune to mind-affecting effects (though undead creatures with immunity to mind-affecting effects from a source other than their creature type are still immune). The attack bonus is Charisma-based.

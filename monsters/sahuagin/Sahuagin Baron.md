@@ -16,7 +16,7 @@ full-attack: "Masterwork trident +17/+12 melee (1d8+7) and claw +16 melee (1d4+6
 space-reach: "5 ft./5 ft."
 special-attacks: "Blood frenzy, weapon training (natural +1)"
 special-qualities: "Blindsense 30 ft., darkvision 60 ft., bravery +2, armor training 2, light blindness, speak with sharks"
-saves: "Fort +11, Ref +9, Will +7 (+2 vs. fear)"
+defenses: "Fort 21, Ref 19, Will 17 (+2 vs. fear)"
 abilities: "Str 24, Dex 16, Con 21, Int 16, Wis 13, Cha 6"
 skills: "Animal Handling +14, Athletics +18, Intimidation +10, Perception +13, Sense Motive +10, Society +12"
 skill-ranks: "Animal Handling 8, Athletics 8, Intimidation 9, Perception 9, Sense Motive 6, Society 6"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/sahuagin/Sahuagin|Blood frenzy]], [[rangoric-srd/classes/Fighter#^fighter-weapon-training|weapon training]] ([[rangoric-srd/equipment/Equipment Weapons#^weapon-groups|natural]] +1)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +2, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 2, [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]], [[rangoric-srd/monsters/sahuagin/Sahuagin|speak with sharks]]
-- **Saves**: Fort +11, Ref +9, Will +7 (+2 vs. fear)
+- **Defenses**: Fort 21, Ref 19, Will 17 (+2 vs. fear)
 - **Abilities**: Str 24, Dex 16, Con 21, Int 16, Wis 13, Cha 6
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Society|Society]] +12
 - **Feats**: [[rangoric-srd/feats/Blood Tide|Blood Tide]], [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Greater Blood Frenzy|Greater Blood Frenzy]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw), [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (claw)

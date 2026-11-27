@@ -15,7 +15,7 @@ full-attack: "2 claws +23 melee (2d8+13 plus grab) and sting +23 melee (2d6+13 p
 space-reach: "30 ft./30 ft."
 special-attacks: "Constrict (2d8+19), rapid stinging, poison"
 special-qualities: "Darkvision 60 ft., tremorsense 60 ft., immunity to mind-affecting effects"
-saves: "Fort +19, Ref +8, Will +8"
+defenses: "Fort 29, Ref 18, Will 18"
 abilities: "Str 36, Dex 10, Con 20, Int —, Wis 10, Cha 2"
 skills: "Athletics +17, Perception +4, Stealth –12"
 skill-ranks: "Athletics 0, Perception 0, Stealth 0"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 30 ft./30 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (2d8+19), [[rangoric-srd/monsters/abilities/Rapid Stinging|rapid stinging]], [[rangoric-srd/monsters/abilities/Poison|poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-- **Saves**: Fort +19, Ref +8, Will +8
+- **Defenses**: Fort 29, Ref 18, Will 18
 - **Abilities**: Str 36, Dex 10, Con 20, Int —, Wis 10, Cha 2
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +17, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] –12
 - **Feats**: —
@@ -66,6 +66,6 @@ The immense black scorpion is one of the largest desert predators. Capable of st
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Black Scorpion Venom|Black Scorpion Venom]]: Sting—injury; _save_ Fort DC 27; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Str, 1d4 Dex, and 1d4 Con; _cure_ 3 saves.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Black Scorpion Venom|Black Scorpion Venom]]: Sting—injury; _attack_ +17 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Str, 1d4 Dex, and 1d4 Con; _cure_ 3 misses.
 
 **[[rangoric-srd/monsters/abilities/Rapid Stinging|Rapid Stinging]] (Ex)**: A black scorpion's stinger strikes with astounding speed; it can make one additional attack in a round with its sting as a swift action.

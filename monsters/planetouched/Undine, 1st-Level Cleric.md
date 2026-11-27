@@ -14,9 +14,9 @@ cmd: "12"
 attack: "Trident +0 melee (1d8) or sling +2 ranged (1d4)"
 full-attack: "Trident +0 melee (1d8); or sling +2 ranged (1d4)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Channel positive energy 7/day (DC 12, 1d6), spell-like abilities"
+special-attacks: "Channel positive energy 7/day (+2 vs Will, 1d6), spell-like abilities"
 special-qualities: "Darkvision 60 ft., water affinity, resistance to cold 5"
-saves: "Fort +1, Ref +3, Will +5"
+defenses: "Fort 11, Ref 13, Will 15"
 abilities: "Str 11, Dex 14, Con 8, Int 10, Wis 17, Cha 14"
 skills: "Athletics +4, Persuasion +6, Theology +4"
 skill-ranks: "Athletics 1, Persuasion 1, Theology 1"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: [[rangoric-srd/equipment/weapons/Trident|Trident]] +0 melee (1d8) or [[rangoric-srd/equipment/weapons/Sling|sling]] +2 ranged (1d4)
 - **Full Attack**: [[rangoric-srd/equipment/weapons/Trident|Trident]] +0 melee (1d8); or [[rangoric-srd/equipment/weapons/Sling|sling]] +2 ranged (1d4)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: Channel [[rangoric-srd/monsters/abilities/Positive Energy|positive energy]] 7/day (DC 12, 1d6), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Attacks**: Channel [[rangoric-srd/monsters/abilities/Positive Energy|positive energy]] 7/day (+2 vs Will, 1d6), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., water affinity, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 5
-- **Saves**: Fort +1, Ref +3, Will +5
+- **Defenses**: Fort 11, Ref 13, Will 15
 - **Abilities**: Str 11, Dex 14, Con 8, Int 10, Wis 17, Cha 14
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +4, [[rangoric-srd/skills/Persuasion|Persuasion]] +6, [[rangoric-srd/skills/Theology|Theology]] +4
 - **Feats**: [[rangoric-srd/feats/Extra Channel|Extra Channel]]

@@ -19,7 +19,7 @@ full-attack: "Spear +6 melee (1d6+1/x3 plus 1d6 fire) and tail slap +4 melee (1d
 space-reach: "5 ft./5 ft."
 special-attacks: "Constrict 1d4 plus 1d6 fire, heat, improved grab"
 special-qualities: "Darkvision 60 ft., immunity to fire, vulnerability to cold"
-saves: "Fort +6, Ref +5, Will +6"
+defenses: "Fort 16, Ref 15, Will 16"
 abilities: "Str 12, Dex 13, Con 14, Int 14, Wis 15, Cha 13"
 skills: "Craft (blacksmithing) +9, Perception +12, Stealth +12"
 skill-ranks: "Craft (blacksmithing) 4, Perception 4, Stealth 4"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] 1d4 plus 1d6 fire, heat, [[rangoric-srd/monsters/abilities/Grab|improved grab]]
 - **Special Qualities**: Darkvision 60 ft., immunity to fire, [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to cold]]
-- **Saves**: Fort +6, Ref +5, Will +6
+- **Defenses**: Fort 16, Ref 15, Will 16
 - **Abilities**: Str 12, Dex 13, Con 14, Int 14, Wis 15, Cha 13
 - **Skills**: [[rangoric-srd/skills/Craft|Craft]] (blacksmithing) +9, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +12
 - **Unspent Skill Points**: 28

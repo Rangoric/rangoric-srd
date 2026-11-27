@@ -16,7 +16,7 @@ full-attack: "Scimitar +0 melee (1d6/18–20)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., bloodline arcana, fire affinity, resistance to fire 5"
-saves: "Fort +1, Ref +3, Will +0"
+defenses: "Fort 11, Ref 13, Will 10"
 abilities: "Str 10, Dex 16, Con —, Int 13, Wis 6, Cha 17"
 skills: "Arcana +5, Deception +7, Mysticism +5"
 skill-ranks: "Arcana 1, Deception 1, Mysticism 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., bloodline arcana, [[rangoric-srd/monsters/abilities/Fire Affinity|fire affinity]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 5
-- **Saves**: Fort +1, Ref +3, Will +0
+- **Defenses**: Fort 11, Ref 13, Will 10
 - **Abilities**: Str 10, Dex 16, Con —, Int 13, Wis 6, Cha 17
 - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +5, [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Mysticism|Mysticism]] +5
 - **Feats**: [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Martial Weapon Proficiency|Martial Weapon Proficiency]] (scimitar)
@@ -73,6 +73,6 @@ Ifrits speak Common and Ignan.
 
 ### Combat
 
-**Sorcerer spells known** (CL 1st; concentration +4): 1st (4/day)—_[[rangoric-srd/spells/Burning Hands|burning hands]]_ (DC 15), _[[rangoric-srd/spells/Mage Armor|mage armor]]_; 0 (at will)—_[[rangoric-srd/spells/Acid Splash|acid splash]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Flare|flare]]_ (DC 14), _[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_; **[[rangoric-srd/class-options/bloodlines/Elemental Bloodline|Bloodline]]** elemental (fire).
+**Sorcerer spells known** (CL 1st; concentration +4): 1st (4/day)—_[[rangoric-srd/spells/Burning Hands|burning hands]]_ (+5 vs Reflex), _[[rangoric-srd/spells/Mage Armor|mage armor]]_; 0 (at will)—_[[rangoric-srd/spells/Acid Splash|acid splash]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Flare|flare]]_ (+4 vs Fortitude), _[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_; **[[rangoric-srd/class-options/bloodlines/Elemental Bloodline|Bloodline]]** elemental (fire).
 
 **[[rangoric-srd/monsters/abilities/Fire Affinity|Fire Affinity]] (Ex)**: Ifrit sorcerers with the elemental (fire) bloodline treat their Charisma score as 2 points higher for all sorcerer spells and class abilities. Ifrit spellcasters with the Fire domain use their domain powers and spells at +1 caster level.

@@ -16,7 +16,7 @@ full-attack: "Masterwork dagger +10/+5 melee (1d4+5/19–20) and masterwork dagg
 space-reach: "5 ft./5 ft."
 special-attacks: "Blood frenzy, sneak attack +3d6, debilitating injury"
 special-qualities: "Blindsense 30 ft., darkvision 60 ft., evasion, danger sense +2, uncanny dodge, rogue talents (bleeding attack +3, combat trick, fast stealth), trapfinding +3, light blindness, finesse training (dagger), rogue's edge (Stealth), speak with sharks"
-saves: "Fort +6, Ref +12, Will +8"
+defenses: "Fort 16, Ref 22, Will 18"
 abilities: "Str 20, Dex 16, Con 12, Int 14, Wis 15, Cha 11"
 skills: "Acrobatics +14, Animal Handling +7, Athletics +13, Deception +11, Engineering +16, Imitation +11, Intimidation +11, Linguistics +8, Perception +13, Sense Motive +13, Society +8, Stealth +19"
 skill-ranks: "Acrobatics 8, Animal Handling 1, Athletics 5, Deception 8, Engineering 10, Imitation 8, Intimidation 8, Linguistics 3, Perception 8, Sense Motive 8, Society 3, Stealth 13"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/sahuagin/Sahuagin|Blood frenzy]], [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|sneak attack]] +3d6, [[rangoric-srd/classes/Rogue#^rogue-debilitating-injury|debilitating injury]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/classes/Rogue#^rogue-evasion|evasion]], [[rangoric-srd/classes/Rogue#^rogue-trap-sense|danger sense]] +2, [[rangoric-srd/classes/Rogue#^rogue-uncanny-dodge|uncanny dodge]], [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]] ([[rangoric-srd/class-options/rogue-talents/Bleeding Attack (Rogue Talent)|bleeding attack]] +3, [[rangoric-srd/class-options/rogue-talents/Combat Trick (Rogue Talent)|combat trick]], [[rangoric-srd/class-options/rogue-talents/Fast Stealth (Rogue Talent)|fast stealth]]), [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +3, [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]], [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]] (dagger), [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]] ([[rangoric-srd/skills/Stealth|Stealth]]), [[rangoric-srd/monsters/sahuagin/Sahuagin|speak with sharks]]
-- **Saves**: Fort +6, Ref +12, Will +8
+- **Defenses**: Fort 16, Ref 22, Will 18
 - **Abilities**: Str 20, Dex 16, Con 12, Int 14, Wis 15, Cha 11
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Deception|Deception]] +11, [[rangoric-srd/skills/Engineering|Engineering]] +16, [[rangoric-srd/skills/Imitation|Imitation]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +11, [[rangoric-srd/skills/Linguistics|Linguistics]] +8, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Society|Society]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +19
 - **Feats**: [[rangoric-srd/feats/Double Slice|Double Slice]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Two-Weapon Defense|Two-Weapon Defense]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]

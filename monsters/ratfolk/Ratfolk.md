@@ -16,7 +16,7 @@ full-attack: "Dagger –1 melee (1d3–2/19–20); or light crossbow +3 ranged (
 space-reach: "5 ft./5 ft."
 special-attacks: "Swarming"
 special-qualities: "Darkvision 60 ft."
-saves: "Fort +0, Ref +2, Will +2"
+defenses: "Fort 10, Ref 12, Will 12"
 abilities: "Str 6, Dex 15, Con 11, Int 14, Wis 10, Cha 9"
 skills: "Animal Handling +3 (+7 with rodents), Appraise +6, Craft (alchemy) +8, Emulation +5, Fieldcraft +4, Perception +9, Persuasion +3, Sense Motive +4"
 skill-ranks: "Animal Handling 1, Appraise 1, Craft (alchemy) 3, Emulation 1, Fieldcraft 1, Perception 4, Persuasion 1, Sense Motive 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Swarming|Swarming]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft.
-- **Saves**: Fort +0, Ref +2, Will +2
+- **Defenses**: Fort 10, Ref 12, Will 12
 - **Abilities**: Str 6, Dex 15, Con 11, Int 14, Wis 10, Cha 9
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +3 (+7 with rodents), [[rangoric-srd/skills/Appraise|Appraise]] +6, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +8, [[rangoric-srd/skills/Emulation|Emulation]] +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Persuasion|Persuasion]] +3, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +4
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

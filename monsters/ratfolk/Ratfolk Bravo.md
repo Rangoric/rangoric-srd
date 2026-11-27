@@ -16,7 +16,7 @@ full-attack: "Masterwork handaxe +5 melee (1d4/×3); or masterwork musket +8 ran
 space-reach: "5 ft./5 ft."
 special-attacks: "Grit (2), swarming"
 special-qualities: "Darkvision 60 ft., nimble +1, deeds (deadeye, gunslinger initiative, gunslinger's dodge, pistol-whip, quick clear, utility shot), gunsmith"
-saves: "Fort +4, Ref +6, Will +3"
+defenses: "Fort 14, Ref 16, Will 13"
 abilities: "Str 11, Dex 17, Con 12, Int 12, Wis 14, Cha 8"
 skills: "Acrobatics +9, Athletics +5 (+1 jumping), Craft (alchemy) +9, Perception +10, Sleight of Hand +9, Society +6"
 skill-ranks: "Acrobatics 3, Athletics 2, Craft (alchemy) 5, Perception 5, Sleight of Hand 3, Society 2"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Gunslinger#^gunslinger-grit|Grit]] (2), [[rangoric-srd/monsters/abilities/Swarming|swarming]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Gunslinger#^gunslinger-nimble|nimble]] +1, [[rangoric-srd/classes/Gunslinger#^gunslinger-deeds|deeds]] (deadeye, gunslinger initiative, gunslinger's dodge, pistol-whip, quick clear, utility shot), [[rangoric-srd/classes/Gunslinger#^gunslinger-gunsmith|gunsmith]]
-- **Saves**: Fort +4, Ref +6, Will +3
+- **Defenses**: Fort 14, Ref 16, Will 13
 - **Abilities**: Str 11, Dex 17, Con 12, Int 12, Wis 14, Cha 8
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Athletics|Athletics]] +5 (+1 jumping), [[rangoric-srd/skills/Craft|Craft]] (alchemy) +9, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +9, [[rangoric-srd/skills/Society|Society]] +6
 - **Feats**: [[rangoric-srd/feats/Gunsmithing|Gunsmithing]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Rapid Reload|Rapid Reload]] (musket)

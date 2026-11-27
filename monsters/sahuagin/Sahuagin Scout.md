@@ -16,7 +16,7 @@ full-attack: "Masterwork trident +8 melee (1d8+6) and bite +2 melee (1d4+2); or 
 space-reach: "5 ft./5 ft."
 special-attacks: "Blood frenzy, sneak attack +1d6"
 special-qualities: "Blindsense 30 ft., darkvision 60 ft., evasion, rogue talents (bleeding attack +1), trapfinding +1, light blindness, finesse training, speak with sharks"
-saves: "Fort +3, Ref +9, Will +4"
+defenses: "Fort 13, Ref 19, Will 14"
 abilities: "Str 18, Dex 17, Con 16, Int 17, Wis 12, Cha 7"
 skills: "Acrobatics +10, Animal Handling +7, Athletics +12, Engineering +12, Escape Artist +10, Fieldcraft +7, Perception +8, Sense Motive +8, Society +7, Stealth +10"
 skill-ranks: "Acrobatics 4, Animal Handling 1, Athletics 5, Engineering 6, Escape Artist 4, Fieldcraft 3, Perception 4, Sense Motive 4, Society 1, Stealth 4"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/sahuagin/Sahuagin|Blood frenzy]], [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|sneak attack]] +1d6
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/classes/Rogue#^rogue-evasion|evasion]], [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]] ([[rangoric-srd/class-options/rogue-talents/Bleeding Attack (Rogue Talent)|bleeding attack]] +1), [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +1, [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]], [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]], [[rangoric-srd/monsters/sahuagin/Sahuagin|speak with sharks]]
-- **Saves**: Fort +3, Ref +9, Will +4
+- **Defenses**: Fort 13, Ref 19, Will 14
 - **Abilities**: Str 18, Dex 17, Con 16, Int 17, Wis 12, Cha 7
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +12, [[rangoric-srd/skills/Engineering|Engineering]] +12, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +10, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +8, [[rangoric-srd/skills/Society|Society]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +10
 - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Rapid Reload|Rapid Reload]] (heavy crossbow), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]

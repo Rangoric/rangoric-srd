@@ -15,7 +15,7 @@ full-attack: "2 claws +2 melee (1d3) and sting +2 melee (1d3 plus poison)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Pounce, poison"
 special-qualities: "Darkvision 60 ft., tremorsense 60 ft., immunity to mind-affecting effects"
-saves: "Fort +5, Ref +0, Will +0"
+defenses: "Fort 15, Ref 10, Will 10"
 abilities: "Str 10, Dex 11, Con 14, Int —, Wis 10, Cha 2"
 skills: "Perception +4, Stealth +8"
 skill-ranks: "Perception 0, Stealth 0"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], [[rangoric-srd/monsters/abilities/Poison|poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-- **Saves**: Fort +5, Ref +0, Will +0
+- **Defenses**: Fort 15, Ref 10, Will 10
 - **Abilities**: Str 10, Dex 11, Con 14, Int —, Wis 10, Cha 2
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +8
 - **Feats**: —
@@ -66,4 +66,4 @@ So named for their eerie, translucent carapaces, ghost scorpions are nocturnal d
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Ghost Scorpion Venom|Ghost Scorpion Venom]]: Sting—injury; _save_ Fort DC 13; _frequency_ 1/round for 4 rounds; _effect_ 1 Str damage; _cure_ 1 save.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Ghost Scorpion Venom|Ghost Scorpion Venom]]: Sting—injury; _attack_ +3 vs Fortitude; _frequency_ 1/round for 4 rounds; _effect_ 1 Str damage; _cure_ 1 miss.

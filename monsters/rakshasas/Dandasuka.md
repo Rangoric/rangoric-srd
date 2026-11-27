@@ -14,9 +14,9 @@ cmd: "21"
 attack: "Bite +8 melee (1d6+1 plus bleed) or claw +8 melee (1d4+1)"
 full-attack: "Bite +8 melee (1d6+1 plus bleed) and 2 claws +8 melee (1d4+1)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Bleed 1d4, detect thoughts (DC 15), sneak attack +1d6, spell-like abilities"
+special-attacks: "Bleed 1d4, detect thoughts (+5 vs Will), sneak attack +1d6, spell-like abilities"
 special-qualities: "Darkvision 60 ft., change shape (any humanoid; alter self), damage reduction 5/good or piercing, spell resistance 20"
-saves: "Fort +5, Ref +9, Will +6"
+defenses: "Fort 15, Ref 19, Will 16"
 abilities: "Str 13, Dex 18, Con 16, Int 13, Wis 12, Cha 15"
 skills: "Acrobatics +10, Athletics +10, Deception +15, Imitation +19, Perception +9, Sense Motive +10, Sleight of Hand +10, Stealth +17"
 skill-ranks: "Acrobatics 3, Athletics 6, Deception 6, Imitation 6, Perception 5, Sense Motive 6, Sleight of Hand 3, Stealth 6"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +8 melee (1d6+1 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]]) or claw +8 melee (1d4+1)
 - **Full Attack**: Bite +8 melee (1d6+1 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]]) and 2 claws +8 melee (1d4+1)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] 1d4, detect thoughts (DC 15), sneak attack +1d6, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] 1d4, detect thoughts (+5 vs Will), sneak attack +1d6, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (any humanoid; alter self), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/good or piercing, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 20
-- **Saves**: Fort +5, Ref +9, Will +6
+- **Defenses**: Fort 15, Ref 19, Will 16
 - **Abilities**: Str 13, Dex 18, Con 16, Int 13, Wis 12, Cha 15
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Deception|Deception]] +15, [[rangoric-srd/skills/Imitation|Imitation]] +19, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +17
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spring Attack|Spring Attack]]
@@ -78,6 +78,6 @@ Dandasukas speak Common, Infernal and Undercommon.
 
 **[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 5th; concentration +7): 1/day—_[[rangoric-srd/spells/Clairaudience-Clairvoyance|clairaudience/clairvoyance]]_.
 
-**Spells known** (CL 2nd; concentration +4): 1st (5/day)—_[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 13), _[[rangoric-srd/spells/Ventriloquism|ventriloquism]]_ (DC 13); 0 (at will)—_[[rangoric-srd/spells/Bleed|bleed]]_ (DC 12), _[[rangoric-srd/spells/Daze|daze]]_ (DC 12), _[[rangoric-srd/spells/Detect Magic|detect magic]], [[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (DC 12),_[[rangoric-srd/spells/Mage Hand|mage hand]]_.
+**Spells known** (CL 2nd; concentration +4): 1st (5/day)—_[[rangoric-srd/spells/Charm Person|charm person]]_ (+3 vs Will), _[[rangoric-srd/spells/Ventriloquism|ventriloquism]]_ (+3 vs Will); 0 (at will)—_[[rangoric-srd/spells/Bleed|bleed]]_ (+2 vs Will), _[[rangoric-srd/spells/Daze|daze]]_ (+2 vs Will), _[[rangoric-srd/spells/Detect Magic|detect magic]], [[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (+2 vs Will),_[[rangoric-srd/spells/Mage Hand|mage hand]]_.
 
 **Spells**: A dandasuka casts arcane spells as a 2nd-level [[rangoric-srd/classes/Sorcerer|sorcerer]].
