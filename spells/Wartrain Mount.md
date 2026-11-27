@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Apl 1"
   - "Brd 2"
@@ -35,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 # Wartrain Mount
 
-_Enchantment (Compulsion) \[Mind-affecting\]_
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Apl 1, Brd 2, Drd 2, Hun 1, Inq 1, Mes 2, Pal 1, Rgr 1, Skd 2
 - **Components**: V, S, M (a swatch of black cloth)

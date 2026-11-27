@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Inq 4"
   - "Mes 4"
@@ -30,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 # Sleepwalk
 
-_Enchantment (Compulsion) \[Mind-affecting\]_
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Inq 4, Mes 4, Psy 4, Wit 4
 - **Components**: V, S, M (a sprig of belladonna worth 100 gp)

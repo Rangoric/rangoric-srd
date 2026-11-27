@@ -5,7 +5,7 @@ school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
   - "Air"
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Brd 2"
   - "Drd 3"
@@ -33,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 # Reinvigorating Wind
 
-_Enchantment (Compulsion) \[Air, MindAffecting\]_
+_Enchantment (Compulsion) \[Air, Mind-Affecting\]_
 
 - **Level**: Brd 2, Drd 3, Hun 3, Skd 2, Wit 3
 - **Components**: V, S, M, M/DF (a flower petal)

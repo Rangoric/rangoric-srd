@@ -4,7 +4,7 @@ section: "Spells"
 school: "Illusion"
 subschool: "Figment"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Brd 5"
   - "Clr 5"
@@ -32,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 # Village Veil
 
-_Illusion (Figment) \[Mind-affecting\]_
+_Illusion (Figment) \[Mind-Affecting\]_
 
 - **Level**: Brd 5, Clr 5, Mes 5, Psy 5, Skd 5, Sor/Wiz 5, Wit 5
 - **Components**: V, S

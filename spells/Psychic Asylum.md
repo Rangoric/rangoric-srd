@@ -4,7 +4,7 @@ section: "Spells"
 school: "Illusion"
 subschool: "Phantasm"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Mes 5"
   - "Psy 5"
@@ -27,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 # Psychic Asylum
 
-_Illusion (Phantasm) \[MindAffecting\]_
+_Illusion (Phantasm) \[Mind-Affecting\]_
 
 - **Level**: Mes 5, Psy 5, Sor/Wiz 6
 - **Components**: V, S

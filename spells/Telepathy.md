@@ -3,7 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Divination"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Med 4"
   - "Mes 4"
@@ -27,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 # Telepathy
 
-_Divination \[MindAffecting\]_
+_Divination \[Mind-Affecting\]_
 
 - **Level**: Med 4, Mes 4, Psy 5, Sor/Wiz 6, Spi 6
 - **Components**: V

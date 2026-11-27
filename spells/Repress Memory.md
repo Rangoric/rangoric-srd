@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Brd 5"
   - "Mes 5"
@@ -28,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 # Repress Memory
 
-_Enchantment (Compulsion) \[MindAffecting\]_
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Brd 5, Mes 5, Psy 6, Skd 5
 - **Components**: V, S

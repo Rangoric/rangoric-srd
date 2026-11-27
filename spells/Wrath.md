@@ -5,7 +5,7 @@ school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
   - "Emotion"
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Inq 1"
 components:
@@ -26,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 # Wrath
 
-_Enchantment (Compulsion) \[Emotion, Mind-affecting\]_
+_Enchantment (Compulsion) \[Emotion, Mind-Affecting\]_
 
 - **Level**: Inq 1
 - **Components**: V, S, M (a thorny vine)

@@ -5,7 +5,7 @@ school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
   - "Emotion"
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Brd 1"
   - "Mes 1"
@@ -32,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 # Unnatural Lust
 
-_Enchantment (Compulsion) \[Emotion, Mind-affecting\]_
+_Enchantment (Compulsion) \[Emotion, Mind-Affecting\]_
 
 - **Level**: Brd 1, Mes 1, Psy 2, Skd 1, Sor/Wiz 2, Wit 2
 - **Components**: V, S

@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Inq 3"
   - "Pal 2"
@@ -28,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 # Righteous Vigor
 
-_Enchantment (Compulsion) \[Mind-affecting\]_
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Inq 3, Pal 2
 - **Components**: V, S, DF

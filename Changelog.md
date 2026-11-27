@@ -8,6 +8,7 @@ Every departure from the source rules, newest first. One line each, with links t
 
 | Date | Change | Rangoric note | Source | Why |
 | --- | --- | --- | --- | --- |
+| 2026-11-26 | Chaos and law descriptors (CL 6): 70 spells have one spelling of each descriptor (Mind-Affecting, Language-Dependent, See text), and subschools in the descriptor slot move to the subschool. | [[CL Batch 6 Changes]] | | [[Chaos and Law Descriptors]] CL 6 |
 | 2026-11-26 | Chaos and law descriptors (CL 5): 75 spells have one spelling of each descriptor (Mind-Affecting, Language-Dependent, See text), and subschools in the descriptor slot move to the subschool. | [[CL Batch 5 Changes]] | | [[Chaos and Law Descriptors]] CL 5 |
 | 2026-11-26 | Chaos and law descriptors (CL 4): 75 spells have one spelling of each descriptor (Mind-Affecting, Language-Dependent, See text), Fire Shield lists Fire and Cold, and subschools in the descriptor slot move to the subschool. | [[CL Batch 4 Changes]] | | [[Chaos and Law Descriptors]] CL 4 |
 | 2026-11-26 | Chaos and law descriptors (CL 3): the last 49 spells with an alignment descriptor get its tag, 26 more get one spelling of their descriptors (Mind-Affecting, Language-Dependent, See text), and the Tag Register lists the chaotic, lawful, good and evil tags. | [[CL Batch 3 Changes]] | | [[Chaos and Law Descriptors]] CL 3 |

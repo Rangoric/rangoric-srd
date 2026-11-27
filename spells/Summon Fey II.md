@@ -4,7 +4,7 @@ section: "Spells"
 school: "Conjuration"
 subschool: "Summoning"
 descriptor:
-  - "see text"
+  - "See text"
 level:
   - "Brd 2"
   - "Clr 2"

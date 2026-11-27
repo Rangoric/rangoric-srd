@@ -5,7 +5,7 @@ school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
   - "Emotion"
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Brd 6"
   - "Clr 7"
@@ -33,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 # Waves of Ecstasy
 
-_Enchantment (Compulsion) \[Emotion, Mind-affecting\]_
+_Enchantment (Compulsion) \[Emotion, Mind-Affecting\]_
 
 - **Level**: Brd 6, Clr 7, Mes 6, Psy 7, Skd 6, Sor/Wiz 7, Wit 7
 - **Components**: V, S

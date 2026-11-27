@@ -5,7 +5,7 @@ school: "Illusion"
 subschool: "Pattern"
 descriptor:
   - "Light"
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Brd 4"
   - "Occ 4"
@@ -34,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 # Wandering Star Motes
 
-_Illusion (Pattern) \[Light, Mind-affecting\]_
+_Illusion (Pattern) \[Light, Mind-Affecting\]_
 
 - **Level**: Brd 4, Occ 4, Psy 4, Sha 4, Skd 4, Sor/Wiz 4, Wit 4
 - **Components**: V, S, M (a sprinkle of flash powder)

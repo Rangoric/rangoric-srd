@@ -3,7 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Divination"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Med 4"
   - "Mes 4"
@@ -28,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 # Thoughtsense
 
-_Divination \[MindAffecting\]_
+_Divination \[Mind-Affecting\]_
 
 - **Level**: Med 4, Mes 4, Psy 4, Sor/Wiz 5, Spi 4
 - **Components**: V, M (a bit of dried brain tissue)

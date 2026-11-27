@@ -2,8 +2,7 @@
 srd-type: "spell"
 section: "Spells"
 school: "Conjuration"
-descriptor:
-  - "Summoning"
+subschool: "Summoning"
 level:
   - "Sor/Wiz 3"
 components:
@@ -26,7 +25,7 @@ tags: [rangoric, rangoric/spell]
 
 # Summon Hateful Midges
 
-_Conjuration \[Summoning\]_
+_Conjuration (Summoning)_
 
 - **Level**: Sor/Wiz 3
 - **Components**: V, S, M

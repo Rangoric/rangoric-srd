@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Hun 4"
   - "Rgr 4"
@@ -26,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 # Terrain Bond
 
-_Enchantment (Compulsion) \[Mind-affecting\]_
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Hun 4, Rgr 4
 - **Components**: V, S, M (a pinch of earth taken from your most favored terrain)

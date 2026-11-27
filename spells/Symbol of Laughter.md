@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Charm"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Mes 3"
   - "Occ 3"
@@ -26,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 # Symbol of Laughter
 
-_Enchantment (Charm) \[Mind-affecting\]_
+_Enchantment (Charm) \[Mind-Affecting\]_
 
 - **Level**: Mes 3, Occ 3, Sor/Wiz 4, Wit 4
 - **Components**: V, S, M (mercury and phosphorus, plus powdered diamond and opal worth a total of 1,000 gp)

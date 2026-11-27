@@ -5,7 +5,7 @@ school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
   - "Emotion"
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Apl 2"
   - "Brd 2"
@@ -34,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 # Unadulterated Loathing
 
-_Enchantment (Compulsion) \[Emotion, Mind-affecting\]_
+_Enchantment (Compulsion) \[Emotion, Mind-Affecting\]_
 
 - **Level**: Apl 2, Brd 2, Mes 2, Psy 3, Skd 2, Sor/Wiz 3, Wit 3
 - **Components**: V, S, M

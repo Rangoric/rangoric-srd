@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Brd 2"
   - "Inq 2"
@@ -33,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 # Qualm
 
-_Enchantment (Compulsion) \[Mind-affecting\]_
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Brd 2, Inq 2, Med 2, Mes 2, Psy 2, Skd 2, Sor/Wiz 2, Wit 2
 - **Components**: V, S

@@ -4,7 +4,7 @@ section: "Spells"
 school: "Conjuration"
 subschool: "Summoning"
 descriptor:
-  - "see text for summon monster I"
+  - "See text"
 level:
   - "Clr 7"
   - "Psy 7"
