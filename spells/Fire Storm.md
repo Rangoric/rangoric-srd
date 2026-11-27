@@ -18,10 +18,7 @@ area: "Two 10-ft. cubes per level (S)"
 duration: "Instantaneous"
 defense: "Reflex half"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Fire Storm|Fire Storm (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

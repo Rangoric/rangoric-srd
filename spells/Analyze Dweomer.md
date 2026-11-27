@@ -21,10 +21,7 @@ targets: "One object or creature per caster level"
 duration: "1 round/level (D)"
 defense: "None or Will; see text"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Analyze Dweomer|Analyze Dweomer (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

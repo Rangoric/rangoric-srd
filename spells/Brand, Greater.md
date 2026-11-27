@@ -16,10 +16,7 @@ target: "Creature touched"
 duration: "Permanent"
 defense: "Fortitude"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Brand, Greater|Brand, Greater (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

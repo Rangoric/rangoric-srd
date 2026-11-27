@@ -13,10 +13,7 @@ target: "Armor touched"
 duration: "2 hours/level (D)"
 defense: "Reflex"
 spell-resistance: "No"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/spells/Insubstantial Armor|Insubstantial Armor (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

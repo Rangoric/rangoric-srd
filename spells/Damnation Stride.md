@@ -15,10 +15,7 @@ target: "Self and creatures within a 10-foot-radius burst (see below)"
 duration: "1 minutes/level"
 defense: "Reflex half, see text"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5/spells/Damnation Stride|Damnation Stride (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

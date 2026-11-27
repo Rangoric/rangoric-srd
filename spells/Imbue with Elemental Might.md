@@ -14,10 +14,7 @@ components:
 duration: "24 hours or until discharged (D)"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[path srd 3.5/spells/Imbue With Elemental Might|Imbue with Elemental Might (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

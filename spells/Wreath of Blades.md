@@ -22,10 +22,7 @@ area: "5-foot-radius emanation centered on you"
 duration: "1 round/level"
 defense: "Reflex half (special, see below)"
 spell-resistance: "No (special, see below)"
-based-on:
-  - "[[path srd 3.5/spells/Wreath Of Blades|Wreath of Blades (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

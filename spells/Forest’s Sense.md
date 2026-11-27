@@ -16,10 +16,7 @@ target: "One creature"
 duration: "1 minute/level (D); see text"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Forest's Sense|Forest’s Sense (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

@@ -13,10 +13,7 @@ duration: "1 round (see text)"
 defense: "None (harmless)"
 spell-resistance: "None (harmless)"
 to-develop: "639,000 gp; 13 days; 25,560 XP. Seed: transport (to move future you back in time 1 round) (DC 27). Factors: move to time stream (+8 DC), stretch the base temporal effect (ad hoc +8 DC), quickened (+28 DC)."
-based-on:
-  - "[[fantasy srd 3.5/spells/Time Duplicate|Time Duplicate (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

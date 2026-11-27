@@ -18,10 +18,7 @@ area: "Dirt in an area up to 750 ft. square and up to 10 ft. deep (S)"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Move Earth|Move Earth (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

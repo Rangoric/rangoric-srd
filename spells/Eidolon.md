@@ -17,10 +17,7 @@ duration: "8 hours"
 defense: "None"
 spell-resistance: "No"
 to-develop: "711,000 gp; 15 days; 28,440 XP. Seed: conjure (to make base substance) (DC 21), transform (DC 21), transport (to move part of caster’s soul into duplicate) (DC 27). Factors: nonliving substance to humanoid (+10 DC), transform into specific individual (+25 DC). Mitigating factor: burn 2,500 XP (-25 DC)."
-based-on:
-  - "[[fantasy srd 3.5/spells/Eidolon|Eidolon (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

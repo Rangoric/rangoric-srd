@@ -24,10 +24,7 @@ area: "Cylinder (20-ft. radius, 40 ft. high)"
 duration: "1 full round"
 defense: "None"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Ice Storm|Ice Storm (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

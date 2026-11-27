@@ -17,10 +17,7 @@ area: "Cone-shaped burst or line; see text"
 duration: "Instantaneous"
 defense: "Reflex half"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Tidal Surge|Tidal Surge (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

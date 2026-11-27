@@ -16,10 +16,7 @@ target: "One arrow or bolt"
 duration: "Instantaneous"
 defense: "Fortitude; see text"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Venomous Bolt|Venomous Bolt (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

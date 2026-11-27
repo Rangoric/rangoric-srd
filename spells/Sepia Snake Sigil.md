@@ -21,10 +21,7 @@ target: "One touched book or written work"
 duration: "Permanent or until discharged; until released or 1d4 days + one day/level; see text"
 defense: "Reflex"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Sepia Snake Sigil|Sepia Snake Sigil (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

@@ -13,10 +13,7 @@ components:
 casting-time: "1 standard action"
 range: "Personal"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5 foundry/spells/True Prognostication|True Prognostication (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

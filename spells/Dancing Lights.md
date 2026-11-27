@@ -24,10 +24,7 @@ effect: "Up to four lights, all within a 10- ft.-radius area"
 duration: "1 minute (D)"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Dancing Lights|Dancing Lights (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

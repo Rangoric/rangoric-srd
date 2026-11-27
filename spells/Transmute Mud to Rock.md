@@ -19,10 +19,7 @@ area: "Up to two 10-ft. cubes/level (S)"
 duration: "Permanent"
 defense: "See text"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Transmute Mud to Rock|Transmute Mud to Rock (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

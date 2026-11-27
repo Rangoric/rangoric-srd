@@ -21,10 +21,7 @@ effect: "Ray"
 duration: "1 min./level"
 defense: "None"
 spell-resistance: "Yes (object)"
-based-on:
-  - "[[fantasy srd 3.5/spells/Dimensional Anchor|Dimensional Anchor (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

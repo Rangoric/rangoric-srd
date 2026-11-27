@@ -17,10 +17,7 @@ duration: "20 rounds (D)"
 defense: "None (see text)"
 spell-resistance: "No"
 to-develop: "342,000 gp; 7 days; 13,680 XP. Seed: summon (DC 14). Factors: summon creature other than outsider (+10 DC), summon CR 14 creature (+24 DC), 1-action casting time (+20 DC). Mitigating factor: two additional casters contributing 8th-level spell slots (-30 DC)."
-based-on:
-  - "[[fantasy srd 3.5/spells/Dragon Knight (Ritual)|Dragon Knight (Ritual) (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

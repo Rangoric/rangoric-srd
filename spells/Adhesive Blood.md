@@ -17,10 +17,7 @@ target: "You"
 duration: "1 minute/level"
 defense: "Reflex (see text)"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5/spells/Adhesive Blood|Adhesive Blood (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

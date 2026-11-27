@@ -19,10 +19,7 @@ target: "One creature with 200 hp or less"
 duration: "See text"
 defense: "None"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Power Word Blind|Power Word Blind (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

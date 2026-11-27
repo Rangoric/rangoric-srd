@@ -15,10 +15,7 @@ target: "One creature who has just struck you with an attack"
 duration: "1 round/level"
 defense: "Fortitude partial"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Retribution|Retribution (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell, evil]
 ---

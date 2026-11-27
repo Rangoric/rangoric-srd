@@ -20,10 +20,7 @@ effect: "One swarm of locusts per three levels, each of which must be adjacent t
 duration: "1 min./level"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Insect Plague|Insect Plague (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

@@ -16,10 +16,7 @@ range: "Personal"
 target: "You"
 duration: "1 round/level or until you move"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Wooden Wing Shield|Wooden Wing Shield (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

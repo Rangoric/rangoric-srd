@@ -12,10 +12,7 @@ area: "10-ft.-radius emanation centered on you"
 duration: "3 rounds"
 defense: "None"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Tower of Iron Will III|Tower of Iron Will III (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/spell]
 ---

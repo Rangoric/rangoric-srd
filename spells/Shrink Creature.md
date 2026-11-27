@@ -14,10 +14,7 @@ target: "One creature up to 100 lb./level"
 duration: "1 minute/level"
 defense: "Fortitude"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Faeries/spells/Shrink Creature|Shrink Creature (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/spell]
 ---

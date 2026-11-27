@@ -17,10 +17,7 @@ target: "One creature or object"
 duration: "Concentration, up to 1 round/level"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Analyze Aura|Analyze Aura (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/spell]
 ---

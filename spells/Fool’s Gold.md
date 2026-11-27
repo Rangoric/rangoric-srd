@@ -18,10 +18,7 @@ target: "Objects touched"
 duration: "Caster level hour(s)"
 defense: "None or Will disbelief (see text)"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Fool's Gold (VC)|Fool’s Gold (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

@@ -6,10 +6,7 @@ subschool: "Glamour"
 level:
   - "Sor/Wiz 7"
 duration: "1 round/level"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/spells/Complete Invisibility|Complete Invisibility (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

@@ -19,10 +19,7 @@ target: "One of your animal companions or your familiar"
 duration: "1 minute/level (see below)"
 defense: "Fortitude (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[path srd 3.5/spells/Companion Life Link|Companion Life Link (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

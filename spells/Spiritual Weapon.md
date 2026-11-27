@@ -21,10 +21,7 @@ effect: "Magic weapon of force"
 duration: "1 round/level (D)"
 defense: "None"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Spiritual Weapon|Spiritual Weapon (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

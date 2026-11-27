@@ -22,11 +22,7 @@ target: "Living creature touched"
 duration: "Instantaneous"
 defense: "Fortitude"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Contagion|Contagion (3.5)]]"
-  - "[[path srd 3.5/spells/Contagion|Contagion (PF1)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell, evil]
 ---

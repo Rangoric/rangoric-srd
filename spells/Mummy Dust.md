@@ -17,10 +17,7 @@ duration: "Instantaneous"
 defense: "None"
 spell-resistance: "No"
 to-develop: "315,000 gp; 7 days; 12,600 XP. Seed: animate dead (DC 23). Factors: 1-action casting time (+20 DC). Mitigating factors: burn 400 XP (-4 DC), expensive material component (ad hoc -4 DC)."
-based-on:
-  - "[[fantasy srd 3.5/spells/Mummy Dust|Mummy Dust (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell, evil]
 ---

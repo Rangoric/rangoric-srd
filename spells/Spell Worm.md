@@ -16,10 +16,7 @@ duration: "20 hours or until completed"
 defense: "Will"
 spell-resistance: "Yes"
 to-develop: "405,000 gp; 9 days; 16,200 XP. Seed: compel (DC 19). Factors: unobtrusive (ad hoc +6 DC), 1-action casting time (+20 DC)."
-based-on:
-  - "[[fantasy srd 3.5/spells/Spell Worm|Spell Worm (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

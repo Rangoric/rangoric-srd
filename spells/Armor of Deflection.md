@@ -14,10 +14,7 @@ target: "Creature touched"
 duration: "1 minute/level"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/spells/Armor of Deflection|Armor of Deflection (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

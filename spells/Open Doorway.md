@@ -19,10 +19,7 @@ target: "One doorway"
 duration: "Permanent"
 defense: "None"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Faeries/spells/Open Doorway|Open Doorway (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/spell]
 ---

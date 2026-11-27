@@ -11,10 +11,7 @@ level:
   - "Sor/Wiz 7"
   - "Wit 7"
 defense: "Will"
-based-on:
-  - "[[fantasy srd 3.5/spells/Symbol of Stunning|Symbol of Stunning (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

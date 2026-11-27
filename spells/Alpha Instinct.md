@@ -22,10 +22,7 @@ range: "Personal"
 target: "You"
 duration: "Caster level hour(s)"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Alpha Instinct|Alpha Instinct (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

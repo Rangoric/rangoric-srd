@@ -18,10 +18,7 @@ target: "One or more creatures"
 duration: "Permanent"
 defense: "Will partial (see text)"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Microcosm|Microcosm (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/spell]
 ---

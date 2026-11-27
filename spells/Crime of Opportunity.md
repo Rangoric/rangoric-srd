@@ -18,10 +18,7 @@ target: "One creature"
 duration: "1 round(s)"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Crime of Opportunity|Crime of Opportunity (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/spell]
 ---

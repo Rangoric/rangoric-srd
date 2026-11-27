@@ -15,10 +15,7 @@ target: "Willing living creature touched"
 duration: "Caster level hour(s)"
 defense: "Fortitude"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Shapechanger's Gift, Greater|Shapechanger’s Gift, Greater (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

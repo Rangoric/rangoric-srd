@@ -24,10 +24,7 @@ target: "You"
 duration: "10 * caster level minute(s)"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Enshroud Thoughts|Enshroud Thoughts (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

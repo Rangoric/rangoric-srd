@@ -13,10 +13,7 @@ target: "You and other touched willing creatures weighing up to 1,000 lb."
 duration: "Instantaneous (D)"
 defense: "Yes (harmless) (see text) S"
 to-develop: "261,000 gp; 6 days; 10,400 XP. Seed: transport (DC 27). Factor: transport to region of dreams (+2 DC)."
-based-on:
-  - "[[fantasy srd 3.5/spells/Dreamscape|Dreamscape (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

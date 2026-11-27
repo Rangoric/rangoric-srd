@@ -16,10 +16,7 @@ components:
   - "M"
 range: "Long (400 ft. + 40 ft./level)"
 targets: "Any number of creatures, no two of which can be more than 180 ft. apart"
-based-on:
-  - "[[fantasy srd 3.5/spells/Invisibility, Mass|Invisibility, Mass (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

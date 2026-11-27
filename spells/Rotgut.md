@@ -19,10 +19,7 @@ target: "1 gallon of water/level"
 duration: "Instantaneous"
 defense: "Fortitude (object)"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Rotgut|Rotgut (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

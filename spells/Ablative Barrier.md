@@ -24,10 +24,7 @@ target: "Creature touched"
 duration: "1 hour/level or until discharged"
 defense: "Will (harmless)"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5/spells/Ablative Barrier|Ablative Barrier (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

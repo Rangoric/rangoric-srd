@@ -23,10 +23,7 @@ target: "One humanoid creature"
 duration: "1 min./level (D)"
 defense: "Fortitude"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Reduce Person|Reduce Person (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

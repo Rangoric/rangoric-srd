@@ -19,10 +19,7 @@ target: "One creature"
 duration: "Instantaneous"
 defense: "Fortitude partial"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Destruction|Destruction (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

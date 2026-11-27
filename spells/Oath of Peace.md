@@ -11,10 +11,7 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 round/level"
-based-on:
-  - "[[path srd 3.5/spells/Oath Of Peace|Oath of Peace (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

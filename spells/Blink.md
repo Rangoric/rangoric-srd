@@ -17,10 +17,7 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 round/level (D)"
-based-on:
-  - "[[fantasy srd 3.5/spells/Blink|Blink (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

@@ -16,10 +16,7 @@ range: "Touch"
 target: "Projectile weapon touched"
 duration: "1 round/caster level (D)"
 defense: "Will (object, harmless); Spell Resistance yes (object, harmless)"
-based-on:
-  - "[[path srd 3.5/spells/Reloading Hands|Reloading Hands (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

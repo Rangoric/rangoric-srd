@@ -16,10 +16,7 @@ target: "Touched nonmagical circle of vine, rope, or thong with a 2 ft. diameter
 duration: "Until triggered or broken"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Snare|Snare (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

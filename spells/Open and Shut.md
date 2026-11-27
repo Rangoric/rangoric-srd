@@ -19,10 +19,7 @@ target: "One door, window, or similar portal no more than 10 feet by 10 feet in 
 duration: "Caster level round(s)"
 defense: "Will disbelief"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Open and Shut|Open and Shut (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

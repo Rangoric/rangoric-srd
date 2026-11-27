@@ -22,10 +22,7 @@ target: "One touched creature/level"
 duration: "10 minutes/level"
 defense: "None or Will (harmless, object)"
 spell-resistance: "No or Yes (harmless, object)"
-based-on:
-  - "[[individual books/Faeries/spells/Fey Mask|Fey Mask (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

@@ -5,10 +5,7 @@ school: "Abjuration"
 level:
   - "Sor/Wiz 7"
 duration: "5 rounds/level (D)"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/spells/Master Powershell|Master Powershell (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

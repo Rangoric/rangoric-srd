@@ -18,10 +18,7 @@ casting-time: "1 immediate action"
 range: "Personal"
 target: "You"
 duration: "1 round or until discharged"
-based-on:
-  - "[[path srd 3.5/spells/Wave Shield|Wave Shield (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

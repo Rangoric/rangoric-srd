@@ -16,10 +16,7 @@ range: "Personal"
 target: "You"
 duration: "1 hour/level or until discharged"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Swallow Poison|Swallow Poison (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

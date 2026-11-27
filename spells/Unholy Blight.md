@@ -16,10 +16,7 @@ area: "20-ft.-radius spread"
 duration: "Instantaneous (1d4 rounds); see text"
 defense: "Will partial"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Unholy Blight|Unholy Blight (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell, evil]
 ---

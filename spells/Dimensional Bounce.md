@@ -18,10 +18,7 @@ targets: "You and touched objects or other touched willing creatures"
 duration: "1 round/level or until discharged"
 defense: "None and Will (object)"
 spell-resistance: "No and yes (object)"
-based-on:
-  - "[[path srd 3.5/spells/Dimensional Bounce|Dimensional Bounce (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

@@ -24,10 +24,7 @@ target: "One living creature with 7 HD or fewer"
 duration: "Caster level minute(s)"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Covetous Urge|Covetous Urge (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

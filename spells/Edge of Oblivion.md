@@ -14,10 +14,7 @@ target: "One creature"
 duration: "Instantaneous"
 defense: "Will, Fortitude (see text)"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/spells/Edge of Oblivion|Edge of Oblivion (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

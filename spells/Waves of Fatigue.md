@@ -17,10 +17,7 @@ area: "Cone-shaped burst"
 duration: "Instantaneous"
 defense: "No"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Waves of Fatigue|Waves of Fatigue (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

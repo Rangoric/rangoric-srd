@@ -9,10 +9,7 @@ level:
 range: "20 ft."
 area: "Semicircular burst of flames 20 ft. long, centered on the character’s hands"
 duration: "1 round"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/spells/Repulsion by Fire|Repulsion by Fire (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

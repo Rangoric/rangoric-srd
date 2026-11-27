@@ -23,10 +23,7 @@ target: "One living creature"
 duration: "1 round (see text)"
 defense: "Fortitude; see text"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Steal Breath|Steal Breath (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

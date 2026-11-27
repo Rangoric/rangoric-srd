@@ -6,10 +6,7 @@ level:
   - "Clr 8"
   - "Sha 8"
   - "Wit 9"
-based-on:
-  - "[[fantasy srd 3.5/spells/Inflict Critical Wounds, Mass|Inflict Critical Wounds, Mass (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

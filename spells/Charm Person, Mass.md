@@ -22,10 +22,7 @@ target: "One or more humanoid creatures, no two of which can be more than 30 ft.
 duration: "Caster level hour(s)"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Charm Person, Mass|Charm Person, Mass (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

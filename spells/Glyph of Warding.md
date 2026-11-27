@@ -16,10 +16,7 @@ target-or-area: "Object touched or up to 5 sq. ft./level"
 duration: "Permanent until discharged (D)"
 defense: "See text"
 spell-resistance: "No (object) and Yes; see text"
-based-on:
-  - "[[fantasy srd 3.5/spells/Glyph of Warding|Glyph of Warding (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

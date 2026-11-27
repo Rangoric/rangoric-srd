@@ -19,10 +19,7 @@ area: "One 5-ft. square"
 duration: "1 minute/level (D)"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[path srd 3.5/spells/Rally Point|Rally Point (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell, good]
 ---

@@ -15,10 +15,7 @@ target: "You"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Burst of Adrenaline|Burst of Adrenaline (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/spell]
 ---

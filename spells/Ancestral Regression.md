@@ -19,10 +19,7 @@ target: "Willing drow touched"
 duration: "24 hours (D)"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[path srd 3.5/spells/Ancestral Regression|Ancestral Regression (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

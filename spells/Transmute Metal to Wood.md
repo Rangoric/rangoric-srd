@@ -14,10 +14,7 @@ area: "All metal objects within a 40-ft.-radius burst"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "Yes (object; see text)"
-based-on:
-  - "[[fantasy srd 3.5/spells/Transmute Metal to Wood|Transmute Metal to Wood (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

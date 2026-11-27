@@ -13,11 +13,7 @@ components:
   - "M"
 range: "Close (25 ft. + 5 ft./2 levels)"
 targets: "One or more creatures, no two of which can be more than 30 ft. apart"
-based-on:
-  - "[[path srd 3.5/spells/Heroic Fortune, Mass|Heroic Fortune, Mass (PF1)]]"
-  - "[[path srd 3.5 foundry/spells/Heroic Fortune, Mass|Heroic Fortune, Mass (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

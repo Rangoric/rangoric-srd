@@ -22,10 +22,7 @@ effect: "Illusory sounds"
 duration: "1 round/level (D)"
 defense: "Will disbelief (if interacted with)"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Ghost Sound|Ghost Sound (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

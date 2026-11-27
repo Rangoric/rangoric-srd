@@ -18,10 +18,7 @@ target: "Creature touched"
 duration: "1 hour/level (D)"
 defense: "Will (see text)"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Faeries/spells/Longvision|Longvision (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

@@ -16,10 +16,7 @@ target: "Object touched"
 duration: "1 day/level"
 defense: "None; see text"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Implant False Reading|Implant False Reading (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/spell]
 ---

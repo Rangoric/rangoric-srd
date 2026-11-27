@@ -22,10 +22,7 @@ area: "Cone-shaped burst"
 duration: "Instantaneous; see text"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Color Spray|Color Spray (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

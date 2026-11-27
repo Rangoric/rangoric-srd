@@ -13,10 +13,7 @@ target: "One undead creature touched (see text)"
 duration: "Instantaneous"
 defense: "Will half (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[path srd 3.5/spells/Repair Undead|Repair Undead (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

@@ -21,10 +21,7 @@ area: "A 30-ft.-radius spread, centered on you"
 duration: "Instantaneous"
 defense: "Fortitude partial"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Stormbolts|Stormbolts (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

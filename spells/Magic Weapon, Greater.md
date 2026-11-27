@@ -23,10 +23,7 @@ target: "One weapon or fifty projectiles (all of which must be in contact with e
 duration: "1 hour/level"
 defense: "Will (harmless, object)"
 spell-resistance: "Yes (harmless, object)"
-based-on:
-  - "[[fantasy srd 3.5/spells/Magic Weapon, Greater|Magic Weapon, Greater (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

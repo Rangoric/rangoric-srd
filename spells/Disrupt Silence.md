@@ -17,10 +17,7 @@ area: "10-ft.-radius emanation centered on a creature, object, or point in space
 duration: "Caster level round(s)"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Disrupt Silence|Disrupt Silence (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

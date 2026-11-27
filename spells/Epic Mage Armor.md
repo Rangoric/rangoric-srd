@@ -16,10 +16,7 @@ duration: "24 hours (D)"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 to-develop: "414,000 gp; 9 days; 16,560 XP. Seed: armor (DC 14). Factor: +16 additional armor bonus (+32 DC)."
-based-on:
-  - "[[fantasy srd 3.5/spells/Epic Mage Armor|Epic Mage Armor (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

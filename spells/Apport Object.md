@@ -20,10 +20,7 @@ target: "One touched object of up to 1 lb. and 1 cu. ft."
 duration: "Instantaneous or 1 hour/level"
 defense: "Will (object)"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Apport Object|Apport Object (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

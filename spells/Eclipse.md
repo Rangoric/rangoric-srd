@@ -17,10 +17,7 @@ duration: "Up to 8 hours (D)"
 defense: "None"
 spell-resistance: "No"
 to-develop: "378,000 gp; 8 days; 15,1200 XP. Seeds: conjure (DC 21), transport (to move disk into position 100 miles up) (DC 27). Factors: increase mass by 1,000% (+40 DC), spread mass into paper-thin disk (ad hoc +2 DC), keep disk in place for 8 hours (ad hoc +10 DC). Mitigating factors: increase casting time by 9 minutes (-18 DC), burn 4,000 XP (-40 DC)."
-based-on:
-  - "[[fantasy srd 3.5/spells/Eclipse|Eclipse (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

@@ -14,10 +14,7 @@ casting-time: "1 round"
 range: "Personal"
 area: "5-ft.-radius emanation centered on you"
 duration: "1 hour/level (D)"
-based-on:
-  - "[[fantasy srd 3.5/spells/Zone of Silence|Zone of Silence (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

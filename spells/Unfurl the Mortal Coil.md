@@ -16,10 +16,7 @@ target: "Living creature touched"
 duration: "Instantaneous"
 defense: "Fortitude (see text)"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Faeries/spells/Unfurl the Mortal Coil|Unfurl the Mortal Coil (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

@@ -17,10 +17,7 @@ target: "Living creature touched"
 duration: "1 minute/level"
 defense: "Fortitude"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Interrogation, Greater|Interrogation, Greater (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell, evil]
 ---

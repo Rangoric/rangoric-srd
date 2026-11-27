@@ -17,10 +17,7 @@ components:
   - "V"
   - "S"
 target: "One animal"
-based-on:
-  - "[[fantasy srd 3.5/spells/Hold Animal|Hold Animal (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

@@ -14,10 +14,7 @@ target: "One item of a volume no greater than 10 cu. ft./level (see text)"
 duration: "Permanent"
 defense: "None"
 spell-resistance: "Yes (object)"
-based-on:
-  - "[[fantasy srd 3.5/spells/Hardening|Hardening (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

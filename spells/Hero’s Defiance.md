@@ -11,10 +11,7 @@ casting-time: "1 immediate action"
 range: "Personal"
 target: "You"
 duration: "Instantaneous"
-based-on:
-  - "[[path srd 3.5/spells/Hero's Defiance|Hero’s Defiance (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

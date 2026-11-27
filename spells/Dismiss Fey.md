@@ -17,10 +17,7 @@ target: "One fey creature"
 duration: "Instantaneous"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Faeries/spells/Dismiss Fey|Dismiss Fey (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

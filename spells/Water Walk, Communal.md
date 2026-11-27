@@ -19,10 +19,7 @@ target: "Creatures touched"
 duration: "10 min./level (D)"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[path srd 3.5/spells/Water Walk, Communal|Water Walk, Communal (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

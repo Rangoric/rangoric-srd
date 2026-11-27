@@ -19,10 +19,7 @@ target: "Armor suits or weapons touched"
 duration: "10 minutes/level"
 defense: "Will (harmless, object)"
 spell-resistance: "Yes (harmless, object)"
-based-on:
-  - "[[path srd 3.5/spells/Reinforce Armaments, Communal|Reinforce Armaments, Communal (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

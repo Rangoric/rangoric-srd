@@ -17,10 +17,7 @@ area: "40-ft.-radius spread"
 duration: "Caster level round(s)"
 defense: "Reflex or partial (see text)"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Burning Entanglement|Burning Entanglement (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

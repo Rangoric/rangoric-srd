@@ -15,10 +15,7 @@ target: "One construct"
 duration: "1 round/level"
 defense: "Will (harmless)"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5/spells/Unbreakable Construct|Unbreakable Construct (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

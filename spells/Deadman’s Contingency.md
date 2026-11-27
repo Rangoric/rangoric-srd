@@ -19,10 +19,7 @@ range: "Personal"
 target: "You"
 duration: "Up to 1 hour/level plus 1d6 rounds (D); see text"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Deadman's Contingency|Deadman’s Contingency (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

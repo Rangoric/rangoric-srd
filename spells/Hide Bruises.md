@@ -23,10 +23,7 @@ target: "One creature touched"
 duration: "10 * caster level minute(s)"
 defense: "None and Will disbelief (see text)"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Hide Bruises|Hide Bruises (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

@@ -15,10 +15,7 @@ area: "10-ft.-radius burst"
 duration: "Instantaneous"
 defense: "Reflex half (see text)"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Explosion of Rot|Explosion of Rot (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

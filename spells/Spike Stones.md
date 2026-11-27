@@ -19,10 +19,7 @@ area: "One 20-ft. square/level"
 duration: "1 hour/level (D)"
 defense: "Reflex partial"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Spike Stones|Spike Stones (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

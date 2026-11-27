@@ -15,10 +15,7 @@ duration: "20 rounds"
 defense: "None"
 spell-resistance: "No"
 to-develop: "450,000 gp; 9 days; 18,000 XP. Seed: summon (DC 14). Factors: summon CR 31 creature (+58 DC), allow creature to possess body and act at its own discretion (ad hoc -20 DC), 1-action casting time (+20 DC). Mitigating factors: 12d6 backlash (-12 DC), burn 1,000 XP (-10 DC)."
-based-on:
-  - "[[fantasy srd 3.5/spells/Lord of Nightmares|Lord of Nightmares (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

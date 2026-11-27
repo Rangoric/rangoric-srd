@@ -19,10 +19,7 @@ effect: "One or more summoned creatures, no two of which can be more than 30 ft.
 duration: "1 round/level (D)"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[individual books/Faeries/spells/Summon Fey IX|Summon Fey IX (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/spell]
 ---

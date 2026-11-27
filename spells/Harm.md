@@ -19,10 +19,7 @@ target: "Creature touched"
 duration: "Instantaneous"
 defense: "Will half; see text"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Harm|Harm (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

@@ -16,10 +16,7 @@ target: "You or all creatures within 5 ft.; see text"
 duration: "10 minutes/level (D)"
 defense: "Will half"
 spell-resistance: "None"
-based-on:
-  - "[[path srd 3.5/spells/Veil Of Heaven|Veil of Heaven (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell, good]
 ---

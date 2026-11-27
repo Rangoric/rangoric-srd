@@ -24,10 +24,7 @@ target: "One creature"
 duration: "Permanent (see text)"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Conditional Curse|Conditional Curse (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

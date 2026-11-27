@@ -20,10 +20,7 @@ effect: "Single fist-sized blob of sticky mud"
 duration: "Instantaneous"
 defense: "Reflex; see text"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5/spells/Mudball|Mudball (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

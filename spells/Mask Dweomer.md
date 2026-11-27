@@ -17,10 +17,7 @@ target: "Creature or object touched"
 duration: "1 day/level (D)"
 defense: "None; see text"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5/spells/Mask Dweomer|Mask Dweomer (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/spell]
 ---

@@ -21,10 +21,7 @@ effect: "Unattended, nonmagical object of nonliving plant matter, up to 1 cu. ft
 duration: "1 hour/level (D)"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Minor Creation|Minor Creation (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

@@ -19,11 +19,7 @@ target: "Living creature touched"
 duration: "1 round/level"
 defense: "Fortitude (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[path srd 3.5/spells/Deathless|Deathless (PF1)]]"
-  - "[[path srd 3.5 foundry/spells/Deathless (Spell)|Deathless (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/spell]
 ---

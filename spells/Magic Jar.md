@@ -18,10 +18,7 @@ target: "One creature"
 duration: "1 hour/level or until you return to your body"
 defense: "Will; see text"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Magic Jar|Magic Jar (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

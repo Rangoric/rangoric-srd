@@ -15,10 +15,7 @@ target: "You"
 duration: "1 round/level"
 defense: "Special, see below"
 spell-resistance: "Special, see below"
-based-on:
-  - "[[path srd 3.5/spells/Lightning Lash Bomb Admixture|Lightning Lash Bomb Admixture (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

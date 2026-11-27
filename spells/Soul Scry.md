@@ -13,10 +13,7 @@ duration: "20 minutes (D)"
 defense: "Will"
 spell-resistance: "No"
 to-develop: "495,000 gp; 10 days; 19,800 XP. Seeds: contact (DC 23), reveal (DC 19), conceal (DC 17). Factors: apply to all five senses (+8 DC), conceal detection (ad hoc +6 DC). Mitigating factor: increase casting time by 9 minutes (-18 DC)."
-based-on:
-  - "[[fantasy srd 3.5/spells/Soul Scry|Soul Scry (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

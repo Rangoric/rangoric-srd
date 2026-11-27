@@ -16,10 +16,7 @@ area: "Up to one 10-ft. cube per two levels (S)"
 duration: "1 round/level (D)"
 defense: "None; see text"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Reverse Gravity|Reverse Gravity (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

@@ -19,10 +19,7 @@ level:
 casting-time: "10 minutes"
 target: "One living creature"
 defense: "None"
-based-on:
-  - "[[fantasy srd 3.5/spells/Geas-Quest|Geas-Quest (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

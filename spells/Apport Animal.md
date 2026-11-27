@@ -22,10 +22,7 @@ target: "One touched animal of Tiny or smaller size"
 duration: "Instantaneous or 1 hour/level"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Apport Animal|Apport Animal (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

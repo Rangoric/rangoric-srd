@@ -25,10 +25,7 @@ effect: "One swarm of poisonous frogs"
 duration: "Concentration + 2 rounds"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5/spells/Rain Of Frogs|Rain of Frogs (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

@@ -15,10 +15,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "One object"
 duration: "1 day"
-based-on:
-  - "[[path srd 3.5/spells/Theft Ward|Theft Ward (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

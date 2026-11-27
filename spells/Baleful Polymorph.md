@@ -20,11 +20,7 @@ target: "One creature"
 duration: "Permanent"
 defense: "Fortitude, Will partial; see text"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Baleful Polymorph|Baleful Polymorph (3.5)]]"
-  - "[[path srd 3.5/afflictions/Baleful Polymorph Spell|Baleful Polymorph Spell (PF1)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

@@ -15,10 +15,7 @@ target: "The door, chest, or portal touched, up to 30 sq. ft./level in size"
 duration: "Permanent"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Arcane Lock|Arcane Lock (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

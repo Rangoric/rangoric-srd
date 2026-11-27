@@ -13,10 +13,7 @@ effect: "Wall whose area is up to one 10ft. square/level or a sphere or hemisphe
 duration: "1 minute/level (D)"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/spells/Wall of Antimagic|Wall of Antimagic (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

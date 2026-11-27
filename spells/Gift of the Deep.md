@@ -16,10 +16,7 @@ target: "One non-mutated sahuagin/level, no two of which can be more than 30 ft.
 duration: "1 minute/level (D)"
 defense: "Fortitude negate (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[path srd 3.5/spells/Gift of the Deep|Gift of the Deep (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

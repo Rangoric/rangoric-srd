@@ -14,10 +14,7 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 hour/level or until discharged"
-based-on:
-  - "[[fantasy srd 3.5/spells/Moment of Prescience|Moment of Prescience (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

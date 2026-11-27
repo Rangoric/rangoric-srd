@@ -12,10 +12,7 @@ casting-time: "1 standard action"
 range: "Personal"
 effect: "One swarm of spiders"
 duration: "1 round/level"
-based-on:
-  - "[[path srd 3.5/spells/Vomit Swarm|Vomit Swarm (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/spell]
 ---

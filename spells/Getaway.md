@@ -21,10 +21,7 @@ targets: "You and one willing creature/2 levels, all of which must be within 30 
 duration: "1 hour/level"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5/spells/Getaway|Getaway (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

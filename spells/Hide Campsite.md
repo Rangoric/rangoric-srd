@@ -17,10 +17,7 @@ area: "One 20-ft. cube"
 duration: "2 hours/level (D)"
 defense: "Will disbelief (if interacted with)"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5/spells/Hide Campsite|Hide Campsite (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

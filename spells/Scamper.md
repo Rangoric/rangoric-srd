@@ -14,10 +14,7 @@ range: "Close (25 ft. + 5 ft./2 levels)"
 target: "Your animal companion"
 duration: "1 round; see text"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Scamper|Scamper (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

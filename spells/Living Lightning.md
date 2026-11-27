@@ -14,10 +14,7 @@ duration: "Instantaneous"
 defense: "Reflex half"
 spell-resistance: "Yes"
 to-develop: "1,260,000 gp; 26 days; 50,400 XP. Seeds: life (DC 27), energy (DC 19). Factors: 1-action casting time (+20 DC), no verbal or somatic components (+4 DC), giving life to a spell (ad hoc x2 DC)."
-based-on:
-  - "[[fantasy srd 3.5/spells/Living Lightning|Living Lightning (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

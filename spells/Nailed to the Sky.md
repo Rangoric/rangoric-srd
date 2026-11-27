@@ -15,10 +15,7 @@ duration: "Instantaneous"
 defense: "Will"
 spell-resistance: "Yes"
 to-develop: "558,000 gp; 12 days; 22,320 XP. Seeds: foresee (to preview endpoint of teleportation) (DC 17), transport (DC 27). Factors: unwilling target (+4 DC), increase range from touch (+4 DC), 1-action casting time (+20 DC). Mitigating factor: burn 1,000 XP (-10 DC)."
-based-on:
-  - "[[fantasy srd 3.5/spells/Nailed to the Sky|Nailed to the Sky (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

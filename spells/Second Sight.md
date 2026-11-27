@@ -21,10 +21,7 @@ area: "Cone"
 duration: "10 minutes/level"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[individual books/Faeries/spells/Second Sight|Second Sight (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

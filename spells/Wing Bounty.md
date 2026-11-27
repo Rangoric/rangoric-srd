@@ -15,10 +15,7 @@ range: "0 ft."
 effect: "2d4 berries + 2 berries/level"
 duration: "Caster level day(s)"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Wing Bounty|Wing Bounty (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

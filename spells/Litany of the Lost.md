@@ -18,10 +18,7 @@ target: "All allies within range"
 duration: "1 minute/level"
 defense: "None"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/spells/Litany of the Lost|Litany of the Lost (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

@@ -12,10 +12,7 @@ casting-time: "1 standard action"
 range: "Personal"
 targets: "You and your mount"
 duration: "1 round/level (D); see text"
-based-on:
-  - "[[path srd 3.5/spells/Saddle Surge|Saddle Surge (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

@@ -20,10 +20,7 @@ target: "Lava wall whose area is up to one 5-ft. square/level (S)"
 duration: "1 round/level (D)"
 defense: "See text"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5/spells/Wall Of Lava|Wall of Lava (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

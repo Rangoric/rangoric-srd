@@ -18,10 +18,7 @@ targets: "Up to five creatures, no two of which can be more than 15 ft. apart"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Magic Missile|Magic Missile (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

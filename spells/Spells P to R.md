@@ -1,10 +1,7 @@
 ---
 srd-type: "overview"
 section: "Spells"
-based-on:
-  - "[[fantasy srd 3.5/spells/Spells P to R|Spells P to R (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---

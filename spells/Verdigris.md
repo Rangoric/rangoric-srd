@@ -14,10 +14,7 @@ duration: "24 hours"
 defense: "Reflex half"
 spell-resistance: "No"
 to-develop: "522,000 gp; 11 days; 20,880 XP. Seed: conjure (DC 21). Factors: change Area to 20-ft.-radius hemi-sphere (+2 DC), increase radius to 100 ft. (+16 DC), deal 10d6 damage during growth (ad hoc +19 DC)."
-based-on:
-  - "[[fantasy srd 3.5/spells/Verdigris|Verdigris (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

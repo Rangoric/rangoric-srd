@@ -23,10 +23,7 @@ target: "One living creature/level, no two of which can be more than 30 ft. apar
 duration: "1 round/level"
 defense: "Fortitude"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Howling Agony|Howling Agony (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

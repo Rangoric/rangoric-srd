@@ -20,10 +20,7 @@ area: "120-ft.-radius emanation"
 duration: "10 minute/level"
 defense: "Will, see text"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5/spells/Lunar Veil|Lunar Veil (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

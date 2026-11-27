@@ -20,10 +20,7 @@ target: "One creature"
 duration: "1 round"
 defense: "Will partial; see text"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Confess|Confess (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

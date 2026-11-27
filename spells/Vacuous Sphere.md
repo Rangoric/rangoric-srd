@@ -13,10 +13,7 @@ area: "10 ft. cube"
 duration: "11 rounds (D)"
 defense: "Reflex partial"
 spell-resistance: "No"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/spells/Vacuous Sphere|Vacuous Sphere (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

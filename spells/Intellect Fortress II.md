@@ -12,10 +12,7 @@ area: "20-ft.-radius emanation centered on you"
 duration: "1 round"
 defense: "None"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Intellect Fortress II|Intellect Fortress II (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/spell]
 ---

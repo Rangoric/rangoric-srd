@@ -14,10 +14,7 @@ level:
   - "Sor/Wiz 4"
   - "Wit 4"
 duration: "1 day/level or until completed"
-based-on:
-  - "[[path srd 3.5/spells/Triggered Suggestion|Triggered Suggestion (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

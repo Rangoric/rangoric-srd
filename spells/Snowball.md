@@ -22,10 +22,7 @@ range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "One ball of ice and snow"
 duration: "Instantaneous"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Snowball|Snowball (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

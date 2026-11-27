@@ -18,10 +18,7 @@ components:
 casting-time: "1 standard action"
 range: "Personal (half-elf only)"
 duration: "1 minute/level"
-based-on:
-  - "[[path srd 3.5/spells/Paragon Surge|Paragon Surge (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

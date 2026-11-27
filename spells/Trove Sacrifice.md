@@ -14,10 +14,7 @@ targets: "Self"
 duration: "1 round/level (D)"
 defense: "No"
 spell-resistance: "No"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/spells/Trove Sacrifice|Trove Sacrifice (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

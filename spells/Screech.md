@@ -14,10 +14,7 @@ area: "30-ft.-radius spread centered on you"
 duration: "Instantaneous"
 defense: "Fortitude"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Screech|Screech (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/spell]
 ---

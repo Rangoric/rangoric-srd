@@ -20,10 +20,7 @@ targets: "One creature"
 duration: "1 minute/level"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Instigate Psychic Duel|Instigate Psychic Duel (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/spell]
 ---

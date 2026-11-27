@@ -16,10 +16,7 @@ targets: "You plus one additional willing creature touched per two caster levels
 duration: "See text"
 defense: "None"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Astral Projection, Lesser|Astral Projection, Lesser (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

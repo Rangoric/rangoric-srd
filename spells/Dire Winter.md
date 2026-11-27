@@ -16,10 +16,7 @@ duration: "20 hours"
 defense: "None"
 spell-resistance: "None"
 to-develop: "2,871,000 gp; 58 days; 114,840 XP. Seed: energy (emanate 2d6 cold in 10-ft. radius) (DC 19). Factor: 100 times increase in base area (+400 DC). Mitigating factor: burn 10,000 XP (-100 DC)."
-based-on:
-  - "[[fantasy srd 3.5/spells/Dire Winter|Dire Winter (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

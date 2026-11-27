@@ -28,10 +28,7 @@ area: "Cone-shaped emanation"
 duration: "Concentration, up to 1 minute/level"
 defense: "Will (see text)"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Detect Desires|Detect Desires (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

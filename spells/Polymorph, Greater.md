@@ -15,10 +15,7 @@ target: "Living creature touched"
 duration: "1 min/level (D)"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[path srd 3.5/spells/Polymorph, Greater|Polymorph, Greater (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/spell]
 ---

@@ -22,10 +22,7 @@ target: "One living creature"
 duration: "Permanent (D)"
 defense: "Fortitude"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Blindness-Deafness|Blindness-Deafness (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

@@ -21,10 +21,7 @@ target: "You"
 duration: "1 minute/level"
 defense: "None"
 spell-resistance: "See text"
-based-on:
-  - "[[path srd 3.5/spells/Shocking Image|Shocking Image (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

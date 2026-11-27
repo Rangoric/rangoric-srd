@@ -15,10 +15,7 @@ casting-time: "At least 10 minutes; see text"
 range: "Personal"
 target: "You"
 duration: "One day/level (D) or until discharged"
-based-on:
-  - "[[fantasy srd 3.5/spells/Contingency|Contingency (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

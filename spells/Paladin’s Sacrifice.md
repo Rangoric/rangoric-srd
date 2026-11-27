@@ -13,10 +13,7 @@ target: "One creature"
 duration: "Instantaneous"
 defense: "Fortitude (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[path srd 3.5/spells/Paladin's Sacrifice|Paladin’s Sacrifice (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

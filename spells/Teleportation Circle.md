@@ -17,10 +17,7 @@ effect: "5-ft.-radius circle that teleports those who activate it"
 duration: "10 min./level (D)"
 defense: "None"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Teleportation Circle|Teleportation Circle (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

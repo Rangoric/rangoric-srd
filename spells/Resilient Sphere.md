@@ -18,10 +18,7 @@ effect: "1-ft.-diameter/level sphere, centered around a creature"
 duration: "1 min./level (D)"
 defense: "Reflex"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Resilient Sphere|Resilient Sphere (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

@@ -21,10 +21,7 @@ target: "Creature (Gargantuan or smaller) touched"
 duration: "10 min./level"
 defense: "None"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[fantasy srd 3.5/spells/Air Walk|Air Walk (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

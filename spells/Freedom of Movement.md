@@ -28,11 +28,7 @@ target: "You or creature touched"
 duration: "10 min./level"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[fantasy srd 3.5/spells/Freedom of Movement|Freedom of Movement (3.5)]]"
-  - "[[path srd 3.5/spells/Freedom Of Movement|Freedom of Movement (PF1)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

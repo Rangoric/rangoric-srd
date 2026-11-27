@@ -26,10 +26,7 @@ area: "Circle, centered on you, with a radius of 400 ft. + 40 ft./level"
 duration: "1 min./level"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Locate Object|Locate Object (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

@@ -16,10 +16,7 @@ effect: "Gas cloud that spreads 20 ft. high, 30 ft. wide"
 duration: "10 minutes/level"
 defense: "See text"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Faeries/spells/Laughing Gas|Laughing Gas (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

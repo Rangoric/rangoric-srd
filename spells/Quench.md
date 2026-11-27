@@ -14,10 +14,7 @@ range: "Medium (100 ft. + 10 ft./level)"
 duration: "Instantaneous"
 defense: "None or Will (object)"
 spell-resistance: "No or Yes (object)"
-based-on:
-  - "[[fantasy srd 3.5/spells/Quench|Quench (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

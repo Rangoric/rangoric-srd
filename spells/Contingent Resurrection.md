@@ -15,10 +15,7 @@ duration: "Contingent until expended, then instantaneous"
 defense: "None (see text)"
 spell-resistance: "Yes (harmless)"
 to-develop: "468,000 gp; 10 days; 18,720 XP. Seed: life (DC 27). Factor: activates when subject is slain (+25 DC)."
-based-on:
-  - "[[fantasy srd 3.5/spells/Contingent Resurrection|Contingent Resurrection (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

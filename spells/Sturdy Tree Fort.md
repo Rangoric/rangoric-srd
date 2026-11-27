@@ -15,10 +15,7 @@ range: "Touch"
 effect: "One large tree and a sturdy wooden house"
 duration: "Caster level hour(s)"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Sturdy Tree Fort|Sturdy Tree Fort (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

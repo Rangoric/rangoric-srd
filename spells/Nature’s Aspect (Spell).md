@@ -20,10 +20,7 @@ area: "All allies within 50 ft."
 duration: "1 minute/level"
 defense: "None"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[individual books/Faeries/spells/Nature’s Aspect|Nature’s Aspect (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/spell]
 ---

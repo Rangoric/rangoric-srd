@@ -19,10 +19,7 @@ area: "10-ft.-radius emanation, centered on you"
 duration: "10 min./level (D)"
 defense: "None"
 spell-resistance: "See text"
-based-on:
-  - "[[fantasy srd 3.5/spells/Antimagic Field|Antimagic Field (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

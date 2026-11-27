@@ -18,10 +18,7 @@ targets: "Up to three vermin, no two of which can be more than 30 ft. apart"
 duration: "1 min./level"
 defense: "None"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Giant Vermin|Giant Vermin (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

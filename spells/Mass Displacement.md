@@ -15,10 +15,7 @@ targets: "Any number of creatures, no two of which can be more than 180 ft. apar
 duration: "1 round/level (D)"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[individual books/Faeries/spells/Mass Displacement|Mass Displacement (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/spell]
 ---

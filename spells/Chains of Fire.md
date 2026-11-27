@@ -12,10 +12,7 @@ components:
   - "S"
   - "F"
 range: "Medium (100 ft. + 10 ft./level)"
-based-on:
-  - "[[path srd 3.5/spells/Chains Of Fire|Chains of Fire (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

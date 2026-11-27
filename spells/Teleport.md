@@ -22,10 +22,7 @@ target: "You and touched objects or other touched willing creatures"
 duration: "Instantaneous"
 defense: "None and Will (object)"
 spell-resistance: "No and Yes (object)"
-based-on:
-  - "[[fantasy srd 3.5/spells/Teleport|Teleport (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

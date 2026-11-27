@@ -16,10 +16,7 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 round/level (D)"
-based-on:
-  - "[[path srd 3.5/spells/Divine Vessel|Divine Vessel (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell, chaotic, evil, good, lawful]
 ---

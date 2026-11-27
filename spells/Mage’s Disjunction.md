@@ -14,10 +14,7 @@ area: "All magical effects and magic items within a 40-ft.-radius burst"
 duration: "Instantaneous"
 defense: "Will (object)"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Mage’s Disjunction|Mage’s Disjunction (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

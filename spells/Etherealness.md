@@ -11,10 +11,7 @@ range: "Touch; see text"
 targets: "You and one other touched creature per three levels"
 duration: "1 min./level (D)"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Etherealness|Etherealness (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

@@ -26,10 +26,7 @@ effect: "Stone wall whose area is up to one 5-ft. square/level (S)"
 duration: "Instantaneous"
 defense: "See text"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Wall of Stone|Wall of Stone (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

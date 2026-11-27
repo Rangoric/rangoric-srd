@@ -13,10 +13,7 @@ components:
   - "V"
   - "S"
   - "M"
-based-on:
-  - "[[path srd 3.5/spells/Unholy Ice Weapon|Unholy Ice Weapon (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell, evil]
 ---

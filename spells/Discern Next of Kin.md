@@ -25,10 +25,7 @@ target: "One creature"
 duration: "Concentration, up to 1 minute/level (D)"
 defense: "Will (see text)"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Discern Next Of Kin|Discern Next of Kin (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

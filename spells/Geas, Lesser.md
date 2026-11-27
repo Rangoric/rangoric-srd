@@ -23,10 +23,7 @@ target: "One living creature with 7 HD or less"
 duration: "One day/level or until discharged (D)"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Geas, Lesser|Geas, Lesser (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

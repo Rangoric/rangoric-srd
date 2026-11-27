@@ -11,10 +11,7 @@ level:
   - "Sor/Wiz 6"
   - "Wit 6"
 defense: "Will"
-based-on:
-  - "[[fantasy srd 3.5/spells/Symbol of Fear|Symbol of Fear (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

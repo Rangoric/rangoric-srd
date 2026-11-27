@@ -16,10 +16,7 @@ target: "You"
 duration: "1 round/level"
 defense: "Will (special, see below)"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Languid Bomb Admixture|Languid Bomb Admixture (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

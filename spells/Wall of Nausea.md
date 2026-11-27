@@ -19,10 +19,7 @@ effect: "Transparent wall whose area is up to one 10-ft. square/level"
 duration: "1 round/level"
 defense: "See text"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5/spells/Wall Of Nausea|Wall of Nausea (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

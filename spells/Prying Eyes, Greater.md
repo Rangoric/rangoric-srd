@@ -6,10 +6,7 @@ level:
   - "Psy 8"
   - "Sor/Wiz 8"
   - "Wit 8"
-based-on:
-  - "[[fantasy srd 3.5/spells/Prying Eyes, Greater|Prying Eyes, Greater (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

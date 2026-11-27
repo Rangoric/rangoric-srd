@@ -19,10 +19,7 @@ targets: "One creature per three levels, no two of which may be more than 30 ft.
 duration: "Concentration + 1 round/level (D)"
 defense: "Fortitude (see text)"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Boiling Blood|Boiling Blood (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

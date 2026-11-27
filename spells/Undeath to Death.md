@@ -13,10 +13,7 @@ components:
   - "M/DF"
 area: "Several undead creatures within a 40-ft.-radius burst"
 defense: "Will"
-based-on:
-  - "[[fantasy srd 3.5/spells/Undeath to Death|Undeath to Death (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

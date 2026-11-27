@@ -17,10 +17,7 @@ level:
   - "Spi 1"
   - "Sum 1"
   - "SumU 1"
-based-on:
-  - "[[fantasy srd 3.5/spells/Protection from Good|Protection from Good (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell, evil]
 ---

@@ -17,10 +17,7 @@ components:
   - "M"
 duration: "1 min./level"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Solid Fog|Solid Fog (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

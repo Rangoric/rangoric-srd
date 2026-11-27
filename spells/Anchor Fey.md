@@ -14,10 +14,7 @@ effect: "Ray"
 duration: "1 minute/level"
 defense: "None"
 spell-resistance: "Yes (object)"
-based-on:
-  - "[[individual books/Faeries/spells/Anchor Fey|Anchor Fey (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

@@ -25,10 +25,7 @@ effect: "Cloud spreads in 20-ft. radius from you, 20 ft. high"
 duration: "1 min./level"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Obscuring Mist|Obscuring Mist (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

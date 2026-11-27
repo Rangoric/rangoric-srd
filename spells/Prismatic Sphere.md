@@ -10,10 +10,7 @@ components:
   - "V"
 range: "10 ft."
 effect: "10-ft.-radius sphere centered on you"
-based-on:
-  - "[[fantasy srd 3.5/spells/Prismatic Sphere|Prismatic Sphere (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

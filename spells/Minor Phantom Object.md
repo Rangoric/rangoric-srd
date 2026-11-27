@@ -18,10 +18,7 @@ effect: "Phantasmal, unattended, nonmagical object of nonliving plant matter, up
 duration: "10 minutes/level (D)"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Minor Phantom Object|Minor Phantom Object (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

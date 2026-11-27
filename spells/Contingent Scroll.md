@@ -19,10 +19,7 @@ target: "Willing creature touched"
 duration: "1 hour/level (D) or until discharged"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[path srd 3.5/spells/Contingent Scroll|Contingent Scroll (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

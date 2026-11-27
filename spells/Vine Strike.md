@@ -20,10 +20,7 @@ target: "You"
 duration: "Caster level minute(s)"
 defense: "Reflex (see text)"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Vine Strike|Vine Strike (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

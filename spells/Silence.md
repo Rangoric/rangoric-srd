@@ -20,10 +20,7 @@ area: "20-ft.-radius emanation centered on a creature, object, or point in space
 duration: "1 min./level (D)"
 defense: "Will; see text or none (object)"
 spell-resistance: "Yes; see text or no (object)"
-based-on:
-  - "[[fantasy srd 3.5/spells/Silence|Silence (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

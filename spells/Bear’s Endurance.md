@@ -28,10 +28,7 @@ target: "Creature touched"
 duration: "1 min./level"
 defense: "Will (harmless)"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Bear’s Endurance|Bear’s Endurance (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

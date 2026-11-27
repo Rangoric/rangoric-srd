@@ -18,10 +18,7 @@ target: "1 loaded firearm"
 duration: "Instantaneous"
 defense: "Will (object)"
 spell-resistance: "Yes (object)"
-based-on:
-  - "[[path srd 3.5/spells/Damp Powder|Damp Powder (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

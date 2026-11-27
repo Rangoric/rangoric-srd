@@ -21,10 +21,7 @@ targets: "One creature plus one additional creature per four levels, no two of w
 duration: "10 minutes; see text"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[fantasy srd 3.5/spells/Remove Fear|Remove Fear (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

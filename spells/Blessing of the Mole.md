@@ -17,10 +17,7 @@ area: "1 creature/level"
 duration: "1 minute/level"
 defense: "None (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[path srd 3.5/spells/Blessing Of The Mole|Blessing of the Mole (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

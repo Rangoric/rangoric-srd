@@ -25,10 +25,7 @@ targets: "One willing living creature per three levels, no two of which may be m
 duration: "Concentration + 1 round/level (D)"
 defense: "None"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Rage|Rage (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

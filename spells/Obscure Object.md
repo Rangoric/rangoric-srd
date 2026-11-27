@@ -22,10 +22,7 @@ target: "One object touched of up to 100 lb./level"
 duration: "8 hours (D)"
 defense: "Will (object)"
 spell-resistance: "Yes (object)"
-based-on:
-  - "[[fantasy srd 3.5/spells/Obscure Object|Obscure Object (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

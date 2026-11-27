@@ -9,10 +9,7 @@ level:
 casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One object of up to 10 cu. ft./ level"
-based-on:
-  - "[[fantasy srd 3.5/spells/Make Whole|Make Whole (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

@@ -12,11 +12,7 @@ components:
   - "V"
   - "S"
   - "F/DF"
-based-on:
-  - "[[fantasy srd 3.5/spells/Grasping Hand|Grasping Hand (3.5)]]"
-  - "[[path srd 3.5/spells/Grasping Hand|Grasping Hand (PF1)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

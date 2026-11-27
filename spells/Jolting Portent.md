@@ -15,10 +15,7 @@ target: "One creature"
 duration: "1 round/level (D) see text"
 defense: "None"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Jolting Portent|Jolting Portent (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

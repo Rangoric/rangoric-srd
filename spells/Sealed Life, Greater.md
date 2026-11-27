@@ -12,10 +12,7 @@ target: "One creature"
 duration: "1 minute/level"
 defense: "None"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Sealed Life, Greater|Sealed Life, Greater (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/spell]
 ---

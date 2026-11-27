@@ -19,10 +19,7 @@ target: "One quasi-real wolflike creature"
 duration: "1 hour/level (D) or 1 round/level; see text"
 defense: "None (see description)"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5/spells/Ghost Wolf|Ghost Wolf (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

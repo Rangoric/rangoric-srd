@@ -24,11 +24,7 @@ target: "Living creature touched"
 duration: "1 min./level"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[fantasy srd 3.5/spells/Death Ward|Death Ward (3.5)]]"
-  - "[[path srd 3.5/spells/Death Ward|Death Ward (PF1)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

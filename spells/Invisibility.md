@@ -30,10 +30,7 @@ target: "You or a creature or object weighing no more than 100 lb./level"
 duration: "1 min./level (D)"
 defense: "Will (harmless) or Will (harmless, object)"
 spell-resistance: "Yes (harmless) or Yes (harmless, object)"
-based-on:
-  - "[[fantasy srd 3.5/spells/Invisibility|Invisibility (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

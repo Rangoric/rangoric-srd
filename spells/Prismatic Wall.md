@@ -14,11 +14,7 @@ effect: "Wall 4 ft./level wide, 2 ft./level high"
 duration: "10 min./level (D)"
 defense: "See text"
 spell-resistance: "See text"
-based-on:
-  - "[[fantasy srd 3.5/spells/Prismatic Wall|Prismatic Wall (3.5)]]"
-  - "[[path srd 3.5/spells/Prismatic Wall|Prismatic Wall (PF1)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

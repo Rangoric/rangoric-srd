@@ -23,10 +23,7 @@ targets: "Animals or magical beasts with Intelligence 1 or 2"
 duration: "Concentration"
 defense: "Will; see text"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Animal Trance|Animal Trance (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

@@ -17,10 +17,7 @@ area: "5 ft. wide to the target"
 duration: "Instantaneous"
 defense: "Reflex"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/spells/Brilliant Arc|Brilliant Arc (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

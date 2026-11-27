@@ -11,10 +11,7 @@ level:
   - "Sor/Wiz 6"
 effect: "Visual figment that cannot extend beyond a 20-ft. cube + one 10-ft. cube/level (S)"
 duration: "Permanent until triggered, then 1 round/level"
-based-on:
-  - "[[fantasy srd 3.5/spells/Programmed Image|Programmed Image (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

@@ -21,10 +21,7 @@ targets: "One Medium or smaller freefalling object or creature/level, no two of 
 duration: "Until landing or 1 round/level"
 defense: "Will (harmless) or Will (object)"
 spell-resistance: "Yes (object)"
-based-on:
-  - "[[fantasy srd 3.5/spells/Feather Fall|Feather Fall (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

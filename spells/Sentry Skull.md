@@ -19,10 +19,7 @@ target: "Severed head touched"
 duration: "Permanent (D); see text"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5/spells/Sentry Skull|Sentry Skull (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell, evil]
 ---

@@ -22,10 +22,7 @@ target: "One creature"
 duration: "Instantaneous; see text"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Mindwipe|Mindwipe (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

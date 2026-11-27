@@ -20,10 +20,7 @@ target: "One creature and its clothes"
 duration: "Instantaneous"
 defense: "See text"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Faeries/spells/Disrobe|Disrobe (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

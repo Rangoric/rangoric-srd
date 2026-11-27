@@ -14,10 +14,7 @@ effect: "Fog spreads in 20-ft. radius, 20 ft. high"
 duration: "1 minute/level"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5/spells/Barrow Haze|Barrow Haze (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

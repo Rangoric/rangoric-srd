@@ -18,10 +18,7 @@ effect: "See text"
 duration: "1 round/level or 1 hour/level; see text (D)"
 defense: "None"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/World Wave|World Wave (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/spell]
 ---

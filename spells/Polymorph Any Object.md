@@ -15,10 +15,7 @@ target: "One creature, or one nonmagical object of up to 100 cu. ft./level"
 duration: "See text"
 defense: "Fortitude (object); see text"
 spell-resistance: "Yes (object)"
-based-on:
-  - "[[fantasy srd 3.5/spells/Polymorph Any Object|Polymorph Any Object (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

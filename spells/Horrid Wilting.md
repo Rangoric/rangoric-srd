@@ -17,10 +17,7 @@ targets: "Living creatures, no two of which can be more than 60 ft. apart"
 duration: "Instantaneous"
 defense: "Fortitude half"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Horrid Wilting|Horrid Wilting (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

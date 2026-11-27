@@ -17,10 +17,7 @@ target: "You"
 duration: "1 round/level or until discharged"
 defense: "None and Will (see text)"
 spell-resistance: "No and yes (see text)"
-based-on:
-  - "[[path srd 3.5/spells/Stunning Barrier, Greater|Stunning Barrier, Greater (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

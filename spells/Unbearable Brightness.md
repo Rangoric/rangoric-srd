@@ -19,10 +19,7 @@ area: "30-ft.-radius emanation centered on you"
 duration: "1 round/level"
 defense: "None and Reflex partial (see text)"
 spell-resistance: "No and yes (see text)"
-based-on:
-  - "[[path srd 3.5/spells/Unbearable Brightness|Unbearable Brightness (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

@@ -1,11 +1,7 @@
 ---
 srd-type: "overview"
 section: "Spells"
-based-on:
-  - "[[path srd 3.5/classes/Bloodrager#Class Features|Bloodrager (PF1)]]"
-  - "[[path srd 3.5/rules/advanced-class-guide/Spell Lists (Advanced Class Guide)#Bloodrager Spells|Spell Lists, Advanced Class Guide (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-09
 tags: [rangoric, rangoric/overview]
 ---

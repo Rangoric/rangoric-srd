@@ -20,10 +20,7 @@ targets: "One weapon or 20 projectiles, all of which must be together at the tim
 duration: "1 round/level"
 defense: "Will (harmless, object)"
 spell-resistance: "Yes (harmless, object)"
-based-on:
-  - "[[path srd 3.5/spells/Unerring Weapon|Unerring Weapon (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

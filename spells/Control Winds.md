@@ -19,10 +19,7 @@ area: "40 ft./level radius cylinder 40 ft. high"
 duration: "10 min./level"
 defense: "Fortitude"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Control Winds|Control Winds (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

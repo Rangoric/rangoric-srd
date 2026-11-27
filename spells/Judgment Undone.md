@@ -15,10 +15,7 @@ range: "Touch"
 target: "One willing petitioner"
 duration: "Instantaneous"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Judgment Undone|Judgment Undone (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

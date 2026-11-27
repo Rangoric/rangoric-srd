@@ -18,10 +18,7 @@ components:
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One living creature"
 duration: "1 round"
-based-on:
-  - "[[fantasy srd 3.5/spells/Confusion, Lesser|Confusion, Lesser (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

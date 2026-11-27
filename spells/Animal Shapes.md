@@ -16,10 +16,7 @@ targets: "Up to one willing creature per level, all within 30 ft. of each other"
 duration: "1 hour/level (D)"
 defense: "None; see text"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[fantasy srd 3.5/spells/Animal Shapes|Animal Shapes (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

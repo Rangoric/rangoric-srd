@@ -18,10 +18,7 @@ target: "Creature touched"
 duration: "1 minute/level"
 defense: "Will disbelief (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Placebo Effect|Placebo Effect (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/spell]
 ---

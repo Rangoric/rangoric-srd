@@ -17,10 +17,7 @@ area: "20-ft.-radius emanation"
 duration: "2 hours/level"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5/spells/Sacred Space|Sacred Space (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell, good]
 ---

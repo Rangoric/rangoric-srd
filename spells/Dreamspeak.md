@@ -18,10 +18,7 @@ target: "Living creature touched"
 duration: "1 round/level"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Faeries/spells/Dreamspeak|Dreamspeak (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

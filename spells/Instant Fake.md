@@ -23,10 +23,7 @@ target: "One object weighing no more than 1 lb./level"
 duration: "Caster level minute(s)"
 defense: "Will disbelief (if interacted with)"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Instant Fake|Instant Fake (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

@@ -26,11 +26,7 @@ targets: "Up to one creature per level, all within 30 ft. of each other"
 duration: "Instantaneous"
 defense: "See text"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Break Enchantment|Break Enchantment (3.5)]]"
-  - "[[path srd 3.5/spells/Break Enchantment|Break Enchantment (PF1)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

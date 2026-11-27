@@ -13,10 +13,7 @@ duration: "Instantaneous"
 defense: "Fortitude half"
 spell-resistance: "Yes"
 to-develop: "3,771,000 gp; 76 days; 150,840 XP. Seed: destroy (DC 29). Factor: increase damage to 305d6 (+570 DC), 1-action casting time (+20 DC). Mitigating factor: 200d6 backlash (-200 DC)."
-based-on:
-  - "[[fantasy srd 3.5/spells/Vengeful Gaze of God|Vengeful Gaze of God (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

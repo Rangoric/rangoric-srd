@@ -10,10 +10,7 @@ level:
   - "Law 5"
   - "Pal 4"
   - "Sha 5"
-based-on:
-  - "[[fantasy srd 3.5/spells/Dispel Chaos|Dispel Chaos (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell, lawful]
 ---

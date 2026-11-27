@@ -11,10 +11,7 @@ range: "Personal; touch"
 target: "You; creature or object touched"
 duration: "12 hours or until discharged"
 to-develop: "927,000 gp; 19 days; 37,080 XP. Seeds: ward (5 points against bludgeoning and piercing) (DC 14), reflect (DC 27). Factors: also against slashing (+4 DC), additional 15 points of protection (+30 DC), contingent reflection of damage on creature touched (+25 DC)."
-based-on:
-  - "[[fantasy srd 3.5/spells/Kinetic Control|Kinetic Control (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

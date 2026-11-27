@@ -1,15 +1,7 @@
 ---
 srd-type: "overview"
 section: "Spells"
-based-on:
-  - "[[fantasy srd 3.5/spells/Magic Overview|Magic Overview (3.5)]]"
-  - "[[path srd 3.5/rules/core-rulebook/magic/Casting Spells#Bringing Back the Dead|Bringing Back the Dead (PF1)]]"
-  - "[[path srd 3.5/rules/ultimate-combat/spell-lists/Communal Spells|Communal Spells (PF1)]]"
-  - "[[path srd 3.5 foundry/rules/rules/magic/magic-basics/Psychic Magic (Rules)|Psychic Magic (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/rules/rules/magic/magic-basics/Components (Unrecorded)|Components (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/rules/rules/magic/magic-basics/Undercasting Spells|Undercasting Spells (PF1 Foundry)]]"
 status: draft
-change: modified
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/overview]
 ---

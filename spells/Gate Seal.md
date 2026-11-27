@@ -19,10 +19,7 @@ target: "One *doorway*, *gate*, or *portal*"
 duration: "Permanent"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[individual books/Faeries/spells/Gate Seal|Gate Seal (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/spell]
 ---

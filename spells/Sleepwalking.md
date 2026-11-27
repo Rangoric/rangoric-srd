@@ -23,10 +23,7 @@ target: "One creature"
 duration: "1 hour/level"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Faeries/spells/Sleepwalking|Sleepwalking (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/spell]
 ---

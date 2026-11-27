@@ -15,10 +15,7 @@ target: "One living creature"
 duration: "1 round/level or 1 round; see text"
 defense: "Fortitude partial"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Fester|Fester (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/spell]
 ---

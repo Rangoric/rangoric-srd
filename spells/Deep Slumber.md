@@ -15,10 +15,7 @@ level:
   - "Sor/Wiz 3"
   - "Wit 3"
 range: "Close (25 ft. + 5 ft./2 levels)"
-based-on:
-  - "[[fantasy srd 3.5/spells/Deep Slumber|Deep Slumber (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

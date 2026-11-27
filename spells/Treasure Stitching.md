@@ -18,10 +18,7 @@ targets: "All objects on cloth"
 duration: "1 day/level (D)"
 defense: "Fortitude (object)"
 spell-resistance: "Yes (object)"
-based-on:
-  - "[[path srd 3.5/spells/Treasure Stitching|Treasure Stitching (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

@@ -9,10 +9,7 @@ components:
 casting-time: "See text"
 range: "Personal"
 duration: "See text"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/spells/Penetrate Resistance|Penetrate Resistance (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

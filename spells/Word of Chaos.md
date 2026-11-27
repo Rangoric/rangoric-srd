@@ -17,10 +17,7 @@ area: "Nonchaotic creatures in a 40-ft.- radius spread centered on you"
 duration: "Instantaneous"
 defense: "None or Will; see text"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Word of Chaos|Word of Chaos (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell, chaotic]
 ---

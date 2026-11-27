@@ -14,10 +14,7 @@ range: "Touch"
 target: "One afflicted creature"
 duration: "Instantaneous"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Withdraw Affliction|Withdraw Affliction (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/spell]
 ---

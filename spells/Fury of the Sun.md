@@ -18,10 +18,7 @@ targets: "One creature"
 duration: "10 minutes/level"
 defense: "Fortitude"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Fury Of The Sun|Fury of the Sun (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

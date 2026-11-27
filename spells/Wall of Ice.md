@@ -21,10 +21,7 @@ effect: "Anchored plane of ice, up to one 10-ft. square/level, or hemisphere of 
 duration: "1 min./level"
 defense: "Reflex; see text"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Wall of Ice|Wall of Ice (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

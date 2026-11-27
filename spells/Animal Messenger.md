@@ -25,10 +25,7 @@ target: "One Tiny animal"
 duration: "One day/level"
 defense: "None; see text"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Animal Messenger|Animal Messenger (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

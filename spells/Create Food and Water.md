@@ -16,10 +16,7 @@ effect: "Food and water to sustain three humans or one horse/level for 24 hours"
 duration: "24 hours; see text"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Create Food and Water|Create Food and Water (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

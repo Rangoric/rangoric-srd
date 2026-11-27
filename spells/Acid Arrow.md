@@ -20,10 +20,7 @@ effect: "One arrow of acid"
 duration: "1 round + 1 round per three levels"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Acid Arrow|Acid Arrow (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

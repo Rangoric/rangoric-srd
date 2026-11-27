@@ -14,10 +14,7 @@ duration: "Instantaneous"
 defense: "Fort"
 spell-resistance: "Yes"
 to-develop: "738,000 gp; 15 days; 29,520 XP. Seeds: slay (DC 25), animate dead (DC 23), delude (DC 14). Factors: change undead type to ghoul (-10 DC), apply to all five senses (+8 DC), 1-action casting time (+20 DC)."
-based-on:
-  - "[[fantasy srd 3.5/spells/Demise Unseen|Demise Unseen (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

@@ -18,10 +18,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 targets: "One willing living creature/level, no two of which can be more than 30 ft. apart"
 duration: "1 minute/level"
-based-on:
-  - "[[path srd 3.5/spells/Life Pact|Life Pact (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

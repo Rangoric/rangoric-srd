@@ -27,10 +27,7 @@ effect: "One summoned creature"
 duration: "1 round/level (D)"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Summon Monster I|Summon Monster I (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

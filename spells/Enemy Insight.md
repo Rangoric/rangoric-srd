@@ -15,10 +15,7 @@ targets: "You plus one willing creature/3 levels, no two of which can be more th
 duration: "1 minute/level"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5/spells/Enemy Insight|Enemy Insight (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

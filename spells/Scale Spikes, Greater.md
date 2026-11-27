@@ -21,10 +21,7 @@ target: "One living creature/level that is a reptile, has the dragon type, or ha
 duration: "1 hour/level"
 defense: "Fort (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[path srd 3.5/spells/Scale Spikes, Greater|Scale Spikes, Greater (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

@@ -19,10 +19,7 @@ target: "You"
 duration: "1 minute/level"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/spells/Teleport Trace|Teleport Trace (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

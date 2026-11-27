@@ -15,10 +15,7 @@ components:
 casting-time: "1 standard action"
 area: "One 20-ft. cube/level (S)"
 duration: "Concentration +1 hour/ level (D)"
-based-on:
-  - "[[fantasy srd 3.5/spells/Mirage Arcana|Mirage Arcana (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

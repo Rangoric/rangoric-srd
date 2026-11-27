@@ -21,10 +21,7 @@ targets: "One creature per two levels, no two of which can be more than 30 ft. a
 duration: "12 hours (D)"
 defense: "Will or Will disbelief (if interacted with)"
 spell-resistance: "Yes or No; see text"
-based-on:
-  - "[[fantasy srd 3.5/spells/Seeming|Seeming (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

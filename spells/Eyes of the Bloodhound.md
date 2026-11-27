@@ -15,10 +15,7 @@ area: "Touch"
 duration: "1 hour/level"
 defense: "None (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/spells/Eyes of the Bloodhound|Eyes of the Bloodhound (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

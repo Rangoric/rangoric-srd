@@ -20,10 +20,7 @@ area: "Cone-shaped burst"
 duration: "1 round/level or until discharged (see text)"
 defense: "Reflex half (see text)"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Sonic Scream|Sonic Scream (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

@@ -18,10 +18,7 @@ effect: "10-ft.-deep wave 10 ft. wide/level and 2 ft. tall/level"
 duration: "5 rounds"
 defense: "See text"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5/spells/Tsunami|Tsunami (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

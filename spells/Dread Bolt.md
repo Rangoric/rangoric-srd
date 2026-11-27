@@ -16,10 +16,7 @@ effect: "Arrow-shaped projectile of evil energy"
 duration: "Instantaneous (1d4 rounds)"
 defense: "Will partial (see text)"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Dread Bolt|Dread Bolt (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell, evil]
 ---

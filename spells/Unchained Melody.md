@@ -17,10 +17,7 @@ target: "Living creature touched"
 duration: "1 round per level"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/spells/Unchained Melody|Unchained Melody (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

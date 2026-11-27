@@ -20,10 +20,7 @@ area: "120-ft. line"
 duration: "1 round/level"
 defense: "Fortitude partial"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/River Of Wind|River of Wind (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

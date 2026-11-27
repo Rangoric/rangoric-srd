@@ -17,10 +17,7 @@ range: "Medium (100 ft. + 10 ft./level)"
 area: "Circle centered on you, with a radius of 100 feet + 10 feet per level"
 duration: "Caster level hour(s)"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Aerial Tracks|Aerial Tracks (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

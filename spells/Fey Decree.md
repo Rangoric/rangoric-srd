@@ -17,11 +17,7 @@ area: "Creatures in a 30 ft.-radius spread centered on you"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Faeries/spells/Fey Decree|Fey Decree (Faeries)]]"
-  - "[[individual books/Faeries/tables/Table p96|Table p96 (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/spell]
 ---

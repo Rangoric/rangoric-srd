@@ -11,10 +11,7 @@ components:
   - "S"
 casting-time: "1 standard action"
 effect: "One summoned creature"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/spells/Fast Elemental|Fast Elemental (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

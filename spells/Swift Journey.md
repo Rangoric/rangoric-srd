@@ -22,10 +22,7 @@ targets: "One creature/level, no two of which can be more than 30 ft. apart."
 duration: "12 hours (D)"
 defense: "No"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Faeries/spells/Swift Journey|Swift Journey (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

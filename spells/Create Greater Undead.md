@@ -9,10 +9,7 @@ level:
   - "Death 8"
   - "Sha 8"
   - "Sor/Wiz 8"
-based-on:
-  - "[[fantasy srd 3.5/spells/Create Greater Undead|Create Greater Undead (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell, evil]
 ---

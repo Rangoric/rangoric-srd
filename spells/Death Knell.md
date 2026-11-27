@@ -22,10 +22,7 @@ target: "Living creature touched"
 duration: "Instantaneous/10 minutes per HD of subject; see text"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Death Knell|Death Knell (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell, evil]
 ---

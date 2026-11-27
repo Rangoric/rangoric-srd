@@ -19,10 +19,7 @@ target: "You and one creature/level"
 duration: "1 hour/level (D)"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Dream Travel|Dream Travel (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/spell]
 ---

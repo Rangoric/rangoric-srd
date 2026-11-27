@@ -14,10 +14,7 @@ target: "One creature"
 duration: "1 hour/level (D)"
 defense: "Fortitude"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Faeries/spells/Feyform|Feyform (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/spell]
 ---

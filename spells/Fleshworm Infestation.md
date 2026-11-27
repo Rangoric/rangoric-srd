@@ -20,10 +20,7 @@ target: "Creature touched"
 duration: "1 round/level (D)"
 defense: "Fortitude partial (see text)"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Fleshworm Infestation|Fleshworm Infestation (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell, evil]
 ---

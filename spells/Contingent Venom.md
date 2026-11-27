@@ -16,10 +16,7 @@ target: "One dose of poison or one venomous creature"
 duration: "Permanent until discharged"
 defense: "Fortitude"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Contingent Venom|Contingent Venom (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

@@ -22,10 +22,7 @@ target: "You and touched objects or other touched willing creatures"
 duration: "Instantaneous"
 defense: "None and Will (object)"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Treacherous Teleport|Treacherous Teleport (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

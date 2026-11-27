@@ -23,10 +23,7 @@ target: "Creatures touched"
 duration: "10 min./level"
 defense: "Will (harmless)"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5/spells/Tongues, Communal|Tongues, Communal (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

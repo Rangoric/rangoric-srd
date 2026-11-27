@@ -14,10 +14,7 @@ area: "Spread, 25 ft. + 5 ft./2 levels radius spread"
 duration: "Instantaneous"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/spells/Shriek Horrisonant|Shriek Horrisonant (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

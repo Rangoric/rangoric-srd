@@ -14,10 +14,7 @@ range: "Close (25 ft. + 5 ft./2 levels)"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Telekinetic Projectile|Telekinetic Projectile (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/spell]
 ---

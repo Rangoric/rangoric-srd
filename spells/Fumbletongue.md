@@ -20,10 +20,7 @@ target: "One creature"
 duration: "1d4 rounds"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Fumbletongue|Fumbletongue (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

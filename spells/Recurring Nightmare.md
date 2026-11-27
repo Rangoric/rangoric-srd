@@ -23,10 +23,7 @@ target: "One creature"
 duration: "Permanent"
 defense: "See text"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Faeries/spells/Recurring Nightmare|Recurring Nightmare (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/spell]
 ---

@@ -14,10 +14,7 @@ target: "Living creature touched"
 duration: "1 round/level"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Faeries/spells/Faerie Dance|Faerie Dance (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/spell]
 ---

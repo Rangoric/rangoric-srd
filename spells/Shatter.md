@@ -24,10 +24,7 @@ range: "Close (25 ft. + 5 ft./2 levels)"
 duration: "Instantaneous"
 defense: "Will (object); Will (object) or Fortitude half; see text"
 spell-resistance: "Yes (object)"
-based-on:
-  - "[[fantasy srd 3.5/spells/Shatter|Shatter (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

@@ -20,10 +20,7 @@ area: "30-ft. radius"
 duration: "Instantaneous"
 defense: "Reflex partial, see text"
 spell-resistance: "Special, see below"
-based-on:
-  - "[[path srd 3.5/spells/Blistering Invective|Blistering Invective (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

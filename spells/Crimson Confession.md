@@ -15,10 +15,7 @@ range: "Touch"
 duration: "Permanent and 1 hour/level (see text)"
 defense: "Fortitude"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Crimson Confession|Crimson Confession (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

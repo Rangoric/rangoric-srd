@@ -19,10 +19,7 @@ target: "One creature/2 levels, no two of which can be more than 30 feet apart"
 duration: "Caster level minute(s)"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Primal Regression|Primal Regression (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

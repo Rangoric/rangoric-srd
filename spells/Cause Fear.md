@@ -30,10 +30,7 @@ target: "One living creature with 5 or fewer HD"
 duration: "1d4 rounds or 1 round; see text"
 defense: "Will partial"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Cause Fear|Cause Fear (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

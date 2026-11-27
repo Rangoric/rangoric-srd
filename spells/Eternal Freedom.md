@@ -15,10 +15,7 @@ duration: "Permanent"
 defense: "Will"
 spell-resistance: "Yes"
 to-develop: "1,350,000 gp; 27 days; 54,000 XP. Seed: ward (DC 14). Factors: specific protections entangle (+0 DC), hold monster (+8 DC), hold person (+4 DC), imprisonment (+16 DC), paralysis (ad hoc +6 DC), petrification (ad hoc +6 DC), sleep (+0 DC), slow (+4 DC), stunning (ad hoc +6 DC), temporal stasis (+16 DC), and web (+4 DC); permanent 5 DC). Mitigating factors: ten additional casters contributing 9th-level spell slots (-170 DC), burn 10,000 XP (-100 DC)."
-based-on:
-  - "[[fantasy srd 3.5/spells/Eternal Freedom|Eternal Freedom (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

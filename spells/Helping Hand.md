@@ -17,10 +17,7 @@ effect: "Ghostly hand"
 duration: "1 hour/level"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Helping Hand|Helping Hand (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

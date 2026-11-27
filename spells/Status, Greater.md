@@ -15,10 +15,7 @@ duration: "1 hour/level"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 target: "Creature touched"
-based-on:
-  - "[[fantasy srd 3.5/spells/Status, Greater|Status, Greater (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
