@@ -1,7 +1,6 @@
 ---
 srd-type: "feat"
 section: "Feats"
-book: "Alchemy & Herbalists"
 prerequisites: "Craft (alchemy) 6 ranks, Endurance, Craft Chymicals, Craft Wondrous Item."
 based-on:
   - "[[individual books/Alchemy & Herbalists v3.5/feats/Create Alchana|Create Alchana (Alchemy & Herbalists)]]"

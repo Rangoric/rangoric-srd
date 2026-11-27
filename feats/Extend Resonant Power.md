@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Caster level 7th, mental focus class feature."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/feats/Extend Resonant Power|Extend Resonant Power (PF1 Foundry)]]"
 status: draft

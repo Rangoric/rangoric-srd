@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Martial flexibility class feature."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/feats/Extra Martial Flexibility|Extra Martial Flexibility (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Extra Martial Flexibility|Extra Martial Flexibility (PF1)]]"

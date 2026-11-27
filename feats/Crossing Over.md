@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Base Will save +3."
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/feats/Crossing Over|Crossing Over (Faeries)]]"
 status: draft

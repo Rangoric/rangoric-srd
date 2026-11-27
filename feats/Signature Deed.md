@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Grit class feature, gunslinger level 11th."
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/feats/Signature Deed|Signature Deed (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Signature Deed|Signature Deed (PF1)]]"

@@ -1,7 +1,6 @@
 ---
 srd-type: "race"
 section: "Races"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/rules/advanced-race-guide/race-builder/Example Races|Example Races (ARG)]]"
   - "[[path srd 3.5 foundry/races/Lizardfolk (Race)|Lizardfolk (Race) (Foundry, ARG)]]"

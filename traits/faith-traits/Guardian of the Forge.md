@@ -2,7 +2,6 @@
 srd-type: "trait"
 section: "Traits"
 trait-type: "religion"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/traits/Guardian of the Forge|Guardian of the Forge (PF1)]]"
 status: draft

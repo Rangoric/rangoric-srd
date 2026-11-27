@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Second judgment class feature."
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/feats/Shared Judgment|Shared Judgment (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Shared Judgment|Shared Judgment (PF1 Foundry)]]"

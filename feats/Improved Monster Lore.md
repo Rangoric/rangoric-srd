@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Monster lore class feature."
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/feats/Improved Monster Lore|Improved Monster Lore (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Improved Monster Lore|Improved Monster Lore (PF1 Foundry)]]"

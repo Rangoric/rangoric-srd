@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Int 13, Psychic Adept, Psychic Sensitivity."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/feats/Psychic Disciple|Psychic Disciple (PF1 Foundry)]]"
 status: draft

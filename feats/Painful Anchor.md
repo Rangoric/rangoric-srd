@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Anchoring aura class feature."
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/feats/Painful Anchor|Painful Anchor (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Painful Anchor|Painful Anchor (PF1 Foundry)]]"

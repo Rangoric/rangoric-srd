@@ -3,7 +3,6 @@ srd-type: "racial-trait"
 section: "Races"
 race: "[[rangoric-srd/races/Duergar|Duergar]]"
 replaces: "the enlarge person spell-like ability"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/duergar/New Rules (Duergar)#Alternate Racial Traits|Duergar, Alternate Racial Traits (PF1)]]"
 status: draft

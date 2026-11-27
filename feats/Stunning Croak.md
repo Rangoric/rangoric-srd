@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Sonic Croak, Throat Pouch, boggard, terrifying croak."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/boggards/New Rules (Boggards)#Stunning Croak|Stunning Croak (PF1)]]"
 status: draft

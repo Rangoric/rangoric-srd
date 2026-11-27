@@ -1,7 +1,6 @@
 ---
 srd-type: "feat"
 section: "Feats"
-book: "Alchemy & Herbalists"
 prerequisites: "Craft (alchemy) 5 ranks or Profession (herbalist) 3 ranks, Great Fortitude."
 based-on:
   - "[[individual books/Alchemy & Herbalists v3.5/feats/Craft Toxins|Craft Toxins (Alchemy & Herbalists)]]"

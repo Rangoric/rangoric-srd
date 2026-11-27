@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Tumor familiar alchemist discovery."
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/feats/Die for Your Master|Die for Your Master (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Die for Your Master|Die for Your Master (PF1 Foundry)]]"

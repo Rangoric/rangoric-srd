@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Amateur Swashbuckler feat or panache class feature, Canny Tumble, Acrobatics 7 ranks."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/feats/Confounding Tumble Deed|Confounding Tumble Deed (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Confounding Tumble Deed|Confounding Tumble Deed (PF1)]]"

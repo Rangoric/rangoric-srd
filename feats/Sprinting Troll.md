@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Fleet, regeneration, troll."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/trolls/New Rules (Trolls)#Sprinting Troll|Sprinting Troll (PF1)]]"
 status: draft

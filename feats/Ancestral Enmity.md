@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Giant subtype."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/frost-giants/New Rules (Frost Giants)#Ancestral Enmity|Ancestral Enmity (PF1)]]"
 status: draft

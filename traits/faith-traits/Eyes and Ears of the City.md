@@ -2,7 +2,6 @@
 srd-type: "trait"
 section: "Traits"
 trait-type: "religion"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/traits/Eyes and Ears of the City|Eyes and Ears of the City (PF1)]]"
 status: draft

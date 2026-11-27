@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Performing Combatant or at least three performance feats, base attack bonus +6."
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/feats/Master Combat Performer|Master Combat Performer (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Master Combat Performer|Master Combat Performer (PF1 F)]]"

@@ -2,7 +2,6 @@
 srd-type: "trait"
 section: "Traits"
 trait-type: "social"
-book: "Ultimate Campaign, Advanced Player's Guide"
 aliases:
   - "Fast-Talker"
 based-on:

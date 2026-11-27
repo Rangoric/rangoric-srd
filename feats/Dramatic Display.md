@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dazzling Display."
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/feats/Dramatic Display|Dramatic Display (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Dramatic Display|Dramatic Display (PF1 F)]]"

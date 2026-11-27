@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Tactician class feature."
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/feats/Practiced Tactician|Practiced Tactician (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Practiced Tactician|Practiced Tactician (PF1)]]"

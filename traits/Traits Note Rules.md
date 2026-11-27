@@ -18,7 +18,6 @@ What the notes in `traits` look like. The whole-SRD rules are in the [README](..
 | `srd-type`   | yes      | `trait`  |
 | `section`    | yes      | `Traits` |
 | `trait-type` | yes      | `text`   |
-| `book`       | yes      | `text`   |
 
 Headings, in order:
 
@@ -30,7 +29,6 @@ Headings, in order:
 | ---------- | -------- | -------- |
 | `srd-type` | yes      | `rules`  |
 | `section`  | yes      | `Traits` |
-| `book`     | yes      | `text`   |
 
 Headings, in order:
 

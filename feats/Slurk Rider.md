@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Kobold."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/kobolds/New Rules (Kobolds)#Slurk Rider|Slurk Rider (PF1)]]"
 status: draft

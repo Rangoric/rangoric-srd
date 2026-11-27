@@ -3,7 +3,6 @@ srd-type: "trait"
 section: "Traits"
 trait-type: "race"
 race: "[[rangoric-srd/races/Dwarf|Dwarf]]"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/traits/Brewmaster (Trait)|Brewmaster (PF1)]]"
 status: draft

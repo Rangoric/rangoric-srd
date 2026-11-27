@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Trap class feature."
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/feats/Extra Ranger Trap|Extra Ranger Trap (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Extra Ranger Trap|Extra Ranger Trap (PF1 Foundry)]]"

@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Hero's Fortune."
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/feats/Luck of Heroes|Luck of Heroes (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Luck of Heroes|Luck of Heroes (PF1 F)]]"

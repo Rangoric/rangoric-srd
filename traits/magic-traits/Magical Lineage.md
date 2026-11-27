@@ -2,7 +2,6 @@
 srd-type: "trait"
 section: "Traits"
 trait-type: "magic"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/traits/Magical Lineage|Magical Lineage (PF1)]]"
 status: draft

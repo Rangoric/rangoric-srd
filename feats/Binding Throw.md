@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Improved Grapple, Improved Trip, Improved Unarmed Strike, Ki Throw."
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/feats/Binding Throw|Binding Throw (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Binding Throw|Binding Throw (PF1)]]"

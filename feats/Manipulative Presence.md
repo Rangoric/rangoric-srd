@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Int or Cha 19, Hidden Presence, ability to cast possession or greater possession."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/feats/Manipulative Presence|Manipulative Presence (PF1 Foundry)]]"
 status: draft

@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Bane class feature."
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/feats/Extended Bane|Extended Bane (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Extended Bane|Extended Bane (PF1 Foundry)]]"

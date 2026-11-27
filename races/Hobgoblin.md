@@ -2,7 +2,6 @@
 srd-type: "race"
 section: "Races"
 race-points: 9
-book: "Unearthed Arcana"
 based-on:
   - "[[path srd 3.5/races/Hobgoblins|Hobgoblins (ARG)]]"
   - "[[fantasy srd 3.5/monsters/Hobgoblin|Hobgoblin (3.5)]]"

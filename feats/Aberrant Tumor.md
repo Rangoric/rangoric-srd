@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Aberrant bloodline."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/feats/Aberrant Tumor|Aberrant Tumor (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Aberrant Tumor|Aberrant Tumor (PF1 Foundry)]]"

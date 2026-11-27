@@ -3,7 +3,6 @@ srd-type: "feat"
 section: "Feats"
 prerequisites: "Skilled Driver with the selected vehicle type."
 feat-type: "General"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/feats/Expert Driver|Expert Driver (PF1 Ultimate Combat)]]"
 status: draft

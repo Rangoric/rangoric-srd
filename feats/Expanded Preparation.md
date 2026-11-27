@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Arcanist level 1st."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/feats/Expanded Preparation|Expanded Preparation (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Expanded Preparation|Expanded Preparation (PF1)]]"

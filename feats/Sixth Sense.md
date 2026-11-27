@@ -1,7 +1,6 @@
 ---
 srd-type: "feat"
 section: "Feats"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/feats/Sixth Sense|Sixth Sense (Faeries)]]"
 status: draft

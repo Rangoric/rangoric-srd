@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Point Blank Shot, dancing lights racial spell-like ability."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/drow/New Rules (Drow)#Sniper's Lantern|Sniper's Lantern (PF1)]]"
 status: draft

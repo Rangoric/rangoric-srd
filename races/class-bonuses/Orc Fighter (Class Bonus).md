@@ -3,7 +3,6 @@ srd-type: "class-bonus"
 section: "Races"
 race: "Orc"
 class: ["Fighter"]
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Orcs#Favored Class Options|Orcs, Favored Class Options (ARG)]]"
 status: draft

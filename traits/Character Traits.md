@@ -1,7 +1,6 @@
 ---
 srd-type: "rules"
 section: "Traits"
-book: "Advanced Player's Guide, Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/rules/advanced-player-s-guide/new-rules/Traits|Traits (PF1, APG)]]"
   - "[[path srd 3.5/rules/ultimate-campaign/character-background/Traits (Character Background)|Traits (Character Background) (PF1)]]"

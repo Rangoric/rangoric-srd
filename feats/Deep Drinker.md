@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Con 13, monk level 11, drunken ki class feature."
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/feats/Deep Drinker|Deep Drinker (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Deep Drinker|Deep Drinker (PF1)]]"

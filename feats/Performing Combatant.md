@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dazzling Display, any one performance feat."
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/feats/Performing Combatant|Performing Combatant (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Performing Combatant|Performing Combatant (PF1 F)]]"

@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 13, grit class feature or Amateur Gunslinger feat, Dodge, Mobility, base attack bonus +4."
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/feats/Leaping Shot Deed|Leaping Shot Deed (PF1)]]"
 status: draft

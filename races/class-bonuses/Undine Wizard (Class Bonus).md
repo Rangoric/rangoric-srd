@@ -3,7 +3,6 @@ srd-type: "class-bonus"
 section: "Races"
 race: "Undine"
 class: ["Wizard"]
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Undines#Favored Class Options|Undines, Favored Class Options (ARG)]]"
 status: draft

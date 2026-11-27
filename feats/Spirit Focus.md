@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Spirit bonus class feature."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/feats/Spirit Focus|Spirit Focus (PF1 Foundry)]]"
 status: draft

@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Mesmerist level 7th, painful stare class feature."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/feats/Fatiguing Stare|Fatiguing Stare (PF1 Foundry)]]"
 status: draft

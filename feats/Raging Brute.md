@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Str 21, ogre."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/ogres/New Rules (Ogres)#Raging Brute|Raging Brute (PF1)]]"
 status: draft

@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Bane class feature."
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/feats/Extra Bane|Extra Bane (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Extra Bane|Extra Bane (PF1 Foundry)]]"

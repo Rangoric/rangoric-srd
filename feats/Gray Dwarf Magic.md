@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Duergar."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/duergar/New Rules (Duergar)#Gray Dwarf Magic|Gray Dwarf Magic (PF1)]]"
 status: draft

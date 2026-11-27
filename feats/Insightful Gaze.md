@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Stern gaze class feature, Sense Motive 5 ranks."
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/feats/Insightful Gaze|Insightful Gaze (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Insightful Gaze|Insightful Gaze (PF1 Foundry)]]"

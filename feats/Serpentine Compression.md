@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Serpentfolk."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/serpentfolk/New Rules (Serpentfolk)#Serpentine Compression|Serpentine Compression (PF1)]]"
 status: draft

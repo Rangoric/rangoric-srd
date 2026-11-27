@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Spell recall class feature, Mysticism 2 ranks."
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/feats/Disruptive Recall|Disruptive Recall (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Disruptive Recall|Disruptive Recall (PF1 Foundry)]]"

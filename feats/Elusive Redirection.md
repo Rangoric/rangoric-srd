@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Elusive target class feature, Combat Expertise, Improved Unarmed Strike, flowing monk level 12th."
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/feats/Elusive Redirection|Elusive Redirection (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Elusive Redirection|Elusive Redirection (PF1)]]"

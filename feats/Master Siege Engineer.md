@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Siege Engineer, Engineering 10 ranks."
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/feats/Master Siege Engineer|Master Siege Engineer (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Master Siege Engineer|Master Siege Engineer (PF1)]]"

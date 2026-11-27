@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Hypnotic stare class feature."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/feats/Extended Stare|Extended Stare (PF1 Foundry)]]"
 status: draft

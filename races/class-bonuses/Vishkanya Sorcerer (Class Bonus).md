@@ -3,7 +3,6 @@ srd-type: "class-bonus"
 section: "Races"
 race: "Vishkanya"
 class: ["Sorcerer"]
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Vishkanyas#Favored Class Options|Vishkanyas, Favored Class Options (ARG)]]"
 status: draft

@@ -2,7 +2,6 @@
 srd-type: "trait"
 section: "Traits"
 trait-type: "magic"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/traits/Water-Touched|Water-Touched (PF1)]]"
 status: draft

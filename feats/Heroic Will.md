@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Iron Will, base Will save +4, human."
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/feats/Heroic Will|Heroic Will (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Heroic Will|Heroic Will (PF1)]]"

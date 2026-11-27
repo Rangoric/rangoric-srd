@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Implements class feature."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/feats/Strong Implement Link|Strong Implement Link (PF1 Foundry)]]"
 status: draft

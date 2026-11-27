@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Leaping lance class feature, Athletics 5 ranks, Animal Handling 11 ranks."
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/feats/Rebounding Leap|Rebounding Leap (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Rebounding Leap|Rebounding Leap (PF1)]]"

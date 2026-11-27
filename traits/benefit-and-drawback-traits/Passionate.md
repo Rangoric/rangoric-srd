@@ -2,7 +2,6 @@
 srd-type: "trait"
 section: "Traits"
 trait-type: "benefit and drawback"
-book: "Unearthed Arcana"
 based-on:
   - "[[fantasy srd 3.5/unearthed-arcana/Traits#Passionate|Traits, Passionate (3.5)]]"
 status: draft

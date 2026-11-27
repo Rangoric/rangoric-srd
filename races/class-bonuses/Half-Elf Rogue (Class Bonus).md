@@ -3,7 +3,6 @@ srd-type: "class-bonus"
 section: "Races"
 race: "Half-Elf"
 class: ["Rogue"]
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Half-Elves (Advanced Race Guide)#Favored Class Options|Half-Elves, Favored Class Options (ARG)]]"
   - "[[path srd 3.5/rules/advanced-player-s-guide/races/Half-Elves (Races)#Favored Class Options|Half-Elves, Favored Class Options (APG)]]"

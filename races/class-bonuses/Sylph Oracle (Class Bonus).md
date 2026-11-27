@@ -3,7 +3,6 @@ srd-type: "class-bonus"
 section: "Races"
 race: "Sylph"
 class: ["Oracle"]
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Sylphs#Favored Class Options|Sylphs, Favored Class Options (ARG)]]"
 status: draft

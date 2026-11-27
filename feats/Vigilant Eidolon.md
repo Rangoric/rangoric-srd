@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Eidolon class feature."
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/feats/Vigilant Eidolon|Vigilant Eidolon (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Vigilant Eidolon|Vigilant Eidolon (PF1 Foundry)]]"

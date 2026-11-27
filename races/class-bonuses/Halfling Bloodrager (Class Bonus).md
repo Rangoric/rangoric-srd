@@ -3,7 +3,6 @@ srd-type: "class-bonus"
 section: "Races"
 race: "Halfling"
 class: ["Bloodrager"]
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/rules/advanced-class-guide/hybrid-classes/Racial Favored Class Options#Halflings|Racial Favored Class Options, Halflings (ACG)]]"
 status: draft

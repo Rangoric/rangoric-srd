@@ -2,7 +2,6 @@
 srd-type: "trait"
 section: "Traits"
 trait-type: "combat"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/traits/Anatomist|Anatomist (PF1)]]"
 status: draft

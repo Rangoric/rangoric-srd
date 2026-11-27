@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Engineering 5 ranks or Profession (siege engineer) 5 ranks, proficiency with one siege engine."
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/feats/Siege Engineer|Siege Engineer (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Siege Engineer|Siege Engineer (PF1)]]"

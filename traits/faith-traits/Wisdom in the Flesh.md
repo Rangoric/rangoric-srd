@@ -2,7 +2,6 @@
 srd-type: "trait"
 section: "Traits"
 trait-type: "religion"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/traits/Wisdom in the Flesh|Wisdom in the Flesh (PF1)]]"
 status: draft

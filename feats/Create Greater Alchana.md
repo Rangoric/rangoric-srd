@@ -1,7 +1,6 @@
 ---
 srd-type: "feat"
 section: "Feats"
-book: "Alchemy & Herbalists"
 prerequisites: "Craft (alchemy) 13 ranks, Perfect Materials, Create Alchana."
 based-on:
   - "[[individual books/Alchemy & Herbalists v3.5/feats/Create Greater Alchana|Create Greater Alchana (Alchemy & Herbalists)]]"

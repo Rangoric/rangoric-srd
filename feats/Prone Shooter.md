@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Weapon Focus (crossbow or firearm), base attack bonus +1."
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/feats/Prone Shooter|Prone Shooter (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Prone Shooter|Prone Shooter (PF1 F)]]"

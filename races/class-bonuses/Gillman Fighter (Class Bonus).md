@@ -3,7 +3,6 @@ srd-type: "class-bonus"
 section: "Races"
 race: "Gillman"
 class: ["Fighter"]
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Gillmen#Favored Class Options|Gillmen, Favored Class Options (ARG)]]"
 status: draft

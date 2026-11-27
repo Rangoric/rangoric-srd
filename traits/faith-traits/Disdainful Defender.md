@@ -2,7 +2,6 @@
 srd-type: "trait"
 section: "Traits"
 trait-type: "faith"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/traits/Disdainful Defender|Disdainful Defender (PF1)]]"
 status: draft

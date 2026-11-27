@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Mesmerist trick class feature."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/feats/Ready for Battle|Ready for Battle (PF1 Foundry)]]"
 status: draft

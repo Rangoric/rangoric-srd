@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Boggard, terrifying croak."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/boggards/New Rules (Boggards)#Throat Pouch|Throat Pouch (PF1)]]"
 status: draft

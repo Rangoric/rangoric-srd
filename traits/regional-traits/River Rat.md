@@ -2,7 +2,6 @@
 srd-type: "trait"
 section: "Traits"
 trait-type: "regional"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/traits/River Rat|River Rat (PF1)]]"
 status: draft

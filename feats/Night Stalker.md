@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Skill Focus (Stealth), darkvision, half-ogre or ogre, size Large or larger."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/ogres/New Rules (Ogres)#Night Stalker|Night Stalker (PF1)]]"
 status: draft

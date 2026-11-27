@@ -1,7 +1,6 @@
 ---
 srd-type: "feat"
 section: "Feats"
-book: "Alchemy & Herbalists"
 prerequisites: "Profession (herbalist) 5 ranks or Profession (apothecary) 3 ranks."
 based-on:
   - "[[individual books/Alchemy & Herbalists v3.5/feats/Craft Herbal Restoratives|Craft Herbal Restoratives (Alchemy & Herbalists)]]"

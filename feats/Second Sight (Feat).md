@@ -1,7 +1,6 @@
 ---
 srd-type: "feat"
 section: "Feats"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/feats/Second Sight|Second Sight (Faeries)]]"
 status: draft

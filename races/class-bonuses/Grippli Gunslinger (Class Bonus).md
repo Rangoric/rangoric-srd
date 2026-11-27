@@ -3,7 +3,6 @@ srd-type: "class-bonus"
 section: "Races"
 race: "Grippli"
 class: ["Gunslinger"]
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Gripplis#Favored Class Options|Gripplis, Favored Class Options (ARG)]]"
 status: draft

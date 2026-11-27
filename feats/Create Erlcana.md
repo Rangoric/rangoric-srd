@@ -1,7 +1,6 @@
 ---
 srd-type: "feat"
 section: "Feats"
-book: "Alchemy & Herbalists"
 prerequisites: "Profession (herbalist) 13 ranks, Nature 2 ranks, Grow Swathe."
 based-on:
   - "[[individual books/Alchemy & Herbalists v3.5/feats/Create Erlcana|Create Erlcana (Alchemy & Herbalists)]]"

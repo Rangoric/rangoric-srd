@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Poison use class feature, studied strike +4d6."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/feats/Insightful Delivery|Insightful Delivery (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Insightful Delivery|Insightful Delivery (PF1 Foundry)]]"

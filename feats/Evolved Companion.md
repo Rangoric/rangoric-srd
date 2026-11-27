@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Cha 13, animal companion class feature."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/feats/Evolved Companion|Evolved Companion (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Evolved Companion|Evolved Companion (PF1 Foundry)]]"

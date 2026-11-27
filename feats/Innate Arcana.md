@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Arcane spellcaster, caster level 4th, serpentfolk."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/serpentfolk/New Rules (Serpentfolk)#Innate Arcana|Innate Arcana (PF1)]]"
 status: draft

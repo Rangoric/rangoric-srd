@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "No levels in a class that has the panache class feature."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/feats/Amateur Swashbuckler|Amateur Swashbuckler (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Amateur Swashbuckler|Amateur Swashbuckler (PF1)]]"

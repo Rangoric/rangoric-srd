@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Goblin."
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/feats/Goblin Gunslinger|Goblin Gunslinger (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Goblin Gunslinger|Goblin Gunslinger (PF1)]]"

@@ -3,7 +3,6 @@ srd-type: "class-bonus"
 section: "Races"
 race: "Svirfneblin"
 class: ["Alchemist"]
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Svirfneblin (Race)#Favored Class Options|Svirfneblin, Favored Class Options (ARG)]]"
 status: draft

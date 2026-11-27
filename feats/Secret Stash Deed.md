@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Grit class feature or Amateur Gunslinger feat, Sleight of Hand 1 rank."
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/feats/Secret Stash Deed|Secret Stash Deed (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Secret Stash Deed|Secret Stash Deed (PF1 F)]]"

@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Arcane pool class feature."
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/feats/Extra Arcane Pool|Extra Arcane Pool (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Extra Arcane Pool|Extra Arcane Pool (PF1 Foundry)]]"

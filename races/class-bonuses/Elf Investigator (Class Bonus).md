@@ -3,7 +3,6 @@ srd-type: "class-bonus"
 section: "Races"
 race: "Elf"
 class: ["Investigator"]
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/rules/advanced-class-guide/hybrid-classes/Racial Favored Class Options#Elves|Racial Favored Class Options, Elves (ACG)]]"
 status: draft

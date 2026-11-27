@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Ki pool class feature, still mind class feature."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/feats/Spiritual Balance|Spiritual Balance (PF1 Foundry)]]"
 status: draft

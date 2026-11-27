@@ -3,7 +3,6 @@ srd-type: "trait"
 section: "Traits"
 trait-type: "race"
 race: "[[rangoric-srd/races/Half-Elf|Half-Elf]]"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/traits/Failed Apprentice|Failed Apprentice (PF1)]]"
 status: draft

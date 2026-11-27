@@ -1,7 +1,6 @@
 ---
 srd-type: "feat"
 section: "Feats"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/feats/Performance Weapon Mastery|Performance Weapon Mastery (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Performance Weapon Mastery|Performance Weapon Mastery (PF1 F)]]"

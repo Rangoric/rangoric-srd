@@ -9,7 +9,6 @@ views:
       - note.srd-type
       - note.trait-type
       - note.race
-      - note.book
       - note.status
     sort:
       - property: file.name
@@ -21,7 +20,6 @@ views:
         - file.inFolder("rangoric-srd/traits/combat-traits")
     order:
       - file.name
-      - note.book
       - note.status
     sort:
       - property: file.name
@@ -34,7 +32,6 @@ views:
     order:
       - file.name
       - note.trait-type
-      - note.book
       - note.status
     sort:
       - property: file.name
@@ -46,7 +43,6 @@ views:
         - file.inFolder("rangoric-srd/traits/magic-traits")
     order:
       - file.name
-      - note.book
       - note.status
     sort:
       - property: file.name
@@ -58,7 +54,6 @@ views:
         - file.inFolder("rangoric-srd/traits/social-traits")
     order:
       - file.name
-      - note.book
       - note.status
     sort:
       - property: file.name
@@ -70,7 +65,6 @@ views:
         - file.inFolder("rangoric-srd/traits/campaign-traits")
     order:
       - file.name
-      - note.book
       - note.status
     sort:
       - property: file.name
@@ -86,7 +80,6 @@ views:
     order:
       - file.name
       - note.race
-      - note.book
       - note.status
     sort:
       - property: file.name
@@ -98,7 +91,6 @@ views:
         - file.inFolder("rangoric-srd/traits/bloodline-traits")
     order:
       - file.name
-      - note.book
       - note.status
     sort:
       - property: file.name
@@ -110,7 +102,6 @@ views:
         - file.inFolder("rangoric-srd/traits/regional-traits")
     order:
       - file.name
-      - note.book
       - note.status
     sort:
       - property: file.name
@@ -122,7 +113,6 @@ views:
         - file.inFolder("rangoric-srd/traits/drawbacks")
     order:
       - file.name
-      - note.book
       - note.status
     sort:
       - property: file.name
@@ -134,7 +124,6 @@ views:
         - file.inFolder("rangoric-srd/traits/benefit-and-drawback-traits")
     order:
       - file.name
-      - note.book
       - note.status
     sort:
       - property: file.name

@@ -2,7 +2,6 @@
 srd-type: "trait"
 section: "Traits"
 trait-type: "religion"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/traits/Undead Slayer (Trait)|Undead Slayer (PF1)]]"
 status: draft

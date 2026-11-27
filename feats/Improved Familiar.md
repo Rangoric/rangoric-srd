@@ -8,7 +8,6 @@ status: draft
 change: modified
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/feat]
-book: "Ultimate Magic"
 ---
 
 # Improved Familiar

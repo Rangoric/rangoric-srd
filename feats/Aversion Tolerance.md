@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Vampire."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/vampires/New Rules (Vampires)#Aversion Tolerance|Aversion Tolerance (PF1)]]"
 status: draft

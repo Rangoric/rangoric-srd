@@ -2,7 +2,6 @@
 srd-type: "trait"
 section: "Traits"
 trait-type: "regional"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/traits/Sea-Souled|Sea-Souled (PF1)]]"
 status: draft

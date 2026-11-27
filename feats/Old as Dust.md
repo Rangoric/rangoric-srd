@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Sleeper, Warren Digger, creature has been a ghoul for at least 500 years."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/ghouls/New Rules (Ghouls)#Old as Dust|Old as Dust (PF1)]]"
 status: draft

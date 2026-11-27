@@ -1,7 +1,6 @@
 ---
 srd-type: "feat"
 section: "Feats"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/feats/Hero's Fortune|Hero's Fortune (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Hero's Fortune|Hero's Fortune (PF1 F)]]"

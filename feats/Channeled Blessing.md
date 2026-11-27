@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Blessings class feature, channel energy class feature."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/feats/Channeled Blessing|Channeled Blessing (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Channeled Blessing|Channeled Blessing (PF1 Foundry)]]"

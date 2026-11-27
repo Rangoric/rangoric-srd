@@ -3,7 +3,6 @@ srd-type: "class-bonus"
 section: "Races"
 race: "Ratfolk"
 class: ["Ranger"]
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Ratfolk (Race)#Favored Class Options|Ratfolk, Favored Class Options (ARG)]]"
 status: draft

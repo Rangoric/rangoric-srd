@@ -1,7 +1,6 @@
 ---
 srd-type: "feat"
 section: "Feats"
-book: "Alchemy & Herbalists"
 prerequisites: "Profession (herbalist) 9 ranks, ability to cast 3rd-level spells."
 based-on:
   - "[[individual books/Alchemy & Herbalists v3.5/feats/Flourish Spell|Flourish Spell (Alchemy & Herbalists)]]"

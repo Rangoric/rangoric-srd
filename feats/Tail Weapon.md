@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Base attack bonus +1, serpentfolk."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/serpentfolk/New Rules (Serpentfolk)#Tail Weapon|Tail Weapon (PF1)]]"
 status: draft

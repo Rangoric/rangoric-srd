@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Con 15, Corrupted Flesh, 6 HD, ogre."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/ogres/New Rules (Ogres)#Fetid Breath|Fetid Breath (PF1)]]"
 status: draft

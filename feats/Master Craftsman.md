@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "5 ranks in any Craft or Profession skill."
-book: "Core Rulebook"
 based-on:
   - "[[path srd 3.5/feats/Master Craftsman|Master Craftsman (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Master Craftsman|Master Craftsman (PF1)]]"

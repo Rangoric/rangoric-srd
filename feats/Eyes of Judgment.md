@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Detect alignment class feature, caster level 6th."
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/feats/Eyes of Judgment|Eyes of Judgment (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Eyes of Judgment|Eyes of Judgment (PF1 Foundry)]]"

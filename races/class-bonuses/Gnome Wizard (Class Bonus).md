@@ -3,7 +3,6 @@ srd-type: "class-bonus"
 section: "Races"
 race: "Gnome"
 class: ["Wizard"]
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Gnomes (Advanced Race Guide)#Favored Class Options|Gnomes, Favored Class Options (ARG)]]"
   - "[[path srd 3.5/rules/advanced-player-s-guide/races/Gnomes (Races)#Favored Class Options|Gnomes, Favored Class Options (APG)]]"

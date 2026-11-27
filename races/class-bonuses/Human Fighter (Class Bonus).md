@@ -3,7 +3,6 @@ srd-type: "class-bonus"
 section: "Races"
 race: "Human"
 class: ["Fighter"]
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Humans (Advanced Race Guide)#Favored Class Options|Humans, Favored Class Options (ARG)]]"
   - "[[path srd 3.5/rules/advanced-player-s-guide/races/Humans (Races)#Favored Class Options|Humans, Favored Class Options (APG)]]"

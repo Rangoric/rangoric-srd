@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Phantom class feature."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/feats/Spiritualist's Call|Spiritualist's Call (PF1 Foundry)]]"
 status: draft

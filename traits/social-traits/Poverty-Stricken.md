@@ -2,7 +2,6 @@
 srd-type: "trait"
 section: "Traits"
 trait-type: "social"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/traits/Poverty-Stricken|Poverty-Stricken (PF1)]]"
 status: draft

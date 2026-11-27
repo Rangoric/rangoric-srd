@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Bomb class feature."
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/feats/Extra Bombs|Extra Bombs (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Extra Bombs|Extra Bombs (PF1 Foundry)]]"

@@ -3,7 +3,6 @@ srd-type: "racial-trait"
 section: "Races"
 race: "the Faeries races (see Used by)"
 replaces: "nothing (a base racial trait)"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/races/Bogie|Bogie (Faeries)]]"
   - "[[individual books/Faeries/races/Deep Fey|Deep Fey (Faeries)]]"

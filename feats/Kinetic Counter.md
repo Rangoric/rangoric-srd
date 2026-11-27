@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Cold simple blast, fire simple blast, or water simple blast; kinetic blast class feature."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/feats/Kinetic Counter|Kinetic Counter (PF1 Foundry)]]"
 status: draft

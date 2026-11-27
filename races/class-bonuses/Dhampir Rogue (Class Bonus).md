@@ -3,7 +3,6 @@ srd-type: "class-bonus"
 section: "Races"
 race: "Dhampir"
 class: ["Rogue"]
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Dhampirs#Favored Class Options|Dhampirs, Favored Class Options (ARG)]]"
 status: draft

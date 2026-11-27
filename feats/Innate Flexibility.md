@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Duergar, two racial spell-like abilities usable once per day."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/duergar/New Rules (Duergar)#Innate Flexibility|Innate Flexibility (PF1)]]"
 status: draft

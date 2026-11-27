@@ -1,7 +1,6 @@
 ---
 srd-type: "feat"
 section: "Feats"
-book: "Alchemy & Herbalists"
 prerequisites: "Craft (alchemy) 4 ranks or Profession (herbalist) 3 ranks, Skill Focus in the same skill."
 based-on:
   - "[[individual books/Alchemy & Herbalists v3.5/feats/Craft Powders & Dusts|Craft Powders & Dusts (Alchemy & Herbalists)]]"

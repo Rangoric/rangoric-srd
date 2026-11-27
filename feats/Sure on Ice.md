@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Frost giant."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/frost-giants/New Rules (Frost Giants)#Sure on Ice|Sure on Ice (PF1)]]"
 status: draft

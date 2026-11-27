@@ -3,7 +3,6 @@ srd-type: "racial-trait"
 section: "Races"
 race: "[[rangoric-srd/races/Half-Elf|Half-Elf]]"
 replaces: "adaptability"
-book: ["Advanced Race Guide", "Advanced Player's Guide"]
 based-on:
   - "[[path srd 3.5/races/Half-Elves (Advanced Race Guide)#Alternate Racial Traits|Half-Elves (ARG)]]"
   - "[[path srd 3.5/rules/advanced-player-s-guide/races/Half-Elves (Races)|Half-Elves (APG)]]"

@@ -2,7 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Preservationist alchemist archetype."
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/feats/Planar Preservationist|Planar Preservationist (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Planar Preservationist|Planar Preservationist (PF1)]]"

@@ -2,7 +2,6 @@
 srd-type: "trait"
 section: "Traits"
 trait-type: "magic"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/traits/Unseen but Not Undone|Unseen but Not Undone (PF1)]]"
 status: draft

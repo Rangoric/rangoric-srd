@@ -2,7 +2,6 @@
 srd-type: "race"
 section: "Races"
 race-points: 10
-book: "Unearthed Arcana"
 based-on:
   - "[[path srd 3.5/races/Goblins|Goblins (ARG)]]"
   - "[[fantasy srd 3.5/monsters/Goblin|Goblin (3.5)]]"

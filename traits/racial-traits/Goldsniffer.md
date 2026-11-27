@@ -3,7 +3,6 @@ srd-type: "trait"
 section: "Traits"
 trait-type: "race"
 race: "[[rangoric-srd/races/Dwarf|Dwarf]]"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/traits/Goldsniffer|Goldsniffer (PF1)]]"
 status: draft
