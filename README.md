@@ -19,12 +19,21 @@ Every note has these, except the root notes (this README, the Changelog, Rangori
 doesn't meet them yet is marked `sweep: failing`, with one line per problem under `sweep-issues`, and its folder's
 Note Rules note lists it.
 
-| Key           | Required                    | Values                                             |
-| ------------- | --------------------------- | -------------------------------------------------- |
-| `srd-type`    | yes                         | `text`                                             |
-| `status`      | yes                         | `base`, `draft`, `playtest`, `settled`, `replaced` |
-| `change`      | yes                         | `copied`, `modified`, `new`                        |
-| `pi-review`   | yes                         |                                                    |
-| `tags`        | yes                         | list including `rangoric` and `rangoric/*`         |
-| `based-on`    | when `change` is not `new`  |                                                    |
-| `replaced-by` | when `status` is `replaced` |                                                    |
+| Key            | Required                    | Values                                             |
+| -------------- | --------------------------- | -------------------------------------------------- |
+| `srd-type`     | yes                         | `text`                                             |
+| `status`       | yes                         | `base`, `draft`, `playtest`, `settled`, `replaced` |
+| `change`       | yes                         | `copied`, `modified`, `new`                        |
+| `pi-review`    | yes                         |                                                    |
+| `tags`         | yes                         | list including `rangoric` and `rangoric/*`         |
+| `based-on`     | when `change` is not `new`  |                                                    |
+| `replaced-by`  | when `status` is `replaced` |                                                    |
+| `saving-throw` | never                       |                                                    |
+| `saves`        | never                       |                                                    |
+| `save`         | never                       |                                                    |
+| `save-dc`      | never                       |                                                    |
+
+Defenses replace saving throws ([Saving Throws](rules/Saving%20Throws.md)), so no note has the keys marked never, and no
+note says "save DC", "DC 15 Reflex save", "Reflex DC 15", "Reflex save for half" or "makes a saving throw": an
+effect attacks a defense instead. Saving Throws itself and `unearthed-arcana/` are excepted; base save progressions
+("good Fortitude saves") and a creature's own "Reflex check (1d20 + Reflex save bonus)" are fine.
