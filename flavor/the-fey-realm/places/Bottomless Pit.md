@@ -2,7 +2,6 @@
 srd-type: "flavor"
 place-kind: site
 region: "[[rangoric-srd/flavor/the-fey-realm/places/Badlands|Badlands]]"
-page: 62
 based-on:
   - "[[individual books/Faeries/places/Bottomless Pit|Bottomless Pit (Faeries)]]"
 status: draft

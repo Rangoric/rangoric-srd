@@ -7,7 +7,6 @@ fort: good
 ref: poor
 will: poor
 skill-points: "4 + Int modifier"
-book: "Encyclopaedia Arcane: Star Magic"
 based-on:
   - "[[individual books/Encyclopaedia Arcane Star Magic/prestige-classes/Nomad Shaman|Nomad Shaman (Star Magic)]]"
   - "[[individual books/Encyclopaedia Arcane Star Magic/tables/The Nomad Shaman|Table: The Nomad Shaman (Star Magic)]]"

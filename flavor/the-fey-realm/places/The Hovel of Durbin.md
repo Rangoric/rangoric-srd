@@ -2,7 +2,6 @@
 srd-type: "flavor"
 place-kind: site
 region: "[[rangoric-srd/flavor/the-fey-realm/places/Fungal Forest|Fungal Forest]]"
-page: 72
 based-on:
   - "[[individual books/Faeries/places/The Hovel of Durbin|The Hovel of Durbin (Faeries)]]"
 status: draft

@@ -2,7 +2,6 @@
 srd-type: "rules"
 section: "Rules"
 aliases: ["Duel"]
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/rules/ultimate-combat/mastering-combat/Duels|Duels (PF1 UC)]]"
   - "[[path srd 3.5/rules/ultimate-magic/mastering-magic/Spell Duels|Spell Duels (PF1 Ultimate Magic)]]"

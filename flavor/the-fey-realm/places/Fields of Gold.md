@@ -1,7 +1,6 @@
 ---
 srd-type: "flavor"
 place-kind: region
-page: 69
 based-on:
   - "[[individual books/Faeries/places/Fields of Gold|Fields of Gold (Faeries)]]"
 status: draft

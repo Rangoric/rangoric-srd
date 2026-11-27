@@ -8,7 +8,6 @@ fort: poor
 ref: good
 will: good
 skill-points: "6 + Int modifier"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/classes/Vigilante|Vigilante (PF1 Foundry)]]"
 status: draft

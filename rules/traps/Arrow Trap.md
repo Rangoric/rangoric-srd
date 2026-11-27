@@ -1,7 +1,6 @@
 ---
 srd-type: "trap"
 section: "Rules"
-book: "Core Rulebook"
 cr: "1"
 trap-type: "mechanical"
 based-on:

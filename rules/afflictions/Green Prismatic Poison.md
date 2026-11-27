@@ -1,7 +1,6 @@
 ---
 srd-type: "affliction"
 section: "Rules"
-book: "Core Rulebook"
 affliction-type: "poison"
 delivery: "spell"
 attack: "vs Fortitude (the effect’s attack bonus)"

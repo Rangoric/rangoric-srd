@@ -1,6 +1,5 @@
 ---
 srd-type: "flavor"
-page: 59
 wanderer: true
 based-on:
   - "[[individual books/Faeries/personalities/Father Time (“Baby New Year”)|Father Time (Faeries)]]"

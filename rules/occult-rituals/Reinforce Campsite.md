@@ -4,7 +4,6 @@ section: "Occult Rituals"
 school: "Abjuration"
 level: 4
 casting-time: "40 minutes"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/occult-rituals/Reinforce Campsite (Occult Ritual)|Reinforce Campsite (PF1 Foundry)]]"
 status: draft

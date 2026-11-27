@@ -7,7 +7,6 @@ fort: good
 ref: poor
 will: good
 skill-points: "4 + Int modifier"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/prestige-classes/Totem Mage|Totem Mage (Spells & Magic)]]"
   - "[[individual books/Spells & Magic v3.0/tables/Table 26 The Totem Mage|Table 26 The Totem Mage (Spells & Magic)]]"

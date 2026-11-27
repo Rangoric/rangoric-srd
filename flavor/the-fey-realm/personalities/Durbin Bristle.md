@@ -1,6 +1,5 @@
 ---
 srd-type: "flavor"
-page: 72
 based-on:
   - "[[individual books/Faeries/personalities/Durbin Bristle|Durbin Bristle (Faeries)]]"
 status: draft

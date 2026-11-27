@@ -8,7 +8,6 @@ fort: good
 ref: poor
 will: good
 skill-points: "4 + Int modifier"
-book: "Unearthed Arcana"
 race: "[[rangoric-srd/monsters/half-dragon/Half-Dragon|half-dragons]]"
 based-on:
   - "[[fantasy srd 3.5/unearthed-arcana/Racial Paragon|Racial Paragon (3.5)]]"

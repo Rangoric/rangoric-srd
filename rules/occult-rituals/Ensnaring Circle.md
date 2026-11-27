@@ -4,7 +4,6 @@ section: "Occult Rituals"
 school: "Abjuration"
 level: 4
 casting-time: "40 minutes"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/occult-rituals/Ensnaring Circle (Occult Ritual)|Ensnaring Circle (PF1 Foundry)]]"
 status: draft

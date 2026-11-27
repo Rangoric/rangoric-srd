@@ -7,7 +7,6 @@ fort: good
 ref: good
 will: good
 skill-points: "4 + Int modifier"
-book: "Alchemy & Herbalists"
 based-on:
   - "[[individual books/Alchemy & Herbalists v3.5/prestige-classes/Black Alchemist|Black Alchemist (Alchemy & Herbalists)]]"
   - "[[individual books/Alchemy & Herbalists v3.5/tables/Table 1 The Black Alchemist|Table 1 The Black Alchemist (Alchemy & Herbalists)]]"

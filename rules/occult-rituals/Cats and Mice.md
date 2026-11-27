@@ -5,7 +5,6 @@ school: "Transmutation"
 subschool: "Polymorph"
 level: 5
 casting-time: "50 minutes"
-book: "Villain Codex"
 based-on:
   - "[[path srd 3.5 foundry/occult-rituals/Cats and Mice (Occult Ritual)|Cats and Mice (PF1 Foundry)]]"
 status: draft

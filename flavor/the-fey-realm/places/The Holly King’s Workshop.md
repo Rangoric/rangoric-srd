@@ -2,7 +2,6 @@
 srd-type: "flavor"
 place-kind: site
 region: "[[rangoric-srd/flavor/the-fey-realm/places/Land of Eternal Winter|Land of Eternal Winter]]"
-page: 80
 based-on:
   - "[[individual books/Faeries/places/The Holly King’s Workshop|The Holly King’s Workshop (Faeries)]]"
 status: draft

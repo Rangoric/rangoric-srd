@@ -8,7 +8,6 @@ fort: good
 ref: poor
 will: good
 skill-points: "2 + Int modifier"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/classes/Magus|Magus (PF1)]]"
   - "[[path srd 3.5 foundry/classes/Magus|Magus (PF1 Foundry)]]"

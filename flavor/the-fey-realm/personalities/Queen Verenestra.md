@@ -1,6 +1,5 @@
 ---
 srd-type: "flavor"
-page: 68
 based-on:
   - "[[individual books/Faeries/personalities/Queen Verenestra|Queen Verenestra (Faeries)]]"
 status: draft

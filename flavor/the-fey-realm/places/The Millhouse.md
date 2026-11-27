@@ -2,7 +2,6 @@
 srd-type: "flavor"
 place-kind: site
 region: "[[rangoric-srd/flavor/the-fey-realm/places/Fields of Gold|Fields of Gold]]"
-page: 70
 based-on:
   - "[[individual books/Faeries/places/The Millhouse|The Millhouse (Faeries)]]"
 status: draft

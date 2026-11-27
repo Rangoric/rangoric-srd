@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Prestige Classes"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/prestige-classes/Fae-walker|Fae-walker (Faeries)]]"
   - "[[individual books/Faeries/prestige-classes/Faemancer|Faemancer (Faeries)]]"

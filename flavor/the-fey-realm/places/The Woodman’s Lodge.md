@@ -2,7 +2,6 @@
 srd-type: "flavor"
 place-kind: site
 region: "[[rangoric-srd/flavor/the-fey-realm/places/Land of Eternal Autumn|Land of Eternal Autumn]]"
-page: 72
 based-on:
   - "[[individual books/Faeries/places/The Woodman’s Lodge|The Woodman’s Lodge (Faeries)]]"
 status: draft

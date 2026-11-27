@@ -1,7 +1,6 @@
 ---
 srd-type: "rules"
 section: "Rules"
-book: "Game Mastery Guide"
 based-on:
   - "[[path srd 3.5/rules/game-mastery-guide/fast-play-ship-combat/Nautical Adventures|Nautical Adventures (PF1)]]"
 status: draft

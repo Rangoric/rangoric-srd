@@ -1,7 +1,6 @@
 ---
 srd-type: "flavor"
 place-kind: region
-page: 66
 based-on:
   - "[[individual books/Faeries/places/Dark Forest|Dark Forest (Faeries)]]"
 status: draft

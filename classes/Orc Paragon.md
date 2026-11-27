@@ -8,7 +8,6 @@ fort: good
 ref: poor
 will: poor
 skill-points: "2 + Int modifier"
-book: "Unearthed Arcana"
 race: "[[rangoric-srd/races/Orc|orcs]]"
 based-on:
   - "[[fantasy srd 3.5/unearthed-arcana/Racial Paragon|Racial Paragon (3.5)]]"

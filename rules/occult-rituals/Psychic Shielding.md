@@ -4,7 +4,6 @@ section: "Occult Rituals"
 school: "Abjuration"
 level: 6
 casting-time: "60 minutes"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/occult-rituals/Psychic Shielding (Occult Ritual)|Psychic Shielding (PF1 Foundry)]]"
 status: draft

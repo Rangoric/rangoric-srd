@@ -1,7 +1,6 @@
 ---
 srd-type: "flavor"
 setting: "The Fey Realm"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/rules/How to use this book|How to use this book (Faeries)]]"
   - "[[individual books/Faeries/rules/World of Faerie|World of Faerie (Faeries)]]"

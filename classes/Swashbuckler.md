@@ -8,7 +8,6 @@ fort: poor
 ref: good
 will: poor
 skill-points: "4 + Int modifier"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/classes/Swashbuckler (Class)|Swashbuckler (PF1)]]"
 status: draft

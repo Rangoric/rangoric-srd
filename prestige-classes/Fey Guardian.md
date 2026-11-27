@@ -7,7 +7,6 @@ fort: poor
 ref: poor
 will: good
 skill-points: "4 + Int modifier"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/prestige-classes/Fey Guardian|Fey Guardian (Faeries)]]"
   - "[[individual books/Faeries/tables/Table 8 The Fey Guardian|Table 8 The Fey Guardian (Faeries)]]"

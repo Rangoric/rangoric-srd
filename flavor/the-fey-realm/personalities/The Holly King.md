@@ -1,6 +1,5 @@
 ---
 srd-type: "flavor"
-page: 81
 based-on:
   - "[[individual books/Faeries/personalities/The Holly King|The Holly King (Faeries)]]"
 status: draft

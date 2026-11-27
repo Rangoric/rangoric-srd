@@ -4,7 +4,6 @@ section: "Occult Rituals"
 school: "Transmutation"
 level: 5
 casting-time: "5 hours"
-book: "Villain Codex"
 based-on:
   - "[[path srd 3.5 foundry/occult-rituals/Atavistic Reversion (Occult Ritual)|Atavistic Reversion (PF1 Foundry)]]"
 status: draft

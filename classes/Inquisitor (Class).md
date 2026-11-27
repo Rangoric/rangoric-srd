@@ -8,7 +8,6 @@ fort: good
 ref: poor
 will: good
 skill-points: "6 + Int modifier"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/classes/Inquisitor|Inquisitor (PF1)]]"
   - "[[path srd 3.5 foundry/classes/Inquisitor|Inquisitor (PF1 Foundry)]]"

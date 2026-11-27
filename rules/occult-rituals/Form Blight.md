@@ -4,7 +4,6 @@ section: "Occult Rituals"
 school: "Necromancy"
 level: 9
 casting-time: "9 hours"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/occult-rituals/Form Blight (Occult Ritual)|Form Blight (PF1 Foundry)]]"
 status: draft

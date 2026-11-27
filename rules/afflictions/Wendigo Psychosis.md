@@ -1,7 +1,6 @@
 ---
 srd-type: "affliction"
 section: "Rules"
-book: "Bestiary 2"
 affliction-type: "curse"
 delivery: "nightmare or wind walk"
 attack: "+16 vs Will"

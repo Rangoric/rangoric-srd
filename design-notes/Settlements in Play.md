@@ -1,7 +1,6 @@
 ---
 srd-type: "designer-reference"
 section: "Design Notes"
-book: "Game Mastery Guide"
 based-on:
   - "[[path srd 3.5/rules/game-mastery-guide/settlements/Settlements in Play|Settlements in Play (PF1)]]"
 status: draft

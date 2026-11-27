@@ -7,7 +7,6 @@ fort: poor
 ref: poor
 will: good
 skill-points: "6 + Int modifier"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/prestige-classes/Fey-Touched|Fey-Touched (Faeries)]]"
   - "[[individual books/Faeries/tables/Table 10 The Fey-touched|Table 10 The Fey-touched (Faeries)]]"

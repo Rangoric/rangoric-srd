@@ -2,7 +2,6 @@
 srd-type: "flavor"
 place-kind: site
 region: "[[rangoric-srd/flavor/the-fey-realm/places/Big Rock Mountains|Big Rock Mountains]]"
-page: 65
 based-on:
   - "[[individual books/Faeries/places/Crystal Cave|Crystal Cave (Faeries)]]"
 status: draft

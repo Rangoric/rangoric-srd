@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Rules"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/rules/The Path of Jewels|The Path of Jewels (Spells & Magic)]]"
   - "[[individual books/Spells & Magic v3.0/rules/Facets of Power|Facets of Power (Spells & Magic)]]"

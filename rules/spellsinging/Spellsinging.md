@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Rules"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/rules/Spellsinging|Spellsinging (Spells & Magic)]]"
 status: draft

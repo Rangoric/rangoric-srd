@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Skills"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5/rules/pathfinder-unchained/Skill Unlocks|Skill Unlocks (PF1 Unchained)]]"
   - "[[fantasy srd 3.5/skills/Skills Overview|Skills Overview (3.5)]]"

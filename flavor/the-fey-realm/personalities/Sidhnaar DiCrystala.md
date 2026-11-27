@@ -1,6 +1,5 @@
 ---
 srd-type: "flavor"
-page: 76
 based-on:
   - "[[individual books/Faeries/personalities/Sidhnaar DiCrystala|Sidhnaar DiCrystala (Faeries)]]"
 status: draft

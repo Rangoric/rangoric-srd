@@ -8,7 +8,6 @@ fort: poor
 ref: poor
 will: good
 skill-points: "4 + Int modifier"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/classes/Shaman (Class)|Shaman (PF1)]]"
 status: draft

@@ -1,7 +1,6 @@
 ---
 srd-type: "affliction"
 section: "Rules"
-book: "Core Rulebook"
 affliction-type: "disease"
 delivery: "contact, inhaled, or injury"
 attack: "+2 vs Fortitude to infect, +10 vs Fortitude for its effects"

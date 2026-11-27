@@ -1,7 +1,6 @@
 ---
 srd-type: "rule"
 section: "Rules"
-book: "Alchemy & Herbalists"
 based-on:
   - "[[source files/raw/individual books/Alchemy & Herbalists v3.5/06 Knowledge & Development|Chapter 6: Knowledge & Development (Alchemy & Herbalists)]]"
   - "[[source files/raw/individual books/Alchemy & Herbalists v3.5/07 Catalog Herbala Y Alchemica|Chapter 7: Catalog Herbala y Alchemica (Alchemy & Herbalists)]]"

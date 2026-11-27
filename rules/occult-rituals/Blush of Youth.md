@@ -6,7 +6,6 @@ descriptor:
   - "Evil"
 level: 7
 casting-time: "7 hours"
-book: "Villain Codex"
 based-on:
   - "[[path srd 3.5 foundry/occult-rituals/Blush of Youth (Occult Ritual)|Blush of Youth (PF1 Foundry)]]"
 status: draft

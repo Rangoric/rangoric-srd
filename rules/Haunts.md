@@ -1,7 +1,6 @@
 ---
 srd-type: "rules"
 section: "Rules"
-book: "Game Mastery Guide"
 based-on:
   - "[[path srd 3.5/rules/game-mastery-guide/haunts/Haunts (Haunts)|Haunts (PF1)]]"
   - "[[path srd 3.5/rules/game-mastery-guide/haunts/Haunt Rules|Haunt Rules (PF1)]]"

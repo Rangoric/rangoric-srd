@@ -1,7 +1,6 @@
 ---
 srd-type: "flavor"
 place-kind: region
-page: 85
 based-on:
   - "[[individual books/Faeries/places/The Shrouded Lands|The Shrouded Lands (Faeries)]]"
 status: draft

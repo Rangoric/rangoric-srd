@@ -8,7 +8,6 @@ fort: poor
 ref: poor
 will: good
 skill-points: "2 + Int modifier"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/classes/Arcanist|Arcanist (PF1)]]"
 status: draft

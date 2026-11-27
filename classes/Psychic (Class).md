@@ -10,7 +10,6 @@ fort: poor
 ref: poor
 will: good
 skill-points: "2 + Int modifier"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/classes/Psychic|Psychic (PF1 Foundry)]]"
   - "[[path srd 3.5 foundry/class-features/Phrenic Pool|Phrenic Pool (PF1 Foundry)]]"

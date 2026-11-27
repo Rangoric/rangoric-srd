@@ -7,7 +7,6 @@ fort: poor
 ref: poor
 will: good
 skill-points: "2 + Int modifier"
-book: "Encyclopaedia Arcane: Star Magic"
 based-on:
   - "[[individual books/Encyclopaedia Arcane Star Magic/prestige-classes/Magus|Magus (Star Magic)]]"
   - "[[individual books/Encyclopaedia Arcane Star Magic/tables/The Magus|Table: The Magus (Star Magic)]]"

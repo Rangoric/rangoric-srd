@@ -1,7 +1,6 @@
 ---
 srd-type: "flavor"
 place-kind: region
-page: 78
 based-on:
   - "[[individual books/Faeries/places/Land of Eternal Summer|Land of Eternal Summer (Faeries)]]"
 status: draft

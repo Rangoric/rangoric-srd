@@ -1,7 +1,6 @@
 ---
 srd-type: "affliction"
 section: "Rules"
-book: "Bestiary 4"
 affliction-type: "curse"
 delivery: "injury"
 attack: "+13 vs Will"

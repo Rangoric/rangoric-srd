@@ -1,6 +1,5 @@
 ---
 srd-type: "flavor"
-page: 80
 based-on:
   - "[[individual books/Faeries/personalities/Old Man Winter|Old Man Winter (Faeries)]]"
 status: draft

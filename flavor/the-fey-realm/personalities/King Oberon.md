@@ -1,6 +1,5 @@
 ---
 srd-type: "flavor"
-page: 74
 based-on:
   - "[[individual books/Faeries/personalities/King Oberon|King Oberon (Faeries)]]"
 status: draft

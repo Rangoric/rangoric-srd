@@ -16,7 +16,6 @@ What the notes in `flavor` look like. The whole-SRD rules are in the [README](..
 | Key          | Required | Values           |
 | ------------ | -------- | ---------------- |
 | `srd-type`   | yes      | `flavor`         |
-| `page`       | no       | `number`         |
 | `place-kind` | no       | `site`, `region` |
 | `region`     | no       | `text`           |
 

@@ -8,7 +8,6 @@ fort: good
 ref: poor
 will: good
 skill-points: "4 + Int modifier"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/classes/Skald|Skald (PF1)]]"
 status: draft

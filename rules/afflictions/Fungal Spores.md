@@ -1,7 +1,6 @@
 ---
 srd-type: "affliction"
 section: "Rules"
-book: "Bestiary 4"
 affliction-type: "poison"
 delivery: "inhaled"
 attack: "+1/2 the fungal creature’s racial Hit Dice + its Constitution modifier vs Fortitude"

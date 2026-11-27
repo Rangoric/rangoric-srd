@@ -1,7 +1,6 @@
 ---
 srd-type: "trap"
 section: "Rules"
-book: "Ultimate Equipment"
 cr: "1/3"
 trap-type: "mechanical"
 based-on:

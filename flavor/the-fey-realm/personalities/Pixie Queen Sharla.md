@@ -1,6 +1,5 @@
 ---
 srd-type: "flavor"
-page: 77
 based-on:
   - "[[individual books/Faeries/personalities/Pixie Queen Sharla|Pixie Queen Sharla (Faeries)]]"
 status: draft

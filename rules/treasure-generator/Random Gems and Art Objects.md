@@ -1,7 +1,6 @@
 ---
 srd-type: "rules"
 section: "Rules"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/rules/ultimate-equipment/appendix/Treasure Generator|Treasure Generator (PF1)]]"
 status: draft

@@ -1,7 +1,6 @@
 ---
 srd-type: "affliction"
 section: "Rules"
-book: "Bestiary 2"
 affliction-type: "poison"
 delivery: "contact"
 attack: "+13 vs Fortitude"

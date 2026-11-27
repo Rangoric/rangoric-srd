@@ -7,7 +7,6 @@ fort: good
 ref: good
 will: poor
 skill-points: "2 + Int modifier"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/prestige-classes/Mortal Slayer|Mortal Slayer (Faeries)]]"
   - "[[individual books/Faeries/tables/Table 13 The Mortal Slayer|Table 13 The Mortal Slayer (Faeries)]]"

@@ -7,7 +7,6 @@ fort: good
 ref: poor
 will: poor
 skill-points: "2 + Int modifier"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/prestige-classes/Shadetouched|Shadetouched (Spells & Magic)]]"
   - "[[individual books/Spells & Magic v3.0/tables/Table 24 The Shadetouched|Table 24 The Shadetouched (Spells & Magic)]]"

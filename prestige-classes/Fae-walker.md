@@ -7,7 +7,6 @@ fort: poor
 ref: good
 will: poor
 skill-points: "6 + Int modifier"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/prestige-classes/Fae-walker|Fae-walker (Faeries)]]"
   - "[[individual books/Faeries/tables/Table 7 The Fae-walker|Table 7 The Fae-walker (Faeries)]]"

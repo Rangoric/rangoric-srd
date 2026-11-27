@@ -1,7 +1,6 @@
 ---
 srd-type: "affliction"
 section: "Rules"
-book: "Game Mastery Guide"
 affliction-type: "disease"
 delivery: "drug"
 attack: "per drug"

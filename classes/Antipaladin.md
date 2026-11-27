@@ -8,7 +8,6 @@ fort: good
 ref: poor
 will: good
 skill-points: "2 + Int modifier"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/classes/Antipaladin|Antipaladin (PF1)]]"
   - "[[path srd 3.5/archetypes/Class Features|Antipaladin Class Features (PF1)]]"

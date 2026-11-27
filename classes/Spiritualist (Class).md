@@ -10,7 +10,6 @@ fort: good
 ref: poor
 will: good
 skill-points: "4 + Int modifier"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/classes/Spiritualist|Spiritualist (PF1 Foundry)]]"
   - "[[path srd 3.5 foundry/class-features/Phantom|Phantom (PF1 Foundry)]]"

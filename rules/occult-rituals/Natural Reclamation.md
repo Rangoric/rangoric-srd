@@ -4,7 +4,6 @@ section: "Occult Rituals"
 school: "Conjuration"
 level: 5
 casting-time: "50 minutes"
-book: "Villain Codex"
 based-on:
   - "[[path srd 3.5 foundry/occult-rituals/Natural Reclamation (Occult Ritual)|Natural Reclamation (PF1 Foundry)]]"
 status: draft

@@ -1,6 +1,5 @@
 ---
 srd-type: "flavor"
-page: 71
 based-on:
   - "[[individual books/Faeries/personalities/Puck|Puck (Faeries)]]"
 status: draft

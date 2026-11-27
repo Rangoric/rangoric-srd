@@ -1,7 +1,6 @@
 ---
 srd-type: "affliction"
 section: "Rules"
-book: "Bestiary 2"
 affliction-type: "curse"
 delivery: "incorporeal touch"
 attack: "+11 vs Will"

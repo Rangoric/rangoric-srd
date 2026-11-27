@@ -1,7 +1,6 @@
 ---
 srd-type: "trap"
 section: "Rules"
-book: "Core Rulebook"
 cr: "11"
 trap-type: "magic"
 based-on:

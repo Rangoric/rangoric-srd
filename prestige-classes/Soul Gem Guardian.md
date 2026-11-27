@@ -7,7 +7,6 @@ fort: good
 ref: poor
 will: good
 skill-points: "2 + Int modifier"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/prestige-classes/Soul Gem Guardian|Soul Gem Guardian (Spells & Magic)]]"
   - "[[individual books/Spells & Magic v3.0/tables/Table 19 The Soul Gem Guardian|Table 19 The Soul Gem Guardian (Spells & Magic)]]"

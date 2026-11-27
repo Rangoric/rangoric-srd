@@ -7,7 +7,6 @@ fort: good
 ref: good
 will: good
 skill-points: "4 + Int modifier"
-book: "Alchemy & Herbalists"
 based-on:
   - "[[individual books/Alchemy & Herbalists v3.5/prestige-classes/White Alchemist|White Alchemist (Alchemy & Herbalists)]]"
   - "[[individual books/Alchemy & Herbalists v3.5/tables/Table 2 The White Alchemist|Table 2 The White Alchemist (Alchemy & Herbalists)]]"

@@ -2,7 +2,6 @@
 srd-type: "flavor"
 place-kind: site
 region: "[[rangoric-srd/flavor/the-fey-realm/places/Perilous Mountains|Perilous Mountains]]"
-page: 82
 based-on:
   - "[[individual books/Faeries/places/Endless Caverns|Endless Caverns (Faeries)]]"
 status: draft

@@ -1,7 +1,6 @@
 ---
 srd-type: "affliction"
 section: "Rules"
-book: ["Core Rulebook", "Ultimate Equipment"]
 affliction-type: "poison"
 delivery: "contact"
 attack: "+10 vs Fortitude"

@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Rules"
-book: "Game Mastery Guide"
 based-on:
   - "[[path srd 3.5/rules/game-mastery-guide/hazards/Hazards (Hazards)|Hazards (PF1)]]"
   - "[[path srd 3.5/rules/game-mastery-guide/hazards/Sample Hazards|Sample Hazards (PF1)]]"

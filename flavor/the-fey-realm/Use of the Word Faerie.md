@@ -1,7 +1,5 @@
 ---
 srd-type: "flavor"
-page: 3
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/rules/Use of the word ‘Faerie’|Use of the word Faerie (Faeries)]]"
 status: draft

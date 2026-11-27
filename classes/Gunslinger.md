@@ -8,7 +8,6 @@ fort: good
 ref: good
 will: poor
 skill-points: "4 + Int modifier"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/classes/Gunslinger|Gunslinger (PF1)]]"
 status: draft

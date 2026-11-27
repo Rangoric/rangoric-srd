@@ -1,7 +1,6 @@
 ---
 srd-type: "designer-reference"
 section: "Design Notes"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/rules/bestiary/monster-creation/Monster Creation (Monster Creation)|Monster Creation (PF1)]]"
   - "[[path srd 3.5/rules/bestiary/monster-creation/Building the Monster|Building the Monster (PF1)]]"

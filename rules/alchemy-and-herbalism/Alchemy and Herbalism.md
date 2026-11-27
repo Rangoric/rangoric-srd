@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Rules"
-book: "Alchemy & Herbalists"
 based-on:
   - "[[source files/raw/individual books/Alchemy & Herbalists v3.5/03 Basics Of Herbalism|Chapter 3: Basics of Herbalism (Alchemy & Herbalists)]]"
   - "[[individual books/Alchemy & Herbalists v3.5/rules/What’s the Difference|What’s the Difference (Alchemy & Herbalists)]]"

@@ -1,7 +1,6 @@
 ---
 srd-type: "rules"
 section: "Rules"
-book: "Occult Adventures"
 based-on: []
 status: draft
 change: new

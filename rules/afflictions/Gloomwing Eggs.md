@@ -1,7 +1,6 @@
 ---
 srd-type: "affliction"
 section: "Rules"
-book: "Bestiary 2"
 affliction-type: "infestation"
 attack: "+4 vs Fortitude"
 attack-bonus: 4

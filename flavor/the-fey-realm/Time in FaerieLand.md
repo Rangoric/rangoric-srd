@@ -1,6 +1,5 @@
 ---
 srd-type: "flavor"
-page: 51
 based-on:
   - "[[individual books/Faeries/rules/FaerieLand’s Planar Characteristics|FaerieLand’s Planar Characteristics (Faeries)]]"
 status: draft

@@ -7,7 +7,6 @@ fort: poor
 ref: good
 will: good
 skill-points: "3 + Int modifier"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/prestige-classes/Reflecting Master|Reflecting Master (Spells & Magic)]]"
   - "[[individual books/Spells & Magic v3.0/tables/Table 15 The Reflecting Master|Table 15 The Reflecting Master (Spells & Magic)]]"

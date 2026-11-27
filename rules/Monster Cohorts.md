@@ -1,7 +1,6 @@
 ---
 srd-type: "rules"
 section: "Rules"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/rules/bestiary/misc-monster-rules/Monster Cohorts|Monster Cohorts (PF1)]]"
 status: draft

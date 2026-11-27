@@ -2,7 +2,6 @@
 srd-type: "plane"
 section: "Rules"
 aliases: ["Foul Wasteland"]
-book: "Game Mastery Guide"
 based-on:
   - "[[path srd 3.5/rules/game-mastery-guide/planar-adventures/The Great Beyond#Abaddon|Abaddon (PF1)]]"
 status: draft

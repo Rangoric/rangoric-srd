@@ -1,7 +1,6 @@
 ---
 srd-type: "trap"
 section: "Rules"
-book: "Advanced Player's Guide"
 cr: "1"
 trap-type: "mechanical"
 price: "2 gp"

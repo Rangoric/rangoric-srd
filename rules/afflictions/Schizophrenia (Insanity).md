@@ -1,7 +1,6 @@
 ---
 srd-type: "affliction"
 section: "Rules"
-book: "Game Mastery Guide"
 affliction-type: "insanity"
 attack: "+6 vs Will"
 attack-bonus: 6

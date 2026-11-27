@@ -1,6 +1,5 @@
 ---
 srd-type: "flavor"
-page: 50
 based-on:
   - "[[individual books/Faeries/rules/Rulership of FaerieLand|Rulership of FaerieLand (Faeries)]]"
 status: draft

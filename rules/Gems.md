@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Rules"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/rules/Expanded Gem Descriptions|Expanded Gem Descriptions (Spells & Magic)]]"
   - "[[individual books/Spells & Magic v3.0/tables/Table 20 Gem Values and Descriptors|Table 20 Gem Values and Descriptors (Spells & Magic)]]"

@@ -2,7 +2,6 @@
 srd-type: "skill"
 section: "Skills"
 key-ability: "Int"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/rules/rules/magic/magic-basics/Psychic Magic (Rules)|Psychic Magic (PF1 Foundry)]]"
 status: draft

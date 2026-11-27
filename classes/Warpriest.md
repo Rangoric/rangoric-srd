@@ -8,7 +8,6 @@ fort: good
 ref: poor
 will: good
 skill-points: "2 + Int modifier"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/classes/Warpriest|Warpriest (PF1)]]"
   - "[[path srd 3.5 foundry/classes/Warpriest|Warpriest (PF1 Foundry)]]"

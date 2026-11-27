@@ -4,7 +4,6 @@ section: "Occult Rituals"
 school: "Necromancy"
 level: 7
 casting-time: "70 minutes"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/occult-rituals/Haunted Communion (Occult Ritual)|Haunted Communion (PF1 Foundry)]]"
 status: draft

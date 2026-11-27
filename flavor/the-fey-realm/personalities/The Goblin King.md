@@ -1,6 +1,5 @@
 ---
 srd-type: "flavor"
-page: 63
 based-on:
   - "[[individual books/Faeries/personalities/The Goblin King|The Goblin King (Faeries)]]"
 status: draft

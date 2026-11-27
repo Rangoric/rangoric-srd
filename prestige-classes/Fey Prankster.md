@@ -7,7 +7,6 @@ fort: poor
 ref: good
 will: good
 skill-points: "6 + Int modifier"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/prestige-classes/Fey Prankster|Fey Prankster (Faeries)]]"
   - "[[individual books/Faeries/tables/Table 9 Fey Prankster|Table 9 Fey Prankster (Faeries)]]"

@@ -23,7 +23,6 @@ What the notes in `prestige-classes` look like. The whole-SRD rules are in the [
 | `fort`         | no       | `good`, `poor`                                                                                     |
 | `ref`          | no       | `poor`, `good`                                                                                     |
 | `will`         | no       | `good`, `poor`                                                                                     |
-| `book`         | no       |                                                                                                    |
 
 ## overview
 
@@ -31,7 +30,6 @@ What the notes in `prestige-classes` look like. The whole-SRD rules are in the [
 | ---------- | -------- | ------------------ |
 | `srd-type` | yes      | `overview`         |
 | `section`  | yes      | `Prestige Classes` |
-| `book`     | no       | `text`             |
 
 ## Failing notes
 

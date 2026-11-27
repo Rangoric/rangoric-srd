@@ -1,7 +1,6 @@
 ---
 srd-type: "flavor"
 place-kind: region
-page: 69
 based-on:
   - "[[individual books/Faeries/places/Faerie Woods|Faerie Woods (Faeries)]]"
 status: draft

@@ -1,6 +1,5 @@
 ---
 srd-type: "flavor"
-page: 48
 based-on:
   - "[[individual books/Faeries/rules/Laws of Faerie|Laws of Faerie (Faeries)]]"
 status: draft

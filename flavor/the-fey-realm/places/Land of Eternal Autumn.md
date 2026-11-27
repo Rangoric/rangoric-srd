@@ -1,7 +1,6 @@
 ---
 srd-type: "flavor"
 place-kind: region
-page: 72
 based-on:
   - "[[individual books/Faeries/places/Land of Eternal Autumn|Land of Eternal Autumn (Faeries)]]"
 status: draft

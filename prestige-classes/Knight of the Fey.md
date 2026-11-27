@@ -7,7 +7,6 @@ fort: good
 ref: poor
 will: good
 skill-points: "2 + Int modifier"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/prestige-classes/Knight of the Fey|Knight of the Fey (Faeries)]]"
   - "[[individual books/Faeries/tables/Table 11 The Knight of the Fey|Table 11 The Knight of the Fey (Faeries)]]"

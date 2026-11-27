@@ -3,7 +3,6 @@ srd-type: "rules"
 section: "Rules"
 aliases:
   - "Psychic Duel"
-book: "Occult Adventures"
 based-on: []
 status: draft
 change: new

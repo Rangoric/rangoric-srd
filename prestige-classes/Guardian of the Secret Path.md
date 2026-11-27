@@ -7,7 +7,6 @@ fort: good
 ref: good
 will: good
 skill-points: "2 + Int modifier"
-book: "Encyclopaedia Arcane: Star Magic"
 based-on:
   - "[[individual books/Encyclopaedia Arcane Star Magic/prestige-classes/Guardian of the Secret Path|Guardian of the Secret Path (Star Magic)]]"
   - "[[individual books/Encyclopaedia Arcane Star Magic/tables/The Guardian of the Secret Path|Table: The Guardian of the Secret Path (Star Magic)]]"

@@ -1,7 +1,6 @@
 ---
 srd-type: "flavor"
 place-kind: region
-page: 84
 based-on:
   - "[[individual books/Faeries/places/Sands of Time|Sands of Time (Faeries)]]"
 status: draft

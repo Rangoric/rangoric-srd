@@ -1,7 +1,6 @@
 ---
 srd-type: "plane"
 section: "Rules"
-book: "Game Mastery Guide"
 based-on:
   - "[[path srd 3.5/rules/game-mastery-guide/planar-adventures/The Great Beyond#The Abyss|The Abyss (PF1)]]"
 status: draft

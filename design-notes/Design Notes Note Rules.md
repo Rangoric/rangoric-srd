@@ -17,7 +17,6 @@ What the notes in `design-notes` look like. The whole-SRD rules are in the [READ
 | ---------- | -------- | -------------------- |
 | `srd-type` | yes      | `designer-reference` |
 | `section`  | yes      | `Design Notes`       |
-| `book`     | yes      | `text`               |
 
 Headings, in order:
 

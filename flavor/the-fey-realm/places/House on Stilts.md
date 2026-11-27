@@ -2,7 +2,6 @@
 srd-type: "flavor"
 place-kind: site
 region: "[[rangoric-srd/flavor/the-fey-realm/places/Eerie Swamps|Eerie Swamps]]"
-page: 69
 based-on:
   - "[[individual books/Faeries/places/House on Stilts|House on Stilts (Faeries)]]"
 status: draft

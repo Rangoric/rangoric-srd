@@ -4,7 +4,6 @@ section: "Occult Rituals"
 school: "Evocation"
 level: 5
 casting-time: "50 minutes"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/occult-rituals/Ethereal Rip (Occult Ritual)|Ethereal Rip (PF1 Foundry)]]"
 status: draft

@@ -1,6 +1,5 @@
 ---
 srd-type: "flavor"
-page: 82
 based-on:
   - "[[individual books/Faeries/personalities/Queen Nimue|Queen Nimue (Faeries)]]"
 status: draft

@@ -1,7 +1,6 @@
 ---
 srd-type: "affliction"
 section: "Rules"
-book: "Game Mastery Guide"
 affliction-type: "infestation"
 attack: "+7 vs Fortitude"
 attack-bonus: 7
