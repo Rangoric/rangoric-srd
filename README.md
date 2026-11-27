@@ -23,10 +23,10 @@ Note Rules note lists it.
 | -------------- | --------------------------- | -------------------------------------------------- |
 | `srd-type`     | yes                         | `text`                                             |
 | `status`       | yes                         | `base`, `draft`, `playtest`, `settled`, `replaced` |
-| `change`       | no                          | `copied`, `modified`, `new`                        |
+| `change`       | never                       | `copied`, `modified`, `new`                        |
 | `pi-review`    | yes                         |                                                    |
 | `tags`         | yes                         | list including `rangoric` and `rangoric/*`         |
-| `based-on`     | no                          |                                                    |
+| `based-on`     | never                       |                                                    |
 | `replaced-by`  | when `status` is `replaced` |                                                    |
 | `saving-throw` | never                       |                                                    |
 | `saves`        | never                       |                                                    |
@@ -40,5 +40,5 @@ note says "save DC", "DC 15 Reflex save", "Reflex DC 15", "Reflex save for half"
 effect attacks a defense instead. Saving Throws itself and `unearthed-arcana/` are excepted; base save progressions
 ("good Fortitude saves") and a creature's own "Reflex check (1d20 + Reflex save bonus)" are fine.
 
-Source books aren't named in an SRD note, in its text or its frontmatter; `based-on` links are the trace back to
-the sources. Legal, the Changelog and the sources table in Rangoric SRD are the exceptions.
+Source books aren't named in an SRD note, in its text or its frontmatter. Source links are kept in the workshop, not
+in SRD notes. Legal, the Changelog and the sources table in Rangoric SRD are the exceptions.

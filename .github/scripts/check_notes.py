@@ -6,8 +6,8 @@
 - Frontmatter: every note's loads as strict YAML (a set of keys, no duplicate key), as the website's build needs.
   (check_frontmatter.mjs also parses it the way the website does.)
 - Links: every link into the SRD has a target, by path ([[rangoric-srd/...]]) or by name ([[Note]]), in a note's
-  body and in its frontmatter. Links into the sources (based-on's paths, the Changelog's source and workshop
-  columns) aren't checked, nor is the Changelog's body: it is history, and links to notes since renamed stay.
+  body and in its frontmatter. Links into the sources (the Changelog's source and workshop columns) aren't
+  checked, nor is the Changelog's body: it is history, and links to notes since renamed stay.
 - Note rules: the README's "## Note rules" (every note but the root notes and legal/), then the folder's
   `<Folder> Note Rules.md`, then the subfolder's, each read from its tables and heading lists:
     `| Key | Required | Values |` under a heading naming a kind of note (its srd-type), or under "All notes"
@@ -29,7 +29,7 @@
   Note Rules notes and Rangoric SRD's sources table are exempt.
 - Regeneration: every creature with regeneration names what stops it (Regeneration Pass, 2026-11-27), so a note in
   monsters/ but monsters/abilities/ has no "regeneration N" without a parenthesis after it ("regeneration 5 (acid or
-  fire)"), in its frontmatter (but based-on) or its text outside code and comments (REGEN_UNNAMED).
+  fire)"), in its frontmatter or its text outside code and comments (REGEN_UNNAMED).
 - Tables of sources: SRD notes don't carry them (SRD Content Rules, "The SRD's text"; No Source Tables, 2026-11-27),
   so no note but legal/, the Changelog and Rangoric SRD has a table whose header has a cell that is exactly Source,
   Sources, Publisher, Source book or Book source (any case, emphasis ignored; SOURCE_HEADERS), outside code.
@@ -490,7 +490,7 @@ def regeneration_unnamed(rel, data, body):
     where the Regeneration note itself and its kin speak of regeneration in general."""
     if not rel.startswith('monsters/') or rel.startswith('monsters/abilities/'):
         return []
-    fm = '\n'.join(str(v) for k, v in data.items() if k != 'based-on')
+    fm = '\n'.join(str(v) for v in data.values())
     text = re.sub(r'<!--.*?-->', '', strip_code(body), flags=re.S)
     text = LINK_TEXT.sub(lambda m: m.group(1) if m.group(1) is not None else m.group(2).split('/')[-1], fm + '\n' + text)
     return [f'regeneration names nothing: {m.group(0)}' for m in REGEN_UNNAMED.finditer(text)]
@@ -683,7 +683,7 @@ for rel in sorted(f for f in files if f.endswith('.md')):
                 problems.append(f'{rel}: frontmatter is not a set of keys'); continue
         except yaml.YAMLError as e:
             problems.append(f'{rel}: frontmatter: {str(e).splitlines()[0]}'); continue
-        for m in WIKI.finditer(fm):   # only links into the SRD; based-on points at the sources
+        for m in WIKI.finditer(fm):   # only links into the SRD
             if m.group(1).startswith(PREFIX) and not exists(m.group(1)):
                 links.append(f'{rel}: frontmatter link has no target: [[{m.group(1)}]]')
 

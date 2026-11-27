@@ -6,12 +6,12 @@ there and never adds a second one, and the result is loaded as strict YAML. batc
 copy) runs check() on every changed note as the last line of defence.
 
     import frontmatter as F            # tools/ is on sys.path (see batch.py, or add it)
-    text = F.set_key(text, 'group', '"[[rangoric-srd/monsters/shark/Sharks|Sharks]]"', before='based-on', name=rel)
+    text = F.set_key(text, 'group', '"[[rangoric-srd/monsters/shark/Sharks|Sharks]]"', before='status', name=rel)
     F.check(text, rel)                 # raises F.FrontmatterError naming the note
     data = F.load(text, rel)           # the frontmatter as a dict
 
 Values are written as given (a YAML scalar, already quoted as needed). A key's value may run over several lines
-(a list under it, as based-on has); set_key replaces all of them.
+(a list under it, as aliases can have); set_key replaces all of them.
 
 Command line: frontmatter.py <file or folder>...  checks every .md under them and lists the bad ones (exit 1 if any).
 """
