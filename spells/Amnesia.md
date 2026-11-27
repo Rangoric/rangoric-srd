@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Brd 4"
   - "Med 3"
@@ -30,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 # Amnesia
 
-_Enchantment (Compulsion) \[MindAffecting\]_
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Brd 4, Med 3, Psy 4, Skd 4, Sor/Wiz 4
 - **Components**: V, S

@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Charm"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Brd 3"
   - "Drd 2"
@@ -32,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 # Alpha Instinct
 
-_Enchantment (Charm) \[MindAffecting\]_
+_Enchantment (Charm) \[Mind-Affecting\]_
 
 - **Level**: Brd 3, Drd 2, Hun 2, Med 2, Mes 3, Rgr 2, Skd 3
 - **Components**: V, S, M (a bit of musk from an alpha wolf or another socially dominant animal)

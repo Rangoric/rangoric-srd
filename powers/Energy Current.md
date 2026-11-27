@@ -3,7 +3,7 @@ srd-type: "power"
 section: "Psionic Powers"
 discipline: "Psychokinesis"
 descriptor:
-  - "see text"
+  - "See text"
 level:
   - "Kineticist 5"
 display: "Visual; see text"

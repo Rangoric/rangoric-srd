@@ -5,7 +5,7 @@ school: "Illusion"
 subschool: "Phantasm"
 descriptor:
   - "Emotion"
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Apl 2"
   - "Clr 3"
@@ -32,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 # Agonizing Rebuke
 
-_Illusion (Phantasm) \[Emotion, Mind-affecting\]_
+_Illusion (Phantasm) \[Emotion, Mind-Affecting\]_
 
 - **Level**: Apl 2, Clr 3, Inq 3, Mes 2, Psy 3, Wit 3
 - **Components**: V, S

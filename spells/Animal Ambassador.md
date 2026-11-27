@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Brd 4"
   - "Drd 4"
@@ -31,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 # Animal Ambassador
 
-_Enchantment (Compulsion) \[MindAffecting\]_
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Brd 4, Drd 4, Hun 3, Rgr 3, Skd 4
 - **Components**: V, S, M (a morsel of food the animal likes)

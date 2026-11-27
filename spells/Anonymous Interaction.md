@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Brd 2"
   - "Mes 2"
@@ -30,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 # Anonymous Interaction
 
-_Enchantment (Compulsion) \[Mind-affecting\]_
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Brd 2, Mes 2, Psy 2, Skd 2, Wit 2
 - **Components**: V, S

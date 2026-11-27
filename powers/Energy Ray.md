@@ -3,7 +3,7 @@ srd-type: "power"
 section: "Psionic Powers"
 discipline: "Psychokinesis"
 descriptor:
-  - "see text"
+  - "See text"
 level:
   - "Psion/wilder 1"
 display: "Auditory"
@@ -16,8 +16,8 @@ power-resistance: "Yes"
 power-points: "1"
 based-on:
   - "[[fantasy srd 3.5/powers/Energy Ray|Energy Ray (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

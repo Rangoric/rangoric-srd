@@ -20,7 +20,7 @@ based-on:
 status: draft
 change: new
 pi-review: 2026-11-08
-tags: [rangoric, rangoric/spell]
+tags: [rangoric, rangoric/spell, evil]
 ---
 
 # Unholy Sword

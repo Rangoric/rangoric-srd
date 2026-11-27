@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Apl 1"
   - "Brd 2"
@@ -37,7 +37,7 @@ tags: [rangoric, rangoric/spell]
 
 # Animal Purpose Training
 
-_Enchantment (Compulsion) \[Mind-affecting\]_
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Apl 1, Brd 2, Drd 2, Hun 1, Inq 1, Pal 1, Psy 1, Rgr 1, Sha 2, Skd 2, Wit 1
 - **Components**: V, S, M (a swatch of black cloth)

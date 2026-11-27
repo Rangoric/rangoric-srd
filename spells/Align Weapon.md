@@ -3,7 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Transmutation"
 descriptor:
-  - "see text"
+  - "See text"
 level:
   - "Clr 2"
   - "Inq 2"
