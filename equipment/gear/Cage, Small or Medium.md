@@ -6,12 +6,7 @@ aliases:
   - "Cage"
 price: "15 gp"
 weight: "60 lb."
-based-on:
-  - "[[path srd 3.5/items/goods-and-services/Cage|Cage (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Cage, small|Cage, small (PF1 F)]]"
-  - "[[path srd 3.5 foundry/items/gear/Cage, medium|Cage, medium (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/gear]
 ---

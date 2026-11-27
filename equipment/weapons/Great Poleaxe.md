@@ -11,10 +11,7 @@ critical: "x3"
 weight-lb: 25
 damage-type: "Piercing or slashing"
 special: ["reach"]
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapons/Polearm, Great Poleaxe|Polearm, Great Poleaxe (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/weapon, weapon-group/axes, weapon-group/pole-arms]
 ---

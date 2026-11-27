@@ -12,10 +12,7 @@ weight-lb: 1
 damage-type: "Piercing"
 quantity: 10
 used-with: "crossbows"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapons/Bolt, Hollow Crossbow|Bolt, Hollow Crossbow (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/weapon]
 ---

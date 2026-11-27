@@ -10,10 +10,7 @@ prerequisites:
   - "At least one rank in Craft (alchemy)"
 dc: "20"
 price: "50 gp/quart"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Aqua Metallorum|Aqua Metallorum (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

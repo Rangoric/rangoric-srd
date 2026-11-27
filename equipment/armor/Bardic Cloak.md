@@ -5,10 +5,7 @@ table-name: "Bardic cloak"
 category: "extra"
 cost-gp: 100
 weight-lb: 5
-based-on:
-  - "[[individual books/Arms & Armor v3.5/armor/Bardic Cloak|Bardic Cloak (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/armor]
 ---

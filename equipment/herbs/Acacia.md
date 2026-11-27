@@ -5,10 +5,7 @@ rarity: "Rare"
 environment: "Warm lands"
 harvest: "Annual"
 cost: "4 gp/oz. dried flowers or leaves; 6 gp/oz. sap; 10gp/pound of wood chips"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Acacia|Acacia (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/herb]
 ---

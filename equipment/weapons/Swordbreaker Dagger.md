@@ -11,11 +11,7 @@ critical: "x2"
 weight-lb: 3
 damage-type: "Slashing"
 special: ["disarm"]
-based-on:
-  - "[[path srd 3.5/items/weapons/Swordbreaker Dagger|Swordbreaker Dagger (PF1)]]"
-  - "[[path srd 3.5 foundry/items/weapons/Swordbreaker Dagger|Swordbreaker Dagger (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/weapon, weapon-group/light-blades]
 ---

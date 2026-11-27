@@ -12,11 +12,7 @@ speed-30: 20
 speed-20: 15
 weight-lb: 55
 special: ["no-run-limit"]
-based-on:
-  - "[[path srd 3.5/items/armor/Agile Half-Plate|Agile Half-Plate (PF1)]]"
-  - "[[path srd 3.5 foundry/items/armor/Agile Half-Plate|Agile Half-Plate (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/armor]
 ---

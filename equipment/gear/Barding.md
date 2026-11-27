@@ -4,10 +4,7 @@ section: "Equipment"
 gear-type: "mounts and related gear"
 price: "×2 (Medium creature), ×4 (Large creature)"
 weight: "×1 (Medium creature), ×2 (Large creature)"
-based-on:
-  - "[[fantasy srd 3.5/equipment/Equipment Goods and Services|Equipment Goods and Services (3.5)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/gear]
 ---

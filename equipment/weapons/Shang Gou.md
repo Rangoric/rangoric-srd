@@ -11,11 +11,7 @@ critical: "x2"
 weight-lb: 1
 damage-type: "Slashing"
 special: ["disarm", "trip", "monk"]
-based-on:
-  - "[[path srd 3.5/items/eastern-armor-and-weapons/Shang Gou|Shang Gou (PF1)]]"
-  - "[[path srd 3.5 foundry/items/weapons/Shang Gou|Shang Gou (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/weapon, weapon-group/monk, eastern]
 ---

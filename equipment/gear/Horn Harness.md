@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "mounts and related gear"
 price: "30 gp"
 weight: "20 lb."
-based-on:
-  - "[[path srd 3.5/items/misc/Horn Harness|Horn Harness (PF1)]]"
-  - "[[path srd 3.5 foundry/items/goods-and-services/Horn harness|Horn harness (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/gear]
 ---

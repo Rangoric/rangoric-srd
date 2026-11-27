@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "tools and skill kits"
 price: "100 gp"
 weight: "—"
-based-on:
-  - "[[path srd 3.5/items/adventuring-gear/Holy Symbol, Tattoo|Holy Symbol, Tattoo (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Holy Symbol (Tattoo)|Holy Symbol (Tattoo) (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-20
 tags: [rangoric, rangoric/gear]
 ---

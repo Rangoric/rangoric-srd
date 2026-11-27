@@ -5,11 +5,7 @@ category: ["Alchemical Tool"]
 magical: false
 dc: "15"
 price: "40 gp"
-based-on:
-  - "[[path srd 3.5/items/goods-and-services/Bladeguard|Bladeguard (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Bladeguard|Bladeguard (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/alchemical-item]
 ---

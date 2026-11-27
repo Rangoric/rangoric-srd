@@ -13,10 +13,7 @@ prerequisites:
   - "fire shield"
   - "heat metal"
 price: "2,000 gp"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Laasic’s Athanor|Laasic’s Athanor (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/alchemical-item]
 ---

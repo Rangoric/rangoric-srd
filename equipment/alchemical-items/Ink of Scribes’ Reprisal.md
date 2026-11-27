@@ -16,10 +16,7 @@ attack: "+5 vs Fortitude"
 attack-bonus: 5
 frequency: "1/minute for 2 minutes"
 effect: "nauseated for 1d6 rounds/2d12 nonlethal damage"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Ink of Scribes’ Reprisal|Ink of Scribes’ Reprisal (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/alchemical-item]
 ---

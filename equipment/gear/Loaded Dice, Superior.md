@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "entertainment"
 price: "50 gp"
 weight: "—"
-based-on:
-  - "[[path srd 3.5/items/goods-and-services/Loaded Dice|Loaded Dice (PF1)]]"
-  - "[[path srd 3.5 foundry/items/goods-and-services/Dice, Loaded (superior)|Dice, Loaded (superior) (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/gear]
 ---

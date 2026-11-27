@@ -5,11 +5,7 @@ category: ["Alchemical Tool"]
 magical: false
 dc: "25"
 price: "30 gp"
-based-on:
-  - "[[path srd 3.5/items/alchemical-tools/Defoliant|Defoliant (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Defoliant|Defoliant (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/alchemical-item]
 ---

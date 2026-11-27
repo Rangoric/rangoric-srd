@@ -10,11 +10,7 @@ damage-medium: "1d10"
 critical: "x3"
 weight-lb: 8
 damage-type: "Slashing"
-based-on:
-  - "[[fantasy srd 3.5/equipment/Equipment Weapons|Equipment Weapons (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/weapons/Waraxe, Dwarven|Waraxe, Dwarven (Arms & Armor)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/weapon, weapon-group/axes]
 ---

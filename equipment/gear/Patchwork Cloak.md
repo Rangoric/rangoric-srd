@@ -4,12 +4,7 @@ section: "Equipment"
 gear-type: "clothing"
 price: "5 gp"
 weight: "1/2 lb."
-based-on:
-  - "[[path srd 3.5/items/clothing/Patchwork Cloak|Patchwork Cloak (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Patchwork Cloak|Patchwork Cloak (PF1 F)]]"
-  - "[[path srd 3.5 foundry/items/gear/Patchwork cloak (Ultimate Equipment)|Patchwork cloak (Ultimate Equipment) (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/gear]
 ---

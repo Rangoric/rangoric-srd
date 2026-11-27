@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "1 sp"
 weight: "—"
-based-on:
-  - "[[path srd 3.5/items/adventuring-gear/Animal Call|Animal Call (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Kit, Animal Call|Kit, Animal Call (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/gear]
 ---

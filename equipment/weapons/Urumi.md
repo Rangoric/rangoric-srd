@@ -11,11 +11,7 @@ critical: "18–20/x2"
 weight-lb: 6
 damage-type: "Slashing"
 special: ["distracting", "monk"]
-based-on:
-  - "[[path srd 3.5/items/eastern-armor-and-weapons/Urumi|Urumi (PF1)]]"
-  - "[[path srd 3.5 foundry/items/weapons/Urumi|Urumi (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/weapon, weapon-group/flails, weapon-group/monk, eastern]
 ---

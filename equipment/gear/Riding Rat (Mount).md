@@ -4,10 +4,7 @@ section: "Equipment"
 gear-type: "mounts and related gear"
 price: "50 gp"
 weight: "50 lb."
-based-on:
-  - "[[path srd 3.5/items/misc/Riding Rat|Riding Rat (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/gear]
 ---

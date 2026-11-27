@@ -10,11 +10,7 @@ damage-medium: "1d2"
 weight-lb: 10
 damage-type: "Piercing"
 special: ["reach"]
-based-on:
-  - "[[path srd 3.5/items/weapons/Mancatcher|Mancatcher (PF1)]]"
-  - "[[path srd 3.5 foundry/items/weapons/Mancatcher|Mancatcher (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/weapon, weapon-group/pole-arms]
 ---

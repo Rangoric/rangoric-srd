@@ -6,10 +6,7 @@ caster-level: 6
 role: "Necromancer"
 price: "780 gp"
 price-with-ritual: "1,230 gp"
-based-on:
-  - "[[path srd 3.5/rules/ultimate-magic/mastering-magic/Spellbooks|Book of the Grave (PF1 Ultimate Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/spellbook]
 ---

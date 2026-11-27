@@ -16,10 +16,7 @@ attack: "+6 vs Fortitude"
 attack-bonus: 6
 frequency: "1/minute for 2 minutes"
 effect: "1d4 Cha damage/2d4 Cha damage"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Skinfernal Powder|Skinfernal Powder (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/alchemical-item]
 ---

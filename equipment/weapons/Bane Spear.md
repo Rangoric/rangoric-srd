@@ -12,10 +12,7 @@ range-ft: 20
 weight-lb: 7
 damage-type: "Bludgeoning and piercing"
 special: ["double"]
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapons/Spear, Bane|Spear, Bane (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/weapon, weapon-group/double, weapon-group/spears, weapon-group/thrown]
 ---

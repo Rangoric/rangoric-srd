@@ -12,11 +12,7 @@ range-ft: 40
 weight-lb: 6
 damage-type: "Bludgeoning"
 ammunition: ["[[rangoric-srd/equipment/weapons/Bolas Bolts|Bolas Bolts]]"]
-based-on:
-  - "[[path srd 3.5/items/misc/Slaver's Crossbow|Slaver's Crossbow (PF1)]]"
-  - "[[path srd 3.5 foundry/items/weapons/Light Slaver's Crossbow|Light Slaver's Crossbow (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/weapon, weapon-group/crossbows]
 ---

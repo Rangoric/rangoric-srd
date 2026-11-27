@@ -5,11 +5,7 @@ category: ["Alchemical Tool"]
 magical: false
 dc: "15"
 price: "12 gp"
-based-on:
-  - "[[path srd 3.5/items/alchemical-tools/Vomit Capsule|Vomit Capsule (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Vomit Capsule|Vomit Capsule (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/alchemical-item]
 ---

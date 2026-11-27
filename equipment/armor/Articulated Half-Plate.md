@@ -14,10 +14,7 @@ weight-lb: 45
 special: ["no-run-limit"]
 dr-armor-bonus: 4
 damage-reduction: "3/–"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/armor/Articulated Half-Plate|Articulated Half-Plate (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/armor]
 ---

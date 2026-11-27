@@ -10,10 +10,7 @@ crew: 4
 speed: "as crew speed"
 hardness: 5
 hp: 30
-based-on:
-  - "[[path srd 3.5/items/siege-engines/Ladder, Escalade|Ladder, Escalade (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/siege-engine]
 ---

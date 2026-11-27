@@ -12,10 +12,7 @@ prerequisites:
   - "Craft Wondrous Item"
 dc: "—"
 price: "1,750 gp"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Loyal’s Feedbag|Loyal’s Feedbag (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/alchemical-item]
 ---

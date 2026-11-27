@@ -5,10 +5,7 @@ rarity: "Common"
 environment: "Any temperate"
 harvest: "Perennial"
 cost: "5 cp/oz. of leaves or flowers, dried or fresh"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Mugwort|Mugwort (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/herb]
 ---

@@ -5,10 +5,7 @@ table-name: "Firearm bullet, silver"
 category: "ammunition"
 cost-gp: 25
 used-with: "firearms"
-based-on:
-  - "[[path srd 3.5/items/firearms/Bullet, Silver|Bullet, Silver (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/weapon]
 ---

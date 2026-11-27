@@ -11,10 +11,7 @@ prerequisites:
   - "Craft Chymicals"
 dc: "29"
 price: "500 gp/8 oz. pot"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Hyur’s Paint|Hyur’s Paint (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/alchemical-item]
 ---

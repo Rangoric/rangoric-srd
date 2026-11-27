@@ -10,11 +10,7 @@ damage-medium: "1d6"
 critical: "18–20/x2"
 weight-lb: 2
 damage-type: "Piercing"
-based-on:
-  - "[[fantasy srd 3.5/equipment/Equipment Weapons|Equipment Weapons (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/weapons/Rapier|Rapier (Arms & Armor)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/weapon, weapon-group/light-blades]
 ---

@@ -4,12 +4,7 @@ section: "Equipment"
 gear-type: "clothing"
 price: "100 gp"
 weight: "4 lb."
-based-on:
-  - "[[path srd 3.5/items/core-race/Billow Cape|Billow Cape (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Billow Cape|Billow Cape (PF1 F)]]"
-  - "[[path srd 3.5 foundry/items/gear/Billow cape (Advanced Race Guide)|Billow cape (Advanced Race Guide) (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/gear]
 ---

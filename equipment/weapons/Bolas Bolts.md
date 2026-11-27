@@ -7,11 +7,7 @@ category: "ammunition"
 cost-gp: 20
 weight-lb: 4
 used-with: "slaver's crossbows"
-based-on:
-  - "[[path srd 3.5/items/misc/Bolas Bolts|Bolas Bolts (PF1)]]"
-  - "[[path srd 3.5 foundry/items/weapons/Bolas Bolt|Bolas Bolt (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/weapon]
 ---

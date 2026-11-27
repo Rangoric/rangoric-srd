@@ -3,11 +3,7 @@ srd-type: "gear"
 section: "Equipment"
 gear-type: "spellcasting and services"
 price: "6 cp"
-based-on:
-  - "[[path srd 3.5/items/lodging-and-services/Bath (Item)|Bath (Item) (PF1)]]"
-  - "[[path srd 3.5 foundry/items/goods-and-services/Service, Bath (hot)|Service, Bath (hot) (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/gear]
 ---

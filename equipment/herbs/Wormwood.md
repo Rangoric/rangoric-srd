@@ -11,10 +11,7 @@ attack: "+1 vs Fortitude"
 attack-bonus: 1
 frequency: "1/minute for 2 minutes"
 effect: "nauseated for 1 minute/1d3 nonlethal damage"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Wormwood|Wormwood (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/herb]
 ---

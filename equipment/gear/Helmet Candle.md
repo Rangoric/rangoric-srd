@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "2 gp"
 weight: "4 lb."
-based-on:
-  - "[[path srd 3.5/items/adventuring-gear/Helmet Candle|Helmet Candle (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Helmet candle|Helmet candle (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-20
 tags: [rangoric, rangoric/gear]
 ---

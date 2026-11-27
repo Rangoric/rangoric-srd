@@ -5,10 +5,7 @@ table-name: "Alchemical cartridge, entangling shot"
 category: "ammunition"
 cost-gp: 40
 used-with: "firearms"
-based-on:
-  - "[[path srd 3.5/items/firearms/Entangling Shot Cartridge|Entangling Shot Cartridge (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/weapon]
 ---

@@ -5,10 +5,7 @@ rarity: "Rare"
 environment: "Warm plains and marshlands"
 harvest: "Annual"
 cost: "6 gp/oz. of resin (liquid) or 1 oz. dried resin or 2 oz. dried bark"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Dragon’s Blood|Dragon’s Blood (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/herb]
 ---

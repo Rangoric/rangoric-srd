@@ -8,12 +8,7 @@ proficiency: "martial"
 category: "ammunition"
 cost-gp: 10
 used-with: "bows"
-based-on:
-  - "[[path srd 3.5/items/weapons/Arrow, Smoke|Arrow, Smoke (PF1)]]"
-  - "[[path srd 3.5/items/weapons/Smoke Arrow|Smoke Arrow (PF1)]]"
-  - "[[path srd 3.5 foundry/items/weapons/Smoke Arrow|Smoke Arrow (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/weapon]
 ---

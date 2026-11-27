@@ -5,10 +5,7 @@ rarity: "Common"
 environment: "Any temperate"
 harvest: "Perennial (Deciduous shrub/tree)"
 cost: "5 cp/ 1 oz. of dried blossoms or 3 oz. of twigs/ wood"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Hawthorn|Hawthorn (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/herb]
 ---

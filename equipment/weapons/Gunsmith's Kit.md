@@ -6,10 +6,7 @@ category: "accessory"
 cost-gp: 15
 weight-lb: 2
 used-with: "firearms"
-based-on:
-  - "[[path srd 3.5/items/firearms/Gunsmith's Kit|Gunsmith's Kit (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/weapon]
 ---

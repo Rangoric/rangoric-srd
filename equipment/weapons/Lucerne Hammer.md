@@ -11,11 +11,7 @@ critical: "x2"
 weight-lb: 12
 damage-type: "Bludgeoning or piercing"
 special: ["brace", "reach"]
-based-on:
-  - "[[path srd 3.5/items/weapons/Lucerne Hammer|Lucerne Hammer (PF1)]]"
-  - "[[path srd 3.5 foundry/items/weapons/Lucerne Hammer|Lucerne Hammer (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/weapon, weapon-group/pole-arms]
 ---

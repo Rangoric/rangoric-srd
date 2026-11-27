@@ -7,12 +7,7 @@ magical: false
 dc: "30"
 price: "50 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/alchemical-remedies/Troll Oil|Troll Oil (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Troll Oil|Troll Oil (PF1 F)]]"
-  - "[[path srd 3.5 foundry/items/gear/Oil, Troll|Oil, Troll (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/alchemical-item]
 ---

@@ -11,11 +11,7 @@ damage: "1/1"
 critical: "Blindness"
 damage-type: "Fire/nonlethal"
 special: "See text"
-based-on:
-  - "[[path srd 3.5/items/alchemical-weapons/Star Candle Firework|Star Candle Firework (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Firework (star candle)|Firework (star candle) (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/alchemical-item]
 ---

@@ -11,11 +11,7 @@ critical: "x3"
 weight-lb: 10
 damage-type: "Piercing"
 special: ["trip"]
-based-on:
-  - "[[path srd 3.5/items/weapons/Ogre Hook|Ogre Hook (PF1)]]"
-  - "[[path srd 3.5 foundry/items/weapons/Ogre Hook|Ogre Hook (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/weapon, weapon-group/pole-arms]
 ---

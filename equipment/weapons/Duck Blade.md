@@ -10,10 +10,7 @@ damage-medium: "1d6"
 critical: "x3"
 weight-lb: 2
 damage-type: "Slashing"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapons/Blade, Duck|Blade, Duck (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/weapon, eastern, weapon-group/heavy-blades]
 ---

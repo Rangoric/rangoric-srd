@@ -9,10 +9,7 @@ max-dex: -2
 check-penalty: -1
 spell-failure: 5
 weight-lb: 7
-based-on:
-  - "[[individual books/Arms & Armor v3.5/armor/Tonlet, Short|Tonlet, Short (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/armor]
 ---

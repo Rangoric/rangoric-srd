@@ -11,10 +11,7 @@ prerequisites:
   - "Create Alchana"
 dc: "26"
 price: "3,000 gp/flask"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Alkahest of Zarias|Alkahest of Zarias (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/alchemical-item]
 ---

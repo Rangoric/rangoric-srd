@@ -10,10 +10,7 @@ prerequisites:
   - "Create Alchana"
 dc: "30"
 price: "200 gp/ounce"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Mage-Silver|Mage-Silver (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

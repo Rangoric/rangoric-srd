@@ -7,11 +7,7 @@ dc: "25"
 price: "50 gp"
 weight: "1/2 lb."
 proficiency: "Ranged Weapons"
-based-on:
-  - "[[path srd 3.5/items/featured-race/Unstable Accelerant|Unstable Accelerant (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Unstable Accelerant|Unstable Accelerant (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/alchemical-item]
 ---

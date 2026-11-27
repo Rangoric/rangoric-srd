@@ -11,10 +11,7 @@ prerequisites:
   - "Craft Wondrous Item"
 dc: "—"
 price: "2,000 gp"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Saragun’s Pendant|Saragun’s Pendant (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/alchemical-item]
 ---

@@ -12,10 +12,7 @@ range-ft: 80
 weight-lb: 9
 damage-type: "Piercing"
 ammunition: ["[[rangoric-srd/equipment/weapons/Crossbow Bolts|Crossbow Bolts]]"]
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapons/Crossbow, Dual|Crossbow, Dual (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/weapon, weapon-group/crossbows]
 ---

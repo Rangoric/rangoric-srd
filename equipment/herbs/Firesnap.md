@@ -5,10 +5,7 @@ rarity: "Uncommon"
 environment: "Any temperate forests"
 harvest: "Biennial"
 cost: "3 gp/ 1 oz. of dried root"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Firesnap|Firesnap (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/herb]
 ---

@@ -6,10 +6,7 @@ rarity: "Uncommon"
 environment: "Any temperate"
 harvest: "Annual"
 cost: "5 sp/oz. of dried flowers, buds, or leaves and stalks"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Dittany (of Crete)|Dittany (of Crete) (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/herb]
 ---

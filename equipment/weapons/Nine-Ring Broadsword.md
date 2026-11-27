@@ -13,11 +13,7 @@ critical: "x3"
 weight-lb: 4
 damage-type: "Slashing"
 special: ["monk"]
-based-on:
-  - "[[path srd 3.5/items/eastern-armor-and-weapons/Broadsword, Nine-Ring|Broadsword, Nine-Ring (PF1)]]"
-  - "[[path srd 3.5 foundry/items/weapons/Nine-Ring Broadsword|Nine-Ring Broadsword (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/weapon, weapon-group/heavy-blades, weapon-group/monk, eastern]
 ---

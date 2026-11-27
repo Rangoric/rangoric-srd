@@ -10,10 +10,7 @@ prerequisites:
   - "Create Greater Alchana"
 dc: "40 (if red alchemist), 41 (if another prestige class alchemist), 42 (if generic alchemist)"
 price: "300,000 gp (minimum)"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Alchemist’s Stone|Alchemist’s Stone (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

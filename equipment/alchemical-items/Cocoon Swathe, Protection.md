@@ -12,10 +12,7 @@ prerequisites:
   - "Grow Swathe"
 dc: "30"
 price: "80,000 gp"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Cocoon Swathes|Cocoon Swathes (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

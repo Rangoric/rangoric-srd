@@ -5,10 +5,7 @@ rarity: "Uncommon"
 environment: "Any warm plains or deserts"
 harvest: "Perennial"
 cost: "5 sp/ 1 oz. of leaves, dried or fresh"
-based-on:
-  - "[[source files/raw/individual books/Alchemy & Herbalists v3.5/05 Herbal Catalog#Yucca|Yucca (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/herb]
 ---

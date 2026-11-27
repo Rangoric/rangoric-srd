@@ -15,10 +15,7 @@ misfire: "1"
 capacity: 6
 weight-lb: 4
 damage-type: "Bludgeoning and piercing"
-based-on:
-  - "[[path srd 3.5/items/firearms/Revolver|Revolver (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/weapon, weapon-group/firearms]
 ---

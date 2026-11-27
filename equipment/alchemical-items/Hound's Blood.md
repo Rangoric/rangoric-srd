@@ -5,12 +5,7 @@ category: ["Alchemical Tool"]
 magical: false
 dc: "20"
 price: "110 gp/vial"
-based-on:
-  - "[[path srd 3.5/items/core-race/Hound's Blood|Hound's Blood (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Hound's Blood|Hound's Blood (PF1 F)]]"
-  - "[[path srd 3.5 foundry/items/gear/Hound's Blood (Vial)|Hound's Blood (Vial) (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/alchemical-item]
 ---

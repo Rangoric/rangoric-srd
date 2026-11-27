@@ -10,10 +10,7 @@ prerequisites:
   - "Create Greater Alchana"
 dc: "43 (if black alchemist), 44 (if another prestige class alchemist), 45 (if generic alchemist)"
 price: "350,000 gp (minimum)"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Philosopher’s Stone|Philosopher’s Stone (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

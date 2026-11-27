@@ -5,10 +5,7 @@ table-name: "Alchemical cartridge, flare"
 category: "ammunition"
 cost-gp: 10
 used-with: "firearms"
-based-on:
-  - "[[path srd 3.5/items/firearms/Flare Cartridge|Flare Cartridge (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/weapon]
 ---

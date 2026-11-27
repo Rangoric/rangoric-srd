@@ -11,10 +11,7 @@ prerequisites:
   - "Create Alchana"
 dc: "See above"
 price: "See above"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Siege Salts|Siege Salts (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

@@ -5,12 +5,7 @@ category: ["Alchemical Tool"]
 magical: false
 dc: "25"
 price: "50 gp/vial"
-based-on:
-  - "[[path srd 3.5/items/featured-race/Stillgut|Stillgut (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Stillgut|Stillgut (PF1 F)]]"
-  - "[[path srd 3.5 foundry/items/gear/Stillgut (Vial)|Stillgut (Vial) (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/alchemical-item]
 ---

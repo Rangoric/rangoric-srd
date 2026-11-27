@@ -13,10 +13,7 @@ prerequisites:
   - "knowledge of potion’s spell"
 dc: "28"
 price: "400 gp/potion"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Ptarl’s Potion of Patient Vengeance|Ptarl’s Potion of Patient Vengeance (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/alchemical-item]
 ---

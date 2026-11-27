@@ -17,10 +17,7 @@ attack-bonus: 10
 onset: "1 round"
 frequency: "1/minute for 2 minutes"
 effect: "nauseated for 1d4 rounds and 1d3 Con damage/unconscious and 2d4 Con damage"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Throatsprout Mist|Throatsprout Mist (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/alchemical-item]
 ---

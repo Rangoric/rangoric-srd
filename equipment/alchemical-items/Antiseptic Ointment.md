@@ -11,10 +11,7 @@ prerequisites:
   - "Craft Herbal Restoratives or Craft Unguents"
 dc: "25"
 price: "900 gp/2 oz"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Maxar’s Antiseptic Ointment|Maxar’s Antiseptic Ointment (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/alchemical-item]
 ---

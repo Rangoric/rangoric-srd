@@ -7,10 +7,7 @@ price: "400 gp"
 price-gp: 400
 weight: "20 lb."
 used-with: ["Catapults", "Trebuchets"]
-based-on:
-  - "[[path srd 3.5/items/siege-engines/Liquid Ice (Siege)|Liquid Ice (Siege) (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/siege-ammunition]
 ---

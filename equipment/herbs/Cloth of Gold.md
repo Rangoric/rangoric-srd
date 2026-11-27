@@ -5,10 +5,7 @@ rarity: "Rare"
 environment: "Temperate to warm hills and mountains"
 harvest: "Perennial"
 cost: "5 gp/oz. of dried seeds (as spice) or by stalk (as dye) or by flower head"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Cloth of Gold|Cloth of Gold (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/herb]
 ---

@@ -3,12 +3,7 @@ srd-type: "gear"
 section: "Equipment"
 gear-type: "spellcasting and services"
 price: "1 sp per day"
-based-on:
-  - "[[fantasy srd 3.5/equipment/Equipment Goods and Services|Equipment Goods and Services (3.5)]]"
-  - "[[path srd 3.5/items/lodging-and-services/Hireling|Hireling (PF1)]]"
-  - "[[path srd 3.5 foundry/items/goods-and-services/Hireling (untrained)|Hireling (untrained) (PF1 F)]]"
 status: draft
-change: modified
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/gear]
 ---

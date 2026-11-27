@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "tools and skill kits"
 price: "5 sp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/goods-and-services/Drill|Drill (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Drill|Drill (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/gear]
 ---

@@ -6,10 +6,7 @@ caster-level: 16
 role: "Illusionist"
 price: "11,820 gp"
 price-with-ritual: "15,020 gp"
-based-on:
-  - "[[path srd 3.5/rules/ultimate-magic/mastering-magic/Spellbooks|Mysteries of Shadow (PF1 Ultimate Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/spellbook]
 ---

@@ -6,10 +6,7 @@ rarity: "Uncommon"
 environment: "Any Temperate"
 harvest: "Perennial"
 cost: "5 sp/palm-sized sprig or oz. of seeds; 1 gp/syrup decoction"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Aconite (Wolfsbane)|Aconite (Wolfsbane) (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/herb]
 ---

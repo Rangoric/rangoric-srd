@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "clothing"
 price: "8 gp"
 weight: "1/2 lb."
-based-on:
-  - "[[path srd 3.5/items/clothing/Pocketed Scarf|Pocketed Scarf (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Scarf (pocketed)|Scarf (pocketed) (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/gear]
 ---

@@ -13,11 +13,7 @@ critical: "x2"
 weight-lb: 4
 damage-type: "Slashing"
 special: ["double", "monk", "reach", "trip", "disarm"]
-based-on:
-  - "[[path srd 3.5/items/eastern-armor-and-weapons/Kama, Double-Chained|Kama, Double-Chained (PF1)]]"
-  - "[[path srd 3.5 foundry/items/weapons/Double-Chained Kama|Double-Chained Kama (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/weapon, weapon-group/double, weapon-group/flails, weapon-group/monk, eastern]
 ---

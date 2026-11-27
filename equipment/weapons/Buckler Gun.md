@@ -15,10 +15,7 @@ misfire: "1 (5 ft.)"
 capacity: 2
 weight-lb: 6
 damage-type: "Bludgeoning and piercing"
-based-on:
-  - "[[path srd 3.5/items/firearms/Buckler Gun|Buckler Gun (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/weapon, weapon-group/firearms]
 ---

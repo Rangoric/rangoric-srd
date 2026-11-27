@@ -13,10 +13,7 @@ prerequisites:
   - "water breathing"
 dc: "40"
 price: "120,000 gp/bath"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Tarasta’s Immersive|Tarasta’s Immersive (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/alchemical-item]
 ---

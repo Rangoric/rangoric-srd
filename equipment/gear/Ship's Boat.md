@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "transport"
 price: "500 gp"
 weight: "—"
-based-on:
-  - "[[path srd 3.5/items/animals-mounts-and-related-gear/Ship's Boat|Ship's Boat (PF1)]]"
-  - "[[path srd 3.5 foundry/items/goods-and-services/Vehicle, Ship's boat|Vehicle, Ship's boat (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/gear]
 ---

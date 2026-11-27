@@ -12,11 +12,7 @@ range-ft: 10
 weight-lb: 1
 damage-type: "Piercing or slashing"
 special: ["monk"]
-based-on:
-  - "[[path srd 3.5/items/eastern-armor-and-weapons/Lungchuan Tamo|Lungchuan Tamo (PF1)]]"
-  - "[[path srd 3.5 foundry/items/weapons/Lungchuan Tamo|Lungchuan Tamo (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/weapon, weapon-group/monk, weapon-group/thrown, eastern]
 ---

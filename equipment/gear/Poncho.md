@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "clothing"
 price: "5 sp"
 weight: "2 lb."
-based-on:
-  - "[[path srd 3.5/items/clothing/Poncho|Poncho (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Poncho|Poncho (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/gear]
 ---

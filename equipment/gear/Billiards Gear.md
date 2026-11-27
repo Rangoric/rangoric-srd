@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "entertainment"
 price: "5 sp"
 weight: "8 lb."
-based-on:
-  - "[[path srd 3.5/items/entertainment-and-trade-goods/Billiards Gear|Billiards Gear (PF1)]]"
-  - "[[path srd 3.5 foundry/items/goods-and-services/Billiards gear|Billiards gear (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/gear]
 ---

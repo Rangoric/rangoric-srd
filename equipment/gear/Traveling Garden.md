@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "200 gp"
 weight: "500 lb."
-based-on:
-  - "[[path srd 3.5/items/adventuring-gear/Traveling Garden|Traveling Garden (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Kit, Traveling garden|Kit, Traveling garden (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-20
 tags: [rangoric, rangoric/gear]
 ---

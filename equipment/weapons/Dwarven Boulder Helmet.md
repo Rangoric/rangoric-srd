@@ -19,11 +19,7 @@ armor-row:
   spell-failure: "+20%"
   weight-lb: 10
   weight-adds: true
-based-on:
-  - "[[path srd 3.5/items/core-race/Helmet, Dwarven Boulder|Helmet, Dwarven Boulder (PF1)]]"
-  - "[[path srd 3.5 foundry/items/weapons/Dwarven Boulder Helmet|Dwarven Boulder Helmet (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/weapon, weapon-group/close]
 ---

@@ -5,10 +5,7 @@ rarity: "Uncommon"
 environment: "Any forests or light woods"
 harvest: "Biennial"
 cost: "5 7sp/oz. of berries or leaves (dried or fresh)"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Holly|Holly (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/herb]
 ---

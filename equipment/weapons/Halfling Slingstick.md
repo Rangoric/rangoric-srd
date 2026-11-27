@@ -11,10 +11,7 @@ critical: "x2"
 range-ft: 50
 weight-lb: 1
 damage-type: "Bludgeoning"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapons/Slingstick, Halfling|Slingstick, Halfling (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/weapon, weapon-group/thrown]
 ---

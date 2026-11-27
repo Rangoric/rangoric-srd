@@ -12,10 +12,7 @@ prerequisites:
   - "mirror image"
 dc: "23"
 price: "375 gp/2 oz"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Ranyam’s Mirror Paste|Ranyam’s Mirror Paste (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/alchemical-item]
 ---

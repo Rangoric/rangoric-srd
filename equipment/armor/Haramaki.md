@@ -10,11 +10,7 @@ spell-failure: 0
 speed-30: 30
 speed-20: 20
 weight-lb: 1
-based-on:
-  - "[[path srd 3.5/items/eastern-armor-and-weapons/Haramaki|Haramaki (PF1)]]"
-  - "[[path srd 3.5 foundry/items/armor/Haramaki|Haramaki (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/armor]
 ---

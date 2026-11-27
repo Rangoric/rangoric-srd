@@ -11,11 +11,7 @@ spell-failure: 25
 speed-30: 20
 speed-20: 15
 weight-lb: 30
-based-on:
-  - "[[path srd 3.5/items/eastern-armor-and-weapons/Do-Maru|Do-Maru (PF1)]]"
-  - "[[path srd 3.5 foundry/items/armor/Do-Maru|Do-Maru (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/armor]
 ---

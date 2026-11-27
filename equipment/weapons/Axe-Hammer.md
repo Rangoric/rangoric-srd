@@ -10,10 +10,7 @@ damage-medium: "1d8/1d8"
 critical: "x3"
 weight-lb: 8
 damage-type: "Bludgeoning and slashing"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapons/Axe-Hammer|Axe-Hammer (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/weapon, weapon-group/axes, weapon-group/hammers]
 ---

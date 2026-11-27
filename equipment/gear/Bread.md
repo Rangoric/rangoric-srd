@@ -4,12 +4,7 @@ section: "Equipment"
 gear-type: "food, drink, and lodging"
 price: "2 cp"
 weight: "1/2 lb."
-based-on:
-  - "[[fantasy srd 3.5/equipment/Equipment Goods and Services|Equipment Goods and Services (3.5)]]"
-  - "[[path srd 3.5/items/food-and-drink/Bread|Bread (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Bread|Bread (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/gear]
 ---

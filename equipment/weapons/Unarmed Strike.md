@@ -9,11 +9,7 @@ damage-medium: "1d3"
 critical: "x2"
 damage-type: "Bludgeoning"
 special: ["nonlethal"]
-based-on:
-  - "[[fantasy srd 3.5/equipment/Equipment Weapons|Equipment Weapons (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/weapons/Strike, Unarmed|Strike, Unarmed (Arms & Armor)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/weapon, weapon-group/close, weapon-group/monk, weapon-group/natural]
 ---

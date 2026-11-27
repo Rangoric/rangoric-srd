@@ -10,10 +10,7 @@ prerequisites:
   - "At least one rank in Craft (alchemy)"
 dc: "11"
 price: "12 gp/8 oz. flask"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Aqua Regia|Aqua Regia (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

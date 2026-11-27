@@ -10,11 +10,7 @@ damage-medium: "1d4"
 critical: "19-20/x2"
 weight-lb: 1
 damage-type: "Slashing"
-based-on:
-  - "[[path srd 3.5/items/uncommon-race/Sea-Knife|Sea-Knife (PF1)]]"
-  - "[[path srd 3.5 foundry/items/weapons/Sea-Knife|Sea-Knife (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/weapon, weapon-group/light-blades]
 ---

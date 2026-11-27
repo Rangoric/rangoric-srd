@@ -10,10 +10,7 @@ damage-medium: "1d8"
 critical: "x3"
 weight-lb: 12
 damage-type: "Bludgeoning"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapons/Mace, Ox Head|Mace, Ox Head (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/weapon, eastern, weapon-group/hammers]
 ---

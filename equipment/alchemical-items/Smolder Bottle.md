@@ -10,10 +10,7 @@ prerequisites:
   - "Create Alchana"
 dc: "18"
 price: "2,100 gp/2 oz. bottle"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Smolder Bottle|Smolder Bottle (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

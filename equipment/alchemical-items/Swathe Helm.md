@@ -12,10 +12,7 @@ prerequisites:
   - "speak with plants"
 dc: "30"
 price: "64,000 gp"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Swathelm|Swathelm (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

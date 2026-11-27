@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "entertainment"
 price: "1 gp–1,000 gp"
 weight: "1–5 lb."
-based-on:
-  - "[[path srd 3.5/items/entertainment-and-trade-goods/Puzzle Box|Puzzle Box (PF1)]]"
-  - "[[path srd 3.5 foundry/items/goods-and-services/Puzzle box|Puzzle box (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/gear]
 ---

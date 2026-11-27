@@ -6,11 +6,7 @@ magical: false
 dc: "30"
 price: "300 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/alchemical-tools/Woad Painting Kit|Woad Painting Kit (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Kit, Woad Painting|Kit, Woad Painting (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/alchemical-item]
 ---

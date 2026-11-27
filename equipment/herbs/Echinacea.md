@@ -5,10 +5,7 @@ rarity: "Uncommon"
 environment: "Any temperate plains"
 harvest: "Perennial"
 cost: "8 sp/oz. of dried petals or dried root"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Echinacea|Echinacea (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/herb]
 ---

@@ -7,10 +7,7 @@ price: "200 gp"
 price-gp: 200
 weight: "10 lb."
 used-with: ["Catapults", "Trebuchets"]
-based-on:
-  - "[[path srd 3.5/items/siege-engines/Alchemical Fire|Alchemical Fire (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/siege-ammunition]
 ---

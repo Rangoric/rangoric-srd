@@ -13,10 +13,7 @@ speed-20: 20
 weight-lb: 5
 dr-armor-bonus: 1
 damage-reduction: "none"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/armor/Armored Robe|Armored Robe (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/armor]
 ---

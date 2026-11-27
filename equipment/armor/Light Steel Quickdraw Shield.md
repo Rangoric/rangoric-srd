@@ -8,12 +8,7 @@ armor-bonus: 1
 check-penalty: -2
 spell-failure: 5
 weight-lb: 7
-based-on:
-  - "[[path srd 3.5/items/armor/Light Steel Quickdraw Shield|Light Steel Quickdraw Shield (PF1)]]"
-  - "[[path srd 3.5/items/armor/Quickdraw Shield, Light Wooden or Steel|Quickdraw Shield, Light Wooden or Steel (PF1)]]"
-  - "[[path srd 3.5 foundry/items/armor/Light Steel Shield (Quickdraw)|Light Steel Shield (Quickdraw) (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/armor]
 ---

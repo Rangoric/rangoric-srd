@@ -17,10 +17,7 @@ speed: "10 ft."
 hardness: 10
 hp: 70
 ammunition: "200 gp, 20 lb. per use"
-based-on:
-  - "[[path srd 3.5/items/siege-engines/Firedrake|Firedrake (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/siege-engine]
 ---

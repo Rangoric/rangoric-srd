@@ -9,11 +9,7 @@ weight: "1 lb."
 proficiency: "Ranged Weapons"
 range: "10 ft."
 special: "Splash, see text"
-based-on:
-  - "[[path srd 3.5/items/featured-race/Shadowcloy|Shadowcloy (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Shadowcloy flask|Shadowcloy flask (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/alchemical-item]
 ---

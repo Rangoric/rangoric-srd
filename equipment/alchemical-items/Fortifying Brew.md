@@ -7,11 +7,7 @@ magical: false
 dc: "20"
 price: "20 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/alchemical-remedies/Fortifying Brew|Fortifying Brew (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Fortifying Brew|Fortifying Brew (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/alchemical-item]
 ---

@@ -12,10 +12,7 @@ range-ft: 100
 weight-lb: 15
 damage-type: "Piercing"
 ammunition: ["[[rangoric-srd/equipment/weapons/Triple-Threat Crossbow Bolts|Triple-Threat Crossbow Bolts]]"]
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapons/Crossbow, Triple-threat|Crossbow, Triple-threat (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/weapon, weapon-group/crossbows]
 ---

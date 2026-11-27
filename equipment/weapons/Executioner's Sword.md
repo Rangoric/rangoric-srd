@@ -10,10 +10,7 @@ damage-medium: "1d12"
 critical: "x4"
 weight-lb: 18
 damage-type: "Slashing"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapons/Sword, Executioner’s|Sword, Executioner’s (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/weapon, weapon-group/heavy-blades]
 ---

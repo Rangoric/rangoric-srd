@@ -16,10 +16,7 @@ attack: "+8 vs Fortitude"
 attack-bonus: 8
 frequency: "1/minute for 2 minutes"
 effect: "unable to speak or use vocal abilities for 1d3 hours/unconscious for 1d12 minutes"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Silentscent Powder|Silentscent Powder (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/alchemical-item]
 ---

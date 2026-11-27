@@ -6,11 +6,7 @@ magical: false
 dc: "40"
 price: "40 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/misc/Alchemical Blood|Alchemical Blood (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Alchemical Blood|Alchemical Blood (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/alchemical-item]
 ---

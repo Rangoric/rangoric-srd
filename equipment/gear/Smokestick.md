@@ -4,10 +4,7 @@ section: "Equipment"
 gear-type: "special substances and items"
 price: "20 gp"
 weight: "1/2 lb."
-based-on:
-  - "[[fantasy srd 3.5/equipment/Equipment Goods and Services|Equipment Goods and Services (3.5)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/gear]
 ---

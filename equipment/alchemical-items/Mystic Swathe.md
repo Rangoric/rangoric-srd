@@ -16,10 +16,7 @@ prerequisites:
   - "speak with plants"
 dc: "38 (create and enspell swathe)"
 price: "120,000 gp"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Chartan’s Mysticswathe|Chartan’s Mysticswathe (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/alchemical-item]
 ---

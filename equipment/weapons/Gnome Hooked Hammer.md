@@ -11,11 +11,7 @@ critical: "x3/x4"
 weight-lb: 6
 damage-type: "Bludgeoning and piercing"
 special: ["double", "trip"]
-based-on:
-  - "[[fantasy srd 3.5/equipment/Equipment Weapons|Equipment Weapons (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/weapons/Hammer, Gnome Hooked|Hammer, Gnome Hooked (Arms & Armor)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/weapon, weapon-group/double]
 ---

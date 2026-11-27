@@ -1,10 +1,7 @@
 ---
 srd-type: "overview"
 section: "Equipment"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/tables/Table 15 Greater Alchana|Table 15 Greater Alchana (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/overview]
 ---

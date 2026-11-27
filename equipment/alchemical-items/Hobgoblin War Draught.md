@@ -6,11 +6,7 @@ magical: false
 dc: "20 (15 for hobgoblins)"
 price: "10 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/featured-race/Hobgoblin War Draught|Hobgoblin War Draught (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Hobgoblin War Draught|Hobgoblin War Draught (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/alchemical-item]
 ---

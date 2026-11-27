@@ -11,11 +11,7 @@ critical: "x2"
 weight-lb: 2
 damage-type: "Bludgeoning"
 special: ["disarm"]
-based-on:
-  - "[[fantasy srd 3.5/equipment/Equipment Weapons|Equipment Weapons (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/weapons/Nunchaku|Nunchaku (Arms & Armor)]]"
 status: draft
-change: modified
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/weapon, weapon-group/flails, weapon-group/monk, eastern]
 ---

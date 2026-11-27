@@ -4,10 +4,7 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "500 gp"
 weight: "8 lb."
-based-on:
-  - "[[path srd 3.5/items/featured-race/Vampire Slayer's Kit|Vampire Slayer's Kit (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/gear]
 ---

@@ -6,11 +6,7 @@ magical: false
 dc: "20"
 price: "20 gp"
 weight: "1/2 lb."
-based-on:
-  - "[[path srd 3.5/items/goods-and-services/Weapon Blanch|Weapon Blanch (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Weapon Blanch (Cold Iron)|Weapon Blanch (Cold Iron) (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/alchemical-item]
 ---

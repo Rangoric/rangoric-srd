@@ -12,11 +12,7 @@ attack-bonus: 2
 addiction: "minor"
 effect: "1 hour, +2 on defenses against mind-affecting effects, fatigued"
 damage: "1 Wis"
-based-on:
-  - "[[path srd 3.5/afflictions/Flayleaf|Flayleaf (PF1)]]"
-  - "[[path srd 3.5/rules/game-mastery-guide/drugs-and-addiction/Sample Drugs|Sample Drugs (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/alchemical-item]
 ---

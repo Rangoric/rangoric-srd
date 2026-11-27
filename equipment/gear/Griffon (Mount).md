@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "mounts and related gear"
 price: "8,000 gp"
 weight: "500 lb."
-based-on:
-  - "[[path srd 3.5/items/animals-mounts-and-related-gear/Griffon (Item)|Griffon (Item) (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Griffon (combat trained)|Griffon (combat trained) (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/gear]
 ---

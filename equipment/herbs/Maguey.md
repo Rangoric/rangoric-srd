@@ -5,10 +5,7 @@ rarity: "Rare"
 environment: "Any warm desert"
 harvest: "Annual"
 cost: "5 gp/oz. of powdered root"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Maguey|Maguey (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/herb]
 ---

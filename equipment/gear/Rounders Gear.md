@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "entertainment"
 price: "1 sp"
 weight: "1/2 lb."
-based-on:
-  - "[[path srd 3.5/items/entertainment-and-trade-goods/Rounders Gear|Rounders Gear (PF1)]]"
-  - "[[path srd 3.5 foundry/items/goods-and-services/Rounders gear|Rounders gear (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/gear]
 ---

@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "mounts and related gear"
 price: "10 gp"
 weight: "10 lb."
-based-on:
-  - "[[path srd 3.5/items/core-race/Training Harness|Training Harness (PF1)]]"
-  - "[[path srd 3.5 foundry/items/goods-and-services/Training harness|Training harness (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/gear]
 ---

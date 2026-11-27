@@ -1,22 +1,7 @@
 ---
 srd-type: "overview"
 section: "Equipment"
-based-on:
-  - "[[path srd 3.5/rules/ultimate-combat/mastering-combat/Firearms|Firearms (PF1)]]"
-  - "[[path srd 3.5/classes/Fighter|Fighter (PF1)]]"
-  - "[[fantasy srd 3.5/equipment/Equipment Weapons|Equipment Weapons (3.5)]]"
-  - "[[path srd 3.5/items/weapons/Starknife|Starknife (PF1)]]"
-  - "[[path srd 3.5/rules/ultimate-combat/mastering-combat/Eastern Armor and Weapons|Eastern Armor and Weapons (PF1)]]"
-  - "[[path srd 3.5/items/featured-race/Dogslicer|Dogslicer (PF1)]]"
-  - "[[path srd 3.5/items/featured-race/Horsechopper|Horsechopper (PF1)]]"
-  - "[[path srd 3.5/items/weapons/Curve Blade, Elven|Curve Blade, Elven (PF1)]]"
-  - "[[path srd 3.5/items/weapons/Blowgun|Blowgun (PF1)]]"
-  - "[[path srd 3.5/items/weapons/Blowgun Darts|Blowgun Darts (PF1)]]"
-  - "[[path srd 3.5/rules/ultimate-equipment/arms-and-armor/Weapons (Arms And Armor)|Weapons (Arms and Armor, PF1)]]"
-  - "[[individual books/Arms & Armor v3.5/tables/Table 1.1 Weapons|Table 1.1: Weapons (Arms & Armor)]]"
-  - "[[individual books/Arms & Armor v3.5/rules/Separating Double Weapons|Separating Double Weapons (Arms & Armor)]]"
 status: draft
-change: modified
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/overview]
 ---

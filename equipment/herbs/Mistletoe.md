@@ -5,10 +5,7 @@ rarity: "Uncommon"
 environment: "MPD"
 harvest: "Annual (harvest in early winter)"
 cost: "1 sp/ 4 fresh berries or a hand-sized sprig of dry mistletoe wood"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Mistletoe|Mistletoe (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/herb]
 ---

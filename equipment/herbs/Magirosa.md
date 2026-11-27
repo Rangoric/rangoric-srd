@@ -6,10 +6,7 @@ rarity: "Rare (nearly exclusive to cultivated forms in exact locales)"
 environment: "Wizards’ gardens (cultivated) or temperate mountains (wild)"
 harvest: "Biennial"
 cost: "15 gp/ rosebud (fresh or dried) or 1 gp/petal or 1 oz. dried thorns"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Magirosa (Rose of Mages)|Magirosa (Rose of Mages) (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/herb]
 ---

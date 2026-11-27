@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "200 gp"
 weight: "300 lb."
-based-on:
-  - "[[path srd 3.5/items/adventuring-gear/Portable Prison|Portable Prison (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Kit, Portable prison|Kit, Portable prison (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-20
 tags: [rangoric, rangoric/gear]
 ---

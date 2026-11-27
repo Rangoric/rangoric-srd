@@ -11,10 +11,7 @@ critical: "x4"
 weight-lb: 9
 damage-type: "Slashing"
 special: ["reach"]
-based-on:
-  - "[[path srd 3.5/rules/ultimate-combat/mastering-combat/Eastern Armor and Weapons|Eastern Armor and Weapons (PF1)]]"
 status: draft
-change: modified
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/weapon, weapon-group/pole-arms, eastern]
 ---

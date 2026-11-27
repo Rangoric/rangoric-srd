@@ -5,10 +5,7 @@ rarity: "Rare"
 environment: "Any mountain forests"
 harvest: "Biennial"
 cost: "12 gp/ 1 oz. of root, dried, 20 gp for whole root, fresh"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Caranator|Caranator (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/herb]
 ---

@@ -1,10 +1,7 @@
 ---
 srd-type: "overview"
 section: "Equipment"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/rules/Herbal Catalog|Herbal Catalog (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/overview]
 ---

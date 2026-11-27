@@ -26,10 +26,7 @@ prerequisites:
   - "unseen servant"
 dc: "21"
 price: "40,500 gp per tea box"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Teas of the Emperor|Teas of the Emperor (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

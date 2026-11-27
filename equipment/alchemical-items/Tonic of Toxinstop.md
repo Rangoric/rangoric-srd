@@ -10,10 +10,7 @@ prerequisites:
   - "Brew Ingestibles or Craft Herbal Restoratives"
 dc: "25"
 price: "105 gp/1 oz"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Tonic of Toxinstop|Tonic of Toxinstop (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

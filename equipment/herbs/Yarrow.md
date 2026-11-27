@@ -5,10 +5,7 @@ rarity: "Common"
 environment: "Any temperate lowlands and marshlands"
 harvest: "Perennial"
 cost: "5 cp/ hand-comb of flowers (roughly 1/10 oz of flowers if crushed) or 1 oz. dry leaf"
-based-on:
-  - "[[source files/raw/individual books/Alchemy & Herbalists v3.5/05 Herbal Catalog#Yarrow|Yarrow (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/herb]
 ---

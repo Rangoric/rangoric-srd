@@ -11,10 +11,7 @@ prerequisites:
   - "Craft Unguents"
 dc: "30"
 price: "5,000 gp/4 oz"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Maxar’s Fangliniment|Maxar’s Fangliniment (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/alchemical-item]
 ---

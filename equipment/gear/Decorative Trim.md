@@ -4,12 +4,7 @@ section: "Equipment"
 gear-type: "clothing"
 price: "1 sp–50 gp"
 weight: "—"
-based-on:
-  - "[[path srd 3.5/items/clothing/Decorative Trim|Decorative Trim (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Decorative Trim, cheap|Decorative Trim, cheap (PF1 F)]]"
-  - "[[path srd 3.5 foundry/items/gear/Decorative Trim, expensive|Decorative Trim, expensive (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/gear]
 ---

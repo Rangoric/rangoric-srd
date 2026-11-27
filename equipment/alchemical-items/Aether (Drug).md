@@ -12,11 +12,7 @@ attack-bonus: 6
 addiction: "moderate"
 effect: "1 hour, +1 caster level; then 1d4 hours, concentration check to cast spells"
 damage: "1d2 Con"
-based-on:
-  - "[[path srd 3.5/afflictions/AEther|AEther (PF1)]]"
-  - "[[path srd 3.5/rules/game-mastery-guide/drugs-and-addiction/Sample Drugs|Sample Drugs (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/alchemical-item]
 ---

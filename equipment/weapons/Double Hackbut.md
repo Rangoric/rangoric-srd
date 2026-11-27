@@ -15,10 +15,7 @@ misfire: "1–2 (5 ft.)"
 capacity: 2
 weight-lb: 18
 damage-type: "Bludgeoning and piercing"
-based-on:
-  - "[[path srd 3.5/items/firearms/Double Hackbut|Double Hackbut (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/weapon, weapon-group/firearms]
 ---

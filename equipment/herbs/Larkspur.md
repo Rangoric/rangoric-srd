@@ -10,10 +10,7 @@ delivery: "ingested"
 attack: "+4 vs Fortitude"
 attack-bonus: 4
 effect: "nauseated for 1d4 hours"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Larkspur|Larkspur (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/herb]
 ---

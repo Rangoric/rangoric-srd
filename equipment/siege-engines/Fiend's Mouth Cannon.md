@@ -19,10 +19,7 @@ firearm: "siege"
 hardness: 10
 hp: 140
 ammunition: "45 gp, 30 lb. per ball"
-based-on:
-  - "[[path srd 3.5/items/siege-engines/Fiend's Mouth Cannon|Fiend's Mouth Cannon (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/siege-engine, weapon-group/firearms]
 ---

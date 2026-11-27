@@ -5,10 +5,7 @@ rarity: "Rare"
 environment: "Warm plains and hills"
 harvest: "Biennial"
 cost: "4 gp/oz. of dried bark/root or per bud/seed or per 1 oz. resin"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Balm of Gilead|Balm of Gilead (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/herb]
 ---

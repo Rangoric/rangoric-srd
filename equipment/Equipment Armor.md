@@ -1,18 +1,7 @@
 ---
 srd-type: "overview"
 section: "Equipment"
-based-on:
-  - "[[fantasy srd 3.5/equipment/Equipment Armor|Equipment Armor (3.5)]]"
-  - "[[path srd 3.5/items/armor/Locked Gauntlet|Locked Gauntlet (PF1)]]"
-  - "[[individual books/Arms & Armor v3.5/tables/Table 4.1 Light Armor and Shields|Table 4.1: Light Armor and Shields (Arms & Armor)]]"
-  - "[[individual books/Arms & Armor v3.5/tables/Table 4.2 Medium Armor|Table 4.2: Medium Armor (Arms & Armor)]]"
-  - "[[individual books/Arms & Armor v3.5/tables/Table 4.3 Heavy Armor|Table 4.3: Heavy Armor (Arms & Armor)]]"
-  - "[[individual books/Arms & Armor v3.5/tables/Table 4.4 Shields & Extras|Table 4.4: Shields & Extras (Arms & Armor)]]"
-  - "[[individual books/Arms & Armor v3.5/rules/Durability|Durability (Arms & Armor)]]"
-  - "[[individual books/Arms & Armor v3.5/tables/Table 7.1 Durability|Table 7.1: Durability (Arms & Armor)]]"
-  - "[[individual books/Arms & Armor v3.5/rules/Shield Parries|Shield Parries (Arms & Armor)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---

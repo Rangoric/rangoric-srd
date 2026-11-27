@@ -12,11 +12,7 @@ damage-medium: "1d10"
 critical: "x3"
 weight-lb: 12
 damage-type: "Slashing"
-based-on:
-  - "[[path srd 3.5/items/core-race/Waraxe, Dwarven Double|Waraxe, Dwarven Double (PF1)]]"
-  - "[[path srd 3.5 foundry/items/weapons/Dwarven Double Waraxe|Dwarven Double Waraxe (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/weapon, weapon-group/axes]
 ---

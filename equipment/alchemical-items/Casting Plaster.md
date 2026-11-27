@@ -5,11 +5,7 @@ category: ["Alchemical Tool"]
 magical: false
 price: "5 sp"
 weight: "5 lb."
-based-on:
-  - "[[path srd 3.5/items/goods-and-services/Casting Plaster|Casting Plaster (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Casting Plaster|Casting Plaster (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/alchemical-item]
 ---

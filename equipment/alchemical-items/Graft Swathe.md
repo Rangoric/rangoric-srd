@@ -12,10 +12,7 @@ prerequisites:
   - "Craft Wand or Craft Rod or Craft Staff"
 dc: "18 (wands), 20 (rods), 22 (staves)"
 price: "450 gp + cost of wand (wand), 600 gp + cost of rod or staff (rod, staff)"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Graftswathe (Generic)|Graftswathe (Generic) (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

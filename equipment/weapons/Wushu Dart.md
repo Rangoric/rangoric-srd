@@ -12,11 +12,7 @@ range-ft: 10
 damage-type: "Piercing"
 special: ["monk"]
 quantity: 5
-based-on:
-  - "[[path srd 3.5/items/eastern-armor-and-weapons/Wushu Dart|Wushu Dart (PF1)]]"
-  - "[[path srd 3.5 foundry/items/weapons/Wushu Dart|Wushu Dart (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/weapon, weapon-group/close, weapon-group/monk, weapon-group/thrown, eastern]
 ---

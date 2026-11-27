@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "clothing"
 price: "25 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/featured-race/Softpaw Boots|Softpaw Boots (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Softpaw boots (Advanced Race Guide)|Softpaw boots (Advanced Race Guide) (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/gear]
 ---

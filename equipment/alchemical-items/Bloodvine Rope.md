@@ -7,11 +7,7 @@ dc: "30"
 price: "200 gp"
 cost: "100 gp"
 weight: "5 lb."
-based-on:
-  - "[[path srd 3.5/items/alchemical-tools/Bloodvine Rope|Bloodvine Rope (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Bloodvine Rope|Bloodvine Rope (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/alchemical-item]
 ---

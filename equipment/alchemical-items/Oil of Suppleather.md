@@ -10,10 +10,7 @@ prerequisites:
   - "Craft Unguents"
 dc: "18"
 price: "800 gp/4 oz"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Oil of Suppleather|Oil of Suppleather (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

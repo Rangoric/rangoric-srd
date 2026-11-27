@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "+300 gp"
 weight: "—"
-based-on:
-  - "[[path srd 3.5/items/featured-race/Undine Weaponshaft|Undine Weaponshaft (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Undine Weaponshaft|Undine Weaponshaft (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/gear]
 ---

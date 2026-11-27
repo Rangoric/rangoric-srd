@@ -5,11 +5,7 @@ category: ["Alchemical Tool"]
 magical: false
 dc: "15"
 price: "5 gp"
-based-on:
-  - "[[path srd 3.5/items/alchemical-tools/Glowing Ink|Glowing Ink (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Glowing Ink|Glowing Ink (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/alchemical-item]
 ---

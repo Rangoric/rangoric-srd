@@ -16,10 +16,7 @@ prerequisites:
   - "Create Greater Alchana"
 dc: "30"
 price: "4,200 gp/gallon"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Temperant Baths|Temperant Baths (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

@@ -10,10 +10,7 @@ spell-failure: 85
 speed-30: 15
 speed-20: 10
 weight-lb: 25
-based-on:
-  - "[[individual books/Arms & Armor v3.5/armor/Breakaway Carapace|Breakaway Carapace (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/armor]
 ---

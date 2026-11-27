@@ -11,10 +11,7 @@ critical: "x3"
 weight-lb: 12
 damage-type: "Slashing"
 special: ["performance", "reach"]
-based-on:
-  - "[[path srd 3.5/items/gladiator-weapons/Flying Blade (Item)|Flying Blade (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/weapon, weapon-group/flails]
 ---

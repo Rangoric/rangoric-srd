@@ -9,11 +9,7 @@ proficiency: "Ranged Weapons"
 range: "10 ft."
 damage-type: "Sonic"
 special: "Area, see text"
-based-on:
-  - "[[path srd 3.5/items/alchemical-weapons/Banshee Ballerina Firework|Banshee Ballerina Firework (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Firework (banshee ballerina)|Firework (banshee ballerina) (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/alchemical-item]
 ---

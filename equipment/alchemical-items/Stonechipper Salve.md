@@ -6,12 +6,7 @@ magical: false
 dc: "20"
 price: "150 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/featured-race/Stonechipper Salve|Stonechipper Salve (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Stonechipper Salve|Stonechipper Salve (PF1 F)]]"
-  - "[[path srd 3.5 foundry/items/gear/Salve, Stonechipper|Salve, Stonechipper (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/alchemical-item]
 ---

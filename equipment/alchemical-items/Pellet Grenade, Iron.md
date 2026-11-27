@@ -12,11 +12,7 @@ range: "10 ft."
 damage: "1d6/1d6/1d6"
 damage-type: "B/P/fire"
 special: "Area, see text"
-based-on:
-  - "[[path srd 3.5/items/alchemical-weapons/Pellet Grenade|Pellet Grenade (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Pellet grenade (Iron)|Pellet grenade (Iron) (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/alchemical-item]
 ---

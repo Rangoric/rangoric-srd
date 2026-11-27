@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "clothing"
 price: "20 gp"
 weight: "8 lb."
-based-on:
-  - "[[path srd 3.5/items/core-race/Dilettante's Outfit|Dilettante's Outfit (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Dilettante's Outfit|Dilettante's Outfit (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/gear]
 ---

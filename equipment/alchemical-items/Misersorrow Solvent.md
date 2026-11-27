@@ -11,10 +11,7 @@ prerequisites:
   - "Craft Chymicals"
 dc: "15"
 price: "50 gp/oz"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Misersorrow|Misersorrow (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

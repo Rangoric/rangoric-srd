@@ -10,10 +10,7 @@ prerequisites:
   - "Create Alchana"
 dc: "37"
 price: "65,000 gp"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Emerald Tablet|Emerald Tablet (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

@@ -17,10 +17,7 @@ speed: "0 ft."
 hardness: 10
 hp: 140
 ammunition: "400 gp, 40 lb. per use"
-based-on:
-  - "[[path srd 3.5/items/siege-engines/Firewyrm|Firewyrm (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/siege-engine]
 ---

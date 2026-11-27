@@ -4,10 +4,7 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "1 cp"
 weight: "1/2 lb."
-based-on:
-  - "[[path srd 3.5/items/goods-and-services/String or Twine|String or Twine (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/gear]
 ---

@@ -6,11 +6,7 @@ aliases:
   - "Fleshgem"
 price: "1 gp"
 weight: "—"
-based-on:
-  - "[[path srd 3.5/items/featured-race/Fleshgem|Fleshgem (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Fleshgem, decorative|Fleshgem, decorative (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/gear]
 ---

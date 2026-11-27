@@ -6,11 +6,7 @@ aliases:
   - "Dire Bat, Riding (Combat Trained)"
 price: "450 gp"
 weight: "450 lb."
-based-on:
-  - "[[path srd 3.5/items/animals-mounts-and-related-gear/Dire Bat, Riding|Dire Bat, Riding (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Dire Bat, riding (combat trained)|Dire Bat, riding (combat trained) (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/gear]
 ---

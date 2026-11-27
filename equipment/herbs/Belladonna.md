@@ -11,10 +11,7 @@ attack: "+5 vs Fortitude"
 attack-bonus: 5
 frequency: "1/minute for 2 minutes"
 effect: "nauseated for 1 minute/1d8 damage"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Belladonna|Belladonna (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/herb]
 ---

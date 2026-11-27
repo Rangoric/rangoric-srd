@@ -11,10 +11,7 @@ prerequisites:
   - "Grow Swathe"
 dc: "27"
 price: "14,400 gp + cost of armor"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Wildernesswathe|Wildernesswathe (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

@@ -11,11 +11,7 @@ critical: "x3"
 weight-lb: 12
 damage-type: "Slashing"
 special: ["reach", "trip"]
-based-on:
-  - "[[fantasy srd 3.5/equipment/Equipment Weapons|Equipment Weapons (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/weapons/Guisarme|Guisarme (Arms & Armor)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/weapon, weapon-group/pole-arms]
 ---

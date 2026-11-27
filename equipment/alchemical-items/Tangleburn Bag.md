@@ -11,11 +11,7 @@ range: "10 ft."
 damage: "1d6"
 damage-type: "Fire"
 special: "Entangle, see text"
-based-on:
-  - "[[path srd 3.5/items/alchemical-weapons/Tangleburn Bag|Tangleburn Bag (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Tangleburn bag|Tangleburn bag (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/alchemical-item]
 ---

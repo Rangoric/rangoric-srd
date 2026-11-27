@@ -11,11 +11,7 @@ spell-failure: 5
 speed-30: 30
 speed-20: 20
 weight-lb: 8
-based-on:
-  - "[[path srd 3.5/items/eastern-armor-and-weapons/Lamellar Cuirass|Lamellar Cuirass (PF1)]]"
-  - "[[path srd 3.5 foundry/items/armor/Lamellar Cuirass|Lamellar Cuirass (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/armor]
 ---

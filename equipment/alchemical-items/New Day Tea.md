@@ -12,10 +12,7 @@ prerequisites:
   - "Craft Herbal Restoratives"
 dc: "13"
 price: "25 gp/oz"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Tarasta’s New Day Tea|Tarasta’s New Day Tea (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/alchemical-item]
 ---

@@ -11,10 +11,7 @@ prerequisites:
   - "Craft Chymicals"
 dc: "30"
 price: "750 gp"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Acid of Zarias|Acid of Zarias (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/alchemical-item]
 ---

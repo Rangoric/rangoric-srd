@@ -11,10 +11,7 @@ spell-failure: 40
 speed-30: 20
 speed-20: 15
 weight-lb: 45
-based-on:
-  - "[[path srd 3.5/items/eastern-armor-and-weapons/Stone Coat|Stone Coat (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/armor]
 ---

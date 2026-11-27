@@ -11,10 +11,7 @@ prerequisites:
   - "creator must have darkvision"
 dc: "24"
 price: "1,000/4 oz. bag"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Darkvision Dust|Darkvision Dust (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

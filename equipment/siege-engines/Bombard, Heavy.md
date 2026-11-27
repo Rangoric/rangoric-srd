@@ -20,10 +20,7 @@ firearm: "siege"
 hardness: 10
 hp: 280
 ammunition: "45 gp, 50 lb. per ball"
-based-on:
-  - "[[path srd 3.5/items/siege-engines/Bombard|Bombard (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/siege-engine, weapon-group/firearms]
 ---

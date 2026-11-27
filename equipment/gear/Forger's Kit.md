@@ -4,10 +4,7 @@ section: "Equipment"
 gear-type: "tools and skill kits"
 price: "200 gp"
 weight: "6 lb."
-based-on:
-  - "[[path srd 3.5/items/tools-and-skill-kits/Forger's Kit|Forger's Kit (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/gear]
 ---

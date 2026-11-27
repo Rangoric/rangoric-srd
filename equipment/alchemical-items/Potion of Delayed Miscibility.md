@@ -11,10 +11,7 @@ prerequisites:
   - "Brew Potion"
 dc: "33"
 price: "300 gp/1 oz"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Potion of Delayed Miscibility|Potion of Delayed Miscibility (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

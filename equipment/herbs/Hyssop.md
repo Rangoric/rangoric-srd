@@ -5,10 +5,7 @@ rarity: "Common"
 environment: "Any temperate"
 harvest: "Perennial"
 cost: "5 cp/ 4 oz. of leaves or 2 full stalks of leaves or 3 bunches of flowers"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Hyssop|Hyssop (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/herb]
 ---

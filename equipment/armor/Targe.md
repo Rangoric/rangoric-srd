@@ -8,10 +8,7 @@ armor-bonus: 1
 check-penalty: -1
 spell-failure: 5
 weight-lb: 5
-based-on:
-  - "[[individual books/Arms & Armor v3.5/armor/Shield, Targe|Shield, Targe (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/armor]
 ---

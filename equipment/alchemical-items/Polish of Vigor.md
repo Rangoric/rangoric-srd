@@ -11,10 +11,7 @@ prerequisites:
   - "Grow Swathe"
 dc: "35"
 price: "15,000 gp/jar"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Polish of Vigor|Polish of Vigor (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

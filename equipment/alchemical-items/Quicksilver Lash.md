@@ -12,10 +12,7 @@ prerequisites:
   - "Craft Magic Arms and Armor"
 dc: "—"
 price: "400 gp"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Lash of Saumar|Lash of Saumar (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/alchemical-item]
 ---

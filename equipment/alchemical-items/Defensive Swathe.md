@@ -11,10 +11,7 @@ prerequisites:
   - "Grow Swathe"
 dc: "20"
 price: "500 gp + cost of armor"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Defenswathe (Generic)|Defenswathe (Generic) (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

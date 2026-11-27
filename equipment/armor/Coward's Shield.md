@@ -8,10 +8,7 @@ armor-bonus: 1
 max-dex: 5
 spell-failure: 20
 weight-lb: 5
-based-on:
-  - "[[individual books/Arms & Armor v3.5/armor/Coward’s Shield|Coward’s Shield (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/armor]
 ---

@@ -7,10 +7,7 @@ price: "600 gp"
 price-gp: 600
 weight: "30 lb."
 used-with: ["Catapults", "Trebuchets"]
-based-on:
-  - "[[path srd 3.5/items/siege-engines/Bomb|Bomb (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/siege-ammunition]
 ---

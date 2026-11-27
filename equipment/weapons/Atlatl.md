@@ -12,10 +12,7 @@ range-ft: 50
 weight-lb: 2
 damage-type: "Piercing"
 ammunition: ["[[rangoric-srd/equipment/weapons/Atlatl Dart|Atlatl Dart]]"]
-based-on:
-  - "[[path srd 3.5/items/primitive-armor-and-weapons/Atlatl|Atlatl (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/weapon, weapon-group/thrown]
 ---

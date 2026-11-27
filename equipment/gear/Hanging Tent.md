@@ -6,11 +6,7 @@ aliases:
   - "Tent, Hanging"
 price: "20 gp"
 weight: "15 lb."
-based-on:
-  - "[[path srd 3.5/items/core-race/Tent, Hanging|Tent, Hanging (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Tent, hanging|Tent, hanging (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/gear]
 ---

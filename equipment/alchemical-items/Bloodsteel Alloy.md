@@ -12,10 +12,7 @@ prerequisites:
   - "Create Alchana"
 dc: "27"
 price: "12,000 gp + cost of weapon"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Bloodsteel|Bloodsteel (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

@@ -6,10 +6,7 @@ caster-level: 12
 role: "Conjurer"
 price: "4,520 gp"
 price-with-ritual: "6,320 gp"
-based-on:
-  - "[[path srd 3.5/rules/ultimate-magic/mastering-magic/Spellbooks|Insights of Far-Seeing Taernis (PF1 Ultimate Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/spellbook]
 ---

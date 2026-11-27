@@ -13,10 +13,7 @@ speed-20: 20
 weight-lb: 20
 dr-armor-bonus: 1
 damage-reduction: "1/–"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/armor/Chainmail Corset|Chainmail Corset (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/armor]
 ---

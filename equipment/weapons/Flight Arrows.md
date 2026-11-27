@@ -10,12 +10,7 @@ cost-gp: 2
 weight-lb: 3
 quantity: 20
 used-with: "bows"
-based-on:
-  - "[[path srd 3.5/items/weapons/Arrow, Flight|Arrow, Flight (PF1)]]"
-  - "[[path srd 3.5/items/weapons/Flight Arrows|Flight Arrows (PF1)]]"
-  - "[[path srd 3.5 foundry/items/weapons/Flight Arrow|Flight Arrow (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/weapon]
 ---

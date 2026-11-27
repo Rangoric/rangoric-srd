@@ -13,10 +13,7 @@ weight-lb: 2
 damage-type: "Piercing"
 quantity: 20
 used-with: "bows"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapons/Arrow, Lung Puncture|Arrow, Lung Puncture (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/weapon]
 ---

@@ -5,10 +5,7 @@ book-type: "spellbook"
 caster-level: 1
 role: "Abjurer"
 price: "160 gp"
-based-on:
-  - "[[path srd 3.5/rules/ultimate-magic/mastering-magic/Spellbooks|Defensive Primer (PF1 Ultimate Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/spellbook]
 ---

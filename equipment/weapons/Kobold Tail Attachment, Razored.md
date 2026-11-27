@@ -10,11 +10,7 @@ damage-medium: "1d8"
 critical: "19–20/x2"
 weight-lb: 2
 damage-type: "Slashing"
-based-on:
-  - "[[path srd 3.5/items/featured-race/Kobold Tail Attachments|Kobold Tail Attachments (PF1)]]"
-  - "[[path srd 3.5 foundry/items/weapons/Kobold Tail Attachment (Razored)|Kobold Tail Attachment (Razored) (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/weapon, weapon-group/kobold-tail-attachments]
 ---

@@ -12,10 +12,7 @@ range-ft: 30
 weight-lb: 2
 damage-type: "Slashing"
 ammunition: ["[[rangoric-srd/equipment/weapons/Razor Disks|Razor Disks]]"]
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapons/Launcher, Razor Disk|Launcher, Razor Disk (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/weapon, weapon-group/thrown]
 ---

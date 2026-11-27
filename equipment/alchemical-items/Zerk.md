@@ -12,11 +12,7 @@ attack-bonus: 8
 addiction: "minor"
 effect: "1 hour, +1 initiative (+1d4 Str while addicted)"
 damage: "1d2 Con"
-based-on:
-  - "[[path srd 3.5/afflictions/Zerk|Zerk (PF1)]]"
-  - "[[path srd 3.5/rules/game-mastery-guide/drugs-and-addiction/Sample Drugs|Sample Drugs (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/alchemical-item]
 ---

@@ -11,11 +11,7 @@ critical: "19–20/x2"
 weight-lb: 10
 damage-type: "Slashing"
 special: ["double"]
-based-on:
-  - "[[fantasy srd 3.5/equipment/Equipment Weapons|Equipment Weapons (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/weapons/Sword, Two-Bladed|Sword, Two-Bladed (Arms & Armor)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/weapon, weapon-group/heavy-blades, weapon-group/double]
 ---

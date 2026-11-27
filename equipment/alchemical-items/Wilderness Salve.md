@@ -11,10 +11,7 @@ prerequisites:
   - "Craft Unguents"
 dc: "24"
 price: "300 gp/4 oz"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Satrian’s Wildernessalve|Satrian’s Wildernessalve (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/alchemical-item]
 ---

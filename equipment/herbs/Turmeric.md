@@ -5,10 +5,7 @@ rarity: "Rare"
 environment: "Any warm marshlands and lowlands"
 harvest: "Annual"
 cost: "2 gp/ 1 oz. of turmeric oil or 2 oz. fresh leaves"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Turmeric|Turmeric (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/herb]
 ---

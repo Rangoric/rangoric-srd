@@ -8,10 +8,7 @@ armor-bonus: 2
 check-penalty: -2
 spell-failure: 15
 weight-lb: 15
-based-on:
-  - "[[individual books/Arms & Armor v3.5/armor/Shield, Contoured|Shield, Contoured (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/armor]
 ---

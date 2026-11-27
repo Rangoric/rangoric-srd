@@ -6,10 +6,7 @@ caster-level: 15
 role: "Abjurer"
 price: "10,665 gp"
 price-with-ritual: "13,665 gp"
-based-on:
-  - "[[path srd 3.5/rules/ultimate-magic/mastering-magic/Spellbooks|Guardian Grimoire (PF1 Ultimate Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/spellbook]
 ---

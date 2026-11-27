@@ -5,11 +5,7 @@ table-name: "Darts, atlatl"
 category: "ammunition"
 cost-gp: 1
 weight-lb: 2
-based-on:
-  - "[[path srd 3.5/items/primitive-armor-and-weapons/Atlatl Dart|Atlatl Dart (PF1)]]"
-  - "[[path srd 3.5 foundry/items/weapons/Atlatl Dart|Atlatl Dart (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/weapon]
 ---

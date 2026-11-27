@@ -11,11 +11,7 @@ spell-failure: 35
 speed-30: 15
 speed-20: 10
 weight-lb: 75
-based-on:
-  - "[[path srd 3.5/items/armor/Stoneplate|Stoneplate (PF1)]]"
-  - "[[path srd 3.5 foundry/items/armor/Stoneplate|Stoneplate (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/armor]
 ---

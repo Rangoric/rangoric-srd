@@ -9,10 +9,7 @@ cost-gp: 100
 weight-lb: 3
 quantity: 5
 used-with: "crossbows"
-based-on:
-  - "[[path srd 3.5/items/featured-race/Heartstake Bolts|Heartstake Bolts (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/weapon]
 ---

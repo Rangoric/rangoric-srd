@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "100 gp"
 weight: "—"
-based-on:
-  - "[[path srd 3.5/items/adventuring-gear/Harrow Deck|Harrow Deck (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Harrow deck|Harrow deck (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-20
 tags: [rangoric, rangoric/gear]
 ---

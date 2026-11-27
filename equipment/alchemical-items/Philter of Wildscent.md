@@ -10,10 +10,7 @@ prerequisites:
   - "Brew Ingestibles"
 dc: "30"
 price: "900 gp/8 oz"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Philter of Wildscent|Philter of Wildscent (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

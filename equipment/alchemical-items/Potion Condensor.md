@@ -11,10 +11,7 @@ prerequisites:
   - "Brew Ingestibles"
 dc: "29"
 price: "75 gp/0.25 oz"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Saragun’s Condensor|Saragun’s Condensor (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/alchemical-item]
 ---

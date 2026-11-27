@@ -10,10 +10,7 @@ prerequisites:
   - "Brew Ingestibles"
 dc: "30"
 price: "225 gp/2 oz"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Philter of the Pack|Philter of the Pack (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

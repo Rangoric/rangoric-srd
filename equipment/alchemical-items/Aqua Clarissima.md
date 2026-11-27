@@ -10,10 +10,7 @@ prerequisites:
   - "At least one rank in Craft (alchemy)"
 dc: "14"
 price: "25 gp/8 oz. flask"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Aqua Clarissima|Aqua Clarissima (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

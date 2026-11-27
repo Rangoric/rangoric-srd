@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "mounts and related gear"
 price: "24 gp"
 weight: "1,000 lb."
-based-on:
-  - "[[path srd 3.5/items/animals-mounts-and-related-gear/Yak|Yak (PF1)]]"
-  - "[[path srd 3.5 foundry/items/goods-and-services/Yak|Yak (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/gear]
 ---

@@ -5,10 +5,7 @@ rarity: "Uncommon (temperate), Common (warm)"
 environment: "Any Temperate or Warm lowlands, plains, and marshes"
 harvest: "Perennial"
 cost: "5 sp/oz. of dried or liquid resin or one leaf, fresh or dried (price drops to 5cp in warm climes)"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Sweetspire|Sweetspire (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/herb]
 ---

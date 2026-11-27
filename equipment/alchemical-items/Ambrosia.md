@@ -6,11 +6,7 @@ magical: false
 dc: "25"
 price: "100 gp/vial"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/featured-race/Ambrosia|Ambrosia (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Ambrosia (vial)|Ambrosia (vial) (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/alchemical-item]
 ---

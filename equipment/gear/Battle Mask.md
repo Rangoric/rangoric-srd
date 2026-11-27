@@ -4,10 +4,7 @@ section: "Equipment"
 gear-type: "clothing"
 price: "50 gp"
 weight: "2 lb."
-based-on:
-  - "[[path srd 3.5/items/featured-race/Battle Mask|Battle Mask (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/gear]
 ---

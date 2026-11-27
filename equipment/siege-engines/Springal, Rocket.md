@@ -17,10 +17,7 @@ speed: "0 ft."
 misfire: "1 (20 ft.)"
 firearm: "siege"
 ammunition: "500 gp, 30 lb. per use"
-based-on:
-  - "[[path srd 3.5/items/siege-engines/Springal|Springal (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/siege-engine, weapon-group/firearms]
 ---

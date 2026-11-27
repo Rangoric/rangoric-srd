@@ -6,10 +6,7 @@ caster-level: 18
 role: "Conjurer"
 price: "12,719 gp"
 price-with-ritual: "16,769 gp"
-based-on:
-  - "[[path srd 3.5/rules/ultimate-magic/mastering-magic/Spellbooks|Manual of Binding (PF1 Ultimate Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/spellbook]
 ---

@@ -5,10 +5,7 @@ rarity: "Common"
 environment: "Any hills and mountains"
 harvest: "Annual"
 cost: "5 cp/oz. of seeds"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Coriander|Coriander (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/herb]
 ---

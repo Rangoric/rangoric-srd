@@ -7,11 +7,7 @@ category: ["Alchemical Tool"]
 magical: false
 dc: "20"
 price: "50 gp"
-based-on:
-  - "[[path srd 3.5/items/featured-race/Alchemical Coal|Alchemical Coal (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Alchemical Coal (choking smoke)|Alchemical Coal (choking smoke) (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/alchemical-item]
 ---

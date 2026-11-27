@@ -7,10 +7,7 @@ price: "50 gp"
 price-gp: 50
 weight: "30 lb."
 used-with: ["Cannons", "Fiend's mouth cannons"]
-based-on:
-  - "[[path srd 3.5/items/siege-engines/Chain Shot|Chain Shot (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/siege-ammunition]
 ---

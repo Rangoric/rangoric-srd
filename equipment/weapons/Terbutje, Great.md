@@ -10,11 +10,7 @@ damage-medium: "1d10"
 critical: "19–20/x2"
 weight-lb: 4
 damage-type: "Slashing"
-based-on:
-  - "[[path srd 3.5/items/primitive-armor-and-weapons/Terbutje, great|Terbutje, Great (PF1)]]"
-  - "[[path srd 3.5 foundry/items/weapons/Great Terbutje|Great Terbutje (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/weapon, weapon-group/heavy-blades]
 ---
