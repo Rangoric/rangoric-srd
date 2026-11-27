@@ -15,7 +15,7 @@ full-attack: "Bite +10 melee (2d6+9 plus poison)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Poison"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +9, Ref +7, Will +5"
+defenses: "Fort 19, Ref 17, Will 15"
 abilities: "Str 22, Dex 15, Con 18, Int 1, Wis 17, Cha 2"
 skills: "Acrobatics +10, Athletics +14, Perception +13, Stealth +11"
 skill-ranks: "Acrobatics 5, Athletics 5, Perception 3, Stealth 6"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +9, Ref +7, Will +5
+- **Defenses**: Fort 19, Ref 17, Will 15
 - **Abilities**: Str 22, Dex 15, Con 18, Int 1, Wis 17, Cha 2
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +11
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
@@ -66,4 +66,4 @@ Infamous among travelers for its deadly poisonous bite, the emperor cobra is a f
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Emperor Cobra Venom|Emperor Cobra Venom]]: Bite—injury; _save_ Fort DC 17; _frequency_ 1/round for 6 rounds; _effect_ 1d3 Con; _cure_ 2 consecutive saves.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Emperor Cobra Venom|Emperor Cobra Venom]]: Bite—injury; _attack_ +7 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d3 Con; _cure_ 2 consecutive misses.

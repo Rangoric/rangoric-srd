@@ -15,7 +15,7 @@ full-attack: "2 claws +15 melee (1d8+4 plus grab)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Constrict (1d8+4), spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, alignment variation, soul focus, damage reduction 5/magic, construct traits, susceptible to mind-affecting effects"
-saves: "Fort +3, Ref +6, Will +3"
+defenses: "Fort 13, Ref 16, Will 13"
 abilities: "Str 18, Dex 16, Con —, Int 11, Wis 10, Cha 9"
 skills: "Intimidation +9, Perception +10"
 skill-ranks: "Intimidation 7, Perception 7"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (1d8+4), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Alignment Variation (Soulbound Mannequin)|alignment variation]], [[rangoric-srd/monsters/abilities/Soul Focus (Soulbound Mannequin)|soul focus]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/magic, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], [[rangoric-srd/monsters/abilities/Susceptible to Mind-Affecting Effects|susceptible to mind-affecting effects]]
-- **Saves**: Fort +3, Ref +6, Will +3
+- **Defenses**: Fort 13, Ref 16, Will 13
 - **Abilities**: Str 18, Dex 16, Con —, Int 11, Wis 10, Cha 9
 - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +10
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Martial Weapon Proficiency|Martial Weapon Proficiency]] (any one), [[rangoric-srd/feats/Throw Anything|Throw Anything]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
@@ -62,9 +62,9 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: —
 - **Level Adjustment**: —
 
-- _Lawful Neutral_: _[[rangoric-srd/spells/Fear|fear]]_ (DC 13)
+- _Lawful Neutral_: _[[rangoric-srd/spells/Fear|fear]]_ (+3 vs Will)
 
-- _Neutral_: _[[rangoric-srd/spells/Hold Monster|hold monster]]_ (DC 13)
+- _Neutral_: _[[rangoric-srd/spells/Hold Monster|hold monster]]_ (+3 vs Will)
 
 - _Neutral Evil_: _[[rangoric-srd/spells/Enervation|enervation]]_
 
@@ -80,7 +80,7 @@ Soulbound mannequins speak Common.
 
 **[[rangoric-srd/monsters/abilities/Alignment Variation (Soulbound Mannequin)|Alignment Variation]] (Ex)**: Soulbound mannequins are at least partially neutral in alignment, although they can also be chaotic, evil, good, or lawful. They have an alignment-dependent spell-like ability usable once per day as listed below.
 
-- _Chaotic Neutral_: _[[rangoric-srd/spells/Confusion|confusion]]_ (DC 13)
+- _Chaotic Neutral_: _[[rangoric-srd/spells/Confusion|confusion]]_ (+3 vs Will)
 
 **Disguise Self (Sp)**: The soulbound mannequin can only disguise itself as the living person it used to be at approximately the age it was when its soul was used to make the mannequin (this allows it to take the appearance of another creature type).
 
@@ -90,6 +90,6 @@ Soulbound mannequins speak Common.
 
 ### Construction
 
-A soulbound mannequin is made from wood or porcelain, with one expertly carved mask worth at least 500 gp to serve as the soul focus. Creation requires a soul fragment from a creature who dies at some point during the creation of the mannequin (this doesn't prevent the rest of the soul from continuing on to the afterlife or prevent the body from later being revived). An unwilling soul can resist the procedure with a successful DC 20 Will save.
+A soulbound mannequin is made from wood or porcelain, with one expertly carved mask worth at least 500 gp to serve as the soul focus. Creation requires a soul fragment from a creature who dies at some point during the creation of the mannequin (this doesn't prevent the rest of the soul from continuing on to the afterlife or prevent the body from later being revived). The procedure attacks an unwilling soul at +10 vs Will, and a miss resists it.
 
 CL 7th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Disguise Self|disguise self]]_, _[[rangoric-srd/spells/False Life|false life]]_, _[[rangoric-srd/spells/Geas, Lesser|lesser geas]]_, _[[rangoric-srd/spells/Magic Jar|magic jar]]_, _[[rangoric-srd/spells/Minor Creation|minor creation]]_, soul of a living creature who dies or is slain during the creation process; Skill [[rangoric-srd/skills/Craft|Craft]] (sculptures); Price 16,500 gp; Cost 8,500 gp.

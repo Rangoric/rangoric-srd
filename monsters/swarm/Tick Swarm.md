@@ -14,9 +14,9 @@ cmd: "—"
 attack: "Swarm (4d6 plus disease, distraction, and blood drain)"
 full-attack: "Swarm (4d6 plus disease, distraction, and blood drain)"
 space-reach: "1/2 ft./0 ft."
-special-attacks: "Blood drain (1d4 Con), cling, distraction (DC 21), disease"
+special-attacks: "Blood drain (1d4 Con), cling, distraction (+11 vs Fortitude), disease"
 special-qualities: "Darkvision 60 ft., scent, swarm traits, immunity to mind-affecting effects and weapon damage"
-saves: "Fort +13, Ref +7, Will +5"
+defenses: "Fort 23, Ref 17, Will 15"
 abilities: "Str 1, Dex 14, Con 16, Int —, Wis 11, Cha 1"
 skills: "Athletics +10"
 skill-ranks: "Athletics 12"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Swarm (4d6 plus [[rangoric-srd/monsters/abilities/Disease|disease]], distraction, and blood drain)
 - **Full Attack**: Swarm (4d6 plus [[rangoric-srd/monsters/abilities/Disease|disease]], distraction, and blood drain)
 - **Space/Reach**: 1/2 ft./0 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]] (1d4 Con), [[rangoric-srd/monsters/abilities/Cling|cling]], [[rangoric-srd/monsters/abilities/Distraction|distraction]] (DC 21), [[rangoric-srd/monsters/abilities/Disease|disease]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]] (1d4 Con), [[rangoric-srd/monsters/abilities/Cling|cling]], [[rangoric-srd/monsters/abilities/Distraction|distraction]] (+11 vs Fortitude), [[rangoric-srd/monsters/abilities/Disease|disease]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects and weapon damage
-- **Saves**: Fort +13, Ref +7, Will +5
+- **Defenses**: Fort 23, Ref 17, Will 15
 - **Abilities**: Str 1, Dex 14, Con 16, Int —, Wis 11, Cha 1
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10
 - **Feats**: —
@@ -67,6 +67,6 @@ Tick swarms are merciless blights, able to quickly reduce the larger animal life
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Cling|Cling]] (Ex)**: If a creature leaves a tick swarm's square, the swarm takes 1d6 points of damage to reflect the loss of its numbers as several ticks cling to the victim. A creature with ticks clinging to it takes swarm damage at the end of its turn each round. As a full round action, the creature can remove the ticks with a DC 20 Reflex save. At least 10 points of damage from any area effect destroys all clinging ticks. The save DC is Dexterity-based.
+**[[rangoric-srd/monsters/abilities/Cling|Cling]] (Ex)**: If a creature leaves a tick swarm's square, the swarm takes 1d6 points of damage to reflect the loss of its numbers as several ticks cling to the victim. A creature with ticks clinging to it takes swarm damage at the end of its turn each round. As a full round action, the creature can remove the ticks with a DC 20 Reflex check (1d20 + Reflex save bonus). At least 10 points of damage from any area effect destroys all clinging ticks. The attack bonus is Dexterity-based.
 
-**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Ex)**: [[rangoric-srd/rules/afflictions/Bubonic Plague|Bubonic Plague]]: Bite—injury; _save_ Fort DC 21; _onset_ 1 days; _frequency_ 1/day; _effect_ 1d3 Con damage, 1d3 Cha damage, fatigue; _cure_ 2 consecutive saves. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Ex)**: [[rangoric-srd/rules/afflictions/Bubonic Plague|Bubonic Plague]]: Bite—injury; _attack_ +11 vs Fortitude; _onset_ 1 days; _frequency_ 1/day; _effect_ 1d3 Con damage, 1d3 Cha damage, fatigue; _cure_ 2 consecutive misses. The attack bonus is Constitution-based.

@@ -15,7 +15,7 @@ full-attack: "Bite +8 melee (2d8+7 plus poison)"
 space-reach: "15 ft./15 ft."
 special-attacks: "Web (+5 ranged, DC 16, hp 7), poison"
 special-qualities: "Darkvision 60 ft., tremorsense 60 ft., compression, immunity to mind-affecting effects"
-saves: "Fort +8, Ref +4, Will +3"
+defenses: "Fort 18, Ref 14, Will 13"
 abilities: "Str 21, Dex 15, Con 16, Int —, Wis 12, Cha 2"
 skills: "Athletics +29, Perception +5, Stealth –2"
 skill-ranks: "Athletics 5, Perception 0, Stealth 0"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./15 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Web|Web]] (+5 ranged, DC 16, hp 7), [[rangoric-srd/monsters/abilities/Poison|poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-- **Saves**: Fort +8, Ref +4, Will +3
+- **Defenses**: Fort 18, Ref 14, Will 13
 - **Abilities**: Str 21, Dex 15, Con 16, Int —, Wis 12, Cha 2
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +29, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] –2
 - **Feats**: —
@@ -66,4 +66,4 @@ Ogre spiders are brutal, terrifying hunters that spin tangled webs capable of en
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Ogre Spider Venom|Ogre Spider Venom]]: Bite—injury; _save_ Fort DC 18 (includes +2 racial bonus); _frequency_ 1/round for 6 rounds; _effect_ 1d4 Str and 1d4 Dex; _cure_ 1 save.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Ogre Spider Venom|Ogre Spider Venom]]: Bite—injury; _attack_ +8 vs Fortitude (includes +2 racial bonus); _frequency_ 1/round for 6 rounds; _effect_ 1d4 Str and 1d4 Dex; _cure_ 1 miss.

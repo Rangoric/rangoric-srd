@@ -14,9 +14,9 @@ cmd: "—"
 attack: "Swarm (1d6)"
 full-attack: "Swarm (1d6)"
 space-reach: "10 ft./0 ft."
-special-attacks: "Devour, distraction (DC 12), voracious"
+special-attacks: "Devour, distraction (+2 vs Fortitude), voracious"
 special-qualities: "Darkvision 60 ft., swarm traits, immunity to mind-affecting effects"
-saves: "Fort +4, Ref +3, Will +1"
+defenses: "Fort 14, Ref 13, Will 11"
 abilities: "Str 1, Dex 15, Con 10, Int —, Wis 11, Cha 2"
 skills: "Acrobatics +10, Athletics +3"
 skill-ranks: "Acrobatics 0, Athletics 5"
@@ -50,9 +50,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Swarm (1d6)
 - **Full Attack**: Swarm (1d6)
 - **Space/Reach**: 10 ft./0 ft.
-- **Special Attacks**: Devour, [[rangoric-srd/monsters/abilities/Distraction|distraction]] (DC 12), [[rangoric-srd/monsters/abilities/Voracious|voracious]]
+- **Special Attacks**: Devour, [[rangoric-srd/monsters/abilities/Distraction|distraction]] (+2 vs Fortitude), [[rangoric-srd/monsters/abilities/Voracious|voracious]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-- **Saves**: Fort +4, Ref +3, Will +1
+- **Defenses**: Fort 14, Ref 13, Will 11
 - **Abilities**: Str 1, Dex 15, Con 10, Int —, Wis 11, Cha 2
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +3
 - **Feats**: —

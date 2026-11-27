@@ -15,7 +15,7 @@ full-attack: "+1 short sword +13 melee (1d6+2/19–20) and bite +6 melee (1d6 pl
 space-reach: "5 ft./5 ft."
 special-attacks: "Sneak attack +1d6, poison, spell-like abilities"
 special-qualities: "Darkvision 60 ft., scent, telepathy 100 ft., trapfinding +1, immunity to mind-affecting effects, paralysis and poison, spell resistance 16, finesse training"
-saves: "Fort +7, Ref +12, Will +5"
+defenses: "Fort 17, Ref 22, Will 15"
 abilities: "Str 12, Dex 23, Con 19, Int 18, Wis 13, Cha 20"
 skills: "Acrobatics +15, Arcana +9, Deception +13, Emulation +20, Engineering +11, Escape Artist +22, Imitation +15, Intimidation +13, Mysticism +9, Perception +10, Persuasion +13, Sense Motive +10, Sleight of Hand +10, Society +8, Stealth +10"
 skill-ranks: "Acrobatics 6, Arcana 2, Deception 5, Emulation 8, Engineering 2, Escape Artist 5, Imitation 7, Intimidation 5, Mysticism 2, Perception 6, Persuasion 5, Sense Motive 6, Sleight of Hand 1, Society 1, Stealth 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +1d6, [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +1, immunity to mind-affecting effects, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] and poison, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 16, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]]
-- **Saves**: Fort +7, Ref +12, Will +5
+- **Defenses**: Fort 17, Ref 22, Will 15
 - **Abilities**: Str 12, Dex 23, Con 19, Int 18, Wis 13, Cha 20
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Arcana|Arcana]] +9, [[rangoric-srd/skills/Deception|Deception]] +13, [[rangoric-srd/skills/Emulation|Emulation]] +20, [[rangoric-srd/skills/Engineering|Engineering]] +11, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +22, [[rangoric-srd/skills/Imitation|Imitation]] +15, [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Mysticism|Mysticism]] +9, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Persuasion|Persuasion]] +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +10, [[rangoric-srd/skills/Society|Society]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +10
 - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (short sword)
@@ -72,6 +72,6 @@ A serpentfolk spy speaks Aklo, Common, Draconic, and Undercommon.
 
 **During Combat**: A serpentfolk spy lures and harries prey with telepathic taunts and ventriloquism before striking from ambush with poisoned weapons and venomous bites. It conceals its true numbers and position with blur, disguise self, or mirror image.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 4th; concentration +9): At will—_[[rangoric-srd/spells/Disguise Self|disguise self]]_ (DC 16, humanoid form only), _[[rangoric-srd/spells/Ventriloquism|ventriloquism]]_ (DC 16); 1/day—_[[rangoric-srd/spells/Blur|blur]]_, _[[rangoric-srd/spells/Mirror Image|mirror image]]_, _[[rangoric-srd/spells/Suggestion|suggestion]]_ (DC 18).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 4th; concentration +9): At will—_[[rangoric-srd/spells/Disguise Self|disguise self]]_ (+6, humanoid form only), _[[rangoric-srd/spells/Ventriloquism|ventriloquism]]_ (+6 vs Will); 1/day—_[[rangoric-srd/spells/Blur|blur]]_, _[[rangoric-srd/spells/Mirror Image|mirror image]]_, _[[rangoric-srd/spells/Suggestion|suggestion]]_ (+8 vs Will).
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Serpentfolk Venom|Serpentfolk Venom]]: Bite—injury; save Fort DC 16; frequency 1/round for 6 rounds; effect 1d2 Str; cure 2 consecutive saves. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Serpentfolk Venom|Serpentfolk Venom]]: Bite—injury; attack +6 vs Fortitude; frequency 1/round for 6 rounds; effect 1d2 Str; cure 2 consecutive misses. The attack bonus is Constitution-based.

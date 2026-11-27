@@ -18,7 +18,7 @@ full-attack: "Bite +17 melee (2d8+10) and 2 claws +12 melee (2d6+5) and 2 wings 
 space-reach: "15 ft./10 ft."
 special-attacks: "—"
 special-qualities: "Damage reduction 5/bludgeoning, darkvision 60 ft., immunity to cold and fire, undead traits"
-saves: "Fort +6, Ref +7, Will +8"
+defenses: "Fort 16, Ref 17, Will 18"
 abilities: "Str 31, Dex 12, Con —, Int —, Wis 10, Cha 1"
 skills: "Athletics +32"
 skill-ranks: "Athletics 19"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./10 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/bludgeoning, darkvision 60 ft., immunity to cold and fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]]
-- **Saves**: Fort +6, Ref +7, Will +8
+- **Defenses**: Fort 16, Ref 17, Will 18
 - **Abilities**: Str 31, Dex 12, Con —, Int —, Wis 10, Cha 1
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +32
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]

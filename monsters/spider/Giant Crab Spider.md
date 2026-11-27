@@ -15,7 +15,7 @@ full-attack: "Bite +2 melee (1d4 plus poison)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Poison"
 special-qualities: "Darkvision 60 ft., tremorsense 60 ft., immunity to mind-affecting effects"
-saves: "Fort +4, Ref +2, Will +0"
+defenses: "Fort 14, Ref 12, Will 10"
 abilities: "Str 10, Dex 15, Con 12, Int —, Wis 10, Cha 2"
 skills: "Acrobatics +10, Athletics +24, Perception +4, Stealth +10 (+21 when stationary)"
 skill-ranks: "Acrobatics 0, Athletics 5, Perception 0, Stealth 0"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-- **Saves**: Fort +4, Ref +2, Will +0
+- **Defenses**: Fort 14, Ref 12, Will 10
 - **Abilities**: Str 10, Dex 15, Con 12, Int —, Wis 10, Cha 2
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +24, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +10 (+21 when stationary)
 - **Feats**: —
@@ -66,4 +66,4 @@ Giant crab spiders are dangerous ambush predators that live in dense forest vege
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Giant Crab Spider Venom|Giant Crab Spider Venom]]: Bite—injury; _save_ Fort DC 14 (includes +2 racial bonus); _frequency_ 1/round for 4 rounds; _effect_ 1d2 Str; _cure_ 1 save.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Giant Crab Spider Venom|Giant Crab Spider Venom]]: Bite—injury; _attack_ +4 vs Fortitude (includes +2 racial bonus); _frequency_ 1/round for 4 rounds; _effect_ 1d2 Str; _cure_ 1 miss.

@@ -14,9 +14,9 @@ cmd: "—"
 attack: "Swarm (2d6 plus distraction and infestation)"
 full-attack: "Swarm (2d6 plus distraction and infestation)"
 space-reach: "10 ft./0 ft."
-special-attacks: "Distraction (DC 19), infestation"
+special-attacks: "Distraction (+9 vs Fortitude), infestation"
 special-qualities: "Blindsense 30 ft., swarm traits, immunity to mind-affecting effects and weapon damage"
-saves: "Fort +11, Ref +5, Will +3"
+defenses: "Fort 21, Ref 15, Will 13"
 abilities: "Str 1, Dex 15, Con 18, Int —, Wis 10, Cha 1"
 skills: "—"
 skill-ranks: ""
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Swarm (2d6 plus [[rangoric-srd/monsters/abilities/Distraction|distraction]] and [[rangoric-srd/monsters/abilities/Infestation|infestation]])
 - **Full Attack**: Swarm (2d6 plus [[rangoric-srd/monsters/abilities/Distraction|distraction]] and [[rangoric-srd/monsters/abilities/Infestation|infestation]])
 - **Space/Reach**: 10 ft./0 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Distraction|Distraction]] (DC 19), [[rangoric-srd/monsters/abilities/Infestation|infestation]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Distraction|Distraction]] (+9 vs Fortitude), [[rangoric-srd/monsters/abilities/Infestation|infestation]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects and weapon damage
-- **Saves**: Fort +11, Ref +5, Will +3
+- **Defenses**: Fort 21, Ref 15, Will 13
 - **Abilities**: Str 1, Dex 15, Con 18, Int —, Wis 10, Cha 1
 - **Skills**: —
 - **Feats**: —
@@ -65,4 +65,4 @@ tags: [rangoric, rangoric/monster]
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Infestation|Infestation]] (Ex)**: Any living creature that takes damage from a rot grub swarm becomes infested unless it succeeds at a DC 19 Reflex save. On a failed save, the infested creature takes 1d4 points of Constitution damage per round as the rot grubs burrow through and consume its flesh—this effect continues as long as the victim remains in the swarm and continues for 1d6 rounds after it leaves the swarm. Any energy-based attack (including damage from negative energy) that deals at least 5 points of damage to the victim automatically destroys all of the rot grubs infesting it, ending the effect prematurely. Additionally, any effect that removes disease instantly ends a rot grub infestation. Immunity to disease offers no defense. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Infestation|Infestation]] (Ex)**: Any living creature that takes damage from a rot grub swarm is attacked at +9 vs Reflex, and becomes infested on a hit. The infested creature takes 1d4 points of Constitution damage per round as the rot grubs burrow through and consume its flesh—this effect continues as long as the victim remains in the swarm and continues for 1d6 rounds after it leaves the swarm. Any energy-based attack (including damage from negative energy) that deals at least 5 points of damage to the victim automatically destroys all of the rot grubs infesting it, ending the effect prematurely. Additionally, any effect that removes disease instantly ends a rot grub infestation. Immunity to disease offers no defense. The attack bonus is Constitution-based.

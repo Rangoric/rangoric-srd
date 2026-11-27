@@ -18,7 +18,7 @@ full-attack: "Bite +7 melee (1d8+4)"
 space-reach: "10 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Blindsense, keen scent"
-saves: "Fort +8, Ref +7, Will +3"
+defenses: "Fort 18, Ref 17, Will 13"
 abilities: "Str 17, Dex 15, Con 13, Int 1, Wis 12, Cha 2"
 skills: "Athletics +8 (+16 swimming), Perception +12"
 skill-ranks: "Athletics 2, Perception 5"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: Blindsense, keen scent
-- **Saves**: Fort +8, Ref +7, Will +3
+- **Defenses**: Fort 18, Ref 17, Will 13
 - **Abilities**: Str 17, Dex 15, Con 13, Int 1, Wis 12, Cha 2
 - **Skills**: Athletics +8 (+16 swimming), Perception +12
 - **Feats**: Great Fortitude, Improved Initiative, Skill Focus (Perception)

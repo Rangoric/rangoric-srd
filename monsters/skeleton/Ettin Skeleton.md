@@ -16,7 +16,7 @@ full-attack: "2 morningstars +10 melee (2d6+6) or 2 claws +10 melee (1d6+6) or 2
 space-reach: "10 ft./10 ft."
 special-attacks: "—"
 special-qualities: "Damage reduction 5/bludgeoning, darkvision 60 ft., darkvision 60 ft., immunity to cold, superior twoweapon, undead traits"
-saves: "Fort +3, Ref +3, Will +7"
+defenses: "Fort 13, Ref 13, Will 17"
 abilities: "Str 23, Dex 10, Con —, Int —, Wis 10, Cha 1"
 skills: "Athletics +19"
 skill-ranks: "Athletics 10"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/bludgeoning, darkvision 60 ft., darkvision 60 ft., immunity to cold, superior twoweapon, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]]
-- **Saves**: Fort +3, Ref +3, Will +7
+- **Defenses**: Fort 13, Ref 13, Will 17
 - **Abilities**: Str 23, Dex 10, Con —, Int —, Wis 10, Cha 1
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +19
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]

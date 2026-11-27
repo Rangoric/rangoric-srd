@@ -15,7 +15,7 @@ full-attack: "Short sword +8 melee (1d4–2/19–20); or longbow +8 ranged (1d6�
 space-reach: "5 ft./5 ft."
 special-attacks: "Special arrows, spell-like abilities"
 special-qualities: "Low-light vision, invisibility, damage reduction 10/cold iron, spell resistance 15"
-saves: "Fort +2, Ref +9, Will +6"
+defenses: "Fort 12, Ref 19, Will 16"
 abilities: "Str 7, Dex 21, Con 12, Int 16, Wis 15, Cha 16"
 skills: "Acrobatics +18, Deception +10, Emulation +10, Escape Artist +12, Nature +10, Perception +9, Sense Motive +9, Stealth +16"
 skill-ranks: "Acrobatics 8, Deception 4, Emulation 4, Escape Artist 4, Nature 4, Perception 4, Sense Motive 4, Stealth 4"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Special arrows, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], invisibility, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 15
-- **Saves**: Fort +2, Ref +9, Will +6
+- **Defenses**: Fort 12, Ref 19, Will 16
 - **Abilities**: Str 7, Dex 21, Con 12, Int 16, Wis 15, Cha 16
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +18, [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Emulation|Emulation]] +10, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +12, [[rangoric-srd/skills/Nature|Nature]] +10, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +16
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -75,17 +75,17 @@ Pixies speak Sylvan and Common, and may know other languages as well.
 
 The normally carefree pixies ferociously attack evil creatures and unwanted intruders. They take full advantage of their [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisibility]] and other abilities to harass and drive away opponents.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 8th): Constant—_[[rangoric-srd/spells/Detect Chaos|detect chaos]], [[rangoric-srd/spells/Detect Evil|detect evil]], [[rangoric-srd/spells/Detect Good|detect good]], [[rangoric-srd/spells/Detect Law|detect law]]_; 1/day—_[[rangoric-srd/spells/Dancing Lights|dancing lights]], [[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ (DC 15), _[[rangoric-srd/spells/Dispel Magic|dispel magic]], [[rangoric-srd/spells/Entangle|entangle]]_ (DC 14), _[[rangoric-srd/spells/Confusion, Lesser|lesser confusion]]_ (DC 14), _[[rangoric-srd/spells/Permanent Image|permanent image]]_ (DC 19; visual and auditory elements only), _[[rangoric-srd/spells/Shield|shield]]_.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 8th): Constant—_[[rangoric-srd/spells/Detect Chaos|detect chaos]], [[rangoric-srd/spells/Detect Evil|detect evil]], [[rangoric-srd/spells/Detect Good|detect good]], [[rangoric-srd/spells/Detect Law|detect law]]_; 1/day—_[[rangoric-srd/spells/Dancing Lights|dancing lights]], [[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ (+5 vs Will), _[[rangoric-srd/spells/Dispel Magic|dispel magic]], [[rangoric-srd/spells/Entangle|entangle]]_ (+4 vs Reflex), _[[rangoric-srd/spells/Confusion, Lesser|lesser confusion]]_ (+4), _[[rangoric-srd/spells/Permanent Image|permanent image]]_ (+9 vs Will; visual and auditory elements only), _[[rangoric-srd/spells/Shield|shield]]_.
 
 **Invisibility (Su)**: A pixie remains invisible even when it attacks. This ability is constant, but the pixie can suppress or resume it as a free action.
 
-**Special Arrows (Su)**: When a pixie fires an arrow from any bow, it can decide to change the arrow's properties by sprinkling it with magical pixie dust. Doing so is a free action as long as the pixie is the one who fires the arrow. A pixie can generate a number of uses of dust equal to its Charisma score each day (16 uses per day for most pixies)—the dust is useless to another creature unless the pixie gives the dust freely. In this case, the pixie chooses what effect the dust will have on an arrow when it is applied, and it takes a standard action to apply the dust to the arrow. Once pixie dust is applied to an arrow, the pixie's chosen effect persists on the arrow for only 1 round. As long as an arrow is altered in this way, it does not inflict damage when it hits—it only causes its new effect. A pixie can choose any one of the following three effects when dusting an arrow. Save DCs are Charisma-based.
+**Special Arrows (Su)**: When a pixie fires an arrow from any bow, it can decide to change the arrow's properties by sprinkling it with magical pixie dust. Doing so is a free action as long as the pixie is the one who fires the arrow. A pixie can generate a number of uses of dust equal to its Charisma score each day (16 uses per day for most pixies)—the dust is useless to another creature unless the pixie gives the dust freely. In this case, the pixie chooses what effect the dust will have on an arrow when it is applied, and it takes a standard action to apply the dust to the arrow. Once pixie dust is applied to an arrow, the pixie's chosen effect persists on the arrow for only 1 round. As long as an arrow is altered in this way, it does not inflict damage when it hits—it only causes its new effect. A pixie can choose any one of the following three effects when dusting an arrow. Attack bonuses are Charisma-based.
 
-_Charm_: The target must succeed on a DC 15 Will save or be affected as though by a _[[rangoric-srd/spells/Charm Monster|charm monster]]_ spell for 10 minutes.
+_Charm_: The arrow attacks the target at +5 vs Will, and on a hit the target is affected as though by a _[[rangoric-srd/spells/Charm Monster|charm monster]]_ spell for 10 minutes.
 
-_Memory Loss_: The target must succeed on a DC 15 Will save or be affected by a _[[rangoric-srd/spells/Modify Memory|modify memory]]_ spell (this effect can only eliminate the previous 5 minutes of memory—a pixie typically uses this ability to make the target forget it encountered the pixie so it won't chase the pixie when he flees).
+_Memory Loss_: The arrow attacks the target at +5 vs Will, and on a hit the target is affected by a _[[rangoric-srd/spells/Modify Memory|modify memory]]_ spell (this effect can only eliminate the previous 5 minutes of memory—a pixie typically uses this ability to make the target forget it encountered the pixie so it won't chase the pixie when he flees).
 
-_[[rangoric-srd/spells/Sleep|Sleep]]_: The target must succeed on a DC 15 Will save or fall asleep for 5 minutes.
+_[[rangoric-srd/spells/Sleep|Sleep]]_: The arrow attacks the target at +5 vs Will, and on a hit the target falls asleep for 5 minutes.
 
 ### Pixies as Characters
 

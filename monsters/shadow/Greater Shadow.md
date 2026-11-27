@@ -16,7 +16,7 @@ full-attack: "Incorporeal touch +11 melee (1d8 Strength)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Create spawn (as per shadow), strength damage"
 special-qualities: "Darkvision 60 ft., incorporeal, channel resistance +2, undead traits"
-saves: "Fort +5, Ref +8, Will +7"
+defenses: "Fort 15, Ref 18, Will 17"
 abilities: "Str —, Dex 20, Con —, Int 6, Wis 12, Cha 15"
 skills: "Acrobatics +15, Perception +13, Stealth +20 (+24 in dim light, +16 in bright light)"
 skill-ranks: "Acrobatics 7, Perception 9, Stealth 12"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Create spawn (as per [[rangoric-srd/monsters/shadow/Shadow|shadow]]), strength damage
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]], [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +2, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-- **Saves**: Fort +5, Ref +8, Will +7
+- **Defenses**: Fort 15, Ref 18, Will 17
 - **Abilities**: Str —, Dex 20, Con —, Int 6, Wis 12, Cha 15
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +20 (+24 in dim light, +16 in bright light)
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception, Stealth)

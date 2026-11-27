@@ -14,9 +14,9 @@ cmd: "—"
 attack: "Swarm (1d6 plus disease)"
 full-attack: "Swarm (1d6 plus disease)"
 space-reach: "10 ft./0 ft."
-special-attacks: "Disease, distraction (DC 12)"
+special-attacks: "Disease, distraction (+2 vs Fortitude)"
 special-qualities: "Low-light vision, scent, swarm traits"
-saves: "Fort +4, Ref +5, Will +2"
+defenses: "Fort 14, Ref 15, Will 12"
 abilities: "Str 2, Dex 15, Con 13, Int 2, Wis 13, Cha 2"
 skills: "Acrobatics +6, Athletics +10, Perception +8, Stealth +14"
 skill-ranks: "Acrobatics 1, Athletics 11, Perception 4, Stealth 1"
@@ -50,9 +50,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Swarm (1d6 plus [[rangoric-srd/monsters/abilities/Disease|disease]])
 - **Full Attack**: Swarm (1d6 plus [[rangoric-srd/monsters/abilities/Disease|disease]])
 - **Space/Reach**: 10 ft./0 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Disease|Disease]], [[rangoric-srd/monsters/abilities/Distraction|distraction]] (DC 12)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Disease|Disease]], [[rangoric-srd/monsters/abilities/Distraction|distraction]] (+2 vs Fortitude)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]]
-- **Saves**: Fort +4, Ref +5, Will +2
+- **Defenses**: Fort 14, Ref 15, Will 12
 - **Abilities**: Str 2, Dex 15, Con 13, Int 2, Wis 13, Cha 2
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +14
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -70,4 +70,4 @@ Rat swarms surround and attack any warm-blooded prey in their path.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Ex)**: [[rangoric-srd/rules/afflictions/Filth Fever|Filth Fever]]: Swarm—injury; _save_ Fort DC 12; _onset_ 1d3 days; _frequency_ 1/day; _effect_ 1d3 Dex damage and 1d3 Con damage; _cure_ 2 consecutive saves. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Ex)**: [[rangoric-srd/rules/afflictions/Filth Fever|Filth Fever]]: Swarm—injury; _attack_ +2 vs Fortitude; _onset_ 1d3 days; _frequency_ 1/day; _effect_ 1d3 Dex damage and 1d3 Con damage; _cure_ 2 consecutive misses. The attack bonus is Constitution-based.

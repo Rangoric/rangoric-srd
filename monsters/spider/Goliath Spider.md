@@ -13,9 +13,9 @@ cmd: "44 (56 vs. trip)"
 attack: "Bite +17 melee (6d8+22 plus poison)"
 full-attack: "Bite +17 melee (6d8+22 plus poison)"
 space-reach: "30 ft./30 ft."
-special-attacks: "Poison, poisoned web (+13 ranged, DC 23, 14 hp), trample (4d8+22, DC 32)"
+special-attacks: "Poison, poisoned web (+13 ranged, DC 23, 14 hp), trample (4d8+22, +22 vs Reflex)"
 special-qualities: "Darkvision 60 ft., tremorsense 60 ft., immunity to mind-affecting effects"
-saves: "Fort +15, Ref +5, Will +4"
+defenses: "Fort 25, Ref 15, Will 14"
 abilities: "Str 41, Dex 13, Con 22, Int —, Wis 10, Cha 2"
 skills: "Athletics +23, Perception +4, Stealth –7 (+1 in forests)"
 skill-ranks: "Athletics 0, Perception 0, Stealth 0"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +17 melee (6d8+22 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
 - **Full Attack**: Bite +17 melee (6d8+22 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
 - **Space/Reach**: 30 ft./30 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]], [[rangoric-srd/monsters/abilities/Poisoned Web|poisoned web]] (+13 ranged, DC 23, 14 hp), [[rangoric-srd/monsters/abilities/Trample|trample]] (4d8+22, DC 32)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]], [[rangoric-srd/monsters/abilities/Poisoned Web|poisoned web]] (+13 ranged, DC 23, 14 hp), [[rangoric-srd/monsters/abilities/Trample|trample]] (4d8+22, +22 vs Reflex)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-- **Saves**: Fort +15, Ref +5, Will +4
+- **Defenses**: Fort 25, Ref 15, Will 14
 - **Abilities**: Str 41, Dex 13, Con 22, Int —, Wis 10, Cha 2
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +23, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] –7 (+1 in forests)
 - **Feats**: —
@@ -66,6 +66,6 @@ Goliath spiders are giant hunting spiders that most often prey on large creature
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; _save_ Fort DC 23; _frequency_ 1/round for 6 rounds; _effect_ 1d6 Str and paralysis 1 round; _cure_ 2 consecutive saves.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; _attack_ +13 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d6 Str and paralysis 1 round; _cure_ 2 consecutive misses.
 
-**[[rangoric-srd/monsters/abilities/Poisoned Web|Poisoned Web]] (Ex)**: This ability works like the web ability, but affects all creatures in a 10-foot-radius burst. In addition, any creature hit by the web must save against the spider's poison.
+**[[rangoric-srd/monsters/abilities/Poisoned Web|Poisoned Web]] (Ex)**: This ability works like the web ability, but affects all creatures in a 10-foot-radius burst. In addition, the spider's poison attacks any creature hit by the web.

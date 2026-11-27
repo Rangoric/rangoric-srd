@@ -15,7 +15,7 @@ full-attack: "Bite +6 melee (1d8+6 plus poison)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Web (+4 ranged, DC 19, 5 hp), poison"
 special-qualities: "Darkvision 60 ft., tremorsense 60 ft., strong webs, immunity to mind-affecting effects"
-saves: "Fort +7, Ref +3, Will +1"
+defenses: "Fort 17, Ref 13, Will 11"
 abilities: "Str 19, Dex 15, Con 16, Int —, Wis 10, Cha 2"
 skills: "Athletics +20, Perception +4"
 skill-ranks: "Athletics 5, Perception 0"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Web|Web]] (+4 ranged, DC 19, 5 hp), [[rangoric-srd/monsters/abilities/Poison|poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Strong Webs|strong webs]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-- **Saves**: Fort +7, Ref +3, Will +1
+- **Defenses**: Fort 17, Ref 13, Will 11
 - **Abilities**: Str 19, Dex 15, Con 16, Int —, Wis 10, Cha 2
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +20, [[rangoric-srd/skills/Perception|Perception]] +4
 - **Feats**: —
@@ -66,6 +66,6 @@ Females of this species are larger than males. Males are identical to a [[rangor
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Giant Black Widow Venom|Giant Black Widow Venom]]: Bite—injury; _save_ Fort DC 17; _frequency_ 1/round for 6 rounds; _effect_ 1d3 Con and staggered; _cure_ 2 saves. The save DC is Constitution-based with a +2 racial bonus.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Giant Black Widow Venom|Giant Black Widow Venom]]: Bite—injury; _attack_ +7 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d3 Con and staggered; _cure_ 2 misses. The attack bonus is Constitution-based with a +2 racial bonus.
 
 **[[rangoric-srd/monsters/abilities/Strong Webs|Strong Webs]] (Ex)**: A black widow's webs gain a +4 bonus to the DC to break or escape.

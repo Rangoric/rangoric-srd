@@ -14,9 +14,9 @@ cmd: "- (can't be tripped)"
 attack: "Swarm (1d6 plus distraction)"
 full-attack: "Swarm (1d6 plus distraction)"
 space-reach: "10 ft./0 ft."
-special-attacks: "Distraction (DC 12)"
+special-attacks: "Distraction (+2 vs Fortitude)"
 special-qualities: "Low-light vision, scent, swarm traits"
-saves: "Fort +4, Ref +7, Will +2"
+defenses: "Fort 14, Ref 17, Will 12"
 abilities: "Str 9, Dex 15, Con 12, Int 1, Wis 12, Cha 2"
 skills: "Athletics +14, Perception +9, Stealth +18"
 skill-ranks: "Athletics 12, Perception 1, Stealth 1"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Swarm (1d6 plus [[rangoric-srd/monsters/abilities/Distraction|distraction]])
 - **Full Attack**: Swarm (1d6 plus [[rangoric-srd/monsters/abilities/Distraction|distraction]])
 - **Space/Reach**: 10 ft./0 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Distraction|Distraction]] (DC 12)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Distraction|Distraction]] (+2 vs Fortitude)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]]
-- **Saves**: Fort +4, Ref +7, Will +2
+- **Defenses**: Fort 14, Ref 17, Will 12
 - **Abilities**: Str 9, Dex 15, Con 12, Int 1, Wis 12, Cha 2
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +18
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]

@@ -14,9 +14,9 @@ cmd: "—"
 attack: "Swarm (2d6)"
 full-attack: "Swarm (2d6)"
 space-reach: "10 ft./0 ft."
-special-attacks: "Distraction (DC 14)"
+special-attacks: "Distraction (+4 vs Fortitude)"
 special-qualities: "Darkvision 60 ft., immunity to mind-affecting effects and weapon damage, swarm traits"
-saves: "Fort +6, Ref +4, Will +2"
+defenses: "Fort 16, Ref 14, Will 12"
 abilities: "Str 1, Dex 14, Con 13, Int —, Wis 10, Cha 2"
 skills: "Athletics +10"
 skill-ranks: "Athletics 12"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Swarm (2d6)
 - **Full Attack**: Swarm (2d6)
 - **Space/Reach**: 10 ft./0 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Distraction|Distraction]] (DC 14)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Distraction|Distraction]] (+4 vs Fortitude)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects and weapon damage, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]]
-- **Saves**: Fort +6, Ref +4, Will +2
+- **Defenses**: Fort 16, Ref 14, Will 12
 - **Abilities**: Str 1, Dex 14, Con 13, Int —, Wis 10, Cha 2
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10
 - **Feats**: —

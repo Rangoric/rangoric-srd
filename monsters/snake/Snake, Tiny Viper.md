@@ -15,7 +15,7 @@ full-attack: "Bite +5 melee (1d2–2 plus poison)"
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "Poison"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +1, Ref +5, Will +1"
+defenses: "Fort 11, Ref 15, Will 11"
 abilities: "Str 4, Dex 17, Con 8, Int 1, Wis 13, Cha 2"
 skills: "Athletics +11, Perception +9, Stealth +15"
 skill-ranks: "Athletics 11, Perception 1, Stealth 0"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +1, Ref +5, Will +1
+- **Defenses**: Fort 11, Ref 15, Will 11
 - **Abilities**: Str 4, Dex 17, Con 8, Int 1, Wis 13, Cha 2
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +15
 - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -67,4 +67,4 @@ Vipers are not particularly aggressive snakes, but their poisonous bite can be d
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; _save_ Fort DC 9; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Constitution; _cure_ 1 save.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; _attack_ −1 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Constitution; _cure_ 1 miss.

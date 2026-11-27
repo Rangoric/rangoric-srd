@@ -14,9 +14,9 @@ cmd: "—"
 attack: "Swarm (1d6 plus poison and distraction)"
 full-attack: "Swarm (1d6 plus poison and distraction)"
 space-reach: "10 ft./0 ft."
-special-attacks: "Distraction (DC 11), poison"
+special-attacks: "Distraction (+1 vs Fortitude), poison"
 special-qualities: "Darkvision 60 ft., tremorsense 30 ft, swarm traits, immunity to mind-affecting effects and weapon damage"
-saves: "Fort +3, Ref +3, Will +0"
+defenses: "Fort 13, Ref 13, Will 10"
 abilities: "Str 1, Dex 17, Con 10, Int —, Wis 10, Cha 2"
 skills: "Athletics +11, Perception +4"
 skill-ranks: "Athletics 13, Perception 0"
@@ -50,9 +50,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Swarm (1d6 plus [[rangoric-srd/monsters/abilities/Poison|poison]] and [[rangoric-srd/monsters/abilities/Distraction|distraction]])
 - **Full Attack**: Swarm (1d6 plus [[rangoric-srd/monsters/abilities/Poison|poison]] and [[rangoric-srd/monsters/abilities/Distraction|distraction]])
 - **Space/Reach**: 10 ft./0 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Distraction|Distraction]] (DC 11), [[rangoric-srd/monsters/abilities/Poison|poison]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Distraction|Distraction]] (+1 vs Fortitude), [[rangoric-srd/monsters/abilities/Poison|poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 30 ft, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects and weapon damage
-- **Saves**: Fort +3, Ref +3, Will +0
+- **Defenses**: Fort 13, Ref 13, Will 10
 - **Abilities**: Str 1, Dex 17, Con 10, Int —, Wis 10, Cha 2
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Perception|Perception]] +4
 - **Feats**: —
@@ -70,4 +70,4 @@ The sight of a carpet of swarming spiders is unsettling indeed—particularly wh
 
 A spider swarm seeks to surround and attack any living prey it encounters.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Spider Swarm Venom|Spider Swarm Venom]]: Swarm—injury; _save_ Fort DC 11; _frequency_ 1/round for 2 rounds; _effect_ 1d2 Str; _cure_ 1 save. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Spider Swarm Venom|Spider Swarm Venom]]: Swarm—injury; _attack_ +1 vs Fortitude; _frequency_ 1/round for 2 rounds; _effect_ 1d2 Str; _cure_ 1 miss. The attack bonus is Constitution-based.

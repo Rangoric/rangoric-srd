@@ -15,7 +15,7 @@ full-attack: "Bite +19 melee (4d6+19/19–20 plus grab)"
 space-reach: "20 ft./20 ft."
 special-attacks: "Constrict (4d6+19)"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +14, Ref +10, Will +5"
+defenses: "Fort 24, Ref 20, Will 15"
 abilities: "Str 36, Dex 14, Con 23, Int 1, Wis 13, Cha 2"
 skills: "Athletics +21, Perception +22"
 skill-ranks: "Athletics 5, Perception 18"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 20 ft./20 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (4d6+19)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +14, Ref +10, Will +5
+- **Defenses**: Fort 24, Ref 20, Will 15
 - **Abilities**: Str 36, Dex 14, Con 23, Int 1, Wis 13, Cha 2
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +21, [[rangoric-srd/skills/Perception|Perception]] +22
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)

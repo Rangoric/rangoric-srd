@@ -14,9 +14,9 @@ cmd: "—"
 attack: "Swarm (1d6)"
 full-attack: "Swarm (1d6)"
 space-reach: "10 ft./0 ft."
-special-attacks: "Distraction (DC 14)"
+special-attacks: "Distraction (+4 vs Fortitude)"
 special-qualities: "Darkvision 60 ft., tremorsense 30 ft., swarm traits, hold breath, immunity to weapon damage, light sensitivity"
-saves: "Fort +6, Ref +3, Will +1"
+defenses: "Fort 16, Ref 13, Will 11"
 abilities: "Str 1, Dex 15, Con 14, Int —, Wis 10, Cha 2"
 skills: "Acrobatics +4, Athletics +10, Perception +4, Stealth +14"
 skill-ranks: "Acrobatics 0, Athletics 12, Perception 0, Stealth 0"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Swarm (1d6)
 - **Full Attack**: Swarm (1d6)
 - **Space/Reach**: 10 ft./0 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Distraction|Distraction]] (DC 14)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Distraction|Distraction]] (+4 vs Fortitude)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 30 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to weapon damage, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
-- **Saves**: Fort +6, Ref +3, Will +1
+- **Defenses**: Fort 16, Ref 13, Will 11
 - **Abilities**: Str 1, Dex 15, Con 14, Int —, Wis 10, Cha 2
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +4, [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +14
 - **Feats**: —

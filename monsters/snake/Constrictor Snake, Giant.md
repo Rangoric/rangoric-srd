@@ -16,7 +16,7 @@ full-attack: "Bite +13 melee (1d8+10)"
 space-reach: "15 ft./10 ft."
 special-attacks: "Constrict 1d8+10, improved grab"
 special-qualities: "Scent"
-saves: "Fort +8, Ref +10, Will +4"
+defenses: "Fort 18, Ref 20, Will 14"
 abilities: "Str 25, Dex 17, Con 13, Int 1, Wis 12, Cha 2"
 skills: "Acrobatics +11, Athletics +12 (+20 climbing, +20 swimming), Perception +13, Stealth +12"
 skill-ranks: "Acrobatics 0, Athletics 2, Perception 2, Stealth 7"
@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./10 ft.
 - **Special Attacks**: Constrict 1d8+10, improved grab
 - **Special Qualities**: Scent
-- **Saves**: Fort +8, Ref +10, Will +4
+- **Defenses**: Fort 18, Ref 20, Will 14
 - **Abilities**: Str 25, Dex 17, Con 13, Int 1, Wis 12, Cha 2
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +12 (+20 climbing, +20 swimming), Perception +13, Stealth +12
 - **Feats**: Endurance, Skill Focus (Perception), Skill Focus (Stealth), Toughness

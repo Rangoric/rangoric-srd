@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/monster]
 
 # Swarm
 
-Swarms are dense masses of Fine, Diminutive, or Tiny creatures that would not be particularly dangerous in small groups, but can be terrible foes when gathered in sufficient numbers. For game purposes a swarm is defined as a single creature with a space of 10 feet - gigantic hordes are actually composed of dozens of swarms in close proximity. A swarm has a single pool of Hit Dice and hit points, a single initiative modifier, a single speed, and a single Armor Class. It makes saving throws as a single creature.
+Swarms are dense masses of Fine, Diminutive, or Tiny creatures that would not be particularly dangerous in small groups, but can be terrible foes when gathered in sufficient numbers. For game purposes a swarm is defined as a single creature with a space of 10 feet - gigantic hordes are actually composed of dozens of swarms in close proximity. A swarm has a single pool of Hit Dice and hit points, a single initiative modifier, a single speed, and a single Armor Class. Attacks against its defenses treat it as a single creature.
 
 Many different creatures can mass as swarms; bat swarms, centipede swarms, hellwasp swarms, locust swarms, rat swarms, and spider swarms are described here. The swarm’s type varies with the nature of the component creature (most are animals or vermin), but all swarms have the swarm subtype.
 

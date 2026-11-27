@@ -15,7 +15,7 @@ full-attack: "2 claws +15 melee (1d6+6) and gore +16 melee (2d4+6/19–20)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Pounce, rake (2 claws +15, 1d6+6), swooping charge (gore, 4d4+12), spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision"
-saves: "Fort +10, Ref +7, Will +4"
+defenses: "Fort 20, Ref 17, Will 14"
 abilities: "Str 23, Dex 10, Con 17, Int 12, Wis 12, Cha 11"
 skills: "Acrobatics +1, Deception +10, Intimidation +16, Perception +10"
 skill-ranks: "Acrobatics 3, Deception 7, Intimidation 13, Perception 6"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], [[rangoric-srd/monsters/abilities/Rake|rake]] (2 claws +15, 1d6+6), swooping charge (gore, 4d4+12), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]
-- **Saves**: Fort +10, Ref +7, Will +4
+- **Defenses**: Fort 20, Ref 17, Will 14
 - **Abilities**: Str 23, Dex 10, Con 17, Int 12, Wis 12, Cha 11
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +1, [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Perception|Perception]] +10
 - **Feats**: [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (gore), [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Intimidation), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (gore)

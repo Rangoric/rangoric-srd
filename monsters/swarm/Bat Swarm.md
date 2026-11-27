@@ -14,9 +14,9 @@ cmd: "—"
 attack: "Swarm (1d6)"
 full-attack: "Swarm (1d6)"
 space-reach: "10 ft./0 ft."
-special-attacks: "Distraction (DC 11), wounding"
+special-attacks: "Distraction (+1 vs Fortitude), wounding"
 special-qualities: "Blindsense 20 ft, low-light vision, swarm traits, immunity to weapon damage"
-saves: "Fort +3, Ref +7, Will +3"
+defenses: "Fort 13, Ref 17, Will 13"
 abilities: "Str 3, Dex 15, Con 11, Int 2, Wis 14, Cha 4"
 skills: "Acrobatics +12, Perception +15"
 skill-ranks: "Acrobatics 1, Perception 10"
@@ -50,9 +50,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Swarm (1d6)
 - **Full Attack**: Swarm (1d6)
 - **Space/Reach**: 10 ft./0 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Distraction|Distraction]] (DC 11), wounding
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Distraction|Distraction]] (+1 vs Fortitude), wounding
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 20 ft, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to weapon damage
-- **Saves**: Fort +3, Ref +7, Will +3
+- **Defenses**: Fort 13, Ref 17, Will 13
 - **Abilities**: Str 3, Dex 15, Con 11, Int 2, Wis 14, Cha 4
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Perception|Perception]] +15
 - **Feats**: [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

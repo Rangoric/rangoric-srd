@@ -19,7 +19,7 @@ full-attack: "Bite +20 melee (4d6+6) and 2 claws +15 melee (1d8+3)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Improved grab, ink cloud"
 special-qualities: "All-around vision, darkvision 60 ft., immunity to acid and cold, resistance to electricity 10 and fire 10"
-saves: "Fort +13, Ref +10, Will +10"
+defenses: "Fort 23, Ref 20, Will 20"
 abilities: "Str 22, Dex 13, Con 19, Int 10, Wis 12, Cha 9"
 skills: "Athletics +24 (+32 swimming), Escape Artist +19, Fieldcraft +1 (+3 other planes and following tracks, +3 with bindings), Intimidation +17, Theology +18, Perception +29, Investigation +22, Sense Motive +19, Stealth +15"
 skill-ranks: "Athletics 15, Escape Artist 15, Fieldcraft 0, Intimidation 15, Investigation 15, Perception 15, Sense Motive 15, Stealth 15, Theology 15"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Grab|Improved grab]], ink cloud
 - **Special Qualities**: All-around vision, darkvision 60 ft.,  immunity to acid and cold, [[rangoric-srd/monsters/abilities/Resistance|resistance to electricity]] 10 and fire 10
-- **Saves**: Fort +13, Ref +10, Will +10
+- **Defenses**: Fort 23, Ref 20, Will 20
 - **Abilities**: Str 22, Dex 13, Con 19, Int 10, Wis 12, Cha 9
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +24 (+32 swimming), [[rangoric-srd/skills/Escape Artist|Escape Artist]] +19, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +1 (+3 other planes and following tracks, +3 with bindings), [[rangoric-srd/skills/Intimidation|Intimidation]] +17, [[rangoric-srd/skills/Investigation|Investigation]] +22, [[rangoric-srd/skills/Perception|Perception]] +29, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +15, [[rangoric-srd/skills/Theology|Theology]] +18
 - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

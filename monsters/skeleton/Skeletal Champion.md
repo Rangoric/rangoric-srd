@@ -15,7 +15,7 @@ full-attack: "Masterwork longsword +7 melee (1d8+3/19–20)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., 2d8+1d10+3), channel resistance +4, damage reduction 5/bludgeoning, immunity to cold, undead traits"
-saves: "Fort +3, Ref +1, Will +3"
+defenses: "Fort 13, Ref 11, Will 13"
 abilities: "Str 17, Dex 13, Con —, Int 9, Wis 10, Cha 12"
 skills: "Intimidation +7, Perception +6, Stealth –1"
 skill-ranks: "Intimidation 3, Perception 3, Stealth 0"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., 2d8+1d10+3), [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/bludgeoning, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-- **Saves**: Fort +3, Ref +1, Will +3
+- **Defenses**: Fort 13, Ref 11, Will 13
 - **Abilities**: Str 17, Dex 13, Con —, Int 9, Wis 10, Cha 12
 - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] –1
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longsword)
@@ -95,4 +95,4 @@ Some skeletons retain their intelligence and cunning, making them formidable [[r
 
 **Feats**: A skeletal champion gains Improved Initiative as a bonus feat.
 
-**Saves**: Base save bonuses for racial Hit Dice are Fort +1/3 HD, Ref +1/3 HD, and Will +1/2 HD + 2.
+**Defenses**: Base save bonuses for racial Hit Dice are Fort 11/3 HD, Ref 11/3 HD, and Will 11/2 HD + 2.

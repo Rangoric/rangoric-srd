@@ -15,7 +15,7 @@ full-attack: "Bite +11 melee (1d10+4) and 2 claws +11 melee (1d6+4)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Pounce, rake (2 claws +11, 1d6+4), shriek"
 special-qualities: "Darkvision 60 ft., low-light vision"
-saves: "Fort +8, Ref +8, Will +4"
+defenses: "Fort 18, Ref 18, Will 14"
 abilities: "Str 19, Dex 14, Con 15, Int 6, Wis 15, Cha 10"
 skills: "Acrobatics +3, Perception +16"
 skill-ranks: "Acrobatics 3, Perception 7"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], [[rangoric-srd/monsters/abilities/Rake|rake]] (2 claws +11, 1d6+4), shriek
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]
-- **Saves**: Fort +8, Ref +8, Will +4
+- **Defenses**: Fort 18, Ref 18, Will 14
 - **Abilities**: Str 19, Dex 14, Con 15, Int 6, Wis 15, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +3, [[rangoric-srd/skills/Perception|Perception]] +16
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -77,4 +77,4 @@ Hieracosphinxes speak Sphinx.
 
 Hieracosphinxes can make short work of even the most dangerous opponents with their claws. They are not particularly intelligent, but are cunning enough to dive at their enemies from above with their flying ability.
 
-**Shriek (Su)**: The shrill shriek of a hieracosphinx deafens non-sphinxes within a 60-foot-radius spread for 2d4 rounds (DC 16 Fortitude negates). Once a creature successfully saves against this effect, it is immune to the hieracosphinx's shriek for 24 hours. Using this ability is a standard action. The save DC is Constitution-based.
+**Shriek (Su)**: The shrill shriek of a hieracosphinx deafens non-sphinxes within a 60-foot-radius spread for 2d4 rounds (+6 vs Fortitude). Once this effect misses a creature, it is immune to the hieracosphinx's shriek for 24 hours. Using this ability is a standard action. The attack bonus is Constitution-based.

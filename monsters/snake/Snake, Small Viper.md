@@ -16,7 +16,7 @@ full-attack: "Bite +4 melee (1d2–2 plus poison)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Poison"
 special-qualities: "Scent"
-saves: "Fort +2, Ref +5, Will +1"
+defenses: "Fort 12, Ref 15, Will 11"
 abilities: "Str 6, Dex 17, Con 11, Int 1, Wis 12, Cha 2"
 skills: "Acrobatics +11, Athletics +3 (+11 climbing, +11 swimming), Perception +9, Stealth +11"
 skill-ranks: "Acrobatics 0, Athletics 0, Perception 1, Stealth 0"
@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Poison
 - **Special Qualities**: Scent
-- **Saves**: Fort +2, Ref +5, Will +1
+- **Defenses**: Fort 12, Ref 15, Will 11
 - **Abilities**: Str 6, Dex 17, Con 11, Int 1, Wis 12, Cha 2
 - **Skills**: Acrobatics +11, Athletics +3 (+11 climbing, +11 swimming), Perception +9, Stealth +11
 - **Feats**: Improved Initiative, Weapon Finesse (B)

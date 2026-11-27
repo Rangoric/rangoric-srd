@@ -14,9 +14,9 @@ cmd: "59"
 attack: "Maul of the titans +33 melee (6d8+28/17–20) or slam +30 melee (2d8+17)"
 full-attack: "Maul of the titans +33/+28/+23/+18 melee (6d8+28/17–20); or 2 slams +30 melee (2d8+17)"
 space-reach: "30 ft./30 ft."
-special-attacks: "Trample (2d8+25, DC 37), spell-like abilities"
+special-attacks: "Trample (2d8+25, +27 vs Reflex), spell-like abilities"
 special-qualities: "Darkvision 120 ft., true seeing, regeneration 15 (evil), telepathy 300 ft., change shape (any humanoid; alter self), damage reduction 15/evil, immunity to aging, death effects and disease, spell resistance 32"
-saves: "Fort +21, Ref +15, Will +21"
+defenses: "Fort 31, Ref 25, Will 31"
 abilities: "Str 45, Dex 16, Con 39, Int 21, Wis 28, Cha 24"
 skills: "Craft (any) +29, Deception +31, Emulation +31, Engineering +26, Intimidation +31, Mysticism +29, Perception +33, Performance (any) +28, Persuasion +31, Sense Motive +33, Theology +29"
 skill-ranks: "Craft (any) 21, Deception 21, Emulation 21, Engineering 18, Intimidation 21, Mysticism 21, Perception 21, Performance (any) 20, Persuasion 21, Sense Motive 21, Theology 21"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Maul of the titans +33 melee (6d8+28/17–20) or slam +30 melee (2d8+17)
 - **Full Attack**: Maul of the titans +33/+28/+23/+18 melee (6d8+28/17–20); or 2 slams +30 melee (2d8+17)
 - **Space/Reach**: 30 ft./30 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Trample|Trample]] (2d8+25, DC 37), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Trample|Trample]] (2d8+25, +27 vs Reflex), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., true seeing, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 15 (evil), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 300 ft., [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (any humanoid; alter self), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/evil, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to aging, death effects and disease, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 32
-- **Saves**: Fort +21, Ref +15, Will +21
+- **Defenses**: Fort 31, Ref 25, Will 31
 - **Abilities**: Str 45, Dex 16, Con 39, Int 21, Wis 28, Cha 24
 - **Skills**: [[rangoric-srd/skills/Craft|Craft]] (any) +29, [[rangoric-srd/skills/Deception|Deception]] +31, [[rangoric-srd/skills/Emulation|Emulation]] +31, [[rangoric-srd/skills/Engineering|Engineering]] +26, [[rangoric-srd/skills/Intimidation|Intimidation]] +31, [[rangoric-srd/skills/Mysticism|Mysticism]] +29, [[rangoric-srd/skills/Perception|Perception]] +33, [[rangoric-srd/skills/Performance|Performance]] (any) +28, [[rangoric-srd/skills/Persuasion|Persuasion]] +31, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +33, [[rangoric-srd/skills/Theology|Theology]] +29
 - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Greater Sunder|Greater Sunder]], [[rangoric-srd/feats/Greater Vital Strike|Greater Vital Strike]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Staggering Critical|Staggering Critical]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
@@ -75,4 +75,4 @@ Elysian titans speak Abyssal, Celestial and Common.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 20th; concentration +27): Constant—_[[rangoric-srd/spells/Air Walk|air walk]]_, _[[rangoric-srd/spells/Mind Blank|mind blank]]_, _[[rangoric-srd/spells/True Seeing|true seeing]]_; At will—_[[rangoric-srd/spells/Bestow Curse|bestow curse]]_ (DC 21), _[[rangoric-srd/spells/Break Enchantment|break enchantment]]_, _[[rangoric-srd/spells/Divination|divination]]_, _[[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]]_, _[[rangoric-srd/spells/Sending|sending]]_; 3/day—_[[rangoric-srd/spells/Scrying, Greater|greater scrying]]_ (DC 24), _[[rangoric-srd/spells/Heal (Spell)|heal]]_, _[[rangoric-srd/spells/Suggestion, Mass|mass suggestion]]_ (DC 23); 1/day—_[[rangoric-srd/spells/Freedom|freedom]]_, _[[rangoric-srd/spells/Planar Ally, Greater|greater planar ally]]_, _[[rangoric-srd/spells/Meteor Swarm|meteor swarm]]_ (DC 26).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 20th; concentration +27): Constant—_[[rangoric-srd/spells/Air Walk|air walk]]_, _[[rangoric-srd/spells/Mind Blank|mind blank]]_, _[[rangoric-srd/spells/True Seeing|true seeing]]_; At will—_[[rangoric-srd/spells/Bestow Curse|bestow curse]]_ (+11 vs Will), _[[rangoric-srd/spells/Break Enchantment|break enchantment]]_, _[[rangoric-srd/spells/Divination|divination]]_, _[[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]]_, _[[rangoric-srd/spells/Sending|sending]]_; 3/day—_[[rangoric-srd/spells/Scrying, Greater|greater scrying]]_ (+14 vs Will), _[[rangoric-srd/spells/Heal (Spell)|heal]]_, _[[rangoric-srd/spells/Suggestion, Mass|mass suggestion]]_ (+13 vs Will); 1/day—_[[rangoric-srd/spells/Freedom|freedom]]_, _[[rangoric-srd/spells/Planar Ally, Greater|greater planar ally]]_, _[[rangoric-srd/spells/Meteor Swarm|meteor swarm]]_ (+16 vs Reflex).

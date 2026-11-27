@@ -14,9 +14,9 @@ cmd: "—"
 attack: "Swarm (2d6 plus disease and bleed)"
 full-attack: "Swarm (2d6 plus disease and bleed)"
 space-reach: "10 ft./5 ft."
-special-attacks: "Bleed (1d6), disease (malaria, DC 13), distraction (DC 13)"
+special-attacks: "Bleed (1d6), disease (malaria, +3 vs Fortitude), distraction (+3 vs Fortitude)"
 special-qualities: "Darkvision 60 ft., swarm traits, immunity to mind-affecting effects and weapon damage"
-saves: "Fort +5, Ref +3, Will +3"
+defenses: "Fort 15, Ref 13, Will 13"
 abilities: "Str 1, Dex 13, Con 10, Int —, Wis 12, Cha 9"
 skills: "Acrobatics +11, Perception +9"
 skill-ranks: "Acrobatics 1, Perception 5"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Swarm (2d6 plus [[rangoric-srd/monsters/abilities/Disease|disease]] and [[rangoric-srd/monsters/abilities/Bleed|bleed]])
 - **Full Attack**: Swarm (2d6 plus [[rangoric-srd/monsters/abilities/Disease|disease]] and [[rangoric-srd/monsters/abilities/Bleed|bleed]])
 - **Space/Reach**: 10 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (1d6), [[rangoric-srd/monsters/abilities/Disease|disease]] ([[rangoric-srd/rules/afflictions/Malaria|malaria]], DC 13), [[rangoric-srd/monsters/abilities/Distraction|distraction]] (DC 13)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (1d6), [[rangoric-srd/monsters/abilities/Disease|disease]] ([[rangoric-srd/rules/afflictions/Malaria|malaria]], +3 vs Fortitude), [[rangoric-srd/monsters/abilities/Distraction|distraction]] (+3 vs Fortitude)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects and weapon damage
-- **Saves**: Fort +5, Ref +3, Will +3
+- **Defenses**: Fort 15, Ref 13, Will 13
 - **Abilities**: Str 1, Dex 13, Con 10, Int —, Wis 12, Cha 9
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Perception|Perception]] +9
 - **Feats**: —
