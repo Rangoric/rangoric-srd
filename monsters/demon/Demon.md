@@ -21,7 +21,7 @@ Demons have the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abi
 - [[rangoric-srd/monsters/demon/Hezrou|Hezrou]]
 - [[rangoric-srd/monsters/demon/Incubus|Incubus]]
 - [[rangoric-srd/monsters/demon/Kalavakus|Kalavakus]]
-- [[rangoric-srd/monsters/demon/Kostchtchie|Kostchtchie]]
+- [[rangoric-srd/monsters/demon/Koschei|Koschei]]
 - [[rangoric-srd/monsters/demon/Marilith|Marilith]]
 - [[rangoric-srd/monsters/demon/Nabasu|Nabasu]]
 - [[rangoric-srd/monsters/demon/Nalfeshnee|Nalfeshnee]]

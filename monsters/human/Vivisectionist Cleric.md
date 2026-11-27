@@ -59,7 +59,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: By character class
 - **Level Adjustment**: —
 
-A vivisectionist cleric is a [[rangoric-srd/monsters/human/Human|human]] with 7 levels of [[rangoric-srd/classes/Cleric|cleric]]. The vivisectionist cleric serves the god of pain and darkness, and can keep victims alive for weeks.
+A vivisectionist cleric is a [[rangoric-srd/monsters/human/Human|human]] with 7 levels of [[rangoric-srd/classes/Cleric|cleric]] of [[rangoric-srd/divine/Pantheons#Norse|Hel]]. The vivisectionist cleric serves the goddess of pain and darkness, and can keep victims alive for weeks.
 
 A vivisectionist cleric speaks Common.
 

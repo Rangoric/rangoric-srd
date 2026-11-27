@@ -59,7 +59,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: By character class
 - **Level Adjustment**: —
 
-A divine loremaster is a [[rangoric-srd/monsters/halfling/Halfling|halfling]] with 7 levels of [[rangoric-srd/classes/Cleric|cleric]] and 2 levels of [[rangoric-srd/prestige-classes/Loremaster|loremaster]]. Divine loremasters support allies with divinations and healing rather than slinging combat spells or taking up arms in melee.
+A divine loremaster is a [[rangoric-srd/monsters/halfling/Halfling|halfling]] with 7 levels of [[rangoric-srd/classes/Cleric|cleric]] of [[rangoric-srd/divine/Pantheons#Babylonian and Sumerian|Marduk]] and 2 levels of [[rangoric-srd/prestige-classes/Loremaster|loremaster]]. Divine loremasters support allies with divinations and healing rather than slinging combat spells or taking up arms in melee.
 
 A divine loremaster speaks Common and Halfling.
 

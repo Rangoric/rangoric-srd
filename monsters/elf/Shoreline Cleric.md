@@ -59,7 +59,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: By character class
 - **Level Adjustment**: —
 
-A shoreline cleric is a [[rangoric-srd/monsters/elf/Elf#Half-Elf|half-elf]] with 4 levels of [[rangoric-srd/classes/Cleric|cleric]].
+A shoreline cleric is a [[rangoric-srd/monsters/elf/Elf#Half-Elf|half-elf]] with 4 levels of [[rangoric-srd/classes/Cleric|cleric]] of [[rangoric-srd/divine/Pantheons#Japanese|Susanoo]].
 
 A shoreline cleric speaks Common and Elven.
 

@@ -59,7 +59,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: By character class
 - **Level Adjustment**: —
 
-A dog rider knight is a [[rangoric-srd/monsters/halfling/Halfling|halfling]] with 7 levels of [[rangoric-srd/classes/Paladin|paladin]].
+A dog rider knight is a [[rangoric-srd/monsters/halfling/Halfling|halfling]] with 7 levels of [[rangoric-srd/classes/Paladin|paladin]] of [[rangoric-srd/divine/Pantheons#Japanese|Amaterasu]].
 
 A dog rider knight speaks Common and Halfling.
 

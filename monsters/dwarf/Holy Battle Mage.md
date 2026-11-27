@@ -59,7 +59,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: By character class
 - **Level Adjustment**: —
 
-A holy battle mage is a [[rangoric-srd/monsters/dwarf/Dwarf|dwarf]] with 5 levels of [[rangoric-srd/classes/Cleric|cleric]] and 5 levels of [[rangoric-srd/classes/Wizard|wizard]] (the [[rangoric-srd/class-options/arcane-schools/Universalist School|universalist]] school) and 10 levels of [[rangoric-srd/prestige-classes/Mystic Theurge|mystic theurge]]. These master theurges mix support for allies with offensive might.
+A holy battle mage is a [[rangoric-srd/monsters/dwarf/Dwarf|dwarf]] with 5 levels of [[rangoric-srd/classes/Cleric|cleric]] of [[rangoric-srd/divine/Pantheons#Greek and Roman|Hephaestus]] and 5 levels of [[rangoric-srd/classes/Wizard|wizard]] (the [[rangoric-srd/class-options/arcane-schools/Universalist School|universalist]] school) and 10 levels of [[rangoric-srd/prestige-classes/Mystic Theurge|mystic theurge]]. These master theurges mix support for allies with offensive might.
 
 A holy battle mage speaks Aklo, Celestial, Common, Draconic, Dwarven, Elven, Giant, and Undercommon.
 

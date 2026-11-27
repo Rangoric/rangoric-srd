@@ -59,7 +59,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: By character class
 - **Level Adjustment**: —
 
-A desert protector is a [[rangoric-srd/monsters/human/Human|human]] with 8 levels of [[rangoric-srd/classes/Paladin|paladin]]. A desert protector watches over the bodies and souls of a nomadic desert community.
+A desert protector is a [[rangoric-srd/monsters/human/Human|human]] with 8 levels of [[rangoric-srd/classes/Paladin|paladin]] of [[rangoric-srd/divine/Pantheons#Japanese|Amaterasu]]. A desert protector watches over the bodies and souls of a nomadic desert community.
 
 A desert protector speaks Common.
 

@@ -59,7 +59,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: By character class
 - **Level Adjustment**: —
 
-A priest of oblivion is a [[rangoric-srd/monsters/human/Human|human]] with 19 levels of [[rangoric-srd/classes/Cleric|cleric]]. The priest of oblivion wishes to drown all creatures in darkness and despair, then defile their bodies and raise them as undead.
+A priest of oblivion is a [[rangoric-srd/monsters/human/Human|human]] with 19 levels of [[rangoric-srd/classes/Cleric|cleric]] of [[rangoric-srd/divine/Pantheons#Norse|Hel]]. The priest of oblivion wishes to drown all creatures in darkness and despair, then defile their bodies and raise them as undead.
 
 A priest of oblivion speaks Common.
 

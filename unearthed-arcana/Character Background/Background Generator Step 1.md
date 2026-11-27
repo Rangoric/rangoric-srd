@@ -294,19 +294,19 @@ You grew up in a region not typically associated with the lands that your people
 
 **Table: Unusual Homeland**
 
-| d%     | Result                                                                                                        |
-| ------ | ------------------------------------------------------------------------------------------------------------- |
-| 01–10  | **Subterranean**: You gain access to the Surface Stranger regional trait.                                     |
-| 11–25  | **Mountains**: You gain access to the Highlander regional trait.                                              |
-| 26–40  | **Plains**: You gain access to the Savanna Child regional trait.                                              |
-| 41–50  | **Town or Village**: You gain access to the Militia Veteran regional trait.                                   |
-| 51–60  | **City or Metropolis**: You gain access to the Civilized social trait and the Vagabond Child regional trait.  |
-| 61–70  | **Forest**: You gain access to the Log Roller regional trait.                                                 |
-| 71–80  | **River, Swamp, or Wetlands**: You gain access to the River Rat regional trait.                               |
-| 81–85  | **Desert**: You gain access to the Desert Child regional trait.                                               |
-| 86–90  | **Sea**: You gain access to the Sea-Souled regional trait.                                                    |
-| 91–95  | **Tundra**: You gain access to the Tundra Child regional trait.                                               |
-| 96–100 | **Another Plane**: Your GM chooses the plane. You gain access to the Scholar of the Great Beyond faith trait. |
+| d%     | Result                                                                                                       |
+| ------ | ------------------------------------------------------------------------------------------------------------ |
+| 01–10  | **Subterranean**: You gain access to the Surface Stranger regional trait.                                    |
+| 11–25  | **Mountains**: You gain access to the Highlander regional trait.                                             |
+| 26–40  | **Plains**: You gain access to the Savanna Child regional trait.                                             |
+| 41–50  | **Town or Village**: You gain access to the Militia Veteran regional trait.                                  |
+| 51–60  | **City or Metropolis**: You gain access to the Civilized social trait and the Vagabond Child regional trait. |
+| 61–70  | **Forest**: You gain access to the Log Roller regional trait.                                                |
+| 71–80  | **River, Swamp, or Wetlands**: You gain access to the River Rat regional trait.                              |
+| 81–85  | **Desert**: You gain access to the Desert Child regional trait.                                              |
+| 86–90  | **Sea**: You gain access to the Sea-Souled regional trait.                                                   |
+| 91–95  | **Tundra**: You gain access to the Tundra Child regional trait.                                              |
+| 96–100 | **Another Plane**: Your GM chooses the plane. You gain access to the Scholar of the Planes faith trait.      |
 
 ## Circumstance of Birth
 
@@ -324,7 +324,7 @@ Roll once to determine the circumstances of your birth.
 | 78–81 | Bastard Born: Your parents had a tryst that resulted in your birth out of wedlock. You know one of your parents, but the other remains unknown or a distant presence at best. You gain access to the Bastard social trait and the Shamed story feat.                                                                                                                                                                                                       |
 | 82    | Blessed Birth: When you were born, you were blessed by a being of great power such as an angel, azata, or genie. This blessing has protected you from certain peril or marked you as special to some deity. You gain access to the Blessed faith trait and the Birthmark faith trait.                                                                                                                                                                      |
 | 83–84 | Born of Violence: Your birth was caused by violent, unwilling means. You have one parent, and the other likely remains unknown. You gain access to the Axe to Grind combat trait and the Bastard social trait.                                                                                                                                                                                                                                             |
-| 85    | Born out of Time: You were born in a different era, either the distant past or the far future. Some event has displaced you from your time, and the ways and customs of the present seem strange and alien to you. You gain access to the Scholar of the Great Beyond faith trait.                                                                                                                                                                         |
+| 85    | Born out of Time: You were born in a different era, either the distant past or the far future. Some event has displaced you from your time, and the ways and customs of the present seem strange and alien to you. You gain access to the Scholar of the Planes faith trait.                                                                                                                                                                               |
 | 86–87 | Born into Bondage: You were born into slavery or servitude. Your parents are likely slaves or servants, or you were sold into slavery as an infant. You gain access to the Life of Toil social trait.                                                                                                                                                                                                                                                      |
 | 88    | Cursed Birth: When you were born, a powerful fiendish entity tainted your blood in some way and cursed you as an agent of dark prophecy. You gain access to the Fiend Blood bloodline race trait and the Accursed story feat.                                                                                                                                                                                                                              |
 | 89–90 | Dishonored Family: You were born into a family that once was honored among your society but has since fallen into disgrace. Now your family name is loathed and maligned by those who know it, putting you on your guard. You gain access to the Reactionary combat trait, the Lost Legacy story feat, and the Redemption story feat.                                                                                                                      |

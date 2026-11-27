@@ -59,7 +59,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: By character class
 - **Level Adjustment**: —
 
-A mithral master is a [[rangoric-srd/monsters/elf/Elf#Half-Elf|half-elf]] with 19 levels of [[rangoric-srd/classes/Paladin|paladin]]. The mithral master is a gleaming symbol of honor.
+A mithral master is a [[rangoric-srd/monsters/elf/Elf#Half-Elf|half-elf]] with 19 levels of [[rangoric-srd/classes/Paladin|paladin]] of [[rangoric-srd/divine/Pantheons#Babylonian and Sumerian|Marduk]]. The mithral master is a gleaming symbol of honor.
 
 A mithral master speaks Common and Elven.
 

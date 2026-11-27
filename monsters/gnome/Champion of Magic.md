@@ -59,7 +59,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: By character class
 - **Level Adjustment**: —
 
-A champion of magic is a [[rangoric-srd/monsters/gnome/Gnome|gnome]] with 2 levels of [[rangoric-srd/classes/Paladin|paladin]] and 7 levels of [[rangoric-srd/classes/Sorcerer|sorcerer]] and 4 levels of [[rangoric-srd/prestige-classes/Eldritch Knight|eldritch knight]]. These eldritch knights seek out evil spellcasters and dispense justice for their misdeeds.
+A champion of magic is a [[rangoric-srd/monsters/gnome/Gnome|gnome]] with 2 levels of [[rangoric-srd/classes/Paladin|paladin]] of [[rangoric-srd/divine/Pantheons#Greek and Roman|Hephaestus]] and 7 levels of [[rangoric-srd/classes/Sorcerer|sorcerer]] and 4 levels of [[rangoric-srd/prestige-classes/Eldritch Knight|eldritch knight]]. These eldritch knights seek out evil spellcasters and dispense justice for their misdeeds.
 
 A champion of magic speaks Common, Draconic, Gnome, and Sylvan.
 

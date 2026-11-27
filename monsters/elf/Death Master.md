@@ -59,7 +59,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: By character class
 - **Level Adjustment**: —
 
-A death master is a [[rangoric-srd/monsters/elf/Elf#Half-Elf|half-elf]] with 5 levels of [[rangoric-srd/classes/Cleric|cleric]] and 5 levels of [[rangoric-srd/classes/Wizard|wizard]] (the [[rangoric-srd/class-options/arcane-schools/Evocation School|evocation]] school) and 7 levels of [[rangoric-srd/prestige-classes/Mystic Theurge|mystic theurge]]. A death master slings a spell with each stride.
+A death master is a [[rangoric-srd/monsters/elf/Elf#Half-Elf|half-elf]] with 5 levels of [[rangoric-srd/classes/Cleric|cleric]] of [[rangoric-srd/divine/Pantheons#Babylonian and Sumerian|Nergal]] and 5 levels of [[rangoric-srd/classes/Wizard|wizard]] (the [[rangoric-srd/class-options/arcane-schools/Evocation School|evocation]] school) and 7 levels of [[rangoric-srd/prestige-classes/Mystic Theurge|mystic theurge]]. A death master slings a spell with each stride.
 
 A death master speaks Abyssal, Common, Elven, Infernal, and Undercommon.
 

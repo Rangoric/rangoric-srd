@@ -59,7 +59,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: By character class
 - **Level Adjustment**: —
 
-A saintly knight is a [[rangoric-srd/monsters/orc/Orc#Half-Orcs|half-orc]] with 9 levels of [[rangoric-srd/classes/Paladin|paladin]]. A saintly knight accomplishes great acts with his indomitable spirit and martial prowess.
+A saintly knight is a [[rangoric-srd/monsters/orc/Orc#Half-Orcs|half-orc]] with 9 levels of [[rangoric-srd/classes/Paladin|paladin]] of [[rangoric-srd/divine/Pantheons#Greek and Roman|Athena]]. A saintly knight accomplishes great acts with his indomitable spirit and martial prowess.
 
 A saintly knight speaks Common and Orc.
 

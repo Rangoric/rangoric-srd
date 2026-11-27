@@ -59,7 +59,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: By character class
 - **Level Adjustment**: —
 
-A honorable outcast is a [[rangoric-srd/monsters/orc/Orc#Half-Orcs|half-orc]] with 2 levels of [[rangoric-srd/classes/Paladin|paladin]]. Honorable outcasts are far from their homes and often found alone. Some have been questing in the wild for so long that they have lost any semblance of social graces and tact.
+A honorable outcast is a [[rangoric-srd/monsters/orc/Orc#Half-Orcs|half-orc]] with 2 levels of [[rangoric-srd/classes/Paladin|paladin]] of [[rangoric-srd/divine/Pantheons#Greek and Roman|Hephaestus]]. Honorable outcasts are far from their homes and often found alone. Some have been questing in the wild for so long that they have lost any semblance of social graces and tact.
 
 A honorable outcast speaks Common and Orc.
 

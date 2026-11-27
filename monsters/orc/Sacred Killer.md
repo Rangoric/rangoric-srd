@@ -59,7 +59,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: By character class
 - **Level Adjustment**: —
 
-A sacred killer is a [[rangoric-srd/monsters/orc/Orc#Half-Orcs|half-orc]] with 1 level of [[rangoric-srd/classes/Cleric|cleric]] and 6 levels of [[rangoric-srd/classes/Rogue|rogue]] and 2 levels of [[rangoric-srd/prestige-classes/Assassin|assassin]]. Most evil temples and cults use sacred killers to enforce their twisted will or to eliminate annoying enemies.
+A sacred killer is a [[rangoric-srd/monsters/orc/Orc#Half-Orcs|half-orc]] with 1 level of [[rangoric-srd/classes/Cleric|cleric]] of [[rangoric-srd/divine/Pantheons#Norse|Loki]] and 6 levels of [[rangoric-srd/classes/Rogue|rogue]] and 2 levels of [[rangoric-srd/prestige-classes/Assassin|assassin]]. Most evil temples and cults use sacred killers to enforce their twisted will or to eliminate annoying enemies.
 
 A sacred killer speaks Common, Dwarven, and Orc.
 

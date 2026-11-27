@@ -59,7 +59,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: By character class
 - **Level Adjustment**: —
 
-A furious crusader is a [[rangoric-srd/monsters/halfling/Halfling|halfling]] with 18 levels of [[rangoric-srd/classes/Paladin|paladin]]. The furious crusader is a compact bundle of holy power with a chip on his shoulder.
+A furious crusader is a [[rangoric-srd/monsters/halfling/Halfling|halfling]] with 18 levels of [[rangoric-srd/classes/Paladin|paladin]] of [[rangoric-srd/divine/Pantheons#Greek and Roman|Athena]]. The furious crusader is a compact bundle of holy power with a chip on his shoulder.
 
 A furious crusader speaks Common and Halfling.
 

@@ -59,7 +59,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: By character class
 - **Level Adjustment**: —
 
-A wrath priest is a [[rangoric-srd/monsters/orc/Orc#Half-Orcs|half-orc]] with 8 levels of [[rangoric-srd/classes/Cleric|cleric]]. The wrath priest serves the primordial god of disaster and destruction, striking down innocents and enemies with fire, blade, and hatred. He is a quintessential nihilist, and can not be bought or reasoned with except as it furthers his god's horrific ends.
+A wrath priest is a [[rangoric-srd/monsters/orc/Orc#Half-Orcs|half-orc]] with 8 levels of [[rangoric-srd/classes/Cleric|cleric]] of [[rangoric-srd/divine/Pantheons#Egyptian|Apep]]. The wrath priest serves the primordial god of disaster and destruction, striking down innocents and enemies with fire, blade, and hatred. He is a quintessential nihilist, and can not be bought or reasoned with except as it furthers his god's horrific ends.
 
 A wrath priest speaks Common and Orc.
 

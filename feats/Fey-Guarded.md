@@ -9,7 +9,7 @@ tags: [rangoric, rangoric/feat]
 
 # Fey-Guarded
 
-You have trained your mind to resist fey magic--both that cast by fey creatures and that cast by other denizens of the First World.
+You have trained your mind to resist fey magic--both that cast by fey creatures and that cast by other denizens of the [[rangoric-srd/flavor/the-fey-realm/The Fey Realm|Fey Realm]].
 
 **Prerequisites**: [[rangoric-srd/skills/Nature|Nature]] or [[rangoric-srd/skills/Theology|Theology]] 3 ranks.
 

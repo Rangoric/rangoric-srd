@@ -59,7 +59,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: By character class
 - **Level Adjustment**: —
 
-A hammer of justice is a [[rangoric-srd/monsters/dwarf/Dwarf|dwarf]] with 5 levels of [[rangoric-srd/classes/Paladin|paladin]]. A hammer of justice lives to crush evil with his divinely enhanced weapon, and is beholden to none but his god.
+A hammer of justice is a [[rangoric-srd/monsters/dwarf/Dwarf|dwarf]] with 5 levels of [[rangoric-srd/classes/Paladin|paladin]] of [[rangoric-srd/divine/Pantheons#Greek and Roman|Hephaestus]]. A hammer of justice lives to crush evil with his divinely enhanced weapon, and is beholden to none but his god.
 
 A hammer of justice speaks Common and Dwarven.
 

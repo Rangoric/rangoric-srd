@@ -59,7 +59,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: By character class
 - **Level Adjustment**: —
 
-A celestial theurge is a [[rangoric-srd/monsters/human/Human|human]] with 3 levels of [[rangoric-srd/classes/Cleric|cleric]] and 4 levels of [[rangoric-srd/classes/Sorcerer|sorcerer]] and 2 levels of [[rangoric-srd/prestige-classes/Mystic Theurge|mystic theurge]]. These theurges support righteous causes, especially ones that involve destroying undead.
+A celestial theurge is a [[rangoric-srd/monsters/human/Human|human]] with 3 levels of [[rangoric-srd/classes/Cleric|cleric]] of [[rangoric-srd/divine/Pantheons#Japanese|Amaterasu]] and 4 levels of [[rangoric-srd/classes/Sorcerer|sorcerer]] and 2 levels of [[rangoric-srd/prestige-classes/Mystic Theurge|mystic theurge]]. These theurges support righteous causes, especially ones that involve destroying undead.
 
 A celestial theurge speaks Common.
 

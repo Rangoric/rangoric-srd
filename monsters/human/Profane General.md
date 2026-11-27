@@ -59,7 +59,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: By character class
 - **Level Adjustment**: —
 
-A profane general is a [[rangoric-srd/monsters/human/Human|human]] with 13 levels of [[rangoric-srd/classes/Cleric|cleric]]. The profane general, a powerful cleric of war who leads by example, cleaves through enemies to inspire her allies and followers to greater glory and victory.
+A profane general is a [[rangoric-srd/monsters/human/Human|human]] with 13 levels of [[rangoric-srd/classes/Cleric|cleric]] of [[rangoric-srd/divine/Pantheons#Greek and Roman|Ares]]. The profane general, a powerful cleric of war who leads by example, cleaves through enemies to inspire her allies and followers to greater glory and victory.
 
 A profane general speaks Common.
 

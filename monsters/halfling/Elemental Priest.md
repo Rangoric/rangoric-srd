@@ -59,7 +59,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: By character class
 - **Level Adjustment**: —
 
-An elemental priest is a [[rangoric-srd/monsters/halfling/Halfling|halfling]] with 16 levels of [[rangoric-srd/classes/Cleric|cleric]]. The elemental priest commands the forces of nature and summons powerful air and water spirits to do his bidding.
+An elemental priest is a [[rangoric-srd/monsters/halfling/Halfling|halfling]] with 16 levels of [[rangoric-srd/classes/Cleric|cleric]] of [[rangoric-srd/divine/Pantheons#Japanese|Susanoo]]. The elemental priest commands the forces of nature and summons powerful air and water spirits to do his bidding.
 
 An elemental priest speaks Aquan, Auran, Common, and Halfling.
 

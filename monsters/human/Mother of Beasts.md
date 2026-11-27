@@ -59,7 +59,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: By character class
 - **Level Adjustment**: —
 
-A mother of beasts is a [[rangoric-srd/monsters/human/Human|human]] with 10 levels of [[rangoric-srd/classes/Cleric|cleric]]. The mother of beasts serves the goddess of madness and monsters. She looks after horrible creatures and summons extraplanar beings to defend herself and her pets.
+A mother of beasts is a [[rangoric-srd/monsters/human/Human|human]] with 10 levels of [[rangoric-srd/classes/Cleric|cleric]] of [[rangoric-srd/divine/Pantheons#Babylonian and Sumerian|Tiamat]]. The mother of beasts serves the goddess of madness and monsters. She looks after horrible creatures and summons extraplanar beings to defend herself and her pets.
 
 A mother of beasts speaks Common.
 
