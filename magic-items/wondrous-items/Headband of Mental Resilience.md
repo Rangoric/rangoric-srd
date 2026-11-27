@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, eagle's splendor, fox's cunning, lesser res
 price: "64,000 gp"
 cost: "32,000 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Headband of Mental Resilience|Headband of Mental Resilience (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Headband of Mental Resilience|Headband of Mental Resilience (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

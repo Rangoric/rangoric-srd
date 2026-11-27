@@ -6,10 +6,7 @@ caster-level: 9
 prerequisites: "Craft Rod, The Hound"
 price: "15,000 gp"
 cost: "7,500 gp + 600 XP"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/magic-items/Rod of the Setting Sun|Rod of the Setting Sun (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

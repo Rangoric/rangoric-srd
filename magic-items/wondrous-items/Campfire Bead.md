@@ -8,11 +8,7 @@ caster-level: 1
 prerequisites: "Craft Wondrous Item, produce flame"
 price: "720 gp"
 cost: "360 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Campfire Bead|Campfire Bead (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Campfire Bead|Campfire Bead (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

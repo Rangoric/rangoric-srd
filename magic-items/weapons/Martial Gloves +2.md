@@ -7,10 +7,7 @@ caster-level: 6
 prerequisites: "Craft Magic Arms and Armor"
 price: "8,303 gp"
 cost: "4,152 gp + 332 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Martial Gloves|Martial Gloves (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

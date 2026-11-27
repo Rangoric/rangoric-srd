@@ -11,10 +11,7 @@ prerequisites: "Craft Wondrous Item, bestow curse"
 price: "500 gp"
 cost: "250 gp"
 weight: "1/2 lb."
-based-on:
-  - "[[path srd 3.5 foundry/items/wondrous/Waxen Image (Item)|Waxen Image (Item) (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/magic-item]
 ---

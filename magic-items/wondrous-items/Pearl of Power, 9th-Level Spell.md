@@ -7,10 +7,7 @@ aura: "Strong transmutation"
 caster-level: 17
 prerequisites: "Craft Wondrous Item, creator must be able to cast spells of the spell level to be recalled"
 price: "81,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Pearl of Power|Pearl of Power (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

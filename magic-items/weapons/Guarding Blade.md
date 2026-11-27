@@ -8,11 +8,7 @@ prerequisites: "Craft Magic Arms and Armor, animate objects, mage's faithful hou
 price: "65,310 gp"
 cost: "32,810 gp"
 weight: "2 lbs."
-based-on:
-  - "[[path srd 3.5/items/weapons/Guarding Blade|Guarding Blade (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Guarding Blade|Guarding Blade (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/magic-item]
 ---

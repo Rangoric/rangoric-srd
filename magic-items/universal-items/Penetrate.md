@@ -6,10 +6,7 @@ aura: "Strong clairsentience"
 manifester-level: 15
 prerequisites: "Craft Universal Item, bend reality"
 price: "8,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/universal-items/Penetrate|Penetrate (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

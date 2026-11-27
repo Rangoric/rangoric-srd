@@ -7,11 +7,7 @@ caster-level: 13
 prerequisites: "Craft Magic Arms and Armor, dimensional anchor, mind blank, neutralize poison, resist energy, stone to flesh, and prismatic sphere, prismatic spray, or prismatic wall"
 price: "160,650 gp"
 cost: "81,150 gp"
-based-on:
-  - "[[path srd 3.5/items/specific-magic-armor-and-shields/Prismatic Plate|Prismatic Plate (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Prismatic Plate|Prismatic Plate (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/magic-item]
 ---

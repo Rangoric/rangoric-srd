@@ -7,11 +7,7 @@ caster-level: 11
 prerequisites: "Craft Magic Arms and Armor, bull's strength, keen edge"
 price: "10,305 gp"
 cost: "5,305 gp"
-based-on:
-  - "[[path srd 3.5/items/featured-race/Rending Claw Blade|Rending Claw Blade (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Rending Claw Blade|Rending Claw Blade (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -8,11 +8,7 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, delay poison, detect poison, remove disease, see invisibility"
 price: "3,600 gp"
 cost: "1,800 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Noble's Vigilant Pillbox|Noble's Vigilant Pillbox (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Noble's Vigilant Pillbox|Noble's Vigilant Pillbox (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -7,10 +7,7 @@ aura: "Moderate evocation"
 caster-level: 11
 prerequisites: "Craft Wondrous Item, scorching ray"
 price: "1,100 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Elixir of Fire Breath|Elixir of Fire Breath (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

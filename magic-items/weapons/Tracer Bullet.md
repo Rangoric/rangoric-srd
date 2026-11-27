@@ -6,10 +6,7 @@ aura: "Faint evocation"
 caster-level: 2
 prerequisites: "Craft Magic Arms and Armor, faerie fire"
 price: "100 gp"
-based-on:
-  - "[[path srd 3.5/items/firearms/Tracer Bullet|Tracer Bullet (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -7,11 +7,7 @@ caster-level: 10
 prerequisites: "Craft Magic Arms and Armor, expeditious retreat, keen edge"
 price: "11,320 gp"
 cost: "5,820 gp"
-based-on:
-  - "[[path srd 3.5/items/core-race/Swift Obsidian Greataxe|Swift Obsidian Greataxe (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Swift Obsidian Greataxe|Swift Obsidian Greataxe (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -7,10 +7,7 @@ caster-level: 13
 prerequisites: "Craft Magic Arms and Armor, consecrate, plane shift"
 price: "44,315 gp"
 cost: "22,315 gp + 1,760 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Sword of Ghosts|Sword of Ghosts (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

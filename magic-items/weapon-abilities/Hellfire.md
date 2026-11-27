@@ -6,10 +6,7 @@ aura: "Strong evocation"
 caster-level: 14
 prerequisites: "Craft Magic Arms and Armor, flame blade, flame strike, or fireball"
 price: "+3 bonus"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapon-qualities/Hellfire|Hellfire (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

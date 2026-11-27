@@ -7,10 +7,7 @@ caster-level: 3
 cr-increase: "none"
 prerequisites: "Craft Construct, shield"
 cost: "1,200 gp"
-based-on:
-  - "[[path srd 3.5/items/building-and-modifying-constructs/Rune of Shielding|Rune of Shielding (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/magic-item]
 ---

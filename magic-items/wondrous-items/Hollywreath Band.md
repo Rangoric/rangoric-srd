@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, goodberry, plant growth"
 price: "5,700 gp"
 cost: "2,850 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Hollywreath Band|Hollywreath Band (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Hollywreath Band|Hollywreath Band (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

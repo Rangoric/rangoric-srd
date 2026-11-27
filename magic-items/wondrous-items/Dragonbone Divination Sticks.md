@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, augury, guidance"
 price: "6,400 gp"
 cost: "3,200 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Dragonbone Divination Sticks|Dragonbone Divination Sticks (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Dragonbone Divination Sticks|Dragonbone Divination Sticks (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

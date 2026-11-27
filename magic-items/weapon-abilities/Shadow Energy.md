@@ -5,11 +5,7 @@ item-type: "Weapon Special Ability"
 caster-level: 16
 prerequisites: "Craft Magic Arms and Armor, gaseous form, chill touch"
 price: "+4 bonus"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/magic-items/Shadow Energy|Shadow Energy (Spells & Magic)]]"
-  - "[[individual books/Arms & Armor v3.5/weapon-qualities/Shadow Energy|Shadow Energy (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

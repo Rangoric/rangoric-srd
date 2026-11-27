@@ -7,10 +7,7 @@ aura: "Strong conjuration"
 caster-level: 15
 prerequisites: "Craft Wondrous Item, plane shift"
 price: "120,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Amulet of the Planes|Amulet of the Planes (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -6,11 +6,7 @@ aura: "Moderate conjuration"
 caster-level: 9
 prerequisites: "Craft Magic Arms and Armor, secret chest"
 price: "+7,500 gp"
-based-on:
-  - "[[path srd 3.5/rules/ultimate-equipment/magic-arms-and-armor/Armor Special Abilities#Hosteling|Hosteling (PF1)]]"
-  - "[[path srd 3.5 foundry/items/special-abilities/Hosteling|Hosteling (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/magic-item]
 ---

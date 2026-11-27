@@ -8,12 +8,7 @@ aura: "Moderate evocation"
 caster-level: 10
 prerequisites: "Craft Magic Arms and Armor, acid arrow"
 price: "+1 bonus"
-based-on:
-  - "[[path srd 3.5/items/weapon-special-abilities/Corrosive|Corrosive (PF1)]]"
-  - "[[path srd 3.5 foundry/items/special-abilities/Corrosive|Corrosive (PF1 F)]]"
-  - "[[individual books/Arms & Armor v3.5/weapon-qualities/Acidic|Acidic (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/magic-item]
 ---

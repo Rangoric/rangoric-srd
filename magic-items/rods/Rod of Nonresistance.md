@@ -7,10 +7,7 @@ aliases:
 caster-level: 9
 prerequisites: "Craft Rod, Spell Penetration, spell resistance"
 price: "40,000 gp"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/magic-items/NonResistance|NonResistance (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

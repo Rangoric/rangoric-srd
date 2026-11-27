@@ -5,10 +5,7 @@ item-type: "Minor Artifact"
 aliases:
   - "Tongue of Zuratorkul"
 caster-level: 21
-based-on:
-  - "[[individual books/Arms & Armor v3.5/artifacts/Tongue of Zuratorkul|Tongue of Zuratorkul (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/magic-item]
 ---

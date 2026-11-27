@@ -5,10 +5,7 @@ item-type: "Cursed Item"
 aura: "Moderate enchantment"
 caster-level: 6
 price: "200 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/cursed-items/Incense of Obsession|Incense of Obsession (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

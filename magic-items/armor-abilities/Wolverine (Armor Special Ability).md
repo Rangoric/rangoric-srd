@@ -8,10 +8,7 @@ aura: "Moderate transmutation"
 caster-level: 6
 prerequisites: "Craft Magic Arms and Armor, charm person"
 price: "+2 bonus (+2 to Cha), +3 bonus (+4 to Cha)"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/armor-qualities/Wolverine|Wolverine (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

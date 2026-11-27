@@ -7,10 +7,7 @@ manifester-level: 11
 prerequisites: "Craft Universal Item, mind switch"
 price: "19,800 gp"
 weight: "1/2 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/universal-items/Mirror of Mind Switch|Mirror of Mind Switch (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

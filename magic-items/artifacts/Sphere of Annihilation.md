@@ -4,10 +4,7 @@ section: "Magic Items"
 item-type: "Minor Artifact"
 aura: "Strong transmutation"
 caster-level: 20
-based-on:
-  - "[[fantasy srd 3.5/magic-items/artifacts/Sphere of Annihilation|Sphere of Annihilation (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

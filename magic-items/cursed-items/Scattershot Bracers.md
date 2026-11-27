@@ -6,11 +6,7 @@ aura: "Faint transmutation"
 caster-level: 5
 intended-item: "bracers of archery, greater or lesser"
 slot: "wrists"
-based-on:
-  - "[[path srd 3.5/items/cursed-items/Scattershot Bracers|Scattershot Bracers (PF1)]]"
-  - "[[path srd 3.5 foundry/items/cursed/Scattershot Bracers|Scattershot Bracers (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

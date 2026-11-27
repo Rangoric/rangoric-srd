@@ -6,11 +6,7 @@ aura: "Moderate abjuration"
 caster-level: 8
 prerequisites: "Craft Magic Arms and Armor, entropic shield"
 price: "+1 bonus"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/armor-abilities/Arrow Catching|Arrow Catching (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/armor-qualities/Arrow Catching|Arrow Catching (Arms & Armor)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

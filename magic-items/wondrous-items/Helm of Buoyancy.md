@@ -7,10 +7,7 @@ aura: "Faint transmutation"
 caster-level: 3
 prerequisites: "Craft Magic Arms and Armor, levitate"
 price: "1,100 gp"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Helm of Buoyancy|Helm of Buoyancy (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

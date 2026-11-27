@@ -10,10 +10,7 @@ caster-level: 10
 prerequisites: "Craft Wondrous Item, overland flight, permanency"
 price: "20,000 gp"
 weight: "8 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Carpet of Flying|Carpet of Flying (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

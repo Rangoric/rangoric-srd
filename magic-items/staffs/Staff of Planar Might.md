@@ -7,10 +7,7 @@ aliases:
 caster-level: 21
 prerequisites: "Craft Staff, Craft Epic Staff, gate, greater planar ally, greater planar binding, protection from energy"
 price: "460,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/staffs/Staff of Planar Might|Staff of Planar Might (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---

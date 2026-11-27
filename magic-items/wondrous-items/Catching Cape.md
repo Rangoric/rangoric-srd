@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, shield"
 price: "200 gp"
 cost: "100 gp"
 weight: "3 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Catching Cape|Catching Cape (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Catching Cape|Catching Cape (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -7,11 +7,7 @@ caster-level: 5
 prerequisites: "Craft Rod, hypnosis"
 price: "18,000 gp"
 cost: "9,000 gp"
-based-on:
-  - "[[path srd 3.5/items/rods/Rod of Beguiling|Rod of Beguiling (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Rod of Beguiling|Rod of Beguiling (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

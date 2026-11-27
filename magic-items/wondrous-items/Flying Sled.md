@@ -9,10 +9,7 @@ prerequisites: "Craft Wondrous Item, overland flight, plane shift"
 price: "80,000 gp"
 cost: "40,000 gp"
 weight: "100 lb."
-based-on:
-  - "[[path srd 3.5 foundry/items/wondrous/Flying Sled|Flying Sled (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/magic-item]
 ---

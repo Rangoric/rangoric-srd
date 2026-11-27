@@ -9,10 +9,7 @@ prerequisites: "Craft Wondrous Item, wish or miracle"
 price: "137,500 gp"
 cost: "6,250 gp + 25,500 XP"
 weight: "5 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Manual of Quickness in Action|Manual of Quickness in Action (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -6,10 +6,7 @@ caster-level: 5
 prerequisites: "Forge Ring, Star of Revelation, Star of Darkness, darkvision"
 price: "4,000 gp"
 cost: "2,000 gp + 160 XP"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/magic-items/Ring of Stars|Ring of Stars (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -8,10 +8,7 @@ aura: "Moderate transmutation"
 caster-level: 7
 prerequisites: "Forge Ring, blink"
 price: "27,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rings/Ring of Blinking|Ring of Blinking (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

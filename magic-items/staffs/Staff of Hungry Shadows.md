@@ -9,11 +9,7 @@ price: "69,300 gp"
 cost: "34,650 gp"
 weight: "5 lbs."
 recharge: true
-based-on:
-  - "[[path srd 3.5/items/staves/Staff of Hungry Shadows|Staff of Hungry Shadows (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Staff of Hungry Shadows|Staff of Hungry Shadows (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

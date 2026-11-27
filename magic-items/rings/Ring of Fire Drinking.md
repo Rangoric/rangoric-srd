@@ -7,10 +7,7 @@ aliases:
 caster-level: 6
 prerequisites: "Forge Ring, protection from energy"
 price: "20,000 gp"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/magic-items/Fire Drinking|Fire Drinking (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

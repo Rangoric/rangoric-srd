@@ -8,10 +8,7 @@ aura: "Strong evocation"
 caster-level: 12
 prerequisites: "Forge Ring, light, faerie fire, fireball, lightning bolt"
 price: "50,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rings/Ring of Shooting Stars|Ring of Shooting Stars (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

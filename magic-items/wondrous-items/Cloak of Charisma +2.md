@@ -10,10 +10,7 @@ caster-level: 8
 prerequisites: "Craft Wondrous Item, eagle’s splendor"
 price: "4,000 gp"
 weight: "2 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Cloak of Charisma|Cloak of Charisma (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

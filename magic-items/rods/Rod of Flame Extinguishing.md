@@ -8,10 +8,7 @@ aura: "Strong transmutation"
 caster-level: 12
 prerequisites: "Craft Rod, pyrotechnics"
 price: "15,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rods/Rod of Flame Extinguishing|Rod of Flame Extinguishing (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

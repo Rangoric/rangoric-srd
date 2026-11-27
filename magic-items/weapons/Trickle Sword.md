@@ -7,10 +7,7 @@ caster-level: 6
 prerequisites: "Craft Magic Arms and Armor, locate creature"
 price: "50,315 gp"
 cost: "25,158 gp + 2,013 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Trickle Sword|Trickle Sword (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

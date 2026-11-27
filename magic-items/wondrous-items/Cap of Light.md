@@ -8,11 +8,7 @@ caster-level: 1
 prerequisites: "Craft Wondrous Item, light"
 price: "900 gp"
 cost: "450 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Cap of Light|Cap of Light (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Cap of Light|Cap of Light (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

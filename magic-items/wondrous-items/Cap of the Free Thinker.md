@@ -8,11 +8,7 @@ caster-level: 10
 prerequisites: "Craft Wondrous Item, mind blank"
 price: "12,000 gp"
 cost: "6,000 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Cap of the Free Thinker|Cap of the Free Thinker (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Cap of the Free Thinker|Cap of the Free Thinker (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

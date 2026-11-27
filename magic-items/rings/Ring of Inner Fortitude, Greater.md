@@ -7,11 +7,7 @@ caster-level: 7
 prerequisites: "Forge Ring, restoration"
 price: "66,000 gp"
 cost: "33,000 gp"
-based-on:
-  - "[[path srd 3.5/items/rings/Ring of Inner Fortitude|Ring of Inner Fortitude (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Ring of Inner Fortitude, Greater|Ring of Inner Fortitude, Greater (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/magic-item]
 ---

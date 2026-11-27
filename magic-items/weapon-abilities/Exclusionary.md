@@ -6,11 +6,7 @@ aura: "Faint necromancy"
 caster-level: 1
 prerequisites: "Craft Magic Arms and Armor, Selective Channeling, sanctuary"
 price: "+3,750 gp"
-based-on:
-  - "[[path srd 3.5/items/weapon-special-abilities/Exclusionary|Exclusionary (PF1)]]"
-  - "[[path srd 3.5 foundry/items/special-abilities/Exclusionary|Exclusionary (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/magic-item]
 ---

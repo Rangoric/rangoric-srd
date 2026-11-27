@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, chill touch, resist energy, creator must be
 price: "12,000 gp"
 cost: "6,000 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Amulet of the Blooded|Amulet of the Blooded (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Amulet of the Blooded, Infernal|Amulet of the Blooded, Infernal (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

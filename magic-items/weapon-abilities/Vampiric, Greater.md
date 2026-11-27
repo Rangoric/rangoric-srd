@@ -6,10 +6,7 @@ aura: "Moderate necromancy"
 caster-level: 9
 prerequisites: "Craft Magic Arms and Armor, cure serious wounds, vampiric touch"
 price: "+5 bonus"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapon-qualities/Vampiric, Greater|Vampiric, Greater (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

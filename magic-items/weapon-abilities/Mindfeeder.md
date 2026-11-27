@@ -6,10 +6,7 @@ aura: "Strong psychometabolism"
 manifester-level: 15
 prerequisites: "Craft Psionic Arms and Armor, psychic vampire"
 price: "+3 bonus"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/weapon-abilities/Mindfeeder|Mindfeeder (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

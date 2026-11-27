@@ -1,16 +1,7 @@
 ---
 srd-type: "overview"
 section: "Magic Items"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/Intelligent and Cursed Items and Artifact|Intelligent and Cursed Items and Artifact (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/rules/Intelligent Weapons|Intelligent Weapons (Arms & Armor)]]"
-  - "[[individual books/Arms & Armor v3.5/rules/Cursed Items|Cursed Items (Arms & Armor)]]"
-  - "[[individual books/Arms & Armor v3.5/rules/Specific Cursed Items|Specific Cursed Items (Arms & Armor)]]"
-  - "[[individual books/Arms & Armor v3.5/rules/Artifacts & Legends|Artifacts & Legends (Arms & Armor)]]"
-  - "[[path srd 3.5/rules/ultimate-equipment/artifacts-and-other-items/Intelligent Items (Artifacts and Other Items)|Intelligent Items (PF1)]]"
-  - "[[path srd 3.5/rules/ultimate-equipment/artifacts-and-other-items/Cursed Items (Artifacts and Other Items)|Cursed Items (PF1)]]"
 status: draft
-change: modified
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/overview]
 ---

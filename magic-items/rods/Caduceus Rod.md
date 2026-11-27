@@ -7,10 +7,7 @@ caster-level: 12
 prerequisites: "Craft Rod, breath of life, deep slumber, heroism, universal formula, creator must have 10 ranks in Craft (alchemy)"
 price: "142,000 gp"
 cost: "71,000 gp"
-based-on:
-  - "[[path srd 3.5 foundry/items/gear/Caduceus Rod|Caduceus Rod (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/magic-item]
 ---

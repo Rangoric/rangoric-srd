@@ -7,10 +7,7 @@ caster-level: 8
 prerequisites: "Craft Magic Arms and Armor, black tentacles, unholy blight"
 price: "35,501 gp"
 cost: "17,751 gp + 1,420 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Tentacle of the Fiend|Tentacle of the Fiend (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

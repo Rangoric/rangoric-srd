@@ -6,10 +6,7 @@ aura: "Faint abjuration"
 caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, protection from energy or rusting grasp"
 price: "+1 bonus"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/armor-qualities/Rust Proof|Rust Proof (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -8,11 +8,7 @@ caster-level: 12
 prerequisites: "Craft Wondrous Item, continual flame, creator must be 12th level"
 price: "75 gp"
 cost: "62 gp, 5 sp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Ioun Torch|Ioun Torch (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Ioun Torch|Ioun Torch (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

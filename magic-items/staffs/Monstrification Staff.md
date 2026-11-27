@@ -9,11 +9,7 @@ price: "12,000 gp"
 cost: "6,150 gp"
 weight: "4 lbs."
 recharge: true
-based-on:
-  - "[[path srd 3.5/items/staves/Monstrification Staff|Monstrification Staff (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Monstrification Staff|Monstrification Staff (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

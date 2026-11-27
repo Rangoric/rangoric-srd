@@ -6,11 +6,7 @@ aura: "Faint transmutation"
 caster-level: 5
 prerequisites: "Combat Reflexes, Craft Magic Arms and Armor, cat's grace"
 price: "+1 bonus"
-based-on:
-  - "[[path srd 3.5/items/weapon-special-abilities/Countering|Countering (PF1)]]"
-  - "[[path srd 3.5 foundry/items/special-abilities/Countering|Countering (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/magic-item]
 ---

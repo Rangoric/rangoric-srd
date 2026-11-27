@@ -8,11 +8,7 @@ caster-level: 7
 prerequisites: "Craft Wondrous Item, poison"
 price: "2,500 gp"
 cost: "1,250 gp"
-based-on:
-  - "[[path srd 3.5/items/misc/Venomsweat Salve|Venomsweat Salve (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Venomsweat Salve|Venomsweat Salve (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

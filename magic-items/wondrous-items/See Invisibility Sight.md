@@ -10,12 +10,7 @@ caster-level: 8
 prerequisites: "Craft Wondrous Item, true seeing"
 price: "12,000 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/firearms/See Invisibility Sight|See Invisibility Sight (PF1)]]"
-  - "[[path srd 3.5/items/wondrous-items/Seeker's Sight|Seeker's Sight (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Seeker's Sight|Seeker's Sight (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

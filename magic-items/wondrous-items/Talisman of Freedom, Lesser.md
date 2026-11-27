@@ -9,10 +9,7 @@ prerequisites: "Craft Wondrous Item, freedom of movement"
 price: "900 gp"
 cost: "450 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5 foundry/items/wondrous/Talisman of Freedom, Lesser|Talisman of Freedom, Lesser (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/magic-item]
 ---

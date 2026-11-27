@@ -9,10 +9,7 @@ caster-level: 9
 prerequisites: "Craft Magic Arms and Armor"
 price: "50,308 gp"
 cost: "25,154 gp + 2,012 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Domain Rods|Domain Rods (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

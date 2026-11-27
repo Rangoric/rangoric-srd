@@ -6,10 +6,7 @@ aura: "Strong enchantment"
 caster-level: 15
 prerequisites: "Craft Magic Arms and Armor, irresistible dance"
 price: "32,000 gp"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/cursed-items/Plate of Dancing|Plate of Dancing (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/magic-item]
 ---

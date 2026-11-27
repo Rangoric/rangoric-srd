@@ -5,10 +5,7 @@ item-type: "Charm"
 caster-level: 3
 prerequisites: "Craft Charms and Bracelets, good luck"
 price: "4,375 gp"
-based-on:
-  - "[[individual books/Faeries/charms/Clover|Clover (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

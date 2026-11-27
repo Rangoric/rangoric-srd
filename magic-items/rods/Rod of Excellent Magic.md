@@ -8,10 +8,7 @@ caster-level: 21
 prerequisites: "Craft Rod, Craft Epic Rod"
 price: "650,000 gp"
 cost: "to Create: 325,000 gp + 26,000 XP"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rods/Rod of Excellent Magic|Rod of Excellent Magic (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---

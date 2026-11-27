@@ -7,11 +7,7 @@ caster-level: 11
 prerequisites: "Forge Ring, mislead"
 price: "12,000 gp"
 cost: "6,000 gp"
-based-on:
-  - "[[path srd 3.5/items/rings/Decoy Ring|Decoy Ring (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Decoy Ring|Decoy Ring (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/magic-item]
 ---

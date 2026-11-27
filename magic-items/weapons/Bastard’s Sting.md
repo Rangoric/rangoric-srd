@@ -7,11 +7,7 @@ caster-level: 18
 prerequisites: "Craft Magic Arms and Armor, unholy aura, unholy blight, creator must be evil"
 price: "123,035 gp"
 cost: "63,035 gp"
-based-on:
-  - "[[path srd 3.5/items/specific-magic-weapons/Bastard's Sting|Bastard’s Sting (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Bastard's Sting|Bastard’s Sting (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/magic-item]
 ---

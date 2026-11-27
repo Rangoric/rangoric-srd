@@ -5,11 +5,7 @@ item-type: "Weapon Special Ability"
 aliases:
   - "Cold Iron"
 price: "+2 bonus"
-based-on:
-  - "[[individual books/Faeries/weapon-qualities/Cold Iron|Cold Iron (Faeries)]]"
-  - "[[individual books/Faeries/tables/Table 19 Weapon Special Abilities|Table 19: Weapon Special Abilities (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

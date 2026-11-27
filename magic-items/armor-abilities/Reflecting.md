@@ -6,10 +6,7 @@ aura: "Strong abjuration"
 caster-level: 14
 prerequisites: "Craft Magic Arms and Armor, spell turning"
 price: "+5 bonus"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/armor-abilities/Reflecting|Reflecting (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

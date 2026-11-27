@@ -6,10 +6,7 @@ aura: "Moderate transmutation"
 caster-level: 8
 prerequisites: "Craft Magic Arms and Armor, mending"
 price: "+1 bonus"
-based-on:
-  - "[[path srd 3.5/items/firearms/Reliable|Reliable (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

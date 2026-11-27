@@ -8,10 +8,7 @@ caster-level: 9
 prerequisites: "Craft Wondrous Item, dimension door"
 price: "10,080 gp"
 weight: "1 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Cape of the Mountebank|Cape of the Mountebank (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

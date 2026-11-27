@@ -8,11 +8,7 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, remove curse"
 price: "12,000 gp"
 cost: "6,000 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Periapt of Protection from Curses|Periapt of Protection from Curses (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Periapt of Protection From Curses|Periapt of Protection from Curses (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

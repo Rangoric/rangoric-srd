@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, bleed"
 price: "1,000 gp"
 cost: "500 gp"
 weight: "4 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Robe of Needles|Robe of Needles (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Robe of Needles|Robe of Needles (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

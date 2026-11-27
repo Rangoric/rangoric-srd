@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, eagle's splendor, see invisibility"
 price: "15,000 gp"
 cost: "7,500 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Headband of Ninjitsu|Headband of Ninjitsu (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Headband of Ninjitsu|Headband of Ninjitsu (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

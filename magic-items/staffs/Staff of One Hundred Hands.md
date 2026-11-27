@@ -9,11 +9,7 @@ price: "180,200 gp"
 cost: "90,100 gp"
 weight: "5 lbs."
 recharge: true
-based-on:
-  - "[[path srd 3.5/items/staves/Staff of one hundred hands|Staff of One Hundred Hands (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Staff of One Hundred Hands|Staff of One Hundred Hands (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

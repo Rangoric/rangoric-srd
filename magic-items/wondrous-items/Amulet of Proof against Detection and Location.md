@@ -7,10 +7,7 @@ aura: "Moderate abjuration"
 caster-level: 8
 prerequisites: "Craft Wondrous Item, nondetection"
 price: "35,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Amulet of Proof against Detection and Location|Amulet of Proof against Detection and Location (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

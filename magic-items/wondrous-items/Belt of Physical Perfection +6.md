@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, bear's endurance, bull's strength, cat's gr
 price: "144,000 gp"
 cost: "72,000 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Belt of Physical Perfection|Belt of Physical Perfection (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Belt of Physical Perfection +6|Belt of Physical Perfection +6 (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

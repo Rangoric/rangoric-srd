@@ -8,10 +8,7 @@ caster-level: 13
 prerequisites: "Craft Wondrous Item, grasping hand"
 price: "26,000 gp"
 weight: "1 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Iron Bands of Binding|Iron Bands of Binding (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

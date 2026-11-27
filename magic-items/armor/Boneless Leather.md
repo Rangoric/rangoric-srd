@@ -7,11 +7,7 @@ caster-level: 3
 prerequisites: "Craft Magic Arms and Armor, alter self, creator must have 5 ranks in the Acrobatics and Escape Artist skills"
 price: "12,160 gp"
 cost: "6,160 gp"
-based-on:
-  - "[[path srd 3.5/items/armor/Boneless Leather|Boneless Leather (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Boneless Leather|Boneless Leather (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/magic-item]
 ---

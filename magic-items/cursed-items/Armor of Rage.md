@@ -6,11 +6,7 @@ aura: "Strong necromancy"
 caster-level: 16
 prerequisites: "Craft Magic Arms and Armor, bestow curse"
 price: "1,600 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/cursed-items/Armor of Rage|Armor of Rage (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/cursed-items/Armor of Rage|Armor of Rage (Arms & Armor)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

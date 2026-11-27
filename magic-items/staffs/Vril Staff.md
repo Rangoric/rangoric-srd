@@ -9,10 +9,7 @@ price: "200,000 gp"
 cost: "100,000 gp"
 weight: "5 lb."
 recharge: true
-based-on:
-  - "[[path srd 3.5 foundry/items/magic-items/Vril Staff|Vril Staff (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/magic-item]
 ---

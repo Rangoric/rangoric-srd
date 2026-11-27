@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, animal growth"
 price: "1,000 gp"
 cost: "500 gp"
 weight: "2 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Dire Collar|Dire Collar (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Dire Collar|Dire Collar (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

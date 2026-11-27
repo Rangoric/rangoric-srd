@@ -8,10 +8,7 @@ aura: "Strong necromancy"
 caster-level: 13
 prerequisites: "Craft Staff, cause fear, circle of death, enervation, ghoul touch, halt undead, waves of fatigue"
 price: "65,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/staffs/Staff of Necromancy|Staff of Necromancy (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

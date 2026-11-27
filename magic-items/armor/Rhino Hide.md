@@ -7,10 +7,7 @@ caster-level: 9
 prerequisites: "Craft Magic Arms and Armor, bull’s strength"
 price: "5,165 gp"
 cost: "2,665 gp + 200 XP"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/armor/Rhino Hide|Rhino Hide (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

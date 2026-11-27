@@ -6,10 +6,7 @@ aura: "Moderate transmutation"
 caster-level: 6
 prerequisites: "Craft Magic Arms and Armor, bull’s strength"
 price: "+2 bonus (+2 to Str), +3 bonus (+4 to Str)"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/armor-qualities/Bull’s Armor|Bull’s Armor (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

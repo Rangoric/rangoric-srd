@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, cat's grace, shield, creator must have the 
 price: "8,000 gp"
 cost: "4,000 gp"
 weight: "2 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Duelist's Vambraces|Duelist's Vambraces (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Duelist's Vambraces|Duelist's Vambraces (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

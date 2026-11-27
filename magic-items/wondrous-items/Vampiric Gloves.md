@@ -8,11 +8,7 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, bleed, vampiric touch"
 price: "18,000 gp"
 cost: "9,000 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Vampiric Gloves|Vampiric Gloves (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Vampiric Gloves|Vampiric Gloves (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

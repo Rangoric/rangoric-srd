@@ -7,11 +7,7 @@ caster-level: 13
 prerequisites: "Craft Magic Arms and Armor, heightened finger of death"
 price: "4,057 gp"
 cost: "2,032 gp + 162 XP"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/weapons/Slaying Arrow|Slaying Arrow (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Arrow, Slaying|Arrow, Slaying (Arms & Armor)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

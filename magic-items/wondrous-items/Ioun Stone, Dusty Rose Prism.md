@@ -7,11 +7,7 @@ aura: "Strong varied"
 caster-level: 12
 prerequisites: "Craft Wondrous Item, creator must be 12th level"
 price: "5,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Ioun Stones|Ioun Stones (3.5)]]"
-  - "[[path srd 3.5/items/wondrous-items/Ioun Stone|Ioun Stone (PF1)]]"
 status: draft
-change: modified
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/magic-item]
 ---

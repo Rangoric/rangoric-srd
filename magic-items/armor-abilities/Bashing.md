@@ -6,11 +6,7 @@ aura: "Moderate transmutation"
 caster-level: 8
 prerequisites: "Craft Magic Arms and Armor, bull’s strength"
 price: "+1 bonus"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/armor-abilities/Bashing|Bashing (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/armor-qualities/Bashing|Bashing (Arms & Armor)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

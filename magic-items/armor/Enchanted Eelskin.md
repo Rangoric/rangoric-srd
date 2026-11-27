@@ -7,11 +7,7 @@ caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, grease, invisibility, touch of the sea"
 price: "11,160 gp"
 cost: "5,660 gp"
-based-on:
-  - "[[path srd 3.5/items/specific-magic-armor-and-shields/Enchanted Eelskin|Enchanted Eelskin (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Enchanted Eelskin|Enchanted Eelskin (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/magic-item]
 ---

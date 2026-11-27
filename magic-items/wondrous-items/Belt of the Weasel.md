@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, beast shape I"
 price: "10,000 gp"
 cost: "5,000 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Belt of the Weasel|Belt of the Weasel (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Belt of the Weasel|Belt of the Weasel (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

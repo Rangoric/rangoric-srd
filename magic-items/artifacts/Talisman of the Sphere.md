@@ -5,10 +5,7 @@ item-type: "Minor Artifact"
 aura: "Strong transmutation"
 caster-level: 16
 weight: "1 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/artifacts/Talisman of the Sphere|Talisman of the Sphere (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

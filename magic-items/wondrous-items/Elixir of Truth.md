@@ -7,10 +7,7 @@ aura: "Faint enchantment"
 caster-level: 5
 prerequisites: "Craft Wondrous Item, zone of truth"
 price: "500 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Elixir of Truth|Elixir of Truth (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -8,10 +8,7 @@ aliases:
 caster-level: 12
 prerequisites: "Forge Ring, limited wish (Sorcery I–Sorcery III)"
 price: "15,000 gp"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/magic-items/Sorcery|Sorcery (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

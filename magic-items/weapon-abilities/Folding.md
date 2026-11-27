@@ -6,11 +6,7 @@ aura: "Faint transmutation"
 caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, shrink item"
 price: "+1 bonus"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapon-qualities/Folding|Folding (Arms & Armor)]]"
-  - "[[individual books/Faeries/weapon-qualities/Folding|Folding (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

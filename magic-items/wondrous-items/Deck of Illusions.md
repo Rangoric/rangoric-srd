@@ -8,10 +8,7 @@ caster-level: 6
 prerequisites: "Craft Wondrous Item, major image"
 price: "8,100 gp"
 weight: "1/2 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Deck of Illusions|Deck of Illusions (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -8,10 +8,7 @@ aura: "Strong abjuration"
 caster-level: 13
 prerequisites: "Forge Ring, spell turning"
 price: "98,280 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rings/Ring of Spell Turning|Ring of Spell Turning (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

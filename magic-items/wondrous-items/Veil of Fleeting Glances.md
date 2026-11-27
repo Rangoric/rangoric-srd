@@ -8,11 +8,7 @@ caster-level: 3
 prerequisites: "Craft Wondrous Item, blindness/deafness, true strike"
 price: "9,000 gp"
 cost: "4,500 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Veil of Fleeting Glances|Veil of Fleeting Glances (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Veil of Fleeting Glances|Veil of Fleeting Glances (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

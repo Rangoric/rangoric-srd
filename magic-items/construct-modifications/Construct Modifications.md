@@ -1,11 +1,7 @@
 ---
 srd-type: "overview"
 section: "Magic Items"
-based-on:
-  - "[[path srd 3.5/rules/ultimate-magic/mastering-magic/Building and Modifying Constructs#Construct Modifications|Construct Modifications (PF1)]]"
-  - "[[path srd 3.5 foundry/rules/rules/magic/mastering-magic/Construct Modifications|Construct Modifications (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/overview]
 ---

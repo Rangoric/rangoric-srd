@@ -8,11 +8,7 @@ caster-level: 15
 prerequisites: "Craft Wondrous Item, charm monster, permanency"
 price: "3,000 gp"
 cost: "1,500 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Philter of Love|Philter of Love (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Philter of Love|Philter of Love (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

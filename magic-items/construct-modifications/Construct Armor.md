@@ -5,10 +5,7 @@ item-type: "Construct Modification"
 cr-increase: "+1"
 prerequisites: "Craft Construct, Craft Magic Arms and Armor, animate objects, the construct modified must be the same size as the creator"
 cost: "35,000 gp"
-based-on:
-  - "[[path srd 3.5/items/building-and-modifying-constructs/Construct Armor|Construct Armor (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/magic-item]
 ---

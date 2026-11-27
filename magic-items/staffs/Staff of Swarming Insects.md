@@ -8,10 +8,7 @@ aura: "Moderate conjuration"
 caster-level: 9
 prerequisites: "Craft Staff, insect plague, summon swarm"
 price: "24,750 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/staffs/Staff of Swarming Insects|Staff of Swarming Insects (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

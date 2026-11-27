@@ -5,10 +5,7 @@ item-type: "Armor Special Ability"
 caster-level: 13
 prerequisites: "Craft Magic Arms and Armor, Star of Life, The Drum"
 price: "+1 bonus"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/armor-qualities/Enduring|Enduring (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

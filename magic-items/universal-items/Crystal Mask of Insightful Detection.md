@@ -7,10 +7,7 @@ manifester-level: 7
 prerequisites: "Craft Universal Item, creator must have 6 ranks in both Investigation and Perception"
 price: "20,250 gp"
 weight: "1/2 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/universal-items/Crystal Mask of Insightful Detection|Crystal Mask of Insightful Detection (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

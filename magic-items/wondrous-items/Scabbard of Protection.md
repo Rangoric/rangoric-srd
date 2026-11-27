@@ -8,10 +8,7 @@ caster-level: 7
 prerequisites: "Craft Wondrous Item, mage armor, resist energy"
 price: "31,000 gp"
 cost: "15,500 gp + 1,240 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Scabbard of Protection|Scabbard of Protection (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -8,11 +8,7 @@ caster-level: 16
 prerequisites: "Craft Wondrous Item, creator must be able to prepare extracts of the extract level to be recalled"
 price: "4,000 gp"
 cost: "2,000 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Boro Bead|Boro Bead (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Boro Bead 2nd Level|Boro Bead 2nd Level (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

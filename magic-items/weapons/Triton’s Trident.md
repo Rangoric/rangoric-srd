@@ -7,11 +7,7 @@ caster-level: 6
 prerequisites: "Craft Magic Arms and Armor, hydraulic push, hydraulic torrent, summon monster I"
 price: "15,065 gp"
 cost: "7,690 gp"
-based-on:
-  - "[[path srd 3.5/items/specific-magic-weapons/Triton's Trident|Triton’s Trident (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Triton's Trident|Triton’s Trident (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/magic-item]
 ---

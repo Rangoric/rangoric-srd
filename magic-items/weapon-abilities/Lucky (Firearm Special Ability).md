@@ -6,10 +6,7 @@ aura: "Moderate transmutation"
 caster-level: 8
 prerequisites: "Craft Magic Arms and Armor, heroism, creator must be a grit user"
 price: "+1 bonus"
-based-on:
-  - "[[path srd 3.5/items/firearms/Lucky|Lucky (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

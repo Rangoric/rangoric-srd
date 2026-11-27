@@ -7,10 +7,7 @@ caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, creator must be good, fly"
 price: "22,400 gp"
 cost: "12,550 gp + 1,004 XP"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/armor/Celestial Armor|Celestial Armor (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

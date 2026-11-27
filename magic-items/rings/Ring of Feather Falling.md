@@ -8,10 +8,7 @@ aura: "Faint transmutation"
 caster-level: 1
 prerequisites: "Forge Ring, feather fall"
 price: "2,200 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rings/Ring of Feather Falling|Ring of Feather Falling (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

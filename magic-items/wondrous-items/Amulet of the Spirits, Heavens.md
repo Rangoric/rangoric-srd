@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, darkness, locate creature, creator must be 
 price: "8,000 gp"
 cost: "4,000 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Amulet of the Spirits|Amulet of the Spirits (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Amulet of the Spirits, Heavens|Amulet of the Spirits, Heavens (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

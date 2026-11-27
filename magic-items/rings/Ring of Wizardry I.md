@@ -9,10 +9,7 @@ aura: "Moderate (no school)"
 caster-level: 11
 prerequisites: "Forge Ring, limited wish"
 price: "20,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rings/Ring of Wizardry|Ring of Wizardry (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -7,10 +7,7 @@ aliases:
 caster-level: 20
 prerequisites: "Forge Ring, Forge Epic Ring, sequester"
 price: "300,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rings/Ring of Sequestering|Ring of Sequestering (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---

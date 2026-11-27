@@ -7,10 +7,7 @@ caster-level: 13
 prerequisites: "Craft Magic Arms and Armor, contagion"
 price: "52,260 gp"
 cost: "26,130 gp + 2,090 XP"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/armor/Demon Armor|Demon Armor (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

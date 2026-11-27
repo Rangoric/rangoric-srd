@@ -9,13 +9,7 @@ prerequisites: "Craft Wondrous Item, eagle's splendor, fox's cunning, and/or owl
 price: "90,000 gp"
 cost: "45,000 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Headband of Mental Prowess|Headband of Mental Prowess (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Headband of Mental Prowess +6 (Int & Cha)|Headband of Mental Prowess +6 (Int & Cha) (PF1 F)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Headband of Mental Prowess +6 (Int & Wis)|Headband of Mental Prowess +6 (Int & Wis) (PF1 F)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Headband of Mental Prowess +6 (Wis & Cha)|Headband of Mental Prowess +6 (Wis & Cha) (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

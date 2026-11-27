@@ -9,10 +9,7 @@ caster-level: 11
 prerequisites: "Craft Magic Arms and Armor, disintegrate"
 price: "1,696 gp"
 cost: "851 gp + 67 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Arrow, Rot|Arrow, Rot (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

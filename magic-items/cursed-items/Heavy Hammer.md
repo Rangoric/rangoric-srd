@@ -5,11 +5,7 @@ item-type: "Cursed Item"
 aura: "Moderate transmutation"
 caster-level: 8
 intended-item: "+2 warhammer"
-based-on:
-  - "[[path srd 3.5/items/cursed-items/Heavy Hammer|Heavy Hammer (PF1)]]"
-  - "[[path srd 3.5 foundry/items/cursed/Heavy Hammer|Heavy Hammer (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

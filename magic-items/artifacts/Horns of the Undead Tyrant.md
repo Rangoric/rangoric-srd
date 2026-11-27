@@ -6,11 +6,7 @@ aura: "Overwhelming necromancy"
 caster-level: 22
 slot: "head"
 weight: "8 lbs."
-based-on:
-  - "[[path srd 3.5/items/artifacts/Horns of Naraga|Horns of Naraga (PF1)]]"
-  - "[[path srd 3.5 foundry/items/artifacts/Horns of Naraga|Horns of Naraga (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

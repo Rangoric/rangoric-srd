@@ -9,11 +9,7 @@ prerequisites: "Craft Magic Arms and Armor, Craft Wondrous Item, creator's caste
 price: "36,000 gp"
 cost: "18,000 gp"
 weight: "4 lbs. (for four)"
-based-on:
-  - "[[path srd 3.5/items/featured-race/Horseshoes of Crushing Blows|Horseshoes of Crushing Blows (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Horseshoes of Crushing Blows +3|Horseshoes of Crushing Blows +3 (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

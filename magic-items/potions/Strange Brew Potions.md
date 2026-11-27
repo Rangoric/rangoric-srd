@@ -1,11 +1,7 @@
 ---
 srd-type: "overview"
 section: "Magic Items"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/rules/Strange Brew Potions|Strange Brew Potions (Spells & Magic)]]"
-  - "[[individual books/Spells & Magic v3.0/rules/Strange Brew Descriptions|Strange Brew Descriptions (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/overview]
 ---

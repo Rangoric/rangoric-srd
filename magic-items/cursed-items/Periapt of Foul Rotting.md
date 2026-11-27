@@ -5,10 +5,7 @@ item-type: "Cursed Item"
 aura: "Faint abjuration"
 caster-level: 10
 price: "17,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/cursed-items/Periapt of Foul Rotting|Periapt of Foul Rotting (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

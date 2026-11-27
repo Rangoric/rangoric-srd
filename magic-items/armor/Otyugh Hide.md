@@ -7,11 +7,7 @@ caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, contagion, stinking cloud"
 price: "2,565 gp"
 cost: "1,365 gp"
-based-on:
-  - "[[path srd 3.5/items/specific-magic-armor-and-shields/Otyugh Hide|Otyugh Hide (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Otyugh Hide|Otyugh Hide (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/magic-item]
 ---

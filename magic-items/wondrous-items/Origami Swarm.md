@@ -8,11 +8,7 @@ caster-level: 3
 prerequisites: "Craft Wondrous Item, animate objects"
 price: "300 gp"
 cost: "150 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Origami Swarm|Origami Swarm (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Origami Swarm|Origami Swarm (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

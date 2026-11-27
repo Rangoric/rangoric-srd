@@ -5,10 +5,7 @@ item-type: "Potion"
 caster-level: 3
 prerequisites: "Brew Potion, enthrall, spellcaster level 6th+"
 price: "1,350 gp"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/magic-items/Draught of the Nightingale|Draught of the Nightingale (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

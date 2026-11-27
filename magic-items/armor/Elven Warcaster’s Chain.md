@@ -6,10 +6,7 @@ aura: "Moderate enchantment"
 caster-level: 12
 prerequisites: "Craft Magic Arms and Armor, 9 ranks in Craft (armorsmithing), imbue with spell ability, levitate"
 price: "29,150 gp"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Elven Warcaster’s Chain|Elven Warcaster’s Chain (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -8,11 +8,7 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, ray of enfeeblement, vampiric touch"
 price: "3,500 gp"
 cost: "1,750 gp"
-based-on:
-  - "[[path srd 3.5/items/misc/Cap of Enervation|Cap of Enervation (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Cap of Enervation|Cap of Enervation (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

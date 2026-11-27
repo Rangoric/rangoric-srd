@@ -8,11 +8,7 @@ aura: "Moderate necromancy"
 caster-level: 10
 prerequisites: "Craft Rod, Craft Magic Arms and Armor, poison, creator must be evil"
 price: "19,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rods/Rod of Viper|Rod of Viper (3.5)]]"
-  - "[[path srd 3.5/items/rods/Rod of the Viper|Rod of the Viper (PF1)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

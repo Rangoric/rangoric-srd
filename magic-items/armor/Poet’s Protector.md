@@ -7,10 +7,7 @@ caster-level: 9
 prerequisites: "Craft Magic Arms and Armor, dispel magic, mirror image"
 price: "30,055 gp"
 cost: "15,110 gp + 1,195 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Poet’s Protector|Poet’s Protector (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, Craft Magic Arms and Armor, protection from
 price: "13,900 gp"
 cost: "6,950 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Arrowmaster's Bracers|Arrowmaster's Bracers (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Arrowmaster's Bracers|Arrowmaster's Bracers (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

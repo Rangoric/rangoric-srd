@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, feather fall, fly, poison, resistance, crea
 price: "78,600 gp"
 cost: "39,300 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Wyvern Cloak|Wyvern Cloak (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Wyvern Cloak|Wyvern Cloak (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

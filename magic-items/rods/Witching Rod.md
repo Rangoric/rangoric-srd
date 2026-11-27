@@ -7,10 +7,7 @@ caster-level: 11
 prerequisites: "Craft Rod, control water, speak with dead, stone shape"
 price: "31,000 gp"
 cost: "15,500 gp"
-based-on:
-  - "[[path srd 3.5 foundry/items/gear/Witching Rod|Witching Rod (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/magic-item]
 ---

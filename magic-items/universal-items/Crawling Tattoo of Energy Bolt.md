@@ -6,10 +6,7 @@ aura: "Faint psychokinesis"
 manifester-level: 5
 prerequisites: "Craft Universal Item, energy bolt"
 price: "750 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/universal-items/Crawling Tattoo of Energy Bolt|Crawling Tattoo of Energy Bolt (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

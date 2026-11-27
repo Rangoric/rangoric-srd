@@ -5,11 +5,7 @@ item-type: "Epic Weapon Special Ability"
 caster-level: 21
 prerequisites: "Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, cone of cold"
 price: "+6 bonus"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/weapon-abilities/Icy Blast|Icy Blast (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/weapon-qualities/Icy Blast|Icy Blast (Arms & Armor)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---

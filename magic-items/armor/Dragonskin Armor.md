@@ -6,10 +6,7 @@ caster-level: 24
 prerequisites: "Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, protection from energy, shapechange"
 price: "564,550 gp"
 cost: "to Create: 283,250 gp + 15,629 XP"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/armor/Dragonskin Armor|Dragonskin Armor (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---

@@ -8,10 +8,7 @@ aura: "Faint illusion [glamer]"
 caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, magic aura"
 price: "+1 bonus"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapon-qualities/Undetectable|Undetectable (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

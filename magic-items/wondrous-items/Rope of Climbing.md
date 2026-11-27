@@ -8,10 +8,7 @@ caster-level: 3
 prerequisites: "Craft Wondrous Item, animate rope"
 price: "3,000 gp"
 weight: "3 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Rope of Climbing|Rope of Climbing (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

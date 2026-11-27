@@ -7,10 +7,7 @@ aura: "Strong (many schools)"
 caster-level: 17
 prerequisites: "Craft Wondrous Items and one of the following spells per bead, as appropriate: cure serious wounds, remove blindness/ deafness, or remove disease (healing); righteous might (karma); gate (summons); wind walk (wind walking)"
 price: "95,800 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Strand of Prayer Beads|Strand of Prayer Beads (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

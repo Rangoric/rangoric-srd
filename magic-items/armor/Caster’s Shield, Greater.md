@@ -7,11 +7,7 @@ caster-level: 11
 prerequisites: "Craft Magic Arms and Armor, Scribe Scroll"
 price: "10,153 gp"
 cost: "5,153 gp"
-based-on:
-  - "[[path srd 3.5/items/specific-magic-armor-and-shields/Caster's Shield, Greater|Caster’s Shield, Greater (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Caster's Shield, Greater|Caster’s Shield, Greater (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/magic-item]
 ---

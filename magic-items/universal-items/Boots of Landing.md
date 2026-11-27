@@ -7,10 +7,7 @@ manifester-level: 2
 prerequisites: "Craft Universal Item, catfall"
 price: "1,000 gp"
 weight: "1 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/universal-items/Boots of Landing|Boots of Landing (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

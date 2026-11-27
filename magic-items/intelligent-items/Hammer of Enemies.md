@@ -14,11 +14,7 @@ ego: 14
 alignment: "chaotic neutral"
 senses: "30 ft., darkvision"
 language: "speech (Common)"
-based-on:
-  - "[[path srd 3.5/items/intelligent-items/Hammer of Enemies|Hammer of Enemies (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Hammer of Enemies|Hammer of Enemies (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -7,11 +7,7 @@ caster-level: 9
 prerequisites: "Craft Magic Arms and Armor, slay living"
 price: "18,302 gp"
 cost: "9,302 gp + 720 XP"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/weapons/Assassin’s Dagger|Assassin’s Dagger (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Assassin’s Dagger|Assassin’s Dagger (Arms & Armor)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

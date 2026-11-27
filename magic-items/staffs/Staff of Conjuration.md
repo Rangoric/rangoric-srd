@@ -8,10 +8,7 @@ aura: "Strong conjuration"
 caster-level: 13
 prerequisites: "Craft Staff, cloudkill, stinking cloud, summon monster VI, summon swarm, unseen servant"
 price: "65,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/staffs/Staff of Conjuration|Staff of Conjuration (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

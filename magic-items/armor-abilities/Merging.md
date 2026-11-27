@@ -6,11 +6,7 @@ aura: "Moderate transmutation"
 caster-level: 10
 prerequisites: "Craft Magic Arms and Armor, versatile weapon"
 price: "+2 bonus"
-based-on:
-  - "[[path srd 3.5/rules/ultimate-equipment/magic-arms-and-armor/Armor Special Abilities#Merging|Merging (PF1)]]"
-  - "[[path srd 3.5 foundry/items/special-abilities/Merging|Merging (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/magic-item]
 ---

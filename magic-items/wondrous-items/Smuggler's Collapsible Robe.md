@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, secret chest, magic aura, arcane eye"
 price: "48,000 gp"
 cost: "24,000 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Smuggler's Collapsible Robe|Smuggler's Collapsible Robe (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Smuggler's Collapsible Robe|Smuggler's Collapsible Robe (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

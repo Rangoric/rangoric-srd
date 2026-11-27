@@ -4,11 +4,7 @@ section: "Magic Items"
 item-type: "Minor Artifact"
 aura: "Strong (all schools)"
 caster-level: 20
-based-on:
-  - "[[path srd 3.5/items/artifacts/Knucklebone of Fickle Fortune|Knucklebone of Fickle Fortune (PF1)]]"
-  - "[[path srd 3.5 foundry/items/artifacts/Knucklebone of Fickle Fortune|Knucklebone of Fickle Fortune (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

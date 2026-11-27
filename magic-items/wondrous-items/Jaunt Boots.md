@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, jester's jaunt"
 price: "7,200 gp"
 cost: "3,600 gp"
 weight: "2 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Jaunt Boots|Jaunt Boots (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Jaunt Boots|Jaunt Boots (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

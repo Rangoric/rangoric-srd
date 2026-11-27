@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, blur, chill touch, creator must be a shaman
 price: "10,000 gp"
 cost: "5,000 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Amulet of the Spirits|Amulet of the Spirits (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Amulet of the Spirits, Waves|Amulet of the Spirits, Waves (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

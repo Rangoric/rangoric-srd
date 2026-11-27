@@ -7,10 +7,7 @@ caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, clairaudience/clairvoyance"
 price: "21,000 gp"
 cost: "10,500 gp + 840 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Arrow of Seeing|Arrow of Seeing (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

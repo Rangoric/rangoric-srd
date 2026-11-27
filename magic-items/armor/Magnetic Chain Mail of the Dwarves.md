@@ -6,10 +6,7 @@ aura: "Moderate transmutation"
 caster-level: 12
 prerequisites: "Craft Magic Arms and Armor, telekinesis"
 price: "30,000 gp"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Magnetic Chain Mail of the Dwarves|Magnetic Chain Mail of the Dwarves (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

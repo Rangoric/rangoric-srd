@@ -5,11 +5,7 @@ item-type: "Cursed Item"
 aura: "Moderate evocation"
 caster-level: 8
 intended-item: "+2 battleaxe"
-based-on:
-  - "[[path srd 3.5/items/cursed-items/Biting Battleaxe|Biting Battleaxe (PF1)]]"
-  - "[[path srd 3.5 foundry/items/cursed/Biting Battleaxe|Biting Battleaxe (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

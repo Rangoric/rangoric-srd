@@ -6,11 +6,7 @@ aura: "Moderate conjuration"
 caster-level: 9
 prerequisites: "Craft Magic Arms and Armor, mass cure light wounds"
 price: "+18,000 gp"
-based-on:
-  - "[[path srd 3.5/rules/ultimate-equipment/magic-arms-and-armor/Armor Special Abilities#Martyring|Martyring (PF1)]]"
-  - "[[path srd 3.5 foundry/items/special-abilities/Martyring|Martyring (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -7,11 +7,7 @@ caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, bear's endurance"
 price: "11,165 gp"
 cost: "5,665 gp"
-based-on:
-  - "[[path srd 3.5/items/specific-armors-shields/Tireless Tracking Hide|Tireless Tracking Hide (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Tireless Tracking Hide|Tireless Tracking Hide (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/magic-item]
 ---

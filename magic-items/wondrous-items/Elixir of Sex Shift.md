@@ -8,11 +8,7 @@ caster-level: 9
 prerequisites: "Craft Wondrous Item, polymorph"
 price: "2,250 gp"
 cost: "1,125 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Elixir of Sex Shift|Elixir of Sex Shift (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Elixir of Sex Shift|Elixir of Sex Shift (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -7,10 +7,7 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, reduce person, bless"
 price: "14,000 gp"
 weight: "½ lb"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/magic-items/Pipe of the Little Folk|Pipe of the Little Folk (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

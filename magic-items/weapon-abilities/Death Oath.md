@@ -6,10 +6,7 @@ aura: "Strong (all schools)"
 caster-level: 19
 prerequisites: "Craft Magic Arms and Armor, dimensional anchor, finger of death, geas/quest, ray of enfeeblement, soul bind, an additional 1,000 gp per HD of the target of the oath must be spent in the ritual"
 price: "+1 to +4 bonus per weapon"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapon-qualities/Death Oath|Death Oath (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

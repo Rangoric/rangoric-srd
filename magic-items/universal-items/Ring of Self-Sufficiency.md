@@ -6,10 +6,7 @@ aura: "Moderate psychometabolism"
 manifester-level: 7
 prerequisites: "Craft Universal Item, creator must have 7 ranks in Meditation"
 price: "10,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/universal-items/Ring of Self-Sufficiency|Ring of Self-Sufficiency (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

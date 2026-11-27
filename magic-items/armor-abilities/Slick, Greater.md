@@ -6,11 +6,7 @@ aura: "Moderate conjuration"
 caster-level: 15
 prerequisites: "Craft Magic Arms and Armor, grease"
 price: "+33,750 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/armor-abilities/Slick, Greater|Slick, Greater (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/armor-qualities/Slick, Greater|Slick, Greater (Arms & Armor)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

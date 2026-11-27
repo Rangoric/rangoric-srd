@@ -8,10 +8,7 @@ caster-level: 21
 prerequisites: "Craft Rod, Craft Epic Rod, fabricate, mage’s magnificent mansion"
 price: "297,400 gp"
 cost: "to Create: 191,200 gp + 12,124 XP"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rods/Rod of Epic Splendor|Rod of Epic Splendor (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---

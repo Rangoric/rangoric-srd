@@ -8,11 +8,7 @@ caster-level: 8
 prerequisites: "Combat Casting, Craft Wondrous Item, creator must be an elf"
 price: "7,500 gp"
 cost: "3,750 gp"
-based-on:
-  - "[[path srd 3.5/items/core-race/Gloves of Elvenkind|Gloves of Elvenkind (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Gloves of Elvenkind|Gloves of Elvenkind (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

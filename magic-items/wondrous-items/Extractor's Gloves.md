@@ -8,11 +8,7 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, magic weapon, vampiric touch"
 price: "5,000 gp"
 cost: "2,500 gp"
-based-on:
-  - "[[path srd 3.5/items/misc/Extractor's Gloves|Extractor's Gloves (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Extractor's Gloves|Extractor's Gloves (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

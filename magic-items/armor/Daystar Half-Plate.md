@@ -7,11 +7,7 @@ caster-level: 15
 prerequisites: "Craft Magic Arms and Armor, daylight, sunburst"
 price: "81,250 gp"
 cost: "41,000 gp"
-based-on:
-  - "[[path srd 3.5/items/armor/Daystar Half-Plate|Daystar Half-Plate (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Daystar Half-plate|Daystar Half-Plate (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -8,11 +8,7 @@ caster-level: 6
 prerequisites: "Craft Wondrous Item, Improved Blind-Fight, darkness"
 price: "12,000 gp"
 cost: "6,000 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Blind Man's Fold|Blind Man's Fold (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Blind Man's Fold|Blind Man's Fold (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

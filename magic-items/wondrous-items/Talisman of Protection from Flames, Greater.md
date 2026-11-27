@@ -9,10 +9,7 @@ prerequisites: "Craft Wondrous Item, protection from energy"
 price: "12,500 gp"
 cost: "6,250 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5 foundry/items/wondrous/Talisman of Protection From Flames, Greater|Talisman of Protection From Flames, Greater (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/magic-item]
 ---

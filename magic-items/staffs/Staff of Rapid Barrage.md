@@ -7,10 +7,7 @@ aliases:
 caster-level: 25
 prerequisites: "Craft Staff, Craft Epic Staff, Enhance Spell, Heighten Spell, Intensify Spell, Quicken Spell, fireball, magic missile"
 price: "417,750 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/staffs/Staff of Rapid Barrage|Staff of Rapid Barrage (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---

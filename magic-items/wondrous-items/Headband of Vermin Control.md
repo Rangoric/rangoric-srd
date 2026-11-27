@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, control vermin"
 price: "1,000 gp"
 cost: "500 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/misc/Headband of Vermin Control|Headband of Vermin Control (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Headband of Vermin Control|Headband of Vermin Control (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

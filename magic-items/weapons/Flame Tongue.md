@@ -7,11 +7,7 @@ caster-level: 12
 prerequisites: "Craft Magic Arms and Armor, scorching ray, and flame blade, flame strike, or fireball"
 price: "20,715 gp"
 cost: "10,515 gp + 816 XP"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/weapons/Flame Tongue|Flame Tongue (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Flame Tongue|Flame Tongue (Arms & Armor)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

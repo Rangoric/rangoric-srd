@@ -8,10 +8,7 @@ caster-level: 7
 prerequisites: "Craft Magic Arms and Armor, air walk"
 price: "112,250 gp"
 cost: "56,125 gp + 4,490 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Leggings of Mobility|Leggings of Mobility (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

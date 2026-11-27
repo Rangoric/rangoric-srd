@@ -7,11 +7,7 @@ caster-level: 3
 prerequisites: "Forge Ring, fox's cunning, creator must have 5 ranks in the relevant skill"
 price: "5,000 gp"
 cost: "2,500 gp"
-based-on:
-  - "[[path srd 3.5/items/rings/Ring of Maniacal Devices|Ring of Maniacal Devices (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Ring of Maniacal Devices|Ring of Maniacal Devices (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -8,11 +8,7 @@ caster-level: 1
 prerequisites: "Craft Wondrous Item, bane, bless"
 price: "2,200 gp"
 cost: "1,100 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Challenger's Gloves|Challenger's Gloves (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Challenger's Gloves|Challenger's Gloves (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

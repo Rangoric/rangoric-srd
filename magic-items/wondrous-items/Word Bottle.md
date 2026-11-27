@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, imbue with spell ability"
 price: "1,500 gp"
 cost: "750 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Word Bottle|Word Bottle (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Word Bottle|Word Bottle (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

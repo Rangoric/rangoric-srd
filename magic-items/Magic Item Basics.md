@@ -1,13 +1,7 @@
 ---
 srd-type: "overview"
 section: "Magic Items"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/Magic Item Basics|Magic Item Basics (3.5)]]"
-  - "[[individual books/Faeries/rules/Magic Items#Magic Item Special Ability—Resizing|Magic Items (Faeries)]]"
-  - "[[path srd 3.5/rules/core-rulebook/magic-items/Magic Items (Magic Items)|Magic Items (PF1)]]"
-  - "[[path srd 3.5/rules/ultimate-equipment/wondrous-items/Extradimensional Spaces|Extradimensional Spaces (PF1)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---

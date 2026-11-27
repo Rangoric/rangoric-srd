@@ -7,11 +7,7 @@ caster-level: 20
 prerequisites: "Craft Wondrous Item, Craft Epic Wondrous Item, cat’s grace, expeditious retreat, haste, jump"
 price: "256,000 gp"
 weight: "1 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Boots of Swiftness|Boots of Swiftness (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Boots of Swiftness|Boots of Swiftness (Arms & Armor)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---

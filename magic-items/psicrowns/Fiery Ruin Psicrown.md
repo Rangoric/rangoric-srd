@@ -8,10 +8,7 @@ aura: "Strong psychokinesis"
 manifester-level: 15
 prerequisites: "Craft Psicrown, energy ball, energy cone, energy missile, energy stun, fiery discorporation"
 price: "67,500 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/psicrowns/Fiery Ruin Psicrown|Fiery Ruin Psicrown (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

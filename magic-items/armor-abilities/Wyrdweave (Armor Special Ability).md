@@ -8,10 +8,7 @@ aura: "Moderate (aura of whatever school the wielder is attuned to at the time)"
 caster-level: 9
 prerequisites: "Craft Magic Arms and Armor, mage armor, greater magic weapon"
 price: "+2 bonus"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/armor-qualities/Wyrdweave|Wyrdweave (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

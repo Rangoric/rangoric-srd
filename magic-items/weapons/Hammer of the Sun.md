@@ -7,10 +7,7 @@ caster-level: 15
 prerequisites: "Craft Magic Arms and Armor, daylight, sunbeam, heal, levitate"
 price: "240,800 gp"
 cost: "120,400 gp + 9,632 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Hammer of the Sun|Hammer of the Sun (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

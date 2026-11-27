@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, feather step"
 price: "2,000 gp"
 cost: "1,000 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Feather Step Slippers|Feather Step Slippers (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Feather Step Slippers|Feather Step Slippers (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -8,11 +8,7 @@ caster-level: 3
 prerequisites: "Craft Wondrous Item, darkness"
 price: "600 gp"
 cost: "300 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Dust of Darkness|Dust of Darkness (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Dust of Darkness|Dust of Darkness (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

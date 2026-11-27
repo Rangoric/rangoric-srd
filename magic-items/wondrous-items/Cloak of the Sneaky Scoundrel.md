@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, shrink item, vanish"
 price: "6,400 gp"
 cost: "3,200 gp"
 weight: "2 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Cloak of the Sneaky Scoundrel|Cloak of the Sneaky Scoundrel (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Cloak of the Sneaky Scoundrel|Cloak of the Sneaky Scoundrel (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -5,11 +5,7 @@ item-type: "Major Artifact"
 aura: "Strong necromancy"
 caster-level: 18
 weight: "8 lbs."
-based-on:
-  - "[[path srd 3.5/items/artifacts/Skullsoul|Skullsoul (PF1)]]"
-  - "[[path srd 3.5 foundry/items/artifacts/Skullsoul|Skullsoul (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

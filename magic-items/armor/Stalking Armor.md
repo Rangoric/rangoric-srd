@@ -7,11 +7,7 @@ caster-level: 6
 prerequisites: "Craft Magic Arms and Armor, chameleon stride, perceive cues"
 price: "8,575 gp"
 cost: "4,375 gp"
-based-on:
-  - "[[path srd 3.5/items/specific-armors-shields/Stalking Armor|Stalking Armor (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Stalking Armor|Stalking Armor (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/magic-item]
 ---

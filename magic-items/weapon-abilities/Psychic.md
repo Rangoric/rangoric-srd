@@ -6,10 +6,7 @@ aura: "Strong clairsentience"
 manifester-level: 17
 prerequisites: "Craft Psionic Arms and Armor, reality revision"
 price: "+35,000"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/weapon-abilities/Psychic|Psychic (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

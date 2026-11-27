@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, Improved Disarm, pilfering hand, creator mu
 price: "35,000 gp"
 cost: "17,500 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Cloak of Disarming|Cloak of Disarming (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Cloak of Disarming|Cloak of Disarming (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

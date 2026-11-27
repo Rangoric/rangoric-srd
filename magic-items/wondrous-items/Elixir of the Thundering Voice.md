@@ -8,11 +8,7 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, sound burst"
 price: "250 gp"
 cost: "125 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Elixir of the Thundering Voice|Elixir of the Thundering Voice (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Elixir of the Thundering Voice|Elixir of the Thundering Voice (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

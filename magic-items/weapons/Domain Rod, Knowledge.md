@@ -9,10 +9,7 @@ caster-level: 11
 prerequisites: "Craft Magic Arms and Armor, clairaudience/clairvoyance"
 price: "60,308 gp"
 cost: "30,154 gp + 2,413 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Domain Rods|Domain Rods (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

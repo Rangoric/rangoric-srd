@@ -7,10 +7,7 @@ caster-level: 8
 prerequisites: "Craft Magic Arms and Armor, summon monster I, freedom of movement, spider climb, neutralize poison"
 price: "67,315 gp"
 cost: "33,658 gp + 2,693 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Exterminator|Exterminator (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

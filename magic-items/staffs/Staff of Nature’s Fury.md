@@ -7,10 +7,7 @@ aliases:
 caster-level: 21
 prerequisites: "Craft Staff, Craft Epic Staff, Heighten Spell, Improved Heighten Spell, earthquake, fire storm, summon monster I (or summon nature’s ally I), whirlwind"
 price: "500,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/staffs/Staff of Nature’s Fury|Staff of Nature’s Fury (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---

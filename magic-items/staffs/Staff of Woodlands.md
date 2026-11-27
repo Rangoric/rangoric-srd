@@ -8,10 +8,7 @@ aura: "Moderate varied"
 caster-level: 13
 prerequisites: "Craft Staff, Craft Magic Arms and Armor, animate plants, barkskin, charm animal, pass without trace, speak with animals, summon nature’s ally VI, wall of thorns"
 price: "101,250 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/staffs/Staff of Woodlands|Staff of Woodlands (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -7,10 +7,7 @@ caster-level: 10
 prerequisites: "Craft Wondrous Item, Craft Magic Arms and Armor, magic weapon"
 price: "30,000 gp"
 weight: "150 lbs. (with mounting hardware)"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/magic-items/Stone of Sharpening|Stone of Sharpening (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

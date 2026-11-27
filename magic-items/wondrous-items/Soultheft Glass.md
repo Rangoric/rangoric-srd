@@ -9,10 +9,7 @@ prerequisites: "Craft Wondrous Item, call spirit, enervation"
 price: "33,000 gp"
 cost: "16,500 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5 foundry/items/wondrous/Soultheft Glass|Soultheft Glass (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -8,10 +8,7 @@ caster-level: 3
 prerequisites: "Craft Magic Arms and Armor, resist energy"
 price: "27,000 gp"
 cost: "13,500 gp + 1,080 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Resistant Padding|Resistant Padding (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

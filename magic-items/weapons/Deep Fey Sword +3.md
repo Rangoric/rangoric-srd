@@ -7,10 +7,7 @@ caster-level: 9
 prerequisites: "Craft Magic Arms and Armor, phantasmal killer"
 price: "68,735 gp"
 cost: "34,368 gp + 2,749 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Deep Fey Sword|Deep Fey Sword (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

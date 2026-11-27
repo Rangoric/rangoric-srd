@@ -7,10 +7,7 @@ caster-level: 3
 prerequisites: "Craft Wondrous Item, detect poison, neutralize poison"
 price: "12,000 gp"
 weight: "1 lb"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/magic-items/Winetaster’s Boon|Winetaster’s Boon (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

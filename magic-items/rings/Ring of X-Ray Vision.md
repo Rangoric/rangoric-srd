@@ -8,10 +8,7 @@ aura: "Moderate divination"
 caster-level: 6
 prerequisites: "Forge Ring, true seeing"
 price: "25,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rings/Ring of X-Ray Vision|Ring of X-Ray Vision (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

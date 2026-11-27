@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, share memory, creator must be a witch"
 price: "6,000 gp"
 cost: "3,000 gp"
 weight: "2 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Stone Familiar|Stone Familiar (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Stone Familiar|Stone Familiar (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -7,10 +7,7 @@ aura: "Faint illusion"
 caster-level: 5
 prerequisites: "Craft Wondrous Item, silence"
 price: "250 gp"
-based-on:
-  - "[[path srd 3.5/items/firearms/Oil of Silence|Oil of Silence (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, bless water"
 price: "17,500 gp"
 cost: "8,750 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Symbol of Sanguine Protection|Symbol of Sanguine Protection (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Symbol of Sanguine Protection|Symbol of Sanguine Protection (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

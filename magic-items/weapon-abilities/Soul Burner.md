@@ -6,10 +6,7 @@ aura: "Moderate necromancy"
 caster-level: 8
 prerequisites: "Craft Magic Arms and Armor, enervation"
 price: "+2 to +4 bonus (by soul limit)"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapon-qualities/Soul Burner|Soul Burner (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -8,11 +8,7 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, greater magic weapon"
 price: "15,000 gp"
 cost: "7,500 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Gloves of Dueling|Gloves of Dueling (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Gloves of Dueling|Gloves of Dueling (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

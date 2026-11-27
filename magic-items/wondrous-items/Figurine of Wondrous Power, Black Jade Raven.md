@@ -11,11 +11,7 @@ prerequisites: "Craft Wondrous Item, animate objects"
 price: "9,100 gp"
 cost: "4,550 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/featured-race/Black Jade Raven (Figurine Of Wondrous Power)|Figurine of Wondrous Power, Black Jade Raven (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Figurine of Wondrous Power (black jade raven)|Figurine of Wondrous Power, Black Jade Raven (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

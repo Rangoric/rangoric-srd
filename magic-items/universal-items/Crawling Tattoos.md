@@ -6,10 +6,7 @@ aura: "Faint psychokinesis"
 manifester-level: 1
 prerequisites: "Craft Universal Item, concussion blast"
 price: "50 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/universal-items/Crawling Tattoos|Crawling Tattoos (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

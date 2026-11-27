@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, alarm, endure elements"
 price: "5,040 gp"
 cost: "2,520 gp"
 weight: "7 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Banner of Restful Nights|Banner of Restful Nights (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Banner of Restful Nights|Banner of Restful Nights (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

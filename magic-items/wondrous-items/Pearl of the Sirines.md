@@ -7,10 +7,7 @@ aura: "Moderate abjuration and transmutation"
 caster-level: 8
 prerequisites: "Craft Wondrous Item, freedom of movement, water breathing"
 price: "15,300 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Pearl of the Sirines|Pearl of the Sirines (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

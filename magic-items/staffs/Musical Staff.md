@@ -9,11 +9,7 @@ price: "32,000 gp"
 cost: "16,000 gp"
 weight: "5 lbs."
 recharge: true
-based-on:
-  - "[[path srd 3.5/items/staves/Musical Staff|Musical Staff (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Musical Staff|Musical Staff (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

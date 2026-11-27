@@ -6,11 +6,7 @@ aura: "Faint abjuration and divination"
 caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, greater heroism, creator must be a panache user"
 price: "+3 bonus"
-based-on:
-  - "[[path srd 3.5/items/weapon-special-abilities/Flamboyant, Greater|Flamboyant, Greater (PF1)]]"
-  - "[[path srd 3.5 foundry/items/special-abilities/Flamboyant, Greater|Flamboyant, Greater (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/magic-item]
 ---

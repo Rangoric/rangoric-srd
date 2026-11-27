@@ -8,10 +8,7 @@ caster-level: 15
 prerequisites: "Craft Magic Arms and Armor, Craft Wondrous Item, sunburst, heal, death ward, daylight, must be created in broad daylight"
 price: "99,150 gp"
 cost: "50,150 gp + 3,916 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Silk Robe of Sunbeams|Silk Robe of Sunbeams (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

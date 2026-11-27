@@ -8,11 +8,7 @@ caster-level: 7
 prerequisites: "Craft Wondrous Item, dragon's breath"
 price: "1,400 gp"
 cost: "700 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Elixir of Dragon Breath|Elixir of Dragon Breath (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Elixir of Dragon Breath|Elixir of Dragon Breath (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

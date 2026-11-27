@@ -7,10 +7,7 @@ caster-level: 7
 prerequisites: "Craft Wondrous Item, The Eye"
 price: "8,000 gp"
 cost: "4,000 gp + 160 XP"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/magic-items/Broach of the Wolf|Broach of the Wolf (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

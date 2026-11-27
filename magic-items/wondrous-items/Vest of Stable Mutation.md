@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, eagle's splendor, fox's cunning, owl's wisd
 price: "20,000 gp"
 cost: "10,000 gp"
 weight: "2 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Vest of Stable Mutation|Vest of Stable Mutation (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Vest of Stable Mutation|Vest of Stable Mutation (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

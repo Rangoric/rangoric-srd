@@ -15,11 +15,7 @@ ego: 14
 alignment: "neutral good"
 senses: "30 ft."
 language: "speech (Common and four other languages)"
-based-on:
-  - "[[path srd 3.5/items/intelligent-items/Helmet of the Golden General|Helmet of the Golden General (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Helmet of the Golden General|Helmet of the Golden General (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

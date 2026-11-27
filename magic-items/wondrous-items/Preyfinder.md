@@ -8,11 +8,7 @@ caster-level: 9
 prerequisites: "Craft Wondrous Item, blood biography, heroism, locate creature"
 price: "85,000 gp"
 cost: "42,500 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Preyfinder|Preyfinder (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Preyfinder|Preyfinder (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

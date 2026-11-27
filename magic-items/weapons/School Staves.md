@@ -16,10 +16,7 @@ caster-level: 17
 prerequisites: "Craft Magic Arms and Armor, wish"
 price: "87,975 gp"
 cost: "43,988 gp + 3,519 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/School Staves|School Staves (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

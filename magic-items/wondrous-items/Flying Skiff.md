@@ -9,10 +9,7 @@ prerequisites: "Craft Wondrous Item, intellect fortress III, mental barrier III,
 price: "180,000 gp"
 cost: "90,000 gp"
 weight: "2,500 lb."
-based-on:
-  - "[[path srd 3.5 foundry/items/wondrous/Flying Skiff|Flying Skiff (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/magic-item]
 ---

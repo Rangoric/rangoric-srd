@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, bull's strength"
 price: "60,000 gp"
 cost: "30,000 gp"
 weight: "5 lbs."
-based-on:
-  - "[[path srd 3.5/items/misc/Banner of the Rushing Horde|Banner of the Rushing Horde (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Banner of the Rushing Horde|Banner of the Rushing Horde (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

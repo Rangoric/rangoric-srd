@@ -6,10 +6,7 @@ slot: "feet"
 caster-level: 12
 prerequisites: "Craft Wondrous Item, Spell Focus (Transmutation), slow"
 price: "72,000 gp"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/magic-items/Boots of Diminished Velocity|Boots of Diminished Velocity (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -6,10 +6,7 @@ aura: "Faint transmutation"
 caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, enlarge person"
 price: "+1 bonus"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapon-qualities/Forceful|Forceful (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

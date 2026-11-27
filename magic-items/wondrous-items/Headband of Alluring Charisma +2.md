@@ -11,11 +11,7 @@ prerequisites: "Craft Wondrous Item, eagle's splendor"
 price: "4,000 gp"
 cost: "2,000 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Headband of Alluring Charisma|Headband of Alluring Charisma (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Headband of Alluring Charisma +2|Headband of Alluring Charisma +2 (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

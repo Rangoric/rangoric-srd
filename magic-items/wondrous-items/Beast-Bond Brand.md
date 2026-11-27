@@ -10,11 +10,7 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, Reach Spell, creator must have an animal companion or familiar"
 price: "1,000 gp"
 cost: "500 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Beast-bond Brand|Beast-Bond Brand (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Beast-Bond Brand|Beast-Bond Brand (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

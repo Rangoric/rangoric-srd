@@ -8,11 +8,7 @@ caster-level: 9
 prerequisites: "Craft Wondrous Item, teleport"
 price: "27,000 gp"
 cost: "13,500 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Gloves of The Shortened Path|Gloves of the Shortened Path (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Gloves of the Shortened Path|Gloves of the Shortened Path (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

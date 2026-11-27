@@ -6,10 +6,7 @@ slot: "hands"
 caster-level: 3
 prerequisites: "Craft Wondrous Item, endure elements, flame blade"
 price: "5,700 gp"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/magic-items/Flaming Brand Glove, Lesser|Flaming Brand Glove, Lesser (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

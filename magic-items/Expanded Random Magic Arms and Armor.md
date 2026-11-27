@@ -1,25 +1,7 @@
 ---
 srd-type: "rule"
 section: "Magic Items"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/tables/Table 2.1 Base Enchantments|Table 2.1 Base Enchantments (Arms & Armor)]]"
-  - "[[individual books/Arms & Armor v3.5/tables/Table 2.2 Minor Weapon Qualities|Table 2.2 Minor Weapon Qualities (Arms & Armor)]]"
-  - "[[individual books/Arms & Armor v3.5/tables/Table 2.4 Medium Weapon Qualities|Table 2.4 Medium Weapon Qualities (Arms & Armor)]]"
-  - "[[individual books/Arms & Armor v3.5/tables/Table 2.5 Major Weapon Qualities|Table 2.5 Major Weapon Qualities (Arms & Armor)]]"
-  - "[[individual books/Arms & Armor v3.5/tables/Table 2.3 Bane Weapons|Table 2.3 Bane Weapons (Arms & Armor)]]"
-  - "[[individual books/Arms & Armor v3.5/tables/Table 2.6 Dread Weapons|Table 2.6 Dread Weapons (Arms & Armor)]]"
-  - "[[individual books/Arms & Armor v3.5/tables/Table 3.1 Specific Weapons|Table 3.1 Specific Weapons (Arms & Armor)]]"
-  - "[[individual books/Arms & Armor v3.5/tables/Table 3.2 Class-Oriented Weapons|Table 3.2 Class-Oriented Weapons (Arms & Armor)]]"
-  - "[[individual books/Arms & Armor v3.5/tables/Table 5.1 Base Enchantments|Table 5.1 Base Enchantments (Arms & Armor)]]"
-  - "[[individual books/Arms & Armor v3.5/tables/Table 5.2 Minor Armor Qualities|Table 5.2 Minor Armor Qualities (Arms & Armor)]]"
-  - "[[individual books/Arms & Armor v3.5/tables/Table 5.3 Medium Armor Qualities|Table 5.3 Medium Armor Qualities (Arms & Armor)]]"
-  - "[[individual books/Arms & Armor v3.5/tables/Table 5.4 Major Armor Qualities|Table 5.4 Major Armor Qualities (Arms & Armor)]]"
-  - "[[individual books/Arms & Armor v3.5/tables/Table 6.1 Minor Wondrous Armor|Table 6.1 Minor Wondrous Armor (Arms & Armor)]]"
-  - "[[individual books/Arms & Armor v3.5/tables/Table 6.2 Medium Wondrous Armor|Table 6.2 Medium Wondrous Armor (Arms & Armor)]]"
-  - "[[individual books/Arms & Armor v3.5/tables/Table 6.3 Major Wondrous Armor|Table 6.3 Major Wondrous Armor (Arms & Armor)]]"
-  - "[[individual books/Arms & Armor v3.5/tables/Table 6.4 Epic Wondrous Armors|Table 6.4 Epic Wondrous Armors (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/rule]
 ---

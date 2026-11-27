@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, heroism, rope trick"
 price: "110,000 gp"
 cost: "55,000 gp"
 weight: "5 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Gauntlets of the Weaponmaster|Gauntlets of the Weaponmaster (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Gauntlets of the Weaponmaster|Gauntlets of the Weaponmaster (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

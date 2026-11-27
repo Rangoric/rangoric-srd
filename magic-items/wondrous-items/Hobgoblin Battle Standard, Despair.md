@@ -11,11 +11,7 @@ prerequisites: "Craft Wondrous Item, crushing despair"
 price: "50,000 gp"
 cost: "25,000 gp"
 weight: "3 lbs."
-based-on:
-  - "[[path srd 3.5/items/featured-race/Hobgoblin Battle Standard|Hobgoblin Battle Standard (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Hobgoblin Battle Standard, Despair|Hobgoblin Battle Standard, Despair (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

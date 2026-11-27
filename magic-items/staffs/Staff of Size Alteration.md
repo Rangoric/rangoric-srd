@@ -8,10 +8,7 @@ aura: "Faint conjuration"
 caster-level: 8
 prerequisites: "Craft Staff, enlarge person, mass enlarge person, reduce person, mass reduce person, shrink item"
 price: "29,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/staffs/Staff of Size Alteration|Staff of Size Alteration (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

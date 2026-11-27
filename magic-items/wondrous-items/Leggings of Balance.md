@@ -8,10 +8,7 @@ caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, dimensional anchor"
 price: "17,250 gp"
 cost: "8,625 gp + 690 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Leggings of Balance|Leggings of Balance (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -7,10 +7,7 @@ manifester-level: 3
 prerequisites: "Craft Universal Item, creator must have 7 ranks in Athletics, body equilibrium, entangling ectoplasm"
 price: "79,080 gp"
 weight: "2 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/universal-items/Skin of the Spider|Skin of the Spider (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

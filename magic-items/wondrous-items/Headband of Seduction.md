@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, unnatural lust"
 price: "40,000 gp"
 cost: "20,000 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Headband of Seduction|Headband of Seduction (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Headband of Seduction|Headband of Seduction (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -9,10 +9,7 @@ aura: "Strong enchantment"
 caster-level: 15
 prerequisites: "Craft Magic Arms and Armor, desecrate, harm, plane shift"
 price: "+4 bonus"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/armor-qualities/Solace, Greater Dark|Solace, Greater Dark (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

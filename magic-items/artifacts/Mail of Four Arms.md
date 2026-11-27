@@ -4,10 +4,7 @@ section: "Magic Items"
 item-type: "Major Artifact"
 caster-level: 20
 weight: "0 lb."
-based-on:
-  - "[[individual books/Arms & Armor v3.5/artifacts/Mail of the Knük|Mail of the Knük (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/magic-item]
 ---

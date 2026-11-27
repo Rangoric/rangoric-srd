@@ -9,11 +9,7 @@ price: "13,100 gp"
 cost: "6,700 gp"
 weight: "3 lbs."
 recharge: true
-based-on:
-  - "[[path srd 3.5/items/staves/Ember Staff|Ember Staff (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Ember Staff|Ember Staff (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

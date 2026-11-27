@@ -7,11 +7,7 @@ caster-level: 9
 prerequisites: "Craft Magic Arms and Armor, acid arrow"
 price: "1,516 gp"
 cost: "758 gp"
-based-on:
-  - "[[path srd 3.5/items/weapons/Sizzling Arrow|Sizzling Arrow (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Sizzling Arrow|Sizzling Arrow (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/magic-item]
 ---

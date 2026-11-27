@@ -7,10 +7,7 @@ aura: "Strong abjuration and transmutation"
 caster-level: 13
 prerequisites: "Craft Wondrous Item, flesh to stone, stoneskin"
 price: "4,000 gp per ounce"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Stone Salve|Stone Salve (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

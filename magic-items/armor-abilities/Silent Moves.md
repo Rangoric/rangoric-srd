@@ -6,11 +6,7 @@ aura: "Faint illusion"
 caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, silence"
 price: "+3,750 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/armor-abilities/Silent Moves|Silent Moves (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/armor-qualities/Silent Moves|Silent Moves (Arms & Armor)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

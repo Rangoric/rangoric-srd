@@ -1,10 +1,7 @@
 ---
 srd-type: "rule"
 section: "Magic Items"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/rules/Masks|Masks (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/rule]
 ---

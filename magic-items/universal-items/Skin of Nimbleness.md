@@ -7,10 +7,7 @@ manifester-level: 8
 prerequisites: "Craft Universal Item, creator must have 7 ranks in Acrobatics"
 price: "10,000 gp"
 weight: "2 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/universal-items/Skin of Nimbleness|Skin of Nimbleness (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

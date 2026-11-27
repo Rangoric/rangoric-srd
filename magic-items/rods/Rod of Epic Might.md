@@ -8,10 +8,7 @@ caster-level: 30
 prerequisites: "Craft Rod, Craft Epic Rod, Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, cure critical wounds, inflict critical wounds, bull’s strength, fireball, dominate person, power word stun"
 price: "4,293,432 gp"
 cost: "to Create: 2,151,372 gp + 52,841 XP"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rods/Rod of Epic Might|Rod of Epic Might (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---

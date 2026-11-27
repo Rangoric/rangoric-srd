@@ -8,11 +8,7 @@ caster-level: 3
 prerequisites: "Craft Wondrous Item, haste"
 price: "3,000 gp"
 weight: "12 lb. (for four)"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Horseshoes of Speed|Horseshoes of Speed (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Horseshoes of Speed|Horseshoes of Speed (Arms & Armor)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

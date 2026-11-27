@@ -8,11 +8,7 @@ caster-level: 13
 prerequisites: "Craft Wondrous Item, detect undead, fireball, flame blade, light, prismatic spray, protection from energy, wall of fire"
 price: "125,000 gp"
 weight: "3 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Helm of Brilliance|Helm of Brilliance (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Helm of Brilliance|Helm of Brilliance (Arms & Armor)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

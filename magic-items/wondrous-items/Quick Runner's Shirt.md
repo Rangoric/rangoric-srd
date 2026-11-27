@@ -8,11 +8,7 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, haste"
 price: "1,000 gp"
 cost: "500 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Quick Runner's Shirt|Quick Runner's Shirt (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Quick Runner's Shirt|Quick Runner's Shirt (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

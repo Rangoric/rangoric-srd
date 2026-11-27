@@ -5,10 +5,7 @@ item-type: "Potion"
 caster-level: 7
 prerequisites: "Brew Potion, stoneskin"
 price: "2,350 gp"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/magic-items/Granite Hide|Granite Hide (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

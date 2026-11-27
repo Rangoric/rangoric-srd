@@ -7,12 +7,7 @@ caster-level: 17
 prerequisites: "Craft Rod, Disruptive Spell"
 price: "24,500 gp"
 cost: "12,250 gp"
-based-on:
-  - "[[path srd 3.5/items/rods/Disruptive Metamagic Rod|Disruptive Metamagic Rod (PF1)]]"
-  - "[[path srd 3.5/items/rods/Metamagic, Disruptive|Metamagic, Disruptive (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Disruptive Metamagic Rod, Greater|Metamagic Rod, Disruptive, Greater (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

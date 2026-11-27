@@ -8,10 +8,7 @@ caster-level: 3
 prerequisites: "Craft Wondrous Item, true strike"
 price: "4,000 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/firearms/Far-Reaching Sight|Far-Reaching Sight (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

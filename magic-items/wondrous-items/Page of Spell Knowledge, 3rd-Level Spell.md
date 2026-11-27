@@ -8,11 +8,7 @@ caster-level: 17
 prerequisites: "Craft Wondrous Item, creator must be able to cast the spell contained in the page"
 price: "9,000 gp"
 cost: "4,500 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Page of Spell Knowledge|Page of Spell Knowledge (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Page of Spell Knowledge 3rd-level|Page of Spell Knowledge 3rd-level (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

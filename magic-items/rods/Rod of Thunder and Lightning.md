@@ -8,10 +8,7 @@ aura: "Moderate evocation"
 caster-level: 9
 prerequisites: "Craft Rod, Craft Magic Arms and Armor, lightning bolt, shout"
 price: "33,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rods/Rod of Thunder and Lightning|Rod of Thunder and Lightning (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

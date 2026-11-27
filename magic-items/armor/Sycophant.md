@@ -3,10 +3,7 @@ srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Specific Armor"
 price: "5,000 gp per point of armor bonus granted"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Sycophant|Sycophant (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

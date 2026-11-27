@@ -6,10 +6,7 @@ aura: "Moderate necromancy"
 caster-level: 10
 prerequisites: "Craft Magic Arms and Armor, vampiric touch"
 price: "+2 bonus"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapon-qualities/Sacrificing|Sacrificing (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

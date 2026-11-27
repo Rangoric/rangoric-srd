@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, Maximize Spell, gate, summon eidolon"
 price: "64,000 gp"
 cost: "32,000 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Robe of Gates|Robe of Gates (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Robe of Gates|Robe of Gates (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

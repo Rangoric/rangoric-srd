@@ -8,11 +8,7 @@ caster-level: 3
 prerequisites: "Craft Wondrous Item, light, scorching ray"
 price: "8,800 gp"
 cost: "4,400 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Goggles of Brilliant Light|Goggles of Brilliant Light (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Goggles of Brilliant Light|Goggles of Brilliant Light (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

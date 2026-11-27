@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, aura of doom, detect evil, dispel evil, mag
 price: "150,000 gp"
 cost: "75,000 gp"
 weight: "5 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Crown of Heaven|Crown of Heaven (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Crown of Heaven|Crown of Heaven (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

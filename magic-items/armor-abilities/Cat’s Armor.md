@@ -6,10 +6,7 @@ aura: "Moderate transmutation"
 caster-level: 6
 prerequisites: "Craft Magic Arms and Armor, cat’s grace"
 price: "+2 bonus (+2 to Dex), +3 bonus (+4 to Dex)"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/armor-qualities/Cat’s Armor|Cat’s Armor (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

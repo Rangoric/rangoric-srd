@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, stabilize"
 price: "50 gp"
 cost: "25 gp"
 weight: "1/2 lb."
-based-on:
-  - "[[path srd 3.5/items/featured-race/Wound Paste|Wound Paste (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Wound Paste|Wound Paste (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

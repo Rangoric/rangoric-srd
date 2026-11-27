@@ -8,10 +8,7 @@ aura: "Moderate transmutation"
 caster-level: 9
 prerequisites: "Forge Ring, water walk"
 price: "15,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rings/Ring of Water Walking|Ring of Water Walking (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

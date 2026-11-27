@@ -4,10 +4,7 @@ section: "Magic Items"
 item-type: "Cursed Item"
 aura: "Varies"
 intended-item: "any staff"
-based-on:
-  - "[[path srd 3.5 foundry/items/cursed/Staff of Magical Decline|Staff of Magical Decline (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/magic-item]
 ---

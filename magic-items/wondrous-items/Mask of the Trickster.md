@@ -7,10 +7,7 @@ aura: "Moderate enchantment [mind-affecting]"
 caster-level: 7
 prerequisites: "Craft Wondrous Item, confusion"
 price: "8,000 gp"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Mask of the Trickster|Mask of the Trickster (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

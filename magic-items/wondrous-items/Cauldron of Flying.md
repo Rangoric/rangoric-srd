@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, overland flight"
 price: "40,000 gp"
 cost: "20,000 gp"
 weight: "100 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Cauldron of Flying|Cauldron of Flying (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Cauldron of Flying|Cauldron of Flying (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

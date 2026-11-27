@@ -8,10 +8,7 @@ caster-level: 9
 prerequisites: "Craft Wondrous Item, secret chest"
 price: "10,000 gp"
 weight: "60 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Bag of Holding|Bag of Holding (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

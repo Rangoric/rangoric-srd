@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, major creation"
 price: "250 gp"
 cost: "125 gp"
 weight: "2 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Traveler's Any-Tool|Traveler's Any-Tool (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Traveler's any-tool|Traveler's Any-Tool (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

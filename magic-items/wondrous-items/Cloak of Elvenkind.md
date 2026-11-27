@@ -8,10 +8,7 @@ caster-level: 3
 prerequisites: "Craft Wondrous Item, invisibility, creator must be an elf"
 price: "2,500 gp"
 weight: "1 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Cloak of Elvenkind|Cloak of Elvenkind (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

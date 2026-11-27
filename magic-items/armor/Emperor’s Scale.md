@@ -6,10 +6,7 @@ aura: "Moderate enchantment"
 caster-level: 12
 prerequisites: "Craft Magic Arms and Armor, 9 ranks in Craft (armorsmithing), levitate"
 price: "16,200 gp"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Emperor’s Scale|Emperor’s Scale (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

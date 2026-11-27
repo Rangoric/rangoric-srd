@@ -9,10 +9,7 @@ caster-level: 10
 prerequisites: "Craft Magic Arms and Armor"
 price: "796 gp"
 cost: "401 gp + 31 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Arrow, Suffocating|Arrow, Suffocating (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

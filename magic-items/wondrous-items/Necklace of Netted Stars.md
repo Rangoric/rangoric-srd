@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, dancing lights, dispel magic, wandering sta
 price: "42,000 gp"
 cost: "21,000 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Necklace of Netted Stars|Necklace of Netted Stars (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Necklace of Netted Stars|Necklace of Netted Stars (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

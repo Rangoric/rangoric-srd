@@ -6,10 +6,7 @@ aura: "Faint abjuration"
 caster-level: 7
 prerequisites: "Forge Ring, resist energy"
 price: "28,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rings/Ring of Energy Resistance|Ring of Energy Resistance (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

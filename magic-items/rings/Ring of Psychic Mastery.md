@@ -7,10 +7,7 @@ caster-level: 14
 prerequisites: "Forge Ring, limited wish"
 price: "50,000 gp"
 cost: "25,000 gp"
-based-on:
-  - "[[path srd 3.5 foundry/items/wondrous/Ring of Psychic Mastery|Ring of Psychic Mastery (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/magic-item]
 ---

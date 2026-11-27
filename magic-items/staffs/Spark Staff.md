@@ -9,11 +9,7 @@ price: "12,650 gp"
 cost: "6,475 gp"
 weight: "2 lbs."
 recharge: true
-based-on:
-  - "[[path srd 3.5/items/staves/Spark Staff|Spark Staff (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Spark Staff|Spark Staff (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

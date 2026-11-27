@@ -8,11 +8,7 @@ caster-level: 3
 prerequisites: "Craft Wondrous Item, light, invisibility"
 price: "9,000 gp"
 cost: "4,500 gp"
-based-on:
-  - "[[path srd 3.5/items/featured-race/Amulet of Hidden Light|Amulet of Hidden Light (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Amulet of Hidden Light|Amulet of Hidden Light (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

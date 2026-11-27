@@ -5,10 +5,7 @@ item-type: "Charm"
 caster-level: 10
 prerequisites: "Craft Charms and Bracelets, mage armor"
 price: "36,000 gp"
-based-on:
-  - "[[individual books/Faeries/charms/Bone|Bone (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

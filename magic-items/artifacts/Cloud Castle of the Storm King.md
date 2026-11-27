@@ -4,11 +4,7 @@ section: "Magic Items"
 item-type: "Major Artifact"
 aura: "Strong (all schools)"
 caster-level: 20
-based-on:
-  - "[[path srd 3.5/items/artifacts/Cloud Castle Of The Storm King|Cloud Castle Of The Storm King (PF1)]]"
-  - "[[path srd 3.5 foundry/items/artifacts/Cloud Castle of the Storm King|Cloud Castle of the Storm King (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

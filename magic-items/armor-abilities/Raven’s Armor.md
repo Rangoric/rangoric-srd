@@ -6,10 +6,7 @@ aura: "Moderate transmutation"
 caster-level: 6
 prerequisites: "Craft Magic Arms and Armor, identify"
 price: "+2 bonus (+2 to Int), +3 bonus (+4 to Int)"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/armor-qualities/Raven’s Armor|Raven’s Armor (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

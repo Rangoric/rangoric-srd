@@ -9,10 +9,7 @@ caster-level: 20
 prerequisites: "Craft Wondrous Item, Craft Epic Wondrous Item, cat’s grace"
 price: "640,000 gp"
 weight: "-"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Gloves of Epic Dexterity|Gloves of Epic Dexterity (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---

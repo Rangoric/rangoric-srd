@@ -7,11 +7,7 @@ caster-level: 20
 prerequisites: "Craft Wondrous Item, Craft Epic Wondrous Item, mage armor, creator’s caster level must be twice the bracers’ bonus"
 price: "1,960,000 gp"
 weight: "1 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Bracers of Epic Armor|Bracers of Epic Armor (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Bracers of Epic Armor|Bracers of Epic Armor (Arms & Armor)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---

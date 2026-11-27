@@ -6,10 +6,7 @@ aura: "Strong metacreativity"
 manifester-level: 12
 prerequisites: "Craft Psionic Arms and Armor, wall of ectoplasm"
 price: "+20,160 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/armor-abilities/Wall|Wall (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

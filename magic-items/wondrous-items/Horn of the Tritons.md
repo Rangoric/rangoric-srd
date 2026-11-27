@@ -8,10 +8,7 @@ caster-level: 8
 prerequisites: "Craft Wondrous Item, fear, summon monster V, control water, creator must be a triton or get construction aid from a triton"
 price: "15,100 gp"
 weight: "2 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Horn of the Tritons|Horn of the Tritons (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

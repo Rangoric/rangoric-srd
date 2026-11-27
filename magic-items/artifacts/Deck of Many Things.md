@@ -4,10 +4,7 @@ section: "Magic Items"
 item-type: "Minor Artifact"
 aura: "Strong (all schools)"
 caster-level: 20
-based-on:
-  - "[[fantasy srd 3.5/magic-items/artifacts/Deck of Many Things|Deck of Many Things (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

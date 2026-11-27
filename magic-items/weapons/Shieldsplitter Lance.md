@@ -8,11 +8,7 @@ prerequisites: "Craft Magic Arms and Armor, keen edge, shatter"
 price: "18,310 gp"
 cost: "9,310 gp"
 weight: "10 lbs."
-based-on:
-  - "[[path srd 3.5/items/weapons/Shieldsplitter Lance|Shieldsplitter Lance (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Shieldsplitter Lance|Shieldsplitter Lance (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/magic-item]
 ---

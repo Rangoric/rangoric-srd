@@ -9,10 +9,7 @@ prerequisites: "Craft Wondrous Item, divine favor"
 price: "3,750 gp"
 cost: "1,875 gp"
 weight: "—"
-based-on:
-  - "[[path srd 3.5 foundry/items/wondrous/Four-Leaf Clover|Four-Leaf Clover (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/magic-item]
 ---

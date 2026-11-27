@@ -8,10 +8,7 @@ caster-level: 7
 prerequisites: "Craft Wondrous Item, rusting grasp"
 price: "11,500 gp"
 weight: "2 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Gauntlet of Rust|Gauntlet of Rust (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

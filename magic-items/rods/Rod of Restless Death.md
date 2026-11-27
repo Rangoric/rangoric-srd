@@ -7,10 +7,7 @@ aliases:
 caster-level: 21
 prerequisites: "Craft Rod, Craft Epic Rod, animate dead, control undead, slay living"
 price: "625,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rods/Rod of Restless Death|Rod of Restless Death (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---

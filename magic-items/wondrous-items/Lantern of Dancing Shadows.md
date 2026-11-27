@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, darkness, mass ghostbane dirge, shadow conj
 price: "41,000 gp"
 cost: "20,500 gp"
 weight: "2 lbs."
-based-on:
-  - "[[path srd 3.5/items/featured-race/Lantern of Dancing Shadows|Lantern of Dancing Shadows (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Lantern of Dancing Shadows|Lantern of Dancing Shadows (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

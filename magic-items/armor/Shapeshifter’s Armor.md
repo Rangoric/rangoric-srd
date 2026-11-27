@@ -6,10 +6,7 @@ caster-level: 21
 prerequisites: "Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, shapechange or wild shape ability"
 price: "400,165 gp"
 cost: "to Create: 200,165 gp + 14,000 XP"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/armor/Shapeshifter’s Armor|Shapeshifter’s Armor (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---

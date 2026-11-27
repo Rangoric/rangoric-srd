@@ -4,10 +4,7 @@ section: "Magic Items"
 item-type: "Major Artifact"
 caster-level: 20
 weight: "8 lb."
-based-on:
-  - "[[individual books/Arms & Armor v3.5/artifacts/Robe of the Transcendent|Robe of the Transcendent (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/magic-item]
 ---

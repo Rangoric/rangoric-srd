@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, beastshape IV, protection from chaos/evil/ 
 price: "39,600 gp"
 cost: "19,800 gp"
 weight: "12 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Horseshoes of Glory|Horseshoes of Glory (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Horseshoes of Glory|Horseshoes of Glory (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

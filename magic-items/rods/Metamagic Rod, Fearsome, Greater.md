@@ -7,10 +7,7 @@ caster-level: 17
 prerequisites: "Craft Rod, Fearsome Spell"
 price: "73,000 gp"
 cost: "36,500 gp"
-based-on:
-  - "[[path srd 3.5 foundry/items/gear/Fearsome Metamagic Rod, Greater|Fearsome Metamagic Rod, Greater (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/magic-item]
 ---

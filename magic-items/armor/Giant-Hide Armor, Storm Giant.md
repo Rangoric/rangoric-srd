@@ -7,11 +7,7 @@ caster-level: 15
 prerequisites: "Craft Magic Arms and Armor, giant form II"
 price: "76,665 gp"
 cost: "38,415 gp"
-based-on:
-  - "[[path srd 3.5/items/armor/Giant-Hide Armor|Giant-Hide Armor (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Giant-hide Armor, Storm|Giant-Hide Armor, Storm Giant (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/magic-item]
 ---

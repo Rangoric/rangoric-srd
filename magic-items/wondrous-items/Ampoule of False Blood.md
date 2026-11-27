@@ -8,11 +8,7 @@ caster-level: 15
 prerequisites: "Craft Wondrous Item, limited wish, polymorph, creator must be a sorcerer of the appropriate bloodline"
 price: "20,000 gp"
 cost: "10,000 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Ampoule of False Blood|Ampoule of False Blood (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Ampoule of False Blood|Ampoule of False Blood (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -7,10 +7,7 @@ caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, fly"
 price: "17,257 gp"
 cost: "8,628 gp and 5 sp + 690 XP"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/armor/Winged Shield|Winged Shield (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

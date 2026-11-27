@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, Endurance"
 price: "1,500 gp"
 cost: "750 gp"
 weight: "2 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Boots of the Enduring March|Boots of the Enduring March (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Boots of the Enduring March|Boots of the Enduring March (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

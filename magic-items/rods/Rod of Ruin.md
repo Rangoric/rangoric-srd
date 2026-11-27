@@ -7,11 +7,7 @@ caster-level: 7
 prerequisites: "Craft Rod, disintegrate"
 price: "16,000 gp"
 cost: "8,000 gp"
-based-on:
-  - "[[path srd 3.5/items/rods/Rod of Ruin|Rod of Ruin (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Rod of Ruin|Rod of Ruin (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

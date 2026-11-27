@@ -7,10 +7,7 @@ aliases:
 caster-level: 25
 prerequisites: "Craft Rod, Craft Epic Rod, dispel magic"
 price: "330,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rods/Rod of Epic Cancellation|Rod of Epic Cancellation (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---

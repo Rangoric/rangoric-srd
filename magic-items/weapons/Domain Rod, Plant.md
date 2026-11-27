@@ -9,10 +9,7 @@ caster-level: 9
 prerequisites: "Craft Magic Arms and Armor, speak with plants"
 price: "114,300 gp"
 cost: "57,150 gp + 4,572 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Domain Rods|Domain Rods (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

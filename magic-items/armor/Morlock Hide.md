@@ -7,11 +7,7 @@ caster-level: 10
 prerequisites: "Craft Magic Arms and Armor, alter self, invisibility"
 price: "8,910 gp"
 cost: "4,535 gp"
-based-on:
-  - "[[path srd 3.5/items/specific-magic-armor-and-shields/Morlock Hide|Morlock Hide (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Morlock Hide|Morlock Hide (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/magic-item]
 ---

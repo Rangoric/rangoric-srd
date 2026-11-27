@@ -5,10 +5,7 @@ item-type: "Potion"
 caster-level: 2
 prerequisites: "Brew Potion, spider climb, spellcaster level 8+"
 price: "1,200 gp"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/magic-items/Spider’s Kiss|Spider’s Kiss (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -8,10 +8,7 @@ caster-level: 17
 prerequisites: "Craft Wondrous Item, gate"
 price: "40,000 gp"
 weight: "1 lb. each"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Ring Gates|Ring Gates (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

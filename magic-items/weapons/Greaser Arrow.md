@@ -9,10 +9,7 @@ caster-level: 3
 prerequisites: "Craft Magic Arms and Armor, grease"
 price: "155 gp"
 cost: "78 gp + 6 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Arrow, Greaser|Arrow, Greaser (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

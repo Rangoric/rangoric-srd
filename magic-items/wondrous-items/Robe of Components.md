@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, minor creation"
 price: "5,000 gp"
 cost: "2,500 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Robe of Components|Robe of Components (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Robe of Components|Robe of Components (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -6,10 +6,7 @@ aura: "Strong conjuration [teleportation]"
 caster-level: 14
 prerequisites: "Craft Magic Arms and Armor, contingency, greater teleport"
 price: "+3 bonus"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/armor-qualities/Recall|Recall (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

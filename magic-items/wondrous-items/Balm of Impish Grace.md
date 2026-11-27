@@ -8,11 +8,7 @@ caster-level: 7
 prerequisites: "Craft Wondrous Item, grace"
 price: "7,500 gp"
 cost: "3,750 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Balm of Impish Grace|Balm of Impish Grace (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Balm of Impish Grace|Balm of Impish Grace (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -7,10 +7,7 @@ caster-level: 7
 prerequisites: "Craft Wondrous Item, shadow conjuration, clairaudience-clairvoyance"
 price: "12,000 gp + 3,000 gp per CR of creature"
 weight: "1 lb"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/magic-items/Masks of Rondran|Masks of Rondran (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

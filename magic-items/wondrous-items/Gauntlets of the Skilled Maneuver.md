@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, creator must have the appropriate Improved 
 price: "4,000 gp"
 cost: "2,000 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Gauntlets of the Skilled Maneuver|Gauntlets of the Skilled Maneuver (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Gauntlets of the Skilled Maneuver|Gauntlets of the Skilled Maneuver (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -8,12 +8,7 @@ aura: "Moderate conjuration"
 caster-level: 10
 prerequisites: "Craft Magic Arms and Armor, acid arrow"
 price: "+2 bonus"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapon-qualities/Acid Burst|Acid Burst (Arms & Armor)]]"
-  - "[[path srd 3.5/items/weapon-special-abilities/Corrosive Burst|Corrosive Burst (PF1)]]"
-  - "[[path srd 3.5 foundry/items/special-abilities/Corrosive Burst|Corrosive Burst (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -9,10 +9,7 @@ price: "44,400 gp"
 cost: "37,200 gp"
 weight: "3 lbs."
 recharge: true
-based-on:
-  - "[[path srd 3.5/items/hero-point-items/Staff of Fortune|Staff of Fortune (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/magic-item]
 ---

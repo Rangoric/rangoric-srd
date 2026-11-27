@@ -10,10 +10,7 @@ caster-level: 3
 prerequisites: "Craft Wondrous Item, haste, expeditious retreat, jump"
 price: "6,000 gp"
 weight: "1 lb"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Leggings of Speed|Leggings of Speed (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

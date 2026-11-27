@@ -8,10 +8,7 @@ aura: "Strong varied"
 caster-level: 15
 prerequisites: "Craft Rod, dispel magic, and limited wish or miracle"
 price: "37,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rods/Rod of Negation|Rod of Negation (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

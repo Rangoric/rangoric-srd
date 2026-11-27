@@ -5,10 +5,7 @@ item-type: "Armor Special Ability"
 caster-level: 7
 prerequisites: "Craft Magic Arms and Armor, imbue with spell ability"
 price: "+1 bonus for light armor, +2 bonus for medium armor"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/armor-qualities/Spellcasting|Spellcasting (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

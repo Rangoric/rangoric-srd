@@ -9,11 +9,7 @@ prerequisites: "Arcane Blast, Arcane Shield, Craft Wondrous Item, prismatic spra
 price: "20,000 gp"
 cost: "10,000 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/headband of Arcane energy|Headband of Arcane Energy (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Headband of Arcane Energy|Headband of Arcane Energy (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -8,11 +8,7 @@ caster-level: 7
 prerequisites: "Craft Wondrous Item, death ward, restoration"
 price: "12,000 gp"
 cost: "6,000 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Black Soul Shard|Black Soul Shard (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Black Soul Shard|Black Soul Shard (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

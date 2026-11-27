@@ -9,11 +9,7 @@ price: "81,000 gp"
 cost: "40,500 gp"
 weight: "7 lbs."
 recharge: true
-based-on:
-  - "[[path srd 3.5/items/staves/Dragon Staff|Dragon Staff (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Dragon Staff|Dragon Staff (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -5,10 +5,7 @@ item-type: "Cursed Item"
 aura: "Strong conjuration and illusion"
 caster-level: 13
 intended-item: "anatomy doll, ganji doll, hexing doll"
-based-on:
-  - "[[path srd 3.5 foundry/items/cursed/Needful Doll|Needful Doll (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/magic-item]
 ---

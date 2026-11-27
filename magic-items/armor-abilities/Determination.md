@@ -6,11 +6,7 @@ aura: "Moderate conjuration"
 caster-level: 10
 prerequisites: "Craft Magic Arms and Armor, breath of life"
 price: "+30,000 gp"
-based-on:
-  - "[[path srd 3.5/rules/ultimate-equipment/magic-arms-and-armor/Armor Special Abilities#Determination|Determination (PF1)]]"
-  - "[[path srd 3.5 foundry/items/special-abilities/Determination|Determination (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/magic-item]
 ---

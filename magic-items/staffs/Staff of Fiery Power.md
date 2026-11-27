@@ -7,10 +7,7 @@ aliases:
 caster-level: 25
 prerequisites: "Craft Staff, Craft Epic Staff, Extend Spell, Heighten Spell, Improved Heighten Spell, Intensify Spell, Spell Focus (Evocation), continual flame, delayed blast fireball, meteor swarm, protection from energy, summon monster IX, wall of fire"
 price: "500,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/staffs/Staff of Fiery Power|Staff of Fiery Power (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---

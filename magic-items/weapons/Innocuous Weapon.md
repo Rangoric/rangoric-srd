@@ -7,10 +7,7 @@ caster-level: 15
 prerequisites: "Craft Magic Arms and Armor, misdirection, polymorph any object"
 price: "224,302 gp"
 cost: "112,151 gp + 8,972 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Innocuous Weapon|Innocuous Weapon (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

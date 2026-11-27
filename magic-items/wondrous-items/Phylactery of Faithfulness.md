@@ -7,10 +7,7 @@ aura: "Faint divination"
 caster-level: 1
 prerequisites: "Craft Wondrous Item, detect chaos, detect evil, detect good, detect law"
 price: "1,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Phylactery of Faithfulness|Phylactery of Faithfulness (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

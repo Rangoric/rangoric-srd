@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, slow, stone shape"
 price: "3,600 gp"
 cost: "1,800 gp"
 weight: "3 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Dust Of Weighty Burdens|Dust of Weighty Burdens (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Dust of Weighty Burdens|Dust of Weighty Burdens (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -8,11 +8,7 @@ aura: "Strong divination"
 caster-level: 14
 prerequisites: "Craft Magic Arms and Armor, true seeing"
 price: "+3 bonus"
-based-on:
-  - "[[path srd 3.5/items/armor-special-abilities/Sensing|Sensing (PF1)]]"
-  - "[[path srd 3.5 foundry/items/special-abilities/Sensing|Sensing (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -6,11 +6,7 @@ aura: "Faint evocation"
 caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, force punch"
 price: "+1 bonus"
-based-on:
-  - "[[path srd 3.5/rules/ultimate-equipment/magic-arms-and-armor/Armor Special Abilities#Ramming|Ramming (PF1)]]"
-  - "[[path srd 3.5 foundry/items/special-abilities/Ramming|Ramming (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/magic-item]
 ---

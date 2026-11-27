@@ -3,10 +3,7 @@ srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Major Artifact"
 caster-level: 25
-based-on:
-  - "[[individual books/Arms & Armor v3.5/artifacts/Skill Blade|Skill Blade (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/magic-item]
 ---

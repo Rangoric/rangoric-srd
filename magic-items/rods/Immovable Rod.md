@@ -6,10 +6,7 @@ aura: "Moderate transmutation"
 caster-level: 10
 prerequisites: "Craft Rod, levitate"
 price: "5,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rods/Immovable Rod|Immovable Rod (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -1,13 +1,7 @@
 ---
 srd-type: "overview"
 section: "Magic Items"
-based-on:
-  - "[[individual books/Faeries/rules/Magic Items#Dusts|Magic Items (Faeries)]]"
-  - "[[individual books/Faeries/rules/Traditional Magical Items|Traditional Magical Items (Faeries)]]"
-  - "[[individual books/Faeries/tables/Table 21 Dust Base Prices (By Crafter’s Class)|Table 21 Dust Base Prices (Faeries)]]"
-  - "[[individual books/Faeries/tables/Table 22 Base Cost to Craft Dust (By Crafter’s Class)|Table 22 Base Cost to Craft Dust (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/overview]
 ---

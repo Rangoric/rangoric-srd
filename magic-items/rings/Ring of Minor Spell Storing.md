@@ -8,10 +8,7 @@ aura: "Faint evocation"
 caster-level: 5
 prerequisites: "Forge Ring, imbue with spell ability"
 price: "18,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rings/Ring of Minor Spell Storing|Ring of Minor Spell Storing (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

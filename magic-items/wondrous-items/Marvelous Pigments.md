@@ -7,10 +7,7 @@ aura: "Strong conjuration"
 caster-level: 15
 prerequisites: "Craft Wondrous Item, major creation"
 price: "4,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Marvelous Pigments|Marvelous Pigments (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

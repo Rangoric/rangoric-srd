@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, summon monster V, summon monster VI"
 price: "90,000 gp"
 cost: "45,000 gp"
 weight: "5 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Brazier of Conjuring Fire Elementals|Brazier of Conjuring Fire Elementals (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Brazier of Conjuring Fire Elementals|Brazier of Conjuring Fire Elementals (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

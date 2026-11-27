@@ -6,10 +6,7 @@ aura: "Faint telepathy"
 manifester-level: 5
 prerequisites: "Craft Psionic Arms and Armor, aversion"
 price: "+12,960 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/armor-abilities/Averter|Averter (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -5,10 +5,7 @@ item-type: "Cursed Item"
 aura: "Moderate abjuration"
 caster-level: 13
 price: "16,500 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/cursed-items/Robe of Vermin|Robe of Vermin (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

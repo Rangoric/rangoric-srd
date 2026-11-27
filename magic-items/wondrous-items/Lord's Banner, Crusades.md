@@ -11,11 +11,7 @@ prerequisites: "Craft Wondrous Item, hallow"
 price: "100,000 gp"
 cost: "50,000 gp"
 weight: "3 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Lord's Banner|Lord's Banner (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Lord's Banner, Crusades|Lord's Banner, Crusades (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

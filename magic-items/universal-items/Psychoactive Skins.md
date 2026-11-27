@@ -7,10 +7,7 @@ manifester-level: 3
 prerequisites: "Craft Universal Item, chameleon"
 price: "18,000 gp"
 weight: "2 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/universal-items/Psychoactive Skins|Psychoactive Skins (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -6,10 +6,7 @@ aura: "Moderate transmutation"
 caster-level: 10
 prerequisites: "Brew Potion, keen edge"
 price: "4,000 gp"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Oil of Brilliance|Oil of Brilliance (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

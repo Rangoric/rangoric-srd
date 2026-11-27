@@ -6,10 +6,7 @@ aura: "Moderate transmutation"
 caster-level: 9
 prerequisites: "Craft Magic Arms and Armor, baleful polymorph"
 price: "9,000 gp"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/cursed-items/Bestial Armor|Bestial Armor (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/magic-item]
 ---

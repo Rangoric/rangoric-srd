@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, bull's strength, longshot"
 price: "42,000 gp"
 cost: "21,000 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Belt of Mighty Hurling, Greater|Belt of Mighty Hurling, Greater (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Belt of Mighty Hurling, Greater|Belt of Mighty Hurling, Greater (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

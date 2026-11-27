@@ -8,10 +8,7 @@ caster-level: 2
 prerequisites: "Craft Wondrous Item, ghost sound"
 price: "1,800 gp"
 weight: "3 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Pipes of Sounding|Pipes of Sounding (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

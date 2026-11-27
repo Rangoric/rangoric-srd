@@ -9,10 +9,7 @@ prerequisites: "Craft Wondrous Item, cure critical wounds"
 price: "24,000 gp"
 cost: "12,000 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5 foundry/items/wondrous/Talisman of Healing Power, Greater|Talisman of Healing Power, Greater (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/magic-item]
 ---

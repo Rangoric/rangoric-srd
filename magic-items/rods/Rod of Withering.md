@@ -8,10 +8,7 @@ aura: "Strong necromancy"
 caster-level: 13
 prerequisites: "Craft Rod, Craft Magic Arms and Armor, contagion"
 price: "25,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rods/Rod of Withering|Rod of Withering (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

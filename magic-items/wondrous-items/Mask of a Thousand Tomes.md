@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, clairaudience/clairvoyance"
 price: "10,000 gp"
 cost: "5,000 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Mask Of A Thousand Tomes|Mask of a Thousand Tomes (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Mask of a Thousand Tomes|Mask of a Thousand Tomes (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

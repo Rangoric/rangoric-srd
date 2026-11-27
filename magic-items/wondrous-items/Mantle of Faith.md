@@ -7,10 +7,7 @@ aura: "Strong abjuration [good]"
 caster-level: 20
 prerequisites: "Craft Wondrous Item, stoneskin"
 price: "76,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Mantle of Faith|Mantle of Faith (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

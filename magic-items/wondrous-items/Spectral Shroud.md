@@ -8,11 +8,7 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, hide from undead, see invisibility"
 price: "26,000 gp"
 cost: "13,000 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Spectral Shroud|Spectral Shroud (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Spectral Shroud|Spectral Shroud (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

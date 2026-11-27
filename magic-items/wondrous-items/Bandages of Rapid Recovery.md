@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, cure light wounds, lesser restoration, stab
 price: "200 gp"
 cost: "100 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Bandages of Rapid Recovery|Bandages of Rapid Recovery (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Bandages of Rapid Recovery|Bandages of Rapid Recovery (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, reincarnate or stone to flesh"
 price: "10,000 gp"
 cost: "5,000 gp"
 weight: "20 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Migrus Locker|Migrus Locker (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Migrus Locker|Migrus Locker (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, call lightning, control weather"
 price: "35,000 gp"
 cost: "17,500 gp"
 weight: "3 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Stormlord's Helm|Stormlord's Helm (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Stormlord's Helm|Stormlord's Helm (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

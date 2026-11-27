@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, Extend Spell, dimensional anchor, summon mo
 price: "5,000 gp"
 cost: "2,500 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Summoning Shackle|Summoning Shackle (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Summoning Shackle|Summoning Shackle (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

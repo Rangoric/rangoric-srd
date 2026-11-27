@@ -6,11 +6,7 @@ aura: "Moderate transmutation"
 caster-level: 10
 intended-item: "any belt"
 slot: "belt"
-based-on:
-  - "[[path srd 3.5/items/cursed-items/Girdle of Opposite Gender|Girdle of Opposite Gender (PF1)]]"
-  - "[[path srd 3.5 foundry/items/cursed/Girdle of Opposite Gender|Girdle of Opposite Gender (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

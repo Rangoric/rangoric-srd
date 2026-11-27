@@ -7,10 +7,7 @@ manifester-level: 5
 prerequisites: "Craft Universal Item, time hop"
 price: "9,000 gp"
 weight: "1/2 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/universal-items/Mirror of Time Hop|Mirror of Time Hop (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

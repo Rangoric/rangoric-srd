@@ -8,10 +8,7 @@ caster-level: 6
 prerequisites: "Craft Wondrous Item, fabricate, creator must have 1 rank in the Craft (shipmaking) skill"
 price: "7,200 gp"
 weight: "4 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Boat, Folding|Boat, Folding (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

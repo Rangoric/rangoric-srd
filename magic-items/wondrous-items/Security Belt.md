@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, magic aura, shrink item"
 price: "12,500 gp"
 cost: "6,250 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Security Belt|Security Belt (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Security Belt|Security Belt (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

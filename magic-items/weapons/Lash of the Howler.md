@@ -7,11 +7,7 @@ caster-level: 9
 prerequisites: "Craft Magic Arms and Armor, enervation, ray of sickening"
 price: "18,305 gp"
 cost: "9,305 gp"
-based-on:
-  - "[[path srd 3.5/items/specific-magic-weapons/Lash of the Howler|Lash of the Howler (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Lash of the Howler|Lash of the Howler (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/magic-item]
 ---

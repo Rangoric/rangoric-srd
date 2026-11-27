@@ -6,10 +6,7 @@ aura: "Moderate clairsentience"
 manifester-level: 8
 prerequisites: "Craft Psionic Arms and Armor, fate of one"
 price: "+1 bonus"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/weapon-abilities/Lucky|Lucky (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

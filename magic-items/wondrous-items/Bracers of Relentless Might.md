@@ -7,10 +7,7 @@ caster-level: 20
 prerequisites: "Craft Wondrous Item, Craft Epic Wondrous Item, bull’s strength, endurance, enlarge"
 price: "4,384,000 gp"
 weight: "1 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Bracers of Relentless Might|Bracers of Relentless Might (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---

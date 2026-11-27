@@ -7,11 +7,7 @@ caster-level: 13
 prerequisites: "Forge Ring, elemental aura, resist energy"
 price: "19,500 gp"
 cost: "9,750 gp"
-based-on:
-  - "[[path srd 3.5/items/rings/Ring of Energy Shroud|Ring of Energy Shroud (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Ring of Energy Shroud|Ring of Energy Shroud (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, endure elements"
 price: "15,600 gp"
 cost: "7,800 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Comfort's Cloak|Comfort's Cloak (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Comfort's Cloak|Comfort's Cloak (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

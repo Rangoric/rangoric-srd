@@ -7,11 +7,7 @@ caster-level: 17
 prerequisites: "Craft Magic Arms and Armor, wish or miracle"
 price: "22,060 gp (0 wishes), 62,360 gp (1 wish), 102,660 gp (2 wishes), 142,960 gp (3 wishes)"
 cost: "11,030 gp + 882 XP (0 wishes), 31,180 gp + 2,494 XP (1 wish)"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/weapons/Luck Blade|Luck Blade (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Luck Blade|Luck Blade (Arms & Armor)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

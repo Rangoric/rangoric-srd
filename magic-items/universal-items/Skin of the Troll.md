@@ -7,10 +7,7 @@ manifester-level: 17
 prerequisites: "Craft Universal Item, true metabolism"
 price: "61,200 gp"
 weight: "2 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/universal-items/Skin of the Troll|Skin of the Troll (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

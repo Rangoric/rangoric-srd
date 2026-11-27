@@ -7,11 +7,7 @@ caster-level: 12
 prerequisites: "Craft Magic Arms and Armor, animate objects, poison, true strike"
 price: "306 gp"
 cost: "156 gp"
-based-on:
-  - "[[path srd 3.5/items/misc/Snakebiter Arrow|Snakebiter Arrow (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Snakebiter Arrow|Snakebiter Arrow (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

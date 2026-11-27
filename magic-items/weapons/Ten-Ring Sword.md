@@ -7,11 +7,7 @@ caster-level: 7
 prerequisites: "Craft Magic Arms and Armor, mage hand, versatile weapon"
 price: "14,315 gp"
 cost: "7,157 gp"
-based-on:
-  - "[[path srd 3.5/items/specific-magic-weapons/Ten-ring sword|Ten-Ring Sword (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Ten-ring Sword|Ten-Ring Sword (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/magic-item]
 ---

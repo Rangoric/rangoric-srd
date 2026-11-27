@@ -7,10 +7,7 @@ aura: "Faint divination"
 caster-level: 3
 prerequisites: "Craft Wondrous Item, clairaudience/clairvoyance"
 price: "2,500 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Eyes of the Eagle|Eyes of the Eagle (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

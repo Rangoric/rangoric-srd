@@ -5,11 +5,7 @@ item-type: "Minor Artifact"
 aura: "Strong transmutation"
 caster-level: 20
 weight: "3 lbs."
-based-on:
-  - "[[path srd 3.5/items/artifacts/Perfect Golden Lute|Perfect Golden Lute (PF1)]]"
-  - "[[path srd 3.5 foundry/items/artifacts/Perfect Golden Lute|Perfect Golden Lute (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

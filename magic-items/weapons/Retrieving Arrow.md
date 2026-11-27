@@ -9,10 +9,7 @@ caster-level: 13
 prerequisites: "Craft Magic Arms and Armor, teleport object"
 price: "4,596 gp"
 cost: "2,301 gp + 183 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Arrow, Retrieving|Arrow, Retrieving (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

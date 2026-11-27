@@ -7,10 +7,7 @@ caster-level: 11
 prerequisites: "Craft Magic Arms and Armor, good hope"
 price: "23,425 gp"
 cost: "11,713 gp + 937 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Harp Bow|Harp Bow (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

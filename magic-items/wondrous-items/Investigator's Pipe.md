@@ -8,11 +8,7 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, guidance, unseen servant"
 price: "9,000 gp"
 cost: "4,500 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Investigator's Pipe|Investigator's Pipe (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Investigator's Pipe|Investigator's Pipe (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

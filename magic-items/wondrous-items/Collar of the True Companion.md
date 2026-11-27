@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, awaken, fox's cunning"
 price: "10,000 gp"
 cost: "5,000 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Collar of the True Companion|Collar of the True Companion (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Collar of the True Companion|Collar of the True Companion (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

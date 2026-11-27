@@ -8,10 +8,7 @@ caster-level: 3
 prerequisites: "Craft Wondrous Item, displacement"
 price: "24,000 gp"
 weight: "1 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Cloak of Displacement, Minor|Cloak of Displacement, Minor (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

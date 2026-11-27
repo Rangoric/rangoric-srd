@@ -5,11 +5,7 @@ item-type: "Legendary Weapon"
 scion-class: "[[rangoric-srd/prestige-classes/Battle Scion|Battle Scion]]"
 aliases: ["Dragondeath"]
 price: "14,335 gp"
-based-on:
-  - "[[fantasy srd 3.5/unearthed-arcana/Legendary Weapons & Familiar Items#Drakeblade|Drakeblade (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/legendary-weapons/Dragondeath|Dragondeath (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-09
 tags: [rangoric, rangoric/magic-item]
 ---

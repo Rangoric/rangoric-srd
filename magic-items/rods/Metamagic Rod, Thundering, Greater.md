@@ -7,12 +7,7 @@ caster-level: 17
 prerequisites: "Craft Rod, Thundering Spell"
 price: "73,000 gp"
 cost: "36,500 gp"
-based-on:
-  - "[[path srd 3.5/items/rods/Thundering Metamagic Rod|Thundering Metamagic Rod (PF1)]]"
-  - "[[path srd 3.5/items/rods/Metamagic, Thundering|Metamagic, Thundering (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Thundering Metamagic Rod, Greater|Metamagic Rod, Thundering, Greater (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

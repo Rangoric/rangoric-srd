@@ -4,10 +4,7 @@ section: "Magic Items"
 item-type: "Specific Shield"
 aura: "No aura (nonmagical)"
 price: "120 gp"
-based-on:
-  - "[[path srd 3.5/items/specific-magic-armor-and-shields/Living Steel Heavy Shield|Living Steel Heavy Shield (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/magic-item]
 ---

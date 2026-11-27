@@ -8,11 +8,7 @@ prerequisites: "Craft Magic Arms and Armor, shillelagh"
 price: "7,300 gp"
 cost: "3,800 gp"
 weight: "3 lbs."
-based-on:
-  - "[[path srd 3.5/items/weapons/Beaststrike Club|Beaststrike Club (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Beaststrike Club|Beaststrike Club (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/magic-item]
 ---

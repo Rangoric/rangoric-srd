@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, blur, enlarge person, creator must be a sor
 price: "15,000 gp"
 cost: "7,500 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Amulet of the Blooded|Amulet of the Blooded (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Amulet of the Blooded, Aberrant|Amulet of the Blooded, Aberrant (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

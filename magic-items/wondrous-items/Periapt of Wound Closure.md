@@ -7,10 +7,7 @@ aura: "Moderate conjuration"
 caster-level: 10
 prerequisites: "Craft Wondrous Item, heal"
 price: "15,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Periapt of Wound Closure|Periapt of Wound Closure (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

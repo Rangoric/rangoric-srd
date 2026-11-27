@@ -7,10 +7,7 @@ caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, remove fear"
 price: "9,250 gp"
 weight: "25 lb"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Byrne of the Brave|Byrne of the Brave (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

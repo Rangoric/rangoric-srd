@@ -8,10 +8,7 @@ aura: "Moderate psychometabolism"
 manifester-level: 9
 prerequisites: "Craft Psicrown, claw of energy, duodimensional claw, prevenom, psionic lion’s charge, truevenom"
 price: "33,750 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/psicrowns/Beast Psicrown|Beast Psicrown (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

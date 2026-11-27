@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, resistance"
 price: "200 gp"
 cost: "100 gp"
 weight: "2 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Soul Soap|Soul Soap (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Soul Soap|Soul Soap (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

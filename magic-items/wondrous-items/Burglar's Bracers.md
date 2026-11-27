@@ -9,10 +9,7 @@ prerequisites: "Craft Wondrous Item, shrink item"
 price: "1,050 gp"
 cost: "550 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Burglar's Bracers|Burglar's Bracers (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

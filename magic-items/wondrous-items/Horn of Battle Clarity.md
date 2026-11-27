@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, rage"
 price: "6,000 gp"
 cost: "3,000 gp"
 weight: "2 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Horn of Battle Clarity|Horn of Battle Clarity (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Horn of Battle Clarity|Horn of Battle Clarity (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

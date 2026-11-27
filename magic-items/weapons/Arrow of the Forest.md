@@ -7,10 +7,7 @@ caster-level: 3
 prerequisites: "Craft Magic Arms and Armor, true strike"
 price: "167 gp"
 cost: "84 gp + 7 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Arrow of the Forest|Arrow of the Forest (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

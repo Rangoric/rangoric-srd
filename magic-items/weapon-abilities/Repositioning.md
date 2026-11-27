@@ -6,11 +6,7 @@ aura: "Moderate enchantment"
 caster-level: 10
 prerequisites: "Craft Magic Arms and Armor, telekinesis"
 price: "+3 bonus"
-based-on:
-  - "[[path srd 3.5/items/weapon-special-abilities/Repositioning|Repositioning (PF1)]]"
-  - "[[path srd 3.5 foundry/items/special-abilities/Repositioning|Repositioning (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/magic-item]
 ---

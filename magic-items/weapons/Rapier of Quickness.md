@@ -7,10 +7,7 @@ caster-level: 6
 prerequisites: "Craft Magic Arms and Armor, haste, creator must have the Improved Initiative feat"
 price: "56,720 gp"
 cost: "28,360 gp + 2,269 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Rapier of Quickness|Rapier of Quickness (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

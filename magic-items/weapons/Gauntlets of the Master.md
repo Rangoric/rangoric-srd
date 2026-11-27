@@ -7,10 +7,7 @@ caster-level: 9
 prerequisites: "Craft Magic Arms and Armor, forceful hand"
 price: "50,303 gp"
 cost: "25,152 gp + 2,012 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Gauntlets of the Master|Gauntlets of the Master (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

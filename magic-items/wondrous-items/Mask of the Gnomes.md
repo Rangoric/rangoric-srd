@@ -8,10 +8,7 @@ caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, darkness, water breathing"
 price: "66,000 gp"
 cost: "33,000 gp + 2,400 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Mask of the Gnomes|Mask of the Gnomes (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

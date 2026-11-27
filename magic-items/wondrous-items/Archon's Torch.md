@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, archon's aura"
 price: "750 gp"
 cost: "375 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Archon's Torch|Archon's Torch (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Archon's Torch|Archon's Torch (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

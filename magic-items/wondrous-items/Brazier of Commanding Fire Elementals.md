@@ -8,10 +8,7 @@ caster-level: 13
 prerequisites: "Craft Wondrous Item, summon monster VI, summon monster VII"
 price: "100,000 gp"
 weight: "5 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Brazier of Commanding Fire Elementals|Brazier of Commanding Fire Elementals (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

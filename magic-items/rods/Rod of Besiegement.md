@@ -8,10 +8,7 @@ caster-level: 24
 prerequisites: "Craft Rod, Craft Epic Rod, Craft Magic Arms and Armor, clenched fist, passwall, telepathic bond, transmute rock to mud"
 price: "447,745 gp"
 cost: "to Create: 224,025 gp + 14,474 XP"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rods/Rod of Besiegement|Rod of Besiegement (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---

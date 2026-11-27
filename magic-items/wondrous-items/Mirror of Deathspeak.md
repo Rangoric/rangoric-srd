@@ -6,10 +6,7 @@ slot: "none"
 caster-level: 5
 prerequisites: "Craft Wondrous Item, speak with dead, Monk of any level"
 price: "60,000 gp"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/magic-items/Mirror of Deathspeak|Mirror of Deathspeak (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -7,10 +7,7 @@ caster-level: 7
 prerequisites: "Craft Magic Arms and Armor, creator must be a druid of at least 10th level"
 price: "32,302 gp"
 cost: "16,151 gp + 1,292 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Antler Spear|Antler Spear (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

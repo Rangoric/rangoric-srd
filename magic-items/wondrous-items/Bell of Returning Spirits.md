@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, raise dead, summon nature's ally"
 price: "3,000 gp"
 cost: "1,500 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Bell of Returning Spirits|Bell of Returning Spirits (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Bell of Returning Spirits|Bell of Returning Spirits (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -4,10 +4,7 @@ section: "Magic Items"
 item-type: "Cursed Item"
 aura: "Varies"
 intended-item: "any scroll"
-based-on:
-  - "[[path srd 3.5 foundry/items/cursed/Scroll of Blood Ink|Scroll of Blood Ink (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -8,11 +8,7 @@ prerequisites: "Craft Magic Arms and Armor, keen edge, malediction, unholy bligh
 price: "80,318 gp"
 cost: "40,318 gp"
 weight: "10 lbs."
-based-on:
-  - "[[path srd 3.5/items/hero-point-items/Reaver's Scythe|Reaver’s Scythe (PF1)]]"
-  - "[[path srd 3.5 foundry/items/weapons/Reaver's Scythe|Reaver’s Scythe (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/magic-item]
 ---

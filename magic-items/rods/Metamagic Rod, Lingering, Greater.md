@@ -7,12 +7,7 @@ caster-level: 17
 prerequisites: "Craft Rod, Lingering Spell"
 price: "24,500 gp"
 cost: "12,250 gp"
-based-on:
-  - "[[path srd 3.5/items/rods/lingering Metamagic Rod|Lingering Metamagic Rod (PF1)]]"
-  - "[[path srd 3.5/items/rods/Metamagic, Lingering|Metamagic, Lingering (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Lingering Metamagic Rod, Greater|Metamagic Rod, Lingering, Greater (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

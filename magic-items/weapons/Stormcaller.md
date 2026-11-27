@@ -7,10 +7,7 @@ caster-level: 6
 prerequisites: "Craft Magic Arms and Armor, call lightning"
 price: "40,715 gp"
 cost: "20,358 gp + 1,629 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Stormcaller|Stormcaller (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

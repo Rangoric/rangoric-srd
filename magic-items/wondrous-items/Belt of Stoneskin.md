@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, stoneskin, creator must be an oread or a cr
 price: "60,000 gp"
 cost: "30,000 gp"
 weight: "10 lbs."
-based-on:
-  - "[[path srd 3.5/items/featured-race/Belt of Stoneskin|Belt of Stoneskin (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Belt of Stoneskin|Belt of Stoneskin (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

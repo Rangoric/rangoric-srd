@@ -5,10 +5,7 @@ item-type: "Potion"
 caster-level: 7
 prerequisites: "Brew Potion, greater invisibility"
 price: "2,100 gp"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/magic-items/Potion of Absolute Invisibility|Potion of Absolute Invisibility (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

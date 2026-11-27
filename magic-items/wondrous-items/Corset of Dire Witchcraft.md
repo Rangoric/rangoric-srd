@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, mage armor, creator must be a witch"
 price: "22,000 gp"
 cost: "11,000 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Corset of Dire Witchcraft|Corset of Dire Witchcraft (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Corset of Dire Witchcraft|Corset of Dire Witchcraft (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

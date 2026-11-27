@@ -8,11 +8,7 @@ prerequisites: "Craft Magic Arms and Armor, animate rope"
 price: "12,350 gp"
 cost: "6,350 gp"
 weight: "8 lbs."
-based-on:
-  - "[[path srd 3.5/items/weapons/Blade of Binding|Blade of Binding (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Blade of Binding|Blade of Binding (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/magic-item]
 ---

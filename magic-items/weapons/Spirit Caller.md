@@ -7,11 +7,7 @@ caster-level: 9
 prerequisites: "Craft Magic Arms and Armor, magic jar, plane shift"
 price: "25,302 gp"
 cost: "12,802 gp"
-based-on:
-  - "[[path srd 3.5/items/specific-magic-weapons/Spirit Caller|Spirit Caller (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Spirit Caller|Spirit Caller (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/magic-item]
 ---

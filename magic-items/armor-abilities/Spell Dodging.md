@@ -6,11 +6,7 @@ aura: "Faint abjuration"
 caster-level: 4
 prerequisites: "Craft Magic Arms and Armor, mage armor"
 price: "+2 bonus"
-based-on:
-  - "[[path srd 3.5/items/armor-special-abilities/Spell Dodging|Spell Dodging (PF1)]]"
-  - "[[path srd 3.5 foundry/items/special-abilities/Spell Dodging|Spell Dodging (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/magic-item]
 ---

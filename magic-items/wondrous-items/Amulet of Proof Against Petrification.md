@@ -8,11 +8,7 @@ caster-level: 8
 prerequisites: "Craft Wondrous Item, stone to flesh"
 price: "8,000 gp"
 cost: "4,000 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Amulet of Proof Against Petrification|Amulet of Proof Against Petrification (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Amulet of Proof Against Petrification|Amulet of Proof Against Petrification (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

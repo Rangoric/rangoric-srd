@@ -6,11 +6,7 @@ aura: "Strong enchantment"
 caster-level: 18
 slot: "head"
 weight: "3 lbs."
-based-on:
-  - "[[path srd 3.5/items/artifacts/Crown of the Iron King|Crown of the Iron King (PF1)]]"
-  - "[[path srd 3.5 foundry/items/artifacts/Crown of the Iron King|Crown of the Iron King (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

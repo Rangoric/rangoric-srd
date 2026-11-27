@@ -8,10 +8,7 @@ caster-level: 7
 prerequisites: "Craft Wondrous Item, water breathing"
 price: "7,250 gp"
 weight: "2 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Bottle of Air|Bottle of Air (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

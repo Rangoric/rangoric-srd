@@ -7,11 +7,7 @@ caster-level: 9
 prerequisites: "Craft Rod, cone of cold"
 price: "8,500 gp"
 cost: "4,250 gp"
-based-on:
-  - "[[path srd 3.5/items/rods/Rod of Ice|Rod of Ice (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Rod of Ice|Rod of Ice (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, bull's strength, feather step"
 price: "11,000 gp"
 cost: "5,500 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Minotaur Belt|Minotaur Belt (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Minotaur Belt|Minotaur Belt (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

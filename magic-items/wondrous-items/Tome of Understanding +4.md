@@ -9,10 +9,7 @@ prerequisites: "Craft Wondrous Item, miracle or wish"
 price: "110,000 gp"
 cost: "5,000 gp + 20,400 XP"
 weight: "5 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Tome of Understanding|Tome of Understanding (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

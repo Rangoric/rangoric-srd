@@ -8,10 +8,7 @@ caster-level: 9
 prerequisites: "Craft Wondrous Item, unhallow, creator must be evil"
 price: "60,000 gp"
 weight: "5 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Darkskull|Darkskull (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

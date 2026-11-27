@@ -5,11 +5,7 @@ item-type: "Cursed Item"
 aura: "Moderate enchantment"
 caster-level: 9
 intended-item: "ring of mind shielding, ring of x-ray vision"
-based-on:
-  - "[[path srd 3.5/items/cursed-items/Ring of Truth|Ring of Truth (PF1)]]"
-  - "[[path srd 3.5 foundry/items/cursed/Ring of Truth|Ring of Truth (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

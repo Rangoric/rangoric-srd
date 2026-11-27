@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, beast shape I, charm animal, detect animals
 price: "8,500 gp"
 cost: "4,250 gp"
 weight: "3 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Helm of the Mammoth Lord|Helm of the Mammoth Lord (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Helm of the Mammoth Lord|Helm of the Mammoth Lord (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

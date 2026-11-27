@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, life channel"
 price: "12,000 gp"
 cost: "6,000 gp"
 weight: "1/2 lb."
-based-on:
-  - "[[path srd 3.5/items/featured-race/Amulet of Channeled Life|Amulet of Channeled Life (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Amulet of Channeled Life|Amulet of Channeled Life (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

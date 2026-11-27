@@ -7,11 +7,7 @@ caster-level: 13
 prerequisites: "Combat Reflexes, Craft Magic Arms and Armor, cat's grace, daze"
 price: "35,320 gp"
 cost: "17,820 gp"
-based-on:
-  - "[[path srd 3.5/items/specific-weapons/Duelist's Comate|Duelist’s Comate (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Duelist's Comate|Duelist’s Comate (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/magic-item]
 ---

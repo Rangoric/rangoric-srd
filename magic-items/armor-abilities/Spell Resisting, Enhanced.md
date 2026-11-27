@@ -8,10 +8,7 @@ aura: "Strong abjuration"
 caster-level: 15
 prerequisites: "Craft Magic Arms and Armor, spell resistance"
 price: "+3 bonus"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/armor-qualities/Resisting, Enhanced Spell|Resisting, Enhanced Spell (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

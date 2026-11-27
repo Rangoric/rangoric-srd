@@ -6,11 +6,7 @@ aura: "Faint transmutation"
 caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, feather step"
 price: "+2 bonus"
-based-on:
-  - "[[path srd 3.5/items/weapon-special-abilities/Advancing|Advancing (PF1)]]"
-  - "[[path srd 3.5 foundry/items/special-abilities/Advancing|Advancing (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/magic-item]
 ---

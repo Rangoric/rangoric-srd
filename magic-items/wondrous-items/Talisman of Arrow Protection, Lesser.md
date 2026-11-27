@@ -9,10 +9,7 @@ prerequisites: "Craft Wondrous Item, protection from arrows"
 price: "600 gp"
 cost: "300 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5 foundry/items/wondrous/Talisman of Arrow Protection, Lesser|Talisman of Arrow Protection, Lesser (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/magic-item]
 ---

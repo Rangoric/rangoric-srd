@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, hideous laughter or the cackle hex, creator
 price: "6,000 gp"
 cost: "3,000 gp"
 weight: "2 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Cackling Hag's Blouse|Cackling Hag's Blouse (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Cackling Hag's Blouse|Cackling Hag's Blouse (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

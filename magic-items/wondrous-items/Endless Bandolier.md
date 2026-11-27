@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, secret chest"
 price: "1,500 gp"
 cost: "750 gp"
 weight: "2 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Endless Bandolier|Endless Bandolier (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Endless Bandolier|Endless Bandolier (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

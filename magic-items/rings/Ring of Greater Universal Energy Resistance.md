@@ -8,10 +8,7 @@ caster-level: 20
 prerequisites: "Forge Ring, Forge Epic Ring, protection from energy"
 price: "308,000 gp"
 cost: "to Create: 154,000 gp + 13,080 XP"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rings/Ring of Greater Universal Energy Resistance|Ring of Greater Universal Energy Resistance (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---

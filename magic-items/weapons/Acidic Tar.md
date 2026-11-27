@@ -3,10 +3,7 @@ srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Specific Weapon"
 price: "50 gp"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Acidic Tar|Acidic Tar (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

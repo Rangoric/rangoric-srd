@@ -7,10 +7,7 @@ manifester-level: 7
 prerequisites: "Craft Universal Item, metamorphosis"
 price: "84,000 gp"
 weight: "2 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/universal-items/Skin of Proteus|Skin of Proteus (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

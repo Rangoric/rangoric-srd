@@ -14,11 +14,7 @@ ego: 6
 alignment: "chaotic neutral"
 senses: "120 ft., darkvision"
 language: "telepathy (Aklo)"
-based-on:
-  - "[[path srd 3.5/items/intelligent-items/Rod that Should Not Be (Greater)|Rod that Should Not Be (Greater) (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Rod That Should Not Be (greater)|Rod That Should Not Be (greater) (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

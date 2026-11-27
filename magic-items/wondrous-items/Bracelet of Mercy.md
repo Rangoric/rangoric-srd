@@ -8,11 +8,7 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, remove disease"
 price: "15,000 gp"
 cost: "7,500 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Bracelet of Mercy|Bracelet of Mercy (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Bracelet of Mercy|Bracelet of Mercy (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

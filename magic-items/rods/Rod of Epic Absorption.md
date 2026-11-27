@@ -7,10 +7,7 @@ aliases:
 caster-level: 23
 prerequisites: "Craft Rod, Craft Epic Rod, Empower Spell, Maximize Spell, empowered maximized spell turning"
 price: "1,500,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rods/Rod of Epic Absorption|Rod of Epic Absorption (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---

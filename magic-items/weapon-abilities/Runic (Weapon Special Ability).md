@@ -7,11 +7,7 @@ aliases:
 caster-level: 14
 prerequisites: "Craft Magic Arms and Armor, Dagaz rune"
 price: "+3 bonus"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/magic-items/Runic Weapon|Runic Weapon (Spells & Magic)]]"
-  - "[[individual books/Arms & Armor v3.5/weapon-qualities/Runic|Runic (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---
