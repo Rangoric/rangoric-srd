@@ -43,6 +43,9 @@
   or another feat (or monsters/Monster Feats), and a feat link isn't split in two ("[[X|Craft Magic Arms and]]" then
   "[[X|Armor]]"). A label may add a tag like " (E)", and a replaced feat's old name may point to the feat that
   replaced it. Checked like links (Feat Links by Name, FN 1, 2026-11-27).
+- Alignment tags: a note with a `descriptor:` list carries the tag `chaotic`, `lawful`, `good` or `evil` for each
+  of the Chaotic, Lawful, Good and Evil descriptors in it, and none for one it lacks (Chaos and Law Descriptors,
+  2026-11-27; Magic Overview's ^alignment-descriptors; ALIGNMENT).
 - Marks: a note marked `sweep: failing` lists its problems in `sweep-issues`; a listed problem is a warning, one
   not listed still fails. A marked note with no problems left, or a listed issue that's gone, is a warning. A note
   added by the change (--added) can't be marked.
@@ -483,6 +486,24 @@ def regeneration_unnamed(rel, data, body):
     return [f'regeneration names nothing: {m.group(0)}' for m in REGEN_UNNAMED.finditer(text)]
 
 
+ALIGNMENT = {'Chaotic': 'chaotic', 'Lawful': 'lawful', 'Good': 'good', 'Evil': 'evil'}
+
+
+def alignment_tags(data):
+    """A note's alignment tags against its descriptors (Chaos and Law Descriptors): each of Chaotic, Lawful, Good
+    and Evil in `descriptor:` has its tag, and no alignment tag is there without its descriptor."""
+    if 'descriptor' not in data:
+        return []
+    vals = data.get('descriptor') or []
+    vals = [str(v) for v in (vals if isinstance(vals, list) else [vals])]
+    tags = data.get('tags') or []
+    tags = [str(t) for t in (tags if isinstance(tags, list) else [tags])]
+    want = {ALIGNMENT[v] for v in vals if v in ALIGNMENT}
+    have = {t for t in tags if t in ALIGNMENT.values()}
+    return ([f'descriptor {d.capitalize()} without the tag {d}' for d in sorted(want - have)]
+            + [f'tag {d} without the descriptor {d.capitalize()}' for d in sorted(have - want)])
+
+
 EDITION = re.compile(r"\((?:Pathfinder|3\.5|PF1)\)|\bPathfinder(?:’s|'s)?\b"
                      r"|(?<![\d.|])\b3\.[05](?:’s|'s)?(?=[\s’'*]|$)(?! for d)")
 
@@ -526,6 +547,7 @@ def rule_problems(rel, data, body):
     folder = folder_rules(rel)
     data = {k: v for k, v in data.items() if k not in ('sweep', 'sweep-issues')}
     out += regeneration_unnamed(rel, data, body)
+    out += alignment_tags(data)
     if 'all' in README_RULES:
         apply_table(README_RULES['all']['keys'], data, out)
     if 'all' in folder:

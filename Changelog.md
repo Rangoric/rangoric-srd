@@ -8,6 +8,7 @@ Every departure from the source rules, newest first. One line each, with links t
 
 | Date | Change | Rangoric note | Source | Why |
 | --- | --- | --- | --- | --- |
+| 2026-11-27 | Chaos and law descriptors (CL 7): the Spells and Powers Note Rules list the allowed descriptors, and "Check notes" fails a note whose chaotic, lawful, good or evil tags don't match its descriptors. | [[CL Batch 7 Changes]] | | [[Chaos and Law Descriptors]] CL 7 |
 | 2026-11-26 | Chaos and law descriptors (CL 6): 70 spells have one spelling of each descriptor (Mind-Affecting, Language-Dependent, See text), and subschools in the descriptor slot move to the subschool. | [[CL Batch 6 Changes]] | | [[Chaos and Law Descriptors]] CL 6 |
 | 2026-11-26 | Chaos and law descriptors (CL 5): 75 spells have one spelling of each descriptor (Mind-Affecting, Language-Dependent, See text), and subschools in the descriptor slot move to the subschool. | [[CL Batch 5 Changes]] | | [[Chaos and Law Descriptors]] CL 5 |
 | 2026-11-26 | Chaos and law descriptors (CL 4): 75 spells have one spelling of each descriptor (Mind-Affecting, Language-Dependent, See text), Fire Shield lists Fire and Cold, and subschools in the descriptor slot move to the subschool. | [[CL Batch 4 Changes]] | | [[Chaos and Law Descriptors]] CL 4 |
