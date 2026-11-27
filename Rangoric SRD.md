@@ -20,7 +20,7 @@ My combined rules: one version of each rule, drawn from the sources below. The p
 ## How it gets built
 
 - **Adjust piecemeal.** Pull in improvements from the other sources one area at a time, starting with what the shared core of the rogue-like and auto-battler needs.
-- **Every entry links back.** Each note's `based-on` property names the notes it came from, so the original text is one click away. When an entry changes, set `change: modified` and log it in the [[Changelog]].
+- **Sources are kept outside the SRD.** The workshop keeps which notes each entry came from. When an entry changes, log it in the [[Changelog]].
 
 ## Folders
 
@@ -51,21 +51,18 @@ Each folder has an Index base.
 Every copied note keeps the SRD's own properties (`srd-type`, `school`, `level`, `hit-dice`…) and adds:
 
 ```yaml
-based-on:                  # links to the notes it came from
-  - "[[fantasy srd 3.5/feats/Power Attack|Power Attack]]"
 status: base               # base (unchanged copy), draft, playtest, settled, replaced (with replaced-by)
-change: copied             # copied, modified, new
 pi-review: scanned 2026-10-15   # scanned (scanner clean, not read), flagged (see pi-flags), or a date (reviewed in full)
 tags: [rangoric, rangoric/feat]
 ```
 
-Notes that pull from more than one source list each one under `based-on`, and can add `games: [rogue-like, auto-battler]`.
+Notes can add `games: [rogue-like, auto-battler]`.
 
 Topic tags go in the same `tags` list, lowercase and with no prefix, such as `core`, `background`, `knowledge` and `magic` on skills. Rule text capitalizes them ("Knowledge skills", "a Core skill"). The [[Tag Register]] lists every tag, the note that defines it and how many notes carry it.
 
 ## Decisions to make
 
-- [x] Changed content: edit the copied note in place; `based-on` links to the original and the [[Changelog]] records the change
+- [x] Changed content: edit the copied note in place; the [[Changelog]] records the change
 - [ ] Resolve the 11 notes with `pi-review: flagged` (their `pi-flags` property says why)
 - [ ] Do feats, class features, talents and Starfinder theme features become one `talents` pool?
 - [ ] Do spells, psionic powers and monster special attacks become one `abilities` format?
