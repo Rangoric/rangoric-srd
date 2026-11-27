@@ -205,3 +205,5 @@ Familiar: A deity of rank 1 or higher with levels as a [[rangoric-srd/classes/So
 ##### Divine Items
 
 Items made by gods, from primal artifacts to the divine items that further a god’s portfolio, are described in [[rangoric-srd/divine/Divine Items|Divine Items]].
+
+The gods themselves are in [[rangoric-srd/divine/Pantheons|Pantheons]].

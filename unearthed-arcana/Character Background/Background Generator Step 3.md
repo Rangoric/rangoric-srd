@@ -172,7 +172,32 @@ If you have the Criminal social trait, roll on [[#^crime|Table: Crime]] to deter
 
 ## Deity and Religious Philosophy
 
-Once you have determined your alignment, choose a deity or religious philosophy. Association with a specific deity gives you access to a related religion trait; for a deity of the campaign, the GM names the faith trait it grants. Even if you are not interested in your character being associated with a deity, you can choose "No Deity" or "Undecided" granting you access to abilities outside the realm of faith.
+Once you have determined your alignment, choose a deity or religious philosophy. Association with a specific deity gives you access to a related religion trait: choose from the table below, or for another deity of the campaign the GM names the faith trait it grants. The gods are described in [[rangoric-srd/divine/Pantheons|Pantheons]]. Even if you are not interested in your character being associated with a deity, you can choose "No Deity" or "Undecided" granting you access to abilities outside the realm of faith.
+
+**Table: Deities**
+
+| Deity                                                               | Portfolio                                              | Faith trait                                                                                               |
+| ------------------------------------------------------------------- | ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- |
+| [[rangoric-srd/divine/Pantheons#Babylonian and Sumerian\|Marduk]]   | kingship, cities, order, magic                         | the [[rangoric-srd/traits/faith-traits/Eyes and Ears of the City\|Eyes and Ears of the City]] faith trait |
+| [[rangoric-srd/divine/Pantheons#Fiends and other powers\|Asmodeus]] | contracts, pride, tyranny                              | the [[rangoric-srd/traits/faith-traits/Asmodean Demon Hunter\|Asmodean Demon Hunter]] faith trait         |
+| [[rangoric-srd/divine/Pantheons#Greek and Roman\|Dionysus]]         | wine, revelry, freedom, madness                        | the [[rangoric-srd/traits/faith-traits/Fortified Drinker\|Fortified Drinker]] faith trait                 |
+| [[rangoric-srd/divine/Pantheons#Babylonian and Sumerian\|Ishtar]]   | love, desire, war, revenge                             | the [[rangoric-srd/traits/faith-traits/Divine Courtesan\|Divine Courtesan]] faith trait                   |
+| [[rangoric-srd/divine/Pantheons#Greek and Roman\|Hecate]]           | magic, crossroads, the night, ghosts                   | the [[rangoric-srd/traits/faith-traits/Starchild\|Starchild]] faith trait                                 |
+| [[rangoric-srd/divine/Pantheons#Norse\|Ullr]]                       | hunting, archery, duels                                | the [[rangoric-srd/traits/faith-traits/Patient Optimist\|Patient Optimist]] faith trait                   |
+| [[rangoric-srd/divine/Pantheons#Greek and Roman\|Ares]]             | war, battle-lust, courage                              | the [[rangoric-srd/traits/faith-traits/Veteran of Battle\|Veteran of Battle]] faith trait                 |
+| [[rangoric-srd/divine/Pantheons#Japanese\|Susanoo]]                 | storms, the sea, heroism                               | the [[rangoric-srd/traits/faith-traits/Child of Nature\|Child of Nature]] faith trait                     |
+| [[rangoric-srd/divine/Pantheons#Greek and Roman\|Athena]]           | wisdom, strategy, crafts, just war                     | the [[rangoric-srd/traits/faith-traits/Divine Warrior\|Divine Warrior]] faith trait                       |
+| [[rangoric-srd/divine/Pantheons#Japanese\|Omoikane]]                | wisdom, counsel, thought                               | the [[rangoric-srd/traits/faith-traits/Wisdom in the Flesh\|Wisdom in the Flesh]] faith trait             |
+| [[rangoric-srd/divine/Pantheons#Babylonian and Sumerian\|Tiamat]]   | the primordial sea, chaos, the mother of monsters      | the [[rangoric-srd/traits/faith-traits/Voice of Monsters\|Voice of Monsters]] faith trait                 |
+| [[rangoric-srd/divine/Pantheons#Egyptian\|Isis]]                    | magic, healing, mothers                                | the [[rangoric-srd/traits/faith-traits/Magic is Life\|Magic is Life]] faith trait                         |
+| [[rangoric-srd/divine/Pantheons#Norse\|Loki]]                       | trickery, schemes, fire, shapechanging                 | the [[rangoric-srd/traits/faith-traits/Shadow Whispers\|Shadow Whispers]] faith trait                     |
+| [[rangoric-srd/divine/Pantheons#Japanese\|Izanami]]                 | birth, death, the land of the dead                     | the [[rangoric-srd/traits/faith-traits/Undead Slayer (Trait)\|Undead Slayer]] faith trait                 |
+| [[rangoric-srd/divine/Pantheons#Egyptian\|Apep]]                    | chaos, darkness, the serpent that would devour the sun | the [[rangoric-srd/traits/faith-traits/Wrecking Wrath\|Wrecking Wrath]] faith trait                       |
+| [[rangoric-srd/divine/Pantheons#Japanese\|Amaterasu]]               | the sun, rulership, weaving                            | the [[rangoric-srd/traits/faith-traits/Flame of the Dawn\|Flame of the Dawn]] faith trait                 |
+| [[rangoric-srd/divine/Pantheons#Egyptian\|Hathor]]                  | love, music, joy, beauty                               | the [[rangoric-srd/traits/faith-traits/Ear for Music\|Ear for Music]] faith trait                         |
+| [[rangoric-srd/divine/Pantheons#Greek and Roman\|Hephaestus]]       | the forge, smiths, fire                                | the [[rangoric-srd/traits/faith-traits/Guardian of the Forge\|Guardian of the Forge]] faith trait         |
+| [[rangoric-srd/divine/Pantheons#Babylonian and Sumerian\|Nergal]]   | plague, war, the underworld                            | the [[rangoric-srd/traits/faith-traits/Corpse Cannibal\|Corpse Cannibal]] faith trait                     |
+| [[rangoric-srd/divine/Pantheons#Norse\|Hel]]                        | death, the cold dark, the dishonored dead              | the [[rangoric-srd/traits/faith-traits/Pain Is Pleasure\|Pain Is Pleasure]] faith trait                   |
 
 **No Deity**: Even in a world filled with the powers of the divine, you have decided to follow reason, put your faith in the potential of mortals, or otherwise invest in the ways of the material world instead of embracing the teachings of deities. You gain access to the Tireless Logic social trait.
 

@@ -56,6 +56,10 @@
   capitalized words ("speak with outsiders") isn't a language list (LANGUAGE).
 - Linnorm: no note but legal/ and the Changelog says "linnorm" outside a [[path srd 3.5/...]] link; the SRD calls
   it the lindwurm (Linnorm to Lindwurm, 2026-11-27; LINNORM).
+- Setting names: a changed note's text names none of Pathfinder's own setting names (World Building for Pathfinder
+  Names, 2026-11-27; SRD Content Rules, Setting names): its gods, places and cosmology, and Kostchtchie (Koschei now),
+  whole words (SETTING_NAMES). What a reader sees is checked: link targets, code and comments are dropped. legal/ and
+  the Changelog are exempt. The gods the SRD uses are in divine/Pantheons.
 - Marks: a note marked `sweep: failing` lists its problems in `sweep-issues`; a listed problem is a warning, one
   not listed still fails. A marked note with no problems left, or a listed issue that's gone, is a warning. A note
   added by the change (--added) can't be marked.
@@ -614,6 +618,29 @@ def linnorm(rel, text):
             if LINNORM.search(line)]
 
 
+SETTING_NAMES = ['Abadar', 'Cayden Cailean', 'Calistria', 'Desna', 'Erastil', 'Gorum', 'Gozreh', 'Iomedae', 'Irori',
+                 'Nethys', 'Norgorber', 'Pharasma', 'Rovagug', 'Sarenrae', 'Shelyn', 'Torag', 'Urgathoa', 'Zon-Kuthon',
+                 'Dawnflower', 'Aroden',
+                 'Golarion', 'Darklands', 'Absalom', 'Inner Sea', 'Varisia', 'Cheliax', 'Osirion', 'Qadira', 'Taldor',
+                 'Andoran', 'Numeria', 'Mwangi', 'Tian Xia', 'Vudra', 'Irrisen', 'Ustalav', 'Jalmeray', 'Kyonin',
+                 'Thassilon', 'Azlant', 'Nar-Voth', 'Sekamina', 'Orv', 'Pact Worlds', 'Shibaxet', 'xulgath',
+                 'Great Beyond', 'First World', 'Boneyard', 'Axis', 'Outer Sphere', 'Inner Sphere',
+                 'Kostchtchie']
+SETTING = re.compile(r'(?<![\w-])(' + '|'.join(re.escape(n) for n in SETTING_NAMES) + r')(?![\w-])')
+
+
+def setting_names(rel, body):
+    """Pathfinder setting names in what a reader sees of a note (World Building for Pathfinder Names). legal/ and the
+    Changelog are exempt."""
+    if rel.startswith('legal/') or rel == 'Changelog.md':
+        return []
+    text = re.sub(r'<!--.*?-->|%%.*?%%', '', strip_code(body), flags=re.S)
+    text = re.sub(r'\[\[[^\]|]*\\?\|', '[[', text)
+    text = re.sub(r'\[\[[^\]|]*/([^\]|/]*)\]\]', r'[[\1]]', text)
+    return list(dict.fromkeys(f'Pathfinder setting name: {m.group(1)} (see SRD Content Rules, Setting names)'
+                              for m in SETTING.finditer(text)))
+
+
 SLIPS = [(re.compile(r'(?<![.\]/])(?<!\.\.)\.\.(?![./])'), 'a doubled full stop'), (re.compile(r',,'), 'a doubled comma')]
 
 
@@ -691,6 +718,7 @@ for rel in sorted(f for f in files if f.endswith('.md')):
     links.extend(f'{rel}: {p}' for p in edition_names(rel, body))
     links.extend(f'{rel}: {p}' for p in slips(rel, text))
     links.extend(f'{rel}: {p}' for p in linnorm(rel, text))
+    links.extend(f'{rel}: {p}' for p in setting_names(rel, body))
     links.extend(f'{rel}: {p}' for p in two_skill_feat(rel, body))
     links.extend(f'{rel}: {p}' for p in languages(rel, body))
     marked = data.get('sweep') == 'failing'
