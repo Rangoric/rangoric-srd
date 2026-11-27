@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "tools and skill kits"
 price: "25 gp"
 weight: "25 lb."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/gear/Portable Sweat Lodge|Portable Sweat Lodge (PF1 F)]]"
 status: draft

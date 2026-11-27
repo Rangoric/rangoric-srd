@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "mounts and related gear"
 price: "5 gp"
 weight: "7 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/animals-mounts-and-related-gear/Raccoon|Raccoon (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Raccoon (Item)|Raccoon (Item) (PF1 F)]]"

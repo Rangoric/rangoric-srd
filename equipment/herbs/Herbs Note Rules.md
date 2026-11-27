@@ -17,7 +17,6 @@ What the notes in `equipment/herbs` look like. Expands on [[rangoric-srd/equipme
 | ----------------- | -------- | ------------------------ |
 | `srd-type`        | yes      | `herb`                   |
 | `section`         | yes      | `Equipment`              |
-| `book`            | yes      | `text`                   |
 | `rarity`          | yes      | `text`                   |
 | `environment`     | yes      | `text`                   |
 | `harvest`         | yes      | `text`                   |
@@ -37,7 +36,6 @@ Headings, in order:
 | ---------- | -------- | ----------- |
 | `srd-type` | yes      | `overview`  |
 | `section`  | yes      | `Equipment` |
-| `book`     | yes      | `text`      |
 
 Headings, in order:
 

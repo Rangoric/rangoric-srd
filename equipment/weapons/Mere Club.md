@@ -10,7 +10,6 @@ damage-medium: "1d4"
 critical: "x2"
 weight-lb: 2
 damage-type: "Bludgeoning or piercing"
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/primitive-armor-and-weapons/Mere Club|Mere Club (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Mere Club|Mere Club (PF1 F)]]"

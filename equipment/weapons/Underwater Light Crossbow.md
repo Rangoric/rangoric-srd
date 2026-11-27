@@ -11,7 +11,6 @@ critical: "19–20/x2"
 range-ft: 80
 weight-lb: 4
 damage-type: "Piercing"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/weapons/Underwater Light Crossbow|Underwater Light Crossbow (PF1)]]"
 status: draft

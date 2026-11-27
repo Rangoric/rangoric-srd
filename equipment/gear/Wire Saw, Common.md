@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "30 gp"
 weight: "—"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/adventuring-gear/Wire Saw|Wire Saw (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Wire saw, common|Wire saw, common (PF1 F)]]"

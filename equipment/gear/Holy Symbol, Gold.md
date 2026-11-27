@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "tools and skill kits"
 price: "100 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/adventuring-gear/Holy Symbol|Holy Symbol (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Holy symbol (Gold)|Holy symbol (Gold) (PF1 F)]]"

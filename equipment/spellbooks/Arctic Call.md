@@ -6,7 +6,6 @@ caster-level: 11
 role: "Evoker"
 price: "4,305 gp"
 price-with-ritual: "5,955 gp"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/rules/ultimate-magic/mastering-magic/Spellbooks|Arctic Call (PF1 Ultimate Magic)]]"
 status: draft

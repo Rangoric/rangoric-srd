@@ -13,7 +13,6 @@ spell-failure: 15
 speed-30: 30
 speed-20: 20
 weight-lb: 20
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/armor/Parade|Parade (PF1)]]"
 status: draft

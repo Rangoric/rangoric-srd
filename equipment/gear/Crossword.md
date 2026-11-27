@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "entertainment"
 price: "1 cp–1 sp"
 weight: "—"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/entertainment-and-trade-goods/Crossword|Crossword (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Crossword|Crossword (PF1 F)]]"

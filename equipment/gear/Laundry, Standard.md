@@ -3,7 +3,6 @@ srd-type: "gear"
 section: "Equipment"
 gear-type: "spellcasting and services"
 price: "1 sp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/lodging-and-services/Laundry (Item)|Laundry (Item) (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Service, Laundry|Service, Laundry (PF1 F)]]"

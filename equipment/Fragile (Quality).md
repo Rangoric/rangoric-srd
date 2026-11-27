@@ -3,7 +3,6 @@ srd-type: "rules"
 section: "Equipment"
 aliases:
   - "Fragile"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/rules/ultimate-combat/mastering-combat/Primitive Armor and Weapons#Fragile|Fragile (PF1)]]"
 status: draft

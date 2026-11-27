@@ -13,7 +13,6 @@ spell-failure: 30
 speed-30: 20
 speed-20: 15
 weight-lb: 40
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/armor/Mountain Pattern|Mountain Pattern (PF1)]]"
   - "[[path srd 3.5 foundry/items/armor/Mountain Pattern|Mountain Pattern (PF1 F)]]"

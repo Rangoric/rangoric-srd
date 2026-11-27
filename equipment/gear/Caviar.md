@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "food, drink, and lodging"
 price: "50 gp"
 weight: "—"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/food-and-drink/Caviar|Caviar (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Caviar|Caviar (PF1 F)]]"

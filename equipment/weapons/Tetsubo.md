@@ -10,7 +10,6 @@ damage-medium: "1d10"
 critical: "x4"
 weight-lb: 10
 damage-type: "Bludgeoning"
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/eastern-armor-and-weapons/Tetsubo|Tetsubo (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Tetsubo|Tetsubo (PF1 F)]]"

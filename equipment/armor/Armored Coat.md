@@ -11,7 +11,6 @@ spell-failure: 20
 speed-30: 20
 speed-20: 15
 weight-lb: 20
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/armor/Armored Coat|Armored Coat (PF1)]]"
   - "[[path srd 3.5 foundry/items/armor/Armored Coat|Armored Coat (PF1 F)]]"

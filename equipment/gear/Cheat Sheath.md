@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "100 gp"
 weight: "2 lb."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/adventuring-gear/Cheat Sheath|Cheat Sheath (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Cheat sheath|Cheat sheath (PF1 F)]]"

@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "52 gp"
 weight: "25 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/adventuring-gear/False-Bottomed Chest|False-Bottomed Chest (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/False-bottomed chest|False-bottomed chest (PF1 F)]]"

@@ -11,7 +11,6 @@ critical: "x3"
 weight-lb: 2
 damage-type: "Slashing"
 special: ["monk", "performance"]
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/gladiator-weapons/Knuckle Axe|Knuckle Axe (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Knuckle Axe|Knuckle Axe (PF1 F)]]"

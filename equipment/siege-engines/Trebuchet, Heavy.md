@@ -18,7 +18,6 @@ targeting-dc: 25
 hardness: 5
 hp: 200
 ammunition: "40 gp, 120 lb. per use"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/items/siege-engines/Trebuchet|Trebuchet (PF1)]]"
 status: draft

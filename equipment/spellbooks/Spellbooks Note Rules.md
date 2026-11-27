@@ -21,7 +21,6 @@ What the notes in `equipment/spellbooks` look like. Expands on [[rangoric-srd/eq
 | `caster-level`      | yes      | `number`                    |
 | `role`              | yes      | `text`                      |
 | `price`             | yes      | `text`                      |
-| `book`              | yes      | `text`                      |
 | `price-with-ritual` | no       | `text`                      |
 
 Headings, in order:
@@ -34,7 +33,6 @@ Headings, in order:
 | ---------- | -------- | ----------- |
 | `srd-type` | yes      | `overview`  |
 | `section`  | yes      | `Equipment` |
-| `book`     | yes      | `text`      |
 
 Headings, in order:
 

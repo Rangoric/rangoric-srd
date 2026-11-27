@@ -7,7 +7,6 @@ price: "30 gp"
 price-gp: 30
 weight: "25 lb."
 used-with: ["Cannons", "Fiend's mouth cannons"]
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/items/siege-engines/Blast Shot|Blast Shot (PF1)]]"
 status: draft

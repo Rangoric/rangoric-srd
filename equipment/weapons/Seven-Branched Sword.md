@@ -13,7 +13,6 @@ critical: "x3"
 weight-lb: 7
 damage-type: "Slashing"
 special: ["disarm", "monk"]
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/eastern-armor-and-weapons/Sword, Seven-Branched|Sword, Seven-Branched (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Seven-Branched Sword|Seven-Branched Sword (PF1 F)]]"

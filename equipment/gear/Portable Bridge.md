@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "200 gp"
 weight: "60 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/adventuring-gear/Portable Bridge|Portable Bridge (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Portable Bridge (Ultimate Equipment)|Portable Bridge (Ultimate Equipment) (PF1 F)]]"

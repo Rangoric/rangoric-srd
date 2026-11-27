@@ -11,7 +11,6 @@ critical: "x3"
 weight-lb: 12
 damage-type: "Bludgeoning or piercing"
 special: ["brace", "reach"]
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/weapons/Bec de Corbin|Bec de Corbin (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Bec de Corbin|Bec de Corbin (PF1 F)]]"

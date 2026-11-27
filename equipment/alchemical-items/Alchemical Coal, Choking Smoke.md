@@ -3,7 +3,6 @@ srd-type: "alchemical-item"
 section: "Equipment"
 aliases:
   - "Alchemical Coal"
-book: "Advanced Race Guide"
 category: ["Alchemical Tool"]
 magical: false
 dc: "20"

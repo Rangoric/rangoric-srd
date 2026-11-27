@@ -11,7 +11,6 @@ critical: "19–20/x2"
 weight-lb: 3
 damage-type: "Slashing"
 special: ["monk", "trip"]
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/weapons/Temple Sword|Temple Sword (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Temple Sword|Temple Sword (PF1 F)]]"

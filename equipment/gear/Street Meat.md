@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "food, drink, and lodging"
 price: "1 cp"
 weight: "1/2 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/food-and-drink/Street Meat|Street Meat (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Street Meat|Street Meat (PF1 F)]]"

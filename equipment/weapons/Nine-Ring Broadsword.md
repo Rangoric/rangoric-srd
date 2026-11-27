@@ -13,7 +13,6 @@ critical: "x3"
 weight-lb: 4
 damage-type: "Slashing"
 special: ["monk"]
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/eastern-armor-and-weapons/Broadsword, Nine-Ring|Broadsword, Nine-Ring (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Nine-Ring Broadsword|Nine-Ring Broadsword (PF1 F)]]"

@@ -1,7 +1,6 @@
 ---
 srd-type: "alchemical-item"
 section: "Equipment"
-book: "Alchemy & Herbalists"
 classification: "Unguent/Toxin; Special"
 category: ["Unguent", "Toxin"]
 magical: false

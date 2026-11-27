@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "65 gp"
 weight: "2 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/adventuring-gear/Breakaway Chains|Breakaway Chains (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Breakaway chains|Breakaway chains (PF1 F)]]"

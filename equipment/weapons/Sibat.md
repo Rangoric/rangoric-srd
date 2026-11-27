@@ -12,7 +12,6 @@ range-ft: 10
 weight-lb: 2
 damage-type: "Piercing or slashing"
 special: ["grapple"]
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/eastern-armor-and-weapons/Sibat|Sibat (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Sibat|Sibat (PF1 F)]]"

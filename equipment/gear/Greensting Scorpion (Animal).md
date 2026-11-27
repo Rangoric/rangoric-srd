@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "mounts and related gear"
 price: "15 gp"
 weight: "9 oz."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/animals-mounts-and-related-gear/Scorpion, Greensting (Item)|Scorpion, Greensting (Item) (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Scorpion, Greensting|Scorpion, Greensting (PF1 F)]]"

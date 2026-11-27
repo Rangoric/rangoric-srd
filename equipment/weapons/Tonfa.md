@@ -11,7 +11,6 @@ critical: "x2"
 weight-lb: 1
 damage-type: "Bludgeoning"
 special: ["blocking", "monk"]
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/eastern-armor-and-weapons/Tonfa|Tonfa (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Tonfa|Tonfa (PF1 F)]]"

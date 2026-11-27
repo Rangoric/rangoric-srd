@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "tools and skill kits"
 price: "10 gp"
 weight: "2 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/tools-and-skill-kits/Midwife's Kit|Midwife's Kit (PF1)]]"
 status: draft

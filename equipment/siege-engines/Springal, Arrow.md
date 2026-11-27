@@ -16,7 +16,6 @@ aim: 2
 load: 3
 speed: "0 ft."
 ammunition: "20 gp, 10 lb. per use"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/items/siege-engines/Springal|Springal (PF1)]]"
 status: draft

@@ -1,7 +1,6 @@
 ---
 srd-type: "alchemical-item"
 section: "Equipment"
-book: "Alchemy & Herbalists"
 classification: "Alchana; Special"
 category: ["Alchana"]
 magical: false

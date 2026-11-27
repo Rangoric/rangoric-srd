@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "clothing"
 price: "5 gp"
 weight: "3 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/clothing/Pickpocket's Outfit|Pickpocket's Outfit (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Pickpocket's Outfit|Pickpocket's Outfit (PF1 F)]]"

@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "entertainment"
 price: "2 sp"
 weight: "—"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/entertainment-and-trade-goods/Ball|Ball (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Ball (5 in.)|Ball (5 in.) (PF1 F)]]"

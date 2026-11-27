@@ -10,7 +10,6 @@ damage-medium: "1d3"
 critical: "x2"
 weight-lb: 0.5
 damage-type: "Slashing"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/featured-race/Tailblade|Tailblade (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Ratfolk Tailblade|Ratfolk Tailblade (PF1 F)]]"

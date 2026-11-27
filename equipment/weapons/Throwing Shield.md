@@ -11,7 +11,6 @@ critical: "x2"
 range-ft: 20
 damage-type: "Bludgeoning"
 special: ["performance", "trip"]
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/gladiator-weapons/Throwing Shield|Throwing Shield (PF1)]]"
 status: draft

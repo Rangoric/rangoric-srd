@@ -7,7 +7,6 @@ price: "80 gp"
 price-gp: 80
 weight: "20 lb."
 used-with: ["Catapults", "Trebuchets"]
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/items/siege-engines/Plague Bundle|Plague Bundle (PF1)]]"
 status: draft

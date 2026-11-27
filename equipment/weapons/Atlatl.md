@@ -12,7 +12,6 @@ range-ft: 50
 weight-lb: 2
 damage-type: "Piercing"
 ammunition: ["[[rangoric-srd/equipment/weapons/Atlatl Dart|Atlatl Dart]]"]
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/primitive-armor-and-weapons/Atlatl|Atlatl (PF1)]]"
 status: draft

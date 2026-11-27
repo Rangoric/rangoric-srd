@@ -17,7 +17,6 @@ speed: "0 ft."
 hardness: 10
 hp: 140
 ammunition: "400 gp, 40 lb. per use"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/items/siege-engines/Firewyrm|Firewyrm (PF1)]]"
 status: draft

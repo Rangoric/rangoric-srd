@@ -10,7 +10,6 @@ damage-medium: "1d4"
 critical: "x3"
 damage-type: "Slashing or piercing"
 special: ["distracting", "monk"]
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/eastern-armor-and-weapons/Fighting Fan|Fighting Fan (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Fighting Fan|Fighting Fan (PF1 F)]]"

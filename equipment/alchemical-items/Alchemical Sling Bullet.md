@@ -1,7 +1,6 @@
 ---
 srd-type: "alchemical-item"
 section: "Equipment"
-book: "Monster Codex"
 category: ["Alchemical Tool"]
 magical: false
 price: "5 gp"

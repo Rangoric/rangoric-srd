@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "tools and skill kits"
 price: "15 gp"
 weight: "3 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/tools-and-skill-kits/Formula Book|Formula Book (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Formula Book|Formula Book (PF1 F)]]"

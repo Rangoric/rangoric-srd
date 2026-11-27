@@ -11,7 +11,6 @@ critical: "x2"
 weight-lb: 13
 damage-type: "Piercing and slashing"
 special: ["double", "trip"]
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/weapons/Chain Spear|Chain Spear (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Chain Spear|Chain Spear (PF1 F)]]"

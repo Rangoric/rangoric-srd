@@ -1,7 +1,6 @@
 ---
 srd-type: "alchemical-item"
 section: "Equipment"
-book: "Alchemy & Herbalists"
 aliases: ["Lash of Saumar"]
 classification: "Alchana/Wondrous Item; Magical"
 category: ["Alchana", "Wondrous Item"]

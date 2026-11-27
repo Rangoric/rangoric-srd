@@ -11,7 +11,6 @@ critical: "x2"
 weight-lb: 6
 damage-type: "Piercing"
 special: ["performance"]
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/gladiator-weapons/Madu|Madu (PF1)]]"
   - "[[path srd 3.5/rules/ultimate-equipment/arms-and-armor/Weapons (Arms And Armor)|Weapons (PF1)]]"

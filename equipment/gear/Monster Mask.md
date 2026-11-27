@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "clothing"
 price: "5–10 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/clothing/Monster Mask|Monster Mask (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Monster Mask|Monster Mask (PF1 F)]]"

@@ -6,7 +6,6 @@ aliases:
   - "Spellbook, Compact"
 price: "50 gp/blank"
 weight: "1 lb."
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/core-race/Spellbook, Compact|Spellbook, Compact (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Compact spellbook|Compact spellbook (PF1 F)]]"

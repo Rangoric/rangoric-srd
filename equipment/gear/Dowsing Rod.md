@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "tools and skill kits"
 price: "10 gp"
 weight: "1 lb."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/gear/Dowsing Rod|Dowsing Rod (PF1 F)]]"
 status: draft

@@ -1,7 +1,6 @@
 ---
 srd-type: "herb"
 section: "Equipment"
-book: "Alchemy & Herbalists"
 rarity: "Uncommon"
 environment: "Temperate hills and mountains"
 harvest: "Perennial"

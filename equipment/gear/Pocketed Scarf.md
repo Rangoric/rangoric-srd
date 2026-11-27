@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "clothing"
 price: "8 gp"
 weight: "1/2 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/clothing/Pocketed Scarf|Pocketed Scarf (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Scarf (pocketed)|Scarf (pocketed) (PF1 F)]]"

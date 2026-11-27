@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "12 gp"
 weight: "80 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/adventuring-gear/Campsite Kit|Campsite Kit (PF1)]]"
 status: draft

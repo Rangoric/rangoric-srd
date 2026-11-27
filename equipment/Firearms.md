@@ -1,7 +1,6 @@
 ---
 srd-type: "rules"
 section: "Equipment"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/rules/ultimate-combat/mastering-combat/Firearms|Firearms (PF1)]]"
 status: draft

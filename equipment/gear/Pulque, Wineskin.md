@@ -6,7 +6,6 @@ aliases:
   - "Pulque"
 price: "4 sp"
 weight: "2 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/food-and-drink/Pulque|Pulque (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Pulque (Wineskin)|Pulque (Wineskin) (PF1 F)]]"

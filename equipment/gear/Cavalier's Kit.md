@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "23 gp"
 weight: "112 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/adventuring-gear/Cavalier's Kit|Cavalier's Kit (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Kit, Cavalier's|Kit, Cavalier's (PF1 F)]]"

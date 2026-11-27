@@ -5,7 +5,6 @@ book-type: "spellbook"
 caster-level: 4
 role: "Transmuter"
 price: "340 gp"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/rules/ultimate-magic/mastering-magic/Spellbooks|Traveler's Tome (PF1 Ultimate Magic)]]"
 status: draft

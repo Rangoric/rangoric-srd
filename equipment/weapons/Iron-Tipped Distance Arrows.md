@@ -10,7 +10,6 @@ cost-gp: 1
 weight-lb: 4
 quantity: 20
 used-with: "bows"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/items/eastern-armor-and-weapons/Arrow, Iron-Tipped Distance|Arrow, Iron-Tipped Distance (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Iron-tipped distance arrows|Iron-tipped distance arrows (PF1 F)]]"

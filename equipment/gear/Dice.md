@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "entertainment"
 price: "1 sp"
 weight: "—"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/entertainment-and-trade-goods/Dice|Dice (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Dice|Dice (PF1 F)]]"

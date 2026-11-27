@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "30 sp"
 weight: "17 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/adventuring-gear/Troll Slayer's kit|Troll Slayer's kit (PF1)]]"
 status: draft

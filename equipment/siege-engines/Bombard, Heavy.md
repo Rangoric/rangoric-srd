@@ -20,7 +20,6 @@ firearm: "siege"
 hardness: 10
 hp: 280
 ammunition: "45 gp, 50 lb. per ball"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/items/siege-engines/Bombard|Bombard (PF1)]]"
 status: draft

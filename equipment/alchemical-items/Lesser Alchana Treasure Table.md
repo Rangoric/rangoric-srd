@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Equipment"
-book: "Alchemy & Herbalists"
 based-on:
   - "[[individual books/Alchemy & Herbalists v3.5/tables/Table 16 Lesser Alchana|Table 16 Lesser Alchana (Alchemy & Herbalists)]]"
 status: draft

@@ -20,7 +20,6 @@ What the notes in `equipment/gear` look like. Expands on [[rangoric-srd/equipmen
 | `gear-type` | yes      | `adventuring gear`, `mounts and related gear`, `tools and skill kits`, `food, drink, and lodging`, `clothing`, `entertainment`, `spellcasting and services`, `transport`, `special substances and items` |
 | `price`     | yes      | `text`                                                                                                                                                                                                   |
 | `weight`    | no       | `text`                                                                                                                                                                                                   |
-| `book`      | no       |                                                                                                                                                                                                          |
 
 Headings, in order:
 

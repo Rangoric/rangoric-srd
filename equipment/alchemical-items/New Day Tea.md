@@ -1,7 +1,6 @@
 ---
 srd-type: "alchemical-item"
 section: "Equipment"
-book: "Alchemy & Herbalists"
 aliases: ["Tarasta’s New Day Tea"]
 classification: "Ingestible/Herbal Restorative; Special"
 category: ["Ingestible", "Herbal Restorative"]

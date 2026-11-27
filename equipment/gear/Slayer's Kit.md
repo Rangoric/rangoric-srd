@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "22 gp"
 weight: "43-1/2 lb."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/adventuring-gear/Slayer's Kit|Slayer's Kit (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Kit, Slayer's|Kit, Slayer's (PF1 F)]]"

@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "10 gp"
 weight: "1/2 lb."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/gear/Occultist's Implement|Occultist's Implement (PF1 Foundry)]]"
 status: draft

@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "clothing"
 price: "20 gp"
 weight: "2 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/clothing/Fire-Resistant Boots|Fire-Resistant Boots (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Fire-resistant boots|Fire-resistant boots (PF1 F)]]"

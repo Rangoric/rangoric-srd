@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "20 gp"
 weight: "—"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/adventuring-gear/Calumet|Calumet (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Calumet|Calumet (PF1 F)]]"

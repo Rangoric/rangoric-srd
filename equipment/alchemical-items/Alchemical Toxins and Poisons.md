@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Equipment"
-book: "Alchemy & Herbalists"
 based-on:
   - "[[individual books/Alchemy & Herbalists v3.5/tables/Table 19 Toxins and Poisons Table|Table 19 Toxins and Poisons Table (Alchemy & Herbalists)]]"
 status: draft

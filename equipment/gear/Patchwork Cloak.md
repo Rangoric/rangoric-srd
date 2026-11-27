@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "clothing"
 price: "5 gp"
 weight: "1/2 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/clothing/Patchwork Cloak|Patchwork Cloak (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Patchwork Cloak|Patchwork Cloak (PF1 F)]]"

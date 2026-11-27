@@ -6,7 +6,6 @@ aliases:
   - "Applejack"
 price: "8 cp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/food-and-drink/Applejack|Applejack (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Applejack (mug)|Applejack (mug) (PF1 F)]]"

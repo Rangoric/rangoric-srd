@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "clothing"
 price: "5 gp"
 weight: "20 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/clothing/Skis|Skis (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Skis|Skis (PF1 F)]]"

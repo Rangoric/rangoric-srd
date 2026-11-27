@@ -11,7 +11,6 @@ critical: "19–20/x2"
 weight-lb: 3
 damage-type: "Bludgeoning"
 special: ["blocking", "distracting", "monk", "trip"]
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/eastern-armor-and-weapons/Nine-Section Whip|Nine-Section Whip (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Nine-Section Whip|Nine-Section Whip (PF1 F)]]"

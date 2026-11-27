@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "mounts and related gear"
 price: "10 gp"
 weight: "10 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/animals-mounts-and-related-gear/Skunk (Item)|Skunk (Item) (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Skunk (Item)|Skunk (Item) (PF1 F)]]"

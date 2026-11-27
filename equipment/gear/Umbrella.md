@@ -6,7 +6,6 @@ aliases:
   - "Parasol, umbrella"
 price: "2 gp"
 weight: "3 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/tools-and-skill-kits/Parasol|Parasol (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Parasol, umbrella|Parasol, umbrella (PF1 F)]]"

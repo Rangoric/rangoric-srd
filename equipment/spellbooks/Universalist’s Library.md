@@ -6,7 +6,6 @@ caster-level: 19
 role: "Universalist"
 price: "16,420 gp"
 price-with-ritual: "20,695 gp"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/rules/ultimate-magic/mastering-magic/Spellbooks|Library of the Dancer of Skins (PF1 Ultimate Magic)]]"
 status: draft

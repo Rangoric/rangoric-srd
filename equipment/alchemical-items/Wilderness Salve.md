@@ -1,7 +1,6 @@
 ---
 srd-type: "alchemical-item"
 section: "Equipment"
-book: "Alchemy & Herbalists"
 aliases: ["Satrian’s Wildernessalve"]
 classification: "Unguent; Special"
 category: ["Unguent"]

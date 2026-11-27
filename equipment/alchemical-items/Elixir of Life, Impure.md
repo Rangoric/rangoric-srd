@@ -3,7 +3,6 @@ srd-type: "alchemical-item"
 section: "Equipment"
 aliases:
   - "Elixir of Life"
-book: "Alchemy & Herbalists"
 classification: "Alchana/Ingestible; Special"
 category: ["Alchana", "Ingestible"]
 magical: false

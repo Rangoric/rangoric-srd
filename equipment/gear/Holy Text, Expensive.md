@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "100 gp"
 weight: "20 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/adventuring-gear/Holy Text|Holy Text (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Holy text, expensive|Holy text, expensive (PF1 F)]]"

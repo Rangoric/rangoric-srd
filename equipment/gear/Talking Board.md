@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "tools and skill kits"
 price: "15 gp"
 weight: "2 lb."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/gear/Talking Board (Occult Adventures)|Talking Board (Occult Adventures) (PF1 F)]]"
   - "[[path srd 3.5 foundry/items/gear/Talking Board|Talking Board (PF1 F)]]"

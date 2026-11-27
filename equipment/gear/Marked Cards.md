@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "entertainment"
 price: "1 gp"
 weight: "1 lb."
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/goods-and-services/Marked Cards|Marked Cards (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Marked cards|Marked cards (PF1 F)]]"

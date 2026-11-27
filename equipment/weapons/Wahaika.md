@@ -12,7 +12,6 @@ range-ft: 10
 weight-lb: 3
 damage-type: "Bludgeoning"
 special: ["disarm"]
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/primitive-armor-and-weapons/Wahaika|Wahaika (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Wahaika|Wahaika (PF1 F)]]"

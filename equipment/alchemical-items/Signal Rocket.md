@@ -1,7 +1,6 @@
 ---
 srd-type: "alchemical-item"
 section: "Equipment"
-book: "Monster Codex"
 category: ["Alchemical Weapon", "Firework"]
 magical: false
 dc: "15"

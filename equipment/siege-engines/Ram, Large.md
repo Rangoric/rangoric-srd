@@ -14,7 +14,6 @@ crew: 5
 speed: "15 ft."
 hardness: 5
 hp: 30
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/items/siege-engines/Rams|Rams (PF1)]]"
 status: draft

@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "8 gp"
 weight: "22 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/adventuring-gear/Monk's Kit|Monk's Kit (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Kit, Monk's|Kit, Monk's (PF1 F)]]"

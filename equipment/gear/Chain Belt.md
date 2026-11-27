@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "clothing"
 price: "15 gp"
 weight: "1/4 lb."
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/featured-race/Chain Belt|Chain Belt (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Chain Belt|Chain Belt (PF1 F)]]"

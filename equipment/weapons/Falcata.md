@@ -10,7 +10,6 @@ damage-medium: "1d8"
 critical: "19–20/x3"
 weight-lb: 4
 damage-type: "Slashing"
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/weapons/Falcata|Falcata (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Falcata|Falcata (PF1 F)]]"

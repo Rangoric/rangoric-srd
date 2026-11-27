@@ -10,7 +10,6 @@ crew: 4
 speed: "as crew speed"
 hardness: 5
 hp: 30
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/items/siege-engines/Ladder, Escalade|Ladder, Escalade (PF1)]]"
 status: draft

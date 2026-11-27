@@ -12,7 +12,6 @@ range-ft: 80
 weight-lb: 12
 damage-type: "Bludgeoning"
 ammunition: ["[[rangoric-srd/equipment/weapons/Bolas Bolts|Bolas Bolts]]"]
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/items/misc/Slaver's Crossbow|Slaver's Crossbow (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Heavy Slaver's Crossbow|Heavy Slaver's Crossbow (PF1 F)]]"

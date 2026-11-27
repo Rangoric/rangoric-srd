@@ -1,7 +1,6 @@
 ---
 srd-type: "alchemical-item"
 section: "Equipment"
-book: "Alchemy & Herbalists"
 aliases: ["Saragun’s Blackout Oil"]
 classification: "Unguent; Special"
 category: ["Unguent"]

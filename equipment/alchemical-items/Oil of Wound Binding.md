@@ -1,7 +1,6 @@
 ---
 srd-type: "alchemical-item"
 section: "Equipment"
-book: "Alchemy & Herbalists"
 aliases: ["Denharil’s Oil"]
 classification: "Unguent/Herbal Restorative; Special"
 category: ["Unguent", "Herbal Restorative"]

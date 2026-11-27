@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "50 gp"
 weight: "20 lb."
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/featured-race/Tribal Standard|Tribal Standard (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Tribal standard|Tribal standard (PF1 F)]]"

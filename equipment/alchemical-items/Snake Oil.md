@@ -6,7 +6,6 @@ magical: false
 dc: "20"
 price: "20 gp"
 weight: "—"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/potions/Snake Oil|Snake Oil (PF1 F)]]"
 status: draft

@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "clothing"
 price: "1 sp–50 gp"
 weight: "1/2–2 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/clothing/Hat|Hat (PF1)]]"
 status: draft

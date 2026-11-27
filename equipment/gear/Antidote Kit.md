@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "tools and skill kits"
 price: "100 gp"
 weight: "3 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/tools-and-skill-kits/Antidote Kit|Antidote Kit (PF1)]]"
 status: draft

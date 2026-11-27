@@ -5,7 +5,6 @@ book-type: "formula book"
 caster-level: 15
 role: "Alchemist"
 price: "2,420 gp"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/rules/ultimate-magic/mastering-magic/Spellbooks|Chymist's Guidebook (PF1 Ultimate Magic)]]"
 status: draft

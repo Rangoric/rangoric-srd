@@ -10,7 +10,6 @@ damage-medium: "1d4"
 critical: "x2"
 weight-lb: 2
 damage-type: "Slashing"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/featured-race/Claw Blades|Claw Blades (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Claw Blades|Claw Blades (PF1 F)]]"

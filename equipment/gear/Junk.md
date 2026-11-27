@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "transport"
 price: "15,000 gp"
 weight: "—"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/animals-mounts-and-related-gear/Junk|Junk (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Vehicle, Junk|Vehicle, Junk (PF1 F)]]"

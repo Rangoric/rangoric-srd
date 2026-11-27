@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "300 gp"
 weight: "—"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/adventuring-gear/Snuffbox|Snuffbox (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Snuffbox (ivory or precious metal)|Snuffbox (ivory or precious metal) (PF1 F)]]"

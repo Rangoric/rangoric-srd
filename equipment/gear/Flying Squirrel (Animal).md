@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "mounts and related gear"
 price: "20 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/animals-mounts-and-related-gear/Squirrel|Squirrel (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Squirrel (Flying)|Squirrel (Flying) (PF1 F)]]"

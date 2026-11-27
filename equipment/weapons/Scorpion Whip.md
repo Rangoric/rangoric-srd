@@ -11,7 +11,6 @@ critical: "x2"
 weight-lb: 3
 damage-type: "Slashing"
 special: ["performance"]
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/gladiator-weapons/Scorpion Whip|Scorpion Whip (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Scorpion Whip|Scorpion Whip (PF1 F)]]"

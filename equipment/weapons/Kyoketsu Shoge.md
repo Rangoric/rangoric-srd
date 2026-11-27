@@ -12,7 +12,6 @@ range-ft: 20
 weight-lb: 1
 damage-type: "Bludgeoning, slashing, or piercing"
 special: ["disarm", "grapple", "monk", "reach"]
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/eastern-armor-and-weapons/Kyoketsu Shoge|Kyoketsu Shoge (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Kyoketsu Shoge|Kyoketsu Shoge (PF1 F)]]"

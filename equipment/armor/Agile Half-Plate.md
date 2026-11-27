@@ -12,7 +12,6 @@ speed-30: 20
 speed-20: 15
 weight-lb: 55
 special: ["no-run-limit"]
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/armor/Agile Half-Plate|Agile Half-Plate (PF1)]]"
   - "[[path srd 3.5 foundry/items/armor/Agile Half-Plate|Agile Half-Plate (PF1 F)]]"

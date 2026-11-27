@@ -10,7 +10,6 @@ damage-medium: "1d4"
 critical: "19-20/x2"
 weight-lb: 1
 damage-type: "Slashing"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/uncommon-race/Sea-Knife|Sea-Knife (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Sea-Knife|Sea-Knife (PF1 F)]]"

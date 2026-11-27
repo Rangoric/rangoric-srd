@@ -8,7 +8,6 @@ proficiency: "martial"
 category: "ammunition"
 cost-gp: 10
 used-with: "bows"
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/weapons/Arrow, Smoke|Arrow, Smoke (PF1)]]"
   - "[[path srd 3.5/items/weapons/Smoke Arrow|Smoke Arrow (PF1)]]"

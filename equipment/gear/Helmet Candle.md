@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "2 gp"
 weight: "4 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/adventuring-gear/Helmet Candle|Helmet Candle (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Helmet candle|Helmet candle (PF1 F)]]"

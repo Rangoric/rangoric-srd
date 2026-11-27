@@ -13,7 +13,6 @@ critical: "x2"
 weight-lb: 3
 damage-type: "Bludgeoning"
 special: ["trip"]
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/featured-race/Kobold Tail Attachments|Kobold Tail Attachments (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Kobold Tail Attachment (Sweeper)|Kobold Tail Attachment (Sweeper) (PF1 F)]]"

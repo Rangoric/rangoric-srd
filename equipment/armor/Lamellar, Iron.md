@@ -13,7 +13,6 @@ spell-failure: 40
 speed-30: 20
 speed-20: 15
 weight-lb: 50
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/armor/Lamellar|Lamellar (PF1)]]"
   - "[[path srd 3.5 foundry/items/armor/Iron Lamellar|Iron Lamellar (PF1 F)]]"

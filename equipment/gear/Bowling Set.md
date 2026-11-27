@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "entertainment"
 price: "5 sp–10 gp"
 weight: "15 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/entertainment-and-trade-goods/Bowling Set|Bowling Set (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Bowling set|Bowling set (PF1 F)]]"

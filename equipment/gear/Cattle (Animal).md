@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "mounts and related gear"
 price: "10–50 gp"
 weight: "1,500 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/animals-mounts-and-related-gear/Cattle|Cattle (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Cattle|Cattle (PF1 F)]]"

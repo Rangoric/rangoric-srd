@@ -6,7 +6,6 @@ aliases:
   - "Riding Rat (Combat Trained)"
 price: "75 gp"
 weight: "50 lb."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/items/misc/Riding Rat|Riding Rat (PF1)]]"
 status: draft

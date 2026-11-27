@@ -1,7 +1,6 @@
 ---
 srd-type: "alchemical-item"
 section: "Equipment"
-book: ["Advanced Player's Guide", "Ultimate Combat", "Ultimate Equipment"]
 category: ["Alchemical Tool"]
 magical: false
 dc: "25"

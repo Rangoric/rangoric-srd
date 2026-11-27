@@ -13,7 +13,6 @@ critical: "x2"
 weight-lb: 4
 damage-type: "Slashing"
 special: ["double", "monk", "reach", "trip", "disarm"]
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/eastern-armor-and-weapons/Kama, Double-Chained|Kama, Double-Chained (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Double-Chained Kama|Double-Chained Kama (PF1 F)]]"

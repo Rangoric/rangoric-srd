@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "tools and skill kits"
 price: "+10 gp"
 weight: "—"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/adventuring-gear/Holy Symbol, Flask|Holy Symbol, Flask (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Holy symbol (Flask)|Holy symbol (Flask) (PF1 F)]]"

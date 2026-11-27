@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "food, drink, and lodging"
 price: "1 cp"
 weight: "—"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/food-and-drink/Fortune Cookie|Fortune Cookie (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Fortune Cookie|Fortune Cookie (PF1 F)]]"

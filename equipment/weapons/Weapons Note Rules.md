@@ -28,7 +28,6 @@ What the notes in `equipment/weapons` look like. Expands on [[rangoric-srd/equip
 | `damage-small`  | no       | `text`                                                                              |
 | `special`       | no       | list of `text`                                                                      |
 | `range-ft`      | no       | `number`                                                                            |
-| `book`          | no       |                                                                                     |
 
 Headings, in order:
 

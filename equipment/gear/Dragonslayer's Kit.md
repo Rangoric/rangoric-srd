@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "485 gp"
 weight: "64 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/adventuring-gear/Dragonslayer's Kit|Dragonslayer's Kit (PF1)]]"
 status: draft

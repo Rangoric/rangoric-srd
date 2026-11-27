@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "clothing"
 price: "5 gp–500 gp"
 weight: "1/2–4 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/clothing/Wig|Wig (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Wig|Wig (PF1 F)]]"

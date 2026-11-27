@@ -7,7 +7,6 @@ price: "50 gp"
 price-gp: 50
 weight: "30 lb."
 used-with: ["Cannons", "Fiend's mouth cannons"]
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/items/siege-engines/Chain Shot|Chain Shot (PF1)]]"
 status: draft

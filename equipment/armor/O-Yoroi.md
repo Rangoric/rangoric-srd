@@ -11,7 +11,6 @@ spell-failure: 35
 speed-30: 20
 speed-20: 15
 weight-lb: 45
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/eastern-armor-and-weapons/O-Yoroi|O-Yoroi (PF1)]]"
   - "[[path srd 3.5 foundry/items/armor/O-Yoroi|O-Yoroi (PF1 F)]]"

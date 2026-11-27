@@ -6,7 +6,6 @@ caster-level: 8
 role: "Transmuter"
 price: "1,810 gp"
 price-with-ritual: "2,610 gp"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/rules/ultimate-magic/mastering-magic/Spellbooks|Tome of the Transmuter (PF1 Ultimate Magic)]]"
 status: draft

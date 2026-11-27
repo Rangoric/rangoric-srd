@@ -11,7 +11,6 @@ critical: "x3"
 weight-lb: 14
 damage-type: "Piercing"
 special: ["monk", "reach"]
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/eastern-armor-and-weapons/Tri-Point Double-Edged Sword|Tri-Point Double-Edged Sword (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Tri-Point Double-Edged Sword|Tri-Point Double-Edged Sword (PF1 F)]]"

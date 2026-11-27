@@ -1,7 +1,6 @@
 ---
 srd-type: "alchemical-item"
 section: "Equipment"
-book: "Alchemy & Herbalists"
 aliases: ["Loyal’s Feedbag"]
 classification: "Erlcana/Wondrous Item; Magical"
 category: ["Erlcana", "Wondrous Item"]

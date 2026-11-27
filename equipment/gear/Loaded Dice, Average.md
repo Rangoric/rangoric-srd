@@ -6,7 +6,6 @@ aliases:
   - "Loaded Dice"
 price: "10 gp"
 weight: "—"
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/goods-and-services/Loaded Dice|Loaded Dice (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Dice, Loaded|Dice, Loaded (PF1 F)]]"

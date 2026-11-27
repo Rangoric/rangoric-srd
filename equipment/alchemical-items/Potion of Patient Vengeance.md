@@ -1,7 +1,6 @@
 ---
 srd-type: "alchemical-item"
 section: "Equipment"
-book: "Alchemy & Herbalists"
 aliases: ["Ptarl’s Potion of Patient Vengeance"]
 classification: "Ingestible/Toxin; Special"
 category: ["Ingestible", "Toxin"]

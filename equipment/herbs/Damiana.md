@@ -1,7 +1,6 @@
 ---
 srd-type: "herb"
 section: "Equipment"
-book: "Alchemy & Herbalists"
 rarity: "Rare"
 environment: "Any desert or warm plains"
 harvest: "Annual"

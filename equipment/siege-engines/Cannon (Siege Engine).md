@@ -20,7 +20,6 @@ firearm: "siege"
 hardness: 10
 hp: 70
 ammunition: "30 gp, 25 lb. per ball"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/items/siege-engines/Cannon|Cannon (PF1)]]"
 status: draft

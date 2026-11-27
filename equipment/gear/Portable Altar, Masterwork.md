@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "tools and skill kits"
 price: "400 gp"
 weight: "40 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5 foundry/items/gear/Portable Altar, masterwork|Portable Altar, masterwork (PF1 F)]]"
 status: draft

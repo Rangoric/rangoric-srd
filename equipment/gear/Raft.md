@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "transport"
 price: "—"
 weight: "—"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/animals-mounts-and-related-gear/Raft|Raft (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Passage, Raft|Passage, Raft (PF1 F)]]"

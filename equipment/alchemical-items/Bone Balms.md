@@ -1,7 +1,6 @@
 ---
 srd-type: "alchemical-item"
 section: "Equipment"
-book: "Alchemy & Herbalists"
 aliases: ["N’Kinnym’s Bone Balms"]
 classification: "Unguents; Special"
 category: ["Unguent"]

@@ -1,7 +1,6 @@
 ---
 srd-type: "alchemical-item"
 section: "Equipment"
-book: "Alchemy & Herbalists"
 aliases: ["Steelscrolls"]
 classification: "Alchana/Scroll; Special/Magical"
 category: ["Alchana"]

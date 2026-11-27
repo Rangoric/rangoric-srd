@@ -1,7 +1,6 @@
 ---
 srd-type: "herb"
 section: "Equipment"
-book: "Alchemy & Herbalists"
 rarity: "Uncommon"
 environment: "Any marshlands or fresh water coastlands and riverbanks"
 harvest: "Perennial"

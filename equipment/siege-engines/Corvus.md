@@ -9,7 +9,6 @@ crew: 1
 speed: "Special"
 hardness: 5
 hp: "10 per square"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/items/siege-engines/Corvus|Corvus (PF1)]]"
 status: draft

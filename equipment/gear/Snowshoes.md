@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "clothing"
 price: "5 gp"
 weight: "4 lb."
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/goods-and-services/Snowshoes|Snowshoes (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Snowshoes|Snowshoes (PF1 F)]]"

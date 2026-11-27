@@ -11,7 +11,6 @@ critical: "19–20/x2"
 weight-lb: 3
 damage-type: "Piercing or slashing"
 special: ["performance"]
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/gladiator-weapons/Gladius|Gladius (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Gladius|Gladius (PF1 F)]]"

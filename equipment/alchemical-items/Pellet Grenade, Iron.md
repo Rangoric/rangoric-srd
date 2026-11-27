@@ -1,7 +1,6 @@
 ---
 srd-type: "alchemical-item"
 section: "Equipment"
-book: "Ultimate Equipment"
 aliases: ["Pellet Grenade"]
 category: ["Alchemical Weapon"]
 magical: false

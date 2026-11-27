@@ -10,7 +10,6 @@ damage-medium: "1d6"
 critical: "x2"
 weight-lb: 4
 damage-type: "Bludgeoning"
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/weapons/Battle Aspergillum|Battle Aspergillum (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Battle Aspergillum|Battle Aspergillum (PF1 F)]]"

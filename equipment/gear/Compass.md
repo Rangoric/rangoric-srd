@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "tools and skill kits"
 price: "10 gp"
 weight: "1/2 lb."
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/goods-and-services/Compass|Compass (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Compass|Compass (PF1 F)]]"

@@ -11,7 +11,6 @@ critical: "x3"
 weight-lb: 3
 damage-type: "Piercing"
 special: ["performance"]
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/gladiator-weapons/Pata|Pata (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Pata|Pata (PF1 F)]]"

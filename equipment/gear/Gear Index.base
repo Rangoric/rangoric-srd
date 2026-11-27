@@ -14,7 +14,6 @@ views:
       - file.name
       - note.price
       - note.weight
-      - note.book
     sort:
       - property: formula.gp
         direction: ASC

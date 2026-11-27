@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Equipment"
-book: "Alchemy & Herbalists"
 based-on:
   - "[[individual books/Alchemy & Herbalists v3.5/tables/Table 17 Ingestibles|Table 17 Ingestibles (Alchemy & Herbalists)]]"
 status: draft

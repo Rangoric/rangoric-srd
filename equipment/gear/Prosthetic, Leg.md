@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "20 gp"
 weight: "6 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/adventuring-gear/Prosthetic|Prosthetic (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Prosthetic (Leg)|Prosthetic (Leg) (PF1 F)]]"

@@ -10,7 +10,6 @@ cost-gp: 2
 weight-lb: 3
 quantity: 20
 used-with: "bows"
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/weapons/Arrow, Blunt|Arrow, Blunt (PF1)]]"
   - "[[path srd 3.5/items/weapons/Blunt Arrows|Blunt Arrows (PF1)]]"

@@ -11,7 +11,6 @@ critical: "18–20/x2"
 weight-lb: 8
 damage-type: "Slashing or piercing"
 special: ["brace"]
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/eastern-armor-and-weapons/Nodachi|Nodachi (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Nodachi|Nodachi (PF1 F)]]"

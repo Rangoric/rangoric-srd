@@ -6,7 +6,6 @@ caster-level: 10
 role: "Alchemist"
 price: "800 gp"
 price-with-ritual: "2,050 gp"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/rules/ultimate-magic/mastering-magic/Spellbooks|Journal of the Beast Within (PF1 Ultimate Magic)]]"
 status: draft

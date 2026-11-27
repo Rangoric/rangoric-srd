@@ -12,7 +12,6 @@ damage-medium: "1d10"
 critical: "x3"
 weight-lb: 12
 damage-type: "Slashing"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/core-race/Waraxe, Dwarven Double|Waraxe, Dwarven Double (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Dwarven Double Waraxe|Dwarven Double Waraxe (PF1 F)]]"

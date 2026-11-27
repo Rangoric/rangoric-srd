@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "tools and skill kits"
 price: "2 gp"
 weight: "2 lb."
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/goods-and-services/Abacus|Abacus (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Abacus|Abacus (PF1 F)]]"

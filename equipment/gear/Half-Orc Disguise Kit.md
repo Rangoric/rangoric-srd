@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "tools and skill kits"
 price: "75 gp"
 weight: "1 lb."
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/core-race/Half-Orc Disguise Kit|Half-Orc Disguise Kit (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Kit, Half-orc disguise|Kit, Half-orc disguise (PF1 F)]]"

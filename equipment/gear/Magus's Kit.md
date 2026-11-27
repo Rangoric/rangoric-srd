@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "22 gp"
 weight: "31 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/adventuring-gear/Magus's Kit|Magus's Kit (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Kit, Magus's|Kit, Magus's (PF1 F)]]"

@@ -9,7 +9,6 @@ damage-small: "1d2"
 damage-medium: "1d3"
 critical: "x3"
 damage-type: "Slashing"
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/eastern-armor-and-weapons/Kerambit|Kerambit (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Kerambit|Kerambit (PF1 F)]]"

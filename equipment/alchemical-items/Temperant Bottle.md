@@ -1,7 +1,6 @@
 ---
 srd-type: "alchemical-item"
 section: "Equipment"
-book: "Alchemy & Herbalists"
 aliases: ["Saragun’s Temperant Bottle"]
 classification: "Alchana/Wondrous Item; Magical"
 category: ["Alchana", "Wondrous Item"]

@@ -6,7 +6,6 @@ aliases:
   - "Mead"
 price: "5 cp"
 weight: "1/2 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/food-and-drink/Mead|Mead (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Mead (Mug)|Mead (Mug) (PF1 F)]]"

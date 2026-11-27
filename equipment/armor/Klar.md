@@ -8,7 +8,6 @@ armor-bonus: 1
 check-penalty: -1
 spell-failure: 5
 weight-lb: 6
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/armor/Klar|Klar (PF1)]]"
   - "[[path srd 3.5 foundry/items/armor/Klar|Klar (PF1 F)]]"

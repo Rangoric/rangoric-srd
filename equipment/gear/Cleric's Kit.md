@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "16 gp"
 weight: "32 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/adventuring-gear/Cleric's Kit|Cleric's Kit (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Kit, Cleric's|Kit, Cleric's (PF1 F)]]"

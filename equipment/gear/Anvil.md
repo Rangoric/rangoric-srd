@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "tools and skill kits"
 price: "5 gp"
 weight: "10–100 lb."
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/goods-and-services/Anvil|Anvil (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Anvil, farrier (50 lbs)|Anvil, farrier (50 lbs) (PF1 F)]]"

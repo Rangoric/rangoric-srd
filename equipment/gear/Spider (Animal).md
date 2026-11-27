@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "mounts and related gear"
 price: "25 gp"
 weight: "8 oz."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/animals-mounts-and-related-gear/Spider|Spider (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Spider (Item)|Spider (Item) (PF1 F)]]"
