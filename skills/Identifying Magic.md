@@ -104,7 +104,7 @@ A prestige class lists a Magic skill only if it has spellcasting of its own. One
 
 ### Unlocks
 
-You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill]] or a class feature such as the [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]]; see [[rangoric-srd/skills/Skills Overview#^skill-unlocks|Skill Unlocks]]. These are shared by every Magic skill, and each Magic skill counts as its own skill for them. They came from Pathfinder’s Spellcraft.
+You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill]] or a class feature such as the [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]]; see [[rangoric-srd/skills/Skills Overview#^skill-unlocks|Skill Unlocks]]. These are shared by every Magic skill, and each Magic skill counts as its own skill for them.
 
 **5 Ranks**: Identifying magic items takes 1 full round, and the time required to learn a spell from a spellbook is halved.
 

@@ -210,4 +210,4 @@ On a failed check, the character must remain in animal form until the next dawn,
 
 **Special**: An afflicted lycanthrope cannot attempt a voluntary change until it becomes aware of its condition (see Lycanthropy as an Affliction).
 
-Pathfinder’s version of this template is [[rangoric-srd/monsters/lycanthrope/Alternate Lycanthrope|Alternate Lycanthrope]].
+See also [[rangoric-srd/monsters/lycanthrope/Alternate Lycanthrope|Alternate Lycanthrope]].

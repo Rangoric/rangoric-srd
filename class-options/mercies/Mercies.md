@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/overview]
 
 # Mercies
 
-The [[rangoric-srd/classes/Paladin|paladin]]’s mercies, from Pathfinder’s paladin. The class note says how they’re gained; each adds an effect to lay on hands.
+The [[rangoric-srd/classes/Paladin|paladin]]’s mercies. The class note says how they’re gained; each adds an effect to lay on hands.
 
 **3rd level**: [[rangoric-srd/class-options/mercies/Fatigued (Mercy)|Fatigued]], [[rangoric-srd/class-options/mercies/Shaken (Mercy)|Shaken]], [[rangoric-srd/class-options/mercies/Sickened (Mercy)|Sickened]]
 

@@ -154,4 +154,4 @@ To Develop: 441,000 gp; 9 days; 17,640 XP. Seeds: life (DC 27), transform (DC 21
 
 When this spell is cast, worms or maggots slither and crawl their way inexorably toward the corpse touched. Over the course of the next week, they consume the flesh of the corpse, and when the last bit of the corpse is devoured, the creature is returned to a semblance of life as a worm that walks.
 
-Pathfinder’s worm that walks, a different template, is [[rangoric-srd/monsters/Worm That Walks|Worm That Walks]].
+See also [[rangoric-srd/monsters/Worm That Walks|Worm That Walks]], a different template.

@@ -85,6 +85,6 @@ When a ghost forms, all its equipment and carried items usually become ethereal 
 
 The original material items remain behind, just as the ghost’s physical remains do. If another creature seizes the original, the ethereal copy fades away. This loss invariably angers the ghost, who stops at nothing to return the item to its original resting place.
 
-Pathfinder’s version of this template is [[rangoric-srd/monsters/ghost/Alternate Ghost|Alternate Ghost]]. Also in this folder:
+See also [[rangoric-srd/monsters/ghost/Alternate Ghost|Alternate Ghost]]. Also in this folder:
 
 - [[rangoric-srd/monsters/ghost/Alternate Ghost|Alternate Ghost]]

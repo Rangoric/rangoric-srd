@@ -13,7 +13,7 @@ tags: [rangoric, rangoric/monster]
 
 The known varieties of true dragons (as opposed to other creatures that have the dragon type) fall into two broad categories: chromatic and metallic. The chromatic dragons are black, blue, green, red, and white; they are all evil and extremely fierce. The metallic dragons are brass, bronze, copper, gold, and silver; they are all good, usually noble, and highly respected by the wise.
 
-Pathfinder adds three more families, all built on the rules below: the five [[rangoric-srd/monsters/imperial-dragons/Imperial Dragons|imperial dragons]], the five [[rangoric-srd/monsters/outer-dragons/Outer Dragons|outer dragons]] and the [[rangoric-srd/monsters/primal-dragons/Primal Dragons|primal dragons]].
+Three more families are built on the rules below: the five [[rangoric-srd/monsters/imperial-dragons/Imperial Dragons|imperial dragons]], the five [[rangoric-srd/monsters/outer-dragons/Outer Dragons|outer dragons]] and the [[rangoric-srd/monsters/primal-dragons/Primal Dragons|primal dragons]].
 
 All true dragons gain more abilities and greater power as they age. (Other creatures that have the dragon type do not.) They range in length from several feet upon hatching to more than 100 feet after attaining the status of great wyrm. The size of a particular dragon varies according to age and variety.
 

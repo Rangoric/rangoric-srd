@@ -5,7 +5,7 @@ change: modified
 
 # Rangoric SRD
 
-My combined rules: one version of each rule, starting from the whole 3.5 SRD and adjusted from the other sources. The processed notes stay untouched as reference; everything here is mine.
+My combined rules: one version of each rule, drawn from the sources below. The processed notes stay untouched as reference; everything here is mine.
 
 ## Sources it draws from
 
@@ -20,14 +20,12 @@ My combined rules: one version of each rule, starting from the whole 3.5 SRD and
 
 ## How it gets built
 
-- **Start from a complete base.** The whole 3.5 SRD was copied in on 2026-10-15 (everything except the website's `tools` pages). Changes are made to the copy; the processed notes stay as reference.
 - **Adjust piecemeal.** Pull in improvements from the other sources one area at a time, starting with what the shared core of the rogue-like and auto-battler needs.
 - **Every entry links back.** Each note's `based-on` property names the notes it came from, so the original text is one click away. When an entry changes, set `change: modified` and log it in the [[Changelog]].
-- **The copy is a fork.** Later fixes to the processed 3.5 notes don't flow into this folder; apply them here too, or re-copy notes that are still `status: base`.
 
 ## Folders
 
-The 3.5 SRD's layout, as copied:
+The folders:
 
 | Folder                        | What's in it                                                                                                                                                                                                                                                                                                     |
 | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -55,7 +53,7 @@ Every copied note keeps the SRD's own properties (`srd-type`, `school`, `level`,
 
 ```yaml
 based-on:                  # links to the notes it came from
-  - "[[fantasy srd 3.5/feats/Power Attack|Power Attack (3.5)]]"
+  - "[[fantasy srd 3.5/feats/Power Attack|Power Attack]]"
 status: base               # base (unchanged copy), draft, playtest, settled, replaced (with replaced-by)
 change: copied             # copied, modified, new
 pi-review: scanned 2026-10-15   # scanned (scanner clean, not read), flagged (see pi-flags), or a date (reviewed in full)
@@ -73,7 +71,6 @@ Topic tags go in the same `tags` list, lowercase and with no prefix, such as `co
 - [ ] Do feats, class features, talents and Starfinder theme features become one `talents` pool?
 - [ ] Do spells, psionic powers and monster special attacks become one `abilities` format?
 - [x] Races and creature types: one `ancestries` folder, or separate? Separate: races in `races`, creature types in `monsters` (2026-11-09)
-- [ ] Which edition's numbers win by default when sources differ (3.5 or PF1)?
 
 ## Related
 

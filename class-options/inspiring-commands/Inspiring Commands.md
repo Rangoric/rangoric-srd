@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/overview]
 
 # Inspiring Commands
 
-The [[rangoric-srd/prestige-classes/Battle Herald|battle herald]]’s inspiring commands, from Pathfinder’s battle herald. The class note says how they’re learned and issued; commands marked “limited” affect only a certain number of allies.
+The [[rangoric-srd/prestige-classes/Battle Herald|battle herald]]’s inspiring commands. The class note says how they’re learned and issued; commands marked “limited” affect only a certain number of allies.
 
 - [[rangoric-srd/class-options/inspiring-commands/Battle Magic (Inspiring Command)|Battle Magic]] (limited)
 - [[rangoric-srd/class-options/inspiring-commands/Inspire Hardiness (Inspiring Command)|Inspire Hardiness]]
