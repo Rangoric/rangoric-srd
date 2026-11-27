@@ -18,15 +18,15 @@ tags: [rangoric, rangoric/monster]
 
 Monstrous centipedes tend to attack anything that resembles food, biting with their jaws and injecting their poison.
 
-| Size       | Attack vs Fortitude                                                           | Damage   |
-| ---------- | ----------------------------------------------------------------------------- | -------- | --- |
-| Tiny       | +0                                                                            | 1 Dex    |
-| Small      | +0                                                                            | 1d2 Dex  |
-| Medium     | see [[rangoric-srd/monsters/monstrous-centipede/Monstrous Centipede, Medium\  | Medium]] | —   |
-| Large      | +1                                                                            | 1d4 Dex  |
-| Huge       | +4                                                                            | 1d6 Dex  |
-| Gargantuan | +7                                                                            | 1d8 Dex  |
-| Colossal   | +13                                                                           | 2d6 Dex  |
+| Size       | Attack vs Fortitude                                                                   | Damage  |
+| ---------- | ------------------------------------------------------------------------------------- | ------- |
+| Tiny       | +0                                                                                    | 1 Dex   |
+| Small      | +0                                                                                    | 1d2 Dex |
+| Medium     | see [[rangoric-srd/monsters/monstrous-centipede/Monstrous Centipede, Medium\|Medium]] | —       |
+| Large      | +1                                                                                    | 1d4 Dex |
+| Huge       | +4                                                                                    | 1d6 Dex |
+| Gargantuan | +7                                                                                    | 1d8 Dex |
+| Colossal   | +13                                                                                   | 2d6 Dex |
 
 **Poison (Ex)**: A monstrous centipede has a poisonous bite. The details vary by the centipede’s size, as shown on the table above. The attack bonuses are Constitution-based. The indicated damage is both initial and secondary damage.
 

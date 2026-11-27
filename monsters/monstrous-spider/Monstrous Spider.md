@@ -24,15 +24,15 @@ Monstrous spiders come in two general types: hunters and web-spinners. Hunters r
 
 and secondary damage.
 
-| Size       | Attack vs Fortitude                                                     | Damage   |
-| ---------- | ----------------------------------------------------------------------- | -------- | --- |
-| Tiny       | +0                                                                      | 1d2 Str  |
-| Small      | +0                                                                      | 1d3 Str  |
-| Medium     | see [[rangoric-srd/monsters/monstrous-spider/Monstrous Spider, Medium\  | Medium]] | —   |
-| Large      | +3                                                                      | 1d6 Str  |
-| Huge       | +6                                                                      | 1d8 Str  |
-| Gargantuan | +10                                                                     | 2d6 Str  |
-| Colossal   | +18                                                                     | 2d8 Str  |
+| Size       | Attack vs Fortitude                                                             | Damage  |
+| ---------- | ------------------------------------------------------------------------------- | ------- |
+| Tiny       | +0                                                                              | 1d2 Str |
+| Small      | +0                                                                              | 1d3 Str |
+| Medium     | see [[rangoric-srd/monsters/monstrous-spider/Monstrous Spider, Medium\|Medium]] | —       |
+| Large      | +3                                                                              | 1d6 Str |
+| Huge       | +6                                                                              | 1d8 Str |
+| Gargantuan | +10                                                                             | 2d6 Str |
+| Colossal   | +18                                                                             | 2d8 Str |
 
 **Web (Ex)**: Both types of monstrous spiders often wait in their webs or in trees, then lower themselves silently on silk strands and leap onto prey passing beneath. A single strand is strong enough to support the spider and one creature of the same size.
 

@@ -653,11 +653,21 @@ def slips(rel, text):
             for pat, name in SLIPS for m in pat.finditer(line.strip())]
 
 
+TABLE_LINK = re.compile(r'\[\[[^\]\n]*?(?<!\\)\|')
+
+
+def table_links(rel, body):
+    """A wikilink in a table row whose | isn't escaped as \\|: the row splits at it, and Prettier then pads it into a
+    broken link (Retro 2026-11-27: five monster and patron tables)."""
+    return [f'unescaped | in a link in a table row: {m.group(0)[:80]}' for line in strip_code(body).split('\n')
+            if ROW.match(line) for m in TABLE_LINK.finditer(line)]
+
+
 def rule_problems(rel, data, body):
     """The note's problems against the written rules, in the checker's words (also its sweep-issues lines)."""
     if exempt(rel):
-        return source_tables(rel, body)
-    out = source_tables(rel, body) + save_wording(rel, body) + old_grapple(data, body)
+        return source_tables(rel, body) + table_links(rel, body)
+    out = source_tables(rel, body) + table_links(rel, body) + save_wording(rel, body) + old_grapple(data, body)
     folder = folder_rules(rel)
     data = {k: v for k, v in data.items() if k not in ('sweep', 'sweep-issues')}
     out += regeneration_unnamed(rel, data, body)
