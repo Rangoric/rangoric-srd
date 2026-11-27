@@ -22,4 +22,4 @@ A sample trap; how traps work, and what each line means, is in [[rangoric-srd/ru
 - **[[rangoric-srd/skills/Engineering|Engineering]]**: DC 20 to disable
 - **Trigger**: location
 - **Reset**: none
-- **Effect**: falling bag of acid (3d6 acid damage, Reflex DC 20 half)
+- **Effect**: falling bag of acid (3d6 acid damage, +10 vs Reflex half)

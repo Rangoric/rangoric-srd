@@ -128,7 +128,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Recharge Innate Magic\|Recharge Innate Magic]]:           | You channel magic energy into your own aura, recharging your innate magic abilities.                                         |
 | [[rangoric-srd/spells/Remove Fear\|Remove Fear]]:                               | Suppresses fear or gives +4 on defenses against fear for one subject + one per four levels.                                  |
 | [[rangoric-srd/spells/Restful Sleep\|Restful Sleep]] (M):                       | Gain more hit points while sleeping.                                                                                         |
-| [[rangoric-srd/spells/Saving Finale\|Saving Finale]]:                           | Subject makes an attack that hit it reroll.                                                                                  |
+| [[rangoric-srd/spells/Saving Finale\|Saving Finale]]:                           | Makes an attack that hit the subject reroll.                                                                                 |
 | [[rangoric-srd/spells/See Alignment\|See Alignment]] (M):                       | Pick an alignment; in your sight, creatures and items with that alignment emit a ghostly radiance.                           |
 | [[rangoric-srd/spells/Share Language\|Share Language]] (M):                     | Subject understands chosen language.                                                                                         |
 | [[rangoric-srd/spells/Silent Image\|Silent Image]]:                             | Creates minor illusion of your design.                                                                                       |

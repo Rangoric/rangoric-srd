@@ -37,4 +37,4 @@ _[[rangoric-srd/rules/star magic/Star Magic|Constellation]]_
 - **Defense**: Fortitude half
 - **Spell Resistance**: Yes
 
-Frost gathers around you and steam rises from the ground. Each creature in the area takes 2d6 points of cold damage each round it spends there (1d6 on a miss against its Fortitude). A creature that fails its save is also [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for a number of rounds equal to the call level.
+Frost gathers around you and steam rises from the ground. Each creature in the area takes 2d6 points of cold damage each round it spends there (1d6 on a miss against its Fortitude). A creature the cold hits is also [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for a number of rounds equal to the call level.

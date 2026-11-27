@@ -22,4 +22,4 @@ A sample trap; how traps work, and what each line means, is in [[rangoric-srd/ru
 - **[[rangoric-srd/skills/Engineering|Engineering]]**: DC 25 to disable
 - **Trigger**: location
 - **Reset**: repair
-- **Effect**: Atk +10 melee (1d6+6); rotting badger ([[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1d3 rounds, Fort DC 20 negates); multiple targets (all targets within 10 feet must attempt to save against the rotting badger)
+- **Effect**: Atk +10 melee (1d6+6); rotting badger ([[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1d3 rounds, +10 vs Fortitude negates); multiple targets (all targets within 10 feet are attacked by the rotting badger)

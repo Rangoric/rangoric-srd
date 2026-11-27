@@ -22,4 +22,4 @@ A sample trap; how traps work, and what each line means, is in [[rangoric-srd/ru
 - **[[rangoric-srd/skills/Engineering|Engineering]]**: DC 20 to disable
 - **Trigger**: location
 - **Reset**: manual
-- **Effect**: ensnaring dirt (target is [[rangoric-srd/rules/Special Abilities and Conditions#^entangled|entangled]] until the target succeeds at a DC 25 Strength or [[rangoric-srd/skills/Escape Artist|Escape Artist]] check); Reflex DC 25 negates
+- **Effect**: ensnaring dirt (target is [[rangoric-srd/rules/Special Abilities and Conditions#^entangled|entangled]] until the target succeeds at a DC 25 Strength or [[rangoric-srd/skills/Escape Artist|Escape Artist]] check); +15 vs Reflex negates

@@ -35,4 +35,4 @@ _[[rangoric-srd/rules/star magic/Star Magic|Star]]_
 - **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
-The light hangs for an instant and then bursts with a thunderclap. Every creature in the area, friend or foe, that fails its save can take no actions for a number of rounds equal to the call level. It isn't stunned and suffers nothing else, and the effect ends at once if it takes damage of any kind.
+The light hangs for an instant and then bursts with a thunderclap. Every creature in the area, friend or foe, that the thunderclap hits can take no actions for a number of rounds equal to the call level. It isn't stunned and suffers nothing else, and the effect ends at once if it takes damage of any kind.

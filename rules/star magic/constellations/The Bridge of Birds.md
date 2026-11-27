@@ -43,7 +43,7 @@ _[[rangoric-srd/rules/star magic/Star Magic|Constellation]]_
 A windstorm whirls around you and lifts you into the air.
 
 - No ranged attack can hit a creature inside the windstorm.
-- A creature in the area that takes a hostile action, friend or foe, has its Fortitude attacked and, if it fails its save, is thrown out of the area.
+- A creature in the area that takes a hostile action, friend or foe, has its Fortitude attacked and, on a hit, is thrown out of the area.
 - The wind carries you through the air toward a point you choose, at 20 feet per round.
 
 **Higher call levels**: You move 20 feet per round faster for each call level above 5th.
