@@ -14,9 +14,9 @@ cmd: "16"
 attack: "Slam +4 melee (1d4+4 plus energy drain) or dagger +3 ranged (1d4+3/19–20)"
 full-attack: "Slam +4 melee (1d4+4 plus energy drain); or dagger +3 ranged (1d4+3/19–20)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Blood drain, dominate (DC 13), energy drain (1 level, DC 13), sneak attack +1d6"
+special-attacks: "Blood drain, dominate (+3 vs Will), energy drain (1 level, +3 vs Fortitude), sneak attack +1d6"
 special-qualities: "Darkvision 60 ft., fast healing 2, channel resistance +2, evasion, gaseous form, rogue talents (strong impression), shadowless, spider climb, trapfinding +1, damage reduction 5/silver, undead traits, resistance to cold 10 and electricity 10, resurrection vulnerability, vampire weaknesses"
-saves: "Fort +2, Ref +5, Will +1"
+defenses: "Fort 12, Ref 15, Will 11"
 abilities: "Str 17, Dex 14, Con —, Int 8, Wis 12, Cha 15"
 skills: "Acrobatics +13, Athletics +6, Intimidation +10, Perception +9, Sense Motive +6, Sleight of Hand +5, Society +4, Stealth +13"
 skill-ranks: "Acrobatics 8, Athletics 3, Intimidation 5, Perception 5, Sense Motive 2, Sleight of Hand 3, Society 2, Stealth 8"
@@ -50,9 +50,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Slam +4 melee (1d4+4 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +3 ranged (1d4+3/19–20)
 - **Full Attack**: Slam +4 melee (1d4+4 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +3 ranged (1d4+3/19–20)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]], dominate (DC 13), [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] (1 level, DC 13), [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|sneak attack]] +1d6
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]], dominate (+3 vs Will), [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] (1 level, +3 vs Fortitude), [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|sneak attack]] +1d6
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 2, [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +2, [[rangoric-srd/classes/Rogue#^rogue-evasion|evasion]], gaseous form, [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]] ([[rangoric-srd/class-options/rogue-talents/Strong Impression (Rogue Talent)|strong impression]]), shadowless, spider climb, [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +1, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/silver, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and electricity 10, [[rangoric-srd/monsters/vampire/Alternate Vampire Spawn#^resurrection-vulnerability|resurrection vulnerability]], [[rangoric-srd/monsters/vampire/Alternate Vampire Spawn#^weaknesses|vampire weaknesses]]
-- **Saves**: Fort +2, Ref +5, Will +1
+- **Defenses**: Fort 12, Ref 15, Will 11
 - **Abilities**: Str 17, Dex 14, Con —, Int 8, Wis 12, Cha 15
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +5, [[rangoric-srd/skills/Society|Society]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +13
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -76,7 +76,7 @@ This template makes unique vampire spawn with class levels; the vampire spawn a 
 
 **Alignment**: Any evil.
 
-**Type**: The creature's type changes to undead. Do not recalculate class Hit Dice, BAB, or saves.
+**Type**: The creature's type changes to undead. Do not recalculate class Hit Dice, BAB, or defenses.
 
 **Senses**: A vampire spawn gains darkvision to 60 feet.
 
@@ -88,7 +88,7 @@ This template makes unique vampire spawn with class levels; the vampire spawn a 
 
 **Weaknesses**: A vampire spawn has the same weaknesses of the vampire that created it. ^weaknesses
 
-**Resurrection Vulnerability (Su)**: A _[[rangoric-srd/spells/Raise Dead|raise dead]]_ or similar spell cast on a vampire spawn destroys it (Will negates). Using the spell in this way does not require a material component. ^resurrection-vulnerability
+**Resurrection Vulnerability (Su)**: A _[[rangoric-srd/spells/Raise Dead|raise dead]]_ or similar spell cast on a vampire spawn destroys it (vs Will). Using the spell in this way does not require a material component. ^resurrection-vulnerability
 
 **Melee**: A vampire spawn gains a slam attack if the base creature didn't have one. Damage for the slam depends on the vampire spawn's size (see [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^natural-weapons|Natural Attacks by Size]]).
 

@@ -30,7 +30,6 @@ What the notes in `monsters` look like. The whole-SRD rules are in the [README](
 | `space-reach`       | no       | `text`         |
 | `special-attacks`   | no       | `text`         |
 | `special-qualities` | no       | `text`         |
-| `saves`             | no       | `text`         |
 | `defenses`          | no       | `text`         |
 | `abilities`         | no       | `text`         |
 | `skills`            | no       | `text`         |

@@ -15,8 +15,8 @@ attack: "Masterwork club +4 melee (1d6) or bite +3 melee (1d4) or claw +3 melee 
 full-attack: "Masterwork club +4 melee (1d6) and bite –2 melee (1d4) and claw –2 melee (1d4); or bite +3 melee (1d4) and 2 claws +3 melee (1d4); or javelin +3 ranged (1d6)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
-special-qualities: "Darkvision 90 ft., stench (30 ft., DC 13, 10 rounds), nature bond (Animal domain), nature sense, speak with animals (6 rounds/day), trackless step, wild empathy +5, woodland stride, speak with animals (1/day)"
-saves: "Fort +8, Ref +3, Will +5"
+special-qualities: "Darkvision 90 ft., stench (30 ft., +3 vs Fortitude, 10 rounds), nature bond (Animal domain), nature sense, speak with animals (6 rounds/day), trackless step, wild empathy +5, woodland stride, speak with animals (1/day)"
+defenses: "Fort 18, Ref 13, Will 15"
 abilities: "Str 10, Dex 11, Con 14, Int 10, Wis 15, Cha 15"
 skills: "Athletics +8, Fieldcraft +10, Medicine +7, Mysticism +6, Nature +2, Perception +10, Stealth +7 (+11 in rocky areas)"
 skill-ranks: "Athletics 5, Fieldcraft 5, Medicine 2, Mysticism 3, Nature 2, Perception 5, Stealth 4"
@@ -50,8 +50,8 @@ tags: [rangoric, rangoric/monster]
 - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Club|club]] +4 melee (1d6) and bite –2 melee (1d4) and claw –2 melee (1d4); or bite +3 melee (1d4) and 2 claws +3 melee (1d4); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +3 ranged (1d6)
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
-- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 90 ft., [[rangoric-srd/monsters/abilities/Stench|stench]] (30 ft., DC 13, 10 rounds), [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]] ([[rangoric-srd/class-options/domains/Animal Domain|Animal domain]]), [[rangoric-srd/classes/Druid#^druid-nature-sense|nature sense]], [[rangoric-srd/class-options/domains/Animal Domain|speak with animals]] (6 rounds/day), [[rangoric-srd/classes/Druid#^druid-trackless-step|trackless step]], [[rangoric-srd/classes/Druid#^druid-wild-empathy|wild empathy]] +5, [[rangoric-srd/classes/Druid#^druid-woodland-stride|woodland stride]], [[rangoric-srd/class-options/domains/Animal Domain|speak with animals]] (1/day)
-- **Saves**: Fort +8, Ref +3, Will +5
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 90 ft., [[rangoric-srd/monsters/abilities/Stench|stench]] (30 ft., +3 vs Fortitude, 10 rounds), [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]] ([[rangoric-srd/class-options/domains/Animal Domain|Animal domain]]), [[rangoric-srd/classes/Druid#^druid-nature-sense|nature sense]], [[rangoric-srd/class-options/domains/Animal Domain|speak with animals]] (6 rounds/day), [[rangoric-srd/classes/Druid#^druid-trackless-step|trackless step]], [[rangoric-srd/classes/Druid#^druid-wild-empathy|wild empathy]] +5, [[rangoric-srd/classes/Druid#^druid-woodland-stride|woodland stride]], [[rangoric-srd/class-options/domains/Animal Domain|speak with animals]] (1/day)
+- **Defenses**: Fort 18, Ref 13, Will 15
 - **Abilities**: Str 10, Dex 11, Con 14, Int 10, Wis 15, Cha 15
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Medicine|Medicine]] +7, [[rangoric-srd/skills/Mysticism|Mysticism]] +6, [[rangoric-srd/skills/Nature|Nature]] +2, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +7 (+11 in rocky areas)
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
@@ -73,4 +73,4 @@ A troglodyte beast-speaker speaks Draconic and Druidic.
 
 **Base Statistics**: Without spider climb, the beast-speaker's statistics are **Speed** 30 ft.; **Skills** Athletics +0.
 
-**Druid spells prepared** (CL 3rd; concentration +5): 2nd—_[[rangoric-srd/spells/Hold Animal|hold animal]]_ <sup>D</sup> (DC 14), _[[rangoric-srd/spells/Spider Climb|spider climb]]_, _[[rangoric-srd/spells/Summon Swarm|summon swarm]]_; 1st—_[[rangoric-srd/spells/Calm Animals|calm animals]]_ <sup>D</sup> (DC 13), _[[rangoric-srd/spells/Charm Animal|charm animal]]_ (DC 13), _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, _[[rangoric-srd/spells/Entangle|entangle]]_ (DC 13); 0 (at will)—_[[rangoric-srd/spells/Create Water|create water]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Know Direction|know direction]]_.
+**Druid spells prepared** (CL 3rd; concentration +5): 2nd—_[[rangoric-srd/spells/Hold Animal|hold animal]]_ <sup>D</sup> (+4 vs Will), _[[rangoric-srd/spells/Spider Climb|spider climb]]_, _[[rangoric-srd/spells/Summon Swarm|summon swarm]]_; 1st—_[[rangoric-srd/spells/Calm Animals|calm animals]]_ <sup>D</sup> (+3 vs Will), _[[rangoric-srd/spells/Charm Animal|charm animal]]_ (+3 vs Will), _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, _[[rangoric-srd/spells/Entangle|entangle]]_ (+3 vs Reflex); 0 (at will)—_[[rangoric-srd/spells/Create Water|create water]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Know Direction|know direction]]_.

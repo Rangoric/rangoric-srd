@@ -15,7 +15,7 @@ full-attack: "Slam +5 melee (1d6+4 plus energy drain)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Blood drain, domination, energy drain"
 special-qualities: "+2 turn resistance, damage reduction 5/silver, darkvision 60 ft., fast healing 2, gaseous form, resistance to cold 10 and electricity 10, spider climb, undead traits"
-saves: "Fort +1, Ref +5, Will +5"
+defenses: "Fort 11, Ref 15, Will 15"
 abilities: "Str 16, Dex 14, Con —, Int 13, Wis 13, Cha 14"
 skills: "Athletics +10, Craft or Profession (any one) +7, Deception +6, Perception +15, Persuasion +2, Investigation +11, Sense Motive +12, Stealth +11"
 skill-ranks: "Athletics 4, Craft or Profession (any one) 3, Deception 0, Investigation 3, Perception 4, Persuasion 0, Sense Motive 4, Stealth 2"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Blood drain, [[rangoric-srd/spells/Dominate Person|domination]], [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]
 - **Special Qualities**: +2 [[rangoric-srd/monsters/abilities/Channel Resistance|turn resistance]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/silver, darkvision 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 2, [[rangoric-srd/spells/Gaseous Form|gaseous form]], [[rangoric-srd/monsters/abilities/Resistance|resistance to cold]] 10 and electricity 10, [[rangoric-srd/spells/Spider Climb|spider climb]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]]
-- **Saves**: Fort +1, Ref +5, Will +5
+- **Defenses**: Fort 11, Ref 15, Will 15
 - **Abilities**: Str 16, Dex 14, Con —, Int 13, Wis 13, Cha 14
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Craft|Craft]] or [[rangoric-srd/skills/Profession|Profession]] (any one) +7, [[rangoric-srd/skills/Deception|Deception]] +6, [[rangoric-srd/skills/Investigation|Investigation]] +11, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Persuasion|Persuasion]] +2, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +11
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative (B)]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes (B)]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception) (B), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (selected Craft or Profession skill), [[rangoric-srd/feats/Toughness|Toughness]]
@@ -73,9 +73,9 @@ Vampire spawn use their inhuman strength when engaging mortals, hammering their 
 
 **Blood Drain (Ex)**: A vampire spawn can suck blood from a living victim with its fangs by making a successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check. If it pins the foe, it drains blood, dealing 1d4 points of Constitution [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]] each round. On each such successful drain attack, the vampire spawn gains 5 temporary hit pints.
 
-**Domination (Su)**: A vampire spawn can crush an opponent’s will just by looking onto his or her eyes. This is similar to a [[rangoric-srd/monsters/abilities/Gaze|gaze]] attack, except that the vampire must take a standard action, and those merely looking at it are not affected. Anyone the vampire targets must succeed on a DC 14 Will save or fall instantly under the vampire’s influence as though by a [[rangoric-srd/spells/Dominate Person|dominate person]] spell from a 5th level caster. The ability has a range of 30 feet. The save DC is Charisma-based.
+**Domination (Su)**: A vampire spawn can crush an opponent’s will just by looking onto his or her eyes. This is similar to a [[rangoric-srd/monsters/abilities/Gaze|gaze]] attack, except that the vampire must take a standard action, and those merely looking at it are not affected. The vampire attacks the Will of anyone it targets at +4, and on a hit the target falls instantly under the vampire’s influence as though by a [[rangoric-srd/spells/Dominate Person|dominate person]] spell from a 5th level caster. The ability has a range of 30 feet. The attack bonus is Charisma-based.
 
-**Energy Drain (Su)**: Living creatures hit by a vampire spawn’s slam attack gain one [[rangoric-srd/rules/Special Abilities and Conditions#Energy Drain and Negative Levels|negative level]]. The DC is 14 for the Fortitude save to remove a negative level. The save DC is Charisma-based. For each such negative level bestowed, the vampire spawn gains 5 temporary hit points.
+**Energy Drain (Su)**: Living creatures hit by a vampire spawn’s slam attack gain one [[rangoric-srd/rules/Special Abilities and Conditions#Energy Drain and Negative Levels|negative level]]. A negative level attacks at +4 vs Fortitude to become permanent. The attack bonus is Charisma-based. For each such negative level bestowed, the vampire spawn gains 5 temporary hit points.
 
 **Fast Healing (Ex)**: A vampire spawn heals 2 points of damage each round so long as it has at least 1 hit point. If reduced to 0 hit points in combat, it automatically assumes [[rangoric-srd/spells/Gaseous Form|gaseous form]] and attempts to escape. It must reach its coffin home within 2 hours or be utterly destroyed. (It can travel up to nine miles in 2 hours.) Once at rest in its coffin, it is [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]]. It regains 1 hit point after 1 hour, then is no longer helpless and resumes healing at the rate of 2 hit points per round.
 

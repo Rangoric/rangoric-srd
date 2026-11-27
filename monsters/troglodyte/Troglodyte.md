@@ -14,9 +14,9 @@ cmd: "11"
 attack: "Club +2 melee (1d6+1) or claw +2 melee (1d4+1) or bite +2 melee (1d4+1) or javelin +0 ranged (1d6)"
 full-attack: "Club +2 melee (1d6+1) and claw –3 melee (1d4) and bite –3 melee (1d4); or 2 claws +2 melee (1d4+1) and bite +2 melee (1d4+1); or javelin +0 ranged (1d6)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Stench (30 ft., DC 13, 10 rounds)"
+special-attacks: "Stench (30 ft., +3 vs Fortitude, 10 rounds)"
 special-qualities: "Darkvision 90 ft."
-saves: "Fort +7, Ref –1, Will +0"
+defenses: "Fort 17, Ref 9, Will 10"
 abilities: "Str 12, Dex 9, Con 14, Int 8, Wis 11, Cha 11"
 skills: "Stealth +5 (+9 in rocky areas)"
 skill-ranks: "Stealth 2"
@@ -51,9 +51,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: [[rangoric-srd/equipment/weapons/Club|Club]] +2 melee (1d6+1) or claw +2 melee (1d4+1) or bite +2 melee (1d4+1) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +0 ranged (1d6)
 - **Full Attack**: [[rangoric-srd/equipment/weapons/Club|Club]] +2 melee (1d6+1) and claw –3 melee (1d4) and bite –3 melee (1d4); or 2 claws +2 melee (1d4+1) and bite +2 melee (1d4+1); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +0 ranged (1d6)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Stench|Stench]] (30 ft., DC 13, 10 rounds)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Stench|Stench]] (30 ft., +3 vs Fortitude, 10 rounds)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 90 ft.
-- **Saves**: Fort +7, Ref –1, Will +0
+- **Defenses**: Fort 17, Ref 9, Will 10
 - **Abilities**: Str 12, Dex 9, Con 14, Int 8, Wis 11, Cha 11
 - **Skills**: [[rangoric-srd/skills/Stealth|Stealth]] +5 (+9 in rocky areas)
 - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]]

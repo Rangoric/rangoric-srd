@@ -16,7 +16,7 @@ full-attack: "2 claws +16 melee (1d6+7) and bite +11 melee (1d6+3); or +1 battle
 space-reach: "10 ft./10 ft."
 special-attacks: "Rend 2d6+10, spells"
 special-qualities: "Darkvision 90 ft., favored enemy elves (+4), favored enemy humans (+2), low-light vision, regeneration 5, scent, wild empathy"
-saves: "Fort +16, Ref +8, Will +8"
+defenses: "Fort 26, Ref 18, Will 18"
 abilities: "Str 25, Dex 12, Con 22, Int 10, Wis 15, Cha 10"
 skills: "Fieldcraft +17 (+19 above- or underground and following tracks), Dungeoneering +12, Nature +7, Perception +17, Investigation +9, Stealth +8"
 skill-ranks: "Dungeoneering 9, Fieldcraft 12, Investigation 6, Nature 4, Perception 9, Stealth 8"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: Rend 2d6+10, spells
 - **Special Qualities**: Darkvision 90 ft., favored enemy elves (+4), favored enemy humans (+2), low-light vision, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5, [[rangoric-srd/monsters/abilities/Scent|scent]], wild empathy
-- **Saves**: Fort +16, Ref +8, Will +8
+- **Defenses**: Fort 26, Ref 18, Will 18
 - **Abilities**: Str 25, Dex 12, Con 22, Int 10, Wis 15, Cha 10
 - **Skills**: [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +12, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +17 (+19 above- or underground and following tracks), [[rangoric-srd/skills/Investigation|Investigation]] +9, [[rangoric-srd/skills/Nature|Nature]] +7, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +8
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Endurance|Endurance (B)]], [[rangoric-srd/feats/Improved Natural Armor|Improved Natural Armor]], [[rangoric-srd/feats/Improved Two-Weapon Fighting|Improved Two-Weapon Fighting (B)]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Track|Track (B)]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting (B)]]

@@ -16,7 +16,7 @@ full-attack: "Club +20/+15/+10 melee (2d6+10/19–20) and bite +15 melee (2d6+5 
 space-reach: "15 ft./15 ft."
 special-attacks: "All-seeing attacks, cacophonous roar, fast swallow, rock throwing (120 ft.), swallow whole (4d6+15 bludgeoning, AC 21, 21 hp)"
 special-qualities: "All-around vision, low-light vision, scent, regeneration 10 (acid or fire), multiple minds, immunity to confusion and insanity effects"
-saves: "Fort +16, Ref +6, Will +13"
+defenses: "Fort 26, Ref 16, Will 23"
 abilities: "Str 31, Dex 8, Con 29, Int 10, Wis 17, Cha 6"
 skills: "Athletics +29, Investigation +4, Perception +26"
 skill-ranks: "Athletics 16, Perception 16"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./15 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/All-Seeing Attacks|All-seeing attacks]], [[rangoric-srd/monsters/abilities/Cacophonous Roar|cacophonous roar]], [[rangoric-srd/monsters/abilities/Fast Swallow|fast swallow]], [[rangoric-srd/monsters/abilities/Rock Throwing|rock throwing]] (120 ft.), [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (4d6+15 bludgeoning, AC 21, 21 hp)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/All-Around Vision|All-around vision]], [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 10 (acid or fire), [[rangoric-srd/monsters/abilities/Multiple Minds|multiple minds]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to confusion and insanity effects
-- **Saves**: Fort +16, Ref +6, Will +13
+- **Defenses**: Fort 26, Ref 16, Will 23
 - **Abilities**: Str 31, Dex 8, Con 29, Int 10, Wis 17, Cha 6
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +29, [[rangoric-srd/skills/Investigation|Investigation]] +4, [[rangoric-srd/skills/Perception|Perception]] +26
 - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (club), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
@@ -75,6 +75,6 @@ Jotund trolls speak Giant.
 
 **[[rangoric-srd/monsters/abilities/All-Seeing Attacks|All-Seeing Attacks]] (Ex)**: A jotund troll can make nine additional attacks of opportunity in a round, one for each head, although no more than a single attack for any given opportunity.
 
-**[[rangoric-srd/monsters/abilities/Cacophonous Roar|Cacophonous Roar]] (Su)**: Once every 1d4 rounds as a standard action, a jotund troll can emit a cacophonous roar from its nine heads. All creatures within a 60-foot spread of the troll must make a DC 20 Will save or become [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]] for 1d4 rounds. This is a mind-affecting effect. The save DC is Charisma-based and includes a +4 racial bonus.
+**[[rangoric-srd/monsters/abilities/Cacophonous Roar|Cacophonous Roar]] (Su)**: Once every 1d4 rounds as a standard action, a jotund troll can emit a cacophonous roar from its nine heads. All creatures within a 60-foot spread of the troll are attacked at +10 vs Will, and on a hit become [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]] for 1d4 rounds. This is a mind-affecting effect. The attack bonus is Charisma-based and includes a +4 racial bonus.
 
-**[[rangoric-srd/monsters/abilities/Multiple Minds|Multiple Minds]] (Ex)**: A jotund troll has nine different minds that are in constant communication with each other. The resulting jumble of tangled thoughts grants the troll a +4 racial bonus on all Will saving throws against mind-affecting effects. In addition, whenever a jotund troll must make a Will save, it can roll the saving throw twice and take the better of the two results as its actual saving throw.
+**[[rangoric-srd/monsters/abilities/Multiple Minds|Multiple Minds]] (Ex)**: A jotund troll has nine different minds that are in constant communication with each other. The resulting jumble of tangled thoughts grants the troll a +4 racial bonus on Will Defense against mind-affecting effects. In addition, whenever something attacks a jotund troll's Will, the attacker rolls twice and takes the worse of the two results.

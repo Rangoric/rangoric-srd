@@ -16,7 +16,7 @@ full-attack: "Bite +16 melee (1d8+9) and 2 claws +17 melee (1d6+11)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Rage (19 rounds/day), rage powers (increased damage reduction, superstition +3), rend (2 claws, 1d6+17)"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, regeneration 5 (acid or fire), trap sense +1, uncanny dodge, fast movement"
-saves: "Fort +20, Ref +6, Will +5 (+3 vs. magic)"
+defenses: "Fort 30, Ref 16, Will 15 (+3 vs. magic)"
 abilities: "Str 29, Dex 16, Con 32, Int 6, Wis 11, Cha 4"
 skills: "Intimidation +18, Perception +12"
 skill-ranks: "Intimidation 18, Perception 9"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (19 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] (increased [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]], [[rangoric-srd/class-options/rage-powers/Superstition (Rage Power)|superstition]] +3), [[rangoric-srd/monsters/abilities/Rend|rend]] (2 claws, 1d6+17)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (acid or fire), [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] +1, [[rangoric-srd/classes/Barbarian#^barbarian-uncanny-dodge|uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]]
-- **Saves**: Fort +20, Ref +6, Will +5 (+3 vs. magic)
+- **Defenses**: Fort 30, Ref 16, Will 15 (+3 vs. magic)
 - **Abilities**: Str 29, Dex 16, Con 32, Int 6, Wis 11, Cha 4
 - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +18, [[rangoric-srd/skills/Perception|Perception]] +12
 - **Feats**: [[rangoric-srd/feats/Great Rend|Great Rend]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Mighty Bite|Mighty Bite]], [[rangoric-srd/feats/Raging Regeneration|Raging Regeneration]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)

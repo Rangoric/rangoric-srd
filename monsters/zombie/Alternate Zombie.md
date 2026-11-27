@@ -73,7 +73,7 @@ This is the second version of the zombie template; the first is [[rangoric-srd/m
 
 Zombies use their Charisma modifiers to determine bonus hit points (instead of Constitution).
 
-**Saves**: Base save bonuses are Fort +1/3 HD, Ref +1/3 HD, and Will +1/2 HD + 2.
+**Defenses**: Base save bonuses are Fort 11/3 HD, Ref 11/3 HD, and Will 11/2 HD + 2.
 
 **Defensive Abilities**: Zombies lose their defensive abilities and gain all of the qualities and immunities granted by the undead type ([[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]). Zombies gain [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 5/slashing.
 
@@ -123,8 +123,8 @@ These zombies carry a terrible disease that perpetuates their undead lineage—t
 
 **Special Attacks**: A plague zombie gains the following special attacks.
 
-**[[rangoric-srd/monsters/abilities/Death Burst|Death Burst]] (Ex)**: When a plague zombie dies, it explodes in a burst of decay. All creatures adjacent to the plague zombie are exposed to its plague as if struck by a slam attack and must make a Fortitude save or contract zombie rot.
+**[[rangoric-srd/monsters/abilities/Death Burst|Death Burst]] (Ex)**: When a plague zombie dies, it explodes in a burst of decay. All creatures adjacent to the plague zombie are exposed to its plague as if struck by a slam attack, and the plague attacks their Fortitude, and on a hit they contract zombie rot.
 
 **[[rangoric-srd/monsters/abilities/Disease|Disease]] (Su)**: The slam attack—as well as any other natural attacks—of a plague zombie carries the zombie rot disease.
 
-[[rangoric-srd/rules/afflictions/Zombie Rot|Zombie rot]]: slam; _save_ Fort DC = 10 + 1/2 the zombie’s Hit Dice + the zombie’s Cha modifier; _onset_ 1d4 days; _frequency_ 1/day; _effect_ 1d2 Con, this damage cannot be healed while the creature is infected; _cure_ 2 consecutive saves. Anyone who dies while infected rises as a plague zombie in 2d6 hours.
+[[rangoric-srd/rules/afflictions/Zombie Rot|Zombie rot]]: slam; _save_ Fort DC = 10 + 1/2 the zombie’s Hit Dice + the zombie’s Cha modifier; _onset_ 1d4 days; _frequency_ 1/day; _effect_ 1d2 Con, this damage cannot be healed while the creature is infected; _cure_ 2 consecutive misses. Anyone who dies while infected rises as a plague zombie in 2d6 hours.

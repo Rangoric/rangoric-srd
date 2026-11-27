@@ -15,7 +15,7 @@ full-attack: "Slam +4 melee (1d6+4)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., staggered, damage reduction 5/slashing, undead traits"
-saves: "Fort +0, Ref +0, Will +3"
+defenses: "Fort 10, Ref 10, Will 13"
 abilities: "Str 17, Dex 10, Con —, Int —, Wis 10, Cha 10"
 skills: "—"
 skill-ranks: ""
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., staggered, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/slashing, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-- **Saves**: Fort +0, Ref +0, Will +3
+- **Defenses**: Fort 10, Ref 10, Will 13
 - **Abilities**: Str 17, Dex 10, Con —, Int —, Wis 10, Cha 10
 - **Skills**: —
 - **Feats**: [[rangoric-srd/feats/Toughness|Toughness]]

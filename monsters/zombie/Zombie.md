@@ -63,7 +63,7 @@ Damage Reduction 5/Slashing: Zombies are lumbering masses of flesh.
 
 _Single Actions Only (Ex)_: Zombies have poor reflexes and can perform only a single move action or attack action each round. A zombie can move up to its speed and attack in the same round, but only if it attempts a [[rangoric-srd/combat/Combat Special Attacks#Charge|charge]].
 
-**Saves**: Base save bonuses are Fort +1/3 HD, Ref +1/3 HD, and Will +1/2 HD + 2.
+**Defenses**: Base save bonuses are Fort 11/3 HD, Ref 11/3 HD, and Will 11/2 HD + 2.
 
 **Abilities**: A zombie’s Strength increases by +2, its Dexterity decreases by 2, it has no Constitution or Intelligence score, its Wisdom changes to 10, and its Charisma changes to 1.
 
@@ -111,7 +111,7 @@ _Single Actions Only (Ex)_: Zombies have poor reflexes and can perform only a si
 | **Space/Reach:** | 5 ft./5 ft. | | 5 ft./5 ft | | 5 ft./5 ft |
 | **Special Attacks:** | — | | — | | — |
 | **Special Qualities:** | Single actions only, damage reduction 5/slashing, darkvision 60 ft., undead traits | | Single actions only, damage reduction 5/slashing, darkvision 60 ft., undead traits | | Single actions only, damage reduction 5/slashing, darkvision 60 ft., undead traits |
-| **Saves:** | Fort +0, Ref +0, Will +3 | | Fort +0, Ref –1, Will +3 | | Fort +1, Ref –1, Will +4 |
+| **Defenses:** | Fort 10, Ref 10, Will 13 | | Fort 10, Ref 9, Will 13 | | Fort 11, Ref 9, Will 14 |
 | **Abilities:** | Str 8, Dex 11, Con —, Int —, Wis 10, Cha 1 | | Str 12, Dex 8, Con —, Int —, Wis 10, Cha 1 | | Str 12, Dex 7, Con —, Int —, Wis 10, Cha 1 |
 | **Skills:** | [[rangoric-srd/skills/Athletics\|Athletics]] +4 | | [[rangoric-srd/skills/Athletics\|Athletics]] +6 | | [[rangoric-srd/skills/Athletics\|Athletics]] +8 |
 | **Feats:** | [[rangoric-srd/feats/Toughness\|Toughness]] | | [[rangoric-srd/feats/Toughness\|Toughness]] | | [[rangoric-srd/feats/Toughness\|Toughness]] |
@@ -137,7 +137,7 @@ _Single Actions Only (Ex)_: Zombies have poor reflexes and can perform only a si
 | **Space/Reach:** | 5 ft./5 ft. | | 10 ft./10 ft. | | 10 ft./10 ft. |
 | **Special Attacks:** | — | | — | | — |
 | **Special Qualities:** | Single actions only, damage reduction 5/slashing, darkvision 60 ft., undead traits | | Single actions only, damage reduction 5/slashing, darkvision 60 ft., undead traits | | Single actions only, damage reduction 5/slashing, darkvision 60 ft., undead traits |
-| **Saves:** | Fort +2, Ref +2, Will +5 | | Fort +2, Ref +0, Will +6 | | Fort +4, Ref +3, Will +8 |
+| **Defenses:** | Fort 12, Ref 12, Will 15 | | Fort 12, Ref 10, Will 16 | | Fort 14, Ref 13, Will 18 |
 | **Abilities:** | Str 17, Dex 10, Con —, Int —, Wis 10, Cha 1 | | Str 23, Dex 6, Con —, Int —, Wis 10, Cha 1 | | Str 21, Dex 8, Con —, Int —, Wis 10, Cha 1 |
 | **Skills:** | [[rangoric-srd/skills/Athletics\|Athletics]] +11 | | [[rangoric-srd/skills/Athletics\|Athletics]] +17 | | [[rangoric-srd/skills/Athletics\|Athletics]] +20 |
 | **Feats:** | [[rangoric-srd/feats/Toughness\|Toughness]] | | [[rangoric-srd/feats/Toughness\|Toughness]] | | [[rangoric-srd/feats/Toughness\|Toughness]] |
@@ -163,7 +163,7 @@ _Single Actions Only (Ex)_: Zombies have poor reflexes and can perform only a si
 | **Space/Reach:** | 10 ft./5 ft. | | 10 ft./10 ft. |
 | **Special Attacks:** | — | | — |
 | **Special Qualities:** | Single actions only, damage reduction 5/slashing, darkvision 60 ft., undead traits | | Single actions only, damage reduction 5/slashing, darkvision 60 ft., undead traits |
-| **Saves:** | Fort +4, Ref +4, Will +9 | | Fort +6, Ref +5, Will +12 |
+| **Defenses:** | Fort 14, Ref 14, Will 19 | | Fort 16, Ref 15, Will 22 |
 | **Abilities:** | Str 21, Dex 10, Con —, Int —, Wis 10, Cha 1 | | Str 25, Dex 8, Con —, Int —, Wis 10, Cha 1 |
 | **Skills:** | [[rangoric-srd/skills/Athletics\|Athletics]] +22 | | [[rangoric-srd/skills/Athletics\|Athletics]] +30 |
 | **Feats:** | [[rangoric-srd/feats/Toughness\|Toughness]] | | [[rangoric-srd/feats/Toughness\|Toughness]] |

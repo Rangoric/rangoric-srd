@@ -16,7 +16,7 @@ full-attack: "Horn +22 melee (1d8+10) and 2 hooves +14 melee (1d4+3)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Turn undead 13/day, smite evil, spells"
 special-qualities: "Damage reduction 10/magic, darkvision 60 ft., magic circle against evil, spell-like abilities, spell resistance 20, immunity to poison, charm, and compulsion, low-light vision, resistance to acid 10, cold 10, and electricity 10,scent, wild empathy"
-saves: "Fort +16, Ref +12, Will +15"
+defenses: "Fort 26, Ref 22, Will 25"
 abilities: "Str 24, Dex 18, Con 20, Int 13, Wis 27, Cha 22"
 skills: "Fieldcraft +32 (+34 aboveground)*, Mysticism +13, Nature +15, Theology +11, Perception +19, Stealth +11"
 skill-ranks: "Fieldcraft 15, Mysticism 12, Nature 14, Perception 5, Stealth 4, Theology 7"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/combat/Combat Special Attacks#Turn or Rebuke Undead|Turn undead]] 13/day, smite evil, spells
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 10/magic, darkvision 60 ft., [[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]], spell-like abilities, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 20, immunity to poison, charm, and compulsion, low-light vision, [[rangoric-srd/monsters/abilities/Resistance|resistance to]] acid 10, cold 10, and electricity 10,[[rangoric-srd/monsters/abilities/Scent|scent]], wild empathy
-- **Saves**: Fort +16, Ref +12, Will +15
+- **Defenses**: Fort 26, Ref 22, Will 25
 - **Abilities**: Str 24, Dex 18, Con 20, Int 13, Wis 27, Cha 22
 - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +32 (+34 aboveground)\*, [[rangoric-srd/skills/Mysticism|Mysticism]] +13, [[rangoric-srd/skills/Nature|Nature]] +15, [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +11, [[rangoric-srd/skills/Theology|Theology]] +11
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Extra Channel|Extra Channel]], [[rangoric-srd/feats/Improved Turning|Improved Turning]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Fieldcraft)

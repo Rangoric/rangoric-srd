@@ -13,9 +13,9 @@ cmd: "22"
 attack: "Unarmed strike +6 melee (1d6+3) or flurry of blows +5 melee (1d6+3)"
 full-attack: "Unarmed strike +6 melee (1d6+3); or flurry of blows +5/+5 melee (1d6+3)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Flurry of blows, stunning fist (3/day, DC 13)"
+special-attacks: "Flurry of blows, stunning fist (3/day, +3 vs Fortitude)"
 special-qualities: "Darkvision 60 ft., evasion, channel resistance +4, fast movement, maneuver training, damage reduction 5/slashing, undead traits"
-saves: "Fort +3, Ref +6, Will +8"
+defenses: "Fort 13, Ref 16, Will 18"
 abilities: "Str 17, Dex 16, Con —, Int 12, Wis 15, Cha 10"
 skills: "Acrobatics +11, Athletics +11, Intimidation +8, Perception +10, Sense Motive +8, Stealth +11, Theology +6"
 skill-ranks: "Acrobatics 5, Athletics 5, Intimidation 5, Perception 5, Sense Motive 3, Stealth 5, Theology 2"
@@ -50,9 +50,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +6 melee (1d6+3) or flurry of blows +5 melee (1d6+3)
 - **Full Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +6 melee (1d6+3); or flurry of blows +5/+5 melee (1d6+3)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/classes/Monk#^monk-flurry-of-blows|Flurry of blows]], [[rangoric-srd/classes/Monk#^monk-stunning-fist|stunning fist]] (3/day, DC 13)
+- **Special Attacks**: [[rangoric-srd/classes/Monk#^monk-flurry-of-blows|Flurry of blows]], [[rangoric-srd/classes/Monk#^monk-stunning-fist|stunning fist]] (3/day, +3 vs Fortitude)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Monk#^monk-evasion|evasion]], [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/classes/Monk#^monk-fast-movement|fast movement]], [[rangoric-srd/classes/Monk#^monk-maneuver-training|maneuver training]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/slashing, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-- **Saves**: Fort +3, Ref +6, Will +8
+- **Defenses**: Fort 13, Ref 16, Will 18
 - **Abilities**: Str 17, Dex 16, Con —, Int 12, Wis 15, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +11, [[rangoric-srd/skills/Theology|Theology]] +6
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Deflect Arrows|Deflect Arrows]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Nimble Moves|Nimble Moves]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Stunning Fist|Stunning Fist]], [[rangoric-srd/feats/Toughness|Toughness]]

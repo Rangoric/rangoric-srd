@@ -16,7 +16,7 @@ full-attack: "Bite +11 melee (1d8+7) and 2 claw +12 melee (1d6+7)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Rend (2 claws, 1d6+9)"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, regeneration 5 (acid or sonic), sunlight petrification"
-saves: "Fort +12, Ref +3, Will +3"
+defenses: "Fort 22, Ref 13, Will 13"
 abilities: "Str 25, Dex 12, Con 24, Int 5, Wis 9, Cha 6"
 skills: "Athletics +11, Intimidation +10, Perception +6"
 skill-ranks: "Athletics 1, Intimidation 9, Perception 4"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rend|Rend]] (2 claws, 1d6+9)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (acid or sonic), [[rangoric-srd/monsters/abilities/Sunlight Petrification|sunlight petrification]]
-- **Saves**: Fort +12, Ref +3, Will +3
+- **Defenses**: Fort 22, Ref 13, Will 13
 - **Abilities**: Str 25, Dex 12, Con 24, Int 5, Wis 9, Cha 6
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Perception|Perception]] +6
 - **Feats**: [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
@@ -71,4 +71,4 @@ Rock trolls speak Giant.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Sunlight Petrification|Sunlight Petrification]] (Ex)**: A rock troll that is exposed to natural sunlight is [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] and must make a DC 20 Fortitude save each round to resist permanently turning to stone. A stone to flesh spell (or similar effect) restores a [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|petrified]] rock troll, but if it remains exposed to sunlight, it must immediately start making new Fortitude saves to avoid petrification. Spells like sunray or sunburst that create powerful natural sunlight cannot petrify a rock troll, but the troll is staggered for 1d4 rounds after being exposed to such an effect.
+**[[rangoric-srd/monsters/abilities/Sunlight Petrification|Sunlight Petrification]] (Ex)**: A rock troll that is exposed to natural sunlight is [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] and the sunlight attacks it at +10 vs Fortitude each round, and on a hit it permanently turns to stone. A stone to flesh spell (or similar effect) restores a [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|petrified]] rock troll, but if it remains exposed to sunlight, the sunlight immediately starts attacking its Fortitude again. Spells like sunray or sunburst that create powerful natural sunlight cannot petrify a rock troll, but the troll is staggered for 1d4 rounds after being exposed to such an effect.

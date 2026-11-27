@@ -15,8 +15,8 @@ attack: "Masterwork club +10 melee (1d6+3) or bite +9 melee (1d4+1) or claw +9 m
 full-attack: "Masterwork club +10/+5 melee (1d6+3) and bite +4 melee (1d4+1) and claw +4 melee (1d4+1); or javelin +8/+3 ranged (1d6+3)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Combat style (mounted combat), favored enemy (dwarves +2, humans +4)"
-special-qualities: "Darkvision 90 ft., stench (30 ft., DC 14, 10 rounds), favored terrain (underground +2), hunter's bond (companions), track +2, wild empathy +4"
-saves: "Fort +10, Ref +6, Will +2"
+special-qualities: "Darkvision 90 ft., stench (30 ft., +4 vs Fortitude, 10 rounds), favored terrain (underground +2), hunter's bond (companions), track +2, wild empathy +4"
+defenses: "Fort 20, Ref 16, Will 12"
 abilities: "Str 16, Dex 14, Con 16, Int 8, Wis 13, Cha 9"
 skills: "Animal Handling +11, Dungeoneering +5, Fieldcraft +7, Perception +10, Stealth +12 (+16 in rocky areas)"
 skill-ranks: "Animal Handling 6, Dungeoneering 3, Fieldcraft 3, Perception 6, Stealth 7"
@@ -50,8 +50,8 @@ tags: [rangoric, rangoric/monster]
 - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Club|club]] +10/+5 melee (1d6+3) and bite +4 melee (1d4+1) and claw +4 melee (1d4+1); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +8/+3 ranged (1d6+3)
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-combat-style|Combat style]] (mounted combat), [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemy]] (dwarves +2, humans +4)
-- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 90 ft., [[rangoric-srd/monsters/abilities/Stench|stench]] (30 ft., DC 14, 10 rounds), [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|favored terrain]] (underground +2), [[rangoric-srd/classes/Ranger#^ranger-hunters-bond|hunter's bond]] (companions), [[rangoric-srd/classes/Ranger|track]] +2, [[rangoric-srd/classes/Ranger|wild empathy]] +4
-- **Saves**: Fort +10, Ref +6, Will +2
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 90 ft., [[rangoric-srd/monsters/abilities/Stench|stench]] (30 ft., +4 vs Fortitude, 10 rounds), [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|favored terrain]] (underground +2), [[rangoric-srd/classes/Ranger#^ranger-hunters-bond|hunter's bond]] (companions), [[rangoric-srd/classes/Ranger|track]] +2, [[rangoric-srd/classes/Ranger|wild empathy]] +4
+- **Defenses**: Fort 20, Ref 16, Will 12
 - **Abilities**: Str 16, Dex 14, Con 16, Int 8, Wis 13, Cha 9
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +11, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +12 (+16 in rocky areas)
 - **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Mounted Archery|Mounted Archery]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Track|Track]]
@@ -69,4 +69,4 @@ A troglodyte scale-rider speaks Draconic.
 
 ### Combat
 
-**Ranger spells prepared** (CL 2nd; concentration +3): 1st—_[[rangoric-srd/spells/Animal Messenger|animal messenger]]_, _[[rangoric-srd/spells/Entangle|entangle]]_ (DC 12).
+**Ranger spells prepared** (CL 2nd; concentration +3): 1st—_[[rangoric-srd/spells/Animal Messenger|animal messenger]]_, _[[rangoric-srd/spells/Entangle|entangle]]_ (+2 vs Reflex).
