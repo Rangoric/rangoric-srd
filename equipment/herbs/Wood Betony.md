@@ -23,7 +23,7 @@ Also called betony.
 - **Environment**: Temperate forests and wooded marshlands
 - **Harvest**: Perennial
 - **Cost**: 5 cp/1/2 oz. of leaves or flowers; 1 gp/oz. tincture.
-- **Game Use**: Components (Spells), Decoration, Medicine (analgesic, curative for colds; +1 on Fort save vs. diseases if required)
+- **Game Use**: Components (Spells), Decoration, Medicine (analgesic, curative for colds; +1 to Fortitude Defense against diseases if required)
 
 Betony grows in a crawling rhizome from which erect stems extend up to two feet in height, covered with ragged-edged leaves in opposed pairs along the vine and stalks. The stems end in a cluster of pink to crimson flowers at the top. Most apothecaries use this in infusions to relieve head congestion, in concoctions to combat headaches, and in a hot poultice with red wine to prevent scarring and to aid in wound closure.
 

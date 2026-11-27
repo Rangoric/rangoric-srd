@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Nushadir
 
-Normally stored in the form of small, salty pellets in a dry container, this reagent can be mixed with a flask of water and stored safely. Nushadir neutralizes acid; a vial of pellets or a flask of nushadir-water is enough to render a cubic foot of acid safe to touch in 1 minute, though this is usually too slow to prevent damage from a thrown vial of acid or the contents of a large monster's gullet. Nushadir vapors are slightly irritating to the eyes, nose, and mouth, causing nausea for 1d4 rounds after close exposure (Fortitude DC 10 negates).
+Normally stored in the form of small, salty pellets in a dry container, this reagent can be mixed with a flask of water and stored safely. Nushadir neutralizes acid; a vial of pellets or a flask of nushadir-water is enough to render a cubic foot of acid safe to touch in 1 minute, though this is usually too slow to prevent damage from a thrown vial of acid or the contents of a large monster's gullet. Nushadir vapors are slightly irritating to the eyes, nose, and mouth, causing nausea for 1d4 rounds after close exposure (+0 vs Fortitude).
 
 [[rangoric-srd/skills/Craft|Craft]] (alchemy) DC 20; Price 10 gp/vial; Weight 1 lb.

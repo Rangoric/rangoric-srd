@@ -17,4 +17,4 @@ Your thick skull is almost a weapon unto itself.
 
 **Prerequisites**: Base attack bonus +1, [[rangoric-srd/races/Dwarf|dwarf]].
 
-**Benefit**: You gain a +1 bonus on attack rolls and [[rangoric-srd/combat/Combat Maneuvers|combat maneuver checks]] made using a helmet. You receive a +2 bonus on saves against spells and special abilities that cause you to become [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] or [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]].
+**Benefit**: You gain a +1 bonus on attack rolls and [[rangoric-srd/combat/Combat Maneuvers|combat maneuver checks]] made using a helmet. You receive a +2 bonus on defenses against spells and special abilities that cause you to become [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] or [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]].

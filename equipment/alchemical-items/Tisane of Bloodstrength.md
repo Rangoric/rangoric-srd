@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 _Herbal Restorative/Ingestible; Special_
 
-Drinking a freshly-brewed tisane of bloodstrength restores 1d6 points of nonlethal damage in the hour following the drink. Taking the moist leaves as a poultice and pressing them into an open wound affords the patient an immediate Fort save to cancel out any diseases or infections and a Fort save at -2 against any poisons.
+Drinking a freshly-brewed tisane of bloodstrength restores 1d6 points of nonlethal damage in the hour following the drink. Taking the moist leaves as a poultice and pressing them into an open wound makes any diseases or infections attack the patient's Fortitude again at once, a miss cancelling them, and any poisons attack it again with a +2 bonus, a miss cancelling them.
 
 **Construction**: No aura; CL 4th; [[rangoric-srd/feats/Brew Ingestibles|Brew Ingestibles]] or [[rangoric-srd/feats/Craft Herbal Restoratives|Craft Herbal Restoratives]]; DC: 17; Price: 15 gp/0.5 oz.
 

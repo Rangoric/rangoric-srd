@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Flash Powder
 
-This coarse gray powder ignites and burns almost instantly if exposed to flame, significant friction, or even a simple force such as throwing it against a floor (a standard action). Creatures within the 10-foot-radius burst are [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] for 1 round (Fortitude DC 13 negates).
+This coarse gray powder ignites and burns almost instantly if exposed to flame, significant friction, or even a simple force such as throwing it against a floor (a standard action). Creatures within the 10-foot-radius burst are [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] for 1 round (+3 vs Fortitude).
 
 [[rangoric-srd/skills/Craft|Craft]] (alchemy) DC 20; Price 50 gp.

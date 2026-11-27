@@ -42,13 +42,13 @@ The temperant bath takes its time in altering the composition and strength of an
 | 15 gallons | 1 suit of Armor, less than scale                               |
 | 20 gallons | 1 suit of Armor greater than scale or 3 Large weapons or items |
 
-**Temperant Baths, Major [Alchana; Special]** Those alchemists who learned the feat of [[rangoric-srd/feats/Perfect Materials|Perfect Materials]] can abandon the need for type-specific baths and create a Major bath which tempers all materials equally. It increases the material’s integrity and strength to make it equal in strength to masterwork items, despite any flaws in workmanship. Also, items treated in a Major temperant bath now have a Fort save against magical effects (specifically _disintegrations_ and the like) of +3 instead of just falling apart.
+**Temperant Baths, Major [Alchana; Special]** Those alchemists who learned the feat of [[rangoric-srd/feats/Perfect Materials|Perfect Materials]] can abandon the need for type-specific baths and create a Major bath which tempers all materials equally. It increases the material’s integrity and strength to make it equal in strength to masterwork items, despite any flaws in workmanship. Also, items treated in a Major temperant bath now have a Fortitude Defense of 13 against magical effects (specifically _disintegrations_ and the like) instead of just falling apart.
 
 **Table: Temperant Baths**
 
-| Temperant Baths | HP of Item | Break DC | Hardness/AC bonus#      |
-| --------------- | ---------- | -------- | ----------------------- |
-| Major           | +10        | +6       | +3; Fort Save +3 (item) |
+| Temperant Baths | HP of Item | Break DC | Hardness/AC bonus#         |
+| --------------- | ---------- | -------- | -------------------------- |
+| Major           | +10        | +6       | +3; Fort Defense 13 (item) |
 
 #: The increase in Hardness is also mirrored in improving the AC bonus granted by any items within this bath. These increases do not incur any additional arcane armor or movement penalties despite having changed the nature of the armor.
 

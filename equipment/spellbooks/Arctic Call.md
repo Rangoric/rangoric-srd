@@ -23,7 +23,7 @@ Fine vellum sheets fill these two well-worn books. Beautiful illustrations depic
 
 **Opposition Schools**: Illusion, necromancy
 
-**Protection**: Fire trap modified to inflict cold damage (Reflex DC 17)
+**Protection**: Fire trap modified to inflict cold damage (_attack_ +7 vs Reflex)
 
 **Value**: 4,305 gp (5,955 gp with the preparation ritual)
 

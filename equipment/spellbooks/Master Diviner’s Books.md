@@ -23,7 +23,7 @@ This trio of books is bound in leather as black as a starless night, clasped tog
 
 **Opposition Schools**: Illusion, transmutation
 
-**Protection**: Each book features a superior lock (DC 40); secret page hides the 9th- and 7th-level spells, and the first book is warded with explosive runes (Reflex DC 17).
+**Protection**: Each book features a superior lock (DC 40); secret page hides the 9th- and 7th-level spells, and the first book is warded with explosive runes (_attack_ +7 vs Reflex).
 
 **Value**: 12,685 gp (16,510 gp with the preparation ritual)
 
