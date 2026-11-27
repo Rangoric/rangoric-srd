@@ -10,12 +10,12 @@ armor-class: "19 (–2 size, +1 Dex, +10 natural), touch 8, flat-footed 18"
 base-attack: "+7"
 cmb: "+13"
 cmd: "24"
-attack: "Claw +4 melee (2d6+4)"
-full-attack: "2 claws +4 melee (2d6+4), bite +2 melee (2d8+2), and tail slam +2 melee (2d6+2); or 2 claws +4 melee (2d6+4) and 2 wing slaps +2 melee (2d6+2)"
+attack: Claw +9 melee (2d6+4)
+full-attack: 2 claws +9 melee (2d6+4), bite +7 melee (2d8+2), and tail slam +7 melee (2d6+2); or 2 claws +9 melee (2d6+4) and 2 wing slaps +7 melee (2d6+2)
 space-reach: "15 ft./10 ft."
 special-attacks: "Acid spray, frightful presence, improved grab, snatch"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, spell resistance 18"
-defenses: "Fort 17, Ref 16, Will 16"
+defenses: Fort 18, Ref 16, Will 16
 abilities: "Str 19, Dex 13, Con 17, Int 6, Wis 12, Cha 9"
 skills: "Intimidation +9, Perception +14, Stealth +3"
 skill-ranks: "Intimidation 7, Perception 7, Stealth 7"
@@ -39,12 +39,12 @@ tags: [rangoric, rangoric/monster]
 - **Speed**: 20 ft. (4 squares), fly 60 ft. (good)
 - **Armor Class**: 19 (–2 size, +1 Dex, +10 natural), touch 8, flat-footed 18
 - **Base Attack**: +7; **CMB**: +13; **CMD**: 24
-- **Attack**: Claw +4 melee (2d6+4)
-- **Full Attack**: 2 claws +4 melee (2d6+4), bite +2 melee (2d8+2), and tail slam +2 melee (2d6+2); or 2 claws +4 melee (2d6+4) and 2 wing slaps +2 melee (2d6+2)
+- **Attack**: Claw +9 melee (2d6+4)
+- **Full Attack**: 2 claws +9 melee (2d6+4), bite +7 melee (2d8+2), and tail slam +7 melee (2d6+2); or 2 claws +9 melee (2d6+4) and 2 wing slaps +7 melee (2d6+2)
 - **Space/Reach**: 15 ft./10 ft.
 - **Special Attacks**: Acid spray, [[rangoric-srd/monsters/abilities/Frightful Presence|frightful presence]], [[rangoric-srd/monsters/abilities/Grab|improved grab]], snatch
 - **Special Qualities**: Darkvision 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 18
-- **Defenses**: Fort 17, Ref 16, Will 16
+- **Defenses**: Fort 18, Ref 16, Will 16
 - **Abilities**: Str 19, Dex 13, Con 17, Int 6, Wis 12, Cha 9
 - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +3
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Multiattack|Multiattack]]
