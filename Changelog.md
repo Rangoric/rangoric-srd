@@ -8,6 +8,7 @@ Every departure from the source rules, newest first. One line each, with links t
 
 | Date | Change | Rangoric note | Source | Why |
 | --- | --- | --- | --- | --- |
+| 2026-11-27 | Saving throws as defenses, monsters (DF 82): tojanida to zombie attack a defense instead of allowing a save; the Monsters Note Rules lose the saves row. | [[DF Batch 82 Changes]] | | [[Saving Throws as Defenses]] DF 82 |
 | 2026-11-27 | Saving throws as defenses, monsters (DF 81): serpentfolk to tojanida attack a defense instead of allowing a save. | [[DF Batch 81 Changes]] | | [[Saving Throws as Defenses]] DF 81 |
 | 2026-11-27 | Saving throws as defenses, monsters (DF 80): orc to scorpion attack a defense instead of allowing a save. | [[DF Batch 80 Changes]] | | [[Saving Throws as Defenses]] DF 80 |
 | 2026-11-26 | Saving throws as defenses, monsters (DF 79): ogre to orc attack a defense instead of allowing a save. | [[DF Batch 79 Changes]] | | [[Saving Throws as Defenses]] DF 79 |
