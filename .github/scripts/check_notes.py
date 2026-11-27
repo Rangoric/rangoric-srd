@@ -23,6 +23,9 @@
   Note rules but rules/Saving Throws.md and unearthed-arcana/ says "save DC", "DC 15 Reflex save", "Reflex DC 15",
   "Reflex save for half" or "makes a saving throw" (SAVE_WORDING), outside code and comments. Base save progressions
   ("good Fortitude saves") and a creature's own "Reflex check (1d20 + Reflex save bonus)" don't match.
+- Tables of sources: SRD notes don't carry them (SRD Content Rules, "The SRD's text"; No Source Tables, 2026-11-27),
+  so no note but legal/, the Changelog and Rangoric SRD has a table whose header has a cell that is exactly Source,
+  Sources, Publisher, Source book or Book source (any case, emphasis ignored; SOURCE_HEADERS), outside code.
 - Marks: a note marked `sweep: failing` lists its problems in `sweep-issues`; a listed problem is a warning, one
   not listed still fails. A marked note with no problems left, or a listed issue that's gone, is a warning. A note
   added by the change (--added) can't be marked.
@@ -377,11 +380,29 @@ def save_wording(rel, body):
     return [f'save wording: {" ".join(m.group(0).split())}' for m in SAVE_WORDING.finditer(text)]
 
 
+SOURCE_HEADERS = {'source', 'sources', 'publisher', 'source book', 'book source'}
+TABLE_RULE = re.compile(r'^\|(?:\s*:?-+:?\s*\|)+\s*$')
+
+
+def source_tables(rel, body):
+    """Tables of sources in a note (No Source Tables): a table whose header row has a Source, Sources, Publisher,
+    Source book or Book source cell. legal/, the Changelog and Rangoric SRD (its sources table) may have them."""
+    if rel.startswith('legal/') or rel in ('Changelog.md', 'Rangoric SRD.md'):
+        return []
+    lines, out = strip_code(body).split('\n'), []
+    for head, rule in zip(lines, lines[1:]):
+        if ROW.match(head) and TABLE_RULE.match(rule.strip()):
+            names = [re.sub(r'[*_]', '', c).strip().lower() for c in cells(head)]
+            if any(n in SOURCE_HEADERS for n in names):
+                out.append('a table of sources (SRD Content Rules: the SRD\'s text references only itself)')
+    return list(dict.fromkeys(out))
+
+
 def rule_problems(rel, data, body):
     """The note's problems against the written rules, in the checker's words (also its sweep-issues lines)."""
     if exempt(rel):
-        return []
-    out = save_wording(rel, body)
+        return source_tables(rel, body)
+    out = source_tables(rel, body) + save_wording(rel, body)
     folder = folder_rules(rel)
     data = {k: v for k, v in data.items() if k not in ('sweep', 'sweep-issues')}
     if 'all' in README_RULES:
