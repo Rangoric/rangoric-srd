@@ -6,7 +6,6 @@ earnings: "gp, Goods, or Magic +10"
 benefit: "counts as an alchemist's lab (equipment)"
 time: "16 days"
 size: "8-16 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Alchemy Lab|Alchemy Lab (PF1 Ultimate Campaign)]]"
 status: draft

@@ -7,7 +7,6 @@ bp: "108"
 lot: "4"
 settlement: "Law +2"
 special: "Base value +1,000 gp; you may make two special edicts per turn, but take a -2 penalty on kingdom checks associated with each special edict"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/kingdom/Palace (Building)|Palace (Building) (PF1 Ultimate Campaign)]]"
 status: draft

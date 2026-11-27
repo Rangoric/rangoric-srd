@@ -6,7 +6,6 @@ magic-items: "1 minor potion or wondrous item"
 bp: "10"
 lot: "1"
 resource-limit: "Adjacent to 1 House"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/kingdom/Herbalist (Building)|Herbalist (Building) (PF1 Ultimate Campaign)]]"
 status: draft

@@ -3,7 +3,6 @@ srd-type: "downtime-building"
 section: "Unearthed Arcana"
 resource-create: "63 Goods, 10 Influence, 56 Labor (2,680 gp)"
 rooms: "2 Animal Pens, 4 Docks, 1 Office, 4 Storages, 1 Workstation"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Waterfront (Downtime)|Waterfront (Downtime) (PF1 Ultimate Campaign)]]"
 status: draft

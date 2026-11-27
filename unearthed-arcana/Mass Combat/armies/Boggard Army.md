@@ -12,7 +12,6 @@ om: "+2"
 special: "darkvision, low-light vision, mobility advantage (swamps)"
 speed: "1 (speed unaffected by swamps)"
 consumption: "1"
-book: "Ultimate Campaign"
 part-of: "[[rangoric-srd/unearthed-arcana/Mass Combat/Mass Combat|Mass Combat]]"
 based-on:
   - "[[path srd 3.5/kingdom/Boggard Army|Boggard Army (PF1 Ultimate Campaign)]]"

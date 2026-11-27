@@ -4,7 +4,6 @@ section: "Unearthed Arcana"
 word-type: "effect"
 word-group: "Death"
 school: "necromancy [death, evil]"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/rules/ultimate-magic/words-of-power/Effect Words#Slay|Slay (PF1 Ultimate Magic)]]"
 status: draft

@@ -21,7 +21,6 @@ driving-device: "rudder"
 driving-space: "the two middle rear squares of the keelboat"
 crew: "8"
 decks: "1"
-book: "Ultimate Combat"
 part-of: "[[rangoric-srd/unearthed-arcana/Vehicles/Water Vehicles|Water Vehicles]]"
 based-on:
   - "[[path srd 3.5/vehicles/Keelboat (Vehicle)|Keelboat (Vehicle) (PF1 Ultimate Combat)]]"

@@ -12,7 +12,6 @@ om: "+2"
 special: "darkvision, mindless, undead"
 speed: "1"
 consumption: "1"
-book: "Ultimate Campaign"
 part-of: "[[rangoric-srd/unearthed-arcana/Mass Combat/Mass Combat|Mass Combat]]"
 based-on:
   - "[[path srd 3.5/kingdom/Zombie Horde (Large)|Zombie Horde (Large) (PF1 Ultimate Campaign)]]"

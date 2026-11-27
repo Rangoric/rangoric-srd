@@ -5,7 +5,6 @@ resource-create: "7 Goods, 3 Influence, 5 Labor (330 gp)"
 benefit: "bonus on Intimidation checks"
 time: "20 days"
 size: "6-16 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Torture Chamber|Torture Chamber (PF1 Ultimate Campaign)]]"
 status: draft

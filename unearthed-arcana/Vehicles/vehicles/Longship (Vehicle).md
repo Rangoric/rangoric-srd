@@ -21,7 +21,6 @@ driving-device: "rudder"
 driving-space: "the two middle rear squares of the longship"
 crew: "40"
 decks: "1 (with small cargo area under the deck)"
-book: "Ultimate Combat"
 part-of: "[[rangoric-srd/unearthed-arcana/Vehicles/Water Vehicles|Water Vehicles]]"
 based-on:
   - "[[path srd 3.5/vehicles/Longship (Vehicle)|Longship (Vehicle) (PF1 Ultimate Combat)]]"

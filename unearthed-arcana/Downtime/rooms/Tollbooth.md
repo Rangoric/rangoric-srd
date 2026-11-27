@@ -6,7 +6,6 @@ resource-create: "2 Goods, 1 Influence, 2 Labor (110 gp)"
 earnings: "gp or Goods +4"
 time: "6 days"
 size: "1-5 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Tollbooth|Tollbooth (PF1 Ultimate Campaign)]]"
 status: draft

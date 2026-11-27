@@ -6,7 +6,6 @@ earnings: "gp, Goods, or Influence +10"
 benefit: "counts as masterwork artisan's tools for one Craft skill"
 time: "20 days"
 size: "8-16 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Artisan's Workshop|Artisan's Workshop (PF1 Ultimate Campaign)]]"
 status: draft

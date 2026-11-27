@@ -14,7 +14,6 @@ resources: "improved armor, improved weapons, ranged weapons"
 special: "armor training, bravery +1, darkvision"
 speed: "2"
 consumption: "2 (recruitment cost 8 BP)"
-book: "Ultimate Campaign"
 part-of: "[[rangoric-srd/unearthed-arcana/Mass Combat/Mass Combat|Mass Combat]]"
 based-on:
   - "[[path srd 3.5/kingdom/Hobgoblin Army|Hobgoblin Army (PF1 Ultimate Campaign)]]"

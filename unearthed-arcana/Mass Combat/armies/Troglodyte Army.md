@@ -12,7 +12,6 @@ om: "+1, ranged"
 special: "darkvision, paralysis"
 speed: "2"
 consumption: "1"
-book: "Ultimate Campaign"
 part-of: "[[rangoric-srd/unearthed-arcana/Mass Combat/Mass Combat|Mass Combat]]"
 based-on:
   - "[[path srd 3.5/kingdom/Troglodyte Army|Troglodyte Army (PF1 Ultimate Campaign)]]"

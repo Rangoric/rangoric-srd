@@ -20,7 +20,6 @@ forward-facing: "toward the creatures pulling the vehicle"
 driving-device: "reins"
 driving-space: "the most forward square of the cart"
 decks: "1"
-book: "Ultimate Combat"
 part-of: "[[rangoric-srd/unearthed-arcana/Vehicles/Land Vehicles|Land Vehicles]]"
 based-on:
   - "[[path srd 3.5/vehicles/Cart (Vehicle)|Cart (Vehicle) (PF1 Ultimate Combat)]]"

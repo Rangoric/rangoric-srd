@@ -5,7 +5,6 @@ kingdom: "Economy +4"
 bp: "28"
 lot: "1"
 special: "Base value +2,000 gp"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/kingdom/Bank (Building)|Bank (Building) (PF1 Ultimate Campaign)]]"
 status: draft

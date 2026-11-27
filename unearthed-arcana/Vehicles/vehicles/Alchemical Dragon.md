@@ -22,7 +22,6 @@ driving-space: "the nine squares around the steering wheel that sits at the fron
 crew: "10"
 decks: "1"
 weapons: "Up to 6 Large direct-fire siege engines in banks of 3 positioned on the port and starboard sides of the alchemical dragon, or up to 4 Huge direct-fire siege engines in banks of two on the port and starboard sides of the ship. The siege engines may only fire out the sides of the ship they are positioned on. They cannot be swiveled to fire toward the forward or aft sides of the ship."
-book: "Ultimate Combat"
 part-of: "[[rangoric-srd/unearthed-arcana/Vehicles/Air Vehicles|Air Vehicles]]"
 based-on:
   - "[[path srd 3.5/vehicles/Alchemical Dragon|Alchemical Dragon (PF1 Ultimate Combat)]]"

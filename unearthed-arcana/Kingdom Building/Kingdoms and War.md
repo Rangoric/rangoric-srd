@@ -1,7 +1,6 @@
 ---
 srd-type: "rules"
 section: "Unearthed Arcana"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/rules/ultimate-campaign/kingdoms-and-war/Kingdoms And War (Kingdoms And War)|Kingdoms and War (PF1 Ultimate Campaign)]]"
 status: draft

@@ -6,7 +6,6 @@ earnings: "gp or Goods +3"
 benefit: "bonus on Fortitude saves against contracting disease"
 time: "8 days"
 size: "2-6 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Laundry (Downtime)|Laundry (Downtime) (PF1 Ultimate Campaign)]]"
 status: draft

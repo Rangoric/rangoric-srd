@@ -6,7 +6,6 @@ resource-create: "4 Goods, 4 Labor (160 gp)"
 benefit: "defenders get improved cover"
 time: "10 days"
 size: "4-8 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Gauntlet (Downtime)|Gauntlet (Downtime) (PF1 Ultimate Campaign)]]"
 status: draft

@@ -5,7 +5,6 @@ resource-create: "4 Goods, 1 Influence, 3 Labor (170 gp)"
 earnings: "gp or Goods +5"
 time: "10 days"
 size: "2-6 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Hatchery|Hatchery (PF1 Ultimate Campaign)]]"
 status: draft

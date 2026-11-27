@@ -3,7 +3,6 @@ srd-type: "downtime-building"
 section: "Unearthed Arcana"
 resource-create: "41 Goods, 2 Influence, 46 Labor (1,800 gp)"
 rooms: "1 Auditorium, 1 Lavatory, 1 Office, 1 Secret Room, 2 Storages, 1 Storefront"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Theater (Downtime)|Theater (Downtime) (PF1 Ultimate Campaign)]]"
 status: draft

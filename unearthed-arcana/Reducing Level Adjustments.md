@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Unearthed Arcana"
-book: "Unearthed Arcana"
 based-on:
   - "[[fantasy srd 3.5/unearthed-arcana/Racial Variants|Racial Variants (3.5)]]"
 status: draft

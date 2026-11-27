@@ -13,7 +13,6 @@ resources: "improved armor"
 special: "armor training, bravery +1, cannibalize, ferocity, light sensitivity"
 speed: "2"
 consumption: "2 (recruitment cost 3 BP)"
-book: "Ultimate Campaign"
 part-of: "[[rangoric-srd/unearthed-arcana/Mass Combat/Mass Combat|Mass Combat]]"
 based-on:
   - "[[path srd 3.5/kingdom/Orc Army|Orc Army (PF1 Ultimate Campaign)]]"

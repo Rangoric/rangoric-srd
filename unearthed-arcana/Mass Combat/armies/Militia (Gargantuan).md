@@ -11,7 +11,6 @@ dv: "15"
 om: "+5"
 speed: "2"
 consumption: "2"
-book: "Ultimate Campaign"
 part-of: "[[rangoric-srd/unearthed-arcana/Mass Combat/Mass Combat|Mass Combat]]"
 based-on:
   - "[[path srd 3.5/kingdom/Militia (Gargantuan)|Militia (Gargantuan) (PF1 Ultimate Campaign)]]"

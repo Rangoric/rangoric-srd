@@ -8,7 +8,6 @@ special: "Base value +500 gp"
 lot: "1"
 settlement: "Productivity +1"
 resource-limit: "Adjacent to 1 House or Mansion"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/kingdom/Shop (Building)|Shop (Building) (PF1 Ultimate Campaign)]]"
 status: draft

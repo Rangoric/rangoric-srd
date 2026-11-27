@@ -6,7 +6,6 @@ earnings: "gp, Goods, or Influence +10"
 benefit: "counts as masterwork artisan's tools for one Craft skill"
 time: "16 days"
 size: "6-12 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Sewing Room|Sewing Room (PF1 Ultimate Campaign)]]"
 status: draft

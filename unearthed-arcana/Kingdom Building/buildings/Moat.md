@@ -5,7 +5,6 @@ kingdom: "Unrest -1 (once per settlement)"
 bp: "2"
 special: "Defense +1; cannot be damaged by siege engines"
 resource-limit: "Land district border"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/kingdom/Moat|Moat (PF1 Ultimate Campaign)]]"
 status: draft

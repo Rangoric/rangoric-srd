@@ -4,7 +4,6 @@ section: "Unearthed Arcana"
 resource-create: "5 Goods, 2 Influence, 5 Labor (260 gp)"
 time: "12 days"
 size: "20-40 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Defensive Wall|Defensive Wall (PF1 Ultimate Campaign)]]"
 status: draft

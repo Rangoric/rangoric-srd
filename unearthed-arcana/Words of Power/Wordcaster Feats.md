@@ -1,7 +1,6 @@
 ---
 srd-type: "rules"
 section: "Unearthed Arcana"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/rules/ultimate-magic/words-of-power/Wordcaster Feats|Wordcaster Feats (PF1 Ultimate Magic)]]"
   - "[[path srd 3.5/feats/Experimental Spellcaster|Experimental Spellcaster (PF1 Ultimate Magic)]]"

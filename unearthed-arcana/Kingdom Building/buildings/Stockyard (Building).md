@@ -7,7 +7,6 @@ bp: "20"
 lot: "4"
 settlement: "Productivity +1"
 special: "Farms in this hex or adjacent hexes reduce Consumption by 3 instead of 2"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/kingdom/Stockyard (Building)|Stockyard (Building) (PF1 Ultimate Campaign)]]"
 status: draft

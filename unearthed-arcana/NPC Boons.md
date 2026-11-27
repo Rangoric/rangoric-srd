@@ -1,7 +1,6 @@
 ---
 srd-type: "rules"
 section: "Unearthed Arcana"
-book: "Game Mastery Guide"
 based-on:
   - "[[path srd 3.5/rules/game-mastery-guide/npcs/NPC Boons|NPC Boons (PF1)]]"
 status: draft

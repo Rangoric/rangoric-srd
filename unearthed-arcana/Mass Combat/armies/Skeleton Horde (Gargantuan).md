@@ -12,7 +12,6 @@ om: "+5"
 special: "darkvision, mindless, undead"
 speed: "2"
 consumption: "2"
-book: "Ultimate Campaign"
 part-of: "[[rangoric-srd/unearthed-arcana/Mass Combat/Mass Combat|Mass Combat]]"
 based-on:
   - "[[path srd 3.5/kingdom/Skeleton Horde (Gargantuan)|Skeleton Horde (Gargantuan) (PF1 Ultimate Campaign)]]"

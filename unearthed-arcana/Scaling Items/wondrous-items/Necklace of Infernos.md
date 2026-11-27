@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, fireball"
 price: "9,300 gp"
 cost: "39,750 gp"
 scaling: "prize"
-book: "Pathfinder Unchained"
 based-on:
   - "[[path srd 3.5/rules/pathfinder-unchained/Scaling Items|Scaling Items (PF1 Unchained)]]"
 status: draft

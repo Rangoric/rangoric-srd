@@ -6,7 +6,6 @@ earnings: "Influence +4"
 benefit: "bonus on Deception, Persuasion, Intimidation, Society, and Performance checks"
 time: "24 days"
 size: "6-10 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Sitting Room|Sitting Room (PF1 Ultimate Campaign)]]"
 status: draft

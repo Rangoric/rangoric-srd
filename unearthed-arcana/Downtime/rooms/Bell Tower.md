@@ -5,7 +5,6 @@ resource-create: "11 Goods, 3 Influence, 7 Labor (450 gp)"
 earnings: "capital +1 (of a type the building already generates)"
 time: "28 days"
 size: "9-25 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Bell Tower|Bell Tower (PF1 Ultimate Campaign)]]"
 status: draft

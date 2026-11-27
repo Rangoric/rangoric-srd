@@ -6,7 +6,6 @@ earnings: "gp, Goods, or Influence +8"
 benefit: "counts as masterwork artisan's tools for one Craft or Profession skill"
 time: "16 days"
 size: "8-16 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Workstation|Workstation (PF1 Ultimate Campaign)]]"
 status: draft

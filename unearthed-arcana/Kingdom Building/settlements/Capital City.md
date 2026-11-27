@@ -20,7 +20,6 @@ population: "18,000 (14,000 humans; 1,000 dwarves; 1,000 halflings; 500 elves; 1
 spellcasting: "9th"
 major-items: "2d4"
 qualities: "academic, holy site, prosperous, strategic location, tourist attraction"
-book: "GameMastery Guide"
 based-on:
   - "[[path srd 3.5/kingdom/Capital City|Capital City (PF1 GameMastery Guide)]]"
 status: draft

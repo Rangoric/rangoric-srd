@@ -10,7 +10,6 @@ price: "3,100 gp"
 cost: "6,000 gp"
 weight: "15 lbs."
 scaling: "bauble"
-book: "Pathfinder Unchained"
 based-on:
   - "[[path srd 3.5/rules/pathfinder-unchained/Scaling Items|Scaling Items (PF1 Unchained)]]"
 status: draft

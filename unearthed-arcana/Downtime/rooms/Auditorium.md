@@ -7,7 +7,6 @@ earnings: "gp or Influence +15"
 benefit: "bonus on Performance checks"
 time: "40 days"
 size: "40-100 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Auditorium|Auditorium (PF1 Ultimate Campaign)]]"
 status: draft

@@ -6,7 +6,6 @@ resource-create: "6 Goods, 1 Influence, 5 Labor (250 gp)"
 earnings: "gp, Goods, or Labor +8"
 time: "16 days"
 size: "4-16 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Animal Pen|Animal Pen (PF1 Ultimate Campaign)]]"
 status: draft

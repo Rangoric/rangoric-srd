@@ -9,7 +9,6 @@ special: "Armies and commanders recruited at the settlement gain one bonus tacti
 lot: "2"
 settlement: "Law +1, Lore +1"
 resource-limit: "1 per settlement"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/kingdom/Military Academy (Building)|Military Academy (Building) (PF1 Ultimate Campaign)]]"
 status: draft

@@ -6,7 +6,6 @@ upgrade-to: "House"
 bp: "1"
 lot: "1"
 special: "Counts as House for buildings that must be adjacent to a House"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/kingdom/Tenement (Building)|Tenement (Building) (PF1 Ultimate Campaign)]]"
 status: draft

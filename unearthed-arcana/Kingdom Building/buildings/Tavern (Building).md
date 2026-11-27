@@ -7,7 +7,6 @@ special: "Base value +500 gp"
 lot: "1"
 settlement: "Corruption +1"
 resource-limit: "Adjacent to 1 House or Mansion"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/kingdom/Tavern (Building)|Tavern (Building) (PF1 Ultimate Campaign)]]"
 status: draft

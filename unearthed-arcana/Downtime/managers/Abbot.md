@@ -3,7 +3,6 @@ srd-type: "downtime-manager"
 section: "Unearthed Arcana"
 wage: "4 gp/day"
 skills: "Persuasion, Medicine, Society, Theology"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Abbot|Abbot (PF1 Ultimate Campaign)]]"
 status: draft

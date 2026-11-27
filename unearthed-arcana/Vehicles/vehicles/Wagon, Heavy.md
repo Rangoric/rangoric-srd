@@ -20,7 +20,6 @@ forward-facing: "toward the creatures pulling the vehicle"
 driving-device: "reins"
 driving-space: "the most forward square of the wagon"
 decks: "1"
-book: "Ultimate Combat"
 part-of: "[[rangoric-srd/unearthed-arcana/Vehicles/Land Vehicles|Land Vehicles]]"
 based-on:
   - "[[path srd 3.5/vehicles/Wagon, Heavy|Wagon, Heavy (PF1 Ultimate Combat)]]"

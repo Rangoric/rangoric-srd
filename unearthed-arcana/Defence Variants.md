@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Unearthed Arcana"
-book: ["Unearthed Arcana", "Arms & Armor v3.5", "Ultimate Combat"]
 based-on:
   - "[[fantasy srd 3.5/unearthed-arcana/Defence Variants|Defence Variants (3.5)]]"
   - "[[individual books/Arms & Armor v3.5/rules/Armor as Damage Reduction|Armor as Damage Reduction (Arms & Armor)]]"

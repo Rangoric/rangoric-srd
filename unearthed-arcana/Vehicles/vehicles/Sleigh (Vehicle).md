@@ -20,7 +20,6 @@ forward-facing: "toward the creatures pulling the vehicle or the front of the sl
 driving-device: "reins (muscle propulsion) or rigging (air current propulsion)"
 driving-space: "the two most forward squares of the sleigh"
 decks: "1"
-book: "Ultimate Combat"
 part-of: "[[rangoric-srd/unearthed-arcana/Vehicles/Land Vehicles|Land Vehicles]]"
 based-on:
   - "[[path srd 3.5/vehicles/Sleigh (Vehicle)|Sleigh (Vehicle) (PF1 Ultimate Combat)]]"

@@ -6,7 +6,6 @@ resource-create: "15 Goods, 3 Influence, 12 Labor (630 gp)"
 benefit: "defenders get bonus on initiative and Perception checks"
 time: "40 days"
 size: "8-12 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Gatehouse|Gatehouse (PF1 Ultimate Campaign)]]"
 status: draft

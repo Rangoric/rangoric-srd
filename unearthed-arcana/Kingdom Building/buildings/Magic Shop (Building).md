@@ -8,7 +8,6 @@ bp: "68"
 special: "Base value +2,000 gp"
 lot: "1"
 resource-limit: "Adjacent to 2 Houses"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/kingdom/Magic Shop (Building)|Magic Shop (Building) (PF1 Ultimate Campaign)]]"
 status: draft

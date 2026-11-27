@@ -9,7 +9,6 @@ prerequisites: "Forge Ring, meld into stone, passwall, soften earth and stone, s
 price: "4,800 gp"
 cost: "79,500 gp"
 scaling: "wonder"
-book: "Pathfinder Unchained"
 based-on:
   - "[[path srd 3.5/rules/pathfinder-unchained/Scaling Items|Scaling Items (PF1 Unchained)]]"
 status: draft

@@ -1,7 +1,6 @@
 ---
 srd-type: "rules"
 section: "Unearthed Arcana"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/rules/bestiary/monster-creation/Building the Monster|Building the Monster (PF1)]]"
 status: draft

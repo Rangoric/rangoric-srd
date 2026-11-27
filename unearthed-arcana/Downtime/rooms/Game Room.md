@@ -6,7 +6,6 @@ earnings: "gp +10 (see below)"
 benefit: "Crime +1, Danger +10 (see below)"
 time: "16 days"
 size: "10-20 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Game Room|Game Room (PF1 Ultimate Campaign)]]"
 status: draft

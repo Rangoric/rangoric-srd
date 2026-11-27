@@ -6,7 +6,6 @@ magic-items: "2 minor scrolls or wondrous items"
 discount: "Library, Museum, Theater"
 bp: "40"
 lot: "2"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/kingdom/Bardic College (Building)|Bardic College (Building) (PF1 Ultimate Campaign)]]"
 status: draft

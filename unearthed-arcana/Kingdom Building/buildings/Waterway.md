@@ -4,7 +4,6 @@ section: "Unearthed Arcana"
 bp: "3"
 lot: "1—2"
 special: "Counts as water district border for adjacent buildings"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/kingdom/Waterway|Waterway (PF1 Ultimate Campaign)]]"
 status: draft

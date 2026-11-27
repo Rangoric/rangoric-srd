@@ -6,7 +6,6 @@ resource-create: "7 Goods, 8 Labor (300 gp)"
 earnings: "gp or Influence +7"
 time: "16 days"
 size: "10-30 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Common Room|Common Room (PF1 Ultimate Campaign)]]"
 status: draft

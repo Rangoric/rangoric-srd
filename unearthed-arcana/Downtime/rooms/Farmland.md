@@ -5,7 +5,6 @@ resource-create: "15 Goods, 15 Labor (600 gp)"
 earnings: "gp or Goods +10"
 time: "20 days"
 size: "60-100 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Farmland|Farmland (PF1 Ultimate Campaign)]]"
 status: draft

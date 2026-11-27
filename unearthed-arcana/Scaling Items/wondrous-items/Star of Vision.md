@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, detect secret doors, see invisibility, tele
 price: "14,400 gp"
 cost: "23,625 gp"
 scaling: "prize"
-book: "Pathfinder Unchained"
 based-on:
   - "[[path srd 3.5/rules/pathfinder-unchained/Scaling Items|Scaling Items (PF1 Unchained)]]"
 status: draft

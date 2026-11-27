@@ -8,7 +8,6 @@ special: "Base value +1,000 gp"
 lot: "1"
 settlement: "Crime +1"
 resource-limit: "Adjacent to water district border"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/kingdom/Pier (Building)|Pier (Building) (PF1 Ultimate Campaign)]]"
 status: draft

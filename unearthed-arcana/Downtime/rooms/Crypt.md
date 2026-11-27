@@ -6,7 +6,6 @@ resource-create: "5 Goods, 3 Influence, 5 Labor, 2 Magic (490 gp)"
 earnings: "gp, Influence, or Magic +5"
 time: "16 days"
 size: "8-30 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Crypt|Crypt (PF1 Ultimate Campaign)]]"
 status: draft

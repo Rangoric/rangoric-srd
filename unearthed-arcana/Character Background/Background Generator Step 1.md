@@ -1,7 +1,6 @@
 ---
 srd-type: "rules"
 section: "Unearthed Arcana"
-book: "Ultimate Campaign"
 aliases: ["Step 1—Homeland, Family, and Childhood"]
 based-on:
   - "[[path srd 3.5/rules/ultimate-campaign/character-background/Background Generator#Step 1-Homeland, Family, and Childhood|Background Generator (PF1 Ultimate Campaign)]]"

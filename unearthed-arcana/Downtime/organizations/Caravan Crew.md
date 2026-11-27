@@ -3,7 +3,6 @@ srd-type: "downtime-organization"
 section: "Unearthed Arcana"
 resource-create: "6 Goods, 3 Influence, 7 Labor (350 gp)"
 teams: "2 Drivers, 1 Guards, 1 Laborers"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Caravan Crew|Caravan Crew (PF1 Ultimate Campaign)]]"
 status: draft

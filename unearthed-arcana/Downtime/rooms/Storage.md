@@ -7,7 +7,6 @@ resource-create: "3 Goods, 3 Labor (120 gp)"
 earnings: "gp +2"
 time: "8 days"
 size: "4-8 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Storage|Storage (PF1 Ultimate Campaign)]]"
 status: draft

@@ -6,7 +6,6 @@ resource-create: "5 Goods, 1 Influence, 3 Labor (190 gp)"
 earnings: "capital +5 (of a type the building already generates)"
 time: "12 days"
 size: "2-4 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Storefront|Storefront (PF1 Ultimate Campaign)]]"
 status: draft

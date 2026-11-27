@@ -6,7 +6,6 @@ earnings: "gp or Influence +2"
 benefit: "increases the DC of scrying effects"
 time: "16 days"
 size: "4-16 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Scrying Room|Scrying Room (PF1 Ultimate Campaign)]]"
 status: draft

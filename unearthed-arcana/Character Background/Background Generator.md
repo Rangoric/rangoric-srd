@@ -1,7 +1,6 @@
 ---
 srd-type: "rules"
 section: "Unearthed Arcana"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/rules/ultimate-campaign/character-background/Background Generator|Background Generator (PF1 Ultimate Campaign)]]"
 status: draft

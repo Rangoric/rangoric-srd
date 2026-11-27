@@ -5,7 +5,6 @@ kingdom: "Loyalty +2, Stability +2, Unrest -2"
 bp: "14"
 lot: "1"
 settlement: "Crime -1, Law +1"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/kingdom/Jail (Building)|Jail (Building) (PF1 Ultimate Campaign)]]"
 status: draft

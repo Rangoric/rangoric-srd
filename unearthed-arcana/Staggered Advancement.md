@@ -1,7 +1,6 @@
 ---
 srd-type: "rules"
 section: "Unearthed Arcana"
-book: "Pathfinder Unchained"
 based-on:
   - "[[path srd 3.5/rules/pathfinder-unchained/Unchained Classes#Staggered Advancement|Unchained Classes (PF1 Unchained)]]"
   - "[[path srd 3.5/rules/pathfinder-unchained/Unchained Classes#Using Staggered Advancement|Unchained Classes (PF1 Unchained)]]"

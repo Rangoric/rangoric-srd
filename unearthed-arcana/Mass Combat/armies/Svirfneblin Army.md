@@ -12,7 +12,6 @@ om: "+2, ranged"
 special: "darkvision, favored enemy (dwarf), low-light vision, spellcasting, spell resistance, track"
 speed: "1"
 consumption: "1"
-book: "Ultimate Campaign"
 part-of: "[[rangoric-srd/unearthed-arcana/Mass Combat/Mass Combat|Mass Combat]]"
 based-on:
   - "[[path srd 3.5/kingdom/Svirfneblin Army|Svirfneblin Army (PF1 Ultimate Campaign)]]"

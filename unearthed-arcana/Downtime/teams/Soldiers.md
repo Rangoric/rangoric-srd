@@ -7,7 +7,6 @@ resource-create: "3 Goods, 2 Influence, 5 Labor (220 gp)"
 earnings: "gp, Influence, or Labor +5"
 time: "2 days"
 size: "5 people"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Soldiers|Soldiers (PF1 Ultimate Campaign)]]"
 status: draft

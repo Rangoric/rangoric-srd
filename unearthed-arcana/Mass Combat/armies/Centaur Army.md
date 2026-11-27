@@ -13,7 +13,6 @@ tactics: "cavalry experts"
 special: "always treated as if they have the mounts resource, darkvision"
 speed: "2"
 consumption: "1"
-book: "Ultimate Campaign"
 part-of: "[[rangoric-srd/unearthed-arcana/Mass Combat/Mass Combat|Mass Combat]]"
 based-on:
   - "[[path srd 3.5/kingdom/Centaur Army|Centaur Army (PF1 Ultimate Campaign)]]"

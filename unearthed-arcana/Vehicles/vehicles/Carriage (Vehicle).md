@@ -20,7 +20,6 @@ forward-facing: "toward the creatures pulling the vehicle"
 driving-device: "reins"
 driving-space: "the most forward squares if the carriage's upper deck."
 decks: "2; a lower cab with enough room for four passengers, and an upper deck with room for a driver and another passenger."
-book: "Ultimate Combat"
 part-of: "[[rangoric-srd/unearthed-arcana/Vehicles/Land Vehicles|Land Vehicles]]"
 based-on:
   - "[[path srd 3.5/vehicles/Carriage (Vehicle)|Carriage (Vehicle) (PF1 Ultimate Combat)]]"

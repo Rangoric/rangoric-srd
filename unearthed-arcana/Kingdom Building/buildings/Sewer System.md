@@ -6,7 +6,6 @@ discount: "Cistern, Dump"
 bp: "24"
 settlement: "Crime +1, Productivity +1"
 resource-limit: "1 per district"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/kingdom/Sewer System|Sewer System (PF1 Ultimate Campaign)]]"
 status: draft

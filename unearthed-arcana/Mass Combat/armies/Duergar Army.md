@@ -13,7 +13,6 @@ special: "darkvision, immune to paralysis and poison, light sensitivity"
 speed: "1"
 consumption: "1"
 note: "+1 OM due to spell-like abilities"
-book: "Ultimate Campaign"
 part-of: "[[rangoric-srd/unearthed-arcana/Mass Combat/Mass Combat|Mass Combat]]"
 based-on:
   - "[[path srd 3.5/kingdom/Duergar Army|Duergar Army (PF1 Ultimate Campaign)]]"

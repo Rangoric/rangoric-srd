@@ -5,7 +5,6 @@ resource-create: "2 Goods, 3 Labor (100 gp)"
 benefit: "bonus on Stealth checks"
 time: "4 days"
 size: "2-4 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Confessional|Confessional (PF1 Ultimate Campaign)]]"
 status: draft

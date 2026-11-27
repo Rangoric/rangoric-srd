@@ -1,7 +1,6 @@
 ---
 srd-type: "rules"
 section: "Unearthed Arcana"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/rules/advanced-player-s-guide/new-rules/Hero Points|Hero Points (PF1)]]"
 status: draft

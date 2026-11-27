@@ -3,7 +3,6 @@ srd-type: "downtime-manager"
 section: "Unearthed Arcana"
 wage: "2 gp/day"
 skills: "Appraise, Deception, Intimidation, Society"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Underboss|Underboss (PF1 Ultimate Campaign)]]"
 status: draft

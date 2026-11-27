@@ -6,7 +6,6 @@ discount: "Barracks, Cistern, Dump, Jail, Watchtower"
 bp: "22"
 lot: "2"
 settlement: "Law +1"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/kingdom/Town Hall (Building)|Town Hall (Building) (PF1 Ultimate Campaign)]]"
 status: draft

@@ -3,7 +3,6 @@ srd-type: "downtime-building"
 section: "Unearthed Arcana"
 resource-create: "41 Goods, 16 Influence, 41 Labor (2,120 gp)"
 rooms: "4 Bunks, 1 Kitchen, 1 Lavatory, 1 Office, 1 Storage"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Tenement (Downtime)|Tenement (Downtime) (PF1 Ultimate Campaign)]]"
 status: draft

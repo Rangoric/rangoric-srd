@@ -5,7 +5,6 @@ upgrade-to: "Lavatory, Storage"
 resource-create: "3 Goods, 2 Labor (100 gp)"
 time: "3 days"
 size: "2-4 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Shack|Shack (PF1 Ultimate Campaign)]]"
 status: draft

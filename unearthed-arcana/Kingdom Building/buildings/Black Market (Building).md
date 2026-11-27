@@ -9,7 +9,6 @@ special: "Base value +2,000 gp"
 lot: "1"
 settlement: "Corruption +2, Crime +2"
 resource-limit: "Adjacent to 2 Houses"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/kingdom/Black Market (Building)|Black Market (Building) (PF1 Ultimate Campaign)]]"
 status: draft

@@ -10,7 +10,6 @@ price: "5,814 gp"
 cost: "13,200 gp"
 weight: "6 lbs."
 scaling: "wonder"
-book: "Pathfinder Unchained"
 based-on:
   - "[[path srd 3.5/rules/pathfinder-unchained/Scaling Items|Scaling Items (PF1 Unchained)]]"
 status: draft

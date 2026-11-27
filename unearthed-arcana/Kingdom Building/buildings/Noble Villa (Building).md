@@ -7,7 +7,6 @@ bp: "24"
 lot: "2"
 discount: "Exotic Artisan, Luxury Store, Mansion"
 settlement: "Society +1"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/kingdom/Noble Villa (Building)|Noble Villa (Building) (PF1 Ultimate Campaign)]]"
 status: draft

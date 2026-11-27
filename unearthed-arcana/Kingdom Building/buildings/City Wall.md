@@ -5,7 +5,6 @@ kingdom: "Unrest -2 (once per settlement)"
 bp: "2"
 special: "Defense +1"
 resource-limit: "Land district border"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/kingdom/City Wall|City Wall (PF1 Ultimate Campaign)]]"
 status: draft

@@ -6,7 +6,6 @@ upgrade-to: "Arena"
 discount: "Brothel, Exotic Artisan, Inn, Park, Tavern"
 bp: "24"
 lot: "2"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/kingdom/Theater (Building)|Theater (Building) (PF1 Ultimate Campaign)]]"
 status: draft

@@ -19,7 +19,6 @@ population: "16 (13 humans, 2 halflings, 1 dwarf)"
 spellcasting: "1st"
 major-items: "—"
 qualities: "strategic location"
-book: "GameMastery Guide"
 based-on:
   - "[[path srd 3.5/kingdom/SLEEPY CROSSROADS THORP|Sleepy Crossroads Thorp (PF1 GameMastery Guide)]]"
 status: draft

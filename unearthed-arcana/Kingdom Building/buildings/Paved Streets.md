@@ -5,7 +5,6 @@ kingdom: "Economy +2, Stability +1"
 bp: "24"
 settlement: "Productivity +2"
 resource-limit: "1 per district"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/kingdom/Paved Streets|Paved Streets (PF1 Ultimate Campaign)]]"
 status: draft

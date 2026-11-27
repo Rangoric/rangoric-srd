@@ -1,7 +1,6 @@
 ---
 srd-type: "rules"
 section: "Unearthed Arcana"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/rules/ultimate-campaign/campaign-systems/Retirement|Retirement (PF1 Ultimate Campaign)]]"
 status: draft

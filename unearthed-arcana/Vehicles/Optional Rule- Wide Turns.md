@@ -1,7 +1,6 @@
 ---
 srd-type: "rules"
 section: "Unearthed Arcana"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/rules/ultimate-combat/vehicles/Optional Rule- Wide Turns|Optional Rule: Wide Turns (PF1 Ultimate Combat)]]"
 status: draft

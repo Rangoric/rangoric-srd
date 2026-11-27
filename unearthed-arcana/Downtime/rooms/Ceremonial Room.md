@@ -8,7 +8,6 @@ earnings: "Capital +10"
 benefit: "bonus on Deception, Persuasion, and Intimidation checks (see below)"
 time: "40 days"
 size: "40-100 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Ceremonial Room|Ceremonial Room (PF1 Ultimate Campaign)]]"
 status: draft

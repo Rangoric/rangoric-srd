@@ -7,7 +7,6 @@ resource-create: "5 Goods, 4 Influence, 8 Labor (380 gp)"
 earnings: "gp, Influence, or Labor +7"
 time: "6 days"
 size: "5 people"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Elite Archers|Elite Archers (PF1 Ultimate Campaign)]]"
 status: draft

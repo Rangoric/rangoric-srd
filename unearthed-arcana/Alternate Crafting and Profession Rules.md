@@ -1,7 +1,6 @@
 ---
 srd-type: "rules"
 section: "Unearthed Arcana"
-book: "Pathfinder Unchained"
 based-on:
   - "[[path srd 3.5/rules/pathfinder-unchained/Alternate Crafting and Profession Rules|Alternate Crafting and Profession Rules (PF1 Unchained)]]"
 status: draft

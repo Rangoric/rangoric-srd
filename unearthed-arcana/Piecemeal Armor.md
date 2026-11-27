@@ -1,7 +1,6 @@
 ---
 srd-type: "rules"
 section: "Unearthed Arcana"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/rules/ultimate-combat/variant-rules/Piecemeal Armor|Piecemeal Armor (PF1 UC)]]"
 status: draft
