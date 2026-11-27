@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Caster level 7th, Craft Wondrous Item, Shadehand."
-based-on:
-  - "[[individual books/Spells & Magic v3.0/feats/Craft Necromantic Focus|Craft Necromantic Focus (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, item-creation, shadetouched]
 ---

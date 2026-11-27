@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Str 13, Con 13, rage class feature, Improved Bull Rush, Power Attack, base attack bonus +6."
-based-on:
-  - "[[path srd 3.5/feats/Raging Throw|Raging Throw (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Raging Throw|Raging Throw (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/feat]
 ---

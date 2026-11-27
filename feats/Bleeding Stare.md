@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Mesmerist level 5th, painful stare class feature."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Bleeding Stare|Bleeding Stare (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/feat, fighter-bonus, stare]
 ---

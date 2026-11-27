@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 13, Improved Grapple, Improved Unarmed Strike."
-based-on:
-  - "[[path srd 3.5/rules/monster-codex/bugbears/New Rules (Bugbears)#Bushwhack|Bushwhack (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Bushwhack|Bushwhack (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

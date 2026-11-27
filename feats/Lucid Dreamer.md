@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Cha 13, Theology 3 ranks."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Lucid Dreamer|Lucid Dreamer (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/feat]
 ---

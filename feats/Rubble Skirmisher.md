@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 13, Nimble Moves, base attack bonus +2."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Rubble Skirmisher|Rubble Skirmisher (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Weapon Focus (crossbow or firearm), base attack bonus +1."
-based-on:
-  - "[[path srd 3.5/feats/Prone Shooter|Prone Shooter (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Prone Shooter|Prone Shooter (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

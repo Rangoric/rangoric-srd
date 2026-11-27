@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Skill Focus (Deception or Imitation), Spell Focus (enchantment)."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Subtle Enchantments|Subtle Enchantments (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

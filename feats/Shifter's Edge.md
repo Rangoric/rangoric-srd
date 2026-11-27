@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 13, Weapon Finesse, shifter claws class feature."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Shifter's Edge|Shifter's Edge (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat]
 ---

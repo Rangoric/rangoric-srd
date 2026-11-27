@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Disruptive, fighter level 10th."
-based-on:
-  - "[[path srd 3.5/feats/Spellbreaker (Feat)|Spellbreaker (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Spellbreaker (Feat)|Spellbreaker (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

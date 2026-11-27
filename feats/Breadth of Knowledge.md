@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Exposure to legend lore or vision spell."
-based-on:
-  - "[[fantasy srd 3.5/feats/Breadth of Knowledge|Breadth of Knowledge (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/feat, spelltouched]
 ---

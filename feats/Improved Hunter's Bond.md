@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Hunter's bond (hunting companions) class feature, ranger level 9th."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Improved Hunter's Bond|Improved Hunter's Bond (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Str 13, Dex 15, Nimble Striker, base attack bonus +10, catfolk, cat’s claws racial trait or Aspect of the Beast (claws of the beast manifestation)."
-based-on:
-  - "[[path srd 3.5/feats/Claw Pounce|Claw Pounce (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Claw Pounce|Claw Pounce (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, fighter-bonus, racial]
 ---

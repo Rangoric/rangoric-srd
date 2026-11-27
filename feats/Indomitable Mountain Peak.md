@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Wis 15, Combat Reflexes, Improved Unarmed Strike, Indomitable Mountain Style, base attack bonus +6."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Indomitable Mountain Peak|Indomitable Mountain Peak (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

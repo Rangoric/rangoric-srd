@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Charging Hurler, Point Blank Shot."
-based-on:
-  - "[[path srd 3.5/feats/Improved Charging Hurler|Improved Charging Hurler (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Improved Charging Hurler|Improved Charging Hurler (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

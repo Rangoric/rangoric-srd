@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 19, Blind-Fight, Improved Precise Shot, Point Blank Shot, Precise Shot, base attack bonus +11."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Circuitous Shot|Circuitous Shot (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

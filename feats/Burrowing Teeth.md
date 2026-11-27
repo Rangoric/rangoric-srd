@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Sharpclaw, Tunnel Rat, ratfolk."
-based-on:
-  - "[[path srd 3.5/feats/Burrowing Teeth|Burrowing Teeth (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Burrowing Teeth|Burrowing Teeth (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, racial]
 ---

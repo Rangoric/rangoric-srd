@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 13, Improved Unarmed Strike."
-based-on:
-  - "[[path srd 3.5/feats/Improved Grapple|Improved Grapple (PF1)]]"
-  - "[[fantasy srd 3.5/feats/Improved Grapple|Improved Grapple (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

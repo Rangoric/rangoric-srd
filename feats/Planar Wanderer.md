@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Cartogramancer, Society 10 ranks, Theology 10 ranks, ability to cast greater teleport and plane shift."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Planar Wanderer|Planar Wanderer (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

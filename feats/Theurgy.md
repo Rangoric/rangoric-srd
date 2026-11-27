@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Wis 13, Int or Cha 13, able to cast 1st-level arcane spells, able to cast 1st-level divine spells."
-based-on:
-  - "[[path srd 3.5/feats/Theurgy|Theurgy (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Theurgy|Theurgy (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

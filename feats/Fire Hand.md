@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Goblin."
-based-on:
-  - "[[path srd 3.5/feats/Fire Hand|Fire Hand (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Fire Hand|Fire Hand (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, fighter-bonus, racial]
 ---

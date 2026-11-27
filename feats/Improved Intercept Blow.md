@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Intercept Blow, base attack bonus +6, animal companion."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Improved Intercept Blow|Improved Intercept Blow (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

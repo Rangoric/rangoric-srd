@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Warren Digger, ghoul."
-based-on:
-  - "[[path srd 3.5/rules/monster-codex/ghouls/New Rules (Ghouls)#Sleeper|Sleeper (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/feat, racial]
 ---

@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 15, Acrobatics 10 ranks or acrobatic charge class feature, Deception 3 ranks."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Sliding Dash|Sliding Dash (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

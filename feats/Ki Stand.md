@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Ki pool."
-based-on:
-  - "[[path srd 3.5/feats/Ki Stand|Ki Stand (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Ki Stand|Ki Stand (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat]
 ---

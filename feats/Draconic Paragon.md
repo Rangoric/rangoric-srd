@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Draconic Aspect, either Draconic Breath or Draconic Glide, character level 10th, kobold."
-based-on:
-  - "[[path srd 3.5/feats/Draconic Paragon|Draconic Paragon (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Draconic Paragon|Draconic Paragon (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, racial]
 ---

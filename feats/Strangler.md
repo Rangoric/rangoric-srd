@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 13, sneak attack +1d6, Improved Grapple, Improved Unarmed Strike."
-based-on:
-  - "[[path srd 3.5/feats/Strangler (Feat)|Strangler (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

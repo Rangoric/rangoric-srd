@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Improved Unarmed Strike, Weapon Focus with the selected natural weapon."
-based-on:
-  - "[[path srd 3.5/feats/Feral Combat Training|Feral Combat Training (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Feral Combat Training|Feral Combat Training (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

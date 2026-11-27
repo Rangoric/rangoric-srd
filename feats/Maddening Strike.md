@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Wis 17, Cha 13, Improved Unarmed Strike, Maddening Style, Stunning Fist, Arcana 8 ranks, ki pool class feature, nongood alignment."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Maddening Strike|Maddening Strike (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

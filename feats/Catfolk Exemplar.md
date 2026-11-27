@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Catfolk."
-based-on:
-  - "[[path srd 3.5/feats/Catfolk Exemplar|Catfolk Exemplar (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Catfolk Exemplar|Catfolk Exemplar (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, racial]
 ---

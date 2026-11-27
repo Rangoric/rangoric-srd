@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 13, Dodge, Mobility."
-based-on:
-  - "[[path srd 3.5/feats/Sidestep|Sidestep (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Sidestep (Feat, Advanced Player's Guide)|Sidestep (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dazzling Display, Weapon Focus, base attack bonus +6, proficiency with the chosen weapon."
-based-on:
-  - "[[path srd 3.5/feats/Disheartening Display|Disheartening Display (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Disheartening Display|Disheartening Display (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

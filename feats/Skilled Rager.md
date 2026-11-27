@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Rage class feature."
-based-on:
-  - "[[path srd 3.5/feats/Skilled Rager|Skilled Rager (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Skilled Rager|Skilled Rager (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/feat]
 ---

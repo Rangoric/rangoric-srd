@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Spell recall class feature, Mysticism 2 ranks."
-based-on:
-  - "[[path srd 3.5/feats/Disruptive Recall|Disruptive Recall (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Disruptive Recall|Disruptive Recall (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat]
 ---

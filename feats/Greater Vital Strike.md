@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Improved Vital Strike, Vital Strike, base attack bonus +16."
-based-on:
-  - "[[path srd 3.5/feats/Greater Vital Strike|Greater Vital Strike (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Greater Vital Strike|Greater Vital Strike (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

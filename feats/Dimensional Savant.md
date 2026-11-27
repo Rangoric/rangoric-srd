@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dimensional Agility, Dimensional Assault, Dimensional Dervish, ability to use the abundant step class feature or cast dimension door, base attack bonus +9."
-based-on:
-  - "[[path srd 3.5/feats/Dimensional Savant|Dimensional Savant (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Dimensional Savant|Dimensional Savant (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat]
 ---

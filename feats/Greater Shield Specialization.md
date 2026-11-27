@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Proficiency with selected shield, Greater Shield Focus, Shield Focus, Shield Specialization with selected shield, fighter level 12th."
-based-on:
-  - "[[path srd 3.5/feats/Greater Shield Specialization|Greater Shield Specialization (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Greater Shield Specialization|Greater Shield Specialization (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

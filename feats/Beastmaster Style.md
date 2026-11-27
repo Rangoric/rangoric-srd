@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Cha 13, Animal Handling 1 rank, must have an animal companion."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Beastmaster Style|Beastmaster Style (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/feat, fighter-bonus, style]
 ---

@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Imitation 6 ranks, Nature 6 ranks."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Animal Disguise|Animal Disguise (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

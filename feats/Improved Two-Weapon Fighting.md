@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 17, Two-Weapon Fighting, base attack bonus +6."
-based-on:
-  - "[[fantasy srd 3.5/feats/Improved Two-Weapon Fighting|Improved Two-Weapon Fighting (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

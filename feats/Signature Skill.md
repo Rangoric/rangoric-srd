@@ -1,11 +1,7 @@
 ---
 srd-type: "feat"
 section: "Feats"
-based-on:
-  - "[[path srd 3.5/rules/pathfinder-unchained/Skill Unlocks|Skill Unlocks (PF1 Unchained)]]"
-  - "[[fantasy srd 3.5/feats/Skill Focus|Skill Focus (3.5)]]"
 status: draft
-change: new
 pi-review: 2026-10-31
 tags: [rangoric, rangoric/feat]
 ---

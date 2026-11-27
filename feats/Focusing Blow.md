@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Hobgoblin Discipline, hobgoblin."
-based-on:
-  - "[[path srd 3.5/feats/Focusing Blow|Focusing Blow (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Focusing Blow|Focusing Blow (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, teamwork, racial]
 ---

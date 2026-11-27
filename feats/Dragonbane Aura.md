@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Aura of courage class feature, caster level 8th."
-based-on:
-  - "[[path srd 3.5/feats/Dragonbane Aura|Dragonbane Aura (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Dragonbane Aura|Dragonbane Aura (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat]
 ---

@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Wis 13, Skill Focus (Perception)."
-based-on:
-  - "[[path srd 3.5 foundry/feats/One Eye Open|One Eye Open (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

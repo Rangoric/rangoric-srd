@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Psychic discipline class feature."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Disciplinary Devotee|Disciplinary Devotee (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/feat]
 ---

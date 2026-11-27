@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Cha 11, Psychic Sensitivity or the ability to cast psychic spells, Medicine 3 ranks."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Psychic Healing|Psychic Healing (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/feat]
 ---

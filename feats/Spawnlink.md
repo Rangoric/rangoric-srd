@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Int 13, create spawn monster ability."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Spawnlink|Spawnlink (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/feat]
 ---

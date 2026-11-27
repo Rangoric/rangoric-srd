@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Base attack bonus +6."
-based-on:
-  - "[[path srd 3.5/feats/Hammer the Gap|Hammer the Gap (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Hammer the Gap|Hammer the Gap (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

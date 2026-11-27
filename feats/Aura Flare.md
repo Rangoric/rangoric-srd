@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Cha 13; aura class feature; channel energy 4d6; strong or overwhelming good or evil aura."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Aura Flare|Aura Flare (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

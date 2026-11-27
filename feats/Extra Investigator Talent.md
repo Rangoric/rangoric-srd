@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Investigator talent class feature."
-based-on:
-  - "[[path srd 3.5/feats/Extra Investigator Talent|Extra Investigator Talent (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Extra Investigator Talent|Extra Investigator Talent (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat]
 ---

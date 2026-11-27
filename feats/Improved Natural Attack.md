@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Natural weapon, base attack bonus +4."
-based-on:
-  - "[[fantasy srd 3.5/feats/Improved Natural Attack|Improved Natural Attack (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/feat]
 ---

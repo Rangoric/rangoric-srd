@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Caster level 7th, Craft Wondrous Item."
-based-on:
-  - "[[individual books/Faeries/feats/Craft Charms and Bracelets|Craft Charms and Bracelets (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, item-creation]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Int 13, Combat Expertise."
-based-on:
-  - "[[path srd 3.5/feats/Improved Steal|Improved Steal (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Improved Steal|Improved Steal (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

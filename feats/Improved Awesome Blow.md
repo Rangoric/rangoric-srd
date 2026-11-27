@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Str 13; Awesome Blow or awesome blow class feature; Power Attack."
-based-on:
-  - "[[path srd 3.5/feats/Improved Awesome Blow|Improved Awesome Blow (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Improved Awesome Blow (Feat)|Improved Awesome Blow (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

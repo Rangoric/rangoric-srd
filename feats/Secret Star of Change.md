@@ -3,10 +3,7 @@ srd-type: "feat"
 section: "Feats"
 prerequisites: "Spell Mastery."
 feat-type: "Metamagic"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/feats/Star of Change|Star of Change (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, metamagic]
 ---

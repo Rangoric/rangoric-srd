@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Caster level 1st, see Special."
-based-on:
-  - "[[path srd 3.5/feats/Expanded Arcana|Expanded Arcana (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Expanded Arcana|Expanded Arcana (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

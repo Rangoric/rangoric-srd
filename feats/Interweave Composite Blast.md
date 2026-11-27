@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Kinetic blast class feature."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Interweave Composite Blast|Interweave Composite Blast (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/feat, fighter-bonus, teamwork]
 ---

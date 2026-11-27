@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Aasimar, daylight spell-like ability, sufficiently high level (see below)."
-based-on:
-  - "[[path srd 3.5/feats/Heavenly Radiance|Heavenly Radiance (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Heavenly Radiance|Heavenly Radiance (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, racial]
 ---

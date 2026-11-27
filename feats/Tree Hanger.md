@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Acrobatics 1 rank, vanara."
-based-on:
-  - "[[path srd 3.5/feats/Tree Hanger|Tree Hanger (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Tree Hanger|Tree Hanger (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, fighter-bonus, racial]
 ---

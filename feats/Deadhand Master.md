@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Wis 23, Deadhand Initiate, Deadhand Style, Improved Unarmed Strike, Theology 14 ranks, ki pool class feature, nongood alignment."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Deadhand Master|Deadhand Master (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

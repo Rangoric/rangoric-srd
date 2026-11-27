@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dhampir or vampire, nongood alignment, 10th level in a class that grants a familiar or animal companion."
-based-on:
-  - "[[path srd 3.5/rules/monster-codex/vampires/New Rules (Vampires)|Vampiric Companion (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Vampiric Companion|Vampiric Companion (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, racial]
 ---

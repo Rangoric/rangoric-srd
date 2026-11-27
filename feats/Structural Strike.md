@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Engineering 5 ranks, precise strike class feature or precise strike deed."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Structural Strike|Structural Strike (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-09
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

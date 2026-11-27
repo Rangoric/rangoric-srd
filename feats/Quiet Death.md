@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 19, Stealth 10 ranks, rogue level 10th."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Quiet Death|Quiet Death (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

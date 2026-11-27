@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Improved Unarmed Strike, base attack bonus +3 or monk level 3rd."
-based-on:
-  - "[[path srd 3.5/feats/Tiger Style|Tiger Style (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Tiger Style|Tiger Style (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus, style]
 ---

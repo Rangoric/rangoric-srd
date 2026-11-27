@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Ability to cast 3rd-level arcane spells, 10 hit points."
-based-on:
-  - "[[individual books/Spells & Magic v3.0/feats/Blood Power|Blood Power (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat]
 ---

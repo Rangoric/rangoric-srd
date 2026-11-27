@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Str 15, Int 13, Combat Reflexes, Improved Overrun, Improved Trip, Improved Unarmed Strike, Vicious Stomp, base attack bonus +6."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Brute Style|Brute Style (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/feat, fighter-bonus, style]
 ---

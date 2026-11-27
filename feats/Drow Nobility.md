@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Able to use drow spell-like abilities, drow."
-based-on:
-  - "[[path srd 3.5/feats/Drow Nobility|Drow Nobility (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Drow Nobility|Drow Nobility (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, racial]
 ---

@@ -1,12 +1,7 @@
 ---
 srd-type: "feat"
 section: "Feats"
-based-on:
-  - "[[fantasy srd 3.5/feats/Armor Proficiency (Light)|Armor Proficiency (Light) (3.5)]]"
-  - "[[path srd 3.5/feats/Armor Proficiency, Light|Armor Proficiency, Light (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Armor Proficiency, Light|Armor Proficiency, Light (PF1)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Cha 13, Skill Focus (Perception), Beastmaster Style, Animal Handling 5 ranks, Sense Motive 5 ranks."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Beastmaster Salvation|Beastmaster Salvation (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

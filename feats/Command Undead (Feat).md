@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Channel negative energy class feature."
-based-on:
-  - "[[path srd 3.5/feats/Command Undead (Feat)|Command Undead (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Command Undead (Feat)|Command Undead (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat]
 ---

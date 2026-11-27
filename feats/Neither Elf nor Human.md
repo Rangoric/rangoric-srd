@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Exile's Path, Seen and Unseen, character level 11th, half-elf."
-based-on:
-  - "[[path srd 3.5/feats/Neither Elf nor Human|Neither Elf nor Human (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Neither Elf nor Human|Neither Elf nor Human (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, racial]
 ---

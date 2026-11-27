@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Greater rage class feature."
-based-on:
-  - "[[path srd 3.5/feats/Raging Deathblow|Raging Deathblow (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Raging Deathblow|Raging Deathblow (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/feat]
 ---

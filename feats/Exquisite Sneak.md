@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 15, Careful Sneak, Stealth 6 ranks."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Exquisite Sneak|Exquisite Sneak (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

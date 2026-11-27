@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Base attack bonus +1, Intimidation 1 rank, hobgoblin."
-based-on:
-  - "[[path srd 3.5/feats/Demoralizing Lash|Demoralizing Lash (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Demoralizing Lash|Demoralizing Lash (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, fighter-bonus, racial]
 ---

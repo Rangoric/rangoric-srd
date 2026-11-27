@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Rending Fury, base attack bonus +9, rend special attack."
-based-on:
-  - "[[path srd 3.5/feats/Improved Rending Fury|Improved Rending Fury (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Improved Rending Fury|Improved Rending Fury (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

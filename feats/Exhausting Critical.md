@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Critical Focus, Tiring Critical, base attack bonus +15."
-based-on:
-  - "[[path srd 3.5/feats/Exhausting Critical|Exhausting Critical (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Exhausting Critical|Exhausting Critical (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-09
 tags: [rangoric, rangoric/feat, fighter-bonus, critical]
 ---

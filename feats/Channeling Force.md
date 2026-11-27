@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Ability to cast at least one force spell, channel energy class feature."
-based-on:
-  - "[[path srd 3.5/feats/Channeling Force|Channeling Force (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Channeling Force|Channeling Force (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

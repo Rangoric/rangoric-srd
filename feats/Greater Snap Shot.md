@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 17, Improved Snap Shot, Point Blank Shot, Rapid Shot, Snap Shot, base attack bonus +12."
-based-on:
-  - "[[path srd 3.5/feats/Greater Snap Shot|Greater Snap Shot (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Greater Snap Shot|Greater Snap Shot (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Sense Motive 2 ranks, base attack bonus +1."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Measure Foe|Measure Foe (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

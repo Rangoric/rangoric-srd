@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 13, Wis 13, Improved Unarmed Strike, base attack bonus +8."
-based-on:
-  - "[[fantasy srd 3.5/feats/Stunning Fist|Stunning Fist (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

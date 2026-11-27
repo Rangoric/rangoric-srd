@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Int 13, ability to cast detect chaos, detect evil, detect good, detect law or detect magic."
-based-on:
-  - "[[path srd 3.5/feats/Detect Expertise|Detect Expertise (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Detect Expertise|Detect Expertise (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

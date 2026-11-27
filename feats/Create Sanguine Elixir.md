@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Cha 15, Brew Potion, Craft (alchemy) 12 ranks, sorcerer level 3rd."
-based-on:
-  - "[[path srd 3.5/feats/Create Sanguine Elixir|Create Sanguine Elixir (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Create Sanguine Elixir|Create Sanguine Elixir (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

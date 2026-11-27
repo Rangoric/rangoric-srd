@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Con 15."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Deep Breath|Deep Breath (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-01
 tags: [rangoric, rangoric/feat]
 ---

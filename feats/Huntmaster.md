@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Animal Handling 1 rank; either the animal companion, special mount, or mount class feature; human."
-based-on:
-  - "[[path srd 3.5/feats/Huntmaster|Huntmaster (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Huntmaster|Huntmaster (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, racial]
 ---

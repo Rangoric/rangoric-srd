@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Combat Reflexes, natural swim speed."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Aquatic Advantage|Aquatic Advantage (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/feat]
 ---

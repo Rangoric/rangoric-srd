@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Augment Summoning, Spell Focus (conjuration), half-orc or orc."
-based-on:
-  - "[[path srd 3.5/feats/Ferocious Summons|Ferocious Summons (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Ferocious Summons|Ferocious Summons (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/feat, racial]
 ---

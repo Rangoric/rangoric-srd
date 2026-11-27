@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Str 13, Improved Drag, Power Attack, base attack bonus +6."
-based-on:
-  - "[[path srd 3.5/feats/Greater Drag|Greater Drag (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Greater Drag|Greater Drag (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

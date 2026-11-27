@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Int 13, 1 rank in at least one Knowledge skill, no levels in a class that has the inspiration class feature."
-based-on:
-  - "[[path srd 3.5/feats/Amateur Investigator|Amateur Investigator (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Amateur Investigator|Amateur Investigator (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat]
 ---

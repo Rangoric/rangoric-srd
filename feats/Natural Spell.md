@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Wis 13, wild shape ability."
-based-on:
-  - "[[fantasy srd 3.5/feats/Natural Spell|Natural Spell (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/feat]
 ---

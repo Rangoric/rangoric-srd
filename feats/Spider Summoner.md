@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Ability to cast summon monster or summon nature’s ally spells, drow."
-based-on:
-  - "[[path srd 3.5/feats/Spider Summoner|Spider Summoner (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Spider Summoner|Spider Summoner (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/feat, racial]
 ---

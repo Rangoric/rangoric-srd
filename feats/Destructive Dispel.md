@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Ability to cast dispel magic or greater dispel magic, caster level 11th."
-based-on:
-  - "[[path srd 3.5/feats/Destructive Dispel|Destructive Dispel (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Destructive Dispel|Destructive Dispel (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

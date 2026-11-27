@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Cha 13, Wis 13, Drow Nobility, Greater Drow Nobility, Improved Drow Nobility, Umbral Scion, able to use drow spell-like abilities, drow."
-based-on:
-  - "[[path srd 3.5/feats/Improved Umbral Scion|Improved Umbral Scion (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Improved Umbral Scion|Improved Umbral Scion (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, racial]
 ---

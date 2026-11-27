@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 17, Dodge, Wind Stance, base attack bonus +11."
-based-on:
-  - "[[path srd 3.5/feats/Lightning Stance|Lightning Stance (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Lightning Stance|Lightning Stance (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

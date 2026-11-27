@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Weapon Focus with your deity’s favored weapon, must worship and receive spells from a deity."
-based-on:
-  - "[[path srd 3.5/feats/Weapon of the Chosen|Weapon of the Chosen (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Weapon of the Chosen|Weapon of the Chosen (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Stony Step, character level 9th, oread."
-based-on:
-  - "[[path srd 3.5/feats/Oread Burrower|Oread Burrower (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Oread Burrower|Oread Burrower (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, racial]
 ---

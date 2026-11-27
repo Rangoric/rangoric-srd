@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Str 21, ogre."
-based-on:
-  - "[[path srd 3.5/rules/monster-codex/ogres/New Rules (Ogres)#Raging Brute|Raging Brute (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/feat, racial]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Improved Unarmed Strike, Snake Style, Acrobatics 3 ranks, Sense Motive 6 ranks."
-based-on:
-  - "[[path srd 3.5/feats/Snake Sidewind|Snake Sidewind (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Snake Sidewind|Snake Sidewind (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

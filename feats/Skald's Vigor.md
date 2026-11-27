@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Raging song class feature."
-based-on:
-  - "[[path srd 3.5/feats/Skald's Vigor|Skald's Vigor (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Skald's Vigor|Skald's Vigor (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-09
 tags: [rangoric, rangoric/feat]
 ---

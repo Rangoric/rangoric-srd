@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Elf or half-elf, keen senses racial trait."
-based-on:
-  - "[[path srd 3.5/feats/Discerning Eye|Discerning Eye (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Discerning Eye|Discerning Eye (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, racial]
 ---

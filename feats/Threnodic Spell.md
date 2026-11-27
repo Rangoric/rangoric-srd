@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Theology 6 ranks, Spell Focus (necromancy)."
-based-on:
-  - "[[path srd 3.5/feats/Threnodic Spell|Threnodic Spell (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Threnodic Spell|Threnodic Spell (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/feat, metamagic]
 ---

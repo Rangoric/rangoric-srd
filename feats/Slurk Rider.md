@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Kobold."
-based-on:
-  - "[[path srd 3.5/rules/monster-codex/kobolds/New Rules (Kobolds)#Slurk Rider|Slurk Rider (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/feat, racial]
 ---

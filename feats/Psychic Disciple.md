@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Int 13, Psychic Adept, Psychic Sensitivity."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Psychic Disciple|Psychic Disciple (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/feat]
 ---

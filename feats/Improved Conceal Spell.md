@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Conceal Spell, Skill Focus (Deception or Imitation), Deception 5 ranks, Imitation 5 ranks, Sleight of Hand 10 ranks, ability to cast 3rd-level spells or use a 3rd-level spell-like ability."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Improved Conceal Spell|Improved Conceal Spell (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

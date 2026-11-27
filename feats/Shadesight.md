@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Wis 15, has gained a negative level from an undead creature’s attack."
-based-on:
-  - "[[individual books/Spells & Magic v3.0/feats/Shadesight|Shadesight (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, shadetouched]
 ---

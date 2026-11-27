@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Improved Grapple, Improved Unarmed Strike, base attack bonus +6, Dex 13."
-based-on:
-  - "[[path srd 3.5/feats/Greater Grapple|Greater Grapple (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Greater Grapple|Greater Grapple (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

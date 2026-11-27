@@ -3,10 +3,7 @@ srd-type: "feat"
 section: "Feats"
 prerequisites: "Ability to cast 3rd-level arcane spells spontaneously."
 feat-type: "Metamagic"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/feats/Star of Time|Star of Time (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, metamagic]
 ---

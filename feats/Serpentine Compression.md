@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Serpentfolk."
-based-on:
-  - "[[path srd 3.5/rules/monster-codex/serpentfolk/New Rules (Serpentfolk)#Serpentine Compression|Serpentine Compression (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/feat, racial]
 ---

@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 feat-type: "General"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/feats/Sign of the Dragon’s Maw|Sign of the Dragon’s Maw (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, sign]
 ---

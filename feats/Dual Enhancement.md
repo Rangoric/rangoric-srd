@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Two-Weapon Fighting; divine bond (weapon) or sacred weapon class feature."
-based-on:
-  - "[[path srd 3.5/feats/Dual Enhancement|Dual Enhancement (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Dual Enhancement|Dual Enhancement (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat]
 ---

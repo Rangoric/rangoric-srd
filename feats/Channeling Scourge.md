@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Channel energy class feature, inquisitor level 1st."
-based-on:
-  - "[[path srd 3.5/feats/Channeling Scourge|Channeling Scourge (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Channeling Scourge|Channeling Scourge (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Sneak attack class feature, Improved Unarmed Strike."
-based-on:
-  - "[[path srd 3.5/feats/Knockout Artist|Knockout Artist (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Knockout Artist|Knockout Artist (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/feat]
 ---

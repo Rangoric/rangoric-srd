@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dwarf or gnome; defensive training racial trait; Improved Two-Weapon Fighting and Two-Weapon Fighting, or flurry of blows class feature; Twin Thunders; Weapon Focus with both wielded weapons; base attack bonus +6."
-based-on:
-  - "[[path srd 3.5/feats/Twin Thunders Flurry|Twin Thunders Flurry (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Twin Thunders Flurry|Twin Thunders Flurry (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, fighter-bonus, racial]
 ---

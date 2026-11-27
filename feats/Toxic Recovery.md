@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dwarf, hardy racial trait."
-based-on:
-  - "[[path srd 3.5/feats/Toxic Recovery|Toxic Recovery (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Toxic Recovery|Toxic Recovery (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, racial]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Channel energy 6d6 (positive energy)."
-based-on:
-  - "[[path srd 3.5/feats/Channeled Revival|Channeled Revival (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Channeled Revival|Channeled Revival (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/feat]
 ---

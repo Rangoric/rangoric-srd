@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Wis 19, base attack bonus +6, wild shape class feature."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Energized Wild Shape|Energized Wild Shape (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat, wild]
 ---

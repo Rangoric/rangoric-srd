@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Base Reflex save +4, base attack bonus +4."
-based-on:
-  - "[[individual books/Spells & Magic v3.0/feats/Mite Fighter|Mite Fighter (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat]
 ---

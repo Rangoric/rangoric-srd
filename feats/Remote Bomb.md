@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Delayed bomb discovery."
-based-on:
-  - "[[path srd 3.5/feats/Remote Bomb|Remote Bomb (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Remote Bomb|Remote Bomb (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat]
 ---

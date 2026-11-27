@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Int 13, Combat Expertise, Improved Reposition, evasion class feature."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Clambering Escape|Clambering Escape (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Grabbing Drag, Grabbing Style, Improved Grapple; base attack bonus +12, brawler level 8th, or monk level 8th."
-based-on:
-  - "[[path srd 3.5/feats/Grabbing Master|Grabbing Master (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Grabbing Master|Grabbing Master (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

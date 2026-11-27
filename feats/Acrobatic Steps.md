@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 15, Nimble Moves."
-based-on:
-  - "[[path srd 3.5/feats/Acrobatic Steps|Acrobatic Steps (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Acrobatic Steps|Acrobatic Steps (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/feat]
 ---

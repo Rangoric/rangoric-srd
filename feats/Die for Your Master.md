@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Tumor familiar alchemist discovery."
-based-on:
-  - "[[path srd 3.5/feats/Die for Your Master|Die for Your Master (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Die for Your Master|Die for Your Master (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat]
 ---

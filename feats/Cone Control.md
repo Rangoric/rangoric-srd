@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "The ability to use a breath weapon or cast an offensive spell with a cone area, Mysticism 15 ranks."
-based-on:
-  - "[[individual books/Spells & Magic v3.0/feats/Cone Control|Cone Control (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, metamagic]
 ---

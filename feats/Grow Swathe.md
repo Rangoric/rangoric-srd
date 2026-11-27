@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Profession (herbalist) 9 ranks, Craft Powders & Dusts, ability to cast 3rd-level spells."
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/feats/Grow Swathe|Grow Swathe (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, item-creation]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Str 13, Improved Bull Rush, Power Attack, base attack bonus +9."
-based-on:
-  - "[[path srd 3.5/feats/Bull Rush Strike|Bull Rush Strike (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Bull Rush Strike|Bull Rush Strike (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

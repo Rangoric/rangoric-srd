@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Character level 19th."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Extra Contingency|Extra Contingency (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

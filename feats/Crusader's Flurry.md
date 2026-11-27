@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Channel energy class feature, flurry of blows class feature, Weapon Focus with your deity's favored melee weapon."
-based-on:
-  - "[[path srd 3.5/feats/Crusader's Flurry|Crusader's Flurry (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Crusader's Flurry|Crusader's Flurry (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

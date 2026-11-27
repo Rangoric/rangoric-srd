@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Str 15, Cleave, Improved Trip, Weapon Focus (greataxe), base attack bonus +11."
-based-on:
-  - "[[path srd 3.5/rules/monster-codex/frost-giants/New Rules (Frost Giants)#Cleaving Sweep|Cleaving Sweep (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Cleaving Sweep|Cleaving Sweep (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Int 13, Combat Expertise, Fox Insight, Fox Style, Improved Dirty Trick."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Fox Trickery|Fox Trickery (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Engineering 1 rank, goblin."
-based-on:
-  - "[[path srd 3.5/feats/Burn! Burn! Burn!|Burn! Burn! Burn! (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Burn! Burn! Burn!|Burn! Burn! Burn! (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, racial]
 ---

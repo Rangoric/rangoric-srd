@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Armor Proficiency (Light), caster level 3rd."
-based-on:
-  - "[[path srd 3.5/feats/Arcane Armor Training|Arcane Armor Training (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Arcane Armor Training|Arcane Armor Training (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

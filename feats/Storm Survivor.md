@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Nature 2 ranks, Fieldcraft 2 ranks."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Storm Survivor|Storm Survivor (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-01
 tags: [rangoric, rangoric/feat]
 ---

@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Fey Spell Mastery."
-based-on:
-  - "[[individual books/Faeries/feats/Fey Magic|Fey Magic (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat]
 ---

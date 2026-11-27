@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Studied combat class feature."
-based-on:
-  - "[[path srd 3.5/feats/Inspired Strike|Inspired Strike (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Inspired Strike|Inspired Strike (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat]
 ---

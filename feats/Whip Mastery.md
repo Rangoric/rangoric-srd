@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Weapon Focus (whip), base attack bonus +2."
-based-on:
-  - "[[path srd 3.5/feats/Whip Mastery|Whip Mastery (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Whip Mastery|Whip Mastery (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

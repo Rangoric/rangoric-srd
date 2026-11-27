@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Base attack bonus +1."
-based-on:
-  - "[[path srd 3.5/rules/monster-codex/orcs/New Rules (Orcs)#Horn Rider|Horn Rider (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Horn Rider|Horn Rider (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

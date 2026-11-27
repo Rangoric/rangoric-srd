@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Mysticism 15 ranks, at least three metamagic feats."
-based-on:
-  - "[[path srd 3.5/feats/Spell Perfection|Spell Perfection (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Spell Perfection|Spell Perfection (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

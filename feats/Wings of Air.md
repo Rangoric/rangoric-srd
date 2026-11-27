@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Airy Step, character level 9th, sylph."
-based-on:
-  - "[[path srd 3.5/feats/Wings of Air|Wings of Air (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Wings of Air|Wings of Air (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, racial]
 ---

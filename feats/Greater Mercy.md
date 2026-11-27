@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Cha 13, lay on hands class feature, mercy class feature."
-based-on:
-  - "[[path srd 3.5/feats/Greater Mercy|Greater Mercy (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Greater Mercy|Greater Mercy (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat]
 ---

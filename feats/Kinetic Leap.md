@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Athletics 3 ranks, kinetic blast class feature."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Kinetic Leap|Kinetic Leap (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/feat]
 ---

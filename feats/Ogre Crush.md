@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Str 25, Improved Grapple, Improved Unarmed Strike, ogre, size Large or larger."
-based-on:
-  - "[[path srd 3.5/rules/monster-codex/ogres/New Rules (Ogres)#Ogre Crush|Ogre Crush (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/feat, racial]
 ---

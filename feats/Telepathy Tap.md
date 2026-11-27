@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Sense Motive 10 ranks, ability to cast detect thoughts, or telepathy."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Telepathy Tap|Telepathy Tap (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Grit class feature or Amateur Gunslinger feat, Blind-Fight."
-based-on:
-  - "[[path srd 3.5/feats/Ricochet Shot Deed|Ricochet Shot Deed (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Ricochet Shot Deed|Ricochet Shot Deed (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat]
 ---

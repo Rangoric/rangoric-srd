@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Cha 17, Eldritch Heritage, Improved Eldritch Heritage, character level 17th."
-based-on:
-  - "[[path srd 3.5/feats/Greater Eldritch Heritage|Greater Eldritch Heritage (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Greater Eldritch Heritage|Greater Eldritch Heritage (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat]
 ---

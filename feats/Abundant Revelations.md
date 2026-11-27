@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Mystery class feature."
-based-on:
-  - "[[path srd 3.5/feats/Abundant Revelations|Abundant Revelations (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Abundant Revelations|Abundant Revelations (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat]
 ---

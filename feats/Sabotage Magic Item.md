@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Skill Focus (Emulation or Mysticism), Engineering 5 ranks, Emulation 5 ranks."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Sabotage Magic Item|Sabotage Magic Item (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

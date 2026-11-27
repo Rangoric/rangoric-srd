@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Combat Expertise, base attack bonus +6."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Strike True (Feat)|Strike True (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

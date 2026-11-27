@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Arcane Strike, base attack bonus +11, ability to cast dispel magic."
-based-on:
-  - "[[path srd 3.5/feats/Dispelling Critical|Dispelling Critical (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Dispelling Critical|Dispelling Critical (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-09
 tags: [rangoric, rangoric/feat, critical]
 ---

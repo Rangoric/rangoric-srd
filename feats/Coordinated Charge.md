@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "You have at least two other teamwork feats, base attack bonus +10."
-based-on:
-  - "[[path srd 3.5/feats/Coordinated Charge|Coordinated Charge (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Coordinated Charge|Coordinated Charge (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-09
 tags: [rangoric, rangoric/feat, fighter-bonus, teamwork]
 ---

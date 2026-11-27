@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Str 15, Improved Unarmed Strike, Acrobatics 3 ranks."
-based-on:
-  - "[[path srd 3.5/feats/Dragon Style|Dragon Style (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Dragon Style|Dragon Style (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus, style]
 ---

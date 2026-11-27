@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Improved Unarmed Strike, Nightmare Fist, Nightmare Weaver, Stunning Fist, Medicine 5 ranks, ability to cast faerie fire."
-based-on:
-  - "[[path srd 3.5/feats/Nightmare Striker|Nightmare Striker (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Nightmare Striker|Nightmare Striker (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

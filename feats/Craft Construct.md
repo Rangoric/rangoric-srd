@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Craft Magic Arms and Armor, Craft Wondrous Item."
-based-on:
-  - "[[fantasy srd 3.5/feats/Craft Construct|Craft Construct (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/feat, item-creation]
 ---

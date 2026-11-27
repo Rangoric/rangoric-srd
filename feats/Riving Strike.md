@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Arcane Strike, ability to cast arcane spells."
-based-on:
-  - "[[path srd 3.5/feats/Riving Strike|Riving Strike (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Riving Strike|Riving Strike (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

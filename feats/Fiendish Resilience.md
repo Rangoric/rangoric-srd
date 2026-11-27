@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 13, evasion class feature, tiefling."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Fiendish Resilience|Fiendish Resilience (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, racial]
 ---

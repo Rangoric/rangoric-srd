@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Spell Focus (divination), ability to cast at least one scrying spell."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Superior Scryer|Superior Scryer (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

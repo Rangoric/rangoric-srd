@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Wis 15, Cha 11, Improved Unarmed Strike, Stunning Fist, Arcana 4 ranks, ki pool class feature, nongood alignment."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Maddening Style|Maddening Style (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/feat, fighter-bonus, style]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Tengu Wings, character level 7th, tengu."
-based-on:
-  - "[[path srd 3.5/feats/Tengu Raven Form|Tengu Raven Form (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Tengu Raven Form|Tengu Raven Form (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, racial]
 ---

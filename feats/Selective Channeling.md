@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Cha 13, channel energy class feature."
-based-on:
-  - "[[path srd 3.5/feats/Selective Channeling|Selective Channeling (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Selective Channeling|Selective Channeling (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

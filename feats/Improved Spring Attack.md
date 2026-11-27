@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 15, Dodge, Mobility, Nimble Moves, Spring Attack, base attack bonus +9."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Improved Spring Attack|Improved Spring Attack (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

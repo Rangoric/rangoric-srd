@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Str 13, Cleave, Goblin Cleaver, Power Attack, dwarf."
-based-on:
-  - "[[path srd 3.5/feats/Orc Hewer|Orc Hewer (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Orc Hewer|Orc Hewer (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, fighter-bonus, racial]
 ---

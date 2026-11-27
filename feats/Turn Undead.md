@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Channel positive energy class feature."
-based-on:
-  - "[[path srd 3.5/feats/Turn Undead|Turn Undead (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Turn Undead|Turn Undead (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat]
 ---

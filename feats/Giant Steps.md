@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Duergar, slow and steady racial trait."
-based-on:
-  - "[[path srd 3.5/feats/Giant Steps|Giant Steps (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Giant Steps|Giant Steps (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, racial]
 ---

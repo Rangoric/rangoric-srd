@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Rage class feature, Vital Strike, base attack bonus +6."
-based-on:
-  - "[[path srd 3.5/feats/Furious Finish|Furious Finish (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Furious Finish|Furious Finish (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/feat]
 ---

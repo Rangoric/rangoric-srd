@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Aura of resolve class feature."
-based-on:
-  - "[[path srd 3.5/feats/Ultimate Resolve|Ultimate Resolve (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Ultimate Resolve|Ultimate Resolve (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat]
 ---

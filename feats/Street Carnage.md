@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Str 15, Improved Bull Rush, Improved Unarmed Strike, Power Attack, Street Style, Street Sweep, base attack bonus +8 or monk level 7th."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Street Carnage|Street Carnage (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

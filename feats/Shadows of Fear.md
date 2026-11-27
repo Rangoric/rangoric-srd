@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Hidden strike +2d8 or sneak attack +2d6."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Shadows of Fear|Shadows of Fear (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

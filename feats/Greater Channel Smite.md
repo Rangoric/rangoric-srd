@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Channel energy class feature, Channel Smite, base attack bonus +8."
-based-on:
-  - "[[path srd 3.5/feats/Greater Channel Smite|Greater Channel Smite (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Greater Channel Smite|Greater Channel Smite (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

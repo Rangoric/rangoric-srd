@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Damage reduction 1/— or better."
-based-on:
-  - "[[individual books/Spells & Magic v3.0/feats/Shrug Off|Shrug Off (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat]
 ---

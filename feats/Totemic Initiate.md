@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Str 13, Dex 13, Skill Focus (Athletics), base attack bonus +5, no barbarian totem rage powers except the one you choose with this feat, nonlawful alignment."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Totemic Initiate|Totemic Initiate (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat]
 ---

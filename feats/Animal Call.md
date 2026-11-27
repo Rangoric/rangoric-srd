@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Deception 1 rank, Nature 1 rank."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Animal Call (Feat)|Animal Call (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

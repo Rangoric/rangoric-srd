@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Bomb class feature, hobgoblin."
-based-on:
-  - "[[path srd 3.5/feats/Deafening Explosion|Deafening Explosion (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Deafening Explosion|Deafening Explosion (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, racial]
 ---

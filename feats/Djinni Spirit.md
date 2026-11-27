@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Con 15, Wis 15, Djinni Style, Elemental Fist, Improved Unarmed Strike, base attack bonus +11 or monk level 9th."
-based-on:
-  - "[[path srd 3.5/feats/Djinni Spirit|Djinni Spirit (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Djinni Spirit|Djinni Spirit (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

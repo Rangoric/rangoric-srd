@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Base attack bonus +1, proficient with weapon, weapon made of primitive material."
-based-on:
-  - "[[path srd 3.5/feats/Splintering Weapon|Splintering Weapon (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Splintering Weapon|Splintering Weapon (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/feat]
 ---

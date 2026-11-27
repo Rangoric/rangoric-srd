@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Maximized magic magus arcana, weapon expertise class feature or Quick Draw."
-based-on:
-  - "[[path srd 3.5/feats/Maximized Spellstrike|Maximized Spellstrike (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Maximized Spellstrike|Maximized Spellstrike (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat]
 ---

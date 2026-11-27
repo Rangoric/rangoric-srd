@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Wis 13, Improved Unarmed Strike, Monkey Moves, Monkey Style, Stunning Fist, Acrobatics 11 ranks, Athletics 11 ranks."
-based-on:
-  - "[[path srd 3.5/feats/Monkey Shine|Monkey Shine (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Monkey Shine|Monkey Shine (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

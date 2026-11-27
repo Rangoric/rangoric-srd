@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Orc."
-based-on:
-  - "[[path srd 3.5/feats/Grudge Fighter|Grudge Fighter (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Grudge Fighter|Grudge Fighter (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, fighter-bonus, racial]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Nature 5 ranks, wild empathy class feature."
-based-on:
-  - "[[path srd 3.5/feats/Greater Wild Empathy|Greater Wild Empathy (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Greater Wild Empathy|Greater Wild Empathy (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat]
 ---

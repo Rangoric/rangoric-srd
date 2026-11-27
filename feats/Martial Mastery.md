@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Martial Versatility, fighter level 16th, human."
-based-on:
-  - "[[path srd 3.5/feats/Martial Mastery|Martial Mastery (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Martial Mastery|Martial Mastery (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, fighter-bonus, racial]
 ---

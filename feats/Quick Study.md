@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Int 13, bravery +3 class feature, fighter level 10th."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Quick Study|Quick Study (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

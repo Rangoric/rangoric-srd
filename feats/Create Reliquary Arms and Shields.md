@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Craft Magic Arms and Armor, ability to cast consecrate or desecrate."
-based-on:
-  - "[[path srd 3.5/feats/Create Reliquary Arms and Shields|Create Reliquary Arms and Shields (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Create Reliquary Arms and Shields|Create Reliquary Arms and Shields (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

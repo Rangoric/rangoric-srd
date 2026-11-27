@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Leaping lance class feature, Athletics 5 ranks, Animal Handling 11 ranks."
-based-on:
-  - "[[path srd 3.5/feats/Rebounding Leap|Rebounding Leap (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Rebounding Leap|Rebounding Leap (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Str 15, Furious Focus, Power Attack, base attack bonus +11."
-based-on:
-  - "[[path srd 3.5/feats/Dreadful Carnage|Dreadful Carnage (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Dreadful Carnage|Dreadful Carnage (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

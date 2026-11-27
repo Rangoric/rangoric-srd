@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Both Improved Unarmed Strike and Improved Grapple or the grab ability, ogre, size Large or larger."
-based-on:
-  - "[[path srd 3.5/rules/monster-codex/ogres/New Rules (Ogres)#Gluttonous Gobbler|Gluttonous Gobbler (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/feat, racial]
 ---

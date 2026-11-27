@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Chakra Initiate, ability to awaken the heart chakra."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Chakra Adept|Chakra Adept (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/feat]
 ---

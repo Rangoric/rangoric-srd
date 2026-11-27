@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Str 15, Improved Unarmed Strike, Dragon Style, Stunning Fist, Acrobatics 5 ranks."
-based-on:
-  - "[[path srd 3.5/feats/Dragon Ferocity|Dragon Ferocity (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Dragon Ferocity|Dragon Ferocity (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

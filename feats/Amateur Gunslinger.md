@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "You have no levels in a class that has the grit class feature."
-based-on:
-  - "[[path srd 3.5/feats/Amateur Gunslinger|Amateur Gunslinger (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Amateur Gunslinger|Amateur Gunslinger (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Improved Unarmed Strike, Tiger Style, base attack bonus +6 or monk level 5th."
-based-on:
-  - "[[path srd 3.5/feats/Tiger Claws|Tiger Claws (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Tiger Claws|Tiger Claws (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

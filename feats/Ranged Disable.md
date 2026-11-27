@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Far Shot, Point Blank Shot, Weapon Focus, Engineering 9 ranks."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Ranged Disable|Ranged Disable (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

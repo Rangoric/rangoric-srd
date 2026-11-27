@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Toughness, duergar."
-based-on:
-  - "[[path srd 3.5/rules/monster-codex/duergar/New Rules (Duergar)#Tough as Iron|Tough as Iron (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/feat, racial]
 ---

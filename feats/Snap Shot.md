@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 13, Point Blank Shot, Rapid Shot, Weapon Focus, base attack bonus +6."
-based-on:
-  - "[[path srd 3.5/feats/Snap Shot|Snap Shot (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Snap Shot (Feat, Ultimate Combat)|Snap Shot (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Society 10 ranks, ability to cast greater teleport."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Cartogramancer|Cartogramancer (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

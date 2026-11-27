@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Base attack bonus +5, Intimidation 1 rank."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Martial Dominance|Martial Dominance (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

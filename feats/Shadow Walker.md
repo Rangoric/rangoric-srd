@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Fetchling, shadow walk spell-like ability."
-based-on:
-  - "[[path srd 3.5/feats/Shadow Walker|Shadow Walker (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Shadow Walker|Shadow Walker (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, racial]
 ---

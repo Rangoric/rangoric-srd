@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Perception 15 ranks, Improved Blind-Fight."
-based-on:
-  - "[[path srd 3.5/feats/Greater Blind-Fight|Greater Blind-Fight (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Greater Blind-Fight|Greater Blind-Fight (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

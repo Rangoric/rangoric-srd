@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Critical Focus, Weapon Specialization with selected piercing melee weapon, base attack bonus +11."
-based-on:
-  - "[[path srd 3.5/feats/Impaling Critical|Impaling Critical (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Impaling Critical|Impaling Critical (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-09
 tags: [rangoric, rangoric/feat, fighter-bonus, critical]
 ---

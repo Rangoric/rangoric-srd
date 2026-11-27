@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Mysticism 6 ranks."
-based-on:
-  - "[[path srd 3.5/feats/Lunging Spell Touch|Lunging Spell Touch (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Lunging Spell Touch|Lunging Spell Touch (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

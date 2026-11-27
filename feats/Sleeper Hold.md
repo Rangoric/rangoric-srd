@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Greater Grapple, base attack bonus +8."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Sleeper Hold|Sleeper Hold (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

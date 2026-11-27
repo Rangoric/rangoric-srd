@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Craft (alchemy) 6 ranks, Fieldcraft 6 ranks."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Natural Poison Harvester|Natural Poison Harvester (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Evil alignment, 3 ranks in the skill that identifies creatures of your type."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Kinslayer|Kinslayer (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

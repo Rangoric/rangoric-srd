@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Half-elf."
-based-on:
-  - "[[path srd 3.5/feats/Human Spirit|Human Spirit (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Human Spirit|Human Spirit (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, racial]
 ---

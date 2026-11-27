@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Intimidating Prowess, Killing Flourish, Intimidation 11 ranks, slayer level 11th."
-based-on:
-  - "[[path srd 3.5/feats/Gruesome Slaughter|Gruesome Slaughter (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Gruesome Slaughter|Gruesome Slaughter (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

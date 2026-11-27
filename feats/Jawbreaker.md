@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Improved Unarmed Strike, Stunning Fist, Medicine 6 ranks."
-based-on:
-  - "[[path srd 3.5/feats/Jawbreaker|Jawbreaker (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Jawbreaker (Feat)|Jawbreaker (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Ability to acquire an animal companion, eidolon, familiar, or special mount."
-based-on:
-  - "[[path srd 3.5/feats/Share Healing|Share Healing (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Share Healing|Share Healing (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-09
 tags: [rangoric, rangoric/feat, teamwork]
 ---

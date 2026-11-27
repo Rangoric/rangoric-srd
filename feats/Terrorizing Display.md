@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dazzling Display, Demoralizing Lash, Taskmaster, Weapon Focus, Intimidation 10 ranks, hobgoblin, proficiency with selected weapon."
-based-on:
-  - "[[path srd 3.5/feats/Terrorizing Display|Terrorizing Display (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, fighter-bonus, racial]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Character level 11th, sylph."
-based-on:
-  - "[[path srd 3.5/feats/Inner Breath|Inner Breath (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Inner Breath|Inner Breath (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, racial]
 ---

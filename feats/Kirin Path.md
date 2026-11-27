@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Int 13, Kirin Strike, Kirin Style, Improved Unarmed Strike, Arcana 12 ranks, Dungeoneering, Nature, Society or Theology 5 ranks."
-based-on:
-  - "[[path srd 3.5/feats/Kirin Path|Kirin Path (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Kirin Path|Kirin Path (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

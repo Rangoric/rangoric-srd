@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Shifter aspect class feature."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Extended Aspects|Extended Aspects (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat]
 ---

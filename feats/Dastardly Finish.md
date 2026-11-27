@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Sneak attack +5d6."
-based-on:
-  - "[[path srd 3.5/feats/Dastardly Finish|Dastardly Finish (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Dastardly Finish|Dastardly Finish (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Animal companion class feature or familiar class feature."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Boon Companion|Boon Companion (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat]
 ---

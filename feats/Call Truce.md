@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Cha 15, Skill Focus (Persuasion or Intimidation), Persuasion 5 ranks."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Call Truce|Call Truce (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

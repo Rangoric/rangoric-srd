@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Profession (herbalist) 5 ranks or Profession (apothecary) 3 ranks."
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/feats/Craft Herbal Restoratives|Craft Herbal Restoratives (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, item-creation]
 ---

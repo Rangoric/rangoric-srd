@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Spell Focus (enchantment), Nature 6 ranks."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Verdant Spell|Verdant Spell (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/feat, metamagic]
 ---

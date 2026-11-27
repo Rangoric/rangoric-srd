@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Deception 1 rank, Sleight of Hand 1 rank."
-based-on:
-  - "[[path srd 3.5/feats/Team Pickpocketing|Team Pickpocketing (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Team Pickpocketing|Team Pickpocketing (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-09
 tags: [rangoric, rangoric/feat, teamwork]
 ---

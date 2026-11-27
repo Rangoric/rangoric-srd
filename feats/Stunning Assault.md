@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Str 13, Power Attack, base attack bonus +16."
-based-on:
-  - "[[path srd 3.5/feats/Stunning Assault|Stunning Assault (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Stunning Assault|Stunning Assault (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

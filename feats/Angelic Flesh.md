@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Angelic Blood, aasimar."
-based-on:
-  - "[[path srd 3.5/feats/Angelic Flesh|Angelic Flesh (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Angelic Flesh|Angelic Flesh (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, racial]
 ---

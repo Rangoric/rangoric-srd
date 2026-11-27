@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Animal companion or mount class feature, character level 7th, half-orc or orc."
-based-on:
-  - "[[path srd 3.5/feats/Beast Rider (Feat)|Beast Rider (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Beast Rider|Beast Rider (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, racial]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Str 13, Power Attack, base attack bonus +1."
-based-on:
-  - "[[path srd 3.5/feats/Furious Focus|Furious Focus (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Furious Focus|Furious Focus (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

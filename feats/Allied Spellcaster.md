@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Caster level 1st."
-based-on:
-  - "[[path srd 3.5/feats/Allied Spellcaster|Allied Spellcaster (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Allied Spellcaster|Allied Spellcaster (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-09
 tags: [rangoric, rangoric/feat, teamwork]
 ---

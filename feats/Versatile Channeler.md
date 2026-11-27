@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Channel energy class feature, neutral cleric who chose which energy to channel."
-based-on:
-  - "[[path srd 3.5/feats/Versatile Channeler|Versatile Channeler (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Versatile Channeler|Versatile Channeler (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

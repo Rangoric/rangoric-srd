@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Fieldcraft 2 ranks."
-based-on:
-  - "[[path srd 3.5/feats/Learn Ranger Trap|Learn Ranger Trap (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Learn Ranger Trap|Learn Ranger Trap (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/feat]
 ---

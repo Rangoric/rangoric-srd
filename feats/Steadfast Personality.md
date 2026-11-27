@@ -1,11 +1,7 @@
 ---
 srd-type: "feat"
 section: "Feats"
-based-on:
-  - "[[path srd 3.5/feats/Steadfast Personality|Steadfast Personality (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Steadfast Personality|Steadfast Personality (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

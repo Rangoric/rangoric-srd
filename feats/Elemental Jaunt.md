@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Character level 15th, ifrit, oread, sylph, or undine."
-based-on:
-  - "[[path srd 3.5/feats/Elemental Jaunt|Elemental Jaunt (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Elemental Jaunt|Elemental Jaunt (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, racial]
 ---

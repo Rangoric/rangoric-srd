@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Minor magic rogue talent."
-based-on:
-  - "[[path srd 3.5/feats/Bookish Rogue|Bookish Rogue (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Bookish Rogue|Bookish Rogue (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat]
 ---

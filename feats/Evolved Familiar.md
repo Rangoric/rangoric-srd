@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Int 13, Cha 13, familiar class feature."
-based-on:
-  - "[[path srd 3.5/feats/Evolved Familiar|Evolved Familiar (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Evolved Familiar|Evolved Familiar (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat]
 ---

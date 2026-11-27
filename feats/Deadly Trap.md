@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Craft (traps) 8 ranks, Fieldcraft 8 ranks."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Deadly Trap|Deadly Trap (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

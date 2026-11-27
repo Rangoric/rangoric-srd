@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Shield Proficiency."
-based-on:
-  - "[[fantasy srd 3.5/feats/Tower Shield Proficiency|Tower Shield Proficiency (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/feat]
 ---

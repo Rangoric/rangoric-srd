@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Skill Focus (Deception or Imitation), Imitation 1 rank, Emulation 1 rank."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Fool Magic|Fool Magic (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

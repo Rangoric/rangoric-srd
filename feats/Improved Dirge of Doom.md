@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Ability to perform dirge of doom."
-based-on:
-  - "[[path srd 3.5/feats/Improved Dirge of Doom|Improved Dirge of Doom (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Improved Dirge of Doom|Improved Dirge of Doom (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat]
 ---

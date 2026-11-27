@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Disarm Partner, base attack bonus +5."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Improved Disarm Partner|Improved Disarm Partner (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-09
 tags: [rangoric, rangoric/feat, fighter-bonus, teamwork]
 ---

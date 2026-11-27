@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Str 13, Improved Sunder, Power Attack, Sabotaging Sunder, Engineering 9 ranks."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Improved Sabotaging Sunder|Improved Sabotaging Sunder (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

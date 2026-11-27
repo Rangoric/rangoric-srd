@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Occultist level 7th."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Efficient Focus Shift|Efficient Focus Shift (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/feat]
 ---

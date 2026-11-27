@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Channel positive energy 4d6."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Shatter Control|Shatter Control (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

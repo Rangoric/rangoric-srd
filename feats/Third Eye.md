@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Psychic Sensitivity or the ability to cast psychic spells."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Third Eye (Feat)|Third Eye (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/feat]
 ---

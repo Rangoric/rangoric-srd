@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Shadesight, Great Fortitude, Con 15."
-based-on:
-  - "[[individual books/Spells & Magic v3.0/feats/Shadehand|Shadehand (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, shadetouched]
 ---

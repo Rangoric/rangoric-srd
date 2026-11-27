@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Int 13, Combat Expertise, Improved Disarm, base attack bonus +9."
-based-on:
-  - "[[path srd 3.5/feats/Disarming Strike|Disarming Strike (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Disarming Strike|Disarming Strike (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

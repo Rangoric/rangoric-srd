@@ -2,7 +2,6 @@
 srd-type: "note-rules"
 section: "Feats"
 status: draft
-change: new
 pi-review: 2026-11-25
 tags: [rangoric, rangoric/note-rules]
 ---

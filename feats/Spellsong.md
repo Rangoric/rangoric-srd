@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Cha 13, bardic performance class feature, able to cast 1st-level spells."
-based-on:
-  - "[[path srd 3.5/feats/Spellsong|Spellsong (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Spellsong|Spellsong (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Spell Focus (transmutation)."
-based-on:
-  - "[[path srd 3.5/feats/Tenacious Transmutation|Tenacious Transmutation (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Tenacious Transmutation|Tenacious Transmutation (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

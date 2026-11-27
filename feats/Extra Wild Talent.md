@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Kineticist level 6th."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Extra Wild Talent|Extra Wild Talent (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/feat]
 ---

@@ -3,10 +3,7 @@ srd-type: "feat"
 section: "Feats"
 prerequisites: "Lore (astrology) 1 rank."
 feat-type: "General"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/feats/Astrologer|Astrologer (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Wis 18, Improved Unarmed Strike, base attack bonus +8."
-based-on:
-  - "[[path srd 3.5/feats/Touch of Serenity|Touch of Serenity (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Touch of Serenity|Touch of Serenity (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

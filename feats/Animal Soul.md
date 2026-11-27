@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Animal companion or special mount class feature."
-based-on:
-  - "[[path srd 3.5/feats/Animal Soul|Animal Soul (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Animal Soul|Animal Soul (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat]
 ---

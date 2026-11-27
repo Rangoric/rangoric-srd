@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Acrobatics 2 ranks."
-based-on:
-  - "[[path srd 3.5 foundry/feats/City Sprinter|City Sprinter (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-01
 tags: [rangoric, rangoric/feat]
 ---

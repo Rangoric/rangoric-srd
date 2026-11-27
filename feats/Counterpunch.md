@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 18, Combat Reflexes, Improved Unarmed Strike, Weapon Focus (unarmed strike); base attack bonus +16 or brawler level 12th."
-based-on:
-  - "[[path srd 3.5/feats/Counterpunch|Counterpunch (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Counterpunch|Counterpunch (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Int 13, ability to cast instigate psychic duel."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Alter Binary Mindscape|Alter Binary Mindscape (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/feat]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Deception 1 rank, Combat Reflexes, Feint Partner, base attack bonus +6."
-based-on:
-  - "[[path srd 3.5/feats/Improved Feint Partner|Improved Feint Partner (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Improved Feint Partner|Improved Feint Partner (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-09
 tags: [rangoric, rangoric/feat, fighter-bonus, teamwork]
 ---

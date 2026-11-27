@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Craft (alchemy) 2 ranks, Skill Focus (Craft (alchemy))."
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/feats/Craft Chymicals|Craft Chymicals (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, item-creation]
 ---

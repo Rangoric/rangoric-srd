@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Int 13, Combat Expertise, Disengaging Feint, Dodge, Improved Feint, Mobility."
-based-on:
-  - "[[path srd 3.5/feats/Disengaging Shot|Disengaging Shot (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Disengaging Shot|Disengaging Shot (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

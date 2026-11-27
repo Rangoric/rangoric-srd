@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Cha 10; elf, half-elf, or gnome."
-based-on:
-  - "[[path srd 3.5/feats/Arcane Talent|Arcane Talent (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Arcane Talent|Arcane Talent (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, racial]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Improved Sunder, Power Attack, base attack bonus +6, Str 13."
-based-on:
-  - "[[path srd 3.5/feats/Greater Sunder|Greater Sunder (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Greater Sunder|Greater Sunder (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

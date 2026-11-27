@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Int 13, Spell Focus, Spell Specialization, able to prepare 5th-level spells."
-based-on:
-  - "[[path srd 3.5/feats/Greater Spell Specialization|Greater Spell Specialization (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Greater Spell Specialization|Greater Spell Specialization (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

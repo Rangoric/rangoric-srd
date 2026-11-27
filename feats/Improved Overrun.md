@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Str 13, Power Attack, base attack bonus +1."
-based-on:
-  - "[[path srd 3.5/feats/Improved Overrun|Improved Overrun (PF1)]]"
-  - "[[fantasy srd 3.5/feats/Improved Overrun|Improved Overrun (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

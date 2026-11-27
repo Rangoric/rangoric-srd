@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Mysticism 5 ranks."
-based-on:
-  - "[[path srd 3.5/feats/Dispel Synergy|Dispel Synergy (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Dispel Synergy|Dispel Synergy (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Diehard, Endurance, base Fortitude save +8."
-based-on:
-  - "[[path srd 3.5/feats/Heroic Defiance|Heroic Defiance (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Heroic Defiance|Heroic Defiance (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

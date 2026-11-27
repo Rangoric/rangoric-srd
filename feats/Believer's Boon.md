@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Wis 13, alignment must be within one step of your deity's."
-based-on:
-  - "[[path srd 3.5/feats/Believer's Boon|Believer's Boon (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Believer's Boon|Believer's Boon (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat]
 ---

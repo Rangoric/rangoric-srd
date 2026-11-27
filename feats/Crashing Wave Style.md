@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Wis 13, Improved Drag, Improved Reposition, Improved Unarmed Strike."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Crashing Wave Style|Crashing Wave Style (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/feat, fighter-bonus, style]
 ---

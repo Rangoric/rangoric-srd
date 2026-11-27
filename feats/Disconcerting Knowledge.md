@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Bardic knowledge class feature or Knowledge domain, 3 ranks in each of two Knowledge skills."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Disconcerting Knowledge|Disconcerting Knowledge (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat]
 ---

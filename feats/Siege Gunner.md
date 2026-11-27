@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Siege Engineer, Profession (siege engineer) 5 ranks."
-based-on:
-  - "[[path srd 3.5/feats/Siege Gunner|Siege Gunner (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Siege Gunner|Siege Gunner (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

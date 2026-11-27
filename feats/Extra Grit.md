@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Grit class feature or the Amateur Gunslinger feat."
-based-on:
-  - "[[path srd 3.5/feats/Extra Grit|Extra Grit (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Extra Grit|Extra Grit (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat]
 ---

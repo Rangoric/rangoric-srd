@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 13, Agile Maneuvers, Improved Steal, Sleight of Hand 3 ranks."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Graceful Steal|Graceful Steal (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

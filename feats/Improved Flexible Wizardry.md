@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Flexible Wizardry, Spell Mastery, wizard level 8th."
-based-on:
-  - "[[path srd 3.5/feats/Improved Flexible Wizardry|Improved Flexible Wizardry (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Improved Flexible Wizardry|Improved Flexible Wizardry (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Hard-Headed, base attack bonus +6, dwarf."
-based-on:
-  - "[[path srd 3.5/feats/Dented Helm|Dented Helm (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Dented Helm|Dented Helm (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, fighter-bonus, racial]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Ferocity or orc ferocity racial trait, half-orc or orc, rage class feature."
-based-on:
-  - "[[path srd 3.5/feats/Ferocious Tenacity|Ferocious Tenacity (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Ferocious Tenacity|Ferocious Tenacity (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/feat, fighter-bonus, racial]
 ---

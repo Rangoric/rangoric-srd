@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Arcane Strike, ability to cast arcane spells, bloodrage class feature."
-based-on:
-  - "[[path srd 3.5/feats/Blooded Arcane Strike|Blooded Arcane Strike (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Blooded Arcane Strike|Blooded Arcane Strike (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-09
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

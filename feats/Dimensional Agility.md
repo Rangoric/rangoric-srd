@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Ability to use the abundant step class feature or cast dimension door."
-based-on:
-  - "[[path srd 3.5/feats/Dimensional Agility|Dimensional Agility (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Dimensional Agility|Dimensional Agility (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat]
 ---

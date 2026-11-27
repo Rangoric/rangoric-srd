@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Wis 15, Combat Reflexes, Improved Unarmed Strike, Panther Style."
-based-on:
-  - "[[path srd 3.5/feats/Panther Claw|Panther Claw (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Panther Claw|Panther Claw (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

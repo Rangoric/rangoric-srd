@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Base attack bonus +3, proficiency with the weapon or attack."
-based-on:
-  - "[[individual books/Spells & Magic v3.0/feats/Item Breaker|Item Breaker (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat]
 ---

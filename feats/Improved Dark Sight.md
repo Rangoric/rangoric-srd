@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dark Sight, Gloom Sight, fetchling."
-based-on:
-  - "[[path srd 3.5/feats/Improved Dark Sight|Improved Dark Sight (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Improved Dark Sight|Improved Dark Sight (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, racial]
 ---

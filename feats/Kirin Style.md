@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Improved Unarmed Strike, Arcana 6 ranks, Dungeoneering, Nature, Society or Theology 1 rank."
-based-on:
-  - "[[path srd 3.5/feats/Kirin Style|Kirin Style (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Kirin Style|Kirin Style (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus, style]
 ---

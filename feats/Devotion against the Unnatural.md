@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Animal companion, devotion special ability."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Devotion against the Unnatural|Devotion against the Unnatural (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat]
 ---
