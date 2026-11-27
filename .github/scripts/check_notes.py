@@ -46,6 +46,10 @@
 - Alignment tags: a note with a `descriptor:` list carries the tag `chaotic`, `lawful`, `good` or `evil` for each
   of the Chaotic, Lawful, Good and Evil descriptors in it, and none for one it lacks (Chaos and Law Descriptors,
   2026-11-27; Magic Overview's ^alignment-descriptors; ALIGNMENT).
+- Two-skill feats: one feat names any two skills (Two-Skill Feats, 2026-11-27; SRD Content Rules, Feats), so a
+  changed note in feats/ but Reciprocal Knowledge doesn't have a Benefit that is only a bonus on checks with two or
+  more skills (and its "10 or more ranks" step-up). A bonus only in a situation ("when dealing with fey"), given to
+  others, or beside another benefit doesn't match (TWO_SKILL).
 - Marks: a note marked `sweep: failing` lists its problems in `sweep-issues`; a listed problem is a warning, one
   not listed still fails. A marked note with no problems left, or a listed issue that's gone, is a warning. A note
   added by the change (--added) can't be marked.
@@ -527,6 +531,40 @@ def edition_names(rel, body):
     return out
 
 
+TWO_SKILL = {
+    'skill': re.compile(r"\[\[rangoric-srd/skills/[^\]|]*\\?\|([^\]]*)\]\]"),
+    'bonus': re.compile(r"\+\d+ (?:\w+ )?bonus (?:on|to)\b"),
+    'target': re.compile(r"bonus (?:on|to) (?:all )?(.*?)(?:\.|;|,? and (?:a|an|you|can)\b|$)"),
+    'more': re.compile(r"bonus (?:on|to) .*?,? and (?:a|an|you|can)\b"),
+    'situation': re.compile(r"\b(when|whenever|against|while|as long as|made to|to (?:identify|recall|avoid|resist"
+                            r"|climb|swim|catch|maintain))\b|\bgrant\b", re.I),
+    'step_up': re.compile(r"10 or more ranks|increases to \+\d"),
+    'benefit': re.compile(r"^(?:\*\*)?Benefits?(?:\*\*)?:\s*(.*?)(?=^(?:\*\*)?(?:Special|Normal|Prerequisites?|Note)"
+                          r"(?:\*\*)?:|^This feat is part of|^#|\Z)", re.S | re.M),
+}
+
+
+def two_skill_feat(rel, body):
+    """A feat whose whole Benefit is a bonus on two or more skills (Two-Skill Feats): it's Reciprocal Knowledge."""
+    if not rel.startswith('feats/') or rel.count('/') != 1 or rel == 'feats/Reciprocal Knowledge.md':
+        return []
+    m = TWO_SKILL['benefit'].search(body)
+    if not m:
+        return []
+    two = other = 0
+    for s in (s.strip() for s in re.split(r"(?<=\.)\s+(?=[A-Z_*])", m.group(1)) if s.strip()):
+        names = [n for t in TWO_SKILL['target'].findall(s) for n in TWO_SKILL['skill'].findall(t)]
+        if TWO_SKILL['bonus'].search(s) and len(names) >= 2:
+            two += 1
+            if TWO_SKILL['situation'].search(s) or TWO_SKILL['more'].search(s):
+                other += 1
+        elif not TWO_SKILL['step_up'].search(s):
+            other += 1
+    if two and not other:
+        return ['a +2/+2 two-skill feat: use Reciprocal Knowledge (SRD Content Rules: Feats)']
+    return []
+
+
 SLIPS = [(re.compile(r'(?<![.\]/])(?<!\.\.)\.\.(?![./])'), 'a doubled full stop'), (re.compile(r',,'), 'a doubled comma')]
 
 
@@ -602,6 +640,7 @@ for rel in sorted(f for f in files if f.endswith('.md')):
     found = rule_problems(rel, data, body)
     links.extend(f'{rel}: {p}' for p in edition_names(rel, body))
     links.extend(f'{rel}: {p}' for p in slips(rel, text))
+    links.extend(f'{rel}: {p}' for p in two_skill_feat(rel, body))
     marked = data.get('sweep') == 'failing'
     listed = data.get('sweep-issues') or []
     listed = [str(x) for x in listed] if isinstance(listed, list) else [str(listed)]

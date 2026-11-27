@@ -29,7 +29,7 @@ Freebooters who cling to the convoluted codes that rule independent ships, the b
 
 **Deeds**: A buccaneer swaps four of the normal gunslinger [[rangoric-srd/classes/Gunslinger#^gunslinger-deeds|deeds]] for the following deeds.
 
-**Seadog's Gait (Ex)**: At 1st level, the buccaneer gains Sea Legs as a bonus feat. If she spends 1 grit point, she can ignore [[rangoric-srd/combat/Combat Movement#Terrain and Obstacles|difficult terrain]] until the end of her turn. This replaces the [[rangoric-srd/class-options/deeds/Quick Clear (Deed)|quick clear]] deed.
+**Seadog's Gait (Ex)**: At 1st level, the buccaneer gains [[rangoric-srd/feats/Reciprocal Knowledge|Reciprocal Knowledge]] (Acrobatics and Athletics) as a bonus feat. If she spends 1 grit point, she can ignore [[rangoric-srd/combat/Combat Movement#Terrain and Obstacles|difficult terrain]] until the end of her turn. This replaces the [[rangoric-srd/class-options/deeds/Quick Clear (Deed)|quick clear]] deed.
 
 **Pirate's Jargon (Ex)**: At 3rd level, the buccaneer's baffling palaver of nautical jargon and piratical cant provides a +2 bonus on [[rangoric-srd/skills/Deception|Deception]] and [[rangoric-srd/skills/Intimidation|Intimidation]] checks. Furthermore, she can spend a swift action and 1 grit point to attack the Will of a single living creature within 30 feet at 1/2 her buccaneer level + her Charisma modifier; on a hit it becomes [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]] for 1 round. This is a mind-affecting language-dependent effect. This replaces the [[rangoric-srd/class-options/deeds/Pistol-Whip (Deed)|pistol whip]] deed.
 

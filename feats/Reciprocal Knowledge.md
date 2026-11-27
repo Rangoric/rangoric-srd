@@ -1,7 +1,6 @@
 ---
 srd-type: "feat"
 section: "Feats"
-prerequisites: "4 ranks in each of two related skills."
 based-on:
   - "[[individual books/Alchemy & Herbalists v3.5/feats/Reciprocal Knowledge|Reciprocal Knowledge (Alchemy & Herbalists)]]"
 status: draft
@@ -14,10 +13,12 @@ tags: [rangoric, rangoric/feat]
 
 Learning two related skills enhances your abilities to use both skills more effectively.
 
-**Prerequisites**: 4 ranks in each of two related skills.
+**Benefit**: Choose two skills. You get a +2 bonus on all checks involving those skills. If you have 10 or more ranks in one of them, the bonus increases to +4 for that skill.
 
-**Benefit**: Choose two related skills (such as [[rangoric-srd/skills/Profession|Profession]] (herbalist) and [[rangoric-srd/skills/Nature|Nature]]). You get a +2 bonus on checks with both of them.
+**Special**: You can gain this feat multiple times. Its effects do not stack. Each time you take the feat, choose two skills you haven't chosen for it before.
 
-**Special**: You can take this feat more than once, but each time it links only two skills. If a person has [[rangoric-srd/skills/Profession|Profession]] (herbalist) and [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] linked by Reciprocal Knowledge, she cannot use the +2 bonus on [[rangoric-srd/skills/Nature|Nature]] or [[rangoric-srd/skills/Profession|Profession]] (apothecary) checks unless she takes another Reciprocal Knowledge feat to link her herbalism skills with them.
+**Pairings**: Some pairs of skills give a perk as well as the bonus.
+
+- **Craft (alchemy) and Profession (brewer)**: You add +1 to the DC of any [[rangoric-srd/rules/Afflictions#^ingested-poison|ingested poison]] you create.
 
 This feat is part of [[rangoric-srd/rules/alchemy-and-herbalism/Alchemy and Herbalism|alchemy and herbalism]].
