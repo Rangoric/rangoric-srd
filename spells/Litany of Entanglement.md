@@ -4,7 +4,7 @@ section: "Spells"
 school: "Conjuration"
 subschool: "Calling"
 descriptor:
-  - "Language-dependent"
+  - "Language-Dependent"
 level:
   - "Apl 2"
   - "Inq 3"
@@ -29,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 # Litany of Entanglement
 
-_Conjuration (Calling) \[Language-dependent\]_
+_Conjuration (Calling) \[Language-Dependent\]_
 
 - **Level**: Apl 2, Inq 3, Pal 2
 - **Components**: V, S, DF

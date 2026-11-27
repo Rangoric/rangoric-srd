@@ -3,7 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Transmutation"
 descriptor:
-  - "Language-dependent"
+  - "Language-Dependent"
 level:
   - "Brd 2"
   - "Inq 3"
@@ -33,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 # Hidden Speech
 
-_Transmutation \[Language-dependent\]_
+_Transmutation \[Language-Dependent\]_
 
 - **Level**: Brd 2, Inq 3, Med 2, Mes 2, Psy 2, Skd 2, Wit 2
 - **Components**: V, S, M/DF (a cipher written on a piece of parchment)

@@ -4,7 +4,7 @@ section: "Spells"
 school: "Illusion"
 subschool: "Figment"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Alc 2"
   - "Brd 3"
@@ -33,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 # Minor Dream
 
-_Illusion (Figment) \[Mind-affecting\]_
+_Illusion (Figment) \[Mind-Affecting\]_
 
 - **Level**: Alc 2, Brd 3, Med 2, Mes 3, Psy 3, Skd 3, Sor/Wiz 3, Wit 2
 - **Components**: V, S

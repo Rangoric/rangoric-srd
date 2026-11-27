@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Psy 9"
   - "Sor/Wiz 9"
@@ -28,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 # Heroic Invocation
 
-_Enchantment (Compulsion) \[Mind-affecting\]_
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Psy 9, Sor/Wiz 9, Wit 9
 - **Components**: V, S

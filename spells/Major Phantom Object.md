@@ -4,7 +4,7 @@ section: "Spells"
 school: "Illusion"
 subschool: "Figment"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Mes 5"
   - "Psy 5"
@@ -25,7 +25,7 @@ tags: [rangoric, rangoric/spell]
 
 # Major Phantom Object
 
-_Illusion (Figment) \[Mind-affecting\]_
+_Illusion (Figment) \[Mind-Affecting\]_
 
 - **Level**: Mes 5, Psy 5, Sor/Wiz 5
 - **Components**:

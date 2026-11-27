@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Brd 1"
   - "Inq 1"
@@ -33,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 # Lock Gaze
 
-_Enchantment (Compulsion) \[Mind-affecting\]_
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Brd 1, Inq 1, Mag 1, Mes 1, Psy 1, Skd 1, Sor/Wiz 1, Wit 1
 - **Components**: V, S

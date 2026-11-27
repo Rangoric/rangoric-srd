@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Brd 2"
   - "Inq 2"
@@ -32,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 # Hidden Presence
 
-_Enchantment (Compulsion) \[MindAffecting\]_
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Brd 2, Inq 2, Psy 2, Skd 2, Sor/Wiz 2, Wit 2
 - **Components**: V, S, M (eye drops made with extract of poppy)

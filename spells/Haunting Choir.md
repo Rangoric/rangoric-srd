@@ -3,7 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Necromancy"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
   - "Pain"
 level:
   - "Brd 3"
@@ -28,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 # Haunting Choir
 
-_Necromancy \[Mind-affecting, Pain\]_
+_Necromancy \[Mind-Affecting, Pain\]_
 
 - **Level**: Brd 3, Mes 3, Skd 3
 - **Components**: V, S

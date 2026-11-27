@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Pal 1"
 components:
@@ -26,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 # Knight’s Calling
 
-_Enchantment (Compulsion) \[Mind-affecting\]_
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Pal 1
 - **Components**: V, DF

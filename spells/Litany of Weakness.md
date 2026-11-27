@@ -3,7 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Necromancy"
 descriptor:
-  - "Language-dependent"
+  - "Language-Dependent"
 level:
   - "Apl 1"
   - "Inq 1"
@@ -27,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 # Litany of Weakness
 
-_Necromancy \[Language-dependent\]_
+_Necromancy \[Language-Dependent\]_
 
 - **Level**: Apl 1, Inq 1
 - **Components**: V, S, DF

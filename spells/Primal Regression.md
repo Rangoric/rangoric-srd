@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Drd 6"
   - "Hun 6"
@@ -29,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 # Primal Regression
 
-_Enchantment (Compulsion) \[MindAffecting\]_
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Drd 6, Hun 6, Mes 5, Psy 6, Wit 7
 - **Components**: S

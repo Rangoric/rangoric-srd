@@ -6,7 +6,7 @@ subschool: "Phantasm"
 descriptor:
   - "Emotion"
   - "Fear"
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Mes 6"
   - "Psy 7"
@@ -30,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 # Phantasmal Revenge
 
-_Illusion (Phantasm) \[Emotion, Fear, Mind-affecting\]_
+_Illusion (Phantasm) \[Emotion, Fear, Mind-Affecting\]_
 
 - **Level**: Mes 6, Psy 7, Sor/Wiz 7
 - **Components**: V, S

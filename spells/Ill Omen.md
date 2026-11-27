@@ -5,7 +5,7 @@ school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
   - "Curse"
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Med 1"
   - "Mes 1"
@@ -31,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 # Ill Omen
 
-_Enchantment (Compulsion) \[Curse, Mind-affecting\]_
+_Enchantment (Compulsion) \[Curse, Mind-Affecting\]_
 
 - **Level**: Med 1, Mes 1, Psy 1, Wit 1
 - **Components**: V, S, M (hair from a black cat)

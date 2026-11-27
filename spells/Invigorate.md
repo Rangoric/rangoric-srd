@@ -2,8 +2,7 @@
 srd-type: "spell"
 section: "Spells"
 school: "Illusion"
-descriptor:
-  - "Figment"
+subschool: "Figment"
 level:
   - "Brd 1"
   - "Med 1"
@@ -28,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 # Invigorate
 
-_Illusion \[Figment\]_
+_Illusion (Figment)_
 
 - **Level**: Brd 1, Med 1, Mes 1, Psy 1, Skd 1
 - **Components**: V

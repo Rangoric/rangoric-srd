@@ -4,7 +4,7 @@ section: "Spells"
 school: "Conjuration"
 subschool: "Calling"
 descriptor:
-  - "see text for lesser planar binding"
+  - "See text"
 level:
   - "Occ 6"
   - "Psy 6"

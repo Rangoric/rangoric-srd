@@ -4,8 +4,8 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "Language-dependent"
-  - "Mind-affecting"
+  - "Language-Dependent"
+  - "Mind-Affecting"
 level:
   - "Apl 1"
   - "Inq 1"
@@ -30,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 # Litany of Sloth
 
-_Enchantment (Compulsion) \[Language-dependent, Mind-affecting\]_
+_Enchantment (Compulsion) \[Language-Dependent, Mind-Affecting\]_
 
 - **Level**: Apl 1, Inq 1, Pal 1
 - **Components**: V, S, DF

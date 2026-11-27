@@ -4,7 +4,7 @@ section: "Spells"
 school: "Illusion"
 subschool: "Phantasm"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Psy 7"
   - "Sor/Wiz 7"
@@ -26,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 # Permanent Hallucination
 
-_Illusion (Phantasm) \[MindAffecting\]_
+_Illusion (Phantasm) \[Mind-Affecting\]_
 
 - **Level**: Psy 7, Sor/Wiz 7
 - **Components**: S

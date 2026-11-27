@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Brd 1"
   - "Clr 1"
@@ -32,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 # Moment of Greatness
 
-_Enchantment (Compulsion) \[Mind-affecting\]_
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Brd 1, Clr 1, Psy 1, Skd 1, Sor/Wiz 1
 - **Components**: V, S, M/DF (rabbit fur)

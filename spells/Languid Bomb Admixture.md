@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Alc 5"
 components:
@@ -26,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 # Languid Bomb Admixture
 
-_Enchantment (Compulsion) \[Mind-affecting\]_
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Alc 5
 - **Components**: V, S

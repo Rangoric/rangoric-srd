@@ -4,8 +4,8 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "Language-dependent"
-  - "Mind-affecting"
+  - "Language-Dependent"
+  - "Mind-Affecting"
 level:
   - "Brd 2"
   - "Mes 2"
@@ -34,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 # Mindlocked Messenger
 
-_Enchantment (Compulsion) \[Language-dependent, Mind-affecting\]_
+_Enchantment (Compulsion) \[Language-Dependent, Mind-Affecting\]_
 
 - **Level**: Brd 2, Mes 2, Psy 3, Sha 3, Skd 2, Sor/Wiz 3, Spi 3, Wit 3
 - **Components**: V, S

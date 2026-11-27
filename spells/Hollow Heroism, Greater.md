@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
   - "Ruse"
 level:
   - "Brd 6"
@@ -31,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 # Hollow Heroism, Greater
 
-_Enchantment (Compulsion) \[MindAffecting, Ruse\]_
+_Enchantment (Compulsion) \[Mind-Affecting, Ruse\]_
 
 - **Level**: Brd 6, Psy 7, Skd 6, Sor/Wiz 7, Wit 7
 - **Components**: V, S

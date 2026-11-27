@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Brd 2"
   - "Med 2"
@@ -33,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 # Hoodwink
 
-_Enchantment (Compulsion) \[MindAffecting\]_
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Brd 2, Med 2, Mes 2, Occ 2, Psy 2, Skd 2, Sor/Wiz 2
 - **Components**: V, S, M (small piece of black cloth)

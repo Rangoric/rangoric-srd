@@ -4,7 +4,7 @@ section: "Spells"
 school: "Conjuration"
 subschool: "Calling"
 descriptor:
-  - "see text for lesser planar ally"
+  - "See text"
 level:
   - "Clr 8"
   - "Psy 8"

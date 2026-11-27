@@ -5,7 +5,7 @@ school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
   - "Curse"
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Apl 4"
   - "Brd 6"
@@ -33,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 # Life of Crime
 
-_Enchantment (Compulsion) \[Curse, MindAffecting\]_
+_Enchantment (Compulsion) \[Curse, Mind-Affecting\]_
 
 - **Level**: Apl 4, Brd 6, Mes 6, Psy 8, Skd 6, Sor/Wiz 8
 - **Components**: V, S, M (a black mask)

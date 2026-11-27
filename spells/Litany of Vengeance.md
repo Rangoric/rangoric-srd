@@ -3,7 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Transmutation"
 descriptor:
-  - "Language-dependent"
+  - "Language-Dependent"
 level:
   - "Apl 4"
   - "Inq 5"
@@ -28,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 # Litany of Vengeance
 
-_Transmutation \[Language-dependent\]_
+_Transmutation \[Language-Dependent\]_
 
 - **Level**: Apl 4, Inq 5, Pal 4
 - **Components**: V, S, DF

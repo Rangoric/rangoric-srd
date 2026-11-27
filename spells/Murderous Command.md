@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Apl 1"
   - "Clr 1"
@@ -30,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 # Murderous Command
 
-_Enchantment (Compulsion) \[Mind-affecting\]_
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Apl 1, Clr 1, Med 1, Mes 1, Occ 1, Psy 1
 - **Components**: V

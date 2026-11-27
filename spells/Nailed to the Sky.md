@@ -2,8 +2,7 @@
 srd-type: "spell"
 section: "Spells"
 school: "Conjuration"
-descriptor:
-  - "Teleportation"
+subschool: "Teleportation"
 spellcraft-dc: "62"
 components:
   - "V"
@@ -26,7 +25,7 @@ tags: [rangoric, rangoric/spell]
 
 # Nailed to the Sky
 
-Conjuration \[Teleportation\]  
+Conjuration (Teleportation)  
 Casting DC: 62  
 Components: V, S, XP  
 Casting Time: 1 standard action  

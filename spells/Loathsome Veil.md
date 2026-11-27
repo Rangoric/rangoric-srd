@@ -4,7 +4,7 @@ section: "Spells"
 school: "Illusion"
 subschool: "Pattern"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Mes 3"
   - "Psy 3"
@@ -30,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 # Loathsome Veil
 
-_Illusion (Pattern) \[Mind-affecting\]_
+_Illusion (Pattern) \[Mind-Affecting\]_
 
 - **Level**: Mes 3, Psy 3, Sor/Wiz 3, Wit 3
 - **Components**: V, S, M (a tangle of multicolored threads)

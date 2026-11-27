@@ -4,7 +4,7 @@ section: "Spells"
 school: "Illusion"
 subschool: "Phantasm"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Med 3"
   - "Mes 3"
@@ -29,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 # Mindscape Door
 
-_Illusion (Phantasm) \[MindAffecting\]_
+_Illusion (Phantasm) \[Mind-Affecting\]_
 
 - **Level**: Med 3, Mes 3, Psy 3, Sor/Wiz 4
 - **Components**: V, S

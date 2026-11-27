@@ -5,7 +5,7 @@ school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
   - "Emotion"
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Brd 6"
   - "Clr 9"
@@ -34,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 # Overwhelming Presence
 
-_Enchantment (Compulsion) \[Emotion, Mind-affecting\]_
+_Enchantment (Compulsion) \[Emotion, Mind-Affecting\]_
 
 - **Level**: Brd 6, Clr 9, Inq 6, Mes 6, Psy 4, Skd 6, Sor/Wiz 9
 - **Components**: V, S, M (a swan feather)

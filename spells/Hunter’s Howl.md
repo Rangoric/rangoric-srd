@@ -5,7 +5,7 @@ school: "Necromancy"
 descriptor:
   - "Emotion"
   - "Fear"
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Hun 1"
   - "Rgr 1"
@@ -28,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 # Hunter’s Howl
 
-_Necromancy \[Emotion, Fear, Mind-affecting\]_
+_Necromancy \[Emotion, Fear, Mind-Affecting\]_
 
 - **Level**: Hun 1, Rgr 1
 - **Components**: V, S

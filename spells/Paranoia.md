@@ -4,7 +4,7 @@ section: "Spells"
 school: "Illusion"
 subschool: "Phantasm"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Brd 2"
   - "Med 1"
@@ -32,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 # Paranoia
 
-_Illusion (Phantasm) \[MindAffecting\]_
+_Illusion (Phantasm) \[Mind-Affecting\]_
 
 - **Level**: Brd 2, Med 1, Mes 1, Psy 2, Skd 2, Sor/Wiz 2, Wit 2
 - **Components**: V, S

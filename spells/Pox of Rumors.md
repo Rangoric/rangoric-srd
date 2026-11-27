@@ -5,7 +5,7 @@ school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
   - "Curse"
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Brd 5"
   - "Clr 7"
@@ -35,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 # Pox of Rumors
 
-_Enchantment (Compulsion) \[Curse, MindAffecting\]_
+_Enchantment (Compulsion) \[Curse, Mind-Affecting\]_
 
 - **Level**: Brd 5, Clr 7, Mes 5, Psy 7, Skd 5, Sor/Wiz 7, Spi 5, Wit 7
 - **Components**: V, S, M (a physical connection to the target; see text)

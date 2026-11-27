@@ -5,7 +5,7 @@ school: "Divination"
 descriptor:
   - "Curse"
   - "Fear"
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Occ 6"
   - "Psy 8"
@@ -30,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 # Prediction of Failure
 
-_Divination \[Curse, Fear, Mind-affecting\]_
+_Divination \[Curse, Fear, Mind-Affecting\]_
 
 - **Level**: Occ 6, Psy 8, Sor/Wiz 8, Wit 8
 - **Components**: V, S
