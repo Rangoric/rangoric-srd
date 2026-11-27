@@ -15,7 +15,7 @@ full-attack: "Gore +8 melee (1d8+4) and 2 hooves +5 melee (1d3+2)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Powerful charge (gore, 2d8+8), spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, magic circle against evil, magical strike, wild empathy +17, immunity to charm, compulsion and poison"
-saves: "Fort +7, Ref +7, Will +6"
+defenses: "Fort 17, Ref 17, Will 16"
 abilities: "Str 18, Dex 17, Con 16, Int 11, Wis 21, Cha 24"
 skills: "Acrobatics +8, Fieldcraft +7 (+10 in forests), Perception +10, Stealth +8"
 skill-ranks: "Acrobatics 2, Fieldcraft 2, Perception 2, Stealth 2"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Powerful Charge|Powerful charge]] (gore, 2d8+8), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]], magical strike, wild empathy +17, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to charm, compulsion and poison
-- **Saves**: Fort +7, Ref +7, Will +6
+- **Defenses**: Fort 17, Ref 17, Will 16
 - **Abilities**: Str 18, Dex 17, Con 16, Int 11, Wis 21, Cha 24
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7 (+10 in forests), [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +8
 - **Feats**: [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (horn)
@@ -82,7 +82,7 @@ Unicorns speak Sylvan and Common.
 
 Unicorns normally attack only when defending themselves or their forests. They either [[rangoric-srd/combat/Combat Special Attacks#Charge|charge]], impaling foes with their horns like lances, or strike with their hooves. The horn is a +3 magic weapon, though its power fades if removed from the unicorn.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th): At will—_[[rangoric-srd/spells/Detect Evil|detect evil]]_ (as free action), _[[rangoric-srd/spells/Light|light]]_; 3/day—_[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_; 1/day—_[[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]], [[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (within its forest territory), _[[rangoric-srd/spells/Neutralize Poison|neutralize poison]]_ (DC 21).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th): At will—_[[rangoric-srd/spells/Detect Evil|detect evil]]_ (as free action), _[[rangoric-srd/spells/Light|light]]_; 3/day—_[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_; 1/day—_[[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]], [[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (within its forest territory), _[[rangoric-srd/spells/Neutralize Poison|neutralize poison]]_ (+11 vs Will).
 
 **Magic Circle against Evil (Su)**: This ability continually duplicates the effect of the spell. The unicorn cannot suppress this ability.
 
@@ -96,13 +96,13 @@ The celestial charger described here is an 8 HD celestial unicorn with seven lev
 
 ### Combat
 
-The save DC for this celestial charger’s neutralize poison ability (DC 20) is adjusted for its greater Hit Dice and altered Charisma score.
+The attack bonus for this celestial charger’s neutralize poison ability (+10) is adjusted for its greater Hit Dice and altered Charisma score.
 
 A celestial charger’s natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
 
 **Smite Evil (Su):** Once per day a celestial charger can make a normal melee attack to deal 15 points of extra damage against an evil foe.
 
-_[[rangoric-srd/spells/Cleric Spell List|Cleric Spells]] Prepared (6/7/6/5/4; save DC 18 + spell level):_
+_[[rangoric-srd/spells/Cleric Spell List|Cleric Spells]] Prepared (6/7/6/5/4; attack bonus +8 + spell level):_
 
 [[rangoric-srd/spells/Cleric Spell List#0-Level Cleric Spells (Orisons)|0]] — [[rangoric-srd/spells/Detect Magic|detect magic]], [[rangoric-srd/spells/Detect Poison|detect poison]] (2), [[rangoric-srd/spells/Light|light]], [[rangoric-srd/spells/Virtue|virtue]] (2);
 

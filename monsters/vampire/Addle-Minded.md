@@ -19,6 +19,6 @@ A creature that remains dominated by vampires for long stretches begins to lose 
 
 **Challenge Rating**: As base creature +0.
 
-**Rebuild Rules**: **Saves** –2 penalty on all Will saves; **Special Qualities** gains the addled defensive ability. An addle-minded creature’s quick and rebuild rules are the same.
+**Rebuild Rules**: **Defenses** –2 to Will Defense; **Special Qualities** gains the addled defensive ability. An addle-minded creature’s quick and rebuild rules are the same.
 
-**Addled (Su)**: Whenever the addle-minded creature fails a saving throw against a mind-affecting effect (other than _[[rangoric-srd/spells/Dominate Person|dominate person]]_, _[[rangoric-srd/spells/Dominate Monster|dominate monster]]_, or any other spell or spell-like ability with “dominate” in its name), it becomes confused as the _[[rangoric-srd/spells/Confusion|confusion]]_ spell, and it must roll on that spell’s table to determine its behavior. Instead of acting normally on a roll of 01–25, the creature is instead normally affected by the spell or effect that round.
+**Addled (Su)**: Whenever a mind-affecting effect hits the addle-minded creature (other than _[[rangoric-srd/spells/Dominate Person|dominate person]]_, _[[rangoric-srd/spells/Dominate Monster|dominate monster]]_, or any other spell or spell-like ability with “dominate” in its name), it becomes confused as the _[[rangoric-srd/spells/Confusion|confusion]]_ spell, and it must roll on that spell’s table to determine its behavior. Instead of acting normally on a roll of 01–25, the creature is instead normally affected by the spell or effect that round.

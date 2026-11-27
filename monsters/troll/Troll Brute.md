@@ -16,7 +16,7 @@ full-attack: "Bite +14 melee (1d8+9) and 2 claws +15 melee (1d6+9)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Rage (14 rounds/day), rage powers (superstition +2), rend (2 claws, 1d6+13)"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, regeneration 5 (acid or fire), uncanny dodge, fast movement"
-saves: "Fort +19, Ref +6, Will +5 (+2 vs. magic)"
+defenses: "Fort 29, Ref 16, Will 15 (+2 vs. magic)"
 abilities: "Str 29, Dex 16, Con 31, Int 6, Wis 11, Cha 4"
 skills: "Intimidation +13, Perception +11"
 skill-ranks: "Intimidation 13, Perception 8"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (14 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/Superstition (Rage Power)|superstition]] +2), [[rangoric-srd/monsters/abilities/Rend|rend]] (2 claws, 1d6+13)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (acid or fire), [[rangoric-srd/classes/Barbarian#^barbarian-uncanny-dodge|uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]]
-- **Saves**: Fort +19, Ref +6, Will +5 (+2 vs. magic)
+- **Defenses**: Fort 29, Ref 16, Will 15 (+2 vs. magic)
 - **Abilities**: Str 29, Dex 16, Con 31, Int 6, Wis 11, Cha 4
 - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Perception|Perception]] +11
 - **Feats**: [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Mighty Bite|Mighty Bite]], [[rangoric-srd/feats/Raging Regeneration|Raging Regeneration]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)

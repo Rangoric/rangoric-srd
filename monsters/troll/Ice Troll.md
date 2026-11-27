@@ -16,7 +16,7 @@ full-attack: "Battleaxe +7 melee (2d6+4) and bite +2 melee (1d6+2) and claw +2 m
 space-reach: "10 ft./10 ft."
 special-attacks: "Rend (2 claws, 1d6+6)"
 special-qualities: "Darkvision 60 ft., low-light vision, regeneration 5 (acid or fire), immunity to cold, vulnerable to fire"
-saves: "Fort +8, Ref +8, Will +2"
+defenses: "Fort 18, Ref 18, Will 12"
 abilities: "Str 19, Dex 18, Con 16, Int 9, Wis 10, Cha 7"
 skills: "Fieldcraft +4, Intimidation +7, Perception +9"
 skill-ranks: "Fieldcraft 1, Intimidation 6, Perception 6"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rend|Rend]] (2 claws, 1d6+6)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (acid or fire), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, vulnerable to fire
-- **Saves**: Fort +8, Ref +8, Will +2
+- **Defenses**: Fort 18, Ref 18, Will 12
 - **Abilities**: Str 19, Dex 18, Con 16, Int 9, Wis 10, Cha 7
 - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Perception|Perception]] +9
 - **Feats**: [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

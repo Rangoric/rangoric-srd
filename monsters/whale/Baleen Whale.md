@@ -16,7 +16,7 @@ full-attack: "Tail slap +17 melee (1d8+18)"
 space-reach: "20 ft./15 ft."
 special-attacks: "—"
 special-qualities: "Blindsight 120 ft., hold breath, low-light vision"
-saves: "Fort +14, Ref +9, Will +5"
+defenses: "Fort 24, Ref 19, Will 15"
 abilities: "Str 35, Dex 13, Con 22, Int 2, Wis 12, Cha 6"
 skills: "Athletics +19 (+27 swimming), Perception +19*"
 skill-ranks: "Athletics 4, Perception 8"
@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 20 ft./15 ft.
 - **Special Attacks**: —
 - **Special Qualities**: Blindsight 120 ft., hold breath, low-light vision
-- **Saves**: Fort +14, Ref +9, Will +5
+- **Defenses**: Fort 24, Ref 19, Will 15
 - **Abilities**: Str 35, Dex 13, Con 22, Int 2, Wis 12, Cha 6
 - **Skills**: Athletics +19 (+27 swimming), Perception +19\*
 - **Feats**: Diehard, Endurance, Skill Focus (Perception), Toughness (2)

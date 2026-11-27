@@ -16,7 +16,7 @@ full-attack: "Bite +8 melee (1d8+5) and 2 claws +8 melee (1d6+5)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Rend (2 claws, 1d6+7)"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, regeneration 5 (acid or fire)"
-saves: "Fort +11, Ref +4, Will +3"
+defenses: "Fort 21, Ref 14, Will 13"
 abilities: "Str 21, Dex 14, Con 23, Int 6, Wis 9, Cha 6"
 skills: "Intimidation +9, Perception +8"
 skill-ranks: "Intimidation 8, Perception 6"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rend|Rend]] (2 claws, 1d6+7)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (acid or fire)
-- **Saves**: Fort +11, Ref +4, Will +3
+- **Defenses**: Fort 21, Ref 14, Will 13
 - **Abilities**: Str 21, Dex 14, Con 23, Int 6, Wis 9, Cha 6
 - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +8
 - **Feats**: [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -126,7 +126,7 @@ Some trolls, more cunning than most, are not satisfied with merely eating civili
 A troll hunter makes full use of its scent ability to track its favored enemies and generally prefers to hunt in darkness.
 
 The troll hunter uses its limited repertoire of spells to protect itself from damaging forms of energy and to immobilize enemies.  
-Typical [[rangoric-srd/spells/Ranger Spell List|Ranger Spells]] Prepared (2; save DC 12 + spell level):
+Typical [[rangoric-srd/spells/Ranger Spell List|Ranger Spells]] Prepared (2; attack bonus +2 + spell level):
 
 [[rangoric-srd/spells/Ranger Spell List|1st]] - [[rangoric-srd/spells/Entangle|entangle]], [[rangoric-srd/spells/Resist Energy|resist energy]].
 

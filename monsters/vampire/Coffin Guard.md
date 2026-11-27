@@ -16,7 +16,7 @@ full-attack: "Masterwork rapier +7 melee (1d6+1/18–20) and masterwork rapier +
 space-reach: "5 ft./5 ft."
 special-attacks: "Combat style (two-weapon), favored enemy (humans +2)"
 special-qualities: "Low-light vision, elven magic, favored terrain (urban +2), hunter's bond (companions), track +2, wild empathy +3, immunity to sleep"
-saves: "Fort +5, Ref +8, Will +2 (+2 vs. enchantments)"
+defenses: "Fort 15, Ref 18, Will 12 (+2 vs. enchantments)"
 abilities: "Str 12, Dex 18, Con 12, Int 12, Wis 13, Cha 8"
 skills: "Fieldcraft +8, Intimidation +6, Perception +10, Sense Motive +5, Society +8, Stealth +10"
 skill-ranks: "Fieldcraft 4, Intimidation 4, Perception 6, Sense Motive 1, Society 4, Stealth 3"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-combat-style|Combat style]] (two-weapon), [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemy]] (humans +2)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], elven magic, [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|favored terrain]] (urban +2), [[rangoric-srd/classes/Ranger#^ranger-hunters-bond|hunter's bond]] (companions), [[rangoric-srd/classes/Ranger#^ranger-track|track]] +2, [[rangoric-srd/classes/Ranger#^ranger-wild-empathy|wild empathy]] +3, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep
-- **Saves**: Fort +5, Ref +8, Will +2 (+2 vs. enchantments)
+- **Defenses**: Fort 15, Ref 18, Will 12 (+2 vs. enchantments)
 - **Abilities**: Str 12, Dex 18, Con 12, Int 12, Wis 13, Cha 8
 - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Society|Society]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +10
 - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -73,4 +73,4 @@ A coffin guard speaks Common, Draconic, and Elven.
 
 ### Combat
 
-**Ranger spells prepared** (CL 1st; concentration +2): 1st—_[[rangoric-srd/spells/Entangle|entangle]]_ (DC 12).
+**Ranger spells prepared** (CL 1st; concentration +2): 1st—_[[rangoric-srd/spells/Entangle|entangle]]_ (+2 vs Reflex).

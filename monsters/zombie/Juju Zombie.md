@@ -16,7 +16,7 @@ full-attack: "Masterwork short sword +6 melee (1d6+4/19–20); or slam +5 melee 
 space-reach: "5 ft./5 ft."
 special-attacks: "Sneak attack +1d6"
 special-qualities: "Darkvision 60 ft., channel resistance +4, evasion, rogue talents (combat trick), trapfinding +1, damage reduction 5/magic and slashing, immunity to cold, electricity and magic missile, undead traits, resistance to fire 10"
-saves: "Fort +0, Ref +7, Will +1"
+defenses: "Fort 10, Ref 17, Will 11"
 abilities: "Str 18, Dex 19, Con —, Int 8, Wis 13, Cha 10"
 skills: "Acrobatics +8, Athletics +16, Emulation +5, Engineering +8, Fieldcraft +3, Intimidation +5, Perception +6, Sleight of Hand +9, Stealth +8"
 skill-ranks: "Acrobatics 1, Athletics 1, Emulation 2, Engineering 1, Fieldcraft 2, Intimidation 2, Perception 2, Sleight of Hand 2, Stealth 1"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +1d6
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/classes/Rogue#^rogue-evasion|evasion]], [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]] ([[rangoric-srd/class-options/rogue-talents/Combat Trick (Rogue Talent)|combat trick]]), [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +1, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/magic and slashing, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, electricity and magic missile, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10
-- **Saves**: Fort +0, Ref +7, Will +1
+- **Defenses**: Fort 10, Ref 17, Will 11
 - **Abilities**: Str 18, Dex 19, Con —, Int 8, Wis 13, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +16, [[rangoric-srd/skills/Emulation|Emulation]] +5, [[rangoric-srd/skills/Engineering|Engineering]] +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +3, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +8
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -88,7 +88,7 @@ A juju zombie is an animated corpse of a creature, created to serve as an undead
 
 **Attacks**: A juju zombie retains all the natural weapons, manufactured weapon attacks, and weapon proficiencies of the base creature. It also gains a slam attack that deals damage based on the juju zombie's size, but as if it were one size category larger than its actual size.
 
-**Abilities**: Increase from the base creature as follows: Str +4, Dex +2. A juju zombie has no Con score; as an undead, it uses its Charisma in place of Constitution when calculating hit points, Fortitude saves, or any special ability that relies on Constitution.
+**Abilities**: Increase from the base creature as follows: Str +4, Dex +2. A juju zombie has no Con score; as an undead, it uses its Charisma in place of Constitution when calculating hit points, Fortitude Defense, or any special ability that relies on Constitution.
 
 **Feats**: A juju zombie gains Improved Initiative and Toughness as bonus feats.
 

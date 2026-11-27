@@ -15,8 +15,8 @@ attack: "Masterwork lance +13 melee (1d8+5/×3) or bite +11 melee (1d4+2) or cla
 full-attack: "Masterwork lance +13/+8 melee (1d8+5/×3) and bite +6 melee (1d4+2) and claw +6 melee (1d4+2); or javelin +9/+4 ranged (1d6+5)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Weapon training (spears +1)"
-special-qualities: "Darkvision 90 ft., stench (30 ft., DC 15, 10 rounds), bravery +2, armor training 1"
-saves: "Fort +13, Ref +4, Will +4 (+2 vs. fear)"
+special-qualities: "Darkvision 90 ft., stench (30 ft., +5 vs Fortitude, 10 rounds), bravery +2, armor training 1"
+defenses: "Fort 23, Ref 14, Will 14 (+2 vs. fear)"
 abilities: "Str 18, Dex 12, Con 18, Int 8, Wis 13, Cha 9"
 skills: "Animal Handling +6, Intimidation +6, Perception +3, Stealth +3 (+7 in rocky areas)"
 skill-ranks: "Animal Handling 4, Intimidation 4, Perception 2, Stealth 2"
@@ -50,8 +50,8 @@ tags: [rangoric, rangoric/monster]
 - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Lance|lance]] +13/+8 melee (1d8+5/×3) and bite +6 melee (1d4+2) and claw +6 melee (1d4+2); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +9/+4 ranged (1d6+5)
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Fighter#^fighter-weapon-training|Weapon training]] (spears +1)
-- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 90 ft., [[rangoric-srd/monsters/abilities/Stench|stench]] (30 ft., DC 15, 10 rounds), [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +2, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1
-- **Saves**: Fort +13, Ref +4, Will +4 (+2 vs. fear)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 90 ft., [[rangoric-srd/monsters/abilities/Stench|stench]] (30 ft., +5 vs Fortitude, 10 rounds), [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +2, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1
+- **Defenses**: Fort 23, Ref 14, Will 14 (+2 vs. fear)
 - **Abilities**: Str 18, Dex 12, Con 18, Int 8, Wis 13, Cha 9
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Perception|Perception]] +3, [[rangoric-srd/skills/Stealth|Stealth]] +3 (+7 in rocky areas)
 - **Feats**: [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Ride-By Attack|Ride-By Attack]], [[rangoric-srd/feats/Spirited Charge|Spirited Charge]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Unseat|Unseat]]

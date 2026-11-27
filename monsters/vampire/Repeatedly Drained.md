@@ -17,8 +17,8 @@ A creature from which a vampire routinely drinks blood usually adapts to the rap
 
 “Repeatedly Drained” is a simple template, for creatures associated with or victims of vampires.
 
-**Quick Rules**: –2 on all rolls based on Con or Cha and to the DCs of all special abilities based on Con or Cha, –2 hp/HD, +2 on saving throws vs. [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]].
+**Quick Rules**: –2 on all rolls based on Con or Cha and to the attack bonuses of all special abilities based on Con or Cha, –2 hp/HD, +2 to defenses against [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]].
 
 **Rebuild Rules**: **Defensive Abilities** resist drain special ability; **Ability Scores** –4 Con, –4 Cha.
 
-**Resist Drain (Ex)**: After having its blood sucked out over and over again by a vampire, the repeatedly drained creature becomes used to the effects and builds a natural tolerance for [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]. The repeatedly drained creature gains a +4 bonus on saving throws against energy drain attacks and the saving throw to overcome negative levels. It suffers no penalties from negative levels, though it still dies if its negative levels equal or exceed its Hit Dice.
+**Resist Drain (Ex)**: After having its blood sucked out over and over again by a vampire, the repeatedly drained creature becomes used to the effects and builds a natural tolerance for [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]. The repeatedly drained creature gains a +4 bonus on defenses against energy drain attacks and against its negative levels becoming permanent. It suffers no penalties from negative levels, though it still dies if its negative levels equal or exceed its Hit Dice.

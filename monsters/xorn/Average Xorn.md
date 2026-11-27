@@ -16,7 +16,7 @@ full-attack: "Bite +10 melee (4d6+3) and 3 claws +10 melee (1d4+3)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "All-around vision, darkvision 60 ft., tremorsense 60 ft., damage reduction 5/bludgeoning, immunity to cold, fire and flanking, resistance to electricity 10"
-saves: "Fort +8, Ref +2, Will +5"
+defenses: "Fort 18, Ref 12, Will 15"
 abilities: "Str 17, Dex 10, Con 17, Int 10, Wis 11, Cha 10"
 skills: "Appraise +10, Fieldcraft +10, Intimidation +10, Investigation +4, Knowledge +10, Perception +14, Stealth +10"
 skill-ranks: "Appraise 7, Fieldcraft 7, Intimidation 7, Knowledge 7, Perception 7, Stealth 7"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/All-Around Vision|All-around vision]], [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/bludgeoning, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, fire and flanking, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 10
-- **Saves**: Fort +8, Ref +2, Will +5
+- **Defenses**: Fort 18, Ref 12, Will 15
 - **Abilities**: Str 17, Dex 10, Con 17, Int 10, Wis 11, Cha 10
 - **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +10, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Investigation|Investigation]] +4, [[rangoric-srd/skills/Knowledge|Knowledge]] +10, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +10
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]]
@@ -78,4 +78,4 @@ Xorns speak Common and Terran.
 
 **All-Around Vision (Ex)**: A xorn sees in all directions at the same time, giving it a +4 racial bonus on Perception and Investigation checks. A xorn can't be [[rangoric-srd/combat/Combat Modifiers#Flanking|flanked]].
 
-**Earth Glide (Ex)**: A xorn can glide through any sort of natural earth or stone as easily as a fish swims through water. Its burrowing leaves no sign of its passage nor hint at its presence to creatures that don't possess tremorsense. A _[[rangoric-srd/spells/Move Earth|move earth]]_ spell cast on an area containing a xorn moves the xorn back 30 feet, stunning the creature for 1 round unless it succeeds on a DC 15 Fortitude save.
+**Earth Glide (Ex)**: A xorn can glide through any sort of natural earth or stone as easily as a fish swims through water. Its burrowing leaves no sign of its passage nor hint at its presence to creatures that don't possess tremorsense. A _[[rangoric-srd/spells/Move Earth|move earth]]_ spell cast on an area containing a xorn moves the xorn back 30 feet, stunning the creature for 1 round if the spell hits it at +5 vs Fortitude.

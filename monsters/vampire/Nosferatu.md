@@ -14,9 +14,9 @@ cmd: "28"
 attack: "Claw +14 melee (1d6+3)"
 full-attack: "2 claws +14 melee (1d6+3)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Blood drain (1d4 Con and 1d4 Wis), dominate (DC 17), sneak attack +5d6, telekinesis (DC 17)"
+special-attacks: "Blood drain (1d4 Con and 1d4 Wis), dominate (+7 vs Will), sneak attack +5d6, telekinesis (+7 vs Will)"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, fast healing 5, telepathy 60 ft., channel resistance +4, evasion, improved uncanny dodge, trap sense +3, rogue talents (bleeding attack +5, fast stealth, stand up, surprise attack), spider climb, swarm form, trapfinding +4, damage reduction 5/wood and piercing, undead traits, resistance to cold 10, electricity 10 and sonic 10, vampire weaknesses"
-saves: "Fort +7, Ref +16, Will +7"
+defenses: "Fort 17, Ref 26, Will 17"
 abilities: "Str 16, Dex 24, Con —, Int 16, Wis 16, Cha 16"
 skills: "Acrobatics +19, Athletics +15, Deception +15, Dungeoneering +15, Emulation +15, Fieldcraft +12, Intimidation +15, Perception +26, Sense Motive +14, Society +15, Stealth +30, Theology +12"
 skill-ranks: "Acrobatics 9, Athletics 9, Deception 9, Dungeoneering 9, Emulation 9, Fieldcraft 6, Intimidation 9, Perception 14, Sense Motive 2, Society 9, Stealth 12, Theology 6"
@@ -56,9 +56,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Claw +14 melee (1d6+3)
 - **Full Attack**: 2 claws +14 melee (1d6+3)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]] (1d4 Con and 1d4 Wis), [[rangoric-srd/monsters/vampire/Nosferatu#^dominate|dominate]] (DC 17), [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|sneak attack]] +5d6, [[rangoric-srd/monsters/abilities/Telekinesis|telekinesis]] (DC 17)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]] (1d4 Con and 1d4 Wis), [[rangoric-srd/monsters/vampire/Nosferatu#^dominate|dominate]] (+7 vs Will), [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|sneak attack]] +5d6, [[rangoric-srd/monsters/abilities/Telekinesis|telekinesis]] (+7 vs Will)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 60 ft., [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/classes/Rogue#^rogue-evasion|evasion]], [[rangoric-srd/classes/Rogue#^rogue-improved-uncanny-dodge|improved uncanny dodge]], [[rangoric-srd/classes/Rogue#^rogue-trap-sense|trap sense]] +3, [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]] ([[rangoric-srd/class-options/rogue-talents/Bleeding Attack (Rogue Talent)|bleeding attack]] +5, [[rangoric-srd/class-options/rogue-talents/Fast Stealth (Rogue Talent)|fast stealth]], [[rangoric-srd/class-options/rogue-talents/Stand Up (Rogue Talent)|stand up]], [[rangoric-srd/class-options/rogue-talents/Surprise Attack (Rogue Talent)|surprise attack]]), [[rangoric-srd/monsters/vampire/Nosferatu#^spider-climb|spider climb]], [[rangoric-srd/monsters/vampire/Nosferatu#^swarm-form|swarm form]], [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +4, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/wood and piercing, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10, electricity 10 and sonic 10, [[rangoric-srd/monsters/vampire/Nosferatu#^weaknesses|vampire weaknesses]]
-- **Saves**: Fort +7, Ref +16, Will +7
+- **Defenses**: Fort 17, Ref 26, Will 17
 - **Abilities**: Str 16, Dex 24, Con —, Int 16, Wis 16, Cha 16
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +19, [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Deception|Deception]] +15, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +15, [[rangoric-srd/skills/Emulation|Emulation]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +15, [[rangoric-srd/skills/Perception|Perception]] +26, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14, [[rangoric-srd/skills/Society|Society]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +30, [[rangoric-srd/skills/Theology|Theology]] +12
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception, Sense Motive), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
@@ -86,7 +86,7 @@ Because nosferatu can't create spawn, any nosferatu in existence are very old—
 
 **AL**: Any evil.
 
-**Type**: The creature's type changes to undead (augmented). Do not recalculate class Hit Dice, BAB, or saves.
+**Type**: The creature's type changes to undead (augmented). Do not recalculate class Hit Dice, BAB, or defenses.
 
 **Senses**: A nosferatu gains darkvision 60 ft., low-light vision, and scent.
 
@@ -98,7 +98,7 @@ Because nosferatu can't create spawn, any nosferatu in existence are very old—
 
 A nosferatu gains fast healing 5. If reduced to 0 hit points in combat, a nosferatu assumes its swarm form (see below) and attempts to escape. It must reach its coffin within 1 hour or be utterly destroyed. (In swarm form, it can normally travel up to 5 miles in 1 hour.) Additional damage dealt to a nosferatu forced into swarm form has no effect. Once at rest, the nosferatu is [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]]. It regains 1 hit point after 1 hour, then is no longer helpless and resumes healing at the rate of 5 hit points per round.
 
-**Weaknesses**: A nosferatu can't tolerate the strong odor of garlic, and won't enter an area laced with it. Similarly, it recoils from mirrors or strongly presented holy symbols. These things don't harm the nosferatu—they merely keep it at bay. A recoiling nosferatu must stay at least 5 feet away from the mirror or holy symbol and can't touch or make melee attacks against that creature. Holding a nosferatu at bay takes a standard action. After 1 round, a nosferatu can overcome its revulsion of the object and function normally each round it succeeds at a DC 25 Will save. ^weaknesses
+**Weaknesses**: A nosferatu can't tolerate the strong odor of garlic, and won't enter an area laced with it. Similarly, it recoils from mirrors or strongly presented holy symbols. These things don't harm the nosferatu—they merely keep it at bay. A recoiling nosferatu must stay at least 5 feet away from the mirror or holy symbol and can't touch or make melee attacks against that creature. Holding a nosferatu at bay takes a standard action. After 1 round, a nosferatu can overcome its revulsion of the object and function normally each round it succeeds at a DC 25 Will check (1d20 + Will save bonus). ^weaknesses
 
 A nosferatu cannot enter a private home or dwelling unless invited in by someone with the authority to do so.
 
@@ -108,11 +108,11 @@ Reducing a nosferatu's hit points to 0 incapacitates it but doesn't always destr
 
 **Melee**: A nosferatu gains two claw attacks if the base creature didn't have any (1d4 points of damage for a Small nosferatu, 1d6 points of damage for a Medium one).
 
-**Special Attacks (Ex)**: A nosferatu gains several special attacks. Its save DCs are equal to 10 + 1/2 the nosferatu's Hit Dice + the nosferatu's Cha modifier unless otherwise noted.
+**Special Attacks (Ex)**: A nosferatu gains several special attacks. Its attack bonuses are equal to 10 + 1/2 the nosferatu's Hit Dice + the nosferatu's Cha modifier unless otherwise noted.
 
 **[[rangoric-srd/monsters/abilities/Blood Drain|Blood Drain]] (Ex)**: A nosferatu can suck blood from a [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]], willing, or grappled living victim with its fangs by making a successful grapple check. If it pins the foe, it drains blood, draining 1d4 points of Constitution and Wisdom each round the pin is maintained. On each round it drains blood, the nosferatu gains 5 temporary hit points that last for 1 hour (up to a maximum number of temporary hit points equal to its full normal hit points).
 
-**Dominate (Su)**: A nosferatu can crush a humanoid opponent's will as a standard action. Anyone the nosferatu targets must succeed at a Will save or fall instantly under the nosferatu's influence, as though by a _[[rangoric-srd/spells/Dominate Person|dominate person]]_ spell (caster level 12th). This ability has a range of 30 feet. At the GM's discretion, some nosferatu (such as a very old one or with an unusually strong bloodline) might be able to affect different creature types with this power. ^dominate
+**Dominate (Su)**: A nosferatu can crush a humanoid opponent's will as a standard action. The nosferatu attacks the Will of anyone it targets, and on a hit the target falls instantly under the nosferatu's influence, as though by a _[[rangoric-srd/spells/Dominate Person|dominate person]]_ spell (caster level 12th). This ability has a range of 30 feet. At the GM's discretion, some nosferatu (such as a very old one or with an unusually strong bloodline) might be able to affect different creature types with this power. ^dominate
 
 **[[rangoric-srd/monsters/abilities/Telekinesis|Telekinesis]] (Su)**: As a standard action, a nosferatu can use _[[rangoric-srd/spells/Telekinesis|telekinesis]]_ (caster level 12th).
 

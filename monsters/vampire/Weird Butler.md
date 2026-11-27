@@ -16,7 +16,7 @@ full-attack: "Masterwork dagger +3 melee (1d3–2/19–20); or dagger +7 ranged 
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., oracle's curse (clouded vision), revelations (bleeding wounds, death's touch)"
-saves: "Fort +3, Ref +5, Will +5 (+2 vs. fear)"
+defenses: "Fort 13, Ref 15, Will 15 (+2 vs. fear)"
 abilities: "Str 6, Dex 16, Con 12, Int 13, Wis 10, Cha 18"
 skills: "Acrobatics +4, Athletics –1, Deception +12, Intimidation +12, Perception +7, Persuasion +12, Society +6, Theology +9"
 skill-ranks: "Acrobatics 1, Athletics 1, Deception 5, Intimidation 5, Perception 4, Persuasion 5, Society 2, Theology 5"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., oracle's [[rangoric-srd/monsters/abilities/Curse|curse]] (clouded vision), [[rangoric-srd/classes/Oracle#^oracle-revelation|revelations]] ([[rangoric-srd/class-options/revelations/Bleeding Wounds (Revelation)|bleeding wounds]], [[rangoric-srd/class-options/revelations/Death's Touch (Revelation)|death's touch]])
-- **Saves**: Fort +3, Ref +5, Will +5 (+2 vs. fear)
+- **Defenses**: Fort 13, Ref 15, Will 15 (+2 vs. fear)
 - **Abilities**: Str 6, Dex 16, Con 12, Int 13, Wis 10, Cha 18
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +4, [[rangoric-srd/skills/Athletics|Athletics]] –1, [[rangoric-srd/skills/Deception|Deception]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Persuasion|Persuasion]] +12, [[rangoric-srd/skills/Society|Society]] +6, [[rangoric-srd/skills/Theology|Theology]] +9
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lucky Halfling|Lucky Halfling]]
@@ -73,4 +73,4 @@ A weird butler speaks Abyssal, Common, and Halfling.
 
 ### Combat
 
-**Oracle spells known** (CL 5th; concentration +9): 2nd (5/day)—_[[rangoric-srd/spells/Desecrate|desecrate]]_, _[[rangoric-srd/spells/False Life|false life]]_, _[[rangoric-srd/spells/Hold Person|hold person]]_ (DC 16), _[[rangoric-srd/spells/Inflict Moderate Wounds|inflict moderate wounds]]_ (DC 16); 1st (7/day)—_[[rangoric-srd/spells/Cause Fear|cause fear]]_ (DC 15), _[[rangoric-srd/spells/Compel Hostility|compel hostility]]_ (DC 15), _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, _[[rangoric-srd/spells/Inflict Light Wounds|inflict light wounds]]_ (DC 15), _[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]_, _[[rangoric-srd/spells/Shield of Faith|shield of faith]]_; 0 (at will)—_[[rangoric-srd/spells/Bleed|bleed]]_ (DC 14), _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Mending|mending]]_, _[[rangoric-srd/spells/Resistance|resistance]]_, _[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]_, _[[rangoric-srd/spells/Virtue|virtue]]_; **Mystery**: [[rangoric-srd/class-options/mysteries/Bones Mystery|bones]].
+**Oracle spells known** (CL 5th; concentration +9): 2nd (5/day)—_[[rangoric-srd/spells/Desecrate|desecrate]]_, _[[rangoric-srd/spells/False Life|false life]]_, _[[rangoric-srd/spells/Hold Person|hold person]]_ (+6 vs Will), _[[rangoric-srd/spells/Inflict Moderate Wounds|inflict moderate wounds]]_ (+6 vs Will); 1st (7/day)—_[[rangoric-srd/spells/Cause Fear|cause fear]]_ (+5 vs Will), _[[rangoric-srd/spells/Compel Hostility|compel hostility]]_ (+5), _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, _[[rangoric-srd/spells/Inflict Light Wounds|inflict light wounds]]_ (+5 vs Will), _[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]_, _[[rangoric-srd/spells/Shield of Faith|shield of faith]]_; 0 (at will)—_[[rangoric-srd/spells/Bleed|bleed]]_ (+4 vs Will), _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Mending|mending]]_, _[[rangoric-srd/spells/Resistance|resistance]]_, _[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]_, _[[rangoric-srd/spells/Virtue|virtue]]_; **Mystery**: [[rangoric-srd/class-options/mysteries/Bones Mystery|bones]].

@@ -14,9 +14,9 @@ cmd: "24"
 attack: "Slam +8 melee (1d4+4 plus energy drain)"
 full-attack: "Slam +8 melee (1d4+4 plus energy drain)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Blood drain, children of the night, create spawn, dominate (DC 22), energy drain (2 levels, DC 22)"
+special-attacks: "Blood drain, children of the night, create spawn, dominate (+12 vs Will), energy drain (2 levels, +12 vs Fortitude)"
 special-qualities: "Darkvision 60 ft., fast healing 5, channel resistance +4, change shape (dire bat or wolf, beast shape II), gaseous form, shadowless, spider climb, damage reduction 10/magic and silver, undead traits, resistance to cold 10 and electricity 10, vampire weaknesses"
-saves: "Fort +13, Ref +11, Will +12"
+defenses: "Fort 23, Ref 21, Will 22"
 abilities: "Str 16, Dex 18, Con —, Int 14, Wis 16, Cha 26"
 skills: "Arcana +13, Deception +27, Emulation +19, Mysticism +13, Perception +22, Sense Motive +11, Stealth +12, Theology +10"
 skill-ranks: "Arcana 8, Deception 8, Emulation 8, Mysticism 8, Perception 7, Sense Motive 2, Stealth 0, Theology 5"
@@ -61,9 +61,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Slam +8 melee (1d4+4 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]])
 - **Full Attack**: Slam +8 melee (1d4+4 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]])
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]], [[rangoric-srd/monsters/vampire/Alternate Vampire#^children-of-the-night|children of the night]], [[rangoric-srd/monsters/abilities/Create Spawn|create spawn]], [[rangoric-srd/monsters/vampire/Alternate Vampire#^dominate|dominate]] (DC 22), [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] (2 levels, DC 22)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]], [[rangoric-srd/monsters/vampire/Alternate Vampire#^children-of-the-night|children of the night]], [[rangoric-srd/monsters/abilities/Create Spawn|create spawn]], [[rangoric-srd/monsters/vampire/Alternate Vampire#^dominate|dominate]] (+12 vs Will), [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] (2 levels, +12 vs Fortitude)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (dire bat or wolf, beast shape II), [[rangoric-srd/monsters/vampire/Alternate Vampire#^gaseous-form|gaseous form]], [[rangoric-srd/monsters/vampire/Alternate Vampire#^shadowless|shadowless]], [[rangoric-srd/monsters/vampire/Alternate Vampire#^spider-climb|spider climb]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic and silver, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and electricity 10, [[rangoric-srd/monsters/vampire/Alternate Vampire#^weaknesses|vampire weaknesses]]
-- **Saves**: Fort +13, Ref +11, Will +12
+- **Defenses**: Fort 23, Ref 21, Will 22
 - **Abilities**: Str 16, Dex 18, Con —, Int 14, Wis 16, Cha 26
 - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +13, [[rangoric-srd/skills/Deception|Deception]] +27, [[rangoric-srd/skills/Emulation|Emulation]] +19, [[rangoric-srd/skills/Mysticism|Mysticism]] +13, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +12, [[rangoric-srd/skills/Theology|Theology]] +10
 - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Extend Spell|Extend Spell]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Silent Spell|Silent Spell]], [[rangoric-srd/feats/Still Spell|Still Spell]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -87,7 +87,7 @@ Vampires are undead humanoid creatures that feed on the blood of the living. The
 
 **AL**: Any evil.
 
-**Type**: The creature's type changes to undead (augmented). Do not recalculate class Hit Dice, BAB, or saves.
+**Type**: The creature's type changes to undead (augmented). Do not recalculate class Hit Dice, BAB, or defenses.
 
 **Senses**: A vampire gains darkvision 60 ft.
 
@@ -97,7 +97,7 @@ Vampires are undead humanoid creatures that feed on the blood of the living. The
 
 **Defensive Abilities**: A vampire gains channel resistance +4, DR 10/magic and silver, and resistance to cold 10 and electricity 10, in addition to all of the defensive abilities granted by the undead type. A vampire also gains fast healing 5. If reduced to 0 hit points in combat, a vampire assumes gaseous form (see below) and attempts to escape. It must reach its coffin home within 2 hours or be utterly destroyed. (It can normally travel up to 9 miles in 2 hours.) Additional damage dealt to a vampire forced into gaseous form has no effect. Once at rest, the vampire is [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]]. It regains 1 hit point after 1 hour, then is no longer helpless and resumes healing at the rate of 5 hit points per round.
 
-**Weaknesses**: Vampires cannot tolerate the strong odor of garlic and will not enter an area laced with it. Similarly, they recoil from mirrors or strongly presented holy symbols. These things don't harm the vampire—they merely keep it at bay. A recoiling vampire must stay at least 5 feet away from the mirror or holy symbol and cannot touch or make melee attacks against that creature. Holding a vampire at bay takes a standard action. After 1 round, a vampire can overcome its revulsion of the object and function normally each round it makes a DC 25 Will save. ^weaknesses
+**Weaknesses**: Vampires cannot tolerate the strong odor of garlic and will not enter an area laced with it. Similarly, they recoil from mirrors or strongly presented holy symbols. These things don't harm the vampire—they merely keep it at bay. A recoiling vampire must stay at least 5 feet away from the mirror or holy symbol and cannot touch or make melee attacks against that creature. Holding a vampire at bay takes a standard action. After 1 round, a vampire can overcome its revulsion of the object and function normally each round it succeeds at a DC 25 Will check (1d20 + Will save bonus). ^weaknesses
 
 Vampires cannot enter a private home or dwelling unless invited in by someone with the authority to do so.
 
@@ -107,7 +107,7 @@ Reducing a vampire's hit points to 0 or lower incapacitates it but doesn't alway
 
 **Melee**: A vampire gains a slam attack if the base creature didn't have one. Damage for the slam depends on the vampire's size (see [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^natural-weapons|Natural Attacks by Size]]). Its slam also causes energy drain (see below). Its natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
 
-**Special Attacks (Su)**: A vampire gains several special attacks. Save DCs are equal to 10 + 1/2 vampire's HD + vampire's Cha modifier unless otherwise noted.
+**Special Attacks (Su)**: A vampire gains several special attacks. Attack bonuses are 1/2 vampire's HD + vampire's Cha modifier unless otherwise noted.
 
 **[[rangoric-srd/monsters/abilities/Blood Drain|Blood Drain]] (Su)**: A vampire can suck blood from a grappled opponent; if the vampire establishes or maintains a pin, it drains blood, dealing 1d4 points of Constitution damage. The vampire heals 5 hit points or gains 5 temporary hit points for 1 hour (up to a maximum number of temporary hit points equal to its full normal hit points) each round it drains blood.
 
@@ -115,7 +115,7 @@ Reducing a vampire's hit points to 0 or lower incapacitates it but doesn't alway
 
 **[[rangoric-srd/monsters/abilities/Create Spawn|Create Spawn]] (Su)**: A vampire can create spawn out of those it slays with blood drain or energy drain, provided that the slain creature is of the same creature type as the vampire's base creature type. The victim rises from death as a vampire in 1d4 days. This vampire is under the command of the vampire that created it, and remains enslaved until its master's destruction. A vampire may have enslaved spawn totaling no more than twice its own Hit Dice; any spawn it creates that would exceed this limit become free-willed undead. A vampire may free an enslaved spawn in order to enslave a new spawn, but once freed, a vampire or vampire spawn cannot be enslaved again.
 
-**Dominate (Su)**: A vampire can crush a humanoid opponent's will as a standard action. Anyone the vampire targets must succeed on a Will save or fall instantly under the vampire's influence, as though by a _[[rangoric-srd/spells/Dominate Person|dominate person]]_ spell (caster level 12th). The ability has a range of 30 feet. At the GM's discretion, some vampires might be able to affect different creature types with this power. ^dominate
+**Dominate (Su)**: A vampire can crush a humanoid opponent's will as a standard action. The vampire attacks the Will of anyone it targets, and on a hit the target falls instantly under the vampire's influence, as though by a _[[rangoric-srd/spells/Dominate Person|dominate person]]_ spell (caster level 12th). The ability has a range of 30 feet. At the GM's discretion, some vampires might be able to affect different creature types with this power. ^dominate
 
 **[[rangoric-srd/monsters/abilities/Energy Drain|Energy Drain]] (Su)**: A creature hit by a vampire's slam (or other natural weapon) gains two negative levels. This ability only triggers once per round, regardless of the number of attacks a vampire makes.
 
@@ -187,4 +187,4 @@ Mortals that vampires use often can take the [[rangoric-srd/monsters/vampire/Add
 
 ### Combat
 
-**Sorcerer spells known** (CL 8th, +8 ranged touch): 4th (5/day)—_[[rangoric-srd/spells/Invisibility, Greater|greater invisibility]]_; 3rd (5/day)—_[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Fireball|fireball]]_ (DC 21), _[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]_; 2nd (8/day)—_[[rangoric-srd/spells/False Life|false life]]_, _[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Scorching Ray|scorching ray]]_, _[[rangoric-srd/spells/Web|web]]_ (DC 20); 1st (8/day)—_[[rangoric-srd/spells/Burning Hands|burning hands]]_ (DC 19), _[[rangoric-srd/spells/Chill Touch|chill touch]]_ (DC 19), _[[rangoric-srd/spells/Disguise Self|disguise self]]_, _[[rangoric-srd/spells/Expeditious Retreat|expeditious retreat]]_, _[[rangoric-srd/spells/Mage Armor|mage armor]]_, _[[rangoric-srd/spells/Magic Missile|magic missile]]_; 0—_[[rangoric-srd/spells/Acid Splash|acid splash]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Mending|mending]]_, _[[rangoric-srd/spells/Message|message]]_, _[[rangoric-srd/spells/Open-Close|open/close]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_; **Bloodline**: [[rangoric-srd/class-options/bloodlines/Undead Bloodline|undead]].
+**Sorcerer spells known** (CL 8th, +8 ranged touch): 4th (5/day)—_[[rangoric-srd/spells/Invisibility, Greater|greater invisibility]]_; 3rd (5/day)—_[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Fireball|fireball]]_ (+11 vs Reflex), _[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]_; 2nd (8/day)—_[[rangoric-srd/spells/False Life|false life]]_, _[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Scorching Ray|scorching ray]]_, _[[rangoric-srd/spells/Web|web]]_ (+10 vs Reflex); 1st (8/day)—_[[rangoric-srd/spells/Burning Hands|burning hands]]_ (+9 vs Reflex), _[[rangoric-srd/spells/Chill Touch|chill touch]]_ (+9), _[[rangoric-srd/spells/Disguise Self|disguise self]]_, _[[rangoric-srd/spells/Expeditious Retreat|expeditious retreat]]_, _[[rangoric-srd/spells/Mage Armor|mage armor]]_, _[[rangoric-srd/spells/Magic Missile|magic missile]]_; 0—_[[rangoric-srd/spells/Acid Splash|acid splash]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Mending|mending]]_, _[[rangoric-srd/spells/Message|message]]_, _[[rangoric-srd/spells/Open-Close|open/close]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_; **Bloodline**: [[rangoric-srd/class-options/bloodlines/Undead Bloodline|undead]].

@@ -19,7 +19,7 @@ full-attack: "Bite +21 melee (4d8+7) and 3 claws +19 melee (1d6+3)"
 space-reach: "10 ft./10 ft."
 special-attacks: "—"
 special-qualities: "All-around vision, earth glide, damage reduction 5/bludgeoning, darkvision 60 ft., immunity to cold and fire, resistance to electricity 10, tremorsense 60 ft."
-saves: "Fort +13, Ref +9, Will +9"
+defenses: "Fort 23, Ref 19, Will 19"
 abilities: "Str 25, Dex 10, Con 19, Int 10, Wis 11, Cha 10"
 skills: "Fieldcraft +18 (+20 following tracks or underground), Intimidation +18, Dungeoneering +18, Perception +22, Investigation +22, Stealth +14"
 skill-ranks: "Dungeoneering 15, Fieldcraft 15, Intimidation 15, Investigation 15, Perception 15, Stealth 15"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: —
 - **Special Qualities**: All-around vision, earth glide, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/bludgeoning, darkvision 60 ft., immunity to cold and fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|resistance to electricity]] 10, [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft.
-- **Saves**: Fort +13, Ref +9, Will +9
+- **Defenses**: Fort 23, Ref 19, Will 19
 - **Abilities**: Str 25, Dex 10, Con 19, Int 10, Wis 11, Cha 10
 - **Skills**: [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +18, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +18 (+20 following tracks or underground), [[rangoric-srd/skills/Intimidation|Intimidation]] +18, [[rangoric-srd/skills/Investigation|Investigation]] +22, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Stealth|Stealth]] +14
 - **Unspent Skill Points**: 30

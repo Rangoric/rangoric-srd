@@ -21,7 +21,7 @@ Vampires speak any languages they knew in life.
 
 A vampire uses all the base creature’s statistics and special abilities except as noted here.
 
-**Size and Type**: The creature’s type changes to [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead]] (augmented humanoid or monstrous humanoid). Do not recalculate base attack bonus, saves, or skill points. Size is unchanged.
+**Size and Type**: The creature’s type changes to [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead]] (augmented humanoid or monstrous humanoid). Do not recalculate base attack bonus, defenses, or skill points. Size is unchanged.
 
 **Hit Dice**: Increase all current and future Hit Dice to d12s.
 
@@ -47,13 +47,13 @@ A vampire uses all the base creature’s statistics and special abilities except
 | Gargantuan | 2d8    |
 | Colossal   | 4d6    |
 
-**Special Attacks**: A vampire retains all the special attacks of the base creature and gains those described below. Saves have a DC of 10 + 1/2 vampire’s HD + vampire’s Cha modifier unless noted otherwise.
+**Special Attacks**: A vampire retains all the special attacks of the base creature and gains those described below. Their attack bonus is 1/2 vampire’s HD + vampire’s Cha modifier unless noted otherwise.
 
 _Blood Drain (Ex)_: A vampire can suck blood from a living victim with its fangs by making a successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check. If it pins the foe, it drains blood, dealing 1d4 points of Constitution [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]] each round the pin is maintained. On each such successful attack, the vampire gains 5 temporary hit points.
 
 _Children of the Night (Su)_: Vampires command the lesser creatures of the world and once per day can call forth 1d6+1 [[rangoric-srd/monsters/swarm/Rat Swarm|rat swarms]], 1d4+1 [[rangoric-srd/monsters/swarm/Bat Swarm|bat swarms]], or a pack of 3d6 [[rangoric-srd/monsters/Wolf|wolves]] as a standard action. (If the base creature is not terrestrial, this power might summon other creatures of similar power.) These creatures arrive in 2d6 rounds and serve the vampire for up to 1 hour.
 
-_Dominate (Su)_: A vampire can crush an opponent’s will just by looking onto his or her eyes. This is similar to a [[rangoric-srd/monsters/abilities/Gaze|gaze]] attack, except that the vampire must use a standard action, and those merely looking at it are not affected. Anyone the vampire targets must succeed on a Will save or fall instantly under the vampire’s influence as though by a [[rangoric-srd/spells/Dominate Person|dominate person]] spell (caster level 12th). The ability has a range of 30 feet.
+_Dominate (Su)_: A vampire can crush an opponent’s will just by looking onto his or her eyes. This is similar to a [[rangoric-srd/monsters/abilities/Gaze|gaze]] attack, except that the vampire must use a standard action, and those merely looking at it are not affected. The vampire attacks the Will of anyone it targets, and on a hit the target falls instantly under the vampire’s influence as though by a [[rangoric-srd/spells/Dominate Person|dominate person]] spell (caster level 12th). The ability has a range of 30 feet.
 
 _Create Spawn (Su)_: A [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|humanoid]] or [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|monstrous humanoid]] slain by a vampire’s energy drain rises as a vampire spawn (see the [[rangoric-srd/monsters/vampire/Vampire Spawn|Vampire Spawn]] entry) 1d4 days after burial.
 

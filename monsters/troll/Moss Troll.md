@@ -16,7 +16,7 @@ full-attack: "Bite +5 melee (1d4+3) and 2 claws +5 melee (1d4+3)"
 space-reach: "10 ft./10 ft. (15 ft. with claws)"
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, regeneration 5 (fire), change shape (mossy tree; tree shape), tree climber, fear of fire, vulnerable to fire"
-saves: "Fort +7, Ref +5, Will +4"
+defenses: "Fort 17, Ref 15, Will 14"
 abilities: "Str 16, Dex 19, Con 16, Int 9, Wis 12, Cha 7"
 skills: "Acrobatics +7, Athletics +11, Intimidation +5, Perception +5, Stealth +5 (+9 in vegetation)"
 skill-ranks: "Acrobatics 1, Athletics 5, Intimidation 4, Perception 1, Stealth 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft. (15 ft. with claws)
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (fire), [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (mossy tree; tree shape), [[rangoric-srd/monsters/abilities/Tree Climber|tree climber]], [[rangoric-srd/monsters/abilities/Fear of Fire|fear of fire]], vulnerable to fire
-- **Saves**: Fort +7, Ref +5, Will +4
+- **Defenses**: Fort 17, Ref 15, Will 14
 - **Abilities**: Str 16, Dex 19, Con 16, Int 9, Wis 12, Cha 7
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +5 (+9 in vegetation)
 - **Feats**: [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Iron Will|Iron Will]]

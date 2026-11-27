@@ -14,9 +14,9 @@ cmd: "24 (26 vs. bull rush)"
 attack: "+1 bite +16 melee (1d4+7) or +1 claw +16 melee (1d6+7) or javelin +10 ranged (1d6+6)"
 full-attack: "+1 bite +16 melee (1d4+7) and 2 +1 claws +16 melee (1d6+7); or javelin +10 ranged (1d6+6)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Rage (21 rounds/day), rage powers (intimidating glare, knockback, strength surge +8, terrifying howl [DC 20])"
-special-qualities: "Darkvision 90 ft., stench (30 ft., DC 16, 10 rounds), improved savage grapple, fast movement, damage reduction 1/—"
-saves: "Fort +15, Ref +4, Will +8"
+special-attacks: "Rage (21 rounds/day), rage powers (intimidating glare, knockback, strength surge +8, terrifying howl [+10 vs Will])"
+special-qualities: "Darkvision 90 ft., stench (30 ft., +6 vs Fortitude, 10 rounds), improved savage grapple, fast movement, damage reduction 1/—"
+defenses: "Fort 25, Ref 14, Will 18"
 abilities: "Str 22, Dex 13, Con 20, Int 8, Wis 13, Cha 9"
 skills: "Acrobatics +7, Athletics +6 (+10 jumping), Intimidation +12, Medicine +7, Perception +14, Stealth +5 (+9 in rocky areas)"
 skill-ranks: "Acrobatics 3, Athletics 0, Intimidation 10, Medicine 3, Perception 10, Stealth 0"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: +1 bite +16 melee (1d4+7) or +1 claw +16 melee (1d6+7) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +10 ranged (1d6+6)
 - **Full Attack**: +1 bite +16 melee (1d4+7) and 2 +1 claws +16 melee (1d6+7); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +10 ranged (1d6+6)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (21 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/Intimidating Glare (Rage Power)|intimidating glare]], [[rangoric-srd/class-options/rage-powers/Knockback (Rage Power)|knockback]], [[rangoric-srd/class-options/rage-powers/Strength Surge (Rage Power)|strength surge]] +8, [[rangoric-srd/class-options/rage-powers/Terrifying Howl (Rage Power)|terrifying howl]] \[DC 20\])
-- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 90 ft., [[rangoric-srd/monsters/abilities/Stench|stench]] (30 ft., DC 16, 10 rounds), [[rangoric-srd/class-options/archetypes/barbarian/Brutal Pugilist (Archetype)|improved savage grapple]], [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 1/—
-- **Saves**: Fort +15, Ref +4, Will +8
+- **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (21 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/Intimidating Glare (Rage Power)|intimidating glare]], [[rangoric-srd/class-options/rage-powers/Knockback (Rage Power)|knockback]], [[rangoric-srd/class-options/rage-powers/Strength Surge (Rage Power)|strength surge]] +8, [[rangoric-srd/class-options/rage-powers/Terrifying Howl (Rage Power)|terrifying howl]] \[+10 vs Will\])
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 90 ft., [[rangoric-srd/monsters/abilities/Stench|stench]] (30 ft., +6 vs Fortitude, 10 rounds), [[rangoric-srd/class-options/archetypes/barbarian/Brutal Pugilist (Archetype)|improved savage grapple]], [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 1/—
+- **Defenses**: Fort 25, Ref 14, Will 18
 - **Abilities**: Str 22, Dex 13, Con 20, Int 8, Wis 13, Cha 9
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +6 (+10 jumping), [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Medicine|Medicine]] +7, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +5 (+9 in rocky areas)
 - **Feats**: [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Natural Attack|Improved Natural Attack]] (claws), [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]]

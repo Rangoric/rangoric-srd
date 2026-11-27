@@ -16,7 +16,7 @@ full-attack: "Bite +15 melee (1d8+8) and 2 claws +15 melee (1d6+8)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Rend (2 claws, 1d6+10)"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, regeneration 5 (acid or fire), bravery +1, armor training 1"
-saves: "Fort +17, Ref +7, Will +4 (+1 vs. fear)"
+defenses: "Fort 27, Ref 17, Will 14 (+1 vs. fear)"
 abilities: "Str 25, Dex 16, Con 27, Int 4, Wis 11, Cha 6"
 skills: "Intimidation +5, Perception +5"
 skill-ranks: "Intimidation 4, Perception 2"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rend|Rend]] (2 claws, 1d6+10)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (acid or fire), [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +1, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1
-- **Saves**: Fort +17, Ref +7, Will +4 (+1 vs. fear)
+- **Defenses**: Fort 27, Ref 17, Will 14 (+1 vs. fear)
 - **Abilities**: Str 25, Dex 16, Con 27, Int 4, Wis 11, Cha 6
 - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Perception|Perception]] +5
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Cooperative Rend|Cooperative Rend]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Great Rend|Great Rend]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)

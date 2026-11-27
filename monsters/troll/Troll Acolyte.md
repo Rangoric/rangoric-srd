@@ -14,9 +14,9 @@ cmd: "23"
 attack: "Bite +9 melee (1d8+5) or claw +10 melee (1d6+5)"
 full-attack: "Bite +9 melee (1d8+5) and 2 claws +10 melee (1d6+5)"
 space-reach: "10 ft./10 ft."
-special-attacks: "Channel negative energy 3/day (DC 11, 1d6), destructive smite (+1, 4/day), rend (2 claws, 1d6+7), rebuke undead, smite (+4, +2 damage, 1/day)"
+special-attacks: "Channel negative energy 3/day (+1 vs Will, 1d6), destructive smite (+1, 4/day), rend (2 claws, 1d6+7), rebuke undead, smite (+4, +2 damage, 1/day)"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, regeneration 5 (acid or fire)"
-saves: "Fort +15, Ref +3, Will +8"
+defenses: "Fort 25, Ref 13, Will 18"
 abilities: "Str 21, Dex 12, Con 25, Int 8, Wis 13, Cha 10"
 skills: "Intimidation +4, Perception +7"
 skill-ranks: "Intimidation 1, Perception 3"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +9 melee (1d8+5) or claw +10 melee (1d6+5)
 - **Full Attack**: Bite +9 melee (1d8+5) and 2 claws +10 melee (1d6+5)
 - **Space/Reach**: 10 ft./10 ft.
-- **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel negative energy]] 3/day (DC 11, 1d6), [[rangoric-srd/class-options/domains/Destruction Domain|destructive smite]] (+1, 4/day), [[rangoric-srd/monsters/abilities/Rend|rend]] (2 claws, 1d6+7), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]], [[rangoric-srd/class-options/domains/Destruction Domain|smite]] (+4, +2 damage, 1/day)
+- **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel negative energy]] 3/day (+1 vs Will, 1d6), [[rangoric-srd/class-options/domains/Destruction Domain|destructive smite]] (+1, 4/day), [[rangoric-srd/monsters/abilities/Rend|rend]] (2 claws, 1d6+7), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]], [[rangoric-srd/class-options/domains/Destruction Domain|smite]] (+4, +2 damage, 1/day)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (acid or fire)
-- **Saves**: Fort +15, Ref +3, Will +8
+- **Defenses**: Fort 25, Ref 13, Will 18
 - **Abilities**: Str 21, Dex 12, Con 25, Int 8, Wis 13, Cha 10
 - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +4, [[rangoric-srd/skills/Perception|Perception]] +7
 - **Feats**: [[rangoric-srd/feats/Channel Smite|Channel Smite]], [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
@@ -77,4 +77,4 @@ A troll acolyte speaks Giant.
 
 **Domain Spell-Like Abilities** (CL 2nd; concentration +3): 4/day—[[rangoric-srd/class-options/domains/Weather Domain|storm burst]] (1d6+1 nonlethal).
 
-**Cleric spells prepared** (CL 2nd; concentration +3): 1st—_[[rangoric-srd/spells/Bless|bless]]_, _[[rangoric-srd/spells/Divine Favor|divine favor]]_, _[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]_ <sup>D</sup>, _[[rangoric-srd/spells/Sun Metal|sun metal]]_; 0 (at will)—_[[rangoric-srd/spells/Bleed|bleed]]_ (DC 11), _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Resistance|resistance]]_, _[[rangoric-srd/spells/Spark|spark]]_; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Destruction Domain|Destruction]], [[rangoric-srd/class-options/domains/Weather Domain|Weather]].
+**Cleric spells prepared** (CL 2nd; concentration +3): 1st—_[[rangoric-srd/spells/Bless|bless]]_, _[[rangoric-srd/spells/Divine Favor|divine favor]]_, _[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]_ <sup>D</sup>, _[[rangoric-srd/spells/Sun Metal|sun metal]]_; 0 (at will)—_[[rangoric-srd/spells/Bleed|bleed]]_ (+1 vs Will), _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Resistance|resistance]]_, _[[rangoric-srd/spells/Spark|spark]]_; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Destruction Domain|Destruction]], [[rangoric-srd/class-options/domains/Weather Domain|Weather]].

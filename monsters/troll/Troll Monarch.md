@@ -16,7 +16,7 @@ full-attack: "Bite +25 melee (1d8+11) and 2 claws +25 melee (1d6+13/19–20)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Rend (2 claws, 1d6+17), weapon training (natural +2, thrown +1)"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, regeneration 5 (acid or fire), bravery +3, armor training 2"
-saves: "Fort +20, Ref +8, Will +6 (+3 vs. fear)"
+defenses: "Fort 30, Ref 18, Will 16 (+3 vs. fear)"
 abilities: "Str 29, Dex 12, Con 27, Int 8, Wis 9, Cha 10"
 skills: "Intimidation +18, Perception +9"
 skill-ranks: "Intimidation 15, Perception 7"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rend|Rend]] (2 claws, 1d6+17), [[rangoric-srd/classes/Fighter#^fighter-weapon-training|weapon training]] (natural +2, thrown +1)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (acid or fire), [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +3, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 2
-- **Saves**: Fort +20, Ref +8, Will +6 (+3 vs. fear)
+- **Defenses**: Fort 30, Ref 18, Will 16 (+3 vs. fear)
 - **Abilities**: Str 29, Dex 12, Con 27, Int 8, Wis 9, Cha 10
 - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +18, [[rangoric-srd/skills/Perception|Perception]] +9
 - **Feats**: [[rangoric-srd/feats/Bleeding Critical|Bleeding Critical]], [[rangoric-srd/feats/Cooperative Rend|Cooperative Rend]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Great Rend|Great Rend]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claws), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mighty Bite|Mighty Bite]], [[rangoric-srd/feats/Throw Anything|Throw Anything]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)

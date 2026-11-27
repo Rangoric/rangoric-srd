@@ -16,7 +16,7 @@ full-attack: "Bite +12 melee (1d8+6) and 2 claws +12 melee (1d6+6)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Combat style (natural weapon), favored enemy (humans +2), rend (2 claws, 1d6+9)"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, regeneration 5 (acid or fire), track +1, wild empathy -1"
-saves: "Fort +17, Ref +10, Will +3"
+defenses: "Fort 27, Ref 20, Will 13"
 abilities: "Str 23, Dex 18, Con 27, Int 6, Wis 11, Cha 4"
 skills: "Fieldcraft +6, Intimidation +4, Perception +15"
 skill-ranks: "Fieldcraft 3, Intimidation 4, Perception 12"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-combat-style|Combat style]] (natural weapon), [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemy]] (humans +2), [[rangoric-srd/monsters/abilities/Rend|rend]] (2 claws, 1d6+9)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (acid or fire), [[rangoric-srd/classes/Ranger|track]] +1, [[rangoric-srd/classes/Ranger|wild empathy]] -1
-- **Saves**: Fort +17, Ref +10, Will +3
+- **Defenses**: Fort 27, Ref 20, Will 13
 - **Abilities**: Str 23, Dex 18, Con 27, Int 6, Wis 11, Cha 4
 - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Intimidation|Intimidation]] +4, [[rangoric-srd/skills/Perception|Perception]] +15
 - **Feats**: [[rangoric-srd/feats/Rending Claws|Rending Claws]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Sprinting Troll|Sprinting Troll]], [[rangoric-srd/feats/Track|Track]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)

@@ -16,7 +16,7 @@ full-attack: "Bite +3 melee (1d6+1) and 2 claws +3 melee (1d4+1)"
 space-reach: "5 ft./5 ft. (10 ft. with claws)"
 special-attacks: "Rend (2 claws, 1d6+1), sneak attack +1d6"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, regeneration 2 (acid or fire), compression, light blindness"
-saves: "Fort +5, Ref +3, Will +0"
+defenses: "Fort 15, Ref 13, Will 10"
 abilities: "Str 13, Dex 14, Con 15, Int 6, Wis 9, Cha 6"
 skills: "Athletics +9, Escape Artist +2, Perception +4, Stealth +6 (+9 underground)"
 skill-ranks: "Athletics 0, Escape Artist 2, Perception 2, Stealth 3"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft. (10 ft. with claws)
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rend|Rend]] (2 claws, 1d6+1), sneak attack +1d6
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 2 (acid or fire), [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]]
-- **Saves**: Fort +5, Ref +3, Will +0
+- **Defenses**: Fort 15, Ref 13, Will 10
 - **Abilities**: Str 13, Dex 14, Con 15, Int 6, Wis 9, Cha 6
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +2, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +6 (+9 underground)
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
