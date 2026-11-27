@@ -58,6 +58,6 @@ _Spell Level 9_: _[[rangoric-srd/spells/Shout, Greater|greater shout]]_, _[[rang
 
 Each chosen spell-like ability is available once per day.
 
-**Fated Guardian (Su)**: When conjured by a 4th-level or higher spell, a guardian spirit can protect the destiny of another creature within 30 feet as a standard action once per day. For 1 round, any time the creature makes an attack or attempts a saving throw, it rolls twice and takes the better result. ^fated-guardian
+**Fated Guardian (Su)**: When conjured by a 4th-level or higher spell, a guardian spirit can protect the destiny of another creature within 30 feet as a standard action once per day. For 1 round, any time the creature makes an attack, it rolls twice and takes the better result, and attacks against its defenses roll twice and use the lower result. ^fated-guardian
 
 **Co-Walker (Sp)**: When conjured by an 8th-level or higher spell, a guardian spirit can assume the shape of its ward as if with _[[rangoric-srd/spells/Alter Self|alter self]]_, except it can appear to be only the ward (even if the ward is not of a creature type or size that can normally be assumed with alter self) and it gains a +10 bonus on [[rangoric-srd/skills/Imitation|Imitation]] checks to appear to be the ward. ^co-walker

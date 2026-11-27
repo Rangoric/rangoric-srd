@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Solace, Greater
 
-Armors or shields with the _greater solace_ enchantment are similar to those with the standard _solace_ enchantment. In addition to all _solace_ powers, _greater solace_ items further boost the paladin’s healing abilities (adding 2d8 points to laying on hands effects), grant a +2 sacred bonus to saves, and upon the paladin’s death, immediately transport his soul to his deity’s realm, where he joins the ranks of the honored dead.
+Armors or shields with the _greater solace_ enchantment are similar to those with the standard _solace_ enchantment. In addition to all _solace_ powers, _greater solace_ items further boost the paladin’s healing abilities (adding 2d8 points to laying on hands effects), grant a +2 sacred bonus to defenses, and upon the paladin’s death, immediately transport his soul to his deity’s realm, where he joins the ranks of the honored dead.
 
 Strong enchantment; CL 15th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Consecrate|consecrate]]_, _[[rangoric-srd/spells/Heal (Spell)|heal]]_, _[[rangoric-srd/spells/Plane Shift|plane shift]]_; Price +4 bonus.
