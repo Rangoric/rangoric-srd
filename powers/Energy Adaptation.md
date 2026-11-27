@@ -3,7 +3,7 @@ srd-type: "power"
 section: "Psionic Powers"
 discipline: "Psychometabolism"
 descriptor:
-  - "see text"
+  - "See text"
 level:
   - "Psion/wilder 4"
   - "psychic warrior 4"

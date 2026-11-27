@@ -4,7 +4,7 @@ section: "Psionic Powers"
 discipline: "Metacreativity"
 subdiscipline: "Creation"
 descriptor:
-  - "see text"
+  - "See text"
 level:
   - "Psion/wilder 3"
 display: "Auditory"
@@ -17,8 +17,8 @@ power-resistance: "No"
 power-points: "5"
 based-on:
   - "[[fantasy srd 3.5/powers/Energy Wall|Energy Wall (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

@@ -20,7 +20,7 @@ based-on:
 status: draft
 change: new
 pi-review: 2026-11-10
-tags: [rangoric, rangoric/spell]
+tags: [rangoric, rangoric/spell, evil]
 ---
 
 # Retribution

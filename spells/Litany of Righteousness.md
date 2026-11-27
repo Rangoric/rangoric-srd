@@ -4,7 +4,7 @@ section: "Spells"
 school: "Evocation"
 descriptor:
   - "Good"
-  - "Language-dependent"
+  - "Language-Dependent"
 level:
   - "Inq 3"
   - "Pal 2"
@@ -23,12 +23,12 @@ based-on:
 status: draft
 change: new
 pi-review: 2026-11-06
-tags: [rangoric, rangoric/spell]
+tags: [rangoric, rangoric/spell, good]
 ---
 
 # Litany of Righteousness
 
-_Evocation \[Good, Language-dependent\]_
+_Evocation \[Good, Language-Dependent\]_
 
 - **Level**: Inq 3, Pal 2
 - **Components**: V, S, DF

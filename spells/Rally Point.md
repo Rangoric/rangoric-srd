@@ -6,7 +6,7 @@ subschool: "Compulsion"
 descriptor:
   - "Emotion"
   - "Good"
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Pal 1"
 components:
@@ -24,12 +24,12 @@ based-on:
 status: draft
 change: new
 pi-review: 2026-11-06
-tags: [rangoric, rangoric/spell]
+tags: [rangoric, rangoric/spell, good]
 ---
 
 # Rally Point
 
-_Enchantment (Compulsion) \[Emotion, Good, Mind-affecting\]_
+_Enchantment (Compulsion) \[Emotion, Good, Mind-Affecting\]_
 
 - **Level**: Pal 1
 - **Components**: V, S, DF

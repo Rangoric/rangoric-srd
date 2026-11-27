@@ -3,7 +3,7 @@ srd-type: "power"
 section: "Psionic Powers"
 discipline: "Psychometabolism"
 descriptor:
-  - "see text"
+  - "See text"
 level:
   - "Psion/wilder 7"
 display: "Mental"
@@ -16,8 +16,8 @@ power-resistance: "Yes"
 power-points: "13"
 based-on:
   - "[[fantasy srd 3.5/powers/Energy Conversion|Energy Conversion (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

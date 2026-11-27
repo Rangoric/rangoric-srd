@@ -3,7 +3,7 @@ srd-type: "power"
 section: "Psionic Powers"
 discipline: "Psychokinesis"
 descriptor:
-  - "see text"
+  - "See text"
 level:
   - "Psychic warrior 4"
 display: "Visual"
@@ -15,8 +15,8 @@ power-resistance: "None"
 power-points: "7"
 based-on:
   - "[[fantasy srd 3.5/powers/Weapon of Energy|Weapon of Energy (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---
