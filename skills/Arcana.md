@@ -1,7 +1,6 @@
 ---
 srd-type: "skill"
 section: "Skills"
-book: "Occult Adventures"
 key-ability: "Int"
 based-on:
   - "[[fantasy srd 3.5/skills/Knowledge|Knowledge (3.5)]]"

@@ -1,7 +1,6 @@
 ---
 srd-type: "trap"
 section: "Rules"
-book: "Monster Codex"
 cr: "3"
 trap-type: "mechanical"
 based-on:

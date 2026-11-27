@@ -1,7 +1,6 @@
 ---
 srd-type: "rules"
 section: "Rules"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/rules/There and Back Again|There and Back Again (Faeries)]]"
   - "[[individual books/Faeries/tables/Table 16 Fey Doorways|Table 16 Fey Doorways (Faeries)]]"

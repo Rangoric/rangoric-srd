@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Rules"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/rules/Rune Magic|Rune Magic (Spells & Magic)]]"
   - "[[individual books/Spells & Magic v3.0/rules/Casting Rune Spells|Casting Rune Spells (Spells & Magic)]]"

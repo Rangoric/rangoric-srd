@@ -8,7 +8,6 @@ fort: poor
 ref: poor
 will: good
 skill-points: "4 + Int modifier. (Does not include the human's bonus skill point at each level.)"
-book: "Unearthed Arcana"
 race: "[[rangoric-srd/races/Human|humans]]"
 based-on:
   - "[[fantasy srd 3.5/unearthed-arcana/Racial Paragon|Racial Paragon (3.5)]]"

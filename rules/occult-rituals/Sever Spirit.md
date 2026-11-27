@@ -7,7 +7,6 @@ descriptor:
   - "Evil"
 level: 6
 casting-time: "60 minutes"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/occult-rituals/Sever Spirit (Occult Ritual)|Sever Spirit (PF1 Foundry)]]"
 status: draft

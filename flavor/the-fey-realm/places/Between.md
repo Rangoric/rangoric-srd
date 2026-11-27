@@ -1,7 +1,6 @@
 ---
 srd-type: "flavor"
 place-kind: region
-page: 62
 based-on:
   - "[[individual books/Faeries/places/Between|Between (Faeries)]]"
 status: draft

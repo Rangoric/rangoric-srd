@@ -1,6 +1,5 @@
 ---
 srd-type: "flavor"
-page: 51
 based-on:
   - "[[individual books/Faeries/rules/Here, There, and Parts Between|Here, There, and Parts Between (Faeries)]]"
 status: draft

@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Rules"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/rules/Totem Magic|Totem Magic (Spells & Magic)]]"
   - "[[individual books/Spells & Magic v3.0/rules/Totems|Totems (Spells & Magic)]]"

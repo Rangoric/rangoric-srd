@@ -7,7 +7,6 @@ fort: poor
 ref: good
 will: poor
 skill-points: "6 + Int modifier"
-book: ["Unearthed Arcana", "Arms & Armor v3.5"]
 based-on:
   - "[[fantasy srd 3.5/unearthed-arcana/Legendary Weapons & Familiar Items#Swift Scion|Swift Scion (3.5)]]"
   - "[[individual books/Arms & Armor v3.5/prestige-classes/Swift Scions|Swift Scions (Arms & Armor)]]"

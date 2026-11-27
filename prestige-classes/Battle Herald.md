@@ -7,7 +7,6 @@ fort: good
 ref: poor
 will: good
 skill-points: "4 + Int modifier"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/classes/Battle Herald|Battle Herald (PF1)]]"
   - "[[path srd 3.5/rules/advanced-player-s-guide/prestige-classes/Prestige Classes (Prestige Classes)|Prestige Classes (PF1)]]"

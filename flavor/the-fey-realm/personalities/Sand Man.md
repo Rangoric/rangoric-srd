@@ -1,6 +1,5 @@
 ---
 srd-type: "flavor"
-page: 84
 based-on:
   - "[[individual books/Faeries/personalities/Sand Man|Sand Man (Faeries)]]"
 status: draft

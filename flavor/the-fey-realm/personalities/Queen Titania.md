@@ -1,6 +1,5 @@
 ---
 srd-type: "flavor"
-page: 74
 based-on:
   - "[[individual books/Faeries/personalities/Queen Titania|Queen Titania (Faeries)]]"
 status: draft

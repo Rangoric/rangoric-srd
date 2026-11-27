@@ -2,7 +2,6 @@
 srd-type: "flavor"
 place-kind: site
 region: "[[rangoric-srd/flavor/the-fey-realm/places/Between|Between]]"
-page: 64
 based-on:
   - "[[individual books/Faeries/places/The Goblin Warrens|The Goblin Warrens (Faeries)]]"
 status: draft

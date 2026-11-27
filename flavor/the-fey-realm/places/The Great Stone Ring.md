@@ -2,7 +2,6 @@
 srd-type: "flavor"
 place-kind: site
 region: "[[rangoric-srd/flavor/the-fey-realm/places/The Twilight Lands|The Twilight Lands]]"
-page: 86
 based-on:
   - "[[individual books/Faeries/places/The Great Stone Ring|The Great Stone Ring (Faeries)]]"
 status: draft

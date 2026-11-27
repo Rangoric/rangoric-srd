@@ -2,7 +2,6 @@
 srd-type: "flavor"
 place-kind: site
 region: "[[rangoric-srd/flavor/the-fey-realm/places/Land of Eternal Spring|Land of Eternal Spring]]"
-page: 76
 based-on:
   - "[[individual books/Faeries/places/Market|Market (Faeries)]]"
 status: draft

@@ -1,7 +1,6 @@
 ---
 srd-type: "skill"
 section: "Skills"
-book: "Occult Adventures"
 key-ability: "Wis"
 based-on:
   - "[[path srd 3.5/skills/Sense Motive|Sense Motive (PF1)]]"

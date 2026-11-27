@@ -7,7 +7,6 @@ fort: poor
 ref: poor
 will: good
 skill-points: "2 + Int modifier"
-book: ["Unearthed Arcana", "Arms & Armor v3.5"]
 based-on:
   - "[[fantasy srd 3.5/unearthed-arcana/Legendary Weapons & Familiar Items#Spell Scion|Spell Scion (3.5)]]"
   - "[[individual books/Arms & Armor v3.5/prestige-classes/Spell Scions|Spell Scions (Arms & Armor)]]"

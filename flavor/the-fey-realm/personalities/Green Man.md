@@ -1,6 +1,5 @@
 ---
 srd-type: "flavor"
-page: 60
 wanderer: true
 based-on:
   - "[[individual books/Faeries/personalities/Green Man|Green Man (Faeries)]]"

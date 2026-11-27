@@ -7,7 +7,6 @@ fort: good
 ref: good
 will: good
 skill-points: "4 + Int modifier"
-book: "Alchemy & Herbalists"
 based-on:
   - "[[individual books/Alchemy & Herbalists v3.5/prestige-classes/Tarastan Herbalist|Tarastan Herbalist (Alchemy & Herbalists)]]"
   - "[[individual books/Alchemy & Herbalists v3.5/tables/Table 4 The Tarastan Herbalist|Table 4 The Tarastan Herbalist (Alchemy & Herbalists)]]"

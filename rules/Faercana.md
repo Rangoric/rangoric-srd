@@ -1,7 +1,6 @@
 ---
 srd-type: "rules"
 section: "Rules"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/rules/Faercana|Faercana (Faeries)]]"
   - "[[individual books/Faeries/tables/Table 17 Magic Sand Wild Characteristics|Table 17 Magic Sand Wild Characteristics (Faeries)]]"

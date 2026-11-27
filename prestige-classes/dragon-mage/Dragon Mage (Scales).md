@@ -7,7 +7,6 @@ fort: good
 ref: good
 will: good
 skill-points: "3 + Int modifier"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/prestige-classes/Dragon Mage|Dragon Mage (Spells & Magic)]]"
   - "[[individual books/Spells & Magic v3.0/tables/Table 4 The Dragon Mage (Scales)|Table 4 The Dragon Mage (Scales) (Spells & Magic)]]"

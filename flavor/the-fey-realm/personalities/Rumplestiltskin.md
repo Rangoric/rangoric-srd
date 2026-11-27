@@ -1,6 +1,5 @@
 ---
 srd-type: "flavor"
-page: 61
 wanderer: true
 based-on:
   - "[[individual books/Faeries/personalities/Rumplestiltskin|Rumplestiltskin (Faeries)]]"

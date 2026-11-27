@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "rune"
 class: "Rune Caster"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/runes/Jera|Jera (Spells & Magic)]]"
   - "[[individual books/Spells & Magic v3.0/tables/Table p48 (4)|Table p48 (4) (Spells & Magic)]]"

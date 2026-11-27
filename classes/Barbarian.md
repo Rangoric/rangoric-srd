@@ -8,7 +8,6 @@ fort: good
 ref: poor
 will: poor
 skill-points: "4 + Int modifier"
-book: ["Core Rulebook", "Pathfinder Unchained", "Advanced Player's Guide", "Ultimate Combat"]
 based-on:
   - "[[path srd 3.5/classes/Barbarian|Barbarian (PF1)]]"
   - "[[fantasy srd 3.5/classes/Barbarian|Barbarian (3.5)]]"

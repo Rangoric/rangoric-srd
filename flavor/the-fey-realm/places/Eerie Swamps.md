@@ -1,7 +1,6 @@
 ---
 srd-type: "flavor"
 place-kind: region
-page: 67
 based-on:
   - "[[individual books/Faeries/places/Eerie Swamps|Eerie Swamps (Faeries)]]"
 status: draft

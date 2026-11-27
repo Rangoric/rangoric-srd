@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "rune"
 class: "Rune Caster"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/runes/Laguz|Laguz (Spells & Magic)]]"
   - "[[individual books/Spells & Magic v3.0/tables/Table p48 (6)|Table p48 (6) (Spells & Magic)]]"

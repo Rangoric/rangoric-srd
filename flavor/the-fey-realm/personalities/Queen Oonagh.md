@@ -1,6 +1,5 @@
 ---
 srd-type: "flavor"
-page: 73
 based-on:
   - "[[individual books/Faeries/personalities/Queen Oonagh|Queen Oonagh (Faeries)]]"
 status: draft

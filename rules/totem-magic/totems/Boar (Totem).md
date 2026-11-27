@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "totem"
 class: "Totem Mage"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/totems/Boar|Boar (Spells & Magic)]]"
 status: draft

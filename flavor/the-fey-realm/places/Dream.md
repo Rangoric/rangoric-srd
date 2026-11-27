@@ -2,7 +2,6 @@
 srd-type: "flavor"
 place-kind: site
 region: "[[rangoric-srd/flavor/the-fey-realm/places/Sands of Time|Sands of Time]]"
-page: 85
 based-on:
   - "[[individual books/Faeries/places/Dream|Dream (Faeries)]]"
 status: draft

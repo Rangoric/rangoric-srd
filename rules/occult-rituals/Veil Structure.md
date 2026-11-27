@@ -5,7 +5,6 @@ school: "Illusion"
 subschool: "Glamer"
 level: 8
 casting-time: "80 minutes"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/occult-rituals/Veil Structure (Occult Ritual)|Veil Structure (PF1 Foundry)]]"
 status: draft

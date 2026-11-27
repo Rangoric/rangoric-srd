@@ -1,6 +1,5 @@
 ---
 srd-type: "flavor"
-page: 79
 based-on:
   - "[[individual books/Faeries/personalities/Jack Frost|Jack Frost (Faeries)]]"
 status: draft

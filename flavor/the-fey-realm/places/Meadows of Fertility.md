@@ -1,7 +1,6 @@
 ---
 srd-type: "flavor"
 place-kind: region
-page: 81
 based-on:
   - "[[individual books/Faeries/places/Meadows of Fertility|Meadows of Fertility (Faeries)]]"
 status: draft

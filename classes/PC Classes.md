@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Classes"
-book: "Unearthed Arcana"
 based-on:
   - "[[fantasy srd 3.5/classes/PC Classes|PC Classes (3.5)]]"
 status: draft

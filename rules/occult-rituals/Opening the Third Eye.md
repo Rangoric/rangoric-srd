@@ -4,7 +4,6 @@ section: "Occult Rituals"
 school: "Transmutation"
 level: 5
 casting-time: "50 minutes"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/occult-rituals/Opening the Third Eye (Occult Ritual)|Opening the Third Eye (PF1 Foundry)]]"
 status: draft

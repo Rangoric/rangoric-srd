@@ -1,7 +1,6 @@
 ---
 srd-type: "flavor"
 place-kind: region
-page: 64
 based-on:
   - "[[individual books/Faeries/places/Big Rock Mountains|Big Rock Mountains (Faeries)]]"
 status: draft

@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Rules"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/rules/The Path of Shades|The Path of Shades (Spells & Magic)]]"
   - "[[individual books/Spells & Magic v3.0/rules/The Gray Road|The Gray Road (Spells & Magic)]]"

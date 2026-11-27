@@ -7,7 +7,6 @@ fort: good
 ref: poor
 will: good
 skill-points: "4 + Int modifier"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/classes/Rage Prophet|Rage Prophet (PF1)]]"
 status: draft

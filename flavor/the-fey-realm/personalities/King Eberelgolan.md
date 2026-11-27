@@ -1,6 +1,5 @@
 ---
 srd-type: "flavor"
-page: 70
 based-on:
   - "[[individual books/Faeries/personalities/King Eberelgolan|King Eberelgolan (Faeries)]]"
 status: draft

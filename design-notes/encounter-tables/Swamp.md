@@ -1,7 +1,6 @@
 ---
 srd-type: "designer-reference"
 section: "Design Notes"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/rules/bestiary/encounter-tables/Swamp|Swamp (PF1)]]"
 status: draft

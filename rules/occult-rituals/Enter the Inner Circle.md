@@ -4,7 +4,6 @@ section: "Occult Rituals"
 school: "Divination"
 level: 4
 casting-time: "40 minutes"
-book: "Villain Codex"
 based-on:
   - "[[path srd 3.5 foundry/occult-rituals/Enter the Inner Circle (Occult Ritual)|Enter the Inner Circle (PF1 Foundry)]]"
 status: draft

@@ -2,7 +2,6 @@
 srd-type: "flavor"
 place-kind: site
 region: "[[rangoric-srd/flavor/the-fey-realm/places/Faerie Woods|Faerie Woods]]"
-page: 69
 based-on:
   - "[[individual books/Faeries/places/Tree of Knowledge|Tree of Knowledge (Faeries)]]"
 status: draft

@@ -1,7 +1,6 @@
 ---
 srd-type: "skill"
 section: "Skills"
-book: "Occult Adventures"
 key-ability: "Int"
 trained-only: true
 based-on:

@@ -1,7 +1,6 @@
 ---
 srd-type: "skill"
 section: "Skills"
-book: "Occult Adventures"
 key-ability: "Int"
 based-on:
   - "[[path srd 3.5/rules/pathfinder-unchained/Skill Unlocks|Skill Unlocks (PF1 Unchained)]]"

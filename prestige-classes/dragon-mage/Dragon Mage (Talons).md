@@ -7,7 +7,6 @@ fort: good
 ref: poor
 will: poor
 skill-points: "3 + Int modifier"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/prestige-classes/Dragon Mage|Dragon Mage (Spells & Magic)]]"
   - "[[individual books/Spells & Magic v3.0/tables/Table 5 The Dragon Mage (Talon)|Table 5 The Dragon Mage (Talon) (Spells & Magic)]]"

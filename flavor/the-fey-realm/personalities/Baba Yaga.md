@@ -1,6 +1,5 @@
 ---
 srd-type: "flavor"
-page: 67
 based-on:
   - "[[individual books/Faeries/personalities/Baba Yaga|Baba Yaga (Faeries)]]"
 status: draft

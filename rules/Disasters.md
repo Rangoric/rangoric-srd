@@ -1,7 +1,6 @@
 ---
 srd-type: "rules"
 section: "Rules"
-book: "Game Mastery Guide"
 based-on:
   - "[[path srd 3.5/rules/game-mastery-guide/disasters/Disasters (Disasters)|Disasters (PF1)]]"
   - "[[path srd 3.5/rules/game-mastery-guide/disasters/Tsunamis|Tsunamis (PF1)]]"

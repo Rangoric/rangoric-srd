@@ -7,7 +7,6 @@ fort: good
 ref: poor
 will: good
 skill-points: "2 + Int modifier"
-book: ["Unearthed Arcana", "Arms & Armor v3.5"]
 based-on:
   - "[[fantasy srd 3.5/unearthed-arcana/Legendary Weapons & Familiar Items#Faith Scion|Faith Scion (3.5)]]"
   - "[[individual books/Arms & Armor v3.5/prestige-classes/Faith Scions|Faith Scions (Arms & Armor)]]"

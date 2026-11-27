@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "rune"
 class: "Rune Caster"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/runes/Teiwaz|Teiwaz (Spells & Magic)]]"
   - "[[individual books/Spells & Magic v3.0/tables/Table p51 (2)|Table p51 (2) (Spells & Magic)]]"

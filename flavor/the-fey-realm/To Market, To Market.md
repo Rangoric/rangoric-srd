@@ -1,6 +1,5 @@
 ---
 srd-type: "flavor"
-page: 78
 based-on:
   - "[[individual books/Faeries/places/“To Market, To Market…”|To Market, To Market (Faeries)]]"
 status: draft

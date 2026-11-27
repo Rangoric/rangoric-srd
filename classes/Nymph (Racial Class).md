@@ -8,7 +8,6 @@ fort: poor
 ref: good
 will: good
 progression: per-hit-die
-book: "Faeries"
 race: "[[rangoric-srd/races/Nymph|nymphs]]"
 based-on:
   - "[[individual books/Faeries/tables/Table 2 The Nymph Racial Class|Table 2 The Nymph Racial Class (Faeries)]]"

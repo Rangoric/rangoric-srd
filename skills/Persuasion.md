@@ -1,7 +1,6 @@
 ---
 srd-type: "skill"
 section: "Skills"
-book: "Occult Adventures"
 key-ability: "Cha"
 based-on:
   - "[[path srd 3.5/skills/Diplomacy|Diplomacy (PF1)]]"

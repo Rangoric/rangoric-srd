@@ -1,7 +1,6 @@
 ---
 srd-type: "trap"
 section: "Rules"
-book: "Bestiary"
 cr: "2"
 trap-type: "mechanical"
 based-on:

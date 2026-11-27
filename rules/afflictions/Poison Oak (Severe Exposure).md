@@ -1,7 +1,6 @@
 ---
 srd-type: "affliction"
 section: "Rules"
-book: "Game Mastery Guide"
 affliction-type: "poison"
 delivery: "contact or inhaled"
 attack: "+6 vs Fortitude"

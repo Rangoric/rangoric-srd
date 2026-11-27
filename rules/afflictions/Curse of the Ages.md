@@ -1,7 +1,6 @@
 ---
 srd-type: "affliction"
 section: "Rules"
-book: "Core Rulebook"
 affliction-type: "curse"
 attack: "+7 vs Will"
 attack-bonus: 7

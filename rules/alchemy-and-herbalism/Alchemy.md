@@ -1,7 +1,6 @@
 ---
 srd-type: "rule"
 section: "Rules"
-book: "Alchemy & Herbalists"
 based-on:
   - "[[source files/raw/individual books/Alchemy & Herbalists v3.5/01 Introduction|Chapter 1: Introduction (Alchemy & Herbalists)]]"
 status: draft

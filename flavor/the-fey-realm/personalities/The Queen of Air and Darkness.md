@@ -1,6 +1,5 @@
 ---
 srd-type: "flavor"
-page: 65
 based-on:
   - "[[individual books/Faeries/personalities/The Queen of Air and Darkness|The Queen of Air and Darkness (Faeries)]]"
 status: draft

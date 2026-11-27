@@ -7,7 +7,6 @@ descriptor:
   - "Mind-Affecting"
 level: 8
 casting-time: "80 minutes"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/occult-rituals/Return to Dormancy (Occult Ritual)|Return to Dormancy (PF1 Foundry)]]"
 status: draft

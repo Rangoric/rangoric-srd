@@ -6,7 +6,6 @@ descriptor:
   - "Evil"
 level: 9
 casting-time: "9 hours (only during the new moon)"
-book: "Bestiary 6"
 based-on:
   - "[[path srd 3.5 foundry/occult-rituals/Welcome the Blighted Soul (Occult Ritual)|Welcome the Blighted Soul (PF1 Foundry)]]"
 status: draft

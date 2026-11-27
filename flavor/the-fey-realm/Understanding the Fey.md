@@ -1,6 +1,5 @@
 ---
 srd-type: "flavor"
-page: 45
 based-on:
   - "[[individual books/Faeries/rules/Understanding the Fey A short treatise by Merle of Endswick|Understanding the Fey (Faeries)]]"
 status: draft

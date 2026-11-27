@@ -2,7 +2,6 @@
 srd-type: "flavor"
 place-kind: site
 region: "[[rangoric-srd/flavor/the-fey-realm/places/Between|Between]]"
-page: 83
 based-on:
   - "[[individual books/Faeries/places/The Maw|The Maw (Faeries)]]"
 status: draft

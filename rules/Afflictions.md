@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Rules"
-book: ["Core Rulebook", "Game Mastery Guide"]
 based-on:
   - "[[fantasy srd 3.5/rules/Special Abilities and Conditions|Special Abilities and Conditions (3.5)]]"
   - "[[path srd 3.5/rules/core-rulebook/glossary/Special Abilities|Special Abilities (PF1)]]"

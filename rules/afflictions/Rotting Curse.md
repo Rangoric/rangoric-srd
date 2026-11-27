@@ -1,7 +1,6 @@
 ---
 srd-type: "affliction"
 section: "Rules"
-book: "Bestiary 2"
 affliction-type: "curse"
 delivery: "injury"
 attack: "+16 vs Fortitude"

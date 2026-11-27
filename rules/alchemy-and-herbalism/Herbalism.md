@@ -1,7 +1,6 @@
 ---
 srd-type: "rule"
 section: "Rules"
-book: "Alchemy & Herbalists"
 based-on:
   - "[[source files/raw/individual books/Alchemy & Herbalists v3.5/03 Basics Of Herbalism|Chapter 3: Basics of Herbalism (Alchemy & Herbalists)]]"
   - "[[source files/raw/individual books/Alchemy & Herbalists v3.5/05 Herbal Catalog|Chapter 5: Herbal Catalog (Alchemy & Herbalists)]]"

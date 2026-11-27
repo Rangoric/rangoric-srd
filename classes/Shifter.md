@@ -8,7 +8,6 @@ fort: good
 ref: good
 will: poor
 skill-points: "4 + Int modifier"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/classes/Shifter|Shifter (PF1 Foundry)]]"
 status: draft

@@ -4,7 +4,6 @@ section: "Occult Rituals"
 school: "Abjuration"
 level: 4
 casting-time: "40 minutes"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/occult-rituals/Ritual Exorcism (Occult Ritual)|Ritual Exorcism (PF1 Foundry)]]"
 status: draft

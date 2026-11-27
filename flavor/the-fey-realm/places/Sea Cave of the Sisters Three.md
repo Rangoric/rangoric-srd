@@ -2,7 +2,6 @@
 srd-type: "flavor"
 place-kind: site
 region: "[[rangoric-srd/flavor/the-fey-realm/places/Cliffs of Madness|Cliffs of Madness]]"
-page: 66
 based-on:
   - "[[individual books/Faeries/places/Sea Cave of the Sisters Three|Sea Cave of the Sisters Three (Faeries)]]"
 status: draft

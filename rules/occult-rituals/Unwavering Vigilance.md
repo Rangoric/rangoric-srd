@@ -5,7 +5,6 @@ school: "Conjuration"
 subschool: "Teleportation"
 level: 8
 casting-time: "80 minutes"
-book: "Villain Codex"
 based-on:
   - "[[path srd 3.5 foundry/occult-rituals/Unwavering Vigilance (Occult Ritual)|Unwavering Vigilance (PF1 Foundry)]]"
 status: draft

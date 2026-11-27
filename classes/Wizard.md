@@ -8,7 +8,6 @@ fort: poor
 ref: poor
 will: good
 skill-points: "2 + Int modifier"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/classes/Wizard|Wizard (PF1)]]"
   - "[[fantasy srd 3.5/classes/Wizard|Wizard (3.5)]]"

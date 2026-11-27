@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Rules"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/rules/Dragon Magic|Dragon Magic (Spells & Magic)]]"
   - "[[individual books/Spells & Magic v3.0/rules/History and Nature of Dragon Magic|History and Nature of Dragon Magic (Spells & Magic)]]"

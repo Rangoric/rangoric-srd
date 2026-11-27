@@ -8,7 +8,6 @@ fort: poor
 ref: good
 will: poor
 skill-points: "8 + Int modifier"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/classes/Ninja|Ninja (PF1)]]"
 status: draft

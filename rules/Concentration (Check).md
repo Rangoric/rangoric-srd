@@ -1,7 +1,6 @@
 ---
 srd-type: "rule"
 section: "Rules"
-book: "Occult Adventures"
 based-on:
   - "[[fantasy srd 3.5/spells/Magic Overview|Magic Overview (3.5)]]"
   - "[[fantasy srd 3.5/psionics/Psionics|Psionics (3.5)]]"

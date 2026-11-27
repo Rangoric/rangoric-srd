@@ -1,7 +1,6 @@
 ---
 srd-type: "flavor"
 place-kind: region
-page: 82
 based-on:
   - "[[individual books/Faeries/places/Perilous Mountains|Perilous Mountains (Faeries)]]"
 status: draft

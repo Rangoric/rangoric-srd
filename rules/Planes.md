@@ -13,7 +13,6 @@ status: draft
 change: modified
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/overview]
-book: "Game Mastery Guide"
 ---
 
 ## Planes

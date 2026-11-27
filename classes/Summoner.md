@@ -8,7 +8,6 @@ fort: poor
 ref: poor
 will: good
 skill-points: "2 + Int modifier"
-book: ["Advanced Player's Guide", "Ultimate Magic"]
 based-on:
   - "[[path srd 3.5/classes/Summoner|Summoner (PF1)]]"
   - "[[path srd 3.5/rules/ultimate-magic/spellcasting-class-options/Summoner (Spellcasting Class Options)|Summoner, Ultimate Magic (PF1)]]"

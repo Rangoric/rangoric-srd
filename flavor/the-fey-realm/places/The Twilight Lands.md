@@ -1,7 +1,6 @@
 ---
 srd-type: "flavor"
 place-kind: region
-page: 86
 based-on:
   - "[[individual books/Faeries/places/The Twilight Lands|The Twilight Lands (Faeries)]]"
 status: draft

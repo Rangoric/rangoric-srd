@@ -8,7 +8,6 @@ fort: good
 ref: good
 will: poor
 skill-points: "4 + Int modifier"
-book: ["Advanced Player's Guide", "Ultimate Magic", "Ultimate Combat", "Advanced Class Guide", "Advanced Race Guide", "Monster Codex", "Ultimate Wilderness", "Villain Codex"]
 based-on:
   - "[[path srd 3.5/classes/Alchemist (Class)|Alchemist (PF1)]]"
   - "[[path srd 3.5 foundry/classes/Alchemist|Alchemist (PF1 Foundry)]]"

@@ -1,7 +1,6 @@
 ---
 srd-type: "flavor"
 place-kind: region
-page: 66
 based-on:
   - "[[individual books/Faeries/places/Cliffs of Madness|Cliffs of Madness (Faeries)]]"
 status: draft

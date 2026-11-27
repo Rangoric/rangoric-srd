@@ -24,7 +24,6 @@ What the notes in `classes` look like. The whole-SRD rules are in the [README](.
 | `will`         | yes      | `good`, `poor`           |
 | `skill-points` | no       | `text`                   |
 | `alignment`    | no       | `text`                   |
-| `book`         | no       |                          |
 | `race`         | no       | `text`                   |
 
 ## overview
@@ -33,7 +32,6 @@ What the notes in `classes` look like. The whole-SRD rules are in the [README](.
 | ---------- | -------- | ---------- |
 | `srd-type` | yes      | `overview` |
 | `section`  | yes      | `Classes`  |
-| `book`     | no       | `text`     |
 
 ## Failing notes
 

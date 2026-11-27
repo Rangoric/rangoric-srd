@@ -7,7 +7,6 @@ fort: poor
 ref: poor
 will: good
 skill-points: "4 + Int modifier"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/prestige-classes/Mage of the Circle|Mage of the Circle (Faeries)]]"
   - "[[individual books/Faeries/tables/Table 12 The Mage of the Circle|Table 12 The Mage of the Circle (Faeries)]]"

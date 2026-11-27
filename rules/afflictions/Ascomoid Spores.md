@@ -1,7 +1,6 @@
 ---
 srd-type: "affliction"
 section: "Rules"
-book: "Bestiary 3"
 affliction-type: "poison"
 delivery: "inhaled"
 attack: "+6 vs Fortitude"

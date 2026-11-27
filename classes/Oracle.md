@@ -8,7 +8,6 @@ fort: poor
 ref: poor
 will: good
 skill-points: "4 + Int modifier"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/classes/Oracle|Oracle (PF1)]]"
   - "[[path srd 3.5/rules/ultimate-magic/spellcasting-class-options/Oracle (Spellcasting Class Options)|Oracle, Ultimate Magic (PF1)]]"

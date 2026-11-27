@@ -1,7 +1,6 @@
 ---
 srd-type: "flavor"
 place-kind: region
-page: 74
 based-on:
   - "[[individual books/Faeries/places/Land of Eternal Spring|Land of Eternal Spring (Faeries)]]"
 status: draft

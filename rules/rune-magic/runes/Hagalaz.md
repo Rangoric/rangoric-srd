@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "rune"
 class: "Rune Caster"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/runes/Hagalaz|Hagalaz (Spells & Magic)]]"
   - "[[individual books/Spells & Magic v3.0/tables/Table p48|Table p48 (Spells & Magic)]]"

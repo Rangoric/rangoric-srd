@@ -1,7 +1,6 @@
 ---
 srd-type: "affliction"
 section: "Rules"
-book: "Core Rulebook"
 affliction-type: "curse"
 delivery: "injury"
 attack: "+6 vs Fortitude"

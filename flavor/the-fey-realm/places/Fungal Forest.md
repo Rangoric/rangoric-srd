@@ -1,7 +1,6 @@
 ---
 srd-type: "flavor"
 place-kind: region
-page: 71
 based-on:
   - "[[individual books/Faeries/places/Fungal Forest|Fungal Forest (Faeries)]]"
 status: draft

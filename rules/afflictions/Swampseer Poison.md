@@ -1,7 +1,6 @@
 ---
 srd-type: "affliction"
 section: "Rules"
-book: "Ultimate Equipment"
 affliction-type: "poison"
 delivery: "ingested"
 attack: "+8 vs Fortitude"

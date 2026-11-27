@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Classes"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/rules/Classes|Classes (Faeries)]]"
 status: draft

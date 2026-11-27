@@ -5,7 +5,6 @@ school: "Illusion"
 subschool: "Glamer"
 level: 5
 casting-time: "50 minutes"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/occult-rituals/Labyrinthine Wilds (Occult Ritual)|Labyrinthine Wilds (PF1 Foundry)]]"
 status: draft

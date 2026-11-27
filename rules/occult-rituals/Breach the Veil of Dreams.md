@@ -5,7 +5,6 @@ school: "Conjuration"
 subschool: "Creation"
 level: 6
 casting-time: "60 minutes"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/occult-rituals/Breach the Veil of Dreams (Occult Ritual)|Breach the Veil of Dreams (PF1 Foundry)]]"
 status: draft

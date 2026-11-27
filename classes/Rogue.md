@@ -8,7 +8,6 @@ fort: poor
 ref: good
 will: poor
 skill-points: "8 + Int modifier"
-book: ["Core Rulebook", "Pathfinder Unchained", "Ultimate Combat"]
 based-on:
   - "[[path srd 3.5/classes/Rogue (Unchained)|Rogue (Unchained) (PF1)]]"
   - "[[path srd 3.5/classes/Rogue|Rogue (PF1)]]"

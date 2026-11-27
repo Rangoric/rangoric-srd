@@ -1,7 +1,6 @@
 ---
 srd-type: "affliction"
 section: "Rules"
-book: "Bestiary"
 affliction-type: "disease"
 delivery: "injury"
 attack: "+1/2 the zombie’s Hit Dice + the zombie’s Cha modifier vs Fortitude"
