@@ -2,8 +2,6 @@
 srd-type: "gear"
 section: "Equipment"
 gear-type: "adventuring gear"
-aliases:
-  - "Harrow Deck"
 price: "100 gp"
 weight: "—"
 based-on:
