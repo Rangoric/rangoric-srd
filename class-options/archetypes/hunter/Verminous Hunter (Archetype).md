@@ -19,7 +19,7 @@ _A [[rangoric-srd/classes/Hunter#^hunter-archetypes|hunter]] [[rangoric-srd/clas
 
 A verminous hunter calls on the ceaseless, single-minded dedication of vermin to hunt and overwhelm her prey. Where other hunters invoke the cunning, animalistic powers of the alpha predators, she calls on the powers of the lowest life forms, reaching out to the spider instead of the monkey, the mantis instead of the snake, or the moth instead of the owl.
 
-**Vermin Companion (Ex)**: At 1st level, a verminous hunter must choose a [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|vermin]] companion instead of an [[rangoric-srd/classes/Hunter#^hunter-animal-companion|animal companion]]. This ability alters animal companion. The [[rangoric-srd/classes/Hunter#^hunter-tactics|hunter tactics]] class ability allows a verminous hunter to grant her teamwork feats to a mindless vermin companion.
+**Vermin Companion (Ex)**: At 1st level, a verminous hunter must choose a [[rangoric-srd/class-options/animal-companions/Animal Companions#Vermin Companions|vermin companion]] instead of an [[rangoric-srd/classes/Hunter#^hunter-animal-companion|animal companion]]. This ability alters animal companion. The [[rangoric-srd/classes/Hunter#^hunter-tactics|hunter tactics]] class ability allows a verminous hunter to grant her teamwork feats to a mindless vermin companion.
 
 **Vermin Empathy (Ex)**: A verminous hunter gains the [[rangoric-srd/classes/Hunter#^hunter-wild-empathy|wild empathy]] ability, but can use it only to influence vermin (not animals or magical beasts). This ability alters [[rangoric-srd/classes/Hunter#^hunter-wild-empathy|wild empathy]].
 
