@@ -16,7 +16,7 @@ full-attack: "+1 trident +11 melee (1d8+7) and bite +4 melee (1d4+2); or 2 claws
 space-reach: "5 ft./5 ft."
 special-attacks: "Blood frenzy"
 special-qualities: "Blindsense 30 ft., darkvision 60 ft., bravery +1, armor training 1, light blindness, speak with sharks"
-saves: "Fort +6, Ref +7, Will +6 (+1 vs. fear)"
+defenses: "Fort 16, Ref 17, Will 16 (+1 vs. fear)"
 abilities: "Str 19, Dex 16, Con 17, Int 12, Wis 15, Cha 8"
 skills: "Animal Handling +7, Athletics +16, Fieldcraft +6, Intimidation +11, Perception +10, Stealth +7"
 skill-ranks: "Animal Handling 1, Athletics 9, Fieldcraft 1, Intimidation 9, Perception 5, Stealth 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/sahuagin/Sahuagin|Blood frenzy]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +1, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1, [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]], [[rangoric-srd/monsters/sahuagin/Sahuagin|speak with sharks]]
-- **Saves**: Fort +6, Ref +7, Will +6 (+1 vs. fear)
+- **Defenses**: Fort 16, Ref 17, Will 16 (+1 vs. fear)
 - **Abilities**: Str 19, Dex 16, Con 17, Int 12, Wis 15, Cha 8
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +16, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Intimidation|Intimidation]] +11, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +7
 - **Feats**: [[rangoric-srd/feats/Greater Blood Frenzy|Greater Blood Frenzy]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (trident)

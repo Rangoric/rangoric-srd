@@ -16,7 +16,7 @@ full-attack: "Masterwork longspear +8 melee (1d8+4/×3) and bite +2 melee (1d6+3
 space-reach: "5 ft./5 ft."
 special-attacks: "Blood frenzy, combat style (two-handed weapon), favored enemy (elves +2)"
 special-qualities: "Blindsense 30 ft., darkvision 60 ft., track +1, wild empathy +0, light blindness, speak with sharks"
-saves: "Fort +7, Ref +9, Will +5 (+2 vs. ongoing effects)"
+defenses: "Fort 17, Ref 19, Will 15 (+2 vs. ongoing effects)"
 abilities: "Str 17, Dex 17, Con 18, Int 14, Wis 15, Cha 6"
 skills: "Animal Handling +5, Athletics +18, Fieldcraft +9, Nature +9, Perception +9, Society +9, Stealth +10"
 skill-ranks: "Animal Handling 4, Athletics 12, Fieldcraft 4, Nature 4, Perception 4, Society 4, Stealth 4"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/sahuagin/Sahuagin|Blood frenzy]], [[rangoric-srd/classes/Ranger#^ranger-combat-style|combat style]] ([[rangoric-srd/class-options/combat-styles/Two-Handed Weapon Combat Style|two-handed weapon]]), [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemy]] (elves +2)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/classes/Ranger|track]] +1, [[rangoric-srd/classes/Ranger|wild empathy]] +0, [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]], [[rangoric-srd/monsters/sahuagin/Sahuagin|speak with sharks]]
-- **Saves**: Fort +7, Ref +9, Will +5 (+2 vs. ongoing effects)
+- **Defenses**: Fort 17, Ref 19, Will 15 (+2 vs. ongoing effects)
 - **Abilities**: Str 17, Dex 17, Con 18, Int 14, Wis 15, Cha 6
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +9, [[rangoric-srd/skills/Nature|Nature]] +9, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Society|Society]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +10
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Pushing Assault|Pushing Assault]], [[rangoric-srd/feats/Track|Track]]

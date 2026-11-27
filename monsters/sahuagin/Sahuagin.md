@@ -16,7 +16,7 @@ full-attack: "Trident +4 melee (1d8+3) and bite –1 melee (1d4+1); or 2 claws +
 space-reach: "5 ft./5 ft."
 special-attacks: "Blood frenzy, rake (2 claws +4, 1d4+2, while swimming)"
 special-qualities: "Blindsense 30 ft., darkvision 60 ft., freshwater sensitivity, light blindness, speak with sharks, water dependent"
-saves: "Fort +4, Ref +4, Will +4"
+defenses: "Fort 14, Ref 14, Will 14"
 abilities: "Str 14, Dex 13, Con 14, Int 14, Wis 13, Cha 9"
 skills: "Animal Handling +6, Athletics +15, Fieldcraft +6, Perception +6, Stealth +6"
 skill-ranks: "Animal Handling 2, Athletics 10, Fieldcraft 2, Perception 2, Stealth 2"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Blood frenzy, [[rangoric-srd/monsters/abilities/Rake|rake]] (2 claws +4, 1d4+2, while swimming)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., freshwater sensitivity, [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]], speak with sharks, water dependent
-- **Saves**: Fort +4, Ref +4, Will +4
+- **Defenses**: Fort 14, Ref 14, Will 14
 - **Abilities**: Str 14, Dex 13, Con 14, Int 14, Wis 13, Cha 9
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +6
 - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]]
@@ -113,7 +113,7 @@ Sahuagin are savage fighters, asking for and giving no quarter. When swimming, a
 
 **Speak with Sharks (Su)**: A sahuagin can communicate telepathically with sharks to a distance of 150 feet. This communication is limited to simple concepts, such as “come here,” “defend me,” or “attack this target.” Sahuagin can use the [[rangoric-srd/skills/Animal Handling|Animal Handling]] skill to befriend and train sharks.
 
-**Freshwater Sensitivity (Ex)**: A sahuagin fully immersed in fresh water must succeed on a DC 15 Fortitude save or become [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]]. Even on a success, it must repeat the save attempt every 10 minutes it remains immersed.
+**Freshwater Sensitivity (Ex)**: A sahuagin fully immersed in fresh water is attacked at +5 vs Fortitude, and on a hit becomes [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]]. Even on a miss, the water attacks again every 10 minutes it remains immersed.
 
 **Water Dependent (Ex)**: Sahuagin can survive out of the water for 1 hour per 2 points of Constitution (after that, refer to the drowning rules).
 

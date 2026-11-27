@@ -16,7 +16,7 @@ full-attack: "Masterwork spear +4 melee (1d8–1/×3)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., orc ferocity, orc blood, weapon familiarity"
-saves: "Fort +1, Ref +3, Will +6"
+defenses: "Fort 11, Ref 13, Will 16"
 abilities: "Str 9, Dex 12, Con 8, Int 12, Wis 14, Cha 12"
 skills: "Deception +5, Intimidation +7, Perception +5, Perform (oratory) +5, Persuasion +8, Sense Motive +10, Society +9"
 skill-ranks: "Deception 1, Intimidation 5, Perception 2, Perform (oratory) 1, Persuasion 3, Sense Motive 7, Society 5"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/races/Half-Orc#^half-orc-orc-ferocity|orc ferocity]], [[rangoric-srd/races/Half-Orc#^half-orc-orc-blood|orc blood]], [[rangoric-srd/races/Half-Orc|weapon familiarity]]
-- **Saves**: Fort +1, Ref +3, Will +6
+- **Defenses**: Fort 11, Ref 13, Will 16
 - **Abilities**: Str 9, Dex 12, Con 8, Int 12, Wis 14, Cha 12
 - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Perception|Perception]] +5, Perform (oratory) +5, [[rangoric-srd/skills/Persuasion|Persuasion]] +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Society|Society]] +9
 - **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception, Persuasion), [[rangoric-srd/feats/Toughness|Toughness]]

@@ -19,7 +19,7 @@ full-attack: "+3 longspear +23/+18/+13 melee (1d8+9/x3 plus 1d8 fire) and tail s
 space-reach: "10 ft./10 ft. (20 ft. with tail or longspear)"
 special-attacks: "Constrict 2d8+3 plus 1d8 fire, heat, improved grab, spell-like abilities"
 special-qualities: "Damage reduction 15/magic, darkvision 60 ft., immunity to fire, vulnerability to cold"
-saves: "Fort +12, Ref +10, Will +11"
+defenses: "Fort 22, Ref 20, Will 21"
 abilities: "Str 22, Dex 13, Con 16, Int 16, Wis 15, Cha 15"
 skills: "Craft (blacksmithing) +25, Deception +20, Intimidation +20, Perception +26, Persuasion +20, Stealth +15"
 skill-ranks: "Craft (blacksmithing) 15, Deception 15, Intimidation 15, Perception 15, Persuasion 15, Stealth 15"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft. (20 ft. with tail or longspear)
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] 2d8+3 plus 1d8 fire, heat, [[rangoric-srd/monsters/abilities/Grab|improved grab]], spell-like abilities
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 15/magic, darkvision 60 ft., immunity to fire, [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to cold]]
-- **Saves**: Fort +12, Ref +10, Will +11
+- **Defenses**: Fort 22, Ref 20, Will 21
 - **Abilities**: Str 22, Dex 13, Con 16, Int 16, Wis 15, Cha 15
 - **Skills**: [[rangoric-srd/skills/Craft|Craft]] (blacksmithing) +25, [[rangoric-srd/skills/Deception|Deception]] +20, [[rangoric-srd/skills/Intimidation|Intimidation]] +20, [[rangoric-srd/skills/Perception|Perception]] +26, [[rangoric-srd/skills/Persuasion|Persuasion]] +20, [[rangoric-srd/skills/Stealth|Stealth]] +15
 - **Unspent Skill Points**: 75

@@ -16,7 +16,7 @@ full-attack: "Longsword +3 melee (1d8+3/19–20); or composite longbow +4 ranged
 space-reach: "5 ft./5 ft."
 special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 60 ft., elemental affinity, resistance to acid 5"
-saves: "Fort +4, Ref +2, Will +4"
+defenses: "Fort 14, Ref 12, Will 14"
 abilities: "Str 15, Dex 15, Con 14, Int 8, Wis 14, Cha 8"
 skills: "Intimidation +4"
 skill-ranks: "Intimidation 2"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Elemental Affinity|elemental affinity]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 5
-- **Saves**: Fort +4, Ref +2, Will +4
+- **Defenses**: Fort 14, Ref 12, Will 14
 - **Abilities**: Str 15, Dex 15, Con 14, Int 8, Wis 14, Cha 8
 - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +4
 - **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longbow)

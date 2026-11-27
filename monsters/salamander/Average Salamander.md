@@ -16,7 +16,7 @@ full-attack: "Spear +11/+6 melee (1d8+4/×3 plus 1d6 fire) and tail slap +6 mele
 space-reach: "5 ft./5 ft. (10 ft. with tail)"
 special-attacks: "Constrict (2d6+4 plus 1d6 fire), heat"
 special-qualities: "Darkvision 60 ft., damage reduction 10/magic, immunity to fire, vulnerability to cold"
-saves: "Fort +10, Ref +7, Will +6"
+defenses: "Fort 20, Ref 17, Will 16"
 abilities: "Str 16, Dex 13, Con 18, Int 14, Wis 15, Cha 13"
 skills: "Acrobatics +12, Craft (weaponsmithing) +17, Deception +12, Intimidation +12, Perception +16, Sense Motive +13, Stealth +12, Theology +13"
 skill-ranks: "Acrobatics 8, Craft (weaponsmithing) 12, Deception 8, Intimidation 8, Perception 11, Sense Motive 8, Stealth 8, Theology 8"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft. (10 ft. with tail)
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (2d6+4 plus 1d6 fire), [[rangoric-srd/monsters/abilities/Heat|heat]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, vulnerability to cold
-- **Saves**: Fort +10, Ref +7, Will +6
+- **Defenses**: Fort 20, Ref 17, Will 16
 - **Abilities**: Str 16, Dex 13, Con 18, Int 14, Wis 15, Cha 13
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Craft|Craft]] (weaponsmithing) +17, [[rangoric-srd/skills/Deception|Deception]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +12, [[rangoric-srd/skills/Theology|Theology]] +13
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

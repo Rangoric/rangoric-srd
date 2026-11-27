@@ -16,7 +16,7 @@ full-attack: "Unarmed strike +7 melee (1d3+2); or sap +7 melee (1d6+2 nonlethal)
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., orc ferocity, orc blood, weapon familiarity"
-saves: "Fort +5, Ref +2, Will +0"
+defenses: "Fort 15, Ref 12, Will 10"
 abilities: "Str 14, Dex 13, Con 12, Int 9, Wis 8, Cha 10"
 skills: "Intimidation +9, Perception +0"
 skill-ranks: "Intimidation 6, Perception 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/races/Half-Orc#^half-orc-orc-ferocity|orc ferocity]], [[rangoric-srd/races/Half-Orc#^half-orc-orc-blood|orc blood]], [[rangoric-srd/races/Half-Orc|weapon familiarity]]
-- **Saves**: Fort +5, Ref +2, Will +0
+- **Defenses**: Fort 15, Ref 12, Will 10
 - **Abilities**: Str 14, Dex 13, Con 12, Int 9, Wis 8, Cha 10
 - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +0
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]]

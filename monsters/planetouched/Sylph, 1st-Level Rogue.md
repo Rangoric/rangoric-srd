@@ -16,7 +16,7 @@ full-attack: "Dagger –1 melee (1d4–1/19–20); or dagger +3 ranged (1d4–1/
 space-reach: "5 ft./5 ft."
 special-attacks: "Sneak attack +1d6, spell-like abilities"
 special-qualities: "Darkvision 60 ft., air affinity, trapfinding +1, resistance to electricity 5"
-saves: "Fort +0, Ref +5, Will +2"
+defenses: "Fort 10, Ref 15, Will 12"
 abilities: "Str 8, Dex 17, Con 10, Int 15, Wis 14, Cha 10"
 skills: "Acrobatics +7, Appraise +6, Athletics +3, Deception +4, Emulation +4, Perception +6, Persuasion +4, Sleight of Hand +7, Society +6, Stealth +7"
 skill-ranks: "Acrobatics 1, Appraise 1, Athletics 1, Deception 1, Emulation 1, Perception 1, Persuasion 1, Sleight of Hand 1, Society 1, Stealth 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Sneak attack +1d6, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Air Affinity|air affinity]], trapfinding +1, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 5
-- **Saves**: Fort +0, Ref +5, Will +2
+- **Defenses**: Fort 10, Ref 15, Will 12
 - **Abilities**: Str 8, Dex 17, Con 10, Int 15, Wis 14, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Appraise|Appraise]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +3, [[rangoric-srd/skills/Deception|Deception]] +4, [[rangoric-srd/skills/Emulation|Emulation]] +4, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Persuasion|Persuasion]] +4, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +7, [[rangoric-srd/skills/Society|Society]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +7
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]]

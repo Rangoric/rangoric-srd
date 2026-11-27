@@ -16,7 +16,7 @@ full-attack: "Dagger +3 melee (1d4+1/19–20)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Sneak attack +1d6, spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, shadow bending, trapfinding +1, resistance to cold 5 and electricity 5"
-saves: "Fort +2, Ref +5, Will –1"
+defenses: "Fort 12, Ref 15, Will 9"
 abilities: "Str 13, Dex 17, Con 14, Int 8, Wis 8, Cha 14"
 skills: "Appraise +3, Deception +6, Perception +3, Persuasion +6, Sense Motive +3, Society +3, Stealth +7, Theology +2"
 skill-ranks: "Appraise 1, Deception 1, Perception 1, Persuasion 1, Sense Motive 1, Society 1, Stealth 2, Theology 3"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Sneak attack +1d6, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], shadow bending, trapfinding +1, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 5 and electricity 5
-- **Saves**: Fort +2, Ref +5, Will –1
+- **Defenses**: Fort 12, Ref 15, Will 9
 - **Abilities**: Str 13, Dex 17, Con 14, Int 8, Wis 8, Cha 14
 - **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +3, [[rangoric-srd/skills/Deception|Deception]] +6, [[rangoric-srd/skills/Perception|Perception]] +3, [[rangoric-srd/skills/Persuasion|Persuasion]] +6, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +3, [[rangoric-srd/skills/Society|Society]] +3, [[rangoric-srd/skills/Stealth|Stealth]] +7, [[rangoric-srd/skills/Theology|Theology]] +2
 - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]

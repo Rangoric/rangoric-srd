@@ -14,9 +14,9 @@ cmd: "27"
 attack: "Bite +14 melee (1d4+2 plus confusion) or energy bolts +14 ranged touch (1d8 plus special)"
 full-attack: "7 bites +14 melee (1d4+2 plus confusion); or 6 energy bolts +14 ranged touch (1d8 plus special)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Detect thoughts (DC 18), energy bolts"
+special-attacks: "Detect thoughts (+8 vs Will), energy bolts"
 special-qualities: "Darkvision 60 ft., change shape (any humanoid; alter self), damage reduction 10/good and piercing, spell resistance 23"
-saves: "Fort +8, Ref +11, Will +9"
+defenses: "Fort 18, Ref 21, Will 19"
 abilities: "Str 14, Dex 21, Con 20, Int 11, Wis 13, Cha 18"
 skills: "Acrobatics +14, Arcana +8, Athletics +7 (+11 jumping), Deception +20, Imitation +16, Mysticism +8, Perception +10, Sense Motive +12"
 skill-ranks: "Acrobatics 6, Arcana 5, Athletics 2, Deception 9, Imitation 1, Mysticism 5, Perception 6, Sense Motive 8"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +14 melee (1d4+2 plus confusion) or energy bolts +14 ranged touch (1d8 plus special)
 - **Full Attack**: 7 bites +14 melee (1d4+2 plus confusion); or 6 energy bolts +14 ranged touch (1d8 plus special)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: Detect thoughts (DC 18), [[rangoric-srd/monsters/abilities/Energy Bolts|energy bolts]]
+- **Special Attacks**: Detect thoughts (+8 vs Will), [[rangoric-srd/monsters/abilities/Energy Bolts|energy bolts]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (any humanoid; alter self), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good and piercing, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 23
-- **Saves**: Fort +8, Ref +11, Will +9
+- **Defenses**: Fort 18, Ref 21, Will 19
 - **Abilities**: Str 14, Dex 21, Con 20, Int 11, Wis 13, Cha 18
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Arcana|Arcana]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +7 (+11 jumping), [[rangoric-srd/skills/Deception|Deception]] +20, [[rangoric-srd/skills/Imitation|Imitation]] +16, [[rangoric-srd/skills/Mysticism|Mysticism]] +8, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Silent Spell|Silent Spell]], [[rangoric-srd/feats/Still Spell|Still Spell]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -74,15 +74,15 @@ Marais speak Common, Infernal and Undercommon.
 
 **Spells**: A marai casts arcane spells as a 5th-level [[rangoric-srd/classes/Sorcerer|sorcerer]].
 
-**Spells known** (CL 5th; concentration +9): 2nd (5/day)—_[[rangoric-srd/spells/Invisibility|invisibility]], [[rangoric-srd/spells/Scorching Ray|scorching ray]]_; 1st (7/day)—_[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 15), _[[rangoric-srd/spells/Jump (Spell)|jump]]_, _[[rangoric-srd/spells/Mage Armor|mage armor]]_, _[[rangoric-srd/spells/Magic Missile|magic missile]]_; 0 (at will)—_[[rangoric-srd/spells/Bleed|bleed]]_ (DC 14), _[[rangoric-srd/spells/Detect Magic|detect magic]], [[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (DC 14), _[[rangoric-srd/spells/Mage Hand|mage hand]], [[rangoric-srd/spells/Open-Close|open/close]], [[rangoric-srd/spells/Read Magic|read magic]]_.
+**Spells known** (CL 5th; concentration +9): 2nd (5/day)—_[[rangoric-srd/spells/Invisibility|invisibility]], [[rangoric-srd/spells/Scorching Ray|scorching ray]]_; 1st (7/day)—_[[rangoric-srd/spells/Charm Person|charm person]]_ (+5 vs Will), _[[rangoric-srd/spells/Jump (Spell)|jump]]_, _[[rangoric-srd/spells/Mage Armor|mage armor]]_, _[[rangoric-srd/spells/Magic Missile|magic missile]]_; 0 (at will)—_[[rangoric-srd/spells/Bleed|bleed]]_ (+4 vs Will), _[[rangoric-srd/spells/Detect Magic|detect magic]], [[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (+4 vs Will), _[[rangoric-srd/spells/Mage Hand|mage hand]], [[rangoric-srd/spells/Open-Close|open/close]], [[rangoric-srd/spells/Read Magic|read magic]]_.
 
-**Confusion (Su)**: A creature bitten by a marai's bite (from either its actual mouth or the snakes it has for hands) must succeed at a DC 19 Will save or become [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]] for 1 round. The save DC is Constitution-based.
+**Confusion (Su)**: A creature bitten by a marai's bite (from either its actual mouth or the snakes it has for hands) is attacked at +9 vs Will, and on a hit becomes [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]] for 1 round. The attack bonus is Constitution-based.
 
-**[[rangoric-srd/monsters/abilities/Energy Bolts|Energy Bolts]] (Ex)**: Once every 1d4 rounds as a standard action that provokes an attack of opportunity, a marai's six snake arms can each spit a bolt of energy to a maximum range of 60 feet. Each bolt deals 1d8 points of damage and has an additional effect if the target fails to resist it with a DC 19 Fortitude save, as summarized below. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Energy Bolts|Energy Bolts]] (Ex)**: Once every 1d4 rounds as a standard action that provokes an attack of opportunity, a marai's six snake arms can each spit a bolt of energy to a maximum range of 60 feet. Each bolt deals 1d8 points of damage and has an additional effect if it hits the target at +9 vs Fortitude, as summarized below. The attack bonus is Constitution-based.
 
 _Amethyst Viper_: Cold damage plus [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1d4 rounds.
 
-_Crimson Viper_: Fire damage plus burn (1d4, DC 19).
+_Crimson Viper_: Fire damage plus burn (1d4, +9 vs Reflex).
 
 _Emerald Viper_: Acid damage plus [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1 round.
 

@@ -14,9 +14,9 @@ cmd: "9"
 attack: "Heavy mace –1 melee (1d8–1) or light crossbow +0 ranged (1d8/19–20)"
 full-attack: "Heavy mace –1 melee (1d8–1); or light crossbow +0 ranged (1d8/19–20)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Channel positive energy (5/day, 1d6, DC 12), turn undead, rebuke death (1d4+1, 6/day), touch of good (6/day), spell-like abilities"
+special-attacks: "Channel positive energy (5/day, 1d6, +2 vs Will), turn undead, rebuke death (1d4+1, 6/day), touch of good (6/day), spell-like abilities"
 special-qualities: "Darkvision 60 ft., resistance to acid 5, cold 5 and electricity 5"
-saves: "Fort +4, Ref +0, Will +5"
+defenses: "Fort 14, Ref 10, Will 15"
 abilities: "Str 8, Dex 10, Con 14, Int 13, Wis 17, Cha 14"
 skills: "Medicine +7, Persuasion +8, Theology +5"
 skill-ranks: "Medicine 1, Persuasion 1, Theology 1"
@@ -50,9 +50,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: [[rangoric-srd/equipment/weapons/Heavy Mace|Heavy mace]] –1 melee (1d8–1) or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +0 ranged (1d8/19–20)
 - **Full Attack**: [[rangoric-srd/equipment/weapons/Heavy Mace|Heavy mace]] –1 melee (1d8–1); or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +0 ranged (1d8/19–20)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel positive energy]] (5/day, 1d6, DC 12), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|turn undead]], [[rangoric-srd/class-options/domains/Healing Domain|rebuke death]] (1d4+1, 6/day), [[rangoric-srd/class-options/domains/Good Domain|touch of good]] (6/day), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel positive energy]] (5/day, 1d6, +2 vs Will), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|turn undead]], [[rangoric-srd/class-options/domains/Healing Domain|rebuke death]] (1d4+1, 6/day), [[rangoric-srd/class-options/domains/Good Domain|touch of good]] (6/day), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 5, cold 5 and electricity 5
-- **Saves**: Fort +4, Ref +0, Will +5
+- **Defenses**: Fort 14, Ref 10, Will 15
 - **Abilities**: Str 8, Dex 10, Con 14, Int 13, Wis 17, Cha 14
 - **Skills**: [[rangoric-srd/skills/Medicine|Medicine]] +7, [[rangoric-srd/skills/Persuasion|Persuasion]] +8, [[rangoric-srd/skills/Theology|Theology]] +5
 - **Feats**: [[rangoric-srd/feats/Turn Undead|Turn Undead]]
@@ -80,7 +80,7 @@ Aasimars usually like a fair, straightforward contest. Against a particularly ev
 
 **[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 1st): 1/day—_[[rangoric-srd/spells/Daylight|daylight]]_.
 
-**Spells prepared** (CL 1st): 1st—_[[rangoric-srd/spells/Bless|bless]]_, _[[rangoric-srd/spells/Command|command]]_ (DC 14), _[[rangoric-srd/spells/Protection from Evil|protection from evil]]_ <sup>D</sup>; 0 (at will)—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]_; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Good Domain|Good]], [[rangoric-srd/class-options/domains/Healing Domain|Healing]].
+**Spells prepared** (CL 1st): 1st—_[[rangoric-srd/spells/Bless|bless]]_, _[[rangoric-srd/spells/Command|command]]_ (+4 vs Will), _[[rangoric-srd/spells/Protection from Evil|protection from evil]]_ <sup>D</sup>; 0 (at will)—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]_; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Good Domain|Good]], [[rangoric-srd/class-options/domains/Healing Domain|Healing]].
 
 ## Aasimar as Characters
 

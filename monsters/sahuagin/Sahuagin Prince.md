@@ -16,7 +16,7 @@ full-attack: "Lance of jousting +20/+15/+10 melee (1d8+8/19–20/×3) and bite +
 space-reach: "5 ft./5 ft."
 special-attacks: "Banner +3/+2, blood frenzy, cavalier's charge, challenge (+10, +3, 4/day)"
 special-qualities: "Blindsense 30 ft., darkvision 60 ft., exotic mount (shark), greater tactician (3/day, 8 rounds, swift action), multiweapon mastery, order of the lion (for the king, lion's call), light blindness, speak with sharks"
-saves: "Fort +16, Ref +13, Will +11"
+defenses: "Fort 26, Ref 23, Will 21"
 abilities: "Str 20, Dex 16, Con 20, Int 13, Wis 12, Cha 10"
 skills: "Animal Handling +15 (+18 with personal mount), Athletics +19, Perception +16, Sense Motive +10, Society +16"
 skill-ranks: "Animal Handling 12, Athletics 11, Perception 12, Sense Motive 6, Society 12"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Cavalier#^cavalier-banner|Banner]] +3/+2, [[rangoric-srd/monsters/sahuagin/Sahuagin|blood frenzy]], [[rangoric-srd/classes/Cavalier#^cavalier-cavaliers-charge|cavalier’s charge]], [[rangoric-srd/classes/Cavalier#^cavalier-challenge|challenge]] (+10, +3, 4/day)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/class-options/archetypes/cavalier/Beast Rider (Archetype)|exotic mount]] ([[rangoric-srd/monsters/Shark Mount|shark]]), [[rangoric-srd/classes/Cavalier#^cavalier-greater-tactician|greater tactician]] (3/day, 8 rounds, swift action), [[rangoric-srd/monsters/abilities/Multiweapon Mastery|multiweapon mastery]], [[rangoric-srd/class-options/orders/Order of the Lion|order of the lion]] (for the king, lion’s call), [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]], [[rangoric-srd/monsters/sahuagin/Sahuagin|speak with sharks]]
-- **Saves**: Fort +16, Ref +13, Will +11
+- **Defenses**: Fort 26, Ref 23, Will 21
 - **Abilities**: Str 20, Dex 16, Con 20, Int 13, Wis 12, Cha 10
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +15 (+18 with personal mount), [[rangoric-srd/skills/Athletics|Athletics]] +19, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Society|Society]] +16
 - **Feats**: [[rangoric-srd/feats/Dreadful Carnage|Dreadful Carnage]], [[rangoric-srd/feats/Furious Focus|Furious Focus]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Lookout|Lookout]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Outflank|Outflank]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Ride-By Attack|Ride-By Attack]], [[rangoric-srd/feats/Spirited Charge|Spirited Charge]], [[rangoric-srd/feats/Toughness|Toughness]]

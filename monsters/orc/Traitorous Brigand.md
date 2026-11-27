@@ -16,7 +16,7 @@ full-attack: "Masterwork greataxe +7 melee (1d12+4/×3); or sap +6 melee (1d6+3 
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., bravery +1, orc ferocity, armor training 1, orc blood, weapon familiarity"
-saves: "Fort +5, Ref +2, Will +2 (+1 vs. fear)"
+defenses: "Fort 15, Ref 12, Will 12 (+1 vs. fear)"
 abilities: "Str 17, Dex 12, Con 14, Int 10, Wis 8, Cha 13"
 skills: "Athletics +5, Fieldcraft +3, Intimidation +9"
 skill-ranks: "Athletics 2, Fieldcraft 1, Intimidation 5"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +1, [[rangoric-srd/races/Half-Orc#^half-orc-orc-ferocity|orc ferocity]], [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1, [[rangoric-srd/races/Half-Orc#^half-orc-orc-blood|orc blood]], [[rangoric-srd/races/Half-Orc|weapon familiarity]]
-- **Saves**: Fort +5, Ref +2, Will +2 (+1 vs. fear)
+- **Defenses**: Fort 15, Ref 12, Will 12 (+1 vs. fear)
 - **Abilities**: Str 17, Dex 12, Con 14, Int 10, Wis 8, Cha 13
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +3, [[rangoric-srd/skills/Intimidation|Intimidation]] +9
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]]

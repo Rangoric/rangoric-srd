@@ -14,9 +14,9 @@ cmd: "28 (can't be tripped)"
 attack: "Bite +15 melee (1d6+3/19–20 plus 1d4 acid) or bite +15 melee (2d6+3/19–20 plus 1d4 acid)"
 full-attack: "4 bites +15 melee (1d6+3/19–20 plus 1d4 acid) and bite +15 melee (2d6+3/19–20 plus 1d4 acid)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Horrific appearance (DC 18), spell-like abilities"
+special-attacks: "Horrific appearance (+8 vs Will), spell-like abilities"
 special-qualities: "Darkvision 60 ft., telepathy 100 ft., acid spray, flight, damage reduction 10/lawful, immunity to acid, cold, poison and mind-affecting effects, resistance to electricity 10 and fire 10"
-saves: "Fort +14, Ref +12, Will +7"
+defenses: "Fort 24, Ref 22, Will 17"
 abilities: "Str 16, Dex 21, Con 24, Int 9, Wis 19, Cha 16"
 skills: "Acrobatics +22, Intimidation +16, Perception +17, Stealth +18, Theology +12"
 skill-ranks: "Acrobatics 14, Intimidation 10, Perception 10, Stealth 10, Theology 10"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +15 melee (1d6+3/19–20 plus 1d4 acid) or bite +15 melee (2d6+3/19–20 plus 1d4 acid)
 - **Full Attack**: 4 bites +15 melee (1d6+3/19–20 plus 1d4 acid) and bite +15 melee (2d6+3/19–20 plus 1d4 acid)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Horrific Appearance|Horrific appearance]] (DC 18), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Horrific Appearance|Horrific appearance]] (+8 vs Will), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Acid Spray|acid spray]], [[rangoric-srd/monsters/abilities/Flight|flight]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/lawful, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, cold, poison and mind-affecting effects, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 10 and fire 10
-- **Saves**: Fort +14, Ref +12, Will +7
+- **Defenses**: Fort 24, Ref 22, Will 17
 - **Abilities**: Str 16, Dex 21, Con 24, Int 9, Wis 19, Cha 16
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +22, [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +18, [[rangoric-srd/skills/Theology|Theology]] +12
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -70,7 +70,7 @@ A typical nyogoth is 5 feet in diameter and weighs 260 pounds, although they are
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +13): At will—_[[rangoric-srd/spells/Acid Arrow|acid arrow]]_; 7/day—_[[rangoric-srd/spells/Fear|fear]]_ (DC 17), _[[rangoric-srd/spells/Protection from Law|protection from law]]_; 1/day—_[[rangoric-srd/spells/Acid Fog|acid fog]]_, _[[rangoric-srd/spells/Dimension Door|dimension door]]_.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +13): At will—_[[rangoric-srd/spells/Acid Arrow|acid arrow]]_; 7/day—_[[rangoric-srd/spells/Fear|fear]]_ (+7 vs Will), _[[rangoric-srd/spells/Protection from Law|protection from law]]_; 1/day—_[[rangoric-srd/spells/Acid Fog|acid fog]]_, _[[rangoric-srd/spells/Dimension Door|dimension door]]_.
 
 **[[rangoric-srd/monsters/abilities/Acid Spray|Acid Spray]] (Su)**: A nyogoth's body is full of highly corrosive digestive fluid. Every time a nyogoth is damaged by a piercing or slashing weapon, all creatures adjacent to the nyogoth take 1d6 points of acid damage (2d6 acid damage if the attack is a critical hit).
 

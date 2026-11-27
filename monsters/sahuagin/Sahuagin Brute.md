@@ -16,7 +16,7 @@ full-attack: "Masterwork harpoon +8 melee (1d8+6/×3) and bite +2 melee (1d4+2);
 space-reach: "5 ft./5 ft."
 special-attacks: "Blood frenzy, rage (8 rounds/day)"
 special-qualities: "Blindsense 30 ft., darkvision 60 ft., fast movement, light blindness, speak with sharks"
-saves: "Fort +7, Ref +6, Will +5"
+defenses: "Fort 17, Ref 16, Will 15"
 abilities: "Str 19, Dex 15, Con 18, Int 12, Wis 13, Cha 10"
 skills: "Animal Handling +6, Athletics +16, Fieldcraft +6, Intimidation +6, Perception +7, Stealth +6"
 skill-ranks: "Animal Handling 3, Athletics 9, Fieldcraft 2, Intimidation 3, Perception 3, Stealth 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/sahuagin/Sahuagin|Blood frenzy]], [[rangoric-srd/classes/Barbarian#^barbarian-rage|rage]] (8 rounds/day)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]], [[rangoric-srd/monsters/sahuagin/Sahuagin|speak with sharks]]
-- **Saves**: Fort +7, Ref +6, Will +5
+- **Defenses**: Fort 17, Ref 16, Will 15
 - **Abilities**: Str 19, Dex 15, Con 18, Int 12, Wis 13, Cha 10
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +16, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +6
 - **Feats**: [[rangoric-srd/feats/Exotic Weapon Proficiency|Exotic Weapon Proficiency]] (harpoon), [[rangoric-srd/feats/Greater Blood Frenzy|Greater Blood Frenzy]]

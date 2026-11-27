@@ -15,7 +15,7 @@ full-attack: "Sting +5 melee (1d2–4 plus poison)"
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "Poison"
 special-qualities: "Darkvision 60 ft., immunity to mind-affecting effects"
-saves: "Fort +2, Ref +3, Will +0"
+defenses: "Fort 12, Ref 13, Will 10"
 abilities: "Str 3, Dex 16, Con 10, Int —, Wis 10, Cha 2"
 skills: "Athletics +7, Perception +4, Stealth +15"
 skill-ranks: "Athletics 4, Perception 0, Stealth 0"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-- **Saves**: Fort +2, Ref +3, Will +0
+- **Defenses**: Fort 12, Ref 13, Will 10
 - **Abilities**: Str 3, Dex 16, Con 10, Int —, Wis 10, Cha 2
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +7, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +15
 - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -69,4 +69,4 @@ A greensting scorpion familiar grants a +4 bonus on Initiative checks so long as
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Sting—injury; _save_ Fort DC 10; _frequency_ 1/round for 6 rounds; _effect_ [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1 round; _cure_ 1 save. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Sting—injury; _attack_ +0 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1 round; _cure_ 1 miss. The attack bonus is Constitution-based.

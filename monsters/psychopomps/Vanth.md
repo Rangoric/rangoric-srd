@@ -15,8 +15,8 @@ attack: "+1 adamantine scythe +14 melee (2d4+7/×4) or claw +13 melee (1d6+4)"
 full-attack: "+1 adamantine scythe +14/+9 melee (2d4+7/×4); or 2 claws +13 melee (1d6+4)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Spell-like abilities"
-special-qualities: "Darkvision 60 ft., low-light vision, spiritsense, fear (30 ft., DC 17), reaper's scythe, spirit touch, damage reduction 10/adamantine, immunity to death effects, disease and poison, resistance to cold 10 and electricity 10, spell resistance 18"
-saves: "Fort +11, Ref +6, Will +10"
+special-qualities: "Darkvision 60 ft., low-light vision, spiritsense, fear (30 ft., +7 vs Will), reaper's scythe, spirit touch, damage reduction 10/adamantine, immunity to death effects, disease and poison, resistance to cold 10 and electricity 10, spell resistance 18"
+defenses: "Fort 21, Ref 16, Will 20"
 abilities: "Str 18, Dex 16, Con 17, Int 13, Wis 19, Cha 17"
 skills: "Acrobatics +11, Intimidation +11, Perception +16, Sense Motive +16, Society +9, Stealth +15, Theology +13"
 skill-ranks: "Acrobatics 5, Intimidation 5, Perception 9, Sense Motive 9, Society 5, Stealth 9, Theology 9"
@@ -49,8 +49,8 @@ tags: [rangoric, rangoric/monster]
 - **Full Attack**: +1 adamantine scythe +14/+9 melee (2d4+7/×4); or 2 claws +13 melee (1d6+4)
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
-- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], spiritsense, [[rangoric-srd/monsters/abilities/Fear|fear]] (30 ft., DC 17), [[rangoric-srd/monsters/abilities/Reaper's Scythe|reaper's scythe]], spirit touch, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/adamantine, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to death effects, disease and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and electricity 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 18
-- **Saves**: Fort +11, Ref +6, Will +10
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], spiritsense, [[rangoric-srd/monsters/abilities/Fear|fear]] (30 ft., +7 vs Will), [[rangoric-srd/monsters/abilities/Reaper's Scythe|reaper's scythe]], spirit touch, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/adamantine, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to death effects, disease and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and electricity 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 18
+- **Defenses**: Fort 21, Ref 16, Will 20
 - **Abilities**: Str 18, Dex 16, Con 17, Int 13, Wis 19, Cha 17
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +11, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Society|Society]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +15, [[rangoric-srd/skills/Theology|Theology]] +13
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
@@ -72,8 +72,8 @@ Most outsiders scorn vanths, as the psychopomps have no concern for law, rightfu
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +13): At will—_[[rangoric-srd/spells/Deathwatch|deathwatch]]_, _[[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (self plus 50 lbs. of objects only), _[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only); 3/day—_[[rangoric-srd/spells/Bestow Curse|bestow curse]]_ (DC 17), _[[rangoric-srd/spells/Locate Creature|locate creature]]_, _[[rangoric-srd/spells/Searing Light|searing light]]_.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +13): At will—_[[rangoric-srd/spells/Deathwatch|deathwatch]]_, _[[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (self plus 50 lbs. of objects only), _[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only); 3/day—_[[rangoric-srd/spells/Bestow Curse|bestow curse]]_ (+7 vs Will), _[[rangoric-srd/spells/Locate Creature|locate creature]]_, _[[rangoric-srd/spells/Searing Light|searing light]]_.
 
-**Fear Aura (Su)**: A creature of fewer than 10 Hit Dice that fails its save (DC 17) against the vanth's fear aura is [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for as long as it remains within the aura. A creature that succeeds at its save is immune to that vanth's aura for 24 hours. The save DC is Charisma-based.
+**Fear Aura (Su)**: A creature of fewer than 10 Hit Dice that the vanth's fear aura hits (+7 vs Will) is [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for as long as it remains within the aura. A creature the aura misses is immune to that vanth's aura for 24 hours. The attack bonus is Charisma-based.
 
 **[[rangoric-srd/monsters/abilities/Reaper's Scythe|Reaper's Scythe]] (Su)**: Every vanth carries a distinctive adamantine scythe as both a weapon and a symbol of its duty. When the vanth wields its own scythe, the weapon gains a +1 enhancement bonus on attack rolls and damage rolls. As a free action, the vanth can summon its weapon from a personal demiplane or any other location and have it appear in its hands instantly. It can also dismiss its scythe back to its personal demiplane as a free action. If a vanth's scythe is destroyed, it can summon a new one in 24 hours.
