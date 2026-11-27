@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Split Hex, caster level 18th."
-based-on:
-  - "[[path srd 3.5/feats/Split Major Hex|Split Major Hex (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Split Major Hex|Split Major Hex (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat]
 ---

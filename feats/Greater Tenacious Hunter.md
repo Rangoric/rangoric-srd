@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Combat Reflexes, Tenacious Hunter, Perception 3 ranks, Stealth 3 ranks, animal companion."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Greater Tenacious Hunter|Greater Tenacious Hunter (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat]
 ---

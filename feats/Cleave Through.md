@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Str 13, Cleave, Power Attack, base attack bonus +11, dwarf."
-based-on:
-  - "[[path srd 3.5/feats/Cleave Through|Cleave Through (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Cleave Through|Cleave Through (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, fighter-bonus, racial]
 ---

@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Investigation 3 ranks, inspiration or lore master class feature."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Expeditious Sleuth|Expeditious Sleuth (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat]
 ---

@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Athletics 3 ranks, Stealth 3 ranks."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Branch Pounce|Branch Pounce (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

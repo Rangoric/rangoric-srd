@@ -1,10 +1,7 @@
 ---
 srd-type: "feat"
 section: "Feats"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/feats/Tensile Mercury Expertise|Tensile Mercury Expertise (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

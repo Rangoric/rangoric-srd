@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Diehard, Endurance, Stalwart, base attack bonus +11."
-based-on:
-  - "[[path srd 3.5/feats/Improved Stalwart|Improved Stalwart (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Improved Stalwart|Improved Stalwart (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

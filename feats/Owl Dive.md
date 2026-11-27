@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 17, Owl Style, Owl Swoop, Skill Focus (Stealth), base attack bonus +7 or monk level 5th, Acrobatics 1 rank, Stealth 1 rank."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Owl Dive|Owl Dive (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

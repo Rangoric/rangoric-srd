@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Critical Focus, Staggering Critical, base attack bonus +17."
-based-on:
-  - "[[path srd 3.5/feats/Stunning Critical|Stunning Critical (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Stunning Critical|Stunning Critical (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-09
 tags: [rangoric, rangoric/feat, fighter-bonus, critical]
 ---

@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Shadesight, Cha 15."
-based-on:
-  - "[[individual books/Spells & Magic v3.0/feats/Shadetongue|Shadetongue (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, shadetouched]
 ---

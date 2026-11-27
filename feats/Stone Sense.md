@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Improved Stonecunning (the feat or the earth dwarf’s racial trait), Perception 10 ranks."
-based-on:
-  - "[[path srd 3.5/feats/Stone Sense|Stone Sense (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Stone Sense|Stone Sense (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, racial]
 ---

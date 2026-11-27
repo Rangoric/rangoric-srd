@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Rage class feature, Throw Anything."
-based-on:
-  - "[[path srd 3.5/feats/Raging Hurler|Raging Hurler (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Raging Hurler|Raging Hurler (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/feat]
 ---

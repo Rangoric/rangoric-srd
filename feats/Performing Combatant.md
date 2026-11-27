@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dazzling Display, any one performance feat."
-based-on:
-  - "[[path srd 3.5/feats/Performing Combatant|Performing Combatant (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Performing Combatant|Performing Combatant (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/feat, fighter-bonus, performance-combat]
 ---

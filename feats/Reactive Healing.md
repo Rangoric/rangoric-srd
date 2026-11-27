@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Quick Channel or Quicken Spell; channel energy or lay on hands class feature."
-based-on:
-  - "[[path srd 3.5/feats/Reactive Healing|Reactive Healing (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Reactive Healing|Reactive Healing (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

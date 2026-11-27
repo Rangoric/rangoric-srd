@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Cha 13, Theology 5 ranks, ability to cast 2nd-level divine spells; blessings, domains or mystery class feature."
-based-on:
-  - "[[path srd 3.5/feats/Divine Protection|Divine Protection (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Divine Protection|Divine Protection (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat]
 ---

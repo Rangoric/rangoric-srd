@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Con 13, half-orc, orc ferocity racial trait."
-based-on:
-  - "[[path srd 3.5/feats/Ferocious Resolve|Ferocious Resolve (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Ferocious Resolve|Ferocious Resolve (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/feat, racial]
 ---

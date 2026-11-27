@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Str 13, Cleave, Great Cleave, Power Attack, Surprise Follow-Through, base attack bonus +8."
-based-on:
-  - "[[path srd 3.5/feats/Improved Surprise Follow-Through|Improved Surprise Follow-Through (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Improved Surprise Follow-Through|Improved Surprise Follow-Through (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

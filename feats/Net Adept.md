@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Exotic Weapon Proficiency (net), base attack bonus +1."
-based-on:
-  - "[[path srd 3.5/feats/Net Adept|Net Adept (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Net Adept|Net Adept (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

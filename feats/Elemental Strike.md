@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Ifrit, oread, sylph, or undine."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Elemental Strike|Elemental Strike (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, fighter-bonus, racial]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Engineering 5 ranks, Emulation 5 ranks, trapfinding."
-based-on:
-  - "[[path srd 3.5/feats/Disable Dweomer|Disable Dweomer (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Disable Dweomer|Disable Dweomer (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/feat]
 ---

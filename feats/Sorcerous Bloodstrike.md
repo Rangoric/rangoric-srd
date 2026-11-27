@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Cha 13, sorcerer bloodline class feature."
-based-on:
-  - "[[path srd 3.5/feats/Sorcerous Bloodstrike|Sorcerous Bloodstrike (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Sorcerous Bloodstrike|Sorcerous Bloodstrike (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat]
 ---

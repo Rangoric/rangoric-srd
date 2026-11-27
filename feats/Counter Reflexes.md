@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Anticipate Dodge, Dodge, Mobility; base attack bonus +9, brawler level 6th, or monk level 6th."
-based-on:
-  - "[[path srd 3.5/feats/Counter Reflexes|Counter Reflexes (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Counter Reflexes|Counter Reflexes (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Quick Draw, base attack bonus +1, Sleight of Hand 1 rank, swarming racial trait."
-based-on:
-  - "[[path srd 3.5/rules/monster-codex/ratfolk/New Rules (Ratfolk)#Shared Stash|Shared Stash (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Shared Stash|Shared Stash (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/feat, teamwork, racial]
 ---

@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Wis 17, Exotic Weapon Proficiency (spiked chain), Kyton Shield, Kyton Style, base attack bonus +8 or monk level 6th, Theology 3 ranks, ki pool class feature."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Kyton Cut|Kyton Cut (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Grit class feature or Amateur Gunslinger feat, Dodge, Mobility."
-based-on:
-  - "[[path srd 3.5/feats/Deft Shootist Deed|Deft Shootist Deed (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat]
 ---

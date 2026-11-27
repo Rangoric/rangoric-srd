@@ -1,11 +1,7 @@
 ---
 srd-type: "feat"
 section: "Feats"
-based-on:
-  - "[[path srd 3.5/feats/Lingering Spell|Lingering Spell (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Lingering Spell|Lingering Spell (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/feat, metamagic]
 ---

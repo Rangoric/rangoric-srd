@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Mysticism 15 ranks, Improved Counterspell."
-based-on:
-  - "[[path srd 3.5/feats/Parry Spell|Parry Spell (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Parry Spell|Parry Spell (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

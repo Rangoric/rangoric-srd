@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 13, Point Blank Shot, base attack bonus +9."
-based-on:
-  - "[[path srd 3.5/feats/Impact Critical Shot|Impact Critical Shot (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Impact Critical Shot|Impact Critical Shot (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-09
 tags: [rangoric, rangoric/feat, fighter-bonus, critical]
 ---

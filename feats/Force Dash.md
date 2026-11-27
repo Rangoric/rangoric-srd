@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Base attack bonus +4, ability to cast 2nd-level arcane spells, ability to cast at least one arcane force spell."
-based-on:
-  - "[[path srd 3.5/feats/Force Dash|Force Dash (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Force Dash|Force Dash (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

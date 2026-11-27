@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 13, Step Up."
-based-on:
-  - "[[path srd 3.5/feats/Following Step|Following Step (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Following Step|Following Step (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

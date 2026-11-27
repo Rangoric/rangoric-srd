@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dodge, Mobility, Acrobatics 5 ranks."
-based-on:
-  - "[[path srd 3.5/feats/Canny Tumble|Canny Tumble (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Canny Tumble|Canny Tumble (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

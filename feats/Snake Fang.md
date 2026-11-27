@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Combat Reflexes, Improved Unarmed Strike, Snake Sidewind, Snake Style, Acrobatics 6 ranks, Sense Motive 9 ranks."
-based-on:
-  - "[[path srd 3.5/feats/Snake Fang|Snake Fang (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Snake Fang|Snake Fang (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

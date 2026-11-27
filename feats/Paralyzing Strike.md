@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 13, Wis 13, Improved Unarmed Strike, base attack bonus +14."
-based-on:
-  - "[[path srd 3.5/feats/Paralyzing Strike|Paralyzing Strike (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Paralyzing Strike|Paralyzing Strike (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Witch class."
-based-on:
-  - "[[path srd 3.5/feats/Witch Knife|Witch Knife (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Witch Knife|Witch Knife (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat]
 ---

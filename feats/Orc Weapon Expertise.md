@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Base attack bonus +1, orc."
-based-on:
-  - "[[path srd 3.5/feats/Orc Weapon Expertise|Orc Weapon Expertise (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Orc Weapon Expertise|Orc Weapon Expertise (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, fighter-bonus, racial]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Aberrant bloodline."
-based-on:
-  - "[[path srd 3.5/feats/Aberrant Tumor|Aberrant Tumor (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Aberrant Tumor|Aberrant Tumor (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat]
 ---

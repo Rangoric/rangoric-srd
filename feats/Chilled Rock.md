@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Born of Frost, frost giant."
-based-on:
-  - "[[path srd 3.5/rules/monster-codex/frost-giants/New Rules (Frost Giants)#Chilled Rock|Chilled Rock (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/feat, racial]
 ---

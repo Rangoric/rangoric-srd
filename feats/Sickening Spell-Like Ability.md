@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Spell-like ability at caster level 6th or higher."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Sickening Spell-Like Ability|Sickening Spell-Like Ability (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/feat]
 ---

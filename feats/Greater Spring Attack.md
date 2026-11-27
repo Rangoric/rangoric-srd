@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 17, Acrobatic Steps, Dodge, Improved Spring Attack, Mobility, Nimble Moves, Spring Attack, base attack bonus +16."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Greater Spring Attack|Greater Spring Attack (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

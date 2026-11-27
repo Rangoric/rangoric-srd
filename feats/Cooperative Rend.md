@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Rend, troll."
-based-on:
-  - "[[path srd 3.5/rules/monster-codex/trolls/New Rules (Trolls)#Cooperative Rend|Cooperative Rend (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/feat, racial]
 ---

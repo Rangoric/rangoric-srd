@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Con 15, Wis 17, Efreeti Style, Efreeti Stance, Elemental Fist, Improved Unarmed Strike, base attack bonus +13 or monk level 11th."
-based-on:
-  - "[[path srd 3.5/feats/Efreeti Touch|Efreeti Touch (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Efreeti Touch|Efreeti Touch (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

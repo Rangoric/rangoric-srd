@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 13, Improved Grapple, Improved Unarmed Strike, Quick Draw, Intimidation 7 ranks."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Piercing Grapple|Piercing Grapple (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

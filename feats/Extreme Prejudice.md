@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Seething Hatred, sneak attack +3d6, studied target class feature."
-based-on:
-  - "[[path srd 3.5/feats/Extreme Prejudice|Extreme Prejudice (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Extreme Prejudice|Extreme Prejudice (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

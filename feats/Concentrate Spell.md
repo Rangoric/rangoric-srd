@@ -1,10 +1,7 @@
 ---
 srd-type: "feat"
 section: "Feats"
-based-on:
-  - "[[individual books/Faeries/feats/Concentrate Spell|Concentrate Spell (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, metamagic]
 ---

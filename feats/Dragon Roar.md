@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Str 15, Improved Unarmed Strike, Dragon Style, Stunning Fist, Acrobatics 8 ranks."
-based-on:
-  - "[[path srd 3.5/feats/Dragon Roar|Dragon Roar (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Dragon Roar|Dragon Roar (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

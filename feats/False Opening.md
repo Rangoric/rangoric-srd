@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 13, Dodge, Close-Quarters Thrower or Point Blank Master, Weapon Focus with the selected ranged weapon."
-based-on:
-  - "[[path srd 3.5/feats/False Opening|False Opening (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/False Opening|False Opening (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

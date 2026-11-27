@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Deception 5 ranks, Mysticism 5 ranks."
-based-on:
-  - "[[path srd 3.5/feats/Spell Bluff|Spell Bluff (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Spell Bluff|Spell Bluff (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Base attack bonus +11, ability to cast divine spells, alignment within one step of your deity’s."
-based-on:
-  - "[[path srd 3.5/feats/Blessed Striker|Blessed Striker (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Blessed Striker|Blessed Striker (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

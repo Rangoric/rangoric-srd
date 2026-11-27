@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Intercept Blow, base attack bonus +3, animal companion, evasion."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Reflexive Interception|Reflexive Interception (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

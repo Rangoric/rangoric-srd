@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Nerve-Racking Negotiator, Skill Focus (Persuasion or Intimidation), Skill Focus (Intimidation)."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Threatening Negotiator|Threatening Negotiator (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

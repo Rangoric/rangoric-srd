@@ -1,10 +1,7 @@
 ---
 srd-type: "feat"
 section: "Feats"
-based-on:
-  - "[[individual books/Faeries/feats/Evolve|Evolve (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat]
 ---

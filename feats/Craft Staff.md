@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Caster level 12th."
-based-on:
-  - "[[fantasy srd 3.5/feats/Craft Staff|Craft Staff (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/feat, item-creation]
 ---

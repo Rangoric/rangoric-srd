@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Detect undead paladin class feature."
-based-on:
-  - "[[path srd 3.5/feats/Sin Seer|Sin Seer (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Sin Seer|Sin Seer (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/feat]
 ---

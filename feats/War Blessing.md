@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Mystery or domain class feature."
-based-on:
-  - "[[path srd 3.5/feats/War Blessing|War Blessing (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/War Blessing (Feat)|War Blessing (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat]
 ---

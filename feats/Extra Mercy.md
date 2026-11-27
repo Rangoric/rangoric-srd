@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Lay on hands class feature, mercy class feature."
-based-on:
-  - "[[path srd 3.5/feats/Extra Mercy|Extra Mercy (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Extra Mercy|Extra Mercy (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat]
 ---

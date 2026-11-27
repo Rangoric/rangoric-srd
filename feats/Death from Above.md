@@ -1,11 +1,7 @@
 ---
 srd-type: "feat"
 section: "Feats"
-based-on:
-  - "[[path srd 3.5/feats/Death from Above|Death from Above (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Death from Above|Death from Above (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

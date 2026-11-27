@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Intimidation 5 ranks, rage class feature."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Ostentatious Rager|Ostentatious Rager (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

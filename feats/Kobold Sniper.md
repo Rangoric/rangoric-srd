@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Stealth 1 rank, kobold."
-based-on:
-  - "[[path srd 3.5/feats/Kobold Sniper (Feat)|Kobold Sniper (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Kobold Sniper|Kobold Sniper (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, fighter-bonus, racial]
 ---

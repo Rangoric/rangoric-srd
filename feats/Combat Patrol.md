@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Combat Reflexes, Mobility, base attack bonus +5."
-based-on:
-  - "[[path srd 3.5/feats/Combat Patrol|Combat Patrol (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Combat Patrol|Combat Patrol (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

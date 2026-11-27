@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Ability to cast summon monster as a spell-like ability, summoner 1st."
-based-on:
-  - "[[path srd 3.5/feats/Extra Summons|Extra Summons (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Extra Summons|Extra Summons (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat]
 ---

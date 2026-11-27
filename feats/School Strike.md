@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Wizard school class feature, Improved Unarmed Strike."
-based-on:
-  - "[[path srd 3.5/feats/School Strike|School Strike (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/School Strike|School Strike (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

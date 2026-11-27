@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Weapon Focus with your deity’s favored weapon, Weapon of the Chosen."
-based-on:
-  - "[[path srd 3.5/feats/Improved Weapon of the Chosen|Improved Weapon of the Chosen (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Improved Weapon of the Chosen|Improved Weapon of the Chosen (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

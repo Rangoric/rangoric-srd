@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Cunning initiative class feature."
-based-on:
-  - "[[path srd 3.5/feats/Grant Initiative|Grant Initiative (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Grant Initiative|Grant Initiative (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat]
 ---

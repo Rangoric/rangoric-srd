@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Mysticism 5 ranks, Heighten Spell."
-based-on:
-  - "[[path srd 3.5/feats/Preferred Spell|Preferred Spell (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Preferred Spell|Preferred Spell (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

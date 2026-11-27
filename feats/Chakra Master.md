@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Chakra Adept, Chakra Initiate, ability to awaken the crown chakra."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Chakra Master|Chakra Master (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/feat]
 ---

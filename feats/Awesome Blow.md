@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Str 25, Power Attack, Improved Bull Rush, size Large or larger."
-based-on:
-  - "[[path srd 3.5/feats/Awesome Blow|Awesome Blow (PF1)]]"
-  - "[[fantasy srd 3.5/feats/Awesome Blow|Awesome Blow (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

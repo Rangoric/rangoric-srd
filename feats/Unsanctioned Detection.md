@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Detect evil class feature."
-based-on:
-  - "[[path srd 3.5/feats/Unsanctioned Detection|Unsanctioned Detection (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Unsanctioned Detection|Unsanctioned Detection (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat]
 ---

@@ -1,11 +1,7 @@
 ---
 srd-type: "feat"
 section: "Feats"
-based-on:
-  - "[[path srd 3.5/feats/Toppling Spell|Toppling Spell (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Toppling Spell|Toppling Spell (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/feat, metamagic]
 ---

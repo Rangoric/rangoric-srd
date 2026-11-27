@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Grit class feature or Amateur Gunslinger feat, Deception 4 ranks."
-based-on:
-  - "[[path srd 3.5/feats/No Name|No Name (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/No Name|No Name (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat]
 ---

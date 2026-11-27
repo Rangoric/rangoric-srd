@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 13, Improved Unarmed Strike."
-based-on:
-  - "[[fantasy srd 3.5/feats/Deflect Arrows|Deflect Arrows (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

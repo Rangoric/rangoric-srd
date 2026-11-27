@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Iron Will, base Will save +4, human."
-based-on:
-  - "[[path srd 3.5/feats/Heroic Will|Heroic Will (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Heroic Will|Heroic Will (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/feat, racial]
 ---

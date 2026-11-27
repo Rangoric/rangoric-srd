@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Channel energy 3d6, proficiency with a shield."
-based-on:
-  - "[[path srd 3.5/feats/Channeled Shield Wall|Channeled Shield Wall (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Channeled Shield Wall|Channeled Shield Wall (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

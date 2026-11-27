@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Sneak attack +3d6, Sap Adept."
-based-on:
-  - "[[path srd 3.5/feats/Sap Master|Sap Master (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Sap Master|Sap Master (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

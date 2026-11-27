@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 15, Dodge, base attack bonus +6."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Woodland Wraith|Woodland Wraith (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

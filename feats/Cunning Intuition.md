@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Skill Focus (Perception), Improved Initiative, Lightning Reflexes, Quick Draw, Ready for Anything, base attack bonus +13 or rogue level 13th, Sense Motive 13 ranks."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Cunning Intuition|Cunning Intuition (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

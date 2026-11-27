@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Wis 13, Improved Unarmed Strike, Nature 3 ranks."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Wolf Style|Wolf Style (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/feat, fighter-bonus, style]
 ---

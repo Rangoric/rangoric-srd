@@ -4,12 +4,7 @@ section: "Feats"
 prerequisites: "Str 13, Power Attack."
 aliases:
   - "Cleaving Finish"
-based-on:
-  - "[[fantasy srd 3.5/feats/Cleave|Cleave (3.5)]]"
-  - "[[path srd 3.5/feats/Cleaving Finish|Cleaving Finish (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Cleaving Finish|Cleaving Finish (PF1)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

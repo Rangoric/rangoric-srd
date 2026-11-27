@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dazzling Display, any two performance feats."
-based-on:
-  - "[[path srd 3.5/feats/Masterful Display|Masterful Display (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Masterful Display|Masterful Display (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/feat, performance, performance-combat]
 ---

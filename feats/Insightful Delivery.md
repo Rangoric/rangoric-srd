@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Poison use class feature, studied strike +4d6."
-based-on:
-  - "[[path srd 3.5/feats/Insightful Delivery|Insightful Delivery (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Insightful Delivery|Insightful Delivery (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat]
 ---

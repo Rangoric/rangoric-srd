@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Kitsune."
-based-on:
-  - "[[path srd 3.5/feats/Magical Tail|Magical Tail (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Magical Tail|Magical Tail (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, racial]
 ---

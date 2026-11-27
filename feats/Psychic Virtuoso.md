@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Psychic Sensitivity or the ability to cast psychic spells."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Psychic Virtuoso|Psychic Virtuoso (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/feat]
 ---

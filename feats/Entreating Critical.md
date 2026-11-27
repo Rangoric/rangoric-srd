@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Cha 15, Call Truce, Critical Focus, Skill Focus (Persuasion or Intimidation), base attack bonus +11, Persuasion 5 ranks."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Entreating Critical|Entreating Critical (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-09
 tags: [rangoric, rangoric/feat, fighter-bonus, critical]
 ---

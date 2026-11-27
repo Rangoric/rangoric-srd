@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Cha 13, Mysticism 1 rank, ability to cast ranger spells."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Fey Spell Versatility|Fey Spell Versatility (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

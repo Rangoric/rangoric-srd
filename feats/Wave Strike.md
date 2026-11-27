@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Weapon expertise class feature or Quick Draw, Deception 1 rank."
-based-on:
-  - "[[path srd 3.5/feats/Wave Strike|Wave Strike (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Wave Strike (Feat, Ultimate Combat)|Wave Strike (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

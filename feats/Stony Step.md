@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Oread."
-based-on:
-  - "[[path srd 3.5/feats/Stony Step|Stony Step (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Stony Step|Stony Step (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, racial]
 ---

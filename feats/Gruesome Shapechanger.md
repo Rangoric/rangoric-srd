@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Shapechanger subtype."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Gruesome Shapechanger|Gruesome Shapechanger (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/feat]
 ---

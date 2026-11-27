@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Character level 5th, hydraulic push spell-like ability, undine."
-based-on:
-  - "[[path srd 3.5/feats/Triton Portal|Triton Portal (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Triton Portal|Triton Portal (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, racial]
 ---

@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Theology 6 ranks."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Demon Hunter|Demon Hunter (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Undine."
-based-on:
-  - "[[path srd 3.5/feats/Aquatic Ancestry|Aquatic Ancestry (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Aquatic Ancestry (Feat)|Aquatic Ancestry (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, racial]
 ---

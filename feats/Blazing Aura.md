@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Inner Flame, Scorching Weapons, character level 13th, ifrit."
-based-on:
-  - "[[path srd 3.5/feats/Blazing Aura|Blazing Aura (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, fighter-bonus, racial]
 ---

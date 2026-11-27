@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Phantom class feature, phantom with the deliver touch spells ability."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Distant Delivery|Distant Delivery (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/feat]
 ---

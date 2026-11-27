@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Psychic Sensitivity or ability to cast psychic spells or use psychic spell-like abilities, character level 2nd."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Shatter Mental Mask|Shatter Mental Mask (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

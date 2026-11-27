@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Angelic Blood, aasimar, character level 10th."
-based-on:
-  - "[[path srd 3.5/feats/Angel Wings|Angel Wings (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Angel Wings|Angel Wings (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, racial]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Fortunate One, adaptable luck racial trait, character level 10th, halfling."
-based-on:
-  - "[[path srd 3.5/feats/Adaptive Fortune|Adaptive Fortune (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Adaptive Fortune|Adaptive Fortune (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, racial]
 ---

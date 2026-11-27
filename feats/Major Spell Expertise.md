@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Minor Spell Expertise, ability to cast 9th-level spells."
-based-on:
-  - "[[path srd 3.5/feats/Major Spell Expertise|Major Spell Expertise (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Major Spell Expertise|Major Spell Expertise (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Str 13, Cleave, Goblin Cleaver, Orc Hewer, Power Attack, Strike Back, base attack bonus +11, dwarf."
-based-on:
-  - "[[path srd 3.5/feats/Giant Killer|Giant Killer (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Giant Killer|Giant Killer (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, fighter-bonus, racial]
 ---

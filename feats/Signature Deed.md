@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Grit class feature, gunslinger level 11th."
-based-on:
-  - "[[path srd 3.5/feats/Signature Deed|Signature Deed (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Signature Deed|Signature Deed (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-09
 tags: [rangoric, rangoric/feat]
 ---

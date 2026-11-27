@@ -2,12 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Armor Proficiency (light), Armor Proficiency (medium)."
-based-on:
-  - "[[fantasy srd 3.5/feats/Armor Proficiency (Heavy)|Armor Proficiency (Heavy) (3.5)]]"
-  - "[[path srd 3.5/feats/Armor Proficiency, Heavy|Armor Proficiency, Heavy (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Armor Proficiency, Heavy|Armor Proficiency, Heavy (PF1)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

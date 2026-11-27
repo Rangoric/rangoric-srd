@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Fieldcraft 1 rank."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Scion of the Land|Scion of the Land (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-09
 tags: [rangoric, rangoric/feat, teamwork]
 ---

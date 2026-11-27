@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Favored terrain (desert) class feature."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Desert Dweller|Desert Dweller (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat]
 ---

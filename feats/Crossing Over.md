@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Base Will save +3."
-based-on:
-  - "[[individual books/Faeries/feats/Crossing Over|Crossing Over (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat]
 ---

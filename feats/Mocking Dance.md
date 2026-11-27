@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Acrobatics 4 ranks or Performance (dance) 4 ranks."
-based-on:
-  - "[[path srd 3.5/feats/Mocking Dance|Mocking Dance (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Mocking Dance|Mocking Dance (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/feat, performance, performance-combat]
 ---

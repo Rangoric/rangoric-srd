@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 feat-type: "Metamagic"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/feats/Star of Power|Star of Power (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, metamagic]
 ---

@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Con 15, 3rd-level rune spell slot."
-based-on:
-  - "[[individual books/Spells & Magic v3.0/feats/Eye of Knowledge|Eye of Knowledge (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat]
 ---

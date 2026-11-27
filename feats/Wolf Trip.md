@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Wis 15, Improved Unarmed Strike, Wolf Style, Nature 6 ranks."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Wolf Trip|Wolf Trip (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

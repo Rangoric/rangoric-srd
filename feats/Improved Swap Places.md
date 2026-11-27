@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Swap Places."
-based-on:
-  - "[[path srd 3.5/feats/Improved Swap Places|Improved Swap Places (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Improved Swap Places|Improved Swap Places (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-09
 tags: [rangoric, rangoric/feat, fighter-bonus, teamwork]
 ---

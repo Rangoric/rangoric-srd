@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Str 13, Con 15, orc or half-orc, Deathless Initiate, Diehard, Endurance, Ironhide, base attack bonus +9."
-based-on:
-  - "[[path srd 3.5/feats/Deathless Master|Deathless Master (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Deathless Master|Deathless Master (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, fighter-bonus, racial]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Orc, rage class feature."
-based-on:
-  - "[[path srd 3.5/feats/Resolute Rager|Resolute Rager (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Resolute Rager|Resolute Rager (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, racial]
 ---

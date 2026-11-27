@@ -3,10 +3,7 @@ srd-type: "feat"
 section: "Feats"
 aliases:
   - "Psionic Fist"
-based-on:
-  - "[[fantasy srd 3.5/feats/Psionic Fist (Feat)|Psionic Fist (Feat) (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/feat, psionic]
 ---

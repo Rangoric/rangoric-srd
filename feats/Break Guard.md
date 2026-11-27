@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 15, Int 13, Combat Expertise, Improved Disarm, Two-Weapon Fighting."
-based-on:
-  - "[[path srd 3.5/feats/Break Guard|Break Guard (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Break Guard|Break Guard (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

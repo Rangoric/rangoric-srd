@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Int 13, Amateur Investigator, Studied Combatant, base attack bonus +8, 1 rank in at least one Knowledge skill, no levels in a class that has the inspiration class feature."
-based-on:
-  - "[[path srd 3.5/feats/Improved Studied Combatant|Improved Studied Combatant (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Improved Studied Combatant|Improved Studied Combatant (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat]
 ---

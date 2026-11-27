@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Hex class feature; shaman level 6th or witch level 6th."
-based-on:
-  - "[[path srd 3.5/feats/Spirit Talker|Spirit Talker (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Spirit Talker|Spirit Talker (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat]
 ---

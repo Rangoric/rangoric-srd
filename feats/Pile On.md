@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Str 13, Hurtful, Power Attack."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Pile On|Pile On (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Evasion class feature, improved evasion class feature, Acrobatics 12 ranks."
-based-on:
-  - "[[path srd 3.5/feats/Cartwheel Dodge|Cartwheel Dodge (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Cartwheel Dodge|Cartwheel Dodge (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/feat]
 ---

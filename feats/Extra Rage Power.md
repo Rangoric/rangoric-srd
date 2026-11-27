@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Rage power class feature."
-based-on:
-  - "[[path srd 3.5/feats/Extra Rage Power|Extra Rage Power (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Extra Rage Power|Extra Rage Power (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat]
 ---

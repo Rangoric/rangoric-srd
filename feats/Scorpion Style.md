@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Improved Unarmed Strike."
-based-on:
-  - "[[path srd 3.5/feats/Scorpion Style|Scorpion Style (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Scorpion Style|Scorpion Style (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

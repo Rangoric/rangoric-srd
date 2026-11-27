@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Channel energy class feature; Air, Earth, Fire or Water domain or blessing."
-based-on:
-  - "[[path srd 3.5/feats/Energy Channel|Energy Channel (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Energy Channel|Energy Channel (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat]
 ---

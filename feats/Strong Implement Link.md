@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Implements class feature."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Strong Implement Link|Strong Implement Link (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/feat]
 ---

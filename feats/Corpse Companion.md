@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Animal companion class feature, ghoul."
-based-on:
-  - "[[path srd 3.5/rules/monster-codex/ghouls/New Rules (Ghouls)#Corpse Companion|Corpse Companion (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/feat, racial]
 ---

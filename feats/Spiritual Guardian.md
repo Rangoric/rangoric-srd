@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Ability to cast spiritual weapon or spiritual ally, spirit magic class feature."
-based-on:
-  - "[[path srd 3.5/feats/Spiritual Guardian|Spiritual Guardian (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Spiritual Guardian|Spiritual Guardian (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat]
 ---

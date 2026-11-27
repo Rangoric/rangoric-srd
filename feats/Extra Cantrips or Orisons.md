@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Ability to cast cantrips or orisons."
-based-on:
-  - "[[path srd 3.5/feats/Extra Cantrips or Orisons|Extra Cantrips or Orisons (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Extra Cantrips or Orisons|Extra Cantrips or Orisons (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

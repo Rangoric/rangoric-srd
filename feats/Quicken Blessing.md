@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Access to a blessing’s major power, blessings class feature."
-based-on:
-  - "[[path srd 3.5/feats/Quicken Blessing|Quicken Blessing (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Quicken Blessing|Quicken Blessing (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat]
 ---

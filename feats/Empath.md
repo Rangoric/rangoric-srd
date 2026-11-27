@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Psychic Sensitivity or ability to cast psychic spells, Perception 1 rank or Sense Motive 1 rank."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Empath|Empath (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/feat]
 ---

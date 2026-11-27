@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Str 13, Con 13, orc or half-orc, Diehard, Endurance, base attack bonus +6."
-based-on:
-  - "[[path srd 3.5/feats/Deathless Initiate|Deathless Initiate (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Deathless Initiate|Deathless Initiate (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, fighter-bonus, racial]
 ---

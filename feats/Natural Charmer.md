@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Cha 17, dhampir."
-based-on:
-  - "[[path srd 3.5/feats/Natural Charmer|Natural Charmer (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Natural Charmer|Natural Charmer (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, racial]
 ---

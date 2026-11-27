@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Channel Force, aasimar, channel energy 4d6."
-based-on:
-  - "[[path srd 3.5/feats/Improved Channel Force|Improved Channel Force (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Improved Channel Force|Improved Channel Force (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, racial]
 ---

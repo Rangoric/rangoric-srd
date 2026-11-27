@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dazzling Display, Weapon Focus, and proficiency with the selected weapon."
-based-on:
-  - "[[path srd 3.5/feats/Hero's Display|Hero's Display (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Hero's Display|Hero's Display (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/feat, performance, performance-combat]
 ---

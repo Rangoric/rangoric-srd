@@ -1,10 +1,7 @@
 ---
 srd-type: "feat"
 section: "Feats"
-based-on:
-  - "[[path srd 3.5 foundry/feats/Scarred Legion|Scarred Legion (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-09
 tags: [rangoric, rangoric/feat, teamwork]
 ---

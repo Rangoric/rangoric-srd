@@ -1,10 +1,7 @@
 ---
 srd-type: "overview"
 section: "Feats"
-based-on:
-  - "[[fantasy srd 3.5/feats/Feats General|Feats General (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---

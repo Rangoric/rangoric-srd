@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Favored enemy class feature, wild shape class feature."
-based-on:
-  - "[[path srd 3.5/feats/Shapeshifting Hunter|Shapeshifting Hunter (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Shapeshifting Hunter|Shapeshifting Hunter (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat, wild]
 ---

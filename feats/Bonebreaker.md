@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 13, Improved Grapple, Improved Unarmed Strike, Jawbreaker, Stunning Fist, Medicine 9 ranks."
-based-on:
-  - "[[path srd 3.5/feats/Bonebreaker|Bonebreaker (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Bonebreaker|Bonebreaker (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

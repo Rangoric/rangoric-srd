@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Str 13, Improved Unarmed Strike, Wilding."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Wilding Strike|Wilding Strike (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Half-elf, half-orc, or halfling (see Special)."
-based-on:
-  - "[[path srd 3.5/feats/Pass For Human|Pass For Human (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Pass For Human|Pass For Human (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, racial]
 ---

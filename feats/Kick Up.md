@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 12, Skill Focus (Acrobatics), Acrobatics 1 rank; slayer level 1st or swashbuckler level 1st."
-based-on:
-  - "[[path srd 3.5/feats/Kick Up|Kick Up (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Kick Up|Kick Up (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

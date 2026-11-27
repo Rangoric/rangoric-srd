@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Ki pool, Endurance."
-based-on:
-  - "[[path srd 3.5/feats/Deny Death|Deny Death (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Deny Death|Deny Death (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/feat]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Int 13, Combat Expertise, Improved Trip, Tripping Staff, Weapon Focus (quarterstaff), Weapon Specialization (quarterstaff), base attack bonus +12."
-based-on:
-  - "[[path srd 3.5/feats/Tripping Twirl|Tripping Twirl (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Tripping Twirl|Tripping Twirl (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

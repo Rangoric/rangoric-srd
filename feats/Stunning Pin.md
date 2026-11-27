@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Improved Grapple, Improved Unarmed Strike, Stunning Fist."
-based-on:
-  - "[[path srd 3.5/feats/Stunning Pin|Stunning Pin (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Stunning Pin|Stunning Pin (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

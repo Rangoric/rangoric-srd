@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Int 19, Ironclad Logic, Persuasion 5 ranks, Sense Motive 5 ranks."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Play to the Crowd|Play to the Crowd (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

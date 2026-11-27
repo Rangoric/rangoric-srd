@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Animal Handling 4 ranks, Intimidation 4 ranks, animal companion or special mount class feature."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Bully Breed|Bully Breed (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat]
 ---

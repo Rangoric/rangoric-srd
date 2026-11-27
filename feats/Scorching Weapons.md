@@ -2,12 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Ifrit."
-based-on:
-  - "[[path srd 3.5/feats/Scorching Weapons|Scorching Weapons (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Scorching Weapons (Advanced Race Guide)|Scorching Weapons (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Scorching Weapons|Scorching Weapons (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, fighter-bonus, racial]
 ---

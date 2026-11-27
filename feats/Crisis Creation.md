@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Character level 3rd, Skill Focus (Craft (alchemy) or Profession (herbalist)), any one item creation feat."
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/feats/Crisis Creation|Crisis Creation (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, item-creation]
 ---

@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Engineering 1 rank, trapfinding class feature."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Cooperative Disabling|Cooperative Disabling (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-09
 tags: [rangoric, rangoric/feat, teamwork]
 ---

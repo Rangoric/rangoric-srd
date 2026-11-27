@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Detect alignment class feature, caster level 6th."
-based-on:
-  - "[[path srd 3.5/feats/Eyes of Judgment|Eyes of Judgment (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Eyes of Judgment|Eyes of Judgment (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat]
 ---

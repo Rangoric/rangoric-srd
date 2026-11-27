@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Amateur Swashbuckler or panache class feature; base attack bonus +3."
-based-on:
-  - "[[path srd 3.5/feats/Pommel Strike Deed|Pommel Strike Deed (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Pommel Strike Deed|Pommel Strike Deed (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-09
 tags: [rangoric, rangoric/feat]
 ---

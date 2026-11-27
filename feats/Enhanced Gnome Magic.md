@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Cha 13, Nature 3 ranks, gnome, gnome magic racial trait."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Enhanced Gnome Magic|Enhanced Gnome Magic (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, racial]
 ---

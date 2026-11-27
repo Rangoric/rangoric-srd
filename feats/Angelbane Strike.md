@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Channel Smite, divine caster level 5th, channel negative energy class feature, demon lord patron deity."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Angelbane Strike|Angelbane Strike (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

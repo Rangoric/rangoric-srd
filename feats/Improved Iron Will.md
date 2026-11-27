@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Iron Will."
-based-on:
-  - "[[path srd 3.5/feats/Improved Iron Will|Improved Iron Will (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Improved Iron Will|Improved Iron Will (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

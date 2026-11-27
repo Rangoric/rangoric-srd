@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Lay on hands class feature."
-based-on:
-  - "[[path srd 3.5/feats/Extra Lay On Hands|Extra Lay On Hands (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Extra Lay On Hands|Extra Lay On Hands (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/feat]
 ---

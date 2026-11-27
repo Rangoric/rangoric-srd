@@ -1,11 +1,7 @@
 ---
 srd-type: "feat"
 section: "Feats"
-based-on:
-  - "[[path srd 3.5/feats/Hero's Fortune|Hero's Fortune (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Hero's Fortune|Hero's Fortune (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/feat, hero-feat]
 ---

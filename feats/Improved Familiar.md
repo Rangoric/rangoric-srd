@@ -1,11 +1,7 @@
 ---
 srd-type: "feat"
 section: "Feats"
-based-on:
-  - "[[fantasy srd 3.5/feats/Improved Familiar|Improved Familiar (3.5)]]"
-  - "[[path srd 3.5/rules/ultimate-magic/updates/Updated Improved Familiar List|Updated Improved Familiar List (PF1 Ultimate Magic)]]"
 status: draft
-change: modified
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/feat]
 ---

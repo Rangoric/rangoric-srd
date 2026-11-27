@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Touch treatment class feature."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Extra Touch Treatment|Extra Touch Treatment (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/feat]
 ---

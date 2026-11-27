@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 15, flurry of blows class feature, Combat Expertise."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Feinting Flurry|Feinting Flurry (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

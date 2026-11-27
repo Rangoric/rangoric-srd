@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Stealth 12 ranks; assassinate advanced slayer talent or assassinate master ninja trick."
-based-on:
-  - "[[path srd 3.5/feats/Silent Kill|Silent Kill (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Silent Kill|Silent Kill (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Broken Wing Gambit, Deception 5 ranks."
-based-on:
-  - "[[path srd 3.5/feats/Wounded Paw Gambit|Wounded Paw Gambit (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Wounded Paw Gambit|Wounded Paw Gambit (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-09
 tags: [rangoric, rangoric/feat, fighter-bonus, teamwork]
 ---

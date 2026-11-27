@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Proficient with armor or shield."
-based-on:
-  - "[[path srd 3.5/feats/Fortified Armor Training|Fortified Armor Training (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Fortified Armor Training|Fortified Armor Training (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

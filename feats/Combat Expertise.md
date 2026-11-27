@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Int 13."
-based-on:
-  - "[[path srd 3.5/feats/Combat Expertise|Combat Expertise (PF1)]]"
-  - "[[fantasy srd 3.5/feats/Combat Expertise|Combat Expertise (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

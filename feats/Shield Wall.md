@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Shield Proficiency."
-based-on:
-  - "[[path srd 3.5/feats/Shield Wall|Shield Wall (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Shield Wall|Shield Wall (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-09
 tags: [rangoric, rangoric/feat, fighter-bonus, teamwork]
 ---

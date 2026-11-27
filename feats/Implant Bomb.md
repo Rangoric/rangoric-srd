@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Fieldcraft or Medicine 5 ranks, delayed bomb alchemist discovery."
-based-on:
-  - "[[path srd 3.5/feats/Implant Bomb|Implant Bomb (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Implant Bomb|Implant Bomb (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat]
 ---

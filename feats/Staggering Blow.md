@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Str 13, Power Attack, Vital Strike, base attack bonus +8."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Staggering Blow|Staggering Blow (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

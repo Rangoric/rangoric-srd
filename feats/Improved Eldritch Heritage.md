@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Cha 15, Eldritch Heritage, character level 11th."
-based-on:
-  - "[[path srd 3.5/feats/Improved Eldritch Heritage|Improved Eldritch Heritage (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Improved Eldritch Heritage|Improved Eldritch Heritage (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat]
 ---

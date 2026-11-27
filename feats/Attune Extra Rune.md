@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Base Fortitude save +7, 3rd-level rune spell slot."
-based-on:
-  - "[[individual books/Spells & Magic v3.0/feats/Attune Extra Rune|Attune Extra Rune (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat]
 ---

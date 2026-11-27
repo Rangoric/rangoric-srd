@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 13, dwarf, mountaineer or stability racial trait."
-based-on:
-  - "[[path srd 3.5/feats/Ledge Walker|Ledge Walker (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Ledge Walker (Feat)|Ledge Walker (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, racial]
 ---

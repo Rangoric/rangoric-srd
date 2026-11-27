@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Grit class feature or Amateur Gunslinger feat, Sleight of Hand 1 rank."
-based-on:
-  - "[[path srd 3.5/feats/Secret Stash Deed|Secret Stash Deed (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Secret Stash Deed|Secret Stash Deed (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat]
 ---

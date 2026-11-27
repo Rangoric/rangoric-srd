@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Craft (alchemy) 5 ranks."
-based-on:
-  - "[[path srd 3.5/feats/Master Alchemist|Master Alchemist (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Master Alchemist|Master Alchemist (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Str 13, damage reduction, Improved Bull Rush, Power Attack, base attack bonus +1."
-based-on:
-  - "[[path srd 3.5/feats/Rebuffing Reduction|Rebuffing Reduction (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Rebuffing Reduction|Rebuffing Reduction (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Skill Focus (Persuasion or Intimidation), Intimidation 5 ranks."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Cutting Humiliation|Cutting Humiliation (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

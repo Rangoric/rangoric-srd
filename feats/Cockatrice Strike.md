@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Improved Unarmed Strike, Gorgon's Fist, Medusa's Wrath, base attack bonus +16."
-based-on:
-  - "[[path srd 3.5/feats/Cockatrice Strike|Cockatrice Strike (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Cockatrice Strike|Cockatrice Strike (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Improved Unarmed Strike, Boar Style, Intimidation 6 ranks."
-based-on:
-  - "[[path srd 3.5/feats/Boar Ferocity|Boar Ferocity (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Boar Ferocity|Boar Ferocity (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus, style]
 ---

@@ -1,11 +1,7 @@
 ---
 srd-type: "feat"
 section: "Feats"
-based-on:
-  - "[[path srd 3.5/feats/Performance Weapon Mastery|Performance Weapon Mastery (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Performance Weapon Mastery|Performance Weapon Mastery (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/feat, fighter-bonus, performance-combat]
 ---

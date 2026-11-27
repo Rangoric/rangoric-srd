@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Acrobatics 6 ranks, Athletics 6 ranks, monk level 6th."
-based-on:
-  - "[[path srd 3.5/feats/Spider Step|Spider Step (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Spider Step|Spider Step (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

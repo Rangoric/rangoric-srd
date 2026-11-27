@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Beast Hunter; Improved Beast Hunter; base attack bonus +6; Nature or Fieldcraft 6 ranks."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Greater Beast Hunter|Greater Beast Hunter (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

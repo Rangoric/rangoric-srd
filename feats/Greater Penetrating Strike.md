@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Penetrating Strike, Weapon Focus, fighter level 16th."
-based-on:
-  - "[[path srd 3.5/feats/Greater Penetrating Strike|Greater Penetrating Strike (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Greater Penetrating Strike|Greater Penetrating Strike (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Channel energy class feature, orc."
-based-on:
-  - "[[path srd 3.5/feats/Foment the Blood|Foment the Blood (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Foment the Blood|Foment the Blood (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, racial]
 ---

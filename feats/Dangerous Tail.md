@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Base attack bonus +5, Lizardfolk."
-based-on:
-  - "[[path srd 3.5/rules/monster-codex/lizardfolk/New Rules (Lizardfolk)#Dangerous Tail|Dangerous Tail (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/feat, racial]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Goblin."
-based-on:
-  - "[[path srd 3.5/feats/Goblin Gunslinger|Goblin Gunslinger (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Goblin Gunslinger|Goblin Gunslinger (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/feat, fighter-bonus, racial]
 ---

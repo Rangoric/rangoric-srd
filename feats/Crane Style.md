@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dodge, Improved Unarmed Strike, base attack bonus +2 or monk level 1st."
-based-on:
-  - "[[path srd 3.5/feats/Crane Style|Crane Style (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Crane Style|Crane Style (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus, style]
 ---

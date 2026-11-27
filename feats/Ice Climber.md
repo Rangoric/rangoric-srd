@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Arctic Adaptation or Mountaineer, Athletics 2 ranks."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Ice Climber|Ice Climber (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Tiefling, you must have a tail."
-based-on:
-  - "[[path srd 3.5/feats/Grasping Tail|Grasping Tail (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Grasping Tail|Grasping Tail (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, racial]
 ---

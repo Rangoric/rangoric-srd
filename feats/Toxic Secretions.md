@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Grippli, toxic skin alternate racial trait."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Toxic Secretions|Toxic Secretions (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, racial]
 ---

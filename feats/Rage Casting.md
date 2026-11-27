@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Blood casting class feature."
-based-on:
-  - "[[path srd 3.5/feats/Rage Casting|Rage Casting (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Rage Casting|Rage Casting (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-09
 tags: [rangoric, rangoric/feat]
 ---

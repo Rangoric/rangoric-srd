@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Character level 3rd, tengu."
-based-on:
-  - "[[path srd 3.5/feats/Long-Nose Form|Long-Nose Form (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Long-Nose Form|Long-Nose Form (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, racial]
 ---

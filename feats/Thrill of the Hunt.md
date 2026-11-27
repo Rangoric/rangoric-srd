@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Fieldcraft 1 rank; base attack bonus +4 or track class feature."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Thrill of the Hunt|Thrill of the Hunt (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

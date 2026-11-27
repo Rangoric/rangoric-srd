@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Str 13, Cleave, Power Attack, dwarf."
-based-on:
-  - "[[path srd 3.5/feats/Goblin Cleaver|Goblin Cleaver (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Goblin Cleaver|Goblin Cleaver (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, fighter-bonus, racial]
 ---

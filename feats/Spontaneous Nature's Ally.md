@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Nature 5 ranks, ability to spontaneously cast cure or inflict spells, Animal or Plant domain."
-based-on:
-  - "[[path srd 3.5/feats/Spontaneous Nature's Ally|Spontaneous Nature's Ally (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Spontaneous Nature's Ally|Spontaneous Nature's Ally (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat]
 ---

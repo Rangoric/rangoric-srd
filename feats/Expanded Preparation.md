@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Arcanist level 1st."
-based-on:
-  - "[[path srd 3.5/feats/Expanded Preparation|Expanded Preparation (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Expanded Preparation|Expanded Preparation (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-09
 tags: [rangoric, rangoric/feat]
 ---

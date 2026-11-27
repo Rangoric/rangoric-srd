@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Bardic performance class feature."
-based-on:
-  - "[[path srd 3.5/feats/Extra Performance|Extra Performance (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Extra Performance|Extra Performance (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat]
 ---

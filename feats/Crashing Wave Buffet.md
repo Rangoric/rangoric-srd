@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Wis 15, Crashing Wave Style, Improved Drag, Improved Reposition, Improved Unarmed Strike, base attack bonus +6."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Crashing Wave Buffet|Crashing Wave Buffet (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

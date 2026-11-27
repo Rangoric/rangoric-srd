@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Wild shape class feature."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Voice of Beasts|Voice of Beasts (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat, wild]
 ---

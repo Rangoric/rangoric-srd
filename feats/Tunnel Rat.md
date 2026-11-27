@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Ratfolk, swarming racial trait."
-based-on:
-  - "[[path srd 3.5/feats/Tunnel Rat (Feat)|Tunnel Rat (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Tunnel Rat|Tunnel Rat (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, racial]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Amateur Swashbuckler or panache class feature; Persuasion 2 ranks, Intimidation 2 ranks."
-based-on:
-  - "[[path srd 3.5/feats/Disarming Threat Deed|Disarming Threat Deed (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Disarming Threat Deed|Disarming Threat Deed (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-09
 tags: [rangoric, rangoric/feat]
 ---

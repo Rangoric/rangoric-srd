@@ -3,10 +3,7 @@ srd-type: "feat"
 section: "Feats"
 prerequisites: "Proficiency with all martial weapons, base attack bonus +1."
 feat-type: "General"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/feats/Sign of the Sword|Sign of the Sword (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, sign]
 ---

@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Fey, Blood of the Fey, or the fey-touched prestige class."
-based-on:
-  - "[[individual books/Faeries/feats/Fey Spell Mastery|Fey Spell Mastery (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

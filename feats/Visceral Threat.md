@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Intimidating Prowess."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Visceral Threat|Visceral Threat (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

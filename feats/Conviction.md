@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Cha 13."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Conviction (Feat)|Conviction (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

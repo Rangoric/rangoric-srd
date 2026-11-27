@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "See Special."
-based-on:
-  - "[[individual books/Faeries/feats/Fey Sense|Fey Sense (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

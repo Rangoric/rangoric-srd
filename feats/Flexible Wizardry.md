@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Spell Mastery, wizard level 1st."
-based-on:
-  - "[[path srd 3.5/feats/Flexible Wizardry|Flexible Wizardry (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Flexible Wizardry|Flexible Wizardry (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

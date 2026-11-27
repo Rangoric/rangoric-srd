@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Nature Magic or the ability to cast druid or ranger spells, Vital Strike, Nature 5 ranks."
-based-on:
-  - "[[path srd 3.5/feats/Winter's Strike|Winter's Strike (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Winter's Strike|Winter's Strike (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

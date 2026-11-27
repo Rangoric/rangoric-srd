@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Str 18, Improved Unarmed Strike, Improved Wilding Strike, Wilding, Wilding Strike, base attack bonus +16."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Greater Wilding Strike|Greater Wilding Strike (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

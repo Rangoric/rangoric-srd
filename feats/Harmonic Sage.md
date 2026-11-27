@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Bardic performance class feature, Engineering 5 ranks."
-based-on:
-  - "[[path srd 3.5/feats/Harmonic Sage|Harmonic Sage (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Harmonic Sage|Harmonic Sage (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat]
 ---

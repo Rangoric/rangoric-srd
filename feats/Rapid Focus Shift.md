@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Caster level 5th, mental focus class feature."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Rapid Focus Shift|Rapid Focus Shift (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/feat]
 ---

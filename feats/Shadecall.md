@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Shadehand, Shadetongue, Cha 15."
-based-on:
-  - "[[individual books/Spells & Magic v3.0/feats/Shadecall|Shadecall (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, shadetouched]
 ---

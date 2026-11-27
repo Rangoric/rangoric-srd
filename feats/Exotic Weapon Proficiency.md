@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Base attack bonus +1 (plus Str 13 for bastard sword or dwarven waraxe)."
-based-on:
-  - "[[fantasy srd 3.5/feats/Exotic Weapon Proficiency|Exotic Weapon Proficiency (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

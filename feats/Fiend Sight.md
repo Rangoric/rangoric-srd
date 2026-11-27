@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Darkvision 60 ft., tiefling."
-based-on:
-  - "[[path srd 3.5/feats/Fiend Sight|Fiend Sight (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Fiend Sight|Fiend Sight (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, racial]
 ---

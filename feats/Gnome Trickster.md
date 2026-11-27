@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Cha 13, gnome, gnome magic racial trait."
-based-on:
-  - "[[path srd 3.5/feats/Gnome Trickster|Gnome Trickster (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Gnome Trickster|Gnome Trickster (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, racial]
 ---

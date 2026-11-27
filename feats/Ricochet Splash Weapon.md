@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 13, Throw Anything."
-based-on:
-  - "[[path srd 3.5/feats/Ricochet Splash Weapon|Ricochet Splash Weapon (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Ricochet Splash Weapon|Ricochet Splash Weapon (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

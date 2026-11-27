@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Base attack bonus +11, heated rock special ability."
-based-on:
-  - "[[path srd 3.5/rules/monster-codex/fire-giants/New Rules (Fire Giants)#Smoking Boulder|Smoking Boulder (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/feat]
 ---

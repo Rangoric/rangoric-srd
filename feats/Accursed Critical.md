@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Critical Focus, ability to cast bestow curse or major curse, caster level 9th."
-based-on:
-  - "[[path srd 3.5/feats/Accursed Critical|Accursed Critical (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Accursed Critical|Accursed Critical (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-09
 tags: [rangoric, rangoric/feat, critical]
 ---

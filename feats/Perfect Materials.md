@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Craft (alchemy) 9 ranks, Create Alchana, ability to cast 4th-level spells."
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/feats/Perfect Materials|Perfect Materials (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, item-creation]
 ---

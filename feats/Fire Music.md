@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Mysticism 5 ranks, ability to cast bard spells, ability to cast an arcane fire spell from another spellcasting class."
-based-on:
-  - "[[path srd 3.5/feats/Fire Music|Fire Music (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Fire Music|Fire Music (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

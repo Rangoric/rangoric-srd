@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 13, Dodge."
-based-on:
-  - "[[fantasy srd 3.5/feats/Mobility|Mobility (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

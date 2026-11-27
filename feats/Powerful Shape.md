@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Wild shape class feature, druid level 8th."
-based-on:
-  - "[[path srd 3.5/feats/Powerful Shape|Powerful Shape (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Powerful Shape|Powerful Shape (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat, wild]
 ---

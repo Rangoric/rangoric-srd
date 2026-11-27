@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Point Blank Shot, Precise Shot, one other teamwork feat."
-based-on:
-  - "[[path srd 3.5/feats/Enfilading Fire|Enfilading Fire (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Enfilading Fire|Enfilading Fire (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-09
 tags: [rangoric, rangoric/feat, fighter-bonus, teamwork]
 ---

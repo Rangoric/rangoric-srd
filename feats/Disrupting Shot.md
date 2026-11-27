@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 13, Point Blank Shot, fighter level 6th."
-based-on:
-  - "[[path srd 3.5/feats/Disrupting Shot|Disrupting Shot (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Disrupting Shot|Disrupting Shot (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

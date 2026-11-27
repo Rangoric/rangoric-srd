@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dastardly Finish, sneak attack +5d6, studied target class feature."
-based-on:
-  - "[[path srd 3.5/feats/Merciless Butchery|Merciless Butchery (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Merciless Butchery|Merciless Butchery (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

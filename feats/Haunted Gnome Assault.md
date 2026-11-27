@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Cha 13, gnome magic racial trait, Haunted Gnome, Arcana 3 ranks."
-based-on:
-  - "[[path srd 3.5/feats/Haunted Gnome Assault|Haunted Gnome Assault (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Haunted Gnome Assault|Haunted Gnome Assault (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, fighter-bonus, racial]
 ---

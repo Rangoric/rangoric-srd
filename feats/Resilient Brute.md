@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Half-orc or orc."
-based-on:
-  - "[[path srd 3.5/feats/Resilient Brute|Resilient Brute (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Resilient Brute|Resilient Brute (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, racial]
 ---

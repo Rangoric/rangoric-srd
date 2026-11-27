@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Deception 3 ranks, Stealth 3 ranks."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Out of the Sun|Out of the Sun (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-09
 tags: [rangoric, rangoric/feat, teamwork]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Spell Focus (conjuration), able to cast summon nature’s ally."
-based-on:
-  - "[[path srd 3.5/feats/Sunlight Summons|Sunlight Summons (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Sunlight Summons|Sunlight Summons (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

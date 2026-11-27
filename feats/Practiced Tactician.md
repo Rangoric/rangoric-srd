@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Tactician class feature."
-based-on:
-  - "[[path srd 3.5/feats/Practiced Tactician|Practiced Tactician (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Practiced Tactician|Practiced Tactician (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/feat]
 ---

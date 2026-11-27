@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Blood frenzy ability, sahuagin."
-based-on:
-  - "[[path srd 3.5/rules/monster-codex/sahuagin/New Rules (Sahuagin)#Greater Blood Frenzy|Greater Blood Frenzy (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/feat, racial]
 ---

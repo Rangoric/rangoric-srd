@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Anchoring aura class feature."
-based-on:
-  - "[[path srd 3.5/feats/Painful Anchor|Painful Anchor (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Painful Anchor|Painful Anchor (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/feat]
 ---

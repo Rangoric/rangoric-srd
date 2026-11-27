@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Weapon Proficiency (crossbow type chosen) or Exotic Weapon Proficiency (firearms)."
-based-on:
-  - "[[path srd 3.5/feats/Rapid Reload|Rapid Reload (PF1)]]"
-  - "[[fantasy srd 3.5/feats/Rapid Reload|Rapid Reload (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

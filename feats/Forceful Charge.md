@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Improved Bull Rush, Power Attack, animal companion."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Forceful Charge|Forceful Charge (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat]
 ---

@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Weapon Focus with the chosen weapon, studied combat class feature."
-based-on:
-  - "[[path srd 3.5/feats/Ranged Study|Ranged Study (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Ranged Study|Ranged Study (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat]
 ---

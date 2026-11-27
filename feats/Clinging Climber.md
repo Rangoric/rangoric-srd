@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Str 13, Athletics 3 ranks."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Clinging Climber|Clinging Climber (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

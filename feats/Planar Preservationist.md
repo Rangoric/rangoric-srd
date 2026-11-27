@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Preservationist alchemist archetype."
-based-on:
-  - "[[path srd 3.5/feats/Planar Preservationist|Planar Preservationist (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Planar Preservationist|Planar Preservationist (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/feat]
 ---

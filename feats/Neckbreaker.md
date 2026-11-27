@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Bonebreaker, Greater Grapple, Improved Grapple, Improved Unarmed Strike, Jawbreaker, Stunning Fist, Medicine 12 ranks."
-based-on:
-  - "[[path srd 3.5/feats/Neckbreaker|Neckbreaker (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Neckbreaker|Neckbreaker (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

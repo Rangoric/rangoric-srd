@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Arcane spellcaster, caster level 10th."
-based-on:
-  - "[[path srd 3.5/feats/Arcane Shield|Arcane Shield (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Arcane Shield|Arcane Shield (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

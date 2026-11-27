@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Arcane pool class feature."
-based-on:
-  - "[[path srd 3.5/feats/Extra Arcane Pool|Extra Arcane Pool (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Extra Arcane Pool|Extra Arcane Pool (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat]
 ---

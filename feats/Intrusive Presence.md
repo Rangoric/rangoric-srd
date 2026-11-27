@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Int or Cha 21, Hidden Presence, Manipulative Presence, ability to cast possession or greater possession."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Intrusive Presence|Intrusive Presence (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/feat]
 ---

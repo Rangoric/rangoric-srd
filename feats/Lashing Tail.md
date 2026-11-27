@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Grasping Tail, you must have a tail."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Lashing Tail|Lashing Tail (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, fighter-bonus, racial]
 ---

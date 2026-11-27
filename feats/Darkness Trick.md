@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Emulation 5 ranks, ability to cast darkness."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Darkness Trick|Darkness Trick (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

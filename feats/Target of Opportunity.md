@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Point Blank Shot, base attack bonus +6."
-based-on:
-  - "[[path srd 3.5/feats/Target of Opportunity|Target of Opportunity (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Target of Opportunity|Target of Opportunity (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-09
 tags: [rangoric, rangoric/feat, fighter-bonus, teamwork]
 ---

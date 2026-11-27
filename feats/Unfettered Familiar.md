@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Caster level 5th, familiar class feature."
-based-on:
-  - "[[path srd 3.5/feats/Unfettered Familiar|Unfettered Familiar (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Unfettered Familiar|Unfettered Familiar (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat]
 ---

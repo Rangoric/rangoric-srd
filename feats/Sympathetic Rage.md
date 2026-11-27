@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Half-orc or orc, nonlawful."
-based-on:
-  - "[[path srd 3.5/feats/Sympathetic Rage|Sympathetic Rage (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Sympathetic Rage|Sympathetic Rage (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, fighter-bonus, racial]
 ---

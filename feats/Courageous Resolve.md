@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Craven racial trait or fearless racial trait, halfling."
-based-on:
-  - "[[path srd 3.5/feats/Courageous Resolve|Courageous Resolve (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Courageous Resolve|Courageous Resolve (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, racial]
 ---

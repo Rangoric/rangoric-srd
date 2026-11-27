@@ -1,13 +1,7 @@
 ---
 srd-type: "overview"
 section: "Feats"
-based-on:
-  - "[[fantasy srd 3.5/feats/Feats Overview|Feats Overview (3.5)]]"
-  - "[[path srd 3.5/rules/advanced-player-s-guide/feats/Types of Feats (Feats)|Types of Feats (PF1)]]"
-  - "[[individual books/Faeries/rules/New Feats|New Feats (Faeries)]]"
-  - "[[path srd 3.5/rules/ultimate-combat/feats/Types of Feats (Feats, Ultimate Combat)|Types of Feats (PF1 UC)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---

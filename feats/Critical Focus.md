@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Base attack bonus +9."
-based-on:
-  - "[[path srd 3.5/feats/Critical Focus|Critical Focus (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Critical Focus|Critical Focus (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-09
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

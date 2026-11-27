@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Mite Fighter, base attack bonus +8."
-based-on:
-  - "[[individual books/Faeries/feats/Improved Mite Fighter|Improved Mite Fighter (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat]
 ---

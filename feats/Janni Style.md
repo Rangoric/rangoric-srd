@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Improved Unarmed Strike, Acrobatics 3 ranks, Performance 3 ranks."
-based-on:
-  - "[[path srd 3.5/feats/Janni Style|Janni Style (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Janni Style|Janni Style (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus, style]
 ---

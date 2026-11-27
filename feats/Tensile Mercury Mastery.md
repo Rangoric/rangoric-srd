@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Tensile Mercury Expertise."
-based-on:
-  - "[[individual books/Arms & Armor v3.5/feats/Tensile Mercury Mastery|Tensile Mercury Mastery (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

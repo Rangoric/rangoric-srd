@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dodge, Acrobatics 4 ranks."
-based-on:
-  - "[[path srd 3.5/feats/Murderer's Circle|Murderer's Circle (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Murderer's Circle|Murderer's Circle (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/feat, performance, performance-combat]
 ---

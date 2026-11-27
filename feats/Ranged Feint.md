@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Base attack bonus +2, Deception 3 ranks."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Ranged Feint|Ranged Feint (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

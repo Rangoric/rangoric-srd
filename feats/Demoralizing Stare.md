@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Mesmerist level 9th, painful stare class feature."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Demoralizing Stare|Demoralizing Stare (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/feat, fighter-bonus, stare]
 ---

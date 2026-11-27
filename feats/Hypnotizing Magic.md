@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Fey Magic."
-based-on:
-  - "[[individual books/Faeries/feats/Hypnotizing Magic|Hypnotizing Magic (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, metamagic]
 ---

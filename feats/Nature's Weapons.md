@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Catch Off-Guard; base attack bonus +2; Nature or Fieldcraft 2 ranks."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Nature's Weapons|Nature's Weapons (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

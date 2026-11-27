@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Improved Grapple, Improved Unarmed Strike, base attack bonus +6 or monk level 5th."
-based-on:
-  - "[[path srd 3.5/feats/Chokehold|Chokehold (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Chokehold|Chokehold (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

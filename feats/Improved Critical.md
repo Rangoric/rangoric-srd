@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Proficient with weapon, base attack bonus +8."
-based-on:
-  - "[[fantasy srd 3.5/feats/Improved Critical|Improved Critical (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

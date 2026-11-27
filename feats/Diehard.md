@@ -2,12 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Endurance."
-based-on:
-  - "[[fantasy srd 3.5/feats/Diehard|Diehard (3.5)]]"
-  - "[[path srd 3.5/feats/Diehard|Diehard (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Diehard|Diehard (PF1 F)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/feat]
 ---

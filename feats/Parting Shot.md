@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 13, Dodge, Mobility, Point Blank Shot, Shot on the Run, base attack bonus +6."
-based-on:
-  - "[[path srd 3.5/feats/Parting Shot|Parting Shot (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Parting Shot|Parting Shot (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

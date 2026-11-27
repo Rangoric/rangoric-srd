@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 13, Weapon Finesse, Weapon Focus with the chosen weapon."
-based-on:
-  - "[[path srd 3.5/feats/Slashing Grace|Slashing Grace (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Slashing Grace|Slashing Grace (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

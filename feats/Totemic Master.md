@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Str 17, Dex 13, Wis 13, Skill Focus (Athletics), Totemic Disciple, Totemic Initiate, base attack bonus +13, no barbarian totem rage powers except those chosen with this feat, Totemic Disciple, or Totemic Initiate, nonlawful alignment."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Totemic Master|Totemic Master (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat]
 ---

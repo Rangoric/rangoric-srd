@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Sharptooth, ratfolk."
-based-on:
-  - "[[path srd 3.5/rules/monster-codex/ratfolk/New Rules (Ratfolk)#Gnawer|Gnawer (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Gnawer|Gnawer (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/feat, racial]
 ---

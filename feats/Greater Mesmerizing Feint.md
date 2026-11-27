@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Mesmerizing Feint, Deception 10 ranks, hypnotic stare class feature, psychic inception bold stare."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Greater Mesmerizing Feint|Greater Mesmerizing Feint (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

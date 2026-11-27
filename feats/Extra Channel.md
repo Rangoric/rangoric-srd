@@ -2,12 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Channel energy class feature, or another ability to turn or rebuke creatures."
-based-on:
-  - "[[path srd 3.5/feats/Extra Channel|Extra Channel (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Extra Channel|Extra Channel (PF1)]]"
-  - "[[fantasy srd 3.5/feats/Extra Turning|Extra Turning (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

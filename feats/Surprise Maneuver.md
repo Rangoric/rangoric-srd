@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Combat Expertise; sneak attack +3d6 or studied strike +3d6."
-based-on:
-  - "[[path srd 3.5/feats/Surprise Maneuver|Surprise Maneuver (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Surprise Maneuver|Surprise Maneuver (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/feat]
 ---

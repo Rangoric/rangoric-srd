@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Bane class feature, Dazzling Display, Weapon Focus, character level 8th."
-based-on:
-  - "[[path srd 3.5/feats/Intimidating Bane|Intimidating Bane (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Intimidating Bane|Intimidating Bane (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat]
 ---

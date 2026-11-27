@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Draconic Aspect, kobold."
-based-on:
-  - "[[path srd 3.5/feats/Draconic Breath|Draconic Breath (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Draconic Breath|Draconic Breath (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/feat, racial]
 ---

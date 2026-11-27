@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Cha 17, Inspiring Mentor, inspire competence bardic performance."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Omnipresent Mentor|Omnipresent Mentor (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat]
 ---

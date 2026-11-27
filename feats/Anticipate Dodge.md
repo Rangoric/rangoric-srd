@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dodge, Mobility; base attack bonus +7, brawler level 4th, or monk level 4th."
-based-on:
-  - "[[path srd 3.5/feats/Anticipate Dodge|Anticipate Dodge (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Anticipate Dodge|Anticipate Dodge (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

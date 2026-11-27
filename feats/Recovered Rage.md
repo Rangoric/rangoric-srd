@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Rage or raging song class feature."
-based-on:
-  - "[[path srd 3.5/feats/Recovered Rage|Recovered Rage (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Recovered Rage|Recovered Rage (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat]
 ---

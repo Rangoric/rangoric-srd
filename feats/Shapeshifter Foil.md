@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Arcana or Nature 5 ranks, ability to use any polymorph effect."
-based-on:
-  - "[[path srd 3.5/feats/Shapeshifter Foil|Shapeshifter Foil (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Shapeshifter Foil|Shapeshifter Foil (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
 ---

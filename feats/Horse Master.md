@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Expert trainer class feature, Animal Handling 6 ranks."
-based-on:
-  - "[[path srd 3.5/feats/Horse Master|Horse Master (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Horse Master|Horse Master (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/feat, fighter-bonus]
 ---

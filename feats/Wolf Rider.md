@@ -2,10 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Undersized Mount or effective level 7th in the class that grants the mount; Nature 1 rank; special mount or mount class feature."
-based-on:
-  - "[[path srd 3.5 foundry/feats/Wolf Rider|Wolf Rider (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/feat]
 ---

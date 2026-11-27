@@ -2,11 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Attuned to the Wild, elf."
-based-on:
-  - "[[path srd 3.5/feats/Mage of the Wild|Mage of the Wild (PF1)]]"
-  - "[[path srd 3.5 foundry/feats/Mage of the Wild|Mage of the Wild (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, racial]
 ---
