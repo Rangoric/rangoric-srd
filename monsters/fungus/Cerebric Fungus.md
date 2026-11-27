@@ -28,7 +28,6 @@ alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/fungus/Fungus|Fungus]]"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Cerebric Fungus|Cerebric Fungus (PF1)]]"
 status: draft

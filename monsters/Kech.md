@@ -27,7 +27,6 @@ treasure: "Standard (longbow with 20 arrows, other treasure)"
 alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Kech|Kech (PF1)]]"
 status: draft

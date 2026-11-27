@@ -27,7 +27,6 @@ treasure: "Incidental"
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Water Strider, Nymph|Water Strider, Nymph (PF1)]]"
 status: draft

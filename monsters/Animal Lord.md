@@ -28,7 +28,6 @@ treasure: "NPC gear (+1 leather armor, +1 seeking composite longbow [+5 Str] wit
 alignment: "Usually neutral good"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Animal Lord|Animal Lord (PF1)]]"
   - "[[path srd 3.5/monsters/Animal Lord#Creating an Animal Lord|Creating an Animal Lord (PF1)]]"

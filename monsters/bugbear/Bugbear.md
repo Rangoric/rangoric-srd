@@ -28,7 +28,6 @@ treasure: "NPC Gear (leather armor, light wooden shield, morningstar, 3 javelins
 alignment: "Usually chaotic evil"
 advancement: "By character class"
 level-adjustment: "+1"
-book: ["Bestiary", "Monster Codex"]
 based-on:
   - "[[path srd 3.5/monsters/Bugbear|Bugbear (PF1)]]"
   - "[[path srd 3.5/rules/monster-codex/bugbears/Bugbears (Bugbears)|Bugbears, society (PF1)]]"

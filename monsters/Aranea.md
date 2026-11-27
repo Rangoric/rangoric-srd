@@ -28,7 +28,6 @@ treasure: "Standard"
 alignment: "Usually neutral"
 advancement: "By character class"
 level-adjustment: "+4"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Aranea|Aranea (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Aranea|Aranea (3.5)]]"

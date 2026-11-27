@@ -29,7 +29,6 @@ alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/demodands/Demodand|Demodand]]"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Demodand, Tarry|Demodand, Tarry (PF1)]]"
 status: draft

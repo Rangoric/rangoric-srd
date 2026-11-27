@@ -27,7 +27,6 @@ treasure: "None"
 alignment: "Usually neutral"
 advancement: "4–5 HD (Large)"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Wolverine|Wolverine (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Wolverine|Wolverine (3.5)]]"

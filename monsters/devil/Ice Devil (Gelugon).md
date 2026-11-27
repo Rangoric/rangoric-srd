@@ -29,7 +29,6 @@ alignment: "Always lawful evil"
 advancement: "15–28 HD (Large); 29–42 HD (Huge)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/devil/Devil|Devil]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Devil, Ice|Devil, Ice (PF1)]]"
   - "[[fantasy srd 3.5/monsters/devil/Ice Devil (Gelugon)|Ice Devil (Gelugon) (3.5)]]"

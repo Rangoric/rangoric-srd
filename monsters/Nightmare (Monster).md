@@ -28,7 +28,6 @@ treasure: "None"
 alignment: "Always neutral evil"
 advancement: "7–10 HD (Large); 11–18 HD (Huge)"
 level-adjustment: "+4 (cohort)"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Nightmare (Monster)|Nightmare (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Nightmare (Monster)|Nightmare (Monster) (3.5)]]"

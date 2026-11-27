@@ -29,7 +29,6 @@ alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/drake/Drake|Drake]]"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Drake, Frost|Drake, Frost (PF1)]]"
 status: draft

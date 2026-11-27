@@ -29,7 +29,6 @@ alignment: "Usually lawful evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/vampire/Vampire|Vampire]]"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Vampire, Jiang-Shi|Vampire, Jiang-Shi (PF1)]]"
   - "[[path srd 3.5 foundry/monster-templates/Jiang-Shi|Jiang-Shi (PF1 Foundry)]]"

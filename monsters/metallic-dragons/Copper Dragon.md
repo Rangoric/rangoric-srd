@@ -11,7 +11,6 @@ treasure: "Triple standard"
 alignment: "Always chaotic good"
 advancement: "Wyrmling 6 HD; very young 8 HD; young 10 HD; juvenile 12 HD; young adult 14 HD; adult 16 HD; mature adult 18 HD; old 20 HD; very old 22 HD; ancient 24 HD; wyrm 26 HD; great wyrm 28+ HD"
 level-adjustment: "Wyrmling +2; very young +3; young +4; juvenile +4; others —"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Dragon, Metallic, Copper|Copper Dragon (PF1)]]"
   - "[[path srd 3.5/monsters/Dragon, Metallic, Copper, Young|Young Copper Dragon (PF1)]]"

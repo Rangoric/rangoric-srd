@@ -28,7 +28,6 @@ alignment: "Always neutral"
 advancement: "10–18 HD (Large); 19–27 HD (Huge)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/golem/Golem|Golem]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Golem, Flesh (Bestiary)|Golem, Flesh (Bestiary) (PF1)]]"
   - "[[fantasy srd 3.5/monsters/golem/Flesh Golem|Flesh Golem (3.5)]]"

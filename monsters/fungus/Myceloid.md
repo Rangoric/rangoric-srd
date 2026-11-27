@@ -28,7 +28,6 @@ alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/fungus/Fungus|Fungus]]"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Myceloid|Myceloid (PF1)]]"
 status: draft

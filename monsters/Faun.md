@@ -27,7 +27,6 @@ treasure: "Standard (dagger, shortbow with 20 arrows, masterwork panpipes, other
 alignment: "Usually chaotic good"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Faun|Faun (PF1)]]"
 status: draft

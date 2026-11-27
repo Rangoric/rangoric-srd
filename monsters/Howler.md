@@ -28,7 +28,6 @@ treasure: "Incidental"
 alignment: "Always chaotic evil"
 advancement: "7–9 HD (Large); 11–18 HD (Huge)"
 level-adjustment: "+3 (cohort)"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Howler|Howler (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Howler|Howler (3.5)]]"

@@ -3,7 +3,6 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Ex"]
 kind: ["quality", "weakness"]
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Manananggal|Manananggal (PF1)]]"
 status: draft

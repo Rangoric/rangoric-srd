@@ -27,7 +27,6 @@ treasure: "None"
 alignment: "Usually neutral"
 advancement: "5–8 HD (Large); 9–12 HD (Huge)"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Mantis, Giant (Monster)|Mantis, Giant (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Giant Praying Mantis|Giant Praying Mantis (3.5)]]"

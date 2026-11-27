@@ -29,7 +29,6 @@ alignment: "Usually chaotic evil"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/giant/Frost Giant|Frost Giant]]"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/monsters/Frost Giant Jarl|Frost Giant Jarl (PF1)]]"
 status: draft

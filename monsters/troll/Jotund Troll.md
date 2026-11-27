@@ -29,7 +29,6 @@ alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/troll/Troll|Troll]]"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Troll, Jotund|Troll, Jotund (PF1)]]"
 status: draft

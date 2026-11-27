@@ -29,7 +29,6 @@ alignment: "Usually chaotic evil"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/troglodyte/Troglodyte|Troglodyte]]"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/monsters/Troglodyte Scale-Rider|Troglodyte Scale-Rider (PF1)]]"
 status: draft

@@ -29,7 +29,6 @@ alignment: "Chaotic evil"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/dwarf/Dwarf|Dwarf]]"
-book: "NPC Codex"
 based-on:
   - "[[path srd 3.5/monsters/Storm Prophet|Storm Prophet (PF1)]]"
 status: draft

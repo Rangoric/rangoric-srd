@@ -28,7 +28,6 @@ treasure: "NPC gear (sais [2], other treasure)"
 alignment: "Usually lawful neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Kasatha|Kasatha (PF1)]]"
 status: draft

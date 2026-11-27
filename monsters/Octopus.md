@@ -28,7 +28,6 @@ treasure: "None"
 alignment: "Usually neutral"
 advancement: "3–6 HD (Medium)"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Octopus (Monster)|Octopus (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Octopus|Octopus (3.5)]]"

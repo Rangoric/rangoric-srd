@@ -28,7 +28,6 @@ alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/gremlin/Gremlins|Gremlins]]"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Gremlin, Monaciello|Gremlin, Monaciello (PF1)]]"
 status: draft

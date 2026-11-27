@@ -28,7 +28,6 @@ treasure: "NPC gear (quarterstaff)"
 alignment: "Usually lawful good"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Vanara|Vanara (PF1)]]"
 status: draft

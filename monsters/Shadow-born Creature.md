@@ -1,7 +1,6 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/templates/Shadow-born Creatures|Shadow-born Creatures (Faeries)]]"
 status: draft

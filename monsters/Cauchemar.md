@@ -28,7 +28,6 @@ treasure: "None"
 alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Nightmare, Cauchemar|Nightmare, Cauchemar (PF1)]]"
 status: draft

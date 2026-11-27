@@ -28,7 +28,6 @@ treasure: "NPC gear (trident, heavy crossbow with 10 bolts, other treasure)"
 alignment: "Usually neutral"
 advancement: "By character class"
 level-adjustment: "+1"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Merfolk (Monster)|Merfolk (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Merfolk|Merfolk (3.5)]]"

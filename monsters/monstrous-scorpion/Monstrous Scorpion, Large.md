@@ -28,7 +28,6 @@ alignment: "Usually neutral"
 advancement: "6–9 HD (Large)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/monstrous-scorpion/Monstrous Scorpion|Monstrous Scorpion]]"
-book: "Bestiary"
 aliases: ["Giant Scorpion"]
 based-on:
   - "[[path srd 3.5/monsters/Scorpion, Giant (Monster)|Scorpion, Giant (PF1)]]"

@@ -3,7 +3,6 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Sp"]
 kind: ["quality"]
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Leprechaun|Leprechaun (PF1)]]"
 status: draft

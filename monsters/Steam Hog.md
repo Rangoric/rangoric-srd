@@ -27,7 +27,6 @@ treasure: "Standard (Huge adamantine scale mail barding, other treasure)"
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/monsters/Steam Hog|Steam Hog (PF1)]]"
 status: draft

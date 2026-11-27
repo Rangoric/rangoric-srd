@@ -27,7 +27,6 @@ treasure: "None"
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Dog, Riding (Monster)|Dog, Riding (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Dog, Riding|Dog, Riding (3.5)]]"

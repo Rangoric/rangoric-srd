@@ -3,7 +3,6 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Ex"]
 kind: ["special attack"]
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Lurker Above|Lurker Above (PF1)]]"
   - "[[path srd 3.5/monsters/Trapper (Monster, Bestiary 4)|Trapper (Monster, Bestiary 4) (PF1)]]"

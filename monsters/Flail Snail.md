@@ -27,7 +27,6 @@ treasure: "Standard (shell worth 800 gp, other treasure)"
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Flail Snail|Flail Snail (PF1)]]"
 status: draft

@@ -28,7 +28,6 @@ treasure: "None"
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Crab, Shark-Eating|Crab, Shark-Eating (PF1)]]"
 status: draft

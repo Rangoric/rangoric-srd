@@ -27,7 +27,6 @@ treasure: "NPC gear (hide armor, 2 longswords, 2 javelins, shobhad longrifle wit
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Shobhad|Shobhad (PF1)]]"
 status: draft

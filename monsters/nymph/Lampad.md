@@ -28,7 +28,6 @@ alignment: "Usually chaotic neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/nymph/Nymphs|Nymphs]]"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Lampad|Lampad (PF1)]]"
 status: draft

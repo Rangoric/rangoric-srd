@@ -29,7 +29,6 @@ alignment: "Usually lawful evil"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/giant/Fire Giant|Fire Giant]]"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/monsters/Fire Giant King|Fire Giant King (PF1)]]"
 status: draft

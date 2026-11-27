@@ -28,7 +28,6 @@ treasure: "NPC gear (+1 full plate, +1 greatsword, composite longbow [+8 Str] wi
 alignment: "Usually lawful evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Graveknight|Graveknight (PF1)]]"
   - "[[path srd 3.5 foundry/monster-templates/Graveknight|Graveknight (PF1 Foundry)]]"

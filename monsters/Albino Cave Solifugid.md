@@ -27,7 +27,6 @@ treasure: "None"
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Solifugid, Albino Cave|Solifugid, Albino Cave (PF1)]]"
 status: draft

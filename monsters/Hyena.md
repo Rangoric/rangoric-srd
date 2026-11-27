@@ -27,7 +27,6 @@ treasure: "None"
 alignment: "Usually neutral"
 advancement: "3 HD (Medium); 4–5 HD (Large)"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Hyena|Hyena (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Hyena|Hyena (3.5)]]"

@@ -27,7 +27,6 @@ treasure: "None"
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 3, Ultimate Magic"
 based-on:
   - "[[path srd 3.5/monsters/Familiar, Goat (Bestiary 3)|Familiar, Goat (Bestiary 3) (PF1)]]"
   - "[[path srd 3.5/monsters/Familiar, Goat|Familiar, Goat (PF1)]]"

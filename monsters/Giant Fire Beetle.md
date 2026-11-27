@@ -27,7 +27,6 @@ treasure: "None"
 alignment: "Usually neutral"
 advancement: "2–3 HD (Small)"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Beetle, Fire|Beetle, Fire (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Giant Fire Beetle|Giant Fire Beetle (3.5)]]"

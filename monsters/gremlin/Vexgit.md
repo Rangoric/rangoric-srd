@@ -28,7 +28,6 @@ alignment: "Usually lawful evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/gremlin/Gremlins|Gremlins]]"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Gremlin, Vexgit|Gremlin, Vexgit (PF1)]]"
 status: draft

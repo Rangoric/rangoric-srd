@@ -28,7 +28,6 @@ treasure: "Standard"
 alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Ningyo|Ningyo (PF1)]]"
 status: draft

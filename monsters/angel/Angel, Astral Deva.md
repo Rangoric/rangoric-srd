@@ -29,7 +29,6 @@ alignment: "Usually neutral good"
 advancement: "13–18 HD (Medium); 19–36 HD (Large)"
 level-adjustment: "+8"
 group: "[[rangoric-srd/monsters/angel/Angel|Angel]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Angel, Astral Deva|Angel, Astral Deva (PF1)]]"
   - "[[fantasy srd 3.5/monsters/angel/Angel, Astral Deva|Angel, Astral Deva (3.5)]]"

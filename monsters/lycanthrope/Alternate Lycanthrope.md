@@ -2,7 +2,6 @@
 srd-type: "monster"
 section: "Monsters"
 group: "[[rangoric-srd/monsters/lycanthrope/Lycanthrope|Lycanthrope]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5 foundry/monster-templates/Lycanthrope|Lycanthrope (PF1 Foundry)]]"
   - "[[path srd 3.5 foundry/template-abilities/Change Shape (Lycanthrope)|Change Shape (Lycanthrope) (PF1 Foundry)]]"

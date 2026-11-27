@@ -29,7 +29,6 @@ alignment: "Always lawful neutral"
 advancement: "11–12 HD (Large)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/formian/Formian|Formian]]"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Formian Taskmaster|Formian Taskmaster (PF1)]]"
   - "[[fantasy srd 3.5/monsters/formian/Formian Taskmaster|Formian Taskmaster (3.5)]]"

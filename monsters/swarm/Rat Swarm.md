@@ -29,7 +29,6 @@ alignment: "Always neutral"
 advancement: "None"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/swarm/Swarm|Swarm]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Swarm, Rat|Swarm, Rat (PF1)]]"
   - "[[fantasy srd 3.5/monsters/swarm/Rat Swarm|Rat Swarm (3.5)]]"

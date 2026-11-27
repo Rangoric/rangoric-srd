@@ -28,7 +28,6 @@ alignment: "Usually chaotic good"
 advancement: "7–12 HD (Medium)"
 level-adjustment: "+7"
 group: "[[rangoric-srd/monsters/nymph/Nymphs|Nymphs]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Nymph|Nymph (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Nymph|Nymph (3.5)]]"

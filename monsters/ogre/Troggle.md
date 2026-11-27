@@ -29,7 +29,6 @@ alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/ogre/Ogre|Ogre]]"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/monsters/Troggle|Troggle (PF1)]]"
 status: draft

@@ -28,7 +28,6 @@ treasure: "Standard"
 alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Vouivre|Vouivre (PF1)]]"
 status: draft

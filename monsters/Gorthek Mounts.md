@@ -27,7 +27,6 @@ treasure: "—"
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/monsters/Gorthek Mounts|Gorthek Mounts (PF1)]]"
 status: draft

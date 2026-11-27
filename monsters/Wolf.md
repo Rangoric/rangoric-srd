@@ -27,7 +27,6 @@ treasure: "None"
 alignment: "Usually neutral"
 advancement: "3 HD (Medium); 4–6 HD (Large)"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Wolf (Monster)|Wolf (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Wolf|Wolf (3.5)]]"

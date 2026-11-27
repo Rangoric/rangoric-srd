@@ -28,7 +28,6 @@ treasure: "Double (+1 composite longbow [+4 Str], +1 halberd, masterwork breastp
 alignment: "Usually lawful good"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Kami, Zuishin|Kami, Zuishin (PF1)]]"
 status: draft

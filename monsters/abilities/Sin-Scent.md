@@ -3,7 +3,6 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Su"]
 kind: ["quality"]
-book: "Bestiary 4, Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Fleshdreg|Fleshdreg (PF1)]]"
   - "[[path srd 3.5/monsters/Sinspawn|Sinspawn (PF1)]]"

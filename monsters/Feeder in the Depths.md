@@ -27,7 +27,6 @@ treasure: "None"
 alignment: "Usually lawful evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/monsters/Feeder in the Depths|Feeder in the Depths (PF1)]]"
 status: draft

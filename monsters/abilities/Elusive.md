@@ -3,7 +3,6 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Su"]
 kind: ["quality"]
-book: "Bestiary 3, Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Sea Serpent, Deep|Sea Serpent, Deep (PF1)]]"
   - "[[path srd 3.5/monsters/Water Orm|Water Orm (PF1)]]"

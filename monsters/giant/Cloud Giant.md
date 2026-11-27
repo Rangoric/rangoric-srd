@@ -29,7 +29,6 @@ alignment: "Usually neutral good or neutral evil"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/giant/Giant|Giant]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Giant, Cloud|Giant, Cloud (PF1)]]"
   - "[[fantasy srd 3.5/monsters/giant/Cloud Giant|Cloud Giant (3.5)]]"

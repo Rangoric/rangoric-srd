@@ -29,7 +29,6 @@ alignment: "Usually lawful evil"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/vampire/Vampire|Vampire]]"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/monsters/Enlightened Vampire|Enlightened Vampire (PF1)]]"
 status: draft

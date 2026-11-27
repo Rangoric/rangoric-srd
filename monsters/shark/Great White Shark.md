@@ -29,7 +29,6 @@ alignment: "Usually neutral"
 advancement: "11–17 HD (Huge)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/shark/Shark|Shark]]"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Shark, Great White|Shark, Great White (PF1)]]"
   - "[[fantasy srd 3.5/monsters/shark/Shark, Huge|Shark, Huge (3.5)]]"

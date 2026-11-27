@@ -28,7 +28,6 @@ treasure: "Standard (masterwork trident, heavy crossbow with 10 bolts, other tre
 alignment: "Usually neutral good"
 advancement: "4–9 HD (Medium)"
 level-adjustment: "+2"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Triton|Triton (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Triton|Triton (3.5)]]"

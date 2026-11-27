@@ -27,7 +27,6 @@ treasure: "Standard (leather armor, 2 pistols, other treasure)"
 alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Pale Stranger|Pale Stranger (PF1)]]"
 status: draft

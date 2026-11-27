@@ -29,7 +29,6 @@ alignment: "Usually neutral"
 advancement: "9–15 HD (Large)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/elemental/Fire Elemental|Fire Elemental]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Elemental, Fire, Large|Elemental, Fire, Large (PF1)]]"
   - "[[fantasy srd 3.5/monsters/elemental/Fire Elemental, Large|Fire Elemental, Large (3.5)]]"

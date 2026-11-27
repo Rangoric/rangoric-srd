@@ -28,7 +28,6 @@ alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/spider/Spider|Spider]]"
-book: "Bestiary 4, Ultimate Magic"
 based-on:
   - "[[path srd 3.5/monsters/Spider, Scarlet|Spider, Scarlet (PF1)]]"
   - "[[path srd 3.5/monsters/Familiar, Spider, Scarlet|Familiar, Spider, Scarlet (PF1)]]"

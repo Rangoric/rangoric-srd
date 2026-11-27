@@ -29,7 +29,6 @@ alignment: "Always chaotic evil"
 advancement: "15–20 HD (Huge); 21–42 HD (Gargantuan)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/demon/Demon|Demon]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Demon, Nalfeshnee|Demon, Nalfeshnee (PF1)]]"
   - "[[fantasy srd 3.5/monsters/demon/Nalfeshnee|Nalfeshnee (3.5)]]"

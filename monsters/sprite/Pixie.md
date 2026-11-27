@@ -28,7 +28,6 @@ alignment: "Always neutral good"
 advancement: "2–3 HD (Small)"
 level-adjustment: "+4 (+6 with irresistible dance)"
 group: "[[rangoric-srd/monsters/sprite/Sprite|Sprite]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Pixie|Pixie (PF1)]]"
   - "[[fantasy srd 3.5/monsters/sprite/Pixie|Pixie (3.5)]]"

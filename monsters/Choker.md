@@ -27,7 +27,6 @@ treasure: "Standard"
 alignment: "Usually chaotic evil"
 advancement: "4–6 HD (Small); 7–12 HD (Medium)"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Choker|Choker (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Choker|Choker (3.5)]]"

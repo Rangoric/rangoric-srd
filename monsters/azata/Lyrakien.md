@@ -28,7 +28,6 @@ treasure: "None"
 alignment: "Usually chaotic good"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Azata, Lyrakien|Azata, Lyrakien (PF1)]]"
 status: draft

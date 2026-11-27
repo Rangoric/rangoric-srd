@@ -29,7 +29,6 @@ alignment: "Usually neutral"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/lizardfolk/Lizardfolk|Lizardfolk]]"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/monsters/Lizardfolk Champion|Lizardfolk Champion (PF1)]]"
 status: draft

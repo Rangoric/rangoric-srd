@@ -28,7 +28,6 @@ alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/spider/Spider|Spider]]"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Spider, Giant Black Widow|Spider, Giant Black Widow (PF1)]]"
 status: draft

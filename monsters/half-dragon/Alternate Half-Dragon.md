@@ -2,7 +2,6 @@
 srd-type: "monster"
 section: "Monsters"
 group: "[[rangoric-srd/monsters/half-dragon/Half-Dragon|Half-Dragon]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5 foundry/monster-templates/Half-Dragon|Half-Dragon (PF1 Foundry)]]"
 status: draft

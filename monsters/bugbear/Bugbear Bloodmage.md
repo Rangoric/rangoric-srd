@@ -29,7 +29,6 @@ alignment: "Usually chaotic evil"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/bugbear/Bugbear|Bugbear]]"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/monsters/Bugbear Bloodmage|Bugbear Bloodmage (PF1)]]"
 status: draft

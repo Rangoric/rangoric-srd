@@ -27,7 +27,6 @@ treasure: "Double (mwk dagger, other treasure)"
 alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Spring-Heeled Jack|Spring-Heeled Jack (PF1)]]"
 status: draft

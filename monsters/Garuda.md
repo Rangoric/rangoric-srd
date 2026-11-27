@@ -28,7 +28,6 @@ treasure: "Double (+1 shock composite longbow [+3 Str], other treasure)"
 alignment: "Usually chaotic good"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Garuda|Garuda (PF1)]]"
 status: draft

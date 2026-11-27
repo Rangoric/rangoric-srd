@@ -27,7 +27,6 @@ treasure: "Standard (+1 composite longbow [+3 Str], other treasure)"
 alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Baykok|Baykok (PF1)]]"
 status: draft

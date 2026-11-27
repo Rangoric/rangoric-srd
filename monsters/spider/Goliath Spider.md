@@ -28,7 +28,6 @@ alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/spider/Spider|Spider]]"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Spider, Goliath|Spider, Goliath (PF1)]]"
 status: draft

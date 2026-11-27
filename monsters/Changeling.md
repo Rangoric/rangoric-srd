@@ -28,7 +28,6 @@ treasure: "Gear (quarterstaff, spell component pouch, other treasure)"
 alignment: "Usually lawful neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Changeling|Changeling (PF1)]]"
 status: draft

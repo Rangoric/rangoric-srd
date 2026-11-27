@@ -29,7 +29,6 @@ alignment: "Usually neutral good"
 advancement: "By character class"
 level-adjustment: "+1"
 group: "[[rangoric-srd/monsters/planetouched/Planetouched|Planetouched]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Aasimar|Aasimar (PF1)]]"
   - "[[fantasy srd 3.5/monsters/planetouched/Aasimar|Aasimar (3.5)]]"

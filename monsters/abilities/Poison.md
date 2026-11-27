@@ -3,7 +3,6 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Ex", "Su"]
 kind: ["special attack", "attack rider"]
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/rules/bestiary/Universal Monster Rules#Poison (Su)|Poison (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Monster Types, Sybtypes, and Special Abilities|Monster Types, Sybtypes, and Special Abilities (3.5)]]"

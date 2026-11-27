@@ -29,7 +29,6 @@ alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/behemoth/Behemoth|Behemoth]]"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Behemoth, Thalassic|Behemoth, Thalassic (PF1)]]"
 status: draft

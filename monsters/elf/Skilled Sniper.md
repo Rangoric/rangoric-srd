@@ -29,7 +29,6 @@ alignment: "Chaotic neutral"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/elf/Elf|Elf]]"
-book: "NPC Codex"
 based-on:
   - "[[path srd 3.5/monsters/Skilled Sniper|Skilled Sniper (PF1)]]"
 status: draft

@@ -28,7 +28,6 @@ treasure: "Incidental"
 alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Vampiric Mist|Vampiric Mist (PF1)]]"
 status: draft

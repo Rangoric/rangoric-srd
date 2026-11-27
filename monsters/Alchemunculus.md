@@ -1,7 +1,6 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-book: "Alchemy & Herbalists"
 aliases: ["Alchemunculi"]
 size: "Tiny"
 creature-type: "Construct"

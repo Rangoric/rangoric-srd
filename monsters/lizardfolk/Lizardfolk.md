@@ -28,7 +28,6 @@ treasure: "NPC gear (heavy wooden shield, morningstar, 3 javelins)"
 alignment: "Usually neutral"
 advancement: "By character class"
 level-adjustment: "+1"
-book: ["Bestiary", "Monster Codex"]
 based-on:
   - "[[path srd 3.5/monsters/Lizardfolk|Lizardfolk (PF1)]]"
   - "[[path srd 3.5/rules/monster-codex/lizardfolk/Lizardfolk (Lizardfolk)|Lizardfolk, society (PF1)]]"

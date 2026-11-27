@@ -29,7 +29,6 @@ alignment: "Usually neutral good"
 advancement: "15–21 HD (Large); 22–42 HD (Huge)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/angel/Angel|Angel]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Angel, Planetar|Angel, Planetar (PF1)]]"
   - "[[fantasy srd 3.5/monsters/angel/Angel, Planetar|Angel, Planetar (3.5)]]"

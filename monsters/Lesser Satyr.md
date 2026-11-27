@@ -26,7 +26,6 @@ challenge-rating: "2"
 treasure: "Standard"
 alignment: "Usually neutral"
 advancement: "5–10 HD (Medium)"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/creatures/Satyr|Satyr (Faeries)]]"
   - "[[individual books/Faeries/tables/Table p121 Faun (Lesser Satyr)|Table p121 Faun (Lesser Satyr) (Faeries)]]"

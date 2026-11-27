@@ -29,7 +29,6 @@ alignment: "Always chaotic evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/shadow/Shadow|Shadow]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Shadow, Greater|Shadow, Greater (PF1)]]"
   - "[[fantasy srd 3.5/monsters/shadow/Greater Shadow|Greater Shadow (3.5)]]"

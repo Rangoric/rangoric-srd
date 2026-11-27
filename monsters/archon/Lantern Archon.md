@@ -29,7 +29,6 @@ alignment: "Always lawful good"
 advancement: "2–4 HD (Small)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/archon/Archon|Archon]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Archon, Lantern|Archon, Lantern (PF1)]]"
   - "[[fantasy srd 3.5/monsters/archon/Lantern Archon|Lantern Archon (3.5)]]"

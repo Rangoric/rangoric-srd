@@ -29,7 +29,6 @@ alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/ogre/Ogre|Ogre]]"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Ogrekin|Ogrekin (PF1)]]"
 status: draft

@@ -10,7 +10,6 @@ challenge-rating: [3, 5, 7, 8, 10, 11, 12, 14, 15, 16, 17, 19]
 treasure: "Triple"
 alignment: "Usually lawful neutral"
 advancement: "Wyrmling 5 HD; very young 7 HD; young 9 HD; juvenile 11 HD; young adult 13 HD; adult 15 HD; mature adult 17 HD; old 19 HD; very old 21 HD; ancient 23 HD; wyrm 25 HD; great wyrm 27+ HD"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Dragon, Primal, Brine|Primal Brine Dragon (PF1)]]"
   - "[[path srd 3.5/monsters/Dragon, Primal, Brine, Young|Young Primal Brine Dragon (PF1)]]"

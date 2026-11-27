@@ -29,7 +29,6 @@ alignment: "Lawful neutral"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/dwarf/Dwarf|Dwarf]]"
-book: "NPC Codex"
 based-on:
   - "[[path srd 3.5/monsters/Golem-Breaker|Golem-Breaker (PF1)]]"
 status: draft

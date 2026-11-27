@@ -29,7 +29,6 @@ alignment: "Always neutral"
 advancement: "2–3 HD (Small)"
 level-adjustment: "+3"
 group: "[[rangoric-srd/monsters/sprite/Sprite|Sprite]]"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Nixie|Nixie (PF1)]]"
   - "[[fantasy srd 3.5/monsters/sprite/Nixie|Nixie (3.5)]]"

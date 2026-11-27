@@ -27,7 +27,6 @@ treasure: "None"
 alignment: "Usually neutral"
 advancement: "6–8 HD (Large)"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Lion|Lion (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Lion|Lion (3.5)]]"

@@ -28,7 +28,6 @@ alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/whale/Whale|Whale]]"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Whale, Great White|Whale, Great White (PF1)]]"
 status: draft

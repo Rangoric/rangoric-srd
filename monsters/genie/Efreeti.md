@@ -29,7 +29,6 @@ alignment: "Always lawful evil"
 advancement: "11–15 HD (Large); 16–30 HD (Huge)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/genie/Genie|Genie]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Genie, Efreeti|Genie, Efreeti (PF1)]]"
   - "[[fantasy srd 3.5/monsters/genie/Efreeti|Efreeti (3.5)]]"

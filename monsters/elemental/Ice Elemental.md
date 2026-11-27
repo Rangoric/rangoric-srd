@@ -2,7 +2,6 @@
 srd-type: "monster"
 section: "Monsters"
 group: "[[rangoric-srd/monsters/elemental/Elemental|Elemental]]"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Elemental, Ice|Elemental, Ice (PF1)]]"
 status: draft

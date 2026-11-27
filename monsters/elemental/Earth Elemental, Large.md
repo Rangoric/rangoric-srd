@@ -29,7 +29,6 @@ alignment: "Usually neutral"
 advancement: "9–15 HD (Large)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/elemental/Earth Elemental|Earth Elemental]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Elemental, Earth, Large|Elemental, Earth, Large (PF1)]]"
   - "[[fantasy srd 3.5/monsters/elemental/Earth Elemental, Large|Earth Elemental, Large (3.5)]]"

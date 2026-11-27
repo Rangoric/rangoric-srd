@@ -28,7 +28,6 @@ treasure: "NPC Gear (leather armor, heavy wooden shield, battleaxe, longbow with
 alignment: "Usually chaotic evil"
 advancement: "By character class"
 level-adjustment: "+1"
-book: ["Bestiary", "Monster Codex"]
 based-on:
   - "[[path srd 3.5/monsters/Gnoll|Gnoll (PF1)]]"
   - "[[path srd 3.5/rules/monster-codex/gnolls/Gnolls (Gnolls)|Gnolls, society (PF1)]]"

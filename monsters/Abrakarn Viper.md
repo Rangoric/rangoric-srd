@@ -28,7 +28,6 @@ treasure: "None"
 alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/monsters/Abrakarn Viper (Monster)|Abrakarn Viper (PF1)]]"
 status: draft

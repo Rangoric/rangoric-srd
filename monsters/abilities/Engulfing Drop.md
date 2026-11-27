@@ -3,7 +3,6 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Ex"]
 kind: ["special attack"]
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Executioner's Hood|Executioner's Hood (PF1)]]"
 status: draft

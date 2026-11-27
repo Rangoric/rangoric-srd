@@ -29,7 +29,6 @@ alignment: "Usually lawful evil"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/duergar/Duergar, 1st-Level Warrior|Duergar, 1st-Level Warrior]]"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/monsters/Duergar Anvil|Duergar Anvil (PF1)]]"
 status: draft

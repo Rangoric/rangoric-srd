@@ -29,7 +29,6 @@ alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/zombie/Zombie|Zombie]]"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Zombie, Juju|Zombie, Juju (PF1)]]"
   - "[[path srd 3.5 foundry/monster-templates/Juju Zombie|Juju Zombie (PF1 Foundry)]]"

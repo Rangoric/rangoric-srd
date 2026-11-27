@@ -2,7 +2,6 @@
 srd-type: "monster"
 section: "Monsters"
 group: "[[rangoric-srd/monsters/simple-templates/Simple Templates|Simple Templates]]"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/rules/bestiary/monster-advancement/Simple Templates#Resolute Creature|Simple Templates (PF1)]]"
   - "[[path srd 3.5 foundry/monster-templates/Resolute (Template)|Resolute (Template) (PF1 Foundry)]]"

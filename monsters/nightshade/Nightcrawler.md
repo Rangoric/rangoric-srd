@@ -29,7 +29,6 @@ alignment: "Always chaotic evil"
 advancement: "26–50 HD (Colossal)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/nightshade/Nightshade|Nightshade]]"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Nightshade, Nightcrawler|Nightshade, Nightcrawler (PF1)]]"
   - "[[fantasy srd 3.5/monsters/nightshade/Nightcrawler|Nightcrawler (3.5)]]"

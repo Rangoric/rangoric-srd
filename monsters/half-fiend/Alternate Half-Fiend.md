@@ -29,7 +29,6 @@ alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/half-fiend/Half-Fiend|Half-Fiend]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Half-Fiend|Half-Fiend (PF1)]]"
   - "[[path srd 3.5/monsters/Half-Fiend#Creating a Half-Fiend|Creating a Half-Fiend (PF1)]]"

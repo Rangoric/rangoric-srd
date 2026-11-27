@@ -29,7 +29,6 @@ alignment: "Always lawful neutral"
 advancement: "25–30 HD (Huge); 31–40 HD (Gargantuan)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/formian/Formian|Formian]]"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Formian Queen|Formian Queen (PF1)]]"
   - "[[fantasy srd 3.5/monsters/formian/Formian Queen|Formian Queen (3.5)]]"

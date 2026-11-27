@@ -27,7 +27,6 @@ treasure: "None"
 alignment: "Always neutral"
 advancement: "7–9 HD (Large); 10–18 HD (Huge)"
 level-adjustment: "—"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Sea Cat|Sea Cat (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Sea Cat|Sea Cat (3.5)]]"

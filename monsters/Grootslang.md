@@ -27,7 +27,6 @@ treasure: "Double (at least 50% gems)"
 alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Grootslang|Grootslang (PF1)]]"
 status: draft

@@ -29,7 +29,6 @@ alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/lich/Lich|Lich]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Lich|Lich (PF1)]]"
   - "[[path srd 3.5 foundry/monster-templates/Lich|Lich (PF1 Foundry)]]"

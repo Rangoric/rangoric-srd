@@ -3,7 +3,6 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Ex"]
 kind: ["quality"]
-book: "Bestiary 5"
 based-on:
   - "[[path srd 3.5 foundry/monsters/bestiary-5/Deep One (Monster)|Deep One (Monster) (PF1 Foundry)]]"
   - "[[path srd 3.5 foundry/monsters/bestiary-5/Elder Deep One|Elder Deep One (PF1 Foundry)]]"

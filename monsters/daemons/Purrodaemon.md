@@ -29,7 +29,6 @@ alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/daemons/Daemon|Daemon]]"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Daemon, Purrodaemon|Daemon, Purrodaemon (PF1)]]"
 status: draft

@@ -28,7 +28,6 @@ treasure: "NPC gear (masterwork breastplate, heavy steel shield, masterwork rapi
 alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Drow Noble|Drow Noble (PF1)]]"
 status: draft

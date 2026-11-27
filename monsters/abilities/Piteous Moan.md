@@ -3,7 +3,6 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Su"]
 kind: ["special attack", "quality"]
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Fleshwarp, Grothlut|Fleshwarp, Grothlut (PF1)]]"
 status: draft

@@ -3,7 +3,6 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Ex"]
 kind: ["quality", "movement"]
-book: "Bestiary 4, Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Oma|Oma (PF1)]]"
   - "[[path srd 3.5/monsters/Shantak|Shantak (PF1)]]"

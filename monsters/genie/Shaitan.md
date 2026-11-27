@@ -29,7 +29,6 @@ alignment: "Usually lawful neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/genie/Genie|Genie]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Genie, Shaitan|Genie, Shaitan (PF1)]]"
 status: draft

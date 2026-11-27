@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Monsters"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/rules/bestiary/monster-advancement/Adding Racial Hit Dice|Adding Racial Hit Dice (PF1)]]"
 status: draft

@@ -1,7 +1,6 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/templates/High Fey Creature|High Fey Creature (Faeries)]]"
 status: draft

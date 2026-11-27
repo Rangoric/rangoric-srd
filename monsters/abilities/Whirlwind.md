@@ -3,7 +3,6 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Su"]
 kind: ["special attack"]
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/rules/bestiary/Universal Monster Rules#Whirlwind (Su)|Whirlwind (PF1)]]"
 status: draft

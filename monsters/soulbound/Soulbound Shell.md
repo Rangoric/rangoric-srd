@@ -28,7 +28,6 @@ alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/soulbound/Soulbound|Soulbound]]"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Soulbound Shell (Monster)|Soulbound Shell (PF1)]]"
 status: draft

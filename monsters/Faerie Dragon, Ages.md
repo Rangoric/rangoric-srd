@@ -25,7 +25,6 @@ challenge-rating: "2"
 treasure: "Double standard (gems, magic)"
 alignment: "Always chaotic good"
 advancement: "Wyrmling to very old (Tiny); ancient to great wyrm (Small)"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/creatures/Faerie Dragon|Faerie Dragon (Faeries)]]"
   - "[[individual books/Faeries/tables/Table p117 Age|Table p117 Age (Faeries)]]"

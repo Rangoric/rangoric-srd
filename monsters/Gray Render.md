@@ -27,7 +27,6 @@ treasure: "Incidental"
 alignment: "Usually neutral"
 advancement: "11–15 HD (Large); 16–30 HD (Huge)"
 level-adjustment: "+5 (cohort)"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Gray Render|Gray Render (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Gray Render|Gray Render (3.5)]]"

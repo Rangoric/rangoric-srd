@@ -3,7 +3,6 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Ex"]
 kind: ["quality"]
-book: "Bestiary 3, Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Kyton, Eremite|Kyton, Eremite (PF1)]]"
   - "[[path srd 3.5/monsters/Kyton, Ostiarius|Kyton, Ostiarius (PF1)]]"

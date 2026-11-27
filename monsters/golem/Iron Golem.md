@@ -28,7 +28,6 @@ alignment: "Always neutral"
 advancement: "19–24 HD (Large); 25–54 HD (Huge)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/golem/Golem|Golem]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Golem, Iron|Golem, Iron (PF1)]]"
   - "[[fantasy srd 3.5/monsters/golem/Iron Golem|Iron Golem (3.5)]]"

@@ -28,7 +28,6 @@ treasure: "Standard"
 alignment: "Usually neutral"
 advancement: "9–12 HD (Large); 13–24 HD (Huge)"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Invisible Stalker|Invisible Stalker (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Invisible Stalker|Invisible Stalker (3.5)]]"

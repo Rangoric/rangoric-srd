@@ -27,7 +27,6 @@ treasure: "Standard (leather armor, morningstar, and other treasure)"
 alignment: "Usually chaotic evil"
 advancement: "By character class"
 level-adjustment: "+3"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Harpy|Harpy (PF1)]]"
   - "[[fantasy srd 3.5/monsters/harpy/Harpy|Harpy (3.5)]]"

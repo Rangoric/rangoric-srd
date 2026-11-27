@@ -28,7 +28,6 @@ treasure: "Triple"
 alignment: "Usually chaotic neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Bokrug|Bokrug (PF1)]]"
 status: draft

@@ -10,7 +10,6 @@ challenge-rating: [4, 6, 8, 9, 11, 12, 13, 15, 16, 17, 18, 20]
 treasure: "Triple"
 alignment: "Usually chaotic neutral"
 advancement: "Wyrmling 6 HD; very young 8 HD; young 10 HD; juvenile 12 HD; young adult 14 HD; adult 16 HD; mature adult 18 HD; old 20 HD; very old 22 HD; ancient 24 HD; wyrm 26 HD; great wyrm 28+ HD"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Dragon, Primal, Magma|Primal Magma Dragon (PF1)]]"
   - "[[path srd 3.5/monsters/Dragon, Primal, Magma, Young|Young Primal Magma Dragon (PF1)]]"

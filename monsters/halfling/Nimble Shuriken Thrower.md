@@ -29,7 +29,6 @@ alignment: "Lawful neutral"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/halfling/Halfling|Halfling]]"
-book: "NPC Codex"
 based-on:
   - "[[path srd 3.5/monsters/Nimble Shuriken Thrower|Nimble Shuriken Thrower (PF1)]]"
 status: draft

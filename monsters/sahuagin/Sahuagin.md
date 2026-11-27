@@ -28,7 +28,6 @@ treasure: "NPC gear (trident, heavy crossbow with 10 bolts, other treasure)"
 alignment: "Usually lawful evil"
 advancement: "3–5 HD (Medium), 6–10 HD (Large), or by character class"
 level-adjustment: "+2 (+3 if four-armed)"
-book: ["Bestiary", "Monster Codex"]
 based-on:
   - "[[path srd 3.5/monsters/Sahuagin|Sahuagin (PF1)]]"
   - "[[path srd 3.5/rules/monster-codex/sahuagin/Sahuagin (Sahuagin)|Sahuagin, society (PF1)]]"

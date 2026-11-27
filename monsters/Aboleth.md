@@ -28,7 +28,6 @@ treasure: "Double"
 alignment: "Usually lawful evil"
 advancement: "9–16 HD (Huge); 17–24 HD (Gargantuan)"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Aboleth|Aboleth (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Aboleth|Aboleth (3.5)]]"

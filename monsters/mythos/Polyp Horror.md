@@ -28,7 +28,6 @@ treasure: "Standard"
 alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 4"
 aliases: ["Flying Polyp"]
 based-on:
   - "[[path srd 3.5/monsters/Flying Polyp|Flying Polyp (PF1)]]"

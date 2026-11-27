@@ -29,7 +29,6 @@ alignment: "Usually lawful evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/hag/Hag|Hag]]"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Qallupilluk|Qallupilluk (PF1)]]"
 status: draft

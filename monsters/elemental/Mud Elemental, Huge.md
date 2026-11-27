@@ -29,7 +29,6 @@ alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/elemental/Mud Elemental|Mud Elemental]]"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Elemental, Mud, Huge|Elemental, Mud, Huge (PF1)]]"
 status: draft

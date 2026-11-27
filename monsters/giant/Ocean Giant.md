@@ -29,7 +29,6 @@ alignment: "Usually chaotic good"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/giant/Giant|Giant]]"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Giant, Ocean|Giant, Ocean (PF1)]]"
 status: draft

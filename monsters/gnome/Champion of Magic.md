@@ -29,7 +29,6 @@ alignment: "Lawful good"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/gnome/Gnome|Gnome]]"
-book: "NPC Codex"
 based-on:
   - "[[path srd 3.5/monsters/Champion of Magic|Champion of Magic (PF1)]]"
 status: draft

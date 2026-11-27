@@ -27,7 +27,6 @@ treasure: "None"
 alignment: "Usually chaotic neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Fey Creature|Fey Creature (PF1)]]"
   - "[[path srd 3.5/monsters/Fey Creature#Creating a Fey Creature|Creating a Fey Creature (PF1)]]"

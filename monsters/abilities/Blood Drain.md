@@ -3,7 +3,6 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Ex"]
 kind: ["special attack"]
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/rules/bestiary/Universal Monster Rules#Blood Drain (Ex)|Blood Drain (PF1)]]"
 status: draft

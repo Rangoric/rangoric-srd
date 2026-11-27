@@ -28,7 +28,6 @@ treasure: "Standard"
 alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/monsters/Kyrana|Kyrana (PF1)]]"
 status: draft

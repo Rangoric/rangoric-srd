@@ -28,7 +28,6 @@ treasure: "Incidental"
 alignment: "Usually neutral"
 advancement: "15–21 HD (Huge); 22–42 HD (Gargantuan)"
 level-adjustment: "—"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Frost Worm|Frost Worm (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Frost Worm|Frost Worm (3.5)]]"

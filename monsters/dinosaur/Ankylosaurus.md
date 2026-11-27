@@ -28,7 +28,6 @@ alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/dinosaur/Dinosaur|Dinosaur]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Dinosaur, Ankylosaurus|Dinosaur, Ankylosaurus (PF1)]]"
 status: draft

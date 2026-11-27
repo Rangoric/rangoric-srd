@@ -29,7 +29,6 @@ alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/titans/Titan (Group)|Titan (Group)]]"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Titan, Thanatotic|Titan, Thanatotic (PF1)]]"
 status: draft

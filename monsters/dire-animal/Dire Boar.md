@@ -28,7 +28,6 @@ alignment: "Always neutral"
 advancement: "8–16 HD (Large); 17–21 HD (Huge)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/dire-animal/Dire Animal|Dire Animal]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Boar, Dire|Boar, Dire (PF1)]]"
   - "[[fantasy srd 3.5/monsters/dire-animal/Dire Boar|Dire Boar (3.5)]]"

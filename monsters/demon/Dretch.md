@@ -29,7 +29,6 @@ alignment: "Always chaotic evil"
 advancement: "3–6 HD (Small)"
 level-adjustment: "+2"
 group: "[[rangoric-srd/monsters/demon/Demon|Demon]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Demon, Dretch|Demon, Dretch (PF1)]]"
   - "[[fantasy srd 3.5/monsters/demon/Dretch|Dretch (3.5)]]"

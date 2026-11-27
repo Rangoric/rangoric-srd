@@ -28,7 +28,6 @@ alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/monstrous-centipede/Monstrous Centipede|Monstrous Centipede]]"
-book: "Bestiary"
 aliases: ["Giant Centipede"]
 based-on:
   - "[[path srd 3.5/monsters/Centipede, Giant (Monster)|Centipede, Giant (PF1)]]"

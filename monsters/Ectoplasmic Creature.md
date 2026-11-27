@@ -27,7 +27,6 @@ treasure: "None"
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Ectoplasmic Creature|Ectoplasmic Creature (PF1)]]"
   - "[[path srd 3.5 foundry/monster-templates/Ectoplasmic|Ectoplasmic (PF1 Foundry)]]"

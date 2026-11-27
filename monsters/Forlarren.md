@@ -27,7 +27,6 @@ treasure: "Standard"
 alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Forlarren|Forlarren (PF1)]]"
 status: draft

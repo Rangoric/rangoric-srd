@@ -29,7 +29,6 @@ alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/dark-folk/Dark Folk|Dark Folk]]"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Dark Caller|Dark Caller (PF1)]]"
 status: draft

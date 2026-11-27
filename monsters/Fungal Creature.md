@@ -28,7 +28,6 @@ treasure: "Standard"
 alignment: "Usually chaotic good"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Fungal Creature|Fungal Creature (PF1)]]"
   - "[[path srd 3.5/monsters/Fungal Creature#Creating a Fungal Creature|Creating a Fungal Creature (PF1)]]"

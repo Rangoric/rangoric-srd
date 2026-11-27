@@ -28,7 +28,6 @@ treasure: "None"
 alignment: "Usually neutral"
 advancement: "5–6 HD (Medium)"
 level-adjustment: "—"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Ray, Manta|Ray, Manta (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Manta Ray|Manta Ray (3.5)]]"

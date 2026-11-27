@@ -27,7 +27,6 @@ treasure: "Incidental"
 alignment: "Usually neutral"
 advancement: "4–6 HD (Medium); 7–9 HD (Large)"
 level-adjustment: "—"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Bee, Giant|Bee, Giant (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Giant Bee|Giant Bee (3.5)]]"

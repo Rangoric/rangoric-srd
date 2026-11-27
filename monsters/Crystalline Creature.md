@@ -1,7 +1,6 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/creatures/Crystalline Creatures|Crystalline Creatures (Spells & Magic)]]"
   - "[[individual books/Spells & Magic v3.0/tables/Table p35 Level|Table p35 (Spells & Magic)]]"

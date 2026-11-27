@@ -28,7 +28,6 @@ treasure: "Incidental"
 alignment: "Always lawful evil"
 advancement: "5-8 HD (Medium); 9-12 HD (Large)"
 level-adjustment: "+3 (cohort)"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Hell Hound|Hell Hound (PF1)]]"
   - "[[fantasy srd 3.5/monsters/hell-hound/Hell Hound|Hell Hound (3.5)]]"

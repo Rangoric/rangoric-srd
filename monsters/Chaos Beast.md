@@ -28,7 +28,6 @@ treasure: "None"
 alignment: "Always chaotic neutral"
 advancement: "9–12 HD (Medium); 13–24 HD (Large)"
 level-adjustment: "—"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Chaos Beast|Chaos Beast (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Chaos Beast|Chaos Beast (3.5)]]"

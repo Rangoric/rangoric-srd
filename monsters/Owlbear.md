@@ -27,7 +27,6 @@ treasure: "Incidental"
 alignment: "Always neutral"
 advancement: "6–8 HD (Large); 9–15 HD (Huge)"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Owlbear|Owlbear (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Owlbear|Owlbear (3.5)]]"

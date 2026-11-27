@@ -27,7 +27,6 @@ treasure: "Double"
 alignment: "Often neutral"
 advancement: "10–13 HD (Huge); 14–27 HD (Gargantuan)"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Behir|Behir (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Behir|Behir (3.5)]]"

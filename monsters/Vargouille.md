@@ -28,7 +28,6 @@ treasure: "None"
 alignment: "Always neutral evil"
 advancement: "2–3 HD (Small)"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Vargouille|Vargouille (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Vargouille|Vargouille (3.5)]]"

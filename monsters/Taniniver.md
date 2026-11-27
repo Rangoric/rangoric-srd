@@ -27,7 +27,6 @@ treasure: "Standard"
 alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Taniniver|Taniniver (PF1)]]"
 status: draft

@@ -28,7 +28,6 @@ treasure: "Standard"
 alignment: "Always lawful evil"
 advancement: "7–12 HD (Large); 13–18 HD (Huge)"
 level-adjustment: "—"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Achaierai|Achaierai (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Achaierai|Achaierai (3.5)]]"

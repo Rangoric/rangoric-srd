@@ -28,7 +28,6 @@ treasure: "Standard (*wand of protection from good* [5 charges], other treasure)
 alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 5"
 aliases: ["Deep One (Monster)"]
 based-on:
   - "[[path srd 3.5 foundry/monsters/bestiary-5/Deep One (Monster)|Deep One (Monster) (PF1 Foundry)]]"

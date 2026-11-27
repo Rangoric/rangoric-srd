@@ -27,7 +27,6 @@ treasure: "Standard"
 alignment: "Always lawful good"
 advancement: "8–10 HD (Large); 11–21 HD (Huge)"
 level-adjustment: "+5"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Lammasu|Lammasu (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Lammasu|Lammasu (3.5)]]"

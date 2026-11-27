@@ -27,7 +27,6 @@ treasure: "Standard"
 alignment: "Usually neutral"
 advancement: "5–12 HD (Large)"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Gibbering Mouther|Gibbering Mouther (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Gibbering Mouther|Gibbering Mouther (3.5)]]"

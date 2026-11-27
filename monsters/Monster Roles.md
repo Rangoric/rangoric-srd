@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Monsters"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/rules/bestiary/Monster Roles|Monster Roles (PF1)]]"
   - "[[path srd 3.5/rules/bestiary/monster-roles/Combat Role|Combat Role (PF1)]]"

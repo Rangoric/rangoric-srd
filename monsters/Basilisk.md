@@ -27,7 +27,6 @@ treasure: "Incidental"
 alignment: "Always neutral"
 advancement: "7–10 HD (Medium); 11–18 HD (Large)"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Basilisk|Basilisk (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Basilisk|Basilisk (3.5)]]"

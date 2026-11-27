@@ -29,7 +29,6 @@ alignment: "Often chaotic good"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/giant/Giant|Giant]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Giant, Storm|Giant, Storm (PF1)]]"
   - "[[fantasy srd 3.5/monsters/giant/Storm Giant|Storm Giant (3.5)]]"

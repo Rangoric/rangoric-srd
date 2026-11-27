@@ -29,7 +29,6 @@ alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/ooze/Ooze|Ooze]]"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Carnivorous Crystal|Carnivorous Crystal (PF1)]]"
 status: draft

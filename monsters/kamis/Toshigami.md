@@ -28,7 +28,6 @@ treasure: "Standard (+2 quarterstaff, other treasure)"
 alignment: "Usually neutral good"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Kami, Toshigami|Kami, Toshigami (PF1)]]"
 status: draft

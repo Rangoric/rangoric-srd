@@ -6,7 +6,6 @@ size: "Huge"
 creature-type: "Magical Beast"
 subtypes:
   - "Fire"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Hydra|Hydra (PF1)]]"
   - "[[fantasy srd 3.5/monsters/hydra/Pyrohydra|Pyrohydra (3.5)]]"

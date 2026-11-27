@@ -29,7 +29,6 @@ alignment: "Usually chaotic good"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/half-celestial/Half-Celestial|Half-Celestial]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Half-Celestial|Half-Celestial (PF1)]]"
   - "[[path srd 3.5/monsters/Half-Celestial#Creating a Half-Celestial|Creating a Half-Celestial (PF1)]]"

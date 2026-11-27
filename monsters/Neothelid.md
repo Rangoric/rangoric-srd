@@ -27,7 +27,6 @@ treasure: "Standard"
 alignment: "Usually chaotic evil"
 advancement: "26-45 HD (Colossal)"
 level-adjustment: "-"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Neothelid|Neothelid (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Neothelid|Neothelid (3.5)]]"

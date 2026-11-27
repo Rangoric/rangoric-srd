@@ -3,7 +3,6 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Su"]
 kind: ["quality"]
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Giant, Jungle|Giant, Jungle (PF1)]]"
 status: draft

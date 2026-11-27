@@ -29,7 +29,6 @@ alignment: "Often lawful evil"
 advancement: "By character class"
 level-adjustment: "+1"
 group: "[[rangoric-srd/monsters/dwarf/Dwarf|Dwarf]]"
-book: ["Bestiary", "Monster Codex"]
 based-on:
   - "[[path srd 3.5/monsters/Duergar (Monster)|Duergar (PF1)]]"
   - "[[path srd 3.5/rules/monster-codex/duergar/Duergar (Duergar)|Duergar, society (PF1)]]"

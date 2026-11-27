@@ -29,7 +29,6 @@ alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/vampire/Vampire|Vampire]]"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/monsters/Vampire Spawn|Vampire Spawn (PF1)]]"
   - "[[path srd 3.5 foundry/monster-templates/Vampire Spawn|Vampire Spawn (PF1 Foundry)]]"

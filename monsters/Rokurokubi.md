@@ -27,7 +27,6 @@ treasure: "Standard"
 alignment: "Usually lawful evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Rokurokubi|Rokurokubi (PF1)]]"
 status: draft

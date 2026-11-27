@@ -29,7 +29,6 @@ alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/daemons/Daemon|Daemon]]"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Daemon, Crucidaemon|Daemon, Crucidaemon (PF1)]]"
 status: draft

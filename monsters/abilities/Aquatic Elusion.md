@@ -3,7 +3,6 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Su"]
 kind: ["quality", "movement"]
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Grootslang|Grootslang (PF1)]]"
 status: draft

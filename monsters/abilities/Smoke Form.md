@@ -3,7 +3,6 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Sp"]
 kind: ["special attack"]
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Oni, Fire Yai|Oni, Fire Yai (PF1)]]"
 status: draft

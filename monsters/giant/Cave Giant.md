@@ -29,7 +29,6 @@ alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/giant/Giant|Giant]]"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Giant, Cave|Giant, Cave (PF1)]]"
 status: draft

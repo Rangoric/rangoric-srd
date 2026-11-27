@@ -3,7 +3,6 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Su"]
 kind: ["special attack"]
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/monsters/Frightful Haunter|Frightful Haunter (PF1)]]"
 status: draft

@@ -28,7 +28,6 @@ alignment: "Usually lawful good"
 advancement: "12–16 HD (Large); 17–33 HD (Huge)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/naga/Naga|Naga]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Naga, Guardian|Naga, Guardian (PF1)]]"
   - "[[fantasy srd 3.5/monsters/naga/Guardian Naga|Guardian Naga (3.5)]]"

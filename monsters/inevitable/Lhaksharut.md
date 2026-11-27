@@ -28,7 +28,6 @@ treasure: "Double (+2 longsword, +2 spear, +2 morningstar, other treasure)"
 alignment: "Usually lawful neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Inevitable, Lhaksharut|Inevitable, Lhaksharut (PF1)]]"
 status: draft

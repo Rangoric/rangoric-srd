@@ -11,7 +11,6 @@ treasure: "Triple standard"
 alignment: "Always lawful good"
 advancement: "Wyrmling 7 HD; very young 9 HD; young 11 HD; juvenile 13 HD; young adult 15 HD; adult 17 HD; mature adult 19 HD; old 21 HD; very old 23 HD; ancient 25 HD; wyrm 27 HD; great wyrm 29+ HD"
 level-adjustment: "Wyrmling +4; very young +4; young +6; others —"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Dragon, Metallic, Bronze|Bronze Dragon (PF1)]]"
   - "[[path srd 3.5/monsters/Dragon, Metallic, Bronze, Young|Young Bronze Dragon (PF1)]]"

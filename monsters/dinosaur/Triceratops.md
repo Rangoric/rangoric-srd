@@ -28,7 +28,6 @@ alignment: "Always neutral"
 advancement: "17–32 HD (Huge); 33–48 HD (Gargantuan)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/dinosaur/Dinosaur|Dinosaur]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Dinosaur, Triceratops|Dinosaur, Triceratops (PF1)]]"
   - "[[fantasy srd 3.5/monsters/dinosaur/Triceratops|Triceratops (3.5)]]"

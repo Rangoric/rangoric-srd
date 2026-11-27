@@ -29,7 +29,6 @@ alignment: "Usually neutral evil"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/sahuagin/Sahuagin|Sahuagin]]"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/monsters/Sahuagin Champion|Sahuagin Champion (PF1)]]"
 status: draft

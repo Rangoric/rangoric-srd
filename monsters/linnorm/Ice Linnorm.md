@@ -28,7 +28,6 @@ alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/linnorm/Linnorm|Linnorm]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Linnorm, Ice|Linnorm, Ice (PF1)]]"
 status: draft

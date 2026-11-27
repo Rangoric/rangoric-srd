@@ -29,7 +29,6 @@ alignment: "Usually lawful evil"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/sahuagin/Sahuagin|Sahuagin]]"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/monsters/Sahuagin Prince|Sahuagin Prince (PF1)]]"
 status: draft

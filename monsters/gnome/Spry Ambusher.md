@@ -29,7 +29,6 @@ alignment: "Lawful neutral"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/gnome/Gnome|Gnome]]"
-book: "NPC Codex"
 based-on:
   - "[[path srd 3.5/monsters/Spry Ambusher|Spry Ambusher (PF1)]]"
 status: draft

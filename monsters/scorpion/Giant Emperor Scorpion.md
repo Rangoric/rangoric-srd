@@ -28,7 +28,6 @@ alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/scorpion/Scorpion|Scorpion]]"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Scorpion, Giant Emperor|Scorpion, Giant Emperor (PF1)]]"
 status: draft

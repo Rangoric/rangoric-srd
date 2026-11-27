@@ -27,7 +27,6 @@ treasure: "None"
 alignment: "Usually neutral"
 advancement: "2–3 HD (Medium)"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Eagle|Eagle (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Eagle|Eagle (3.5)]]"

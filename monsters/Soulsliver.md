@@ -28,7 +28,6 @@ treasure: "Incidental"
 alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Soulsliver|Soulsliver (PF1)]]"
 status: draft

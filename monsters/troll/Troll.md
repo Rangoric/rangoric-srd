@@ -28,7 +28,6 @@ treasure: "Standard"
 alignment: "Usually chaotic evil"
 advancement: "By character class"
 level-adjustment: "+5"
-book: ["Bestiary", "Monster Codex"]
 based-on:
   - "[[path srd 3.5/monsters/Troll|Troll (PF1)]]"
   - "[[path srd 3.5/rules/monster-codex/trolls/Trolls (Trolls)|Trolls, society (PF1)]]"

@@ -21,7 +21,6 @@ views:
       - file.name
       - note.ability-type
       - note.kind
-      - note.book
       - note.status
     sort:
       - property: file.name

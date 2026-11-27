@@ -28,7 +28,6 @@ treasure: "Standard (+1 banded mail, +1 katana, other treasure)"
 alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Oni, Fire Yai|Oni, Fire Yai (PF1)]]"
 status: draft

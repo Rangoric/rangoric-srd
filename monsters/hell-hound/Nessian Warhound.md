@@ -29,7 +29,6 @@ alignment: "Always lawful evil"
 advancement: "13-17 HD (Large); 18-24 HD (Huge)"
 level-adjustment: "+4 (cohort)"
 group: "[[rangoric-srd/monsters/hell-hound/Hell Hound|Hell Hound]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Hell Hound, Nessian|Hell Hound, Nessian (PF1)]]"
   - "[[fantasy srd 3.5/monsters/hell-hound/Nessian Warhound|Nessian Warhound (3.5)]]"

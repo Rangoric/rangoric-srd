@@ -27,7 +27,6 @@ treasure: "None"
 alignment: "Usually chaotic good"
 advancement: "5–8 HD (Large)"
 level-adjustment: "+2 (cohort)"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Pegasus|Pegasus (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Pegasus|Pegasus (3.5)]]"

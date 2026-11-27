@@ -27,7 +27,6 @@ treasure: "Incidental"
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Flytrap, Giant|Flytrap, Giant (PF1)]]"
 status: draft

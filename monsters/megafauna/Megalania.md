@@ -28,7 +28,6 @@ alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/megafauna/Megafauna|Megafauna]]"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Megafauna, Megalania|Megafauna, Megalania (PF1)]]"
 status: draft

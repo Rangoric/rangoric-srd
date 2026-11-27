@@ -28,7 +28,6 @@ alignment: "Always neutral"
 advancement: "11–20 HD (Huge); 21–30 HD (Gargantuan)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/dinosaur/Dinosaur|Dinosaur]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Dinosaur, Elasmosaurus|Dinosaur, Elasmosaurus (PF1)]]"
   - "[[fantasy srd 3.5/monsters/dinosaur/Elasmosaurus|Elasmosaurus (3.5)]]"

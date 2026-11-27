@@ -29,7 +29,6 @@ alignment: "Chaotic neutral"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/human/Human|Human]]"
-book: "NPC Codex"
 based-on:
   - "[[path srd 3.5/monsters/Grizzled Mercenary|Grizzled Mercenary (PF1)]]"
 status: draft

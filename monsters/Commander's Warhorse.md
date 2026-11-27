@@ -27,7 +27,6 @@ treasure: "—"
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/monsters/Commander's Warhorse|Commander's Warhorse (PF1)]]"
 status: draft

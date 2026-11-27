@@ -2,7 +2,6 @@
 srd-type: "monster"
 section: "Monsters"
 group: "[[rangoric-srd/monsters/simple-templates/Simple Templates|Simple Templates]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/rules/bestiary/monster-advancement/Simple Templates#Young Creature|Simple Templates (PF1)]]"
   - "[[path srd 3.5 foundry/monster-templates/Young (Quick)|Young (Quick) (PF1 Foundry)]]"

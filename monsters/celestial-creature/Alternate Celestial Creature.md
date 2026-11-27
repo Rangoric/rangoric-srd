@@ -2,7 +2,6 @@
 srd-type: "monster"
 section: "Monsters"
 group: "[[rangoric-srd/monsters/celestial-creature/Celestial Creature|Celestial Creature]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/rules/bestiary/monster-advancement/Simple Templates#Celestial Creature|Simple Templates (PF1)]]"
   - "[[path srd 3.5 foundry/monster-templates/Celestial|Celestial (PF1 Foundry)]]"

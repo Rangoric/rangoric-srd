@@ -29,7 +29,6 @@ alignment: "Always lawful evil"
 advancement: "Special (see below)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/barghest/Barghest|Barghest]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Barghest, Greater|Barghest, Greater (PF1)]]"
   - "[[fantasy srd 3.5/monsters/barghest/Greater Barghest|Greater Barghest (3.5)]]"

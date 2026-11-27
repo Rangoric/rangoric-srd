@@ -28,7 +28,6 @@ treasure: "Double (500 to 2,000 gp in rubies, other treasure)"
 alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Denizen of Leng|Denizen of Leng (PF1)]]"
 status: draft

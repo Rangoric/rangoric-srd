@@ -29,7 +29,6 @@ alignment: "Usually chaotic neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/genie/Genie|Genie]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Genie, Marid|Genie, Marid (PF1)]]"
 status: draft

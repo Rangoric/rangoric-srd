@@ -29,7 +29,6 @@ alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/clockwork/Clockwork|Clockwork]]"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Clockwork Mage (Monster)|Clockwork Mage (PF1)]]"
 status: draft

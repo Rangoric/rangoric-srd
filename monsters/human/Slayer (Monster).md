@@ -28,7 +28,6 @@ alignment: "Neutral evil"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/human/Human|Human]]"
-book: "Game Mastery Guide"
 based-on:
   - "[[path srd 3.5/monsters/Slayer (Monster)|Slayer (PF1)]]"
 status: draft

@@ -27,7 +27,6 @@ treasure: "Standard (ranseur, other treasure)"
 alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Sinspawn|Sinspawn (PF1)]]"
 status: draft

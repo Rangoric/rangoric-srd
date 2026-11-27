@@ -1,7 +1,6 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-book: "Pathfinder Adventure Path #113"
 based-on:
   - "[[path srd 3.5 foundry/monster-templates/Child of Yog-Sothoth|Child of Yog-Sothoth (PF1 Foundry)]]"
 status: draft

@@ -29,7 +29,6 @@ alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/bugbear/Bugbear|Bugbear]]"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/monsters/Frightful Haunter|Frightful Haunter (PF1)]]"
 status: draft

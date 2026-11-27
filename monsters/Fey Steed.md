@@ -26,7 +26,6 @@ challenge-rating: "2"
 treasure: "None"
 alignment: "Always good"
 advancement: "—"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/creatures/Fey Steed|Fey Steed (Faeries)]]"
 status: draft

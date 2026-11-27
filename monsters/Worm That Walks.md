@@ -28,7 +28,6 @@ treasure: "NPC Gear (+4 leather armor, cloak of resistance +4, staff of charming
 alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Worm That Walks|Worm That Walks (PF1)]]"
   - "[[path srd 3.5/monsters/Worm That Walks#Creating a Worm That Walks|Creating a Worm That Walks (PF1)]]"

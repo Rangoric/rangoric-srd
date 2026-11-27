@@ -28,7 +28,6 @@ treasure: "Standard"
 alignment: "Usually neutral good"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Phoenix|Phoenix (PF1)]]"
 status: draft

@@ -1,7 +1,6 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-book: "Alchemy & Herbalists"
 aliases: ["Erlmantles"]
 size: "Small"
 creature-type: "Plant"

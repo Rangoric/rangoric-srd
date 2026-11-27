@@ -29,7 +29,6 @@ alignment: "Usually chaotic neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/dark-folk/Dark Folk|Dark Folk]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Dark Stalker|Dark Stalker (PF1)]]"
 status: draft

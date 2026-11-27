@@ -27,7 +27,6 @@ treasure: "Incidental"
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Wolf-in-Sheep's-Clothing|Wolf-in-Sheep's-Clothing (PF1)]]"
 status: draft

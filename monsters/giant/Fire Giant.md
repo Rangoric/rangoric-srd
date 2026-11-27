@@ -29,7 +29,6 @@ alignment: "Often lawful evil"
 advancement: "By character class"
 level-adjustment: "+4"
 group: "[[rangoric-srd/monsters/giant/Giant|Giant]]"
-book: ["Bestiary", "Monster Codex"]
 based-on:
   - "[[path srd 3.5/monsters/Giant, Fire|Giant, Fire (PF1)]]"
   - "[[path srd 3.5/rules/monster-codex/fire-giants/Fire Giants (Fire Giants)|Fire Giants, society (PF1)]]"

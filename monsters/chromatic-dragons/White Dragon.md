@@ -11,7 +11,6 @@ treasure: "Triple standard"
 alignment: "Always chaotic evil"
 advancement: "Wyrmling 4 HD; very young 6 HD; young 8 HD; juvenile 10 HD; young adult 12 HD; adult 14 HD; mature adult 16 HD; old 18 HD; very old 20 HD; ancient 22 HD; wyrm 24 HD; great wyrm 26+ HD"
 level-adjustment: "Wyrmling +2; very young +3; young +3; juvenile +5; others —"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Dragon, Chromatic, White|White Dragon (PF1)]]"
   - "[[path srd 3.5/monsters/Dragon, Chromatic, White, Young|Young White Dragon (PF1)]]"

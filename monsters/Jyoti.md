@@ -28,7 +28,6 @@ treasure: "Double (+1 ghost touch spear, other treasure)"
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Jyoti|Jyoti (PF1)]]"
 status: draft

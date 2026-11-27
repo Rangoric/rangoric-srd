@@ -29,7 +29,6 @@ alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/swarm/Swarm|Swarm]]"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Swarm, Primate, Monkey|Swarm, Primate, Monkey (PF1)]]"
 status: draft

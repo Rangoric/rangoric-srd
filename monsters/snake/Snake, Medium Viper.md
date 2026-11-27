@@ -28,7 +28,6 @@ alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/snake/Viper Snake|Viper Snake]]"
-book: "Bestiary"
 aliases: ["Venomous Snake"]
 based-on:
   - "[[path srd 3.5/monsters/Snake, Venomous|Snake, Venomous (PF1)]]"

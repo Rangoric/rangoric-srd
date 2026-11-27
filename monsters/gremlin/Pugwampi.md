@@ -28,7 +28,6 @@ alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/gremlin/Gremlins|Gremlins]]"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Gremlin, Pugwampi|Gremlin, Pugwampi (PF1)]]"
 status: draft

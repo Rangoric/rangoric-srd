@@ -29,7 +29,6 @@ alignment: "Always lawful evil"
 advancement: "3–6 HD (Medium)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/devil/Devil|Devil]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Devil, Lemure|Devil, Lemure (PF1)]]"
   - "[[fantasy srd 3.5/monsters/devil/Lemure|Lemure (3.5)]]"

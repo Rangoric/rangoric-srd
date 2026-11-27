@@ -27,7 +27,6 @@ treasure: "Standard (longspear, other treasure)"
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Vegepygmy|Vegepygmy (PF1)]]"
 status: draft

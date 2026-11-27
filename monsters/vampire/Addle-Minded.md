@@ -2,7 +2,6 @@
 srd-type: "monster"
 section: "Monsters"
 group: "[[rangoric-srd/monsters/vampire/Vampire|Vampire]]"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/vampires/New Rules (Vampires)#Addle-Minded|New Rules (Vampires) (PF1)]]"
 status: draft

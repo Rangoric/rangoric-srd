@@ -28,7 +28,6 @@ treasure: "NPC gear (leather armor, light crossbow with 20 bolts, dagger, other 
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-book: ["Bestiary 3", "Monster Codex"]
 based-on:
   - "[[path srd 3.5/monsters/Ratfolk (Monster)|Ratfolk (PF1)]]"
   - "[[path srd 3.5/rules/monster-codex/ratfolk/Ratfolk (Ratfolk)|Ratfolk, society (PF1)]]"

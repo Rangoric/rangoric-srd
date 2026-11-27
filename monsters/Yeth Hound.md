@@ -28,7 +28,6 @@ treasure: "Incidental"
 alignment: "Always neutral evil"
 advancement: "4–6 HD (Medium); 7–9 HD (Large)"
 level-adjustment: "+3 (cohort)"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Yeth Hound|Yeth Hound (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Yeth Hound|Yeth Hound (3.5)]]"

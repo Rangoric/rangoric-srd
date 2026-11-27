@@ -27,7 +27,6 @@ treasure: "—"
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Tuatara|Tuatara (PF1)]]"
 status: draft

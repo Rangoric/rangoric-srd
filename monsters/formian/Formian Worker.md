@@ -29,7 +29,6 @@ alignment: "Always lawful neutral"
 advancement: "2–3 HD (Medium)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/formian/Formian|Formian]]"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Formian Worker|Formian Worker (PF1)]]"
   - "[[fantasy srd 3.5/monsters/formian/Formian Worker|Formian Worker (3.5)]]"

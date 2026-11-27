@@ -3,7 +3,6 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Su"]
 kind: ["quality"]
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Jack-o'-Lantern|Jack-o'-Lantern (PF1)]]"
 status: draft

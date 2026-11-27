@@ -29,7 +29,6 @@ alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/leshy/Leshy|Leshy]]"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Leshy, Fungus|Leshy, Fungus (PF1)]]"
 status: draft

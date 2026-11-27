@@ -28,7 +28,6 @@ treasure: "NPC gear (kukri, 10 shuriken, other treasure)"
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Vishkanya|Vishkanya (PF1)]]"
 status: draft

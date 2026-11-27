@@ -27,7 +27,6 @@ treasure: "Standard (battleaxe)"
 alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Zuvembie|Zuvembie (PF1)]]"
 status: draft

@@ -28,7 +28,6 @@ treasure: "NPC gear (trident, other treasure)"
 alignment: "Usually lawful evil"
 advancement: "3–4 HD (Medium); 5–6 HD (Large)"
 level-adjustment: "+3"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Skum|Skum (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Skum|Skum (3.5)]]"

@@ -28,7 +28,6 @@ alignment: "Always neutral"
 advancement: "4–6 HD (Medium); 7–9 HD (Large)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/dire-animal/Dire Animal|Dire Animal]]"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Weasel, Dire|Weasel, Dire (PF1)]]"
   - "[[fantasy srd 3.5/monsters/dire-animal/Dire Weasel|Dire Weasel (3.5)]]"

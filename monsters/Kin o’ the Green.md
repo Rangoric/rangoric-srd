@@ -1,7 +1,6 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-book: "Alchemy & Herbalists"
 aliases: ["Greenkin", "Kin o’ the Green (Template)"]
 based-on:
   - "[[individual books/Alchemy & Herbalists v3.5/monsters/Kin o’ the Green (Template)|Kin o’ the Green (Template) (Alchemy & Herbalists)]]"

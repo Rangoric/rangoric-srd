@@ -1,7 +1,6 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Drake, Desert|Drake, Desert (PF1)]]"
   - "[[path srd 3.5/monsters/Drake, Flame|Drake, Flame (PF1)]]"

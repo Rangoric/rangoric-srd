@@ -28,7 +28,6 @@ treasure: "Incidental"
 alignment: "Usually chaotic evil"
 advancement: "5–12 HD (Medium)"
 level-adjustment: "—"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Allip|Allip (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Allip|Allip (3.5)]]"

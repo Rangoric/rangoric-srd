@@ -27,7 +27,6 @@ treasure: "Standard"
 alignment: "Usually chaotic evil"
 advancement: "11–15 HD (Large); 16–30 HD (Huge)"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Roper|Roper (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Roper|Roper (3.5)]]"

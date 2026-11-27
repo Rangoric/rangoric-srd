@@ -28,7 +28,6 @@ alignment: "Usually chaotic evil"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/hag/Hag|Hag]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Green Hag|Green Hag (PF1)]]"
   - "[[fantasy srd 3.5/monsters/hag/Green Hag|Green Hag (3.5)]]"

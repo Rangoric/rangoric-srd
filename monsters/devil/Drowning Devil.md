@@ -29,7 +29,6 @@ alignment: "Usually lawful evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/devil/Devil|Devil]]"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Devil, Drowning|Devil, Drowning (PF1)]]"
 status: draft

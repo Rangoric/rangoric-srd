@@ -27,7 +27,6 @@ treasure: "None"
 alignment: "Usually neutral"
 advancement: "7–12 HD (Large); 13–18 HD (Huge)"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Tiger|Tiger (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Tiger|Tiger (3.5)]]"

@@ -27,7 +27,6 @@ treasure: "None"
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Horse, Pony|Horse, Pony (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Pony|Pony (3.5)]]"

@@ -27,7 +27,6 @@ treasure: "None"
 alignment: "Any (same as creator)"
 advancement: "3–6 HD (Tiny)"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Homunculus (Monster)|Homunculus (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Homunculus|Homunculus (3.5)]]"

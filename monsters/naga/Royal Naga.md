@@ -29,7 +29,6 @@ alignment: "Usually lawful neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/naga/Naga|Naga]]"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Naga, Royal|Naga, Royal (PF1)]]"
 status: draft

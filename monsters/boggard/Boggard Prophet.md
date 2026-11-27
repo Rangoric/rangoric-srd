@@ -29,7 +29,6 @@ alignment: "Usually chaotic evil"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/boggard/Boggard|Boggard]]"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/monsters/Boggard Prophet|Boggard Prophet (PF1)]]"
 status: draft

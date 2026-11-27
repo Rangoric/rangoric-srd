@@ -29,7 +29,6 @@ alignment: "Usually lawful evil"
 advancement: "By character class"
 level-adjustment: "+7"
 group: "[[rangoric-srd/monsters/onis/Oni|Oni]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Oni, Ogre Mage|Oni, Ogre Mage (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Ogre Mage|Ogre Mage (3.5)]]"

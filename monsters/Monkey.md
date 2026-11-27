@@ -27,7 +27,6 @@ treasure: "None"
 alignment: "Usually neutral"
 advancement: "2–3 HD (Small)"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Familiar, Monkey|Familiar, Monkey (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Monkey|Monkey (3.5)]]"

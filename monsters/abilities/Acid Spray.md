@@ -3,7 +3,6 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Su"]
 kind: ["quality"]
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Qlippoth, Nyogoth|Qlippoth, Nyogoth (PF1)]]"
 status: draft

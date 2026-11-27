@@ -2,7 +2,6 @@
 srd-type: "monster"
 section: "Monsters"
 group: "[[rangoric-srd/monsters/simple-templates/Simple Templates|Simple Templates]]"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/appendix/Modifying Monsters#Ranger Creature|Modifying Monsters (PF1)]]"
   - "[[path srd 3.5 foundry/monster-templates/Ranger (Quick, Str)|Ranger (Quick, Str) (PF1 Foundry)]]"

@@ -28,7 +28,6 @@ treasure: "None"
 alignment: "Usually chaotic neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Alpluachra|Alpluachra (PF1)]]"
 status: draft

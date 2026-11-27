@@ -28,7 +28,6 @@ treasure: "None"
 alignment: "Usually neutral"
 advancement: "13–18 HD (Huge); 19–36 HD (Gargantuan)"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Squid, Giant|Squid, Giant (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Squid, Giant|Squid, Giant (3.5)]]"

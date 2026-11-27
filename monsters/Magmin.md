@@ -28,7 +28,6 @@ treasure: "Standard"
 alignment: "Always chaotic neutral"
 advancement: "3–4 HD (Small); 5–6 HD (Medium)"
 level-adjustment: "—"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Magmin|Magmin (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Magmin|Magmin (3.5)]]"

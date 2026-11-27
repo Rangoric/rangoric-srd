@@ -29,7 +29,6 @@ alignment: "Always lawful evil"
 advancement: "10–18 HD (Medium)"
 level-adjustment: "+7"
 group: "[[rangoric-srd/monsters/devil/Devil|Devil]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Devil, Erinyes|Devil, Erinyes (PF1)]]"
   - "[[fantasy srd 3.5/monsters/devil/Erinyes|Erinyes (3.5)]]"

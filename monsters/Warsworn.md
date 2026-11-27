@@ -27,7 +27,6 @@ treasure: "Double standard (nonmagical armor and weapons)"
 alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Warsworn|Warsworn (PF1)]]"
 status: draft

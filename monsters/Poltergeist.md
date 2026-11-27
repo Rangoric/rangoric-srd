@@ -28,7 +28,6 @@ treasure: "Incidental"
 alignment: "Usually lawful evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Poltergeist|Poltergeist (PF1)]]"
 status: draft

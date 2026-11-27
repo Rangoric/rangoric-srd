@@ -27,7 +27,6 @@ treasure: "None"
 alignment: "Always neutral"
 advancement: "5–12 HD (Huge)"
 level-adjustment: "—"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Spider Eater|Spider Eater (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Spider Eater|Spider Eater (3.5)]]"
