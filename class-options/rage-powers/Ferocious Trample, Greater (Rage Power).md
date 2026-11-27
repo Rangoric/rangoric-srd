@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "rage-power"
 class: "Barbarian"
 level: 12
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Ferocious Trample, Greater|Ferocious Trample, Greater (PF1 F)]]"
 status: draft

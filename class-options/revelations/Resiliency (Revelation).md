@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "revelation"
 class: ["Oracle"]
 mystery: ["Battle"]
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/classes/Oracle#Battle|Oracle, Battle mystery (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Resiliency (ORA) (Battle)|Resiliency (ORA) (Battle) (PF1 Foundry)]]"

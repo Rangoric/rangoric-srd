@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "emotional focus"
 class: ["Spiritualist"]
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Zeal|Zeal (PF1 Foundry)]]"
 status: draft

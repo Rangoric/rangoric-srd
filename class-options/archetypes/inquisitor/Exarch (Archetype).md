@@ -12,7 +12,6 @@ replaces:
   - "second judgment (8th)"
   - "greater bane (12th)"
   - "third judgment (16th)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Dwarves (Advanced Race Guide)#Exarch (Inquisitor)|Dwarves, Exarch (PF1)]]"
 status: draft

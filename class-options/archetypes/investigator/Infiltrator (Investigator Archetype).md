@@ -7,7 +7,6 @@ replaces:
   - "trapfinding (1st)"
   - "poison lore (2nd)"
   - "poison resistance (2nd–11th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Infiltrator (Advanced Class Guide)|Infiltrator (PF1)]]"
 status: draft

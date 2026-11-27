@@ -7,7 +7,6 @@ element: ["earth"]
 talent-type: "utility"
 talent-level: 4
 burn: "0"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Shift Earth|Shift Earth (PF1 Foundry)]]"
 status: draft

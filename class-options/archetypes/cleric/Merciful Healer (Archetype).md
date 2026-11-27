@@ -6,7 +6,6 @@ class: ["Cleric"]
 replaces:
   - "domains (1st)"
   - "channel energy (1st)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Merciful Healer|Merciful Healer (PF1)]]"
 status: draft

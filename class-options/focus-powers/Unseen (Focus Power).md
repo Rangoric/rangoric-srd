@@ -6,7 +6,6 @@ class: ["Occultist"]
 implement-school: "Illusion"
 level: 3
 ability-type: "Sp"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Unseen (Occultist)|Unseen (PF1 Foundry)]]"
 status: draft

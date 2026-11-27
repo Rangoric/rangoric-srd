@@ -6,7 +6,6 @@ class: ["Barbarian"]
 replaces:
   - "fast movement (1st)"
   - "trap sense (3rd–18th)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Breaker|Breaker (PF1)]]"
 status: draft

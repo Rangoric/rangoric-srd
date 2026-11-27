@@ -12,7 +12,6 @@ replaces:
   - "object reading (2nd)"
   - "aura sight (5th)"
   - "outside contact (8th)"
-book: "Occult Adventures"
 based-on: []
 status: draft
 change: new

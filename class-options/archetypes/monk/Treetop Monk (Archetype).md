@@ -8,7 +8,6 @@ replaces:
   - "still mind (3rd)"
   - "purity of body (5th)"
   - "abundant step (12th)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Vanaras#Treetop Monk (Monk)|Vanaras, Treetop Monk (PF1)]]"
 status: draft

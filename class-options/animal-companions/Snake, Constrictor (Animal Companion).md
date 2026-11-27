@@ -6,7 +6,6 @@ class: ["Druid"]
 size: "Medium"
 speed: "20 ft., climb 20 ft., swim 20 ft."
 advancement-level: "4th"
-book: "Core Rulebook"
 based-on:
   - "[[path srd 3.5/animal-companions/Snake, Constrictor (Animal Companion)|Snake, Constrictor (PF1)]]"
 status: draft

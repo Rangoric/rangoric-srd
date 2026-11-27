@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "patron"
 class: ["Witch"]
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Mind Patron|Mind Patron (PF1 Foundry)]]"
 status: draft

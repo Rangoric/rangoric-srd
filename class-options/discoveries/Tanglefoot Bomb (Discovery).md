@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "discovery"
 class: ["Alchemist"]
 bomb: true
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/rules/ultimate-magic/spellcasting-class-options/Alchemist (Spellcasting Class Options)#Discoveries|Alchemist (Ultimate Magic)]]"
   - "[[path srd 3.5 foundry/class-features/Tanglefoot Bomb|Tanglefoot Bomb (PF1 Foundry)]]"

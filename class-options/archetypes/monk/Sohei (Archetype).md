@@ -16,7 +16,6 @@ replaces:
   - "quivering palm (15th)"
   - "timeless body (17th)"
   - "tongue of the sun and moon (17th)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Sohei|Sohei (PF1)]]"
 status: draft

@@ -5,7 +5,6 @@ option-type: "discovery"
 class: ["Alchemist"]
 bomb: false
 level: 16
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Ratfolk (Race)#Ratfolk Discoveries|Ratfolk, Ratfolk Discoveries (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Greater Plague Bomb|Greater Plague Bomb (PF1 Foundry)]]"

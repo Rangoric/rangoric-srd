@@ -10,7 +10,6 @@ replaces:
   - "transposition (8th)"
   - "aspect (10th)"
   - "merge forms (16th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Spirit Summoner|Spirit Summoner (PF1)]]"
 status: draft

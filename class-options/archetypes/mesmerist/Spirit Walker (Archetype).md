@@ -9,7 +9,6 @@ replaces:
   - "mental potency (5th)"
   - "touch treatment (3rd, 6th, 10th, 14th)"
   - "rule minds (20th)"
-book: "Occult Adventures"
 based-on: []
 status: draft
 change: new

@@ -6,7 +6,6 @@ class: ["Alchemist"]
 race: "Gnome"
 replaces:
   - "mutagen (1st)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Gnomes (Advanced Race Guide)#Saboteur (Alchemist)|Gnomes, Saboteur (PF1)]]"
 status: draft

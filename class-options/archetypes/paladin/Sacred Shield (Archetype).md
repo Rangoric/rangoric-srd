@@ -10,7 +10,6 @@ replaces:
   - "divine bond (5th)"
   - "aura of justice (11th)"
   - "holy champion (20th)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Sacred Shield|Sacred Shield (PF1)]]"
 status: draft

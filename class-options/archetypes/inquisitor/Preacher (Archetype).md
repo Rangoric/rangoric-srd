@@ -5,7 +5,6 @@ option-type: "archetype"
 class: ["Inquisitor"]
 replaces:
   - "solo tactics (3rd)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Preacher|Preacher (PF1)]]"
 status: draft

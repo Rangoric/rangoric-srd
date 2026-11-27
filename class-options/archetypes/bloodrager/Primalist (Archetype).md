@@ -5,7 +5,6 @@ option-type: "archetype"
 class: ["Bloodrager"]
 replaces:
   - "bloodline (4th–20th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Primalist|Primalist (PF1)]]"
 status: draft

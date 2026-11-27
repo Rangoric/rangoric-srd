@@ -5,7 +5,6 @@ option-type: "archetype"
 class: ["Psychic"]
 replaces:
   - "spells"
-book: "Occult Adventures"
 based-on: []
 status: draft
 change: new

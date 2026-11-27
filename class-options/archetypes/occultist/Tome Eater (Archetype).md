@@ -14,7 +14,6 @@ replaces:
   - "outside contact (8th)"
   - "binding circles (12th)"
   - "fast circles (16th)"
-book: "Occult Adventures"
 based-on: []
 status: draft
 change: new

@@ -7,7 +7,6 @@ element: ["aether", "air", "earth", "void", "water", "wood"]
 talent-type: "substance infusion"
 talent-level: 1
 burn: "1"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Pushing Infusion|Pushing Infusion (PF1 Foundry)]]"
 status: draft

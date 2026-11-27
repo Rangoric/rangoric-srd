@@ -8,7 +8,6 @@ replaces:
   - "armor training (3rd, 7th, 11th, 15th)"
   - "weapon training (5th, 9th, 13th, 17th)"
   - "armor mastery (19th)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Dwarves (Advanced Race Guide)#Foehammer (Fighter)|Dwarves, Foehammer (PF1)]]"
 status: draft

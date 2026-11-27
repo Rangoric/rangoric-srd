@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "order"
 class: ["Cavalier"]
 race: "[[rangoric-srd/races/Halfling|halflings]]"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Halflings (Advanced Race Guide)#Order of the Paw (Cavalier)|Halflings (Advanced Race Guide) (PF1)]]"
 status: draft

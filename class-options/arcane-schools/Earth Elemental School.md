@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "arcane-school"
 class: "Wizard"
 school-type: "elemental"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Earth Elemental School|Earth Elemental School (PF1 F)]]"
 status: draft

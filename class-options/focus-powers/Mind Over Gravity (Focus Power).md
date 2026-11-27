@@ -6,7 +6,6 @@ class: ["Occultist"]
 implement-school: "Transmutation"
 level: 7
 ability-type: "Sp"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Mind Over Gravity|Mind Over Gravity (PF1 Foundry)]]"
 status: draft

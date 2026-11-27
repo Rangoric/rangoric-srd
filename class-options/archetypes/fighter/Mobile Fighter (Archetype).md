@@ -8,7 +8,6 @@ replaces:
   - "weapon training (5th, 9th, 13th, 17th)"
   - "armor training (11th, 15th)"
   - "weapon mastery (20th)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Mobile Fighter|Mobile Fighter (PF1)]]"
 status: draft

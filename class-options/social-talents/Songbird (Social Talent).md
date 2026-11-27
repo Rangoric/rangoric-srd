@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "social talent"
 class: ["Vigilante"]
-book: "Heroes of Golarion"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Songbird (Vigilante)|Songbird (Vigilante) (PF1 Foundry)]]"
 status: draft

@@ -6,7 +6,6 @@ class: "Slayer"
 advanced: false
 sneak-attack: true
 level: 2
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/classes/Slayer (Class)#Slayer Talents|Slayer (PF1)]]"
 status: draft

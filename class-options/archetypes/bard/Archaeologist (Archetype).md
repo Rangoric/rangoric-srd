@@ -7,7 +7,6 @@ replaces:
   - "bardic performance (1st)"
   - "versatile performance (2nd)"
   - "well-versed (2nd)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Archaeologist (Archetype)|Archaeologist (PF1)]]"
 status: draft

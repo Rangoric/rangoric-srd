@@ -6,7 +6,6 @@ amplification-type: "major amplification"
 class: ["Psychic"]
 level: 11
 ability-type: "Su"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Space-rending Spell|Space-rending Spell (PF1 Foundry)]]"
 status: draft

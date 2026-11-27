@@ -7,7 +7,6 @@ element: ["air"]
 talent-type: "utility"
 talent-level: 1
 burn: "0"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Voice of the Wind|Voice of the Wind (PF1 Foundry)]]"
 status: draft

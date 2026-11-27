@@ -7,7 +7,6 @@ replaces:
   - "domain (1st)"
   - "teamwork feat (6th)"
   - "exploit weakness (14th)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Sin Eater|Sin Eater (PF1)]]"
 status: draft

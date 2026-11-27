@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-book: "Pathfinder Unchained"
 based-on:
   - "[[path srd 3.5/classes/Summoner#Evolutions|Summoner, Evolutions (PF1)]]"
   - "[[path srd 3.5/rules/ultimate-magic/spellcasting-class-options/Summoner (Spellcasting Class Options)#Evolutions|Summoner, Ultimate Magic Evolutions (PF1)]]"

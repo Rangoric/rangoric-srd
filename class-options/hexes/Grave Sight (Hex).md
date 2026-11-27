@@ -5,7 +5,6 @@ option-type: "hex"
 hex-type: "hex"
 class: ["Shaman"]
 spirit: ["Bones"]
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/classes/Shaman (Class)#Bones|Shaman, Bones spirit (PF1)]]"
 status: draft

@@ -5,7 +5,6 @@ option-type: "archetype"
 class: ["Magus"]
 race: "Tiefling"
 replaces: []
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Tieflings#Fiend Flayer (Magus)|Tieflings, Fiend Flayer (PF1)]]"
 status: draft

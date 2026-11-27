@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "revelation"
 class: ["Oracle"]
 mystery: ["Heavens", "Outer Dark"]
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/classes/Oracle#Heavens|Oracle, Heavens mystery (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Dweller in Darkness|Dweller in Darkness (PF1 Foundry)]]"

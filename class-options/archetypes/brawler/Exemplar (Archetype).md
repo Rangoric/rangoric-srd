@@ -8,7 +8,6 @@ replaces:
   - "maneuver training (3rd–19th)"
   - "AC bonus (4th–18th)"
   - "brawler's strike (5th–17th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Exemplar|Exemplar (PF1)]]"
 status: draft

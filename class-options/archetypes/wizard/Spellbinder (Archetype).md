@@ -6,7 +6,6 @@ class: ["Wizard"]
 race: "Elf"
 replaces:
   - "arcane bond (1st)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Elves (Advanced Race Guide)#Spellbinder (Wizard)|Elves, Spellbinder (PF1)]]"
 status: draft

@@ -9,7 +9,6 @@ replaces:
   - "hex (8th)"
   - "hex (10th)"
   - "hex (12th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Witch Doctor|Witch Doctor (PF1)]]"
 status: draft

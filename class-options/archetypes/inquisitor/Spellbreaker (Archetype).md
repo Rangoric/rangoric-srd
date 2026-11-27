@@ -8,7 +8,6 @@ replaces:
   - "teamwork feat (3rd–18th)"
   - "solo tactics (3rd)"
   - "true judgment (20th)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Spellbreaker (Archetype)|Spellbreaker (PF1)]]"
 status: draft

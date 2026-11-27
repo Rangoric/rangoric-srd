@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "rage-power"
 class: ["Barbarian", "Skald"]
 level: 2
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/rules/advanced-class-guide/class-options/Skald (Class Options)#Rage Powers|Skald Class Options (PF1)]]"
 status: draft

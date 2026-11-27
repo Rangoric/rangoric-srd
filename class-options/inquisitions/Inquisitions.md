@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-book: ["Ultimate Magic", "Ultimate Combat"]
 based-on:
   - "[[path srd 3.5/rules/ultimate-magic/spellcasting-class-options/Inquisitor (Spellcasting Class Options)#Inquisitions|Inquisitor, Inquisitions (UM)]]"
   - "[[path srd 3.5/rules/ultimate-combat/class-archetypes/Inquisitor (Class Archetypes)#Inquisitions|Inquisitor, Inquisitions (UC)]]"

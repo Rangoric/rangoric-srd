@@ -6,7 +6,6 @@ class: ["Arcanist"]
 replaces:
   - "arcanist exploit (1st)"
   - "arcanist exploit (9th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/White Mage|White Mage (PF1)]]"
 status: draft

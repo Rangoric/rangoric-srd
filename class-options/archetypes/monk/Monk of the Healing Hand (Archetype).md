@@ -8,7 +8,6 @@ replaces:
   - "diamond body (11th)"
   - "quivering palm (15th)"
   - "perfect self (20th)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Monk of the Healing Hand|Monk of the Healing Hand (PF1)]]"
 status: draft

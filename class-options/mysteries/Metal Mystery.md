@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "mystery"
 class: ["Oracle"]
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/rules/ultimate-magic/spellcasting-class-options/Oracle (Spellcasting Class Options)#Metal|Oracle, Metal mystery (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Metal Mystery|Metal Mystery (PF1 Foundry)]]"

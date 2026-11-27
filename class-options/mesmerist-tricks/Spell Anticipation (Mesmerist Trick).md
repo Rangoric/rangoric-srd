@@ -6,7 +6,6 @@ trick-type: "masterful trick"
 class: ["Mesmerist"]
 level: 12
 ability-type: "Su"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Spell Anticipation|Spell Anticipation (PF1 Foundry)]]"
 status: draft

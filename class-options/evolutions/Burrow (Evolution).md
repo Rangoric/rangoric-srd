@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "evolution"
 class: ["Summoner", "Unchained Summoner"]
 evolution-cost: 3
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/classes/Summoner#Evolutions|Summoner, Evolutions (PF1)]]"
   - "[[path srd 3.5/classes/Summoner (Unchained)#Evolutions|Unchained Summoner, Evolutions (PF1)]]"

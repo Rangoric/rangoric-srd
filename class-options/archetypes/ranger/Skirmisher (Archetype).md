@@ -5,7 +5,6 @@ option-type: "archetype"
 class: ["Ranger"]
 replaces:
   - "spells (4th)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Skirmisher|Skirmisher (PF1)]]"
 status: draft

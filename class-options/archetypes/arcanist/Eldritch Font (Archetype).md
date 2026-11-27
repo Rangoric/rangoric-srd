@@ -8,7 +8,6 @@ replaces:
   - "arcanist exploit (7th)"
   - "arcanist exploit (13th)"
   - "magical supremacy (20th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Eldritch Font|Eldritch Font (PF1)]]"
 status: draft

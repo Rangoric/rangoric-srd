@@ -10,7 +10,6 @@ views:
       - note.advanced
       - note.sneak-attack
       - note.level
-      - note.book
       - note.status
     sort:
       - property: file.name

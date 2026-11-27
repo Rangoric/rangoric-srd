@@ -15,7 +15,6 @@ replaces:
   - "dual bond (17th)"
   - "spiritual interference (4th)"
   - "greater spiritual interference (12th)"
-book: "Occult Adventures"
 based-on: []
 status: draft
 change: new

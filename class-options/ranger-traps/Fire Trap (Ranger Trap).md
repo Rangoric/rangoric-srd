@@ -6,7 +6,6 @@ class: "Ranger"
 ability-type: "Ex or Su"
 trap-type: "mechanical or magic"
 add-on: false
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/traps/Fire Trap (Ex or Su)|Fire Trap (Ex or Su) (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Fire Trap (Ranger)|Fire Trap (Ranger) (PF1 Foundry)]]"

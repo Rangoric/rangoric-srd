@@ -7,7 +7,6 @@ element: ["air"]
 talent-type: "form infusion"
 talent-level: 5
 burn: "3"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Chain Infusion|Chain Infusion (PF1 Foundry)]]"
 status: draft

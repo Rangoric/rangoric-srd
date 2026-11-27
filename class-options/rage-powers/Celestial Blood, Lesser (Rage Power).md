@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "rage-power"
 class: ["Barbarian"]
 level: 2
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/rules/advanced-class-guide/class-options/Barbarian (Class Options)|Celestial Blood, Lesser (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Celestial Blood, Lesser|Celestial Blood, Lesser (PF1 F)]]"

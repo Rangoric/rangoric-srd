@@ -7,7 +7,6 @@ element: ["wood"]
 talent-type: "utility"
 talent-level: 8
 burn: "1"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Wood Soldiers|Wood Soldiers (PF1 Foundry)]]"
 status: draft

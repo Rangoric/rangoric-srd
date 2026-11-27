@@ -8,7 +8,6 @@ replaces:
   - "bonus feats (3rd–18th)"
   - "bonus feats (3rd, 6th)"
   - "channel energy (4th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Forgepriest|Forgepriest (PF1)]]"
 status: draft

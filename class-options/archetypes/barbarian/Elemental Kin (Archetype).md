@@ -5,7 +5,6 @@ option-type: "archetype"
 class: ["Barbarian"]
 replaces:
   - "trap sense (3rd–18th)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Elemental Kin|Elemental Kin (PF1)]]"
 status: draft

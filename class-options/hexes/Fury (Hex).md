@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "hex"
 hex-type: "hex"
 class: ["Shaman"]
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/classes/Shaman (Class)#Hex|Shaman (PF1)]]"
 status: draft

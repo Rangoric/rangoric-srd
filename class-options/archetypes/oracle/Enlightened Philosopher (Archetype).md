@@ -8,7 +8,6 @@ replaces:
   - "mystery spell (4th–18th)"
   - "revelation (7th)"
   - "final revelation (20th)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Enlightened Philosopher|Enlightened Philosopher (PF1)]]"
 status: draft

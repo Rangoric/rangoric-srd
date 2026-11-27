@@ -5,7 +5,6 @@ option-type: "archetype"
 class: ["Magus"]
 replaces:
   - "spell recall (4th)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Hexcrafter|Hexcrafter (PF1)]]"
 status: draft

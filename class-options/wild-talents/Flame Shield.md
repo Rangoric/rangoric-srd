@@ -7,7 +7,6 @@ element: ["fire"]
 talent-type: "utility"
 talent-level: 5
 burn: "1"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Flame Shield|Flame Shield (PF1 Foundry)]]"
 status: draft

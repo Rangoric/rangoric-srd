@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-book: ["Ultimate Magic", "Advanced Player's Guide", "Advanced Race Guide"]
 based-on:
   - "[[path srd 3.5/rules/ultimate-magic/spellcasting-class-options/Spellcasting Class Options (Spellcasting Class Options)#Alternate Class Features|Spellcasting Class Options, Alternate Class Features (PF1)]]"
   - "[[path srd 3.5/rules/advanced-player-s-guide/core-classes/Core Classes (Core Classes)#Alternate Class Features|Core Classes, Alternate Class Features (PF1)]]"

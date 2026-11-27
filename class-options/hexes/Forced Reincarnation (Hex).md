@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "hex"
 hex-type: "grand hex"
 class: ["Witch"]
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/classes/Witch#Grand Hex|Witch (PF1)]]"
 status: draft

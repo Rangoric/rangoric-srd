@@ -6,7 +6,6 @@ class: ["Occultist"]
 implement-school: "Conjuration"
 level: 5
 ability-type: "Sp"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Purge Corruption|Purge Corruption (PF1 Foundry)]]"
 status: draft

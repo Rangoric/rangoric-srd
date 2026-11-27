@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "arcane-school"
 class: "Wizard"
 school-type: "universalist"
-book: "Core Rulebook"
 based-on:
   - "[[path srd 3.5/classes/Wizard#Universalist School|Wizard (PF1)]]"
 status: draft

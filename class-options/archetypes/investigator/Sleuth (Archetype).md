@@ -6,7 +6,6 @@ class: ["Investigator"]
 replaces:
   - "alchemy (1st)"
   - "swift alchemy (4th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Sleuth|Sleuth (PF1)]]"
 status: draft

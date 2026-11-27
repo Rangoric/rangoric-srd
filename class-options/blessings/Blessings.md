@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-book: ["Advanced Class Guide", "Ultimate Wilderness"]
 based-on:
   - "[[path srd 3.5/classes/Warpriest#Blessings|Warpriest (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Earthquake Blessing|Earthquake Blessing (PF1 Foundry)]]"

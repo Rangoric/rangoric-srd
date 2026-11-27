@@ -5,7 +5,6 @@ option-type: "discovery"
 class: ["Alchemist"]
 bomb: false
 level: 12
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/rules/ultimate-combat/class-archetypes/Alchemist (Class Archetypes)#Discoveries|Alchemist (Ultimate Combat)]]"
   - "[[path srd 3.5 foundry/class-features/Nauseating Flesh|Nauseating Flesh (PF1 Foundry)]]"

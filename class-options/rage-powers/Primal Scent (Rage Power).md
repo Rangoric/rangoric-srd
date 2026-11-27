@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "rage-power"
 class: ["Barbarian", "Skald"]
 level: 8
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Primal Scent|Primal Scent (PF1 F)]]"
 status: draft

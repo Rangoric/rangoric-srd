@@ -11,7 +11,6 @@ replaces:
   - "pistol-whip (3rd)"
   - "menacing shot (15th)"
   - "gun training (9th–17th)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Ratfolk (Race)#Gulch Gunner (Gunslinger)|Ratfolk, Gulch Gunner (PF1)]]"
 status: draft

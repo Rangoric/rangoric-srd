@@ -6,7 +6,6 @@ class: ["Rogue"]
 replaces:
   - "trapfinding (1st)"
   - "rogue talent (4th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Counterfeit Mage|Counterfeit Mage (PF1)]]"
 status: draft

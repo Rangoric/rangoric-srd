@@ -10,7 +10,6 @@ replaces:
   - "spirit magic (1st)"
   - "wandering spirit (4th, 12th, 20th)"
   - "wandering hex (6th, 14th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Unsworn Shaman|Unsworn Shaman (PF1)]]"
 status: draft

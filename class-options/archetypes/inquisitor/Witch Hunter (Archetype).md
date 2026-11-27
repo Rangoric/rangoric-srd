@@ -10,7 +10,6 @@ replaces:
   - "discern lies (5th)"
   - "exploit weakness (14th)"
   - "true judgment (20th)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Witch Hunter|Witch Hunter (PF1)]]"
 status: draft

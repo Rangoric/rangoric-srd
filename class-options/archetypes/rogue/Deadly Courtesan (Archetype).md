@@ -8,7 +8,6 @@ replaces:
   - "rogue talent (2nd)"
   - "danger sense (3rd–18th)"
   - "improved uncanny dodge (8th)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Vishkanyas#Deadly Courtesan (Rogue)|Vishkanyas, Deadly Courtesan (PF1)]]"
 status: draft

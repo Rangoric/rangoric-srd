@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "revelation"
 class: ["Oracle"]
 mystery: ["Wind"]
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/classes/Oracle#Wind|Oracle, Wind mystery (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Spark Skin|Spark Skin (PF1 Foundry)]]"

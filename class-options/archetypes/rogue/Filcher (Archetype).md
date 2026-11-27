@@ -9,7 +9,6 @@ replaces:
   - "danger sense (3rd–18th)"
   - "uncanny dodge (4th)"
   - "improved uncanny dodge (8th)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Halflings (Advanced Race Guide)#Filcher (Rogue)|Halflings (Advanced Race Guide), Filcher (PF1)]]"
 status: draft

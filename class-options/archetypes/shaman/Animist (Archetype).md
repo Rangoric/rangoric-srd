@@ -11,7 +11,6 @@ replaces:
   - "hex (12th)"
   - "hex (18th)"
   - "manifestation (20th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Animist|Animist (PF1)]]"
 status: draft

@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "curse"
 class: ["Oracle"]
 race: "[[rangoric-srd/races/Goblin|goblins]]"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/goblins/Goblin Archetype#Goblin Oracle Curse|Goblins, Infested (PF1)]]"
 status: draft

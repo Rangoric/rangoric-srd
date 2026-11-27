@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "emotional focus"
 class: ["Spiritualist"]
-book: "Occult Adventures"
 based-on: []
 status: draft
 change: new

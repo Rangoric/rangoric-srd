@@ -5,7 +5,6 @@ option-type: "archetype"
 class: ["Inquisitor"]
 replaces:
   - "monster lore (1st)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Heretic (Archetype)|Heretic (PF1)]]"
 status: draft

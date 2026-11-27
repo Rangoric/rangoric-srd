@@ -10,7 +10,6 @@ replaces:
   - "lore master (5th)"
   - "suggestion (6th)"
   - "mass suggestion (18th)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Undines#Watersinger (Bard)|Undines, Watersinger (PF1)]]"
 status: draft

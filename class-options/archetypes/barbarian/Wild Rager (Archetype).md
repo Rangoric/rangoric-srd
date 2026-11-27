@@ -7,7 +7,6 @@ replaces:
   - "rage (1st)"
   - "uncanny dodge (2nd)"
   - "improved uncanny dodge (5th)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Wild Rager|Wild Rager (PF1)]]"
 status: draft

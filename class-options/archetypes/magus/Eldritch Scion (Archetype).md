@@ -11,7 +11,6 @@ replaces:
   - "knowledge pool (7th)"
   - "improved spell combat (8th)"
   - "greater spell combat (14th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Eldritch Scion|Eldritch Scion (PF1)]]"
 status: draft

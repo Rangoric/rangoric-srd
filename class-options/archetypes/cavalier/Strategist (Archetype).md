@@ -8,7 +8,6 @@ replaces:
   - "expert trainer (4th)"
   - "greater banner (14th)"
   - "bonus feat (18th)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Strategist|Strategist (PF1)]]"
 status: draft

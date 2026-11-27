@@ -12,7 +12,6 @@ replaces:
   - "improved spell recall (11th)"
   - "counterstrike (16th)"
   - "greater spell access (19th)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Soul Forger|Soul Forger (PF1)]]"
 status: draft

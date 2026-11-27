@@ -7,7 +7,6 @@ element: ["earth"]
 talent-type: "utility"
 talent-level: 3
 burn: "1"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Jagged Flesh|Jagged Flesh (PF1 Foundry)]]"
 status: draft

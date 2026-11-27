@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "discovery"
 class: ["Alchemist"]
 bomb: false
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/classes/Alchemist (Class)#Discovery (Su)|Alchemist, Discovery (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Precise Bombs|Precise Bombs (PF1 Foundry)]]"

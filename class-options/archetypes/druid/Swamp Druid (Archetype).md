@@ -9,7 +9,6 @@ replaces:
   - "resist nature’s lure (4th)"
   - "wild shape (4th; gained at 6th)"
   - "a thousand faces (13th)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Swamp Druid|Swamp Druid (PF1)]]"
 status: draft

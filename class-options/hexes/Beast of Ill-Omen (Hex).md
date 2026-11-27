@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "hex"
 hex-type: "hex"
 class: ["Witch"]
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/rules/ultimate-magic/spellcasting-class-options/Witch (Spellcasting Class Options)#Hexes|Witch (PF1 UM)]]"
 status: draft

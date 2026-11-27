@@ -6,7 +6,6 @@ class: ["Druid"]
 size: "Medium"
 speed: "30 ft., climb 30 ft., fly 40 ft. (average)"
 advancement-level: "7th"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/animal-companions/Mantis, Giant (Animal Companion)|Mantis, Giant (PF1)]]"
 status: draft

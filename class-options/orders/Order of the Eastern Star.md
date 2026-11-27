@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "order"
 class: ["Cavalier"]
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Order of the Eastern Star|Order of the Eastern Star (PF1 Foundry)]]"
   - "[[path srd 3.5 foundry/class-features/Pierce the Guard|Pierce the Guard (PF1 Foundry)]]"

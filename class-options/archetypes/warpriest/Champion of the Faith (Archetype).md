@@ -7,7 +7,6 @@ replaces:
   - "sacred weapon (4th–20th)"
   - "bonus feat (3rd)"
   - "channel energy (4th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Champion of the Faith|Champion of the Faith (PF1)]]"
 status: draft

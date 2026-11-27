@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "bloodline"
 class: "Sorcerer"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Psychic Bloodline|Psychic Bloodline (PF1 Foundry)]]"
   - "[[path srd 3.5 foundry/class-features/Psychic Strike|Psychic Strike (PF1 Foundry)]]"

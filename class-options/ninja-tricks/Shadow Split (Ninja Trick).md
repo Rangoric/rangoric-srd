@@ -6,7 +6,6 @@ class: "Ninja"
 master: true
 sneak-attack: false
 level: 10
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/classes/Ninja#Master Tricks|Ninja (PF1)]]"
 status: draft

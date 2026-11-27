@@ -14,7 +14,6 @@ replaces:
   - "greater spell combat (14th)"
   - "counterstrike (16th)"
   - "greater spell access (19th)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Skirnir|Skirnir (PF1)]]"
 status: draft

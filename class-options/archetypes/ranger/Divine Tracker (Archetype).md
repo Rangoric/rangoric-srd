@@ -7,7 +7,6 @@ replaces:
   - "alignment"
   - "wild empathy (1st)"
   - "hunter’s bond (4th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Divine Tracker|Divine Tracker (PF1)]]"
 status: draft

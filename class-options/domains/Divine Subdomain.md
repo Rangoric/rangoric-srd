@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "subdomain"
 class: ["Cleric"]
 domain: ["Magic"]
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/rules/advanced-player-s-guide/core-classes/Cleric (Core Classes)#Divine Subdomain|Cleric (APG)]]"
 status: draft

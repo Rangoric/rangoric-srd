@@ -7,7 +7,6 @@ replaces:
   - "slayer talent (2nd)"
   - "stalker (7th)"
   - "slayer talent (10th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Grave Warden|Grave Warden (PF1)]]"
 status: draft

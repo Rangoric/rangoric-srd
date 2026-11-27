@@ -7,7 +7,6 @@ replaces:
   - "weapon and armor proficiency"
   - "poison lore (2nd; its poison use)"
   - "swift alchemy (4th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Steel Hound|Steel Hound (PF1)]]"
 status: draft

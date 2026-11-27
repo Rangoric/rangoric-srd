@@ -7,7 +7,6 @@ replaces:
   - "inspire courage (1st)"
   - "lore master (5th)"
   - "dirge of doom (8th)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Celebrity|Celebrity (PF1)]]"
 status: draft

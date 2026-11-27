@@ -6,7 +6,6 @@ class: ["Druid"]
 size: "Medium"
 speed: "30 ft., climb 30 ft."
 advancement-level: "4th"
-book: "Core Rulebook"
 based-on:
   - "[[path srd 3.5/animal-companions/Ape|Ape (PF1)]]"
 status: draft

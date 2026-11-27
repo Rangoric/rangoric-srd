@@ -6,7 +6,6 @@ class: ["Alchemist"]
 race: "Grippli"
 replaces:
   - "Throw Anything (1st)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Gripplis#Bogborn Alchemist (Alchemist)|Gripplis, Bogborn Alchemist (PF1)]]"
 status: draft

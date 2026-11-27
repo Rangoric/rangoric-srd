@@ -8,7 +8,6 @@ replaces:
   - "track (1st)"
   - "slayer talent (2nd)"
   - "slayer talent (6th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Cutthroat|Cutthroat (PF1)]]"
 status: draft

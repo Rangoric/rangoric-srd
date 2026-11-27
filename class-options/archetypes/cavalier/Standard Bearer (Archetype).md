@@ -8,7 +8,6 @@ replaces:
   - "banner (5th)"
   - "mighty charge (11th)"
   - "supreme charge (20th)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Standard Bearer|Standard Bearer (PF1)]]"
 status: draft

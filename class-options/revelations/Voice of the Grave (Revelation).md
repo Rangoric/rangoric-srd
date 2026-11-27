@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "revelation"
 class: ["Oracle"]
 mystery: ["Bones", "Ancestor"]
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/classes/Oracle#Bones|Oracle, Bones mystery (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Voice of the Grave|Voice of the Grave (PF1 Foundry)]]"

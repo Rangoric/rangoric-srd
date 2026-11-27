@@ -6,7 +6,6 @@ class: ["Slayer"]
 replaces:
   - "track (1st)"
   - "slayer talent (2nd)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Sniper (Advanced Class Guide)|Sniper (PF1)]]"
 status: draft

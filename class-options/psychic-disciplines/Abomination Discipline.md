@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "psychic discipline"
 class: ["Psychic"]
 phrenic-pool-ability: "Charisma"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Abomination Discipline|Abomination Discipline (PF1 Foundry)]]"
   - "[[path srd 3.5 foundry/class-features/Dark Half|Dark Half (PF1 Foundry)]]"

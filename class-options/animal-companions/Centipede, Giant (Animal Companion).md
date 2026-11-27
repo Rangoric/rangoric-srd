@@ -6,7 +6,6 @@ class: ["Druid"]
 size: "Small"
 speed: "20 ft., climb 20 ft."
 advancement-level: "4th"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/animal-companions/Centipede, Giant (Animal Companion)|Centipede, Giant (PF1)]]"
 status: draft

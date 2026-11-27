@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "cruelty"
 class: "Antipaladin"
 level: 3
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Class Features#Cruelty (Su)|Antipaladin (PF1)]]"
 status: draft

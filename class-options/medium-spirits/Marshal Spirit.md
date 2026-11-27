@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "medium spirit"
 class: ["Medium"]
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Marshal Spirit|Marshal Spirit (PF1 Foundry)]]"
   - "[[path srd 3.5 foundry/class-features/Marshall's Order|Marshal's Order (PF1 Foundry)]]"

@@ -5,7 +5,6 @@ option-type: "deed"
 class: "Gunslinger"
 level: 1
 grit-cost: "1 per range increment beyond the first"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/classes/Gunslinger#Deeds|Gunslinger (PF1)]]"
 status: draft

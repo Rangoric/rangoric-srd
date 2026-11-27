@@ -6,7 +6,6 @@ class: ["Druid"]
 size: "Small"
 speed: "40 ft."
 advancement-level: "4th"
-book: "Core Rulebook"
 based-on:
   - "[[path srd 3.5/animal-companions/Dog (Animal Companion)|Dog (PF1)]]"
 status: draft

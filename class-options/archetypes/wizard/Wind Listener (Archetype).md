@@ -11,7 +11,6 @@ replaces:
   - "bonus feat (5th)"
   - "bonus feat (10th)"
   - "bonus feat (15th)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Sylphs#Wind Listener (Wizard)|Sylphs, Wind Listener (PF1)]]"
 status: draft

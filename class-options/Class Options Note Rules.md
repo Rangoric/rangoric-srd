@@ -19,7 +19,6 @@ What the notes in `class-options` look like. The whole-SRD rules are in the [REA
 | `section`     | yes      | `Class Options` |
 | `option-type` | yes      | `text`          |
 | `class`       | yes      |                 |
-| `book`        | no       | `text`          |
 | `level`       | no       | `number`        |
 | `replaces`    | no       | list of `text`  |
 
@@ -33,7 +32,6 @@ Headings, in order:
 | ---------- | -------- | --------------- |
 | `srd-type` | yes      | `overview`      |
 | `section`  | yes      | `Class Options` |
-| `book`     | no       |                 |
 
 ## Failing notes
 

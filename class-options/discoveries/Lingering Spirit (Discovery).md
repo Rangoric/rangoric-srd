@@ -5,7 +5,6 @@ option-type: "discovery"
 class: ["Alchemist"]
 bomb: false
 level: 4
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/rules/ultimate-magic/spellcasting-class-options/Alchemist (Spellcasting Class Options)#Discoveries|Alchemist (Ultimate Magic)]]"
   - "[[path srd 3.5 foundry/class-features/Lingering Spirit|Lingering Spirit (PF1 Foundry)]]"

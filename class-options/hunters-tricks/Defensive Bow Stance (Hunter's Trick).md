@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "hunter's trick"
 class: ["Ranger"]
 ability-type: "Ex"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Skirmisher#Hunter's Tricks|Skirmisher, Defensive Bow Stance (PF1)]]"
 status: draft

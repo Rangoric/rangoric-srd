@@ -8,7 +8,6 @@ replaces:
   - "monster lore (1st)"
   - "track (2nd)"
   - "discern lies (5th)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Infiltrator (Ultimate Magic)|Infiltrator (PF1)]]"
 status: draft

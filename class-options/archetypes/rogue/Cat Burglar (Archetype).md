@@ -7,7 +7,6 @@ race: "Catfolk"
 replaces:
   - "uncanny dodge (4th)"
   - "improved uncanny dodge (8th)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Catfolk (Race)#Cat Burglar (Rogue)|Catfolk (Race), Cat Burglar (PF1)]]"
 status: draft

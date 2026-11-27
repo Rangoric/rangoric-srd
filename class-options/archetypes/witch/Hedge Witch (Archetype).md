@@ -6,7 +6,6 @@ class: ["Witch"]
 replaces:
   - "hex (4th)"
   - "hex (8th)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Hedge Witch|Hedge Witch (PF1)]]"
 status: draft

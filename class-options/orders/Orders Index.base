@@ -7,7 +7,6 @@ views:
     order:
       - file.name
       - note.srd-type
-      - note.book
       - note.status
     sort:
       - property: file.name

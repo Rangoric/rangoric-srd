@@ -7,7 +7,6 @@ element: ["fire"]
 talent-type: "defense"
 talent-level: "—"
 burn: "0"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Searing Flesh|Searing Flesh (PF1 Foundry)]]"
 status: draft

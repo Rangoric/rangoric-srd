@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "medium spirit"
 class: ["Medium"]
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Champion Spirit|Champion Spirit (PF1 Foundry)]]"
   - "[[path srd 3.5 foundry/class-features/Champion's Prowess|Champion's Prowess (PF1 Foundry)]]"

@@ -7,7 +7,6 @@ replaces:
   - "arcanist exploit (3rd)"
   - "arcanist exploit (9th)"
   - "magical supremacy (20th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Brown-Fur Transmuter|Brown-Fur Transmuter (PF1)]]"
 status: draft

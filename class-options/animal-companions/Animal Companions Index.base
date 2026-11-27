@@ -10,7 +10,6 @@ views:
       - note.size
       - note.speed
       - note.advancement-level
-      - note.book
     sort:
       - property: file.name
         direction: ASC

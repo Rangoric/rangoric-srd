@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "advanced-mutagen"
 class: ["Master Chymist"]
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/classes/Master Chymist#Advanced Mutagen (Su)|Master Chymist, Advanced Mutagen (PF1)]]"
 status: draft

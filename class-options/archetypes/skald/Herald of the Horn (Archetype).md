@@ -7,7 +7,6 @@ replaces:
   - "Scribe Scroll (1st)"
   - "spell kenning (5th, 11th, 17th)"
   - "lore master (7th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Herald of the Horn|Herald of the Horn (PF1)]]"
 status: draft

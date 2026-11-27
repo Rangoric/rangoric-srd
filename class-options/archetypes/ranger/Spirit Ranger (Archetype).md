@@ -6,7 +6,6 @@ class: ["Ranger"]
 replaces:
   - "hunter’s bond (4th)"
   - "camouflage (12th)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Spirit Ranger|Spirit Ranger (PF1)]]"
 status: draft

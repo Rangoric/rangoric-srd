@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-book: ["Advanced Player's Guide", "Ultimate Combat", "Advanced Class Guide", "Advanced Race Guide", "Occult Adventures"]
 based-on:
   - "[[path srd 3.5/classes/Cavalier#Cavalier Orders|Cavalier (PF1)]]"
 status: draft

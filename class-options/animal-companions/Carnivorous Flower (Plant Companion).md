@@ -6,7 +6,6 @@ class: ["Druid"]
 size: "Small"
 speed: "30 ft., climb 10 ft."
 advancement-level: "4th"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Elves (Advanced Race Guide)#Plant Companions|Elves, Plant Companions, Carnivorous Flower (PF1)]]"
 status: draft

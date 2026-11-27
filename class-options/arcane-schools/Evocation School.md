@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "arcane-school"
 class: "Wizard"
 school-type: "core"
-book: "Core Rulebook"
 based-on:
   - "[[path srd 3.5/classes/Wizard#Evocation School|Wizard (PF1)]]"
 status: draft

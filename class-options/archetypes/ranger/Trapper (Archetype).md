@@ -5,7 +5,6 @@ option-type: "archetype"
 class: ["Ranger"]
 replaces:
   - "spells (4th)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Trapper (Archetype)|Trapper (PF1)]]"
 status: draft

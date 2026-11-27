@@ -9,7 +9,6 @@ replaces:
   - "uncanny dodge (2nd)"
   - "improved uncanny dodge (5th)"
   - "indomitable will (14th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Blood Conduit|Blood Conduit (PF1)]]"
 status: draft

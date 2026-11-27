@@ -9,7 +9,6 @@ replaces:
   - "poison use (2nd)"
   - "swift poisoning (6th)"
   - "poison immunity (10th)"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/hobgoblins/New Rules (Hobgoblins)#Grenadier|Hobgoblins, Grenadier (PF1)]]"
 status: draft

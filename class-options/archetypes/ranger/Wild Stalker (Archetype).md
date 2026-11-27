@@ -7,7 +7,6 @@ replaces:
   - "favored enemy (1st–20th)"
   - "combat style feat (2nd–18th)"
   - "hunter’s bond (4th)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Wild stalker|Wild Stalker (PF1)]]"
 status: draft

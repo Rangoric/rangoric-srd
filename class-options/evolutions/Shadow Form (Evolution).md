@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "evolution"
 class: ["Summoner", "Unchained Summoner"]
 evolution-cost: 2
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Fetchlings#New Evolutions|Fetchlings, New Evolutions (PF1)]]"
   - "[[path srd 3.5 foundry/eidolon-evolutions/Shadow Form (2 EP)|Shadow Form (PF1 Foundry)]]"

@@ -7,7 +7,6 @@ race: "Kobold"
 replaces:
   - "discovery (2nd)"
   - "discovery (4th)"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/kobolds/New Rules (Kobolds)#Alchemical Trapper|Kobolds, Alchemical Trapper (PF1)]]"
 status: draft

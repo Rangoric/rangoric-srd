@@ -13,7 +13,6 @@ replaces:
   - "wholeness of body (7th)"
   - "abundant step (12th)"
   - "diamond soul (13th)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Humans (Advanced Race Guide)#Wanderer (Monk)|Humans, Wanderer (PF1)]]"
 status: draft

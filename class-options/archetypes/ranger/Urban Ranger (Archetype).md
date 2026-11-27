@@ -10,7 +10,6 @@ replaces:
   - "woodland stride (7th)"
   - "camouflage (12th)"
   - "hide in plain sight (17th)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Urban Ranger|Urban Ranger (PF1)]]"
 status: draft

@@ -9,7 +9,6 @@ replaces:
   - "diamond body (11th)"
   - "diamond soul (13th)"
   - "empty body (19th)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Drunken Master|Drunken Master (PF1)]]"
 status: draft

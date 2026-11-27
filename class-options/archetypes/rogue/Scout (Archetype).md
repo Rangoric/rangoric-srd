@@ -6,7 +6,6 @@ class: ["Rogue"]
 replaces:
   - "uncanny dodge (4th)"
   - "improved uncanny dodge (8th)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Scout|Scout (PF1)]]"
 status: draft

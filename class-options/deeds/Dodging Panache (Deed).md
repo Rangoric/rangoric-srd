@@ -5,7 +5,6 @@ option-type: "deed"
 class: "Swashbuckler"
 level: 1
 panache-cost: "1"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/classes/Swashbuckler (Class)#Deeds|Swashbuckler (PF1)]]"
 status: draft

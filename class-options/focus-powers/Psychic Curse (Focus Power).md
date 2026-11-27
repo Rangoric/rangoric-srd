@@ -6,7 +6,6 @@ class: ["Occultist"]
 implement-school: "Necromancy"
 level: 5
 ability-type: "Sp"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Psychic Curse|Psychic Curse (PF1 Foundry)]]"
 status: draft

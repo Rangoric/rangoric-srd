@@ -6,7 +6,6 @@ class: ["Occultist"]
 implement-school: "Evocation"
 level: 1
 ability-type: "Sp"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Radiance|Radiance (PF1 Foundry)]]"
 status: draft

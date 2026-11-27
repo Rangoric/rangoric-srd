@@ -6,7 +6,6 @@ class: "Rogue"
 advanced: false
 sneak-attack: false
 level: 2
-book: "listed in Pathfinder Unchained"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Grit (Talent)|Grit (PF1 F)]]"
   - "[[path srd 3.5/rules/ultimate-combat/class-archetypes/Rogue (Class Archetypes)#Rogue Talents|Grit (PF1 UC)]]"

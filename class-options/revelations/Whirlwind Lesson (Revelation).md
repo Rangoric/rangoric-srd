@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "revelation"
 class: ["Oracle"]
 mystery: ["Lore"]
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/classes/Oracle#Lore|Oracle, Lore mystery (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Whirlwind Lesson|Whirlwind Lesson (PF1 Foundry)]]"

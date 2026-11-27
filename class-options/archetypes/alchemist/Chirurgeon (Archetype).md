@@ -7,7 +7,6 @@ replaces:
   - "poison use (2nd)"
   - "poison resistance +4 (5th)"
   - "poison immunity (10th)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Chirurgeon|Chirurgeon (PF1)]]"
 status: draft

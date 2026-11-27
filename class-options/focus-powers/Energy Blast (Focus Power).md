@@ -6,7 +6,6 @@ class: ["Occultist"]
 implement-school: "Evocation"
 level: 5
 ability-type: "Sp"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Energy Blast|Energy Blast (PF1 Foundry)]]"
 status: draft

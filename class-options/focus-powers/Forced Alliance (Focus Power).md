@@ -6,7 +6,6 @@ class: ["Occultist"]
 implement-school: "Enchantment"
 level: 5
 ability-type: "Sp"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Forced Alliance|Forced Alliance (PF1 Foundry)]]"
 status: draft

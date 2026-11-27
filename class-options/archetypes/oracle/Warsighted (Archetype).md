@@ -5,7 +5,6 @@ option-type: "archetype"
 class: ["Oracle"]
 replaces:
   - "revelation (1st, 7th, 11th, 15th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Warsighted|Warsighted (PF1)]]"
 status: draft

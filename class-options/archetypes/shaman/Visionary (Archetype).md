@@ -6,7 +6,6 @@ class: ["Shaman"]
 replaces:
   - "wandering spirit (4th, 12th, 20th)"
   - "wandering hex (6th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Visionary|Visionary (PF1)]]"
 status: draft

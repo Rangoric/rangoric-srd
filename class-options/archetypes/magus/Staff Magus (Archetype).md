@@ -8,7 +8,6 @@ replaces:
   - "medium armor (7th)"
   - "fighter training (10th)"
   - "heavy armor (13th)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Staff Magus|Staff Magus (PF1)]]"
 status: draft

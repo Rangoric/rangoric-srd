@@ -9,7 +9,6 @@ replaces:
   - "domains (1st)"
   - "channel energy (1st)"
   - "turn or rebuke undead (1st)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Tieflings#Fiendish Vessel (Cleric)|Tieflings, Fiendish Vessel (PF1)]]"
   - "[[path srd 3.5/races/Tieflings#Fiendish Patrons|Tieflings, Fiendish Patrons (PF1)]]"

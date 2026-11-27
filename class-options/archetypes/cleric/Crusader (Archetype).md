@@ -6,7 +6,6 @@ class: ["Cleric"]
 replaces:
   - "domains (1st)"
   - "spells"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Crusader|Crusader (PF1)]]"
 status: draft

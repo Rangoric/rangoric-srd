@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-book: ["Core Rulebook", "Pathfinder Unchained", "Advanced Player's Guide", "Ultimate Combat", "Advanced Class Guide"]
 based-on:
   - "[[path srd 3.5/classes/Barbarian#Rage Powers (Ex)|Barbarian (PF1)]]"
   - "[[path srd 3.5/classes/Barbarian (Unchained)#Rage Powers (Ex)|Unchained Barbarian (PF1)]]"

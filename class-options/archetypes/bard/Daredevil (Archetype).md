@@ -9,7 +9,6 @@ replaces:
   - "versatile performance (2nd)"
   - "well-versed (2nd)"
   - "lore master (5th)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Daredevil|Daredevil (PF1)]]"
 status: draft

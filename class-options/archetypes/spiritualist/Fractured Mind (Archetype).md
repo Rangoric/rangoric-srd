@@ -9,7 +9,6 @@ replaces:
   - "calm spirit (5th)"
   - "see invisibility (7th)"
   - "call spirit (16th)"
-book: "Occult Adventures"
 based-on: []
 status: draft
 change: new

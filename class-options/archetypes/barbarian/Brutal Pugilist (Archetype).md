@@ -7,7 +7,6 @@ replaces:
   - "uncanny dodge (2nd)"
   - "trap sense (3rd–18th)"
   - "improved uncanny dodge (5th)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Brutal Pugilist|Brutal Pugilist (PF1)]]"
 status: draft

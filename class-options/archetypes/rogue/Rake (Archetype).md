@@ -6,7 +6,6 @@ class: ["Rogue"]
 replaces:
   - "trapfinding (1st)"
   - "danger sense (3rd–18th)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Rake|Rake (PF1)]]"
 status: draft

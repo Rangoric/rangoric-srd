@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "animal focus"
 class: ["Hunter"]
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/classes/Hunter#Animal Focus (Su)|Hunter (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Bat (Hunter)|Bat (Hunter) (PF1 Foundry)]]"

@@ -9,7 +9,6 @@ replaces:
   - "bleeding wound (11th)"
   - "nimble (2nd)"
   - "gun training (5th)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Mysterious Stranger|Mysterious Stranger (PF1)]]"
 status: draft

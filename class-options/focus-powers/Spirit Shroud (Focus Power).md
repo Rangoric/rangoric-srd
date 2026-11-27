@@ -6,7 +6,6 @@ class: ["Occultist"]
 implement-school: "Necromancy"
 level: 3
 ability-type: "Su"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Spirit Shroud|Spirit Shroud (PF1 Foundry)]]"
 status: draft

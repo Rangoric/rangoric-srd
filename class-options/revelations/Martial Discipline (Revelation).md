@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "revelation"
 class: ["Oracle"]
 mystery: ["Ascetic"]
-book: "Villain Codex"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Martial Discipline|Martial Discipline (PF1 Foundry)]]"
 status: draft

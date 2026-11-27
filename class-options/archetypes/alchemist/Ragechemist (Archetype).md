@@ -7,7 +7,6 @@ replaces:
   - "poison use (2nd)"
   - "swift poisoning (6th)"
   - "poison immunity (10th)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Ragechemist|Ragechemist (PF1)]]"
 status: draft

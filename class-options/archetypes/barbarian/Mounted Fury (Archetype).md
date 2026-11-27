@@ -7,7 +7,6 @@ replaces:
   - "fast movement (1st)"
   - "uncanny dodge (2nd)"
   - "improved uncanny dodge (5th)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Mounted Fury|Mounted Fury (PF1)]]"
 status: draft

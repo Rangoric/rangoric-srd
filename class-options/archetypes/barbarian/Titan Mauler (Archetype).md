@@ -9,7 +9,6 @@ replaces:
   - "trap sense (3rd–18th)"
   - "improved uncanny dodge (5th)"
   - "indomitable will (14th)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Titan Mauler|Titan Mauler (PF1)]]"
 status: draft

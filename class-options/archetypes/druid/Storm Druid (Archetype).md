@@ -11,7 +11,6 @@ replaces:
   - "resist nature’s lure (4th)"
   - "venom immunity (9th)"
   - "a thousand faces (13th)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Storm Druid|Storm Druid (PF1)]]"
 status: draft

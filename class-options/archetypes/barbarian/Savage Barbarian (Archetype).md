@@ -6,7 +6,6 @@ class: ["Barbarian"]
 replaces:
   - "trap sense (3rd–18th)"
   - "damage reduction (7th–19th)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Savage Barbarian|Savage Barbarian (PF1)]]"
 status: draft

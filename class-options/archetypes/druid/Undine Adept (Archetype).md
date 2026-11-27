@@ -11,7 +11,6 @@ replaces:
   - "resist nature’s lure (4th)"
   - "wild shape (4th; gained at 6th)"
   - "venom immunity (9th)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Undines#Undine Adept (Druid)|Undines, Undine Adept (PF1)]]"
 status: draft

@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "bloodline"
 class: "Bloodrager"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/classes/Bloodrager#Elemental|Bloodrager, Elemental bloodline (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Elemental Bloodrager Bloodline|Elemental bloodrager bloodline (PF1)]]"

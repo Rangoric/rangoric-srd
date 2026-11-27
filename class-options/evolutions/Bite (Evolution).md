@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "evolution"
 class: ["Summoner"]
 evolution-cost: 1
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/classes/Summoner#Evolutions|Summoner, Evolutions (PF1)]]"
   - "[[path srd 3.5 foundry/eidolon-evolutions/Bite (1 EP)|Bite (PF1 Foundry)]]"

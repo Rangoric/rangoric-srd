@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-book: ["Core Rulebook", "Pathfinder Unchained", "Advanced Player's Guide", "Ultimate Combat"]
 based-on:
   - "[[path srd 3.5/classes/Rogue#Rogue Talents|Rogue (PF1)]]"
   - "[[path srd 3.5/classes/Rogue (Unchained)#Rogue Talents|Unchained Rogue (PF1)]]"

@@ -7,7 +7,6 @@ race: "Half-Elf"
 replaces:
   - "mutagen (1st)"
   - "discovery (2nd)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Half-Elves (Advanced Race Guide)#Bramble Brewer (Alchemist)|Half-Elves, Bramble Brewer (PF1)]]"
 status: draft

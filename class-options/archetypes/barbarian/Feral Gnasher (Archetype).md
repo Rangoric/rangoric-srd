@@ -10,7 +10,6 @@ replaces:
   - "rage powers (2nd)"
   - "trap sense (3rd–15th)"
   - "improved uncanny dodge (5th)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Goblins#Feral Gnasher (Barbarian)|Goblins, Feral Gnasher (PF1)]]"
 status: draft

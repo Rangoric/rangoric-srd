@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-book: ["Core Rulebook", "Faeries", "Advanced Player's Guide", "Ultimate Magic", "Ultimate Wilderness"]
 based-on:
   - "[[path srd 3.5/classes/Cleric#Domains|Cleric (PF1)]]"
   - "[[fantasy srd 3.5/classes/Cleric Domains|Cleric Domains (3.5)]]"

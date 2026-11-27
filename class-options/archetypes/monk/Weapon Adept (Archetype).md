@@ -9,7 +9,6 @@ replaces:
   - "improved evasion (9th)"
   - "timeless body (17th)"
   - "perfect self (20th)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Weapon Adept|Weapon Adept (PF1)]]"
 status: draft

@@ -5,7 +5,6 @@ option-type: "discovery"
 class: ["Alchemist"]
 bomb: false
 level: 16
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/rules/ultimate-magic/spellcasting-class-options/Alchemist (Spellcasting Class Options)#Discoveries|Alchemist (Ultimate Magic)]]"
   - "[[path srd 3.5 foundry/class-features/Grand Cognatogen|Grand Cognatogen (PF1 Foundry)]]"

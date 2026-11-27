@@ -8,7 +8,6 @@ replaces:
   - "class skills"
   - "summon monster I (1st–19th)"
   - "eidolon"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Fetchlings#Shadow Caller (Summoner)|Fetchlings, Shadow Caller (PF1)]]"
 status: draft

@@ -13,7 +13,6 @@ replaces:
   - "nimble (2nd)"
   - "bonus feats (4th–20th)"
   - "gun training (5th, 9th, 17th)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Humans (Advanced Race Guide)#Buccaneer (Gunslinger)|Humans, Buccaneer (PF1)]]"
 status: draft

@@ -7,7 +7,6 @@ element: ["earth"]
 talent-type: "utility"
 talent-level: 1
 burn: "—"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Earth Walk|Earth Walk (PF1 Foundry)]]"
 status: draft

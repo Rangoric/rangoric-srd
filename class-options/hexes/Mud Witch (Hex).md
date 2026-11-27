@@ -5,7 +5,6 @@ option-type: "hex"
 hex-type: "hex"
 class: ["Witch"]
 race: "[[rangoric-srd/races/Goblin|goblins]]"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/goblins/Goblin Archetype#Goblin Witch Hex|Goblins, Mud Witch (PF1)]]"
 status: draft

@@ -7,7 +7,6 @@ element: ["water"]
 talent-type: "utility"
 talent-level: 2
 burn: "0"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Veil of Mists|Veil of Mists (PF1 Foundry)]]"
 status: draft

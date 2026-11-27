@@ -8,7 +8,6 @@ replaces:
   - "mystery (class skills)"
   - "mystery spell (2nd, 4th, 6th, 10th, 12th)"
   - "revelation (1st, 3rd)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Halflings (Advanced Race Guide)#Community Guardian (Oracle)|Halflings, Community Guardian (PF1)]]"
 status: draft

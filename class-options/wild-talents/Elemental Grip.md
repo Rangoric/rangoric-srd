@@ -7,7 +7,6 @@ element: ["universal"]
 talent-type: "utility"
 talent-level: 3
 burn: "0"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Elemental Grip|Elemental Grip (PF1 Foundry)]]"
 status: draft

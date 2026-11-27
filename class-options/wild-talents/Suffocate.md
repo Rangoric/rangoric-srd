@@ -7,7 +7,6 @@ element: ["aether", "air", "void", "water"]
 talent-type: "utility"
 talent-level: 6
 burn: "0"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Suffocate|Suffocate (PF1 Foundry)]]"
 status: draft

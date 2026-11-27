@@ -5,7 +5,6 @@ option-type: "deed"
 class: "Gunslinger"
 level: 19
 grit-cost: "all"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/classes/Gunslinger#Deeds|Gunslinger (PF1)]]"
 status: draft

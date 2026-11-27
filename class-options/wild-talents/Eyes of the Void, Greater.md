@@ -7,7 +7,6 @@ element: ["void"]
 talent-type: "utility"
 talent-level: 5
 burn: "—"
-book: "Occult Origins"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Void Element|Void Element (PF1 Foundry)]]"
 status: draft

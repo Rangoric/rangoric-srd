@@ -7,7 +7,6 @@ replaces:
   - "arcanist exploit (1st)"
   - "arcanist exploit (7th)"
   - "magical supremacy (20th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Occultist|Occultist (PF1)]]"
 status: draft

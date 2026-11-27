@@ -18,7 +18,6 @@ replaces:
   - "binding circles (12th)"
   - "fast circles (16th)"
   - "implement mastery (20th)"
-book: "Occult Adventures"
 based-on: []
 status: draft
 change: new

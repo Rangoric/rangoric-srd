@@ -7,7 +7,6 @@ element: ["fire"]
 talent-type: "utility"
 talent-level: 2
 burn: "0"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Flame Trap|Flame Trap (PF1 Foundry)]]"
 status: draft

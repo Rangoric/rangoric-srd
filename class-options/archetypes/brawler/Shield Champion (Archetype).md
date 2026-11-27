@@ -7,7 +7,6 @@ replaces:
   - "weapon and armor proficiency"
   - "maneuver training (3rd–19th)"
   - "brawler's strike (5th–17th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Shield Champion|Shield Champion (PF1)]]"
 status: draft

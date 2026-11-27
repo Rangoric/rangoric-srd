@@ -8,7 +8,6 @@ replaces:
   - "class skills"
   - "fast movement (1st)"
   - "rage (1st)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Urban Barbarian|Urban Barbarian (PF1)]]"
 status: draft

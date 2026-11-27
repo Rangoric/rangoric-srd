@@ -7,7 +7,6 @@ element: ["aether"]
 talent-type: "form infusion"
 talent-level: 8
 burn: "4"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Many Throw Infusion|Many Throw Infusion (PF1 Foundry)]]"
 status: draft

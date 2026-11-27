@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/rules/ultimate-magic/spellcasting-class-options/Ranger (Spellcasting Class Options)#Ranger Traps|Ranger, Ranger Traps (PF1)]]"
 status: draft

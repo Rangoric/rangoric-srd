@@ -7,7 +7,6 @@ replaces:
   - "spells (4th)"
   - "divine bond (5th)"
   - "aura of justice (11th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Temple Champion|Temple Champion (PF1)]]"
 status: draft

@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "revelation"
 class: ["Oracle"]
 mystery: ["Ancestor"]
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/rules/ultimate-magic/spellcasting-class-options/Oracle (Spellcasting Class Options)#Ancestor|Oracle, Ancestor mystery (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Storm of Souls|Storm of Souls (PF1 Foundry)]]"

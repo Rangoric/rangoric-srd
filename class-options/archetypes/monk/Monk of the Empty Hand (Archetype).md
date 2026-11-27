@@ -9,7 +9,6 @@ replaces:
   - "still mind (3rd)"
   - "purity of body (5th)"
   - "diamond body (11th)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Monk of the Empty Hand|Monk of the Empty Hand (PF1)]]"
 status: draft

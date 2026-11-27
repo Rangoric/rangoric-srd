@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "spirit"
 class: ["Shaman"]
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/classes/Shaman (Class)#Flame|Shaman, Flame spirit (PF1)]]"
 status: draft

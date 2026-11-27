@@ -8,7 +8,6 @@ replaces:
   - "elemental focus (basic utility wild talent)"
   - "wild talents (2nd–20th utility)"
   - "omnikinesis (20th)"
-book: "Occult Adventures"
 based-on: []
 status: draft
 change: new

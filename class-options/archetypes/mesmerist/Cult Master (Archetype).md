@@ -11,7 +11,6 @@ replaces:
   - "bold stare (7th)"
   - "masterful tricks (12th)"
   - "rule minds (20th)"
-book: "Occult Adventures"
 based-on: []
 status: draft
 change: new

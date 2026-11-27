@@ -6,7 +6,6 @@ class: ["Occultist"]
 implement-school: "Conjuration"
 level: 3
 ability-type: "Sp"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Flesh Mend|Flesh Mend (PF1 Foundry)]]"
 status: draft

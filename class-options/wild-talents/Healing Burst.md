@@ -7,7 +7,6 @@ element: ["aether", "void", "water", "wood"]
 talent-type: "utility"
 talent-level: 4
 burn: "1"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Healing Burst|Healing Burst (PF1 Foundry)]]"
 status: draft

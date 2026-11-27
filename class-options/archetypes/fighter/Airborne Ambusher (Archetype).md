@@ -9,7 +9,6 @@ replaces:
   - "class skills"
   - "bravery (2nd)"
   - "weapon training (5th, 9th, 13th, 17th)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Strix#Airborne Ambusher (Fighter)|Strix, Airborne Ambusher (PF1)]]"
 status: draft

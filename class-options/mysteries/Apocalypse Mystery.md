@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "mystery"
 class: ["Oracle"]
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Apocalypse Mystery|Apocalypse Mystery (PF1 Foundry)]]"
   - "[[path srd 3.5 foundry/class-features/Apocalypse Final Revelation|Apocalypse Final Revelation (PF1 Foundry)]]"

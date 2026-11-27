@@ -6,7 +6,6 @@ class: ["Occultist"]
 implement-school: "Enchantment"
 level: 1
 ability-type: "Sp"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Mental Discord|Mental Discord (PF1 Foundry)]]"
 status: draft

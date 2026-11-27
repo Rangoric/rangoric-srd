@@ -9,7 +9,6 @@ replaces:
   - "arcanist exploit (9th)"
   - "arcanist exploit (15th)"
   - "magical supremacy (20th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Blood Arcanist|Blood Arcanist (PF1)]]"
 status: draft

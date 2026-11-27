@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "discovery"
 class: ["Alchemist"]
 bomb: false
-book: "Villain Codex"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Penetrating Charge|Penetrating Charge (PF1 Foundry)]]"
 status: draft

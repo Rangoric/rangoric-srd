@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "order"
 class: ["Samurai", "Cavalier"]
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/classes/Samurai#Order of the Warrior|Samurai (PF1)]]"
 status: draft

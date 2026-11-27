@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "psychic discipline"
 class: ["Psychic"]
 phrenic-pool-ability: "Wisdom"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Lore Discipline|Lore Discipline (PF1 Foundry)]]"
   - "[[path srd 3.5 foundry/class-features/Illuminating Answers|Illuminating Answers (PF1 Foundry)]]"

@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "revelation"
 class: ["Oracle"]
 mystery: ["Ascetic"]
-book: "Villain Codex"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Rapid Convalescence|Rapid Convalescence (PF1 Foundry)]]"
 status: draft

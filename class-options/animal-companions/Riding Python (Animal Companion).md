@@ -6,7 +6,6 @@ class: ["Druid"]
 size: "Medium"
 speed: "30 ft."
 advancement-level: "4th"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/animal-companions/Riding Python|Riding Python (PF1)]]"
 status: draft

@@ -8,7 +8,6 @@ replaces:
   - "cavalier's charge (3rd)"
   - "mighty charge (11th)"
   - "demanding challenge (12th)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Honor Guard|Honor Guard (PF1)]]"
 status: draft

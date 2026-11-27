@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Mesmerist Tricks|Mesmerist Tricks (PF1 Foundry)]]"
   - "[[path srd 3.5 foundry/class-features/Masterful Tricks|Masterful Tricks (PF1 Foundry)]]"

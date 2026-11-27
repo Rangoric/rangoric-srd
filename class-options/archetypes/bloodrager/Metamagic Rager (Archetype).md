@@ -5,7 +5,6 @@ option-type: "archetype"
 class: ["Bloodrager"]
 replaces:
   - "improved uncanny dodge (5th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Metamagic Rager|Metamagic Rager (PF1)]]"
 status: draft

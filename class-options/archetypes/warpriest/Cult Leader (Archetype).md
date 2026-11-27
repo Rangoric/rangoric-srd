@@ -9,7 +9,6 @@ replaces:
   - "focus weapon (1st)"
   - "bonus feats (3rd, 9th, 12th, 15th)"
   - "channel energy (4th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Cult Leader (Archetype)|Cult Leader (PF1)]]"
 status: draft

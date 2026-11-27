@@ -7,7 +7,6 @@ element: ["fire"]
 talent-type: "utility"
 talent-level: 2
 burn: "—"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Searing Flame|Searing Flame (PF1 Foundry)]]"
 status: draft

@@ -8,7 +8,6 @@ replaces:
   - "phrenic amplifications (7th)"
   - "telepathic bond (9th)"
   - "telepathy (17th)"
-book: "Occult Adventures"
 based-on: []
 status: draft
 change: new

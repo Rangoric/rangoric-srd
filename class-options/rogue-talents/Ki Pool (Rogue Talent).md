@@ -6,7 +6,6 @@ class: "Rogue"
 advanced: false
 sneak-attack: false
 level: 2
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/rules/ultimate-combat/class-archetypes/Rogue (Class Archetypes)|Rogue (Class Archetypes) (PF1)]]"
 status: draft

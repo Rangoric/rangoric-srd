@@ -8,7 +8,6 @@ replaces:
   - "venom immunity (9th)"
   - "a thousand faces (13th)"
   - "timeless body (15th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Feral Shifter|Feral Shifter (PF1)]]"
 status: draft

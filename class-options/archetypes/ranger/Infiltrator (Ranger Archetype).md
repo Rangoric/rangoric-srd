@@ -5,7 +5,6 @@ option-type: "archetype"
 class: ["Ranger"]
 replaces:
   - "favored terrain (3rd–18th)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Infiltrator|Infiltrator (PF1)]]"
 status: draft

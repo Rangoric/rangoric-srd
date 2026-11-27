@@ -6,7 +6,6 @@ amplification-type: "amplification"
 class: ["Psychic"]
 level: 1
 ability-type: "Ex"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Intense Focus (PSY)|Intense Focus (PSY) (PF1 Foundry)]]"
 status: draft

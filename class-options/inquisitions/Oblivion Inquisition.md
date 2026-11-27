@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "inquisition"
 class: ["Inquisitor"]
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/rules/ultimate-magic/spellcasting-class-options/Inquisitor (Spellcasting Class Options)#Oblivion Inquisition|Inquisitor, Oblivion Inquisition (UM)]]"
   - "[[path srd 3.5 foundry/class-features/Oblivion Inquisition|Oblivion Inquisition (PF1 Foundry)]]"

@@ -8,7 +8,6 @@ replaces:
   - "slayer talent (4th)"
   - "stalker (7th)"
   - "slayer talent (10th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Stygian Slayer|Stygian Slayer (PF1)]]"
 status: draft

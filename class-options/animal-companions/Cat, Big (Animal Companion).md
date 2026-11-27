@@ -8,7 +8,6 @@ aliases:
 size: "Medium"
 speed: "40 ft."
 advancement-level: "7th"
-book: "Core Rulebook"
 based-on:
   - "[[path srd 3.5/animal-companions/Cat, Big (Lion, Tiger)|Cat, Big (PF1)]]"
 status: draft

@@ -8,7 +8,6 @@ replaces:
   - "spirit (its spirit magic spells)"
   - "hex (2nd)"
   - "hex (10th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Spirit Warden|Spirit Warden (PF1)]]"
 status: draft

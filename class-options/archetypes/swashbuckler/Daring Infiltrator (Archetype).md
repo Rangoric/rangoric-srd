@@ -10,7 +10,6 @@ replaces:
   - "swashbuckler initiative (3rd)"
   - "menacing swordplay (3rd)"
   - "bleeding wound (11th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Daring Infiltrator|Daring Infiltrator (PF1)]]"
 status: draft

@@ -13,7 +13,6 @@ replaces:
   - "greater tactician (9th)"
   - "greater banner (14th)"
   - "supreme charge (20th)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Emissary|Emissary (PF1)]]"
 status: draft

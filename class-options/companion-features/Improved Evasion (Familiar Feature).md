@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "companion feature"
 class: ["Wizard", "Sorcerer", "Witch", "Arcanist"]
-book: "Core Rulebook"
 based-on:
   - "[[path srd 3.5 foundry/companion-features/Improved Evasion (Companion Feature)|Improved Evasion (PF1 Foundry)]]"
 status: draft

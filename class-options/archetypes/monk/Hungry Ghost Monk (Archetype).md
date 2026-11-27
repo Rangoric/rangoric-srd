@@ -9,7 +9,6 @@ replaces:
   - "wholeness of body (7th)"
   - "diamond body (11th)"
   - "diamond soul (13th)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Hungry Ghost Monk|Hungry Ghost Monk (PF1)]]"
 status: draft

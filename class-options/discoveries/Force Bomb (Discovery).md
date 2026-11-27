@@ -5,7 +5,6 @@ option-type: "discovery"
 class: ["Alchemist"]
 bomb: true
 level: 8
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/classes/Alchemist (Class)#Discovery (Su)|Alchemist, Discovery (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Force Bomb|Force Bomb (PF1 Foundry)]]"

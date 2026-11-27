@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-book: ["Core Rulebook", "Advanced Player's Guide", "Advanced Class Guide", "Ultimate Intrigue"]
 based-on:
   - "[[path srd 3.5/classes/Ranger#Combat Style Feat (Ex)|Ranger (PF1)]]"
   - "[[path srd 3.5/rules/advanced-player-s-guide/core-classes/Ranger (Core Classes)#New Combat Styles|Ranger (PF1 APG)]]"

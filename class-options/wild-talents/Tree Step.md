@@ -7,7 +7,6 @@ element: ["wood"]
 talent-type: "utility"
 talent-level: 7
 burn: "1"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Tree Step|Tree Step (PF1 Foundry)]]"
 status: draft

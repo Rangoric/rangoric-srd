@@ -8,7 +8,6 @@ replaces:
   - "bloodline arcana (1st)"
   - "bloodline spells (3rd–19th)"
   - "bloodline feats (7th, 13th, 19th)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Ifrits#Wishcrafter (Sorcerer)|Ifrits, Wishcrafter (PF1)]]"
 status: draft

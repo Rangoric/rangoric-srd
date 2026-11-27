@@ -7,7 +7,6 @@ element: ["water"]
 talent-type: "utility"
 talent-level: 5
 burn: "0"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Waterdancer, Greater|Waterdancer, Greater (PF1 Foundry)]]"
 status: draft

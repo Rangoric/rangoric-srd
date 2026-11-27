@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "revelation"
 class: ["Oracle"]
 mystery: ["Battle", "Metal"]
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/classes/Oracle#Battle|Oracle, Battle mystery (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Iron Skin (Oracle)|Iron Skin (Oracle) (PF1 Foundry)]]"

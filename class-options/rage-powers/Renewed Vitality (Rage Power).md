@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "rage-power"
 class: ["Barbarian", "Skald"]
 level: 2
-book: "Pathfinder Unchained"
 based-on:
   - "[[path srd 3.5/classes/Barbarian (Unchained)#Rage Powers (Ex)|Unchained Barbarian (PF1)]]"
 status: draft

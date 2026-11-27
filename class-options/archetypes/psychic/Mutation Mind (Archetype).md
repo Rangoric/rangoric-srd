@@ -6,7 +6,6 @@ class: ["Psychic"]
 replaces:
   - "phrenic amplifications (1st–19th)"
   - "major amplifications (11th–19th)"
-book: "Occult Adventures"
 based-on: []
 status: draft
 change: new

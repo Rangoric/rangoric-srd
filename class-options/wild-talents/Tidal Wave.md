@@ -7,7 +7,6 @@ element: ["water"]
 talent-type: "utility"
 talent-level: 9
 burn: "1"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Tidal Wave|Tidal Wave (PF1 Foundry)]]"
 status: draft

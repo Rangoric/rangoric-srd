@@ -7,7 +7,6 @@ replaces:
   - "weapon and armor proficiency"
   - "mount (1st)"
   - "expert trainer (4th)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Musketeer|Musketeer (PF1)]]"
 status: draft

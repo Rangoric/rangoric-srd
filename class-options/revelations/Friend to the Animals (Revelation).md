@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "revelation"
 class: ["Oracle"]
 mystery: ["Nature"]
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/classes/Oracle#Nature|Oracle, Nature mystery (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Friend to the Animals|Friend to the Animals (PF1 Foundry)]]"

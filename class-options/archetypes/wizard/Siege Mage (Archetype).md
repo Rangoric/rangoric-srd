@@ -8,7 +8,6 @@ replaces:
   - "arcane bond (1st)"
   - "cantrips"
   - "arcane school (1st)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Siege Mage|Siege Mage (PF1)]]"
 status: draft

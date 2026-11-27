@@ -7,7 +7,6 @@ element: ["fire", "wood"]
 talent-type: "utility"
 talent-level: 2
 burn: "0"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Foxfire|Foxfire (PF1 Foundry)]]"
 status: draft

@@ -7,7 +7,6 @@ element: ["wood"]
 talent-type: "substance infusion"
 talent-level: 5
 burn: "3"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Spore Infusion|Spore Infusion (PF1 Foundry)]]"
 status: draft

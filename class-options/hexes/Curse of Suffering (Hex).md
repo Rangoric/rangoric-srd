@@ -5,7 +5,6 @@ option-type: "hex"
 hex-type: "hex"
 class: ["Shaman"]
 spirit: ["Battle", "Life"]
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/classes/Shaman (Class)#Battle|Shaman, Battle spirit (PF1)]]"
   - "[[path srd 3.5/classes/Shaman (Class)#Life|Shaman, Life spirit (PF1)]]"

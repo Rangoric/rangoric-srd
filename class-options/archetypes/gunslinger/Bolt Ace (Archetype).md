@@ -13,7 +13,6 @@ replaces:
   - "lightning reload (11th)"
   - "menacing shot (15th)"
   - "gun training (5th–17th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Bolt Ace|Bolt Ace (PF1)]]"
 status: draft

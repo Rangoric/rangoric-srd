@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/classes/Ninja#Ninja Tricks|Ninja (PF1)]]"
 status: draft

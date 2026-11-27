@@ -13,7 +13,6 @@ replaces:
   - "greater shield ally (12th)"
   - "life bond (14th)"
   - "merge forms (16th)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Synthesist|Synthesist (PF1)]]"
 status: draft

@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "blessing"
 class: ["Warpriest"]
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Earthquake Blessing|Earthquake Blessing (PF1 Foundry)]]"
   - "[[path srd 3.5 foundry/class-features/Stone's Base|Stone's Base (PF1 Foundry)]]"

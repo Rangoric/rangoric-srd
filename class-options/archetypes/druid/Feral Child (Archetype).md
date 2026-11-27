@@ -15,7 +15,6 @@ replaces:
   - "venom immunity (9th)"
   - "a thousand faces (13th)"
   - "timeless body (15th)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Humans (Advanced Race Guide)#Feral Child (Druid)|Humans, Feral Child (PF1)]]"
 status: draft

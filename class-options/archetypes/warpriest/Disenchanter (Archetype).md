@@ -7,7 +7,6 @@ replaces:
   - "bonus feats (3rd–18th)"
   - "bonus feat (6th)"
   - "channel energy (4th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Disenchanter (Archetype)|Disenchanter (PF1)]]"
 status: draft

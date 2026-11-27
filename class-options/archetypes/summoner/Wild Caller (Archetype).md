@@ -8,7 +8,6 @@ replaces:
   - "spells"
   - "eidolon"
   - "summon monster I (1st–19th)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Half-Elves (Advanced Race Guide)#Wild Caller (Summoner)|Half-Elves, Wild Caller (PF1)]]"
 status: draft

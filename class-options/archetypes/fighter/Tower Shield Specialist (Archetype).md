@@ -8,7 +8,6 @@ replaces:
   - "armor training (3rd, 7th, 11th, 15th)"
   - "weapon training (5th, 9th, 13th, 17th)"
   - "weapon mastery (20th)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Tower Shield Specialist|Tower Shield Specialist (PF1)]]"
 status: draft

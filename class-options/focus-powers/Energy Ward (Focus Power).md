@@ -6,7 +6,6 @@ class: ["Occultist"]
 implement-school: "Evocation"
 level: 7
 ability-type: "Sp"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Energy Ward|Energy Ward (PF1 Foundry)]]"
 status: draft
