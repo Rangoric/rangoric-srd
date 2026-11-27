@@ -5,7 +5,7 @@ school: "Conjuration"
 subschool: "Healing"
 descriptor:
   - "Good"
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Pal 4"
 components:
@@ -20,12 +20,12 @@ based-on:
 status: draft
 change: new
 pi-review: 2026-11-06
-tags: [rangoric, rangoric/spell]
+tags: [rangoric, rangoric/spell, good]
 ---
 
 # Blaze of Glory
 
-_Conjuration (Healing) \[Good, Mind-affecting\]_
+_Conjuration (Healing) \[Good, Mind-Affecting\]_
 
 - **Level**: Pal 4
 - **Components**: V

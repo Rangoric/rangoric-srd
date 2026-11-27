@@ -4,7 +4,7 @@ section: "Spells"
 school: "Transmutation"
 descriptor:
   - "Good"
-  - "Law"
+  - "Lawful"
 level:
   - "Clr 7"
   - "Pal 4"
@@ -23,12 +23,12 @@ based-on:
 status: draft
 change: new
 pi-review: 2026-11-06
-tags: [rangoric, rangoric/spell]
+tags: [rangoric, rangoric/spell, good, lawful]
 ---
 
 # Bestow Grace of the Champion
 
-_Transmutation \[Good, Law\]_
+_Transmutation \[Good, Lawful\]_
 
 - **Level**: Clr 7, Pal 4
 - **Components**: V, S, DF

@@ -123,7 +123,7 @@ Granted Power: Gain +4 bonus on Craft checks. The character casts conjuration (c
 
 ##### Chaos Domain
 
-**Granted Power**: You cast chaos spells at +1 caster level.
+**Granted Power**: You cast chaotic spells at +1 caster level.
 
 ###### Chaos Domain Spells
 
@@ -139,7 +139,7 @@ Granted Power: Gain +4 bonus on Craft checks. The character casts conjuration (c
 | 8 [[rangoric-srd/spells/Cloak of Chaos\|Cloak of Chaos]] (F):                 | +4 to AC, +4 resistance, SR 25 against lawful spells.                                  |
 | 9 [[rangoric-srd/spells/Summon Monster IX\|Summon Monster IX]]\*:             | Calls extraplanar creature to fight for you.                                           |
 
-\* _Cast as a chaos spell only._
+\* _Cast as a chaotic spell only._
 
 ##### Charm Domain
 
@@ -398,7 +398,7 @@ You cast divination spells at +1 caster level.
 
 ##### Law Domain
 
-**Granted Power**: You cast law spells at +1 caster level.
+**Granted Power**: You cast lawful spells at +1 caster level.
 
 ###### Law Domain Spells
 
@@ -414,7 +414,7 @@ You cast divination spells at +1 caster level.
 | 8 [[rangoric-srd/spells/Shield of Law\|Shield of Law]] (F):                       | +4 to AC, +4 resistance, and SR 25 against chaotic spells.                             |
 | 9 [[rangoric-srd/spells/Summon Monster IX\|Summon Monster IX]]\*:                 | Calls extraplanar creature to fight for you.                                           |
 
-\* _Cast as a law spell only._
+\* _Cast as a lawful spell only._
 
 ##### Liberation Domain
 

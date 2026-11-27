@@ -3,7 +3,8 @@ srd-type: "spell"
 section: "Spells"
 school: "Evocation"
 descriptor:
-  - "Good or Evil"
+  - "Good"
+  - "Evil"
 level:
   - "Clr 4"
   - "Pal 2"
@@ -17,7 +18,7 @@ based-on:
 status: draft
 change: new
 pi-review: 2026-11-10
-tags: [rangoric, rangoric/spell]
+tags: [rangoric, rangoric/spell, good, evil]
 ---
 
 # Expunge

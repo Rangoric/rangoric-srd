@@ -12,7 +12,7 @@ based-on:
 status: draft
 change: new
 pi-review: 2026-11-17
-tags: [rangoric, rangoric/occult-ritual]
+tags: [rangoric, rangoric/occult-ritual, evil]
 ---
 
 # Sever Spirit

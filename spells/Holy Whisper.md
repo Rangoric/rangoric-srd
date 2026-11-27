@@ -20,7 +20,7 @@ based-on:
 status: draft
 change: new
 pi-review: 2026-11-06
-tags: [rangoric, rangoric/spell]
+tags: [rangoric, rangoric/spell, good]
 ---
 
 # Holy Whisper

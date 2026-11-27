@@ -3,7 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Evocation"
 descriptor:
-  - "Chaos"
+  - "Chaotic"
 level:
   - "Clr 2"
 components:
@@ -21,12 +21,12 @@ based-on:
 status: draft
 change: new
 pi-review: 2026-11-06
-tags: [rangoric, rangoric/spell]
+tags: [rangoric, rangoric/spell, chaotic]
 ---
 
 # Shard of Chaos
 
-_Evocation \[Chaos\]_
+_Evocation \[Chaotic\]_
 
 - **Level**: Clr 2
 - **Components**: V, S, DF

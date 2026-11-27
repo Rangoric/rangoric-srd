@@ -26,21 +26,21 @@ You follow a strict and ordered code of laws, and in so doing, achieve enlighten
 
 **Staff of Order (Su)**: At 8th level, you can give a weapon touched the _[[rangoric-srd/magic-items/weapon-abilities/Axiomatic|axiomatic]]_ special weapon quality for a number of rounds equal to 1/2 your cleric level. You can use this ability once per day at 8th level, and an additional time per day for every four levels beyond 8th.
 
-**Granted Power**: You cast law spells at +1 caster level.
+**Granted Power**: You cast lawful spells at +1 caster level.
 
 ## Domain Spells
 
 Where a level has two spells, the cleric prepares [[rangoric-srd/class-options/domains/Domains#^domains-two-spells|either one]] in the domain spell slot.
 
-| Level | Spell                                                                                   | Brief Description                                                                |
-| ----- | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| 1st   | [[rangoric-srd/spells/Protection from Chaos\|Protection from Chaos]]                    | +2 to AC and defenses, counter mind control, hedge out elementals and outsiders. |
-| 2nd   | [[rangoric-srd/spells/Calm Emotions\|Calm Emotions]]                                    | Calms creatures, negating emotion effects.                                       |
-| 2nd   | [[rangoric-srd/spells/Align Weapon\|Align Weapon]] (law only)                           | Weapon becomes good, evil, lawful, or chaotic.                                   |
-| 3rd   | [[rangoric-srd/spells/Magic Circle against Chaos\|Magic Circle against Chaos]]          | As protection spells, but 10-ft. radius and 10 min./level.                       |
-| 4th   | [[rangoric-srd/spells/Order’s Wrath\|Order’s Wrath]]                                    | Damages and dazes chaotic creatures.                                             |
-| 5th   | [[rangoric-srd/spells/Dispel Chaos\|Dispel Chaos]]                                      | +4 bonus against attacks by chaotic creatures.                                   |
-| 6th   | [[rangoric-srd/spells/Hold Monster\|Hold Monster]]                                      | As hold person, but any creature.                                                |
-| 7th   | [[rangoric-srd/spells/Dictum\|Dictum]]                                                  | Kills, paralyzes, slows, or deafens nonlawful subjects.                          |
-| 8th   | [[rangoric-srd/spells/Shield of Law\|Shield of Law]] (F)                                | +4 to AC, +4 resistance, and SR 25 against chaotic spells.                       |
-| 9th   | [[rangoric-srd/spells/Summon Monster IX\|Summon Monster IX]] (cast as a law spell only) | Calls extraplanar creature to fight for you.                                     |
+| Level | Spell                                                                                      | Brief Description                                                                |
+| ----- | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
+| 1st   | [[rangoric-srd/spells/Protection from Chaos\|Protection from Chaos]]                       | +2 to AC and defenses, counter mind control, hedge out elementals and outsiders. |
+| 2nd   | [[rangoric-srd/spells/Calm Emotions\|Calm Emotions]]                                       | Calms creatures, negating emotion effects.                                       |
+| 2nd   | [[rangoric-srd/spells/Align Weapon\|Align Weapon]] (law only)                              | Weapon becomes good, evil, lawful, or chaotic.                                   |
+| 3rd   | [[rangoric-srd/spells/Magic Circle against Chaos\|Magic Circle against Chaos]]             | As protection spells, but 10-ft. radius and 10 min./level.                       |
+| 4th   | [[rangoric-srd/spells/Order’s Wrath\|Order’s Wrath]]                                       | Damages and dazes chaotic creatures.                                             |
+| 5th   | [[rangoric-srd/spells/Dispel Chaos\|Dispel Chaos]]                                         | +4 bonus against attacks by chaotic creatures.                                   |
+| 6th   | [[rangoric-srd/spells/Hold Monster\|Hold Monster]]                                         | As hold person, but any creature.                                                |
+| 7th   | [[rangoric-srd/spells/Dictum\|Dictum]]                                                     | Kills, paralyzes, slows, or deafens nonlawful subjects.                          |
+| 8th   | [[rangoric-srd/spells/Shield of Law\|Shield of Law]] (F)                                   | +4 to AC, +4 resistance, and SR 25 against chaotic spells.                       |
+| 9th   | [[rangoric-srd/spells/Summon Monster IX\|Summon Monster IX]] (cast as a lawful spell only) | Calls extraplanar creature to fight for you.                                     |

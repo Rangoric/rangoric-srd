@@ -86,7 +86,7 @@ A druid prepares and casts spells the way a cleric does, though she cannot lose 
 
 **Spontaneous Casting**: A druid can channel stored spell energy into summoning spells that she hasn’t prepared ahead of time. She can “lose” a prepared spell in order to cast any _[[rangoric-srd/spells/Summon Nature’s Ally I|summon nature’s ally]]_ spell of the same level or lower.
 
-**Chaotic, Evil, Good, and Lawful Spells**: A druid can’t cast spells of an alignment opposed to her own or her deity’s (if she has one). Spells associated with particular alignments are indicated by the chaos, evil, good, and law descriptors in their spell descriptions. ^druid-spontaneous-casting
+**Chaotic, Evil, Good, and Lawful Spells**: A druid can’t cast spells of an alignment opposed to her own or her deity’s (if she has one). Spells associated with particular alignments are indicated by the chaotic, evil, good, and lawful descriptors in their spell descriptions. ^druid-spontaneous-casting
 
 **Orisons**: Druids can prepare a number of orisons, or 0-level spells, each day, as noted on Table: The Druid under “Spells per Day.” These spells are cast like any other spell, but they are not expended when cast and may be used again. ^druid-orisons
 
