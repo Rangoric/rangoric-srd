@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
   - "Language-Dependent"
 level:
   - "Brd 4"
@@ -33,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 # Sleepwalking
 
-_Enchantment (Compulsion) \[Mind-affecting, Language-Dependent\]_
+_Enchantment (Compulsion) \[Mind-Affecting, Language-Dependent\]_
 
 - **Level**: Brd 4, Clr 4, Drd 4, Dream 5, Hun 4, Skd 4, Sor/Wiz 4
 - **Components**: V, M

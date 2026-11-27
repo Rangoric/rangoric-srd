@@ -3,7 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Necromancy"
 descriptor:
-  - "Language-dependent"
+  - "Language-Dependent"
 level:
   - "Clr 4"
   - "Med 2"
@@ -31,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 # Speak with Haunt
 
-_Necromancy \[Language-dependent\]_
+_Necromancy \[Language-Dependent\]_
 
 - **Level**: Clr 4, Med 2, Psy 4, Sha 3, Spi 4, Wit 4
 - **Components**: V, S, DF

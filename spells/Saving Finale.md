@@ -3,7 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Evocation"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Brd 1"
   - "Skd 1"
@@ -26,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 # Saving Finale
 
-_Evocation \[Mind-affecting\]_
+_Evocation \[Mind-Affecting\]_
 
 - **Level**: Brd 1, Skd 1
 - **Components**: V, S

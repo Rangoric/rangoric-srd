@@ -4,7 +4,7 @@ section: "Spells"
 school: "Illusion"
 subschool: "Pattern"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Brd 3"
   - "Psy 3"
@@ -29,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 # Wall of Nausea
 
-_Illusion (Pattern) \[Mind-affecting\]_
+_Illusion (Pattern) \[Mind-Affecting\]_
 
 - **Level**: Brd 3, Psy 3, Skd 3, Sor/Wiz 3
 - **Components**: V, S

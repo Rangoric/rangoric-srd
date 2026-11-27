@@ -5,7 +5,7 @@ school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
   - "Emotion"
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Inq 4"
 components:
@@ -28,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 # Shared Wrath
 
-_Enchantment (Compulsion) \[Emotion, Mind-affecting\]_
+_Enchantment (Compulsion) \[Emotion, Mind-Affecting\]_
 
 - **Level**: Inq 4
 - **Components**: V, S, M (a thorny vine)

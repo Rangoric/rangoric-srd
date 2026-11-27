@@ -5,7 +5,7 @@ school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
   - "Emotion"
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Brd 3"
   - "Clr 4"
@@ -34,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 # Terrible Remorse
 
-_Enchantment (Compulsion) \[Emotion, Mind-affecting\]_
+_Enchantment (Compulsion) \[Emotion, Mind-Affecting\]_
 
 - **Level**: Brd 3, Clr 4, Inq 3, Mes 3, Psy 4, Skd 3, Sor/Wiz 4, Spi 4
 - **Components**: V, S

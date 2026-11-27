@@ -2,8 +2,7 @@
 srd-type: "spell"
 section: "Spells"
 school: "Conjuration"
-descriptor:
-  - "Teleportation"
+subschool: "Teleportation"
 spellcraft-dc: "64"
 components:
   - "V"
@@ -25,7 +24,7 @@ tags: [rangoric, rangoric/spell]
 
 # Safe Time
 
-Conjuration \[Teleportation\]  
+Conjuration (Teleportation)  
 Casting DC: 64  
 Components: V, S  
 Casting Time: 1 minute  

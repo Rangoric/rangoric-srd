@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Clr 9"
   - "Occ 6"
@@ -30,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 # Symbol of Strife
 
-_Enchantment (Compulsion) \[Mind-affecting\]_
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Clr 9, Occ 6, Sor/Wiz 9, Wit 9
 - **Components**: V, S, M (mercury and phosphorous, plus powdered diamond opal worth a total of 15,000 gp)

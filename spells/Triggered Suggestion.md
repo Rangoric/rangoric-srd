@@ -4,8 +4,8 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "Language-dependent"
-  - "Mind-affecting"
+  - "Language-Dependent"
+  - "Mind-Affecting"
 level:
   - "Brd 3"
   - "Mes 3"
@@ -24,7 +24,7 @@ tags: [rangoric, rangoric/spell]
 
 # Triggered Suggestion
 
-_Enchantment (Compulsion) \[Language-dependent, Mind-affecting\]_
+_Enchantment (Compulsion) \[Language-Dependent, Mind-Affecting\]_
 
 - **Level**: Brd 3, Mes 3, Psy 4, Skd 3, Sor/Wiz 4, Wit 4
 - **Components**:

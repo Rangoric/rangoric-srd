@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Charm"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Brd 0"
   - "Mes 0"
@@ -29,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 # Unwitting Ally
 
-_Enchantment (Charm) \[Mind-affecting\]_
+_Enchantment (Charm) \[Mind-Affecting\]_
 
 - **Level**: Brd 0, Mes 0, Psy 1, Skd 0
 - **Components**: V, S

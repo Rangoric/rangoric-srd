@@ -5,7 +5,7 @@ school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
   - "Emotion"
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Brd 5"
   - "Inq 6"
@@ -31,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 # Unshakable Zeal
 
-_Enchantment (Compulsion) \[Emotion, MindAffecting\]_
+_Enchantment (Compulsion) \[Emotion, Mind-Affecting\]_
 
 - **Level**: Brd 5, Inq 6, Psy 7, Skd 5, Spi 6
 - **Components**: S, F

@@ -4,7 +4,7 @@ section: "Spells"
 school: "Illusion"
 subschool: "Phantasm"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Brd 6"
   - "Mag 6"
@@ -33,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 # Triggered Hallucination
 
-_Illusion (Phantasm) \[MindAffecting\]_
+_Illusion (Phantasm) \[Mind-Affecting\]_
 
 - **Level**: Brd 6, Mag 6, Mes 6, Occ 6, Psy 6, Skd 6, Sor/Wiz 6
 - **Components**: V, S, M (jade dust worth 25 gp)

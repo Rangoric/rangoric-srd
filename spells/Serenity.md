@@ -5,7 +5,7 @@ school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
   - "Emotion"
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Brd 4"
   - "Clr 5"
@@ -32,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 # Serenity
 
-_Enchantment (Compulsion) \[Emotion, Mind-affecting\]_
+_Enchantment (Compulsion) \[Emotion, Mind-Affecting\]_
 
 - **Level**: Brd 4, Clr 5, Mes 4, Psy 5, Skd 4, Sor/Wiz 6
 - **Components**: V, S

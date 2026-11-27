@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Pal 4"
 components:
@@ -27,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 # Stay the Hand
 
-_Enchantment (Compulsion) \[Mind-affecting\]_
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Pal 4
 - **Components**: V, S, DF

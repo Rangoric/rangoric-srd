@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Brd 2"
   - "Inq 2"
@@ -30,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 # Shamefully Overdressed
 
-_Enchantment (Compulsion) \[MindAffecting\]_
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Brd 2, Inq 2, Mes 2, Psy 3, Skd 2
 - **Components**: V, S

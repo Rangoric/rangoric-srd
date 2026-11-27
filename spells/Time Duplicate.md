@@ -2,8 +2,7 @@
 srd-type: "spell"
 section: "Spells"
 school: "Conjuration"
-descriptor:
-  - "Teleportation"
+subschool: "Teleportation"
 spellcraft-dc: "71"
 components:
   - "V"
@@ -24,7 +23,7 @@ tags: [rangoric, rangoric/spell]
 
 # Time Duplicate
 
-Conjuration \[Teleportation\]  
+Conjuration (Teleportation)  
 Casting DC: 71  
 Components: V, S  
 Casting Time: 1 free action  

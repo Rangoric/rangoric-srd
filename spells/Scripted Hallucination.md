@@ -4,7 +4,7 @@ section: "Spells"
 school: "Illusion"
 subschool: "Phantasm"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Brd 5"
   - "Mag 5"
@@ -32,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 # Scripted Hallucination
 
-_Illusion (Phantasm) \[MindAffecting\]_
+_Illusion (Phantasm) \[Mind-Affecting\]_
 
 - **Level**: Brd 5, Mag 5, Med 4, Mes 5, Occ 5, Psy 5, Skd 5, Sor/Wiz 5
 - **Components**: S

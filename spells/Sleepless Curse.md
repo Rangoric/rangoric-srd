@@ -4,7 +4,7 @@ section: "Spells"
 school: "Illusion"
 subschool: "Phantasm"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Brd 5"
   - "Clr 5"
@@ -33,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 # Sleepless Curse
 
-_Illusion (Phantasm) \[Mind-affecting\]_
+_Illusion (Phantasm) \[Mind-Affecting\]_
 
 - **Level**: Brd 5, Clr 5, Drd 5, Dream 6, Hun 5, Skd 5, Sor/Wiz 5
 - **Components**: V, S, M

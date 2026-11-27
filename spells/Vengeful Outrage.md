@@ -5,8 +5,8 @@ school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
   - "Emotion"
-  - "Language-dependent"
-  - "Mind-affecting"
+  - "Language-Dependent"
+  - "Mind-Affecting"
 level:
   - "Brd 5"
   - "Mes 5"
@@ -33,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 # Vengeful Outrage
 
-_Enchantment (Compulsion) \[Emotion, Language-dependent, Mind-affecting\]_
+_Enchantment (Compulsion) \[Emotion, Language-Dependent, Mind-Affecting\]_
 
 - **Level**: Brd 5, Mes 5, Psy 6, Skd 5, Sor/Wiz 6, Wit 6
 - **Components**: V, S
