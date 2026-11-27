@@ -24,6 +24,6 @@ _Ability Damage_: This attack damages an opponent’s ability score. The creatur
 
 _Ability Drain_: This effect permanently reduces a living opponent’s ability score when the creature hits with a melee attack. The creature’s descriptive text gives the ability and the amount drained. If an attack that causes ability drain scores a critical hit, it drains twice the indicated amount (if the damage is expressed as a die range, roll two dice). Unless otherwise specified in the creature’s description, a draining creature gains 5 temporary hit points (10 on a critical hit) whenever it drains an ability score no matter how many points it drains. Temporary hit points gained in this fashion last for a maximum of 1 hour.
 
-Some ability drain attacks allow a Fortitude save (DC 10 + 1/2 draining creature’s racial HD + draining creature’s Cha modifier; the exact DC is given in the creature’s descriptive text). If no saving throw is mentioned, none is allowed.
+Some ability drain attacks attack Fortitude (attack bonus 1/2 draining creature’s racial HD + draining creature’s Cha modifier; the exact bonus is given in the creature’s descriptive text). If no attack against a defense is mentioned, the drain hits automatically.
 
 Also see [[rangoric-srd/rules/Special Abilities and Conditions#Ability Score Loss|Ability Score Loss]] under Special Abilities.

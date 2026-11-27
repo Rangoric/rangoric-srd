@@ -24,5 +24,5 @@ A poison; how afflictions work, and what each line means, is in [[rangoric-srd/r
 - **Type**: poison, injury
 - **Attack**: +10 vs Fortitude
 - **Frequency**: 1/round for 6 rounds
-- **Effect**: paralysis for 1d4 rounds plus 1d2 Constitution damage (the duration of the paralysis is cumulative with each failed save)
+- **Effect**: paralysis for 1d4 rounds plus 1d2 Constitution damage (the duration of the paralysis is cumulative with each hit)
 - **Cure**: 2 consecutive misses

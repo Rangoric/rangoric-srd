@@ -33,7 +33,7 @@ Psychokinesis
 **Power Resistance:** No  
 **Power Points:** 5
 
-You radiate a psychokinetic burst that disrupts and negates all types of invisibility (though this power can’t negate the effect of cloud mind). Any creature that fails its save to avoid the effect loses its invisibility.
+You radiate a psychokinetic burst that disrupts and negates all types of invisibility (though this power can’t negate the effect of cloud mind). Any creature the power hits loses its invisibility.
 
 Creatures that are naturally [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]], such as an [[rangoric-srd/monsters/Invisible Stalker|invisible stalker]], are revealed as a dim outline for 1 round (until the beginning of your next turn) and do not have total concealment during this period.
 

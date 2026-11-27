@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/affliction]
 
 # Death's Head Jellyfish Venom
 
-A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the [[rangoric-srd/monsters/jellyfish/Death's Head Jellyfish|death's head jellyfish]]'s tentacle. A creature that fails two consecutive saves has its jaw locked, its tongue swollen and its lips pulled back, making speech impossible until the Charisma damage is healed.
+A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the [[rangoric-srd/monsters/jellyfish/Death's Head Jellyfish|death's head jellyfish]]'s tentacle. A creature the venom hits twice in a row has its jaw locked, its tongue swollen and its lips pulled back, making speech impossible until the Charisma damage is healed.
 
 - **Type**: poison, injury
 - **Attack**: +4 vs Fortitude

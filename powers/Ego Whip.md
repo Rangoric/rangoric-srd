@@ -35,6 +35,6 @@ Defense: Will half; see text
 Power Resistance: Yes  
 Power Points: 3
 
-Your rapid mental lashings assault the ego of your enemy, debilitating its confidence. The target takes 1d4 points of Charisma [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]], or half that amount (minimum 1 point) on a miss. A target that fails its save is also [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|dazed]] for 1 round.
+Your rapid mental lashings assault the ego of your enemy, debilitating its confidence. The target takes 1d4 points of Charisma [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]], or half that amount (minimum 1 point) on a miss. A target the power hits is also [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|dazed]] for 1 round.
 
 Augment: For every 4 additional power points you spend, this power’s Charisma damage increases by 1d4 points and its attack bonus increases by 2.

@@ -132,7 +132,7 @@ The fey realm is endlessly fascinating to mortal visitors, and it all seems wond
 
 **Game effect:** A _fey path_ is laid before the visitor in such a way as to coax that visitor to follow it. Sometimes the path will manifest as a well-worn trail through the wilderness, or a path paved with gold bricks. Other times, it may be a faint trace of someone’s passing requiring tracking skills to decipher the broken twigs and disturbed plant growth before revealing the destination. The form of the path is up to the GM, but it should never be so subtle as to interfere with game-play when the player characters can’t find their path or paths.
 
-If characters stray from the path, the region attacks each one’s Will, with an attack bonus of its DC − 10 (for a site, its second DC; see the fey realm’s [[rangoric-srd/flavor/the-fey-realm/The Fey Realm#Places of Faerie|places]]). On a failed save, that character’s path disappears and he is forcibly moved across the fey realm to a [[rangoric-srd/rules/Fey Roads and Doorways#^fey-distances|Distant]] location in a randomly determined direction. On a miss, he remains in the region unmoved, but his path still disappears.
+If characters stray from the path, the region attacks each one’s Will, with an attack bonus of its DC − 10 (for a site, its second DC; see the fey realm’s [[rangoric-srd/flavor/the-fey-realm/The Fey Realm#Places of Faerie|places]]). On a hit, that character’s path disappears and he is forcibly moved across the fey realm to a [[rangoric-srd/rules/Fey Roads and Doorways#^fey-distances|Distant]] location in a randomly determined direction. On a miss, he remains in the region unmoved, but his path still disappears.
 
 ## Travel Within the Fey Realm
 

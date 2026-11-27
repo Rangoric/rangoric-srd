@@ -35,6 +35,6 @@ Defense: Will
 Power Resistance: Yes  
 Power Points: 1
 
-You fill your enemies with self-doubt. Any enemy in the area that fails its save becomes [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for the duration of the power. Allies and creatures without an Intelligence score are unaffected.
+You fill your enemies with self-doubt. Any enemy in the area the power hits becomes [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for the duration of the power. Allies and creatures without an Intelligence score are unaffected.
 
 Augment: For every 2 additional power points you spend, this power’s range and the radius of its area both increase by 5 feet, and the power’s attack bonus increases by 1.

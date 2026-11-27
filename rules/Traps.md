@@ -250,7 +250,7 @@ Rangers set traps of their own, improvised on the spot and without a CR: the [[r
 
 **Javelin Trap**: CR 2; mechanical; location trigger; manual reset; Atk +16 ranged (1d6+4, javelin); Investigation DC 20; Engineering DC 18. Market Price: 4,800 gp.
 
-**Large Net Trap**: CR 2; mechanical; location trigger; manual reset; Atk +5 melee (see note); Investigation DC 20; Engineering DC 25. Note: Characters in 10-ft. square are grappled by net (Str 18) if they fail their save against +4 vs Reflex. Market Price: 3,000 gp.
+**Large Net Trap**: CR 2; mechanical; location trigger; manual reset; Atk +5 melee (see note); Investigation DC 20; Engineering DC 25. Note: Characters in 10-ft. square are grappled by net (Str 18) if it hits them at +4 vs Reflex. Market Price: 3,000 gp.
 
 **Pit Trap**: CR 2; mechanical, location trigger; manual reset; Atk +10 vs Reflex; 40 ft. deep (4d6, fall); Investigation DC 20; Engineering DC 20. Market Price: 2,000 gp.
 
