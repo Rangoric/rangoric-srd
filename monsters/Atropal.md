@@ -18,7 +18,7 @@ attack: "Touch +49 (2d6 Con drain/19-20) melee touch"
 full-attack: "2 touches +49 (2d6 Con drain/19-20) melee touch, eye ray +30 (negative level damage/19-20) ranged touch"
 space-reach: "10 ft/10 ft."
 special-attacks: "Constitution drain, energy drain (2d4 negative levels, +49 vs Fortitude), spell-like abilities, summon nightcrawler"
-special-qualities: "Abomination traits, undead traits, rebuke/command undead, regeneration 20, SR 42, DR 15/good and epic and silver, negative energy aura"
+special-qualities: "Abomination traits, undead traits, rebuke/command undead, regeneration 20 (good weapons, living weapons), SR 42, DR 15/good and epic and silver, negative energy aura"
 defenses: "Fort 32, Ref 36, Will 53"
 abilities: "Str 43, Dex 15, Con -, Int 28, Wis 22, Cha 42"
 skills: "Athletics +85 (+67 jumping), Deception +85, Intimidation +89, Arcana +78, Mysticism +84, Society +78, Theology +82, Perception +81, Persuasion +93, Investigation +78, Sense Motive +75, Stealth +67"
@@ -52,7 +52,7 @@ Attack:  Touch +49 (2d6 Con drain/19-20) melee touch 
 Full Attack:  2 touches +49 (2d6 Con drain/19-20) melee touch, eye ray +30 (negative level damage/19-20) ranged touch     
 Space/Reach:  10 ft/10 ft.     
 Special Attacks:  Constitution [[rangoric-srd/monsters/abilities/Ability Damage and Drain|drain]], [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] (2d4 negative levels, +49 vs Fortitude), spell-like abilities, summon [[rangoric-srd/monsters/nightshade/Nightcrawler|nightcrawler]]     
-Special Qualities: Abomination traits, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]], [[rangoric-srd/combat/Combat Special Attacks#Turn or Rebuke Undead|rebuke/command undead]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 20, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 42, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 15/good and epic and silver, negative energy aura     
+Special Qualities: Abomination traits, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]], [[rangoric-srd/combat/Combat Special Attacks#Turn or Rebuke Undead|rebuke/command undead]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 20 (good weapons, living weapons), [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 42, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 15/good and epic and silver, negative energy aura     
 Defenses: Fort 32, Ref 36, Will 53     
 Abilities:  Str 43, Dex 15, Con -, Int 28, Wis 22, Cha 42     
 Skills:  [[rangoric-srd/skills/Arcana|Arcana]] +78, [[rangoric-srd/skills/Athletics|Athletics]] +85 (+67 jumping), [[rangoric-srd/skills/Deception|Deception]] +85, [[rangoric-srd/skills/Intimidation|Intimidation]] +89, [[rangoric-srd/skills/Investigation|Investigation]] +78, [[rangoric-srd/skills/Mysticism|Mysticism]] +84, [[rangoric-srd/skills/Perception|Perception]] +81, [[rangoric-srd/skills/Persuasion|Persuasion]] +93, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +75, [[rangoric-srd/skills/Society|Society]] +78, [[rangoric-srd/skills/Stealth|Stealth]] +67, [[rangoric-srd/skills/Theology|Theology]] +82    
@@ -84,7 +84,7 @@ Constitution Drain (Su): When the atropal hits a living opponent with a touch at
 
 Energy Drain (Su): When the atropal hits with a ranged touch attack (a ray of darkness that it shoots from one eye to a range of 400 feet), the resultant [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]] bestows four [[rangoric-srd/rules/Special Abilities and Conditions#Energy Drain and Negative Levels|negative levels]], or eight negative levels on a critical hit. For each negative level bestowed on an opponent, the atropal heals 10 points of damage, or 20 on a critical hit, gaining any excess as temporary hit points. These temporary hit points last a maximum of 1 hour. After 24 hours have passed, the drain attacks the afflicted opponent's Fortitude at +49 for each negative level. On a miss, the negative level goes away with no harm to the creature; on a hit, the creature’s level decreases by one. The attack bonus is Charisma-based.
 
-Regeneration (Ex): Atropals take normal damage from good weapons or sentient weapons (or otherwise living weapons).
+Regeneration (Ex): Good weapons and sentient (or otherwise living) weapons cause an atropal’s regeneration to stop functioning for 1 round.
 
 Summon Nightcrawler (Sp): Five times per day an atropal can summon a [[rangoric-srd/monsters/nightshade/Nightcrawler|nightcrawler]].
 

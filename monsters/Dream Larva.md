@@ -18,7 +18,7 @@ attack: "Bite +56 (4d8+16)melee"
 full-attack: "Bite +56 (4d8+16) melee, 1 gore +51 (4d6+8) melee, 4 pincers +53 (4d6+8) melee, 4 claws +53 (4d6+8) melee"
 space-reach: "10 ft./10 ft."
 special-attacks: "Worst nightmare, improved grab, sending, spell-like abilities, summon nightwalker"
-special-qualities: "Abomination traits, sonic immunity, regeneration 15, fast healing 15, SR 44, DR 15/ Good and Epic or Lawful and Epic"
+special-qualities: "Abomination traits, sonic immunity, regeneration 15 (good weapons, lawful weapons, sleepwalker-forged weapons), fast healing 15, SR 44, DR 15/ Good and Epic or Lawful and Epic"
 defenses: "Fort 41, Ref 35, Will 39"
 abilities: "Str 42, Dex 17, Con 29, Int 16, Wis 24, Cha 36"
 skills: "Athletics +59 (+79 jumping), Craft (dreamweaving) +46, Escape Artist +46, Arcana +46, Perception +50, Persuasion +58, Investigation +46, Sense Motive +50, Stealth +46"
@@ -52,7 +52,7 @@ Attack: Bite +56 (4d8+16)melee   
 Full Attack: Bite +56 (4d8+16) melee, 1 gore +51 (4d6+8) melee, 4 pincers +53 (4d6+8) melee, 4 claws +53 (4d6+8) melee     
 Space/Reach: 10 ft./10 ft.      
 Special Attacks: Worst nightmare, [[rangoric-srd/monsters/abilities/Grab|improved grab]], sending, spell-like abilities, summon [[rangoric-srd/monsters/nightshade/Nightwalker|nightwalker]]     
-Special Qualities: Abomination traits, sonic immunity, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 15, [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 15, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 44, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 15/ Good and Epic or Lawful and Epic      
+Special Qualities: Abomination traits, sonic immunity, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 15 (good weapons, lawful weapons, sleepwalker-forged weapons), [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 15, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 44, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 15/ Good and Epic or Lawful and Epic      
 Defenses: Fort 41, Ref 35, Will 39      
 Abilities: Str 42, Dex 17, Con 29, Int 16, Wis 24, Cha 36      
 Skills: [[rangoric-srd/skills/Arcana|Arcana]] +46, [[rangoric-srd/skills/Athletics|Athletics]] +59 (+79 jumping), [[rangoric-srd/skills/Craft|Craft]] (dreamweaving) +46, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +46, [[rangoric-srd/skills/Investigation|Investigation]] +46, [[rangoric-srd/skills/Perception|Perception]] +50, [[rangoric-srd/skills/Persuasion|Persuasion]] +58, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +50, [[rangoric-srd/skills/Stealth|Stealth]] +46     
@@ -86,4 +86,4 @@ Summon Nightwalker (Sp): Five times per day, a dream larva can summon a [[rangor
 
 Abomination Traits: Immune to polymorphing, [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|petrification]], and other form-altering attacks; not subject to [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]], ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]], or ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]], or death from massive damage; immune to mind-affecting effects; [[rangoric-srd/monsters/abilities/Resistance|fire resistance]] 20; [[rangoric-srd/monsters/abilities/Resistance|cold resistance]] 20; [[rangoric-srd/spells/Nondetection|nondetection]]; [[rangoric-srd/spells/True Seeing|true seeing]] at will; [[rangoric-srd/monsters/abilities/Blindsight|blindsight]] 500 ft.; telepathy out to 1,000 ft.
 
-Regeneration (Ex): Dream larvae take normal damage from good or lawful weapons or weapons forged by a sleepwalking weaponsmith.
+Regeneration (Ex): Good or lawful weapons, and weapons forged by a sleepwalking weaponsmith, cause a dream larva’s regeneration to stop functioning for 1 round.

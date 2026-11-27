@@ -19,7 +19,7 @@ attack: "Incorporeal touch +43 (1d6 plus stasis touch) melee"
 full-attack: "Incorporeal touch +43 (1d6 plus stasis touch) melee"
 space-reach: "10 ft./10 ft."
 special-attacks: "Spell-like abilities, stasis touch, chronal blast, time leach, summon past time duplicate"
-special-qualities: "Abomination traits, null time field, time regression, fast healing 15, regeneration 15, SR 37, DR 15/epic, sonic immunity"
+special-qualities: "Abomination traits, null time field, time regression, fast healing 15, regeneration 15 (holy or good weapons, weapons forged out of time), SR 37, DR 15/epic, sonic immunity"
 defenses: "Fort 41, Ref 39, Will 39"
 abilities: "Str -, Dex 25, Con 28, Int 24, Wis 16, Cha 33"
 skills: "Acrobatics +46, Athletics +39 (+59 jumping), Arcana +46, Mysticism +46, Theology +46, Perception +48, Persuasion +50, Investigation +46, Sense Motive +42, Stealth +42"
@@ -53,7 +53,7 @@ Attack: Incorporeal touch +43 (1d6 plus stasis touch) melee   
 Full Attack: Incorporeal touch +43 (1d6 plus stasis touch) melee     
 Space/Reach: 10 ft./10 ft.      
 Special Attacks: Spell-like abilities, stasis touch, chronal blast, time leach, summon past time duplicate      
-Special Qualities: Abomination traits, null time field, time regression, [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 15, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 15, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 37, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 15/epic, sonic immunity      
+Special Qualities: Abomination traits, null time field, time regression, [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 15, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 15 (holy or good weapons, weapons forged out of time), [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 37, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 15/epic, sonic immunity      
 Defenses: Fort 41, Ref 39, Will 39      
 Abilities: Str -, Dex 25, Con 28, Int 24, Wis 16, Cha 33      
 Skills: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +46, [[rangoric-srd/skills/Arcana|Arcana]] +46, [[rangoric-srd/skills/Athletics|Athletics]] +39 (+59 jumping), [[rangoric-srd/skills/Investigation|Investigation]] +46, [[rangoric-srd/skills/Mysticism|Mysticism]] +46, [[rangoric-srd/skills/Perception|Perception]] +48, [[rangoric-srd/skills/Persuasion|Persuasion]] +50, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +42, [[rangoric-srd/skills/Stealth|Stealth]] +42, [[rangoric-srd/skills/Theology|Theology]] +46     
@@ -95,4 +95,4 @@ Null Time Field (Ex): Phanes continually generate a 30-foot-radius spread null t
 
 Time Regression (Su): If the phane spends an action per round for four rounds, at the end of the 4th round the phane regresses back in time 4 rounds, to the very 1st round it originally began concentrating on time regression. On its second pass through the time stream, it can take completely different actions, based on its knowledge of the future (though if it takes different actions from its first pass through the time stream, the events of the original time stream are also changed).
 
-Regeneration (Ex): Phanes take normal damage from holy and good weapons, and from weapons forged in the future or an alternate reality’s time stream (if any).
+Regeneration (Ex): Holy and good weapons, and weapons forged in the future or an alternate reality’s time stream (if any), cause a phane’s regeneration to stop functioning for 1 round.

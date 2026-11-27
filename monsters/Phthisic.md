@@ -16,7 +16,7 @@ attack: "Claw +11 melee (1d6+6)"
 full-attack: "2 claws +11 melee (1d6+6) and bite +6 melee (1d6+3 plus mind feed)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Mind feed, psi-like abilities"
-special-qualities: "Damage reduction 10/magic, darkvision 60 ft., regeneration 5, resistance to cold 10, scent"
+special-qualities: "Damage reduction 10/magic, darkvision 60 ft., regeneration 5 (acid or fire), resistance to cold 10, scent"
 defenses: "Fort 19, Ref 16, Will 18"
 abilities: "Str 23, Dex 12, Con 21, Int 10, Wis 16, Cha 16"
 skills: "Perception +15, Stealth +6"
@@ -49,7 +49,7 @@ Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^mo
 Full **Attack:** 2 claws +11 melee (1d6+6) and bite +6 melee (1d6+3 plus mind feed)     
 **Space/Reach:** 10 ft./10 ft.     
 **Special Attacks:** Mind feed, psi-like abilities     
-**Special Qualities:** [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 10/magic, darkvision 60 ft., [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5, [[rangoric-srd/monsters/abilities/Resistance|resistance to cold]] 10, [[rangoric-srd/monsters/abilities/Scent|scent]]     
+**Special Qualities:** [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 10/magic, darkvision 60 ft., [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (acid or fire), [[rangoric-srd/monsters/abilities/Resistance|resistance to cold]] 10, [[rangoric-srd/monsters/abilities/Scent|scent]]     
 **Defenses:** Fort 19, Ref 16, Will 18     
 **Abilities:** Str 23, Dex 12, Con 21, Int 10, Wis 16, Cha 16     
 **Skills:** [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +6     
@@ -74,4 +74,4 @@ Psi-Like **Abilities:** 3/day - [[rangoric-srd/powers/Brain Lock|brain lock]] (a
 
 \*Includes augmentation for the phthisic’s manifester level.
 
-Regeneration (Ex): Fire and acid deal normal damage to a phthisic.
+Regeneration (Ex): Fire and acid cause a phthisic’s regeneration to stop functioning for 1 round.

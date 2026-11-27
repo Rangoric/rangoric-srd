@@ -23,6 +23,9 @@
   Note rules but rules/Saving Throws.md and unearthed-arcana/ says "save DC", "DC 15 Reflex save", "Reflex DC 15",
   "Reflex save for half" or "makes a saving throw" (SAVE_WORDING), outside code and comments. Base save progressions
   ("good Fortitude saves") and a creature's own "Reflex check (1d20 + Reflex save bonus)" don't match.
+- Regeneration: every creature with regeneration names what stops it (Regeneration Pass, 2026-11-27), so a note in
+  monsters/ but monsters/abilities/ has no "regeneration N" without a parenthesis after it ("regeneration 5 (acid or
+  fire)"), in its frontmatter (but based-on) or its text outside code and comments (REGEN_UNNAMED).
 - Tables of sources: SRD notes don't carry them (SRD Content Rules, "The SRD's text"; No Source Tables, 2026-11-27),
   so no note but legal/, the Changelog and Rangoric SRD has a table whose header has a cell that is exactly Source,
   Sources, Publisher, Source book or Book source (any case, emphasis ignored; SOURCE_HEADERS), outside code.
@@ -411,6 +414,21 @@ def old_grapple(data, body):
     return [GRAPPLE_PROBLEM] if OLD_GRAPPLE.search(text) or 'base-attack-grapple' in data else []
 
 
+REGEN_UNNAMED = re.compile(r'\bregeneration\s+\d+\b(?!\s*\()', re.I)
+LINK_TEXT = re.compile(r'\[\[[^\]|]*\|([^\]]*)\]\]|\[\[([^\]]*)\]\]')
+
+
+def regeneration_unnamed(rel, data, body):
+    """A "regeneration N" that doesn't name what stops it (Regeneration Pass): monsters/ but monsters/abilities/,
+    where the Regeneration note itself and its kin speak of regeneration in general."""
+    if not rel.startswith('monsters/') or rel.startswith('monsters/abilities/'):
+        return []
+    fm = '\n'.join(str(v) for k, v in data.items() if k != 'based-on')
+    text = re.sub(r'<!--.*?-->', '', strip_code(body), flags=re.S)
+    text = LINK_TEXT.sub(lambda m: m.group(1) if m.group(1) is not None else m.group(2).split('/')[-1], fm + '\n' + text)
+    return [f'regeneration names nothing: {m.group(0)}' for m in REGEN_UNNAMED.finditer(text)]
+
+
 def rule_problems(rel, data, body):
     """The note's problems against the written rules, in the checker's words (also its sweep-issues lines)."""
     if exempt(rel):
@@ -418,6 +436,7 @@ def rule_problems(rel, data, body):
     out = source_tables(rel, body) + save_wording(rel, body) + old_grapple(data, body)
     folder = folder_rules(rel)
     data = {k: v for k, v in data.items() if k not in ('sweep', 'sweep-issues')}
+    out += regeneration_unnamed(rel, data, body)
     if 'all' in README_RULES:
         apply_table(README_RULES['all']['keys'], data, out)
     if 'all' in folder:

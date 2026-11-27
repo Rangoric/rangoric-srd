@@ -16,7 +16,7 @@ attack: "Tentacle rake +35 (2d8+17) melee"
 full-attack: "5 tentacle rakes +35 (2d8+17) melee"
 space-reach: "10 ft./10 ft."
 special-attacks: "Constant insight, improved grab, rend 4d8+25, rotting constriction"
-special-qualities: "DR 5/epic, SR 30, acid and electricity resistance 20, regeneration 5, scent, spell-like abilities, darkvision 90 ft."
+special-qualities: "DR 5/epic, SR 30, acid and electricity resistance 20, regeneration 5 (acid or fire), scent, spell-like abilities, darkvision 90 ft."
 defenses: "Fort 26, Ref 19, Will 18"
 abilities: "Str 45, Dex 24, Con 33, Int 6, Wis 19, Cha 6"
 skills: "Athletics +26 (+38 jumping), Perception +16, Stealth +16"
@@ -49,7 +49,7 @@ Attack: Tentacle rake +35 (2d8+17) melee   
 Full Attack: 5 tentacle rakes +35 (2d8+17) melee     
 Space/Reach: 10 ft./10 ft.      
 Special Attacks: Constant insight, [[rangoric-srd/monsters/abilities/Grab|improved grab]], rend 4d8+25, rotting constriction      
-Special Qualities: [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 5/epic, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 30, [[rangoric-srd/monsters/abilities/Resistance|acid and electricity resistance]] 20, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5, [[rangoric-srd/monsters/abilities/Scent|scent]], spell-like abilities, darkvision 90 ft.      
+Special Qualities: [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 5/epic, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 30, [[rangoric-srd/monsters/abilities/Resistance|acid and electricity resistance]] 20, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (acid or fire), [[rangoric-srd/monsters/abilities/Scent|scent]], spell-like abilities, darkvision 90 ft.      
 Defenses: Fort 26, Ref 19, Will 18      
 Abilities: Str 45, Dex 24, Con 33, Int 6, Wis 19, Cha 6      
 Skills: [[rangoric-srd/skills/Athletics|Athletics]] +26 (+38 jumping), [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +16     
@@ -76,7 +76,7 @@ Rend (Ex): If a pseudotroll hits with two or more tentacle rake attacks, it latc
 
 Rotting Constriction (Ex): Once a pseudotroll has hold of an opponent, each successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check it makes during subsequent rounds automatically [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drains]] 2d4 points of Constitution. At the same time, the pseudotroll regains 10 lost hit points.
 
-Regeneration (Ex): Fire and acid deal normal Damage to a pseudotroll. If a pseudotroll loses a tentacle or body part, the lost portion regrows in 1 minute. The creature can reattach the severed member instantly by holding it to the stump.
+Regeneration (Ex): Fire and acid cause a pseudotroll’s regeneration to stop functioning for 1 round. If a pseudotroll loses a tentacle or body part, the lost portion regrows in 1 minute. The creature can reattach the severed member instantly by holding it to the stump.
 
 Spell-Like Abilities: Caster level 20th; attack bonus −2 + spell level. The attack bonus is Charisma-based.
 

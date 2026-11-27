@@ -18,7 +18,7 @@ attack: "Greatsword +73 (2d6+20/17-20) melee; or boulder +55 (2d8+20/19-20) rang
 full-attack: "100 greatswords +73 (2d6+20/17-20) melee; or 100 boulders +55 (2d8+20/19-20) ranged"
 space-reach: "15 ft./15 ft."
 special-attacks: "Superior multiweapon fighting, spell-like abilities, summon hecatoncheires"
-special-qualities: "Abomination traits, electricity immunity, regeneration 40, fast healing 50, SR 70, DR 20/Good and Epic and Cold Iron"
+special-qualities: "Abomination traits, electricity immunity, regeneration 40 (good weapons, deity-tempered weapons), fast healing 50, SR 70, DR 20/Good and Epic and Cold Iron"
 defenses: "Fort 49, Ref 40, Will 37"
 abilities: "Str 50, Dex 15, Con 32, Int 10, Wis 8, Cha 24"
 skills: "Athletics +75 (+103 jumping), Fieldcraft +54, Intimidation +62, Society +55, Perception +104, Persuasion +62, Investigation +105, Sense Motive +54, Stealth –12"
@@ -52,7 +52,7 @@ Attack: Greatsword +73 (2d6+20/17-20) melee; or boulder +55 (2d8+20/19-20) range
 Full Attack: 100 greatswords +73 (2d6+20/17-20) melee; or 100 boulders +55 (2d8+20/19-20) ranged     
 Space/Reach: 15 ft./15 ft.      
 Special Attacks: Superior multiweapon fighting, spell-like abilities, summon hecatoncheires      
-Special Qualities: Abomination traits, electricity immunity, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 40, [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 50, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 70, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 20/Good and Epic and Cold Iron      
+Special Qualities: Abomination traits, electricity immunity, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 40 (good weapons, deity-tempered weapons), [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 50, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 70, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 20/Good and Epic and Cold Iron      
 Defenses: Fort 49, Ref 40, Will 37      
 Abilities: Str 50, Dex 15, Con 32, Int 10, Wis 8, Cha 24      
 Skills: [[rangoric-srd/skills/Athletics|Athletics]] +75 (+103 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +54, [[rangoric-srd/skills/Intimidation|Intimidation]] +62, [[rangoric-srd/skills/Investigation|Investigation]] +105, [[rangoric-srd/skills/Perception|Perception]] +104, [[rangoric-srd/skills/Persuasion|Persuasion]] +62, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +54, [[rangoric-srd/skills/Society|Society]] +55, [[rangoric-srd/skills/Stealth|Stealth]] –12     
@@ -81,4 +81,4 @@ Summon Hecatoncheires (Sp): A hecatoncheires can summon one other hecatoncheires
 
 Abomination Traits: Immune to polymorphing, [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|petrification]], and other form-altering attacks; not subject to [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]], ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]], or ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]], or death from massive damage; immune to mind-affecting effects; [[rangoric-srd/monsters/abilities/Resistance|fire resistance]] 20; [[rangoric-srd/monsters/abilities/Resistance|cold resistance]] 20; [[rangoric-srd/spells/Nondetection|nondetection]]; [[rangoric-srd/spells/True Seeing|true seeing]] at will; [[rangoric-srd/monsters/abilities/Blindsight|blindsight]] 500 ft.; telepathy out to 1,000 ft.
 
-Regeneration (Ex): Hecatoncheires take normal damage from good weapons or weapons tempered with the blood of a deity.
+Regeneration (Ex): Good weapons and weapons tempered with the blood of a deity cause a hecatoncheires’ regeneration to stop functioning for 1 round.

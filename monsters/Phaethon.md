@@ -18,7 +18,7 @@ attack: "pseudopod slam +85 (4d8+24 plus fire damage) melee"
 full-attack: "8 pseudopod slams +85 (4d8+24 plus fire damage) melee"
 space-reach: "20 ft./10 ft."
 special-attacks: "Fiery touch, fiery overrun, spell-like abilities, improved grab, swallow whole, summon elder fire elemental"
-special-qualities: "Abomination traits, immunity to fire, vulnerability to cold, oozelike immunities, regeneration 25, fast healing 25, SR 46, DR 15/epic lawful and epic"
+special-qualities: "Abomination traits, immunity to fire, vulnerability to cold, oozelike immunities, regeneration 25 (lawful weapons, cold-forged weapons), fast healing 25, SR 46, DR 15/epic lawful and epic"
 defenses: "Fort 58, Ref 52, Will 53"
 abilities: "Str 58, Dex 25, Con 36, Int 8, Wis 18, Cha 39"
 skills: "Athletics +89 (+125 jumping), Craft (metalworking, stoneworking) +64, Society +64, Perception +75, Investigation +64, Stealth +60"
@@ -52,7 +52,7 @@ Attack: pseudopod slam +85 (4d8+24 plus fire damage) melee   
 Full Attack: 8 pseudopod slams +85 (4d8+24 plus fire damage) melee      
 Space/Reach: 20 ft./10 ft.      
 Special Attacks: Fiery touch, fiery overrun, spell-like abilities, [[rangoric-srd/monsters/abilities/Grab|improved grab]], [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]], summon [[rangoric-srd/monsters/elemental/Fire Elemental|elder fire elemental]]      
-Special Qualities: Abomination traits, immunity to fire, [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to cold]], oozelike immunities, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 25, [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 25, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 46, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 15/epic lawful and epic      
+Special Qualities: Abomination traits, immunity to fire, [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to cold]], oozelike immunities, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 25 (lawful weapons, cold-forged weapons), [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 25, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 46, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 15/epic lawful and epic      
 Defenses: Fort 58, Ref 52, Will 53      
 Abilities: Str 58, Dex 25, Con 36, Int 8, Wis 18, Cha 39      
 Skills: [[rangoric-srd/skills/Athletics|Athletics]] +89 (+125 jumping), [[rangoric-srd/skills/Craft|Craft]] (metalworking, stoneworking) +64, [[rangoric-srd/skills/Investigation|Investigation]] +64, [[rangoric-srd/skills/Perception|Perception]] +75, [[rangoric-srd/skills/Society|Society]] +64, [[rangoric-srd/skills/Stealth|Stealth]] +60     
@@ -90,4 +90,4 @@ Abomination Traits: Immune to polymorphing, [[rangoric-srd/rules/Special Abiliti
 
 Oozelike Immunities (Ex): Immune to [[rangoric-srd/rules/Afflictions#Poison|poison]], sleep, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunning]], polymorphing, and mind-influencing effects; not subject to critical hits or flanking; [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blind]].
 
-Regeneration (Ex): Phaethons take normal damage from lawful weapons and cold-forged weapons, and double damage from cold or ice weapons.
+Regeneration (Ex): Lawful weapons and cold-forged weapons cause a phaethon’s regeneration to stop functioning for 1 round. Phaethons take double damage from cold or ice weapons.

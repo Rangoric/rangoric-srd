@@ -14,7 +14,7 @@ attack: "+58 claw (4d6+16) melee"
 full-attack: "2 claws +58 (4d6+16) melee, 1 bite +52 (4d8+8 +spell suck) melee, 2 wings +50 (2d6+8) melee, 1 tail slam +50 (4d8+8) melee"
 space-reach: "10ft./10 ft."
 special-attacks: "Improved grab, spell suck, learned spell immunity, spell-like abilities, summon fiend"
-special-qualities: "Abomination traits, fast healing 15, regeneration 15, SR 38, DR 35/+7"
+special-qualities: "Abomination traits, fast healing 15, regeneration 15 (good weapons; chaotic weapons if lawful, lawful weapons if chaotic), SR 38, DR 35/+7"
 skills: "Acrobatics +50, Athletics +59 (+79 jumping), Escape Artist +50, Arcana +49, Mysticism +49, Theology +49, Perception +57, Persuasion +52, Investigation +49, Sense Motive +51, Stealth +46"
 skill-ranks: "Acrobatics 40, Arcana 40, Athletics 40, Escape Artist 40, Investigation 40, Mysticism 40, Perception 40, Persuasion 40, Sense Motive 40, Stealth 40, Theology 40"
 feats: "Cleave, Great Cleave, Improved Initiative, Power Attack, Improved Sunder, Skill Focus (Perception), Weapon Focus (claw)"
@@ -48,7 +48,7 @@ Attack: +58 claw (4d6+16) melee   
 Full Attack: 2 claws +58 (4d6+16) melee, 1 bite +52 (4d8+8 +spell suck) melee, 2 wings +50 (2d6+8) melee, 1 tail slam +50 (4d8+8) melee     
 Space/Reach: 10ft./10 ft.      
 Special Attacks: [[rangoric-srd/monsters/abilities/Grab|Improved grab]], spell suck, learned spell immunity, spell-like abilities, summon fiend      
-Special Qualities: Abomination traits, [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 15, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 15, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 38, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 35/+7      
+Special Qualities: Abomination traits, [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 15, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 15 (good weapons; chaotic weapons if lawful, lawful weapons if chaotic), [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 38, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 35/+7      
 Skills: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +50, [[rangoric-srd/skills/Arcana|Arcana]] +49, [[rangoric-srd/skills/Athletics|Athletics]] +59 (+79 jumping), [[rangoric-srd/skills/Escape Artist|Escape Artist]] +50, [[rangoric-srd/skills/Investigation|Investigation]] +49, [[rangoric-srd/skills/Mysticism|Mysticism]] +49, [[rangoric-srd/skills/Perception|Perception]] +57, [[rangoric-srd/skills/Persuasion|Persuasion]] +52, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +51, [[rangoric-srd/skills/Stealth|Stealth]] +46, [[rangoric-srd/skills/Theology|Theology]] +49     
 **Unspent Skill Points**: 160
 Feats: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)      
@@ -82,4 +82,4 @@ Summon Fiend (Sp): An infernal can summon four [[rangoric-srd/monsters/demon/Bal
 
 Abomination Traits: Immune to polymorphing, [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|petrification]], and other form-altering attacks; not subject to [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]], ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]], or ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]], or death from massive damage; immune to mind-affecting effects; [[rangoric-srd/monsters/abilities/Resistance|fire resistance]] 20; [[rangoric-srd/monsters/abilities/Resistance|cold resistance]] 20; [[rangoric-srd/spells/Nondetection|nondetection]]; [[rangoric-srd/spells/True Seeing|true seeing]] at will; [[rangoric-srd/monsters/abilities/Blindsight|blindsight]] 500 ft.; telepathy out to 1,000 ft.
 
-Regeneration (Ex): Infernals take normal damage from good weapons. Lawful infernals also take normal damage from chaotic weapons, and vice versa.
+Regeneration (Ex): Good weapons cause an infernal’s regeneration to stop functioning for 1 round. Chaotic weapons also do so for a lawful infernal, and vice versa.

@@ -16,7 +16,7 @@ attack: "Slam +54 (2d6+21/19-20) melee"
 full-attack: "5 slams +54 (2d6+21/19-20) melee"
 space-reach: "10 ft./10 ft."
 special-attacks: "Psionics, destabilize form"
-special-qualities: "Alter shape, DR 10/epic, darkvision 120 ft., immunities, regeneration 50, spell resistance 39"
+special-qualities: "Alter shape, DR 10/epic, darkvision 120 ft., immunities, regeneration 50 (epic and lawful weapons), spell resistance 39"
 defenses: "Fort 50, Ref 49, Will 42"
 abilities: "Str 53, Dex 37, Con 39, Int 20, Wis 23, Cha 34"
 skills: "Athletics +68 (+76 jumping), Deception +59, Imitation +52, Intimidation +59, Perception +59, Persuasion +54, Sense Motive +32, Stealth +38"
@@ -50,7 +50,7 @@ Attack: Slam +54 (2d6+21/19-20) melee   
 Full Attack: 5 slams +54 (2d6+21/19-20) melee     
 Space/Reach: 10 ft./10 ft.      
 Special Attacks: Psionics, destabilize form      
-Special Qualities: Alter shape, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/epic, darkvision 120 ft., immunities, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 50, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 39      
+Special Qualities: Alter shape, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/epic, darkvision 120 ft., immunities, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 50 (epic and lawful weapons), [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 39      
 Defenses: Fort 50, Ref 49, Will 42      
 Abilities: Str 53, Dex 37, Con 39, Int 20, Wis 23, Cha 34      
 Skills: [[rangoric-srd/skills/Athletics|Athletics]] +68 (+76 jumping), [[rangoric-srd/skills/Deception|Deception]] +59, [[rangoric-srd/skills/Imitation|Imitation]] +52, [[rangoric-srd/skills/Intimidation|Intimidation]] +59, [[rangoric-srd/skills/Perception|Perception]] +59, [[rangoric-srd/skills/Persuasion|Persuasion]] +54, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +32, [[rangoric-srd/skills/Stealth|Stealth]] +38     
@@ -74,3 +74,5 @@ At will - [[rangoric-srd/spells/Detect Thoughts|detect thoughts]], [[rangoric-sr
 Destabilize Form (Su): If a protean hits with two or more slam attacks in the same round, it partly destabilizes its foe’s physical form, dealing an additional 4d6+31 points of Damage as well as 2 points of temporary Constitution [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|Damage]]. If the victim is drained to 0 Constitution, its dead body is only so much clear fluid that drains away unless somehow preserved by friends of the victim.
 
 Alter Shape (Ex): A protean can assume the shape of any combination of physical nondeific creatures at the same time as a free action. In fact, a protean’s form constantly boils, and it requires a move-equivalent action each round for a protean to maintain a certain shape (even if that shape is a combination of several shapes). Whatever its present form, the protean retains all its own special qualities. Plus, it gains the advantage of up to four extraordinary abilities from the forms it mimics (but not spell-like or supernatural powers). The assumed form can be no smaller than a flea and no larger than 200 feet in its largest dimension (make sure to take into account rules for reach and size modifiers to AC and melee attacks). Incorporeal traits can also be assumed, which counts as a single extraordinary ability. If a hagunemnon assumes a partial form that confers an extraordinary ability already possessed by the creature, only the better of the two abilities is retained. No matter its form, the protean can never make more than five attacks using a full-round action. However, it may substitute a melee attack form for one of its slam attacks, using its own base attack bonus and Strength modifier to Damage, but dealing base Damage appropriate to the attack type.
+
+Regeneration (Ex): Epic lawful weapons cause a hagunemnon’s regeneration to stop functioning for 1 round.
