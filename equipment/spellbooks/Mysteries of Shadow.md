@@ -23,7 +23,7 @@ Each volume of this three-book set is written in gold ink on jet-black paper. Il
 
 **Opposition Schools**: Divination, evocation
 
-**Protection**: Illusory script (Will DC 16; on failure the suggestion is “Forget the existence of the descriptions and notes”), phantom trap (opening any of the books seems to set off a trap)
+**Protection**: Illusory script (_attack_ +6 vs Will; on a hit the suggestion is “Forget the existence of the descriptions and notes”), phantom trap (opening any of the books seems to set off a trap)
 
 **Value**: 11,820 gp (15,020 gp with the preparation ritual)
 

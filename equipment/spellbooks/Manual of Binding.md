@@ -23,7 +23,7 @@ The three volumes of this set are bound in black sharkskin, the spells inscribed
 
 **Opposition Schools**: Abjuration, enchantment
 
-**Protection**: Magic aura (spellbook appears nonmagical), secret page hides the notes on constructing a lich's phylactery, sepia snake sigil (Reflex DC 17)
+**Protection**: Magic aura (spellbook appears nonmagical), secret page hides the notes on constructing a lich's phylactery, sepia snake sigil (_attack_ +7 vs Reflex)
 
 **Value**: 12,719 gp (16,769 gp with the preparation ritual)
 

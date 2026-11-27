@@ -21,7 +21,7 @@ These four cloth-bound books are neatly printed—as with a printing press or so
 
 **Level**: 20 alchemist
 
-**Protection**: The cover is treated with tears of death poison (contact; save Fort DC 22; onset 1 minute; frequency 1/minute for 6 minutes; effect 1d6 Con damage and paralyzed for 1 minute).
+**Protection**: The cover is treated with tears of death poison (contact; +12 vs Fortitude; onset 1 minute; frequency 1/minute for 6 minutes; effect 1d6 Con damage and paralyzed for 1 minute).
 
 **Value**: 6,500 gp (11,000 gp with the preparation ritual)
 

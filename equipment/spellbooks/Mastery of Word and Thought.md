@@ -23,7 +23,7 @@ This massive tome is the size of four normal spellbooks, bound in leather as har
 
 **Opposition Schools**: Conjuration, illusion
 
-**Protection**: Symbol of death on the first page of the book (Fort DC 22)
+**Protection**: Symbol of death on the first page of the book (_attack_ +12 vs Fortitude)
 
 **Value**: 22,750 gp (27,250 gp with the preparation ritual)
 

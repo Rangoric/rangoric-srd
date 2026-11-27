@@ -50,7 +50,7 @@ Spies’ wax comes in midnight blue sticks with a cornflower blue counteragent.
 
 Price: 200 gp/stick of wax and vial of counteragent.
 
-**Vaporwax** Vaporwax cracks open sharply when opened improperly and dissolves into a noxious gas cloud of purple vapors. The gas fills a 10-foot cube in less than a round and inflicts a double effect like all poisons. The initial Fort save (DC 15) inflicts 1d4 points of poison damage to the lungs, mouth and nose if breathed in. The second save (DC 18) prevents the victim in the gas cloud from falling unconscious and breathing in that 1d4 points of damage each round for the next 1d4 rounds. The gas dissipates normally but remains toxic and effective for two rounds at the very least.
+**Vaporwax** Vaporwax cracks open sharply when opened improperly and dissolves into a noxious gas cloud of purple vapors. The gas fills a 10-foot cube in less than a round and inflicts a double effect like all poisons. The gas first attacks Fortitude at +5, and a hit inflicts 1d4 points of poison damage to the lungs, mouth and nose if breathed in. It then attacks Fortitude at +8, and a miss prevents the victim in the gas cloud from falling unconscious and breathing in that 1d4 points of damage each round for the next 1d4 rounds. The gas dissipates normally but remains toxic and effective for two rounds at the very least.
 
 Vaporwax comes in plum colored sticks with a violet colored counteragent.
 
