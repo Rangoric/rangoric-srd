@@ -28,7 +28,6 @@ What the notes in `spells` look like. The whole-SRD rules are in the [README](..
 | `duration`         | no       | `text`                                                                                                                        |
 | `saving-throw`     | no       | `text`                                                                                                                        |
 | `spell-resistance` | no       | `text`                                                                                                                        |
-| `book`             | no       | `text`                                                                                                                        |
 
 Headings, in order:
 
@@ -40,7 +39,6 @@ Headings, in order:
 | ---------- | -------- | ---------- |
 | `srd-type` | yes      | `overview` |
 | `section`  | yes      | `Spells`   |
-| `book`     | no       |            |
 
 ## Failing notes
 

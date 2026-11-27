@@ -12,7 +12,6 @@ target: "You"
 duration: "1 hour/level (D) or until discharged"
 defense: "None"
 spell-resistance: "No"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Talismanic Implement|Talismanic Implement (PF1 Foundry)]]"
 status: draft

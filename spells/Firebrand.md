@@ -15,7 +15,6 @@ target: "One creature/4 levels, no two of which can be more than 30 ft. apart"
 duration: "1 round/level"
 defense: "Will (harmless), but see below"
 spell-resistance: "Yes (harmless)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Firebrand|Firebrand (PF1)]]"
 status: draft

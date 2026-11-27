@@ -21,7 +21,6 @@ target: "Creature touched"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "Yes"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Stricken Heart|Stricken Heart (PF1)]]"
 status: draft

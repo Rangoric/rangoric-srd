@@ -16,7 +16,6 @@ area: "10-ft.-radius burst"
 duration: "Instantaneous"
 defense: "Reflex half"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Burst Of Nettles|Burst of Nettles (PF1)]]"
 status: draft

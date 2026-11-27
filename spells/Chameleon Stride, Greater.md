@@ -14,7 +14,6 @@ casting-time: "1 standard action"
 range: "5 ft."
 area: "Allies in a 10-ft.-radius emanation centered on you"
 duration: "1 minute/level (see text)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Chameleon Stride, Greater|Chameleon Stride, Greater (PF1)]]"
 status: draft

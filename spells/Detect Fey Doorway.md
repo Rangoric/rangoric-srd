@@ -23,7 +23,6 @@ area: "Cone emanating from you to the extreme of the range"
 duration: "Concentration up to 10 minutes/level (D)"
 defense: "None"
 spell-resistance: "No"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Detect Fey Doorway|Detect Fey Doorway (Faeries)]]"
 status: draft

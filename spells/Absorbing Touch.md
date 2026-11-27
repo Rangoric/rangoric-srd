@@ -12,7 +12,6 @@ target: "Object touched"
 duration: "1 day/level (D)"
 defense: "Fortitude (object)"
 spell-resistance: "No"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Absorbing Touch|Absorbing Touch (PF1)]]"
 status: draft

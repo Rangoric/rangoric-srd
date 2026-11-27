@@ -16,7 +16,6 @@ effect: "Entangling web of ectoplasm"
 duration: "Concentration, up to 1 round/level"
 defense: "Reflex partial; see text"
 spell-resistance: "Yes"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Ectoplasmic Snare|Ectoplasmic Snare (PF1 F)]]"
 status: draft

@@ -20,7 +20,6 @@ range: "Personal"
 target: "You"
 duration: "Caster level minute(s)"
 spell-resistance: "No"
-book: "Villain Codex"
 based-on:
   - "[[path srd 3.5 foundry/spells/Cloak of Shadows (Spell)|Cloak of Shadows (PF1 F)]]"
 status: draft

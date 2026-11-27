@@ -16,7 +16,6 @@ target: "One creature"
 duration: "1 round/level"
 defense: "Will partial"
 spell-resistance: "Yes"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Ego Whip II|Ego Whip II (PF1 Foundry)]]"
 status: draft

@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Spells"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/classes/Bloodrager#Class Features|Bloodrager (PF1)]]"
   - "[[path srd 3.5/rules/advanced-class-guide/Spell Lists (Advanced Class Guide)#Bloodrager Spells|Spell Lists, Advanced Class Guide (PF1)]]"

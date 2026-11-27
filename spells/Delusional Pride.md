@@ -23,7 +23,6 @@ target: "One creature"
 duration: "1 minute"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Delusional Pride|Delusional Pride (PF1)]]"
 status: draft

@@ -20,7 +20,6 @@ target: "Creature touched"
 duration: "Instantaneous"
 defense: "Fortitude"
 spell-resistance: "Yes"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Accelerate Poison|Accelerate Poison (PF1)]]"
 status: draft

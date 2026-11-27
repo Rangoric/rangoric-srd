@@ -23,7 +23,6 @@ target: "You"
 duration: "1 minute/level (D)"
 defense: "None"
 spell-resistance: "Yes (harmless)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Animal Aspect, Greater|Animal Aspect, Greater (PF1)]]"
 status: draft

@@ -25,7 +25,6 @@ target: "You"
 duration: "1 round/level"
 defense: "Fortitude (see text)"
 spell-resistance: "Yes"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Burning Gaze|Burning Gaze (PF1)]]"
 status: draft

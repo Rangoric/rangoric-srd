@@ -16,7 +16,6 @@ area: "One 5-ft. square/2 levels"
 duration: "Caster level round(s)"
 defense: "Reflex (object) and Fortitude"
 spell-resistance: "Yes"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/spells/Flashfire|Flashfire (PF1 F)]]"
 status: draft

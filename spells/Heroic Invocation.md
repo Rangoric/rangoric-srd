@@ -18,7 +18,6 @@ target: "One or more creatures, no two of which can be more than 30 ft. apart"
 duration: "10 minutes /level"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Heroic Invocation|Heroic Invocation (PF1)]]"
 status: draft

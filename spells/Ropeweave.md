@@ -15,7 +15,6 @@ range: "Touch"
 target: "One rope"
 duration: "Caster level hour(s)"
 spell-resistance: "No"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/spells/Ropeweave|Ropeweave (PF1 F)]]"
 status: draft

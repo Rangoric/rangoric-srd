@@ -18,7 +18,6 @@ target: "Saddle touched"
 duration: "Caster level minute(s)"
 defense: "Will (object)"
 spell-resistance: "Yes"
-book: "Villain Codex"
 based-on:
   - "[[path srd 3.5 foundry/spells/Steady Saddle|Steady Saddle (PF1 F)]]"
 status: draft

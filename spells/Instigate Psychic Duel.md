@@ -20,7 +20,6 @@ targets: "One creature"
 duration: "1 minute/level"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Instigate Psychic Duel|Instigate Psychic Duel (PF1 Foundry)]]"
 status: draft

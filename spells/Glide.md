@@ -22,7 +22,6 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "Until landing or 1 minute/level (D)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Glide|Glide (PF1)]]"
 status: draft

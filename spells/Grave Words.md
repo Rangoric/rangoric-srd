@@ -17,7 +17,6 @@ target: "One dead creature"
 duration: "1 round"
 defense: "None"
 spell-resistance: "No"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Grave Words|Grave Words (PF1 Foundry)]]"
 status: draft

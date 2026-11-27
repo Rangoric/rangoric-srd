@@ -12,7 +12,6 @@ casting-time: "1 standard action"
 range: "Personal"
 effect: "One swarm of spiders"
 duration: "1 round/level"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Vomit Swarm|Vomit Swarm (PF1)]]"
 status: draft

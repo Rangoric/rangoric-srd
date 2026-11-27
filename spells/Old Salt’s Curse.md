@@ -19,7 +19,6 @@ target: "One creature"
 duration: "Permanent"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Old Salt's Curse|Old Salt’s Curse (PF1)]]"
 status: draft

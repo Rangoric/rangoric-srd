@@ -18,7 +18,6 @@ range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "Feast for two creatures/level"
 duration: "1 hour; see text"
 spell-resistance: "No"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Bountiful Banquet|Bountiful Banquet (PF1 F)]]"
 status: draft

@@ -16,7 +16,6 @@ effect: "Transforms gem into magical sensor"
 duration: "1 hour/level"
 defense: "None"
 spell-resistance: "No"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Gemguard|Gemguard (Spells & Magic)]]"
 status: draft

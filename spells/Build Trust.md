@@ -20,7 +20,6 @@ target: "One creature"
 duration: "1 day/level; see text"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Build Trust|Build Trust (PF1 F)]]"
 status: draft

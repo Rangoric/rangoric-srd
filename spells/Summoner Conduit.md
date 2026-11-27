@@ -20,7 +20,6 @@ target: "One summoned creature or eidolon"
 duration: "1 minute/level"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Summoner Conduit|Summoner Conduit (PF1)]]"
 status: draft

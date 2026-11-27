@@ -17,7 +17,6 @@ area: "30-ft.-radius burst"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "Yes"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Arrow Eruption|Arrow Eruption (PF1)]]"
 status: draft

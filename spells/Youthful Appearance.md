@@ -19,7 +19,6 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "1 hour/level"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Youthful Appearance|Youthful Appearance (PF1)]]"
 status: draft

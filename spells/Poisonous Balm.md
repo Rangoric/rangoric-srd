@@ -21,7 +21,6 @@ target: "One creature"
 duration: "Instantaneous, then 1 hour or until triggered plus 6 rounds; see text"
 defense: "Will partial, then Fortitude (see text)"
 spell-resistance: "Yes"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Poisonous Balm|Poisonous Balm (PF1 F)]]"
 status: draft

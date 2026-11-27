@@ -15,7 +15,6 @@ target: "One living creature touched"
 duration: "Caster level day(s)"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Villain Codex"
 based-on:
   - "[[path srd 3.5 foundry/spells/Resist Starvation|Resist Starvation (PF1 F)]]"
 status: draft

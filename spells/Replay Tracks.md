@@ -19,7 +19,6 @@ range: "Personal"
 target: "You"
 duration: "Concentration, up to 1 hour/level"
 spell-resistance: "No"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/spells/Replay Tracks|Replay Tracks (PF1 F)]]"
 status: draft

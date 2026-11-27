@@ -19,7 +19,6 @@ casting-time: "1 immediate action"
 range: "Personal"
 target: "You"
 duration: "Instantaneous"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Windy Escape|Windy Escape (PF1)]]"
 status: draft

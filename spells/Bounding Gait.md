@@ -14,7 +14,6 @@ targets: "One creature"
 duration: "5 rounds/level"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Bounding Gait|Bounding Gait (Spells & Magic)]]"
 status: draft

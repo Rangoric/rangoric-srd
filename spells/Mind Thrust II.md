@@ -12,7 +12,6 @@ target: "One creature"
 duration: "Instantaneous"
 defense: "Will half"
 spell-resistance: "Yes"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Mind Thrust II|Mind Thrust II (PF1 Foundry)]]"
 status: draft

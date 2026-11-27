@@ -15,7 +15,6 @@ effect: "Phantasmal, unattended, nonmagical object, up to 1 cu. ft./level"
 duration: "10 minutes/level (D)"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Major Phantom Object|Major Phantom Object (PF1)]]"
 status: draft

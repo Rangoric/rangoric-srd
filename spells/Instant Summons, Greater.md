@@ -16,7 +16,6 @@ range: "SeeText"
 target: "Up to one object per 3 caster levels, each weighing 10 lbs. or less whose longest dimension is 6 ft. or less"
 duration: "Permanent or until discharged"
 spell-resistance: "No"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Instant Summons, Greater|Instant Summons, Greater (PF1 F)]]"
 status: draft

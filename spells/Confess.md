@@ -20,7 +20,6 @@ target: "One creature"
 duration: "1 round"
 defense: "Will partial; see text"
 spell-resistance: "Yes"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Confess|Confess (PF1)]]"
 status: draft

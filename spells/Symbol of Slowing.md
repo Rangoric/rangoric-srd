@@ -11,7 +11,6 @@ components:
   - "V"
   - "S"
   - "M"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Symbol Of Slowing|Symbol of Slowing (PF1)]]"
 status: draft

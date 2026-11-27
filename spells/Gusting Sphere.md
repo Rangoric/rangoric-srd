@@ -19,7 +19,6 @@ effect: "5-ft.-diameter sphere of air"
 duration: "1 round/level"
 defense: "Fortitude (object) or Reflex; see text"
 spell-resistance: "Yes"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Gusting Sphere|Gusting Sphere (PF1)]]"
 status: draft

@@ -14,7 +14,6 @@ target: "One non-creature plant of size Tiny, Small, or Medium"
 duration: "1 round(s)"
 defense: "Will (object)"
 spell-resistance: "Yes"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Underbrush Decoy|Underbrush Decoy (PF1 F)]]"
 status: draft

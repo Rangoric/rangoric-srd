@@ -18,7 +18,6 @@ target: "Animal touched"
 duration: "1 hour/level"
 defense: "Fortitude"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Anthropomorphic Animal|Anthropomorphic Animal (PF1)]]"
 status: draft

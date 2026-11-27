@@ -21,7 +21,6 @@ range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "10-ft.-square swarm of leshys"
 duration: "Caster level round(s)"
 spell-resistance: "No"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/spells/Leshy Swarm|Leshy Swarm (PF1 F)]]"
 status: draft

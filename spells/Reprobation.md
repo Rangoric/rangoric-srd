@@ -20,7 +20,6 @@ target: "One creature of your faith"
 duration: "Permanent"
 defense: "None"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Reprobation|Reprobation (PF1)]]"
 status: draft

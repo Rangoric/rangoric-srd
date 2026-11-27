@@ -14,7 +14,6 @@ area: "30-ft.-radius burst"
 duration: "1 round/level"
 defense: "Reflex half and Will partial; see text"
 spell-resistance: "Yes"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Ectoplasmic Eruption|Ectoplasmic Eruption (PF1 Foundry)]]"
 status: draft

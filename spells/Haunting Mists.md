@@ -22,7 +22,6 @@ effect: "Cloud spreads in 20-ft. radius, 20 ft. high"
 duration: "1 minute/level (D)"
 defense: "Will partial (see text)"
 spell-resistance: "No"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Haunting Mists|Haunting Mists (PF1)]]"
 status: draft

@@ -14,7 +14,6 @@ target: "One living creature"
 duration: "10 minutes/level"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Severed Fate|Severed Fate (PF1)]]"
 status: draft

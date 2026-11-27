@@ -18,7 +18,6 @@ target: "One magic mirror"
 duration: "1 week/level"
 defense: "None"
 spell-resistance: "No"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Gaze Trigger|Gaze Trigger (Spells & Magic)]]"
 status: draft

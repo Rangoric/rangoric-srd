@@ -16,7 +16,6 @@ target: "One dose of poison or one venomous creature"
 duration: "Permanent until discharged"
 defense: "Fortitude"
 spell-resistance: "Yes"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Contingent Venom|Contingent Venom (PF1 F)]]"
 status: draft

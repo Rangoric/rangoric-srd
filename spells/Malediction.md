@@ -18,7 +18,6 @@ target: "Living creature touched"
 duration: "Instantaneous/1 minute per HD of the target; see text"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Malediction|Malediction (PF1)]]"
 status: draft

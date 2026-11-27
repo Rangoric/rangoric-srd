@@ -19,7 +19,6 @@ effect: "One symbol"
 duration: "Permanent"
 defense: "None"
 spell-resistance: "No"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Symbol Of Sealing|Symbol of Sealing (PF1)]]"
 status: draft

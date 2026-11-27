@@ -18,7 +18,6 @@ target: "Lawful good creature touched"
 duration: "1 round/level (see text)"
 defense: "Yes (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Bestow Grace Of The Champion|Bestow Grace of the Champion (PF1)]]"
 status: draft

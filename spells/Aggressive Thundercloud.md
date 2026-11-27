@@ -21,7 +21,6 @@ effect: "5-ft.-diameter sphere"
 duration: "1 round/level"
 defense: "Reflex"
 spell-resistance: "Yes"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Aggressive Thundercloud|Aggressive Thundercloud (PF1)]]"
 status: draft

@@ -21,7 +21,6 @@ range: "Close (25 ft. + 5 ft./2 levels)"
 target: "You"
 duration: "Instantaneous and 1 round; see text"
 spell-resistance: "No"
-book: "Villain Codex"
 based-on:
   - "[[path srd 3.5 foundry/spells/Shadow Jaunt|Shadow Jaunt (PF1 F)]]"
 status: draft

@@ -14,7 +14,6 @@ area: "30-ft.-radius emanation centered on you"
 duration: "Concentration + 1 round/level"
 defense: "Will (harmless)"
 spell-resistance: "No"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Font Of Spirit Magic|Font of Spirit Magic (PF1)]]"
 status: draft

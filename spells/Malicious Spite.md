@@ -22,7 +22,6 @@ target: "One creature"
 duration: "1 day/level"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Malicious Spite|Malicious Spite (PF1)]]"
 status: draft

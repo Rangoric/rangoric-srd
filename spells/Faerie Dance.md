@@ -14,7 +14,6 @@ target: "Living creature touched"
 duration: "1 round/level"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Faerie Dance|Faerie Dance (Faeries)]]"
 status: draft

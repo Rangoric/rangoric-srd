@@ -19,7 +19,6 @@ target: "Living creatures touched"
 duration: "1 hour/level; see text"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Aboleth's Lung|Aboleth’s Lung (PF1)]]"
 status: draft

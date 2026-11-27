@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Spells"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/classes/Medium (Class)|Medium (PF1 Foundry)]]"
 status: draft

@@ -24,7 +24,6 @@ effect: "Animates one lantern"
 duration: "1 hour/level (D)"
 defense: "None"
 spell-resistance: "No"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Dancing Lantern|Dancing Lantern (PF1)]]"
 status: draft

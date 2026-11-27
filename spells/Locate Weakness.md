@@ -21,7 +21,6 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 minute/level"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Locate Weakness|Locate Weakness (PF1)]]"
 status: draft

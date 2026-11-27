@@ -20,7 +20,6 @@ range: "Touch"
 target: "Your animal companion, familiar, or fiendish servant"
 duration: "Instantaneous"
 spell-resistance: "No"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/spells/Bleed for your Master|Bleed for Your Master (PF1 F)]]"
 status: draft

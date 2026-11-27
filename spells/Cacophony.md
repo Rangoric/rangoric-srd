@@ -17,7 +17,6 @@ area: "emanation centered on the caster extending to range"
 duration: "3d6 rounds"
 defense: "Fortitude partial"
 spell-resistance: "Yes"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Cacophony|Cacophony (Spells & Magic)]]"
 status: draft

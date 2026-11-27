@@ -18,7 +18,6 @@ area: "One 10-ft. cube"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "No"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Sift|Sift (PF1)]]"
 status: draft

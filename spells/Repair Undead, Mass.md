@@ -14,7 +14,6 @@ targets: "One undead creature/level, no two of which can be more than 30 ft. apa
 duration: "Instantaneous"
 defense: "Will half (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Repair Undead, Mass|Repair Undead, Mass (PF1)]]"
 status: draft

@@ -18,7 +18,6 @@ effect: "Trail of flame that follows the caster's movements; see text"
 duration: "1 round/level"
 defense: "None"
 spell-resistance: "Yes"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Fire Trail|Fire Trail (PF1)]]"
 status: draft

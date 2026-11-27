@@ -16,7 +16,6 @@ target: "One projectile weapon"
 duration: "1 round/level or until discharged"
 defense: "Will (harmless, object)"
 spell-resistance: "Yes (harmless, object)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Ricochet Shot|Ricochet Shot (PF1)]]"
 status: draft

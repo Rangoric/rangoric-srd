@@ -17,7 +17,6 @@ area: "30-ft. line"
 duration: "Instantaneous"
 defense: "Reflex half"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Cold Ice Strike|Cold Ice Strike (PF1)]]"
 status: draft

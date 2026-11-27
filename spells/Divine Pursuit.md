@@ -11,7 +11,6 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 minute/level; see text"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Divine Pursuit|Divine Pursuit (PF1)]]"
 status: draft

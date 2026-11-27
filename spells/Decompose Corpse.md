@@ -22,7 +22,6 @@ target: "One corpse or corporeal undead"
 duration: "Instantaneous or 1 minute; see text"
 defense: "Fortitude (object)"
 spell-resistance: "Yes (object)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Decompose Corpse|Decompose Corpse (PF1)]]"
 status: draft

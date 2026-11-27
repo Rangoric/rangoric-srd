@@ -21,7 +21,6 @@ target: "One creature"
 duration: "Caster level round(s)"
 defense: "Will (see text)"
 spell-resistance: "Yes"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Aphasia|Aphasia (PF1 F)]]"
 status: draft

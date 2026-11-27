@@ -16,7 +16,6 @@ target: "You"
 duration: "1 round"
 defense: "No"
 spell-resistance: "Yes"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Litany Of Sight|Litany of Sight (PF1)]]"
 status: draft

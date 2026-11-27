@@ -13,7 +13,6 @@ casting-time: "1 standard action"
 range: "5 ft."
 area: "5-ft. burst centered on you"
 duration: "1 round/level"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Line In The Sand|Line in the Sand (PF1)]]"
 status: draft

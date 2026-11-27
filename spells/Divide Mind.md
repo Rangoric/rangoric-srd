@@ -14,7 +14,6 @@ target: "You"
 duration: "1 minute"
 defense: "None"
 spell-resistance: "No"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Divide Mind|Divide Mind (PF1 Foundry)]]"
 status: draft

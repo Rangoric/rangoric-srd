@@ -15,7 +15,6 @@ casting-time: "1 minute"
 range: "Personal"
 target: "You"
 duration: "1 hour/level (D)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Skinsend|Skinsend (PF1)]]"
 status: draft

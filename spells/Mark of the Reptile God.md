@@ -17,7 +17,6 @@ target: "One creature"
 duration: "Permanent"
 defense: "Fortitude"
 spell-resistance: "Yes"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/spells/Mark of the Reptile God|Mark of the Reptile God (PF1)]]"
 status: draft

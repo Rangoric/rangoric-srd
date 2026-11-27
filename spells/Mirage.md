@@ -21,7 +21,6 @@ area: "One 40-ft. cube/level (S)"
 duration: "2 * caster level hour(s)"
 defense: "Will disbelief (see below)"
 spell-resistance: "Yes"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/spells/Mirage (Spell)|Mirage (PF1 F)]]"
 status: draft

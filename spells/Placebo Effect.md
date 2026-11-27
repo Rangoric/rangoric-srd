@@ -18,7 +18,6 @@ target: "Creature touched"
 duration: "1 minute/level"
 defense: "Will disbelief (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Placebo Effect|Placebo Effect (PF1 Foundry)]]"
 status: draft

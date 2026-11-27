@@ -26,7 +26,6 @@ targets: "One or more humanoid creatures, no two of which may be more than 30 ft
 duration: "1 round"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Daze, Mass|Daze, Mass (PF1)]]"
 status: draft

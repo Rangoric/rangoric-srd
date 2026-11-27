@@ -18,7 +18,6 @@ range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "Up to one insect spy/4 levels"
 duration: "10 * caster level minute(s)"
 spell-resistance: "No"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Insect Spies, Greater|Insect Spies, Greater (PF1 F)]]"
 status: draft

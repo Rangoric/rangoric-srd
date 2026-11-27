@@ -15,7 +15,6 @@ target: "You and a touched, neutral creature from another plane, or you and an e
 duration: "1 round/level or until discharged, whichever comes first"
 defense: "See text"
 spell-resistance: "No"
-book: "Planar Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Dispel Balance|Dispel Balance (PF1 F)]]"
 status: draft

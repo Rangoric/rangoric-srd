@@ -25,7 +25,6 @@ effect: "Stone wall whose area is one 5-ft. square"
 duration: "1 round"
 defense: "None"
 spell-resistance: "No"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Stone Shield|Stone Shield (PF1)]]"
 status: draft

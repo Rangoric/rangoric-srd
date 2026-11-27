@@ -21,7 +21,6 @@ target: "One living creature"
 duration: "1 minute/level (D)"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Witness|Witness (PF1)]]"
 status: draft

@@ -16,7 +16,6 @@ area: "Four 5-ft. squares/level (see text)"
 duration: "1 round/level"
 defense: "None"
 spell-resistance: "No"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Path Of Glory, Greater|Path of Glory, Greater (PF1)]]"
 status: draft

@@ -18,7 +18,6 @@ target: "One creature or object"
 duration: "1 hour (D)"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Gentle Breeze|Gentle Breeze (PF1)]]"
 status: draft

@@ -16,7 +16,6 @@ area: "10-ft.-radius emanation centered on you"
 duration: "1 round/level"
 defense: "None"
 spell-resistance: "No"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Arcane Concordance|Arcane Concordance (PF1)]]"
 status: draft

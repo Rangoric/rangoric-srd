@@ -24,7 +24,6 @@ target: "One creature"
 duration: "Permanent (see text)"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Conditional Curse|Conditional Curse (PF1 F)]]"
 status: draft

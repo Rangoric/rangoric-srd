@@ -18,7 +18,6 @@ casting-time: "Attack"
 range: "Reach"
 duration: "Instantaneous"
 spell-resistance: "Yes"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Ghost Whip|Ghost Whip (PF1 F)]]"
 status: draft

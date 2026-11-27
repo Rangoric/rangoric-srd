@@ -19,7 +19,6 @@ effect: "Javelin-like thorn"
 duration: "1 minute/level (D)"
 defense: "None"
 spell-resistance: "No"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Thorn Javelin|Thorn Javelin (PF1)]]"
 status: draft

@@ -15,7 +15,6 @@ target: "Caster"
 duration: "1 round/ 2 levels"
 defense: "None"
 spell-resistance: "No"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Enemy Scourge|Enemy Scourge (Spells & Magic)]]"
 status: draft

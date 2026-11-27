@@ -18,7 +18,6 @@ effect: "Translucent wall 20 ft. long/level or a translucent ring with a radius 
 duration: "Concentration + 1 round/level"
 defense: "Fortitude"
 spell-resistance: "Yes"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Wall Of Blindness-Deafness|Wall of Blindness-Deafness (PF1)]]"
 status: draft

@@ -22,7 +22,6 @@ targets: "Creatures touched"
 duration: "24 hours"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Share Language, Communal|Share Language, Communal (PF1)]]"
 status: draft

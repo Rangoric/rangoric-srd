@@ -18,7 +18,6 @@ range: "Personal"
 target: "You"
 duration: "Instantaneous"
 spell-resistance: "No"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Prognostication|Prognostication (PF1 F)]]"
 status: draft

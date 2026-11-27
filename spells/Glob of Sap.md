@@ -16,7 +16,6 @@ targets: "Up to five creatures, no two of which can be more than 15 ft. apart"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "Yes"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Glob of Sap|Glob of Sap (Faeries)]]"
 status: draft

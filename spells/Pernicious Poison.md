@@ -21,7 +21,6 @@ target: "Creature touched"
 duration: "10 minute/level"
 defense: "None"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Pernicious Poison|Pernicious Poison (PF1)]]"
 status: draft

@@ -20,7 +20,6 @@ target: "Creature touched"
 duration: "1 hour/level"
 defense: "Fortitude (harmless)"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Plague Carrier|Plague Carrier (PF1)]]"
 status: draft

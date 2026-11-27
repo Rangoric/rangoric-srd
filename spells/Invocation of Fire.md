@@ -15,7 +15,6 @@ target: "One creature"
 duration: "See text"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Invocation of Fire|Invocation of Fire (Spells & Magic)]]"
 status: draft

@@ -19,7 +19,6 @@ target: "One creature"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "Yes"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Mighty Fist Of The Earth|Mighty Fist of the Earth (PF1)]]"
 status: draft

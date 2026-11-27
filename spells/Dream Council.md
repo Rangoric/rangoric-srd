@@ -21,7 +21,6 @@ target: "One or more living creatures"
 duration: "See text"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Dream Council|Dream Council (PF1 F)]]"
 status: draft

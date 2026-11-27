@@ -15,7 +15,6 @@ target: "One creature/level, no two of which can be more than 30 ft. apart"
 duration: "1 round/level or 1 round; see text"
 defense: "Fortitude partial"
 spell-resistance: "Yes"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Fester, Mass|Fester, Mass (PF1)]]"
 status: draft

@@ -22,7 +22,6 @@ target: "One broken object of up to 2 lbs./level"
 duration: "1 round/level"
 defense: "Will (harmless, object)"
 spell-resistance: "Yes (harmless, object)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Jury-Rig|Jury-Rig (PF1)]]"
 status: draft

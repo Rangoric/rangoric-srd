@@ -20,7 +20,6 @@ area: "5-ft.-radius burst"
 duration: "Instantaneous (see text)"
 defense: "Reflex partial (see text)"
 spell-resistance: "See text"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/spells/Ice Slick|Ice Slick (PF1)]]"
 status: draft

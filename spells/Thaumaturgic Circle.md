@@ -21,7 +21,6 @@ area: "10-ft.-radius emanation from touched creature"
 duration: "10 * caster level minute(s)"
 defense: "Will"
 spell-resistance: "No"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Thaumaturgic Circle|Thaumaturgic Circle (PF1 F)]]"
 status: draft

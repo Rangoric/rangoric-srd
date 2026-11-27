@@ -14,7 +14,6 @@ target: "Simulacrum touched"
 duration: "Instantaneous"
 defense: "Fortitude"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Sculpt Simulacrum|Sculpt Simulacrum (PF1)]]"
 status: draft

@@ -13,7 +13,6 @@ target: "One creature"
 duration: "Instantaneous"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Timely Inspiration|Timely Inspiration (PF1)]]"
 status: draft

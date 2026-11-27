@@ -16,7 +16,6 @@ target: "Living creature touched"
 duration: "1 minute/level"
 defense: "Fortitude (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Bloody Claws|Bloody Claws (PF1)]]"
 status: draft

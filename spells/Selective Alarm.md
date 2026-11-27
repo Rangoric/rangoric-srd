@@ -24,7 +24,6 @@ range: "Close (25 ft. + 5 ft./2 levels)"
 area: "Up to 20-ft.-radius emanation centered on a point in space"
 duration: "2 * caster level hour(s)"
 spell-resistance: "No"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Selective Alarm|Selective Alarm (PF1 F)]]"
 status: draft

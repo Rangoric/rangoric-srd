@@ -5,7 +5,6 @@ school: "Illusion"
 subschool: "Shadow"
 level:
   - "Wit 7"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Familiar Double|Familiar Double (PF1)]]"
 status: draft

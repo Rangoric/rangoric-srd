@@ -18,7 +18,6 @@ target: "One mirror"
 duration: "1 hour/level (D)"
 defense: "Yes (object)"
 spell-resistance: "Yes (object)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Mirror Transport|Mirror Transport (PF1)]]"
 status: draft

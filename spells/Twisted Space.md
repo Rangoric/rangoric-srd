@@ -18,7 +18,6 @@ target: "One creature"
 duration: "1 round"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Twisted Space|Twisted Space (PF1)]]"
 status: draft

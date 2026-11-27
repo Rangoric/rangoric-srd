@@ -19,7 +19,6 @@ area: "5-ft.-diameter emanation centered on an object or a point in space"
 duration: "1 minute/level (D)"
 defense: "None (object)"
 spell-resistance: "No (object)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Silent Table|Silent Table (PF1)]]"
 status: draft

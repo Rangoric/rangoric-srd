@@ -19,7 +19,6 @@ target: "Willing creature touched"
 duration: "1 hour/level (D) or until discharged"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Contingent Scroll|Contingent Scroll (PF1)]]"
 status: draft

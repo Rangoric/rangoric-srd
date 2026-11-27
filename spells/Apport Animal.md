@@ -22,7 +22,6 @@ target: "One touched animal of Tiny or smaller size"
 duration: "Instantaneous or 1 hour/level"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Apport Animal|Apport Animal (PF1 F)]]"
 status: draft

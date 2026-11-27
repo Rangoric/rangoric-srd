@@ -13,7 +13,6 @@ target: "One creature"
 duration: "1 minute/level"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Oracle's Vessel|Oracle’s Vessel (PF1)]]"
 status: draft

@@ -18,7 +18,6 @@ effect: "One stream of venom"
 duration: "Instantaneous; see text"
 defense: "Fortitude partial"
 spell-resistance: "No"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Spit Venom (Spell)|Spit Venom (PF1)]]"
 status: draft

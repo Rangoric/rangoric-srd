@@ -16,7 +16,6 @@ target: "S two creatures or objects which must be no more than 60 ft. apart"
 duration: "Instantaneous"
 defense: "Reflex half"
 spell-resistance: "Yes (see text)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Lightning Arc|Lightning Arc (PF1)]]"
 status: draft

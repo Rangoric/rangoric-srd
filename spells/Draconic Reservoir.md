@@ -21,7 +21,6 @@ target: "Creature touched"
 duration: "10 minutes/level or until discharged; see text"
 defense: "Fortitude (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Draconic Reservoir|Draconic Reservoir (PF1)]]"
 status: draft

@@ -22,7 +22,6 @@ target: "One living creature"
 duration: "1 round/level"
 defense: "Will"
 spell-resistance: "Yes."
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Agonizing Rebuke|Agonizing Rebuke (PF1)]]"
 status: draft

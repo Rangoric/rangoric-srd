@@ -23,7 +23,6 @@ target: "One creature/level, no two of which can be more than 30 ft. apart"
 duration: "Concentration + 3 rounds"
 defense: "Will disbelief"
 spell-resistance: "Yes"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Complex Hallucination|Complex Hallucination (PF1 F)]]"
 status: draft

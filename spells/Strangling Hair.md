@@ -15,7 +15,6 @@ target: "One creature"
 duration: "Concentration, up to 1 round/level"
 defense: "None"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Strangling Hair|Strangling Hair (PF1)]]"
 status: draft

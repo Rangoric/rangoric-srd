@@ -17,7 +17,6 @@ target: "You"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "No"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Find Quarry|Find Quarry (PF1)]]"
 status: draft

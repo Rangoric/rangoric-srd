@@ -19,7 +19,6 @@ target: "One doorway"
 duration: "Permanent"
 defense: "None"
 spell-resistance: "Yes"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Open Doorway|Open Doorway (Faeries)]]"
 status: draft

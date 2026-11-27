@@ -20,7 +20,6 @@ target: "Creature touched"
 duration: "1 round/level"
 defense: "Fortitude half (see text)"
 spell-resistance: "No"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/spells/Trial of Fire and Acid|Trial of Fire and Acid (PF1)]]"
 status: draft

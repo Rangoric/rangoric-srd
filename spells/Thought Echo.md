@@ -14,7 +14,6 @@ target: "Living creature touched"
 duration: "1 minute/level (D)"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Thought Echo|Thought Echo (PF1 Foundry)]]"
 status: draft

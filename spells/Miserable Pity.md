@@ -21,7 +21,6 @@ target: "Creature touched"
 duration: "1 round/level and 1 minute; see text"
 defense: "Will (see text)"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Miserable Pity|Miserable Pity (PF1)]]"
 status: draft

@@ -17,7 +17,6 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 minute/level"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Frightful Aspect|Frightful Aspect (PF1)]]"
 status: draft

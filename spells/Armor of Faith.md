@@ -5,7 +5,6 @@ school: "Abjuration"
 level:
   - "Clr 6"
   - "Pal 4"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Armor of Faith|Armor of Faith (Spells & Magic)]]"
 status: draft

@@ -21,7 +21,6 @@ effect: "Swarm of monkeys"
 duration: "1 round/level"
 defense: "None"
 spell-resistance: "No"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Mad Monkeys|Mad Monkeys (PF1)]]"
 status: draft

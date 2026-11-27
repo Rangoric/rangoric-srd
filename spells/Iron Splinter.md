@@ -16,7 +16,6 @@ effect: "One splinter-sized missile of iron"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "Yes"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Iron Splinter|Iron Splinter (Faeries)]]"
 status: draft

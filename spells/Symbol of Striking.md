@@ -15,7 +15,6 @@ components:
   - "M"
 defense: "Will half, see text"
 spell-resistance: "Yes, see text"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Symbol Of Striking|Symbol of Striking (PF1)]]"
 status: draft

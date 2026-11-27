@@ -16,7 +16,6 @@ target: "One magic item"
 duration: "Permanent"
 defense: "None"
 spell-resistance: "No"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/spells/Dust Ward|Dust Ward (PF1)]]"
 status: draft

@@ -17,7 +17,6 @@ effect: "Cloud that spreads in a 35-ft. radius, 15 ft. high"
 duration: "1 round/level"
 defense: "See text"
 spell-resistance: "Yes"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Iron Cloud|Iron Cloud (Faeries)]]"
 status: draft

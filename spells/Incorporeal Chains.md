@@ -16,7 +16,6 @@ target: "One incorporeal creature/level, no two of which can be more than 30 ft.
 duration: "Concentration"
 defense: "None"
 spell-resistance: "Yes"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Incorporeal Chains|Incorporeal Chains (PF1 Foundry)]]"
 status: draft

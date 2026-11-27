@@ -15,7 +15,6 @@ target: "Your fiendish boon weapon"
 duration: "1 minute/level"
 defense: "Will (harmless)"
 spell-resistance: "No"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Blade Of Dark Triumph|Blade of Dark Triumph (PF1)]]"
 status: draft

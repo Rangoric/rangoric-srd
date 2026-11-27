@@ -21,7 +21,6 @@ target: "One living creature"
 duration: "Caster level round(s)"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Oneiric Horror|Oneiric Horror (PF1 F)]]"
 status: draft

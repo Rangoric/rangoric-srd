@@ -22,7 +22,6 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "10 minutes/level (D)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Adjustable Disguise|Adjustable Disguise (PF1)]]"
 status: draft

@@ -21,7 +21,6 @@ target: "Creature touched"
 duration: "1 round/level (D)"
 defense: "Will partial"
 spell-resistance: "Yes"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/spells/Isolate|Isolate (PF1)]]"
 status: draft

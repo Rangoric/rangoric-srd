@@ -17,7 +17,6 @@ effect: "Fist-sized blob of webbing"
 duration: "1 min./level"
 defense: "Reflex; see text"
 spell-resistance: "No"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Web Bolt|Web Bolt (PF1)]]"
 status: draft

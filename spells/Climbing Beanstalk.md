@@ -15,7 +15,6 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "5-ft. square of climbable beanstalks"
 duration: "Instantaneous"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Climbing Beanstalk|Climbing Beanstalk (PF1)]]"
 status: draft

@@ -21,7 +21,6 @@ target: "One creature"
 duration: "1 round"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Beguiling Gift|Beguiling Gift (PF1)]]"
 status: draft

@@ -19,7 +19,6 @@ target: "1 creature/level"
 duration: "Instantaneous"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Lesser Ring Dance|Lesser Ring Dance (Faeries)]]"
 status: draft

@@ -23,7 +23,6 @@ effect: "One summoned creature"
 duration: "1 round/level (D)"
 defense: "None"
 spell-resistance: "No"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Summon Fey I|Summon Fey I (Faeries)]]"
 status: draft

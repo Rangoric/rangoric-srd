@@ -16,7 +16,6 @@ target: "Creature touched"
 duration: "Permanent"
 defense: "Fortitude"
 spell-resistance: "Yes"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Brand, Greater|Brand, Greater (PF1)]]"
 status: draft

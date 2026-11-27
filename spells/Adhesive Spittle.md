@@ -17,7 +17,6 @@ target: "One creature"
 duration: "1 round/level or until discharged (see text)"
 defense: "Reflex partial"
 spell-resistance: "No"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Adhesive Spittle|Adhesive Spittle (PF1)]]"
 status: draft

@@ -13,7 +13,6 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "Touch"
 duration: "1 minute/level (D)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Lead Blades|Lead Blades (PF1)]]"
 status: draft

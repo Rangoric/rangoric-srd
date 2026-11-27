@@ -18,7 +18,6 @@ target: "A creature you are mounted upon"
 duration: "10 * caster level minute(s)"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/spells/Sea Stallion|Sea Stallion (PF1 F)]]"
 status: draft

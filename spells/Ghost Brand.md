@@ -19,7 +19,6 @@ range: "Touch"
 target: "One willing creature and one object touched"
 duration: "Caster level day(s)"
 spell-resistance: "No"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Ghost Brand|Ghost Brand (PF1 F)]]"
 status: draft

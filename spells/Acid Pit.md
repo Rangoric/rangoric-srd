@@ -20,7 +20,6 @@ effect: "10-ft.-by-10-ft. hole, 10 ft. deep/2 levels"
 duration: "1 round + 1 round/level"
 defense: "Reflex; see text"
 spell-resistance: "No"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Acid Pit|Acid Pit (PF1)]]"
 status: draft

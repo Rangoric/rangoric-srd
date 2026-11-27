@@ -13,7 +13,6 @@ area: "Personal"
 duration: "1 hour/level"
 defense: "None"
 spell-resistance: "No"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Active Antidivination|Active Antidivination (Spells & Magic)]]"
 status: draft

@@ -4,7 +4,6 @@ section: "Spells"
 school: "Abjuration"
 level:
   - "Sor/Wiz 7"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Dispel Antimagic|Dispel Antimagic (Spells & Magic)]]"
 status: draft

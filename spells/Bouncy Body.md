@@ -14,7 +14,6 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "10 minutes/level"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/spells/Bouncy Body|Bouncy Body (PF1)]]"
 status: draft

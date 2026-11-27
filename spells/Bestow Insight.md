@@ -20,7 +20,6 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "One creature touched"
 duration: "1 minute/level"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Bestow Insight|Bestow Insight (PF1)]]"
 status: draft

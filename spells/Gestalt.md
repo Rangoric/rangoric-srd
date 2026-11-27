@@ -13,7 +13,6 @@ target: "You and Your Familiar"
 duration: "1 round/level"
 defense: "Will (harmless), special (see below)"
 spell-resistance: "Yes"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Gestalt|Gestalt (Spells & Magic)]]"
 status: draft

@@ -21,7 +21,6 @@ target: "One creature"
 duration: "1 hour/level; see text"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Riding Possession|Riding Possession (PF1 F)]]"
 status: draft

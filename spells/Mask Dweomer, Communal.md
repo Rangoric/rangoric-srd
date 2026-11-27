@@ -17,7 +17,6 @@ target: "Creatures or objects touched"
 duration: "1 day/level (D)"
 defense: "None; see text"
 spell-resistance: "No"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Mask Dweomer, Communal|Mask Dweomer, Communal (PF1)]]"
 status: draft

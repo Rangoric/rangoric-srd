@@ -15,7 +15,6 @@ target: "Your familiar"
 duration: "1 hour/level or until you return to your body"
 defense: "Will (harmless)"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Familiar Melding|Familiar Melding (PF1)]]"
 status: draft

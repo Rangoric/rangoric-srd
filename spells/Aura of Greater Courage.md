@@ -16,7 +16,6 @@ area: "10-ft.-radius emanation centered on you"
 duration: "10 minutes/level"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Aura Of Greater Courage|Aura of Greater Courage (PF1)]]"
 status: draft

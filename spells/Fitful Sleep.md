@@ -24,7 +24,6 @@ target: "One creature"
 duration: "Permanent"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Fitful Sleep|Fitful Sleep (Faeries)]]"
 status: draft

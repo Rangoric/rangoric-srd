@@ -18,7 +18,6 @@ target: "1 loaded firearm"
 duration: "Instantaneous"
 defense: "Will (object)"
 spell-resistance: "Yes (object)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Damp Powder|Damp Powder (PF1)]]"
 status: draft

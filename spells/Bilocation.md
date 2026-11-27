@@ -13,7 +13,6 @@ range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "One duplicate"
 duration: "Caster level round(s)"
 spell-resistance: "No"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Bilocation|Bilocation (PF1 F)]]"
 status: draft

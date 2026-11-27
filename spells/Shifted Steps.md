@@ -27,7 +27,6 @@ target: "One creature or object up to 10 feet across"
 duration: "Concentration + 1 round/level"
 defense: "Will and Will disbelief (if interacted with); see text"
 spell-resistance: "No"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Shifted Steps|Shifted Steps (PF1 F)]]"
 status: draft

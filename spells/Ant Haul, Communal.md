@@ -24,7 +24,6 @@ target: "Creatures touched"
 duration: "2 hours/level"
 defense: "Fortitude (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Ant Haul, Communal|Ant Haul, Communal (PF1)]]"
 status: draft

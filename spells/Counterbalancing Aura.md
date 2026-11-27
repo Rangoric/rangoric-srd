@@ -14,7 +14,6 @@ target: "One creature/level in a 20-ft.-radius burst centered on you"
 duration: "Caster level round(s)"
 defense: "See text"
 spell-resistance: "Yes"
-book: "Planar Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Counterbalancing Aura|Counterbalancing Aura (PF1 F)]]"
 status: draft

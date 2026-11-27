@@ -15,7 +15,6 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 minute/level"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Aspect Of The Falcon|Aspect of the Falcon (PF1)]]"
 status: draft

@@ -20,7 +20,6 @@ effect: "One symbol"
 duration: "See text"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Symbol Of Strife|Symbol of Strife (PF1)]]"
 status: draft

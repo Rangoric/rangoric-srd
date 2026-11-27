@@ -12,7 +12,6 @@ target: "One object or creature restraining you"
 duration: "Instantaneous"
 defense: "Fortitude half (object)"
 spell-resistance: "Yes"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Burst Bonds|Burst Bonds (PF1)]]"
 status: draft

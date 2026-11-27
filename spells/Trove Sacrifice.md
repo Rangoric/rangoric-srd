@@ -14,7 +14,6 @@ targets: "Self"
 duration: "1 round/level (D)"
 defense: "No"
 spell-resistance: "No"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Trove Sacrifice|Trove Sacrifice (Spells & Magic)]]"
 status: draft

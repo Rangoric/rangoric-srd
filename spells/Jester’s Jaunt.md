@@ -16,7 +16,6 @@ target: "One living creature"
 duration: "Instantiations"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Jester's Jaunt|Jester’s Jaunt (PF1)]]"
 status: draft

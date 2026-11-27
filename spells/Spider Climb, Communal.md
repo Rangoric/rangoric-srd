@@ -21,7 +21,6 @@ target: "Creatures touched"
 duration: "10 min./level"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Spider Climb, Communal|Spider Climb, Communal (PF1)]]"
 status: draft

@@ -17,7 +17,6 @@ target: "One humanoid"
 duration: "Concentration + 2 rounds or until triggered"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Bungle|Bungle (PF1)]]"
 status: draft

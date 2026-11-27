@@ -18,7 +18,6 @@ target: "See text"
 duration: "Caster level minute(s)"
 defense: "Will; see text"
 spell-resistance: "No"
-book: "Planar Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Speak with Soul|Speak with Soul (PF1 F)]]"
 status: draft

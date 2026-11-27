@@ -23,7 +23,6 @@ target: "One creature"
 duration: "1 round/level"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Lock Gaze|Lock Gaze (PF1)]]"
 status: draft

@@ -17,7 +17,6 @@ target: "Object touched"
 duration: "Instantaneous"
 defense: "Will (object)"
 spell-resistance: "Yes (object)"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Erase Impressions|Erase Impressions (PF1 Foundry)]]"
 status: draft

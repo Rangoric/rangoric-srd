@@ -17,7 +17,6 @@ target: "Melee weapon touched"
 duration: "1 hour/level or until discharged"
 defense: "Reflex (see text)"
 spell-resistance: "Yes"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Sundering Shards|Sundering Shards (PF1)]]"
 status: draft

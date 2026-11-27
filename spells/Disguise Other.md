@@ -18,7 +18,6 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "10 minute/level (D)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Disguise Other|Disguise Other (PF1)]]"
 status: draft

@@ -18,7 +18,6 @@ area: "20-ft.-radius burst"
 duration: "1 round/level"
 defense: "Will"
 spell-resistance: "None"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Hunter's Howl|Hunter’s Howl (PF1)]]"
 status: draft

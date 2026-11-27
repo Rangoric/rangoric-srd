@@ -19,7 +19,6 @@ range: "Personal"
 target: "You"
 duration: "Up to 1 hour/level plus 1d6 rounds (D); see text"
 spell-resistance: "No"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Deadman's Contingency|Deadman’s Contingency (PF1 F)]]"
 status: draft

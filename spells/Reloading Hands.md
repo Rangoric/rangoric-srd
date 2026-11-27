@@ -16,7 +16,6 @@ range: "Touch"
 target: "Projectile weapon touched"
 duration: "1 round/caster level (D)"
 defense: "Will (object, harmless); Spell Resistance yes (object, harmless)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Reloading Hands|Reloading Hands (PF1)]]"
 status: draft

@@ -21,7 +21,6 @@ target: "One living creature/level that is a reptile, has the dragon type, or ha
 duration: "1 minute/level"
 defense: "Fort (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/spells/Scale Spikes|Scale Spikes (PF1)]]"
 status: draft

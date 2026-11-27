@@ -4,7 +4,6 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Sor/Wiz 6"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Enforcer II|Enforcer II (Spells & Magic)]]"
 status: draft

@@ -27,7 +27,6 @@ target: "One indifferent or friendly animal"
 duration: "1 hour/level"
 defense: "None"
 spell-resistance: "Yes"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Animal Purpose Training|Animal Purpose Training (PF1)]]"
 status: draft

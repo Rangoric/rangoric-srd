@@ -17,7 +17,6 @@ targets: "Creatures touched, up to one/level"
 duration: "10 minutes/level (D)"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Invigorate, Mass|Invigorate, Mass (PF1)]]"
 status: draft

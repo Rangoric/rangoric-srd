@@ -17,7 +17,6 @@ target: "Object touched"
 duration: "Permanent"
 defense: "None; see text"
 spell-resistance: "No"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Charge Object|Charge Object (PF1 Foundry)]]"
 status: draft

@@ -21,7 +21,6 @@ area: "Cone"
 duration: "10 minutes/level"
 defense: "None"
 spell-resistance: "No"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Second Sight|Second Sight (Faeries)]]"
 status: draft

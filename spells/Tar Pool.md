@@ -22,7 +22,6 @@ area: "20-ft.-radius burst"
 duration: "1 round/level"
 defense: "Reflex partial, see text"
 spell-resistance: "No"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Tar Pool|Tar Pool (PF1)]]"
 status: draft

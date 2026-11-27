@@ -21,7 +21,6 @@ target: "One Medium or smaller animal"
 duration: "1 day/level or until message is delivered"
 defense: "None (see text)"
 spell-resistance: "No"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Animal Ambassador|Animal Ambassador (PF1 F)]]"
 status: draft

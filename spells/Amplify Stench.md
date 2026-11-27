@@ -15,7 +15,6 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "10 minutes/level"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/spells/Amplify Stench|Amplify Stench (PF1)]]"
 status: draft

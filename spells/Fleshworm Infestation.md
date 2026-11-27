@@ -20,7 +20,6 @@ target: "Creature touched"
 duration: "1 round/level (D)"
 defense: "Fortitude partial (see text)"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Fleshworm Infestation|Fleshworm Infestation (PF1)]]"
 status: draft

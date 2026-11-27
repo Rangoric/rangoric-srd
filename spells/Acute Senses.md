@@ -20,7 +20,6 @@ target: "Creature touched"
 duration: "1 minute/level"
 defense: "Will (harmless)"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Acute Senses|Acute Senses (PF1)]]"
 status: draft

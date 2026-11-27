@@ -11,7 +11,6 @@ target: "One creature touched"
 duration: "1 hour/level"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Nine Lives|Nine Lives (PF1)]]"
 status: draft

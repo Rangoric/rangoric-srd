@@ -16,7 +16,6 @@ range: "30 ft."
 target: "All Medium or smaller objects in a 30-ft. burst centered on you"
 duration: "Instantaneous"
 spell-resistance: "Yes"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Break, Greater|Break, Greater (PF1 F)]]"
 status: draft

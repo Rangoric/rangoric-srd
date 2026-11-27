@@ -18,7 +18,6 @@ targets: "You and touched objects or other touched willing creatures"
 duration: "1 round/level or until discharged"
 defense: "None and Will (object)"
 spell-resistance: "No and yes (object)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Dimensional Bounce|Dimensional Bounce (PF1)]]"
 status: draft

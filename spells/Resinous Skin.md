@@ -18,7 +18,6 @@ target: "You"
 duration: "10 minutes/level"
 defense: "See text"
 spell-resistance: "No"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Resinous Skin|Resinous Skin (PF1)]]"
 status: draft

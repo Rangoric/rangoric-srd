@@ -17,7 +17,6 @@ target: "One creature"
 duration: "1 round"
 defense: "No"
 spell-resistance: "Yes"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Litany Of Weakness|Litany of Weakness (PF1)]]"
 status: draft

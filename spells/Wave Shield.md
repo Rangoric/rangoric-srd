@@ -18,7 +18,6 @@ casting-time: "1 immediate action"
 range: "Personal"
 target: "You"
 duration: "1 round or until discharged"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Wave Shield|Wave Shield (PF1)]]"
 status: draft

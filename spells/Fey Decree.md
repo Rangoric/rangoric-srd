@@ -17,7 +17,6 @@ area: "Creatures in a 30 ft.-radius spread centered on you"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "Yes"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Fey Decree|Fey Decree (Faeries)]]"
   - "[[individual books/Faeries/tables/Table p96|Table p96 (Faeries)]]"

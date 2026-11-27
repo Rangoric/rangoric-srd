@@ -20,7 +20,6 @@ target: "One creature"
 duration: "Permanent until triggered (see text)"
 defense: "Will (see text)"
 spell-resistance: "Yes"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Curse Of Burning Sleep|Curse of Burning Sleep (PF1)]]"
 status: draft

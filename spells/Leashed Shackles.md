@@ -18,7 +18,6 @@ target: "One creature"
 duration: "1 minute/level"
 defense: "Reflex"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Leashed Shackles|Leashed Shackles (PF1)]]"
 status: draft

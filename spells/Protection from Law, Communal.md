@@ -12,7 +12,6 @@ level:
   - "Sum 2"
   - "SumU 2"
 target: "Creatures touched"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Protection From Law, Communal|Protection from Law, Communal (PF1)]]"
 status: draft

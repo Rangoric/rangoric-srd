@@ -21,7 +21,6 @@ target: "One creature"
 duration: "1 minute/level"
 defense: "Will (see text)"
 spell-resistance: "Yes"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Telempathic Projection|Telempathic Projection (PF1 Foundry)]]"
 status: draft

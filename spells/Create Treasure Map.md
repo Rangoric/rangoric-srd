@@ -22,7 +22,6 @@ target: "One dead creature"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "No"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Create Treasure Map|Create Treasure Map (PF1)]]"
 status: draft

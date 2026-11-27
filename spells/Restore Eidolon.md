@@ -16,7 +16,6 @@ target: "Eidolon touched"
 duration: "Instantaneous"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Restore Eidolon|Restore Eidolon (PF1)]]"
 status: draft

@@ -11,7 +11,6 @@ components:
   - "M"
 defense: "See text"
 spell-resistance: "No (object) and yes (see text)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Hex Glyph, Greater|Hex Glyph, Greater (PF1)]]"
 status: draft

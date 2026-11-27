@@ -16,7 +16,6 @@ effect: "One duplicate creature"
 duration: "1 hour/level"
 defense: "None"
 spell-resistance: "No"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Simulacrum, Lesser|Simulacrum, Lesser (PF1)]]"
 status: draft

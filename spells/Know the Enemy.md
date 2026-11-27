@@ -18,7 +18,6 @@ target: "You"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "No"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Know The Enemy|Know the Enemy (PF1)]]"
 status: draft

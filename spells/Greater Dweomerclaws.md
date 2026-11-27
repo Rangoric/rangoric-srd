@@ -14,7 +14,6 @@ target: "Your Familiar"
 duration: "2 rounds/level (d)"
 defense: "Will (harmless)"
 spell-resistance: "Yes"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Greater Dweomerclaws|Greater Dweomerclaws (Spells & Magic)]]"
 status: draft

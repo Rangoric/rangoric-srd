@@ -18,7 +18,6 @@ area: "10-ft.-radius spherical emanation centered on you"
 duration: "Concentration"
 defense: "Will partial"
 spell-resistance: "Yes"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Fool's Forbiddance|Fool’s Forbiddance (PF1)]]"
 status: draft

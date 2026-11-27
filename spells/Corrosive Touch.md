@@ -20,7 +20,6 @@ target: "Creature or object touched"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Corrosive Touch|Corrosive Touch (PF1)]]"
 status: draft

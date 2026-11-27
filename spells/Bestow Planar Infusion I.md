@@ -22,7 +22,6 @@ target: "Creature touched"
 duration: "Caster level hour(s)"
 defense: "Fortitude"
 spell-resistance: "Yes"
-book: "Planar Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Bestow Planar Infusion I|Bestow Planar Infusion I (PF1 F)]]"
 status: draft

@@ -27,7 +27,6 @@ target: "One creature"
 duration: "1 minute/level"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Bestow Weapon Proficiency|Bestow Weapon Proficiency (PF1)]]"
 status: draft

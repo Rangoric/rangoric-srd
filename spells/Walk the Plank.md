@@ -17,7 +17,6 @@ effect: "20-ft.-by-20-ft. hole, 10 ft. deep/4 levels"
 duration: "1 round plus 1 round/level"
 defense: "Reflex (see text)"
 spell-resistance: "No"
-book: "Villain Codex"
 based-on:
   - "[[path srd 3.5 foundry/spells/Walk the Plank|Walk the Plank (PF1 F)]]"
 status: draft

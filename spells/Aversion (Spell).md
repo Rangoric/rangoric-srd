@@ -26,7 +26,6 @@ target: "One creature"
 duration: "Caster level day(s)"
 defense: "Will partial"
 spell-resistance: "Yes"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Aversion|Aversion (PF1 F)]]"
 status: draft

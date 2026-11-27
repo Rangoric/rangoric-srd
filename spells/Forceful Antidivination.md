@@ -5,7 +5,6 @@ school: "Abjuration"
 level:
   - "Sor/Wiz 8"
 defense: "None"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Forceful Antidivination|Forceful Antidivination (Spells & Magic)]]"
 status: draft

@@ -16,7 +16,6 @@ target: "One willing and living creature"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "No"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Psychic Surgery|Psychic Surgery (PF1 Foundry)]]"
 status: draft

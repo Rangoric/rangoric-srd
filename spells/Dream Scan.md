@@ -20,7 +20,6 @@ target: "One living creature"
 duration: "See text"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Dream Scan|Dream Scan (PF1 F)]]"
 status: draft

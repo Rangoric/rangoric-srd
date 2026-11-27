@@ -18,7 +18,6 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 minute/level (D), special (see below)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Savage Maw|Savage Maw (PF1)]]"
 status: draft

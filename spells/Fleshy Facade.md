@@ -20,7 +20,6 @@ target: "Corporeal undead creature touched"
 duration: "10 minutes/level (D)"
 defense: "Yes (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/spells/Fleshy Facade|Fleshy Facade (PF1)]]"
 status: draft

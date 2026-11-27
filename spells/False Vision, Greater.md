@@ -19,7 +19,6 @@ target: "One creature"
 duration: "Caster level hour(s)"
 defense: "Will"
 spell-resistance: "No"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/False Vision, Greater|False Vision, Greater (PF1 F)]]"
 status: draft

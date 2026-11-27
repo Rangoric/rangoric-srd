@@ -18,7 +18,6 @@ target: "One creature"
 duration: "1 hour/level"
 defense: "Will (harmless)"
 spell-resistance: "No"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Ward Of The Season|Ward of the Season (PF1)]]"
 status: draft

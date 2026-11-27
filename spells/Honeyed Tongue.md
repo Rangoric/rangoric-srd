@@ -16,7 +16,6 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "10 minutes/level"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Honeyed Tongue|Honeyed Tongue (PF1)]]"
 status: draft

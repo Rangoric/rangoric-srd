@@ -16,7 +16,6 @@ area: "Cone-shaped emanation"
 duration: "Concentration, up to 10 minutes/level (D)"
 defense: "None"
 spell-resistance: "No"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Detect Aberration|Detect Aberration (PF1)]]"
 status: draft

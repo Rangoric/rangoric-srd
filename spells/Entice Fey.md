@@ -17,7 +17,6 @@ range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "One or two called fey, totaling no more than 12 Hit Dice, which can't appear more than 30 ft. apart"
 duration: "Instantaneous"
 spell-resistance: "No"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Entice Fey|Entice Fey (PF1 F)]]"
 status: draft

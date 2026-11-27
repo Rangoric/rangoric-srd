@@ -22,7 +22,6 @@ target: "One weapon or 50 projectiles, all of which must be together at the time
 duration: "1 minute/level"
 defense: "Will (harmless, object)"
 spell-resistance: "Yes (harmless, object)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Versatile Weapon|Versatile Weapon (PF1)]]"
 status: draft

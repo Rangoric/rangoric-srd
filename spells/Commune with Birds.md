@@ -20,7 +20,6 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "10 minutes; see text"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Commune With Birds|Commune with Birds (PF1)]]"
 status: draft

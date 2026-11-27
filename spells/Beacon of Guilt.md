@@ -19,7 +19,6 @@ target: "One object"
 duration: "24 hours or until discharged, then instantaneous"
 defense: "Will (object); see text"
 spell-resistance: "Yes"
-book: "Villain Codex"
 based-on:
   - "[[path srd 3.5 foundry/spells/Beacon of Guilt|Beacon of Guilt (PF1 F)]]"
 status: draft

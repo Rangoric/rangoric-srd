@@ -15,7 +15,6 @@ target: "One projectile"
 duration: "1 round/level or until discharged"
 defense: "None"
 spell-resistance: "No"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Divine Arrow|Divine Arrow (PF1)]]"
 status: draft

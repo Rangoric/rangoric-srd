@@ -15,7 +15,6 @@ range: "Touch"
 duration: "Permanent and 1 hour/level (see text)"
 defense: "Fortitude"
 spell-resistance: "Yes"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Crimson Confession|Crimson Confession (PF1)]]"
 status: draft

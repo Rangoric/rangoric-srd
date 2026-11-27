@@ -22,7 +22,6 @@ area: "20-foot radius spread"
 duration: "1 round(s)"
 defense: "Will partial (see text)"
 spell-resistance: "Yes"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Conjuration Foil|Conjuration Foil (PF1 F)]]"
 status: draft

@@ -15,7 +15,6 @@ target: "One creature who has just struck you with an attack"
 duration: "1 round/level"
 defense: "Fortitude partial"
 spell-resistance: "Yes"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Retribution|Retribution (PF1)]]"
 status: draft

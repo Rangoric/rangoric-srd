@@ -14,7 +14,6 @@ target: "Weapon touched"
 duration: "1 minute/level"
 defense: "Will (harmless, object), see text"
 spell-resistance: "Yes (harmless, object), see text"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Instrument Of Agony|Instrument of Agony (PF1)]]"
 status: draft

@@ -19,7 +19,6 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 duration: "1 round/level; see text"
 spell-resistance: "No"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/spells/Fey Gate|Fey Gate (PF1 F)]]"
 status: draft

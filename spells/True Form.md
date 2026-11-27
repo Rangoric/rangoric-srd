@@ -17,7 +17,6 @@ target: "Up to one creature/3 levels, no two of which can be more than 30 ft. ap
 duration: "1 round/level"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/True Form|True Form (PF1)]]"
 status: draft

@@ -15,7 +15,6 @@ components:
 casting-time: "1 standard action"
 defense: "Reflex partial (see text)"
 spell-resistance: "No"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Thorny Entanglement|Thorny Entanglement (PF1)]]"
 status: draft

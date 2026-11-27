@@ -18,7 +18,6 @@ area: "10-ft.-radius emanation centered on you"
 duration: "1 minute/level (D)"
 defense: "None"
 spell-resistance: "Yes"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Anti-Incorporeal Shell|Anti-Incorporeal Shell (PF1)]]"
 status: draft

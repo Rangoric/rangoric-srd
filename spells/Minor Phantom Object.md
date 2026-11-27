@@ -18,7 +18,6 @@ effect: "Phantasmal, unattended, nonmagical object of nonliving plant matter, up
 duration: "10 minutes/level (D)"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Minor Phantom Object|Minor Phantom Object (PF1)]]"
 status: draft

@@ -18,7 +18,6 @@ target: "Object touched"
 duration: "10 minutes/level"
 defense: "None"
 spell-resistance: "No"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Discovery Torch|Discovery Torch (PF1)]]"
 status: draft

@@ -15,7 +15,6 @@ target: "One animal sculpture"
 duration: "10 minutes/level"
 defense: "None"
 spell-resistance: "No (harmless)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Blood Sentinel|Blood Sentinel (PF1)]]"
 status: draft

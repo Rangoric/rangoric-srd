@@ -19,7 +19,6 @@ target: "Your companion creature"
 duration: "1 hour/level (D)"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Shield Companion|Shield Companion (PF1)]]"
 status: draft

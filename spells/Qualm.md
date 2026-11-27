@@ -23,7 +23,6 @@ target: "One creature"
 duration: "1 minute/level or until discharged"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Qualm|Qualm (PF1)]]"
 status: draft

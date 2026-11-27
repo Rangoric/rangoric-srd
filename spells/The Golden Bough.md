@@ -15,7 +15,6 @@ target: "You plus one additional creature touched per two levels"
 duration: "See text"
 defense: "None"
 spell-resistance: "Yes"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/The Golden Bough|The Golden Bough (Spells & Magic)]]"
 status: draft

@@ -19,7 +19,6 @@ area: "Immobile 10-ft.-radius emanation"
 duration: "1 hour/level"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Alter Winds|Alter Winds (PF1)]]"
 status: draft

@@ -18,7 +18,6 @@ target: "You"
 duration: "1 minute/level (D)"
 defense: "Fortitude partial (see text)"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Eruptive Pustules|Eruptive Pustules (PF1)]]"
 status: draft

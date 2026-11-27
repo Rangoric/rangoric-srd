@@ -24,7 +24,6 @@ target: "One intelligent creature"
 duration: "Caster level minute(s)"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/They Know|They Know (PF1 F)]]"
 status: draft

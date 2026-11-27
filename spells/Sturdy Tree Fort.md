@@ -15,7 +15,6 @@ range: "Touch"
 effect: "One large tree and a sturdy wooden house"
 duration: "Caster level hour(s)"
 spell-resistance: "No"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/spells/Sturdy Tree Fort|Sturdy Tree Fort (PF1 F)]]"
 status: draft

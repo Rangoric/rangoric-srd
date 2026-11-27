@@ -14,7 +14,6 @@ target: "You and touched willing creatures weighing up to 50 lb./level"
 duration: "10 minutes/level"
 defense: "None"
 spell-resistance: "No"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Stray From Path|Stray From Path (Faeries)]]"
 status: draft

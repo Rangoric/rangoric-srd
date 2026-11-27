@@ -19,7 +19,6 @@ target: "One quasi-real wolflike creature"
 duration: "1 hour/level (D) or 1 round/level; see text"
 defense: "None (see description)"
 spell-resistance: "No"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Ghost Wolf|Ghost Wolf (PF1)]]"
 status: draft

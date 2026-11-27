@@ -22,7 +22,6 @@ area: "30-ft.-radius spread centered on you"
 duration: "1 round, then instantaneous"
 defense: "Reflex half"
 spell-resistance: "Yes"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Detonate|Detonate (PF1)]]"
 status: draft

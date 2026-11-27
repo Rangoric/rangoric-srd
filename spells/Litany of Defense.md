@@ -16,7 +16,6 @@ target: "You"
 duration: "1 round"
 defense: "No"
 spell-resistance: "Yes"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Litany Of Defense|Litany of Defense (PF1)]]"
 status: draft

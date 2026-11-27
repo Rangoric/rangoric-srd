@@ -15,7 +15,6 @@ range: "2 mi."
 area: "2-mile-radius circle, centered on you; see text"
 duration: "4d12 hours; see text"
 spell-resistance: "No"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/spells/Wandering Weather|Wandering Weather (PF1 F)]]"
 status: draft

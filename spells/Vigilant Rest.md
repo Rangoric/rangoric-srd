@@ -25,7 +25,6 @@ target: "1 living creature touched"
 duration: "8 hour(s)"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/spells/Vigilant Rest|Vigilant Rest (PF1 F)]]"
 status: draft

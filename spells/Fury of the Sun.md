@@ -18,7 +18,6 @@ targets: "One creature"
 duration: "10 minutes/level"
 defense: "Fortitude"
 spell-resistance: "Yes"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Fury Of The Sun|Fury of the Sun (PF1)]]"
 status: draft

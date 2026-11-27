@@ -17,7 +17,6 @@ area: "10-ft.-radius emanation centered on a creature, object, or point in space
 duration: "Caster level round(s)"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Disrupt Silence|Disrupt Silence (PF1 F)]]"
 status: draft

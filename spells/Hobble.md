@@ -22,7 +22,6 @@ target: "One creature/level, no two of which can be more than 20 feet apart"
 duration: "Caster level round(s)"
 defense: "Fortitude"
 spell-resistance: "Yes"
-book: "Villain Codex"
 based-on:
   - "[[path srd 3.5 foundry/spells/Hobble|Hobble (PF1 F)]]"
 status: draft

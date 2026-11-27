@@ -14,7 +14,6 @@ area: "Cone-shaped burst"
 duration: "Instantaneous"
 defense: "Reflex"
 spell-resistance: "No"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Chord Of Shards|Chord of Shards (PF1)]]"
 status: draft

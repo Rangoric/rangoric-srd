@@ -14,7 +14,6 @@ range: "Touch"
 target: "One afflicted creature"
 duration: "Instantaneous"
 spell-resistance: "Yes"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Withdraw Affliction|Withdraw Affliction (PF1 F)]]"
 status: draft

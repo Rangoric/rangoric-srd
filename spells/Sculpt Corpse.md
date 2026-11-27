@@ -15,7 +15,6 @@ target: "One dead creature touched"
 duration: "Instantaneous"
 defense: "Will partial; see text"
 spell-resistance: "No"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Sculpt Corpse|Sculpt Corpse (PF1)]]"
 status: draft

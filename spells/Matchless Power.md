@@ -14,7 +14,6 @@ target: "Creature touched"
 duration: "1 minute/level"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Matchless Power|Matchless Power (Spells & Magic)]]"
 status: draft

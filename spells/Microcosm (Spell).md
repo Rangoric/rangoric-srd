@@ -18,7 +18,6 @@ target: "One or more creatures"
 duration: "Permanent"
 defense: "Will partial (see text)"
 spell-resistance: "Yes"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Microcosm|Microcosm (PF1 Foundry)]]"
 status: draft

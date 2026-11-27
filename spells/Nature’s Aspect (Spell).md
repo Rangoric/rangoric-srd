@@ -20,7 +20,6 @@ area: "All allies within 50 ft."
 duration: "1 minute/level"
 defense: "None"
 spell-resistance: "Yes (harmless)"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Nature’s Aspect|Nature’s Aspect (Faeries)]]"
 status: draft

@@ -17,7 +17,6 @@ casting-time: "1 standard action"
 range: "Personal"
 effect: "Creates one ooze duplicate of the caster"
 duration: "1 round/level"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Vomit Twin|Vomit Twin (PF1)]]"
 status: draft

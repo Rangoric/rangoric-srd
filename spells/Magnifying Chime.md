@@ -17,7 +17,6 @@ effect: "Disruptive vibrations"
 duration: "1 round/level"
 defense: "Fortitude half (see text)"
 spell-resistance: "Yes"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Magnifying Chime|Magnifying Chime (PF1)]]"
 status: draft

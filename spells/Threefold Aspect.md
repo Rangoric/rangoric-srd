@@ -13,7 +13,6 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "24 hours (D)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Threefold Aspect|Threefold Aspect (PF1)]]"
 status: draft

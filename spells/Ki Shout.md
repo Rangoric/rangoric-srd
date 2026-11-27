@@ -18,7 +18,6 @@ target: "One living creature"
 duration: "Instantaneous"
 defense: "Fortitude partial"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Ki Shout|Ki Shout (PF1)]]"
 status: draft

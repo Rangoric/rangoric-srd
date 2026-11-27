@@ -15,7 +15,6 @@ target: "One creature"
 duration: "Instantaneous and 1 minute"
 defense: "Fortitude"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Persuasive Goad|Persuasive Goad (PF1)]]"
 status: draft

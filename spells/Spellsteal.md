@@ -16,7 +16,6 @@ target: "One creature"
 duration: "Instantaneous and see text"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/spells/Spellsteal|Spellsteal (PF1)]]"
 status: draft

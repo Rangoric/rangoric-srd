@@ -18,7 +18,6 @@ target: "One creature"
 duration: "1 round(s)"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Crime of Opportunity|Crime of Opportunity (PF1 F)]]"
 status: draft

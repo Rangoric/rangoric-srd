@@ -15,7 +15,6 @@ target: "One object; see text"
 duration: "1 hour/level or until you return to your body"
 defense: "Will; see text"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Possess Object|Possess Object (PF1)]]"
 status: draft

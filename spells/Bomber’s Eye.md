@@ -10,7 +10,6 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 round/level"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Bomber's Eye|Bomber’s Eye (PF1)]]"
 status: draft

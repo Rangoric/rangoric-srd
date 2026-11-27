@@ -26,7 +26,6 @@ target: "All creatures within a 300-ft.-radius burst centered on you"
 duration: "Concentration + 1 round/level (D)"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Nixie's Lure|Nixie’s Lure (PF1)]]"
 status: draft

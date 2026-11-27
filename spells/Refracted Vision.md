@@ -18,7 +18,6 @@ target: "You"
 duration: "1 round/level (D)"
 defense: "None"
 spell-resistance: "No"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Refracted Vision|Refracted Vision (Spells & Magic)]]"
 status: draft

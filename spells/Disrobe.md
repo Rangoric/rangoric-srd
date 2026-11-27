@@ -20,7 +20,6 @@ target: "One creature and its clothes"
 duration: "Instantaneous"
 defense: "See text"
 spell-resistance: "Yes"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Disrobe|Disrobe (Faeries)]]"
 status: draft

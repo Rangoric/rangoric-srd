@@ -13,7 +13,6 @@ target: "One undead creature touched (see text)"
 duration: "Instantaneous"
 defense: "Will half (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Repair Undead|Repair Undead (PF1)]]"
 status: draft

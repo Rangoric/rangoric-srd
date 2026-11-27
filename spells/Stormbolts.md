@@ -21,7 +21,6 @@ area: "A 30-ft.-radius spread, centered on you"
 duration: "Instantaneous"
 defense: "Fortitude partial"
 spell-resistance: "Yes"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Stormbolts|Stormbolts (PF1)]]"
 status: draft

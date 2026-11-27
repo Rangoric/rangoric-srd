@@ -4,7 +4,6 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Sor/Wiz 5"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Flight of the Wind|Flight of the Wind (Spells & Magic)]]"
 status: draft

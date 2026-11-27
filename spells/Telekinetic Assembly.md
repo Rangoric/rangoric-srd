@@ -17,7 +17,6 @@ target: "One disassembled siege engine"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "No"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Telekinetic Assembly|Telekinetic Assembly (PF1)]]"
 status: draft

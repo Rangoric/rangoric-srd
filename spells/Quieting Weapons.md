@@ -23,7 +23,6 @@ target: "Up to one natural or manufactured weapon per 3 caster levels"
 duration: "10 * caster level minute(s)"
 defense: "Will (object)"
 spell-resistance: "Yes"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Quieting Weapons|Quieting Weapons (PF1 F)]]"
 status: draft

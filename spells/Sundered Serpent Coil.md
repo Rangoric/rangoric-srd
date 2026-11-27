@@ -19,7 +19,6 @@ area: "One 5-foot square"
 duration: "1 round/level (D)"
 defense: "None"
 spell-resistance: "No"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/spells/Sundered Serpent Coil|Sundered Serpent Coil (PF1)]]"
 status: draft

@@ -17,7 +17,6 @@ casting-time: "1 round"
 range: "Personal"
 target: "You"
 duration: "1 hour/level"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Deadeye's Lore|Deadeye’s Lore (PF1)]]"
 status: draft

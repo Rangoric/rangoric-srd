@@ -12,7 +12,6 @@ target: "You"
 duration: "1 round"
 defense: "None"
 spell-resistance: "No"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Mental Barrier V|Mental Barrier V (PF1 Foundry)]]"
 status: draft

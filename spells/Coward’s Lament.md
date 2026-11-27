@@ -17,7 +17,6 @@ target: "One living creature"
 duration: "1 round/level (D)"
 defense: "Will partial"
 spell-resistance: "Yes"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Coward's Lament|Coward’s Lament (PF1)]]"
 status: draft

@@ -18,7 +18,6 @@ target: "One animal or magical beast."
 duration: "1 round/level"
 defense: "Fortitude (and Will special, see text)"
 spell-resistance: "Yes"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Pup Shape|Pup Shape (PF1)]]"
 status: draft

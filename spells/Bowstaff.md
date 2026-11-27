@@ -16,7 +16,6 @@ target: "One weapon (bow)"
 duration: "1 round/level (D)"
 defense: "Will (harmless, object)"
 spell-resistance: "Yes (harmless, object)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Bowstaff|Bowstaff (PF1)]]"
 status: draft

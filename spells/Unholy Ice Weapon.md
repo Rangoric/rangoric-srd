@@ -13,7 +13,6 @@ components:
   - "V"
   - "S"
   - "M"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Unholy Ice Weapon|Unholy Ice Weapon (PF1)]]"
 status: draft

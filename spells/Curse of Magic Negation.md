@@ -22,7 +22,6 @@ target: "One creature"
 duration: "10 minute/level"
 defense: "Will"
 spell-resistance: "No"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Curse Of Magic Negation|Curse of Magic Negation (PF1)]]"
 status: draft

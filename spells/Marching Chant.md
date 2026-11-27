@@ -15,7 +15,6 @@ targets: "One creature/level"
 duration: "Concentration"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Marching Chant|Marching Chant (PF1)]]"
 status: draft

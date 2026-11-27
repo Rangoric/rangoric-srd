@@ -10,7 +10,6 @@ components:
 casting-time: "1 standard action"
 range: "Personal"
 duration: "2 rounds/level (D)"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Powershell|Powershell (Spells & Magic)]]"
 status: draft

@@ -17,7 +17,6 @@ target: "One scarf"
 duration: "1 round/level"
 defense: "None"
 spell-resistance: "No"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Silk To Steel|Silk to Steel (PF1)]]"
 status: draft

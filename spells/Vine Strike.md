@@ -20,7 +20,6 @@ target: "You"
 duration: "Caster level minute(s)"
 defense: "Reflex (see text)"
 spell-resistance: "Yes"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/spells/Vine Strike|Vine Strike (PF1 F)]]"
 status: draft

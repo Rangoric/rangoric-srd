@@ -19,7 +19,6 @@ casting-time: "1 swift action"
 range: "Personal"
 target: "You"
 duration: "See text"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Burst Of Speed|Burst of Speed (PF1)]]"
 status: draft

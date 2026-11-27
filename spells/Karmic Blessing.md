@@ -16,7 +16,6 @@ target: "Creature touched"
 duration: "1 round/level"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Karmic Blessing|Karmic Blessing (PF1)]]"
 status: draft

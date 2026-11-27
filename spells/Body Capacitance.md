@@ -15,7 +15,6 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 minute/level or until discharged (see text)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Body Capacitance|Body Capacitance (PF1)]]"
 status: draft

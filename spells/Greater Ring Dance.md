@@ -16,7 +16,6 @@ target: "2 creatures/level"
 duration: "Instantaneous"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Greater Ring Dance|Greater Ring Dance (Faeries)]]"
 status: draft

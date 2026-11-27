@@ -17,7 +17,6 @@ area: "20-ft.-radius emanation"
 duration: "2 hours/level"
 defense: "None"
 spell-resistance: "No"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Sacred Space|Sacred Space (PF1)]]"
 status: draft

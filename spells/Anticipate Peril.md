@@ -23,7 +23,6 @@ target: "Creature touched"
 duration: "1 minute/level or until activated"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Anticipate Peril|Anticipate Peril (PF1)]]"
 status: draft

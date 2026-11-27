@@ -22,7 +22,6 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "Instantaneous"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Recharge Innate Magic|Recharge Innate Magic (PF1)]]"
 status: draft

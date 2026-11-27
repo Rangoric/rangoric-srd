@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Spells"
-book: "Pathfinder Unchained"
 based-on:
   - "[[path srd 3.5/classes/Summoner (Unchained)#Unchained Summoner Spell List|Unchained Summoner (PF1)]]"
 status: draft

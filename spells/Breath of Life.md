@@ -16,7 +16,6 @@ target: "Creature touched"
 duration: "Instantaneous"
 defense: "Will (harmless) or Will half, see text"
 spell-resistance: "Yes (harmless) or yes, see text"
-book: "Core Rulebook"
 based-on:
   - "[[path srd 3.5/spells/Breath Of Life|Breath of Life (PF1)]]"
 status: draft

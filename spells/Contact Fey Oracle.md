@@ -14,7 +14,6 @@ casting-time: "10 minutes"
 range: "Personal"
 target: "You"
 duration: "Concentration"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Contact Fey Oracle|Contact Fey Oracle (Faeries)]]"
 status: draft

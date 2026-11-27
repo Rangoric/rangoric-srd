@@ -13,7 +13,6 @@ effect: "See text"
 duration: "10 minutes/level"
 defense: "See text"
 spell-resistance: "Yes"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Prismatic Helix|Prismatic Helix (Spells & Magic)]]"
 status: draft

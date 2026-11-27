@@ -5,7 +5,6 @@ school: "Abjuration"
 level:
   - "Sor/Wiz 4"
 targets: "One creature or object, plus one creature or object/5 levels"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Precision Dispel Magic|Precision Dispel Magic (Spells & Magic)]]"
 status: draft

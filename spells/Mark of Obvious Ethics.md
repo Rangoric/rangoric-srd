@@ -15,7 +15,6 @@ target: "Creature touched"
 duration: "1 day/level"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Mark Of Obvious Ethics|Mark of Obvious Ethics (PF1)]]"
 status: draft

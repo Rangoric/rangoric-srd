@@ -17,7 +17,6 @@ target: "One creature"
 duration: "3 rounds"
 defense: "Fortitude partial"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Resonating Word|Resonating Word (PF1)]]"
 status: draft

@@ -21,7 +21,6 @@ effect: "Transfer consciousness to an object bearing your likeness"
 duration: "Concentration"
 defense: "Will (see text)"
 spell-resistance: "Yes"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Majestic Image|Majestic Image (PF1 F)]]"
 status: draft

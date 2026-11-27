@@ -18,7 +18,6 @@ area: "5-foot radius burst"
 duration: "1 round/2 levels"
 defense: "Fortitude partial"
 spell-resistance: "Yes"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Frost Fall|Frost Fall (PF1)]]"
 status: draft

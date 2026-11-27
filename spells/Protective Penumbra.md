@@ -20,7 +20,6 @@ target: "Creature touched"
 duration: "10 minutes/level"
 defense: "Will (harmless)"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Protective Penumbra|Protective Penumbra (PF1)]]"
 status: draft

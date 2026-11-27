@@ -13,7 +13,6 @@ target: "You and Your Familiar"
 duration: "1 hour/level (d)"
 defense: "Will (harmless)"
 spell-resistance: "Yes"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/True Sharing|True Sharing (Spells & Magic)]]"
 status: draft

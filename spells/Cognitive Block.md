@@ -17,7 +17,6 @@ target: "One creature"
 duration: "1 round/level"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Cognitive Block (Spell)|Cognitive Block (PF1 Foundry)]]"
 status: draft

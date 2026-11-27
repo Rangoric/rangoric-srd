@@ -23,7 +23,6 @@ target: "One living creature"
 duration: "Permanent"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Life of Crime|Life of Crime (PF1 F)]]"
 status: draft

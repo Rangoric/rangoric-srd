@@ -13,7 +13,6 @@ target: "You"
 duration: "24 hours"
 defense: "None"
 spell-resistance: "No"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Akashic Form|Akashic Form (PF1 Foundry)]]"
 status: draft

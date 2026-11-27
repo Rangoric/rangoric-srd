@@ -19,7 +19,6 @@ target: "Object touched"
 duration: "1 hour/level or until discharged"
 defense: "Fortitude (object)"
 spell-resistance: "No"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Pocketful of Vipers|Pocketful of Vipers (PF1 F)]]"
 status: draft

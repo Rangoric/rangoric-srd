@@ -17,7 +17,6 @@ target: "1 willing living creature"
 duration: "1 minute"
 defense: "None"
 spell-resistance: "No"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/spells/Transfer Regeneration|Transfer Regeneration (PF1)]]"
 status: draft

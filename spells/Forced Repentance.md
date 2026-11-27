@@ -19,7 +19,6 @@ target: "One evil creature without the evil subtype"
 duration: "1 round/level"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Forced Repentance|Forced Repentance (PF1)]]"
 status: draft

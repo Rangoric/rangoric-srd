@@ -22,7 +22,6 @@ target: "One creature"
 duration: "Instantaneous; see text"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Mindwipe|Mindwipe (PF1 F)]]"
 status: draft

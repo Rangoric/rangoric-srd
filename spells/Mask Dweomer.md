@@ -17,7 +17,6 @@ target: "Creature or object touched"
 duration: "1 day/level (D)"
 defense: "None; see text"
 spell-resistance: "No"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Mask Dweomer|Mask Dweomer (PF1)]]"
 status: draft

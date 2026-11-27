@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Spells"
-book: ["Ultimate Combat", "Occult Adventures"]
 based-on:
   - "[[fantasy srd 3.5/spells/Magic Overview|Magic Overview (3.5)]]"
   - "[[path srd 3.5/rules/core-rulebook/magic/Casting Spells#Bringing Back the Dead|Bringing Back the Dead (PF1)]]"

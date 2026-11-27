@@ -12,7 +12,6 @@ area: "20-ft.-radius emanation centered on you"
 duration: "1 round"
 defense: "None"
 spell-resistance: "Yes (harmless)"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Intellect Fortress I|Intellect Fortress I (PF1 Foundry)]]"
 status: draft

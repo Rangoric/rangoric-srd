@@ -19,7 +19,6 @@ target: "Armor suits or weapons touched"
 duration: "10 minutes/level"
 defense: "Will (harmless, object)"
 spell-resistance: "Yes (harmless, object)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Reinforce Armaments, Communal|Reinforce Armaments, Communal (PF1)]]"
 status: draft

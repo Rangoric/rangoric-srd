@@ -22,7 +22,6 @@ target: "Creatures touched"
 duration: "1 min./level (D)"
 defense: "Will (harmless)"
 spell-resistance: "No; see text"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Protection From Evil, Communal|Protection from Evil, Communal (PF1)]]"
 status: draft

@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Spells"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/classes/Hunter#Spells|Hunter (PF1)]]"
 status: draft

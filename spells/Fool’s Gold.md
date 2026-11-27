@@ -18,7 +18,6 @@ target: "Objects touched"
 duration: "Caster level hour(s)"
 defense: "None or Will disbelief (see text)"
 spell-resistance: "No"
-book: "Villain Codex"
 based-on:
   - "[[path srd 3.5 foundry/spells/Fool's Gold (VC)|Fool’s Gold (PF1 F)]]"
 status: draft

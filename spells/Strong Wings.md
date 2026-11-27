@@ -18,7 +18,6 @@ target: "Creature touched"
 duration: "1 minute/level"
 defense: "Fortitude (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Strong Wings|Strong Wings (PF1)]]"
 status: draft

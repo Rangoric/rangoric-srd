@@ -16,7 +16,6 @@ target: "Creature touched"
 duration: "1 minute/level"
 defense: "None"
 spell-resistance: "Yes"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Blessed Fist|Blessed Fist (PF1)]]"
 status: draft

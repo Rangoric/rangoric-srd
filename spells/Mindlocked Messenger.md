@@ -24,7 +24,6 @@ target: "One willing living creature"
 duration: "Permanent until discharged (see text)"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Mindlocked Messenger|Mindlocked Messenger (PF1)]]"
 status: draft

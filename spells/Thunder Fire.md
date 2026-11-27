@@ -17,7 +17,6 @@ target: "1 loaded firearm"
 duration: "Instantaneous"
 defense: "Will (object), see text"
 spell-resistance: "Yes (object), see text"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Thunder Fire|Thunder Fire (PF1)]]"
 status: draft

@@ -17,7 +17,6 @@ target: "One touched object weighing no more than 10 lbs."
 duration: "Permanent until discharged (D)"
 defense: "Will partial; see text"
 spell-resistance: "No"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Node of Blasting|Node of Blasting (PF1 Foundry)]]"
 status: draft

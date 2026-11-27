@@ -22,7 +22,6 @@ targets: "One creature/level, no two of which can be more than 30 ft. apart"
 duration: "1 round/level"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Serenity|Serenity (PF1)]]"
 status: draft

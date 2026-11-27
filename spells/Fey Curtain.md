@@ -18,7 +18,6 @@ target: "Up to 2 creatures/level"
 duration: "10 minutes/level"
 defense: "None or Will (harmless, object)"
 spell-resistance: "No or Yes (harmless, object)"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Fey Curtain|Fey Curtain (Faeries)]]"
 status: draft

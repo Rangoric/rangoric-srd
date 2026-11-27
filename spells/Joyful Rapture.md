@@ -21,7 +21,6 @@ area: "All allies and opponents within a 60-ft.-radius burst centered on you"
 duration: "Instantaneous"
 defense: "No"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Joyful Rapture|Joyful Rapture (PF1)]]"
 status: draft

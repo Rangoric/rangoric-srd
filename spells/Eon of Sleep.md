@@ -17,7 +17,6 @@ target: "One creature"
 duration: "Permanent"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Zurlein’s Eon of Sleep|Zurlein’s Eon of Sleep (Faeries)]]"
 status: draft

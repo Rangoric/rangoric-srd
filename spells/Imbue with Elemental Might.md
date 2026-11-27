@@ -14,7 +14,6 @@ components:
 duration: "24 hours or until discharged (D)"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Imbue With Elemental Might|Imbue with Elemental Might (PF1)]]"
 status: draft

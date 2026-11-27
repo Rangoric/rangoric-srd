@@ -16,7 +16,6 @@ target: "Eidolon touched"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "No"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Rejuvenate Eidolon, Greater|Rejuvenate Eidolon, Greater (PF1)]]"
 status: draft

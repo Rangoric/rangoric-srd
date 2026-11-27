@@ -19,7 +19,6 @@ range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One humanoid creature"
 duration: "1 round(s)"
 spell-resistance: "Yes"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Psychic Reading|Psychic Reading (PF1 F)]]"
 status: draft

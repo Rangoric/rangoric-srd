@@ -19,7 +19,6 @@ target: "One creature"
 duration: "10 * caster level minute(s)"
 defense: "Will disbelief; see text"
 spell-resistance: "Yes"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Create Mindscape|Create Mindscape (PF1 F)]]"
 status: draft

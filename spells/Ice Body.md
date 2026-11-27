@@ -15,7 +15,6 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 minute/level (D)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Ice Body|Ice Body (PF1)]]"
 status: draft

@@ -18,7 +18,6 @@ target: "Creature touched"
 duration: "1 hour/level (D)"
 defense: "Will (see text)"
 spell-resistance: "Yes"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Longvision|Longvision (Faeries)]]"
 status: draft

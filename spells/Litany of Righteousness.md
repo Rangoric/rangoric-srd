@@ -18,7 +18,6 @@ target: "One creature"
 duration: "1 round"
 defense: "No"
 spell-resistance: "Yes"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Litany Of Righteousness|Litany of Righteousness (PF1)]]"
 status: draft

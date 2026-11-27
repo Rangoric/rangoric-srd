@@ -16,7 +16,6 @@ target: "One living creature/2 levels (no two of which may be more than 30 feet 
 duration: "1 round/level"
 defense: "Fortitude partial"
 spell-resistance: "Yes"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Suffocation, Mass|Suffocation, Mass (PF1)]]"
 status: draft

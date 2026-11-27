@@ -14,7 +14,6 @@ range: "Personal"
 target: "You"
 duration: "Instantaneous"
 spell-resistance: "No"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/spells/Signs of the Land|Signs of the Land (PF1 F)]]"
 status: draft

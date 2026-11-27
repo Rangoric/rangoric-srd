@@ -16,7 +16,6 @@ target: "One creature"
 duration: "1 day/level or until discharged (D)"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Crafter's Fortune|Crafter’s Fortune (PF1)]]"
 status: draft

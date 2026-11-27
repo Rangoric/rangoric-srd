@@ -13,7 +13,6 @@ target: "Armor touched"
 duration: "2 hours/level (D)"
 defense: "Reflex"
 spell-resistance: "No"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Insubstantial Armor|Insubstantial Armor (Spells & Magic)]]"
 status: draft

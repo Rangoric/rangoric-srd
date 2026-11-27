@@ -16,7 +16,6 @@ target: "One eidolon"
 duration: "1 minute/level (D)"
 defense: "None"
 spell-resistance: "No"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Summon Eidolon|Summon Eidolon (PF1)]]"
 status: draft

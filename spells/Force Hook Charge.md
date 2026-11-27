@@ -17,7 +17,6 @@ target: "One creature or object within range and you"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Force Hook Charge|Force Hook Charge (PF1)]]"
 status: draft

@@ -16,7 +16,6 @@ target: "One arrow or bolt"
 duration: "Instantaneous"
 defense: "Fortitude; see text"
 spell-resistance: "Yes"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Venomous Bolt|Venomous Bolt (PF1)]]"
 status: draft

@@ -13,7 +13,6 @@ components:
 casting-time: "1 standard action"
 range: "Personal"
 spell-resistance: "No"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/True Prognostication|True Prognostication (PF1 F)]]"
 status: draft

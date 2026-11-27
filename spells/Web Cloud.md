@@ -15,7 +15,6 @@ effect: "Cloud spreads in 20-ft. radius, 20 ft. high"
 duration: "1 minute/level"
 defense: "Reflex partial; see text"
 spell-resistance: "No"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Web Cloud|Web Cloud (PF1)]]"
 status: draft

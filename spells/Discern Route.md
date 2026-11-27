@@ -24,7 +24,6 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One fey crossroad or *doorway*"
 duration: "1 minute"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Discern Route|Discern Route (Faeries)]]"
 status: draft

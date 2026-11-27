@@ -20,7 +20,6 @@ effect: "One symbol"
 duration: "See text"
 defense: "Will half (harmless) (see text)"
 spell-resistance: "Yes (harmless) (see text)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Symbol Of Healing|Symbol of Healing (PF1)]]"
 status: draft

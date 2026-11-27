@@ -22,7 +22,6 @@ area: "One 10-ft. cube per level"
 duration: "1 day/level"
 defense: "Will disbelief"
 spell-resistance: "Yes"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Village Veil|Village Veil (PF1)]]"
 status: draft

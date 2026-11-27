@@ -23,7 +23,6 @@ target: "One creature"
 duration: "1 hour/level"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Sleepwalking|Sleepwalking (Faeries)]]"
 status: draft

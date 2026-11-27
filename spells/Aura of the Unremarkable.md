@@ -22,7 +22,6 @@ target: "Non-allied creatures within a 30-ft. emanation"
 duration: "1 minute/level (D) and instantaneous"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Aura of the Unremarkable|Aura of the Unremarkable (PF1 F)]]"
 status: draft

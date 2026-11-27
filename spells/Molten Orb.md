@@ -16,7 +16,6 @@ effect: "Ranged attack"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "Yes"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Molten Orb|Molten Orb (PF1)]]"
 status: draft

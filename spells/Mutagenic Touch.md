@@ -14,7 +14,6 @@ target: "Creature touched"
 duration: "Special (see below)"
 defense: "Fortitude (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Mutagenic Touch|Mutagenic Touch (PF1)]]"
 status: draft

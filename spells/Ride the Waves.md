@@ -21,7 +21,6 @@ target: "Creature touched"
 duration: "1 hour/level (D)"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Ride The Waves|Ride the Waves (PF1)]]"
 status: draft

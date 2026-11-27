@@ -22,7 +22,6 @@ effect: "One or more stone discuses"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "No"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Stone Discus|Stone Discus (PF1)]]"
 status: draft

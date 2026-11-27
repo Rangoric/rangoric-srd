@@ -24,7 +24,6 @@ target: "One creature/level, no two of which can be more than 30 ft. apart."
 duration: "Caster level round(s)"
 defense: "Will partial; see text"
 spell-resistance: "Yes"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Inflict Pain, Mass|Inflict Pain, Mass (PF1 F)]]"
 status: draft

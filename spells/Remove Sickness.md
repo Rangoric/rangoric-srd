@@ -19,7 +19,6 @@ target: "One creature"
 duration: "10 minutes/level; see text"
 defense: "Fortitude (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Remove Sickness|Remove Sickness (PF1)]]"
 status: draft

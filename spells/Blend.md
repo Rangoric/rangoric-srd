@@ -20,7 +20,6 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "10 minutes/level"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Blend|Blend (PF1)]]"
 status: draft

@@ -20,7 +20,6 @@ target: "One corpse"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "No"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Animate Dead, Lesser|Animate Dead, Lesser (PF1)]]"
 status: draft

@@ -15,7 +15,6 @@ range: "Touch"
 target: "One willing petitioner"
 duration: "Instantaneous"
 spell-resistance: "No"
-book: "Planar Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Judgment Undone|Judgment Undone (PF1 F)]]"
 status: draft

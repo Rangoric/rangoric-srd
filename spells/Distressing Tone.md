@@ -17,7 +17,6 @@ target: "1d4 living creatures"
 duration: "1 round/level"
 defense: "Fortitude"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Distressing Tone|Distressing Tone (PF1)]]"
 status: draft

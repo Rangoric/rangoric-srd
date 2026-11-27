@@ -18,7 +18,6 @@ area: "10-ft.-radius spread"
 duration: "Instantaneous"
 defense: "Reflex (object)"
 spell-resistance: "Yes (object)"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Ironblight|Ironblight (Faeries)]]"
 status: draft

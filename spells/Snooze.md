@@ -19,7 +19,6 @@ target: "One creature"
 duration: "1 minute/level"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Snooze|Snooze (Faeries)]]"
 status: draft

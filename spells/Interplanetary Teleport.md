@@ -15,7 +15,6 @@ target: "You and touched objects or other touched willing creatures"
 duration: "Instantaneous"
 defense: "None and Will (object)"
 spell-resistance: "No and yes (object)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Interplanetary Teleport|Interplanetary Teleport (PF1)]]"
 status: draft

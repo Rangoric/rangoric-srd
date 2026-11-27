@@ -15,7 +15,6 @@ range: "Long (400 ft. + 40 ft./level)"
 effect: "Opulent mansion, up to 300 feet on a side and one story tall/4 levels"
 duration: "Caster level day(s)"
 spell-resistance: "No"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Resplendent Mansion|Resplendent Mansion (PF1 F)]]"
 status: draft

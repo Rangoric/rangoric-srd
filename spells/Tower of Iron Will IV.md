@@ -12,7 +12,6 @@ area: "10-ft.-radius emanation centered on you"
 duration: "4 rounds"
 defense: "None"
 spell-resistance: "Yes (harmless)"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Tower of Iron Will IV|Tower of Iron Will IV (PF1 Foundry)]]"
 status: draft

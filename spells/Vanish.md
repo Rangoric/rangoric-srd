@@ -20,7 +20,6 @@ target: "Creature touched"
 duration: "1 round/level (up to 5 rounds) (D)"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Vanish|Vanish (PF1)]]"
 status: draft

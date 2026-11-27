@@ -17,7 +17,6 @@ target: "Living creature touched"
 duration: "Instantaneous; see text"
 defense: "Fortitude (see text)"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Toxic Gift|Toxic Gift (PF1)]]"
 status: draft

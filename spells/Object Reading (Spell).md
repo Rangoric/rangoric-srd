@@ -19,7 +19,6 @@ target: "One touched object"
 duration: "Concentration, up to 1 round/level (D)"
 defense: "None"
 spell-resistance: "No"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Object Reading (Spell)|Object Reading (PF1 Foundry)]]"
 status: draft

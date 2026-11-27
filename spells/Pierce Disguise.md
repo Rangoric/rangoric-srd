@@ -18,7 +18,6 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 minute/level"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Pierce Disguise|Pierce Disguise (PF1)]]"
 status: draft

@@ -18,7 +18,6 @@ target: "Creatures or objects touched"
 duration: "1 hour/level"
 defense: "Will (harmless, object)"
 spell-resistance: "Yes (harmless, object)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Nondetection, Communal|Nondetection, Communal (PF1)]]"
 status: draft

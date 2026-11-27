@@ -20,7 +20,6 @@ target: "One creature"
 duration: "Instantaneous"
 defense: "Fortitude"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Eldritch Fever|Eldritch Fever (PF1)]]"
 status: draft

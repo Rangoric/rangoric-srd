@@ -16,7 +16,6 @@ effect: "Call the spirit of a single deceased humanoid creature"
 duration: "Concentration"
 defense: "Will; see text"
 spell-resistance: "No"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Call Spirit (Spell)|Call Spirit (PF1 F)]]"
 status: draft

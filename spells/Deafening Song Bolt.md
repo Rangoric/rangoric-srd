@@ -16,7 +16,6 @@ target: "Up to 3 creatures, no two of which can be more than 30 ft. apart"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "No"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Deafening Song Bolt|Deafening Song Bolt (PF1)]]"
 status: draft

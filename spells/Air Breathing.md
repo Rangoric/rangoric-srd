@@ -24,7 +24,6 @@ target: "Living aquatic creatures touched"
 duration: "2 hours/level; see text"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/spells/Air Breathing|Air Breathing (PF1)]]"
 status: draft

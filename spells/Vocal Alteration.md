@@ -22,7 +22,6 @@ target: "One humanoid creature"
 duration: "1 minute/level"
 defense: "Fortitude"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Vocal Alteration|Vocal Alteration (PF1)]]"
 status: draft

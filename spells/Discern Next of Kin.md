@@ -25,7 +25,6 @@ target: "One creature"
 duration: "Concentration, up to 1 minute/level (D)"
 defense: "Will (see text)"
 spell-resistance: "Yes"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Discern Next Of Kin|Discern Next of Kin (PF1)]]"
 status: draft

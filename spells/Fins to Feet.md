@@ -18,7 +18,6 @@ target: "Willing creature touched"
 duration: "1 hour/level (D)"
 defense: "None"
 spell-resistance: "Yes"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Fins To Feet|Fins to Feet (PF1)]]"
 status: draft

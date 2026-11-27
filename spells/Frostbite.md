@@ -20,7 +20,6 @@ targets: "Creature touched"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Frostbite|Frostbite (PF1)]]"
 status: draft

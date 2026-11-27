@@ -14,7 +14,6 @@ area: "Allies within a 30-ft.-radius burst centered on you"
 duration: "1 minute/level or until discharged"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Heightened Reflexes|Heightened Reflexes (PF1)]]"
 status: draft

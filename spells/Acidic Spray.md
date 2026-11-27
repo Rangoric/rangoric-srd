@@ -18,7 +18,6 @@ effect: "60-ft. line"
 duration: "Instantaneous"
 defense: "Reflex partial (see text)"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Acidic Spray|Acidic Spray (PF1)]]"
 status: draft

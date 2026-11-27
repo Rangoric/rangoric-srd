@@ -22,7 +22,6 @@ effect: "Translucent wall of sound up to 20 ft. long/level or a ring of sound wi
 duration: "Concentration + 1 round/level"
 defense: "None"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Wall Of Sound|Wall of Sound (PF1)]]"
 status: draft

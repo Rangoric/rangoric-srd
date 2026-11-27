@@ -19,7 +19,6 @@ target: "Creatures and objects in a 10-ft. spread"
 duration: "Instantaneous"
 defense: "Fortitude (fatigue only)"
 spell-resistance: "No"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Dust Of Twilight|Dust of Twilight (PF1)]]"
 status: draft

@@ -16,7 +16,6 @@ effect: "Arrow-shaped projectile of evil energy"
 duration: "Instantaneous (1d4 rounds)"
 defense: "Will partial (see text)"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Dread Bolt|Dread Bolt (PF1)]]"
 status: draft

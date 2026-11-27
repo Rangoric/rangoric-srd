@@ -18,7 +18,6 @@ target: "All allies within range"
 duration: "1 minute/level"
 defense: "None"
 spell-resistance: "Yes (harmless)"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Litany of the Lost|Litany of the Lost (Spells & Magic)]]"
 status: draft

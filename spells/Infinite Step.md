@@ -6,7 +6,6 @@ descriptor:
   - "Teleportation"
 level:
   - "Sor/Wiz 7"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Infinite Step|Infinite Step (Spells & Magic)]]"
 status: draft

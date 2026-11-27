@@ -23,7 +23,6 @@ effect: "Whiplike swarm"
 duration: "1 round/level (D (see text)"
 defense: "None"
 spell-resistance: "Yes"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Whip Of Spiders|Whip of Spiders (PF1)]]"
 status: draft

@@ -15,7 +15,6 @@ target: "1 firearm"
 duration: "Instantaneous"
 defense: "Will (object); see text"
 spell-resistance: "Yes (object); see text"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Flash Fire|Flash Fire (PF1)]]"
 status: draft

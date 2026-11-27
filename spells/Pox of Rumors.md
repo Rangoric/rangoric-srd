@@ -25,7 +25,6 @@ target: "One creature"
 duration: "Caster level day(s)"
 defense: "Will, then Will partial (see text)"
 spell-resistance: "Yes"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Pox of Rumors|Pox of Rumors (PF1 F)]]"
 status: draft

@@ -19,7 +19,6 @@ effect: "One illusory portal"
 duration: "10 * caster level minute(s)"
 defense: "Will (see text)"
 spell-resistance: "No"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Mindscape Door|Mindscape Door (PF1 F)]]"
 status: draft

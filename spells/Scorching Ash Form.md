@@ -13,7 +13,6 @@ components:
 duration: "1 minute/level"
 defense: "None"
 spell-resistance: "No"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Scorching Ash Form|Scorching Ash Form (PF1)]]"
 status: draft

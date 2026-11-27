@@ -14,7 +14,6 @@ target: "1 pound of soft metal"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "No"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Fabricate Bullets|Fabricate Bullets (PF1)]]"
 status: draft

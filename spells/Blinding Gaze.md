@@ -14,7 +14,6 @@ targets: "One creature/round"
 duration: "1 round/level"
 defense: "Will partial (see text)"
 spell-resistance: "Yes"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Burning Gaze|Burning Gaze (Spells & Magic)]]"
 status: draft

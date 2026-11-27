@@ -16,7 +16,6 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1/round per level"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/See Alignment|See Alignment (PF1)]]"
 status: draft

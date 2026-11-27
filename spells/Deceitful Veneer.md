@@ -21,7 +21,6 @@ target: "One creature"
 duration: "10 * caster level minute(s)"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Deceitful Veneer|Deceitful Veneer (PF1 F)]]"
 status: draft

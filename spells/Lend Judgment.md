@@ -13,7 +13,6 @@ target: "One ally"
 duration: "1 round/level"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Lend Judgment|Lend Judgment (PF1)]]"
 status: draft

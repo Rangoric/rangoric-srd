@@ -17,7 +17,6 @@ effect: "Arrow-shaped projectile of lawful energy"
 duration: "Instantaneous (1 round); see text"
 defense: "Will partial (see text)"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Arrow Of Law|Arrow of Law (PF1)]]"
 status: draft
