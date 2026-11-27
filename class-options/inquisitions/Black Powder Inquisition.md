@@ -3,11 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "inquisition"
 class: ["Inquisitor"]
-based-on:
-  - "[[path srd 3.5/rules/ultimate-combat/class-archetypes/Inquisitor (Class Archetypes)#Black Powder Inquisition|Inquisitor, Black Powder Inquisition (UC)]]"
-  - "[[path srd 3.5 foundry/class-features/Black Powder Inquisition|Black Powder Inquisition (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

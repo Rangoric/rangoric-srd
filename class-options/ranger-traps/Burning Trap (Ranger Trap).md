@@ -6,11 +6,7 @@ class: "Ranger"
 ability-type: "Ex or Su"
 trap-type: "mechanical or magic"
 add-on: true
-based-on:
-  - "[[path srd 3.5/traps/Burning Trap- (Ex or Su)|Burning Trap- (Ex or Su) (PF1)]]"
-  - "[[path srd 3.5 foundry/class-features/Burning Trap-|Burning Trap- (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/class-option, rangoric/trap]
 ---

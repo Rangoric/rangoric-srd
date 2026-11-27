@@ -7,10 +7,7 @@ replaces:
   - "weapon and armor proficiency"
   - "mount (1st)"
   - "expert trainer (4th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Musketeer|Musketeer (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

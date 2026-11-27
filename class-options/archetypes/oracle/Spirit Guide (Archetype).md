@@ -6,10 +6,7 @@ class: ["Oracle"]
 replaces:
   - "mystery (class skills)"
   - "revelation (3rd, 7th, 15th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Spirit Guide|Spirit Guide (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

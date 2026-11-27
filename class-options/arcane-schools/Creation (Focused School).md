@@ -4,10 +4,7 @@ section: "Class Options"
 option-type: "arcane-school"
 class: "Wizard"
 school-type: "focused"
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Creation Subschool|Creation Subschool (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/class-option]
 ---

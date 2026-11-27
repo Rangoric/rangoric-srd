@@ -14,10 +14,7 @@ replaces:
   - "heavy armor (13th)"
   - "greater spell access (19th)"
   - "true magus (20th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Kensai|Kensai (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

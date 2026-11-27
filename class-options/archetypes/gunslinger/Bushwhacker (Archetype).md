@@ -9,10 +9,7 @@ replaces:
   - "utility shot (3rd)"
   - "targeting (7th)"
   - "bonus feats (4th–20th)"
-based-on:
-  - "[[path srd 3.5/races/Kobolds#Bushwhacker (Gunslinger)|Kobolds, Bushwhacker (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

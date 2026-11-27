@@ -3,10 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "patron"
 class: ["Witch"]
-based-on:
-  - "[[path srd 3.5/rules/ultimate-magic/spellcasting-class-options/Witch (Spellcasting Class Options)#Witch Patron Themes|Witch (PF1 UM)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/class-option]
 ---

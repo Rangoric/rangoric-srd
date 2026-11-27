@@ -4,11 +4,7 @@ section: "Class Options"
 option-type: "rage-power"
 class: ["Barbarian", "Skald"]
 level: 6
-based-on:
-  - "[[path srd 3.5/rules/ultimate-combat/class-archetypes/Barbarian (Class Archetypes)#Rage Powers|Spell Sunder (PF1)]]"
-  - "[[path srd 3.5 foundry/class-features/Spell Sunder|Spell Sunder (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

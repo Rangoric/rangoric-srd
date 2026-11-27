@@ -8,10 +8,7 @@ replaces:
   - "domains (1st)"
   - "channel energy (1st)"
   - "turn or rebuke undead (1st)"
-based-on:
-  - "[[path srd 3.5/races/Drow (Race)#Demonic Apostle (Cleric)|Drow, Demonic Apostle (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

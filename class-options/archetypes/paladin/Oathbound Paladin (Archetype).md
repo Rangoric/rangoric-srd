@@ -18,10 +18,7 @@ replaces:
   - "mercy (9th, by oath)"
   - "aura of justice (11th, by oath)"
   - "holy champion (20th, by oath)"
-based-on:
-  - "[[path srd 3.5/archetypes/Oathbound Paladin|Oathbound Paladin (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

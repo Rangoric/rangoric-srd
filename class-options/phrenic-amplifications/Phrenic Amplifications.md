@@ -1,11 +1,7 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Phrenic Amplifications|Phrenic Amplifications (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Major Amplifications|Major Amplifications (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/overview]
 ---

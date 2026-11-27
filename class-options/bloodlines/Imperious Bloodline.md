@@ -4,11 +4,7 @@ section: "Class Options"
 option-type: "bloodline"
 class: "Sorcerer"
 race: "[[rangoric-srd/races/Human|humans]]"
-based-on:
-  - "[[path srd 3.5/races/Humans (Advanced Race Guide)#Imperious Bloodline (Sorcerer)|Humans, imperious bloodline (PF1)]]"
-  - "[[path srd 3.5 foundry/class-features/Imperious Bloodline|Imperious Bloodline (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/class-option]
 ---

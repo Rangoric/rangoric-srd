@@ -8,10 +8,7 @@ replaces:
   - "uncanny dodge (2nd)"
   - "trap sense (3rd–18th)"
   - "improved uncanny dodge (5th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Scarred Rager|Scarred Rager (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

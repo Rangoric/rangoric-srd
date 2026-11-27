@@ -3,12 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "blessing"
 class: ["Warpriest"]
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Tornado Blessing|Tornado Blessing (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Dust Devil|Dust Devil (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Howling Gale|Howling Gale (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

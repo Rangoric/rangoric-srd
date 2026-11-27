@@ -11,10 +11,7 @@ replaces:
   - "resist nature’s lure (4th)"
   - "wild shape (4th; gained at 6th)"
   - "venom immunity (9th)"
-based-on:
-  - "[[path srd 3.5/races/Undines#Undine Adept (Druid)|Undines, Undine Adept (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/class-option]
 ---

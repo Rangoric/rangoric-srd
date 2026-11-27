@@ -4,11 +4,7 @@ section: "Class Options"
 option-type: "evolution"
 class: ["Summoner"]
 evolution-cost: 2
-based-on:
-  - "[[path srd 3.5/classes/Summoner#Evolutions|Summoner, Evolutions (PF1)]]"
-  - "[[path srd 3.5 foundry/eidolon-evolutions/Trip (2 EP)|Trip (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

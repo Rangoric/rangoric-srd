@@ -3,12 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "implement school"
 class: ["Occultist"]
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Transmutation|Transmutation (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Physical Enhancement|Physical Enhancement (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Legacy Weapon|Legacy Weapon (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

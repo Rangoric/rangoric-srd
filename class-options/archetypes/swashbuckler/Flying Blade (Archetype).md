@@ -13,10 +13,7 @@ replaces:
   - "perfect thrust (15th)"
   - "swashbuckler weapon training (5th–17th)"
   - "swashbuckler weapon mastery (20th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Flying Blade (Archetype)|Flying Blade (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

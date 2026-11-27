@@ -10,10 +10,7 @@ replaces:
   - "skill points"
   - "trapfinding (1st)"
   - "danger sense (3rd–12th)"
-based-on:
-  - "[[path srd 3.5/races/Half-Orcs (Advanced Race Guide)#Skulking Slayer (Rogue)|Half-Orcs (Advanced Race Guide), Skulking Slayer (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/class-option]
 ---

@@ -10,10 +10,7 @@ replaces:
   - "quarry (11th)"
   - "improved evasion (16th)"
   - "improved quarry (19th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Guide (Archetype)|Guide (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

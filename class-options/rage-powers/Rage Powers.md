@@ -1,12 +1,7 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-based-on:
-  - "[[path srd 3.5/classes/Barbarian#Rage Powers (Ex)|Barbarian (PF1)]]"
-  - "[[path srd 3.5/classes/Barbarian (Unchained)#Rage Powers (Ex)|Unchained Barbarian (PF1)]]"
-  - "[[path srd 3.5/rules/advanced-class-guide/class-options/Skald (Class Options)#Rage Powers|Skald Class Options (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/overview]
 ---

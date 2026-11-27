@@ -7,10 +7,7 @@ element: ["aether"]
 talent-type: "utility"
 talent-level: 2
 burn: "0"
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Telekinetic Haul|Telekinetic Haul (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

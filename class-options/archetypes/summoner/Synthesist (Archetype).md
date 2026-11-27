@@ -13,10 +13,7 @@ replaces:
   - "greater shield ally (12th)"
   - "life bond (14th)"
   - "merge forms (16th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Synthesist|Synthesist (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

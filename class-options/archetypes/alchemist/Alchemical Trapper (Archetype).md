@@ -7,10 +7,7 @@ race: "Kobold"
 replaces:
   - "discovery (2nd)"
   - "discovery (4th)"
-based-on:
-  - "[[path srd 3.5/rules/monster-codex/kobolds/New Rules (Kobolds)#Alchemical Trapper|Kobolds, Alchemical Trapper (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

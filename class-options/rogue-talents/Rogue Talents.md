@@ -1,12 +1,7 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-based-on:
-  - "[[path srd 3.5/classes/Rogue#Rogue Talents|Rogue (PF1)]]"
-  - "[[path srd 3.5/classes/Rogue (Unchained)#Rogue Talents|Unchained Rogue (PF1)]]"
-  - "[[path srd 3.5/rules/advanced-player-s-guide/core-classes/Rogue (Core Classes)#Rogue Talents|Rogue (Core Classes) (PF1 APG)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/overview]
 ---

@@ -6,10 +6,7 @@ class: ["Barbarian"]
 replaces:
   - "trap sense (3rd–18th)"
   - "damage reduction (7th–19th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Superstitious|Superstitious (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

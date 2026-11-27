@@ -6,10 +6,7 @@ class: ["Rogue", "Slayer"]
 advanced: false
 sneak-attack: true
 level: 2
-based-on:
-  - "[[path srd 3.5/classes/Rogue (Unchained)#Rogue Talents|Unchained Rogue (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/class-option]
 ---

@@ -15,10 +15,7 @@ replaces:
   - "tongue of the sun and moon (17th)"
   - "empty body (19th)"
   - "perfect self (20th)"
-based-on:
-  - "[[path srd 3.5/rules/ultimate-magic/spellcasting-class-options/Monk (Spellcasting Class Options)#Qinggong Monk|Monk (Spellcasting Class Options), Qinggong Monk (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

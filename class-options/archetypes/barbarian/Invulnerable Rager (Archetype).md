@@ -8,10 +8,7 @@ replaces:
   - "trap sense (3rd–18th)"
   - "improved uncanny dodge (5th)"
   - "damage reduction (7th–19th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Invulnerable Rager|Invulnerable Rager (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

@@ -6,10 +6,7 @@ class: ["Witch"]
 race: "Half-Elf"
 replaces:
   - "witch’s familiar"
-based-on:
-  - "[[path srd 3.5/races/Half-Elves (Advanced Race Guide)#Bonded Witch (Witch)|Half-Elves, Bonded Witch (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/class-option]
 ---

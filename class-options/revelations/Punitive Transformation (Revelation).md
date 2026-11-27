@@ -4,11 +4,7 @@ section: "Class Options"
 option-type: "revelation"
 class: ["Oracle"]
 mystery: ["Waves"]
-based-on:
-  - "[[path srd 3.5/classes/Oracle#Waves|Oracle, Waves mystery (PF1)]]"
-  - "[[path srd 3.5 foundry/class-features/Punitive Transformation|Punitive Transformation (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

@@ -4,10 +4,7 @@ section: "Class Options"
 option-type: "subdomain"
 class: ["Cleric", "Druid"]
 domain: ["Air"]
-based-on:
-  - "[[path srd 3.5/rules/advanced-player-s-guide/core-classes/Cleric (Core Classes)#Wind Subdomain|Cleric (APG)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/class-option]
 ---

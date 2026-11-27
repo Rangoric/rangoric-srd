@@ -3,10 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "companion feature"
 class: ["Wizard", "Sorcerer", "Witch", "Arcanist"]
-based-on:
-  - "[[path srd 3.5 foundry/companion-features/Speak with Master (Companion Feature)|Speak with Master (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/class-option]
 ---

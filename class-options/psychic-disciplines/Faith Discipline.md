@@ -4,14 +4,7 @@ section: "Class Options"
 option-type: "psychic discipline"
 class: ["Psychic"]
 phrenic-pool-ability: "Wisdom"
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Faith Discipline|Faith Discipline (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Deity|Deity (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Divine Energy|Divine Energy (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Resilience of the Faithful|Resilience of the Faithful (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Prayer Aura|Prayer Aura (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

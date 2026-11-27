@@ -8,10 +8,7 @@ replaces:
   - "hunter’s bond (4th)"
   - "camouflage (12th)"
   - "hide in plain sight (17th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Horse Lord|Horse Lord (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

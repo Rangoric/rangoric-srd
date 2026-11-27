@@ -9,9 +9,7 @@ replaces:
   - "wild talents (key ability score)"
   - "elemental defense (2nd)"
   - "infusion (5th, 9th, 13th)"
-based-on: []
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

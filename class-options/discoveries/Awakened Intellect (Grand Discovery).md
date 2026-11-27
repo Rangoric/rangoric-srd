@@ -4,11 +4,7 @@ section: "Class Options"
 option-type: "grand-discovery"
 class: ["Alchemist"]
 level: 20
-based-on:
-  - "[[path srd 3.5/classes/Alchemist (Class)#Grand Discovery (Su)|Alchemist, Grand Discovery (PF1)]]"
-  - "[[path srd 3.5 foundry/class-features/Awakened Intellect|Awakened Intellect (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

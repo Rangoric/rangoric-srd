@@ -9,9 +9,7 @@ replaces:
   - "burn (1st)"
   - "internal buffer (6th)"
   - "elemental overflow (3rd)"
-based-on: []
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

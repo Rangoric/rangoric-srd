@@ -7,10 +7,7 @@ element: ["fire"]
 talent-type: "composite blast"
 talent-level: "—"
 burn: "2"
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Blue Flame Blast|Blue Flame Blast (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

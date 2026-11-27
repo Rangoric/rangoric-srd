@@ -10,10 +10,7 @@ replaces:
   - "endurance (3rd)"
   - "evasion (9th)"
   - "improved evasion (16th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Hooded Champion|Hooded Champion (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

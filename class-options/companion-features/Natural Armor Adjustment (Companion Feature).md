@@ -3,10 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "companion feature"
 class: ["Druid"]
-based-on:
-  - "[[path srd 3.5 foundry/companion-features/Natural Armor Bonus|Natural Armor Adjustment (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/class-option]
 ---

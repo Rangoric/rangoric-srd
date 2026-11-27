@@ -10,10 +10,7 @@ replaces:
   - "swashbuckler initiative (3rd)"
   - "menacing swordplay (3rd)"
   - "bleeding wound (11th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Daring Infiltrator|Daring Infiltrator (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

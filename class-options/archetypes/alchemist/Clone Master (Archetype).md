@@ -7,10 +7,7 @@ replaces:
   - "bomb (1st)"
   - "poison resistance +6 (8th)"
   - "poison immunity (10th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Clone Master|Clone Master (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

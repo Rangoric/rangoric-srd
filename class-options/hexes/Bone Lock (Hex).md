@@ -5,10 +5,7 @@ option-type: "hex"
 hex-type: "hex"
 class: ["Shaman"]
 spirit: ["Bones"]
-based-on:
-  - "[[path srd 3.5/classes/Shaman (Class)#Bones|Shaman, Bones spirit (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/class-option]
 ---

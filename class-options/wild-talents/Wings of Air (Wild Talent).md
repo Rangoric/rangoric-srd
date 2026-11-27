@@ -7,10 +7,7 @@ element: ["air"]
 talent-type: "utility"
 talent-level: 3
 burn: "0"
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Wings of Air (Wild Talent)|Wings of Air (Wild Talent) (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

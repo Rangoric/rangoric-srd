@@ -11,10 +11,7 @@ replaces:
   - "greater shield ally (12th)"
   - "greater aspect (18th)"
   - "twin eidolon (20th)"
-based-on:
-  - "[[path srd 3.5/races/Oreads#Shaitan Binder (Summoner)|Oreads, Shaitan Binder (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

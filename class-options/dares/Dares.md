@@ -1,10 +1,7 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-based-on:
-  - "[[path srd 3.5/rules/advanced-class-guide/class-options/Gunslinger (Class Options)#Dares|Gunslinger (PF1 ACG)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/overview]
 ---

@@ -6,10 +6,7 @@ class: ["Warpriest"]
 replaces:
   - "blessings (1st)"
   - "bonus feats (3rd, 6th, 12th, 15th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Divine Commander|Divine Commander (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

@@ -5,11 +5,7 @@ option-type: "discovery"
 class: ["Alchemist"]
 bomb: true
 level: 3
-based-on:
-  - "[[path srd 3.5/rules/ultimate-combat/class-archetypes/Alchemist (Class Archetypes)#Discoveries|Alchemist (Ultimate Combat)]]"
-  - "[[path srd 3.5 foundry/class-features/Immolation Bomb|Immolation Bomb (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

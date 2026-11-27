@@ -3,10 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "vigilante talent"
 class: ["Vigilante"]
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Shadow's Speed|Shadow's Speed (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

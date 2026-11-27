@@ -4,14 +4,7 @@ section: "Class Options"
 option-type: "psychic discipline"
 class: ["Psychic"]
 phrenic-pool-ability: "Charisma"
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Dream Discipline|Dream Discipline (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Dream Leech|Dream Leech (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Oneiromancy|Oneiromancy (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Mind Heist|Mind Heist (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Waking Dream (Psychic)|Waking Dream (Psychic) (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

@@ -5,11 +5,7 @@ option-type: "discovery"
 class: ["Alchemist"]
 bomb: true
 race: "Drow"
-based-on:
-  - "[[path srd 3.5/rules/monster-codex/drow/New Rules (Drow)#Drow Alchemist Discoveries|New Rules (Drow), Drow Alchemist Discoveries (PF1)]]"
-  - "[[path srd 3.5 foundry/class-features/Void Bomb|Void Bomb (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

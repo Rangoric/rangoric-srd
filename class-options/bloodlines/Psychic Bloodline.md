@@ -3,15 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "bloodline"
 class: "Sorcerer"
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Psychic Bloodline|Psychic Bloodline (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Psychic Strike|Psychic Strike (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Mental Resistance|Mental Resistance (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Undercasting Prodigy|Undercasting Prodigy (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Thoughtsense (Sorcerer)|Thoughtsense (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/True Thought-Form|True Thought-Form (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

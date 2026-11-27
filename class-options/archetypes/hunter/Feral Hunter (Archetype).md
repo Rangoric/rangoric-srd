@@ -14,10 +14,7 @@ replaces:
   - "raise animal companion (10th)"
   - "speak with master (11th)"
   - "greater empathic link (14th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Feral Hunter|Feral Hunter (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

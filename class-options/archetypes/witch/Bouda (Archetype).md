@@ -7,10 +7,7 @@ replaces:
   - "witch’s familiar"
   - "hex (1st)"
   - "major hex (10th)"
-based-on:
-  - "[[path srd 3.5/rules/monster-codex/gnolls/New Rules (Gnolls)#Bouda|Gnolls, Bouda (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/class-option]
 ---

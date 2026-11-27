@@ -10,10 +10,7 @@ replaces:
   - "poison immunity (10th)"
   - "bomb 8d6 (15th)"
   - "bomb 9d6 (17th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Psychonaut|Psychonaut (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

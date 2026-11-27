@@ -4,11 +4,7 @@ section: "Class Options"
 option-type: "revelation"
 class: ["Oracle"]
 mystery: ["Stone"]
-based-on:
-  - "[[path srd 3.5/classes/Oracle#Stone|Oracle, Stone mystery (PF1)]]"
-  - "[[path srd 3.5 foundry/class-features/Crystal Sight|Crystal Sight (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

@@ -6,11 +6,7 @@ class: ["Rogue", "Ninja"]
 advanced: true
 sneak-attack: false
 level: 10
-based-on:
-  - "[[path srd 3.5/classes/Rogue#Advanced Talents|Rogue (PF1)]]"
-  - "[[path srd 3.5/classes/Ninja#Master Tricks|Ninja (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/class-option]
 ---

@@ -3,14 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "medium spirit"
 class: ["Medium"]
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Hierophant Spirit|Hierophant Spirit (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Divine Surge|Divine Surge (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Energy Font|Energy Font (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Overflowing Grace|Overflowing Grace (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Legendary Hierophant|Legendary Hierophant (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

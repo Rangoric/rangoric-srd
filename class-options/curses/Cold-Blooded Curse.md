@@ -3,10 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "curse"
 class: ["Oracle"]
-based-on:
-  - "[[path srd 3.5/rules/monster-codex/lizardfolk/New Rules (Lizardfolk)#Lizardfolk Oracle Curse|Lizardfolk, Cold-Blooded (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/class-option]
 ---

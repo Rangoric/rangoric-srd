@@ -5,11 +5,7 @@ option-type: "discovery"
 class: ["Alchemist"]
 bomb: false
 level: 8
-based-on:
-  - "[[path srd 3.5/classes/Alchemist (Class)#Discovery (Su)|Alchemist, Discovery (PF1)]]"
-  - "[[path srd 3.5 foundry/class-features/Delayed Bomb|Delayed Bomb (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

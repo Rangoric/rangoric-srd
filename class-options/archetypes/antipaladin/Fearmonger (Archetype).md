@@ -6,10 +6,7 @@ class: ["Antipaladin"]
 replaces:
   - "touch of corruption (2nd)"
   - "cruelty (3rd, 6th, 9th, 12th)"
-based-on:
-  - "[[path srd 3.5/rules/monster-codex/bugbears/New Rules (Bugbears)#Fearmonger|Bugbears, Fearmonger (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/class-option]
 ---

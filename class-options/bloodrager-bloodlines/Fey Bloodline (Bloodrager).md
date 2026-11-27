@@ -3,11 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "bloodline"
 class: "Bloodrager"
-based-on:
-  - "[[path srd 3.5/classes/Bloodrager#Fey|Bloodrager, Fey bloodline (PF1)]]"
-  - "[[path srd 3.5 foundry/class-features/Fey Bloodrager Bloodline|Fey bloodrager bloodline (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-09
 tags: [rangoric, rangoric/class-option]
 ---

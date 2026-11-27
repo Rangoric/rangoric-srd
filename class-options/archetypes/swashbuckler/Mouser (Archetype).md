@@ -8,10 +8,7 @@ replaces:
   - "menacing swordplay (3rd)"
   - "targeted strike (7th)"
   - "bleeding wound (11th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Mouser|Mouser (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

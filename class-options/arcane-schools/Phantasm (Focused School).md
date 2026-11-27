@@ -4,11 +4,7 @@ section: "Class Options"
 option-type: "arcane-school"
 class: "Wizard"
 school-type: "focused"
-based-on:
-  - "[[path srd 3.5/rules/advanced-player-s-guide/core-classes/Wizard (Core Classes)#Phantasm School|Wizard (Core Classes) (PF1 APG)]]"
-  - "[[path srd 3.5 foundry/class-features/Phantasm Subschool|Phantasm Subschool (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/class-option]
 ---

@@ -7,10 +7,7 @@ replaces:
   - "maker’s call (6th)"
   - "transposition (8th)"
   - "greater shield ally (12th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Evolutionist|Evolutionist (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

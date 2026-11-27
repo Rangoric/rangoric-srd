@@ -9,11 +9,7 @@ replaces:
   - "domains (1st)"
   - "channel energy (1st)"
   - "turn or rebuke undead (1st)"
-based-on:
-  - "[[path srd 3.5/races/Tieflings#Fiendish Vessel (Cleric)|Tieflings, Fiendish Vessel (PF1)]]"
-  - "[[path srd 3.5/races/Tieflings#Fiendish Patrons|Tieflings, Fiendish Patrons (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

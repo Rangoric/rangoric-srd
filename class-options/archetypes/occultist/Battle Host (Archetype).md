@@ -18,9 +18,7 @@ replaces:
   - "binding circles (12th)"
   - "fast circles (16th)"
   - "implement mastery (20th)"
-based-on: []
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

@@ -6,10 +6,7 @@ class: ["Druid"]
 replaces:
   - "nature bond (1st)"
   - "wild shape (6th-level use)"
-based-on:
-  - "[[path srd 3.5/archetypes/Pack Lord|Pack Lord (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/class-option]
 ---

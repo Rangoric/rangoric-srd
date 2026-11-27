@@ -6,10 +6,7 @@ class: ["Sorcerer"]
 replaces:
   - "bloodline (1st)"
   - "spells"
-based-on:
-  - "[[path srd 3.5/archetypes/Crossblooded|Crossblooded (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/class-option]
 ---

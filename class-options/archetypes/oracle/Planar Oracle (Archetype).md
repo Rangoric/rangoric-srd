@@ -7,10 +7,7 @@ replaces:
   - "mystery spell (2nd–18th)"
   - "revelation (3rd)"
   - "final revelation (20th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Planar Oracle|Planar Oracle (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

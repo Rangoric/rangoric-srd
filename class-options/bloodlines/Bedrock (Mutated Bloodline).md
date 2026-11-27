@@ -4,10 +4,7 @@ section: "Class Options"
 option-type: "mutated bloodline"
 class: "Sorcerer"
 associated-bloodline: "[[rangoric-srd/class-options/bloodlines/Deep Earth Bloodline|Deep Earth]]"
-based-on:
-  - "[[path srd 3.5/archetypes/Wildblooded#Bedrock|Wildblooded, Bedrock (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/class-option]
 ---

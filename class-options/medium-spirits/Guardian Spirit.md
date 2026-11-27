@@ -3,14 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "medium spirit"
 class: ["Medium"]
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Guardian Spirit (Medium)|Guardian Spirit (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Guardian's Shield|Guardian's Shield (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Absorb Blow|Absorb Blow (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Sudden Block|Sudden Block (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Legendary Guardian|Legendary Guardian (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

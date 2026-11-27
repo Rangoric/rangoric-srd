@@ -8,10 +8,7 @@ replaces:
   - "class skills"
   - "summon monster I (1st–19th)"
   - "eidolon"
-based-on:
-  - "[[path srd 3.5/races/Fetchlings#Shadow Caller (Summoner)|Fetchlings, Shadow Caller (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

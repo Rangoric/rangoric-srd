@@ -9,10 +9,7 @@ replaces:
   - "teamwork feats (3rd–18th)"
   - "second animal focus (8th)"
   - "master hunter (20th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Packmaster|Packmaster (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

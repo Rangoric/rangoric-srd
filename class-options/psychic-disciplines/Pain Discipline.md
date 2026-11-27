@@ -4,14 +4,7 @@ section: "Class Options"
 option-type: "psychic discipline"
 class: ["Psychic"]
 phrenic-pool-ability: "Charisma"
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Pain Discipline|Pain Discipline (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Painful Reminder|Painful Reminder (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Power from Pain|Power from Pain (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Live On|Live On (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Agonizing Wound|Agonizing Wound (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

@@ -3,10 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "dare"
 class: "Gunslinger, Swashbuckler"
-based-on:
-  - "[[path srd 3.5/rules/advanced-class-guide/class-options/Gunslinger (Class Options)#Dares|Gunslinger (PF1 ACG)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

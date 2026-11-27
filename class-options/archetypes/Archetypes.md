@@ -1,12 +1,7 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-based-on:
-  - "[[path srd 3.5/rules/ultimate-magic/spellcasting-class-options/Spellcasting Class Options (Spellcasting Class Options)#Alternate Class Features|Spellcasting Class Options, Alternate Class Features (PF1)]]"
-  - "[[path srd 3.5/rules/advanced-player-s-guide/core-classes/Core Classes (Core Classes)#Alternate Class Features|Core Classes, Alternate Class Features (PF1)]]"
-  - "[[path srd 3.5/rules/advanced-race-guide/uncommon-races/Racial Archetypes (Uncommon Races)|Racial Archetypes (Uncommon Races) (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/overview]
 ---

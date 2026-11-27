@@ -7,10 +7,7 @@ replaces:
   - "evasion (2nd)"
   - "rogue talent (4th)"
   - "advanced talents (10th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Underground Chemist|Underground Chemist (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/class-option]
 ---

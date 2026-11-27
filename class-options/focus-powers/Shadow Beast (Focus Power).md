@@ -6,10 +6,7 @@ class: ["Occultist"]
 implement-school: "Illusion"
 level: 9
 ability-type: "Sp"
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Shadow Beast|Shadow Beast (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

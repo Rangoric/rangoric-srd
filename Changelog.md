@@ -8,6 +8,7 @@ Every departure from the source rules, newest first. One line each, with links t
 
 | Date | Change | Rangoric note | Source | Why |
 | --- | --- | --- | --- | --- |
+| 2026-11-27 | No Based-On (NO 3): class options drop the `based-on:` and `change:` frontmatter keys. | [[NO Batch 3 Changes]] | | [[No Based-On]] NO 3 |
 | 2026-11-27 | Product Identity cleanup (PN 1): the nagaji, samsaran, suli and wayang stay out of Rangoric, and renamed entries keep no Product Identity alias. Race of Adopted Sibling gives each excluded row to the row above (Merfolk 85–86, Ratfolk 89–90, Strix 91–92, Vishkanya 99–100); Infuse Self's list drops aphorite, duskwalker, ganzi and suli; Race Builder Traits loses Samsaran Magic; Explorer's Kit, Tarot Deck, Horns of the Undead Tyrant and Deepdark Goggles lose their old aliases; Wondrous Items by Slot links "Deepdark goggles" and "Orb of the foul wasteland". | [[PN Batch 1 Changes]] | | [[Product Identity Cleanup]] PN 1 |
 | 2026-11-27 | No Based-On (NO 2): magic items drop the `based-on:` and `change:` frontmatter keys. | [[NO Batch 2 Changes]] | | [[No Based-On]] NO 2 |
 | 2026-11-27 | No Based-On (NO 1): monsters drop the `based-on:` and `change:` frontmatter keys; the README's Note rules no longer require them. | [[NO Batch 1 Changes]] | | [[No Based-On]] NO 1 |

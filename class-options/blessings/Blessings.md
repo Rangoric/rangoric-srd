@@ -1,14 +1,7 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-based-on:
-  - "[[path srd 3.5/classes/Warpriest#Blessings|Warpriest (PF1)]]"
-  - "[[path srd 3.5 foundry/class-features/Earthquake Blessing|Earthquake Blessing (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Flood Blessing|Flood Blessing (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Tornado Blessing|Tornado Blessing (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Wildfire Blessing|Wildfire Blessing (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/overview]
 ---

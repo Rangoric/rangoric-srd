@@ -7,10 +7,7 @@ race: "Half-Elf"
 replaces:
   - "mutagen (1st)"
   - "discovery (2nd)"
-based-on:
-  - "[[path srd 3.5/races/Half-Elves (Advanced Race Guide)#Bramble Brewer (Alchemist)|Half-Elves, Bramble Brewer (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

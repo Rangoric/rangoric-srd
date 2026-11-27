@@ -7,10 +7,7 @@ replaces:
   - "weapon and armor proficiency"
   - "poison lore (2nd; its poison use)"
   - "swift alchemy (4th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Steel Hound|Steel Hound (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

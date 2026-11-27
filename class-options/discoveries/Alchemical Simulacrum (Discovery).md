@@ -5,11 +5,7 @@ option-type: "discovery"
 class: ["Alchemist"]
 bomb: false
 level: 8
-based-on:
-  - "[[path srd 3.5/rules/ultimate-magic/spellcasting-class-options/Alchemist (Spellcasting Class Options)#Discoveries|Alchemist (Ultimate Magic)]]"
-  - "[[path srd 3.5 foundry/class-features/Alchemical Simulacrum|Alchemical Simulacrum (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

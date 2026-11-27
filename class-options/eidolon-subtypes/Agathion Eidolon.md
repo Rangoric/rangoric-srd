@@ -3,10 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "eidolon subtype"
 class: ["Unchained Summoner"]
-based-on:
-  - "[[path srd 3.5/classes/Summoner (Unchained)#Agathion|Unchained Summoner, Agathion (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

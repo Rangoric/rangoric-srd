@@ -5,10 +5,7 @@ option-type: "hex"
 hex-type: "hex"
 class: ["Witch"]
 race: "[[rangoric-srd/races/Goblin|goblins]]"
-based-on:
-  - "[[path srd 3.5/rules/monster-codex/goblins/Goblin Archetype#Goblin Witch Hex|Goblins, Mud Witch (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

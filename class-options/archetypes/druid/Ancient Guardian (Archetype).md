@@ -12,10 +12,7 @@ replaces:
   - "trackless step (3rd)"
   - "resist nature’s lure (4th)"
   - "a thousand faces (13th)"
-based-on:
-  - "[[path srd 3.5/rules/monster-codex/lizardfolk/New Rules (Lizardfolk)#Ancient Guardian|Lizardfolk, Ancient Guardian (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

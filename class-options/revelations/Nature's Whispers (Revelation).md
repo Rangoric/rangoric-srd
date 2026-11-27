@@ -4,11 +4,7 @@ section: "Class Options"
 option-type: "revelation"
 class: ["Oracle"]
 mystery: ["Nature"]
-based-on:
-  - "[[path srd 3.5/classes/Oracle#Nature|Oracle, Nature mystery (PF1)]]"
-  - "[[path srd 3.5 foundry/class-features/Nature's Whispers|Nature's Whispers (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

@@ -10,10 +10,7 @@ replaces:
   - "wild shape (4th; gained at 6th)"
   - "venom immunity (9th)"
   - "a thousand faces (13th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Arctic Druid|Arctic Druid (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/class-option]
 ---

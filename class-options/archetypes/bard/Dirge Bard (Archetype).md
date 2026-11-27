@@ -8,10 +8,7 @@ replaces:
   - "well-versed (2nd)"
   - "lore master (5th)"
   - "jack-of-all-trades (10th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Dirge Bard|Dirge Bard (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

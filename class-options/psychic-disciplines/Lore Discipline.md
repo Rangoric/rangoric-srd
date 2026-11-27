@@ -4,14 +4,7 @@ section: "Class Options"
 option-type: "psychic discipline"
 class: ["Psychic"]
 phrenic-pool-ability: "Wisdom"
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Lore Discipline|Lore Discipline (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Illuminating Answers|Illuminating Answers (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Mnemonic Cache|Mnemonic Cache (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Superior Automatic Writing|Superior Automatic Writing (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Memory Palace|Memory Palace (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

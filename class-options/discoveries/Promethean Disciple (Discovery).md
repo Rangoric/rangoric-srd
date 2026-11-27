@@ -5,10 +5,7 @@ option-type: "discovery"
 class: ["Alchemist"]
 bomb: false
 level: 6
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Promethean Disciple|Promethean Disciple (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

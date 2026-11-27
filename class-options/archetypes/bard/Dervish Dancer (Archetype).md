@@ -15,10 +15,7 @@ replaces:
   - "frightening tune (14th)"
   - "mass suggestion (18th)"
   - "deadly performance (20th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Dervish Dancer|Dervish Dancer (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

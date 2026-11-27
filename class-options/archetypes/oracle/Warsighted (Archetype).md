@@ -5,10 +5,7 @@ option-type: "archetype"
 class: ["Oracle"]
 replaces:
   - "revelation (1st, 7th, 11th, 15th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Warsighted|Warsighted (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

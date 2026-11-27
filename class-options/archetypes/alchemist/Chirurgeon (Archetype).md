@@ -7,10 +7,7 @@ replaces:
   - "poison use (2nd)"
   - "poison resistance +4 (5th)"
   - "poison immunity (10th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Chirurgeon|Chirurgeon (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

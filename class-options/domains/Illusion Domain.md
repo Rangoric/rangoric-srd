@@ -3,10 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "domain"
 class: ["Cleric"]
-based-on:
-  - "[[individual books/Faeries/rules/Classes#Illusions Domain|Classes (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

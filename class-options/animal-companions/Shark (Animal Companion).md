@@ -6,10 +6,7 @@ class: ["Druid"]
 size: "Small"
 speed: "swim 60 ft."
 advancement-level: "4th"
-based-on:
-  - "[[path srd 3.5/animal-companions/Shark (Animal Companion)|Shark (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/class-option]
 ---

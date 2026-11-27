@@ -11,10 +11,7 @@ replaces:
   - "superior feint (7th)"
   - "bleeding wound (11th)"
   - "swashbuckler finesse (1st)"
-based-on:
-  - "[[path srd 3.5/archetypes/Picaroon|Picaroon (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

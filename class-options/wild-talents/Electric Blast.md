@@ -7,10 +7,7 @@ element: ["air"]
 talent-type: "simple blast"
 talent-level: "—"
 burn: "0"
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Electric Blast|Electric Blast (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

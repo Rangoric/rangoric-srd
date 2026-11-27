@@ -7,10 +7,7 @@ race: "Catfolk"
 replaces:
   - "uncanny dodge (4th)"
   - "improved uncanny dodge (8th)"
-based-on:
-  - "[[path srd 3.5/races/Catfolk (Race)#Cat Burglar (Rogue)|Catfolk (Race), Cat Burglar (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/class-option]
 ---

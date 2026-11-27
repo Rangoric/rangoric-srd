@@ -6,10 +6,7 @@ class: ["Witch"]
 replaces:
   - "patron spells (2nd–18th)"
   - "hex (1st)"
-based-on:
-  - "[[path srd 3.5/archetypes/Sea Witch|Sea Witch (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/class-option]
 ---

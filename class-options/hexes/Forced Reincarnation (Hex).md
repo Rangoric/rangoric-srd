@@ -4,10 +4,7 @@ section: "Class Options"
 option-type: "hex"
 hex-type: "grand hex"
 class: ["Witch"]
-based-on:
-  - "[[path srd 3.5/classes/Witch#Grand Hex|Witch (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/class-option]
 ---

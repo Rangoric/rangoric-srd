@@ -4,15 +4,7 @@ section: "Class Options"
 option-type: "psychic discipline"
 class: ["Psychic"]
 phrenic-pool-ability: "Charisma"
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Rapport Discipline|Rapport Discipline (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Emotional Bond|Emotional Bond (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Emotional Push|Emotional Push (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Share Memory (Psychic)|Share Memory (Psychic) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Team Player (PSY)|Team Player (PSY) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Shared Skill|Shared Skill (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

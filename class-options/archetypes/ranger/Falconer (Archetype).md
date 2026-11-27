@@ -7,10 +7,7 @@ replaces:
   - "wild empathy (1st)"
   - "hunter’s bond (4th)"
   - "combat style feat (6th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Falconer (Archetype)|Falconer (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

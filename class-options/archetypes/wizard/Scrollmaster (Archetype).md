@@ -6,10 +6,7 @@ class: ["Wizard"]
 replaces:
   - "arcane bond (1st)"
   - "bonus feat (10th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Scrollmaster|Scrollmaster (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

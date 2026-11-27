@@ -8,9 +8,7 @@ replaces:
   - "haunt channeler (3rd)"
   - "location channel (5th)"
   - "connection channel (7th)"
-based-on: []
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

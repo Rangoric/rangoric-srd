@@ -11,10 +11,7 @@ replaces:
   - "high jump (5th)"
   - "improved evasion (9th)"
   - "abundant step (12th)"
-based-on:
-  - "[[path srd 3.5/races/Oreads#Student of Stone (Monk)|Oreads, Student of Stone (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

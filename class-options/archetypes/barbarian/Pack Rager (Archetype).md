@@ -6,10 +6,7 @@ class: ["Barbarian"]
 replaces:
   - "rage powers (2nd, 6th, 10th, 14th, 18th)"
   - "damage reduction (7th–19th)"
-based-on:
-  - "[[path srd 3.5/rules/monster-codex/gnolls/New Rules (Gnolls)#Pack Rager|Gnolls, Pack Rager (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

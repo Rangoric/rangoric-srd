@@ -3,10 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "patron"
 class: ["Witch"]
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Mind Patron|Mind Patron (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

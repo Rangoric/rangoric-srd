@@ -9,10 +9,7 @@ replaces:
   - "high jump (5th)"
   - "improved evasion (9th)"
   - "tongue of the sun and moon (17th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Monk of the Sacred Mountain|Monk of the Sacred Mountain (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

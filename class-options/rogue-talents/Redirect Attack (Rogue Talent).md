@@ -6,10 +6,7 @@ class: "Rogue"
 advanced: true
 sneak-attack: false
 level: 10
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Redirect Attack (Rogue, Rogue (Unchained))|Redirect Attack (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/class-option]
 ---

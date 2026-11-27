@@ -3,12 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "implement school"
 class: ["Occultist"]
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Divination (Occultist)|Divination (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Third Eye (Occultist)|Third Eye (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Sudden Insight|Sudden Insight (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

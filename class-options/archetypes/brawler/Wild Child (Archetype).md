@@ -8,10 +8,7 @@ replaces:
   - "bonus combat feats (2nd–20th)"
   - "close weapon mastery (5th)"
   - "maneuver training (3rd–19th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Wild Child|Wild Child (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

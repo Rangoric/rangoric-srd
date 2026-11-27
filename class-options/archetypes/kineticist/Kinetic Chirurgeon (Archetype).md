@@ -8,9 +8,7 @@ replaces:
   - "metakinesis (5th–17th)"
   - "infusion specialization (5th–17th)"
   - "internal buffer (6th)"
-based-on: []
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

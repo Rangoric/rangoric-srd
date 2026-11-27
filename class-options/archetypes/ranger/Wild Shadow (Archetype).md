@@ -13,10 +13,7 @@ replaces:
   - "quarry (11th)"
   - "camouflage (12th)"
   - "improved quarry (19th)"
-based-on:
-  - "[[path srd 3.5/races/Half-Elves (Advanced Race Guide)#Wild Shadow (Ranger)|Half-Elves, Wild Shadow (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

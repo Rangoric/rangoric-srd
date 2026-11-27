@@ -3,12 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "mystery"
 class: ["Oracle"]
-based-on:
-  - "[[path srd 3.5/classes/Oracle#Wind|Oracle, Wind mystery (PF1)]]"
-  - "[[path srd 3.5 foundry/class-features/Wind Mystery|Wind Mystery (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Wind Final Revelation|Wind Final Revelation (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

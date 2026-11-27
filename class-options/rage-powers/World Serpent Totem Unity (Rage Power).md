@@ -4,10 +4,7 @@ section: "Class Options"
 option-type: "rage-power"
 class: ["Barbarian", "Skald"]
 level: 10
-based-on:
-  - "[[path srd 3.5 foundry/class-features/World Serpent Totem Unity|World Serpent Totem Unity (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/class-option]
 ---

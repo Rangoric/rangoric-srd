@@ -8,10 +8,7 @@ replaces:
   - "arcane bond (1st)"
   - "cantrips"
   - "arcane school (1st)"
-based-on:
-  - "[[path srd 3.5/archetypes/Siege Mage|Siege Mage (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/class-option]
 ---

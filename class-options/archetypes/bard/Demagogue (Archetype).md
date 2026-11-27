@@ -8,10 +8,7 @@ replaces:
   - "lore master (5th)"
   - "suggestion (6th)"
   - "mass suggestion (18th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Demagogue|Demagogue (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

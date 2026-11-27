@@ -6,10 +6,7 @@ class: ["Druid"]
 size: "Medium"
 speed: "20 ft., fly 60 ft. (good)"
 advancement-level: "7th"
-based-on:
-  - "[[path srd 3.5/animal-companions/Wasp, Giant (Animal Companion)|Wasp, Giant (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/class-option]
 ---

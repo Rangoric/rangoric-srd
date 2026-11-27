@@ -10,10 +10,7 @@ replaces:
   - "resist nature’s lure (4th)"
   - "wild shape (4th)"
   - "venom immunity (9th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Nature Fang|Nature Fang (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/class-option]
 ---

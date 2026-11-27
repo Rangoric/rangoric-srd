@@ -7,10 +7,7 @@ replaces:
   - "weapon and armor proficiency"
   - "fast movement (1st)"
   - "trap sense (3rd–18th)"
-based-on:
-  - "[[path srd 3.5/archetypes/True Primitive|True Primitive (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

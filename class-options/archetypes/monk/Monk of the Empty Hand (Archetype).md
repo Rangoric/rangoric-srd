@@ -9,10 +9,7 @@ replaces:
   - "still mind (3rd)"
   - "purity of body (5th)"
   - "diamond body (11th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Monk of the Empty Hand|Monk of the Empty Hand (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

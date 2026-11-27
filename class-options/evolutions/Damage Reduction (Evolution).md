@@ -4,11 +4,7 @@ section: "Class Options"
 option-type: "evolution"
 class: ["Summoner"]
 evolution-cost: 3
-based-on:
-  - "[[path srd 3.5/classes/Summoner#Evolutions|Summoner, Evolutions (PF1)]]"
-  - "[[path srd 3.5 foundry/eidolon-evolutions/Damage Reduction (3 EP)|Damage Reduction (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

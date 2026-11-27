@@ -7,10 +7,7 @@ element: ["air"]
 talent-type: "utility"
 talent-level: 6
 burn: "0"
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Wind Manipulator|Wind Manipulator (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

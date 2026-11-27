@@ -10,10 +10,7 @@ replaces:
   - "woodland stride (7th)"
   - "camouflage (12th)"
   - "hide in plain sight (17th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Urban Ranger|Urban Ranger (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

@@ -10,10 +10,7 @@ replaces:
   - "purity of body (5th)"
   - "diamond body (11th)"
   - "quivering palm (15th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Flowing Monk|Flowing Monk (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

@@ -6,10 +6,7 @@ class: ["Slayer"]
 replaces:
   - "track (1st)"
   - "slayer talent (2nd)"
-based-on:
-  - "[[path srd 3.5/archetypes/Sniper (Advanced Class Guide)|Sniper (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

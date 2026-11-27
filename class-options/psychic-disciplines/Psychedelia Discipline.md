@@ -4,13 +4,7 @@ section: "Class Options"
 option-type: "psychic discipline"
 class: ["Psychic"]
 phrenic-pool-ability: "Wisdom"
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Psychedelia Discipline|Psychedelia Discipline (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Drug Resistance|Drug Resistance (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Warped Brain|Warped Brain (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Hallucinogenic Aura|Hallucinogenic Aura (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

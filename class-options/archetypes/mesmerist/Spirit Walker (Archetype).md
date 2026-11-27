@@ -9,9 +9,7 @@ replaces:
   - "mental potency (5th)"
   - "touch treatment (3rd, 6th, 10th, 14th)"
   - "rule minds (20th)"
-based-on: []
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

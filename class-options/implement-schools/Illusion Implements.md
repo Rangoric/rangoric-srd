@@ -3,12 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "implement school"
 class: ["Occultist"]
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Illusion|Illusion (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Distortion|Distortion (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Minor Figment|Minor Figment (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

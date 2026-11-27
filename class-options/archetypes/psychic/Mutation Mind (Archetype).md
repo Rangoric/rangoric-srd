@@ -6,9 +6,7 @@ class: ["Psychic"]
 replaces:
   - "phrenic amplifications (1st–19th)"
   - "major amplifications (11th–19th)"
-based-on: []
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

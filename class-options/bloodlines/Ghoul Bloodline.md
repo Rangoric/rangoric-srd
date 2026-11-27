@@ -3,11 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "bloodline"
 class: "Sorcerer"
-based-on:
-  - "[[path srd 3.5/rules/monster-codex/ghouls/New Rules (Ghouls)#Ghoul|New Rules (Ghouls), ghoul bloodline (PF1 Monster Codex)]]"
-  - "[[path srd 3.5 foundry/class-features/Ghoul Bloodline|Ghoul Bloodline (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/class-option]
 ---

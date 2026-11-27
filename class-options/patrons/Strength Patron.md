@@ -3,10 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "patron"
 class: ["Witch"]
-based-on:
-  - "[[path srd 3.5/classes/Witch#Patron Spells|Witch (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/class-option]
 ---

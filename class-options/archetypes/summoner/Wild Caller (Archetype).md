@@ -8,10 +8,7 @@ replaces:
   - "spells"
   - "eidolon"
   - "summon monster I (1st–19th)"
-based-on:
-  - "[[path srd 3.5/races/Half-Elves (Advanced Race Guide)#Wild Caller (Summoner)|Half-Elves, Wild Caller (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

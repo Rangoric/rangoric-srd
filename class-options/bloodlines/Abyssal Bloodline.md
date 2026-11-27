@@ -3,10 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "bloodline"
 class: "Sorcerer"
-based-on:
-  - "[[path srd 3.5/classes/Sorcerer#Abyssal|Sorcerer, Abyssal bloodline (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/class-option]
 ---

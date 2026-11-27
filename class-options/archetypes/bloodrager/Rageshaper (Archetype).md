@@ -6,10 +6,7 @@ class: ["Bloodrager"]
 replaces:
   - "blood sanctuary (3rd)"
   - "improved uncanny dodge (5th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Rageshaper|Rageshaper (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

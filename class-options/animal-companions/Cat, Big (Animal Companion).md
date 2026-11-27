@@ -8,10 +8,7 @@ aliases:
 size: "Medium"
 speed: "40 ft."
 advancement-level: "7th"
-based-on:
-  - "[[path srd 3.5/animal-companions/Cat, Big (Lion, Tiger)|Cat, Big (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/class-option]
 ---

@@ -7,10 +7,7 @@ element: ["fire"]
 talent-type: "utility"
 talent-level: 5
 burn: "0"
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Trail of Flames|Trail of Flames (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

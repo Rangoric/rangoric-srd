@@ -3,11 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "domain"
 class: ["Cleric", "Druid"]
-based-on:
-  - "[[path srd 3.5/classes/Cleric#Animal Domain|Cleric (PF1)]]"
-  - "[[fantasy srd 3.5/classes/Cleric Domains#Animal Domain|Cleric Domains (3.5)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/class-option]
 ---

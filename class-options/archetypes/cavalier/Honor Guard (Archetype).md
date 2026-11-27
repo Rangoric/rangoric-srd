@@ -8,10 +8,7 @@ replaces:
   - "cavalier's charge (3rd)"
   - "mighty charge (11th)"
   - "demanding challenge (12th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Honor Guard|Honor Guard (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

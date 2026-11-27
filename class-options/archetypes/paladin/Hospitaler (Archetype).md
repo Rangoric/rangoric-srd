@@ -7,10 +7,7 @@ replaces:
   - "smite evil (1st)"
   - "channel positive energy (4th)"
   - "aura of justice (11th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Hospitaler|Hospitaler (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

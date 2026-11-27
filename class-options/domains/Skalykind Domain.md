@@ -3,10 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "domain"
 class: ["Cleric"]
-based-on:
-  - "[[fantasy srd 3.5/classes/Cleric Domains#Skalykind Domain|Cleric Domains (3.5)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/class-option]
 ---

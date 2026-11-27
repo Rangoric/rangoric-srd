@@ -7,10 +7,7 @@ replaces:
   - "arcanist exploit (1st)"
   - "arcanist exploit (3rd)"
   - "arcanist exploit (9th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Blade Adept|Blade Adept (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

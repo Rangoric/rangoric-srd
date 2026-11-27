@@ -7,10 +7,7 @@ replaces:
   - "track (1st)"
   - "slayer talent (4th)"
   - "stalker (7th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Cleaner|Cleaner (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

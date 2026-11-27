@@ -4,10 +4,7 @@ section: "Class Options"
 option-type: "archetype"
 class: ["Barbarian"]
 replaces: []
-based-on:
-  - "[[path srd 3.5/archetypes/Totem Warrior|Totem Warrior (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

@@ -7,10 +7,7 @@ element: ["air"]
 talent-type: "utility"
 talent-level: 3
 burn: "—"
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Windsight|Windsight (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

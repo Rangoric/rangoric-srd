@@ -4,12 +4,7 @@ section: "Class Options"
 option-type: "revelation"
 class: ["Oracle"]
 mystery: ["Battle", "Metal"]
-based-on:
-  - "[[path srd 3.5/classes/Oracle#Battle|Oracle, Battle mystery (PF1)]]"
-  - "[[path srd 3.5 foundry/class-features/Iron Skin (Oracle)|Iron Skin (Oracle) (PF1 Foundry)]]"
-  - "[[path srd 3.5/rules/ultimate-magic/spellcasting-class-options/Oracle (Spellcasting Class Options)#Metal|Oracle, Metal mystery (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

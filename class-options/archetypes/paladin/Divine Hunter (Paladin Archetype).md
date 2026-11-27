@@ -11,10 +11,7 @@ replaces:
   - "aura of resolve (8th)"
   - "aura of justice (11th)"
   - "aura of faith (14th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Divine Hunter|Divine Hunter (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

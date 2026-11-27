@@ -8,9 +8,7 @@ replaces:
   - "phrenic amplifications (7th)"
   - "telepathic bond (9th)"
   - "telepathy (17th)"
-based-on: []
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

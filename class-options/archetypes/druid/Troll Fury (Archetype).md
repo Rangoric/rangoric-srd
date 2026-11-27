@@ -7,10 +7,7 @@ replaces:
   - "wild empathy (1st)"
   - "resist nature’s lure (4th)"
   - "venom immunity (9th)"
-based-on:
-  - "[[path srd 3.5/rules/monster-codex/trolls/New Rules (Trolls)#Troll Fury|Trolls, Troll Fury (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/class-option]
 ---

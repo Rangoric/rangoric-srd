@@ -1,11 +1,7 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-based-on:
-  - "[[path srd 3.5/classes/Cleric#Domains|Cleric (PF1)]]"
-  - "[[fantasy srd 3.5/classes/Cleric Domains|Cleric Domains (3.5)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/overview]
 ---

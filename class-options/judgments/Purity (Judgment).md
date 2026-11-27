@@ -3,11 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "judgment"
 class: ["Inquisitor"]
-based-on:
-  - "[[path srd 3.5/classes/Inquisitor#Judgment (Su)|Inquisitor, Judgment (PF1)]]"
-  - "[[path srd 3.5 foundry/class-features/Purity|Purity (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

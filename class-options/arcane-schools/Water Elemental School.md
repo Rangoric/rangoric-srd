@@ -4,10 +4,7 @@ section: "Class Options"
 option-type: "arcane-school"
 class: "Wizard"
 school-type: "elemental"
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Water Elemental School|Water Elemental School (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/class-option]
 ---

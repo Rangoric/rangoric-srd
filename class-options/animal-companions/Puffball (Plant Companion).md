@@ -6,10 +6,7 @@ class: ["Druid"]
 size: "Small"
 speed: "20 ft., fly 60 ft. (average)"
 advancement-level: "4th"
-based-on:
-  - "[[path srd 3.5/races/Elves (Advanced Race Guide)#Plant Companions|Elves, Plant Companions, Puffball (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/class-option]
 ---

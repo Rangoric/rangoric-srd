@@ -4,10 +4,7 @@ section: "Class Options"
 option-type: "rage-power"
 class: ["Barbarian", "Skald"]
 level: 8
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Hive Totem Toxicity|Hive Totem Toxicity (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/class-option]
 ---

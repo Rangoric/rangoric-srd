@@ -7,10 +7,7 @@ replaces:
   - "Throw Anything (1st)"
   - "swift alchemy (3rd)"
   - "swift poisoning (6th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Internal Alchemist|Internal Alchemist (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

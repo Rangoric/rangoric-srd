@@ -7,10 +7,7 @@ replaces:
   - "hunter’s bond (4th)"
   - "favored enemy (5th, 10th, 15th)"
   - "master hunter (20th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Battle Scout|Battle Scout (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

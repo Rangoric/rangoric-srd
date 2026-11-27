@@ -6,10 +6,7 @@ class: ["Summoner"]
 race: "Half-Orc"
 replaces:
   - "summon monster I (1st–17th)"
-based-on:
-  - "[[path srd 3.5/races/Half-Orcs (Advanced Race Guide)#Blood God Disciple (Summoner)|Half-Orcs, Blood God Disciple (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---
