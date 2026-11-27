@@ -11,9 +11,7 @@ tags: [rangoric, rangoric/skill, core]
 
 Intimidation covers threats and showing who's in charge. It was Intimidate.
 
-**Check**: You can change another’s behavior with a successful check. Your Intimidation check is opposed by the target’s modified level check (1d20 + character level or Hit Dice + target’s Wisdom bonus \[if any\] + target’s modifiers on defenses against fear). If you beat your target’s check result, you may treat the target as friendly, but only for the purpose of actions taken while it remains intimidated. (That is, the target retains its normal attitude, but will chat, advise, offer limited help, or advocate on your behalf while intimidated. See the [[rangoric-srd/skills/Persuasion|Persuasion]] skill, above, for additional details.) The effect lasts as long as the target remains in your presence, and for 1d6×10 minutes afterward. After this time, the target’s default attitude toward you shifts to unfriendly (or, if normally unfriendly, to hostile).
-
-Once the effect ends, the target treats you as unfriendly and may report you to the local authorities.
+**Check**: You can change another’s behavior with a successful check. Your Intimidation check is opposed by the target’s modified level check (1d20 + character level or Hit Dice + target’s Wisdom bonus \[if any\] + target’s modifiers on defenses against fear). If you beat your target’s check result, you may treat the target as friendly, but only for the purpose of actions taken while it remains intimidated. (That is, the target retains its normal attitude, but will chat, advise, offer limited help, or advocate on your behalf while intimidated. See the [[rangoric-srd/skills/Persuasion|Persuasion]] skill for additional details.) The effect lasts as long as the target remains in your presence, and for 1d6×10 minutes afterward. Once it ends, the target treats you as unfriendly (or, if it was already unfriendly, as hostile) and may report you to the local authorities.
 
 If you fail the check by 5 or more, the target provides you with incorrect or useless information, or otherwise frustrates your efforts.
 
