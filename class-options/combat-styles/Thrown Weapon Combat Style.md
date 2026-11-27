@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "combat-style"
 class: ["Ranger", "Slayer"]
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/rules/advanced-class-guide/class-options/Slayer (Class Options)#New Combat Style|Slayer (Class Options) (PF1 ACG)]]"
 status: draft

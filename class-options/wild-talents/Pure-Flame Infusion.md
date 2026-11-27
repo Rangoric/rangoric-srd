@@ -7,7 +7,6 @@ element: ["fire"]
 talent-type: "substance infusion"
 talent-level: 7
 burn: "4"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Pure-Flame Infusion|Pure-Flame Infusion (PF1 Foundry)]]"
 status: draft

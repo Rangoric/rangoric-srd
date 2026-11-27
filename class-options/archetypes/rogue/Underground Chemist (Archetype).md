@@ -7,7 +7,6 @@ replaces:
   - "evasion (2nd)"
   - "rogue talent (4th)"
   - "advanced talents (10th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Underground Chemist|Underground Chemist (PF1)]]"
 status: draft

@@ -8,7 +8,6 @@ replaces:
   - "well-versed (2nd)"
   - "inspire competence (3rd)"
   - "lore master (5th)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Animal Speaker|Animal Speaker (PF1)]]"
 status: draft

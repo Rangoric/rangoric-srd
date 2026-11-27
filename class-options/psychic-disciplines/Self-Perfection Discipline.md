@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "psychic discipline"
 class: ["Psychic"]
 phrenic-pool-ability: "Wisdom"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Self-Perfection Discipline|Self-Perfection Discipline (PF1 Foundry)]]"
   - "[[path srd 3.5 foundry/class-features/AC Bonus (PSY)|AC Bonus (PSY) (PF1 Foundry)]]"

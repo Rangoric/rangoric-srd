@@ -8,7 +8,6 @@ replaces:
   - "haunt channeler (3rd)"
   - "location channel (5th)"
   - "connection channel (7th)"
-book: "Occult Adventures"
 based-on: []
 status: draft
 change: new

@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "magus arcana"
 class: ["Magus"]
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/rules/ultimate-combat/class-archetypes/Magus (Class Archetypes)#Magus Arcana|Magus, Magus Arcana (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Devoted Blade|Devoted Blade (PF1 Foundry)]]"

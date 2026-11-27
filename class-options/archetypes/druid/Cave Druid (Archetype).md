@@ -11,7 +11,6 @@ replaces:
   - "trackless step (3rd)"
   - "resist nature’s lure (4th)"
   - "wild shape (4th)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Cave Druid|Cave Druid (PF1)]]"
 status: draft

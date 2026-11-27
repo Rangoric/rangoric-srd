@@ -6,7 +6,6 @@ class: ["Druid"]
 size: "Large"
 speed: "50 ft."
 advancement-level: "4th"
-book: "Core Rulebook"
 based-on:
   - "[[path srd 3.5/animal-companions/Camel (Animal Companion)|Camel (PF1)]]"
 status: draft

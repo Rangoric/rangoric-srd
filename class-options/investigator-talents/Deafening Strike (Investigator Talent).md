@@ -5,7 +5,6 @@ option-type: "investigator-talent"
 class: ["Investigator"]
 studied: true
 level: 15
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/classes/Investigator (Class)#Investigator Talent (Ex)|Investigator, Investigator Talent (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Deafening Strike|Deafening Strike (PF1 Foundry)]]"

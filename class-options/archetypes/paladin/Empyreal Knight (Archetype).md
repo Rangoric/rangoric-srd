@@ -11,7 +11,6 @@ replaces:
   - "turn undead (4th)"
   - "special mount (5th)"
   - "holy champion (20th)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Empyreal Knight|Empyreal Knight (PF1)]]"
 status: draft

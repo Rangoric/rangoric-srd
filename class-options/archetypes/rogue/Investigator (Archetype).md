@@ -5,7 +5,6 @@ option-type: "archetype"
 class: ["Rogue"]
 replaces:
   - "trapfinding (1st)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Investigator (Archetype)|Investigator (PF1)]]"
 status: draft

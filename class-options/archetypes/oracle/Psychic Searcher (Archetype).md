@@ -6,7 +6,6 @@ class: ["Oracle"]
 replaces:
   - "mystery spell (2nd, 4th, 6th, 8th, 12th, 16th, 18th)"
   - "revelation (3rd)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Psychic Searcher|Psychic Searcher (PF1)]]"
 status: draft

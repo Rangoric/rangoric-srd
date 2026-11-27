@@ -7,7 +7,6 @@ replaces:
   - "trapfinding (1st)"
   - "rogue talent (2nd)"
   - "danger sense (3rd–18th)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Pirate|Pirate (PF1)]]"
 status: draft

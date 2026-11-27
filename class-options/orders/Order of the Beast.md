@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "order"
 class: ["Cavalier"]
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/rules/advanced-class-guide/class-options/Cavalier (Class Options)#Order of the Beast|Cavalier (Class Options) (PF1)]]"
 status: draft

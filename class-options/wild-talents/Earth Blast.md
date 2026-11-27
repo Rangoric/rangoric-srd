@@ -7,7 +7,6 @@ element: ["earth"]
 talent-type: "simple blast"
 talent-level: "—"
 burn: "0"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Earth Blast|Earth Blast (PF1 Foundry)]]"
 status: draft

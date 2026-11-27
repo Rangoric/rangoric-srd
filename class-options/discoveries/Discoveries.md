@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-book: ["Advanced Player's Guide", "Ultimate Magic", "Ultimate Combat", "Advanced Class Guide", "Advanced Race Guide", "Monster Codex", "Ultimate Wilderness", "Villain Codex", "Occult Adventures"]
 based-on:
   - "[[path srd 3.5/classes/Alchemist (Class)#Discovery (Su)|Alchemist (PF1)]]"
   - "[[path srd 3.5/rules/ultimate-magic/spellcasting-class-options/Alchemist (Spellcasting Class Options)#Discoveries|Alchemist (Ultimate Magic)]]"

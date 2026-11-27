@@ -7,7 +7,6 @@ advanced: false
 sneak-attack: false
 level: 2
 race: "Catfolk"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Catfolk (Race)#Catfolk Rogue Talents|Catfolk (Race), Catfolk Rogue Talents (PF1)]]"
 status: draft

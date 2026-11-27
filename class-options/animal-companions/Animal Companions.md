@@ -9,7 +9,6 @@ status: draft
 change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/overview]
-book: "Ultimate Magic"
 ---
 
 # Animal Companions

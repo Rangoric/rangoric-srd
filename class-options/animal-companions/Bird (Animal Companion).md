@@ -8,7 +8,6 @@ aliases:
 size: "Small"
 speed: "10 ft., fly 80 ft. (average)"
 advancement-level: "4th"
-book: "Core Rulebook"
 based-on:
   - "[[path srd 3.5/animal-companions/Bird (Eagle-Hawk-Owl)|Bird (PF1)]]"
 status: draft

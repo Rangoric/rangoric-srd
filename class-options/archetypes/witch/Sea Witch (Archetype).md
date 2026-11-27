@@ -6,7 +6,6 @@ class: ["Witch"]
 replaces:
   - "patron spells (2nd–18th)"
   - "hex (1st)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Sea Witch|Sea Witch (PF1)]]"
 status: draft

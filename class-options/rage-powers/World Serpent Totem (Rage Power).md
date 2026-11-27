@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "rage-power"
 class: ["Barbarian", "Skald"]
 level: 2
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5 foundry/class-features/World Serpent Totem|World Serpent Totem (PF1 F)]]"
 status: draft

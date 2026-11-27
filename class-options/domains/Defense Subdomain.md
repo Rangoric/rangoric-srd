@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "subdomain"
 class: ["Cleric"]
 domain: ["Protection"]
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/rules/advanced-player-s-guide/core-classes/Cleric (Core Classes)#Defense Subdomain|Cleric (APG)]]"
 status: draft

@@ -10,7 +10,6 @@ replaces:
   - "endurance (3rd)"
   - "evasion (9th)"
   - "improved evasion (16th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Hooded Champion|Hooded Champion (PF1)]]"
 status: draft

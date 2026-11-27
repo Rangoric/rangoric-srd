@@ -6,7 +6,6 @@ class: ["Warpriest"]
 replaces:
   - "blessings (1st)"
   - "bonus feats (3rd, 6th, 12th, 15th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Divine Commander|Divine Commander (PF1)]]"
 status: draft

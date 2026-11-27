@@ -5,7 +5,6 @@ option-type: "discovery"
 class: ["Alchemist"]
 bomb: false
 level: 6
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Promethean Disciple|Promethean Disciple (PF1 Foundry)]]"
 status: draft

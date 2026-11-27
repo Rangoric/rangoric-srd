@@ -7,7 +7,6 @@ element: ["universal"]
 talent-type: "form infusion"
 talent-level: 3
 burn: "2"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Flurry of Blasts Infusion|Flurry of Blasts Infusion (PF1 Foundry)]]"
 status: draft

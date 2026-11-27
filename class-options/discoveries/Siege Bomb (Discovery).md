@@ -5,7 +5,6 @@ option-type: "discovery"
 class: ["Alchemist"]
 bomb: true
 level: 12
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/rules/ultimate-combat/class-archetypes/Alchemist (Class Archetypes)#Discoveries|Alchemist (Ultimate Combat)]]"
   - "[[path srd 3.5 foundry/class-features/Siege Bomb|Siege Bomb (PF1 Foundry)]]"

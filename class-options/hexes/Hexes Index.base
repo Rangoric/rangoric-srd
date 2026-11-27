@@ -10,7 +10,6 @@ views:
       - note.hex-type
       - note.class
       - note.spirit
-      - note.book
       - note.status
     sort:
       - property: file.name

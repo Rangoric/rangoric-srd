@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "blessing"
 class: ["Warpriest"]
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/classes/Warpriest#Magic Blessing|Warpriest, Magic Blessing (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Magic Blessing|Magic Blessing (PF1 Foundry)]]"

@@ -6,7 +6,6 @@ class: ["Rogue"]
 advanced: false
 sneak-attack: false
 level: 2
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Kitsune (Race)#Rogue Talents|Kitsune (Race), Rogue Talents (PF1)]]"
 status: draft

@@ -12,7 +12,6 @@ replaces:
   - "bravery (2nd)"
   - "weapon training (5th)"
   - "armor training (11th, 15th)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Tactician (Archetype)|Tactician (PF1)]]"
 status: draft

@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "discovery"
 class: ["Alchemist"]
 bomb: false
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Grounding Goo|Grounding Goo (PF1 Foundry)]]"
 status: draft

@@ -5,7 +5,6 @@ option-type: "discovery"
 class: ["Alchemist"]
 bomb: false
 level: 8
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/classes/Alchemist (Class)#Discovery (Su)|Alchemist, Discovery (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Fast Bombs|Fast Bombs (PF1 Foundry)]]"

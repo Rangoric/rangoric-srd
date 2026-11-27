@@ -6,7 +6,6 @@ class: ["Alchemist"]
 replaces:
   - "mutagen (1st)"
   - "poison use (2nd)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Mindchemist|Mindchemist (PF1)]]"
 status: draft

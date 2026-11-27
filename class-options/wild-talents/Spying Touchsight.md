@@ -7,7 +7,6 @@ element: ["aether"]
 talent-type: "utility"
 talent-level: 4
 burn: "0"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Spying Touchsight|Spying Touchsight (PF1 Foundry)]]"
 status: draft

@@ -7,7 +7,6 @@ element: ["fire"]
 talent-type: "form infusion"
 talent-level: 1
 burn: "1"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Fan of Flames Infusion|Fan of Flames Infusion (PF1 Foundry)]]"
 status: draft

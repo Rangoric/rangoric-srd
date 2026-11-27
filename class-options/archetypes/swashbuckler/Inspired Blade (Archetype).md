@@ -9,7 +9,6 @@ replaces:
   - "bleeding wound (11th)"
   - "swashbuckler weapon training (5th–17th)"
   - "swashbuckler weapon mastery (20th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Inspired Blade|Inspired Blade (PF1)]]"
 status: draft

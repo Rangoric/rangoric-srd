@@ -8,7 +8,6 @@ views:
     order:
       - file.name
       - note.class
-      - note.book
     sort:
       - property: file.name
         direction: ASC

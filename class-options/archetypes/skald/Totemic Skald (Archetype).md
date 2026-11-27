@@ -8,7 +8,6 @@ replaces:
   - "uncanny dodge (4th)"
   - "spell kenning (5th)"
   - "improved uncanny dodge (8th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Totemic Skald|Totemic Skald (PF1)]]"
 status: draft

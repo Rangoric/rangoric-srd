@@ -6,7 +6,6 @@ class: ["Druid"]
 size: "Medium"
 speed: "20 ft., climb 20 ft."
 advancement-level: "4th"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Elves (Advanced Race Guide)#Plant Companions|Elves, Plant Companions, Crawling Vine (PF1)]]"
 status: draft

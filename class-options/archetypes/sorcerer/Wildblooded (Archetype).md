@@ -6,7 +6,6 @@ class: ["Sorcerer"]
 replaces:
   - "bloodline arcana (1st)"
   - "bloodline powers (varies)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Wildblooded|Wildblooded (PF1)]]"
 status: draft

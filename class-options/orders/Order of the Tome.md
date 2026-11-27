@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "order"
 class: ["Cavalier"]
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/rules/ultimate-combat/class-archetypes/Cavalier (Class Archetypes)#Order of the Tome|Cavalier (Class Archetypes) (PF1)]]"
 status: draft

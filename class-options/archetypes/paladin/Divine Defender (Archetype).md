@@ -6,7 +6,6 @@ class: ["Paladin"]
 replaces:
   - "mercy (3rd–18th)"
   - "divine bond (5th)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Divine Defender|Divine Defender (PF1)]]"
 status: draft

@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "evolution"
 class: ["Unchained Summoner"]
 evolution-cost: 3
-book: "Pathfinder Unchained"
 based-on:
   - "[[path srd 3.5/classes/Summoner (Unchained)#Evolutions|Unchained Summoner, Evolutions (PF1)]]"
   - "[[path srd 3.5 foundry/eidolon-evolutions/Swallow Whole (3 EP)|Swallow Whole (PF1 Foundry)]]"

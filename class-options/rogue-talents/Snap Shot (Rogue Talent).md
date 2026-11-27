@@ -6,7 +6,6 @@ class: ["Rogue", "Slayer"]
 advanced: false
 sneak-attack: false
 level: 2
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/rules/advanced-player-s-guide/core-classes/Rogue (Core Classes)#Rogue Talents|Rogue (Core Classes) (PF1 APG)]]"
 status: draft

@@ -8,7 +8,6 @@ replaces:
   - "spells (Intelligence)"
   - "witch’s familiar"
   - "hex (1st)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Orcs#Scarred Witch Doctor (Witch)|Orcs, Scarred Witch Doctor (PF1)]]"
 status: draft

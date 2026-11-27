@@ -13,7 +13,6 @@ views:
       - note.class
       - note.race
       - note.replaces
-      - note.book
     sort:
       - property: file.name
         direction: ASC
@@ -42,7 +41,6 @@ views:
       - file.name
       - note.race
       - note.replaces
-      - note.book
     sort:
       - property: file.name
         direction: ASC
@@ -55,7 +53,6 @@ views:
       - file.name
       - note.race
       - note.replaces
-      - note.book
     sort:
       - property: file.name
         direction: ASC
@@ -68,7 +65,6 @@ views:
       - file.name
       - note.race
       - note.replaces
-      - note.book
     sort:
       - property: file.name
         direction: ASC
@@ -81,7 +77,6 @@ views:
       - file.name
       - note.race
       - note.replaces
-      - note.book
     sort:
       - property: file.name
         direction: ASC
@@ -94,7 +89,6 @@ views:
       - file.name
       - note.race
       - note.replaces
-      - note.book
     sort:
       - property: file.name
         direction: ASC
@@ -107,7 +101,6 @@ views:
       - file.name
       - note.race
       - note.replaces
-      - note.book
     sort:
       - property: file.name
         direction: ASC
@@ -120,7 +113,6 @@ views:
       - file.name
       - note.race
       - note.replaces
-      - note.book
     sort:
       - property: file.name
         direction: ASC
@@ -133,7 +125,6 @@ views:
       - file.name
       - note.race
       - note.replaces
-      - note.book
     sort:
       - property: file.name
         direction: ASC
@@ -146,7 +137,6 @@ views:
       - file.name
       - note.race
       - note.replaces
-      - note.book
     sort:
       - property: file.name
         direction: ASC
@@ -159,7 +149,6 @@ views:
       - file.name
       - note.race
       - note.replaces
-      - note.book
     sort:
       - property: file.name
         direction: ASC
@@ -172,7 +161,6 @@ views:
       - file.name
       - note.race
       - note.replaces
-      - note.book
     sort:
       - property: file.name
         direction: ASC
@@ -185,7 +173,6 @@ views:
       - file.name
       - note.race
       - note.replaces
-      - note.book
     sort:
       - property: file.name
         direction: ASC
@@ -198,7 +185,6 @@ views:
       - file.name
       - note.race
       - note.replaces
-      - note.book
     sort:
       - property: file.name
         direction: ASC
@@ -211,7 +197,6 @@ views:
       - file.name
       - note.race
       - note.replaces
-      - note.book
     sort:
       - property: file.name
         direction: ASC
@@ -224,7 +209,6 @@ views:
       - file.name
       - note.race
       - note.replaces
-      - note.book
     sort:
       - property: file.name
         direction: ASC
@@ -237,7 +221,6 @@ views:
       - file.name
       - note.race
       - note.replaces
-      - note.book
     sort:
       - property: file.name
         direction: ASC
@@ -250,7 +233,6 @@ views:
       - file.name
       - note.race
       - note.replaces
-      - note.book
     sort:
       - property: file.name
         direction: ASC
@@ -263,7 +245,6 @@ views:
       - file.name
       - note.race
       - note.replaces
-      - note.book
     sort:
       - property: file.name
         direction: ASC
@@ -276,7 +257,6 @@ views:
       - file.name
       - note.race
       - note.replaces
-      - note.book
     sort:
       - property: file.name
         direction: ASC
@@ -289,7 +269,6 @@ views:
       - file.name
       - note.race
       - note.replaces
-      - note.book
     sort:
       - property: file.name
         direction: ASC
@@ -302,7 +281,6 @@ views:
       - file.name
       - note.race
       - note.replaces
-      - note.book
     sort:
       - property: file.name
         direction: ASC
@@ -315,7 +293,6 @@ views:
       - file.name
       - note.race
       - note.replaces
-      - note.book
     sort:
       - property: file.name
         direction: ASC
@@ -328,7 +305,6 @@ views:
       - file.name
       - note.race
       - note.replaces
-      - note.book
     sort:
       - property: file.name
         direction: ASC
@@ -341,7 +317,6 @@ views:
       - file.name
       - note.race
       - note.replaces
-      - note.book
     sort:
       - property: file.name
         direction: ASC
@@ -354,7 +329,6 @@ views:
       - file.name
       - note.race
       - note.replaces
-      - note.book
     sort:
       - property: file.name
         direction: ASC
@@ -367,7 +341,6 @@ views:
       - file.name
       - note.race
       - note.replaces
-      - note.book
     sort:
       - property: file.name
         direction: ASC
@@ -380,7 +353,6 @@ views:
       - file.name
       - note.race
       - note.replaces
-      - note.book
     sort:
       - property: file.name
         direction: ASC
@@ -393,7 +365,6 @@ views:
       - file.name
       - note.race
       - note.replaces
-      - note.book
     sort:
       - property: file.name
         direction: ASC
@@ -406,7 +377,6 @@ views:
       - file.name
       - note.race
       - note.replaces
-      - note.book
     sort:
       - property: file.name
         direction: ASC
@@ -419,7 +389,6 @@ views:
       - file.name
       - note.race
       - note.replaces
-      - note.book
     sort:
       - property: file.name
         direction: ASC
@@ -432,7 +401,6 @@ views:
       - file.name
       - note.race
       - note.replaces
-      - note.book
     sort:
       - property: file.name
         direction: ASC
@@ -445,7 +413,6 @@ views:
       - file.name
       - note.race
       - note.replaces
-      - note.book
     sort:
       - property: file.name
         direction: ASC
@@ -458,7 +425,6 @@ views:
       - file.name
       - note.race
       - note.replaces
-      - note.book
     sort:
       - property: file.name
         direction: ASC
@@ -471,7 +437,6 @@ views:
       - file.name
       - note.race
       - note.replaces
-      - note.book
     sort:
       - property: file.name
         direction: ASC
@@ -484,7 +449,6 @@ views:
       - file.name
       - note.race
       - note.replaces
-      - note.book
     sort:
       - property: file.name
         direction: ASC
@@ -498,7 +462,6 @@ views:
       - file.name
       - note.race
       - note.replaces
-      - note.book
     sort:
       - property: file.name
         direction: ASC
@@ -511,7 +474,6 @@ views:
       - file.name
       - note.race
       - note.replaces
-      - note.book
     sort:
       - property: file.name
         direction: ASC

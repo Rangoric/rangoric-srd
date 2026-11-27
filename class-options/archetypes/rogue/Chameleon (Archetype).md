@@ -6,7 +6,6 @@ class: ["Rogue"]
 replaces:
   - "trapfinding (1st)"
   - "danger sense (3rd–18th)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Chameleon (Archetype)|Chameleon (PF1)]]"
 status: draft

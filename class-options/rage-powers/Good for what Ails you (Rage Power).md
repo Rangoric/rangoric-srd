@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "rage-power"
 class: ["Barbarian", "Skald"]
 level: 2
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Good for what Ails you|Good for what Ails you (PF1 F)]]"
 status: draft

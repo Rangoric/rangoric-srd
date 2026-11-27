@@ -10,7 +10,6 @@ replaces:
   - "trap sense (3rd–18th)"
   - "swift alchemy (4th)"
   - "poison immunity (11th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Spiritualist|Spiritualist (PF1)]]"
 status: draft

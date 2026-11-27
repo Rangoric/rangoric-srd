@@ -6,7 +6,6 @@ class: ["Occultist"]
 implement-school: "Divination"
 level: 1
 ability-type: "Sp"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Watchful Eye|Watchful Eye (PF1 Foundry)]]"
 status: draft

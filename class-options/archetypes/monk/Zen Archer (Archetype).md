@@ -15,7 +15,6 @@ replaces:
   - "improved evasion (9th)"
   - "diamond body (11th)"
   - "tongue of the sun and moon (17th)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Zen Archer|Zen Archer (PF1)]]"
 status: draft

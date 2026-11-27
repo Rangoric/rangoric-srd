@@ -7,7 +7,6 @@ replaces:
   - "smite evil (1st)"
   - "aura of resolve (8th)"
   - "aura of justice (11th)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Undead Scourge|Undead Scourge (PF1)]]"
 status: draft

@@ -8,7 +8,6 @@ replaces:
   - "bomb 4d6 (7th)"
   - "bomb 7d6 (13th)"
   - "bomb 8d6 (15th)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Reanimator|Reanimator (PF1)]]"
 status: draft

@@ -9,7 +9,6 @@ replaces:
   - "burn (1st)"
   - "internal buffer (6th)"
   - "elemental overflow (3rd)"
-book: "Occult Adventures"
 based-on: []
 status: draft
 change: new

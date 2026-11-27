@@ -8,7 +8,6 @@ replaces:
   - "arcanist exploit (7th)"
   - "arcanist exploit (13th)"
   - "arcanist exploit (19th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Spell Specialist|Spell Specialist (PF1)]]"
 status: draft

@@ -9,7 +9,6 @@ replaces:
   - "favored terrain (3rd–18th)"
   - "hunter’s bond (4th)"
   - "camouflage (12th)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Fetchlings#Dusk Stalker (Ranger)|Fetchlings, Dusk Stalker (PF1)]]"
 status: draft

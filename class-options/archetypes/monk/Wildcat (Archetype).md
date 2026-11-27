@@ -12,7 +12,6 @@ replaces:
   - "abundant step (12th)"
   - "diamond soul (13th)"
   - "empty body (19th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Wildcat|Wildcat (PF1)]]"
 status: draft

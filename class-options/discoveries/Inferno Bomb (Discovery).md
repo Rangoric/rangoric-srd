@@ -5,7 +5,6 @@ option-type: "discovery"
 class: ["Alchemist"]
 bomb: true
 level: 16
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/classes/Alchemist (Class)#Discovery (Su)|Alchemist, Discovery (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Inferno Bomb|Inferno Bomb (PF1 Foundry)]]"

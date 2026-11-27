@@ -6,7 +6,6 @@ class: "Ranger"
 ability-type: "Ex or Su"
 trap-type: "mechanical or magic"
 add-on: false
-book: "Core Rulebook"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Tar Trap|Tar Trap (PF1 Foundry)]]"
 status: draft

@@ -6,7 +6,6 @@ class: "Rogue"
 advanced: false
 sneak-attack: true
 level: 2
-book: "listed in Pathfinder Unchained"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Distracting Attack|Distracting Attack (PF1 F)]]"
 status: draft

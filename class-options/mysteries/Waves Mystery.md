@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "mystery"
 class: ["Oracle"]
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/classes/Oracle#Waves|Oracle, Waves mystery (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Waves Mystery|Waves Mystery (PF1 Foundry)]]"

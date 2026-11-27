@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "magus arcana"
 class: ["Magus"]
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/classes/Magus#Magus Arcana|Magus, Magus Arcana (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Familiar (MAG)|Familiar (MAG) (PF1 Foundry)]]"

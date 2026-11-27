@@ -11,7 +11,6 @@ replaces:
   - "dirge of doom (8th)"
   - "jack-of-all-trades (10th)"
   - "frightening tune (14th)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Court Bard|Court Bard (PF1)]]"
 status: draft

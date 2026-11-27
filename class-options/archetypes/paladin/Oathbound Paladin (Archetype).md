@@ -18,7 +18,6 @@ replaces:
   - "mercy (9th, by oath)"
   - "aura of justice (11th, by oath)"
   - "holy champion (20th, by oath)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Oathbound Paladin|Oathbound Paladin (PF1)]]"
 status: draft

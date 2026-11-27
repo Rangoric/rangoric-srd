@@ -6,7 +6,6 @@ class: ["Rogue", "Slayer"]
 advanced: false
 sneak-attack: false
 level: 2
-book: "listed in Pathfinder Unchained"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Swift Poison|Swift Poison (PF1 F)]]"
 status: draft

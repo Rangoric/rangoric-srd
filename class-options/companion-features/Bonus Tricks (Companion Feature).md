@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "companion feature"
 class: ["Druid"]
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5 foundry/companion-features/Bonus Tricks (Companion Feature)|Bonus Tricks (PF1 Foundry)]]"
 status: draft

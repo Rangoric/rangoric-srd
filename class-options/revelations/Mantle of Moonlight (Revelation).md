@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "revelation"
 class: ["Oracle"]
 mystery: ["Heavens"]
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/classes/Oracle#Heavens|Oracle, Heavens mystery (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Mantle of Moonlight|Mantle of Moonlight (PF1 Foundry)]]"

@@ -8,7 +8,6 @@ replaces:
   - "bonus feat (1st)"
   - "stunning fist (1st)"
   - "high jump (5th)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Halflings (Advanced Race Guide)#Underfoot Adept (Monk)|Halflings, Underfoot Adept (PF1)]]"
 status: draft

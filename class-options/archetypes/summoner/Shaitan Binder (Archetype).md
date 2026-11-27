@@ -11,7 +11,6 @@ replaces:
   - "greater shield ally (12th)"
   - "greater aspect (18th)"
   - "twin eidolon (20th)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Oreads#Shaitan Binder (Summoner)|Oreads, Shaitan Binder (PF1)]]"
 status: draft

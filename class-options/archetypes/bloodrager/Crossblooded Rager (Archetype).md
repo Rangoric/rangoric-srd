@@ -6,7 +6,6 @@ class: ["Bloodrager"]
 replaces:
   - "bloodline (1st)"
   - "bloodrage (1st)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Crossblooded Rager|Crossblooded Rager (PF1)]]"
 status: draft

@@ -7,7 +7,6 @@ element: ["wood"]
 talent-type: "utility"
 talent-level: 5
 burn: "0"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Plant Puppet|Plant Puppet (PF1 Foundry)]]"
 status: draft

@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/classes/Hunter#Animal Focus (Su)|Hunter (PF1)]]"
 status: draft

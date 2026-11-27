@@ -8,7 +8,6 @@ replaces:
   - "third judgment (16th)"
   - "slayer (17th)"
   - "true judgment (20th)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Exorcist|Exorcist (PF1)]]"
 status: draft

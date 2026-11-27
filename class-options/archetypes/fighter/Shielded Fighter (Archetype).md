@@ -8,7 +8,6 @@ replaces:
   - "weapon training (5th, 9th, 13th, 17th)"
   - "armor mastery (19th)"
   - "weapon mastery (20th)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Shielded Fighter|Shielded Fighter (PF1)]]"
 status: draft

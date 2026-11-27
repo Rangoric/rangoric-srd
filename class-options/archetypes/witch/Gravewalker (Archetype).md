@@ -9,7 +9,6 @@ replaces:
   - "hex (1st)"
   - "hex (4th)"
   - "hex (8th)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Gravewalker|Gravewalker (PF1)]]"
 status: draft

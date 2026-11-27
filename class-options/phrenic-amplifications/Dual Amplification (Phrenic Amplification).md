@@ -6,7 +6,6 @@ amplification-type: "major amplification"
 class: ["Psychic"]
 level: 11
 ability-type: "Ex"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Dual Amplification|Dual Amplification (PF1 Foundry)]]"
 status: draft

@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "dare"
 class: "Gunslinger, Swashbuckler"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/rules/advanced-class-guide/class-options/Gunslinger (Class Options)#Dares|Gunslinger (PF1 ACG)]]"
 status: draft

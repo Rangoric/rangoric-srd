@@ -11,7 +11,6 @@ replaces:
   - "superior feint (7th)"
   - "bleeding wound (11th)"
   - "swashbuckler finesse (1st)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Picaroon|Picaroon (PF1)]]"
 status: draft

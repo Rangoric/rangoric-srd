@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "blessing"
 class: ["Warpriest"]
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/classes/Warpriest#Fire Blessing|Warpriest, Fire Blessing (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Fire Blessing|Fire Blessing (PF1 Foundry)]]"

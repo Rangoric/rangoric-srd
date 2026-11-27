@@ -10,7 +10,6 @@ replaces:
   - "purity of body (5th)"
   - "wholeness of body (7th)"
   - "improved evasion (9th)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Catfolk (Race)#Nimble Guardian (Monk)|Catfolk, Nimble Guardian (PF1)]]"
 status: draft

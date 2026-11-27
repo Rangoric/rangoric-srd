@@ -7,7 +7,6 @@ replaces:
   - "spirit magic (1st)"
   - "hex (2nd)"
   - "wandering hex (6th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Possessed Shaman|Possessed Shaman (PF1)]]"
 status: draft

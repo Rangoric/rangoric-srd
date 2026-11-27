@@ -10,7 +10,6 @@ replaces:
   - "bonus feat (5th)"
   - "medium armor (7th)"
   - "heavy armor (13th)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Elves (Advanced Race Guide)#Spell Dancer (Magus)|Elves, Spell Dancer (PF1)]]"
 status: draft

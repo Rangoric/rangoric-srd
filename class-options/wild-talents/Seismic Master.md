@@ -7,7 +7,6 @@ element: ["earth"]
 talent-type: "utility"
 talent-level: 9
 burn: "0"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Seismic Master|Seismic Master (PF1 Foundry)]]"
 status: draft

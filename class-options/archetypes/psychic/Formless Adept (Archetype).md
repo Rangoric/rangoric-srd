@@ -8,7 +8,6 @@ replaces:
   - "psychic discipline (discipline powers, discipline spells)"
   - "phrenic amplifications (1st, 15th)"
   - "remade self (20th)"
-book: "Occult Adventures"
 based-on: []
 status: draft
 change: new

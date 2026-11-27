@@ -15,7 +15,6 @@ replaces:
   - "divine bond (5th)"
   - "aura of justice (11th)"
   - "holy champion (20th)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Dwarves (Advanced Race Guide)#Stonelord (Paladin)|Dwarves, Stonelord (PF1)]]"
 status: draft

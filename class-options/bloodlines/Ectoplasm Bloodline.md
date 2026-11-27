@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "bloodline"
 class: "Sorcerer"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Ectoplasm Bloodline|Ectoplasm Bloodline (PF1 Foundry)]]"
   - "[[path srd 3.5 foundry/class-features/Entangling Ectoplasm|Entangling Ectoplasm (PF1 Foundry)]]"

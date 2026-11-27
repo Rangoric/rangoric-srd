@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "order"
 class: ["Cavalier"]
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Order of the Shroud|Order of the Shroud (PF1 Foundry)]]"
   - "[[path srd 3.5 foundry/class-features/Spiritual Shield|Spiritual Shield (PF1 Foundry)]]"

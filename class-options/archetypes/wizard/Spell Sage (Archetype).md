@@ -6,7 +6,6 @@ class: ["Wizard"]
 replaces:
   - "arcane bond (1st)"
   - "arcane school (1st)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Spell Sage|Spell Sage (PF1)]]"
 status: draft

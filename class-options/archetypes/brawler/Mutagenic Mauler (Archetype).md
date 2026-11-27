@@ -6,7 +6,6 @@ class: ["Brawler"]
 replaces:
   - "martial flexibility (1st)"
   - "AC bonus (4th–18th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Mutagenic Mauler|Mutagenic Mauler (PF1)]]"
 status: draft

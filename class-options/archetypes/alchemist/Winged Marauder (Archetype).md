@@ -8,7 +8,6 @@ replaces:
   - "class skills"
   - "mutagen (1st)"
   - "persistent mutagen (14th)"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/goblins/Goblin Archetype#Winged Marauder|Goblins, Winged Marauder (PF1)]]"
 status: draft

@@ -9,7 +9,6 @@ replaces:
   - "bane (5th)"
   - "greater bane (12th)"
   - "true judgment (20th)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Ifrits#Immolator (Inquisitor)|Ifrits, Immolator (PF1)]]"
 status: draft

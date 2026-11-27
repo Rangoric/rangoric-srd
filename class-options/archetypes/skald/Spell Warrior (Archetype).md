@@ -9,7 +9,6 @@ replaces:
   - "spell kenning (5th)"
   - "dirge of doom (10th)"
   - "master skald (20th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Spell Warrior|Spell Warrior (PF1)]]"
 status: draft

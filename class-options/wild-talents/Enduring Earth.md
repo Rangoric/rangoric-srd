@@ -7,7 +7,6 @@ element: ["earth"]
 talent-type: "utility"
 talent-level: 4
 burn: "—"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Enduring Earth|Enduring Earth (PF1 Foundry)]]"
 status: draft

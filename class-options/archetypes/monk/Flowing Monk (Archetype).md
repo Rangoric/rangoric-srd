@@ -10,7 +10,6 @@ replaces:
   - "purity of body (5th)"
   - "diamond body (11th)"
   - "quivering palm (15th)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Flowing Monk|Flowing Monk (PF1)]]"
 status: draft

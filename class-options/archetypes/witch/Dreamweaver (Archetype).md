@@ -10,7 +10,6 @@ replaces:
   - "hex (2nd)"
   - "hex (6th)"
   - "hex (10th)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Changelings#Dreamweaver (Witch)|Changelings, Dreamweaver (PF1)]]"
 status: draft

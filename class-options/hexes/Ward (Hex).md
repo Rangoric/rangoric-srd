@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "hex"
 hex-type: "hex"
 class: ["Witch", "Shaman"]
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/classes/Witch#Hex|Witch (PF1)]]"
   - "[[path srd 3.5/classes/Shaman (Class)#Hex|Shaman (PF1)]]"

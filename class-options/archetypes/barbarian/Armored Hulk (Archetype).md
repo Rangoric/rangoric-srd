@@ -9,7 +9,6 @@ replaces:
   - "uncanny dodge (2nd)"
   - "trap sense (3rd–18th)"
   - "improved uncanny dodge (5th)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Armored Hulk|Armored Hulk (PF1)]]"
 status: draft

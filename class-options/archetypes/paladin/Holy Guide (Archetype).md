@@ -6,7 +6,6 @@ class: ["Paladin"]
 replaces:
   - "mercy (3rd)"
   - "mercy (6th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Holy Guide|Holy Guide (PF1)]]"
 status: draft

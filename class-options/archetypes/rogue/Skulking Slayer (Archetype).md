@@ -10,7 +10,6 @@ replaces:
   - "skill points"
   - "trapfinding (1st)"
   - "danger sense (3rd–12th)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Half-Orcs (Advanced Race Guide)#Skulking Slayer (Rogue)|Half-Orcs (Advanced Race Guide), Skulking Slayer (PF1)]]"
 status: draft

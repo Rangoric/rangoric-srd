@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "revelation"
 class: ["Oracle"]
 mystery: ["Wood"]
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/rules/ultimate-magic/spellcasting-class-options/Oracle (Spellcasting Class Options)#Wood|Oracle, Wood mystery (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Lignification|Lignification (PF1 Foundry)]]"

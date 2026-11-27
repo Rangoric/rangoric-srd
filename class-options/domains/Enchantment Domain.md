@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "domain"
 class: ["Cleric"]
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/rules/Classes#Enchantments Domain|Classes (Faeries)]]"
 status: draft

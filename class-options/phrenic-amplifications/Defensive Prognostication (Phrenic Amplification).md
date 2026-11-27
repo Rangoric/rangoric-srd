@@ -6,7 +6,6 @@ amplification-type: "amplification"
 class: ["Psychic"]
 level: 1
 ability-type: "Su"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Defensive Prognostication|Defensive Prognostication (PF1 Foundry)]]"
 status: draft

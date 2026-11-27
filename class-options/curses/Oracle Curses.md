@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-book: ["Advanced Player's Guide", "Monster Codex"]
 based-on:
   - "[[path srd 3.5/classes/Oracle#Oracle's Curse (Ex)|Oracle (PF1)]]"
 status: draft

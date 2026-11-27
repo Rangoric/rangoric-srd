@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "curse"
 class: ["Oracle"]
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/classes/Oracle#Oracle's Curse (Ex)|Oracle, Oracle's Curse (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Deaf Curse|Deaf Curse (PF1 Foundry)]]"

@@ -8,7 +8,6 @@ replaces:
   - "domains (1st)"
   - "channel energy (1st)"
   - "turn or rebuke undead (1st)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Dwarves (Advanced Race Guide)#Forgemaster (Cleric)|Dwarves, Forgemaster (PF1)]]"
 status: draft

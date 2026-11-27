@@ -9,7 +9,6 @@ views:
       - note.srd-type
       - note.option-type
       - note.class
-      - note.book
       - note.status
     sort:
       - property: file.name

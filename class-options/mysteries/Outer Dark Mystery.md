@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "mystery"
 class: ["Oracle"]
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/rules/ultimate-magic/spellcasting-class-options/Oracle (Spellcasting Class Options)#Dark Tapestry|Oracle, Dark Tapestry mystery (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Dark Tapestry Mystery|Dark Tapestry Mystery (PF1 Foundry)]]"

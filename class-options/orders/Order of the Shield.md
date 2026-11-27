@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "order"
 class: ["Cavalier"]
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/classes/Cavalier#Order of the Shield|Cavalier (PF1)]]"
 status: draft

@@ -5,7 +5,6 @@ option-type: "archetype"
 class: ["Cleric"]
 replaces:
   - "domains (1st)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Undead Lord|Undead Lord (PF1)]]"
 status: draft

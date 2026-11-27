@@ -7,7 +7,6 @@ element: ["wood"]
 talent-type: "utility"
 talent-level: 7
 burn: "0"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Green Tongue, Greater|Green Tongue, Greater (PF1 Foundry)]]"
 status: draft

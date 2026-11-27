@@ -11,7 +11,6 @@ replaces:
   - "bonus feat (10th)"
   - "bonus feat (15th)"
   - "bonus feat (20th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Spirit Whisperer|Spirit Whisperer (PF1)]]"
 status: draft

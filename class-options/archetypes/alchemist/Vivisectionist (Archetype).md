@@ -5,7 +5,6 @@ option-type: "archetype"
 class: ["Alchemist"]
 replaces:
   - "bomb (1st)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Vivisectionist|Vivisectionist (PF1)]]"
 status: draft

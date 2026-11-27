@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/classes/Kineticist|Kineticist (PF1 Foundry)]]"
   - "[[path srd 3.5 foundry/class-features/Universal|Universal (PF1 Foundry)]]"

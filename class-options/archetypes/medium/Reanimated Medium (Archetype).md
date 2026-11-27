@@ -11,7 +11,6 @@ replaces:
   - "connection channel (7th)"
   - "spacious soul (18th)"
   - "astral beacon (20th)"
-book: "Occult Adventures"
 based-on: []
 status: draft
 change: new

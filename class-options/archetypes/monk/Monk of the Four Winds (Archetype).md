@@ -8,7 +8,6 @@ replaces:
   - "abundant step (12th)"
   - "timeless body (17th)"
   - "perfect self (20th)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Monk of the Four Winds|Monk of the Four Winds (PF1)]]"
 status: draft

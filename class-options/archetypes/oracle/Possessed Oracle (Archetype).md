@@ -7,7 +7,6 @@ replaces:
   - "oracle's curse (1st)"
   - "mystery spell (4th, 6th, 8th, 10th, 12th, 16th)"
   - "revelation (1st)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Possessed Oracle|Possessed Oracle (PF1)]]"
 status: draft

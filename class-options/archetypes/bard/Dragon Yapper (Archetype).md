@@ -8,7 +8,6 @@ replaces:
   - "fascinate (1st)"
   - "dirge of doom (8th)"
   - "versatile performance (2nd)"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/kobolds/New Rules (Kobolds)#Dragon Yapper|Kobolds, Dragon Yapper (PF1)]]"
 status: draft

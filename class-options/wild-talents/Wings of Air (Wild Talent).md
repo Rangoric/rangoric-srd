@@ -7,7 +7,6 @@ element: ["air"]
 talent-type: "utility"
 talent-level: 3
 burn: "0"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Wings of Air (Wild Talent)|Wings of Air (Wild Talent) (PF1 Foundry)]]"
 status: draft

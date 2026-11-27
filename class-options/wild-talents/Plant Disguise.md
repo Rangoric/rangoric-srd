@@ -7,7 +7,6 @@ element: ["wood"]
 talent-type: "utility"
 talent-level: 4
 burn: "0"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Plant Disguise|Plant Disguise (PF1 Foundry)]]"
 status: draft

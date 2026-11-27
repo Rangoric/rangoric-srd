@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "implement school"
 class: ["Occultist"]
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Enchantment|Enchantment (PF1 Foundry)]]"
   - "[[path srd 3.5 foundry/class-features/Glorious Presence (Implement)|Glorious Presence (PF1 Foundry)]]"

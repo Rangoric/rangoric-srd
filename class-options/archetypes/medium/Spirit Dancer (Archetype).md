@@ -12,7 +12,6 @@ replaces:
   - "trance of three (15th)"
   - "spacious soul (18th)"
   - "astral beacon (20th)"
-book: "Occult Adventures"
 based-on: []
 status: draft
 change: new

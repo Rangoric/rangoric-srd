@@ -7,7 +7,6 @@ element: ["earth"]
 talent-type: "defense"
 talent-level: "—"
 burn: "0"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Flesh of Stone|Flesh of Stone (PF1 Foundry)]]"
 status: draft

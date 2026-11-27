@@ -10,7 +10,6 @@ replaces:
   - "wild shape (4th; gained at 6th)"
   - "venom immunity (9th)"
   - "a thousand faces (13th)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Animal Shamans#Serpent Shaman|Serpent Shaman (PF1)]]"
 status: draft

@@ -7,7 +7,6 @@ race: "Gnome"
 replaces:
   - "gunsmith (1st)"
   - "gun training (5th–17th)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Gnomes (Advanced Race Guide)#Experimental Gunsmith (Gunslinger)|Gnomes, Experimental Gunsmith (PF1)]]"
 status: draft

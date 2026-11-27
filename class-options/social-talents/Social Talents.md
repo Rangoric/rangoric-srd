@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-book: ["Ultimate Intrigue", "Heroes of Golarion"]
 based-on:
   - "[[path srd 3.5 foundry/classes/Vigilante|Vigilante (PF1 Foundry)]]"
   - "[[path srd 3.5 foundry/class-features/Social Talent|Social Talent (PF1 Foundry)]]"

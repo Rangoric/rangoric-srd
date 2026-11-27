@@ -11,7 +11,6 @@ replaces:
   - "dirge of doom (8th)"
   - "jack-of-all-trades (10th)"
   - "inspire heroics (15th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Voice of the Wild|Voice of the Wild (PF1)]]"
 status: draft

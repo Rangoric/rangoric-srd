@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "psychic discipline"
 class: ["Psychic"]
 phrenic-pool-ability: "Wisdom"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Tranquility Discipline|Tranquility Discipline (PF1 Foundry)]]"
   - "[[path srd 3.5 foundry/class-features/Mental Placidity|Mental Placidity (PF1 Foundry)]]"

@@ -7,7 +7,6 @@ element: ["air", "earth"]
 talent-type: "composite blast"
 talent-level: "—"
 burn: "2"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Sandstorm Blast|Sandstorm Blast (PF1 Foundry)]]"
 status: draft

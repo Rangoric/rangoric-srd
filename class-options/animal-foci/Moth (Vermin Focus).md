@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "vermin focus"
 class: ["Hunter"]
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Verminous Hunter#Vermin Focus (Su)|Verminous Hunter, Moth (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Moth (Hunter)|Moth (Hunter) (PF1 Foundry)]]"

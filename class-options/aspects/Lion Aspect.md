@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "aspect"
 class: ["Shifter"]
-book: "Heroes of Golarion"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Lion Aspect|Lion Aspect (PF1 Foundry)]]"
 status: draft

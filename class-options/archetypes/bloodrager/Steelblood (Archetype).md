@@ -9,7 +9,6 @@ replaces:
   - "uncanny dodge (2nd)"
   - "improved uncanny dodge (5th)"
   - "damage reduction (7th–19th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Steelblood|Steelblood (PF1)]]"
 status: draft

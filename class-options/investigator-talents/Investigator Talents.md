@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/classes/Investigator (Class)#Investigator Talent (Ex)|Investigator (PF1)]]"
 status: draft

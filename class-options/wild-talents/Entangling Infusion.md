@@ -7,7 +7,6 @@ element: ["earth", "water", "wood"]
 talent-type: "substance infusion"
 talent-level: 2
 burn: "2"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Entangling Infusion|Entangling Infusion (PF1 Foundry)]]"
 status: draft

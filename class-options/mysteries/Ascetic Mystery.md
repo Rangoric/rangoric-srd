@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "mystery"
 class: ["Oracle"]
-book: "Villain Codex"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Ascetic Mystery|Ascetic Mystery (PF1 Foundry)]]"
   - "[[path srd 3.5 foundry/class-features/Ascetic Final Revelation|Ascetic Final Revelation (PF1 Foundry)]]"

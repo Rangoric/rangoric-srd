@@ -14,7 +14,6 @@ replaces:
   - "timeless body (17th)"
   - "tongue of the sun and moon (17th)"
   - "empty body (19th)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Tetori|Tetori (PF1)]]"
 status: draft

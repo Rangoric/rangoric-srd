@@ -10,7 +10,6 @@ replaces:
   - "nimble (3rd–19th)"
   - "bonus feats (4th)"
   - "swashbuckler weapon training (5th–17th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Mysterious Avenger|Mysterious Avenger (PF1)]]"
 status: draft

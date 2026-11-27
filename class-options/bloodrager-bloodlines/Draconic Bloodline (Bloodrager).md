@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "bloodline"
 class: "Bloodrager"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/classes/Bloodrager#Draconic|Bloodrager, Draconic bloodline (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Draconic Bloodrager Bloodline|Draconic bloodrager bloodline (PF1)]]"

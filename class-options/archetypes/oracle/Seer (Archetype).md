@@ -6,7 +6,6 @@ class: ["Oracle"]
 replaces:
   - "mystery spell (4th–18th)"
   - "revelation (1st, 3rd)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Seer|Seer (PF1)]]"
 status: draft

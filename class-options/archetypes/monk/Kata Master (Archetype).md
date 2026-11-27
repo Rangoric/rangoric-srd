@@ -9,7 +9,6 @@ replaces:
   - "ki pool (4th)"
   - "wholeness of body (7th)"
   - "quivering palm (15th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Kata Master|Kata Master (PF1)]]"
 status: draft

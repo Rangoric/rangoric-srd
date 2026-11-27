@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "vigilante talent"
 class: ["Vigilante"]
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/classes/Vigilante|Vigilante (PF1 Foundry)]]"
 status: draft

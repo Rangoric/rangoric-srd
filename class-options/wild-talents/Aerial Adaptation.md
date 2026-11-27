@@ -7,7 +7,6 @@ element: ["air"]
 talent-type: "utility"
 talent-level: 1
 burn: "0"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Aerial Adaptation|Aerial Adaptation (PF1 Foundry)]]"
 status: draft

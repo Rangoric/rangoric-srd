@@ -6,7 +6,6 @@ class: ["Sorcerer"]
 replaces:
   - "bloodline (1st)"
   - "spells"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Crossblooded|Crossblooded (PF1)]]"
 status: draft

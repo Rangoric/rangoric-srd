@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Skirmisher#Hunter's Tricks|Skirmisher, Hunter's Tricks (PF1)]]"
 status: draft

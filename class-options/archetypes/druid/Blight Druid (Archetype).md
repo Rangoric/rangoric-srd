@@ -10,7 +10,6 @@ replaces:
   - "resist nature’s lure (4th)"
   - "venom immunity (9th)"
   - "a thousand faces (13th)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Blight Druid|Blight Druid (PF1)]]"
 status: draft

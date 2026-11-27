@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "mutated bloodline"
 class: "Sorcerer"
 associated-bloodline: "[[rangoric-srd/class-options/bloodlines/Undead Bloodline|Undead]]"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Wildblooded#Sanguine|Wildblooded, Sanguine (PF1)]]"
 status: draft

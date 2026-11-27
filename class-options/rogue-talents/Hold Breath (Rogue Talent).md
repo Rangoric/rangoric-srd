@@ -6,7 +6,6 @@ class: "Rogue"
 advanced: false
 sneak-attack: false
 level: 2
-book: "Pathfinder Unchained"
 based-on:
   - "[[path srd 3.5/classes/Rogue (Unchained)#Rogue Talents|Unchained Rogue (PF1)]]"
 status: draft

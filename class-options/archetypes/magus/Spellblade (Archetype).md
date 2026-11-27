@@ -5,7 +5,6 @@ option-type: "archetype"
 class: ["Magus"]
 replaces:
   - "spellstrike (2nd)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Spellblade|Spellblade (PF1)]]"
 status: draft

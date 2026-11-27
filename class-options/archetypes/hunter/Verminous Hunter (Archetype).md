@@ -8,7 +8,6 @@ replaces:
   - "animal focus (1st)"
   - "wild empathy (1st)"
   - "woodland stride (5th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Verminous Hunter|Verminous Hunter (PF1)]]"
 status: draft

@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-book: ["Advanced Player's Guide", "Ultimate Magic", "Advanced Class Guide"]
 based-on:
   - "[[path srd 3.5/classes/Witch#Hex|Witch (PF1)]]"
   - "[[path srd 3.5/rules/ultimate-magic/spellcasting-class-options/Witch (Spellcasting Class Options)#Hexes|Witch (PF1 UM)]]"

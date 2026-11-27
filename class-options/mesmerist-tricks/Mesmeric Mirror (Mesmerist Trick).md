@@ -6,7 +6,6 @@ trick-type: "trick"
 class: ["Mesmerist"]
 level: 1
 ability-type: "Su"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Mesmeric Mirror|Mesmeric Mirror (PF1 Foundry)]]"
 status: draft

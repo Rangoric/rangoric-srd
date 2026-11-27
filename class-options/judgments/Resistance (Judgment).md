@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "judgment"
 class: ["Inquisitor"]
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/classes/Inquisitor#Judgment (Su)|Inquisitor, Judgment (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Resistance (Judgment)|Resistance (Judgment) (PF1 Foundry)]]"

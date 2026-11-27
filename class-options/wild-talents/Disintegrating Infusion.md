@@ -7,7 +7,6 @@ element: ["aether"]
 talent-type: "substance infusion"
 talent-level: 6
 burn: "4"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Disintegrating Infusion|Disintegrating Infusion (PF1 Foundry)]]"
 status: draft

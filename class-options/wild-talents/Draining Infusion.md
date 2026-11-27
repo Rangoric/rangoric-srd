@@ -7,7 +7,6 @@ element: ["universal"]
 talent-type: "substance infusion"
 talent-level: 1
 burn: "1"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Draining Infusion|Draining Infusion (PF1 Foundry)]]"
 status: draft

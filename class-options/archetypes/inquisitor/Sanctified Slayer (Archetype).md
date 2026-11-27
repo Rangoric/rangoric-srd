@@ -9,7 +9,6 @@ replaces:
   - "third judgment (16th)"
   - "slayer (17th)"
   - "true judgment (20th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Sanctified Slayer|Sanctified Slayer (PF1)]]"
 status: draft

@@ -7,7 +7,6 @@ element: ["aether"]
 talent-type: "defense"
 talent-level: "—"
 burn: "0"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Force Ward|Force Ward (PF1 Foundry)]]"
 status: draft

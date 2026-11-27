@@ -7,7 +7,6 @@ element: ["fire"]
 talent-type: "utility"
 talent-level: 9
 burn: "2"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/From the Ashes|From the Ashes (PF1 Foundry)]]"
 status: draft

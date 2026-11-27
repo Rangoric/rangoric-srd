@@ -9,7 +9,6 @@ replaces:
   - "mighty charge (11th)"
   - "demanding challenge (12th)"
   - "supreme charge (20th)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Luring Cavalier|Luring Cavalier (PF1)]]"
 status: draft

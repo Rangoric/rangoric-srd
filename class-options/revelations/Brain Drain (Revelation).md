@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "revelation"
 class: ["Oracle"]
 mystery: ["Lore", "Outer Dark"]
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/classes/Oracle#Lore|Oracle, Lore mystery (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Brain Drain|Brain Drain (PF1 Foundry)]]"

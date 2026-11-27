@@ -6,7 +6,6 @@ class: ["Cleric"]
 replaces:
   - "weapon and armor proficiency"
   - "domains (1st)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Separatist|Separatist (PF1)]]"
 status: draft

@@ -10,7 +10,6 @@ replaces:
   - "quarry (11th)"
   - "improved evasion (16th)"
   - "improved quarry (19th)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Guide (Archetype)|Guide (PF1)]]"
 status: draft

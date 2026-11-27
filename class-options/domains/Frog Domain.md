@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "domain"
 class: ["Druid"]
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Frog Domain|Frog Domain (PF1 F)]]"
 status: draft

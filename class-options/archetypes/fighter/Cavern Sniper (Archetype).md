@@ -9,7 +9,6 @@ replaces:
   - "bonus feat (1st, 4th)"
   - "bravery (2nd)"
   - "weapon training (5th, 9th, 13th, 17th)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Drow (Race)#Cavern Sniper (Fighter)|Drow, Cavern Sniper (PF1)]]"
 status: draft

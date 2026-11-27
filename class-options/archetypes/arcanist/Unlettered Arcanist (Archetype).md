@@ -6,7 +6,6 @@ class: ["Arcanist"]
 replaces:
   - "spellbooks"
   - "spells"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Unlettered Arcanist|Unlettered Arcanist (PF1)]]"
 status: draft

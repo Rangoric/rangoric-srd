@@ -7,7 +7,6 @@ element: ["wood"]
 talent-type: "utility"
 talent-level: 9
 burn: "0"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Forest Siege|Forest Siege (PF1 Foundry)]]"
 status: draft

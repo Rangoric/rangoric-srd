@@ -7,7 +7,6 @@ element: ["water"]
 talent-type: "utility"
 talent-level: 6
 burn: "0"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Ice Path|Ice Path (PF1 Foundry)]]"
 status: draft

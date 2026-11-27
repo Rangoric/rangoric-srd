@@ -9,7 +9,6 @@ replaces:
   - "smite evil (1st)"
   - "divine bond (5th)"
   - "holy champion (20th)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Holy Gun|Holy Gun (PF1)]]"
 status: draft

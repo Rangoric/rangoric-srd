@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-book: ["Advanced Player's Guide", "Ultimate Magic", "Ultimate Intrigue", "Monster Codex", "Villain Codex"]
 based-on:
   - "[[path srd 3.5/classes/Oracle#Mysteries|Oracle (PF1)]]"
 status: draft

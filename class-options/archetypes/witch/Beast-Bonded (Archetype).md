@@ -7,7 +7,6 @@ replaces:
   - "hex (4th)"
   - "hex (8th)"
   - "major hex (10th)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Beast-Bonded|Beast-Bonded (PF1)]]"
 status: draft

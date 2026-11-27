@@ -9,7 +9,6 @@ replaces:
   - "trap sense (3rd–18th)"
   - "swift alchemy (4th)"
   - "investigator talent (9th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Mastermind|Mastermind (PF1)]]"
 status: draft

@@ -7,7 +7,6 @@ replaces:
   - "mystery spell (2nd–18th)"
   - "revelation (3rd)"
   - "final revelation (20th)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Planar Oracle|Planar Oracle (PF1)]]"
 status: draft

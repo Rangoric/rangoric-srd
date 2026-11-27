@@ -10,7 +10,6 @@ replaces:
   - "poison immunity (10th)"
   - "bomb 8d6 (15th)"
   - "bomb 9d6 (17th)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Psychonaut|Psychonaut (PF1)]]"
 status: draft

@@ -7,7 +7,6 @@ element: ["wood"]
 talent-type: "utility"
 talent-level: 3
 burn: "0"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Warp Wood (Kineticist)|Warp Wood (Kineticist) (PF1 Foundry)]]"
 status: draft

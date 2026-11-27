@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "revelation"
 class: ["Oracle"]
 mystery: ["Life"]
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/classes/Oracle#Life|Oracle, Life mystery (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Healing Hands|Healing Hands (PF1 Foundry)]]"

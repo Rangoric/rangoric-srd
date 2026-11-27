@@ -5,7 +5,6 @@ option-type: "discovery"
 class: ["Alchemist"]
 bomb: false
 level: 4
-book: "Villain Codex"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Incendiary Charge|Incendiary Charge (PF1 Foundry)]]"
 status: draft

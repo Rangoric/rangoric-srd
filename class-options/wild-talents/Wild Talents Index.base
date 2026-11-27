@@ -10,7 +10,6 @@ views:
       - note.talent-type
       - note.talent-level
       - note.burn
-      - note.book
       - note.status
     sort:
       - property: file.name

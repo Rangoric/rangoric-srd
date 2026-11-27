@@ -6,7 +6,6 @@ class: ["Paladin"]
 replaces:
   - "spells (4th)"
   - "aura of faith (14th)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Warrior of the Holy Light|Warrior of the Holy Light (PF1)]]"
 status: draft

@@ -6,7 +6,6 @@ class: ["Fighter"]
 replaces:
   - "armor training (3rd, 7th, 11th, 15th)"
   - "armor mastery (19th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Mutation Warrior|Mutation Warrior (PF1)]]"
 status: draft

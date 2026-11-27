@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "revelation"
 class: ["Oracle"]
 mystery: ["Nature"]
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/classes/Oracle#Nature|Oracle, Nature mystery (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Bonded Mount|Bonded Mount (PF1 Foundry)]]"

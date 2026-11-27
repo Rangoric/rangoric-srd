@@ -9,7 +9,6 @@ replaces:
   - "poison resistance (2nd–8th)"
   - "poison immunity (10th)"
   - "persistent mutagen (14th)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Beastmorph|Beastmorph (PF1)]]"
 status: draft

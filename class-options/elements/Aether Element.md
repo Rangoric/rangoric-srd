@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "element"
 class: ["Kineticist"]
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Aether Element|Aether Element (PF1 Foundry)]]"
 status: draft

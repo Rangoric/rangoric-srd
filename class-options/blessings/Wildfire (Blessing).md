@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "blessing"
 class: ["Warpriest"]
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Wildfire Blessing|Wildfire Blessing (PF1 Foundry)]]"
   - "[[path srd 3.5 foundry/class-features/Leaping Flames|Leaping Flames (PF1 Foundry)]]"

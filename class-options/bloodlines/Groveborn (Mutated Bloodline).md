@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "mutated bloodline"
 class: "Sorcerer"
 associated-bloodline: "[[rangoric-srd/class-options/bloodlines/Verdant Bloodline|Verdant]]"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Wildblooded#Groveborn|Wildblooded, Groveborn (PF1)]]"
 status: draft

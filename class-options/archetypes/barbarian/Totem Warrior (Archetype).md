@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "archetype"
 class: ["Barbarian"]
 replaces: []
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Totem Warrior|Totem Warrior (PF1)]]"
 status: draft

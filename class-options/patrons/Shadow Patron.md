@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "patron"
 class: ["Witch"]
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/classes/Witch#Patron Spells|Witch (PF1)]]"
 status: draft

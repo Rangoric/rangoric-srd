@@ -6,7 +6,6 @@ class: "Ranger"
 ability-type: "Su"
 trap-type: "magic"
 add-on: false
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/traps/Sleet Trap (Su)|Sleet Trap (Su) (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Sleet Trap|Sleet Trap (PF1 Foundry)]]"

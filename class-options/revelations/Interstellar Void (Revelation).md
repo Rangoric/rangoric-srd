@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "revelation"
 class: ["Oracle"]
 mystery: ["Heavens", "Outer Dark"]
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/classes/Oracle#Heavens|Oracle, Heavens mystery (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Interstellar Void|Interstellar Void (PF1 Foundry)]]"

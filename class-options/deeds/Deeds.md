@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-book: ["Advanced Class Guide", "Ultimate Combat"]
 based-on:
   - "[[path srd 3.5/classes/Gunslinger#Deeds|Gunslinger (PF1)]]"
   - "[[path srd 3.5/classes/Swashbuckler (Class)#Deeds|Swashbuckler (PF1)]]"

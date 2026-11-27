@@ -11,7 +11,6 @@ replaces:
   - "aura of resolve (8th)"
   - "aura of justice (11th)"
   - "aura of faith (14th)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Divine Hunter|Divine Hunter (PF1)]]"
 status: draft

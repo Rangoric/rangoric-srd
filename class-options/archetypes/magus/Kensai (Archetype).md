@@ -14,7 +14,6 @@ replaces:
   - "heavy armor (13th)"
   - "greater spell access (19th)"
   - "true magus (20th)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Kensai|Kensai (PF1)]]"
 status: draft

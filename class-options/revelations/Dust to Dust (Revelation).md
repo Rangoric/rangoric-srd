@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "revelation"
 class: ["Oracle"]
 mystery: ["Apocalypse"]
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Dust to Dust|Dust to Dust (PF1 Foundry)]]"
 status: draft

@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "revelation"
 class: ["Oracle"]
 mystery: ["Intrigue"]
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Forgotten Presence|Forgotten Presence (PF1 Foundry)]]"
 status: draft

@@ -7,7 +7,6 @@ element: ["air", "water"]
 talent-type: "composite blast"
 talent-level: "—"
 burn: "2"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Charged Water Blast|Charged Water Blast (PF1 Foundry)]]"
 status: draft

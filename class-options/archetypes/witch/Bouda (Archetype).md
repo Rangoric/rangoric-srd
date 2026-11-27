@@ -7,7 +7,6 @@ replaces:
   - "witch’s familiar"
   - "hex (1st)"
   - "major hex (10th)"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/gnolls/New Rules (Gnolls)#Bouda|Gnolls, Bouda (PF1)]]"
 status: draft

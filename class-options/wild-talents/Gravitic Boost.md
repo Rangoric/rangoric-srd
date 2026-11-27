@@ -7,7 +7,6 @@ element: ["void"]
 talent-type: "composite blast"
 talent-level: "—"
 burn: "2"
-book: "Occult Origins"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Void Element|Void Element (PF1 Foundry)]]"
 status: draft

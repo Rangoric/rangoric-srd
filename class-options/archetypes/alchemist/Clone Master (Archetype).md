@@ -7,7 +7,6 @@ replaces:
   - "bomb (1st)"
   - "poison resistance +6 (8th)"
   - "poison immunity (10th)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Clone Master|Clone Master (PF1)]]"
 status: draft

@@ -8,7 +8,6 @@ replaces:
   - "menacing swordplay (3rd)"
   - "targeted strike (7th)"
   - "bleeding wound (11th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Mouser|Mouser (PF1)]]"
 status: draft

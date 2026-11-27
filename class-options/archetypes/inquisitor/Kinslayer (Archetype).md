@@ -7,7 +7,6 @@ race: "Dhampir"
 replaces:
   - "judgment (destruction)"
   - "detect alignment (2nd)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Dhampirs#Kinslayer (Inquisitor)|Dhampirs, Kinslayer (PF1)]]"
 status: draft

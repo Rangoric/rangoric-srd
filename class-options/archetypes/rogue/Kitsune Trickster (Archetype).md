@@ -7,7 +7,6 @@ race: "Kitsune"
 replaces:
   - "trapfinding (1st)"
   - "danger sense (3rd–18th)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Kitsune (Race)#Kitsune Trickster (Rogue)|Kitsune (Race), Kitsune Trickster (PF1)]]"
 status: draft

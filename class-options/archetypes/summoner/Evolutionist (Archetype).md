@@ -7,7 +7,6 @@ replaces:
   - "maker’s call (6th)"
   - "transposition (8th)"
   - "greater shield ally (12th)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Evolutionist|Evolutionist (PF1)]]"
 status: draft

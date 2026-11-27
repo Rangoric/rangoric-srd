@@ -7,7 +7,6 @@ element: ["fire"]
 talent-type: "utility"
 talent-level: 1
 burn: "—"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Fire's Fury|Fire's Fury (PF1 Foundry)]]"
 status: draft

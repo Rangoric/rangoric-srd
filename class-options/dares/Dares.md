@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/rules/advanced-class-guide/class-options/Gunslinger (Class Options)#Dares|Gunslinger (PF1 ACG)]]"
 status: draft

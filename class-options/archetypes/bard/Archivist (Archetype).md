@@ -11,7 +11,6 @@ replaces:
   - "suggestion (6th)"
   - "jack-of-all-trades (10th)"
   - "mass suggestion (18th)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Archivist|Archivist (PF1)]]"
 status: draft

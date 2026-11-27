@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "revelation"
 class: ["Oracle"]
 mystery: ["Flame"]
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/classes/Oracle#Flame|Oracle, Flame mystery (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Wings of Fire|Wings of Fire (PF1 Foundry)]]"

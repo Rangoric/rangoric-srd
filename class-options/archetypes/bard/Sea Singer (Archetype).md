@@ -11,7 +11,6 @@ replaces:
   - "inspire competence (3rd)"
   - "suggestion (6th)"
   - "mass suggestion (18th)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Sea Singer|Sea Singer (PF1)]]"
 status: draft

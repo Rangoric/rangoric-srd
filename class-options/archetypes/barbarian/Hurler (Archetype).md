@@ -5,7 +5,6 @@ option-type: "archetype"
 class: ["Barbarian"]
 replaces:
   - "fast movement (1st)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Hurler|Hurler (PF1)]]"
 status: draft

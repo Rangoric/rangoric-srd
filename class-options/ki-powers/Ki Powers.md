@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-book: "Pathfinder Unchained"
 based-on:
   - "[[path srd 3.5/classes/Monk (Unchained)#Ki Powers (Su)|Unchained Monk (PF1)]]"
 status: draft

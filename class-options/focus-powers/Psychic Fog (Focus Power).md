@@ -6,7 +6,6 @@ class: ["Occultist"]
 implement-school: "Conjuration"
 level: 3
 ability-type: "Sp"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Psychic Fog|Psychic Fog (PF1 Foundry)]]"
 status: draft

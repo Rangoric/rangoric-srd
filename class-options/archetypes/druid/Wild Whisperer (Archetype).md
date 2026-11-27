@@ -8,7 +8,6 @@ replaces:
   - "trackless step (3rd)"
   - "resist nature’s lure (4th)"
   - "wild shape (4th; 6th- and 8th-level uses)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Wild Whisperer|Wild Whisperer (PF1)]]"
 status: draft

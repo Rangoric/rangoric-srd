@@ -8,7 +8,6 @@ replaces:
   - "resist nature’s lure (4th)"
   - "venom immunity (9th)"
   - "timeless body (15th)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/World Walker|World Walker (PF1)]]"
 status: draft

@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "domain"
 class: ["Cleric"]
-book: "Core Rulebook"
 based-on:
   - "[[path srd 3.5/classes/Cleric#Luck Domain|Cleric (PF1)]]"
   - "[[fantasy srd 3.5/classes/Cleric Domains#Luck Domain|Cleric Domains (3.5)]]"

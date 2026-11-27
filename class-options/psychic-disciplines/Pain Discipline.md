@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "psychic discipline"
 class: ["Psychic"]
 phrenic-pool-ability: "Charisma"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Pain Discipline|Pain Discipline (PF1 Foundry)]]"
   - "[[path srd 3.5 foundry/class-features/Painful Reminder|Painful Reminder (PF1 Foundry)]]"

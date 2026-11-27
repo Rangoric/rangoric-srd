@@ -7,7 +7,6 @@ replaces:
   - "class skills"
   - "brawler's strike (5th–17th)"
   - "maneuver training (3rd–19th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Steel-Breaker|Steel-Breaker (PF1)]]"
 status: draft

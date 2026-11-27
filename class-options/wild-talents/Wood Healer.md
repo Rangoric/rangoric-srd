@@ -7,7 +7,6 @@ element: ["wood"]
 talent-type: "utility"
 talent-level: 1
 burn: "1; see text"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Wood Healer|Wood Healer (PF1 Foundry)]]"
 status: draft

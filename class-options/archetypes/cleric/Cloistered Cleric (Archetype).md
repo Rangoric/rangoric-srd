@@ -9,7 +9,6 @@ replaces:
   - "skill points"
   - "domains (1st)"
   - "spells"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Cloistered Cleric|Cloistered Cleric (PF1)]]"
 status: draft

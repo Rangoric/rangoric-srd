@@ -7,7 +7,6 @@ element: ["aether"]
 talent-type: "utility"
 talent-level: 2
 burn: "0"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Telekinetic Haul|Telekinetic Haul (PF1 Foundry)]]"
 status: draft

@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "vigilante talent"
 class: ["Vigilante"]
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Shadow's Sight|Shadow's Sight (PF1 Foundry)]]"
 status: draft

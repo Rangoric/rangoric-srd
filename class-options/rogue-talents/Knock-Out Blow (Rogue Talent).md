@@ -6,7 +6,6 @@ class: ["Rogue", "Slayer"]
 advanced: true
 sneak-attack: false
 level: 10
-book: "listed in Pathfinder Unchained"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Knock-Out Blow|Knock-Out Blow (PF1 F)]]"
 status: draft

@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "companion feature"
 class: ["Druid"]
-book: "Core Rulebook"
 based-on:
   - "[[path srd 3.5 foundry/companion-features/Devotion|Devotion (PF1 Foundry)]]"
 status: draft

@@ -15,7 +15,6 @@ replaces:
   - "frightening tune (14th)"
   - "mass suggestion (18th)"
   - "deadly performance (20th)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Dervish Dancer|Dervish Dancer (PF1)]]"
 status: draft

@@ -7,7 +7,6 @@ element: ["wood"]
 talent-type: "substance infusion"
 talent-level: 7
 burn: "4"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Toxic Infusion, Greater|Toxic Infusion, Greater (PF1 Foundry)]]"
 status: draft

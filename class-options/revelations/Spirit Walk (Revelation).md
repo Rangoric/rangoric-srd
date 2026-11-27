@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "revelation"
 class: ["Oracle"]
 mystery: ["Bones", "Ancestor"]
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/classes/Oracle#Bones|Oracle, Bones mystery (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Spirit Walk|Spirit Walk (PF1 Foundry)]]"

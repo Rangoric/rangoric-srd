@@ -8,7 +8,6 @@ replaces:
   - "nature bond (1st)"
   - "wild empathy (1st)"
   - "wild shape (4th)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Elves (Advanced Race Guide)#Treesinger (Druid)|Elves, Treesinger (PF1)]]"
   - "[[path srd 3.5/races/Elves (Advanced Race Guide)#Plant Companions|Elves, Plant Companions (PF1)]]"

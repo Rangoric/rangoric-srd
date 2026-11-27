@@ -6,7 +6,6 @@ class: ["Occultist"]
 implement-school: "Transmutation"
 level: 5
 ability-type: "Sp"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Quickness|Quickness (PF1 Foundry)]]"
 status: draft

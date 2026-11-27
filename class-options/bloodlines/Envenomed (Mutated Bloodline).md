@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "mutated bloodline"
 class: "Sorcerer"
 associated-bloodline: "[[rangoric-srd/class-options/bloodlines/Serpentine Bloodline|Serpentine]]"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Wildblooded#Envenomed|Wildblooded, Envenomed (PF1)]]"
 status: draft

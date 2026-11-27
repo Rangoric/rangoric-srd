@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "arcane-school"
 class: "Wizard"
 school-type: "focused"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Life Subschool|Life Subschool (PF1 F)]]"
 status: draft

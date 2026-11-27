@@ -9,7 +9,6 @@ replaces:
   - "woodland stride (2nd)"
   - "trackless step (3rd)"
   - "a thousand faces (13th)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Menhir Savant|Menhir Savant (PF1)]]"
 status: draft

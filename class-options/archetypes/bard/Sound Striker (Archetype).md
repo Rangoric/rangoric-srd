@@ -6,7 +6,6 @@ class: ["Bard"]
 replaces:
   - "inspire competence (3rd)"
   - "suggestion (6th)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Sound Striker|Sound Striker (PF1)]]"
 status: draft

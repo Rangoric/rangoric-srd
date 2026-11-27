@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "mutated bloodline"
 class: "Sorcerer"
 associated-bloodline: "[[rangoric-srd/class-options/bloodlines/Deep Earth Bloodline|Deep Earth]]"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Wildblooded#Bedrock|Wildblooded, Bedrock (PF1)]]"
 status: draft

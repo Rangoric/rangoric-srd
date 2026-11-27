@@ -7,7 +7,6 @@ replaces:
   - "animal focus (1st)"
   - "second animal focus (8th)"
   - "master hunter (20th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Primal Companion Hunter|Primal Companion Hunter (PF1)]]"
 status: draft

@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "discovery"
 class: ["Alchemist"]
 bomb: true
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Cytillesh Bomb|Cytillesh Bomb (PF1 Foundry)]]"
 status: draft

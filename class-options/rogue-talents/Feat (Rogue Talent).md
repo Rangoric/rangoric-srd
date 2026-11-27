@@ -6,7 +6,6 @@ class: ["Rogue", "Ninja"]
 advanced: true
 sneak-attack: false
 level: 10
-book: "Core Rulebook"
 based-on:
   - "[[path srd 3.5/classes/Rogue#Advanced Talents|Rogue (PF1)]]"
   - "[[path srd 3.5/classes/Ninja#Master Tricks|Ninja (PF1)]]"

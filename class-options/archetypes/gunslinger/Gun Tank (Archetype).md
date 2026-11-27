@@ -9,7 +9,6 @@ replaces:
   - "evasive (15th)"
   - "nimble (2nd)"
   - "bonus feats (4th–20th)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Gun Tank|Gun Tank (PF1)]]"
 status: draft

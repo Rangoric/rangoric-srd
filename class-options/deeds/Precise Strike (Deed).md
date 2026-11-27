@@ -5,7 +5,6 @@ option-type: "deed"
 class: "Swashbuckler"
 level: 3
 panache-cost: "0 or 1"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/classes/Swashbuckler (Class)#Precise Strike (Ex)|Swashbuckler (PF1)]]"
 status: draft

@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "discovery"
 class: ["Alchemist"]
 bomb: true
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/classes/Alchemist (Class)#Discovery (Su)|Alchemist, Discovery (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Acid Bomb|Acid Bomb (PF1 Foundry)]]"

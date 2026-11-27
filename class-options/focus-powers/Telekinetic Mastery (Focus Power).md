@@ -6,7 +6,6 @@ class: ["Occultist"]
 implement-school: "Transmutation"
 level: 9
 ability-type: "Sp"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Telekinetic Mastery|Telekinetic Mastery (PF1 Foundry)]]"
 status: draft

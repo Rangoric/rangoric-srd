@@ -9,7 +9,6 @@ replaces:
   - "favored terrain (3rd–18th)"
   - "hunter’s bond (4th)"
   - "master hunter (20th)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Warden (Archetype)|Warden (PF1)]]"
 status: draft

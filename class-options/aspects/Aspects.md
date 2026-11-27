@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/classes/Shifter|Shifter (PF1 Foundry)]]"
   - "[[path srd 3.5 foundry/class-features/Shifter Aspect|Shifter Aspect (PF1 Foundry)]]"

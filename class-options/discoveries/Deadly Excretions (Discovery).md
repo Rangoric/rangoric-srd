@@ -5,7 +5,6 @@ option-type: "discovery"
 class: ["Alchemist"]
 bomb: false
 level: 8
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Gripplis#Grippli Discoveries|Gripplis, Grippli Discoveries (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Deadly Excretions|Deadly Excretions (PF1 Foundry)]]"

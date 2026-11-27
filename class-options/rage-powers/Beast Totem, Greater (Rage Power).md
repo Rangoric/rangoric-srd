@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "rage-power"
 class: ["Barbarian", "Skald"]
 level: 10
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Beast Totem, Greater|Beast Totem, Greater (PF1 F)]]"
 status: draft

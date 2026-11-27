@@ -6,7 +6,6 @@ class: ["Wizard"]
 replaces:
   - "arcane bond (1st)"
   - "bonus feat (10th)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Scrollmaster|Scrollmaster (PF1)]]"
 status: draft

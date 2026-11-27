@@ -7,7 +7,6 @@ element: ["air"]
 talent-type: "utility"
 talent-level: 2
 burn: "0"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Voice of the Wind, Greater|Voice of the Wind, Greater (PF1 Foundry)]]"
 status: draft

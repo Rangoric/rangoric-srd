@@ -6,7 +6,6 @@ class: "Ranger"
 ability-type: "Ex or Su"
 trap-type: "mechanical or magic"
 add-on: false
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/traps/Snare Trap (Ex or Su)|Snare Trap (Ex or Su) (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Snare Trap|Snare Trap (PF1 Foundry)]]"

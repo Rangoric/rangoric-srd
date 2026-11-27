@@ -8,7 +8,6 @@ replaces:
   - "domains (1st)"
   - "channel energy (1st, 9th, 15th)"
   - "spontaneous casting"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Evangelist|Evangelist (PF1)]]"
 status: draft

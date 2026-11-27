@@ -8,7 +8,6 @@ replaces:
   - "hunter’s bond (4th)"
   - "camouflage (12th)"
   - "hide in plain sight (17th)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Horse Lord|Horse Lord (PF1)]]"
 status: draft

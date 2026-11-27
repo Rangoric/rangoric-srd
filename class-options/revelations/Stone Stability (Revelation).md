@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "revelation"
 class: ["Oracle"]
 mystery: ["Stone"]
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/classes/Oracle#Stone|Oracle, Stone mystery (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Stone Stability (ORA)|Stone Stability (ORA) (PF1 Foundry)]]"

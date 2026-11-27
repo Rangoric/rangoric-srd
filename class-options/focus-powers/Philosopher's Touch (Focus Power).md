@@ -6,7 +6,6 @@ class: ["Occultist"]
 implement-school: "Transmutation"
 level: 1
 ability-type: "Su"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Philosopher's Touch|Philosopher's Touch (PF1 Foundry)]]"
 status: draft

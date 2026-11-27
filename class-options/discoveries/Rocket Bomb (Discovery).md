@@ -6,7 +6,6 @@ class: ["Alchemist"]
 bomb: false
 level: 6
 race: "Goblin"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Goblins#Goblin Discoveries|Goblins, Goblin Discoveries (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Rocket Bomb|Rocket Bomb (PF1 Foundry)]]"

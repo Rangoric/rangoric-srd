@@ -7,7 +7,6 @@ replaces:
   - "versatile performance (2nd)"
   - "frightening tune (14th)"
   - "deadly performance (20th)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Songhealer|Songhealer (PF1)]]"
 status: draft

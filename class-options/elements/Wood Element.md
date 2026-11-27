@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "element"
 class: ["Kineticist"]
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Wood Element|Wood Element (PF1 Foundry)]]"
 status: draft

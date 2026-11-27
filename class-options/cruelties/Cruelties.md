@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Class Features#Cruelty (Su)|Antipaladin (PF1)]]"
 status: draft

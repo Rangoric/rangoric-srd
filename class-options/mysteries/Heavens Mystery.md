@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "mystery"
 class: ["Oracle"]
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/classes/Oracle#Heavens|Oracle, Heavens mystery (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Heavens Mystery|Heavens Mystery (PF1 Foundry)]]"

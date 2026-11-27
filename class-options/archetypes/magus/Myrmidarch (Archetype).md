@@ -13,7 +13,6 @@ replaces:
   - "improved spell recall (11th)"
   - "greater spell combat (14th)"
   - "true magus (20th)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Myrmidarch|Myrmidarch (PF1)]]"
 status: draft

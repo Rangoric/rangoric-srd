@@ -6,7 +6,6 @@ class: "Ninja"
 master: true
 sneak-attack: false
 level: 10
-book: "Martial Arts Handbook"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Deep Cover (Ninja)|Deep Cover (PF1 Foundry)]]"
 status: draft

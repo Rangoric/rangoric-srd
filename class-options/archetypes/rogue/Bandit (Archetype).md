@@ -6,7 +6,6 @@ class: ["Rogue"]
 replaces:
   - "uncanny dodge (4th)"
   - "improved uncanny dodge (8th)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Bandit (Archetype)|Bandit (PF1)]]"
 status: draft

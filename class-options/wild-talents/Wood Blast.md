@@ -7,7 +7,6 @@ element: ["wood"]
 talent-type: "simple blast"
 talent-level: "—"
 burn: "0"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Wood Blast|Wood Blast (PF1 Foundry)]]"
 status: draft

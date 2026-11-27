@@ -8,7 +8,6 @@ replaces:
   - "summon monster I (1st–19th)"
   - "bond senses (2nd)"
   - "shield ally (4th)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Master Summoner|Master Summoner (PF1)]]"
 status: draft

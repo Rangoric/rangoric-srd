@@ -6,7 +6,6 @@ class: ["Paladin"]
 replaces:
   - "divine health (3rd)"
   - "aura of justice (11th)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Shining Knight|Shining Knight (PF1)]]"
 status: draft

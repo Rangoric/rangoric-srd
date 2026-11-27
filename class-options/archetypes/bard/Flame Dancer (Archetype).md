@@ -8,7 +8,6 @@ replaces:
   - "inspire competence (3rd)"
   - "suggestion (6th)"
   - "dirge of doom (8th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Flame Dancer|Flame Dancer (PF1)]]"
 status: draft

@@ -10,7 +10,6 @@ replaces:
   - "evasion (2nd)"
   - "fast movement (3rd)"
   - "improved evasion (9th)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Sensei (Archetype)|Sensei (PF1)]]"
 status: draft

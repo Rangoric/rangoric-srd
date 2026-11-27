@@ -9,7 +9,6 @@ replaces:
   - "rage powers (2nd, 8th, 14th, 20th)"
   - "improved uncanny dodge (5th)"
   - "trap sense (9th)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Half-Orcs (Advanced Race Guide)#Hateful Rager (Barbarian)|Half-Orcs, Hateful Rager (PF1)]]"
 status: draft

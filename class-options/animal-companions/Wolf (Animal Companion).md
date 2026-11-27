@@ -6,7 +6,6 @@ class: ["Druid"]
 size: "Medium"
 speed: "50 ft."
 advancement-level: "7th"
-book: "Core Rulebook"
 based-on:
   - "[[path srd 3.5/animal-companions/Wolf (Animal Companion)|Wolf (PF1)]]"
 status: draft

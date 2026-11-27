@@ -8,7 +8,6 @@ replaces:
   - "woodland stride (7th)"
   - "camouflage (12th)"
   - "hide in plain sight (17th)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Deep Walker|Deep Walker (PF1)]]"
 status: draft

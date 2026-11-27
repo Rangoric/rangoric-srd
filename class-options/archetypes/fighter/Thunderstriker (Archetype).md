@@ -7,7 +7,6 @@ replaces:
   - "armor training (3rd, 7th, 11th, 15th)"
   - "weapon training (13th, 17th)"
   - "armor mastery (19th)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Thunderstriker|Thunderstriker (PF1)]]"
 status: draft

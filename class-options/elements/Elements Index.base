@@ -8,7 +8,6 @@ views:
       - file.name
       - note.option-type
       - note.class
-      - note.book
       - note.status
     sort:
       - property: file.name

@@ -7,7 +7,6 @@ element: ["air"]
 talent-type: "defense"
 talent-level: "—"
 burn: "0"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Enveloping Winds|Enveloping Winds (PF1 Foundry)]]"
 status: draft

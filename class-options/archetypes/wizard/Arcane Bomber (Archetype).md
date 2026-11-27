@@ -7,7 +7,6 @@ replaces:
   - "arcane bond (1st)"
   - "cantrips"
   - "arcane school (1st)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Arcane Bomber|Arcane Bomber (PF1)]]"
 status: draft

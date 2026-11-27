@@ -7,7 +7,6 @@ replaces:
   - "wild empathy (1st)"
   - "combat style feat (2nd–18th)"
   - "hunter’s bond (4th)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Trophy Hunter|Trophy Hunter (PF1)]]"
 status: draft

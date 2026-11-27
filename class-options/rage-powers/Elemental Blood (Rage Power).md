@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "rage-power"
 class: ["Barbarian"]
 level: 6
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/rules/advanced-class-guide/class-options/Barbarian (Class Options)|Elemental Blood (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Elemental Blood|Elemental Blood (PF1 F)]]"

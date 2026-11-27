@@ -11,7 +11,6 @@ replaces:
   - "bonus feat (12th)"
   - "bonus feat (18th)"
   - "supreme charge (20th)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Gendarme|Gendarme (PF1)]]"
 status: draft

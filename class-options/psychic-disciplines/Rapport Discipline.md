@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "psychic discipline"
 class: ["Psychic"]
 phrenic-pool-ability: "Charisma"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Rapport Discipline|Rapport Discipline (PF1 Foundry)]]"
   - "[[path srd 3.5 foundry/class-features/Emotional Bond|Emotional Bond (PF1 Foundry)]]"

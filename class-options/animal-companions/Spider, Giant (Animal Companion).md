@@ -6,7 +6,6 @@ class: ["Druid"]
 size: "Small"
 speed: "30 ft., climb 30 ft."
 advancement-level: "4th"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/animal-companions/Spider, Giant (Animal Companion)|Spider, Giant (PF1)]]"
 status: draft

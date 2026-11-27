@@ -6,7 +6,6 @@ class: ["Druid"]
 size: "Medium"
 speed: "40 ft."
 advancement-level: "7th"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/animal-companions/Yzobu (Animal Companion)|Yzobu (PF1)]]"
 status: draft

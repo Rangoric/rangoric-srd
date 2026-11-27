@@ -8,7 +8,6 @@ replaces:
   - "bloodline powers (1st–20th)"
   - "bloodline spells (7th–19th)"
   - "bloodline feats (7th, 13th, 19th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Mongrel Mage|Mongrel Mage (PF1)]]"
 status: draft

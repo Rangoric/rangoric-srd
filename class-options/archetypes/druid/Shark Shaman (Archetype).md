@@ -10,7 +10,6 @@ replaces:
   - "wild shape (4th; gained at 6th)"
   - "venom immunity (9th)"
   - "a thousand faces (13th)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Shark Shaman|Shark Shaman (PF1)]]"
 status: draft

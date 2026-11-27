@@ -5,7 +5,6 @@ option-type: "discovery"
 class: ["Alchemist"]
 bomb: true
 race: "Drow"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/drow/New Rules (Drow)#Drow Alchemist Discoveries|New Rules (Drow), Drow Alchemist Discoveries (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Blackstar Bomb|Blackstar Bomb (PF1 Foundry)]]"

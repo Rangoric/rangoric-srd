@@ -7,7 +7,6 @@ replaces:
   - "class skills"
   - "martial flexibility (1st)"
   - "maneuver training (3rd–19th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Snakebite Striker|Snakebite Striker (PF1)]]"
 status: draft

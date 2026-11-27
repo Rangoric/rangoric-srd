@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "vermin focus"
 class: ["Hunter"]
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Verminous Hunter#Vermin Focus (Su)|Verminous Hunter, Scorpion (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Scorpion (Stealth)|Scorpion (Stealth) (PF1 Foundry)]]"

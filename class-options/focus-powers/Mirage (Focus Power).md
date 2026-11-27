@@ -6,7 +6,6 @@ class: ["Occultist"]
 implement-school: "Illusion"
 level: 5
 ability-type: "Sp"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Mirage (Occultist)|Mirage (PF1 Foundry)]]"
 status: draft

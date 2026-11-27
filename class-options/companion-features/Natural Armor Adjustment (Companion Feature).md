@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "companion feature"
 class: ["Druid"]
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5 foundry/companion-features/Natural Armor Bonus|Natural Armor Adjustment (PF1 Foundry)]]"
 status: draft

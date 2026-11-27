@@ -8,7 +8,6 @@ replaces:
   - "blood casting (4th)"
   - "eschew materials (4th)"
   - "bloodline spells (7th–16th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Untouchable Rager|Untouchable Rager (PF1)]]"
 status: draft

@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-book: ["Core Rulebook", "Advanced Player's Guide", "Ultimate Magic"]
 based-on:
   - "[[path srd 3.5/classes/Wizard#Arcane Schools|Wizard (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Elemental Arcane Schools|Elemental Arcane Schools (PF1 F)]]"

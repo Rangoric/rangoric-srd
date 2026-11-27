@@ -6,7 +6,6 @@ class: ["Spiritualist"]
 replaces:
   - "bonded manifestation (3rd)"
   - "dual bond (17th)"
-book: "Occult Adventures"
 based-on: []
 status: draft
 change: new

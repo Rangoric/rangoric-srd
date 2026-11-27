@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "revelation"
 class: ["Oracle"]
 mystery: ["Outer Dark"]
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/rules/ultimate-magic/spellcasting-class-options/Oracle (Spellcasting Class Options)#Dark Tapestry|Oracle, Dark Tapestry mystery (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Wings of Darkness|Wings of Darkness (PF1 Foundry)]]"

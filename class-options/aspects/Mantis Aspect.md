@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "aspect"
 class: ["Shifter"]
-book: "Wilderness Origins"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Mantis Aspect|Mantis Aspect (PF1 Foundry)]]"
 status: draft

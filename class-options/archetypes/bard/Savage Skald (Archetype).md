@@ -9,7 +9,6 @@ replaces:
   - "jack-of-all-trades (10th)"
   - "soothing performance (12th)"
   - "mass suggestion (18th)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Savage Skald|Savage Skald (PF1)]]"
 status: draft

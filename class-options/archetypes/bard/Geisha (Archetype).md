@@ -6,7 +6,6 @@ class: ["Bard"]
 replaces:
   - "weapon and armor proficiency"
   - "bardic knowledge (1st)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Geisha|Geisha (PF1)]]"
 status: draft

@@ -6,7 +6,6 @@ class: ["Witch"]
 race: "Half-Elf"
 replaces:
   - "witch’s familiar"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Half-Elves (Advanced Race Guide)#Bonded Witch (Witch)|Half-Elves, Bonded Witch (PF1)]]"
 status: draft

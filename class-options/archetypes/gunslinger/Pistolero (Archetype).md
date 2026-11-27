@@ -10,7 +10,6 @@ replaces:
   - "startling shot (7th)"
   - "bleeding wound (11th)"
   - "gun training (5th–17th)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Pistolero|Pistolero (PF1)]]"
 status: draft

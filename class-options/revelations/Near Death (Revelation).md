@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "revelation"
 class: ["Oracle"]
 mystery: ["Bones"]
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/classes/Oracle#Bones|Oracle, Bones mystery (PF1)]]"
   - "[[path srd 3.5 foundry/class-features/Near Death|Near Death (PF1 Foundry)]]"

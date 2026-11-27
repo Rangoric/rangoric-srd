@@ -4,7 +4,6 @@ section: "Class Options"
 option-type: "arcane-school"
 class: "Wizard"
 school-type: "elemental"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/rules/ultimate-magic/spellcasting-class-options/Wizard (Spellcasting Class Options)#Wood|Wizard (Ultimate Magic)]]"
 status: draft

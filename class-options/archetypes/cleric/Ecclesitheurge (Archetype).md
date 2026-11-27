@@ -7,7 +7,6 @@ replaces:
   - "weapon and armor proficiency"
   - "domains (1st)"
   - "channel energy (3rd)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Ecclesitheurge|Ecclesitheurge (PF1)]]"
 status: draft

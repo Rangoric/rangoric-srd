@@ -6,7 +6,6 @@ class: "Rogue"
 advanced: true
 sneak-attack: true
 level: 10
-book: "listed in Pathfinder Unchained"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Confounding Blades|Confounding Blades (PF1 F)]]"
 status: draft

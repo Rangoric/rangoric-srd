@@ -10,7 +10,6 @@ replaces:
   - "greater shield ally (12th)"
   - "life bond (14th)"
   - "greater aspect (18th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Naturalist|Naturalist (PF1)]]"
 status: draft

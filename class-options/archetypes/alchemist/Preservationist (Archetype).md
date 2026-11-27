@@ -10,7 +10,6 @@ replaces:
   - "poison immunity (10th)"
   - "persistent mutagen (14th)"
   - "discovery (18th)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/archetypes/Preservationist|Preservationist (PF1)]]"
 status: draft

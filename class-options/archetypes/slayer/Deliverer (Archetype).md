@@ -8,7 +8,6 @@ replaces:
   - "slayer talent (2nd)"
   - "slayer talent (6th)"
   - "slayer talent (10th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Deliverer|Deliverer (PF1)]]"
 status: draft

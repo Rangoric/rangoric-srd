@@ -12,7 +12,6 @@ replaces:
   - "cruelty (15th)"
   - "aura of depravity (17th)"
   - "unholy champion (20th)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/archetypes/Knight of the Sepulcher|Knight of the Sepulcher (PF1)]]"
 status: draft

@@ -6,7 +6,6 @@ class: ["Oracle"]
 replaces:
   - "mystery (class skills)"
   - "revelation (3rd, 7th, 15th)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Spirit Guide|Spirit Guide (PF1)]]"
 status: draft

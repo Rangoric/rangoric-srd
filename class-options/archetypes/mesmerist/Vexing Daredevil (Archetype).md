@@ -9,7 +9,6 @@ replaces:
   - "touch treatment (3rd–19th)"
   - "bold stare (3rd–19th)"
   - "glib lie (11th)"
-book: "Occult Adventures"
 based-on: []
 status: draft
 change: new

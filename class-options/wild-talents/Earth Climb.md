@@ -7,7 +7,6 @@ element: ["earth"]
 talent-type: "utility"
 talent-level: 2
 burn: "0"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Earth Climb|Earth Climb (PF1 Foundry)]]"
 status: draft

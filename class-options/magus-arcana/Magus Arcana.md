@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-book: ["Ultimate Magic", "Ultimate Combat", "Advanced Class Guide"]
 based-on:
   - "[[path srd 3.5/classes/Magus#Magus Arcana|Magus (PF1)]]"
 status: draft

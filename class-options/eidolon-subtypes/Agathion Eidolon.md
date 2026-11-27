@@ -3,7 +3,6 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "eidolon subtype"
 class: ["Unchained Summoner"]
-book: "Pathfinder Unchained"
 based-on:
   - "[[path srd 3.5/classes/Summoner (Unchained)#Agathion|Unchained Summoner, Agathion (PF1)]]"
 status: draft

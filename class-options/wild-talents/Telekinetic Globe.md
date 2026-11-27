@@ -7,7 +7,6 @@ element: ["aether"]
 talent-type: "utility"
 talent-level: 8
 burn: "0"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Telekinetic Globe|Telekinetic Globe (PF1 Foundry)]]"
 status: draft

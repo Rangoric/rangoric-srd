@@ -7,7 +7,6 @@ element: ["air"]
 talent-type: "utility"
 talent-level: 3
 burn: "—"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Windsight|Windsight (PF1 Foundry)]]"
 status: draft
