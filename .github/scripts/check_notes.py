@@ -11,14 +11,18 @@
 - Note rules: the README's "## Note rules" (every note but the root notes and legal/), then the folder's
   `<Folder> Note Rules.md`, then the subfolder's, each read from its tables and heading lists:
     `| Key | Required | Values |` under a heading naming a kind of note (its srd-type), or under "All notes"
-    (every note in the folder) or the README's "Note rules". Required is yes, no, or "when `key` is `value`"
-    ("is not" too; any other "when ..." reads as no). Values is blank (anything), allowed words in backticks
+    (every note in the folder) or the README's "Note rules". Required is yes, no, never (the key may not be there),
+    or "when `key` is `value`" ("is not" too; any other "when ..." reads as no). Values is blank (anything), allowed words in backticks
     (`*` matches any text), `number`, `text`, `date`, `link to <folder>`, `list of ...`, or "list including
     `a` and `b`". A Values cell with other words in it is for Sweep to read, not checked here.
     "Headings, in order:" then a numbered list of headings (`# (name)` is the note's own name, or that name less
     a trailing "(...)" that only keeps file names unique), checked in
     order; one not listed is allowed unless the list ends with "(no others)".
   A folder whose Note Rules has a kind table holds every note in it to one of its kinds.
+- Save wording: defenses replace saving throws (Saving Throws as Defenses, 2026-11-27), so no note under the README's
+  Note rules but rules/Saving Throws.md and unearthed-arcana/ says "save DC", "DC 15 Reflex save", "Reflex DC 15",
+  "Reflex save for half" or "makes a saving throw" (SAVE_WORDING), outside code and comments. Base save progressions
+  ("good Fortitude saves") and a creature's own "Reflex check (1d20 + Reflex save bonus)" don't match.
 - Marks: a note marked `sweep: failing` lists its problems in `sweep-issues`; a listed problem is a warning, one
   not listed still fails. A marked note with no problems left, or a listed issue that's gone, is a warning. A note
   added by the change (--added) can't be marked.
@@ -300,6 +304,10 @@ def required(req, data):
 
 def apply_table(keys, data, out):
     for key, (req, spec) in keys.items():
+        if req.strip().lower() == 'never':
+            if key in data:
+                out.append(f'{key} not allowed')
+            continue
         if key not in data or data[key] is None:
             if required(req, data):
                 out.append(f'no {key}')
@@ -348,11 +356,32 @@ def check_headings(rel, body, r, out):
                    if not any(same(w, h) for w in want))
 
 
+SAVE_WORDING = re.compile(
+    r'\bsave DCs?\b'
+    r'|\bDC \d+ (?:Fortitude|Reflex|Will|Fort|Ref)\.? sav(?:e|ing throw)s?\b(?! bonus)'
+    r'|\b(?:Fortitude|Reflex|Will|Fort|Ref)\.? (?:save |saving throw )?DC \d+'
+    r'|\bDC \d+[^.;\n]{0,25}?\bsaving throws?\b'
+    r'|\b(?:Fortitude|Reflex|Will) (?:save|saving throw)s? (?:for half|negates|halves|partial)'
+    r'|\b(?:makes?|making|attempts?|attempting|succeeds? (?:at|on)|succeeding (?:at|on)|fails?|failing|failed|allows?'
+    r'|allowing)\s+(?:an?\s+|its\s+|her\s+|his\s+|their\s+)?(?:(?:Fortitude|Reflex|Will|new|second|successful)\s+)?'
+    r'(?:saving throws?\b|(?:Fortitude|Reflex|Will) saves?\b(?! bonus))',
+    re.I)
+
+
+def save_wording(rel, body):
+    """Save wording left in a note's text (Saving Throws as Defenses): rules/Saving Throws.md, which defines the old
+    words, and unearthed-arcana/, kept as printed, may have it."""
+    if rel == 'rules/Saving Throws.md' or rel.startswith('unearthed-arcana/'):
+        return []
+    text = re.sub(r'<!--.*?-->', '', strip_code(body), flags=re.S)
+    return [f'save wording: {" ".join(m.group(0).split())}' for m in SAVE_WORDING.finditer(text)]
+
+
 def rule_problems(rel, data, body):
     """The note's problems against the written rules, in the checker's words (also its sweep-issues lines)."""
     if exempt(rel):
         return []
-    out = []
+    out = save_wording(rel, body)
     folder = folder_rules(rel)
     data = {k: v for k, v in data.items() if k not in ('sweep', 'sweep-issues')}
     if 'all' in README_RULES:
