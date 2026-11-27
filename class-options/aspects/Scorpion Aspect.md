@@ -26,6 +26,6 @@ At 8th level, the range of your tremorsense increases to 20 feet, and you gain a
 
 At 15th level, when you make an attack of opportunity with your sting attack or maintain a grapple and deal damage with your sting attack, that attack also applies the following [[rangoric-srd/rules/Afflictions#Poison|poison]].
 
-_Poison (Ex):_ Sting—injury; save Fort DC = 10 + half your shifter level + your Constitution modifier; frequency 1/round for 6 rounds; effect 1d3 Strength damage; cure 2 consecutive saves.
+_Poison (Ex):_ Sting—injury; attack bonus half your shifter level + your Constitution modifier vs Fortitude; frequency 1/round for 6 rounds; effect 1d3 Strength damage; cure 2 consecutive misses.
 
 **Alternate Natural Attacks**: Pincers (B), sting (P)

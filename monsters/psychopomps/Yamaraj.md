@@ -88,4 +88,4 @@ Yamarajs speak Abyssal, Aklo, Celestial, Common, Draconic and Infernal.
 
 **[[rangoric-srd/monsters/abilities/Lightning Drinker|Lightning Drinker]] (Su)**: A yamaraj absorbs electricity to strengthen itself. If struck by an electrical attack, it heals 1 hit point per 3 points of electricity damage the attack would otherwise deal. If the amount of healing would cause the yamaraj to exceed its full normal hit points, it gains any excess as temporary hit points (up to a maximum of 100), which last up to 1 hour.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; save +20 vs Fortitude; frequency 1/round for 6 rounds; effect 1d4 Dex drain; cure 3 consecutive misses.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; attack +20 vs Fortitude; frequency 1/round for 6 rounds; effect 1d4 Dex drain; cure 3 consecutive misses.

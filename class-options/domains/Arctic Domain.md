@@ -20,7 +20,7 @@ _A druid domain, which a [[rangoric-srd/classes/Druid|druid]] can take through h
 
 You master the might of the endless, snow-covered wastes beneath the midnight sun, where icy polar winds blow.
 
-**Call Cold (Su)**: You can channel energy (as a cleric of your druid level) a number of times per day equal to 3 + your Charisma modifier, but only to heal creatures with the cold subtype or to command them (as an evil cleric rebukes or commands undead). You can take other feats that add to this ability, such as Extra Channel and Improved Channel, but not feats that alter this ability, such as Elemental Channel and Alignment Channel. The DC to save against this ability is equal to 10 + 1/2 your druid level + your Charisma modifier.
+**Call Cold (Su)**: You can channel energy (as a cleric of your druid level) a number of times per day equal to 3 + your Charisma modifier, but only to heal creatures with the cold subtype or to command them (as an evil cleric rebukes or commands undead). You can take other feats that add to this ability, such as Extra Channel and Improved Channel, but not feats that alter this ability, such as Elemental Channel and Alignment Channel. The attack bonus of this ability is equal to 1/2 your druid level + your Charisma modifier.
 
 **Banish Flame (Su)**: At 6th level, you may use your call cold ability to damage creatures with the fire subtype (as a cleric channeling negative energy) or to cause them to flee from you (as a good cleric turns undead). Alternatively, you may use this ability to negate magical fire effects as if using a targeted dispel magic; at 12th level, this functions as targeted or area greater dispel magic instead of dispel magic.
 

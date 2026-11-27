@@ -19,4 +19,4 @@ tags: [rangoric, rangoric/class-option]
 
 _An [[rangoric-srd/classes/Alchemist#^alchemist-discovery|alchemist discovery]] (Ex)._
 
-When using his toxic skin ability, the alchemist can choose to excrete a Constitution poison instead of a Dexterity poison. This poison works the same as the normal grippli toxic skin poison except that a failed save deals 1 point of Constitution damage. The alchemist must be at least 8th level and must have the toxic skin racial trait before selecting this discovery.
+When using his toxic skin ability, the alchemist can choose to excrete a Constitution poison instead of a Dexterity poison. This poison works the same as the normal grippli toxic skin poison except that a hit deals 1 point of Constitution damage. The alchemist must be at least 8th level and must have the toxic skin racial trait before selecting this discovery.

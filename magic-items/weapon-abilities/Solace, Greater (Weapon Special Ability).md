@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Solace, Greater
 
-These weapons are similar to _solace_ weapons except that they further boost a paladin’s healing abilities (adding an additional 2d8 points), add a +2 sacred bonus to all her saves, and upon her death, immediately transport her soul to her deity’s realm, where she is then honored among the chosen of her god. _Resurrection_ is still possible, however.
+These weapons are similar to _solace_ weapons except that they further boost a paladin’s healing abilities (adding an additional 2d8 points), add a +2 sacred bonus to all her defenses, and upon her death, immediately transport her soul to her deity’s realm, where she is then honored among the chosen of her god. _Resurrection_ is still possible, however.
 
 Moderate enchantment; CL 9th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Consecrate|consecrate]]_, _[[rangoric-srd/spells/Cure Critical Wounds|cure critical wounds]]_; Price +4 bonus.

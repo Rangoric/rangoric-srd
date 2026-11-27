@@ -27,8 +27,8 @@ This power replaces the [[rangoric-srd/class-options/domains/Nobility Domain#Gra
 
 Each spell takes the place of the domain’s spells at its level (both, where it lists two); its spells at the other levels stay.
 
-| Level | Spell                                                                | Brief Description                                      |
-| ----- | -------------------------------------------------------------------- | ------------------------------------------------------ |
-| 1st   | [[rangoric-srd/spells/Bless\|Bless]]                                 | Allies gain +1 on attack rolls and saves against fear. |
-| 3rd   | [[rangoric-srd/spells/Prayer\|Prayer]]                               | Allies +1 bonus on most rolls, enemies –1 penalty.     |
-| 6th   | [[rangoric-srd/spells/Brilliant Inspiration\|Brilliant Inspiration]] | Take best of two d20 rolls.                            |
+| Level | Spell                                                                | Brief Description                                         |
+| ----- | -------------------------------------------------------------------- | --------------------------------------------------------- |
+| 1st   | [[rangoric-srd/spells/Bless\|Bless]]                                 | Allies gain +1 on attack rolls and defenses against fear. |
+| 3rd   | [[rangoric-srd/spells/Prayer\|Prayer]]                               | Allies +1 bonus on most rolls, enemies –1 penalty.        |
+| 6th   | [[rangoric-srd/spells/Brilliant Inspiration\|Brilliant Inspiration]] | Take best of two d20 rolls.                               |

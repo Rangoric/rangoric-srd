@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/alchemical-item]
 
 _Remedy_
 
-This herbal salve can be applied directly to the skin to prevent the effects of contact poisons. If a creature touches a contact poison, but you apply the salve within 1 round of contact, the victim rolls the save twice and uses the higher result.
+This herbal salve can be applied directly to the skin to prevent the effects of contact poisons. If a creature touches a contact poison, but you apply the salve within 1 round of contact, the poison rolls its attack twice and uses the lower result.
 
 **Construction**: [[rangoric-srd/skills/Craft|Craft]] (alchemy) DC 15; Price 15 gp.

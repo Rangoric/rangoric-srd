@@ -23,7 +23,7 @@ _A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]]._
 
 You see truth in the pure and burning light of the sun, and can call upon its blessing or wrath to work great deeds.
 
-**Sun's Blessing (Su)**: Whenever you channel positive energy to harm undead creatures, add your cleric level to the damage dealt. Undead do not add their channel resistance to their saves when you channel positive energy.
+**Sun's Blessing (Su)**: Whenever you channel positive energy to harm undead creatures, add your cleric level to the damage dealt. Undead do not add their channel resistance to their defenses when you channel positive energy.
 
 **Nimbus of Light (Su)**: At 8th level, you can emit a 30-foot nimbus of light for a number of rounds per day equal to your cleric level. This acts as a _[[rangoric-srd/spells/Daylight|daylight]]_ spell. In addition, undead within this radius take an amount of damage equal to your cleric level each round that they remain inside the nimbus. Spells and spell-like abilities with the darkness descriptor are automatically dispelled if brought inside this nimbus. These rounds do not need to be consecutive.
 

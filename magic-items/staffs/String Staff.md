@@ -25,9 +25,9 @@ But the _string staff_ is quite versatile in other ways, allowing the use of the
 
 - _[[rangoric-srd/spells/Rope Trick|rope trick]]_ (1 charge)
 
-- _[[rangoric-srd/spells/Web|web]]_ (1 charge, DC 13)
+- _[[rangoric-srd/spells/Web|web]]_ (1 charge, +3 vs Reflex)
 
-When used to cast _[[rangoric-srd/spells/Animate Rope|animate rope]]_ or _[[rangoric-srd/spells/Rope Trick|rope trick]]_ the staff extends itself into the form of a long, thin cord, and performs the magical activities. Even while extended, the staff retains its full toughness (hardness 3, 10 hit points, +5 save). The sticky strands of a _[[rangoric-srd/spells/Web|web]]_ spell seem to fly out of the top if the _string staff_.
+When used to cast _[[rangoric-srd/spells/Animate Rope|animate rope]]_ or _[[rangoric-srd/spells/Rope Trick|rope trick]]_ the staff extends itself into the form of a long, thin cord, and performs the magical activities. Even while extended, the staff retains its full toughness (hardness 3, 10 hit points, +5 defenses). The sticky strands of a _[[rangoric-srd/spells/Web|web]]_ spell seem to fly out of the top if the _string staff_.
 
 It can also, on command, change form into a +1 whip. When the staff is in whip form or extended to perform a _[[rangoric-srd/spells/Rope Trick|rope trick]]_ or _[[rangoric-srd/spells/Animate Rope|animate rope]]_ spell, it cannot be used for other magical effects until it’s restored to its staff form.
 

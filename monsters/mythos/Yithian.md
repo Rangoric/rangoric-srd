@@ -71,7 +71,7 @@ Yithians speak Aklo, Common, Yithian and 20 other languages.
 
 **[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 15th; concentration +19): At will—_[[rangoric-srd/spells/Astral Projection|astral projection]]_ (self only), _[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ (+6 vs Will), _[[rangoric-srd/spells/Hold Monster|hold monster]]_ (+9 vs Will), _[[rangoric-srd/spells/Modify Memory|modify memory]]_ (+8 vs Will).
 
-**Amnesia (Su)**: Once per day as a standard action, a yithian can attempt to inflict amnesia on a target it is able to communicate telepathically with. It attacks at +11 vs Will, and a miss resists it. If the target fails its save, it takes a permanent –4 penalty on Will Defense and all skill checks, and loses all memories save for those the yithian chooses to leave intact. This effect can be cured by heal or greater restoration. This is a mind-affecting insanity effect. The attack bonus is Charisma-based.
+**Amnesia (Su)**: Once per day as a standard action, a yithian can attempt to inflict amnesia on a target it is able to communicate telepathically with. It attacks at +11 vs Will, and a miss resists it. On a hit, the target takes a permanent –4 penalty on Will Defense and all skill checks, and loses all memories save for those the yithian chooses to leave intact. This effect can be cured by heal or greater restoration. This is a mind-affecting insanity effect. The attack bonus is Charisma-based.
 
 **Deadly Pincers (Ex)**: A yithian always applies 1-1/2 times its Strength modifier to damage dealt by its pincer attacks, and deals triple damage on a critical hit. Pincers are primary attacks for yithians.
 

@@ -33,15 +33,15 @@ You are sinister and cruel, and have wholly pledged your soul to the cause of ev
 
 Where a level has two spells, the cleric prepares [[rangoric-srd/class-options/domains/Domains#^domains-two-spells|either one]] in the domain spell slot.
 
-| Level | Spell                                                                                     | Brief Description                                                             |
-| ----- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 1st   | [[rangoric-srd/spells/Protection from Good\|Protection from Good]]                        | +2 to AC and saves, counter mind control, hedge out elementals and outsiders. |
-| 2nd   | [[rangoric-srd/spells/Desecrate\|Desecrate]] (M)                                          | Fills area with negative energy, making undead stronger.                      |
-| 2nd   | [[rangoric-srd/spells/Align Weapon\|Align Weapon]] (evil only)                            | Weapon becomes good, evil, lawful, or chaotic.                                |
-| 3rd   | [[rangoric-srd/spells/Magic Circle against Good\|Magic Circle against Good]]              | As protection spells, but 10-ft. radius and 10 min./level.                    |
-| 4th   | [[rangoric-srd/spells/Unholy Blight\|Unholy Blight]]                                      | Damages and sickens good creatures.                                           |
-| 5th   | [[rangoric-srd/spells/Dispel Good\|Dispel Good]]                                          | +4 bonus against attacks by good creatures.                                   |
-| 6th   | [[rangoric-srd/spells/Create Undead\|Create Undead]] (M)                                  | Create ghouls, ghasts, mummies, or mohrgs.                                    |
-| 7th   | [[rangoric-srd/spells/Blasphemy\|Blasphemy]]                                              | Kills, paralyzes, weakens, or dazes nonevil subjects.                         |
-| 8th   | [[rangoric-srd/spells/Unholy Aura\|Unholy Aura]] (F)                                      | +4 to AC, +4 resistance, SR 25 against good spells.                           |
-| 9th   | [[rangoric-srd/spells/Summon Monster IX\|Summon Monster IX]] (cast as an evil spell only) | Calls extraplanar creature to fight for you.                                  |
+| Level | Spell                                                                                     | Brief Description                                                                |
+| ----- | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| 1st   | [[rangoric-srd/spells/Protection from Good\|Protection from Good]]                        | +2 to AC and defenses, counter mind control, hedge out elementals and outsiders. |
+| 2nd   | [[rangoric-srd/spells/Desecrate\|Desecrate]] (M)                                          | Fills area with negative energy, making undead stronger.                         |
+| 2nd   | [[rangoric-srd/spells/Align Weapon\|Align Weapon]] (evil only)                            | Weapon becomes good, evil, lawful, or chaotic.                                   |
+| 3rd   | [[rangoric-srd/spells/Magic Circle against Good\|Magic Circle against Good]]              | As protection spells, but 10-ft. radius and 10 min./level.                       |
+| 4th   | [[rangoric-srd/spells/Unholy Blight\|Unholy Blight]]                                      | Damages and sickens good creatures.                                              |
+| 5th   | [[rangoric-srd/spells/Dispel Good\|Dispel Good]]                                          | +4 bonus against attacks by good creatures.                                      |
+| 6th   | [[rangoric-srd/spells/Create Undead\|Create Undead]] (M)                                  | Create ghouls, ghasts, mummies, or mohrgs.                                       |
+| 7th   | [[rangoric-srd/spells/Blasphemy\|Blasphemy]]                                              | Kills, paralyzes, weakens, or dazes nonevil subjects.                            |
+| 8th   | [[rangoric-srd/spells/Unholy Aura\|Unholy Aura]] (F)                                      | +4 to AC, +4 resistance, SR 25 against good spells.                              |
+| 9th   | [[rangoric-srd/spells/Summon Monster IX\|Summon Monster IX]] (cast as an evil spell only) | Calls extraplanar creature to fight for you.                                     |

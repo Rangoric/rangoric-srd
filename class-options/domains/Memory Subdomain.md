@@ -27,8 +27,8 @@ This power replaces the [[rangoric-srd/class-options/domains/Knowledge Domain#Gr
 
 Each spell takes the place of the domain’s spells at its level (both, where it lists two); its spells at the other levels stay.
 
-| Level | Spell                                                              | Brief Description                                             |
-| ----- | ------------------------------------------------------------------ | ------------------------------------------------------------- |
-| 2nd   | [[rangoric-srd/spells/Memory Lapse\|Memory Lapse]]                 | Subject forgets events back to last turn.                     |
-| 6th   | [[rangoric-srd/spells/Modify Memory\|Modify Memory]]               | Changes 5 minutes of subject’s memories.                      |
-| 8th   | [[rangoric-srd/spells/Moment of Prescience\|Moment of Prescience]] | You gain insight bonus on single attack roll, check, or save. |
+| Level | Spell                                                              | Brief Description                                                         |
+| ----- | ------------------------------------------------------------------ | ------------------------------------------------------------------------- |
+| 2nd   | [[rangoric-srd/spells/Memory Lapse\|Memory Lapse]]                 | Subject forgets events back to last turn.                                 |
+| 6th   | [[rangoric-srd/spells/Modify Memory\|Modify Memory]]               | Changes 5 minutes of subject’s memories.                                  |
+| 8th   | [[rangoric-srd/spells/Moment of Prescience\|Moment of Prescience]] | You gain insight bonus on single attack roll or check, or to one defense. |

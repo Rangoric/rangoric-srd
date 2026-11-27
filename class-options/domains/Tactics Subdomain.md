@@ -27,8 +27,8 @@ This power replaces the [[rangoric-srd/class-options/domains/War Domain#Granted 
 
 Each spell takes the place of the domain’s spells at its level (both, where it lists two); its spells at the other levels stay.
 
-| Level | Spell                                                             | Brief Description                                                               |
-| ----- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| 2nd   | [[rangoric-srd/spells/Aid\|Aid]]                                  | +1 on attack rolls and saves against fear, 1d8 temporary hp +1/level (max +10). |
-| 5th   | [[rangoric-srd/spells/Command, Greater\|Greater Command]]         | As command, but affects one subject/level.                                      |
-| 8th   | [[rangoric-srd/spells/Planar Ally, Greater\|Greater Planar Ally]] | As lesser planar ally, but up to 18 HD.                                         |
+| Level | Spell                                                             | Brief Description                                                                  |
+| ----- | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| 2nd   | [[rangoric-srd/spells/Aid\|Aid]]                                  | +1 on attack rolls and defenses against fear, 1d8 temporary hp +1/level (max +10). |
+| 5th   | [[rangoric-srd/spells/Command, Greater\|Greater Command]]         | As command, but affects one subject/level.                                         |
+| 8th   | [[rangoric-srd/spells/Planar Ally, Greater\|Greater Planar Ally]] | As lesser planar ally, but up to 18 HD.                                            |

@@ -68,4 +68,4 @@ One of the [[rangoric-srd/races/prestige-races/Prestige Races|prestige races]]; 
 
 **Details:** A green creature is one that has fully evolved into a plant, and gains most of the associated benefits of being one.
 
-**Game Effects:** The creature’s type becomes [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|plant]], making him immune to poison, sleep, paralysis, and stunning. He gains a +3 resistance bonus to all saves vs. mindinfluencing effects and polymorphing and a 50% chance for any critical hit to be considered a normal hit instead.
+**Game Effects:** The creature’s type becomes [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|plant]], making him immune to poison, sleep, paralysis, and stunning. He gains a +3 resistance bonus to all defenses vs. mindinfluencing effects and polymorphing and a 50% chance for any critical hit to be considered a normal hit instead.

@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/trait]
 
 You don't know the meaning of the word "tired." You go all out until you simply can't continue.
 
-**Benefit:** You gain a +2 bonus on Constitution checks and similar checks made to continue tiring activities (see the [[rangoric-srd/feats/Endurance|Endurance]] feat for all the checks and saves to which this benefit applies).
+**Benefit:** You gain a +2 bonus on Constitution checks and similar checks made to continue tiring activities (see the [[rangoric-srd/feats/Endurance|Endurance]] feat for all the checks and defenses to which this benefit applies).
 
 **Drawback:** Any effect or condition that would normally cause you to become [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]] instead causes you to become [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhausted]].
 

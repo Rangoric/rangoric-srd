@@ -43,5 +43,5 @@ Where a level has two spells, the cleric prepares [[rangoric-srd/class-options/d
 | 5th   | [[rangoric-srd/spells/Break Enchantment\|Break Enchantment]]           | Frees subjects from enchantments, alterations, curses, and petrification. |
 | 6th   | [[rangoric-srd/spells/Mislead\|Mislead]]                               | Turns you invisible and creates illusory double.                          |
 | 7th   | [[rangoric-srd/spells/Spell Turning\|Spell Turning]]                   | Reflect 1d4+6 spell levels back at caster.                                |
-| 8th   | [[rangoric-srd/spells/Moment of Prescience\|Moment of Prescience]]     | You gain insight bonus on single attack roll, check, or save.             |
+| 8th   | [[rangoric-srd/spells/Moment of Prescience\|Moment of Prescience]]     | You gain insight bonus on single attack roll or check, or to one defense. |
 | 9th   | [[rangoric-srd/spells/Miracle\|Miracle]]                               | Requests a deity’s intercession.                                          |

@@ -27,7 +27,7 @@ This 5foot staff of black oak, carved with images of falling leaves, skulls, and
 
 - _[[rangoric-srd/spells/Disrupt Undead|Disrupt undead]]_ (1 charge)
 
-- _[[rangoric-srd/spells/Fear|Fear]]_ (DC 16) (2 charges)
+- _[[rangoric-srd/spells/Fear|Fear]]_ (+6 vs Will) (2 charges)
 
 - _[[rangoric-srd/spells/Knock|Knock]]_ (1 charge)
 

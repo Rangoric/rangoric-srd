@@ -27,7 +27,7 @@ This power replaces the [[rangoric-srd/class-options/domains/Glory Domain#Grante
 
 Each spell takes the place of the domain’s spells at its level (both, where it lists two); its spells at the other levels stay.
 
-| Level | Spell                                                     | Brief Description                                                                    |
-| ----- | --------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| 3rd   | [[rangoric-srd/spells/Heroism\|Heroism]]                  | Gives +2 bonus on attack rolls, saves, skill checks.                                 |
-| 6th   | [[rangoric-srd/spells/Heroism, Greater\|Greater Heroism]] | Gives +4 bonus on attack rolls, saves, skill checks; immunity to fear; temporary hp. |
+| Level | Spell                                                     | Brief Description                                                                       |
+| ----- | --------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| 3rd   | [[rangoric-srd/spells/Heroism\|Heroism]]                  | Gives +2 bonus on attack rolls, defenses, skill checks.                                 |
+| 6th   | [[rangoric-srd/spells/Heroism, Greater\|Greater Heroism]] | Gives +4 bonus on attack rolls, defenses, skill checks; immunity to fear; temporary hp. |

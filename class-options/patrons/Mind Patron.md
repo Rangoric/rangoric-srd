@@ -25,5 +25,5 @@ _A [[rangoric-srd/classes/Witch#^witch-patron|witch’s patron]]. At each level 
 | 10th        | [[rangoric-srd/spells/Psychic Asylum\|Psychic Asylum]]                       | Perform a lengthy mental task in a private mindscape.                                                       |
 | 12th        | [[rangoric-srd/spells/Create Mindscape, Greater\|Create Mindscape, Greater]] | As create mindscape, but affecting more creatures, having a longer duration, and allowing magic alteration. |
 | 14th        | [[rangoric-srd/spells/Psychic Surgery\|Psychic Surgery]]                     | Cure all Int, Wis, and Cha damage and drain, plus remove other mental afflictions and conditions.           |
-| 16th        | [[rangoric-srd/spells/Moment of Prescience\|Moment of Prescience]]           | You gain insight bonus on single attack roll, check, or save.                                               |
+| 16th        | [[rangoric-srd/spells/Moment of Prescience\|Moment of Prescience]]           | You gain insight bonus on single attack roll or check, or to one defense.                                   |
 | 18th        | [[rangoric-srd/spells/Microcosm (Spell)\|Microcosm]]                         | Trap creatures in a veiled mindscape permanently, causing their bodies to waste away in the real world.     |

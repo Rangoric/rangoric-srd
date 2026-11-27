@@ -24,7 +24,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 _Ingestible; Special_
 
-The philter of kindred charm is an herbal and alchemical mixture that enhances a person’s Charisma but only among her own race. Each dose (3 drops) provides a +2 circumstance bonus to Charisma for one hour, but only for reaction and role-playing purposes (not a sorcerer’s spell abilities). If used in conjunction with enchantments or other emotion-affecting spells, any victims of the imbiber’s race make their saves at a -2 penalty due to the pheremonic effects of the philter.
+The philter of kindred charm is an herbal and alchemical mixture that enhances a person’s Charisma but only among her own race. Each dose (3 drops) provides a +2 circumstance bonus to Charisma for one hour, but only for reaction and role-playing purposes (not a sorcerer’s spell abilities). If used in conjunction with enchantments or other emotion-affecting spells, victims of the imbiber’s race take a -2 penalty on their defenses due to the pheremonic effects of the philter.
 
 **Construction**: Faint enchantment; CL 3rd; [[rangoric-srd/feats/Brew Ingestibles|Brew Ingestibles]] or [[rangoric-srd/feats/Brew Potion|Brew Potion]]; DC: 17; Price: 500 gp/ ¼ oz. vial (12 drops)
 

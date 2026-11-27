@@ -96,7 +96,7 @@ Activation: Psicrowns use the power trigger activation method, so manifesting a 
 
 ###### Psicrown Descriptions
 
-Psicrowns have immense utility because they pack so many capabilities into one item and because they use the wearer’s ability score and relevant feats to set the DC for saves against their powers.
+Psicrowns have immense utility because they pack so many capabilities into one item and because they use the wearer’s ability score and relevant feats to set the attack bonus of their powers.
 
 Unlike with other sorts of psionic items, the wearer can use his manifester level when activating the power of a psicrown if it’s higher than the manifester level of the psicrown.
 
