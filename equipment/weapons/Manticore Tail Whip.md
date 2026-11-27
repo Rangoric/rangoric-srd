@@ -12,10 +12,7 @@ range-note: "10 ft. (max)"
 weight-lb: 2
 damage-type: "Slashing"
 special: ["reach", "disarm", "trip"]
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapons/Whip, Manticore Tail|Whip, Manticore Tail (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/weapon, weapon-group/flails]
 ---

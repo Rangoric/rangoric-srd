@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "mounts and related gear"
 price: "200 gp"
 weight: "10 lb."
-based-on:
-  - "[[path srd 3.5/items/animals-mounts-and-related-gear/Hippogriff Egg|Hippogriff Egg (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Hippogriff Egg|Hippogriff Egg (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/gear]
 ---

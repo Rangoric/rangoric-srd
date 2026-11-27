@@ -10,10 +10,7 @@ prerequisites:
   - "Craft Powders & Dusts"
 dc: "25"
 price: "285 gp/1 oz. bottle"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Locksbane Powder|Locksbane Powder (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

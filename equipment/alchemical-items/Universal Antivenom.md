@@ -11,10 +11,7 @@ prerequisites:
   - "Craft Herbal Restoratives or Craft Chymicals"
 dc: "32"
 price: "1,200 gp/4 oz"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Maxar’s Antivenom|Maxar’s Antivenom (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/alchemical-item]
 ---

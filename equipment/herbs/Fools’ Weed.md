@@ -5,10 +5,7 @@ rarity: "Uncommon"
 environment: "Any marshlands and riverbanks"
 harvest: "Perennial"
 cost: "5 cp/oz. of leaves or flowers, dried or fresh"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Fools’ Weed|Fools’ Weed (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/herb]
 ---

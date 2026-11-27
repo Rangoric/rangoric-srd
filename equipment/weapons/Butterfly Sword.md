@@ -11,11 +11,7 @@ critical: "19–20/x2"
 weight-lb: 1
 damage-type: "Slashing"
 special: ["monk"]
-based-on:
-  - "[[path srd 3.5/items/eastern-armor-and-weapons/Butterfly Sword|Butterfly Sword (PF1)]]"
-  - "[[path srd 3.5 foundry/items/weapons/Butterfly Sword|Butterfly Sword (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/weapon, weapon-group/light-blades, weapon-group/monk, eastern]
 ---

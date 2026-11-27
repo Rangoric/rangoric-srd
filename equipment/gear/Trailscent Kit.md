@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "tools and skill kits"
 price: "10 gp"
 weight: "5 lb."
-based-on:
-  - "[[path srd 3.5/items/featured-race/Trailscent Kit|Trailscent Kit (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Kit, Trailscent|Kit, Trailscent (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/gear]
 ---

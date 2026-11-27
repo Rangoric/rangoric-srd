@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "mounts and related gear"
 price: "15 gp"
 weight: "9 oz."
-based-on:
-  - "[[path srd 3.5/items/animals-mounts-and-related-gear/Scorpion, Greensting (Item)|Scorpion, Greensting (Item) (PF1)]]"
-  - "[[path srd 3.5 foundry/items/goods-and-services/Scorpion, Greensting|Scorpion, Greensting (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/gear]
 ---

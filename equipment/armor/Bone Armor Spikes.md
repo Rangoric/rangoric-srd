@@ -7,10 +7,7 @@ cost-gp: 50
 cost-adds: true
 weight-lb: 7
 weight-adds: true
-based-on:
-  - "[[individual books/Arms & Armor v3.5/armor/Bone Armor Spikes|Bone Armor Spikes (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/armor]
 ---

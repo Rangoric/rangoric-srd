@@ -18,10 +18,7 @@ speed: "10 ft."
 hardness: 5
 hp: 50
 ammunition: "10 gp, 10 lb. per bolt"
-based-on:
-  - "[[path srd 3.5/items/siege-engines/Ballista|Ballista (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/siege-engine]
 ---

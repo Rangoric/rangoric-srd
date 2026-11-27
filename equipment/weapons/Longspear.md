@@ -11,11 +11,7 @@ critical: "x3"
 weight-lb: 9
 damage-type: "Piercing"
 special: ["reach"]
-based-on:
-  - "[[fantasy srd 3.5/equipment/Equipment Weapons|Equipment Weapons (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/weapons/Longspear|Longspear (Arms & Armor)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/weapon, weapon-group/spears]
 ---

@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "tools and skill kits"
 price: "8 sp"
 weight: "12 lb."
-based-on:
-  - "[[path srd 3.5/items/goods-and-services/Balancing Pole|Balancing Pole (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Balancing pole|Balancing pole (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/gear]
 ---

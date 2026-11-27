@@ -6,11 +6,7 @@ aliases:
   - "Spellbook, Compact"
 price: "50 gp/blank"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/core-race/Spellbook, Compact|Spellbook, Compact (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Compact spellbook|Compact spellbook (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/gear]
 ---

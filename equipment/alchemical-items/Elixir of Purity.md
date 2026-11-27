@@ -11,10 +11,7 @@ prerequisites:
   - "Brew Ingestibles or Brew Potion"
 dc: "35"
 price: "50,000 gp"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Elixir of Purity|Elixir of Purity (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

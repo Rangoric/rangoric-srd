@@ -5,10 +5,7 @@ rarity: "Common"
 environment: "Any temperate forests or hills"
 harvest: "Perennial/Evergreen"
 cost: "5 cp/oz. of berry juice or 20 berries or 3 oz. bark or twigs"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Juniper|Juniper (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/herb]
 ---

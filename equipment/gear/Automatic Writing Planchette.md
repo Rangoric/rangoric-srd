@@ -4,10 +4,7 @@ section: "Equipment"
 gear-type: "tools and skill kits"
 price: "25 gp"
 weight: "—"
-based-on:
-  - "[[path srd 3.5 foundry/items/gear/Automatic writing planchette|Automatic writing planchette (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/gear]
 ---

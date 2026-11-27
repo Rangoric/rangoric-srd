@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "clothing"
 price: "+5 gp"
 weight: "—"
-based-on:
-  - "[[path srd 3.5/items/clothing/Tear-Away Clothing|Tear-Away Clothing (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Tear-Away Clothing|Tear-Away Clothing (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/gear]
 ---

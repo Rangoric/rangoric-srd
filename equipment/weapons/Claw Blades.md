@@ -10,11 +10,7 @@ damage-medium: "1d4"
 critical: "x2"
 weight-lb: 2
 damage-type: "Slashing"
-based-on:
-  - "[[path srd 3.5/items/featured-race/Claw Blades|Claw Blades (PF1)]]"
-  - "[[path srd 3.5 foundry/items/weapons/Claw Blades|Claw Blades (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/weapon, weapon-group/light-blades]
 ---

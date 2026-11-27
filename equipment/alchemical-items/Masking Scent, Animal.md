@@ -5,11 +5,7 @@ category: ["Alchemical Tool"]
 magical: false
 dc: "20"
 price: "25 gp"
-based-on:
-  - "[[path srd 3.5/items/alchemical-tools/Masking Scent|Masking Scent (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Masking Scent (Animal)|Masking Scent (Animal) (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/alchemical-item]
 ---

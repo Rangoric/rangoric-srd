@@ -6,10 +6,7 @@ caster-level: 17
 role: "Diviner"
 price: "12,685 gp"
 price-with-ritual: "16,510 gp"
-based-on:
-  - "[[path srd 3.5/rules/ultimate-magic/mastering-magic/Spellbooks|Master Books of Rul Thaven (PF1 Ultimate Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/spellbook]
 ---

@@ -10,11 +10,7 @@ damage-medium: "1d8"
 critical: "18–20/x2"
 weight-lb: 6
 damage-type: "Slashing"
-based-on:
-  - "[[path srd 3.5/items/weapons/Rhoka Sword|Rhoka Sword (PF1)]]"
-  - "[[path srd 3.5 foundry/items/weapons/Rhoka Sword|Rhoka Sword (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/weapon, weapon-group/heavy-blades]
 ---

@@ -4,10 +4,7 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "40 gp"
 weight: "14 lb."
-based-on:
-  - "[[path srd 3.5 foundry/items/gear/Kit, Medium's|Kit, Medium's (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/gear]
 ---

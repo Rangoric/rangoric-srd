@@ -12,11 +12,7 @@ range-ft: 10
 weight-lb: 3
 damage-type: "Bludgeoning"
 special: ["disarm"]
-based-on:
-  - "[[path srd 3.5/items/primitive-armor-and-weapons/Wahaika|Wahaika (PF1)]]"
-  - "[[path srd 3.5 foundry/items/weapons/Wahaika|Wahaika (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/weapon, weapon-group/hammers, weapon-group/thrown]
 ---

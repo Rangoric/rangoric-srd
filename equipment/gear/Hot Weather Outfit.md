@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "clothing"
 price: "8 gp"
 weight: "4 lb."
-based-on:
-  - "[[path srd 3.5/items/goods-and-services/Hot Weather Outfit|Hot Weather Outfit (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Hot Weather Outfit|Hot Weather Outfit (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/gear]
 ---

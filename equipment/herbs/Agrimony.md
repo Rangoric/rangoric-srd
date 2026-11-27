@@ -5,10 +5,7 @@ rarity: "Common"
 environment: "Temperate hills"
 harvest: "Perennial"
 cost: "5 cp/oz. of dried flowers and leaves"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Agrimony|Agrimony (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/herb]
 ---

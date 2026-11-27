@@ -12,10 +12,7 @@ prerequisites:
   - "Craft Powders & Dusts"
 dc: "13"
 price: "400 gp/4 oz. pouch (3-4 oz powder and 1 oz. aqua)"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Denharil’s Doorjamb|Denharil’s Doorjamb (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/alchemical-item]
 ---

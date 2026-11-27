@@ -6,11 +6,7 @@ aliases:
   - "Gecko, Riding"
 price: "300 gp"
 weight: "1,200 lb."
-based-on:
-  - "[[path srd 3.5/items/animals-mounts-and-related-gear/Gecko, Riding|Gecko, Riding (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Gecko, riding|Gecko, riding (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/gear]
 ---

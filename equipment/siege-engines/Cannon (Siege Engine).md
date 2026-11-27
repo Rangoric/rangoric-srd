@@ -20,10 +20,7 @@ firearm: "siege"
 hardness: 10
 hp: 70
 ammunition: "30 gp, 25 lb. per ball"
-based-on:
-  - "[[path srd 3.5/items/siege-engines/Cannon|Cannon (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/siege-engine, weapon-group/firearms]
 ---

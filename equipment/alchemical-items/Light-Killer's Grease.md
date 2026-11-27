@@ -5,11 +5,7 @@ category: ["Alchemical Tool"]
 magical: false
 dc: "15"
 price: "25 gp"
-based-on:
-  - "[[path srd 3.5/items/misc/Light-Killer's Grease|Light-Killer's Grease (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Light-Killer's Grease|Light-Killer's Grease (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/alchemical-item]
 ---

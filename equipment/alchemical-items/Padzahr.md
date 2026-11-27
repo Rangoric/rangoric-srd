@@ -6,11 +6,7 @@ category: ["Remedy"]
 magical: false
 dc: "25"
 price: "80 gp"
-based-on:
-  - "[[path srd 3.5/items/alchemical-remedies/Padzahr|Padzahr (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Padzahr|Padzahr (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/alchemical-item]
 ---

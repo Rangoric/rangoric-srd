@@ -12,11 +12,7 @@ range-ft: 10
 weight-lb: 0.5
 damage-type: "Piercing"
 quantity: 5
-based-on:
-  - "[[fantasy srd 3.5/equipment/Equipment Weapons|Equipment Weapons (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/weapons/Shuriken|Shuriken (Arms & Armor)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/weapon, weapon-group/monk, weapon-group/thrown, eastern]
 ---

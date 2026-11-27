@@ -1,10 +1,7 @@
 ---
 srd-type: "overview"
 section: "Equipment"
-based-on:
-  - "[[fantasy srd 3.5/equipment/Equipment Goods and Services|Equipment Goods and Services (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---

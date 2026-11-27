@@ -4,12 +4,7 @@ section: "Equipment"
 gear-type: "food, drink, and lodging"
 price: "2 sp"
 weight: "—"
-based-on:
-  - "[[fantasy srd 3.5/equipment/Equipment Goods and Services|Equipment Goods and Services (3.5)]]"
-  - "[[path srd 3.5/items/lodging-and-services/Inn Stay|Inn Stay (PF1)]]"
-  - "[[path srd 3.5 foundry/items/goods-and-services/Service, Inn stay (poor)|Service, Inn stay (poor) (PF1 F)]]"
 status: draft
-change: modified
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/gear]
 ---

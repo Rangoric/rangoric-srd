@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "21 gp"
 weight: "21 lb."
-based-on:
-  - "[[path srd 3.5/items/adventuring-gear/Witch's Kit|Witch's Kit (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Kit, Witch's|Kit, Witch's (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-20
 tags: [rangoric, rangoric/gear]
 ---

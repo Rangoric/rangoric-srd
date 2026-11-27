@@ -3,11 +3,7 @@ srd-type: "rules"
 section: "Equipment"
 aliases:
   - "performance weapon"
-based-on:
-  - "[[path srd 3.5/rules/ultimate-combat/mastering-combat/Gladiator Weapons#Special|Gladiator Weapons (PF1)]]"
-  - "[[path srd 3.5/rules/ultimate-equipment/arms-and-armor/Weapons (Arms And Armor)|Weapons (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/rules]
 ---

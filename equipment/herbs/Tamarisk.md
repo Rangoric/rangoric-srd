@@ -5,10 +5,7 @@ rarity: "Rare"
 environment: "Any warm hills and seacoasts"
 harvest: "Perennial"
 cost: "5 gp/ 1 pound of dried tamarisk bundles"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Tamarisk|Tamarisk (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/herb]
 ---

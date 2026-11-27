@@ -5,11 +5,7 @@ category: ["Alchemical Tool"]
 magical: false
 dc: "10"
 price: "1 gp"
-based-on:
-  - "[[path srd 3.5/items/goods-and-services/Light Detector|Light Detector (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Light Detector|Light Detector (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/alchemical-item]
 ---

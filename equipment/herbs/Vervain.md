@@ -5,10 +5,7 @@ rarity: "Uncommon"
 environment: "Any temperate mountains and hills"
 harvest: "Perennial"
 cost: "5 sp/ 1 oz. of leaves, dried"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Vervain|Vervain (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/herb]
 ---

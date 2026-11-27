@@ -10,10 +10,7 @@ damage-medium: "1d6/1d4"
 critical: "18-20/x2"
 weight-lb: 6
 damage-type: "Slashing or bludgeoning"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapons/Backsword, Basket-hilted|Backsword, Basket-hilted (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/weapon, weapon-group/heavy-blades]
 ---

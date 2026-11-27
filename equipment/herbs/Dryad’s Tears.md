@@ -5,10 +5,7 @@ rarity: "Uncommon"
 environment: "Any temperate"
 harvest: "Annual"
 cost: "5 sp/1 pound of berries or 4 oz. fresh leaves; 1 gp/ bottle of Dryad’s tears wine"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Dryad’s Tears|Dryad’s Tears (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/herb]
 ---

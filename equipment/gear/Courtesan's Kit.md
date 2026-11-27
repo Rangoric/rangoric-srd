@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "10 gp"
 weight: "5 lb."
-based-on:
-  - "[[path srd 3.5/items/adventuring-gear/Courtesan's Kit|Courtesan's Kit (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Kit, Courtesan's|Kit, Courtesan's (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-20
 tags: [rangoric, rangoric/gear]
 ---

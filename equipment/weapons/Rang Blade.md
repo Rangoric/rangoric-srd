@@ -11,10 +11,7 @@ critical: "19-20/x2"
 range-ft: 30
 weight-lb: 2
 damage-type: "Slashing"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapons/Sword, Rang Blade|Sword, Rang Blade (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/weapon, weapon-group/heavy-blades, weapon-group/thrown]
 ---

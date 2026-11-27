@@ -10,10 +10,7 @@ prerequisites:
   - "Create Erlcana"
 dc: "33"
 price: "98,000 gp"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Erlixir of Trees’ Voice|Erlixir of Trees’ Voice (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

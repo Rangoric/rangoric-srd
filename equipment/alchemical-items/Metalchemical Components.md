@@ -11,10 +11,7 @@ prerequisites:
   - "Craft Chymicals"
 dc: "33"
 price: "80 gp/1 spell’s components (Enlarge Spell or Extend Spell), 120 gp/1 spell’s components (Empower Spell), 250 gp/1 spell’s component’s (Maximize Spell)"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Metalchemponents|Metalchemponents (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

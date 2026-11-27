@@ -12,11 +12,7 @@ attack-bonus: 14
 addiction: "severe"
 effect: "3 hours, +1d4 Dex, –1d4 Wis"
 damage: "1d6 Con"
-based-on:
-  - "[[path srd 3.5/afflictions/Scour|Scour (PF1)]]"
-  - "[[path srd 3.5/rules/game-mastery-guide/drugs-and-addiction/Sample Drugs|Sample Drugs (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/alchemical-item]
 ---

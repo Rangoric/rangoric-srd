@@ -10,10 +10,7 @@ prerequisites:
   - "Brew Ingestibles"
 dc: "25"
 price: "180 gp/2 oz"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Philter of the Predator|Philter of the Predator (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

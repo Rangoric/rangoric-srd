@@ -5,11 +5,7 @@ category: ["Alchemical Remedy"]
 magical: false
 dc: "25"
 price: "50 gp/vial"
-based-on:
-  - "[[path srd 3.5/items/goods-and-services/Antiplague|Antiplague (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Antiplague|Antiplague (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/alchemical-item]
 ---

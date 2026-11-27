@@ -10,11 +10,7 @@ damage-medium: "2d6"
 critical: "x3"
 weight-lb: 14
 damage-type: "Bludgeoning"
-based-on:
-  - "[[path srd 3.5/items/weapons/Earth Breaker|Earth Breaker (PF1)]]"
-  - "[[path srd 3.5 foundry/items/weapons/Earth Breaker|Earth Breaker (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/weapon, weapon-group/hammers]
 ---

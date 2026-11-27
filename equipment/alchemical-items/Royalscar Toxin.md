@@ -17,10 +17,7 @@ attack: "+12 vs Fortitude"
 attack-bonus: 12
 frequency: "1/minute for 2 minutes"
 effect: "paralyzed for 1d4 hours/1d2 Con drain"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Royalscar|Royalscar (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/alchemical-item]
 ---

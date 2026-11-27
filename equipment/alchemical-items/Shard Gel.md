@@ -12,11 +12,7 @@ damage: "1d4"
 critical: "×2"
 damage-type: "P"
 special: "Splash"
-based-on:
-  - "[[path srd 3.5/items/alchemical-weapons/Shard Gel|Shard Gel (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Shard gel|Shard gel (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/alchemical-item]
 ---

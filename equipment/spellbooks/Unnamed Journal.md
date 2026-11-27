@@ -5,10 +5,7 @@ book-type: "spellbook"
 caster-level: 3
 role: "Universalist"
 price: "265 gp"
-based-on:
-  - "[[path srd 3.5/rules/ultimate-magic/mastering-magic/Spellbooks|Unnamed Journal (PF1 Ultimate Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/spellbook]
 ---

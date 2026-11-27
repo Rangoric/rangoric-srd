@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "tools and skill kits"
 price: "500 gp"
 weight: "2 lb."
-based-on:
-  - "[[path srd 3.5/items/goods-and-services/Sextant|Sextant (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Sextant|Sextant (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/gear]
 ---

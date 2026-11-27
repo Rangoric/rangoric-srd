@@ -12,11 +12,7 @@ attack-bonus: 8
 addiction: "severe"
 effect: "sleep 1d4 hours or immune to fear 1d4 minutes (50% each)"
 damage: "1d2 Con"
-based-on:
-  - "[[path srd 3.5/afflictions/Shiver|Shiver (PF1)]]"
-  - "[[path srd 3.5/rules/game-mastery-guide/drugs-and-addiction/Sample Drugs|Sample Drugs (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/alchemical-item]
 ---

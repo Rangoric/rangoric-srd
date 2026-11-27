@@ -12,10 +12,7 @@ prerequisites:
   - "Craft Unguents"
 dc: "21"
 price: "210 gp/oz"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Saragun’s Blackout Oil|Saragun’s Blackout Oil (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/alchemical-item]
 ---

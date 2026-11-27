@@ -10,10 +10,7 @@ damage-medium: "2d8"
 critical: "18-20/x2"
 weight-lb: 12
 damage-type: "Slashing"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapons/Greatsword, Weighted|Greatsword, Weighted (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/weapon, weapon-group/heavy-blades]
 ---

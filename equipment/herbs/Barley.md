@@ -5,10 +5,7 @@ rarity: "Common"
 environment: "Temperate plains and hills"
 harvest: "Annual"
 cost: "5 cp/1 oz. of sprouted seeds or ground meal"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Barley|Barley (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/herb]
 ---

@@ -8,11 +8,7 @@ price: "1 gp"
 proficiency: "Ranged Weapons"
 range: "10 ft."
 special: "See text"
-based-on:
-  - "[[path srd 3.5/items/alchemical-weapons/Paper Candle Firework|Paper Candle Firework (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Firework (paper candle)|Firework (paper candle) (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/alchemical-item]
 ---

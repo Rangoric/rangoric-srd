@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "8 gp"
 weight: "19 lb."
-based-on:
-  - "[[path srd 3.5/items/adventuring-gear/Summoner's Kit|Summoner's Kit (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Kit, Summoner's|Kit, Summoner's (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-20
 tags: [rangoric, rangoric/gear]
 ---

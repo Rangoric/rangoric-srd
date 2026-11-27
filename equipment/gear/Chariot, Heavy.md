@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "transport"
 price: "200 gp"
 weight: "—"
-based-on:
-  - "[[path srd 3.5/items/animals-mounts-and-related-gear/Chariot|Chariot (PF1)]]"
-  - "[[path srd 3.5 foundry/items/goods-and-services/Vehicle, Chariot (heavy)|Vehicle, Chariot (heavy) (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/gear]
 ---

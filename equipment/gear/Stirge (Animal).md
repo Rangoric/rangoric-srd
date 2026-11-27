@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "mounts and related gear"
 price: "20 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/animals-mounts-and-related-gear/Stirge (Item)|Stirge (Item) (PF1)]]"
-  - "[[path srd 3.5 foundry/items/goods-and-services/Stirge (Item)|Stirge (Item) (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/gear]
 ---

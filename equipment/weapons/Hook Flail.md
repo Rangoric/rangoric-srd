@@ -11,10 +11,7 @@ critical: "19-20/x2"
 weight-lb: 20
 damage-type: "Bludgeoning or slashing"
 special: ["trip", "disarm"]
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapons/Flail, Hook|Flail, Hook (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/weapon, weapon-group/flails]
 ---

@@ -10,10 +10,7 @@ prerequisites:
   - "At least one rank in Craft (alchemy)"
 dc: "17"
 price: "2,000 gp/2 oz. “firepot”"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Sophic Fire|Sophic Fire (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

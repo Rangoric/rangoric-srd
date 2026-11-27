@@ -10,11 +10,7 @@ proficiency: "Ranged Weapons"
 range: "10 ft."
 damage-type: "Poison"
 special: "Splash, see text"
-based-on:
-  - "[[path srd 3.5/items/alchemical-weapons/Ghast Retch Flask|Ghast Retch Flask (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Ghast retch flask|Ghast retch flask (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/alchemical-item]
 ---

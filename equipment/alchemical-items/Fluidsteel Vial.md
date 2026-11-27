@@ -11,10 +11,7 @@ prerequisites:
   - "Craft Chymicals"
 dc: "28"
 price: "1,000 gp/pound"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Fluidsteel|Fluidsteel (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

@@ -8,10 +8,7 @@ bulk-name: "Black powder, keg"
 bulk-cost-gp: 1000
 bulk-weight-lb: 5
 used-with: "firearms"
-based-on:
-  - "[[path srd 3.5/items/firearms/Black Powder|Black Powder (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/weapon]
 ---

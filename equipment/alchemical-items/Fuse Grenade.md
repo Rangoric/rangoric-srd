@@ -12,11 +12,7 @@ damage: "2d6/1d6"
 critical: "×2"
 damage-type: "B/fire"
 special: "Area, see text"
-based-on:
-  - "[[path srd 3.5/items/alchemical-weapons/Fuse Grenade|Fuse Grenade (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Fuse grenade|Fuse grenade (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/alchemical-item]
 ---

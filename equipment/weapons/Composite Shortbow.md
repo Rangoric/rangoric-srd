@@ -12,11 +12,7 @@ range-ft: 70
 weight-lb: 2
 damage-type: "Piercing"
 ammunition: ["[[rangoric-srd/equipment/weapons/Arrows|Arrows]]"]
-based-on:
-  - "[[fantasy srd 3.5/equipment/Equipment Weapons|Equipment Weapons (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/weapons/Shortbow, Composite|Shortbow, Composite (Arms & Armor)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/weapon, weapon-group/bows]
 ---

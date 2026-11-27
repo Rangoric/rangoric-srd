@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "1 gp"
 weight: "5 lb."
-based-on:
-  - "[[path srd 3.5/items/adventuring-gear/Waffle Iron|Waffle Iron (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Waffle iron, common|Waffle iron, common (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-20
 tags: [rangoric, rangoric/gear]
 ---

@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "9 gp"
 weight: "29 lb."
-based-on:
-  - "[[path srd 3.5/items/adventuring-gear/Oracle's Kit|Oracle's Kit (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Kit, Oracle's|Kit, Oracle's (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-20
 tags: [rangoric, rangoric/gear]
 ---

@@ -5,10 +5,7 @@ rarity: "Rare"
 environment: "Any hills or plains"
 harvest: "Annual"
 cost: "3 gp/oz. of dried galangal root or 1 oz. of stems, dried and crushed"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Galangal|Galangal (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/herb]
 ---

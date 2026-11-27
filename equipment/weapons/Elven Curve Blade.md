@@ -10,10 +10,7 @@ damage-medium: "1d10"
 critical: "18–20/x2"
 weight-lb: 7
 damage-type: "Slashing"
-based-on:
-  - "[[path srd 3.5/items/weapons/Curve Blade, Elven|Curve Blade, Elven (PF1)]]"
 status: draft
-change: modified
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/weapon, weapon-group/heavy-blades]
 ---

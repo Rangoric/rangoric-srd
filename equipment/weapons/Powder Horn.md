@@ -6,10 +6,7 @@ category: "accessory"
 cost-gp: 3
 weight-lb: 1
 used-with: "firearms"
-based-on:
-  - "[[path srd 3.5/items/firearms/Powder Horn|Powder Horn (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/weapon]
 ---

@@ -10,10 +10,7 @@ prerequisites:
   - "Brew Ingestibles or Craft Herbal Restoratives"
 dc: "15"
 price: "220 gp/1 pound bag (1 meal)"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Feed of Refreshment|Feed of Refreshment (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

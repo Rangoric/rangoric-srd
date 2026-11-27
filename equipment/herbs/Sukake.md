@@ -12,10 +12,7 @@ attack: "+3 vs Fortitude"
 attack-bonus: 3
 frequency: "1/minute for 2 minutes"
 effect: "1 Int damage and 1 Wis damage/asleep (unconscious) for 1d4 hours"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Sukake (Citron)|Sukake (Citron) (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/herb]
 ---

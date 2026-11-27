@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "mounts and related gear"
 price: "30 gp"
 weight: "240 lb."
-based-on:
-  - "[[path srd 3.5/items/goods-and-services/Cage|Cage (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Cage, large|Cage, large (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/gear]
 ---

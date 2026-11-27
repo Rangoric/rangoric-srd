@@ -11,10 +11,7 @@ prerequisites:
   - "Craft Chymicals"
 dc: "15"
 price: "35 gp/oz. bottle"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Tragar’s Esoterinks|Tragar’s Esoterinks (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/alchemical-item]
 ---

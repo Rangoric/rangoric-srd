@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "200 gp"
 weight: "500 lb."
-based-on:
-  - "[[path srd 3.5/items/adventuring-gear/Fire Pump|Fire Pump (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Kit, Fire pump|Kit, Fire pump (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/gear]
 ---

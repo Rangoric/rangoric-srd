@@ -4,10 +4,7 @@ section: "Equipment"
 gear-type: "tools and skill kits"
 price: "5 gp"
 weight: "5 lb."
-based-on:
-  - "[[path srd 3.5/items/goods-and-services/Leeching Kit|Leeching Kit (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/gear]
 ---

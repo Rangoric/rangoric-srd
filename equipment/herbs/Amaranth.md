@@ -5,10 +5,7 @@ rarity: "Uncommon"
 environment: "Temperate hills and mountains"
 harvest: "Perennial"
 cost: "5 sp/oz. of dried leaves and flowers"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Amaranth|Amaranth (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/herb]
 ---

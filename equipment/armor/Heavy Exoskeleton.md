@@ -8,10 +8,7 @@ max-dex: -1
 check-penalty: -2
 spell-failure: 15
 weight-lb: 80
-based-on:
-  - "[[individual books/Arms & Armor v3.5/armor/Exoskeleton (suitable for steampunk campaigns)|Exoskeleton (suitable for steampunk campaigns) (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/armor]
 ---

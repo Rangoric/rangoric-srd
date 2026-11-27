@@ -5,10 +5,7 @@ rarity: "Rare"
 environment: "Any Temperate (uncommon in mountains)"
 harvest: "Perennial"
 cost: "2 gp/oz. of dried leaves or flowers or 1 oz. macerated oil of same"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Mantle Sage|Mantle Sage (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/herb]
 ---

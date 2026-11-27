@@ -5,12 +5,7 @@ category: ["Alchemical Tool"]
 magical: false
 dc: "25"
 price: "30 gp/vial"
-based-on:
-  - "[[path srd 3.5/items/core-race/Black Fester|Black Fester (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Black Fester|Black Fester (PF1 F)]]"
-  - "[[path srd 3.5 foundry/items/gear/Black Fester (Vial)|Black Fester (Vial) (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/alchemical-item]
 ---

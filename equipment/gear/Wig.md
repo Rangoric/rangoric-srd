@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "clothing"
 price: "5 gp–500 gp"
 weight: "1/2–4 lb."
-based-on:
-  - "[[path srd 3.5/items/clothing/Wig|Wig (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Wig|Wig (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/gear]
 ---

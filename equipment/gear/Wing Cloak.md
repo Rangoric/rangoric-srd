@@ -4,10 +4,7 @@ section: "Equipment"
 gear-type: "clothing"
 price: "1,200 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/featured-race/Wing Cloak|Wing Cloak (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/gear]
 ---

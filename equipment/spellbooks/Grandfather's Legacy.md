@@ -5,10 +5,7 @@ book-type: "spellbook"
 caster-level: 14
 role: "Necromancer"
 price: "7,610 gp"
-based-on:
-  - "[[path srd 3.5/rules/ultimate-magic/mastering-magic/Spellbooks|Grandfather's Legacy (PF1 Ultimate Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/spellbook]
 ---

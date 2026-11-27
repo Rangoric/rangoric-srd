@@ -11,10 +11,7 @@ prerequisites:
   - "Perfect Materials"
 dc: "36"
 price: "12,000 gp/5 gallon"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/N’Kinnym’s Skeletalchymical Baths|N’Kinnym’s Skeletalchymical Baths (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/alchemical-item]
 ---

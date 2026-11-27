@@ -5,10 +5,7 @@ rarity: "Uncommon"
 environment: "Any forests"
 harvest: "Annual"
 cost: "5 sp/oz. of berries (roughly 1 oz. berry juice) or 2 oz. dried bark; 1 gp/8” length of wood"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Blackthorn|Blackthorn (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/herb]
 ---

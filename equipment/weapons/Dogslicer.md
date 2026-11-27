@@ -10,10 +10,7 @@ damage-medium: "1d6"
 critical: "19–20/x2"
 weight-lb: 1
 damage-type: "Slashing"
-based-on:
-  - "[[path srd 3.5/items/featured-race/Dogslicer|Dogslicer (PF1)]]"
 status: draft
-change: modified
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/weapon, weapon-group/light-blades]
 ---

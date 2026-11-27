@@ -16,10 +16,7 @@ aim: 2
 load: 3
 speed: "0 ft."
 ammunition: "20 gp, 10 lb. per use"
-based-on:
-  - "[[path srd 3.5/items/siege-engines/Springal|Springal (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/siege-engine]
 ---

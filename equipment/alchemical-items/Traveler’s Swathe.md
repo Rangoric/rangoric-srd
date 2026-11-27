@@ -11,10 +11,7 @@ prerequisites:
   - "Create Erlcana"
 dc: "32"
 price: "90,000 gp/travelerswathe"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Travelerswathe|Travelerswathe (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

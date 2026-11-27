@@ -11,10 +11,7 @@ attack: "+7 vs Fortitude (berries; leaves and flowers +6, stalks or root +4)"
 attack-bonus: 7
 frequency: "1/minute for 2 minutes"
 effect: "nauseated for 1 minute/1d3 Str damage and 1d2 Con damage"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Bryony|Bryony (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/herb]
 ---

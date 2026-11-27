@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "mounts and related gear"
 price: "50 gp"
 weight: "75 lb."
-based-on:
-  - "[[path srd 3.5/items/misc/Gorthek Saddle|Gorthek Saddle (PF1)]]"
-  - "[[path srd 3.5 foundry/items/goods-and-services/Gorthek saddle|Gorthek saddle (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/gear]
 ---

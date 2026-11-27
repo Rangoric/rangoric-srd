@@ -1,12 +1,7 @@
 ---
 srd-type: "overview"
 section: "Equipment"
-based-on:
-  - "[[fantasy srd 3.5/equipment/Equipment General|Equipment General (3.5)]]"
-  - "[[path srd 3.5/rules/ultimate-equipment/gear/Entertainment and Trade Goods|Entertainment and Trade Goods (PF1)]]"
-  - "[[path srd 3.5/rules/ultimate-equipment/gear/Clothing|Clothing (PF1)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---

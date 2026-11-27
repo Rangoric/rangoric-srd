@@ -15,10 +15,7 @@ misfire: "1"
 capacity: 1
 weight-lb: 12
 damage-type: "Bludgeoning and piercing"
-based-on:
-  - "[[path srd 3.5/items/firearms/Rifle|Rifle (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/weapon, weapon-group/firearms]
 ---

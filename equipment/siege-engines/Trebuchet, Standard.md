@@ -18,10 +18,7 @@ targeting-dc: 20
 hardness: 5
 hp: 100
 ammunition: "30 gp, 110 lb. per use"
-based-on:
-  - "[[path srd 3.5/items/siege-engines/Trebuchet|Trebuchet (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/siege-engine]
 ---

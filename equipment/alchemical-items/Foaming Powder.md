@@ -6,11 +6,7 @@ magical: false
 dc: "20"
 price: "10 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/alchemical-tools/Foaming Powder|Foaming Powder (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Foaming Powder|Foaming Powder (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/alchemical-item]
 ---

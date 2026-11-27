@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "tools and skill kits"
 price: "1,000 gp"
 weight: "6 lb."
-based-on:
-  - "[[path srd 3.5/items/goods-and-services/Astrolabe|Astrolabe (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Astrolabe|Astrolabe (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/gear]
 ---

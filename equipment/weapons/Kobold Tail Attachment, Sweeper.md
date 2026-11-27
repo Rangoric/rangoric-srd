@@ -13,11 +13,7 @@ critical: "x2"
 weight-lb: 3
 damage-type: "Bludgeoning"
 special: ["trip"]
-based-on:
-  - "[[path srd 3.5/items/featured-race/Kobold Tail Attachments|Kobold Tail Attachments (PF1)]]"
-  - "[[path srd 3.5 foundry/items/weapons/Kobold Tail Attachment (Sweeper)|Kobold Tail Attachment (Sweeper) (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/weapon, weapon-group/kobold-tail-attachments]
 ---

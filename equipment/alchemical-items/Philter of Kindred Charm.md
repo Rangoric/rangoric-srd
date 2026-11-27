@@ -11,10 +11,7 @@ prerequisites:
   - "Brew Ingestibles or Brew Potion"
 dc: "17"
 price: "500 gp/ ¼ oz. vial (12 drops)"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Chyra’s Philter|Chyra’s Philter (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/alchemical-item]
 ---

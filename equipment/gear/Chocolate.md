@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "food, drink, and lodging"
 price: "5 gp"
 weight: "1/2 lb."
-based-on:
-  - "[[path srd 3.5/items/food-and-drink/Chocolate|Chocolate (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Chocolate (Bar)|Chocolate (Bar) (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/gear]
 ---

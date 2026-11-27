@@ -19,10 +19,7 @@ attack-bonus: 5
 onset: "when the potion’s magic ends or is dispelled"
 frequency: "1/round for 2d4 rounds"
 effect: "1d8 damage and nauseated for 1 round/1d4+1 damage"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Ptarl’s Lurking Menace|Ptarl’s Lurking Menace (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/alchemical-item]
 ---

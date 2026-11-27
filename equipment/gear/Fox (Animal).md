@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "mounts and related gear"
 price: "8 gp"
 weight: "12 lb."
-based-on:
-  - "[[path srd 3.5/items/animals-mounts-and-related-gear/Fox|Fox (PF1)]]"
-  - "[[path srd 3.5 foundry/items/goods-and-services/Fox (Item)|Fox (Item) (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/gear]
 ---

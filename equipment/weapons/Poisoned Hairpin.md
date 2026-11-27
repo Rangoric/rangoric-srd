@@ -10,10 +10,7 @@ damage-medium: "1d2"
 critical: "x2"
 weight-lb: 0.1
 damage-type: "Piercing"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapons/Hairpin, Poisoned|Hairpin, Poisoned (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/weapon, weapon-group/light-blades]
 ---

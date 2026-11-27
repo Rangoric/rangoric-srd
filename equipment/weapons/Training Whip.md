@@ -13,11 +13,7 @@ critical: "x2"
 weight-lb: 2
 damage-type: "Slashing"
 special: ["disarm", "nonlethal", "reach", "trip"]
-based-on:
-  - "[[path srd 3.5/items/core-race/Whip, Training|Whip, Training (PF1)]]"
-  - "[[path srd 3.5 foundry/items/goods-and-services/Whip, Training|Whip, Training (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/weapon, weapon-group/flails]
 ---

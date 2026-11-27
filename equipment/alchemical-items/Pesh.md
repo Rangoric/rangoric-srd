@@ -12,11 +12,7 @@ attack-bonus: 10
 addiction: "moderate"
 effect: "1 hour, +1d2 Str, –2 on defenses against illusions and mind-affecting effects; then 1d2 hours fatigued"
 damage: "1d2 Con and 1d2 Wis"
-based-on:
-  - "[[path srd 3.5/afflictions/Pesh|Pesh (PF1)]]"
-  - "[[path srd 3.5/rules/game-mastery-guide/drugs-and-addiction/Sample Drugs|Sample Drugs (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/alchemical-item]
 ---

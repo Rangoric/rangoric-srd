@@ -12,11 +12,7 @@ range-ft: 20
 weight-lb: 2
 damage-type: "Bludgeoning"
 special: ["performance", "trip"]
-based-on:
-  - "[[path srd 3.5/items/gladiator-weapons/Aklys|Aklys (PF1)]]"
-  - "[[path srd 3.5 foundry/items/weapons/Aklys|Aklys (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/weapon, weapon-group/hammers, weapon-group/thrown]
 ---

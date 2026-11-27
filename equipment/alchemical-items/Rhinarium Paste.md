@@ -6,11 +6,7 @@ magical: false
 dc: "20"
 price: "75 gp"
 weight: "1/2 lb."
-based-on:
-  - "[[path srd 3.5/items/misc/Rhinarium Paste|Rhinarium Paste (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Rhinarium Paste|Rhinarium Paste (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/alchemical-item]
 ---

@@ -11,11 +11,7 @@ critical: "x3"
 weight-lb: 14
 damage-type: "Piercing"
 special: ["monk", "reach"]
-based-on:
-  - "[[path srd 3.5/items/eastern-armor-and-weapons/Tri-Point Double-Edged Sword|Tri-Point Double-Edged Sword (PF1)]]"
-  - "[[path srd 3.5 foundry/items/weapons/Tri-Point Double-Edged Sword|Tri-Point Double-Edged Sword (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/weapon, weapon-group/monk, eastern]
 ---

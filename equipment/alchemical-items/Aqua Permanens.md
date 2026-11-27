@@ -10,10 +10,7 @@ prerequisites:
   - "At least one rank in Craft (alchemy)"
 dc: "18"
 price: "15 gp/2 oz. flask"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Aqua Permanens|Aqua Permanens (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

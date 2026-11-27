@@ -7,10 +7,7 @@ size: "Gargantuan"
 price: "50 gp"
 price-gp: 50
 hp: 160
-based-on:
-  - "[[path srd 3.5/items/siege-engines/Bridge, Assault|Bridge, Assault (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/siege-engine]
 ---

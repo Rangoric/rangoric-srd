@@ -10,10 +10,7 @@ prerequisites:
   - "Brew Ingestibles or Craft Herbal Restoratives"
 dc: "17"
 price: "15 gp/0.5 oz"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Tisane of Bloodstrength|Tisane of Bloodstrength (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

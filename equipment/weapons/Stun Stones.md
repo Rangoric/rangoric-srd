@@ -11,10 +11,7 @@ range-note: "–10 ft."
 weight-lb: 5
 damage-type: "Bludgeoning"
 quantity: 20
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapons/Stones, Stun|Stones, Stun (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/weapon]
 ---

@@ -8,10 +8,7 @@ cost-gp: 1
 damage-small: "special"
 damage-medium: "special"
 weight-lb: 1
-based-on:
-  - "[[path srd 3.5/items/eastern-armor-and-weapons/Poisoned Sand Tube|Poisoned Sand Tube (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/weapon, weapon-group/thrown, eastern]
 ---

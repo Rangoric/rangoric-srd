@@ -10,11 +10,7 @@ proficiency: "Ranged Weapons"
 range: "10 ft."
 damage-type: "Poison"
 special: "Splash, see text"
-based-on:
-  - "[[path srd 3.5/items/alchemical-weapons/Itching Powder|Itching Powder (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Itching Powder|Itching Powder (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/alchemical-item]
 ---

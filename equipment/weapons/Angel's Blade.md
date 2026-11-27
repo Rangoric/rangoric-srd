@@ -11,10 +11,7 @@ critical: "19-20/x2"
 weight-lb: 8
 damage-type: "Slashing"
 accessories: ["[[rangoric-srd/equipment/weapons/Adamantine Strip|Adamantine Strip]]", "[[rangoric-srd/equipment/weapons/Cold Iron Strip|Cold Iron Strip]]", "[[rangoric-srd/equipment/weapons/Silver Strip|Silver Strip]]"]
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapons/Greatsword, Angel’s Blade|Greatsword, Angel’s Blade (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/weapon, weapon-group/heavy-blades]
 ---

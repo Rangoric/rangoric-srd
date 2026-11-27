@@ -11,10 +11,7 @@ prerequisites:
   - "Create Erlcana"
 dc: "30"
 price: "60,000 gp"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Wardingswathe|Wardingswathe (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

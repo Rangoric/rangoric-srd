@@ -17,10 +17,7 @@ attack: "+8 vs Fortitude"
 attack-bonus: 8
 frequency: "1/round for 1d4 rounds"
 effect: "1 Str drain/1d8 damage"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Oil of Ichorage|Oil of Ichorage (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/alchemical-item]
 ---

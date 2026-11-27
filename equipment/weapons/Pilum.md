@@ -11,10 +11,7 @@ critical: "x2"
 range-ft: 20
 weight-lb: 4
 damage-type: "Piercing"
-based-on:
-  - "[[path srd 3.5/items/weapons/Pilum|Pilum (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/weapon, weapon-group/spears, weapon-group/thrown]
 ---

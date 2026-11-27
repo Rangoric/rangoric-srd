@@ -13,11 +13,7 @@ spell-failure: 15
 speed-30: 30
 speed-20: 20
 weight-lb: 25
-based-on:
-  - "[[path srd 3.5/items/armor/Wooden Armor|Wooden Armor (PF1)]]"
-  - "[[path srd 3.5/items/armor/Wooden|Wooden (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/armor]
 ---

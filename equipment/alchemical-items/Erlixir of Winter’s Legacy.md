@@ -10,10 +10,7 @@ prerequisites:
   - "Create Erlcana"
 dc: "35"
 price: "104,000 gp; Cost to Create: 52,000 gp"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Erlixir of Winter’s Legacy|Erlixir of Winter’s Legacy (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

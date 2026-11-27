@@ -4,12 +4,7 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "100 gp"
 weight: "4 lb."
-based-on:
-  - "[[path srd 3.5/items/adventuring-gear/Spider's Silk Rope|Spider's Silk Rope (PF1)]]"
-  - "[[path srd 3.5/items/goods-and-services/Rope, Spider's Silk|Rope, Spider's Silk (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Spider's Silk Rope|Spider's Silk Rope (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-20
 tags: [rangoric, rangoric/gear]
 ---

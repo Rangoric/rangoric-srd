@@ -11,11 +11,7 @@ critical: "x3"
 weight-lb: 12
 damage-type: "Bludgeoning or piercing"
 special: ["brace", "reach"]
-based-on:
-  - "[[path srd 3.5/items/weapons/Bec de Corbin|Bec de Corbin (PF1)]]"
-  - "[[path srd 3.5 foundry/items/weapons/Bec de Corbin|Bec de Corbin (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/weapon, weapon-group/pole-arms]
 ---

@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "entertainment"
 price: "25 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/core-race/Halfling Jugglesticks|Halfling Jugglesticks (PF1)]]"
-  - "[[path srd 3.5 foundry/items/goods-and-services/Halfling jugglesticks|Halfling jugglesticks (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/gear]
 ---

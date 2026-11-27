@@ -4,10 +4,7 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "3 gp"
 weight: "16 lb."
-based-on:
-  - "[[path srd 3.5/items/adventuring-gear/Cooking Kit|Cooking Kit (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-20
 tags: [rangoric, rangoric/gear]
 ---

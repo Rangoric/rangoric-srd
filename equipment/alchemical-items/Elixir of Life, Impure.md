@@ -13,10 +13,7 @@ prerequisites:
   - "Brew Ingestibles or Brew Potion"
 dc: "38"
 price: "50,000 gp"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Elixir of Life|Elixir of Life (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

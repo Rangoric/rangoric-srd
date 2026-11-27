@@ -11,10 +11,7 @@ attack: "+5 vs Fortitude"
 attack-bonus: 5
 frequency: "1/minute for 2 minutes"
 effect: "paralyzed for 1d2 hours/1d2 Con damage and 1d4 Str damage"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Hemlock|Hemlock (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/herb]
 ---

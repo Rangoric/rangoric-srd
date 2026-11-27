@@ -5,10 +5,7 @@ rarity: "Common"
 environment: "Plains and marshlands"
 harvest: "Annual"
 cost: "5 cp/ 10 fresh leaves (food) or 1 oz. of dried leaves (component)"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Borage|Borage (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/herb]
 ---

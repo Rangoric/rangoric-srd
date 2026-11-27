@@ -11,10 +11,7 @@ prerequisites:
   - "detect magic"
 dc: "18"
 price: "200 gp/oz"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Dust of Dweomerbaring|Dust of Dweomerbaring (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

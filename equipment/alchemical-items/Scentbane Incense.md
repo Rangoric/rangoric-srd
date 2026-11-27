@@ -5,11 +5,7 @@ category: ["Alchemical Tool"]
 magical: false
 dc: "20"
 price: "80 gp"
-based-on:
-  - "[[path srd 3.5/items/core-race/Scentbane Incense|Scentbane Incense (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Scentbane Incense|Scentbane Incense (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/alchemical-item]
 ---

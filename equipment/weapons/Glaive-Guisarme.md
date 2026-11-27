@@ -11,11 +11,7 @@ critical: "x3"
 weight-lb: 10
 damage-type: "Slashing"
 special: ["brace", "reach"]
-based-on:
-  - "[[path srd 3.5/items/weapons/Glaive-Guisarme|Glaive-Guisarme (PF1)]]"
-  - "[[path srd 3.5 foundry/items/weapons/Glaive-Guisarme|Glaive-Guisarme (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/weapon, weapon-group/pole-arms]
 ---

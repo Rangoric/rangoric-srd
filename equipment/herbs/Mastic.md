@@ -5,10 +5,7 @@ rarity: "Rare"
 environment: "Any temperate"
 harvest: "Perennial"
 cost: "2 gp/3 oz. of leaves, dried or fresh or 1 oz. mastic oil"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Mastic|Mastic (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/herb]
 ---

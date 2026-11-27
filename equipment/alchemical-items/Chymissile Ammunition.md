@@ -11,10 +11,7 @@ prerequisites:
   - "Craft (bowmaking or glassblowing)"
 dc: "15"
 price: "Cost of chymical/powder + 1 gp/sling bullet or bottle-bolt, 2 gp/fork arrow"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Chymissiles|Chymissiles (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

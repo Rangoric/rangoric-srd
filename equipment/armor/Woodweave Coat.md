@@ -13,10 +13,7 @@ speed-20: 15
 weight-lb: 15
 dr-armor-bonus: 2
 damage-reduction: "2/–"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/armor/Woodweave Coat|Woodweave Coat (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/armor]
 ---

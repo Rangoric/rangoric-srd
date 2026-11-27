@@ -5,12 +5,7 @@ category: ["Alchemical Tool"]
 magical: false
 dc: "20"
 price: "50 gp"
-based-on:
-  - "[[path srd 3.5/items/featured-race/War Spirit Pouch|War Spirit Pouch (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/War Spirit Pouch|War Spirit Pouch (PF1 F)]]"
-  - "[[path srd 3.5 foundry/items/gear/Pouch, War Spirit|Pouch, War Spirit (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/alchemical-item]
 ---

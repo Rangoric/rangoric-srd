@@ -10,10 +10,7 @@ damage-medium: "1d6"
 critical: "18–20/x2"
 weight-lb: 2
 damage-type: "Piercing or slashing"
-based-on:
-  - "[[path srd 3.5/rules/ultimate-combat/mastering-combat/Eastern Armor and Weapons|Eastern Armor and Weapons (PF1)]]"
 status: draft
-change: modified
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/weapon, weapon-group/light-blades, eastern]
 ---

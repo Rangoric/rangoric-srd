@@ -10,10 +10,7 @@ prerequisites:
   - "At least one rank in Craft (alchemy)"
 dc: "14"
 price: "80 gp/ounce"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Masterwreck Acid|Masterwreck Acid (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

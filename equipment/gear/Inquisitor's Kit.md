@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "30 gp"
 weight: "34 lb."
-based-on:
-  - "[[path srd 3.5/items/adventuring-gear/Inquisitor's Kit|Inquisitor's Kit (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Kit, Inquisitor's|Kit, Inquisitor's (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-20
 tags: [rangoric, rangoric/gear]
 ---

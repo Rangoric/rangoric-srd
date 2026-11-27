@@ -10,11 +10,7 @@ damage-medium: "1d8"
 critical: "x3"
 weight-lb: 2
 damage-type: "Piercing"
-based-on:
-  - "[[path srd 3.5/items/featured-race/Kobold Tail Attachments|Kobold Tail Attachments (PF1)]]"
-  - "[[path srd 3.5 foundry/items/weapons/Kobold Tail Attachment (Spiked)|Kobold Tail Attachment (Spiked) (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/weapon, weapon-group/kobold-tail-attachments]
 ---

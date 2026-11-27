@@ -11,10 +11,7 @@ attack: "+7 vs Fortitude"
 attack-bonus: 7
 frequency: "1/minute for 2 minutes"
 effect: "asleep (unconscious) for 1d8 hours/1d2 Con drain"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Mandrake|Mandrake (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/herb]
 ---

@@ -11,10 +11,7 @@ prerequisites:
   - "Craft Unguents"
 dc: "21"
 price: "125 gp/ oz"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Tarasta’s Viscent|Tarasta’s Viscent (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/alchemical-item]
 ---

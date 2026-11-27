@@ -8,10 +8,7 @@ cost-gp: 15
 range-ft: 30
 weight-lb: 3
 damage-type: "Piercing"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapons/Flutegun|Flutegun (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/weapon, weapon-group/thrown]
 ---

@@ -11,11 +11,7 @@ spell-failure: 20
 speed-30: 20
 speed-20: 15
 weight-lb: 20
-based-on:
-  - "[[path srd 3.5/items/armor/Armored Coat|Armored Coat (PF1)]]"
-  - "[[path srd 3.5 foundry/items/armor/Armored Coat|Armored Coat (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/armor]
 ---

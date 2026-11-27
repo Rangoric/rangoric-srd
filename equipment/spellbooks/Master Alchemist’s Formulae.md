@@ -6,10 +6,7 @@ caster-level: 20
 role: "Alchemist"
 price: "6,500 gp"
 price-with-ritual: "11,000 gp"
-based-on:
-  - "[[path srd 3.5/rules/ultimate-magic/mastering-magic/Spellbooks|The Formulae of Master Gebr (PF1 Ultimate Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/spellbook]
 ---

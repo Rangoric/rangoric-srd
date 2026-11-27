@@ -11,10 +11,7 @@ critical: "x3"
 range-ft: 20
 weight-lb: 4
 damage-type: "Piercing"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapons/Pilam|Pilam (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/weapon, weapon-group/spears, weapon-group/thrown]
 ---

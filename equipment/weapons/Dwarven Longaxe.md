@@ -13,11 +13,7 @@ critical: "x3"
 weight-lb: 14
 damage-type: "Slashing"
 special: ["reach"]
-based-on:
-  - "[[path srd 3.5/items/core-race/Longaxe, Dwarven|Longaxe, Dwarven (PF1)]]"
-  - "[[path srd 3.5 foundry/items/weapons/Dwarven Longaxe|Dwarven Longaxe (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/weapon, weapon-group/axes]
 ---

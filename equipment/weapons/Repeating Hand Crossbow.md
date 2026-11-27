@@ -12,10 +12,7 @@ range-ft: 30
 weight-lb: 4
 damage-type: "Piercing"
 ammunition: ["[[rangoric-srd/equipment/weapons/3-Bolt Clip|3-Bolt Clip]]", "[[rangoric-srd/equipment/weapons/5-Bolt Clip|5-Bolt Clip]]", "[[rangoric-srd/equipment/weapons/10-Bolt Clip|10-Bolt Clip]]"]
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapons/Crossbow, Repeating Hand|Crossbow, Repeating Hand (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/weapon, weapon-group/crossbows]
 ---

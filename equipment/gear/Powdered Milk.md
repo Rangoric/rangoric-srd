@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "1 sp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/food-and-drink/Powdered Milk|Powdered Milk (PF1)]]"
-  - "[[path srd 3.5 foundry/items/goods-and-services/Powdered Milk|Powdered Milk (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/gear]
 ---

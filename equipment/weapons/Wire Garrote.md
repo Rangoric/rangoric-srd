@@ -9,10 +9,7 @@ damage-small: "1d2"
 damage-medium: "1d2"
 weight-lb: 0.25
 damage-type: "Slashing"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapons/Garrote, Wire|Garrote, Wire (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/weapon, weapon-group/close]
 ---

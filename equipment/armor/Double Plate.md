@@ -13,10 +13,7 @@ speed-20: 10
 weight-lb: 100
 dr-armor-bonus: 6
 damage-reduction: "6/–"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/armor/Double Plate|Double Plate (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/armor]
 ---

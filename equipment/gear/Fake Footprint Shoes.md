@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "5 gp"
 weight: "2 lb."
-based-on:
-  - "[[path srd 3.5/items/adventuring-gear/Fake Footprint Shoes|Fake Footprint Shoes (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Fake footprint shoes|Fake footprint shoes (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/gear]
 ---

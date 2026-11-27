@@ -13,10 +13,7 @@ prerequisites:
   - "resist energy"
 dc: "See above"
 price: "See above"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/N’Kinnym’s Bone Balms|N’Kinnym’s Bone Balms (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/alchemical-item]
 ---

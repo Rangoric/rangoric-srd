@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "mounts and related gear"
 price: "10 gp"
 weight: "10 lb."
-based-on:
-  - "[[path srd 3.5/items/misc/Flying Straps|Flying Straps (PF1)]]"
-  - "[[path srd 3.5 foundry/items/goods-and-services/Flying straps|Flying straps (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/gear]
 ---

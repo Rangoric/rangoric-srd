@@ -5,10 +5,7 @@ aliases: ["Alchemortars"]
 classification: "Chymical; Special"
 category: ["Chymical"]
 magical: false
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Alchemortars|Alchemortars (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

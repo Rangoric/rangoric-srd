@@ -5,10 +5,7 @@ rarity: "Rare"
 environment: "Any desert or warm plains"
 harvest: "Annual"
 cost: "6 gp/oz. of damiana, ground or cut sprigs"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Damiana|Damiana (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/herb]
 ---

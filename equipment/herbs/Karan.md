@@ -6,10 +6,7 @@ rarity: "Rare"
 environment: "Any warm plains or desert"
 harvest: "Annual"
 cost: "2 gp/oz. of dried resin or 4 oz. dried wood"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Karan (Myrrh)|Karan (Myrrh) (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/herb]
 ---

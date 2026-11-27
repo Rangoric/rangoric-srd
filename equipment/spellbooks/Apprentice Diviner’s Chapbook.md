@@ -5,10 +5,7 @@ book-type: "spellbook"
 caster-level: 2
 role: "Diviner"
 price: "155 gp"
-based-on:
-  - "[[path srd 3.5/rules/ultimate-magic/mastering-magic/Spellbooks|Apprentice Chapbook of Rul Thaven (PF1 Ultimate Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/spellbook]
 ---

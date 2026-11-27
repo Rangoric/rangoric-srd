@@ -10,11 +10,7 @@ damage-medium: "1d4"
 critical: "x3"
 damage-type: "Slashing or piercing"
 special: ["distracting", "monk"]
-based-on:
-  - "[[path srd 3.5/items/eastern-armor-and-weapons/Fighting Fan|Fighting Fan (PF1)]]"
-  - "[[path srd 3.5 foundry/items/weapons/Fighting Fan|Fighting Fan (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/weapon, weapon-group/close, weapon-group/monk, eastern]
 ---

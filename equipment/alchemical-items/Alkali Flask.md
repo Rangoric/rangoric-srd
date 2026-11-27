@@ -7,11 +7,7 @@ dc: "20"
 price: "15 gp"
 weight: "1 lb."
 range: "10 ft."
-based-on:
-  - "[[path srd 3.5/items/goods-and-services/Alkali Flask|Alkali Flask (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Alkali Flask|Alkali Flask (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/alchemical-item]
 ---

@@ -10,10 +10,7 @@ prerequisites:
   - "Craft Powders & Dusts"
 dc: "30"
 price: "400 gp/ounce"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Ironskin Powder|Ironskin Powder (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

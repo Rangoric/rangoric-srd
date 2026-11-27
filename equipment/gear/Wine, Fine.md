@@ -4,13 +4,7 @@ section: "Equipment"
 gear-type: "food, drink, and lodging"
 price: "10 gp"
 weight: "1-1/2 lb."
-based-on:
-  - "[[fantasy srd 3.5/equipment/Equipment Goods and Services|Equipment Goods and Services (3.5)]]"
-  - "[[path srd 3.5/items/food-and-drink/Wine|Wine (PF1)]]"
-  - "[[path srd 3.5 foundry/items/goods-and-services/Wine (Fine, Bottle)|Wine (Fine, Bottle) (PF1 F)]]"
-  - "[[path srd 3.5 foundry/items/gear/Wine, Fine (Bottle)|Wine, Fine (Bottle) (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/gear]
 ---

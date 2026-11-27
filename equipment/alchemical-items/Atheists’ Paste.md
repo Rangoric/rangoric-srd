@@ -16,10 +16,7 @@ delivery: "contact"
 attack: "+7 vs Fortitude"
 attack-bonus: 7
 effect: "blinded and nauseated for 1d4 rounds; divine magic turns the paste into its vapor (see above)"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Atheists’ Paste|Atheists’ Paste (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/alchemical-item]
 ---

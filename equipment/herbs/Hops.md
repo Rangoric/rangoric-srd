@@ -5,10 +5,7 @@ rarity: "Common"
 environment: "Any temperate"
 harvest: "Perennial"
 cost: "1 cp/ 12 buds"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Hops|Hops (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/herb]
 ---

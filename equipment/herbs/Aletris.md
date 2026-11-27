@@ -5,10 +5,7 @@ rarity: "Rare"
 environment: "Any temperate hills"
 harvest: "Annual"
 cost: "2 gp/oz. of dried flowers"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Aletris|Aletris (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/herb]
 ---

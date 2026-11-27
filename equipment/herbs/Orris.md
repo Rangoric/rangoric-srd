@@ -5,10 +5,7 @@ rarity: "Rare"
 environment: "Any temperate to sub-tropical hills"
 harvest: "Perennial"
 cost: "2 gp/oz. of flowers or root, dried or fresh"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Orris|Orris (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/herb]
 ---

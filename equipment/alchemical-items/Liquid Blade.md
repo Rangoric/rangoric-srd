@@ -11,11 +11,7 @@ damage: "1d6"
 critical: "19–20/×2"
 damage-type: "P"
 special: "Fragile, see text"
-based-on:
-  - "[[path srd 3.5/items/alchemical-weapons/Liquid Blade|Liquid Blade (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Liquid blade|Liquid blade (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/alchemical-item]
 ---

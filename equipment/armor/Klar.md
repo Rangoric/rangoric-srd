@@ -8,11 +8,7 @@ armor-bonus: 1
 check-penalty: -1
 spell-failure: 5
 weight-lb: 6
-based-on:
-  - "[[path srd 3.5/items/armor/Klar|Klar (PF1)]]"
-  - "[[path srd 3.5 foundry/items/armor/Klar|Klar (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/armor]
 ---

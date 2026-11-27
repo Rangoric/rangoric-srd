@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "entertainment"
 price: "5 sp"
 weight: "5 lb."
-based-on:
-  - "[[path srd 3.5/items/entertainment-and-trade-goods/Polo Gear|Polo Gear (PF1)]]"
-  - "[[path srd 3.5 foundry/items/goods-and-services/Polo gear|Polo gear (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/gear]
 ---

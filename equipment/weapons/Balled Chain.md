@@ -11,10 +11,7 @@ critical: "x2"
 weight-lb: 18
 damage-type: "Bludgeoning and piercing"
 special: ["double", "trip", "disarm"]
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapons/Chain, Balled|Chain, Balled (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/weapon, weapon-group/double, weapon-group/flails]
 ---

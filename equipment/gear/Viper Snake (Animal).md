@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "mounts and related gear"
 price: "5 gp"
 weight: "10 oz."
-based-on:
-  - "[[path srd 3.5/items/animals-mounts-and-related-gear/Snake, Viper (Item)|Snake, Viper (Item) (PF1)]]"
-  - "[[path srd 3.5 foundry/items/goods-and-services/Snake, Viper|Snake, Viper (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/gear]
 ---

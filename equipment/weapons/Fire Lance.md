@@ -15,10 +15,7 @@ misfire: "1–4 (5 ft.)"
 capacity: 1
 weight-lb: 4
 damage-type: "Piercing"
-based-on:
-  - "[[path srd 3.5/items/firearms/Fire Lance|Fire Lance (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/weapon, weapon-group/firearms]
 ---

@@ -4,10 +4,7 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "400 gp"
 weight: "4 lb."
-based-on:
-  - "[[path srd 3.5/items/adventuring-gear/Chirurgeon's Kit|Chirurgeon's Kit (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-20
 tags: [rangoric, rangoric/gear]
 ---

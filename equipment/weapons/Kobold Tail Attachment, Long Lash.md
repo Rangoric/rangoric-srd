@@ -11,11 +11,7 @@ critical: "x2"
 weight-lb: 1
 damage-type: "Slashing"
 special: ["reach"]
-based-on:
-  - "[[path srd 3.5/items/featured-race/Kobold Tail Attachments|Kobold Tail Attachments (PF1)]]"
-  - "[[path srd 3.5 foundry/items/weapons/Kobold Tail Attachment (Long Lash)|Kobold Tail Attachment (Long Lash) (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/weapon, weapon-group/kobold-tail-attachments]
 ---

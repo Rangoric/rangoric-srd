@@ -9,10 +9,7 @@ range-ft: 10
 weight-lb: 0.3
 damage-type: "Piercing"
 ammunition: ["[[rangoric-srd/equipment/weapons/Blowgun Darts|Blowgun Darts]]"]
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapons/Blowgun, Mini|Blowgun, Mini (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/weapon, weapon-group/thrown]
 ---

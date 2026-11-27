@@ -12,11 +12,7 @@ attack-bonus: 10
 addiction: "severe"
 effect: "1 hour, +1d8 temporary hp, +2 on Fortitude Defense, fatigued"
 damage: "1d4 Con and 1d4 Wis"
-based-on:
-  - "[[path srd 3.5/afflictions/Opium|Opium (PF1)]]"
-  - "[[path srd 3.5/rules/game-mastery-guide/drugs-and-addiction/Sample Drugs|Sample Drugs (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/alchemical-item]
 ---

@@ -11,10 +11,7 @@ critical: "x3"
 weight-lb: 12
 damage-type: "Piercing or slashing"
 special: ["reach", "trip"]
-based-on:
-  - "[[path srd 3.5/items/featured-race/Horsechopper|Horsechopper (PF1)]]"
 status: draft
-change: modified
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/weapon, weapon-group/pole-arms]
 ---

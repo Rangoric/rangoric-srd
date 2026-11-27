@@ -11,11 +11,7 @@ critical: "x2"
 weight-lb: 2
 damage-type: "Slashing"
 special: ["trip"]
-based-on:
-  - "[[fantasy srd 3.5/equipment/Equipment Weapons|Equipment Weapons (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/weapons/Kama|Kama (Arms & Armor)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/weapon, weapon-group/light-blades, weapon-group/monk, eastern]
 ---

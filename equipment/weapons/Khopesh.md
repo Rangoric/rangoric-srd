@@ -11,11 +11,7 @@ critical: "19–20/x2"
 weight-lb: 8
 damage-type: "Slashing"
 special: ["trip"]
-based-on:
-  - "[[path srd 3.5/items/weapons/Khopesh|Khopesh (PF1)]]"
-  - "[[path srd 3.5 foundry/items/weapons/Khopesh|Khopesh (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/weapon, weapon-group/heavy-blades]
 ---

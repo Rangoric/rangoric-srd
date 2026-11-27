@@ -11,11 +11,7 @@ critical: "x2"
 weight-lb: 13
 damage-type: "Piercing and slashing"
 special: ["double", "trip"]
-based-on:
-  - "[[path srd 3.5/items/weapons/Chain Spear|Chain Spear (PF1)]]"
-  - "[[path srd 3.5 foundry/items/weapons/Chain Spear|Chain Spear (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/weapon, weapon-group/double, weapon-group/flails, weapon-group/spears]
 ---

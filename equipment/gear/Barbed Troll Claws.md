@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "20 gp"
 weight: "4 lb."
-based-on:
-  - "[[path srd 3.5/items/misc/Barbed Troll Claws|Barbed Troll Claws (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Barbed troll claws|Barbed troll claws (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/gear]
 ---

@@ -12,10 +12,7 @@ prerequisites:
   - "Craft Wondrous Item"
 dc: "—"
 price: "3,000 gp"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Swatharness|Swatharness (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

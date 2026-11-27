@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "clothing"
 price: "5 gp"
 weight: "20 lb."
-based-on:
-  - "[[path srd 3.5/items/clothing/Skis|Skis (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Skis|Skis (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/gear]
 ---

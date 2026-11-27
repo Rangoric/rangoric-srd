@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "tools and skill kits"
 price: "15 gp"
 weight: "3 lb."
-based-on:
-  - "[[fantasy srd 3.5/equipment/Equipment Goods and Services|Equipment Goods and Services (3.5)]]"
-  - "[[path srd 3.5/rules/ultimate-magic/mastering-magic/Spellbooks|Spellbooks (PF1 Ultimate Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/gear]
 ---

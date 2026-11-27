@@ -4,12 +4,7 @@ section: "Equipment"
 gear-type: "tools and skill kits"
 price: "15 gp"
 weight: "3 lb."
-based-on:
-  - "[[path srd 3.5/items/tools-and-skill-kits/Formula Book|Formula Book (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Formula Book|Formula Book (PF1 F)]]"
-  - "[[path srd 3.5/rules/ultimate-magic/mastering-magic/Spellbooks|Spellbooks (PF1 Ultimate Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/gear]
 ---

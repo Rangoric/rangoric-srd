@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "transport"
 price: "15,000 gp"
 weight: "—"
-based-on:
-  - "[[path srd 3.5/items/animals-mounts-and-related-gear/Junk|Junk (PF1)]]"
-  - "[[path srd 3.5 foundry/items/goods-and-services/Vehicle, Junk|Vehicle, Junk (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/gear]
 ---

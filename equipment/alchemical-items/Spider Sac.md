@@ -6,11 +6,7 @@ magical: false
 dc: "20"
 price: "30 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/featured-race/Spider Sac|Spider Sac (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Spider Sac|Spider Sac (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/alchemical-item]
 ---

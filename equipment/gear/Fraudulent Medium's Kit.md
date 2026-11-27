@@ -4,10 +4,7 @@ section: "Equipment"
 gear-type: "tools and skill kits"
 price: "50 gp"
 weight: "10 lb."
-based-on:
-  - "[[path srd 3.5 foundry/items/gear/Kit, Fraudulent medium's|Kit, Fraudulent medium's (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/gear]
 ---

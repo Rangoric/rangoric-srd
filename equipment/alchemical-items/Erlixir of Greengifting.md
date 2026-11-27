@@ -10,10 +10,7 @@ prerequisites:
   - "Create Erlcana"
 dc: "36"
 price: "110,000 gp"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Erlixir of Greengifting|Erlixir of Greengifting (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/alchemical-item]
 ---

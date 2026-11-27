@@ -13,10 +13,7 @@ speed-20: 20
 weight-lb: 25
 dr-armor-bonus: 2
 damage-reduction: "2/–"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/armor/Plated Leather|Plated Leather (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/armor]
 ---

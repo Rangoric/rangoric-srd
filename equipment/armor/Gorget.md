@@ -5,10 +5,7 @@ table-name: "Gorget"
 category: "extra"
 cost-gp: 30
 weight-lb: 2
-based-on:
-  - "[[individual books/Arms & Armor v3.5/armor/Gorget|Gorget (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/armor]
 ---

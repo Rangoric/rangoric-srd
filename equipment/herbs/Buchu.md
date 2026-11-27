@@ -5,10 +5,7 @@ rarity: "Rare"
 environment: "Any temperate"
 harvest: "Biennial"
 cost: "5 gp/oz. of leaves or bark, dried and powdered"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Buchu|Buchu (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/herb]
 ---

@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "clothing"
 price: "1 gp"
 weight: "2 lb."
-based-on:
-  - "[[path srd 3.5/items/clothing/Ice Skates|Ice Skates (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Ice skates|Ice skates (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/gear]
 ---

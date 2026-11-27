@@ -11,10 +11,7 @@ critical: "x2"
 range-ft: 10
 weight-lb: 0.5
 damage-type: "Piercing"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapons/Knife, Throwing|Knife, Throwing (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/weapon, weapon-group/light-blades]
 ---

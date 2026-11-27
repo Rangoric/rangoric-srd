@@ -11,10 +11,7 @@ critical: "x2"
 range-ft: 15
 weight-lb: 3
 damage-type: "Piercing"
-based-on:
-  - "[[path srd 3.5/items/weapons/Hunga Munga|Hunga Munga (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/weapon, weapon-group/light-blades, weapon-group/thrown]
 ---

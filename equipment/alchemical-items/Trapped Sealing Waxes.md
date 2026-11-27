@@ -11,10 +11,7 @@ prerequisites:
   - "Craft Chymicals"
 dc: "34"
 price: "Variable—750 gp/standard box of 4 sticks (1 each) and 4 vials of counteragent"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Jhotan’s Sealing Waxes|Jhotan’s Sealing Waxes (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/alchemical-item]
 ---

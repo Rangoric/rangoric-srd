@@ -13,10 +13,7 @@ speed-20: 20
 weight-lb: 15
 dr-armor-bonus: 2
 damage-reduction: "1/–"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/tables/Table 4.1 Light Armor and Shields|Table 4.1: Light Armor and Shields (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/armor]
 ---

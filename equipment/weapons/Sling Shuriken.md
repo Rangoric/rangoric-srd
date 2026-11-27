@@ -10,10 +10,7 @@ critical: "x3"
 weight-lb: 6
 damage-type: "Slashing"
 quantity: 20
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapons/Sling shuriken|Sling shuriken (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/weapon]
 ---

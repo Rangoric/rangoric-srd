@@ -4,12 +4,7 @@ section: "Equipment"
 gear-type: "food, drink, and lodging"
 price: "2 cp"
 weight: "1/2 lb."
-based-on:
-  - "[[path srd 3.5/items/food-and-drink/Grog|Grog (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Grog (mug)|Grog (mug) (PF1 F)]]"
-  - "[[path srd 3.5 foundry/items/goods-and-services/Grog (Mug) (Ultimate Equipment)|Grog (Mug) (Ultimate Equipment) (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/gear]
 ---

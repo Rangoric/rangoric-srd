@@ -6,10 +6,7 @@ rarity: "Common"
 environment: "Temperate forests and wooded marshlands"
 harvest: "Perennial"
 cost: "5 cp/1/2 oz. of leaves or flowers; 1 gp/oz. tincture."
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Betony (Wood)|Betony (Wood) (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/herb]
 ---

@@ -10,10 +10,7 @@ damage-medium: "1d10"
 critical: "19-20/x2"
 weight-lb: 15
 damage-type: "Bludgeoning"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapons/Mace, Two-handed|Mace, Two-handed (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/weapon, weapon-group/hammers]
 ---

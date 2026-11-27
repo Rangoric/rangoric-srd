@@ -5,10 +5,7 @@ rarity: "Common"
 environment: "Temperate lowlands and marshlands"
 harvest: "Perennial"
 cost: "4 cp / 8 stalks, whole or 1 oz. ground seeds (for ink); 2 sp/1 sheet paper"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Tallquill|Tallquill (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/herb]
 ---

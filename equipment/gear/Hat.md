@@ -4,10 +4,7 @@ section: "Equipment"
 gear-type: "clothing"
 price: "1 sp–50 gp"
 weight: "1/2–2 lb."
-based-on:
-  - "[[path srd 3.5/items/clothing/Hat|Hat (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/gear]
 ---

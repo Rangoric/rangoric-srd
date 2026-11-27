@@ -3,10 +3,7 @@ srd-type: "rules"
 section: "Equipment"
 aliases:
   - "Fragile"
-based-on:
-  - "[[path srd 3.5/rules/ultimate-combat/mastering-combat/Primitive Armor and Weapons#Fragile|Fragile (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/rules]
 ---

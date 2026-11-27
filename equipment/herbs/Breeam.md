@@ -5,10 +5,7 @@ rarity: "Uncommon"
 environment: "Any forests and seacoasts"
 harvest: "Perennial"
 cost: "5 sp/oz. of powdered bark or dried flowers, 1 gp/"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/herbs/Breeam|Breeam (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/herb]
 ---

@@ -12,10 +12,7 @@ prerequisites:
   - "Craft Herbal Restoratives or Brew Ingestibles"
 dc: "25"
 price: "1,800 gp/4 oz"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Maxar’s Greater Antidote|Maxar’s Greater Antidote (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/alchemical-item]
 ---

@@ -12,10 +12,7 @@ range-ft: 50
 weight-lb: 1
 damage-type: "Piercing"
 special: ["performance"]
-based-on:
-  - "[[path srd 3.5/items/gladiator-weapons/Amentum|Amentum (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/weapon, weapon-group/spears, weapon-group/thrown]
 ---

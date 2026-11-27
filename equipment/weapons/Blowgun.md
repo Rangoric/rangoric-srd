@@ -12,11 +12,7 @@ range-ft: 20
 weight-lb: 1
 damage-type: "Piercing"
 ammunition: ["[[rangoric-srd/equipment/weapons/Blowgun Darts|Blowgun Darts]]"]
-based-on:
-  - "[[path srd 3.5/items/weapons/Blowgun|Blowgun (PF1)]]"
-  - "[[individual books/Arms & Armor v3.5/weapons/Blowgun|Blowgun (Arms & Armor)]]"
 status: draft
-change: modified
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/weapon, weapon-group/thrown]
 ---

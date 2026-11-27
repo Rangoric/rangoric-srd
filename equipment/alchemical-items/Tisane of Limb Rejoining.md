@@ -11,10 +11,7 @@ prerequisites:
   - "Brew Ingestibles or Craft Herbal Restoratives"
 dc: "23"
 price: "125 gp/1 ounce"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/items/Marael’s Tisane|Marael’s Tisane (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/alchemical-item]
 ---

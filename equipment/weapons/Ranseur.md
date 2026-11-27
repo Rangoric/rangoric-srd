@@ -11,11 +11,7 @@ critical: "x3"
 weight-lb: 12
 damage-type: "Piercing"
 special: ["reach", "disarm"]
-based-on:
-  - "[[fantasy srd 3.5/equipment/Equipment Weapons|Equipment Weapons (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/weapons/Ranseur|Ranseur (Arms & Armor)]]"
 status: draft
-change: modified
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/weapon, weapon-group/pole-arms]
 ---

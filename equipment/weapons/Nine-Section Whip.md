@@ -11,11 +11,7 @@ critical: "19–20/x2"
 weight-lb: 3
 damage-type: "Bludgeoning"
 special: ["blocking", "distracting", "monk", "trip"]
-based-on:
-  - "[[path srd 3.5/items/eastern-armor-and-weapons/Nine-Section Whip|Nine-Section Whip (PF1)]]"
-  - "[[path srd 3.5 foundry/items/weapons/Nine-Section Whip|Nine-Section Whip (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/weapon, weapon-group/flails, weapon-group/monk, eastern]
 ---

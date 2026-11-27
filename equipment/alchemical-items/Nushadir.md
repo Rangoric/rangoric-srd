@@ -6,11 +6,7 @@ magical: false
 dc: "20"
 price: "10 gp/vial"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/goods-and-services/Nushadir|Nushadir (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Nushadir|Nushadir (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/alchemical-item]
 ---

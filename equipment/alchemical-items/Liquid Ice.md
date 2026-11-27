@@ -6,11 +6,7 @@ magical: false
 dc: "25"
 price: "40 gp/flask"
 weight: "2 lb."
-based-on:
-  - "[[path srd 3.5/items/goods-and-services/Liquid Ice|Liquid Ice (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Liquid Ice|Liquid Ice (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/alchemical-item]
 ---

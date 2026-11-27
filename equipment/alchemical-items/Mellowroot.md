@@ -5,12 +5,7 @@ category: ["Alchemical Tool"]
 magical: false
 dc: "20"
 price: "25 gp/vial"
-based-on:
-  - "[[path srd 3.5/items/featured-race/Mellowroot|Mellowroot (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Mellowroot|Mellowroot (PF1 F)]]"
-  - "[[path srd 3.5 foundry/items/gear/Mellowroot (Vial)|Mellowroot (Vial) (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/alchemical-item]
 ---

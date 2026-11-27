@@ -11,11 +11,7 @@ critical: "x2"
 range-ft: 20
 weight-lb: 0.5
 damage-type: "Piercing"
-based-on:
-  - "[[path srd 3.5/items/uncommon-race/Jolting Dart|Jolting Dart (PF1)]]"
-  - "[[path srd 3.5 foundry/items/weapons/Jolting Dart|Jolting Dart (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/weapon, weapon-group/thrown]
 ---

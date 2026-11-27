@@ -4,11 +4,7 @@ section: "Equipment"
 gear-type: "clothing"
 price: "varies"
 weight: "—"
-based-on:
-  - "[[path srd 3.5/items/clothing/Brooch|Brooch (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Brooch (Item)|Brooch (Item) (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/gear]
 ---

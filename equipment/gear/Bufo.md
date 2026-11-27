@@ -4,12 +4,7 @@ section: "Equipment"
 gear-type: "food, drink, and lodging"
 price: "1 gp"
 weight: "2 lb."
-based-on:
-  - "[[path srd 3.5/items/food-and-drink/Bufo|Bufo (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Bufo|Bufo (PF1 F)]]"
-  - "[[path srd 3.5 foundry/items/goods-and-services/Bufo (Jug)|Bufo (Jug) (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/gear]
 ---

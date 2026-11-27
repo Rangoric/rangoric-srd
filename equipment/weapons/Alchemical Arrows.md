@@ -13,10 +13,7 @@ weight-lb: 1
 damage-type: "Bludgeoning or piercing"
 quantity: 5
 used-with: "bows"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapons/Arrow, Alchemical|Arrow, Alchemical (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/weapon]
 ---

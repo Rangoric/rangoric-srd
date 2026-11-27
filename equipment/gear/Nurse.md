@@ -3,11 +3,7 @@ srd-type: "gear"
 section: "Equipment"
 gear-type: "spellcasting and services"
 price: "7 sp per day"
-based-on:
-  - "[[path srd 3.5/items/lodging-and-services/Nurse|Nurse (PF1)]]"
-  - "[[path srd 3.5 foundry/items/goods-and-services/Service, Nurse|Service, Nurse (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/gear]
 ---
