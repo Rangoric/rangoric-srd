@@ -62,7 +62,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: By character class
 - **Level Adjustment**: —
 
-A fire diabolist is a [[rangoric-srd/monsters/human/Human|human]] with 20 levels of [[rangoric-srd/classes/Cleric|cleric]]. It is a cleric of Asmodeus. The fire diabolist serves the lord of Hell. He uses flame and infernal creatures to subjugate all to his will.
+A fire diabolist is a [[rangoric-srd/monsters/human/Human|human]] with 20 levels of [[rangoric-srd/classes/Cleric|cleric]]. The fire diabolist serves the lord of Hell. He uses flame and infernal creatures to subjugate all to his will.
 
 A fire diabolist speaks Common and Infernal.
 

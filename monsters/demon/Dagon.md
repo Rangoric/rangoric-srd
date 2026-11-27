@@ -66,7 +66,7 @@ Dagon is the demon lord of deformity, the sea, and sea monsters. He rules an Aby
 
 Dagon almost always uses Power Attack in combat, taking a -9 penalty on all attack rolls but gaining a +18 bonus on damage rolls. He is never encountered without a large number of aquatic demons or monsters at his side that he uses as pawns in battles, often simply commanding them to attack foes while he hangs back in the shadows and observes the fight with his cold eyes. Immense sharks, hezrous, carnivorous whales, krakens, and shoggoths are the demon lord's favored minions.
 
-Dagon began life not as a demon lord but as a powerful qlippoth—the reasons for his transformation into a demon lord are not understood by mortal scholars, but there is certainly no love lost between Dagon and the qlippoth race.
+Dagon began life not as a demon lord but as a powerful [[rangoric-srd/monsters/qlippoth/Qlippoth|qlippoth]]—the reasons for his transformation into a demon lord are not understood by mortal scholars, but there is certainly no love lost between Dagon and the qlippoth race.
 
 ### Combat
 
