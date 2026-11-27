@@ -9,12 +9,7 @@ frequency: "1/round for 6 rounds"
 effect: "1d4 Con"
 cure: "2 consecutive misses"
 price: "3,000 gp"
-based-on:
-  - "[[path srd 3.5/afflictions/Wyvern Poison|Wyvern Poison (PF1)]]"
-  - "[[path srd 3.5/rules/ultimate-equipment/gear/Poisons|Poisons (PF1)]]"
-  - "[[fantasy srd 3.5/rules/Special Abilities and Conditions|Special Abilities and Conditions (3.5)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/affliction]
 ---

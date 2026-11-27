@@ -9,11 +9,7 @@ frequency: "1/minute for 2 minutes"
 effect: "nauseated for 1 minute/paralyzed for 2d4 hours"
 cure: "1 miss"
 price: "1,500 gp"
-based-on:
-  - "[[path srd 3.5/rules/ultimate-equipment/gear/Poisons|Poisons (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Azure lily pollen|Azure lily pollen (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/affliction]
 ---

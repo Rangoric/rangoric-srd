@@ -10,10 +10,7 @@ range: "Personal"
 target: "You"
 duration: "1 round/level or until discharged"
 power-points: "13"
-based-on:
-  - "[[fantasy srd 3.5/powers/Moment of Prescience, Psionic|Moment of Prescience, Psionic (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

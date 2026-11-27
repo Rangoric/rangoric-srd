@@ -16,10 +16,7 @@ target: "One creature"
 duration: "1 hour/level"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/constellations/The Spinning Wheel|The Spinning Wheel (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/constellation]
 ---

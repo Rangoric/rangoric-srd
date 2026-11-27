@@ -9,10 +9,7 @@ onset: "2d4 weeks"
 frequency: "1/week"
 effect: "1d2 Cha"
 cure: "2 consecutive misses"
-based-on:
-  - "[[path srd 3.5/afflictions/Leprosy|Leprosy (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/affliction]
 ---

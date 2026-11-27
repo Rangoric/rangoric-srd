@@ -21,10 +21,7 @@ target: "One creature/round"
 duration: "2 rounds/level"
 defense: "Will (see text)"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/constellations/The Crown|The Crown (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/constellation]
 ---

@@ -4,10 +4,7 @@ section: "Occult Rituals"
 school: "Necromancy"
 level: 7
 casting-time: "70 minutes"
-based-on:
-  - "[[path srd 3.5 foundry/occult-rituals/Haunted Communion (Occult Ritual)|Haunted Communion (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/occult-ritual]
 ---

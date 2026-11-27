@@ -14,10 +14,7 @@ range: "Medium (100 ft. + 10 ft./ level)"
 target: "One willing creature"
 duration: "10 min./level or instantaneous; see text"
 power-points: "11"
-based-on:
-  - "[[fantasy srd 3.5/powers/Aura Alteration|Aura Alteration (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

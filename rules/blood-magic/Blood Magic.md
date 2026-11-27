@@ -1,10 +1,7 @@
 ---
 srd-type: "overview"
 section: "Rules"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/rules/Blood Magic|Blood Magic (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/overview]
 ---

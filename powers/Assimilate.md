@@ -12,10 +12,7 @@ duration: "Instantaneous and 1 hour; see text"
 defense: "Fortitude half"
 power-resistance: "Yes"
 power-points: "17"
-based-on:
-  - "[[fantasy srd 3.5/powers/Assimilate|Assimilate (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

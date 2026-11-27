@@ -1,10 +1,7 @@
 ---
 srd-type: "flavor"
 place-kind: region
-based-on:
-  - "[[individual books/Faeries/places/Land of Eternal Winter|Land of Eternal Winter (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/flavor, flavor]
 ---

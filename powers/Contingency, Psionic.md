@@ -10,10 +10,7 @@ range: "Personal"
 target: "You"
 duration: "One day/level (D) or until discharged"
 power-points: "11, XP"
-based-on:
-  - "[[fantasy srd 3.5/powers/Contingency, Psionic|Contingency, Psionic (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

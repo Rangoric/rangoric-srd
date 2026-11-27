@@ -8,10 +8,7 @@ attack-bonus: 5
 frequency: "1/round for 10 rounds"
 effect: "1d2 Dex"
 cure: "2 consecutive misses"
-based-on:
-  - "[[path srd 3.5/monsters/Ettercap|Ettercap (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/affliction]
 ---

@@ -7,10 +7,7 @@ attack: "+13 vs Will"
 attack-bonus: 13
 frequency: "1/day"
 effect: "1 Cha and permanent silence"
-based-on:
-  - "[[path srd 3.5/monsters/Rokurokubi|Rokurokubi (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/affliction]
 ---

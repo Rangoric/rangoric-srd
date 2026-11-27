@@ -10,10 +10,7 @@ range: "Personal; see text"
 target: "You"
 duration: "1 min."
 power-points: "9"
-based-on:
-  - "[[fantasy srd 3.5/powers/Leech Field|Leech Field (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

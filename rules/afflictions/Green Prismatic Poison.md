@@ -7,10 +7,7 @@ attack: "vs Fortitude (the effect’s attack bonus)"
 frequency: "1/round for 6 rounds"
 effect: "death/1 Con"
 cure: "2 consecutive misses"
-based-on:
-  - "[[path srd 3.5/afflictions/Green Prismatic Poison|Green Prismatic Poison (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/affliction]
 ---

@@ -1,13 +1,7 @@
 ---
 srd-type: "rules"
 section: "Rules"
-based-on:
-  - "[[path srd 3.5/rules/game-mastery-guide/disasters/Disasters (Disasters)|Disasters (PF1)]]"
-  - "[[path srd 3.5/rules/game-mastery-guide/disasters/Tsunamis|Tsunamis (PF1)]]"
-  - "[[path srd 3.5/rules/game-mastery-guide/disasters/Volcanoes|Volcanoes (PF1)]]"
-  - "[[path srd 3.5/rules/game-mastery-guide/disasters/Undead Uprising|Undead Uprising (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/rules]
 ---

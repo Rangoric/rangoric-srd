@@ -13,10 +13,7 @@ target: "You and one creature or object/level, touching"
 duration: "5 min./level"
 defense: "Will (harmless)"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/stars/Concealment|Concealment (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/star]
 ---

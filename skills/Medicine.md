@@ -3,14 +3,7 @@ srd-type: "skill"
 section: "Skills"
 key-ability: "Int"
 trained-only: true
-based-on:
-  - "[[path srd 3.5/rules/pathfinder-unchained/Skill Unlocks|Skill Unlocks (PF1 Unchained)]]"
-  - "[[modern srd 3.5/skills/Treat Injury|Treat Injury (Modern)]]"
-  - "[[star srd 3.5/rules/Skills|Skills (Starfinder)]]"
-  - "[[fantasy srd 3.5/skills/Craft|Craft (3.5)]]"
-  - "[[path srd 3.5 foundry/rules/Skills#Faith Healing|Faith Healing (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-10-31
 tags: [rangoric, rangoric/skill, core]
 ---

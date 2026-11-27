@@ -14,10 +14,7 @@ duration: "Instantaneous"
 defense: "None"
 power-resistance: "No"
 power-points: "7, XP; see text"
-based-on:
-  - "[[fantasy srd 3.5/powers/Psychic Reformation|Psychic Reformation (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

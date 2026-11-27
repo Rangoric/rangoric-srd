@@ -1,11 +1,7 @@
 ---
 srd-type: "overview"
 section: "Combat"
-based-on:
-  - "[[fantasy srd 3.5/combat/Injury and Death|Injury and Death (3.5)]]"
-  - "[[path srd 3.5/rules/core-rulebook/combat/Injury and Death|Injury and Death (PF1)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---

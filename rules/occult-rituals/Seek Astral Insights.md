@@ -4,10 +4,7 @@ section: "Occult Rituals"
 school: "Divination"
 level: 6
 casting-time: "60 minutes"
-based-on:
-  - "[[path srd 3.5 foundry/occult-rituals/Seek Astral Insights (Occult Ritual)|Seek Astral Insights (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/occult-ritual]
 ---

@@ -7,10 +7,7 @@ attack: "+1/2 the fungal creature’s racial Hit Dice + its Constitution modifie
 frequency: "1/minute for 6 minutes"
 effect: "1 Str, 1 Dex and nauseated for 1 minute"
 cure: "2 misses"
-based-on:
-  - "[[path srd 3.5/monsters/Fungal Creature|Fungal Creature (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/affliction]
 ---

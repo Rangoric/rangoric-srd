@@ -9,11 +9,7 @@ onset: "1d3 days"
 frequency: "1/day"
 effect: "1d4 Str, see note"
 cure: "2 consecutive misses"
-based-on:
-  - "[[path srd 3.5/afflictions/Blinding Sickness|Blinding Sickness (PF1)]]"
-  - "[[fantasy srd 3.5/rules/Special Abilities and Conditions|Special Abilities and Conditions (3.5)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/affliction]
 ---

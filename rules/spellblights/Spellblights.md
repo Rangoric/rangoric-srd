@@ -1,10 +1,7 @@
 ---
 srd-type: "rule"
 section: "Rules"
-based-on:
-  - "[[path srd 3.5/rules/ultimate-magic/mastering-magic/Spellblights|Spellblights (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/rule]
 ---

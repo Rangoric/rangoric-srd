@@ -1,10 +1,7 @@
 ---
 srd-type: "condition"
 section: "Conditions"
-based-on:
-  - "[[path srd 3.5/rules/core-rulebook/glossary/Conditions#Broken|Conditions (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/condition]
 ---

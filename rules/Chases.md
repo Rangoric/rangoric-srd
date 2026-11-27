@@ -1,10 +1,7 @@
 ---
 srd-type: "overview"
 section: "Rules"
-based-on:
-  - "[[path srd 3.5/rules/game-mastery-guide/chases/Chases (Chases)|Chases (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/overview]
 ---

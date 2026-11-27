@@ -6,11 +6,7 @@ attack: "+10 vs Will"
 attack-bonus: 10
 onset: "3d6 days"
 effect: "becomes chaotic evil; +10 Deception to hide it"
-based-on:
-  - "[[path srd 3.5/afflictions/Psychosis|Psychosis (PF1)]]"
-  - "[[path srd 3.5/rules/game-mastery-guide/sanity-and-madness/Types of Insanity|Types of Insanity (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/affliction]
 ---

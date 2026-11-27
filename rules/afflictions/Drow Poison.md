@@ -9,12 +9,7 @@ frequency: "1/minute for 2 minutes"
 effect: "unconscious for 1 minute/unconscious for 2d4 hours"
 cure: "1 miss"
 price: "75 gp"
-based-on:
-  - "[[path srd 3.5/afflictions/Drow Poison|Drow Poison (PF1)]]"
-  - "[[path srd 3.5/rules/ultimate-equipment/gear/Poisons|Poisons (PF1)]]"
-  - "[[fantasy srd 3.5/rules/Special Abilities and Conditions|Special Abilities and Conditions (3.5)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/affliction]
 ---

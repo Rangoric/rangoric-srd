@@ -1,17 +1,7 @@
 ---
 srd-type: "overview"
 section: "Prestige Classes"
-based-on:
-  - "[[individual books/Faeries/prestige-classes/Fae-walker|Fae-walker (Faeries)]]"
-  - "[[individual books/Faeries/prestige-classes/Faemancer|Faemancer (Faeries)]]"
-  - "[[individual books/Faeries/prestige-classes/Faerie Hunter|Faerie Hunter (Faeries)]]"
-  - "[[individual books/Faeries/prestige-classes/Fey Guardian|Fey Guardian (Faeries)]]"
-  - "[[individual books/Faeries/prestige-classes/Fey Prankster|Fey Prankster (Faeries)]]"
-  - "[[individual books/Faeries/prestige-classes/Fey-Touched|Fey-Touched (Faeries)]]"
-  - "[[individual books/Faeries/prestige-classes/Knight of the Fey|Knight of the Fey (Faeries)]]"
-  - "[[individual books/Faeries/prestige-classes/Faerier|Faerier (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/overview]
 ---

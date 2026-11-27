@@ -1,10 +1,7 @@
 ---
 srd-type: "overview"
 section: "Psionic Powers"
-based-on:
-  - "[[fantasy srd 3.5/powers/Powers G to P|Powers G to P (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---

@@ -8,10 +8,7 @@ fort: good
 ref: good
 will: poor
 skill-points: "4 + Int modifier"
-based-on:
-  - "[[path srd 3.5/classes/Brawler (Class)|Brawler (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-09
 tags: [rangoric, rangoric/class]
 ---

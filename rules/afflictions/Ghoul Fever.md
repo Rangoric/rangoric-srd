@@ -9,10 +9,7 @@ onset: "1 day"
 frequency: "1/day"
 effect: "1d3 Con and 1d3 Dex"
 cure: "2 consecutive misses"
-based-on:
-  - "[[path srd 3.5/monsters/Ghoul|Ghoul (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/affliction]
 ---

@@ -3,10 +3,7 @@ srd-type: "trap"
 section: "Rules"
 cr: "4"
 trap-type: "mechanical"
-based-on:
-  - "[[path srd 3.5/traps/Electricity Arc Trap|Electricity Arc Trap (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/trap]
 ---

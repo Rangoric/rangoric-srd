@@ -7,11 +7,7 @@ fort: poor
 ref: good
 will: good
 skill-points: "6 + Int modifier"
-based-on:
-  - "[[individual books/Faeries/prestige-classes/Fey Prankster|Fey Prankster (Faeries)]]"
-  - "[[individual books/Faeries/tables/Table 9 Fey Prankster|Table 9 Fey Prankster (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class]
 ---

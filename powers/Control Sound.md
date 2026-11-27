@@ -14,10 +14,7 @@ duration: "Concentration, up to 1 min./level; see text"
 defense: "None"
 power-resistance: "No"
 power-points: "3"
-based-on:
-  - "[[fantasy srd 3.5/powers/Control Sound|Control Sound (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

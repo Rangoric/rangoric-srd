@@ -2,11 +2,7 @@
 srd-type: "rules"
 section: "Rules"
 aliases: ["Duel"]
-based-on:
-  - "[[path srd 3.5/rules/ultimate-combat/mastering-combat/Duels|Duels (PF1 UC)]]"
-  - "[[path srd 3.5/rules/ultimate-magic/mastering-magic/Spell Duels|Spell Duels (PF1 Ultimate Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/rules]
 ---

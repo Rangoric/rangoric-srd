@@ -12,10 +12,7 @@ duration: "Concentration, up to 1 min./level"
 defense: "Fortitude"
 power-resistance: "Yes"
 power-points: "7"
-based-on:
-  - "[[fantasy srd 3.5/powers/Control Body|Control Body (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

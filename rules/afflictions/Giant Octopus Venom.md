@@ -8,10 +8,7 @@ attack-bonus: 9
 frequency: "1/round for 6 rounds"
 effect: "1d3 Str"
 cure: "2 misses"
-based-on:
-  - "[[path srd 3.5/monsters/Octopus, Giant|Octopus, Giant (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/affliction]
 ---

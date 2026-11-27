@@ -12,10 +12,7 @@ duration: "One day/level (D)"
 defense: "None or Will (object)"
 power-resistance: "No or Yes (object)"
 power-points: "13, XP"
-based-on:
-  - "[[fantasy srd 3.5/powers/Sequester, Psionic|Sequester, Psionic (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

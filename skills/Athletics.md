@@ -3,14 +3,7 @@ srd-type: "skill"
 section: "Skills"
 key-ability: "Str"
 armor-check-penalty: true
-based-on:
-  - "[[path srd 3.5/rules/pathfinder-unchained/Skill Unlocks|Skill Unlocks (PF1 Unchained)]]"
-  - "[[fantasy srd 3.5/skills/Climb|Climb (3.5)]]"
-  - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
-  - "[[fantasy srd 3.5/skills/Jump (Skill)|Jump (Skill) (3.5)]]"
-  - "[[fantasy srd 3.5/skills/Swim|Swim (3.5)]]"
 status: draft
-change: new
 pi-review: 2026-10-22
 tags: [rangoric, rangoric/skill, core]
 ---

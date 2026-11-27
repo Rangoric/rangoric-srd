@@ -4,10 +4,7 @@ section: "Occult Rituals"
 school: "Transmutation"
 level: 5
 casting-time: "5 hours"
-based-on:
-  - "[[path srd 3.5 foundry/occult-rituals/Atavistic Reversion (Occult Ritual)|Atavistic Reversion (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/occult-ritual]
 ---

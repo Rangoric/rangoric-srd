@@ -17,10 +17,7 @@ effect: "One horse/2 levels"
 duration: "One journey (see text)"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/constellations/The Steed|The Steed (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/constellation]
 ---

@@ -10,11 +10,7 @@ frequency: "1/minute for 6 minutes"
 effect: "1d2 Str, see note"
 cure: "1 miss"
 price: "100 gp"
-based-on:
-  - "[[path srd 3.5/afflictions/Belladonna|Belladonna (PF1)]]"
-  - "[[path srd 3.5/rules/ultimate-equipment/gear/Poisons|Poisons (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/affliction]
 ---

@@ -8,11 +8,7 @@ fort: poor
 ref: poor
 will: good
 skill-points: "2 + Int modifier"
-based-on:
-  - "[[path srd 3.5/classes/Wizard|Wizard (PF1)]]"
-  - "[[fantasy srd 3.5/classes/Wizard|Wizard (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/class]
 ---

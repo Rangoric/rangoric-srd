@@ -17,10 +17,7 @@ duration: "Instantaneous"
 defense: "Will"
 power-resistance: "Yes"
 power-points: "13"
-based-on:
-  - "[[fantasy srd 3.5/powers/Insanity (Power)|Insanity (Power) (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

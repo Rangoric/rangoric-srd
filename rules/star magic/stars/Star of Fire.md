@@ -14,10 +14,7 @@ area: "15-ft.-radius around the object (see text)"
 duration: "12 hours"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/stars/Fire|Fire (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/star]
 ---

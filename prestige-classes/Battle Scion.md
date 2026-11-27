@@ -7,11 +7,7 @@ fort: good
 ref: poor
 will: poor
 skill-points: "2 + Int modifier"
-based-on:
-  - "[[fantasy srd 3.5/unearthed-arcana/Legendary Weapons & Familiar Items#Battle Scion|Battle Scion (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/prestige-classes/Battle Scions|Battle Scions (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-09
 tags: [rangoric, rangoric/class]
 ---

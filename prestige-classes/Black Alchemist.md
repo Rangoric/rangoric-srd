@@ -7,11 +7,7 @@ fort: good
 ref: good
 will: good
 skill-points: "4 + Int modifier"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/prestige-classes/Black Alchemist|Black Alchemist (Alchemy & Herbalists)]]"
-  - "[[individual books/Alchemy & Herbalists v3.5/tables/Table 1 The Black Alchemist|Table 1 The Black Alchemist (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class]
 ---

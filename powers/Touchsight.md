@@ -10,10 +10,7 @@ range: "Personal; see text"
 target: "You"
 duration: "1 min./level (D)"
 power-points: "5"
-based-on:
-  - "[[fantasy srd 3.5/powers/Touchsight|Touchsight (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

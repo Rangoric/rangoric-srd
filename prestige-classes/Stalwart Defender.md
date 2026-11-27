@@ -8,11 +8,7 @@ ref: poor
 will: good
 alignment: "Any lawful"
 skill-points: "2 + Int modifier"
-based-on:
-  - "[[path srd 3.5/classes/Stalwart Defender|Stalwart Defender (PF1)]]"
-  - "[[fantasy srd 3.5/prestige-classes/Dwarven Defender|Dwarven Defender (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/class]
 ---

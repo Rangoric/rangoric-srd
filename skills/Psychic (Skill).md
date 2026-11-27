@@ -2,10 +2,7 @@
 srd-type: "skill"
 section: "Skills"
 key-ability: "Int"
-based-on:
-  - "[[path srd 3.5 foundry/rules/rules/magic/magic-basics/Psychic Magic (Rules)|Psychic Magic (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/skill, core, knowledge]
 ---

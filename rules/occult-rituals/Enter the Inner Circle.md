@@ -4,10 +4,7 @@ section: "Occult Rituals"
 school: "Divination"
 level: 4
 casting-time: "40 minutes"
-based-on:
-  - "[[path srd 3.5 foundry/occult-rituals/Enter the Inner Circle (Occult Ritual)|Enter the Inner Circle (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/occult-ritual]
 ---

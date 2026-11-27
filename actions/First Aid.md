@@ -1,12 +1,7 @@
 ---
 srd-type: "overview"
 section: "Actions"
-based-on:
-  - "[[path srd 3.5/skills/Heal (Skill)|Heal (Skill) (PF1)]]"
-  - "[[fantasy srd 3.5/skills/Heal (Skill)|Heal (Skill) (3.5)]]"
-  - "[[modern srd 3.5/skills/Treat Injury|Treat Injury (Modern)]]"
 status: draft
-change: new
 pi-review: 2026-10-31
 tags: [rangoric, rangoric/overview]
 ---

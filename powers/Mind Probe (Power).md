@@ -17,10 +17,7 @@ duration: "1 round/level (D)"
 defense: "Will partial; see text"
 power-resistance: "Yes"
 power-points: "9"
-based-on:
-  - "[[fantasy srd 3.5/powers/Mind Probe|Mind Probe (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

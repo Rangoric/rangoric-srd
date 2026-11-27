@@ -9,10 +9,7 @@ onset: "1 minute"
 frequency: "1/day"
 effect: "1d2 Con, 1d2 Cha drain"
 cure: "2 consecutive misses"
-based-on:
-  - "[[path srd 3.5/monsters/Giant, Ash|Giant, Ash (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/affliction]
 ---

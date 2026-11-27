@@ -15,10 +15,7 @@ area: "10-ft.-radius spread"
 duration: "10 min./level"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/stars/Hate|Hate (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/star]
 ---

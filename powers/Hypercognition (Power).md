@@ -12,10 +12,7 @@ range: "Personal"
 target: "You"
 duration: "Instantaneous"
 power-points: "15"
-based-on:
-  - "[[fantasy srd 3.5/powers/Hypercognition|Hypercognition (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

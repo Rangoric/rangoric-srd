@@ -12,10 +12,7 @@ duration: "One usage per two levels"
 defense: "None"
 power-resistance: "No"
 power-points: "13"
-based-on:
-  - "[[fantasy srd 3.5/powers/Phase Door, Psionic|Phase Door, Psionic (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

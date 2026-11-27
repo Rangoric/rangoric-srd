@@ -3,10 +3,7 @@ srd-type: "trap"
 section: "Rules"
 cr: "2"
 trap-type: "mechanical"
-based-on:
-  - "[[path srd 3.5/traps/Acid drop Trap|Acid drop Trap (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/trap]
 ---

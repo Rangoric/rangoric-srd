@@ -13,10 +13,7 @@ duration: "Instantaneous"
 defense: "Will (harmless)"
 power-resistance: "Yes (harmless)"
 power-points: "11"
-based-on:
-  - "[[fantasy srd 3.5/powers/Restoration, Psionic|Restoration, Psionic (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

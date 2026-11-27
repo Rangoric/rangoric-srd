@@ -3,11 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "rune"
 class: "Rune Caster"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/runes/Manaaz|Manaaz (Spells & Magic)]]"
-  - "[[individual books/Spells & Magic v3.0/tables/Table p49|Table p49 (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

@@ -16,10 +16,7 @@ duration: "Concentration, up to 1 round/level"
 defense: "None"
 power-resistance: "Yes"
 power-points: "7"
-based-on:
-  - "[[fantasy srd 3.5/powers/Telekinetic Maneuver|Telekinetic Maneuver (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

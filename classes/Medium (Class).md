@@ -10,28 +10,7 @@ fort: poor
 ref: poor
 will: good
 skill-points: "4 + Int modifier"
-based-on:
-  - "[[path srd 3.5 foundry/classes/Medium (Class)|Medium (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Spirit|Spirit (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Spirit Bonus|Spirit Bonus (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Spirit Surge|Spirit Surge (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Knacks|Knacks (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Medium Spells|Medium Spells (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Shared Seance|Shared Seance (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Taboo|Taboo (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Haunt Channeler|Haunt Channeler (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Exchange Spell (Medium)|Exchange Spell (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Location Channel|Location Channel (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Connection Channel|Connection Channel (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Propitiation|Propitiation (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Ask the Spirits|Ask the Spirits (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Astral Journey|Astral Journey (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Trance of Three|Trance of Three (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Spacious Soul|Spacious Soul (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Spirit Mastery|Spirit Mastery (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Astral Beacon|Astral Beacon (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class]
 ---

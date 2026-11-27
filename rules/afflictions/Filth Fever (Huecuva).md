@@ -9,10 +9,7 @@ onset: "1d3 days"
 frequency: "1/day"
 effect: "1d3 Dex, 1d3 Str damage"
 cure: "2 consecutive misses"
-based-on:
-  - "[[path srd 3.5/monsters/Huecuva|Huecuva (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/affliction]
 ---

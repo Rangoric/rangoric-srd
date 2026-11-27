@@ -11,10 +11,7 @@ duration: "Instantaneous"
 defense: "Will or Will (object); see text"
 power-resistance: "Yes or Yes (object); see text"
 power-points: "5"
-based-on:
-  - "[[fantasy srd 3.5/powers/Telekinetic Thrust|Telekinetic Thrust (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

@@ -7,12 +7,7 @@ fort: poor
 ref: poor
 will: good
 skill-points: "4 + Int modifier"
-based-on:
-  - "[[individual books/Faeries/prestige-classes/Faerier|Faerier (Faeries)]]"
-  - "[[individual books/Faeries/tables/Table 6 The Faerier|Table 6 The Faerier (Faeries)]]"
-  - "[[individual books/Spells & Magic v3.0/prestige-classes/Faerier|Faerier (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/class]
 ---

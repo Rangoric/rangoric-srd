@@ -8,11 +8,7 @@ fort: poor
 ref: good
 will: good
 skill-points: "6 + Int modifier"
-based-on:
-  - "[[path srd 3.5/classes/Investigator (Class)|Investigator (PF1)]]"
-  - "[[path srd 3.5 foundry/classes/Investigator|Investigator (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/class]
 ---

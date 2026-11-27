@@ -1,11 +1,7 @@
 ---
 srd-type: "overview"
 section: "Rules"
-based-on:
-  - "[[source files/raw/individual books/Alchemy & Herbalists v3.5/03 Basics Of Herbalism|Chapter 3: Basics of Herbalism (Alchemy & Herbalists)]]"
-  - "[[individual books/Alchemy & Herbalists v3.5/rules/What’s the Difference|What’s the Difference (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/overview]
 ---

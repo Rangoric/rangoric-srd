@@ -1,10 +1,7 @@
 ---
 srd-type: "designer-reference"
 section: "Design Notes"
-based-on:
-  - "[[path srd 3.5/rules/bestiary/encounter-tables/Forest (Temperate Forest)|Forest (Temperate Forest) (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/designer-reference]
 ---

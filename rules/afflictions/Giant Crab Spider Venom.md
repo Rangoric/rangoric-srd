@@ -8,10 +8,7 @@ attack-bonus: 4
 frequency: "1/round for 4 rounds"
 effect: "1d2 Str"
 cure: "1 miss"
-based-on:
-  - "[[path srd 3.5/monsters/Spider, Giant Crab|Spider, Giant Crab (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/affliction]
 ---

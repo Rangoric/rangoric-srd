@@ -10,10 +10,7 @@ range: "Touch"
 targets: "You and one willing creature, or two willing creatures; see text"
 duration: "1 hour/level (D)"
 power-points: "3"
-based-on:
-  - "[[fantasy srd 3.5/powers/Share Pain|Share Pain (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

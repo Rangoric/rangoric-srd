@@ -8,13 +8,7 @@ fort: good
 ref: poor
 will: good
 skill-points: "4 + Int modifier"
-based-on:
-  - "[[path srd 3.5/classes/Druid|Druid (PF1)]]"
-  - "[[fantasy srd 3.5/classes/Druid|Druid (3.5)]]"
-  - "[[path srd 3.5/classes/Druid#Animal Companions|Animal Companions (PF1)]]"
-  - "[[path srd 3.5 foundry/companion-features/Share Spells (Companion Feature, Advanced Player's Guide)|Share Spells (PF1 Foundry)]]"
 status: draft
-change: modified
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/class]
 ---

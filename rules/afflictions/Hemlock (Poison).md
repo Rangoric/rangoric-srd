@@ -10,11 +10,7 @@ frequency: "1/minute for 6 minutes"
 effect: "1d6 Dex, see note"
 cure: "2 consecutive misses"
 price: "2,500 gp"
-based-on:
-  - "[[path srd 3.5/afflictions/Hemlock|Hemlock (PF1)]]"
-  - "[[path srd 3.5/rules/ultimate-equipment/gear/Poisons|Poisons (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/affliction]
 ---

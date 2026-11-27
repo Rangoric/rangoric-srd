@@ -1,10 +1,7 @@
 ---
 srd-type: "flavor"
 wanderer: true
-based-on:
-  - "[[individual books/Faeries/personalities/Green Man|Green Man (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/flavor, flavor]
 ---

@@ -6,10 +6,7 @@ descriptor:
   - "Evil"
 level: 7
 casting-time: "7 hours"
-based-on:
-  - "[[path srd 3.5 foundry/occult-rituals/Blush of Youth (Occult Ritual)|Blush of Youth (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/occult-ritual, evil]
 ---

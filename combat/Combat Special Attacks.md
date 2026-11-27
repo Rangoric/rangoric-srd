@@ -1,12 +1,7 @@
 ---
 srd-type: "overview"
 section: "Combat"
-based-on:
-  - "[[path srd 3.5/classes/Cleric|Cleric (PF1)]]"
-  - "[[fantasy srd 3.5/combat/Combat Special Attacks|Combat Special Attacks (3.5)]]"
-  - "[[path srd 3.5/rules/core-rulebook/combat/Special Attacks|Special Attacks (PF1)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---

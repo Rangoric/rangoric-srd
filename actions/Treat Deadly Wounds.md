@@ -6,10 +6,7 @@ skills:
   - "[[rangoric-srd/skills/Fieldcraft|Fieldcraft]]"
   - "[[rangoric-srd/skills/Medicine|Medicine]]"
 provokes: false
-based-on:
-  - "[[path srd 3.5/skills/Heal (Skill)|Heal (Skill) (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-10-31
 tags: [rangoric, rangoric/action, first-aid]
 ---

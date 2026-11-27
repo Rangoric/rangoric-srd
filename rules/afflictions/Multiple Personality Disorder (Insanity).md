@@ -6,11 +6,7 @@ attack: "+9 vs Will"
 attack-bonus: 9
 onset: "2d6 days"
 effect: "–6 on Will Defense and Wis-based skill checks; multiple personalities"
-based-on:
-  - "[[path srd 3.5/afflictions/Multiple Personality Disorder|Multiple Personality Disorder (PF1)]]"
-  - "[[path srd 3.5/rules/game-mastery-guide/sanity-and-madness/Types of Insanity|Types of Insanity (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/affliction]
 ---

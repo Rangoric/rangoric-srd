@@ -1,9 +1,6 @@
 ---
 srd-type: "flavor"
-based-on:
-  - "[[individual books/Faeries/rules/Here, There, and Parts Between|Here, There, and Parts Between (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/flavor, flavor]
 ---

@@ -2,10 +2,7 @@
 srd-type: "skill"
 section: "Skills"
 key-ability: "Int"
-based-on:
-  - "[[fantasy srd 3.5/skills/Knowledge (Psionics)|Knowledge (Psionics) (3.5)]]"
 status: draft
-change: new
 pi-review: 2026-10-30
 tags: [rangoric, rangoric/skill, core, knowledge]
 ---

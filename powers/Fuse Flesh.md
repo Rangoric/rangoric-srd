@@ -12,10 +12,7 @@ duration: "1 round/level"
 defense: "Fortitude and Fortitude partial; see text"
 power-resistance: "Yes"
 power-points: "11"
-based-on:
-  - "[[fantasy srd 3.5/powers/Fuse Flesh|Fuse Flesh (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

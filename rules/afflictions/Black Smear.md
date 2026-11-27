@@ -8,11 +8,7 @@ attack-bonus: 5
 frequency: "1/round for 6 rounds"
 effect: "1d2 Str"
 cure: "1 miss"
-based-on:
-  - "[[path srd 3.5/monsters/Dark Creeper|Dark Creeper (PF1)]]"
-  - "[[path srd 3.5/monsters/Dark Stalker|Dark Stalker (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/affliction]
 ---

@@ -19,10 +19,7 @@ area: "40-ft.-radius spread"
 duration: "Concentration + 1 round/level"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/constellations/The Great Bear|The Great Bear (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/constellation]
 ---

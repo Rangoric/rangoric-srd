@@ -17,10 +17,7 @@ area: "40-ft.-radius burst"
 duration: "Instantaneous"
 defense: "Fortitude half (see text)"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/constellations/The Drum|The Drum (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/constellation]
 ---

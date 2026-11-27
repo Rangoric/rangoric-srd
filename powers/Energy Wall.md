@@ -15,10 +15,7 @@ duration: "Concentration + 1 round/ level"
 defense: "Reflex half or Fortitude half; see text"
 power-resistance: "No"
 power-points: "5"
-based-on:
-  - "[[fantasy srd 3.5/powers/Energy Wall|Energy Wall (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

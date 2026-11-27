@@ -7,10 +7,7 @@ fort: poor
 ref: poor
 will: good
 skill-points: "2 + Int modifier"
-based-on:
-  - "[[fantasy srd 3.5/prestige-classes/Archmage|Archmage (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/class]
 ---

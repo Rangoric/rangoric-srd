@@ -7,11 +7,7 @@ fort: poor
 ref: poor
 will: good
 skill-points: "4 + Int modifier"
-based-on:
-  - "[[individual books/Faeries/prestige-classes/Fey Guardian|Fey Guardian (Faeries)]]"
-  - "[[individual books/Faeries/tables/Table 8 The Fey Guardian|Table 8 The Fey Guardian (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class]
 ---

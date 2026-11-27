@@ -1,6 +1,5 @@
 ---
 tags: [rangoric, rangoric/index]
-change: modified
 ---
 
 # Rangoric SRD

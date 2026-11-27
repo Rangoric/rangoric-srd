@@ -9,11 +9,7 @@ onset: "1d4 days"
 frequency: "1/day"
 effect: "1d4 Str"
 cure: "3 consecutive misses"
-based-on:
-  - "[[path srd 3.5/afflictions/Devil Chills|Devil Chills (PF1)]]"
-  - "[[fantasy srd 3.5/rules/Special Abilities and Conditions|Special Abilities and Conditions (3.5)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/affliction]
 ---

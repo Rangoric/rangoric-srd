@@ -8,10 +8,7 @@ attack-bonus: 0
 frequency: "1/round for 6 rounds"
 effect: "1d2 Con damage"
 cure: "1 miss"
-based-on:
-  - "[[path srd 3.5/monsters/Frog, Poison|Frog, Poison (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/affliction]
 ---

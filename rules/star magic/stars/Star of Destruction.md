@@ -14,10 +14,7 @@ area: "10-ft.-radius emanation centered on you"
 duration: "Instantaneous"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/stars/Destruction|Destruction (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/star]
 ---

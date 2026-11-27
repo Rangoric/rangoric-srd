@@ -10,11 +10,7 @@ frequency: "1/minute for 6 minutes"
 effect: "1d3 Wis"
 cure: "2 consecutive misses"
 price: "150 gp"
-based-on:
-  - "[[path srd 3.5/rules/ultimate-equipment/gear/Poisons|Poisons (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Indigo dreams|Indigo dreams (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/affliction]
 ---

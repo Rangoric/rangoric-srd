@@ -1,7 +1,6 @@
 ---
 tags: [rangoric, rangoric/overview]
 started: 2026-10-30
-change: modified
 ---
 
 # Tag Register

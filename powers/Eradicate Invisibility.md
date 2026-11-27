@@ -12,10 +12,7 @@ duration: "Instantaneous"
 defense: "Reflex"
 power-resistance: "No"
 power-points: "5"
-based-on:
-  - "[[fantasy srd 3.5/powers/Eradicate Invisibility|Eradicate Invisibility (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

@@ -7,10 +7,7 @@ level:
 defense: "See text"
 power-resistance: "See text"
 power-points: "17, XP"
-based-on:
-  - "[[fantasy srd 3.5/powers/Reality Revision|Reality Revision (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

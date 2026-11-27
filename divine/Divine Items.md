@@ -1,10 +1,7 @@
 ---
 srd-type: "rule"
 section: "Divine"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/rules/Divine Ranks|Divine Ranks (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/rule]
 ---

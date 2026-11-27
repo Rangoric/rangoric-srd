@@ -2,10 +2,7 @@
 srd-type: "flavor"
 place-kind: site
 region: "[[rangoric-srd/flavor/the-fey-realm/places/Dark Forest|Dark Forest]]"
-based-on:
-  - "[[individual books/Faeries/places/Baba Yaga’s Hut|Baba Yaga’s Hut (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/flavor, flavor]
 ---

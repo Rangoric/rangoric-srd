@@ -2,13 +2,7 @@
 srd-type: "skill"
 section: "Skills"
 key-ability: "Int"
-based-on:
-  - "[[fantasy srd 3.5/skills/Search|Search (3.5)]]"
-  - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
-  - "[[modern srd 3.5/skills/Investigate|Investigate (Modern)]]"
-  - "[[modern srd 3.5/skills/Research|Research (Modern)]]"
 status: draft
-change: new
 pi-review: 2026-10-31
 tags: [rangoric, rangoric/skill, core]
 ---

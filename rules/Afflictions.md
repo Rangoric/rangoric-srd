@@ -1,21 +1,7 @@
 ---
 srd-type: "overview"
 section: "Rules"
-based-on:
-  - "[[fantasy srd 3.5/rules/Special Abilities and Conditions|Special Abilities and Conditions (3.5)]]"
-  - "[[path srd 3.5/rules/core-rulebook/glossary/Special Abilities|Special Abilities (PF1)]]"
-  - "[[path srd 3.5/rules/ultimate-equipment/gear/Poisons|Poisons (PF1)]]"
-  - "[[path srd 3.5/rules/game-mastery-guide/drugs-and-addiction/Drugs and Addiction (Drugs and Addiction)|Drugs and Addiction (PF1)]]"
-  - "[[path srd 3.5/rules/game-mastery-guide/drugs-and-addiction/Drugs|Drugs (PF1)]]"
-  - "[[path srd 3.5/rules/game-mastery-guide/drugs-and-addiction/Addiction|Addiction (PF1)]]"
-  - "[[path srd 3.5/rules/game-mastery-guide/drugs-and-addiction/Sample Drugs|Sample Drugs (PF1)]]"
-  - "[[path srd 3.5/rules/game-mastery-guide/Sanity and Madness|Sanity and Madness (PF1)]]"
-  - "[[path srd 3.5/rules/game-mastery-guide/sanity-and-madness/Going Insane|Going Insane (PF1)]]"
-  - "[[path srd 3.5/rules/game-mastery-guide/sanity-and-madness/Curing Insanity|Curing Insanity (PF1)]]"
-  - "[[path srd 3.5/rules/game-mastery-guide/sanity-and-madness/Types of Insanity|Types of Insanity (PF1)]]"
-  - "[[path srd 3.5/rules/game-mastery-guide/hazards/Sample Hazards#Infestations|Sample Hazards (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/overview]
 ---

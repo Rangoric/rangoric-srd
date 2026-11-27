@@ -8,12 +8,7 @@ fort: good
 ref: poor
 will: poor
 skill-points: "4 + Int modifier"
-based-on:
-  - "[[path srd 3.5/classes/Barbarian|Barbarian (PF1)]]"
-  - "[[fantasy srd 3.5/classes/Barbarian|Barbarian (3.5)]]"
-  - "[[path srd 3.5/rules/advanced-class-guide/class-options/Barbarian (Class Options)|Barbarian Class Options (PF1)]]"
 status: draft
-change: modified
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/class]
 ---

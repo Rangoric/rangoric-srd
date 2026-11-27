@@ -1,13 +1,7 @@
 ---
 srd-type: "rule"
 section: "Rules"
-based-on:
-  - "[[fantasy srd 3.5/spells/Magic Overview|Magic Overview (3.5)]]"
-  - "[[fantasy srd 3.5/psionics/Psionics|Psionics (3.5)]]"
-  - "[[fantasy srd 3.5/skills/Concentration|Concentration (3.5)]]"
-  - "[[path srd 3.5 foundry/rules/rules/magic/magic-basics/Components (Unrecorded)|Components (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-10-24
 tags: [rangoric, rangoric/rule]
 ---

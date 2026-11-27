@@ -3,10 +3,7 @@ srd-type: "trap"
 section: "Rules"
 cr: "17"
 trap-type: "magic"
-based-on:
-  - "[[path srd 3.5/traps/Lightning Bolt Gallery Trap|Lightning Bolt Gallery Trap (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/trap]
 ---

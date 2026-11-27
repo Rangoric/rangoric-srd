@@ -8,11 +8,7 @@ attack-bonus: 3
 onset: "1 hour"
 effect: "1d4 Dex, sickened until healed"
 cure: "1 miss"
-based-on:
-  - "[[path srd 3.5/afflictions/Poison Oak|Poison Oak (PF1)]]"
-  - "[[path srd 3.5/rules/game-mastery-guide/hazards/Sample Hazards#Poison Oak (CR 1 or 3)|Sample Hazards (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/affliction]
 ---

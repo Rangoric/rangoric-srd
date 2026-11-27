@@ -8,10 +8,7 @@ attack-bonus: 10
 frequency: "1/round for 12 rounds"
 effect: "1d4 Wis and susceptibility to lesser geas"
 cure: "3 misses"
-based-on:
-  - "[[path srd 3.5/monsters/Dorvae|Dorvae (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/affliction]
 ---

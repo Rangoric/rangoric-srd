@@ -10,12 +10,7 @@ frequency: "1/minute for 6 minutes"
 effect: "2d12 hp/1 Con"
 cure: "1 miss"
 price: "300 gp"
-based-on:
-  - "[[path srd 3.5/afflictions/Sassone Leaf Residue|Sassone Leaf Residue (PF1)]]"
-  - "[[path srd 3.5/rules/ultimate-equipment/gear/Poisons|Poisons (PF1)]]"
-  - "[[fantasy srd 3.5/rules/Special Abilities and Conditions|Special Abilities and Conditions (3.5)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/affliction]
 ---

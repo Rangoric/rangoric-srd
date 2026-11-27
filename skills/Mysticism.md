@@ -3,14 +3,7 @@ srd-type: "skill"
 section: "Skills"
 key-ability: "Int"
 trained-only: true
-based-on:
-  - "[[fantasy srd 3.5/skills/Spellcraft|Spellcraft (3.5)]]"
-  - "[[fantasy srd 3.5/skills/Psicraft|Psicraft (3.5)]]"
-  - "[[path srd 3.5/skills/Spellcraft|Spellcraft (PF1)]]"
-  - "[[path srd 3.5/rules/pathfinder-unchained/Skill Unlocks|Skill Unlocks (PF1 Unchained)]]"
-  - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
 status: draft
-change: new
 pi-review: 2026-11-25
 tags: [rangoric, rangoric/skill, core, magic, psionic]
 ---

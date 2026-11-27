@@ -3,11 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "rune"
 class: "Rune Caster"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/runes/Eihwaz|Eihwaz (Spells & Magic)]]"
-  - "[[individual books/Spells & Magic v3.0/tables/Table p47 (2)|Table p47 (2) (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

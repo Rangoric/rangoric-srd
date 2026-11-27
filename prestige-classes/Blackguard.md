@@ -8,10 +8,7 @@ ref: poor
 will: poor
 alignment: "Any evil"
 skill-points: "2 + Int modifier"
-based-on:
-  - "[[fantasy srd 3.5/prestige-classes/Blackguard|Blackguard (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/class]
 ---

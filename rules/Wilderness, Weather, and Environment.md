@@ -1,12 +1,7 @@
 ---
 srd-type: "overview"
 section: "Rules"
-based-on:
-  - "[[fantasy srd 3.5/rules/Wilderness, Weather, and Environment|Wilderness, Weather, and Environment (3.5)]]"
-  - "[[path srd 3.5/rules/core-rulebook/environment/Dungeons|Dungeons (PF1)]]"
-  - "[[path srd 3.5/rules/core-rulebook/environment/Environmental Rules|Environmental Rules (PF1)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/overview]
 ---

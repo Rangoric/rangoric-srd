@@ -5,10 +5,7 @@ bab: full
 fort: good
 ref: good
 will: poor
-based-on:
-  - "[[fantasy srd 3.5/psionics/War Mind|War Mind (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---

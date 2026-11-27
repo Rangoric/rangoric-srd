@@ -15,10 +15,7 @@ duration: "1 hour/level"
 defense: "Will"
 power-resistance: "Yes"
 power-points: "1"
-based-on:
-  - "[[fantasy srd 3.5/powers/Charm, Psionic|Charm, Psionic (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

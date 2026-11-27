@@ -10,10 +10,7 @@ range: "Close (25 ft. + 5 ft./2 levels)"
 targets: "All willing creatures in range"
 duration: "Up to 1 hour/level; see text"
 power-points: "15"
-based-on:
-  - "[[fantasy srd 3.5/powers/Time Hop, Mass|Time Hop, Mass (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

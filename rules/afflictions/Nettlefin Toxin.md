@@ -8,10 +8,7 @@ attack-bonus: 5
 frequency: "1/minute for 4 minutes"
 effect: "paralyzed for 1 minute"
 cure: "2 consecutive misses"
-based-on:
-  - "[[path srd 3.5/monsters/Adaro|Adaro (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/affliction]
 ---

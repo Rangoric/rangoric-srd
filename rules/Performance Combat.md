@@ -1,10 +1,7 @@
 ---
 srd-type: "rules"
 section: "Rules"
-based-on:
-  - "[[path srd 3.5/rules/ultimate-combat/mastering-combat/Performance Combat|Performance Combat (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/rules]
 ---

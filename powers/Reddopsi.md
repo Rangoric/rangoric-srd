@@ -10,10 +10,7 @@ range: "Personal"
 target: "You"
 duration: "10 min./level (D)"
 power-points: "13"
-based-on:
-  - "[[fantasy srd 3.5/powers/Reddopsi|Reddopsi (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

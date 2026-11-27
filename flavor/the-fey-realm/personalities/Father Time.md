@@ -1,10 +1,7 @@
 ---
 srd-type: "flavor"
 wanderer: true
-based-on:
-  - "[[individual books/Faeries/personalities/Father Time (“Baby New Year”)|Father Time (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/flavor, flavor]
 ---

@@ -11,10 +11,7 @@ range: "Personal"
 target: "You"
 duration: "Until landing or 1 round/ level"
 power-points: "1"
-based-on:
-  - "[[fantasy srd 3.5/powers/Catfall|Catfall (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

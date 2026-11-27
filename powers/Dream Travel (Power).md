@@ -14,10 +14,7 @@ duration: "1 hour/level (D)"
 defense: "Will"
 power-resistance: "Yes"
 power-points: "13"
-based-on:
-  - "[[fantasy srd 3.5/powers/Dream Travel|Dream Travel (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

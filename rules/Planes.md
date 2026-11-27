@@ -1,16 +1,7 @@
 ---
 srd-type: "overview"
 section: "Rules"
-based-on:
-  - "[[fantasy srd 3.5/rules/Planes|Planes (3.5)]]"
-  - "[[individual books/Faeries/rules/FaerieLand’s Planar Characteristics|FaerieLand’s Planar Characteristics (Faeries)]]"
-  - "[[individual books/Faeries/rules/Spells#Special Spell Effects|Spells (Faeries)]]"
-  - "[[individual books/Faeries/tables/Table 14 FaerieLand Erratic Time Differential|Table 14 FaerieLand Erratic Time Differential (Faeries)]]"
-  - "[[path srd 3.5/rules/game-mastery-guide/planar-adventures/What is a Plane-|What is a Plane? (PF1)]]"
-  - "[[path srd 3.5/rules/game-mastery-guide/planar-adventures/Planar (Planar Adventures)|Planar Adventures (PF1)]]"
-  - "[[path srd 3.5/rules/game-mastery-guide/planar-adventures/Planar Traits|Planar Traits (PF1)]]"
 status: draft
-change: modified
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/overview]
 ---

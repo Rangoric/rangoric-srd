@@ -1,18 +1,7 @@
 ---
 srd-type: "rules"
 section: "Star Magic"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/rules/Mechanics of Star Magic|Mechanics of Star Magic (Star Magic)]]"
-  - "[[individual books/Encyclopaedia Arcane Star Magic/rules/Star Magic Mechanics|Star Magic Mechanics (Star Magic)]]"
-  - "[[individual books/Encyclopaedia Arcane Star Magic/rules/Wizardly Science|Wizardly Science (Star Magic)]]"
-  - "[[individual books/Encyclopaedia Arcane Star Magic/rules/Sorcerous Channelling|Sorcerous Channelling (Star Magic)]]"
-  - "[[individual books/Encyclopaedia Arcane Star Magic/rules/Bardic Stargazing|Bardic Stargazing (Star Magic)]]"
-  - "[[individual books/Encyclopaedia Arcane Star Magic/rules/Other Arcane Casters|Other Arcane Casters (Star Magic)]]"
-  - "[[individual books/Encyclopaedia Arcane Star Magic/rules/Using the Calendar|Using the Calendar (Star Magic)]]"
-  - "[[individual books/Encyclopaedia Arcane Star Magic/rules/Discovering Stars and Constellations|Discovering Stars and Constellations (Star Magic)]]"
-  - "[[individual books/Encyclopaedia Arcane Star Magic/tables/Table p60 Season|Season table (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/rules]
 ---

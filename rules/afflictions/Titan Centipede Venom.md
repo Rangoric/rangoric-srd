@@ -8,10 +8,7 @@ attack-bonus: 14
 frequency: "1/round for 6 rounds"
 effect: "1d6 Dex"
 cure: "2 consecutive misses"
-based-on:
-  - "[[path srd 3.5/monsters/Centipede, Titan|Centipede, Titan (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/affliction]
 ---

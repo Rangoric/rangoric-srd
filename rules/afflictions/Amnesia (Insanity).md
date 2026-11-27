@@ -5,11 +5,7 @@ affliction-type: "insanity"
 attack: "+10 vs Will"
 attack-bonus: 10
 effect: "–4 on Will Defense and skill checks; loss of memory"
-based-on:
-  - "[[path srd 3.5/afflictions/Amnesia|Amnesia (PF1)]]"
-  - "[[path srd 3.5/rules/game-mastery-guide/sanity-and-madness/Types of Insanity|Types of Insanity (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/affliction]
 ---

@@ -3,12 +3,7 @@ srd-type: "skill"
 section: "Skills"
 key-ability: "Wis"
 trained-only: true
-based-on:
-  - "[[fantasy srd 3.5/skills/Autohypnosis|Autohypnosis (3.5)]]"
-  - "[[fantasy srd 3.5/skills/Concentration|Concentration (3.5)]]"
-  - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/skill, core]
 ---

@@ -8,10 +8,7 @@ attack-bonus: 13
 frequency: "1/round for 6 rounds"
 effect: "1d6 Wis"
 cure: "3 misses"
-based-on:
-  - "[[path srd 3.5/monsters/Jorogumo|Jorogumo (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/affliction]
 ---

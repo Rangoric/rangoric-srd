@@ -16,10 +16,7 @@ area: "100-ft.-radius emanation"
 duration: "10 min./level"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/constellations/The Jewel of the Sky|The Jewel of the Sky (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/constellation]
 ---

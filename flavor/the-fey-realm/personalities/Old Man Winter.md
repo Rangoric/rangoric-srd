@@ -1,9 +1,6 @@
 ---
 srd-type: "flavor"
-based-on:
-  - "[[individual books/Faeries/personalities/Old Man Winter|Old Man Winter (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/flavor, flavor]
 ---

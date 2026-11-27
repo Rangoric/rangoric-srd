@@ -7,11 +7,7 @@ fort: poor
 ref: poor
 will: good
 skill-points: "4 + Int modifier"
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/prestige-classes/Tarastan Apothecary|Tarastan Apothecary (Alchemy & Herbalists)]]"
-  - "[[individual books/Alchemy & Herbalists v3.5/tables/Table 5 The Tarastan Apothecary|Table 5 The Tarastan Apothecary (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class]
 ---

@@ -15,10 +15,7 @@ duration: "1 round/level"
 defense: "Will; see text"
 power-resistance: "Yes"
 power-points: "9"
-based-on:
-  - "[[fantasy srd 3.5/powers/Catapsi|Catapsi (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

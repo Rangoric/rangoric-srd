@@ -12,10 +12,7 @@ duration: "Instantaneous"
 defense: "None"
 power-resistance: "Yes"
 power-points: "15, XP"
-based-on:
-  - "[[fantasy srd 3.5/powers/Matter Manipulation|Matter Manipulation (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

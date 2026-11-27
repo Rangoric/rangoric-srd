@@ -8,10 +8,7 @@ attack-bonus: 10
 frequency: "1/round for 6 rounds"
 effect: "1d3 Str"
 cure: "2 consecutive misses"
-based-on:
-  - "[[path srd 3.5/monsters/Devil, Bone|Devil, Bone (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/affliction]
 ---

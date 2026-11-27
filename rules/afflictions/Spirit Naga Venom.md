@@ -8,10 +8,7 @@ attack-bonus: 10
 frequency: "1/round for 6 rounds"
 effect: "1d4 Con"
 cure: "1 miss"
-based-on:
-  - "[[path srd 3.5/monsters/Naga, Spirit|Naga, Spirit (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/affliction]
 ---

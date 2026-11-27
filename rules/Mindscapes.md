@@ -1,9 +1,7 @@
 ---
 srd-type: "rules"
 section: "Rules"
-based-on: []
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/rules]
 ---

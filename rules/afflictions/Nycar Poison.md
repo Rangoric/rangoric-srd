@@ -8,10 +8,7 @@ attack-bonus: 2
 frequency: "1/round for 6 rounds"
 effect: "1d4 acid and 1 Con damage"
 cure: "2 consecutive misses"
-based-on:
-  - "[[path srd 3.5/monsters/Nycar|Nycar (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/affliction]
 ---

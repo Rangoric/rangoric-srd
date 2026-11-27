@@ -9,10 +9,7 @@ onset: "1 day"
 frequency: "1/day"
 effect: "1d4 Str, then 3d6 damage as the parasite bursts free"
 cure: "3 consecutive misses"
-based-on:
-  - "[[path srd 3.5/monsters/Wolf-in-Sheep's-Clothing|Wolf-in-Sheep's-Clothing (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/affliction]
 ---

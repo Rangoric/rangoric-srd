@@ -1,9 +1,6 @@
 ---
 srd-type: "flavor"
-based-on:
-  - "[[individual books/Faeries/personalities/The Queen of Air and Darkness|The Queen of Air and Darkness (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/flavor, flavor]
 ---

@@ -10,10 +10,7 @@ range: "Touch"
 targets: "Willing creature touched, or up to eight willing creatures joining hands"
 duration: "Instantaneous"
 power-points: "9"
-based-on:
-  - "[[fantasy srd 3.5/powers/Plane Shift, Psionic|Plane Shift, Psionic (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

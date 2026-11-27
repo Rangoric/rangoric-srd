@@ -9,11 +9,7 @@ onset: "1 hour"
 frequency: "1/hour"
 effect: "2d4 Dex and 1d4 Con, sickened until healed/1 Con"
 cure: "1 miss"
-based-on:
-  - "[[path srd 3.5/afflictions/Poison Oak (Severe Exposure)|Poison Oak (Severe Exposure) (PF1)]]"
-  - "[[path srd 3.5/rules/game-mastery-guide/hazards/Sample Hazards#Poison Oak (CR 1 or 3)|Sample Hazards (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/affliction]
 ---

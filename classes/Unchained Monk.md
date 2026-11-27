@@ -8,10 +8,7 @@ fort: good
 ref: good
 will: poor
 skill-points: "4 + Int modifier"
-based-on:
-  - "[[path srd 3.5/classes/Monk (Unchained)|Unchained Monk (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/class]
 ---

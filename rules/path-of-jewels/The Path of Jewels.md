@@ -1,16 +1,7 @@
 ---
 srd-type: "overview"
 section: "Rules"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/rules/The Path of Jewels|The Path of Jewels (Spells & Magic)]]"
-  - "[[individual books/Spells & Magic v3.0/rules/Facets of Power|Facets of Power (Spells & Magic)]]"
-  - "[[individual books/Spells & Magic v3.0/rules/Expanded Gem Descriptions|Expanded Gem Descriptions (Spells & Magic)]]"
-  - "[[individual books/Spells & Magic v3.0/rules/Path of Jewels Options|Path of Jewels Options (Spells & Magic)]]"
-  - "[[individual books/Spells & Magic v3.0/tables/Table 17 Primary Gems and Attunements|Table 17 Primary Gems and Attunements (Spells & Magic)]]"
-  - "[[individual books/Spells & Magic v3.0/tables/Table 18 Binding Jewel Types|Table 18 Binding Jewel Types (Spells & Magic)]]"
-  - "[[individual books/Spells & Magic v3.0/tables/Table 20 Gem Values and Descriptors|Table 20 Gem Values and Descriptors (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/overview]
 ---

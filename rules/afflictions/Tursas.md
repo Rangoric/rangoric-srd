@@ -9,10 +9,7 @@ onset: "1 minute"
 frequency: "1/day"
 effect: "1d3 Wis and 1d6 Cha drain"
 cure: "2 consecutive misses"
-based-on:
-  - "[[path srd 3.5/monsters/Iku-Turso|Iku-Turso (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/affliction]
 ---

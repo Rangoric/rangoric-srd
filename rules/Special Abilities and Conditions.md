@@ -1,12 +1,7 @@
 ---
 srd-type: "overview"
 section: "Rules"
-based-on:
-  - "[[fantasy srd 3.5/rules/Special Abilities and Conditions|Special Abilities and Conditions (3.5)]]"
-  - "[[path srd 3.5/rules/core-rulebook/glossary/Conditions|Conditions (PF1)]]"
-  - "[[path srd 3.5/rules/core-rulebook/glossary/Special Abilities#Energy Drain and Negative Levels|Energy Drain and Negative Levels (PF1)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---

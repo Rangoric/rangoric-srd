@@ -10,10 +10,7 @@ range: "0 ft."
 target: "One weapon you hold"
 duration: "1 round/level"
 power-points: "5"
-based-on:
-  - "[[fantasy srd 3.5/powers/Vampiric Blade|Vampiric Blade (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

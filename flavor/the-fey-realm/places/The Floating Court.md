@@ -2,10 +2,7 @@
 srd-type: "flavor"
 place-kind: site
 region: "[[rangoric-srd/flavor/the-fey-realm/places/Eerie Swamps|Eerie Swamps]]"
-based-on:
-  - "[[individual books/Faeries/places/The Floating Court|The Floating Court (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/flavor, flavor]
 ---

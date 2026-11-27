@@ -13,10 +13,7 @@ range: "20 ft."
 target: "You and up to nine other willing psionic creatures in range"
 duration: "1 min./level (D)"
 power-points: "9"
-based-on:
-  - "[[fantasy srd 3.5/powers/Metaconcert|Metaconcert (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

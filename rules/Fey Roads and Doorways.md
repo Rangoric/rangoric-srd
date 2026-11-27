@@ -1,13 +1,7 @@
 ---
 srd-type: "rules"
 section: "Rules"
-based-on:
-  - "[[individual books/Faeries/rules/There and Back Again|There and Back Again (Faeries)]]"
-  - "[[individual books/Faeries/tables/Table 16 Fey Doorways|Table 16 Fey Doorways (Faeries)]]"
-  - "[[individual books/Faeries/rules/FaerieLand’s Planar Characteristics#Distances|FaerieLand’s Planar Characteristics (Faeries)]]"
-  - "[[individual books/Faeries/tables/Table 15 Distances|Table 15 Distances (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/rules]
 ---

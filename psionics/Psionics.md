@@ -1,10 +1,7 @@
 ---
 srd-type: "overview"
 section: "Psionics"
-based-on:
-  - "[[fantasy srd 3.5/psionics/Psionics|Psionics (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/overview]
 ---

@@ -17,10 +17,7 @@ target: "You (see text)"
 duration: "1 day/level"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/constellations/The Compass|The Compass (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/constellation]
 ---

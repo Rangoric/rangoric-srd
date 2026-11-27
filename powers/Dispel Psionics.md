@@ -11,10 +11,7 @@ duration: "Instantaneous or 1d4 rounds; see text"
 defense: "None"
 power-resistance: "No"
 power-points: "5"
-based-on:
-  - "[[fantasy srd 3.5/powers/Dispel Psionics|Dispel Psionics (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

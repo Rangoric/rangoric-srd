@@ -8,13 +8,7 @@ fort: good
 ref: poor
 will: good
 skill-points: "6 + Int modifier"
-based-on:
-  - "[[path srd 3.5/classes/Inquisitor|Inquisitor (PF1)]]"
-  - "[[path srd 3.5 foundry/classes/Inquisitor|Inquisitor (PF1 Foundry)]]"
-  - "[[path srd 3.5/rules/ultimate-magic/spellcasting-class-options/Inquisitor (Spellcasting Class Options)|Inquisitor, Ultimate Magic (PF1)]]"
-  - "[[path srd 3.5/rules/ultimate-combat/class-archetypes/Inquisitor (Class Archetypes)|Inquisitor, Ultimate Combat (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class]
 ---

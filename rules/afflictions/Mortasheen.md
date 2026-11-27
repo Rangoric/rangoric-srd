@@ -9,10 +9,7 @@ onset: "immediate"
 frequency: "1/day"
 effect: "1d4 Con and fatigued"
 cure: "2 consecutive misses (animals take a –2 penalty on Fortitude Defense against it)"
-based-on:
-  - "[[path srd 3.5/monsters/Nuckelavee|Nuckelavee (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/affliction]
 ---

@@ -2,10 +2,7 @@
 srd-type: "spellblight"
 section: "Spellblights"
 severity: "minor"
-based-on:
-  - "[[path srd 3.5/rules/ultimate-magic/mastering-magic/Spellblights#Ritualistic Obsession|Ritualistic Obsession (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spellblight]
 ---

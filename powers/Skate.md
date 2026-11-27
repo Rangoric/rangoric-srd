@@ -13,10 +13,7 @@ duration: "1 min./level (D)"
 defense: "None"
 power-resistance: "Yes (harmless, object)"
 power-points: "1"
-based-on:
-  - "[[fantasy srd 3.5/powers/Skate|Skate (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

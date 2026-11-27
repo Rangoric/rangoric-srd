@@ -8,10 +8,7 @@ fort: poor
 ref: good
 will: good
 skill-points: "6 + Int modifier"
-based-on:
-  - "[[path srd 3.5 foundry/classes/Vigilante|Vigilante (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class]
 ---

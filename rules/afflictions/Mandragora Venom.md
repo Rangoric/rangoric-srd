@@ -8,10 +8,7 @@ attack-bonus: 5
 frequency: "1/round for 4 rounds"
 effect: "confusion and fatigue"
 cure: "no number of misses, but an “act normally” result on the confusion behavior table ends the effect"
-based-on:
-  - "[[path srd 3.5/monsters/Mandragora|Mandragora (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/affliction]
 ---

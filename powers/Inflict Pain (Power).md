@@ -16,10 +16,7 @@ duration: "1 round/level"
 defense: "Will partial; see text"
 power-resistance: "Yes"
 power-points: "3"
-based-on:
-  - "[[fantasy srd 3.5/powers/Inflict Pain|Inflict Pain (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

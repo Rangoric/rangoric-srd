@@ -1,11 +1,7 @@
 ---
 srd-type: "designer-reference"
 section: "Design Notes"
-based-on:
-  - "[[path srd 3.5/rules/bestiary/monster-creation/Monster Creation (Monster Creation)|Monster Creation (PF1)]]"
-  - "[[path srd 3.5/rules/bestiary/monster-creation/Building the Monster|Building the Monster (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/designer-reference]
 ---

@@ -4,10 +4,7 @@ section: "Occult Rituals"
 school: "Evocation"
 level: 5
 casting-time: "50 minutes"
-based-on:
-  - "[[path srd 3.5 foundry/occult-rituals/Ethereal Rip (Occult Ritual)|Ethereal Rip (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/occult-ritual]
 ---

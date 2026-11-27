@@ -11,10 +11,7 @@ range: "Personal"
 target: "You"
 duration: "Instantaneous"
 power-points: "Psion/wilder 13, psychic warrior 5"
-based-on:
-  - "[[fantasy srd 3.5/powers/Evade Burst|Evade Burst (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

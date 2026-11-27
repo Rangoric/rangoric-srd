@@ -2,13 +2,7 @@
 srd-type: "skill"
 section: "Skills"
 key-ability: "Int"
-based-on:
-  - "[[path srd 3.5/rules/pathfinder-unchained/Skill Unlocks|Skill Unlocks (PF1 Unchained)]]"
-  - "[[fantasy srd 3.5/skills/Disguise|Disguise (3.5)]]"
-  - "[[fantasy srd 3.5/skills/Forgery|Forgery (3.5)]]"
-  - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
 status: draft
-change: new
 pi-review: 2026-10-22
 tags: [rangoric, rangoric/skill, core]
 ---

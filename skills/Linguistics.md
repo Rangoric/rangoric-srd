@@ -3,16 +3,7 @@ srd-type: "skill"
 section: "Skills"
 key-ability: "Int"
 trained-only: true
-based-on:
-  - "[[path srd 3.5/rules/pathfinder-unchained/Skill Unlocks|Skill Unlocks (PF1 Unchained)]]"
-  - "[[fantasy srd 3.5/skills/Decipher Script|Decipher Script (3.5)]]"
-  - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
-  - "[[fantasy srd 3.5/skills/Speak Language|Speak Language (3.5)]]"
-  - "[[path srd 3.5/skills/Linguistics|Linguistics (PF1)]]"
-  - "[[individual books/Faeries/skills/Speak Language (None; trained only)|Speak Language (Faeries)]]"
-  - "[[path srd 3.5 foundry/rules/Skills#Automatic Writing|Automatic Writing (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-10-22
 tags: [rangoric, rangoric/skill, background]
 ---

@@ -10,12 +10,7 @@ effect: "1d2 Str"
 cure: "1 miss"
 price: "200 gp"
 aliases: ["Giant Scorpion Venom"]
-based-on:
-  - "[[path srd 3.5/afflictions/Large Scorpion Venom|Large Scorpion Venom (PF1)]]"
-  - "[[path srd 3.5/rules/ultimate-equipment/gear/Poisons|Poisons (PF1)]]"
-  - "[[fantasy srd 3.5/rules/Special Abilities and Conditions|Special Abilities and Conditions (3.5)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/affliction]
 ---

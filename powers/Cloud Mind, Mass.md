@@ -8,10 +8,7 @@ level:
   - "Psion/wilder 6"
 target: "One creature/level"
 power-points: "11"
-based-on:
-  - "[[fantasy srd 3.5/powers/Cloud Mind, Mass|Cloud Mind, Mass (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

@@ -13,10 +13,7 @@ target: "One object or spot"
 duration: "1 hour/level"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/stars/Water|Water (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/star]
 ---

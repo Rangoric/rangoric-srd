@@ -8,10 +8,7 @@ attack-bonus: 7
 frequency: "1/round for 6 rounds"
 effect: "1d4 Dex"
 cure: "1 miss"
-based-on:
-  - "[[path srd 3.5/monsters/Centipede, Giant Whiptail|Centipede, Giant Whiptail (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/affliction]
 ---

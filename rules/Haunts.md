@@ -1,14 +1,7 @@
 ---
 srd-type: "rules"
 section: "Rules"
-based-on:
-  - "[[path srd 3.5/rules/game-mastery-guide/haunts/Haunts (Haunts)|Haunts (PF1)]]"
-  - "[[path srd 3.5/rules/game-mastery-guide/haunts/Haunt Rules|Haunt Rules (PF1)]]"
-  - "[[path srd 3.5/rules/game-mastery-guide/haunts/Elements of a Haunt|Elements of a Haunt (PF1)]]"
-  - "[[path srd 3.5/rules/game-mastery-guide/haunts/Creating a Haunt|Creating a Haunt (PF1)]]"
-  - "[[path srd 3.5/traps/Bleeding Walls|Bleeding Walls (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/rules]
 ---

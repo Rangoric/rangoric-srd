@@ -1,14 +1,8 @@
 ---
 srd-type: "overview"
 section: "Skills"
-based-on:
-  - "[[path srd 3.5/rules/pathfinder-unchained/Skill Unlocks|Skill Unlocks (PF1 Unchained)]]"
-  - "[[fantasy srd 3.5/skills/Spellcraft|Spellcraft (3.5)]]"
-  - "[[fantasy srd 3.5/skills/Psicraft|Psicraft (3.5)]]"
-  - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
 replaced-by: "[[rangoric-srd/skills/Mysticism|Mysticism]]"
 status: replaced
-change: modified
 pi-review: 2026-10-30
 tags: [rangoric, rangoric/overview]
 ---

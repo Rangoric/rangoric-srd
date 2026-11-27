@@ -2,10 +2,7 @@
 srd-type: "flavor"
 place-kind: site
 region: "[[rangoric-srd/flavor/the-fey-realm/places/Land of Eternal Summer|Land of Eternal Summer]]"
-based-on:
-  - "[[individual books/Faeries/places/Tallgrass|Tallgrass (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/flavor, flavor]
 ---

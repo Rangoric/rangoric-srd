@@ -8,10 +8,7 @@ attack-bonus: 8
 frequency: "1/round for 6 rounds"
 effect: "1d3 Con"
 cure: "2 consecutive misses"
-based-on:
-  - "[[path srd 3.5/monsters/Pukwudgie|Pukwudgie (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/affliction]
 ---

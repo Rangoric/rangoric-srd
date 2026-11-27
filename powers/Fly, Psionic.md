@@ -10,10 +10,7 @@ range: "Personal"
 target: "You"
 duration: "1 min./level (D)"
 power-points: "7"
-based-on:
-  - "[[fantasy srd 3.5/powers/Fly, Psionic|Fly, Psionic (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

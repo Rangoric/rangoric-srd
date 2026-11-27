@@ -1,13 +1,7 @@
 ---
 srd-type: "overview"
 section: "Rules"
-based-on:
-  - "[[fantasy srd 3.5/rules/Traps|Traps (3.5)]]"
-  - "[[path srd 3.5/rules/core-rulebook/environment/Traps#Trigger|Traps (PF1)]]"
-  - "[[path srd 3.5/traps/Insanity Mist Trap|Insanity Mist Trap (PF1)]]"
-  - "[[path srd 3.5/afflictions/Bestow Curse Trap|Bestow Curse Trap (PF1)]]"
 status: draft
-change: modified
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/overview]
 ---

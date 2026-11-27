@@ -1,10 +1,7 @@
 ---
 srd-type: "overview"
 section: "Rules"
-based-on:
-  - "[[fantasy srd 3.5/rules/Basics|Basics (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---

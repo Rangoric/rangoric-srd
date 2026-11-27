@@ -6,12 +6,7 @@ trap-type: "mechanical"
 price: "2 gp"
 weight: "10 lb."
 gear-type: "tools and skill kits"
-based-on:
-  - "[[path srd 3.5/traps/Bear Trap (Trap)|Bear Trap (Trap) (PF1)]]"
-  - "[[path srd 3.5/items/goods-and-services/Bear Trap (Item)|Bear Trap (Item) (PF1)]]"
-  - "[[path srd 3.5 foundry/items/gear/Bear trap|Bear trap (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/trap, rangoric/gear]
 ---

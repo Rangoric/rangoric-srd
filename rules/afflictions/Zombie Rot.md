@@ -8,10 +8,7 @@ onset: "1d4 days"
 frequency: "1/day"
 effect: "1d2 Con"
 cure: "2 consecutive misses"
-based-on:
-  - "[[path srd 3.5/afflictions/Zombie Rot|Zombie Rot (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/affliction]
 ---

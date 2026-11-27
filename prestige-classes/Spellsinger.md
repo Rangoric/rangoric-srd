@@ -7,11 +7,7 @@ fort: poor
 ref: poor
 will: good
 skill-points: "4 + Int modifier"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/prestige-classes/Spellsinger|Spellsinger (Spells & Magic)]]"
-  - "[[individual books/Spells & Magic v3.0/tables/Table 25 The Spellsinger|Table 25 The Spellsinger (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class]
 ---

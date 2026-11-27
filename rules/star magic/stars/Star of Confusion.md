@@ -15,10 +15,7 @@ target: "One creature or object"
 duration: "1 hour/level"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/stars/Confusion|Confusion (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/star]
 ---

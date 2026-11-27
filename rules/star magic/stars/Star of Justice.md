@@ -15,10 +15,7 @@ target: "One creature"
 duration: "1 hour or until used"
 defense: "Will (see text)"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/stars/Justice|Justice (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/star]
 ---

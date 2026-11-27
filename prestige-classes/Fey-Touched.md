@@ -7,11 +7,7 @@ fort: poor
 ref: poor
 will: good
 skill-points: "6 + Int modifier"
-based-on:
-  - "[[individual books/Faeries/prestige-classes/Fey-Touched|Fey-Touched (Faeries)]]"
-  - "[[individual books/Faeries/tables/Table 10 The Fey-touched|Table 10 The Fey-touched (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class]
 ---

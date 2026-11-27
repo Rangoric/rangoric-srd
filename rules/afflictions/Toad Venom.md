@@ -8,10 +8,7 @@ attack-bonus: 4
 frequency: "1/round for 4 rounds"
 effect: "1d2 Wis"
 cure: "1 miss"
-based-on:
-  - "[[path srd 3.5/monsters/Toad, Giant|Toad, Giant (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/affliction]
 ---

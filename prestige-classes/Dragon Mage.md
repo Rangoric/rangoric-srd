@@ -3,12 +3,7 @@ srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d4 (breath), d10 (scales), d8 (talon) or d6 (wings)"
 skill-points: "3 + Int modifier"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/prestige-classes/Dragon Mage|Dragon Mage (Spells & Magic)]]"
-  - "[[individual books/Spells & Magic v3.0/tables/Table 7 Healing Sacrifice|Table 7 Healing Sacrifice (Spells & Magic)]]"
-  - "[[individual books/Spells & Magic v3.0/tables/Table 8 Siphon Magic|Table 8 Siphon Magic (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class]
 ---

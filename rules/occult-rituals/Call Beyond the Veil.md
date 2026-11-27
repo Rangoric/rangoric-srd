@@ -5,10 +5,7 @@ school: "Conjuration"
 subschool: "Calling"
 level: 6
 casting-time: "60 minutes"
-based-on:
-  - "[[path srd 3.5 foundry/occult-rituals/Call Beyond the Veil (Occult Ritual)|Call Beyond the Veil (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/occult-ritual]
 ---

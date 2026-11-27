@@ -7,12 +7,7 @@ fort: good
 ref: poor
 will: good
 skill-points: "2 + Int modifier"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/prestige-classes/Rune Mage|Rune Mage (Spells & Magic)]]"
-  - "[[individual books/Spells & Magic v3.0/tables/Table 21 The Rune Mage|Table 21 The Rune Mage (Spells & Magic)]]"
-  - "[[individual books/Spells & Magic v3.0/tables/Table 22 Rune Magic Spells Per Day|Table 22 Rune Magic Spells Per Day (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class]
 ---
