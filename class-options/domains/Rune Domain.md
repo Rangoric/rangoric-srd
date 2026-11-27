@@ -27,7 +27,7 @@ In strange and eldritch runes you find potent magic. You gain [[rangoric-srd/fea
 
 **Spell Rune (Sp)**: At 8th level, you can attach another spell that you cast to one of your blast runes, causing that spell to affect the creature that triggers the rune, in addition to the damage. This spell must be of at least one level lower than the highest-level cleric spell you can cast and it must target one or more creatures. Regardless of the number of targets the spell can normally affect, it only affects the creature that triggers the rune.
 
-**Granted Power (3.5)**: Free Scribe Scroll feat.
+**Granted Power**: Free Scribe Scroll feat.
 
 ## Domain Spells
 

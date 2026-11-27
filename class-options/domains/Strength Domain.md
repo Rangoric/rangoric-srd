@@ -27,7 +27,7 @@ In strength and brawn there is truth—your faith gives you incredible might and
 
 **Might of the Gods (Su)**: At 8th level, you can add your cleric level as an enhancement bonus to your Strength score for a number of rounds per day equal to your cleric level. This bonus only applies on Strength checks and Strength-based skill checks. These rounds do not need to be consecutive.
 
-**Granted Power (3.5)**: You can perform a feat of strength as a supernatural ability. You gain an enhancement bonus to Strength equal to your cleric level. Activating the power is a free action, the power lasts 1 round, and it is usable once per day.
+**Granted Power**: You can perform a feat of strength as a supernatural ability. You gain an enhancement bonus to Strength equal to your cleric level. Activating the power is a free action, the power lasts 1 round, and it is usable once per day.
 
 ## Domain Spells
 

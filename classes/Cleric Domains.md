@@ -13,7 +13,7 @@ tags: [rangoric, rangoric/overview]
 # Cleric Domains
 
 > [!note] Replaced by [[rangoric-srd/class-options/domains/Domains|Domains]]
-> Each domain now has its own note in `class-options/domains`, with Pathfinder’s granted powers and domain spells beside 3.5’s (2026-11-07; see [[Cleric]]). The original text is kept below for reference.
+> Each domain now has its own note in `class-options/domains`, with all its granted powers and domain spells (2026-11-07; see [[Cleric]]). The original text is kept below for reference.
 
 ## Original text
 

@@ -27,7 +27,7 @@ Your touch can heal wounds, and your presence instills unity and strengthens emo
 
 **Unity (Su)**: At 8th level, whenever a spell or effect targets you and one or more allies within 30 feet, you can use this ability to allow your allies to use your defense against the effect in place of their own. Each ally must decide individually before the rolls are made. Using this ability is an immediate action. You can use this ability once per day at 8th level, and one additional time per day for every four cleric levels beyond 8th.
 
-**Granted Power (3.5)**: Use calm emotions as a spell-like ability once per day. Gain a +2 competence bonus on Persuasion checks.
+**Granted Power**: Use calm emotions as a spell-like ability once per day. Gain a +2 competence bonus on Persuasion checks.
 
 ## Domain Spells
 

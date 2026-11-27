@@ -27,7 +27,7 @@ You manipulate shadows and darkness. In addition, you receive [[rangoric-srd/fea
 
 **Eyes of Darkness (Su)**: At 8th level, your vision is not impaired by lighting conditions, even in absolute darkness and magic darkness. You can use this ability for a number of rounds per day equal to 1/2 your cleric level. These rounds do not need to be consecutive.
 
-**Granted Power (3.5)**: Free Blind-Fight feat.
+**Granted Power**: Free Blind-Fight feat.
 
 ## Domain Spells
 

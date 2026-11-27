@@ -27,7 +27,7 @@ You can speak with and befriend animals with ease. In addition, you treat Nature
 
 **Animal Companion (Ex)**: At 4th level, you gain the service of an animal companion. Your effective druid level for this animal companion is equal to your cleric level – 3. (Druids who take this ability through their nature bond class feature use their druid level – 3 to determine the abilities of their animal companions).
 
-**Granted Power (3.5)**: You can use speak with animals once per day as a spell-like ability.
+**Granted Power**: You can use speak with animals once per day as a spell-like ability.
 
 Add [[rangoric-srd/skills/Nature|Nature]] to your list of cleric class skills.
 

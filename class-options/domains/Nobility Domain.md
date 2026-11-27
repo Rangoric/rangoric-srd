@@ -27,7 +27,7 @@ You are a great leader, an inspiration to all who follow the teachings of your f
 
 **Leadership (Ex)**: At 8th level, you receive [[rangoric-srd/feats/Leadership|Leadership]] as a bonus feat. In addition, you gain a +2 bonus on your leadership score as long as you uphold the tenets of your deity (or divine concept if you do not venerate a deity).
 
-**Granted Power (3.5)**: The character has the spell-like ability to inspire allies, giving them a +2 morale bonus on defenses, attack rolls, ability checks, skill checks, and weapon damage rolls. Allies must be able to hear the character speak for 1 round. Using this ability is a standard action. It lasts a number of rounds equal to the character’s Charisma bonus and can be used once per day.
+**Granted Power**: The character has the spell-like ability to inspire allies, giving them a +2 morale bonus on defenses, attack rolls, ability checks, skill checks, and weapon damage rolls. Allies must be able to hear the character speak for 1 round. Using this ability is a standard action. It lasts a number of rounds equal to the character’s Charisma bonus and can be used once per day.
 
 ## Domain Spells
 

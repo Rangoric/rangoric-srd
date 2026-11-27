@@ -27,7 +27,7 @@ Your faith is your greatest source of protection, and you can use that faith to 
 
 **Aura of Protection (Su)**: At 8th level, you can emit a 30-foot aura of protection for a number of rounds per day equal to your cleric level. You and your allies within this aura gain a +1 deflection bonus to AC and resistance 5 against all elements (acid, cold, electricity, fire, and sonic). The deflection bonus increases by +1 for every four cleric levels you possess beyond 8th. At 14th level, the resistance against all elements increases to 10. These rounds do not need to be consecutive.
 
-**Granted Power (3.5)**: You can generate a protective ward as a supernatural ability. Grant someone you touch a resistance bonus equal to your cleric level to his or her defense against the next attack against a defense. Activating this power is a standard action. The protective ward is an abjuration effect with a duration of 1 hour that is usable once per day.
+**Granted Power**: You can generate a protective ward as a supernatural ability. Grant someone you touch a resistance bonus equal to your cleric level to his or her defense against the next attack against a defense. Activating this power is a standard action. The protective ward is an abjuration effect with a duration of 1 hour that is usable once per day.
 
 ## Domain Spells
 

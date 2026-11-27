@@ -27,7 +27,7 @@ Your touch infuses life and weapons with chaos, and you revel in all things anar
 
 **Chaos Blade (Su)**: At 8th level, you can give a weapon touched the _[[rangoric-srd/magic-items/weapon-abilities/Anarchic|anarchic]]_ special weapon quality for a number of rounds equal to 1/2 your cleric level. You can use this ability once per day at 8th level, and an additional time per day for every four levels beyond 8th.
 
-**Granted Power (3.5)**: You cast chaos spells at +1 caster level.
+**Granted Power**: You cast chaos spells at +1 caster level.
 
 ## Domain Spells
 

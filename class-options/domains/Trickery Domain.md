@@ -27,7 +27,7 @@ You are a master of illusions and deceptions. [[rangoric-srd/skills/Deception|De
 
 **Master's Illusion (Sp)**: At 8th level, you can create an illusion that hides the appearance of yourself and any number of allies within 30 feet for 1 round per cleric level. This ability otherwise functions like the spell _[[rangoric-srd/spells/Veil|veil]]_. Its attack bonus against Will disbelief is equal to 1/2 your cleric level + your Wisdom modifier. The rounds do not need to be consecutive.
 
-**Granted Power (3.5)**: Add [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Imitation|Imitation]], and [[rangoric-srd/skills/Stealth|Stealth]] to your list of cleric class skills.
+**Granted Power**: Add [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Imitation|Imitation]], and [[rangoric-srd/skills/Stealth|Stealth]] to your list of cleric class skills.
 
 ## Domain Spells
 

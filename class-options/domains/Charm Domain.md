@@ -27,7 +27,7 @@ You can baffle and befuddle foes with a touch or a smile, and your beauty and gr
 
 **Charming Smile (Sp)**: At 8th level, you can cast _[[rangoric-srd/spells/Charm Person|charm person]]_ as a swift action, with a DC of 10 + 1/2 your cleric level + your Wisdom modifier. You can only have one creature charmed in this way at a time. The total number of rounds of this effect per day is equal to your cleric level. The rounds do not need to be consecutive, and you can dismiss the charm at any time as a free action. Each attempt to use this ability consumes 1 round of its duration, whether or not the ability hits the creature.
 
-**Granted Power (3.5)**: The character can boost his or her Charisma by 4 points once per day. Activating this power is a free action. The Charisma increase lasts 1 minute.
+**Granted Power**: The character can boost his or her Charisma by 4 points once per day. Activating this power is a free action. The Charisma increase lasts 1 minute.
 
 ## Domain Spells
 
