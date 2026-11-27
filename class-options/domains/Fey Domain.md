@@ -3,10 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "domain"
 class: ["Cleric"]
-based-on:
-  - "[[individual books/Faeries/rules/Spells#Fey Domain|Spells (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/class-option]
 ---

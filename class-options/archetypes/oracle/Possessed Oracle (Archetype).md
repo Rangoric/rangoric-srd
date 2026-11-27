@@ -7,10 +7,7 @@ replaces:
   - "oracle's curse (1st)"
   - "mystery spell (4th, 6th, 8th, 10th, 12th, 16th)"
   - "revelation (1st)"
-based-on:
-  - "[[path srd 3.5/archetypes/Possessed Oracle|Possessed Oracle (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

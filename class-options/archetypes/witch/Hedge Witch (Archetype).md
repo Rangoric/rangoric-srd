@@ -6,10 +6,7 @@ class: ["Witch"]
 replaces:
   - "hex (4th)"
   - "hex (8th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Hedge Witch|Hedge Witch (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/class-option]
 ---

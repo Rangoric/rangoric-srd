@@ -1,10 +1,7 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-based-on:
-  - "[[path srd 3.5/rules/ultimate-magic/spellcasting-class-options/Wizard (Spellcasting Class Options)#Arcane Discoveries|Wizard (Ultimate Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/overview]
 ---

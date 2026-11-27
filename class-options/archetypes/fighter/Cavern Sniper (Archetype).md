@@ -9,10 +9,7 @@ replaces:
   - "bonus feat (1st, 4th)"
   - "bravery (2nd)"
   - "weapon training (5th, 9th, 13th, 17th)"
-based-on:
-  - "[[path srd 3.5/races/Drow (Race)#Cavern Sniper (Fighter)|Drow, Cavern Sniper (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-18
 tags: [rangoric, rangoric/class-option]
 ---

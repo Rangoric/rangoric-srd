@@ -4,10 +4,7 @@ section: "Class Options"
 option-type: "arcane-school"
 class: "Wizard"
 school-type: "universalist"
-based-on:
-  - "[[path srd 3.5/classes/Wizard#Universalist School|Wizard (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/class-option]
 ---

@@ -6,10 +6,7 @@ class: ["Wizard"]
 race: "Elf"
 replaces:
   - "arcane bond (1st)"
-based-on:
-  - "[[path srd 3.5/races/Elves (Advanced Race Guide)#Spellbinder (Wizard)|Elves, Spellbinder (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

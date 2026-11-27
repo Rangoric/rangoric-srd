@@ -11,10 +11,7 @@ replaces:
   - "bonus feat (10th)"
   - "bonus feat (15th)"
   - "bonus feat (20th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Spirit Whisperer|Spirit Whisperer (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

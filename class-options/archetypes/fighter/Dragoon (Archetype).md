@@ -8,10 +8,7 @@ replaces:
   - "bonus feat (1st)"
   - "weapon training (5th, 9th, 13th, 17th)"
   - "armor training (7th, 11th, 15th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Dragoon|Dragoon (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-18
 tags: [rangoric, rangoric/class-option]
 ---

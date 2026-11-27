@@ -4,10 +4,7 @@ section: "Class Options"
 option-type: "mutated bloodline"
 class: "Sorcerer"
 associated-bloodline: "[[rangoric-srd/class-options/bloodlines/Boreal Bloodline|Boreal]]"
-based-on:
-  - "[[path srd 3.5/archetypes/Wildblooded#Rime-Blooded|Wildblooded, Rime-Blooded (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/class-option]
 ---

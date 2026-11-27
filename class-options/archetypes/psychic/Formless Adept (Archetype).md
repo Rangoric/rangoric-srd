@@ -8,9 +8,7 @@ replaces:
   - "psychic discipline (discipline powers, discipline spells)"
   - "phrenic amplifications (1st, 15th)"
   - "remade self (20th)"
-based-on: []
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

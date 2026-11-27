@@ -8,9 +8,7 @@ replaces:
   - "wild talents (6th, 8th utility)"
   - "expanded element (7th)"
   - "omnikinesis (20th)"
-based-on: []
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

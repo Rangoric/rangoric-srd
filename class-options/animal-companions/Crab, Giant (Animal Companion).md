@@ -6,10 +6,7 @@ class: ["Druid"]
 size: "Small"
 speed: "30 ft., swim 20 ft."
 advancement-level: "4th"
-based-on:
-  - "[[path srd 3.5/animal-companions/Crab, Giant (Animal Companion)|Crab, Giant (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/class-option]
 ---

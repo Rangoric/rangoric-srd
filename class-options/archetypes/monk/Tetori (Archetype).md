@@ -14,10 +14,7 @@ replaces:
   - "timeless body (17th)"
   - "tongue of the sun and moon (17th)"
   - "empty body (19th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Tetori|Tetori (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

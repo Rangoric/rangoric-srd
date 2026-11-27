@@ -11,10 +11,7 @@ replaces:
   - "pistol-whip (3rd)"
   - "menacing shot (15th)"
   - "gun training (9th–17th)"
-based-on:
-  - "[[path srd 3.5/races/Ratfolk (Race)#Gulch Gunner (Gunslinger)|Ratfolk, Gulch Gunner (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

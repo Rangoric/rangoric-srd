@@ -3,15 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "bloodline"
 class: "Sorcerer"
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Ectoplasm Bloodline|Ectoplasm Bloodline (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Entangling Ectoplasm|Entangling Ectoplasm (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Ectoplasmic Reach|Ectoplasmic Reach (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Ectoplasmic Form|Ectoplasmic Form (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Malevolent Ectoplasm|Malevolent Ectoplasm (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Ectoplasmic Body|Ectoplasmic Body (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

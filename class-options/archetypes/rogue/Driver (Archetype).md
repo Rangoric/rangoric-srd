@@ -6,10 +6,7 @@ class: ["Rogue"]
 replaces: 
   - "trapfinding (1st)"
   - "danger sense (3rd–18th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Driver (Archetype)|Driver (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/class-option]
 ---

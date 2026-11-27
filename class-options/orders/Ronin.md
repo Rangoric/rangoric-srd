@@ -3,10 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "order"
 class: ["Samurai", "Cavalier"]
-based-on:
-  - "[[path srd 3.5/classes/Samurai#Ronin|Samurai (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/class-option]
 ---

@@ -1,11 +1,7 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-based-on:
-  - "[[path srd 3.5/classes/Wizard#Arcane Schools|Wizard (PF1)]]"
-  - "[[path srd 3.5 foundry/class-features/Elemental Arcane Schools|Elemental Arcane Schools (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/overview]
 ---

@@ -7,10 +7,7 @@ replaces:
   - "mystery (class skills)"
   - "mystery spell (2nd, 4th, 6th, 8th, 18th)"
   - "revelation (1st, 7th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Stargazer|Stargazer (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

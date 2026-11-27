@@ -9,10 +9,7 @@ replaces:
   - "focus weapon (1st)"
   - "bonus feats (3rd, 9th, 12th, 15th)"
   - "channel energy (4th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Cult Leader (Archetype)|Cult Leader (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

@@ -7,10 +7,7 @@ replaces:
   - "fast movement (1st)"
   - "uncanny dodge (2nd)"
   - "improved uncanny dodge (5th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Mounted Fury|Mounted Fury (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

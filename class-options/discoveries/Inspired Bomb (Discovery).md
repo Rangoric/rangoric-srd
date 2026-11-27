@@ -4,11 +4,7 @@ section: "Class Options"
 option-type: "discovery"
 class: ["Alchemist"]
 bomb: false
-based-on:
-  - "[[path srd 3.5/rules/advanced-class-guide/class-options/Alchemist (Class Options)#Discoveries|Alchemist (Advanced Class Guide)]]"
-  - "[[path srd 3.5 foundry/class-features/Inspired Bomb|Inspired Bomb (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

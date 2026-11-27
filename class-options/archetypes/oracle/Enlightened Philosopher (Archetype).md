@@ -8,10 +8,7 @@ replaces:
   - "mystery spell (4th–18th)"
   - "revelation (7th)"
   - "final revelation (20th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Enlightened Philosopher|Enlightened Philosopher (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

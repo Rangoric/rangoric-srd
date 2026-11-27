@@ -7,10 +7,7 @@ replaces:
   - "weapon and armor proficiency"
   - "domains (1st)"
   - "channel energy (3rd)"
-based-on:
-  - "[[path srd 3.5/archetypes/Ecclesitheurge|Ecclesitheurge (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

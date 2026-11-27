@@ -4,12 +4,7 @@ section: "Class Options"
 option-type: "revelation"
 class: ["Oracle"]
 mystery: ["Lore", "Outer Dark"]
-based-on:
-  - "[[path srd 3.5/classes/Oracle#Lore|Oracle, Lore mystery (PF1)]]"
-  - "[[path srd 3.5 foundry/class-features/Brain Drain|Brain Drain (PF1 Foundry)]]"
-  - "[[path srd 3.5/rules/ultimate-magic/spellcasting-class-options/Oracle (Spellcasting Class Options)#Dark Tapestry|Oracle, Dark Tapestry mystery (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

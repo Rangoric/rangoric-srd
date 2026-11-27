@@ -6,10 +6,7 @@ class: "Rogue"
 advanced: false
 sneak-attack: false
 level: 2
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Rope Master|Rope Master (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/class-option]
 ---

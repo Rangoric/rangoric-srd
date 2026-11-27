@@ -9,9 +9,7 @@ replaces:
   - "object reading (2nd)"
   - "aura sight (5th)"
   - "outside contact (8th)"
-based-on: []
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

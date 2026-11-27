@@ -3,9 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "emotional focus"
 class: ["Spiritualist"]
-based-on: []
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

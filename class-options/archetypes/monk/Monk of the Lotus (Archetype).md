@@ -8,10 +8,7 @@ replaces:
   - "abundant step (12th)"
   - "quivering palm (15th)"
   - "tongue of the sun and moon (17th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Monk of the Lotus|Monk of the Lotus (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

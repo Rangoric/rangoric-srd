@@ -6,10 +6,7 @@ class: ["Rogue"]
 advanced: false
 sneak-attack: false
 level: 2
-based-on:
-  - "[[path srd 3.5/races/Kitsune (Race)#Rogue Talents|Kitsune (Race), Rogue Talents (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/class-option]
 ---

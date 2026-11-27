@@ -1,12 +1,7 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-based-on:
-  - "[[path srd 3.5/classes/Witch#Hex|Witch (PF1)]]"
-  - "[[path srd 3.5/rules/ultimate-magic/spellcasting-class-options/Witch (Spellcasting Class Options)#Hexes|Witch (PF1 UM)]]"
-  - "[[path srd 3.5/classes/Shaman (Class)#Hex|Shaman (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/overview]
 ---

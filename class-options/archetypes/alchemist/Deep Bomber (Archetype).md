@@ -9,10 +9,7 @@ replaces:
   - "swift alchemy (3rd)"
   - "swift poisoning (6th)"
   - "instant alchemy (18th)"
-based-on:
-  - "[[path srd 3.5/races/Svirfneblin (Race)#Deep Bomber (Alchemist)|Svirfneblin, Deep Bomber (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

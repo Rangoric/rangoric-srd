@@ -12,10 +12,7 @@ replaces:
   - "wild shape (4th; gained at 8th)"
   - "venom immunity (9th)"
   - "a thousand faces (13th; gained at 6th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Urban Druid|Urban Druid (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/class-option]
 ---

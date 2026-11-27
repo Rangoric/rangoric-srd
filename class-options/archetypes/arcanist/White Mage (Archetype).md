@@ -6,10 +6,7 @@ class: ["Arcanist"]
 replaces:
   - "arcanist exploit (1st)"
   - "arcanist exploit (9th)"
-based-on:
-  - "[[path srd 3.5/archetypes/White Mage|White Mage (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

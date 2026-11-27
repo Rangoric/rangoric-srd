@@ -6,9 +6,7 @@ class: ["Spiritualist"]
 replaces:
   - "bonded manifestation (3rd)"
   - "dual bond (17th)"
-based-on: []
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

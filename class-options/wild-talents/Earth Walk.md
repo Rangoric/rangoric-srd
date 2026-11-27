@@ -7,10 +7,7 @@ element: ["earth"]
 talent-type: "utility"
 talent-level: 1
 burn: "—"
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Earth Walk|Earth Walk (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

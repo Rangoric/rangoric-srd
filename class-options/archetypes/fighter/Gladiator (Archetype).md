@@ -8,10 +8,7 @@ replaces:
   - "weapon and armor proficiency (heavy armor, tower shields)"
   - "bonus feats (1st–20th)"
   - "bravery (2nd)"
-based-on:
-  - "[[path srd 3.5/archetypes/Gladiator (Archetype)|Gladiator (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-18
 tags: [rangoric, rangoric/class-option]
 ---

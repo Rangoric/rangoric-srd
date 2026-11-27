@@ -6,10 +6,7 @@ class: ["Occultist"]
 implement-school: "Evocation"
 level: 1
 ability-type: "Sp"
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Light Matrix|Light Matrix (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

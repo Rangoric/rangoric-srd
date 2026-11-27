@@ -3,14 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "medium spirit"
 class: ["Medium"]
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Champion Spirit|Champion Spirit (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Champion's Prowess|Champion's Prowess (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Sudden Attack|Sudden Attack (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Fleet Charge|Fleet Charge (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Legendary Champion|Legendary Champion (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

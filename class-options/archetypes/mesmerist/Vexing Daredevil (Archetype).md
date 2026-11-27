@@ -9,9 +9,7 @@ replaces:
   - "touch treatment (3rd–19th)"
   - "bold stare (3rd–19th)"
   - "glib lie (11th)"
-based-on: []
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

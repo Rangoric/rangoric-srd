@@ -11,10 +11,7 @@ replaces:
   - "hex (12th)"
   - "hex (18th)"
   - "manifestation (20th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Animist|Animist (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

@@ -9,10 +9,7 @@ replaces:
   - "hex (8th)"
   - "hex (10th)"
   - "hex (12th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Witch Doctor|Witch Doctor (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

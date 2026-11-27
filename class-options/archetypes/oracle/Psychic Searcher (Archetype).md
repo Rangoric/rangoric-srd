@@ -6,10 +6,7 @@ class: ["Oracle"]
 replaces:
   - "mystery spell (2nd, 4th, 6th, 8th, 12th, 16th, 18th)"
   - "revelation (3rd)"
-based-on:
-  - "[[path srd 3.5/archetypes/Psychic Searcher|Psychic Searcher (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

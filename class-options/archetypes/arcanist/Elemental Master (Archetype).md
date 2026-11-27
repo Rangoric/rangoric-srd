@@ -9,10 +9,7 @@ replaces:
   - "arcanist exploit (9th)"
   - "arcanist exploit (11th)"
   - "arcanist exploit (15th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Elemental Master|Elemental Master (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

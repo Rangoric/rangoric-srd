@@ -5,10 +5,7 @@ option-type: "archetype"
 class: ["Alchemist"]
 replaces:
   - "mutagen (1st)"
-based-on:
-  - "[[path srd 3.5/archetypes/Inspired Chemist|Inspired Chemist (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

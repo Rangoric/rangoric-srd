@@ -8,10 +8,7 @@ replaces:
   - "favored terrain (3rd–18th)"
   - "camouflage (12th)"
   - "master hunter (20th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Shapeshifter|Shapeshifter (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

@@ -7,10 +7,7 @@ element: ["universal"]
 talent-type: "form infusion"
 talent-level: 5
 burn: "3"
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Wall Infusion|Wall Infusion (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

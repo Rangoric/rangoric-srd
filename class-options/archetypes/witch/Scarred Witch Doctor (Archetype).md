@@ -8,10 +8,7 @@ replaces:
   - "spells (Intelligence)"
   - "witch’s familiar"
   - "hex (1st)"
-based-on:
-  - "[[path srd 3.5/races/Orcs#Scarred Witch Doctor (Witch)|Orcs, Scarred Witch Doctor (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/class-option]
 ---

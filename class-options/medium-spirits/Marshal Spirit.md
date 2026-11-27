@@ -3,14 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "medium spirit"
 class: ["Medium"]
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Marshal Spirit|Marshal Spirit (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Marshall's Order|Marshal's Order (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Inspiring Call|Inspiring Call (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Decisive Strike|Decisive Strike (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Legendary Marshal|Legendary Marshal (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

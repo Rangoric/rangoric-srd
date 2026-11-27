@@ -4,10 +4,7 @@ section: "Class Options"
 option-type: "subdomain"
 class: ["Cleric"]
 domain: ["Chaos"]
-based-on:
-  - "[[path srd 3.5/rules/advanced-player-s-guide/core-classes/Cleric (Core Classes)#Protean Subdomain|Cleric (APG)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/class-option]
 ---

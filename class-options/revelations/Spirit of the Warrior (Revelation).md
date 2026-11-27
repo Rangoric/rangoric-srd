@@ -4,11 +4,7 @@ section: "Class Options"
 option-type: "revelation"
 class: ["Oracle"]
 mystery: ["Ancestor"]
-based-on:
-  - "[[path srd 3.5/rules/ultimate-magic/spellcasting-class-options/Oracle (Spellcasting Class Options)#Ancestor|Oracle, Ancestor mystery (PF1)]]"
-  - "[[path srd 3.5 foundry/class-features/Spirit of the Warrior|Spirit of the Warrior (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

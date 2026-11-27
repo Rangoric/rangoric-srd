@@ -1,10 +1,7 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-based-on:
-  - "[[path srd 3.5/archetypes/Skirmisher#Hunter's Tricks|Skirmisher, Hunter's Tricks (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/overview]
 ---

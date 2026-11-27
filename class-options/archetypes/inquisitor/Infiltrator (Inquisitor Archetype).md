@@ -8,10 +8,7 @@ replaces:
   - "monster lore (1st)"
   - "track (2nd)"
   - "discern lies (5th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Infiltrator (Ultimate Magic)|Infiltrator (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

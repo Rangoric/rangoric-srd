@@ -6,10 +6,7 @@ class: ["Druid"]
 size: "Small"
 speed: "20 ft., fly 20 ft. (poor)"
 advancement-level: "4th"
-based-on:
-  - "[[path srd 3.5/animal-companions/Beetle, Giant|Beetle, Giant (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/class-option]
 ---

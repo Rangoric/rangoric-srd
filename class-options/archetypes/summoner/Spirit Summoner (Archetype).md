@@ -10,10 +10,7 @@ replaces:
   - "transposition (8th)"
   - "aspect (10th)"
   - "merge forms (16th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Spirit Summoner|Spirit Summoner (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

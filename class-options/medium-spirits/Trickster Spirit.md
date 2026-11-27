@@ -3,13 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "medium spirit"
 class: ["Medium"]
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Trickster Spirit|Trickster Spirit (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Trickster's Edge|Trickster's Edge (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Transfer Magic|Transfer Magic (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Legendary Trickster|Legendary Trickster (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

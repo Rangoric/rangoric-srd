@@ -10,10 +10,7 @@ replaces:
   - "expert trainer (4th)"
   - "mighty charge (11th)"
   - "supreme charge (20th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Daring Champion|Daring Champion (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

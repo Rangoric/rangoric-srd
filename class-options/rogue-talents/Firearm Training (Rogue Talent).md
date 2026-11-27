@@ -6,11 +6,7 @@ class: "Rogue"
 advanced: false
 sneak-attack: false
 level: 2
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Firearm Training|Firearm Training (PF1 F)]]"
-  - "[[path srd 3.5/rules/ultimate-combat/class-archetypes/Rogue (Class Archetypes)#Rogue Talents|Firearm Training (PF1 UC)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

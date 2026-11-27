@@ -6,10 +6,7 @@ class: ["Arcanist"]
 replaces:
   - "spellbooks"
   - "spells"
-based-on:
-  - "[[path srd 3.5/archetypes/Unlettered Arcanist|Unlettered Arcanist (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

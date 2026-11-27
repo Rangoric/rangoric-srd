@@ -7,9 +7,7 @@ replaces:
   - "phantom (1st)"
   - "emotional focus (1st)"
   - "bonded manifestation (3rd)"
-based-on: []
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

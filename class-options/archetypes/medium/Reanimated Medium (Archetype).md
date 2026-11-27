@@ -11,9 +11,7 @@ replaces:
   - "connection channel (7th)"
   - "spacious soul (18th)"
   - "astral beacon (20th)"
-based-on: []
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

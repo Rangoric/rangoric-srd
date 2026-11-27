@@ -7,10 +7,7 @@ element: ["aether"]
 talent-type: "utility"
 talent-level: 5
 burn: "0"
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Force Barrier|Force Barrier (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

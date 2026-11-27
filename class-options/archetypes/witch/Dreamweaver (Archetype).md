@@ -10,10 +10,7 @@ replaces:
   - "hex (2nd)"
   - "hex (6th)"
   - "hex (10th)"
-based-on:
-  - "[[path srd 3.5/races/Changelings#Dreamweaver (Witch)|Changelings, Dreamweaver (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/class-option]
 ---

@@ -11,10 +11,7 @@ replaces:
   - "aura of resolve (8th)"
   - "aura of justice (11th)"
   - "holy champion (20th)"
-based-on:
-  - "[[path srd 3.5/races/Aasimars#Tranquil Guardian (Paladin)|Aasimars, Tranquil Guardian (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

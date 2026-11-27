@@ -14,10 +14,7 @@ replaces:
   - "quivering palm (15th)"
   - "tongue of the sun and moon (17th)"
   - "empty body (19th)"
-based-on:
-  - "[[path srd 3.5/races/Duergar (Race)#Gray Disciple (Monk)|Duergar, Gray Disciple (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

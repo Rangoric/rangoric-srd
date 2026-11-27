@@ -8,10 +8,7 @@ aliases:
 size: "Small"
 speed: "30 ft., burrow 10 ft., climb 10 ft."
 advancement-level: "4th"
-based-on:
-  - "[[path srd 3.5/animal-companions/Badger (Wolverine)|Badger (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/class-option]
 ---

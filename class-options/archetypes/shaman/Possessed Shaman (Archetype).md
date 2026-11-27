@@ -7,10 +7,7 @@ replaces:
   - "spirit magic (1st)"
   - "hex (2nd)"
   - "wandering hex (6th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Possessed Shaman|Possessed Shaman (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

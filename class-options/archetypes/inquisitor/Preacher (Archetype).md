@@ -5,10 +5,7 @@ option-type: "archetype"
 class: ["Inquisitor"]
 replaces:
   - "solo tactics (3rd)"
-based-on:
-  - "[[path srd 3.5/archetypes/Preacher|Preacher (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

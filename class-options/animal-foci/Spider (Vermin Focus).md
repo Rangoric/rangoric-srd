@@ -3,11 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "vermin focus"
 class: ["Hunter"]
-based-on:
-  - "[[path srd 3.5/archetypes/Verminous Hunter#Vermin Focus (Su)|Verminous Hunter, Spider (PF1)]]"
-  - "[[path srd 3.5 foundry/class-features/Spider (Hunter)|Spider (Hunter) (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

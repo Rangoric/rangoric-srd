@@ -7,10 +7,7 @@ replaces:
   - "weapon and armor proficiency"
   - "swashbuckler finesse (1st)"
   - "dodging panache (1st)"
-based-on:
-  - "[[path srd 3.5/archetypes/Musketeer (Advanced Class Guide)|Musketeer (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

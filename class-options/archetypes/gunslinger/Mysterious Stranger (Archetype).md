@@ -9,10 +9,7 @@ replaces:
   - "bleeding wound (11th)"
   - "nimble (2nd)"
   - "gun training (5th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Mysterious Stranger|Mysterious Stranger (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

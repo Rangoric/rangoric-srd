@@ -1,10 +1,7 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-based-on:
-  - "[[path srd 3.5/classes/Stalwart Defender#Defensive Powers (Ex)|Stalwart Defender (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/overview]
 ---

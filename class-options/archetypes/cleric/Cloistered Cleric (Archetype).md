@@ -9,10 +9,7 @@ replaces:
   - "skill points"
   - "domains (1st)"
   - "spells"
-based-on:
-  - "[[path srd 3.5/archetypes/Cloistered Cleric|Cloistered Cleric (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

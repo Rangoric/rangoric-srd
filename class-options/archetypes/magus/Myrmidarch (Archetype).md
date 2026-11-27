@@ -13,10 +13,7 @@ replaces:
   - "improved spell recall (11th)"
   - "greater spell combat (14th)"
   - "true magus (20th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Myrmidarch|Myrmidarch (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

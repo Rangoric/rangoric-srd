@@ -4,11 +4,7 @@ section: "Class Options"
 option-type: "hex"
 hex-type: "hex"
 class: ["Witch", "Shaman"]
-based-on:
-  - "[[path srd 3.5/classes/Witch#Hex|Witch (PF1)]]"
-  - "[[path srd 3.5/classes/Shaman (Class)#Hex|Shaman (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/class-option]
 ---

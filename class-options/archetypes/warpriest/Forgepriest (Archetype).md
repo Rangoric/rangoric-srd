@@ -8,10 +8,7 @@ replaces:
   - "bonus feats (3rd–18th)"
   - "bonus feats (3rd, 6th)"
   - "channel energy (4th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Forgepriest|Forgepriest (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

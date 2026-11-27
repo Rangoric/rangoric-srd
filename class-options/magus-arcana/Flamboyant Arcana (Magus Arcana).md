@@ -3,11 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "magus arcana"
 class: ["Magus"]
-based-on:
-  - "[[path srd 3.5/rules/advanced-class-guide/class-options/Magus (Class Options)#Magus Arcana|Magus, Magus Arcana (PF1)]]"
-  - "[[path srd 3.5 foundry/class-features/Flamboyant Arcana|Flamboyant Arcana (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

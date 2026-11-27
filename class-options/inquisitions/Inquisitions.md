@@ -1,11 +1,7 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-based-on:
-  - "[[path srd 3.5/rules/ultimate-magic/spellcasting-class-options/Inquisitor (Spellcasting Class Options)#Inquisitions|Inquisitor, Inquisitions (UM)]]"
-  - "[[path srd 3.5/rules/ultimate-combat/class-archetypes/Inquisitor (Class Archetypes)#Inquisitions|Inquisitor, Inquisitions (UC)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/overview]
 ---

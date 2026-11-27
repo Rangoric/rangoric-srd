@@ -9,10 +9,7 @@ replaces:
   - "spell kenning (5th)"
   - "dirge of doom (10th)"
   - "master skald (20th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Spell Warrior|Spell Warrior (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/class-option]
 ---

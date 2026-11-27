@@ -3,10 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "emotional focus"
 class: ["Spiritualist"]
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Zeal|Zeal (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

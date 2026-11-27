@@ -8,10 +8,7 @@ amplification-type: "amplification"
 class: ["Psychic"]
 level: 1
 ability-type: "Ex"
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Complex Countermeasures|Complex Countermeasures (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

@@ -3,10 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "combat-style"
 class: ["Ranger", "Slayer"]
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Underhanded|Underhanded (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/class-option]
 ---

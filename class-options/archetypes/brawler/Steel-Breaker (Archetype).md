@@ -7,10 +7,7 @@ replaces:
   - "class skills"
   - "brawler's strike (5th–17th)"
   - "maneuver training (3rd–19th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Steel-Breaker|Steel-Breaker (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

@@ -11,10 +11,7 @@ replaces:
   - "knockout (4th)"
   - "awesome blow (16th)"
   - "improved awesome blow (20th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Strangler (Archetype)|Strangler (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

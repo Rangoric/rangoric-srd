@@ -6,10 +6,7 @@ class: "Rogue"
 advanced: false
 sneak-attack: false
 level: 2
-based-on:
-  - "[[path srd 3.5/rules/advanced-player-s-guide/core-classes/Rogue (Core Classes)#Rogue Talents|Rogue (Core Classes) (PF1 APG)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/class-option]
 ---

@@ -3,10 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "order"
 class: ["Cavalier"]
-based-on:
-  - "[[path srd 3.5/rules/ultimate-combat/class-archetypes/Cavalier (Class Archetypes)#Order of the Seal|Cavalier (Class Archetypes) (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/class-option]
 ---

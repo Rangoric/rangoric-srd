@@ -3,10 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "bloodline"
 class: "Sorcerer"
-based-on:
-  - "[[path srd 3.5/rules/ultimate-magic/spellcasting-class-options/Sorcerer (Spellcasting Class Options)#Efreeti|Sorcerer (Spellcasting Class Options), Efreeti bloodline (PF1 UM)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/class-option]
 ---

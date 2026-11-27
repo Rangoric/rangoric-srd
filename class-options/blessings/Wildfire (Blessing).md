@@ -3,12 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "blessing"
 class: ["Warpriest"]
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Wildfire Blessing|Wildfire Blessing (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Leaping Flames|Leaping Flames (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Fiery Wake|Fiery Wake (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

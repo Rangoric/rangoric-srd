@@ -5,10 +5,7 @@ option-type: "deed"
 class: "Gunslinger"
 level: 19
 grit-cost: "all"
-based-on:
-  - "[[path srd 3.5/classes/Gunslinger#Deeds|Gunslinger (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

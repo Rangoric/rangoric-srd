@@ -4,11 +4,7 @@ section: "Class Options"
 option-type: "rage-power"
 class: ["Barbarian"]
 level: 2
-based-on:
-  - "[[path srd 3.5/rules/advanced-class-guide/class-options/Barbarian (Class Options)|Elemental Blood, Lesser (PF1)]]"
-  - "[[path srd 3.5 foundry/class-features/Elemental Blood, Lesser|Elemental Blood, Lesser (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/class-option]
 ---

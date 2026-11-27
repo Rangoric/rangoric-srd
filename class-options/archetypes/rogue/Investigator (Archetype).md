@@ -5,10 +5,7 @@ option-type: "archetype"
 class: ["Rogue"]
 replaces:
   - "trapfinding (1st)"
-based-on:
-  - "[[path srd 3.5/archetypes/Investigator (Archetype)|Investigator (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/class-option]
 ---

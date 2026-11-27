@@ -8,10 +8,7 @@ replaces:
   - "arcanist exploit (7th)"
   - "arcanist exploit (13th)"
   - "arcanist exploit (19th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Spell Specialist|Spell Specialist (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

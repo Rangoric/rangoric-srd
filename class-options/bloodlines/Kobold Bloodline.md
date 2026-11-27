@@ -4,10 +4,7 @@ section: "Class Options"
 option-type: "bloodline"
 class: "Sorcerer"
 race: "[[rangoric-srd/races/Kobold|kobolds]]"
-based-on:
-  - "[[path srd 3.5/races/Kobolds#Kobold Sorcerer Bloodline|Kobolds, kobold sorcerer bloodline (PF1 ARG)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

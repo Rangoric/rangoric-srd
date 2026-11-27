@@ -9,10 +9,7 @@ replaces:
   - "versatile performance (2nd)"
   - "well-versed (2nd)"
   - "lore master (5th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Daredevil|Daredevil (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

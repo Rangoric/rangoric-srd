@@ -3,14 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "medium spirit"
 class: ["Medium"]
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Archmage Spirit|Archmage Spirit (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Archmage Arcana|Archmage Arcana (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Arcane Surge|Arcane Surge (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Wild Arcana|Wild Arcana (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Legendary Archmage|Legendary Archmage (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

@@ -4,11 +4,7 @@ section: "Class Options"
 option-type: "revelation"
 class: ["Oracle"]
 mystery: ["Flame"]
-based-on:
-  - "[[path srd 3.5/classes/Oracle#Flame|Oracle, Flame mystery (PF1)]]"
-  - "[[path srd 3.5 foundry/class-features/Heat Aura|Heat Aura (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

@@ -5,10 +5,7 @@ option-type: "archetype"
 class: ["Sorcerer"]
 replaces:
   - "bloodline powers (1st, 9th, 15th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Eldritch Scrapper|Eldritch Scrapper (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/class-option]
 ---

@@ -4,11 +4,7 @@ section: "Class Options"
 option-type: "evolution"
 class: ["Summoner", "Unchained Summoner"]
 evolution-cost: 2
-based-on:
-  - "[[path srd 3.5/races/Fetchlings#New Evolutions|Fetchlings, New Evolutions (PF1)]]"
-  - "[[path srd 3.5 foundry/eidolon-evolutions/Shadow Form (2 EP)|Shadow Form (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

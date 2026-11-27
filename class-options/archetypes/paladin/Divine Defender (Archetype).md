@@ -6,10 +6,7 @@ class: ["Paladin"]
 replaces:
   - "mercy (3rd–18th)"
   - "divine bond (5th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Divine Defender|Divine Defender (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

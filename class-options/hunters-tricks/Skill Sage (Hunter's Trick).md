@@ -4,10 +4,7 @@ section: "Class Options"
 option-type: "hunter's trick"
 class: ["Ranger"]
 ability-type: "Ex"
-based-on:
-  - "[[path srd 3.5/archetypes/Skirmisher#Hunter's Tricks|Skirmisher, Skill Sage (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

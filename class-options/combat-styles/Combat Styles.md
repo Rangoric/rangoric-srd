@@ -1,15 +1,7 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-based-on:
-  - "[[path srd 3.5/classes/Ranger#Combat Style Feat (Ex)|Ranger (PF1)]]"
-  - "[[path srd 3.5/rules/advanced-player-s-guide/core-classes/Ranger (Core Classes)#New Combat Styles|Ranger (PF1 APG)]]"
-  - "[[path srd 3.5/rules/advanced-class-guide/class-options/Slayer (Class Options)#New Combat Style|Slayer (Class Options) (PF1 ACG)]]"
-  - "[[path srd 3.5 foundry/class-features/Deceptive|Deceptive (PF1 F)]]"
-  - "[[path srd 3.5 foundry/class-features/Menacing (Ranger, Slayer)|Menacing (PF1 F)]]"
-  - "[[path srd 3.5 foundry/class-features/Underhanded|Underhanded (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/overview]
 ---

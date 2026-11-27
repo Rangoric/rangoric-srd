@@ -11,10 +11,7 @@ replaces:
   - "dirge of doom (8th)"
   - "jack-of-all-trades (10th)"
   - "frightening tune (14th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Court Bard|Court Bard (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

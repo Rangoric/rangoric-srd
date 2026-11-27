@@ -4,10 +4,7 @@ section: "Class Options"
 option-type: "rage-power"
 class: "Barbarian"
 level: 6
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Spirit Steed|Spirit Steed (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/class-option]
 ---

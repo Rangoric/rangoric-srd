@@ -4,10 +4,7 @@ section: "Class Options"
 option-type: "arcane-school"
 class: "Wizard"
 school-type: "elemental"
-based-on:
-  - "[[path srd 3.5/rules/ultimate-magic/spellcasting-class-options/Wizard (Spellcasting Class Options)#Metal|Wizard (Ultimate Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/class-option]
 ---

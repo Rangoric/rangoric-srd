@@ -9,10 +9,7 @@ replaces:
   - "gunslinger's dodge (1st)"
   - "utility shot (3rd)"
   - "gun training (5th–17th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Musket Master|Musket Master (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

@@ -5,11 +5,7 @@ option-type: "discovery"
 class: ["Alchemist"]
 bomb: false
 level: 16
-based-on:
-  - "[[path srd 3.5/races/Ratfolk (Race)#Ratfolk Discoveries|Ratfolk, Ratfolk Discoveries (PF1)]]"
-  - "[[path srd 3.5 foundry/class-features/Greater Plague Bomb|Greater Plague Bomb (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

@@ -8,10 +8,7 @@ replaces:
   - "maneuver training (3rd–19th)"
   - "AC bonus (4th–18th)"
   - "brawler's strike (5th–17th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Exemplar|Exemplar (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

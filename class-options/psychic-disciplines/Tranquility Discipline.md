@@ -4,13 +4,7 @@ section: "Class Options"
 option-type: "psychic discipline"
 class: ["Psychic"]
 phrenic-pool-ability: "Wisdom"
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Tranquility Discipline|Tranquility Discipline (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Mental Placidity|Mental Placidity (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Calming Presence|Calming Presence (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Purge Disquiet|Purge Disquiet (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

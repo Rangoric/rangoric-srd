@@ -4,13 +4,7 @@ section: "Class Options"
 option-type: "psychic discipline"
 class: ["Psychic"]
 phrenic-pool-ability: "Charisma"
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Abomination Discipline|Abomination Discipline (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Dark Half|Dark Half (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Morphic Form|Morphic Form (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Psychic Safeguard|Psychic Safeguard (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

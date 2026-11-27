@@ -1,15 +1,7 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-based-on:
-  - "[[path srd 3.5/classes/Alchemist (Class)#Discovery (Su)|Alchemist (PF1)]]"
-  - "[[path srd 3.5/rules/ultimate-magic/spellcasting-class-options/Alchemist (Spellcasting Class Options)#Discoveries|Alchemist (Ultimate Magic)]]"
-  - "[[path srd 3.5/rules/ultimate-combat/class-archetypes/Alchemist (Class Archetypes)#Discoveries|Alchemist (Ultimate Combat)]]"
-  - "[[path srd 3.5/rules/advanced-class-guide/class-options/Alchemist (Class Options)#Discoveries|Alchemist (Advanced Class Guide)]]"
-  - "[[path srd 3.5/races/Goblins#Goblin Discoveries|Goblins (PF1)]]"
-  - "[[path srd 3.5/rules/monster-codex/drow/New Rules (Drow)#Drow Alchemist Discoveries|New Rules (Drow) (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/overview]
 ---

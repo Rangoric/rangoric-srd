@@ -6,10 +6,7 @@ class: "Slayer"
 advanced: false
 sneak-attack: true
 level: 2
-based-on:
-  - "[[path srd 3.5/classes/Slayer (Class)#Slayer Talents|Slayer (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/class-option]
 ---

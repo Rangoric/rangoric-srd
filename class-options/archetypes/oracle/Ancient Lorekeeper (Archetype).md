@@ -7,10 +7,7 @@ race: "Elf"
 replaces:
   - "mystery (class skills)"
   - "mystery spell (2nd–18th)"
-based-on:
-  - "[[path srd 3.5/races/Elves (Advanced Race Guide)#Ancient Lorekeeper (Oracle)|Elves, Ancient Lorekeeper (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

@@ -8,10 +8,7 @@ replaces:
   - "spells"
   - "mystery spell (2nd–18th)"
   - "revelation (3rd, 7th, 11th)"
-based-on:
-  - "[[path srd 3.5/races/Aasimars#Purifier (Oracle)|Aasimars, Purifier (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

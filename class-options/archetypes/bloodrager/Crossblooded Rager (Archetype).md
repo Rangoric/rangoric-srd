@@ -6,10 +6,7 @@ class: ["Bloodrager"]
 replaces:
   - "bloodline (1st)"
   - "bloodrage (1st)"
-based-on:
-  - "[[path srd 3.5/archetypes/Crossblooded Rager|Crossblooded Rager (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

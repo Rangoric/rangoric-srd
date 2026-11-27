@@ -5,10 +5,7 @@ option-type: "deed"
 class: "Swashbuckler"
 level: 19
 panache-cost: "all"
-based-on:
-  - "[[path srd 3.5/classes/Swashbuckler (Class)#Deeds|Swashbuckler (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-09
 tags: [rangoric, rangoric/class-option]
 ---

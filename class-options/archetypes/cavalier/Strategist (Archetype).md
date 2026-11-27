@@ -8,10 +8,7 @@ replaces:
   - "expert trainer (4th)"
   - "greater banner (14th)"
   - "bonus feat (18th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Strategist|Strategist (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

@@ -6,10 +6,7 @@ class: ["Bard"]
 replaces:
   - "inspire competence (3rd)"
   - "suggestion (6th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Sound Striker|Sound Striker (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

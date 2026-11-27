@@ -3,12 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "mystery"
 class: ["Oracle"]
-based-on:
-  - "[[path srd 3.5/classes/Oracle#Heavens|Oracle, Heavens mystery (PF1)]]"
-  - "[[path srd 3.5 foundry/class-features/Heavens Mystery|Heavens Mystery (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Heavens Final Revelation|Heavens Final Revelation (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

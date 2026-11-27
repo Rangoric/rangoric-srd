@@ -6,10 +6,7 @@ class: ["Druid"]
 size: "Medium"
 speed: "20 ft."
 advancement-level: "7th"
-based-on:
-  - "[[path srd 3.5/animal-companions/Slug, Giant (Animal Companion)|Slug, Giant (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/class-option]
 ---

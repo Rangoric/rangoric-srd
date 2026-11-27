@@ -8,10 +8,7 @@ replaces:
   - "medium armor (7th)"
   - "fighter training (10th)"
   - "heavy armor (13th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Staff Magus|Staff Magus (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

@@ -4,11 +4,7 @@ section: "Class Options"
 option-type: "discovery"
 class: ["Alchemist"]
 bomb: true
-based-on:
-  - "[[path srd 3.5/classes/Alchemist (Class)#Discovery (Su)|Alchemist, Discovery (PF1)]]"
-  - "[[path srd 3.5 foundry/class-features/Shock Bomb|Shock Bomb (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

@@ -12,10 +12,7 @@ replaces:
   - "poison resistance +6 (8th)"
   - "poison immunity (10th)"
   - "persistent mutagen (14th)"
-based-on:
-  - "[[path srd 3.5/races/Goblins#Fire Bomber (Alchemist)|Goblins, Fire Bomber (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

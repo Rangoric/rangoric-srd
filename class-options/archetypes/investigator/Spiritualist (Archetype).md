@@ -10,10 +10,7 @@ replaces:
   - "trap sense (3rd–18th)"
   - "swift alchemy (4th)"
   - "poison immunity (11th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Spiritualist|Spiritualist (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

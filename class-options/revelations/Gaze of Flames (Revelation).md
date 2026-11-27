@@ -4,11 +4,7 @@ section: "Class Options"
 option-type: "revelation"
 class: ["Oracle"]
 mystery: ["Flame"]
-based-on:
-  - "[[path srd 3.5/classes/Oracle#Flame|Oracle, Flame mystery (PF1)]]"
-  - "[[path srd 3.5 foundry/class-features/Gaze of Flames|Gaze of Flames (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

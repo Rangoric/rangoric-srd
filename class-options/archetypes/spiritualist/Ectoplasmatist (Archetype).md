@@ -15,9 +15,7 @@ replaces:
   - "dual bond (17th)"
   - "spiritual interference (4th)"
   - "greater spiritual interference (12th)"
-based-on: []
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

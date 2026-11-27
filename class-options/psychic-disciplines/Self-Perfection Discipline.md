@@ -4,14 +4,7 @@ section: "Class Options"
 option-type: "psychic discipline"
 class: ["Psychic"]
 phrenic-pool-ability: "Wisdom"
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Self-Perfection Discipline|Self-Perfection Discipline (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/AC Bonus (PSY)|AC Bonus (PSY) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Physical Push|Physical Push (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Bodily Purge|Bodily Purge (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Pure Body|Pure Body (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

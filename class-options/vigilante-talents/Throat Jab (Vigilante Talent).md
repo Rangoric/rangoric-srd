@@ -4,10 +4,7 @@ section: "Class Options"
 option-type: "vigilante talent"
 class: ["Vigilante"]
 hidden-strike: true
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Throat Jab|Throat Jab (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

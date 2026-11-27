@@ -4,11 +4,7 @@ section: "Class Options"
 option-type: "revelation"
 class: ["Oracle"]
 mystery: ["Wind"]
-based-on:
-  - "[[path srd 3.5/classes/Oracle#Wind|Oracle, Wind mystery (PF1)]]"
-  - "[[path srd 3.5 foundry/class-features/Wings of Air (Revelation)|Wings of Air (Revelation) (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

@@ -4,10 +4,7 @@ section: "Class Options"
 option-type: "ki-power"
 class: "Unchained Monk"
 level: 18
-based-on:
-  - "[[path srd 3.5/classes/Monk (Unchained)#Ki Powers (Su)|Unchained Monk (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/class-option]
 ---

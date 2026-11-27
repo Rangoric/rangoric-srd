@@ -6,10 +6,7 @@ class: ["Alchemist"]
 race: "Grippli"
 replaces:
   - "Throw Anything (1st)"
-based-on:
-  - "[[path srd 3.5/races/Gripplis#Bogborn Alchemist (Alchemist)|Gripplis, Bogborn Alchemist (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

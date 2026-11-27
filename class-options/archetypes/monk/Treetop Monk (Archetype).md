@@ -8,10 +8,7 @@ replaces:
   - "still mind (3rd)"
   - "purity of body (5th)"
   - "abundant step (12th)"
-based-on:
-  - "[[path srd 3.5/races/Vanaras#Treetop Monk (Monk)|Vanaras, Treetop Monk (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

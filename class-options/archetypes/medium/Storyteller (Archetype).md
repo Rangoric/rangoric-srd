@@ -15,9 +15,7 @@ replaces:
   - "trance of three (15th)"
   - "spirit mastery (19th)"
   - "astral beacon (20th)"
-based-on: []
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

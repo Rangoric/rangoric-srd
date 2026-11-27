@@ -8,10 +8,7 @@ replaces:
   - "teamwork feat (3rd–18th)"
   - "solo tactics (3rd)"
   - "true judgment (20th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Spellbreaker (Archetype)|Spellbreaker (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

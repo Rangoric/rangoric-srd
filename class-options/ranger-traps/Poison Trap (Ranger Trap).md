@@ -6,11 +6,7 @@ class: "Ranger"
 ability-type: "Ex or Su"
 trap-type: "mechanical or magic"
 add-on: false
-based-on:
-  - "[[path srd 3.5/traps/Poison Trap (Ex or Su)|Poison Trap (Ex or Su) (PF1)]]"
-  - "[[path srd 3.5 foundry/class-features/Poison Trap|Poison Trap (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/class-option, rangoric/trap]
 ---

@@ -12,10 +12,7 @@ replaces:
   - "improved spell recall (11th)"
   - "counterstrike (16th)"
   - "greater spell access (19th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Soul Forger|Soul Forger (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

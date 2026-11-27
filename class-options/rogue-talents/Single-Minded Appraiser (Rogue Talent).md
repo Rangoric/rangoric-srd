@@ -7,10 +7,7 @@ advanced: false
 sneak-attack: false
 level: 2
 race: "Catfolk"
-based-on:
-  - "[[path srd 3.5/races/Catfolk (Race)#Catfolk Rogue Talents|Catfolk (Race), Catfolk Rogue Talents (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/class-option]
 ---

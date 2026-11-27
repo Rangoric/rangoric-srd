@@ -12,10 +12,7 @@ replaces:
   - "mighty charge (11th)"
   - "greater banner (14th)"
   - "supreme charge (20th)"
-based-on:
-  - "[[path srd 3.5/races/Hobgoblins#Fell Rider (Cavalier)|Hobgoblins, Fell Rider (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

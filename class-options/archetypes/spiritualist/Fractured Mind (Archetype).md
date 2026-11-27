@@ -9,9 +9,7 @@ replaces:
   - "calm spirit (5th)"
   - "see invisibility (7th)"
   - "call spirit (16th)"
-based-on: []
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

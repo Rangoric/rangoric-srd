@@ -5,10 +5,7 @@ option-type: "discovery"
 class: ["Alchemist"]
 bomb: false
 level: 16
-based-on:
-  - "[[path srd 3.5/rules/advanced-class-guide/class-options/Alchemist (Class Options)#Discoveries|Alchemist (Advanced Class Guide)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

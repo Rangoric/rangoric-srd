@@ -7,10 +7,7 @@ element: ["water"]
 talent-type: "form infusion"
 talent-level: 4
 burn: "3"
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Spray Infusion|Spray Infusion (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

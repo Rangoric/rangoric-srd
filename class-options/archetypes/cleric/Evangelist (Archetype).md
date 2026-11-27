@@ -8,10 +8,7 @@ replaces:
   - "domains (1st)"
   - "channel energy (1st, 9th, 15th)"
   - "spontaneous casting"
-based-on:
-  - "[[path srd 3.5/archetypes/Evangelist|Evangelist (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

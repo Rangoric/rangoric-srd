@@ -6,10 +6,7 @@ class: ["Occultist"]
 implement-school: "Transmutation"
 level: 1
 ability-type: "Su"
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Philosopher's Touch|Philosopher's Touch (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

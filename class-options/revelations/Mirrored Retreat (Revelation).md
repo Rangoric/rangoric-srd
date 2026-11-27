@@ -4,10 +4,7 @@ section: "Class Options"
 option-type: "revelation"
 class: ["Oracle"]
 mystery: ["Intrigue"]
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Mirrored Retreat|Mirrored Retreat (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

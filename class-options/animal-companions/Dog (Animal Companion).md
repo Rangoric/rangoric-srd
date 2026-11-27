@@ -6,10 +6,7 @@ class: ["Druid"]
 size: "Small"
 speed: "40 ft."
 advancement-level: "4th"
-based-on:
-  - "[[path srd 3.5/animal-companions/Dog (Animal Companion)|Dog (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/class-option]
 ---

@@ -7,10 +7,7 @@ replaces:
   - "wild empathy (1st)"
   - "combat style feat (2nd–18th)"
   - "hunter’s bond (4th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Trophy Hunter|Trophy Hunter (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

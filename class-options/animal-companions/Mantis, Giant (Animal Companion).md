@@ -6,10 +6,7 @@ class: ["Druid"]
 size: "Medium"
 speed: "30 ft., climb 30 ft., fly 40 ft. (average)"
 advancement-level: "7th"
-based-on:
-  - "[[path srd 3.5/animal-companions/Mantis, Giant (Animal Companion)|Mantis, Giant (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/class-option]
 ---

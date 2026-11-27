@@ -4,10 +4,7 @@ section: "Class Options"
 option-type: "discovery"
 class: ["Alchemist"]
 bomb: false
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Thorny Bomb|Thorny Bomb (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

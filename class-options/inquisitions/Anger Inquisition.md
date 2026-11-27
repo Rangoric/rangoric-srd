@@ -3,11 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "inquisition"
 class: ["Inquisitor"]
-based-on:
-  - "[[path srd 3.5/rules/ultimate-magic/spellcasting-class-options/Inquisitor (Spellcasting Class Options)#Anger Inquisition|Inquisitor, Anger Inquisition (UM)]]"
-  - "[[path srd 3.5 foundry/class-features/Anger Inquisition|Anger Inquisition (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

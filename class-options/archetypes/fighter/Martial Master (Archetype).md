@@ -6,10 +6,7 @@ class: ["Fighter"]
 replaces:
   - "weapon training (5th, 9th, 13th, 17th)"
   - "weapon mastery (20th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Martial Master|Martial Master (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-18
 tags: [rangoric, rangoric/class-option]
 ---

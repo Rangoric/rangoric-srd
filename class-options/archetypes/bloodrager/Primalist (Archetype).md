@@ -5,10 +5,7 @@ option-type: "archetype"
 class: ["Bloodrager"]
 replaces:
   - "bloodline (4th–20th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Primalist|Primalist (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

@@ -4,10 +4,7 @@ section: "Class Options"
 option-type: "revelation"
 class: ["Oracle"]
 mystery: ["Apocalypse"]
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Unstoppable Overrun|Unstoppable Overrun (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

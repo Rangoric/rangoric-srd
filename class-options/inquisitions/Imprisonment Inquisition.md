@@ -3,11 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "inquisition"
 class: ["Inquisitor"]
-based-on:
-  - "[[path srd 3.5/rules/ultimate-magic/spellcasting-class-options/Inquisitor (Spellcasting Class Options)#Imprisonment Inquisition|Inquisitor, Imprisonment Inquisition (UM)]]"
-  - "[[path srd 3.5 foundry/class-features/Imprisonment Inquisition|Imprisonment Inquisition (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

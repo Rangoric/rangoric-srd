@@ -7,10 +7,7 @@ replaces:
   - "class skills"
   - "teamwork feats (3rd–18th)"
   - "hunter tactics (3rd)"
-based-on:
-  - "[[path srd 3.5/archetypes/Divine Hunter (Advanced Class Guide)|Divine Hunter (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

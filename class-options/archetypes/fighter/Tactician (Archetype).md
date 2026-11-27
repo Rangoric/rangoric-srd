@@ -12,10 +12,7 @@ replaces:
   - "bravery (2nd)"
   - "weapon training (5th)"
   - "armor training (11th, 15th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Tactician (Archetype)|Tactician (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-18
 tags: [rangoric, rangoric/class-option]
 ---

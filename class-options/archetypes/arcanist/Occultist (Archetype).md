@@ -7,10 +7,7 @@ replaces:
   - "arcanist exploit (1st)"
   - "arcanist exploit (7th)"
   - "magical supremacy (20th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Occultist|Occultist (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

@@ -5,10 +5,7 @@ option-type: "archetype"
 class: ["Magus"]
 replaces:
   - "spellstrike (2nd)"
-based-on:
-  - "[[path srd 3.5/archetypes/Spellblade|Spellblade (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

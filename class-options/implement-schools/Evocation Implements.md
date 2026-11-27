@@ -3,12 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "implement school"
 class: ["Occultist"]
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Evocation|Evocation (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Intense Focus (OCC)|Intense Focus (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Energy Ray|Energy Ray (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

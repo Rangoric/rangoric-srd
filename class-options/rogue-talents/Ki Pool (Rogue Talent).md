@@ -6,10 +6,7 @@ class: "Rogue"
 advanced: false
 sneak-attack: false
 level: 2
-based-on:
-  - "[[path srd 3.5/rules/ultimate-combat/class-archetypes/Rogue (Class Archetypes)|Rogue (Class Archetypes) (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/class-option]
 ---

@@ -4,10 +4,7 @@ section: "Class Options"
 option-type: "revelation"
 class: ["Oracle"]
 mystery: ["Ascetic"]
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Fleet (Oracle)|Fleet (Oracle) (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

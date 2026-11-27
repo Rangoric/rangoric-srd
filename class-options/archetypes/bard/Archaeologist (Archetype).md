@@ -7,10 +7,7 @@ replaces:
   - "bardic performance (1st)"
   - "versatile performance (2nd)"
   - "well-versed (2nd)"
-based-on:
-  - "[[path srd 3.5/archetypes/Archaeologist (Archetype)|Archaeologist (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

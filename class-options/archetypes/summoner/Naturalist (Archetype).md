@@ -10,10 +10,7 @@ replaces:
   - "greater shield ally (12th)"
   - "life bond (14th)"
   - "greater aspect (18th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Naturalist|Naturalist (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-option]
 ---

@@ -4,10 +4,7 @@ section: "Class Options"
 option-type: "rage-power"
 class: ["Barbarian", "Skald"]
 level: 2
-based-on:
-  - "[[path srd 3.5/classes/Barbarian (Unchained)#Rage Powers (Ex)|Unchained Barbarian (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/class-option]
 ---

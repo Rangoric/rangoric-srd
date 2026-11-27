@@ -6,10 +6,7 @@ class: ["Cleric"]
 replaces:
   - "domains (1st)"
   - "channel energy (1st)"
-based-on:
-  - "[[path srd 3.5/archetypes/Merciful Healer|Merciful Healer (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

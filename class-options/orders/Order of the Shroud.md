@@ -3,13 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "order"
 class: ["Cavalier"]
-based-on:
-  - "[[path srd 3.5 foundry/class-features/Order of the Shroud|Order of the Shroud (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Spiritual Shield|Spiritual Shield (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Destroyer of the Undead|Destroyer of the Undead (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/class-features/Stand Against Darkness|Stand Against Darkness (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---

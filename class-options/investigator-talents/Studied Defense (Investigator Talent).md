@@ -5,11 +5,7 @@ option-type: "investigator-talent"
 class: ["Investigator"]
 studied: false
 level: 9
-based-on:
-  - "[[path srd 3.5/classes/Investigator (Class)#Investigator Talent (Ex)|Investigator, Investigator Talent (PF1)]]"
-  - "[[path srd 3.5 foundry/class-features/Studied Defense|Studied Defense (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/class-option]
 ---

@@ -1,12 +1,7 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-based-on:
-  - "[[path srd 3.5/classes/Summoner#Evolutions|Summoner, Evolutions (PF1)]]"
-  - "[[path srd 3.5/rules/ultimate-magic/spellcasting-class-options/Summoner (Spellcasting Class Options)#Evolutions|Summoner, Ultimate Magic Evolutions (PF1)]]"
-  - "[[path srd 3.5/classes/Summoner (Unchained)#Evolutions|Unchained Summoner, Evolutions (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/overview]
 ---

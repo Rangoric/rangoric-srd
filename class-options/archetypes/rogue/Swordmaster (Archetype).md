@@ -7,10 +7,7 @@ race: "Tengu"
 replaces:
   - "class skills"
   - "danger sense (3rd–18th)"
-based-on:
-  - "[[path srd 3.5/races/Tengus#Swordmaster (Rogue)|Tengus, Swordmaster (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/class-option]
 ---

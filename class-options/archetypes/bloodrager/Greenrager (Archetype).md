@@ -7,10 +7,7 @@ replaces:
   - "blood sanctuary (3rd)"
   - "bloodline feat (6th)"
   - "bloodline feat (9th)"
-based-on:
-  - "[[path srd 3.5/archetypes/Greenrager|Greenrager (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/class-option]
 ---
