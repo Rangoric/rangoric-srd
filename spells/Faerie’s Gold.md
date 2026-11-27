@@ -39,6 +39,6 @@ _Illusion (Glamer)_
 - **Defense**: Will
 - **Spell Resistance**: Yes
 
-As _[[rangoric-srd/spells/Fool’s Gold (Faeries)|fool’s gold]]_, but this spell transforms 144 cubic inches of materials per level of the caster into solid gold. The area of effect (1 in. x 12 in. x 12 in.) is equivalent to about 1800 coins. The spell attacks the Will of any creature seeing the resulting transformed metal. If successful, the creature sees the metal for what it really is.
+As _[[rangoric-srd/spells/Fool’s Gold (Alternate)|fool’s gold]]_, but this spell transforms 144 cubic inches of materials per level of the caster into solid gold. The area of effect (1 in. x 12 in. x 12 in.) is equivalent to about 1800 coins. The spell attacks the Will of any creature seeing the resulting transformed metal. If successful, the creature sees the metal for what it really is.
 
 _Material Component_: Though not required, powdered gemstones used in the casting of this spell aid in its success.

@@ -285,7 +285,7 @@ Results marked with an asterisk (\*) indicate items too powerful to include in a
 
 ## Catalog Template
 
-The core categories of materials produced by herbalists and alchemists and their ilk are: Alchana, Chymicals (& Compounds), Erlcana, Ingestibles (& Potions), Powders (& Dusts), and Unguents. Remember, just like the fabled [[rangoric-srd/equipment/alchemical-items/Philosopher’s Stone (Alchemy & Herbalists)|Philosopher’s Stone]] and [[rangoric-srd/equipment/alchemical-items/Elixir of Life, Impure|Elixir of Life]], each category may have some ultimate quest items that people spend lifetimes trying to create or find—which might explain the prices and notes below.
+The core categories of materials produced by herbalists and alchemists and their ilk are: Alchana, Chymicals (& Compounds), Erlcana, Ingestibles (& Potions), Powders (& Dusts), and Unguents. Remember, just like the fabled [[rangoric-srd/equipment/alchemical-items/Philosopher’s Stone (Alchemical Item)|Philosopher’s Stone]] and [[rangoric-srd/equipment/alchemical-items/Elixir of Life, Impure|Elixir of Life]], each category may have some ultimate quest items that people spend lifetimes trying to create or find—which might explain the prices and notes below.
 
 Just like the herbs (see [[rangoric-srd/rules/alchemy-and-herbalism/Herbalism#Herbal Template|the herbal template]]), there’s a standard format for all these items or processes or substances, and the entries will all have information slightly more detailed than that of the Core d20 manuals, the additions being Difficulty Checks for creation and different or more stringent prerequisites.
 

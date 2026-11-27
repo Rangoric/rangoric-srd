@@ -91,7 +91,7 @@ These spells carry “Fpk” levels.
 
 **1st Level**: _[[rangoric-srd/spells/Bad Luck|bad luck]]_, _[[rangoric-srd/spells/Disguise Self|disguise self]]_, _[[rangoric-srd/spells/Charm Person|charm person]]_, _[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]_, _[[rangoric-srd/spells/Faerie’s Gold|faerie’s gold]]_, _[[rangoric-srd/spells/Good Luck|good luck]]_, _[[rangoric-srd/spells/Trinket|trinket]]_.
 
-**2nd Level**: _[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_, _[[rangoric-srd/spells/Disrobe|disrobe]]_, _[[rangoric-srd/spells/Fool’s Gold (Faeries)|fool’s gold]]_, _[[rangoric-srd/spells/Glob of Sap|glob of sap]]_, _[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Misdirection|misdirection]]_, _[[rangoric-srd/spells/See Invisibility|see invisibility]]_.
+**2nd Level**: _[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_, _[[rangoric-srd/spells/Disrobe|disrobe]]_, _[[rangoric-srd/spells/Fool’s Gold (Alternate)|fool’s gold]]_, _[[rangoric-srd/spells/Glob of Sap|glob of sap]]_, _[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Misdirection|misdirection]]_, _[[rangoric-srd/spells/See Invisibility|see invisibility]]_.
 
 **3rd Level**: _[[rangoric-srd/spells/Bestow Curse|bestow curse]]_, _[[rangoric-srd/spells/Blink|blink]]_, _[[rangoric-srd/spells/Charm Monster|charm monster]]_, _[[rangoric-srd/spells/Displacement|displacement]]_, _[[rangoric-srd/spells/Fey Mask|fey mask]]_, _[[rangoric-srd/spells/Luck of the Fey|luck of the fey]]_, _[[rangoric-srd/spells/Suggestion|suggestion]]_.
 

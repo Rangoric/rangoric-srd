@@ -19,6 +19,6 @@ This rare substance appears to be an ordinary, sooty piece of blackish rock. If 
 
 The quicksilver found in the center of the stone may also be put to another use. If mixed with any cure potion while the substance is still potent, it creates a special oil of life that acts as a true resurrection spell for any dead body it is sprinkled upon.
 
-This artifact is not the alchemical [[rangoric-srd/equipment/alchemical-items/Philosopher’s Stone (Alchemy & Herbalists)|philosopher’s stone]], the alchana stone that turns metals into mage-silver and mage-gold.
+This artifact is not the alchemical [[rangoric-srd/equipment/alchemical-items/Philosopher’s Stone (Alchemical Item)|philosopher’s stone]], the alchana stone that turns metals into mage-silver and mage-gold.
 
 Strong transmutation; CL 20th;Weight 3 lb.
