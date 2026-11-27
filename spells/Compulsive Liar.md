@@ -21,7 +21,6 @@ target: "Creature touched"
 duration: "Caster level hour(s)"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Compulsive Liar|Compulsive Liar (PF1 F)]]"
 status: draft

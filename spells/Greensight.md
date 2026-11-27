@@ -17,7 +17,6 @@ target: "Creature touched"
 duration: "10 * caster level minute(s)"
 defense: "Will"
 spell-resistance: "No"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/spells/Greensight (Spell)|Greensight (PF1 F)]]"
 status: draft

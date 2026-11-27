@@ -18,7 +18,6 @@ targets: "Up to one creature/level, no two of which can be more than 30 ft. apar
 duration: "1 minute"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Shared Wrath|Shared Wrath (PF1)]]"
 status: draft

@@ -14,7 +14,6 @@ range: "Close (25 ft. + 5 ft./2 levels)"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "No"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Telekinetic Projectile|Telekinetic Projectile (PF1 Foundry)]]"
 status: draft

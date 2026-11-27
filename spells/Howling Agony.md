@@ -23,7 +23,6 @@ target: "One living creature/level, no two of which can be more than 30 ft. apar
 duration: "1 round/level"
 defense: "Fortitude"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Howling Agony|Howling Agony (PF1)]]"
 status: draft

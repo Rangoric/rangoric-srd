@@ -24,7 +24,6 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 minute/level (D; see text)"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/spells/Ironskin|Ironskin (PF1)]]"
 status: draft

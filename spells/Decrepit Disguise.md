@@ -19,7 +19,6 @@ target: "One object of no more than 10 cu. ft./level"
 duration: "Caster level day(s)"
 defense: "None (object) or Will disbelief (if interacted with)"
 spell-resistance: "No"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Decrepit Disguise|Decrepit Disguise (PF1 F)]]"
 status: draft

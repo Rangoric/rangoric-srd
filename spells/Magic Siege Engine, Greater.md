@@ -20,7 +20,6 @@ target: "One siege engine touched"
 duration: "1 hour/level"
 defense: "Will (harmless, object)"
 spell-resistance: "Yes (harmless, object)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Magic Siege Engine, Greater|Magic Siege Engine, Greater (PF1)]]"
 status: draft

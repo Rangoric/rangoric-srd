@@ -23,7 +23,6 @@ range: "Medium (100 ft. + 10 ft./level)"
 area: "Ten 10-foot cubes/level"
 duration: "24 hour(s)"
 spell-resistance: "No"
-book: "Villain Codex"
 based-on:
   - "[[path srd 3.5 foundry/spells/Escape Alarm|Escape Alarm (PF1 F)]]"
 status: draft

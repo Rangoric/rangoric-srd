@@ -21,7 +21,6 @@ target: "One incorporeal creature"
 duration: "1 round/level"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Ghostbane Dirge|Ghostbane Dirge (PF1)]]"
 status: draft

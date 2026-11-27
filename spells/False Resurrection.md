@@ -20,7 +20,6 @@ range: "Touch"
 target: "Dead creature touched"
 duration: "Caster level day(s)"
 spell-resistance: "Yes"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/False Resurrection|False Resurrection (PF1 F)]]"
 status: draft

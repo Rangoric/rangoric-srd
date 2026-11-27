@@ -15,7 +15,6 @@ effect: "See text"
 duration: "1 round + 1 round/level"
 defense: "Reflex partial"
 spell-resistance: "No"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Stumble Gap|Stumble Gap (PF1)]]"
 status: draft

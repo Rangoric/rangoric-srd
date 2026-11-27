@@ -18,7 +18,6 @@ area: "90-ft.-radius emanation, centered on you"
 duration: "Concentration + 1 round/level"
 defense: "Will partial; see text"
 spell-resistance: "Yes"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Pied Piping|Pied Piping (PF1)]]"
 status: draft

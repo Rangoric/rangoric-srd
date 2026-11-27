@@ -14,7 +14,6 @@ target: "One good creature touched"
 duration: "1 minute/level"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Bestow Grace|Bestow Grace (PF1)]]"
 status: draft

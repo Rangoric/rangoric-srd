@@ -16,7 +16,6 @@ range: "Personal"
 target: "You"
 duration: "1 round/level or until you move"
 spell-resistance: "No"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/spells/Wooden Wing Shield|Wooden Wing Shield (PF1 F)]]"
 status: draft

@@ -17,7 +17,6 @@ target: "One Medium or smaller object"
 duration: "Instantaneous"
 defense: "Fortitude (object)"
 spell-resistance: "Yes (object)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Break|Break (PF1)]]"
 status: draft

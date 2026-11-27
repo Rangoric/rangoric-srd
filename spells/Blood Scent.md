@@ -23,7 +23,6 @@ targets: "One creature/2 levels, no two of which can be more than 30 ft. apart"
 duration: "1 minute/level (D)"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Blood Scent|Blood Scent (PF1)]]"
 status: draft

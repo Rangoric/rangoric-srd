@@ -15,7 +15,6 @@ targets: "Three creatures"
 duration: "Concentration + 1 round"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Id Insinuation III|Id Insinuation III (PF1 Foundry)]]"
 status: draft

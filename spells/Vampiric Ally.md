@@ -14,7 +14,6 @@ target: "Your Familiar"
 duration: "1 round/level"
 defense: "Will (harmless)"
 spell-resistance: "Yes A familiar enchanted with *vampiric ally* becomes a valuable healing asset in combat and an effective weapon against enemies. All of its natural weapons are enhanced with blood drinking properties. Against living creatures, each natural attack that successfully does damage inflicts an additional 1d4 blood drain. Nonliving targets are unaffected."
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Vampiric Ally|Vampiric Ally (Spells & Magic)]]"
 status: draft

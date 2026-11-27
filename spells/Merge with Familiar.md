@@ -14,7 +14,6 @@ target: "Your familiar or spirit animal; see text"
 duration: "Caster level hour(s)"
 defense: "Fortitude"
 spell-resistance: "Yes"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/spells/Merge with Familiar|Merge with Familiar (PF1 F)]]"
 status: draft

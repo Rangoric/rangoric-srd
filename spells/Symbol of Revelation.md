@@ -19,7 +19,6 @@ effect: "One symbol"
 duration: "See text"
 defense: "None"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Symbol Of Revelation|Symbol of Revelation (PF1)]]"
 status: draft

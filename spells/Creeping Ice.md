@@ -19,7 +19,6 @@ effect: "Anchored plane of ice, up to one 10-ft. square/level"
 duration: "10 minutes/level"
 defense: "Reflex (see text)"
 spell-resistance: "Yes"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Creeping Ice|Creeping Ice (PF1)]]"
 status: draft

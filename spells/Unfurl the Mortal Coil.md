@@ -16,7 +16,6 @@ target: "Living creature touched"
 duration: "Instantaneous"
 defense: "Fortitude (see text)"
 spell-resistance: "Yes"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Unfurl the Mortal Coil|Unfurl the Mortal Coil (Faeries)]]"
 status: draft

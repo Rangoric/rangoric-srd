@@ -13,7 +13,6 @@ target: "One ally"
 duration: "Instantaneous"
 defense: "Will negate (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Word Of Resolve|Word of Resolve (PF1)]]"
 status: draft

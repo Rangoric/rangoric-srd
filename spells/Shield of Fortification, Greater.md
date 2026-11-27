@@ -17,7 +17,6 @@ target: "Creature touched"
 duration: "1 minute/level"
 defense: "Fortitude (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Shield Of Fortification, Greater|Shield of Fortification, Greater (PF1)]]"
 status: draft

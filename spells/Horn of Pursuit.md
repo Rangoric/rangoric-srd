@@ -19,7 +19,6 @@ effect: "3 peals of a horn"
 duration: "1 round"
 defense: "None"
 spell-resistance: "No"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Horn Of Pursuit|Horn of Pursuit (PF1)]]"
 status: draft

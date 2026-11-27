@@ -20,7 +20,6 @@ target: "Living creature"
 duration: "See text"
 defense: "Will disbelief, then Fortitude or Will (see text)"
 spell-resistance: "Yes"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Phantasmal Affliction|Phantasmal Affliction (PF1 F)]]"
 status: draft

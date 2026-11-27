@@ -16,7 +16,6 @@ target: "One evil creature"
 duration: "1 minute/level (D)"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Challenge Evil|Challenge Evil (PF1)]]"
 status: draft

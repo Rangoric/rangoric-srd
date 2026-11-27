@@ -18,7 +18,6 @@ target: "One creature"
 duration: "1d4 rounds and instantaneous"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Ice Crystal Teleport|Ice Crystal Teleport (PF1)]]"
 status: draft

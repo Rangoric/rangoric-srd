@@ -20,7 +20,6 @@ target: "Creatures touched"
 duration: "10 min./level"
 defense: "None"
 spell-resistance: "Yes (harmless)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Air Walk, Communal|Air Walk, Communal (PF1)]]"
 status: draft

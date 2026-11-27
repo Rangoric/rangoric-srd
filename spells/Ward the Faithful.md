@@ -14,7 +14,6 @@ area: "10-ft.-radius emanation from touched creature"
 duration: "10 minutes/level"
 defense: "Will (harmless)"
 spell-resistance: "No"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Ward The Faithful|Ward the Faithful (PF1)]]"
 status: draft

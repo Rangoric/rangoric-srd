@@ -13,7 +13,6 @@ target: "One creature"
 duration: "1 round/level"
 defense: "Will partial"
 spell-resistance: "Yes"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Fire Of Judgment|Fire of Judgment (PF1)]]"
 status: draft

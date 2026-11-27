@@ -21,7 +21,6 @@ target: "One willing creature"
 duration: "1 round/level"
 defense: "None and Fortitude (see text)"
 spell-resistance: "No"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Nauseating Trail|Nauseating Trail (PF1)]]"
 status: draft

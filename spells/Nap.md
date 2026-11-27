@@ -21,7 +21,6 @@ target: "You or one creature"
 duration: "1–4 hours (see text)"
 defense: "No or Will"
 spell-resistance: "No or Yes"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Nap|Nap (Faeries)]]"
 status: draft

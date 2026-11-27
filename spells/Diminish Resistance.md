@@ -23,7 +23,6 @@ target: "One creature"
 duration: "Caster level round(s)"
 defense: "Fortitude"
 spell-resistance: "Yes"
-book: "Planar Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Diminish Resistance|Diminish Resistance (PF1 F)]]"
 status: draft

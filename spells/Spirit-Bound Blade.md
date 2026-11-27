@@ -15,7 +15,6 @@ target: "Weapon touched"
 duration: "1 minute/level"
 defense: "Will (harmless, object)"
 spell-resistance: "No"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Spirit-Bound Blade|Spirit-Bound Blade (PF1 Foundry)]]"
 status: draft

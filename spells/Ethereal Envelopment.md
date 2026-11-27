@@ -15,7 +15,6 @@ target: "One creature"
 duration: "1 hour/level (D)"
 defense: "Will, see text"
 spell-resistance: "Yes"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Ethereal Envelopment|Ethereal Envelopment (PF1 Foundry)]]"
 status: draft

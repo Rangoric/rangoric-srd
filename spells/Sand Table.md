@@ -17,7 +17,6 @@ casting-time: "10 minutes"
 range: "SeeText"
 duration: "Caster level hour(s)"
 spell-resistance: "No"
-book: "Villain Codex"
 based-on:
   - "[[path srd 3.5 foundry/spells/Sand Table|Sand Table (PF1 F)]]"
 status: draft

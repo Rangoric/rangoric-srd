@@ -12,7 +12,6 @@ casting-time: "1 immediate action"
 range: "Personal"
 target: "You"
 duration: "Instantaneous; see text"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Borrow Fortune|Borrow Fortune (PF1)]]"
 status: draft

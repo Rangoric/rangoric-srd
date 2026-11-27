@@ -15,7 +15,6 @@ area: "10-ft.-radius burst"
 duration: "Instantaneous"
 defense: "Reflex half (see text)"
 spell-resistance: "Yes"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/spells/Explosion of Rot|Explosion of Rot (PF1 F)]]"
 status: draft

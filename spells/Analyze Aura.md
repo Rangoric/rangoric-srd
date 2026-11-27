@@ -17,7 +17,6 @@ target: "One creature or object"
 duration: "Concentration, up to 1 round/level"
 defense: "None"
 spell-resistance: "No"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Analyze Aura|Analyze Aura (PF1 Foundry)]]"
 status: draft

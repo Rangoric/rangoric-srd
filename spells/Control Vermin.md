@@ -20,7 +20,6 @@ target: "Up to 1 HD/level of vermin, no two of which can be more than 30 ft. apa
 duration: "1 hour/level"
 defense: "Will"
 spell-resistance: "No"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/spells/Control Vermin|Control Vermin (PF1)]]"
 status: draft

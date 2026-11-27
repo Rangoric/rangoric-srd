@@ -18,7 +18,6 @@ target: "144 cu. in./level"
 duration: "1 hr./level"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Faerie’s Gold|Faerie’s Gold (Faeries)]]"
 status: draft

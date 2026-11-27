@@ -16,7 +16,6 @@ target: "Creature touched"
 duration: "1d3 days"
 defense: "Fortitude"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Fungal Infestation|Fungal Infestation (PF1)]]"
 status: draft

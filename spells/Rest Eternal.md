@@ -21,7 +21,6 @@ target: "One dead creature touched"
 duration: "Permanent"
 defense: "None"
 spell-resistance: "No"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Rest Eternal|Rest Eternal (PF1)]]"
 status: draft

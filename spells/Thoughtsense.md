@@ -18,7 +18,6 @@ range: "Personal"
 target: "You"
 duration: "Caster level minute(s)"
 spell-resistance: "No"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Thoughtsense (Spell)|Thoughtsense (PF1 F)]]"
 status: draft

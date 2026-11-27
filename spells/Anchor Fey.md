@@ -14,7 +14,6 @@ effect: "Ray"
 duration: "1 minute/level"
 defense: "None"
 spell-resistance: "Yes (object)"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Anchor Fey|Anchor Fey (Faeries)]]"
 status: draft

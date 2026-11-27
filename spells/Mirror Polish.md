@@ -16,7 +16,6 @@ target: "One metal item of up to 1 sq. ft."
 duration: "Instantaneous"
 defense: "Yes (object)"
 spell-resistance: "Yes (object)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Mirror Polish|Mirror Polish (PF1)]]"
 status: draft

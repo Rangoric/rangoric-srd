@@ -16,7 +16,6 @@ target: "Object touched"
 duration: "1 day/level"
 defense: "None; see text"
 spell-resistance: "No"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Implant False Reading|Implant False Reading (PF1 Foundry)]]"
 status: draft

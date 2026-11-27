@@ -20,7 +20,6 @@ range: "Touch"
 target: "Willing creature touched"
 duration: "Caster level hour(s)"
 spell-resistance: "Yes"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Catatonia (Spell)|Catatonia (PF1 F)]]"
 status: draft

@@ -14,7 +14,6 @@ target: "One creature"
 duration: "1 minute/level (D)"
 defense: "Will (harmless)"
 spell-resistance: "Yes"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Bestow Auras|Bestow Auras (PF1)]]"
 status: draft

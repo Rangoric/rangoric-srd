@@ -19,7 +19,6 @@ target: "One door, window, or similar portal no more than 10 feet by 10 feet in 
 duration: "Caster level round(s)"
 defense: "Will disbelief"
 spell-resistance: "No"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Open and Shut|Open and Shut (PF1 F)]]"
 status: draft

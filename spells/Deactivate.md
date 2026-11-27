@@ -9,7 +9,6 @@ level:
   - "Hun 1"
   - "Skd 1"
   - "Sor/Wiz 1"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Deactivate|Deactivate (Spells & Magic)]]"
 status: draft

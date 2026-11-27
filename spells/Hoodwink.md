@@ -23,7 +23,6 @@ target: "Up to one creature/level, no two of which can be more than 30 ft. apart
 duration: "Caster level hour(s)"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Villain Codex"
 based-on:
   - "[[path srd 3.5 foundry/spells/Hoodwink|Hoodwink (PF1 F)]]"
 status: draft

@@ -12,7 +12,6 @@ target: "You"
 duration: "1 round/level; see text"
 defense: "None"
 spell-resistance: "No"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Thought Shield V|Thought Shield V (PF1 Foundry)]]"
 status: draft

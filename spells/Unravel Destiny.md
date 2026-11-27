@@ -16,7 +16,6 @@ target: "One creature"
 duration: "1 round/level"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Unravel Destiny|Unravel Destiny (PF1)]]"
 status: draft

@@ -17,7 +17,6 @@ range: "Personal"
 target: "You"
 duration: "10 * caster level minute(s)"
 spell-resistance: "No"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Unerring Tracker|Unerring Tracker (PF1 F)]]"
 status: draft

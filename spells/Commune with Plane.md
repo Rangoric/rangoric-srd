@@ -18,7 +18,6 @@ range: "Personal"
 target: "You"
 duration: "Instantaneous"
 spell-resistance: "No"
-book: "Planar Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Commune with Plane|Commune with Plane (PF1 F)]]"
 status: draft

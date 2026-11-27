@@ -16,7 +16,6 @@ target: "One sheathed or slung weapon"
 duration: "1 minute/level"
 defense: "Will (object)"
 spell-resistance: "Yes (object)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Peacebond|Peacebond (PF1)]]"
 status: draft

@@ -25,7 +25,6 @@ target: "Creature touched"
 duration: "8 hour(s)"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Voluminous Vocabulary|Voluminous Vocabulary (PF1 F)]]"
 status: draft

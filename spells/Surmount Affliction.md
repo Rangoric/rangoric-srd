@@ -13,7 +13,6 @@ casting-time: "1 standard action"
 range: "You"
 target: "Personal"
 duration: "1 round/level"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Surmount Affliction|Surmount Affliction (PF1)]]"
 status: draft

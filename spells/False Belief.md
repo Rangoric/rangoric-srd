@@ -19,7 +19,6 @@ range: "Touch"
 target: "Willing creature touched"
 duration: "Caster level hour(s)"
 spell-resistance: "Yes"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/False Belief|False Belief (PF1 F)]]"
 status: draft

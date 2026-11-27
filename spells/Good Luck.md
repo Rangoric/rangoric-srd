@@ -19,7 +19,6 @@ area: "Several ally creatures, no two of which may be more than 25 ft. apart"
 duration: "1 minute/level"
 defense: "None"
 spell-resistance: "Yes (harmless)"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Good Luck|Good Luck (Faeries)]]"
 status: draft

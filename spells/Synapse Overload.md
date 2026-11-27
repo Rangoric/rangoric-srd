@@ -15,7 +15,6 @@ target: "Living creature touched"
 duration: "Instantaneous"
 defense: "Fortitude partial (see text)"
 spell-resistance: "Yes"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Synapse Overload|Synapse Overload (PF1 Foundry)]]"
 status: draft

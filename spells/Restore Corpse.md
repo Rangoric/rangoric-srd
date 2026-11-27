@@ -20,7 +20,6 @@ target: "Corpse touched"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "No"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Restore Corpse|Restore Corpse (PF1)]]"
 status: draft

@@ -15,7 +15,6 @@ targets: "Any number of creatures, no two of which can be more than 180 ft. apar
 duration: "1 round/level (D)"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Mass Displacement|Mass Displacement (Faeries)]]"
 status: draft

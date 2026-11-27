@@ -19,7 +19,6 @@ effect: "30-ft. spread"
 duration: "1 round/level"
 defense: "Fortitude partial"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Polar Midnight|Polar Midnight (PF1)]]"
 status: draft

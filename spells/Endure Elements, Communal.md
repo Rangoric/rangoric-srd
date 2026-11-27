@@ -20,7 +20,6 @@ target: "Creatures touched"
 duration: "24 hours"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Endure Elements, Communal|Endure Elements, Communal (PF1)]]"
 status: draft

@@ -16,7 +16,6 @@ targets: "One willing living creature per three levels, no two of which may be m
 duration: "1 minute/level"
 defense: "None"
 spell-resistance: "No"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Forest Friend|Forest Friend (PF1)]]"
 status: draft

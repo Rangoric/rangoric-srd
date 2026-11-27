@@ -21,7 +21,6 @@ target: "Creature touched"
 duration: "Instantaneous"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Mindlink|Mindlink (PF1 F)]]"
 status: draft

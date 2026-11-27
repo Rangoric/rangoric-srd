@@ -19,7 +19,6 @@ target: "One creature"
 duration: "1 or more rounds (see below)"
 defense: "No, see below"
 spell-resistance: "Yes"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Litany Of Madness|Litany of Madness (PF1)]]"
 status: draft

@@ -17,7 +17,6 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 round/level or until discharged"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Adjuring Step|Adjuring Step (PF1)]]"
 status: draft

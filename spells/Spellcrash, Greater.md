@@ -6,7 +6,6 @@ level:
   - "Clr 8"
   - "Sor/Wiz 8"
   - "Wit 8"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Spellcrash, Greater|Spellcrash, Greater (PF1)]]"
 status: draft

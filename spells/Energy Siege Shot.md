@@ -18,7 +18,6 @@ target: "One Large siege engine"
 duration: "10 minute/level"
 defense: "Fortitude (harmless, object)"
 spell-resistance: "Yes (harmless/object)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Energy Siege Shot|Energy Siege Shot (PF1)]]"
 status: draft

@@ -13,7 +13,6 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "See below"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Polypurpose Panacea|Polypurpose Panacea (PF1)]]"
 status: draft

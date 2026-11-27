@@ -22,7 +22,6 @@ effect: "5-ft.-diameter sphere"
 duration: "1 round/level"
 defense: "Reflex (see text)"
 spell-resistance: "Yes"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Flaming Sphere, Greater|Flaming Sphere, Greater (PF1)]]"
 status: draft

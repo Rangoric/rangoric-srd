@@ -16,7 +16,6 @@ range: "Medium (100 ft. + 10 ft./level)"
 target: "Unattended Gargantuan or smaller object (minimum Tiny) or construct"
 duration: "10 * caster level minute(s)"
 spell-resistance: "No"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Object Possession, Greater|Object Possession, Greater (PF1 F)]]"
 status: draft

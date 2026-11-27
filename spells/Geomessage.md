@@ -20,7 +20,6 @@ range: "Touch"
 target: "Surface touched"
 duration: "Caster level day(s)"
 spell-resistance: "No"
-book: "Villain Codex"
 based-on:
   - "[[path srd 3.5 foundry/spells/Geomessage|Geomessage (PF1 F)]]"
 status: draft

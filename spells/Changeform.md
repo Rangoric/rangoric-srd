@@ -4,7 +4,6 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Sor/Wiz 7"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Changeform|Changeform (Spells & Magic)]]"
 status: draft

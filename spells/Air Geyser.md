@@ -21,7 +21,6 @@ target: "One creature or object up to Large size"
 duration: "Instantaneous"
 defense: "Reflex partial (see text)"
 spell-resistance: "Yes"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Air Geyser|Air Geyser (PF1)]]"
 status: draft

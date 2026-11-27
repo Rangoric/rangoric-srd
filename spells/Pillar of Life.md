@@ -17,7 +17,6 @@ effect: "5-ft.-square pillar of positive energy, 20 ft. high"
 duration: "1 round/level"
 defense: "None"
 spell-resistance: "No"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Pillar Of Life|Pillar of Life (PF1)]]"
 status: draft

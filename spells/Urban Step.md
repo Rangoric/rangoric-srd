@@ -20,7 +20,6 @@ range: "Medium (100 ft. + 10 ft./level)"
 target: "Two doors or other portals in range"
 duration: "1 round(s)"
 spell-resistance: "No"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Urban Step|Urban Step (PF1 F)]]"
 status: draft

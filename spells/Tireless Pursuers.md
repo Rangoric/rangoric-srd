@@ -16,7 +16,6 @@ target: "You plus one touched creature/3 levels"
 duration: "1 hour/level (D)"
 defense: "Fortitude (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Tireless Pursuers|Tireless Pursuers (PF1)]]"
 status: draft

@@ -9,7 +9,6 @@ level:
 casting-time: "1 standard action"
 range: "Long (400 ft. + 40 ft./level)"
 targets: "Up to ten creatures, no two of which can be more than 30 ft. apart"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Superior Magic Missile|Superior Magic Missile (Spells & Magic)]]"
 status: draft

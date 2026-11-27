@@ -16,7 +16,6 @@ area: "20-ft.-radius burst centered on you"
 duration: "Instantaneous"
 defense: "Fortitude partial"
 spell-resistance: "Yes"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Rebuke|Rebuke (PF1)]]"
 status: draft

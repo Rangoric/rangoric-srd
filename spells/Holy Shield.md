@@ -13,7 +13,6 @@ target: "You"
 duration: "10 minutes/level"
 defense: "None"
 spell-resistance: "No"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Holy Shield|Holy Shield (PF1)]]"
 status: draft

@@ -15,7 +15,6 @@ target: "Your eidolon"
 duration: "1 minute/level"
 defense: "Will (harmless)"
 spell-resistance: "No"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Evolution Surge, Greater|Evolution Surge, Greater (PF1)]]"
 status: draft

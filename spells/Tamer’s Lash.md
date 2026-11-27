@@ -20,7 +20,6 @@ effect: "A whip of magical sound"
 duration: "Caster level round(s)"
 defense: "Will partial (see text)"
 spell-resistance: "Yes"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/spells/Tamer's Lash|Tamer’s Lash (PF1 F)]]"
 status: draft

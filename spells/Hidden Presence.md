@@ -22,7 +22,6 @@ target: "Up to one creature per 3 caster levels"
 duration: "Caster level minute(s)"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Hidden Presence (Spell)|Hidden Presence (PF1 F)]]"
 status: draft

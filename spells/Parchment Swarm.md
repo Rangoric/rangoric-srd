@@ -15,7 +15,6 @@ target: "One creature"
 duration: "Instantaneous"
 defense: "Reflex half; see text"
 spell-resistance: "Yes"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Parchment Swarm|Parchment Swarm (PF1 F)]]"
 status: draft

@@ -22,7 +22,6 @@ target: "Creature or object touched"
 duration: "10 * caster level minute(s)"
 defense: "Will and Will disbelief; see text"
 spell-resistance: "No"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Quintessence|Quintessence (PF1 F)]]"
 status: draft

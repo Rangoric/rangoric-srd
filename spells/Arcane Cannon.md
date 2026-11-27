@@ -14,7 +14,6 @@ effect: "One magically animated cannon"
 duration: "1 round/level"
 defense: "None"
 spell-resistance: "No"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Arcane Cannon|Arcane Cannon (PF1)]]"
 status: draft

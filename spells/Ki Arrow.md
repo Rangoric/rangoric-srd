@@ -16,7 +16,6 @@ target: "1 arrow touched"
 duration: "Instantaneous"
 defense: "Fortitude (object)"
 spell-resistance: "Yes (object)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Ki Arrow|Ki Arrow (PF1)]]"
 status: draft

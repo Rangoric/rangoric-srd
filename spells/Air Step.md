@@ -23,7 +23,6 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 minute/level"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Air Step|Air Step (PF1)]]"
 status: draft

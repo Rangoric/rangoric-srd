@@ -13,7 +13,6 @@ casting-time: "1 swift action"
 range: "Personal"
 target: "You"
 duration: "1 round/level (D)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Ride The Lightning|Ride the Lightning (PF1)]]"
 status: draft

@@ -22,7 +22,6 @@ range: "Personal"
 effect: "One-handed improvised weapon"
 duration: "Caster level minute(s)"
 spell-resistance: "No"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Desperate Weapon|Desperate Weapon (PF1 F)]]"
 status: draft

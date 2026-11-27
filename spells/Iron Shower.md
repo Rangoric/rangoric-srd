@@ -17,7 +17,6 @@ effect: "Cylinder (20 ft. radius, 20 ft. tall)"
 duration: "Instantaneous"
 defense: "Reflex half"
 spell-resistance: "Yes"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Iron Shower|Iron Shower (Faeries)]]"
 status: draft

@@ -22,7 +22,6 @@ target: "Creatures touched"
 duration: "10 min./level or until discharged"
 defense: "Fortitude (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Protection From Energy, Communal|Protection from Energy, Communal (PF1)]]"
 status: draft

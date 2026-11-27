@@ -20,7 +20,6 @@ effect: "Fog spreads in 20-ft. radius"
 duration: "1 round/level"
 defense: "None"
 spell-resistance: "No"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Twilight Haze|Twilight Haze (PF1)]]"
 status: draft

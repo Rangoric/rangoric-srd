@@ -23,7 +23,6 @@ target: "One object"
 duration: "See text"
 defense: "None"
 spell-resistance: "Yes (object)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Pilfering Hand|Pilfering Hand (PF1)]]"
 status: draft

@@ -20,7 +20,6 @@ target: "One creature/4 levels"
 duration: "1 round/level or until discharged"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Hostile Juxtaposition, Greater|Hostile Juxtaposition, Greater (PF1)]]"
 status: draft

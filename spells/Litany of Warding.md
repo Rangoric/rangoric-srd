@@ -14,7 +14,6 @@ casting-time: "1 swift action"
 range: "Personal"
 target: "You"
 duration: "1 round"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Litany Of Warding|Litany of Warding (PF1)]]"
 status: draft

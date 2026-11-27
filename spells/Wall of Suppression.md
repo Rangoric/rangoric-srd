@@ -15,7 +15,6 @@ effect: "Anti-magic wall occupying up to two 5 ft. cubes/level (S)"
 duration: "10 minutes/level; see text"
 defense: "None"
 spell-resistance: "No"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Wall Of Suppression|Wall of Suppression (PF1)]]"
 status: draft

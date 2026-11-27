@@ -20,7 +20,6 @@ target: "One living creature"
 duration: "Instantaneous"
 defense: "Fortitude"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Contagion, Greater|Contagion, Greater (PF1)]]"
 status: draft

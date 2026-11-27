@@ -17,7 +17,6 @@ effect: "Bow or bridge of light"
 duration: "1 minute/level or until discharged (see text)"
 defense: "None"
 spell-resistance: "No"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Blazing Rainbow|Blazing Rainbow (PF1)]]"
 status: draft

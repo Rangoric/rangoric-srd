@@ -4,7 +4,6 @@ section: "Spells"
 school: "Necromancy"
 level:
   - "Clr 5"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Infected Wound|Infected Wound (Spells & Magic)]]"
 status: draft

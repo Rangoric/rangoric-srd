@@ -9,7 +9,6 @@ level:
 components:
   - "V"
   - "F"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Wizard’s Light|Wizard’s Light (Spells & Magic)]]"
 status: draft

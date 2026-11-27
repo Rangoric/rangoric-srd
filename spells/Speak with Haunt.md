@@ -21,7 +21,6 @@ target: "One haunt"
 duration: "1 minute/level"
 defense: "Will (see text)"
 spell-resistance: "No"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Speak With Haunt|Speak with Haunt (PF1)]]"
 status: draft

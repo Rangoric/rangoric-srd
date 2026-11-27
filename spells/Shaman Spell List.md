@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Spells"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/classes/Shaman (Class)#Shaman Spells|Shaman (PF1)]]"
 status: draft

@@ -15,7 +15,6 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "10 minutes/level"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Phantom Blood|Phantom Blood (PF1)]]"
 status: draft

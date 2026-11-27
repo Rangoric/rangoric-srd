@@ -17,7 +17,6 @@ effect: "One quasi-real chariot and draft team"
 duration: "1 hour/level (D)"
 defense: "None"
 spell-resistance: "No"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Phantom Chariot|Phantom Chariot (PF1)]]"
 status: draft

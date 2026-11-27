@@ -16,7 +16,6 @@ range: "Personal"
 target: "You"
 duration: "1 hour/level or until discharged"
 spell-resistance: "No"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Swallow Poison|Swallow Poison (PF1 F)]]"
 status: draft

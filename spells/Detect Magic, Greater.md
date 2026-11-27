@@ -27,7 +27,6 @@ range: "60 ft."
 area: "Cone-shaped emanation"
 duration: "Concentration, up to 1 minute/level"
 spell-resistance: "No"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Detect Magic, Greater|Detect Magic, Greater (PF1 F)]]"
 status: draft

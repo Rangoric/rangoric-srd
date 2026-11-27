@@ -20,7 +20,6 @@ target: "Living creature touched"
 duration: "1 minute/level"
 defense: "Fortitude"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Interrogation|Interrogation (PF1)]]"
 status: draft

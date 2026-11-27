@@ -19,7 +19,6 @@ target: "Severed head touched"
 duration: "Permanent (D); see text"
 defense: "None"
 spell-resistance: "No"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Sentry Skull|Sentry Skull (PF1)]]"
 status: draft

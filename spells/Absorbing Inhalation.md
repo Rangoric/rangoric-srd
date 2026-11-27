@@ -19,7 +19,6 @@ target: "One cloud-like effect, up to one 10-ft. cube/level"
 duration: "1 round/level; see text"
 defense: "See text"
 spell-resistance: "No"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Absorbing Inhalation|Absorbing Inhalation (PF1)]]"
 status: draft

@@ -21,7 +21,6 @@ area: "Cylinder (40-ft. radius, 20 ft. high)"
 duration: "1 round/level"
 defense: "None"
 spell-resistance: "No"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Ash Storm|Ash Storm (PF1)]]"
 status: draft

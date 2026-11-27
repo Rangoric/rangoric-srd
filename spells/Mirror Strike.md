@@ -15,7 +15,6 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "See text"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Mirror Strike|Mirror Strike (PF1)]]"
 status: draft

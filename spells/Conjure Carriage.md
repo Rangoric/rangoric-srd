@@ -20,7 +20,6 @@ range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "One quasi-real carriage, horses, and driver"
 duration: "Caster level hour(s)"
 spell-resistance: "No"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Conjure Carriage|Conjure Carriage (PF1 F)]]"
 status: draft

@@ -18,7 +18,6 @@ target: "Up to 50 pieces of ammunition, all of which must be together at the tim
 duration: "10 minutes/level"
 defense: "Fortitude (harmless, object)"
 spell-resistance: "Yes (harmless, object)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Daybreak Arrow|Daybreak Arrow (PF1)]]"
 status: draft

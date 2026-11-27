@@ -18,7 +18,6 @@ target: "One creature or haunt"
 duration: "Instantaneous"
 defense: "Will partial"
 spell-resistance: "Yes"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Purge Spirit|Purge Spirit (PF1 F)]]"
 status: draft

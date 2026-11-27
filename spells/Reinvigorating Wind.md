@@ -23,7 +23,6 @@ area: "Cone-shaped burst"
 duration: "Instantaneous"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Villain Codex"
 based-on:
   - "[[path srd 3.5 foundry/spells/Reinvigorating Wind|Reinvigorating Wind (PF1 F)]]"
 status: draft

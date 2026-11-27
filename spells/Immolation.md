@@ -5,7 +5,6 @@ school: "Transmutation"
 level:
   - "Sor/Wiz 6"
 area: "a cylinder 10 ft. high and 15 ft. diameter centered on the caster"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Immolation|Immolation (Spells & Magic)]]"
 status: draft

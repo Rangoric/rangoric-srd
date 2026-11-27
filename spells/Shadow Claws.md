@@ -21,7 +21,6 @@ range: "Personal"
 target: "You"
 duration: "Caster level minute(s)"
 spell-resistance: "No"
-book: "Villain Codex"
 based-on:
   - "[[path srd 3.5 foundry/spells/Shadow Claws|Shadow Claws (PF1 F)]]"
 status: draft

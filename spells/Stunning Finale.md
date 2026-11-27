@@ -17,7 +17,6 @@ targets: "Up to 3 creatures, no two of which can be more than 30 ft. apart"
 duration: "1 round"
 defense: "Fortitude partial; see text"
 spell-resistance: "Yes"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Stunning Finale|Stunning Finale (PF1)]]"
 status: draft

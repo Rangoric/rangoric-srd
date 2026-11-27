@@ -5,7 +5,6 @@ school: "Abjuration"
 level:
   - "Sor/Wiz 5"
 duration: "3 rounds/level (D)"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Greater Powershell|Greater Powershell (Spells & Magic)]]"
 status: draft

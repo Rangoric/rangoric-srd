@@ -14,7 +14,6 @@ target: "One skull"
 duration: "Permanent until discharged"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Cackling Skull|Cackling Skull (PF1)]]"
 status: draft

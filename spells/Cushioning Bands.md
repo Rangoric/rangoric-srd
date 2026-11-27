@@ -19,7 +19,6 @@ target: "Creature touched"
 duration: "1 hour/level or until discharged (D)"
 defense: "Will (harmless)"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Cushioning Bands|Cushioning Bands (PF1)]]"
 status: draft

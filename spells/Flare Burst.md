@@ -22,7 +22,6 @@ effect: "10-ft.-radius burst of light"
 duration: "Instantaneous"
 defense: "Fortitude"
 spell-resistance: "Yes"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Flare Burst|Flare Burst (PF1)]]"
 status: draft

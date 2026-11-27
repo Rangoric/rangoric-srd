@@ -16,7 +16,6 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "You"
 duration: "1 round/level"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Nereid's Grace|Nereid’s Grace (PF1)]]"
 status: draft

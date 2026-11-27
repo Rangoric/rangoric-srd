@@ -17,7 +17,6 @@ area: "1 creature/level"
 duration: "1 minute/level"
 defense: "None (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Blessing Of The Mole|Blessing of the Mole (PF1)]]"
 status: draft

@@ -24,7 +24,6 @@ area: "5-ft.-radius emanation centered on you"
 duration: "1 round/level (D)"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Cloak Of Dreams|Cloak of Dreams (PF1)]]"
 status: draft

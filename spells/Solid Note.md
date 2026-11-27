@@ -14,7 +14,6 @@ effect: "One solidified musical note"
 duration: "Concentration + 1 round/level"
 defense: "None"
 spell-resistance: "No"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Solid Note|Solid Note (PF1)]]"
 status: draft

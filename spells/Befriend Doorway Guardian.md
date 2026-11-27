@@ -17,7 +17,6 @@ target: "One creature"
 duration: "1 hour/level"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Befriend Doorway Guardian|Befriend Doorway Guardian (Faeries)]]"
 status: draft

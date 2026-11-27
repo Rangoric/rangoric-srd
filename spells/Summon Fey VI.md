@@ -22,7 +22,6 @@ effect: "One or more summoned creatures, no two of which can be more than 30 ft.
 duration: "1 round/level (D)"
 defense: "None"
 spell-resistance: "No"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Summon Fey VI|Summon Fey VI (Faeries)]]"
 status: draft

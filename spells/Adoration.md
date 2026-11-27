@@ -18,7 +18,6 @@ target: "One creature"
 duration: "1 minute/level"
 defense: "Will (harmless)"
 spell-resistance: "Yes"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Adoration|Adoration (PF1)]]"
 status: draft

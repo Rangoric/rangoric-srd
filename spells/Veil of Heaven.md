@@ -16,7 +16,6 @@ target: "You or all creatures within 5 ft.; see text"
 duration: "10 minutes/level (D)"
 defense: "Will half"
 spell-resistance: "None"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Veil Of Heaven|Veil of Heaven (PF1)]]"
 status: draft

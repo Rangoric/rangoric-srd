@@ -18,7 +18,6 @@ target: "One willing creature"
 duration: "Instantaneous"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Telekinetic Charge|Telekinetic Charge (PF1)]]"
 status: draft

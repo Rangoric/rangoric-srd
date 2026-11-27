@@ -19,7 +19,6 @@ area: "30-ft.-radius emanation centered on you"
 duration: "1 round/level"
 defense: "None and Reflex partial (see text)"
 spell-resistance: "No and yes (see text)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Unbearable Brightness|Unbearable Brightness (PF1)]]"
 status: draft

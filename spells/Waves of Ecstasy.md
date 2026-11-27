@@ -23,7 +23,6 @@ area: "Cone-shaped burst"
 duration: "1 round/level; see text"
 defense: "Will partial (see text)"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Waves Of Ecstasy|Waves of Ecstasy (PF1)]]"
 status: draft

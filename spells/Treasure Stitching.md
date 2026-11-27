@@ -18,7 +18,6 @@ targets: "All objects on cloth"
 duration: "1 day/level (D)"
 defense: "Fortitude (object)"
 spell-resistance: "Yes (object)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Treasure Stitching|Treasure Stitching (PF1)]]"
 status: draft

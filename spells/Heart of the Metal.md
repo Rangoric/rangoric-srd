@@ -19,7 +19,6 @@ targets: "One weapon per level"
 duration: "1 minute/level (see text)"
 defense: "None"
 spell-resistance: "No"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Heart Of The Metal|Heart of the Metal (PF1)]]"
 status: draft

@@ -20,7 +20,6 @@ target: "Creature touched"
 duration: "1 round/level"
 defense: "Fortitude partial"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Excruciating Deformation|Excruciating Deformation (PF1)]]"
 status: draft

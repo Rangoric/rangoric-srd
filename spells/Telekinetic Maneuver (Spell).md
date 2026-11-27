@@ -17,7 +17,6 @@ range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "Concentration (up to 1 round/level)"
 spell-resistance: "Yes"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Telekinetic Maneuver|Telekinetic Maneuver (PF1 F)]]"
 status: draft

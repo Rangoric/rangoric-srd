@@ -20,7 +20,6 @@ range: "Close (25 ft. + 5 ft./2 levels)"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "No"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Diagnose Disease|Diagnose Disease (PF1)]]"
 status: draft

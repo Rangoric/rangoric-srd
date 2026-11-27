@@ -15,7 +15,6 @@ target: "You"
 duration: "1 hour/level"
 defense: "None"
 spell-resistance: "No"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Touch Injection|Touch Injection (PF1)]]"
 status: draft

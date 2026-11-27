@@ -19,7 +19,6 @@ target: "One humanoid creature"
 duration: "5 minute/level (maximum 1 hour)"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Mad Hallucination|Mad Hallucination (PF1)]]"
 status: draft

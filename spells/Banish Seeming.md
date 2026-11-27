@@ -16,7 +16,6 @@ target: "One creature or object"
 duration: "Instantaneous and 1 round/level; see text"
 defense: "None"
 spell-resistance: "No"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Banish Seeming|Banish Seeming (PF1)]]"
 status: draft

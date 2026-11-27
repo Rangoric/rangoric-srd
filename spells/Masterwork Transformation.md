@@ -21,7 +21,6 @@ target: "One weapon, suit of armor, shield, tool, or skill kit touched"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "No"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Masterwork Transformation|Masterwork Transformation (PF1)]]"
 status: draft

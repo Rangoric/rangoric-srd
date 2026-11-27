@@ -18,7 +18,6 @@ target: "Construct touched"
 duration: "Permanent until discharged"
 defense: "None"
 spell-resistance: "No"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Call Construct|Call Construct (PF1)]]"
 status: draft

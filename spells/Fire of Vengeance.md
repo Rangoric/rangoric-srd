@@ -15,7 +15,6 @@ target: "One creature"
 duration: "See text"
 defense: "None"
 spell-resistance: "No"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Fire Of Vengeance|Fire of Vengeance (PF1)]]"
 status: draft

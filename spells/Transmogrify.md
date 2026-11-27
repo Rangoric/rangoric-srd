@@ -15,7 +15,6 @@ target: "Your eidolon"
 duration: "Instantaneous"
 defense: "Will (harmless)"
 spell-resistance: "No"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Transmogrify|Transmogrify (PF1)]]"
 status: draft

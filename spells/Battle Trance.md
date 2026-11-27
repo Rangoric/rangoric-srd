@@ -23,7 +23,6 @@ target: "You"
 duration: "1 minute/level"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Battle Trance|Battle Trance (PF1)]]"
 status: draft

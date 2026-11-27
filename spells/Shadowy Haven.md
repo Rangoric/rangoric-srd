@@ -15,7 +15,6 @@ target: "One 5-foot square of floor touched"
 duration: "2 hours/level (D)"
 defense: "None"
 spell-resistance: "No"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Shadowy Haven|Shadowy Haven (PF1)]]"
 status: draft

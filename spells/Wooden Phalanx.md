@@ -15,7 +15,6 @@ effect: "Three or more wood golems, no two of which can be more than 30 ft. apar
 duration: "1 hour/level (D)"
 defense: "None"
 spell-resistance: "No"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Wooden Phalanx|Wooden Phalanx (PF1)]]"
 status: draft

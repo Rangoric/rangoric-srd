@@ -15,7 +15,6 @@ target: "Firearm or alchemical item touched"
 duration: "1 minute/level"
 defense: "Fortitude (object)"
 spell-resistance: "Yes"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Alchemical Tinkering|Alchemical Tinkering (PF1)]]"
 status: draft

@@ -19,7 +19,6 @@ target: "Touched creature or object"
 duration: "10 minutes/level or instantaneous (see text)"
 defense: "None"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Sands Of Time|Sands of Time (PF1)]]"
 status: draft

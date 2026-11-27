@@ -20,7 +20,6 @@ effect: "Up to six mounts"
 duration: "2 hours/level (D)"
 defense: "None"
 spell-resistance: "No"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Mount, Communal|Mount, Communal (PF1)]]"
 status: draft

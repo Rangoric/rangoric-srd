@@ -13,7 +13,6 @@ area: "30-ft.-radius emanation centered on you"
 duration: "24 hours"
 defense: "None"
 spell-resistance: "No"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Sense Spirit Magic|Sense Spirit Magic (PF1)]]"
 status: draft

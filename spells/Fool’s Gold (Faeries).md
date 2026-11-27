@@ -18,7 +18,6 @@ target: "One creature"
 duration: "1 hr./level"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Fools’ Gold|Fools’ Gold (Faeries)]]"
 status: draft

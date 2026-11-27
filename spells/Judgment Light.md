@@ -13,7 +13,6 @@ casting-time: "1 standard action"
 range: "Personal"
 area: "30-ft.-radius burst"
 duration: "Instantaneous, see text"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Judgment Light|Judgment Light (PF1)]]"
 status: draft

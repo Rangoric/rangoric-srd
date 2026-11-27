@@ -16,7 +16,6 @@ target: "One creature"
 duration: "Instantaneous"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Spellcrash, Lesser|Spellcrash, Lesser (PF1)]]"
 status: draft

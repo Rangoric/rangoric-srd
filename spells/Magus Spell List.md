@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Spells"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/classes/Magus#Class Features|Magus (PF1)]]"
 status: draft

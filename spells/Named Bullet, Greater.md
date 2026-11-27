@@ -20,7 +20,6 @@ target: "One piece of ammunition or one thrown weapon"
 duration: "10 minutes/level or until discharged"
 defense: "Will (harmless, object)"
 spell-resistance: "Yes (harmless, object)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Named Bullet, Greater|Named Bullet, Greater (PF1)]]"
 status: draft

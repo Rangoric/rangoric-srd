@@ -13,7 +13,6 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 round/level"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Step Sideways|Step Sideways (Faeries)]]"
 status: draft

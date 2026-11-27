@@ -18,7 +18,6 @@ target: "Living creature touched"
 duration: "1 round/level"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Dreamspeak|Dreamspeak (Faeries)]]"
 status: draft

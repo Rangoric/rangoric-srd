@@ -20,7 +20,6 @@ target: "You"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "No"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Remote Viewing (Spell)|Remote Viewing (PF1 Foundry)]]"
 status: draft

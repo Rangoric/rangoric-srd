@@ -16,7 +16,6 @@ targets: "You plus one additional willing creature touched per two caster levels
 duration: "See text"
 defense: "None"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Astral Projection, Lesser|Astral Projection, Lesser (PF1)]]"
 status: draft

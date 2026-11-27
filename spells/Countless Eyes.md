@@ -19,7 +19,6 @@ target: "Creature touched"
 duration: "1 hour/level"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Countless Eyes|Countless Eyes (PF1)]]"
 status: draft

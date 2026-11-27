@@ -17,7 +17,6 @@ range: "Touch"
 target: "Trap touched"
 duration: "Caster level day(s)"
 spell-resistance: "No"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Undetectable Trap|Undetectable Trap (PF1 F)]]"
 status: draft

@@ -17,7 +17,6 @@ target: "One creature (see text)"
 duration: "1 minute/level"
 defense: "Fortitude (see text)"
 spell-resistance: "Yes"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Stench Of Prey|Stench of Prey (PF1)]]"
 status: draft

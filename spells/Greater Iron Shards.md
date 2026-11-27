@@ -19,7 +19,6 @@ effect: "Ray of needle-like shards of iron"
 duration: "1 round/level"
 defense: "None"
 spell-resistance: "Yes"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Greater Iron Shards|Greater Iron Shards (Faeries)]]"
 status: draft

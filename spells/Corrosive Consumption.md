@@ -17,7 +17,6 @@ target: "Creature touched"
 duration: "3 rounds"
 defense: "None"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Corrosive Consumption|Corrosive Consumption (PF1)]]"
 status: draft

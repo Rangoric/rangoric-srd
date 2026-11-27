@@ -19,7 +19,6 @@ casting-time: "1 full-round action"
 range: "Personal"
 target: "You"
 duration: "10 minutes/level (D)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Whispering Lore|Whispering Lore (PF1)]]"
 status: draft

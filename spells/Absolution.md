@@ -15,7 +15,6 @@ range: "Touch"
 target: "Living creature touched"
 duration: "Instantaneous"
 spell-resistance: "No"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Absolution|Absolution (PF1 F)]]"
 status: draft

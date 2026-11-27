@@ -16,7 +16,6 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 round/level (D)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Haunted Fey Aspect|Haunted Fey Aspect (PF1)]]"
 status: draft

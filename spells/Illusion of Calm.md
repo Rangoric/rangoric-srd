@@ -19,7 +19,6 @@ target: "You"
 duration: "1 minute/level"
 defense: "Will disbelieve (on hit; see below)"
 spell-resistance: "No"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Illusion Of Calm|Illusion of Calm (PF1)]]"
 status: draft

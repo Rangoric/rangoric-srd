@@ -17,7 +17,6 @@ target: "Living creature touched"
 duration: "1 round per level"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Unchained Melody|Unchained Melody (Spells & Magic)]]"
 status: draft

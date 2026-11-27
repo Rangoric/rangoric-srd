@@ -18,7 +18,6 @@ targets: "One creature/level, no two of which can be more than 30 ft. apart"
 duration: "1 hour/level (D)"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Planar Adaptation, Mass|Planar Adaptation, Mass (PF1)]]"
 status: draft

@@ -15,7 +15,6 @@ target: "One Huge or larger tree"
 duration: "1 round/level (D)"
 defense: "None"
 spell-resistance: "No"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Arboreal Hammer|Arboreal Hammer (PF1)]]"
 status: draft

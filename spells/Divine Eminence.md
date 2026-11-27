@@ -13,7 +13,6 @@ target: "Creature touched"
 duration: "1 round/level"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Divine Eminence|Divine Eminence (Spells & Magic)]]"
 status: draft

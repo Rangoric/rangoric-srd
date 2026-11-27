@@ -18,7 +18,6 @@ target: "One melee weapon"
 duration: "1 round/level (see text)"
 defense: "Fortitude (object)"
 spell-resistance: "Yes (object)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Sun Metal|Sun Metal (PF1)]]"
 status: draft

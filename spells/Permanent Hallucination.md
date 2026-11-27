@@ -16,7 +16,6 @@ target: "One creature"
 duration: "Permanent"
 defense: "Will disbelief"
 spell-resistance: "Yes"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Permanent Hallucination|Permanent Hallucination (PF1 F)]]"
 status: draft

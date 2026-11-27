@@ -17,7 +17,6 @@ area: "40-ft.-radius spread"
 duration: "Caster level round(s)"
 defense: "Reflex or partial (see text)"
 spell-resistance: "No"
-book: "Villain Codex"
 based-on:
   - "[[path srd 3.5 foundry/spells/Burning Entanglement|Burning Entanglement (PF1 F)]]"
 status: draft

@@ -19,7 +19,6 @@ range: "Medium (100 ft. + 10 ft./level)"
 area: "Dust, earth, sand, or water in one 5-ft. square/level"
 duration: "Caster level round(s)"
 spell-resistance: "No"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/spells/Soothing Mud|Soothing Mud (PF1 F)]]"
 status: draft

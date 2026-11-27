@@ -16,7 +16,6 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "One living creature touched"
 duration: "1 minute/level (D), special see below"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Blessing Of Luck And Resolve|Blessing of Luck and Resolve (PF1)]]"
 status: draft

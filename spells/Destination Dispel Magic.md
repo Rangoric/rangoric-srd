@@ -11,7 +11,6 @@ components:
 casting-time: "See text"
 range: "Personal"
 duration: "See text"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Destination Dispel Magic|Destination Dispel Magic (Spells & Magic)]]"
 status: draft

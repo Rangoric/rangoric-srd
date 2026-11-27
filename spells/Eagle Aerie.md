@@ -20,7 +20,6 @@ effect: "Summoned eagles"
 duration: "1 hour/level"
 defense: "None"
 spell-resistance: "No"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Eagle Aerie|Eagle Aerie (PF1)]]"
 status: draft

@@ -21,7 +21,6 @@ target: "You"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "No"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Shadow Step|Shadow Step (PF1)]]"
 status: draft

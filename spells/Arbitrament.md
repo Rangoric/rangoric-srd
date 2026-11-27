@@ -15,7 +15,6 @@ target: "Non-neutral creatures in a 40-ft.-radius spread centered on you"
 duration: "Instantaneous"
 defense: "Will partial, see text"
 spell-resistance: "Yes"
-book: "Planar Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Arbitrament|Arbitrament (PF1 F)]]"
 status: draft

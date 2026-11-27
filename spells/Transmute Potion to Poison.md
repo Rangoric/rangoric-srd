@@ -13,7 +13,6 @@ range: "Personal"
 target: "You"
 effect: "1d4 Con damage"
 duration: "1 round then 1 minute/level; see text"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Transmute Potion To Poison|Transmute Potion to Poison (PF1)]]"
 status: draft

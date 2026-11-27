@@ -20,7 +20,6 @@ target: "One object or one 5-ft. square"
 duration: "1 minute/level (D)"
 defense: "See text"
 spell-resistance: "No"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Glue Seal|Glue Seal (PF1)]]"
 status: draft

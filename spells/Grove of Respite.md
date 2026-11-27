@@ -19,7 +19,6 @@ effect: "20-ft.-radius grove"
 duration: "2 hours/level (D)"
 defense: "None"
 spell-resistance: "No"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Grove Of Respite|Grove of Respite (PF1)]]"
 status: draft

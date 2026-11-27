@@ -19,7 +19,6 @@ range: "Close (25 ft. + 5 ft./2 levels)"
 target: "You plus one willing creature per 2 levels, no two of which can be more than 30 ft. apart"
 duration: "10 * caster level minute(s)"
 spell-resistance: "No"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Codespeak|Codespeak (PF1 F)]]"
 status: draft

@@ -19,7 +19,6 @@ target: "Willing drow touched"
 duration: "24 hours (D)"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Ancestral Regression|Ancestral Regression (PF1)]]"
 status: draft

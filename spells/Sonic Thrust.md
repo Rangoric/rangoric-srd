@@ -18,7 +18,6 @@ target: "See text"
 duration: "Instantaneous"
 defense: "Will (object) or none (see text)"
 spell-resistance: "Yes (object) (see text)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Sonic Thrust|Sonic Thrust (PF1)]]"
 status: draft

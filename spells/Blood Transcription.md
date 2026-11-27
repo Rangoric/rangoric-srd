@@ -18,7 +18,6 @@ target: "One dead spellcaster"
 duration: "24 hours"
 defense: "None"
 spell-resistance: "No"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Blood Transcription|Blood Transcription (PF1)]]"
 status: draft

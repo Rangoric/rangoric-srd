@@ -15,7 +15,6 @@ target: "Creature touched"
 duration: "24 hours"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Poetic License|Poetic License (Spells & Magic)]]"
 status: draft

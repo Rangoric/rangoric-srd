@@ -19,7 +19,6 @@ area: "One 5-ft. square/level (S); the area must be a stone surface"
 duration: "1 day/level or until triggered"
 defense: "Reflex half (see below)"
 spell-resistance: "No"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/spells/Cave Fangs|Cave Fangs (PF1 F)]]"
 status: draft

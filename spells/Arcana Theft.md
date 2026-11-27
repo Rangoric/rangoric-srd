@@ -14,7 +14,6 @@ target: "Creature touched"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Arcana Theft|Arcana Theft (PF1)]]"
 status: draft

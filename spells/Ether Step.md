@@ -14,7 +14,6 @@ range: "Personal"
 target: "You"
 duration: "See text"
 spell-resistance: "No"
-book: "Planar Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Ether Step|Ether Step (PF1 F)]]"
 status: draft

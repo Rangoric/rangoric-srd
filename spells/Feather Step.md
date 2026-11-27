@@ -18,7 +18,6 @@ target: "One creature"
 duration: "10 minutes/level"
 defense: "Fortitude (harmless)"
 spell-resistance: "Yes"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Feather Step|Feather Step (PF1)]]"
 status: draft

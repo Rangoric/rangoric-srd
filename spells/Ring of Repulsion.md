@@ -14,7 +14,6 @@ area: "Burst, 100 ft. + 10 ft./level radius"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "Yes"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Ring of Repulsion|Ring of Repulsion (Spells & Magic)]]"
 status: draft

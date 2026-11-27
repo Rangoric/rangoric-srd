@@ -14,7 +14,6 @@ range: "Personal"
 duration: "1 round/level"
 defense: "Fortitude partial"
 spell-resistance: "No"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Echannon’s Soul Dagger|Echannon’s Soul Dagger (Spells & Magic)]]"
 status: draft

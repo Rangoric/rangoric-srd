@@ -16,7 +16,6 @@ target: "You and up to 1 willing creature/2 caster levels, no two of which can b
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "No"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Bard's Escape|Bard’s Escape (PF1)]]"
 status: draft

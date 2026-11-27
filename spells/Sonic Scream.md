@@ -20,7 +20,6 @@ area: "Cone-shaped burst"
 duration: "1 round/level or until discharged (see text)"
 defense: "Reflex half (see text)"
 spell-resistance: "Yes"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Sonic Scream|Sonic Scream (PF1)]]"
 status: draft

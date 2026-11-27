@@ -17,7 +17,6 @@ targets: "One Medium or smaller object or creature/level, no two of which can be
 duration: "Up to 1 round/level (see text)"
 defense: "Will (harmless) or Will (object)"
 spell-resistance: "Yes (object)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Buoyancy|Buoyancy (PF1)]]"
 status: draft

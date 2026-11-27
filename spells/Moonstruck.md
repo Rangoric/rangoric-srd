@@ -23,7 +23,6 @@ target: "One humanoid creature"
 duration: "1 round/level"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Moonstruck|Moonstruck (PF1)]]"
 status: draft

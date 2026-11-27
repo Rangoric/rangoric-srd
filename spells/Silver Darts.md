@@ -18,7 +18,6 @@ area: "Cone-shaped burst"
 duration: "Instantaneous"
 defense: "Reflex half"
 spell-resistance: "Yes"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Silver Darts|Silver Darts (PF1)]]"
 status: draft

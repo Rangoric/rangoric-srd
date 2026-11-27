@@ -23,7 +23,6 @@ target: "Living creature touched"
 duration: "Instantaneous"
 defense: "Fortitude"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Touch Of Slime|Touch of Slime (PF1)]]"
 status: draft

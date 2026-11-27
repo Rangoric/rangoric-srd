@@ -15,7 +15,6 @@ target: "Construct touched"
 duration: "1 round/level (D)"
 defense: "Will"
 spell-resistance: "No"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Disable Construct|Disable Construct (PF1)]]"
 status: draft

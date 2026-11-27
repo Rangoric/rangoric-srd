@@ -17,7 +17,6 @@ target: "Willing living creature touched"
 duration: "10 * caster level minute(s)"
 defense: "Fortitude"
 spell-resistance: "Yes"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/spells/Shapechanger's Gift|Shapechanger’s Gift (PF1 F)]]"
 status: draft

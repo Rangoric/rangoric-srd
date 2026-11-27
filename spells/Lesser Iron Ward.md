@@ -14,7 +14,6 @@ target: "Creature touched"
 duration: "1 round/level"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Lesser Iron Ward|Lesser Iron Ward (Faeries)]]"
 status: draft

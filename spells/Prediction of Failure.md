@@ -20,7 +20,6 @@ target: "One creature"
 duration: "Permanent or 1 round/level (see text)"
 defense: "Will partial"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Prediction Of Failure|Prediction of Failure (PF1)]]"
 status: draft

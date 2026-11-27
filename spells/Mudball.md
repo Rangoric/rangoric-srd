@@ -20,7 +20,6 @@ effect: "Single fist-sized blob of sticky mud"
 duration: "Instantaneous"
 defense: "Reflex; see text"
 spell-resistance: "No"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Mudball|Mudball (PF1)]]"
 status: draft

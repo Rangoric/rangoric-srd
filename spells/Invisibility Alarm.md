@@ -12,7 +12,6 @@ level:
   - "Skd 1"
   - "Sor/Wiz 1"
 duration: "10 minutes/level"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Invisibility Alarm|Invisibility Alarm (PF1)]]"
 status: draft

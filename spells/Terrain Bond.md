@@ -16,7 +16,6 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 hour/2 levels (D)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Terrain Bond|Terrain Bond (PF1)]]"
 status: draft

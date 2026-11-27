@@ -18,7 +18,6 @@ area: "30-ft.-radius emanation centered on you"
 duration: "1 round"
 defense: "None"
 spell-resistance: "Yes"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Time Shudder|Time Shudder (PF1)]]"
 status: draft

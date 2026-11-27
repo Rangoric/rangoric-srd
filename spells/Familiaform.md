@@ -16,7 +16,6 @@ target: "Your Familiar"
 duration: "1 day or 3 transformations"
 defense: "Will (harmless)"
 spell-resistance: "Yes A rare and precious spell, *familiaform* grants a powerful ability to the familiar, the power of wild shape. Once cast, *familiaform* grants three transformations as per the druidical ability, all of which must be taken within 24 hours or they are lost. Transforming back into the familiar’s base form counts as one of these, but each form can be kept indefinitely until the duration ends. When the spell ends, the familiar reverts to base form. Each transformation heals the familiar an amount equal to the caster level in hit points."
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Familiaform|Familiaform (Spells & Magic)]]"
 status: draft

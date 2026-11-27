@@ -15,7 +15,6 @@ target: "One construct"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "No"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Soothe Construct|Soothe Construct (PF1)]]"
 status: draft

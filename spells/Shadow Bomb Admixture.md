@@ -14,7 +14,6 @@ target: "You"
 duration: "1 round/level"
 defense: "Special, see below"
 spell-resistance: "Special, see below"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Shadow Bomb Admixture|Shadow Bomb Admixture (PF1)]]"
 status: draft

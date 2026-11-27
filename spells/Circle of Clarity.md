@@ -17,7 +17,6 @@ effect: "20-ft.-radius emanation centered on a creature, object or point in spac
 duration: "1 round/level (D)"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Circle Of Clarity|Circle of Clarity (PF1)]]"
 status: draft

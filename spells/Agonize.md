@@ -21,7 +21,6 @@ target: "One conjured outsider or elemental (see text)"
 duration: "1 round"
 defense: "Fortitude"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Agonize|Agonize (PF1)]]"
 status: draft

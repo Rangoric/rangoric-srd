@@ -14,7 +14,6 @@ target: "One construct"
 duration: "Concentration"
 defense: "None (see text)"
 spell-resistance: "No"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Control Construct|Control Construct (PF1)]]"
 status: draft

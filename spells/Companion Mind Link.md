@@ -16,7 +16,6 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "Your animal companion"
 duration: "1 minute/level"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Companion Mind Link|Companion Mind Link (PF1)]]"
 status: draft

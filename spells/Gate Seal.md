@@ -19,7 +19,6 @@ target: "One *doorway*, *gate*, or *portal*"
 duration: "Permanent"
 defense: "None"
 spell-resistance: "No"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Gate Seal|Gate Seal (Faeries)]]"
 status: draft

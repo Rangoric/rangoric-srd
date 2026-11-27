@@ -13,7 +13,6 @@ target: "You"
 duration: "1 minute/level (D)"
 defense: "None"
 spell-resistance: "No"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Ethereal Fists|Ethereal Fists (PF1 Foundry)]]"
 status: draft

@@ -14,7 +14,6 @@ target: "One creature"
 duration: "1 hour/level (D)"
 defense: "Fortitude"
 spell-resistance: "Yes"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Feyform|Feyform (Faeries)]]"
 status: draft

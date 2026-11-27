@@ -15,7 +15,6 @@ range: "Personal"
 target: "You"
 duration: "Concentration, up to 1 minute/level"
 spell-resistance: "No"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Retrocognition|Retrocognition (PF1 F)]]"
 status: draft

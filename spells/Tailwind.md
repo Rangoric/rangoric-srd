@@ -23,7 +23,6 @@ target: "One or more creatures, no two of which can be more than 120 feet apart"
 duration: "Caster level hour(s)"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/spells/Tailwind|Tailwind (PF1 F)]]"
 status: draft

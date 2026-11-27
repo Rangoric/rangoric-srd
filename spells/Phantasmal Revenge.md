@@ -20,7 +20,6 @@ target: "Dead body touched"
 duration: "Instantaneous"
 defense: "Will disbelief then Fortitude partial; see text"
 spell-resistance: "Yes"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Phantasmal Revenge|Phantasmal Revenge (PF1)]]"
 status: draft

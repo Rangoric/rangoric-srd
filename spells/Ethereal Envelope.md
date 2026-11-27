@@ -15,7 +15,6 @@ target: "You"
 duration: "1 hour/level (D)"
 defense: "None"
 spell-resistance: "No"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Ethereal Envelope|Ethereal Envelope (PF1 Foundry)]]"
 status: draft

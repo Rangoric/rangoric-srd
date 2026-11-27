@@ -20,7 +20,6 @@ target: "One living creature"
 duration: "Instantaneous"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Villain Codex"
 based-on:
   - "[[path srd 3.5 foundry/spells/Amnesia (Spell)|Amnesia (PF1 F)]]"
 status: draft

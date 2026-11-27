@@ -24,7 +24,6 @@ area: "One 10-ft. cube/level (S)"
 duration: "Caster level round(s)"
 defense: "Will disbelief (if interacted with)"
 spell-resistance: "Yes"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/spells/Echo|Echo (PF1 F)]]"
 status: draft

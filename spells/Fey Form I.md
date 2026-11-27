@@ -20,7 +20,6 @@ range: "Personal"
 target: "You"
 duration: "Caster level minute(s)"
 spell-resistance: "No"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/spells/Fey Form I|Fey Form I (PF1 F)]]"
 status: draft

@@ -21,7 +21,6 @@ target: "One creature or one object no larger than a Large two-handed weapon"
 duration: "1 minute/level"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Air Bubble|Air Bubble (PF1)]]"
 status: draft

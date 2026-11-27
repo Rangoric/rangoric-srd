@@ -19,7 +19,6 @@ effect: "A needle-like shard of iron"
 duration: "1 round/2 levels"
 defense: "None"
 spell-resistance: "Yes"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Iron Shard|Iron Shard (Faeries)]]"
 status: draft

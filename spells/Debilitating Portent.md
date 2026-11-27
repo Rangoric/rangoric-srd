@@ -20,7 +20,6 @@ target: "One creature"
 duration: "1 round/level (D) see text"
 defense: "None"
 spell-resistance: "Yes"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Debilitating Portent|Debilitating Portent (PF1)]]"
 status: draft

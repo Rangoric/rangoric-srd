@@ -20,7 +20,6 @@ effect: "Up to six quasi-real, horselike creatures"
 duration: "1 hour/level (D)"
 defense: "None"
 spell-resistance: "No"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Phantom Steed, Communal|Phantom Steed, Communal (PF1)]]"
 status: draft

@@ -15,7 +15,6 @@ range: "Medium (100 ft. + 10 ft./level)"
 target: "20-ft.-radius spread"
 duration: "Caster level minute(s)"
 spell-resistance: "No"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Condensed Ether|Condensed Ether (PF1 F)]]"
 status: draft

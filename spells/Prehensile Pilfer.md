@@ -17,7 +17,6 @@ target: "Creature touched"
 duration: "1 round/level (D)"
 defense: "Fortitude (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Prehensile Pilfer|Prehensile Pilfer (PF1)]]"
 status: draft

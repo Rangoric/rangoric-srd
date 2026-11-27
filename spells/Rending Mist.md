@@ -14,7 +14,6 @@ effect: "Cloud spreads 30 ft. wide and 20 ft. high"
 duration: "1 round/level"
 defense: "None"
 spell-resistance: "No"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Rending Mist|Rending Mist (Spells & Magic)]]"
 status: draft

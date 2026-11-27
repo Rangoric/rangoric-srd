@@ -18,7 +18,6 @@ effect: "Phantom singer"
 duration: "1 round/level (D)"
 defense: "None"
 spell-resistance: "No"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Shadowbard|Shadowbard (PF1)]]"
 status: draft

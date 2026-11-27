@@ -18,7 +18,6 @@ target: "One weapon/3 levels"
 duration: "Concentration"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Badger's Ferocity|Badger’s Ferocity (PF1)]]"
 status: draft

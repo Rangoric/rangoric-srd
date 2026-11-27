@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Spells"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/classes/Occultist|Occultist (PF1 Foundry)]]"
   - "[[path srd 3.5 foundry/class-features/Occultist Spells|Occultist Spells (PF1 Foundry)]]"

@@ -12,7 +12,6 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Your melee weapon"
 duration: "Instantaneous"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Blade Lash|Blade Lash (PF1)]]"
 status: draft

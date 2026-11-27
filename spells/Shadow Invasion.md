@@ -17,7 +17,6 @@ range: "30 ft."
 area: "30-ft. radius emanation centered on you"
 duration: "1 round/level (D); see text"
 spell-resistance: "No"
-book: "Planar Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Shadow Invasion|Shadow Invasion (PF1 F)]]"
 status: draft

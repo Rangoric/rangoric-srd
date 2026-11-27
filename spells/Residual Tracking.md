@@ -16,7 +16,6 @@ target: "Footprint touched"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "No"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Residual Tracking|Residual Tracking (PF1)]]"
 status: draft

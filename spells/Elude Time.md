@@ -13,7 +13,6 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "Up to 1 minute/level; see text"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Elude Time|Elude Time (PF1)]]"
 status: draft

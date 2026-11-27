@@ -17,7 +17,6 @@ range: "Personal"
 target: "You"
 duration: "Instantaneous; see text"
 spell-resistance: "No"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Psychic Asylum|Psychic Asylum (PF1 F)]]"
 status: draft

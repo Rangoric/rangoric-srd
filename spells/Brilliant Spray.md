@@ -8,7 +8,6 @@ level:
   - "Sor/Wiz 2"
 targets: "One creature plus one creature/4 levels"
 area: "5 ft. wide to each target"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Brilliant Spray|Brilliant Spray (Spells & Magic)]]"
 status: draft

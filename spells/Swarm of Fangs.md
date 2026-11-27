@@ -21,7 +21,6 @@ effect: "One swarm of animate teeth"
 duration: "1 round/level"
 defense: "None"
 spell-resistance: "No"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/spells/Swarm of Fangs|Swarm of Fangs (PF1)]]"
 status: draft

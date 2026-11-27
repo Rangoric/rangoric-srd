@@ -16,7 +16,6 @@ target: "One creature"
 duration: "1 hour/level"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Undine's Curse|Undine’s Curse (PF1)]]"
 status: draft

@@ -13,7 +13,6 @@ components:
 casting-time: "1 minute"
 range: "10 miles (see text)"
 duration: "5 rounds"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/High Albatross|High Albatross (Spells & Magic)]]"
 status: draft

@@ -11,7 +11,6 @@ casting-time: "1 immediate action"
 range: "Personal"
 target: "You"
 duration: "Instantaneous"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Hero's Defiance|Hero’s Defiance (PF1)]]"
 status: draft

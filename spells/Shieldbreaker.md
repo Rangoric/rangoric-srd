@@ -7,7 +7,6 @@ descriptor:
 level:
   - "Sor/Wiz 5"
 defense: "Fortitude (object, see text)"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Shieldbreaker|Shieldbreaker (Spells & Magic)]]"
 status: draft

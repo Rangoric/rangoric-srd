@@ -14,7 +14,6 @@ area: "30-ft.-radius emanation"
 duration: "8 hours"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Nap Stack|Nap Stack (PF1)]]"
 status: draft

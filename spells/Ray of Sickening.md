@@ -22,7 +22,6 @@ effect: "Ray"
 duration: "1 min./level"
 defense: "Fortitude partial; see text"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Ray Of Sickening|Ray of Sickening (PF1)]]"
 status: draft

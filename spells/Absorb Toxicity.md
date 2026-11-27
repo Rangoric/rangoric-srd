@@ -19,7 +19,6 @@ target: "You"
 duration: "10 minutes/level or until discharged"
 defense: "See text"
 spell-resistance: "No"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Absorb Toxicity|Absorb Toxicity (PF1)]]"
 status: draft

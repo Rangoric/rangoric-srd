@@ -16,7 +16,6 @@ effect: "Cloud spreads 30 ft. high, 20 ft. wide"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "No"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Fork Path|Fork Path (Faeries)]]"
 status: draft

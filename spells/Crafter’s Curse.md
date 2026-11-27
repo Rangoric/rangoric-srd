@@ -17,7 +17,6 @@ target: "One creature"
 duration: "1 day/level (D)"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Crafter's Curse|Crafter’s Curse (PF1)]]"
 status: draft

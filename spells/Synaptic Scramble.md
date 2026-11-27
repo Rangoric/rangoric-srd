@@ -17,7 +17,6 @@ target: "One creature"
 duration: "1 round/level"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Synaptic Scramble|Synaptic Scramble (PF1 Foundry)]]"
 status: draft

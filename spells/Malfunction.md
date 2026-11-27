@@ -14,7 +14,6 @@ area: "One construct"
 duration: "1 round/level (D)"
 defense: "Fortitude"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Malfunction|Malfunction (PF1)]]"
 status: draft

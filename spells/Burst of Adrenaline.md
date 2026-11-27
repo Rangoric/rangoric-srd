@@ -15,7 +15,6 @@ target: "You"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "No"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Burst of Adrenaline|Burst of Adrenaline (PF1 Foundry)]]"
 status: draft

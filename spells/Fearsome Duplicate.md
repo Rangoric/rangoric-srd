@@ -20,7 +20,6 @@ effect: "Monstrously distorted duplicate of you"
 duration: "1 minute/level (D)"
 defense: "Will disbelief (if interacted with)"
 spell-resistance: "Yes"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Fearsome Duplicate|Fearsome Duplicate (PF1)]]"
 status: draft

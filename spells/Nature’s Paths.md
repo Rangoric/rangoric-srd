@@ -21,7 +21,6 @@ target: "One creature"
 duration: "8 hour(s)"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Villain Codex"
 based-on:
   - "[[path srd 3.5 foundry/spells/Nature's Paths|Nature’s Paths (PF1 F)]]"
 status: draft

@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Spells"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/classes/Summoner#Class Features|Summoner (PF1)]]"
 status: draft

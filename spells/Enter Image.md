@@ -22,7 +22,6 @@ effect: "Transfer consciousness to any object bearing your likeness"
 duration: "Concentration"
 defense: "None"
 spell-resistance: "No"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Enter Image|Enter Image (PF1)]]"
 status: draft

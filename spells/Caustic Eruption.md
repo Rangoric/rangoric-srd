@@ -16,7 +16,6 @@ area: "30-ft.-radius burst"
 duration: "Instantaneous and 2 rounds; see text"
 defense: "Reflex half (see text)"
 spell-resistance: "No"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Caustic Eruption|Caustic Eruption (PF1)]]"
 status: draft

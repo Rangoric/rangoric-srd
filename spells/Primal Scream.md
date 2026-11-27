@@ -15,7 +15,6 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 round/level"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Primal Scream|Primal Scream (PF1)]]"
 status: draft

@@ -17,7 +17,6 @@ area: "Burst extending to maximum range centered on the caster"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "Yes"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Cleansing|Cleansing (Spells & Magic)]]"
 status: draft

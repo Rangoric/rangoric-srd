@@ -19,7 +19,6 @@ target: "Creature touched"
 duration: "Instantaneous"
 defense: "Fortitude partial"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Force Punch|Force Punch (PF1)]]"
 status: draft

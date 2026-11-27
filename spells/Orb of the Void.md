@@ -16,7 +16,6 @@ effect: "1-ft.-diameter sphere"
 duration: "1 round/level (D)"
 defense: "Fortitude"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Orb Of The Void|Orb of the Void (PF1)]]"
 status: draft

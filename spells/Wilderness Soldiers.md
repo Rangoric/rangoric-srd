@@ -15,7 +15,6 @@ area: "30-ft.-radius emanation, centered on you"
 duration: "1 round/level"
 defense: "None"
 spell-resistance: "No"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Wilderness Soldiers|Wilderness Soldiers (PF1)]]"
 status: draft

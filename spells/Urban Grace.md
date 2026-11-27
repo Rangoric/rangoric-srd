@@ -16,7 +16,6 @@ components:
 casting-time: "1 standard action"
 range: "Personal"
 duration: "1 minute/level"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Urban Grace|Urban Grace (PF1)]]"
 status: draft

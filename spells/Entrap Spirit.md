@@ -17,7 +17,6 @@ target: "Incorporeal creature or haunt"
 duration: "1 hour/level (D)"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Entrap Spirit|Entrap Spirit (PF1 Foundry)]]"
 status: draft

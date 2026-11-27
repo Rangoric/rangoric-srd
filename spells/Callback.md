@@ -16,7 +16,6 @@ target: "Your familiar or spirit animal"
 duration: "10 minutes/level or until expended (see text)"
 defense: "Fortitude"
 spell-resistance: "Yes"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/spells/Callback|Callback (PF1 F)]]"
 status: draft

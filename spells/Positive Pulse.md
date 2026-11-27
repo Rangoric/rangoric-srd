@@ -20,7 +20,6 @@ area: "5-ft.-radius burst"
 duration: "Instantaneous plus 1 round (see text)"
 defense: "Will; see text"
 spell-resistance: "Yes"
-book: "Planar Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Positive Pulse|Positive Pulse (PF1 F)]]"
 status: draft

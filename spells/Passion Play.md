@@ -16,7 +16,6 @@ area: "5 ft./level"
 duration: "10 minutes per level"
 defense: "None"
 spell-resistance: "No"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Passion Play|Passion Play (Spells & Magic)]]"
 status: draft

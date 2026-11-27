@@ -16,7 +16,6 @@ target: "Armor touched"
 duration: "1 minute/level"
 defense: "Will (harmless, object)"
 spell-resistance: "Yes (harmless, object)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Defile Armor|Defile Armor (PF1)]]"
 status: draft

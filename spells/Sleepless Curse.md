@@ -23,7 +23,6 @@ target: "One creature"
 duration: "Permanent"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Sleepless Curse|Sleepless Curse (Faeries)]]"
 status: draft

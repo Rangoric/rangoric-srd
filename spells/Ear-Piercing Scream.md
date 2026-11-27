@@ -22,7 +22,6 @@ target: "One creature"
 duration: "Instantaneous; see text"
 defense: "Fortitude partial (see text)"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Ear-Piercing Scream|Ear-Piercing Scream (PF1)]]"
 status: draft

@@ -21,7 +21,6 @@ target: "You"
 duration: "1 round/level"
 defense: "Fortitude; see text"
 spell-resistance: "Yes"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Sickening Strikes|Sickening Strikes (PF1)]]"
 status: draft

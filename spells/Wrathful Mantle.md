@@ -18,7 +18,6 @@ target: "Creature touched or all creatures within 5 ft.; see text"
 duration: "1 minute/level"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Wrathful Mantle|Wrathful Mantle (PF1)]]"
 status: draft

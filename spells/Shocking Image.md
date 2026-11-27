@@ -21,7 +21,6 @@ target: "You"
 duration: "1 minute/level"
 defense: "None"
 spell-resistance: "See text"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Shocking Image|Shocking Image (PF1)]]"
 status: draft

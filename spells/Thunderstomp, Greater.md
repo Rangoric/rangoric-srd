@@ -20,7 +20,6 @@ area: "60-ft. line"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "Yes"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Thunderstomp, Greater|Thunderstomp, Greater (PF1)]]"
 status: draft

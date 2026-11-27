@@ -21,7 +21,6 @@ effect: "A shadowy shadow tether"
 duration: "1 round/level (D); see text"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Shadow Anchor|Shadow Anchor (PF1)]]"
 status: draft

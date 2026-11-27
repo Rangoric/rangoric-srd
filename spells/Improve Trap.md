@@ -19,7 +19,6 @@ target: "One trap"
 duration: "Instantaneous"
 defense: "Will (object)"
 spell-resistance: "Yes (object)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Improve Trap|Improve Trap (PF1)]]"
 status: draft

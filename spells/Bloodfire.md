@@ -16,7 +16,6 @@ targets: "One target within range"
 duration: "Instantaneous"
 defense: "Reflex for half"
 spell-resistance: "No"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Bloodfire|Bloodfire (Spells & Magic)]]"
 status: draft

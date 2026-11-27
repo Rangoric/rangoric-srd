@@ -16,7 +16,6 @@ targets: "1 creature/3 levels no two of which can be more than 30 ft. apart"
 duration: "Instantaneous"
 defense: "Fortitude partial"
 spell-resistance: "Yes"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Deadly Finale|Deadly Finale (PF1)]]"
 status: draft

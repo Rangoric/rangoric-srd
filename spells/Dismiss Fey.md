@@ -17,7 +17,6 @@ target: "One fey creature"
 duration: "Instantaneous"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Dismiss Fey|Dismiss Fey (Faeries)]]"
 status: draft

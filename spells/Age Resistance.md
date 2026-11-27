@@ -17,7 +17,6 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "24 hours"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Age Resistance|Age Resistance (PF1)]]"
 status: draft

@@ -15,7 +15,6 @@ target: "One construct"
 duration: "1 round/level"
 defense: "Will (harmless)"
 spell-resistance: "No"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Unbreakable Construct|Unbreakable Construct (PF1)]]"
 status: draft

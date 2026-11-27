@@ -18,7 +18,6 @@ range: "Touch"
 effect: "A horselike wicker construct"
 duration: "Caster level hour(s)"
 spell-resistance: "No"
-book: "Villain Codex"
 based-on:
   - "[[path srd 3.5 foundry/spells/Wicker Horse|Wicker Horse (PF1 F)]]"
 status: draft

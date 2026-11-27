@@ -22,7 +22,6 @@ target: "One creature/level, no two of which can be more than 30 ft. apart"
 duration: "Caster level minute(s)"
 defense: "Will disbelief"
 spell-resistance: "Yes"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Scripted Hallucination|Scripted Hallucination (PF1 F)]]"
 status: draft

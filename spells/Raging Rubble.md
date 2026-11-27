@@ -23,7 +23,6 @@ effect: "One swarm of stones"
 duration: "Concentration + 2 rounds"
 defense: "None"
 spell-resistance: "Yes"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Raging Rubble|Raging Rubble (PF1)]]"
 status: draft

@@ -19,7 +19,6 @@ target: "Living creature touched"
 duration: "1 round/level"
 defense: "Fortitude (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Mythic Adventures"
 based-on:
   - "[[path srd 3.5/spells/Deathless|Deathless (PF1)]]"
   - "[[path srd 3.5 foundry/spells/Deathless (Spell)|Deathless (PF1 F)]]"

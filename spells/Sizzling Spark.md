@@ -17,7 +17,6 @@ targets: "One creature"
 duration: "Instantaneous"
 defense: "Reflex half"
 spell-resistance: "Yes"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Sizzling Spark|Sizzling Spark (Spells & Magic)]]"
 status: draft

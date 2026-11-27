@@ -20,7 +20,6 @@ target: "One creature"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "Yes"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Thunderstomp|Thunderstomp (PF1)]]"
 status: draft

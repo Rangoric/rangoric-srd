@@ -25,7 +25,6 @@ target: "Creature touched"
 duration: "1 round/level"
 defense: "None and Will partial (see below)"
 spell-resistance: "Yes"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Euphoric Tranquility|Euphoric Tranquility (PF1)]]"
 status: draft

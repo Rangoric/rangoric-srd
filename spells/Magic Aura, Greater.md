@@ -20,7 +20,6 @@ target: "One creature, or one object weighing up to 20 lbs./level"
 duration: "Caster level day(s)"
 defense: "None (see text)"
 spell-resistance: "No"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Magic Aura, Greater|Magic Aura, Greater (PF1 F)]]"
 status: draft

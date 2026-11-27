@@ -14,7 +14,6 @@ casting-time: "1 standard action"
 range: "Personal or 5 ft.; see text"
 target: "You or all creatures within 5 ft.; see text"
 duration: "10 minutes/level (D)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Veil Of Positive Energy|Veil of Positive Energy (PF1)]]"
 status: draft

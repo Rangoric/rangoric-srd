@@ -23,7 +23,6 @@ target: "Creature or object touched"
 duration: "Caster level hour(s)"
 defense: "Will or Will disbelief (see text)"
 spell-resistance: "Yes"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/False Future|False Future (PF1 F)]]"
 status: draft

@@ -6,7 +6,6 @@ descriptor:
   - "Force"
 level:
   - "Sor/Wiz 4"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Magic Missile Spray|Magic Missile Spray (Spells & Magic)]]"
 status: draft

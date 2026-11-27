@@ -24,7 +24,6 @@ target: "One creature/level"
 duration: "10 minutes/level, then 1 hour/level or until completed (D); see text"
 defense: "Will (see text)"
 spell-resistance: "Yes"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Demanding Message, Mass|Demanding Message, Mass (PF1 F)]]"
 status: draft

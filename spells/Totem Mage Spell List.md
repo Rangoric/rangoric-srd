@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Spells"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/prestige-classes/Totem Mage#Totem Mage Spell List|Totem Mage (Spells & Magic)]]"
 status: draft

@@ -15,7 +15,6 @@ target: "Object touched, weighing up to 5 lbs./level"
 duration: "Instantaneous"
 defense: "Will (object)"
 spell-resistance: "Yes (object)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Allfood|Allfood (PF1)]]"
 status: draft

@@ -23,7 +23,6 @@ target: "You or one gnome touched"
 duration: "See text"
 defense: "None"
 spell-resistance: "Yes"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Minor Dream|Minor Dream (PF1)]]"
 status: draft

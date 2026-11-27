@@ -23,7 +23,6 @@ target: "One creature"
 duration: "Permanent"
 defense: "See text"
 spell-resistance: "Yes"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Recurring Nightmare|Recurring Nightmare (Faeries)]]"
 status: draft

@@ -28,7 +28,6 @@ area: "40-ft.-radius emanation centered on you"
 duration: "Concentration, up to 1 minute/level"
 defense: "Will"
 spell-resistance: "No"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Seek Thoughts|Seek Thoughts (PF1)]]"
 status: draft

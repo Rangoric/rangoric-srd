@@ -18,7 +18,6 @@ effect: "Cone"
 duration: "5 rounds + 1 round/level"
 defense: "Reflex half (see text)"
 spell-resistance: "Yes"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Energy Bubbles|Energy Bubbles (Faeries)]]"
 status: draft

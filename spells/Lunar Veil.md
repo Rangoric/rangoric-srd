@@ -20,7 +20,6 @@ area: "120-ft.-radius emanation"
 duration: "10 minute/level"
 defense: "Will, see text"
 spell-resistance: "No"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Lunar Veil|Lunar Veil (PF1)]]"
 status: draft

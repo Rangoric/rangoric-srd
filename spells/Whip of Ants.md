@@ -12,7 +12,6 @@ level:
   - "Sum 6"
   - "SumU 6"
   - "Wit 6"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Whip Of Ants|Whip of Ants (PF1)]]"
 status: draft

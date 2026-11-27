@@ -18,7 +18,6 @@ effect: "Spiritual ally of force"
 duration: "1 round/level (D)"
 defense: "None"
 spell-resistance: "Yes"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Spiritual Ally|Spiritual Ally (PF1)]]"
 status: draft

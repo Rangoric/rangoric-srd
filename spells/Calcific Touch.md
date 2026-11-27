@@ -17,7 +17,6 @@ target: "Creature or creatures touched (up to one per level)"
 duration: "1 round/level"
 defense: "Fortitude partial"
 spell-resistance: "Yes"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Calcific Touch|Calcific Touch (PF1)]]"
 status: draft

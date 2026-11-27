@@ -16,7 +16,6 @@ target: "Construct touched"
 duration: "1 round/level"
 defense: "Fortitude (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Rapid Repair|Rapid Repair (PF1)]]"
 status: draft

@@ -21,7 +21,6 @@ target: "One creature"
 duration: "1 round/level"
 defense: "Will (see text)"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Overwhelming Grief|Overwhelming Grief (PF1)]]"
 status: draft

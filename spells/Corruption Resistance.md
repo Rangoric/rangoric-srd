@@ -21,7 +21,6 @@ target: "Creature touched"
 duration: "10 minutes/level"
 defense: "Fortitude (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Corruption Resistance|Corruption Resistance (PF1)]]"
 status: draft

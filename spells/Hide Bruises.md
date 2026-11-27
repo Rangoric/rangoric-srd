@@ -23,7 +23,6 @@ target: "One creature touched"
 duration: "10 * caster level minute(s)"
 defense: "None and Will disbelief (see text)"
 spell-resistance: "Yes"
-book: "Villain Codex"
 based-on:
   - "[[path srd 3.5 foundry/spells/Hide Bruises|Hide Bruises (PF1 F)]]"
 status: draft

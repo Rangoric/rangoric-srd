@@ -13,7 +13,6 @@ effect: "One shadow duplicate"
 duration: "1 round/level (D)"
 defense: "Will disbelief (if interacted with)"
 spell-resistance: "Yes"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Psychic Image|Psychic Image (PF1 Foundry)]]"
 status: draft

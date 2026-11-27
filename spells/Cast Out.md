@@ -16,7 +16,6 @@ target: "Creature touched"
 duration: "Instantaneous"
 defense: "Will partial"
 spell-resistance: "Yes"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Cast Out|Cast Out (PF1)]]"
 status: draft

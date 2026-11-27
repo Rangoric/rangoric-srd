@@ -19,7 +19,6 @@ target: "One improvised weapon"
 duration: "1 hour/level (D)"
 defense: "Will (harmless, object)"
 spell-resistance: "Yes (harmless, object)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Refine Improvised Weapon|Refine Improvised Weapon (PF1)]]"
 status: draft

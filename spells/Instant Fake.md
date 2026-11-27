@@ -23,7 +23,6 @@ target: "One object weighing no more than 1 lb./level"
 duration: "Caster level minute(s)"
 defense: "Will disbelief (if interacted with)"
 spell-resistance: "No"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Instant Fake|Instant Fake (PF1 F)]]"
 status: draft

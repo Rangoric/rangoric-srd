@@ -12,7 +12,6 @@ level:
 range: "Personal"
 target: "You"
 duration: "10 minutes/level (D)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Cloud Shape|Cloud Shape (PF1)]]"
 status: draft

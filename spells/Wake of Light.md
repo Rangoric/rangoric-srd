@@ -16,7 +16,6 @@ effect: "A 10-ft.-wide path in a straight line, up to 120 ft. long"
 duration: "1 round/level"
 defense: "None"
 spell-resistance: "Yes"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Wake Of Light|Wake of Light (PF1)]]"
 status: draft

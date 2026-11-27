@@ -14,7 +14,6 @@ targets: "One Large plant per three caster levels"
 duration: "1 hour/level (D)"
 defense: "None"
 spell-resistance: "No"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Siege Of Trees|Siege of Trees (PF1)]]"
 status: draft

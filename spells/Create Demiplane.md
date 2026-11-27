@@ -20,7 +20,6 @@ effect: "Extradimensional demiplane, up to 10 10-ft. cubes/level (S)"
 duration: "1 day/level or instantaneous (see text)"
 defense: "None"
 spell-resistance: "No"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Create Demiplane|Create Demiplane (PF1)]]"
 status: draft

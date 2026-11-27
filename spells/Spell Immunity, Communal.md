@@ -17,7 +17,6 @@ target: "Creatures touched"
 duration: "10 min./level"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Spell Immunity, Communal|Spell Immunity, Communal (PF1)]]"
 status: draft

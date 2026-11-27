@@ -18,7 +18,6 @@ effect: "Wall of ice or flying ice javelins (see text)"
 duration: "1 minute/level, instantaneous, or until expended (see text)"
 defense: "Reflex or none (see text)"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Holy Ice|Holy Ice (PF1)]]"
 status: draft

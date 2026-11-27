@@ -15,7 +15,6 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "See text"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Swarm Skin|Swarm Skin (PF1)]]"
 status: draft

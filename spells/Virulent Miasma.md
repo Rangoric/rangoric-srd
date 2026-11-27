@@ -18,7 +18,6 @@ effect: "Cloud spreads in 20-ft. radius, 20 ft. high"
 duration: "Caster level round(s)"
 defense: "Fortitude (see text)"
 spell-resistance: "No"
-book: "Villain Codex"
 based-on:
   - "[[path srd 3.5 foundry/spells/Virulent Miasma|Virulent Miasma (PF1 F)]]"
 status: draft

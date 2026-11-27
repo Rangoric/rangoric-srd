@@ -18,7 +18,6 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 minute/level (D)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Shock Shield|Shock Shield (PF1)]]"
 status: draft

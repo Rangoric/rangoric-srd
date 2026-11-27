@@ -17,7 +17,6 @@ effect: "Phantom instrument"
 duration: "1 round/level (D)"
 defense: "None"
 spell-resistance: "No"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Exquisite Accompaniment|Exquisite Accompaniment (PF1)]]"
 status: draft

@@ -15,7 +15,6 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "One object"
 duration: "1 day"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Theft Ward|Theft Ward (PF1)]]"
 status: draft

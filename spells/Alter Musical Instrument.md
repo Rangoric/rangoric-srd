@@ -19,7 +19,6 @@ target: "One musical instrument"
 duration: "1 hour/level (D)"
 defense: "Fortitude (object)"
 spell-resistance: "Yes (object)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Alter Musical Instrument|Alter Musical Instrument (PF1)]]"
 status: draft

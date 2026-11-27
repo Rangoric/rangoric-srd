@@ -22,7 +22,6 @@ target: "One creature"
 duration: "Caster level minute(s)"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/spells/With the Wind|With the Wind (PF1 F)]]"
 status: draft

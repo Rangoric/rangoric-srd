@@ -25,7 +25,6 @@ target: "One weapon that can be thrown"
 duration: "1 minute/level"
 defense: "Will (harmless, object)"
 spell-resistance: "Yes (harmless, object)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Returning Weapon|Returning Weapon (PF1)]]"
 status: draft

@@ -20,7 +20,6 @@ area: "120-ft. line"
 duration: "1 round/level"
 defense: "Fortitude partial"
 spell-resistance: "Yes"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/River Of Wind|River of Wind (PF1)]]"
 status: draft

@@ -15,7 +15,6 @@ target: "Melee weapon touched"
 duration: "1 round/level"
 defense: "None"
 spell-resistance: "No"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Unholy Sword|Unholy Sword (PF1)]]"
 status: draft

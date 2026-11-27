@@ -15,7 +15,6 @@ target: "1 cu. ft./level of food and water or one potion; see text"
 duration: "Instantaneous"
 defense: "Will (object)"
 spell-resistance: "Yes (object)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Putrefy Food And Drink|Putrefy Food and Drink (PF1)]]"
 status: draft

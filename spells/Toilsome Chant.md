@@ -17,7 +17,6 @@ target: "One living creature"
 duration: "See text"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Toilsome Chant|Toilsome Chant (PF1)]]"
 status: draft

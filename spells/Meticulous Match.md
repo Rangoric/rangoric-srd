@@ -20,7 +20,6 @@ target: "Two objects touched"
 duration: "Instantaneous"
 defense: "Fort (object)"
 spell-resistance: "Yes"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Meticulous Match|Meticulous Match (PF1 F)]]"
 status: draft

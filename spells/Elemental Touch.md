@@ -22,7 +22,6 @@ target: "You"
 duration: "1 round/level (D)"
 defense: "See text"
 spell-resistance: "No"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Elemental Touch|Elemental Touch (PF1)]]"
 status: draft

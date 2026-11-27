@@ -19,7 +19,6 @@ target: "You and one creature/level"
 duration: "1 hour/level (D)"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Dream Travel|Dream Travel (PF1 Foundry)]]"
 status: draft

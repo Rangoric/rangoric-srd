@@ -13,7 +13,6 @@ casting-time: "1 round"
 range: "Personal"
 target: "You"
 duration: "1 hour/level (D) or until discharged"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Spite|Spite (PF1)]]"
 status: draft

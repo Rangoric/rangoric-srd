@@ -16,7 +16,6 @@ target: "Up to one weapon/level, no two of which can be more than 30 ft. apart"
 duration: "Caster level minute(s)"
 defense: "Will (object)"
 spell-resistance: "Yes"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Peacebond, Greater|Peacebond, Greater (PF1 F)]]"
 status: draft

@@ -22,7 +22,6 @@ target: "One or more humanoid creatures, no two of which can be more than 30 ft.
 duration: "Caster level hour(s)"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Charm Person, Mass|Charm Person, Mass (PF1 F)]]"
 status: draft

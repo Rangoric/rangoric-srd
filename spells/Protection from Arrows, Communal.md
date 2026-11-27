@@ -18,7 +18,6 @@ target: "Creatures touched"
 duration: "1 hour/level or until discharged"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Protection From Arrows, Communal|Protection from Arrows, Communal (PF1)]]"
 status: draft

@@ -18,7 +18,6 @@ effect: "One quasi-real, humanlike creature"
 duration: "1 hour/level (D)"
 defense: "None"
 spell-resistance: "No"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Phantom Driver|Phantom Driver (PF1)]]"
 status: draft

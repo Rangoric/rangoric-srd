@@ -12,7 +12,6 @@ area: "60 ft. radius emanation centered on the caster"
 duration: "1 minute/level (D)"
 defense: "None"
 spell-resistance: "No"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Fire Damper|Fire Damper (Spells & Magic)]]"
 status: draft

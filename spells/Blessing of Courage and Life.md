@@ -18,7 +18,6 @@ target: "One living creature"
 duration: "1 minute/level (see below)"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Blessing Of Courage And Life|Blessing of Courage and Life (PF1)]]"
 status: draft

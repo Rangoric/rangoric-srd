@@ -19,7 +19,6 @@ target: "Feathered creature touched"
 duration: "24 hours"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Winter Feathers|Winter Feathers (PF1)]]"
 status: draft

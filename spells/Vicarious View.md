@@ -22,7 +22,6 @@ effect: "Magical sensor"
 duration: "Caster level minute(s)"
 defense: "Will (object)"
 spell-resistance: "Yes"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Vicarious View|Vicarious View (PF1 F)]]"
 status: draft

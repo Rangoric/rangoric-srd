@@ -18,7 +18,6 @@ effect: "10-ft.-high earthen wall, in a line up to 10 ft. long/2 levels, or a ci
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "No"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Rampart|Rampart (PF1)]]"
 status: draft

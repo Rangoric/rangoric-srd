@@ -16,7 +16,6 @@ target: "Creature touched"
 duration: "1 round/level"
 defense: "Fortitude (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Lockjaw|Lockjaw (PF1)]]"
 status: draft

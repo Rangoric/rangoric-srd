@@ -17,7 +17,6 @@ target: "One creature of your same race"
 duration: "Instantaneous"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Mind Swap, Major|Mind Swap, Major (PF1 Foundry)]]"
 status: draft

@@ -23,7 +23,6 @@ target: "One living creature"
 duration: "1 round (see text)"
 defense: "Fortitude; see text"
 spell-resistance: "Yes"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Steal Breath|Steal Breath (PF1)]]"
 status: draft

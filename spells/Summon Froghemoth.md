@@ -14,7 +14,6 @@ effect: "One summoned creature"
 duration: "1 round/level (D)"
 defense: "None"
 spell-resistance: "No"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Summon Froghemoth|Summon Froghemoth (PF1)]]"
 status: draft

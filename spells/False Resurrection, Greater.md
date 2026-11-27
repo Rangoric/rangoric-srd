@@ -19,7 +19,6 @@ range: "Touch"
 target: "Dead creature touched"
 duration: "Permanent"
 spell-resistance: "Yes"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/False Resurrection, Greater|False Resurrection, Greater (PF1 F)]]"
 status: draft

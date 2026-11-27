@@ -25,7 +25,6 @@ target: "You"
 duration: "1 round(s)"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Glimpse of Truth|Glimpse of Truth (PF1 F)]]"
 status: draft

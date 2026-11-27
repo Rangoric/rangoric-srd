@@ -15,7 +15,6 @@ area: "Cone-shaped burst"
 duration: "Instantaneous"
 defense: "Fortitude; see text"
 spell-resistance: "Yes"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Holy Whisper|Holy Whisper (PF1)]]"
 status: draft

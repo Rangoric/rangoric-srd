@@ -25,7 +25,6 @@ effect: "50-ft.-radius emanation"
 duration: "1 minute/level (D)"
 defense: "Will"
 spell-resistance: "No"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Vision Of Hell|Vision of Hell (PF1)]]"
 status: draft

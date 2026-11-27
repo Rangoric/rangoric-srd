@@ -22,7 +22,6 @@ target: "One creature/level, no two of which can be more than 30 ft. apart"
 duration: "Concentration"
 defense: "Will disbelief"
 spell-resistance: "Yes"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Auditory Hallucination|Auditory Hallucination (PF1 F)]]"
 status: draft

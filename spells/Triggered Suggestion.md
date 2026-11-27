@@ -14,7 +14,6 @@ level:
   - "Sor/Wiz 4"
   - "Wit 4"
 duration: "1 day/level or until completed"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Triggered Suggestion|Triggered Suggestion (PF1)]]"
 status: draft

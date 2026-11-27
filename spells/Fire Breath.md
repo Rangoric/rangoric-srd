@@ -19,7 +19,6 @@ area: "Cone-shaped burst"
 duration: "1 round/level or until discharged; see text"
 defense: "Reflex half; see text"
 spell-resistance: "Yes"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Fire Breath|Fire Breath (PF1)]]"
 status: draft

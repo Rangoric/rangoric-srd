@@ -19,7 +19,6 @@ effect: "Transparent wall whose area is up to one 10-ft. square/level"
 duration: "1 round/level"
 defense: "See text"
 spell-resistance: "No"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Wall Of Nausea|Wall of Nausea (PF1)]]"
 status: draft

@@ -19,7 +19,6 @@ target: "Creature touched"
 duration: "1 round/level"
 defense: "Will (harmless)"
 spell-resistance: "No"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Heroic Fortune|Heroic Fortune (PF1)]]"
 status: draft

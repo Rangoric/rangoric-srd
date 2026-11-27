@@ -18,7 +18,6 @@ target: "Creature touched"
 duration: "1 minute/level"
 defense: "Fortitude (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Touch Of The Sea|Touch of the Sea (PF1)]]"
 status: draft

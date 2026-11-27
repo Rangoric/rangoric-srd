@@ -12,7 +12,6 @@ components:
 casting-time: "No action"
 defense: "Reflex"
 spell-resistance: "Yes"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Explode Head|Explode Head (PF1 F)]]"
 status: draft

@@ -17,7 +17,6 @@ target: "Creature touched"
 duration: "1 minute/level (D) or until discharged"
 defense: "Will (harmless) and see text"
 spell-resistance: "Yes (harmless) and see text"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Sunder Breaker|Sunder Breaker (PF1)]]"
 status: draft

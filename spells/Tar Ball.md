@@ -15,7 +15,6 @@ effect: "Ranged attack"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "No"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Tar Ball|Tar Ball (PF1)]]"
 status: draft

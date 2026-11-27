@@ -18,7 +18,6 @@ effect: "Whip of water"
 duration: "1 minute/level (D) or until discharged (see text)"
 defense: "None"
 spell-resistance: "No"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/River Whip|River Whip (PF1)]]"
 status: draft

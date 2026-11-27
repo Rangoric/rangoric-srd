@@ -12,7 +12,6 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 area: "Circle, centered on you, with a radius of 100 ft. + 10 ft./level"
 duration: "1 minute/level"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Locate Jewels|Locate Jewels (Spells & Magic)]]"
 status: draft

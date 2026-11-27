@@ -21,7 +21,6 @@ target: "One container touched"
 duration: "1 minute/level"
 defense: "None"
 spell-resistance: "No"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Abundant Ammunition|Abundant Ammunition (PF1)]]"
 status: draft

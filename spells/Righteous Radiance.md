@@ -15,7 +15,6 @@ target: "You"
 duration: "2 round/level"
 defense: "None"
 spell-resistance: "No"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Righteous Radiance|Righteous Radiance (Spells & Magic)]]"
 status: draft

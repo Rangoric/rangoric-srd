@@ -20,7 +20,6 @@ area: "30-ft. radius"
 duration: "Instantaneous"
 defense: "Reflex partial, see text"
 spell-resistance: "Special, see below"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Blistering Invective|Blistering Invective (PF1)]]"
 status: draft

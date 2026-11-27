@@ -18,7 +18,6 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 round/level"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Warding Weapon|Warding Weapon (PF1)]]"
 status: draft

@@ -25,7 +25,6 @@ target: "One creature"
 duration: "Caster level day(s)"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Red Hand of the Killer|Red Hand of the Killer (PF1 F)]]"
 status: draft

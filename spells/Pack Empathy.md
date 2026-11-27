@@ -22,7 +22,6 @@ range: "Close (25 ft. + 5 ft./2 levels)"
 target: "You plus one willing living creature per 3 levels, no two of which can be more than 30 ft. apart"
 duration: "Caster level hour(s)"
 spell-resistance: "No"
-book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/spells/Pack Empathy|Pack Empathy (PF1 F)]]"
 status: draft

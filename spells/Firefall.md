@@ -18,7 +18,6 @@ target: "One fire source, up to a 20-foot cube"
 duration: "Instantaneous"
 defense: "Will and Reflex; see text"
 spell-resistance: "No"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/spells/Firefall|Firefall (PF1)]]"
 status: draft

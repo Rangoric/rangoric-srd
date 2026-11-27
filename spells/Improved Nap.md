@@ -18,7 +18,6 @@ target: "You or one creature"
 duration: "1 hour (see text)"
 defense: "No or Will"
 spell-resistance: "No or Yes"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Improved Nap|Improved Nap (Faeries)]]"
 status: draft

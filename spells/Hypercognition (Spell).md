@@ -18,7 +18,6 @@ range: "Personal"
 target: "You"
 duration: "See text"
 spell-resistance: "No"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Hypercognition|Hypercognition (PF1 F)]]"
 status: draft

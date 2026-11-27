@@ -16,7 +16,6 @@ area: "Cone-shaped emanation"
 duration: "Concentration, up to 1 minute/level"
 defense: "Will; see text"
 spell-resistance: "No"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Detect Mindscape|Detect Mindscape (PF1 F)]]"
 status: draft

@@ -22,7 +22,6 @@ target: "One living creature"
 duration: "Instantaneous"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Memorize Page|Memorize Page (PF1)]]"
 status: draft

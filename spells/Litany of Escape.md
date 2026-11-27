@@ -19,7 +19,6 @@ target: "One willing creature that is grappled"
 duration: "Instantaneous"
 defense: "No"
 spell-resistance: "Yes"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/spells/Litany Of Escape|Litany of Escape (PF1)]]"
 status: draft

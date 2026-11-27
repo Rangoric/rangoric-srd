@@ -25,7 +25,6 @@ effect: "One reroll"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "Yes"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/spells/Luck of the Fey|Luck of the Fey (Faeries)]]"
 status: draft

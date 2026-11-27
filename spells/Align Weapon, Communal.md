@@ -15,7 +15,6 @@ target: "Weapons or projectiles touched"
 duration: "1 minute/level"
 defense: "Will (harmless, object)"
 spell-resistance: "Yes (harmless, object)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/spells/Align Weapon, Communal|Align Weapon, Communal (PF1)]]"
 status: draft

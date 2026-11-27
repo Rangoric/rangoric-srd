@@ -20,7 +20,6 @@ effect: "One shadow weapon"
 duration: "1 minute/level"
 defense: "Will disbelief (if interacted with)"
 spell-resistance: "Yes"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/spells/Shadow Weapon|Shadow Weapon (PF1)]]"
 status: draft

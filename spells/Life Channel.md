@@ -13,7 +13,6 @@ target: "One touched creature with negative energy affinity"
 duration: "1 minute/level"
 defense: "Fortitude (harmless)"
 spell-resistance: "Yes (harmless)"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/spells/Life Channel|Life Channel (PF1)]]"
 status: draft

@@ -16,7 +16,6 @@ area: "30-ft.-radius spread centered on you"
 duration: "1 round"
 defense: "Will"
 spell-resistance: "Yes"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/spells/Synaptic Pulse|Synaptic Pulse (PF1 Foundry)]]"
 status: draft
