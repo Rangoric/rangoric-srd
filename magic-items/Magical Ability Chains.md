@@ -42,7 +42,7 @@ Each chain below runs from the lesser ability to the greater; ↔ marks a chain 
 - _[[rangoric-srd/magic-items/weapon-abilities/Drinking|drinking]]_ → _[[rangoric-srd/magic-items/weapon-abilities/Substance-Laced|substance-laced]]_
 - _[[rangoric-srd/magic-items/weapon-abilities/Flaming|flaming]]_ → _[[rangoric-srd/magic-items/weapon-abilities/Flaming Burst|flaming burst]]_
 - _[[rangoric-srd/magic-items/weapon-abilities/Frost|frost]]_ → _[[rangoric-srd/magic-items/weapon-abilities/Icy Burst|icy burst]]_
-- _[[rangoric-srd/magic-items/weapon-abilities/Impact (Arms & Armor)|impact]]_ → _[[rangoric-srd/magic-items/weapon-abilities/Repelling|repelling]]_
+- _[[rangoric-srd/magic-items/weapon-abilities/Impact (Alternate)|impact]]_ → _[[rangoric-srd/magic-items/weapon-abilities/Repelling|repelling]]_
 - _[[rangoric-srd/magic-items/weapon-abilities/Inspiration (Weapon Special Ability)|inspiration]]_ → _[[rangoric-srd/magic-items/weapon-abilities/Muse (Weapon Special Ability)|muse]]_
 - _[[rangoric-srd/magic-items/weapon-abilities/Intense|intense]]_ or _[[rangoric-srd/magic-items/weapon-abilities/Keen|keen]]_ or _[[rangoric-srd/magic-items/weapon-abilities/Penetrating|penetrating]]_ → _[[rangoric-srd/magic-items/weapon-abilities/Wounding|wounding]]_
 - _[[rangoric-srd/magic-items/weapon-abilities/Pestilence (Weapon Special Ability)|pestilence]]_ → _[[rangoric-srd/magic-items/weapon-abilities/Pestilence, Greater|pestilence, greater]]_
@@ -82,7 +82,7 @@ Each chain below runs from the lesser ability to the greater; ↔ marks a chain 
 - _[[rangoric-srd/magic-items/armor-abilities/Dark Solace (Armor Special Ability)|dark solace]]_ → _[[rangoric-srd/magic-items/armor-abilities/Dark Solace, Greater (Armor Special Ability)|dark solace, greater]]_
 - _[[rangoric-srd/magic-items/armor-abilities/Sonic Resistance|sonic resistance]]_ → _[[rangoric-srd/magic-items/armor-abilities/Sonic Resistance, Improved|sonic resistance, improved]]_ → _[[rangoric-srd/magic-items/armor-abilities/Sonic Resistance, Greater|sonic resistance, greater]]_
 - _[[rangoric-srd/magic-items/armor-abilities/Spellcasting|spellcasting]]_ → _[[rangoric-srd/magic-items/armor-abilities/Arcane|arcane]]_
-- _[[rangoric-srd/magic-items/armor-abilities/Spell Storing (Arms & Armor)|spell storing]]_ → _[[rangoric-srd/magic-items/armor-abilities/Spell Storing, Greater (Armor Special Ability)|spell storing, greater]]_ → _[[rangoric-srd/magic-items/armor-abilities/Contingency (Armor Special Ability)|contingency]]_
+- _[[rangoric-srd/magic-items/armor-abilities/Spell Storing (Armor Special Ability)|spell storing]]_ → _[[rangoric-srd/magic-items/armor-abilities/Spell Storing, Greater (Armor Special Ability)|spell storing, greater]]_ → _[[rangoric-srd/magic-items/armor-abilities/Contingency (Armor Special Ability)|contingency]]_
 - _[[rangoric-srd/magic-items/armor-abilities/Totem (Armor Special Ability)|totem]]_ → _[[rangoric-srd/magic-items/armor-abilities/Dire Totem (Armor Special Ability)|dire totem]]_
 - _variant_ → _[[rangoric-srd/magic-items/armor-abilities/Morphic|morphic]]_
 

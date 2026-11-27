@@ -36,7 +36,7 @@ _This is an optional set of random tables._ They roll among the special abilitie
 | ----- | ----------------------------------------------------------------------------------------- | ------- |
 | 1–35  | [[rangoric-srd/magic-items/weapon-abilities/Serrations\|Serrations]]                      | +50     |
 | 36–50 | [[rangoric-srd/magic-items/weapon-abilities/Weeping\|Weeping]]                            | +80     |
-| 51–65 | [[rangoric-srd/magic-items/weapon-abilities/Burning (Arms & Armor)\|Burning]]             | +90     |
+| 51–65 | [[rangoric-srd/magic-items/weapon-abilities/Burning (Alternate)\|Burning]]                | +90     |
 | 66–75 | [[rangoric-srd/magic-items/weapon-abilities/Substance-Laced\|Laced, Substance]]           | +1,000  |
 | 76–80 | [[rangoric-srd/magic-items/weapon-abilities/Iconic\|Iconic]]                              | +2,000  |
 | 81–86 | [[rangoric-srd/magic-items/armor-abilities/Imprinted (Armor Special Ability)\|Imprinted]] | +2,000  |
@@ -71,7 +71,7 @@ _This is an optional set of random tables._ They roll among the special abilitie
 | 36    | [[rangoric-srd/magic-items/weapon-abilities/Forceful\|Forceful]]                                         | +1                  |
 | 37–40 | [[rangoric-srd/magic-items/weapon-abilities/Frost\|Frost]]                                               | +1                  |
 | 41–43 | [[rangoric-srd/magic-items/armor-abilities/Ghost Touch (Armor Special Ability)\|Ghost Touch]]            | +1                  |
-| 44    | [[rangoric-srd/magic-items/weapon-abilities/Impact (Arms & Armor)\|Impact]]                              | +1                  |
+| 44    | [[rangoric-srd/magic-items/weapon-abilities/Impact (Alternate)\|Impact]]                                 | +1                  |
 | 45    | [[rangoric-srd/magic-items/armor-abilities/Inspiration (Armor Special Ability)\|Inspiration]]            | +1                  |
 | 46    | [[rangoric-srd/magic-items/weapon-abilities/Intense\|Intense]]                                           | +1                  |
 | 47–48 | [[rangoric-srd/magic-items/weapon-abilities/Invisible\|Invisible]]                                       | +1                  |
@@ -97,7 +97,7 @@ _This is an optional set of random tables._ They roll among the special abilitie
 | 79–80 | [[rangoric-srd/magic-items/weapon-abilities/Shock\|Shock]]                                               | +1                  |
 | 81    | [[rangoric-srd/magic-items/weapon-abilities/Silent\|Silent]]                                             | +1                  |
 | 82–83 | [[rangoric-srd/magic-items/weapon-abilities/Sneak Attack\|Sneak Attack]]                                 | +1                  |
-| 84–85 | [[rangoric-srd/magic-items/armor-abilities/Spell Storing (Arms & Armor)\|Spell Storing]]                 | +1                  |
+| 84–85 | [[rangoric-srd/magic-items/armor-abilities/Spell Storing (Armor Special Ability)\|Spell Storing]]        | +1                  |
 | 86    | [[rangoric-srd/magic-items/weapon-abilities/Spelltouch\|Spelltouch]]                                     | +1                  |
 | 87    | [[rangoric-srd/magic-items/weapon-abilities/Spiritual\|Spiritual]]                                       | +1                  |
 | 88    | [[rangoric-srd/magic-items/weapon-abilities/Splintering\|Splintering]]                                   | +1                  |
@@ -150,7 +150,7 @@ _This is an optional set of random tables._ They roll among the special abilitie
 | 71–72 | [[rangoric-srd/magic-items/armor-abilities/Solace (Armor Special Ability)\|Solace]]                      | +2                  |
 | 73–74 | [[rangoric-srd/magic-items/armor-abilities/Dark Solace (Armor Special Ability)\|Solace, Dark]]           | +2                  |
 | 75–76 | [[rangoric-srd/magic-items/weapon-abilities/Soul Burner\|Soul Burner]]                                   | +2                  |
-| 77–78 | [[rangoric-srd/magic-items/weapon-abilities/Sundering (Arms & Armor)\|Sundering]]                        | +2                  |
+| 77–78 | [[rangoric-srd/magic-items/weapon-abilities/Sundering (Alternate)\|Sundering]]                           | +2                  |
 | 79–80 | [[rangoric-srd/magic-items/weapon-abilities/Threnody\|Threnody]]                                         | +2                  |
 | 81–82 | [[rangoric-srd/magic-items/armor-abilities/Totem (Armor Special Ability)\|Totem]]                        | +2                  |
 | 83–84 | [[rangoric-srd/magic-items/weapon-abilities/Tracking\|Tracking]]                                         | +2                  |
@@ -178,7 +178,7 @@ _This is an optional set of random tables._ They roll among the special abilitie
 | 33–35 | [[rangoric-srd/magic-items/weapon-abilities/Counterstrike\|Counterstrike]]                                          | +3                  |
 | 36–38 | [[rangoric-srd/magic-items/weapon-abilities/Death Oath\|Death Oath]]                                                | +3                  |
 | 39–41 | [[rangoric-srd/magic-items/armor-abilities/Deflecting (Armor Special Ability)\|Deflecting]]                         | +3                  |
-| 42–45 | [[rangoric-srd/magic-items/weapon-abilities/Dispelling (Arms & Armor)\|Dispelling]]                                 | +3                  |
+| 42–45 | [[rangoric-srd/magic-items/weapon-abilities/Dispelling (Alternate)\|Dispelling]]                                    | +3                  |
 | 46–48 | [[rangoric-srd/magic-items/armor-abilities/Echotrapping (Armor Special Ability)\|Echotrapping]]                     | +3                  |
 | 49–52 | [[rangoric-srd/magic-items/armor-abilities/Firm Faith (Armor Special Ability)\|Firm Faith]]                         | +3                  |
 | 53–55 | [[rangoric-srd/magic-items/weapon-abilities/Ghoulish\|Ghoulish]]                                                    | +3                  |
@@ -430,7 +430,7 @@ _This is an optional set of random tables._ They roll among the special abilitie
 | 17–19 | [[rangoric-srd/magic-items/armor-abilities/Clamping (Armor Special Ability)\|Clamping]]                      | +1                  |
 | 20–22 | [[rangoric-srd/magic-items/armor-abilities/Confidence\|Confidence]]                                          | +1                  |
 | 23–25 | [[rangoric-srd/magic-items/armor-abilities/Echotrapping (Armor Special Ability)\|Echotrapping]]              | +1                  |
-| 26–28 | [[rangoric-srd/magic-items/armor-abilities/Floating (Arms & Armor)\|Floating]]                               | +1                  |
+| 26–28 | [[rangoric-srd/magic-items/armor-abilities/Floating (Alternate)\|Floating]]                                  | +1                  |
 | 29–31 | [[rangoric-srd/magic-items/armor-abilities/Fortification\|Fortification, light]]                             | +1                  |
 | 32–34 | [[rangoric-srd/magic-items/armor-abilities/Gaze Protection\|Gaze Protection]]                                | +1                  |
 | 35–37 | [[rangoric-srd/magic-items/armor-abilities/Grace (Armor Special Ability)\|Grace]]                            | +1                  |
@@ -448,7 +448,7 @@ _This is an optional set of random tables._ They roll among the special abilitie
 | 76–78 | [[rangoric-srd/magic-items/armor-abilities/Reduction\|Reduction]]                                            | +1                  |
 | 79–81 | [[rangoric-srd/magic-items/armor-abilities/Rust Proof\|Rust Proof]]                                          | +1                  |
 | 82–84 | [[rangoric-srd/magic-items/armor-abilities/Slashing Resistance\|Slashing Resistance]]                        | +1                  |
-| 85–87 | [[rangoric-srd/magic-items/armor-abilities/Spell Storing (Arms & Armor)\|Spell Storing]]                     | +1                  |
+| 85–87 | [[rangoric-srd/magic-items/armor-abilities/Spell Storing (Armor Special Ability)\|Spell Storing]]            | +1                  |
 | 88–90 | [[rangoric-srd/magic-items/armor-abilities/Spellcasting\|Spellcasting (light)]]                              | +1                  |
 | 91–93 | [[rangoric-srd/magic-items/armor-abilities/Storing (Armor Special Ability)\|Storing]]                        | +1                  |
 | 94–96 | [[rangoric-srd/magic-items/armor-abilities/Water Breathing (Armor Special Ability)\|Water Breathing]]        | +1                  |
