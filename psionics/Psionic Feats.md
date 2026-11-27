@@ -27,10 +27,7 @@ tags: [rangoric, rangoric/overview]
 [[rangoric-srd/feats/Craft Dorje|Craft Dorje]]  
 [[rangoric-srd/feats/Craft Psicrown|Craft Psicrown]]
 
-[[rangoric-srd/feats/Craft Psionic Arms and Armor|Craft Psionic Arms and]]
-
-[[rangoric-srd/feats/Craft Psionic Arms and Armor|Armor]]
-
+[[rangoric-srd/feats/Craft Psionic Arms and Armor|Craft Psionic Arms and Armor]]  
 [[rangoric-srd/feats/Craft Psionic Construct|Craft Psionic Construct]]  
 [[rangoric-srd/feats/Craft Universal Item|Craft Universal Item]]  
 [[rangoric-srd/feats/Deadly Precision|Deadly Precision]]  
@@ -47,10 +44,7 @@ tags: [rangoric, rangoric/overview]
 [[rangoric-srd/feats/Ghost Attack|Ghost Attack]]  
 [[rangoric-srd/feats/Greater Manyshot|Greater Manyshot]]  
 [[rangoric-srd/feats/Greater Power Penetration|Greater Power Penetration]]  
-[[rangoric-srd/feats/Greater Power Penetration|Greater Power]]
-
-[[rangoric-srd/feats/Greater Power Penetration|Specialization]]
-
+[[rangoric-srd/feats/Greater Power Specialization|Greater Power Specialization]]  
 [[rangoric-srd/feats/Greater Psionic Endowment|Greater Psionic Endowment]]  
 [[rangoric-srd/feats/Greater Psionic Fist|Greater Psionic Fist]]  
 [[rangoric-srd/feats/Greater Psionic Shot|Greater Psionic Shot]]  

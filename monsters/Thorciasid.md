@@ -53,7 +53,7 @@ Defenses: Fort 31, Ref 35, Will 35    
 Abilities: Str 22, Dex 38, Con 34, Int 25, Wis 29, Cha 31      
 Skills: [[rangoric-srd/skills/Athletics|Athletics]] +38 (+54 jumping), [[rangoric-srd/skills/Deception|Deception]] +42, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +46, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +41, [[rangoric-srd/skills/Intimidation|Intimidation]] +42, [[rangoric-srd/skills/Perception|Perception]] +41, [[rangoric-srd/skills/Persuasion|Persuasion]] +42, [[rangoric-srd/skills/Stealth|Stealth]] +46     
 **Unspent Skill Points**: 29
-Feats: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Feats All|Expertise]], [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (forelimb)      
+Feats: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (forelimb)      
 Epic Feats: [[rangoric-srd/feats/Blinding Speed|Blinding Speed]], [[rangoric-srd/feats/Superior Initiative|Superior Initiative]]      
 Climate/Terrain: Any      
 Organization: Solitary, pair, or infestation (4-7)      

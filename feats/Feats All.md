@@ -15,10 +15,7 @@ tags: [rangoric, rangoric/overview]
 
 [[rangoric-srd/feats/Armor Proficiency (Heavy)|Armor Proficiency (Heavy)]]  
 [[rangoric-srd/feats/Armor Proficiency (Light)|Armor Proficiency (Light)]]  
-[[rangoric-srd/feats/Feats All|Armor Proficiency]]
-
-[[rangoric-srd/feats/Feats All|(Medium)]]
-
+[[rangoric-srd/feats/Armor Proficiency (Medium)|Armor Proficiency (Medium)]]  
 [[rangoric-srd/feats/Augment Summoning|Augment Summoning]]  
 [[rangoric-srd/feats/Blind-Fight|Blind-Fight]]  
 [[rangoric-srd/feats/Brew Potion|Brew Potion]]  
@@ -26,10 +23,7 @@ tags: [rangoric, rangoric/overview]
 [[rangoric-srd/feats/Combat Casting|Combat Casting]]  
 [[rangoric-srd/feats/Combat Expertise|Combat Expertise]]  
 [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]]  
-[[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and]]
-
-[[rangoric-srd/feats/Craft Magic Arms and Armor|Armor]]
-
+[[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]]  
 [[rangoric-srd/feats/Craft Rod|Craft Rod]]  
 [[rangoric-srd/feats/Craft Staff|Craft Staff]]
 
@@ -53,10 +47,7 @@ tags: [rangoric, rangoric/overview]
 
 [[rangoric-srd/feats/Greater Spell Penetration|Greater Spell Penetration]]  
 [[rangoric-srd/feats/Greater Two-Weapon Fighting|Greater Two-Weapon Fighting]][[rangoric-srd/feats/Greater Weapon Focus|Greater Weapon Focus]]  
-[[rangoric-srd/feats/Greater Weapon Specialization|Greater Weapon]]
-
-[[rangoric-srd/feats/Greater Weapon Specialization|Specialization]]
-
+[[rangoric-srd/feats/Greater Weapon Specialization|Greater Weapon Specialization]]  
 [[rangoric-srd/feats/Heighten Spell|Heighten Spell]]  
 [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]]  
 [[rangoric-srd/feats/Improved Counterspell|Improved Counterspell]]  

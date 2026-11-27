@@ -124,7 +124,7 @@ Troglodyte characters possess the following racial traits.
 
 - Racial Skills: A troglodyte’s humanoid levels give it skill points equal to 2 x (2 + Int modifier, minimum 1). Its class skills are [[rangoric-srd/skills/Perception|Perception]] and [[rangoric-srd/skills/Stealth|Stealth]]. Troglodytes have a +4 racial bonus on Stealth checks (+8 in rocky or underground surroundings).
 
-- Racial Feats: A troglodyte’s humanoid levels give it one feat. A troglodyte receives [[rangoric-srd/monsters/Monster Feats|Multiattack]] as a bonus feat.
+- Racial Feats: A troglodyte’s humanoid levels give it one feat. A troglodyte receives [[rangoric-srd/feats/Multiattack|Multiattack]] as a bonus feat.
 
 - \+6 natural armor bonus.
 

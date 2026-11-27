@@ -31,7 +31,7 @@ tags: [rangoric, rangoric/overview]
 
 - Scent: Its antennae give a dromite the scent ability. A dromite can detect opponents by scent within 30 feet. If the opponent is upwind, the range increases to 60 feet; if downwind, it drops to 15 feet. Strong scents, such as smoke or rotting garbage, can be detected at twice the ranges noted above. Overpowering scents, such as skunk musk or troglodyte stench, can be detected at triple normal range. When a dromite detects a scent, the exact location of the source is not revealed - only its presence somewhere within range. The dromite can take a move action to note the direction of the scent. Whenever the dromite comes within 5 feet of the source, the dromite pinpoints the source’s location.
 
-- Blind-Fight: Its antennae also give a dromite [[rangoric-srd/feats/Feats All|Blind-Fight]] as a bonus feat.
+- Blind-Fight: Its antennae also give a dromite [[rangoric-srd/feats/Blind-Fight|Blind-Fight]] as a bonus feat.
 
 - Compound Eyes: This feature of its anatomy gives a dromite a +2 racial bonus on [[rangoric-srd/skills/Perception|Perception]] checks.
 

@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/monster]
 
 **Huge** [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aquatic|Aquatic]], Psionic)  
 **Special Attacks:** Psi-like abilities, slime  
-**Feats:** [[rangoric-srd/feats/Feats All|Combat Manifestation]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+**Feats:** [[rangoric-srd/feats/Combat Manifestation|Combat Manifestation]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
 
 #### Combat
 

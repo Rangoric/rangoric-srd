@@ -61,4 +61,4 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: -
 - **Level Adjustment**: -
 
-A greater stone golem is 18 feet tall and weighs around 32,000 pounds. It resembles a typical stone golem in all respects, except that its slow ability attacks at +21 vs Will. CL 14th; [[rangoric-srd/feats/Feats All|Craft Construct]], [[rangoric-srd/spells/Antimagic Field|antimagic field]], [[rangoric-srd/spells/Geas-Quest|geas/quest]], [[rangoric-srd/spells/Slow|slow]], [[rangoric-srd/spells/Symbol of Stunning|symbol of stunning]], caster must be at least 14th level; Price 196,000 gp; Cost 105,000 gp + 7,640 XP.
+A greater stone golem is 18 feet tall and weighs around 32,000 pounds. It resembles a typical stone golem in all respects, except that its slow ability attacks at +21 vs Will. CL 14th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], [[rangoric-srd/spells/Antimagic Field|antimagic field]], [[rangoric-srd/spells/Geas-Quest|geas/quest]], [[rangoric-srd/spells/Slow|slow]], [[rangoric-srd/spells/Symbol of Stunning|symbol of stunning]], caster must be at least 14th level; Price 196,000 gp; Cost 105,000 gp + 7,640 XP.

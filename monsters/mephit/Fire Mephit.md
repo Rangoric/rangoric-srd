@@ -55,7 +55,7 @@ tags: [rangoric, rangoric/monster]
 - **Defenses**: Fort 13, Ref 14, Will 13
 - **Abilities**: Str 10, Dex 13, Con 10, Int 6, Wis 11, Cha 15
 - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +8, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +7, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6 (+9 with bindings), [[rangoric-srd/skills/Imitation|Imitation]] +4 (+6 acting), [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Persuasion|Persuasion]] +2, [[rangoric-srd/skills/Stealth|Stealth]] +11
-- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Feats All|Improved Initiative]]
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
 - **Environment**: Elemental Plane of Fire
 - **Organization**: Solitary (1), gang (2–4 mephits of mixed types), or mob (5–12 mephits of mixed types)
 - **Challenge Rating**: 3

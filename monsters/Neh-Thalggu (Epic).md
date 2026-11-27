@@ -56,7 +56,7 @@ Defenses: Fort 26, Ref 24, Will 33    
 Abilities: Str -, Dex 19, Con 22, Int 20, Wis 20, Cha 17      
 Skills: [[rangoric-srd/skills/Arcana|Arcana]] +40, [[rangoric-srd/skills/Investigation|Investigation]] +40, [[rangoric-srd/skills/Mysticism|Mysticism]] +40, [[rangoric-srd/skills/Stealth|Stealth]] +39, [[rangoric-srd/skills/Theology|Theology]] +40     
 **Unspent Skill Points**: 96
-Feats: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Feats All|Expertise]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Maximize Spell|Maximize Spell]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Spring Attack|Spring Attack]]      
+Feats: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Maximize Spell|Maximize Spell]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Spring Attack|Spring Attack]]      
 Epic Feats: [[rangoric-srd/feats/Superior Initiative|Superior Initiative]]      
 Climate/Terrain: Any      
 Organization: Solitary     

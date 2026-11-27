@@ -29,6 +29,10 @@
 - Base Attack/Grapple: 3.5's "Base Attack/Grapple" line (any spacing or bold) and its `base-attack-grapple` key
   are gone (Adopting CMB and CMD; Atropal and Chichimec CMB, 2026-11-27): a stat block has Base Attack, CMB
   and CMD instead (OLD_GRAPPLE).
+- Feat links: a link labeled with a feat's name points to that feat's note, not to Feats All, another feat overview
+  or another feat (or monsters/Monster Feats), and a feat link isn't split in two ("[[X|Craft Magic Arms and]]" then
+  "[[X|Armor]]"). A label may add a tag like " (E)", and a replaced feat's old name may point to the feat that
+  replaced it. Checked like links (Feat Links by Name, FN 1, 2026-11-27).
 - Marks: a note marked `sweep: failing` lists its problems in `sweep-issues`; a listed problem is a warning, one
   not listed still fails. A marked note with no problems left, or a listed issue that's gone, is a warning. A note
   added by the change (--added) can't be marked.
@@ -117,6 +121,48 @@ def split(text):
     if end == -1:
         return None, text, 'frontmatter has no closing ---'
     return text[4:end], text[end + 4:], None
+
+
+# ---- feat links (Feat Links by Name, FN 1) ----
+
+FEAT_LINK = re.compile(r'\[\[([^\]|\\#]+)(#[^\]|\\]*)?(\\?\|)([^\]]*)\]\]')
+FEAT_TAG = re.compile(r'^(.*?)( \([A-Z]{1,3}\))?$')   # Feats Compiled's "(E)", "(P)"...
+feat_names, feat_replaced = set(), set()
+for f in files:
+    if f.startswith('feats/') and f.endswith('.md'):
+        n = f.rsplit('/', 1)[-1][:-3]
+        head = read(f).split('\n---', 1)[0]
+        (feat_replaced if re.search(r'^replaced-by:', head, re.M) else feat_names).add(n)
+feat_overviews = {n for n in feat_names if n.startswith('Feats ')} | {'Feats All'}
+
+
+def feat_link_problems(body):
+    """Links that name a feat but don't point to its note, as the plan's fn_scan.py finds them."""
+    out = []
+    links = [(n, m) for n, line in enumerate(body.split('\n')) for m in FEAT_LINK.finditer(line)]
+    used = set()
+    for k in range(len(links) - 1):
+        (n1, a), (n2, b) = links[k], links[k + 1]
+        if a.group(1) == b.group(1) and a.group(1).startswith(PREFIX + 'feats/') and n2 - n1 <= 2:
+            name = a.group(4) + ' ' + b.group(4)
+            if name in feat_names and name not in (a.group(4), b.group(4)):
+                out.append(a.group(0) + ' ' + b.group(0))
+                used |= {id(a), id(b)}
+    for _, m in links:
+        if id(m) in used:
+            continue
+        tgt, label = m.group(1), m.group(4)
+        base = tgt.rsplit('/', 1)[-1]
+        name = FEAT_TAG.match(label).group(1)
+        to_feats = tgt.startswith(PREFIX + 'feats/')
+        if tgt == PREFIX + 'feats/Feats All' and label != 'Feats All' and (name in feat_names or name in feat_replaced):
+            out.append(m.group(0))
+        elif to_feats and base in feat_overviews and name in feat_names and name != base:
+            out.append(m.group(0))
+        elif (to_feats or tgt == PREFIX + 'monsters/Monster Feats') and name in feat_names and name != base \
+                and name not in feat_overviews and not m.group(2):
+            out.append(m.group(0))
+    return [f"a feat link that doesn't point to the feat it names: {x}" for x in out]
 
 
 def strip_code(body):
@@ -492,6 +538,7 @@ for rel in sorted(f for f in files if f.endswith('.md')):
 
     if rel == 'Changelog.md':
         continue
+    links.extend(f'{rel}: {p}' for p in feat_link_problems(strip_code(body)))
     body = strip_code(body)
     for m in WIKI.finditer(body):
         t = m.group(1)

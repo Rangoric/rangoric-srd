@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, epic]
 
 # Perfect Multiweapon Fighting
 
-Prerequisite: Dex 25, three or more hands, [[rangoric-srd/monsters/Monster Feats|Greater Multiweapon Fighting]], [[rangoric-srd/feats/Multiweapon Fighting|Multiweapon Fighting]].
+Prerequisite: Dex 25, three or more hands, [[rangoric-srd/feats/Greater Multiweapon Fighting|Greater Multiweapon Fighting]], [[rangoric-srd/feats/Multiweapon Fighting|Multiweapon Fighting]].
 
 Benefit: The character can make as many attacks with each extra weapon as with his or her primary weapon, using the same base attack bonus. The character still takes the normal penalties for fighting with two weapons.
 

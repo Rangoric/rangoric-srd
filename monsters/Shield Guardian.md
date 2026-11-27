@@ -84,7 +84,7 @@ A shield guardian is built from wood, bronze, stone, and steel. The materials co
 
 A shield guardian with more than 15 Hit Dice can be created, but each additional Hit Die adds +5,000 gp to the market price, and the price increases by +20,000 gp if the creature’s size increases to Huge, modifying the cost to create accordingly.
 
-CL 15th; [[rangoric-srd/feats/Feats All|Craft Construct]], [[rangoric-srd/spells/Limited Wish|limited wish]], [[rangoric-srd/spells/Discern Location|discern location]], [[rangoric-srd/spells/Shield|shield]], [[rangoric-srd/spells/Shield Other|shield other]], caster must be at least 15th level; Price 120,000 gp; Cost 65,000 gp + 4,600 XP.
+CL 15th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], [[rangoric-srd/spells/Limited Wish|limited wish]], [[rangoric-srd/spells/Discern Location|discern location]], [[rangoric-srd/spells/Shield|shield]], [[rangoric-srd/spells/Shield Other|shield other]], caster must be at least 15th level; Price 120,000 gp; Cost 65,000 gp + 4,600 XP.
 
 ### Amulet
 
