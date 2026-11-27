@@ -28,7 +28,6 @@ alignment: "Usually chaotic evil"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/ghoul/Ghoul|Ghoul]]"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/monsters/Ghoul Commander|Ghoul Commander (PF1)]]"
 status: draft

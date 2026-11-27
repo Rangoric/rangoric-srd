@@ -27,7 +27,6 @@ treasure: "Standard"
 alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Nightmare Creature|Nightmare Creature (PF1)]]"
   - "[[path srd 3.5/monsters/Nightmare Creature#Creating a Nightmare Creature|Creating a Nightmare Creature (PF1)]]"

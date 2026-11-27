@@ -1,7 +1,6 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-book: "Bestiary 4, Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Clockwork Dragon (Monster)|Clockwork Dragon (Monster) (PF1)]]"
   - "[[path srd 3.5/monsters/Clockwork Goliath (Monster)|Clockwork Goliath (Monster) (PF1)]]"

@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Monsters"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/rules/monster-codex/appendix/Modifying Monsters|Modifying Monsters (PF1)]]"
 status: draft

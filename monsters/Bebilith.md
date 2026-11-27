@@ -28,7 +28,6 @@ treasure: "Standard"
 alignment: "Always chaotic evil"
 advancement: "13–18 HD (Huge); 19–36 HD (Gargantuan)"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Bebilith|Bebilith (PF1)]]"
   - "[[fantasy srd 3.5/monsters/demon/Bebilith|Bebilith (3.5)]]"

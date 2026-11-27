@@ -4,7 +4,6 @@ section: "Monsters"
 aliases: ["Improved Grab"]
 ability-type: ["Ex"]
 kind: ["attack rider"]
-book: "Bestiary"
 based-on:
   - "[[fantasy srd 3.5/monsters/Monster Types, Sybtypes, and Special Abilities|Monster Types, Sybtypes, and Special Abilities (3.5)]]"
   - "[[path srd 3.5/rules/bestiary/Universal Monster Rules#Grab (Ex)|Grab (PF1)]]"

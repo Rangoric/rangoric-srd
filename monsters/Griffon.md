@@ -27,7 +27,6 @@ treasure: "Incidental"
 alignment: "Always neutral"
 advancement: "8–10 HD (Large); 11–21 HD (Huge)"
 level-adjustment: "+3 (cohort)"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Griffon (Monster)|Griffon (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Griffon|Griffon (3.5)]]"

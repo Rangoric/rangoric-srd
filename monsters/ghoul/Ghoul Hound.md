@@ -28,7 +28,6 @@ alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/ghoul/Ghoul|Ghoul]]"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/monsters/Ghoul Hound|Ghoul Hound (PF1)]]"
 status: draft

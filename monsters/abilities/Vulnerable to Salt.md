@@ -3,7 +3,6 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Ex"]
 kind: ["quality", "weakness"]
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Alpluachra|Alpluachra (PF1)]]"
 status: draft

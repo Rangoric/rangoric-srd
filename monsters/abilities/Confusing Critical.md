@@ -3,7 +3,6 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Sp"]
 kind: ["special attack"]
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/monsters/Abrakarn Viper (Monster)|Abrakarn Viper (Monster) (PF1)]]"
 status: draft

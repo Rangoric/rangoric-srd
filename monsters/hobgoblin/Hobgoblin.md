@@ -28,7 +28,6 @@ treasure: "NPC Gear (studded leather armor, light steel shield, longsword, longb
 alignment: "Usually lawful evil"
 advancement: "By character class"
 level-adjustment: "+1"
-book: ["Bestiary", "Monster Codex"]
 based-on:
   - "[[path srd 3.5/monsters/Hobgoblin|Hobgoblin (PF1)]]"
   - "[[path srd 3.5/rules/monster-codex/hobgoblins/Hobgoblins (Hobgoblins)|Hobgoblins, society (PF1)]]"

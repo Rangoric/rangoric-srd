@@ -27,7 +27,6 @@ treasure: "None"
 alignment: "Usually neutral"
 advancement: "12–22 HD (Huge)"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Elephant (Monster)|Elephant (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Elephant|Elephant (3.5)]]"

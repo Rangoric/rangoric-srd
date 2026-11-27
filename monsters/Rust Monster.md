@@ -27,7 +27,6 @@ treasure: "Incidental (no metal treasure)"
 alignment: "Always neutral"
 advancement: "6–8 HD (Medium); 9–15 HD (Large)"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Rust Monster|Rust Monster (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Rust Monster|Rust Monster (3.5)]]"

@@ -1,7 +1,6 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-book: "Bestiary 4"
 based-on:
   - "[[fantasy srd 3.5/monsters/formian/Formian|Formian (3.5)]]"
   - "[[path srd 3.5 foundry/monster-abilities/Formian Traits|Formian Traits (PF1 Foundry)]]"

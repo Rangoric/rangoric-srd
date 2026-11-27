@@ -28,7 +28,6 @@ alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/ooze/Ooze|Ooze]]"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Slime Mold|Slime Mold (PF1)]]"
 status: draft

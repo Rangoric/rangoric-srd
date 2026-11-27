@@ -3,7 +3,6 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Ex"]
 kind: ["special attack"]
-book: "Bestiary"
 based-on:
   - "[[fantasy srd 3.5/monsters/Monster Types, Sybtypes, and Special Abilities|Monster Types, Sybtypes, and Special Abilities (3.5)]]"
   - "[[path srd 3.5/rules/bestiary/Universal Monster Rules#Constrict (Ex)|Constrict (PF1)]]"

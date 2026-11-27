@@ -28,7 +28,6 @@ alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/dinosaur/Dinosaur|Dinosaur]]"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Dinosaur, Velociraptor|Dinosaur, Velociraptor (PF1)]]"
 status: draft

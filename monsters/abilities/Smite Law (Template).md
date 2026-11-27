@@ -3,7 +3,6 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Su"]
 kind: ["attack"]
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5 foundry/template-abilities/Smite Law|Smite Law (PF1 Foundry)]]"
   - "[[path srd 3.5/rules/bestiary/monster-advancement/Simple Templates#Entropic Creature|Simple Templates (PF1)]]"

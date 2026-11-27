@@ -1,7 +1,6 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/rules/bestiary-4/Kaiju (Bestiary 4)|Kaiju (PF1)]]"
 status: draft

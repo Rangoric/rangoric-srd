@@ -27,7 +27,6 @@ treasure: "Incidental"
 alignment: "Always neutral"
 advancement: "4 HD (Large); 5–9 HD (Huge)"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Ankheg|Ankheg (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Ankheg|Ankheg (3.5)]]"

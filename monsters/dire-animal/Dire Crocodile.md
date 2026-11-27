@@ -28,7 +28,6 @@ alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/dire-animal/Dire Animal|Dire Animal]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Crocodile, Dire|Crocodile, Dire (PF1)]]"
 status: draft

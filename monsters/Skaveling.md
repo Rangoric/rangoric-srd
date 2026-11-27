@@ -27,7 +27,6 @@ treasure: "Incidental"
 alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Bat, Skaveling|Bat, Skaveling (PF1)]]"
 status: draft

@@ -28,7 +28,6 @@ treasure: "NPC gear"
 alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Penanggalen|Penanggalen (PF1)]]"
   - "[[path srd 3.5 foundry/monster-templates/Penanggalen|Penanggalen (PF1 Foundry)]]"

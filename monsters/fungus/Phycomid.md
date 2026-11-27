@@ -28,7 +28,6 @@ alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/fungus/Fungus|Fungus]]"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Phycomid|Phycomid (PF1)]]"
 status: draft

@@ -29,7 +29,6 @@ alignment: "Often chaotic evil"
 advancement: "By character class"
 level-adjustment: "+4"
 group: "[[rangoric-srd/monsters/giant/Giant|Giant]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Giant, Hill|Giant, Hill (PF1)]]"
   - "[[fantasy srd 3.5/monsters/giant/Hill Giant|Hill Giant (3.5)]]"

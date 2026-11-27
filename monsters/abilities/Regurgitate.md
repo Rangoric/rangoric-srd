@@ -3,7 +3,6 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Ex"]
 kind: ["special attack"]
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Maggot, Giant|Maggot, Giant (PF1)]]"
 status: draft

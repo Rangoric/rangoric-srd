@@ -27,7 +27,6 @@ treasure: "None"
 alignment: "Usually lawful neutral"
 advancement: "5–8 HD (Large); 9–12 HD (Huge)"
 level-adjustment: "+2 (cohort)"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Owl, Giant|Owl, Giant (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Owl, Giant|Owl, Giant (3.5)]]"

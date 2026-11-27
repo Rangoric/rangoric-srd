@@ -28,7 +28,6 @@ treasure: "Standard"
 alignment: "Always neutral evil"
 advancement: "13–24 HD (Large); 25–36 HD (Huge)"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Devourer|Devourer (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Devourer|Devourer (3.5)]]"

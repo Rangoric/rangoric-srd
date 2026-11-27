@@ -28,7 +28,6 @@ alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/monstrous-spider/Monstrous Spider|Monstrous Spider]]"
-book: "Bestiary"
 aliases: ["Giant Spider"]
 based-on:
   - "[[path srd 3.5/monsters/Spider, Giant (Monster)|Spider, Giant (PF1)]]"

@@ -1,7 +1,6 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-book: "Bestiary"
 group: "[[rangoric-srd/monsters/simple-templates/Simple Templates|Simple Templates]]"
 based-on:
   - "[[path srd 3.5/rules/bestiary/monster-advancement/Simple Templates#Advanced Creature|Simple Templates (PF1)]]"

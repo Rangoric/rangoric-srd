@@ -29,7 +29,6 @@ alignment: "Lawful good"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/elf/Elf|Elf]]"
-book: "NPC Codex"
 based-on:
   - "[[path srd 3.5/monsters/Elven Honorblade|Elven Honorblade (PF1)]]"
 status: draft

@@ -29,7 +29,6 @@ alignment: "Lawful good"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/human/Human|Human]]"
-book: "NPC Codex"
 based-on:
   - "[[path srd 3.5/monsters/Desert Protector|Desert Protector (PF1)]]"
 status: draft

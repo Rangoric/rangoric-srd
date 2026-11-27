@@ -29,7 +29,6 @@ alignment: "Usually neutral evil"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/goblin/Goblin|Goblin]]"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/monsters/Goblin Commando|Goblin Commando (PF1)]]"
 status: draft

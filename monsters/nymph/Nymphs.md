@@ -1,7 +1,6 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-book: "Bestiary"
 based-on:
   - "[[fantasy srd 3.5/monsters/Nymph|Nymph (3.5)]]"
   - "[[path srd 3.5/monsters/Nymph|Nymph (PF1)]]"

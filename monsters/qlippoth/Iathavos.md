@@ -28,7 +28,6 @@ treasure: "Double"
 alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Qlippoth, Iathavos|Qlippoth, Iathavos (PF1)]]"
 status: draft

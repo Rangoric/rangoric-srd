@@ -28,7 +28,6 @@ alignment: "Usually chaotic evil"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/serpentfolk/Serpentfolk|Serpentfolk]]"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/monsters/Serpentfolk High Priest|Serpentfolk High Priest (PF1)]]"
 status: draft

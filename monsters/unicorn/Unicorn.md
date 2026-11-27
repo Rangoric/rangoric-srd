@@ -27,7 +27,6 @@ treasure: "None"
 alignment: "Always chaotic good"
 advancement: "5-8 HD (Large)"
 level-adjustment: "+4 (cohort)"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Unicorn|Unicorn (PF1)]]"
   - "[[fantasy srd 3.5/monsters/unicorn/Unicorn|Unicorn (3.5)]]"

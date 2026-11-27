@@ -28,7 +28,6 @@ alignment: "Usually chaotic neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/naga/Naga|Naga]]"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Naga, Lunar|Naga, Lunar (PF1)]]"
 status: draft

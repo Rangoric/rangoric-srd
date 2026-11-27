@@ -27,7 +27,6 @@ treasure: "Incidental"
 alignment: "Always neutral"
 advancement: "3–4 HD (Medium); 5–6 HD (Large)"
 level-adjustment: "—"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Phantom Fungus|Phantom Fungus (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Phantom Fungus|Phantom Fungus (3.5)]]"

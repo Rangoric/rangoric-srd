@@ -1,7 +1,6 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-book: "Bestiary 2, Bestiary 3, Bestiary 4, Bestiary 5"
 status: draft
 change: new
 pi-review: 2026-11-24

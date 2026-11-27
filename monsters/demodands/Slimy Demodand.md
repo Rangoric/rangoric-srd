@@ -29,7 +29,6 @@ alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/demodands/Demodand|Demodand]]"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Demodand, Slimy|Demodand, Slimy (PF1)]]"
 status: draft

@@ -28,7 +28,6 @@ treasure: "NPC gear (+1 breastplate, heavy steel shield, +2 longsword, mwk light
 alignment: "Usually lawful evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Bodythief|Bodythief (PF1)]]"
   - "[[path srd 3.5 foundry/monster-templates/Pod-Spawned|Pod-Spawned (PF1 Foundry)]]"

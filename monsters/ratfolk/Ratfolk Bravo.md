@@ -29,7 +29,6 @@ alignment: "Usually neutral"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/ratfolk/Ratfolk|Ratfolk]]"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/monsters/Ratfolk Bravo|Ratfolk Bravo (PF1)]]"
 status: draft

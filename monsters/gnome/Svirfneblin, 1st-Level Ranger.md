@@ -29,7 +29,6 @@ alignment: "Usually neutral"
 advancement: "By character class"
 level-adjustment: "+1"
 group: "[[rangoric-srd/monsters/gnome/Gnome|Gnome]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Svirfneblin (Monster)|Svirfneblin (PF1)]]"
   - "[[fantasy srd 3.5/monsters/gnome/Svirfneblin, 1st-Level Warrior|Svirfneblin, 1st-Level Warrior (3.5)]]"

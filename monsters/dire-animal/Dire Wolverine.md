@@ -28,7 +28,6 @@ alignment: "Always neutral"
 advancement: "6–15 HD (Large)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/dire-animal/Dire Animal|Dire Animal]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Wolverine, Dire|Wolverine, Dire (PF1)]]"
   - "[[fantasy srd 3.5/monsters/dire-animal/Dire Wolverine|Dire Wolverine (3.5)]]"

@@ -28,7 +28,6 @@ alignment: "Usually lawful neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/thriae/Thriae|Thriae]]"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Thriae Queen|Thriae Queen (PF1)]]"
 status: draft

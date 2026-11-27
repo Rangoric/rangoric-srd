@@ -27,7 +27,6 @@ treasure: "None"
 alignment: "Usually neutral"
 advancement: "4–5 HD (Medium)"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Crocodile|Crocodile (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Crocodile|Crocodile (3.5)]]"

@@ -1,7 +1,6 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Fetchlings#Shadow Creature (CR +1)|Fetchlings, Shadow Creature (PF1)]]"
   - "[[path srd 3.5 foundry/monster-templates/Shadow Creature|Shadow Creature (PF1 Foundry)]]"

@@ -29,7 +29,6 @@ alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/lycanthrope/Lycanthrope|Lycanthrope]]"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Werebat (Human Form)|Werebat (Human Form) (PF1)]]"
 status: draft

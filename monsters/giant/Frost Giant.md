@@ -29,7 +29,6 @@ alignment: "Often chaotic evil"
 advancement: "By character class"
 level-adjustment: "+4"
 group: "[[rangoric-srd/monsters/giant/Giant|Giant]]"
-book: ["Bestiary", "Monster Codex"]
 based-on:
   - "[[path srd 3.5/monsters/Giant, Frost|Giant, Frost (PF1)]]"
   - "[[path srd 3.5/rules/monster-codex/frost-giants/Frost Giants (Frost Giants)|Frost Giants, society (PF1)]]"

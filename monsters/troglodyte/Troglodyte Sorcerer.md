@@ -29,7 +29,6 @@ alignment: "Usually chaotic evil"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/troglodyte/Troglodyte|Troglodyte]]"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/monsters/Troglodyte Sorcerer|Troglodyte Sorcerer (PF1)]]"
 status: draft

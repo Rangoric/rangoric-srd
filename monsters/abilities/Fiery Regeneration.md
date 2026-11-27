@@ -3,7 +3,6 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Su"]
 kind: ["defense"]
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Kyrana|Kyrana (PF1)]]"
 status: draft

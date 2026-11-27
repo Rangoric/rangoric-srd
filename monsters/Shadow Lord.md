@@ -1,7 +1,6 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Shadow Creature#Creating a Shadow Lord|Shadow Creature, Shadow Lord (PF1)]]"
   - "[[path srd 3.5 foundry/monster-templates/Shadow Lord|Shadow Lord (PF1 Foundry)]]"

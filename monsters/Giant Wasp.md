@@ -27,7 +27,6 @@ treasure: "None"
 alignment: "Usually neutral"
 advancement: "6–8 HD (Large); 9–15 HD (Huge)"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Wasp, Giant (Monster)|Wasp, Giant (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Giant Wasp|Giant Wasp (3.5)]]"

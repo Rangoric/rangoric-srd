@@ -28,7 +28,6 @@ treasure: "Standard (chain shirt, mwk longsword, longbow with 20 arrows, other t
 alignment: "Usually chaotic good"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Swan Maiden|Swan Maiden (PF1)]]"
 status: draft

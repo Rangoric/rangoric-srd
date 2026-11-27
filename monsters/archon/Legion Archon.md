@@ -28,7 +28,6 @@ treasure: "Standard (masterwork full plate, other treasure)"
 alignment: "Usually lawful good"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Archon, Legion|Archon, Legion (PF1)]]"
 status: draft

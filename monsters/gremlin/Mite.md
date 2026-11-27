@@ -28,7 +28,6 @@ alignment: "Usually lawful evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/gremlin/Gremlins|Gremlins]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Mite|Mite (PF1)]]"
 status: draft

@@ -1,7 +1,6 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-book: "Bestiary 2, Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Soulbound Doll (Monster)|Soulbound Doll (Monster) (PF1)]]"
   - "[[path srd 3.5/monsters/Soulbound Mannequin|Soulbound Mannequin (PF1)]]"

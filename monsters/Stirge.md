@@ -27,7 +27,6 @@ treasure: "None"
 alignment: "Always neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Stirge (Monster)|Stirge (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Stirge|Stirge (3.5)]]"

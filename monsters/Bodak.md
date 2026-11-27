@@ -28,7 +28,6 @@ treasure: "None"
 alignment: "Always chaotic evil"
 advancement: "10–13 HD (Medium); 14–27 HD (Large)"
 level-adjustment: "—"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Bodak|Bodak (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Bodak|Bodak (3.5)]]"

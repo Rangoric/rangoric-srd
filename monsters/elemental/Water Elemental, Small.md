@@ -29,7 +29,6 @@ alignment: "Usually neutral"
 advancement: "3 HD (Small)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/elemental/Water Elemental|Water Elemental]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Elemental, Water, Small|Elemental, Water, Small (PF1)]]"
   - "[[fantasy srd 3.5/monsters/elemental/Water Elemental, Small|Water Elemental, Small (3.5)]]"

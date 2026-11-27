@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Monsters"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/rules/bestiary/monster-advancement/Adding Class Levels|Adding Class Levels (PF1)]]"
 status: draft

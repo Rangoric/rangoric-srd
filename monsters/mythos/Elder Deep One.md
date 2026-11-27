@@ -28,7 +28,6 @@ treasure: "Triple"
 alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 5"
 based-on:
   - "[[path srd 3.5 foundry/monsters/bestiary-5/Elder Deep One|Elder Deep One (PF1 Foundry)]]"
 status: draft

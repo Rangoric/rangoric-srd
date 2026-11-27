@@ -27,7 +27,6 @@ treasure: "Standard (rapier, other treasure)"
 alignment: "Usually chaotic neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Atomie|Atomie (PF1)]]"
 status: draft

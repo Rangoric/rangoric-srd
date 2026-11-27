@@ -29,7 +29,6 @@ alignment: "Always lawful good"
 advancement: "13–18 HD (Medium); 19–36 HD (Large)"
 level-adjustment: "+8"
 group: "[[rangoric-srd/monsters/archon/Archon|Archon]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Archon, Trumpet|Archon, Trumpet (PF1)]]"
   - "[[fantasy srd 3.5/monsters/archon/Trumpet Archon|Trumpet Archon (3.5)]]"

@@ -29,7 +29,6 @@ alignment: "Usually lawful evil"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/kobold/Kobold|Kobold]]"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/monsters/Kobold Sniper (Monster)|Kobold Sniper (PF1)]]"
 status: draft

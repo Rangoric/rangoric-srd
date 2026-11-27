@@ -29,7 +29,6 @@ alignment: "Lawful good"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/dwarf/Dwarf|Dwarf]]"
-book: "NPC Codex"
 based-on:
   - "[[path srd 3.5/monsters/Axe Lord|Axe Lord (PF1)]]"
 status: draft

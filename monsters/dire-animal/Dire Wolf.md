@@ -28,7 +28,6 @@ alignment: "Always neutral"
 advancement: "7–18 HD (Large)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/dire-animal/Dire Animal|Dire Animal]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Wolf, Dire|Wolf, Dire (PF1)]]"
   - "[[fantasy srd 3.5/monsters/dire-animal/Dire Wolf|Dire Wolf (3.5)]]"

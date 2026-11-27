@@ -27,7 +27,6 @@ treasure: "Standard (breastplate, heavy steel shield, longsword, spear, other tr
 alignment: "Usually neutral good"
 advancement: "By character class"
 level-adjustment: "+2"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Centaur|Centaur (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Centaur|Centaur (3.5)]]"

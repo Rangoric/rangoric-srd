@@ -3,7 +3,6 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Ex"]
 kind: ["sense"]
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Platypus|Platypus (PF1)]]"
 status: draft

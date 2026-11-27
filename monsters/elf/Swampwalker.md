@@ -29,7 +29,6 @@ alignment: "Chaotic evil"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/elf/Elf|Elf]]"
-book: "NPC Codex"
 based-on:
   - "[[path srd 3.5/monsters/Swampwalker|Swampwalker (PF1)]]"
 status: draft

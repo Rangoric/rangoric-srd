@@ -28,7 +28,6 @@ treasure: ""
 alignment: "Always lawful evil"
 advancement: "8–14 HD (Medium)"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Spectre|Spectre (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Spectre|Spectre (3.5)]]"

@@ -28,7 +28,6 @@ treasure: "Double"
 alignment: "Usually neutral good"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Agathion, Draconal|Agathion, Draconal (PF1)]]"
 status: draft

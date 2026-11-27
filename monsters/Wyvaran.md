@@ -27,7 +27,6 @@ treasure: "NPC gear (spear, scale mail, holy symbol, other treasure)"
 alignment: "Usually lawful neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Wyvaran|Wyvaran (PF1)]]"
 status: draft

@@ -28,7 +28,6 @@ treasure: "Incidental"
 alignment: "Usually neutral"
 advancement: "8–10 HD (Large); 11–21 HD (Huge)"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Mimic|Mimic (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Mimic|Mimic (3.5)]]"

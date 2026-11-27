@@ -29,7 +29,6 @@ alignment: "Always lawful good"
 advancement: "7–9 HD (Medium); 10–18 HD (Large)"
 level-adjustment: "+5"
 group: "[[rangoric-srd/monsters/archon/Archon|Archon]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Archon, Hound|Archon, Hound (PF1)]]"
   - "[[fantasy srd 3.5/monsters/archon/Hound Archon|Hound Archon (3.5)]]"

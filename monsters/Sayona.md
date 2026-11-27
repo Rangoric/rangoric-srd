@@ -27,7 +27,6 @@ treasure: "Standard"
 alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Sayona|Sayona (PF1)]]"
 status: draft

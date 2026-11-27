@@ -3,7 +3,6 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Su"]
 kind: ["special attack"]
-book: "Bestiary 2, Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Charybdis|Charybdis (PF1)]]"
   - "[[path srd 3.5/monsters/Lorelei|Lorelei (PF1)]]"

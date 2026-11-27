@@ -29,7 +29,6 @@ alignment: "Neutral evil"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/halfling/Halfling|Halfling]]"
-book: "NPC Codex"
 based-on:
   - "[[path srd 3.5/monsters/Natural Arcanist|Natural Arcanist (PF1)]]"
 status: draft

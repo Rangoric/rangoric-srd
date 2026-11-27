@@ -29,7 +29,6 @@ alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/lycanthrope/Lycanthrope|Lycanthrope]]"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Wereshark (Human Form)|Wereshark (Human Form) (PF1)]]"
 status: draft

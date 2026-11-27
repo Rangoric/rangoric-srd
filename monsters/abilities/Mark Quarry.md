@@ -3,7 +3,6 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Su"]
 kind: ["special attack"]
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Crawling Hand, Giant|Crawling Hand, Giant (PF1)]]"
   - "[[path srd 3.5/monsters/Crawling Hand|Crawling Hand (PF1)]]"

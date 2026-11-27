@@ -28,7 +28,6 @@ alignment: "Always neutral"
 advancement: "4–6 HD (Medium); 7–9 HD (Large)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/ooze/Ooze|Ooze]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Gray Ooze|Gray Ooze (PF1)]]"
   - "[[fantasy srd 3.5/monsters/ooze/Gray Ooze|Gray Ooze (3.5)]]"

@@ -28,7 +28,6 @@ alignment: "Usually lawful evil"
 advancement: "10–13 HD (Large); 14–27 HD (Huge)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/naga/Naga|Naga]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Naga, Dark|Naga, Dark (PF1)]]"
   - "[[fantasy srd 3.5/monsters/naga/Dark Naga|Dark Naga (3.5)]]"

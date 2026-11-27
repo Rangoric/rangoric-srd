@@ -28,7 +28,6 @@ treasure: "Triple"
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Kami, Jinushigami|Kami, Jinushigami (PF1)]]"
 status: draft

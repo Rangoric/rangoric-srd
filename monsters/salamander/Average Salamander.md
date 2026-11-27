@@ -29,7 +29,6 @@ alignment: "Usually chaotic evil"
 advancement: "8–14 HD (Medium)"
 level-adjustment: "+5"
 group: "[[rangoric-srd/monsters/salamander/Salamander|Salamander]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Salamander|Salamander (PF1)]]"
   - "[[fantasy srd 3.5/monsters/salamander/Average Salamander|Average Salamander (3.5)]]"

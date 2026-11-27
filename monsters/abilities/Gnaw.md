@@ -3,7 +3,6 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Ex"]
 kind: ["special attack"]
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Parasite, Giant Rot Grub|Parasite, Giant Rot Grub (PF1)]]"
 status: draft

@@ -28,7 +28,6 @@ treasure: "None"
 alignment: "Usually neutral good"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Dragon Horse|Dragon Horse (PF1)]]"
 status: draft

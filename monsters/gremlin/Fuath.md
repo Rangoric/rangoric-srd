@@ -29,7 +29,6 @@ alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/gremlin/Gremlins|Gremlins]]"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Gremlin, Fuath|Gremlin, Fuath (PF1)]]"
 status: draft

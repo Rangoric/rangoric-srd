@@ -28,7 +28,6 @@ treasure: "None"
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Aeon, Bythos|Aeon, Bythos (PF1)]]"
 status: draft

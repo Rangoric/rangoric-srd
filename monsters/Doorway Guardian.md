@@ -26,7 +26,6 @@ challenge-rating: "7"
 treasure: "None"
 alignment: "Always neutral"
 advancement: "25–36 HD (Gargantuan); 37–40 HD (Colossal)"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/creatures/Doorway Guardian|Doorway Guardian (Faeries)]]"
 status: draft

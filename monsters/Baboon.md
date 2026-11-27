@@ -27,7 +27,6 @@ treasure: "None"
 alignment: "Usually neutral"
 advancement: "2–3 HD (Medium)"
 level-adjustment: "—"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Primate, Baboon|Primate, Baboon (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Baboon|Baboon (3.5)]]"

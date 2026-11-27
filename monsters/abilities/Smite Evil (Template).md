@@ -3,7 +3,6 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Su"]
 kind: ["attack"]
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5 foundry/template-abilities/Smite Evil (Template Ability)|Smite Evil (Template Ability) (PF1 Foundry)]]"
   - "[[path srd 3.5/monsters/Half-Celestial|Half-Celestial (PF1)]]"

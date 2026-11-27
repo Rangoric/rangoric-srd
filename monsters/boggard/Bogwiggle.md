@@ -29,7 +29,6 @@ alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/boggard/Boggard|Boggard]]"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/monsters/Bogwiggle|Bogwiggle (PF1)]]"
 status: draft

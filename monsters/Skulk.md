@@ -28,7 +28,6 @@ treasure: "Standard (short sword, 2 daggers, other treasure)"
 alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Skulk|Skulk (PF1)]]"
 status: draft

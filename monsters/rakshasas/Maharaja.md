@@ -28,7 +28,6 @@ treasure: "Double (+3 falchion, other treasure)"
 alignment: "Usually lawful evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Rakshasa, Maharaja|Rakshasa, Maharaja (PF1)]]"
 status: draft

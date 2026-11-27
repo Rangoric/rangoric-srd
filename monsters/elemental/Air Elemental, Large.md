@@ -29,7 +29,6 @@ alignment: "Usually neutral"
 advancement: "9–15 HD (Large)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/elemental/Air Elemental|Air Elemental]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Elemental, Air, Large|Elemental, Air, Large (PF1)]]"
   - "[[fantasy srd 3.5/monsters/elemental/Air Elemental, Large|Air Elemental, Large (3.5)]]"

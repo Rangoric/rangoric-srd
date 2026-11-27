@@ -3,7 +3,6 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Ex"]
 kind: ["special attack"]
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Jellyfish, Sapphire|Jellyfish, Sapphire (PF1)]]"
 status: draft

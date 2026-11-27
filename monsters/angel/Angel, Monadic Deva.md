@@ -28,7 +28,6 @@ treasure: "Double (+3 morningstar, other treasure)"
 alignment: "Usually neutral good"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Angel, Monadic Deva|Angel, Monadic Deva (PF1)]]"
 status: draft

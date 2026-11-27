@@ -27,7 +27,6 @@ treasure: "None"
 alignment: "Always neutral"
 advancement: "49+ HD (Colossal)"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Tarrasque (Monster)|Tarrasque (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Tarrasque|Tarrasque (3.5)]]"

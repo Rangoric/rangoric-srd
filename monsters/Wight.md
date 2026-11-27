@@ -27,7 +27,6 @@ treasure: "Standard"
 alignment: "Always lawful evil"
 advancement: "5–8 HD (Medium)"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Wight|Wight (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Wight|Wight (3.5)]]"

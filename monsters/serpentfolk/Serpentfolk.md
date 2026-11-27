@@ -27,7 +27,6 @@ treasure: "NPC gear (masterwork dagger, other treasure)"
 alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
-book: ["Bestiary 2", "Monster Codex"]
 based-on:
   - "[[path srd 3.5/monsters/Serpentfolk|Serpentfolk (PF1)]]"
   - "[[path srd 3.5/rules/monster-codex/serpentfolk/Serpentfolk (Serpentfolk)|Serpentfolk, society (PF1)]]"

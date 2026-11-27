@@ -1,7 +1,6 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Dragon, Primal, Brine|Dragon, Primal, Brine (PF1)]]"
   - "[[path srd 3.5/monsters/Dragon, Primal, Cloud|Dragon, Primal, Cloud (PF1)]]"

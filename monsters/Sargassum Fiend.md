@@ -28,7 +28,6 @@ treasure: "Incidental (1d6 sargassum fiend bulbs, other treasure)"
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Sargassum Fiend|Sargassum Fiend (PF1)]]"
 status: draft

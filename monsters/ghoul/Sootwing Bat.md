@@ -28,7 +28,6 @@ alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/ghoul/Ghoul|Ghoul]]"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/monsters/Sootwing Bat|Sootwing Bat (PF1)]]"
 status: draft

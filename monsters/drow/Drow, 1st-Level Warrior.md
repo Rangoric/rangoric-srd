@@ -28,7 +28,6 @@ treasure: "NPC Gear (leather armor, light steel shield, rapier, hand crossbow wi
 alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
-book: ["Bestiary", "Monster Codex"]
 based-on:
   - "[[path srd 3.5/monsters/Drow (Monster)|Drow (PF1)]]"
   - "[[path srd 3.5/rules/monster-codex/drow/Drow (Drow)|Drow, society (PF1)]]"

@@ -29,7 +29,6 @@ alignment: "Neutral evil"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/human/Human|Human]]"
-book: "NPC Codex"
 based-on:
   - "[[path srd 3.5/monsters/Enforcer (Monster)|Enforcer (PF1)]]"
 status: draft

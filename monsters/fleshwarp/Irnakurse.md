@@ -28,7 +28,6 @@ alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/fleshwarp/Fleshwarp|Fleshwarp]]"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Fleshwarp, Irnakurse|Fleshwarp, Irnakurse (PF1)]]"
 status: draft

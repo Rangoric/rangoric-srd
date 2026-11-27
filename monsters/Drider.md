@@ -27,7 +27,6 @@ treasure: "Double (masterwork heavy mace, masterwork composite longbow [+2 Str] 
 alignment: "Always chaotic evil"
 advancement: "By character class"
 level-adjustment: "+4"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Drider|Drider (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Drider|Drider (3.5)]]"

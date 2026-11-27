@@ -3,7 +3,6 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Ex"]
 kind: ["special attack"]
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Dragon Horse|Dragon Horse (PF1)]]"
 status: draft

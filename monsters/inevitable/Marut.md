@@ -29,7 +29,6 @@ alignment: "Always lawful neutral"
 advancement: "16–28 HD (Large); 29–45 HD (Huge)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/inevitable/Inevitable|Inevitable]]"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Inevitable, Marut|Inevitable, Marut (PF1)]]"
   - "[[fantasy srd 3.5/monsters/inevitable/Marut|Marut (3.5)]]"

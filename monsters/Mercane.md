@@ -28,7 +28,6 @@ treasure: "Double (masterwork Large falchion, other treasure)"
 alignment: "Always lawful neutral"
 advancement: "By character class"
 level-adjustment: "+7"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Mercane|Mercane (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Mercane|Mercane (3.5)]]"

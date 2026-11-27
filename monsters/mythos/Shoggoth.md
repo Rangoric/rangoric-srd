@@ -28,7 +28,6 @@ treasure: "Standard"
 alignment: "Usually chaotic neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Shoggoth|Shoggoth (PF1)]]"
 status: draft

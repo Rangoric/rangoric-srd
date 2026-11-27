@@ -28,7 +28,6 @@ treasure: "Double (full plate, heavy steel shield, +5 holy starknife)"
 alignment: "Usually lawful good"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Archon, Star|Archon, Star (PF1)]]"
 status: draft

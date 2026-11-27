@@ -28,7 +28,6 @@ alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/golem/Golem|Golem]]"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Golem, Blood|Golem, Coral (PF1)]]"
 status: draft

@@ -2,7 +2,6 @@
 srd-type: "monster"
 section: "Monsters"
 group: "[[rangoric-srd/monsters/fiendish-creature/Fiendish Creature|Fiendish Creature]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/rules/bestiary/monster-advancement/Simple Templates#Fiendish Creature|Simple Templates (PF1)]]"
   - "[[path srd 3.5 foundry/monster-templates/Fiendish|Fiendish (PF1 Foundry)]]"

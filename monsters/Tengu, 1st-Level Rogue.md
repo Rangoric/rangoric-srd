@@ -28,7 +28,6 @@ treasure: "NPC gear (leather armor, dagger, shortbow with 20 arrows, other treas
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Tengu|Tengu (PF1)]]"
 status: draft

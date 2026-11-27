@@ -29,7 +29,6 @@ alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/demon/Demon|Demon]]"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Demon, Coloxus|Demon, Coloxus (PF1)]]"
 status: draft

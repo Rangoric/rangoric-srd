@@ -1,7 +1,6 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Dragon, Outer, Lunar|Dragon, Outer, Lunar (PF1)]]"
   - "[[path srd 3.5/monsters/Dragon, Outer, Solar|Dragon, Outer, Solar (PF1)]]"

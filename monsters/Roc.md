@@ -27,7 +27,6 @@ treasure: "None"
 alignment: "Always neutral"
 advancement: "19–32 HD (Gargantuan); 33–54 (Colossal)"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Roc|Roc (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Roc|Roc (3.5)]]"

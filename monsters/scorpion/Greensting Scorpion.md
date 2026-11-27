@@ -28,7 +28,6 @@ alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/scorpion/Scorpion|Scorpion]]"
-book: "Bestiary 4, Ultimate Magic"
 based-on:
   - "[[path srd 3.5/monsters/Scorpion, Greensting (Monster)|Scorpion, Greensting (PF1)]]"
   - "[[path srd 3.5/monsters/Familiar, Scorpion, Greensting|Familiar, Scorpion, Greensting (PF1)]]"

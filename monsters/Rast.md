@@ -28,7 +28,6 @@ treasure: "None"
 alignment: "Usually neutral"
 advancement: "5–6 HD (Medium); 7–12 HD (Large)"
 level-adjustment: "—"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Rast|Rast (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Rast|Rast (3.5)]]"

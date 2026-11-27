@@ -27,7 +27,6 @@ treasure: "None"
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Familiar, Lizard|Familiar, Lizard (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Lizard|Lizard (3.5)]]"

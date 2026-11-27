@@ -1,7 +1,6 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5 foundry/monster-templates/Foo Creature|Foo Creature (PF1 Foundry)]]"
   - "[[path srd 3.5 foundry/template-abilities/Damage Reduction (Template Ability)|Damage Reduction (Template Ability) (PF1 Foundry)]]"

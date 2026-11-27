@@ -28,7 +28,6 @@ treasure: "NPC gear (studded leather, rhoka sword, composite longbow (+4 Str) wi
 alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Urdefhan|Urdefhan (PF1)]]"
 status: draft

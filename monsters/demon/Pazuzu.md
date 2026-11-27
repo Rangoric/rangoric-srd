@@ -29,7 +29,6 @@ alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/demon/Demon|Demon]]"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Pazuzu|Pazuzu (PF1)]]"
 status: draft

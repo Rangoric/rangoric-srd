@@ -28,7 +28,6 @@ alignment: "Always neutral"
 advancement: "3–6 HD (Medium)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/fungus/Fungus|Fungus]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Violet Fungus|Violet Fungus (PF1)]]"
   - "[[fantasy srd 3.5/monsters/fungus/Violet Fungus|Violet Fungus (3.5)]]"

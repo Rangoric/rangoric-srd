@@ -29,7 +29,6 @@ alignment: "Usually neutral"
 advancement: "By character class"
 level-adjustment: "+4 (elder +6)"
 group: "[[rangoric-srd/monsters/giant/Giant|Giant]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Giant, Stone|Giant, Stone (PF1)]]"
   - "[[fantasy srd 3.5/monsters/giant/Stone Giant|Stone Giant (3.5)]]"

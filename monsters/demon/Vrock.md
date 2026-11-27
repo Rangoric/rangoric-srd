@@ -29,7 +29,6 @@ alignment: "Always chaotic evil"
 advancement: "11–14 HD (Large); 15–30 HD (Huge)"
 level-adjustment: "+8"
 group: "[[rangoric-srd/monsters/demon/Demon|Demon]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Demon, Vrock|Demon, Vrock (PF1)]]"
   - "[[fantasy srd 3.5/monsters/demon/Vrock|Vrock (3.5)]]"

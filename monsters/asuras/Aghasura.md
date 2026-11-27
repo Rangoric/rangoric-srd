@@ -28,7 +28,6 @@ treasure: "Standard (masterwork breastplate, 2 masterwork scimitars, other treas
 alignment: "Usually lawful evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Asura, Aghasura|Asura, Aghasura (PF1)]]"
 status: draft

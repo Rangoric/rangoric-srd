@@ -27,7 +27,6 @@ treasure: "Standard"
 alignment: "Usually chaotic evil"
 advancement: "10–13 HD (Large); 14–27 HD (Huge)"
 level-adjustment: "+2 (cohort)"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Chimera|Chimera (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Chimera|Chimera (3.5)]]"

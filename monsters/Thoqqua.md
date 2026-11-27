@@ -28,7 +28,6 @@ treasure: "None"
 alignment: "Usually neutral"
 advancement: "4–9 HD (Large)"
 level-adjustment: "—"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Thoqqua|Thoqqua (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Thoqqua|Thoqqua (3.5)]]"

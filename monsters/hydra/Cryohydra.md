@@ -6,7 +6,6 @@ size: "Huge"
 creature-type: "Magical Beast"
 subtypes:
   - "Cold"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Hydra|Hydra (PF1)]]"
   - "[[fantasy srd 3.5/monsters/hydra/Cryohydra|Cryohydra (3.5)]]"

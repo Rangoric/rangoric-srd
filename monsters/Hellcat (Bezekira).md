@@ -28,7 +28,6 @@ treasure: "Standard"
 alignment: "Always lawful evil"
 advancement: "9–10 HD (Large); 11–24 HD (Huge)"
 level-adjustment: "—"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Hellcat|Hellcat (PF1)]]"
   - "[[fantasy srd 3.5/monsters/devil/Hellcat (Bezekira)|Hellcat (Bezekira) (3.5)]]"

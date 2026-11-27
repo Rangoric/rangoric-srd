@@ -27,7 +27,6 @@ treasure: "None"
 alignment: "Always neutral"
 advancement: "8–10 HD (Large); 11–21 HD (Huge)"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Beetle, Giant Stag|Beetle, Giant Stag (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Giant Stag Beetle|Giant Stag Beetle (3.5)]]"

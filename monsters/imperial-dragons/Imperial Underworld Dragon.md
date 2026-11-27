@@ -10,7 +10,6 @@ challenge-rating: [3, 5, 7, 8, 10, 11, 12, 14, 15, 16, 17, 19]
 treasure: "Triple"
 alignment: "Usually lawful evil"
 advancement: "Wyrmling 5 HD; very young 7 HD; young 9 HD; juvenile 11 HD; young adult 13 HD; adult 15 HD; mature adult 17 HD; old 19 HD; very old 21 HD; ancient 23 HD; wyrm 25 HD; great wyrm 27+ HD"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Dragon, Imperial, Underworld|Imperial Underworld Dragon (PF1)]]"
   - "[[path srd 3.5/monsters/Dragon, Imperial, Underworld, Young|Young Imperial Underworld Dragon (PF1)]]"

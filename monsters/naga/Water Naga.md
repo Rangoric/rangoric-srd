@@ -29,7 +29,6 @@ alignment: "Usually neutral"
 advancement: "8–10 HD (Large); 11–21 HD (Huge)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/naga/Naga|Naga]]"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Naga, Water|Naga, Water (PF1)]]"
   - "[[fantasy srd 3.5/monsters/naga/Water Naga|Water Naga (3.5)]]"

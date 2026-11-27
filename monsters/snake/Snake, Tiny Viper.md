@@ -28,7 +28,6 @@ alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/snake/Viper Snake|Viper Snake]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Familiar, Viper|Familiar, Viper (PF1)]]"
   - "[[fantasy srd 3.5/monsters/snake/Snake, Tiny Viper|Snake, Tiny Viper (3.5)]]"

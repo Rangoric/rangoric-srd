@@ -27,7 +27,6 @@ treasure: "Standard"
 alignment: "Usually neutral"
 advancement: "8–10 HD (Huge); 11–21 HD (Gargantuan)"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Wyvern|Wyvern (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Wyvern|Wyvern (3.5)]]"

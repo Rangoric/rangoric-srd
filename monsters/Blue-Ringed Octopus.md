@@ -28,7 +28,6 @@ treasure: "None"
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/monsters/Familiar, Octopus, Blue-Ringed|Familiar, Octopus, Blue-Ringed (PF1)]]"
 status: draft

@@ -27,7 +27,6 @@ treasure: "None"
 alignment: "Always neutral"
 advancement: "6–8 HD (Small); 9–15 HD (Medium)"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Cockatrice|Cockatrice (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Cockatrice|Cockatrice (3.5)]]"

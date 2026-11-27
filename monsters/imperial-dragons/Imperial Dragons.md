@@ -1,7 +1,6 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Dragon, Imperial, Forest|Dragon, Imperial, Forest (PF1)]]"
   - "[[path srd 3.5/monsters/Dragon, Imperial, Sea|Dragon, Imperial, Sea (PF1)]]"

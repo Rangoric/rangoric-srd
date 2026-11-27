@@ -29,7 +29,6 @@ alignment: "Always chaotic evil"
 advancement: "18–25 HD (Huge); 26–34 HD (Gargantuan)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/nightshade/Nightshade|Nightshade]]"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Nightshade, Nightwing|Nightshade, Nightwing (PF1)]]"
   - "[[fantasy srd 3.5/monsters/nightshade/Nightwing|Nightwing (3.5)]]"

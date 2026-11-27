@@ -1,7 +1,6 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-book: "Monster Summoner's Handbook"
 based-on:
   - "[[path srd 3.5 foundry/monster-templates/Guardian Spirit (Template)|Guardian Spirit (Template) (PF1 Foundry)]]"
 status: draft

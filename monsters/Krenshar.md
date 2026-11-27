@@ -27,7 +27,6 @@ treasure: "None"
 alignment: "Usually neutral"
 advancement: "3–4 HD (Medium); 5–8 HD (Large)"
 level-adjustment: "+2"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Krenshar|Krenshar (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Krenshar|Krenshar (3.5)]]"

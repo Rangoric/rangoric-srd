@@ -27,7 +27,6 @@ treasure: "Standard"
 alignment: "Always chaotic evil"
 advancement: "15–21 HD (Medium); 22–28 HD (Large)"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Mohrg|Mohrg (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Mohrg|Mohrg (3.5)]]"

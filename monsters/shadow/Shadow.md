@@ -28,7 +28,6 @@ treasure: "Standard"
 alignment: "Always chaotic evil"
 advancement: "4-9 HD (Medium)"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Shadow|Shadow (PF1)]]"
   - "[[fantasy srd 3.5/monsters/shadow/Shadow|Shadow (3.5)]]"

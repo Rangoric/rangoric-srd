@@ -27,7 +27,6 @@ treasure: "Standard"
 alignment: "Always neutral good"
 advancement: "3–4 HD (Tiny)"
 level-adjustment: "+3"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Pseudodragon (Monster)|Pseudodragon (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Pseudodragon|Pseudodragon (3.5)]]"

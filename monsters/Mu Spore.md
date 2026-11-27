@@ -27,7 +27,6 @@ treasure: "Standard"
 alignment: "Usually chaotic neutral"
 advancement: "36+ HD (Colossal)"
 level-adjustment: "—"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Mu Spore|Mu Spore (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Mu Spore|Mu Spore (3.5)]]"

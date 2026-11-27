@@ -27,7 +27,6 @@ treasure: "Standard"
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Akata|Akata (PF1)]]"
 status: draft

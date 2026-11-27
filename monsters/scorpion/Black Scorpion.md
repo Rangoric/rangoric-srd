@@ -28,7 +28,6 @@ alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/scorpion/Scorpion|Scorpion]]"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Scorpion, Black|Scorpion, Black (PF1)]]"
 status: draft

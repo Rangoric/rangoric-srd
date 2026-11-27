@@ -28,7 +28,6 @@ treasure: "NPC gear (club, 3 javelins, other treasure)"
 alignment: "Usually chaotic evil"
 advancement: "By character class"
 level-adjustment: "+2"
-book: ["Bestiary", "Monster Codex"]
 based-on:
   - "[[path srd 3.5/monsters/Troglodyte|Troglodyte (PF1)]]"
   - "[[path srd 3.5/rules/monster-codex/troglodytes/Troglodytes (Troglodytes)|Troglodytes, society (PF1)]]"

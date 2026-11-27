@@ -29,7 +29,6 @@ alignment: "Neutral"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/halfling/Halfling|Halfling]]"
-book: "NPC Codex"
 based-on:
   - "[[path srd 3.5/monsters/Seasoned Trapper|Seasoned Trapper (PF1)]]"
 status: draft

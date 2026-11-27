@@ -29,7 +29,6 @@ alignment: "Always chaotic evil"
 advancement: "11–15 HD (Large); 16–30 HD (Huge)"
 level-adjustment: "+9"
 group: "[[rangoric-srd/monsters/demon/Demon|Demon]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Demon, Hezrou|Demon, Hezrou (PF1)]]"
   - "[[fantasy srd 3.5/monsters/demon/Hezrou|Hezrou (3.5)]]"

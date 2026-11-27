@@ -28,7 +28,6 @@ treasure: "Standard (leather armor, heavy shield, heavy mace, other treasure)"
 alignment: "Often chaotic evil"
 advancement: "15–28 HD (Huge)"
 level-adjustment: "+5"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Athach|Athach (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Athach|Athach (3.5)]]"

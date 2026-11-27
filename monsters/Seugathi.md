@@ -27,7 +27,6 @@ treasure: "Double (masterwork short sword, wand of magic missile [CL 5th, 1d20+3
 alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Seugathi|Seugathi (PF1)]]"
 status: draft

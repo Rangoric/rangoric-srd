@@ -28,7 +28,6 @@ treasure: "Double (+3 axiomatic scythe, other treasure)"
 alignment: "Usually lawful neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Shinigami|Shinigami (PF1)]]"
 status: draft

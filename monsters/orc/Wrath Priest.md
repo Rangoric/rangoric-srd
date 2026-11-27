@@ -29,7 +29,6 @@ alignment: "Chaotic evil"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/orc/Orc|Orc]]"
-book: "NPC Codex"
 based-on:
   - "[[path srd 3.5/monsters/Wrath Priest|Wrath Priest (PF1)]]"
 status: draft

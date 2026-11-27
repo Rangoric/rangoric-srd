@@ -3,7 +3,6 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Ex"]
 kind: ["quality"]
-book: "Bestiary 3, Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Bandersnatch|Bandersnatch (PF1)]]"
   - "[[path srd 3.5/monsters/Jubjub Bird|Jubjub Bird (PF1)]]"

@@ -1,7 +1,6 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Thriae Queen|Thriae Queen (PF1)]]"
   - "[[path srd 3.5/monsters/Thriae Seer|Thriae Seer (PF1)]]"

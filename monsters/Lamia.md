@@ -27,7 +27,6 @@ treasure: "Double (+1 dagger, other treasure)"
 alignment: "Usually chaotic evil"
 advancement: "10–13 HD (Large); 14–27 HD (Huge)"
 level-adjustment: "+4"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Lamia|Lamia (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Lamia|Lamia (3.5)]]"

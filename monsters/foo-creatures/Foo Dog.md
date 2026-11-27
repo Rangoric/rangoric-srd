@@ -29,7 +29,6 @@ alignment: "Usually neutral good"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/foo-creatures/Foo Creature|Foo Creature]]"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Foo Dog|Foo Dog (PF1)]]"
   - "[[path srd 3.5 foundry/monsters/bestiary-3/Foo Dog|Foo Dog (PF1 Foundry)]]"

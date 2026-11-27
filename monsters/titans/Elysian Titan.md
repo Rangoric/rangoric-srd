@@ -29,7 +29,6 @@ alignment: "Usually chaotic good"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/titans/Titan (Group)|Titan (Group)]]"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Titan, Elysian|Titan, Elysian (PF1)]]"
 status: draft

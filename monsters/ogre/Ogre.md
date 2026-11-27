@@ -28,7 +28,6 @@ treasure: "Standard (hide armor, greatclub, 4 javelins, other treasure)"
 alignment: "Usually chaotic evil"
 advancement: "By character class"
 level-adjustment: "+2"
-book: ["Bestiary", "Monster Codex"]
 based-on:
   - "[[path srd 3.5/rules/monster-codex/ogres/New Rules (Ogres)|New Rules (Ogres) (PF1)]]"
   - "[[path srd 3.5/monsters/Ogre|Ogre (PF1)]]"

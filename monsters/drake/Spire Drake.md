@@ -28,7 +28,6 @@ alignment: "Usually lawful evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/drake/Drake|Drake]]"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Drake, Spire|Drake, Spire (PF1)]]"
 status: draft

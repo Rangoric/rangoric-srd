@@ -2,7 +2,6 @@
 srd-type: "monster"
 section: "Monsters"
 group: "[[rangoric-srd/monsters/zombie/Zombie|Zombie]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5 foundry/monster-templates/Zombie|Zombie (PF1 Foundry)]]"
   - "[[path srd 3.5/monsters/Human Zombie|Human Zombie (PF1)]]"

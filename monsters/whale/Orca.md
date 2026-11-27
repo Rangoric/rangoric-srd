@@ -28,7 +28,6 @@ alignment: "Usually neutral"
 advancement: "10–13 HD (Huge); 14–27 HD (Gargantuan)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/whale/Whale|Whale]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Dolphin, Orca|Dolphin, Orca (PF1)]]"
   - "[[fantasy srd 3.5/monsters/whale/Orca|Orca (3.5)]]"

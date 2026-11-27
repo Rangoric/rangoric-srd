@@ -28,7 +28,6 @@ treasure: "NPC gear (studded leather armor, longbow with 20 arrows, longsword, o
 alignment: "Usually neutral good"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Catfolk (Monster)|Catfolk (PF1)]]"
 status: draft

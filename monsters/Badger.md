@@ -27,7 +27,6 @@ treasure: "Incidental"
 alignment: "Usually neutral"
 advancement: "2 HD (Small)"
 level-adjustment: "—"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Badger (Monster)|Badger (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Badger|Badger (3.5)]]"

@@ -27,7 +27,6 @@ treasure: "Standard (leather armor, masterwork spear)"
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Girtablilu|Girtablilu (PF1)]]"
 status: draft

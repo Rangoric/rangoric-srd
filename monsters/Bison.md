@@ -27,7 +27,6 @@ treasure: "None"
 alignment: "Usually neutral"
 advancement: "6–7 HD (Large)"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Herd Animal, Bison|Herd Animal, Bison (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Bison|Bison (3.5)]]"

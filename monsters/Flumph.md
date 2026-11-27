@@ -27,7 +27,6 @@ treasure: "Standard"
 alignment: "Usually lawful good"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Flumph|Flumph (PF1)]]"
 status: draft

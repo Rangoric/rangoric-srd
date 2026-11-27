@@ -1,7 +1,6 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-book: "Bestiary, Bestiary 2, Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Dark Caller|Dark Caller (PF1)]]"
   - "[[path srd 3.5/monsters/Dark Creeper|Dark Creeper (PF1)]]"

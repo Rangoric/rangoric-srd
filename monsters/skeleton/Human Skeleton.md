@@ -28,7 +28,6 @@ alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/skeleton/Skeleton|Skeleton]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Human Skeleton|Human Skeleton (PF1)]]"
 status: draft

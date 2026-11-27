@@ -3,7 +3,6 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Ex"]
 kind: ["defense"]
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Turtle, Snapping|Turtle, Snapping (PF1)]]"
   - "[[path srd 3.5/monsters/Tortoise, Giant|Tortoise, Giant (PF1)]]"

@@ -28,7 +28,6 @@ treasure: "Standard (particularly staves and wands)"
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Abaia|Abaia (PF1)]]"
 status: draft

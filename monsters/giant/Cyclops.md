@@ -29,7 +29,6 @@ alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/giant/Giant|Giant]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Cyclops|Cyclops (PF1)]]"
 status: draft

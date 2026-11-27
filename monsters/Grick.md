@@ -27,7 +27,6 @@ treasure: "Incidental"
 alignment: "Usually neutral"
 advancement: "3–4 HD (Medium); 5–6 HD (Large)"
 level-adjustment: "—"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Grick|Grick (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Grick|Grick (3.5)]]"

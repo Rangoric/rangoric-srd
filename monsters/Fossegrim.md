@@ -28,7 +28,6 @@ treasure: "Standard (mwk harp or violin, other treasure)"
 alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Fossegrim|Fossegrim (PF1)]]"
 status: draft

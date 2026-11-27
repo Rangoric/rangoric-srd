@@ -28,7 +28,6 @@ treasure: "Standard (+1 longsword, masterwork harp, other treasure)"
 alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Broken Soul|Broken Soul (PF1)]]"
   - "[[path srd 3.5/monsters/Broken Soul#Creating a Broken Soul|Creating a Broken Soul (PF1)]]"

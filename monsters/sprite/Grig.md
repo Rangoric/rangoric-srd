@@ -28,7 +28,6 @@ alignment: "Always neutral good"
 advancement: "1–3 HD (Tiny)"
 level-adjustment: "+3"
 group: "[[rangoric-srd/monsters/sprite/Sprite|Sprite]]"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Grig|Grig (PF1)]]"
   - "[[fantasy srd 3.5/monsters/sprite/Grig|Grig (3.5)]]"

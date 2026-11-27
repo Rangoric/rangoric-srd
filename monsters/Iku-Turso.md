@@ -28,7 +28,6 @@ treasure: "Standard"
 alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Iku-Turso|Iku-Turso (PF1)]]"
 status: draft

@@ -29,7 +29,6 @@ alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/gnoll/Gnoll|Gnoll]]"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/monsters/Flind|Flind (PF1)]]"
 status: draft

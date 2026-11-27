@@ -29,7 +29,6 @@ alignment: "Chaotic neutral"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/gnome/Gnome|Gnome]]"
-book: "NPC Codex"
 based-on:
   - "[[path srd 3.5/monsters/Fey friend|Fey friend (PF1)]]"
 status: draft

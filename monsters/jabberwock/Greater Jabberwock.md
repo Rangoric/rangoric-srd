@@ -26,7 +26,6 @@ challenge-rating: "15"
 treasure: "None"
 alignment: "Chaotic evil"
 advancement: "20–22 HD (Gargantuan); 23–26 HD (Colossal)"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/creatures/Jabberwock|Jabberwock (Faeries)]]"
   - "[[individual books/Faeries/tables/Table p119 Greater Jabberwock|Table p119 Greater Jabberwock (Faeries)]]"

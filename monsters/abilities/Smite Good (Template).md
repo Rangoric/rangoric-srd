@@ -3,7 +3,6 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Su"]
 kind: ["attack"]
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5 foundry/template-abilities/Smite Good (Template Ability)|Smite Good (Template Ability) (PF1 Foundry)]]"
   - "[[path srd 3.5/monsters/Half-Fiend|Half-Fiend (PF1)]]"

@@ -29,7 +29,6 @@ alignment: "Always neutral good"
 advancement: "8–14 HD (Medium); 15–21 HD (Large)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/agathion/Agathion|Agathion]]"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Agathion, Avoral|Agathion, Avoral (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Avoral|Avoral (3.5)]]"

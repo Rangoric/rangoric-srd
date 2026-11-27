@@ -28,7 +28,6 @@ treasure: "NPC gear (dagger, amulet of natural armor +3, belt of mighty constitu
 alignment: "Usually lawful evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Devilbound Creature|Devilbound Creature (PF1)]]"
   - "[[path srd 3.5/monsters/Devilbound Creature#Creating a Devilbound Creature|Creating a Devilbound Creature (PF1)]]"

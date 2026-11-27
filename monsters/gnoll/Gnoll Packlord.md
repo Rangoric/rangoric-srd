@@ -29,7 +29,6 @@ alignment: "Usually chaotic evil"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/gnoll/Gnoll|Gnoll]]"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/monsters/Gnoll Packlord|Gnoll Packlord (PF1)]]"
 status: draft

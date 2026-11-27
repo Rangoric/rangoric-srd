@@ -43,7 +43,6 @@ What the notes in `monsters` look like. The whole-SRD rules are in the [README](
 | `feats`             | no       | `text`         |
 | `alignment`         | no       | `text`         |
 | `level-adjustment`  | no       | `text`         |
-| `book`              | no       |                |
 | `group`             | no       | `text`         |
 | `subtypes`          | no       | list of `text` |
 
@@ -61,7 +60,6 @@ Headings, in order:
 | `section`      | yes      | `Monsters`        |
 | `ability-type` | yes      | list of `text`    |
 | `kind`         | yes      | list of `text`    |
-| `book`         | no       | `text`            |
 
 Headings, in order:
 
@@ -73,7 +71,6 @@ Headings, in order:
 | ---------- | -------- | ---------- |
 | `srd-type` | yes      | `overview` |
 | `section`  | yes      | `Monsters` |
-| `book`     | no       | `text`     |
 
 ## Failing notes
 

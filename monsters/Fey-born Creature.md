@@ -1,7 +1,6 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/templates/Fey-born Creatures|Fey-born Creatures (Faeries)]]"
 status: draft

@@ -28,7 +28,6 @@ treasure: "Incidental"
 alignment: "Usually chaotic evil"
 advancement: "10–18 HD (Small)"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Will-o'-Wisp|Will-o'-Wisp (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Will-O’-Wisp|Will-O’-Wisp (3.5)]]"

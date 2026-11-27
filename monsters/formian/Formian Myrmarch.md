@@ -29,7 +29,6 @@ alignment: "Always lawful neutral"
 advancement: "13–18 HD (Large); 19–24 HD (Huge)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/formian/Formian|Formian]]"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Formian Myrmarch|Formian Myrmarch (PF1)]]"
   - "[[fantasy srd 3.5/monsters/formian/Formian Myrmarch|Formian Myrmarch (3.5)]]"

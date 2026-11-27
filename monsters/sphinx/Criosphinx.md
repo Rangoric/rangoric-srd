@@ -28,7 +28,6 @@ alignment: "Always neutral"
 advancement: "11–15 HD (Large); 16–30 HD (Huge)"
 level-adjustment: "+3 (cohort)"
 group: "[[rangoric-srd/monsters/sphinx/Sphinx|Sphinx]]"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Sphinx, Criosphinx|Sphinx, Criosphinx (PF1)]]"
   - "[[fantasy srd 3.5/monsters/sphinx/Criosphinx|Criosphinx (3.5)]]"

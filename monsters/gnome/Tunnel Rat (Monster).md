@@ -29,7 +29,6 @@ alignment: "Neutral"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/gnome/Gnome|Gnome]]"
-book: "NPC Codex"
 based-on:
   - "[[path srd 3.5/monsters/Tunnel Rat (Monster)|Tunnel Rat (PF1)]]"
 status: draft

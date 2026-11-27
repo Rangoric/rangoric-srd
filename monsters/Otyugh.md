@@ -27,7 +27,6 @@ treasure: "Standard"
 alignment: "Usually neutral"
 advancement: "7–8 HD (Large); 9–18 HD (Huge)"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Otyugh|Otyugh (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Otyugh|Otyugh (3.5)]]"

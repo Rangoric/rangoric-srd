@@ -27,7 +27,6 @@ treasure: "Standard"
 alignment: "Always neutral"
 advancement: "10–16 HD (Huge); 17–27 HD (Gargantuan)"
 level-adjustment: "—"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Tendriculos|Tendriculos (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Tendriculos|Tendriculos (3.5)]]"

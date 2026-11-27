@@ -28,7 +28,6 @@ treasure: "Standard"
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Divine Guardian|Divine Guardian (PF1)]]"
   - "[[path srd 3.5/monsters/Divine Guardian#Creating a Divine Guardian|Creating a Divine Guardian (PF1)]]"

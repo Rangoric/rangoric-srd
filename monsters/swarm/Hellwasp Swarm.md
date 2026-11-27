@@ -29,7 +29,6 @@ alignment: "Always lawful evil"
 advancement: "None"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/swarm/Swarm|Swarm]]"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Swarm, Hellwasp|Swarm, Hellwasp (PF1)]]"
   - "[[fantasy srd 3.5/monsters/swarm/Hellwasp Swarm|Hellwasp Swarm (3.5)]]"

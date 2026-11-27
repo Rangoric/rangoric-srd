@@ -29,7 +29,6 @@ alignment: "Usually neutral"
 advancement: "7–9 HD (Medium); 10–18 HD (Large)"
 level-adjustment: "+5"
 group: "[[rangoric-srd/monsters/genie/Genie|Genie]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Genie, Janni|Genie, Janni (PF1)]]"
   - "[[fantasy srd 3.5/monsters/genie/Janni|Janni (3.5)]]"

@@ -3,7 +3,6 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Ex"]
 kind: ["quality"]
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5 foundry/monster-abilities/Abyssal Resurrection|Abyssal Resurrection (PF1 Foundry)]]"
 status: draft

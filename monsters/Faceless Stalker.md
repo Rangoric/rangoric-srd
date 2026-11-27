@@ -28,7 +28,6 @@ treasure: "Standard (masterwork longsword, other treasure)"
 alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Faceless Stalker|Faceless Stalker (PF1)]]"
 status: draft

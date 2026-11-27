@@ -28,7 +28,6 @@ alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/spider/Spider|Spider]]"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Spider, Ogre|Spider, Ogre (PF1)]]"
 status: draft

@@ -28,7 +28,6 @@ treasure: "—"
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/monsters/Shark Mount|Shark Mount (PF1)]]"
 status: draft

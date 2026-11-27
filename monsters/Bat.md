@@ -27,7 +27,6 @@ treasure: "None"
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Familiar, Bat|Familiar, Bat (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Bat|Bat (3.5)]]"

@@ -3,7 +3,6 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Ex"]
 kind: ["quality"]
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Tortoise, Giant|Tortoise, Giant (PF1)]]"
 status: draft

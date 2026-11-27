@@ -2,7 +2,6 @@
 srd-type: "monster"
 section: "Monsters"
 group: "[[rangoric-srd/monsters/skeleton/Skeleton|Skeleton]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5 foundry/monster-templates/Skeleton|Skeleton (PF1 Foundry)]]"
   - "[[path srd 3.5/monsters/Human Skeleton|Human Skeleton (PF1)]]"

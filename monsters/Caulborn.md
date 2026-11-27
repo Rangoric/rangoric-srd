@@ -28,7 +28,6 @@ treasure: "Double"
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Caulborn|Caulborn (PF1)]]"
 status: draft

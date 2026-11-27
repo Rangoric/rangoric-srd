@@ -27,7 +27,6 @@ treasure: "—"
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/monsters/Fiendish Rhinoceros Companion|Fiendish Rhinoceros Companion (PF1)]]"
 status: draft

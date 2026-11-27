@@ -28,7 +28,6 @@ treasure: "None"
 alignment: "Always lawful evil"
 advancement: "6–10 HD (Medium)"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Wraith|Wraith (PF1)]]"
   - "[[fantasy srd 3.5/monsters/wraith/Wraith|Wraith (3.5)]]"

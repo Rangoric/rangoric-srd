@@ -27,7 +27,6 @@ treasure: "None"
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Parasite, Giant Rot Grub|Parasite, Giant Rot Grub (PF1)]]"
 status: draft

@@ -28,7 +28,6 @@ treasure: "NPC gear (leather armor, morningstar, other treasure)"
 alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
-book: ["Bestiary", "Monster Codex"]
 based-on:
   - "[[path srd 3.5/monsters/Boggard|Boggard (PF1)]]"
   - "[[path srd 3.5/rules/monster-codex/boggards/Boggards (Boggards)|Boggards, society (PF1)]]"

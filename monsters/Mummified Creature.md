@@ -28,7 +28,6 @@ treasure: "Double"
 alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Mummified Creature|Mummified Creature (PF1)]]"
   - "[[path srd 3.5 foundry/monster-templates/Mummified Creature|Mummified Creature (PF1 Foundry)]]"

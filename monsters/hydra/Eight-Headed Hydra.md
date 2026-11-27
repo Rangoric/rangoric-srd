@@ -28,7 +28,6 @@ alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/hydra/Hydra|Hydra]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Hydra|Hydra (PF1)]]"
   - "[[fantasy srd 3.5/monsters/hydra/Eight-Headed Hydra|Eight-Headed Hydra (3.5)]]"

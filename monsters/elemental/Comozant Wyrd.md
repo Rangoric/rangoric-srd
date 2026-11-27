@@ -29,7 +29,6 @@ alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/elemental/Elemental|Elemental]]"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Comozant Wyrd|Comozant Wyrd (PF1)]]"
 status: draft

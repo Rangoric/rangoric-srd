@@ -27,7 +27,6 @@ treasure: "NPC gear (studded leather armor, falchion, 4 javelins, other treasure
 alignment: "Often chaotic evil"
 advancement: "By character class"
 level-adjustment: "+0"
-book: ["Bestiary", "Monster Codex"]
 based-on:
   - "[[path srd 3.5/monsters/Orc|Orc (PF1)]]"
   - "[[path srd 3.5/rules/monster-codex/orcs/Orcs (Orcs)|Orcs, society (PF1)]]"

@@ -29,7 +29,6 @@ alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/ghost/Ghost|Ghost]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Ghost|Ghost (PF1)]]"
   - "[[path srd 3.5 foundry/monster-templates/Ghost|Ghost (PF1 Foundry)]]"

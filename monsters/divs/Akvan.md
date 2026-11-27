@@ -28,7 +28,6 @@ treasure: "Standard (+5 half-plate, other treasure)"
 alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Div, Akvan|Div, Akvan (PF1)]]"
 status: draft

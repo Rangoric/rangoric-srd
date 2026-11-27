@@ -28,7 +28,6 @@ alignment: "Usually lawful evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/zombie/Zombie|Zombie]]"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Zombie Lord|Zombie Lord (PF1)]]"
   - "[[path srd 3.5 foundry/monster-templates/Zombie Lord|Zombie Lord (PF1 Foundry)]]"

@@ -3,7 +3,6 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Sp"]
 kind: ["quality"]
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Tupilaq (Monster)|Tupilaq (Monster) (PF1)]]"
 status: draft

@@ -28,7 +28,6 @@ treasure: "NPC Gear (leather armor, masterwork morningstar, light crossbow with 
 alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Spriggan|Spriggan (PF1)]]"
 status: draft

@@ -29,7 +29,6 @@ alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/ogre/Ogre|Ogre]]"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Merrow, Freshwater|Merrow, Freshwater (PF1)]]"
   - "[[fantasy srd 3.5/monsters/ogre/Ogre#Merrow|Ogre, Merrow (3.5)]]"

@@ -28,7 +28,6 @@ alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/zombie/Zombie|Zombie]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Human Zombie|Human Zombie (PF1)]]"
 status: draft

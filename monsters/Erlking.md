@@ -27,7 +27,6 @@ treasure: "Double (ironwood chain shirt, ironwood longbow, ironwood longsword, o
 alignment: "Usually chaotic neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Erlking|Erlking (PF1)]]"
 status: draft

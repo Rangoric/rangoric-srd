@@ -29,7 +29,6 @@ alignment: "Lawful good"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/orc/Orc|Orc]]"
-book: "NPC Codex"
 based-on:
   - "[[path srd 3.5/monsters/Saintly Knight|Saintly Knight (PF1)]]"
 status: draft

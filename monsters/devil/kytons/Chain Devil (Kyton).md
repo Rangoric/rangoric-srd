@@ -29,7 +29,6 @@ alignment: "Always lawful evil"
 advancement: "9–16 HD (Medium)"
 level-adjustment: "+6"
 group: "[[rangoric-srd/monsters/devil/kytons/Kyton|Kyton]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Kyton|Kyton (PF1)]]"
   - "[[fantasy srd 3.5/monsters/devil/Chain Devil (Kyton)|Chain Devil (Kyton) (3.5)]]"

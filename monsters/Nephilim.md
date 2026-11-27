@@ -28,7 +28,6 @@ treasure: "Double (masterwork breastplate, +1 longsword, 4 masterwork spears, ot
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Nephilim|Nephilim (PF1)]]"
 status: draft

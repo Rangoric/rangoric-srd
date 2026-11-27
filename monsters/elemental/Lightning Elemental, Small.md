@@ -29,7 +29,6 @@ alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/elemental/Lightning Elemental|Lightning Elemental]]"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Elemental, Lightning, Small|Elemental, Lightning, Small (PF1)]]"
 status: draft

@@ -1,7 +1,6 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/creatures/Jabberwock|Jabberwock (Faeries)]]"
 status: draft

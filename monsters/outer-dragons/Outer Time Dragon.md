@@ -9,7 +9,6 @@ challenge-rating: [7, 9, 11, 12, 14, 15, 16, 18, 19, 20, 21, 23]
 treasure: "Triple"
 alignment: "Usually neutral"
 advancement: "Wyrmling 10 HD; very young 12 HD; young 14 HD; juvenile 16 HD; young adult 18 HD; adult 20 HD; mature adult 22 HD; old 24 HD; very old 26 HD; ancient 28 HD; wyrm 30 HD; great wyrm 32+ HD"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Dragon, Outer, Time|Outer Time Dragon (PF1)]]"
   - "[[path srd 3.5/monsters/Dragon, Outer, Time, Young|Young Outer Time Dragon (PF1)]]"

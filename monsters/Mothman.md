@@ -27,7 +27,6 @@ treasure: "Standard"
 alignment: "Usually chaotic neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Mothman|Mothman (PF1)]]"
 status: draft

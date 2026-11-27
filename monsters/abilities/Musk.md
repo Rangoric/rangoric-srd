@@ -3,7 +3,6 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Ex"]
 kind: ["special attack"]
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Skunk (Monster)|Skunk (PF1)]]"
   - "[[path srd 3.5/monsters/Skunk, Giant|Skunk, Giant (PF1)]]"

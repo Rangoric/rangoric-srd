@@ -28,7 +28,6 @@ treasure: "Standard"
 alignment: "Always lawful evil"
 advancement: "Special (see below)"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Barghest|Barghest (PF1)]]"
   - "[[fantasy srd 3.5/monsters/barghest/Barghest|Barghest (3.5)]]"

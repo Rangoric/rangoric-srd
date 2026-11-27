@@ -28,7 +28,6 @@ treasure: "NPC gear (mwk dagger, leather armor, other treasure)"
 alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 5"
 aliases: ["Deep One Hybrid (cleric 1)"]
 based-on:
   - "[[path srd 3.5 foundry/monsters/bestiary-5/Deep One Hybrid (cleric 1)|Deep One Hybrid (cleric 1) (PF1 Foundry)]]"

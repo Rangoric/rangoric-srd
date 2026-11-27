@@ -27,7 +27,6 @@ treasure: "Standard"
 alignment: "Usually chaotic good"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Azruverda|Azruverda (PF1)]]"
 status: draft

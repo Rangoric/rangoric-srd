@@ -29,7 +29,6 @@ alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/vampire/Vampire|Vampire]]"
-book: "Bestiary, Monster Codex"
 based-on:
   - "[[path srd 3.5/monsters/Vampire|Vampire (PF1)]]"
   - "[[path srd 3.5 foundry/monster-templates/Vampire|Vampire (PF1 Foundry)]]"

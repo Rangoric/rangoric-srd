@@ -29,7 +29,6 @@ alignment: "Neutral"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/elf/Elf|Elf]]"
-book: "NPC Codex"
 based-on:
   - "[[path srd 3.5/monsters/Queen of Staves|Queen of Staves (PF1)]]"
 status: draft

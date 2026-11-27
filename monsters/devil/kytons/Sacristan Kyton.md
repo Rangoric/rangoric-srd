@@ -29,7 +29,6 @@ alignment: "Usually lawful evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/devil/kytons/Kyton|Kyton]]"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Kyton, Sacristan|Kyton, Sacristan (PF1)]]"
 status: draft

@@ -3,7 +3,6 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Su"]
 kind: ["quality"]
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Soulbound Mannequin|Soulbound Mannequin (PF1)]]"
 status: draft

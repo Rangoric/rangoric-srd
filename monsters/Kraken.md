@@ -28,7 +28,6 @@ treasure: "Triple"
 alignment: "Usually neutral evil"
 advancement: "21–32 HD (Gargantuan); 33–60 HD (Colossal)"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Kraken|Kraken (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Kraken|Kraken (3.5)]]"

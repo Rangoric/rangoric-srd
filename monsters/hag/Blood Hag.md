@@ -29,7 +29,6 @@ alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/hag/Hag|Hag]]"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Blood Hag|Blood Hag (PF1)]]"
 status: draft

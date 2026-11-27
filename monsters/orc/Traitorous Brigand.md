@@ -29,7 +29,6 @@ alignment: "Neutral evil"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/orc/Orc|Orc]]"
-book: "NPC Codex"
 based-on:
   - "[[path srd 3.5/monsters/Traitorous Brigand|Traitorous Brigand (PF1)]]"
 status: draft

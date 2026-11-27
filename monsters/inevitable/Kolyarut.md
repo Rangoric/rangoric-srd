@@ -29,7 +29,6 @@ alignment: "Always lawful neutral"
 advancement: "14–22 HD (Medium); 23–39 HD (Large)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/inevitable/Inevitable|Inevitable]]"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Inevitable, Kolyarut|Inevitable, Kolyarut (PF1)]]"
   - "[[fantasy srd 3.5/monsters/inevitable/Kolyarut|Kolyarut (3.5)]]"

@@ -28,7 +28,6 @@ alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/gremlin/Gremlins|Gremlins]]"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Gremlin, Nuglub|Gremlin, Nuglub (PF1)]]"
 status: draft

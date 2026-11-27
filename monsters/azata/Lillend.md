@@ -29,7 +29,6 @@ alignment: "Always chaotic good"
 advancement: "8–10 HD (Large); 11–21 HD (Huge)"
 level-adjustment: "+6"
 group: "[[rangoric-srd/monsters/azata/Azata|Azata]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Azata, Lillend|Azata, Lillend (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Lillend|Lillend (3.5)]]"

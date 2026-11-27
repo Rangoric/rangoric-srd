@@ -29,7 +29,6 @@ alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/drake/Drake|Drake]]"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Drake, River|Drake, River (PF1)]]"
 status: draft

@@ -1,7 +1,6 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Leshy, Fungus|Leshy, Fungus (PF1)]]"
   - "[[path srd 3.5/monsters/Leshy, Gourd|Leshy, Gourd (PF1)]]"

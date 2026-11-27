@@ -28,7 +28,6 @@ treasure: "None"
 alignment: "Usually chaotic neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary 2"
 based-on:
   - "[[path srd 3.5/monsters/Protean, Naunet|Protean, Naunet (PF1)]]"
 status: draft

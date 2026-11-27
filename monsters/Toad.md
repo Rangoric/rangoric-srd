@@ -27,7 +27,6 @@ treasure: "None"
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Familiar, Toad|Familiar, Toad (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Toad|Toad (3.5)]]"

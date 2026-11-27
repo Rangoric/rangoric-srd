@@ -29,7 +29,6 @@ alignment: "Always neutral"
 advancement: "None"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/swarm/Swarm|Swarm]]"
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Locust Swarm|Locust Swarm (PF1)]]"
   - "[[fantasy srd 3.5/monsters/swarm/Locust Swarm|Locust Swarm (3.5)]]"

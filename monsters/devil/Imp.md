@@ -29,7 +29,6 @@ alignment: "Always lawful evil"
 advancement: "4–6 HD (Tiny)"
 level-adjustment: "— (Improved Familiar)"
 group: "[[rangoric-srd/monsters/devil/Devil|Devil]]"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Devil, Imp|Devil, Imp (PF1)]]"
   - "[[fantasy srd 3.5/monsters/devil/Imp|Imp (3.5)]]"

@@ -1,7 +1,6 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Scorpion, Black|Scorpion, Black (PF1)]]"
 status: draft

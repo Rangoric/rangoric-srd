@@ -27,7 +27,6 @@ treasure: "Standard"
 alignment: "Always chaotic evil"
 advancement: "3 HD (Medium)"
 level-adjustment: "—"
-book: ["Bestiary", "Monster Codex"]
 based-on:
   - "[[path srd 3.5/monsters/Ghoul|Ghoul (PF1)]]"
   - "[[path srd 3.5/rules/monster-codex/ghouls/Ghouls (Ghouls)|Ghouls, society (PF1)]]"

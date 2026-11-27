@@ -28,7 +28,6 @@ treasure: "Standard"
 alignment: "Usually neutral evil"
 advancement: "7–9 HD (Large); 10–18 HD (Huge)"
 level-adjustment: "+3 (cohort)"
-book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Worg, Winter Wolf (Bestiary)|Worg, Winter Wolf (Bestiary) (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Winter Wolf|Winter Wolf (3.5)]]"

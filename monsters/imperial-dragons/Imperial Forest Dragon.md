@@ -10,7 +10,6 @@ challenge-rating: [6, 8, 10, 11, 13, 14, 15, 17, 18, 19, 20, 22]
 treasure: "Triple"
 alignment: "Usually chaotic evil"
 advancement: "Wyrmling 8 HD; very young 10 HD; young 12 HD; juvenile 14 HD; young adult 16 HD; adult 18 HD; mature adult 20 HD; old 22 HD; very old 24 HD; ancient 26 HD; wyrm 28 HD; great wyrm 30+ HD"
-book: "Bestiary 3"
 based-on:
   - "[[path srd 3.5/monsters/Dragon, Imperial, Forest|Imperial Forest Dragon (PF1)]]"
   - "[[path srd 3.5/monsters/Dragon, Imperial, Forest, Young|Young Imperial Forest Dragon (PF1)]]"

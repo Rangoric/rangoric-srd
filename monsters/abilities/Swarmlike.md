@@ -3,7 +3,6 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Ex"]
 kind: ["defense"]
-book: "Bestiary 4"
 based-on:
   - "[[path srd 3.5/monsters/Galvo|Galvo (PF1)]]"
 status: draft
