@@ -26,6 +26,9 @@
 - Tables of sources: SRD notes don't carry them (SRD Content Rules, "The SRD's text"; No Source Tables, 2026-11-27),
   so no note but legal/, the Changelog and Rangoric SRD has a table whose header has a cell that is exactly Source,
   Sources, Publisher, Source book or Book source (any case, emphasis ignored; SOURCE_HEADERS), outside code.
+- Base Attack/Grapple: 3.5's "Base Attack/Grapple" line (any spacing or bold) and its `base-attack-grapple` key
+  are gone (Adopting CMB and CMD; Atropal and Chichimec CMB, 2026-11-27): a stat block has Base Attack, CMB
+  and CMD instead (OLD_GRAPPLE).
 - Marks: a note marked `sweep: failing` lists its problems in `sweep-issues`; a listed problem is a warning, one
   not listed still fails. A marked note with no problems left, or a listed issue that's gone, is a warning. A note
   added by the change (--added) can't be marked.
@@ -398,11 +401,21 @@ def source_tables(rel, body):
     return list(dict.fromkeys(out))
 
 
+OLD_GRAPPLE = re.compile(r'(?mi)^\W*base attack\W*\s*/\s*grapple\b')
+GRAPPLE_PROBLEM = "3.5's Base Attack/Grapple line (use Base Attack, CMB and CMD: Combat Maneuvers)"
+
+
+def old_grapple(data, body):
+    """3.5's Base Attack/Grapple line or key left in a note (Atropal and Chichimec CMB)."""
+    text = re.sub(r'<!--.*?-->', '', strip_code(body), flags=re.S)
+    return [GRAPPLE_PROBLEM] if OLD_GRAPPLE.search(text) or 'base-attack-grapple' in data else []
+
+
 def rule_problems(rel, data, body):
     """The note's problems against the written rules, in the checker's words (also its sweep-issues lines)."""
     if exempt(rel):
         return source_tables(rel, body)
-    out = source_tables(rel, body) + save_wording(rel, body)
+    out = source_tables(rel, body) + save_wording(rel, body) + old_grapple(data, body)
     folder = folder_rules(rel)
     data = {k: v for k, v in data.items() if k not in ('sweep', 'sweep-issues')}
     if 'all' in README_RULES:
