@@ -8,6 +8,7 @@ Every departure from the source rules, newest first. One line each, with links t
 
 | Date | Change | Rangoric note | Source | Why |
 | --- | --- | --- | --- | --- |
+| 2026-11-27 | No Based-On (NO 7): race, unearthed arcana and trait notes drop the `based-on:` and `change:` frontmatter keys. | [[NO Batch 7 Changes]] | | [[No Based-On]] NO 7 |
 | 2026-11-27 | No Based-On (NO 6): equipment notes drop the `based-on:` and `change:` frontmatter keys. | [[NO Batch 6 Changes]] | | [[No Based-On]] NO 6 |
 | 2026-11-27 | No Based-On (NO 5): feats drop the `based-on:` and `change:` frontmatter keys. | [[NO Batch 5 Changes]] | | [[No Based-On]] NO 5 |
 | 2026-11-27 | No Based-On (NO 4): spells drop the `based-on:` and `change:` frontmatter keys. | [[NO Batch 4 Changes]] | | [[No Based-On]] NO 4 |
