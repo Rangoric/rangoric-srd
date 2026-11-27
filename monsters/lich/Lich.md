@@ -79,6 +79,6 @@ Each lich must make its own phylactery, which requires the [[rangoric-srd/feats/
 
 The most common form of phylactery is a sealed metal box containing strips of parchment on which magical phrases have been transcribed. The box is Tiny and has 40 hit points, hardness 20, and a break DC of 40. Other forms of phylacteries can exist, such as rings, amulets, or similar items.
 
-Pathfinder’s version of this template is [[rangoric-srd/monsters/lich/Alternate Lich|Alternate Lich]]. Also in this folder:
+See also [[rangoric-srd/monsters/lich/Alternate Lich|Alternate Lich]]. Also in this folder:
 
 - [[rangoric-srd/monsters/lich/Alternate Lich|Alternate Lich]]

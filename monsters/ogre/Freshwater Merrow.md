@@ -66,6 +66,6 @@ tags: [rangoric, rangoric/monster]
 
 Freshwater merrows speak Giant.
 
-### 3.5 Merrow
+### Merrow
 
-The 3.5 merrow, a different build from the one above: these cousins of the ogre have the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aquatic|aquatic subtype]]. They dwell in freshwater lakes and rivers. They have a base land speed of 30 feet and a swim speed of 40 feet and are found only in aquatic environments. Instead of the typical ogre’s greatclub, they prefer to use [[rangoric-srd/equipment/weapons/Longspear|longspears]] in melee (attack +8 melee, damage 1d8+7).
+This merrow, a different build from the one above: these cousins of the ogre have the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aquatic|aquatic subtype]]. They dwell in freshwater lakes and rivers. They have a base land speed of 30 feet and a swim speed of 40 feet and are found only in aquatic environments. Instead of the typical ogre’s greatclub, they prefer to use [[rangoric-srd/equipment/weapons/Longspear|longspears]] in melee (attack +8 melee, damage 1d8+7).

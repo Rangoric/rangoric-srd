@@ -32,7 +32,7 @@ Creatures choosing the Focus of the Hordes covet the aggressive power and stealt
 
 **Details:** The eyes of the goblinoid creature become sensitive to light and provide the creature with the ability to see in the dark. The creature becomes more alert to his surroundings and has learned to move in a stealthy manner.
 
-**Game Effects:** The creature’s subtype becomes [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^goblinoid|goblinoid]]. Gains [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] (range of 60 ft.), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception) as a bonus feat (in place of 3.5’s Alertness), and a +4 competence bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks to move silently.
+**Game Effects:** The creature’s subtype becomes [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^goblinoid|goblinoid]]. Gains [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] (range of 60 ft.), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception) as a bonus feat, and a +4 competence bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks to move silently.
 
 ### Orc-Blooded Creature
 

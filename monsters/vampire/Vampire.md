@@ -121,7 +121,7 @@ A vampire cleric has access to two of the following domains: [[rangoric-srd/clas
 
 **Sorcerers and Wizards**: Vampire sorcerers and wizards retain their class abilities, but if a character has a familiar other than a [[rangoric-srd/monsters/Rat|rat]] or [[rangoric-srd/monsters/Bat|bat]], the link between them is broken, and the familiar shuns its former companion. The character can summon another familiar, but it must be a rat or bat.
 
-Pathfinder’s version of this template is [[rangoric-srd/monsters/vampire/Alternate Vampire|Alternate Vampire]]. Also in this folder:
+See also [[rangoric-srd/monsters/vampire/Alternate Vampire|Alternate Vampire]]. Also in this folder:
 
 - [[rangoric-srd/monsters/vampire/Vampire Spawn|Vampire Spawn]]
 - [[rangoric-srd/monsters/vampire/Alternate Vampire|Alternate Vampire]]

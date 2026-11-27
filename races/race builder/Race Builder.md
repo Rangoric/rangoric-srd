@@ -142,7 +142,7 @@ Each trait gives its cost in RP, any prerequisites (a type, subtype, size, abili
 
 ### Step 4: Writing the Race Up
 
-_(Rangoric's step; the builder stops at traits.)_ Write the race as a note in `rangoric-srd/races`, laid out like the others: Size, Base Speed, Perks, Languages, Bonus Languages, then Age, Height and Weight. Each trait is a bullet labelled with its trait name (Pathfinder's names), a quality that needs no words (Medium, normal speed) is just the Size or Base Speed line, and a trait that already has a home elsewhere points there rather than being written out again: darkvision and low-light vision to [[rangoric-srd/rules/Special Abilities and Conditions|Special Abilities and Conditions]], defensive training to [[rangoric-srd/races/PC Races#Defensive Training|PC Races]], Small to Small Characters. The race’s total goes in the note’s `race-points` property, beside its level adjustment if it has one.
+_(Rangoric's step; the builder stops at traits.)_ Write the race as a note in `rangoric-srd/races`, laid out like the others: Size, Base Speed, Perks, Languages, Bonus Languages, then Age, Height and Weight. Each trait is a bullet labelled with its trait name, a quality that needs no words (Medium, normal speed) is just the Size or Base Speed line, and a trait that already has a home elsewhere points there rather than being written out again: darkvision and low-light vision to [[rangoric-srd/rules/Special Abilities and Conditions|Special Abilities and Conditions]], defensive training to [[rangoric-srd/races/PC Races#Defensive Training|PC Races]], Small to Small Characters. The race’s total goes in the note’s `race-points` property, beside its level adjustment if it has one.
 
 ### Races Without Constitution
 

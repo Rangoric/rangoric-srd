@@ -253,7 +253,7 @@ A flying creature moves freely within these limits, with no check:
 
 These limits apply only to movement on the creature’s current turn. At the start of its next turn it can set off in a different direction without a check.
 
-Anything beyond these limits, such as hovering, moving slower, turning sharper or climbing steeper, takes an Acrobatics check; see [[rangoric-srd/skills/Acrobatics#Flying|Flying]]. A creature’s maneuverability and size make those checks easier or harder. (Until 2026-10-31 this was a table of fixed limits for each maneuverability; Pathfinder’s checks replaced it.)
+Anything beyond these limits, such as hovering, moving slower, turning sharper or climbing steeper, takes an Acrobatics check; see [[rangoric-srd/skills/Acrobatics#Flying|Flying]]. A creature’s maneuverability and size make those checks easier or harder.
 
 ##### Evasion and Pursuit
 

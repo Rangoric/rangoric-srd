@@ -12,7 +12,7 @@ tags: [rangoric, rangoric/overview]
 
 # Cruelties
 
-The [[rangoric-srd/classes/Antipaladin|antipaladin]]’s cruelties, from Pathfinder’s antipaladin. The class note says how they’re gained; each adds an effect to touch of corruption. They mirror the paladin’s [[rangoric-srd/class-options/mercies/Mercies|mercies]].
+The [[rangoric-srd/classes/Antipaladin|antipaladin]]’s cruelties. The class note says how they’re gained; each adds an effect to touch of corruption. They mirror the paladin’s [[rangoric-srd/class-options/mercies/Mercies|mercies]].
 
 **3rd level**: [[rangoric-srd/class-options/cruelties/Fatigued (Cruelty)|Fatigued]], [[rangoric-srd/class-options/cruelties/Shaken (Cruelty)|Shaken]], [[rangoric-srd/class-options/cruelties/Sickened (Cruelty)|Sickened]]
 

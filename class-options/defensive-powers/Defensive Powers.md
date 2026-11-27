@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/overview]
 
 # Defensive Powers
 
-The [[rangoric-srd/prestige-classes/Stalwart Defender|stalwart defender]]’s defensive powers, from Pathfinder’s stalwart defender. The class note says how they’re gained.
+The [[rangoric-srd/prestige-classes/Stalwart Defender|stalwart defender]]’s defensive powers. The class note says how they’re gained.
 
 - [[rangoric-srd/class-options/defensive-powers/Bulwark (Defensive Power)|Bulwark]]
 - [[rangoric-srd/class-options/defensive-powers/Clear Mind (Defensive Power)|Clear Mind]]

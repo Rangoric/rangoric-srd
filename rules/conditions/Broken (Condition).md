@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/condition]
 
 # Broken
 
-An item with the broken condition is less effective at its designated task. An item gains it when an effect says so, such as a firearm [[rangoric-srd/equipment/Firearms#Misfires|misfire]]. (Pathfinder also breaks an item that has taken damage in excess of half its hit points; Rangoric keeps the 3.5 rule for now, where an item is destroyed at 0 hit points, as [[rangoric-srd/combat/Combat Maneuvers#Sunder|sunder]] says.) The broken condition has the following effects, depending upon the item.
+An item with the broken condition is less effective at its designated task. An item gains it when an effect says so, such as a firearm [[rangoric-srd/equipment/Firearms#Misfires|misfire]]. (An item is destroyed at 0 hit points, as [[rangoric-srd/combat/Combat Maneuvers#Sunder|sunder]] says.) The broken condition has the following effects, depending upon the item.
 
 - If the item is a weapon, any attacks made with the item suffer a –2 penalty on attack and damage rolls. Such weapons only score a critical hit on a natural 20 and only deal ×2 damage on a confirmed critical hit.
 - If the item is a suit of armor or a shield, the bonus it grants to AC is halved, rounding down. Broken armor doubles its armor check penalty on skills.

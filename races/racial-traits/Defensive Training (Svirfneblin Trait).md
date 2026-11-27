@@ -17,4 +17,4 @@ tags: [rangoric, rangoric/racial-trait]
 
 Svirfneblin gain a +2 dodge bonus to Armor Class.
 
-This isn't the [[rangoric-srd/races/PC Races#^defensive-training|defensive training]] of dwarves and gnomes, which works only against giants; the two share a name in Pathfinder.
+This isn't the [[rangoric-srd/races/PC Races#^defensive-training|defensive training]] of dwarves and gnomes, which works only against giants; the two share a name.

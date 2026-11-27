@@ -175,7 +175,7 @@ _Single Actions Only (Ex)_: Zombies have poor reflexes and can perform only a si
 | **Advancement:** | 16–20 HD (Huge) | | None |
 | **Level Adjustment:** | — | | — |
 
-Pathfinder’s version of this template is [[rangoric-srd/monsters/zombie/Alternate Zombie|Alternate Zombie]]. Also in this folder:
+See also [[rangoric-srd/monsters/zombie/Alternate Zombie|Alternate Zombie]]. Also in this folder:
 
 - [[rangoric-srd/monsters/zombie/Alternate Zombie|Alternate Zombie]]
 - [[rangoric-srd/monsters/zombie/Human Zombie|Human Zombie]]
