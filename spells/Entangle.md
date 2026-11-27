@@ -18,10 +18,7 @@ area: "Plants in a 40-ft.-radius spread"
 duration: "1 min./level (D)"
 defense: "Reflex partial; see text"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Entangle|Entangle (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

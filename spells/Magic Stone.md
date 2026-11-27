@@ -18,10 +18,7 @@ targets: "Up to three pebbles touched"
 duration: "30 minutes or until discharged"
 defense: "Will (harmless, object)"
 spell-resistance: "Yes (harmless, object)"
-based-on:
-  - "[[fantasy srd 3.5/spells/Magic Stone|Magic Stone (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

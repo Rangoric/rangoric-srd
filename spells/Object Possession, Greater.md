@@ -16,10 +16,7 @@ range: "Medium (100 ft. + 10 ft./level)"
 target: "Unattended Gargantuan or smaller object (minimum Tiny) or construct"
 duration: "10 * caster level minute(s)"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Object Possession, Greater|Object Possession, Greater (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

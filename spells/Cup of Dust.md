@@ -21,10 +21,7 @@ target: "One creature"
 duration: "1 day/level (D)"
 defense: "Fortitude"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Cup Of Dust|Cup of Dust (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

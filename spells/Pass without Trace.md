@@ -19,10 +19,7 @@ targets: "One creature/level touched"
 duration: "1 hour/level (D)"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[fantasy srd 3.5/spells/Pass without Trace|Pass without Trace (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

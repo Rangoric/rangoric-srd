@@ -16,10 +16,7 @@ target: "One willing and living creature"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Psychic Surgery|Psychic Surgery (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/spell]
 ---

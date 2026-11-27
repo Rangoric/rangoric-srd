@@ -17,10 +17,7 @@ target: "Melee weapon touched"
 duration: "1 hour/level or until discharged"
 defense: "Reflex (see text)"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Sundering Shards|Sundering Shards (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

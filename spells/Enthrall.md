@@ -25,10 +25,7 @@ targets: "Any number of creatures"
 duration: "1 hour or less"
 defense: "Will; see text"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Enthrall|Enthrall (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

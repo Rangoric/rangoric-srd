@@ -23,10 +23,7 @@ target: "One extraplanar creature"
 duration: "Instantaneous"
 defense: "Will; see text"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Dismissal|Dismissal (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

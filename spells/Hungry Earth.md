@@ -16,10 +16,7 @@ area: "20-foot-radius spread"
 duration: "1 round/level"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5/spells/Hungry Earth|Hungry Earth (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/spell]
 ---

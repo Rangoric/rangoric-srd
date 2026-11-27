@@ -18,10 +18,7 @@ target: "Living creature touched"
 duration: "Instantaneous and 1 minute/level (see text)"
 defense: "Fortitude or Reflex half (see text)"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Bloatbomb|Bloatbomb (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

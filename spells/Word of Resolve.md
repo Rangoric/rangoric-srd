@@ -13,10 +13,7 @@ target: "One ally"
 duration: "Instantaneous"
 defense: "Will negate (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[path srd 3.5/spells/Word Of Resolve|Word of Resolve (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

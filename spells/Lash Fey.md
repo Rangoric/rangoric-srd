@@ -14,10 +14,7 @@ effect: "Cloud that spreads in 10 ft. radius, 5 ft. high"
 duration: "Instantaneous"
 defense: "Reflex half"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/spells/Lash Fey|Lash Fey (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

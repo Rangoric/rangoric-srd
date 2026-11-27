@@ -20,10 +20,7 @@ range: "Close (25 ft. + 5 ft./2 levels)"
 duration: "Instantaneous or 1 round/level; see text"
 defense: "Fortitude partial"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Iron Stake|Iron Stake (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

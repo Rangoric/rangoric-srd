@@ -15,11 +15,7 @@ components:
   - "V"
   - "S"
   - "M"
-based-on:
-  - "[[fantasy srd 3.5/spells/Restoration|Restoration (3.5)]]"
-  - "[[path srd 3.5/spells/Restoration|Restoration (PF1)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

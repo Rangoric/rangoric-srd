@@ -13,10 +13,7 @@ effect: "See text"
 duration: "10 minutes/level"
 defense: "See text"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/spells/Prismatic Helix|Prismatic Helix (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

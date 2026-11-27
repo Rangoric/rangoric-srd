@@ -14,10 +14,7 @@ range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One living being"
 duration: "Instantaneous"
 defense: "Will and Fortitude (see text)"
-based-on:
-  - "[[individual books/Faeries/spells/Harvest Breath of Life|Harvest Breath of Life (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/spell]
 ---

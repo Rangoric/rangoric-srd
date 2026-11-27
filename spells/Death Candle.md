@@ -18,10 +18,7 @@ casting-time: "1 round"
 duration: "Instantaneous/1 round per HD of subject; see text"
 defense: "Fortitude"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Death Candle|Death Candle (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell, evil]
 ---

@@ -20,10 +20,7 @@ target: "One object or one 5-ft. square"
 duration: "1 minute/level (D)"
 defense: "See text"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5/spells/Glue Seal|Glue Seal (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

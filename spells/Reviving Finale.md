@@ -15,10 +15,7 @@ area: "A 20-ft.-radius burst centered on you"
 duration: "Instantaneous"
 defense: "Will half (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[path srd 3.5/spells/Reviving Finale|Reviving Finale (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

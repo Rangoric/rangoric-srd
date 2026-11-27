@@ -10,10 +10,7 @@ level:
   - "Occ 4"
   - "Sor/Wiz 5"
   - "Wit 5"
-based-on:
-  - "[[fantasy srd 3.5/spells/Symbol of Pain|Symbol of Pain (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell, evil]
 ---

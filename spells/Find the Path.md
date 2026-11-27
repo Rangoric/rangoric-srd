@@ -27,10 +27,7 @@ target: "You or creature touched"
 duration: "10 min./level"
 defense: "None or Will (harmless)"
 spell-resistance: "No or Yes (harmless)"
-based-on:
-  - "[[fantasy srd 3.5/spells/Find the Path|Find the Path (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

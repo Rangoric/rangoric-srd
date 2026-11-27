@@ -17,10 +17,7 @@ target: "Incorporeal creature or haunt"
 duration: "1 hour/level (D)"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Entrap Spirit|Entrap Spirit (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/spell]
 ---

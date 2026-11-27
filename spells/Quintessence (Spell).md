@@ -22,10 +22,7 @@ target: "Creature or object touched"
 duration: "10 * caster level minute(s)"
 defense: "Will and Will disbelief; see text"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Quintessence|Quintessence (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

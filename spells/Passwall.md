@@ -16,10 +16,7 @@ effect: "5 ft. by 8 ft. opening, 10 ft. deep plus 5 ft. deep per three additiona
 duration: "1 hour/level (D)"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Passwall|Passwall (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

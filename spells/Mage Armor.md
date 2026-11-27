@@ -25,10 +25,7 @@ target: "Creature touched"
 duration: "1 hour/level (D)"
 defense: "Will (harmless)"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Mage Armor|Mage Armor (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

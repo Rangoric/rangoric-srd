@@ -13,10 +13,7 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "Up to 1 minute/level; see text"
-based-on:
-  - "[[path srd 3.5/spells/Elude Time|Elude Time (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

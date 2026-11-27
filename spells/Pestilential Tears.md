@@ -16,10 +16,7 @@ area: "30foot diameter sphere"
 duration: "2 rounds/level"
 defense: "Fortitude"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/spells/Pestilential Tears|Pestilential Tears (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell, evil]
 ---

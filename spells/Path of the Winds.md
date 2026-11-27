@@ -17,10 +17,7 @@ effect: "40-ft.-high downdraft of wind in a 100-foot line"
 duration: "Concentration + 1 round"
 defense: "Fortitude"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Path Of The Winds|Path of the Winds (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

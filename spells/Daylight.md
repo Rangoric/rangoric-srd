@@ -25,10 +25,7 @@ target: "Object touched"
 duration: "10 min./level (D)"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Daylight|Daylight (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

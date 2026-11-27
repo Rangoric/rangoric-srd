@@ -21,10 +21,7 @@ effect: "5-ft.-diameter sphere"
 duration: "1 round/level"
 defense: "Reflex"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Flaming Sphere|Flaming Sphere (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

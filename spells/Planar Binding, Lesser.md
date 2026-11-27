@@ -21,10 +21,7 @@ target: "One elemental or outsider with 6 HD or less"
 duration: "Instantaneous"
 defense: "Will"
 spell-resistance: "No and Yes; see text"
-based-on:
-  - "[[fantasy srd 3.5/spells/Planar Binding, Lesser|Planar Binding, Lesser (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

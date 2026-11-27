@@ -18,10 +18,7 @@ target: "10 cu. in./level"
 duration: "1 hr./level"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Faeries/spells/Trinket|Trinket (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

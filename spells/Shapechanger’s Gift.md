@@ -17,10 +17,7 @@ target: "Willing living creature touched"
 duration: "10 * caster level minute(s)"
 defense: "Fortitude"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Shapechanger's Gift|Shapechanger’s Gift (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

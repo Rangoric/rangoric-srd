@@ -18,10 +18,7 @@ target: "One creature/level, no two of which can be more than 30 ft. apart"
 duration: "10 minutes/level"
 defense: "Fortitude (harmless)"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Feather Step, Mass|Feather Step, Mass (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

@@ -19,10 +19,7 @@ effect: "Anchored plane of ice, up to one 10-ft. square/level"
 duration: "10 minutes/level"
 defense: "Reflex (see text)"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Creeping Ice|Creeping Ice (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

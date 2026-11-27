@@ -7,10 +7,7 @@ level:
   - "Occ 5"
   - "Sor/Wiz 7"
   - "Wit 7"
-based-on:
-  - "[[fantasy srd 3.5/spells/Symbol of Weakness|Symbol of Weakness (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

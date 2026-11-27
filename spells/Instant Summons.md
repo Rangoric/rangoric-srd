@@ -17,10 +17,7 @@ target: "One object weighing 10 lb. or less whose longest dimension is 6 ft. or 
 duration: "Permanent until discharged"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Instant Summons|Instant Summons (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

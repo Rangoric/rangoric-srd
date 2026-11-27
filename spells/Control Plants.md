@@ -15,10 +15,7 @@ targets: "Up to 2 HD/level of plant creatures, no two of which can be more than 
 duration: "1 min./level"
 defense: "Will"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Control Plants|Control Plants (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

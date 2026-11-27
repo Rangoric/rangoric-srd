@@ -7,10 +7,7 @@ descriptor:
 level:
   - "Sor/Wiz 7"
 duration: "5 rounds or less; see text"
-based-on:
-  - "[[fantasy srd 3.5/spells/Delayed Blast Fireball|Delayed Blast Fireball (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

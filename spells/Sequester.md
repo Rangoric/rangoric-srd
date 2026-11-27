@@ -17,10 +17,7 @@ target: "One willing creature or object (up to a 2-ft. cube/level) touched"
 duration: "One day/level (D)"
 defense: "None or Will (object)"
 spell-resistance: "No or Yes (object)"
-based-on:
-  - "[[fantasy srd 3.5/spells/Sequester|Sequester (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

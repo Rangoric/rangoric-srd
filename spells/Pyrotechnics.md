@@ -20,10 +20,7 @@ target: "One fire source, up to a 20-ft. cube"
 duration: "1d4+1 rounds, or 1d4+1 rounds after creatures leave the smoke cloud; see text"
 defense: "Will or Fortitude; see text"
 spell-resistance: "Yes or No; see text"
-based-on:
-  - "[[fantasy srd 3.5/spells/Pyrotechnics|Pyrotechnics (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

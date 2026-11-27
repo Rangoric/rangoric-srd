@@ -18,10 +18,7 @@ effect: "Cyclone 10 ft. wide at base, 30 ft. wide at top, and 30 ft. tall"
 duration: "1 round/level (D)"
 defense: "Reflex; see text"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Whirlwind|Whirlwind (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

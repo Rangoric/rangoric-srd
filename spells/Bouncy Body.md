@@ -14,10 +14,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "10 minutes/level"
-based-on:
-  - "[[path srd 3.5/spells/Bouncy Body|Bouncy Body (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

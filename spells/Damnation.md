@@ -16,10 +16,7 @@ duration: "Instantaneous (20 hours for compulsion)"
 defense: "Will (see text)"
 spell-resistance: "Yes"
 to-develop: "873,000 gp; 18 days; 34,920 XP. Seeds: foresee (to preview likely hellscape) (DC 17), transport (DC 27), compel (to keep target in hell) (DC 19). Factors: interplanar travel (+4 DC), unwilling target (+4 DC), 1-action casting time (+20 DC), +15 to attack bonus (+30 DC). Mitigating factor: burn 2,400 XP (-24 DC)."
-based-on:
-  - "[[fantasy srd 3.5/spells/Damnation|Damnation (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

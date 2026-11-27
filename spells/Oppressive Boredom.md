@@ -22,10 +22,7 @@ target: "One creature"
 duration: "1 round/level or until broken (see text)"
 defense: "Will (see text)"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Oppressive Boredom|Oppressive Boredom (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

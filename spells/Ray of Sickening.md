@@ -22,10 +22,7 @@ effect: "Ray"
 duration: "1 min./level"
 defense: "Fortitude partial; see text"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Ray Of Sickening|Ray of Sickening (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

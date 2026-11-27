@@ -15,10 +15,7 @@ duration: "Instantaneous"
 defense: "Reflex half"
 spell-resistance: "Yes"
 to-develop: "702,000 gp; 15 days; 28,080 XP. Seeds: energy (DC 19), animate dead (DC 23). Factors: increase damage to 30d6 (+40 DC), set undead type to wight (-4 DC)."
-based-on:
-  - "[[fantasy srd 3.5/spells/Animus Blizzard|Animus Blizzard (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

@@ -16,10 +16,7 @@ components:
   - "S"
   - "M"
 area: "10-ft.-radius emanation around the creature or object touched"
-based-on:
-  - "[[fantasy srd 3.5/spells/Invisibility Sphere|Invisibility Sphere (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

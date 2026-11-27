@@ -18,10 +18,7 @@ target: "One melee weapon"
 duration: "1 round/level (see text)"
 defense: "Fortitude (object)"
 spell-resistance: "Yes (object)"
-based-on:
-  - "[[path srd 3.5/spells/Sun Metal|Sun Metal (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

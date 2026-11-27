@@ -11,10 +11,7 @@ level:
   - "Pal 4"
 range: "Close (25 ft. + 5 ft./2 levels)"
 targets: "One creature/level, no two of which can be more than 30 ft. apart"
-based-on:
-  - "[[path srd 3.5/spells/Blessing Of Luck And Resolve, Mass|Blessing of Luck and Resolve, Mass (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

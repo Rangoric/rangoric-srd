@@ -23,10 +23,7 @@ target: "One creature's blood or one bloodstain"
 duration: "Instantaneous"
 defense: "Will (see text)"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5/spells/Blood Biography|Blood Biography (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

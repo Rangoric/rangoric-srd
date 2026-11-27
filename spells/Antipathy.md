@@ -22,10 +22,7 @@ target: "One location (up to a 10-ft. cube/level) or one object"
 duration: "2 hours/level (D)"
 defense: "Will partial"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Antipathy|Antipathy (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

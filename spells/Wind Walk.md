@@ -19,10 +19,7 @@ targets: "You and one touched creature per three levels"
 duration: "1 hour/level (D); see text"
 defense: "No and Will (harmless)"
 spell-resistance: "No and Yes (harmless)"
-based-on:
-  - "[[fantasy srd 3.5/spells/Wind Walk|Wind Walk (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

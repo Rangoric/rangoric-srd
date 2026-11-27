@@ -16,10 +16,7 @@ target: "All living creatures within range"
 duration: "Concentration"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/spells/Drinking Song|Drinking Song (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

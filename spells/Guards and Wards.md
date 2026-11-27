@@ -16,10 +16,7 @@ area: "Up to 200 sq. ft./level (S)"
 duration: "2 hours/level (D)"
 defense: "See text"
 spell-resistance: "See text"
-based-on:
-  - "[[fantasy srd 3.5/spells/Guards and Wards|Guards and Wards (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

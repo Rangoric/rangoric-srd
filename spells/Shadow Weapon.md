@@ -20,10 +20,7 @@ effect: "One shadow weapon"
 duration: "1 minute/level"
 defense: "Will disbelief (if interacted with)"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Shadow Weapon|Shadow Weapon (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

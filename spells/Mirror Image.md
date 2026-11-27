@@ -20,10 +20,7 @@ casting-time: "1 standard action"
 range: "Personal; see text"
 target: "You"
 duration: "1 min./level (D)"
-based-on:
-  - "[[fantasy srd 3.5/spells/Mirror Image|Mirror Image (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

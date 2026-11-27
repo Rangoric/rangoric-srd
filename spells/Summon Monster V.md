@@ -17,10 +17,7 @@ level:
   - "SumU 4"
   - "Wit 5"
 effect: "One or more summoned creatures, no two of which can be more than 30 ft. apart"
-based-on:
-  - "[[fantasy srd 3.5/spells/Summon Monster V|Summon Monster V (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

@@ -17,10 +17,7 @@ target: "One ropelike object, length up to 50 ft. + 5 ft./level"
 duration: "Caster level minute(s)"
 defense: "Fortitude (object)"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Handy Grapnel|Handy Grapnel (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

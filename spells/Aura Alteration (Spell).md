@@ -19,10 +19,7 @@ target: "One object or willing creature"
 duration: "1 day/level (D)"
 defense: "Will (harmless, object)"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Aura Alteration|Aura Alteration (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/spell]
 ---

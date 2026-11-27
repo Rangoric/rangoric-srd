@@ -21,10 +21,7 @@ area: "Water in a volume of 10 ft./level by 10 ft./level by 2 ft./level (S)"
 duration: "10 min./level (D)"
 defense: "None; see text"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Control Water|Control Water (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

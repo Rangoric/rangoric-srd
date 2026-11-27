@@ -13,10 +13,7 @@ target: "One living creature"
 duration: "Instantaneous"
 defense: "Will (harmless)"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Gallant Inspiration|Gallant Inspiration (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

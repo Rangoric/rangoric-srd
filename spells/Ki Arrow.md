@@ -16,10 +16,7 @@ target: "1 arrow touched"
 duration: "Instantaneous"
 defense: "Fortitude (object)"
 spell-resistance: "Yes (object)"
-based-on:
-  - "[[path srd 3.5/spells/Ki Arrow|Ki Arrow (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

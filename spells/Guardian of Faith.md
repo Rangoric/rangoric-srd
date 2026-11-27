@@ -15,10 +15,7 @@ target: "One ally"
 duration: "1 minute/level"
 defense: "Will (harmless)"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5/spells/Guardian Of Faith|Guardian of Faith (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

@@ -15,10 +15,7 @@ target: "One touched object of up to 2 cu. ft./level"
 duration: "One day/level; see text"
 defense: "Will (object)"
 spell-resistance: "Yes (object)"
-based-on:
-  - "[[fantasy srd 3.5/spells/Shrink Item|Shrink Item (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

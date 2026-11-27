@@ -5,10 +5,7 @@ school: "Necromancy"
 level:
   - "Clr 0"
 defense: "Will"
-based-on:
-  - "[[fantasy srd 3.5/spells/Inflict Minor Wounds|Inflict Minor Wounds (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

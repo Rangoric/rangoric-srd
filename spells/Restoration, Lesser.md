@@ -24,10 +24,7 @@ target: "Creature touched"
 duration: "Instantaneous"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[fantasy srd 3.5/spells/Restoration, Lesser|Restoration, Lesser (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

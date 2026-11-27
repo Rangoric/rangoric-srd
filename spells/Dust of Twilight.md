@@ -19,10 +19,7 @@ target: "Creatures and objects in a 10-ft. spread"
 duration: "Instantaneous"
 defense: "Fortitude (fatigue only)"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5/spells/Dust Of Twilight|Dust of Twilight (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

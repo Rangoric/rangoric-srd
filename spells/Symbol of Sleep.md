@@ -12,10 +12,7 @@ level:
   - "Sor/Wiz 5"
   - "Wit 5"
 defense: "Will"
-based-on:
-  - "[[fantasy srd 3.5/spells/Symbol of Sleep|Symbol of Sleep (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

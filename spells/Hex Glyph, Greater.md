@@ -11,10 +11,7 @@ components:
   - "M"
 defense: "See text"
 spell-resistance: "No (object) and yes (see text)"
-based-on:
-  - "[[path srd 3.5/spells/Hex Glyph, Greater|Hex Glyph, Greater (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/spell]
 ---

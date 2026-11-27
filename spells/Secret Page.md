@@ -18,10 +18,7 @@ target: "Page touched, up to 3 sq. ft. in size"
 duration: "Permanent"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Secret Page|Secret Page (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

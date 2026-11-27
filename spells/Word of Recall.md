@@ -15,10 +15,7 @@ target: "You and touched objects or other willing creatures"
 duration: "Instantaneous"
 defense: "None or Will (harmless, object)"
 spell-resistance: "No or Yes (harmless, object)"
-based-on:
-  - "[[fantasy srd 3.5/spells/Word of Recall|Word of Recall (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

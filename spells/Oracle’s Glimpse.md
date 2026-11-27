@@ -12,10 +12,7 @@ casting-time: "1 hour"
 area: "Personal"
 duration: "4d12 hours (see text)"
 defense: "Fortitude partial, Will Partial (see text)"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/spells/Ingaeln’s Oracle|Ingaeln’s Oracle (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

@@ -27,10 +27,7 @@ targets: "One living creature per three levels, no two of which can be more than
 duration: "1 round/level or 1 round; see text for cause fear"
 defense: "Will partial"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Scare|Scare (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

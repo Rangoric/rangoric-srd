@@ -19,10 +19,7 @@ effect: "Opaque sheet of ectoplasm up to 10 ft. square/level or a sphere or hemi
 duration: "Caster level minute(s)"
 defense: "None, and Will; see text"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Wall of Ectoplasm|Wall of Ectoplasm (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

@@ -15,10 +15,7 @@ area: "40-ft.-radius burst centered on you"
 duration: "Instantaneous"
 defense: "Fortitude partial (see text)"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Telekinetic Storm|Telekinetic Storm (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/spell]
 ---

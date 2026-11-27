@@ -14,10 +14,7 @@ duration: "20 hours"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 to-develop: "405,000 gp; 9 days; 16,200 XP. Seed: fortify (DC 27). Factor: +10 additional SR (+40 DC). Mitigating factor: two additional casters contributing 6th-level spell slots (-22 DC)."
-based-on:
-  - "[[fantasy srd 3.5/spells/Greater Spell Resistance|Greater Spell Resistance (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

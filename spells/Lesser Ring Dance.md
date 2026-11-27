@@ -19,10 +19,7 @@ target: "1 creature/level"
 duration: "Instantaneous"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Faeries/spells/Lesser Ring Dance|Lesser Ring Dance (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/spell]
 ---

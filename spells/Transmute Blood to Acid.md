@@ -18,10 +18,7 @@ target: "One living creature"
 duration: "Concentration (maximum 1 round/5 levels)"
 defense: "Fortitude half"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Transmute Blood To Acid|Transmute Blood to Acid (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

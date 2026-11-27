@@ -27,11 +27,7 @@ target: "Creature or object of up to 1 cu. ft./level touched"
 duration: "Instantaneous or 10 min./level; see text"
 defense: "Will (harmless, object)"
 spell-resistance: "Yes (harmless, object)"
-based-on:
-  - "[[fantasy srd 3.5/spells/Neutralize Poison|Neutralize Poison (3.5)]]"
-  - "[[path srd 3.5/spells/Neutralize Poison|Neutralize Poison (PF1)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

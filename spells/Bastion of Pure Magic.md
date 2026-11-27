@@ -13,10 +13,7 @@ range: "Touch"
 area: "15 ft. diameter emanation centered on the caster"
 effect: "One charged gem"
 duration: "See text"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/spells/Bastion of Pure Magic|Bastion of Pure Magic (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

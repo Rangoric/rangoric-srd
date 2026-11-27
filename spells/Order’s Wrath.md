@@ -16,10 +16,7 @@ area: "Nonlawful creatures within a burst that fills a 30-ft. cube"
 duration: "Instantaneous (1 round); see text"
 defense: "Will partial; see text"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Order’s Wrath|Order’s Wrath (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell, lawful]
 ---

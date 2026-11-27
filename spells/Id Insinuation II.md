@@ -15,10 +15,7 @@ targets: "Two creatures"
 duration: "Concentration + 1 round"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Id Insinuation II|Id Insinuation II (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/spell]
 ---

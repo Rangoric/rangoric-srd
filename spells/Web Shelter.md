@@ -23,10 +23,7 @@ effect: "5 ft.–10 ft. diameter web sphere or 5 ft.–20 ft. hemisphere"
 duration: "1 hour/level (D)"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5/spells/Web Shelter|Web Shelter (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

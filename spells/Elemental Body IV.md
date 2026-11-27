@@ -15,11 +15,7 @@ target: "You"
 duration: "1 min./level (D)"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5/spells/Elemental Body IV|Elemental Body IV (PF1)]]"
-  - "[[path srd 3.5 foundry/spells/Elemental Body IV|Elemental Body IV (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/spell]
 ---

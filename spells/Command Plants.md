@@ -16,10 +16,7 @@ targets: "Up to 2 HD/level of plant creatures, no two of which can be more than 
 duration: "One day/level"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Command Plants|Command Plants (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

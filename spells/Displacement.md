@@ -28,10 +28,7 @@ target: "Creature touched"
 duration: "1 round/level (D)"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[fantasy srd 3.5/spells/Displacement|Displacement (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

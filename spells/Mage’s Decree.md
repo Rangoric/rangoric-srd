@@ -22,10 +22,7 @@ range: "Up to 1 mile/level, see text"
 target: "See text"
 duration: "Instantaneous"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Mage's Decree|Mage’s Decree (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

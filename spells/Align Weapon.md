@@ -17,10 +17,7 @@ target: "Weapon touched or fifty projectiles (all of which must be in contact wi
 duration: "1 min./level"
 defense: "Will (harmless, object)"
 spell-resistance: "Yes (harmless, object)"
-based-on:
-  - "[[fantasy srd 3.5/spells/Align Weapon|Align Weapon (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

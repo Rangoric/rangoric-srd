@@ -12,10 +12,7 @@ level:
   - "Sha 6"
   - "Skd 6"
   - "Wit 7"
-based-on:
-  - "[[fantasy srd 3.5/spells/Cure Moderate Wounds, Mass|Cure Moderate Wounds, Mass (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

@@ -18,10 +18,7 @@ targets: "One creature/level, no two of which can be more than 30 ft. apart"
 duration: "1 hour/level (D)"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[path srd 3.5/spells/Planar Adaptation, Mass|Planar Adaptation, Mass (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

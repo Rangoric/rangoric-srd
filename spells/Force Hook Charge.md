@@ -17,10 +17,7 @@ target: "One creature or object within range and you"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Force Hook Charge|Force Hook Charge (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-09
 tags: [rangoric, rangoric/spell]
 ---

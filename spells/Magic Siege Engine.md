@@ -19,10 +19,7 @@ target: "One siege engine touched"
 duration: "1 minute/level"
 defense: "Will (harmless, object)"
 spell-resistance: "Yes (harmless, object)"
-based-on:
-  - "[[path srd 3.5/spells/Magic Siege Engine|Magic Siege Engine (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

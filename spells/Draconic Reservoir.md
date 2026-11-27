@@ -21,10 +21,7 @@ target: "Creature touched"
 duration: "10 minutes/level or until discharged; see text"
 defense: "Fortitude (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[path srd 3.5/spells/Draconic Reservoir|Draconic Reservoir (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

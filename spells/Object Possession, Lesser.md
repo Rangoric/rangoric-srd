@@ -18,10 +18,7 @@ range: "Touch"
 target: "Unattended Tiny or Small object"
 duration: "Caster level minute(s)"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Object Possession, Lesser|Object Possession, Lesser (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

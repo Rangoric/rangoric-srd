@@ -18,10 +18,7 @@ targets: "One or more creatures, no two of which can be more than 30 ft. apart"
 duration: "Concentration + 1 hour/level (D)"
 defense: "Will; see text"
 spell-resistance: "Yes; see text"
-based-on:
-  - "[[fantasy srd 3.5/spells/Veil|Veil (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

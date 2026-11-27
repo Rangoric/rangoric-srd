@@ -20,10 +20,7 @@ range: "Long (400 ft. + 40 ft./level)"
 target: "Yourself and one animal companion, familiar, or spirit animal within range"
 duration: "Instantaneous"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Companion Transposition|Companion Transposition (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

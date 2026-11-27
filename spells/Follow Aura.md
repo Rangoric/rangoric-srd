@@ -18,10 +18,7 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "10 minutes/level (D)"
-based-on:
-  - "[[path srd 3.5/spells/Follow Aura|Follow Aura (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell, chaotic, evil, good, lawful]
 ---

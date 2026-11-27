@@ -21,10 +21,7 @@ target: "One living creature"
 duration: "Caster level round(s)"
 defense: "Will, Fortitude, see text"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Oneiric Horror, Greater|Oneiric Horror, Greater (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

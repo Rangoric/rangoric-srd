@@ -21,10 +21,7 @@ area: "20-ft.-radius emanation centered on you"
 duration: "10 minute/level"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Aura Of Doom|Aura of Doom (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

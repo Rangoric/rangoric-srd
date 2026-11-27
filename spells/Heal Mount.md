@@ -14,10 +14,7 @@ target: "Your mount touched"
 duration: "Instantaneous"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[fantasy srd 3.5/spells/Heal Mount|Heal Mount (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

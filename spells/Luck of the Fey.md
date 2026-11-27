@@ -25,10 +25,7 @@ effect: "One reroll"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Faeries/spells/Luck of the Fey|Luck of the Fey (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

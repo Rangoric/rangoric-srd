@@ -18,10 +18,7 @@ range: "Touch"
 effect: "A horselike wicker construct"
 duration: "Caster level hour(s)"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Wicker Horse|Wicker Horse (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/spell]
 ---

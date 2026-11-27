@@ -14,10 +14,7 @@ duration: "20 rounds (D)"
 defense: "None"
 spell-resistance: "No"
 to-develop: "648,000 gp; 13 days; 25,920 XP. Seed: summon (DC 14). Factors: summon CR 21 creature (DC +38), 1-action casting time (+20 DC)."
-based-on:
-  - "[[fantasy srd 3.5/spells/Summon Behemoth|Summon Behemoth (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

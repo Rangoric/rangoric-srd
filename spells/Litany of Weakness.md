@@ -17,10 +17,7 @@ target: "One creature"
 duration: "1 round"
 defense: "No"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Litany Of Weakness|Litany of Weakness (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/spell]
 ---

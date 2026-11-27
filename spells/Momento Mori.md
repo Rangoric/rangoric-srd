@@ -14,10 +14,7 @@ duration: "Instantaneous"
 defense: "Fortitude partial (see text)"
 spell-resistance: "Yes"
 to-develop: "774,000 gp; 16 days; 30,960 XP. Seed: slay (DC 25). Factor: increase to 160 HD (+8 DC), quickened (+28 DC), no verbal or somatic components (+4 DC), +10 to attack bonus (+20 DC)."
-based-on:
-  - "[[fantasy srd 3.5/spells/Momento Mori|Momento Mori (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

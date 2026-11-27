@@ -13,10 +13,7 @@ target: "One ally"
 duration: "1 round/level"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[path srd 3.5/spells/Lend Judgment|Lend Judgment (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

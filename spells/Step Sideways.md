@@ -13,10 +13,7 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 round/level"
-based-on:
-  - "[[individual books/Faeries/spells/Step Sideways|Step Sideways (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/spell]
 ---

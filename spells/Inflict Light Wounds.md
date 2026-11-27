@@ -21,10 +21,7 @@ target: "Creature touched"
 duration: "Instantaneous"
 defense: "Will half"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Inflict Light Wounds|Inflict Light Wounds (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

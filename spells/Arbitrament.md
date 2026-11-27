@@ -15,10 +15,7 @@ target: "Non-neutral creatures in a 40-ft.-radius spread centered on you"
 duration: "Instantaneous"
 defense: "Will partial, see text"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Arbitrament|Arbitrament (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

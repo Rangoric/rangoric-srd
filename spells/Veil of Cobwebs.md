@@ -14,10 +14,7 @@ range: "Close (25 ft. + 5 ft./2 levels)"
 area: "5-ft. radius/level or creature touched (see text)"
 duration: "10 minutes/level"
 defense: "None"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/spells/Veil of Cobwebs|Veil of Cobwebs (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

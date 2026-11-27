@@ -20,10 +20,7 @@ target: "One chest and up to 1 cu. ft. of goods/caster level"
 duration: "Sixty days or until discharged"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Secret Chest|Secret Chest (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

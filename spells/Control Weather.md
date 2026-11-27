@@ -18,10 +18,7 @@ area: "2-mile-radius circle, centered on you; see text"
 duration: "4d12 hours; see text"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Control Weather|Control Weather (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

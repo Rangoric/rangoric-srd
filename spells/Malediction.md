@@ -18,10 +18,7 @@ target: "Living creature touched"
 duration: "Instantaneous/1 minute per HD of the target; see text"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Malediction|Malediction (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell, evil]
 ---

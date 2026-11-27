@@ -15,10 +15,7 @@ area: "120-ft.-radius emanation centered on you"
 duration: "1 minute/level"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Crown Of Glory|Crown Of Glory (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

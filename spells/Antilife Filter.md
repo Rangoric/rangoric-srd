@@ -19,10 +19,7 @@ area: "10 ft. radius emanation centered on you"
 duration: "10 minutes/level (D)"
 defense: "None"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Faeries/spells/Antilife Filter|Antilife Filter (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

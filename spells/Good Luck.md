@@ -19,10 +19,7 @@ area: "Several ally creatures, no two of which may be more than 25 ft. apart"
 duration: "1 minute/level"
 defense: "None"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[individual books/Faeries/spells/Good Luck|Good Luck (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

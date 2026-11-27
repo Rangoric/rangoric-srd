@@ -20,10 +20,7 @@ area: "The caster and all allies within a 50-ft. burst, centered on the caster"
 duration: "1 min./level"
 defense: "None"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[fantasy srd 3.5/spells/Bless|Bless (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

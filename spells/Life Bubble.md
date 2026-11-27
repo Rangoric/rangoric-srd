@@ -21,10 +21,7 @@ target: "Creatures touched, up to one/level"
 duration: "2 hours/level; see text"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[path srd 3.5/spells/Life Bubble|Life Bubble (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

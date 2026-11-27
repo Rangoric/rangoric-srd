@@ -15,10 +15,7 @@ range: "0 ft."
 area: "2-mile-radius emanation"
 duration: "Permanent"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Sea of Dust|Sea of Dust (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

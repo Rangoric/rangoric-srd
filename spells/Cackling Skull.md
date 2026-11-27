@@ -14,10 +14,7 @@ target: "One skull"
 duration: "Permanent until discharged"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Cackling Skull|Cackling Skull (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/spell]
 ---

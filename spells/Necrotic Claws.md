@@ -12,10 +12,7 @@ components:
 casting-time: "1 standard action"
 range: "Personal"
 duration: "2d6 rounds plus 1 round/level"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/spells/Necrotic Claws|Necrotic Claws (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

@@ -11,10 +11,7 @@ level:
   - "Sum 6"
   - "Wit 9"
 target: "One creature"
-based-on:
-  - "[[fantasy srd 3.5/spells/Dominate Monster|Dominate Monster (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

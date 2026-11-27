@@ -17,10 +17,7 @@ effect: "360-ft.-radius storm cloud"
 duration: "Concentration (maximum 10 rounds) (D)"
 defense: "See text"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Storm of Vengeance|Storm of Vengeance (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

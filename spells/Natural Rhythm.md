@@ -15,10 +15,7 @@ target: "Creature touched"
 duration: "1 round/level"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[path srd 3.5/spells/Natural Rhythm|Natural Rhythm (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

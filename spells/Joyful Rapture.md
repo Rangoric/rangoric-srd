@@ -21,10 +21,7 @@ area: "All allies and opponents within a 60-ft.-radius burst centered on you"
 duration: "Instantaneous"
 defense: "No"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Joyful Rapture|Joyful Rapture (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

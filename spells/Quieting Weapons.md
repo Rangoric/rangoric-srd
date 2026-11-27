@@ -23,10 +23,7 @@ target: "Up to one natural or manufactured weapon per 3 caster levels"
 duration: "10 * caster level minute(s)"
 defense: "Will (object)"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Quieting Weapons|Quieting Weapons (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

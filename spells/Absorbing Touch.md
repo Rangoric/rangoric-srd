@@ -12,10 +12,7 @@ target: "Object touched"
 duration: "1 day/level (D)"
 defense: "Fortitude (object)"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5/spells/Absorbing Touch|Absorbing Touch (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

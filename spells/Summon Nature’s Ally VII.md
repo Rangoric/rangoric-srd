@@ -8,10 +8,7 @@ descriptor:
 level:
   - "Drd 7"
 effect: "One or more creatures, no two of which can be more than 30 ft. apart"
-based-on:
-  - "[[fantasy srd 3.5/spells/Summon Nature’s Ally VII|Summon Nature’s Ally VII (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

@@ -21,10 +21,7 @@ target: "One creature"
 duration: "Instantaneous, then 1 hour or until triggered plus 6 rounds; see text"
 defense: "Will partial, then Fortitude (see text)"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Poisonous Balm|Poisonous Balm (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

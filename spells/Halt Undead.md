@@ -15,10 +15,7 @@ targets: "Up to three undead creatures, no two of which can be more than 30 ft. 
 duration: "1 round/level"
 defense: "Will (see text)"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Halt Undead|Halt Undead (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

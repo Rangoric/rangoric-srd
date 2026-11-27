@@ -20,10 +20,7 @@ target: "Creature touched"
 duration: "1 round/level (up to 5 rounds) (D)"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[path srd 3.5/spells/Vanish|Vanish (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

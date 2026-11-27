@@ -20,10 +20,7 @@ target: "Creature touched"
 duration: "1 round/level"
 defense: "Fortitude partial"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Excruciating Deformation|Excruciating Deformation (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell, evil]
 ---

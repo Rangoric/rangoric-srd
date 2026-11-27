@@ -22,10 +22,7 @@ target: "Stone or stone object touched, up to 10 cu. ft. + 1 cu. ft./level"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Stone Shape|Stone Shape (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

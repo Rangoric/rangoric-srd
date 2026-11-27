@@ -29,10 +29,7 @@ target: "You"
 duration: "1 round/level"
 defense: "See text"
 spell-resistance: "See text"
-based-on:
-  - "[[path srd 3.5/spells/Compel Hostility|Compel Hostility (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

@@ -16,10 +16,7 @@ target: "Your familiar or spirit animal"
 duration: "1 hour/level or until expended"
 defense: "Fortitude"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Callback, Greater|Callback, Greater (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

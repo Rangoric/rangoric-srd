@@ -22,10 +22,7 @@ target: "Willing half-orc touched"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5/spells/Half-Blood Extraction|Half-Blood Extraction (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

@@ -9,10 +9,7 @@ level:
   - "Drd 2"
   - "Hun 2"
 target: "Up to three boulders touched"
-based-on:
-  - "[[path srd 3.5/spells/Magic Boulder|Magic Boulder (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

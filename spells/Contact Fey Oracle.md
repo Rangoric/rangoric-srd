@@ -14,10 +14,7 @@ casting-time: "10 minutes"
 range: "Personal"
 target: "You"
 duration: "Concentration"
-based-on:
-  - "[[individual books/Faeries/spells/Contact Fey Oracle|Contact Fey Oracle (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/spell]
 ---

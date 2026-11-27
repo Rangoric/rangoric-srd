@@ -20,10 +20,7 @@ effect: "10-ft. chain"
 duration: "1 round/level (D)"
 defense: "None"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Chain Of Perdition|Chain of Perdition (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

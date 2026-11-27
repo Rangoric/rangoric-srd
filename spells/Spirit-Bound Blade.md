@@ -15,10 +15,7 @@ target: "Weapon touched"
 duration: "1 minute/level"
 defense: "Will (harmless, object)"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Spirit-Bound Blade|Spirit-Bound Blade (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/spell]
 ---

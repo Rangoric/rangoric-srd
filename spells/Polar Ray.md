@@ -16,10 +16,7 @@ effect: "Ray"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Polar Ray|Polar Ray (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

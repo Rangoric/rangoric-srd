@@ -20,10 +20,7 @@ target: "One willing creature"
 duration: "10 minutes/level or until you return to your body"
 defense: "Will (see text)"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Marionette Possession|Marionette Possession (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

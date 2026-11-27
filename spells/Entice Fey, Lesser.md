@@ -20,10 +20,7 @@ range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "One called fey with 6 Hit Dice or fewer"
 duration: "Instantaneous"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Entice Fey, Lesser|Entice Fey, Lesser (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

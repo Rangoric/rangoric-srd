@@ -21,10 +21,7 @@ effect: "Colorful lights with a 20-ft.-radius spread"
 duration: "Concentration +1 round/ level (D)"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Rainbow Pattern|Rainbow Pattern (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

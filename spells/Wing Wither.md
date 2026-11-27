@@ -18,10 +18,7 @@ target: "One creature/level, no two of which can be more than 30 ft. apart"
 duration: "1 round/level"
 defense: "Fortitude"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Faeries/spells/Wing Wither|Wing Wither (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

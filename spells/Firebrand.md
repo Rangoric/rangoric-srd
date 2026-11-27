@@ -15,10 +15,7 @@ target: "One creature/4 levels, no two of which can be more than 30 ft. apart"
 duration: "1 round/level"
 defense: "Will (harmless), but see below"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[path srd 3.5/spells/Firebrand|Firebrand (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

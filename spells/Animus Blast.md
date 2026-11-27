@@ -15,10 +15,7 @@ duration: "Instantaneous"
 defense: "Reflex half"
 spell-resistance: "Yes"
 to-develop: "450,000 gp; 9 days; 18,000 XP. Seeds: energy (DC 19), animate dead (DC 23). Factors: set undead type to skeleton (-12 DC), 1-action casting time (+20 DC)."
-based-on:
-  - "[[fantasy srd 3.5/spells/Animus Blast|Animus Blast (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

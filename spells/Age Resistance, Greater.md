@@ -16,10 +16,7 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "24 hours"
-based-on:
-  - "[[path srd 3.5/spells/Age Resistance, Greater|Age Resistance, Greater (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

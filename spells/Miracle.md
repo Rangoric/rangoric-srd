@@ -16,10 +16,7 @@ target-effect-or-area: "See text"
 duration: "See text"
 defense: "See text"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Miracle|Miracle (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

@@ -17,10 +17,7 @@ effect: "One or more rays"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Scorching Ray|Scorching Ray (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

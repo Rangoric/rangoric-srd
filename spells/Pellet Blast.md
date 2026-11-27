@@ -20,10 +20,7 @@ area: "Cone-shaped burst"
 duration: "Instantaneous"
 defense: "Reflex half"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5/spells/Pellet Blast|Pellet Blast (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

@@ -6,10 +6,7 @@ level:
   - "Sor/Wiz 4"
 defense: "Reflex, Fortitude (see text)"
 spell-resistance: "No"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/spells/Sinister Web|Sinister Web (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

@@ -5,10 +5,7 @@ school: "Abjuration"
 level:
   - "Clr 6"
   - "Pal 4"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/spells/Armor of Faith|Armor of Faith (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

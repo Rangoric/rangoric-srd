@@ -10,10 +10,7 @@ level:
   - "Psy 6"
   - "Sha 6"
 effect: "One or two called elementals or outsiders, totaling no more than 12 HD, which cannot be more than 30 ft. apart when they appear"
-based-on:
-  - "[[fantasy srd 3.5/spells/Planar Ally|Planar Ally (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

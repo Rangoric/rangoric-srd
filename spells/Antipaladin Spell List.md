@@ -1,10 +1,7 @@
 ---
 srd-type: "overview"
 section: "Spells"
-based-on:
-  - "[[path srd 3.5/archetypes/Class Features#Antipaladin Spells|Antipaladin (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/overview]
 ---

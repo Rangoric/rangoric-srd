@@ -17,10 +17,7 @@ target: "1 creature"
 duration: "10 min./level"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/spells/Forest Invisibility|Forest Invisibility (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

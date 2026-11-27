@@ -18,10 +18,7 @@ target: "One siege engine of any size"
 duration: "10 minute/level"
 defense: "Fortitude (harmless, object)"
 spell-resistance: "Yes (harmless/object)"
-based-on:
-  - "[[path srd 3.5/spells/Energy Siege Shot, Greater|Energy Siege Shot, Greater (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

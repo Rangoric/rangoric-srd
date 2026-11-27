@@ -18,10 +18,7 @@ effect: "One stream of venom"
 duration: "Instantaneous; see text"
 defense: "Fortitude partial"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5/spells/Spit Venom (Spell)|Spit Venom (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

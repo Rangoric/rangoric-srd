@@ -23,10 +23,7 @@ effect: "Burst of light"
 duration: "Instantaneous"
 defense: "Fortitude"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Flare|Flare (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

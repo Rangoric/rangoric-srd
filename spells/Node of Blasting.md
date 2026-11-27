@@ -17,10 +17,7 @@ target: "One touched object weighing no more than 10 lbs."
 duration: "Permanent until discharged (D)"
 defense: "Will partial; see text"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Node of Blasting|Node of Blasting (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/spell]
 ---

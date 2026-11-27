@@ -12,10 +12,7 @@ casting-time: "1 round"
 range: "Personal"
 target: "You"
 duration: "1 minute/2 levels"
-based-on:
-  - "[[fantasy srd 3.5/spells/Surelife|Surelife (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

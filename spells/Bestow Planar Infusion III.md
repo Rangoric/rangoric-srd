@@ -16,10 +16,7 @@ target: "Creature touched"
 duration: "Caster level hour(s)"
 defense: "Fortitude"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Bestow Planar Infusion III|Bestow Planar Infusion III (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

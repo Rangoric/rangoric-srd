@@ -18,10 +18,7 @@ effect: "See text"
 duration: "See text"
 defense: "Will disbelief (if interacted with); varies; see text"
 spell-resistance: "Yes; see text"
-based-on:
-  - "[[fantasy srd 3.5/spells/Shadow Conjuration|Shadow Conjuration (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

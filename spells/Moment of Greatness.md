@@ -22,10 +22,7 @@ target: "The caster and allies within a 50-ft. burst centered on the caster"
 duration: "1 minute/level or until discharged"
 defense: "None"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[path srd 3.5/spells/Moment Of Greatness|Moment of Greatness (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

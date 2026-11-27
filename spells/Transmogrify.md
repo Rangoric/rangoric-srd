@@ -15,10 +15,7 @@ target: "Your eidolon"
 duration: "Instantaneous"
 defense: "Will (harmless)"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5/spells/Transmogrify|Transmogrify (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

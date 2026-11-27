@@ -19,10 +19,7 @@ target: "Creature touched"
 duration: "1 hour/level"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[path srd 3.5/spells/Countless Eyes|Countless Eyes (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

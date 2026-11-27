@@ -17,10 +17,7 @@ effect: "Extradimensional meadow, up to three 10-ft. cubes/level (S)"
 duration: "2 hours/level (D)"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5/spells/Fairy Ring Retreat|Fairy Ring Retreat (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

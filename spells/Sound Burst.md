@@ -19,10 +19,7 @@ area: "10-ft.-radius spread"
 duration: "Instantaneous"
 defense: "Fortitude partial"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Sound Burst|Sound Burst (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

@@ -5,10 +5,7 @@ school: "Transmutation"
 level:
   - "Sor/Wiz 6"
 area: "a cylinder 10 ft. high and 15 ft. diameter centered on the caster"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/spells/Immolation|Immolation (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

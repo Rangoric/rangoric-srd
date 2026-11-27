@@ -17,10 +17,7 @@ target: "Creature touched"
 duration: "10 * caster level minute(s)"
 defense: "Will"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Greensight (Spell)|Greensight (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

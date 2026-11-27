@@ -14,10 +14,7 @@ duration: "Contingent until expended, then 1 round of safe time"
 defense: "None"
 spell-resistance: "No"
 to-develop: "576,000 gp; 12 days; 23,040 XP. Seed: transport (DC 27). Factors: move to time stream (+8 DC), reduce static time to 1 round (ad hoc +4 DC), activates when you would otherwise take 50 or more points of damage (+25 DC)."
-based-on:
-  - "[[fantasy srd 3.5/spells/Safe Time|Safe Time (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

@@ -14,10 +14,7 @@ duration: "20 rounds (D)"
 defense: "None (see text)"
 spell-resistance: "No"
 to-develop: "504,000 gp; 11 days; 20,160 XP. Seeds: summon (DC 14), fortify (DC 17). Factors: summon vermin mass instead of one creature (ad hoc +8 DC), grant damage reduction 1/epic (+15 DC), allow mass to move at your speed (ad hoc +2 DC), perfect control of vermin (ad hoc +2 DC). Mitigating factor: change range to personal (-2 DC)."
-based-on:
-  - "[[fantasy srd 3.5/spells/Crown of Vermin|Crown of Vermin (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

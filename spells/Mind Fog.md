@@ -23,10 +23,7 @@ effect: "Fog spreads in 20-ft. radius, 20 ft. high"
 duration: "30 minutes and 2d6 rounds; see text"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Mind Fog|Mind Fog (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

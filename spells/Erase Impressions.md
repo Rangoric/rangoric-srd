@@ -17,10 +17,7 @@ target: "Object touched"
 duration: "Instantaneous"
 defense: "Will (object)"
 spell-resistance: "Yes (object)"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Erase Impressions|Erase Impressions (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/spell]
 ---

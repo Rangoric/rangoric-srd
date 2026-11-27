@@ -14,10 +14,7 @@ target: "Living creature touched"
 duration: "1 minute/level (D)"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Thought Echo|Thought Echo (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/spell]
 ---

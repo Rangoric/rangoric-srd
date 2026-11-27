@@ -18,10 +18,7 @@ target: "One living creature that has the dragon type or the reptilian subtype"
 duration: "1 round/level"
 defense: "Fort"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Endothermic Touch|Endothermic Touch (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

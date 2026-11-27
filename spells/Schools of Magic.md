@@ -1,12 +1,7 @@
 ---
 srd-type: "overview"
 section: "Spells"
-based-on:
-  - "[[path srd 3.5/rules/core-rulebook/magic/Spell Descriptions#Polymorph|Spell Descriptions (PF1)]]"
-  - "[[fantasy srd 3.5/spells/Schools of Magic|Schools of Magic (3.5)]]"
-  - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/overview]
 ---

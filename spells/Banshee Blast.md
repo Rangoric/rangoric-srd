@@ -20,10 +20,7 @@ area: "Cone-shaped burst"
 duration: "Instantaneous and 1 round/level (see text)"
 defense: "Reflex half and Will (see text)"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Banshee Blast|Banshee Blast (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

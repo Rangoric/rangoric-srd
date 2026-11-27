@@ -16,10 +16,7 @@ target: "One metal item of up to 1 sq. ft."
 duration: "Instantaneous"
 defense: "Yes (object)"
 spell-resistance: "Yes (object)"
-based-on:
-  - "[[path srd 3.5/spells/Mirror Polish|Mirror Polish (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

@@ -21,10 +21,7 @@ effect: "A shadowy shadow tether"
 duration: "1 round/level (D); see text"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Shadow Anchor|Shadow Anchor (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

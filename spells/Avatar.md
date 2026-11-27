@@ -14,10 +14,7 @@ target: "You"
 duration: "1 round/level"
 defense: "See text"
 spell-resistance: "No"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/spells/Avatar|Avatar (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

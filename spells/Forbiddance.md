@@ -17,10 +17,7 @@ area: "60-ft. cube/level (S)"
 duration: "Permanent"
 defense: "See text"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Forbiddance|Forbiddance (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

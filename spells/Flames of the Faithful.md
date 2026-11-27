@@ -14,10 +14,7 @@ target: "Weapon touched"
 duration: "1 round/level"
 defense: "Fortitude (object, harmless)"
 spell-resistance: "Yes (object, harmless)"
-based-on:
-  - "[[path srd 3.5/spells/Flames Of The Faithful|Flames of the Faithful (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

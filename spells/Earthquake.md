@@ -21,10 +21,7 @@ area: "80-ft.-radius spread (S)"
 duration: "1 round"
 defense: "See text"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Earthquake|Earthquake (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

@@ -13,10 +13,7 @@ duration: "20 minutes (D)"
 defense: "Will (see text)"
 spell-resistance: "No"
 to-develop: "648,000 gp; 13 days; 25,920 XP. Seeds: contact (DC 23), reveal (DC 19), compel (DC 19). Factors: apply to all five senses (+8 DC), total compulsory control (+10 DC), stricter compulsion of any creature (ad hoc +11 DC). Mitigating factor: increase casting time by 9 minutes (-18 DC)."
-based-on:
-  - "[[fantasy srd 3.5/spells/Soul Dominion|Soul Dominion (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

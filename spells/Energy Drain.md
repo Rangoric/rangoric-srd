@@ -7,11 +7,7 @@ level:
   - "Sha 9"
   - "Sor/Wiz 9"
 defense: "Fortitude partial; see text for enervation"
-based-on:
-  - "[[fantasy srd 3.5/spells/Energy Drain|Energy Drain (3.5)]]"
-  - "[[path srd 3.5/spells/Energy Drain|Energy Drain (PF1)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

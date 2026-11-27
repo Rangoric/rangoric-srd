@@ -11,10 +11,7 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "Instantaneous"
-based-on:
-  - "[[fantasy srd 3.5/spells/Mage’s Lucubration|Mage’s Lucubration (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

@@ -19,10 +19,7 @@ effect: "20-ft.-radius sphere centered on your location"
 duration: "2 hours/level (D)"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Tiny Hut|Tiny Hut (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

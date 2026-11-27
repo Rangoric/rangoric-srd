@@ -23,10 +23,7 @@ effect: "10-ft.-diameter sphere"
 duration: "1 round/level"
 defense: "Reflex"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5/spells/Aqueous Orb|Aqueous Orb (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/spell]
 ---

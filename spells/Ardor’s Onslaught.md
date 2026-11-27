@@ -14,10 +14,7 @@ area: "20-ft.-radius burst"
 duration: "Instantaneous or 1d6 rounds; see text"
 defense: "Will partial, see text"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Ardor's Onslaught|Ardor’s Onslaught (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

@@ -21,10 +21,7 @@ area: "Cone emanating from you to the extreme of the range"
 duration: "Concentration up to 10 minutes/level (D)"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[individual books/Faeries/spells/Detect Doorway|Detect Doorway (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/spell]
 ---

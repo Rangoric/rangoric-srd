@@ -15,10 +15,7 @@ target: "One incorporeal undead creature or haunt"
 duration: "1 minute or 1 round/level; see text"
 defense: "Will or none; see text"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Calm Spirit (Spell)|Calm Spirit (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

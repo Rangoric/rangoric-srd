@@ -20,10 +20,7 @@ area: "5-ft.-radius burst"
 duration: "Instantaneous (see text)"
 defense: "Reflex partial (see text)"
 spell-resistance: "See text"
-based-on:
-  - "[[path srd 3.5/spells/Ice Slick|Ice Slick (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

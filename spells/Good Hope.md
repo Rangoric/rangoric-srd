@@ -17,10 +17,7 @@ targets: "One living creature/level, no two of which may be more than 30 ft. apa
 duration: "1 min./level"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[fantasy srd 3.5/spells/Good Hope|Good Hope (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

@@ -20,10 +20,7 @@ effect: "One animal whose CR is equal or less than your caster level"
 duration: "1 hour/level (D)"
 defense: "None"
 spell-resistance: "None"
-based-on:
-  - "[[path srd 3.5/spells/Call Animal|Call Animal (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

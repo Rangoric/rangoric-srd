@@ -20,10 +20,7 @@ target: "Living creature touched"
 duration: "Concentration/1 minute per HD of the subject; see text"
 defense: "None"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Enemy's Heart|Enemy's Heart (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-01
 tags: [rangoric, rangoric/spell, evil]
 ---

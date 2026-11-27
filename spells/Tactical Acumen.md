@@ -26,10 +26,7 @@ area: "The caster and all allies within a 30-ft.-radius burst, centered on the c
 duration: "1 round/level (D)"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[path srd 3.5/spells/Tactical Acumen|Tactical Acumen (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

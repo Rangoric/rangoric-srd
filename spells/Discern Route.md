@@ -24,10 +24,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One fey crossroad or *doorway*"
 duration: "1 minute"
-based-on:
-  - "[[individual books/Faeries/spells/Discern Route|Discern Route (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/spell]
 ---

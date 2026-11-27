@@ -18,10 +18,7 @@ target: "See text"
 duration: "Caster level minute(s)"
 defense: "Will; see text"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Speak with Soul|Speak with Soul (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

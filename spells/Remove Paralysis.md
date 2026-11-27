@@ -18,10 +18,7 @@ targets: "Up to four creatures, no two of which can be more than 30 ft. apart"
 duration: "Instantaneous"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[fantasy srd 3.5/spells/Remove Paralysis|Remove Paralysis (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

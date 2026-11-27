@@ -17,10 +17,7 @@ effect: "1-ft.-diameter/level sphere, centered around creatures or objects"
 duration: "1 min./level (D)"
 defense: "Reflex (object)"
 spell-resistance: "Yes (object)"
-based-on:
-  - "[[fantasy srd 3.5/spells/Telekinetic Sphere|Telekinetic Sphere (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

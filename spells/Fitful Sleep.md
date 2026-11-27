@@ -24,10 +24,7 @@ target: "One creature"
 duration: "Permanent"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Faeries/spells/Fitful Sleep|Fitful Sleep (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

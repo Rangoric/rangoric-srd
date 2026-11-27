@@ -13,10 +13,7 @@ casting-time: "10 minutes"
 range: "Personal"
 target: "You"
 duration: "Instantaneous"
-based-on:
-  - "[[fantasy srd 3.5/spells/Mnemonic Enhancer|Mnemonic Enhancer (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

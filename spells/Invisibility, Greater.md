@@ -25,10 +25,7 @@ components:
 target: "You or creature touched"
 duration: "1 round/level (D)"
 defense: "Will (harmless)"
-based-on:
-  - "[[fantasy srd 3.5/spells/Invisibility, Greater|Invisibility, Greater (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

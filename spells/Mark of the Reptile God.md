@@ -17,10 +17,7 @@ target: "One creature"
 duration: "Permanent"
 defense: "Fortitude"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Mark of the Reptile God|Mark of the Reptile God (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

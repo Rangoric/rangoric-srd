@@ -13,10 +13,7 @@ duration: "Permanent"
 defense: "Fortitude"
 spell-resistance: "Yes"
 to-develop: "495,000 gp; 10 days; 19,800 XP. Seed: transform (DC 21). Factors: change target to area of 20-ft. hemisphere (+10 DC), increase area by 100% (+4 DC), 1 action casting time (+20 DC)."
-based-on:
-  - "[[fantasy srd 3.5/spells/Mass Frog|Mass Frog (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

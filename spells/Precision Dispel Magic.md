@@ -5,10 +5,7 @@ school: "Abjuration"
 level:
   - "Sor/Wiz 4"
 targets: "One creature or object, plus one creature or object/5 levels"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/spells/Precision Dispel Magic|Precision Dispel Magic (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

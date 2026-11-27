@@ -17,10 +17,7 @@ area: "40-ft.-radius burst, centered on you"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Detect Psychic Significance|Detect Psychic Significance (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/spell]
 ---

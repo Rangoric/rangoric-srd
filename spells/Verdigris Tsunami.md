@@ -16,10 +16,7 @@ duration: "Permanent"
 defense: "Reflex half"
 spell-resistance: "No"
 to-develop: "1,530,000 gp; 31 days; 61,200 XP. Seed: conjure (DC 21). Factor: change area to 20-ft.-radius hemisphere (+2 DC), increase radius to 1,000 ft. (+196 DC), increase range to 1,500 ft. (+8 DC), deal 10d6 damage during growth (ad hoc +19 DC), increase damage to 40d6 (+60 DC), permanent (x5 DC). Mitigating factors: increase casting time by 9 minutes (-18 DC), eleven additional casters contributing 6th-level spell slots (-121 DC), three additional casters contributing 4th-level spell slots (-21 DC), burn 10,000 XP per 6th-level spell contributor plus caster (-1,200 DC)."
-based-on:
-  - "[[fantasy srd 3.5/spells/Verdigris Tsunami|Verdigris Tsunami (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

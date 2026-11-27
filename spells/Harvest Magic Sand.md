@@ -12,10 +12,7 @@ casting-time: "10 minutes/level"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "See text"
 duration: "Instantaneous"
-based-on:
-  - "[[individual books/Faeries/spells/Harvest Magic Sand|Harvest Magic Sand (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/spell]
 ---

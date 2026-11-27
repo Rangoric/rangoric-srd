@@ -18,10 +18,7 @@ area: "Special, see text"
 duration: "1 round/ level"
 defense: "None (see below)"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Resilient Reservoir|Resilient Reservoir (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

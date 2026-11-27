@@ -24,10 +24,7 @@ area: "5-ft.-radius emanation centered on you"
 duration: "1 round/level (D)"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Cloak Of Dreams|Cloak of Dreams (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

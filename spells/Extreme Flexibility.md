@@ -17,10 +17,7 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 minute/level"
-based-on:
-  - "[[path srd 3.5/spells/Extreme Flexibility|Extreme Flexibility (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

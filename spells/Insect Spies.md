@@ -19,10 +19,7 @@ range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "Up to one insect spy/4 levels"
 duration: "10 * caster level minute(s)"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Insect Spies|Insect Spies (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

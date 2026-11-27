@@ -26,10 +26,7 @@ target: "Creature touched"
 duration: "10 min./level"
 defense: "Will (harmless)"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Tongues|Tongues (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

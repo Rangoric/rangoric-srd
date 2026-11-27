@@ -16,10 +16,7 @@ targets: "One or more Medium creatures/level, no two of which can be more than 3
 duration: "1 minute/level (D)"
 defense: "None (see text)"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Fickle Winds|Fickle Winds (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

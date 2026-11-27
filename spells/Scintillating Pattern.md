@@ -18,10 +18,7 @@ effect: "Colorful lights in a 20-ft.-radius spread"
 duration: "Concentration + 2 rounds"
 defense: "None"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Scintillating Pattern|Scintillating Pattern (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

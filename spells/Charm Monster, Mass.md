@@ -18,10 +18,7 @@ components:
   - "V"
 targets: "One or more creatures, no two of which can be more than 30 ft. apart"
 duration: "One day/level"
-based-on:
-  - "[[fantasy srd 3.5/spells/Charm Monster, Mass|Charm Monster, Mass (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

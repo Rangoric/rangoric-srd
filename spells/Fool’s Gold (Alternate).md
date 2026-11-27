@@ -18,10 +18,7 @@ target: "One creature"
 duration: "1 hr./level"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[individual books/Faeries/spells/Fools’ Gold|Fools’ Gold (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

@@ -21,10 +21,7 @@ level:
   - "Spi 2"
   - "Tot 3"
   - "Wit 2"
-based-on:
-  - "[[fantasy srd 3.5/spells/Cure Moderate Wounds|Cure Moderate Wounds (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

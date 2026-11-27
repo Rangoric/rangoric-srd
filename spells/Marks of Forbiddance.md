@@ -15,10 +15,7 @@ targets: "One enemy and one ally"
 duration: "1 round/level"
 defense: "Will; see text"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Marks Of Forbiddance|Marks of Forbiddance (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

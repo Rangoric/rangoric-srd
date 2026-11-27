@@ -20,10 +20,7 @@ target: "One creature or object"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Hydraulic Push|Hydraulic Push (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/spell]
 ---

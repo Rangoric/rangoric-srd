@@ -24,11 +24,7 @@ target: "Creature or item touched"
 duration: "Instantaneous"
 defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[fantasy srd 3.5/spells/Remove Curse|Remove Curse (3.5)]]"
-  - "[[path srd 3.5/spells/Remove Curse|Remove Curse (PF1)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

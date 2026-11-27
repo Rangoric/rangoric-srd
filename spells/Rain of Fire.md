@@ -15,10 +15,7 @@ duration: "20 hours"
 defense: "Reflex (see text)"
 spell-resistance: "Yes"
 to-develop: "450,000 gp; 9 days; 18,000 XP. Seeds: energy (fire) (DC 19), energy (weather) (DC 19). Factor: change rain to wisps of flame (ad hoc +12 DC)."
-based-on:
-  - "[[fantasy srd 3.5/spells/Rain of Fire|Rain of Fire (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

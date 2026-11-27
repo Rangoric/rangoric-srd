@@ -22,10 +22,7 @@ area: "Up to 10-ft.-radius/level emanation centered on you"
 duration: "1 round/level (D)"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Repulsion|Repulsion (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

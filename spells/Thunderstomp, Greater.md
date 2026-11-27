@@ -20,10 +20,7 @@ area: "60-ft. line"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Thunderstomp, Greater|Thunderstomp, Greater (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

@@ -19,10 +19,7 @@ effect: "Whirlpool 50 ft. deep, 30 ft. wide at top, and 5 ft. wide at base"
 duration: "1 round/level (D)"
 defense: "Reflex, see text"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Vortex|Vortex (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

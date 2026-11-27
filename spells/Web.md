@@ -17,10 +17,7 @@ effect: "Webs in a 20-ft.-radius spread"
 duration: "10 min./level (D)"
 defense: "Reflex; see text"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Web|Web (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

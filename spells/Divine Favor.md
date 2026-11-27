@@ -14,10 +14,7 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 minute"
-based-on:
-  - "[[fantasy srd 3.5/spells/Divine Favor|Divine Favor (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

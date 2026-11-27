@@ -26,10 +26,7 @@ targets: "One creature/level, no two of which can be more than 30 ft. apart"
 duration: "1 round/level"
 defense: "Fortitude (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[fantasy srd 3.5/spells/Haste|Haste (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

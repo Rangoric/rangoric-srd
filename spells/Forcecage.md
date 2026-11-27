@@ -17,10 +17,7 @@ area: "Barred cage (20-ft. cube) or windowless cell (10-ft. cube)"
 duration: "2 hours/level (D)"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Forcecage|Forcecage (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

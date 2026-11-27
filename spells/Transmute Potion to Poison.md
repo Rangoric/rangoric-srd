@@ -13,10 +13,7 @@ range: "Personal"
 target: "You"
 effect: "1d4 Con damage"
 duration: "1 round then 1 minute/level; see text"
-based-on:
-  - "[[path srd 3.5/spells/Transmute Potion To Poison|Transmute Potion to Poison (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

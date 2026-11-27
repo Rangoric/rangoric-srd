@@ -18,10 +18,7 @@ range: "Personal"
 target: "You"
 duration: "Instantaneous"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Repress Memory|Repress Memory (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

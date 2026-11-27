@@ -17,10 +17,7 @@ target: "One petrified creature or a cylinder of stone from 1 ft. to 3 ft. in di
 duration: "Instantaneous"
 defense: "Fortitude (object); see text"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Stone to Flesh|Stone to Flesh (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

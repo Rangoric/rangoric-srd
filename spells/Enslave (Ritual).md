@@ -17,10 +17,7 @@ duration: "Permanent"
 defense: "Will"
 spell-resistance: "Yes"
 to-develop: "720,000 gp; 15 days; 28,800 XP. Seed: compel (DC 19). Factors: stricter compulsion of any creature (ad hoc +11 DC), 1-action casting time (+20 DC), permanent (x5 DC). Mitigating factors: 2d6 backlash (-2 DC), four additional casters contributing one 9th-level spell slot (-68 DC), burn 2,000 XP per caster (-100 DC)."
-based-on:
-  - "[[fantasy srd 3.5/spells/Enslave (Ritual)|Enslave (Ritual) (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

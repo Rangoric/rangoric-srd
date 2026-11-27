@@ -15,10 +15,7 @@ target: "1 firearm"
 duration: "Instantaneous"
 defense: "Will (object); see text"
 spell-resistance: "Yes (object); see text"
-based-on:
-  - "[[path srd 3.5/spells/Flash Fire|Flash Fire (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

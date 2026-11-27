@@ -15,10 +15,7 @@ target: "Object touched, weighing up to 5 lbs./level"
 duration: "Instantaneous"
 defense: "Will (object)"
 spell-resistance: "Yes (object)"
-based-on:
-  - "[[path srd 3.5/spells/Allfood|Allfood (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

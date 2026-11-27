@@ -18,10 +18,7 @@ effect: "Trail of flame that follows the caster's movements; see text"
 duration: "1 round/level"
 defense: "None"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Fire Trail|Fire Trail (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

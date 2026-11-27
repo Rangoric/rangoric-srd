@@ -18,10 +18,7 @@ area: "20-ft. spread"
 duration: "1 round/level (D)"
 defense: "Reflex; see text"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5/spells/Shifting Sand|Shifting Sand (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/spell]
 ---

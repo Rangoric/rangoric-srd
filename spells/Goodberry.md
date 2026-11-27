@@ -17,10 +17,7 @@ targets: "2d4 fresh berries touched"
 duration: "One day/level"
 defense: "None"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Goodberry|Goodberry (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

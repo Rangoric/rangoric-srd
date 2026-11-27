@@ -13,10 +13,7 @@ duration: "Instantaneous"
 defense: "None"
 spell-resistance: "No"
 to-develop: "621,000 gp; 13 days; 24,840 XP. Seed: dispel (DC 19). Factors: +30 to dispel check (+30 DC), 1-action casting time (+20 DC)."
-based-on:
-  - "[[fantasy srd 3.5/spells/Epic Counterspell|Epic Counterspell (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

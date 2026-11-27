@@ -15,10 +15,7 @@ casting-time: "10 minutes"
 range: "Touch"
 target: "Dead creature touched"
 duration: "24 hours"
-based-on:
-  - "[[path srd 3.5/spells/Temporary Resurrection|Temporary Resurrection (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

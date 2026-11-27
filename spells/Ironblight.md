@@ -18,10 +18,7 @@ area: "10-ft.-radius spread"
 duration: "Instantaneous"
 defense: "Reflex (object)"
 spell-resistance: "Yes (object)"
-based-on:
-  - "[[individual books/Faeries/spells/Ironblight|Ironblight (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/spell]
 ---

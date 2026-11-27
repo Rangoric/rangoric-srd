@@ -24,10 +24,7 @@ target: "One creature or object, up to a 10-ft. cube in size"
 duration: "1 hour/level"
 defense: "None or Will; see text"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Misdirection|Misdirection (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

@@ -31,10 +31,7 @@ target: "Creature touched"
 duration: "Instantaneous"
 defense: "Will half (harmless); see text"
 spell-resistance: "Yes (harmless); see text"
-based-on:
-  - "[[fantasy srd 3.5/spells/Cure Light Wounds|Cure Light Wounds (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

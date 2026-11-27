@@ -19,10 +19,7 @@ target: "One cloud-like effect, up to one 10-ft. cube/level"
 duration: "1 round/level; see text"
 defense: "See text"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5/spells/Absorbing Inhalation|Absorbing Inhalation (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

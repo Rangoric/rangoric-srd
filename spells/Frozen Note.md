@@ -17,10 +17,7 @@ area: "30-ft.-radius emanation centered on you"
 duration: "Concentration (up to 1 round/level); see text"
 defense: "Will partial; see text"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Frozen Note|Frozen Note (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

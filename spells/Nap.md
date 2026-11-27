@@ -21,10 +21,7 @@ target: "You or one creature"
 duration: "1–4 hours (see text)"
 defense: "No or Will"
 spell-resistance: "No or Yes"
-based-on:
-  - "[[individual books/Faeries/spells/Nap|Nap (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/spell]
 ---

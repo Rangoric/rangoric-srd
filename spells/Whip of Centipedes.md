@@ -12,10 +12,7 @@ level:
   - "Sum 5"
   - "SumU 5"
   - "Wit 5"
-based-on:
-  - "[[path srd 3.5/spells/Whip Of Centipedes|Whip of Centipedes (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

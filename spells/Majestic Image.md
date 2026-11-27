@@ -21,10 +21,7 @@ effect: "Transfer consciousness to an object bearing your likeness"
 duration: "Concentration"
 defense: "Will (see text)"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Majestic Image|Majestic Image (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

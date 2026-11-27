@@ -21,10 +21,7 @@ targets: "Up to four touched acorns or up to eight touched holly berries"
 duration: "10 min./level or until used"
 defense: "None or Reflex half; see text"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Fire Seeds|Fire Seeds (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

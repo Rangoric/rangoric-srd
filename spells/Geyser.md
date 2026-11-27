@@ -22,10 +22,7 @@ effect: "Spout of boiling water filling a 5 ft. square and spraying upward 10 ft
 duration: "Concentration + 1 round/level"
 defense: "Reflex partial (see below)"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5/spells/Geyser|Geyser (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-02
 tags: [rangoric, rangoric/spell]
 ---

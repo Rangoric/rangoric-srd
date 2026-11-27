@@ -18,10 +18,7 @@ target: "All creatures in a 15-foot-radius burst centered on a single living cre
 duration: "Caster level minute(s)"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Delectable Flesh|Delectable Flesh (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

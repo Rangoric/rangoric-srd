@@ -17,10 +17,7 @@ effect: "Image 1 ft. by 10 ft. by 10 ft."
 duration: "Permanent"
 defense: "Will disbelief (if interacted with)"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Illusory Wall|Illusory Wall (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

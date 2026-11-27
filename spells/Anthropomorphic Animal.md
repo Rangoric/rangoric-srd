@@ -18,10 +18,7 @@ target: "Animal touched"
 duration: "1 hour/level"
 defense: "Fortitude"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Anthropomorphic Animal|Anthropomorphic Animal (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

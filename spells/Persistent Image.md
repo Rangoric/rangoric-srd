@@ -12,10 +12,7 @@ level:
   - "Skd 5"
   - "Sor/Wiz 5"
 duration: "1 min./level (D)"
-based-on:
-  - "[[fantasy srd 3.5/spells/Persistent Image|Persistent Image (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

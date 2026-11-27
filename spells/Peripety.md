@@ -11,10 +11,7 @@ range: "Personal"
 target: "You"
 duration: "12 hours"
 to-develop: "243,000 gp; 5 days; 9,720 XP. Seed: reflect (DC 27)."
-based-on:
-  - "[[fantasy srd 3.5/spells/Peripety|Peripety (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

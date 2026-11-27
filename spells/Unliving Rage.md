@@ -17,10 +17,7 @@ targets: "One willing undead creature per 3 levels, no two of which can be more 
 duration: "Concentration + 1 round/level (D)"
 defense: "None"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Unliving Rage|Unliving Rage (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

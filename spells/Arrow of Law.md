@@ -17,10 +17,7 @@ effect: "Arrow-shaped projectile of lawful energy"
 duration: "Instantaneous (1 round); see text"
 defense: "Will partial (see text)"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Arrow Of Law|Arrow of Law (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell, lawful]
 ---

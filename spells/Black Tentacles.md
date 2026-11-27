@@ -22,11 +22,7 @@ area: "20-ft.-radius spread"
 duration: "1 round/level (D)"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Black Tentacles|Black Tentacles (3.5)]]"
-  - "[[path srd 3.5/spells/Black Tentacles|Black Tentacles (PF1)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

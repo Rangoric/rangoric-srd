@@ -18,10 +18,7 @@ target: "One creature/level (all of which must be within 30 feet)"
 duration: "1 round/level"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Cacophonous Call, Mass|Cacophonous Call, Mass (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

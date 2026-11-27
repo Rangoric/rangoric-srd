@@ -17,10 +17,7 @@ target: "One creature of your same race"
 duration: "Instantaneous"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Mind Swap, Major|Mind Swap, Major (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/spell]
 ---

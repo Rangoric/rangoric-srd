@@ -18,10 +18,7 @@ target: "One creature"
 duration: "1 hour/level"
 defense: "Will (harmless)"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5/spells/Ward Of The Season|Ward of the Season (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

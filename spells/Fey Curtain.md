@@ -18,10 +18,7 @@ target: "Up to 2 creatures/level"
 duration: "10 minutes/level"
 defense: "None or Will (harmless, object)"
 spell-resistance: "No or Yes (harmless, object)"
-based-on:
-  - "[[individual books/Faeries/spells/Fey Curtain|Fey Curtain (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/spell]
 ---

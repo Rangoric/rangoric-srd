@@ -15,10 +15,7 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 hour/level or until expended; see text"
-based-on:
-  - "[[fantasy srd 3.5/spells/Tree Stride|Tree Stride (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

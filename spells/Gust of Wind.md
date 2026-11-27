@@ -20,10 +20,7 @@ effect: "Line-shaped gust of severe wind emanating out from you to the extreme o
 duration: "1 round"
 defense: "Fortitude"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Gust of Wind|Gust of Wind (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

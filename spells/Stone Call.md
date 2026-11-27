@@ -22,10 +22,7 @@ area: "Cylinder (40-ft. radius, 20 ft. high)"
 duration: "1 round/level"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5/spells/Stone Call|Stone Call (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

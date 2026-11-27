@@ -20,10 +20,7 @@ effect: "One symbol"
 duration: "See text"
 defense: "Will partial (harmless)"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Symbol Of Mirroring|Symbol of Mirroring (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

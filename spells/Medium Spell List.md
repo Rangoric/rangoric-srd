@@ -1,10 +1,7 @@
 ---
 srd-type: "overview"
 section: "Spells"
-based-on:
-  - "[[path srd 3.5 foundry/classes/Medium (Class)|Medium (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/overview]
 ---

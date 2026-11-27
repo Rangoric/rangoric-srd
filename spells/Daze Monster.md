@@ -19,10 +19,7 @@ level:
   - "Wit 2"
 range: "Medium (100 ft. + 10 ft./level)"
 target: "One living creature of 6 HD or less"
-based-on:
-  - "[[fantasy srd 3.5/spells/Daze Monster|Daze Monster (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

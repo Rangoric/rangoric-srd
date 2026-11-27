@@ -13,10 +13,7 @@ level:
 casting-time: "10 minutes"
 range: "Close (25 ft. + 5 ft./2 levels)"
 duration: "See text"
-based-on:
-  - "[[fantasy srd 3.5/spells/Major Creation|Major Creation (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

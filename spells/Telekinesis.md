@@ -16,11 +16,7 @@ range: "Long (400 ft. + 40 ft./level)"
 duration: "Concentration (up to 1 round/ level) or instantaneous; see text"
 defense: "Will (object) or None; see text"
 spell-resistance: "Yes (object); see text"
-based-on:
-  - "[[fantasy srd 3.5/spells/Telekinesis|Telekinesis (3.5)]]"
-  - "[[path srd 3.5/spells/Telekinesis|Telekinesis (PF1)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

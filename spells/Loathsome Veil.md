@@ -20,10 +20,7 @@ effect: "Transparent pattern 40 ft. long, 20 ft. high"
 duration: "Concentration + 1 round/level (D)"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Loathsome Veil|Loathsome Veil (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

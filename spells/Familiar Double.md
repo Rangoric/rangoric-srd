@@ -5,10 +5,7 @@ school: "Illusion"
 subschool: "Shadow"
 level:
   - "Wit 7"
-based-on:
-  - "[[path srd 3.5/spells/Familiar Double|Familiar Double (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-07
 tags: [rangoric, rangoric/spell]
 ---

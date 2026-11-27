@@ -19,10 +19,7 @@ area: "5-ft.-diameter emanation centered on an object or a point in space"
 duration: "1 minute/level (D)"
 defense: "None (object)"
 spell-resistance: "No (object)"
-based-on:
-  - "[[path srd 3.5/spells/Silent Table|Silent Table (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

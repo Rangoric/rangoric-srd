@@ -17,10 +17,7 @@ target: "One dead creature"
 duration: "1 round"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Grave Words|Grave Words (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/spell]
 ---

@@ -15,10 +15,7 @@ effect: "Trail of lily pads behind you"
 duration: "10 minutes/level (D); see text"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5/spells/Lily Pad Stride|Lily Pad Stride (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

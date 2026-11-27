@@ -16,10 +16,7 @@ target: "One nonmagical ferrous object (or the volume of the object within 3 ft.
 duration: "See text"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Rusting Grasp|Rusting Grasp (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

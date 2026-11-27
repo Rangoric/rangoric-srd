@@ -23,10 +23,7 @@ area: "40-ft.-radius emanation"
 duration: "1 hour/level (D)"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/False Vision|False Vision (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

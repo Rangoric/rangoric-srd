@@ -18,10 +18,7 @@ level:
   - "SumU 3"
   - "Wit 4"
 effect: "One or more summoned creatures, no two of which can be more than 30 ft. apart"
-based-on:
-  - "[[fantasy srd 3.5/spells/Summon Monster IV|Summon Monster IV (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

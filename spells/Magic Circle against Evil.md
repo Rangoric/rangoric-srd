@@ -26,10 +26,7 @@ area: "10-ft.-radius emanation from touched creature"
 duration: "10 min./level"
 defense: "Will (harmless)"
 spell-resistance: "No; see text"
-based-on:
-  - "[[fantasy srd 3.5/spells/Magic Circle against Evil|Magic Circle against Evil (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell, good]
 ---

@@ -15,10 +15,7 @@ area: "Four 40-ft.-radius spreads; see text"
 duration: "Instantaneous"
 defense: "None or Reflex half; see text"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Meteor Swarm|Meteor Swarm (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

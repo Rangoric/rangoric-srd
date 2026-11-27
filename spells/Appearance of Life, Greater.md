@@ -21,10 +21,7 @@ target: "One willing undead creature touched"
 duration: "Caster level hour(s)"
 defense: "Will disbelief or Will (see text)"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Appearance of Life, Greater|Appearance of Life, Greater (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

@@ -21,10 +21,7 @@ range: "Close (25 ft. + 5 ft./2 levels)"
 target: "You"
 duration: "Instantaneous and 1 round; see text"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Shadow Jaunt|Shadow Jaunt (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

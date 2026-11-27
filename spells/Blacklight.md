@@ -17,10 +17,7 @@ area: "A 20-ft.-radius emanation centered on a creature, object, or point in spa
 duration: "1 round/level (D)"
 defense: "Will or none (object)"
 spell-resistance: "Yes or no (object)"
-based-on:
-  - "[[fantasy srd 3.5/spells/Blacklight|Blacklight (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

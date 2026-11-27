@@ -21,10 +21,7 @@ target: "Living creature touched"
 duration: "1d4+1 rounds"
 defense: "None"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Irresistible Dance|Irresistible Dance (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

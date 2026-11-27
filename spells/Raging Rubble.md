@@ -23,10 +23,7 @@ effect: "One swarm of stones"
 duration: "Concentration + 2 rounds"
 defense: "None"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Raging Rubble|Raging Rubble (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

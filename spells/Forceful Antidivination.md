@@ -5,10 +5,7 @@ school: "Abjuration"
 level:
   - "Sor/Wiz 8"
 defense: "None"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/spells/Forceful Antidivination|Forceful Antidivination (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

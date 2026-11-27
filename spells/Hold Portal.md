@@ -12,10 +12,7 @@ target: "One portal, up to 20 sq. ft./level"
 duration: "1 min./level (D)"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Hold Portal|Hold Portal (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

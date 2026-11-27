@@ -17,10 +17,7 @@ targets: "One creature/level in a 20-ft.-radius burst centered on you"
 duration: "1 round/level (D)"
 defense: "See text"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[fantasy srd 3.5/spells/Holy Aura|Holy Aura (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell, good]
 ---

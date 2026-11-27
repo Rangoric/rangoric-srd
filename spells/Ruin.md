@@ -14,10 +14,7 @@ duration: "Instantaneous"
 defense: "Fortitude half"
 spell-resistance: "Yes"
 to-develop: "243,000 gp; 5 days; 9,720 XP. Seed: destroy (DC 29). Factor: reduce casting time by 9 rounds (+18 DC). Mitigating factor: burn 2,000 XP (-20 DC)."
-based-on:
-  - "[[fantasy srd 3.5/spells/Ruin|Ruin (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

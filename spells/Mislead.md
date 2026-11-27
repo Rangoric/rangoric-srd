@@ -23,10 +23,7 @@ range: "Close (25 ft. + 5 ft./2 levels)"
 duration: "1 round/level (D) and concentration + 3 rounds; see text"
 defense: "None or Will disbelief (if interacted with); see text"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Mislead|Mislead (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

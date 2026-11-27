@@ -16,10 +16,7 @@ area: "30-ft.-radius burst"
 duration: "Instantaneous and 2 rounds; see text"
 defense: "Reflex half (see text)"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5/spells/Caustic Eruption|Caustic Eruption (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

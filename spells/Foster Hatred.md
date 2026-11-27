@@ -20,10 +20,7 @@ target: "Any number of living creatures, no two of which can be more than 30 ft.
 duration: "Caster level hour(s)"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Foster Hatred|Foster Hatred (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/spell]
 ---

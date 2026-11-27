@@ -25,10 +25,7 @@ target: "Creature touched"
 duration: "1 round/level"
 defense: "None and Will partial (see below)"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Euphoric Tranquility|Euphoric Tranquility (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

@@ -18,10 +18,7 @@ range: "Touch"
 duration: "Instantaneous"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[individual books/Faeries/spells/Create Doorway and Sideroad|Create Doorway and Sideroad (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/spell]
 ---

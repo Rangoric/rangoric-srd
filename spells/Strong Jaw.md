@@ -15,10 +15,7 @@ target: "Creature touched"
 duration: "1 minute/level"
 defense: "Fortitude (harmless)"
 spell-resistance: "Yes (harmless)"
-based-on:
-  - "[[path srd 3.5/spells/Strong Jaw|Strong Jaw (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

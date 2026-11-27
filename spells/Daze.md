@@ -30,10 +30,7 @@ target: "One humanoid creature of 4 HD or less"
 duration: "1 round"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Daze|Daze (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

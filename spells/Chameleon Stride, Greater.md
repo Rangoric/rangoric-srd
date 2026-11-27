@@ -14,10 +14,7 @@ casting-time: "1 standard action"
 range: "5 ft."
 area: "Allies in a 10-ft.-radius emanation centered on you"
 duration: "1 minute/level (see text)"
-based-on:
-  - "[[path srd 3.5/spells/Chameleon Stride, Greater|Chameleon Stride, Greater (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

@@ -12,10 +12,7 @@ target: "One object or creature restraining you"
 duration: "Instantaneous"
 defense: "Fortitude half (object)"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Burst Bonds|Burst Bonds (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/spell]
 ---

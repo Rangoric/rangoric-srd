@@ -21,10 +21,7 @@ area: "10-ft.-radius spread"
 duration: "No more than 1 hour/level or until discharged (destination is reached)"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Whispering Wind|Whispering Wind (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

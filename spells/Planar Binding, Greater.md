@@ -13,10 +13,7 @@ components:
   - "V"
   - "S"
 targets: "Up to three elementals or outsiders, totaling no more than 18 HD, no two of which can be more than 30 ft. apart when they appear."
-based-on:
-  - "[[fantasy srd 3.5/spells/Planar Binding, Greater|Planar Binding, Greater (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

@@ -21,10 +21,7 @@ targets: "One or more extraplanar creatures, no two of which can be more than 30
 duration: "Instantaneous"
 defense: "Will"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Banishment|Banishment (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

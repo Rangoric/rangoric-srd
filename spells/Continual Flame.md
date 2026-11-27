@@ -21,10 +21,7 @@ effect: "Magical, heatless flame"
 duration: "Permanent"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Continual Flame|Continual Flame (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

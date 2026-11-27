@@ -14,10 +14,7 @@ targets: "One undead creature"
 duration: "One day/level"
 defense: "Will; see text"
 spell-resistance: "Yes"
-based-on:
-  - "[[fantasy srd 3.5/spells/Command Undead|Command Undead (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

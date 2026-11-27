@@ -11,10 +11,7 @@ level:
   - "Sor/Wiz 7"
   - "Wit 7"
 targets: "One or more humanoid creatures, no two of which can be more than 30 ft. apart"
-based-on:
-  - "[[fantasy srd 3.5/spells/Hold Person, Mass|Hold Person, Mass (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

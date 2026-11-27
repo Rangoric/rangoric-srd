@@ -21,10 +21,7 @@ target: "One touched object weighing up to 5 lb./level"
 duration: "One day/level (D)"
 defense: "None; see text"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Magic Aura|Magic Aura (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

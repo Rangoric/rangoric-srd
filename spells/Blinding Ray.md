@@ -19,10 +19,7 @@ effect: "One or more rays of light"
 duration: "Instantaneous (see text)"
 defense: "Fortitude"
 spell-resistance: "Yes"
-based-on:
-  - "[[path srd 3.5/spells/Blinding Ray|Blinding Ray (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell, good]
 ---

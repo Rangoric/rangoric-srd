@@ -25,10 +25,7 @@ effect: "1d3 summoned creatures"
 duration: "1 round/level (D)"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5/spells/Summon Minor Monster|Summon Minor Monster (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

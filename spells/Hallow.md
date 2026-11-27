@@ -21,10 +21,7 @@ area: "40-ft. radius emanating from the touched point"
 duration: "Instantaneous"
 defense: "See text"
 spell-resistance: "See text"
-based-on:
-  - "[[fantasy srd 3.5/spells/Hallow|Hallow (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell, good]
 ---

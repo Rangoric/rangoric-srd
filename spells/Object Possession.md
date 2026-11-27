@@ -18,10 +18,7 @@ range: "Close (25 ft. + 5 ft./2 levels)"
 target: "Unattended Large or smaller object (minimum Tiny)"
 duration: "10 * caster level minute(s)"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Object Possession|Object Possession (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

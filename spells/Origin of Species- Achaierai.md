@@ -16,10 +16,7 @@ duration: "Permanent"
 defense: "None"
 spell-resistance: "No"
 to-develop: "360,000 gp; 8 days; 14,400 XP. Seeds: conjure (DC 21), life (DC 27), fortify (DC 17). Factors: +4 HD (5 hp per HD) (+20 DC), +6 to natural AC (+12 DC), add three more natural attacks (ad hoc +6 DC), add black cloud spell-like ability (+33 DC), add SR 19 (+15 DC), permanent (x5 DC). Mitigating factors: 50d6 backlash (-50 DC), increase casting time by 10 minutes (-20 DC), increase casting time by 100 days (-200 DC), burn 10,000 XP (-100 DC), eleven additional casters contributing 9th-level spell slots (-187 DC), ten additional casters contributing 8th-level spell slots (-150 DC), ten additional casters contributing 1st-level spell slots (-10 DC)."
-based-on:
-  - "[[fantasy srd 3.5/spells/Origin of Species- Achaierai|Origin of Species- Achaierai (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---

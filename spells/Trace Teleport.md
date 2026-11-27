@@ -14,10 +14,7 @@ range: "40 ft."
 area: "40-ft.-radius emanation centered on you"
 duration: "Caster level minute(s)"
 spell-resistance: "No"
-based-on:
-  - "[[path srd 3.5 foundry/spells/Trace Teleport|Trace Teleport (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/spell]
 ---

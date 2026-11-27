@@ -16,10 +16,7 @@ effect: "Ethereal 5 ft. by 8 ft. opening, 10 ft. deep + 5 ft. deep per three lev
 duration: "One usage per two levels"
 defense: "None"
 spell-resistance: "No"
-based-on:
-  - "[[fantasy srd 3.5/spells/Phase Door|Phase Door (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
