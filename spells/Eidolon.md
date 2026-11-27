@@ -29,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 Conjuration (Creation) \[Transportation\]  
 Casting DC: 79  
-Components: V, S , XP  
+Components: V, S, XP  
 Casting Time: 1 minute  
 Range: 5 ft.  
 Effect: One duplicate of caster  

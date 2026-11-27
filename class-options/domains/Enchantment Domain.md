@@ -13,7 +13,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Enchantment Domain
 
-_A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]] from Faeries. Deities: any._ It is one of the domains the optional [[rangoric-srd/classes/Fey Class Adjustments|fey class adjustments]] offer a cleric.
+_A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]]. Deities: any._ It is one of the domains the optional [[rangoric-srd/classes/Fey Class Adjustments|fey class adjustments]] offer a cleric.
 
 ## Granted Powers
 

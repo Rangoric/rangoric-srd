@@ -26,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 Abjuration  
 Casting DC: 68  
-Components: V, S , X P  
+Components: V, S, XP  
 Casting Time: 41 days, 11 minutes  
 Range: Touch  
 Target: Object or creature touched  

@@ -288,7 +288,7 @@ Many events allow a skill check to affect the outcome of the event. If you're pr
 | 71–75  | Bookworm infestation |
 | 76–100 | Stolen books         |
 
-**Bookworm Infestation**: Your Library has become infested with the bane of the printed page—bookworms. You lose 1 point each of Goods and Magic. Proceed as if this were the infestation event from the Generic Building Events section , except that you lose 1 point each of Goods and Magic each day the infestation persists.
+**Bookworm Infestation**: Your Library has become infested with the bane of the printed page—bookworms. You lose 1 point each of Goods and Magic. Proceed as if this were the infestation event from the Generic Building Events section, except that you lose 1 point each of Goods and Magic each day the infestation persists.
 
 **Famous Writer**: A famous writer wants to use your Library for research for 2d6 days. Each day the writer remains, you gain 1 point of Influence. The writer leaves early if any event causes you to lose Goods or Magic. If the writer leaves early, you must succeed at a DC 20 [[rangoric-srd/skills/Deception|Deception]] or [[rangoric-srd/skills/Persuasion|Persuasion]] check to avoid losing twice the amount of Influence you gained from the visiting writer because of negative rumors.
 
@@ -334,7 +334,7 @@ Many events allow a skill check to affect the outcome of the event. If you're pr
 | 81–90  | Explosion                                 |
 | 91–100 | Hazing gone wrong                         |
 
-**Bitter Student**: Whether the pupil is dissatisfied with a grade or was expelled and now holds a grudge, this student has it in for your academy. The bitter student is adept at hiding out—he could be anyone! Until you expose the bitter student, each time you'd roll an event for this building, you must roll twice, and the GM chooses the worse of the two results. When you roll this event, immediately roll twice on the Generic Building Events table , and the GM chooses which of the two possible events occurs. You can try to find and expose the student once per day by attempting a DC 30 [[rangoric-srd/skills/Perception|Perception]] check. The DC lowers by 1 for each prior failure as you get closer to identifying the culprit. The bitter student is exposed automatically if you reroll this event as either of your two rolls.
+**Bitter Student**: Whether the pupil is dissatisfied with a grade or was expelled and now holds a grudge, this student has it in for your academy. The bitter student is adept at hiding out—he could be anyone! Until you expose the bitter student, each time you'd roll an event for this building, you must roll twice, and the GM chooses the worse of the two results. When you roll this event, immediately roll twice on the Generic Building Events table, and the GM chooses which of the two possible events occurs. You can try to find and expose the student once per day by attempting a DC 30 [[rangoric-srd/skills/Perception|Perception]] check. The DC lowers by 1 for each prior failure as you get closer to identifying the culprit. The bitter student is exposed automatically if you reroll this event as either of your two rolls.
 
 **Experiment Amok**: A student's experiment has broken loose! This is a monster chosen by the GM, with a CR equal to your average party level—usually a construct, outsider, or even an undead, though your favored type of magic may mean other kinds of creatures are possible. You must defeat the monster in combat (your students flee the creature, but other PCs may help you defeat it if they are present). At the end of each combat round the monster remains alive, its rampage deals damage to the building, costing 1 point of Goods, Magic, or Labor (chosen randomly each time).
 
@@ -359,7 +359,7 @@ Many events allow a skill check to affect the outcome of the event. If you're pr
 | 76–90  | Lost visitor    |
 | 91–100 | Unruly druid    |
 
-**Contagion**: The creatures in your Menagerie suffer from a mysterious malady. Treat this as the sickness event from Generic Building Events , and your building gains the broken condition until the sickness is ended.
+**Contagion**: The creatures in your Menagerie suffer from a mysterious malady. Treat this as the sickness event from Generic Building Events, and your building gains the broken condition until the sickness is ended.
 
 **Escaped Animal**: One of your exhibits escapes its cage. If you keep track of specific creatures, determine the escaped creature randomly. Attempt a DC 25 [[rangoric-srd/skills/Animal Handling|Animal Handling]], [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Fieldcraft|Fieldcraft]], or wild empathy check (or if the escaped creature is intelligent, a [[rangoric-srd/skills/Deception|Deception]] or [[rangoric-srd/skills/Persuasion|Persuasion]] check) to find the creature and safely return it to its cage. If you fail, you lose 1d6 points of Influence and 1d4 points of Labor, and the building generates no capital that day.
 
@@ -416,7 +416,7 @@ Many events allow a skill check to affect the outcome of the event. If you're pr
 
 **Productive Day**: The Monastery is particularly productive today. The building gains a +10 bonus on its next check to generate capital.
 
-**Scandal**: This is the same as the scandal event from Military Academy Events , except a Monastery scandal lasts for 2d6 days. You can attempt to repair the reputation damage from a Monastery scandal with a DC 30 [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Persuasion|Persuasion]], or [[rangoric-srd/skills/Theology|Theology]] check.
+**Scandal**: This is the same as the scandal event from Military Academy Events, except a Monastery scandal lasts for 2d6 days. You can attempt to repair the reputation damage from a Monastery scandal with a DC 30 [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Persuasion|Persuasion]], or [[rangoric-srd/skills/Theology|Theology]] check.
 
 **Traveling Priest**: A traveling priest of your faith arrives at the Monastery. She stays for 1d6 days, during which the Monastery gains a +4 bonus on all checks (but only on one check to generate capital per day). If you ever lose any Labor while the traveling priest is visiting, she reduces the amount of Labor lost by 1d4 (minimum of 0).
 
@@ -442,7 +442,7 @@ Many events allow a skill check to affect the outcome of the event. If you're pr
 
 **Protection Racket**: Thugs attempt to extort money from your Shop for "protection." You can pay their demand (an amount equal to the building's maximum possible gp earned in a day) or attempt to scare them off with a DC 25 [[rangoric-srd/skills/Intimidation|Intimidation]] check. If you fail to run them off, they steal an amount of merchandise and cash equal to twice their initial demand plus 1d4 points of Goods.
 
-**Robbery**: Someone has targeted your store or employees for a quick robbery. There is a 75% chance this is just a crime of opportunity and a 25% chance that this is a planned attack on your Shop. Treat the event as the criminal activity event from Generic Building Events ; if it is a planned attack, increase the Influence needed to prevent the attack to 2d6, the [[rangoric-srd/skills/Intimidation|Intimidation]] DC to 25, and the cost of the robbery to 2d6 points of Goods.
+**Robbery**: Someone has targeted your store or employees for a quick robbery. There is a 75% chance this is just a crime of opportunity and a 25% chance that this is a planned attack on your Shop. Treat the event as the criminal activity event from Generic Building Events; if it is a planned attack, increase the Influence needed to prevent the attack to 2d6, the [[rangoric-srd/skills/Intimidation|Intimidation]] DC to 25, and the cost of the robbery to 2d6 points of Goods.
 
 **Shoplifter**: A customer tries to walk out of your Shop with a valuable item. Attempt a DC 20 [[rangoric-srd/skills/Perception|Perception]] check. If you fail, you lose 1d3 points of Goods.
 
@@ -462,7 +462,7 @@ Many events allow a skill check to affect the outcome of the event. If you're pr
 | 66–80  | Forced commission             |
 | 81–100 | Deadly accident               |
 
-**Deadly Accident**: This is the same as the deadly accident event from Generic Building Events , except that there is also a 25% chance that the accident starts a fire (as the fire event in same section).
+**Deadly Accident**: This is the same as the deadly accident event from Generic Building Events, except that there is also a 25% chance that the accident starts a fire (as the fire event in same section).
 
 **Exotic Metal**: A supplier offers to sell you a small amount of cold iron, mithral, or adamantine (up to 1,000 gp worth) at a 20% discount. You may spend Goods, Magic, or gp to pay for this metal.
 
@@ -574,7 +574,7 @@ Many events allow a skill check to affect the outcome of the event. If you're pr
 
 **Full House**: Your Theater is packed—an excellent opportunity to impress people. You gain a +20 bonus on the building's next check to generate capital. Attempt a DC 25 [[rangoric-srd/skills/Performance|Performance]] check. If you succeed, word of the performance spreads and you gain 1d4 points of Influence. If you fail, there's a 50% chance that a poor performance event occurs.
 
-**House Fire**: Treat this as a fire event from the Generic Building Events section , except there is a 50% chance of a minor fire and a 50% chance of a major fire. Increase any lost capital from the event by 50%.
+**House Fire**: Treat this as a fire event from the Generic Building Events section, except there is a 50% chance of a minor fire and a 50% chance of a major fire. Increase any lost capital from the event by 50%.
 
 **Poor Performance**: Everyone has off nights, but your entire cast is missing cues and flubbing lines. You lose 2d4 points of Influence from bad reviews and 1d3 points of Labor from performers who quit out of shame.
 
@@ -657,7 +657,7 @@ Unlike with buildings, there is no generic organization event table.
 
 **Brawl**: This functions like the bar brawl in Tavern Events, except you may attempt a [[rangoric-srd/skills/Profession|Profession]] (soldier) check instead of an [[rangoric-srd/skills/Intimidation|Intimidation]] check, and a failed check causes a loss of Influence and Labor.
 
-**Duel**: This functions like the duel event from the Military Academy Events section , except you may attempt a [[rangoric-srd/skills/Profession|Profession]] (soldier) check instead of a [[rangoric-srd/skills/Persuasion|Persuasion]] or [[rangoric-srd/skills/Intimidation|Intimidation]] check.
+**Duel**: This functions like the duel event from the Military Academy Events section, except you may attempt a [[rangoric-srd/skills/Profession|Profession]] (soldier) check instead of a [[rangoric-srd/skills/Persuasion|Persuasion]] or [[rangoric-srd/skills/Intimidation|Intimidation]] check.
 
 **Impressive Results**: Your mercenaries perform admirably, eliminating a problem quickly or defeating a more powerful opponent with ease. You gain 1d4 points of Influence and 1d2 points of Labor, and for 1d6 days the organization gains a +10 bonus on its first check to generate capital each day.
 

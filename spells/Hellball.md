@@ -31,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 Evocation \[Acid, Fire, Electricity, Sonic\]  
 Casting DC: 90  
-Components: V, S , X P  
+Components: V, S, XP  
 Casting Time: 1 standard action  
 Range: 300 ft.  
 Area: 40-ft.-radius spread  

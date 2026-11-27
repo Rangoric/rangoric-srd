@@ -33,6 +33,6 @@ _Abjuration_
 - **Effect**: One charged gem
 - **Duration**: See text
 
-The material component of this spell is a spherical opal of not less than 500 gp value. This spell stores magical energy within the gem that can be later released . The gem continues to store this energy until activated or dispelled; there is no time limit. As long as the gem remains prepared, one 8th level spell slot is unavailable to the caster. Dispelling the gem’s charge has no effect on the gem and returns the spell slot (empty) to the caster.
+The material component of this spell is a spherical opal of not less than 500 gp value. This spell stores magical energy within the gem that can be later released. The gem continues to store this energy until activated or dispelled; there is no time limit. As long as the gem remains prepared, one 8th level spell slot is unavailable to the caster. Dispelling the gem’s charge has no effect on the gem and returns the spell slot (empty) to the caster.
 
 When the gem is activated (a standard action that requires only that the gem be in hand), it is destroyed, crumbling to powder. However, an area of pure magic surrounds the caster and suppress any antimagic effects that overlap the emanation. The emanation lasts for one round per caster level. Only the caster may activate the gem; if the gem leaves the caster’s possession at any time, the charge is dispelled.

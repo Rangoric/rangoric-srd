@@ -39,4 +39,4 @@ _Transmutation \[Curse, Fire\]_
 - **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
-You curse the target to suffer unbearable heat. On a hit, the target is immediately subjected to severe heat , takes 1d4 points of nonlethal damage, and is suffering from heatstroke (fatigued). The heat attacks the target’s Fortitude every 10 minutes as normal for severe heat (starting at +5 rather than this spell’s attack bonus). Because this heat is internal, the target cannot avoid it using the normal methods for escaping heat dangers such as Fieldcraft checks or finding shade.
+You curse the target to suffer unbearable heat. On a hit, the target is immediately subjected to severe heat, takes 1d4 points of nonlethal damage, and is suffering from heatstroke (fatigued). The heat attacks the target’s Fortitude every 10 minutes as normal for severe heat (starting at +5 rather than this spell’s attack bonus). Because this heat is internal, the target cannot avoid it using the normal methods for escaping heat dangers such as Fieldcraft checks or finding shade.

@@ -28,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 Conjuration \[Teleportation\]  
 Casting DC: 62  
-Components: V, S ,XP  
+Components: V, S, XP  
 Casting Time: 1 standard action  
 Range: 300 ft.  
 Target: Creature or object weighing up to 1,000 lb.  

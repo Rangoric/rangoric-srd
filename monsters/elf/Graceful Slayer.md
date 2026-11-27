@@ -24,7 +24,7 @@ feats: "Bleeding Critical, Critical Focus, Improved Critical (composite longbow)
 environment: "Temperate forest"
 organization: "Solitary, or with other elves (see Elf)"
 challenge-rating: 16
-treasure: "NPC gear (combat gear: oil of align weapon (evil), oil of flame arrow, potions of cure light wounds (2), potions of jump (2), potion of spider climb, adamantine arrows (10), alchemical silver arrows (10) , tanglefoot bags (2); other gear: +1 mithral breastplate, +1 keen shocking burst elven curve blade, +1 seeking composite longbow (+7 Str) with 40 cold iron arrows, belt of physical perfection +2, boots of speed, cloak of resistance +2, 50 gp)"
+treasure: "NPC gear (combat gear: oil of align weapon (evil), oil of flame arrow, potions of cure light wounds (2), potions of jump (2), potion of spider climb, adamantine arrows (10), alchemical silver arrows (10), tanglefoot bags (2); other gear: +1 mithral breastplate, +1 keen shocking burst elven curve blade, +1 seeking composite longbow (+7 Str) with 40 cold iron arrows, belt of physical perfection +2, boots of speed, cloak of resistance +2, 50 gp)"
 alignment: "Neutral"
 advancement: "By character class"
 level-adjustment: "—"
@@ -57,7 +57,7 @@ tags: [rangoric, rangoric/monster]
 - **Environment**: Temperate forest
 - **Organization**: Solitary, or with other elves (see [[rangoric-srd/monsters/elf/Elf|Elf]])
 - **Challenge Rating**: 16
-- **Treasure**: NPC gear (combat gear: oil of align weapon (evil), oil of flame arrow, potions of cure light wounds (2), potions of jump (2), potion of spider climb, adamantine arrows (10), alchemical silver arrows (10) , tanglefoot bags (2); other gear: +1 mithral breastplate, +1 keen shocking burst elven curve blade, +1 seeking composite longbow (+7 Str) with 40 cold iron arrows, belt of physical perfection +2, boots of speed, cloak of resistance +2, 50 gp)
+- **Treasure**: NPC gear (combat gear: oil of align weapon (evil), oil of flame arrow, potions of cure light wounds (2), potions of jump (2), potion of spider climb, adamantine arrows (10), alchemical silver arrows (10), tanglefoot bags (2); other gear: +1 mithral breastplate, +1 keen shocking burst elven curve blade, +1 seeking composite longbow (+7 Str) with 40 cold iron arrows, belt of physical perfection +2, boots of speed, cloak of resistance +2, 50 gp)
 - **Alignment**: Neutral
 - **Advancement**: By character class
 - **Level Adjustment**: —

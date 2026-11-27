@@ -22,4 +22,4 @@ This magical powder horn holds 20 doses of [[rangoric-srd/equipment/weapons/Blac
 
 Firing a firearm that has been loaded from this horn underwater still incurs the –2 penalty on attack rolls for every 5 feet of water the bullet passes through, in addition to the normal penalties to range. When a shot loaded from a _dry load powder horn_ results in a firearm [[rangoric-srd/equipment/Firearms#Misfires|explosion]] while underwater or in an airless environment, that explosion occurs normally.
 
-Faint conjuration; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Air Bubble|air bubble]]_; Price 2,000 gp; Weight 1 lb..
+Faint conjuration; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Air Bubble|air bubble]]_; Price 2,000 gp; Weight 1 lb.

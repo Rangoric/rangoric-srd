@@ -20,4 +20,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This sight can be attached to a single two-handed firearm. When this is done, the sight becomes part of the weapon, but can be removed from that weapon with a full-round action. A firearm wielder can choose to spend a full-round action to make a single shot with a firearm that has this sight. When she does, she can resolve the attack against the touch AC of her target regardless of the range increment.
 
-Faint divination; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/True Strike|true strike]]_; Price 4,000 gp; Weight 1 lb..
+Faint divination; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/True Strike|true strike]]_; Price 4,000 gp; Weight 1 lb.

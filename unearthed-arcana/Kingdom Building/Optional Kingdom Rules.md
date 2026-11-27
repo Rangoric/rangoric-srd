@@ -183,7 +183,7 @@ Though many kingdoms break apart due to military, racial, or religious conflicts
 
 #### Step 4
 
-Each daughter kingdom should follow the steps for founding a kingdom . Treat leaders moving from the parent kingdom to a daughter kingdom as abdicating their posts in the parent kingdom. Loyalty increases by 1 for each daughter kingdom for the next 6 months. Add the Unrest from Step 3 to the Unrest for the daughter kingdoms.
+Each daughter kingdom should follow the steps for founding a kingdom. Treat leaders moving from the parent kingdom to a daughter kingdom as abdicating their posts in the parent kingdom. Loyalty increases by 1 for each daughter kingdom for the next 6 months. Add the Unrest from Step 3 to the Unrest for the daughter kingdoms.
 
 The GM may influence any of these steps as appropriate to the situation, such as by giving one kingdom an Economy penalty and a Loyalty bonus, or dividing the Unrest in Step 4 unequally between the kingdoms.
 
@@ -201,7 +201,7 @@ Just as a kingdom can divide into separate pieces, kingdoms may want to unite to
 
 First, combine the Treasuries and any other mobile assets (such as armies) of the kingdoms. Next, determine how much Unrest in each kingdom is not from leadership and building modifiers. Average these numbers together (minimum 1 Unrest).
 
-Then follow the steps for founding a kingdom . Treat leaders who change roles as changing roles within the same kingdom.
+Then follow the steps for founding a kingdom. Treat leaders who change roles as changing roles within the same kingdom.
 
 Once you've got your new, combined kingdom, add the Unrest from earlier to the Unrest for the new kingdom.
 

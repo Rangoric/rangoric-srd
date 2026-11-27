@@ -67,7 +67,7 @@ The measure of how much effort it takes to use a weapon (whether the weapon is d
 
 ##### Weapon Groups
 
-Some class features, such as the [[rangoric-srd/classes/Fighter#^fighter-weapon-training|fighter’s weapon training]], work with a group of weapons. The groups are defined as follows (GMs may add other weapons to these groups, or add entirely new groups). These groups are separate from the Weapon Group feats, which grant proficiency. ^weapon-groups
+Some class features, such as the [[rangoric-srd/classes/Fighter#^fighter-weapon-training|fighter’s weapon training]], work with a group of weapons. The groups are defined as follows (GMs may add other weapons to these groups, or add entirely new groups). ^weapon-groups
 
 %% generated: weapon groups %%
 

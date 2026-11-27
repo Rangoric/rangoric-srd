@@ -19,8 +19,8 @@ defense: "Will or none (object)"
 spell-resistance: "Yes or no (object)"
 based-on:
   - "[[fantasy srd 3.5/spells/Blacklight|Blacklight (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -29,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 Evocation \[Darkness\]  
 Level: Darkness 3, Sor/Wiz 3  
-Components: V, S , M  
+Components: V, S, M  
 Casting Time: 1 action  
 Range: Close (25 ft. + 5 ft./2 levels)  
 Area: A 20-ft.-radius emanation centered on a creature, object, or point in space  
