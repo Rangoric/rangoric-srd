@@ -27,11 +27,7 @@ treasure: "Standard (breastplate, heavy steel shield, longsword, spear, other tr
 alignment: "Usually neutral good"
 advancement: "By character class"
 level-adjustment: "+2"
-based-on:
-  - "[[path srd 3.5/monsters/Centaur|Centaur (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Centaur|Centaur (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

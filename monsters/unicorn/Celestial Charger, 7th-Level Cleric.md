@@ -28,10 +28,7 @@ treasure: "None"
 alignment: "Always chaotic good"
 advancement: "By character class"
 level-adjustment: "+8 (cohort)"
-based-on:
-  - "[[fantasy srd 3.5/monsters/unicorn/Celestial Charger, 7th-Level Cleric|Celestial Charger, 7th-Level Cleric (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

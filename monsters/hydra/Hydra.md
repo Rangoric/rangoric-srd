@@ -1,11 +1,7 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-based-on:
-  - "[[path srd 3.5/monsters/Hydra|Hydra (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/hydra/Hydra|Hydra (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

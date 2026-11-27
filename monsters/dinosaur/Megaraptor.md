@@ -28,10 +28,7 @@ treasure: "None"
 alignment: "Always neutral"
 advancement: "9–16 HD (Large); 17–24 HD (Huge)"
 level-adjustment: "—"
-based-on:
-  - "[[fantasy srd 3.5/monsters/dinosaur/Megaraptor|Megaraptor (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

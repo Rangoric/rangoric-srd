@@ -2,10 +2,7 @@
 srd-type: "monster"
 section: "Monsters"
 group: "[[rangoric-srd/monsters/half-dragon/Half-Dragon|Half-Dragon]]"
-based-on:
-  - "[[path srd 3.5 foundry/monster-templates/Half-Dragon|Half-Dragon (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

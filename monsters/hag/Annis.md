@@ -28,11 +28,7 @@ alignment: "Usually chaotic evil"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/hag/Hag|Hag]]"
-based-on:
-  - "[[path srd 3.5/monsters/Annis Hag|Annis Hag (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/hag/Annis|Annis (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

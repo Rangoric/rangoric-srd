@@ -2,10 +2,7 @@
 srd-type: "monster"
 section: "Monsters"
 group: "[[rangoric-srd/monsters/simple-templates/Simple Templates|Simple Templates]]"
-based-on:
-  - "[[path srd 3.5/rules/bestiary/monster-advancement/Simple Templates#Advanced Creature|Simple Templates (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/monster]
 ---

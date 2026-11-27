@@ -27,10 +27,7 @@ challenge-rating: 22
 treasure: "Standard"
 alignment: "Usually neutral"
 advancement: "30-36 HD (Medium-size); 37-42 HD (Large)"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Thorciasid|Thorciasid (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

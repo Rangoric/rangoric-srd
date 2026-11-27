@@ -29,10 +29,7 @@ alignment: "Usually lawful evil"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/kobold/Kobold|Kobold]]"
-based-on:
-  - "[[path srd 3.5/monsters/Kobold Battle Master|Kobold Battle Master (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---

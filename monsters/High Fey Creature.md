@@ -1,10 +1,7 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-based-on:
-  - "[[individual books/Faeries/templates/High Fey Creature|High Fey Creature (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/monster]
 ---

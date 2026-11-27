@@ -25,10 +25,7 @@ challenge-rating: 33
 treasure: "Standard (see text)"
 alignment: "Neutral"
 advancement: "None"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Living Vault|Living Vault (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

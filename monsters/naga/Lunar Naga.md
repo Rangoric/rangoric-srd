@@ -28,10 +28,7 @@ alignment: "Usually chaotic neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/naga/Naga|Naga]]"
-based-on:
-  - "[[path srd 3.5/monsters/Naga, Lunar|Naga, Lunar (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/monster]
 ---

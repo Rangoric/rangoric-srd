@@ -27,11 +27,7 @@ treasure: "None"
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Familiar, Fox (Bestiary 3)|Familiar, Fox (Bestiary 3) (PF1)]]"
-  - "[[path srd 3.5/monsters/Familiar, Fox|Familiar, Fox (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/monster]
 ---

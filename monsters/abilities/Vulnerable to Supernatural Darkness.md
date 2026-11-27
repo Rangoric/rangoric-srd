@@ -3,10 +3,7 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Ex"]
 kind: ["quality", "weakness"]
-based-on:
-  - "[[path srd 3.5/monsters/Mandragora|Mandragora (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/monster-ability]
 ---

@@ -29,10 +29,7 @@ alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/hag/Hag|Hag]]"
-based-on:
-  - "[[path srd 3.5/monsters/Blood Hag|Blood Hag (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/monster]
 ---

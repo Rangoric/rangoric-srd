@@ -29,11 +29,7 @@ alignment: "Always chaotic evil"
 advancement: "17–20 HD (Large); 21–48 HD (Huge)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/demon/Demon|Demon]]"
-based-on:
-  - "[[path srd 3.5/monsters/Demon, Marilith|Demon, Marilith (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/demon/Marilith|Marilith (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---

@@ -29,11 +29,7 @@ advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/monstrous-spider/Monstrous Spider|Monstrous Spider]]"
 aliases: ["Giant Spider"]
-based-on:
-  - "[[path srd 3.5/monsters/Spider, Giant (Monster)|Spider, Giant (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/monstrous-spider/Monstrous Spider, Medium|Monstrous Spider, Medium (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

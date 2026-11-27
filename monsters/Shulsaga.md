@@ -28,10 +28,7 @@ treasure: "Standard (mwk longbow, mwk trident, other treasure)"
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Shulsaga|Shulsaga (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

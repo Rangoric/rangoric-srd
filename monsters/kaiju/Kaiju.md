@@ -1,10 +1,7 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-based-on:
-  - "[[path srd 3.5/rules/bestiary-4/Kaiju (Bestiary 4)|Kaiju (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

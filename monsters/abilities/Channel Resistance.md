@@ -4,11 +4,7 @@ section: "Monsters"
 aliases: ["Turn Resistance"]
 ability-type: ["Ex"]
 kind: ["defense"]
-based-on:
-  - "[[fantasy srd 3.5/monsters/Monster Types, Sybtypes, and Special Abilities|Monster Types, Sybtypes, and Special Abilities (3.5)]]"
-  - "[[path srd 3.5/rules/bestiary/Universal Monster Rules#Channel Resistance (Ex)|Channel Resistance (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/monster-ability]
 ---

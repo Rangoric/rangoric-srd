@@ -27,10 +27,7 @@ treasure: "Incidental"
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Wolf-in-Sheep's-Clothing|Wolf-in-Sheep's-Clothing (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/monster]
 ---

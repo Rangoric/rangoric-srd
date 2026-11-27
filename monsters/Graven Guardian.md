@@ -27,10 +27,7 @@ treasure: "Incidental (masterwork scimitar, other treasure)"
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Graven Guardian (Monster)|Graven Guardian (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/monster]
 ---

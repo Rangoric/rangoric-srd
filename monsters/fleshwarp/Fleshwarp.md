@@ -1,13 +1,7 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-based-on:
-  - "[[path srd 3.5/monsters/Fleshwarp, Ghonhatine|Fleshwarp, Ghonhatine (PF1)]]"
-  - "[[path srd 3.5/monsters/Fleshwarp, Grothlut|Fleshwarp, Grothlut (PF1)]]"
-  - "[[path srd 3.5/monsters/Fleshwarp, Halsora|Fleshwarp, Halsora (PF1)]]"
-  - "[[path srd 3.5/monsters/Fleshwarp, Irnakurse|Fleshwarp, Irnakurse (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/monster]
 ---

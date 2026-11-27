@@ -29,11 +29,7 @@ alignment: "Always lawful evil"
 advancement: "19–36 HD (Large); 37–54 HD (Huge)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/devil/Devil|Devil]]"
-based-on:
-  - "[[path srd 3.5/monsters/Pit Fiend|Pit Fiend (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/devil/Pit Fiend|Pit Fiend (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---

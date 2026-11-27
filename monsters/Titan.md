@@ -30,10 +30,7 @@ treasure: "Double standard plus +4 half-plate armor and Gargantuan +3 adamantine
 alignment: "Always chaotic (any)"
 advancement: "21–30 HD (Huge); 31–60 HD (Gargantuan)"
 level-adjustment: "—"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Titan|Titan (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

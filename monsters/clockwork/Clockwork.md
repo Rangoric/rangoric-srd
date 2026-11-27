@@ -1,17 +1,7 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-based-on:
-  - "[[path srd 3.5/monsters/Clockwork Dragon (Monster)|Clockwork Dragon (Monster) (PF1)]]"
-  - "[[path srd 3.5/monsters/Clockwork Goliath (Monster)|Clockwork Goliath (Monster) (PF1)]]"
-  - "[[path srd 3.5/monsters/Clockwork Leviathan (Monster)|Clockwork Leviathan (Monster) (PF1)]]"
-  - "[[path srd 3.5/monsters/Clockwork Mage (Monster)|Clockwork Mage (Monster) (PF1)]]"
-  - "[[path srd 3.5/monsters/Clockwork Servant (Monster)|Clockwork Servant (Monster) (PF1)]]"
-  - "[[path srd 3.5/monsters/Clockwork Soldier (Monster)|Clockwork Soldier (Monster) (PF1)]]"
-  - "[[path srd 3.5/monsters/Clockwork Spy (Monster)|Clockwork Spy (Monster) (PF1)]]"
-  - "[[path srd 3.5/monsters/Clockwork Steed (Monster)|Clockwork Steed (Monster) (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/monster]
 ---

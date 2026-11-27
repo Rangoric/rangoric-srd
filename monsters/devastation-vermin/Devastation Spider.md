@@ -26,10 +26,7 @@ challenge-rating: 41
 treasure: "None"
 alignment: "Always neutral"
 advancement: "None"
-based-on:
-  - "[[fantasy srd 3.5/monsters/devastation-vermin/Devastation Spider|Devastation Spider (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

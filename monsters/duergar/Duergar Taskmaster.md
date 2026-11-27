@@ -29,10 +29,7 @@ alignment: "Usually lawful evil"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/duergar/Duergar, 1st-Level Warrior|Duergar, 1st-Level Warrior]]"
-based-on:
-  - "[[path srd 3.5/monsters/Duergar Taskmaster|Duergar Taskmaster (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/monster]
 ---

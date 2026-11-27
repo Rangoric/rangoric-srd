@@ -29,10 +29,7 @@ treasure: "Standard"
 alignment: "Always Chaotic Evil"
 advancement: "7-12 HD (Large); 13-18 HD (Huge)"
 level-adjustment: "-"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Phthisic|Phthisic (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

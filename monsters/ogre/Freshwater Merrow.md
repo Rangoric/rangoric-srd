@@ -29,11 +29,7 @@ alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/ogre/Ogre|Ogre]]"
-based-on:
-  - "[[path srd 3.5/monsters/Merrow, Freshwater|Merrow, Freshwater (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/ogre/Ogre#Merrow|Ogre, Merrow (3.5)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/monster]
 ---

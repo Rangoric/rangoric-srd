@@ -29,10 +29,7 @@ treasure: "None"
 alignment: "Always neutral"
 advancement: "21–26 HD (Large); 27–60 HD (Huge)"
 level-adjustment: "—"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/constructs/Golem, Amber|Golem, Amber (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/monster]
 ---

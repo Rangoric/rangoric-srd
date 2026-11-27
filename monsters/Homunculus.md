@@ -27,11 +27,7 @@ treasure: "None"
 alignment: "Any (same as creator)"
 advancement: "3–6 HD (Tiny)"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Homunculus (Monster)|Homunculus (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Homunculus|Homunculus (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---

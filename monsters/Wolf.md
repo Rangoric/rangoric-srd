@@ -27,11 +27,7 @@ treasure: "None"
 alignment: "Usually neutral"
 advancement: "3 HD (Medium); 4–6 HD (Large)"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Wolf (Monster)|Wolf (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Wolf|Wolf (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/monster]
 ---

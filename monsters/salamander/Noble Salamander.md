@@ -31,10 +31,7 @@ treasure: "Double standard (nonflammables only) and +3 longspear"
 alignment: "Usually evil (any)"
 advancement: "16–21 HD (Large); 22–45 HD (Huge)"
 level-adjustment: "—"
-based-on:
-  - "[[fantasy srd 3.5/monsters/salamander/Noble Salamander|Noble Salamander (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

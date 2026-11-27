@@ -3,10 +3,7 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Ex"]
 kind: ["quality"]
-based-on:
-  - "[[path srd 3.5/monsters/Horse (Monster)|Horse (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/monster-ability]
 ---

@@ -29,14 +29,7 @@ alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/half-fiend/Half-Fiend|Half-Fiend]]"
-based-on:
-  - "[[path srd 3.5/monsters/Half-Fiend|Half-Fiend (PF1)]]"
-  - "[[path srd 3.5/monsters/Half-Fiend#Creating a Half-Fiend|Creating a Half-Fiend (PF1)]]"
-  - "[[path srd 3.5 foundry/monster-templates/Half-Fiend|Half-Fiend (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Smite Good (Template Ability)|Smite Good (Template Ability) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/monsters/bestiary/Half-Fiend Minotaur|Half-Fiend Minotaur (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

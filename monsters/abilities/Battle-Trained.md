@@ -3,11 +3,7 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Ex"]
 kind: ["quality"]
-based-on:
-  - "[[path srd 3.5/monsters/Einherji|Einherji (PF1)]]"
-  - "[[path srd 3.5/monsters/Valkyrie|Valkyrie (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster-ability]
 ---

@@ -27,11 +27,7 @@ treasure: "Incidental"
 alignment: "Usually lawful good"
 advancement: "5–7 HD (Medium); 8–12 HD (Large)"
 level-adjustment: "+2 (cohort)"
-based-on:
-  - "[[path srd 3.5/monsters/Blink Dog|Blink Dog (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Blink Dog|Blink Dog (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

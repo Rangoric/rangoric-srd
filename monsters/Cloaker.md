@@ -27,11 +27,7 @@ treasure: "Standard"
 alignment: "Usually chaotic neutral"
 advancement: "7–9 HD (Large); 10–18 HD (Huge)"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Cloaker|Cloaker (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Cloaker|Cloaker (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

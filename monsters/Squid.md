@@ -28,11 +28,7 @@ treasure: "None"
 alignment: "Usually neutral"
 advancement: "4–6 HD (Medium); 7–11 HD (Large)"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Squid|Squid (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Squid|Squid (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/monster]
 ---

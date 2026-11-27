@@ -1,13 +1,7 @@
 ---
 srd-type: "overview"
 section: "Monsters"
-based-on:
-  - "[[path srd 3.5/rules/bestiary/monster-advancement/Templates|Templates (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Improving Monsters|Improving Monsters (3.5)]]"
-  - "[[path srd 3.5/rules/bestiary/monster-creation/Building the Monster|Building the Monster (PF1)]]"
-  - "[[path srd 3.5/rules/bestiary/monster-advancement/Adding Racial Hit Dice|Adding Racial Hit Dice (PF1)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---

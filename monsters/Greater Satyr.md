@@ -26,11 +26,7 @@ challenge-rating: "3"
 treasure: "Standard"
 alignment: "Usually chaotic neutral"
 advancement: "5–10 HD (Small)"
-based-on:
-  - "[[individual books/Faeries/creatures/Satyr|Satyr (Faeries)]]"
-  - "[[individual books/Faeries/tables/Table p121 Faun (Lesser Satyr)|Table p121 Faun (Lesser Satyr) (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---

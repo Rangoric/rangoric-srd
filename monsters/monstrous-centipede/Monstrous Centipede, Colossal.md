@@ -26,10 +26,7 @@ organization: "Solitary"
 challenge-rating: 9
 advancement: "25–48 HD (Colossal)"
 level-adjustment: "—"
-based-on:
-  - "[[fantasy srd 3.5/monsters/monstrous-centipede/Monstrous Centipede, Colossal|Monstrous Centipede, Colossal (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

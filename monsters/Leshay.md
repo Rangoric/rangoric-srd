@@ -27,10 +27,7 @@ challenge-rating: 28
 treasure: "Standard"
 alignment: "Any"
 advancement: "None"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Leshay|Leshay (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

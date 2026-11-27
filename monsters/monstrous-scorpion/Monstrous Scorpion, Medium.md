@@ -27,10 +27,7 @@ challenge-rating: 1
 alignment: "Always neutral"
 advancement: "3–4 HD (Medium)"
 level-adjustment: "—"
-based-on:
-  - "[[fantasy srd 3.5/monsters/monstrous-scorpion/Monstrous Scorpion, Medium|Monstrous Scorpion, Medium (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

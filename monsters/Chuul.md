@@ -28,11 +28,7 @@ treasure: "Standard"
 alignment: "Usually chaotic evil"
 advancement: "12–16 HD (Large); 17–33 HD (Huge)"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Chuul|Chuul (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Chuul|Chuul (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

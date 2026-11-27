@@ -28,10 +28,7 @@ treasure: "Standard (particularly staves and wands)"
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Abaia|Abaia (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/monster]
 ---

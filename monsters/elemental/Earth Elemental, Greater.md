@@ -29,11 +29,7 @@ alignment: "Usually neutral"
 advancement: "14–23 HD (Huge)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/elemental/Earth Elemental|Earth Elemental]]"
-based-on:
-  - "[[path srd 3.5/monsters/Elemental, Earth, Greater|Elemental, Earth, Greater (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/elemental/Earth Elemental, Greater|Earth Elemental, Greater (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---

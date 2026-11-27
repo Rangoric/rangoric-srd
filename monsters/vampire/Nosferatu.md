@@ -29,17 +29,7 @@ alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/vampire/Vampire|Vampire]]"
-based-on:
-  - "[[path srd 3.5/monsters/Vampire, Nosferatu|Vampire, Nosferatu (PF1)]]"
-  - "[[path srd 3.5 foundry/monster-templates/Nosferatu|Nosferatu (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Blood Drain (Nosferatu)|Blood Drain (Nosferatu) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Dominate (Nosferatu)|Dominate (Nosferatu) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Telekinesis (Nosferatu)|Telekinesis (Nosferatu) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Spider Climb (Nosferatu)|Spider Climb (Nosferatu) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Swarm Form|Swarm Form (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Telepathy (Nosferatu)|Telepathy (Nosferatu) (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/monster]
 ---

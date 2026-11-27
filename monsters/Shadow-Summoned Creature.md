@@ -1,12 +1,7 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-based-on:
-  - "[[path srd 3.5/races/Fetchlings#Shadow Creature (CR +1)|Fetchlings, Shadow Creature (PF1)]]"
-  - "[[path srd 3.5 foundry/monster-templates/Shadow Creature|Shadow Creature (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Shadow Bend|Shadow Bend (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---

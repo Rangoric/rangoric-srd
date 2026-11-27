@@ -28,10 +28,7 @@ alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/centipede/Centipede|Centipede]]"
-based-on:
-  - "[[path srd 3.5/monsters/Centipede, Giant Whiptail|Centipede, Giant Whiptail (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/monster]
 ---

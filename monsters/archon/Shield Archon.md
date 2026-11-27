@@ -28,10 +28,7 @@ treasure: "Standard (full plate, other treasure)"
 alignment: "Usually lawful good"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Archon, Shield|Archon, Shield (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/monster]
 ---

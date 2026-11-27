@@ -29,11 +29,7 @@ advancement: "6–9 HD (Large)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/monstrous-scorpion/Monstrous Scorpion|Monstrous Scorpion]]"
 aliases: ["Giant Scorpion"]
-based-on:
-  - "[[path srd 3.5/monsters/Scorpion, Giant (Monster)|Scorpion, Giant (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/monstrous-scorpion/Monstrous Scorpion, Large|Monstrous Scorpion, Large (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

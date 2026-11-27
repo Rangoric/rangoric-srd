@@ -6,13 +6,7 @@ creature-type: "Dragon"
 subtypes:
   - "Extraplanar"
 alignment: "Usually chaotic evil"
-based-on:
-  - "[[path srd 3.5/monsters/Umbral Dragon|Umbral Dragon (PF1 Bestiary 2)]]"
-  - "[[path srd 3.5/monsters/Dragon, Primal, Umbral, Young|Dragon, Primal, Umbral, Young (PF1 Bestiary 2)]]"
-  - "[[path srd 3.5/monsters/Dragon, Primal, Umbral, Adult|Dragon, Primal, Umbral, Adult (PF1 Bestiary 2)]]"
-  - "[[path srd 3.5/monsters/Dragon, Primal, Umbral, Ancient|Dragon, Primal, Umbral, Ancient (PF1 Bestiary 2)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/monster]
 ---

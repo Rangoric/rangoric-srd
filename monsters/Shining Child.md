@@ -28,10 +28,7 @@ treasure: "None"
 alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Shining Child|Shining Child (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

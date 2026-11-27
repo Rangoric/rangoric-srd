@@ -31,10 +31,7 @@ treasure: "Standard"
 alignment: "Always neutral"
 advancement: "4–6 HD (Small)"
 level-adjustment: "—"
-based-on:
-  - "[[fantasy srd 3.5/monsters/tojanida/Juvenile Tojanida|Juvenile Tojanida (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

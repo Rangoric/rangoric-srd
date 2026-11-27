@@ -27,12 +27,7 @@ treasure: "Standard (dagger, short bow plus 20 arrows, masterwork panpipes, othe
 alignment: "Usually chaotic neutral"
 advancement: "6–10 HD (Medium)"
 level-adjustment: "+2"
-based-on:
-  - "[[path srd 3.5/monsters/Satyr|Satyr (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Satyr|Satyr (3.5)]]"
-  - "[[individual books/Faeries/creatures/Satyr|Satyr (Faeries)]]"
 status: draft
-change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---

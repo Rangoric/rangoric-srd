@@ -29,11 +29,7 @@ advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/monstrous-centipede/Monstrous Centipede|Monstrous Centipede]]"
 aliases: ["Giant Centipede"]
-based-on:
-  - "[[path srd 3.5/monsters/Centipede, Giant (Monster)|Centipede, Giant (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/monstrous-centipede/Monstrous Centipede, Medium|Monstrous Centipede, Medium (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

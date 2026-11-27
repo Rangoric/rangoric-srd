@@ -28,10 +28,7 @@ alignment: "Chaotic neutral"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/human/Human|Human]]"
-based-on:
-  - "[[path srd 3.5/monsters/Bandit (Monster)|Bandit (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

@@ -26,10 +26,7 @@ challenge-rating: "7"
 treasure: "None"
 alignment: "Always neutral"
 advancement: "25–36 HD (Gargantuan); 37–40 HD (Colossal)"
-based-on:
-  - "[[individual books/Faeries/creatures/Doorway Guardian|Doorway Guardian (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/monster]
 ---

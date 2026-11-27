@@ -28,10 +28,7 @@ organization: "Solitary, school (2–5), or pack (6–11)"
 challenge-rating: 1
 advancement: "4–6 HD (Medium)"
 level-adjustment: "—"
-based-on:
-  - "[[fantasy srd 3.5/monsters/shark/Shark, Medium|Shark, Medium (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

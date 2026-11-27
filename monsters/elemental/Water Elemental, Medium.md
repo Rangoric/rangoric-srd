@@ -29,11 +29,7 @@ alignment: "Usually neutral"
 advancement: "5–7 HD (Medium)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/elemental/Water Elemental|Water Elemental]]"
-based-on:
-  - "[[path srd 3.5/monsters/Elemental, Water, Medium|Elemental, Water, Medium (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/elemental/Water Elemental, Medium|Water Elemental, Medium (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---

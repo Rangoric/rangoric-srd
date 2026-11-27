@@ -3,11 +3,7 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Ex"]
 kind: ["attack rider"]
-based-on:
-  - "[[path srd 3.5/rules/bestiary/Universal Monster Rules#Attach (Ex)|Attach (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/dire-animal/Dire Weasel|Dire Weasel (3.5)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/monster-ability]
 ---

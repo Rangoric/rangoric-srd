@@ -27,11 +27,7 @@ treasure: "None"
 alignment: "Usually neutral good"
 advancement: "5–8 HD (Large); 9–12 HD (Huge)"
 level-adjustment: "+2 (cohort)"
-based-on:
-  - "[[path srd 3.5/monsters/Eagle, Giant|Eagle, Giant (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Eagle, Giant|Eagle, Giant (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

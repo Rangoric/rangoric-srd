@@ -27,10 +27,7 @@ challenge-rating: 10
 treasure: "1/10 coins; 50% goods; 50% items"
 advancement: "21–39 HD (Gargantuan)"
 level-adjustment: "—"
-based-on:
-  - "[[fantasy srd 3.5/monsters/monstrous-scorpion/Monstrous Scorpion, Gargantuan|Monstrous Scorpion, Gargantuan (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

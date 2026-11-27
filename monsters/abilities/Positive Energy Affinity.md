@@ -3,10 +3,7 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Ex"]
 kind: ["defense"]
-based-on:
-  - "[[fantasy srd 3.5/monsters/Monster Types, Sybtypes, and Special Abilities|Monster Types, Sybtypes, and Special Abilities (3.5)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/monster-ability]
 ---

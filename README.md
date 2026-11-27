@@ -23,10 +23,10 @@ Note Rules note lists it.
 | -------------- | --------------------------- | -------------------------------------------------- |
 | `srd-type`     | yes                         | `text`                                             |
 | `status`       | yes                         | `base`, `draft`, `playtest`, `settled`, `replaced` |
-| `change`       | yes                         | `copied`, `modified`, `new`                        |
+| `change`       | no                          | `copied`, `modified`, `new`                        |
 | `pi-review`    | yes                         |                                                    |
 | `tags`         | yes                         | list including `rangoric` and `rangoric/*`         |
-| `based-on`     | when `change` is not `new`  |                                                    |
+| `based-on`     | no                          |                                                    |
 | `replaced-by`  | when `status` is `replaced` |                                                    |
 | `saving-throw` | never                       |                                                    |
 | `saves`        | never                       |                                                    |

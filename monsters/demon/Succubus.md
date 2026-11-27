@@ -29,11 +29,7 @@ alignment: "Always chaotic evil"
 advancement: "7–12 HD (Medium)"
 level-adjustment: "+6"
 group: "[[rangoric-srd/monsters/demon/Demon|Demon]]"
-based-on:
-  - "[[path srd 3.5/monsters/Demon, Succubus|Demon, Succubus (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/demon/Succubus|Succubus (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---

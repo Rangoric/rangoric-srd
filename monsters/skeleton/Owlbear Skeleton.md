@@ -27,10 +27,7 @@ treasure: "None"
 alignment: "Always neutral evil"
 advancement: "6–8 HD (Large); 9–15 HD (Huge)"
 level-adjustment: "—"
-based-on:
-  - "[[fantasy srd 3.5/monsters/skeleton/Owlbear Skeleton|Owlbear Skeleton (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

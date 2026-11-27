@@ -3,10 +3,7 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Ex"]
 kind: ["defense"]
-based-on:
-  - "[[path srd 3.5/rules/bestiary/Universal Monster Rules#Undead Traits (Ex)|Undead Traits (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/monster-ability]
 ---

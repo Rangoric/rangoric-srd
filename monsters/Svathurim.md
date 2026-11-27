@@ -28,10 +28,7 @@ treasure: "Standard (mwk chain shirt, mwk light steel shield, mwk composite long
 alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Svathurim|Svathurim (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/monster]
 ---

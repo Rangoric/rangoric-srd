@@ -3,11 +3,7 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Ex"]
 kind: ["weakness"]
-based-on:
-  - "[[path srd 3.5/monsters/Leech, Giant (Monster)|Leech, Giant (PF1)]]"
-  - "[[path srd 3.5/monsters/Slug, Giant (Monster)|Slug, Giant (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/monster-ability]
 ---

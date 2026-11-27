@@ -3,11 +3,7 @@ srd-type: "monster"
 section: "Monsters"
 group: "[[rangoric-srd/monsters/simple-templates/Simple Templates|Simple Templates]]"
 aliases: ["Colour-Blighted"]
-based-on:
-  - "[[path srd 3.5/monsters/Colour Out of Space#Colour-Blighted Simple Template (CR +0)|Colour Out of Space (PF1)]]"
-  - "[[path srd 3.5 foundry/monster-templates/Colour-Blighted|Colour-Blighted (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

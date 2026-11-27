@@ -2,13 +2,7 @@
 srd-type: "monster"
 section: "Monsters"
 group: "[[rangoric-srd/monsters/lycanthrope/Lycanthrope|Lycanthrope]]"
-based-on:
-  - "[[path srd 3.5 foundry/monster-templates/Lycanthrope|Lycanthrope (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Change Shape (Lycanthrope)|Change Shape (Lycanthrope) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Curse of Lycanthropy (Template Ability)|Curse of Lycanthropy (Template Ability) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Lycanthropic Empathy (Template Ability)|Lycanthropic Empathy (Template Ability) (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

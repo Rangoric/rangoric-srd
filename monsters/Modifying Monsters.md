@@ -1,10 +1,7 @@
 ---
 srd-type: "overview"
 section: "Monsters"
-based-on:
-  - "[[path srd 3.5/rules/monster-codex/appendix/Modifying Monsters|Modifying Monsters (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/overview]
 ---

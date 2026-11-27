@@ -25,10 +25,7 @@ organization: "Solitary"
 challenge-rating: "1/6"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Donkey|Donkey (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

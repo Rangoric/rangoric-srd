@@ -11,14 +11,7 @@ treasure: "Triple standard"
 alignment: "Always lawful evil"
 advancement: "Wyrmling 6 HD; very young 8 HD; young 10 HD; juvenile 12 HD; young adult 14 HD; adult 16 HD; mature adult 18 HD; old 20 HD; very old 22 HD; ancient 24 HD; wyrm 26 HD; great wyrm 28+ HD"
 level-adjustment: "Wyrmling +5; very young +5; young +5; juvenile +6; others —"
-based-on:
-  - "[[path srd 3.5/monsters/Dragon, Chromatic, Green|Green Dragon (PF1)]]"
-  - "[[path srd 3.5/monsters/Dragon, Chromatic, Green, Young|Young Green Dragon (PF1)]]"
-  - "[[path srd 3.5/monsters/Dragon, Chromatic, Green, Adult|Adult Green Dragon (PF1)]]"
-  - "[[path srd 3.5/monsters/Dragon, Chromatic, Green, Ancient|Ancient Green Dragon (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/chromatic-dragons/Green Dragon|Green Dragon (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/monster]
 ---

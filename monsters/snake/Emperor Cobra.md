@@ -28,10 +28,7 @@ alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/snake/Snake|Snake]]"
-based-on:
-  - "[[path srd 3.5/monsters/Snake, Emperor Cobra|Snake, Emperor Cobra (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/monster]
 ---

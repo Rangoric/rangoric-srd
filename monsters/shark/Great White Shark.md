@@ -29,11 +29,7 @@ alignment: "Usually neutral"
 advancement: "11–17 HD (Huge)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/shark/Shark|Shark]]"
-based-on:
-  - "[[path srd 3.5/monsters/Shark, Great White|Shark, Great White (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/shark/Shark, Huge|Shark, Huge (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/monster]
 ---

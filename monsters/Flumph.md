@@ -27,10 +27,7 @@ treasure: "Standard"
 alignment: "Usually lawful good"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Flumph|Flumph (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/monster]
 ---

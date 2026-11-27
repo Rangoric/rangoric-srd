@@ -29,10 +29,7 @@ treasure: "None"
 alignment: "Always neutral"
 advancement: "11–16 HD (Large); 17–30 HD (Huge)"
 level-adjustment: "—"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/constructs/Silver Steeds Of Inarial|Silver Steeds Of Inarial (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/monster]
 ---

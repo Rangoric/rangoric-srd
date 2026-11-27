@@ -28,10 +28,7 @@ treasure: "Triple (+2 breastplate, +2 returning spear, other treasure)"
 alignment: "Usually chaotic neutral"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Valkyrie|Valkyrie (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

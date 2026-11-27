@@ -28,10 +28,7 @@ treasure: "Incidental (1d6 sargassum fiend bulbs, other treasure)"
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Sargassum Fiend|Sargassum Fiend (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/monster]
 ---

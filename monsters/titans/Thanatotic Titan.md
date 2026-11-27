@@ -29,10 +29,7 @@ alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/titans/Titan (Group)|Titan (Group)]]"
-based-on:
-  - "[[path srd 3.5/monsters/Titan, Thanatotic|Titan, Thanatotic (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

@@ -29,11 +29,7 @@ alignment: "Always lawful evil"
 advancement: "7–9 HD (Medium); 10–18 HD (Large)"
 level-adjustment: "+6"
 group: "[[rangoric-srd/monsters/devil/Devil|Devil]]"
-based-on:
-  - "[[path srd 3.5/monsters/Devil, Bearded|Devil, Bearded (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/devil/Bearded Devil (Barbazu)|Bearded Devil (Barbazu) (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---

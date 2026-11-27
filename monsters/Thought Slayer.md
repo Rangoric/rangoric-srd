@@ -29,10 +29,7 @@ treasure: "Standard"
 alignment: "Often Chaotic neutral"
 advancement: "15-28 HD (Huge)"
 level-adjustment: "-"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Thought Slayer|Thought Slayer (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

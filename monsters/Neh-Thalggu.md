@@ -27,10 +27,7 @@ treasure: "Double"
 alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Neh-Thalggu|Neh-Thalggu (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

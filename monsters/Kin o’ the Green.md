@@ -2,10 +2,7 @@
 srd-type: "monster"
 section: "Monsters"
 aliases: ["Greenkin", "Kin o’ the Green (Template)"]
-based-on:
-  - "[[individual books/Alchemy & Herbalists v3.5/monsters/Kin o’ the Green (Template)|Kin o’ the Green (Template) (Alchemy & Herbalists)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/monster]
 ---

@@ -29,11 +29,7 @@ alignment: "Always lawful neutral"
 advancement: "16–28 HD (Large); 29–45 HD (Huge)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/inevitable/Inevitable|Inevitable]]"
-based-on:
-  - "[[path srd 3.5/monsters/Inevitable, Marut|Inevitable, Marut (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/inevitable/Marut|Marut (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---

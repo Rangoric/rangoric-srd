@@ -29,11 +29,7 @@ alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/zombie/Zombie|Zombie]]"
-based-on:
-  - "[[path srd 3.5/monsters/Zombie, Juju|Zombie, Juju (PF1)]]"
-  - "[[path srd 3.5 foundry/monster-templates/Juju Zombie|Juju Zombie (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/monster]
 ---

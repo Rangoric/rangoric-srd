@@ -3,12 +3,7 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Su"]
 kind: ["quality"]
-based-on:
-  - "[[path srd 3.5/monsters/Hamadryad|Hamadryad (PF1)]]"
-  - "[[path srd 3.5/monsters/Kapre|Kapre (PF1)]]"
-  - "[[path srd 3.5/monsters/Dryad|Dryad (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/monster-ability]
 ---

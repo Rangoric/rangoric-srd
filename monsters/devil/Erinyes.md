@@ -29,11 +29,7 @@ alignment: "Always lawful evil"
 advancement: "10–18 HD (Medium)"
 level-adjustment: "+7"
 group: "[[rangoric-srd/monsters/devil/Devil|Devil]]"
-based-on:
-  - "[[path srd 3.5/monsters/Devil, Erinyes|Devil, Erinyes (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/devil/Erinyes|Erinyes (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---

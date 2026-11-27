@@ -28,19 +28,7 @@ treasure: "NPC Gear (+4 leather armor, cloak of resistance +4, staff of charming
 alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Worm That Walks|Worm That Walks (PF1)]]"
-  - "[[path srd 3.5/monsters/Worm That Walks#Creating a Worm That Walks|Creating a Worm That Walks (PF1)]]"
-  - "[[path srd 3.5 foundry/monster-templates/Worm that Walks|Worm that Walks (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Worm that Walks Traits|Worm that Walks Traits (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Damage Reduction (Template Ability, Bestiary 2)|Damage Reduction (Template Ability, Bestiary 2) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Fast Healing (Template Ability)|Fast Healing (Template Ability) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Immunities|Immunities (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Discorporate|Discorporate (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Squirming Embrace|Squirming Embrace (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Tenacious|Tenacious (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

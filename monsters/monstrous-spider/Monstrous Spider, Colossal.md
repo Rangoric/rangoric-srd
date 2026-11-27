@@ -27,10 +27,7 @@ challenge-rating: 11
 treasure: "1/10 coins; 50% goods; 50% items"
 advancement: "33–60 HD (Colossal)"
 level-adjustment: "—"
-based-on:
-  - "[[fantasy srd 3.5/monsters/monstrous-spider/Monstrous Spider, Colossal|Monstrous Spider, Colossal (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

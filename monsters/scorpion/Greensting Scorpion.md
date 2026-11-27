@@ -28,11 +28,7 @@ alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/scorpion/Scorpion|Scorpion]]"
-based-on:
-  - "[[path srd 3.5/monsters/Scorpion, Greensting (Monster)|Scorpion, Greensting (PF1)]]"
-  - "[[path srd 3.5/monsters/Familiar, Scorpion, Greensting|Familiar, Scorpion, Greensting (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/monster]
 ---

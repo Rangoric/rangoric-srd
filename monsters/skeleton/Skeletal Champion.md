@@ -28,11 +28,7 @@ alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/skeleton/Skeleton|Skeleton]]"
-based-on:
-  - "[[path srd 3.5/monsters/Skeletal Champion|Skeletal Champion (PF1)]]"
-  - "[[path srd 3.5 foundry/monster-templates/Skeletal Champion|Skeletal Champion (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/monster]
 ---

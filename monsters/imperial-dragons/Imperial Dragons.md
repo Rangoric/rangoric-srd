@@ -1,14 +1,7 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-based-on:
-  - "[[path srd 3.5/monsters/Dragon, Imperial, Forest|Dragon, Imperial, Forest (PF1)]]"
-  - "[[path srd 3.5/monsters/Dragon, Imperial, Sea|Dragon, Imperial, Sea (PF1)]]"
-  - "[[path srd 3.5/monsters/Dragon, Imperial, Sky|Dragon, Imperial, Sky (PF1)]]"
-  - "[[path srd 3.5/monsters/Dragon, Imperial, Sovereign|Dragon, Imperial, Sovereign (PF1)]]"
-  - "[[path srd 3.5/monsters/Dragon, Imperial, Underworld|Dragon, Imperial, Underworld (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/monster]
 ---

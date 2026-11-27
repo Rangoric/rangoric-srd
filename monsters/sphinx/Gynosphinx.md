@@ -28,10 +28,7 @@ treasure: "Double standard"
 alignment: "Always neutral"
 advancement: "9–12 HD (Large); 13–24 HD (Huge)"
 level-adjustment: "+4 (cohort)"
-based-on:
-  - "[[fantasy srd 3.5/monsters/sphinx/Gynosphinx|Gynosphinx (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

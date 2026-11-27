@@ -27,11 +27,7 @@ treasure: "None"
 alignment: "Always chaotic good"
 advancement: "5-8 HD (Large)"
 level-adjustment: "+4 (cohort)"
-based-on:
-  - "[[path srd 3.5/monsters/Unicorn|Unicorn (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/unicorn/Unicorn|Unicorn (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

@@ -27,11 +27,7 @@ treasure: "None"
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Familiar, Rat|Familiar, Rat (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Rat|Rat (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/monster]
 ---

@@ -26,10 +26,7 @@ organization: "Solitary or colony (2–5)"
 challenge-rating: 1
 advancement: "4–5 HD (Large)"
 level-adjustment: "—"
-based-on:
-  - "[[fantasy srd 3.5/monsters/monstrous-centipede/Monstrous Centipede, Large|Monstrous Centipede, Large (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

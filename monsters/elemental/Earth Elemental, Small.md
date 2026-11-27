@@ -29,11 +29,7 @@ alignment: "Usually neutral"
 advancement: "3 HD (Small)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/elemental/Earth Elemental|Earth Elemental]]"
-based-on:
-  - "[[path srd 3.5/monsters/Elemental, Earth, Small|Elemental, Earth, Small (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/elemental/Earth Elemental, Small|Earth Elemental, Small (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---

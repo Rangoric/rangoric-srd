@@ -29,11 +29,7 @@ alignment: "Always lawful evil"
 advancement: "11–20 HD (Large); 21–30 HD (Huge)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/devil/Devil|Devil]]"
-based-on:
-  - "[[path srd 3.5/monsters/Devil, Bone|Devil, Bone (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/devil/Bone Devil (Osyluth)|Bone Devil (Osyluth) (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---

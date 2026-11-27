@@ -3,10 +3,7 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Su"]
 kind: ["quality", "weakness"]
-based-on:
-  - "[[path srd 3.5/monsters/Peluda|Peluda (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/monster-ability]
 ---

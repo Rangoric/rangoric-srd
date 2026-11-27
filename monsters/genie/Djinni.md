@@ -29,11 +29,7 @@ alignment: "Always chaotic good"
 advancement: "8–10 HD (Large); 11–21 (Huge)"
 level-adjustment: "+6"
 group: "[[rangoric-srd/monsters/genie/Genie|Genie]]"
-based-on:
-  - "[[path srd 3.5/monsters/Genie, Djinni|Genie, Djinni (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/genie/Djinni|Djinni (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---

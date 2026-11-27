@@ -29,10 +29,7 @@ treasure: "Standard"
 alignment: "Usually neutral"
 advancement: "By character class"
 level-adjustment: "+0"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Halfling|Halfling (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

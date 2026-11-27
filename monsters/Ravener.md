@@ -28,16 +28,7 @@ treasure: "Triple"
 alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Ravener|Ravener (PF1)]]"
-  - "[[path srd 3.5 foundry/monster-templates/Ravener|Ravener (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Soul Ward|Soul Ward (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Breath Weapon (Ravener)|Breath Weapon (Ravener) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Cowering Fear|Cowering Fear (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Soul Consumption|Soul Consumption (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Soul Magic|Soul Magic (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/monster]
 ---

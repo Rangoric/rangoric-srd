@@ -28,10 +28,7 @@ treasure: "Standard"
 alignment: "Always chaotic evil"
 advancement: "5–8 HD (Medium)"
 level-adjustment: "—"
-based-on:
-  - "[[fantasy srd 3.5/monsters/ghoul/Ghast|Ghast (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

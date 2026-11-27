@@ -31,10 +31,7 @@ treasure: "None"
 alignment: "Always neutral"
 advancement: "16–24 HD (Large); 25–32 HD (Gargantuan)"
 level-adjustment: "—"
-based-on:
-  - "[[fantasy srd 3.5/monsters/arrowhawk/Elder Arrowhawk|Elder Arrowhawk (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

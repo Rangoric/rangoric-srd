@@ -3,11 +3,7 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Su"]
 kind: ["quality"]
-based-on:
-  - "[[path srd 3.5/monsters/Sea Serpent, Deep|Sea Serpent, Deep (PF1)]]"
-  - "[[path srd 3.5/monsters/Water Orm|Water Orm (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/monster-ability]
 ---

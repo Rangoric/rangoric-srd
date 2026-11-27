@@ -29,11 +29,7 @@ alignment: "Always chaotic good"
 advancement: "7–12 HD (Medium); 13–18 HD (Large)"
 level-adjustment: "+5"
 group: "[[rangoric-srd/monsters/azata/Azata|Azata]]"
-based-on:
-  - "[[path srd 3.5/monsters/Azata, Bralani|Azata, Bralani (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Bralani|Bralani (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---

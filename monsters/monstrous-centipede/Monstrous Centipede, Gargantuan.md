@@ -26,10 +26,7 @@ organization: "Solitary"
 challenge-rating: 6
 advancement: "17–23 HD (Gargantuan)"
 level-adjustment: "—"
-based-on:
-  - "[[fantasy srd 3.5/monsters/monstrous-centipede/Monstrous Centipede, Gargantuan|Monstrous Centipede, Gargantuan (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

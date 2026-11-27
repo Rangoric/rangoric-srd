@@ -29,11 +29,7 @@ alignment: "Always lawful evil"
 advancement: "Special (see below)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/barghest/Barghest|Barghest]]"
-based-on:
-  - "[[path srd 3.5/monsters/Barghest, Greater|Barghest, Greater (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/barghest/Greater Barghest|Greater Barghest (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---

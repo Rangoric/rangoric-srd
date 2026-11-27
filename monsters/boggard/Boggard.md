@@ -28,12 +28,7 @@ treasure: "NPC gear (leather armor, morningstar, other treasure)"
 alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Boggard|Boggard (PF1)]]"
-  - "[[path srd 3.5/rules/monster-codex/boggards/Boggards (Boggards)|Boggards, society (PF1)]]"
-  - "[[path srd 3.5/rules/monster-codex/boggards/New Rules (Boggards)#Alternate Racial Traits|New Rules (Boggards) (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/monster]
 ---

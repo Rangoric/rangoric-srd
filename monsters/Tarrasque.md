@@ -27,11 +27,7 @@ treasure: "None"
 alignment: "Always neutral"
 advancement: "49+ HD (Colossal)"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Tarrasque (Monster)|Tarrasque (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Tarrasque|Tarrasque (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

@@ -28,11 +28,7 @@ treasure: "Standard"
 alignment: "Always chaotic evil"
 advancement: "4-9 HD (Medium)"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Shadow|Shadow (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/shadow/Shadow|Shadow (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---

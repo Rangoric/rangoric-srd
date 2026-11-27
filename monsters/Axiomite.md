@@ -28,10 +28,7 @@ treasure: "Standard (+1 longsword, other treasure)"
 alignment: "Usually lawful neutral"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Axiomite|Axiomite (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

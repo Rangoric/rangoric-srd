@@ -29,11 +29,7 @@ alignment: "Often chaotic good"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/giant/Giant|Giant]]"
-based-on:
-  - "[[path srd 3.5/monsters/Giant, Storm|Giant, Storm (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/giant/Storm Giant|Storm Giant (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

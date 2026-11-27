@@ -29,11 +29,7 @@ alignment: "Always neutral"
 advancement: "2–3 HD (Small)"
 level-adjustment: "+3"
 group: "[[rangoric-srd/monsters/sprite/Sprite|Sprite]]"
-based-on:
-  - "[[path srd 3.5/monsters/Nixie|Nixie (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/sprite/Nixie|Nixie (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---

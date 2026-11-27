@@ -11,14 +11,7 @@ treasure: "Triple standard"
 alignment: "Always chaotic evil"
 advancement: "Wyrmling 5 HD; very young 7 HD; young 9 HD; juvenile 11 HD; young adult 13 HD; adult 15 HD; mature adult 17 HD; old 19 HD; very old 21 HD; ancient 23 HD; wyrm 25 HD; great wyrm 27+ HD"
 level-adjustment: "Wyrmling +3; very young +3; young +3; juvenile +4; others —"
-based-on:
-  - "[[path srd 3.5/monsters/Dragon, Chromatic, Black|Black Dragon (PF1)]]"
-  - "[[path srd 3.5/monsters/Dragon, Chromatic, Black, Young|Young Black Dragon (PF1)]]"
-  - "[[path srd 3.5/monsters/Dragon, Chromatic, Black, Adult|Adult Black Dragon (PF1)]]"
-  - "[[path srd 3.5/monsters/Dragon, Chromatic, Black, Ancient|Ancient Black Dragon (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/chromatic-dragons/Black Dragon|Black Dragon (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/monster]
 ---

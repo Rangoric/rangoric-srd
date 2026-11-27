@@ -1,11 +1,7 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-based-on:
-  - "[[path srd 3.5/rules/bestiary/creature-types/Creature SubTypes|Creature Subtypes (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/inevitable/Inevitable|Inevitable (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---

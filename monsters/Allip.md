@@ -28,11 +28,7 @@ treasure: "Incidental"
 alignment: "Usually chaotic evil"
 advancement: "5–12 HD (Medium)"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Allip|Allip (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Allip|Allip (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---

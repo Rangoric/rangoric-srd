@@ -11,14 +11,7 @@ treasure: "Triple standard"
 alignment: "Always lawful good"
 advancement: "Wyrmling 9 HD; very young 11 HD; young 13 HD; juvenile 15 HD; young adult 17 HD; adult 19 HD; mature adult 21 HD; old 23 HD; very old 25 HD; ancient 27 HD; wyrm 29 HD; great wyrm 31+ HD"
 level-adjustment: "Wyrmling +4; very young +5; young +6; others —"
-based-on:
-  - "[[path srd 3.5/monsters/Dragon, Metallic, Gold|Gold Dragon (PF1)]]"
-  - "[[path srd 3.5/monsters/Dragon, Metallic, Gold, Young|Young Gold Dragon (PF1)]]"
-  - "[[path srd 3.5/monsters/Dragon, Metallic, Gold, Adult|Adult Gold Dragon (PF1)]]"
-  - "[[path srd 3.5/monsters/Dragon, Metallic, Gold, Ancient|Ancient Gold Dragon (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/metallic-dragons/Gold Dragon|Gold Dragon (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/monster]
 ---

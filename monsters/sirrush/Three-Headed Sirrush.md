@@ -28,10 +28,7 @@ challenge-rating: 28
 treasure: "Standard"
 alignment: "Usually chaotic neutral"
 advancement: "46-55 HD (Large); 56-65 HD (Huge); 66+ HD (Gargantuan)"
-based-on:
-  - "[[fantasy srd 3.5/monsters/sirrush/Three-Headed Sirrush|Three-Headed Sirrush (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

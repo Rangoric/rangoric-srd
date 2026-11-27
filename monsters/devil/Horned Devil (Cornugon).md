@@ -29,11 +29,7 @@ alignment: "Always lawful evil"
 advancement: "16–20 HD (Large); 21–45 HD (Huge)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/devil/Devil|Devil]]"
-based-on:
-  - "[[path srd 3.5/monsters/Devil, Horned|Devil, Horned (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/devil/Horned Devil (Cornugon)|Horned Devil (Cornugon) (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---

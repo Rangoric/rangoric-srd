@@ -27,11 +27,7 @@ treasure: "None"
 alignment: "Always neutral"
 advancement: "9–15 HD (Large); 16–24 HD (Huge)"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Gorgon|Gorgon (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Gorgon|Gorgon (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

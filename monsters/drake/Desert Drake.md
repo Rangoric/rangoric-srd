@@ -29,10 +29,7 @@ alignment: "Usually neutral evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/drake/Drake|Drake]]"
-based-on:
-  - "[[path srd 3.5/monsters/Drake, Desert|Drake, Desert (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/monster]
 ---

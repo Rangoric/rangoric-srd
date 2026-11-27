@@ -29,11 +29,7 @@ alignment: "Usually neutral good"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/foo-creatures/Foo Creature|Foo Creature]]"
-based-on:
-  - "[[path srd 3.5/monsters/Foo Dog|Foo Dog (PF1)]]"
-  - "[[path srd 3.5 foundry/monsters/bestiary-3/Foo Dog|Foo Dog (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

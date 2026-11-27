@@ -27,10 +27,7 @@ treasure: "NPC gear (daggers [2], leather armor, thieves' tools, other treasure)
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Wyrwood|Wyrwood (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/monster]
 ---

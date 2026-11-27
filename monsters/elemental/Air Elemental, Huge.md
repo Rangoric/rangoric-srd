@@ -29,11 +29,7 @@ alignment: "Usually neutral"
 advancement: "11–20 HD (Huge)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/elemental/Air Elemental|Air Elemental]]"
-based-on:
-  - "[[path srd 3.5/monsters/Elemental, Air, Huge|Elemental, Air, Huge (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/elemental/Air Elemental, Huge|Air Elemental, Huge (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---

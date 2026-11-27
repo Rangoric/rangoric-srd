@@ -27,10 +27,7 @@ challenge-rating: 32
 treasure: "None"
 alignment: "Always neutral"
 advancement: "58-63 HD (Medium-size); 64-79 HD (Large); 80-95 HD (Huge); 96-171 HD (Gargantuan)"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Umbral Blot (Blackball)|Umbral Blot (Blackball) (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

@@ -28,11 +28,7 @@ treasure: "Standard"
 alignment: "Always lawful evil"
 advancement: "9–10 HD (Large); 11–24 HD (Huge)"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Hellcat|Hellcat (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/devil/Hellcat (Bezekira)|Hellcat (Bezekira) (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---

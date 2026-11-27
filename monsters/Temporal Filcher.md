@@ -29,10 +29,7 @@ treasure: "Standard"
 alignment: "Usually Evil (any)"
 advancement: "9-15 HD (Large)"
 level-adjustment: "-"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Temporal Filcher|Temporal Filcher (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

@@ -1,15 +1,7 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-based-on:
-  - "[[path srd 3.5 foundry/monster-templates/Foo Creature|Foo Creature (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Damage Reduction (Template Ability)|Damage Reduction (Template Ability) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Immunity (Template Ability)|Immunity (Template Ability) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Paired Protectors|Paired Protectors (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Stony Defense|Stony Defense (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Freeze (Template Ability)|Freeze (Template Ability) (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

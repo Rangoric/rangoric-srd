@@ -28,11 +28,7 @@ treasure: "None"
 alignment: "Always neutral evil"
 advancement: "7–10 HD (Large); 11–18 HD (Huge)"
 level-adjustment: "+4 (cohort)"
-based-on:
-  - "[[path srd 3.5/monsters/Nightmare (Monster)|Nightmare (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Nightmare (Monster)|Nightmare (Monster) (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---

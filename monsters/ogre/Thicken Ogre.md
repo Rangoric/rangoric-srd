@@ -2,11 +2,7 @@
 srd-type: "monster"
 section: "Monsters"
 group: "[[rangoric-srd/monsters/ogre/Ogre|Ogre]]"
-based-on:
-  - "[[path srd 3.5/rules/monster-codex/ogres/New Rules (Ogres)#Thicken (CR +0)|New Rules (Ogres) (PF1)]]"
-  - "[[path srd 3.5 foundry/monster-templates/Thicken Ogre|Thicken Ogre (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

@@ -27,10 +27,7 @@ challenge-rating: 26
 treasure: "Standard"
 alignment: "Lawful evil or chaotic evil"
 advancement: "41-50 HD (Large); 51-56 HD (Huge); 57-72 HD (Gargantuan)"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Infernal|Infernal (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

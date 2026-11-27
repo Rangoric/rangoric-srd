@@ -25,10 +25,7 @@ organization: "Solitary or pair"
 challenge-rating: 2
 advancement: "4–5 HD (Medium)"
 level-adjustment: "—"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Bear, Black|Bear, Black (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

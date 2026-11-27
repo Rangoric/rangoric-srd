@@ -28,11 +28,7 @@ treasure: "NPC gear (trident, heavy crossbow with 10 bolts, other treasure)"
 alignment: "Usually neutral"
 advancement: "By character class"
 level-adjustment: "+1"
-based-on:
-  - "[[path srd 3.5/monsters/Merfolk (Monster)|Merfolk (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Merfolk|Merfolk (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

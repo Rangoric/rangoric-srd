@@ -29,11 +29,7 @@ advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/snake/Viper Snake|Viper Snake]]"
 aliases: ["Venomous Snake"]
-based-on:
-  - "[[path srd 3.5/monsters/Snake, Venomous|Snake, Venomous (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/snake/Snake, Medium Viper|Snake, Medium Viper (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

@@ -29,10 +29,7 @@ treasure: "Standard"
 alignment: "Always lawful Evil"
 advancement: "26-45 HD (Colossal)"
 level-adjustment: "-"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Neothelid|Neothelid (3.5)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

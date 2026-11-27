@@ -29,11 +29,7 @@ alignment: "Usually chaotic evil"
 advancement: "8–14 HD (Medium)"
 level-adjustment: "+5"
 group: "[[rangoric-srd/monsters/salamander/Salamander|Salamander]]"
-based-on:
-  - "[[path srd 3.5/monsters/Salamander|Salamander (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/salamander/Average Salamander|Average Salamander (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---

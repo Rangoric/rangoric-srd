@@ -31,10 +31,7 @@ challenge-rating: 31
 treasure: "Standard"
 alignment: "Always chaotic evil"
 advancement: "41-65 HD (Large); 66-84 HD (Huge); 85-110 HD (Gargantuan)"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Dream Larva|Dream Larva (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

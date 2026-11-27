@@ -27,10 +27,7 @@ treasure: "None"
 alignment: "Always neutral"
 advancement: "13–20 HD (Medium); 21–30 HD (Large); 31–32 HD (Huge)"
 level-adjustment: "—"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/constructs/Golem Armor|Golem Armor (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/monster]
 ---

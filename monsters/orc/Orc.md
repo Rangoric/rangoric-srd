@@ -27,12 +27,7 @@ treasure: "NPC gear (studded leather armor, falchion, 4 javelins, other treasure
 alignment: "Often chaotic evil"
 advancement: "By character class"
 level-adjustment: "+0"
-based-on:
-  - "[[path srd 3.5/monsters/Orc|Orc (PF1)]]"
-  - "[[path srd 3.5/rules/monster-codex/orcs/Orcs (Orcs)|Orcs, society (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Orc|Orc (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

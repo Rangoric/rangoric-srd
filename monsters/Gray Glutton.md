@@ -27,10 +27,7 @@ treasure: "None"
 alignment: "Always neutral"
 advancement: "10-20 HD (Huge); 21-27 HD (Gargantuan)"
 level-adjustment: "-"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Gray Glutton|Gray Glutton (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

@@ -27,10 +27,7 @@ treasure: "None"
 alignment: "Always neutral"
 advancement: "16-21 HD (Large); 22-45 (Huge)"
 level-adjustment: "-"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Psion-Killer|Psion-Killer (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

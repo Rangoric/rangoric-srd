@@ -29,10 +29,7 @@ treasure: "Standard"
 alignment: "Usually chaotic neutral"
 advancement: "15–21 HD (Huge); 22–45 HD (Gargantuan)"
 level-adjustment: "—"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Phasm|Phasm (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

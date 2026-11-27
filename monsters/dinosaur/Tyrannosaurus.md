@@ -28,11 +28,7 @@ alignment: "Always neutral"
 advancement: "19–36 HD (Huge); 37–54 HD (Gargantuan)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/dinosaur/Dinosaur|Dinosaur]]"
-based-on:
-  - "[[path srd 3.5/monsters/Dinosaur, Tyrannosaurus|Dinosaur, Tyrannosaurus (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/dinosaur/Tyrannosaurus|Tyrannosaurus (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/monster]
 ---

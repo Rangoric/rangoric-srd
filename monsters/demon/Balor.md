@@ -29,11 +29,7 @@ alignment: "Always chaotic evil"
 advancement: "21–30 HD (Large); 31–60 HD (Huge)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/demon/Demon|Demon]]"
-based-on:
-  - "[[path srd 3.5/monsters/Demon, Balor|Demon, Balor (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/demon/Balor|Balor (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---

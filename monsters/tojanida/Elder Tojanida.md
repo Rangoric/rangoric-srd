@@ -31,10 +31,7 @@ treasure: "Standard"
 alignment: "Always neutral"
 advancement: "16–24 HD (Large); 25–45 HD (Huge)"
 level-adjustment: "—"
-based-on:
-  - "[[fantasy srd 3.5/monsters/tojanida/Elder Tojanida|Elder Tojanida (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

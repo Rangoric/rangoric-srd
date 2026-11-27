@@ -27,11 +27,7 @@ treasure: "Incidental"
 alignment: "Usually neutral"
 advancement: "3–4 HD (Medium); 5–6 HD (Large)"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Grick|Grick (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Grick|Grick (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

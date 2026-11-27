@@ -29,10 +29,7 @@ alignment: "Usually neutral evil"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/giant/Frost Giant|Frost Giant]]"
-based-on:
-  - "[[path srd 3.5/monsters/Frost Giant Houndmaster|Frost Giant Houndmaster (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---

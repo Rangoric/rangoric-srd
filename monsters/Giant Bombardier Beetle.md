@@ -25,10 +25,7 @@ organization: "Cluster (2–5) or click (6–11)"
 challenge-rating: 2
 advancement: "3–4 HD (Medium); 5–6 HD (Large)"
 level-adjustment: "—"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Giant Bombardier Beetle|Giant Bombardier Beetle (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

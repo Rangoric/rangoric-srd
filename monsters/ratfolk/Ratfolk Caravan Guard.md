@@ -29,10 +29,7 @@ alignment: "Usually neutral"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/ratfolk/Ratfolk|Ratfolk]]"
-based-on:
-  - "[[path srd 3.5/monsters/Ratfolk Caravan Guard|Ratfolk Caravan Guard (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/monster]
 ---

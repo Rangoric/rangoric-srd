@@ -27,11 +27,7 @@ treasure: "Incidental"
 alignment: "Always neutral"
 advancement: "3–4 HD (Small); 5–6 HD (Medium)"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Shocker Lizard|Shocker Lizard (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Shocker Lizard|Shocker Lizard (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

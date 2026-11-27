@@ -28,10 +28,7 @@ alignment: "Usually chaotic evil"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/ghoul/Ghoul|Ghoul]]"
-based-on:
-  - "[[path srd 3.5/monsters/Ancient Gravedigger|Ancient Gravedigger (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/monster]
 ---

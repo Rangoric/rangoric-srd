@@ -3,12 +3,7 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Ex", "Su"]
 kind: ["defense"]
-based-on:
-  - "[[fantasy srd 3.5/monsters/Monster Types, Sybtypes, and Special Abilities|Monster Types, Sybtypes, and Special Abilities (3.5)]]"
-  - "[[path srd 3.5/rules/bestiary/Universal Monster Rules#Damage Reduction (Su)|Damage Reduction (PF1)]]"
-  - "[[path srd 3.5/rules/core-rulebook/glossary/Special Abilities#Overcoming DR|Overcoming DR (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/monster-ability]
 ---

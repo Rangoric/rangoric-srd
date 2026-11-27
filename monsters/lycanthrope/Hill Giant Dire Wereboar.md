@@ -30,10 +30,7 @@ size: "Large"
 creature-type: "Giant"
 subtypes:
   - "Shapechanger"
-based-on:
-  - "[[fantasy srd 3.5/monsters/lycanthrope/Hill Giant Dire Wereboar|Hill Giant Dire Wereboar (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

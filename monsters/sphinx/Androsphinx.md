@@ -28,11 +28,7 @@ alignment: "Always chaotic good"
 advancement: "13–18 HD (Large); 19–36 HD (Huge)"
 level-adjustment: "+5 (cohort)"
 group: "[[rangoric-srd/monsters/sphinx/Sphinx|Sphinx]]"
-based-on:
-  - "[[path srd 3.5/monsters/Sphinx, Androsphinx|Sphinx, Androsphinx (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/sphinx/Androsphinx|Androsphinx (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

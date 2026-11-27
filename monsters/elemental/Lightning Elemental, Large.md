@@ -29,10 +29,7 @@ alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/elemental/Lightning Elemental|Lightning Elemental]]"
-based-on:
-  - "[[path srd 3.5/monsters/Elemental, Lightning, Large|Elemental, Lightning, Large (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

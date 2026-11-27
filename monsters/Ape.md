@@ -25,10 +25,7 @@ organization: "Solitary, pair, or company (3–5)"
 challenge-rating: 2
 advancement: "5–8 HD (Large)"
 level-adjustment: "—"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Ape|Ape (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

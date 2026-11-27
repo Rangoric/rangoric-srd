@@ -28,11 +28,7 @@ treasure: "None"
 alignment: "Always neutral evil"
 advancement: "5–6 HD (Medium); 7–12 HD (Large)"
 level-adjustment: "+3 (cohort)"
-based-on:
-  - "[[path srd 3.5/monsters/Shadow Mastiff|Shadow Mastiff (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Shadow Mastiff|Shadow Mastiff (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---

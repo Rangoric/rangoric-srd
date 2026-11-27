@@ -2,10 +2,7 @@
 srd-type: "monster"
 section: "Monsters"
 group: "[[rangoric-srd/monsters/vampire/Vampire|Vampire]]"
-based-on:
-  - "[[path srd 3.5/rules/monster-codex/vampires/New Rules (Vampires)#Repeatedly Drained|New Rules (Vampires) (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/monster]
 ---

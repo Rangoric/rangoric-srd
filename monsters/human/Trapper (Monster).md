@@ -28,10 +28,7 @@ alignment: "Neutral"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/human/Human|Human]]"
-based-on:
-  - "[[path srd 3.5/monsters/Trapper (Monster)|Trapper (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-25
 tags: [rangoric, rangoric/monster]
 ---

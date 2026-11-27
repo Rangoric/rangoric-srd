@@ -26,10 +26,7 @@ challenge-rating: 27
 treasure: "None"
 alignment: "Neutral evil or neutral"
 advancement: "None (abilities may vary by level of possessing spirit)"
-based-on:
-  - "[[fantasy srd 3.5/monsters/colossus/Flesh Colossus|Flesh Colossus (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

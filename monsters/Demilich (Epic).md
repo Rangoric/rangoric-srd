@@ -27,10 +27,7 @@ challenge-rating: 29
 treasure: "Standard"
 alignment: "Neutral evil"
 advancement: "By character class"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Demilich|Demilich (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

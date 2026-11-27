@@ -4,11 +4,7 @@ section: "Monsters"
 aliases: ["Vulnerability to Energy"]
 ability-type: ["Su"]
 kind: ["weakness"]
-based-on:
-  - "[[fantasy srd 3.5/monsters/Monster Types, Sybtypes, and Special Abilities|Monster Types, Sybtypes, and Special Abilities (3.5)]]"
-  - "[[path srd 3.5/rules/bestiary/Universal Monster Rules#Vulnerabilities (Su)|Vulnerabilities (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/monster-ability]
 ---

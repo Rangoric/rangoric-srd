@@ -30,10 +30,7 @@ challenge-rating: 27
 treasure: "Standard"
 alignment: "Usually neutral evil"
 advancement: "As character class"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Uvuudaum|Uvuudaum (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

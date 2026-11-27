@@ -30,10 +30,7 @@ treasure: "Standard"
 alignment: "Usually neutral good"
 advancement: "By character class"
 level-adjustment: "+0"
-based-on:
-  - "[[fantasy srd 3.5/monsters/gnome/Gnome, 1st-Level Warrior|Gnome, 1st-Level Warrior (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

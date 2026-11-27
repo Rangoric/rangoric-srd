@@ -29,10 +29,7 @@ challenge-rating: 23
 treasure: "Standard"
 alignment: "Chaotic evil"
 advancement: "33-42 HD (Medium-size); 43-55 HD (Huge)"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Lavawight|Lavawight (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

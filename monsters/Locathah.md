@@ -28,11 +28,7 @@ treasure: "Standard (longspear, light crossbow and 10 bolts, other treasure)"
 alignment: "Usually neutral"
 advancement: "By character class"
 level-adjustment: "+1"
-based-on:
-  - "[[path srd 3.5/monsters/Locathah|Locathah (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Locathah|Locathah (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

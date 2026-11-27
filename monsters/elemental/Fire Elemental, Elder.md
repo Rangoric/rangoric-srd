@@ -29,11 +29,7 @@ alignment: "Usually neutral"
 advancement: "17–48 HD (Huge)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/elemental/Fire Elemental|Fire Elemental]]"
-based-on:
-  - "[[path srd 3.5/monsters/Elemental, Fire, Elder|Elemental, Fire, Elder (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/elemental/Fire Elemental, Elder|Fire Elemental, Elder (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---

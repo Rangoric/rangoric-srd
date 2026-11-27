@@ -28,10 +28,7 @@ treasure: "Standard"
 alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Winterwight|Winterwight (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---

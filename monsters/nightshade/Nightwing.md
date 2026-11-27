@@ -29,11 +29,7 @@ alignment: "Always chaotic evil"
 advancement: "18–25 HD (Huge); 26–34 HD (Gargantuan)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/nightshade/Nightshade|Nightshade]]"
-based-on:
-  - "[[path srd 3.5/monsters/Nightshade, Nightwing|Nightshade, Nightwing (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/nightshade/Nightwing|Nightwing (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---

@@ -29,14 +29,7 @@ alignment: "Usually lawful evil"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/vampire/Vampire|Vampire]]"
-based-on:
-  - "[[path srd 3.5/monsters/Vampire, Jiang-Shi|Vampire, Jiang-Shi (PF1)]]"
-  - "[[path srd 3.5 foundry/monster-templates/Jiang-Shi|Jiang-Shi (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Prayer Scroll|Prayer Scroll (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Brutal Claws|Brutal Claws (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Drain Chi|Drain Chi (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/monster]
 ---

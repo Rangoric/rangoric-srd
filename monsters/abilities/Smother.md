@@ -3,11 +3,7 @@ srd-type: "monster-ability"
 section: "Monsters"
 ability-type: ["Ex"]
 kind: ["special attack"]
-based-on:
-  - "[[path srd 3.5/monsters/Lurker Above|Lurker Above (PF1)]]"
-  - "[[path srd 3.5/monsters/Trapper (Monster, Bestiary 4)|Trapper (Monster, Bestiary 4) (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/monster-ability]
 ---

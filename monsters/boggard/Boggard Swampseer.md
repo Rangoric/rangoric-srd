@@ -29,10 +29,7 @@ alignment: "Usually neutral evil"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/boggard/Boggard|Boggard]]"
-based-on:
-  - "[[path srd 3.5/monsters/Boggard Swampseer|Boggard Swampseer (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/monster]
 ---

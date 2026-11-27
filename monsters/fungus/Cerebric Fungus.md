@@ -28,10 +28,7 @@ alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/fungus/Fungus|Fungus]]"
-based-on:
-  - "[[path srd 3.5/monsters/Cerebric Fungus|Cerebric Fungus (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/monster]
 ---

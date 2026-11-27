@@ -28,10 +28,7 @@ treasure: "None"
 alignment: "Usually neutral good"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Dragon Horse|Dragon Horse (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/monster]
 ---

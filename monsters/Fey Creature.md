@@ -27,22 +27,7 @@ treasure: "None"
 alignment: "Usually chaotic neutral"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Fey Creature|Fey Creature (PF1)]]"
-  - "[[path srd 3.5/monsters/Fey Creature#Creating a Fey Creature|Creating a Fey Creature (PF1)]]"
-  - "[[path srd 3.5 foundry/monster-templates/Fey Creature|Fey Creature (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Camouflage (Template Ability)|Camouflage (Template Ability) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Change Shape (Template Ability, Bestiary 3)|Change Shape (Template Ability, Bestiary 3) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Energy Resistance (Template Ability)|Energy Resistance (Template Ability) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Evasion (Template Ability)|Evasion (Template Ability) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Long Step|Long Step (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Spell Resistance (Template Ability)|Spell Resistance (Template Ability) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Trackless Step (Template Ability)|Trackless Step (Template Ability) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Vanish (Template Ability)|Vanish (Template Ability) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Woodland Stride (Template Ability)|Woodland Stride (Template Ability) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/monsters/bestiary-3/Fey Giant Toad|Fey Giant Toad (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

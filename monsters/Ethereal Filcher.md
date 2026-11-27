@@ -27,10 +27,7 @@ treasure: "No coins; standard goods; double items"
 alignment: "Usually neutral"
 advancement: "6–7 HD (Medium); 8–15 HD (Large)"
 level-adjustment: "—"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Ethereal Filcher|Ethereal Filcher (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

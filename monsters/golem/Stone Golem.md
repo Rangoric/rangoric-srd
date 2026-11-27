@@ -28,11 +28,7 @@ alignment: "Always neutral"
 advancement: "15-21 HD (Large); 22-42 (Huge)"
 level-adjustment: "-"
 group: "[[rangoric-srd/monsters/golem/Golem|Golem]]"
-based-on:
-  - "[[path srd 3.5/monsters/Golem, Stone|Golem, Stone (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/golem/Stone Golem|Stone Golem (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---

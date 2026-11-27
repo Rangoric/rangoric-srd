@@ -28,10 +28,7 @@ treasure: "Standard (masterwork half-plate, masterwork greatclub, masterwork com
 alignment: "Usually lawful evil"
 advancement: "—"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Oni, Kuwa|Oni, Kuwa (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/monster]
 ---

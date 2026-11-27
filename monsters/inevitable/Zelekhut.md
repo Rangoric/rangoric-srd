@@ -29,11 +29,7 @@ alignment: "Always lawful neutral"
 advancement: "9–16 HD (Large); 17–24 HD (Huge)"
 level-adjustment: "+7"
 group: "[[rangoric-srd/monsters/inevitable/Inevitable|Inevitable]]"
-based-on:
-  - "[[path srd 3.5/monsters/Inevitable, Zelekhut|Inevitable, Zelekhut (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/inevitable/Zelekhut|Zelekhut (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---

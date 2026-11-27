@@ -28,13 +28,7 @@ treasure: "Standard (hide armor, greatclub, 4 javelins, other treasure)"
 alignment: "Usually chaotic evil"
 advancement: "By character class"
 level-adjustment: "+2"
-based-on:
-  - "[[path srd 3.5/rules/monster-codex/ogres/New Rules (Ogres)|New Rules (Ogres) (PF1)]]"
-  - "[[path srd 3.5/monsters/Ogre|Ogre (PF1)]]"
-  - "[[path srd 3.5/rules/monster-codex/ogres/Ogres (Ogres)|Ogres, society (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/ogre/Ogre|Ogre (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---

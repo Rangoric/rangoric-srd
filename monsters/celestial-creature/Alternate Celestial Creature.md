@@ -2,12 +2,7 @@
 srd-type: "monster"
 section: "Monsters"
 group: "[[rangoric-srd/monsters/celestial-creature/Celestial Creature|Celestial Creature]]"
-based-on:
-  - "[[path srd 3.5/rules/bestiary/monster-advancement/Simple Templates#Celestial Creature|Simple Templates (PF1)]]"
-  - "[[path srd 3.5 foundry/monster-templates/Celestial|Celestial (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/template-abilities/Smite Evil (Template Ability)|Smite Evil (Template Ability) (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---

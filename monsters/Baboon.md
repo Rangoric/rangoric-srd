@@ -27,11 +27,7 @@ treasure: "None"
 alignment: "Usually neutral"
 advancement: "2–3 HD (Medium)"
 level-adjustment: "—"
-based-on:
-  - "[[path srd 3.5/monsters/Primate, Baboon|Primate, Baboon (PF1)]]"
-  - "[[fantasy srd 3.5/monsters/Baboon|Baboon (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/monster]
 ---

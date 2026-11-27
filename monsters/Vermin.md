@@ -1,10 +1,7 @@
 ---
 srd-type: "overview"
 section: "Monsters"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Vermin|Vermin (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/overview]
 ---

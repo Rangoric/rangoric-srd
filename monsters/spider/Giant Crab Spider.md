@@ -28,10 +28,7 @@ alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/spider/Spider|Spider]]"
-based-on:
-  - "[[path srd 3.5/monsters/Spider, Giant Crab|Spider, Giant Crab (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/monster]
 ---

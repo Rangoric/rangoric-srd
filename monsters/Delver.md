@@ -27,10 +27,7 @@ treasure: "None"
 alignment: "Usually neutral"
 advancement: "16–30 HD (Huge); 31–45 HD (Gargantuan)"
 level-adjustment: "—"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Delver|Delver (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

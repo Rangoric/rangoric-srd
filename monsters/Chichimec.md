@@ -31,10 +31,7 @@ challenge-rating: 21
 treasure: "None"
 alignment: "Always neutral evil"
 advancement: "28-38 HD (Medium-size); 39-50 HD (Large)"
-based-on:
-  - "[[fantasy srd 3.5/monsters/Chichimec|Chichimec (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

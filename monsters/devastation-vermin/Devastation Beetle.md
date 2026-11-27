@@ -26,10 +26,7 @@ challenge-rating: 50
 treasure: "None"
 alignment: "Always neutral"
 advancement: "None"
-based-on:
-  - "[[fantasy srd 3.5/monsters/devastation-vermin/Devastation Beetle|Devastation Beetle (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---

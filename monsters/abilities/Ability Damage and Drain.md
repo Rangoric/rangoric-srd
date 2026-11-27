@@ -4,11 +4,7 @@ section: "Monsters"
 aliases: ["Ability Score Loss"]
 ability-type: ["Su"]
 kind: ["special attack", "attack rider"]
-based-on:
-  - "[[fantasy srd 3.5/monsters/Monster Types, Sybtypes, and Special Abilities|Monster Types, Sybtypes, and Special Abilities (3.5)]]"
-  - "[[path srd 3.5/rules/bestiary/Universal Monster Rules#Ability Damage and Drain (Su)|Ability Damage and Drain (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/monster-ability]
 ---

@@ -29,10 +29,7 @@ alignment: "Usually chaotic evil"
 advancement: "By character class"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/gnoll/Gnoll|Gnoll]]"
-based-on:
-  - "[[path srd 3.5/monsters/Gnoll Bouda|Gnoll Bouda (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---
