@@ -1,7 +1,7 @@
 # Rangoric SRD
 
-Wilson's combined rules for a series of games: one version of each rule, starting from the whole 3.5 System
-Reference Document and adjusted piecemeal from Pathfinder, the Modern and Starfinder SRDs and other Open Game Content.
+Wilson's combined rules for a series of games: one version of each rule, drawn from Open Game Content and adjusted
+piecemeal.
 It's an Obsidian vault folder; start at [Rangoric SRD.md](Rangoric%20SRD.md).
 
 The content is Open Game Content under the Open Game License 1.0a, except what is declared Product Identity. The
