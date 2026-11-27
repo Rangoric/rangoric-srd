@@ -54,7 +54,7 @@ tags: [rangoric, rangoric/monster]
 - **Abilities**: Str 13, Dex 10, Con 13, Int 7, Wis 12, Cha 14
 - **Skills**: [[rangoric-srd/skills/Escape Artist|Escape Artist]] +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7 (+9 with bindings), [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +6
 - **Unspent Skill Points**: 6
-- **Feats**: [[rangoric-srd/feats/Feats All|Improved Initiative]], [[rangoric-srd/feats/Multiattack|Multiattack]]
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Multiattack|Multiattack]]
 - **Environment**: Positive Energy Plane
 - **Organization**: Solitary (1 plus at least 1 animated object)
 - **Challenge Rating**: 5

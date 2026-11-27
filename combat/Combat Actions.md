@@ -253,7 +253,7 @@ _Using a Spell-Like Ability on the Defensive_: You may attempt to use a spell-li
 
 ###### Total Defense
 
-You can defend yourself as a standard action. You get a +4 dodge bonus to your AC for 1 round. Your AC improves at the start of this action. You can’t combine total defense with fighting defensively or with the benefit of the [[rangoric-srd/feats/Feats All|Combat Expertise]] feat (since both of those require you to declare an attack or full attack). You can’t make attacks of opportunity while using total defense.
+You can defend yourself as a standard action. You get a +4 dodge bonus to your AC for 1 round. Your AC improves at the start of this action. You can’t combine total defense with fighting defensively or with the benefit of the [[rangoric-srd/feats/Combat Expertise|Combat Expertise]] feat (since both of those require you to declare an attack or full attack). You can’t make attacks of opportunity while using total defense.
 
 ###### Start/Complete Full-Round Action
 

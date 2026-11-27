@@ -74,7 +74,7 @@ tags: [rangoric, rangoric/overview]
 [[rangoric-srd/feats/Great Intelligence|Great Intelligence]]
 
 [[rangoric-srd/feats/Great Smiting|Great Smiting]]  
-[[rangoric-srd/feats/Great Smiting|Great Strength]]  
+[[rangoric-srd/feats/Great Strength|Great Strength]]  
 [[rangoric-srd/feats/Great Wisdom|Great Wisdom]]  
 [[rangoric-srd/feats/Group Inspiration|Group Inspiration]]  
 [[rangoric-srd/feats/Hindering Song|Hindering Song]]  

@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Defenses**: Fort 21, Ref 24, Will 21
 - **Abilities**: Str 12, Dex 20, Con 14, Int 6, Wis 11, Cha 19
 - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +15, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Performance|Performance]] (oratory) +13
-- **Feats**: [[rangoric-srd/feats/Feats All|Improved Critical]] (composite longbow), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Manyshot|Manyshot]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (composite longbow), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (composite longbow)
+- **Feats**: [[rangoric-srd/feats/Improved Critical|Improved Critical]] (composite longbow), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Manyshot|Manyshot]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (composite longbow), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (composite longbow)
 - **Environment**: Temperate marshes
 - **Organization**: Solitary
 - **Challenge Rating**: 11

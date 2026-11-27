@@ -55,7 +55,7 @@ Defenses: Fort 55, Ref 27, Will 43    
 Abilities: Str 48, Dex 8, Con 42, Int 19, Wis 33, Cha 35      
 Skills: [[rangoric-srd/skills/Athletics|Athletics]] +40 (+52 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +54, [[rangoric-srd/skills/Intimidation|Intimidation]] +65, [[rangoric-srd/skills/Knowledge|Knowledge skill]] (any one) +57, [[rangoric-srd/skills/Perception|Perception]] +70, [[rangoric-srd/skills/Persuasion|Persuasion]] +62, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +59, [[rangoric-srd/skills/Stealth|Stealth]] –12     
 Feats: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (slam), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam)      
-Epic Feats: [[rangoric-srd/feats/Feats All|Epic Endurance]], [[rangoric-srd/feats/Epic Reflexes|Epic Reflexes]], [[rangoric-srd/feats/Epic Toughness|Epic Toughness]] (x4), [[rangoric-srd/feats/Epic Weapon Focus|Epic Weapon Focus]] (slam), [[rangoric-srd/feats/Epic Will|Epic Will]]      
+Epic Feats: [[rangoric-srd/feats/Epic Endurance|Epic Endurance]], [[rangoric-srd/feats/Epic Reflexes|Epic Reflexes]], [[rangoric-srd/feats/Epic Toughness|Epic Toughness]] (x4), [[rangoric-srd/feats/Epic Weapon Focus|Epic Weapon Focus]] (slam), [[rangoric-srd/feats/Epic Will|Epic Will]]      
 Climate/Terrain: Any forest      
 Organization: Solitary or with grove of treants      
 Challenge Rating: 25      
