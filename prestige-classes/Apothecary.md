@@ -48,13 +48,13 @@ The apothecary’s class skills (and the key ability for each skill) are [[rango
 
 **Table: The Apothecary** ^table-the-apothecary
 
-| Level | Bonus Feat                                                                  | 0   | 1st | 2nd |
-| ----- | --------------------------------------------------------------------------- | --- | --- | --- |
-| 1st   | [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Profession (apothecary))   | —   | —   | —   |
-| 2nd   | [[rangoric-srd/feats/Craft Herbal Restoratives\|Craft Herbal Restoratives]] | 2/1 | —   | —   |
-| 3rd   | [[rangoric-srd/feats/Bodily Awareness\|Bodily Awareness]]                   | 3/1 | 1/1 | —   |
-| 4th   | [[rangoric-srd/feats/Diagnosis\|Diagnosis]]                                 | 4/2 | 2/1 | 1/1 |
-| 5th   | [[rangoric-srd/feats/Craft Toxins\|Craft Toxins]]                           | 5/3 | 3/2 | 2/1 |
+| Level | Bonus Feat                                                                                               | 0   | 1st | 2nd |
+| ----- | -------------------------------------------------------------------------------------------------------- | --- | --- | --- |
+| 1st   | [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Profession (apothecary))                                | —   | —   | —   |
+| 2nd   | [[rangoric-srd/feats/Craft Herbal Restoratives\|Craft Herbal Restoratives]]                              | 2/1 | —   | —   |
+| 3rd   | [[rangoric-srd/feats/Reciprocal Knowledge\|Reciprocal Knowledge]] (Medicine and Profession (apothecary)) | 3/1 | 1/1 | —   |
+| 4th   | [[rangoric-srd/feats/Diagnosis\|Diagnosis]]                                                              | 4/2 | 2/1 | 1/1 |
+| 5th   | [[rangoric-srd/feats/Craft Toxins\|Craft Toxins]]                                                        | 5/3 | 3/2 | 2/1 |
 
 Spells are given as spells known/spells per day.
 
@@ -78,7 +78,7 @@ These spells carry “Apo” levels.
 
 If a character had a spellcasting class before she became an apothecary, she foregoes advancement in that class while she studies and walks the path of the apothecary.
 
-**Bonus Feats**: At 1st level and at every level thereafter, apothecaries gain a bonus feat tied to their talents, taught in a specific order: 1st, [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Profession (apothecary)); 2nd, [[rangoric-srd/feats/Craft Herbal Restoratives|Craft Herbal Restoratives]]; 3rd, [[rangoric-srd/feats/Bodily Awareness|Bodily Awareness]]; 4th, [[rangoric-srd/feats/Diagnosis|Diagnosis]]; 5th, [[rangoric-srd/feats/Craft Toxins|Craft Toxins]]. An apothecary must still meet all feat prerequisites to use it. ^apothecary-bonus-feats
+**Bonus Feats**: At 1st level and at every level thereafter, apothecaries gain a bonus feat tied to their talents, taught in a specific order: 1st, [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Profession (apothecary)); 2nd, [[rangoric-srd/feats/Craft Herbal Restoratives|Craft Herbal Restoratives]]; 3rd, [[rangoric-srd/feats/Reciprocal Knowledge|Reciprocal Knowledge]] (Medicine and Profession (apothecary)); 4th, [[rangoric-srd/feats/Diagnosis|Diagnosis]]; 5th, [[rangoric-srd/feats/Craft Toxins|Craft Toxins]]. An apothecary must still meet all feat prerequisites to use it. ^apothecary-bonus-feats
 
 _Important:_ These feats are in addition to the feats a character of any class gets as she rises in level. The apothecary is not limited to the list given here when choosing those feats.
 

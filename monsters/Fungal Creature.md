@@ -20,7 +20,7 @@ defenses: "Fort 25, Ref 27, Will 26"
 abilities: "Str 14, Dex 19, Con 22, Int 16, Wis 17, Cha 25"
 skills: "Athletics +10, Craft (alchemy) +14, Dungeoneering +11, Escape Artist +15, Fieldcraft +5, Medicine +13, Nature +14, Perception +14, Persuasion +18, Sense Motive +14, Stealth +15"
 skill-ranks: "Athletics 5, Craft (alchemy) 8, Dungeoneering 5, Escape Artist 8, Fieldcraft 2, Medicine 7, Nature 8, Perception 8, Persuasion 8, Sense Motive 8, Stealth 8"
-feats: "Agile Maneuvers, Combat Casting, Self-Sufficient, Weapon Finesse"
+feats: "Agile Maneuvers, Combat Casting, Reciprocal Knowledge (Fieldcraft and Medicine), Weapon Finesse"
 environment: "Any ruins or underground"
 organization: "Solitary"
 challenge-rating: 8
@@ -60,7 +60,7 @@ tags: [rangoric, rangoric/monster]
 - **Defenses**: Fort 25, Ref 27, Will 26
 - **Abilities**: Str 14, Dex 19, Con 22, Int 16, Wis 17, Cha 25
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +14, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +11, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Medicine|Medicine]] +13, [[rangoric-srd/skills/Nature|Nature]] +14, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Persuasion|Persuasion]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +15
-- **Feats**: [[rangoric-srd/feats/Agile Maneuvers|Agile Maneuvers]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], Self-Sufficient, [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Feats**: [[rangoric-srd/feats/Agile Maneuvers|Agile Maneuvers]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Reciprocal Knowledge|Reciprocal Knowledge]] (Fieldcraft and Medicine), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
 - **Environment**: Any ruins or underground
 - **Organization**: Solitary
 - **Challenge Rating**: 8
