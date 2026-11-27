@@ -27,13 +27,13 @@ treasure: "Triple"
 alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
-group: "[[rangoric-srd/monsters/linnorm/Linnorm|Linnorm]]"
+group: "[[rangoric-srd/monsters/lindwurms/Lindwurm|Lindwurm]]"
 status: draft
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/monster]
 ---
 
-# Tor Linnorm
+# Tor Lindwurm
 
 - Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]]
 - **Hit Dice**: 24d12+264 (420 hp)
@@ -58,18 +58,18 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: —
 - **Level Adjustment**: —
 
-Tor linnorms epitomize the raw and untempered power of their kin. They dwell in the tallest volcanic mountains, either in naturally formed caverns or in the craters themselves, and rain destruction down upon nearby mountain villages whenever the urge strikes them. Tor linnorms are brutes, but as far as linnorms go are relatively intelligent. With this intelligence comes an overwhelming vanity—unlike other linnorms, tor linnorms enjoy being adored and worshiped by lesser creatures, and have been known to delay eating prisoners who seem to be particularly cowed by their presence, simply basking in their victims' fear.
+Tor lindwurms epitomize the raw and untempered power of their kin. They dwell in the tallest volcanic mountains, either in naturally formed caverns or in the craters themselves, and rain destruction down upon nearby mountain villages whenever the urge strikes them. Tor lindwurms are brutes, but as far as lindwurms go are relatively intelligent. With this intelligence comes an overwhelming vanity—unlike other lindwurms, tor lindwurms enjoy being adored and worshiped by lesser creatures, and have been known to delay eating prisoners who seem to be particularly cowed by their presence, simply basking in their victims' fear.
 
-A tor linnorm is 50 feet long and weighs 15,000 pounds.
+A tor lindwurm is 50 feet long and weighs 15,000 pounds.
 
-Tor linnorms speak Aklo, Draconic and Sylvan.
+Tor lindwurms speak Aklo, Draconic and Sylvan.
 
 ### Combat
 
-**Breath Weapon (Su)**: Once every 1d4 rounds as a standard action, a tor linnorm can expel a 60-foot cone of flame and ash, dealing 24d8 points of fire damage to all creatures struck (+23 vs Reflex; a miss halves). One round after this breath weapon is used, the area affected by the attack becomes covered in a cloud of thick, scorching smoke that burns both the lungs and eyes, dealing an additional 8d8 points of fire damage to all creatures in the area. Each creature that begins its turn in the smoke-covered area and breathes is attacked by the smoke at +23 vs Fortitude (+1 per previous attack) each round, and on a hit spends that round choking and coughing. Creatures that keep their eyes open for more than 1 round while in the area of the smoke are attacked at +23 vs Fortitude, and on a hit go blind for 1d3 hours. The smoke dissipates after 2d4 rounds. This duration is halved in strong winds and quartered in more powerful winds. The attack bonus is Constitution-based.
+**Breath Weapon (Su)**: Once every 1d4 rounds as a standard action, a tor lindwurm can expel a 60-foot cone of flame and ash, dealing 24d8 points of fire damage to all creatures struck (+23 vs Reflex; a miss halves). One round after this breath weapon is used, the area affected by the attack becomes covered in a cloud of thick, scorching smoke that burns both the lungs and eyes, dealing an additional 8d8 points of fire damage to all creatures in the area. Each creature that begins its turn in the smoke-covered area and breathes is attacked by the smoke at +23 vs Fortitude (+1 per previous attack) each round, and on a hit spends that round choking and coughing. Creatures that keep their eyes open for more than 1 round while in the area of the smoke are attacked at +23 vs Fortitude, and on a hit go blind for 1d3 hours. The smoke dissipates after 2d4 rounds. This duration is halved in strong winds and quartered in more powerful winds. The attack bonus is Constitution-based.
 
-**[[rangoric-srd/monsters/abilities/Death Curse|Death Curse]] (Su)**: When a creature slays a tor linnorm, the slayer is affected by the curse of boiling blood, which the [[rangoric-srd/class-options/rage-powers/Linnorm Death Curse, Tor (Rage Power)|linnorm death curse, tor]] rage power also bestows. _Curse of Boiling Blood_: _attack_ +21 vs Will; _effect_ creature gains [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to fire]] and is permanently [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] from the pain of its boiling blood. The attack bonus is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Death Curse|Death Curse]] (Su)**: When a creature slays a tor lindwurm, the slayer is affected by the curse of boiling blood, which the [[rangoric-srd/class-options/rage-powers/Lindwurm Death Curse, Tor (Rage Power)|lindwurm death curse, tor]] rage power also bestows. _Curse of Boiling Blood_: _attack_ +21 vs Will; _effect_ creature gains [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to fire]] and is permanently [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] from the pain of its boiling blood. The attack bonus is Charisma-based.
 
-**Lava Affinity (Ex)**: A tor linnorm can breathe and swim while submerged in lava and magma.
+**Lava Affinity (Ex)**: A tor lindwurm can breathe and swim while submerged in lava and magma.
 
 **[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; _attack_ +23 vs Fortitude; _frequency_ 1/round for 10 rounds; _effect_ 8d6 fire damage and 1d8 Con drain; _cure_ 3 consecutive misses.

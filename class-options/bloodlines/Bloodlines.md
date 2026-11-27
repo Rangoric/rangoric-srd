@@ -57,7 +57,7 @@ A [[rangoric-srd/class-options/archetypes/sorcerer/Wildblooded (Archetype)|wildb
 - [[rangoric-srd/class-options/bloodlines/Envenomed (Mutated Bloodline)|Envenomed (Mutated Bloodline)]], of the [[rangoric-srd/class-options/bloodlines/Serpentine Bloodline|Serpentine Bloodline]]
 - [[rangoric-srd/class-options/bloodlines/Groveborn (Mutated Bloodline)|Groveborn (Mutated Bloodline)]], of the [[rangoric-srd/class-options/bloodlines/Verdant Bloodline|Verdant Bloodline]]
 - [[rangoric-srd/class-options/bloodlines/Karmic (Mutated Bloodline)|Karmic (Mutated Bloodline)]], of the [[rangoric-srd/class-options/bloodlines/Destined Bloodline|Destined Bloodline]]
-- [[rangoric-srd/class-options/bloodlines/Linnorm (Mutated Bloodline)|Linnorm (Mutated Bloodline)]], of the [[rangoric-srd/class-options/bloodlines/Draconic Bloodline|Draconic Bloodline]]
+- [[rangoric-srd/class-options/bloodlines/Lindwurm (Mutated Bloodline)|Lindwurm (Mutated Bloodline)]], of the [[rangoric-srd/class-options/bloodlines/Draconic Bloodline|Draconic Bloodline]]
 - [[rangoric-srd/class-options/bloodlines/Pit-Touched (Mutated Bloodline)|Pit-Touched (Mutated Bloodline)]], of the [[rangoric-srd/class-options/bloodlines/Infernal Bloodline|Infernal Bloodline]]
 - [[rangoric-srd/class-options/bloodlines/Primal (Mutated Bloodline)|Primal (Mutated Bloodline)]], of the [[rangoric-srd/class-options/bloodlines/Elemental Bloodline|Elemental Bloodline]]
 - [[rangoric-srd/class-options/bloodlines/Rime-Blooded (Mutated Bloodline)|Rime-Blooded (Mutated Bloodline)]], of the [[rangoric-srd/class-options/bloodlines/Boreal Bloodline|Boreal Bloodline]]

@@ -28,13 +28,13 @@ treasure: "Triple"
 alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
-group: "[[rangoric-srd/monsters/linnorm/Linnorm|Linnorm]]"
+group: "[[rangoric-srd/monsters/lindwurms/Lindwurm|Lindwurm]]"
 status: draft
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/monster]
 ---
 
-# Fjord Linnorm
+# Fjord Lindwurm
 
 - Gargantuan [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]] (Aquatic)
 - **Hit Dice**: 16d12+144 (248 hp)
@@ -59,18 +59,18 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: —
 - **Level Adjustment**: —
 
-Fjord linnorms dwell among the deep waters that grace northern coastlines where fingers of land create complex rivulets, venturing out to sea to feed on sharks and whales when they cannot find settlements or traveling caravans to savage. As their favored haunts often overlap with coastal trade routes, regions known to be within the territory of a fjord linnorm are often avoided by ships. Fjord linnorms are not particularly adept at capsizing ships, as are some other large aquatic monsters, but one might argue that such tactics are unnecessary for a creature the size and power of a fjord linnorm in the first place.
+Fjord lindwurms dwell among the deep waters that grace northern coastlines where fingers of land create complex rivulets, venturing out to sea to feed on sharks and whales when they cannot find settlements or traveling caravans to savage. As their favored haunts often overlap with coastal trade routes, regions known to be within the territory of a fjord lindwurm are often avoided by ships. Fjord lindwurms are not particularly adept at capsizing ships, as are some other large aquatic monsters, but one might argue that such tactics are unnecessary for a creature the size and power of a fjord lindwurm in the first place.
 
-Both the curse and poison of a fjord linnorm are extremely dangerous for those who frequent the waterways of the north. The fjord linnorm's curse is particularly devastating to aquatic creatures, and such beings are careful to avoid any possible conflict with such linnorms.
+Both the curse and poison of a fjord lindwurm are extremely dangerous for those who frequent the waterways of the north. The fjord lindwurm's curse is particularly devastating to aquatic creatures, and such beings are careful to avoid any possible conflict with such lindwurms.
 
-A fjord linnorm is 60 feet long and weighs just over 10,000 pounds.
+A fjord lindwurm is 60 feet long and weighs just over 10,000 pounds.
 
-Fjord linnorms speak Aklo, Draconic and Sylvan.
+Fjord lindwurms speak Aklo, Draconic and Sylvan.
 
 ### Combat
 
-**Breath Weapon (Su)**: Once every 1d4 rounds as a standard action, a fjord linnorm can expel a 120-foot line of icy fluid, dealing 16d8 points of cold damage to all creatures struck (+17 vs Reflex; a miss halves). The freezing liquid quickly hardens to sheets of ice, causing any creature that takes damage to move at only half its normal speed for 1d4 rounds. A DC 27 Strength check made as a full-round action allows a character to break free of the ice before this duration expires. The attack bonus and Strength check DC are Constitution-based.
+**Breath Weapon (Su)**: Once every 1d4 rounds as a standard action, a fjord lindwurm can expel a 120-foot line of icy fluid, dealing 16d8 points of cold damage to all creatures struck (+17 vs Reflex; a miss halves). The freezing liquid quickly hardens to sheets of ice, causing any creature that takes damage to move at only half its normal speed for 1d4 rounds. A DC 27 Strength check made as a full-round action allows a character to break free of the ice before this duration expires. The attack bonus and Strength check DC are Constitution-based.
 
-**[[rangoric-srd/monsters/abilities/Death Curse|Death Curse]] (Su)**: When a creature slays a fjord linnorm, the slayer is affected by the curse of drowning, which the [[rangoric-srd/class-options/rage-powers/Linnorm Death Curse, Fjord (Rage Power)|linnorm death curse, fjord]] rage power also bestows. _Curse of Drowning_: _attack_ +16 vs Will; _effect_ creature can never gain the benefit of water breathing, and if it possesses this ability, loses it as long as it suffers the curse. In addition, the creature can hold its breath only half as long as normal, and whenever the cursed creature holds its breath, it functions as if [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]].
+**[[rangoric-srd/monsters/abilities/Death Curse|Death Curse]] (Su)**: When a creature slays a fjord lindwurm, the slayer is affected by the curse of drowning, which the [[rangoric-srd/class-options/rage-powers/Lindwurm Death Curse, Fjord (Rage Power)|lindwurm death curse, fjord]] rage power also bestows. _Curse of Drowning_: _attack_ +16 vs Will; _effect_ creature can never gain the benefit of water breathing, and if it possesses this ability, loses it as long as it suffers the curse. In addition, the creature can hold its breath only half as long as normal, and whenever the cursed creature holds its breath, it functions as if [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]].
 
 **[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; _attack_ +17 vs Fortitude; _frequency_ 1/round for 10 rounds; _effect_ 3d6 cold damage and 1d6 Con drain; _cure_ 2 consecutive misses.

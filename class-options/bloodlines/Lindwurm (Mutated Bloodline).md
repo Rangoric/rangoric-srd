@@ -1,0 +1,24 @@
+---
+srd-type: "class-option"
+section: "Class Options"
+option-type: "mutated bloodline"
+class: "Sorcerer"
+associated-bloodline: "[[rangoric-srd/class-options/bloodlines/Draconic Bloodline|Draconic]]"
+status: draft
+pi-review: 2026-11-15
+tags: [rangoric, rangoric/class-option]
+---
+
+# Lindwurm
+
+_A [[rangoric-srd/class-options/bloodlines/Bloodlines#Mutated Bloodlines|mutated bloodline]] of the [[rangoric-srd/class-options/bloodlines/Draconic Bloodline|draconic bloodline]], for a [[rangoric-srd/class-options/archetypes/sorcerer/Wildblooded (Archetype)|wildblooded]] [[rangoric-srd/classes/Sorcerer|sorcerer]]._
+
+Your draconic heritage stems from a mighty, primordial [[rangoric-srd/monsters/lindwurms/Lindwurm|lindwurm]] rather than from the more common, somewhat civilized dragons.
+
+**Associated Bloodline**: [[rangoric-srd/class-options/bloodlines/Draconic Bloodline|Draconic]].
+
+**Bloodline Arcana**: Whenever you cast a spell with an energy descriptor that matches your lindwurm bloodline's energy type, you gain a natural armor bonus equal to the spell's level for 1d4 rounds.
+
+**Bloodline Powers**: True dragons blast their foes with rays of energy.
+
+**Elemental Spit (Su)**: Starting at 1st level, you can fire an elemental ray that matches your lindwurm bloodline's energy type as a standard action, targeting any foe within 30 feet as a ranged touch attack. The ray deals 1d6 points of damage + 1 for every two sorcerer levels you possess. You can use this ability a number of times per day equal to 3 + your Charisma modifier. This bloodline power replaces [[rangoric-srd/class-options/bloodlines/Draconic Bloodline|claws]].
