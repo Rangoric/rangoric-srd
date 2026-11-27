@@ -8,6 +8,7 @@ Every departure from the source rules, newest first. One line each, with links t
 
 | Date | Change | Rangoric note | Source | Why |
 | --- | --- | --- | --- | --- |
+| 2026-11-26 | No Book Property (NB 2): monsters drop the `book:` frontmatter key, with their Note Rules rows and Index base columns; source books aren't named in SRD notes. | [[NB Batch 2 Changes]] | | [[No Book Property]] NB 2 |
 | 2026-11-26 | Regeneration says every creature with regeneration names what stops it in its stat block. | [[rangoric-srd/monsters/abilities/Regeneration\|Regeneration]], [[RG Batch 1 Changes]] | | [[Regeneration Pass]] RG 1 |
 | 2026-11-26 | Monsters Note Rules point to Regeneration: regeneration names what stops it. | [[rangoric-srd/monsters/Monsters Note Rules\|Monsters Note Rules]], [[RG Batch 1 Changes]] | | [[Regeneration Pass]] RG 1 |
 | 2026-11-26 | Regeneration names what stops it (good weapons, living weapons), and its Regeneration paragraph says those stop it for 1 round. | [[rangoric-srd/monsters/Atropal\|Atropal]], [[RG Batch 1 Changes]] | | [[Regeneration Pass]] RG 1 |
