@@ -24,7 +24,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 _Unguent; Special_
 
-Whether applied in advance of an attack or after a wound is inflicted, antiseptic ointment counteracts the effects of any Contact or Injury poisons. It provides a +6 circumstance bonus to Fort saves vs. the aforementioned poisons and toxins for 2d6 hours, though it fully neutralizes poisons in the system if applied after the poison is delivered (and usually cancels secondary or lingering effects).
+Whether applied in advance of an attack or after a wound is inflicted, antiseptic ointment counteracts the effects of any Contact or Injury poisons. It provides a +6 circumstance bonus to Fortitude Defense vs. the aforementioned poisons and toxins for 2d6 hours, though it fully neutralizes poisons in the system if applied after the poison is delivered (and usually cancels secondary or lingering effects).
 
 **Construction**: No aura; CL 12th; [[rangoric-srd/feats/Craft Herbal Restoratives|Craft Herbal Restoratives]] or [[rangoric-srd/feats/Craft Unguents|Craft Unguents]]; DC: 25; Price: 900 gp/2 oz.
 

@@ -24,7 +24,7 @@ _An [[rangoric-srd/class-options/animal-companions/Animal Companions|animal comp
 - **AC**: +2 natural armor
 - **Attack**: sting (1d6 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
 - **Ability scores**: Str 10, Dex 14, Con 11, Int —, Wis 13, Cha 4
-- **Special attacks**: [[rangoric-srd/monsters/abilities/Poison|poison]] (frequency 1 round [6], effect 1 Dex damage, cure 1 save, Con-based DC)
+- **Special attacks**: [[rangoric-srd/monsters/abilities/Poison|poison]] (frequency 1 round [6], effect 1 Dex damage, cure 1 miss, Con-based attack bonus)
 - **CMD**: trip +8
 - **Special qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]]
 

@@ -24,7 +24,7 @@ _An [[rangoric-srd/class-options/animal-companions/Animal Companions|animal comp
 - **AC**: +2 natural armor
 - **Attack**: bite (1d3 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
 - **Ability scores**: Str 8, Dex 17, Con 11, Int 1, Wis 12, Cha 2
-- **Special attacks**: [[rangoric-srd/monsters/abilities/Poison|poison]] (frequency 1 round [6], effect 1 Con damage, cure 1 save, Con-based DC)
+- **Special attacks**: [[rangoric-srd/monsters/abilities/Poison|poison]] (frequency 1 round [6], effect 1 Con damage, cure 1 miss, Con-based attack bonus)
 - **Special qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
 
 ## 4th-Level Advancement
