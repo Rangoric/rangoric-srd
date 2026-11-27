@@ -64,7 +64,7 @@ tags: [rangoric, rangoric/monster]
 
 A god stealer is an [[rangoric-srd/monsters/elf/Elf|elf]] with 3 levels of [[rangoric-srd/classes/Rogue|rogue]] and 7 levels of [[rangoric-srd/classes/Wizard|wizard]] (the [[rangoric-srd/class-options/arcane-schools/Enchantment School|enchantment]] school) and 10 levels of [[rangoric-srd/prestige-classes/Arcane Trickster|arcane trickster]]. Often serving the priesthood of vile cults, these tricksters steal from powerful good temples.
 
-A god stealer speaks Abyssal, Celestial, Common, Dwarven, Elf, Giant, Goblin, Ignan, and Infernal.
+A god stealer speaks Abyssal, Celestial, Common, Dwarven, Elven, Giant, Goblin, Ignan, and Infernal.
 
 ### Combat
 

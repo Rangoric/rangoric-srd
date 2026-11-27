@@ -64,7 +64,7 @@ tags: [rangoric, rangoric/monster]
 
 A master storycrafter is a [[rangoric-srd/monsters/elf/Elf#Half-Elf|half-elf]] with 10 levels of [[rangoric-srd/classes/Sorcerer|sorcerer]] and 7 levels of [[rangoric-srd/prestige-classes/Wandering Chronicler|wandering chronicler]]. These chroniclers travel with intrepid adventurers to record tales of their exploits.
 
-A master storycrafter speaks Common, Draconic, Dwarven, Elf, Gnome, Halfling, and Orc.
+A master storycrafter speaks Common, Draconic, Dwarven, Elven, Gnome, Halfling, and Orc.
 
 ### Combat
 
