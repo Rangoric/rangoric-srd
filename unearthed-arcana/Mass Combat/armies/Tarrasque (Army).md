@@ -10,7 +10,7 @@ acr: "17"
 dv: "27"
 om: "+21, ranged"
 tactics: "defensive wall, relentless brutality, siegebreaker, spellbreaker, withdraw"
-special: "cannibalize; fear; grab; immune to ability damage, bleed, disease, energy drain, fear, paralysis, petrification, and poison; low-light vision; regeneration 40; scent; significant defense; spell resistance"
+special: "cannibalize; fear; grab; immune to ability damage, bleed, disease, energy drain, fear, paralysis, petrification, and poison; low-light vision; regeneration 40 (miracle or wish); scent; significant defense; spell resistance"
 speed: "2"
 consumption: "8"
 note: "+4 OM due to feats and monster special abilities"
@@ -35,7 +35,7 @@ tags: [rangoric, rangoric/army]
 - **DV**: 27
 - **OM**: +21, ranged
 - **Tactics**: defensive wall, relentless brutality, siegebreaker, spellbreaker, withdraw
-- **Special**: cannibalize; fear; grab; immune to ability damage, bleed, disease, energy drain, fear, paralysis, petrification, and poison; low-light vision; regeneration 40; scent; significant defense; spell resistance
+- **Special**: cannibalize; fear; grab; immune to ability damage, bleed, disease, energy drain, fear, paralysis, petrification, and poison; low-light vision; regeneration 40 (miracle or wish); scent; significant defense; spell resistance
 - **Speed**: 2
 - **Consumption**: 8
 - **Note**: +4 OM due to feats and monster special abilities

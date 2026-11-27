@@ -156,7 +156,7 @@ Troll characters possess the following racial traits.
 
 - Special Attacks (see above): Rend, damage 2d6 + 1-1/2 times Str modifier.
 
-- Special Qualities: [[rangoric-srd/monsters/abilities/Regeneration|Regeneration]] 5, [[rangoric-srd/monsters/abilities/Scent|scent]].
+- Special Qualities: [[rangoric-srd/monsters/abilities/Regeneration|Regeneration]] 5 (acid or fire), [[rangoric-srd/monsters/abilities/Scent|scent]].
 
 - Automatic Languages: Giant. Bonus Languages: Common, Orc.
 

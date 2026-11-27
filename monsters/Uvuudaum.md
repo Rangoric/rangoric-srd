@@ -17,7 +17,7 @@ attack: "Head spike +51 (10d6+21/19-20 plus Wisdom drain) melee"
 full-attack: "Head spike +51 (10d6+21/19-20 plus Wisdom drain) melee"
 space-reach: "10 ft./10 ft."
 special-attacks: "Confusion aura, spell-like abilities, Wisdom drain"
-special-qualities: "Blindsight 500 ft., DR 10/epic and good, electricity resistance 30, fast healing 20, regeneration 5, SR 39"
+special-qualities: "Blindsight 500 ft., DR 10/epic and good, electricity resistance 30, fast healing 20, regeneration 5 (holy weapons, cold, fire), SR 39"
 defenses: "Fort 50, Ref 47, Will 51"
 abilities: "Str 39, Dex 38, Con 44, Int 32, Wis 38, Cha 46"
 skills: "Acrobatics +57, Athletics +55 (+63 climbing, +75 jumping), Craft (alchemy) +52, Escape Artist +55, Intimidation +59, Arcana +52, Mysticism +56, Society +52, Theology +54, Perception +55, Persuasion +59, Investigation +52, Sense Motive +55, Stealth +51"
@@ -51,7 +51,7 @@ Attack: Head spike +51 (10d6+21/19-20 plus Wisdom drain) melee   
 Full Attack: Head spike +51 (10d6+21/19-20 plus Wisdom drain) melee     
 Space/Reach: 10 ft./10 ft.      
 Special Attacks: Confusion aura, spell-like abilities, [[rangoric-srd/monsters/abilities/Ability Damage and Drain|Wisdom drain]]      
-Special Qualities: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 500 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/epic and good, [[rangoric-srd/monsters/abilities/Resistance|electricity resistance]] 30, [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 20, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 39      
+Special Qualities: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 500 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/epic and good, [[rangoric-srd/monsters/abilities/Resistance|electricity resistance]] 30, [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 20, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (holy weapons, cold, fire), [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 39      
 Defenses: Fort 50, Ref 47, Will 51      
 Abilities: Str 39, Dex 38, Con 44, Int 32, Wis 38, Cha 46      
 Skills: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +57, [[rangoric-srd/skills/Arcana|Arcana]] +52, [[rangoric-srd/skills/Athletics|Athletics]] +55 (+63 climbing, +75 jumping), [[rangoric-srd/skills/Craft|Craft]] (alchemy) +52, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +55, [[rangoric-srd/skills/Intimidation|Intimidation]] +59, [[rangoric-srd/skills/Investigation|Investigation]] +52, [[rangoric-srd/skills/Mysticism|Mysticism]] +56, [[rangoric-srd/skills/Perception|Perception]] +55, [[rangoric-srd/skills/Persuasion|Persuasion]] +59, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +55, [[rangoric-srd/skills/Society|Society]] +52, [[rangoric-srd/skills/Stealth|Stealth]] +51, [[rangoric-srd/skills/Theology|Theology]] +54     
@@ -83,4 +83,4 @@ At will - [[rangoric-srd/spells/Confusion|confusion]], [[rangoric-srd/spells/Dim
 
 1/day - [[rangoric-srd/spells/Contingent Resurrection|contingent resurrection]], [[rangoric-srd/spells/Nailed to the Sky|nailed to the sky]], [[rangoric-srd/spells/Time Duplicate|time duplicate]] (epic spells), [[rangoric-srd/spells/Time Stop|time stop]].
 
-Regeneration (Ex): Uvuudaums take normal damage from holy weapons, cold, and fire.
+Regeneration (Ex): Holy weapons, cold, and fire cause an uvuudaum’s regeneration to stop functioning for 1 round.

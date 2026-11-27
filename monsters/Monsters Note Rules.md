@@ -51,6 +51,8 @@ Headings, in order:
 
 1. `# (name)`
 
+- Regeneration names what stops it, as [[rangoric-srd/monsters/abilities/Regeneration|Regeneration]] says: “regeneration 5 (acid or fire)”.
+
 ## monster-ability
 
 | Key            | Required | Values            |

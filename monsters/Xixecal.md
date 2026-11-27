@@ -19,7 +19,7 @@ attack: "Claw +95 (2d8+28/19-20) melee"
 full-attack: "2 claws +95 (2d8+28/19-20) melee, bite +89 (4d6+14) melee, stamp +89 (4d6+14) melee"
 space-reach: "50 ft./50 ft."
 special-attacks: "Rend 4d8+42, cold, spell-like abilities, breath weapon, summon white dragon, Constitution drain"
-special-qualities: "Abomination traits, cold immunity, fire vulnerability, dire winter, fast healing 30, regeneration 30, SR 48, DR 20/good and epic and adamantine"
+special-qualities: "Abomination traits, cold immunity, fire vulnerability, dire winter, fast healing 30, regeneration 30 (lawful weapons), SR 48, DR 20/good and epic and adamantine"
 defenses: "Fort 65, Ref 57, Will 49"
 abilities: "Str 66, Dex 13, Con 40, Int 12, Wis 8, Cha 34"
 skills: "Athletics +103 (+147 jumping), Arcana +76, Mysticism +76, Theology +76, Perception +80, Investigation +76, Stealth +60"
@@ -53,7 +53,7 @@ Attack: Claw +95 (2d8+28/19-20) melee   
 Full Attack: 2 claws +95 (2d8+28/19-20) melee, bite +89 (4d6+14) melee, stamp +89 (4d6+14) melee      
 Space/Reach: 50 ft./50 ft.      
 Special Attacks: Rend 4d8+42, cold, spell-like abilities, [[rangoric-srd/monsters/abilities/Breath Weapon|breath weapon]], summon [[rangoric-srd/monsters/chromatic-dragons/White Dragon|white dragon]], Constitution [[rangoric-srd/monsters/abilities/Ability Damage and Drain|drain]]      
-Special Qualities: Abomination traits, cold immunity, [[rangoric-srd/monsters/abilities/Vulnerabilities|fire vulnerability]], [[rangoric-srd/epic/Epic Feats|dire winter]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 30, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 30, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 48, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 20/good and epic and adamantine      
+Special Qualities: Abomination traits, cold immunity, [[rangoric-srd/monsters/abilities/Vulnerabilities|fire vulnerability]], [[rangoric-srd/epic/Epic Feats|dire winter]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 30, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 30 (lawful weapons), [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 48, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 20/good and epic and adamantine      
 Defenses: Fort 65, Ref 57, Will 49      
 Abilities: Str 66, Dex 13, Con 40, Int 12, Wis 8, Cha 34      
 Skills: [[rangoric-srd/skills/Arcana|Arcana]] +76, [[rangoric-srd/skills/Athletics|Athletics]] +103 (+147 jumping), [[rangoric-srd/skills/Investigation|Investigation]] +76, [[rangoric-srd/skills/Mysticism|Mysticism]] +76, [[rangoric-srd/skills/Perception|Perception]] +80, [[rangoric-srd/skills/Stealth|Stealth]] +60, [[rangoric-srd/skills/Theology|Theology]] +76     
@@ -93,4 +93,4 @@ The standard [[rangoric-srd/monsters/abilities/Resistance|fire resistance]] 20 m
 
 Dire Winter (Su): A xixecal always stands at the center of a permanent [[rangoric-srd/spells/Dire Winter|dire winter]] (epic spell) spell effect. If [[rangoric-srd/spells/Dispel Magic|dispelled]], the effect returns 1 minute later- the only way to permanently remove the effect is to slay the xixecal that generates it.
 
-Regeneration(Ex): Xixecals take normal damage from Lawful weapons, and double damage from burning or fiery weapons.
+Regeneration (Ex): Lawful weapons cause a xixecal’s regeneration to stop functioning for 1 round. Xixecals take double damage from burning or fiery weapons.
