@@ -2,8 +2,6 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Major Artifact"
-aliases:
-  - "Horns of Naraga"
 aura: "Overwhelming necromancy"
 caster-level: 22
 slot: "head"

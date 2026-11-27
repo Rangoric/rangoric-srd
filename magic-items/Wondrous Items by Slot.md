@@ -307,7 +307,7 @@ Anyone can use an eyes slot wondrous item unless specified otherwise by its desc
 
 | d%     | Greater Medium Eye Item                                                                      | Price     |
 | ------ | -------------------------------------------------------------------------------------------- | --------- |
-| 01–21  | [[rangoric-srd/magic-items/wondrous-items/Deepdark Goggles\|Darklands goggles]]              | 20,000 gp |
+| 01–21  | [[rangoric-srd/magic-items/wondrous-items/Deepdark Goggles\|Deepdark goggles]]               | 20,000 gp |
 | 22–40  | [[rangoric-srd/magic-items/wondrous-items/Sniper Goggles\|Sniper goggles]]                   | 20,000 gp |
 | 41–58  | [[rangoric-srd/magic-items/wondrous-items/Rainbow Lenses\|Rainbow lenses]]                   | 21,000 gp |
 | 59–77  | [[rangoric-srd/magic-items/wondrous-items/Annihilation Spectacles\|Annihilation spectacles]] | 25,000 gp |
@@ -1189,7 +1189,7 @@ Anyone can use slotless wondrous items unless specified otherwise by its descrip
 | d%     | Greater Medium Slotless Item                                                                                                  | Price     |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------- | --------- |
 | 01–03  | [[rangoric-srd/magic-items/wondrous-items/Ioun Stone, Iridescent Spindle\|Ioun stone (iridescent spindle)]]                   | 18,000 gp |
-| 04     | [[rangoric-srd/magic-items/wondrous-items/Orb of the Foul Wasteland\|Orb of foul Abaddon]]                                    | 18,000 gp |
+| 04     | [[rangoric-srd/magic-items/wondrous-items/Orb of the Foul Wasteland\|Orb of the foul wasteland]]                              | 18,000 gp |
 | 05–08  | [[rangoric-srd/magic-items/wondrous-items/Carpet of Flying, 5 ft. by 5 ft.\|Carpet of flying (5 ft. by 5 ft.)]]               | 20,000 gp |
 | 09     | [[rangoric-srd/magic-items/wondrous-items/Horn of Antagonism\|Horn of antagonism]]                                            | 20,000 gp |
 | 10–13  | [[rangoric-srd/magic-items/wondrous-items/Horn of Blasting\|Horn of blasting]]                                                | 20,000 gp |

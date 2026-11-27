@@ -3,8 +3,6 @@ srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
 slot: "eyes"
-aliases:
-  - "Darklands Goggles"
 aura: "Moderate transmutation"
 caster-level: 6
 prerequisites: "Craft Wondrous Item, darkvision, terrain bond"

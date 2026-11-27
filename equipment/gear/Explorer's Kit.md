@@ -2,8 +2,6 @@
 srd-type: "gear"
 section: "Equipment"
 gear-type: "adventuring gear"
-aliases:
-  - "Pathfinder's Kit"
 price: "12 gp"
 weight: "22 lb."
 based-on:
