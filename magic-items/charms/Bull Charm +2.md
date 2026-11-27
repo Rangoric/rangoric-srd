@@ -7,7 +7,6 @@ aliases:
 caster-level: 3
 prerequisites: "Craft Charms and Bracelets, bull’s strength"
 price: "4,000 gp"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/charms/Bull|Bull (Faeries)]]"
 status: draft

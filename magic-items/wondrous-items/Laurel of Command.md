@@ -8,7 +8,6 @@ caster-level: 3
 prerequisites: "Craft Wondrous Item, heroism"
 price: "30,000 gp"
 cost: "15,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Laurel of Command|Laurel of Command (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Laurel of Command|Laurel of Command (PF1 F)]]"

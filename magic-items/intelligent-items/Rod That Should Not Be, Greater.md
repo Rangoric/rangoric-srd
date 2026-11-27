@@ -14,7 +14,6 @@ ego: 6
 alignment: "chaotic neutral"
 senses: "120 ft., darkvision"
 language: "telepathy (Aklo)"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/intelligent-items/Rod that Should Not Be (Greater)|Rod that Should Not Be (Greater) (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Rod That Should Not Be (greater)|Rod That Should Not Be (greater) (PF1 F)]]"

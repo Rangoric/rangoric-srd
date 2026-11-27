@@ -9,7 +9,6 @@ price: "34,200 gp"
 cost: "17,100 gp"
 weight: "5 lbs."
 recharge: true
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/staves/Staff of Toxins|Staff of Toxins (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Staff of Toxins|Staff of Toxins (PF1 F)]]"

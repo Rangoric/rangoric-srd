@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, alter self, water breathing"
 price: "32,000 gp"
 cost: "16,000 gp"
 weight: "2 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Merform Belt|Merform Belt (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Merform Belt|Merform Belt (PF1 F)]]"

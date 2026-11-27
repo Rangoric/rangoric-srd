@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, guidance, rope trick"
 price: "17,200 gp"
 cost: "8,600 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Prestidigitator's Cloak|Prestidigitator's Cloak (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Prestidigitator's Cloak|Prestidigitator's Cloak (PF1 F)]]"

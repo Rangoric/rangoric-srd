@@ -7,7 +7,6 @@ aliases:
 caster-level: 11
 prerequisites: "Craft Magic Arms and Armor, barkskin, plant growth"
 price: "35,000 gp"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/magic-items/Armor, Scurry’s Dampening Mushroom Armor|Armor, Scurry’s Dampening Mushroom Armor (Faeries)]]"
 status: draft

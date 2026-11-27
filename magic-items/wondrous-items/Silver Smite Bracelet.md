@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, align weapon, creator must be a paladin"
 price: "16,000 gp"
 cost: "8,000 gp"
 weight: "1 lb."
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Silver Smite Bracelet|Silver Smite Bracelet (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Silver Smite Bracelet|Silver Smite Bracelet (PF1 F)]]"

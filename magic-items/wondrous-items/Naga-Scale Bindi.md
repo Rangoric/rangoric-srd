@@ -8,7 +8,6 @@ caster-level: 11
 prerequisites: "Craft Wondrous Item, monstrous physique IV"
 price: "6,600 gp"
 cost: "3,300 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Naga-scale Bindi|Naga-Scale Bindi (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Naga-scale Bindi|Naga-Scale Bindi (PF1 F)]]"

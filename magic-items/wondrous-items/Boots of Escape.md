@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, creator must be a gnome or a wizard special
 price: "8,000 gp"
 cost: "4,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/core-race/Boots of escape|Boots of Escape (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Boots of Escape|Boots of Escape (PF1 F)]]"

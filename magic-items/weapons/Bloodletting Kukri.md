@@ -7,7 +7,6 @@ caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, bleed, vampiric touch"
 price: "6,308 gp"
 cost: "3,308 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/specific-magic-weapons/Bloodletting Kukri|Bloodletting Kukri (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Bloodletting Kukri|Bloodletting Kukri (PF1 F)]]"

@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, cure light wounds"
 price: "5,000 gp"
 cost: "2,500 gp"
 weight: "2 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Scabbard of Stanching|Scabbard of Stanching (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Scabbard of Stanching|Scabbard of Stanching (PF1 F)]]"

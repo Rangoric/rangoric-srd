@@ -7,7 +7,6 @@ aliases:
 caster-level: 14
 prerequisites: "Forge Ring, contingency, greater teleport"
 price: "170,000 gp"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/magic-items/Recall|Recall (Spells & Magic)]]"
 status: draft

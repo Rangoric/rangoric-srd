@@ -7,7 +7,6 @@ caster-level: 8
 prerequisites: "Forge Ring, Heighten Spell, consecrate"
 price: "10,000 gp"
 cost: "5,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/rings/Ring of Curing|Ring of Curing (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Ring of Curing|Ring of Curing (PF1 F)]]"

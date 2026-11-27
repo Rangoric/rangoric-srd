@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, anticipate peril"
 price: "7,500 gp"
 cost: "3,750 gp"
 weight: "1 lb."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/wondrous/Talisman of Danger Sense, Greater|Talisman of Danger Sense, Greater (PF1 F)]]"
 status: draft

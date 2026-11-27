@@ -8,7 +8,6 @@ caster-level: 3
 prerequisites: "Craft Wondrous Item, see invisibility"
 price: "12,000 gp"
 cost: "6,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Lenses of Figment Piercing|Lenses of Figment Piercing (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Lenses of Figment Piercing|Lenses of Figment Piercing (PF1 F)]]"

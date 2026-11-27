@@ -8,7 +8,6 @@ prerequisites: "Craft Magic Arms and Armor, bull's strength"
 price: "4,310 gp"
 cost: "2,310 gp"
 weight: "10 lbs."
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/weapons/Lance of Jousting|Lance of Jousting (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Lance of Jousting|Lance of Jousting (PF1 F)]]"

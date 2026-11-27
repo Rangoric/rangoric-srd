@@ -7,7 +7,6 @@ aliases:
 caster-level: 6
 prerequisites: "Craft Magic Arms and Armor, fly"
 price: "16,160 gp"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/magic-items/Armor, Leather Armor of the Sprite|Armor, Leather Armor of the Sprite (Faeries)]]"
 status: draft

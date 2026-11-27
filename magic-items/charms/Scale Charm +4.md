@@ -5,7 +5,6 @@ item-type: "Charm"
 caster-level: 6
 prerequisites: "Craft Charms and Bracelets, shield of faith"
 price: "32,000 gp"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/charms/Scale|Scale (Faeries)]]"
 status: draft

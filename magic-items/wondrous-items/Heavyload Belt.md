@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, ant haul"
 price: "2,000 gp"
 cost: "1,000 gp"
 weight: "3 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Heavyload Belt|Heavyload Belt (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Heavyload Belt|Heavyload Belt (PF1 F)]]"

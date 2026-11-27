@@ -7,7 +7,6 @@ caster-level: 8
 prerequisites: "Forge Ring, stone fist, stoneskin"
 price: "12,000 gp"
 cost: "6,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/rings/Steelhand Circle|Steelhand Circle (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Steelhand Circle|Steelhand Circle (PF1 F)]]"

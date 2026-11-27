@@ -8,7 +8,6 @@ caster-level: 2
 prerequisites: "Craft Wondrous Item, minor image"
 price: "600 gp"
 cost: "300 gp"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Storyteller's Dust|Storyteller's Dust (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Storyteller's Dust|Storyteller's Dust (PF1 F)]]"

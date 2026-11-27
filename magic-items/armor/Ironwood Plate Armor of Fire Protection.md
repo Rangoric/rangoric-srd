@@ -7,7 +7,6 @@ aliases:
 caster-level: 13
 prerequisites: "Craft Magic Arms and Armor, barkskin, ironwood, plant growth"
 price: "78,000 gp"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/magic-items/Armor, Ironwood Plate Armor of Fire Protection|Armor, Ironwood Plate Armor of Fire Protection (Faeries)]]"
 status: draft

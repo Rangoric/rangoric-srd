@@ -7,7 +7,6 @@ caster-level: 3
 prerequisites: "Forge Ring, enthrall"
 price: "2,000 gp"
 cost: "1,000 gp"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/items/misc/Bloodletting Thimble|Bloodletting Thimble (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Bloodletting Thimble|Bloodletting Thimble (PF1 F)]]"

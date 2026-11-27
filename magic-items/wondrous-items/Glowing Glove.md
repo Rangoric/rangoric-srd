@@ -8,7 +8,6 @@ caster-level: 1
 prerequisites: "Craft Wondrous Item, arcane mark"
 price: "2,000 gp"
 cost: "1,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Glowing Glove|Glowing Glove (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Glowing Glove|Glowing Glove (PF1 F)]]"

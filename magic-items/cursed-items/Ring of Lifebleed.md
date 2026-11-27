@@ -5,7 +5,6 @@ item-type: "Cursed Item"
 aura: "Moderate necromancy"
 caster-level: 10
 intended-item: "ring of regeneration"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/cursed-items/Ring of Lifebleed|Ring of Lifebleed (PF1)]]"
   - "[[path srd 3.5 foundry/items/cursed/Ring of Life Bleed|Ring of Life Bleed (PF1 F)]]"

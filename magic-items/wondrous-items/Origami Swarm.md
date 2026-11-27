@@ -8,7 +8,6 @@ caster-level: 3
 prerequisites: "Craft Wondrous Item, animate objects"
 price: "300 gp"
 cost: "150 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Origami Swarm|Origami Swarm (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Origami Swarm|Origami Swarm (PF1 F)]]"

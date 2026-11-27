@@ -6,7 +6,6 @@ aura: "Faint evocation"
 caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, faerie fire"
 price: "+1 bonus"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/weapon-special-abilities/Limning|Limning (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Limning|Limning (PF1 F)]]"

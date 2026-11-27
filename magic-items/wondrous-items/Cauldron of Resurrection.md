@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, resurrection"
 price: "33,000 gp"
 cost: "16,500 gp"
 weight: "35 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Cauldron of Resurrection|Cauldron of Resurrection (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Cauldron of Resurrection|Cauldron of Resurrection (PF1 F)]]"

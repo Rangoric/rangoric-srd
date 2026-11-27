@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, summon monster V, summon monster VI"
 price: "90,000 gp"
 cost: "45,000 gp"
 weight: "3 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Bowl of Conjuring Water Elementals|Bowl of Conjuring Water Elementals (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Bowl of Conjuring Water Elementals|Bowl of Conjuring Water Elementals (PF1 F)]]"

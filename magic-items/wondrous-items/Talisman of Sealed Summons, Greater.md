@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, protection from evil"
 price: "4,500 gp"
 cost: "2,250 gp"
 weight: "1 lb."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/wondrous/Talisman of Sealed Summons, Greater|Talisman of Sealed Summons, Greater (PF1 F)]]"
 status: draft

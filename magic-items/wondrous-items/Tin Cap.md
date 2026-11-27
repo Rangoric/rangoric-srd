@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, mind blank"
 price: "15,000 gp"
 cost: "7,500 gp"
 weight: "2 lb."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/wondrous/Tin Cap|Tin Cap (PF1 F)]]"
 status: draft

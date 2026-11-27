@@ -7,7 +7,6 @@ caster-level: 3
 prerequisites: "Craft Magic Arms and Armor, obscuring mist"
 price: "2,250 gp"
 cost: "1,250 gp"
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/armor/Mistmail|Mistmail (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Mistmail|Mistmail (PF1 F)]]"

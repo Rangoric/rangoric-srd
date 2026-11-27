@@ -8,7 +8,6 @@ caster-level: 7
 prerequisites: "Craft Wondrous Item, gentle repose, stoneskin"
 price: "10,000 gp"
 cost: "5,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Embalming Thread|Embalming Thread (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Embalming Thread|Embalming Thread (PF1 F)]]"

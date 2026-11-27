@@ -7,7 +7,6 @@ caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, cup of dust, summon monster I"
 price: "1,730 gp"
 cost: "880 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/specific-magic-weapons/Dust Bolt|Dust Bolt (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Dust Bolt|Dust Bolt (PF1 F)]]"

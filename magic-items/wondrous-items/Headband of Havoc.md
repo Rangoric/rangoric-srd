@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, rage"
 price: "8,000 gp"
 cost: "4,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Headband of Havoc|Headband of Havoc (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Headband of Havoc|Headband of Havoc (PF1 F)]]"

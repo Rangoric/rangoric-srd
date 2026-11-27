@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, lesser restoration, remove fear"
 price: "12,000 gp"
 cost: "6,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Belt of Equilibrium|Belt of Equilibrium (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Belt of Equilibrium|Belt of Equilibrium (PF1 F)]]"

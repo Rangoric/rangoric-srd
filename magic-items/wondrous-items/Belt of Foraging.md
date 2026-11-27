@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, detect animals or plants, creator must have
 price: "6,000 gp"
 cost: "3,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/core-race/Belt of Foraging|Belt of Foraging (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Belt of Foraging|Belt of Foraging (PF1 F)]]"

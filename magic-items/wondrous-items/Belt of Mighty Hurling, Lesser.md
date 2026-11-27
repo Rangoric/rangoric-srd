@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, bull's strength, longshot"
 price: "14,000 gp"
 cost: "7,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Belt of Mighty Hurling, lesser|Belt of Mighty Hurling, Lesser (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Belt of Mighty Hurling, Lesser|Belt of Mighty Hurling, Lesser (PF1 F)]]"

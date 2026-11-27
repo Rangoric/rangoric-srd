@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, bless water, consecrate, daylight, searing 
 price: "22,000 gp"
 cost: "11,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Orb of Golden Heaven|Orb of Golden Heaven (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Orb of Golden Heaven|Orb of Golden Heaven (PF1 F)]]"

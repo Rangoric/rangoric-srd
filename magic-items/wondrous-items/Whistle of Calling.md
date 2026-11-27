@@ -8,7 +8,6 @@ caster-level: 7
 prerequisites: "Craft Wondrous Item, teleport"
 price: "6,300 gp"
 cost: "3,150 gp"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Whistle of Calling|Whistle of Calling (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Whistle of Calling|Whistle of Calling (PF1 F)]]"

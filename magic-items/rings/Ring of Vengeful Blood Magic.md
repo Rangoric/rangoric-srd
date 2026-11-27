@@ -7,7 +7,6 @@ caster-level: 11
 prerequisites: "Combat Reflexes, Forge Ring, Quicken Spell"
 price: "5,400 gp"
 cost: "17,500 gp"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/rings/Ring of Vengeful Blood Magic|Ring of Vengeful Blood Magic (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Ring of Vengeful Blood Magic|Ring of Vengeful Blood Magic (PF1 F)]]"

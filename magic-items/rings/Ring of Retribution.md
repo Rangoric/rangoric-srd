@@ -7,7 +7,6 @@ caster-level: 13
 prerequisites: "Forge Ring, Quicken Spell, fireball"
 price: "15,000 gp"
 cost: "7,500 gp"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/items/rings/Ring of Retribution|Ring of Retribution (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Ring of Retribution|Ring of Retribution (PF1 F)]]"

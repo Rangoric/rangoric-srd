@@ -5,7 +5,6 @@ item-type: "Cursed Item"
 aura: "Strong universal"
 caster-level: 20
 intended-item: "none (a unique cursed item)"
-book: "Occult Adventures"
 based-on: []
 status: draft
 change: new

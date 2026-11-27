@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, cat's grace, creator must be a panache user
 price: "2,000 gp"
 cost: "1,000 gp"
 weight: "1 lb."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Boots of Gusto|Boots of Gusto (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Boots of Gusto|Boots of Gusto (PF1 F)]]"

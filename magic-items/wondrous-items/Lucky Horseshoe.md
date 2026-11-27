@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, divine favor"
 price: "6,800 gp"
 cost: "3,400 gp"
 weight: "2 lb."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/wondrous/Lucky Horseshoe|Lucky Horseshoe (PF1 F)]]"
 status: draft

@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, Craft Magic Arms and Armor, bleed"
 price: "14,350 gp"
 cost: "7,175 gp"
 weight: "8 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Demonspike Pauldrons|Demonspike Pauldrons (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Demonspike Pauldrons|Demonspike Pauldrons (PF1 F)]]"

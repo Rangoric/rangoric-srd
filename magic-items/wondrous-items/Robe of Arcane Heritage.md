@@ -11,7 +11,6 @@ prerequisites: "Craft Wondrous Item, speak with dead, creator must be a sorcerer
 price: "16,000 gp"
 cost: "8,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Robe of Arcane Heritage|Robe of Arcane Heritage (PF1)]]"
   - "[[path srd 3.5/items/wondrous-items/Robes of Arcane Heritage|Robes of Arcane Heritage (PF1)]]"

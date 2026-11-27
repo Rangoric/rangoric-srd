@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, mount, creator must have 5 ranks in Animal 
 price: "12,000 gp"
 cost: "6,000 gp"
 weight: "5 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Horsemaster's Saddle|Horsemaster's Saddle (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Horsemaster's Saddle|Horsemaster's Saddle (PF1 F)]]"

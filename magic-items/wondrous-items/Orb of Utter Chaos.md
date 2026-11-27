@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, aid, dispel magic, entropic shield"
 price: "36,000 gp"
 cost: "18,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Orb of Utter Chaos|Orb of Utter Chaos (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Orb of Utter Chaos|Orb of Utter Chaos (PF1 F)]]"

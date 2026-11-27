@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, disguise self"
 price: "900 gp"
 cost: "450 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/core-race/Cloak of Human Guise|Cloak of Human Guise (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Cloak of Human Guise|Cloak of Human Guise (PF1 F)]]"

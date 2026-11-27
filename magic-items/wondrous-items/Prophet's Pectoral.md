@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, divination, guidance"
 price: "6,000 gp"
 cost: "3,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Prophet's Pectoral|Prophet's Pectoral (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Prophet's Pectoral|Prophet's Pectoral (PF1 F)]]"

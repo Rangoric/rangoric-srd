@@ -5,7 +5,6 @@ item-type: "Minor Artifact"
 aura: "Strong divination and necromancy"
 caster-level: 13
 weight: "26 tons"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/artifacts/Runescarred Dragonship|Runescarred Dragonship (PF1)]]"
   - "[[path srd 3.5 foundry/items/artifacts/Runescarred Dragonship|Runescarred Dragonship (PF1 F)]]"

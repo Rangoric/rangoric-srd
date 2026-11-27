@@ -9,7 +9,6 @@ price: "48,800 gp"
 cost: "24,400 gp"
 weight: "5 lbs."
 recharge: true
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/staves/Staff of Performance|Staff of Performance (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Staff of Performance|Staff of Performance (PF1 F)]]"

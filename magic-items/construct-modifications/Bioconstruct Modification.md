@@ -5,7 +5,6 @@ item-type: "Construct Modification"
 cr-increase: "+1"
 prerequisites: "Craft Construct, regenerate"
 cost: "22,750 gp"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/items/building-and-modifying-constructs/Bioconstruct Modification|Bioconstruct Modification (PF1)]]"
 status: draft

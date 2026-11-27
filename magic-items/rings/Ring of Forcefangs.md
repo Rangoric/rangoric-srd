@@ -7,7 +7,6 @@ caster-level: 9
 prerequisites: "Forge Ring, Heighten Spell, magic missile"
 price: "8,000 gp"
 cost: "4,000 gp"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/items/rings/Ring of Forcefangs|Ring of Forcefangs (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Ring of Forcefangs|Ring of Forcefangs (PF1 F)]]"

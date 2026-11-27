@@ -8,7 +8,6 @@ caster-level: 9
 prerequisites: "Craft Wondrous Item, true seeing"
 price: "5,000 gp"
 cost: "2,500 gp"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Amulet of Uncanny Defense|Amulet of Uncanny Defense (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Amulet of Uncanny Defense|Amulet of Uncanny Defense (PF1 F)]]"

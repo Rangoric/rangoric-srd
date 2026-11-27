@@ -8,7 +8,6 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, creator must have 5 ranks in Medicine"
 price: "2,500 gp"
 cost: "1,250 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Healer's Gloves|Healer's Gloves (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Healer's Gloves|Healer's Gloves (PF1 F)]]"

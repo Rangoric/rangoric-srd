@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, status"
 price: "7,000 gp"
 cost: "3,500 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Phylactery of the Shepherd|Phylactery of the Shepherd (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Phylactery of the Shepherd|Phylactery of the Shepherd (PF1 F)]]"

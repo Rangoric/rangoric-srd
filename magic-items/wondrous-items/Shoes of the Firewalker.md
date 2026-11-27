@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, resist energy, water walk"
 price: "21,000 gp"
 cost: "10,500 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Shoes of the Firewalker|Shoes of the Firewalker (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Shoes of the Firewalker|Shoes of the Firewalker (PF1 F)]]"

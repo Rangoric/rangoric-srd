@@ -8,7 +8,6 @@ caster-level: 10
 prerequisites: "Craft Wondrous Item, wind wall"
 price: "7,500 gp"
 cost: "3,750 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Candle of Clean Air|Candle of Clean Air (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Candle of Clean Air|Candle of Clean Air (PF1 F)]]"

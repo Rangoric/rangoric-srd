@@ -8,7 +8,6 @@ aura: "Moderate conjuration"
 caster-level: 8
 prerequisites: "Craft Magic Arms and Armor, summon monster I"
 price: "+1 bonus"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/rules/ultimate-equipment/magic-arms-and-armor/Armor Special Abilities#Defiant|Defiant (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Defiant (Armor)|Defiant (PF1 F)]]"

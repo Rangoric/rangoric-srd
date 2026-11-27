@@ -12,7 +12,6 @@ ego: 17
 alignment: "chaotic evil"
 senses: "30 ft., blindsense"
 language: "speech (Abyssal)"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/intelligent-items/Chomper|Chomper (PF1)]]"
   - "[[path srd 3.5 foundry/items/cursed/Chomper|Chomper (PF1 F)]]"

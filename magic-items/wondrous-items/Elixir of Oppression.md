@@ -8,7 +8,6 @@ caster-level: 3
 prerequisites: "Craft Wondrous Item, scare"
 price: "600 gp"
 cost: "300 gp"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/items/misc/Elixir of Oppression|Elixir of Oppression (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Elixir of Oppression|Elixir of Oppression (PF1 F)]]"

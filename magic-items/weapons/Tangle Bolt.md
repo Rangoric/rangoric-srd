@@ -7,7 +7,6 @@ caster-level: 12
 prerequisites: "Craft Magic Arms and Armor, true seeing and web or creator must have 5 ranks in Craft (alchemy)"
 price: "226 gp"
 cost: "113 gp"
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/weapons/Tangle Bolt|Tangle Bolt (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Tangle Bolt|Tangle Bolt (PF1 F)]]"

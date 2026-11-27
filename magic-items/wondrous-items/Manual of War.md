@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, modify memory, creator must be a fighter"
 price: "7,500 gp"
 cost: "3,750 gp"
 weight: "2 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Manual of War|Manual of War (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Manual of War|Manual of War (PF1 F)]]"

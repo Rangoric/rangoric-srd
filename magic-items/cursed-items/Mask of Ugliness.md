@@ -6,7 +6,6 @@ aura: "Moderate transmutation"
 caster-level: 8
 intended-item: "any magical mask or a headband of alluring charisma"
 slot: "head"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/cursed-items/Mask of Ugliness|Mask of Ugliness (PF1)]]"
   - "[[path srd 3.5 foundry/items/cursed/Mask of Ugliness|Mask of Ugliness (PF1 F)]]"

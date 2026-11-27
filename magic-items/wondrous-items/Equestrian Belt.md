@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, cat's grace"
 price: "3,200 gp"
 cost: "1,600 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Equestrian Belt|Equestrian Belt (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Equestrian Belt|Equestrian Belt (PF1 F)]]"

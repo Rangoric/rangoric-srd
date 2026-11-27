@@ -7,7 +7,6 @@ caster-level: 7
 prerequisites: "Craft Magic Arms and Armor, creator must be a dwarf of at least 7th level"
 price: "25,312 gp"
 cost: "12,812 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/specific-magic-weapons/Dwarfbond hammer|Dwarfbond Hammer (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Dwarfbond Hammer|Dwarfbond Hammer (PF1 F)]]"

@@ -7,7 +7,6 @@ caster-level: 18
 prerequisites: "Forge Ring, greater possession, magic aura, object possession, wish"
 price: "160,000 gp"
 cost: "80,000 gp"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/wondrous/Ring of the Hidden Psyche|Ring of the Hidden Psyche (PF1 F)]]"
 status: draft

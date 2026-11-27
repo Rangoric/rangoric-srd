@@ -7,7 +7,6 @@ caster-level: 9
 prerequisites: "Craft Magic Arms and Armor, bleed, invisibility, silence"
 price: "12,405 gp"
 cost: "6,280 gp"
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/armor/Murderer's Blackcloth|Murderer’s Blackcloth (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Murderer's Blackcloth|Murderer’s Blackcloth (PF1 F)]]"

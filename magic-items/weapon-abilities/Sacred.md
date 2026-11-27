@@ -6,7 +6,6 @@ aura: "Strong transmutation"
 caster-level: 16
 prerequisites: "Craft Magic Arms and Armor, imbue with spell ability"
 price: "+1 bonus"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/weapon-special-abilities/Sacred|Sacred (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Sacred|Sacred (PF1 F)]]"

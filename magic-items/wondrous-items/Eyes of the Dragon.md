@@ -8,7 +8,6 @@ caster-level: 15
 prerequisites: "Craft Wondrous Item, form of the dragon III"
 price: "110,000 gp"
 cost: "55,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Eyes of the Dragon|Eyes of the Dragon (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Eyes of the Dragon|Eyes of the Dragon (PF1 F)]]"

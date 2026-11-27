@@ -7,7 +7,6 @@ caster-level: 5
 prerequisites: "Forge Ring, arcane mark, enter image, enthrall, prayer, creator must have 5 ranks of Persuasion and Theology and the ability to cast divine spells"
 price: "28,500 gp"
 cost: "14,250 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/rings/Ring of the Ecclesiarch|Ring of the Ecclesiarch (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Ring of the Ecclesiarch|Ring of the Ecclesiarch (PF1 F)]]"

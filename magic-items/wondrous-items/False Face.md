@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, disguise self, magic aura"
 price: "1,600 gp"
 cost: "800 gp"
 weight: "1/2 lb."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/False Face|False Face (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/False Face|False Face (PF1 F)]]"

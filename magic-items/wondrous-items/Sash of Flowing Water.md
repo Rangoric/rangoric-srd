@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, Combat Expertise, Improved Unarmed Strike"
 price: "25,000 gp"
 cost: "12,500 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Sash of Flowing Water|Sash of Flowing Water (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Sash of Flowing Water|Sash of Flowing Water (PF1 F)]]"

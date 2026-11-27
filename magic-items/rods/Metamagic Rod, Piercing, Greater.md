@@ -7,7 +7,6 @@ caster-level: 17
 prerequisites: "Craft Rod, Piercing Spell"
 price: "24,500 gp"
 cost: "12,250 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/rods/Piercing Metamagic Rod|Piercing Metamagic Rod (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Piercing Metamagic Rod, Greater|Metamagic Rod, Piercing, Greater (PF1 F)]]"

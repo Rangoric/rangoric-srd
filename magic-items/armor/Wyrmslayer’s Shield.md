@@ -7,7 +7,6 @@ caster-level: 9
 prerequisites: "Craft Magic Arms and Armor, remove fear, shield of faith"
 price: "20,170 gp"
 cost: "10,170 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/specific-magic-armor-and-shields/Wyrmslayer's Shield|Wyrmslayer’s Shield (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Wyrmslayer's Shield|Wyrmslayer’s Shield (PF1 F)]]"

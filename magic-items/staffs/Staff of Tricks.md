@@ -9,7 +9,6 @@ price: "8,800 gp"
 cost: "4,400 gp"
 weight: "3 lbs."
 recharge: true
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/staves/Staff of Tricks|Staff of Tricks (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Staff of Tricks|Staff of Tricks (PF1 F)]]"

@@ -7,7 +7,6 @@ caster-level: 15
 prerequisites: "Craft Magic Arms and Armor, reloading hands"
 price: "73,300 gp"
 cost: "37,300 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/specific-magic-weapons/Pistol of the Infinite Sky|Pistol of the Infinite Sky (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Pistol of the Infinite Sky|Pistol of the Infinite Sky (PF1 F)]]"

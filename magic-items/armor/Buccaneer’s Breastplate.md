@@ -7,7 +7,6 @@ caster-level: 9
 prerequisites: "Craft Magic Arms and Armor, water walk"
 price: "23,850 gp"
 cost: "12,100 gp"
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/armor/Buccaneer's Breastplate|Buccaneer’s Breastplate (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Buccaneer's Breastplate|Buccaneer’s Breastplate (PF1 F)]]"

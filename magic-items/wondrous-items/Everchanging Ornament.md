@@ -7,7 +7,6 @@ caster-level: 7
 prerequisites: "Craft Wondrous Item, detect scrying, major image"
 price: "2,000 gp"
 weight: "Up to 1 lb"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/magic-items/Everchanging Ornament|Everchanging Ornament (Spells & Magic)]]"
 status: draft

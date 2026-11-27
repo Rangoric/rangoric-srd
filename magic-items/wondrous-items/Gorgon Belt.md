@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, bull's strength, feather step, poison"
 price: "23,000 gp"
 cost: "11,500 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Gorgon Belt|Gorgon Belt (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Gorgon Belt|Gorgon Belt (PF1 F)]]"

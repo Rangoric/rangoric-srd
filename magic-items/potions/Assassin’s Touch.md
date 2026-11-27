@@ -5,7 +5,6 @@ item-type: "Potion"
 caster-level: 7
 prerequisites: "Brew Potion, poison"
 price: "2,100 gp"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/magic-items/Assassin’s Touch|Assassin’s Touch (Spells & Magic)]]"
 status: draft

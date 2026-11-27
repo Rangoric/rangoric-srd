@@ -6,7 +6,6 @@ aura: "Faint evocation"
 caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, doom or scare"
 price: "+1 bonus"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/weapon-special-abilities/Ominous|Ominous (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Ominous|Ominous (PF1 F)]]"

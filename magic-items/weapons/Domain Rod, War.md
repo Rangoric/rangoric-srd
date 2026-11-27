@@ -9,7 +9,6 @@ caster-level: 9
 prerequisites: "Craft Magic Arms and Armor, true strike"
 price: "90,920 gp"
 cost: "45,460 gp + 3,637 XP"
-book: "Arms & Armor v3.5"
 based-on:
   - "[[individual books/Arms & Armor v3.5/specific-weapons/Domain Rods|Domain Rods (Arms & Armor)]]"
 status: draft

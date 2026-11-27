@@ -7,7 +7,6 @@ caster-level: 11
 prerequisites: "Endurance, Extend Spell, Forge Ring, creator must have the bloodrage class feature"
 price: "2,000 gp"
 cost: "1,000 gp"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/rings/Ring of Lingering Blood Magic|Ring of Lingering Blood Magic (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Ring of Lingering Blood Magic|Ring of Lingering Blood Magic (PF1 F)]]"

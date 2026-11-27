@@ -8,7 +8,6 @@ caster-level: 9
 prerequisites: "Craft Wondrous Item, overland flight"
 price: "2,250 gp"
 cost: "1,125 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Flying Ointment|Flying Ointment (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Flying Ointment|Flying Ointment (PF1 F)]]"

@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, alter self, resistance"
 price: "2,800 gp"
 cost: "1,400 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/featured-race/Cloak of Fangs|Cloak of Fangs (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Cloak of Fangs|Cloak of Fangs (PF1 F)]]"

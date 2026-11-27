@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, beast shape I"
 price: "7,500 gp"
 cost: "3,750 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Hunter's Cloak|Hunter's Cloak (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Hunter's Cloak|Hunter's Cloak (PF1 F)]]"

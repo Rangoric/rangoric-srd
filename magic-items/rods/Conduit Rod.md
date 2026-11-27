@@ -7,7 +7,6 @@ caster-level: 12
 prerequisites: "Craft Rod, dimension door, lightning bolt, resist energy"
 price: "12,000 gp"
 cost: "6,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/rods/Conduit Rod|Conduit Rod (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Conduit Rod|Conduit Rod (PF1 F)]]"

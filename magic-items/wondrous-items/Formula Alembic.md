@@ -9,7 +9,6 @@ prerequisites: "Brew Potion, Craft Wondrous Item, identify, creator must be an a
 price: "200 gp"
 cost: "100 gp"
 weight: "2 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Formula Alembic|Formula Alembic (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Formula Alembic|Formula Alembic (PF1 F)]]"

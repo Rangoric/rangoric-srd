@@ -8,7 +8,6 @@ caster-level: 9
 prerequisites: "Craft Wondrous Item, animate rope"
 price: "6,000 gp"
 cost: "3,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Rope of Knots|Rope of Knots (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Rope of Knots|Rope of Knots (PF1 F)]]"

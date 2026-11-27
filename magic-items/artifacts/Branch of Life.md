@@ -5,7 +5,6 @@ item-type: "Minor Artifact"
 aura: "Strong conjuration"
 caster-level: 15
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/artifacts/Branch of Life|Branch of Life (PF1)]]"
   - "[[path srd 3.5 foundry/items/artifacts/Branch of Life|Branch of Life (PF1 F)]]"

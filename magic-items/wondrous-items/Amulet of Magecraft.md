@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, permanency, creator must be a universalist"
 price: "20,000 gp"
 cost: "10,000 gp"
 weight: "2 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Amulet of Magecraft|Amulet of Magecraft (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Amulet of Magecraft|Amulet of Magecraft (PF1 F)]]"

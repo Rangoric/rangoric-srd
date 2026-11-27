@@ -8,7 +8,6 @@ caster-level: 9
 prerequisites: "Craft Wondrous Item, calm emotions, owl's wisdom"
 price: "16,000 gp"
 cost: "8,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Necklace of Ki Serenity|Necklace of Ki Serenity (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Necklace of Ki Serenity|Necklace of Ki Serenity (PF1 F)]]"

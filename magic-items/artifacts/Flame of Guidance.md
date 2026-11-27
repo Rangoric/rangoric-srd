@@ -5,7 +5,6 @@ item-type: "Major Artifact"
 aura: "Strong transmutation"
 caster-level: 20
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/artifacts/Flame of guidance|Flame of guidance (PF1)]]"
   - "[[path srd 3.5 foundry/items/artifacts/Flame of Guidance|Flame of Guidance (PF1 F)]]"

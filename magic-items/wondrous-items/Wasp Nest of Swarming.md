@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, insect plague"
 price: "1,000 gp"
 cost: "500 gp"
 weight: "4 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Wasp Nest of Swarming|Wasp Nest of Swarming (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Wasp Nest of Swarming|Wasp Nest of Swarming (PF1 F)]]"

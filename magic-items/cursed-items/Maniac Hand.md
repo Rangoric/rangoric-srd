@@ -5,7 +5,6 @@ item-type: "Cursed Item"
 aura: "Strong necromancy"
 caster-level: 13
 intended-item: "hand of glory, hand of the mage, hand of stone"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/cursed/Maniac Hand|Maniac Hand (PF1 F)]]"
 status: draft

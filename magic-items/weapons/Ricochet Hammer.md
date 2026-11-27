@@ -8,7 +8,6 @@ prerequisites: "Craft Magic Arms and Armor, telekinesis"
 price: "20,301 gp"
 cost: "10,301 gp"
 weight: "2 lbs."
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/weapons/Ricochet Hammer|Ricochet Hammer (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Ricochet Hammer|Ricochet Hammer (PF1 F)]]"

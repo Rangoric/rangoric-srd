@@ -7,7 +7,6 @@ caster-level: 17
 prerequisites: "Craft Rod, Elemental Spell"
 price: "24,500 gp"
 cost: "12,250 gp"
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/rods/Elemental Metamagic Rod|Elemental Metamagic Rod (PF1)]]"
   - "[[path srd 3.5/items/rods/Metamagic, Elemental|Metamagic, Elemental (PF1)]]"

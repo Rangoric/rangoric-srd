@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, remove disease"
 price: "7,500 gp"
 cost: "3,750 gp"
 weight: "2 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Plague Mask|Plague Mask (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Plague Mask|Plague Mask (PF1 F)]]"

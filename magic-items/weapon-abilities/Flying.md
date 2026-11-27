@@ -6,7 +6,6 @@ aura: "Strong transmutation"
 caster-level: 16
 prerequisites: "Craft Magic Arms and Armor, animate objects"
 price: "+5 bonus"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/weapon-special-abilities/Flying|Flying (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Flying|Flying (PF1 F)]]"

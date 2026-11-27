@@ -8,7 +8,6 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, nondetection, secret page"
 price: "1,500 gp"
 cost: "750 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Bookmark of Deception|Bookmark of Deception (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Bookmark of Deception|Bookmark of Deception (PF1 F)]]"

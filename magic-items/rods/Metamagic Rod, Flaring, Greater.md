@@ -7,7 +7,6 @@ caster-level: 17
 prerequisites: "Craft Rod, Flaring Spell"
 price: "24,500 gp"
 cost: "12,250 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/rods/Flaring Metamagic Rod|Flaring Metamagic Rod (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Flaring Metamagic Rod, Greater|Metamagic Rod, Flaring, Greater (PF1 F)]]"

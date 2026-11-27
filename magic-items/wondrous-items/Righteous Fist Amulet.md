@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, Improved Unarmed Strike, stone fist"
 price: "4,000 gp"
 cost: "2,000 gp"
 weight: "1/2 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Righteous Fist Amulet|Righteous Fist Amulet (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Righteous Fist Amulet|Righteous Fist Amulet (PF1 F)]]"

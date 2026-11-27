@@ -8,7 +8,6 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, cat's grace"
 price: "250 gp"
 cost: "125 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Elixir of Tumbling|Elixir of Tumbling (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Elixir of Tumbling|Elixir of Tumbling (PF1 F)]]"

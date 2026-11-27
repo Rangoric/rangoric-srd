@@ -7,7 +7,6 @@ caster-level: 5
 prerequisites: "Craft Rod, hypnosis"
 price: "18,000 gp"
 cost: "9,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/rods/Rod of Beguiling|Rod of Beguiling (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Rod of Beguiling|Rod of Beguiling (PF1 F)]]"

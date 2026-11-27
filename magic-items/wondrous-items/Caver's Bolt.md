@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, force hook charge"
 price: "6,000 gp"
 cost: "3,000 gp"
 weight: "1/2 lb."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/items/misc/Caver's Bolt|Caver's Bolt (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Caver's Bolt|Caver's Bolt (PF1 F)]]"

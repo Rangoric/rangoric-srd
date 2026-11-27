@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, instant enemy, creator must have the favore
 price: "40,000 gp"
 cost: "20,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Enmity Fetish|Enmity Fetish (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Enmity Fetish|Enmity Fetish (PF1 F)]]"

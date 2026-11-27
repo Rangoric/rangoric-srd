@@ -6,7 +6,6 @@ aura: "Moderate enchantment"
 caster-level: 12
 prerequisites: "Craft Magic Arms and Armor, greater heroism, creator must be a grit user"
 price: "+3 bonus"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/items/firearms/Lucky, Greater|Lucky, Greater (PF1)]]"
 status: draft

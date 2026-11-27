@@ -7,7 +7,6 @@ caster-level: 11
 prerequisites: "Forge Ring, creator must be an oracle with the desired revelation"
 price: "24,000 gp"
 cost: "12,000 gp"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/items/rings/Ring of Revelation|Ring of Revelation (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Ring of Revelation, Superior|Ring of Revelation, Superior (PF1 F)]]"

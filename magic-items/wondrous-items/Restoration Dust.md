@@ -8,7 +8,6 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, make whole"
 price: "2,000 gp"
 cost: "1,000 gp"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Restoration Dust|Restoration Dust (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Restoration Dust|Restoration Dust (PF1 F)]]"

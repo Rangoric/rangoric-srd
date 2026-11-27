@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, control vermin"
 price: "1,000 gp"
 cost: "500 gp"
 weight: "1 lb."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/items/misc/Headband of Vermin Control|Headband of Vermin Control (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Headband of Vermin Control|Headband of Vermin Control (PF1 F)]]"

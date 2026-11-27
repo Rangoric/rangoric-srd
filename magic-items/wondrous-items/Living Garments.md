@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, eagle's splendor, mending, prestidigitation
 price: "5,000 gp"
 cost: "2,500 gp"
 weight: "2 lbs."
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/featured-race/Living Garments|Living Garments (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Living Garments|Living Garments (PF1 F)]]"

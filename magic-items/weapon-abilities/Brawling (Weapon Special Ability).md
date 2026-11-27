@@ -8,7 +8,6 @@ aura: "Moderate enchantment"
 caster-level: 7
 prerequisites: "Craft Magic Arms and Armor, bull's strength"
 price: "+1 bonus"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/weapon-special-abilities/Brawling|Brawling (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Brawling|Brawling (PF1 F)]]"

@@ -8,7 +8,6 @@ prerequisites: "Craft Magic Arms and Armor, heroic fortune"
 price: "17,315 gp"
 cost: "8,815 gp"
 weight: "4 lbs."
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/items/hero-point-items/Hero's Blade|Hero’s Blade (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Hero's Blade|Hero’s Blade (PF1 F)]]"

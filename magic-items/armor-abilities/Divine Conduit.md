@@ -6,7 +6,6 @@ aura: "Moderate abjuration"
 caster-level: 9
 prerequisites: "Craft Magic Arms and Armor, blasphemy or holy word"
 price: "+2 bonus"
-book: "Arms & Armor v3.5"
 based-on:
   - "[[individual books/Arms & Armor v3.5/armor-qualities/Divine Conduit|Divine Conduit (Arms & Armor)]]"
 status: draft

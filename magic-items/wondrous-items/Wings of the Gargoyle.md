@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, fly, stoneskin"
 price: "72,000 gp"
 cost: "36,000 gp"
 weight: "3 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Wings of the Gargoyle|Wings of the Gargoyle (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Wings of the Gargoyle|Wings of the Gargoyle (PF1 F)]]"

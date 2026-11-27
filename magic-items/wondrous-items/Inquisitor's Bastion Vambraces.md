@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, shield of faith, creator must be an inquisi
 price: "4,000 gp"
 cost: "2,000 gp"
 weight: "3 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Inquisitor's Bastion Vambraces|Inquisitor's Bastion Vambraces (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Inquisitor's Bastion Vambraces|Inquisitor's Bastion Vambraces (PF1 F)]]"

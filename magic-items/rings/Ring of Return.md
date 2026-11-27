@@ -7,7 +7,6 @@ caster-level: 7
 prerequisites: "Forge Ring, dimension door"
 price: "33,600 gp"
 cost: "16,800 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/rings/Ring of Return|Ring of Return (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Ring of Return|Ring of Return (PF1 F)]]"

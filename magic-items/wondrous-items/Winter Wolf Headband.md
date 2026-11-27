@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, beast shape II, dragon's breath, resist ene
 price: "32,000 gp"
 cost: "16,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Winter Wolf Headband|Winter Wolf Headband (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Winter Wolf Headband|Winter Wolf Headband (PF1 F)]]"

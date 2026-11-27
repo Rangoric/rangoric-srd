@@ -8,7 +8,6 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, soften earth and stone, stone shape, transmute rock to mud"
 price: "10,000 gp"
 cost: "5,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Gloves of Shaping|Gloves of Shaping (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Gloves of Shaping|Gloves of Shaping (PF1 F)]]"

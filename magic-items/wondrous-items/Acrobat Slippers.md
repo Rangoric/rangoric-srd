@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, cat's grace"
 price: "3,000 gp"
 cost: "1,500 gp"
 weight: "2 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Acrobat Slippers|Acrobat Slippers (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Acrobat Slippers|Acrobat Slippers (PF1 F)]]"

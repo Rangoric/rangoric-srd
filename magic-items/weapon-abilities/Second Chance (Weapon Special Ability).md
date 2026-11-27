@@ -8,7 +8,6 @@ aura: "Moderate abjuration"
 caster-level: 11
 prerequisites: "Craft Magic Arms and Armor, ricochet shot"
 price: "+4 bonus"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/weapon-special-abilities/Second Chance (Item)|Second Chance (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Second Chance (Item)|Second Chance (PF1 F)]]"

@@ -5,7 +5,6 @@ item-type: "Cursed Item"
 aura: "Moderate transmutation"
 caster-level: 8
 intended-item: "+2 warhammer"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/cursed-items/Heavy Hammer|Heavy Hammer (PF1)]]"
   - "[[path srd 3.5 foundry/items/cursed/Heavy Hammer|Heavy Hammer (PF1 F)]]"

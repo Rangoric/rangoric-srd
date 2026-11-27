@@ -9,7 +9,6 @@ price: "12,000 gp"
 cost: "6,150 gp"
 weight: "4 lbs."
 recharge: true
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/staves/Monstrification Staff|Monstrification Staff (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Monstrification Staff|Monstrification Staff (PF1 F)]]"

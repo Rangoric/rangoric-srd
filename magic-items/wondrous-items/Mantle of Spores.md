@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, contagion"
 price: "13,400 gp"
 cost: "6,700 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Mantle of Spores|Mantle of Spores (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Mantle of Spores|Mantle of Spores (PF1 F)]]"

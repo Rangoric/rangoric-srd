@@ -7,7 +7,6 @@ aura: "Faint abjuration"
 caster-level: 5
 prerequisites: "Craft Wondrous Item, divine favor, creator's caster level must be at least three times the amulet's bonus"
 price: "13,500 gp"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/items/firearms/Amulet of Bullet Protection|Amulet of Bullet Protection (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Amulet of Bullet Protection +3|Amulet of Bullet Protection +3 (PF1 F)]]"

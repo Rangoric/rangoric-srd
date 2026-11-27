@@ -7,7 +7,6 @@ caster-level: 11
 prerequisites: "Craft Wondrous Item, antimagic field"
 price: "5,900 gp"
 weight: "45 lb."
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/magic-items/Nullfield|Nullfield (Spells & Magic)]]"
 status: draft

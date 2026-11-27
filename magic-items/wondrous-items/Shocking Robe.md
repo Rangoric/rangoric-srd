@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, Heighten Spell, resist energy, lightning bo
 price: "11,000 gp"
 cost: "5,500 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Shocking Robe|Shocking Robe (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Shocking Robe|Shocking Robe (PF1 F)]]"

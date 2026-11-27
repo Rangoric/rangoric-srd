@@ -8,7 +8,6 @@ caster-level: 10
 prerequisites: "Craft Wondrous Item, mnemonic enhancer"
 price: "20,000 gp"
 cost: "10,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Magician's Hat|Magician's Hat (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Magician's Hat|Magician's Hat (PF1 F)]]"

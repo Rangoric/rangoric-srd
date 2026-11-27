@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, resist energy, creator must be a tiefling, 
 price: "9,000 gp"
 cost: "4,500 gp"
 weight: "1 lb."
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/featured-race/Darksire Amulet|Darksire Amulet (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Darksire Amulet|Darksire Amulet (PF1 F)]]"

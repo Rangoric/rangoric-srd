@@ -7,7 +7,6 @@ caster-level: 15
 prerequisites: "Craft Wondrous Item, antipathy"
 price: "120,000 gp"
 weight: "5 lb."
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/magic-items/Larad’s Vermillion Vermifuge|Larad’s Vermillion Vermifuge (Spells & Magic)]]"
 status: draft

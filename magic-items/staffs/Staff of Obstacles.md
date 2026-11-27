@@ -9,7 +9,6 @@ price: "52,850 gp"
 cost: "26,425 gp"
 weight: "5 lbs."
 recharge: true
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/staves/Staff of Obstacles|Staff of Obstacles (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Staff of Obstacles|Staff of Obstacles (PF1 F)]]"

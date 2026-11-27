@@ -7,7 +7,6 @@ caster-level: 13
 prerequisites: "Craft Magic Arms and Armor, Turn Undead, death ward, etherealness"
 price: "52,620 gp"
 cost: "26,390 gp"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/featured-race/Elysian Shield|Elysian Shield (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Elysian Shield|Elysian Shield (PF1 F)]]"

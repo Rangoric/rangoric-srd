@@ -8,7 +8,6 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, beast shape I"
 price: "250 gp"
 cost: "125 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Nightdrops|Nightdrops (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Nightdrops|Nightdrops (PF1 F)]]"

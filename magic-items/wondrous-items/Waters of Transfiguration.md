@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, fabricate"
 price: "12,500 gp"
 cost: "6,250 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Waters of Transfiguration|Waters of Transfiguration (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Waters of Transfiguration|Waters of Transfiguration (PF1 F)]]"

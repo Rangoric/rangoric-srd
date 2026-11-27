@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, resistance"
 price: "2,800 gp"
 cost: "1,400 gp"
 weight: "2 lb."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/wondrous/Dreamcatcher|Dreamcatcher (PF1 F)]]"
 status: draft

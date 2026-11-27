@@ -6,7 +6,6 @@ caster-level: 15
 prerequisites: "Craft Staff, befriend doorway guardian, detect fey doorway, resist energy, nature’s aspect, open doorway, permanency"
 price: "200,000 gp"
 weight: "1 lb"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/magic-items/Staff of the Fey|Staff of the Fey (Faeries)]]"
 status: draft

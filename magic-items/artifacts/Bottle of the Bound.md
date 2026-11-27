@@ -5,7 +5,6 @@ item-type: "Major Artifact"
 aura: "Strong abjuration"
 caster-level: 20
 weight: "4 lbs."
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/artifacts/Bottle of the Bound|Bottle of the Bound (PF1)]]"
   - "[[path srd 3.5 foundry/items/artifacts/Bottle of the Bound|Bottle of the Bound (PF1 F)]]"

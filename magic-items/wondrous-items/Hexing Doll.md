@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, bestow curse"
 price: "2,500 gp"
 cost: "1,250 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Hexing Doll|Hexing Doll (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Hexing Doll|Hexing Doll (PF1 F)]]"

@@ -7,7 +7,6 @@ caster-level: 7
 prerequisites: "Craft Wondrous Item, wall of ice"
 price: "10,500 gp"
 weight: "2 lb."
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/magic-items/Stake of Icing|Stake of Icing (Spells & Magic)]]"
 status: draft

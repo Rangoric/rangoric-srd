@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, resistance"
 price: "200 gp"
 cost: "100 gp"
 weight: "2 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Soul Soap|Soul Soap (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Soul Soap|Soul Soap (PF1 F)]]"

@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, beast shape I"
 price: "6,000 gp"
 cost: "3,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/featured-race/Cloak of the Scuttling Rat|Cloak of the Scuttling Rat (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Cloak of the Scuttling Rat|Cloak of the Scuttling Rat (PF1 F)]]"

@@ -8,7 +8,6 @@ caster-level: 7
 prerequisites: "Craft Wondrous Item, dispel magic, find traps"
 price: "9,000 gp"
 cost: "4,500 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Glyphbane Gloves|Glyphbane Gloves (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Glyphbane Gloves|Glyphbane Gloves (PF1 F)]]"

@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, beast shape II"
 price: "12,000 gp"
 cost: "6,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Lion Cloak|Lion Cloak (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Lion Cloak|Lion Cloak (PF1 F)]]"

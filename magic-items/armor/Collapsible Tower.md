@@ -7,7 +7,6 @@ caster-level: 6
 prerequisites: "Craft Magic Arms and Armor, shrink item"
 price: "8,170 gp"
 cost: "4,170 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/specific-magic-armor-and-shields/Collapsible Tower|Collapsible Tower (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Collapsible Tower|Collapsible Tower (PF1 F)]]"

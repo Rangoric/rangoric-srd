@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, beast shape I, bull's strength, cat's grace
 price: "18,000 gp"
 cost: "9,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Monkey Belt, Greater|Monkey Belt, Greater (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Monkey Belt, Greater|Monkey Belt, Greater (PF1 F)]]"

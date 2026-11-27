@@ -8,7 +8,6 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, feather fall, invisibility"
 price: "750 gp"
 cost: "375 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Snapleaf|Snapleaf (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Snapleaf|Snapleaf (PF1 F)]]"

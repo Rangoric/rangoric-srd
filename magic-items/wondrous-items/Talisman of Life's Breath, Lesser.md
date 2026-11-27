@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, breath of life"
 price: "3,500 gp"
 cost: "1,750 gp"
 weight: "1 lb."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/wondrous/Talisman of Life's Breath, Lesser|Talisman of Life's Breath, Lesser (PF1 F)]]"
 status: draft

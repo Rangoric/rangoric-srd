@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, blindness/deafness, mage armor"
 price: "6,000 gp"
 cost: "3,000 gp"
 weight: "2 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Tunic of Deadly Might|Tunic of Deadly Might (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Tunic of Deadly Might|Tunic of Deadly Might (PF1 F)]]"

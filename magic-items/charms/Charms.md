@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Magic Items"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/rules/Magic Items#Charms|Magic Items (Faeries)]]"
   - "[[individual books/Faeries/rules/Traditional Magical Items#Creating Charms|Traditional Magical Items (Faeries)]]"

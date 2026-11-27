@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, consecrate"
 price: "1,100 gp"
 cost: "550 gp"
 weight: "5 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Grave Salt|Grave Salt (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Grave Salt|Grave Salt (PF1 F)]]"

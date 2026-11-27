@@ -7,7 +7,6 @@ caster-level: 13
 prerequisites: "Craft Magic Arms and Armor, limited wish or miracle, creator must have the raging song class feature"
 price: "16,600 gp"
 cost: "11,850 gp"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/specific-armors-shields/Hero's Hauberk|Hero’s Hauberk (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Hero's Hauberk|Hero’s Hauberk (PF1 F)]]"

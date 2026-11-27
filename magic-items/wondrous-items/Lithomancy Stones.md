@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, divination, creator must have 5 ranks in Th
 price: "12,000 gp"
 cost: "6,000 gp"
 weight: "2 lb."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/wondrous/Lithomancy Stones|Lithomancy Stones (PF1 F)]]"
 status: draft

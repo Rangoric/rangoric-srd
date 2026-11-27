@@ -15,7 +15,6 @@ ego: 20
 alignment: "varies"
 senses: "30 ft."
 language: "telepathy (Common and 10 other languages)"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/intelligent-items/Headband of the sage|Headband of the sage (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Headband of the Sage|Headband of the Sage (PF1 F)]]"

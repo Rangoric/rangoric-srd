@@ -6,7 +6,6 @@ aura: "Moderate abjuration"
 caster-level: 9
 prerequisites: "Craft Magic Arms and Armor, stoneskin"
 price: "+1 bonus"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/armor-special-abilities/Vouchsafing|Vouchsafing (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Vouchsafing|Vouchsafing (PF1 F)]]"

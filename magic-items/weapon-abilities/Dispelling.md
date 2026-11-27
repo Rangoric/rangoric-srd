@@ -6,7 +6,6 @@ aura: "Strong abjuration"
 caster-level: 10
 prerequisites: "Craft Magic Arms and Armor, dispel magic, creator must be a caster of at least 10th level"
 price: "+1 bonus"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/weapon-special-abilities/Dispelling|Dispelling (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Dispelling|Dispelling (PF1 F)]]"

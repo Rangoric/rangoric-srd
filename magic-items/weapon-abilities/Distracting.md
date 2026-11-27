@@ -6,7 +6,6 @@ aura: "Faint enchantment"
 caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, qualm"
 price: "+1 bonus"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/weapon-special-abilities/Distracting|Distracting (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Distracting|Distracting (PF1 F)]]"

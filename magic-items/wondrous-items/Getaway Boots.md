@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, getaway"
 price: "30,000 gp"
 cost: "15,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Getaway Boots|Getaway Boots (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Getaway Boots|Getaway Boots (PF1 F)]]"

@@ -6,7 +6,6 @@ aura: "Faint transmutation"
 caster-level: 4
 prerequisites: "Craft Magic Arms and Armor, owl's wisdom"
 price: "+1 bonus"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/weapon-special-abilities/Jurist|Jurist (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Jurist|Jurist (PF1 F)]]"

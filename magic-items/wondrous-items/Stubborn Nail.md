@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, arcane lock, mending"
 price: "100 gp"
 cost: "50 gp"
 weight: "1/2 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Stubborn Nail|Stubborn Nail (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Stubborn nail|Stubborn Nail (PF1 F)]]"

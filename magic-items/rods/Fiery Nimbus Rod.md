@@ -7,7 +7,6 @@ caster-level: 6
 prerequisites: "Craft Rod, flame blade, flame strike or fireball, faerie fire"
 price: "22,305 gp"
 cost: "11,305 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/rods/Fiery Nimbus Rod|Fiery Nimbus Rod (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Fiery Nimbus Rod|Fiery Nimbus Rod (PF1 F)]]"

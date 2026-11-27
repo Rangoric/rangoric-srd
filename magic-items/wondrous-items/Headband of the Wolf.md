@@ -8,7 +8,6 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, bloodhound, creator must have the animal focus class feature"
 price: "5,000 gp"
 weight: "1/2 lb."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Headband of the Wolf|Headband of the Wolf (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Headband of the Wolf|Headband of the Wolf (PF1 Foundry)]]"

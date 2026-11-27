@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, detect thoughts, magic aura"
 price: "375 gp"
 cost: "188 gp"
 weight: "—"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/wondrous/False Coin|False Coin (PF1 F)]]"
 status: draft

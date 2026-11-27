@@ -8,7 +8,6 @@ aura: "Moderate enchantment"
 caster-level: 9
 prerequisites: "Craft Magic Arms and Armor, charm animal, summon nature’s ally IV"
 price: "+2 bonus"
-book: "Arms & Armor v3.5"
 based-on:
   - "[[individual books/Arms & Armor v3.5/armor-qualities/Totem|Totem (Arms & Armor)]]"
 status: draft

@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, endure elements, invisibility, produce flam
 price: "14,400 gp"
 cost: "7,200 gp"
 weight: "3 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Vambraces of the Genie|Vambraces of the Genie (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Vambraces of the Genie, Efreeti|Vambraces of the Genie, Efreeti (PF1 F)]]"

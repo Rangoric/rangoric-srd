@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, sacred bond"
 price: "10,000 gp"
 cost: "5,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Ornament of Healing Light|Ornament of Healing Light (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Ornament of Healing Light|Ornament of Healing Light (PF1 F)]]"

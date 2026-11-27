@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, trained in Craft (Alchemy)"
 price: "3,000 gp"
 cost: "1,500 gp"
 weight: "5 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Cauldron of Brewing|Cauldron of Brewing (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Cauldron of Brewing|Cauldron of Brewing (PF1 F)]]"

@@ -7,7 +7,6 @@ caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, silence"
 price: "547 gp"
 cost: "277 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/specific-magic-weapons/Hushing Arrow|Hushing Arrow (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Hushing Arrow|Hushing Arrow (PF1 F)]]"

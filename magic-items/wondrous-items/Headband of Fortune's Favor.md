@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, ill omen or prayer"
 price: "7,700 gp"
 cost: "3,850 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Headband of Fortune's Favor|Headband of Fortune's Favor (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Headband of Fortune's Favor|Headband of Fortune's Favor (PF1 F)]]"

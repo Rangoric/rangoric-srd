@@ -7,7 +7,6 @@ caster-level: 17
 prerequisites: "Craft Rod, Echoing Spell"
 price: "121,500 gp"
 cost: "60,750 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/rods/Echoing Metamagic Rod|Echoing Metamagic Rod (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Echoing Metamagic Rod, Greater|Metamagic Rod, Echoing, Greater (PF1 F)]]"

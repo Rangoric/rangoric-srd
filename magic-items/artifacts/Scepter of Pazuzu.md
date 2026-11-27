@@ -5,7 +5,6 @@ item-type: "Major Artifact"
 aura: "Overwhelming all"
 caster-level: 30
 weight: "4 lb."
-book: "Bestiary 4"
 status: draft
 change: new
 pi-review: 2026-11-24

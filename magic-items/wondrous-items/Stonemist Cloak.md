@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, invisibility, obscuring mist"
 price: "3,500 gp"
 cost: "1,750 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/uncommon-race/Stonemist Cloak|Stonemist Cloak (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Stonemist Cloak|Stonemist Cloak (PF1 F)]]"

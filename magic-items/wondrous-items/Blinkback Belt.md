@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, teleport object"
 price: "5,000 gp"
 cost: "2,500 gp"
 weight: "2 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Blinkback Belt|Blinkback Belt (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Blinkback Belt|Blinkback Belt (PF1 F)]]"

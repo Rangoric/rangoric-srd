@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, daylight, invisibility"
 price: "14,000 gp"
 cost: "7,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Cape of Effulgent Escape|Cape of Effulgent Escape (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Cape of Effulgent Escape|Cape of Effulgent Escape (PF1 F)]]"

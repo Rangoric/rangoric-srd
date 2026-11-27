@@ -6,7 +6,6 @@ aura: "Faint conjuration"
 caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, stinking cloud"
 price: "+10,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/rules/ultimate-equipment/magic-arms-and-armor/Armor Special Abilities#Putrid|Putrid (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Putrid|Putrid (PF1 F)]]"

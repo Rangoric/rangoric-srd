@@ -7,7 +7,6 @@ caster-level: 8
 prerequisites: "Craft Magic Arms and Armor, creator must be a monk"
 price: "75,350 gp"
 cost: "37,850 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/specific-magic-weapons/Blade of the Sword-Saint|Blade of the Sword-Saint (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Blade of the Sword-Saint|Blade of the Sword-Saint (PF1 F)]]"

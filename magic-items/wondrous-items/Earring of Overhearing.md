@@ -6,7 +6,6 @@ slot: "none"
 caster-level: 4
 prerequisites: "Craft Wondrous Item, message"
 price: "5,000 gp"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/magic-items/Earring of Overhearing|Earring of Overhearing (Spells & Magic)]]"
 status: draft

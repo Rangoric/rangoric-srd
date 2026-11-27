@@ -5,7 +5,6 @@ item-type: "Major Artifact"
 aura: "Strong transmutation"
 caster-level: 16
 weight: "1/2 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/artifacts/Perfection's Key|Perfection's Key (PF1)]]"
   - "[[path srd 3.5 foundry/items/artifacts/Perfection's Key|Perfection's Key (PF1 F)]]"

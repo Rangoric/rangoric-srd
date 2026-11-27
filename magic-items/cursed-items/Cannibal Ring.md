@@ -5,7 +5,6 @@ item-type: "Cursed Item"
 aura: "Strong transmutation"
 caster-level: 16
 intended-item: "ring of sustenance"
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/cursed-items/Cannibal Ring|Cannibal Ring (PF1)]]"
   - "[[path srd 3.5 foundry/items/cursed/Cannibal Ring|Cannibal Ring (PF1 F)]]"

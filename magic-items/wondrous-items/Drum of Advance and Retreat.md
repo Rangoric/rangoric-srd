@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, expeditious retreat"
 price: "10,000 gp"
 cost: "5,000 gp"
 weight: "5 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Drum of Advance and Retreat|Drum of Advance and Retreat (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Drum of Advance and Retreat|Drum of Advance and Retreat (PF1 F)]]"

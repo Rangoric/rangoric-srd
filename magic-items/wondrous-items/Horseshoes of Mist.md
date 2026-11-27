@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, gaseous form"
 price: "27,000 gp"
 cost: "13,500 gp"
 weight: "12 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Horseshoes of Mist|Horseshoes of Mist (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Horseshoes of Mist|Horseshoes of Mist (PF1 F)]]"

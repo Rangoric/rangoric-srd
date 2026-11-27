@@ -6,7 +6,6 @@ aura: "Moderate enchantment"
 caster-level: 12
 prerequisites: "Craft Magic Arms and Armor, invisibility, silence"
 price: "18,910 gp"
-book: "Arms & Armor v3.5"
 based-on:
   - "[[individual books/Arms & Armor v3.5/wondrous-armor/Gloves of Arrow Snaring|Guild Leathers (Arms & Armor)]]"
 status: draft

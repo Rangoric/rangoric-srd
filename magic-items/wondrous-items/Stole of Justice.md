@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, zone of truth, creator must have 5 ranks of
 price: "18,000 gp"
 cost: "9,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Stole of Justice|Stole of Justice (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Stole of Justice|Stole of Justice (PF1 F)]]"

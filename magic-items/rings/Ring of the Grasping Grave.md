@@ -7,7 +7,6 @@ caster-level: 1
 prerequisites: "Forge Ring, sculpt corpse"
 price: "2,000 gp"
 cost: "1,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/rings/Ring of the Grasping Grave|Ring of the Grasping Grave (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Ring of the Grasping Grave|Ring of the Grasping Grave (PF1 F)]]"

@@ -10,7 +10,6 @@ caster-level: 17
 prerequisites: "Craft Rod, Merciful Spell"
 price: "5,500 gp"
 cost: "2,750 gp"
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/rods/Merciful Metamagic Rod|Merciful Metamagic Rod (PF1)]]"
   - "[[path srd 3.5/items/rods/Metamagic, Merciful|Metamagic, Merciful (PF1)]]"

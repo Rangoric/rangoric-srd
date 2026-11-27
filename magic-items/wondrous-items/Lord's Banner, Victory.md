@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, heroism"
 price: "75,000 gp"
 cost: "37,500 gp"
 weight: "3 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Lord's Banner|Lord's Banner (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Lord's Banner, Victory|Lord's Banner, Victory (PF1 F)]]"

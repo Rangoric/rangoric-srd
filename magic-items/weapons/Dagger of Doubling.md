@@ -7,7 +7,6 @@ caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, shadow weapon"
 price: "10,302 gp"
 cost: "5,302 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/specific-magic-weapons/Dagger of Doubling|Dagger of Doubling (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Dagger of Doubling|Dagger of Doubling (PF1 F)]]"

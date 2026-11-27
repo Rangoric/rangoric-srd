@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, gust of wind, whispering wind, wind wall"
 price: "10,000 gp"
 cost: "5,000 gp"
 weight: "1 lb."
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/featured-race/Black Feather Fan|Black Feather Fan (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Black Feather Fan|Black Feather Fan (PF1 F)]]"

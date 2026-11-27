@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, magic circle against evil, permanency"
 price: "600 gp"
 cost: "300 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Abjurant Salt|Abjurant Salt (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Abjurant Salt|Abjurant Salt (PF1 F)]]"

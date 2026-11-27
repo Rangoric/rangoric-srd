@@ -10,7 +10,6 @@ caster-level: 17
 prerequisites: "Craft Rod, Sickening Spell"
 price: "32,500 gp"
 cost: "16,250 gp"
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/rods/Sickening Metamagic Rod|Sickening Metamagic Rod (PF1)]]"
   - "[[path srd 3.5/items/rods/Metamagic, Sickening|Metamagic, Sickening (PF1)]]"

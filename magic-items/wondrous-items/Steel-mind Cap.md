@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, surmount affliction"
 price: "33,600 gp"
 cost: "16,800 gp"
 weight: "3 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Steel-mind Cap|Steel-mind Cap (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Steel-mind Cap|Steel-mind Cap (PF1 F)]]"

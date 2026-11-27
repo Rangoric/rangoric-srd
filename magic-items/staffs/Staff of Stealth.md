@@ -9,7 +9,6 @@ price: "39,300 gp"
 cost: "19,650 gp"
 weight: "5 lbs."
 recharge: true
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/staves/Staff of Stealth|Staff of Stealth (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Staff of Stealth|Staff of Stealth (PF1 F)]]"

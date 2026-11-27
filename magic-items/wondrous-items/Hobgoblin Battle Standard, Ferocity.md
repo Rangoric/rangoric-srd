@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, rage"
 price: "60,000 gp"
 cost: "30,000 gp"
 weight: "3 lbs."
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/featured-race/Hobgoblin Battle Standard|Hobgoblin Battle Standard (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Hobgoblin Battle Standard, Ferocity|Hobgoblin Battle Standard, Ferocity (PF1 F)]]"

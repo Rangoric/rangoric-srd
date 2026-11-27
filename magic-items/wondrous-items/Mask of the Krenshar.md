@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, disguise self, scare"
 price: "7,200 gp"
 cost: "3,600 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Mask of the Krenshar|Mask of the Krenshar (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Mask of the Krenshar|Mask of the Krenshar (PF1 F)]]"

@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, nondetection, trap the soul"
 price: "30,000 gp"
 cost: "15,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Iron Circlet of Guarded Souls|Iron Circlet of Guarded Souls (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Iron Circlet of Guarded Souls|Iron Circlet of Guarded Souls (PF1 F)]]"

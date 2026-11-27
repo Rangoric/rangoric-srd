@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, call spirit"
 price: "18,900 gp"
 cost: "9,450 gp"
 weight: "4 lb."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/wondrous/Spirit Mirror|Spirit Mirror (PF1 F)]]"
 status: draft

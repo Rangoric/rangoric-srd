@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, fabricate, neutralize poison"
 price: "8,000 gp"
 cost: "4,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Chalice of Poison Weeping|Chalice of Poison Weeping (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Chalice of Poison Weeping|Chalice of Poison Weeping (PF1 F)]]"

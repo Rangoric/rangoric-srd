@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, warp wood, rope trick"
 price: "10,000 gp"
 cost: "5,000 gp"
 weight: "1 lb."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Hunter's Tree fort|Hunter's Tree Fort (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Hunter's Tree Fort|Hunter's Tree Fort (PF1 F)]]"

@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, bear's endurance, elemental body III"
 price: "24,000 gp"
 cost: "12,000 gp"
 weight: "3 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Elemental Earth Belt|Elemental Earth Belt (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Elemental Earth Belt|Elemental Earth Belt (PF1 F)]]"

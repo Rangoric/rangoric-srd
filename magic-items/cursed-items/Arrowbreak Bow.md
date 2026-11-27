@@ -5,7 +5,6 @@ item-type: "Cursed Item"
 aura: "Moderate evocation"
 caster-level: 6
 intended-item: "+2 shortbow"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/cursed-items/Arrowbreak Bow|Arrowbreak Bow (PF1)]]"
   - "[[path srd 3.5 foundry/items/cursed/Arrowbreak Bow|Arrowbreak Bow (PF1 F)]]"

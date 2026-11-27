@@ -6,7 +6,6 @@ aura: "Faint abjuration"
 caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, protection from good"
 price: "+1 bonus"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/rules/ultimate-equipment/magic-arms-and-armor/Armor Special Abilities#Dastard|Dastard (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Dastard|Dastard (PF1 F)]]"

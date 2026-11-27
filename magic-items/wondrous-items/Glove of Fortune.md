@@ -6,7 +6,6 @@ slot: "hands"
 caster-level: 5
 prerequisites: "Craft Wondrous Item, detect thoughts, dispel magic"
 price: "31,500 gp"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/magic-items/Glove of Fortune|Glove of Fortune (Spells & Magic)]]"
 status: draft

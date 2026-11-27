@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, bless weapon"
 price: "11,500 gp"
 cost: "5,750 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Bracers of the Avenging Knight|Bracers of the Avenging Knight (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Bracers of the Avenging Knight|Bracers of the Avenging Knight (PF1 F)]]"

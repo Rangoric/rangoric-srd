@@ -6,7 +6,6 @@ aura: "Moderate transmutation"
 caster-level: 10
 prerequisites: "Craft Magic Arms and Armor, righteous might, creator must be lawful"
 price: "+27,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/rules/ultimate-equipment/magic-arms-and-armor/Armor Special Abilities#Vigilant|Vigilant (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Vigilant|Vigilant (PF1 F)]]"

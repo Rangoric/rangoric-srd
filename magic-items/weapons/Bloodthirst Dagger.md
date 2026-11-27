@@ -7,7 +7,6 @@ caster-level: 10
 prerequisites: "Craft Magic Arms and Armor, bleed, inflict serious wounds"
 price: "60,802 gp"
 cost: "30,552 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/specific-magic-weapons/Bloodthirst Dagger|Bloodthirst Dagger (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Bloodthirst Dagger|Bloodthirst Dagger (PF1 F)]]"

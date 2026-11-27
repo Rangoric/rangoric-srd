@@ -7,7 +7,6 @@ caster-level: 14
 prerequisites: "Craft Magic Arms and Armor, heal, summon monster"
 price: "50,302 gp"
 cost: "25,302 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/specific-magic-weapons/Heartswood Spear|Heartswood Spear (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Heartswood Spear|Heartswood Spear (PF1 F)]]"

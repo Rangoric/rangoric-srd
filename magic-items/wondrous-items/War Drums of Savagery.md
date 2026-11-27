@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, rage"
 price: "35,000 gp"
 cost: "17,500 gp"
 weight: "20 lbs."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/items/misc/War Drums of Savagery|War Drums of Savagery (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/War Drums of Savagery|War Drums of Savagery (PF1 F)]]"

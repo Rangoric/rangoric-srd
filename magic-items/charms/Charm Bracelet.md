@@ -4,7 +4,6 @@ section: "Magic Items"
 item-type: "Charm Bracelet"
 prerequisites: "Craft Charms and Bracelets"
 price: "1,000 gp (1 charm) to 64,000 gp (8 charms)"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/magic-items/Bracelet, Charm|Bracelet, Charm (Faeries)]]"
   - "[[individual books/Faeries/tables/Table 23 Charm Bracelets|Table 23 Charm Bracelets (Faeries)]]"

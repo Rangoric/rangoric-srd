@@ -7,7 +7,6 @@ caster-level: 17
 prerequisites: "Craft Rod, Ectoplasmic Spell"
 price: "3,000 gp"
 cost: "1,500 gp"
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/rods/Ectoplasmic Metamagic Rod|Ectoplasmic Metamagic Rod (PF1)]]"
   - "[[path srd 3.5/items/rods/Metamagic, Ectoplasmic|Metamagic, Ectoplasmic (PF1)]]"

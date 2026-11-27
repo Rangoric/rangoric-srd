@@ -6,7 +6,6 @@ aura: "Moderate conjuration"
 caster-level: 8
 prerequisites: "Craft Magic Arms and Armor, summon monster I"
 price: "+1 bonus"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/weapon-special-abilities/Blood-Hunting|Blood-Hunting (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Blood-Hunting|Blood-Hunting (PF1 F)]]"

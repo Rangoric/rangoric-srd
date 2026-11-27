@@ -9,7 +9,6 @@ caster-level: 17
 prerequisites: "Craft Rod, Threnodic Spell"
 price: "32,500 gp"
 cost: "16,250 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/rods/Threnodic Metamagic Rod|Threnodic Metamagic Rod (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Threnodic Metamagic Rod|Metamagic Rod, Threnodic (PF1 F)]]"

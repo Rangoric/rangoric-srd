@@ -7,7 +7,6 @@ caster-level: 9
 prerequisites: "Craft Magic Arms and Armor, keen edge, slay living"
 price: "13,850 gp"
 cost: "7,100 gp"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/specific-weapons/Headsman's Blade|Headsman’s Blade (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Headsman's Blade|Headsman’s Blade (PF1 F)]]"

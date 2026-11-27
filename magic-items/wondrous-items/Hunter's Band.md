@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, instant enemy, tireless pursuit, creator mu
 price: "11,000 gp"
 cost: "5,500 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Hunter's Band|Hunter's Band (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Hunter's Band|Hunter's Band (PF1 F)]]"

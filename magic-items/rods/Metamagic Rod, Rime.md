@@ -9,7 +9,6 @@ caster-level: 17
 prerequisites: "Craft Rod, Rime Spell"
 price: "11,000 gp"
 cost: "5,500 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/rods/Rime Metamagic Rod|Rime Metamagic Rod (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Rime Metamagic Rod|Metamagic Rod, Rime (PF1 F)]]"

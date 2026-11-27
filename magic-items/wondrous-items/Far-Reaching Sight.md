@@ -8,7 +8,6 @@ caster-level: 3
 prerequisites: "Craft Wondrous Item, true strike"
 price: "4,000 gp"
 weight: "1 lb."
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/items/firearms/Far-Reaching Sight|Far-Reaching Sight (PF1)]]"
 status: draft

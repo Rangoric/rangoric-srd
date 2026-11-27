@@ -8,7 +8,6 @@ aura: "Moderate abjuration"
 caster-level: 8
 prerequisites: "Craft Magic Arms and Armor, stoneskin"
 price: "+1 bonus"
-book: "Arms & Armor v3.5"
 based-on:
   - "[[individual books/Arms & Armor v3.5/armor-qualities/Bludgeoning Resistance|Bludgeoning Resistance (Arms & Armor)]]"
   - "[[individual books/Arms & Armor v3.5/armor-qualities/Impact Resistance|Impact Resistance (Arms & Armor)]]"

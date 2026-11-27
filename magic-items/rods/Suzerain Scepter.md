@@ -7,7 +7,6 @@ caster-level: 7
 prerequisites: "Craft Rod, Leadership, bless, good hope, greater command, the creator must have the Leadership feat"
 price: "20,000 gp"
 cost: "10,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/rods/Suzerain Scepter|Suzerain Scepter (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Suzerain Scepter|Suzerain Scepter (PF1 F)]]"

@@ -8,7 +8,6 @@ caster-level: 2
 prerequisites: "Craft Wondrous Item, comprehend languages"
 price: "3,000 gp"
 cost: "1,500 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Spectacles of Understanding|Spectacles of Understanding (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Spectacles of Understanding|Spectacles of Understanding (PF1 F)]]"

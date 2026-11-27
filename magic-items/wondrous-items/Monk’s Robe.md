@@ -8,7 +8,6 @@ caster-level: 10
 prerequisites: "Craft Wondrous Item, righteous might or transformation"
 price: "13,000 gp"
 weight: "1 lb"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Monk's Robe|Monk's Robe (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Monk's Robe|Monk's Robe (PF1 F)]]"

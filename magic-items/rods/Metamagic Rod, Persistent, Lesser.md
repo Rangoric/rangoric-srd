@@ -7,7 +7,6 @@ caster-level: 17
 prerequisites: "Craft Rod, Persistent Spell"
 price: "9,000 gp"
 cost: "4,500 gp"
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/rods/Persistent Metamagic Rod|Persistent Metamagic Rod (PF1)]]"
   - "[[path srd 3.5/items/rods/Metamagic, Persistent|Metamagic, Persistent (PF1)]]"

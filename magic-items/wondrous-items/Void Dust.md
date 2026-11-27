@@ -8,7 +8,6 @@ caster-level: 11
 prerequisites: "Craft Wondrous Item, disintegrate"
 price: "4,500 gp"
 cost: "2,250 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Void Dust|Void Dust (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Void Dust|Void Dust (PF1 F)]]"

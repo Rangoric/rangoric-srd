@@ -8,7 +8,6 @@ caster-level: 10
 prerequisites: "Brew Potion, Craft Wondrous Item, creator must be a witch with the eternal slumber grand hex"
 price: "2,500 gp"
 cost: "1,250 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Apple of Eternal Sleep|Apple of Eternal Sleep (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Apple of Eternal Sleep|Apple of Eternal Sleep (PF1 F)]]"

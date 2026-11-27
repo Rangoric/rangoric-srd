@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Magic Items"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/rules/Strange Brew Potions|Strange Brew Potions (Spells & Magic)]]"
   - "[[individual books/Spells & Magic v3.0/rules/Strange Brew Descriptions|Strange Brew Descriptions (Spells & Magic)]]"

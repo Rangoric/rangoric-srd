@@ -9,7 +9,6 @@ price: "20,800 gp"
 cost: "10,400 gp"
 weight: "5 lbs."
 recharge: true
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/staves/Staff of Courage|Staff of Courage (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Staff of Courage|Staff of Courage (PF1 F)]]"

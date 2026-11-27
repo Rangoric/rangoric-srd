@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, bestow curse, resist energy, resistance, cr
 price: "12,000 gp"
 cost: "6,000 gp"
 weight: "1 lb."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Amulet of the Blooded|Amulet of the Blooded (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Amulet of the Blooded, Accursed|Amulet of the Blooded, Accursed (PF1 F)]]"

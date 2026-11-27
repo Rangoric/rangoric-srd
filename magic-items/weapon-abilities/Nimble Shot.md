@@ -6,7 +6,6 @@ aura: "Moderate abjuration"
 caster-level: 11
 prerequisites: "Craft Magic Arms and Armor, bow spirit"
 price: "+4 bonus"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/weapon-special-abilities/Nimble Shot|Nimble Shot (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Nimble Shot|Nimble Shot (PF1 F)]]"

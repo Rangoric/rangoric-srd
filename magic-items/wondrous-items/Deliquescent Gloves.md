@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, acid arrow, summon monster V"
 price: "8,000 gp"
 cost: "4,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Deliquescent Gloves|Deliquescent Gloves (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Deliquescent Gloves|Deliquescent Gloves (PF1 F)]]"

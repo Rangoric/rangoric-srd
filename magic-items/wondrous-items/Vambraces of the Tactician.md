@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, heroism"
 price: "8,000 gp"
 cost: "4,000 gp"
 weight: "3 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Vambraces of the Tactician|Vambraces of the Tactician (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Vambraces of the Tactician|Vambraces of the Tactician (PF1 F)]]"

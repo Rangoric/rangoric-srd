@@ -6,7 +6,6 @@ aura: "Moderate transmutation"
 caster-level: 8
 prerequisites: "Craft Magic Arms and Armor, heroism, creator must be a grit user"
 price: "+1 bonus"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/items/firearms/Lucky|Lucky (PF1)]]"
 status: draft

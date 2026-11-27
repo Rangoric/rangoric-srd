@@ -7,7 +7,6 @@ caster-level: 15
 prerequisites: "Craft Magic Arms and Armor, giant form I"
 price: "59,165 gp"
 cost: "29,665 gp"
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/armor/Giant-Hide Armor|Giant-Hide Armor (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Giant-hide Armor, Troll|Giant-Hide Armor, Troll (PF1 F)]]"

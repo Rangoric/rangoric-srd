@@ -8,7 +8,6 @@ caster-level: 9
 prerequisites: "Craft Wondrous Item, blindness/deafness, locate weakness"
 price: "80,000 gp"
 cost: "40,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Swordmaster's Blindfold|Swordmaster's Blindfold (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Swordmaster's Blindfold|Swordmaster's Blindfold (PF1 F)]]"

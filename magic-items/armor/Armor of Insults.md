@@ -7,7 +7,6 @@ caster-level: 7
 prerequisites: "Craft Magic Arms and Armor, confusion"
 price: "16,175 gp"
 cost: "7,675 gp"
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/armor/Armor Of Insults|Armor of Insults (PF1)]]"
   - "[[path srd 3.5 foundry/items/armor/Armor of Insults|Armor of Insults (PF1 F)]]"

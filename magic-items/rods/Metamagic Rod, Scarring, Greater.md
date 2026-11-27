@@ -7,7 +7,6 @@ caster-level: 17
 prerequisites: "Craft Rod, Scarring Spell"
 price: "24,500 gp"
 cost: "12,250 gp"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/gear/Scarring Metamagic Rod, Greater|Scarring Metamagic Rod, Greater (PF1 F)]]"
 status: draft

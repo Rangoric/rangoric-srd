@@ -7,7 +7,6 @@ aura: "Faint illusion"
 caster-level: 5
 prerequisites: "Craft Wondrous Item, silence"
 price: "250 gp"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/items/firearms/Oil of Silence|Oil of Silence (PF1)]]"
 status: draft

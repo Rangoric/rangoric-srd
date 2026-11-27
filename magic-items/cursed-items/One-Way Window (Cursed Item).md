@@ -5,7 +5,6 @@ item-type: "Cursed Item"
 aura: "Faint divination"
 caster-level: 5
 intended-item: "mirror of life trapping, mirror of opposition"
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/cursed-items/One-Way Window|One-Way Window (PF1)]]"
 status: draft

@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, bull's strength"
 price: "500 gp"
 cost: "250 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Armbands of the Brawler|Armbands of the Brawler (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Armbands of the Brawler|Armbands of the Brawler (PF1 F)]]"

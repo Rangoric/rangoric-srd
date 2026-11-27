@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, aid, creator must be a sorcerer of the dest
 price: "10,000 gp"
 cost: "5,000 gp"
 weight: "1 lb."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Amulet of the Blooded|Amulet of the Blooded (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Amulet of the Blooded, Destined|Amulet of the Blooded, Destined (PF1 F)]]"

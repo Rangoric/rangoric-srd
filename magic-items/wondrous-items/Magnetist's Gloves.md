@@ -8,7 +8,6 @@ caster-level: 3
 prerequisites: "Craft Wondrous Item, telekinesis"
 price: "6,000 gp"
 cost: "3,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Magnetist's Gloves|Magnetist's Gloves (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Magnetist's Gloves|Magnetist's Gloves (PF1 F)]]"

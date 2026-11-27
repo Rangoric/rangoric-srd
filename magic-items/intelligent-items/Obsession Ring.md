@@ -14,7 +14,6 @@ ego: 11
 alignment: "varies"
 senses: "30 ft."
 language: "telepathy (Common and seven other languages)"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/intelligent-items/Obsession Ring|Obsession Ring (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Obsession Ring|Obsession Ring (PF1 F)]]"

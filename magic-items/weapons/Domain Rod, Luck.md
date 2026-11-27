@@ -9,7 +9,6 @@ caster-level: 9
 prerequisites: "Craft Magic Arms and Armor, haste"
 price: "74,315 gp"
 cost: "37,158 gp + 2,973 XP"
-book: "Arms & Armor v3.5"
 based-on:
   - "[[individual books/Arms & Armor v3.5/specific-weapons/Domain Rods|Domain Rods (Arms & Armor)]]"
 status: draft

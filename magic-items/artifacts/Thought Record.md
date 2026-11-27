@@ -6,7 +6,6 @@ slot: "none"
 aura: "Strong divination"
 caster-level: 15
 weight: "2 lb."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/artifacts/Thought Record|Thought Record (PF1 F)]]"
 status: draft

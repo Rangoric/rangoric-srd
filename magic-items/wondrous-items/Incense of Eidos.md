@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, fox's cunning"
 price: "2,000 gp"
 cost: "1,000 gp"
 weight: "1 lb."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Incense of Eidos|Incense of Eidos (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Incense of Eidos|Incense of Eidos (PF1 F)]]"

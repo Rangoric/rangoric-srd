@@ -14,7 +14,6 @@ ego: 6
 alignment: "neutral"
 senses: "30 ft."
 language: "telepathy (Common and six other languages)"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/intelligent-items/Shield of the Mage|Shield of the Mage (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Shield of the Mage|Shield of the Mage (PF1 F)]]"

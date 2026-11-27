@@ -7,7 +7,6 @@ caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, bull's strength, burning hands, pyrotechnics"
 price: "14,170 gp"
 cost: "7,170 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/specific-magic-armor-and-shields/Volcanic Shield|Volcanic Shield (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Volcanic Shield|Volcanic Shield (PF1 F)]]"

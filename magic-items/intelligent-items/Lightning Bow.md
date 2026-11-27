@@ -14,7 +14,6 @@ ego: 9
 alignment: "neutral"
 senses: "120 ft."
 language: "speech (Auran)"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/intelligent-items/Lightning Bow|Lightning Bow (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Lightning Bow|Lightning Bow (PF1 F)]]"

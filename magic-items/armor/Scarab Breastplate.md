@@ -7,7 +7,6 @@ caster-level: 8
 prerequisites: "Craft Magic Arms and Armor, creeping doom, spell turning, vermin shape II"
 price: "32,350 gp"
 cost: "16,350 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/specific-magic-armor-and-shields/Scarab Breastplate|Scarab Breastplate (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Scarab Breastplate|Scarab Breastplate (PF1 F)]]"

@@ -5,7 +5,6 @@ item-type: "Charm"
 caster-level: 6
 prerequisites: "Craft Charms and Bracelets, mage armor"
 price: "16,000 gp"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/charms/Bone|Bone (Faeries)]]"
 status: draft

@@ -7,7 +7,6 @@ caster-level: 7
 prerequisites: "Craft Magic Arms and Armor, freedom of movement, creator must have 10 ranks in Craft (weapons)"
 price: "30,320 gp"
 cost: "15,350 gp"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/specific-weapons/Rapier of Battlefield Movement|Rapier of Battlefield Movement (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Rapier of Battlefield Movement|Rapier of Battlefield Movement (PF1 F)]]"

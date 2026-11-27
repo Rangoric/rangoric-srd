@@ -7,7 +7,6 @@ aliases:
 caster-level: 11
 prerequisites: "Craft Magic Arms and Armor, barkskin, plant growth, wall of thorns"
 price: "40,800 gp"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/magic-items/Armor, Pine Needle Armor of Anadahrl|Armor, Pine Needle Armor of Anadahrl (Faeries)]]"
 status: draft

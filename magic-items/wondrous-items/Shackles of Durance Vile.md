@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, dominate person"
 price: "16,200 gp"
 cost: "8,200 gp"
 weight: "2 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/featured-race/Shackles of Durance Vile|Shackles of Durance Vile (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Shackles of Durance Vile|Shackles of Durance Vile (PF1 F)]]"

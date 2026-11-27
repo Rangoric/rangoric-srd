@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, glyph of warding, limited wish or miracle, 
 price: "12,000 gp"
 cost: "6,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Guardian Gorget|Guardian Gorget (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Guardian Gorget|Guardian Gorget (PF1 F)]]"

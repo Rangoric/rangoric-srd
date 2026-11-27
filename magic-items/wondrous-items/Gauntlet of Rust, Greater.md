@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, rusting grasp"
 price: "34,500 gp"
 cost: "17,250 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Gauntlet of Rust, Greater|Gauntlet of Rust, Greater (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Gauntlet of Rust, Greater|Gauntlet of Rust, Greater (PF1 F)]]"

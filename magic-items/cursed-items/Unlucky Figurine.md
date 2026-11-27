@@ -5,7 +5,6 @@ item-type: "Cursed Item"
 aura: "Moderate enchantment"
 caster-level: 11
 intended-item: "any figurine of wondrous power"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/cursed-items/Unlucky Figurine|Unlucky Figurine (PF1)]]"
   - "[[path srd 3.5 foundry/items/cursed/Unlucky Figurine|Unlucky Figurine (PF1 F)]]"

@@ -9,7 +9,6 @@ price: "7,200 gp"
 cost: "3,600 gp"
 weight: "5 lbs."
 recharge: true
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/staves/Staff of Blessed Relief|Staff of Blessed Relief (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Staff of Blessed Relief|Staff of Blessed Relief (PF1 F)]]"

@@ -7,7 +7,6 @@ caster-level: 5
 prerequisites: "Forge Ring, guidance, creator must be able to sneak attack"
 price: "6,000 gp"
 cost: "3,000 gp"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/featured-race/Ring of Swarming Stabs|Ring of Swarming Stabs (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Ring of Swarming Stabs|Ring of Swarming Stabs (PF1 F)]]"

@@ -5,7 +5,6 @@ item-type: "Minor Artifact"
 aura: "Strong necromancy and universal"
 caster-level: 20
 weight: "2 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/artifacts/Monkey's Paw|Monkey's Paw (PF1)]]"
   - "[[path srd 3.5 foundry/items/artifacts/Monkey's Paw|Monkey's Paw (PF1 F)]]"

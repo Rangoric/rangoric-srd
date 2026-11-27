@@ -7,7 +7,6 @@ caster-level: 9
 prerequisites: "Craft Magic Arms and Armor, summon nature's ally I"
 price: "8,158 gp"
 cost: "4,158 gp"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/specific-armors-shields/Clawhand Shield|Clawhand Shield (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Clawhand Shield|Clawhand Shield (PF1 F)]]"

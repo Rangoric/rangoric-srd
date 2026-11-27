@@ -6,7 +6,6 @@ aura: "Faint transmutation"
 caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, chill metal"
 price: "+1 bonus"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/weapon-special-abilities/Quenching|Quenching (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Quenching|Quenching (PF1 F)]]"

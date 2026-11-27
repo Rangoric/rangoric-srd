@@ -9,7 +9,6 @@ price: "54,400 gp"
 cost: "27,200 gp"
 weight: "3 lbs."
 recharge: true
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/staves/Staff of Travel|Staff of Travel (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Staff of Travel|Staff of Travel (PF1 F)]]"

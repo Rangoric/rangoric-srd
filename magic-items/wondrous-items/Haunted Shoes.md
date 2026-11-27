@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, blur, unseen servant"
 price: "6,480 gp"
 cost: "3,240 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Haunted Shoes|Haunted Shoes (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Haunted Shoes|Haunted Shoes (PF1 F)]]"

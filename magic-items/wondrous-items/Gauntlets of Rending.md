@@ -9,7 +9,6 @@ prerequisites: "Craft Magic Arms and Armor, magic weapon"
 price: "8,000 gp"
 cost: "4,000 gp"
 weight: "4 lb."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/items/misc/Gauntlets of Rending|Gauntlets of Rending (PF1)]]"
 status: draft

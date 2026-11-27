@@ -10,7 +10,6 @@ caster-level: 8
 prerequisites: "Craft Wondrous Item, polymorph"
 price: "4,500 gp"
 cost: "2,250 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Shifter's Headband|Shifter's Headband (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Shifter's Headband +2|Shifter's Headband +2 (PF1 F)]]"

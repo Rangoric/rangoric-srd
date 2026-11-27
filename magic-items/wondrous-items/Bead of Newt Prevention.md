@@ -8,7 +8,6 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, dispel magic"
 price: "1,000 gp"
 cost: "500 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Bead of Newt Prevention|Bead of Newt Prevention (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Bead of Newt Prevention|Bead of Newt Prevention (PF1 F)]]"

@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, protection from evil"
 price: "2,200 gp"
 cost: "1,100 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Knight's Pennon|Knight's Pennon (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Knight's Pennon, Honor|Knight's Pennon, Honor (PF1 F)]]"

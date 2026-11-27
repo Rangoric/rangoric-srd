@@ -9,7 +9,6 @@ price: "200,000 gp"
 cost: "100,000 gp"
 weight: "5 lb."
 recharge: true
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/magic-items/Vril Staff|Vril Staff (PF1 F)]]"
 status: draft

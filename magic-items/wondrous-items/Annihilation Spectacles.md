@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, disintegrate, creator must be a transmuter"
 price: "25,000 gp"
 cost: "12,500 gp"
 weight: "1/4 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Annihilation Spectacles|Annihilation Spectacles (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Annihilation Spectacles|Annihilation Spectacles (PF1 F)]]"

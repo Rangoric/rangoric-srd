@@ -6,7 +6,6 @@ aura: "Moderate transmutation"
 caster-level: 6
 prerequisites: "Craft Magic Arms and Armor, keen edge, creator must have the raging song class feature"
 price: "+1 bonus"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/weapon-special-abilities/Bloodsong|Bloodsong (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Bloodsong|Bloodsong (PF1 F)]]"

@@ -8,7 +8,6 @@ caster-level: 17
 prerequisites: "Craft Wondrous Item, creator must be able to cast the spell contained in the page"
 price: "64,000 gp"
 cost: "32,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Page of Spell Knowledge|Page of Spell Knowledge (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Page of Spell Knowledge 8th-level|Page of Spell Knowledge 8th-level (PF1 F)]]"

@@ -7,7 +7,6 @@ caster-level: 18
 prerequisites: "Craft Magic Arms and Armor, keen edge, slay living, halt undead"
 price: "133,915 gp"
 cost: "66,958 gp + 5,357 XP"
-book: "Arms & Armor v3.5"
 based-on:
   - "[[individual books/Arms & Armor v3.5/specific-weapons/Death Blade|Death Blade (Arms & Armor)]]"
 status: draft

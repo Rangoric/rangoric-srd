@@ -6,7 +6,6 @@ aura: "Strong divination"
 caster-level: 13
 prerequisites: "Craft Magic Arms and Armor, greater arcane sight, limited wish"
 price: "+3 bonus"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/weapon-special-abilities/Spellstealing|Spellstealing (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Spellstealing|Spellstealing (PF1 F)]]"

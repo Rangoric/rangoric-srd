@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, beast shape III"
 price: "10,500 gp"
 cost: "5,250 gp"
 weight: "2 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Boots of the Mastodon|Boots of the Mastodon (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Boots of the Mastodon|Boots of the Mastodon (PF1 F)]]"

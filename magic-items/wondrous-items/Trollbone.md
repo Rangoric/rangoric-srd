@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, summon monster IV"
 price: "2,400 gp"
 cost: "1,200 gp"
 weight: "1 lb."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Trollbone|Trollbone (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Trollbone|Trollbone (PF1 F)]]"

@@ -5,7 +5,6 @@ item-type: "Cursed Item"
 aura: "Strong necromancy"
 caster-level: 15
 intended-item: "mirror of life trapping, mirror of opposition"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/cursed/Mirror of Soul Snaring|Mirror of Soul Snaring (PF1 F)]]"
 status: draft

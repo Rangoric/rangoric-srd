@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, shield"
 price: "6,000 gp"
 cost: "3,000 gp"
 weight: "3 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Vambraces of Defense|Vambraces of Defense (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Vambraces of Defense|Vambraces of Defense (PF1 F)]]"

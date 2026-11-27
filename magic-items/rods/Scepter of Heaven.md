@@ -7,7 +7,6 @@ caster-level: 10
 prerequisites: "Craft Magic Arms and Armor, Craft Rod, bless weapon, dispel evil, holy smite, holy sword, holy word, spear of purity, creator must be good"
 price: "74,000 gp"
 cost: "37,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/rods/Scepter of Heaven|Scepter of Heaven (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Scepter of Heaven|Scepter of Heaven (PF1 F)]]"

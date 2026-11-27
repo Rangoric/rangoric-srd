@@ -6,7 +6,6 @@ aura: "Faint transmutation"
 caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, pass without trace"
 price: "+7,500 gp"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/armor-special-abilities/Trackless|Trackless (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Trackless|Trackless (PF1 F)]]"

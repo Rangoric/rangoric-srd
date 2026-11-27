@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, daze monster"
 price: "20,000 gp"
 cost: "10,000 gp"
 weight: "4 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Horn of Antagonism|Horn of Antagonism (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Horn of Antagonism|Horn of Antagonism (PF1 F)]]"

@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, burning hands, cause fear"
 price: "9,000 gp"
 cost: "4,500 gp"
 weight: "2 lbs."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/items/misc/Cloak of the Troll King|Cloak of the Troll King (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Cloak of the Troll King|Cloak of the Troll King (PF1 F)]]"

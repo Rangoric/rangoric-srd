@@ -11,7 +11,6 @@ prerequisites: "Craft Wondrous Item, dread bolt, creator must be evil"
 price: "18,000 gp"
 cost: "9,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Orb of Foul Abaddon|Orb of the Foul Wasteland (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Orb of Foul Abaddon|Orb of the Foul Wasteland (PF1 F)]]"

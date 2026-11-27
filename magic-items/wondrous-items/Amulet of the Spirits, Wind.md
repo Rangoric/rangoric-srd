@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, entropic shield, shocking grasp, creator mu
 price: "8,000 gp"
 cost: "4,000 gp"
 weight: "1 lb."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Amulet of the Spirits|Amulet of the Spirits (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Amulet of the Spirits, Wind|Amulet of the Spirits, Wind (PF1 F)]]"

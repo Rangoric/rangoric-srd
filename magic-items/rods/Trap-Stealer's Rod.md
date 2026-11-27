@@ -7,7 +7,6 @@ caster-level: 15
 prerequisites: "Craft Rod, create pit, knock, plane shift"
 price: "13,500 gp"
 cost: "6,750 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/rods/Trap-Stealer's Rod|Trap-Stealer's Rod (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Trap-stealer's Rod|Trap-Stealer's Rod (PF1 F)]]"

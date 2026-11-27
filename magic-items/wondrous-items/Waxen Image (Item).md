@@ -11,7 +11,6 @@ prerequisites: "Craft Wondrous Item, bestow curse"
 price: "500 gp"
 cost: "250 gp"
 weight: "1/2 lb."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/wondrous/Waxen Image (Item)|Waxen Image (Item) (PF1 F)]]"
 status: draft

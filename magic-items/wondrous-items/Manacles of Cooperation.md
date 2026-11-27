@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, charm person"
 price: "2,000 gp"
 cost: "1,000 gp"
 weight: "2 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Manacles of Cooperation|Manacles of Cooperation (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Manacles of Cooperation|Manacles of Cooperation (PF1 F)]]"

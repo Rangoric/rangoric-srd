@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Magic Items"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/rules/Magic Items#Dusts|Magic Items (Faeries)]]"
   - "[[individual books/Faeries/rules/Traditional Magical Items|Traditional Magical Items (Faeries)]]"

@@ -14,7 +14,6 @@ ego: 14
 alignment: "chaotic neutral"
 senses: "120 ft., darkvision"
 language: "telepathy (Common and four other languages)"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/intelligent-items/Lute of Discord|Lute of Discord (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Lute of Discord|Lute of Discord (PF1 F)]]"

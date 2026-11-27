@@ -6,7 +6,6 @@ aura: "Moderate transmutation"
 caster-level: 10
 prerequisites: "Craft Magic Arms and Armor, major creation"
 price: "+10,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/weapon-special-abilities/Transformative|Transformative (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Transformative|Transformative (PF1 F)]]"

@@ -7,7 +7,6 @@ caster-level: 11
 prerequisites: "Craft Magic Arms and Armor, heal, plane shift"
 price: "35,312 gp"
 cost: "17,812 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/specific-magic-weapons/Ghoul's Lament|Ghoul’s Lament (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Ghoul's Lament|Ghoul’s Lament (PF1 F)]]"

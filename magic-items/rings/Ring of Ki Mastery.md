@@ -7,7 +7,6 @@ caster-level: 5
 prerequisites: "Forge Ring, ki leech, the creator must be able to use ki"
 price: "10,000 gp"
 cost: "3,420 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/rings/Ring of Ki Mastery|Ring of Ki Mastery (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Ring of Ki Mastery|Ring of Ki Mastery (PF1 F)]]"

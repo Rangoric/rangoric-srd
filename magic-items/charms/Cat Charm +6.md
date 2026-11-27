@@ -5,7 +5,6 @@ item-type: "Charm"
 caster-level: 10
 prerequisites: "Craft Charms and Bracelets, cat’s grace"
 price: "36,000 gp"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/charms/Cat|Cat (Faeries)]]"
 status: draft

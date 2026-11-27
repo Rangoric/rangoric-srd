@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, owl's wisdom"
 price: "16,000 gp"
 cost: "8,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Headband of Inspired Wisdom|Headband of Inspired Wisdom (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Headband of Inspired Wisdom +4|Headband of Inspired Wisdom +4 (PF1 F)]]"

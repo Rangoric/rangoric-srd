@@ -6,7 +6,6 @@ slot: "none"
 caster-level: 18
 prerequisites: "Craft Wondrous Item, vampiric touch"
 price: "120,000 gp"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/magic-items/Blood Chalice|Blood Chalice (Spells & Magic)]]"
 status: draft

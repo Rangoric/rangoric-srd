@@ -5,7 +5,6 @@ item-type: "Minor Artifact"
 aura: "Strong enchantment and evocation"
 caster-level: 15
 weight: "2 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/artifacts/Weird Queen's Magpie|Weird Queen's Magpie (PF1)]]"
   - "[[path srd 3.5 foundry/items/artifacts/Weird Queen's Magpie|Weird Queen's Magpie (PF1 F)]]"

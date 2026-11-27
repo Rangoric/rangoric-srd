@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, secret chest"
 price: "5,000 gp"
 cost: "2,500 gp"
 weight: "3 lbs."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Scabbard of Many Blades|Scabbard of Many Blades (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Scabbard of Many Blades|Scabbard of Many Blades (PF1 F)]]"

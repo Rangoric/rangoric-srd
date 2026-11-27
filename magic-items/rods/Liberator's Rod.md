@@ -7,7 +7,6 @@ caster-level: 9
 prerequisites: "Craft Magic Arms and Armor, Craft Rod, break enchantment, cast out, continual flame"
 price: "30,000 gp"
 cost: "15,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/rods/Liberator's Rod|Liberator's Rod (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Liberator's Rod|Liberator's Rod (PF1 F)]]"

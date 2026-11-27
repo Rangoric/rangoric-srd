@@ -5,7 +5,6 @@ item-type: "Potion"
 caster-level: 11
 prerequisites: "Brew Potion, flesh to stone"
 price: "4,950 gp"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/magic-items/Eye of the Medusa|Eye of the Medusa (Spells & Magic)]]"
 status: draft

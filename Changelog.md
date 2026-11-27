@@ -8,6 +8,7 @@ Every departure from the source rules, newest first. One line each, with links t
 
 | Date | Change | Rangoric note | Source | Why |
 | --- | --- | --- | --- | --- |
+| 2026-11-26 | No Book Property (NB 4): magic-items drop the `book:` frontmatter key, with their Note Rules rows and Index base columns; source books aren't named in SRD notes. | [[NB Batch 4 Changes]] | | [[No Book Property]] NB 4 |
 | 2026-11-26 | No Book Property (NB 3): class-options drop the `book:` frontmatter key, with their Note Rules rows and Index base columns; source books aren't named in SRD notes. | [[NB Batch 3 Changes]] | | [[No Book Property]] NB 3 |
 | 2026-11-26 | No Book Property (NB 2): monsters drop the `book:` frontmatter key, with their Note Rules rows and Index base columns; source books aren't named in SRD notes. | [[NB Batch 2 Changes]] | | [[No Book Property]] NB 2 |
 | 2026-11-26 | Edition labels, the check (EL 3): "Check notes" fails a changed note whose text names an edition; the README's opening no longer names the rulesets the SRD came from. | [[EL Batch 3 Changes]] | | [[Edition Labels on Main]] EL 3 |

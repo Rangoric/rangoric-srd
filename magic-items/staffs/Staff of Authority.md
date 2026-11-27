@@ -9,7 +9,6 @@ price: "23,000 gp"
 cost: "11,800 gp"
 weight: "5 lbs."
 recharge: true
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/staves/Staff of Authority|Staff of Authority (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Staff of Authority|Staff of Authority (PF1 F)]]"

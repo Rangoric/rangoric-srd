@@ -5,7 +5,6 @@ item-type: "Cursed Item"
 aura: "Strong (no school)"
 caster-level: 17
 intended-item: "any metamagic rod"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/cursed-items/Rod of Foiled Magic|Rod of Foiled Magic (PF1)]]"
   - "[[path srd 3.5 foundry/items/cursed/Rod of Foiled Magic|Rod of Foiled Magic (PF1 F)]]"

@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, darkness, darkvision"
 price: "10,000 gp"
 cost: "5,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Cloak of the duskwalker|Cloak of the Duskwalker (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Cloak of the Duskwalker|Cloak of the Duskwalker (PF1 F)]]"

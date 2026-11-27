@@ -5,7 +5,6 @@ item-type: "Construct Modification"
 cr-increase: "none"
 prerequisites: "Craft Construct, scrying"
 cost: "8,000 gp"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/items/building-and-modifying-constructs/Crafter's Eyes|Crafter's Eyes (PF1)]]"
 status: draft

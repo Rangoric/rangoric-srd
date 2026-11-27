@@ -7,7 +7,6 @@ caster-level: 10
 prerequisites: "Forge Ring, restoration, creator must be a grit or panache user"
 price: "15,000 gp"
 cost: "7,500 gp"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/rings/Ring of Resilience|Ring of Resilience (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Ring of Resilience|Ring of Resilience (PF1 F)]]"

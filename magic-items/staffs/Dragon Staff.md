@@ -9,7 +9,6 @@ price: "81,000 gp"
 cost: "40,500 gp"
 weight: "7 lbs."
 recharge: true
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/staves/Dragon Staff|Dragon Staff (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Dragon Staff|Dragon Staff (PF1 F)]]"

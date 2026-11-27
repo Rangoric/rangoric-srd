@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, antimagic field, break enchantment, greater
 price: "75,000 gp"
 cost: "37,500 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Resplendent Robe of the Thespian|Resplendent Robe of the Thespian (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Resplendent Robe of the Thespian|Resplendent Robe of the Thespian (PF1 F)]]"

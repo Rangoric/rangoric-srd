@@ -7,7 +7,6 @@ caster-level: 13
 prerequisites: "Craft Magic Arms and Armor, cat's grace, feather fall, and limited wish, wish, or miracle"
 price: "18,910 gp"
 cost: "9,535 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/specific-magic-armor-and-shields/Catskin Leather|Catskin Leather (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Catskin Leather|Catskin Leather (PF1 F)]]"

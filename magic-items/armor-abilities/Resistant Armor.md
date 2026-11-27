@@ -5,7 +5,6 @@ item-type: "Armor Special Ability"
 caster-level: 7
 prerequisites: "9 ranks in Craft (armorsmithing), stoneskin"
 price: "+500 gp per application for light armor, +1,000 gp for medium armor, +2,000 gp for heavy armor"
-book: "Arms & Armor v3.5"
 based-on:
   - "[[individual books/Arms & Armor v3.5/armor-qualities/Resistant Armor|Resistant Armor (Arms & Armor)]]"
 status: draft

@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, major creation"
 price: "250 gp"
 cost: "125 gp"
 weight: "2 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Traveler's Any-Tool|Traveler's Any-Tool (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Traveler's any-tool|Traveler's Any-Tool (PF1 F)]]"

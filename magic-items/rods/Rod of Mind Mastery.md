@@ -7,7 +7,6 @@ caster-level: 7
 prerequisites: "Craft Rod, detect thoughts, discern lies, nondetection"
 price: "67,000 gp"
 cost: "33,500 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/rods/Rod of Mind Mastery|Rod of Mind Mastery (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Rod of Mind Mastery|Rod of Mind Mastery (PF1 F)]]"

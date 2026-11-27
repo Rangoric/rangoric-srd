@@ -8,7 +8,6 @@ caster-level: 6
 prerequisites: "Craft Wondrous Item, detect magic, magic aura, resistance, creator must have 3 ranks in Sense Motive"
 price: "9,900 gp"
 cost: "4,950 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Seducer's Bane|Seducer's Bane (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Seducer's Bane|Seducer's Bane (PF1 F)]]"

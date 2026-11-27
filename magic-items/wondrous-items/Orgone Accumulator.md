@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, lesser restoration, remove blindness/deafne
 price: "48,000 gp"
 cost: "24,000 gp"
 weight: "150 lb."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/wondrous/Orgone Accumulator|Orgone Accumulator (PF1 F)]]"
 status: draft

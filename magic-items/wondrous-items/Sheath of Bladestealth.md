@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, invisibility"
 price: "5,000 gp"
 cost: "2,500 gp"
 weight: "2 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Sheath of Bladestealth|Sheath of Bladestealth (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Sheath of Bladestealth|Sheath of Bladestealth (PF1 F)]]"

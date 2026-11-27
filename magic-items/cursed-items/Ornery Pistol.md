@@ -5,7 +5,6 @@ item-type: "Cursed Item"
 aura: "Strong transmutation"
 caster-level: 12
 intended-item: "any pistol"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/cursed-items/Ornery Pistol|Ornery Pistol (PF1)]]"
   - "[[path srd 3.5 foundry/items/cursed/Ornery Pistol|Ornery Pistol (PF1 F)]]"

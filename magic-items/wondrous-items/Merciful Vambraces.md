@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, cleanse"
 price: "8,000 gp"
 cost: "4,000 gp"
 weight: "3 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Merciful Vambraces|Merciful Vambraces (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Merciful Vambraces|Merciful Vambraces (PF1 F)]]"

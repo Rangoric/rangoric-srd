@@ -14,7 +14,6 @@ ego: 20
 alignment: "lawful neutral"
 senses: "120 ft."
 language: "telepathy (Common and eight other languages)"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/intelligent-items/metamagician's apprentice|metamagician's apprentice (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Metamagician's Apprentice|Metamagician's Apprentice (PF1 F)]]"

@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, sanctuary"
 price: "1,800 gp"
 cost: "900 gp"
 weight: "4 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Cowardly Crouching Cloak|Cowardly Crouching Cloak (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Cowardly Crouching Cloak|Cowardly Crouching Cloak (PF1 F)]]"

@@ -7,7 +7,6 @@ aliases:
 caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, anchor fey, cause fear, vampiric touch"
 price: "115,145 gp"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/magic-items/Sword, Foul Feyslayer|Sword, Foul Feyslayer (Faeries)]]"
 status: draft

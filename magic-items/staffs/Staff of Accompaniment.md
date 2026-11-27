@@ -9,7 +9,6 @@ price: "14,800 gp"
 cost: "7,400 gp"
 weight: "5 lbs."
 recharge: true
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/staves/Staff of Accompaniment|Staff of Accompaniment (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Staff of Accompaniment|Staff of Accompaniment (PF1 F)]]"

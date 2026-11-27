@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, prestidigitation, purify food and drink"
 price: "1,000 gp"
 cost: "500 gp"
 weight: "2 lbs."
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/featured-race/Tengu Drinking Jug|Tengu Drinking Jug (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Tengu Drinking Jug|Tengu Drinking Jug (PF1 F)]]"

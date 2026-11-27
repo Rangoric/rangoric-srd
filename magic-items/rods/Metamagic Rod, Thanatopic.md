@@ -9,7 +9,6 @@ caster-level: 17
 prerequisites: "Craft Rod, Thanatopic Spell"
 price: "32,500 gp"
 cost: "16,250 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/rods/Thanatopic Metamagic Rod|Thanatopic Metamagic Rod (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Thanatopic Metamagic Rod|Metamagic Rod, Thanatopic (PF1 F)]]"

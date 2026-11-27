@@ -6,7 +6,6 @@ aura: "Moderate necromancy"
 caster-level: 13
 prerequisites: "Craft Magic Arms and Armor, symbol of stunning"
 price: "3,447 gp"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/items/firearms/Burrowing Bullet|Burrowing Bullet (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Burrowing Bullet, Greater|Burrowing Bullet, Greater (PF1 F)]]"

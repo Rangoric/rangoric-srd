@@ -7,7 +7,6 @@ caster-level: 6
 prerequisites: "Craft Magic Arms and Armor, frostbite"
 price: "9,380 gp"
 cost: "4,840 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/specific-magic-weapons/Frostbite Sling|Frostbite Sling (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Frostbite Sling|Frostbite Sling (PF1 F)]]"

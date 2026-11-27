@@ -5,7 +5,6 @@ item-type: "Ring"
 caster-level: 5
 prerequisites: "Forge Ring, luck of the fey"
 price: "27,000 gp"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/magic-items/Ring of Fey Luck|Ring of Fey Luck (Faeries)]]"
 status: draft

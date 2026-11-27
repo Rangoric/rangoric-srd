@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, cat's grace, jump"
 price: "3,500 gp"
 cost: "1,750 gp"
 weight: "1 lb."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Boots of Vaulting|Boots of Vaulting (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Boots of Vaulting|Boots of Vaulting (PF1 F)]]"

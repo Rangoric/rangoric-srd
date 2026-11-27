@@ -8,7 +8,6 @@ caster-level: 1
 prerequisites: "Craft Wondrous Item, bane, bless"
 price: "2,200 gp"
 cost: "1,100 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Challenger's Gloves|Challenger's Gloves (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Challenger's Gloves|Challenger's Gloves (PF1 F)]]"

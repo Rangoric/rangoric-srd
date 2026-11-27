@@ -8,7 +8,6 @@ caster-level: 1
 prerequisites: "Craft Wondrous Item, cause fear"
 price: "100 gp"
 cost: "50 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/War Paint of the Terrible Visage|War Paint of the Terrible Visage (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/War Paint of the Terrible Visage|War Paint of the Terrible Visage (PF1 F)]]"

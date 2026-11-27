@@ -8,7 +8,6 @@ caster-level: 3
 prerequisites: "Craft Wondrous Item, alter winds"
 price: "4,400 gp"
 cost: "2,200 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Wind-Caller Compass|Wind-Caller Compass (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Wind-caller Compass|Wind-Caller Compass (PF1 F)]]"

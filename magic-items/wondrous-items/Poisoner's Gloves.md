@@ -8,7 +8,6 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, touch injection"
 price: "5,000 gp"
 cost: "2,500 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Poisoner's Gloves|Poisoner's Gloves (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Poisoner's Gloves|Poisoner's Gloves (PF1 F)]]"

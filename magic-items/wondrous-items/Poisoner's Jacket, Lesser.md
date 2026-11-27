@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, minor creation, poison"
 price: "12,000 gp"
 cost: "6,000 gp"
 weight: "3 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Poisoner's Jacket, Lesser|Poisoner's Jacket, Lesser (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Poisoner's Jacket, Lesser|Poisoner's Jacket, Lesser (PF1 F)]]"

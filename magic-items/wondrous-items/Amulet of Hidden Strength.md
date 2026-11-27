@@ -8,7 +8,6 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, creator must have a ki pool"
 price: "9,000 gp"
 cost: "4,500 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Amulet of Hidden Strength|Amulet of Hidden Strength (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Amulet of Hidden Strength|Amulet of Hidden Strength (PF1 F)]]"

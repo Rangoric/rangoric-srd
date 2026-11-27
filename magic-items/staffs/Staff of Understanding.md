@@ -9,7 +9,6 @@ price: "14,400 gp"
 cost: "7,200 gp"
 weight: "5 lbs."
 recharge: true
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/staves/Staff of Understanding|Staff of Understanding (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Staff of Understanding|Staff of Understanding (PF1 F)]]"

@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, create food and water, heroes' feast"
 price: "15,000 gp"
 cost: "7,500 gp"
 weight: "25 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Cauldron of Plenty|Cauldron of Plenty (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Cauldron of Plenty|Cauldron of Plenty (PF1 F)]]"

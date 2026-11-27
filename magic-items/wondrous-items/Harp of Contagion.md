@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, poison, resistance"
 price: "13,000 gp"
 cost: "6,500 gp"
 weight: "5 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Harp of Contagion|Harp of Contagion (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Harp of Contagion|Harp of Contagion (PF1 F)]]"

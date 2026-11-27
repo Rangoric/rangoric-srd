@@ -6,7 +6,6 @@ aura: "Moderate enchantment"
 caster-level: 7
 prerequisites: "Craft Magic Arms and Armor, haste"
 price: "+7,000 gp"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/armor-special-abilities/Spiteful|Spiteful (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Spiteful|Spiteful (PF1 F)]]"

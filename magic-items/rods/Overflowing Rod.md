@@ -7,7 +7,6 @@ caster-level: 10
 prerequisites: "Craft Rod, creator must be a 10th-level kineticist"
 price: "25,000 gp"
 cost: "12,500 gp"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/gear/Overflowing Rod|Overflowing Rod (PF1 F)]]"
 status: draft

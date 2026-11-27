@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, darkvision, fog cloud"
 price: "8,000 gp"
 cost: "4,000 gp"
 weight: "1 lb."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/items/misc/Fog-Cutting Lenses|Fog-Cutting Lenses (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Fog-Cutting Lenses|Fog-Cutting Lenses (PF1 F)]]"

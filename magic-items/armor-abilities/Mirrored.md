@@ -6,7 +6,6 @@ aura: "Moderate abjuration"
 caster-level: 8
 prerequisites: "Craft Magic Arms and Armor, spell turning"
 price: "+1 bonus"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/rules/ultimate-equipment/magic-arms-and-armor/Armor Special Abilities#Mirrored|Mirrored (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Mirrored|Mirrored (PF1 F)]]"

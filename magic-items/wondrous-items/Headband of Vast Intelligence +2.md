@@ -11,7 +11,6 @@ prerequisites: "Craft Wondrous Item, fox's cunning"
 price: "4,000 gp"
 cost: "2,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Headband of Vast Intelligence|Headband of Vast Intelligence (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Headband of Vast Intelligence +2|Headband of Vast Intelligence +2 (PF1 F)]]"

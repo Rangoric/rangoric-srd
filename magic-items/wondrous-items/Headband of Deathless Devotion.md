@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, heroism, stabilize"
 price: "6,400 gp"
 cost: "3,200 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Headband of deathless devotion|Headband of Deathless Devotion (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Headband of Deathless Devotion|Headband of Deathless Devotion (PF1 F)]]"

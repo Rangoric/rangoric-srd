@@ -6,7 +6,6 @@ slot: "none"
 caster-level: 5
 prerequisites: "Craft Wondrous Item, erase, secret page"
 price: "45,000 gp"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/magic-items/Scroll of Safe Dispatch|Scroll of Safe Dispatch (Spells & Magic)]]"
 status: draft
