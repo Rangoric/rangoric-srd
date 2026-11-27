@@ -11,6 +11,9 @@ hit-dice: "66d12 (792 hp)"
 initiative: "+6 (+2 Dex, +4 Improved Initiative)"
 speed: "5 ft., fly 240 ft. (perfect)"
 armor-class: "51 (-1 size, +2 Dex, +40 natural)"
+base-attack: "+33"
+cmb: "+50 (+52 bull rush)"
+cmd: "63 (65 vs. bull rush, can't be tripped)"
 attack: "Touch +49 (2d6 Con drain/19-20) melee touch"
 full-attack: "2 touches +49 (2d6 Con drain/19-20) melee touch, eye ray +30 (negative level damage/19-20) ranged touch"
 space-reach: "10 ft/10 ft."
@@ -44,7 +47,7 @@ Hit Dice:  66d12 (792 hp)   
 Initiative:  +6 (+2 Dex, +4 [[rangoric-srd/feats/Improved Initiative|Improved Initiative]])     
 Speed:  5 ft., fly 240 ft. (perfect)     
 AC:  51 (-1 size, +2 Dex, +40 natural)    
-Base Attack /Grapple: +33/+53   
+Base Attack: +33; CMB: +50 (+52 bull rush); CMD: 63 (65 vs. bull rush, can't be tripped)   
 Attack:  Touch +49 (2d6 Con drain/19-20) melee touch   
 Full Attack:  2 touches +49 (2d6 Con drain/19-20) melee touch, eye ray +30 (negative level damage/19-20) ranged touch     
 Space/Reach:  10 ft/10 ft.     

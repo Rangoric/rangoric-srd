@@ -7,6 +7,9 @@ hit-dice: "23d8 + 46 +10 (159 hp)"
 initiative: "+8 (+4 Dex, +4 Improved Initiative)"
 speed: "30 ft."
 armor-class: "47 (+4 Dex, +8 bracers, +3 ring, +2 amulet, +20 insight)"
+base-attack: "+10"
+cmb: "+11"
+cmd: "48"
 space-reach: "5 ft./5 ft."
 special-attacks: "Spell-like abilities, engulf, frightful presence"
 special-qualities: "Blindsight 300 ft., SR 36, discorporate, bonus hit points, immunities"
@@ -38,6 +41,7 @@ Hit Dice: 23d8 + 46 +10 (159 hp)   
 Initiative: +8 (+4 Dex, +4 [[rangoric-srd/feats/Improved Initiative|Improved Initiative]])      
 Speed: 30 ft.      
 AC: 47 (+4 Dex, +8 bracers, +3 ring, +2 amulet, +20 insight)      
+Base Attack: +10; CMB: +11; CMD: 48  
 Attacks: +4 staff +15/+10 melee      
 Damage: +4 staff 1d6+4     
 Space/Reach: 5 ft./5 ft.      

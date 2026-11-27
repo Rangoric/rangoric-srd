@@ -11,6 +11,9 @@ hit-dice: "27d8+189 (425 hp)"
 initiative: "+7"
 speed: "5 ft., fly 200 ft. (perfect)"
 armor-class: "39 (+7 Dex, +22 natural)"
+base-attack: "+27"
+cmb: "+39 (+41 bull rush)"
+cmd: "57 (59 vs. bull rush, can't be tripped)"
 attack: "Primary wing buffet +39 (2d6+12) melee"
 full-attack: "2 primary wing buffets +39 (2d6+12) melee, 6 secondary wing buffets +37 (1d6+6) melee, tail slam +37 (1d6+6 plus Cha drain) melee"
 space-reach: "5 ft./5 ft."
@@ -44,7 +47,7 @@ Hit Dice: 27d8+189 (425 hp)
 Initiative:  +7      
 Speed:  5 ft., fly 200 ft. (perfect)      
 AC: 39 (+7 Dex, +22 natural)      
-Base Attack /Grapple: +27/+39     
+Base Attack: +27; CMB: +39 (+41 bull rush); CMD: 57 (59 vs. bull rush, can't be tripped)     
 Attack: Primary wing buffet +39 (2d6+12) melee     
 Full Attack: 2 primary wing buffets +39 (2d6+12) melee, 6 secondary wing buffets +37 (1d6+6) melee, tail slam +37 (1d6+6 plus Cha drain) melee     
 Space/Reach: 5 ft./5 ft.      
@@ -63,7 +66,7 @@ Treasure: None    
 Alignment: Always neutral evil      
 Advancement: 28-38 HD (Medium-size); 39-50 HD (Large)    
 
-An chichimec’s natural weapons are treated as epic and evil-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
+A chichimec’s natural weapons are treated as epic and evil-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 #### Combat
 
