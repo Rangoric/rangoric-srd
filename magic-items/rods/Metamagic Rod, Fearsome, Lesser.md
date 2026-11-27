@@ -7,7 +7,6 @@ caster-level: 17
 prerequisites: "Craft Rod, Fearsome Spell"
 price: "9,000 gp"
 cost: "4,500 gp"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/gear/Fearsome Metamagic Rod, Lesser|Fearsome Metamagic Rod, Lesser (PF1 F)]]"
 status: draft

@@ -8,7 +8,6 @@ caster-level: 10
 prerequisites: "Craft Wondrous Item, wall of force"
 price: "10,000 gp"
 cost: "5,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Boundary Chalk|Boundary Chalk (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Boundary Chalk|Boundary Chalk (PF1 F)]]"

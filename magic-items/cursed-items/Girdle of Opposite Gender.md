@@ -6,7 +6,6 @@ aura: "Moderate transmutation"
 caster-level: 10
 intended-item: "any belt"
 slot: "belt"
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/cursed-items/Girdle of Opposite Gender|Girdle of Opposite Gender (PF1)]]"
   - "[[path srd 3.5 foundry/items/cursed/Girdle of Opposite Gender|Girdle of Opposite Gender (PF1 F)]]"

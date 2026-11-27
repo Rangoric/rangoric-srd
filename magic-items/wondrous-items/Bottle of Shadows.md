@@ -8,7 +8,6 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, animate dead"
 price: "7,000 gp"
 cost: "3,500 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Bottle of Shadows|Bottle of Shadows (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Bottle of Shadows|Bottle of Shadows (PF1 F)]]"

@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, spiritual weapon"
 price: "6,000 gp"
 cost: "3,000 gp"
 weight: "3 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/core-race/Crown of Swords|Crown of Swords (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Crown of Swords|Crown of Swords (PF1 F)]]"

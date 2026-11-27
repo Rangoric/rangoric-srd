@@ -9,7 +9,6 @@ caster-level: 9
 prerequisites: "Craft Magic Arms and Armor, alter self"
 price: "88,708 gp"
 cost: "44,354 gp + 3,548 XP"
-book: "Arms & Armor v3.5"
 based-on:
   - "[[individual books/Arms & Armor v3.5/specific-weapons/Domain Rods|Domain Rods (Arms & Armor)]]"
 status: draft

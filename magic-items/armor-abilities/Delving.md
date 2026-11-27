@@ -6,7 +6,6 @@ aura: "Faint transmutation"
 caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, soften earth and stone"
 price: "+10,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/rules/ultimate-equipment/magic-arms-and-armor/Armor Special Abilities#Delving|Delving (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Delving|Delving (PF1 F)]]"

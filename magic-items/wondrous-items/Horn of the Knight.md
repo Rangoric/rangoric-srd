@@ -7,7 +7,6 @@ caster-level: 13
 prerequisites: "Craft Wondrous Item, summon fey VI"
 price: "50,000 gp"
 weight: "2 lb"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/magic-items/Horn of the Knight|Horn of the Knight (Faeries)]]"
 status: draft

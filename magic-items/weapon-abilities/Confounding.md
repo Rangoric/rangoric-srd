@@ -6,7 +6,6 @@ aura: "Faint transmutation"
 caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, eagle's splendor"
 price: "+1 bonus"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/weapon-special-abilities/Confounding|Confounding (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Confounding|Confounding (PF1 F)]]"

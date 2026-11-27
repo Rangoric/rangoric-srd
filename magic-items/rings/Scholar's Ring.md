@@ -7,7 +7,6 @@ caster-level: 5
 prerequisites: "Forge Ring, comprehend languages, legend lore"
 price: "8,700 gp"
 cost: "4,350 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/rings/Scholar's Ring|Scholar's Ring (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Scholar's Ring|Scholar's Ring (PF1 F)]]"

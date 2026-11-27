@@ -8,7 +8,6 @@ caster-level: 12
 prerequisites: "Craft Magic Arms and Armor, Craft Staff, detect secret doors, detect undead, disrupt undead, fear, knock"
 price: "49,550 gp"
 weight: "5 lb"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/magic-items/Graverobber|Graverobber (Spells & Magic)]]"
 status: draft

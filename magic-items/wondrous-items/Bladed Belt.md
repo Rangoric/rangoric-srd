@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, magic weapon"
 price: "2,000 gp"
 cost: "1,000 gp"
 weight: "3 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Bladed Belt|Bladed Belt (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Bladed Belt|Bladed Belt (PF1 F)]]"

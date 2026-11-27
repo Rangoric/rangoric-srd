@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, spider climb"
 price: "1,300 gp"
 cost: "650 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Claws of the Ice Bear|Claws of the Ice Bear (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Claws of the Ice Bear|Claws of the Ice Bear (PF1 F)]]"

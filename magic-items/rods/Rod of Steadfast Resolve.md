@@ -7,7 +7,6 @@ caster-level: 9
 prerequisites: "Craft Rod, bless, calm emotion, the creator must have the human subtype"
 price: "38,305 gp"
 cost: "19,305 gp"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/core-race/Rod of Steadfast Resolve|Rod of Steadfast Resolve (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Rod of Steadfast Resolve|Rod of Steadfast Resolve (PF1 F)]]"

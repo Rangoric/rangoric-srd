@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, Extra Mercy, remove disease, remove curse, 
 price: "60,000 gp"
 cost: "30,000 gp"
 weight: "2 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Merciful Baldric|Merciful Baldric (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Merciful Baldric|Merciful Baldric (PF1 F)]]"

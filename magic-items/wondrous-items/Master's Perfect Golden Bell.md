@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, banishment"
 price: "20,000 gp"
 cost: "10,000 gp"
 weight: "10 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Master's Perfect Golden Bell|Master's Perfect Golden Bell (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Master's Perfect Golden Bell|Master's Perfect Golden Bell (PF1 F)]]"

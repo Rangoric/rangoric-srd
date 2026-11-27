@@ -9,7 +9,6 @@ price: "37,600 gp"
 cost: "19,100 gp"
 weight: "5 lbs."
 recharge: true
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/staves/Staff of Aspects|Staff of Aspects (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Staff of Aspects|Staff of Aspects (PF1 F)]]"

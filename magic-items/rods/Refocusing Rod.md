@@ -7,7 +7,6 @@ caster-level: 10
 prerequisites: "Craft Rod, creator must be a 10th-level occultist"
 price: "5,000 gp"
 cost: "2,500 gp"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/gear/Refocusing Rod|Refocusing Rod (PF1 F)]]"
 status: draft

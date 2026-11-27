@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, bull's strength"
 price: "10,000 gp"
 cost: "5,000 gp"
 weight: "3 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Pauldrons of the Bull|Pauldrons of the Bull (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Pauldrons of the Bull|Pauldrons of the Bull (PF1 F)]]"

@@ -8,7 +8,6 @@ caster-level: 7
 prerequisites: "Craft Wondrous Item, heroic fortune"
 price: "3,600 gp"
 cost: "1,800 gp"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/items/hero-point-items/Elixir of Luck|Elixir of Luck (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Elixir of Luck|Elixir of Luck (PF1 F)]]"

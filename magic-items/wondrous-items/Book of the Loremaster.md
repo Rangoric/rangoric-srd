@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, clairaudience/clairvoyance"
 price: "15,000 gp"
 cost: "7,500 gp"
 weight: "2 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Book of the Loremaster|Book of the Loremaster (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Book of the Loremaster|Book of the Loremaster (PF1 F)]]"

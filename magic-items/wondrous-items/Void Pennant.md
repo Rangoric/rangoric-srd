@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, dimensional anchor"
 price: "14,000 gp"
 cost: "7,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Void Pennant|Void Pennant (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Void Pennant|Void Pennant (PF1 F)]]"

@@ -10,7 +10,6 @@ caster-level: 8
 prerequisites: "Craft Wondrous Item, true seeing"
 price: "12,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/firearms/See Invisibility Sight|See Invisibility Sight (PF1)]]"
   - "[[path srd 3.5/items/wondrous-items/Seeker's Sight|Seeker's Sight (PF1)]]"

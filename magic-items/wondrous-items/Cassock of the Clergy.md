@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, bless, sanctuary, creator must be a divine 
 price: "4,600 gp"
 cost: "2,300 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Cassock of the Clergy|Cassock of the Clergy (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Cassock of the Clergy|Cassock of the Clergy (PF1 F)]]"

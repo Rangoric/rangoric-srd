@@ -7,7 +7,6 @@ aliases:
 caster-level: 3
 prerequisites: "Forge Ring, spiritual weapon"
 price: "2,000 gp"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/magic-items/Shuriken|Shuriken (Spells & Magic)]]"
 status: draft

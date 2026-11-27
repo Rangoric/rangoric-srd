@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, Craft Magic Arms and Armor, creator must be
 price: "30,000 gp"
 cost: "15,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/core-race/Gauntlets of Skill at Arms|Gauntlets of Skill at Arms (PF1)]]"
 status: draft

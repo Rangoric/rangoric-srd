@@ -9,7 +9,6 @@ caster-level: 17
 prerequisites: "Craft Rod, Burning Spell"
 price: "32,500 gp"
 cost: "16,250 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/rods/Burning Metamagic Rod|Burning Metamagic Rod (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Burning Metamagic Rod|Metamagic Rod, Burning (PF1 F)]]"

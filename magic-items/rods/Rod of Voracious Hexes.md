@@ -7,7 +7,6 @@ caster-level: 17
 prerequisites: "Craft Rod, Split Hex, creator must have the hex class feature"
 price: "32,500 gp"
 cost: "16,250 gp"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/rods/Rod of Voracious Hexes|Rod of Voracious Hexes (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Rod of Voracious Hexes|Rod of Voracious Hexes (PF1 F)]]"

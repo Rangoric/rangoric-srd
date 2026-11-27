@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, glibness"
 price: "7,900 gp"
 cost: "3,950 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Bracers of the Glib Entertainer|Bracers of the Glib Entertainer (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Bracers of the Glib Entertainer|Bracers of the Glib Entertainer (PF1 F)]]"

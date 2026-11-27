@@ -6,7 +6,6 @@ aura: "Strong evocation"
 caster-level: 12
 prerequisites: "Craft Magic Arms and Armor, acid arrow"
 price: "+1 bonus"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/items/misc/Catalytic|Catalytic (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Catalytic|Catalytic (PF1 F)]]"

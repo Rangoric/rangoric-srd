@@ -9,7 +9,6 @@ caster-level: 12
 prerequisites: "Craft Magic Arms and Armor, polymorph"
 price: "107,800 gp"
 cost: "53,900 gp + 4,312 XP"
-book: "Arms & Armor v3.5"
 based-on:
   - "[[individual books/Arms & Armor v3.5/specific-weapons/Domain Rods|Domain Rods (Arms & Armor)]]"
 status: draft

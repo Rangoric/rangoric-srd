@@ -8,7 +8,6 @@ caster-level: 11
 prerequisites: "Craft Wondrous Item, eyebite"
 price: "30,000 gp"
 cost: "15,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Eyes of Eyebite|Eyes of Eyebite (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Eyes of Eyebite|Eyes of Eyebite (PF1 F)]]"

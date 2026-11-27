@@ -7,7 +7,6 @@ caster-level: 3
 prerequisites: "Forge Ring, anticipate peril, bullet shield, creator must have the grit class feature"
 price: "6,840 gp"
 cost: "3,420 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/rings/Ring of Grit Mastery|Ring of Grit Mastery (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Ring of Grit Mastery|Ring of Grit Mastery (PF1 F)]]"

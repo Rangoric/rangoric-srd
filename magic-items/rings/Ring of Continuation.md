@@ -7,7 +7,6 @@ caster-level: 7
 prerequisites: "Forge Ring, mnemonic enhancer"
 price: "56,000 gp"
 cost: "28,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/rings/Ring of Continuation|Ring of Continuation (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Ring of Continuation|Ring of Continuation (PF1 F)]]"

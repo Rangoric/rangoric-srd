@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, Scribe Scroll, creator must be able to cast
 price: "16,000 gp"
 cost: "8,000 gp"
 weight: "1 lb."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Spell Lattice|Spell Lattice (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Spell Lattice, 4th-Level|Spell Lattice, 4th-Level (PF1 F)]]"

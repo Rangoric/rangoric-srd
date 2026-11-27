@@ -8,7 +8,6 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, diminish plants"
 price: "800 gp"
 cost: "400 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Defoliant Polish|Defoliant Polish (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Defoliant Polish|Defoliant Polish (PF1 F)]]"

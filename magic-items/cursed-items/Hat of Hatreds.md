@@ -6,7 +6,6 @@ aura: "Moderate illusion"
 caster-level: 10
 intended-item: "hat of disguise"
 slot: "head"
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/cursed-items/Hat of Hatreds|Hat of Hatreds (PF1)]]"
   - "[[path srd 3.5 foundry/items/cursed/Hat of Hatreds|Hat of Hatreds (PF1 F)]]"

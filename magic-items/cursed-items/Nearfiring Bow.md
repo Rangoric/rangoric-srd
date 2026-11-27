@@ -5,7 +5,6 @@ item-type: "Cursed Item"
 aura: "Moderate divination"
 caster-level: 6
 intended-item: "+2 distance shortbow"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/cursed-items/Nearfiring Bow|Nearfiring Bow (PF1)]]"
   - "[[path srd 3.5 foundry/items/cursed/Nearfiring Bow|Nearfiring Bow (PF1 F)]]"

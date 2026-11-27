@@ -5,7 +5,6 @@ item-type: "Legendary Weapon"
 scion-class: "[[rangoric-srd/prestige-classes/Faith Scion|Faith Scion]]"
 aliases: ["Hammer of Dwarven Souls"]
 price: "21,812 gp"
-book: ["Unearthed Arcana", "Arms & Armor v3.5"]
 based-on:
   - "[[fantasy srd 3.5/unearthed-arcana/Legendary Weapons & Familiar Items#Hammer of the Dwarffather|Hammer of the Dwarffather (3.5)]]"
   - "[[individual books/Arms & Armor v3.5/legendary-weapons/Hammer of Dwarven Souls|Hammer of Dwarven Souls (Arms & Armor)]]"

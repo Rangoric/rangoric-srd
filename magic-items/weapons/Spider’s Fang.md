@@ -7,7 +7,6 @@ caster-level: 10
 prerequisites: "Craft Magic Arms and Armor, bleed, keen edge, ray of enfeeblement"
 price: "79,102 gp"
 cost: "39,702 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/specific-magic-weapons/Spider's Fang|Spider’s Fang (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Spider's Fang|Spider’s Fang (PF1 F)]]"

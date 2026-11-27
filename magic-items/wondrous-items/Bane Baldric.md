@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, summon monster I, creator must be an inquis
 price: "10,000 gp"
 cost: "5,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Bane Baldric|Bane Baldric (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Bane Baldric|Bane Baldric (PF1 F)]]"

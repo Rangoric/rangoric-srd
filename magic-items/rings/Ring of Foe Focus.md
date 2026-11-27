@@ -7,7 +7,6 @@ caster-level: 5
 prerequisites: "Forge Ring, shield"
 price: "10,000 gp"
 cost: "5,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/rings/Ring of Foe Focus|Ring of Foe Focus (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Ring of Foe Focus|Ring of Foe Focus (PF1 F)]]"

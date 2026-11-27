@@ -6,7 +6,6 @@ aura: "Moderate transmutation"
 caster-level: 8
 prerequisites: "Craft Magic Arms and Armor, fluid form"
 price: "+4,500 gp"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/armor-special-abilities/Amorphous|Amorphous (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Amorphous (Item)|Amorphous (PF1 F)]]"

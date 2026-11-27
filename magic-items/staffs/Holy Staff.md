@@ -9,7 +9,6 @@ price: "29,600 gp"
 cost: "14,800 gp"
 weight: "5 lbs."
 recharge: true
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/staves/Holy Staff|Holy Staff (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Holy Staff|Holy Staff (PF1 F)]]"

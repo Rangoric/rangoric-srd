@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, break enchantment, enervation, fear"
 price: "90,000 gp"
 cost: "45,000 gp"
 weight: "1 lb."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/wondrous/Shrunken Head|Shrunken Head (PF1 F)]]"
 status: draft

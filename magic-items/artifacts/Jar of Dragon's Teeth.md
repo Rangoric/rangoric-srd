@@ -5,7 +5,6 @@ item-type: "Major Artifact"
 aura: "Strong transmutation"
 caster-level: 20
 weight: "3 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/artifacts/Jar of Dragon's Teeth|Jar of Dragon's Teeth (PF1)]]"
   - "[[path srd 3.5 foundry/items/artifacts/Jar of Dragon's Teeth|Jar of Dragon's Teeth (PF1 F)]]"

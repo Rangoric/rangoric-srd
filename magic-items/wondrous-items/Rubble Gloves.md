@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, expeditious excavation"
 price: "8,000 gp"
 cost: "4,000 gp"
 weight: "1 lb."
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/featured-race/Rubble Gloves|Rubble Gloves (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Rubble Gloves|Rubble Gloves (PF1 F)]]"

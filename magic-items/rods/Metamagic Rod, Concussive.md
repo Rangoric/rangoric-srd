@@ -9,7 +9,6 @@ caster-level: 17
 prerequisites: "Craft Rod, Concussive Spell"
 price: "32,500 gp"
 cost: "16,250 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/rods/Concussive Metamagic Rod|Concussive Metamagic Rod (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Concussive Metamagic Rod|Metamagic Rod, Concussive (PF1 F)]]"

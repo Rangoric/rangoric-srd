@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, bestow curse"
 price: "9,000 gp"
 cost: "4,500 gp"
 weight: "1 lb."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/items/misc/Pugwampi Braid|Pugwampi Braid (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Pugwampi Braid|Pugwampi Braid (PF1 F)]]"

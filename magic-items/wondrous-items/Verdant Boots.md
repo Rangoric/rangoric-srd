@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, plant growth"
 price: "12,000 gp"
 cost: "6,000 gp"
 weight: "2 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Verdant Boots|Verdant Boots (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Verdant Boots|Verdant Boots (PF1 F)]]"

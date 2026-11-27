@@ -9,7 +9,6 @@ caster-level: 13
 prerequisites: "Craft Magic Arms and Armor, slay living"
 price: "124,437 gp"
 cost: "62,219 gp + 4,977 XP"
-book: "Arms & Armor v3.5"
 based-on:
   - "[[individual books/Arms & Armor v3.5/specific-weapons/Domain Rods|Domain Rods (Arms & Armor)]]"
 status: draft

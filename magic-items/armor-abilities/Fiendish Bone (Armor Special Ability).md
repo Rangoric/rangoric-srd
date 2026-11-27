@@ -9,7 +9,6 @@ aura: "Strong conjuration"
 caster-level: 12
 prerequisites: "Craft Magic Arms and Armor, gentle repose, planar ally"
 price: "+3 bonus"
-book: "Arms & Armor v3.5"
 based-on:
   - "[[individual books/Arms & Armor v3.5/armor-qualities/Bone, Fiendish|Bone, Fiendish (Arms & Armor)]]"
 status: draft

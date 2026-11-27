@@ -7,7 +7,6 @@ caster-level: 7
 prerequisites: "Forge Ring, bull's strength, ray of enfeeblement"
 price: "8,000 gp"
 cost: "4,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/rings/Ring of Strength Sapping|Ring of Strength Sapping (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Ring of Strength Sapping|Ring of Strength Sapping (PF1 F)]]"

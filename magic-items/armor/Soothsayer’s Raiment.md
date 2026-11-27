@@ -7,7 +7,6 @@ caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, augury, creator must be an oracle with the desired revelation"
 price: "10,300 gp"
 cost: "5,300 gp"
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/armor/Soothsayer's Raiment|Soothsayer’s Raiment (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Soothsayer's Raiment|Soothsayer’s Raiment (PF1 F)]]"

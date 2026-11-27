@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, eagle's splendor, fox's cunning, and/or owl
 price: "90,000 gp"
 cost: "45,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Headband of Mental Prowess|Headband of Mental Prowess (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Headband of Mental Prowess +6 (Int & Cha)|Headband of Mental Prowess +6 (Int & Cha) (PF1 F)]]"

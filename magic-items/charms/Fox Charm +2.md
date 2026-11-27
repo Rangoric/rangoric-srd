@@ -7,7 +7,6 @@ aliases:
 caster-level: 3
 prerequisites: "Craft Charms and Bracelets, fox’s cunning"
 price: "4,000 gp"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/charms/Fox|Fox (Faeries)]]"
 status: draft

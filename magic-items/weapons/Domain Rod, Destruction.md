@@ -9,7 +9,6 @@ caster-level: 14
 prerequisites: "Craft Magic Arms and Armor, disintegrate"
 price: "161,105 gp"
 cost: "80,553 gp + 6,444 XP"
-book: "Arms & Armor v3.5"
 based-on:
   - "[[individual books/Arms & Armor v3.5/specific-weapons/Domain Rods|Domain Rods (Arms & Armor)]]"
 status: draft

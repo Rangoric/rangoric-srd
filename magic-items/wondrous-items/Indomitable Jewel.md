@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, freedom of movement, thought shield I"
 price: "12,000 gp"
 cost: "6,000 gp"
 weight: "1 lb."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/wondrous/Indomitable Jewel|Indomitable Jewel (PF1 F)]]"
 status: draft

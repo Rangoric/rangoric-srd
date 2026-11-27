@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, good hope, rage, creator must have the bard
 price: "9,750 gp"
 cost: "4,875 gp"
 weight: "1 lb."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Poet's Cloak|Poet's Cloak (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Poet's Cloak|Poet's Cloak (PF1 F)]]"

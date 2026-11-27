@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, paragon surge, creator must be a half-elf"
 price: "10,000 gp"
 cost: "5,000 gp"
 weight: "1/2 lb."
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/core-race/Ancestral Clasp|Ancestral Clasp (PF1)]]"
 status: draft

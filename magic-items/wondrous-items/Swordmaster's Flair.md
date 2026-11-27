@@ -8,7 +8,6 @@ caster-level: 5
 prerequisites: "Blind-Fight, Craft Wondrous Item, Improved Trip, Lunge, Nimble Moves, good hope"
 price: "2,500 gp"
 cost: "1,250 gp"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Swordmaster's Flair|Swordmaster's Flair (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Swordmaster's Flair|Swordmaster's Flair (PF1 F)]]"

@@ -7,7 +7,6 @@ caster-level: 9
 prerequisites: "Craft Wondrous Item, creator must be a 3rd-level jewel mage"
 price: "24,000 gp"
 weight: "5 lb."
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/rules/Expanded Gem Descriptions|Expanded Gem Descriptions (Spells & Magic)]]"
 status: draft

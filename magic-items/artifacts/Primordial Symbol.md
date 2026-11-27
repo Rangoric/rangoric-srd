@@ -6,7 +6,6 @@ slot: "none"
 aura: "Strong abjuration"
 caster-level: 20
 weight: "1 lb."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/artifacts/Primordial Symbol|Primordial Symbol (PF1 F)]]"
 status: draft

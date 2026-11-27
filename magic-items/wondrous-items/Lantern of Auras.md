@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, detect magic, light"
 price: "2,000 gp"
 cost: "1,000 gp"
 weight: "2 lbs."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Lantern of Auras|Lantern of Auras (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Lantern of Auras|Lantern of Auras (PF1 F)]]"

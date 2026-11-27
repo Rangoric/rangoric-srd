@@ -8,7 +8,6 @@ caster-level: 3
 prerequisites: "Craft Wondrous Item, creator must have animal focus or wild shape class feature"
 price: "6,500 gp"
 weight: "2 lb."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Aspect Mask|Aspect Mask (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Aspect Mask|Aspect Mask (PF1 Foundry)]]"

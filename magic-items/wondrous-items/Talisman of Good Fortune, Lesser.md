@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, good hope"
 price: "1,680 gp"
 cost: "840 gp"
 weight: "1 lb."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/wondrous/Talisman of Good Fortune, Lesser|Talisman of Good Fortune, Lesser (PF1 F)]]"
 status: draft

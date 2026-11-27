@@ -9,7 +9,6 @@ price: "13,100 gp"
 cost: "6,700 gp"
 weight: "3 lbs."
 recharge: true
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/staves/Ember Staff|Ember Staff (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Ember Staff|Ember Staff (PF1 F)]]"

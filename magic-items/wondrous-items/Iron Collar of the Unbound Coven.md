@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, Craft (leather) 4 ranks, alter self, hold p
 price: "46,000 gp"
 cost: "23,000 gp"
 weight: "2 lbs."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Iron Collar of the Unbound Coven|Iron Collar of the Unbound Coven (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Iron Collar of the Unbound Coven|Iron Collar of the Unbound Coven (PF1 F)]]"

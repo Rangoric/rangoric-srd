@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, shrink item, wall of iron"
 price: "7,000 gp"
 cost: "3,500 gp"
 weight: "5 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Instant Bridge|Instant Bridge (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Instant Bridge|Instant Bridge (PF1 F)]]"

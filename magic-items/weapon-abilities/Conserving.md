@@ -6,7 +6,6 @@ aura: "Moderate conjuration"
 caster-level: 7
 prerequisites: "Craft Magic Arms and Armor, abundant ammunition, dimension door"
 price: "+1 bonus"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/weapon-special-abilities/Conserving|Conserving (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Conserving|Conserving (PF1 F)]]"

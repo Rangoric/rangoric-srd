@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, cause fear"
 price: "5,000 gp"
 cost: "2,500 gp"
 weight: "4 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Helm of Fearsome Mien|Helm of Fearsome Mien (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Helm of Fearsome Mien|Helm of Fearsome Mien (PF1 F)]]"

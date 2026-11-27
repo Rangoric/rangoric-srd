@@ -6,7 +6,6 @@ aura: "Moderate transmutation"
 caster-level: 8
 prerequisites: "Craft Magic Arms and Armor, heroism, creator must be a panache user"
 price: "+1 bonus"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/weapon-special-abilities/Flamboyant|Flamboyant (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Flamboyant|Flamboyant (PF1 F)]]"

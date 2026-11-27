@@ -6,7 +6,6 @@ aura: "Moderate conjuration and necromancy [evil]"
 caster-level: 12
 prerequisites: "Craft Magic Arms and Armor, ability to channel energy, cure light wounds, inflict light wounds"
 price: "62,501 gp"
-book: "Arms & Armor v3.5"
 based-on:
   - "[[individual books/Arms & Armor v3.5/specific-weapons/Whip of Life and Death|Whip of Life and Death (Arms & Armor)]]"
 status: draft

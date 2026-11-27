@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, bull's strength, enlarge person"
 price: "4,000 gp"
 cost: "2,000 gp"
 weight: "2 lbs."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/items/misc/Irongrip Gauntlets|Irongrip Gauntlets (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Irongrip Gauntlets|Irongrip Gauntlets (PF1 F)]]"

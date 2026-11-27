@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, stoneskin"
 price: "20,000 gp"
 cost: "10,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Stone Cloak, Major|Stone Cloak, Major (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Stone Cloak, Major|Stone Cloak, Major (PF1 F)]]"

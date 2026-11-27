@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, cat's grace"
 price: "800 gp"
 cost: "400 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Belt of Tumbling|Belt of Tumbling (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Belt of Tumbling|Belt of Tumbling (PF1 F)]]"

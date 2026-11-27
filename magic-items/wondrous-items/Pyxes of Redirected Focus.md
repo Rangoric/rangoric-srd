@@ -8,7 +8,6 @@ caster-level: 9
 prerequisites: "Craft Wondrous Item, prayer"
 price: "1,000 gp"
 cost: "500 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Pyxes of Redirected Focus|Pyxes of Redirected Focus (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Pyxes of Redirected Focus|Pyxes of Redirected Focus (PF1 F)]]"

@@ -5,7 +5,6 @@ item-type: "Cursed Item"
 aura: "Moderate enchantment"
 caster-level: 10
 intended-item: "pipes of haunting, pipes of the sewers, pipes of sounding"
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/cursed-items/Riot Pipes|Riot Pipes (PF1)]]"
   - "[[path srd 3.5 foundry/items/cursed/Riot Pipes|Riot Pipes (PF1 F)]]"

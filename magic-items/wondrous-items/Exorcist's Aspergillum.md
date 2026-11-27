@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, Ectoplasmic Spell, detect undead, creator m
 price: "8,000 gp"
 cost: "4,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Exorcist's Aspergillum|Exorcist's Aspergillum (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Exorcist's Aspergillum|Exorcist's Aspergillum (PF1 F)]]"

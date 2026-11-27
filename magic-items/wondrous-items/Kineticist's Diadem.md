@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, creator must be a 10th-level kineticist wit
 price: "50,000 gp"
 cost: "25,000 gp"
 weight: "—"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/wondrous/Kineticist's Diadem|Kineticist's Diadem (PF1 F)]]"
 status: draft

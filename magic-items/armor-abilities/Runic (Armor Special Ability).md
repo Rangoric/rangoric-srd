@@ -7,7 +7,6 @@ aliases:
 caster-level: 14
 prerequisites: "Craft Magic Arms and Armor, Eihwaz rune"
 price: "+3 bonus"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/magic-items/Runic Armor|Runic Armor (Spells & Magic)]]"
   - "[[individual books/Arms & Armor v3.5/armor-qualities/Runic|Runic (Arms & Armor)]]"

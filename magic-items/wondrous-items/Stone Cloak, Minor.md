@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, stone shape"
 price: "10,000 gp"
 cost: "5,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Stone Cloak, Minor|Stone Cloak, Minor (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Stone Cloak, Minor|Stone Cloak, Minor (PF1 F)]]"

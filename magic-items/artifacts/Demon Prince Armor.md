@@ -5,7 +5,6 @@ item-type: "Major Artifact"
 aura: "Overwhelming necromancy"
 caster-level: 22
 weight: "80 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/artifacts/Demon Prince Armor|Demon Prince Armor (PF1)]]"
   - "[[path srd 3.5 foundry/items/artifacts/Demon Prince Armor|Demon Prince Armor (PF1 F)]]"

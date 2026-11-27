@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, shrink item, creator must have 5 ranks in C
 price: "8,000 gp"
 cost: "4,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Needles of Fleshgraving|Needles of Fleshgraving (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Needles of Fleshgraving|Needles of Fleshgraving (PF1 F)]]"

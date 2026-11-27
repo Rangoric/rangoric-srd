@@ -8,7 +8,6 @@ caster-level: 13
 prerequisites: "Craft Wondrous Item, instant summons"
 price: "1,000 gp"
 cost: "500 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Bookplate of Recall|Bookplate of Recall (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Bookplate of Recall|Bookplate of Recall (PF1 F)]]"

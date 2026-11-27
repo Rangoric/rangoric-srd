@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, heal"
 price: "800 gp"
 cost: "400 gp"
 weight: "—"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/wondrous/Spirit Revivification Incense|Spirit Revivification Incense (PF1 F)]]"
 status: draft

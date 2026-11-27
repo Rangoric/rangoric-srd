@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, shield"
 price: "200 gp"
 cost: "100 gp"
 weight: "3 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Catching Cape|Catching Cape (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Catching Cape|Catching Cape (PF1 F)]]"

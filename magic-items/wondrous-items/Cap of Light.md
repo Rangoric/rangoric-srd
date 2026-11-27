@@ -8,7 +8,6 @@ caster-level: 1
 prerequisites: "Craft Wondrous Item, light"
 price: "900 gp"
 cost: "450 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Cap of Light|Cap of Light (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Cap of Light|Cap of Light (PF1 F)]]"

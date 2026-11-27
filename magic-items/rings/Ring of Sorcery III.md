@@ -5,7 +5,6 @@ item-type: "Ring"
 caster-level: 18
 prerequisites: "Forge Ring, limited wish (Sorcery I–Sorcery III)"
 price: "65,000 gp"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/magic-items/Sorcery|Sorcery (Spells & Magic)]]"
 status: draft

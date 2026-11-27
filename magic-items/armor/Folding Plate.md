@@ -7,7 +7,6 @@ caster-level: 10
 prerequisites: "Craft Magic Arms and Armor, instant summons"
 price: "12,650 gp"
 cost: "7,650 gp"
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/armor/Folding Plate|Folding Plate (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Folding Plate|Folding Plate (PF1 F)]]"

@@ -7,7 +7,6 @@ caster-level: 7
 prerequisites: "Forge Ring, creator must be able to cast spells of the spell level to be granted"
 price: "13,500 gp"
 cost: "6,750 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/rings/Ring of Spell Knowledge|Ring of Spell Knowledge (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Ring of Spell Knowledge Type III|Ring of Spell Knowledge III (PF1 F)]]"

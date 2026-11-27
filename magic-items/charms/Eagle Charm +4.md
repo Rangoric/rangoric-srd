@@ -5,7 +5,6 @@ item-type: "Charm"
 caster-level: 6
 prerequisites: "Craft Charms and Bracelets, eagle’s splendor"
 price: "16,000 gp"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/charms/Eagle|Eagle (Faeries)]]"
 status: draft

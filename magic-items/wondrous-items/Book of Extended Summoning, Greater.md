@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, Extend Spell, summon monster I"
 price: "6,126 gp"
 cost: "3,063 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Book of Extended Summoning|Book of Extended Summoning (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Book of Extended Summoning, Greater|Book of Extended Summoning, Greater (PF1 F)]]"

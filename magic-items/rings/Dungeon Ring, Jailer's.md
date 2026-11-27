@@ -9,7 +9,6 @@ caster-level: 8
 prerequisites: "Forge Ring, scrying, status"
 price: "16,000 gp"
 cost: "8,000 gp"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/items/rings/Dungeon Ring|Dungeon Ring (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Dungeon Ring, Jailer's|Dungeon Ring, Jailer's (PF1 F)]]"

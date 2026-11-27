@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, compel hostility, creator must have 5 ranks
 price: "7,000 gp"
 cost: "3,500 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Cape of Bravado|Cape of Bravado (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Cape of Bravado|Cape of Bravado (PF1 F)]]"

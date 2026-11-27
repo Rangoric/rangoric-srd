@@ -8,7 +8,6 @@ caster-level: 8
 prerequisites: "Craft Wondrous Item, Extend Spell, fly"
 price: "81,000 gp"
 cost: "40,500 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Headband of Aerial Agility|Headband of Aerial Agility (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Headband of Aerial Agility +6|Headband of Aerial Agility +6 (PF1 F)]]"

@@ -14,7 +14,6 @@ ego: 14
 alignment: "neutral"
 senses: "120 ft., darkvision"
 language: "telepathy (Aklo, Common, and Elven)"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/intelligent-items/Armor of the Shadow Lord|Armor of the Shadow Lord (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Armor of the Shadow Lord|Armor of the Shadow Lord (PF1 F)]]"

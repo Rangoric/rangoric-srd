@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, antilife shell"
 price: "1,500 gp"
 cost: "750 gp"
 weight: "1 lb."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/wondrous/Candle of Spirit Protection|Candle of Spirit Protection (PF1 F)]]"
 status: draft

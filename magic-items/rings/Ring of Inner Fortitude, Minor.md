@@ -9,7 +9,6 @@ caster-level: 7
 prerequisites: "Forge Ring, restoration"
 price: "18,000 gp"
 cost: "9,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/rings/Ring of Inner Fortitude|Ring of Inner Fortitude (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Ring of Inner Fortitude, Minor|Ring of Inner Fortitude, Minor (PF1 F)]]"

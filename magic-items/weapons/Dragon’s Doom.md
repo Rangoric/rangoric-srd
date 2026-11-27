@@ -7,7 +7,6 @@ caster-level: 8
 prerequisites: "Craft Magic Arms and Armor, discern location, light, summon monster I"
 price: "40,310 gp"
 cost: "20,310 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/specific-magic-weapons/Dragon's Doom|Dragon’s Doom (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Dragon's Doom|Dragon’s Doom (PF1 F)]]"

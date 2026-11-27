@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, grease, squeeze"
 price: "3,000 gp"
 cost: "1,500 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/uncommon-race/Corset of the Vishkanya|Corset of the Vishkanya (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Corset of the Vishkanya|Corset of the Vishkanya (PF1 F)]]"

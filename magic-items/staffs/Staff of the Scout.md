@@ -9,7 +9,6 @@ price: "9,600 gp"
 cost: "4,800 gp"
 weight: "4 lbs."
 recharge: true
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/staves/Staff of the Scout|Staff of the Scout (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Staff of the Scout|Staff of the Scout (PF1 F)]]"

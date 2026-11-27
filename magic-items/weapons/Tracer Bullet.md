@@ -6,7 +6,6 @@ aura: "Faint evocation"
 caster-level: 2
 prerequisites: "Craft Magic Arms and Armor, faerie fire"
 price: "100 gp"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/items/firearms/Tracer Bullet|Tracer Bullet (PF1)]]"
 status: draft

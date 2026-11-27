@@ -8,7 +8,6 @@ caster-level: 1
 prerequisites: "Craft Wondrous Item, keen senses"
 price: "6,000 gp"
 cost: "3,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Eyes of Keen Sight|Eyes of Keen Sight (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Eyes of Keen Sight|Eyes of Keen Sight (PF1 F)]]"

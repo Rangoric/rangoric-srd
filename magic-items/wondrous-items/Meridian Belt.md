@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, polymorph"
 price: "1,000 gp"
 cost: "500 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/uncommon-race/Meridian Belt|Meridian Belt (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Meridian Belt|Meridian Belt (PF1 F)]]"

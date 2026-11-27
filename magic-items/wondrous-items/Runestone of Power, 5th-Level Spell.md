@@ -8,7 +8,6 @@ caster-level: 17
 prerequisites: "Craft Wondrous Item, creator must be able to spontaneously cast spells of the appropriate spell level"
 price: "50,000 gp"
 cost: "25,000 gp"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Runestone of Power|Runestone of Power (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Runestone of Power, 5th-Level|Runestone of Power, 5th-Level (PF1 F)]]"

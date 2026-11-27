@@ -7,7 +7,6 @@ caster-level: 9
 prerequisites: "Craft Rod, cure moderate wounds, grove of respite, lesser restoration"
 price: "16,650 gp"
 cost: "8,325 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/rods/Sapling Rod|Sapling Rod (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Sapling Rod|Sapling Rod (PF1 F)]]"

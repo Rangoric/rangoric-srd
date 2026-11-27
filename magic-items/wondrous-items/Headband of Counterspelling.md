@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, spell turning"
 price: "20,000 gp"
 cost: "10,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/headband of counterspelling|Headband of Counterspelling (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Headband of Counterspelling|Headband of Counterspelling (PF1 F)]]"

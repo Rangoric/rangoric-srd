@@ -6,7 +6,6 @@ aura: "Moderate transmutation"
 caster-level: 10
 prerequisites: "Craft Magic Arms and Armor, righteous might"
 price: "+27,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/rules/ultimate-equipment/magic-arms-and-armor/Armor Special Abilities#Righteous|Righteous (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Righteous|Righteous (PF1 F)]]"

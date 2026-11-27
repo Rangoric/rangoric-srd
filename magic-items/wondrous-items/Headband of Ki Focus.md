@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, creator must have a ki pool"
 price: "5,400 gp"
 cost: "2,700 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Headband of KI Focus|Headband of Ki Focus (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Headband of Ki Focus|Headband of Ki Focus (PF1 F)]]"

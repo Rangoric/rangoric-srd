@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, goodberry, tree shape"
 price: "6,000 gp"
 cost: "3,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Treeform Cloak|Treeform Cloak (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Treeform Cloak|Treeform Cloak (PF1 F)]]"

@@ -8,7 +8,6 @@ caster-level: 3
 prerequisites: "Craft Wondrous Item, zone of truth"
 price: "6,800 gp"
 cost: "3,400 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Inquisitor's Monocle|Inquisitor's Monocle (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Inquisitor's Monocle|Inquisitor's Monocle (PF1 F)]]"

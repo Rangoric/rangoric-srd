@@ -7,7 +7,6 @@ aliases:
 caster-level: 3
 prerequisites: "Craft Charms and Bracelets, shield of faith"
 price: "8,000 gp"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/charms/Scale|Scale (Faeries)]]"
 status: draft

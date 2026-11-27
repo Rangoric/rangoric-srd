@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, heroes' feast, the creator must have at lea
 price: "28,800 gp"
 cost: "14,400 gp"
 weight: "3 lbs."
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/core-race/Book of Marvelous Recipes|Book of Marvelous Recipes (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Book of Marvelous Recipes|Book of Marvelous Recipes (PF1 F)]]"

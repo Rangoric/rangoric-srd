@@ -8,7 +8,6 @@ prerequisites: "Craft Magic Arms and Armor, Maximize Spell, ray of enfeeblement,
 price: "23,310 gp"
 cost: "11,810 gp"
 weight: "6 lbs."
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/weapons/Undercutting Axe|Undercutting Axe (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Undercutting Axe|Undercutting Axe (PF1 F)]]"

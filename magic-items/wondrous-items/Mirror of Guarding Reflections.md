@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, mirror image"
 price: "7,000 gp"
 cost: "3,500 gp"
 weight: "4 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Mirror of Guarding Reflections|Mirror of Guarding Reflections (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Mirror of Guarding Reflections|Mirror of Guarding Reflections (PF1 F)]]"

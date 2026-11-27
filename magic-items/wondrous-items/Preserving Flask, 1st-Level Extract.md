@@ -10,7 +10,6 @@ caster-level: 17
 prerequisites: "Craft Wondrous Item, creator must be able to create alchemical extracts of the extract level to be stored"
 price: "1,000 gp"
 cost: "500 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Preserving Flask|Preserving Flask (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Preserving Flask 1st-level|Preserving Flask 1st-level (PF1 F)]]"

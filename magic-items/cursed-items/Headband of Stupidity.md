@@ -6,7 +6,6 @@ aura: "Strong transmutation"
 caster-level: 8
 intended-item: "headband of vast intelligence +4"
 slot: "headband"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/cursed-items/Headband of Stupidity|Headband of Stupidity (PF1)]]"
   - "[[path srd 3.5 foundry/items/cursed/Headband of Stupidity|Headband of Stupidity (PF1 F)]]"

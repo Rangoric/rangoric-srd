@@ -7,7 +7,6 @@ caster-level: 9
 prerequisites: "Craft Magic Arms and Armor, fabricate"
 price: "10,650 gp"
 cost: "6,150 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/specific-magic-armor-and-shields/Equestrian Plate|Equestrian Plate (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Equestrian Plate|Equestrian Plate (PF1 F)]]"

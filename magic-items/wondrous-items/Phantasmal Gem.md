@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, creator must be a gnome or a wizard special
 price: "4,000 gp"
 cost: "2,000 gp"
 weight: "1 lb."
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/core-race/Phantasmal Gem|Phantasmal Gem (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Phantasmal Gem|Phantasmal Gem (PF1 F)]]"

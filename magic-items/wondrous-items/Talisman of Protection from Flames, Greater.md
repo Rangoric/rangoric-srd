@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, protection from energy"
 price: "12,500 gp"
 cost: "6,250 gp"
 weight: "1 lb."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/wondrous/Talisman of Protection From Flames, Greater|Talisman of Protection From Flames, Greater (PF1 F)]]"
 status: draft

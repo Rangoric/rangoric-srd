@@ -7,7 +7,6 @@ caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, bless water, create water"
 price: "7,805 gp"
 cost: "3,905 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/specific-magic-weapons/Everflowing Aspergillum|Everflowing Aspergillum (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Everflowing Aspergillum|Everflowing Aspergillum (PF1 F)]]"

@@ -5,7 +5,6 @@ item-type: "Minor Artifact"
 aura: "Strong (all schools)"
 caster-level: 20
 weight: "2 lbs."
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/artifacts/Beacon of True Faith|Beacon of True Faith (PF1)]]"
   - "[[path srd 3.5 foundry/items/artifacts/Beacon of True Faith|Beacon of True Faith (PF1 F)]]"

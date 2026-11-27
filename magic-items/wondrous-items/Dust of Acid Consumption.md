@@ -8,7 +8,6 @@ caster-level: 10
 prerequisites: "Craft Wondrous Item, control water, disintegrate"
 price: "1,600 gp"
 cost: "800 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Dust of Acid Consumption|Dust of Acid Consumption (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Dust of Acid Consumption|Dust of Acid Consumption (PF1 F)]]"

@@ -7,7 +7,6 @@ caster-level: 18
 cr-increase: "none"
 prerequisites: "Craft Construct, trap the soul, gem worth 20,000 gp to serve as the rune's focus"
 cost: "57,600 gp"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/items/building-and-modifying-constructs/Rune of Imprisonment|Rune of Imprisonment (PF1)]]"
 status: draft

@@ -22,7 +22,6 @@ What the notes in `magic-items` look like. The whole-SRD rules are in the [READM
 | `prerequisites` | no       | `text`        |
 | `caster-level`  | no       | `number`      |
 | `aura`          | no       | `text`        |
-| `book`          | no       |               |
 | `cost`          | no       | `text`        |
 | `slot`          | no       | `text`        |
 | `weight`        | no       | `text`        |
@@ -37,7 +36,6 @@ Headings, in order:
 | ---------- | -------- | ------------- |
 | `srd-type` | yes      | `overview`    |
 | `section`  | yes      | `Magic Items` |
-| `book`     | no       | `text`        |
 
 ## rule
 
@@ -56,7 +54,6 @@ Headings, in order:
 | ---------- | -------- | ------------- |
 | `srd-type` | yes      | `rules`       |
 | `section`  | yes      | `Magic Items` |
-| `book`     | yes      | `text`        |
 
 Headings, in order:
 

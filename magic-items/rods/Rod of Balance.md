@@ -7,7 +7,6 @@ caster-level: 5
 prerequisites: "Craft Rod, cat's grace, feather fall, jump"
 price: "15,000 gp"
 cost: "7,500 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/rods/Rod of Balance|Rod of Balance (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Rod of Balance|Rod of Balance (PF1 F)]]"

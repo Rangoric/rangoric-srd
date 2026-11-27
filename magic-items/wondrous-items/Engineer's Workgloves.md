@@ -8,7 +8,6 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, creator must have 5 ranks in Engineering"
 price: "3,000 gp"
 cost: "1,500 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Engineer's Workgloves|Engineer's Workgloves (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Engineer's Workgloves|Engineer's Workgloves (PF1 F)]]"

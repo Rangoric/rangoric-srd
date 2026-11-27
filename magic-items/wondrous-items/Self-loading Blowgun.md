@@ -7,7 +7,6 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, secret chest"
 price: "2,000 gp"
 weight: "1 lb"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/magic-items/Self-loading Blowgun|Self-loading Blowgun (Faeries)]]"
 status: draft

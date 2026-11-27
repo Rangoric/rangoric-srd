@@ -5,7 +5,6 @@ item-type: "Cursed Item"
 aura: "Strong conjuration"
 caster-level: 13
 intended-item: "monster almanac"
-book: "Horror Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/cursed/Book of Perilous Journeys|Book of Perilous Journeys (PF1 F)]]"
 status: draft

@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, bestow curse, entropic shield, creator must
 price: "12,000 gp"
 cost: "6,000 gp"
 weight: "1 lb."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Amulet of the Spirits|Amulet of the Spirits (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Amulet of the Spirits, Battle|Amulet of the Spirits, Battle (PF1 F)]]"

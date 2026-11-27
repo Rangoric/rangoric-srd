@@ -5,7 +5,6 @@ item-type: "Cursed Item"
 aura: "Faint transmutation"
 caster-level: 5
 intended-item: "drums of haste"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/cursed-items/Drums of Lethargy|Drums of Lethargy (PF1)]]"
   - "[[path srd 3.5 foundry/items/cursed/Drums of Lethargy|Drums of Lethargy (PF1 F)]]"

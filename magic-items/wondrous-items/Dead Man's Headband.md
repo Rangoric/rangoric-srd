@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, doom, shrink item"
 price: "3,600 gp"
 cost: "1,800 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Dead Man's Headband|Dead Man's Headband (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Dead Man's Headband|Dead Man's Headband (PF1 F)]]"

@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, bear's endurance, cat's grace, neutralize p
 price: "11,200 gp"
 cost: "5,600 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Plague Rat Belt, Greater|Plague Rat Belt, Greater (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Plague Rat Belt, Greater|Plague Rat Belt, Greater (PF1 F)]]"

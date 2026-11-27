@@ -7,7 +7,6 @@ caster-level: 3
 prerequisites: "Forge Ring, comprehend languages"
 price: "3,500 gp"
 cost: "1,750 gp"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/rings/Ring of Eloquence|Ring of Eloquence (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Ring of Eloquence|Ring of Eloquence (PF1 F)]]"

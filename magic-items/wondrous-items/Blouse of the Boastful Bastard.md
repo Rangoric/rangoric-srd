@@ -8,7 +8,6 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, guidance, prestidigitation, resistance"
 price: "8,000 gp"
 cost: "4,000 gp"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Blouse of the Boastful Bastard|Blouse of the Boastful Bastard (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Blouse of the Boastful Bastard|Blouse of the Boastful Bastard (PF1 F)]]"

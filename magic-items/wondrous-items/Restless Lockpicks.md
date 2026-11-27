@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, knock, mage hand"
 price: "8,000 gp"
 cost: "4,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Restless Lockpicks|Restless Lockpicks (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Restless Lockpicks|Restless Lockpicks (PF1 F)]]"

@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, dimensional anchor, ghostbane dirge"
 price: "1,400 gp"
 cost: "700 gp"
 weight: "1/2 lb."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/wondrous/Incense of Corporeality|Incense of Corporeality (PF1 F)]]"
 status: draft

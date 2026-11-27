@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, clairaudience/clairvoyance, darkvision, cre
 price: "18,000 gp"
 cost: "9,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/featured-race/Cat's Eye Crown|Cat's Eye Crown (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Cat's Eye Crown|Cat's Eye Crown (PF1 F)]]"

@@ -5,7 +5,6 @@ item-type: "Cursed Item"
 aura: "Strong conjuration and illusion"
 caster-level: 13
 intended-item: "anatomy doll, ganji doll, hexing doll"
-book: "Horror Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/cursed/Needful Doll|Needful Doll (PF1 F)]]"
 status: draft

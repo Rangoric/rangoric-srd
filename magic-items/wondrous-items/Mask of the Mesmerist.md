@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, aversion, focused scrutiny"
 price: "25,000 gp"
 cost: "12,500 gp"
 weight: "4 lb."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/wondrous/Mask of the Mesmerist|Mask of the Mesmerist (PF1 F)]]"
 status: draft

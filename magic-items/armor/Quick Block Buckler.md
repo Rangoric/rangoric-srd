@@ -7,7 +7,6 @@ caster-level: 14
 prerequisites: "Craft Magic Arms and Armor, shield"
 price: "36,155 gp"
 cost: "18,155 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/specific-magic-armor-and-shields/Quick Block Buckler|Quick Block Buckler (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Quick Block Buckler|Quick Block Buckler (PF1 F)]]"

@@ -5,7 +5,6 @@ item-type: "Cursed Item"
 aura: "Moderate enchantment"
 caster-level: 10
 intended-item: "+1 undead controlling studded leather"
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/cursed-items/Gravesoul Armor|Gravesoul Armor (PF1)]]"
   - "[[path srd 3.5 foundry/items/cursed/Gravesoul Armor|Gravesoul Armor (PF1 F)]]"

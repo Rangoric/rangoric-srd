@@ -6,7 +6,6 @@ aura: "Faint transmutation"
 caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, effortless armor"
 price: "+4,000 gp"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/armor-special-abilities/Burdenless|Burdenless (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Burdenless|Burdenless (PF1 F)]]"

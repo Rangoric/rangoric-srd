@@ -6,7 +6,6 @@ aura: "Strong necromancy"
 caster-level: 12
 prerequisites: "Craft Magic Arms and Armor, ray of exhaustion"
 price: "+3 bonus"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/weapon-special-abilities/Exhausting|Exhausting (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Exhausting|Exhausting (PF1 F)]]"

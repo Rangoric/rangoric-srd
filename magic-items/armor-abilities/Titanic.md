@@ -6,7 +6,6 @@ aura: "Moderate transmutation"
 caster-level: 7
 prerequisites: "Craft Magic Arms and Armor, enlarge person"
 price: "+3 bonus"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/rules/ultimate-equipment/magic-arms-and-armor/Armor Special Abilities#Titanic|Titanic (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Titanic|Titanic (PF1 F)]]"

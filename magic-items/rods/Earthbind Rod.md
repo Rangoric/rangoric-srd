@@ -7,7 +7,6 @@ caster-level: 6
 prerequisites: "Craft Rod, stone shape"
 price: "26,500 gp"
 cost: "13,250 gp"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/featured-race/Earthbind Rod|Earthbind Rod (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Earthbind Rod|Earthbind Rod (PF1 F)]]"

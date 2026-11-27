@@ -8,7 +8,6 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, disintegrate"
 price: "750 gp"
 cost: "375 gp"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Assassin's Dust|Assassin's Dust (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Assassin's Dust|Assassin's Dust (PF1 F)]]"

@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, countless eyes"
 price: "15,000 gp"
 cost: "7,500 gp"
 weight: "2 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Arachnid Goggles|Arachnid Goggles (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Arachnid Goggles|Arachnid Goggles (PF1 F)]]"

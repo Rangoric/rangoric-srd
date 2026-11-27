@@ -8,7 +8,6 @@ caster-level: 6
 prerequisites: "Craft Wondrous Item, alter self"
 price: "6,000 gp"
 cost: "3,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Coin of the Untrodden Road|Coin of the Untrodden Road (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Coin of the Untrodden Road|Coin of the Untrodden Road (PF1 F)]]"

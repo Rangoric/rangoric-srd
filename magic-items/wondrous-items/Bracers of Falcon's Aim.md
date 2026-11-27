@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, aspect of the falcon"
 price: "4,000 gp"
 cost: "2,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Bracers of Falcon's Aim|Bracers of Falcon's Aim (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Bracers of Falcon's Aim|Bracers of Falcon's Aim (PF1 F)]]"

@@ -5,7 +5,6 @@ item-type: "Cursed Item"
 aura: "Moderate evocation"
 caster-level: 8
 intended-item: "+2 returning throwing axe"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/cursed-items/Deadly Returns Throwing Axe|Deadly Returns Throwing Axe (PF1)]]"
   - "[[path srd 3.5 foundry/items/cursed/Deadly Returns Throwing Axe|Deadly Returns Throwing Axe (PF1 F)]]"

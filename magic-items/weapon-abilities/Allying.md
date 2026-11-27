@@ -6,7 +6,6 @@ aura: "Faint transmutation"
 caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, magic weapon"
 price: "+1 bonus"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/weapon-special-abilities/Allying|Allying (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Allying|Allying (PF1 F)]]"

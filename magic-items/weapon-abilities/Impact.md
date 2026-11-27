@@ -6,7 +6,6 @@ aura: "Moderate transmutation"
 caster-level: 9
 prerequisites: "Craft Magic Arms and Armor, bull's strength, lead blades, righteous might or giant form I"
 price: "+2 bonus"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/weapon-special-abilities/Impact|Impact (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Impact|Impact (PF1 F)]]"

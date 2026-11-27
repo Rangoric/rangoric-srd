@@ -7,7 +7,6 @@ caster-level: 17
 prerequisites: "Craft Rod, Furious Spell"
 price: "11,000 gp"
 cost: "5,500 gp"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/gear/Furious Metamagic Rod|Furious Metamagic Rod (PF1 F)]]"
 status: draft

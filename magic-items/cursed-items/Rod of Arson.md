@@ -5,7 +5,6 @@ item-type: "Cursed Item"
 aura: "Strong evocation"
 caster-level: 12
 intended-item: "rod of flame extinguishing"
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/cursed-items/Rod of Arson|Rod of Arson (PF1)]]"
   - "[[path srd 3.5 foundry/items/cursed/Rod of Arson|Rod of Arson (PF1 F)]]"

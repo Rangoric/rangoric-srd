@@ -9,7 +9,6 @@ price: "20,000 gp"
 cost: "10,000 gp"
 weight: "5 lbs."
 recharge: true
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/staves/Staff of Belittling|Staff of Belittling (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Staff of Belittling|Staff of Belittling (PF1 F)]]"

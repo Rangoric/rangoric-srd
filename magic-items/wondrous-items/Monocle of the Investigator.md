@@ -8,7 +8,6 @@ caster-level: 11
 prerequisites: "Craft Wondrous Item, legend lore, vision"
 price: "66,000 gp"
 cost: "33,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Monocle of the Investigator|Monocle of the Investigator (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Monocle of the Investigator|Monocle of the Investigator (PF1 F)]]"

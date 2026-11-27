@@ -6,7 +6,6 @@ aura: "Faint transmutation"
 caster-level: 1
 prerequisites: "Craft Magic Arms and Armor, warp wood"
 price: "+1,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/weapon-special-abilities/Adaptive|Adaptive (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Adaptive|Adaptive (PF1 F)]]"

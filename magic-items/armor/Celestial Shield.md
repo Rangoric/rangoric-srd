@@ -7,7 +7,6 @@ caster-level: 7
 prerequisites: "Craft Magic Arms and Armor, feather fall, overland flight"
 price: "13,170 gp"
 cost: "6,670 gp"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/featured-race/Celestial Shield|Celestial Shield (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Celestial Shield|Celestial Shield (PF1 F)]]"

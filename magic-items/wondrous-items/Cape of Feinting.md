@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, daze, creator must be able to perform the s
 price: "14,000 gp"
 cost: "7,000 gp"
 weight: "1 lb."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Cape of Feinting|Cape of Feinting (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Cape of Feinting|Cape of Feinting (PF1 F)]]"

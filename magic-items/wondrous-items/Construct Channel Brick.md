@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, make whole"
 price: "10,000 gp"
 cost: "5,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Construct Channel Brick|Construct Channel Brick (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Construct Channel Brick|Construct Channel Brick (PF1 F)]]"

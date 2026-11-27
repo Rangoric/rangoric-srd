@@ -5,7 +5,6 @@ item-type: "Charm"
 caster-level: 10
 prerequisites: "Craft Charms and Bracelets, bear’s endurance"
 price: "36,000 gp"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/charms/Horse|Horse (Faeries)]]"
 status: draft

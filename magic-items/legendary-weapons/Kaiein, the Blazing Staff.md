@@ -5,7 +5,6 @@ item-type: "Legendary Weapon"
 scion-class: "[[rangoric-srd/prestige-classes/Spell Scion|Spell Scion]]"
 aliases: ["Hellspawn, the Burning Staff"]
 price: "24,600 gp"
-book: ["Unearthed Arcana", "Arms & Armor v3.5"]
 based-on:
   - "[[fantasy srd 3.5/unearthed-arcana/Legendary Weapons & Familiar Items#Kaiein, the Blazing Staff|Kaiein, the Blazing Staff (3.5)]]"
   - "[[individual books/Arms & Armor v3.5/legendary-weapons/Hellspawn, the Burning Staff|Hellspawn, the Burning Staff (Arms & Armor)]]"

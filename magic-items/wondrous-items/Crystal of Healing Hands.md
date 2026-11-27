@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, cure light wounds, creator must be a paladi
 price: "12,000 gp"
 cost: "6,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Crystal of Healing Hands|Crystal of Healing Hands (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Crystal of Healing Hands|Crystal of Healing Hands (PF1 F)]]"

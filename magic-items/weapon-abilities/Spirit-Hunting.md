@@ -6,7 +6,6 @@ aura: "Moderate conjuration"
 caster-level: 8
 prerequisites: "Craft Magic Arms and Armor, summon nature's ally I"
 price: "+1 bonus"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/weapon-special-abilities/Spirit-Hunting|Spirit-Hunting (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Spirit-Hunting|Spirit-Hunting (PF1 F)]]"

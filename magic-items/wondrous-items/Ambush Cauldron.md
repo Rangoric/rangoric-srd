@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, pass without trace"
 price: "28,000 gp"
 cost: "14,000 gp"
 weight: "60 lbs."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/items/misc/Ambush Cauldron|Ambush Cauldron (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Ambush Cauldron|Ambush Cauldron (PF1 F)]]"

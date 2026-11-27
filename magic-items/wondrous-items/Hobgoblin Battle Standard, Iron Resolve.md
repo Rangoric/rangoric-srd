@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, aid and bear's endurance"
 price: "45,000 gp"
 cost: "22,500 gp"
 weight: "3 lbs."
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/featured-race/Hobgoblin Battle Standard|Hobgoblin Battle Standard (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Hobgoblin Battle Standard, Iron Resolve|Hobgoblin Battle Standard, Iron Resolve (PF1 F)]]"

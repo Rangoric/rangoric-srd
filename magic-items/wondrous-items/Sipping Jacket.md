@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, amplify elixir"
 price: "5,000 gp"
 cost: "2,500 gp"
 weight: "5 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Sipping Jacket|Sipping Jacket (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Sipping Jacket|Sipping Jacket (PF1 F)]]"

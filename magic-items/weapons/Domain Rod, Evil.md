@@ -9,7 +9,6 @@ caster-level: 12
 prerequisites: "Craft Magic Arms and Armor, unholy blight, creator must be evil"
 price: "74,312 gp"
 cost: "37,156 gp + 2,972 XP"
-book: "Arms & Armor v3.5"
 based-on:
   - "[[individual books/Arms & Armor v3.5/specific-weapons/Domain Rods|Domain Rods (Arms & Armor)]]"
 status: draft

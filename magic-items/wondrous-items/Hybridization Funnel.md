@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, fabricate or combine extracts discovery"
 price: "200 gp"
 cost: "100 gp"
 weight: "2 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Hybridization Funnel|Hybridization Funnel (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Hybridization Funnel|Hybridization Funnel (PF1 F)]]"

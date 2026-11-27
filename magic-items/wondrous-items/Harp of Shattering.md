@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, break, shatter"
 price: "8,000 gp"
 cost: "4,000 gp"
 weight: "5 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Harp of Shattering|Harp of Shattering (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Harp of Shattering|Harp of Shattering (PF1 F)]]"

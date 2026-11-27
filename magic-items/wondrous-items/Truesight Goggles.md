@@ -8,7 +8,6 @@ caster-level: 11
 prerequisites: "Craft Wondrous Item, analyze dweomer, true seeing"
 price: "184,800 gp"
 cost: "92,400 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Truesight Goggles|Truesight Goggles (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Truesight Goggles|Truesight Goggles (PF1 F)]]"

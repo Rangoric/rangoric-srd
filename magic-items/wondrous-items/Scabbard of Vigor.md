@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, greater magic weapon"
 price: "1,800 gp"
 cost: "900 gp"
 weight: "3 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Scabbard of Vigor|Scabbard of Vigor (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Scabbard of Vigor|Scabbard of Vigor (PF1 F)]]"

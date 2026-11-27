@@ -7,7 +7,6 @@ caster-level: 11
 prerequisites: "Craft Magic Arms and Armor, creator cannot be a divine spellcaster"
 price: "25,400 gp"
 cost: "12,900 gp"
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/armor/Forsaken Banded Mail|Forsaken Banded Mail (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Forsaken Banded Mail|Forsaken Banded Mail (PF1 F)]]"

@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, air walk"
 price: "5,000 gp"
 cost: "2,500 gp"
 weight: "1/2 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Sandals of the Lightest Step|Sandals of the Lightest Step (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Sandals of the Lightest Step|Sandals of the Lightest Step (PF1 F)]]"

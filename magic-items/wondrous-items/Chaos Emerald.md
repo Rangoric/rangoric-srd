@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, chaos hammer, entropic shield, lesser confu
 price: "25,000 gp"
 cost: "12,500 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Chaos Emerald|Chaos Emerald (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Chaos Emerald|Chaos Emerald (PF1 F)]]"

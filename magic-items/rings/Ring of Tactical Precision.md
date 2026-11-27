@@ -7,7 +7,6 @@ caster-level: 3
 prerequisites: "Forge Ring, creator must have 5 ranks of Profession (soldier) and at least one teamwork feat"
 price: "11,000 gp"
 cost: "5,500 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/rings/Ring of Tactical Precision|Ring of Tactical Precision (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Ring of Tactical Precision|Ring of Tactical Precision (PF1 F)]]"

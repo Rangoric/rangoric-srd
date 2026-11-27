@@ -7,7 +7,6 @@ caster-level: 12
 prerequisites: "Forge Ring, speak with dead, spectral hand, plane shift"
 price: "70,000 gp"
 cost: "35,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/rings/Spiritualist Rings|Spiritualist Rings (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Spiritualist Rings|Spiritualist Rings (PF1 F)]]"

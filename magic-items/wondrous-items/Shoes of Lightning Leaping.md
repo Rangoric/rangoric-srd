@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, expeditious retreat, lightning bolt"
 price: "10,500 gp"
 cost: "5,250 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Shoes of Lightning Leaping|Shoes of Lightning Leaping (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Shoes of Lightning Leaping|Shoes of Lightning Leaping (PF1 F)]]"

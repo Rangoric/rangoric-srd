@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, remove fear"
 price: "14,000 gp"
 cost: "7,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Band of the Stalwart Warrior|Band of the Stalwart Warrior (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Band of the Stalwart Warrior|Band of the Stalwart Warrior (PF1 F)]]"

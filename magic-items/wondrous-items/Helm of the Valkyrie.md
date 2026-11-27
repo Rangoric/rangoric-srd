@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, phantom steed"
 price: "16,000 gp"
 cost: "8,000 gp"
 weight: "3 lbs."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Helm of the Valkyrie|Helm of the Valkyrie (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Helm of the Valkyrie|Helm of the Valkyrie (PF1 F)]]"

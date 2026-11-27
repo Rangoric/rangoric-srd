@@ -7,7 +7,6 @@ caster-level: 9
 prerequisites: "Craft Magic Arms and Armor, dismissal, dispel magic"
 price: "42,816 gp"
 cost: "21,566 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/specific-magic-weapons/Summoner's Sorrow|Summoner’s Sorrow (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Summoner's Sorrow|Summoner’s Sorrow (PF1 F)]]"

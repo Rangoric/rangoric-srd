@@ -8,7 +8,6 @@ caster-level: 11
 prerequisites: "Craft Wondrous Item, animate objects"
 price: "10,000 gp"
 weight: "1 lb"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/items/firearms/Figurine of Wondrous Power|Figurine of Wondrous Power (PF1, slate spider)]]"
 status: draft

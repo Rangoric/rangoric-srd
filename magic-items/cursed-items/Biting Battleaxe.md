@@ -5,7 +5,6 @@ item-type: "Cursed Item"
 aura: "Moderate evocation"
 caster-level: 8
 intended-item: "+2 battleaxe"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/cursed-items/Biting Battleaxe|Biting Battleaxe (PF1)]]"
   - "[[path srd 3.5 foundry/items/cursed/Biting Battleaxe|Biting Battleaxe (PF1 F)]]"

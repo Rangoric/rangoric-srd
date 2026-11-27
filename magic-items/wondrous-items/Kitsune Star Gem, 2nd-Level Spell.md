@@ -8,7 +8,6 @@ caster-level: 3
 prerequisites: "Craft Wondrous Item, creator must be a kitsune"
 price: "3,000 gp"
 cost: "1,500 gp"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/uncommon-race/Kitsune Star Gem|Kitsune Star Gem (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Kitsune Star Gem, 2nd Level Spell|Kitsune Star Gem, 2nd Level Spell (PF1 F)]]"

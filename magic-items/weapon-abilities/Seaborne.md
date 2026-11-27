@@ -6,7 +6,6 @@ aura: "Moderate transmutation"
 caster-level: 7
 prerequisites: "Craft Magic Arms and Armor, freedom of movement, touch of the sea"
 price: "+1 bonus"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/weapon-special-abilities/Seaborne|Seaborne (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Seaborne|Seaborne (PF1 F)]]"

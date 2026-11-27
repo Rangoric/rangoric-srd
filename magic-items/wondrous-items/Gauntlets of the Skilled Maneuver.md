@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, creator must have the appropriate Improved 
 price: "4,000 gp"
 cost: "2,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Gauntlets of the Skilled Maneuver|Gauntlets of the Skilled Maneuver (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Gauntlets of the Skilled Maneuver|Gauntlets of the Skilled Maneuver (PF1 F)]]"

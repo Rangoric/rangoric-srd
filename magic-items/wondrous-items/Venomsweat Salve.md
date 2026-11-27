@@ -8,7 +8,6 @@ caster-level: 7
 prerequisites: "Craft Wondrous Item, poison"
 price: "2,500 gp"
 cost: "1,250 gp"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/items/misc/Venomsweat Salve|Venomsweat Salve (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Venomsweat Salve|Venomsweat Salve (PF1 F)]]"

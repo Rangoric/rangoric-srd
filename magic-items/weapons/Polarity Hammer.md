@@ -7,7 +7,6 @@ caster-level: 8
 prerequisites: "Craft Magic Arms and Armor, force punch, shield"
 price: "12,310 gp"
 cost: "6,155 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/specific-magic-weapons/Polarity Hammer|Polarity Hammer (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Polarity Hammer|Polarity Hammer (PF1 F)]]"

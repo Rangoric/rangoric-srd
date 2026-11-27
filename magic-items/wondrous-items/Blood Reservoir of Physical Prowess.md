@@ -8,7 +8,6 @@ caster-level: 3
 prerequisites: "Craft Wondrous Item, death knell"
 price: "2,000 gp"
 cost: "1,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Blood Reservoir of Physical Prowess|Blood Reservoir of Physical Prowess (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Blood Reservoir of Physical Prowess|Blood Reservoir of Physical Prowess (PF1 F)]]"

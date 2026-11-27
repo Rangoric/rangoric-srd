@@ -7,7 +7,6 @@ caster-level: 5
 prerequisites: "Forge Ring, haste, stabilize"
 price: "3,000 gp"
 cost: "1,500 gp"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/core-race/Ring of Ferocious Action|Ring of Ferocious Action (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Ring of Ferocious Action|Ring of Ferocious Action (PF1 F)]]"

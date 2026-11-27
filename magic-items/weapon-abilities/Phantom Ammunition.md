@@ -6,7 +6,6 @@ aura: "Moderate transmutation"
 caster-level: 7
 prerequisites: "Craft Magic Arms and Armor, disintegrate, make whole"
 price: "+2,000 gp"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/weapon-special-abilities/Phantom Ammunition|Phantom Ammunition (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Phantom Ammunition|Phantom Ammunition (PF1 F)]]"

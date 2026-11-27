@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, instant enemy"
 price: "8,000 gp"
 cost: "4,000 gp"
 weight: "5 lbs."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Bloodstained Gloves|Bloodstained Gloves (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Bloodstained Gloves|Bloodstained Gloves (PF1 F)]]"

@@ -5,7 +5,6 @@ item-type: "Cursed Item"
 aura: "Moderate transmutation"
 caster-level: 6
 intended-item: "unguent of timelessness"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/cursed-items/Unguent of Aging|Unguent of Aging (PF1)]]"
   - "[[path srd 3.5 foundry/items/cursed/Unguent of Aging|Unguent of Aging (PF1 F)]]"

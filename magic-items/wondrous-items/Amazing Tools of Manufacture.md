@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, Master Craftsman"
 price: "12,000 gp"
 cost: "6,000 gp"
 weight: "1 lb."
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/core-race/Amazing Tools of Manufacture|Amazing Tools of Manufacture (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Amazing Tools of Manufacture|Amazing Tools of Manufacture (PF1 F)]]"

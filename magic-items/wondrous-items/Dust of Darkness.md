@@ -8,7 +8,6 @@ caster-level: 3
 prerequisites: "Craft Wondrous Item, darkness"
 price: "600 gp"
 cost: "300 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Dust of Darkness|Dust of Darkness (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Dust of Darkness|Dust of Darkness (PF1 F)]]"

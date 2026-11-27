@@ -4,7 +4,6 @@ section: "Magic Items"
 item-type: "Cursed Item"
 aura: "Varies"
 intended-item: "any staff"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/cursed-items/Staff of Occasional Wonder|Staff of Occasional Wonder (PF1)]]"
   - "[[path srd 3.5 foundry/items/cursed/Staff of Occasional Wonder|Staff of Occasional Wonder (PF1 F)]]"

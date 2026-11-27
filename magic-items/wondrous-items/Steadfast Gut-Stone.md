@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, magic stone, shield other"
 price: "800 gp"
 cost: "400 gp"
 weight: "2 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Steadfast Gut-Stone|Steadfast Gut-Stone (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Steadfast Gut-stone|Steadfast Gut-Stone (PF1 F)]]"

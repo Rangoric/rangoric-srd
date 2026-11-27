@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, burning hands, creator cannot be good"
 price: "5,800 gp"
 cost: "2,900 gp"
 weight: "2 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Grim Lantern|Grim Lantern (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Grim Lantern|Grim Lantern (PF1 F)]]"

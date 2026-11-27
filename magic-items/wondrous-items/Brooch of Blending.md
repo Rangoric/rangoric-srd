@@ -8,7 +8,6 @@ caster-level: 3
 prerequisites: "Craft Wondrous Item, alter self, creator must be a half-elf"
 price: "2,000 gp"
 cost: "1,000 gp"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/core-race/Brooch of Blending|Brooch of Blending (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Brooch of Blending|Brooch of Blending (PF1 F)]]"

@@ -8,7 +8,6 @@ prerequisites: "Craft Wondrous Item, resistance"
 price: "8,000 gp"
 cost: "4,000 gp + 320 XP"
 weight: "1 lb"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/magic-items/Circlet of the Fey|Circlet of the Fey (Faeries)]]"
 status: draft

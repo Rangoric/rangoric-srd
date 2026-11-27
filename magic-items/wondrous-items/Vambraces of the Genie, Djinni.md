@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, endure elements, gaseous form, invisibility
 price: "18,900 gp"
 cost: "9,450 gp"
 weight: "3 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Vambraces of the Genie|Vambraces of the Genie (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Vambraces of the Genie, Djinni|Vambraces of the Genie, Djinni (PF1 F)]]"

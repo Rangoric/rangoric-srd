@@ -7,7 +7,6 @@ caster-level: 9
 prerequisites: "Craft Wondrous Item, bull’s strength, telekinesis"
 price: "8,600 gp"
 weight: "1 lb"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/magic-items/Boots of the Ram|Boots of the Ram (Faeries)]]"
 status: draft

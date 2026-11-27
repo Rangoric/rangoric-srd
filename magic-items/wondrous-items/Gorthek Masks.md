@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, speak with animals, versatile weapon"
 price: "5,800 gp"
 cost: "2,900 gp"
 weight: "75 lbs."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/items/misc/Gorthek Masks|Gorthek Masks (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Gorthek Masks|Gorthek Masks (PF1 F)]]"

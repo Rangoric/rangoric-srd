@@ -8,7 +8,6 @@ aura: "Moderate evocation"
 caster-level: 10
 prerequisites: "Craft Magic Arms and Armor, acid arrow"
 price: "+1 bonus"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/weapon-special-abilities/Corrosive|Corrosive (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Corrosive|Corrosive (PF1 F)]]"

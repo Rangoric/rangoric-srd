@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, remove fear"
 price: "450 gp"
 cost: "225 gp"
 weight: "1 lb."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/wondrous/Talisman of Warrior's Courage, Lesser|Talisman of Warrior's Courage, Lesser (PF1 F)]]"
 status: draft

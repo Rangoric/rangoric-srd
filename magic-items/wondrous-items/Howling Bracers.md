@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, crushing despair, creator must have the rag
 price: "7,000 gp"
 cost: "3,500 gp"
 weight: "1 lb."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Howling Bracers|Howling Bracers (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Howling Bracers|Howling Bracers (PF1 F)]]"

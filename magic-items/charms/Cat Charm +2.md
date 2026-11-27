@@ -7,7 +7,6 @@ aliases:
 caster-level: 3
 prerequisites: "Craft Charms and Bracelets, cat’s grace"
 price: "4,000 gp"
-book: "Faeries"
 based-on:
   - "[[individual books/Faeries/charms/Cat|Cat (Faeries)]]"
 status: draft

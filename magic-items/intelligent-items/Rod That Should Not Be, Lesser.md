@@ -16,7 +16,6 @@ ego: 3
 alignment: "chaotic evil"
 senses: "30 ft."
 language: "none"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/intelligent-items/Rod that Should Not Be (Lesser)|Rod that Should Not Be (Lesser) (PF1)]]"
   - "[[path srd 3.5/items/intelligent-items/Rod that Should Not Be (Greater)|Rod that Should Not Be (Greater) (PF1)]]"

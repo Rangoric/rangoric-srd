@@ -7,7 +7,6 @@ caster-level: 7
 prerequisites: "Craft Rod, aboleth's lung, acid arrow, touch of the sea"
 price: "29,000 gp"
 cost: "14,500 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/rods/Rod of the Aboleth|Rod of the Aboleth (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Rod of the Aboleth|Rod of the Aboleth (PF1 F)]]"

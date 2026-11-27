@@ -9,7 +9,6 @@ caster-level: 9
 prerequisites: "Craft Magic Arms and Armor, gaseous form, continual flame"
 price: "122,312 gp"
 cost: "61,156 gp + 4,892 XP"
-book: "Arms & Armor v3.5"
 based-on:
   - "[[individual books/Arms & Armor v3.5/specific-weapons/Domain Rods|Domain Rods (Arms & Armor)]]"
 status: draft

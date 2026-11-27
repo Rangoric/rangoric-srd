@@ -7,7 +7,6 @@ caster-level: 7
 prerequisites: "Craft Rod, disintegrate"
 price: "16,000 gp"
 cost: "8,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/rods/Rod of Ruin|Rod of Ruin (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Rod of Ruin|Rod of Ruin (PF1 F)]]"

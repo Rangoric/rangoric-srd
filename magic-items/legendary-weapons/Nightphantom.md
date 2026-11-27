@@ -5,7 +5,6 @@ item-type: "Legendary Weapon"
 scion-class: "[[rangoric-srd/prestige-classes/Swift Scion|Swift Scion]]"
 aliases: ["Dreamcatcher"]
 price: "10,525 gp"
-book: ["Unearthed Arcana", "Arms & Armor v3.5"]
 based-on:
   - "[[fantasy srd 3.5/unearthed-arcana/Legendary Weapons & Familiar Items#Nightphantom|Nightphantom (3.5)]]"
   - "[[individual books/Arms & Armor v3.5/legendary-weapons/Dreamcatcher|Dreamcatcher (Arms & Armor)]]"

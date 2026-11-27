@@ -7,7 +7,6 @@ aliases:
 caster-level: 17
 prerequisites: "Craft Staff, Craft Wondrous Item, Spell Focus (necromancy), cause fear, dream travel, fear, nightmare, scare"
 price: "124,500 gp"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/magic-items/Dark Dreams|Dark Dreams (Spells & Magic)]]"
 status: draft

@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, shout, silence"
 price: "10,000 gp"
 cost: "5,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Chime of Resounding Silence|Chime of Resounding Silence (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Chime of Resounding Silence|Chime of Resounding Silence (PF1 F)]]"

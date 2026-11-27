@@ -7,7 +7,6 @@ caster-level: 1
 prerequisites: "Forge Ring, arcane mark"
 price: "1,000 gp"
 cost: "500 gp"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/items/rings/Ring of Arcane Signets|Ring of Arcane Signets (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Ring of Arcane Signets|Ring of Arcane Signets (PF1 F)]]"

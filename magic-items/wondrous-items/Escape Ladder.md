@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, animate rope, dimension door, rope trick"
 price: "4,000 gp"
 cost: "2,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Escape Ladder|Escape Ladder (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Escape Ladder|Escape Ladder (PF1 F)]]"

@@ -1,7 +1,6 @@
 ---
 srd-type: "rules"
 section: "Magic Items"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/rules/ultimate-equipment/wondrous-items/Belt|Belt (PF1)]]"
   - "[[path srd 3.5/rules/ultimate-equipment/wondrous-items/Body|Body (PF1)]]"

@@ -7,7 +7,6 @@ caster-level: 7
 prerequisites: "Craft Magic Arms and Armor, magic weapon, creator must have 5 ranks in Craft (weapons)"
 price: "7,320 gp"
 cost: "3,820 gp"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/specific-weapons/Swashbuckler's Rapier|Swashbuckler's Rapier (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Swashbuckler's Rapier|Swashbuckler's Rapier (PF1 F)]]"

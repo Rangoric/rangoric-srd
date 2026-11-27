@@ -9,7 +9,6 @@ price: "47,000 gp"
 cost: "27,133 gp"
 weight: "4 lbs."
 recharge: true
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/staves/Staff of Dark Flame|Staff of Dark Flame (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Staff of Dark Flame|Staff of Dark Flame (PF1 F)]]"

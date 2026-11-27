@@ -6,7 +6,6 @@ slot: "head"
 aura: "Strong abjuration"
 caster-level: 15
 weight: "2 lb."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/artifacts/Stannum Crown|Stannum Crown (PF1 F)]]"
 status: draft

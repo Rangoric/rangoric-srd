@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, deep slumber, stone fist"
 price: "15,302 gp"
 cost: "7,802 gp"
 weight: "6 lbs."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Skullcrusher Gauntlets|Skullcrusher Gauntlets (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Skullcrusher Gauntlets|Skullcrusher Gauntlets (PF1 F)]]"

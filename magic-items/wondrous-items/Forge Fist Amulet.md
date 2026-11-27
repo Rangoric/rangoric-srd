@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, greater magic fang, and flame blade, flame 
 price: "13,000 gp"
 cost: "6,500 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Forge Fist Amulet|Forge Fist Amulet (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Forge Fist Amulet|Forge Fist Amulet (PF1 F)]]"

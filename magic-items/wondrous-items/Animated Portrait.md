@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, magic mouth, major image"
 price: "500 gp"
 cost: "250 gp"
 weight: "10 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Animated Portrait|Animated Portrait (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Animated Portrait|Animated Portrait (PF1 F)]]"

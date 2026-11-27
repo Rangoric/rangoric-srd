@@ -8,7 +8,6 @@ caster-level: 3
 prerequisites: "Craft Wondrous Item, pyrotechnics"
 price: "400 gp"
 cost: "200 gp"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Toothpick of Pyrotechnics|Toothpick of Pyrotechnics (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Toothpick of Pyrotechnics|Toothpick of Pyrotechnics (PF1 F)]]"

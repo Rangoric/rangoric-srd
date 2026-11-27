@@ -7,7 +7,6 @@ caster-level: 17
 prerequisites: "Craft Rod, Focused Spell"
 price: "24,500 gp"
 cost: "12,250 gp"
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/rods/Focused Metamagic Rod|Focused Metamagic Rod (PF1)]]"
   - "[[path srd 3.5/items/rods/Metamagic, Focused|Metamagic, Focused (PF1)]]"

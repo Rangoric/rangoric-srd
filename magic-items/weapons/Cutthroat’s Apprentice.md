@@ -7,7 +7,6 @@ caster-level: 15
 prerequisites: "Craft Magic Arms and Armor, animate objects, unwitting ally"
 price: "33,910 gp"
 cost: "17,110 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/specific-magic-weapons/Cutthroat's Apprentice|Cutthroat’s Apprentice (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Cutthroat's Apprentice|Cutthroat’s Apprentice (PF1 F)]]"

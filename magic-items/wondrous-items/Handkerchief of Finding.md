@@ -8,7 +8,6 @@ caster-level: 3
 prerequisites: "Craft Wondrous Item, locate object"
 price: "15,000 gp"
 cost: "7,500 gp"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Handkerchief of Finding|Handkerchief of Finding (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Handkerchief of Finding|Handkerchief of Finding (PF1 F)]]"

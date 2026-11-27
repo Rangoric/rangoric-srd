@@ -7,7 +7,6 @@ caster-level: 5
 prerequisites: "Craft Rod, dispel magic, lightning bolt, resist energy"
 price: "12,000 gp"
 cost: "6,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/rods/Grounding Rod|Grounding Rod (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Grounding Rod|Grounding Rod (PF1 F)]]"

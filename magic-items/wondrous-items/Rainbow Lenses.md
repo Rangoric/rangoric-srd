@@ -8,7 +8,6 @@ caster-level: 15
 prerequisites: "Craft Wondrous Item, color spray, hypnotic pattern, rainbow pattern"
 price: "21,000 gp"
 cost: "10,500 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Rainbow Lenses|Rainbow Lenses (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Rainbow Lenses|Rainbow Lenses (PF1 F)]]"

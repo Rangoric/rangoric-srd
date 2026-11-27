@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, command"
 price: "3,280 gp"
 cost: "1,930 gp"
 weight: "2 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Shackles of Compliance|Shackles of Compliance (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Shackles of Compliance|Shackles of Compliance (PF1 F)]]"

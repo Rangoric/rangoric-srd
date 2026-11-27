@@ -6,7 +6,6 @@ aura: "Strong abjuration"
 caster-level: 12
 prerequisites: "Craft Magic Arms and Armor, antimagic field"
 price: "+3 bonus"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/weapon-special-abilities/Nullifying|Nullifying (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Nullifying|Nullifying (PF1 F)]]"

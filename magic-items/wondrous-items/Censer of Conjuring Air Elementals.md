@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, summon monster V, summon monster VII"
 price: "90,000 gp"
 cost: "45,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Censer of Conjuring Air Elementals|Censer of Conjuring Air Elementals (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Censer of Conjuring Air Elementals|Censer of Conjuring Air Elementals (PF1 F)]]"

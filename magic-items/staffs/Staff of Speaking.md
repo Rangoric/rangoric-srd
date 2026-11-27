@@ -9,7 +9,6 @@ price: "57,200 gp"
 cost: "28,600 gp"
 weight: "5 lbs."
 recharge: true
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/staves/Staff of Speaking|Staff of Speaking (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Staff of Speaking|Staff of Speaking (PF1 F)]]"

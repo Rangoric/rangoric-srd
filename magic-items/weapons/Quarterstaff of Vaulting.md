@@ -7,7 +7,6 @@ caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, jump"
 price: "19,100 gp"
 cost: "9,850 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/specific-magic-weapons/Quarterstaff of Vaulting|Quarterstaff of Vaulting (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Quarterstaff of Vaulting|Quarterstaff of Vaulting (PF1 F)]]"

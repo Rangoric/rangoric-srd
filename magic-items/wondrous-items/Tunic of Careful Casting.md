@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, Combat Casting"
 price: "5,000 gp"
 cost: "2,500 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Tunic of Careful Casting|Tunic of Careful Casting (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Tunic of Careful Casting|Tunic of Careful Casting (PF1 F)]]"

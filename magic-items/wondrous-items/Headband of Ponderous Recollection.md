@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, know the enemy"
 price: "5,100 gp"
 cost: "2,550 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Headband of ponderous recollection|Headband of Ponderous Recollection (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Headband of Ponderous Recollection|Headband of Ponderous Recollection (PF1 F)]]"

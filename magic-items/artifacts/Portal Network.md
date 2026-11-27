@@ -6,7 +6,6 @@ slot: "none"
 aura: "Strong conjuration"
 caster-level: 20
 weight: "64,000 lb."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/artifacts/Portal Network|Portal Network (PF1 F)]]"
 status: draft

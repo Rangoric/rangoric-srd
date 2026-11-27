@@ -7,7 +7,6 @@ caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, hide from undead"
 price: "35,650 gp"
 cost: "18,650 gp"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/specific-armors-shields/Full Plate of the Corpse|Full Plate of the Corpse (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Full Plate of the Corpse|Full Plate of the Corpse (PF1 F)]]"

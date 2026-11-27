@@ -8,7 +8,6 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, touch of the sea, the crafter must be an undine or have the water subtype"
 price: "9,000 gp"
 cost: "4,500 gp"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/featured-race/Shark tooth Amulet|Shark Tooth Amulet (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Shark Tooth Amulet|Shark Tooth Amulet (PF1 F)]]"

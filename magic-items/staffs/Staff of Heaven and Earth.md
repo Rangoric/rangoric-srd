@@ -9,7 +9,6 @@ price: "54,000 gp"
 cost: "27,000 gp"
 weight: "5 lbs."
 recharge: true
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/staves/Staff of Heaven and Earth|Staff of Heaven and Earth (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Staff of Heaven and Earth|Staff of Heaven and Earth (PF1 F)]]"

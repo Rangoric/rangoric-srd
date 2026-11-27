@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, align weapon"
 price: "10,000 gp"
 cost: "5,000 gp"
 weight: "3 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Prayer Wheel of Ethical Strength|Prayer Wheel of Ethical Strength (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Prayer Wheel of Ethical Strength|Prayer Wheel of Ethical Strength (PF1 F)]]"

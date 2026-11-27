@@ -9,7 +9,6 @@ price: "23,200 gp"
 cost: "11,600 gp"
 weight: "5 lbs."
 recharge: true
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/staves/Staff of Radiance|Staff of Radiance (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Staff of Radiance|Staff of Radiance (PF1 F)]]"

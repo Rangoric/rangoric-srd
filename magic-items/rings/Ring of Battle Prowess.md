@@ -7,7 +7,6 @@ aliases:
 caster-level: 12
 prerequisites: "Forge Ring, true strike, random action"
 price: "42,000 gp"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/magic-items/Battle Prowess|Battle Prowess (Spells & Magic)]]"
 status: draft

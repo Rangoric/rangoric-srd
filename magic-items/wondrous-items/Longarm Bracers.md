@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, alter self"
 price: "7,200 gp"
 cost: "3,600 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Longarm Bracers|Longarm Bracers (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Longarm Bracers|Longarm Bracers (PF1 F)]]"

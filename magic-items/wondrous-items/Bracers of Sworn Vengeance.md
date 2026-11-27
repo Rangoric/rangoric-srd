@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, shout, creator must be an elf"
 price: "25,000 gp"
 cost: "12,500 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/core-race/Bracers of Sworn Vengeance|Bracers of Sworn Vengeance (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Bracers of Sworn Vengeance|Bracers of Sworn Vengeance (PF1 F)]]"

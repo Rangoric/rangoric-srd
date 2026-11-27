@@ -7,7 +7,6 @@ caster-level: 13
 prerequisites: "Craft Magic Arms and Armor, phase door, shatter"
 price: "11,315 gp"
 cost: "5,815 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/specific-magic-weapons/Earthenflail|Earthenflail (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Earthenflail|Earthenflail (PF1 F)]]"

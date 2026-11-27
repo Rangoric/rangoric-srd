@@ -8,7 +8,6 @@ caster-level: 9
 prerequisites: "Craft Wondrous Item, liquid form"
 price: "10,000 gp"
 cost: "5,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Pliant Gloves|Pliant Gloves (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Pliant Gloves|Pliant Gloves (PF1 F)]]"

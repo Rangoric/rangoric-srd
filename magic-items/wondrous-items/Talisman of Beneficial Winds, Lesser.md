@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, feather fall"
 price: "50 gp"
 cost: "25 gp"
 weight: "1 lb."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/wondrous/Talisman of Beneficial Winds, Lesser|Talisman of Beneficial Winds, Lesser (PF1 F)]]"
 status: draft

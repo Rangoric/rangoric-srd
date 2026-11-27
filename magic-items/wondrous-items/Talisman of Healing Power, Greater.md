@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, cure critical wounds"
 price: "24,000 gp"
 cost: "12,000 gp"
 weight: "1 lb."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/wondrous/Talisman of Healing Power, Greater|Talisman of Healing Power, Greater (PF1 F)]]"
 status: draft

@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, arrow of law, detect chaos, detect law, dis
 price: "60,000 gp"
 cost: "30,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Orb of pure Law|Orb of Pure Law (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Orb of Pure Law|Orb of Pure Law (PF1 F)]]"

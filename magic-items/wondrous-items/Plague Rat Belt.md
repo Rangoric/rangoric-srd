@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, bear's endurance, neutralize poison, remove
 price: "5,200 gp"
 cost: "2,600 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Plague Rat Belt|Plague Rat Belt (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Plague Rat Belt|Plague Rat Belt (PF1 F)]]"

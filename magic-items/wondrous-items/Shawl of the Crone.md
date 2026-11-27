@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, alter self"
 price: "16,000 gp"
 cost: "8,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Shawl of the Crone|Shawl of the Crone (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Shawl of the Crone|Shawl of the Crone (PF1 F)]]"

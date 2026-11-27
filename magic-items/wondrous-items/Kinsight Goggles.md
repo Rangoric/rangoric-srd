@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, share senses"
 price: "7,500 gp"
 cost: "3,750 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Kinsight Goggles|Kinsight Goggles (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Kinsight Goggles|Kinsight Goggles (PF1 F)]]"

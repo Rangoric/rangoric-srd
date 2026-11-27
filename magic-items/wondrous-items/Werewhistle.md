@@ -8,7 +8,6 @@ caster-level: 9
 prerequisites: "Craft Wondrous Item, baleful polymorph"
 price: "8,000 gp"
 cost: "4,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Werewhistle|Werewhistle (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Werewhistle|Werewhistle (PF1 F)]]"

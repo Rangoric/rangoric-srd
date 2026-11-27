@@ -7,7 +7,6 @@ caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, bull's strength, control water, hydraulic push"
 price: "14,170 gp"
 cost: "7,170 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/specific-magic-armor-and-shields/Maelstrom Shield|Maelstrom Shield (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Maelstrom Shield|Maelstrom Shield (PF1 F)]]"

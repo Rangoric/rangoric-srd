@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, bear's endurance, lesser restoration"
 price: "15,000 gp"
 cost: "7,500 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Cord of Stubborn Resolve|Cord of Stubborn Resolve (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Cord of Stubborn Resolve|Cord of Stubborn Resolve (PF1 F)]]"

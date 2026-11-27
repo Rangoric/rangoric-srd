@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, Amateur Gunslinger or creator must be a gun
 price: "36,000 gp"
 cost: "18,000 gp"
 weight: "5 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Gunman's Duster|Gunman's Duster (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Gunman's Duster|Gunman's Duster (PF1 F)]]"

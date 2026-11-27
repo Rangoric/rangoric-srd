@@ -7,7 +7,6 @@ caster-level: 14
 prerequisites: "Craft Magic Arms and Armor, dimensional anchor"
 price: "90,469 gp"
 cost: "46,460 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/specific-magic-weapons/Demonsorrow Curve Blade|Demonsorrow Curve Blade (PF1)]]"
 status: draft

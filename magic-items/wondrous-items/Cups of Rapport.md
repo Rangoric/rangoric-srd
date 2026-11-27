@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, charm person"
 price: "8,000 gp"
 cost: "4,000 gp"
 weight: "1 lb. (pair)"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Cups of Rapport|Cups of Rapport (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Cups of Rapport|Cups of Rapport (PF1 F)]]"

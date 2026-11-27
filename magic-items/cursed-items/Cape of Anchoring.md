@@ -6,7 +6,6 @@ aura: "Moderate abjuration"
 caster-level: 9
 intended-item: "cape of the mountebank"
 slot: "shoulders"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/cursed-items/Cape of Anchoring|Cape of Anchoring (PF1)]]"
   - "[[path srd 3.5 foundry/items/cursed/Cape of Anchoring|Cape of Anchoring (PF1 F)]]"

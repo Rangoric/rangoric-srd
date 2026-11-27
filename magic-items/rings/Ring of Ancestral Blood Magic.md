@@ -7,7 +7,6 @@ caster-level: 10
 prerequisites: "Endurance, Extend Spell, Forge Ring, creator must have the bloodrage class feature"
 price: "4,000 gp"
 cost: "2,000 gp"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/rings/Ring of Ancestral Blood Magic|Ring of Ancestral Blood Magic (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Ring of Ancestral Blood Magic|Ring of Ancestral Blood Magic (PF1 F)]]"

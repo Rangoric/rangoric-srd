@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, cat's grace"
 price: "1,400 gp"
 cost: "700 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Daredevil Boots|Daredevil Boots (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Daredevil Boots|Daredevil Boots (PF1 F)]]"

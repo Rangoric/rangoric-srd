@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, lesser restoration, creator must be a monk"
 price: "10,000 gp"
 cost: "5,000 gp"
 weight: "3 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Ki Mat|Ki Mat (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Ki Mat|Ki Mat (PF1 F)]]"

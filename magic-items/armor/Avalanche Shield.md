@@ -7,7 +7,6 @@ caster-level: 12
 prerequisites: "Craft Magic Arms and Armor, bull's strength, shape stone, flesh to stone"
 price: "19,170 gp"
 cost: "9,670 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/specific-magic-armor-and-shields/Avalanche Shield|Avalanche Shield (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Avalanche Shield|Avalanche Shield (PF1 F)]]"

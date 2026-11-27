@@ -6,7 +6,6 @@ aura: "Moderate transmutation"
 caster-level: 8
 intended-item: "belt of mighty constitution (any)"
 slot: "belt"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/cursed-items/Belt of Weakness|Belt of Weakness (PF1)]]"
 status: draft

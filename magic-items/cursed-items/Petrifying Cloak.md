@@ -6,7 +6,6 @@ aura: "Moderate transmutation"
 caster-level: 11
 intended-item: "any cloak"
 slot: "shoulders"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/cursed-items/Petrifying Cloak|Petrifying Cloak (PF1)]]"
   - "[[path srd 3.5 foundry/items/cursed/Petrifying Cloak|Petrifying Cloak (PF1 F)]]"

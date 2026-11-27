@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, bull's strength, enlarge person"
 price: "8,800 gp"
 cost: "4,400 gp"
 weight: "2 lbs."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/items/misc/Crashing Boots|Crashing Boots (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Crashing Boots|Crashing Boots (PF1 F)]]"

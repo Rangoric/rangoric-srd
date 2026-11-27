@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, dispel magic"
 price: "12,000 gp"
 cost: "6,000 gp"
 weight: "3 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Pipes of Dissolution|Pipes of Dissolution (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Pipes of Dissolution|Pipes of Dissolution (PF1 F)]]"

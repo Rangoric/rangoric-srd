@@ -7,7 +7,6 @@ caster-level: 8
 prerequisites: "Craft Rod, plant growth, poison"
 price: "18,000 gp"
 cost: "9,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/rods/Rod of Nettles|Rod of Nettles (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Rod of Nettles|Rod of Nettles (PF1 F)]]"

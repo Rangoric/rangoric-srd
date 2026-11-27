@@ -5,7 +5,6 @@ item-type: "Major Artifact"
 aura: "Strong necromancy"
 caster-level: 18
 weight: "8 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/artifacts/Skullsoul|Skullsoul (PF1)]]"
   - "[[path srd 3.5 foundry/items/artifacts/Skullsoul|Skullsoul (PF1 F)]]"

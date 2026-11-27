@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, ride the waves"
 price: "56,000 gp"
 cost: "28,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/featured-race/Slippers of the Triton|Slippers of the Triton (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Slippers of the Triton|Slippers of the Triton (PF1 F)]]"

@@ -8,7 +8,6 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, remove blindness/deafness"
 price: "12,000 gp"
 cost: "6,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Veiled Eye|Veiled Eye (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Veiled Eye|Veiled Eye (PF1 F)]]"

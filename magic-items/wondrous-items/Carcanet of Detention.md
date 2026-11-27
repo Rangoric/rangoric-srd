@@ -8,7 +8,6 @@ caster-level: 4
 prerequisites: "Craft Wondrous Item, animate rope"
 price: "7,200 gp"
 cost: "3,600 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Carcanet of Detention|Carcanet of Detention (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Carcanet of Detention|Carcanet of Detention (PF1 F)]]"

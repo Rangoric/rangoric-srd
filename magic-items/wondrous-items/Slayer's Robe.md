@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, gaseous form, guidance"
 price: "15,000 gp"
 cost: "7,500 gp"
 weight: "5 lbs."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Slayer's Robe|Slayer's Robe (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Slayer's Robe|Slayer's Robe (PF1 F)]]"

@@ -5,7 +5,6 @@ item-type: "Major Artifact"
 aura: "Overwhelming conjuration"
 caster-level: 25
 weight: "2 tons"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/artifacts/Brazen Egg|Brazen Egg (PF1)]]"
   - "[[path srd 3.5 foundry/items/artifacts/Brazen Egg|Brazen Egg (PF1 F)]]"

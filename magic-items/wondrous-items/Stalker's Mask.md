@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, disguise self, rage"
 price: "3,500 gp"
 cost: "1,750 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Stalker's Mask|Stalker's Mask (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Stalker's Mask|Stalker's Mask (PF1 F)]]"

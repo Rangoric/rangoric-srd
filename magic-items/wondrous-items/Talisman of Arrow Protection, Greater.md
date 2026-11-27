@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, protection from arrows"
 price: "6,000 gp"
 cost: "3,000 gp"
 weight: "1 lb."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/wondrous/Talisman of Arrow Protection, Greater|Talisman of Arrow Protection, Greater (PF1 F)]]"
 status: draft

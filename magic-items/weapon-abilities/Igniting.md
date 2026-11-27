@@ -6,7 +6,6 @@ aura: "Strong evocation"
 caster-level: 12
 prerequisites: "Craft Magic Arms and Armor, flame blade, flame strike, or fireball"
 price: "+2 bonus"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/weapon-special-abilities/Igniting|Igniting (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Igniting|Igniting (PF1 F)]]"

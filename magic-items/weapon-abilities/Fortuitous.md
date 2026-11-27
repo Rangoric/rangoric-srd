@@ -6,7 +6,6 @@ aura: "Moderate transmutation"
 caster-level: 8
 prerequisites: "Craft Magic Arms and Armor, haste"
 price: "+1 bonus"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/weapon-special-abilities/Fortuitous|Fortuitous (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Fortuitous|Fortuitous (PF1 F)]]"

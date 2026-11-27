@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, mass cure light wounds, creator must be abl
 price: "10,000 gp"
 cost: "5,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Malleable Symbol|Malleable Symbol (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Malleable Symbol|Malleable Symbol (PF1 F)]]"

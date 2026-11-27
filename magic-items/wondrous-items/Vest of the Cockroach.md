@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, false life"
 price: "16,000 gp"
 cost: "8,000 gp"
 weight: "2 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Vest of the Cockroach|Vest of the Cockroach (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Vest of the Cockroach|Vest of the Cockroach (PF1 F)]]"

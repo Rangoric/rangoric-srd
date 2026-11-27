@@ -7,7 +7,6 @@ caster-level: 12
 prerequisites: "Craft Magic Arms and Armor, bull's strength, animate objects"
 price: "36,170 gp"
 cost: "18,170 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/specific-magic-armor-and-shields/Belligerent Shield|Belligerent Shield (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Belligerent Shield|Belligerent Shield (PF1 F)]]"

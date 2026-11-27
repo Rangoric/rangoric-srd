@@ -8,7 +8,6 @@ caster-level: 7
 prerequisites: "Craft Wondrous Item, creator must have the studied target class feature"
 price: "8,000 gp"
 cost: "4,000 gp"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Lenses of the Predator's Gaze|Lenses of the Predator's Gaze (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Lenses of the Predator's Gaze|Lenses of the Predator's Gaze (PF1 F)]]"

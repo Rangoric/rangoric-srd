@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, creator must be a gnome"
 price: "6,000 gp"
 cost: "3,000 gp"
 weight: "1/2 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Feychild Necklace|Feychild Necklace (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Feychild Necklace|Feychild Necklace (PF1 F)]]"

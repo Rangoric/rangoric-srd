@@ -6,7 +6,6 @@ caster-level: 7
 prerequisites: "Craft Staff, animate rope, baleful polymorph, rope trick, web"
 price: "8,500 gp"
 weight: "4 lb."
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/magic-items/String Staff|String Staff (Spells & Magic)]]"
 status: draft

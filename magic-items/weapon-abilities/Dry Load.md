@@ -6,7 +6,6 @@ aura: "Faint abjuration"
 caster-level: 3
 prerequisites: "Craft Magic Arms and Armor, air bubble"
 price: "30 gp per cartridge or 1,500 gp for 50 cartridges"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/items/firearms/Dry Load|Dry Load (PF1)]]"
 status: draft

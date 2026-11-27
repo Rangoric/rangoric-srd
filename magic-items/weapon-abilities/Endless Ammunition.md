@@ -6,7 +6,6 @@ aura: "Moderate conjuration"
 caster-level: 9
 prerequisites: "Craft Magic Arms and Armor, minor creation"
 price: "+2 bonus"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/weapon-special-abilities/endless ammunition|Endless Ammunition (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Endless Ammunition|Endless Ammunition (PF1 F)]]"

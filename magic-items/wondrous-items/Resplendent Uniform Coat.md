@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, heroism"
 price: "7,000 gp"
 cost: "3,500 gp"
 weight: "5 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Resplendent Uniform Coat|Resplendent Uniform Coat (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Resplendent Uniform Coat|Resplendent Uniform Coat (PF1 F)]]"

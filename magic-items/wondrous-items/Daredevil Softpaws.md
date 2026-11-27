@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, cat's grace"
 price: "1,400 gp"
 cost: "700 gp"
 weight: "1 lb."
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/featured-race/Daredevil Softpaws|Daredevil Softpaws (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Daredevil Softpaws|Daredevil Softpaws (PF1 F)]]"

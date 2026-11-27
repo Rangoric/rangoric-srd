@@ -8,7 +8,6 @@ aura: "Moderate abjuration"
 caster-level: 7
 prerequisites: "Craft Magic Arms and Armor, death ward"
 price: "+1 bonus"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/rules/ultimate-equipment/magic-arms-and-armor/Armor Special Abilities#Deathless|Deathless (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Deathless (Item)|Deathless (PF1 F)]]"

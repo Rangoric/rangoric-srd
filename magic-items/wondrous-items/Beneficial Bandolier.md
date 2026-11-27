@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, secret chest"
 price: "1,000 gp"
 cost: "500 gp"
 weight: "2 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Beneficial Bandolier|Beneficial Bandolier (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Beneficial Bandolier|Beneficial Bandolier (PF1 F)]]"

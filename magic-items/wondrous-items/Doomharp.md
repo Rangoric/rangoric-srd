@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, cause fear"
 price: "10,000 gp"
 cost: "5,000 gp"
 weight: "5 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Doomharp|Doomharp (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Doomharp|Doomharp (PF1 F)]]"

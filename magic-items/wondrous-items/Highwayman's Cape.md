@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, liberating command"
 price: "32,500 gp"
 cost: "16,250 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Highwayman's Cape|Highwayman's Cape (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Highwayman's Cape|Highwayman's Cape (PF1 F)]]"

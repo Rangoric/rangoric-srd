@@ -6,7 +6,6 @@ aura: "Moderate conjuration"
 caster-level: 10
 prerequisites: "Craft Magic Arms and Armor, breath of life"
 price: "+30,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/rules/ultimate-equipment/magic-arms-and-armor/Armor Special Abilities#Determination|Determination (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Determination|Determination (PF1 F)]]"

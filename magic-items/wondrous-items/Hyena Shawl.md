@@ -8,7 +8,6 @@ caster-level: 8
 prerequisites: "Craft Wondrous Item, fear"
 price: "11,000 gp"
 cost: "5,500 gp"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/items/misc/Hyena Shawl|Hyena Shawl (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Hyena Shawl|Hyena Shawl (PF1 F)]]"

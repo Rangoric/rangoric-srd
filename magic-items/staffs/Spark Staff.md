@@ -9,7 +9,6 @@ price: "12,650 gp"
 cost: "6,475 gp"
 weight: "2 lbs."
 recharge: true
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/staves/Spark Staff|Spark Staff (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Spark Staff|Spark Staff (PF1 F)]]"

@@ -8,7 +8,6 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, divine favor, creator's caster level must be at least triple the belt's bonus (15)"
 price: "50,000 gp"
 cost: "25,000 gp"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Belt of Superior Maneuvers|Belt of Superior Maneuvers (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Belt of Superior Maneuvers +5|Belt of Superior Maneuvers +5 (PF1 F)]]"

@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, speak with animals, summon nature's ally II
 price: "22,600 gp"
 cost: "11,300 gp"
 weight: "2 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Howling Helm|Howling Helm (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Howling Helm|Howling Helm (PF1 F)]]"

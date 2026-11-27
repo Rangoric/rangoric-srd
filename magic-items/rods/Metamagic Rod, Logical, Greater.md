@@ -7,7 +7,6 @@ caster-level: 17
 prerequisites: "Craft Rod, Logical Spell"
 price: "24,500 gp"
 cost: "12,250 gp"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/gear/Logical Metamagic Rod, Greater|Logical Metamagic Rod, Greater (PF1 F)]]"
 status: draft

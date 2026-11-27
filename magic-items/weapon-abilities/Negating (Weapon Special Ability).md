@@ -8,7 +8,6 @@ aura: "Moderate abjuration"
 caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, dispel chaos, dispel evil, dispel good, or dispel law"
 price: "+2 bonus"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/weapon-special-abilities/Negating|Negating (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Negating|Negating (PF1 F)]]"

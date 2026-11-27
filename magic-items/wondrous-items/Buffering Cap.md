@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, shield"
 price: "2,000 gp"
 cost: "1,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Buffering Cap|Buffering Cap (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Buffering Cap|Buffering Cap (PF1 F)]]"

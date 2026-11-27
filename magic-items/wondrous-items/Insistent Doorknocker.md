@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, passwall"
 price: "5,000 gp"
 cost: "2,500 gp"
 weight: "2 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Insistent Doorknocker|Insistent Doorknocker (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Insistent Doorknocker|Insistent Doorknocker (PF1 F)]]"

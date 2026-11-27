@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, find the path, locate creature, locate obje
 price: "1,000 gp"
 cost: "500 gp"
 weight: "1/2 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Dowsing Syrup|Dowsing Syrup (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Dowsing Syrup|Dowsing Syrup (PF1 F)]]"

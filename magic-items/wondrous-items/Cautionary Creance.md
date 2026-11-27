@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, Reach Spell, feather fall"
 price: "4,000 gp"
 cost: "2,000 gp"
 weight: "2 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Cautionary Creance|Cautionary Creance (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Cautionary Creance|Cautionary Creance (PF1 F)]]"

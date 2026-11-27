@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, prestidigitation, creator must have at leas
 price: "1,500 gp"
 cost: "750 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Quickchange Cloak|Quickchange Cloak (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Quickchange Cloak|Quickchange Cloak (PF1 F)]]"

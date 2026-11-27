@@ -7,7 +7,6 @@ caster-level: 1
 prerequisites: "Forge Ring, pass without trace, shillelagh"
 price: "6,000 gp"
 cost: "3,000 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/rings/Ring of Sacred Mistletoe|Ring of Sacred Mistletoe (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Ring of Sacred Mistletoe|Ring of Sacred Mistletoe (PF1 F)]]"

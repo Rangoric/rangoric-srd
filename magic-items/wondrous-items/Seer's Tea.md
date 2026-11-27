@@ -8,7 +8,6 @@ caster-level: 3
 prerequisites: "Craft Wondrous Item, augury or divination"
 price: "550 gp"
 cost: "275 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Seer's Tea|Seer's Tea (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Seer's Tea|Seer's Tea (PF1 F)]]"

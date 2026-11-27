@@ -6,7 +6,6 @@ aura: "Moderate transmutation"
 caster-level: 6
 prerequisites: "Craft Magic Arms and Armor, Channel Smite, align weapon"
 price: "+1 bonus"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/weapon-special-abilities/Grayflame|Grayflame (PF1)]]"
   - "[[path srd 3.5 foundry/items/special-abilities/Grayflame|Grayflame (PF1 F)]]"

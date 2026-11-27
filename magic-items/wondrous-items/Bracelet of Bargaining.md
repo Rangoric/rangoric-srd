@@ -8,7 +8,6 @@ caster-level: 7
 prerequisites: "Craft Wondrous Item, discern lies, detect thoughts"
 price: "14,500 gp"
 cost: "7,250 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Bracelet of Bargaining|Bracelet of Bargaining (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Bracelet of Bargaining|Bracelet of Bargaining (PF1 F)]]"

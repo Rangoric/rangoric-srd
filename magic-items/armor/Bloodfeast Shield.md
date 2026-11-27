@@ -7,7 +7,6 @@ caster-level: 12
 prerequisites: "Craft Magic Arms and Armor, vampiric touch"
 price: "18,770 gp"
 cost: "9,470 gp"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/items/misc/Bloodfeast shield|Bloodfeast Shield (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Bloodfeast Shield|Bloodfeast Shield (PF1 F)]]"

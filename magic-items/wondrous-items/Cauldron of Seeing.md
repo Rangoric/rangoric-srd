@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, scrying"
 price: "42,000 gp"
 cost: "21,000 gp"
 weight: "5 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Cauldron of Seeing|Cauldron of Seeing (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Cauldron of Seeing|Cauldron of Seeing (PF1 F)]]"

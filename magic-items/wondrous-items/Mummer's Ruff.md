@@ -8,7 +8,6 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, sculpt sound, ventriloquism"
 price: "3,500 gp"
 cost: "1,750 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Mummer's Ruff|Mummer's Ruff (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Mummer's Ruff|Mummer's Ruff (PF1 F)]]"

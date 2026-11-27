@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, eagle's splendor"
 price: "36,000 gp"
 cost: "18,000 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Headband of Alluring Charisma|Headband of Alluring Charisma (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Headband of Alluring Charisma +6|Headband of Alluring Charisma +6 (PF1 F)]]"

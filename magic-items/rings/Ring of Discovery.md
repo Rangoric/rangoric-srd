@@ -7,7 +7,6 @@ aliases:
 caster-level: 12
 prerequisites: "Forge Ring, identify"
 price: "5,500 gp"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/magic-items/Discovery|Discovery (Spells & Magic)]]"
 status: draft

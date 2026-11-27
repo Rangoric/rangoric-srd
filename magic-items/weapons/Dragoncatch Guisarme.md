@@ -7,7 +7,6 @@ caster-level: 8
 prerequisites: "Craft Magic Arms and Armor, black tentacles, summon monster I"
 price: "13,308 gp"
 cost: "6,808 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/specific-magic-weapons/Dragoncatch Guisarme|Dragoncatch Guisarme (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Dragoncatch Guisarme|Dragoncatch Guisarme (PF1 F)]]"

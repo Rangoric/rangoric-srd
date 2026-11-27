@@ -5,7 +5,6 @@ item-type: "Potion"
 caster-level: 5
 prerequisites: "Brew Potion, caster level 6th+"
 price: "2,250 gp"
-book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/magic-items/Wine of Leadership|Wine of Leadership (Spells & Magic)]]"
 status: draft

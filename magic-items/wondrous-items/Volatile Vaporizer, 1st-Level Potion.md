@@ -10,7 +10,6 @@ caster-level: 4
 prerequisites: "Craft Wondrous Item, alchemical allocation"
 price: "2,200 gp"
 cost: "1,100 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Volatile Vaporizer|Volatile Vaporizer (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Volatile Vaporizer 1st-level|Volatile Vaporizer 1st-level (PF1 F)]]"

@@ -6,7 +6,6 @@ aura: "Moderate enchantment"
 caster-level: 12
 prerequisites: "Craft Magic Arms and Armor, make whole"
 price: "+3 bonus"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/items/firearms/Reliable, Greater|Reliable, Greater (PF1)]]"
 status: draft

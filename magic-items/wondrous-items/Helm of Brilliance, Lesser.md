@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, detect undead, fireball, flame blade, flami
 price: "36,000 gp"
 cost: "18,000 gp"
 weight: "3 lbs."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Helm of Brilliance, Lesser|Helm of Brilliance, Lesser (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Helm of Brilliance, Lesser|Helm of Brilliance, Lesser (PF1 F)]]"

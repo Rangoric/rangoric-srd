@@ -6,7 +6,6 @@ aura: "Moderate abjuration"
 caster-level: 11
 prerequisites: "Craft Magic Arms and Armor, entropic shield, mage armor"
 price: "+3 bonus"
-book: "Faeries"
 based-on:
   - "[[individual books/Arms & Armor v3.5/armor-qualities/Glancing|Glancing (Arms & Armor)]]"
   - "[[individual books/Faeries/armor-qualities/Deflecting|Deflecting (Faeries)]]"

@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, animal growth"
 price: "14,000 gp"
 cost: "7,000 gp"
 weight: "2 lbs."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Dire Collar, Greater|Dire Collar, Greater (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Dire Collar, Greater|Dire Collar, Greater (PF1 F)]]"

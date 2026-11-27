@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, Extend Spell, dimensional anchor, magic cir
 price: "4,000 gp"
 cost: "2,000 gp"
 weight: "—"
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/wondrous/Thaumaturgic Powder|Thaumaturgic Powder (PF1 F)]]"
 status: draft

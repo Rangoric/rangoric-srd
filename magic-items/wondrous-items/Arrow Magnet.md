@@ -8,7 +8,6 @@ caster-level: 3
 prerequisites: "Craft Wondrous Item, protection from arrows"
 price: "600 gp"
 cost: "300 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/wondrous-items/Arrow Magnet|Arrow Magnet (PF1)]]"
   - "[[path srd 3.5 foundry/items/wondrous/Arrow Magnet|Arrow Magnet (PF1 F)]]"

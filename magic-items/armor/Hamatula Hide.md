@@ -7,7 +7,6 @@ caster-level: 9
 prerequisites: "Craft Magic Arms and Armor, polymorph, resist fire"
 price: "44,215 gp"
 cost: "22,215 gp"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/specific-magic-armor-and-shields/Hamatula Hide|Hamatula Hide (PF1)]]"
   - "[[path srd 3.5 foundry/items/magic-items/Hamatula Hide|Hamatula Hide (PF1 F)]]"
