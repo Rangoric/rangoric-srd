@@ -20,8 +20,8 @@ tags: [rangoric, rangoric/magic-item]
 This _+2 quarterstaff_ is made from a long, sturdy, oaken branch. Living vines and leaves sprout from it and twine up and down its length. It allows its wielder to call forth the following effects:
 
 - _[[rangoric-srd/spells/Summon Nature’s Ally III|summon nature’s ally III]]_ (1 charge)
-- _[[rangoric-srd/spells/Call Lightning|call lightning]]_ (1 charge, DC 15)
-- _[[rangoric-srd/spells/Insect Plague|insect plague]]_ (2 charges, DC 17)
+- _[[rangoric-srd/spells/Call Lightning|call lightning]]_ (1 charge, +5 vs Reflex)
+- _[[rangoric-srd/spells/Insect Plague|insect plague]]_ (2 charges, +7)
 - _[[rangoric-srd/spells/Summon Nature’s Ally VI|summon nature’s ally VI]]_ (2 charges)
 - _[[rangoric-srd/spells/Creeping Doom|creeping doom]]_ (3 charges)
 

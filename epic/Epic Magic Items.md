@@ -405,7 +405,7 @@ Metamagic (10)
 
 Staffs have 50 charges when created, and they can’t be recharged.
 
-Staffs use the wielder’s ability score and relevant feats to set the DC for saves against their spells in such cases where those values would be higher than the listed values for the staffs.
+Staffs use the wielder’s ability score and relevant feats to set the attack bonus of their spells in such cases where those values would be higher than the listed values for the staffs.
 
 |        |               |              |
 | ------ | ------------- | ------------ |

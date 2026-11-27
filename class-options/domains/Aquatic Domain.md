@@ -20,7 +20,7 @@ _A druid domain, which a [[rangoric-srd/classes/Druid|druid]] can take through h
 
 You master the deeps of the sea, raging rivers, flowing falls, and relentless tides.
 
-**Sealord (Su)**: You can channel energy (as a cleric of your druid level) a number of times per day equal to 3 + your Charisma modifier, but only to heal creatures with the aquatic or water subtype or to command them (as an evil cleric rebukes or commands undead). You can take other feats to add to this ability, such as Extra Channel and Improved Channel, but not feats that alter this ability, such as Elemental Channel and Alignment Channel. The DC to save against this ability is equal to 10 + 1/2 your druid level + your Charisma modifier.
+**Sealord (Su)**: You can channel energy (as a cleric of your druid level) a number of times per day equal to 3 + your Charisma modifier, but only to heal creatures with the aquatic or water subtype or to command them (as an evil cleric rebukes or commands undead). You can take other feats to add to this ability, such as Extra Channel and Improved Channel, but not feats that alter this ability, such as Elemental Channel and Alignment Channel. The attack bonus of this ability is equal to 1/2 your druid level + your Charisma modifier.
 
 **Seastrike (Su)**: At 6th level, as a free action, you may use natural and manufactured weapons in water as if you had continuous freedom of movement. As a standard action, you can throw a weapon underwater without the normal penalties for throwing weapons; if your target is in or under the water, the weapon also acts as a returning weapon for that attack.
 

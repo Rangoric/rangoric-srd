@@ -19,9 +19,9 @@ _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special
 Soulbound dolls are at least partially neutral in alignment, although they can also be chaotic, evil, good, or lawful. They have an alignment-dependent spell-like ability usable once per day as listed below.
 
 - _Chaotic Neutral_: _[[rangoric-srd/spells/Rage|rage]]_
-- _Lawful Neutral_: _[[rangoric-srd/spells/Suggestion|suggestion]]_ (DC 12)
-- _Neutral_: _[[rangoric-srd/spells/Deep Slumber|deep slumber]]_ (DC 12)
-- _Neutral Evil_: _[[rangoric-srd/spells/Inflict Serious Wounds|inflict serious wounds]]_ (DC 12)
+- _Lawful Neutral_: _[[rangoric-srd/spells/Suggestion|suggestion]]_ (+2 vs Will)
+- _Neutral_: _[[rangoric-srd/spells/Deep Slumber|deep slumber]]_ (+2 vs Will)
+- _Neutral Evil_: _[[rangoric-srd/spells/Inflict Serious Wounds|inflict serious wounds]]_ (+2 vs Will)
 - _Neutral Good_: _[[rangoric-srd/spells/Heroism|heroism]]_
 
 The [[rangoric-srd/monsters/soulbound/Soulbound Doll|soulbound doll]] has it.

@@ -20,14 +20,14 @@ tags: [rangoric, rangoric/magic-item]
 This staff appears as an ornately carved wooden staff, capped on the bottom with a richly sculpted silver tip. Atop the staff is a pair of elaborate silver claws grasping a crystalline orb filled with a swirling cloud of _[[rangoric-srd/rules/Faercana#^magic-sand|magic sand]]_. Few of these treasured staffs have been made (at least as far as most know) and fewer still are currently in use. The Faerie Queen Titania wields one while holding court, and occasionally grants one of its boons to a worthy subject. To reward an extremely exceptional deed, the Faerie Queen has even given one of these treasured staffs away (although it has been many centuries since the last such occurrence). While held, the _staff of the fey_ grants the following benefits:
 
 - A +1 sacred bonus to AC;
-- A +1 sacred bonus to all saves; and
+- A +1 sacred bonus to all defenses; and
 - A +10 circumstance bonus on any [[rangoric-srd/feats/Crossing Over|Crossing Over]] checks.
 
 When newly created, each staff has 50 charges. These charges can be used to activate the following abilities.
 
 - _[[rangoric-srd/spells/Nature’s Aspect (Spell)|nature’s aspect]]_ (1 charge)
 - _[[rangoric-srd/spells/Detect Fey Doorway|detect fey doorway]]_ (1 charge)
-- _[[rangoric-srd/spells/Befriend Doorway Guardian|befriend doorway guardian]]_ (heightened to 5th level, DC 19) (2 charges)
+- _[[rangoric-srd/spells/Befriend Doorway Guardian|befriend doorway guardian]]_ (heightened to 5th level, +9 vs Will) (2 charges)
 - _[[rangoric-srd/spells/Fork Path|fork path]]_ (2 charges)
 - _[[rangoric-srd/spells/Open Doorway|open doorway]]_ (2 charges)
 - _[[rangoric-srd/spells/Stray From Path|stray from path]]_ (2 charges)

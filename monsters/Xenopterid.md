@@ -67,6 +67,6 @@ Xenopterids live in colonies in abandoned ruins, old castles, decrepit farmstead
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Entangling Slime|Entangling Slime]] (Ex)**: A xenopterid can produce a sticky, slimy secretion it uses to protect its territory and eggs. The xenopterid can slime up to a 10-foot-square area per day at a rate of 1 square foot per minute. For 1 week thereafter, any creature coming in direct contact with the slime must succeed at a DC 19 Strength check or be [[rangoric-srd/rules/Special Abilities and Conditions#^entangled|entangled]] and glued to it as if it had failed its save against a tanglefoot bag. The attack bonus is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Entangling Slime|Entangling Slime]] (Ex)**: A xenopterid can produce a sticky, slimy secretion it uses to protect its territory and eggs. The xenopterid can slime up to a 10-foot-square area per day at a rate of 1 square foot per minute. For 1 week thereafter, any creature coming in direct contact with the slime must succeed at a DC 19 Strength check or be [[rangoric-srd/rules/Special Abilities and Conditions#^entangled|entangled]] and glued to it as if a tanglefoot bag had hit it. The attack bonus is Constitution-based.
 
 **[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; _attack_ +9 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Dex; _cure_ 2 consecutive misses. The attack bonus is Constitution-based.

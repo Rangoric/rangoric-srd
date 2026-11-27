@@ -25,7 +25,7 @@ _Alchana; Special_
 
 Emerald tablets are penultimate creations, because they are a necessary step along the great alchemical quest for the Alchana Stones. An emerald tablet can be used up to 3 times per day and its surface flakes away slowly with each use (3d20 charges). It can automatically perform these powers and alchemical abilities when worn or carried in contact with the bearer’s skin (i.e. as an amulet beneath a shirt):
 
-- Emerald tablets provide a +1 insight bonus to all saves;
+- Emerald tablets provide a +1 insight bonus to all defenses;
 - Emerald tablets provide a +2 bonus to counterspelling or any of the following skill checks: [[rangoric-srd/skills/Craft|Craft]] (alchemy), [[rangoric-srd/skills/Medicine|Medicine]], [[rangoric-srd/skills/Perception|Perception]], and [[rangoric-srd/skills/Mysticism|Mysticism]].
 
 One of the things that disturbs many alchemists and clients about emerald stones is their temporary nature. Not only do they crumble with use, they must be destroyed utterly during the Alchana Stone creation process, without any guarantee that the Alchana Stone will result. (The costs to create an emerald tablet are not subtracted from the costs of creating an Alchana Stone.) Emerald Tablets must also have at least 12 charges when using them in the creation of an Alchana Stone or else the process will automatically fail.

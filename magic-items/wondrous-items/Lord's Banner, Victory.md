@@ -25,6 +25,6 @@ A _lord's banner_ is a cloth flag or standard, typically at least 2 feet wide an
 
 A _lord's banner_ may be carried (on foot or mounted) or planted. In the latter case, the banner does not need a bearer, but if it is toppled or touched by an enemy, it loses its effectiveness until reclaimed and replanted by allies of its owner.
 
-**Victory**: Allies of the owner of a _lord's banner of victory_ gain a +2 morale bonus on attack rolls, saves, and skill checks for as long as they can see the banner.
+**Victory**: Allies of the owner of a _lord's banner of victory_ gain a +2 morale bonus on attack rolls, defenses, and skill checks for as long as they can see the banner.
 
 Moderate (various schools); CL 10th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Heroism|heroism]]_; Price 75,000 gp; Cost 37,500 gp; Weight 3 lbs.

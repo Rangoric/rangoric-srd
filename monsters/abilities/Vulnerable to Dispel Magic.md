@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “vulnerable to dispel magic”, on the Special Qualities line.
 
-When the creature is targeted by dispel magic, it takes 1d6 points of damage per caster level (maximum 10d6, Fortitude save for half). Greater dispel magic functions similarly (maximum 20d6 damage, Fortitude save for half). The [[rangoric-srd/monsters/Disenchanter|disenchanter]] has it.
+When the creature is targeted by dispel magic, it takes 1d6 points of damage per caster level (maximum 10d6, vs Fortitude; a miss halves). Greater dispel magic functions similarly (maximum 20d6 damage, vs Fortitude; a miss halves). The [[rangoric-srd/monsters/Disenchanter|disenchanter]] has it.

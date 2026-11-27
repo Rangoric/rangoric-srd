@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Dimensional Shackles
 
-These shackles have golden runes traced across their cold iron surface. Any creature bound within them is affected as if a dimensional anchor spell were cast upon her (no save). They fit any Small to Large creature. The DC to break or slip out of the shackles is 30.
+These shackles have golden runes traced across their cold iron surface. Any creature bound within them is affected as if a dimensional anchor spell were cast upon her (no attack against a defense). They fit any Small to Large creature. The DC to break or slip out of the shackles is 30.
 
 Moderate abjuration; CL 11th; Craft Wondrous Item, dimensional anchor; Price 28,000 gp;Weight 5 lb.

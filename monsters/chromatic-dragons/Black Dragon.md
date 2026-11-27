@@ -117,7 +117,7 @@ Black dragons prefer to ambush their targets, using their surroundings as cover.
 
 **Breath Weapon (Su)**: A black dragon has one type of breath weapon, a line of acid, dealing 2d6 points of acid damage per age category.
 
-**Acid Pool (Su)**: An ancient or older black dragon can use its breath weapon to create an acid pool as a standard action. This acid pool has a radius of 5 feet per age category of the dragon. When an acid pool is created, anyone inside its area takes an amount of damage equal to the dragon's breath weapon (vs Reflex; a miss halves). Any creature that starts its turn touching this pool takes damage, but can make a Reflex save for half. Each round, the total damage dice of the pool is halved until the result would be less than 1d6. The acid pool floats on water, and deals damage to anything on the surface.
+**Acid Pool (Su)**: An ancient or older black dragon can use its breath weapon to create an acid pool as a standard action. This acid pool has a radius of 5 feet per age category of the dragon. When an acid pool is created, anyone inside its area takes an amount of damage equal to the dragon's breath weapon (vs Reflex; a miss halves). Any creature that starts its turn touching this pool takes damage (vs Reflex; a miss halves). Each round, the total damage dice of the pool is halved until the result would be less than 1d6. The acid pool floats on water, and deals damage to anything on the surface.
 
 **Acidic Bite (Su)**: At old age, a black dragon's bite deals an additional 2d6 points of acid damage. An ancient dragon's damage increases to 4d6, and a great wyrm's to 6d6.
 

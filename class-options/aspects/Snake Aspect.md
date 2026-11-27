@@ -26,6 +26,6 @@ At 8th level, you gain a +4 racial bonus on Acrobatics and Stealth checks.
 
 At 15th level, when you make an attack of opportunity with your bite attack, that attack also applies the following [[rangoric-srd/rules/Afflictions#Poison|poison]].
 
-_Poison (Ex):_ Bite—injury; save Fort DC = 10 + half your shifter level + your Constitution modifier; frequency 1/round for 6 rounds; effect 1d3 Con damage; cure 2 consecutive saves.
+_Poison (Ex):_ Bite—injury; attack bonus half your shifter level + your Constitution modifier vs Fortitude; frequency 1/round for 6 rounds; effect 1d3 Con damage; cure 2 consecutive misses.
 
 **Alternate Natural Attacks**: Bite (B, P, S), tail slap (B)

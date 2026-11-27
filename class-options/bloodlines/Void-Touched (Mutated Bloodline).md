@@ -21,7 +21,7 @@ The darkness between the stars calls to you.
 
 **Associated Bloodline**: [[rangoric-srd/class-options/bloodlines/Starsoul Bloodline|Starsoul]].
 
-**Bloodline Arcana**: Whenever you cast an evocation spell, you may select one affected target that fails its save to suffer the choking airlessness of the void, silencing it (as _[[rangoric-srd/spells/Silence|silence]]_, but affecting only the target) for 1 round. This is a supernatural ability.
+**Bloodline Arcana**: Whenever you cast an evocation spell, you may select one target the spell hits to suffer the choking airlessness of the void, silencing it (as _[[rangoric-srd/spells/Silence|silence]]_, but affecting only the target) for 1 round. This is a supernatural ability.
 
 **Bloodline Powers**: Your magic is blacker than any night.
 

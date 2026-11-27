@@ -46,14 +46,14 @@ The temperant bath takes its time in altering the composition and strength of an
 
 **Table: Temperant Baths**
 
-| Temperant Baths                             | HP of Item                                  | Break DC                                 | Hardness/AC bonus#      |
-| ------------------------------------------- | ------------------------------------------- | ---------------------------------------- | ----------------------- |
-| Antemperant                                 | As any but bonus becomes a negative penalty | Reduce hardness of item by same amounts. |                         |
-| Lesser—Pliant\* (wood, leather, metal only) | +4                                          | +3                                       | +1                      |
-| Lesser—Resistant\*                          | — (see above)                               | — (see above)                            | — (see above)           |
-| Minor\*                                     | +5                                          | +3                                       | +2                      |
-| Major                                       | +10                                         | +6                                       | +3; Fort Save +3 (item) |
-| Prime                                       | +15                                         | +9                                       | +4; Can be enchanted    |
+| Temperant Baths                             | HP of Item                                  | Break DC                                 | Hardness/AC bonus#         |
+| ------------------------------------------- | ------------------------------------------- | ---------------------------------------- | -------------------------- |
+| Antemperant                                 | As any but bonus becomes a negative penalty | Reduce hardness of item by same amounts. |                            |
+| Lesser—Pliant\* (wood, leather, metal only) | +4                                          | +3                                       | +1                         |
+| Lesser—Resistant\*                          | — (see above)                               | — (see above)                            | — (see above)              |
+| Minor\*                                     | +5                                          | +3                                       | +2                         |
+| Major                                       | +10                                         | +6                                       | +3; Fort Defense +3 (item) |
+| Prime                                       | +15                                         | +9                                       | +4; Can be enchanted       |
 
 \*: These temperant baths must be created specifically for one of five types of materials: leather or animal hide, wood or plant matter, bones or undead matter, metal, or stone. Thus the tub in which the bath is placed must be immune to its effects, and the immersion will not affect any materials to which it is not keyed.
 

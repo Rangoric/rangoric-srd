@@ -62,7 +62,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: —
 - **Level Adjustment**: —
 
-The thick, orange poison injected by a chernobue is semi-alive. As soon as the poisoned victim is cured of the poison (by making a save, being targeted with an effect like neutralize poison, or enduring the full duration of the poison), the orange fluid bursts from the victim's body, causing 1d6 Charisma damage and rendering the victim [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]] for 2d6 rounds unless he makes a final DC 23 Fortitude save.
+The thick, orange poison injected by a chernobue is semi-alive. As soon as the poisoned victim is cured of the poison (by the poison missing, being targeted with an effect like neutralize poison, or enduring the full duration of the poison), the orange fluid bursts from the victim's body and attacks his Fortitude a final time at +13; on a hit it deals 1d6 Charisma damage and renders the victim [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]] for 2d6 rounds.
 
 The chernobue is a living manifestation of the vile fecundity of the [[rangoric-srd/rules/planes/The Abyss|Abyss]]—a monstrous, alien pregnancy made flesh. By infecting creatures with the Abyssal taint they carry, they spread pain and misfortune wherever they flop and writhe—and with their _[[rangoric-srd/spells/Plane Shift|plane shift]]_ ability, they are ready to spread their filth throughout the multiverse. A chernobue is 13 feet long and weighs 500 pounds.
 

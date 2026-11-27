@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/herb]
 - **Environment**: Any Temperate
 - **Harvest**: Annual
 - **Cost**: 5 cp/oz. of leaves, dried or fresh
-- **Game Use**: Herb/Food & Spice & Tea, Medicine (stuff 5 fresh leaves into a poisoned wound to gain an immediate Fort Save vs. poison)
+- **Game Use**: Herb/Food & Spice & Tea, Medicine (stuff 5 fresh leaves into a poisoned wound to make the poison attack again at once, ending on a miss)
 
 A common herb found in nearly every garden, basil’s rounded leaves and aromatic scent are easily recognized by most folk. It is used most regularly as a cooking spice, but it also works in a hot infusion as a medicine versus internal discomforts.
 

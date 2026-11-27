@@ -40,6 +40,6 @@ _Transmutation_
 - **Defense**: Will (see text)
 - **Spell Resistance**: Yes
 
-This spell increases the normal range of vision by ten times, allowing the spell recipient to see much further than normal. Due to the magics involved, the recipient cannot focus on objects within 100 feet, though the spell can be dismissed at will by the caster. Combat while under the effects of this spell is very difficult, and imparts a –4 penalty to attack rolls and to Reflex Defense. An unwilling recipient can resist this spell, and if it is successfully saved against, the spell has no effect.
+This spell increases the normal range of vision by ten times, allowing the spell recipient to see much further than normal. Due to the magics involved, the recipient cannot focus on objects within 100 feet, though the spell can be dismissed at will by the caster. Combat while under the effects of this spell is very difficult, and imparts a –4 penalty to attack rolls and to Reflex Defense. The spell attacks an unwilling recipient, and on a miss it has no effect.
 
 _Material Component_: a small convex crystal lens worth 25 gp.

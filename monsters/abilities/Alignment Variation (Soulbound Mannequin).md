@@ -18,6 +18,6 @@ _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special
 
 Soulbound mannequins are at least partially neutral in alignment, although they can also be chaotic, evil, good, or lawful. They have an alignment-dependent spell-like ability usable once per day as listed below.
 
-- _Chaotic Neutral_: _[[rangoric-srd/spells/Confusion|confusion]]_ (DC 13)
+- _Chaotic Neutral_: _[[rangoric-srd/spells/Confusion|confusion]]_ (+3 vs Will)
 
 The [[rangoric-srd/monsters/soulbound/Soulbound Mannequin|soulbound mannequin]] has it.

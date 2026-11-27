@@ -24,8 +24,6 @@ What the notes in `equipment/herbs` look like. Expands on [[rangoric-srd/equipme
 | `cost`            | yes      | `text`                   |
 | `affliction-type` | no       | `poison`                 |
 | `delivery`        | no       | `ingested`               |
-| `save`            | no       | `text`                   |
-| `save-dc`         | no       | `number`                 |
 | `effect`          | no       | `text`                   |
 | `frequency`       | no       | `1/minute for 2 minutes` |
 

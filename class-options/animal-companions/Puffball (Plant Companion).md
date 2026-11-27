@@ -24,7 +24,7 @@ _A plant companion that a [[rangoric-srd/class-options/archetypes/druid/Treesing
 - **AC**: +1 natural armor
 - **Attack**: thorn (1d4 plus poison)
 - **Ability scores**: Str 10, Dex 15, Con 12, Int 2, Wis 14, Cha 6
-- **Special attacks**: [[rangoric-srd/rules/Special Abilities and Conditions#Poison|poison]] (_Frequency_ 1 round \[6\], _Effect_ 1 Con damage, _Cure_ 1 save, Con-based DC)
+- **Special attacks**: [[rangoric-srd/rules/Special Abilities and Conditions#Poison|poison]] (_Frequency_ 1 round \[6\], _Effect_ 1 Con damage, _Cure_ 1 miss, Con-based attack bonus)
 - **Special qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|low-light vision]]
 
 ## 4th-Level Advancement

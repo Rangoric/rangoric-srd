@@ -29,5 +29,5 @@ Each spell takes the place of the domain’s spells at its level (both, where it
 
 | Level | Spell                                                | Brief Description                                            |
 | ----- | ---------------------------------------------------- | ------------------------------------------------------------ |
-| 1st   | [[rangoric-srd/spells/Bless\|Bless]]                 | Allies gain +1 on attack rolls and saves against fear.       |
+| 1st   | [[rangoric-srd/spells/Bless\|Bless]]                 | Allies gain +1 on attack rolls and defenses against fear.    |
 | 6th   | [[rangoric-srd/spells/Heroes’ Feast\|Heroes’ Feast]] | Food for one creature/level cures and grants combat bonuses. |

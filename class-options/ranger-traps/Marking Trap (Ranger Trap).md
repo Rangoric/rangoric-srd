@@ -22,4 +22,4 @@ _An add-on [[rangoric-srd/class-options/ranger-traps/Ranger Traps|ranger trap]] 
 
 - **Type**: mechanical or magic
 - **Trigger**: location; **Reset**: none; [[rangoric-srd/class-options/ranger-traps/Ranger Traps#^ranger-traps-dc|DCs]] and [[rangoric-srd/class-options/ranger-traps/Ranger Traps#^ranger-traps-duration|duration]] as for every ranger trap
-- **Effect**: If the triggering creature fails its save against the trap, it is marked with a dye and/or scent of the ranger’s choosing. A scent mark decreases the DC of tracking the marked creature by [[rangoric-srd/monsters/abilities/Scent|scent]] by 4. The mark can be washed off with vigorous scrubbing, but fades on its own over several days.
+- **Effect**: If the trap hits the triggering creature, it is marked with a dye and/or scent of the ranger’s choosing. A scent mark decreases the DC of tracking the marked creature by [[rangoric-srd/monsters/abilities/Scent|scent]] by 4. The mark can be washed off with vigorous scrubbing, but fades on its own over several days.

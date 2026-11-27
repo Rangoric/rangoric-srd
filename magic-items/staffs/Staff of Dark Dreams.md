@@ -20,13 +20,13 @@ tags: [rangoric, rangoric/magic-item]
 
 This slender staff of oak so dark it seems black is shod with iron. Decorated with necromantic runes, it is capped with a deep purple gem. It has the following powers:
 
-- _[[rangoric-srd/spells/Cause Fear|Cause fear]]_ (at will, DC 13)
+- _[[rangoric-srd/spells/Cause Fear|Cause fear]]_ (at will, +3 vs Will)
 
-- _[[rangoric-srd/spells/Scare|Scare]]_ (1 charge, DC 15)
+- _[[rangoric-srd/spells/Scare|Scare]]_ (1 charge, +5 vs Will)
 
-- _[[rangoric-srd/spells/Fear|Fear]]_ (1 charge, DC 18)
+- _[[rangoric-srd/spells/Fear|Fear]]_ (1 charge, +8 vs Will)
 
-- _[[rangoric-srd/spells/Nightmare (Spell)|Nightmare]]_ (2 charges, DC 17)
+- _[[rangoric-srd/spells/Nightmare (Spell)|Nightmare]]_ (2 charges, +7 vs Will)
 
 - _[[rangoric-srd/spells/Dream Travel (Spell)|Dream travel]]_ (2 charges)
 

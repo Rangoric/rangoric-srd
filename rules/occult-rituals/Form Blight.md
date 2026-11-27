@@ -25,7 +25,7 @@ _Necromancy; [[rangoric-srd/rules/occult-rituals/Occult Rituals|occult ritual]] 
 - **Area**: a 5-square-mile area of suitable terrain; see text
 - **Duration**: instantaneous
 - **Backlash**: All casters take 6d6 points of damage and are [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhausted]].
-- **Failure**: The primary caster takes 15d6 points of damage (no save). If this damage kills her, she is reduced to a pile of rotten sludge and can be restored only by _[[rangoric-srd/spells/True Resurrection|true resurrection]]_ or greater magic.
+- **Failure**: The primary caster takes 15d6 points of damage (no attack against a defense). If this damage kills her, she is reduced to a pile of rotten sludge and can be restored only by _[[rangoric-srd/spells/True Resurrection|true resurrection]]_ or greater magic.
 
 The primary caster leads a grueling session of incantations and physical feats through a specific type of terrain, such as cave, desert, forest, mountain, sewer, swamp or tundra. The ritual corrupts the area, calling forth a blight of that terrain and making the area its cursed domain. The DC of the ritual’s skill checks is 24 + the blight’s CR (DC 37 for a desert blight, DC 40 for a tundra blight, and so on). During the ritual, the primary caster guides any secondary casters through the terrain, defiling it with words of an extinct primordial language. A bone altar must stand at the center of the area, and is the start and end of the ritual. Once the area is prepared, the primary caster places the hearts in the altar, and if the ritual succeeds, the blight rises from the alchemical liquid the altar holds.
 

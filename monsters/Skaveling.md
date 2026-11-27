@@ -71,4 +71,4 @@ Skavelings speak Undercommon.
 
 A humanoid who dies of ghoul fever rises as a ghoul at the next midnight (see [[rangoric-srd/monsters/ghoul/Ghoul|ghouls]]).
 
-**[[rangoric-srd/monsters/abilities/Screech|Screech]] (Su)**: Once per day as a standard action, a skaveling can screech as a mobat, save that those who are affected are [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1d3 rounds unless they make a DC 16 Fortitude save. The attack bonus is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Screech|Screech]] (Su)**: Once per day as a standard action, a skaveling can screech as a mobat, save that those it hits (+6 vs Fortitude) are [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1d3 rounds. The attack bonus is Charisma-based.

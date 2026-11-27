@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/magic-item]
 
 # Serpentine Choker
 
-This finely wrought iron slave collar is embedded with flecks of pyrite and resembles a stylized rendering of a snake eating its own tail. To function, it must be placed around the neck of a [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]] living creature of up to Large size. A creature that speaks the command word while touching the collar can hold the wearer accountable to a single service or course of action (as if affected by _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, DC 19) for the next 11 days.
+This finely wrought iron slave collar is embedded with flecks of pyrite and resembles a stylized rendering of a snake eating its own tail. To function, it must be placed around the neck of a [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]] living creature of up to Large size. A creature that speaks the command word while touching the collar can hold the wearer accountable to a single service or course of action (as if affected by _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, +9) for the next 11 days.
 
 Instead of the penalties associated with that spell, if the wearer deviates from this action or attempts to remove the collar before the service ends—either directly or by encouraging others to—the collar tightens and begins to choke the wearer into submission (as if affected by _[[rangoric-srd/spells/Suffocation|suffocation]]_). The choking effect ends once the wearer falls [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]]. A _serpentine choker_ can be removed safely if the controlling creature speaks the command word again while touching the collar, or as if it were a cursed item.
 
