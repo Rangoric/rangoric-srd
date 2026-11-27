@@ -28,7 +28,7 @@ based-on:
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
-tags: [rangoric, rangoric/spell]
+tags: [rangoric, rangoric/spell, evil]
 ---
 
 # Contagion

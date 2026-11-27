@@ -18,10 +18,10 @@ power-resistance: "Yes"
 power-points: "15, XP"
 based-on:
   - "[[fantasy srd 3.5/powers/Mind Seed|Mind Seed (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
-tags: [rangoric, rangoric/power]
+tags: [rangoric, rangoric/power, evil]
 ---
 
 # Mind Seed

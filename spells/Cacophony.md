@@ -3,7 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Transmutation"
 descriptor:
-  - "Chaos"
+  - "Chaotic"
   - "Sonic"
 level:
   - "Brd 3"
@@ -22,12 +22,12 @@ based-on:
 status: draft
 change: new
 pi-review: 2026-11-10
-tags: [rangoric, rangoric/spell]
+tags: [rangoric, rangoric/spell, chaotic]
 ---
 
 # Cacophony
 
-_Transmutation \[Chaos, Sonic\]_
+_Transmutation \[Chaotic, Sonic\]_
 
 - **Level**: Brd 3, Clr 3, Skd 3
 - **Components**: V

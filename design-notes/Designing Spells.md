@@ -269,7 +269,7 @@ While spell descriptors are frequently overlooked, they play an important role i
 
 **Air**: Spells that create air, manipulate air, or conjure creatures from air-dominant planes or with the air subtype should have the air descriptor.
 
-**Chaotic**: Spells that draw upon the power of true chaos or conjure creatures from chaos-aligned planes or with the chaotic subtype should have the chaos descriptor.
+**Chaotic**: Spells that draw upon the power of true chaos or conjure creatures from chaos-aligned planes or with the chaotic subtype should have the chaotic descriptor.
 
 **Cold**: Cold effects deal damage by making the target colder, typically by blasting it with supernaturally cooled matter or energy. Cold effects also include those that create ice, sleet, or snow out of nothing. They can cause frostbite, numbness, coordination problems, slowed movement and reactions, stupor, and death.
 
@@ -299,7 +299,7 @@ While spell descriptors are frequently overlooked, they play an important role i
 
 **Language-Dependent**: A language-dependent spell uses intelligible language as a medium for communication. If the target cannot understand or hear what the caster of a language-dependent spell says, the spell has no effect, even if the spell hits the target’s defense.
 
-**Lawful**: Spells that draw upon the power of true law or conjure creatures from law-aligned planes or with the lawful subtype should have the law descriptor.
+**Lawful**: Spells that draw upon the power of true law or conjure creatures from law-aligned planes or with the lawful subtype should have the lawful descriptor.
 
 **Light**: Spells that create significant amounts of light or attack darkness effects should have the light descriptor. Giving a spell the light descriptor indicates whether a spell like _[[rangoric-srd/spells/Darkness|darkness]]_ is high enough level counter or dispel it.
 
