@@ -27,13 +27,13 @@ treasure: "Triple"
 alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
-group: "[[rangoric-srd/monsters/linnorm/Linnorm|Linnorm]]"
+group: "[[rangoric-srd/monsters/lindwurms/Lindwurm|Lindwurm]]"
 status: draft
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/monster]
 ---
 
-# Ice Linnorm
+# Ice Lindwurm
 
 - Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]]
 - **Hit Dice**: 18d12+162 (279 hp)
@@ -58,18 +58,18 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: —
 - **Level Adjustment**: —
 
-The ice linnorm dwells amid glacial crevasses and atop wind-blasted mountain peaks—tales speak of climbers unwittingly clambering over the flanks of a particularly immense ice linnorm coiled around a mountain, only to find death at its furious fangs and claws at the summit of their goal. During the fiercest winters, ice linnorms are said to slither down to the lowlands to eat entire villages.
+The ice lindwurm dwells amid glacial crevasses and atop wind-blasted mountain peaks—tales speak of climbers unwittingly clambering over the flanks of a particularly immense ice lindwurm coiled around a mountain, only to find death at its furious fangs and claws at the summit of their goal. During the fiercest winters, ice lindwurms are said to slither down to the lowlands to eat entire villages.
 
-An ice linnorm is 90 feet long and weighs 18,000 pounds.
+An ice lindwurm is 90 feet long and weighs 18,000 pounds.
 
 ### Combat
 
-**Breath Weapon (Su)**: Once every 1d4 rounds as a standard action, an ice linnorm can expel a 60-foot cone of freezing, viscous ooze, dealing 18d8 points of cold damage to all creatures struck (+18 vs Reflex; a miss halves). The freezing ooze clings to those struck, and 1 round later the ooze hardens into thick sheets of ice. Creatures that were damaged are frozen motionless unless they can break free with a DC 25 Strength, Escape Artist, or combat maneuver check. Each round a creature remains frozen it takes 1d6 points of cold damage. Another creature can free a frozen target by tearing away the ice (this takes 1d4 rounds) or dealing at least 20 points of fire damage to the frozen target. Left unattended, the ice crumbles away in 2d4 rounds on its own. Creatures with the fire subtype cannot be frozen in place by this breath weapon. Flying creatures that don't have supernatural flight fall if frozen, and swimming creatures that are frozen rise toward the surface of the water at a speed of 60 feet per round. The attack bonus is Constitution-based.
+**Breath Weapon (Su)**: Once every 1d4 rounds as a standard action, an ice lindwurm can expel a 60-foot cone of freezing, viscous ooze, dealing 18d8 points of cold damage to all creatures struck (+18 vs Reflex; a miss halves). The freezing ooze clings to those struck, and 1 round later the ooze hardens into thick sheets of ice. Creatures that were damaged are frozen motionless unless they can break free with a DC 25 Strength, Escape Artist, or combat maneuver check. Each round a creature remains frozen it takes 1d6 points of cold damage. Another creature can free a frozen target by tearing away the ice (this takes 1d4 rounds) or dealing at least 20 points of fire damage to the frozen target. Left unattended, the ice crumbles away in 2d4 rounds on its own. Creatures with the fire subtype cannot be frozen in place by this breath weapon. Flying creatures that don't have supernatural flight fall if frozen, and swimming creatures that are frozen rise toward the surface of the water at a speed of 60 feet per round. The attack bonus is Constitution-based.
 
-**[[rangoric-srd/monsters/abilities/Death Curse|Death Curse]] (Su)**: When a creature slays an ice linnorm, the slayer is affected by the curse of frost, which the [[rangoric-srd/class-options/rage-powers/Linnorm Death Curse, Ice (Rage Power)|linnorm death curse, ice]] rage power also bestows. _Curse of Frost_: _attack_ +15 vs Will; _effect_ creature gains [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to cold]]. The attack bonus is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Death Curse|Death Curse]] (Su)**: When a creature slays an ice lindwurm, the slayer is affected by the curse of frost, which the [[rangoric-srd/class-options/rage-powers/Lindwurm Death Curse, Ice (Rage Power)|lindwurm death curse, ice]] rage power also bestows. _Curse of Frost_: _attack_ +15 vs Will; _effect_ creature gains [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to cold]]. The attack bonus is Charisma-based.
 
-**Freedom of Movement (Ex)**: An ice linnorm is under the constant effect of _[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]_, as per the spell of the same name. This effect cannot be dispelled.
+**Freedom of Movement (Ex)**: An ice lindwurm is under the constant effect of _[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]_, as per the spell of the same name. This effect cannot be dispelled.
 
 **[[rangoric-srd/monsters/abilities/Poison|Poison]] (Su)**: Bite—injury; _attack_ +18 vs Fortitude; _frequency_ 1/round for 10 rounds; _effect_ 4d6 cold damage and 1d6 Con drain; _cure_ 3 consecutive misses. The attack bonus is Constitution-based.
 
-**True Seeing (Ex)**: An ice linnorm has _[[rangoric-srd/spells/True Seeing|true seeing]]_, as the spell of the same name. This effect cannot be dispelled.
+**True Seeing (Ex)**: An ice lindwurm has _[[rangoric-srd/spells/True Seeing|true seeing]]_, as the spell of the same name. This effect cannot be dispelled.

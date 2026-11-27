@@ -54,6 +54,8 @@
   (Protean Language, 2026-11-27), so a changed note's "<creatures> speak(s) A, B and C." and "Automatic Languages:"
   / "Bonus Languages:" lines name only languages that are rows in it, links dropped first. A line that's mostly not
   capitalized words ("speak with outsiders") isn't a language list (LANGUAGE).
+- Linnorm: no note but legal/ and the Changelog says "linnorm" outside a [[path srd 3.5/...]] link; the SRD calls
+  it the lindwurm (Linnorm to Lindwurm, 2026-11-27; LINNORM).
 - Marks: a note marked `sweep: failing` lists its problems in `sweep-issues`; a listed problem is a warning, one
   not listed still fails. A marked note with no problems left, or a listed issue that's gone, is a warning. A note
   added by the change (--added) can't be marked.
@@ -600,6 +602,18 @@ def languages(rel, body):
     return list(dict.fromkeys(out))
 
 
+LINNORM = re.compile(r'linnorm', re.I)
+
+
+def linnorm(rel, text):
+    """"linnorm" in a note, outside links into the sources (Linnorm to Lindwurm). legal/ and the Changelog are exempt."""
+    if rel.startswith('legal/') or rel == 'Changelog.md':
+        return []
+    text = re.sub(r'\[\[path srd 3\.5/[^\]]*\]\]', '', text)
+    return [f'linnorm (the SRD says lindwurm) -- {line.strip()[:80]}' for line in text.split('\n')
+            if LINNORM.search(line)]
+
+
 SLIPS = [(re.compile(r'(?<![.\]/])(?<!\.\.)\.\.(?![./])'), 'a doubled full stop'), (re.compile(r',,'), 'a doubled comma')]
 
 
@@ -676,6 +690,7 @@ for rel in sorted(f for f in files if f.endswith('.md')):
     found = rule_problems(rel, data, body)
     links.extend(f'{rel}: {p}' for p in edition_names(rel, body))
     links.extend(f'{rel}: {p}' for p in slips(rel, text))
+    links.extend(f'{rel}: {p}' for p in linnorm(rel, text))
     links.extend(f'{rel}: {p}' for p in two_skill_feat(rel, body))
     links.extend(f'{rel}: {p}' for p in languages(rel, body))
     marked = data.get('sweep') == 'failing'

@@ -27,13 +27,13 @@ treasure: "Triple"
 alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
-group: "[[rangoric-srd/monsters/linnorm/Linnorm|Linnorm]]"
+group: "[[rangoric-srd/monsters/lindwurms/Lindwurm|Lindwurm]]"
 status: draft
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/monster]
 ---
 
-# Crag Linnorm
+# Crag Lindwurm
 
 - Gargantuan [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]]
 - **Hit Dice**: 15d12+105 (202 hp)
@@ -58,18 +58,18 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: —
 - **Level Adjustment**: —
 
-Like all linnorms, the deadly crag linnorm is a powerful, primeval dragon, a denizen of the wild regions far north of where most civilizations dare to tread. The crag linnorm is among the weakest of its kind, yet still a devastating predator in its own right. Favored, if not by the gods, then by some primal intelligence of the mysterious world of the fey, the linnorm bestows a powerful curse on any who manage to slay it. A crag linnorm is 60 feet long and weighs 12,000 pounds.
+Like all lindwurms, the deadly crag lindwurm is a powerful, primeval dragon, a denizen of the wild regions far north of where most civilizations dare to tread. The crag lindwurm is among the weakest of its kind, yet still a devastating predator in its own right. Favored, if not by the gods, then by some primal intelligence of the mysterious world of the fey, the lindwurm bestows a powerful curse on any who manage to slay it. A crag lindwurm is 60 feet long and weighs 12,000 pounds.
 
-Crag linnorms speak Aklo, Draconic and Sylvan.
+Crag lindwurms speak Aklo, Draconic and Sylvan.
 
 ### Combat
 
-**Breath Weapon (Su)**: Once every 1d4 rounds as a standard action, a crag linnorm can expel a 120-foot line of magma, dealing 15d8 points of fire damage to all creatures struck (+14 vs Reflex; a miss halves). This line of magma remains red-hot for 1 round after the linnorm creates it. Creatures that took damage on the first round take 6d6 fire damage the second round (+14 vs Reflex), as does any creature that walks across the line of magma. If the magma was expelled while the linnorm was airborne, it instead rains downward during the second round as a sheet of fire no more than 60 feet high that does 6d6 damage (+14 vs Reflex) to any creature that passes through it. On the third round, the line of magma cools to a thin layer of brittle stone that quickly degrades to powder and sand over the course of several hours; magma that's turned to a sheet of fire is consumed entirely during the second round, leaving behind only a stain of smoke in the air that swiftly disperses. The attack bonus is Constitution-based.
+**Breath Weapon (Su)**: Once every 1d4 rounds as a standard action, a crag lindwurm can expel a 120-foot line of magma, dealing 15d8 points of fire damage to all creatures struck (+14 vs Reflex; a miss halves). This line of magma remains red-hot for 1 round after the lindwurm creates it. Creatures that took damage on the first round take 6d6 fire damage the second round (+14 vs Reflex), as does any creature that walks across the line of magma. If the magma was expelled while the lindwurm was airborne, it instead rains downward during the second round as a sheet of fire no more than 60 feet high that does 6d6 damage (+14 vs Reflex) to any creature that passes through it. On the third round, the line of magma cools to a thin layer of brittle stone that quickly degrades to powder and sand over the course of several hours; magma that's turned to a sheet of fire is consumed entirely during the second round, leaving behind only a stain of smoke in the air that swiftly disperses. The attack bonus is Constitution-based.
 
-**[[rangoric-srd/monsters/abilities/Death Curse|Death Curse]] (Su)**: When a creature slays a crag linnorm, the slayer is affected by the curse of fire, which the [[rangoric-srd/class-options/rage-powers/Linnorm Death Curse, Crag (Rage Power)|linnorm death curse, crag]] rage power also bestows. _Curse of Fire_: _attack_ +12 vs Will; _effect_ creature gains [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to fire]]. The attack bonus is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Death Curse|Death Curse]] (Su)**: When a creature slays a crag lindwurm, the slayer is affected by the curse of fire, which the [[rangoric-srd/class-options/rage-powers/Lindwurm Death Curse, Crag (Rage Power)|lindwurm death curse, crag]] rage power also bestows. _Curse of Fire_: _attack_ +12 vs Will; _effect_ creature gains [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to fire]]. The attack bonus is Charisma-based.
 
-**Freedom of Movement (Ex)**: A crag linnorm is under the constant effect of _[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]_, as per the spell of the same name. This effect cannot be dispelled.
+**Freedom of Movement (Ex)**: A crag lindwurm is under the constant effect of _[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]_, as per the spell of the same name. This effect cannot be dispelled.
 
 **[[rangoric-srd/monsters/abilities/Poison|Poison]] (Su)**: Bite—injury; _attack_ +14 vs Fortitude; _frequency_ 1/round for 10 rounds; _effect_ 2d6 fire damage and 1d4 Con drain; _cure_ 2 consecutive misses. The attack bonus is Constitution-based.
 
-**True Seeing (Ex)**: A crag linnorm has constant _[[rangoric-srd/spells/True Seeing|true seeing]]_, as per the spell of the same name.
+**True Seeing (Ex)**: A crag lindwurm has constant _[[rangoric-srd/spells/True Seeing|true seeing]]_, as per the spell of the same name.

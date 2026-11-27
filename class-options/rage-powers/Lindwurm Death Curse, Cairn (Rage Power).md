@@ -9,11 +9,11 @@ pi-review: 2026-11-09
 tags: [rangoric, rangoric/class-option]
 ---
 
-# Linnorm Death Curse, Cairn
+# Lindwurm Death Curse, Cairn
 
 _A [[rangoric-srd/class-options/rage-powers/Rage Powers|rage power]] (Su) of the [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|barbarian]] and the [[rangoric-srd/classes/Skald#^skald-rage-powers|skald]]._
 
-The character channels the power of a cairn linnorm. The character's melee attacks deal an additional 1 point of negative energy damage. If the character is knocked [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]] or killed by an attack or spell, the attacker suffers the curse of decay (vs Will).
+The character channels the power of a cairn lindwurm. The character's melee attacks deal an additional 1 point of negative energy damage. If the character is knocked [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]] or killed by an attack or spell, the attacker suffers the curse of decay (vs Will).
 
 A character must be at least 8th level to select this rage power.
 

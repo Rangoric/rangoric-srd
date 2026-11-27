@@ -27,7 +27,7 @@ A wildblooded [[rangoric-srd/classes/Sorcerer|sorcerer]] has a mutated version o
 | [[rangoric-srd/class-options/bloodlines/Envenomed (Mutated Bloodline)\|Envenomed]]       | [[rangoric-srd/class-options/bloodlines/Serpentine Bloodline\|Serpentine]] |
 | [[rangoric-srd/class-options/bloodlines/Groveborn (Mutated Bloodline)\|Groveborn]]       | [[rangoric-srd/class-options/bloodlines/Verdant Bloodline\|Verdant]]       |
 | [[rangoric-srd/class-options/bloodlines/Karmic (Mutated Bloodline)\|Karmic]]             | [[rangoric-srd/class-options/bloodlines/Destined Bloodline\|Destined]]     |
-| [[rangoric-srd/class-options/bloodlines/Linnorm (Mutated Bloodline)\|Linnorm]]           | [[rangoric-srd/class-options/bloodlines/Draconic Bloodline\|Draconic]]     |
+| [[rangoric-srd/class-options/bloodlines/Lindwurm (Mutated Bloodline)\|Lindwurm]]         | [[rangoric-srd/class-options/bloodlines/Draconic Bloodline\|Draconic]]     |
 | [[rangoric-srd/class-options/bloodlines/Pit-Touched (Mutated Bloodline)\|Pit-Touched]]   | [[rangoric-srd/class-options/bloodlines/Infernal Bloodline\|Infernal]]     |
 | [[rangoric-srd/class-options/bloodlines/Primal (Mutated Bloodline)\|Primal]]             | [[rangoric-srd/class-options/bloodlines/Elemental Bloodline\|Elemental]]   |
 | [[rangoric-srd/class-options/bloodlines/Rime-Blooded (Mutated Bloodline)\|Rime-Blooded]] | [[rangoric-srd/class-options/bloodlines/Boreal Bloodline\|Boreal]]         |

@@ -20,7 +20,7 @@ At some point in your family's history, a dragon interbred with your bloodline, 
 
 **Bloodline Arcana**: Whenever you cast a spell with an energy descriptor that matches your draconic bloodline's energy type, that spell deals +1 point of damage per die rolled.
 
-**Mutated Bloodline**: a [[rangoric-srd/class-options/archetypes/sorcerer/Wildblooded (Archetype)|wildblooded]] sorcerer with this bloodline can have its mutated version, the [[rangoric-srd/class-options/bloodlines/Linnorm (Mutated Bloodline)|linnorm mutated bloodline]].
+**Mutated Bloodline**: a [[rangoric-srd/class-options/archetypes/sorcerer/Wildblooded (Archetype)|wildblooded]] sorcerer with this bloodline can have its mutated version, the [[rangoric-srd/class-options/bloodlines/Lindwurm (Mutated Bloodline)|lindwurm mutated bloodline]].
 
 ## Bloodline Powers
 

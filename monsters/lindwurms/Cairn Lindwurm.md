@@ -27,13 +27,13 @@ treasure: "Triple"
 alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
-group: "[[rangoric-srd/monsters/linnorm/Linnorm|Linnorm]]"
+group: "[[rangoric-srd/monsters/lindwurms/Lindwurm|Lindwurm]]"
 status: draft
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/monster]
 ---
 
-# Cairn Linnorm
+# Cairn Lindwurm
 
 - Gargantuan [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]]
 - **Hit Dice**: 20d12+160 (290 hp)
@@ -58,16 +58,16 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: —
 - **Level Adjustment**: —
 
-Cairn linnorms prefer to dwell in necropolises, amid reaches of burial mounds, or in caverns below the scorched earth of legendary battlefields. These linnorms particularly relish the flavor of undead flesh—while they cannot consume incorporeal undead, regions they haunt are typically barren of corporeal undead not canny enough to avoid the cairn linnorm's ravenous appetite. An incredibly powerful undead creature might use a cairn linnorm as a guardian, manipulating the dragon while it selects a cairn or tomb well within the linnorm's territory. While cairn linnorms will not hesitate to feed on undead creatures they encounter, some ancient superstition shared by all of their kind prevents them from actually entering a tomb or other enclosed burial site unless granted permission by the tomb's undead denizens or a priest devoted to the religion associated with the site. Likewise, a cairn linnorm somehow caught within a tomb large enough to contain it prefers not to leave without securing similar permission to do so. These limitations are purely psychological, and if pressed (such as by an enemy seeking to use a tomb entrance as a defense), a cairn linnorm can break such restrictions.
+Cairn lindwurms prefer to dwell in necropolises, amid reaches of burial mounds, or in caverns below the scorched earth of legendary battlefields. These lindwurms particularly relish the flavor of undead flesh—while they cannot consume incorporeal undead, regions they haunt are typically barren of corporeal undead not canny enough to avoid the cairn lindwurm's ravenous appetite. An incredibly powerful undead creature might use a cairn lindwurm as a guardian, manipulating the dragon while it selects a cairn or tomb well within the lindwurm's territory. While cairn lindwurms will not hesitate to feed on undead creatures they encounter, some ancient superstition shared by all of their kind prevents them from actually entering a tomb or other enclosed burial site unless granted permission by the tomb's undead denizens or a priest devoted to the religion associated with the site. Likewise, a cairn lindwurm somehow caught within a tomb large enough to contain it prefers not to leave without securing similar permission to do so. These limitations are purely psychological, and if pressed (such as by an enemy seeking to use a tomb entrance as a defense), a cairn lindwurm can break such restrictions.
 
-A cairn linnorm is 60 feet long and weighs 12,000 pounds.
+A cairn lindwurm is 60 feet long and weighs 12,000 pounds.
 
-Cairn linnorms speak Aklo, Draconic and Sylvan.
+Cairn lindwurms speak Aklo, Draconic and Sylvan.
 
 ### Combat
 
-**Breath Weapon (Su)**: Once every 1d4 rounds as a standard action, a cairn linnorm can expel a 60-foot cone of acidic bile, dealing 18d8 points of acid damage to all creatures struck. In addition, this bile is infused with negative energy, and inflicts 1d4 negative levels on all creatures struck by it. It attacks at +18 vs Reflex, and a miss halves the damage and completely negates the negative levels. The attack bonus is Constitution-based.
+**Breath Weapon (Su)**: Once every 1d4 rounds as a standard action, a cairn lindwurm can expel a 60-foot cone of acidic bile, dealing 18d8 points of acid damage to all creatures struck. In addition, this bile is infused with negative energy, and inflicts 1d4 negative levels on all creatures struck by it. It attacks at +18 vs Reflex, and a miss halves the damage and completely negates the negative levels. The attack bonus is Constitution-based.
 
-**[[rangoric-srd/monsters/abilities/Death Curse|Death Curse]] (Su)**: When a creature slays a cairn linnorm, the slayer is affected by the curse of decay, which the [[rangoric-srd/class-options/rage-powers/Linnorm Death Curse, Cairn (Rage Power)|linnorm death curse, cairn]] rage power also bestows. _Curse of Decay_: _attack_ +18 vs Will; _effect_ the creature takes 1 point of Constitution damage per day, and ages at an accelerated rate of 1 year per day, eventually incurring all of the penalties of old age but none of the benefits.
+**[[rangoric-srd/monsters/abilities/Death Curse|Death Curse]] (Su)**: When a creature slays a cairn lindwurm, the slayer is affected by the curse of decay, which the [[rangoric-srd/class-options/rage-powers/Lindwurm Death Curse, Cairn (Rage Power)|lindwurm death curse, cairn]] rage power also bestows. _Curse of Decay_: _attack_ +18 vs Will; _effect_ the creature takes 1 point of Constitution damage per day, and ages at an accelerated rate of 1 year per day, eventually incurring all of the penalties of old age but none of the benefits.
 
 **[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; _attack_ +18 vs Fortitude; _frequency_ 1/round for 10 rounds; _effect_ 4d6 acid damage and 1d6 Con drain; _cure_ 2 consecutive misses.

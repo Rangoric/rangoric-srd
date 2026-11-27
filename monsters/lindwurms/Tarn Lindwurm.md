@@ -28,13 +28,13 @@ treasure: "Triple"
 alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
-group: "[[rangoric-srd/monsters/linnorm/Linnorm|Linnorm]]"
+group: "[[rangoric-srd/monsters/lindwurms/Lindwurm|Lindwurm]]"
 status: draft
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/monster]
 ---
 
-# Tarn Linnorm
+# Tarn Lindwurm
 
 - Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]] (Aquatic)
 - **Hit Dice**: 22d12+242 (385 hp)
@@ -59,20 +59,20 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: —
 - **Level Adjustment**: —
 
-Although legends speak of even more powerful linnorms, it's hard to believe after witnessing the devastation a two-headed tarn linnorm can wreak. Content to slumber away the centuries at the bottom of dark mountain lakes, the tarn linnorms are true horrors that even the mightiest of heroes fear.
+Although legends speak of even more powerful lindwurms, it's hard to believe after witnessing the devastation a two-headed tarn lindwurm can wreak. Content to slumber away the centuries at the bottom of dark mountain lakes, the tarn lindwurms are true horrors that even the mightiest of heroes fear.
 
-A tarn linnorm is 120 feet long and weighs 24,000 pounds.
+A tarn lindwurm is 120 feet long and weighs 24,000 pounds.
 
 ### Combat
 
-**All-Around Vision (Ex)**: A tarn linnorm's two heads grant it a +8 racial bonus on Perception checks. It can't be [[rangoric-srd/combat/Combat Modifiers#Flanking|flanked]].
+**All-Around Vision (Ex)**: A tarn lindwurm's two heads grant it a +8 racial bonus on Perception checks. It can't be [[rangoric-srd/combat/Combat Modifiers#Flanking|flanked]].
 
-**Breath Weapon (Su)**: Once every 1d4 rounds as a standard action, a tarn linnorm can expel a 120-foot line or a 60-foot cone of acid, dealing 22d8 points of acid damage to all creatures struck (+22 vs Reflex; a miss halves). This acid creates toxic fumes when it consumes organic material—on the round after a creature takes acid damage from this attack, the fumes attack it at +22 vs Fortitude, and on a hit it takes 2d6 points of Strength damage from the poisonous fumes (this secondary effect is a poison effect). As a full-round action, the linnorm may breathe acid with one head and bite with the other (but not use its other weapons). Alternatively, as a full-round action, it can breathe acid from both heads to create two adjacent 60-foot-long cones or two separate 120-foot-long lines. In this case it cannot use its breath weapon again for 2d4 rounds. The attack bonus is Constitution-based.
+**Breath Weapon (Su)**: Once every 1d4 rounds as a standard action, a tarn lindwurm can expel a 120-foot line or a 60-foot cone of acid, dealing 22d8 points of acid damage to all creatures struck (+22 vs Reflex; a miss halves). This acid creates toxic fumes when it consumes organic material—on the round after a creature takes acid damage from this attack, the fumes attack it at +22 vs Fortitude, and on a hit it takes 2d6 points of Strength damage from the poisonous fumes (this secondary effect is a poison effect). As a full-round action, the lindwurm may breathe acid with one head and bite with the other (but not use its other weapons). Alternatively, as a full-round action, it can breathe acid from both heads to create two adjacent 60-foot-long cones or two separate 120-foot-long lines. In this case it cannot use its breath weapon again for 2d4 rounds. The attack bonus is Constitution-based.
 
-**[[rangoric-srd/monsters/abilities/Death Curse|Death Curse]] (Su)**: When a creature slays a tarn linnorm, the slayer is affected by the curse of death, which the [[rangoric-srd/class-options/rage-powers/Linnorm Death Curse, Tarn (Rage Power)|linnorm death curse, tarn]] rage power also bestows. _Curse of Death_: _attack_ +19 vs Will; _effect_ creature can no longer be affected by healing spells and does not heal damage naturally from rest. The attack bonus is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Death Curse|Death Curse]] (Su)**: When a creature slays a tarn lindwurm, the slayer is affected by the curse of death, which the [[rangoric-srd/class-options/rage-powers/Lindwurm Death Curse, Tarn (Rage Power)|lindwurm death curse, tarn]] rage power also bestows. _Curse of Death_: _attack_ +19 vs Will; _effect_ creature can no longer be affected by healing spells and does not heal damage naturally from rest. The attack bonus is Charisma-based.
 
-**Freedom of Movement (Ex)**: A tarn linnorm is under the constant effect of _[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]_, as the spell of the same name. This effect cannot be dispelled.
+**Freedom of Movement (Ex)**: A tarn lindwurm is under the constant effect of _[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]_, as the spell of the same name. This effect cannot be dispelled.
 
 **[[rangoric-srd/monsters/abilities/Poison|Poison]] (Su)**: Bite—injury; _attack_ +22 vs Fortitude; _frequency_ 1/round for 10 rounds; _effect_ 6d6 acid damage and 1d8 Con drain; _cure_ 3 consecutive misses. The attack bonus is Constitution-based.
 
-**True Seeing (Ex)**: A tarn linnorm has _[[rangoric-srd/spells/True Seeing|true seeing]]_, as the spell of the same name. This effect cannot be dispelled.
+**True Seeing (Ex)**: A tarn lindwurm has _[[rangoric-srd/spells/True Seeing|true seeing]]_, as the spell of the same name. This effect cannot be dispelled.
