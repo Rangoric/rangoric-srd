@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/trait]
 
 You are sluggish and slow to react to danger, but also resistant to others' commands.
 
-**Benefit:** You gain a +1 bonus on saves against enchantment (compulsion) effects.
+**Benefit:** You gain a +1 bonus on defenses against enchantment (compulsion) effects.
 
 **Drawback:** You take a -2 penalty on initiative checks.
 

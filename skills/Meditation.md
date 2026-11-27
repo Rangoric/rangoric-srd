@@ -62,7 +62,7 @@ Mortal wounds are less lethal for the character.
 
 Ignore Poison Damage: When poisoned, the character can make a Meditation check on his or her next action. A successful check indicates the character ignores the poison’s next attack and its effect.
 
-Resist Mind-Affecting Effect: If the character fails its save against any mind-affecting powers, spells, or spell-like effects, a successful Meditation check makes the effect attack again at once, and the character resists it on a miss. If the mind-affecting effect normally has no defense, a successful Meditation check makes it attack the character’s Will, and the character resists it on a miss.
+Resist Mind-Affecting Effect: If a mind-affecting power, spell, or spell-like effect hits the character, a successful Meditation check makes the effect attack again at once, and the character resists it on a miss. If the mind-affecting effect normally has no defense, a successful Meditation check makes it attack the character’s Will, and the character resists it on a miss.
 
 Temporary Hit Points: With a successful Meditation check, the character gains temporary hit points equal to 10 + his or her Wisdom modifier. The temporary hit points persist until lost. A character cannot check for temporary hit points more than once per day. Temporary hit points gained through Meditation do not stack with temporary hit points gained through any other source
 

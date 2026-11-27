@@ -37,6 +37,6 @@ _[[rangoric-srd/rules/star magic/Star Magic|Star]]_ \[Mind-Affecting\]
 - **Defense**: Will
 - **Spell Resistance**: Yes
 
-Each creature in the area that fails its save is filled with a murderous rage and turns on the nearest target it can justify attacking. A creature it misses feels only a flash of bitterness.
+Each creature in the area that the star hits is filled with a murderous rage and turns on the nearest target it can justify attacking. A creature it misses feels only a flash of bitterness.
 
 A raging creature's [[rangoric-srd/skills/Persuasion#Influencing NPC Attitudes|attitude]] becomes hostile, and no skill can improve it while the star lasts. At the 2nd call level and higher, raging creatures gain a +1 bonus per call level above 1st on damage rolls against the targets of their rage.

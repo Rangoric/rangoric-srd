@@ -22,4 +22,4 @@ A sample trap; how traps work, and what each line means, is in [[rangoric-srd/ru
 - **[[rangoric-srd/skills/Engineering|Engineering]]**: DC 15 to disable
 - **Trigger**: location
 - **Reset**: none
-- **Effect**: cone of fire (2d6 fire damage, Reflex DC 20 half); multiple targets (all targets in a 15-ft. cone)
+- **Effect**: cone of fire (2d6 fire damage, +10 vs Reflex half); multiple targets (all targets in a 15-ft. cone)
