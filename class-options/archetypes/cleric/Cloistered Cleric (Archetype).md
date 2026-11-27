@@ -34,7 +34,7 @@ Cloistered clerics typically live in a temple and rarely interact with the outsi
 
 **Breadth of Knowledge**: At 1st level, a cloistered cleric gains a bonus on [[rangoric-srd/skills/Knowledge|Knowledge skill checks]] equal to half her class level (minimum +1) and can make Knowledge skill checks untrained.
 
-**Well-Read (Ex)**: At 2nd level, a cloistered cleric gains a +2 bonus on skill checks, caster level checks, and saving throws if such rolls pertain to mundane or magical glyphs, runes, scrolls, symbols, and other writings.
+**Well-Read (Ex)**: At 2nd level, a cloistered cleric gains a +2 bonus on skill checks and caster level checks, and to defenses, if such rolls or attacks pertain to mundane or magical glyphs, runes, scrolls, symbols, and other writings.
 
 **Verbal Instruction (Ex)**: At 3rd level, a cloistered cleric can use the [[rangoric-srd/combat/Combat Special Attacks#Aid Another|aid another]] action to assist an ally within 30 feet on a skill or ability check. The ally must be able to hear and understand the cleric's instructions. For every three class levels beyond 3rd, the cloistered cleric can instruct one additional ally. If all allies are not engaged in the same task, using this ability is a full-round action rather than a standard action.
 

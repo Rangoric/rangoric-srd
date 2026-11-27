@@ -32,4 +32,4 @@ _An [[rangoric-srd/class-options/animal-companions/Animal Companions|animal comp
 - **Size**: Medium
 - **Attack**: bite (1d6 plus [[rangoric-srd/monsters/abilities/Grab|grab]]), sting (1d4 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
 - **Ability scores**: Str +4, Dex -2, Con +2
-- **Special attacks**: [[rangoric-srd/monsters/abilities/Poison|poison]] (frequency 1 round [4], effect 1 Str damage, cure 1 save, Con-based DC)
+- **Special attacks**: [[rangoric-srd/monsters/abilities/Poison|poison]] (frequency 1 round [4], effect 1 Str damage, cure 1 miss, Con-based attack bonus)

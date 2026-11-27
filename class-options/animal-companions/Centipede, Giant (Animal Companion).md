@@ -24,7 +24,7 @@ _An [[rangoric-srd/class-options/animal-companions/Animal Companions|animal comp
 - **AC**: +2 natural armor
 - **Attack**: bite (1d4 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
 - **Ability scores**: Str 8, Dex 17, Con 11, Int —, Wis 10, Cha 2
-- **Special attacks**: [[rangoric-srd/monsters/abilities/Poison|poison]] (frequency 1 round [6], effect 1 Dex damage, cure 1 save, Con-based DC)
+- **Special attacks**: [[rangoric-srd/monsters/abilities/Poison|poison]] (frequency 1 round [6], effect 1 Dex damage, cure 1 miss, Con-based attack bonus)
 - **CMD**: can't be tripped
 - **Special qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft.
 
