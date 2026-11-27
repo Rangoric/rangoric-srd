@@ -62,7 +62,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: By character class
 - **Level Adjustment**: —
 
-A fire cleric is a [[rangoric-srd/monsters/human/Human|human]] with 11 levels of [[rangoric-srd/classes/Cleric|cleric]]. It is a cleric of Asmodeus. The fire cleric serves infernal or elemental powers and uses his magic to purge weakness from the world.
+A fire cleric is a [[rangoric-srd/monsters/human/Human|human]] with 11 levels of [[rangoric-srd/classes/Cleric|cleric]]. The fire cleric serves infernal or elemental powers and uses his magic to purge weakness from the world.
 
 A fire cleric speaks Common, Ignan, and Infernal.
 

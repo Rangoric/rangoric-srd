@@ -21,4 +21,4 @@ A demon lord realizes it is vulnerable during this time and usually doesn’t ri
 
 A demon lord that is slain again during this year or is killed by unusual methods (such as by a true deity or an artifact created for this purpose) is slain forever—its remains appearing somewhere deep in the Abyss among other dead demon lords from the ages. A demon lord who does not control a domain does not gain this ability.
 
-The [[rangoric-srd/monsters/demon/Dagon|Dagon]], the [[rangoric-srd/monsters/demon/Kostchtchie|Kostchtchie]] and the [[rangoric-srd/monsters/demon/Pazuzu|Pazuzu]] have it.
+[[rangoric-srd/monsters/demon/Dagon|Dagon]], [[rangoric-srd/monsters/demon/Kostchtchie|Kostchtchie]] and [[rangoric-srd/monsters/demon/Pazuzu|Pazuzu]] have it.
