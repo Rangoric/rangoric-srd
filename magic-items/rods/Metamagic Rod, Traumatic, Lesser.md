@@ -7,10 +7,7 @@ caster-level: 17
 prerequisites: "Craft Rod, Traumatic Spell"
 price: "9,000 gp"
 cost: "4,500 gp"
-based-on:
-  - "[[path srd 3.5 foundry/items/gear/Traumatic Metamagic Rod, Lesser|Traumatic Metamagic Rod, Lesser (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/magic-item]
 ---

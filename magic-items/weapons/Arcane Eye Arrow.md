@@ -9,10 +9,7 @@ caster-level: 10
 prerequisites: "Craft Magic Arms and Armor, arcane eye"
 price: "346 gp"
 cost: "176 gp + 13 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Arrow, Arcane Eye|Arrow, Arcane Eye (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

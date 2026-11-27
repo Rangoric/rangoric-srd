@@ -6,11 +6,7 @@ aura: "Faint evocation"
 caster-level: 3
 prerequisites: "Craft Magic Arms and Armor, elemental aura"
 price: "+2 bonus"
-based-on:
-  - "[[path srd 3.5/items/misc/Steaming|Steaming (PF1)]]"
-  - "[[path srd 3.5 foundry/items/special-abilities/Steaming|Steaming (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/magic-item]
 ---

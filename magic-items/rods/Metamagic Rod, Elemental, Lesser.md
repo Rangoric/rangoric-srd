@@ -7,12 +7,7 @@ caster-level: 17
 prerequisites: "Craft Rod, Elemental Spell"
 price: "3,000 gp"
 cost: "1,500 gp"
-based-on:
-  - "[[path srd 3.5/items/rods/Elemental Metamagic Rod|Elemental Metamagic Rod (PF1)]]"
-  - "[[path srd 3.5/items/rods/Metamagic, Elemental|Metamagic, Elemental (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Elemental Metamagic Rod, Lesser|Metamagic Rod, Elemental, Lesser (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

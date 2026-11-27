@@ -7,11 +7,7 @@ caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, major creation"
 price: "4,655 gp"
 cost: "2,450 gp"
-based-on:
-  - "[[path srd 3.5/items/specific-magic-armor-and-shields/Burglar's Buckler|Burglar’s Buckler (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Burglar's Buckler|Burglar’s Buckler (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/magic-item]
 ---

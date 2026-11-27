@@ -8,11 +8,7 @@ caster-level: 3
 prerequisites: "Craft Wondrous Item, barkskin, cure moderate wounds"
 price: "1,500 gp"
 cost: "750 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Aegis of Recovery|Aegis of Recovery (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Aegis of Recovery|Aegis of Recovery (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

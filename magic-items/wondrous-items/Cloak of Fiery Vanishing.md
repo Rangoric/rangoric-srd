@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, invisibility, silent image"
 price: "2,600 gp"
 cost: "1,300 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/featured-race/Cloak of Fiery Vanishing|Cloak of Fiery Vanishing (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Cloak of Fiery Vanishing|Cloak of Fiery Vanishing (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

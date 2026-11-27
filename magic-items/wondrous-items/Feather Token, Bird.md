@@ -7,11 +7,7 @@ aura: "Moderate conjuration"
 caster-level: 12
 prerequisites: "Craft Wondrous Item, major creation"
 price: "300 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Feather Token|Feather Token (3.5)]]"
-  - "[[path srd 3.5/items/wondrous-items/Feather Token|Feather Token (PF1)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

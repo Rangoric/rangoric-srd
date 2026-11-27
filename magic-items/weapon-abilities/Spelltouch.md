@@ -6,11 +6,7 @@ aura: "Moderate necromancy"
 caster-level: 7
 prerequisites: "Craft Magic Arms and Armor, spectral hand"
 price: "+1 bonus"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapon-qualities/Spelltouch|Spelltouch (Arms & Armor)]]"
-  - "[[individual books/Faeries/weapon-qualities/Spelltouch|Spelltouch (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

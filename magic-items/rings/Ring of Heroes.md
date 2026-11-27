@@ -7,11 +7,7 @@ caster-level: 7
 prerequisites: "Forge Ring, Luck of Heroes"
 price: "8,000 gp"
 cost: "4,000 gp"
-based-on:
-  - "[[path srd 3.5/items/hero-point-items/Ring of Heroes|Ring of Heroes (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Ring of Heroes|Ring of Heroes (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/magic-item]
 ---

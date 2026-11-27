@@ -7,11 +7,7 @@ caster-level: 10
 prerequisites: "Craft Magic Arms and Armor, righteous might, spell resistance"
 price: "61,300 gp"
 cost: "30,800 gp"
-based-on:
-  - "[[path srd 3.5/items/specific-magic-armor-and-shields/Mail of Malevolence|Mail of Malevolence (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Mail of Malevolence|Mail of Malevolence (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/magic-item]
 ---

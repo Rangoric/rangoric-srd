@@ -7,10 +7,7 @@ caster-level: 9
 prerequisites: "Craft Magic Arms and Armor, light, mage armor, creator must be a bard"
 price: "44,150 gp"
 cost: "22,075 gp + 1,766 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Mail of the Muse|Mail of the Muse (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

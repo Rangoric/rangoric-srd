@@ -9,10 +9,7 @@ manifester-level: 16
 prerequisites: "Craft Universal Item, bend reality, dispel psionics"
 price: "1,000 gp"
 weight: "1 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/universal-items/Psionic Restraints|Psionic Restraints (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

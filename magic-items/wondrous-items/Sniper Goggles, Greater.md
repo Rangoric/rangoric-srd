@@ -8,11 +8,7 @@ caster-level: 8
 prerequisites: "Craft Wondrous Item, true strike"
 price: "50,000 gp"
 cost: "25,000 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Sniper Goggles, Greater|Sniper Goggles, Greater (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Sniper Goggles, Greater|Sniper Goggles, Greater (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

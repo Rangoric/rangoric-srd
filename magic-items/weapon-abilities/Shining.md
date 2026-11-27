@@ -5,10 +5,7 @@ item-type: "Weapon Special Ability"
 caster-level: 7
 prerequisites: "Craft Magic Arms and Armor, Star of Light"
 price: "+1 bonus"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/weapon-qualities/Shining|Shining (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

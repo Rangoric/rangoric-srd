@@ -7,10 +7,7 @@ caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, blur"
 price: "11,960 gp"
 cost: "6,060 gp + 472 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Blur Armor|Blur Armor (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

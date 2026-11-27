@@ -6,10 +6,7 @@ caster-level: 20
 prerequisites: "Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, creator must be evil, energy drain"
 price: "768,260 gp"
 cost: "to Create: 385,260 gp + 17,660 XP"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/armor/Armor of the Abyssal Horde|Armor of the Abyssal Horde (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---

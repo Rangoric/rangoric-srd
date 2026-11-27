@@ -8,10 +8,7 @@ aura: "Strong conjuuration"
 caster-level: 20
 prerequisites: "Craft Rod, gate"
 price: "61,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rods/Rod of Security|Rod of Security (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

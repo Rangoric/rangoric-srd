@@ -8,10 +8,7 @@ aura: "Strong varied"
 caster-level: 17
 prerequisites: "Craft Staff, astral projection, dimension door, greater teleport, passwall, phase door"
 price: "170,500 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/staffs/Staff of Passage|Staff of Passage (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

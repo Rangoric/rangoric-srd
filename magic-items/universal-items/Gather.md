@@ -6,10 +6,7 @@ aura: "Moderate clairsentience"
 manifester-level: 7
 prerequisites: "Craft Universal Item, creator must have 7 ranks in Persuasion"
 price: "10,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/universal-items/Gather|Gather (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

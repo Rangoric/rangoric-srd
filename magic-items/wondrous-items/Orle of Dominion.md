@@ -9,10 +9,7 @@ prerequisites: "Craft Magic Arms and Armor, aid, bless, prayer, shout, Maximize 
 price: "54,000 gp"
 cost: "27,000 gp + 2,160 XP"
 weight: "1 lb"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Orle of Dominion|Orle of Dominion (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

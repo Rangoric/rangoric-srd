@@ -4,12 +4,7 @@ section: "Magic Items"
 item-type: "Specific Armor"
 aura: "No aura (nonmagical)"
 price: "10,200 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/armor/Adamantine Breastplate|Adamantine Breastplate (3.5)]]"
-  - "[[path srd 3.5/items/specific-magic-armor-and-shields/Adamatine Breastplate|Adamantine Breastplate (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Adamantine Breastplate|Adamantine Breastplate (PF1 F)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

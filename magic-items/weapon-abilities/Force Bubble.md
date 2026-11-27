@@ -6,10 +6,7 @@ aura: "Moderate evocation [force]"
 caster-level: 8
 prerequisites: "Craft Magic Arms and Armor, resilient sphere"
 price: "+2 bonus"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapon-qualities/Force Bubble|Force Bubble (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

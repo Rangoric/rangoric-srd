@@ -9,10 +9,7 @@ prerequisites: "Craft Wondrous Item, call spirit"
 price: "18,900 gp"
 cost: "9,450 gp"
 weight: "4 lb."
-based-on:
-  - "[[path srd 3.5 foundry/items/wondrous/Spirit Mirror|Spirit Mirror (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/magic-item]
 ---

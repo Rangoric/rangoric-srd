@@ -7,11 +7,7 @@ caster-level: 11
 prerequisites: "Forge Ring, imbue with spell ability, spell turning"
 price: "20,000 gp"
 cost: "10,000 gp"
-based-on:
-  - "[[path srd 3.5/items/rings/Ring of Arcane Mastery|Ring of Arcane Mastery (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Ring of Arcane Mastery|Ring of Arcane Mastery (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/magic-item]
 ---

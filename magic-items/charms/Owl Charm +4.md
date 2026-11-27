@@ -5,10 +5,7 @@ item-type: "Charm"
 caster-level: 6
 prerequisites: "Craft Charms and Bracelets, owl’s wisdom"
 price: "16,000 gp"
-based-on:
-  - "[[individual books/Faeries/charms/Owl|Owl (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -7,10 +7,7 @@ caster-level: 10
 prerequisites: "Craft Magic Arms and Armor, summon nature’s ally IV"
 price: "9,170 gp"
 cost: "4,670 gp + 360 XP"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/armor/Lion’s Shield|Lion’s Shield (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

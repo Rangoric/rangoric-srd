@@ -5,10 +5,7 @@ item-type: "Potion"
 caster-level: 5
 prerequisites: "Brew Potion, caster level 6th+"
 price: "2,250 gp"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/magic-items/Wine of Leadership|Wine of Leadership (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

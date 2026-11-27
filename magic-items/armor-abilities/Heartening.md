@@ -6,10 +6,7 @@ aura: "Faint psychometabolism"
 manifester-level: 4
 prerequisites: "Craft Psionic Arms and Armor, vigor"
 price: "+720 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/armor-abilities/Heartening|Heartening (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

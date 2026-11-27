@@ -8,10 +8,7 @@ caster-level: 7
 prerequisites: "Craft Wondrous Item, fear"
 price: "30,000 gp"
 weight: "10 lb. for the pair"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Drums of Panic|Drums of Panic (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, endure elements, hydraulic torrent, invisib
 price: "18,900 gp"
 cost: "9,450 gp"
 weight: "3 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Vambraces of the Genie|Vambraces of the Genie (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Vambraces of the Genie, Marid|Vambraces of the Genie, Marid (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

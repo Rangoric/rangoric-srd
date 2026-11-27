@@ -8,11 +8,7 @@ caster-level: 2
 prerequisites: "Craft Wondrous Item, expeditious retreat, touch of the sea"
 price: "2,600 gp"
 cost: "1,300 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Pirate's Eye Patch|Pirate's Eye Patch (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Pirate's Eye Patch|Pirate's Eye Patch (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

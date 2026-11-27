@@ -6,10 +6,7 @@ aura: "Strong enchantment"
 caster-level: 17
 prerequisites: "Craft Magic Arms and Armor, polymorph any object, true strike, creator must be a sync"
 price: "+6 bonus"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapon-qualities/Sync|Sync (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

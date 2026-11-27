@@ -7,10 +7,7 @@ caster-level: 8
 prerequisites: "Craft Magic Arms and Armor, charm person, enthrall"
 price: "17,100 gp"
 cost: "8,550 gp +684 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Flute Sword|Flute Sword (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

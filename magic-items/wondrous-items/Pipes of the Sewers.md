@@ -8,10 +8,7 @@ caster-level: 2
 prerequisites: "Craft Wondrous Item, charm animal, summon nature’s ally I, wild empathy ability"
 price: "1,150 gp"
 weight: "3 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Pipes of the Sewers|Pipes of the Sewers (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

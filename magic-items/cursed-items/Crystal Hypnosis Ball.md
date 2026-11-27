@@ -5,10 +5,7 @@ item-type: "Cursed Item"
 aura: "Moderate divination"
 caster-level: 17
 price: "n/a"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/cursed-items/Crystal Hypnosis Ball|Crystal Hypnosis Ball (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

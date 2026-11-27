@@ -4,10 +4,7 @@ section: "Magic Items"
 item-type: "Specific Shield"
 aura: "No aura (nonmagical)"
 price: "1,020 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/armor/Mithral Heavy Shield|Mithral Heavy Shield (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

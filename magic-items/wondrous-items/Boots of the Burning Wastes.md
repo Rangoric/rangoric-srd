@@ -9,10 +9,7 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, endure elements, pass without trace"
 price: "2,250 gp"
 weight: "1 lb"
-based-on:
-  - "[[individual books/Faeries/magic-items/Boots of the Valley of Fire|Boots of the Valley of Fire (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

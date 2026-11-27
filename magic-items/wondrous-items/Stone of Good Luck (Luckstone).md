@@ -7,10 +7,7 @@ aura: "Faint evocation"
 caster-level: 5
 prerequisites: "Craft Wondrous Item, divine favor"
 price: "20,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Stone of Good Luck (Luckstone)|Stone of Good Luck (Luckstone) (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

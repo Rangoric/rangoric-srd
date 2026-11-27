@@ -7,11 +7,7 @@ caster-level: 6
 prerequisites: "Forge Ring, the creator must be able to summon an eidolon and have the maker's call class feature"
 price: "12,000 gp"
 cost: "6,000 gp"
-based-on:
-  - "[[path srd 3.5/items/rings/Ring of Ectoplasmic Invigoration|Ring of Ectoplasmic Invigoration (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Ring of Ectoplasmic Invigoration|Ring of Ectoplasmic Invigoration (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/magic-item]
 ---

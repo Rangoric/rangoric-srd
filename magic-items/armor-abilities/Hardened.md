@@ -5,10 +5,7 @@ item-type: "Armor Special Ability"
 caster-level: 12
 prerequisites: "9 ranks in Craft (armorsmithing), interposing hand"
 price: "+1 bonus"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/armor-qualities/Hardened|Hardened (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

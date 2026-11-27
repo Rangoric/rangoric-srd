@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, dragon's breath"
 price: "18,000 gp"
 cost: "9,000 gp"
 weight: "3 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Maw of the Wyrm|Maw of the Wyrm (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Maw of the Wyrm|Maw of the Wyrm (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

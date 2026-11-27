@@ -6,10 +6,7 @@ aura: "Moderate abjuration"
 caster-level: 7
 prerequisites: "Craft Magic Arms and Armor, freedom of movement, feather fall"
 price: "+2 bonus"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/armor-qualities/Aquan|Aquan (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

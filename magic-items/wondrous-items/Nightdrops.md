@@ -8,11 +8,7 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, beast shape I"
 price: "250 gp"
 cost: "125 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Nightdrops|Nightdrops (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Nightdrops|Nightdrops (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, wind walk"
 price: "4,400 gp"
 cost: "2,200 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Slippers of Cloudwalking|Slippers of Cloudwalking (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Slippers of Cloudwalking|Slippers of Cloudwalking (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

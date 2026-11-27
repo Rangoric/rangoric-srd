@@ -9,10 +9,7 @@ prerequisites: "Craft Wondrous Item, mind blank"
 price: "15,000 gp"
 cost: "7,500 gp"
 weight: "2 lb."
-based-on:
-  - "[[path srd 3.5 foundry/items/wondrous/Tin Cap|Tin Cap (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/magic-item]
 ---

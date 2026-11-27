@@ -8,11 +8,7 @@ prerequisites: "Craft Magic Arms and Armor, wall of stone"
 price: "6,812 gp"
 cost: "3,562 gp"
 weight: "8 lbs."
-based-on:
-  - "[[path srd 3.5/items/weapons/Boulderhead Mace|Boulderhead Mace (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Boulderhead Mace|Boulderhead Mace (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/magic-item]
 ---

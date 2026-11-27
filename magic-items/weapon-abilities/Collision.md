@@ -6,10 +6,7 @@ aura: "Moderate metacreativity"
 manifester-level: 10
 prerequisites: "Craft Psionic Arms and Armor, matter manipulation"
 price: "+2 bonus"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/weapon-abilities/Collision|Collision (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

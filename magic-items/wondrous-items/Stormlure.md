@@ -8,11 +8,7 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, lightning bolt, wind wall"
 price: "5,400 gp"
 cost: "2,700 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Stormlure|Stormlure (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Stormlure|Stormlure (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

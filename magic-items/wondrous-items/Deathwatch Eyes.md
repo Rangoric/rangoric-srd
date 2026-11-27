@@ -8,11 +8,7 @@ caster-level: 1
 prerequisites: "Craft Wondrous Item, deathwatch"
 price: "2,000 gp"
 cost: "1,000 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Deathwatch Eyes|Deathwatch Eyes (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Deathwatch Eyes|Deathwatch Eyes (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

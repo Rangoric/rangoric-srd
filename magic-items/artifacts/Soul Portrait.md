@@ -6,10 +6,7 @@ slot: "none"
 aura: "Strong necromancy"
 caster-level: 20
 weight: "25 lb."
-based-on:
-  - "[[path srd 3.5 foundry/items/artifacts/Soul Portrait|Soul Portrait (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/magic-item]
 ---

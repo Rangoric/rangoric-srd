@@ -6,11 +6,7 @@ aura: "Faint necromancy"
 caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, nap stack"
 price: "+4,500 gp"
-based-on:
-  - "[[path srd 3.5/items/armor-special-abilities/Restful|Restful (PF1)]]"
-  - "[[path srd 3.5 foundry/items/special-abilities/Restful|Restful (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/magic-item]
 ---

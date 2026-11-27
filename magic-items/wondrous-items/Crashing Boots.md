@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, bull's strength, enlarge person"
 price: "8,800 gp"
 cost: "4,400 gp"
 weight: "2 lbs."
-based-on:
-  - "[[path srd 3.5/items/misc/Crashing Boots|Crashing Boots (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Crashing Boots|Crashing Boots (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

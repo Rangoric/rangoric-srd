@@ -7,11 +7,7 @@ caster-level: 20
 prerequisites: "Craft Wondrous Item, Craft Epic Wondrous Item, Animal Handling skill, haste, spell resistance"
 price: "217,000 gp"
 weight: "1 lb. each"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Horseshoes of the Peerless Steed|Horseshoes of the Peerless Steed (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Horseshoes of the Peerless Steed|Horseshoes of the Peerless Steed (Arms & Armor)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---

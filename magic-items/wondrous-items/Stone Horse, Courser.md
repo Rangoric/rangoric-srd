@@ -10,10 +10,7 @@ caster-level: 14
 prerequisites: "Craft Wondrous Item, flesh to stone, animate objects"
 price: "10,000 gp"
 weight: "6,000 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Stone Horse|Stone Horse (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

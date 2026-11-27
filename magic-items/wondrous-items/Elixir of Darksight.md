@@ -8,11 +8,7 @@ caster-level: 6
 prerequisites: "Craft Wondrous Item, darkvision, deeper darkness"
 price: "1,200 gp"
 cost: "600 gp"
-based-on:
-  - "[[path srd 3.5/items/core-race/Elixir of Darksight|Elixir of Darksight (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Elixir of Darksight|Elixir of Darksight (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

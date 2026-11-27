@@ -7,10 +7,7 @@ aliases:
 caster-level: 15
 prerequisites: "Forge Ring, Forge Epic Ring, unholy aura, creator must be evil"
 price: "250,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rings/Ring of Ineffable Evil|Ring of Ineffable Evil (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---

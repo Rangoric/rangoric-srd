@@ -5,10 +5,7 @@ item-type: "Armor Special Ability"
 caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, Star of Frost"
 price: "+1 bonus"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/armor-qualities/Frosted|Frosted (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

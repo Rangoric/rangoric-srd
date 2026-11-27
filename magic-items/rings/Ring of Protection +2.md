@@ -6,11 +6,7 @@ aura: "Faint abjuration"
 caster-level: 5
 prerequisites: "Forge Ring, shield of faith, caster must be of a level at least three times greater than the bonus of the ring"
 price: "8,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rings/Ring of Protection|Ring of Protection (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Ring of Protection|Ring of Protection (Arms & Armor)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

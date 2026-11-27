@@ -7,11 +7,7 @@ caster-level: 11
 prerequisites: "Craft Magic Arms and Armor, ironwood, shillelagh, wood shape"
 price: "29,350 gp"
 cost: "14,850 gp"
-based-on:
-  - "[[path srd 3.5/items/specific-magic-armor-and-shields/Warden of the Woods|Warden of the Woods (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Warden of the Woods|Warden of the Woods (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/magic-item]
 ---

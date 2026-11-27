@@ -9,10 +9,7 @@ prerequisites: "Craft Wondrous Item, Craft Magic Arms and Armor, clenched fist"
 price: "25,305 gp"
 cost: "12,305 gp + 480 XP"
 weight: "160 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Maul of the Titans|Maul of the Titans (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

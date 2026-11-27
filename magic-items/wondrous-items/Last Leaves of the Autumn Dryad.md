@@ -8,11 +8,7 @@ caster-level: 8
 prerequisites: "Craft Wondrous Item, arcane eye, tree shape, whispering wind"
 price: "52,000 gp"
 cost: "26,000 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Last Leaves of the Autumn Dryad|Last Leaves of the Autumn Dryad (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Last Leaves of the Autumn Dryad|Last Leaves of the Autumn Dryad (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

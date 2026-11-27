@@ -11,10 +11,7 @@ prerequisites: "Craft Construct, creator must be caster level 11th, animate obje
 price: "12,000 gp"
 cost: "2,150 gp + 1,712 XP"
 weight: "5 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Golem Manual|Golem Manual (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

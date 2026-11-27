@@ -8,10 +8,7 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, creator must be an elf"
 price: "2,500 gp"
 weight: "1 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Boots of Elvenkind|Boots of Elvenkind (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -4,10 +4,7 @@ section: "Magic Items"
 item-type: "Epic Minor Artifact"
 caster-level: 19
 weight: "3 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/artifacts/Libram of Gainful Conjuration|Libram of Gainful Conjuration (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---

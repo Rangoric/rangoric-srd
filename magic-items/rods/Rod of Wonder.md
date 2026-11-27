@@ -8,10 +8,7 @@ aura: "Moderate enchantment"
 caster-level: 10
 prerequisites: "Craft Rod, confusion, creator must be chaotic"
 price: "12,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rods/Rod of Wonder|Rod of Wonder (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

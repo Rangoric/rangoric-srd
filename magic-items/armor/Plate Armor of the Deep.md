@@ -7,10 +7,7 @@ caster-level: 11
 prerequisites: "Craft Magic Arms and Armor, freedom of movement, water breathing, tongues"
 price: "24,650 gp"
 cost: "17,150 gp + 600 XP"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/armor/Plate Armor of the Deep|Plate Armor of the Deep (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

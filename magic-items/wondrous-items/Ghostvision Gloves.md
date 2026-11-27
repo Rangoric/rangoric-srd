@@ -8,11 +8,7 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, detect undead, searing light, channel positive energy class ability"
 price: "4,000 gp"
 cost: "2,000 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Ghostvision Gloves|Ghostvision Gloves (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Ghostvision Gloves|Ghostvision Gloves (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

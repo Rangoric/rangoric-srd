@@ -7,10 +7,7 @@ caster-level: 11
 prerequisites: "Craft Magic Arms and Armor, detect magic, analyze dweomer, tongues, legend lore, Mysticism 7 ranks"
 price: "120,600 gp"
 cost: "60,300 gp + 4,824 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Loremaster’s Aide|Loremaster’s Aide (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

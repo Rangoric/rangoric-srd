@@ -14,11 +14,7 @@ ego: 9
 alignment: "neutral"
 senses: "120 ft."
 language: "speech (Auran)"
-based-on:
-  - "[[path srd 3.5/items/intelligent-items/Lightning Bow|Lightning Bow (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Lightning Bow|Lightning Bow (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

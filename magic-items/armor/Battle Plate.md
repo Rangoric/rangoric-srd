@@ -6,10 +6,7 @@ aura: "Moderate evocation"
 caster-level: 13
 prerequisites: "Craft Magic Arms and Armor, shrink item, magic aura, stoneskin"
 price: "92,650 gp"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Battle Plate|Battle Plate (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

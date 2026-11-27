@@ -7,10 +7,7 @@ aura: "Faint evocation"
 caster-level: 3
 prerequisites: "Craft Magic Arms and Armor, daylight"
 price: "600 gp"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Breastplate of Blinding|Breastplate of Blinding (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

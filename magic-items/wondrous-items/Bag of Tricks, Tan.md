@@ -7,10 +7,7 @@ aura: "Moderate conjuration"
 caster-level: 9
 prerequisites: "Craft Wondrous Item, summon nature’s ally V"
 price: "6,300 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Bag of Tricks|Bag of Tricks (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

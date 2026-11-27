@@ -7,11 +7,7 @@ caster-level: 10
 prerequisites: "Craft Magic Arms and Armor, bleed, bless, chill metal, death knell, divine favor"
 price: "40,310 gp"
 cost: "20,310 gp"
-based-on:
-  - "[[path srd 3.5/items/misc/Frostblood Axe|Frostblood Axe (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Frostblood Axe|Frostblood Axe (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

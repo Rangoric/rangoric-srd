@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, summon instrument"
 price: "1,800 gp"
 cost: "900 gp"
 weight: "5 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/All Tools Vest|All Tools Vest (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/All Tools Vest|All Tools Vest (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

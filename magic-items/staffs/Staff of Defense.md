@@ -8,10 +8,7 @@ aura: "Strong abjuration"
 caster-level: 15
 prerequisites: "Craft Staff, shield, shield of faith, shield of law, shield other, creator must be lawful"
 price: "58,250 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/staffs/Staff of Defense|Staff of Defense (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

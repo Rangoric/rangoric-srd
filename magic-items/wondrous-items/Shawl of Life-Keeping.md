@@ -8,11 +8,7 @@ caster-level: 3
 prerequisites: "Craft Wondrous Item, cure light wounds, stabilize"
 price: "1,000 gp"
 cost: "500 gp"
-based-on:
-  - "[[path srd 3.5/items/featured-race/Shawl of Life-Keeping|Shawl of Life-Keeping (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Shawl of Life-Keeping|Shawl of Life-Keeping (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

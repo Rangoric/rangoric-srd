@@ -5,10 +5,7 @@ item-type: "Weapon Special Ability"
 caster-level: 9
 prerequisites: "Craft Magic Arms and Armor, The Bridge of Birds"
 price: "+2 bonus"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/weapon-qualities/Wind-borne|Wind-borne (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

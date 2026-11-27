@@ -8,11 +8,7 @@ caster-level: 7
 prerequisites: "Craft Wondrous Item, comprehend languages, control summoned creature"
 price: "30,000 gp"
 cost: "15,000 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Gloves of the Commanding Conjurer|Gloves of the Commanding Conjurer (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Gloves of the Commanding Conjurer|Gloves of the Commanding Conjurer (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -8,11 +8,7 @@ caster-level: 17
 prerequisites: "Craft Wondrous Item, creator must be a magus"
 price: "8,000 gp"
 cost: "4,000 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Spellstrike Gloves|Spellstrike Gloves (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Spellstrike Gloves|Spellstrike Gloves (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

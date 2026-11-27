@@ -6,11 +6,7 @@ aura: "Faint necromancy"
 caster-level: 5
 intended-item: "any glasses or lenses"
 slot: "eyes"
-based-on:
-  - "[[path srd 3.5/items/cursed-items/Eyes of Blindness|Eyes of Blindness (PF1)]]"
-  - "[[path srd 3.5 foundry/items/cursed/Eyes of Blindness|Eyes of Blindness (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

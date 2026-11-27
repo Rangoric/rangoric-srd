@@ -6,10 +6,7 @@ aura: "Moderate transmutation"
 caster-level: 7
 prerequisites: "Craft Magic Arms and Armor, enlarge person, reduce person"
 price: "+2 bonus"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/armor-qualities/Morphic|Morphic (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, atonement, commune, guidance"
 price: "18,000 gp"
 cost: "9,000 gp"
 weight: "2 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Mitre of the Hierophant|Mitre of the Hierophant (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Mitre of the Hierophant|Mitre of the Hierophant (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

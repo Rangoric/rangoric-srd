@@ -9,10 +9,7 @@ prerequisites: "Craft Wondrous Item, creator must be a 10th-level kineticist wit
 price: "98,000 gp"
 cost: "49,000 gp"
 weight: "—"
-based-on:
-  - "[[path srd 3.5 foundry/items/wondrous/Kineticist's Diadem, Greater|Kineticist's Diadem, Greater (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

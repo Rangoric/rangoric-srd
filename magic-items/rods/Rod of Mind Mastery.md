@@ -7,11 +7,7 @@ caster-level: 7
 prerequisites: "Craft Rod, detect thoughts, discern lies, nondetection"
 price: "67,000 gp"
 cost: "33,500 gp"
-based-on:
-  - "[[path srd 3.5/items/rods/Rod of Mind Mastery|Rod of Mind Mastery (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Rod of Mind Mastery|Rod of Mind Mastery (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

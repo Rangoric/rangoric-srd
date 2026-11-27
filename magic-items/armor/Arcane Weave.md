@@ -7,10 +7,7 @@ caster-level: 6
 prerequisites: "Craft Magic Arms and Armor, read magic, magic mouth, creator must have the Combat Casting feat"
 price: "23,850 gp"
 cost: "11,925 gp + 954 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Arcane Weave|Arcane Weave (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

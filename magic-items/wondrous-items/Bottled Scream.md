@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, shout"
 price: "900 gp"
 cost: "450 gp"
 weight: "1/2 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Bottled scream|Bottled Scream (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Bottled Scream|Bottled Scream (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -8,10 +8,7 @@ caster-level: 15
 prerequisites: "Forge Ring, Forge Epic Ring, holy aura, creator must be good"
 price: "250,000 gp"
 cost: "to Create: 125,000 gp + 12,500 XP"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rings/Ring of Virtuous Good|Ring of Virtuous Good (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---

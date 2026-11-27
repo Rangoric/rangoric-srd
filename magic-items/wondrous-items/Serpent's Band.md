@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, animal trance, hypnotism, speak with animal
 price: "9,000 gp"
 cost: "4,500 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Serpent's Band|Serpent's Band (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Serpent's Band|Serpent's Band (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

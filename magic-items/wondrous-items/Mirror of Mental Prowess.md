@@ -8,10 +8,7 @@ caster-level: 17
 prerequisites: "Craft Wondrous Item, detect thoughts, clairaudience/clairvoyance, gate, legend lore"
 price: "175,000 gp"
 weight: "40 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Mirror of Mental Prowess|Mirror of Mental Prowess (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

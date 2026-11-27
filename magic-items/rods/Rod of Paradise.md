@@ -7,10 +7,7 @@ aliases:
 caster-level: 24
 prerequisites: "Craft Rod, Craft Epic Rod, Improved Heighten Spell, improved heightened gate"
 price: "610,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rods/Rod of Paradise|Rod of Paradise (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---

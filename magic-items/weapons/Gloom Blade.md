@@ -7,11 +7,7 @@ caster-level: 13
 prerequisites: "Craft Magic Arms and Armor, deeper darkness"
 price: "8,810 gp"
 cost: "4,560 gp"
-based-on:
-  - "[[path srd 3.5/items/featured-race/Gloom Blade|Gloom Blade (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Gloom Blade|Gloom Blade (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/magic-item]
 ---

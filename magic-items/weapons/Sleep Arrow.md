@@ -7,11 +7,7 @@ caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, sleep"
 price: "132 gp"
 cost: "69 gp 5 sp + 5 XP"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/weapons/Sleep Arrow|Sleep Arrow (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Arrow, Sleep|Arrow, Sleep (Arms & Armor)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

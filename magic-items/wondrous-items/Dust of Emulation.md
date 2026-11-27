@@ -8,11 +8,7 @@ caster-level: 1
 prerequisites: "Craft Wondrous Item, disguise self"
 price: "800 gp"
 cost: "400 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Dust of Emulation|Dust of Emulation (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Dust of Emulation|Dust of Emulation (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

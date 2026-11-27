@@ -8,10 +8,7 @@ caster-level: 9
 prerequisites: "Craft Wondrous Item, true seeing"
 price: "3,500 gp"
 weight: "1 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Lens of Detection|Lens of Detection (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

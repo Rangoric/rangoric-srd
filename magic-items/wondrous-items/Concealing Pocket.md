@@ -8,11 +8,7 @@ caster-level: 3
 prerequisites: "Craft Wondrous Item, magic aura"
 price: "1,000 gp"
 cost: "500 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Concealing Pocket|Concealing Pocket (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Concealing Pocket|Concealing Pocket (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

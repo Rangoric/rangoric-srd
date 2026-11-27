@@ -1,12 +1,7 @@
 ---
 srd-type: "overview"
 section: "Magic Items"
-based-on:
-  - "[[individual books/Faeries/rules/Magic Items#Charms|Magic Items (Faeries)]]"
-  - "[[individual books/Faeries/rules/Traditional Magical Items#Creating Charms|Traditional Magical Items (Faeries)]]"
-  - "[[individual books/Faeries/tables/Table 20 Charms|Table 20 Charms (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/overview]
 ---

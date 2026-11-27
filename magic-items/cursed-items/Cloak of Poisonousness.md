@@ -6,12 +6,7 @@ aura: "Moderate transmutation"
 caster-level: 15
 price: "62,000 gp"
 slot: "shoulders"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/cursed-items/Cloak of Poisonousness|Cloak of Poisonousness (3.5)]]"
-  - "[[path srd 3.5/items/cursed-items/Poisonous Cloak|Poisonous Cloak (PF1)]]"
-  - "[[path srd 3.5 foundry/items/cursed/Poisonous Cloak|Poisonous Cloak (PF1 F)]]"
 status: draft
-change: modified
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/magic-item]
 ---

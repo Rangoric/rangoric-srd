@@ -8,11 +8,7 @@ caster-level: 10
 prerequisites: "Craft Wondrous Item, summon nature's ally V"
 price: "2,500 gp"
 cost: "1,250 gp"
-based-on:
-  - "[[path srd 3.5/items/misc/Winter Wolf Runetooth|Winter Wolf Runetooth (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Winter Wolf Runetooth|Winter Wolf Runetooth (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

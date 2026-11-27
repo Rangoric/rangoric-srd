@@ -8,10 +8,7 @@ caster-level: 7
 prerequisites: "Craft Wondrous Item, Maximize Spell, bless"
 price: "4,900 gp"
 weight: "1 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Incense of Meditation|Incense of Meditation (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

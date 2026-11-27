@@ -7,10 +7,7 @@ caster-level: 3
 prerequisites: "Craft Magic Arms and Armor, true strike, an actual dragon tooth must be used"
 price: "8,305 gp"
 cost: "4,153 gp + 332 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Dragontooth Longspear|Dragontooth Longspear (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

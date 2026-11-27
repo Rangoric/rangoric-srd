@@ -7,12 +7,7 @@ caster-level: 17
 prerequisites: "Craft Rod, Merciful Spell"
 price: "1,500 gp"
 cost: "750 gp"
-based-on:
-  - "[[path srd 3.5/items/rods/Merciful Metamagic Rod|Merciful Metamagic Rod (PF1)]]"
-  - "[[path srd 3.5/items/rods/Metamagic, Merciful|Metamagic, Merciful (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Merciful Metamagic Rod, Lesser|Metamagic Rod, Merciful, Lesser (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

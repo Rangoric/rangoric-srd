@@ -8,11 +8,7 @@ caster-level: 10
 prerequisites: "Craft Wondrous Item, prying eyes"
 price: "5,000 gp"
 cost: "2,500 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/School of Eyes|School of Eyes (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/School of Eyes|School of Eyes (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

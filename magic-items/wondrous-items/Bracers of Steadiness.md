@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, aid"
 price: "2,000 gp"
 cost: "1,000 gp"
 weight: "2 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Bracers of Steadiness|Bracers of Steadiness (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Bracers of Steadiness|Bracers of Steadiness (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -16,12 +16,7 @@ ego: 3
 alignment: "chaotic evil"
 senses: "30 ft."
 language: "none"
-based-on:
-  - "[[path srd 3.5/items/intelligent-items/Rod that Should Not Be (Lesser)|Rod that Should Not Be (Lesser) (PF1)]]"
-  - "[[path srd 3.5/items/intelligent-items/Rod that Should Not Be (Greater)|Rod that Should Not Be (Greater) (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Rod That Should Not Be (lesser)|Rod That Should Not Be (lesser) (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

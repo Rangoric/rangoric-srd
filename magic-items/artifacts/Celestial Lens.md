@@ -5,11 +5,7 @@ item-type: "Major Artifact"
 aura: "Strong evocation"
 caster-level: 20
 weight: "2,400 lbs."
-based-on:
-  - "[[path srd 3.5/items/artifacts/Celestial Lens|Celestial Lens (PF1)]]"
-  - "[[path srd 3.5 foundry/items/artifacts/Celestial Lens|Celestial Lens (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

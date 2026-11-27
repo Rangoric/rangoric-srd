@@ -7,10 +7,7 @@ aliases:
 caster-level: 21
 prerequisites: "Craft Rod, Craft Epic Rod, nightmare, permanency, wail of the banshee"
 price: "284,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rods/Rod of Nightmares|Rod of Nightmares (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---

@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, cure serious wounds, lesser restoration"
 price: "15,600 gp"
 cost: "7,800 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Bracers of the Merciful Knight|Bracers of the Merciful Knight (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Bracers of the Merciful Knight|Bracers of the Merciful Knight (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

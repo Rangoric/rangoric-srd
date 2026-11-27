@@ -4,10 +4,7 @@ section: "Magic Items"
 item-type: "Epic Major Artifact"
 caster-level: 20
 weight: "10 lb."
-based-on:
-  - "[[individual books/Arms & Armor v3.5/artifacts/Armor of Epic Totems|Armor of Epic Totems (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/magic-item, epic]
 ---

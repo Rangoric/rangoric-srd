@@ -4,11 +4,7 @@ section: "Magic Items"
 item-type: "Cursed Item"
 aura: "Varies"
 intended-item: "any staff"
-based-on:
-  - "[[path srd 3.5/items/cursed-items/Staff of Occasional Wonder|Staff of Occasional Wonder (PF1)]]"
-  - "[[path srd 3.5 foundry/items/cursed/Staff of Occasional Wonder|Staff of Occasional Wonder (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

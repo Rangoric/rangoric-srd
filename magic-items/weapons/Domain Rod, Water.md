@@ -9,10 +9,7 @@ caster-level: 9
 prerequisites: "Craft Magic Arms and Armor, chill metal or ice storm"
 price: "74,308 gp"
 cost: "37,154 gp + 2,972 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Domain Rods|Domain Rods (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

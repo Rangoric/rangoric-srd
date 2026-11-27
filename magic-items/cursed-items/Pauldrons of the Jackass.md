@@ -6,11 +6,7 @@ aura: "Moderate transmutation"
 caster-level: 7
 intended-item: "any pauldrons"
 slot: "shoulders"
-based-on:
-  - "[[path srd 3.5/items/cursed-items/Pauldrons of the Jackass|Pauldrons of the Jackass (PF1)]]"
-  - "[[path srd 3.5 foundry/items/cursed/Pauldrons of the Jackass|Pauldrons of the Jackass (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

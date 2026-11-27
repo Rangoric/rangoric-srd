@@ -5,10 +5,7 @@ item-type: "Cursed Item"
 aura: "Faint transmutation"
 caster-level: 5
 price: "1,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/cursed-items/Stone of Weight (Loadstone)|Stone of Weight (Loadstone) (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

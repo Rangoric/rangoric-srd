@@ -6,11 +6,7 @@ aura: "Moderate illusion"
 caster-level: 10
 intended-item: "hat of disguise"
 slot: "head"
-based-on:
-  - "[[path srd 3.5/items/cursed-items/Hat of Hatreds|Hat of Hatreds (PF1)]]"
-  - "[[path srd 3.5 foundry/items/cursed/Hat of Hatreds|Hat of Hatreds (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

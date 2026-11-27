@@ -8,11 +8,7 @@ caster-level: 3
 prerequisites: "Craft Wondrous Item, delay poison, detect poison, diagnose disease"
 price: "4,900 gp"
 cost: "2,450 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Physician's Spectacles|Physician's Spectacles (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Physician's Spectacles|Physician's Spectacles (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

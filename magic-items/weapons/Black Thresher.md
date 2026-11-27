@@ -7,10 +7,7 @@ caster-level: 15
 prerequisites: "Craft Magic Arms and Armor, unholy blight, creator must be evil"
 price: "79,315 gp"
 cost: "39,815 gp + 3,160 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Black Thresher|Black Thresher (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

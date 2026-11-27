@@ -7,10 +7,7 @@ aura: "Moderate transmutation"
 caster-level: 11
 prerequisites: "Craft Wondrous Item, flesh to stone"
 price: "98,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Eyes of Petrification|Eyes of Petrification (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

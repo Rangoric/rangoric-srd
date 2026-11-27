@@ -5,10 +5,7 @@ item-type: "Minor Artifact"
 aura: "Strong transmutation"
 caster-level: 20
 weight: "3 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/artifacts/Philosopher’s Stone|Philosopher’s Stone (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/magic-item]
 ---

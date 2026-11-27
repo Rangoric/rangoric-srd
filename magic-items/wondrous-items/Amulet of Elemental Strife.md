@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, resist energy, creator must be at least 8th
 price: "4,000 gp"
 cost: "2,000 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Amulet of Elemental Strife|Amulet of Elemental Strife (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Amulet of Elemental Strife|Amulet of Elemental Strife (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

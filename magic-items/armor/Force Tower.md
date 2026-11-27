@@ -7,11 +7,7 @@ caster-level: 7
 prerequisites: "Craft Magic Arms and Armor, etherealness, resilient sphere, shield"
 price: "46,030 gp"
 cost: "23,530 gp"
-based-on:
-  - "[[path srd 3.5/items/specific-magic-armor-and-shields/Force Tower|Force Tower (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Force Tower|Force Tower (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/magic-item]
 ---

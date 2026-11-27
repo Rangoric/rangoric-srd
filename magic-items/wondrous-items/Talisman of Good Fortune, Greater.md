@@ -9,10 +9,7 @@ prerequisites: "Craft Wondrous Item, good hope"
 price: "16,800 gp"
 cost: "8,400 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5 foundry/items/wondrous/Talisman of Good Fortune, Greater|Talisman of Good Fortune, Greater (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/magic-item]
 ---

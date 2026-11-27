@@ -7,10 +7,7 @@ manifester-level: 18
 prerequisites: "Craft Universal Item, bend reality"
 price: "77,500 gp"
 weight: "2 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/universal-items/Skin of the Hero|Skin of the Hero (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

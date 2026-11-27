@@ -7,11 +7,7 @@ caster-level: 15
 prerequisites: "Craft Magic Arms and Armor, blindness/deafness, daylight, flare, miracle, sunburst"
 price: "51,850 gp"
 cost: "28,100 gp"
-based-on:
-  - "[[path srd 3.5/items/specific-magic-weapons/Blade of the Rising Sun|Blade of the Rising Sun (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Blade of the Rising Sun|Blade of the Rising Sun (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/magic-item]
 ---

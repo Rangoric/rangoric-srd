@@ -5,11 +5,7 @@ item-type: "Major Artifact"
 aura: "Strong transmutation"
 caster-level: 20
 weight: "12 lbs."
-based-on:
-  - "[[path srd 3.5/items/artifacts/Fork of the Forgotten One|Fork of the Forgotten One (PF1)]]"
-  - "[[path srd 3.5 foundry/items/artifacts/Fork of the Forgotten One|Fork of the Forgotten One (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

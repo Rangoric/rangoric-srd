@@ -8,10 +8,7 @@ aura: "Moderate psychometabolism"
 manifester-level: 9
 prerequisites: "Craft Psicrown, adapt body, body adjustment, defensive precognition, inertial barrier"
 price: "32,063 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/psicrowns/Cautious Warrior Psicrown|Cautious Warrior Psicrown (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -9,10 +9,7 @@ prerequisites: "Craft Wondrous Item, telepathic bond"
 price: "2,800 gp"
 cost: "1,400 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5 foundry/items/wondrous/Incense of Open Thoughts|Incense of Open Thoughts (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/magic-item]
 ---

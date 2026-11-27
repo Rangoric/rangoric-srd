@@ -6,10 +6,7 @@ aura: "Moderate necromancy"
 caster-level: 7
 prerequisites: "Craft Magic Arms and Armor, death ward, creator must be undead"
 price: "+18,000 gp"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/armor-qualities/Positive Energy Resistance|Positive Energy Resistance (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

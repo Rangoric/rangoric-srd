@@ -7,10 +7,7 @@ aura: "Strong conjuration"
 caster-level: 13
 prerequisites: "Craft Wondrous Item, plane shift"
 price: "164,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Cubic Gate|Cubic Gate (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

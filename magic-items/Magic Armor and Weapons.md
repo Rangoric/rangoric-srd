@@ -1,14 +1,7 @@
 ---
 srd-type: "overview"
 section: "Magic Items"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/Magic Armor and Weapons|Magic Armor and Weapons (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/rules/Weapon Qualities|Weapon Qualities (Arms & Armor)]]"
-  - "[[individual books/Arms & Armor v3.5/rules/Armor Qualities|Armor Qualities (Arms & Armor)]]"
-  - "[[individual books/Arms & Armor v3.5/rules/Weapons Of Valor|Weapons Of Valor (Arms & Armor)]]"
-  - "[[individual books/Arms & Armor v3.5/rules/Armor Of Gallantry|Armor Of Gallantry (Arms & Armor)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---

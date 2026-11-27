@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, guidance, creator must have 10 ranks in the
 price: "3,000 gp"
 cost: "1,500 gp"
 weight: "8 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Wand Key Ring|Wand Key Ring (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Wand Key Ring|Wand Key Ring (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

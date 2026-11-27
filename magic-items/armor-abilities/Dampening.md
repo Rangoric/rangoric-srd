@@ -6,11 +6,7 @@ aura: "Moderate abjuration"
 caster-level: 11
 prerequisites: "Craft Magic Arms and Armor, entropic shield, mage armor"
 price: "+3 bonus"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/armor-qualities/Dampening|Dampening (Arms & Armor)]]"
-  - "[[individual books/Faeries/armor-qualities/Dampening|Dampening (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

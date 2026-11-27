@@ -8,10 +8,7 @@ caster-level: 7
 prerequisites: "Craft Wondrous Item, shout"
 price: "16,800 gp"
 weight: "1 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Chime of Interruption|Chime of Interruption (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

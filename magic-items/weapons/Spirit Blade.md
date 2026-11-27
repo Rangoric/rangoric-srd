@@ -8,11 +8,7 @@ prerequisites: "Craft Magic Arms and Armor, dispel magic, plane shift, creator m
 price: "48,502 gp"
 cost: "24,402 gp"
 weight: "1 lbs."
-based-on:
-  - "[[path srd 3.5/items/weapons/Spirit Blade|Spirit Blade (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Spirit Blade|Spirit Blade (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/magic-item]
 ---

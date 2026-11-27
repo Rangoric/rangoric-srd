@@ -8,10 +8,7 @@ caster-level: 5
 prerequisites: "Brew Potion, protection from energy"
 price: "750 gp"
 cost: "375 gp + 30 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Penelope’s Oil of Rust Protection|Penelope’s Oil of Rust Protection (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -6,10 +6,7 @@ aura: "Strong telepathy"
 manifester-level: 15
 prerequisites: "Craft Universal Item, psionic mind blank"
 price: "120,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/universal-items/Conceal|Conceal (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

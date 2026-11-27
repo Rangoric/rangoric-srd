@@ -5,10 +5,7 @@ item-type: "Cursed Item"
 aura: "Strong conjuration"
 caster-level: 18
 price: "60,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/cursed-items/Necklace of Strangulation|Necklace of Strangulation (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

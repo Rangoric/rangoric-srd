@@ -6,11 +6,7 @@ aura: "Moderate transmutation and evocation [light]"
 caster-level: 7
 prerequisites: "Craft Magic Arms and Armor, faerie fire, web"
 price: "+3 bonus"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/armor-qualities/Moonbeam|Moonbeam (Arms & Armor)]]"
-  - "[[individual books/Faeries/armor-qualities/Moonbeam|Moonbeam (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

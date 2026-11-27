@@ -7,10 +7,7 @@ caster-level: 12
 prerequisites: "Craft Magic Arms and Armor, wall of fire"
 price: "32,350 gp"
 cost: "16,175 gp + 1,294 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Burning Wall Crossbow|Burning Wall Crossbow (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

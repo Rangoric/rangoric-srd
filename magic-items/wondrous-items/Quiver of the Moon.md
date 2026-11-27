@@ -8,10 +8,7 @@ caster-level: 7
 prerequisites: "Craft Wondrous Item, minor creation, 1 lb. of silver (this is in addition to the gp cost)"
 price: "1,200 gp"
 weight: "2 lbs"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Quiver of Khonshu|Quiver of Khonshu (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

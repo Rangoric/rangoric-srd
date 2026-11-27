@@ -7,10 +7,7 @@ caster-level: 7
 cr-increase: "none"
 prerequisites: "Craft Construct, fear"
 cost: "11,200 gp"
-based-on:
-  - "[[path srd 3.5/items/building-and-modifying-constructs/Rune of Terror|Rune of Terror (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/magic-item]
 ---

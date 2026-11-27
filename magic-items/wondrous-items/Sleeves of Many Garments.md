@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, disguise self"
 price: "200 gp"
 cost: "100 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Sleeves of Many Garments|Sleeves of Many Garments (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Sleeves of Many Garments|Sleeves of Many Garments (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

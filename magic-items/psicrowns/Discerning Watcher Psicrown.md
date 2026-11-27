@@ -8,10 +8,7 @@ aura: "Moderate clairsentience"
 manifester-level: 9
 prerequisites: "Craft Psicrown, aura sight, clairtangent hand, clairvoyant sense, psionic darkvision, psionic true seeing, remote viewing"
 price: "51,469 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/psicrowns/Discerning Watcher Psicrown|Discerning Watcher Psicrown (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -6,10 +6,7 @@ caster-level: 20
 prerequisites: "Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, creator must be good, magic circle against evil"
 price: "616,300 gp"
 cost: "to Create: 308,300 gp + 16,160 XP"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/armor/Armor of the Celestial Battalion|Armor of the Celestial Battalion (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---

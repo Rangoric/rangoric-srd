@@ -6,11 +6,7 @@ aura: "Moderate abjuration"
 caster-level: 11
 prerequisites: "Craft Magic Arms and Armor, bow spirit"
 price: "+4 bonus"
-based-on:
-  - "[[path srd 3.5/items/weapon-special-abilities/Nimble Shot|Nimble Shot (PF1)]]"
-  - "[[path srd 3.5 foundry/items/special-abilities/Nimble Shot|Nimble Shot (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/magic-item]
 ---

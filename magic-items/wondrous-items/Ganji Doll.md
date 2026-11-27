@@ -9,10 +9,7 @@ prerequisites: "Craft Wondrous Item, bestow curse, a piece of the body of the hu
 price: "16,000 gp"
 cost: "8,000 gp"
 weight: "1/2 lb."
-based-on:
-  - "[[path srd 3.5 foundry/items/wondrous/Ganji Doll|Ganji Doll (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/magic-item]
 ---

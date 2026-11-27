@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, Reach Spell, feather fall"
 price: "4,000 gp"
 cost: "2,000 gp"
 weight: "2 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Cautionary Creance|Cautionary Creance (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Cautionary Creance|Cautionary Creance (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -6,11 +6,7 @@ aura: "Moderate abjuration"
 caster-level: 8
 prerequisites: "Craft Magic Arms and Armor, creator must be at least 9th level and chaotic evil"
 price: "16,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/cursed-items/Mace of Blood|Mace of Blood (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/cursed-items/Mace of Blood|Mace of Blood (Arms & Armor)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

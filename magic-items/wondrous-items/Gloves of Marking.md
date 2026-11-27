@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, cause fear, heroism"
 price: "7,200 gp"
 cost: "3,600 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Gloves of Marking|Gloves of Marking (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Gloves of Marking|Gloves of Marking (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

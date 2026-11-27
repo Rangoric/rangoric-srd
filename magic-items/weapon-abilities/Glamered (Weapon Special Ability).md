@@ -8,11 +8,7 @@ aura: "Moderate illusion"
 caster-level: 10
 prerequisites: "Craft Magic Arms and Armor, disguise self, magic aura"
 price: "+4,000 gp"
-based-on:
-  - "[[path srd 3.5/items/weapon-special-abilities/Glamered|Glamered (PF1)]]"
-  - "[[path srd 3.5 foundry/items/special-abilities/Glamered|Glamered (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/magic-item]
 ---

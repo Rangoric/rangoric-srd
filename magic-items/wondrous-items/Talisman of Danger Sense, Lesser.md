@@ -9,10 +9,7 @@ prerequisites: "Craft Wondrous Item, anticipate peril"
 price: "750 gp"
 cost: "375 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5 foundry/items/wondrous/Talisman of Danger Sense, Lesser|Talisman of Danger Sense, Lesser (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/magic-item]
 ---

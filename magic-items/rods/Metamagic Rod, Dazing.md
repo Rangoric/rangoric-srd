@@ -10,12 +10,7 @@ caster-level: 17
 prerequisites: "Craft Rod, Dazing Spell"
 price: "54,000 gp"
 cost: "27,000 gp"
-based-on:
-  - "[[path srd 3.5/items/rods/Dazing Metamagic Rod|Dazing Metamagic Rod (PF1)]]"
-  - "[[path srd 3.5/items/rods/Metamagic, Dazing|Metamagic, Dazing (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Dazing Metamagic Rod|Metamagic Rod, Dazing (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

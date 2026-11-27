@@ -6,10 +6,7 @@ aura: "Moderate transmutation"
 caster-level: 8
 intended-item: "belt of mighty constitution (any)"
 slot: "belt"
-based-on:
-  - "[[path srd 3.5/items/cursed-items/Belt of Weakness|Belt of Weakness (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

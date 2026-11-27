@@ -1,10 +1,7 @@
 ---
 srd-type: "overview"
 section: "Magic Items"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/Magic Potions, Rings, and Rods|Magic Potions, Rings, and Rods (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/overview]
 ---

@@ -5,11 +5,7 @@ item-type: "Cursed Item"
 aura: "Strong (no school)"
 caster-level: 17
 intended-item: "any metamagic rod"
-based-on:
-  - "[[path srd 3.5/items/cursed-items/Rod of Foiled Magic|Rod of Foiled Magic (PF1)]]"
-  - "[[path srd 3.5 foundry/items/cursed/Rod of Foiled Magic|Rod of Foiled Magic (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

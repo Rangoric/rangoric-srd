@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, commune with nature"
 price: "6,000 gp"
 cost: "3,000 gp"
 weight: "3 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Vest of the Vengeful Tracker|Vest of the Vengeful Tracker (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Vest of the Vengeful Tracker|Vest of the Vengeful Tracker (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

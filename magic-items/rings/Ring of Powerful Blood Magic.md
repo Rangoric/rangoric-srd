@@ -7,11 +7,7 @@ caster-level: 9
 prerequisites: "Forge Ring, Spell Focus, creator must have the bloodrage class feature"
 price: "3,000 gp"
 cost: "1,500 gp"
-based-on:
-  - "[[path srd 3.5/items/rings/Ring of powerful Blood Magic|Ring of Powerful Blood Magic (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Ring of Powerful Blood Magic|Ring of Powerful Blood Magic (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/magic-item]
 ---

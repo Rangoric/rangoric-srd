@@ -9,10 +9,7 @@ prerequisites: "Craft Wondrous Item, bestow curse, locate creature, suggestion, 
 price: "36,000 gp"
 cost: "18,000 gp"
 weight: "1/2 lb."
-based-on:
-  - "[[path srd 3.5 foundry/items/wondrous/Ganji Doll, Greater|Ganji Doll, Greater (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/magic-item]
 ---

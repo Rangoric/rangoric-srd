@@ -7,10 +7,7 @@ caster-level: 5
 cr-increase: "none"
 prerequisites: "Craft Construct, shocking grasp"
 cost: "2,000 gp"
-based-on:
-  - "[[path srd 3.5/items/building-and-modifying-constructs/Rune of Lightning|Rune of Lightning (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/magic-item]
 ---

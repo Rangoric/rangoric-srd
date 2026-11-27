@@ -8,10 +8,7 @@ aura: "Strong varied"
 caster-level: 15
 prerequisites: "Craft Staff, Craft Magic Arms and Armor, magic missile, heightened ray of enfeeblement, continual flame, levitate, heightened fireball, heightened lightning bolt, cone of cold, hold monster, wall of force, globe of invulnerability"
 price: "211,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/staffs/Staff of Power|Staff of Power (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

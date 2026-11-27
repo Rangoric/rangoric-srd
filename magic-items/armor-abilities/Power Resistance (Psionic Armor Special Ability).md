@@ -8,10 +8,7 @@ aura: "Moderate clairsentience"
 manifester-level: 9
 prerequisites: "Craft Psionic Arms and Armor, power resistance"
 price: "+2 bonus (PR 13)"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/armor-abilities/Power Resistance (Psionic Armor Special Ability)|Power Resistance (Psionic Armor Special Ability) (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

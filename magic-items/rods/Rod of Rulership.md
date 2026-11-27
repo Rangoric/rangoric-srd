@@ -9,10 +9,7 @@ caster-level: 20
 prerequisites: "Craft Rod, mass charm monster"
 price: "60,000 gp"
 cost: "27,500 gp + 2,200 XP"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rods/Rod of Rulership|Rod of Rulership (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

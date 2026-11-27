@@ -9,10 +9,7 @@ prerequisites: "Craft Wondrous Item, clairaudience/clairvoyance"
 price: "7,500 gp"
 cost: "2,000 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5 foundry/items/wondrous/One-Way Window|One-Way Window (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/magic-item]
 ---

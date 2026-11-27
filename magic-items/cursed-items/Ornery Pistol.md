@@ -5,11 +5,7 @@ item-type: "Cursed Item"
 aura: "Strong transmutation"
 caster-level: 12
 intended-item: "any pistol"
-based-on:
-  - "[[path srd 3.5/items/cursed-items/Ornery Pistol|Ornery Pistol (PF1)]]"
-  - "[[path srd 3.5 foundry/items/cursed/Ornery Pistol|Ornery Pistol (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

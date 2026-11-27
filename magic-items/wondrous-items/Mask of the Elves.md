@@ -8,10 +8,7 @@ caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, darkvision, pass without trace"
 price: "43,600 gp"
 cost: "21,800 gp + 1,744 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Mask of the Elves|Mask of the Elves (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -7,11 +7,7 @@ caster-level: 13
 prerequisites: "Craft Magic Arms and Armor, fabricate, make whole, resist energy, and limited wish or miracle"
 price: "137,650 gp"
 cost: "69,650 gp"
-based-on:
-  - "[[path srd 3.5/items/specific-magic-armor-and-shields/Invincible Armor|Invincible Armor (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Invincible Armor|Invincible Armor (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/magic-item]
 ---

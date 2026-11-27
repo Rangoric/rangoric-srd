@@ -8,10 +8,7 @@ aura: "Faint illusion"
 caster-level: 3
 prerequisites: "Forge Ring, disguise self, invisibility"
 price: "12,700 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rings/Ring of Chameleon Power|Ring of Chameleon Power (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

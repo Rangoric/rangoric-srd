@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, eagle's splendor"
 price: "4,500 gp"
 cost: "2,250 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Knight's Pennon|Knight's Pennon (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Knight's Pennon, Parley|Knight's Pennon, Parley (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -8,10 +8,7 @@ caster-level: 3
 prerequisites: "Craft Wondrous Item, air bubble"
 price: "2,000 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/firearms/Dry Load Powder Horn|Dry Load Powder Horn (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -7,11 +7,7 @@ caster-level: 13
 prerequisites: "Craft Magic Arms and Armor, disintegrate, enervation"
 price: "95,318 gp"
 cost: "47,815 gp"
-based-on:
-  - "[[path srd 3.5/items/specific-magic-weapons/Void Scythe|Void Scythe (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Void Scythe|Void Scythe (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/magic-item]
 ---

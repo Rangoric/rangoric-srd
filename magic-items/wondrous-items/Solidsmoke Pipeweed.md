@@ -8,11 +8,7 @@ caster-level: 7
 prerequisites: "Craft Wondrous Item, minor creation, creator must be a halfling"
 price: "1,000 gp"
 cost: "500 gp"
-based-on:
-  - "[[path srd 3.5/items/core-race/Solidsmoke Pipeweed|Solidsmoke Pipeweed (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Solidsmoke Pipeweed|Solidsmoke Pipeweed (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -5,10 +5,7 @@ item-type: "Psionic Minor Artifact"
 aura: "Strong telepathy"
 manifester-level: 20
 weight: "3 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/artifacts/Sutra of Tranquil Thought|Sutra of Tranquil Thought (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -6,10 +6,7 @@ aura: "Moderate illusion"
 caster-level: 10
 prerequisites: "Craft Magic Arms and Armor, invisibility, silence, slay living"
 price: "68,504 gp; Cost 34,252 gp + 2,740 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Assassin’s Polished Plate|Assassin’s Polished Plate (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

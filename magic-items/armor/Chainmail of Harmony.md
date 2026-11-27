@@ -7,10 +7,7 @@ caster-level: 6
 prerequisites: "Craft Magic Arms and Armor, sound burst, creator must be a bard"
 price: "15,800 gp"
 cost: "7,900 gp + 632 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Chainmail of Harmony|Chainmail of Harmony (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

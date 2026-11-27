@@ -4,10 +4,7 @@ section: "Magic Items"
 item-type: "Epic Minor Artifact"
 caster-level: 20
 weight: "1/2 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/artifacts/Everfull Purse|Everfull Purse (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---

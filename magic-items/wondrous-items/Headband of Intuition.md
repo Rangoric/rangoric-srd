@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, augury"
 price: "7,000 gp"
 cost: "3,500 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Headband of Intuition|Headband of Intuition (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Headband of Intuition|Headband of Intuition (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

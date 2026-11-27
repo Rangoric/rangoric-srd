@@ -8,10 +8,7 @@ aura: "Moderate evocation"
 caster-level: 10
 prerequisites: "Craft Staff, cone of cold, ice storm, wall of ice"
 price: "56,250 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/staffs/Staff of Frost|Staff of Frost (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

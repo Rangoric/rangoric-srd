@@ -10,10 +10,7 @@ caster-level: 11
 prerequisites: "Craft Magic Arms and Armor, gaseous form"
 price: "90,602 gp"
 cost: "45,300 gp + 3,624 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Domain Rods|Domain Rods (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

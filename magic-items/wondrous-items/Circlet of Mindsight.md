@@ -8,11 +8,7 @@ caster-level: 9
 prerequisites: "Craft Wondrous Item, clairaudience/clairvoyance, detect thoughts"
 price: "22,000 gp"
 cost: "11,000 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Circlet of Mindsight|Circlet of Mindsight (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Circlet of Mindsight|Circlet of Mindsight (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

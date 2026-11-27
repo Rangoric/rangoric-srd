@@ -5,11 +5,7 @@ item-type: "Cursed Item"
 aura: "Moderate divination"
 caster-level: 10
 intended-item: "sword of subtlety"
-based-on:
-  - "[[path srd 3.5/items/cursed-items/Buffoon's Sword|Buffoon's Sword (PF1)]]"
-  - "[[path srd 3.5 foundry/items/cursed/Buffoon's Sword|Buffoon's Sword (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

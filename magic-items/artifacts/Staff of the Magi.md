@@ -5,10 +5,7 @@ item-type: "Minor Artifact"
 aura: "Strong (all schools)"
 caster-level: 20
 weight: "5 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/artifacts/Staff of the Magi|Staff of the Magi (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

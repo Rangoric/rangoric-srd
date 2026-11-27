@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, daylight, deeper darkness"
 price: "5,000 gp"
 cost: "2,500 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/featured-race/Red Feather Fan|Red Feather Fan (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Red Feather Fan|Red Feather Fan (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

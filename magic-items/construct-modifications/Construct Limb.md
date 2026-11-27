@@ -5,10 +5,7 @@ item-type: "Construct Modification"
 cr-increase: "none"
 prerequisites: "Craft Construct, Craft Magic Arms and Armor, animate objects, Small or Tiny construct"
 cost: "27,000 gp"
-based-on:
-  - "[[path srd 3.5/items/building-and-modifying-constructs/Construct Limb|Construct Limb (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -6,10 +6,7 @@ slot: "none"
 caster-level: 9
 prerequisites: "Craft Necromantic Focus, Shadecall, access to a source of necromantic energy providing a bonus of at least +12"
 price: "46,000 gp"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/prestige-classes/Shadetouched|Shadetouched (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

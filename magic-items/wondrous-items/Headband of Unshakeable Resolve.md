@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, owl's wisdom, remove fear"
 price: "5,600 gp"
 cost: "2,800 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Headband of unshakeable resolve|Headband of Unshakeable Resolve (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Headband of Unshakeable Resolve|Headband of Unshakeable Resolve (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

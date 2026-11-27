@@ -7,10 +7,7 @@ caster-level: 9
 cr-increase: "none"
 prerequisites: "Craft Construct, symbol of pain"
 cost: "18,000 gp"
-based-on:
-  - "[[path srd 3.5/items/building-and-modifying-constructs/Rune of Agony|Rune of Agony (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/magic-item]
 ---

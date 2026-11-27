@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, versatile weapon"
 price: "6,000 gp"
 cost: "3,000 gp"
 weight: "3 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Singing Bell of Striking|Singing Bell of Striking (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Singing Bell of Striking|Singing Bell of Striking (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -2,10 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Epic Major Artifact"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/artifacts/Codex of the Infinite Planes|Codex of the Infinite Planes (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---

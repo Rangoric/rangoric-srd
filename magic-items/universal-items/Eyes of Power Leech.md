@@ -6,10 +6,7 @@ aura: "Moderate telepathy"
 manifester-level: 7
 prerequisites: "Craft Universal Item, power leech"
 price: "10,080 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/universal-items/Eyes of Power Leech|Eyes of Power Leech (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

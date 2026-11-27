@@ -4,10 +4,7 @@ section: "Magic Items"
 item-type: "Minor Artifact"
 caster-level: 18
 weight: "10 lb."
-based-on:
-  - "[[individual books/Arms & Armor v3.5/artifacts/Bandoleer of Swords|Bandoleer of Swords (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/magic-item]
 ---

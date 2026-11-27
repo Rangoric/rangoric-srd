@@ -7,11 +7,7 @@ caster-level: 9
 prerequisites: "Craft Magic Arms and Armor, wall of stone"
 price: "16,180 gp"
 cost: "8,180 gp"
-based-on:
-  - "[[path srd 3.5/items/armor/Battlement Shield|Battlement Shield (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Battlement Shield|Battlement Shield (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/magic-item]
 ---

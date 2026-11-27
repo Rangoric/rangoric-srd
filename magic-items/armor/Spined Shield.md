@@ -7,10 +7,7 @@ caster-level: 6
 prerequisites: "Craft Magic Arms and Armor, magic missile"
 price: "5,580 gp"
 cost: "2,740 gp + 223 XP"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/armor/Spined Shield|Spined Shield (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

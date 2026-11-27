@@ -6,11 +6,7 @@ aura: "Moderate evocation [chaotic]"
 caster-level: 7
 prerequisites: "Craft Magic Arms and Armor, chaos hammer, creator must be chaotic"
 price: "+2 bonus"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/weapon-abilities/Anarchic|Anarchic (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/weapon-qualities/Anarchic|Anarchic (Arms & Armor)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

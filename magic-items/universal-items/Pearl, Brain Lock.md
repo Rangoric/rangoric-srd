@@ -5,10 +5,7 @@ item-type: "Universal Item"
 aura: "Faint telepathy: ML 3rd"
 prerequisites: "Craft Universal Item, brain lock"
 price: "300 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/universal-items/Pearl, Brain Lock|Pearl, Brain Lock (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

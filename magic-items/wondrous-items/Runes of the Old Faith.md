@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, imbue with spell ability, creator must be a
 price: "16,000 gp"
 cost: "8,000 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Runes of the Old Faith|Runes of the Old Faith (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Runes of the Old Faith|Runes of the Old Faith (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

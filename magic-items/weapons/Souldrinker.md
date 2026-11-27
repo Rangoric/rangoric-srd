@@ -6,11 +6,7 @@ caster-level: 21
 prerequisites: "Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, Spell Focus (Necromancy), energy drain"
 price: "478,335 gp"
 cost: "to Create: 239,315 gp + 14,780 XP"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/weapons/Souldrinker|Souldrinker (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Souldrinker|Souldrinker (Arms & Armor)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---

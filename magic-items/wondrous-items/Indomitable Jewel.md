@@ -9,10 +9,7 @@ prerequisites: "Craft Wondrous Item, freedom of movement, thought shield I"
 price: "12,000 gp"
 cost: "6,000 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5 foundry/items/wondrous/Indomitable Jewel|Indomitable Jewel (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/magic-item]
 ---

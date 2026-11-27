@@ -7,10 +7,7 @@ caster-level: 15
 prerequisites: "Craft Magic Arms and Armor, enlarge person, reduce person, unholy aura"
 price: "27,400 gp"
 cost: "13,700 gp + 1,096 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Fiendish Barding|Fiendish Barding (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

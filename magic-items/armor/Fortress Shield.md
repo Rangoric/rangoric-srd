@@ -7,11 +7,7 @@ caster-level: 11
 prerequisites: "Craft Magic Arms and Armor, wall of iron"
 price: "19,180 gp"
 cost: "9,680 gp"
-based-on:
-  - "[[path srd 3.5/items/armor/Fortress Shield|Fortress Shield (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Fortress Shield|Fortress Shield (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-22
 tags: [rangoric, rangoric/magic-item]
 ---

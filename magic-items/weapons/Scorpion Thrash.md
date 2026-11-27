@@ -7,10 +7,7 @@ caster-level: 13
 prerequisites: "Craft Magic Arms and Armor, creeping doom"
 price: "69,085 gp"
 cost: "34,705 gp + 2,750 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Scorpion Thrash|Scorpion Thrash (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

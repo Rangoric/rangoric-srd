@@ -6,11 +6,7 @@ aura: "Moderate evocation"
 caster-level: 6
 prerequisites: "Craft Magic Arms and Armor, shatter"
 price: "+2 bonus"
-based-on:
-  - "[[path srd 3.5/items/armor-special-abilities/Jarring|Jarring (PF1)]]"
-  - "[[path srd 3.5 foundry/items/special-abilities/Jarring|Jarring (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/magic-item]
 ---

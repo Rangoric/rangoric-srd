@@ -7,11 +7,7 @@ caster-level: 8
 prerequisites: "Forge Ring, know direction, locate creature, locate object, creator must have at least 4 ranks in both Sense Motive and Society"
 price: "11,000 gp"
 cost: "5,500 gp"
-based-on:
-  - "[[path srd 3.5/items/core-race/Ring of the Sophisticate|Ring of the Sophisticate (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Ring of the Sophisticate|Ring of the Sophisticate (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/magic-item]
 ---

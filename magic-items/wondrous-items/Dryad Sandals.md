@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, pass without trace, tree stride, creator mu
 price: "24,000 gp"
 cost: "12,000 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Dryad Sandals|Dryad Sandals (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Dryad Sandals|Dryad Sandals (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

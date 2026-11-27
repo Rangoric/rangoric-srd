@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, animate rope"
 price: "750 gp"
 cost: "375 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Iron Rope|Iron Rope (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Iron Rope|Iron Rope (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

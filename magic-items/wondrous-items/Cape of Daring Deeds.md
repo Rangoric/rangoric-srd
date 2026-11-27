@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, guidance, prestidigitation, resistance"
 price: "9,000 gp"
 cost: "4,500 gp"
 weight: "2 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Cape of Daring Deeds|Cape of Daring Deeds (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Cape of Daring Deeds|Cape of Daring Deeds (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

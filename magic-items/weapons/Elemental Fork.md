@@ -7,10 +7,7 @@ caster-level: 9
 prerequisites: "Craft Magic Arms and Armor, protection from energy"
 price: "139,920 gp"
 cost: "69,960 gp + 5,597 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Elemental Fork|Elemental Fork (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

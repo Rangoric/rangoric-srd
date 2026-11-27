@@ -6,10 +6,7 @@ slot: "hands"
 caster-level: 9
 prerequisites: "Craft Wondrous Item, Maximize Spell, flame blade, resist energy"
 price: "38,000 gp"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/magic-items/Flaming Brand Glove, Greater|Flaming Brand Glove, Greater (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

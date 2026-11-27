@@ -6,10 +6,7 @@ slot: "shoulders"
 caster-level: 9
 prerequisites: "Craft Wondrous Item, Maximize Spell, Healing domain, good alignment"
 price: "32,000 gp"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/magic-items/Stole of Mercy|Stole of Mercy (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

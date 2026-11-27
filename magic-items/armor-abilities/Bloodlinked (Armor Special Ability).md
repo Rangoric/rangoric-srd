@@ -7,11 +7,7 @@ aliases:
 caster-level: 15
 prerequisites: "Craft Magic Arms and Armor, vampiric touch"
 price: "+3 bonus"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/magic-items/BloodLinked Armor|BloodLinked Armor (Spells & Magic)]]"
-  - "[[individual books/Arms & Armor v3.5/armor-qualities/Blood-Linked|Blood-Linked (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

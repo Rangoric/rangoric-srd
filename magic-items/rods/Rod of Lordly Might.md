@@ -8,10 +8,7 @@ aura: "Strong enchantment, evocation, necromancy, and transmutation"
 caster-level: 19
 prerequisites: "Craft Rod, Craft Magic Arms and Armor, inflict light wounds, bull’s strength, flame blade, hold person, fear"
 price: "70,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rods/Rod of Lordly Might|Rod of Lordly Might (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

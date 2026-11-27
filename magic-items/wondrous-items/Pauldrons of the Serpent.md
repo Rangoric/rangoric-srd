@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, cat's grace"
 price: "3,000 gp"
 cost: "1,500 gp"
 weight: "3 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Pauldrons of the Serpent|Pauldrons of the Serpent (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Pauldrons of the Serpent|Pauldrons of the Serpent (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

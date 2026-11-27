@@ -6,10 +6,7 @@ aura: "Faint psychoportation"
 manifester-level: 4
 prerequisites: "Craft Psionic Arms and Armor, burst"
 price: "+1 bonus"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/armor-abilities/Quickness|Quickness (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -7,10 +7,7 @@ aura: "Faint transmutation"
 caster-level: 6
 prerequisites: "Craft Wondrous Item, shrink item"
 price: "10,000 gp (one glove)"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Glove of Storing|Glove of Storing (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

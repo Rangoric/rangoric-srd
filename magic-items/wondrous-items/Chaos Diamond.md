@@ -8,10 +8,7 @@ caster-level: 19
 prerequisites: "Craft Wondrous Item, cloak of chaos, magic circle against law, random action, word of chaos, creator must be chaotic"
 price: "160,000 gp"
 weight: "1 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Chaos Diamond|Chaos Diamond (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

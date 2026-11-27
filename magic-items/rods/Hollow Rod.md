@@ -7,10 +7,7 @@ caster-level: 15
 prerequisites: "Craft Rod, creator must be a 10th-level kineticist"
 price: "121,500 gp"
 cost: "60,750 gp"
-based-on:
-  - "[[path srd 3.5 foundry/items/gear/Hollow Rod|Hollow Rod (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

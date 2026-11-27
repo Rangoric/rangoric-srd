@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, telekinesis"
 price: "26,000 gp"
 cost: "13,000 gp"
 weight: "3 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Batrachian Helm|Batrachian Helm (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Batrachian Helm|Batrachian Helm (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

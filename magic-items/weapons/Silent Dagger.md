@@ -7,10 +7,7 @@ caster-level: 6
 prerequisites: "Craft Magic Arms and Armor, silence"
 price: "18,302 gp"
 cost: "9,151 gp + 732 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Silent Dagger|Silent Dagger (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

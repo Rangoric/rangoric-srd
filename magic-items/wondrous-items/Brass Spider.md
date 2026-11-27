@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, animate objects, cat's grace"
 price: "2,500 gp"
 cost: "1,250 gp"
 weight: "2 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Brass Spider|Brass Spider (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Brass Spider|Brass Spider (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

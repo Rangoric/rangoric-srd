@@ -6,11 +6,7 @@ aura: "Moderate enchantment"
 caster-level: 7
 prerequisites: "Craft Magic Arms and Armor, rope trick"
 price: "+2,500 gp"
-based-on:
-  - "[[path srd 3.5/items/weapon-special-abilities/Prehensile|Prehensile (PF1)]]"
-  - "[[path srd 3.5 foundry/items/special-abilities/Prehensile|Prehensile (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -6,11 +6,7 @@ aura: "Moderate abjuration"
 caster-level: 7
 prerequisites: "Craft Magic Arms and Armor, resist energy"
 price: "+42,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/armor-abilities/Sonic Resistance, Improved|Sonic Resistance, Improved (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/armor-qualities/Sonic Resistance, Improved|Sonic Resistance, Improved (Arms & Armor)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

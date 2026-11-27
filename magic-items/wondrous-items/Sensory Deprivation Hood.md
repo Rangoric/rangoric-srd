@@ -9,10 +9,7 @@ prerequisites: "Craft Wondrous Item, contact other plane"
 price: "27,500 gp"
 cost: "13,750 gp"
 weight: "5 lb."
-based-on:
-  - "[[path srd 3.5 foundry/items/wondrous/Sensory Deprivation Hood|Sensory Deprivation Hood (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/magic-item]
 ---

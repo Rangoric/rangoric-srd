@@ -8,10 +8,7 @@ caster-level: 2
 prerequisites: "Craft Wondrous Item, mage hand"
 price: "900 gp"
 weight: "2 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Hand of the Mage|Hand of the Mage (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

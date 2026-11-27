@@ -9,10 +9,7 @@ prerequisites: "Craft Wondrous Item, call spirit"
 price: "20,000 gp"
 cost: "10,000 gp"
 weight: "2 lb."
-based-on:
-  - "[[path srd 3.5 foundry/items/wondrous/Magic Talking Board|Magic Talking Board (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/magic-item]
 ---

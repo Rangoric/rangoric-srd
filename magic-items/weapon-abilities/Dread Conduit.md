@@ -6,10 +6,7 @@ aura: "Strong necromancy [Evil]"
 caster-level: 15
 prerequisites: "Craft Magic Arms and Armor, finger of death, soul bind"
 price: "+5 bonus"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapon-qualities/Dread Conduit|Dread Conduit (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

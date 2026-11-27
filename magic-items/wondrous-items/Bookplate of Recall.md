@@ -8,11 +8,7 @@ caster-level: 13
 prerequisites: "Craft Wondrous Item, instant summons"
 price: "1,000 gp"
 cost: "500 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Bookplate of Recall|Bookplate of Recall (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Bookplate of Recall|Bookplate of Recall (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

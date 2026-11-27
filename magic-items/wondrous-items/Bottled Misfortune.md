@@ -9,11 +9,7 @@ prerequisites: "Brew Potion, Craft Wondrous Item, creator must be a witch with t
 price: "500 gp"
 cost: "250 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Bottled Misfortune|Bottled Misfortune (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Bottled Misfortune|Bottled Misfortune (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

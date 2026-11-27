@@ -8,11 +8,7 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, heroism"
 price: "1,000 gp"
 cost: "500 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Plume of Panache|Plume of Panache (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Plume of Panache|Plume of Panache (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

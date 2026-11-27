@@ -9,10 +9,7 @@ prerequisites: "Craft Wondrous Item, miracle or wish"
 price: "82,500 gp"
 cost: "3,750 gp + 15,300 XP"
 weight: "5 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Tome of Leadership and Influence|Tome of Leadership and Influence (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

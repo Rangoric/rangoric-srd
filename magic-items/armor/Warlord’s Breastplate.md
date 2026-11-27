@@ -6,10 +6,7 @@ caster-level: 21
 prerequisites: "Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, charm monster, sympathy"
 price: "416,200 gp"
 cost: "to Create: 210,200 gp + 14,120 XP"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/armor/Warlord’s Breastplate|Warlord’s Breastplate (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---

@@ -7,10 +7,7 @@ aura: "Faint transmutation"
 caster-level: 3
 prerequisites: "Craft Wondrous Item, darkvision"
 price: "12,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Goggles of Night|Goggles of Night (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

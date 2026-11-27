@@ -8,10 +8,7 @@ caster-level: 12
 prerequisites: "Craft Rod, any one skill with 15 ranks"
 price: "16,000 gp"
 weight: "4 lb."
-based-on:
-  - "[[individual books/Spells & Magic v3.0/magic-items/Expertise|Expertise (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -7,10 +7,7 @@ aura: "Moderate evocation"
 caster-level: 10
 prerequisites: "Craft Wondrous Item, fireball"
 price: "8,100 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Necklace of Fireballs|Necklace of Fireballs (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

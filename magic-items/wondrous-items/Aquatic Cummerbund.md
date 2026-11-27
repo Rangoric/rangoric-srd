@@ -8,11 +8,7 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, touch of the sea"
 price: "2,600 gp"
 cost: "1,300 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Aquatic Cummerbund|Aquatic Cummerbund (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Aquatic Cummerbund|Aquatic Cummerbund (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

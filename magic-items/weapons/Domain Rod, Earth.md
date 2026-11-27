@@ -9,10 +9,7 @@ caster-level: 14
 prerequisites: "Craft Magic Arms and Armor, flesh to stone, stone to flesh"
 price: "161,105 gp"
 cost: "80,553 gp + 6,444 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Domain Rods|Domain Rods (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

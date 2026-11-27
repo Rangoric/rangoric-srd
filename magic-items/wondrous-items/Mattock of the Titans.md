@@ -9,10 +9,7 @@ prerequisites: "Craft Wondrous Item, Craft Magic Arms and Armor, move earth"
 price: "23,348 gp"
 cost: "13,348 gp + 800 XP"
 weight: "120 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Mattock of the Titans|Mattock of the Titans (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

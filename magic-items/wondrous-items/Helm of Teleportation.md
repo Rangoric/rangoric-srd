@@ -8,11 +8,7 @@ caster-level: 9
 prerequisites: "Craft Wondrous Item, teleport"
 price: "73,500 gp"
 weight: "3 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Helm of Teleportation|Helm of Teleportation (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Helm of Teleportation|Helm of Teleportation (Arms & Armor)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

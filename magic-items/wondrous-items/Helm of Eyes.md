@@ -9,10 +9,7 @@ prerequisites: "Craft Magic Arms and Armor, darkvision, true seeing"
 price: "161,000 gp"
 cost: "80,500 gp + 6,440 XP"
 weight: "2 lb"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Helm of Eyes|Helm of Eyes (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

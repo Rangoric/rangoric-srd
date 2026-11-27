@@ -7,10 +7,7 @@ caster-level: 12
 prerequisites: "Craft Magic Arms and Armor, baleful polymorph, lightning bolt, phantom steed, bull’s strength"
 price: "54,370 gp"
 cost: "28,010 gp + 2,109 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Valkyrie Armor|Valkyrie Armor (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -5,11 +5,7 @@ item-type: "Cursed Item"
 aura: "Strong abjuration"
 caster-level: 13
 intended-item: "ring of spell storing (any) or a ring of spell turning"
-based-on:
-  - "[[path srd 3.5/items/cursed-items/Ring of Spell Devouring|Ring of Spell Devouring (PF1)]]"
-  - "[[path srd 3.5 foundry/items/cursed/Ring of Spell Devouring|Ring of Spell Devouring (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

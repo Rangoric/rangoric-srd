@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, bull's strength"
 price: "1,000 gp"
 cost: "500 gp"
 weight: "1/4 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Muleback Cords|Muleback Cords (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Muleback Cords|Muleback Cords (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

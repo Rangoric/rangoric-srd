@@ -8,10 +8,7 @@ caster-level: 15
 prerequisites: "Craft Wondrous Item, clone"
 price: "92,000 gp"
 weight: "45 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Mirror of Opposition|Mirror of Opposition (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

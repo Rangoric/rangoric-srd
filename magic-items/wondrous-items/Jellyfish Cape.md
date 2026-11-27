@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, beast shape II, water breathing"
 price: "19,200 gp"
 cost: "9,600 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Jellyfish Cape|Jellyfish Cape (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Jellyfish Cape|Jellyfish Cape (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -6,10 +6,7 @@ aura: "Moderate evocation"
 caster-level: 10
 prerequisites: "Craft Magic Arms and Armor, bestow curse"
 price: "2,500 gp"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/cursed-items/Spiked Chain of Binding|Spiked Chain of Binding (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-12
 tags: [rangoric, rangoric/magic-item]
 ---

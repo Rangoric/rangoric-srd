@@ -8,11 +8,7 @@ caster-level: 4
 prerequisites: "Craft Wondrous Item, alchemical allocation"
 price: "3,000 gp"
 cost: "1,500 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Volatile Vaporizer|Volatile Vaporizer (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Volatile Vaporizer 2nd-level|Volatile Vaporizer 2nd-level (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

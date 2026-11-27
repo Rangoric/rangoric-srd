@@ -7,11 +7,7 @@ caster-level: 6
 prerequisites: "Craft Magic Arms and Armor, bull's strength, gust of wind"
 price: "15,170 gp"
 cost: "8,170 gp"
-based-on:
-  - "[[path srd 3.5/items/specific-magic-armor-and-shields/Tempest Shield|Tempest Shield (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Tempest Shield|Tempest Shield (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/magic-item]
 ---

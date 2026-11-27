@@ -5,10 +5,7 @@ item-type: "Potion"
 caster-level: 9
 prerequisites: "Brew Potion, righteous might"
 price: "3,375 gp"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/magic-items/Unguent of the Bear|Unguent of the Bear (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

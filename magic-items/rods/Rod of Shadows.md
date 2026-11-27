@@ -7,11 +7,7 @@ caster-level: 8
 prerequisites: "Craft Rod, deeper darkness, true seeing"
 price: "64,305 gp"
 cost: "32,305 gp"
-based-on:
-  - "[[path srd 3.5/items/featured-race/Rod of Shadows|Rod of Shadows (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Rod of Shadows|Rod of Shadows (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

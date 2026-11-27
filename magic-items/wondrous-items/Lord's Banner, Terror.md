@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, fear"
 price: "56,000 gp"
 cost: "28,000 gp"
 weight: "3 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Lord's Banner|Lord's Banner (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Lord's Banner, Terror|Lord's Banner, Terror (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

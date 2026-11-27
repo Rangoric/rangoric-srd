@@ -8,10 +8,7 @@ caster-level: 9
 prerequisites: "Craft Wondrous Item, teleport"
 price: "4,000 gp"
 weight: "1 lb"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Scabbard of Return|Scabbard of Return (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

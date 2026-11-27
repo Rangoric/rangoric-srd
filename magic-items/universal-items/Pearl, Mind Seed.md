@@ -7,10 +7,7 @@ manifester-level: 15
 prerequisites: "Craft Universal Item, mind seed"
 cost: "6,000 gp + 2,500 XP"
 price: "18,500 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/universal-items/Pearl, Mind Seed|Pearl, Mind Seed (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

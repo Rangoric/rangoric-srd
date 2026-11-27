@@ -8,10 +8,7 @@ caster-level: 24
 prerequisites: "Craft Rod, Craft Epic Rod, Craft Magic Arms and Armor, inter-posing hand, create food and water, major creation, wall of iron, wall of stone"
 price: "465,665 gp"
 cost: "to Create: 231,985 gp + 14,634 XP"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rods/Rod of Fortification|Rod of Fortification (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---

@@ -4,11 +4,7 @@ section: "Magic Items"
 item-type: "Minor Artifact"
 aura: "Strong transmutation"
 caster-level: 20
-based-on:
-  - "[[path srd 3.5/items/artifacts/Spindle of Perfect Knowledge|Spindle of Perfect Knowledge (PF1)]]"
-  - "[[path srd 3.5 foundry/items/artifacts/Spindle of Perfect Knowledge|Spindle of Perfect Knowledge (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

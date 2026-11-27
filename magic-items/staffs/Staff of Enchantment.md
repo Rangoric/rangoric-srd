@@ -8,10 +8,7 @@ aura: "Strong enchantment"
 caster-level: 13
 prerequisites: "Craft Staff, crushing despair, mass suggestion, mind fog, sleep, suggestion, hideous laughter"
 price: "65,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/staffs/Staff of Enchantment|Staff of Enchantment (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

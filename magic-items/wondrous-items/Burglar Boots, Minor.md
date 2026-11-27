@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, creator must have 4 ranks in Perception"
 price: "4,000 gp"
 cost: "2,000 gp"
 weight: "1/2 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Burglar Boots, Minor|Burglar Boots, Minor (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Burglar Boots, Minor|Burglar Boots, Minor (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

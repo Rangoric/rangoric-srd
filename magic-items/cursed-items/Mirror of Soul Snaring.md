@@ -5,10 +5,7 @@ item-type: "Cursed Item"
 aura: "Strong necromancy"
 caster-level: 15
 intended-item: "mirror of life trapping, mirror of opposition"
-based-on:
-  - "[[path srd 3.5 foundry/items/cursed/Mirror of Soul Snaring|Mirror of Soul Snaring (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/magic-item]
 ---

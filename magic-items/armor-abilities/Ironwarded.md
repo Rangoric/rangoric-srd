@@ -4,10 +4,7 @@ section: "Magic Items"
 item-type: "Armor Special Ability"
 prerequisites: "Craft Magic Arms and Armor, lesser iron ward or greater iron ward"
 price: "+4 bonus (lesser) or +6 bonus (greater)"
-based-on:
-  - "[[individual books/Faeries/armor-qualities/Ironwarded|Ironwarded (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -8,11 +8,7 @@ caster-level: 3
 prerequisites: "Craft Wondrous Item, grease"
 price: "1,600 gp"
 cost: "800 gp"
-based-on:
-  - "[[path srd 3.5/items/misc/Stench Spray Amulet|Stench Spray Amulet (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Stench Spray Amulet|Stench Spray Amulet (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

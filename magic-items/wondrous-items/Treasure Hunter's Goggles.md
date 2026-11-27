@@ -8,11 +8,7 @@ caster-level: 3
 prerequisites: "Craft Wondrous Item, detect secret doors, identify, locate object"
 price: "6,400 gp"
 cost: "3,200 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Treasure Hunter's Goggles|Treasure Hunter's Goggles (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Treasure Hunter's Goggles|Treasure Hunter's Goggles (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, cat's grace"
 price: "36,000 gp"
 cost: "18,000 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Belt of Incredible Dexterity|Belt of Incredible Dexterity (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Belt of Incredible Dexterity +6|Belt of Incredible Dexterity +6 (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -8,10 +8,7 @@ caster-level: 19
 prerequisites: "Craft Wondrous Item, animate objects, continual flame, creator must have 5 ranks in the Engineering skill"
 price: "90,000 gp"
 weight: "500 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Apparatus of the Crab|Apparatus of the Crab (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

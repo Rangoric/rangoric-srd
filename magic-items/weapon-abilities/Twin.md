@@ -6,10 +6,7 @@ aura: "Strong divination and enchantment"
 caster-level: 18
 prerequisites: "Craft Magic Arms and Armor, locate creature, both weapons must be made at the same time"
 price: "+4 bonus"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapon-qualities/Twin|Twin (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

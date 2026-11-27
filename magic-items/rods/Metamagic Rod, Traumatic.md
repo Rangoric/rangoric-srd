@@ -7,10 +7,7 @@ caster-level: 17
 prerequisites: "Craft Rod, Traumatic Spell"
 price: "32,500 gp"
 cost: "16,250 gp"
-based-on:
-  - "[[path srd 3.5 foundry/items/gear/Traumatic Metamagic Rod|Traumatic Metamagic Rod (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/magic-item]
 ---

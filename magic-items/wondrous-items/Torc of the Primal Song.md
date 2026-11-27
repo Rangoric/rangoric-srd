@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, greater heroism"
 price: "6,000 gp"
 cost: "3,000 gp"
 weight: "4 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Torc of the Primal Song|Torc of the Primal Song (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Torc of the Primal Song|Torc of the Primal Song (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

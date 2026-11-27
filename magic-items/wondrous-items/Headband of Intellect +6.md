@@ -7,10 +7,7 @@ aura: "Moderate transmutation"
 caster-level: 8
 prerequisites: "Craft Wondrous Item, fox’s cunning"
 price: "36,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Headband of Intellect|Headband of Intellect (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

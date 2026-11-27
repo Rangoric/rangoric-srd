@@ -7,11 +7,7 @@ caster-level: 9
 prerequisites: "Craft Magic Arms and Armor, flame blade, flame strike, or fireball"
 price: "1,516 gp"
 cost: "758 gp"
-based-on:
-  - "[[path srd 3.5/items/weapons/Searing Arrow|Searing Arrow (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Searing Arrow|Searing Arrow (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/magic-item]
 ---

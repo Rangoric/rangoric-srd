@@ -7,10 +7,7 @@ caster-level: 7
 prerequisites: "Craft Magic Arms and Armor, polymorph"
 price: "68,702 gp"
 cost: "34,351 gp + 2,748 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Blade of the Changeling|Blade of the Changeling (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

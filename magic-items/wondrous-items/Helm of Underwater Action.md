@@ -8,11 +8,7 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, water breathing"
 price: "57,000 gp"
 weight: "3 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Helm of Underwater Action|Helm of Underwater Action (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Helm of Underwater Action|Helm of Underwater Action (Arms & Armor)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

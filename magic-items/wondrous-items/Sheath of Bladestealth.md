@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, invisibility"
 price: "5,000 gp"
 cost: "2,500 gp"
 weight: "2 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Sheath of Bladestealth|Sheath of Bladestealth (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Sheath of Bladestealth|Sheath of Bladestealth (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

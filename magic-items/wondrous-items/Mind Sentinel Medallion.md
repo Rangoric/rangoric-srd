@@ -8,11 +8,7 @@ caster-level: 1
 prerequisites: "Craft Wondrous Item, protection from evil"
 price: "3,500 gp"
 cost: "1,750 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Mind Sentinel Medallion|Mind Sentinel Medallion (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Mind Sentinel Medallion|Mind Sentinel Medallion (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

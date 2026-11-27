@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, burning hands, pyrotechnics"
 price: "8,500 gp"
 cost: "4,250 gp"
 weight: "3 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Nightmare Boots|Nightmare Boots (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Nightmare Boots|Nightmare Boots (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

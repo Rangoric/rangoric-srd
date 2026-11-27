@@ -6,10 +6,7 @@ aura: "Moderate evocation"
 caster-level: 11
 prerequisites: "Craft Magic Arms and Armor, divine power or caster must be a 7th-level druid"
 price: "55,815 gp"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Tooth of the Narwhal|Tooth of the Narwhal (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

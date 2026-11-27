@@ -7,11 +7,7 @@ caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, animate dead"
 price: "2,159 gp"
 cost: "1,159 gp"
-based-on:
-  - "[[path srd 3.5/items/specific-magic-armor-and-shields/Zombie Skin Shield|Zombie Skin Shield (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Zombie Skin Shield|Zombie Skin Shield (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/magic-item]
 ---

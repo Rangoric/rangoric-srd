@@ -9,10 +9,7 @@ prerequisites: "Craft Wondrous Item, speak with animals"
 price: "1,400 gp"
 cost: "700 gp"
 weight: "5 lb."
-based-on:
-  - "[[path srd 3.5 foundry/items/wondrous/Animal Divining Pot|Animal Divining Pot (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -8,11 +8,7 @@ caster-level: 10
 prerequisites: "Craft Wondrous Item, neutralize poison, purify food and drink"
 price: "19,000 gp"
 cost: "9,500 gp"
-based-on:
-  - "[[path srd 3.5/items/core-race/Purifying Pearl|Purifying Pearl (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Purifying Pearl|Purifying Pearl (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

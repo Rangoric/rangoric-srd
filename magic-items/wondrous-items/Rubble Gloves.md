@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, expeditious excavation"
 price: "8,000 gp"
 cost: "4,000 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/featured-race/Rubble Gloves|Rubble Gloves (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Rubble Gloves|Rubble Gloves (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

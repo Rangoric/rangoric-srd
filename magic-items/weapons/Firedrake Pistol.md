@@ -7,11 +7,7 @@ caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, burning hands, fireball"
 price: "20,300 gp"
 cost: "10,800 gp"
-based-on:
-  - "[[path srd 3.5/items/specific-magic-weapons/Firedrake Pistol|Firedrake Pistol (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Firedrake Pistol|Firedrake Pistol (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/magic-item]
 ---

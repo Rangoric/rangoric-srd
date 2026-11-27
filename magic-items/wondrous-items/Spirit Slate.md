@@ -9,10 +9,7 @@ prerequisites: "Craft Wondrous Item, blood biography"
 price: "12,000 gp"
 cost: "6,000 gp"
 weight: "2 lb."
-based-on:
-  - "[[path srd 3.5 foundry/items/wondrous/Spirit Slate|Spirit Slate (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/magic-item]
 ---

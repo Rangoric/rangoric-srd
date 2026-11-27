@@ -9,10 +9,7 @@ caster-level: 3
 prerequisites: "Craft Magic Arms and Armor, summon monster II"
 price: "263 gp"
 cost: "132 gp + 11 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Arrow, Eagle|Arrow, Eagle (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

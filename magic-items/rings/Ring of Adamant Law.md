@@ -7,10 +7,7 @@ aliases:
 caster-level: 15
 prerequisites: "Forge Ring, Forge Epic Ring, shield of law, creator must be lawful"
 price: "250,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rings/Ring of Adamant Law|Ring of Adamant Law (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---

@@ -7,10 +7,7 @@ caster-level: 6
 prerequisites: "Craft Magic Arms and Armor, Scribe Scroll, creator must be at least 6th level"
 price: "3,153 gp (plus the value of the scroll spell if one is currently scribed)"
 cost: "1,653 gp + 120 XP"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/armor/Caster’s Shield|Caster’s Shield (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

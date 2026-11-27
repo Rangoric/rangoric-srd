@@ -5,10 +5,7 @@ item-type: "Charm"
 caster-level: 7
 prerequisites: "Craft Charms and Bracelets, divine favor"
 price: "22,500 gp"
-based-on:
-  - "[[individual books/Faeries/charms/Luck|Luck (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

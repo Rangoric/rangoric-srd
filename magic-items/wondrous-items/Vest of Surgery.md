@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, lesser restoration, creator must have 5 ran
 price: "3,000 gp"
 cost: "1,500 gp"
 weight: "4 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Vest of Surgery|Vest of Surgery (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Vest of Surgery|Vest of Surgery (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

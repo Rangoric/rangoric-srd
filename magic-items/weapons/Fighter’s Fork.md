@@ -7,11 +7,7 @@ caster-level: 3
 prerequisites: "Craft Magic Arms and Armor, shrink item"
 price: "7,315 gp"
 cost: "3,815 gp"
-based-on:
-  - "[[path srd 3.5/items/specific-magic-weapons/Fighter's Fork|Fighter’s Fork (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Fighter's Fork|Fighter’s Fork (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/magic-item]
 ---

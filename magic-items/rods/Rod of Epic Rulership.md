@@ -8,10 +8,7 @@ caster-level: 25
 prerequisites: "Craft Rod, Craft Epic Rod, Improved Heighten Spell, improved heightened mass charm"
 price: "575,000 gp"
 cost: "to Create: 300,000 gp + 15,500 XP"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rods/Rod of Epic Rulership|Rod of Epic Rulership (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---

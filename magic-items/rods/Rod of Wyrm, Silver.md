@@ -6,10 +6,7 @@ caster-level: 37
 prerequisites: "Craft Rod, Craft Epic Rod, Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, Improved Heighten Spell, improved heightened polymorph, creator must be same alignment as dragon type"
 price: "1,782,200 gp"
 cost: "891,400 gp + 27,816 XP"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rods/Rod of Wyrm|Rod of Wyrm (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---

@@ -7,10 +7,7 @@ caster-level: 17
 prerequisites: "Craft Wondrous Item, wish or miracle"
 price: "162,400 gp"
 weight: "2 lb."
-based-on:
-  - "[[individual books/Spells & Magic v3.0/magic-items/Illuminator|Illuminator (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -7,10 +7,7 @@ caster-level: 13
 prerequisites: "Craft Magic Arms and Armor, unholy blight, finger of death, creator must be evil"
 price: "89,518 gp"
 cost: "44,918 gp + 3,568 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Scythe of Life-Harvesting|Scythe of Life-Harvesting (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

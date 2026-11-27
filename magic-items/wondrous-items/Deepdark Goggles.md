@@ -8,11 +8,7 @@ caster-level: 6
 prerequisites: "Craft Wondrous Item, darkvision, terrain bond"
 price: "20,000 gp"
 cost: "10,000 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Darklands Goggles|Deepdark Goggles (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Darklands Goggles|Deepdark Goggles (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

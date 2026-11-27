@@ -6,11 +6,7 @@ aura: "Moderate illusion"
 caster-level: 10
 intended-item: "headband of alluring charisma, headband of inspired wisdom, headband of mental prowess, headband of mental superiority, headband of vast intelligence, moon circlet"
 slot: "headband"
-based-on:
-  - "[[path srd 3.5/items/cursed-items/Crown of Blindness|Crown of Blindness (PF1)]]"
-  - "[[path srd 3.5 foundry/items/cursed/Crown of Blindness|Crown of Blindness (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

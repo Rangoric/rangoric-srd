@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, beast shape I, cat's grace"
 price: "9,400 gp"
 cost: "4,700 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Monkey Belt|Monkey Belt (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Monkey Belt|Monkey Belt (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

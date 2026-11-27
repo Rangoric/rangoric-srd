@@ -6,10 +6,7 @@ aura: "Faint psychoportation"
 manifester-level: 4
 prerequisites: "Craft Psionic Arms and Armor, float"
 price: "+4,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/armor-abilities/Floating|Floating (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

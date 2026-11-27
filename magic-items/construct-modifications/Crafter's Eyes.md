@@ -5,10 +5,7 @@ item-type: "Construct Modification"
 cr-increase: "none"
 prerequisites: "Craft Construct, scrying"
 cost: "8,000 gp"
-based-on:
-  - "[[path srd 3.5/items/building-and-modifying-constructs/Crafter's Eyes|Crafter's Eyes (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/magic-item]
 ---

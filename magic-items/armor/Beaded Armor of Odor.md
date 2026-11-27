@@ -6,10 +6,7 @@ aura: "Faint conjuration"
 caster-level: 3
 prerequisites: "Craft Magic Arms and Armor, stinking cloud"
 price: "1,500 gp"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Beaded Armor of Odor|Beaded Armor of Odor (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -7,10 +7,7 @@ caster-level: 18
 prerequisites: "Craft Magic Arms and Armor, unholy aura, creator must be evil"
 price: "120,630 gp"
 cost: "60,630 gp + 4,800 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Unholy Vindicator|Unholy Vindicator (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

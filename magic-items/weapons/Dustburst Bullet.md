@@ -8,11 +8,7 @@ prerequisites: "Craft Magic Arms and Armor, stinking cloud"
 price: "196 gp"
 cost: "98 gp"
 weight: "1/2 lb."
-based-on:
-  - "[[path srd 3.5/items/weapons/Dustburst Bullet|Dustburst Bullet (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Dustburst Bullet|Dustburst Bullet (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/magic-item]
 ---

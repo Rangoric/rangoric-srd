@@ -12,11 +12,7 @@ ego: 17
 alignment: "chaotic evil"
 senses: "30 ft., blindsense"
 language: "speech (Abyssal)"
-based-on:
-  - "[[path srd 3.5/items/intelligent-items/Chomper|Chomper (PF1)]]"
-  - "[[path srd 3.5 foundry/items/cursed/Chomper|Chomper (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

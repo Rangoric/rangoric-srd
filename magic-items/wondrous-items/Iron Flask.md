@@ -8,10 +8,7 @@ caster-level: 20
 prerequisites: "Craft Wondrous Item, trap the soul"
 price: "170,000 gp (empty)"
 weight: "1 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Iron Flask|Iron Flask (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

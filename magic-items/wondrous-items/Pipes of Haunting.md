@@ -8,10 +8,7 @@ caster-level: 4
 prerequisites: "Craft Wondrous Item, scare"
 price: "6,000 gp"
 weight: "3 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Pipes of Haunting|Pipes of Haunting (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

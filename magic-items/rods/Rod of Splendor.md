@@ -8,10 +8,7 @@ aura: "Strong conjuration and transmutation"
 caster-level: 12
 prerequisites: "Craft Rod, eagle’s splendor, fabricate, major creation"
 price: "25,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rods/Rod of Splendor|Rod of Splendor (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

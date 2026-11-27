@@ -8,10 +8,7 @@ aura: "Moderate psychoportation"
 manifester-level: 8
 prerequisites: "Craft Psicrown, catfall, hustle, psionic fly, psionic freedom of movement, wall walker"
 price: "28,500 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/psicrowns/Evader Psicrown|Evader Psicrown (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

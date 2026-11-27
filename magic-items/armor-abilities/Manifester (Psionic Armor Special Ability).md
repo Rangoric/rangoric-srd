@@ -8,10 +8,7 @@ aura: "Moderate clairsentience"
 manifester-level: 6
 prerequisites: "Craft Psionic Arms and Armor, knowledge of any 2nd-level power"
 price: "+10,800 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/armor-abilities/Manifester (Psionic Armor Special Ability)|Manifester (Psionic Armor Special Ability) (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

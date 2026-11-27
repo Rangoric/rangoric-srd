@@ -5,11 +5,7 @@ item-type: "Cursed Item"
 aura: "Strong transmutation"
 caster-level: 16
 intended-item: "ring of sustenance"
-based-on:
-  - "[[path srd 3.5/items/cursed-items/Cannibal Ring|Cannibal Ring (PF1)]]"
-  - "[[path srd 3.5 foundry/items/cursed/Cannibal Ring|Cannibal Ring (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, animate dead"
 price: "30,000 gp"
 cost: "15,000 gp"
 weight: "35 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Cauldron of the Dead|Cauldron of the Dead (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Cauldron of the Dead|Cauldron of the Dead (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

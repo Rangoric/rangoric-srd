@@ -7,11 +7,7 @@ caster-level: 3
 prerequisites: "Craft Magic Arms and Armor, gust of wind"
 price: "7,840 gp"
 cost: "4,220 gp"
-based-on:
-  - "[[path srd 3.5/items/specific-magic-weapons/Hurricane Quarterstaff|Hurricane Quarterstaff (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Hurricane Quarterstaff|Hurricane Quarterstaff (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/magic-item]
 ---

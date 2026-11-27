@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, gust of wind"
 price: "900 gp"
 cost: "450 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/featured-race/Elixir of Forceful Exhalation|Elixir of Forceful Exhalation (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Elixir of Forceful Exhalation|Elixir of Forceful Exhalation (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

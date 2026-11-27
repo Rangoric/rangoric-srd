@@ -6,7 +6,6 @@ aura: "Overwhelming all"
 caster-level: 30
 weight: "4 lb."
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/magic-item]
 ---

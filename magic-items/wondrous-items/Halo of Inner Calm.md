@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, holy aura, creator must be a tiefling of go
 price: "16,000 gp"
 cost: "8,000 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/featured-race/Halo of Inner Calm|Halo of Inner Calm (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Halo of Inner Calm|Halo of Inner Calm (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

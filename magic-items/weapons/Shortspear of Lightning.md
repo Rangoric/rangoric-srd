@@ -7,10 +7,7 @@ caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, Craft Wand, lightning bolt"
 price: "14,677 gp"
 cost: "7,338 gp + 587 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Shortspear of Lightning|Shortspear of Lightning (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

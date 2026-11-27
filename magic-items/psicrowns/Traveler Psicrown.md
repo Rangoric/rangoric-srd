@@ -8,10 +8,7 @@ aura: "Strong psychoportation"
 manifester-level: 15
 prerequisites: "Craft Psicrown, astral traveler, psionic dimension door, psionic greater teleport, psionic teleport"
 price: "80,156 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/psicrowns/Traveler Psicrown|Traveler Psicrown (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -8,11 +8,7 @@ caster-level: 7
 prerequisites: "Craft Wondrous Item, cure critical wounds"
 price: "8,000 gp"
 cost: "4,000 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Insignia of Valor|Insignia of Valor (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Insignia of Valor|Insignia of Valor (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

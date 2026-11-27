@@ -5,11 +5,7 @@ item-type: "Cursed Item"
 aura: "Strong conjuration"
 caster-level: 17
 intended-item: "absorbing shield"
-based-on:
-  - "[[path srd 3.5/items/cursed-items/Planar Invasion Shield|Planar Invasion Shield (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Planar Invasion Shield|Planar Invasion Shield (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

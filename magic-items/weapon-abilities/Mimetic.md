@@ -6,11 +6,7 @@ aura: "Faint abjuration"
 caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, resist energy"
 price: "+1 bonus"
-based-on:
-  - "[[path srd 3.5/items/weapon-special-abilities/Mimetic|Mimetic (PF1)]]"
-  - "[[path srd 3.5 foundry/items/special-abilities/Mimetic|Mimetic (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/magic-item]
 ---

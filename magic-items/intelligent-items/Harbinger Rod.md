@@ -14,11 +14,7 @@ ego: 10
 alignment: "lawful good"
 senses: "30 ft."
 language: "telepathy (Celestial; truespeech)"
-based-on:
-  - "[[path srd 3.5/items/intelligent-items/harbinger rod|harbinger rod (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Harbinger Rod|Harbinger Rod (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

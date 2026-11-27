@@ -7,11 +7,7 @@ caster-level: 10
 prerequisites: "Forge Ring, dimension door"
 price: "10,800 gp"
 cost: "5,400 gp"
-based-on:
-  - "[[path srd 3.5/items/rings/Ring of Transposition|Ring of Transposition (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Ring of Transposition|Ring of Transposition (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/magic-item]
 ---

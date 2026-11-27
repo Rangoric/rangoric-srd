@@ -8,11 +8,7 @@ aura: "Moderate transmutation"
 caster-level: 9
 prerequisites: "Forge Ring, bull’s strength, telekinesis"
 price: "8,600 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rings/Ring of Ram|Ring of Ram (3.5)]]"
-  - "[[path srd 3.5/items/rings/Ring of the Ram|Ring of the Ram (PF1)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

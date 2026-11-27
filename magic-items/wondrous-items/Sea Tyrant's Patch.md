@@ -8,11 +8,7 @@ caster-level: 15
 prerequisites: "Craft Wondrous Item, mass charm monster, touch of the sea, water breathing"
 price: "70,000 gp"
 cost: "35,000 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Sea Tyrant's Patch|Sea Tyrant's Patch (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Sea Tyrant's Patch|Sea Tyrant's Patch (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

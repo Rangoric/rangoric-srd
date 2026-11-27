@@ -8,10 +8,7 @@ caster-level: 3
 prerequisites: "Craft Magic Arms and Armor, bless"
 price: "32,000 gp"
 cost: "16,000 gp + 1,280 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Mask of Humanity|Mask of Humanity (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

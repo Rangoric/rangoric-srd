@@ -6,11 +6,7 @@ aura: "Moderate transmutation"
 caster-level: 9
 prerequisites: "Craft Magic Arms and Armor, baleful polymorph"
 price: "+3 bonus"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/armor-abilities/Wild|Wild (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/armor-qualities/Wild|Wild (Arms & Armor)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -7,11 +7,7 @@ caster-level: 3
 prerequisites: "Craft Magic Arms and Armor, shrink item"
 price: "330 gp"
 cost: "180 gp"
-based-on:
-  - "[[path srd 3.5/items/specific-magic-weapons/Alchemist's Bullet|Alchemist’s Bullet (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Alchemist's Bullet|Alchemist’s Bullet (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/magic-item]
 ---

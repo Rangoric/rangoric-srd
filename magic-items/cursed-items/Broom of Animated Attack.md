@@ -5,10 +5,7 @@ item-type: "Cursed Item"
 aura: "Moderate transmutation"
 caster-level: 10
 price: "5,200 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/cursed-items/Broom of Animated Attack|Broom of Animated Attack (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

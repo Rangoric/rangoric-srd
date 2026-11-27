@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, expeditious retreat, rage"
 price: "7,500 gp"
 cost: "3,750 gp"
 weight: "2 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Boots of Swift Fury|Boots of Swift Fury (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Boots of Swift Fury|Boots of Swift Fury (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

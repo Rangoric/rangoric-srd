@@ -8,10 +8,7 @@ aura: "Moderate divination"
 caster-level: 9
 prerequisites: "Craft Rod, locate object"
 price: "10,500 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rods/Rod of Metal and Mineral Detection|Rod of Metal and Mineral Detection (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

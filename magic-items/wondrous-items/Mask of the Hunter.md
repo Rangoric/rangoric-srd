@@ -8,10 +8,7 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, spellcaster level 5th+"
 price: "4,000 gp"
 cost: "2,000 gp + 160 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Mask of the Hunter|Mask of the Hunter (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

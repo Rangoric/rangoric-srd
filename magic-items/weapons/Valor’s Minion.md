@@ -7,11 +7,7 @@ caster-level: 15
 prerequisites: "Craft Magic Arms and Armor, holy smite"
 price: "41,335 gp"
 cost: "20,168 gp"
-based-on:
-  - "[[path srd 3.5/items/specific-magic-weapons/Valor's Minion|Valor’s Minion (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Valor's Minion|Valor’s Minion (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/magic-item]
 ---

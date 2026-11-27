@@ -8,11 +8,7 @@ caster-level: 3
 prerequisites: "Craft Wondrous Item, glitterdust"
 price: "300 gp"
 cost: "150 gp"
-based-on:
-  - "[[path srd 3.5/items/core-race/Escape Dust|Escape Dust (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Escape Dust|Escape Dust (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

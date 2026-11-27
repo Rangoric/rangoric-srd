@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, rage"
 price: "35,000 gp"
 cost: "17,500 gp"
 weight: "20 lbs."
-based-on:
-  - "[[path srd 3.5/items/misc/War Drums of Savagery|War Drums of Savagery (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/War Drums of Savagery|War Drums of Savagery (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

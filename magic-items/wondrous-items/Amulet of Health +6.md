@@ -7,10 +7,7 @@ aura: "Moderate transmutation"
 caster-level: 8
 prerequisites: "Craft Wondrous Item, bear’s endurance"
 price: "36,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Amulet of Health|Amulet of Health (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

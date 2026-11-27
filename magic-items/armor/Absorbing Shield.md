@@ -7,10 +7,7 @@ caster-level: 17
 prerequisites: "Craft Magic Arms and Armor, disintegrate"
 price: "50,170 gp"
 cost: "25,170 gp + 2,000 XP"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/armor/Absorbing Shield|Absorbing Shield (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

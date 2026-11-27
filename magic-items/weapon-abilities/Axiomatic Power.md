@@ -5,11 +5,7 @@ item-type: "Epic Weapon Special Ability"
 caster-level: 23
 prerequisites: "Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, dictum"
 price: "+8 bonus"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/weapon-abilities/Axiomatic Power|Axiomatic Power (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/weapon-qualities/Axiomatic Power|Axiomatic Power (Arms & Armor)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---

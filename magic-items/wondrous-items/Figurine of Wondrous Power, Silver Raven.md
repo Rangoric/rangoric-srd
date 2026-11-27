@@ -7,10 +7,7 @@ aura: "Faint enchantment and transmutation"
 caster-level: 6
 prerequisites: "Craft Wondrous Item, animal messenger, animate objects"
 price: "3,800 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Figurines of Wondrous Power|Figurines of Wondrous Power (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

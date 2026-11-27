@@ -5,10 +5,7 @@ item-type: "Charm"
 caster-level: 6
 prerequisites: "Craft Charms and Bracelets, shield of faith"
 price: "32,000 gp"
-based-on:
-  - "[[individual books/Faeries/charms/Scale|Scale (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

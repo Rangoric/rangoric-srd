@@ -8,11 +8,7 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, beast shape II, guidance"
 price: "8,500 gp"
 cost: "4,250 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Goggles of Elvenkind|Goggles of Elvenkind (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Goggles of Elvenkind|Goggles of Elvenkind (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

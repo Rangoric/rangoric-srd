@@ -8,11 +8,7 @@ prerequisites: "Craft Magic Arms and Armor, levitate"
 price: "9,815 gp"
 cost: "5,065 gp"
 weight: "4 lbs."
-based-on:
-  - "[[path srd 3.5/items/weapons/Trident of Stability|Trident of Stability (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Trident of Stability|Trident of Stability (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/magic-item]
 ---

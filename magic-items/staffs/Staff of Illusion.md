@@ -8,10 +8,7 @@ aura: "Strong illusion"
 caster-level: 13
 prerequisites: "Craft Staff, disguise self, major image, mirror image, persistent image, project image, rainbow pattern"
 price: "65,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/staffs/Staff of Illusion|Staff of Illusion (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

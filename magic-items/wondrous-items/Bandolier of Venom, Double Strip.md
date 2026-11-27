@@ -9,10 +9,7 @@ prerequisites: "Craft Wondrous Item, arcane lock, poison"
 price: "70,000 gp"
 cost: "35,000 gp + 2,800 XP"
 weight: "4 lb."
-based-on:
-  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Bandolier of Venom|Bandolier of Venom (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

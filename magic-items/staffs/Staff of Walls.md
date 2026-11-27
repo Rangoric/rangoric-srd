@@ -7,10 +7,7 @@ aliases:
 caster-level: 30
 prerequisites: "Craft Staff, Craft Epic Staff, Extend Spell, extended wall of force, wall of iron, wall of stone"
 price: "275,625 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/staffs/Staff of Walls|Staff of Walls (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---

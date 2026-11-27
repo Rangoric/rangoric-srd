@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, deadly juggernaut, enlarge person, rage"
 price: "40,000 gp"
 cost: "20,000 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Juggernaut's Pauldrons|Juggernaut's Pauldrons (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Juggernaut's Pauldrons|Juggernaut's Pauldrons (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

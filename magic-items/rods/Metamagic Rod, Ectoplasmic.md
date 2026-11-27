@@ -10,12 +10,7 @@ caster-level: 17
 prerequisites: "Craft Rod, Ectoplasmic Spell"
 price: "11,000 gp"
 cost: "5,500 gp"
-based-on:
-  - "[[path srd 3.5/items/rods/Ectoplasmic Metamagic Rod|Ectoplasmic Metamagic Rod (PF1)]]"
-  - "[[path srd 3.5/items/rods/Metamagic, Ectoplasmic|Metamagic, Ectoplasmic (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Ectoplasmic Metamagic Rod|Metamagic Rod, Ectoplasmic (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

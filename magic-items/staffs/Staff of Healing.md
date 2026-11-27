@@ -8,10 +8,7 @@ aura: "Moderate conjuration"
 caster-level: 8
 prerequisites: "Craft Staff, cure serious wounds, lesser restoration, remove blindness/deafness, remove disease"
 price: "27,750 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/staffs/Staff of Healing|Staff of Healing (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

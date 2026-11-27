@@ -11,11 +11,7 @@ prerequisites: "Craft Wondrous Item, animate objects, invisibility, whispering w
 price: "13,000 gp"
 cost: "6,500 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Tin Imp|Figurine of Wondrous Power, Tin Imp (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Figurine of Wondrous Power (tin imp)|Figurine of Wondrous Power, Tin Imp (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -8,10 +8,7 @@ caster-level: 9
 prerequisites: "Craft Wondrous Item, control water"
 price: "9,000 gp"
 weight: "2 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Decanter of Endless Water|Decanter of Endless Water (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

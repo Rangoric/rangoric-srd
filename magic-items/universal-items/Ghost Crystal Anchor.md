@@ -7,10 +7,7 @@ manifester-level: 5
 prerequisites: "Craft Universal Item, brain lock, psionic contingency, remote viewing"
 price: "24,000 gp"
 weight: "3 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/universal-items/Ghost Crystal Anchor|Ghost Crystal Anchor (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

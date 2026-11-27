@@ -7,10 +7,7 @@ caster-level: 13
 prerequisites: "Craft Magic Arms and Armor, call lightning, summon nature’s ally III and VI, insect plague, and creeping doom"
 price: "73,600 gp"
 cost: "36,800 gp + 2,944 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Staff of the Summoner|Staff of the Summoner (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -7,10 +7,7 @@ manifester-level: 4
 prerequisites: "Craft Universal Item, claws of the beast"
 price: "16,000 gp"
 weight: "2 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/universal-items/Skin of the Claw|Skin of the Claw (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -8,10 +8,7 @@ caster-level: 6
 prerequisites: "Craft Wondrous Item, fabricate"
 price: "13,000 gp"
 weight: "5 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Lyre of Building|Lyre of Building (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

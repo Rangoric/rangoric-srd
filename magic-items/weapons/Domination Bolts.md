@@ -7,10 +7,7 @@ caster-level: 17
 prerequisites: "Craft Magic Arms and Armor, dominate monster"
 price: "5,675 gp"
 cost: "2,838 gp + 227 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Domination Bolts|Domination Bolts (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

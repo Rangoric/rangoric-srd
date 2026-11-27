@@ -9,11 +9,7 @@ price: "12,150 gp"
 cost: "6,100 gp"
 weight: "4 lbs."
 recharge: true
-based-on:
-  - "[[path srd 3.5/items/staves/Gravedigger's Spade|Gravedigger's Spade (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Gravedigger's Spade|Gravedigger's Spade (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

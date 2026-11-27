@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, mnemonic enhancer"
 price: "22,000 gp"
 cost: "11,000 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Amulet of Spell Mastery|Amulet of Spell Mastery (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Amulet of Spell Mastery|Amulet of Spell Mastery (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -5,10 +5,7 @@ item-type: "Cursed Item"
 aura: "Strong enchantment"
 caster-level: 20
 price: "6,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/cursed-items/Vacuous Grimoire|Vacuous Grimoire (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

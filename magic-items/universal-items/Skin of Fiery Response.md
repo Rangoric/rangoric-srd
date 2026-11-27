@@ -7,10 +7,7 @@ manifester-level: 5
 prerequisites: "Craft Universal Item, energy retort"
 price: "60,000 gp"
 weight: "2 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/universal-items/Skin of Fiery Response|Skin of Fiery Response (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

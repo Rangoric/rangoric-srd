@@ -7,11 +7,7 @@ caster-level: 5
 prerequisites: "Craft Rod, bull's strength, cat's grace, shatter"
 price: "15,000 gp"
 cost: "7,500 gp"
-based-on:
-  - "[[path srd 3.5/items/rods/Rod of Escape|Rod of Escape (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Rod of Escape|Rod of Escape (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

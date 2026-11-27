@@ -11,12 +11,7 @@ prerequisites: "Craft Wondrous Item, mage hand, unseen servant"
 price: "180 gp"
 cost: "90 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Assisting Gloves|Assisting Gloves (PF1)]]"
-  - "[[path srd 3.5/items/wondrous-items/Assisting Glove|Assisting Glove (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Assisting Gloves|Assisting Gloves (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

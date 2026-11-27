@@ -6,10 +6,7 @@ aura: "Moderate transmutation"
 caster-level: 10
 prerequisites: "Craft Magic Arms and Armor, feather fall, gaseous form, levitate"
 price: "+66,000 gp"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/armor-qualities/Auran|Auran (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

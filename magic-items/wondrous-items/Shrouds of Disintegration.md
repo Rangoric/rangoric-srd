@@ -8,10 +8,7 @@ caster-level: 15
 prerequisites: "Craft Wondrous Item, disintegrate"
 price: "6,600 gp"
 weight: "10 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Shrouds of Disintegration|Shrouds of Disintegration (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

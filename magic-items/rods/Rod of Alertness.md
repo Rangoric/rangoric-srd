@@ -8,10 +8,7 @@ aura: "Moderate abjuration, divination, enchantment, and evocation"
 caster-level: 11
 prerequisites: "Craft Rod, alarm, detect chaos, detect evil, detect good, detect law, detect magic, discern lies, light, see invisibility, prayer, animate objects"
 price: "85,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rods/Rod of Alertness|Rod of Alertness (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -7,10 +7,7 @@ aura: "Faint abjuration"
 caster-level: 1
 prerequisites: "Craft Wondrous Item, shield"
 price: "1,500 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Brooch of Shielding|Brooch of Shielding (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -5,10 +5,7 @@ item-type: "Potion"
 caster-level: 13
 prerequisites: "Brew Potion, shadow walk"
 price: "6,825 gp"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/magic-items/Stuff of Shadow|Stuff of Shadow (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

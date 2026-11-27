@@ -6,10 +6,7 @@ aura: "Moderate conjuration and evocation [cold]"
 caster-level: 9
 prerequisites: "Craft Magic Arms and Armor, cone of cold, darkness"
 price: "+2 bonus"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapon-qualities/Darklight|Darklight (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -9,11 +9,7 @@ price: "14,400 gp"
 cost: "7,200 gp"
 weight: "5 lbs."
 recharge: true
-based-on:
-  - "[[path srd 3.5/items/staves/Staff of Eidolons|Staff of Eidolons (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Staff of Eidolons|Staff of Eidolons (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

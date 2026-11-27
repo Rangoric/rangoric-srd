@@ -7,11 +7,7 @@ caster-level: 17
 prerequisites: "Craft Rod, Maximize Spell, creator must have the hex class feature"
 price: "54,000 gp"
 cost: "27,000 gp"
-based-on:
-  - "[[path srd 3.5/items/rods/Rod of Potent Hexes|Rod of Potent Hexes (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Rod of Potent Hexes|Rod of Potent Hexes (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

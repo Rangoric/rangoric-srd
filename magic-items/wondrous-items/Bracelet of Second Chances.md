@@ -8,11 +8,7 @@ caster-level: 9
 prerequisites: "Craft Wondrous Item, breath of life"
 price: "15,750 gp"
 cost: "7,875 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Bracelet of Second Chances|Bracelet of Second Chances (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Bracelet of Second Chances|Bracelet of Second Chances (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

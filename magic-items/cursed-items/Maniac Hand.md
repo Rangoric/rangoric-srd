@@ -5,10 +5,7 @@ item-type: "Cursed Item"
 aura: "Strong necromancy"
 caster-level: 13
 intended-item: "hand of glory, hand of the mage, hand of stone"
-based-on:
-  - "[[path srd 3.5 foundry/items/cursed/Maniac Hand|Maniac Hand (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/magic-item]
 ---

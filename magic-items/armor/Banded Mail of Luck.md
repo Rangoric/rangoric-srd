@@ -7,10 +7,7 @@ caster-level: 12
 prerequisites: "Craft Magic Arms and Armor, bless"
 price: "18,900 gp"
 cost: "10,150 gp + 700 XP"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/armor/Banded Mail of Luck|Banded Mail of Luck (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

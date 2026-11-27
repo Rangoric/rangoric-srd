@@ -6,10 +6,7 @@ caster-level: 20
 prerequisites: "Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, protection from energy"
 price: "1,612,970 gp"
 cost: "to Create: 806,570 gp + 26,128 XP"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/armor/Bulwark of the Great Dragon|Bulwark of the Great Dragon (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---

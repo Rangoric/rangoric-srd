@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, beast shape I, feather fall, perceive cues"
 price: "7,000 gp"
 cost: "3,500 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Eagle Cape|Eagle Cape (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Eagle Cape|Eagle Cape (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -5,10 +5,7 @@ item-type: "Cursed Item"
 aura: "Faint divination"
 caster-level: 5
 intended-item: "mirror of life trapping, mirror of opposition"
-based-on:
-  - "[[path srd 3.5/items/cursed-items/One-Way Window|One-Way Window (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

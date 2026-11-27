@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, innocence, stone shape"
 price: "8,000 gp"
 cost: "4,000 gp"
 weight: "4 lbs."
-based-on:
-  - "[[path srd 3.5/items/featured-race/Mask of Stony Demeanor|Mask of Stony Demeanor (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Mask of Stony Demeanor|Mask of Stony Demeanor (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

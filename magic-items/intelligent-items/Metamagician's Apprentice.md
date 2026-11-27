@@ -14,11 +14,7 @@ ego: 20
 alignment: "lawful neutral"
 senses: "120 ft."
 language: "telepathy (Common and eight other languages)"
-based-on:
-  - "[[path srd 3.5/items/intelligent-items/metamagician's apprentice|metamagician's apprentice (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Metamagician's Apprentice|Metamagician's Apprentice (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

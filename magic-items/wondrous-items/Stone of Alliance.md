@@ -8,11 +8,7 @@ caster-level: 3
 prerequisites: "Craft Wondrous Item, shield other, status"
 price: "5,000 gp"
 cost: "2,500 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Stone of Alliance|Stone of Alliance (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Stone of Alliance|Stone of Alliance (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

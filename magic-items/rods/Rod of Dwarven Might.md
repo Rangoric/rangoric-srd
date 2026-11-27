@@ -7,11 +7,7 @@ caster-level: 19
 prerequisites: "Craft Magic Arms and Armor, Craft Rod, bull's strength, telekinesis, creator must be a dwarf"
 price: "80,000 gp"
 cost: "40,000 gp"
-based-on:
-  - "[[path srd 3.5/items/core-race/Rod of Dwarven Might|Rod of Dwarven Might (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Rod of Dwarven Might|Rod of Dwarven Might (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

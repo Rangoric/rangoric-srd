@@ -6,11 +6,7 @@ aura: "Faint necromancy"
 caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, pernicious poison"
 price: "+1 bonus"
-based-on:
-  - "[[path srd 3.5/items/misc/Virulent|Virulent (PF1)]]"
-  - "[[path srd 3.5 foundry/items/special-abilities/Virulent|Virulent (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/magic-item]
 ---

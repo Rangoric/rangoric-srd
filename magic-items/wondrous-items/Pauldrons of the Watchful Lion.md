@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, Craft Magic Arms and Armor, spectral hand"
 price: "10,800 gp"
 cost: "5,400 gp"
 weight: "3 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Pauldrons of the Watchful Lion|Pauldrons of the Watchful Lion (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Pauldrons of the Watchful Lion|Pauldrons of the Watchful Lion (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

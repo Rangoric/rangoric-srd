@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, divine favor, moment of prescience"
 price: "5,000 gp"
 cost: "2,500 gp"
 weight: "3 lbs."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Jingasa of the Fortunate Soldier|Jingasa of the Fortunate Soldier (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Jingasa of the Fortunate Soldier (Ultimate Equipment)|Jingasa of the Fortunate Soldier (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

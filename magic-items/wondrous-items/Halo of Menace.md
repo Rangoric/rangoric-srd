@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, order's wrath, creator must be an aasimar o
 price: "84,000 gp"
 cost: "42,000 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/featured-race/Halo of Menace|Halo of Menace (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Halo of Menace|Halo of Menace (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

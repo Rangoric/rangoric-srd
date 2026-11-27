@@ -14,11 +14,7 @@ ego: 17
 alignment: "chaotic good"
 senses: "30 ft."
 language: "speech (Common and four other languages)"
-based-on:
-  - "[[path srd 3.5/items/intelligent-items/Singing Sword|Singing Sword (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Singing Sword|Singing Sword (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, divine favor, the creator must be a halflin
 price: "6,000 gp"
 cost: "3,000 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/core-race/Symbol of Luck|Symbol of Luck (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Symbol of Luck|Symbol of Luck (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

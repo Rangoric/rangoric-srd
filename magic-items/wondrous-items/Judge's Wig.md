@@ -8,11 +8,7 @@ caster-level: 7
 prerequisites: "Craft Wondrous Item, discern lies"
 price: "59,200 gp"
 cost: "29,600 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Judge's Wig|Judge's Wig (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Judge's Wig|Judge's Wig (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

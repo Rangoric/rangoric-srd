@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, true strike"
 price: "20,000 gp"
 cost: "10,000 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Sniper Goggles|Sniper Goggles (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Sniper Goggles|Sniper Goggles (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

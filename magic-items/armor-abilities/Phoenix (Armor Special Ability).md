@@ -8,10 +8,7 @@ aura: "Strong necromancy"
 caster-level: 18
 prerequisites: "Craft Magic Arms and Armor, resurrection"
 price: "+4 bonus"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/armor-qualities/Phoenix|Phoenix (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

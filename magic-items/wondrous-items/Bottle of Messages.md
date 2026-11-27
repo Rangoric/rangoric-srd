@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, magic mouth"
 price: "300 gp"
 cost: "150 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Bottle of Messages|Bottle of Messages (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Bottle of Messages|Bottle of Messages (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

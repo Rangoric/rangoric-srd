@@ -6,11 +6,7 @@ aura: "Moderate illusion and transmutation"
 caster-level: 7
 prerequisites: "Craft Magic Arms and Armor, cat's grace, invisibility"
 price: "+5,000 gp"
-based-on:
-  - "[[path srd 3.5/rules/ultimate-equipment/magic-arms-and-armor/Armor Special Abilities#Creeping|Creeping (PF1)]]"
-  - "[[path srd 3.5 foundry/items/special-abilities/Creeping|Creeping (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/magic-item]
 ---

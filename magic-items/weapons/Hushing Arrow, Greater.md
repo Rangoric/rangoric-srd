@@ -7,11 +7,7 @@ caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, silence"
 price: "1,047 gp"
 cost: "527 gp"
-based-on:
-  - "[[path srd 3.5/items/specific-magic-weapons/Hushing Arrow|Hushing Arrow (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Hushing Arrow, Greater|Hushing Arrow, Greater (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/magic-item]
 ---

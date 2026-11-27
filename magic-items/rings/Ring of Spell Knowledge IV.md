@@ -7,11 +7,7 @@ caster-level: 7
 prerequisites: "Forge Ring, creator must be able to cast spells of the spell level to be granted"
 price: "24,000 gp"
 cost: "12,000 gp"
-based-on:
-  - "[[path srd 3.5/items/rings/Ring of Spell Knowledge|Ring of Spell Knowledge (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Ring of Spell Knowledge Type IV|Ring of Spell Knowledge IV (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/magic-item]
 ---

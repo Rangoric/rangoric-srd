@@ -6,10 +6,7 @@ aura: "Faint transmutation"
 caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, haste"
 price: "26,500 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/armor/Mithral Full Plate of Speed|Mithral Full Plate of Speed (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -8,10 +8,7 @@ aura: "Strong psychoportation"
 manifester-level: 17
 prerequisites: "Craft Psicrown, temporal acceleration, time hop, timeless body"
 price: "95,625 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/psicrowns/Temporal Juggler Psicrown|Temporal Juggler Psicrown (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

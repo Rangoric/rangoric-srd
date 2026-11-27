@@ -7,11 +7,7 @@ caster-level: 9
 prerequisites: "Forge Ring, heal, time stop"
 price: "45,000 gp"
 cost: "22,500 gp"
-based-on:
-  - "[[path srd 3.5/items/rings/Ring of Delayed Doom|Ring of Delayed Doom (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Ring of Delayed Doom|Ring of Delayed Doom (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/magic-item]
 ---

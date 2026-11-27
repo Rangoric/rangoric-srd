@@ -5,10 +5,7 @@ item-type: "Construct Modification"
 cr-increase: "+1"
 prerequisites: "Craft Construct, regenerate"
 cost: "22,750 gp"
-based-on:
-  - "[[path srd 3.5/items/building-and-modifying-constructs/Bioconstruct Modification|Bioconstruct Modification (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/magic-item]
 ---

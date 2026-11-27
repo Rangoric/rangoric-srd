@@ -1,22 +1,7 @@
 ---
 srd-type: "rules"
 section: "Magic Items"
-based-on:
-  - "[[path srd 3.5/rules/ultimate-equipment/wondrous-items/Belt|Belt (PF1)]]"
-  - "[[path srd 3.5/rules/ultimate-equipment/wondrous-items/Body|Body (PF1)]]"
-  - "[[path srd 3.5/rules/ultimate-equipment/wondrous-items/Chest (Wondrous Items)|Chest (PF1)]]"
-  - "[[path srd 3.5/rules/ultimate-equipment/wondrous-items/Eyes|Eyes (PF1)]]"
-  - "[[path srd 3.5/rules/ultimate-equipment/wondrous-items/Feet|Feet (PF1)]]"
-  - "[[path srd 3.5/rules/ultimate-equipment/wondrous-items/Hands|Hands (PF1)]]"
-  - "[[path srd 3.5/rules/ultimate-equipment/wondrous-items/Head|Head (PF1)]]"
-  - "[[path srd 3.5/rules/ultimate-equipment/wondrous-items/Headbands|Headbands (PF1)]]"
-  - "[[path srd 3.5/rules/ultimate-equipment/wondrous-items/Neck|Neck (PF1)]]"
-  - "[[path srd 3.5/rules/ultimate-equipment/wondrous-items/Shoulders|Shoulders (PF1)]]"
-  - "[[path srd 3.5/rules/ultimate-equipment/wondrous-items/Wrists|Wrists (PF1)]]"
-  - "[[path srd 3.5/rules/ultimate-equipment/wondrous-items/Slotless|Slotless (PF1)]]"
-  - "[[path srd 3.5/rules/ultimate-equipment/wondrous-items/Extradimensional Spaces|Extradimensional Spaces (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/rules]
 ---

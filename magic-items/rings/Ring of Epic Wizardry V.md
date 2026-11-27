@@ -8,10 +8,7 @@ aliases:
 caster-level: 23
 prerequisites: "Forge Ring, Forge Epic Ring, wish"
 price: "250,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rings/Ring of Epic Wizardry|Ring of Epic Wizardry (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---

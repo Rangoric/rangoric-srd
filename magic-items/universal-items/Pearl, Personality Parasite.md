@@ -6,10 +6,7 @@ aura: "Faint telepathy"
 manifester-level: 7
 prerequisites: "Craft Universal Item, personality parasite"
 price: "1,400 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/universal-items/Pearl, Personality Parasite|Pearl, Personality Parasite (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

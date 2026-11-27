@@ -7,10 +7,7 @@ manifester-level: 3
 prerequisites: "Craft Universal Item, psionic suggestion"
 price: "3,600 gp"
 weight: "1/2 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/universal-items/Mirror of Suggestion|Mirror of Suggestion (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

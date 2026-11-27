@@ -7,10 +7,7 @@ caster-level: 10
 prerequisites: "Craft Wondrous Item, create food and water, endure elements, secret chest"
 price: "77,500 gp"
 weight: "3 lb"
-based-on:
-  - "[[individual books/Spells & Magic v3.0/magic-items/Coat of Comfort|Coat of Comfort (Spells & Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

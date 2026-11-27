@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, endure elements, pass without trace, resist
 price: "3,500 gp"
 cost: "1,750 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Boots of the Mire|Boots of the Mire (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Boots of the Mire|Boots of the Mire (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

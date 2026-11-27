@@ -9,12 +9,7 @@ prerequisites: "Craft Wondrous Item, giant form I"
 price: "90,000 gp"
 cost: "45,000 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Mask of Giants, greater|Mask of Giants, Greater (PF1)]]"
-  - "[[path srd 3.5/items/wondrous-items/Mask of Giants|Mask of Giants (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Mask of Giants, Greater|Mask of Giants, Greater (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

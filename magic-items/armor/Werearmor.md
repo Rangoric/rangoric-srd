@@ -7,10 +7,7 @@ caster-level: 10
 prerequisites: "Craft Magic Arms and Armor, levitate, alter self"
 price: "36,300 gp"
 cost: "18,300 gp + 1,440 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Werearmor|Werearmor (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

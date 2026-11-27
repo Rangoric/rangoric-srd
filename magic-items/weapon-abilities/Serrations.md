@@ -3,10 +3,7 @@ srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Weapon Special Ability"
 price: "+50 gp"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/weapon-qualities/Serrations|Serrations (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

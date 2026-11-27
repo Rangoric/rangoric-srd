@@ -11,11 +11,7 @@ prerequisites: "Craft Wondrous Item, greater magic fang, creator's caster level 
 price: "3,000 gp"
 cost: "1,500 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Bodywrap of Mighty Strikes|Bodywrap of Mighty Strikes (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Bodywrap of Mighty Strikes +1|Bodywrap of Mighty Strikes +1 (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

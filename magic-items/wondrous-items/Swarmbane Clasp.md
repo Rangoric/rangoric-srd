@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, repel vermin"
 price: "3,000 gp"
 cost: "1,500 gp"
 weight: "1/2 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Swarmbane Clasp|Swarmbane Clasp (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Swarmbane Clasp|Swarmbane Clasp (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

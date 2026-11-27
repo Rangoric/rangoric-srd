@@ -8,11 +8,7 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, beast shape I"
 price: "4,000 gp"
 cost: "2,000 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Eyes of the Owl|Eyes of the Owl (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Eyes of the Owl|Eyes of the Owl (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

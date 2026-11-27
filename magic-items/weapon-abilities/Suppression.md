@@ -5,10 +5,7 @@ item-type: "Psionic Weapon Special Ability"
 aura: "Moderate psychokinesis ML 10th"
 prerequisites: "Craft Psionic Arms and Armor, dispel psionics"
 price: "+2 bonus"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/weapon-abilities/Suppression|Suppression (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

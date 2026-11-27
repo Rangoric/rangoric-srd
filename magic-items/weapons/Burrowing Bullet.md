@@ -6,11 +6,7 @@ aura: "Moderate necromancy"
 caster-level: 9
 prerequisites: "Craft Magic Arms and Armor, symbol of pain"
 price: "1,722 gp"
-based-on:
-  - "[[path srd 3.5/items/firearms/Burrowing Bullet|Burrowing Bullet (PF1)]]"
-  - "[[path srd 3.5 foundry/items/magic-items/Burrowing Bullet, Lesser|Burrowing Bullet (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---

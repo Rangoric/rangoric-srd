@@ -8,10 +8,7 @@ aura: "Strong conjuration"
 caster-level: 15
 prerequisites: "Forge Ring, summon monster VI, all appropriate spells"
 price: "200,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rings/Ring of Elemental Command|Ring of Elemental Command (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

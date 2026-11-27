@@ -8,10 +8,7 @@ aura: "Moderate transmutation"
 caster-level: 7
 prerequisites: "Forge Ring, jump"
 price: "25,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rings/Ring of Evasion|Ring of Evasion (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -7,10 +7,7 @@ manifester-level: 15
 prerequisites: "Craft Universal Item, bend reality"
 price: "36,000 gp"
 weight: "2 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/universal-items/Torc of Power Preservation|Torc of Power Preservation (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

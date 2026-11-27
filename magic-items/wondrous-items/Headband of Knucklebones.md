@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, animate dead, command undead"
 price: "27,500 gp"
 cost: "13,750 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Headband of Knucklebones|Headband of Knucklebones (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Headband of Knucklebones|Headband of Knucklebones (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---

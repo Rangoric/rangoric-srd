@@ -7,10 +7,7 @@ aliases:
 caster-level: 27
 prerequisites: "Craft Staff, Craft Epic Staff, Intensify Spell, chain lightning, meteor swarm, sunburst"
 price: "683,437 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/staffs/Staff of Cosmos|Staff of Cosmos (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---

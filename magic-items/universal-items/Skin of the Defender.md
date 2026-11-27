@@ -7,10 +7,7 @@ manifester-level: 5
 prerequisites: "Craft Universal Item, thicken skin"
 price: "32,000 gp"
 weight: "2 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/universal-items/Skin of the Defender|Skin of the Defender (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

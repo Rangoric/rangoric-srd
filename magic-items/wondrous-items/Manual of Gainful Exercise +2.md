@@ -9,10 +9,7 @@ prerequisites: "Craft Wondrous Item, wish or miracle"
 price: "55,000 gp"
 cost: "2,500 gp + 10,200 XP"
 weight: "5 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Manual of Gainful Exercise|Manual of Gainful Exercise (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

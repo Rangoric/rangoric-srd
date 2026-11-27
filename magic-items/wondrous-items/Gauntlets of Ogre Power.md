@@ -8,10 +8,7 @@ caster-level: 6
 prerequisites: "Craft Wondrous Item, bull’s strength"
 price: "4,000 gp"
 weight: "4 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Gauntlets of Ogre Power|Gauntlets of Ogre Power (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

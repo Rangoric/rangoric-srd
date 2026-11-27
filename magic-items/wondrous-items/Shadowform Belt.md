@@ -8,11 +8,7 @@ caster-level: 17
 prerequisites: "Craft Wondrous Item, cat's grace, etherealness"
 price: "110,000 gp"
 cost: "55,000 gp"
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Shadowform Belt|Shadowform Belt (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Shadowform Belt|Shadowform Belt (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

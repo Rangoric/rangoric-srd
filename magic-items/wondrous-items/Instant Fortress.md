@@ -7,10 +7,7 @@ aura: "Strong conjuration"
 caster-level: 13
 prerequisites: "Craft Wondrous Item, mage’s magnificent mansion"
 price: "55,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Instant Fortress|Instant Fortress (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

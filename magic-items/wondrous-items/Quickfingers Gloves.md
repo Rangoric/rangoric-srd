@@ -8,11 +8,7 @@ caster-level: 5
 prerequisites: "Craft Wondrous Item, cat's grace, haste"
 price: "2,500 gp"
 cost: "1,250 gp"
-based-on:
-  - "[[path srd 3.5/items/core-race/Quickfingers Gloves|Quickfingers Gloves (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Quickfingers Gloves|Quickfingers Gloves (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

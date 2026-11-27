@@ -8,10 +8,7 @@ aura: "Strong conjuration"
 caster-level: 17
 prerequisites: "Forge Ring, gate"
 price: "125,000 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/rings/Ring of Djinni Calling|Ring of Djinni Calling (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

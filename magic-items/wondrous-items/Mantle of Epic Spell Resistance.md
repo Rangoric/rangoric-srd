@@ -6,10 +6,7 @@ slot: "chest"
 caster-level: 29
 prerequisites: "Craft Wondrous Item, Craft Epic Wondrous Item, spell resistance"
 price: "290,000 gp. Weight: 1 lb"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/wondrous-items/Mantle of Epic Spell Resistance|Mantle of Epic Spell Resistance (3.5)]]"
 status: draft
-change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---

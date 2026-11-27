@@ -7,11 +7,7 @@ caster-level: 18
 prerequisites: "Craft Magic Arms and Armor, holy aura, creator must be good"
 price: "120,630 gp"
 cost: "60,630 gp + 4,800 XP"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/weapons/Holy Avenger|Holy Avenger (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Holy Avenger|Holy Avenger (Arms & Armor)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

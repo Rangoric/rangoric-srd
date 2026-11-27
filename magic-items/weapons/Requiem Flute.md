@@ -7,10 +7,7 @@ caster-level: 13
 prerequisites: "Craft Wondrous Item, mage’s sword, shout"
 price: "165,500 gp"
 cost: "82,750 gp + 6,620 XP"
-based-on:
-  - "[[individual books/Arms & Armor v3.5/specific-weapons/Requiem Flute|Requiem Flute (Arms & Armor)]]"
 status: draft
-change: new
 pi-review: 2026-11-11
 tags: [rangoric, rangoric/magic-item]
 ---

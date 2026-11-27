@@ -5,10 +5,7 @@ item-type: "Cursed Item"
 aura: "Faint divination"
 caster-level: 7
 price: "1,800 gp"
-based-on:
-  - "[[fantasy srd 3.5/magic-items/cursed-items/Medallion of Thought Projection|Medallion of Thought Projection (3.5)]]"
 status: base
-change: copied
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

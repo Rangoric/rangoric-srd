@@ -9,11 +9,7 @@ prerequisites: "Craft Wondrous Item, prayer, creator must be oracle level 7th"
 price: "1,000 gp"
 cost: "500 gp"
 weight: "1 lb."
-based-on:
-  - "[[path srd 3.5/items/wondrous-items/Incense of Transcendence|Incense of Transcendence (PF1)]]"
-  - "[[path srd 3.5 foundry/items/wondrous/Incense of Transcendence|Incense of Transcendence (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -6,10 +6,7 @@ caster-level: 11
 prerequisites: "Craft Magic Arms and Armor, The Sword, Star of Light, keen edge"
 price: "33,000 gp"
 cost: "15,500 gp + 1,320 XP"
-based-on:
-  - "[[individual books/Encyclopaedia Arcane Star Magic/magic-items/Star Sword|Star Sword (Star Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---
