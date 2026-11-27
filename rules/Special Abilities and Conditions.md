@@ -181,7 +181,7 @@ Darkvision is the extraordinary ability to see with no light source at all, out 
 
 ##### Death Attacks
 
-In most cases, a death attack attacks the victim’s Fortitude, and a miss avoids the effect, but if the victim fails the save, the character dies instantly.
+In most cases, a death attack attacks the victim’s Fortitude, and a miss avoids the effect, but on a hit, the character dies instantly.
 
 - Raise dead doesn’t work on someone killed by a death attack.
 
@@ -201,7 +201,7 @@ Some spells and a number of undead creatures have the ability to drain away life
 
 For each negative level a creature has, it takes a cumulative –1 penalty on all ability checks, attack rolls, [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Bonus|combat maneuver checks]], [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|Combat Maneuver Defense]], defenses, and skill checks. In addition, the creature reduces its current and total hit points by 5 for each negative level it possesses. The creature is also treated as one level lower for the purpose of level-dependent variables (such as spellcasting) for each negative level possessed. Spellcasters do not lose any prepared spells or slots as a result of negative levels. If a creature’s negative levels equal or exceed its total Hit Dice, it dies. ^negative-levels
 
-Each day, the effect that caused a creature’s temporary negative levels attacks it again, with the same attack bonus, and if it misses, the negative level is removed. A negative level is temporary unless its source says it is permanent: a failed save against [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] or the _[[rangoric-srd/spells/Energy Drain|energy drain]]_ spell makes the negative level permanent, and some effects bestow [[#^permanent-negative-levels|permanent negative levels]] directly. An effect can also say otherwise, such as negative levels that end after a set time or last only while an item is held or worn. ^negative-level-save
+Each day, the effect that caused a creature’s temporary negative levels attacks it again, with the same attack bonus, and if it misses, the negative level is removed. A negative level is temporary unless its source says it is permanent: a negative level from [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] or the _[[rangoric-srd/spells/Energy Drain|energy drain]]_ spell becomes permanent if that daily attack hits, and some effects bestow [[#^permanent-negative-levels|permanent negative levels]] directly. An effect can also say otherwise, such as negative levels that end after a set time or last only while an item is held or worn. ^negative-level-save
 
 Permanent negative levels are treated just like temporary negative levels, but they do not attack again each day, and are not removed by a miss. A permanent negative level never costs the creature a level: the creature keeps its levels, Hit Dice, and experience points. Permanent negative levels are removed with spells such as _[[rangoric-srd/spells/Restoration|restoration]]_ and _[[rangoric-srd/spells/Restoration, Greater|greater restoration]]_. Some effects, such as _[[rangoric-srd/spells/Raise Dead|raise dead]]_, bestow permanent negative levels directly. Permanent negative levels remain after a dead creature is restored to life. A creature whose permanent negative levels equal its Hit Dice cannot be brought back to life through spells like _[[rangoric-srd/spells/Raise Dead|raise dead]]_ and _[[rangoric-srd/spells/Resurrection|resurrection]]_ without also receiving a _[[rangoric-srd/spells/Restoration|restoration]]_ spell, cast the round after it is restored to life. ^permanent-negative-levels
 
@@ -556,7 +556,7 @@ Frightened is like [[#^shaken|shaken]], except that the creature must flee if po
 
 **Helpless**: A helpless character is [[#^paralyzed|paralyzed]], held, bound, sleeping, [[#^unconscious|unconscious]], or otherwise completely at an opponent’s mercy. A helpless target is treated as having a Dexterity of 0 (–5 modifier). Melee attacks against a helpless target get a +4 bonus (equivalent to attacking a [[#^prone|prone]] target). Ranged attacks gets no special bonus against helpless targets. Rogues can sneak attack helpless targets. ^helpless
 
-As a full-round action, an enemy can use a melee weapon to deliver a coup de grace to a helpless foe. An enemy can also use a bow or crossbow, provided he is adjacent to the target. The attacker automatically hits and scores a critical hit. (A rogue also gets her sneak attack damage bonus against a helpless foe when delivering a coup de grace.) If the defender survives, the coup de grace attacks his Fortitude with an attack bonus equal to the damage dealt, and if he fails his save, he dies.
+As a full-round action, an enemy can use a melee weapon to deliver a coup de grace to a helpless foe. An enemy can also use a bow or crossbow, provided he is adjacent to the target. The attacker automatically hits and scores a critical hit. (A rogue also gets her sneak attack damage bonus against a helpless foe when delivering a coup de grace.) If the defender survives, the coup de grace attacks his Fortitude with an attack bonus equal to the damage dealt, and on a hit, he dies.
 
 Delivering a coup de grace provokes attacks of opportunity.
 

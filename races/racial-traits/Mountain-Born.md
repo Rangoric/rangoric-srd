@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/racial-trait, racial-trait/defense, racial-trait/stand
 
 **Race**: [[rangoric-srd/races/Oread|Oread]]. **Replaces**: spell-like ability.
 
-Oreads are drawn to mountains and other high places, and after many generations they've grown well suited to their environment. Oreads with this racial trait gain a +2 racial bonus on [[rangoric-srd/skills/Acrobatics|Acrobatics]] checks made to cross narrow ledges and on saves against [[rangoric-srd/rules/Wilderness, Weather, and Environment#Mountain Travel|altitude fatigue and sickness]].
+Oreads are drawn to mountains and other high places, and after many generations they've grown well suited to their environment. Oreads with this racial trait gain a +2 racial bonus on [[rangoric-srd/skills/Acrobatics|Acrobatics]] checks made to cross narrow ledges and on defenses against [[rangoric-srd/rules/Wilderness, Weather, and Environment#Mountain Travel|altitude fatigue and sickness]].

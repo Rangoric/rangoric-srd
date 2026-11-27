@@ -8,6 +8,7 @@ Every departure from the source rules, newest first. One line each, with links t
 
 | Date | Change | Rangoric note | Source | Why |
 | --- | --- | --- | --- | --- |
+| 2026-11-27 | Saving throws as defenses, catch-up (DF 86): notes the scans missed, monsters to rules, attack a defense instead of allowing a save. | [[DF Batch 86 Changes]] | | [[Saving Throws as Defenses]] DF 86 |
 | 2026-11-27 | Saving throws as defenses, catch-up (DF 85): notes the scans missed, feats to monsters, attack a defense instead of allowing a save. | [[DF Batch 85 Changes]] | | [[Saving Throws as Defenses]] DF 85 |
 | 2026-11-27 | Saving throws as defenses, catch-up (DF 84): notes the scans missed, equipment to feats, attack a defense instead of allowing a save. | [[DF Batch 84 Changes]] | | [[Saving Throws as Defenses]] DF 84 |
 | 2026-11-27 | Saving throws as defenses, catch-up (DF 83): notes the scans missed, actions to equipment, attack a defense instead of allowing a save. | [[DF Batch 83 Changes]] | | [[Saving Throws as Defenses]] DF 83 |

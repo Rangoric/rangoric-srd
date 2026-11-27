@@ -27,5 +27,5 @@ A disease; how afflictions work, and what each line means, is in [[rangoric-srd/
 - **Attack**: +6 vs Fortitude
 - **Onset**: 1d3 days
 - **Frequency**: 1/day
-- **Effect**: 1d4 Str damage; if it deals more than 2 points of Strength damage, it attacks the target’s Fortitude again, and if the target fails its save, it is permanently [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]]
+- **Effect**: 1d4 Str damage; if it deals more than 2 points of Strength damage, it attacks the target’s Fortitude again, and on a hit the target is permanently [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]]
 - **Cure**: 2 consecutive misses

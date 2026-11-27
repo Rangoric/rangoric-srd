@@ -19,7 +19,7 @@ The manifestations, manifestation points and manifesting level of a psychic duel
 
 ## Instigating a Psychic Duel
 
-A psychic spellcaster creates a binary mindscape when a target fails its save against _[[rangoric-srd/spells/Instigate Psychic Duel|instigate psychic duel]]_. The caster’s and the target’s minds are then merged in a psychic duel within that mindscape until the spell’s duration ends or the duel reaches its conclusion (see [[rangoric-srd/rules/Psychic Duels#Concluding a Psychic Duel|Concluding a Psychic Duel]]). If the duel begins during combat, each duelist keeps its place in the initiative order, and the duel goes on alongside the combat.
+A psychic spellcaster creates a binary mindscape when _[[rangoric-srd/spells/Instigate Psychic Duel|instigate psychic duel]]_ hits a target. The caster’s and the target’s minds are then merged in a psychic duel within that mindscape until the spell’s duration ends or the duel reaches its conclusion (see [[rangoric-srd/rules/Psychic Duels#Concluding a Psychic Duel|Concluding a Psychic Duel]]). If the duel begins during combat, each duelist keeps its place in the initiative order, and the duel goes on alongside the combat.
 
 If the duel begins outside combat, the initiator can take a swift action to create a psychic manifestation upon entering the binary mindscape, before her opponent’s first turn.
 

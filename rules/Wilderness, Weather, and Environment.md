@@ -312,7 +312,7 @@ Cave-ins and collapsing tunnels are extremely dangerous. Not only do dungeon exp
 
 A weakened ceiling may collapse when subjected to a major impact or concussion. A character can cause a cave-in by destroying half the pillars holding the ceiling up.
 
-Characters in the bury zone of a cave-in take 8d6 points of damage, or half that amount if it misses (+5 vs Reflex). They are subsequently buried. Characters in the slide zone take 3d6 points of damage, or no damage at all if it misses (+5 vs Reflex). Characters in the slide zone who fail their saves are buried.
+Characters in the bury zone of a cave-in take 8d6 points of damage, or half that amount if it misses (+5 vs Reflex). They are subsequently buried. Characters in the slide zone take 3d6 points of damage, or no damage at all if it misses (+5 vs Reflex). Characters in the slide zone that it hits are buried.
 
 Characters take 1d6 points of nonlethal damage per minute while buried. If such a character falls unconscious, he must make a DC 15 Constitution check. If it fails, he takes 1d6 points of lethal damage each minute thereafter until freed or dead.
 
@@ -561,7 +561,7 @@ A landslide or avalanche consists of two distinct areas: the bury zone (in the d
 
 Characters in the bury zone take 8d6 points of damage, or half that amount if it misses (+5 vs Reflex). They are subsequently buried (see below).
 
-Characters in the slide zone take 3d6 points of damage, or no damage if it misses (+5 vs Reflex). Those who fail their saves are buried.
+Characters in the slide zone take 3d6 points of damage, or no damage if it misses (+5 vs Reflex). Those it hits are buried.
 
 Buried characters take 1d6 points of nonlethal damage per minute. If a buried character falls [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]], he or she must make a DC 15 Constitution check or take 1d6 points of lethal damage each minute thereafter until freed or [[rangoric-srd/rules/Special Abilities and Conditions#^dead|dead]].
 
@@ -983,7 +983,7 @@ _Windstorm_: Powerful enough to bring down branches if not whole trees, windstor
 
 _Hurricane-Force Wind_: All flames are extinguished. Ranged attacks are impossible (except with siege weapons, which have a –8 penalty on attack rolls). Perception checks are impossible: All characters can hear is the roaring of the wind. Hurricane-force winds often fell trees.
 
-_Tornado (CR 10)_: All flames are extinguished. All ranged attacks are impossible (even with siege weapons), as are Perception checks. Instead of being [[rangoric-srd/rules/Special Abilities and Conditions#^blown-away|blown away]] (see Table: Wind Effects), characters in close proximity to a tornado who fail their Fortitude saves are sucked toward the tornado. Those who come in contact with the actual funnel cloud are picked up and whirled around for 1d10 rounds, taking 6d6 points of damage per round, before being violently expelled (falling damage may apply). While a tornado’s rotational speed can be as great as 300 mph, the funnel itself moves forward at an average of 30 mph (roughly 250 feet per round). A tornado uproots trees, destroys buildings, and causes other similar forms of major destruction.
+_Tornado (CR 10)_: All flames are extinguished. All ranged attacks are impossible (even with siege weapons), as are Perception checks. Instead of being [[rangoric-srd/rules/Special Abilities and Conditions#^blown-away|blown away]] (see Table: Wind Effects), characters in close proximity to a tornado whose Fortitude the wind hits are sucked toward the tornado. Those who come in contact with the actual funnel cloud are picked up and whirled around for 1d10 rounds, taking 6d6 points of damage per round, before being violently expelled (falling damage may apply). While a tornado’s rotational speed can be as great as 300 mph, the funnel itself moves forward at an average of 30 mph (roughly 250 feet per round). A tornado uproots trees, destroys buildings, and causes other similar forms of major destruction.
 
 **Table: WIND EFFECTS**
 

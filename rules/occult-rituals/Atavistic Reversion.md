@@ -27,7 +27,7 @@ _Transmutation; [[rangoric-srd/rules/occult-rituals/Occult Rituals|occult ritual
 - **Defense**: Fortitude
 - **Spell Resistance**: yes
 - **Backlash**: All casters gain 1 temporary [[rangoric-srd/rules/Special Abilities and Conditions#^negative-levels|negative level]] and become [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhausted]].
-- **Failure**: The primary caster gains the mind and body of a Tiny animal, as if she failed both saves against _[[rangoric-srd/spells/Baleful Polymorph|baleful polymorph]]_.
+- **Failure**: The primary caster gains the mind and body of a Tiny animal, as if both of _[[rangoric-srd/spells/Baleful Polymorph|baleful polymorph]]_'s attacks hit her.
 
 The primary caster lights a bonfire surrounded with incense, steps into the fire, places the crown on his brow and howls. As the ritual goes on, all humanoids in its area, the casters included, come to resemble their primal animal ancestors. At first these features have no game effect, and they disappear if the ritual fails.
 

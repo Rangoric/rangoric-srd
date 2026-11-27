@@ -338,7 +338,7 @@ _Damaged Objects_: A damaged object remains fully functional until the item’s 
 
 Damaged (but not destroyed) objects can be repaired with the [[rangoric-srd/skills/Skills All|Craft]] skill.
 
-**Defenses**: Nonmagical, unattended items have no defenses. They are considered to have failed their saves, so they always are affected by spells. An item attended by a character (being grasped, touched, or worn) uses the character’s defenses.
+**Defenses**: Nonmagical, unattended items have no defenses. Spells hit them automatically, so they are always affected. An item attended by a character (being grasped, touched, or worn) uses the character’s defenses.
 
 Magic items always have defenses. A magic item’s Fortitude, Reflex, and Will Defenses are equal to 12 + one-half its caster level. An attended magic item uses its owner’s defenses or its own, whichever is better.
 

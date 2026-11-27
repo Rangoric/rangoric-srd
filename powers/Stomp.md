@@ -33,6 +33,6 @@ Psychokinesis
 **Power Resistance:** No  
 **Power Points:** 1
 
-Your foot stomp precipitates a psychokinetic shock wave that travels along the ground, toppling creatures and loose objects. The shock wave affects only creatures standing on the ground within the power’s area. Creatures that fail their saves are thrown to the ground, become [[rangoric-srd/rules/Special Abilities and Conditions#^prone|prone]], and take 1d4 points of nonlethal damage.
+Your foot stomp precipitates a psychokinetic shock wave that travels along the ground, toppling creatures and loose objects. The shock wave affects only creatures standing on the ground within the power’s area. Creatures the power hits are thrown to the ground, become [[rangoric-srd/rules/Special Abilities and Conditions#^prone|prone]], and take 1d4 points of nonlethal damage.
 
 **Augment:** For every additional power point you spend, this power’s nonlethal damage increases by 1d4 points.

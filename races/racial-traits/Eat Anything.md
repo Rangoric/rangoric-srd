@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/racial-trait]
 
 **Race**: [[rangoric-srd/races/Goblin|Goblin]]. **Replaces**: skilled.
 
-Raised with little or no proper food, many goblins have learned to survive by eating whatever they happen across and can digest nearly anything without getting sick. Goblins with this trait gain a +4 on [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks to forage for food and a +4 racial bonus on saves versus effects that cause the [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] or [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] conditions.
+Raised with little or no proper food, many goblins have learned to survive by eating whatever they happen across and can digest nearly anything without getting sick. Goblins with this trait gain a +4 on [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks to forage for food and a +4 racial bonus on defenses versus effects that cause the [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] or [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] conditions.
