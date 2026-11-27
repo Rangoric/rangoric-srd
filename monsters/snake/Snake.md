@@ -33,10 +33,10 @@ Viper snakes rely on their venomous bite to kill prey and defend themselves.
 
 **Poison (Ex)**: A viper snake has a poisonous bite that deals initial and secondary damage of 1d6 Con. The attack bonus varies by the snake’s size, as shown on the table below. The attack bonuses are Constitution-based.
 
-| Size   | Attack vs Fortitude                                     |
-| ------ | ------------------------------------------------------- | -------- |
-| Tiny   | +0                                                      |
-| Small  | +0                                                      |
-| Medium | see [[rangoric-srd/monsters/snake/Snake, Medium Viper\  | Medium]] |
-| Large  | +1                                                      |
-| Huge   | +4                                                      |
+| Size   | Attack vs Fortitude                                             |
+| ------ | --------------------------------------------------------------- |
+| Tiny   | +0                                                              |
+| Small  | +0                                                              |
+| Medium | see [[rangoric-srd/monsters/snake/Snake, Medium Viper\|Medium]] |
+| Large  | +1                                                              |
+| Huge   | +4                                                              |

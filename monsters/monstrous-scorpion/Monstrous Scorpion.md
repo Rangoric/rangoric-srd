@@ -24,14 +24,14 @@ Monstrous scorpions are likely to attack any creature that approaches, and they 
 
 **Poison (Ex)**: A monstrous scorpion has a poisonous sting. The details vary by the scorpion’s size, as follows. The attack bonuses are Constitution- based. The indicated damage is initial and secondary damage.
 
-| Size       | Attack vs Fortitude                                                        | Damage   |
-| ---------- | -------------------------------------------------------------------------- | -------- | --- |
-| Tiny       | +2                                                                         | 1 Con    |
-| Small      | +2                                                                         | 1d2 Con  |
-| Medium     | +3                                                                         | 1d3 Con  |
-| Large      | see [[rangoric-srd/monsters/monstrous-scorpion/Monstrous Scorpion, Large\  | Large]]  | —   |
-| Huge       | +8                                                                         | 1d6 Con  |
-| Gargantuan | +13                                                                        | 1d8 Con  |
-| Colossal   | +23                                                                        | 1d10 Con |
+| Size       | Attack vs Fortitude                                                               | Damage   |
+| ---------- | --------------------------------------------------------------------------------- | -------- |
+| Tiny       | +2                                                                                | 1 Con    |
+| Small      | +2                                                                                | 1d2 Con  |
+| Medium     | +3                                                                                | 1d3 Con  |
+| Large      | see [[rangoric-srd/monsters/monstrous-scorpion/Monstrous Scorpion, Large\|Large]] | —        |
+| Huge       | +8                                                                                | 1d6 Con  |
+| Gargantuan | +13                                                                               | 1d8 Con  |
+| Colossal   | +23                                                                               | 1d10 Con |
 
 **Skills**: A monstrous scorpion has a +4 racial bonus on Athletics, Stealth, and Perception checks.
