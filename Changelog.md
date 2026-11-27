@@ -8,6 +8,7 @@ Every departure from the source rules, newest first. One line each, with links t
 
 | Date | Change | Rangoric note | Source | Why |
 | --- | --- | --- | --- | --- |
+| 2026-11-27 | No Based-On (NO 9): no note carries `based-on:` or `change:` ("Check notes" fails either); source links are kept in the workshop, not in SRD notes. Rangoric SRD's properties and how-it-gets-built text say so. | [[NO Batch 9 Changes]] | | [[No Based-On]] NO 9 |
 | 2026-11-27 | No Based-On (NO 8): the remaining folders' notes (rules, powers, flavor, classes, prestige classes, skills, psionics, epic, design notes, actions, combat, divine) and Rangoric SRD and the Tag Register drop the `based-on:` and `change:` frontmatter keys. | [[NO Batch 8 Changes]] | | [[No Based-On]] NO 8 |
 | 2026-11-27 | No Based-On (NO 7): race, unearthed arcana and trait notes drop the `based-on:` and `change:` frontmatter keys. | [[NO Batch 7 Changes]] | | [[No Based-On]] NO 7 |
 | 2026-11-27 | No Based-On (NO 6): equipment notes drop the `based-on:` and `change:` frontmatter keys. | [[NO Batch 6 Changes]] | | [[No Based-On]] NO 6 |
