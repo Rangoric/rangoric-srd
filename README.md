@@ -32,8 +32,13 @@ Note Rules note lists it.
 | `saves`        | never                       |                                                    |
 | `save`         | never                       |                                                    |
 | `save-dc`      | never                       |                                                    |
+| `book`         | never                       |                                                    |
+| `page`         | never                       |                                                    |
 
 Defenses replace saving throws ([Saving Throws](rules/Saving%20Throws.md)), so no note has the keys marked never, and no
 note says "save DC", "DC 15 Reflex save", "Reflex DC 15", "Reflex save for half" or "makes a saving throw": an
 effect attacks a defense instead. Saving Throws itself and `unearthed-arcana/` are excepted; base save progressions
 ("good Fortitude saves") and a creature's own "Reflex check (1d20 + Reflex save bonus)" are fine.
+
+Source books aren't named in an SRD note, in its text or its frontmatter; `based-on` links are the trace back to
+the sources. Legal, the Changelog and the sources table in Rangoric SRD are the exceptions.
