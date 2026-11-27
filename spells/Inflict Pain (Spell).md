@@ -5,7 +5,7 @@ aliases:
   - "Inflict Pain"
 school: "Enchantment"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
   - "Pain"
 level:
   - "Apl 2"
@@ -36,7 +36,7 @@ tags: [rangoric, rangoric/spell]
 
 # Inflict Pain
 
-_Enchantment \[MindAffecting, Pain\]_
+_Enchantment \[Mind-Affecting, Pain\]_
 
 - **Level**: Apl 2, Inq 2, Med 2, Mes 2, Occ 2, Psy 2, Sor/Wiz 3, Spi 2, Wit 3
 - **Components**: V, S

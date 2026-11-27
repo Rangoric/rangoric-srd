@@ -4,7 +4,7 @@ section: "Spells"
 school: "Conjuration"
 subschool: "Calling"
 descriptor:
-  - "see text"
+  - "See text"
 level:
   - "Clr 4"
   - "Med 3"

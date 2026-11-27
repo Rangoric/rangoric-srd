@@ -5,7 +5,7 @@ school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
   - "Emotion"
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Blr 4"
   - "Drd 4"
@@ -33,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 # Moonstruck
 
-_Enchantment (Compulsion) \[Emotion, Mind-affecting\]_
+_Enchantment (Compulsion) \[Emotion, Mind-Affecting\]_
 
 - **Level**: Blr 4, Drd 4, Hun 4, Psy 4, Sor/Wiz 4, Wit 4
 - **Components**: V, S, M (a pinch of powdered moonstone )

@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Brd 4"
   - "Skd 4"
@@ -27,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 # Heroic Finale
 
-_Enchantment (Compulsion) \[Mind-affecting\]_
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Brd 4, Skd 4
 - **Components**: V, S

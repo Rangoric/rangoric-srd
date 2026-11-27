@@ -6,7 +6,7 @@ aliases:
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Med 4"
   - "Mes 4"
@@ -32,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 # Mindwipe
 
-_Enchantment (Compulsion) \[MindAffecting\]_
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Med 4, Mes 4, Occ 4, Psy 4, Sor/Wiz 4, Spi 4
 - **Components**: V

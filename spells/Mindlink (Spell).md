@@ -5,7 +5,7 @@ aliases:
   - "Mindlink"
 school: "Divination"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Med 1"
   - "Mes 1"
@@ -31,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 # Mindlink
 
-_Divination \[MindAffecting\]_
+_Divination \[Mind-Affecting\]_
 
 - **Level**: Med 1, Mes 1, Occ 1, Psy 1, Sor/Wiz 1, Spi 1
 - **Components**: V

@@ -4,7 +4,7 @@ section: "Spells"
 school: "Conjuration"
 subschool: "Teleportation"
 descriptor:
-  - "Language-dependent"
+  - "Language-Dependent"
 level:
   - "Apl 3"
   - "Inq 4"
@@ -29,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 # Litany of Escape
 
-_Conjuration (Teleportation) \[Language-dependent\]_
+_Conjuration (Teleportation) \[Language-Dependent\]_
 
 - **Level**: Apl 3, Inq 4, Pal 3
 - **Components**: V, S, DF

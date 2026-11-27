@@ -3,7 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Divination"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Brd 2"
   - "Mes 1"
@@ -27,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 # Mental Block
 
-_Divination \[MindAffecting\]_
+_Divination \[Mind-Affecting\]_
 
 - **Level**: Brd 2, Mes 1, Psy 2, Skd 2
 - **Components**: V

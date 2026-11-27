@@ -5,7 +5,7 @@ school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
   - "Emotion"
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Brd 3"
   - "Mes 3"
@@ -31,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 # Overwhelming Grief
 
-_Enchantment (Compulsion) \[Emotion, Mind-affecting\]_
+_Enchantment (Compulsion) \[Emotion, Mind-Affecting\]_
 
 - **Level**: Brd 3, Mes 3, Psy 4, Skd 3, Sor/Wiz 4
 - **Components**: V, S

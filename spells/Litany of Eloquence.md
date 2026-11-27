@@ -4,8 +4,8 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Charm"
 descriptor:
-  - "Language-dependent"
-  - "Mind-affecting"
+  - "Language-Dependent"
+  - "Mind-Affecting"
 level:
   - "Apl 2"
   - "Inq 3"
@@ -30,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 # Litany of Eloquence
 
-_Enchantment (Charm) \[Language-dependent, Mind-affecting\]_
+_Enchantment (Charm) \[Language-Dependent, Mind-Affecting\]_
 
 - **Level**: Apl 2, Inq 3, Pal 2
 - **Components**: V, S, DF

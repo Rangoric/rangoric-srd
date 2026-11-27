@@ -5,7 +5,7 @@ aliases:
   - "Mind Probe"
 school: "Divination"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Med 3"
   - "Mes 4"
@@ -31,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 # Mind Probe
 
-_Divination \[MindAffecting\]_
+_Divination \[Mind-Affecting\]_
 
 - **Level**: Med 3, Mes 4, Occ 4, Psy 4, Sor/Wiz 5
 - **Components**: V, S

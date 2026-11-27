@@ -4,8 +4,8 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Charm"
 descriptor:
-  - "Language-dependent"
-  - "Mind-affecting"
+  - "Language-Dependent"
+  - "Mind-Affecting"
 level:
   - "Apl 4"
   - "Inq 6"
@@ -29,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 # Litany of Madness
 
-_Enchantment (Charm) \[Language-dependent, Mind-affecting\]_
+_Enchantment (Charm) \[Language-Dependent, Mind-Affecting\]_
 
 - **Level**: Apl 4, Inq 6
 - **Components**: V, S, DF

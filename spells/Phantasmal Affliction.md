@@ -4,7 +4,7 @@ section: "Spells"
 school: "Illusion"
 subschool: "Phantasm"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Mes 2"
   - "Psy 3"
@@ -30,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 # Phantasmal Affliction
 
-_Illusion (Phantasm) \[MindAffecting\]_
+_Illusion (Phantasm) \[Mind-Affecting\]_
 
 - **Level**: Mes 2, Psy 3, Sor/Wiz 3, Wit 3
 - **Components**: V, S, M (a drop of cod liver oil)

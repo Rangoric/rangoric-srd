@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Charm"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Drd 1"
   - "Hun 1"
@@ -26,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 # Nereid’s Grace
 
-_Enchantment (Charm) \[Mind-affecting\]_
+_Enchantment (Charm) \[Mind-Affecting\]_
 
 - **Level**: Drd 1, Hun 1, Wit 1
 - **Components**: V, S

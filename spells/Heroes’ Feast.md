@@ -2,8 +2,7 @@
 srd-type: "spell"
 section: "Spells"
 school: "Conjuration"
-descriptor:
-  - "Creation"
+subschool: "Creation"
 level:
   - "Brd 6"
   - "Clr 6"
@@ -29,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 # Heroes’ Feast
 
-_Conjuration \[Creation\]_
+_Conjuration (Creation)_
 
 - **Level**: Brd 6, Clr 6, Inq 6, Skd 6
 - **Components**: V, S, DF

@@ -4,7 +4,7 @@ section: "Spells"
 school: "Illusion"
 subschool: "Phantasm"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Brd 2"
   - "Med 1"
@@ -31,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 # Oneiric Horror
 
-_Illusion (Phantasm) \[MindAffecting\]_
+_Illusion (Phantasm) \[Mind-Affecting\]_
 
 - **Level**: Brd 2, Med 1, Mes 2, Psy 2, Skd 2, Sor/Wiz 3
 - **Components**: V, S

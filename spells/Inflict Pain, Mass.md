@@ -3,7 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Enchantment"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
   - "Pain"
 level:
   - "Apl 4"
@@ -34,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 # Inflict Pain, Mass
 
-_Enchantment \[MindAffecting, Pain\]_
+_Enchantment \[Mind-Affecting, Pain\]_
 
 - **Level**: Apl 4, Inq 5, Med 4, Mes 5, Occ 5, Psy 6, Sor/Wiz 7, Spi 5, Wit 7
 - **Components**: V, S

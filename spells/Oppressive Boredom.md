@@ -5,7 +5,7 @@ school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
   - "Emotion"
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Brd 2"
   - "Med 2"
@@ -32,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 # Oppressive Boredom
 
-_Enchantment (Compulsion) \[Emotion, Mind-affecting\]_
+_Enchantment (Compulsion) \[Emotion, Mind-Affecting\]_
 
 - **Level**: Brd 2, Med 2, Mes 2, Psy 2, Skd 2, Sor/Wiz 2
 - **Components**: V, S

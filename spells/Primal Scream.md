@@ -3,7 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Abjuration"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
   - "Sonic"
 level:
   - "Brd 4"
@@ -25,7 +25,7 @@ tags: [rangoric, rangoric/spell]
 
 # Primal Scream
 
-_Abjuration \[Mind-affecting, Sonic\]_
+_Abjuration \[Mind-Affecting, Sonic\]_
 
 - **Level**: Brd 4, Mes 4, Skd 4
 - **Components**: V

@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
   - "Sonic"
 level:
   - "Brd 6"
@@ -28,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 # Pied Piping
 
-_Enchantment (Compulsion) \[Mind-affecting, Sonic\]_
+_Enchantment (Compulsion) \[Mind-Affecting, Sonic\]_
 
 - **Level**: Brd 6, Skd 6
 - **Components**: V or F (musical instrument)

@@ -4,7 +4,7 @@ section: "Spells"
 school: "Illusion"
 subschool: "Phantasm"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Brd 5"
   - "Mes 5"
@@ -31,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 # Phantasmal Web
 
-_Illusion (Phantasm) \[Mind-affecting\]_
+_Illusion (Phantasm) \[Mind-Affecting\]_
 
 - **Level**: Brd 5, Mes 5, Psy 5, Skd 5, Sor/Wiz 5, Spi 5
 - **Components**: V, S

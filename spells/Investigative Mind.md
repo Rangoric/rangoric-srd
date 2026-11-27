@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Alc 2"
   - "Brd 2"
@@ -32,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 # Investigative Mind
 
-_Enchantment (Compulsion) \[Mind-affecting\]_
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Alc 2, Brd 2, Med 2, Mes 2, Occ 2, Psy 2, Skd 2, Sor/Wiz 2, Wit 2
 - **Components**: V, S

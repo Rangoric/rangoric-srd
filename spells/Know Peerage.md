@@ -3,7 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Divination"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Brd 1"
   - "Clr 2"
@@ -35,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 # Know Peerage
 
-_Divination \[MindAffecting\]_
+_Divination \[Mind-Affecting\]_
 
 - **Level**: Brd 1, Clr 2, Inq 2, Med 1, Mes 2, Occ 2, Pal 1, Psy 2, Skd 1, Sor/Wiz 2
 - **Components**: V, S, M (thread from a tabard or livery)

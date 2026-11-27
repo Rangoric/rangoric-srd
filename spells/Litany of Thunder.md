@@ -3,7 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Evocation"
 descriptor:
-  - "Language-dependent"
+  - "Language-Dependent"
   - "Sonic"
 level:
   - "Apl 4"
@@ -29,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 # Litany of Thunder
 
-_Evocation \[Language-dependent, Sonic\]_
+_Evocation \[Language-Dependent, Sonic\]_
 
 - **Level**: Apl 4, Inq 5, Pal 4
 - **Components**: V, S, DF

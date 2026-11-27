@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Charm"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
   - "Sonic"
 level:
   - "Brd 4"
@@ -36,7 +36,7 @@ tags: [rangoric, rangoric/spell]
 
 # Nixie’s Lure
 
-_Enchantment (Charm) \[Mind-affecting, Sonic\]_
+_Enchantment (Charm) \[Mind-Affecting, Sonic\]_
 
 - **Level**: Brd 4, Drd 3, Hun 3, Mes 3, Psy 3, Skd 4, Sor/Wiz 3, Sum 4, SumU 4, Wit 3
 - **Components**: V, S

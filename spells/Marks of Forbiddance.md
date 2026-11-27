@@ -3,7 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Abjuration"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Pal 3"
 components:
@@ -25,7 +25,7 @@ tags: [rangoric, rangoric/spell]
 
 # Marks of Forbiddance
 
-_Abjuration \[Mind-affecting\]_
+_Abjuration \[Mind-Affecting\]_
 
 - **Level**: Pal 3
 - **Components**: V, S

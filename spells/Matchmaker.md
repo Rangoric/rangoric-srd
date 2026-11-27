@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Charm"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Brd 2"
   - "Mes 2"
@@ -30,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 # Matchmaker
 
-_Enchantment (Charm) \[MindAffecting\]_
+_Enchantment (Charm) \[Mind-Affecting\]_
 
 - **Level**: Brd 2, Mes 2, Skd 2, Sor/Wiz 3, Wit 3
 - **Components**: S, M (a rose petal)

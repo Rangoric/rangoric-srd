@@ -4,7 +4,7 @@ section: "Spells"
 school: "Illusion"
 subschool: "Figment"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Brd 1"
   - "Mes 1"
@@ -30,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 # Jitterbugs
 
-_Illusion (Figment) \[Mind-affecting\]_
+_Illusion (Figment) \[Mind-Affecting\]_
 
 - **Level**: Brd 1, Mes 1, Psy 2, Skd 1, Sor/Wiz 2
 - **Components**: V, S

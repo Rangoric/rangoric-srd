@@ -4,7 +4,7 @@ section: "Spells"
 school: "Abjuration"
 descriptor:
   - "Emotion"
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Brd 2"
   - "Mes 2"
@@ -31,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 # Miserable Pity
 
-_Abjuration \[Emotion, Mind-affecting\]_
+_Abjuration \[Emotion, Mind-Affecting\]_
 
 - **Level**: Brd 2, Mes 2, Psy 2, Skd 2, Sor/Wiz 2, Wit 2
 - **Components**: V, S
