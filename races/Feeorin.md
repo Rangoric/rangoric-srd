@@ -1,10 +1,7 @@
 ---
 srd-type: "race"
 section: "Races"
-based-on:
-  - "[[individual books/Faeries/races/Feeorin|Feeorin (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/race]
 ---

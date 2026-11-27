@@ -7,10 +7,7 @@ earnings: "gp or Influence +15"
 benefit: "contestant gains a bonus on Intimidation and performance combat checks"
 time: "40 days"
 size: "40-100 squares"
-based-on:
-  - "[[path srd 3.5/downtime/Battle Ring|Battle Ring (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-room]
 ---

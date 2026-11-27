@@ -15,10 +15,7 @@ speed: "2"
 consumption: "8"
 note: "+4 OM due to feats and monster special abilities"
 part-of: "[[rangoric-srd/unearthed-arcana/Mass Combat/Mass Combat|Mass Combat]]"
-based-on:
-  - "[[path srd 3.5/kingdom/Tarrasque (Army)|Tarrasque (Army) (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/army]
 ---

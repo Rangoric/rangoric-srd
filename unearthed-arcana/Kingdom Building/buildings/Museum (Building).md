@@ -5,10 +5,7 @@ kingdom: "Economy +1, Loyalty +1; Fame +1"
 bp: "30"
 lot: "2"
 settlement: "Lore +2, Society +1; increase Lore bonus by 2 for questions relating to Society; apply Lore bonus on Appraise checks regarding art objects"
-based-on:
-  - "[[path srd 3.5/kingdom/Museum (Building)|Museum (Building) (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/kingdom-building]
 ---

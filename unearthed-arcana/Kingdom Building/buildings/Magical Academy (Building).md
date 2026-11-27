@@ -7,10 +7,7 @@ discount: "Caster's Tower, Library, Magic Shop"
 bp: "58"
 lot: "2"
 settlement: "Lore +2, Society +1; increase Lore bonus by 2 for questions relating to Arcana"
-based-on:
-  - "[[path srd 3.5/kingdom/Magical Academy (Building)|Magical Academy (Building) (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/kingdom-building]
 ---

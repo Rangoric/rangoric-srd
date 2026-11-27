@@ -7,10 +7,7 @@ bp: "6"
 lot: "1"
 settlement: "Law +1"
 special: "Defense +2"
-based-on:
-  - "[[path srd 3.5/kingdom/Barracks (Building)|Barracks (Building) (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/kingdom-building]
 ---

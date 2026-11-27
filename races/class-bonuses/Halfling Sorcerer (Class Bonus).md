@@ -3,10 +3,7 @@ srd-type: "class-bonus"
 section: "Races"
 race: "Halfling"
 class: ["Sorcerer"]
-based-on:
-  - "[[path srd 3.5/races/Halflings (Advanced Race Guide)#Favored Class Options|Halflings, Favored Class Options (ARG)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-bonus]
 ---

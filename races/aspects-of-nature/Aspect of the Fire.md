@@ -1,11 +1,7 @@
 ---
 srd-type: "aspect-of-nature"
 section: "Races"
-based-on:
-  - "[[individual books/Faeries/aspects/Aspect of the Fire|Aspect of the Fire (Faeries)]]"
-  - "[[individual books/Faeries/tables/Table p41 Aspect of the Fire|Table p41 Aspect of the Fire (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/aspect-of-nature]
 ---

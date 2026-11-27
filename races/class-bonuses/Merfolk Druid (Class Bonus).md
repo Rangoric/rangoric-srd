@@ -3,10 +3,7 @@ srd-type: "class-bonus"
 section: "Races"
 race: "Merfolk"
 class: ["Druid"]
-based-on:
-  - "[[path srd 3.5/races/Merfolk (Race)#Favored Class Options|Merfolk, Favored Class Options (ARG)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-bonus]
 ---

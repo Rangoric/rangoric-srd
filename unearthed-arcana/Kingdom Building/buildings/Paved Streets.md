@@ -5,10 +5,7 @@ kingdom: "Economy +2, Stability +1"
 bp: "24"
 settlement: "Productivity +2"
 resource-limit: "1 per district"
-based-on:
-  - "[[path srd 3.5/kingdom/Paved Streets|Paved Streets (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/kingdom-building]
 ---

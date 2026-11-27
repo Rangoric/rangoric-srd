@@ -5,10 +5,7 @@ resource-create: "7 Goods, 2 Influence, 6 Labor (320 gp)"
 earnings: "gp, Goods, Influence, or Labor +12"
 time: "20 days"
 size: "10-30 squares"
-based-on:
-  - "[[path srd 3.5/downtime/Dock|Dock (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-room]
 ---

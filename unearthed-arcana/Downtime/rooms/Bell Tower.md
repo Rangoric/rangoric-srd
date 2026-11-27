@@ -5,10 +5,7 @@ resource-create: "11 Goods, 3 Influence, 7 Labor (450 gp)"
 earnings: "capital +1 (of a type the building already generates)"
 time: "28 days"
 size: "9-25 squares"
-based-on:
-  - "[[path srd 3.5/downtime/Bell Tower|Bell Tower (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-room]
 ---

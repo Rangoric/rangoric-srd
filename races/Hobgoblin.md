@@ -2,14 +2,7 @@
 srd-type: "race"
 section: "Races"
 race-points: 9
-based-on:
-  - "[[path srd 3.5/races/Hobgoblins|Hobgoblins (ARG)]]"
-  - "[[fantasy srd 3.5/monsters/Hobgoblin|Hobgoblin (3.5)]]"
-  - "[[path srd 3.5/rules/advanced-race-guide/age-height-weight/Age|Age (ARG)]]"
-  - "[[path srd 3.5/rules/advanced-race-guide/age-height-weight/Appendix 2- Height and Weight|Height and Weight (ARG)]]"
-  - "[[fantasy srd 3.5/unearthed-arcana/Elemental Racial Variants|Elemental Racial Variants (3.5)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/race]
 ---

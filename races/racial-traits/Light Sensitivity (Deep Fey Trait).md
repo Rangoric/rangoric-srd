@@ -3,11 +3,7 @@ srd-type: "racial-trait"
 section: "Races"
 race: "[[rangoric-srd/races/Deep Fey|Deep Fey]], [[rangoric-srd/races/Scath|Scath]]"
 replaces: "nothing (a standard trait of these races)"
-based-on:
-  - "[[individual books/Faeries/races/Deep Fey|Deep Fey (Faeries)]]"
-  - "[[individual books/Faeries/races/Scath|Scath (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/racial-trait]
 ---

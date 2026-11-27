@@ -1,11 +1,7 @@
 ---
 srd-type: "rules"
 section: "Unearthed Arcana"
-based-on:
-  - "[[path srd 3.5/rules/pathfinder-unchained/Unchained Classes#Staggered Advancement|Unchained Classes (PF1 Unchained)]]"
-  - "[[path srd 3.5/rules/pathfinder-unchained/Unchained Classes#Using Staggered Advancement|Unchained Classes (PF1 Unchained)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/rules]
 ---

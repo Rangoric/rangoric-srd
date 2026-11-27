@@ -1,10 +1,7 @@
 ---
 srd-type: "rules"
 section: "Unearthed Arcana"
-based-on:
-  - "[[path srd 3.5/rules/ultimate-combat/variant-rules/Piecemeal Armor|Piecemeal Armor (PF1 UC)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/rules]
 ---

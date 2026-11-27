@@ -8,10 +8,7 @@ special: "Base value +1,000 gp"
 lot: "1"
 settlement: "Crime +1"
 resource-limit: "Adjacent to water district border"
-based-on:
-  - "[[path srd 3.5/kingdom/Pier (Building)|Pier (Building) (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/kingdom-building]
 ---

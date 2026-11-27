@@ -6,10 +6,7 @@ upgrade-from: "Vault"
 resource-create: "5 Goods, 6 Labor (220 gp)"
 time: "16 days"
 size: "6-10 squares"
-based-on:
-  - "[[path srd 3.5/downtime/Secret Room|Secret Room (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-room]
 ---

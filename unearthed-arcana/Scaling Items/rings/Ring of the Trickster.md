@@ -9,10 +9,7 @@ prerequisites: "Forge Ring, major creation, mirror image, prestidigitation"
 price: "1,080 gp"
 cost: "18,000 gp"
 scaling: "prize"
-based-on:
-  - "[[path srd 3.5/rules/pathfinder-unchained/Scaling Items|Scaling Items (PF1 Unchained)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/scaling-item]
 ---

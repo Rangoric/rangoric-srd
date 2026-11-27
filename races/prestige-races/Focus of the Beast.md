@@ -1,10 +1,7 @@
 ---
 srd-type: "prestige-race"
 section: "Races"
-based-on:
-  - "[[individual books/Faeries/prestige-races/Focus of the Beast|Focus of the Beast (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/prestige-race]
 ---

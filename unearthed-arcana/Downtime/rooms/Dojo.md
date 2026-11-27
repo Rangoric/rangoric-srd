@@ -6,10 +6,7 @@ earnings: "gp, Influence, or Labor +8"
 benefit: "counts as a training facility for training or retraining"
 time: "20 days"
 size: "15-30 squares"
-based-on:
-  - "[[path srd 3.5/downtime/Dojo|Dojo (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-room]
 ---

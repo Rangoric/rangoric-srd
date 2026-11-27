@@ -6,10 +6,7 @@ bp: "10"
 special: "Base value +500 gp"
 lot: "1"
 resource-limit: "Adjacent to 1 House, Mansion, or Noble Villa"
-based-on:
-  - "[[path srd 3.5/kingdom/Stable (Building)|Stable (Building) (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/kingdom-building]
 ---

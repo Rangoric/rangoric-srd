@@ -15,10 +15,7 @@ special: "armor training, bravery +1, weapon specialization"
 speed: "2"
 consumption: "1 (recruitment cost 20 BP)"
 part-of: "[[rangoric-srd/unearthed-arcana/Mass Combat/Mass Combat|Mass Combat]]"
-based-on:
-  - "[[path srd 3.5/kingdom/Elite Army Commandos|Elite Army Commandos (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/army]
 ---

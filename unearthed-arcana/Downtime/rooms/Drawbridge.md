@@ -4,10 +4,7 @@ section: "Unearthed Arcana"
 resource-create: "8 Goods, 2 Influence, 5 Labor (320 gp)"
 time: "6 days"
 size: "4-8 squares"
-based-on:
-  - "[[path srd 3.5/downtime/Drawbridge|Drawbridge (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-room]
 ---

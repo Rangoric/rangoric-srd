@@ -1,16 +1,7 @@
 ---
 srd-type: "rules"
 section: "Races"
-based-on:
-  - "[[path srd 3.5/rules/advanced-race-guide/race-builder/Creating a New Race|Creating a New Race (ARG)]]"
-  - "[[path srd 3.5/rules/advanced-race-guide/race-builder/Step 1- Concept|Step 1: Concept (ARG)]]"
-  - "[[path srd 3.5/rules/advanced-race-guide/race-builder/Racial Qualities|Racial Qualities (ARG)]]"
-  - "[[path srd 3.5/rules/advanced-race-guide/race-builder/Step 3- Racial Traits|Step 3: Racial Traits (ARG)]]"
-  - "[[path srd 3.5/rules/advanced-race-guide/race-builder/Racial Traits (Race Builder)|Racial Traits (Race Builder) (ARG)]]"
-  - "[[path srd 3.5/rules/advanced-race-guide/race-builder/Example Races|Example Races (ARG)]]"
-  - "[[individual books/Faeries/races/Faeries|Faeries (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/rules]
 ---

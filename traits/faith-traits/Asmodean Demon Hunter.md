@@ -4,11 +4,7 @@ section: "Traits"
 trait-type: "religion"
 aliases:
   - "Demon Hunter (Trait)"
-based-on:
-  - "[[path srd 3.5/traits/Asmodean Demon Hunter|Asmodean Demon Hunter (PF1)]]"
-  - "[[path srd 3.5/traits/Demon Hunter (Trait)|Demon Hunter (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/trait]
 ---

@@ -1,11 +1,7 @@
 ---
 srd-type: "race"
 section: "Races"
-based-on:
-  - "[[individual books/Faeries/races/Nymph|Nymph (Faeries)]]"
-  - "[[individual books/Faeries/rules/Other Fey Monsters as PCs|Other Fey Monsters as PCs (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/race]
 ---

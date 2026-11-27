@@ -2,13 +2,7 @@
 srd-type: "trait"
 section: "Traits"
 trait-type: "campaign"
-based-on:
-  - "[[path srd 3.5/traits/Outlander|Outlander (PF1)]]"
-  - "[[path srd 3.5 foundry/traits/Outlander - Exile (Any Campaign)|Outlander - Exile (PF1, Foundry)]]"
-  - "[[path srd 3.5 foundry/traits/Outlander - Lore Seeker (Any Campaign)|Outlander - Lore Seeker (PF1, Foundry)]]"
-  - "[[path srd 3.5 foundry/traits/Outlander - Missionary (Any Campaign)|Outlander - Missionary (PF1, Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/trait]
 ---

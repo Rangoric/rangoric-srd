@@ -20,10 +20,7 @@ population: "2,500 (2,000 dwarves; 400 humans; 100 other)"
 spellcasting: "6th"
 major-items: "1d4"
 qualities: "pious, prosperous, strategic location"
-based-on:
-  - "[[path srd 3.5/kingdom/Dwarven Trade Town|Dwarven Trade Town (PF1 GameMastery Guide)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/settlement]
 ---

@@ -10,11 +10,7 @@ price: "5,000 gp"
 cost: "8,100 gp"
 weight: "1 lb."
 scaling: "prize"
-based-on:
-  - "[[path srd 3.5/rules/pathfinder-unchained/Scaling Items|Scaling Items (PF1 Unchained)]]"
-  - "[[path srd 3.5 foundry/items/scaling/Cord of Unearthly Grace|Cord of Unearthly Grace (PF1 F)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/scaling-item]
 ---

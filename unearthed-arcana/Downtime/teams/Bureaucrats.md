@@ -6,10 +6,7 @@ resource-create: "2 Goods, 4 Influence, 2 Labor (200 gp)"
 earnings: "gp or Influence +4"
 time: "2 days"
 size: "5 people"
-based-on:
-  - "[[path srd 3.5/downtime/Bureaucrats|Bureaucrats (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-team]
 ---

@@ -3,10 +3,7 @@ srd-type: "downtime-manager"
 section: "Unearthed Arcana"
 wage: "2 gp/day"
 skills: "Persuasion, Imitation, Performance (any two)"
-based-on:
-  - "[[path srd 3.5/downtime/Stage manager|Stage manager (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-manager]
 ---

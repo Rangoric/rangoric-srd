@@ -1,10 +1,7 @@
 ---
 srd-type: "rules"
 section: "Unearthed Arcana"
-based-on:
-  - "[[path srd 3.5/rules/ultimate-campaign/campaign-systems/Magic Item Creation (Campaign Systems)|Magic Item Creation (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/rules]
 ---

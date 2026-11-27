@@ -3,10 +3,7 @@ srd-type: "class-bonus"
 section: "Races"
 race: "Human"
 class: ["Swashbuckler"]
-based-on:
-  - "[[path srd 3.5/rules/advanced-class-guide/hybrid-classes/Racial Favored Class Options#Humans|Racial Favored Class Options, Humans (ACG)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-bonus]
 ---

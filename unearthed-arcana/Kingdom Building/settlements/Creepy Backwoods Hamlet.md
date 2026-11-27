@@ -20,10 +20,7 @@ population: "23 (23 humans)"
 spellcasting: "2nd"
 major-items: "—"
 qualities: "insular"
-based-on:
-  - "[[path srd 3.5/kingdom/Creepy Backwoods Hamlet|Creepy Backwoods Hamlet (PF1 GameMastery Guide)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/settlement]
 ---

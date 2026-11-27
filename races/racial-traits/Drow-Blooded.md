@@ -3,10 +3,7 @@ srd-type: "racial-trait"
 section: "Races"
 race: "[[rangoric-srd/races/Half-Elf|Half-Elf]]"
 replaces: "low-light vision"
-based-on:
-  - "[[path srd 3.5/races/Half-Elves (Advanced Race Guide)#Alternate Racial Traits|Half-Elves (ARG)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/racial-trait]
 ---

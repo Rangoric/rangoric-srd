@@ -2,10 +2,7 @@
 srd-type: "trait"
 section: "Unearthed Arcana"
 trait-type: "campaign"
-based-on:
-  - "[[path srd 3.5/traits/Favored Son-Daughter|Favored Son/Daughter (PF1 Advanced Player's Guide)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/trait]
 ---

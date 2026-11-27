@@ -3,11 +3,7 @@ srd-type: "class-bonus"
 section: "Races"
 race: "Dwarf"
 class: ["Cleric"]
-based-on:
-  - "[[path srd 3.5/races/Dwarves (Advanced Race Guide)#Favored Class Options|Dwarves, Favored Class Options (ARG)]]"
-  - "[[path srd 3.5/rules/advanced-player-s-guide/races/Dwarves (Races)#Favored Class Options|Dwarves, Favored Class Options (APG)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-bonus]
 ---

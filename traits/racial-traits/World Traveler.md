@@ -3,10 +3,7 @@ srd-type: "trait"
 section: "Traits"
 trait-type: "race"
 race: "[[rangoric-srd/races/Human|Human]]"
-based-on:
-  - "[[path srd 3.5/traits/World Traveler|World Traveler (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/trait]
 ---

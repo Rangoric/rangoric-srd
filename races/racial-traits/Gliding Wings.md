@@ -4,11 +4,7 @@ section: "Races"
 race: "[[rangoric-srd/races/Kobold|Kobold]], [[rangoric-srd/races/Tengu|Tengu]]"
 replaces: "crafty for the kobold; gifted linguist for the tengu"
 race-points: 3
-based-on:
-  - "[[path srd 3.5/races/Kobolds#Alternate Racial Traits|Kobolds (ARG)]]"
-  - "[[path srd 3.5/races/Tengus#Alternate Racial Traits|Tengus (ARG)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/racial-trait, racial-trait/movement, racial-trait/standard]
 ---

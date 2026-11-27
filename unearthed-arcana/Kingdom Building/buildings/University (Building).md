@@ -8,10 +8,7 @@ bp: "78"
 lot: "4"
 discount: "Academy, Bardic College, Library, Magical Academy, Military Academy, Museum"
 settlement: "Lore +4, Society +3; increase Lore bonus by 4 for questions relating to one Knowledge or Profession skill"
-based-on:
-  - "[[path srd 3.5/kingdom/University (Building)|University (Building) (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/kingdom-building]
 ---

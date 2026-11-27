@@ -6,10 +6,7 @@ resource-create: "1 Influence, 2 Labor (70 gp)"
 earnings: "gp or Labor +2"
 time: "0 days"
 size: "5 people"
-based-on:
-  - "[[path srd 3.5/downtime/Laborers|Laborers (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-team]
 ---

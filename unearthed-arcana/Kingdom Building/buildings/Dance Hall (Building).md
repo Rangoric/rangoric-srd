@@ -6,10 +6,7 @@ bp: "4"
 lot: "1"
 settlement: "Corruption +1, Crime +1"
 resource-limit: "Adjacent to 1 House"
-based-on:
-  - "[[path srd 3.5/kingdom/Dance Hall (Building)|Dance Hall (Building) (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/kingdom-building]
 ---

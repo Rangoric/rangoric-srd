@@ -19,10 +19,7 @@ population: "16 (13 humans, 2 halflings, 1 dwarf)"
 spellcasting: "1st"
 major-items: "—"
 qualities: "strategic location"
-based-on:
-  - "[[path srd 3.5/kingdom/SLEEPY CROSSROADS THORP|Sleepy Crossroads Thorp (PF1 GameMastery Guide)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/settlement]
 ---

@@ -3,10 +3,7 @@ srd-type: "kingdom-building"
 section: "Unearthed Arcana"
 bp: "2"
 special: "Shares City Wall"
-based-on:
-  - "[[path srd 3.5/kingdom/Watergate|Watergate (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/kingdom-building]
 ---

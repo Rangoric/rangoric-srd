@@ -1,12 +1,7 @@
 ---
 srd-type: "rules"
 section: "Races"
-based-on:
-  - "[[individual books/Faeries/rules/Prestige Races|Prestige Races (Faeries)]]"
-  - "[[individual books/Faeries/rules/Foci of the Faeries|Foci of the Faeries (Faeries)]]"
-  - "[[individual books/Faeries/tables/Table p33 Focus of the Beast|Table p33 (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/rules]
 ---

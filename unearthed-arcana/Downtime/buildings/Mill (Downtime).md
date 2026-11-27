@@ -3,10 +3,7 @@ srd-type: "downtime-building"
 section: "Unearthed Arcana"
 resource-create: "17 Goods, 16 Labor (660 gp)"
 rooms: "1 Mill Room, 1 Office, 2 Storages"
-based-on:
-  - "[[path srd 3.5/downtime/Mill (Downtime)|Mill (Downtime) (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-building]
 ---

@@ -1,11 +1,7 @@
 ---
 srd-type: "rules"
 section: "Unearthed Arcana"
-based-on:
-  - "[[path srd 3.5/rules/pathfinder-unchained/Innate Item Bonuses|Innate Item Bonuses (PF1 Unchained)]]"
-  - "[[path srd 3.5/rules/pathfinder-unchained/Innate Item Bonuses#Arms and Armor|Innate Item Bonuses (PF1 Unchained)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/rules]
 ---

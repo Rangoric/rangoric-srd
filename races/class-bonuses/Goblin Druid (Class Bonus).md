@@ -3,10 +3,7 @@ srd-type: "class-bonus"
 section: "Races"
 race: "Goblin"
 class: ["Druid"]
-based-on:
-  - "[[path srd 3.5/races/Goblins#Favored Class Options|Goblins, Favored Class Options (ARG)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-bonus]
 ---

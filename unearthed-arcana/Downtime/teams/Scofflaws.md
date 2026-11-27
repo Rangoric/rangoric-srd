@@ -7,10 +7,7 @@ resource-create: "3 Influence, 2 Labor (130 gp)"
 earnings: "gp, Goods, or Influence +2"
 time: "1 day"
 size: "5 people"
-based-on:
-  - "[[path srd 3.5/downtime/Scofflaws|Scofflaws (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-team]
 ---

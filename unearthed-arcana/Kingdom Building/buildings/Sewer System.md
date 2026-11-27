@@ -6,10 +6,7 @@ discount: "Cistern, Dump"
 bp: "24"
 settlement: "Crime +1, Productivity +1"
 resource-limit: "1 per district"
-based-on:
-  - "[[path srd 3.5/kingdom/Sewer System|Sewer System (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/kingdom-building]
 ---

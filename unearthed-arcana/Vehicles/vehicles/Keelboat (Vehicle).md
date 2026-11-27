@@ -22,10 +22,7 @@ driving-space: "the two middle rear squares of the keelboat"
 crew: "8"
 decks: "1"
 part-of: "[[rangoric-srd/unearthed-arcana/Vehicles/Water Vehicles|Water Vehicles]]"
-based-on:
-  - "[[path srd 3.5/vehicles/Keelboat (Vehicle)|Keelboat (Vehicle) (PF1 Ultimate Combat)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/vehicle]
 ---

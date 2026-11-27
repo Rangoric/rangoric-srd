@@ -6,10 +6,7 @@ upgrade-to: "House"
 bp: "1"
 lot: "1"
 special: "Counts as House for buildings that must be adjacent to a House"
-based-on:
-  - "[[path srd 3.5/kingdom/Tenement (Building)|Tenement (Building) (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/kingdom-building]
 ---

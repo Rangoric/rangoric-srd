@@ -23,10 +23,7 @@ crew: "20"
 decks: "2"
 weapons: "Up to 20 Large direct-fire siege engines in banks of 10 positioned on the port and starboard sides of the ship, or up to 6 Huge direct-fire siege engines in banks of 3 on the port and starboard sides of the ship. The siege engines may only fire out the sides of the ship they are positioned on. They cannot be swiveled to fire toward the forward or aft sides of the ship."
 part-of: "[[rangoric-srd/unearthed-arcana/Vehicles/Water Vehicles|Water Vehicles]]"
-based-on:
-  - "[[path srd 3.5/vehicles/Sailing Ship (Vehicle)|Sailing Ship (Vehicle) (PF1 Ultimate Combat)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/vehicle]
 ---

@@ -5,10 +5,7 @@ resource-create: "9 Goods, 3 Influence, 6 Labor (390 gp)"
 benefit: "provides for 1 Bunks or Guard Post, hastens donning armor"
 time: "16 days"
 size: "5-15 squares"
-based-on:
-  - "[[path srd 3.5/downtime/Armory|Armory (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-room]
 ---

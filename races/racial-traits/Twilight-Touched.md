@@ -3,10 +3,7 @@ srd-type: "racial-trait"
 section: "Races"
 race: "[[rangoric-srd/races/Duergar|Duergar]]"
 replaces: "the invisibility spell-like ability"
-based-on:
-  - "[[path srd 3.5/rules/monster-codex/duergar/New Rules (Duergar)#Alternate Racial Traits|Duergar, Alternate Racial Traits (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/racial-trait]
 ---

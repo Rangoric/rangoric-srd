@@ -14,10 +14,7 @@ speed: "1"
 consumption: "1"
 note: "+1 OM due to spell-like abilities"
 part-of: "[[rangoric-srd/unearthed-arcana/Mass Combat/Mass Combat|Mass Combat]]"
-based-on:
-  - "[[path srd 3.5/kingdom/Duergar Army|Duergar Army (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/army]
 ---

@@ -6,10 +6,7 @@ upgrade-to: "Noble Villa"
 bp: "10"
 lot: "1"
 settlement: "Law +1, Society +1"
-based-on:
-  - "[[path srd 3.5/kingdom/Mansion (Building)|Mansion (Building) (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/kingdom-building]
 ---

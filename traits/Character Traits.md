@@ -1,11 +1,7 @@
 ---
 srd-type: "rules"
 section: "Traits"
-based-on:
-  - "[[path srd 3.5/rules/advanced-player-s-guide/new-rules/Traits|Traits (PF1, APG)]]"
-  - "[[path srd 3.5/rules/ultimate-campaign/character-background/Traits (Character Background)|Traits (Character Background) (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/rules]
 ---

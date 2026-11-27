@@ -8,10 +8,7 @@ special: "Increase the Economy and BP earned per turn by 1 for 1 Mine connected 
 lot: "2"
 settlement: "Productivity +1"
 resource-limit: "Adjacent to water district border"
-based-on:
-  - "[[path srd 3.5/kingdom/Foundry|Foundry (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/kingdom-building]
 ---

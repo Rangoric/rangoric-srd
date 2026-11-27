@@ -4,10 +4,7 @@ section: "Unearthed Arcana"
 resource-create: "2 Goods, 1 Influence, 2 Labor (110 gp)"
 time: "4 days"
 size: "4-6 squares"
-based-on:
-  - "[[path srd 3.5/downtime/Sewer Access|Sewer Access (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-room]
 ---

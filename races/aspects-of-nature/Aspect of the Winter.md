@@ -1,11 +1,7 @@
 ---
 srd-type: "aspect-of-nature"
 section: "Races"
-based-on:
-  - "[[individual books/Faeries/aspects/Aspect of the Winter|Aspect of the Winter (Faeries)]]"
-  - "[[individual books/Faeries/tables/Table p42 Aspect of the Winter|Table p42 Aspect of the Winter (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/aspect-of-nature]
 ---

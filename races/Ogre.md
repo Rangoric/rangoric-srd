@@ -1,13 +1,7 @@
 ---
 srd-type: "race"
 section: "Races"
-based-on:
-  - "[[path srd 3.5/rules/advanced-race-guide/race-builder/Example Races|Example Races (ARG)]]"
-  - "[[path srd 3.5 foundry/races/Ogre (Race)|Ogre (Race) (Foundry, ARG)]]"
-  - "[[path srd 3.5/rules/advanced-race-guide/race-builder/Racial Qualities|Racial Qualities (ARG)]]"
-  - "[[fantasy srd 3.5/monsters/ogre/Ogre|Ogre (3.5)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/race]
 ---

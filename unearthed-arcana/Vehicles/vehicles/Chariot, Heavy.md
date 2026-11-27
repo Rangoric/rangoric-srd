@@ -22,10 +22,7 @@ driving-space: "the two most forward squares of the chariot"
 decks: "1"
 weapons: "light ballista"
 part-of: "[[rangoric-srd/unearthed-arcana/Vehicles/Land Vehicles|Land Vehicles]]"
-based-on:
-  - "[[path srd 3.5/vehicles/Chariot, Heavy|Chariot, Heavy (PF1 Ultimate Combat)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/vehicle]
 ---

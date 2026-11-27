@@ -6,10 +6,7 @@ upgrade-to: "Academy"
 bp: "6"
 lot: "1"
 settlement: "Lore +1"
-based-on:
-  - "[[path srd 3.5/kingdom/Library (Building)|Library (Building) (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/kingdom-building]
 ---

@@ -6,10 +6,7 @@ resource-create: "8 Goods, 7 Labor (300 gp)"
 earnings: "gp, Goods, or Influence +12"
 time: "16 days"
 size: "10-20 squares"
-based-on:
-  - "[[path srd 3.5/downtime/Greenhouse|Greenhouse (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-room]
 ---

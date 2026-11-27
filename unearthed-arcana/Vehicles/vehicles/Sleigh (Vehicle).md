@@ -21,10 +21,7 @@ driving-device: "reins (muscle propulsion) or rigging (air current propulsion)"
 driving-space: "the two most forward squares of the sleigh"
 decks: "1"
 part-of: "[[rangoric-srd/unearthed-arcana/Vehicles/Land Vehicles|Land Vehicles]]"
-based-on:
-  - "[[path srd 3.5/vehicles/Sleigh (Vehicle)|Sleigh (Vehicle) (PF1 Ultimate Combat)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/vehicle]
 ---

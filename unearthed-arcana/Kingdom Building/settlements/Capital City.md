@@ -20,10 +20,7 @@ population: "18,000 (14,000 humans; 1,000 dwarves; 1,000 halflings; 500 elves; 1
 spellcasting: "9th"
 major-items: "2d4"
 qualities: "academic, holy site, prosperous, strategic location, tourist attraction"
-based-on:
-  - "[[path srd 3.5/kingdom/Capital City|Capital City (PF1 GameMastery Guide)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/settlement]
 ---

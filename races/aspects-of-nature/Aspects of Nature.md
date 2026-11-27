@@ -1,11 +1,7 @@
 ---
 srd-type: "rules"
 section: "Races"
-based-on:
-  - "[[individual books/Faeries/rules/Aspects of Nature|Aspects of Nature (Faeries)]]"
-  - "[[individual books/Faeries/feats/Nature’s Aspect|Nature’s Aspect (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/rules]
 ---

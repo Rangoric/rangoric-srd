@@ -4,10 +4,7 @@ section: "Unearthed Arcana"
 word-type: "effect"
 word-group: "Alignment"
 school: "evocation"
-based-on:
-  - "[[path srd 3.5/rules/ultimate-magic/words-of-power/Effect Words#Alignment Assault|Alignment Assault (PF1 Ultimate Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/word-of-power]
 ---

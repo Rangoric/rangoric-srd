@@ -5,10 +5,7 @@ resource-create: "9 Goods, 6 Labor (300 gp)"
 earnings: "+5 on the room's check to generate capital"
 time: "20 days"
 size: "as original room"
-based-on:
-  - "[[path srd 3.5/downtime/Furnishings|Furnishings (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-room]
 ---

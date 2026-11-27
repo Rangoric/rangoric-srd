@@ -5,10 +5,7 @@ kingdom: "Economy +1, Loyalty (special); Fame +1"
 bp: "16"
 lot: "4"
 special: "Increase Loyalty by 1/4 the CR of the highest-CR creature in the Menagerie"
-based-on:
-  - "[[path srd 3.5/kingdom/Menagerie (Building)|Menagerie (Building) (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/kingdom-building]
 ---

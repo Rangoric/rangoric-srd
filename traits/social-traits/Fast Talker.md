@@ -4,11 +4,7 @@ section: "Traits"
 trait-type: "social"
 aliases:
   - "Fast-Talker"
-based-on:
-  - "[[path srd 3.5/traits/Fast Talker|Fast Talker (PF1)]]"
-  - "[[path srd 3.5/traits/Fast-Talker|Fast-Talker (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/trait]
 ---

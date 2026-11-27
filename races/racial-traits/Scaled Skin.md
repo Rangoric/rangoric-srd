@@ -3,10 +3,7 @@ srd-type: "racial-trait"
 section: "Races"
 race: "[[rangoric-srd/races/Tiefling|Tiefling]]"
 replaces: "fiendish resistance"
-based-on:
-  - "[[path srd 3.5/races/Tieflings#Alternate Racial Traits|Tieflings (ARG)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/racial-trait]
 ---

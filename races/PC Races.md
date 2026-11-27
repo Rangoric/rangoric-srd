@@ -1,16 +1,7 @@
 ---
 srd-type: "overview"
 section: "Races"
-based-on:
-  - "[[fantasy srd 3.5/rules/PC Races|PC Races (3.5)]]"
-  - "[[path srd 3.5/rules/advanced-player-s-guide/races/Racial Traits|Racial Traits (APG)]]"
-  - "[[path srd 3.5/races/Dwarves|Dwarves (PF1)]]"
-  - "[[path srd 3.5/races/Gnomes|Gnomes (PF1)]]"
-  - "[[path srd 3.5/rules/advanced-race-guide/race-builder/Racial Qualities|Racial Qualities (ARG)]]"
-  - "[[individual books/Faeries/rules/Character Races|Character Races (Faeries)]]"
-  - "[[path srd 3.5/rules/advanced-player-s-guide/races/Racial Attitudes|Racial Attitudes (PF1 APG)]]"
 status: draft
-change: modified
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/overview]
 ---

@@ -6,10 +6,7 @@ resource-create: "5 Goods, 2 Influence, 2 Labor (200 gp)"
 earnings: "gp or Influence +5"
 time: "4 days"
 size: "1 person"
-based-on:
-  - "[[path srd 3.5/downtime/Sage (Downtime)|Sage (Downtime) (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-team]
 ---

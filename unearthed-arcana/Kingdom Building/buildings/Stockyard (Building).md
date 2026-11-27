@@ -7,10 +7,7 @@ bp: "20"
 lot: "4"
 settlement: "Productivity +1"
 special: "Farms in this hex or adjacent hexes reduce Consumption by 3 instead of 2"
-based-on:
-  - "[[path srd 3.5/kingdom/Stockyard (Building)|Stockyard (Building) (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/kingdom-building]
 ---

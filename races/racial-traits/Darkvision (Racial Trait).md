@@ -3,13 +3,7 @@ srd-type: "racial-trait"
 section: "Races"
 race: "[[rangoric-srd/races/Elf|Elf]], [[rangoric-srd/races/Gnome|Gnome]], [[rangoric-srd/races/Half-Orc|Half-Orc]], [[rangoric-srd/races/Merfolk|Merfolk]]"
 replaces: "low-light vision (half-orc: orc ferocity)"
-based-on:
-  - "[[path srd 3.5/races/Elves (Advanced Race Guide)#Alternate Racial Traits|Elves (ARG)]]"
-  - "[[path srd 3.5/races/Gnomes (Advanced Race Guide)#Alternate Racial Traits|Gnomes (ARG)]]"
-  - "[[path srd 3.5/races/Half-Orcs (Advanced Race Guide)#Alternate Racial Traits|Half-Orcs (ARG)]]"
-  - "[[path srd 3.5/races/Merfolk (Race)#Alternate Racial Traits|Merfolk (ARG)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/racial-trait]
 ---

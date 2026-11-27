@@ -2,10 +2,7 @@
 srd-type: "rules"
 section: "Unearthed Arcana"
 aliases: ["Step 3—Moral Conflicts, Relationships, and Drawbacks"]
-based-on:
-  - "[[path srd 3.5/rules/ultimate-campaign/character-background/Background Generator#Step 3-Moral Conflicts, Relationships, and Drawbacks|Background Generator (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/rules]
 ---

@@ -6,10 +6,7 @@ earnings: "gp, Influence, or Magic +5"
 benefit: "bonus on Nature and Theology checks"
 time: "20 days"
 size: "10-20 squares"
-based-on:
-  - "[[path srd 3.5/downtime/Observation Dome|Observation Dome (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-room]
 ---

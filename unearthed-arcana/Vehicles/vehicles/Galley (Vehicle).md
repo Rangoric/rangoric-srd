@@ -23,10 +23,7 @@ crew: "20 or 160 (if the boat is rowed)"
 decks: "3"
 weapons: "Up to 40 Large direct-fire siege engines in banks of 20 positioned on the port and starboard sides of the galley, or up to 12 Huge direct-fire siege engines in banks of six on the port and starboard sides of the ship. The siege engines may only fire out the sides of the ship that they are positioned on. They cannot be swiveled to fire toward the forward or aft sides of the ship. These siege engines cannot be used while the galley is being rowed. For 8,000 gp more, the galley can be fitted with a battering ram and castles with firing platforms fore, aft, and amidships. Each of these firing platforms can hold a single Large direct-fire siege engine that can fire either out the sides of the ship or in the direction of its location. An amidships platform can fire out either the port or starboard sides of the galley."
 part-of: "[[rangoric-srd/unearthed-arcana/Vehicles/Water Vehicles|Water Vehicles]]"
-based-on:
-  - "[[path srd 3.5/vehicles/Galley (Vehicle)|Galley (Vehicle) (PF1 Ultimate Combat)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/vehicle]
 ---

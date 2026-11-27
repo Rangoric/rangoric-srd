@@ -7,10 +7,7 @@ resource-create: "2 Goods, 1 Influence, 1 Labor (90 gp)"
 earnings: "gp, Goods, or Labor +2"
 time: "0 days"
 size: "1 person"
-based-on:
-  - "[[path srd 3.5/downtime/Driver (Downtime)|Driver (Downtime) (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-team]
 ---

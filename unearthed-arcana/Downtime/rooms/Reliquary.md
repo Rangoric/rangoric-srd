@@ -7,10 +7,7 @@ earnings: "gp or Influence +5"
 benefit: "bonus on Theology checks relating to its contents"
 time: "12 days"
 size: "1-4 squares"
-based-on:
-  - "[[path srd 3.5/downtime/Reliquary|Reliquary (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-room]
 ---
