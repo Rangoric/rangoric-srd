@@ -8,6 +8,7 @@ Every departure from the source rules, newest first. One line each, with links t
 
 | Date | Change | Rangoric note | Source | Why |
 | --- | --- | --- | --- | --- |
+| 2026-11-26 | No Book Property (NB 7): unearthed-arcana drop the `book:` frontmatter key, with their Note Rules rows and Index base columns; source books aren't named in SRD notes. | [[NB Batch 7 Changes]] | | [[No Book Property]] NB 7 |
 | 2026-11-26 | No Book Property (NB 6): equipment drop the `book:` frontmatter key, with their Note Rules rows and Index base columns; source books aren't named in SRD notes. | [[NB Batch 6 Changes]] | | [[No Book Property]] NB 6 |
 | 2026-11-26 | No Book Property (NB 5): spells drop the `book:` frontmatter key, with their Note Rules rows and Index base columns; source books aren't named in SRD notes. | [[NB Batch 5 Changes]] | | [[No Book Property]] NB 5 |
 | 2026-11-26 | No Book Property (NB 4): magic-items drop the `book:` frontmatter key, with their Note Rules rows and Index base columns; source books aren't named in SRD notes. | [[NB Batch 4 Changes]] | | [[No Book Property]] NB 4 |
