@@ -15,7 +15,7 @@ full-attack: "2 claws +20 melee (2d6+8/19–20 plus grab)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Pounce, rake (2 claws +20, 2d6+8), roar"
 special-qualities: "Darkvision 60 ft., low-light vision"
-saves: "Fort +12, Ref +8, Will +7"
+defenses: "Fort 22, Ref 18, Will 17"
 abilities: "Str 27, Dex 10, Con 18, Int 16, Wis 17, Cha 17"
 skills: "Acrobatics +5, Fieldcraft +16, Intimidation +13, Knowledge +16, Perception +25, Sense Motive +11"
 skill-ranks: "Acrobatics 4, Fieldcraft 10, Intimidation 7, Knowledge 10, Perception 17, Sense Motive 7"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], [[rangoric-srd/monsters/abilities/Rake|rake]] (2 claws +20, 2d6+8), roar
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]
-- **Saves**: Fort +12, Ref +8, Will +7
+- **Defenses**: Fort 22, Ref 18, Will 17
 - **Abilities**: Str 27, Dex 10, Con 18, Int 16, Wis 17, Cha 17
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +16, [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Knowledge|Knowledge]] +16, [[rangoric-srd/skills/Perception|Perception]] +25, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw), [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -79,12 +79,12 @@ In battle, an androsphinx rips apart enemies with its razor-sharp claws. It reli
 
 **Spells**: An androsphinx casts divine spells as a 6th-level [[rangoric-srd/classes/Cleric|cleric]]. They do not gain access to domains or other cleric abilities.
 
-**Spells prepared** (CL 6th; concentration +9): 3rd—_[[rangoric-srd/spells/Bestow Curse|bestow curse]]_ (DC 16), _[[rangoric-srd/spells/Searing Light|searing light]]_, _[[rangoric-srd/spells/Speak with Dead|speak with dead]]_; 2nd—_[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_, _[[rangoric-srd/spells/Calm Emotions|calm emotions]]_ (DC 15), _[[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]]_, _[[rangoric-srd/spells/Resist Energy|resist energy]]_; 1st—_[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]_, _[[rangoric-srd/spells/Divine Favor|divine favor]]_, _[[rangoric-srd/spells/Remove Fear|remove fear]]_, _[[rangoric-srd/spells/Shield of Faith|shield of faith]]_; 0—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Purify Food and Drink|purify food and drink]]_, _[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]_.
+**Spells prepared** (CL 6th; concentration +9): 3rd—_[[rangoric-srd/spells/Bestow Curse|bestow curse]]_ (+6 vs Will), _[[rangoric-srd/spells/Searing Light|searing light]]_, _[[rangoric-srd/spells/Speak with Dead|speak with dead]]_; 2nd—_[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_, _[[rangoric-srd/spells/Calm Emotions|calm emotions]]_ (+5 vs Will), _[[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]]_, _[[rangoric-srd/spells/Resist Energy|resist energy]]_; 1st—_[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]_, _[[rangoric-srd/spells/Divine Favor|divine favor]]_, _[[rangoric-srd/spells/Remove Fear|remove fear]]_, _[[rangoric-srd/spells/Shield of Faith|shield of faith]]_; 0—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Purify Food and Drink|purify food and drink]]_, _[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]_.
 
-**Roar (Su)**: An androsphinx can roar up to three times per day as a standard action. Each progressive roar has a different effect, depending upon whether it is the first, second, or third of the androsphinx's roars for that day. All of these roars are sonic effects that fill a 60-foot-radius burst, centered on the androsphinx; the save DCs are Charisma-based. Sphinxes are immune to all of the effects of an androsphinx's roars.
+**Roar (Su)**: An androsphinx can roar up to three times per day as a standard action. Each progressive roar has a different effect, depending upon whether it is the first, second, or third of the androsphinx's roars for that day. All of these roars are sonic effects that fill a 60-foot-radius burst, centered on the androsphinx; the attack bonuses are Charisma-based. Sphinxes are immune to all of the effects of an androsphinx's roars.
 
-_First Roar_: Affected creatures become [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]] for 2d6 rounds (DC 19 Will negates). This is a mind-affecting fear effect in addition to being a sonic effect.
+_First Roar_: Affected creatures become [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]] for 2d6 rounds (+9 vs Will). This is a mind-affecting fear effect in addition to being a sonic effect.
 
-_Second Roar_: Affected creatures are [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] with fear and [[rangoric-srd/rules/Special Abilities and Conditions#^deafened|deafened]] for 1d4 rounds (DC 19 Will negates). This is a mind-affecting fear effect in addition to being a sonic effect.
+_Second Roar_: Affected creatures are [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] with fear and [[rangoric-srd/rules/Special Abilities and Conditions#^deafened|deafened]] for 1d4 rounds (+9 vs Will). This is a mind-affecting fear effect in addition to being a sonic effect.
 
-_Third Roar_: Affected creatures take a 2d4 penalty to Strength for 2d4 rounds and take 2d8 points of sonic damage. Creatures smaller than the androsphinx are knocked [[rangoric-srd/rules/Special Abilities and Conditions#^prone|prone]]. A DC 19 Fortitude save negates the Strength penalty and being knocked prone.
+_Third Roar_: Affected creatures take a 2d4 penalty to Strength for 2d4 rounds and take 2d8 points of sonic damage. Creatures smaller than the androsphinx are knocked [[rangoric-srd/rules/Special Abilities and Conditions#^prone|prone]]. The roar attacks at +9 vs Fortitude, and a miss negates the Strength penalty and being knocked prone.

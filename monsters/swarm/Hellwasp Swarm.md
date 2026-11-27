@@ -14,9 +14,9 @@ cmd: "—"
 attack: "Swarm (3d6 plus distraction and poison)"
 full-attack: "Swarm (3d6 plus distraction and poison)"
 space-reach: "10 ft./0 ft."
-special-attacks: "Distraction (DC 18), inhabit, poison"
+special-attacks: "Distraction (+8 vs Fortitude), inhabit, poison"
 special-qualities: "Darkvision 60 ft., low-light vision, hive mind, damage reduction 10/good, swarm traits, immunity to weapon damage, resistance to fire 10"
-saves: "Fort +10, Ref +10, Will +7"
+defenses: "Fort 20, Ref 20, Will 17"
 abilities: "Str 1, Dex 22, Con 14, Int 6, Wis 13, Cha 9"
 skills: "Acrobatics +25, Perception +4, Stealth +24"
 skill-ranks: "Acrobatics 10, Perception 3, Stealth 3"
@@ -50,9 +50,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Swarm (3d6 plus [[rangoric-srd/monsters/abilities/Distraction|distraction]] and [[rangoric-srd/monsters/abilities/Poison|poison]])
 - **Full Attack**: Swarm (3d6 plus [[rangoric-srd/monsters/abilities/Distraction|distraction]] and [[rangoric-srd/monsters/abilities/Poison|poison]])
 - **Space/Reach**: 10 ft./0 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Distraction|Distraction]] (DC 18), inhabit, [[rangoric-srd/monsters/abilities/Poison|poison]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Distraction|Distraction]] (+8 vs Fortitude), inhabit, [[rangoric-srd/monsters/abilities/Poison|poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], hive mind, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to weapon damage, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10
-- **Saves**: Fort +10, Ref +10, Will +7
+- **Defenses**: Fort 20, Ref 20, Will 17
 - **Abilities**: Str 1, Dex 22, Con 14, Int 6, Wis 13, Cha 9
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +25, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +24
 - **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (poison), [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Toughness|Toughness]]
@@ -82,6 +82,6 @@ A hellwasp-inhabited creature is easy to spot, since its skin crawls with the fo
 
 A [[rangoric-srd/spells/Remove Disease|remove disease]] or [[rangoric-srd/spells/Heal (Spell)|heal]] spell cast on an inhabited victim forces the hellwasp swarm to abandon its host.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Hellwasp Swarm Venom|Hellwasp Swarm Venom]]: Swarm—injury; _save_ Fort DC 20; _frequency_ 1/round for 6 rounds; _effect_ 1d6 Dex; _cure_ 2 consecutive saves.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Hellwasp Swarm Venom|Hellwasp Swarm Venom]]: Swarm—injury; _attack_ +10 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d6 Dex; _cure_ 2 consecutive misses.
 
 **Hive Mind (Ex)**: Any hellwasp swarm with at least 1 hit point per Hit Die (or 12 hit points, for a standard hellwasp swarm) forms a hive mind, giving it an Intelligence of 6. When a hellwasp swarm is reduced below this hit point threshold, it becomes mindless.

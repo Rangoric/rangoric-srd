@@ -15,7 +15,7 @@ full-attack: "Bite +7 melee (1d3–4 plus poison)"
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "Poison"
 special-qualities: "Darkvision 60 ft., immunity to mind-affecting effects"
-saves: "Fort +2, Ref +5, Will +0"
+defenses: "Fort 12, Ref 15, Will 10"
 abilities: "Str 3, Dex 21, Con 10, Int —, Wis 10, Cha 2"
 skills: "Acrobatics +13, Athletics +21, Perception +4, Stealth +17"
 skill-ranks: "Acrobatics 0, Athletics 14, Perception 0, Stealth 0"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-- **Saves**: Fort +2, Ref +5, Will +0
+- **Defenses**: Fort 12, Ref 15, Will 10
 - **Abilities**: Str 3, Dex 21, Con 10, Int —, Wis 10, Cha 2
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Athletics|Athletics]] +21, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +17
 - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -69,4 +69,4 @@ A spellcaster who selects a scarlet spider as a familiar gains a +3 bonus on Ath
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; _save_ Fort DC 10; _frequency_ 1/round for 4 rounds; _effect_ 1 Str; _cure_ 1 save.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; _attack_ +0 vs Fortitude; _frequency_ 1/round for 4 rounds; _effect_ 1 Str; _cure_ 1 miss.

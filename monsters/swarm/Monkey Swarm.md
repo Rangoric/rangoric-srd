@@ -14,9 +14,9 @@ cmd: "—"
 attack: "Swarm (2d6 plus distraction)"
 full-attack: "Swarm (2d6 plus distraction)"
 space-reach: "10 ft./0 ft."
-special-attacks: "Distraction (DC 14)"
+special-attacks: "Distraction (+4 vs Fortitude)"
 special-qualities: "Low-light vision, half damage from weapons, swarm traits, coordinated swarm"
-saves: "Fort +6, Ref +8, Will +2"
+defenses: "Fort 16, Ref 18, Will 12"
 abilities: "Str 7, Dex 16, Con 17, Int 2, Wis 12, Cha 11"
 skills: "Acrobatics +11, Athletics +10, Perception +5"
 skill-ranks: "Acrobatics 1, Athletics 9, Perception 1"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Swarm (2d6 plus [[rangoric-srd/monsters/abilities/Distraction|distraction]])
 - **Full Attack**: Swarm (2d6 plus [[rangoric-srd/monsters/abilities/Distraction|distraction]])
 - **Space/Reach**: 10 ft./0 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Distraction|Distraction]] (DC 14)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Distraction|Distraction]] (+4 vs Fortitude)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], half damage from weapons, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]], [[rangoric-srd/monsters/abilities/Coordinated Swarm|coordinated swarm]]
-- **Saves**: Fort +6, Ref +8, Will +2
+- **Defenses**: Fort 16, Ref 18, Will 12
 - **Abilities**: Str 7, Dex 16, Con 17, Int 2, Wis 12, Cha 11
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Perception|Perception]] +5
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]

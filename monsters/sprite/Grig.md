@@ -15,7 +15,7 @@ full-attack: "Short sword –1 melee (1d3–3/19–20); or longbow +6 ranged (1d
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "Fiddle, spell-like abilities"
 special-qualities: "Low-light vision, damage reduction 5/cold iron, spell resistance 16"
-saves: "Fort +1, Ref +6, Will +3"
+defenses: "Fort 11, Ref 16, Will 13"
 abilities: "Str 5, Dex 18, Con 13, Int 10, Wis 13, Cha 14"
 skills: "Acrobatics +12, Athletics –3 (+12 jumping), Escape Artist +8, Perception +5, Performance (string instruments) +6, Stealth +16"
 skill-ranks: "Acrobatics 1, Athletics 0, Escape Artist 1, Perception 1, Performance (string instruments) 3, Stealth 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft.
 - **Special Attacks**: Fiddle, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 16
-- **Saves**: Fort +1, Ref +6, Will +3
+- **Defenses**: Fort 11, Ref 16, Will 13
 - **Abilities**: Str 5, Dex 18, Con 13, Int 10, Wis 13, Cha 14
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Athletics|Athletics]] –3 (+12 jumping), [[rangoric-srd/skills/Escape Artist|Escape Artist]] +8, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Performance|Performance]] (string instruments) +6, [[rangoric-srd/skills/Stealth|Stealth]] +16
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]]
@@ -75,6 +75,6 @@ Grigs speak Sylvan. Some also speak Common.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th; concentration +11): 3/day—_[[rangoric-srd/spells/Disguise Self|disguise self]]_, _[[rangoric-srd/spells/Entangle|entangle]]_ (DC 13), _[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only), _[[rangoric-srd/spells/Pyrotechnics|pyrotechnics]]_ (DC 14).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th; concentration +11): 3/day—_[[rangoric-srd/spells/Disguise Self|disguise self]]_, _[[rangoric-srd/spells/Entangle|entangle]]_ (+3 vs Reflex), _[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only), _[[rangoric-srd/spells/Pyrotechnics|pyrotechnics]]_ (+4).
 
-**Fiddle (Su)**: Grigs are capable of rubbing their legs together like a cricket to create a surprisingly pleasant sound not unlike that of a tiny fiddle. As a standard action, a grig can create a catchy tune that compels any creature within a 20-foot spread to dance and caper. A creature can resist this compulsion by making a DC 12 Will save. Creatures that fail are compelled to dance and shuffle their feet, and are effectively [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] as long as the grig continues to fiddle. A grig can maintain this effect for up to 10 rounds per day by concentrating. Once a creature makes the save against a grig's fiddle, it is immune to further fiddle effects from that grig for 24 hours. This is a sonic mind-affecting effect. The save DC is Charisma-based.
+**Fiddle (Su)**: Grigs are capable of rubbing their legs together like a cricket to create a surprisingly pleasant sound not unlike that of a tiny fiddle. As a standard action, a grig can create a catchy tune that compels any creature within a 20-foot spread to dance and caper. The tune attacks each creature at +2 vs Will, and a miss resists this compulsion. Creatures it hits are compelled to dance and shuffle their feet, and are effectively [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] as long as the grig continues to fiddle. A grig can maintain this effect for up to 10 rounds per day by concentrating. Once a grig's fiddle misses a creature, it is immune to further fiddle effects from that grig for 24 hours. This is a sonic mind-affecting effect. The attack bonus is Charisma-based.

@@ -16,7 +16,7 @@ full-attack: "Scimitar +1 melee (1d6+1/18–20) or 2 claws +1 melee (1d4+1)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Damage reduction 5/bludgeoning, darkvision 60 ft., immunity to cold, undead traits"
-saves: "Fort +0, Ref +1, Will +2"
+defenses: "Fort 10, Ref 11, Will 12"
 abilities: "Str 13, Dex 13, Con —, Int —, Wis 10, Cha 1"
 skills: "Athletics +3"
 skill-ranks: "Athletics 1"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks: —**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/bludgeoning, darkvision 60 ft., immunity to cold, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]]
-- **Saves**: Fort +0, Ref +1, Will +2
+- **Defenses**: Fort 10, Ref 11, Will 12
 - **Abilities**: Str 13, Dex 13, Con —, Int —, Wis 10, Cha 1
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +3
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]

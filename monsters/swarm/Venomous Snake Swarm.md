@@ -14,9 +14,9 @@ cmd: "- (can't be tripped)"
 attack: "Swarm (1d6 plus distraction and poison)"
 full-attack: "Swarm (1d6 plus distraction and poison)"
 space-reach: "10 ft./0 ft."
-special-attacks: "Distraction (DC 15), poison"
+special-attacks: "Distraction (+5 vs Fortitude), poison"
 special-qualities: "Low-light vision, scent, swarm traits"
-saves: "Fort +7, Ref +9, Will +2"
+defenses: "Fort 17, Ref 19, Will 12"
 abilities: "Str 9, Dex 16, Con 17, Int 1, Wis 12, Cha 2"
 skills: "Acrobatics +7, Athletics +15 (+11 jumping), Perception +13, Stealth +19"
 skill-ranks: "Acrobatics 1, Athletics 13, Perception 5, Stealth 1"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Swarm (1d6 plus [[rangoric-srd/monsters/abilities/Distraction|distraction]] and [[rangoric-srd/monsters/abilities/Poison|poison]])
 - **Full Attack**: Swarm (1d6 plus [[rangoric-srd/monsters/abilities/Distraction|distraction]] and [[rangoric-srd/monsters/abilities/Poison|poison]])
 - **Space/Reach**: 10 ft./0 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Distraction|Distraction]] (DC 15), [[rangoric-srd/monsters/abilities/Poison|poison]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Distraction|Distraction]] (+5 vs Fortitude), [[rangoric-srd/monsters/abilities/Poison|poison]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]]
-- **Saves**: Fort +7, Ref +9, Will +2
+- **Defenses**: Fort 17, Ref 19, Will 12
 - **Abilities**: Str 9, Dex 16, Con 17, Int 1, Wis 12, Cha 2
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +15 (+11 jumping), [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +19
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -67,4 +67,4 @@ While all snake swarms are dangerous, swarms made up of venomous snakes are typi
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Snake Swarm Venom|Snake Swarm Venom]]: Swarm—injury; _save_ Fort DC 15; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con damage; _cure_ 2 consecutive saves. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Snake Swarm Venom|Snake Swarm Venom]]: Swarm—injury; _attack_ +5 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con damage; _cure_ 2 consecutive misses. The attack bonus is Constitution-based.

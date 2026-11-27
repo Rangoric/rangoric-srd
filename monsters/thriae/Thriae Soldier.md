@@ -15,7 +15,7 @@ full-attack: "Sting +10 melee (1d8+7 plus poison); or composite longbow +8 range
 space-reach: "5 ft./5 ft."
 special-attacks: "Merope consumption, poison"
 special-qualities: "Darkvision 60 ft., low-light vision, immunity to poison and sonic"
-saves: "Fort +4, Ref +7, Will +5"
+defenses: "Fort 14, Ref 17, Will 15"
 abilities: "Str 20, Dex 17, Con 16, Int 12, Wis 13, Cha 15"
 skills: "Acrobatics +13, Fieldcraft +9, Intimidation +10, Perception +9, Stealth +9"
 skill-ranks: "Acrobatics 7, Fieldcraft 5, Intimidation 5, Perception 5, Stealth 3"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Merope Consumption (Thriae Soldier)|Merope consumption]], [[rangoric-srd/monsters/abilities/Poison|poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to poison and sonic
-- **Saves**: Fort +4, Ref +7, Will +5
+- **Defenses**: Fort 14, Ref 17, Will 15
 - **Abilities**: Str 20, Dex 17, Con 16, Int 12, Wis 13, Cha 15
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +9
 - **Feats**: [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]]
@@ -72,6 +72,6 @@ Thriae soldiers are heavier-set than most of their slender thriae sisters, and a
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Merope Consumption (Thriae Soldier)|Merope Consumption]] (Su)**: Once per day as a standard action, a thriae soldier can consume a dose of merope in order to enhance her combat abilities for 1d6+3 rounds. Starting on the round after the merope is consumed, the thriae soldier gains a +2 insight bonus on attack rolls and saving throws, and gains fast healing 3.
+**[[rangoric-srd/monsters/abilities/Merope Consumption (Thriae Soldier)|Merope Consumption]] (Su)**: Once per day as a standard action, a thriae soldier can consume a dose of merope in order to enhance her combat abilities for 1d6+3 rounds. Starting on the round after the merope is consumed, the thriae soldier gains a +2 insight bonus on attack rolls and defenses, and gains fast healing 3.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: As a free action, a thriae soldier can apply her venom to an arrow as she fires the shot. Sting or arrow—injury; _save_ Fort DC 15; _frequency_ 1/round for 6 rounds; _effect_ 1d3 Str; _cure_ 1 save. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: As a free action, a thriae soldier can apply her venom to an arrow as she fires the shot. Sting or arrow—injury; _attack_ +5 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d3 Str; _cure_ 1 miss. The attack bonus is Constitution-based.

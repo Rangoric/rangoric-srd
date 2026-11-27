@@ -16,7 +16,7 @@ full-attack: "Bite +9 melee (2d8+10 plus bleed)"
 space-reach: "15 ft./10 ft."
 special-attacks: "Bleed (1d6)"
 special-qualities: "Blindsense 30 ft., keen scent, low-light vision"
-saves: "Fort +10, Ref +6, Will +4"
+defenses: "Fort 20, Ref 16, Will 14"
 abilities: "Str 25, Dex 14, Con 19, Int 1, Wis 16, Cha 4"
 skills: "Athletics +15, Perception +11"
 skill-ranks: "Athletics 5, Perception 5"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (1d6)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/monsters/abilities/Keen Scent|keen scent]], [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]
-- **Saves**: Fort +10, Ref +6, Will +4
+- **Defenses**: Fort 20, Ref 16, Will 14
 - **Abilities**: Str 25, Dex 14, Con 19, Int 1, Wis 16, Cha 4
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Perception|Perception]] +11
 - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)

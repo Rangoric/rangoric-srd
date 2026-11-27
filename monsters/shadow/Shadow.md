@@ -16,7 +16,7 @@ full-attack: "Incorporeal touch +4 melee (1d6 Strength damage)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Create spawn"
 special-qualities: "Darkvision 60 ft., incorporeal, channel resistance +2, undead traits"
-saves: "Fort +3, Ref +3, Will +4"
+defenses: "Fort 13, Ref 13, Will 14"
 abilities: "Str —, Dex 14, Con —, Int 6, Wis 12, Cha 15"
 skills: "Acrobatics +11, Perception +8, Stealth +8 (+12 in dim light, +4 in bright light)"
 skill-ranks: "Acrobatics 6, Perception 4, Stealth 3"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Create spawn
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]], [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +2, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-- **Saves**: Fort +3, Ref +3, Will +4
+- **Defenses**: Fort 13, Ref 13, Will 14
 - **Abilities**: Str —, Dex 14, Con —, Int 6, Wis 12, Cha 15
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +8 (+12 in dim light, +4 in bright light)
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

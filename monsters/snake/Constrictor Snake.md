@@ -15,7 +15,7 @@ full-attack: "Bite +5 melee (1d4+4 plus grab)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Constrict (1d4+4)"
 special-qualities: "Scent"
-saves: "Fort +4, Ref +6, Will +2"
+defenses: "Fort 14, Ref 16, Will 12"
 abilities: "Str 17, Dex 17, Con 12, Int 1, Wis 12, Cha 2"
 skills: "Acrobatics +15, Athletics +11, Perception +12, Stealth +11"
 skill-ranks: "Acrobatics 1, Athletics 5, Perception 4, Stealth 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (1d4+4)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Scent|Scent]]
-- **Saves**: Fort +4, Ref +6, Will +2
+- **Defenses**: Fort 14, Ref 16, Will 12
 - **Abilities**: Str 17, Dex 17, Con 12, Int 1, Wis 12, Cha 2
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +11
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Toughness|Toughness]]

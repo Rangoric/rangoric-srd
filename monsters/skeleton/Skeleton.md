@@ -59,7 +59,7 @@ _Immunity to Cold (Ex)_: Skeletons are not affected by cold.
 
 _[[rangoric-srd/monsters/abilities/Damage Reduction|Damage Reduction]] 5/Bludgeoning_: Skeletons lack flesh or internal organs.
 
-**Saves**: Base save bonuses are Fort +1/3 HD, Ref +1/3 HD, and Will +1/2 HD + 2.
+**Defenses**: Base save bonuses are Fort 11/3 HD, Ref 11/3 HD, and Will 11/2 HD + 2.
 
 **Abilities**: A skeleton’s Dexterity increases by +2, it has no Constitution or Intelligence score, its Wisdom changes to 10, and its Charisma changes to 1.
 

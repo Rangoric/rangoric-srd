@@ -14,9 +14,9 @@ cmd: "—"
 attack: "Swarm (3d6)"
 full-attack: "Swarm (3d6)"
 space-reach: "10 ft./0 ft."
-special-attacks: "Cling, consume, distraction (DC 15)"
+special-attacks: "Cling, consume, distraction (+5 vs Fortitude)"
 special-qualities: "Darkvision 60 ft., scent, swarm traits, immunity to weapon damage"
-saves: "Fort +7, Ref +5, Will +3"
+defenses: "Fort 17, Ref 15, Will 13"
 abilities: "Str 1, Dex 15, Con 10, Int —, Wis 10, Cha 2"
 skills: "Athletics +10, Perception +4"
 skill-ranks: "Athletics 12, Perception 0"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Swarm (3d6)
 - **Full Attack**: Swarm (3d6)
 - **Space/Reach**: 10 ft./0 ft.
-- **Special Attacks**: Cling, consume, [[rangoric-srd/monsters/abilities/Distraction|distraction]] (DC 15)
+- **Special Attacks**: Cling, consume, [[rangoric-srd/monsters/abilities/Distraction|distraction]] (+5 vs Fortitude)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to weapon damage
-- **Saves**: Fort +7, Ref +5, Will +3
+- **Defenses**: Fort 17, Ref 15, Will 13
 - **Abilities**: Str 1, Dex 15, Con 10, Int —, Wis 10, Cha 2
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Perception|Perception]] +4
 - **Feats**: —
@@ -67,6 +67,6 @@ The notoriety of the army ant swarm is well earned. Constantly on the march, a h
 
 ### Combat
 
-**Cling (Ex)**: If a creature leaves an army ant swarm's square, the swarm suffers 1d6 points of damage to reflect the loss of its numbers as several of the crawling pests continue to cling tenaciously to the victim. A creature with army ants clinging to him takes 3d6 points of damage at the end of his turn each round. As a full-round action, he can remove the ants with a DC 17 Reflex save. High wind or any amount of damage from an area effect destroys all clinging ants. The save DC is Dexterity-based.
+**Cling (Ex)**: If a creature leaves an army ant swarm's square, the swarm suffers 1d6 points of damage to reflect the loss of its numbers as several of the crawling pests continue to cling tenaciously to the victim. A creature with army ants clinging to him takes 3d6 points of damage at the end of his turn each round. As a full-round action, he can remove the ants with a DC 17 Reflex check (1d20 + Reflex save bonus). High wind or any amount of damage from an area effect destroys all clinging ants. The attack bonus is Dexterity-based.
 
 **Consume (Ex)**: An army ant swarm can rapidly consume any creature it swarms over. Against [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]] or [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] targets, an army ant swarm attack deals 6d6 points of damage.

@@ -15,7 +15,7 @@ full-attack: "Bite +15 melee (3d6+18 plus poison); or barbed hairs +4 ranged tou
 space-reach: "20 ft.; Reach 20 ft./15 ft."
 special-attacks: "Poison"
 special-qualities: "Darkvision 60 ft., tremorsense 60 ft., barbed hairs, immunity to mind-affecting effects"
-saves: "Fort +14, Ref +4, Will +3"
+defenses: "Fort 24, Ref 14, Will 13"
 abilities: "Str 35, Dex 13, Con 24, Int —, Wis 10, Cha 2"
 skills: "Athletics +28, Perception +4, Stealth –7 (–3 in webs)"
 skill-ranks: "Athletics 13, Perception 1, Stealth 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 20 ft.; Reach 20 ft./15 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Barbed Hairs|barbed hairs]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-- **Saves**: Fort +14, Ref +4, Will +3
+- **Defenses**: Fort 24, Ref 14, Will 13
 - **Abilities**: Str 35, Dex 13, Con 24, Int —, Wis 10, Cha 2
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +28, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] –7 (–3 in webs)
 - **Feats**: —
@@ -64,6 +64,6 @@ tags: [rangoric, rangoric/monster]
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Barbed Hairs|Barbed Hairs]] (Ex)**: A tarantula can throw barbed hairs from its back at a creature as a ranged touch attack (range increment 20 feet). A creature struck by these hairs must make a DC 22 Fort save or be [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1d6 rounds. A creature that attacks a giant tarantula with a non-reach melee weapon must make a DC 22 Reflex save to avoid being struck by these hairs. The save DC is Con-based.
+**[[rangoric-srd/monsters/abilities/Barbed Hairs|Barbed Hairs]] (Ex)**: A tarantula can throw barbed hairs from its back at a creature as a ranged touch attack (range increment 20 feet). A creature struck by these hairs is attacked at +12 vs Fortitude, and on a hit is [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1d6 rounds. A creature that attacks a giant tarantula with a non-reach melee weapon is attacked by these hairs at +12 vs Reflex, and struck by them on a hit. The attack bonus is Con-based.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Giant Tarantula Venom|Giant Tarantula Venom]]: Bite—injury; _save_ Fort DC 24; _frequency_ 1/round for 6 rounds; _effect_ 1d6 Str; _cure_ 2 consecutive saves. The save DC is Constitution-based with a +2 racial bonus.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Giant Tarantula Venom|Giant Tarantula Venom]]: Bite—injury; _attack_ +14 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d6 Str; _cure_ 2 consecutive misses. The attack bonus is Constitution-based with a +2 racial bonus.

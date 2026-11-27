@@ -15,7 +15,7 @@ full-attack: "+2 quarterstaff +16/+11/+6 melee (1d6+4) and +2 quarterstaff +16/+
 space-reach: "5 ft./5 ft."
 special-attacks: "Merope consumption, spell-like abilities"
 special-qualities: "Darkvision 60 ft., detect secret doors, low-light vision, immunity to poison and sonic, resistance to acid 10, spell resistance 22"
-saves: "Fort +8, Ref +16, Will +15"
+defenses: "Fort 18, Ref 26, Will 25"
 abilities: "Str 14, Dex 20, Con 19, Int 19, Wis 22, Cha 27"
 skills: "Acrobatics +26, Arcana +18, Deception +22, Emulation +22, Mysticism +18, Perception +29, Persuasion +22, Sense Motive +20"
 skill-ranks: "Acrobatics 18, Arcana 11, Deception 11, Emulation 11, Mysticism 11, Perception 18, Persuasion 11, Sense Motive 15"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Merope Consumption (Thriae Seer)|Merope consumption]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect secret doors, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to poison and sonic, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 22
-- **Saves**: Fort +8, Ref +16, Will +15
+- **Defenses**: Fort 18, Ref 26, Will 25
 - **Abilities**: Str 14, Dex 20, Con 19, Int 19, Wis 22, Cha 27
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +26, [[rangoric-srd/skills/Arcana|Arcana]] +18, [[rangoric-srd/skills/Deception|Deception]] +22, [[rangoric-srd/skills/Emulation|Emulation]] +22, [[rangoric-srd/skills/Mysticism|Mysticism]] +18, [[rangoric-srd/skills/Perception|Perception]] +29, [[rangoric-srd/skills/Persuasion|Persuasion]] +22, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +20
 - **Feats**: [[rangoric-srd/feats/Agile Maneuvers|Agile Maneuvers]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Two-Weapon Fighting|Improved Two-Weapon Fighting]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -72,8 +72,8 @@ Thriae seers are 6 feet from head to toe and weigh 150 pounds. The thriae seer p
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 14th; concentration +22): Constant—_[[rangoric-srd/spells/Detect Secret Doors|detect secret doors]]_; At will—_[[rangoric-srd/spells/Calm Emotions|calm emotions]]_ (DC 20), _[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ (DC 20), _[[rangoric-srd/spells/Sound Burst|sound burst]]_ (DC 20); 3/day—_[[rangoric-srd/spells/Divination|divination]]_, _[[rangoric-srd/spells/Invisibility Purge|invisibility purge]]_, _[[rangoric-srd/spells/Locate Object|locate object]]_, _[[rangoric-srd/spells/Misdirection|misdirection]]_ (DC 20), _[[rangoric-srd/spells/Symbol of Sleep|symbol of sleep]]_ (DC 23); 1/day-summon bees (level 5, 1d3 giant queen bees or 1d4 wasp swarms), _[[rangoric-srd/spells/True Seeing|true seeing]]_.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 14th; concentration +22): Constant—_[[rangoric-srd/spells/Detect Secret Doors|detect secret doors]]_; At will—_[[rangoric-srd/spells/Calm Emotions|calm emotions]]_ (+10 vs Will), _[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ (+10 vs Will), _[[rangoric-srd/spells/Sound Burst|sound burst]]_ (+10 vs Fortitude); 3/day—_[[rangoric-srd/spells/Divination|divination]]_, _[[rangoric-srd/spells/Invisibility Purge|invisibility purge]]_, _[[rangoric-srd/spells/Locate Object|locate object]]_, _[[rangoric-srd/spells/Misdirection|misdirection]]_ (+10 vs Will), _[[rangoric-srd/spells/Symbol of Sleep|symbol of sleep]]_ (+13 vs Will); 1/day-summon bees (level 5, 1d3 giant queen bees or 1d4 wasp swarms), _[[rangoric-srd/spells/True Seeing|true seeing]]_.
 
 **[[rangoric-srd/monsters/abilities/Merope Consumption (Thriae Seer)|Merope Consumption]] (Su)**: Three times per day as a standard action, a thriae seer can consume a dose of merope in order to further tap into her spiritual powers for 1d6+3 rounds. Starting on the round after she consumes the merope, the thriae seer gains an insight bonus to her AC and on damage done with melee attacks equal to her Wisdom modifier (+6 for most thriae seers).
 
-**Mind Sting (Su)**: A target stung by a thriae seer becomes [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]] for 1d4 rounds unless it makes a successful DC 21 Will save. This is a mind-affecting effect. The save DC is Constitution-based.
+**Mind Sting (Su)**: A target stung by a thriae seer becomes [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]] for 1d4 rounds if the sting hits it at +11 vs Will. This is a mind-affecting effect. The attack bonus is Constitution-based.

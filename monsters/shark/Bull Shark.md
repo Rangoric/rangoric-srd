@@ -16,7 +16,7 @@ full-attack: "Bite +3 melee (2d8+3)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Blindsense 30 ft., keen scent, low-light vision"
-saves: "Fort +4, Ref +5, Will +1"
+defenses: "Fort 14, Ref 15, Will 11"
 abilities: "Str 15, Dex 14, Con 13, Int 1, Wis 12, Cha 2"
 skills: "Athletics +10, Perception +6"
 skill-ranks: "Athletics 5, Perception 2"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/monsters/abilities/Keen Scent|keen scent]], [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]
-- **Saves**: Fort +4, Ref +5, Will +1
+- **Defenses**: Fort 14, Ref 15, Will 11
 - **Abilities**: Str 15, Dex 14, Con 13, Int 1, Wis 12, Cha 2
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Perception|Perception]] +6
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]

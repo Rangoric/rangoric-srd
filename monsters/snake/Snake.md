@@ -34,12 +34,12 @@ Constrictor snakes hunt by grabbing prey with their mouths and then squeezing it
 
 Viper snakes rely on their venomous bite to kill prey and defend themselves.
 
-**Poison (Ex)**: A viper snake has a poisonous bite that deals initial and secondary damage of 1d6 Con. The save DC varies by the snake’s size, as shown on the table below. The save DCs are Constitution-based.
+**Poison (Ex)**: A viper snake has a poisonous bite that deals initial and secondary damage of 1d6 Con. The attack bonus varies by the snake’s size, as shown on the table below. The attack bonuses are Constitution-based.
 
-| Size   | Fort DC                                                         |
-| ------ | --------------------------------------------------------------- |
-| Tiny   | 10                                                              |
-| Small  | 10                                                              |
-| Medium | see [[rangoric-srd/monsters/snake/Snake, Medium Viper\|Medium]] |
-| Large  | 11                                                              |
-| Huge   | 14                                                              |
+| Size   | Attack vs Fortitude                                     |
+| ------ | ------------------------------------------------------- | -------- |
+| Tiny   | +0                                                      |
+| Small  | +0                                                      |
+| Medium | see [[rangoric-srd/monsters/snake/Snake, Medium Viper\  | Medium]] |
+| Large  | +1                                                      |
+| Huge   | +4                                                      |

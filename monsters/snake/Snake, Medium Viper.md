@@ -15,7 +15,7 @@ full-attack: "Bite +2 melee (1d4–1 plus poison)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Poison"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +5, Ref +4, Will +1"
+defenses: "Fort 15, Ref 14, Will 11"
 abilities: "Str 8, Dex 13, Con 14, Int 1, Wis 13, Cha 2"
 skills: "Acrobatics +9, Athletics +9, Perception +9, Stealth +9"
 skill-ranks: "Acrobatics 0, Athletics 7, Perception 1, Stealth 1"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +5, Ref +4, Will +1
+- **Defenses**: Fort 15, Ref 14, Will 11
 - **Abilities**: Str 8, Dex 13, Con 14, Int 1, Wis 13, Cha 2
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +9
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -70,4 +70,4 @@ Venomous snakes are generally far more aggressive than constrictor snakes, and e
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Snake Venom|Snake Venom]]: Bite—injury; _save_ Fort DC 13; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con damage; _cure_ 1 save.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Snake Venom|Snake Venom]]: Bite—injury; _attack_ +3 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con damage; _cure_ 1 miss.

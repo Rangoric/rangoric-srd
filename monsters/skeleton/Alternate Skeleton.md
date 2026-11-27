@@ -54,7 +54,7 @@ This is the second version of the skeleton template; the first is [[rangoric-srd
 
 **Hit Dice**: A skeleton drops any HD gained from class levels and changes racial HD to d8s. Creatures without racial HD are treated as if they have 1 racial HD. If the creature has more than 20 Hit Dice, it can’t be made into a skeleton by the _[[rangoric-srd/spells/Animate Dead|animate dead]]_ spell. A skeleton uses its Cha modifier (instead of its Con modifier) to determine bonus hit points.
 
-**Saves**: Base save bonuses are Fort +1/3 HD, Ref +1/3 HD, and Will +1/2 HD + 2.
+**Defenses**: Base save bonuses are Fort 11/3 HD, Ref 11/3 HD, and Will 11/2 HD + 2.
 
 **Defensive Abilities**: A skeleton loses the base creature’s defensive abilities and gains [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 5/bludgeoning and immunity to cold. It also gains all of the standard immunities and traits possessed by undead creatures ([[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]).
 
@@ -96,7 +96,7 @@ A bloody skeleton is coated in a slick layer of blood and gore infused with nega
 
 **Fast Healing**: A bloody skeleton has [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] equal to 1 per 2 Hit Dice it possesses (minimum 1).
 
-**Saves**: A bloody skeleton gains [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4.
+**Defenses**: A bloody skeleton gains [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4.
 
 **Abilities**: A bloody skeleton’s Charisma is 14.
 
@@ -122,4 +122,4 @@ A burning skeleton is surrounded by an aura of flames that deals fire damage to 
 
 **Special Qualities**: A burning skeleton gains fiery death.
 
-**Fiery Death (Su)**: A burning skeleton explodes into a burst of flame when it dies. Anyone adjacent to the skeleton when it is destroyed takes 1d6 points of fire damage per 2 Hit Dice the skeleton possessed (minimum 1d6). A Reflex save (DC = 10 + 1/2 the skeleton’s Hit Dice + the skeleton’s Cha bonus) halves this damage.
+**Fiery Death (Su)**: A burning skeleton explodes into a burst of flame when it dies. Anyone adjacent to the skeleton when it is destroyed takes 1d6 points of fire damage per 2 Hit Dice the skeleton possessed (minimum 1d6). The burst attacks Reflex (attack bonus 1/2 the skeleton’s Hit Dice + the skeleton’s Cha bonus), and a miss halves this damage.

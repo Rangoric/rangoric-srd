@@ -15,7 +15,7 @@ full-attack: "Dagger +3 melee (1d2–2/19–20)"
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, alignment variation, soul focus, damage reduction 2/magic, construct traits, susceptible to mind-affecting effects"
-saves: "Fort +1, Ref +3, Will +1"
+defenses: "Fort 11, Ref 13, Will 11"
 abilities: "Str 7, Dex 14, Con —, Int 11, Wis 10, Cha 9"
 skills: "Perception +3, Stealth +13"
 skill-ranks: "Perception 3, Stealth 3"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Alignment Variation (Soulbound Doll)|alignment variation]], [[rangoric-srd/monsters/abilities/Soul Focus (Soulbound Doll)|soul focus]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 2/magic, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], [[rangoric-srd/monsters/abilities/Susceptible to Mind-Affecting Effects|susceptible to mind-affecting effects]]
-- **Saves**: Fort +1, Ref +3, Will +1
+- **Defenses**: Fort 11, Ref 13, Will 11
 - **Abilities**: Str 7, Dex 14, Con —, Int 11, Wis 10, Cha 9
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +3, [[rangoric-srd/skills/Stealth|Stealth]] +13
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Toughness|Toughness]]
@@ -75,9 +75,9 @@ Soulbound dolls speak Common.
 **[[rangoric-srd/monsters/abilities/Alignment Variation (Soulbound Doll)|Alignment Variation]] (Ex)**: Soulbound dolls are at least partially neutral in alignment, although they can also be chaotic, evil, good, or lawful. They have an alignment-dependent spell-like ability usable once per day as listed below.
 
 - _Chaotic Neutral_: _[[rangoric-srd/spells/Rage|rage]]_
-- _Lawful Neutral_: _[[rangoric-srd/spells/Suggestion|suggestion]]_ (DC 12)
-- _Neutral_: _[[rangoric-srd/spells/Deep Slumber|deep slumber]]_ (DC 12)
-- _Neutral Evil_: _[[rangoric-srd/spells/Inflict Serious Wounds|inflict serious wounds]]_ (DC 12)
+- _Lawful Neutral_: _[[rangoric-srd/spells/Suggestion|suggestion]]_ (+2 vs Will)
+- _Neutral_: _[[rangoric-srd/spells/Deep Slumber|deep slumber]]_ (+2 vs Will)
+- _Neutral Evil_: _[[rangoric-srd/spells/Inflict Serious Wounds|inflict serious wounds]]_ (+2 vs Will)
 - _Neutral Good_: _[[rangoric-srd/spells/Heroism|heroism]]_
 
 **[[rangoric-srd/monsters/abilities/Susceptible to Mind-Affecting Effects|Susceptible to Mind-Affecting Effects]] (Ex)**: The weakened conviction of a soulbound doll's soul makes it susceptible to mind-affecting effects, despite the fact that it is a construct.
@@ -86,6 +86,6 @@ Soulbound dolls speak Common.
 
 ### Construction
 
-A soulbound doll's body is made from wood, stone, or porcelain, with one exquisite item worth at least 300 gp to serve as the soul focus. Creation requires a soul fragment from a deceased creature that must die at some point during the creation of the doll—as a result, most soulbound dolls are created by evil spellcasters. Other spellcasters can create soulbound dolls, but if the donor soul is unwilling, they may have alignment repercussions. An unwilling soul can resist the procedure with a DC 20 Will save. Stripping a soul fragment from the dead does not prevent the rest of the soul from continuing on to the afterlife, nor does it prevent the body from later being resurrected or raised from the dead.
+A soulbound doll's body is made from wood, stone, or porcelain, with one exquisite item worth at least 300 gp to serve as the soul focus. Creation requires a soul fragment from a deceased creature that must die at some point during the creation of the doll—as a result, most soulbound dolls are created by evil spellcasters. Other spellcasters can create soulbound dolls, but if the donor soul is unwilling, they may have alignment repercussions. The procedure attacks an unwilling soul at +10 vs Will, and a miss resists it. Stripping a soul fragment from the dead does not prevent the rest of the soul from continuing on to the afterlife, nor does it prevent the body from later being resurrected or raised from the dead.
 
 CL 7th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/False Life|false life]]_, _[[rangoric-srd/spells/Geas, Lesser|lesser geas]]_, _[[rangoric-srd/spells/Magic Jar|magic jar]]_, _[[rangoric-srd/spells/Minor Creation|minor creation]]_, soul of a living creature who dies or is slain during the creation process; Skill [[rangoric-srd/skills/Craft|Craft]] (sculptures); Price 4,300 gp; Cost 2,300 gp.
