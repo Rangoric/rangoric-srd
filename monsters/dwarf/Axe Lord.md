@@ -59,7 +59,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: By character class
 - **Level Adjustment**: —
 
-An axe lord is a [[rangoric-srd/monsters/dwarf/Dwarf|dwarf]] with 17 levels of [[rangoric-srd/classes/Paladin|paladin]]. Axe lords guard dwarven citadels, hunting foul monsters from the deeps and threats from outside.
+An axe lord is a [[rangoric-srd/monsters/dwarf/Dwarf|dwarf]] with 17 levels of [[rangoric-srd/classes/Paladin|paladin]] of [[rangoric-srd/divine/Pantheons#Greek and Roman|Hephaestus]]. Axe lords guard dwarven citadels, hunting foul monsters from the deeps and threats from outside.
 
 An axe lord speaks Common and Dwarven.
 

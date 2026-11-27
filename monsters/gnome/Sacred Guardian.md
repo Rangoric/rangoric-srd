@@ -59,7 +59,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: By character class
 - **Level Adjustment**: —
 
-A sacred guardian is a [[rangoric-srd/monsters/gnome/Gnome|gnome]] with 14 levels of [[rangoric-srd/classes/Cleric|cleric]]. The sacred guardian serves the goddess of beauty and love. He protects a holy site, preferring to deflect and warn rather than harm or destroy.
+A sacred guardian is a [[rangoric-srd/monsters/gnome/Gnome|gnome]] with 14 levels of [[rangoric-srd/classes/Cleric|cleric]] of [[rangoric-srd/divine/Pantheons#Egyptian|Hathor]]. The sacred guardian serves the goddess of beauty and love. He protects a holy site, preferring to deflect and warn rather than harm or destroy.
 
 A sacred guardian speaks Common, Gnome, and Sylvan.
 

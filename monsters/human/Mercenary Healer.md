@@ -59,7 +59,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: By character class
 - **Level Adjustment**: —
 
-A mercenary healer is a [[rangoric-srd/monsters/human/Human|human]] with 1 level of [[rangoric-srd/classes/Cleric|cleric]]. Mercenary healers exploit loopholes in laws for their own profit.
+A mercenary healer is a [[rangoric-srd/monsters/human/Human|human]] with 1 level of [[rangoric-srd/classes/Cleric|cleric]] of [[rangoric-srd/divine/Pantheons#Babylonian and Sumerian|Marduk]]. Mercenary healers exploit loopholes in laws for their own profit.
 
 A mercenary healer speaks Common.
 

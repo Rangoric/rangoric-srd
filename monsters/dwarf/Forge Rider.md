@@ -59,7 +59,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: By character class
 - **Level Adjustment**: —
 
-A forge rider is a [[rangoric-srd/monsters/dwarf/Dwarf|dwarf]] with 12 levels of [[rangoric-srd/classes/Paladin|paladin]]. The forge rider defends dwarven communities and meets foes head on.
+A forge rider is a [[rangoric-srd/monsters/dwarf/Dwarf|dwarf]] with 12 levels of [[rangoric-srd/classes/Paladin|paladin]] of [[rangoric-srd/divine/Pantheons#Greek and Roman|Hephaestus]]. The forge rider defends dwarven communities and meets foes head on.
 
 A forge rider speaks Common and Dwarven.
 

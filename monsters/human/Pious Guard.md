@@ -59,7 +59,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: By character class
 - **Level Adjustment**: —
 
-A pious guard is a [[rangoric-srd/monsters/human/Human|human]] with 10 levels of [[rangoric-srd/classes/Paladin|paladin]]. These paladins often serve as guards, or administer justice for judges and merchants who perform good works for the god of cities. Often, entire units of these paladins are formed to protect holy places in large cities.
+A pious guard is a [[rangoric-srd/monsters/human/Human|human]] with 10 levels of [[rangoric-srd/classes/Paladin|paladin]] of [[rangoric-srd/divine/Pantheons#Greek and Roman|Athena]]. These paladins often serve as guards, or administer justice for judges and merchants who perform good works for the goddess of cities. Often, entire units of these paladins are formed to protect holy places in large cities.
 
 A pious guard speaks Common, Dwarven, and Elven.
 

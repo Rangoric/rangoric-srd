@@ -59,7 +59,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: By character class
 - **Level Adjustment**: —
 
-A skirmishing crusader is a [[rangoric-srd/monsters/gnome/Gnome|gnome]] with 4 levels of [[rangoric-srd/classes/Paladin|paladin]]. A skirmishing crusader often serves as a scout in the army of a noble, or roams the boundaries of civilization, working with rangers to hold the line against evil. She spends her life in the wilds, and as a result can often be awkward and crass.
+A skirmishing crusader is a [[rangoric-srd/monsters/gnome/Gnome|gnome]] with 4 levels of [[rangoric-srd/classes/Paladin|paladin]] of [[rangoric-srd/divine/Pantheons#Norse|Ullr]]. A skirmishing crusader often serves as a scout in the army of a noble, or roams the boundaries of civilization, working with rangers to hold the line against evil. She spends her life in the wilds, and as a result can often be awkward and crass.
 
 A skirmishing crusader speaks Common, Gnome, and Sylvan.
 

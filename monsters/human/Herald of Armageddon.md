@@ -59,7 +59,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: By character class
 - **Level Adjustment**: —
 
-A herald of armageddon is a [[rangoric-srd/monsters/human/Human|human]] with 17 levels of [[rangoric-srd/classes/Cleric|cleric]]. The herald of armageddon serves the god of wrath and destruction. She brings misery, ruin, and death.
+A herald of armageddon is a [[rangoric-srd/monsters/human/Human|human]] with 17 levels of [[rangoric-srd/classes/Cleric|cleric]] of [[rangoric-srd/divine/Pantheons#Egyptian|Apep]]. The herald of armageddon serves the god of wrath and destruction. She brings misery, ruin, and death.
 
 A herald of armageddon speaks Common.
 

@@ -59,7 +59,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: By character class
 - **Level Adjustment**: —
 
-A death priest is a [[rangoric-srd/monsters/human/Human|human]] with 9 levels of [[rangoric-srd/classes/Cleric|cleric]]. A death priest serves the goddess of plague and undeath, and seeks to infect, kill, and animate anyone who stands in her way. She might desire to one day become undead, but remains alive for now so she can carry out tasks in places that would never allow the undead.
+A death priest is a [[rangoric-srd/monsters/human/Human|human]] with 9 levels of [[rangoric-srd/classes/Cleric|cleric]] of [[rangoric-srd/divine/Pantheons#Babylonian and Sumerian|Nergal]]. A death priest serves the god of plague and undeath, and seeks to infect, kill, and animate anyone who stands in her way. She might desire to one day become undead, but remains alive for now so she can carry out tasks in places that would never allow the undead.
 
 A death priest speaks Common.
 

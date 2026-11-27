@@ -59,7 +59,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: By character class
 - **Level Adjustment**: —
 
-A war priest is a [[rangoric-srd/monsters/dwarf/Dwarf|dwarf]] with 2 levels of [[rangoric-srd/classes/Cleric|cleric]]. The dwarven war priest serves the god of strength, and uses her divine powers for the glory of war itself.
+A war priest is a [[rangoric-srd/monsters/dwarf/Dwarf|dwarf]] with 2 levels of [[rangoric-srd/classes/Cleric|cleric]] of [[rangoric-srd/divine/Pantheons#Greek and Roman|Ares]]. The dwarven war priest serves the god of strength, and uses her divine powers for the glory of war itself.
 
 A war priest speaks Common and Dwarven.
 

@@ -59,7 +59,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: By character class
 - **Level Adjustment**: —
 
-A noble crusader is a [[rangoric-srd/monsters/human/Human|human]] with 5 levels of [[rangoric-srd/classes/Cleric|cleric]]. The noble crusader battles the forces of chaos, usually at the behest of a local monarch.
+A noble crusader is a [[rangoric-srd/monsters/human/Human|human]] with 5 levels of [[rangoric-srd/classes/Cleric|cleric]] of [[rangoric-srd/divine/Pantheons#Greek and Roman|Athena]]. The noble crusader battles the forces of chaos, usually at the behest of a local monarch.
 
 A noble crusader speaks Common.
 

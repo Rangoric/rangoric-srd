@@ -59,7 +59,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: By character class
 - **Level Adjustment**: —
 
-A master of undeath is a [[rangoric-srd/monsters/human/Human|human]] with 15 levels of [[rangoric-srd/classes/Cleric|cleric]]. These clerics turn innocents into undead monstrosities.
+A master of undeath is a [[rangoric-srd/monsters/human/Human|human]] with 15 levels of [[rangoric-srd/classes/Cleric|cleric]] of [[rangoric-srd/divine/Pantheons#Babylonian and Sumerian|Nergal]]. These clerics turn innocents into undead monstrosities.
 
 A master of undeath speaks Common.
 

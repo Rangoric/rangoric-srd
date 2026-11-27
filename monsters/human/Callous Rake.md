@@ -59,7 +59,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: By character class
 - **Level Adjustment**: —
 
-A callous rake is a [[rangoric-srd/monsters/human/Human|human]] with 1 level of [[rangoric-srd/classes/Paladin|paladin]]. The callous rake is a young paladin exhibiting unpaladinlike behavior. If unchecked, these habits become the first step toward disgrace.
+A callous rake is a [[rangoric-srd/monsters/human/Human|human]] with 1 level of [[rangoric-srd/classes/Paladin|paladin]] of [[rangoric-srd/divine/Pantheons#Greek and Roman|Athena]]. The callous rake is a young paladin exhibiting unpaladinlike behavior. If unchecked, these habits become the first step toward disgrace.
 
 A callous rake speaks Common.
 

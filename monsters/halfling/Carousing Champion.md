@@ -59,7 +59,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: By character class
 - **Level Adjustment**: —
 
-A carousing champion is a [[rangoric-srd/monsters/halfling/Halfling|halfling]] with 6 levels of [[rangoric-srd/classes/Cleric|cleric]]. The carousing champion serves the god of freedom, bravery, and ale, and uses his significant abilities to bring happiness to common folk and stand up against oppression of all sorts.
+A carousing champion is a [[rangoric-srd/monsters/halfling/Halfling|halfling]] with 6 levels of [[rangoric-srd/classes/Cleric|cleric]] of [[rangoric-srd/divine/Pantheons#Greek and Roman|Dionysus]]. The carousing champion serves the god of freedom, bravery, and ale, and uses his significant abilities to bring happiness to common folk and stand up against oppression of all sorts.
 
 A carousing champion speaks Common and Halfling.
 

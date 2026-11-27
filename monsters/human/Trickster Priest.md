@@ -59,7 +59,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: By character class
 - **Level Adjustment**: —
 
-A trickster priest is a [[rangoric-srd/monsters/human/Human|human]] with 12 levels of [[rangoric-srd/classes/Cleric|cleric]]. The trickster priest serves the goddess of trickery and revenge, using guile and magic to manipulate others.
+A trickster priest is a [[rangoric-srd/monsters/human/Human|human]] with 12 levels of [[rangoric-srd/classes/Cleric|cleric]] of [[rangoric-srd/divine/Pantheons#Babylonian and Sumerian|Ishtar]]. The trickster priest serves the goddess of trickery and revenge, using guile and magic to manipulate others.
 
 A trickster priest speaks Common.
 

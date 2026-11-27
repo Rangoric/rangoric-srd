@@ -9,7 +9,7 @@ tags: [rangoric, rangoric/feat, racial]
 
 # Enhanced Gnome Magic
 
-Your ties to the First World manifest in the form of magical abilities that tap into a natural element.
+Your ties to the [[rangoric-srd/flavor/the-fey-realm/The Fey Realm|Fey Realm]] manifest in the form of magical abilities that tap into a natural element.
 
 **Prerequisites**: Cha 13, [[rangoric-srd/skills/Nature|Nature]] 3 ranks, [[rangoric-srd/races/Gnome|gnome]], [[rangoric-srd/races/Gnome|gnome magic]] racial trait.
 

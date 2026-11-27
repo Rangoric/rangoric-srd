@@ -59,7 +59,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: By character class
 - **Level Adjustment**: —
 
-A shadow cleric is an [[rangoric-srd/monsters/elf/Elf|elf]] with 18 levels of [[rangoric-srd/classes/Cleric|cleric]]. A shadow cleric strikes like death from the darkness.
+A shadow cleric is an [[rangoric-srd/monsters/elf/Elf|elf]] with 18 levels of [[rangoric-srd/classes/Cleric|cleric]] of [[rangoric-srd/divine/Pantheons#Norse|Loki]]. A shadow cleric strikes like death from the darkness.
 
 A shadow cleric speaks Common, Elven, and Orc.
 

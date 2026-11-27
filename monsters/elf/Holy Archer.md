@@ -59,7 +59,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: By character class
 - **Level Adjustment**: —
 
-A holy archer is an [[rangoric-srd/monsters/elf/Elf|elf]] with 6 levels of [[rangoric-srd/classes/Paladin|paladin]]. Few expect honorable archers to be paladins, since they do not fit the typical image. Other paladins sometimes look down on these archers for shunning close combat, but they care only about efficiency in protecting their flocks.
+A holy archer is an [[rangoric-srd/monsters/elf/Elf|elf]] with 6 levels of [[rangoric-srd/classes/Paladin|paladin]] of [[rangoric-srd/divine/Pantheons#Norse|Ullr]]. Few expect honorable archers to be paladins, since they do not fit the typical image. Other paladins sometimes look down on these archers for shunning close combat, but they care only about efficiency in protecting their flocks.
 
 A holy archer speaks Common, Elven, and Orc.
 

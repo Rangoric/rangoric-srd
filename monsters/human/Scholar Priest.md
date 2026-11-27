@@ -59,7 +59,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: By character class
 - **Level Adjustment**: —
 
-A scholar priest is a [[rangoric-srd/monsters/human/Human|human]] with 3 levels of [[rangoric-srd/classes/Cleric|cleric]]. The scholar priest is a devotee of magical knowledge, securing it from the unworthy at all costs.
+A scholar priest is a [[rangoric-srd/monsters/human/Human|human]] with 3 levels of [[rangoric-srd/classes/Cleric|cleric]] of [[rangoric-srd/divine/Pantheons#Egyptian|Isis]]. The scholar priest is a devotee of magical knowledge, securing it from the unworthy at all costs.
 
 A scholar priest speaks Common.
 

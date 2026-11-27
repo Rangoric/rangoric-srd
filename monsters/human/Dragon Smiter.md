@@ -59,7 +59,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: By character class
 - **Level Adjustment**: —
 
-A dragon smiter is a [[rangoric-srd/monsters/human/Human|human]] with 13 levels of [[rangoric-srd/classes/Paladin|paladin]]. A dragon smiter is sworn to slay dragons.
+A dragon smiter is a [[rangoric-srd/monsters/human/Human|human]] with 13 levels of [[rangoric-srd/classes/Paladin|paladin]] of [[rangoric-srd/divine/Pantheons#Greek and Roman|Athena]]. A dragon smiter is sworn to slay dragons.
 
 A dragon smiter speaks Common and Draconic.
 
