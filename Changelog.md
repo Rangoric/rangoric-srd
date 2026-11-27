@@ -8,6 +8,7 @@ Every departure from the source rules, newest first. One line each, with links t
 
 | Date | Change | Rangoric note | Source | Why |
 | --- | --- | --- | --- | --- |
+| 2026-11-26 | Small text fixes (ST 1): doubled full stops, doubled words, stray spaces before punctuation and a doubled comma fixed in 59 notes; epic spells' Components lines read "V, S, XP" and "DF"; the Dream, Enchantment and Illusion domains no longer name a book; Equipment Weapons drops its sentence about the deleted Weapon Group feats; both witch archetypes label the hex "nightmares"; the Gholdako's "would-be thieves", the Rune Caster's caster level and Flurry of Stars' "full attack" reworded. "Check notes" fails a changed note with a doubled full stop or comma. | [[ST Batch 1 Changes]] | | [[Small Text Fixes]] ST 1 |
 | 2026-11-26 | No Book Property (NB 10): the README's Note rules mark `book` and `page` never, and say source books aren't named in an SRD note, in its text or its frontmatter. | [[NB Batch 10 Changes]] | | [[No Book Property]] NB 10 |
 | 2026-11-26 | No Book Property (NB 9): rules, classes, prestige-classes, design-notes, skills and flavor drop the `book:` frontmatter key, with their Note Rules rows and Index base columns; source books aren't named in SRD notes. | [[NB Batch 9 Changes]] | | [[No Book Property]] NB 9 |
 | 2026-11-26 | No Book Property (NB 8): races, feats and traits drop the `book:` frontmatter key, with their Note Rules rows and Index base columns; source books aren't named in SRD notes. | [[NB Batch 8 Changes]] | | [[No Book Property]] NB 8 |
