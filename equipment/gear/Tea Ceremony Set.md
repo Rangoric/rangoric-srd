@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "25 gp"
 weight: "5 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/food-and-drink/Tea Ceremony Set|Tea Ceremony Set (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Tea Ceremony Set|Tea Ceremony Set (PF1 F)]]"

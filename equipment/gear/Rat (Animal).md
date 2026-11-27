@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "mounts and related gear"
 price: "1 cp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/animals-mounts-and-related-gear/Rat|Rat (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Rat (Item)|Rat (Item) (PF1 F)]]"

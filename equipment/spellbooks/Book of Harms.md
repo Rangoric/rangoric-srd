@@ -6,7 +6,6 @@ caster-level: 5
 role: "Evoker"
 price: "485 gp"
 price-with-ritual: "860 gp"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/rules/ultimate-magic/mastering-magic/Spellbooks|Book of Harms (PF1 Ultimate Magic)]]"
 status: draft

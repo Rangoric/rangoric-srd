@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "15 gp"
 weight: "20 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/adventuring-gear/Collapsible Bathtub|Collapsible Bathtub (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Collapsible bathtub|Collapsible bathtub (PF1 F)]]"

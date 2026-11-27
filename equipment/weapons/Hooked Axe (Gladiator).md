@@ -11,7 +11,6 @@ critical: "x3"
 weight-lb: 7
 damage-type: "Slashing"
 special: ["disarm", "performance", "trip"]
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/gladiator-weapons/Hooked Axe|Hooked Axe (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Hooked Axe|Hooked Axe (PF1 F)]]"

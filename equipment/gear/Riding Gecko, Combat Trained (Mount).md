@@ -6,7 +6,6 @@ aliases:
   - "Gecko, Riding (Combat Trained)"
 price: "400 gp"
 weight: "1,500 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/animals-mounts-and-related-gear/Gecko, Riding|Gecko, Riding (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Gecko, riding (combat trained)|Gecko, riding (combat trained) (PF1 F)]]"

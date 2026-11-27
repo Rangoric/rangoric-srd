@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "mounts and related gear"
 price: "20 gp"
 weight: "10 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/animals-mounts-and-related-gear/Otter|Otter (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Otter (Item)|Otter (Item) (PF1 F)]]"

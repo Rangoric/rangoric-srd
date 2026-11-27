@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "tools and skill kits"
 price: "10 gp"
 weight: "1 lb."
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/goods-and-services/Traveling Spellbook|Traveling Spellbook (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Traveling spellbook|Traveling spellbook (PF1 F)]]"

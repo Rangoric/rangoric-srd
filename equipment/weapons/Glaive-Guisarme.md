@@ -11,7 +11,6 @@ critical: "x3"
 weight-lb: 10
 damage-type: "Slashing"
 special: ["brace", "reach"]
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/weapons/Glaive-Guisarme|Glaive-Guisarme (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Glaive-Guisarme|Glaive-Guisarme (PF1 F)]]"

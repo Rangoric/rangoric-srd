@@ -1,7 +1,6 @@
 ---
 srd-type: "alchemical-item"
 section: "Equipment"
-book: "Alchemy & Herbalists"
 aliases: ["Swatharness"]
 classification: "Swathe/Wondrous Item; Magical"
 category: ["Erlcana", "Wondrous Item"]

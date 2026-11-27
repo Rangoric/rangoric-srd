@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "food, drink, and lodging"
 price: "4 gp per day"
 weight: "—"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/lodging-and-services/Inn Stay|Inn Stay (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Service, Inn stay (suite, small)|Service, Inn stay (suite, small) (PF1 F)]]"

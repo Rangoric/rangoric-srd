@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "mounts and related gear"
 price: "1,500 gp"
 weight: "500 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/animals-mounts-and-related-gear/Axe Beak (Item)|Axe Beak (Item) (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Axe Beak (combat trained)|Axe Beak (combat trained) (PF1 F)]]"

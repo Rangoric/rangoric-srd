@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "15 gp"
 weight: "43-1/2 lb."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/adventuring-gear/Hunter's Kit|Hunter's Kit (PF1)]]"
 status: draft

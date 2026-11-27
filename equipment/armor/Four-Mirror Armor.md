@@ -13,7 +13,6 @@ spell-failure: 30
 speed-30: 20
 speed-20: 15
 weight-lb: 45
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/armor/Four-Mirror|Four-Mirror (PF1)]]"
   - "[[path srd 3.5 foundry/items/armor/Four-Mirror|Four-Mirror (PF1 F)]]"

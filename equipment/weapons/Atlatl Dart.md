@@ -5,7 +5,6 @@ table-name: "Darts, atlatl"
 category: "ammunition"
 cost-gp: 1
 weight-lb: 2
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/primitive-armor-and-weapons/Atlatl Dart|Atlatl Dart (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Atlatl Dart|Atlatl Dart (PF1 F)]]"

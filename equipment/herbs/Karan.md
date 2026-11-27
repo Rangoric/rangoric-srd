@@ -1,7 +1,6 @@
 ---
 srd-type: "herb"
 section: "Equipment"
-book: "Alchemy & Herbalists"
 aliases: ["Myrrh"]
 rarity: "Rare"
 environment: "Any warm plains or desert"

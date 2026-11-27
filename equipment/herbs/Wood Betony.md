@@ -1,7 +1,6 @@
 ---
 srd-type: "herb"
 section: "Equipment"
-book: "Alchemy & Herbalists"
 aliases: ["Betony"]
 rarity: "Common"
 environment: "Temperate forests and wooded marshlands"

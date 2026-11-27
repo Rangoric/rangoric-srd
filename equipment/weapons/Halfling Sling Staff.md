@@ -13,7 +13,6 @@ critical: "x3"
 range-ft: 80
 weight-lb: 3
 damage-type: "Bludgeoning"
-book: ["Core Rulebook", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/weapons/Sling Staff, Halfling|Sling Staff, Halfling (PF1)]]"
   - "[[path srd 3.5/items/weapons/Halfling Sling Staff|Halfling Sling Staff (PF1)]]"

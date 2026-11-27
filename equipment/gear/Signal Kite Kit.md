@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "tools and skill kits"
 price: "5 gp"
 weight: "—"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/featured-race/Signal Kite Kit|Signal Kite Kit (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Kit, Signal Kite|Kit, Signal Kite (PF1 F)]]"

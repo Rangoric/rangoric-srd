@@ -10,7 +10,6 @@ damage-medium: "1d3"
 critical: "x2"
 damage-type: "Piercing"
 special: ["disarm"]
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/eastern-armor-and-weapons/Tekko-Kagi|Tekko-Kagi (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Tekko-Kagi|Tekko-Kagi (PF1 F)]]"

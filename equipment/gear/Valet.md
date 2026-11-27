@@ -3,7 +3,6 @@ srd-type: "gear"
 section: "Equipment"
 gear-type: "spellcasting and services"
 price: "1 gp per day"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/lodging-and-services/Valet|Valet (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Service, Valet|Service, Valet (PF1 F)]]"

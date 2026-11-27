@@ -1,7 +1,6 @@
 ---
 srd-type: "herb"
 section: "Equipment"
-book: "Alchemy & Herbalists"
 aliases: ["Dittany"]
 rarity: "Uncommon"
 environment: "Any temperate"

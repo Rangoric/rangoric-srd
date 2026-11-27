@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "mounts and related gear"
 price: "10 gp"
 weight: "10 lb."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/items/misc/Flying Straps|Flying Straps (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Flying straps|Flying straps (PF1 F)]]"

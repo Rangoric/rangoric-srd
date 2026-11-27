@@ -1,7 +1,6 @@
 ---
 srd-type: "alchemical-item"
 section: "Equipment"
-book: "Alchemy & Herbalists"
 aliases: ["Graftswathe"]
 classification: "Swathe/Erlcana; Special"
 category: ["Erlcana"]

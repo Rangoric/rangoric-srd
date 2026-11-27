@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "mounts and related gear"
 price: "50 gp"
 weight: "4 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/animals-mounts-and-related-gear/Parrot|Parrot (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Parrot (Item)|Parrot (Item) (PF1 F)]]"

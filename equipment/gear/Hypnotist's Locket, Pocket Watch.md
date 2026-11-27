@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "tools and skill kits"
 price: "250 gp"
 weight: "1 lb."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/gear/HypnotistΓÇÖs locket (pocket watch)|Hypnotist’s locket (pocket watch) (PF1 F)]]"
 status: draft

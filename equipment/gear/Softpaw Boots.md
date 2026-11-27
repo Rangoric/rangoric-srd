@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "clothing"
 price: "25 gp"
 weight: "1 lb."
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/featured-race/Softpaw Boots|Softpaw Boots (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Softpaw boots (Advanced Race Guide)|Softpaw boots (Advanced Race Guide) (PF1 F)]]"

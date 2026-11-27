@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "402 gp"
 weight: "7 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/adventuring-gear/Undead Slayer's kit|Undead Slayer's kit (PF1)]]"
 status: draft

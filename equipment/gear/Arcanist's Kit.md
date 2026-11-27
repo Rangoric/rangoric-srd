@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "21 gp"
 weight: "34 lb."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/adventuring-gear/Arcanist's Kit|Arcanist's Kit (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Kit, Arcanist's|Kit, Arcanist's (PF1 F)]]"

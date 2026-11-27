@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "mounts and related gear"
 price: "2 gp"
 weight: "8 oz."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/animals-mounts-and-related-gear/Weasel|Weasel (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Weasel (Item)|Weasel (Item) (PF1 F)]]"

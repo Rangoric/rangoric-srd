@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "mounts and related gear"
 price: "2–20 gp"
 weight: "150 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/animals-mounts-and-related-gear/Sheep|Sheep (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Sheep|Sheep (PF1 F)]]"

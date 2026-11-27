@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "tools and skill kits"
 price: "300 gp"
 weight: "3 lb."
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/core-race/Arcane Family Workbook|Arcane Family Workbook (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Arcane Family Workbook|Arcane Family Workbook (PF1 F)]]"

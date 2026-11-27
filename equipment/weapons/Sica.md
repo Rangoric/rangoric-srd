@@ -11,7 +11,6 @@ critical: "x2"
 weight-lb: 2
 damage-type: "Slashing"
 special: ["performance"]
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/gladiator-weapons/Sica|Sica (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Sica|Sica (PF1 F)]]"

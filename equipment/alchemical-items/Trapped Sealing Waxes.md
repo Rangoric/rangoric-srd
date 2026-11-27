@@ -1,7 +1,6 @@
 ---
 srd-type: "alchemical-item"
 section: "Equipment"
-book: "Alchemy & Herbalists"
 aliases: ["Jhotan’s Sealing Waxes"]
 classification: "Chymical; Special"
 category: ["Chymical"]

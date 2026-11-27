@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "5 gp"
 weight: "16 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/adventuring-gear/Buoy|Buoy (PF1)]]"
   - "[[path srd 3.5/items/goods-and-services/Buoy, Common|Buoy, Common (PF1)]]"

@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "clothing"
 price: "100 gp"
 weight: "4 lb."
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/core-race/Billow Cape|Billow Cape (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Billow Cape|Billow Cape (PF1 F)]]"

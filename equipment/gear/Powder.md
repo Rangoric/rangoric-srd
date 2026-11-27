@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "1 cp"
 weight: "1/2 lb."
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/goods-and-services/Powder|Powder (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Powder|Powder (PF1 F)]]"

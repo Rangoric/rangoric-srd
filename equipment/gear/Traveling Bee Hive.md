@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "10 gp"
 weight: "10 lb."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/adventuring-gear/Traveling Bee Hive|Traveling Bee Hive (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Traveling bee hive|Traveling bee hive (PF1 F)]]"

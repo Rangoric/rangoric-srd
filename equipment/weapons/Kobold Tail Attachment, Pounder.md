@@ -10,7 +10,6 @@ damage-medium: "1d8"
 critical: "x2"
 weight-lb: 4
 damage-type: "Bludgeoning"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/featured-race/Kobold Tail Attachments|Kobold Tail Attachments (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Kobold Tail Attachment (Pounder)|Kobold Tail Attachment (Pounder) (PF1 F)]]"

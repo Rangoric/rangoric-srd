@@ -9,7 +9,6 @@ range-ft: 10
 weight-lb: 10
 damage-type: "Piercing"
 special: ["trip"]
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/uncommon-race/Snag Net|Snag Net (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Snag Net|Snag Net (PF1 F)]]"

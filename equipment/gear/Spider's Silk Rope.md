@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "100 gp"
 weight: "4 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/adventuring-gear/Spider's Silk Rope|Spider's Silk Rope (PF1)]]"
   - "[[path srd 3.5/items/goods-and-services/Rope, Spider's Silk|Rope, Spider's Silk (PF1)]]"

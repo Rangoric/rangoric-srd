@@ -8,7 +8,6 @@ cost-gp: 1
 damage-small: "special"
 damage-medium: "special"
 weight-lb: 1
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/eastern-armor-and-weapons/Poisoned Sand Tube|Poisoned Sand Tube (PF1)]]"
 status: draft

@@ -6,7 +6,6 @@ aliases:
   - "Harrow Deck"
 price: "100 gp"
 weight: "—"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/adventuring-gear/Harrow Deck|Harrow Deck (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Harrow deck|Harrow deck (PF1 F)]]"

@@ -11,7 +11,6 @@ critical: "x3"
 weight-lb: 10
 damage-type: "Piercing or slashing"
 special: ["reach"]
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/primitive-armor-and-weapons/Rhomphaia|Rhomphaia (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Rhomphaia|Rhomphaia (PF1 F)]]"

@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "mounts and related gear"
 price: "5,000 gp"
 weight: "500 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/animals-mounts-and-related-gear/Hippogriff (Item)|Hippogriff (Item) (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Hippogriff (combat trained)|Hippogriff (combat trained) (PF1 F)]]"

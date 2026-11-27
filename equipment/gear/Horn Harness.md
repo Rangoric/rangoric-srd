@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "mounts and related gear"
 price: "30 gp"
 weight: "20 lb."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/items/misc/Horn Harness|Horn Harness (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Horn harness|Horn harness (PF1 F)]]"

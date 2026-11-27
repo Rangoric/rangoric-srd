@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "tools and skill kits"
 price: "25 gp"
 weight: "5 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/tools-and-skill-kits/Alchemy Crafting Kit|Alchemy Crafting Kit (PF1)]]"
   - "[[path srd 3.5/items/goods-and-services/Alchemist's Kit|Alchemist's Kit (PF1)]]"

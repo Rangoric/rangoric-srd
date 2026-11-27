@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "clothing"
 price: "1 sp–50 gp"
 weight: "—"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/clothing/Decorative Trim|Decorative Trim (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Decorative Trim, cheap|Decorative Trim, cheap (PF1 F)]]"

@@ -13,7 +13,6 @@ spell-failure: 20
 speed-30: 30
 speed-20: 20
 weight-lb: 25
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/armor/Lamellar|Lamellar (PF1)]]"
   - "[[path srd 3.5 foundry/items/armor/Leather Lamellar|Leather Lamellar (PF1 F)]]"

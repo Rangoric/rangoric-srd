@@ -11,7 +11,6 @@ critical: "19–20/x2"
 weight-lb: 8
 damage-type: "Piercing or slashing"
 special: ["reach"]
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/primitive-armor-and-weapons/Tepoztopilli|Tepoztopilli (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Tepoztopilli|Tepoztopilli (PF1 F)]]"

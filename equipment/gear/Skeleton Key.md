@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "85 gp"
 weight: "—"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/adventuring-gear/Skeleton Key|Skeleton Key (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Skeleton Key|Skeleton Key (PF1 F)]]"

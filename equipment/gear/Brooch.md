@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "clothing"
 price: "varies"
 weight: "—"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/clothing/Brooch|Brooch (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Brooch (Item)|Brooch (Item) (PF1 F)]]"

@@ -10,7 +10,6 @@ crew: 6
 speed: "15 ft."
 hardness: 5
 hp: 120
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/items/siege-engines/Gallery|Gallery (PF1)]]"
 status: draft

@@ -6,7 +6,6 @@ aliases:
   - "Fortune-Teller's Deck"
 price: "1 gp"
 weight: "1/2 lb."
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/goods-and-services/Fortune-Teller's Deck|Fortune-Teller's Deck (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Fortune-teller's deck|Fortune-teller's deck (PF1 F)]]"

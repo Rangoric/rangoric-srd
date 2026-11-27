@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "1 sp"
 weight: "1/2 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/adventuring-gear/Air Bladder|Air Bladder (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Air Bladder|Air Bladder (PF1 F)]]"

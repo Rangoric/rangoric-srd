@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "mounts and related gear"
 price: "25 gp"
 weight: "25 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[fantasy srd 3.5/equipment/Equipment Goods and Services|Equipment Goods and Services (3.5)]]"
   - "[[path srd 3.5/items/animals-mounts-and-related-gear/Dog (Item)|Dog (Item) (PF1)]]"

@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "5 gp"
 weight: "2 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/adventuring-gear/Banner|Banner (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Banner (Complex)|Banner (Complex) (PF1 F)]]"

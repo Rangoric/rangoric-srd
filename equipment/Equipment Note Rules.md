@@ -23,7 +23,6 @@ What the notes in `equipment` look like. The whole-SRD rules are in the [README]
 | ---------- | -------- | ----------- |
 | `srd-type` | yes      | `overview`  |
 | `section`  | yes      | `Equipment` |
-| `book`     | no       | `text`      |
 
 ## rules
 
@@ -31,7 +30,6 @@ What the notes in `equipment` look like. The whole-SRD rules are in the [README]
 | ---------- | -------- | ----------- |
 | `srd-type` | yes      | `rules`     |
 | `section`  | yes      | `Equipment` |
-| `book`     | yes      | `text`      |
 
 Headings, in order:
 

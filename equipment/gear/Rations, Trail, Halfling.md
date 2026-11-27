@@ -6,7 +6,6 @@ aliases:
   - "Halfling Trail Rations"
 price: "2 gp"
 weight: "1/2 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/food-and-drink/Halfling Trail Rations|Halfling Trail Rations (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Trail Rations, Halfling|Trail Rations, Halfling (PF1 F)]]"

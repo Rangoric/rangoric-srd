@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "50 gp"
 weight: "4 lb."
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/items/goods-and-services/Backpack, Masterwork|Backpack, Masterwork (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Backpack, masterwork|Backpack, masterwork (PF1 F)]]"

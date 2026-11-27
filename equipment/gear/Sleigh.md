@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "transport"
 price: "100 gp"
 weight: "—"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/animals-mounts-and-related-gear/Sleigh (Item)|Sleigh (Item) (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Vehicle, Sleigh|Vehicle, Sleigh (PF1 F)]]"

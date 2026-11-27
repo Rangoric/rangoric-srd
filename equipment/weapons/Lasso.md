@@ -6,7 +6,6 @@ proficiency: "exotic"
 category: "ranged"
 cost-gp: 0.1
 weight-lb: 5
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/weapons/Lasso|Lasso (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Lasso|Lasso (PF1 F)]]"

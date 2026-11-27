@@ -1,7 +1,6 @@
 ---
 srd-type: "herb"
 section: "Equipment"
-book: "Alchemy & Herbalists"
 aliases: ["Wolfsbane"]
 rarity: "Uncommon"
 environment: "Any Temperate"

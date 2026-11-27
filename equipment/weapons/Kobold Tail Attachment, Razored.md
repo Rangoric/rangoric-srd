@@ -10,7 +10,6 @@ damage-medium: "1d8"
 critical: "19–20/x2"
 weight-lb: 2
 damage-type: "Slashing"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/featured-race/Kobold Tail Attachments|Kobold Tail Attachments (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Kobold Tail Attachment (Razored)|Kobold Tail Attachment (Razored) (PF1 F)]]"

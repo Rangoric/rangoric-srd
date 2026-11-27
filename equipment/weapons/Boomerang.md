@@ -11,7 +11,6 @@ critical: "x2"
 range-ft: 30
 weight-lb: 3
 damage-type: "Bludgeoning"
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/weapons/Boomerang|Boomerang (PF1)]]"
 status: draft

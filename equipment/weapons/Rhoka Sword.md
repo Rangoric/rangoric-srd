@@ -10,7 +10,6 @@ damage-medium: "1d8"
 critical: "18–20/x2"
 weight-lb: 6
 damage-type: "Slashing"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/weapons/Rhoka Sword|Rhoka Sword (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Rhoka Sword|Rhoka Sword (PF1 F)]]"

@@ -1,7 +1,6 @@
 ---
 srd-type: "alchemical-item"
 section: "Equipment"
-book: "Alchemy & Herbalists"
 aliases: ["Ptarl’s Lurking Menace"]
 classification: "Ingestible/Toxin; Special"
 category: ["Ingestible", "Toxin"]

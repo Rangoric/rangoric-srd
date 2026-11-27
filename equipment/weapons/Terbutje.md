@@ -10,7 +10,6 @@ damage-medium: "1d8"
 critical: "19–20/x2"
 weight-lb: 2
 damage-type: "Slashing"
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/primitive-armor-and-weapons/Terbutje|Terbutje (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Terbutje|Terbutje (PF1 F)]]"

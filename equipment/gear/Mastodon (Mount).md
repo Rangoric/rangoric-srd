@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "mounts and related gear"
 price: "2,000 gp"
 weight: "8 tons"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/animals-mounts-and-related-gear/Mastodon|Mastodon (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Mastodon|Mastodon (PF1 F)]]"

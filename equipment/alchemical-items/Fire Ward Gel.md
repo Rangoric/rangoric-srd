@@ -1,7 +1,6 @@
 ---
 srd-type: "alchemical-item"
 section: "Equipment"
-book: "Ultimate Equipment"
 classification: "Remedy"
 category: ["Remedy"]
 magical: false

@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "clothing"
 price: "2 sp–100 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/clothing/Reversible Cloak|Reversible Cloak (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Reversible cloak|Reversible cloak (PF1 F)]]"

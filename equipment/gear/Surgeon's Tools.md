@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "tools and skill kits"
 price: "20 gp"
 weight: "5 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/tools-and-skill-kits/Surgeon's Tools|Surgeon's Tools (PF1)]]"
 status: draft

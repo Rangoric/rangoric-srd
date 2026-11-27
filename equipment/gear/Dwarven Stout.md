@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "food, drink, and lodging"
 price: "4 cp"
 weight: "1/2 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/food-and-drink/Dwarven Stout|Dwarven Stout (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Dwarven Stout (mug)|Dwarven Stout (mug) (PF1 F)]]"

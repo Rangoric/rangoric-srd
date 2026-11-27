@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "mounts and related gear"
 price: "15 gp"
 weight: "20 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/animals-mounts-and-related-gear/Badger (Item)|Badger (Item) (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Badger (Item)|Badger (Item) (PF1 F)]]"

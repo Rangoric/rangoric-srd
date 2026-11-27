@@ -11,7 +11,6 @@ critical: "x3"
 weight-lb: 12
 damage-type: "Slashing"
 special: ["performance", "reach"]
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/gladiator-weapons/Flying Blade (Item)|Flying Blade (PF1)]]"
 status: draft

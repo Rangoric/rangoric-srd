@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "mounts and related gear"
 price: "100 gp"
 weight: "100 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/animals-mounts-and-related-gear/Cat, Hunting|Cat, Hunting (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Cat (Hunting)|Cat (Hunting) (PF1 F)]]"

@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Equipment"
-book: "Alchemy & Herbalists"
 based-on:
   - "[[individual books/Alchemy & Herbalists v3.5/tables/Table 12 Chymicals & Compounds|Table 12 Chymicals & Compounds (Alchemy & Herbalists)]]"
 status: draft

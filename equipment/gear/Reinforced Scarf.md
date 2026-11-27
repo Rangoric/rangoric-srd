@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "clothing"
 price: "10 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/clothing/Reinforced Scarf|Reinforced Scarf (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Scarf, Reinforced|Scarf, Reinforced (PF1 F)]]"

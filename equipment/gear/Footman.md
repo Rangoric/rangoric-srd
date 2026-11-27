@@ -3,7 +3,6 @@ srd-type: "gear"
 section: "Equipment"
 gear-type: "spellcasting and services"
 price: "5 sp per day"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/lodging-and-services/Footman|Footman (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Service, Footman|Service, Footman (PF1 F)]]"

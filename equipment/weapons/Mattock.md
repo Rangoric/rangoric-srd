@@ -10,7 +10,6 @@ damage-medium: "2d4"
 critical: "x4"
 weight-lb: 12
 damage-type: "Piercing"
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/primitive-armor-and-weapons/Mattock|Mattock (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Mattock|Mattock (PF1 F)]]"

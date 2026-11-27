@@ -1,7 +1,6 @@
 ---
 srd-type: "alchemical-item"
 section: "Equipment"
-book: "Alchemy & Herbalists"
 aliases: ["Maxar’s Antivenom"]
 classification: "Chymical; Special"
 category: ["Chymical"]

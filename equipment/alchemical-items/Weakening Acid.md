@@ -1,7 +1,6 @@
 ---
 srd-type: "alchemical-item"
 section: "Equipment"
-book: "Alchemy & Herbalists"
 aliases: ["Acid of Zarias"]
 classification: "Chymical; Special"
 category: ["Chymical"]

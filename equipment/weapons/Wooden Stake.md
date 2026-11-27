@@ -10,7 +10,6 @@ critical: "x2"
 range-ft: 10
 weight-lb: 1
 damage-type: "Piercing"
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/weapons/Wooden Stake|Wooden Stake (PF1)]]"
 status: draft

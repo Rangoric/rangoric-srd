@@ -12,7 +12,6 @@ range-ft: 80
 weight-lb: 18
 damage-type: "Piercing"
 ammunition: ["[[rangoric-srd/equipment/weapons/Crossbow Bolts|Crossbow Bolts]]"]
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/weapons/Double Crossbow|Double Crossbow (PF1)]]"
 status: draft

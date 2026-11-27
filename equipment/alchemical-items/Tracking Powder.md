@@ -1,7 +1,6 @@
 ---
 srd-type: "alchemical-item"
 section: "Equipment"
-book: "Advanced Class Guide"
 category: ["Alchemical Tool"]
 magical: false
 dc: "25"

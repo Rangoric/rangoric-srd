@@ -17,7 +17,6 @@ What the notes in `equipment/alchemical-items` look like. Expands on [[rangoric-
 | ---------------- | -------- | ------------------------------------------------------------------------ |
 | `srd-type`       | yes      | `alchemical-item`                                                        |
 | `section`        | yes      | `Equipment`                                                              |
-| `book`           | yes      |                                                                          |
 | `category`       | yes      | list of `text`                                                           |
 | `magical`        | yes      | `true`, `false`                                                          |
 | `price`          | no       | `text`                                                                   |
@@ -38,7 +37,6 @@ Headings, in order:
 | ---------- | -------- | ----------- |
 | `srd-type` | yes      | `overview`  |
 | `section`  | yes      | `Equipment` |
-| `book`     | yes      | `text`      |
 
 Headings, in order:
 

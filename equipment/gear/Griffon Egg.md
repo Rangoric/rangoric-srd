@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "mounts and related gear"
 price: "3,500 gp"
 weight: "10 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/animals-mounts-and-related-gear/Griffon Egg|Griffon Egg (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Griffon Egg|Griffon Egg (PF1 F)]]"

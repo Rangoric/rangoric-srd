@@ -13,7 +13,6 @@ critical: "x3"
 weight-lb: 20
 damage-type: "Bludgeoning"
 special: ["reach"]
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/core-race/Longhammer, Dwarven|Longhammer, Dwarven (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Dwarven Longhammer|Dwarven Longhammer (PF1 F)]]"

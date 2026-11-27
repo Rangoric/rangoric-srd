@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "5 cp"
 weight: "1 lb."
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/goods-and-services/Iron Spike|Iron Spike (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Iron Spike|Iron Spike (PF1 F)]]"

@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "food, drink, and lodging"
 price: "10 gp"
 weight: "2 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/food-and-drink/Baijiu|Baijiu (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Baijiu|Baijiu (PF1 F)]]"

@@ -11,7 +11,6 @@ critical: "x2"
 weight-lb: 3
 damage-type: "Bludgeoning"
 special: ["blocking", "double", "monk"]
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/eastern-armor-and-weapons/Bo Staff|Bo Staff (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Bo Staff|Bo Staff (PF1 F)]]"

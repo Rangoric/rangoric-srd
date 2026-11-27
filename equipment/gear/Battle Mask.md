@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "clothing"
 price: "50 gp"
 weight: "2 lb."
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/featured-race/Battle Mask|Battle Mask (PF1)]]"
 status: draft

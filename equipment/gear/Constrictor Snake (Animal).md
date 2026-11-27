@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "mounts and related gear"
 price: "5 gp"
 weight: "60 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/animals-mounts-and-related-gear/Snake, Constrictor (Item)|Snake, Constrictor (Item) (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Snake, Constrictor|Snake, Constrictor (PF1 F)]]"

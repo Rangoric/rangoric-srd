@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "tools and skill kits"
 price: "15 gp"
 weight: "1 lb."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/gear/HypnotistΓÇÖs locket (locket)|Hypnotist’s locket (locket) (PF1 F)]]"
 status: draft

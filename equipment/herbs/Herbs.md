@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Equipment"
-book: "Alchemy & Herbalists"
 based-on:
   - "[[individual books/Alchemy & Herbalists v3.5/rules/Herbal Catalog|Herbal Catalog (Alchemy & Herbalists)]]"
 status: draft

@@ -11,7 +11,6 @@ critical: "x2"
 weight-lb: 1
 damage-type: "Slashing"
 special: ["disarm", "trip", "monk"]
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/eastern-armor-and-weapons/Shang Gou|Shang Gou (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Shang Gou|Shang Gou (PF1 F)]]"

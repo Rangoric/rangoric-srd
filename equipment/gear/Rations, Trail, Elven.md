@@ -6,7 +6,6 @@ aliases:
   - "Elven Trail Rations"
 price: "2 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/food-and-drink/Elven Trail Rations|Elven Trail Rations (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Trail Rations, Elven|Trail Rations, Elven (PF1 F)]]"

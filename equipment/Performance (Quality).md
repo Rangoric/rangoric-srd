@@ -3,7 +3,6 @@ srd-type: "rules"
 section: "Equipment"
 aliases:
   - "performance weapon"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/rules/ultimate-combat/mastering-combat/Gladiator Weapons#Special|Gladiator Weapons (PF1)]]"
   - "[[path srd 3.5/rules/ultimate-equipment/arms-and-armor/Weapons (Arms And Armor)|Weapons (PF1)]]"

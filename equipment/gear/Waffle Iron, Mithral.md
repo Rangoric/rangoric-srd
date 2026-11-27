@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "2,501 gp"
 weight: "2-1/2 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/adventuring-gear/Waffle Iron|Waffle Iron (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Waffle iron, mithral|Waffle iron, mithral (PF1 F)]]"

@@ -11,7 +11,6 @@ critical: "19–20/x2"
 weight-lb: 2
 damage-type: "Piercing"
 special: ["performance"]
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/gladiator-weapons/Quadrens|Quadrens (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Quadrens|Quadrens (PF1 F)]]"

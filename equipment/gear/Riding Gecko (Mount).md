@@ -6,7 +6,6 @@ aliases:
   - "Gecko, Riding"
 price: "300 gp"
 weight: "1,200 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/animals-mounts-and-related-gear/Gecko, Riding|Gecko, Riding (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Gecko, riding|Gecko, riding (PF1 F)]]"

@@ -17,7 +17,6 @@ speed: "0 ft."
 hardness: 5
 hp: 200
 ammunition: "50 gp, 30 lb. per bolt"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/items/siege-engines/Ballista|Ballista (PF1)]]"
 status: draft

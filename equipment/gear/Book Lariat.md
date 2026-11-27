@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "3 sp"
 weight: "1/2 lb."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/adventuring-gear/Book Lariat|Book Lariat (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Book lariat|Book lariat (PF1 F)]]"

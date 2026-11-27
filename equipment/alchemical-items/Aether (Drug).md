@@ -1,7 +1,6 @@
 ---
 srd-type: "alchemical-item"
 section: "Equipment"
-book: "Game Mastery Guide"
 category: ["Drug"]
 magical: false
 dc: "16"

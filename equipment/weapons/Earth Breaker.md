@@ -10,7 +10,6 @@ damage-medium: "2d6"
 critical: "x3"
 weight-lb: 14
 damage-type: "Bludgeoning"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/weapons/Earth Breaker|Earth Breaker (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Earth Breaker|Earth Breaker (PF1 F)]]"

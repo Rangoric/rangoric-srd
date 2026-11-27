@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "mounts and related gear"
 price: "60 gp"
 weight: "960 lb."
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/goods-and-services/Cage|Cage (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Cage, huge|Cage, huge (PF1 F)]]"

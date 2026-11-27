@@ -1,7 +1,6 @@
 ---
 srd-type: "herb"
 section: "Equipment"
-book: "Alchemy & Herbalists"
 rarity: "Uncommon"
 environment: "MPD"
 harvest: "Annual (harvest in early winter)"

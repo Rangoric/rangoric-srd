@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "special substances and items"
 price: "50 gp"
 weight: "—"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/uncommon-race/Poison Tattoo|Poison Tattoo (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Poison Tattoo|Poison Tattoo (PF1 F)]]"

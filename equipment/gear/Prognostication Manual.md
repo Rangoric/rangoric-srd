@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "tools and skill kits"
 price: "30 gp"
 weight: "3 lb."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/gear/Prognostication Manual|Prognostication Manual (PF1 F)]]"
 status: draft

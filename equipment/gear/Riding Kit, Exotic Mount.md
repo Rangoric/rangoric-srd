@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "36 gp"
 weight: "59 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/adventuring-gear/Riding Kit|Riding Kit (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Kit, Riding (exotic mount)|Kit, Riding (exotic mount) (PF1 F)]]"

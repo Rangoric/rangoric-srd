@@ -10,7 +10,6 @@ damage-medium: "1d8"
 critical: "x3"
 weight-lb: 2
 damage-type: "Piercing"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/featured-race/Kobold Tail Attachments|Kobold Tail Attachments (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Kobold Tail Attachment (Spiked)|Kobold Tail Attachment (Spiked) (PF1 F)]]"

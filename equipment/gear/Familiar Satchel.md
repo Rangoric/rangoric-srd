@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "25 gp"
 weight: "6 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/adventuring-gear/Familiar Satchel|Familiar Satchel (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Familiar Satchel|Familiar Satchel (PF1 F)]]"

@@ -11,7 +11,6 @@ critical: "x2/x3"
 weight-lb: 8
 damage-type: "Bludgeoning or piercing"
 special: ["double"]
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/primitive-armor-and-weapons/Taiaha|Taiaha (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Taiaha|Taiaha (PF1 F)]]"

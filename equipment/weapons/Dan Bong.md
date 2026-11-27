@@ -11,7 +11,6 @@ critical: "19–20/x2"
 range-ft: 10
 damage-type: "Bludgeoning"
 special: ["blocking", "monk"]
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/eastern-armor-and-weapons/Dan Bong|Dan Bong (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Dan Bong|Dan Bong (PF1 F)]]"

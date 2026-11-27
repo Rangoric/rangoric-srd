@@ -1,7 +1,6 @@
 ---
 srd-type: "alchemical-item"
 section: "Equipment"
-book: "Alchemy & Herbalists"
 classification: "Herbal Restorative/Ingestible; Special"
 category: ["Herbal Restorative", "Ingestible"]
 magical: false

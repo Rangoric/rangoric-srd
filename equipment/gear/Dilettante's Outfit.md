@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "clothing"
 price: "20 gp"
 weight: "8 lb."
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/core-race/Dilettante's Outfit|Dilettante's Outfit (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Dilettante's Outfit|Dilettante's Outfit (PF1 F)]]"

@@ -1,7 +1,6 @@
 ---
 srd-type: "herb"
 section: "Equipment"
-book: "Alchemy & Herbalists"
 aliases: ["Rose of Mages"]
 rarity: "Rare (nearly exclusive to cultivated forms in exact locales)"
 environment: "Wizards’ gardens (cultivated) or temperate mountains (wild)"

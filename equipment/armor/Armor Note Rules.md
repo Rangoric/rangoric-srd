@@ -29,7 +29,6 @@ What the notes in `equipment/armor` look like. Expands on [[rangoric-srd/equipme
 | `speed-20`         | no       | `number`                                      |
 | `dr-armor-bonus`   | no       | `number`                                      |
 | `damage-reduction` | no       | `1/–`, `2/–`, `3/–`, `none`, `4/–`, `6/–`     |
-| `book`             | no       |                                               |
 
 Headings, in order:
 

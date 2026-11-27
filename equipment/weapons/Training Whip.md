@@ -13,7 +13,6 @@ critical: "x2"
 weight-lb: 2
 damage-type: "Slashing"
 special: ["disarm", "nonlethal", "reach", "trip"]
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/core-race/Whip, Training|Whip, Training (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Whip, Training|Whip, Training (PF1 F)]]"

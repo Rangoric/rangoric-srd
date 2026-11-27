@@ -1,7 +1,6 @@
 ---
 srd-type: "alchemical-item"
 section: "Equipment"
-book: "Advanced Class Guide"
 classification: "Remedy"
 category: ["Remedy"]
 magical: false

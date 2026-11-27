@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "20 gp"
 weight: "10 lb."
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/goods-and-services/Swarmsuit|Swarmsuit (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Swarmsuit|Swarmsuit (PF1 F)]]"

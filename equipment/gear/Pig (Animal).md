@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "mounts and related gear"
 price: "3–10 gp"
 weight: "100–300 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/animals-mounts-and-related-gear/Pig|Pig (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Pig (Item)|Pig (Item) (PF1 F)]]"

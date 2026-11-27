@@ -11,7 +11,6 @@ crew: 6
 speed: "15 ft."
 hardness: 5
 hp: 60
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/items/siege-engines/Siege Tower|Siege Tower (PF1)]]"
 status: draft

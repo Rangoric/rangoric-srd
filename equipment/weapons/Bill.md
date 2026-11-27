@@ -11,7 +11,6 @@ critical: "x3"
 weight-lb: 11
 damage-type: "Slashing"
 special: ["blocking", "brace", "disarm", "reach"]
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/weapons/Bill|Bill (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Bill|Bill (PF1 F)]]"

@@ -12,7 +12,6 @@ range-ft: 10
 damage-type: "Piercing"
 special: ["monk"]
 quantity: 5
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/eastern-armor-and-weapons/Wushu Dart|Wushu Dart (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Wushu Dart|Wushu Dart (PF1 F)]]"

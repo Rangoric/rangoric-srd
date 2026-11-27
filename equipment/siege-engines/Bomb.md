@@ -7,7 +7,6 @@ price: "600 gp"
 price-gp: 600
 weight: "30 lb."
 used-with: ["Catapults", "Trebuchets"]
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/items/siege-engines/Bomb|Bomb (PF1)]]"
 status: draft

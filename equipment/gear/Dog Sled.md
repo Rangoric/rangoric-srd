@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "transport"
 price: "20 gp"
 weight: "300 lb."
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/goods-and-services/Dog Sled|Dog Sled (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Vehicle, Dog sled|Vehicle, Dog sled (PF1 F)]]"

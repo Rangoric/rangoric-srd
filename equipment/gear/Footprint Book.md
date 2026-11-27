@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "tools and skill kits"
 price: "50 gp"
 weight: "3 lb."
-book: ["Advanced Player's Guide", "Advanced Class Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/goods-and-services/Footprint Book|Footprint Book (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Footprint book|Footprint book (PF1 F)]]"

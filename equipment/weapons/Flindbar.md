@@ -11,7 +11,6 @@ critical: "x2"
 weight-lb: 6
 damage-type: "Bludgeoning and piercing"
 special: ["trip", "disarm"]
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/items/misc/Flindbar|Flindbar (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Flindbar|Flindbar (PF1 F)]]"

@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "tools and skill kits"
 price: "800 gp"
 weight: "35 lb."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/gear/Portable Solarium|Portable Solarium (PF1 F)]]"
 status: draft

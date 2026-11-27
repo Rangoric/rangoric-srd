@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "100 gp"
 weight: "—"
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/adventuring-gear/Hunter's Sight|Hunter's Sight (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Hunter's sight|Hunter's sight (PF1 F)]]"

@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "tools and skill kits"
 price: "2 gp"
 weight: "10 lb."
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/items/goods-and-services/Pulley|Pulley (PF1)]]"
 status: draft

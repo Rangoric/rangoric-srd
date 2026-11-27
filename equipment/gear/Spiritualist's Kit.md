@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "50 gp"
 weight: "34 lb."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/gear/Kit, Spiritualist's|Kit, Spiritualist's (PF1 Foundry)]]"
 status: draft

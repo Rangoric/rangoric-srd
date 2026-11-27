@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "mounts and related gear"
 price: "50 gp"
 weight: "50 lb."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/items/misc/Riding Rat|Riding Rat (PF1)]]"
 status: draft

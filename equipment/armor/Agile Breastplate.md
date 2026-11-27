@@ -11,7 +11,6 @@ spell-failure: 25
 speed-30: 20
 speed-20: 15
 weight-lb: 25
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/armor/Agile Breastplate|Agile Breastplate (PF1)]]"
   - "[[path srd 3.5 foundry/items/armor/Agile Breastplate|Agile Breastplate (PF1 F)]]"

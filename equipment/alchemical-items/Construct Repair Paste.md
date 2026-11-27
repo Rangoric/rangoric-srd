@@ -1,7 +1,6 @@
 ---
 srd-type: "alchemical-item"
 section: "Equipment"
-book: "Alchemy & Herbalists"
 aliases: ["Zarias’ Paste"]
 classification: "Herbal Restorative/Unguent; Special"
 category: ["Herbal Restorative", "Unguent"]

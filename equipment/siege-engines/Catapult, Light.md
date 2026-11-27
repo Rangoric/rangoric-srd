@@ -19,7 +19,6 @@ targeting-dc: 15
 hardness: 5
 hp: 50
 ammunition: "10 gp, 50 lb. per stone"
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/items/siege-engines/Catapult|Catapult (PF1)]]"
 status: draft

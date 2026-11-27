@@ -1,7 +1,6 @@
 ---
 srd-type: "herb"
 section: "Equipment"
-book: "Alchemy & Herbalists"
 aliases: ["Citron"]
 rarity: "Rare"
 environment: "Any warm hills or plains"

@@ -1,7 +1,6 @@
 ---
 srd-type: "alchemical-item"
 section: "Equipment"
-book: "Alchemy & Herbalists"
 aliases: ["Tragar’s Lotion"]
 classification: "Herbal Restorative/Unguent; Special"
 category: ["Herbal Restorative", "Unguent"]

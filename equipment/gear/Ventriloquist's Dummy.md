@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "tools and skill kits"
 price: "100 gp"
 weight: "7 lb."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/gear/Ventriloquist's Dummy|Ventriloquist's Dummy (PF1 F)]]"
 status: draft

@@ -6,7 +6,6 @@ caster-level: 13
 role: "Diviner"
 price: "6,705 gp"
 price-with-ritual: "8,355 gp"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/rules/ultimate-magic/mastering-magic/Spellbooks|Quest Eternal (PF1 Ultimate Magic)]]"
 status: draft

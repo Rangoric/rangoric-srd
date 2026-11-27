@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "clothing"
 price: "2 sp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/clothing/Kilt|Kilt (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Kilt|Kilt (PF1 F)]]"

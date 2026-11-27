@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "transport"
 price: "500 gp"
 weight: "—"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/animals-mounts-and-related-gear/Ship's Boat|Ship's Boat (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Vehicle, Ship's boat|Vehicle, Ship's boat (PF1 F)]]"

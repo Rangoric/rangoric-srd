@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "300 gp"
 weight: "2 lb."
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/featured-race/Celestial Lamp|Celestial Lamp (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Celestial lamp|Celestial lamp (PF1 F)]]"

@@ -1,7 +1,6 @@
 ---
 srd-type: "alchemical-item"
 section: "Equipment"
-book: "Alchemy & Herbalists"
 classification: "Wondrous Item; Magical"
 category: ["Wondrous Item"]
 magical: true

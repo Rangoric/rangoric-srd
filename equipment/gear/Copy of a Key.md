@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "1 gp"
 weight: "—"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/adventuring-gear/Copy of a Key|Copy of a Key (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Copy of a key|Copy of a key (PF1 F)]]"

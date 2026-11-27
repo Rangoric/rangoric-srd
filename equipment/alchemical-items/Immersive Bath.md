@@ -1,7 +1,6 @@
 ---
 srd-type: "alchemical-item"
 section: "Equipment"
-book: "Alchemy & Herbalists"
 aliases: ["Tarasta’s Immersive"]
 classification: "Herbal Restorative/Erlcana; Special"
 category: ["Herbal Restorative", "Erlcana"]

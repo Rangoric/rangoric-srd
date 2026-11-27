@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Equipment"
-book: "Faeries"
 based-on:
   - "[[fantasy srd 3.5/equipment/Special Materials|Special Materials (3.5)]]"
   - "[[individual books/Arms & Armor v3.5/materials/Tensile Mercury|Tensile Mercury (Arms & Armor)]]"

@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "mounts and related gear"
 price: "40 gp"
 weight: "2 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/animals-mounts-and-related-gear/Falcon|Falcon (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Falcon (Item)|Falcon (Item) (PF1 F)]]"

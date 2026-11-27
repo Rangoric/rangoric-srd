@@ -10,7 +10,6 @@ damage-medium: "1d6"
 critical: "x2"
 weight-lb: 4
 damage-type: "Piercing"
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/weapons/Sword Cane|Sword Cane (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Sword Cane|Sword Cane (PF1 F)]]"

@@ -1,7 +1,6 @@
 ---
 srd-type: "alchemical-item"
 section: "Equipment"
-book: "Advanced Race Guide"
 category: ["Alchemical Remedy"]
 magical: false
 dc: "20"

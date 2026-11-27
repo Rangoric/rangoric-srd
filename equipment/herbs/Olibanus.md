@@ -1,7 +1,6 @@
 ---
 srd-type: "herb"
 section: "Equipment"
-book: "Alchemy & Herbalists"
 aliases: ["Frankincense"]
 rarity: "Uncommon"
 environment: "Any warm plains or forests"

@@ -10,7 +10,6 @@ cost-gp: 1
 weight-lb: 0.5
 quantity: 10
 used-with: "tube arrow shooters"
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/eastern-armor-and-weapons/Bamboo Shaft Arrow|Bamboo Shaft Arrow (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Bamboo Shaft Arrows|Bamboo Shaft Arrows (PF1 F)]]"

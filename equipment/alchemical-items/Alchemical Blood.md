@@ -1,7 +1,6 @@
 ---
 srd-type: "alchemical-item"
 section: "Equipment"
-book: "Monster Codex"
 category: ["Alchemical Remedy"]
 magical: false
 dc: "40"

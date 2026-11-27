@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "1,000 gp"
 weight: "500 lb."
-book: "Advanced Class Guide"
 based-on:
   - "[[path srd 3.5/items/adventuring-gear/Mobile Hospital|Mobile Hospital (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Kit, Mobile hospital|Kit, Mobile hospital (PF1 F)]]"

@@ -11,7 +11,6 @@ critical: "x2"
 weight-lb: 3
 damage-type: "Slashing"
 special: ["disarm"]
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/weapons/Swordbreaker Dagger|Swordbreaker Dagger (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Swordbreaker Dagger|Swordbreaker Dagger (PF1 F)]]"

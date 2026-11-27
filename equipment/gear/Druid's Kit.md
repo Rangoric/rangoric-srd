@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "14 gp"
 weight: "44 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/adventuring-gear/Druid's Kit|Druid's Kit (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Kit, Druid's|Kit, Druid's (PF1 F)]]"

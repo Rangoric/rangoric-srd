@@ -6,7 +6,6 @@ aliases:
   - "Orc Trail Rations"
 price: "1 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/food-and-drink/Orc Trail Rations|Orc Trail Rations (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Trail Rations, Orc|Trail Rations, Orc (PF1 F)]]"

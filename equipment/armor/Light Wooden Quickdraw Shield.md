@@ -8,7 +8,6 @@ armor-bonus: 1
 check-penalty: -2
 spell-failure: 5
 weight-lb: 6
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/armor/Light Wooden Quickdraw Shield|Light Wooden Quickdraw Shield (PF1)]]"
   - "[[path srd 3.5/items/armor/Quickdraw Shield, Light Wooden or Steel|Quickdraw Shield, Light Wooden or Steel (PF1)]]"

@@ -1,7 +1,6 @@
 ---
 srd-type: "alchemical-item"
 section: "Equipment"
-book: "Alchemy & Herbalists"
 aliases: ["Bloodiron"]
 classification: "Alchana; Special"
 category: ["Alchana"]

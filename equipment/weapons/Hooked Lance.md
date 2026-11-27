@@ -11,7 +11,6 @@ critical: "x4"
 weight-lb: 10
 damage-type: "Piercing"
 special: ["reach", "trip"]
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/eastern-armor-and-weapons/Hooked Lance|Hooked Lance (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Hooked Lance|Hooked Lance (PF1 F)]]"

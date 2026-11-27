@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "mounts and related gear"
 price: "8 gp"
 weight: "12 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/animals-mounts-and-related-gear/Fox|Fox (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Fox (Item)|Fox (Item) (PF1 F)]]"

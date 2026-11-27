@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "1 gp"
 weight: "5 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/adventuring-gear/Waffle Iron|Waffle Iron (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Waffle iron, common|Waffle iron, common (PF1 F)]]"

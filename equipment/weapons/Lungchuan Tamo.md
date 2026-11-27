@@ -12,7 +12,6 @@ range-ft: 10
 weight-lb: 1
 damage-type: "Piercing or slashing"
 special: ["monk"]
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/eastern-armor-and-weapons/Lungchuan Tamo|Lungchuan Tamo (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Lungchuan Tamo|Lungchuan Tamo (PF1 F)]]"

@@ -7,7 +7,6 @@ category: "ammunition"
 cost-gp: 20
 weight-lb: 4
 used-with: "slaver's crossbows"
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/items/misc/Bolas Bolts|Bolas Bolts (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Bolas Bolt|Bolas Bolt (PF1 F)]]"

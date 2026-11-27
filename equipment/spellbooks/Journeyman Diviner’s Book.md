@@ -6,7 +6,6 @@ caster-level: 9
 role: "Diviner"
 price: "1,195 gp"
 price-with-ritual: "2,320 gp"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/rules/ultimate-magic/mastering-magic/Spellbooks|Journeyman Book of Rul Thaven (PF1 Ultimate Magic)]]"
 status: draft

@@ -1,7 +1,6 @@
 ---
 srd-type: "alchemical-item"
 section: "Equipment"
-book: "Alchemy & Herbalists"
 aliases: ["Denharil’s Doorjamb"]
 classification: "Powder; Special"
 category: ["Powder"]

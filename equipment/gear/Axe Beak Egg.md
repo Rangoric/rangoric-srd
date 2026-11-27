@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "mounts and related gear"
 price: "1,000 gp"
 weight: "10 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/animals-mounts-and-related-gear/Axe Beak Egg|Axe Beak Egg (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Axe Beak Egg|Axe Beak Egg (PF1 F)]]"

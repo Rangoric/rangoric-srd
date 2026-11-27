@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "clothing"
 price: "8 gp"
 weight: "4 lb."
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/goods-and-services/Hot Weather Outfit|Hot Weather Outfit (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Hot Weather Outfit|Hot Weather Outfit (PF1 F)]]"

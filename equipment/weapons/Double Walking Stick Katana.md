@@ -13,7 +13,6 @@ critical: "19–20/x2"
 weight-lb: 6
 damage-type: "Slashing"
 special: ["double"]
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/eastern-armor-and-weapons/Katana, Double Walking Stick|Katana, Double Walking Stick (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Double Walking Stick Katana|Double Walking Stick Katana (PF1 F)]]"

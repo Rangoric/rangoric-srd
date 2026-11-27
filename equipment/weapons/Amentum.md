@@ -12,7 +12,6 @@ range-ft: 50
 weight-lb: 1
 damage-type: "Piercing"
 special: ["performance"]
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/gladiator-weapons/Amentum|Amentum (PF1)]]"
 status: draft

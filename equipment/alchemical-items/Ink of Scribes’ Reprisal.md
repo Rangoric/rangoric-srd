@@ -1,7 +1,6 @@
 ---
 srd-type: "alchemical-item"
 section: "Equipment"
-book: "Alchemy & Herbalists"
 classification: "Chymical/Toxin; Special"
 category: ["Chymical", "Toxin"]
 magical: false

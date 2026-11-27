@@ -1,7 +1,6 @@
 ---
 srd-type: "alchemical-item"
 section: "Equipment"
-book: "Alchemy & Herbalists"
 aliases:
   - "Cocoon Swathe of Protection"
 classification: "Erlcana, Greater; Special"

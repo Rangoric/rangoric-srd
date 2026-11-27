@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "transport"
 price: "100 gp"
 weight: "—"
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/animals-mounts-and-related-gear/Chariot|Chariot (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Vehicle, Chariot (medium)|Vehicle, Chariot (medium) (PF1 F)]]"

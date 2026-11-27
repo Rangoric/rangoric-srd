@@ -7,7 +7,6 @@ size: "Huge"
 price: "10 gp"
 price-gp: 10
 hp: 60
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/items/siege-engines/Bridge, Assault|Bridge, Assault (PF1)]]"
 status: draft

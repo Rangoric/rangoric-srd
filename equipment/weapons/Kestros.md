@@ -12,7 +12,6 @@ range-ft: 50
 weight-lb: 1
 damage-type: "Piercing"
 ammunition: ["[[rangoric-srd/equipment/weapons/Kestros Dart|Kestros Dart]]"]
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/primitive-armor-and-weapons/Kestros|Kestros (PF1)]]"
 status: draft

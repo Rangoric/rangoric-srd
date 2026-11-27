@@ -21,7 +21,6 @@ What the notes in `equipment/siege-engines` look like. Expands on [[rangoric-srd
 | `category`     | yes      | `Close Assault`, `Indirect-Fire`, `Direct-Fire`                            |
 | `price`        | yes      | `text`                                                                     |
 | `price-gp`     | yes      | `number`                                                                   |
-| `book`         | yes      | `text`                                                                     |
 | `size`         | no       | `Huge`, `Gargantuan`, `Large`, `Colossal`                                  |
 | `hp`           | no       |                                                                            |
 | `crew`         | no       | `number`                                                                   |
@@ -53,7 +52,6 @@ Headings, in order:
 | `price`      | yes      | `200 gp`, `250 gp`, `30 gp`, `400 gp`, `50 gp`, `600 gp`, `80 gp`                                   |
 | `price-gp`   | yes      | `number`                                                                                            |
 | `weight`     | yes      | `20 lb.`, `30 lb.`, `10 lb.`, `25 lb.`                                                              |
-| `book`       | yes      | `text`                                                                                              |
 | `used-with`  | no       | list of `text`                                                                                      |
 
 Headings, in order:

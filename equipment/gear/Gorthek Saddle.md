@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "mounts and related gear"
 price: "50 gp"
 weight: "75 lb."
-book: "Monster Codex"
 based-on:
   - "[[path srd 3.5/items/misc/Gorthek Saddle|Gorthek Saddle (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Gorthek saddle|Gorthek saddle (PF1 F)]]"

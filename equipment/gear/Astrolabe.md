@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "tools and skill kits"
 price: "1,000 gp"
 weight: "6 lb."
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/goods-and-services/Astrolabe|Astrolabe (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Astrolabe|Astrolabe (PF1 F)]]"

@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "35 gp"
 weight: "26-1/2 lb."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/gear/Kit, Mesmerist's|Kit, Mesmerist's (PF1 Foundry)]]"
 status: draft

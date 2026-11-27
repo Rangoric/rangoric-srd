@@ -9,7 +9,6 @@ cost-gp: 100
 weight-lb: 3
 quantity: 5
 used-with: "crossbows"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/featured-race/Heartstake Bolts|Heartstake Bolts (PF1)]]"
 status: draft

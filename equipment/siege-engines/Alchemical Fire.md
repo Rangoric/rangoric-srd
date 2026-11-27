@@ -7,7 +7,6 @@ price: "200 gp"
 price-gp: 200
 weight: "10 lb."
 used-with: ["Catapults", "Trebuchets"]
-book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/items/siege-engines/Alchemical Fire|Alchemical Fire (PF1)]]"
 status: draft

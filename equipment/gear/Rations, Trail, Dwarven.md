@@ -6,7 +6,6 @@ aliases:
   - "Dwarven Trail Rations"
 price: "2 gp"
 weight: "1-1/2 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/food-and-drink/Dwarven Trail Rations|Dwarven Trail Rations (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Trail Rations, Dwarven|Trail Rations, Dwarven (PF1 F)]]"

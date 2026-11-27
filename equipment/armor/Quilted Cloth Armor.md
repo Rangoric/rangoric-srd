@@ -13,7 +13,6 @@ spell-failure: 10
 speed-30: 30
 speed-20: 20
 weight-lb: 15
-book: ["Advanced Player's Guide", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/armor/Quilted Cloth|Quilted Cloth (PF1)]]"
   - "[[path srd 3.5 foundry/items/armor/Quilted Cloth|Quilted Cloth (PF1 F)]]"

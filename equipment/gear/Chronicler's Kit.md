@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "adventuring gear"
 price: "40 gp"
 weight: "4-1/2 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/adventuring-gear/Chronicler's Kit|Chronicler's Kit (PF1)]]"
 status: draft

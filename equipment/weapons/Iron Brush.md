@@ -10,7 +10,6 @@ damage-medium: "1d3"
 critical: "x2"
 range-ft: 10
 damage-type: "Piercing"
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/eastern-armor-and-weapons/Iron Brush|Iron Brush (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Iron Brush|Iron Brush (PF1 F)]]"

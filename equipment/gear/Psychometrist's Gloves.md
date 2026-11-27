@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "tools and skill kits"
 price: "10 gp"
 weight: "5 lb."
-book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5 foundry/items/gear/Psychometrist's Gloves|Psychometrist's Gloves (PF1 F)]]"
 status: draft

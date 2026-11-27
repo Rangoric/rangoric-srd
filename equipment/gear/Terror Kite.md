@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "entertainment"
 price: "20 gp"
 weight: "—"
-book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/items/featured-race/Terror Kite|Terror Kite (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Terror kite|Terror kite (PF1 F)]]"

@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "clothing"
 price: "1 sp–50 gp"
 weight: "1 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/clothing/Mask|Mask (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Mask (Item)|Mask (Item) (PF1 F)]]"

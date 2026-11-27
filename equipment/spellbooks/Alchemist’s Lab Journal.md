@@ -6,7 +6,6 @@ caster-level: 5
 role: "Alchemist"
 price: "280 gp"
 price-with-ritual: "655 gp"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/rules/ultimate-magic/mastering-magic/Spellbooks|Lab Journal of Constance Inflix (PF1 Ultimate Magic)]]"
 status: draft

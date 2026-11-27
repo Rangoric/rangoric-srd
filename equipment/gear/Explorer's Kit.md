@@ -6,7 +6,6 @@ aliases:
   - "Pathfinder's Kit"
 price: "12 gp"
 weight: "22 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/adventuring-gear/Pathfinder's Kit|Pathfinder's Kit (PF1)]]"
 status: draft

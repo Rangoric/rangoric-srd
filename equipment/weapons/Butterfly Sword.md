@@ -11,7 +11,6 @@ critical: "19–20/x2"
 weight-lb: 1
 damage-type: "Slashing"
 special: ["monk"]
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/eastern-armor-and-weapons/Butterfly Sword|Butterfly Sword (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Butterfly Sword|Butterfly Sword (PF1 F)]]"

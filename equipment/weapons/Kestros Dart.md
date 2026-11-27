@@ -6,7 +6,6 @@ category: "ammunition"
 cost-gp: 5
 weight-lb: 5
 quantity: 10
-book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/primitive-armor-and-weapons/Kestros Dart|Kestros Dart (PF1)]]"
   - "[[path srd 3.5 foundry/items/weapons/Kestros Dart|Kestros Dart (PF1 F)]]"

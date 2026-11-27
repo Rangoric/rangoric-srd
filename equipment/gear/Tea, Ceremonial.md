@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "food, drink, and lodging"
 price: "4 cp"
 weight: "1/2 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/food-and-drink/Tea|Tea (PF1)]]"
   - "[[path srd 3.5 foundry/items/goods-and-services/Tea (Ceremonial, Cup)|Tea (Ceremonial, Cup) (PF1 F)]]"

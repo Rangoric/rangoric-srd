@@ -4,7 +4,6 @@ section: "Equipment"
 gear-type: "mounts and related gear"
 price: "8,000 gp"
 weight: "500 lb."
-book: "Ultimate Equipment"
 based-on:
   - "[[path srd 3.5/items/animals-mounts-and-related-gear/Griffon (Item)|Griffon (Item) (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Griffon (combat trained)|Griffon (combat trained) (PF1 F)]]"
