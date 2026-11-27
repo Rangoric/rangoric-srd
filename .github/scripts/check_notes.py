@@ -23,6 +23,10 @@
   Note rules but rules/Saving Throws.md and unearthed-arcana/ says "save DC", "DC 15 Reflex save", "Reflex DC 15",
   "Reflex save for half" or "makes a saving throw" (SAVE_WORDING), outside code and comments. Base save progressions
   ("good Fortitude saves") and a creature's own "Reflex check (1d20 + Reflex save bonus)" don't match.
+- Edition names: the SRD's text doesn't name the rulesets it came from (Edition Labels on Main, 2026-11-26), so a
+  changed note's text has no "(3.5)", "(Pathfinder)" or "(PF1)", and no bare Pathfinder, 3.5 or 3.0 (EDITION).
+  Frontmatter, link targets and numbers ("d6 | 3.5", "3.5 for d6 HD") are skipped; legal/, the Changelog, the
+  Note Rules notes and Rangoric SRD's sources table are exempt.
 - Regeneration: every creature with regeneration names what stops it (Regeneration Pass, 2026-11-27), so a note in
   monsters/ but monsters/abilities/ has no "regeneration N" without a parenthesis after it ("regeneration 5 (acid or
   fire)"), in its frontmatter (but based-on) or its text outside code and comments (REGEN_UNNAMED).
@@ -41,7 +45,8 @@
   added by the change (--added) can't be marked.
 
 With --changed, a link problem fails the check only in a changed note; the rest are printed as warnings, so a PR
-is held to its own notes. Frontmatter and note-rule problems fail anywhere. Exit 1 on a failure.
+is held to its own notes, and so is an edition name. Frontmatter and note-rule problems fail anywhere. Exit 1
+on a failure.
 
 --baseline marks every note (in --folder only, if given) that breaks a rule, and drops the marks from notes with
 no problems left, writing frontmatter through frontmatter.py (a copy of the workshop's tools/frontmatter.py), so a
@@ -475,6 +480,29 @@ def regeneration_unnamed(rel, data, body):
     return [f'regeneration names nothing: {m.group(0)}' for m in REGEN_UNNAMED.finditer(text)]
 
 
+EDITION = re.compile(r"\((?:Pathfinder|3\.5|PF1)\)|\bPathfinder(?:’s|'s)?\b"
+                     r"|(?<![\d.|])\b3\.[05](?:’s|'s)?(?=[\s’'*]|$)(?! for d)")
+
+
+def edition_names(rel, body):
+    """Edition names in a note's text (Edition Labels on Main): what a reader sees, link targets dropped, rows of
+    numbers skipped. legal/, the Changelog, the Note Rules notes and Rangoric SRD's sources table are exempt."""
+    if rel.startswith('legal/') or rel == 'Changelog.md' or rel.endswith(' Note Rules.md'):
+        return []
+    out, skip = [], False
+    for line in body.split('\n'):
+        if rel == 'Rangoric SRD.md' and line.startswith('## '):
+            skip = line.strip() == '## Sources it draws from'
+        if skip:
+            continue
+        vis = re.sub(r'\[\[[^\]|]*\\?\|', '[[', line)
+        vis = re.sub(r'\[\[[^\]|]*/([^\]|/]*)\]\]', r'[[\1]]', vis)
+        if vis.lstrip().startswith('|') and re.fullmatch(r'[|\s\w.*]+', vis) and not re.search('[A-Za-z]{3}', vis):
+            continue   # a row of numbers
+        out += [f'edition name: {m.group(0)} -- {vis.strip()[:80]}' for m in EDITION.finditer(vis)]
+    return out
+
+
 def rule_problems(rel, data, body):
     """The note's problems against the written rules, in the checker's words (also its sweep-issues lines)."""
     if exempt(rel):
@@ -535,6 +563,7 @@ for rel in sorted(f for f in files if f.endswith('.md')):
                 links.append(f'{rel}: frontmatter link has no target: [[{m.group(1)}]]')
 
     found = rule_problems(rel, data, body)
+    links.extend(f'{rel}: {p}' for p in edition_names(rel, body))
     marked = data.get('sweep') == 'failing'
     listed = data.get('sweep-issues') or []
     listed = [str(x) for x in listed] if isinstance(listed, list) else [str(listed)]
