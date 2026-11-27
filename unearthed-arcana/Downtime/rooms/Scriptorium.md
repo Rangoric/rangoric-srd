@@ -7,10 +7,7 @@ earnings: "gp, Goods, Influence, Labor, or Magic +5"
 benefit: "counts as masterwork artisan's tools for writing skills"
 time: "16 days"
 size: "5-16 squares"
-based-on:
-  - "[[path srd 3.5/downtime/Scriptorium|Scriptorium (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-room]
 ---

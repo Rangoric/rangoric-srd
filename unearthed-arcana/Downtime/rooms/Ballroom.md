@@ -8,10 +8,7 @@ earnings: "gp or Influence +10"
 benefit: "bonus on Performance checks"
 time: "40 days"
 size: "40-60 squares"
-based-on:
-  - "[[path srd 3.5/downtime/Ballroom|Ballroom (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-room]
 ---

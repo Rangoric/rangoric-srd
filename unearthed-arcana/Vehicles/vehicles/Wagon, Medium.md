@@ -21,10 +21,7 @@ driving-device: "reins"
 driving-space: "the most forward square of the wagon"
 decks: "1"
 part-of: "[[rangoric-srd/unearthed-arcana/Vehicles/Land Vehicles|Land Vehicles]]"
-based-on:
-  - "[[path srd 3.5/vehicles/Wagon, Medium|Wagon, Medium (PF1 Ultimate Combat)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/vehicle]
 ---

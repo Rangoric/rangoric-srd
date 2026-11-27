@@ -4,10 +4,7 @@ section: "Races"
 race: "[[rangoric-srd/races/Half-Orc|Half-Orc]]"
 replaces: "intimidating and orc ferocity"
 race-points: 1
-based-on:
-  - "[[path srd 3.5/rules/advanced-player-s-guide/races/Half-Orcs (Races)|Half-Orcs (APG)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/racial-trait, racial-trait/defense, racial-trait/standard]
 ---

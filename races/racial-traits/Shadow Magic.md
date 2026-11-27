@@ -4,10 +4,7 @@ section: "Races"
 race: "[[rangoric-srd/races/Fetchling|Fetchling]]"
 replaces: "skilled"
 race-points: 2
-based-on:
-  - "[[path srd 3.5/races/Fetchlings#Alternate Racial Traits|Fetchlings (ARG)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/racial-trait, racial-trait/magical, racial-trait/standard]
 ---

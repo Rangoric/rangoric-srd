@@ -6,10 +6,7 @@ earnings: "Influence +3"
 benefit: "counts as a permanent fixture dedicated to your deity for the purpose of consecrate and similar spells"
 time: "4 days"
 size: "2-8 squares"
-based-on:
-  - "[[path srd 3.5/downtime/Altar|Altar (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-room]
 ---

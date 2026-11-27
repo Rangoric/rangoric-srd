@@ -5,10 +5,7 @@ bp: "5"
 special: "Can share a lot with any building or improvement"
 settlement: "Crime -1"
 resource-limit: "Settlement must have a Cathedral, Magic Shop, Magical Academy, or Temple"
-based-on:
-  - "[[path srd 3.5/kingdom/Magical Streetlamps|Magical Streetlamps (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/kingdom-building]
 ---

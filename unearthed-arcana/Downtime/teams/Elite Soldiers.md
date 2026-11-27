@@ -7,10 +7,7 @@ resource-create: "5 Goods, 3 Influence, 7 Labor (330 gp)"
 earnings: "gp, Influence, or Labor +6"
 time: "5 days"
 size: "5 people"
-based-on:
-  - "[[path srd 3.5/downtime/Elite Soldiers|Elite Soldiers (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-team]
 ---

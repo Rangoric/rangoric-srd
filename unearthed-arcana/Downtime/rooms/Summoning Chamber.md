@@ -6,10 +6,7 @@ earnings: "Magic +3"
 benefit: "bonus on Charisma, Persuasion, Intimidation, and Theology checks"
 time: "28 days"
 size: "6-16 squares"
-based-on:
-  - "[[path srd 3.5/downtime/Summoning Chamber|Summoning Chamber (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-room]
 ---

@@ -4,10 +4,7 @@ section: "Unearthed Arcana"
 bp: "5"
 special: "Can share lot with Castle, Cathedral, Market, Monument, Park, or Town Hall"
 resource-limit: "Settlement must have a building that can create medium magic items"
-based-on:
-  - "[[path srd 3.5/kingdom/Everflowing Spring|Everflowing Spring (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/kingdom-building]
 ---

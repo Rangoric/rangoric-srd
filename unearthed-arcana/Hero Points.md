@@ -1,10 +1,7 @@
 ---
 srd-type: "rules"
 section: "Unearthed Arcana"
-based-on:
-  - "[[path srd 3.5/rules/advanced-player-s-guide/new-rules/Hero Points|Hero Points (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/rules]
 ---

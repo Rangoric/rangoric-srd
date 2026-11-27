@@ -3,17 +3,7 @@ srd-type: "racial-trait"
 section: "Races"
 race: "the Faeries races (see Used by)"
 replaces: "nothing (a base racial trait)"
-based-on:
-  - "[[individual books/Faeries/races/Bogie|Bogie (Faeries)]]"
-  - "[[individual books/Faeries/races/Deep Fey|Deep Fey (Faeries)]]"
-  - "[[individual books/Faeries/races/Faeries|Faeries (Faeries)]]"
-  - "[[individual books/Faeries/races/Feeorin|Feeorin (Faeries)]]"
-  - "[[individual books/Faeries/races/Half-fey|Half-fey (Faeries)]]"
-  - "[[individual books/Faeries/races/Nymph|Nymph (Faeries)]]"
-  - "[[individual books/Faeries/races/Scath|Scath (Faeries)]]"
-  - "[[individual books/Faeries/races/Sprite|Sprite (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/racial-trait]
 ---

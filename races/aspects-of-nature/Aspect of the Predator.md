@@ -1,11 +1,7 @@
 ---
 srd-type: "aspect-of-nature"
 section: "Races"
-based-on:
-  - "[[individual books/Faeries/aspects/Aspect of the Predator|Aspect of the Predator (Faeries)]]"
-  - "[[individual books/Faeries/tables/Table p41 Aspect of the Predator|Table p41 Aspect of the Predator (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/aspect-of-nature]
 ---

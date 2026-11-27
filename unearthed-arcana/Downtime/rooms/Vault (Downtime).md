@@ -6,10 +6,7 @@ upgrade-from: "Reliquary, Storage"
 resource-create: "8 Goods, 7 Labor (300 gp)"
 time: "16 days"
 size: "4-8 squares"
-based-on:
-  - "[[path srd 3.5/downtime/Vault|Vault (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-room]
 ---

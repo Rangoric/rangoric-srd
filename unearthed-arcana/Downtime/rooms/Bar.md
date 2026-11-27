@@ -6,10 +6,7 @@ earnings: "gp or Influence +10"
 benefit: "bonus on Persuasion checks to gather information"
 time: "16 days"
 size: "10-20 squares"
-based-on:
-  - "[[path srd 3.5/downtime/Bar|Bar (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-room]
 ---

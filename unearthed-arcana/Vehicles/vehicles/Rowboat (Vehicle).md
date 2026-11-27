@@ -21,10 +21,7 @@ driving-device: "oars"
 driving-space: "the center square of the rowboat"
 decks: "1"
 part-of: "[[rangoric-srd/unearthed-arcana/Vehicles/Water Vehicles|Water Vehicles]]"
-based-on:
-  - "[[path srd 3.5/vehicles/Rowboat (Vehicle)|Rowboat (Vehicle) (PF1 Ultimate Combat)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/vehicle]
 ---

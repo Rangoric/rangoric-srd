@@ -8,10 +8,7 @@ lot: "2"
 discount: "Pier, Stable, Trade Shop"
 settlement: "Law +1, Productivity +2"
 special: "Base value +1,000 gp"
-based-on:
-  - "[[path srd 3.5/kingdom/Guildhall (Building)|Guildhall (Building) (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/kingdom-building]
 ---

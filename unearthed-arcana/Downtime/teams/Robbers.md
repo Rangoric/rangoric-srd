@@ -6,10 +6,7 @@ resource-create: "1 Goods, 4 Influence, 3 Labor (200 gp)"
 earnings: "gp, Goods, or Influence +4"
 time: "3 days"
 size: "5 people"
-based-on:
-  - "[[path srd 3.5/downtime/Robbers|Robbers (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-team]
 ---

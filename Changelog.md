@@ -8,6 +8,7 @@ Every departure from the source rules, newest first. One line each, with links t
 
 | Date | Change | Rangoric note | Source | Why |
 | --- | --- | --- | --- | --- |
+| 2026-11-27 | No Based-On (NO 7): race, unearthed arcana and trait notes drop the `based-on:` and `change:` frontmatter keys. | [[NO Batch 7 Changes]] | | [[No Based-On]] NO 7 |
 | 2026-11-27 | No Based-On (NO 6): equipment notes drop the `based-on:` and `change:` frontmatter keys. | [[NO Batch 6 Changes]] | | [[No Based-On]] NO 6 |
 | 2026-11-27 | Linnorm to Lindwurm (RL 1): the linnorm is now the lindwurm. `monsters/linnorm/` becomes `monsters/lindwurms/`, and Lindwurm, Cairn, Crag, Fjord, Ice, Taiga, Tarn and Tor Lindwurm, the Lindwurm (Mutated Bloodline) and the seven Lindwurm Death Curse rage powers are renamed, with their links and mentions in Fated Champion, Wildblooded, Bloodlines, Draconic Bloodline, Rage Powers, Summoner, All Monsters, Monster Roles, Monsters K to L, Nycar, Water Orm, Frost Giant and Death Curse (29 notes); "Check notes" fails "linnorm" in any note but Legal and the Changelog. | [[RL Batch 1 Changes]] | | [[Linnorm to Lindwurm]] RL 1 |
 | 2026-11-27 | No Based-On (NO 5): feats drop the `based-on:` and `change:` frontmatter keys. | [[NO Batch 5 Changes]] | | [[No Based-On]] NO 5 |

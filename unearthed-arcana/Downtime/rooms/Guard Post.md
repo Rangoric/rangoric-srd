@@ -8,10 +8,7 @@ earnings: "gp or Goods +4"
 benefit: "defenders get a bonus on initiative and Perception checks"
 time: "20 days"
 size: "6-10 squares"
-based-on:
-  - "[[path srd 3.5/downtime/Guard Post|Guard Post (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-room]
 ---

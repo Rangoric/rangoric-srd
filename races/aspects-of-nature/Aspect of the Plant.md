@@ -1,11 +1,7 @@
 ---
 srd-type: "aspect-of-nature"
 section: "Races"
-based-on:
-  - "[[individual books/Faeries/aspects/Aspect of the Plant|Aspect of the Plant (Faeries)]]"
-  - "[[individual books/Faeries/tables/Table p41 Aspect of the Plant|Table p41 Aspect of the Plant (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/aspect-of-nature]
 ---

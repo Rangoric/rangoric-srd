@@ -3,11 +3,7 @@ srd-type: "racial-trait"
 section: "Races"
 race: "variant races (see each race's subtypes)"
 replaces: "low-light vision"
-based-on:
-  - "[[fantasy srd 3.5/unearthed-arcana/Environmental Racial Variants|Environmental Racial Variants (3.5)]]"
-  - "[[fantasy srd 3.5/monsters/Elf#Aquatic Elf|Elf (3.5)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/racial-trait]
 ---

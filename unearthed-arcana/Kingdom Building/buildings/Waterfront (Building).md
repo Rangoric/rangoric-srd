@@ -10,10 +10,7 @@ lot: "4"
 discount: "Black Market, Guildhall, Market, Pier"
 settlement: "Productivity +2"
 resource-limit: "Adjacent to water district border, 1 per settlement"
-based-on:
-  - "[[path srd 3.5/kingdom/Waterfront (Building)|Waterfront (Building) (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/kingdom-building]
 ---

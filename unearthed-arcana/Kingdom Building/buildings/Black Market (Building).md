@@ -9,10 +9,7 @@ special: "Base value +2,000 gp"
 lot: "1"
 settlement: "Corruption +2, Crime +2"
 resource-limit: "Adjacent to 2 Houses"
-based-on:
-  - "[[path srd 3.5/kingdom/Black Market (Building)|Black Market (Building) (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/kingdom-building]
 ---

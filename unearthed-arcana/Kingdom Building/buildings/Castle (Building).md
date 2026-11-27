@@ -7,10 +7,7 @@ bp: "54"
 special: "Defense +8"
 lot: "4"
 resource-limit: "1 per settlement"
-based-on:
-  - "[[path srd 3.5/kingdom/Castle (Building)|Castle (Building) (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/kingdom-building]
 ---

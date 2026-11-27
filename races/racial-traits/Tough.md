@@ -3,10 +3,7 @@ srd-type: "racial-trait"
 section: "Races"
 race: "[[rangoric-srd/races/Strix|Strix]]"
 replaces: "suspicious"
-based-on:
-  - "[[path srd 3.5/races/Strix#Alternate Racial Traits|Strix (ARG)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/racial-trait]
 ---

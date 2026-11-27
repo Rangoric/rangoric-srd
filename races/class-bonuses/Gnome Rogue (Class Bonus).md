@@ -3,11 +3,7 @@ srd-type: "class-bonus"
 section: "Races"
 race: "Gnome"
 class: ["Rogue"]
-based-on:
-  - "[[path srd 3.5/races/Gnomes (Advanced Race Guide)#Favored Class Options|Gnomes, Favored Class Options (ARG)]]"
-  - "[[path srd 3.5/rules/advanced-player-s-guide/races/Gnomes (Races)#Favored Class Options|Gnomes, Favored Class Options (APG)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-bonus]
 ---

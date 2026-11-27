@@ -5,10 +5,7 @@ resource-create: "4 Goods, 1 Influence, 3 Labor (170 gp)"
 earnings: "gp or Goods +5"
 time: "10 days"
 size: "2-6 squares"
-based-on:
-  - "[[path srd 3.5/downtime/Hatchery|Hatchery (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-room]
 ---

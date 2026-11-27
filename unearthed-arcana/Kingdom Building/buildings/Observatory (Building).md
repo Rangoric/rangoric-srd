@@ -6,10 +6,7 @@ magic-items: "1 minor scroll or wondrous item"
 bp: "12"
 lot: "1"
 settlement: "Lore +2"
-based-on:
-  - "[[path srd 3.5/kingdom/Observatory (Building)|Observatory (Building) (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/kingdom-building]
 ---

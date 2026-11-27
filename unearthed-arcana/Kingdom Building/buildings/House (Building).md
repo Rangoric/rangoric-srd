@@ -6,10 +6,7 @@ upgrade-from: "Tenement"
 bp: "3"
 lot: "1"
 special: "The first House you build during the Improvement phase does not count against the total number of buildings you can build during the phase"
-based-on:
-  - "[[path srd 3.5/kingdom/House (Building)|House (Building) (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/kingdom-building]
 ---

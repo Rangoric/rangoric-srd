@@ -4,10 +4,7 @@ section: "Races"
 race: "[[rangoric-srd/races/Oread|Oread]]"
 replaces: "earth affinity"
 race-points: 2
-based-on:
-  - "[[path srd 3.5/races/Oreads#Alternate Racial Traits|Oreads (ARG)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/racial-trait, racial-trait/magical, racial-trait/standard]
 ---

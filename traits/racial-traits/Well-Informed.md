@@ -3,10 +3,7 @@ srd-type: "trait"
 section: "Traits"
 trait-type: "race"
 race: "[[rangoric-srd/races/Halfling|Halfling]]"
-based-on:
-  - "[[path srd 3.5/traits/Well-Informed|Well-Informed (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/trait]
 ---

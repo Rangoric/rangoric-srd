@@ -7,10 +7,7 @@ earnings: "Influence +15"
 benefit: "bonus on Deception, Persuasion, and Intimidation, Society, and Performance checks"
 time: "40 days"
 size: "40-80 squares"
-based-on:
-  - "[[path srd 3.5/downtime/Throne Room|Throne Room (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-room]
 ---

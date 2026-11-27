@@ -9,10 +9,7 @@ bp: "52"
 lot: "2"
 discount: "Caster's Tower, Library, Magic Shop"
 settlement: "Lore +2, Productivity +1, Society +2; increase Lore bonus by 2 for questions relating to one Knowledge or Profession skill"
-based-on:
-  - "[[path srd 3.5/kingdom/Academy (Building)|Academy (Building) (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/kingdom-building]
 ---

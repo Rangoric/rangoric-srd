@@ -3,10 +3,7 @@ srd-type: "class-bonus"
 section: "Races"
 race: "Changeling"
 class: ["Oracle"]
-based-on:
-  - "[[path srd 3.5/races/Changelings#Favored Class Options|Changelings, Favored Class Options (ARG)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-bonus]
 ---

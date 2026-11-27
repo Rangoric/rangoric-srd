@@ -3,10 +3,7 @@ srd-type: "racial-trait"
 section: "Races"
 race: "[[rangoric-srd/races/Oread|Oread]]"
 replaces: "energy resistance"
-based-on:
-  - "[[path srd 3.5/races/Oreads#Alternate Racial Traits|Oreads (ARG)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/racial-trait]
 ---

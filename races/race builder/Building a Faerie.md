@@ -1,13 +1,7 @@
 ---
 srd-type: "rules"
 section: "Races"
-based-on:
-  - "[[individual books/Faeries/races/Faeries|Faeries (Faeries)]]"
-  - "[[individual books/Faeries/tables/Table 1 Faerie Physical Characteristics|Table 1 (Faeries)]]"
-  - "[[individual books/Faeries/tables/Table 1a Spell-like Abilities Modifiers|Table 1a (Faeries)]]"
-  - "[[path srd 3.5/rules/advanced-race-guide/race-builder/Racial Traits (Race Builder)|Racial Traits (Race Builder) (ARG)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/rules]
 ---

@@ -6,10 +6,7 @@ bp: "6"
 special: "Can share lot with another building"
 lot: "1"
 resource-limit: "Cannot be adjacent to a Dump, Graveyard, Stable, Stockyard, or Tannery"
-based-on:
-  - "[[path srd 3.5/kingdom/Cistern|Cistern (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/kingdom-building]
 ---

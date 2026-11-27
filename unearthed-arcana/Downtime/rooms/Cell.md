@@ -4,10 +4,7 @@ section: "Unearthed Arcana"
 resource-create: "5 Goods, 4 Labor (180 gp)"
 time: "16 days"
 size: "1-9 squares"
-based-on:
-  - "[[path srd 3.5/downtime/Cell|Cell (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-room]
 ---

@@ -21,10 +21,7 @@ driving-device: "reins"
 driving-space: "the most forward squares if the carriage's upper deck."
 decks: "2; a lower cab with enough room for four passengers, and an upper deck with room for a driver and another passenger."
 part-of: "[[rangoric-srd/unearthed-arcana/Vehicles/Land Vehicles|Land Vehicles]]"
-based-on:
-  - "[[path srd 3.5/vehicles/Carriage (Vehicle)|Carriage (Vehicle) (PF1 Ultimate Combat)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/vehicle]
 ---

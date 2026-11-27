@@ -20,10 +20,7 @@ population: "10,000 (6,000 humans; 1,500 halflings; 1,000 half-orcs; 750 dwarves
 spellcasting: "7th"
 major-items: "1d6"
 qualities: "academic, notorious, racially intolerant (halflings), tourist attraction"
-based-on:
-  - "[[path srd 3.5/kingdom/City of Thieves|City of Thieves (PF1 GameMastery Guide)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/settlement]
 ---

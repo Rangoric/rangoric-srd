@@ -2,10 +2,7 @@
 srd-type: "trait"
 section: "Traits"
 trait-type: "faith"
-based-on:
-  - "[[path srd 3.5/traits/Indomitable Faith|Indomitable Faith (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/trait]
 ---

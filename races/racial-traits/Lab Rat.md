@@ -3,10 +3,7 @@ srd-type: "racial-trait"
 section: "Races"
 race: "[[rangoric-srd/races/Ratfolk|Ratfolk]]"
 replaces: "tinker"
-based-on:
-  - "[[path srd 3.5/rules/monster-codex/ratfolk/New Rules (Ratfolk)#Alternate Racial Traits|Ratfolk, Alternate Racial Traits (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/racial-trait]
 ---

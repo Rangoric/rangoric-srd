@@ -3,10 +3,7 @@ srd-type: "racial-trait"
 section: "Races"
 race: "[[rangoric-srd/races/Fetchling|Fetchling]]"
 replaces: "nothing (modifies skilled)"
-based-on:
-  - "[[path srd 3.5/races/Fetchlings#Alternate Racial Traits|Fetchlings (ARG)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/racial-trait]
 ---

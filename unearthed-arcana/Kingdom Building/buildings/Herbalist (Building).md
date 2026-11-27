@@ -6,10 +6,7 @@ magic-items: "1 minor potion or wondrous item"
 bp: "10"
 lot: "1"
 resource-limit: "Adjacent to 1 House"
-based-on:
-  - "[[path srd 3.5/kingdom/Herbalist (Building)|Herbalist (Building) (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/kingdom-building]
 ---

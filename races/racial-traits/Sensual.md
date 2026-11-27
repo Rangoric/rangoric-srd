@@ -3,10 +3,7 @@ srd-type: "racial-trait"
 section: "Races"
 race: "[[rangoric-srd/races/Vishkanya|Vishkanya]]"
 replaces: "keen senses"
-based-on:
-  - "[[path srd 3.5/races/Vishkanyas#Alternate Racial Traits|Vishkanyas (ARG)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/racial-trait]
 ---

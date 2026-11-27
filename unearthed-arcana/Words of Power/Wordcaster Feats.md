@@ -1,13 +1,7 @@
 ---
 srd-type: "rules"
 section: "Unearthed Arcana"
-based-on:
-  - "[[path srd 3.5/rules/ultimate-magic/words-of-power/Wordcaster Feats|Wordcaster Feats (PF1 Ultimate Magic)]]"
-  - "[[path srd 3.5/feats/Experimental Spellcaster|Experimental Spellcaster (PF1 Ultimate Magic)]]"
-  - "[[path srd 3.5/feats/Extra Word|Extra Word (PF1 Ultimate Magic)]]"
-  - "[[path srd 3.5/feats/Meta Word Mastery|Meta Word Mastery (PF1 Ultimate Magic)]]"
 status: draft
-change: new
 pi-review: 2026-11-23
 tags: [rangoric, rangoric/rules]
 ---

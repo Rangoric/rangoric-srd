@@ -6,10 +6,7 @@ upgrade-to: "Temple"
 magic-items: "1 minor potion, scroll, or wondrous item"
 bp: "8"
 lot: "1"
-based-on:
-  - "[[path srd 3.5/kingdom/Shrine (Building)|Shrine (Building) (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/kingdom-building]
 ---

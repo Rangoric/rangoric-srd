@@ -5,10 +5,7 @@ resource-create: "see below"
 benefit: "see below"
 time: "see below"
 size: "1-4 squares"
-based-on:
-  - "[[path srd 3.5/downtime/Trap|Trap (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-room]
 ---

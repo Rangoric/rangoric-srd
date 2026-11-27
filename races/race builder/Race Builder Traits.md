@@ -1,11 +1,7 @@
 ---
 srd-type: "rules"
 section: "Races"
-based-on:
-  - "[[path srd 3.5/rules/advanced-race-guide/race-builder/Racial Traits (Race Builder)|Racial Traits (Race Builder) (ARG)]]"
-  - "[[path srd 3.5/rules/advanced-race-guide/race-builder/Racial Qualities|Racial Qualities (ARG)]]"
 status: draft
-change: new
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/rules]
 ---

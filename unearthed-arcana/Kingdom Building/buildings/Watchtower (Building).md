@@ -5,10 +5,7 @@ kingdom: "Stability +1, Unrest -1"
 bp: "12"
 lot: "1"
 special: "Defense +2"
-based-on:
-  - "[[path srd 3.5/kingdom/Watchtower (Building)|Watchtower (Building) (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/kingdom-building]
 ---

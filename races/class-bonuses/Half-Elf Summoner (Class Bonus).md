@@ -3,11 +3,7 @@ srd-type: "class-bonus"
 section: "Races"
 race: "Half-Elf"
 class: ["Summoner", "Unchained Summoner"]
-based-on:
-  - "[[path srd 3.5/races/Half-Elves (Advanced Race Guide)#Favored Class Options|Half-Elves, Favored Class Options (ARG)]]"
-  - "[[path srd 3.5/rules/advanced-player-s-guide/races/Half-Elves (Races)#Favored Class Options|Half-Elves, Favored Class Options (APG)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-bonus]
 ---

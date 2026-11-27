@@ -6,10 +6,7 @@ resource-create: "2 Goods, 2 Influence, 1 Labor, 4 Magic (520 gp)"
 earnings: "gp, Influence, or Magic +4"
 time: "3 days"
 size: "1 person"
-based-on:
-  - "[[path srd 3.5/downtime/Apprentice|Apprentice (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-team]
 ---

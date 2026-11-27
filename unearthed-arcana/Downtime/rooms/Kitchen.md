@@ -5,10 +5,7 @@ resource-create: "4 Goods, 4 Labor (160 gp)"
 earnings: "gp or Goods +4"
 time: "12 days"
 size: "2-6 squares"
-based-on:
-  - "[[path srd 3.5/downtime/Kitchen|Kitchen (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-room]
 ---

@@ -1,11 +1,7 @@
 ---
 srd-type: "aspect-of-nature"
 section: "Races"
-based-on:
-  - "[[individual books/Faeries/aspects/Aspect of the Air|Aspect of the Air (Faeries)]]"
-  - "[[individual books/Faeries/tables/Table p39 Aspect of the Air|Table p39 Aspect of the Air (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/aspect-of-nature]
 ---

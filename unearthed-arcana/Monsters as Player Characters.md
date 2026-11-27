@@ -1,10 +1,7 @@
 ---
 srd-type: "rules"
 section: "Unearthed Arcana"
-based-on:
-  - "[[path srd 3.5/rules/bestiary/misc-monster-rules/Monster As PCs|Monster As PCs (PF1)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/rules]
 ---

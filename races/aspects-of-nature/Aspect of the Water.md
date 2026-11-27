@@ -1,11 +1,7 @@
 ---
 srd-type: "aspect-of-nature"
 section: "Races"
-based-on:
-  - "[[individual books/Faeries/aspects/Aspect of the Water|Aspect of the Water (Faeries)]]"
-  - "[[individual books/Faeries/tables/Table p42 Aspect of the Water|Table p42 Aspect of the Water (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/aspect-of-nature]
 ---

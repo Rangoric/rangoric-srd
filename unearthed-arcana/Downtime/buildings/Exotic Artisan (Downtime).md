@@ -3,10 +3,7 @@ srd-type: "downtime-building"
 section: "Unearthed Arcana"
 resource-create: "44 Goods, 1 Influence, 41 Labor (1,730 gp)"
 rooms: "1 Artisan's Workshop, 1 Bedroom, 1 Kitchen, 1 Lavatory, 1 Sitting Room, 1 Storage, 1 Storefront"
-based-on:
-  - "[[path srd 3.5/downtime/Exotic Artisan (Downtime)|Exotic Artisan (Downtime) (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-building]
 ---

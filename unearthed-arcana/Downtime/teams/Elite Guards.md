@@ -7,10 +7,7 @@ resource-create: "3 Goods, 1 Influence, 4 Labor (170 gp)"
 earnings: "gp, Influence, or Labor +4"
 time: "2 days"
 size: "5 people"
-based-on:
-  - "[[path srd 3.5/downtime/Elite Guards|Elite Guards (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-team]
 ---

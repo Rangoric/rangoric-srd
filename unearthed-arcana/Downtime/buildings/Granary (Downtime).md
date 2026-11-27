@@ -3,10 +3,7 @@ srd-type: "downtime-building"
 section: "Unearthed Arcana"
 resource-create: "30 Goods, 30 Labor (1,200 gp)"
 rooms: "10 Storages"
-based-on:
-  - "[[path srd 3.5/downtime/Granary (Downtime)|Granary (Downtime) (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-building]
 ---

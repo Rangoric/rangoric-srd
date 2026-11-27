@@ -13,10 +13,7 @@ special: "bravery +1"
 speed: "1"
 consumption: "2"
 part-of: "[[rangoric-srd/unearthed-arcana/Mass Combat/Mass Combat|Mass Combat]]"
-based-on:
-  - "[[path srd 3.5/kingdom/Army (Huge)|Army (Huge) (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/army]
 ---

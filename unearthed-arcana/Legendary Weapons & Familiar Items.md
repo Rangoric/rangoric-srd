@@ -1,12 +1,7 @@
 ---
 srd-type: "overview"
 section: "Unearthed Arcana"
-based-on:
-  - "[[fantasy srd 3.5/unearthed-arcana/Legendary Weapons & Familiar Items|Legendary Weapons & Familiar Items (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/rules/Scions|Scions (Arms & Armor)]]"
-  - "[[individual books/Arms & Armor v3.5/rules/Divine Ranks#Legendary Weapons|Legendary Weapons (Arms & Armor)]]"
 status: draft
-change: modified
 pi-review: 2026-11-09
 tags: [rangoric, rangoric/overview]
 ---

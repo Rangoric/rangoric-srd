@@ -6,10 +6,7 @@ earnings: "gp or Influence +8"
 benefit: "counts as a healer's kit (see below)"
 time: "16 days"
 size: "4-12 squares"
-based-on:
-  - "[[path srd 3.5/downtime/Infirmary|Infirmary (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-room]
 ---

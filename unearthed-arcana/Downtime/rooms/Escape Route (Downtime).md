@@ -5,10 +5,7 @@ upgrade-from: "Secret Room"
 resource-create: "9 Goods, 9 Labor (360 gp)"
 time: "16 days"
 size: "6-12 squares"
-based-on:
-  - "[[path srd 3.5/downtime/Escape Route (Downtime)|Escape Route (Downtime) (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-room]
 ---

@@ -2,16 +2,7 @@
 srd-type: "race"
 section: "Races"
 race-points: 12
-based-on:
-  - "[[fantasy srd 3.5/rules/PC Races|PC Races (3.5)]]"
-  - "[[path srd 3.5/races/Halflings|Halflings (PF1)]]"
-  - "[[path srd 3.5/races/Halflings (Advanced Race Guide)|Halflings (ARG)]]"
-  - "[[fantasy srd 3.5/unearthed-arcana/Elemental Racial Variants|Elemental Racial Variants (3.5)]]"
-  - "[[fantasy srd 3.5/unearthed-arcana/Environmental Racial Variants|Environmental Racial Variants (3.5)]]"
-  - "[[fantasy srd 3.5/monsters/Halfling#Subraces|Halfling subraces (3.5)]]"
-  - "[[path srd 3.5/rules/advanced-player-s-guide/races/Halflings (Races)|Halflings (APG)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/race]
 ---

@@ -13,10 +13,7 @@ special: "darkvision, mindless, undead"
 speed: "1"
 consumption: "2"
 part-of: "[[rangoric-srd/unearthed-arcana/Mass Combat/Mass Combat|Mass Combat]]"
-based-on:
-  - "[[path srd 3.5/kingdom/Zombie Horde (Huge)|Zombie Horde (Huge) (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/army]
 ---

@@ -1,16 +1,7 @@
 ---
 srd-type: "overview"
 section: "Unearthed Arcana"
-based-on:
-  - "[[fantasy srd 3.5/unearthed-arcana/Defence Variants|Defence Variants (3.5)]]"
-  - "[[individual books/Arms & Armor v3.5/rules/Armor as Damage Reduction|Armor as Damage Reduction (Arms & Armor)]]"
-  - "[[individual books/Arms & Armor v3.5/tables/Table 4.7 DR by Armor|Table 4.7: DR by Armor (Arms & Armor)]]"
-  - "[[individual books/Arms & Armor v3.5/tables/Table 4.8 Armor Class or Damage Reduction|Table 4.8: Armor Class or Damage Reduction? (Arms & Armor)]]"
-  - "[[path srd 3.5/rules/ultimate-combat/variant-rules/Armor as Damage Reduction|Armor as Damage Reduction (PF1 UC)]]"
-  - "[[path srd 3.5/rules/ultimate-combat/variant-rules/Variant Rules (Variant Rules)|Variant Rules (PF1 UC)]]"
-  - "[[path srd 3.5/rules/ultimate-combat/Critical defense DC = critical hit roll + 1-2 attacker's base attack bonus + 1 for each critical feat + 1 for each size category larger attacker is than target|Critical defense DC (PF1 UC)]]"
 status: draft
-change: modified
 pi-review: 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---

@@ -20,10 +20,7 @@ population: "70 (63 humans, 6 halflings, 1 half-elf)"
 spellcasting: "1st"
 major-items: "—"
 qualities: "rumormongering citizens, superstitious"
-based-on:
-  - "[[path srd 3.5/kingdom/Failing Fishing Village|Failing Fishing Village (PF1 GameMastery Guide)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/settlement]
 ---

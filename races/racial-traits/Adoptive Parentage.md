@@ -3,10 +3,7 @@ srd-type: "racial-trait"
 section: "Races"
 race: "[[rangoric-srd/races/Human|Human]]"
 replaces: "bonus feat"
-based-on:
-  - "[[path srd 3.5/races/Humans (Advanced Race Guide)#Alternate Racial Traits|Humans (ARG)]]"
 status: draft
-change: new
 pi-review: 2026-11-08
 tags: [rangoric, rangoric/racial-trait]
 ---

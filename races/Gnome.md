@@ -2,16 +2,7 @@
 srd-type: "race"
 section: "Races"
 race-points: 10
-based-on:
-  - "[[fantasy srd 3.5/rules/PC Races|PC Races (3.5)]]"
-  - "[[path srd 3.5/races/Gnomes|Gnomes (PF1)]]"
-  - "[[path srd 3.5/races/Gnomes (Advanced Race Guide)|Gnomes (ARG)]]"
-  - "[[fantasy srd 3.5/unearthed-arcana/Elemental Racial Variants|Elemental Racial Variants (3.5)]]"
-  - "[[fantasy srd 3.5/unearthed-arcana/Environmental Racial Variants|Environmental Racial Variants (3.5)]]"
-  - "[[fantasy srd 3.5/monsters/gnome/Gnome#Subraces|Gnome subraces (3.5)]]"
-  - "[[path srd 3.5/rules/advanced-player-s-guide/races/Gnomes (Races)|Gnomes (APG)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/race]
 ---

@@ -6,10 +6,7 @@ resource-create: "2 Goods, 1 Influence, 2 Labor (110 gp)"
 earnings: "gp or Goods +4"
 time: "6 days"
 size: "1-5 squares"
-based-on:
-  - "[[path srd 3.5/downtime/Tollbooth|Tollbooth (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-room]
 ---

@@ -7,10 +7,7 @@ earnings: "gp or Influence +3"
 benefit: "bonus on Fortitude saves against disease"
 time: "8 days"
 size: "3-6 squares"
-based-on:
-  - "[[path srd 3.5/downtime/Bath (Downtime)|Bath (Downtime) (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-room]
 ---

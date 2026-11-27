@@ -1,11 +1,7 @@
 ---
 srd-type: "aspect-of-nature"
 section: "Races"
-based-on:
-  - "[[individual books/Faeries/aspects/Aspect of the Dawn|Aspect of the Dawn (Faeries)]]"
-  - "[[individual books/Faeries/tables/Table p39 Aspect of the Dawn|Table p39 Aspect of the Dawn (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/aspect-of-nature]
 ---

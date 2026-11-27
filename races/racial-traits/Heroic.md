@@ -4,11 +4,7 @@ section: "Races"
 race: "[[rangoric-srd/races/Human|Human]]"
 replaces: "bonus feat"
 race-points: 4
-based-on:
-  - "[[path srd 3.5/races/Humans (Advanced Race Guide)#Alternate Racial Traits|Humans (ARG)]]"
-  - "[[path srd 3.5/rules/advanced-race-guide/race-builder/Racial Traits (Race Builder)|Racial Traits (Race Builder) (ARG)]]"
 status: draft
-change: new
 pi-review: 2026-11-13
 tags: [rangoric, rangoric/racial-trait, racial-trait/other, racial-trait/standard]
 ---

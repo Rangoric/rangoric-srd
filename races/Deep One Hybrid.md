@@ -1,15 +1,7 @@
 ---
 srd-type: "race"
 section: "Races"
-based-on:
-  - "[[path srd 3.5 foundry/races/Deep One Hybrid|Deep One Hybrid (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/racial-traits/Languages (Deep One Hybrid)|Languages (Deep One Hybrid) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/racial-traits/Low-Light Vision (Deep One Hybrid)|Low-Light Vision (Deep One Hybrid) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/racial-traits/Natural Armor (Deep One Hybrid)|Natural Armor (Deep One Hybrid) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/racial-traits/Slow (Deep One Hybrid)|Slow (Deep One Hybrid) (PF1 Foundry)]]"
-  - "[[path srd 3.5 foundry/monsters/bestiary-5/Deep One Hybrid (cleric 1)|Deep One Hybrid (cleric 1) (PF1 Foundry)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/race]
 ---

@@ -1,10 +1,7 @@
 ---
 srd-type: "race"
 section: "Races"
-based-on:
-  - "[[individual books/Faeries/races/Half-fey|Half-fey (Faeries)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/race]
 ---

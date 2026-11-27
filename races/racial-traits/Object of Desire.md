@@ -4,10 +4,7 @@ section: "Races"
 race: "[[rangoric-srd/races/Changeling|Changeling]]"
 replaces: "green widow"
 race-points: 1
-based-on:
-  - "[[path srd 3.5/races/Changelings#Alternate Racial Traits|Changelings (ARG)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/racial-trait, racial-trait/magical, racial-trait/standard]
 ---

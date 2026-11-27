@@ -3,10 +3,7 @@ srd-type: "downtime-manager"
 section: "Unearthed Arcana"
 wage: "5 gp/day"
 skills: "Medicine, Perception, Sense Motive, Fieldcraft"
-based-on:
-  - "[[path srd 3.5/downtime/Doctor (Downtime)|Doctor (Downtime) (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-manager]
 ---

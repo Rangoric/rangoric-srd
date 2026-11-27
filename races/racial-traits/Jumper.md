@@ -4,10 +4,7 @@ section: "Races"
 race: "[[rangoric-srd/races/Grippli|Grippli]]"
 replaces: "camouflage"
 race-points: 2
-based-on:
-  - "[[path srd 3.5/races/Gripplis#Alternate Racial Traits|Gripplis (ARG)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/racial-trait, racial-trait/movement, racial-trait/standard]
 ---

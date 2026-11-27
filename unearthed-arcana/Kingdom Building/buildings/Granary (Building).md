@@ -5,10 +5,7 @@ kingdom: "Loyalty +1, Stability +1"
 bp: "12"
 lot: "1"
 special: "If Farms reduce Consumption below 0, store up to 5 BP of excess production for use on a later turn when Consumption exceeds the Treasury"
-based-on:
-  - "[[path srd 3.5/kingdom/Granary (Building)|Granary (Building) (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/kingdom-building]
 ---

@@ -3,11 +3,7 @@ srd-type: "class-bonus"
 section: "Races"
 race: "Elf"
 class: ["Barbarian"]
-based-on:
-  - "[[path srd 3.5/races/Elves (Advanced Race Guide)#Favored Class Options|Elves, Favored Class Options (ARG)]]"
-  - "[[path srd 3.5/rules/advanced-player-s-guide/races/Elves (Races)#Favored Class Options|Elves, Favored Class Options (APG)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-bonus]
 ---

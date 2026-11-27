@@ -6,10 +6,7 @@ earnings: "gp, Goods, or Labor +10"
 benefit: "counts as masterwork artisan's tools for Craft (clockwork)"
 time: "20 days"
 size: "8-16 squares"
-based-on:
-  - "[[path srd 3.5/downtime/Clockwork Shop|Clockwork Shop (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-room]
 ---

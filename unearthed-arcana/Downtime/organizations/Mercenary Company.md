@@ -3,10 +3,7 @@ srd-type: "downtime-organization"
 section: "Unearthed Arcana"
 resource-create: "18 Goods, 13 Influence, 25 Labor, 6 Magic (1,850 gp)"
 teams: "1 Elite Archers, 2 Elite Soldiers, 1 Priest"
-based-on:
-  - "[[path srd 3.5/downtime/Mercenary Company|Mercenary Company (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-organization]
 ---

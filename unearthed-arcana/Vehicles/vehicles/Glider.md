@@ -17,10 +17,7 @@ ramming-damage: "1d8"
 propulsion: "current (air; four squares of sail, which serve as the majority of the vehicle, hp 20)"
 driving-check: "Piloting or Acrobatics +10 to the DC"
 part-of: "[[rangoric-srd/unearthed-arcana/Vehicles/Air Vehicles|Air Vehicles]]"
-based-on:
-  - "[[path srd 3.5/vehicles/Glider|Glider (PF1 Ultimate Combat)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/vehicle]
 ---

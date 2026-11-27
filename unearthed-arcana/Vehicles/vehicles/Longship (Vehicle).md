@@ -22,10 +22,7 @@ driving-space: "the two middle rear squares of the longship"
 crew: "40"
 decks: "1 (with small cargo area under the deck)"
 part-of: "[[rangoric-srd/unearthed-arcana/Vehicles/Water Vehicles|Water Vehicles]]"
-based-on:
-  - "[[path srd 3.5/vehicles/Longship (Vehicle)|Longship (Vehicle) (PF1 Ultimate Combat)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/vehicle]
 ---

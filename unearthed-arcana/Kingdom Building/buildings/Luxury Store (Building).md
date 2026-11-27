@@ -9,10 +9,7 @@ bp: "28"
 special: "Base value +2,000 gp"
 lot: "1"
 resource-limit: "Adjacent to 1 House"
-based-on:
-  - "[[path srd 3.5/kingdom/Luxury Store (Building)|Luxury Store (Building) (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/kingdom-building]
 ---

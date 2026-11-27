@@ -3,11 +3,7 @@ srd-type: "racial-trait"
 section: "Races"
 race: "[[rangoric-srd/races/Orc|Orc]]"
 replaces: "ferocity and weapon familiarity"
-based-on:
-  - "[[path srd 3.5/races/Orcs#Alternate Racial Traits|Orcs (ARG)]]"
-  - "[[path srd 3.5 foundry/racial-traits/Smeller|Smeller (ARG)]]"
 status: draft
-change: new
 pi-review: 2026-11-14
 tags: [rangoric, rangoric/racial-trait]
 ---

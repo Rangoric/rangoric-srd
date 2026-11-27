@@ -6,10 +6,7 @@ earnings: "gp or Goods +10"
 benefit: "counts as masterwork artisan's tools for leatherworking skills"
 time: "16 days"
 size: "4-10 squares"
-based-on:
-  - "[[path srd 3.5/downtime/Leather Workshop|Leather Workshop (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/downtime-room]
 ---

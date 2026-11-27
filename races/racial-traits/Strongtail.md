@@ -3,10 +3,7 @@ srd-type: "racial-trait"
 section: "Races"
 race: "[[rangoric-srd/races/Merfolk|Merfolk]]"
 replaces: "slow speed"
-based-on:
-  - "[[path srd 3.5/races/Merfolk (Race)#Alternate Racial Traits|Merfolk (ARG)]]"
 status: draft
-change: new
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/racial-trait]
 ---

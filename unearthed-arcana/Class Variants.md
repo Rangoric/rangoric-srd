@@ -1,10 +1,7 @@
 ---
 srd-type: "overview"
 section: "Unearthed Arcana"
-based-on:
-  - "[[fantasy srd 3.5/unearthed-arcana/Class Variants|Class Variants (3.5)]]"
 status: draft
-change: modified
 pi-review: 2026-11-15
 tags: [rangoric, rangoric/overview]
 ---

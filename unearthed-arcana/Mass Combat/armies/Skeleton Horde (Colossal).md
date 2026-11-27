@@ -13,10 +13,7 @@ special: "darkvision, mindless, undead"
 speed: "2"
 consumption: "3"
 part-of: "[[rangoric-srd/unearthed-arcana/Mass Combat/Mass Combat|Mass Combat]]"
-based-on:
-  - "[[path srd 3.5/kingdom/Skeleton Horde (Colossal)|Skeleton Horde (Colossal) (PF1 Ultimate Campaign)]]"
 status: draft
-change: new
 pi-review: 2026-11-24
 tags: [rangoric, rangoric/army]
 ---

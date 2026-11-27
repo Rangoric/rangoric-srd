@@ -3,10 +3,7 @@ srd-type: "class-bonus"
 section: "Races"
 race: "Half-Orc"
 class: ["Wizard"]
-based-on:
-  - "[[path srd 3.5/races/Half-Orcs (Advanced Race Guide)#Favored Class Options|Half-Orcs, Favored Class Options (ARG)]]"
 status: draft
-change: new
 pi-review: 2026-11-16
 tags: [rangoric, rangoric/class-bonus]
 ---
