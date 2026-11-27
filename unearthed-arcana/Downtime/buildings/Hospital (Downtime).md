@@ -3,7 +3,6 @@ srd-type: "downtime-building"
 section: "Unearthed Arcana"
 resource-create: "45 Goods, 4 Influence, 43 Labor, 2 Magic (2,080 gp)"
 rooms: "1 Bath, 1 Common Room, 2 Infirmaries, 1 Lavatory, 1 Office, 1 Statue, 1 Storage, 1 Storefront, 1 Workstation"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Hospital (Downtime)|Hospital (Downtime) (PF1 Ultimate Campaign)]]"
 status: draft

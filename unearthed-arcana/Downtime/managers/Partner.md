@@ -3,7 +3,6 @@ srd-type: "downtime-manager"
 section: "Unearthed Arcana"
 wage: "4 gp/day"
 skills: "Deception, Persuasion, Knowledge (any one), Profession (barrister)"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Partner|Partner (PF1 Ultimate Campaign)]]"
 status: draft

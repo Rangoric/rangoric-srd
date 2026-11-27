@@ -4,7 +4,6 @@ section: "Unearthed Arcana"
 kingdom: "Economy +3, Loyalty +3, Stability +1; Fame +1"
 bp: "30"
 lot: "1"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/kingdom/Mint (Building)|Mint (Building) (PF1 Ultimate Campaign)]]"
 status: draft

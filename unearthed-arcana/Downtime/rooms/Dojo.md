@@ -6,7 +6,6 @@ earnings: "gp, Influence, or Labor +8"
 benefit: "counts as a training facility for training or retraining"
 time: "20 days"
 size: "15-30 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Dojo|Dojo (PF1 Ultimate Campaign)]]"
 status: draft

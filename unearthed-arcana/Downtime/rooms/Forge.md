@@ -6,7 +6,6 @@ earnings: "gp or Goods +10"
 benefit: "counts as masterwork artisan's tools for smithing skills"
 time: "20 days"
 size: "8-16 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Forge|Forge (PF1 Ultimate Campaign)]]"
 status: draft

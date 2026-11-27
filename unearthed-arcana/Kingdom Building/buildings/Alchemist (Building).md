@@ -7,7 +7,6 @@ bp: "18"
 special: "Base value +1,000 gp"
 lot: "1"
 resource-limit: "Adjacent to 1 House"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/kingdom/Alchemist (Building)|Alchemist (Building) (PF1 Ultimate Campaign)]]"
 status: draft

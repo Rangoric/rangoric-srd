@@ -6,7 +6,6 @@ resource-create: "3 Goods, 2 Influence, 2 Labor, 8 Magic (960 gp)"
 earnings: "gp, Influence, or Magic +7"
 time: "7 days"
 size: "1 person"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Mage|Mage (PF1 Ultimate Campaign)]]"
 status: draft

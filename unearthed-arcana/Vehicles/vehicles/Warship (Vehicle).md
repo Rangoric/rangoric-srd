@@ -22,7 +22,6 @@ driving-space: "the nine squares around the steering wheel, typically located in
 crew: "60"
 decks: "2"
 weapons: "Up to 20 Large direct-fire siege engines in banks of 10 positioned on the port and starboard sides of the ship, or up to six Huge direct-fire siege engines in banks of three on the port and starboard sides of the ship. The siege engines may only fire out the sides of the ship they are positioned on. They cannot be swiveled to fire toward the forward or aft sides of the ship. These weapons cannot be used while the warship is being rowed."
-book: "Ultimate Combat"
 part-of: "[[rangoric-srd/unearthed-arcana/Vehicles/Water Vehicles|Water Vehicles]]"
 based-on:
   - "[[path srd 3.5/vehicles/Warship (Vehicle)|Warship (Vehicle) (PF1 Ultimate Combat)]]"

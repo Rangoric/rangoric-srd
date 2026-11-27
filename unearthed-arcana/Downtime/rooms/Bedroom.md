@@ -5,7 +5,6 @@ resource-create: "8 Goods, 7 Labor (300 gp)"
 earnings: "gp or Influence +3"
 time: "20 days"
 size: "4-8 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Bedroom|Bedroom (PF1 Ultimate Campaign)]]"
 status: draft

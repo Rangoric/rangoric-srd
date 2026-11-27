@@ -6,7 +6,6 @@ resource-create: "17 Goods, 3 Influence, 18 Labor (790 gp)"
 earnings: "gp or Influence +10"
 time: "20 days"
 size: "40-100 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Sports Field|Sports Field (PF1 Ultimate Campaign)]]"
 status: draft

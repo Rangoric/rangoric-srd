@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, entangle, plant shape III, warp wood"
 price: "14,000 gp"
 cost: "132,000 gp"
 scaling: "wonder"
-book: "Pathfinder Unchained"
 based-on:
   - "[[path srd 3.5/rules/pathfinder-unchained/Scaling Items|Scaling Items (PF1 Unchained)]]"
 status: draft

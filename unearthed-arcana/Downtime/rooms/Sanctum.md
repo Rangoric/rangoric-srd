@@ -5,7 +5,6 @@ resource-create: "2 Goods, 1 Influence, 1 Labor, 1 Magic (190 gp)"
 benefit: "bonus on one Will save"
 time: "6 days"
 size: "1-4 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Sanctum|Sanctum (PF1 Ultimate Campaign)]]"
 status: draft

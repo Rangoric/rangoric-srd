@@ -6,7 +6,6 @@ resource-create: "7 Goods, 4 Influence, 7 Labor (400 gp)"
 earnings: "gp or Labor +8"
 time: "24 days"
 size: "15-35 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Bunks|Bunks (PF1 Ultimate Campaign)]]"
 status: draft

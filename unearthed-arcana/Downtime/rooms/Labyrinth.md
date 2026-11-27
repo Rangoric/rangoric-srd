@@ -5,7 +5,6 @@ resource-create: "15 Goods, 15 Labor (370 gp)"
 earnings: "gp or Influence +5"
 time: "30 days"
 size: "40-100 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Labyrinth|Labyrinth (PF1 Ultimate Campaign)]]"
 status: draft

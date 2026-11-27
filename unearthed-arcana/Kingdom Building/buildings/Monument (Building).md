@@ -4,7 +4,6 @@ section: "Unearthed Arcana"
 kingdom: "Loyalty +1, Unrest -1"
 bp: "6"
 lot: "1"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/kingdom/Monument (Building)|Monument (Building) (PF1 Ultimate Campaign)]]"
 status: draft

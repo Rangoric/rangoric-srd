@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, detect thoughts, creator must have 10 ranks
 price: "3,600 gp"
 cost: "15,250 gp"
 scaling: "prize"
-book: "Pathfinder Unchained"
 based-on:
   - "[[path srd 3.5/rules/pathfinder-unchained/Scaling Items|Scaling Items (PF1 Unchained)]]"
 status: draft

@@ -6,7 +6,6 @@ bp: "30"
 lot: "2"
 settlement: "Lore +1, Productivity +2"
 special: "Increase Stability by 2 during plague events"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/kingdom/Hospital (Building)|Hospital (Building) (PF1 Ultimate Campaign)]]"
 status: draft

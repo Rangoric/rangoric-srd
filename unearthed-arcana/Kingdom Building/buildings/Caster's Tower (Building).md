@@ -5,7 +5,6 @@ kingdom: "Economy +1, Loyalty +1"
 magic-items: "3 minor items, 2 medium items"
 bp: "30"
 lot: "1"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/kingdom/Caster's Tower (Building)|Caster's Tower (Building) (PF1 Ultimate Campaign)]]"
 status: draft

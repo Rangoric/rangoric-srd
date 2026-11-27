@@ -3,7 +3,6 @@ srd-type: "downtime-manager"
 section: "Unearthed Arcana"
 wage: "5 gp/day"
 skills: "Appraise, Deception, Engineering, Society"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Thieves' Guildmaster|Thieves' Guildmaster (PF1 Ultimate Campaign)]]"
 status: draft

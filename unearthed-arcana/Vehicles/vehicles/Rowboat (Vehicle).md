@@ -20,7 +20,6 @@ forward-facing: "boat's forward"
 driving-device: "oars"
 driving-space: "the center square of the rowboat"
 decks: "1"
-book: "Ultimate Combat"
 part-of: "[[rangoric-srd/unearthed-arcana/Vehicles/Water Vehicles|Water Vehicles]]"
 based-on:
   - "[[path srd 3.5/vehicles/Rowboat (Vehicle)|Rowboat (Vehicle) (PF1 Ultimate Combat)]]"

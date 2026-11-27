@@ -5,7 +5,6 @@ resource-create: "6 Goods, 1 Influence, 5 Labor (250 gp)"
 earnings: "gp or Influence +6"
 time: "14 days"
 size: "8-16 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Nursery|Nursery (PF1 Ultimate Campaign)]]"
 status: draft

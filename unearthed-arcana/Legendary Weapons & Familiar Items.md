@@ -1,7 +1,6 @@
 ---
 srd-type: "overview"
 section: "Unearthed Arcana"
-book: ["Unearthed Arcana", "Arms & Armor v3.5"]
 based-on:
   - "[[fantasy srd 3.5/unearthed-arcana/Legendary Weapons & Familiar Items|Legendary Weapons & Familiar Items (3.5)]]"
   - "[[individual books/Arms & Armor v3.5/rules/Scions|Scions (Arms & Armor)]]"

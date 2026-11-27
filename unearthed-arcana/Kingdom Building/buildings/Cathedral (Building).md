@@ -9,7 +9,6 @@ special: "Halves Consumption increase for Promotion edicts"
 lot: "4"
 settlement: "Law +2"
 resource-limit: "1 per settlement"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/kingdom/Cathedral (Building)|Cathedral (Building) (PF1 Ultimate Campaign)]]"
 status: draft

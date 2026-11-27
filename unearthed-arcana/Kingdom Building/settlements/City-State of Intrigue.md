@@ -20,7 +20,6 @@ population: "55,000 (31,000 humans; 10,000 halflings; 8,000 elves; 2,000 half-el
 spellcasting: "8th"
 major-items: "3d4"
 qualities: "holy site, notorious, prosperous, rumormongering citizens, strategic location, superstitious"
-book: "GameMastery Guide"
 based-on:
   - "[[path srd 3.5/kingdom/City-State of Intrigue|City-State of Intrigue (PF1 GameMastery Guide)]]"
 status: draft

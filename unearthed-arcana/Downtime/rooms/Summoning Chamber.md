@@ -6,7 +6,6 @@ earnings: "Magic +3"
 benefit: "bonus on Charisma, Persuasion, Intimidation, and Theology checks"
 time: "28 days"
 size: "6-16 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Summoning Chamber|Summoning Chamber (PF1 Ultimate Campaign)]]"
 status: draft

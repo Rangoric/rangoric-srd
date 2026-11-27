@@ -23,7 +23,6 @@ crew: "4"
 passengers: "6"
 decks: "3; The two lower decks give access to the alchemical engine that powers the steam giant. These lower decks have no windows or other way to see outside of the vehicle. The upper deck is an observation deck that contains the alchemical giant's driving device and driving square."
 weapons: "2 Large direct-fire ranged siege engines on the arms"
-book: "Ultimate Combat"
 part-of: "[[rangoric-srd/unearthed-arcana/Vehicles/Land Vehicles|Land Vehicles]]"
 based-on:
   - "[[path srd 3.5/vehicles/Steam Giant|Steam Giant (PF1 Ultimate Combat)]]"

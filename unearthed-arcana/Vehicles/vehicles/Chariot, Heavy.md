@@ -21,7 +21,6 @@ driving-device: "reins"
 driving-space: "the two most forward squares of the chariot"
 decks: "1"
 weapons: "light ballista"
-book: "Ultimate Combat"
 part-of: "[[rangoric-srd/unearthed-arcana/Vehicles/Land Vehicles|Land Vehicles]]"
 based-on:
   - "[[path srd 3.5/vehicles/Chariot, Heavy|Chariot, Heavy (PF1 Ultimate Combat)]]"

@@ -7,7 +7,6 @@ special: "With GM approval, you can construct a windmill at the same cost withou
 lot: "1"
 settlement: "Productivity +1"
 resource-limit: "Adjacent to water district border"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/kingdom/Mill (Building)|Mill (Building) (PF1 Ultimate Campaign)]]"
 status: draft

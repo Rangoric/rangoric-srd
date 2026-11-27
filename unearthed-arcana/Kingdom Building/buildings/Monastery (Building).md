@@ -5,7 +5,6 @@ kingdom: "Stability +1"
 bp: "16"
 lot: "2"
 settlement: "Law +1, Lore +1"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/kingdom/Monastery (Building)|Monastery (Building) (PF1 Ultimate Campaign)]]"
 status: draft

@@ -5,7 +5,6 @@ upgrade-from: "Storage"
 resource-create: "3 Goods, 3 Labor (120 gp)"
 time: "8 days"
 size: "2-5 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Office|Office (PF1 Ultimate Campaign)]]"
 status: draft

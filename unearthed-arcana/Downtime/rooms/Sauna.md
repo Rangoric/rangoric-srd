@@ -7,7 +7,6 @@ earnings: "gp or Influence +3"
 benefit: "bonus on disease and negative level recovery saves"
 time: "8 days"
 size: "2-5 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Sauna|Sauna (PF1 Ultimate Campaign)]]"
 status: draft

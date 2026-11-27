@@ -9,7 +9,6 @@ special: "Base value +2,000 gp"
 lot: "2"
 discount: "Black Market, Inn, Shop"
 resource-limit: "Adjacent to 2 Houses"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/kingdom/Market|Market (PF1 Ultimate Campaign)]]"
 status: draft

@@ -5,7 +5,6 @@ resource-create: "see below"
 benefit: "see below"
 time: "see below"
 size: "1-4 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Trap|Trap (PF1 Ultimate Campaign)]]"
 status: draft

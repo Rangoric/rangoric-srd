@@ -7,7 +7,6 @@ earnings: "gp, Influence, or Magic +12"
 benefit: "bonus on Arcana, Mysticism, and spell research checks"
 time: "20 days"
 size: "4-12 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Magical Repository|Magical Repository (PF1 Ultimate Campaign)]]"
 status: draft

@@ -6,7 +6,6 @@ resource-create: "3 Goods, 3 Labor (120 gp)"
 benefit: "Bonus on Fortitude saves against contracting disease"
 time: "4 days"
 size: "1-4 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Lavatory|Lavatory (PF1 Ultimate Campaign)]]"
 status: draft

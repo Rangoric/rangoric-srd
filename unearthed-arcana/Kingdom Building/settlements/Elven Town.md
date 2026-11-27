@@ -20,7 +20,6 @@ population: "1,300 (1,000 elves; 100 gnomes; 100 half-elves; 100 other)"
 spellcasting: "7th"
 major-items: "—"
 qualities: "magically attuned, racially intolerant (dwarves, half-orcs, humans)"
-book: "GameMastery Guide"
 based-on:
   - "[[path srd 3.5/kingdom/Elven Town|Elven Town (PF1 GameMastery Guide)]]"
 status: draft

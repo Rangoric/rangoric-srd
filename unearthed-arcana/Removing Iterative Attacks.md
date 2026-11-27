@@ -1,7 +1,6 @@
 ---
 srd-type: "rules"
 section: "Unearthed Arcana"
-book: "Pathfinder Unchained"
 based-on:
   - "[[path srd 3.5/rules/pathfinder-unchained/Removing Iterative Attacks|Removing Iterative Attacks (PF1 Unchained)]]"
 status: draft

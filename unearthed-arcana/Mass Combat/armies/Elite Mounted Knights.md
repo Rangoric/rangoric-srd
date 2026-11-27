@@ -12,7 +12,6 @@ om: "+5"
 resources: "improved armor, improved weapons, mounts"
 speed: "1"
 consumption: "4 (recruitment cost 9 BP)"
-book: "Ultimate Campaign"
 part-of: "[[rangoric-srd/unearthed-arcana/Mass Combat/Mass Combat|Mass Combat]]"
 based-on:
   - "[[path srd 3.5/kingdom/Elite Mounted Knights|Elite Mounted Knights (PF1 Ultimate Campaign)]]"

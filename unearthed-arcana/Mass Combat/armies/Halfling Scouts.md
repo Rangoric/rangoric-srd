@@ -13,7 +13,6 @@ tactics: "withdraw"
 special: "evasion, rogue talent (bleed), sneak attack"
 speed: "1"
 consumption: "1"
-book: "Ultimate Campaign"
 part-of: "[[rangoric-srd/unearthed-arcana/Mass Combat/Mass Combat|Mass Combat]]"
 based-on:
   - "[[path srd 3.5/kingdom/Halfling Scouts|Halfling Scouts (PF1 Ultimate Campaign)]]"

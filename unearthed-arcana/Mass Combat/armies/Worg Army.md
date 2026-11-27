@@ -12,7 +12,6 @@ om: "+2"
 special: "darkvision, low-light vision, scent, trip"
 speed: "3"
 consumption: "1"
-book: "Ultimate Campaign"
 part-of: "[[rangoric-srd/unearthed-arcana/Mass Combat/Mass Combat|Mass Combat]]"
 based-on:
   - "[[path srd 3.5/kingdom/Worg Army|Worg Army (PF1 Ultimate Campaign)]]"

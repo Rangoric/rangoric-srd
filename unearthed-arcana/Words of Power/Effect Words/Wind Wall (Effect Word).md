@@ -4,7 +4,6 @@ section: "Unearthed Arcana"
 word-type: "effect"
 word-group: "Wall"
 school: "evocation [air]"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/rules/ultimate-magic/words-of-power/Effect Words#Wind Wall|Wind Wall (PF1 Ultimate Magic)]]"
 status: draft

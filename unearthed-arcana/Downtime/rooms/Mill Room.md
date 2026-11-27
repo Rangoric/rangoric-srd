@@ -5,7 +5,6 @@ resource-create: "8 Goods, 7 Labor (300 gp)"
 earnings: "gp or Goods +8"
 time: "20 days"
 size: "20-30 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Mill Room|Mill Room (PF1 Ultimate Campaign)]]"
 status: draft

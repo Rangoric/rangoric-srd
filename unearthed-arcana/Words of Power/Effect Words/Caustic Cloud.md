@@ -4,7 +4,6 @@ section: "Unearthed Arcana"
 word-type: "effect"
 word-group: "Acid"
 school: "conjuration (creation) [acid]"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/rules/ultimate-magic/words-of-power/Effect Words#Caustic Cloud|Caustic Cloud (PF1 Ultimate Magic)]]"
 status: draft

@@ -3,7 +3,6 @@ srd-type: "downtime-building"
 section: "Unearthed Arcana"
 resource-create: "43 Goods, 2 Influence, 41 Labor, 1 Magic (1,840 gp)"
 rooms: "1 Book Repository, 2 Cells, 1 Common Room, 2 Offices, 1 Sitting Room"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Courthouse|Courthouse (PF1 Ultimate Campaign)]]"
 status: draft

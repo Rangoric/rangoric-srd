@@ -7,7 +7,6 @@ earnings: "Influence +15"
 benefit: "bonus on Deception, Persuasion, and Intimidation, Society, and Performance checks"
 time: "40 days"
 size: "40-80 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Throne Room|Throne Room (PF1 Ultimate Campaign)]]"
 status: draft

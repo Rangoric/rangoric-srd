@@ -3,7 +3,6 @@ srd-type: "downtime-manager"
 section: "Unearthed Arcana"
 wage: "4 gp/day"
 skills: "Persuasion, Intimidation, Engineering, Perception"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Lieutenant|Lieutenant (PF1 Ultimate Campaign)]]"
 status: draft

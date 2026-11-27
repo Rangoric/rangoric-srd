@@ -5,7 +5,6 @@ resource-create: "6 Goods, 1 Influence, 5 Labor (250 gp)"
 earnings: "gp or Influence +5"
 time: "16 days"
 size: "4-20 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Trophy Room|Trophy Room (PF1 Ultimate Campaign)]]"
 status: draft

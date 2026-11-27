@@ -5,7 +5,6 @@ resource-create: "8 Goods, 7 Labor (300 gp)"
 benefit: "increases room's durability"
 time: "30 days"
 size: "As original room"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Fortification|Fortification (PF1 Ultimate Campaign)]]"
 status: draft

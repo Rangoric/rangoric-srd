@@ -3,7 +3,6 @@ srd-type: "downtime-organization"
 section: "Unearthed Arcana"
 resource-create: "4 Goods, 15 Influence, 12 Labor (770 gp)"
 teams: "2 Cutpurses, 1 Robbers, 1 Scofflaws, 1 Soldiers"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Thieves' Guild|Thieves' Guild (PF1 Ultimate Campaign)]]"
 status: draft

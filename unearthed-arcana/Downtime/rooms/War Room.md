@@ -5,7 +5,6 @@ resource-create: "8 Goods, 7 Labor (300 gp)"
 benefit: "bonus on mass combat and skill checks while scheming"
 time: "16 days"
 size: "4-12 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/War Room|War Room (PF1 Ultimate Campaign)]]"
 status: draft

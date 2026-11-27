@@ -4,7 +4,6 @@ section: "Unearthed Arcana"
 word-type: "effect"
 word-group: "Weather"
 school: "evocation [air]"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/rules/ultimate-magic/words-of-power/Effect Words#Wind Blast|Wind Blast (PF1 Ultimate Magic)]]"
 status: draft

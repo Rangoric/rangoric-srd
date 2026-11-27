@@ -7,7 +7,6 @@ bp: "54"
 special: "Defense +8"
 lot: "4"
 resource-limit: "1 per settlement"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/kingdom/Castle (Building)|Castle (Building) (PF1 Ultimate Campaign)]]"
 status: draft

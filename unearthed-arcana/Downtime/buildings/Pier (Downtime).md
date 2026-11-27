@@ -3,7 +3,6 @@ srd-type: "downtime-building"
 section: "Unearthed Arcana"
 resource-create: "22 Goods, 3 Influence, 20 Labor (930 gp)"
 rooms: "1 Animal Pen, 1 Dock, 1 Office, 2 Storages"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Pier (Downtime)|Pier (Downtime) (PF1 Ultimate Campaign)]]"
 status: draft

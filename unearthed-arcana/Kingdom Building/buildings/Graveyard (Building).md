@@ -4,7 +4,6 @@ section: "Unearthed Arcana"
 kingdom: "Loyalty +1"
 bp: "4"
 lot: "1"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/kingdom/Graveyard (Building)|Graveyard (Building) (PF1 Ultimate Campaign)]]"
 status: draft

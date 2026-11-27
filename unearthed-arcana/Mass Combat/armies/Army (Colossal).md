@@ -12,7 +12,6 @@ om: "+9"
 special: "bravery +1"
 speed: "1"
 consumption: "4"
-book: "Ultimate Campaign"
 part-of: "[[rangoric-srd/unearthed-arcana/Mass Combat/Mass Combat|Mass Combat]]"
 based-on:
   - "[[path srd 3.5/kingdom/Army (Colossal)|Army (Colossal) (PF1 Ultimate Campaign)]]"

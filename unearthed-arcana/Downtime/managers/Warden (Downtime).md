@@ -3,7 +3,6 @@ srd-type: "downtime-manager"
 section: "Unearthed Arcana"
 wage: "2 gp/day"
 skills: "Persuasion, Intimidation, Society, Sense Motive"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Warden (Downtime)|Warden (Downtime) (PF1 Ultimate Campaign)]]"
 status: draft

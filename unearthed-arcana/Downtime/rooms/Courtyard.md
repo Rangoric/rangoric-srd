@@ -5,7 +5,6 @@ resource-create: "4 Goods, 5 Labor (180 gp)"
 earnings: "capital +5 (of a type the building already generates)"
 time: "24 days"
 size: "20-40 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Courtyard|Courtyard (PF1 Ultimate Campaign)]]"
 status: draft

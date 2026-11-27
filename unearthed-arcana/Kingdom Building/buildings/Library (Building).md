@@ -6,7 +6,6 @@ upgrade-to: "Academy"
 bp: "6"
 lot: "1"
 settlement: "Lore +1"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/kingdom/Library (Building)|Library (Building) (PF1 Ultimate Campaign)]]"
 status: draft

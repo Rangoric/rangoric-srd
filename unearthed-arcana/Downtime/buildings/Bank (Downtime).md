@@ -3,7 +3,6 @@ srd-type: "downtime-building"
 section: "Unearthed Arcana"
 resource-create: "39 Goods, 3 Influence, 35 Labor (1,570 gp)"
 rooms: "1 Guard Post, 2 Offices, 1 Secret Room, 1 Storefront, 2 Vaults"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Bank (Downtime)|Bank (Downtime) (PF1 Ultimate Campaign)]]"
 status: draft

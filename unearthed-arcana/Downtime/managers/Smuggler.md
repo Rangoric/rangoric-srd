@@ -3,7 +3,6 @@ srd-type: "downtime-manager"
 section: "Unearthed Arcana"
 wage: "3 gp/day"
 skills: "Appraise, Deception, Society, Sleight of Hand"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Smuggler|Smuggler (PF1 Ultimate Campaign)]]"
 status: draft

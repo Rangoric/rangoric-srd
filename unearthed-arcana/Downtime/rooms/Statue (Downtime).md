@@ -5,7 +5,6 @@ resource-create: "1 Goods, 2 Labor (60 gp)"
 earnings: "gp or Influence +1"
 time: "2 days"
 size: "1-9 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Statue (Downtime)|Statue (Downtime) (PF1 Ultimate Campaign)]]"
 status: draft

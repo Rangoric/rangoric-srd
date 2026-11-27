@@ -7,7 +7,6 @@ upgrade-from: "Shrine"
 bp: "32"
 lot: "2"
 discount: "Graveyard, Monument, Shrine"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/kingdom/Temple (Building)|Temple (Building) (PF1 Ultimate Campaign)]]"
 status: draft

@@ -6,7 +6,6 @@ bp: "6"
 special: "Can share lot with another building"
 lot: "1"
 resource-limit: "Cannot be adjacent to a Dump, Graveyard, Stable, Stockyard, or Tannery"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/kingdom/Cistern|Cistern (PF1 Ultimate Campaign)]]"
 status: draft

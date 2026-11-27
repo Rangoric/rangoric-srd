@@ -3,7 +3,6 @@ srd-type: "kingdom-building"
 section: "Unearthed Arcana"
 bp: "2"
 special: "Shares City Wall"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/kingdom/Watergate|Watergate (PF1 Ultimate Campaign)]]"
 status: draft

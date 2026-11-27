@@ -6,7 +6,6 @@ resource-create: "3 Influence, 1 Labor (110 gp)"
 earnings: "gp, Goods, or Labor +3"
 time: "1 day"
 size: "5 people"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Cutpurses|Cutpurses (PF1 Ultimate Campaign)]]"
 status: draft

@@ -6,7 +6,6 @@ magic-items: "1 minor scroll or wondrous item"
 bp: "12"
 lot: "1"
 settlement: "Lore +2"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/kingdom/Observatory (Building)|Observatory (Building) (PF1 Ultimate Campaign)]]"
 status: draft

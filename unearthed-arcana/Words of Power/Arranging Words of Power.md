@@ -1,7 +1,6 @@
 ---
 srd-type: "rules"
 section: "Unearthed Arcana"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/rules/ultimate-magic/words-of-power/Arranging Words of Power|Arranging Words of Power (PF1 Ultimate Magic)]]"
   - "[[path srd 3.5/rules/ultimate-magic/words-of-power/Arranging Words of Power#Effect Word|Effect Word (PF1 Ultimate Magic)]]"

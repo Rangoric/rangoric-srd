@@ -4,7 +4,6 @@ section: "Unearthed Arcana"
 word-type: "effect"
 word-group: "Power"
 school: "enchantment (compulsion) [mind-affecting]"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/rules/ultimate-magic/words-of-power/Effect Words#Blind|Blind (PF1 Ultimate Magic)]]"
 status: draft

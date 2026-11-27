@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, dancing lights, daylight, faerie fire, ligh
 price: "1,000 gp"
 cost: "10,500 gp"
 scaling: "prize"
-book: "Pathfinder Unchained"
 based-on:
   - "[[path srd 3.5/rules/pathfinder-unchained/Scaling Items|Scaling Items (PF1 Unchained)]]"
 status: draft

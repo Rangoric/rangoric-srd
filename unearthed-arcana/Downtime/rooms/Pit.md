@@ -5,7 +5,6 @@ resource-create: "1 Goods, 1 Labor (40 gp)"
 earnings: "gp or Labor +1"
 time: "2 days"
 size: "1-5 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Pit|Pit (PF1 Ultimate Campaign)]]"
 status: draft

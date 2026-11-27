@@ -14,7 +14,6 @@ special: "darkvision, light sensitivity, poison, spell resistance"
 speed: "2"
 consumption: "1"
 note: "+2 OM due to spell-like abilities"
-book: "Ultimate Campaign"
 part-of: "[[rangoric-srd/unearthed-arcana/Mass Combat/Mass Combat|Mass Combat]]"
 based-on:
   - "[[path srd 3.5/kingdom/Drow Army|Drow Army (PF1 Ultimate Campaign)]]"

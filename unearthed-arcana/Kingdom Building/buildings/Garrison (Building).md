@@ -6,7 +6,6 @@ upgrade-from: "Barracks"
 bp: "28"
 lot: "2"
 discount: "City Wall, Granary, Jail"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/kingdom/Garrison (Building)|Garrison (Building) (PF1 Ultimate Campaign)]]"
 status: draft

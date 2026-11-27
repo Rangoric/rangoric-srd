@@ -4,7 +4,6 @@ section: "Unearthed Arcana"
 word-type: "effect"
 word-group: "Concealing"
 school: "illusion (glamer)"
-book: "Ultimate Magic"
 based-on:
   - "[[path srd 3.5/rules/ultimate-magic/words-of-power/Effect Words#Unseen Shell|Unseen Shell (PF1 Ultimate Magic)]]"
 status: draft

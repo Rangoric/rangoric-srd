@@ -10,7 +10,6 @@ price: "5,000 gp"
 cost: "23,625 gp"
 weight: "6 lbs."
 scaling: "prize"
-book: "Pathfinder Unchained"
 based-on:
   - "[[path srd 3.5/rules/pathfinder-unchained/Scaling Items|Scaling Items (PF1 Unchained)]]"
   - "[[path srd 3.5 foundry/items/scaling/Filthy Rags|Filthy Rags (PF1 F)]]"

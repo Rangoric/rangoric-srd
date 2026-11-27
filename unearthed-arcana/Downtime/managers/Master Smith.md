@@ -3,7 +3,6 @@ srd-type: "downtime-manager"
 section: "Unearthed Arcana"
 wage: "4 gp/day"
 skills: "Appraise, Craft (any one), Perception, Profession (any one)"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Master Smith|Master Smith (PF1 Ultimate Campaign)]]"
 status: draft

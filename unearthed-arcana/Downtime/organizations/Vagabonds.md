@@ -3,7 +3,6 @@ srd-type: "downtime-organization"
 section: "Unearthed Arcana"
 resource-create: "10 Goods, 13 Influence, 13 Labor, 7 Magic (1,550 gp)"
 teams: "1 Acolyte, 1 Apprentice, 1 Cutpurses, 2 Drivers, 1 Guards, 1 Laborers, 1 Scofflaws"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Vagabonds|Vagabonds (PF1 Ultimate Campaign)]]"
 status: draft

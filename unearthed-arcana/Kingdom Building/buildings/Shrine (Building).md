@@ -6,7 +6,6 @@ upgrade-to: "Temple"
 magic-items: "1 minor potion, scroll, or wondrous item"
 bp: "8"
 lot: "1"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/kingdom/Shrine (Building)|Shrine (Building) (PF1 Ultimate Campaign)]]"
 status: draft

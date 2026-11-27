@@ -7,7 +7,6 @@ earnings: "gp or Influence +4"
 benefit: "prevents or creates undead"
 time: "8 days"
 size: "20-30 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Burial Ground|Burial Ground (PF1 Ultimate Campaign)]]"
 status: draft

@@ -6,7 +6,6 @@ resource-create: "18 Goods, 3 Influence, 17 Labor (790 gp)"
 earnings: "gp or Influence +12"
 time: "40 days"
 size: "40-60 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Habitat|Habitat (PF1 Ultimate Campaign)]]"
 status: draft

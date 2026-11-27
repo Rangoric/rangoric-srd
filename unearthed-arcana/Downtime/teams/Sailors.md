@@ -6,7 +6,6 @@ resource-create: "1 Goods, 1 Influence, 2 Labor (90 gp)"
 earnings: "gp, Goods, or Labor +2"
 time: "0 days"
 size: "5 people"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Sailors|Sailors (PF1 Ultimate Campaign)]]"
 status: draft

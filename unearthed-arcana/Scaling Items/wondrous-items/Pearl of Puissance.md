@@ -9,7 +9,6 @@ prerequisites: "Craft Wondrous Item, creator must be able to cast 9th-level spel
 price: "1,575 gp"
 cost: "51,375 gp"
 scaling: "prize"
-book: "Pathfinder Unchained"
 based-on:
   - "[[path srd 3.5/rules/pathfinder-unchained/Scaling Items|Scaling Items (PF1 Unchained)]]"
 status: draft

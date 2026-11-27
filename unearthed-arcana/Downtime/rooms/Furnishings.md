@@ -5,7 +5,6 @@ resource-create: "9 Goods, 6 Labor (300 gp)"
 earnings: "+5 on the room's check to generate capital"
 time: "20 days"
 size: "as original room"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Furnishings|Furnishings (PF1 Ultimate Campaign)]]"
 status: draft

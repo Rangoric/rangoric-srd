@@ -7,7 +7,6 @@ bp: "6"
 lot: "1"
 settlement: "Law +1"
 special: "Defense +2"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/kingdom/Barracks (Building)|Barracks (Building) (PF1 Ultimate Campaign)]]"
 status: draft

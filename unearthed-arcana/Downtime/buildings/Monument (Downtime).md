@@ -3,7 +3,6 @@ srd-type: "downtime-building"
 section: "Unearthed Arcana"
 resource-create: "10 Goods, 8 Labor (360 gp)"
 rooms: "1 Furnishings (Statue), 1 Statue"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Monument (Downtime)|Monument (Downtime) (PF1 Ultimate Campaign)]]"
 status: draft

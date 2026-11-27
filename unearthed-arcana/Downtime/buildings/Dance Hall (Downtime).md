@@ -3,7 +3,6 @@ srd-type: "downtime-building"
 section: "Unearthed Arcana"
 resource-create: "53 Goods, 1 Influence, 53 Labor (2,150 gp)"
 rooms: "1 Ballroom, 1 Bar, 1 Common Room, 1 Lavatory, 1 Office, 1 Sitting Room, 1 Storage"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Dance Hall (Downtime)|Dance Hall (Downtime) (PF1 Ultimate Campaign)]]"
 status: draft

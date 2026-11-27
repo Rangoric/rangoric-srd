@@ -7,7 +7,6 @@ earnings: "gp, Goods, Influence, or Labor +8"
 benefit: "counts as masterwork artisan's tools for writing and printing skills"
 time: "20 days"
 size: "5-16 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Printer|Printer (PF1 Ultimate Campaign)]]"
 status: draft

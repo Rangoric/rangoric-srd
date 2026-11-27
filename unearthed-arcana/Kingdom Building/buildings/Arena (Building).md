@@ -8,7 +8,6 @@ lot: "4"
 discount: "Brothel, Garrison, Inn, Stable, Theater"
 settlement: "Crime +1"
 resource-limit: "1 per settlement"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/kingdom/Arena (Building)|Arena (Building) (PF1 Ultimate Campaign)]]"
 status: draft

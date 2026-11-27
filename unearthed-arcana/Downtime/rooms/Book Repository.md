@@ -7,7 +7,6 @@ earnings: "gp or Influence +8"
 benefit: "bonus on Knowledge checks of one type"
 time: "16 days"
 size: "4-12 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Book Repository|Book Repository (PF1 Ultimate Campaign)]]"
 status: draft

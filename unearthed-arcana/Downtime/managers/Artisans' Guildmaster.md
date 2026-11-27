@@ -3,7 +3,6 @@ srd-type: "downtime-manager"
 section: "Unearthed Arcana"
 wage: "3 gp/day"
 skills: "Appraise, Craft (any one), Persuasion, Profession (any one)"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Artisans' Guildmaster|Artisans' Guildmaster (PF1 Ultimate Campaign)]]"
 status: draft

@@ -7,7 +7,6 @@ earnings: "gp, Goods, Influence, Labor, or Magic +5"
 benefit: "counts as masterwork artisan's tools for writing skills"
 time: "16 days"
 size: "5-16 squares"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Scriptorium|Scriptorium (PF1 Ultimate Campaign)]]"
 status: draft

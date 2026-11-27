@@ -6,7 +6,6 @@ resource-create: "2 Goods, 2 Influence, 2 Labor, 3 Magic (440 gp)"
 earnings: "gp, Influence, or Magic +4"
 time: "3 days"
 size: "1 person"
-book: "Ultimate Campaign"
 based-on:
   - "[[path srd 3.5/downtime/Acolyte (Downtime)|Acolyte (Downtime) (PF1 Ultimate Campaign)]]"
 status: draft

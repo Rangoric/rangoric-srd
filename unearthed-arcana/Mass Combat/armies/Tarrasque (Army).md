@@ -14,7 +14,6 @@ special: "cannibalize; fear; grab; immune to ability damage, bleed, disease, ene
 speed: "2"
 consumption: "8"
 note: "+4 OM due to feats and monster special abilities"
-book: "Ultimate Campaign"
 part-of: "[[rangoric-srd/unearthed-arcana/Mass Combat/Mass Combat|Mass Combat]]"
 based-on:
   - "[[path srd 3.5/kingdom/Tarrasque (Army)|Tarrasque (Army) (PF1 Ultimate Campaign)]]"

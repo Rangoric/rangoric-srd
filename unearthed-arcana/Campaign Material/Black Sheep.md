@@ -2,7 +2,6 @@
 srd-type: "trait"
 section: "Unearthed Arcana"
 trait-type: "campaign"
-book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/traits/Black Sheep|Black Sheep (PF1 Advanced Player's Guide)]]"
 status: draft
