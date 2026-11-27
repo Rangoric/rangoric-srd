@@ -16,5 +16,5 @@ tags: [rangoric, rangoric/magic-item]
 
 # Seeing
 
-This kind of armor grants a wider than normal field of vision, so that opponents flanking the wearer gain only a +1 bonus on their attack rolls instead of +2 (rogues still get their full sneak attack damage because the wearer is still flanked). The wearer gains a +1 enhancement bonus on [[rangoric-srd/skills/Perception|Perception]] checks but takes a -2 penalty on saves against gaze attacks.  
+This kind of armor grants a wider than normal field of vision, so that opponents flanking the wearer gain only a +1 bonus on their attack rolls instead of +2 (rogues still get their full sneak attack damage because the wearer is still flanked). The wearer gains a +1 enhancement bonus on [[rangoric-srd/skills/Perception|Perception]] checks but takes a -2 penalty on defenses against gaze attacks.  
 Faint clairsentience; ML 5th; Craft Psionic Arms and Armor, ubiquitous vision; Price +6,000 gp.

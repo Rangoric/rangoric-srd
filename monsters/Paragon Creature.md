@@ -39,7 +39,7 @@ Special Qualities: A paragon creature retains all the special qualities of the b
 - [[rangoric-srd/monsters/abilities/Fast Healing|Fast healing]] 20. If the creature already possesses fast healing, use whichever is better.
 - A paragon creature’s natural weapons are treated as epic for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
-Saves: The paragon creature gains a +10 insight bonus on all its saving throws.
+Saves: The paragon creature gains a +10 insight bonus to all its defenses.
 
 Abilities: All ability scores are 15 points higher than those of the base creature.
 

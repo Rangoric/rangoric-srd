@@ -33,6 +33,6 @@ Each necklace of fireballs contains a combination of spheres of various strength
 | Type VI  | 1    | —   | 2   | —   | 2   | —   | 4   | —   | —   | 8,100 gp     |
 | Type VII | 1    | 2   | —   | 2   | —   | 2   | —   | 2   | —   | 8,700 gp     |
 
-If the necklace is being worn or carried by a character who fails her saving throw against a magical fire attack, the attack also attacks the necklace, whose defense is 17. If it hits the necklace, all its remaining spheres detonate simultaneously, often with regrettable consequences for the wearer.
+If the necklace is being worn or carried by a character whom a magical fire attack hits, the attack also attacks the necklace, whose defense is 17. If it hits the necklace, all its remaining spheres detonate simultaneously, often with regrettable consequences for the wearer.
 
 Moderate evocation; CL 10th; Craft Wondrous Item, fireball; Price 5,850 gp.
