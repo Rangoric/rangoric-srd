@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Brd 1"
   - "Mes 1"
@@ -28,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 # Deja Vu
 
-_Enchantment (Compulsion) \[MindAffecting\]_
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Brd 1, Mes 1, Psy 1, Skd 1, Sor/Wiz 1
 - **Components**: V

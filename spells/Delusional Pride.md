@@ -5,7 +5,7 @@ school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
   - "Emotion"
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Brd 1"
   - "Med 1"
@@ -33,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 # Delusional Pride
 
-_Enchantment (Compulsion) \[Emotion, Mind-affecting\]_
+_Enchantment (Compulsion) \[Emotion, Mind-Affecting\]_
 
 - **Level**: Brd 1, Med 1, Mes 1, Psy 1, Skd 1, Sor/Wiz 1, Wit 1
 - **Components**: V, S

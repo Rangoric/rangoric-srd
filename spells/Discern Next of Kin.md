@@ -3,7 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Divination"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Brd 1"
   - "Med 1"
@@ -35,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 # Discern Next of Kin
 
-_Divination \[Mind-affecting\]_
+_Divination \[Mind-Affecting\]_
 
 - **Level**: Brd 1, Med 1, Mes 1, Occ 1, Psy 1, Sha 1, Skd 1, Sor/Wiz 1, Spi 1, Wit 1
 - **Components**: V, S, F (a copper piece)

@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Brd 5"
   - "Skd 5"
@@ -28,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 # Cacophonous Call, Mass
 
-_Enchantment (Compulsion) \[Mind-affecting\]_
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Brd 5, Skd 5
 - **Components**: V, S, M (a scrap of sheet music)

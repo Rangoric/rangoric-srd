@@ -3,7 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Abjuration"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Brd 6"
   - "Psy 8"
@@ -28,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 # Fool’s Forbiddance
 
-_Abjuration \[Mind-affecting\]_
+_Abjuration \[Mind-Affecting\]_
 
 - **Level**: Brd 6, Psy 8, Skd 6
 - **Components**: V, S, M (a ring of keys)

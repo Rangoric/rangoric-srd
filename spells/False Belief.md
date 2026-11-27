@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Brd 2"
   - "Mes 2"
@@ -29,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 # False Belief
 
-_Enchantment (Compulsion) \[MindAffecting\]_
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Brd 2, Mes 2, Psy 2, Skd 2
 - **Components**: V, S, M (lemon juice and a scrap of parchment)

@@ -3,7 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Evocation"
 descriptor:
-  - "Language-dependent"
+  - "Language-Dependent"
 level:
   - "Brd 6"
   - "Psy 8"
@@ -26,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 # Brilliant Inspiration
 
-_Evocation \[Language-dependent\]_
+_Evocation \[Language-Dependent\]_
 
 - **Level**: Brd 6, Psy 8, Skd 6
 - **Components**: V

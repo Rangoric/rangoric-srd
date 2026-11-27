@@ -6,7 +6,7 @@ subschool: "Compulsion"
 descriptor:
   - "Curse"
   - "Emotion"
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Brd 4"
   - "Clr 6"
@@ -34,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 # Curse of the Outcast
 
-_Enchantment (Compulsion) \[Curse, Emotion, MindAffecting\]_
+_Enchantment (Compulsion) \[Curse, Emotion, Mind-Affecting\]_
 
 - **Level**: Brd 4, Clr 6, Inq 4, Mes 4, Skd 4, Wit 6
 - **Components**: V, S, M (a handful of earthworms)

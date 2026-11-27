@@ -3,7 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Divination"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Inq 4"
   - "Med 4"
@@ -30,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 # Battlemind Link
 
-_Divination \[Mind-affecting\]_
+_Divination \[Mind-Affecting\]_
 
 - **Level**: Inq 4, Med 4, Mes 4, Occ 5, Psy 6, Sor/Wiz 6
 - **Components**: V, S

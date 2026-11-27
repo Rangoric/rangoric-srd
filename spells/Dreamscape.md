@@ -2,8 +2,7 @@
 srd-type: "spell"
 section: "Spells"
 school: "Conjuration"
-descriptor:
-  - "Teleportation"
+subschool: "Teleportation"
 spellcraft-dc: "29"
 components:
   - "V"
@@ -24,7 +23,7 @@ tags: [rangoric, rangoric/spell]
 
 # Dreamscape
 
-Conjuration \[Teleportation\]  
+Conjuration (Teleportation)  
 Casting DC: 29  
 Components: V, S  
 Casting Time: 1 minute  

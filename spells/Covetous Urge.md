@@ -5,8 +5,8 @@ school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
   - "Curse"
-  - "LanguageDependent"
-  - "MindAffecting"
+  - "Language-Dependent"
+  - "Mind-Affecting"
 level:
   - "Brd 2"
   - "Skd 2"
@@ -34,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 # Covetous Urge
 
-_Enchantment (Compulsion) \[Curse, LanguageDependent, MindAffecting\]_
+_Enchantment (Compulsion) \[Curse, Language-Dependent, Mind-Affecting\]_
 
 - **Level**: Brd 2, Skd 2, Sor/Wiz 2, Sum 2, SumU 2, Wit 2
 - **Components**: V, S, M (a golden coin)

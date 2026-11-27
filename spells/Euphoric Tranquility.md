@@ -5,7 +5,7 @@ school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
   - "Emotion"
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Brd 6"
   - "Clr 8"
@@ -35,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 # Euphoric Tranquility
 
-_Enchantment (Compulsion) \[Emotion, Mind-affecting\]_
+_Enchantment (Compulsion) \[Emotion, Mind-Affecting\]_
 
 - **Level**: Brd 6, Clr 8, Drd 8, Mes 6, Psy 8, Skd 6, Sor/Wiz 8
 - **Components**: V, S, M/DF (a poppy flower)

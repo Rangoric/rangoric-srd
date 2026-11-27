@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Brd 3"
   - "Med 2"
@@ -32,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 # Aura of the Unremarkable
 
-_Enchantment (Compulsion) \[MindAffecting\]_
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Brd 3, Med 2, Mes 3, Psy 3, Skd 3, Sor/Wiz 4
 - **Components**: V, S, M (a white feather)

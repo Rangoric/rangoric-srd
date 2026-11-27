@@ -3,7 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Transmutation"
 descriptor:
-  - "Variable"
+  - "See text"
 level:
   - "Occ 6"
   - "Sor/Wiz 6"

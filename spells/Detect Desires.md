@@ -3,7 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Divination"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Apl 2"
   - "Brd 2"
@@ -38,7 +38,7 @@ tags: [rangoric, rangoric/spell]
 
 # Detect Desires
 
-_Divination \[MindAffecting\]_
+_Divination \[Mind-Affecting\]_
 
 - **Level**: Apl 2, Brd 2, Clr 3, Inq 3, Med 2, Mes 3, Pal 3, Psy 2, Skd 2, Sor/Wiz 3, Spi 3, Wit 3
 - **Components**: V, S, F, F/DF

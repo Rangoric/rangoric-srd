@@ -4,8 +4,8 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "LanguageDependent"
-  - "MindAffecting"
+  - "Language-Dependent"
+  - "Mind-Affecting"
 level:
   - "Brd 6"
   - "Mes 6"
@@ -34,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 # Demanding Message, Mass
 
-_Enchantment (Compulsion) \[LanguageDependent, MindAffecting\]_
+_Enchantment (Compulsion) \[Language-Dependent, Mind-Affecting\]_
 
 - **Level**: Brd 6, Mes 6, Occ 6, Psy 6, Skd 6, Sor/Wiz 7, Wit 7
 - **Components**: V, S, F

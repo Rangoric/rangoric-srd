@@ -4,8 +4,8 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "Language-dependent"
-  - "Mind-affecting"
+  - "Language-Dependent"
+  - "Mind-Affecting"
 level:
   - "Clr 5"
   - "Inq 5"
@@ -30,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 # Forbid Action, Greater
 
-_Enchantment (Compulsion) \[Language-dependent, Mind-affecting\]_
+_Enchantment (Compulsion) \[Language-Dependent, Mind-Affecting\]_
 
 - **Level**: Clr 5, Inq 5, Mes 4, Occ 5, Psy 5
 - **Components**: V

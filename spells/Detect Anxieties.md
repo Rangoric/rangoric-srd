@@ -3,7 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Divination"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Apl 2"
   - "Brd 3"
@@ -38,7 +38,7 @@ tags: [rangoric, rangoric/spell]
 
 # Detect Anxieties
 
-_Divination \[MindAffecting\]_
+_Divination \[Mind-Affecting\]_
 
 - **Level**: Apl 2, Brd 3, Clr 3, Inq 3, Med 2, Mes 2, Pal 3, Psy 2, Skd 3, Sor/Wiz 3, Spi 3, Wit 3
 - **Components**: V, S, F, F/DF

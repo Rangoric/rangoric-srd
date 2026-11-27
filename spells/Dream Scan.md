@@ -3,7 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Divination"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Brd 6"
   - "Med 4"
@@ -30,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 # Dream Scan
 
-_Divination \[MindAffecting\]_
+_Divination \[Mind-Affecting\]_
 
 - **Level**: Brd 6, Med 4, Mes 5, Psy 5, Skd 6, Sor/Wiz 6
 - **Components**: V, S

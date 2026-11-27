@@ -5,7 +5,7 @@ school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
   - "Emotion"
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Brd 2"
   - "Clr 2"
@@ -33,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 # Compassionate Ally
 
-_Enchantment (Compulsion) \[Emotion, Mind-affecting\]_
+_Enchantment (Compulsion) \[Emotion, Mind-Affecting\]_
 
 - **Level**: Brd 2, Clr 2, Med 2, Mes 2, Psy 2, Skd 2, Sor/Wiz 2
 - **Components**: V, S

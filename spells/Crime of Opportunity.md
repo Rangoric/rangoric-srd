@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Apl 1"
   - "Mes 1"
@@ -28,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 # Crime of Opportunity
 
-_Enchantment (Compulsion) \[MindAffecting\]_
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Apl 1, Mes 1
 - **Components**: V, S, M (a slit purse)

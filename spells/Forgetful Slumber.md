@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Brd 4"
   - "Mes 4"
@@ -32,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 # Forgetful Slumber
 
-_Enchantment (Compulsion) \[Mind-affecting\]_
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Brd 4, Mes 4, Psy 4, Skd 4, Sor/Wiz 4, Wit 4
 - **Components**: V, S, M (a few drops of river water)

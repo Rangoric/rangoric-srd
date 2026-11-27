@@ -5,7 +5,7 @@ school: "Necromancy"
 descriptor:
   - "Emotion"
   - "Fear"
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Clr 4"
   - "Psy 4"
@@ -31,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 # Aura of Doom
 
-_Necromancy \[Emotion, Fear, Mind-affecting\]_
+_Necromancy \[Emotion, Fear, Mind-Affecting\]_
 
 - **Level**: Clr 4, Psy 4, Spi 4
 - **Components**: V, S, M/DF (powdered bone)

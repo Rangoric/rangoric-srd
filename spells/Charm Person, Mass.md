@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Charm"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Brd 4"
   - "Mes 4"
@@ -32,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 # Charm Person, Mass
 
-_Enchantment (Charm) \[MindAffecting\]_
+_Enchantment (Charm) \[Mind-Affecting\]_
 
 - **Level**: Brd 4, Mes 4, Occ 4, Psy 5, Skd 4, Sor/Wiz 5, Wit 5
 - **Components**: V, S

@@ -5,7 +5,7 @@ school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
   - "Emotion"
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Brd 2"
   - "Clr 3"
@@ -33,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 # Contagious Zeal
 
-_Enchantment (Compulsion) \[Emotion, MindAffecting\]_
+_Enchantment (Compulsion) \[Emotion, Mind-Affecting\]_
 
 - **Level**: Brd 2, Clr 3, Inq 3, Psy 3, Skd 2, Sor/Wiz 3, Spi 3
 - **Components**: V, S

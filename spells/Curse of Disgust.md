@@ -2,11 +2,11 @@
 srd-type: "spell"
 section: "Spells"
 school: "Enchantment"
+subschool: "Compulsion"
 descriptor:
-  - "Compulsion"
   - "Curse"
   - "Emotion"
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Brd 3"
   - "Mes 3"
@@ -34,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 # Curse of Disgust
 
-_Enchantment \[Compulsion, Curse, Emotion, Mind-affecting\]_
+_Enchantment (Compulsion) \[Curse, Emotion, Mind-Affecting\]_
 
 - **Level**: Brd 3, Mes 3, Occ 4, Psy 6, Skd 3, Sor/Wiz 5, Wit 5
 - **Components**: V, S

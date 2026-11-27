@@ -3,7 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Abjuration"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Alc 2"
   - "Brd 2"
@@ -34,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 # Enshroud Thoughts
 
-_Abjuration \[MindAffecting\]_
+_Abjuration \[Mind-Affecting\]_
 
 - **Level**: Alc 2, Brd 2, Hun 3, Inq 2, Med 2, Mes 2, Psy 2, Rgr 3, Skd 2, Wit 2
 - **Components**: V, S

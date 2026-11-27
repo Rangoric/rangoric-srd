@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Clr 6"
   - "Inq 6"
@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/spell]
 
 # Blessing of Luck and Resolve, Mass
 
-_Enchantment (Compulsion) \[Mind-affecting\]_
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Clr 6, Inq 6, Pal 4
 - **Components**:

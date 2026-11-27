@@ -4,7 +4,7 @@ section: "Spells"
 school: "Illusion"
 subschool: "Phantasm"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Mes 6"
   - "Psy 6"
@@ -28,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 # Create Mindscape, Greater
 
-_Illusion (Phantasm) \[MindAffecting\]_
+_Illusion (Phantasm) \[Mind-Affecting\]_
 
 - **Level**: Mes 6, Psy 6, Sor/Wiz 7
 - **Components**: V, S

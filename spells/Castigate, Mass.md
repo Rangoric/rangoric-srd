@@ -6,8 +6,8 @@ subschool: "Compulsion"
 descriptor:
   - "Emotion"
   - "Fear"
-  - "Language-dependent"
-  - "Mind-affecting"
+  - "Language-Dependent"
+  - "Mind-Affecting"
 level:
   - "Inq 5"
   - "Mes 5"
@@ -31,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 # Castigate, Mass
 
-_Enchantment (Compulsion) \[Emotion, Fear, Language-dependent, Mind-affecting\]_
+_Enchantment (Compulsion) \[Emotion, Fear, Language-Dependent, Mind-Affecting\]_
 
 - **Level**: Inq 5, Mes 5
 - **Components**: V, S, DF

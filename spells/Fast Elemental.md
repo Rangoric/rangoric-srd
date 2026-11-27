@@ -2,8 +2,7 @@
 srd-type: "spell"
 section: "Spells"
 school: "Conjuration"
-descriptor:
-  - "Summoning"
+subschool: "Summoning"
 level:
   - "Drd 7"
   - "Sor/Wiz 7"
@@ -22,7 +21,7 @@ tags: [rangoric, rangoric/spell]
 
 # Fast Elemental
 
-_Conjuration \[Summoning\]_
+_Conjuration (Summoning)_
 
 - **Level**: Drd 7, Sor/Wiz 7
 - **Components**: V, S

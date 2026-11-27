@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Brd 1"
   - "Clr 1"
@@ -39,7 +39,7 @@ tags: [rangoric, rangoric/spell]
 
 # Compel Hostility
 
-_Enchantment (Compulsion) \[Mind-affecting\]_
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Brd 1, Clr 1, Hun 1, Inq 1, Med 1, Mes 1, Pal 1, Psy 1, Rgr 1, Skd 1, Sum 1, SumU 1, Wit 1
 - **Components**: V, S, M (a drop of your blood)

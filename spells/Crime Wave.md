@@ -4,7 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
-  - "MindAffecting"
+  - "Mind-Affecting"
 level:
   - "Apl 4"
   - "Brd 5"
@@ -32,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 # Crime Wave
 
-_Enchantment (Compulsion) \[MindAffecting\]_
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
 - **Level**: Apl 4, Brd 5, Mes 5, Psy 7, Skd 5, Sor/Wiz 7
 - **Components**: V, S, M (a tarnished coin)

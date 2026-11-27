@@ -5,7 +5,7 @@ school: "Enchantment"
 subschool: "Compulsion"
 descriptor:
   - "Emotion"
-  - "Mind-affecting"
+  - "Mind-Affecting"
 level:
   - "Brd 4"
   - "Mes 4"
@@ -31,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 # Envious Urge
 
-_Enchantment (Compulsion) \[Emotion, Mind-affecting\]_
+_Enchantment (Compulsion) \[Emotion, Mind-Affecting\]_
 
 - **Level**: Brd 4, Mes 4, Psy 6, Skd 4, Sor/Wiz 6
 - **Components**: V, S
