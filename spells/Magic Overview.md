@@ -154,9 +154,11 @@ Beneath the spell name is a line giving the [[rangoric-srd/spells/Schools of Mag
 
 Appearing on the same line as the school and subschool, when applicable, is a descriptor that further categorizes the spell in some way. Some spells have more than one descriptor.
 
-The descriptors are acid, air, chaotic, cold, cold iron, darkness, death, earth, electricity, emotion, evil, fear, fire, force, good, language-dependent, lawful, light, mind-affecting, sonic, and water.
+The descriptors are acid, air, chaotic, cold, cold iron, curse, darkness, death, disease, earth, electricity, emotion, evil, fear, fire, force, good, language-dependent, lawful, light, mind-affecting, pain, poison, shadow, sonic, and water.
 
 Most of these descriptors have no game effect by themselves, but they govern how the spell interacts with other spells, with special abilities, with unusual creatures, with alignment, and so on.
+
+A spell with the chaotic, evil, good or lawful descriptor also carries the matching tag (`chaotic`, `evil`, `good` or `lawful`), so a list can gather every spell of an alignment. ^alignment-descriptors
 
 A language-dependent spell uses intelligible language as a medium for communication. If the target cannot understand or cannot hear what the caster of a language-dependant spell says the spell fails.
 
