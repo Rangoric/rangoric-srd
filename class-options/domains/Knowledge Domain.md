@@ -27,7 +27,7 @@ You are a scholar and a sage of legends. In addition, you treat all [[rangoric-s
 
 **Remote Viewing (Sp)**: Starting at 6th level, you can use _[[rangoric-srd/spells/Clairaudience-Clairvoyance|clairvoyance/clairaudience]]_ at will as a spell-like ability using your cleric level as the caster level. You can use this ability for a number of rounds per day equal to your cleric level. These rounds do not need to be consecutive.
 
-**Granted Power (3.5)**: Add all [[rangoric-srd/skills/Knowledge|Knowledge]] skills to your list of cleric class skills.
+**Granted Power**: Add all [[rangoric-srd/skills/Knowledge|Knowledge]] skills to your list of cleric class skills.
 
 You cast divination spells at +1 caster level.
 

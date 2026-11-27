@@ -27,7 +27,7 @@ You are infused with the glory of the divine, and are a true foe of the undead. 
 
 **Divine Presence (Su)**: At 8th level, you can emit a 30-foot aura of divine presence for a number of rounds per day equal to your cleric level. All allies within this aura are treated as if under the effects of a _[[rangoric-srd/spells/Sanctuary|sanctuary]]_ spell with an attack bonus equal to 1/2 your cleric level + your Wisdom modifier. These rounds do not need to be consecutive. Activating this ability is a standard action. If an ally leaves the area or makes an attack, the effect ends for that ally. If you make an attack, the effect ends for you and your allies.
 
-**Granted Power (3.5)**: Turn undead with a +2 bonus on the turning check and +1d6 to the turning damage roll.
+**Granted Power**: Turn undead with a +2 bonus on the turning check and +1d6 to the turning damage roll.
 
 ## Domain Spells
 

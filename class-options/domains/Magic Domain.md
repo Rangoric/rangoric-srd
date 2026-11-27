@@ -27,7 +27,7 @@ You are a true student of all things mystical, and see divinity in the purity of
 
 **Dispelling Touch (Sp)**: At 8th level, you can use a targeted _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_ effect as a melee touch attack. You can use this ability once per day at 8th level and one additional time per day for every four cleric levels beyond 8th.
 
-**Granted Power (3.5)**: Use scrolls, wands, and other devices with spell completion or spell trigger activation as a wizard of one-half your cleric level (at least 1st level). For the purpose of using a scroll or other magic device, if you are also a wizard, actual wizard levels and these effective wizard levels stack.
+**Granted Power**: Use scrolls, wands, and other devices with spell completion or spell trigger activation as a wizard of one-half your cleric level (at least 1st level). For the purpose of using a scroll or other magic device, if you are also a wizard, actual wizard levels and these effective wizard levels stack.
 
 ## Domain Spells
 

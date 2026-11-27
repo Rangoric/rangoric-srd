@@ -27,7 +27,7 @@ You are a spirit of freedom and a staunch foe against all who would enslave and 
 
 **Freedom's Call (Su)**: At 8th level, you can emit a 30-foot aura of freedom for a number of rounds per day equal to your cleric level. Allies within this aura are not affected by the confused, grappled, frightened, panicked, paralyzed, pinned, or shaken conditions. This aura only suppresses these effects, and they return once a creature leaves the aura or when the aura ends, if applicable. These rounds do not need to be consecutive.
 
-**Granted Power (3.5)**: The character gains a +2 morale bonus on all defenses against enchantment spells or effects.
+**Granted Power**: The character gains a +2 morale bonus on all defenses against enchantment spells or effects.
 
 ## Domain Spells
 

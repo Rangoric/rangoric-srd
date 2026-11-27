@@ -27,7 +27,7 @@ Your touch staves off pain and death, and your healing magic is particularly vit
 
 **Healer's Blessing (Su)**: At 6th level, all of your cure spells are treated as if they were empowered, increasing the amount of damage healed by half (+50%). This does not apply to damage dealt to undead with a cure spell. This does not stack with the Empower Spell metamagic feat.
 
-**Granted Power (3.5)**: You cast healing spells at +1 caster level.
+**Granted Power**: You cast healing spells at +1 caster level.
 
 ## Domain Spells
 

@@ -27,7 +27,7 @@ You are sinister and cruel, and have wholly pledged your soul to the cause of ev
 
 **Scythe of Evil (Su)**: At 8th level, you can give a weapon touched the _[[rangoric-srd/magic-items/weapon-abilities/Unholy|unholy]]_ special weapon quality for a number of rounds equal to 1/2 your cleric level. You can use this ability once per day at 8th level, and an additional time per day for every four levels beyond 8th.
 
-**Granted Power (3.5)**: You cast evil spells at +1 caster level.
+**Granted Power**: You cast evil spells at +1 caster level.
 
 ## Domain Spells
 

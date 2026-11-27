@@ -29,7 +29,7 @@ You see death not as something to be feared, but as a final rest and reward for 
 
 The Repose domain is similar to the Death domain, but is granted by good-aligned deities whose clerics are barred from casting evil spells.
 
-**Granted Power (3.5)**: The character may use a death touch once per day. The death touch is a spell-like ability that is a death effect. The character must succeed at a melee touch attack against a living creature (using the rules for touch spells). When the character touches, roll 1d6 per his or her cleric level. If the total at least equals the creature’s current hit points, it dies.
+**Granted Power**: The character may use a death touch once per day. The death touch is a spell-like ability that is a death effect. The character must succeed at a melee touch attack against a living creature (using the rules for touch spells). When the character touches, roll 1d6 per his or her cleric level. If the total at least equals the creature’s current hit points, it dies.
 
 ## Domain Spells
 

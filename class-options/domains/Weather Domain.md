@@ -27,7 +27,7 @@ With power over storm and sky, you can call down the wrath of the gods upon the 
 
 **Lightning Lord (Sp)**: At 8th level, you can call down a number of bolts of lightning per day equal to your cleric level. You can call down as many bolts as you want with a single standard action, but no creature can be the target of more than one bolt and no two targets can be more than 30 feet apart. This ability otherwise functions as _[[rangoric-srd/spells/Call Lightning|call lightning]]_.
 
-**Granted Power (3.5)**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] is a class skill.
+**Granted Power**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] is a class skill.
 
 ## Domain Spells
 

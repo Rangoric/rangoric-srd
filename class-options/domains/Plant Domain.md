@@ -27,7 +27,7 @@ You find solace in the green, can grow defensive thorns, and can communicate wit
 
 **Bramble Armor (Su)**: At 6th level, you can cause a host of wooden thorns to burst from your skin as a free action. While bramble armor is in effect, any foe striking you with an unarmed strike or a melee weapon without reach takes 1d6 points of piercing damage + 1 point per two cleric levels you possess. You can use this ability for a number of rounds per day equal to your cleric level. These rounds do not need to be consecutive.
 
-**Granted Power (3.5)**: Rebuke or command plant creatures as an evil cleric rebukes or commands undead. Use this ability a total number of times per day equal to 3 + your Charisma modifier. This granted power is a supernatural ability.
+**Granted Power**: Rebuke or command plant creatures as an evil cleric rebukes or commands undead. Use this ability a total number of times per day equal to 3 + your Charisma modifier. This granted power is a supernatural ability.
 
 Add [[rangoric-srd/skills/Nature|Nature]] to your list of cleric class skills.
 

@@ -27,7 +27,7 @@ You are a crusader for your god, always ready and willing to fight to defend you
 
 **Weapon Master (Su)**: At 8th level, as a swift action, you gain the use of one combat feat for a number of rounds per day equal to your cleric level. These rounds do not need to be consecutive and you can change the feat chosen each time you use this ability. You must meet the prerequisites to use this feat.
 
-**Granted Power (3.5)**: Free Martial Weapon Proficiency with deity’s favored weapon (if necessary) and Weapon Focus with the deity’s favored weapon.
+**Granted Power**: Free Martial Weapon Proficiency with deity’s favored weapon (if necessary) and Weapon Focus with the deity’s favored weapon.
 
 ## Domain Spells
 

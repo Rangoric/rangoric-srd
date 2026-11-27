@@ -27,7 +27,7 @@ You see truth in the pure and burning light of the sun, and can call upon its bl
 
 **Nimbus of Light (Su)**: At 8th level, you can emit a 30-foot nimbus of light for a number of rounds per day equal to your cleric level. This acts as a _[[rangoric-srd/spells/Daylight|daylight]]_ spell. In addition, undead within this radius take an amount of damage equal to your cleric level each round that they remain inside the nimbus. Spells and spell-like abilities with the darkness descriptor are automatically dispelled if brought inside this nimbus. These rounds do not need to be consecutive.
 
-**Granted Power (3.5)**: Once per day, you can perform a greater turning against undead in place of a regular turning. The greater turning is like a normal turning except that the undead creatures that would be turned are destroyed instead.
+**Granted Power**: Once per day, you can perform a greater turning against undead in place of a regular turning. The greater turning is like a normal turning except that the undead creatures that would be turned are destroyed instead.
 
 ## Domain Spells
 
