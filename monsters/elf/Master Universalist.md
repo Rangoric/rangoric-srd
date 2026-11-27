@@ -64,7 +64,7 @@ tags: [rangoric, rangoric/monster]
 
 A master universalist is an [[rangoric-srd/monsters/elf/Elf|elf]] with 20 levels of [[rangoric-srd/classes/Wizard|wizard]] (the [[rangoric-srd/class-options/arcane-schools/Universalist School|universalist]] school). The master universalist draws power and knowledge from all schools of magic.
 
-A master universalist speaks Aklo, Celestial, Common, Draconic, Dwarf, Elven, Giant, Gnome, Halfling, Orc, and Sylvan.
+A master universalist speaks Aklo, Celestial, Common, Draconic, Dwarven, Elven, Giant, Gnome, Halfling, Orc, and Sylvan.
 
 ### Combat
 

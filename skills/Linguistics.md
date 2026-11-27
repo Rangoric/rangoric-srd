@@ -56,6 +56,7 @@ Languages work as follows.
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
 | Aboleth            | Aboleths                                                                                                                                      | —             |
 | Abyssal            | Demons, chaotic evil outsiders                                                                                                                | Infernal      |
+| Adlet              | Adlets                                                                                                                                        | —             |
 | Aklo               | Derros, inhuman or otherworldly monsters, evil fey                                                                                            | —             |
 | Aquan              | Water-based creatures                                                                                                                         | Elven         |
 | Auran              | Air-based creatures                                                                                                                           | Draconic      |
@@ -63,22 +64,31 @@ Languages work as follows.
 | Catfolk            | Catfolk                                                                                                                                       | —             |
 | Celestial          | Good outsiders                                                                                                                                | Celestial     |
 | Common             | Humans, halflings, half-elves, half-orcs                                                                                                      | Common        |
+| Cyclops            | Cyclopes                                                                                                                                      | —             |
 | Draconic           | Kobolds, troglodytes, lizardfolk, dragons                                                                                                     | Draconic      |
 | Drow Sign Language | Drow                                                                                                                                          | None (signed) |
 | Druidic            | Druids (only)                                                                                                                                 | Druidic       |
 | Dwarven            | Dwarves                                                                                                                                       | Dwarven       |
 | Elven              | Elves                                                                                                                                         | Elven         |
 | Fae                | Fey (their own dialect of Sylvan)                                                                                                             | Elven         |
+| Garuda             | Garudas                                                                                                                                       | —             |
 | Giant              | Ogres, giants                                                                                                                                 | Dwarven       |
 | Gnome              | Gnomes                                                                                                                                        | Dwarven       |
 | Goblin             | Goblins, hobgoblins, bugbears                                                                                                                 | Dwarven       |
 | Gnoll              | Gnolls                                                                                                                                        | Common        |
+| Grimlock           | Grimlocks                                                                                                                                     | —             |
 | Grippli            | Gripplis                                                                                                                                      | —             |
 | Halfling           | Halflings                                                                                                                                     | Common        |
 | Ignan              | Fire-based creatures                                                                                                                          | Draconic      |
 | Infernal           | Devils, lawful evil outsiders                                                                                                                 | Infernal      |
+| Kasatha            | Kasathas                                                                                                                                      | —             |
+| Maenad             | Maenads                                                                                                                                       | —             |
 | Orc                | Orcs                                                                                                                                          | Dwarven       |
+| Protean            | Proteans, chaotic neutral outsiders                                                                                                           | —             |
+| Sahuagin           | Sahuagin                                                                                                                                      | —             |
 | Shadow             | Bogies                                                                                                                                        | —             |
+| Shae               | Shaes                                                                                                                                         | —             |
+| Sphinx             | Sphinxes, maftets                                                                                                                             | —             |
 | Strix              | Strix                                                                                                                                         | —             |
 | Sylvan             | [[rangoric-srd/monsters/nymph/Dryad\|Dryads]], [[rangoric-srd/monsters/Brownie\|brownies]], [[rangoric-srd/monsters/Leprechaun\|leprechauns]] | Elven         |
 | Tengu              | Tengus                                                                                                                                        | —             |
@@ -86,6 +96,8 @@ Languages work as follows.
 | Undercommon        | Drow                                                                                                                                          | Elven         |
 | Vanaran            | Vanaras                                                                                                                                       | —             |
 | Vishkanya          | Vishkanyas                                                                                                                                    | —             |
+| Xeph               | Xephs                                                                                                                                         | —             |
+| Yithian            | Yithians                                                                                                                                      | —             |
 
 **Fae** is the fey’s own dialect of Sylvan. A character who knows Sylvan but not Fae can make out the nuances of Fae with a DC 18 Linguistics check. ^fae
 

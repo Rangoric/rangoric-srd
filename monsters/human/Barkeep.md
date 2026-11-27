@@ -69,4 +69,4 @@ Changing a barkeep's Profession skill to (innkeep) creates an innkeeper, possibl
 
 An average barkeep has four barmaids on staff, with two guards or street thugs working as bouncers (CR 6). A barkeep might also be found swapping stories over a pint with a shopkeep (CR 4) or guard officer (CR 5).
 
-A barkeep speaks Common, Dwarf, and Halfling.
+A barkeep speaks Common, Dwarven, and Halfling.

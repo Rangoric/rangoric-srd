@@ -64,7 +64,7 @@ tags: [rangoric, rangoric/monster]
 
 A vaultbreaker is a [[rangoric-srd/monsters/human/Human|human]] with 6 levels of [[rangoric-srd/classes/Rogue|rogue]] and 4 levels of [[rangoric-srd/classes/Wizard|wizard]] (the [[rangoric-srd/class-options/arcane-schools/Transmutation School|transmutation]] school) and 7 levels of [[rangoric-srd/prestige-classes/Arcane Trickster|arcane trickster]]. Masters at breaking into treasure vaults, many arcane tricksters are more interested in the challenge of such break-ins than the riches they gain from them.
 
-A vaultbreaker speaks Celestial, Common, Draconic, Dwarven, Elf, Gnome, and Goblin.
+A vaultbreaker speaks Celestial, Common, Draconic, Dwarven, Elven, Gnome, and Goblin.
 
 ### Combat
 

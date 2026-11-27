@@ -50,6 +50,10 @@
   changed note in feats/ but Reciprocal Knowledge doesn't have a Benefit that is only a bonus on checks with two or
   more skills (and its "10 or more ranks" step-up). A bonus only in a situation ("when dealing with fey"), given to
   others, or beside another benefit doesn't match (TWO_SKILL).
+- Languages: Linguistics' table ("Table: Common Languages and Their Alphabets") holds every language a note names
+  (Protean Language, 2026-11-27), so a changed note's "<creatures> speak(s) A, B and C." and "Automatic Languages:"
+  / "Bonus Languages:" lines name only languages that are rows in it, links dropped first. A line that's mostly not
+  capitalized words ("speak with outsiders") isn't a language list (LANGUAGE).
 - Marks: a note marked `sweep: failing` lists its problems in `sweep-issues`; a listed problem is a warning, one
   not listed still fails. A marked note with no problems left, or a listed issue that's gone, is a warning. A note
   added by the change (--added) can't be marked.
@@ -565,6 +569,37 @@ def two_skill_feat(rel, body):
     return []
 
 
+LANGUAGE = {
+    'line': re.compile(r'\b(?:speaks?|(?:Automatic|Bonus) Languages:)\s+([^.\n]+)'),
+    'split': re.compile(r',\s*(?:and\s+|or\s+)?|\s+and\s+|\s+or\s+'),
+    'word': re.compile(r'[A-Z][a-z]+(?: Sign Language)?'),
+    'not': {'Linguistics', 'Languages'},
+}
+LANGUAGES = set()
+
+
+def table_languages():
+    """The language names in Linguistics' table (Protean Language)."""
+    if 'skills/Linguistics.md' not in files:
+        return set()
+    return set(re.findall(r'^\| ([A-Z][\w ]*?) +\|', read('skills/Linguistics.md'), re.M)) - {
+        'Language', 'Task', 'Writing Results'}
+
+
+def languages(rel, body):
+    """Languages a note's language lines name that Linguistics' table lacks (Protean Language)."""
+    if rel == 'Changelog.md' or not LANGUAGES:
+        return []
+    out = []
+    for m in LANGUAGE['line'].finditer(re.sub(r'\[\[[^\]]*\]\]', '', strip_code(body))):
+        words = [w.strip(' *_') for w in LANGUAGE['split'].split(m.group(1))]
+        named = [w for w in words if LANGUAGE['word'].fullmatch(w) and w not in LANGUAGE['not']]
+        if len(named) < max(1, len(words) // 2):   # mostly not a language list ("speak with outsiders")
+            continue
+        out += [f'language not in Linguistics\' table: {w}' for w in named if w not in LANGUAGES]
+    return list(dict.fromkeys(out))
+
+
 SLIPS = [(re.compile(r'(?<![.\]/])(?<!\.\.)\.\.(?![./])'), 'a doubled full stop'), (re.compile(r',,'), 'a doubled comma')]
 
 
@@ -616,6 +651,7 @@ def yaml_item(s):
 
 problems, warnings = [], []
 marks = {}   # rel -> its problems, for --baseline
+LANGUAGES = table_languages()
 
 for rel in sorted(f for f in files if f.endswith('.md')):
     if FOLDER and not rel.startswith(FOLDER.rstrip('/') + '/'):
@@ -641,6 +677,7 @@ for rel in sorted(f for f in files if f.endswith('.md')):
     links.extend(f'{rel}: {p}' for p in edition_names(rel, body))
     links.extend(f'{rel}: {p}' for p in slips(rel, text))
     links.extend(f'{rel}: {p}' for p in two_skill_feat(rel, body))
+    links.extend(f'{rel}: {p}' for p in languages(rel, body))
     marked = data.get('sweep') == 'failing'
     listed = data.get('sweep-issues') or []
     listed = [str(x) for x in listed] if isinstance(listed, list) else [str(listed)]

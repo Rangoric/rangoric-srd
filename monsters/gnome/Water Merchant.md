@@ -64,7 +64,7 @@ tags: [rangoric, rangoric/monster]
 
 A water merchant is a [[rangoric-srd/monsters/gnome/Gnome|gnome]] with 10 levels of [[rangoric-srd/classes/Druid|druid]]. Typically found in arid regions, these druids use magic to supply others with water for a price.
 
-A water merchant speaks Abyssal, Common, Draconic, Druidic, Elf, Gnome, and Sylvan.
+A water merchant speaks Abyssal, Common, Draconic, Druidic, Elven, Gnome, and Sylvan.
 
 ### Combat
 
