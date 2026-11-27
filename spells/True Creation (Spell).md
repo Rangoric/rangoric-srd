@@ -20,8 +20,8 @@ defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/True Creation (Spell)|True Creation (Spell) (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -30,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 Conjuration (Creation)  
 Level: Creation 8  
-Components: V, S , M, X P  
+Components: V, S, M, XP  
 Casting Time: 10 minutes  
 Range: 0 ft.  
 Effect: Unattended, nonmagical object of nonliving matter, up to 1 cu. ft./level  

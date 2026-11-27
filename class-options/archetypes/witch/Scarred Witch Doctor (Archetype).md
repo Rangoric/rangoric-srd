@@ -38,6 +38,6 @@ This ability otherwise functions like and replaces the standard witch familiar.
 
 **Hexes**: The following witch hexes complement the scarred witch doctor archetype: [[rangoric-srd/class-options/hexes/Evil Eye (Hex)|evil eye]], [[rangoric-srd/class-options/hexes/Misfortune (Hex)|misfortune]], [[rangoric-srd/class-options/hexes/Scar (Hex)|scar]], and [[rangoric-srd/class-options/hexes/Unnerve Beasts (Hex)|unnerve beasts]].
 
-**Major Hexes**: The following major hexes complement the scarred witch doctor archetype: [[rangoric-srd/class-options/hexes/Agony (Hex)|agony]], [[rangoric-srd/class-options/hexes/Nightmares (Hex)|nightmare]], [[rangoric-srd/class-options/hexes/Cook People (Hex)|cook people]], and [[rangoric-srd/class-options/hexes/Infected Wounds (Hex)|infected wounds]].
+**Major Hexes**: The following major hexes complement the scarred witch doctor archetype: [[rangoric-srd/class-options/hexes/Agony (Hex)|agony]], [[rangoric-srd/class-options/hexes/Nightmares (Hex)|nightmares]], [[rangoric-srd/class-options/hexes/Cook People (Hex)|cook people]], and [[rangoric-srd/class-options/hexes/Infected Wounds (Hex)|infected wounds]].
 
 **Grand Hexes**: The following grand hexes complement the scarred witch doctor archetype: [[rangoric-srd/class-options/hexes/Death Curse (Hex)|death curse]], [[rangoric-srd/class-options/hexes/Natural Disaster (Hex)|natural disaster]], and [[rangoric-srd/class-options/hexes/Dire Prophecy (Hex)|dire prophecy]].

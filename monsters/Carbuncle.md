@@ -66,7 +66,7 @@ Carbuncles exhibit a peculiar attraction to magic-users, especially [[rangoric-s
 
 A neutral spellcaster with the Improved Familiar feat can gain a carbuncle as a familiar at 5th level.
 
-Carbuncles speak empath 30 ft..
+Carbuncles speak empath 30 ft.
 
 ### Combat
 

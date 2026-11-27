@@ -18,8 +18,8 @@ defense: "None"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Bolt Of Glory|Bolt Of Glory (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -28,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 Evocation \[Good\]  
 Level: Glory 6  
-Components: V, S , D F  
+Components: V, S, DF  
 Casting Time: 1 action  
 Range: Close (25 ft. + 5 ft./level)  
 Effect: Ray  

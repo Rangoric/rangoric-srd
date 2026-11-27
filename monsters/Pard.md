@@ -64,7 +64,7 @@ Pards are alien catlike creatures known for their unnatural swiftness. They have
 
 Pards are carnivores and usually hunt small game and larger birds (such as swans), though many have developed a fondness for the flesh of gnomes and quicklings. Smarter than common beasts, pards are semi-intelligent, mate for life, and have a complex social structure. Pards also possess a form of telepathy they use to communicate amongst themselves, and can use this on a limited basis to confront intruders or create mutually beneficial alliances.
 
-Pards speak telepathy (empathy) 60 ft..
+Pards speak telepathy (empathy) 60 ft.
 
 ### Combat
 

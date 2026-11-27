@@ -13,7 +13,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Dream Domain
 
-_A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]] from Faeries. Deities: any deities related to sleep or rest, darkness or night, knowledge, stories, and the mind._ The [[rangoric-srd/prestige-classes/Faemancer#^faemancer-domain|faemancer]] can also choose it.
+_A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]]. Deities: any deities related to sleep or rest, darkness or night, knowledge, stories, and the mind._ The [[rangoric-srd/prestige-classes/Faemancer#^faemancer-domain|faemancer]] can also choose it.
 
 ## Granted Powers
 

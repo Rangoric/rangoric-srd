@@ -36,6 +36,9 @@
 - Base Attack/Grapple: 3.5's "Base Attack/Grapple" line (any spacing or bold) and its `base-attack-grapple` key
   are gone (Adopting CMB and CMD; Atropal and Chichimec CMB, 2026-11-27): a stat block has Base Attack, CMB
   and CMD instead (OLD_GRAPPLE).
+- Slips: a changed note's text, outside code and comments, has no doubled full stop that isn't part of an ellipsis or
+  a ../ path ("60 ft..") and no ",," (Small Text Fixes, 2026-11-26; SLIPS). The Changelog is exempt. Doubled words and
+  spaces before punctuation have right-as-written cases, so they stay in the workshop's scan.
 - Feat links: a link labeled with a feat's name points to that feat's note, not to Feats All, another feat overview
   or another feat (or monsters/Monster Feats), and a feat link isn't split in two ("[[X|Craft Magic Arms and]]" then
   "[[X|Armor]]"). A label may add a tag like " (E)", and a replaced feat's old name may point to the feat that
@@ -45,7 +48,7 @@
   added by the change (--added) can't be marked.
 
 With --changed, a link problem fails the check only in a changed note; the rest are printed as warnings, so a PR
-is held to its own notes, and so is an edition name. Frontmatter and note-rule problems fail anywhere. Exit 1
+is held to its own notes, and so is an edition name or a slip. Frontmatter and note-rule problems fail anywhere. Exit 1
 on a failure.
 
 --baseline marks every note (in --folder only, if given) that breaks a rule, and drops the marks from notes with
@@ -503,6 +506,18 @@ def edition_names(rel, body):
     return out
 
 
+SLIPS = [(re.compile(r'(?<![.\]/])(?<!\.\.)\.\.(?![./])'), 'a doubled full stop'), (re.compile(r',,'), 'a doubled comma')]
+
+
+def slips(rel, text):
+    """Doubled full stops and commas in a note's text, outside code and comments (Small Text Fixes)."""
+    if rel == 'Changelog.md':
+        return []
+    text = re.sub(r'<!--.*?-->|%%.*?%%', '', strip_code(text), flags=re.S)
+    return [f'{name} -- {line.strip()[max(0, m.start() - 40):m.end() + 20]}' for line in text.split('\n')
+            for pat, name in SLIPS for m in pat.finditer(line.strip())]
+
+
 def rule_problems(rel, data, body):
     """The note's problems against the written rules, in the checker's words (also its sweep-issues lines)."""
     if exempt(rel):
@@ -564,6 +579,7 @@ for rel in sorted(f for f in files if f.endswith('.md')):
 
     found = rule_problems(rel, data, body)
     links.extend(f'{rel}: {p}' for p in edition_names(rel, body))
+    links.extend(f'{rel}: {p}' for p in slips(rel, text))
     marked = data.get('sweep') == 'failing'
     listed = data.get('sweep-issues') or []
     listed = [str(x) for x in listed] if isinstance(listed, list) else [str(listed)]

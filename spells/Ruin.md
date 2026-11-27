@@ -26,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 Transmutation  
 Casting DC: 27  
-Components: V, S, X P  
+Components: V, S, XP  
 Casting Time: 1 full round  
 Range: 12,000 ft.  
 Target: One creature, or up to a 10-foot cube of nonliving matter  

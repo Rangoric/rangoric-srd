@@ -270,7 +270,7 @@ A line-shaped spell shoots away from you in a line in the direction you designat
 
 A sphere-shaped spell expands from its point of origin to fill a spherical area. Spheres may be bursts, emanations, or spreads.
 
-_Creatures_: A spell with this kind of area affects creatures directly (like a targeted spell), but it affects all creatures in an area of some kind rather than individual creatures you select. The area might be a spherical burst , a cone-shaped burst, or some other shape.
+_Creatures_: A spell with this kind of area affects creatures directly (like a targeted spell), but it affects all creatures in an area of some kind rather than individual creatures you select. The area might be a spherical burst, a cone-shaped burst, or some other shape.
 
 Many spells affect “living creatures,” which means all creatures other than constructs and undead. Creatures in the spell’s area that are not of the appropriate type do not count against the creatures affected.
 

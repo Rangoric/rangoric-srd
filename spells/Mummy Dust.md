@@ -29,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 Necromancy \[Evil\]  
 Casting DC: 35  
-Components: V, S ,M, XP  
+Components: V, S, M, XP  
 Casting Time: 1 standard action  
 Range: Touch  
 Effect: Two 18-HD mummies  

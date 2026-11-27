@@ -28,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 Evocation \[Cold\]  
 Casting DC: 319  
-Components: V, S , X P  
+Components: V, S, XP  
 Casting Time: 1 minute  
 Range: 1,000 ft.  
 Area: 1,000-ft.-radius emanation  

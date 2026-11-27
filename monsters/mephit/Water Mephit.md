@@ -9,7 +9,7 @@ subtypes:
   - "Water"
 hit-dice: "3d8+6 (19 hp)"
 initiative: "+0"
-speed: "30 ft. (6 squares), fly 40 ft. (average) , swim 30 ft."
+speed: "30 ft. (6 squares), fly 40 ft. (average), swim 30 ft."
 armor-class: "16 (+1 size, +5 natural), touch 11, flat-footed 16"
 base-attack: "+3"
 cmb: "+4"
@@ -44,7 +44,7 @@ tags: [rangoric, rangoric/monster]
 - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^extraplanar|Extraplanar]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^water|Water]])
 - **Hit Dice**: 3d8+6 (19 hp)
 - **Initiative**: +0
-- **Speed**: 30 ft. (6 squares), fly 40 ft. (average) , swim 30 ft.
+- **Speed**: 30 ft. (6 squares), fly 40 ft. (average), swim 30 ft.
 - **Armor Class**: 16 (+1 size, +5 natural), touch 11, flat-footed 16
 - **Base Attack**: +3; **CMB**: +4; **CMD**: 14
 - **Attack**: Claw +6 melee (1d3+2)

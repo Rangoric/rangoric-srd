@@ -71,7 +71,7 @@ Apply these guidelines in general until you and your players have worked out det
 
 ### Acids
 
-Generic acids,, can be made as noted under Craft. Aside from acids with obvious magical effects, all acids in the catalog and elsewhere should be possible to make by an alchemist with the Craft Chymicals feat. Herbalists never create acids, and only deal with them if they are produced by plant life (collected and saved like any herb or herbal product).
+Generic acids, can be made as noted under Craft. Aside from acids with obvious magical effects, all acids in the catalog and elsewhere should be possible to make by an alchemist with the Craft Chymicals feat. Herbalists never create acids, and only deal with them if they are produced by plant life (collected and saved like any herb or herbal product).
 
 ### Armor & Weapons
 

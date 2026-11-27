@@ -27,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 Conjuration (Healing)  
 Casting DC: 52  
-Components: V, S , D F  
+Components: V, S, DF  
 Casting Time: 1 minute  
 Range: Touch  
 Target: You or creature touched  

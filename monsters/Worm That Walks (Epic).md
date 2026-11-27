@@ -144,7 +144,7 @@ By making eldritch preparations on a burial plot, a powerful spellcaster can imp
 
 Conjuration (Healing)  
 Casting DC: 49  
-Components: V, S , D F  
+Components: V, S, DF  
 Casting Time: 7 days  
 Target: Dead creature touched  
 Duration: Permanent  

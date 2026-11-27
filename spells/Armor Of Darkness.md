@@ -28,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 Abjuration \[Darkness\]  
 Level: Darkness 4  
-Components: V, S , D F  
+Components: V, S, DF  
 Casting Time: 1 action  
 Range: Touch  
 Target: Creature touched  

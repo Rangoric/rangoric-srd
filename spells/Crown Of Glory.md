@@ -17,8 +17,8 @@ defense: "Will"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Crown Of Glory|Crown Of Glory (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -27,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 Evocation  
 Level: Glory 8  
-Components: V, S , M, D F  
+Components: V, S, M, DF  
 Casting Time: 1 full round  
 Range: Personal  
 Area: 120-ft.-radius emanation centered on you  
