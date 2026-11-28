@@ -492,8 +492,8 @@ The spells a [[rangoric-srd/classes/Hunter#^hunter-spells|hunter]] can learn: th
 | Spell Name                                                                | Brief Description                                                                                                      |
 | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | [[rangoric-srd/spells/Air Walk, Communal\|Air Walk, Communal]]:           | As air walk, but you may divide the duration among creatures touched.                                                  |
-| [[rangoric-srd/spells/Atonement\|Atonement]]:                             | Removes burden of misdeeds from subject.                                                                               |
-| [[rangoric-srd/spells/Awaken\|Awaken]]:                                   | Animal or tree gains human intellect.                                                                                  |
+| [[rangoric-srd/spells/Atonement\|Atonement]] (X):                         | Removes burden of misdeeds from subject.                                                                               |
+| [[rangoric-srd/spells/Awaken\|Awaken]] (X):                               | Animal or tree gains human intellect.                                                                                  |
 | [[rangoric-srd/spells/Baleful Polymorph\|Baleful Polymorph]]:             | Transforms subject into harmless animal.                                                                               |
 | [[rangoric-srd/spells/Call Lightning Storm\|Call Lightning Storm]]:       | As call lightning, but 5d6 damage per bolt.                                                                            |
 | [[rangoric-srd/spells/Cave Fangs\|Cave Fangs]] (M):                       | Create a trap from stalactites and stalagmites                                                                         |

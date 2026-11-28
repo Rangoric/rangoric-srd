@@ -139,10 +139,10 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Hide Campsite\|Hide Campsite]] (M):                       | Hides all traces of your campsite.                                                      |
 | [[rangoric-srd/spells/Hold Animal\|Hold Animal]]:                               | Paralyzes one animal for 1 round/level.                                                 |
 | [[rangoric-srd/spells/Hunter’s Eye\|Hunter’s Eye]]:                             | +20 on Perception checks to locate a target.                                            |
-| [[rangoric-srd/spells/Ice Slick\|Ice Slick]]:                                   |                                                                                         |
+| [[rangoric-srd/spells/Ice Slick\|Ice Slick]]:                                   | Coat an area with thin ice, dealing cold damage and causing creatures to fall prone.    |
 | [[rangoric-srd/spells/Improve Trap\|Improve Trap]]:                             | Improves a trap with one specific element of the trap chosen at the time of casting.    |
 | [[rangoric-srd/spells/Iron Stake\|Iron Stake]] (M):                             | Hurl a spike of cold iron at a foe                                                      |
-| [[rangoric-srd/spells/Ironskin\|Ironskin]] (M):                                 |                                                                                         |
+| [[rangoric-srd/spells/Ironskin\|Ironskin]] (M):                                 | Harden your skin into iron.                                                             |
 | [[rangoric-srd/spells/Locate Weakness\|Locate Weakness]] (M):                   | You roll damage twice when you roll damage for a critical hit and take the best damage. |
 | [[rangoric-srd/spells/Lockjaw\|Lockjaw]] (M):                                   | Gives creature grab ability with a natural attack.                                      |
 | [[rangoric-srd/spells/Nature’s Aspect (Spell)\|Nature’s Aspect (Spell)]]:       | Allies temporarily gain an Aspect of Nature.                                            |
@@ -157,7 +157,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Returning Weapon, Communal\|Returning Weapon, Communal]]: | As returning weapon, but you may divide the duration among weapons touched.             |
 | [[rangoric-srd/spells/Ricochet Shot\|Ricochet Shot]] (M):                       | Imbues a projectile weapon to give its ammunition the ability to ricochet.              |
 | [[rangoric-srd/spells/Ropeweave\|Ropeweave]] (F):                               | Create useful tools from a coil of rope                                                 |
-| [[rangoric-srd/spells/Scale Spikes\|Scale Spikes]] (M):                         |                                                                                         |
+| [[rangoric-srd/spells/Scale Spikes\|Scale Spikes]] (M):                         | Enhance a target’s scales with jagged spikes.                                           |
 | [[rangoric-srd/spells/Scamper\|Scamper]]:                                       | Grant your animal companion astonishing agility                                         |
 | [[rangoric-srd/spells/Sea Steed\|Sea Steed]]:                                   | Your mount adapts to an aquatic environment                                             |
 | [[rangoric-srd/spells/Seed Spies\|Seed Spies]] (M):                             | Create a group of wafting seeds with magical intellect that can spy for you.            |
@@ -231,7 +231,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Repel Vermin\|Repel Vermin]]:                                         | Insects, spiders, and other vermin stay 10 ft. away.                                                                                                  |
 | [[rangoric-srd/spells/Resist Energy, Communal\|Resist Energy, Communal]]:                   | As resist energy, but you may divide the duration among creatures touched.                                                                            |
 | [[rangoric-srd/spells/Sand Table\|Sand Table]] (M):                                         | Create a model of the surrounding land and the creatures nearby                                                                                       |
-| [[rangoric-srd/spells/Scale Spikes, Greater\|Scale Spikes, Greater]] (M):                   |                                                                                                                                                       |
+| [[rangoric-srd/spells/Scale Spikes, Greater\|Scale Spikes, Greater]] (M):                   | As scale spikes, except with a higher enhancement bonus.                                                                                              |
 | [[rangoric-srd/spells/Signs of the Land\|Signs of the Land]]:                               | Learn up to three details about the surrounding territory                                                                                             |
 | [[rangoric-srd/spells/Soothing Mud\|Soothing Mud]]:                                         | Create restorative mud that heals hit point and ability damage                                                                                        |
 | [[rangoric-srd/spells/Stench of Prey\|Stench of Prey]]:                                     | Predatory animals attack the target (vs Fortitude).                                                                                                   |
@@ -260,8 +260,8 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Cloud Shape\|Cloud Shape]]:                               | This spell functions like gaseous form, except you assume the shape of a Colossal cloud with a space of 30 feet.                                |
 | [[rangoric-srd/spells/Commune with Nature\|Commune with Nature]]:               | Learn about terrain for 1 mile/level.                                                                                                           |
 | [[rangoric-srd/spells/Commune with Plane\|Commune with Plane]]:                 | Learn about local planar terrain                                                                                                                |
-| [[rangoric-srd/spells/Companion Transposition\|Companion Transposition]] (F):   |                                                                                                                                                 |
-| [[rangoric-srd/spells/Control Vermin\|Control Vermin]] (M):                     |                                                                                                                                                 |
+| [[rangoric-srd/spells/Companion Transposition\|Companion Transposition]] (F):   | You and your animal companion, familiar or spirit animal swap places.                                                                           |
+| [[rangoric-srd/spells/Control Vermin\|Control Vermin]] (M):                     | Control a number of vermin for you and your allies to ride.                                                                                     |
 | [[rangoric-srd/spells/Cure Serious Wounds\|Cure Serious Wounds]]:               | Cures 3d8 damage +1/level (max +15).                                                                                                            |
 | [[rangoric-srd/spells/Darkvision, Communal\|Darkvision, Communal]] (M):         | As darkvision, but you may divide the duration among creatures touched.                                                                         |
 | [[rangoric-srd/spells/Darkvision, Greater\|Darkvision, Greater]] (M):           | See 120 ft. in total darkness.                                                                                                                  |

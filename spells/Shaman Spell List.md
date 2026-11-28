@@ -259,7 +259,7 @@ The spells a [[rangoric-srd/classes/Shaman#^shaman-spells|shaman]] can prepare. 
 | Spell Name                                                                            | Brief Description                                                                                |
 | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
 | [[rangoric-srd/spells/Antilife Shell\|Antilife Shell]]:                               | 10-ft. field hedges out living creatures.                                                        |
-| [[rangoric-srd/spells/Awaken\|Awaken]]:                                               | Animal or tree gains human intellect.                                                            |
+| [[rangoric-srd/spells/Awaken\|Awaken]] (X):                                           | Animal or tree gains human intellect.                                                            |
 | [[rangoric-srd/spells/Banishment\|Banishment]]:                                       | Banishes 2 HD/level of extraplanar creatures.                                                    |
 | [[rangoric-srd/spells/Bear’s Endurance, Mass\|Bear’s Endurance, Mass]]:               | As bear’s endurance, affects one subject/ level.                                                 |
 | [[rangoric-srd/spells/Bull’s Strength, Mass\|Bull’s Strength, Mass]]:                 | As bull’s strength, affects one subject/level.                                                   |
@@ -273,7 +273,7 @@ The spells a [[rangoric-srd/classes/Shaman#^shaman-spells|shaman]] can prepare. 
 | [[rangoric-srd/spells/Flesh to Stone\|Flesh to Stone]]:                               | Turns subject creature into statue.                                                              |
 | [[rangoric-srd/spells/Inflict Moderate Wounds, Mass\|Inflict Moderate Wounds, Mass]]: | Deals 2d8 damage +1/level to many creatures.                                                     |
 | [[rangoric-srd/spells/Owl’s Wisdom, Mass\|Owl’s Wisdom, Mass]]:                       | As owl’s wisdom, affects one subject/level.                                                      |
-| [[rangoric-srd/spells/Planar Ally\|Planar Ally]] (X):                                 | As lesser planar ally, but up to 12 HD.                                                          |
+| [[rangoric-srd/spells/Planar Ally\|Planar Ally]]:                                     | As lesser planar ally, but up to 12 HD.                                                          |
 | [[rangoric-srd/spells/Raise Dead\|Raise Dead]] (M):                                   | Restores life to subject who died as long as one day/level ago.                                  |
 | [[rangoric-srd/spells/Slay Living\|Slay Living]]:                                     | Touch attack kills subject.                                                                      |
 | [[rangoric-srd/spells/Snake Staff\|Snake Staff]] (M):                                 | Transforms wood into snakes to fight for you.                                                    |
@@ -322,7 +322,7 @@ The spells a [[rangoric-srd/classes/Shaman#^shaman-spells|shaman]] can prepare. 
 | [[rangoric-srd/spells/Horrid Wilting\|Horrid Wilting]]:                               | Deals 1d6/level damage within 30 ft.                                                                          |
 | [[rangoric-srd/spells/Inflict Critical Wounds, Mass\|Inflict Critical Wounds, Mass]]: | Deals 4d8 damage +1/level to many creatures.                                                                  |
 | [[rangoric-srd/spells/Irresistible Dance\|Irresistible Dance]]:                       | Forces subject to dance.                                                                                      |
-| [[rangoric-srd/spells/Planar Ally, Greater\|Planar Ally, Greater]] (X):               | As lesser planar ally, but up to 18 HD.                                                                       |
+| [[rangoric-srd/spells/Planar Ally, Greater\|Planar Ally, Greater]]:                   | As lesser planar ally, but up to 18 HD.                                                                       |
 | [[rangoric-srd/spells/Resurrection\|Resurrection]] (M):                               | Fully restore [[rangoric-srd/rules/Special Abilities and Conditions#^dead\|dead]] subject.                    |
 | [[rangoric-srd/spells/Stormbolts\|Stormbolts]] (M):                                   | 1d8 damage/level (max 20d8) to targets.                                                                       |
 | [[rangoric-srd/spells/Sunburst\|Sunburst]]:                                           | [[rangoric-srd/rules/Special Abilities and Conditions#^blinded\|Blinds]] all within 10 ft., deals 6d6 damage. |

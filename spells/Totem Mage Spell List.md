@@ -63,21 +63,21 @@ The spells every [[rangoric-srd/prestige-classes/Totem Mage#^totem-mage-spells-p
 
 ##### 4th-Level Totem Mage Spells
 
-| Spell Name                                                                | Brief Description                                          |
-| ------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| [[rangoric-srd/spells/Cure Serious Wounds\|Cure Serious Wounds]]:         | Cures 3d8 damage +1/level (max +15).                       |
-| [[rangoric-srd/spells/Dispel Magic\|Dispel Magic]]:                       | Cancels spells and magical effects.                        |
-| [[rangoric-srd/spells/Giant Vermin\|Giant Vermin]]:                       | Turns centipedes, scorpions, or spiders into giant vermin. |
-| [[rangoric-srd/spells/Reincarnate\|Reincarnate]]:                         |                                                            |
-| [[rangoric-srd/spells/Repel Vermin\|Repel Vermin]]:                       | Insects, spiders, and other vermin stay 10 ft. away.       |
-| [[rangoric-srd/spells/Summon Nature’s Ally IV\|Summon Nature’s Ally IV]]: | Calls creature to fight.                                   |
+| Spell Name                                                                | Brief Description                                                                                         |
+| ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| [[rangoric-srd/spells/Cure Serious Wounds\|Cure Serious Wounds]]:         | Cures 3d8 damage +1/level (max +15).                                                                      |
+| [[rangoric-srd/spells/Dispel Magic\|Dispel Magic]]:                       | Cancels spells and magical effects.                                                                       |
+| [[rangoric-srd/spells/Giant Vermin\|Giant Vermin]]:                       | Turns centipedes, scorpions, or spiders into giant vermin.                                                |
+| [[rangoric-srd/spells/Reincarnate\|Reincarnate]]:                         | Brings [[rangoric-srd/rules/Special Abilities and Conditions#^dead\|dead]] subject back in a random body. |
+| [[rangoric-srd/spells/Repel Vermin\|Repel Vermin]]:                       | Insects, spiders, and other vermin stay 10 ft. away.                                                      |
+| [[rangoric-srd/spells/Summon Nature’s Ally IV\|Summon Nature’s Ally IV]]: | Calls creature to fight.                                                                                  |
 
 ##### 5th-Level Totem Mage Spells
 
 | Spell Name                                                              | Brief Description                      |
 | ----------------------------------------------------------------------- | -------------------------------------- |
 | [[rangoric-srd/spells/Animal Growth\|Animal Growth]]:                   | One animal/two levels doubles in size. |
-| [[rangoric-srd/spells/Awaken\|Awaken]]:                                 | Animal or tree gains human intellect.  |
+| [[rangoric-srd/spells/Awaken\|Awaken]] (X):                             | Animal or tree gains human intellect.  |
 | [[rangoric-srd/spells/Commune with Nature\|Commune with Nature]]:       | Learn about terrain for 1 mile/level.  |
 | [[rangoric-srd/spells/Cure Critical Wounds\|Cure Critical Wounds]]:     | Cures 4d8 damage +1/level (max +20).   |
 | [[rangoric-srd/spells/Hallow\|Hallow]]:                                 | Designates location as holy.           |
