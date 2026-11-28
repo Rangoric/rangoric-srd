@@ -18,9 +18,9 @@ special-attacks: "—"
 special-qualities: "Low-light vision, elf blood, summon familiar (monkey)"
 defenses: "Fort 14, Ref 13, Will 22 (+2 vs. enchantments)"
 abilities: "Str 15, Dex 10, Con 12, Int 10, Wis 16, Cha 8"
-skills: "Acrobatics +3, Perform (oratory) +10, Persuasion +7, Theology +14"
-skill-ranks: "Acrobatics 3, Perform (oratory) 7, Persuasion 5, Theology 11"
-feats: "Combat Casting, Iron Will, Skill Focus (Knowledge [religion], Perform [oratory]), Spell Focus (evocation)"
+skills: "Acrobatics +3, Performance (oratory) +10, Persuasion +7, Theology +14"
+skill-ranks: "Acrobatics 3, Performance (oratory) 7, Persuasion 5, Theology 11"
+feats: "Combat Casting, Iron Will, Skill Focus (Knowledge [religion], Performance [oratory]), Spell Focus (evocation)"
 environment: "Temperate forests"
 organization: "Solitary, or with other half-elves (see Elf)"
 challenge-rating: 6
@@ -49,8 +49,8 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/races/Half-Elf#^half-elf-elven-blood|elf blood]], [[rangoric-srd/classes/Adept|summon familiar]] (monkey)
 - **Defenses**: Fort 14, Ref 13, Will 22 (+2 vs. enchantments)
 - **Abilities**: Str 15, Dex 10, Con 12, Int 10, Wis 16, Cha 8
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +3, Perform (oratory) +10, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Theology|Theology]] +14
-- **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Knowledge \[religion\], Perform \[oratory\]), [[rangoric-srd/feats/Spell Focus|Spell Focus]] (evocation)
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +3, [[rangoric-srd/skills/Performance|Performance]] (oratory) +10, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Theology|Theology]] +14
+- **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Knowledge \[religion\], Performance \[oratory\]), [[rangoric-srd/feats/Spell Focus|Spell Focus]] (evocation)
 - **Environment**: Temperate forests
 - **Organization**: Solitary, or with other half-elves (see [[rangoric-srd/monsters/elves/Elf|Elf]])
 - **Challenge Rating**: 6

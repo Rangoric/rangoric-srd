@@ -70,7 +70,7 @@ A violet fungus is 4 feet tall and weighs 50 pounds.
 
 Although a violet fungus's tentacles swiftly grow inert after the mushroom is slain, they can be wielded as Medium-sized whips for 2d6 minutes after being harvested from the creature. These whips inflict rot on anything they touch—including the wielder of the deadly weapon—and both attack bonuses and effects are identical to the stats presented above.
 
-A DC 25 Craft (alchemy) check and 250 gp worth of reagents can preserve the venom somewhat, although the procedure dilutes it significantly. The diluted venom is [[rangoric-srd/rules/afflictions/Violet Venom|violet venom]], a poison.
+A DC 25 Background (alchemy) check and 250 gp worth of reagents can preserve the venom somewhat, although the procedure dilutes it significantly. The diluted venom is [[rangoric-srd/rules/afflictions/Violet Venom|violet venom]], a poison.
 
 A violet fungi’s coloration ranges from purple overall to dull gray or violet covered with purple spots.
 

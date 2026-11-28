@@ -18,8 +18,8 @@ special-attacks: "Precise strike +2, weapon training (spears +1)"
 special-qualities: "Low-light vision, bravery +2, canny defense +1, parry, armor training 2, elf blood, improved reaction +2, immunity to sleep"
 defenses: "Fort 17, Ref 22, Will 13 (+2 vs. enchantments, +2 vs. fear)"
 abilities: "Str 14, Dex 18, Con 13, Int 13, Wis 10, Cha 8"
-skills: "Acrobatics +6, Animal Handling +8, Athletics +6, Fieldcraft +4, Intimidation +6, Medicine +1, Nature +2, Perception +14, Perform (dance) +1, Society +2, Stealth +10"
-skill-ranks: "Acrobatics 2, Animal Handling 1, Athletics 1, Fieldcraft 1, Intimidation 4, Medicine 1, Nature 1, Perception 11, Perform (dance) 0, Society 1, Stealth 3"
+skills: "Acrobatics +6, Animal Handling +8, Athletics +6, Fieldcraft +4, Intimidation +6, Medicine +1, Nature +2, Perception +14, Performance (dance) +1, Society +2, Stealth +10"
+skill-ranks: "Acrobatics 2, Animal Handling 1, Athletics 1, Fieldcraft 1, Intimidation 4, Medicine 1, Nature 1, Perception 11, Performance (dance) 0, Society 1, Stealth 3"
 feats: "Combat Expertise, Dodge, Lightning Reflexes, Mobility, Power Attack, Skill Focus (Perception), Vital Strike, Weapon Finesse, Weapon Focus (shortspear), Weapon Specialization (shortspear)"
 environment: "Temperate forests"
 organization: "Solitary, or with other half-elves (see Elf)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +2, [[rangoric-srd/prestige-classes/Duelist|canny defense]] +1, [[rangoric-srd/prestige-classes/Duelist|parry]], [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 2, [[rangoric-srd/races/Half-Elf#^half-elf-elven-blood|elf blood]], [[rangoric-srd/prestige-classes/Duelist|improved reaction]] +2, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep
 - **Defenses**: Fort 17, Ref 22, Will 13 (+2 vs. enchantments, +2 vs. fear)
 - **Abilities**: Str 14, Dex 18, Con 13, Int 13, Wis 10, Cha 8
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Medicine|Medicine]] +1, [[rangoric-srd/skills/Nature|Nature]] +2, [[rangoric-srd/skills/Perception|Perception]] +14, Perform (dance) +1, [[rangoric-srd/skills/Society|Society]] +2, [[rangoric-srd/skills/Stealth|Stealth]] +10
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Medicine|Medicine]] +1, [[rangoric-srd/skills/Nature|Nature]] +2, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Performance|Performance]] (dance) +1, [[rangoric-srd/skills/Society|Society]] +2, [[rangoric-srd/skills/Stealth|Stealth]] +10
 - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (shortspear), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (shortspear)
 - **Environment**: Temperate forests
 - **Organization**: Solitary, or with other half-elves (see [[rangoric-srd/monsters/elves/Elf|Elf]])

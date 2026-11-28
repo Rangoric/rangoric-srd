@@ -18,7 +18,7 @@ special-attacks: "Bardic performance (7 rounds), dark curse, death throes, sneak
 special-qualities: "See in darkness, poison use, light blindness"
 defenses: "Fort 12, Ref 17, Will 10"
 abilities: "Str 11, Dex 19, Con 14, Int 8, Wis 10, Cha 13"
-skills: "Athletics +4, Perception +4, Performance (dance) +2, Sleight of Hand +5, Stealth +12"
+skills: "Athletics +4, Perception +4, Performance (dance) +5, Sleight of Hand +5, Stealth +12"
 skill-ranks: "Athletics 0, Perception 0, Performance (dance) 3, Sleight of Hand 1, Stealth 0"
 feats: "Weapon Finesse"
 environment: "Any underground"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/See in Darkness|See in darkness]], [[rangoric-srd/monsters/abilities/Poison|poison]] use, [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]]
 - **Defenses**: Fort 12, Ref 17, Will 10
 - **Abilities**: Str 11, Dex 19, Con 14, Int 8, Wis 10, Cha 13
-- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +4, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Performance|Performance]] (dance) +2, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +12
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +4, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Performance|Performance]] (dance) +5, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +12
 - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
 - **Environment**: Any underground
 - **Organization**: Solitary, pair, troupe (3–5), or delegation (1 plus 1 dark stalker and 4–10 dark creepers)

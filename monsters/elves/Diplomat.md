@@ -18,8 +18,8 @@ special-attacks: "—"
 special-qualities: "Low-light vision, elf blood"
 defenses: "Fort 12, Ref 14, Will 19"
 abilities: "Str 9, Dex 12, Con 8, Int 12, Wis 10, Cha 16"
-skills: "Animal Handling +5, Deception +14, Intimidation +11, Linguistics +6, Perception +13, Perform (dance) +7, Persuasion +17, Sense Motive +11, Society +14, Theology +5"
-skill-ranks: "Animal Handling 1, Deception 8, Intimidation 4, Linguistics 2, Perception 9, Perform (dance) 3, Persuasion 13, Sense Motive 10, Society 10, Theology 1"
+skills: "Animal Handling +5, Deception +14, Intimidation +11, Linguistics +6, Perception +13, Performance (dance) +10, Persuasion +17, Sense Motive +11, Society +14, Theology +5"
+skill-ranks: "Animal Handling 1, Deception 8, Intimidation 4, Linguistics 2, Perception 9, Performance (dance) 3, Persuasion 13, Sense Motive 10, Society 10, Theology 1"
 feats: "Iron Will, Skill Focus (Persuasion, Intimidation, Knowledge [history], Perception)"
 environment: "Temperate forests"
 organization: "Solitary, or with other half-elves (see Elf)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/races/Half-Elf#^half-elf-elven-blood|elf blood]]
 - **Defenses**: Fort 12, Ref 14, Will 19
 - **Abilities**: Str 9, Dex 12, Con 8, Int 12, Wis 10, Cha 16
-- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Deception|Deception]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +11, [[rangoric-srd/skills/Linguistics|Linguistics]] +6, [[rangoric-srd/skills/Perception|Perception]] +13, Perform (dance) +7, [[rangoric-srd/skills/Persuasion|Persuasion]] +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Society|Society]] +14, [[rangoric-srd/skills/Theology|Theology]] +5
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Deception|Deception]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +11, [[rangoric-srd/skills/Linguistics|Linguistics]] +6, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Performance|Performance]] (dance) +10, [[rangoric-srd/skills/Persuasion|Persuasion]] +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Society|Society]] +14, [[rangoric-srd/skills/Theology|Theology]] +5
 - **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Persuasion, Intimidation, Knowledge \[history\], Perception)
 - **Environment**: Temperate forests
 - **Organization**: Solitary, or with other half-elves (see [[rangoric-srd/monsters/elves/Elf|Elf]])

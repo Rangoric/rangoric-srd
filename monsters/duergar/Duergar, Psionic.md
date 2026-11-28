@@ -55,7 +55,7 @@ Duergar characters possess the following racial traits.
 
 - Light Sensitivity (Ex): Duergar are dazzled in sunlight or within the radius of a [[rangoric-srd/spells/Daylight|daylight]] spell.
 
-- Duergar have a +4 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks and a +1 racial bonus on [[rangoric-srd/skills/Perception|Perception]] checks. They have a +2 racial bonus on [[rangoric-srd/skills/Appraise|Appraise]] and [[rangoric-srd/skills/Craft|Craft]] checks that are related to stone or metal.
+- Duergar have a +4 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks and a +1 racial bonus on [[rangoric-srd/skills/Perception|Perception]] checks. They have a +2 racial bonus on [[rangoric-srd/skills/Appraise|Appraise]] and [[rangoric-srd/skills/Background#Making Things|Background]] checks to make things that are related to stone or metal.
 
 - Automatic Languages: Common, Dwarven, Undercommon. Bonus Languages: Draconic, Giant, Goblin, Orc, Terran.
 

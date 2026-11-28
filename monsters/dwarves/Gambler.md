@@ -18,9 +18,9 @@ special-attacks: "+1 on attack rolls against goblinoid and orc humanoids, bardic
 special-qualities: "Defensive training (+4 dodge bonus to AC vs. giants), bardic knowledge +3, lore master 1/day, versatile performance (comedy, oratory)"
 defenses: "Fort 13, Ref 16, Will 15 (+2 vs. poison, spells, and spell-like abilities, +4 vs. bardic performance, language-dependent, and sonic)"
 abilities: "Str 18, Dex 13, Con 12, Int 12, Wis 10, Cha 18"
-skills: "Deception +14, Dungeoneering +8, Intimidation +14, Investigation +1 (+3 to notice unusual stonework), Knowledge +8, Nature +8, Perception +10, Perform (comedy) +17, Perform (oratory) +14, Persuasion +7, Sense Motive +10, Society +8, Theology +8"
-skill-ranks: "Deception 7, Dungeoneering 4, Intimidation 9, Knowledge 4, Nature 4, Perception 7, Perform (comedy) 13, Perform (oratory) 10, Persuasion 2, Sense Motive 7, Society 4, Theology 4"
-feats: "Improved Unarmed Strike, Skill Focus (Perform [comedy], Persuasion), Weapon Focus (unarmed strike)"
+skills: "Deception +14, Dungeoneering +8, Intimidation +14, Investigation +1 (+3 to notice unusual stonework), Knowledge +8, Nature +8, Perception +10, Performance (comedy) +20, Performance (oratory) +17, Persuasion +7, Sense Motive +10, Society +8, Theology +8"
+skill-ranks: "Deception 7, Dungeoneering 4, Intimidation 9, Knowledge 4, Nature 4, Perception 7, Performance (comedy) 13, Performance (oratory) 10, Persuasion 2, Sense Motive 7, Society 4, Theology 4"
+feats: "Improved Unarmed Strike, Skill Focus (Performance [comedy], Persuasion), Weapon Focus (unarmed strike)"
 environment: "Temperate mountains"
 organization: "Solitary, or with other dwarves (see Dwarf)"
 challenge-rating: 6
@@ -49,8 +49,8 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/races/Dwarf#^defensive-training|Defensive training]] (+4 dodge bonus to AC vs. giants), [[rangoric-srd/classes/Bard|bardic knowledge]] +3, [[rangoric-srd/classes/Bard#^bard-lore-master|lore master]] 1/day, [[rangoric-srd/classes/Bard#^bard-versatile-performance|versatile performance]] (comedy, oratory)
 - **Defenses**: Fort 13, Ref 16, Will 15 (+2 vs. poison, spells, and spell-like abilities, +4 vs. bardic performance, language-dependent, and sonic)
 - **Abilities**: Str 18, Dex 13, Con 12, Int 12, Wis 10, Cha 18
-- **Skills**: [[rangoric-srd/skills/Deception|Deception]] +14, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Investigation|Investigation]] +1 (+3 to notice unusual stonework), [[rangoric-srd/skills/Knowledge|Knowledge]] +8, [[rangoric-srd/skills/Nature|Nature]] +8, [[rangoric-srd/skills/Perception|Perception]] +10, Perform (comedy) +17, Perform (oratory) +14, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Society|Society]] +8, [[rangoric-srd/skills/Theology|Theology]] +8
-- **Feats**: [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perform \[comedy\], Persuasion), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (unarmed strike)
+- **Skills**: [[rangoric-srd/skills/Deception|Deception]] +14, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Investigation|Investigation]] +1 (+3 to notice unusual stonework), [[rangoric-srd/skills/Knowledge|Knowledge]] +8, [[rangoric-srd/skills/Nature|Nature]] +8, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Performance|Performance]] (comedy) +20, [[rangoric-srd/skills/Performance|Performance]] (oratory) +17, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Society|Society]] +8, [[rangoric-srd/skills/Theology|Theology]] +8
+- **Feats**: [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Performance \[comedy\], Persuasion), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (unarmed strike)
 - **Environment**: Temperate mountains
 - **Organization**: Solitary, or with other dwarves (see [[rangoric-srd/monsters/dwarves/Dwarf|Dwarf]])
 - **Challenge Rating**: 6
@@ -69,6 +69,6 @@ A gambler speaks Common and Dwarven.
 
 **During Combat**: The bard brings his fists to any brawl that breaks out when he or someone else gets caught cheating. He alternates between making melee attacks and using confusion to reduce the number of effective combatants.
 
-**Base Statistics**: Without eagle's splendor, the bard's statistics are **Bard Spells Known** reduce spell DCs by 2; **Cha** 14; **Skills** Deception +12, Intimidation +14, Perform (comedy) +15, Perform (oratory) +12, Persuasion +4.
+**Base Statistics**: Without eagle's splendor, the bard's statistics are **Bard Spells Known** reduce spell DCs by 2; **Cha** 14; **Skills** Deception +12, Intimidation +14, Performance (comedy) +18, Performance (oratory) +15, Persuasion +4.
 
 **Bard spells known** (CL 7th; concentration +11): 3rd (1/day)—_[[rangoric-srd/spells/Confusion|confusion]]_ (+7 vs Will), _[[rangoric-srd/spells/Glibness|glibness]]_; 2nd (4/day)—_[[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]]_ (+6 vs Will), _[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ (+6 vs Will), _[[rangoric-srd/spells/Eagle’s Splendor|eagle's splendor]]_, _[[rangoric-srd/spells/Invisibility|invisibility]]_; 1st (5/day)—_[[rangoric-srd/spells/Charm Person|charm person]]_ (+5 vs Will), _[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]_, _[[rangoric-srd/spells/Expeditious Retreat|expeditious retreat]]_, _[[rangoric-srd/spells/Unseen Servant|unseen servant]]_; 0 (at will)—_[[rangoric-srd/spells/Daze|daze]]_ (+4 vs Will), _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_.

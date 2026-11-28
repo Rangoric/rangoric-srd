@@ -71,4 +71,4 @@ Clockwork spies are about 2 feet wide from leg to leg, and weigh less than 40 po
 
 ### Construction
 
-CL 12th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_ and _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_, creator must be at least caster level 12th; Skill [[rangoric-srd/skills/Craft|Craft]] (clockwork) DC 20; Price 1,250 gp; Cost 750 gp.
+CL 12th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_ and _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_, creator must be at least caster level 12th; Skill [[rangoric-srd/skills/Background|Background]] (clockmaking) DC 20; Price 1,250 gp; Cost 750 gp.

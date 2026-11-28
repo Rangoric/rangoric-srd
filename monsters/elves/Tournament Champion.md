@@ -18,8 +18,8 @@ special-attacks: "Bardic performance 19 rounds/day (move action; countersong, di
 special-qualities: "Low-light vision, arcane bond (+2 longbow), bardic knowledge +3, bloodline arcana (+1 DC for spells with metamagic feats that increase spell level), elf blood, lore master 1/day, versatile performance (oratory, sing)"
 defenses: "Fort 18, Ref 27, Will 21 (+2 vs. enchantments, +4 vs. bardic performance, language-dependent, and sonic)"
 abilities: "Str 10, Dex 24, Con 13, Int 8, Wis 12, Cha 16"
-skills: "Athletics +0, Emulation +7, Mysticism +3, Perception +25, Perform (oratory, sing) +19, Society +8"
-skill-ranks: "Athletics 0, Emulation 1, Mysticism 1, Perception 21, Perform (oratory, sing) 17, Society 6"
+skills: "Athletics +0, Emulation +7, Mysticism +3, Perception +25, Performance (oratory, sing) +22, Society +8"
+skill-ranks: "Athletics 0, Emulation 1, Mysticism 1, Perception 21, Performance (oratory, sing) 17, Society 6"
 feats: "Deadly Aim, Eschew Materials, Far Shot, Manyshot, Point Blank Shot, Precise Shot, Rapid Shot, Skill Focus (Perception), Weapon Focus (longbow)"
 environment: "Temperate forests"
 organization: "Solitary, or with other half-elves (see Elf)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/class-options/bloodlines/Arcane Bloodline|arcane bond]] (+2 longbow), [[rangoric-srd/classes/Bard|bardic knowledge]] +3, [[rangoric-srd/class-options/bloodlines/Arcane Bloodline|bloodline arcana]] (+1 DC for spells with metamagic feats that increase spell level), [[rangoric-srd/races/Half-Elf#^half-elf-elven-blood|elf blood]], [[rangoric-srd/classes/Bard#^bard-lore-master|lore master]] 1/day, [[rangoric-srd/classes/Bard#^bard-versatile-performance|versatile performance]] (oratory, sing)
 - **Defenses**: Fort 18, Ref 27, Will 21 (+2 vs. enchantments, +4 vs. bardic performance, language-dependent, and sonic)
 - **Abilities**: Str 10, Dex 24, Con 13, Int 8, Wis 12, Cha 16
-- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +0, [[rangoric-srd/skills/Emulation|Emulation]] +7, [[rangoric-srd/skills/Mysticism|Mysticism]] +3, [[rangoric-srd/skills/Perception|Perception]] +25, Perform (oratory, sing) +19, [[rangoric-srd/skills/Society|Society]] +8
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +0, [[rangoric-srd/skills/Emulation|Emulation]] +7, [[rangoric-srd/skills/Mysticism|Mysticism]] +3, [[rangoric-srd/skills/Perception|Perception]] +25, [[rangoric-srd/skills/Performance|Performance]] (oratory, sing) +22, [[rangoric-srd/skills/Society|Society]] +8
 - **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Far Shot|Far Shot]], [[rangoric-srd/feats/Manyshot|Manyshot]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longbow)
 - **Environment**: Temperate forests
 - **Organization**: Solitary, or with other half-elves (see [[rangoric-srd/monsters/elves/Elf|Elf]])

@@ -67,4 +67,4 @@ These tireless constructs were designed by engineers as a replacement for normal
 
 ### Construction
 
-CL 12th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_, _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, creator must be at least caster level 12th; Skill [[rangoric-srd/skills/Craft|Craft]] (clockwork) DC 20; Price 29,000 gp (33,500 gp for a clockwork charger); Cost 16,000 gp (18,750 gp for a clockwork charger).
+CL 12th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_, _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, creator must be at least caster level 12th; Skill [[rangoric-srd/skills/Background|Background]] (clockmaking) DC 20; Price 29,000 gp (33,500 gp for a clockwork charger); Cost 16,000 gp (18,750 gp for a clockwork charger).

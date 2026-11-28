@@ -64,7 +64,7 @@ Magic Immunity (Ex): A stone colossus is immune to all spells, spell-like abilit
 
 ### Construction
 
-A stone colossus’s body is chiseled from a single block of hard stone, such as granite, weighing at least 375,000 pounds. The colossus costs 760,000 gp to create, which includes 100,000 gp for the body. Assembling the body requires a successful [[rangoric-srd/skills/Craft|Craft]] (sculpting) or [[rangoric-srd/skills/Craft|Craft]] (masonry) check (DC 37). The creator must be 25th level and able to [[rangoric-srd/feats/Epic Spellcasting|cast epic spells]]. Completing the ritual drains 30,600 XP from the creator and requires [[rangoric-srd/spells/Geas-Quest|geas/quest]], [[rangoric-srd/spells/Limited Wish|limited wish]], [[rangoric-srd/spells/Polymorph Any Object|polymorph any object]], and [[rangoric-srd/spells/Shatter|shatter]].
+A stone colossus’s body is chiseled from a single block of hard stone, such as granite, weighing at least 375,000 pounds. The colossus costs 760,000 gp to create, which includes 100,000 gp for the body. Assembling the body requires a successful [[rangoric-srd/skills/Background|Background]] (sculpting) or [[rangoric-srd/skills/Background|Background]] (stonemasonry) check (DC 37). The creator must be 25th level and able to [[rangoric-srd/feats/Epic Spellcasting|cast epic spells]]. Completing the ritual drains 30,600 XP from the creator and requires [[rangoric-srd/spells/Geas-Quest|geas/quest]], [[rangoric-srd/spells/Limited Wish|limited wish]], [[rangoric-srd/spells/Polymorph Any Object|polymorph any object]], and [[rangoric-srd/spells/Shatter|shatter]].
 
 ### Flesh Colossus
 

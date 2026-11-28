@@ -18,8 +18,8 @@ special-attacks: "Weapon training (heavy blades +3, axes +2, light blades +1)"
 special-qualities: "Low-light vision, 25% chance to negate critical hits and sneak attacks, bravery +4, no need to breathe, armor training 4, elf blood, immunity to harmful gases and vapors and sleep"
 defenses: "Fort 25, Ref 25, Will 20 (+2 vs. enchantments, +4 vs. fear)"
 abilities: "Str 18, Dex 20, Con 16, Int 13, Wis 10, Cha 8"
-skills: "Acrobatics +20, Athletics +15, Fieldcraft +8, Intimidation +23, Perception +2, Profession (sailor) +6, Stealth +12"
-skill-ranks: "Acrobatics 12, Athletics 8, Fieldcraft 5, Intimidation 21, Perception 2, Profession (sailor) 2, Stealth 4"
+skills: "Acrobatics +20, Athletics +15, Fieldcraft +8, Intimidation +23, Perception +2, Background (sailor) +7, Stealth +12"
+skill-ranks: "Acrobatics 12, Athletics 8, Fieldcraft 5, Intimidation 21, Perception 2, Background (sailor) 2, Stealth 4"
 feats: "Combat Expertise, Dazzling Display, Double Slice, Greater Trip, Improved Trip, Improved Two-Weapon Fighting, Iron Will, Lightning Reflexes, Penetrating Strike, Quick Draw, Shatter Defenses, Skill Focus (Intimidation), Toughness, Two-Weapon Fighting, Two-Weapon Rend, Weapon Focus (scimitar), Weapon Specialization (scimitar)"
 environment: "Temperate forests"
 organization: "Solitary, or with other half-elves (see Elf)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], 25% chance to negate critical hits and sneak attacks, [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +4, no need to breathe, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 4, [[rangoric-srd/races/Half-Elf#^half-elf-elven-blood|elf blood]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to harmful gases and vapors and sleep
 - **Defenses**: Fort 25, Ref 25, Will 20 (+2 vs. enchantments, +4 vs. fear)
 - **Abilities**: Str 18, Dex 20, Con 16, Int 13, Wis 10, Cha 8
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +20, [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +23, [[rangoric-srd/skills/Perception|Perception]] +2, [[rangoric-srd/skills/Profession|Profession]] (sailor) +6, [[rangoric-srd/skills/Stealth|Stealth]] +12
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +20, [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +23, [[rangoric-srd/skills/Perception|Perception]] +2, [[rangoric-srd/skills/Background|Background]] (sailor) +7, [[rangoric-srd/skills/Stealth|Stealth]] +12
 - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Dazzling Display|Dazzling Display]], [[rangoric-srd/feats/Double Slice|Double Slice]], [[rangoric-srd/feats/Greater Trip|Greater Trip]], [[rangoric-srd/feats/Improved Trip|Improved Trip]], [[rangoric-srd/feats/Improved Two-Weapon Fighting|Improved Two-Weapon Fighting]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Penetrating Strike|Penetrating Strike]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Shatter Defenses|Shatter Defenses]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Intimidation), [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Two-Weapon Rend|Two-Weapon Rend]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (scimitar), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (scimitar)
 - **Environment**: Temperate forests
 - **Organization**: Solitary, or with other half-elves (see [[rangoric-srd/monsters/elves/Elf|Elf]])

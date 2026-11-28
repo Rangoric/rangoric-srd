@@ -71,4 +71,4 @@ The clockwork goliath towers over most creatures and buildings; standing at a he
 
 ### Construction
 
-CL 18th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], [[rangoric-srd/feats/Gunsmithing|Gunsmithing]], _[[rangoric-srd/spells/Animate Objects|animate objects]]_, _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, and _[[rangoric-srd/spells/Limited Wish|limited wish]]_, creator must be at least caster level 18th; Skill [[rangoric-srd/skills/Craft|Craft]] (clockwork) DC 25; Price 300,000 gp; Cost 160,000 gp.
+CL 18th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], [[rangoric-srd/feats/Gunsmithing|Gunsmithing]], _[[rangoric-srd/spells/Animate Objects|animate objects]]_, _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, and _[[rangoric-srd/spells/Limited Wish|limited wish]]_, creator must be at least caster level 18th; Skill [[rangoric-srd/skills/Background|Background]] (clockmaking) DC 25; Price 300,000 gp; Cost 160,000 gp.
