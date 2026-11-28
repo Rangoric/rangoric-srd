@@ -31,8 +31,8 @@ When you use a summoning spell to summon an air, chaotic, earth, evil, fire, goo
 | [[rangoric-srd/monsters/arrowhawk/Arrowhawk\|Arrowhawk, adult]]                             |
 | [[rangoric-srd/monsters/Bear, Polar\|Bear, polar (animal)]]                                 |
 | [[rangoric-srd/monsters/dire-animal/Dire Lion\|Dire lion]]                                  |
-| [[rangoric-srd/monsters/Monsters Di to Do\|Elasmosaurus (1) (dinosaur)]]                    |
-| [[rangoric-srd/monsters/Monsters E to F\|Elemental, Large (any)]]                           |
+| [[rangoric-srd/monsters/dinosaur/Elasmosaurus\|Elasmosaurus (1) (dinosaur)]]                |
+| [[rangoric-srd/monsters/elemental/Elemental\|Elemental, Large (any)]]                       |
 | [[rangoric-srd/monsters/Griffon\|Griffon]]                                                  |
 | [[rangoric-srd/monsters/genie/Janni\|Janni (genie)]]                                        |
 | [[rangoric-srd/monsters/Rhinoceros\|Rhinoceros (animal)]]                                   |

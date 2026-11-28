@@ -22,6 +22,24 @@ views:
       - property: file.name
         direction: ASC
   - type: table
+    name: "By group"
+    filters:
+      and:
+        - file.hasTag("rangoric/monster")
+        - '!note.group.isEmpty()'
+    groupBy:
+      property: note.group
+      direction: ASC
+    order:
+      - file.name
+      - note.size
+      - note.creature-type
+      - note.challenge-rating
+      - note.environment
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
     name: "By type"
     filters:
       and:

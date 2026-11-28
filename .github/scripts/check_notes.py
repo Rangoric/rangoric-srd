@@ -60,6 +60,8 @@
   Names, 2026-11-27; SRD Content Rules, Setting names): its gods, places and cosmology, and Kostchtchie (Koschei now),
   whole words (SETTING_NAMES). What a reader sees is checked: link targets, code and comments are dropped. legal/ and
   the Changelog are exempt. The gods the SRD uses are in divine/Pantheons.
+- Letter lists: monsters/ has no hand-kept list "Monsters <letter>..." or "All Monsters" (Monster Letter Lists as
+  Bases, LB 1, 2026-11-28; LETTER_LIST): Monsters Index.base lists every monster. Fails anywhere.
 - Marks: a note marked `sweep: failing` lists its problems in `sweep-issues`; a listed problem is a warning, one
   not listed still fails. A marked note with no problems left, or a listed issue that's gone, is a warning. A note
   added by the change (--added) can't be marked.
@@ -641,6 +643,15 @@ def setting_names(rel, body):
                               for m in SETTING.finditer(text)))
 
 
+LETTER_LIST = re.compile(r'monsters/(Monsters [A-Z][a-z]?( to [A-Z][a-z]?)?|All Monsters)\.md')
+
+
+def letter_list(rel):
+    """A hand-kept monster list, which Monsters Index.base replaced (Monster Letter Lists as Bases, LB 1)."""
+    return ['a hand-kept monster list; Monsters Index.base lists every monster (embedded in Monsters)'] \
+        if LETTER_LIST.fullmatch(rel) else []
+
+
 SLIPS = [(re.compile(r'(?<![.\]/])(?<!\.\.)\.\.(?![./])'), 'a doubled full stop'), (re.compile(r',,'), 'a doubled comma')]
 
 
@@ -725,6 +736,7 @@ for rel in sorted(f for f in files if f.endswith('.md')):
                 links.append(f'{rel}: frontmatter link has no target: [[{m.group(1)}]]')
 
     found = rule_problems(rel, data, body)
+    problems.extend(f'{rel}: {p}' for p in letter_list(rel))
     links.extend(f'{rel}: {p}' for p in edition_names(rel, body))
     links.extend(f'{rel}: {p}' for p in slips(rel, text))
     links.extend(f'{rel}: {p}' for p in linnorm(rel, text))

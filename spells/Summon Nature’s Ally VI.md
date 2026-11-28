@@ -28,7 +28,7 @@ When you use a summoning spell to summon an air, chaotic, earth, evil, fire, goo
 | 6th Level                                                                       |
 | ------------------------------------------------------------------------------- |
 | [[rangoric-srd/monsters/dire-animal/Dire Bear\|Dire bear]]                      |
-| [[rangoric-srd/monsters/Monsters E to F\|Elemental, Huge (any)]]                |
+| [[rangoric-srd/monsters/elemental/Elemental\|Elemental, Huge (any)]]            |
 | [[rangoric-srd/monsters/Elephant\|Elephant (animal)]]                           |
 | [[rangoric-srd/monsters/Girallon\|Girallon]]                                    |
 | [[rangoric-srd/monsters/dinosaur/Megaraptor\|Megaraptor (dinosaur)]]            |
