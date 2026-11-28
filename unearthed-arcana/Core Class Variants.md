@@ -820,11 +820,11 @@ A planar ranger takes no penalty on wild empathy checks made to influence magica
 
 ###### Animal Companion
 
-A nonevil planar ranger may have a [[rangoric-srd/monsters/celestial-creature/Celestial Creature|celestial]] version of a normal [[rangoric-srd/monsters/Animals|animal]] as his animal companion. A nongood ranger may have a [[rangoric-srd/monsters/Monsters E to F|fiendish]] version of a normal animal as his animal companion.
+A nonevil planar ranger may have a [[rangoric-srd/monsters/celestial-creature/Celestial Creature|celestial]] version of a normal [[rangoric-srd/monsters/Animals|animal]] as his animal companion. A nongood ranger may have a [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature|fiendish]] version of a normal animal as his animal companion.
 
 ###### Spellcasting
 
-A planar ranger's spellcasting ability is largely unchanged from that of the standard ranger, with one exception: Any ranger spell that normally affects animals also affects [[rangoric-srd/monsters/Monsters B to C|celestial]] or [[rangoric-srd/monsters/Monsters E to F|fiendish]] versions of animals when cast by a planar ranger.
+A planar ranger's spellcasting ability is largely unchanged from that of the standard ranger, with one exception: Any ranger spell that normally affects animals also affects [[rangoric-srd/monsters/celestial-creature/Celestial Creature|celestial]] or [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature|fiendish]] versions of animals when cast by a planar ranger.
 
 #### Urban Ranger
 

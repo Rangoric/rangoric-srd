@@ -28,13 +28,13 @@ When you use a summoning spell to summon an air, chaotic, earth, evil, fire, goo
 | ------------------------------------------------------------------------------- |
 | [[rangoric-srd/monsters/arrowhawk/Arrowhawk\|Arrowhawk, elder]]                 |
 | [[rangoric-srd/monsters/dire-animal/Dire Tiger\|Dire tiger]]                    |
-| [[rangoric-srd/monsters/Monsters E to F\|Elemental, greater (any)]]             |
+| [[rangoric-srd/monsters/elemental/Elemental\|Elemental, greater (any)]]         |
 | [[rangoric-srd/monsters/genie/Djinni\|Djinni (genie) (NG)]]                     |
 | [[rangoric-srd/monsters/Invisible Stalker\|Invisible stalker]]                  |
 | [[rangoric-srd/monsters/sprite/Pixie\|Pixie* (sprite) (NG; with sleep arrows)]] |
 | [[rangoric-srd/monsters/Squid, Giant\|Squid, giant (1) (animal)]]               |
 | [[rangoric-srd/monsters/dinosaur/Triceratops\|Triceratops (dinosaur)]]          |
-| [[rangoric-srd/monsters/Monsters Di to Do\|Tyrannosaurus (dinosaur)]]           |
+| [[rangoric-srd/monsters/dinosaur/Tyrannosaurus\|Tyrannosaurus (dinosaur)]]      |
 | [[rangoric-srd/monsters/whale/Cachalot Whale\|Whale, cachalot (1) (animal)]]    |
 | [[rangoric-srd/monsters/xorn/Xorn\|Xorn, elder]]                                |
 | \* _Can’t cast irresistible dance_                                              |
