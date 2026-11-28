@@ -18,8 +18,8 @@ special-attacks: "Drowning kiss, poison, spell-like abilities"
 special-qualities: "Low-light vision, beguiling aura (30-ft., +13 vs Will), transparency, change shape (medium water elemental, elemental body II), unearthly grace, damage reduction 10/cold iron, immunity to cold and poison, spell resistance 21, shawl"
 defenses: "Fort 21, Ref 27, Will 24"
 abilities: "Str 11, Dex 29, Con 24, Int 14, Wis 22, Cha 21"
-skills: "Athletics +23, Deception +20, Escape Artist +24, Nature +17, Perception +21, Perform (sing) +20, Sense Motive +21, Stealth +24"
-skill-ranks: "Athletics 20, Deception 12, Escape Artist 12, Nature 12, Perception 12, Perform (sing) 15, Sense Motive 12, Stealth 12"
+skills: "Athletics +23, Deception +20, Escape Artist +24, Nature +17, Perception +21, Performance (sing) +23, Sense Motive +21, Stealth +24"
+skill-ranks: "Athletics 20, Deception 12, Escape Artist 12, Nature 12, Perception 12, Performance (sing) 15, Sense Motive 12, Stealth 12"
 feats: "Ability Focus (beguiling aura), Agile Maneuvers, Defensive Combat Training, Dodge, Mobility, Weapon Finesse"
 environment: "Any aquatic"
 organization: "Solitary or troupe (1 nereid plus 1 giant squid, 1 giant octopus, 1 giant moray eel, or an orca)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Beguiling Aura|beguiling aura]] (30-ft., +13 vs Will), [[rangoric-srd/monsters/abilities/Transparency|transparency]], [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (medium water elemental, elemental body II), [[rangoric-srd/monsters/abilities/Unearthly Grace|unearthly grace]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold and poison, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 21, [[rangoric-srd/monsters/abilities/Shawl|shawl]]
 - **Defenses**: Fort 21, Ref 27, Will 24
 - **Abilities**: Str 11, Dex 29, Con 24, Int 14, Wis 22, Cha 21
-- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +23, [[rangoric-srd/skills/Deception|Deception]] +20, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +24, [[rangoric-srd/skills/Nature|Nature]] +17, [[rangoric-srd/skills/Perception|Perception]] +21, Perform (sing) +20, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +21, [[rangoric-srd/skills/Stealth|Stealth]] +24
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +23, [[rangoric-srd/skills/Deception|Deception]] +20, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +24, [[rangoric-srd/skills/Nature|Nature]] +17, [[rangoric-srd/skills/Perception|Perception]] +21, [[rangoric-srd/skills/Performance|Performance]] (sing) +23, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +21, [[rangoric-srd/skills/Stealth|Stealth]] +24
 - **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (beguiling aura), [[rangoric-srd/feats/Agile Maneuvers|Agile Maneuvers]], [[rangoric-srd/feats/Defensive Combat Training|Defensive Combat Training]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
 - **Environment**: Any aquatic
 - **Organization**: Solitary or troupe (1 nereid plus 1 giant squid, 1 giant octopus, 1 giant moray eel, or an orca)

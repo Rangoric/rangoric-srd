@@ -18,9 +18,9 @@ special-attacks: "—"
 special-qualities: "Darkvision 60 ft., bloodline arcana (+2 to spell DC if target is denied Dex bonus to AC), crafty, trap sense +2, light sensitivity"
 defenses: "Fort 13, Ref 14, Will 14"
 abilities: "Str 6, Dex 14, Con 12, Int 13, Wis 8, Cha 16"
-skills: "Craft (trapmaking) +15, Deception +15, Emulation +15, Perception +1, Profession (miner) +1"
-skill-ranks: "Craft (trapmaking) 11, Deception 9, Emulation 9, Perception 0, Profession (miner) 0"
-feats: "Combat Expertise, Eschew Materials, Improved Feint, Skill Focus (Craft [trapmaking])"
+skills: "Background (trapmaking) +15, Deception +15, Emulation +15, Perception +1, Background (miner) +3"
+skill-ranks: "Background (trapmaking) 11, Deception 9, Emulation 9, Perception 0, Background (miner) 0"
+feats: "Combat Expertise, Eschew Materials, Improved Feint, Skill Focus (Background [trapmaking])"
 environment: "Temperate underground or deep forest"
 organization: "Solitary, or with other kobolds (see Kobold)"
 challenge-rating: 5
@@ -49,8 +49,8 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/class-options/bloodlines/Kobold Bloodline|bloodline arcana]] (+2 to spell DC if target is denied Dex bonus to AC), [[rangoric-srd/races/Kobold|crafty]], [[rangoric-srd/class-options/bloodlines/Kobold Bloodline|trap sense]] +2, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
 - **Defenses**: Fort 13, Ref 14, Will 14
 - **Abilities**: Str 6, Dex 14, Con 12, Int 13, Wis 8, Cha 16
-- **Skills**: [[rangoric-srd/skills/Craft|Craft]] (trapmaking) +15, [[rangoric-srd/skills/Deception|Deception]] +15, [[rangoric-srd/skills/Emulation|Emulation]] +15, [[rangoric-srd/skills/Perception|Perception]] +1, [[rangoric-srd/skills/Profession|Profession]] (miner) +1
-- **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Improved Feint|Improved Feint]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Craft \[trapmaking\])
+- **Skills**: [[rangoric-srd/skills/Background|Background]] (trapmaking) +15, [[rangoric-srd/skills/Deception|Deception]] +15, [[rangoric-srd/skills/Emulation|Emulation]] +15, [[rangoric-srd/skills/Perception|Perception]] +1, [[rangoric-srd/skills/Background|Background]] (miner) +3
+- **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Improved Feint|Improved Feint]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Background \[trapmaking\])
 - **Environment**: Temperate underground or deep forest
 - **Organization**: Solitary, or with other kobolds (see [[rangoric-srd/monsters/kobolds/Kobold|Kobold]])
 - **Challenge Rating**: 5

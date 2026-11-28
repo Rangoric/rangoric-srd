@@ -18,8 +18,8 @@ special-attacks: "Banner +2/+1, breath weapon (30-ft. line, 2d6 electricity dama
 special-qualities: "Darkvision 60 ft., crafty, expert trainer +3, mount (cave salamander), order of the dragon (aid allies), tactician (2/day, 6 rounds, standard action), resistance to electricity 5, light sensitivity"
 defenses: "Fort 17, Ref 14, Will 14 (+2 bonus vs. paralysis and sleep)"
 abilities: "Str 12, Dex 12, Con 12, Int 12, Wis 13, Cha 8"
-skills: "Animal Handling +9, Athletics +5, Craft (trapmaking) +3, Perception +13, Profession (miner) +3, Stealth +9"
-skill-ranks: "Animal Handling 7, Athletics 1, Craft (trapmaking) 2, Perception 9, Profession (miner) 2, Stealth 1"
+skills: "Animal Handling +9, Athletics +5, Background (trapmaking) +6, Perception +13, Background (miner) +6, Stealth +9"
+skill-ranks: "Animal Handling 7, Athletics 1, Background (trapmaking) 2, Perception 9, Background (miner) 2, Stealth 1"
 feats: "Draconic Aspect (blue), Draconic Breath, Improved Initiative, Mounted Combat, Shield Wall, Weapon Focus (lance)"
 environment: "Temperate underground or deep forest"
 organization: "Solitary, or with other kobolds (see Kobold)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/races/Kobold|crafty]], [[rangoric-srd/classes/Cavalier#^cavalier-expert-trainer|expert trainer]] +3, [[rangoric-srd/classes/Cavalier#^cavalier-mount|mount]] (cave salamander), [[rangoric-srd/class-options/orders/Order of the Dragon|order of the dragon]] ([[rangoric-srd/class-options/orders/Order of the Dragon|aid allies]]), [[rangoric-srd/classes/Cavalier#^cavalier-tactician|tactician]] (2/day, 6 rounds, standard action), [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 5, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
 - **Defenses**: Fort 17, Ref 14, Will 14 (+2 bonus vs. paralysis and sleep)
 - **Abilities**: Str 12, Dex 12, Con 12, Int 12, Wis 13, Cha 8
-- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +9, [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Craft|Craft]] (trapmaking) +3, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Profession|Profession]] (miner) +3, [[rangoric-srd/skills/Stealth|Stealth]] +9
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +9, [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Background|Background]] (trapmaking) +6, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Background|Background]] (miner) +6, [[rangoric-srd/skills/Stealth|Stealth]] +9
 - **Feats**: [[rangoric-srd/feats/Draconic Aspect|Draconic Aspect]] (blue), [[rangoric-srd/feats/Draconic Breath|Draconic Breath]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Shield Wall|Shield Wall]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (lance)
 - **Environment**: Temperate underground or deep forest
 - **Organization**: Solitary, or with other kobolds (see [[rangoric-srd/monsters/kobolds/Kobold|Kobold]])

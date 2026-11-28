@@ -18,8 +18,8 @@ special-attacks: "—"
 special-qualities: "Darkvision 60 ft., crafty, light sensitivity"
 defenses: "Fort 13, Ref 13, Will 11"
 abilities: "Str 9, Dex 17, Con 12, Int 10, Wis 12, Cha 8"
-skills: "Acrobatics +3, Craft (trapmaking) +2, Perception +4, Profession (miner) +3"
-skill-ranks: "Acrobatics 0, Craft (trapmaking) 2, Perception 3, Profession (miner) 3"
+skills: "Acrobatics +3, Background (trapmaking) +5, Perception +4, Background (miner) +5"
+skill-ranks: "Acrobatics 0, Background (trapmaking) 2, Perception 3, Background (miner) 3"
 feats: "Point Blank Shot, Precise Shot"
 environment: "Temperate underground or deep forest"
 organization: "Solitary, or with other kobolds (see Kobold)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/races/Kobold|crafty]], [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
 - **Defenses**: Fort 13, Ref 13, Will 11
 - **Abilities**: Str 9, Dex 17, Con 12, Int 10, Wis 12, Cha 8
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +3, [[rangoric-srd/skills/Craft|Craft]] (trapmaking) +2, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Profession|Profession]] (miner) +3
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +3, [[rangoric-srd/skills/Background|Background]] (trapmaking) +5, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Background|Background]] (miner) +5
 - **Feats**: [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]]
 - **Environment**: Temperate underground or deep forest
 - **Organization**: Solitary, or with other kobolds (see [[rangoric-srd/monsters/kobolds/Kobold|Kobold]])

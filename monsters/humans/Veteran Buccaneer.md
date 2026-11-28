@@ -18,8 +18,8 @@ special-attacks: "—"
 special-qualities: "—"
 defenses: "Fort 14, Ref 14, Will 10"
 abilities: "Str 12, Dex 16, Con 11, Int 10, Wis 8, Cha 9"
-skills: "Acrobatics +6, Athletics +17, Intimidation +6, Profession (sailor) +3"
-skill-ranks: "Acrobatics 3, Athletics 13, Intimidation 4, Profession (sailor) 3"
+skills: "Acrobatics +6, Athletics +17, Intimidation +6, Background (sailor) +7"
+skill-ranks: "Acrobatics 3, Athletics 13, Intimidation 4, Background (sailor) 3"
 feats: "Dodge, Mobility, Toughness"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: —
 - **Defenses**: Fort 14, Ref 14, Will 10
 - **Abilities**: Str 12, Dex 16, Con 11, Int 10, Wis 8, Cha 9
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +17, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Profession|Profession]] (sailor) +3
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +17, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Background|Background]] (sailor) +7
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Toughness|Toughness]]
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/humans/Human|Human]])

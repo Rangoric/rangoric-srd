@@ -18,8 +18,8 @@ special-attacks: "Swarming"
 special-qualities: "Darkvision 60 ft."
 defenses: "Fort 10, Ref 12, Will 12"
 abilities: "Str 6, Dex 15, Con 11, Int 14, Wis 10, Cha 9"
-skills: "Animal Handling +3 (+7 with rodents), Appraise +6, Craft (alchemy) +8, Emulation +5, Fieldcraft +4, Perception +9, Persuasion +3, Sense Motive +4"
-skill-ranks: "Animal Handling 1, Appraise 1, Craft (alchemy) 3, Emulation 1, Fieldcraft 1, Perception 4, Persuasion 1, Sense Motive 1"
+skills: "Animal Handling +3 (+7 with rodents), Appraise +6, Background (alchemy) +8, Emulation +5, Fieldcraft +4, Perception +9, Persuasion +3, Sense Motive +4"
+skill-ranks: "Animal Handling 1, Appraise 1, Background (alchemy) 3, Emulation 1, Fieldcraft 1, Perception 4, Persuasion 1, Sense Motive 1"
 feats: "Skill Focus (Perception)"
 environment: "Warm deserts or urban"
 organization: "Solitary, pair, pack (3–12), or colony (13–100)"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft.
 - **Defenses**: Fort 10, Ref 12, Will 12
 - **Abilities**: Str 6, Dex 15, Con 11, Int 14, Wis 10, Cha 9
-- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +3 (+7 with rodents), [[rangoric-srd/skills/Appraise|Appraise]] +6, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +8, [[rangoric-srd/skills/Emulation|Emulation]] +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Persuasion|Persuasion]] +3, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +4
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +3 (+7 with rodents), [[rangoric-srd/skills/Appraise|Appraise]] +6, [[rangoric-srd/skills/Background|Background]] (alchemy) +8, [[rangoric-srd/skills/Emulation|Emulation]] +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Persuasion|Persuasion]] +3, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +4
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
 - **Environment**: Warm deserts or urban
 - **Organization**: Solitary, pair, pack (3–12), or colony (13–100)
@@ -99,7 +99,7 @@ Ratfolk love to accumulate baubles, devices, and other small but exciting treasu
 
 **Darkvision**: Ratfolk can see in the dark up to 60 feet.
 
-**Tinker**: Ratfolk gain a +2 bonus on Craft (alchemy), Perception, and Emulation checks.
+**Tinker**: Ratfolk gain a +2 bonus on Background (alchemy), Perception, and Emulation checks.
 
 **Rodent Empathy**: Ratfolk gain a +4 bonus on Animal Handling checks made to influence rodents.
 

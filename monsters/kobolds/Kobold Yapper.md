@@ -18,8 +18,8 @@ special-attacks: "Bardic performance 20 rounds/day (move action; countersong, fr
 special-qualities: "Darkvision 60 ft., bardic knowledge +4, crafty, lore master 1/day, versatile performance (sing, oratory), light sensitivity"
 defenses: "Fort 10, Ref 20, Will 16 (+4 vs. bardic performance, language-dependent, and sonic)"
 abilities: "Str 8, Dex 18, Con 6, Int 13, Wis 10, Cha 15"
-skills: "Acrobatics +14, Craft (trapmaking) +3, Deception +13, Mysticism +12, Perception +2, Performance (oratory) +13, Performance (sing) +13, Profession (miner) +2, Sleight of Hand +14, Stealth +18"
-skill-ranks: "Acrobatics 7, Craft (trapmaking) 2, Deception 8, Mysticism 8, Perception 2, Performance (oratory) 9, Performance (sing) 9, Profession (miner) 1, Sleight of Hand 7, Stealth 7"
+skills: "Acrobatics +14, Background (trapmaking) +6, Deception +13, Mysticism +12, Perception +2, Performance (oratory) +16, Performance (sing) +16, Background (miner) +6, Sleight of Hand +14, Stealth +18"
+skill-ranks: "Acrobatics 7, Background (trapmaking) 2, Deception 8, Mysticism 8, Perception 2, Performance (oratory) 9, Performance (sing) 9, Background (miner) 1, Sleight of Hand 7, Stealth 7"
 feats: "Dodge, Point Blank Shot, Precise Shot, Weapon Focus (shortbow)"
 environment: "Temperate underground or deep forest"
 organization: "Solitary, or with other kobolds (see Kobold)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Bard#^bardic-knowledge|bardic knowledge]] +4, [[rangoric-srd/races/Kobold|crafty]], [[rangoric-srd/classes/Bard#^bard-lore-master|lore master]] 1/day, [[rangoric-srd/classes/Bard#^bard-versatile-performance|versatile performance]] (sing, oratory), [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
 - **Defenses**: Fort 10, Ref 20, Will 16 (+4 vs. bardic performance, language-dependent, and sonic)
 - **Abilities**: Str 8, Dex 18, Con 6, Int 13, Wis 10, Cha 15
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Craft|Craft]] (trapmaking) +3, [[rangoric-srd/skills/Deception|Deception]] +13, [[rangoric-srd/skills/Mysticism|Mysticism]] +12, [[rangoric-srd/skills/Perception|Perception]] +2, [[rangoric-srd/skills/Performance|Performance]] (oratory) +13, [[rangoric-srd/skills/Performance|Performance]] (sing) +13, [[rangoric-srd/skills/Profession|Profession]] (miner) +2, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +18
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Background|Background]] (trapmaking) +6, [[rangoric-srd/skills/Deception|Deception]] +13, [[rangoric-srd/skills/Mysticism|Mysticism]] +12, [[rangoric-srd/skills/Perception|Perception]] +2, [[rangoric-srd/skills/Performance|Performance]] (oratory) +16, [[rangoric-srd/skills/Performance|Performance]] (sing) +16, [[rangoric-srd/skills/Background|Background]] (miner) +6, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +18
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (shortbow)
 - **Environment**: Temperate underground or deep forest
 - **Organization**: Solitary, or with other kobolds (see [[rangoric-srd/monsters/kobolds/Kobold|Kobold]])

@@ -103,7 +103,7 @@ Brine dragons speak Aquan, Common, and Draconic; adult and older brine dragons a
 
 **Breath Weapon (Su)**: A brine dragon has a line-shaped breath weapon that deals 2d6 points of acid damage per age category (see the [[rangoric-srd/monsters/Dragon, True#Combat|rules for true dragons]]).
 
-**Capsize (Ex)**: An old or older brine dragon can attempt to capsize a boat or ship by ramming it as a charge attack and making a CMB check. The DC of this check is 25 or the result of the boat captain's Profession (sailor) check, whichever is higher. For each size category larger the ship is than the brine dragon's size, the dragon takes a cumulative –10 penalty on the check.
+**Capsize (Ex)**: An old or older brine dragon can attempt to capsize a boat or ship by ramming it as a charge attack and making a CMB check. The DC of this check is 25 or the result of the boat captain's Background (sailor) check, whichever is higher. For each size category larger the ship is than the brine dragon's size, the dragon takes a cumulative –10 penalty on the check.
 
 **Desiccating Bite (Su)**: An ancient brine dragon's bite causes weakness, dealing 1d2 points of Strength drain in addition to its normal damage. A great wyrm's bite deals 1d4 points of Strength drain. The bite attacks Fortitude (with the dragon's breath weapon attack bonus), and a miss negates the Strength drain.
 

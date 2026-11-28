@@ -18,8 +18,8 @@ special-attacks: "Claws (1d3-3, 5 rounds/day)"
 special-qualities: "Darkvision 60 ft., bloodline arcana (fire spells deal +1 damage per die), crafty, light sensitivity"
 defenses: "Fort 10, Ref 13, Will 13"
 abilities: "Str 4, Dex 16, Con 10, Int 10, Wis 13, Cha 15"
-skills: "Craft (trapmaking) +2, Emulation +6, Perception +3, Profession (miner) +3, Stealth +11"
-skill-ranks: "Craft (trapmaking) 2, Emulation 1, Perception 2, Profession (miner) 3, Stealth 1"
+skills: "Background (trapmaking) +5, Emulation +6, Perception +3, Background (miner) +5, Stealth +11"
+skill-ranks: "Background (trapmaking) 2, Emulation 1, Perception 2, Background (miner) 3, Stealth 1"
 feats: "Eschew Materials, Improved Initiative"
 environment: "Temperate underground or deep forest"
 organization: "Solitary, or with other kobolds (see Kobold)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/class-options/bloodlines/Draconic Bloodline|bloodline arcana]] (fire spells deal +1 damage per die), [[rangoric-srd/races/Kobold|crafty]], [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
 - **Defenses**: Fort 10, Ref 13, Will 13
 - **Abilities**: Str 4, Dex 16, Con 10, Int 10, Wis 13, Cha 15
-- **Skills**: [[rangoric-srd/skills/Craft|Craft]] (trapmaking) +2, [[rangoric-srd/skills/Emulation|Emulation]] +6, [[rangoric-srd/skills/Perception|Perception]] +3, [[rangoric-srd/skills/Profession|Profession]] (miner) +3, [[rangoric-srd/skills/Stealth|Stealth]] +11
+- **Skills**: [[rangoric-srd/skills/Background|Background]] (trapmaking) +5, [[rangoric-srd/skills/Emulation|Emulation]] +6, [[rangoric-srd/skills/Perception|Perception]] +3, [[rangoric-srd/skills/Background|Background]] (miner) +5, [[rangoric-srd/skills/Stealth|Stealth]] +11
 - **Feats**: [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
 - **Environment**: Temperate underground or deep forest
 - **Organization**: Solitary, or with other kobolds (see [[rangoric-srd/monsters/kobolds/Kobold|Kobold]])

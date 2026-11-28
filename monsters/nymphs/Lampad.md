@@ -17,8 +17,8 @@ special-attacks: "Weep, spell-like abilities"
 special-qualities: "Darkvision 90 ft., low-light vision, insane beauty (30 ft.), guarded, damage reduction 5/cold iron"
 defenses: "Fort 16, Ref 20, Will 18"
 abilities: "Str 10, Dex 21, Con 18, Int 14, Wis 17, Cha 21"
-skills: "Dungeoneering +9, Emulation +15, Linguistics +3, Mysticism +9, Nature +12, Perception +16, Perform (sing) +9, Persuasion +13, Sense Motive +13, Stealth +15"
-skill-ranks: "Dungeoneering 4, Emulation 7, Linguistics 1, Mysticism 4, Nature 7, Perception 9, Perform (sing) 4, Persuasion 5, Sense Motive 9, Stealth 7"
+skills: "Dungeoneering +9, Emulation +15, Linguistics +3, Mysticism +9, Nature +12, Perception +16, Performance (sing) +12, Persuasion +13, Sense Motive +13, Stealth +15"
+skill-ranks: "Dungeoneering 4, Emulation 7, Linguistics 1, Mysticism 4, Nature 7, Perception 9, Performance (sing) 4, Persuasion 5, Sense Motive 9, Stealth 7"
 feats: "Combat Casting, Point Blank Shot, Weapon Finesse, Skill Focus (Perception)"
 environment: "Any underground"
 organization: "Solitary"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 90 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Insane Beauty|insane beauty]] (30 ft.), [[rangoric-srd/monsters/abilities/Guarded|guarded]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron
 - **Defenses**: Fort 16, Ref 20, Will 18
 - **Abilities**: Str 10, Dex 21, Con 18, Int 14, Wis 17, Cha 21
-- **Skills**: [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +9, [[rangoric-srd/skills/Emulation|Emulation]] +15, [[rangoric-srd/skills/Linguistics|Linguistics]] +3, [[rangoric-srd/skills/Mysticism|Mysticism]] +9, [[rangoric-srd/skills/Nature|Nature]] +12, [[rangoric-srd/skills/Perception|Perception]] +16, Perform (sing) +9, [[rangoric-srd/skills/Persuasion|Persuasion]] +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +15
+- **Skills**: [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +9, [[rangoric-srd/skills/Emulation|Emulation]] +15, [[rangoric-srd/skills/Linguistics|Linguistics]] +3, [[rangoric-srd/skills/Mysticism|Mysticism]] +9, [[rangoric-srd/skills/Nature|Nature]] +12, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Performance|Performance]] (sing) +12, [[rangoric-srd/skills/Persuasion|Persuasion]] +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +15
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
 - **Environment**: Any underground
 - **Organization**: Solitary

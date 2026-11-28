@@ -18,8 +18,8 @@ special-attacks: "Grave touch* (9/day), paralyzing touch (+8 vs Fortitude), powe
 special-qualities: "Darkvision 60 ft., life sight*, fear (60-ft. radius, +8 vs Will), channel resistance +4, damage reduction 15/bludgeoning and magic, immunity to cold and electricity, undead traits"
 defenses: "Fort 16, Ref 17, Will 21"
 abilities: "Str 10, Dex 14, Con —, Int 22, Wis 14, Cha 16"
-skills: "Arcana +20, Craft (alchemy) +20, Intimidation +17, Linguistics +20, Mysticism +20, Perception +24, Sense Motive +24, Stealth +24, Theology +20"
-skill-ranks: "Arcana 11, Craft (alchemy) 11, Intimidation 11, Linguistics 11, Mysticism 11, Perception 11, Sense Motive 11, Stealth 11, Theology 11"
+skills: "Arcana +20, Background (alchemy) +20, Intimidation +17, Linguistics +20, Mysticism +20, Perception +24, Sense Motive +24, Stealth +24, Theology +20"
+skill-ranks: "Arcana 11, Background (alchemy) 11, Intimidation 11, Linguistics 11, Mysticism 11, Perception 11, Sense Motive 11, Stealth 11, Theology 11"
 feats: "Craft Wondrous Item, Defensive Combat Training, Extend Spell, Improved Lightning Reflexes, Iron Will, Lightning Reflexes, Maximize Spell, Quicken Spell, Scribe Scroll, Toughness"
 environment: "Any"
 organization: "Solitary"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., life sight\*, [[rangoric-srd/monsters/abilities/Fear|fear]] (60-ft. radius, +8 vs Will), [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/bludgeoning and magic, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold and electricity, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
 - **Defenses**: Fort 16, Ref 17, Will 21
 - **Abilities**: Str 10, Dex 14, Con —, Int 22, Wis 14, Cha 16
-- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +20, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +20, [[rangoric-srd/skills/Intimidation|Intimidation]] +17, [[rangoric-srd/skills/Linguistics|Linguistics]] +20, [[rangoric-srd/skills/Mysticism|Mysticism]] +20, [[rangoric-srd/skills/Perception|Perception]] +24, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +24, [[rangoric-srd/skills/Stealth|Stealth]] +24, [[rangoric-srd/skills/Theology|Theology]] +20
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +20, [[rangoric-srd/skills/Background|Background]] (alchemy) +20, [[rangoric-srd/skills/Intimidation|Intimidation]] +17, [[rangoric-srd/skills/Linguistics|Linguistics]] +20, [[rangoric-srd/skills/Mysticism|Mysticism]] +20, [[rangoric-srd/skills/Perception|Perception]] +24, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +24, [[rangoric-srd/skills/Stealth|Stealth]] +24, [[rangoric-srd/skills/Theology|Theology]] +20
 - **Feats**: [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Defensive Combat Training|Defensive Combat Training]], [[rangoric-srd/feats/Extend Spell|Extend Spell]], [[rangoric-srd/feats/Improved Lightning Reflexes|Improved Lightning Reflexes]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Maximize Spell|Maximize Spell]], [[rangoric-srd/feats/Quicken Spell|Quicken Spell]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]], [[rangoric-srd/feats/Toughness|Toughness]]
 - **Environment**: Any
 - **Organization**: Solitary

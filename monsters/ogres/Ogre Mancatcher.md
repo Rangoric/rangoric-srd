@@ -18,8 +18,8 @@ special-attacks: "Weapon training (polearms +1)"
 special-qualities: "Darkvision 60 ft., low-light vision, bravery +1, armor training 1"
 defenses: "Fort 23, Ref 14, Will 16 (+1 vs. fear)"
 abilities: "Str 25, Dex 12, Con 18, Int 6, Wis 12, Cha 5"
-skills: "Perception +9, Profession (cook) +5"
-skill-ranks: "Perception 5, Profession (cook) 4"
+skills: "Perception +9, Background (cook) +5"
+skill-ranks: "Perception 5, Background (cook) 4"
 feats: "Combat Reflexes, Improved Unarmed Strike, Iron Will, Power Attack, Step Up, Vicious Stomp, Weapon Focus (ogre hook), Weapon Specialization (ogre hook)"
 environment: "Temperate or cold hills"
 organization: "Solitary, or with other ogres (see Ogre)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +1, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1
 - **Defenses**: Fort 23, Ref 14, Will 16 (+1 vs. fear)
 - **Abilities**: Str 25, Dex 12, Con 18, Int 6, Wis 12, Cha 5
-- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Profession|Profession]] (cook) +5
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Background|Background]] (cook) +5
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Vicious Stomp|Vicious Stomp]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (ogre hook), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (ogre hook)
 - **Environment**: Temperate or cold hills
 - **Organization**: Solitary, or with other ogres (see [[rangoric-srd/monsters/ogres/Ogre|Ogre]])

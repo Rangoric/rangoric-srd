@@ -17,8 +17,8 @@ special-attacks: "Blood drain, domination, energy drain"
 special-qualities: "+2 turn resistance, damage reduction 5/silver, darkvision 60 ft., fast healing 2, gaseous form, resistance to cold 10 and electricity 10, spider climb, undead traits"
 defenses: "Fort 11, Ref 15, Will 15"
 abilities: "Str 16, Dex 14, Con —, Int 13, Wis 13, Cha 14"
-skills: "Athletics +10, Craft or Profession (any one) +7, Deception +6, Perception +15, Persuasion +2, Investigation +11, Sense Motive +12, Stealth +11"
-skill-ranks: "Athletics 4, Craft or Profession (any one) 3, Deception 0, Investigation 3, Perception 4, Persuasion 0, Sense Motive 4, Stealth 2"
+skills: "Athletics +10, Background (any one craft or profession) +7, Deception +6, Perception +15, Persuasion +2, Investigation +11, Sense Motive +12, Stealth +11"
+skill-ranks: "Athletics 4, Background (any one craft or profession) 3, Deception 0, Investigation 3, Perception 4, Persuasion 0, Sense Motive 4, Stealth 2"
 feats: "Improved Initiative (B), Lightning Reflexes (B), Skill Focus (Perception) (B), Skill Focus (selected Craft or Profession skill), Toughness"
 environment: "Any"
 organization: "Solitary or pack (2–5)"
@@ -48,8 +48,8 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: +2 [[rangoric-srd/monsters/abilities/Channel Resistance|turn resistance]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/silver, darkvision 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 2, [[rangoric-srd/spells/Gaseous Form|gaseous form]], [[rangoric-srd/monsters/abilities/Resistance|resistance to cold]] 10 and electricity 10, [[rangoric-srd/spells/Spider Climb|spider climb]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]]
 - **Defenses**: Fort 11, Ref 15, Will 15
 - **Abilities**: Str 16, Dex 14, Con —, Int 13, Wis 13, Cha 14
-- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Craft|Craft]] or [[rangoric-srd/skills/Profession|Profession]] (any one) +7, [[rangoric-srd/skills/Deception|Deception]] +6, [[rangoric-srd/skills/Investigation|Investigation]] +11, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Persuasion|Persuasion]] +2, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +11
-- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative (B)]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes (B)]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception) (B), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (selected Craft or Profession skill), [[rangoric-srd/feats/Toughness|Toughness]]
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Background|Background]] (any one craft or profession) +7, [[rangoric-srd/skills/Deception|Deception]] +6, [[rangoric-srd/skills/Investigation|Investigation]] +11, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Persuasion|Persuasion]] +2, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +11
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative (B)]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes (B)]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception) (B), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (selected craft or profession Background), [[rangoric-srd/feats/Toughness|Toughness]]
 - **Environment**: Any
 - **Organization**: Solitary or pack (2–5)
 - **Challenge Rating**: 4

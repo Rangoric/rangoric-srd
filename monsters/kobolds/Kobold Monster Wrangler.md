@@ -18,8 +18,8 @@ special-attacks: "Challenge (+2, +1, 1/day)"
 special-qualities: "Darkvision 60 ft., crafty, mount (cave salamander or slurk), order of the lion (lion's call), tactician (1/day, 4 rounds, standard action), light sensitivity"
 defenses: "Fort 13, Ref 13, Will 10"
 abilities: "Str 11, Dex 16, Con 10, Int 8, Wis 10, Cha 13"
-skills: "Animal Handling +9, Craft (trapmaking) +1, Intimidation +6, Perception +2, Profession (miner) +2"
-skill-ranks: "Animal Handling 5, Craft (trapmaking) 2, Intimidation 2, Perception 2, Profession (miner) 3"
+skills: "Animal Handling +9, Background (trapmaking) +4, Intimidation +6, Perception +2, Background (miner) +4"
+skill-ranks: "Animal Handling 5, Background (trapmaking) 2, Intimidation 2, Perception 2, Background (miner) 3"
 feats: "Paired Opportunists, Slurk Rider"
 environment: "Temperate underground or deep forest"
 organization: "Solitary, or with other kobolds (see Kobold)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/races/Kobold|crafty]], [[rangoric-srd/classes/Cavalier#^cavalier-mount|mount]] (cave salamander or [[rangoric-srd/monsters/Slurk|slurk]]), [[rangoric-srd/class-options/orders/Order of the Lion|order of the lion]] ([[rangoric-srd/class-options/orders/Order of the Lion|lion’s call]]), [[rangoric-srd/classes/Cavalier#^cavalier-tactician|tactician]] (1/day, 4 rounds, standard action), [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
 - **Defenses**: Fort 13, Ref 13, Will 10
 - **Abilities**: Str 11, Dex 16, Con 10, Int 8, Wis 10, Cha 13
-- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +9, [[rangoric-srd/skills/Craft|Craft]] (trapmaking) +1, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Perception|Perception]] +2, [[rangoric-srd/skills/Profession|Profession]] (miner) +2
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +9, [[rangoric-srd/skills/Background|Background]] (trapmaking) +4, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Perception|Perception]] +2, [[rangoric-srd/skills/Background|Background]] (miner) +4
 - **Feats**: [[rangoric-srd/feats/Paired Opportunists|Paired Opportunists]], [[rangoric-srd/feats/Slurk Rider|Slurk Rider]]
 - **Environment**: Temperate underground or deep forest
 - **Organization**: Solitary, or with other kobolds (see [[rangoric-srd/monsters/kobolds/Kobold|Kobold]])

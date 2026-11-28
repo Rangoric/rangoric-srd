@@ -18,9 +18,9 @@ special-attacks: "Sneak attack +3d6, debilitating injury"
 special-qualities: "Darkvision 60 ft., evasion, danger sense +1 (+3 dodge bonus to AC against traps), uncanny dodge, crafty, rogue talents (trap spotter, cunning trigger), trapfinding +2, light sensitivity, finesse training (dagger), rogue's edge (Engineering)"
 defenses: "Fort 12, Ref 20, Will 12"
 abilities: "Str 8, Dex 18, Con 12, Int 10, Wis 13, Cha 8"
-skills: "Acrobatics +11, Appraise +8, Athletics +6, Craft (trapmaking) +13, Engineering +13, Escape Artist +11, Perception +11, Profession (miner) +3, Sleight of Hand +11, Stealth +15"
-skill-ranks: "Acrobatics 4, Appraise 5, Athletics 4, Craft (trapmaking) 10, Engineering 6, Escape Artist 4, Perception 5, Profession (miner) 3, Sleight of Hand 4, Stealth 4"
-feats: "Improved Initiative, Lightning Reflexes, Skill Focus (Craft [trapmaking]), Weapon Finesse"
+skills: "Acrobatics +11, Appraise +8, Athletics +6, Background (trapmaking) +13, Engineering +13, Escape Artist +11, Perception +11, Background (miner) +5, Sleight of Hand +11, Stealth +15"
+skill-ranks: "Acrobatics 4, Appraise 5, Athletics 4, Background (trapmaking) 10, Engineering 6, Escape Artist 4, Perception 5, Background (miner) 3, Sleight of Hand 4, Stealth 4"
+feats: "Improved Initiative, Lightning Reflexes, Skill Focus (Background [trapmaking]), Weapon Finesse"
 environment: "Temperate underground or deep forest"
 organization: "Solitary, or with other kobolds (see Kobold)"
 challenge-rating: 4
@@ -49,8 +49,8 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Rogue#^rogue-evasion|evasion]], [[rangoric-srd/classes/Rogue#^rogue-trap-sense|danger sense]] +1 (+3 dodge bonus to AC against traps), [[rangoric-srd/classes/Rogue#^rogue-uncanny-dodge|uncanny dodge]], [[rangoric-srd/races/Kobold|crafty]], [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]] ([[rangoric-srd/class-options/rogue-talents/Trap Spotter (Rogue Talent)|trap spotter]], [[rangoric-srd/class-options/rogue-talents/Cunning Trigger (Rogue Talent)|cunning trigger]]), [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +2, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]], [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]] (dagger), [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]] ([[rangoric-srd/skills/Engineering|Engineering]])
 - **Defenses**: Fort 12, Ref 20, Will 12
 - **Abilities**: Str 8, Dex 18, Con 12, Int 10, Wis 13, Cha 8
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Appraise|Appraise]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Craft|Craft]] (trapmaking) +13, [[rangoric-srd/skills/Engineering|Engineering]] +13, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +11, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Profession|Profession]] (miner) +3, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +15
-- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Craft \[trapmaking\]), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Appraise|Appraise]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Background|Background]] (trapmaking) +13, [[rangoric-srd/skills/Engineering|Engineering]] +13, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +11, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Background|Background]] (miner) +5, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +15
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Background \[trapmaking\]), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
 - **Environment**: Temperate underground or deep forest
 - **Organization**: Solitary, or with other kobolds (see [[rangoric-srd/monsters/kobolds/Kobold|Kobold]])
 - **Challenge Rating**: 4

@@ -18,8 +18,8 @@ special-attacks: "Bomb 7/day (1d6+2 fire, +3 vs Reflex), bomb trap"
 special-qualities: "Darkvision 60 ft., alchemy (alchemy crafting +2, identify potions), crafty, mutagen (+4/-2, +2 natural, 20 minutes), poison use, light sensitivity"
 defenses: "Fort 12, Ref 16, Will 11 (+2 vs. poison)"
 abilities: "Str 8, Dex 16, Con 8, Int 15, Wis 13, Cha 8"
-skills: "Acrobatics +3, Craft (trapmaking) +9, Engineering +6, Escape Artist +3, Perception +3, Profession (miner) +3, Stealth +10"
-skill-ranks: "Acrobatics 0, Craft (trapmaking) 4, Engineering 3, Escape Artist 0, Perception 0, Profession (miner) 1, Stealth 3"
+skills: "Acrobatics +3, Background (trapmaking) +9, Engineering +6, Escape Artist +3, Perception +3, Background (miner) +7, Stealth +10"
+skill-ranks: "Acrobatics 0, Background (trapmaking) 4, Engineering 3, Escape Artist 0, Perception 0, Background (miner) 1, Stealth 3"
 feats: "Brew Potion, Extra Bombs, Throw Anything"
 environment: "Temperate underground or deep forest"
 organization: "Solitary, or with other kobolds (see Kobold)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Alchemist#^alchemist-alchemy|alchemy]] (alchemy crafting +2, identify potions), [[rangoric-srd/races/Kobold|crafty]], [[rangoric-srd/classes/Alchemist#^alchemist-mutagen|mutagen]] (+4/-2, +2 natural, 20 minutes), [[rangoric-srd/classes/Alchemist#^alchemist-poison-use|poison use]], [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
 - **Defenses**: Fort 12, Ref 16, Will 11 (+2 vs. poison)
 - **Abilities**: Str 8, Dex 16, Con 8, Int 15, Wis 13, Cha 8
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +3, [[rangoric-srd/skills/Craft|Craft]] (trapmaking) +9, [[rangoric-srd/skills/Engineering|Engineering]] +6, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +3, [[rangoric-srd/skills/Perception|Perception]] +3, [[rangoric-srd/skills/Profession|Profession]] (miner) +3, [[rangoric-srd/skills/Stealth|Stealth]] +10
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +3, [[rangoric-srd/skills/Background|Background]] (trapmaking) +9, [[rangoric-srd/skills/Engineering|Engineering]] +6, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +3, [[rangoric-srd/skills/Perception|Perception]] +3, [[rangoric-srd/skills/Background|Background]] (miner) +7, [[rangoric-srd/skills/Stealth|Stealth]] +10
 - **Feats**: [[rangoric-srd/feats/Brew Potion|Brew Potion]], [[rangoric-srd/feats/Extra Bombs|Extra Bombs]], [[rangoric-srd/feats/Throw Anything|Throw Anything]]
 - **Environment**: Temperate underground or deep forest
 - **Organization**: Solitary, or with other kobolds (see [[rangoric-srd/monsters/kobolds/Kobold|Kobold]])

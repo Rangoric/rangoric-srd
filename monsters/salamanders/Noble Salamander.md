@@ -21,9 +21,9 @@ special-attacks: "Constrict 2d8+3 plus 1d8 fire, heat, improved grab, spell-like
 special-qualities: "Damage reduction 15/magic, darkvision 60 ft., immunity to fire, vulnerability to cold"
 defenses: "Fort 22, Ref 20, Will 21"
 abilities: "Str 22, Dex 13, Con 16, Int 16, Wis 15, Cha 15"
-skills: "Craft (blacksmithing) +25, Deception +20, Intimidation +20, Perception +26, Persuasion +20, Stealth +15"
-skill-ranks: "Craft (blacksmithing) 15, Deception 15, Intimidation 15, Perception 15, Persuasion 15, Stealth 15"
-feats: "Cleave, Great Cleave, Multiattack, Power Attack, Skill Focus (Craft [blacksmithing]), Skill Focus (Perception)"
+skills: "Background (blacksmithing) +25, Deception +20, Intimidation +20, Perception +26, Persuasion +20, Stealth +15"
+skill-ranks: "Background (blacksmithing) 15, Deception 15, Intimidation 15, Perception 15, Persuasion 15, Stealth 15"
+feats: "Cleave, Great Cleave, Multiattack, Power Attack, Skill Focus (Background [blacksmithing]), Skill Focus (Perception)"
 environment: "Elemental Plane of Fire"
 organization: "Solitary, pair, or noble party (9–14)"
 challenge-rating: 10
@@ -51,9 +51,9 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 15/magic, darkvision 60 ft., immunity to fire, [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to cold]]
 - **Defenses**: Fort 22, Ref 20, Will 21
 - **Abilities**: Str 22, Dex 13, Con 16, Int 16, Wis 15, Cha 15
-- **Skills**: [[rangoric-srd/skills/Craft|Craft]] (blacksmithing) +25, [[rangoric-srd/skills/Deception|Deception]] +20, [[rangoric-srd/skills/Intimidation|Intimidation]] +20, [[rangoric-srd/skills/Perception|Perception]] +26, [[rangoric-srd/skills/Persuasion|Persuasion]] +20, [[rangoric-srd/skills/Stealth|Stealth]] +15
+- **Skills**: [[rangoric-srd/skills/Background|Background]] (blacksmithing) +25, [[rangoric-srd/skills/Deception|Deception]] +20, [[rangoric-srd/skills/Intimidation|Intimidation]] +20, [[rangoric-srd/skills/Perception|Perception]] +26, [[rangoric-srd/skills/Persuasion|Persuasion]] +20, [[rangoric-srd/skills/Stealth|Stealth]] +15
 - **Unspent Skill Points**: 75
-- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Craft \[blacksmithing\]), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Background \[blacksmithing\]), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
 - **Environment**: Elemental Plane of Fire
 - **Organization**: Solitary, pair, or noble party (9–14)
 - **Challenge Rating**: 10
