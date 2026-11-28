@@ -18,8 +18,8 @@ special-attacks: "+1 on attack rolls vs. goblinoid and orc humanoids"
 special-qualities: "Darkvision 60 ft., defensive training (+4 dodge bonus to AC vs. giants), bloodline arcana (change energy damage spells to fire)"
 defenses: "Fort 12, Ref 10, Will 13 (+2 vs. poison, spells, and spell-like abilities)"
 abilities: "Str 14, Dex 10, Con 15, Int 12, Wis 10, Cha 13"
-skills: "Appraise +5 (+7 to assess metals or gemstones), Craft (jewelry) +5, Emulation +5, Investigation +1 (+3 to notice unusual stonework), Mysticism +5, Perception +2"
-skill-ranks: "Appraise 1, Craft (jewelry) 1, Emulation 1, Mysticism 1, Perception 2"
+skills: "Appraise +5 (+7 to assess metals or gemstones), Background (jewelcrafting) +5, Emulation +5, Investigation +1 (+3 to notice unusual stonework), Mysticism +5, Perception +2"
+skill-ranks: "Appraise 1, Background (jewelcrafting) 1, Emulation 1, Mysticism 1, Perception 2"
 feats: "Eschew Materials, Toughness"
 environment: "Temperate mountains"
 organization: "Solitary, or with other dwarves (see Dwarf)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/races/Dwarf#^defensive-training|defensive training]] (+4 dodge bonus to AC vs. giants), [[rangoric-srd/class-options/bloodlines/Elemental Bloodline|bloodline arcana]] (change energy damage spells to fire)
 - **Defenses**: Fort 12, Ref 10, Will 13 (+2 vs. poison, spells, and spell-like abilities)
 - **Abilities**: Str 14, Dex 10, Con 15, Int 12, Wis 10, Cha 13
-- **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +5 (+7 to assess metals or gemstones), [[rangoric-srd/skills/Craft|Craft]] (jewelry) +5, [[rangoric-srd/skills/Emulation|Emulation]] +5, [[rangoric-srd/skills/Investigation|Investigation]] +1 (+3 to notice unusual stonework), [[rangoric-srd/skills/Mysticism|Mysticism]] +5, [[rangoric-srd/skills/Perception|Perception]] +2
+- **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +5 (+7 to assess metals or gemstones), [[rangoric-srd/skills/Background|Background]] (jewelcrafting) +5, [[rangoric-srd/skills/Emulation|Emulation]] +5, [[rangoric-srd/skills/Investigation|Investigation]] +1 (+3 to notice unusual stonework), [[rangoric-srd/skills/Mysticism|Mysticism]] +5, [[rangoric-srd/skills/Perception|Perception]] +2
 - **Feats**: [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Toughness|Toughness]]
 - **Environment**: Temperate mountains
 - **Organization**: Solitary, or with other dwarves (see [[rangoric-srd/monsters/dwarves/Dwarf|Dwarf]])

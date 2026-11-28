@@ -18,8 +18,8 @@ special-attacks: "Dancing chains, unnerving gaze"
 special-qualities: "Darkvision 60 ft., regeneration 2 (good weapons and spells, silver weapons), chain armor, damage reduction 5/silver or good, immunity to cold, spell resistance 17"
 defenses: "Fort 18, Ref 19, Will 13"
 abilities: "Str 15, Dex 17, Con 14, Int 11, Wis 12, Cha 12"
-skills: "Acrobatics +14, Athletics +13, Craft (blacksmithing) +11, Escape Artist +14, Intimidation +12, Perception +15"
-skill-ranks: "Acrobatics 8, Athletics 8, Craft (blacksmithing) 8, Escape Artist 8, Intimidation 8, Perception 10"
+skills: "Acrobatics +14, Athletics +13, Background (blacksmithing) +11, Escape Artist +14, Intimidation +12, Perception +15"
+skill-ranks: "Acrobatics 8, Athletics 8, Background (blacksmithing) 8, Escape Artist 8, Intimidation 8, Perception 10"
 feats: "Blind-Fight, Improved Initiative, Weapon Focus (chain), Skill Focus (Perception)"
 environment: "Any"
 organization: "Solitary, pair, link (3–6), chain (7–20), gang (2–4), band (6–10), or mob (11–20)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 2 (good weapons and spells, silver weapons), chain armor, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/silver or good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 17
 - **Defenses**: Fort 18, Ref 19, Will 13
 - **Abilities**: Str 15, Dex 17, Con 14, Int 11, Wis 12, Cha 12
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Craft|Craft]] (blacksmithing) +11, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Perception|Perception]] +15
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Background|Background]] (blacksmithing) +11, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Perception|Perception]] +15
 - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (chain), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
 - **Environment**: Any
 - **Organization**: Solitary, pair, link (3–6), chain (7–20), gang (2–4), band (6–10), or mob (11–20)

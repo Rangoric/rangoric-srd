@@ -18,9 +18,9 @@ special-attacks: "Bardic performance 18 rounds/day (countersong, distraction, fa
 special-qualities: "Low-light vision, bardic knowledge +3, elf blood, lore master 1/day, versatile performance (act, oratory), immunity to sleep"
 defenses: "Fort 11, Ref 16, Will 16 (+2 vs. enchantments, +4 vs. bardic performance, language-dependent, and sonic)"
 abilities: "Str 10, Dex 13, Con 8, Int 14, Wis 12, Cha 18"
-skills: "Acrobatics +6, Arcana +10, Escape Artist +10, Mysticism +8, Perception +3, Perform (act, oratory) +16, Perform (string) +13, Sense Motive +10, Society +14, Stealth +10"
-skill-ranks: "Acrobatics 2, Arcana 5, Escape Artist 6, Mysticism 3, Perception 2, Perform (act, oratory) 11, Perform (string) 8, Sense Motive 6, Society 9, Stealth 6"
-feats: "Skill Focus (Perform [act, oratory]), Spell Focus (illusion), Weapon Finesse"
+skills: "Acrobatics +6, Arcana +10, Escape Artist +10, Mysticism +8, Perception +3, Performance (act, oratory) +19, Performance (string instruments) +16, Sense Motive +10, Society +14, Stealth +10"
+skill-ranks: "Acrobatics 2, Arcana 5, Escape Artist 6, Mysticism 3, Perception 2, Performance (act, oratory) 11, Performance (string instruments) 8, Sense Motive 6, Society 9, Stealth 6"
+feats: "Skill Focus (Performance [act, oratory]), Spell Focus (illusion), Weapon Finesse"
 environment: "Temperate forests"
 organization: "Solitary, or with other half-elves (see Elf)"
 challenge-rating: 5
@@ -49,8 +49,8 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Bard|bardic knowledge]] +3, [[rangoric-srd/races/Half-Elf#^half-elf-elven-blood|elf blood]], [[rangoric-srd/classes/Bard#^bard-lore-master|lore master]] 1/day, [[rangoric-srd/classes/Bard#^bard-versatile-performance|versatile performance]] (act, oratory), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep
 - **Defenses**: Fort 11, Ref 16, Will 16 (+2 vs. enchantments, +4 vs. bardic performance, language-dependent, and sonic)
 - **Abilities**: Str 10, Dex 13, Con 8, Int 14, Wis 12, Cha 18
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Arcana|Arcana]] +10, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +10, [[rangoric-srd/skills/Mysticism|Mysticism]] +8, [[rangoric-srd/skills/Perception|Perception]] +3, Perform (act, oratory) +16, Perform (string) +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Society|Society]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +10
-- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perform \[act, oratory\]), [[rangoric-srd/feats/Spell Focus|Spell Focus]] (illusion), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Arcana|Arcana]] +10, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +10, [[rangoric-srd/skills/Mysticism|Mysticism]] +8, [[rangoric-srd/skills/Perception|Perception]] +3, [[rangoric-srd/skills/Performance|Performance]] (act, oratory) +19, [[rangoric-srd/skills/Performance|Performance]] (string instruments) +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Society|Society]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +10
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Performance \[act, oratory\]), [[rangoric-srd/feats/Spell Focus|Spell Focus]] (illusion), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
 - **Environment**: Temperate forests
 - **Organization**: Solitary, or with other half-elves (see [[rangoric-srd/monsters/elves/Elf|Elf]])
 - **Challenge Rating**: 5

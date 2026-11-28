@@ -18,8 +18,8 @@ special-attacks: "+1 on attack rolls against goblinoid and orc humanoids, rage (
 special-qualities: "Defensive training (+4 dodge bonus to AC vs. giants), improved uncanny dodge, trap sense +2, fast movement, damage reduction 1/—"
 defenses: "Fort 21, Ref 14, Will 17 (+2 vs. poison, spells, and spell-like abilities)"
 abilities: "Str 20, Dex 13, Con 20, Int 10, Wis 14, Cha 6"
-skills: "Acrobatics +5, Athletics +10 (+6 jumping), Craft (weapons) +10, Dungeoneering +5, Investigation +0 (+2 to notice unusual stonework), Perception +12"
-skill-ranks: "Acrobatics 1, Athletics 2, Craft (weapons) 7, Dungeoneering 2, Perception 7"
+skills: "Acrobatics +5, Athletics +10 (+6 jumping), Background (weaponsmithing) +10, Dungeoneering +5, Investigation +0 (+2 to notice unusual stonework), Perception +12"
+skill-ranks: "Acrobatics 1, Athletics 2, Background (weaponsmithing) 7, Dungeoneering 2, Perception 7"
 feats: "Armor Proficiency (Heavy), Greater Sunder, Improved Sunder, Power Attack"
 environment: "Temperate mountains"
 organization: "Solitary, or with other dwarves (see Dwarf)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/races/Dwarf#^defensive-training|Defensive training]] (+4 dodge bonus to AC vs. giants), [[rangoric-srd/classes/Barbarian#^barbarian-improved-uncanny-dodge|improved uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] +2, [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/classes/Barbarian#^barbarian-damage-reduction|damage reduction]] 1/—
 - **Defenses**: Fort 21, Ref 14, Will 17 (+2 vs. poison, spells, and spell-like abilities)
 - **Abilities**: Str 20, Dex 13, Con 20, Int 10, Wis 14, Cha 6
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +10 (+6 jumping), [[rangoric-srd/skills/Craft|Craft]] (weapons) +10, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +5, [[rangoric-srd/skills/Investigation|Investigation]] +0 (+2 to notice unusual stonework), [[rangoric-srd/skills/Perception|Perception]] +12
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +10 (+6 jumping), [[rangoric-srd/skills/Background|Background]] (weaponsmithing) +10, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +5, [[rangoric-srd/skills/Investigation|Investigation]] +0 (+2 to notice unusual stonework), [[rangoric-srd/skills/Perception|Perception]] +12
 - **Feats**: [[rangoric-srd/feats/Armor Proficiency (Heavy)|Armor Proficiency (Heavy)]], [[rangoric-srd/feats/Greater Sunder|Greater Sunder]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Power Attack|Power Attack]]
 - **Environment**: Temperate mountains
 - **Organization**: Solitary, or with other dwarves (see [[rangoric-srd/monsters/dwarves/Dwarf|Dwarf]])

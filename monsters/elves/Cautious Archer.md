@@ -18,8 +18,8 @@ special-attacks: "Weapon training (bows +1)"
 special-qualities: "Low-light vision, bravery +1, armor training 1, elven magic, weapon familiarity, immunity to sleep"
 defenses: "Fort 17, Ref 16, Will 11 (+2 vs. enchantments, +1 vs. fear)"
 abilities: "Str 14, Dex 18, Con 14, Int 15, Wis 8, Cha 10"
-skills: "Animal Handling +8, Athletics +5, Craft (bows) +8, Fieldcraft +3, Perception +6, Stealth +6"
-skill-ranks: "Animal Handling 5, Athletics 3, Craft (bows) 3, Fieldcraft 1, Perception 4, Stealth 2"
+skills: "Animal Handling +8, Athletics +5, Background (bowmaking) +8, Fieldcraft +3, Perception +6, Stealth +6"
+skill-ranks: "Animal Handling 5, Athletics 3, Background (bowmaking) 3, Fieldcraft 1, Perception 4, Stealth 2"
 feats: "Deadly Aim, Point Blank Shot, Precise Shot, Rapid Shot, Weapon Focus (composite longbow), Weapon Specialization (composite longbow)"
 environment: "Temperate forest"
 organization: "Solitary, or with other elves (see Elf)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +1, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1, [[rangoric-srd/races/Elf|elven magic]], [[rangoric-srd/races/Elf|weapon familiarity]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep
 - **Defenses**: Fort 17, Ref 16, Will 11 (+2 vs. enchantments, +1 vs. fear)
 - **Abilities**: Str 14, Dex 18, Con 14, Int 15, Wis 8, Cha 10
-- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Craft|Craft]] (bows) +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +3, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +6
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Background|Background]] (bowmaking) +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +3, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +6
 - **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (composite longbow), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (composite longbow)
 - **Environment**: Temperate forest
 - **Organization**: Solitary, or with other elves (see [[rangoric-srd/monsters/elves/Elf|Elf]])

@@ -18,8 +18,8 @@ special-attacks: "Vortex (1/10 minutes, 10–50 ft. tall, 1d8+4 damage, +12 vs R
 special-qualities: "Darkvision 60 ft., telepathy 100 ft., change shape (water elemental, humanoid or giant, alter self, elemental body III, or giant form I)"
 defenses: "Fort 20, Ref 22, Will 20"
 abilities: "Str 23, Dex 19, Con 18, Int 14, Wis 15, Cha 16"
-skills: "Athletics +29, Craft (any one) +17, Mysticism +17, Perception +17, Persuasion +18, Sense Motive +17, Stealth +15, Theology +17"
-skill-ranks: "Athletics 20, Craft (any one) 12, Mysticism 12, Perception 12, Persuasion 12, Sense Motive 12, Stealth 12, Theology 12"
+skills: "Athletics +29, Background (any one craft) +17, Mysticism +17, Perception +17, Persuasion +18, Sense Motive +17, Stealth +15, Theology +17"
+skill-ranks: "Athletics 20, Background (any one craft) 12, Mysticism 12, Perception 12, Persuasion 12, Sense Motive 12, Stealth 12, Theology 12"
 feats: "Combat Casting, Combat Reflexes, Dodge, Great Fortitude, Improved Initiative, Improved Natural Attack, Power Attack"
 environment: "Any (Elemental Plane of Water)"
 organization: "Solitary, pair, company (3–6), or band (7–12)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (water elemental, humanoid or giant, alter self, elemental body III, or giant form I)
 - **Defenses**: Fort 20, Ref 22, Will 20
 - **Abilities**: Str 23, Dex 19, Con 18, Int 14, Wis 15, Cha 16
-- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +29, [[rangoric-srd/skills/Craft|Craft]] (any one) +17, [[rangoric-srd/skills/Mysticism|Mysticism]] +17, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Persuasion|Persuasion]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +15, [[rangoric-srd/skills/Theology|Theology]] +17
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +29, [[rangoric-srd/skills/Background|Background]] (any one craft) +17, [[rangoric-srd/skills/Mysticism|Mysticism]] +17, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Persuasion|Persuasion]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +15, [[rangoric-srd/skills/Theology|Theology]] +17
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Natural Attack|Improved Natural Attack]], [[rangoric-srd/feats/Power Attack|Power Attack]]
 - **Environment**: Any (Elemental Plane of Water)
 - **Organization**: Solitary, pair, company (3–6), or band (7–12)

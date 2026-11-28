@@ -75,4 +75,4 @@ Clockwork soldiers are among the most efficient constructs of their kind. They a
 
 ### Construction
 
-CL 12th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_ and _[[rangoric-srd/spells/Heroism|heroism]]_, creator must be at least caster level 12th; Skill [[rangoric-srd/skills/Craft|Craft]] (clockwork) DC 20; Price 37,000 gp; Cost 19,000 gp.
+CL 12th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_ and _[[rangoric-srd/spells/Heroism|heroism]]_, creator must be at least caster level 12th; Skill [[rangoric-srd/skills/Background|Background]] (clockmaking) DC 20; Price 37,000 gp; Cost 19,000 gp.

@@ -83,4 +83,4 @@ A humanoid figure of mithral and steel, a clockwork mage has large crystal ball 
 
 ### Construction
 
-CL 12th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, and _[[rangoric-srd/spells/Mnemonic Enhancer|mnemonic enhancer]]_, creator must be at least caster level 12th; Skill [[rangoric-srd/skills/Craft|Craft]] (clockwork) DC 20; Price 84,000 gp; Cost 43,000 gp.
+CL 12th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, and _[[rangoric-srd/spells/Mnemonic Enhancer|mnemonic enhancer]]_, creator must be at least caster level 12th; Skill [[rangoric-srd/skills/Background|Background]] (clockmaking) DC 20; Price 84,000 gp; Cost 43,000 gp.

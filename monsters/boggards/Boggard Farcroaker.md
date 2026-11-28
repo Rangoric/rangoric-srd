@@ -15,12 +15,12 @@ attack: "Masterwork shortspear +5 melee (1d6+1) or tongue +4 melee touch (sticky
 full-attack: "Masterwork shortspear +5 melee (1d6+1) and tongue –1 melee touch (sticky tongue); or shortspear +4 ranged (1d6+1)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Bardic performance 8 rounds/day (countersong, distraction, fascinate [+3 vs Will], inspire courage +1), terrifying croak (+5 vs Will)"
-special-qualities: "Darkvision 60 ft., low-light vision, bardic knowledge +1, hold breath, swamp stride, versatile performance (Perform (sing))"
+special-qualities: "Darkvision 60 ft., low-light vision, bardic knowledge +1, hold breath, swamp stride, versatile performance (Performance (sing))"
 defenses: "Fort 15, Ref 14, Will 15 (+4 vs. bardic performance, language-dependent, and sonic)"
 abilities: "Str 13, Dex 11, Con 14, Int 12, Wis 13, Cha 14"
-skills: "Acrobatics +6, Athletics +9 (+25 jumping), Linguistics +5, Nature +7, Perception +11, Perform (sing) +13, Persuasion +8, Society +7, Stealth +5 (+13 in swamps)"
-skill-ranks: "Acrobatics 3, Athletics 5, Linguistics 1, Nature 3, Perception 7, Perform (sing) 9, Persuasion 3, Society 3, Stealth 2"
-feats: "Skill Focus (Perform (sing)), Sonic Croak, Throat Pouch"
+skills: "Acrobatics +6, Athletics +9 (+25 jumping), Linguistics +5, Nature +7, Perception +11, Performance (sing) +16, Persuasion +8, Society +7, Stealth +5 (+13 in swamps)"
+skill-ranks: "Acrobatics 3, Athletics 5, Linguistics 1, Nature 3, Perception 7, Performance (sing) 9, Persuasion 3, Society 3, Stealth 2"
+feats: "Skill Focus (Performance (sing)), Sonic Croak, Throat Pouch"
 environment: "Temperate marshes"
 organization: "Solitary, or with other boggards (see Boggard)"
 challenge-rating: 3
@@ -46,11 +46,11 @@ tags: [rangoric, rangoric/monster]
 - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Shortspear|shortspear]] +5 melee (1d6+1) and tongue –1 melee touch (sticky tongue); or [[rangoric-srd/equipment/weapons/Shortspear|shortspear]] +4 ranged (1d6+1)
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Bard#^bardic-music|Bardic performance]] 8 rounds/day ([[rangoric-srd/classes/Bard#^countersong|countersong]], [[rangoric-srd/classes/Bard#^bard-distraction|distraction]], [[rangoric-srd/classes/Bard#^bard-fascinate|fascinate]] \[+3 vs Will\], [[rangoric-srd/classes/Bard#^inspire-courage|inspire courage]] +1), [[rangoric-srd/monsters/boggards/Boggard#^terrifying-croak|terrifying croak]] (+5 vs Will)
-- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/classes/Bard#^bardic-knowledge|bardic knowledge]] +1, [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]], [[rangoric-srd/monsters/boggards/Boggard#^swamp-stride|swamp stride]], [[rangoric-srd/classes/Bard#^bard-versatile-performance|versatile performance]] (Perform (sing))
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/classes/Bard#^bardic-knowledge|bardic knowledge]] +1, [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]], [[rangoric-srd/monsters/boggards/Boggard#^swamp-stride|swamp stride]], [[rangoric-srd/classes/Bard#^bard-versatile-performance|versatile performance]] (Performance (sing))
 - **Defenses**: Fort 15, Ref 14, Will 15 (+4 vs. bardic performance, language-dependent, and sonic)
 - **Abilities**: Str 13, Dex 11, Con 14, Int 12, Wis 13, Cha 14
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +9 (+25 jumping), [[rangoric-srd/skills/Linguistics|Linguistics]] +5, [[rangoric-srd/skills/Nature|Nature]] +7, [[rangoric-srd/skills/Perception|Perception]] +11, Perform (sing) +13, [[rangoric-srd/skills/Persuasion|Persuasion]] +8, [[rangoric-srd/skills/Society|Society]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +5 (+13 in swamps)
-- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perform (sing)), [[rangoric-srd/feats/Sonic Croak|Sonic Croak]], [[rangoric-srd/feats/Throat Pouch|Throat Pouch]]
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +9 (+25 jumping), [[rangoric-srd/skills/Linguistics|Linguistics]] +5, [[rangoric-srd/skills/Nature|Nature]] +7, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Performance|Performance]] (sing) +16, [[rangoric-srd/skills/Persuasion|Persuasion]] +8, [[rangoric-srd/skills/Society|Society]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +5 (+13 in swamps)
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Performance (sing)), [[rangoric-srd/feats/Sonic Croak|Sonic Croak]], [[rangoric-srd/feats/Throat Pouch|Throat Pouch]]
 - **Environment**: Temperate marshes
 - **Organization**: Solitary, or with other boggards (see [[rangoric-srd/monsters/boggards/Boggard|Boggard]])
 - **Challenge Rating**: 3

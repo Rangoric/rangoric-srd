@@ -18,9 +18,9 @@ special-attacks: "Bardic performance 7 rounds/day (countersong, distraction, fas
 special-qualities: "Low-light vision, bardic knowledge +1, elf blood, immunity to sleep"
 defenses: "Fort 11, Ref 14, Will 11 (+2 vs. enchantments)"
 abilities: "Str 10, Dex 14, Con 12, Int 13, Wis 8, Cha 17"
-skills: "Deception +7, Emulation +7, Perception +5, Perform (wind) +12, Persuasion +7, Sense Motive +3, Sleight of Hand +6, Stealth +5"
-skill-ranks: "Deception 1, Emulation 1, Perception 3, Perform (wind) 8, Persuasion 1, Sense Motive 1, Sleight of Hand 1, Stealth 3"
-feats: "Skill Focus (Perform [wind]), Weapon Finesse"
+skills: "Deception +7, Emulation +7, Perception +5, Performance (wind instruments) +15, Persuasion +7, Sense Motive +3, Sleight of Hand +6, Stealth +5"
+skill-ranks: "Deception 1, Emulation 1, Perception 3, Performance (wind instruments) 8, Persuasion 1, Sense Motive 1, Sleight of Hand 1, Stealth 3"
+feats: "Skill Focus (Performance [wind instruments]), Weapon Finesse"
 environment: "Temperate forests"
 organization: "Solitary, or with other half-elves (see Elf)"
 challenge-rating: "1/2"
@@ -49,8 +49,8 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Bard|bardic knowledge]] +1, [[rangoric-srd/races/Half-Elf#^half-elf-elven-blood|elf blood]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep
 - **Defenses**: Fort 11, Ref 14, Will 11 (+2 vs. enchantments)
 - **Abilities**: Str 10, Dex 14, Con 12, Int 13, Wis 8, Cha 17
-- **Skills**: [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Emulation|Emulation]] +7, [[rangoric-srd/skills/Perception|Perception]] +5, Perform (wind) +12, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +3, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +5
-- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perform \[wind\]), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Skills**: [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Emulation|Emulation]] +7, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Performance|Performance]] (wind instruments) +15, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +3, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +5
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Performance \[wind instruments\]), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
 - **Environment**: Temperate forests
 - **Organization**: Solitary, or with other half-elves (see [[rangoric-srd/monsters/elves/Elf|Elf]])
 - **Challenge Rating**: 1/2

@@ -18,8 +18,8 @@ special-attacks: "Bomb 6/day (1d6+2 acid or fire, +3 vs Reflex), spell-like abil
 special-qualities: "Darkvision 120 ft., alchemy (alchemy crafting +2, identify potions), discovery (acid bomb), ironskinned, mutagen (+4/-2, +2 natural, 20 minutes), poison use, slow and steady, stability, immunity to paralysis, phantasms and poison, light sensitivity"
 defenses: "Fort 15, Ref 17, Will 10 (+2 vs. spells)"
 abilities: "Str 12, Dex 16, Con 15, Int 15, Wis 10, Cha 4"
-skills: "Arcana +7, Craft (alchemy) +7, Engineering +8, Fieldcraft +4, Medicine +4, Perception +6"
-skill-ranks: "Arcana 2, Craft (alchemy) 2, Engineering 2, Fieldcraft 1, Medicine 1, Perception 3"
+skills: "Arcana +7, Background (alchemy) +7, Engineering +8, Fieldcraft +4, Medicine +4, Perception +6"
+skill-ranks: "Arcana 2, Background (alchemy) 2, Engineering 2, Fieldcraft 1, Medicine 1, Perception 3"
 feats: "Brew Potion, Extra Bombs, Throw Anything"
 environment: "Any underground"
 organization: "Solitary, or with other duergar (see Duergar, 1st-Level Warrior)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/classes/Alchemist#^alchemist-alchemy|alchemy]] (alchemy crafting +2, identify potions), [[rangoric-srd/classes/Alchemist#^alchemist-discovery|discovery]] (acid bomb), [[rangoric-srd/races/racial-traits/Ironskinned|ironskinned]], [[rangoric-srd/classes/Alchemist#^alchemist-mutagen|mutagen]] (+4/-2, +2 natural, 20 minutes), [[rangoric-srd/classes/Alchemist#^alchemist-poison-use|poison use]], slow and steady, stability, immunity to [[rangoric-srd/monsters/abilities/Paralysis|paralysis]], phantasms and poison, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
 - **Defenses**: Fort 15, Ref 17, Will 10 (+2 vs. spells)
 - **Abilities**: Str 12, Dex 16, Con 15, Int 15, Wis 10, Cha 4
-- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +7, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +7, [[rangoric-srd/skills/Engineering|Engineering]] +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Medicine|Medicine]] +4, [[rangoric-srd/skills/Perception|Perception]] +6
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +7, [[rangoric-srd/skills/Background|Background]] (alchemy) +7, [[rangoric-srd/skills/Engineering|Engineering]] +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Medicine|Medicine]] +4, [[rangoric-srd/skills/Perception|Perception]] +6
 - **Feats**: [[rangoric-srd/feats/Brew Potion|Brew Potion]], [[rangoric-srd/feats/Extra Bombs|Extra Bombs]], [[rangoric-srd/feats/Throw Anything|Throw Anything]]
 - **Environment**: Any underground
 - **Organization**: Solitary, or with other duergar (see [[rangoric-srd/monsters/duergar/Duergar, 1st-Level Warrior|Duergar, 1st-Level Warrior]])

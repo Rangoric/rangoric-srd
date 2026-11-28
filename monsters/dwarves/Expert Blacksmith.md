@@ -18,9 +18,9 @@ special-attacks: "+1 on attack rolls against goblinoid and orc humanoids"
 special-qualities: "Darkvision 60 ft., defensive training (+4 dodge bonus to AC vs. giants)"
 defenses: "Fort 14, Ref 12, Will 15 (+2 vs. poison, spells, and spell-like abilities)"
 abilities: "Str 13, Dex 10, Con 14, Int 12, Wis 11, Cha 6"
-skills: "Appraise +10 (+12 to assess nonmagical metals or gemstones), Craft (armor, blacksmithing) +10, Craft (weapons) +15, Linguistics +7, Perform (sing) +7, Sense Motive +9, Society +9"
-skill-ranks: "Appraise 6, Craft (armor, blacksmithing) 6, Craft (weapons) 11, Linguistics 3, Perform (sing) 3, Sense Motive 6, Society 5"
-feats: "Craft Magic Arms and Armor, Master Craftsman (Craft [weapons]), Skill Focus (Craft [armor, weapons])"
+skills: "Appraise +10 (+12 to assess nonmagical metals or gemstones), Background (armorsmithing, blacksmithing) +10, Background (weaponsmithing) +15, Linguistics +7, Performance (sing) +7, Sense Motive +9, Society +9"
+skill-ranks: "Appraise 6, Background (armorsmithing, blacksmithing) 6, Background (weaponsmithing) 11, Linguistics 3, Performance (sing) 3, Sense Motive 6, Society 5"
+feats: "Craft Magic Arms and Armor, Master Craftsman (Background [weaponsmithing]), Skill Focus (Background [armorsmithing, weaponsmithing])"
 environment: "Temperate mountains"
 organization: "Solitary, or with other dwarves (see Dwarf)"
 challenge-rating: 4
@@ -49,8 +49,8 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/races/Dwarf#^defensive-training|defensive training]] (+4 dodge bonus to AC vs. giants)
 - **Defenses**: Fort 14, Ref 12, Will 15 (+2 vs. poison, spells, and spell-like abilities)
 - **Abilities**: Str 13, Dex 10, Con 14, Int 12, Wis 11, Cha 6
-- **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +10 (+12 to assess nonmagical metals or gemstones), [[rangoric-srd/skills/Craft|Craft]] (armor, blacksmithing) +10, [[rangoric-srd/skills/Craft|Craft]] (weapons) +15, [[rangoric-srd/skills/Linguistics|Linguistics]] +7, Perform (sing) +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Society|Society]] +9
-- **Feats**: [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], [[rangoric-srd/feats/Master Craftsman|Master Craftsman]] (Craft \[weapons\]), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Craft \[armor, weapons\])
+- **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +10 (+12 to assess nonmagical metals or gemstones), [[rangoric-srd/skills/Background|Background]] (armorsmithing, blacksmithing) +10, [[rangoric-srd/skills/Background|Background]] (weaponsmithing) +15, [[rangoric-srd/skills/Linguistics|Linguistics]] +7, [[rangoric-srd/skills/Performance|Performance]] (sing) +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Society|Society]] +9
+- **Feats**: [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], [[rangoric-srd/feats/Master Craftsman|Master Craftsman]] (Background \[weaponsmithing\]), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Background \[armorsmithing, weaponsmithing\])
 - **Environment**: Temperate mountains
 - **Organization**: Solitary, or with other dwarves (see [[rangoric-srd/monsters/dwarves/Dwarf|Dwarf]])
 - **Challenge Rating**: 4

@@ -73,4 +73,4 @@ Clockwork servants are about 5 feet tall and weigh over 400 pounds.
 
 ### Construction
 
-CL 12th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_ and _[[rangoric-srd/spells/Make Whole|make whole]]_, creator must be at least caster level 12th; Skill [[rangoric-srd/skills/Craft|Craft]] (clockwork) DC 20; Price 7,500 gp (13,500 gp for an intelligent servant); Cost 4,000 gp (7,000 gp for an intelligent clockwork servant).
+CL 12th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_ and _[[rangoric-srd/spells/Make Whole|make whole]]_, creator must be at least caster level 12th; Skill [[rangoric-srd/skills/Background|Background]] (clockmaking) DC 20; Price 7,500 gp (13,500 gp for an intelligent servant); Cost 4,000 gp (7,000 gp for an intelligent clockwork servant).

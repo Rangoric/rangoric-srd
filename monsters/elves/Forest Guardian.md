@@ -18,8 +18,8 @@ special-attacks: "Rage (15 rounds/day), rage powers (rolling dodge +2, swift foo
 special-qualities: "Low-light vision, improved uncanny dodge, trap sense +2, elven magic, fast movement, weapon familiarity, immunity to sleep"
 defenses: "Fort 18, Ref 16, Will 15 (+2 vs. enchantments)"
 abilities: "Str 17, Dex 18, Con 16, Int 10, Wis 12, Cha 10"
-skills: "Acrobatics +12, Animal Handling +5, Athletics +10 (+18 jumping), Craft (bows) +5, Fieldcraft +5, Nature +5, Perception +12, Stealth +5"
-skill-ranks: "Acrobatics 5, Animal Handling 2, Athletics 4, Craft (bows) 2, Fieldcraft 1, Nature 2, Perception 8, Stealth 1"
+skills: "Acrobatics +12, Animal Handling +5, Athletics +10 (+18 jumping), Background (bowmaking) +5, Fieldcraft +5, Nature +5, Perception +12, Stealth +5"
+skill-ranks: "Acrobatics 5, Animal Handling 2, Athletics 4, Background (bowmaking) 2, Fieldcraft 1, Nature 2, Perception 8, Stealth 1"
 feats: "Deadly Aim, Point Blank Shot, Power Attack"
 environment: "Temperate forest"
 organization: "Solitary, or with other elves (see Elf)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Barbarian#^barbarian-improved-uncanny-dodge|improved uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] +2, [[rangoric-srd/races/Elf|elven magic]], [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/races/Elf|weapon familiarity]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep
 - **Defenses**: Fort 18, Ref 16, Will 15 (+2 vs. enchantments)
 - **Abilities**: Str 17, Dex 18, Con 16, Int 10, Wis 12, Cha 10
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +10 (+18 jumping), [[rangoric-srd/skills/Craft|Craft]] (bows) +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Nature|Nature]] +5, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +5
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +10 (+18 jumping), [[rangoric-srd/skills/Background|Background]] (bowmaking) +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Nature|Nature]] +5, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +5
 - **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Power Attack|Power Attack]]
 - **Environment**: Temperate forest
 - **Organization**: Solitary, or with other elves (see [[rangoric-srd/monsters/elves/Elf|Elf]])
