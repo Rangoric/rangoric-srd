@@ -21,4 +21,4 @@ tags: [rangoric, rangoric/downtime-room]
 - **Time**: 16 days
 - **Size**: 5-16 squares
 
-A Scriptorium is where scribes do their work. It contains chairs and writing desks, as well as ink, paper, and other supplies needed to create or copy written works. Up to three people can use the room at a time for scribing scrolls or using [[rangoric-srd/skills/Craft|Craft]] (calligraphy) or [[rangoric-srd/skills/Profession|Profession]] (scribe).
+A Scriptorium is where scribes do their work. It contains chairs and writing desks, as well as ink, paper, and other supplies needed to create or copy written works. Up to three people can use the room at a time for scribing scrolls or using [[rangoric-srd/skills/Background|Background]] (calligraphy) or [[rangoric-srd/skills/Background|Background]] (scribe).

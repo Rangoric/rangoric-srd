@@ -5,7 +5,7 @@ item-type: "Wondrous Item"
 slot: "neck"
 aura: "Moderate transmutation"
 caster-level: 11
-prerequisites: "Craft Wondrous Item, Craft (leather) 4 ranks, alter self, hold person, transformation, coven hex"
+prerequisites: "Craft Wondrous Item, Background (leatherworking) 4 ranks, alter self, hold person, transformation, coven hex"
 price: "46,000 gp"
 cost: "23,000 gp"
 weight: "2 lbs."
@@ -24,4 +24,4 @@ This grotesque collar is useful to any witch who is eager to form a coven, but w
 
 **Hag Form**: Once per day as a standard action, the wearer can assume the form of a powerfully built Medium crone that resembles the horrific union of an annis hag, a green hag, and a sea hag. This metamorphosis is identical to the _[[rangoric-srd/spells/Transformation|transformation]]_ spell, including the violent change to the wearer's mindset and the loss of spellcasting ability.
 
-Moderate transmutation; CL 11th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/skills/Craft|Craft]] (leather) 4 ranks, _[[rangoric-srd/spells/Alter Self|alter self]]_, _[[rangoric-srd/spells/Hold Person|hold person]]_, _[[rangoric-srd/spells/Transformation|transformation]]_, [[rangoric-srd/class-options/hexes/Coven (Hex)|coven]] hex; Price 46,000 gp; Cost 23,000 gp; Weight 2 lbs.
+Moderate transmutation; CL 11th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/skills/Background|Background]] (leatherworking) 4 ranks, _[[rangoric-srd/spells/Alter Self|alter self]]_, _[[rangoric-srd/spells/Hold Person|hold person]]_, _[[rangoric-srd/spells/Transformation|transformation]]_, [[rangoric-srd/class-options/hexes/Coven (Hex)|coven]] hex; Price 46,000 gp; Cost 23,000 gp; Weight 2 lbs.

@@ -16,12 +16,12 @@ The game master can also apply a penalty to future rolls in the complex check if
 
 **Table: Example Complex Skill Checks**
 
-| Successes Required | Complexity | Example (Skill)                                                                    |
-| ------------------ | ---------- | ---------------------------------------------------------------------------------- |
-| 2 or 3             | Slight     | Training a riding horse ([[rangoric-srd/skills/Animal Handling\|Animal Handling]]) |
-| 4 to 6             | Ordinary   | Making a crossbow ([[rangoric-srd/skills/Craft\|Craft]] \[weaponsmithing\])        |
-| 7 to 9             | Good       | Bypassing a fiendish trap ([[rangoric-srd/skills/Engineering\|Engineering]])       |
-| 10 or more         | Amazing    | Pick an amazing lock (Sleight of Hand)                                             |
+| Successes Required | Complexity | Example (Skill)                                                                       |
+| ------------------ | ---------- | ------------------------------------------------------------------------------------- |
+| 2 or 3             | Slight     | Training a riding horse ([[rangoric-srd/skills/Animal Handling\|Animal Handling]])    |
+| 4 to 6             | Ordinary   | Making a crossbow ([[rangoric-srd/skills/Background\|Background]] \[weaponsmithing\]) |
+| 7 to 9             | Good       | Bypassing a fiendish trap ([[rangoric-srd/skills/Engineering\|Engineering]])          |
+| 10 or more         | Amazing    | Pick an amazing lock (Sleight of Hand)                                                |
 
 Each die roll is one portion of a complex skill check, and each die roll in the attempt represents at least 1 round of effort (it might represent more time, depending on the skill or task in question).
 
@@ -142,15 +142,15 @@ Typical use of the [[rangoric-srd/spells/Magic Overview#Concentration|Concentrat
 
 For example, the entrance to an enchanter's laboratory might be magically enhanced with mental barriers to entry and require a complex [[rangoric-srd/spells/Magic Overview#Concentration|Concentration]] check to pass through.
 
-###### Craft
+###### Background: Making Things
 
-Normal use of the [[rangoric-srd/skills/Craft|Craft]] skill in many ways resembles a complex skill check, though it penalizes the character on each failure (rather than only after three failures).
+Normal use of the craft [[rangoric-srd/skills/Background#Making Things|Background]] in many ways resembles a complex skill check, though it penalizes the character on each failure (rather than only after three failures).
 
-You can replace the standard [[rangoric-srd/skills/Craft|Craft]] check rules with a complex Craft check. In that case, a single failed check doesn't ruin one third of the raw materials; instead, rolling three failures before achieving the requisite number of successes ruins one third of the raw materials, requiring the character to start over. Each check represents a single day (if the item's value is no more than 1 gp) or a full week (if the item's value is higher than 1 gp) of work.
+You can replace the standard [[rangoric-srd/skills/Background#Making Things|Background]] check to make things rules with a complex Background check to make things. In that case, a single failed check doesn't ruin one third of the raw materials; instead, rolling three failures before achieving the requisite number of successes ruins one third of the raw materials, requiring the character to start over. Each check represents a single day (if the item's value is no more than 1 gp) or a full week (if the item's value is higher than 1 gp) of work.
 
-**Table: Complex Craft Checks**
+**Table: Complex Checks to Make Things**
 
-| Craft DC     | Successes Required |
+| making DC    | Successes Required |
 | ------------ | ------------------ |
 | 9 or lower   | 1                  |
 | 10-14        | 3                  |
@@ -235,9 +235,9 @@ Typically, the [[rangoric-srd/skills/Persuasion|Persuasion]] skill allows charac
 
 In a complex [[rangoric-srd/skills/Persuasion|Persuasion]] check, each die roll represents 2 hours spent pursuing each individual question or lead.
 
-###### Profession
+###### Background: Working at a Profession
 
-Because each [[rangoric-srd/skills/Profession|Profession]] check already represents a week of work, the use of the Profession skill does not lend itself to complex skill checks.
+Because each [[rangoric-srd/skills/Background#Working at a Profession|Background]] check with a profession already represents a week of work, using a profession Background does not lend itself to complex skill checks.
 
 ###### Investigation
 

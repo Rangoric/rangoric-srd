@@ -5,7 +5,7 @@ item-type: "Wondrous Item"
 slot: "none"
 aura: "Faint transmutation"
 caster-level: 6
-prerequisites: "Craft Wondrous Item, fabricate, creator must have 1 rank in the Craft (shipmaking) skill"
+prerequisites: "Craft Wondrous Item, fabricate, creator must have 1 rank in the Background (shipmaking) skill"
 price: "7,200 gp"
 weight: "4 lb"
 status: draft
@@ -21,4 +21,4 @@ In its smaller form, the boat has one pair of oars, an anchor, a mast, and a lat
 
 A third word of command causes the boat or ship to fold itself into a box once again.
 
-Faint transmutation; CL 6th; Craft Wondrous Item, fabricate, creator must have 1 rank in the Craft (shipmaking) skill; Price 7,200 gp;Weight 4 lb.
+Faint transmutation; CL 6th; Craft Wondrous Item, fabricate, creator must have 1 rank in the Background (shipmaking) skill; Price 7,200 gp;Weight 4 lb.

@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/kingdom-building]
 - **BP**: 78
 - **Lot**: 4
 - **Discount**: [[rangoric-srd/unearthed-arcana/Kingdom Building/buildings/Academy (Building)|Academy]], [[rangoric-srd/unearthed-arcana/Kingdom Building/buildings/Bardic College (Building)|Bardic College]], [[rangoric-srd/unearthed-arcana/Kingdom Building/buildings/Library (Building)|Library]], [[rangoric-srd/unearthed-arcana/Kingdom Building/buildings/Magical Academy (Building)|Magical Academy]], [[rangoric-srd/unearthed-arcana/Kingdom Building/buildings/Military Academy (Building)|Military Academy]], [[rangoric-srd/unearthed-arcana/Kingdom Building/buildings/Museum (Building)|Museum]]
-- **Settlement**: Lore +4, Society +3; increase Lore bonus by 4 for questions relating to one [[rangoric-srd/skills/Knowledge|Knowledge]] or [[rangoric-srd/skills/Profession|Profession]] skill
+- **Settlement**: Lore +4, Society +3; increase Lore bonus by 4 for questions relating to one [[rangoric-srd/skills/Knowledge|Knowledge]] or profession [[rangoric-srd/skills/Background#Working at a Profession|Background]]
 
 An institution of higher learning, focusing mainly on mundane subjects but dabbling in magical theory.

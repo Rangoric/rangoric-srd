@@ -10,6 +10,6 @@ tags: [rangoric, rangoric/feat]
 
 You have special training with the use of tensile mercury equipment.
 
-**Benefit**: You can control and reshape [[rangoric-srd/equipment/Special Materials#^tensile-mercury|tensile mercury]] equipment you wield. Reshaping it is a standard action that doesn’t provoke attacks of opportunity. Reshaping an exotic weapon also needs a DC 20 Craft (weaponsmithing) check.
+**Benefit**: You can control and reshape [[rangoric-srd/equipment/Special Materials#^tensile-mercury|tensile mercury]] equipment you wield. Reshaping it is a standard action that doesn’t provoke attacks of opportunity. Reshaping an exotic weapon also needs a DC 20 Background (weaponsmithing) check.
 
 **Normal**: You can’t use or reshape tensile mercury equipment without this feat.

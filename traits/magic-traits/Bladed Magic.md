@@ -11,4 +11,4 @@ tags: [rangoric, rangoric/trait]
 
 **Category**: [[rangoric-srd/traits/Character Traits#Magic Traits|magic trait]].
 
-You have an innate talent for using magical weaponry and those weapons capable of becoming magical. You gain a +1 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] on [[rangoric-srd/skills/Craft|Craft]] checks made to craft magic or masterwork weapons. In addition, when you use your [[rangoric-srd/classes/Magus#^magus-arcane-pool|arcane pool]] class ability to grant a weapon an enhancement bonus, that bonus lasts for 2 minutes instead of 1.
+You have an innate talent for using magical weaponry and those weapons capable of becoming magical. You gain a +1 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] on [[rangoric-srd/skills/Background#Making Things|Background]] checks to make things made to craft magic or masterwork weapons. In addition, when you use your [[rangoric-srd/classes/Magus#^magus-arcane-pool|arcane pool]] class ability to grant a weapon an enhancement bonus, that bonus lasts for 2 minutes instead of 1.

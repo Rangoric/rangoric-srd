@@ -283,7 +283,7 @@ A savage bard has good Fortitude and Will saves, but has poor Reflex saves.
 
 ###### Class Skills
 
-A savage bard loses [[rangoric-srd/skills/Linguistics|Linguistics]] as class skills. He adds [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] to his list of class skills.
+A savage bard adds [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] to his list of class skills.
 
 ##### Class Features
 
@@ -341,7 +341,7 @@ The cloistered cleric's lack of martial training means that he uses the poor bas
 
 ###### Class Skills
 
-The cloistered cleric's class skill list includes [[rangoric-srd/skills/Linguistics|Linguistics]], and all [[rangoric-srd/skills/Knowledge|Knowledge]] skills (from the [[rangoric-srd/class-options/domains/Knowledge Domain|Knowledge domain]], see below). The cloistered cleric gains skill points per level equal to 6 + Int modifier (and has this number x4 at 1st level).
+The cloistered cleric's class skill list includes all [[rangoric-srd/skills/Knowledge|Knowledge]] skills (from the [[rangoric-srd/class-options/domains/Knowledge Domain|Knowledge domain]], see below). The cloistered cleric gains skill points per level equal to 6 + Int modifier (and has this number x4 at 1st level).
 
 ##### Class Features
 
@@ -808,7 +808,7 @@ The planar ranger roams the multiverse instead of the wilderness, learning the s
 
 Eliminate [[rangoric-srd/skills/Nature|Nature]] and [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] from the ranger's class skill list.
 
-Add [[rangoric-srd/skills/Theology|Theology]] and [[rangoric-srd/skills/Linguistics|Linguistics]] (Abyssal, Aquan, Auran, Celestial, Ignan, Infernal, Terran only) to the class skill list.
+Add [[rangoric-srd/skills/Theology|Theology]] (Abyssal, Aquan, Auran, Celestial, Ignan, Infernal, Terran only) to the class skill list.
 
 ##### Class Features
 
@@ -933,9 +933,9 @@ The wilderness rogue prefers to put her skills to use in the great outdoors, rat
 
 ###### Class Skills
 
-Remove the following rogue class skills from the wilderness rogue's class skill list: [[rangoric-srd/skills/Appraise|Appraise]], [[rangoric-srd/skills/Persuasion|Persuasion]], [[rangoric-srd/skills/Linguistics|Linguistics]], and [[rangoric-srd/skills/Imitation|Imitation]].
+Remove the following rogue class skills from the wilderness rogue's class skill list: [[rangoric-srd/skills/Persuasion|Persuasion]] and [[rangoric-srd/skills/Imitation|Imitation]].
 
-Add the following skills to the wilderness rogue's class skill list: [[rangoric-srd/skills/Animal Handling|Animal Handling]], [[rangoric-srd/skills/Society|Society]], [[rangoric-srd/skills/Nature|Nature]], and [[rangoric-srd/skills/Fieldcraft|Fieldcraft]].
+Add the following skills to the wilderness rogue's class skill list: [[rangoric-srd/skills/Society|Society]], [[rangoric-srd/skills/Nature|Nature]], and [[rangoric-srd/skills/Fieldcraft|Fieldcraft]].
 
 ##### Class Features
 

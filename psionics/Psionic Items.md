@@ -62,7 +62,7 @@ A psionic item, unless otherwise noted, takes damage as a normal item of the sam
 
 ##### Repairing Items
 
-Some psionic items (especially psionic weapons and shields) may take damage over the course of an adventure. It costs no more to repair a psionic item with the [[rangoric-srd/skills/Craft|Craft]] skill than it does to repair its nonpsionic counterpart. The [[rangoric-srd/spells/Make Whole|make whole]] spell can repair a damaged - but not completely broken - psionic item.
+Some psionic items (especially psionic weapons and shields) may take damage over the course of an adventure. It costs no more to repair a psionic item with the craft [[rangoric-srd/skills/Background#Making Things|Background]] than it does to repair its nonpsionic counterpart. The [[rangoric-srd/spells/Make Whole|make whole]] spell can repair a damaged - but not completely broken - psionic item.
 
 ##### Intelligent Items
 

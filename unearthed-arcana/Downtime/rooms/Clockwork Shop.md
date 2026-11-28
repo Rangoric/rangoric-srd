@@ -3,7 +3,7 @@ srd-type: "downtime-room"
 section: "Unearthed Arcana"
 resource-create: "9 Goods, 9 Labor (360 gp)"
 earnings: "gp, Goods, or Labor +10"
-benefit: "counts as masterwork artisan's tools for Craft (clockwork)"
+benefit: "counts as masterwork artisan's tools for Background (clockmaking)"
 time: "20 days"
 size: "8-16 squares"
 status: draft
@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/downtime-room]
 
 - **Create**: 9 Goods, 9 Labor (360 gp)
 - **Earnings**: gp, Goods, or Labor +10
-- **Benefit**: counts as masterwork artisan's tools for [[rangoric-srd/skills/Craft|Craft]] (clockwork)
+- **Benefit**: counts as masterwork artisan's tools for [[rangoric-srd/skills/Background|Background]] (clockmaking)
 - **Time**: 20 days
 - **Size**: 8-16 squares
 

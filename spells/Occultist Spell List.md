@@ -182,8 +182,8 @@ The spells an [[rangoric-srd/classes/Occultist#^occultist-spells|occultist]] can
 | [[rangoric-srd/spells/Ant Haul\|Ant Haul]] (M):                             | Triples carrying capacity of a creature.                                            |
 | [[rangoric-srd/spells/Break\|Break]] (M):                                   | Gives an object the broken condition.                                               |
 | [[rangoric-srd/spells/Charge Object\|Charge Object]]:                       | Infuse psychic energy and ownership history into an item.                           |
-| [[rangoric-srd/spells/Crafter’s Curse\|Crafter’s Curse]] (M):               | Subject takes -5 on Craft skill checks.                                             |
-| [[rangoric-srd/spells/Crafter’s Fortune\|Crafter’s Fortune]] (F):           | Subject gains +5 on next Craft check.                                               |
+| [[rangoric-srd/spells/Crafter’s Curse\|Crafter’s Curse]] (M):               | Subject takes -5 on craft Background checks.                                        |
+| [[rangoric-srd/spells/Crafter’s Fortune\|Crafter’s Fortune]] (F):           | Subject gains +5 on next Background check to make things.                           |
 | [[rangoric-srd/spells/Enlarge Person\|Enlarge Person]]:                     | Humanoid creature doubles in size.                                                  |
 | [[rangoric-srd/spells/Erase\|Erase]]:                                       | Mundane or magical writing vanishes.                                                |
 | [[rangoric-srd/spells/Expeditious Retreat\|Expeditious Retreat]]:           | Your speed increases by 30 ft.                                                      |

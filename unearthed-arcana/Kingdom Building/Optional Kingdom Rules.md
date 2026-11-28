@@ -216,7 +216,7 @@ The relevant skills for each leadership role are as follows.
 
 **Councilor**: [[rangoric-srd/skills/Society|Society]]
 
-**General**: [[rangoric-srd/skills/Profession|Profession]] (soldier)
+**General**: [[rangoric-srd/skills/Background|Background]] (soldier)
 
 **Grand Diplomat**: [[rangoric-srd/skills/Persuasion|Persuasion]]
 
@@ -234,7 +234,7 @@ The relevant skills for each leadership role are as follows.
 
 **Spymaster**: [[rangoric-srd/skills/Sense Motive|Sense Motive]]
 
-**Treasurer**: [[rangoric-srd/skills/Profession|Profession]] (merchant)
+**Treasurer**: [[rangoric-srd/skills/Background|Background]] (merchant)
 
 **Viceroy**: [[rangoric-srd/skills/Society|Society]]
 

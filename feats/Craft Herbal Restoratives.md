@@ -1,7 +1,7 @@
 ---
 srd-type: "feat"
 section: "Feats"
-prerequisites: "Profession (herbalist) 5 ranks or Profession (apothecary) 3 ranks."
+prerequisites: "Background (herbalist) 5 ranks or Background (apothecary) 3 ranks."
 status: draft
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, item-creation]
@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, item-creation]
 
 You can create herbal medicines to aid healers and their patients.
 
-**Prerequisites**: [[rangoric-srd/skills/Profession|Profession]] (herbalist) 5 ranks or [[rangoric-srd/skills/Profession|Profession]] (apothecary) 3 ranks.
+**Prerequisites**: [[rangoric-srd/skills/Background|Background]] (herbalist) 5 ranks or [[rangoric-srd/skills/Background|Background]] (apothecary) 3 ranks.
 
 **Benefit**: You can create any nonmagical healing draughts, powders, poultices, or other medicines whose prerequisites are met. Restorative base prices equal their caster level x 12gp. To create such substances, the creator must expend 2% (1/50) of the item’s base price in XP and use up raw materials costing 30% of the base price. (The savings alchemy or herbalism give other item creation feats, in [[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Related Feats & Skill Adjustments|Related Feats & Skill Adjustments]], are already part of this feat.)
 

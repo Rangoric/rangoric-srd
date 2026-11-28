@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/magic-item]
 
 # Goblin Fire Drum
 
-This small crude-looking drum is attached to a strap long enough to loop around the wearer's neck. A successful DC 12 [[rangoric-srd/skills/Performance|Performance]] (percussion) check activates the drum, which enhances any nearby natural or magical fire as long as the bearer spends a move action each round to continue playing. All fires (including fire spells and effects) within 30 feet of the player deal an additional 1 point of fire damage (or 2 points for the greater version).
+This small crude-looking drum is attached to a strap long enough to loop around the wearer's neck. A successful DC 12 [[rangoric-srd/skills/Performance|Performance]] (percussion instruments) check activates the drum, which enhances any nearby natural or magical fire as long as the bearer spends a move action each round to continue playing. All fires (including fire spells and effects) within 30 feet of the player deal an additional 1 point of fire damage (or 2 points for the greater version).
 
 All unattended flammable alchemical objects such as tindertwigs, flasks of oil or alchemist's fire, and fireworks within this range have a 10% chance of spontaneously igniting or exploding (as appropriate to the item) when the drum activates. This chance increases by 5% each round and is checked at the start of the performer's turn as long as the playing continues.
 

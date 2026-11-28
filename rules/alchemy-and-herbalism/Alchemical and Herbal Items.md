@@ -18,29 +18,29 @@ In general, herbalists and alchemists provide the necessary nonmagical substance
 
 **Table: Item Creation Feats and Types** ^table-item-creation-types
 
-| Item Type or Classification     | Feats and Skills Involved in Creation                                                                                                                                                    |
-| ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Special Items                   | [[rangoric-srd/skills/Craft\|Craft]] (alchemy) or [[rangoric-srd/skills/Profession\|Profession]] (herbalist) (+R) if applicable                                                          |
-| Arms and Armor                  | [[rangoric-srd/feats/Craft Magic Arms and Armor\|Craft Magic Arms and Armor]] (E)                                                                                                        |
-| Potions                         | [[rangoric-srd/feats/Brew Potion\|Brew Potion]] (E); [[rangoric-srd/feats/Brew Ingestibles\|Brew Ingestibles]] (O)                                                                       |
-| Rings                           | [[rangoric-srd/feats/Forge Ring\|Forge Ring]] (E)                                                                                                                                        |
-| Rods                            | [[rangoric-srd/feats/Craft Rod\|Craft Rod]] (E)                                                                                                                                          |
-| Staves                          | [[rangoric-srd/feats/Craft Staff\|Craft Staff]] (E)                                                                                                                                      |
-| Wands                           | [[rangoric-srd/feats/Craft Wand\|Craft Wand]] (E)                                                                                                                                        |
-| Wondrous Items                  | [[rangoric-srd/feats/Craft Wondrous Item\|Craft Wondrous Item]] (E); [[rangoric-srd/feats/Create Alchana\|Create Alchana]] (O)                                                           |
-| **Alchemical and Herbal Types** |                                                                                                                                                                                          |
-| Alchana                         | [[rangoric-srd/skills/Craft\|Craft]] (alchemy) (+R); Create Alchana (E)                                                                                                                  |
-| Alchana, Greater                | [[rangoric-srd/skills/Craft\|Craft]] (alchemy) (+R); [[rangoric-srd/feats/Create Greater Alchana\|Create Greater Alchana]] (E)                                                           |
-| Chymicals                       | [[rangoric-srd/skills/Craft\|Craft]] (alchemy) (+R); [[rangoric-srd/feats/Craft Chymicals\|Craft Chymical]] (O)                                                                          |
-| Erlcana                         | [[rangoric-srd/skills/Profession\|Profession]] (herbalist) (+R); [[rangoric-srd/feats/Create Erlcana\|Create Erlcana]] (E)                                                               |
-| Ingestibles                     | [[rangoric-srd/skills/Craft\|Craft]] (alchemy) or [[rangoric-srd/skills/Profession\|Profession]] (herbalist) (+R); Brew Ingestibles (O)                                                  |
-| Powders / Dusts                 | [[rangoric-srd/skills/Craft\|Craft]] (alchemy) or [[rangoric-srd/skills/Profession\|Profession]] (herbalist) (+R);[[rangoric-srd/feats/Craft Powders & Dusts\|Craft Powders & Dust]] (O) |
-| Unguents                        | [[rangoric-srd/skills/Craft\|Craft]] (alchemy) or [[rangoric-srd/skills/Profession\|Profession]] (herbalist) (+R);[[rangoric-srd/feats/Craft Unguents\|Craft Unguents]] (O)              |
-| Toxins                          | [[rangoric-srd/skills/Craft\|Craft]] (alchemy) or [[rangoric-srd/skills/Profession\|Profession]] (herbalist) (+R); [[rangoric-srd/feats/Craft Toxins\|Craft Toxins]] (O)                 |
+| Item Type or Classification     | Feats and Skills Involved in Creation                                                                                                                                                              |
+| ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Special Items                   | [[rangoric-srd/skills/Background\|Background]] (alchemy) or [[rangoric-srd/skills/Background\|Background]] (herbalist) (+R) if applicable                                                          |
+| Arms and Armor                  | [[rangoric-srd/feats/Craft Magic Arms and Armor\|Craft Magic Arms and Armor]] (E)                                                                                                                  |
+| Potions                         | [[rangoric-srd/feats/Brew Potion\|Brew Potion]] (E); [[rangoric-srd/feats/Brew Ingestibles\|Brew Ingestibles]] (O)                                                                                 |
+| Rings                           | [[rangoric-srd/feats/Forge Ring\|Forge Ring]] (E)                                                                                                                                                  |
+| Rods                            | [[rangoric-srd/feats/Craft Rod\|Craft Rod]] (E)                                                                                                                                                    |
+| Staves                          | [[rangoric-srd/feats/Craft Staff\|Craft Staff]] (E)                                                                                                                                                |
+| Wands                           | [[rangoric-srd/feats/Craft Wand\|Craft Wand]] (E)                                                                                                                                                  |
+| Wondrous Items                  | [[rangoric-srd/feats/Craft Wondrous Item\|Craft Wondrous Item]] (E); [[rangoric-srd/feats/Create Alchana\|Create Alchana]] (O)                                                                     |
+| **Alchemical and Herbal Types** |                                                                                                                                                                                                    |
+| Alchana                         | [[rangoric-srd/skills/Background\|Background]] (alchemy) (+R); Create Alchana (E)                                                                                                                  |
+| Alchana, Greater                | [[rangoric-srd/skills/Background\|Background]] (alchemy) (+R); [[rangoric-srd/feats/Create Greater Alchana\|Create Greater Alchana]] (E)                                                           |
+| Chymicals                       | [[rangoric-srd/skills/Background\|Background]] (alchemy) (+R); [[rangoric-srd/feats/Craft Chymicals\|Craft Chymical]] (O)                                                                          |
+| Erlcana                         | [[rangoric-srd/skills/Background\|Background]] (herbalist) (+R); [[rangoric-srd/feats/Create Erlcana\|Create Erlcana]] (E)                                                                         |
+| Ingestibles                     | [[rangoric-srd/skills/Background\|Background]] (alchemy) or [[rangoric-srd/skills/Background\|Background]] (herbalist) (+R); Brew Ingestibles (O)                                                  |
+| Powders / Dusts                 | [[rangoric-srd/skills/Background\|Background]] (alchemy) or [[rangoric-srd/skills/Background\|Background]] (herbalist) (+R);[[rangoric-srd/feats/Craft Powders & Dusts\|Craft Powders & Dust]] (O) |
+| Unguents                        | [[rangoric-srd/skills/Background\|Background]] (alchemy) or [[rangoric-srd/skills/Background\|Background]] (herbalist) (+R);[[rangoric-srd/feats/Craft Unguents\|Craft Unguents]] (O)              |
+| Toxins                          | [[rangoric-srd/skills/Background\|Background]] (alchemy) or [[rangoric-srd/skills/Background\|Background]] (herbalist) (+R); [[rangoric-srd/feats/Craft Toxins\|Craft Toxins]] (O)                 |
 
 The table is the short form to identify what’s absolutely necessary for the creation of certain types of alchemical or herbal items; individual items are detailed in the catalog.
 
-**E:** Essential/Prerequisite for Creation. If you don’t have this feat or skill, the item noted is impossible to make, even if the maker knows the Brew Potion or Create Wondrous Item Feats, due to highly specific requirements for its making. This table assumes that either [[rangoric-srd/skills/Craft|Craft]] (alchemy) or [[rangoric-srd/skills/Profession|Profession]] (herbalist) is always Essential and they are not marked as such to avoid redundancy.
+**E:** Essential/Prerequisite for Creation. If you don’t have this feat or skill, the item noted is impossible to make, even if the maker knows the Brew Potion or Create Wondrous Item Feats, due to highly specific requirements for its making. This table assumes that either [[rangoric-srd/skills/Background|Background]] (alchemy) or [[rangoric-srd/skills/Background|Background]] (herbalist) is always Essential and they are not marked as such to avoid redundancy.
 
 **O:** Option. This feat can be used to create the item instead of relying on the core generic Item Creation feats of Brew Potion or Create Wondrous Item. The optional and highly specific item creation feat adds a +3 bonus vs. the item’s creation DC.
 
@@ -62,7 +62,7 @@ Apply these guidelines in general until you and your players have worked out det
 
 ### Acids
 
-Generic acids, can be made as noted under Craft. Aside from acids with obvious magical effects, all acids in the catalog and elsewhere should be possible to make by an alchemist with the Craft Chymicals feat. Herbalists never create acids, and only deal with them if they are produced by plant life (collected and saved like any herb or herbal product).
+Generic acids, can be made as noted under [[rangoric-srd/skills/Background#Making Things|Background]]. Aside from acids with obvious magical effects, all acids in the catalog and elsewhere should be possible to make by an alchemist with the Craft Chymicals feat. Herbalists never create acids, and only deal with them if they are produced by plant life (collected and saved like any herb or herbal product).
 
 ### Armor & Weapons
 
@@ -82,7 +82,7 @@ Obviously, none of these are possible without some spellcasting ability and the 
 
 ### Special & Superior Items
 
-This subclass of items is the generic location in which alchemical items appear in the core rules. The items here, while they can be classified among other groups, are reduced in price and can be produced by anyone using the [[rangoric-srd/skills/Craft|Craft]] (alchemy) skill. In essence, these are the most commonly encountered alchemical substances: Acid, Alchemist’s Fire, Antitoxin, Poison, Smokestick, Sunrod, Tanglefoot Bag, Thunderstone, and Tindertwig.
+This subclass of items is the generic location in which alchemical items appear in the core rules. The items here, while they can be classified among other groups, are reduced in price and can be produced by anyone using the [[rangoric-srd/skills/Background|Background]] (alchemy) skill. In essence, these are the most commonly encountered alchemical substances: Acid, Alchemist’s Fire, Antitoxin, Poison, Smokestick, Sunrod, Tanglefoot Bag, Thunderstone, and Tindertwig.
 
 Note that herbalists can duplicate some of these items using plant materials, though the costs remain the same. Herbalists can offer these standards for sale in their shops: Antitoxin, Poison, Smokestick, and Tanglefoot Bag.
 
@@ -94,21 +94,21 @@ There is some overlap among the d20 classifications for items and those specific
 
 ### Alchana
 
-These are the high-end powerful items to come from alchemists. Unlike most other alchemical creations, these **cannot** be created simply by application of the [[rangoric-srd/skills/Craft|Craft]] (alchemy) skill. Also, they cannot be created just by magic or the use of the Create Wondrous Item feat. These are only attained by careful study and the use of the [[rangoric-srd/feats/Create Alchana|Create Alchana]], [[rangoric-srd/feats/Perfect Materials|Perfect Materials]], or [[rangoric-srd/feats/Create Greater Alchana|Create Greater Alchana]] feats.
+These are the high-end powerful items to come from alchemists. Unlike most other alchemical creations, these **cannot** be created simply by application of the [[rangoric-srd/skills/Background|Background]] (alchemy) skill. Also, they cannot be created just by magic or the use of the Create Wondrous Item feat. These are only attained by careful study and the use of the [[rangoric-srd/feats/Create Alchana|Create Alchana]], [[rangoric-srd/feats/Perfect Materials|Perfect Materials]], or [[rangoric-srd/feats/Create Greater Alchana|Create Greater Alchana]] feats.
 
 Minor Alchana (from Create Alchana feat) include solvents, [[rangoric-srd/equipment/alchemical-items/Temperant Bath, Lesser|temperant baths]] (lesser), and various items like _[[rangoric-srd/equipment/alchemical-items/Steel Scrolls|steelscrolls]]_ and _glass arrows_. Major Alchana (from Perfect Materials feat) include temperant baths (greater) and [[rangoric-srd/equipment/alchemical-items/Emerald Tablet|Emerald Tablets]]. Ultimate Alchana (from Create Greater Alchana feat) includes only the Five Alchemical Stones of Power.
 
 ### Chymicals & Compounds
 
-Chymicals are the most common creations of any alchemist, regardless of school or experience. There are a number of chymical subtypes that alchemists create, though some are within the [[rangoric-srd/skills/Craft|Craft]] (alchemy) skill’s reach and others are not.
+Chymicals are the most common creations of any alchemist, regardless of school or experience. There are a number of chymical subtypes that alchemists create, though some are within the [[rangoric-srd/skills/Background|Background]] (alchemy) skill’s reach and others are not.
 
-**Acids:** While the generic acids mentioned or in random modules can be created by anyone with basic alchemical knowledge ([[rangoric-srd/skills/Craft|Craft]] (alchemy) at any rank), there are unique acids in the catalog that need the special knowledge gained with the [[rangoric-srd/feats/Craft Chymicals|Craft Chymicals]] Feat.
+**Acids:** While the generic acids mentioned or in random modules can be created by anyone with basic alchemical knowledge ([[rangoric-srd/skills/Background|Background]] (alchemy) at any rank), there are unique acids in the catalog that need the special knowledge gained with the [[rangoric-srd/feats/Craft Chymicals|Craft Chymicals]] Feat.
 
-**Aquas:** Unique to alchemy, these fluids are near-potions that are not magical and take on classical alchemical Latin names while providing new effects. These cannot be created by just the [[rangoric-srd/skills/Craft|Craft]] (alchemy) skill—they require specific study of Craft Chymicals.
+**Aquas:** Unique to alchemy, these fluids are near-potions that are not magical and take on classical alchemical Latin names while providing new effects. These cannot be created by just the [[rangoric-srd/skills/Background|Background]] (alchemy) skill—they require specific study of Craft Chymicals.
 
 **Bases:** While barely listed in the catalog, these hidden substances crafted by alchemists are the base fluids or solids that become magical potions or substances.
 
-**Inks:** While common inks of any color can be produced by many people with just the [[rangoric-srd/skills/Craft|Craft]] (alchemy), [[rangoric-srd/skills/Profession|Profession]] (herbalist) or even [[rangoric-srd/skills/Profession|Profession]] (brewer) skills, there are some inks with special properties that can only be made with the Create Chymicals feat.
+**Inks:** While common inks of any color can be produced by many people with just the [[rangoric-srd/skills/Background|Background]] (alchemy), [[rangoric-srd/skills/Background|Background]] (herbalist) or even [[rangoric-srd/skills/Background|Background]] (brewer) skills, there are some inks with special properties that can only be made with the Create Chymicals feat.
 
 ### Erlcana
 
@@ -116,13 +116,13 @@ Grown and fashioned from the natural world, all erlcana are plants, either livin
 
 **Erlixirs:** These herbal concoctions are the equivalent to the Five Stones of Alchemy—the ultimate goal of all herbalist knowledge. They are inconceivable without the Create Greater Erlcana feat.
 
-**Herbal Restoratives:** While these lesser erlcana could be Ingestibles by use or even Powders & Dusts by form, their herbal creation and variable use make them a separate concern from either classification. Provided a restorative does not restore more quickly than normal healing, it can be crafted using [[rangoric-srd/skills/Profession|Profession]] (apothecary) or [[rangoric-srd/skills/Profession|Profession]] (herbalist).
+**Herbal Restoratives:** While these lesser erlcana could be Ingestibles by use or even Powders & Dusts by form, their herbal creation and variable use make them a separate concern from either classification. Provided a restorative does not restore more quickly than normal healing, it can be crafted using [[rangoric-srd/skills/Background|Background]] (apothecary) or [[rangoric-srd/skills/Background|Background]] (herbalist).
 
 **Swathes:** These living plants either supplement magical items or carry their own magics. The lesser swathes cannot be crafted without the [[rangoric-srd/feats/Grow Swathe|Grow Swathe]] feat, and the greater swathes ([[rangoric-srd/equipment/alchemical-items/Swathe Helm|Swathelm]], [[rangoric-srd/equipment/alchemical-items/Cocoon Swathe, Greengifting|Cocoon Swathe]], [[rangoric-srd/monsters/Erlmantle|Erlmantles]]) only by Create Greater Erlcana.
 
 ### Ingestibles
 
-This classification covers a broad span of edible substances, all of which get eaten, drank, or otherwise introduced to a character internally in order to activate their special properties. In general, any of these not specifically restricted to creation by the [[rangoric-srd/feats/Brew Ingestibles|Brew Ingestibles]], [[rangoric-srd/feats/Brew Potion|Brew Potion]], or Craft Wondrous Items feats can be made by characters with Profession ( Herbalist). If the unguent is medicinal in nature, characters with [[rangoric-srd/skills/Profession|Profession]] (apothecary) can create it as well.
+This classification covers a broad span of edible substances, all of which get eaten, drank, or otherwise introduced to a character internally in order to activate their special properties. In general, any of these not specifically restricted to creation by the [[rangoric-srd/feats/Brew Ingestibles|Brew Ingestibles]], [[rangoric-srd/feats/Brew Potion|Brew Potion]], or Craft Wondrous Items feats can be made by characters with Background (herbalist). If the unguent is medicinal in nature, characters with [[rangoric-srd/skills/Background|Background]] (apothecary) can create it as well.
 
 The various subtypes of Ingestibles are Elixirs, Philters, Teas & Tisanes, Tinctures & Essences, and Tonics. Potion is only used to denote a magically endowed ingestible substance.
 
@@ -132,23 +132,23 @@ This classification produces the powders and dusts whose abilities are specifica
 
 ### Toxins
 
-Toxins and poisons are among the most commonly used substances throughout all d20 worlds, but who is capable of making (let alone using) them? Anyone knowing [[rangoric-srd/skills/Craft|Craft]] (alchemy) or [[rangoric-srd/skills/Profession|Profession]] (apothecary or herbalist) skills can craft the basic poisons noted in core manuals, provided the poisons are not animal ichors or venoms. In other words, they can make the following poisons: [[rangoric-srd/rules/afflictions/Bloodroot|bloodroot]], [[rangoric-srd/rules/afflictions/Blue Whinnis|blue whinnis]], [[rangoric-srd/rules/afflictions/Deathblade|deathblade]], [[rangoric-srd/rules/afflictions/Malyss Root Paste|malyss root paste]], [[rangoric-srd/rules/afflictions/Nitharit|nitharit]], [[rangoric-srd/rules/afflictions/Sassone Leaf Residue|sassone leaf residue]], [[rangoric-srd/rules/afflictions/Terinav Root|terinav root]], [[rangoric-srd/rules/afflictions/Black Lotus Extract|black lotus extract]], [[rangoric-srd/rules/afflictions/Id Moss|id moss]], [[rangoric-srd/rules/afflictions/Striped Toadstool|striped toadstool]], [[rangoric-srd/rules/afflictions/Arsenic|arsenic]], [[rangoric-srd/rules/afflictions/Burnt Othur Fumes|burnt othur fumes]], or [[rangoric-srd/rules/afflictions/Insanity Mist|insanity mist]]. Animal-based poisons can be collected and refined or crafted by those with Nature. Any other toxins and poisons need the [[rangoric-srd/feats/Craft Toxins|Craft Toxins]] feat for their creation.
+Toxins and poisons are among the most commonly used substances throughout all d20 worlds, but who is capable of making (let alone using) them? Anyone knowing [[rangoric-srd/skills/Background|Background]] (alchemy) or [[rangoric-srd/skills/Background|Background]] (apothecary or herbalist) skills can craft the basic poisons noted in core manuals, provided the poisons are not animal ichors or venoms. In other words, they can make the following poisons: [[rangoric-srd/rules/afflictions/Bloodroot|bloodroot]], [[rangoric-srd/rules/afflictions/Blue Whinnis|blue whinnis]], [[rangoric-srd/rules/afflictions/Deathblade|deathblade]], [[rangoric-srd/rules/afflictions/Malyss Root Paste|malyss root paste]], [[rangoric-srd/rules/afflictions/Nitharit|nitharit]], [[rangoric-srd/rules/afflictions/Sassone Leaf Residue|sassone leaf residue]], [[rangoric-srd/rules/afflictions/Terinav Root|terinav root]], [[rangoric-srd/rules/afflictions/Black Lotus Extract|black lotus extract]], [[rangoric-srd/rules/afflictions/Id Moss|id moss]], [[rangoric-srd/rules/afflictions/Striped Toadstool|striped toadstool]], [[rangoric-srd/rules/afflictions/Arsenic|arsenic]], [[rangoric-srd/rules/afflictions/Burnt Othur Fumes|burnt othur fumes]], or [[rangoric-srd/rules/afflictions/Insanity Mist|insanity mist]]. Animal-based poisons can be collected and refined or crafted by those with Nature. Any other toxins and poisons need the [[rangoric-srd/feats/Craft Toxins|Craft Toxins]] feat for their creation.
 
 ### Unguents
 
-This classification covers a wide variety of topical substances, all of which get smeared onto skin or onto objects to elicit their effects. In general, any of these not specifically restricted to creation by the [[rangoric-srd/feats/Craft Unguents|Craft Unguents]] or Craft Wondrous Items feats can be made by characters with [[rangoric-srd/skills/Profession|Profession]] (herbalist). If the unguent is medicinal in nature, characters with [[rangoric-srd/skills/Profession|Profession]] (apothecary) can create it as well.
+This classification covers a wide variety of topical substances, all of which get smeared onto skin or onto objects to elicit their effects. In general, any of these not specifically restricted to creation by the [[rangoric-srd/feats/Craft Unguents|Craft Unguents]] or Craft Wondrous Items feats can be made by characters with [[rangoric-srd/skills/Background|Background]] (herbalist). If the unguent is medicinal in nature, characters with [[rangoric-srd/skills/Background|Background]] (apothecary) can create it as well.
 
 The various subtypes of unguents are Balms, Liniments and Ointments, Oils, Pastes, Perfumes, and Salves.
 
 ## Item Creation Feats
 
-Each alchemical and herbal item creation feat gives a bonus against the DC of the items it covers; [[rangoric-srd/skills/Craft|Craft]] (alchemy) and the Profession subjects add their ranks. The feats are listed on the [[rangoric-srd/rules/alchemy-and-herbalism/Alchemy and Herbalism|overview]].
+Each alchemical and herbal item creation feat gives a bonus against the DC of the items it covers; [[rangoric-srd/skills/Background|Background]] (alchemy) and the profession subjects add their ranks. The feats are listed on the [[rangoric-srd/rules/alchemy-and-herbalism/Alchemy and Herbalism|overview]].
 
 **Table: Alchemical and Herbal Item Creation Feats** ^table-item-creation-feats
 
 | Item Creation Feats                                                        | Creation Bonus vs. DC | Materials or Item Class to be Created                                                                                                              |
 | -------------------------------------------------------------------------- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[rangoric-srd/skills/Craft\|Craft]] (alchemy)                             | By rank               | Most alchemical substances not restricted by feat or magic use requirements                                                                        |
+| [[rangoric-srd/skills/Background\|Background]] (alchemy)                   | By rank               | Most alchemical substances not restricted by feat or magic use requirements                                                                        |
 | [[rangoric-srd/feats/Brew Ingestibles\|Brew Ingestibles]]                  | +3                    | Any alchemical or herbal Ingestibles; Use as [[rangoric-srd/feats/Brew Potion\|Brew Potion]] if feat prerequisites are met.                        |
 | Brew Potion                                                                | —                     | Any magical Potions (or other if prerequisites are met)                                                                                            |
 | [[rangoric-srd/feats/Craft Chymicals\|Craft Chymicals]]                    | +3                    | Any Chymicals and the many mundane or special compounds and materials used by others in spellcasting or other avenues.                             |
@@ -163,14 +163,14 @@ Each alchemical and herbal item creation feat gives a bonus against the DC of th
 | [[rangoric-srd/feats/Forge Ring\|Forge Ring]]                              | —                     | Any magical rings                                                                                                                                  |
 | [[rangoric-srd/feats/Grow Swathe\|Grow Swathe]]                            | —                     | Any swathes except those listed as Greater Erlcana                                                                                                 |
 | [[rangoric-srd/feats/Perfect Materials\|Perfect Materials]]                | —                     | Greater Temperant Baths (material strengthening)                                                                                                   |
-| [[rangoric-srd/skills/Profession\|Profession]] (apothecary)                | By rank               | Any medicinal herbs or herbal concoctions for use with Medicine.                                                                                   |
-| [[rangoric-srd/skills/Profession\|Profession]] (herbalist)                 | By rank               | Any herbal concoctions not limited by magic or other feat prerequisites.                                                                           |
+| [[rangoric-srd/skills/Background\|Background]] (apothecary)                | By rank               | Any medicinal herbs or herbal concoctions for use with Medicine.                                                                                   |
+| [[rangoric-srd/skills/Background\|Background]] (herbalist)                 | By rank               | Any herbal concoctions not limited by magic or other feat prerequisites.                                                                           |
 
 ## What If I Know About…?
 
-There are hundreds of fantastic substances and items that can be made or enhanced by the applications learned with herbalism- and alchemy-related skills. However, a rules problem occurs when people with a dozen ranks of [[rangoric-srd/skills/Craft|Craft]] (alchemy) start to wonder if they can make _dust of disappearance_ or potions. In other words, who gets to know the secrets on how to brew potions when, or are these fields of study all mutually exclusive?
+There are hundreds of fantastic substances and items that can be made or enhanced by the applications learned with herbalism- and alchemy-related skills. However, a rules problem occurs when people with a dozen ranks of [[rangoric-srd/skills/Background|Background]] (alchemy) start to wonder if they can make _dust of disappearance_ or potions. In other words, who gets to know the secrets on how to brew potions when, or are these fields of study all mutually exclusive?
 
-What happens if someone knows Brew Potion and [[rangoric-srd/skills/Profession|Profession]] (herbalist)? Or Fieldcraft? There are a number of combinations that can aid alchemists and herbalists in their chosen fields.
+What happens if someone knows Brew Potion and [[rangoric-srd/skills/Background|Background]] (herbalist)? Or Fieldcraft? There are a number of combinations that can aid alchemists and herbalists in their chosen fields.
 
 ### Related Feats & Skill Adjustments
 
@@ -182,13 +182,13 @@ If the character can prepare the components and materials himself, drop the cost
 
 In addition to the skills and feats discussed above, there are numerous other mundane or extraordinary skills that will help your characters. After all, if your alchemist has to go haggle with a glazier every time he needs more beakers for his laboratory, his own creations get more expensive.
 
-**Alchemist Cross-Skills:** Craft (Brewer, Chandler, Glazier, Potter, Armorsmith, Swordsmith); Profession (Blacksmith)
+**Alchemist Cross-Skills:** Background (armorsmithing, blacksmithing, brewer, candlemaking, glassblowing, pottery, weaponsmithing)
 
-**Herbalist Cross-Skills:** Craft (Beekeeper, Chandler, Finesmith, Glazier, Potter,), Profession (Carpentry)
+**Herbalist Cross-Skills:** Background (beekeeper, candlemaking, carpentry, glassblowing, jewelcrafting, pottery)
 
-**Alchemist Cross-Feats:** [[rangoric-srd/feats/Skill Focus|Skill Focus]] ([[rangoric-srd/skills/Craft|Craft]] (alchemy)); Any Item Creation Feats
+**Alchemist Cross-Feats:** [[rangoric-srd/feats/Skill Focus|Skill Focus]] ([[rangoric-srd/skills/Background|Background]] (alchemy)); Any Item Creation Feats
 
-**Herbalist Cross-Feats:** Skill Focus ([[rangoric-srd/skills/Profession|Profession]] (herbalist)); Any Item Creation Feats
+**Herbalist Cross-Feats:** Skill Focus ([[rangoric-srd/skills/Background|Background]] (herbalist)); Any Item Creation Feats
 
 ## Creation Times
 
@@ -282,7 +282,7 @@ Just like the herbs (see [[rangoric-srd/rules/alchemy-and-herbalism/Herbalism#He
 
 Please note that **many of the creations within the Catalog are _not_ capable of being made by the Create**
 
-**Wondrous Item feat alone**, despite the broad interpretation of the core rules. All of them require a DC check against either the [[rangoric-srd/skills/Craft|Craft]] (alchemy) or [[rangoric-srd/skills/Profession|Profession]] (herbalist) skills, and most require more than just magical knowledge. They are obviously intended to require the new item creation feats. As noted under the particular items, those which need [[rangoric-srd/feats/Create Erlcana|Create Erlcana]] and [[rangoric-srd/feats/Create Greater Alchana|Create Greater Alchana]] feats cannot be made with the individual skills alone. Only the most learned of alchemists know the secrets of the Five Stones and only the most skilled herbalists know the Greater Erlcana.
+**Wondrous Item feat alone**, despite the broad interpretation of the core rules. All of them require a DC check against either the [[rangoric-srd/skills/Background|Background]] (alchemy) or [[rangoric-srd/skills/Background|Background]] (herbalist) skills, and most require more than just magical knowledge. They are obviously intended to require the new item creation feats. As noted under the particular items, those which need [[rangoric-srd/feats/Create Erlcana|Create Erlcana]] and [[rangoric-srd/feats/Create Greater Alchana|Create Greater Alchana]] feats cannot be made with the individual skills alone. Only the most learned of alchemists know the secrets of the Five Stones and only the most skilled herbalists know the Greater Erlcana.
 
 ### Item or Substance Name [Classification; Special or Magical]
 
@@ -291,9 +291,9 @@ The item’s name is obvious and all items are alphabetized in the Catalog. The 
 - The entry text is pretty straightforward, providing all the effects and uses of the item.
 - The 2nd paragraph of the entry provides any sensory cues that this item deviates from the standard description of its category (i.e. How can your PCs tell the difference between _dust of disappearance_ and _dust of sneezing and choking_?). If the item in question has a limited number of uses, here’s where that’s discussed.
 - The 3rd paragraph of the entry, if any, discusses the characters who would most likely use such items (if not patently obvious) and for what purposes. This is aimed at GMs looking for ways to work these new substances into their campaigns.
-- Caster Level: All these items—even though many would only be considered Special Items within the core rules—have a Caster Level, though it is only a general measure of the power level of an item, not any note of inherent magic. While hardly exact, the simplest benchmark a reader can use is this: The Caster Level is also the general number of ranks in [[rangoric-srd/skills/Craft|Craft]] (alchemy) or [[rangoric-srd/skills/Profession|Profession]] (herbalist) needed to create said item. Of course, all other prerequisites must be met as well, but the Caster Level is an easy way to gauge if a person with the appropriate skill might be able to make something, regardless of whether they have separate Item Creation feats or the prestige classes. In fact, lesser-ranked alchemists and herbalists can make the items, though that should be far less common.
+- Caster Level: All these items—even though many would only be considered Special Items within the core rules—have a Caster Level, though it is only a general measure of the power level of an item, not any note of inherent magic. While hardly exact, the simplest benchmark a reader can use is this: The Caster Level is also the general number of ranks in [[rangoric-srd/skills/Background|Background]] (alchemy) or [[rangoric-srd/skills/Background|Background]] (herbalist) needed to create said item. Of course, all other prerequisites must be met as well, but the Caster Level is an easy way to gauge if a person with the appropriate skill might be able to make something, regardless of whether they have separate Item Creation feats or the prestige classes. In fact, lesser-ranked alchemists and herbalists can make the items, though that should be far less common.
 - Prerequisites: These are the mandatory skills, feats, abilities, spells, or other miscellaneous requirements necessary to create this item. Bear in mind that skills, feats or spells separated by “or” allow for alternates to be used for the item creation.
-- Difficulty Check (DC): As each of the items below are created by either alchemists or herbalists, there is a mandatory Difficulty Check vs. their [[rangoric-srd/skills/Craft|Craft]] (alchemy) or [[rangoric-srd/skills/Profession|Profession]] (herbalist) skills. This DC is _not_ adjusted to account for the benefits and DC bonuses of other mandatory prerequisite skills or feats, so the player must make the roll, add in all potential bonuses, and exceed the DC to create this item successfully.
+- Difficulty Check (DC): As each of the items below are created by either alchemists or herbalists, there is a mandatory Difficulty Check vs. their [[rangoric-srd/skills/Background|Background]] (alchemy) or [[rangoric-srd/skills/Background|Background]] (herbalist) skills. This DC is _not_ adjusted to account for the benefits and DC bonuses of other mandatory prerequisite skills or feats, so the player must make the roll, add in all potential bonuses, and exceed the DC to create this item successfully.
 - Market Price: This is the baseline price for the item or service in question. As a general benchmark, the Market Price of an item is rarely less than twice the price of the Cost to Create, though this may vary. Just like the herbs, these items all come with a standard price—for simplicity’s sake—but are cost-adjustable for realism in your fictional world.
 
 ### Caster Levels vs. Difficulty Checks
@@ -303,7 +303,7 @@ Unlike other Special, Wondrous, or magical items, all alchemical and herbal item
 However, there are some general benchmarks in regard to CLs vs. DCs:
 
 - The minimum DC for an alchemical or herbal item is 10, and these tend to equate to 0-level spells in relation to the power of other spells.
-- The minimum CL is 1 and this also equates to 0-level spells, as well as being the weakest of alchemical or herbal items. This rank is also used for the most common of alchemical or herbal items (the special items of Goods and Services) as they are considered staples and used as teaching examples for any who gain even one rank in [[rangoric-srd/skills/Craft|Craft]] (alchemy) or [[rangoric-srd/skills/Profession|Profession]] (herbalist). In other words, these are the items for apprentices to practice on and then sell in the shop as they learn greater works.
+- The minimum CL is 1 and this also equates to 0-level spells, as well as being the weakest of alchemical or herbal items. This rank is also used for the most common of alchemical or herbal items (the special items of Goods and Services) as they are considered staples and used as teaching examples for any who gain even one rank in [[rangoric-srd/skills/Background|Background]] (alchemy) or [[rangoric-srd/skills/Background|Background]] (herbalist). In other words, these are the items for apprentices to practice on and then sell in the shop as they learn greater works.
 - Assume that 15 is the standard minimum DC for any item and 1 is the standard minimum CL. Maximums rise to 45 DC and 20 CL. Subtract one from the ranks listed in the catalog when comparing these CLs to those of purely magical items like rods, staves, and enchanted armors.
 - While not always true, most items of CL 8 or greater have a DC of 25 higher than that number (i.e. CL 20 equals DC 45).
 - If a CL is significantly lower than the item’s DC (a difference of more than 30 points), this signifies that the item is extremely rare, more due to its complexity and how few can teach its creation than for its powers.
@@ -418,7 +418,7 @@ Both of these types are dry, finely-ground substances which elicit their effect 
 
 Unlike the other categories, there are no set standards or forms for poisons, nor are there easily defined types. While a potion only works if drunk, many toxins can work if ingested, administered topically, injected via needle, or slathered on a weapon and introduced with the insertion of said weapon. That’s why there are poisons listed within the tables of a number of categories above and below. This section merely provides a list of all the poisonous and lethal toxins for ease of reference. For purposes of randomly determining if they are found among treasure caches, use the individual classification tables as indicated by the roll—all the toxins are cross-listed among those tables.
 
-Also, while they may be listed under other types, the ability to create any of them comes only from the [[rangoric-srd/feats/Craft Toxins|Craft Toxins]] feat. Only the generic poisons of the core rules can be created with the [[rangoric-srd/skills/Profession|Profession]] (herbalist) or [[rangoric-srd/skills/Craft|Craft]] (alchemy) skills unless otherwise noted.
+Also, while they may be listed under other types, the ability to create any of them comes only from the [[rangoric-srd/feats/Craft Toxins|Craft Toxins]] feat. Only the generic poisons of the core rules can be created with the [[rangoric-srd/skills/Background|Background]] (herbalist) or [[rangoric-srd/skills/Background|Background]] (alchemy) skills unless otherwise noted.
 
 Each toxin is an [[rangoric-srd/rules/Afflictions#The Affliction Block|affliction]], given in its note and on the [[rangoric-srd/equipment/alchemical-items/Alchemical Toxins and Poisons|toxins list]] as the core [[rangoric-srd/rules/Afflictions#Poison|poison]] rules give it (type, attack, onset, frequency, effect and cure). The list adds three columns. The prices for said toxins and poisons are in the core rules or in the catalog.
 
@@ -426,7 +426,7 @@ _Category:_ The toxin’s classification in the catalog.
 
 _CL:_ The toxin’s caster level.
 
-_DC to Make:_ The DC of the [[rangoric-srd/skills/Craft|Craft]] (alchemy) or [[rangoric-srd/skills/Profession|Profession]] (herbalist) check to create the substance: 10 + its attack bonus, +10 for one made as a potion, as [[rangoric-srd/rules/Afflictions#^making-poison|Making Poison]] says. A natural 1 on the check exposes a crafter without [[rangoric-srd/rules/Afflictions#^poison-use|poison use]].
+_DC to Make:_ The DC of the [[rangoric-srd/skills/Background|Background]] (alchemy) or [[rangoric-srd/skills/Background|Background]] (herbalist) check to create the substance: 10 + its attack bonus, +10 for one made as a potion, as [[rangoric-srd/rules/Afflictions#^making-poison|Making Poison]] says. A natural 1 on the check exposes a crafter without [[rangoric-srd/rules/Afflictions#^poison-use|poison use]].
 
 The core poisons the skills can make are listed after the toxins and poison herbs. They can replace any of those rolled up on other category random tables.
 
@@ -454,6 +454,6 @@ Items which are predominantly magical but require herbal and alchemical knowledg
 
 One last note on Caster Level and variable powers for these herbal and alchemical items and substances— unless specifically noted, _dispel magic_ has no effect on these items, assuming they were not made with magic (via [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]]). Granted, _limited wish_ and other such all-encompassing magics can still cancel their abilities, but those magics are even rarer than the most powerful alchemical creations or herbal concoctions!
 
-Bear in mind that the numbers listed for the item creation DCs _must_ be rolled or reached by adjustments and skill points—rolling a 20 or “taking 20” does not automatically mean a successful creation. Since the failure of a check results in a failure to create an item, characters cannot take 20, and item creation skills such as [[rangoric-srd/skills/Craft|Craft]] (alchemy) and [[rangoric-srd/skills/Profession|Profession]] (herbalist) have a builtin “take 10” effect in their timing (see Creation Times). Thus, few alchemists or herbalists even attempt to make items before they have enough skill ranks and feat or circumstance bonuses to succeed more often than they fail.
+Bear in mind that the numbers listed for the item creation DCs _must_ be rolled or reached by adjustments and skill points—rolling a 20 or “taking 20” does not automatically mean a successful creation. Since the failure of a check results in a failure to create an item, characters cannot take 20, and item creation skills such as [[rangoric-srd/skills/Background|Background]] (alchemy) and [[rangoric-srd/skills/Background|Background]] (herbalist) have a builtin “take 10” effect in their timing (see Creation Times). Thus, few alchemists or herbalists even attempt to make items before they have enough skill ranks and feat or circumstance bonuses to succeed more often than they fail.
 
-_Example:_ A 13th-level sorcerer has 16 ranks of [[rangoric-srd/skills/Craft|Craft]] (alchemy), [[rangoric-srd/feats/Skill Focus|Skill Focus]] ([[rangoric-srd/skills/Craft|Craft]] (alchemy)), and the [[rangoric-srd/feats/Create Alchana|Create Alchana]] feat. She wants to create some [[rangoric-srd/equipment/alchemical-items/Bloodiron Alloy|bloodiron]] (DC 27) to forge into an ogre-slaying weapon as a gift. She gains a +3 from the skill focus (but no bonus from the prerequisite feat), so she only needs to roll a (8 +16+3=27) or higher to successfully craft a supply of bloodiron. However, she also wants to make some mage-gold (DC 35) to craft into a tiara, and she’ll need a roll of 16 or better to craft that (16+16+3=35).
+_Example:_ A 13th-level sorcerer has 16 ranks of [[rangoric-srd/skills/Background|Background]] (alchemy), [[rangoric-srd/feats/Skill Focus|Skill Focus]] ([[rangoric-srd/skills/Background|Background]] (alchemy)), and the [[rangoric-srd/feats/Create Alchana|Create Alchana]] feat. She wants to create some [[rangoric-srd/equipment/alchemical-items/Bloodiron Alloy|bloodiron]] (DC 27) to forge into an ogre-slaying weapon as a gift. She gains a +3 from the skill focus (but no bonus from the prerequisite feat), so she only needs to roll a (8 +16+3=27) or higher to successfully craft a supply of bloodiron. However, she also wants to make some mage-gold (DC 35) to craft into a tiara, and she’ll need a roll of 16 or better to craft that (16+16+3=35).

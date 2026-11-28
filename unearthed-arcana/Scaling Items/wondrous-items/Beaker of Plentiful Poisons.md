@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/scaling-item]
 
 _A scaling item ([[rangoric-srd/unearthed-arcana/Scaling Items/Scaling Items#^value-of-scaling-items|prize]]): its powers unlock as its wielder gains levels._
 
-This flared and stoppered flask of tempered glass can store up to 5 doses of poison, all of which can be different types. The owner can craft up to 5 doses of poison simultaneously using the beaker. She must still attempt separate [[rangoric-srd/skills/Craft|Craft]] (alchemy) checks for each dose of poison to ensure successful crafting, but she can make progress on all five poisons simultaneously (making checks for the week's or day's progress at the same time).
+This flared and stoppered flask of tempered glass can store up to 5 doses of poison, all of which can be different types. The owner can craft up to 5 doses of poison simultaneously using the beaker. She must still attempt separate [[rangoric-srd/skills/Background|Background]] (alchemy) checks for each dose of poison to ensure successful crafting, but she can make progress on all five poisons simultaneously (making checks for the week's or day's progress at the same time).
 
 The user can also add already-completed doses of poison to the beaker. All poisons remain separate and unmixed as long as they remain within the beaker, and the user can decant any of the poisons (including incomplete poisons) by naming the poison she wishes to pour forth.
 

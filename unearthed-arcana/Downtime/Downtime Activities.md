@@ -24,12 +24,12 @@ How much capital you can spend per day is limited by the size of the settlement 
 
 ## Craft Mundane Items
 
-The [[rangoric-srd/skills/Craft|Craft]] skill allows you to spend time creating mundane items such as armor, weapons, and alchemist's fire. The standard rules presented in the core rules assume you spend a week on crafting, but give you the option to make progress by the day. If you use the downtime system, make your [[rangoric-srd/skills/Craft|Craft]] checks by the day instead of by the week. The steps for crafting by day are as follows.
+The craft [[rangoric-srd/skills/Background#Making Things|Background]] allows you to spend time creating mundane items such as armor, weapons, and alchemist's fire. The standard rules presented in the core rules assume you spend a week on crafting, but give you the option to make progress by the day. If you use the downtime system, make your [[rangoric-srd/skills/Background#Making Things|Background]] checks to make things by the day instead of by the week. The steps for crafting by day are as follows.
 
 1.  Find the item's price in silver pieces (1 gp = 10 sp).
-2.  Find the item's DC from the Craft Skills table.
+2.  Find the item's making DC from the table in [[rangoric-srd/skills/Background#Making Things|Background]].
 3.  Pay 1/3 of the item's price in gp for the raw material cost. You may also spend Goods toward this cost.
-4.  Attempt an appropriate [[rangoric-srd/skills/Craft|Craft]] check representing 1 day's worth of work. You may spend Labor to modify your check result, with 1 point of Labor adding 2 to your total.
+4.  Attempt an appropriate [[rangoric-srd/skills/Background#Making Things|Background]] check to make things representing 1 day's worth of work. You may spend Labor to modify your check result, with 1 point of Labor adding 2 to your total.
 
 If your check succeeds, multiply your check result by the DC and divide by 7. If this value equals or exceeds the price of the item in sp, then you complete the item. If the result × the DC equals double or triple the price of the item in silver pieces, then you've completed the task in 1/2 or 1/3 of the time. Other multiples of the DC reduce the time in the same manner.
 
@@ -37,7 +37,7 @@ If the value is less than the price, the check represents the progress you've ma
 
 If you fail a check by 4 or less, you make no progress that day. If you fail by 5 or more, you ruin some of the raw materials and have to pay 1/10 of the original raw material cost again.
 
-**Earn Capital**: You can spend 1 day of downtime earning capital. Depending on the nature of the work, this might require making some kind of check and paying an amount of gp. This work might be unskilled labor or skilled labor with a [[rangoric-srd/skills/Craft|Craft]] or [[rangoric-srd/skills/Profession|Profession]] skill. See [[rangoric-srd/unearthed-arcana/Downtime/Downtime#Gaining Capital|Gaining Capital]] for more information.
+**Earn Capital**: You can spend 1 day of downtime earning capital. Depending on the nature of the work, this might require making some kind of check and paying an amount of gp. This work might be unskilled labor or skilled labor with a craft or profession [[rangoric-srd/skills/Background|Background]]. See [[rangoric-srd/unearthed-arcana/Downtime/Downtime#Gaining Capital|Gaining Capital]] for more information.
 
 ## Earn XP
 
@@ -98,7 +98,7 @@ The core rules allows you to perform spell research, either to create a new spel
 
 If either or both spell research checks fail by 4 or less, you make no progress. For each check that fails by 5 or more, your research has led to poor results and you lose a day of progress toward completing the spell.
 
-If you're an alchemist, you can use this downtime option to research a new extract formula. Instead of the Mysticism check, attempt a [[rangoric-srd/skills/Craft|Craft]] (alchemy) check. Instead of the Arcana or Theology check, you may attempt a [[rangoric-srd/skills/Nature|Nature]] check.
+If you're an alchemist, you can use this downtime option to research a new extract formula. Instead of the Mysticism check, attempt a [[rangoric-srd/skills/Background|Background]] (alchemy) check. Instead of the Arcana or Theology check, you may attempt a [[rangoric-srd/skills/Nature|Nature]] check.
 
 ## Research Facts and Lore
 

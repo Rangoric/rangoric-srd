@@ -3,7 +3,7 @@ srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Armor Special Ability"
 caster-level: 12
-prerequisites: "9 ranks in Craft (armorsmithing), interposing hand"
+prerequisites: "9 ranks in Background (armorsmithing), interposing hand"
 price: "+1 bonus"
 status: draft
 pi-review: 2026-11-11
@@ -14,4 +14,4 @@ tags: [rangoric, rangoric/magic-item]
 
 Armor with this quality has a higher DR than regular armor of its type. Light armor can be hardened once, medium armor can be hardened twice, and heavy armor can be hardened three times. Each application of this quality increases its base DR by 1 point. This quality is only available when using [[rangoric-srd/unearthed-arcana/Defence Variants#Armor as Damage Reduction, Second Version|armor as damage reduction]] (the second version).
 
-CL 12th; 9 ranks in [[rangoric-srd/skills/Craft|Craft]] (armorsmithing), _[[rangoric-srd/spells/Interposing Hand|interposing hand]]_; Price +1 bonus.
+CL 12th; 9 ranks in [[rangoric-srd/skills/Background|Background]] (armorsmithing), _[[rangoric-srd/spells/Interposing Hand|interposing hand]]_; Price +1 bonus.

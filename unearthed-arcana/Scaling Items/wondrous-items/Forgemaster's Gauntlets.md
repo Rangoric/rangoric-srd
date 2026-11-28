@@ -5,7 +5,7 @@ item-type: "Wondrous Item"
 slot: "hands"
 aura: "Moderate abjuration"
 caster-level: 7
-prerequisites: "Craft Wondrous Item; flame blade, flame strike, or fireball; heat metal; resist energy; spark; creator must have 5 ranks in Craft (armor) and Craft (weapons)"
+prerequisites: "Craft Wondrous Item; flame blade, flame strike, or fireball; heat metal; resist energy; spark; creator must have 5 ranks in Background (armorsmithing) and Background (weaponsmithing)"
 price: "3,750 gp"
 cost: "18,000 gp"
 weight: "4 lbs."
@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/scaling-item]
 
 _A scaling item ([[rangoric-srd/unearthed-arcana/Scaling Items/Scaling Items#^value-of-scaling-items|prize]]): its powers unlock as its wielder gains levels._
 
-These scorched gauntlets of heavy padded leather are reinforced with metallic mesh and ceramic pads to diffuse heat. The wearer gains a +5 competence bonus on [[rangoric-srd/skills/Craft|Craft]] (armor) and [[rangoric-srd/skills/Craft|Craft]] (weapons) checks.
+These scorched gauntlets of heavy padded leather are reinforced with metallic mesh and ceramic pads to diffuse heat. The wearer gains a +5 competence bonus on [[rangoric-srd/skills/Background|Background]] (armorsmithing) and [[rangoric-srd/skills/Background|Background]] (weaponsmithing) checks.
 
 **8th Level**: The wearer can use _[[rangoric-srd/spells/Spark|spark]]_ at will.
 
@@ -35,4 +35,4 @@ These scorched gauntlets of heavy padded leather are reinforced with metallic me
 
 **15th Level**: The _forgemaster's gauntlets_ are _+1 flaming burst gauntlets_.
 
-Moderate abjuration; CL 7th; Craft Wondrous Item; _[[rangoric-srd/spells/Flame Blade|flame blade]]_, _[[rangoric-srd/spells/Flame Strike|flame strike]]_, or _[[rangoric-srd/spells/Fireball|fireball]]_; _[[rangoric-srd/spells/Heat Metal|heat metal]]_; _[[rangoric-srd/spells/Resist Energy|resist energy]]_; _[[rangoric-srd/spells/Spark|spark]]_; creator must have 5 ranks in [[rangoric-srd/skills/Craft|Craft]] (armor) and [[rangoric-srd/skills/Craft|Craft]] (weapons); Price 3,750 gp; Cost 18,000 gp; Weight 4 lbs.
+Moderate abjuration; CL 7th; Craft Wondrous Item; _[[rangoric-srd/spells/Flame Blade|flame blade]]_, _[[rangoric-srd/spells/Flame Strike|flame strike]]_, or _[[rangoric-srd/spells/Fireball|fireball]]_; _[[rangoric-srd/spells/Heat Metal|heat metal]]_; _[[rangoric-srd/spells/Resist Energy|resist energy]]_; _[[rangoric-srd/spells/Spark|spark]]_; creator must have 5 ranks in [[rangoric-srd/skills/Background|Background]] (armorsmithing) and [[rangoric-srd/skills/Background|Background]] (weaponsmithing); Price 3,750 gp; Cost 18,000 gp; Weight 4 lbs.

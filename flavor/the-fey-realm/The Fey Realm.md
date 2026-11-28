@@ -56,7 +56,7 @@ Each place note follows one of these templates: a region, or a site within a reg
 
 **Seasons:** How this region differs from the norm of FaerieLand (if at all)
 
-**_Legends & Lore_** [Information is available by meeting the DCs below against [[rangoric-srd/skills/Lore|Lore (fey)]]; information on personalities can also be uncovered by [[rangoric-srd/skills/Lore|Lore (folk tales)]] with a +5 DC penalty. A DC 10 check on either lets you know the data from a place’s description. Any better checks uncover the obscure knowledge below.]
+**_Legends & Lore_** [Information is available by meeting the DCs below against [[rangoric-srd/skills/Background|Background (fey)]]; information on personalities can also be uncovered by [[rangoric-srd/skills/Background|Background (folk tales)]] with a +5 DC penalty. A DC 10 check on either lets you know the data from a place’s description. Any better checks uncover the obscure knowledge below.]
 
 _Common:_ DC 15 _Uncommon:_ DC 20 _Rare:_ DC 25 _Obscure:_ DC 30+
 

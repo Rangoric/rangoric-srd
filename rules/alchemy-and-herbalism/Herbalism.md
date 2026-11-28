@@ -14,19 +14,19 @@ What is herbalism? It’s the study and knowledge of herbs and plantlife, their 
 
 ## Herbalism at Its d20 Basic
 
-There are redundancies and overlaps in terms of knowledge and skill use in the d20 system, and this is our attempt at distinguishing who knows what, when, why, and how. While originally noted under Profession as a skill, herbalism can also be learned through the Nature skill, though that creates limitations and distinctions among those who call themselves herbalists.
+There are redundancies and overlaps in terms of knowledge and skill use in the d20 system, and this is our attempt at distinguishing who knows what, when, why, and how. While originally noted as a profession Background, herbalism can also be learned through the Nature skill, though that creates limitations and distinctions among those who call themselves herbalists.
 
 ### The Generic Herbalist
 
 Without specialized training (such as the [[rangoric-srd/prestige-classes/Herbalist|herbalist]]’s), a person with knowledge of herbs ([[rangoric-srd/skills/Nature|Nature]]) can only identify and find herbs. She can make the most rudimentary of poultices and curatives, and perhaps know what herbs would be good for poison antidotes—but it’s unlikely she’d know how to make it, only where to find such information.
 
-If a character relies on Nature instead of Profession, any DCs mentioned here or in the core rules for the purpose of directly using herbal knowledge beyond identification of plants or herbal substances should increase by +3.
+If a character relies on Nature instead of Background (herbalist), any DCs mentioned here or in the core rules for the purpose of directly using herbal knowledge beyond identification of plants or herbal substances should increase by +3.
 
 What generic herbalists don’t know is how to create many of the catalog’s items, nor do they have a broad amount of knowledge on usage or dosage of said herbs. In short, their knowledge is strictly academic. They know of herbs and can tell you some things about them, but they don’t devote their life’s work to such things. Generic herbalists could grab a handful of fools’ weed and stuff it into the mouth of a terrified halfling in hopes of ending some supernatural terror effect, but they’d hardly know that three small leaves are enough to do the trick.
 
 ### The Professional Herbalist
 
-Those trained in herbalism as a profession ([[rangoric-srd/skills/Profession|Profession]] (herbalist or apothecary)) know as much about herbs and plants as those trained in Nature. Where they differ is in knowing the details—professional herbalists and apothecaries know all about the herbs, the best methods for harvesting and preserving them, and their dosages both as curatives and for other uses.
+Those trained in herbalism as a profession ([[rangoric-srd/skills/Background|Background]] (herbalist or apothecary)) know as much about herbs and plants as those trained in Nature. Where they differ is in knowing the details—professional herbalists and apothecaries know all about the herbs, the best methods for harvesting and preserving them, and their dosages both as curatives and for other uses.
 
 ### Herbalists vs. Apothecaries
 
@@ -156,7 +156,7 @@ All the herbs have set classifications of Rarity, Environment, and Harvest. They
 Rarity is set at four stages:
 
 - Common herbs are easily found, though a DC 10 Perception check is needed to recognize them from a general description (while those who know plants need no check, assuming they’re in an area where the plant can grow);
-- Uncommon are still relatively common but only if you know where to look—they take a DC 15 Perception check to recognize or find, though anyone skilled in herbalism (as Profession), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]], or other skills focused on finding natural items in the environment can find them with a DC 10;
+- Uncommon are still relatively common but only if you know where to look—they take a DC 15 Perception check to recognize or find, though anyone skilled in herbalism (as a profession Background), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]], or other skills focused on finding natural items in the environment can find them with a DC 10;
 - Rare plants and herbs are only found in very particular environments and are difficult even for the skilled seeker (DC 20 for unskilled persons Perception check; DC 15 for skilled persons);
 - Some plants and herbs are extremely rare, and may be unique to one particular area, rather than a general environment (in which case, look at the plant’s terrain type and limit its presence to one or two particular areas in your campaign world that match that terrain). Finding such plants blindly in the wild is almost impossible (Perception DC 35 unskilled; DC 30 for skilled persons), and even if you’re in the place where the herb is known to grow, Perception DCs only improve to 25/20. The herbs may also be raised in a controlled environment. This makes them easier to spot when seeking them.
 

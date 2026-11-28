@@ -12,85 +12,85 @@ _A gemstone or art object reward names a grade; roll d% on the table for that gr
 
 ## Random Gems
 
-**Table: Least Semi-Precious Gem (Craft DC 10)**
+**Table: Least Semi-Precious Gem (making DC 10)**
 
-| d%     | Least Semi-Precious Gem (Craft DC 10) | Base Value | Added Value |
-| ------ | ------------------------------------- | ---------- | ----------- |
-| 01–08  | Agate                                 | 5 gp       | +2d4 gp     |
-| 09–14  | Alabaster                             | 5 gp       | +2d4 gp     |
-| 15–20  | Azurite                               | 5 gp       | +2d4 gp     |
-| 21–26  | Hematite                              | 5 gp       | +2d4 gp     |
-| 27–34  | Lapis lazuli                          | 5 gp       | +2d4 gp     |
-| 35–40  | Malachite                             | 5 gp       | +2d4 gp     |
-| 41–48  | Obsidian                              | 5 gp       | +2d4 gp     |
-| 49–56  | Pearl, irregular freshwater           | 5 gp       | +2d4 gp     |
-| 57–62  | Pyrite                                | 5 gp       | +2d4 gp     |
-| 63–70  | Rhodochrosite                         | 5 gp       | +2d4 gp     |
-| 71–78  | Quartz, rock crystal                  | 5 gp       | +2d4 gp     |
-| 79–84  | Shell                                 | 5 gp       | +2d4 gp     |
-| 85–92  | Tigereye                              | 5 gp       | +2d4 gp     |
-| 93–100 | Turquoise                             | 5 gp       | +2d4 gp     |
-
-**Table: Lesser Semi-Precious Gem (Craft DC 12)**
-
-| d%     | Lesser Semi-Precious Gem (Craft DC 12) | Base Value | Added Value |
+| d%     | Least Semi-Precious Gem (making DC 10) | Base Value | Added Value |
 | ------ | -------------------------------------- | ---------- | ----------- |
-| 01–06  | Bloodstone                             | 25 gp      | +2d4 × 5 gp |
-| 07–12  | Carnelian                              | 25 gp      | +2d4 × 5 gp |
-| 13–18  | Chrysoprase                            | 25 gp      | +2d4 × 5 gp |
-| 19–24  | Citrine                                | 25 gp      | +2d4 × 5 gp |
-| 25–32  | Ivory                                  | 25 gp      | +2d4 × 5 gp |
-| 33–38  | Jasper                                 | 25 gp      | +2d4 × 5 gp |
-| 39–44  | Moonstone                              | 25 gp      | +2d4 × 5 gp |
-| 45–50  | Onyx                                   | 25 gp      | +2d4 × 5 gp |
-| 51–56  | Peridot                                | 25 gp      | +2d4 × 5 gp |
-| 57–74  | Quartz, milky, rose, or smoky          | 25 gp      | +2d4 × 5 gp |
-| 75–80  | Sard                                   | 25 gp      | +2d4 × 5 gp |
-| 81–86  | Sardonyx                               | 25 gp      | +2d4 × 5 gp |
-| 87–92  | Spinel, red or green                   | 25 gp      | +2d4 × 5 gp |
-| 93–100 | Zircon                                 | 25 gp      | +2d4 × 5 gp |
+| 01–08  | Agate                                  | 5 gp       | +2d4 gp     |
+| 09–14  | Alabaster                              | 5 gp       | +2d4 gp     |
+| 15–20  | Azurite                                | 5 gp       | +2d4 gp     |
+| 21–26  | Hematite                               | 5 gp       | +2d4 gp     |
+| 27–34  | Lapis lazuli                           | 5 gp       | +2d4 gp     |
+| 35–40  | Malachite                              | 5 gp       | +2d4 gp     |
+| 41–48  | Obsidian                               | 5 gp       | +2d4 gp     |
+| 49–56  | Pearl, irregular freshwater            | 5 gp       | +2d4 gp     |
+| 57–62  | Pyrite                                 | 5 gp       | +2d4 gp     |
+| 63–70  | Rhodochrosite                          | 5 gp       | +2d4 gp     |
+| 71–78  | Quartz, rock crystal                   | 5 gp       | +2d4 gp     |
+| 79–84  | Shell                                  | 5 gp       | +2d4 gp     |
+| 85–92  | Tigereye                               | 5 gp       | +2d4 gp     |
+| 93–100 | Turquoise                              | 5 gp       | +2d4 gp     |
 
-**Table: Semi-Precious Gem (Craft DC 15)**
+**Table: Lesser Semi-Precious Gem (making DC 12)**
 
-| d%     | Semi-Precious Gem (Craft DC 15) | Base Value | Added Value  |
-| ------ | ------------------------------- | ---------- | ------------ |
-| 01–10  | Amber                           | 50 gp      | +2d4 × 10 gp |
-| 11–20  | Amethyst                        | 50 gp      | +2d4 × 10 gp |
-| 21–30  | Chrysoberyl                     | 50 gp      | +2d4 × 10 gp |
-| 31–40  | Coral                           | 50 gp      | +2d4 × 10 gp |
-| 41–50  | Garnet                          | 50 gp      | +2d4 × 10 gp |
-| 51–60  | Jade                            | 50 gp      | +2d4 × 10 gp |
-| 61–70  | Jet                             | 50 gp      | +2d4 × 10 gp |
-| 71–80  | Pearl, saltwater                | 50 gp      | +2d4 × 10 gp |
-| 81–90  | Spinel, deep blue               | 50 gp      | +2d4 × 10 gp |
-| 91–100 | Tourmaline                      | 50 gp      | +2d4 × 10 gp |
+| d%     | Lesser Semi-Precious Gem (making DC 12) | Base Value | Added Value |
+| ------ | --------------------------------------- | ---------- | ----------- |
+| 01–06  | Bloodstone                              | 25 gp      | +2d4 × 5 gp |
+| 07–12  | Carnelian                               | 25 gp      | +2d4 × 5 gp |
+| 13–18  | Chrysoprase                             | 25 gp      | +2d4 × 5 gp |
+| 19–24  | Citrine                                 | 25 gp      | +2d4 × 5 gp |
+| 25–32  | Ivory                                   | 25 gp      | +2d4 × 5 gp |
+| 33–38  | Jasper                                  | 25 gp      | +2d4 × 5 gp |
+| 39–44  | Moonstone                               | 25 gp      | +2d4 × 5 gp |
+| 45–50  | Onyx                                    | 25 gp      | +2d4 × 5 gp |
+| 51–56  | Peridot                                 | 25 gp      | +2d4 × 5 gp |
+| 57–74  | Quartz, milky, rose, or smoky           | 25 gp      | +2d4 × 5 gp |
+| 75–80  | Sard                                    | 25 gp      | +2d4 × 5 gp |
+| 81–86  | Sardonyx                                | 25 gp      | +2d4 × 5 gp |
+| 87–92  | Spinel, red or green                    | 25 gp      | +2d4 × 5 gp |
+| 93–100 | Zircon                                  | 25 gp      | +2d4 × 5 gp |
 
-**Table: Greater Semi-Precious Gem (Craft DC 20)**
+**Table: Semi-Precious Gem (making DC 15)**
 
-| d%     | Greater Semi-Precious Gem (Craft DC 20) | Base Value | Added Value  |
-| ------ | --------------------------------------- | ---------- | ------------ |
-| 01–25  | Aquamarine                              | 250 gp     | +2d4 × 50 gp |
-| 26–50  | Opal                                    | 250 gp     | +2d4 × 50 gp |
-| 51–75  | Pearl, black                            | 250 gp     | +2d4 × 50 gp |
-| 76–100 | Topaz                                   | 250 gp     | +2d4 × 50 gp |
+| d%     | Semi-Precious Gem (making DC 15) | Base Value | Added Value  |
+| ------ | -------------------------------- | ---------- | ------------ |
+| 01–10  | Amber                            | 50 gp      | +2d4 × 10 gp |
+| 11–20  | Amethyst                         | 50 gp      | +2d4 × 10 gp |
+| 21–30  | Chrysoberyl                      | 50 gp      | +2d4 × 10 gp |
+| 31–40  | Coral                            | 50 gp      | +2d4 × 10 gp |
+| 41–50  | Garnet                           | 50 gp      | +2d4 × 10 gp |
+| 51–60  | Jade                             | 50 gp      | +2d4 × 10 gp |
+| 61–70  | Jet                              | 50 gp      | +2d4 × 10 gp |
+| 71–80  | Pearl, saltwater                 | 50 gp      | +2d4 × 10 gp |
+| 81–90  | Spinel, deep blue                | 50 gp      | +2d4 × 10 gp |
+| 91–100 | Tourmaline                       | 50 gp      | +2d4 × 10 gp |
 
-**Table: Lesser Precious Gem (Craft DC 25)**
+**Table: Greater Semi-Precious Gem (making DC 20)**
 
-| d%     | Lesser Precious Gem (Craft DC 25) | Base Value | Added Value   |
-| ------ | --------------------------------- | ---------- | ------------- |
-| 01–25  | Diamond, small                    | 500 gp     | +2d4 × 100 gp |
-| 26–50  | Emerald                           | 500 gp     | +2d4 × 100 gp |
-| 51–75  | Ruby, small                       | 500 gp     | +2d4 × 100 gp |
-| 76–100 | Sapphire                          | 500 gp     | +2d4 × 100 gp |
+| d%     | Greater Semi-Precious Gem (making DC 20) | Base Value | Added Value  |
+| ------ | ---------------------------------------- | ---------- | ------------ |
+| 01–25  | Aquamarine                               | 250 gp     | +2d4 × 50 gp |
+| 26–50  | Opal                                     | 250 gp     | +2d4 × 50 gp |
+| 51–75  | Pearl, black                             | 250 gp     | +2d4 × 50 gp |
+| 76–100 | Topaz                                    | 250 gp     | +2d4 × 50 gp |
 
-**Table: Greater Precious Gem (5,000 gp; Craft DC 25)**
+**Table: Lesser Precious Gem (making DC 25)**
 
-| d%     | Greater Precious Gem (5,000 gp; Craft DC 25) | Base Value | Added Value   |
-| ------ | -------------------------------------------- | ---------- | ------------- |
-| 01–25  | Diamond, large                               | 2,500 gp   | +2d4 × 500 gp |
-| 26–50  | Emerald, brilliant green                     | 2,500 gp   | +2d4 × 500 gp |
-| 51–75  | Ruby, large                                  | 2,500 gp   | +2d4 × 500 gp |
-| 76–100 | Sapphire, star                               | 2,500 gp   | +2d4 × 500 gp |
+| d%     | Lesser Precious Gem (making DC 25) | Base Value | Added Value   |
+| ------ | ---------------------------------- | ---------- | ------------- |
+| 01–25  | Diamond, small                     | 500 gp     | +2d4 × 100 gp |
+| 26–50  | Emerald                            | 500 gp     | +2d4 × 100 gp |
+| 51–75  | Ruby, small                        | 500 gp     | +2d4 × 100 gp |
+| 76–100 | Sapphire                           | 500 gp     | +2d4 × 100 gp |
+
+**Table: Greater Precious Gem (5,000 gp; making DC 25)**
+
+| d%     | Greater Precious Gem (5,000 gp; making DC 25) | Base Value | Added Value   |
+| ------ | --------------------------------------------- | ---------- | ------------- |
+| 01–25  | Diamond, large                                | 2,500 gp   | +2d4 × 500 gp |
+| 26–50  | Emerald, brilliant green                      | 2,500 gp   | +2d4 × 500 gp |
+| 51–75  | Ruby, large                                   | 2,500 gp   | +2d4 × 500 gp |
+| 76–100 | Sapphire, star                                | 2,500 gp   | +2d4 × 500 gp |
 
 ## Random Art Objects
 

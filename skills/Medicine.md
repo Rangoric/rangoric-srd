@@ -38,7 +38,7 @@ Installing or removing a cybernetic implant, in settings that have them, is also
 
 ## Making Remedies
 
-You make antitoxin and other remedies with Medicine instead of Craft (alchemy), following the [[rangoric-srd/skills/Craft|Craft]] rules for time, raw materials and alchemical equipment. Antitoxin has a DC of 25. In tech settings, drugs and medicines are made the same way.
+You make antitoxin and other remedies with Medicine instead of Background (alchemy), following the [[rangoric-srd/skills/Background#Making Things|Background]] rules for time, raw materials and alchemical equipment. Antitoxin has a DC of 25. In tech settings, drugs and medicines are made the same way.
 
 ## For Every Use
 

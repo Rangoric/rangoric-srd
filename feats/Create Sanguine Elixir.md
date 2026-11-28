@@ -1,7 +1,7 @@
 ---
 srd-type: "feat"
 section: "Feats"
-prerequisites: "Cha 15, Brew Potion, Craft (alchemy) 12 ranks, sorcerer level 3rd."
+prerequisites: "Cha 15, Brew Potion, Background (alchemy) 12 ranks, sorcerer level 3rd."
 status: draft
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat]
 
 You can condense a fraction of your bloodline's power into a powerful elixir.
 
-**Prerequisites**: Cha 15, [[rangoric-srd/feats/Brew Potion|Brew Potion]], [[rangoric-srd/skills/Craft|Craft]] (alchemy) 12 ranks, [[rangoric-srd/classes/Sorcerer|sorcerer]] level 3rd.
+**Prerequisites**: Cha 15, [[rangoric-srd/feats/Brew Potion|Brew Potion]], [[rangoric-srd/skills/Background|Background]] (alchemy) 12 ranks, [[rangoric-srd/classes/Sorcerer|sorcerer]] level 3rd.
 
 **Benefit**: Once per day, when you rest to regain spell slots, you can make a sanguine elixir. Choose one of your bloodline powers and pour it into a small potion that any creature can drink to gain that power for a short time. Making it takes 1 hour and special oils and distillates worth 100 gp, and you lose that bloodline power until the next time you rest to regain spell slots.
 

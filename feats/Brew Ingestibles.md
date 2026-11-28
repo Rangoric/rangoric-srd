@@ -1,7 +1,7 @@
 ---
 srd-type: "feat"
 section: "Feats"
-prerequisites: "Craft (alchemy) 6 ranks or Profession (herbalist) 4 ranks."
+prerequisites: "Background (alchemy) 6 ranks or Background (herbalist) 4 ranks."
 status: draft
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, item-creation]
@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, item-creation]
 
 You can create alchemical or herbal drinks and rations that produce special effects, though not magical in origin.
 
-**Prerequisites**: [[rangoric-srd/skills/Craft|Craft]] (alchemy) 6 ranks or [[rangoric-srd/skills/Profession|Profession]] (herbalist) 4 ranks.
+**Prerequisites**: [[rangoric-srd/skills/Background|Background]] (alchemy) 6 ranks or [[rangoric-srd/skills/Background|Background]] (herbalist) 4 ranks.
 
 **Benefit**: You can craft any ingestible whose prerequisites you meet. An ingestible is any liquid, paste or solid that is consumed to activate its potential. Brewing an ingestible substance takes a number of hours equal to its creation DC. Each item’s base price is its caster level + DC x 50 gp (though Tinctures double those base prices, while Tisanes & Teas halve them). To create such substances, the creator must expend 2% (1/50) of the item’s base price in XP and use up raw materials costing 30% of the base price. (The savings alchemy or herbalism give other item creation feats, in [[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Related Feats & Skill Adjustments|Related Feats & Skill Adjustments]], are already part of this feat.)
 

@@ -1,7 +1,7 @@
 ---
 srd-type: "feat"
 section: "Feats"
-prerequisites: "Craft (alchemy) 6 ranks or Profession (herbalist) 4 ranks, Craft Powders & Dusts."
+prerequisites: "Background (alchemy) 6 ranks or Background (herbalist) 4 ranks, Craft Powders & Dusts."
 status: draft
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, item-creation]
@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, item-creation]
 
 You create lotions and other external salves that produce a wide variety of results, and while many are nonmagical you can also create the alchemist’s or herbalist’s beginning magical items.
 
-**Prerequisites**: [[rangoric-srd/skills/Craft|Craft]] (alchemy) 6 ranks or [[rangoric-srd/skills/Profession|Profession]] (herbalist) 4 ranks, [[rangoric-srd/feats/Craft Powders & Dusts|Craft Powders & Dusts]].
+**Prerequisites**: [[rangoric-srd/skills/Background|Background]] (alchemy) 6 ranks or [[rangoric-srd/skills/Background|Background]] (herbalist) 4 ranks, [[rangoric-srd/feats/Craft Powders & Dusts|Craft Powders & Dusts]].
 
 **Benefit**: You can create any and all types of unguents, provided you meet the prerequisites. Making unguents takes a number of hours equal to half its creation DC, but never less than 9 hours. Each unguent has a base price equal to its caster level + DC x 150 gp. To create such substances, the creator must expend 2% (1/50) of the item’s base price in XP and use up raw materials costing 30% of the base price. (The savings alchemy or herbalism give other item creation feats, in [[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Related Feats & Skill Adjustments|Related Feats & Skill Adjustments]], are already part of this feat.)
 

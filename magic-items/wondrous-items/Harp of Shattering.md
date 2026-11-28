@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/magic-item]
 
 # Harp of Shattering
 
-This finely crafted masterwork harp fits comfortably in one hand, but it requires two hands to play. The harp has 10 charges, which refresh each day at daybreak. By making a DC 10 [[rangoric-srd/skills/Performance|Performance]] (string) check, the bearer can produce the following effects:
+This finely crafted masterwork harp fits comfortably in one hand, but it requires two hands to play. The harp has 10 charges, which refresh each day at daybreak. By making a DC 10 [[rangoric-srd/skills/Performance|Performance]] (string instruments) check, the bearer can produce the following effects:
 
 - _[[rangoric-srd/spells/Break|break]]_ (1 charge)
 - _[[rangoric-srd/spells/Shatter|shatter]]_ (2 charges)

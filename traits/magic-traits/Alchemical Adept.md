@@ -11,4 +11,4 @@ tags: [rangoric, rangoric/trait]
 
 **Category**: [[rangoric-srd/traits/Character Traits#Magic Traits|magic trait]].
 
-You are skilled in creating alchemical items. You gain a +2 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] on all [[rangoric-srd/skills/Craft|Craft]] (alchemy) checks made to craft alchemical items. Furthermore, when you fail a Craft (alchemy) check by 5 or more but don't roll a natural 1, you don't ruin any raw materials or have to pay that cost again.
+You are skilled in creating alchemical items. You gain a +2 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] on all [[rangoric-srd/skills/Background|Background]] (alchemy) checks made to craft alchemical items. Furthermore, when you fail a Background (alchemy) check by 5 or more but don't roll a natural 1, you don't ruin any raw materials or have to pay that cost again.

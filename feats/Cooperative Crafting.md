@@ -11,6 +11,6 @@ tags: [rangoric, rangoric/feat]
 
 Your assistance makes item crafting far more efficient.
 
-**Prerequisites**: 1 rank in any [[rangoric-srd/skills/Craft|Craft]] skill, any item creation feat.
+**Prerequisites**: 1 rank in any craft [[rangoric-srd/skills/Background#Making Things|Background]], any item creation feat.
 
-**Benefit**: You can help another character make mundane and magic items. You must both have the needed Craft skill or item creation feat, but either of you can meet the item’s other prerequisites. You give a +2 circumstance bonus on Craft or [[rangoric-srd/skills/Mysticism|Mysticism]] checks to make the item, and your help doubles the gp value of what can be made each day.
+**Benefit**: You can help another character make mundane and magic items. You must both have the needed craft Background or item creation feat, but either of you can meet the item’s other prerequisites. You give a +2 circumstance bonus on Background or [[rangoric-srd/skills/Mysticism|Mysticism]] checks to make the item, and your help doubles the gp value of what can be made each day.

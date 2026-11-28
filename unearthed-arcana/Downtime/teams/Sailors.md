@@ -19,4 +19,4 @@ tags: [rangoric, rangoric/downtime-team]
 - **Time**: 0 days
 - **Size**: 5 people
 
-Sailors know how to sail a ship, navigate while at sea, and defend the vessel against pirates and other hostile boarders. A typical sailor is a 2nd-level expert with 2 ranks each in [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Fieldcraft|Fieldcraft]], [[rangoric-srd/skills/Perception|Perception]], and [[rangoric-srd/skills/Profession|Profession (sailor)]].
+Sailors know how to sail a ship, navigate while at sea, and defend the vessel against pirates and other hostile boarders. A typical sailor is a 2nd-level expert with 2 ranks each in [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Fieldcraft|Fieldcraft]], [[rangoric-srd/skills/Perception|Perception]], and [[rangoric-srd/skills/Background|Background (sailor)]].

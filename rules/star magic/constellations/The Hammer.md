@@ -35,6 +35,6 @@ _[[rangoric-srd/rules/star magic/Star Magic|Constellation]]_
 - **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
-The target can work long hours without tiring or losing focus. When it works out its week's progress with [[rangoric-srd/skills/Craft|Craft]], it doubles its check result before multiplying it by the item's DC.
+The target can work long hours without tiring or losing focus. When it works out its week's progress with [[rangoric-srd/skills/Background#Making Things|Background]], it doubles its check result before multiplying it by the item's DC.
 
 **Higher call levels**: The multiplier goes up by 1 for each call level above 5th: at the 8th call level, the result is multiplied by 5.

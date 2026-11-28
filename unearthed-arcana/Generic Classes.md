@@ -26,9 +26,9 @@ Later, their warrior gains a level of [[#Expert|expert]], a class with two good 
 
 Each generic class has a specific number of class skills, as given in the class description. When a character takes his first level in a generic class, he chooses which skills to designate as class skills. Once these are selected, the character can't change his choice of class skills (though if he gains a level in another class, he can choose different skills as class skills for that class).
 
-For example, a [[#Warrior|warrior]] has six class skills, plus [[rangoric-srd/skills/Craft|Craft]]. The player wants to play an agile, crafty warrior who uses his high Dexterity and Charisma scores to good effect. At 1st level, the character designates his class skills as [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Craft|Craft]] (Int), [[rangoric-srd/skills/Stealth|Stealth]] (Dex), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Profession|Profession]] (Wis), and [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex).
+For example, a [[#Warrior|warrior]] has six class skills. The player wants to play an agile, crafty warrior who uses his high Dexterity and Charisma scores to good effect. At 1st level, the character designates his class skills as [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Stealth|Stealth]] (Dex), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Athletics|Athletics]] (Str), and [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex).
 
-When the warrior gains a level of [[#Expert|expert]] a class with twelve class skills plus [[rangoric-srd/skills/Craft|Craft]] and [[rangoric-srd/skills/Profession|Profession]], he must choose a new set of class skills. He wants his character to be able to continue purchasing the same skills as class skills, so he starts by designating all the skills he chose for his warrior as class skills. Since his character has taken up life as a thief and second story artist, he adds [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Engineering|Engineering]] (Int), [[rangoric-srd/skills/Society|Society]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), and [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] (Dex) to his list of class skills.
+When the warrior gains a level of [[#Expert|expert]] a class with twelve class skills, he must choose a new set of class skills. He wants his character to be able to continue purchasing the same skills as class skills, so he starts by designating all the skills he chose for his warrior as class skills. Since his character has taken up life as a thief and second story artist, he adds [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Engineering|Engineering]] (Int), [[rangoric-srd/skills/Society|Society]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), and [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] (Dex) to his list of class skills.
 
 ##### Bonus Feats
 
@@ -97,7 +97,7 @@ At first glance, the expert appears similar to the [[rangoric-srd/classes/Rogue|
 
 **Base Save Bonuses:** Two good saves and one poor save.
 
-**Class Skills:** Choose any twelve [[rangoric-srd/skills/Skills All|skills]] as class skills, plus [[rangoric-srd/skills/Craft|Craft]] and [[rangoric-srd/skills/Profession|Profession]].
+**Class Skills:** Choose any twelve [[rangoric-srd/skills/Skills All|skills]] as class skills.
 
 **Skill Points:** 6 + Int modifier.
 
@@ -165,7 +165,7 @@ The spellcaster most closely resembles the [[rangoric-srd/classes/Sorcerer|sorce
 
 **Base Save Bonuses:** One good save and two poor saves.
 
-**Class Skills:** Choose any four [[rangoric-srd/skills/Skills All|skills]] as class skills, plus [[rangoric-srd/skills/Craft|Craft]], all [[rangoric-srd/skills/Knowledge|Knowledge skills]], and [[rangoric-srd/skills/Profession|Profession]].
+**Class Skills:** Choose any four [[rangoric-srd/skills/Skills All|skills]] as class skills, plus all [[rangoric-srd/skills/Knowledge|Knowledge skills]].
 
 **Skill Points:** 2 + Int modifier.
 
@@ -214,7 +214,7 @@ Unlike the fighter, the warrior can choose a different array of class skills, ca
 
 **Base Save Bonuses:** One good save and two poor saves.
 
-**Class Skills:** Choose any six [[rangoric-srd/skills/Skills All|skills]] as class skills, plus [[rangoric-srd/skills/Craft|Craft]].
+**Class Skills:** Choose any six [[rangoric-srd/skills/Skills All|skills]] as class skills.
 
 **Skill Points:** 2 + Int modifier.
 
