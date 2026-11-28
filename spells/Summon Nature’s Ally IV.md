@@ -29,22 +29,22 @@ This spell functions like [[rangoric-srd/spells/Summon Nature’s Ally I|summon 
 
 When you use a summoning spell to summon an air, chaotic, earth, evil, fire, good, lawful, or water creature, it is a spell of that type.
 
-| 4th Level                                                                      |
-| ------------------------------------------------------------------------------ |
-| [[rangoric-srd/monsters/arrowhawk/Arrowhawk\|Arrowhawk, juvenile]]             |
-| [[rangoric-srd/monsters/Bear, Brown\|Bear, brown (animal)]]                    |
-| [[rangoric-srd/monsters/Crocodile, Giant\|Crocodile, giant (animal)]]          |
-| [[rangoric-srd/monsters/dinosaur/Deinonychus\|Deinonychus (dinosaur)]]         |
-| [[rangoric-srd/monsters/dire-animal/Dire Ape\|Dire ape]]                       |
-| [[rangoric-srd/monsters/dire-animal/Dire Boar\|Dire boar]]                     |
-| [[rangoric-srd/monsters/dire-animal/Dire Wolverine\|Dire wolverine]]           |
-| [[rangoric-srd/monsters/elemental/Elemental\|Elemental, Medium (any)]]         |
-| [[rangoric-srd/monsters/salamander/Salamander\|Salamander, flamebrother (NE)]] |
-| [[rangoric-srd/monsters/Sea Cat\|Sea cat (1)]]                                 |
-| [[rangoric-srd/monsters/shark/Shark\|Shark, Huge (1) (animal)]]                |
-| [[rangoric-srd/monsters/snake/Viper Snake\|Snake, Huge viper (animal)]]        |
-| [[rangoric-srd/monsters/Tiger\|Tiger (animal)]]                                |
-| [[rangoric-srd/monsters/tojanida/Tojanida\|Tojanida, juvenile (1)]]            |
-| [[rangoric-srd/monsters/unicorn/Unicorn\|Unicorn (CG)]]                        |
-| [[rangoric-srd/monsters/xorn/Xorn\|Xorn, minor]]                               |
-| 1 _May be summoned only into an aquatic or watery environment._                |
+| 4th Level                                                                       |
+| ------------------------------------------------------------------------------- |
+| [[rangoric-srd/monsters/arrowhawks/Arrowhawk\|Arrowhawk, juvenile]]             |
+| [[rangoric-srd/monsters/Bear, Brown\|Bear, brown (animal)]]                     |
+| [[rangoric-srd/monsters/Crocodile, Giant\|Crocodile, giant (animal)]]           |
+| [[rangoric-srd/monsters/dinosaurs/Deinonychus\|Deinonychus (dinosaur)]]         |
+| [[rangoric-srd/monsters/dire-animals/Dire Ape\|Dire ape]]                       |
+| [[rangoric-srd/monsters/dire-animals/Dire Boar\|Dire boar]]                     |
+| [[rangoric-srd/monsters/dire-animals/Dire Wolverine\|Dire wolverine]]           |
+| [[rangoric-srd/monsters/elementals/Elemental\|Elemental, Medium (any)]]         |
+| [[rangoric-srd/monsters/salamanders/Salamander\|Salamander, flamebrother (NE)]] |
+| [[rangoric-srd/monsters/Sea Cat\|Sea cat (1)]]                                  |
+| [[rangoric-srd/monsters/sharks/Shark\|Shark, Huge (1) (animal)]]                |
+| [[rangoric-srd/monsters/snakes/Viper Snake\|Snake, Huge viper (animal)]]        |
+| [[rangoric-srd/monsters/Tiger\|Tiger (animal)]]                                 |
+| [[rangoric-srd/monsters/tojanidas/Tojanida\|Tojanida, juvenile (1)]]            |
+| [[rangoric-srd/monsters/unicorns/Unicorn\|Unicorn (CG)]]                        |
+| [[rangoric-srd/monsters/xorns/Xorn\|Xorn, minor]]                               |
+| 1 _May be summoned only into an aquatic or watery environment._                 |

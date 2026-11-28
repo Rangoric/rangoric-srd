@@ -12,7 +12,7 @@ tags: [rangoric, rangoric/class-option]
 
 _A totem of [[rangoric-srd/rules/totem-magic/Totem Magic|totem magic]], for the [[rangoric-srd/prestige-classes/Totem Mage|totem mage]] and the [[rangoric-srd/feats/Totem Link|Totem Link]] feat._
 
-**Totem Shape**: At 1st level a totem mage of the horse totem may transform into a [[rangoric-srd/monsters/horse/Warhorse, Light|light warhorse]] and a [[rangoric-srd/monsters/horse/Warhorse, Heavy|heavy warhorse]] at 2nd level.
+**Totem Shape**: At 1st level a totem mage of the horse totem may transform into a [[rangoric-srd/monsters/horses/Warhorse, Light|light warhorse]] and a [[rangoric-srd/monsters/horses/Warhorse, Heavy|heavy warhorse]] at 2nd level.
 
 **Spells** (the [[rangoric-srd/prestige-classes/Totem Mage#^totem-mage-spells-per-day|totem mage]] can also prepare these, by level):
 

@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/affliction]
 
 # Hellwasp Swarm Venom
 
-A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of a [[rangoric-srd/monsters/swarm/Hellwasp Swarm|hellwasp swarm]].
+A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of a [[rangoric-srd/monsters/swarms/Hellwasp Swarm|hellwasp swarm]].
 
 - **Type**: poison, injury
 - **Attack**: +10 vs Fortitude

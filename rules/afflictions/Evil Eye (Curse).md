@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/affliction]
 
 # Evil Eye (Curse)
 
-A curse; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the [[rangoric-srd/monsters/hag/Sea Hag|sea hag]]'s evil eye; what a second evil eye does to a victim already under it (a comatose state that can kill) is described there.
+A curse; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the [[rangoric-srd/monsters/hags/Sea Hag|sea hag]]'s evil eye; what a second evil eye does to a victim already under it (a comatose state that can kill) is described there.
 
 - **Type**: curse, gaze
 - **Attack**: +4 vs Will

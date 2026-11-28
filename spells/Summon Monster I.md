@@ -55,21 +55,21 @@ When you use a summoning spell to summon an air, chaotic, earth, evil, fire, goo
 
 _Arcane Focus_: A tiny bag and a small (not necessarily lit) candle.
 
-| 1st Level                                                                                                                                                              |     |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| [[rangoric-srd/monsters/celestial-creature/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/Dog\|dog]]                                                          | LG  |
-| [[rangoric-srd/monsters/celestial-creature/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/Owl\|owl]]                                                          | LG  |
-| [[rangoric-srd/monsters/celestial-creature/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/Giant Fire Beetle\|giant fire beetle]]                              | NG  |
-| [[rangoric-srd/monsters/celestial-creature/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/Porpoise\|porpoise (1)]]                                            | NG  |
-| [[rangoric-srd/monsters/celestial-creature/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/Badger\|badger]]                                                    | CG  |
-| [[rangoric-srd/monsters/celestial-creature/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/Monkey\|monkey]]                                                    | CG  |
-| [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/dire-animal/Dire Rat\|dire rat]]                                       | LE  |
-| [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/Raven\|raven]]                                                         | LE  |
-| [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/monstrous-centipede/Monstrous Centipede\|monstrous centipede, Medium]] | NE  |
-| [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/monstrous-scorpion/Monstrous Scorpion\|monstrous scorpion, Small]]     | NE  |
-| [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/Hawk\|hawk]]                                                           | CE  |
-| [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/monstrous-spider/Monstrous Spider\|monstrous spider, Small]]           | CE  |
-| [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/Octopus\|octopus (1)]]                                                 | CE  |
-| [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/snake/Viper Snake\|snake, Small viper]]                                | CE  |
+| 1st Level                                                                                                                                                                |     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- |
+| [[rangoric-srd/monsters/celestial-creatures/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/Dog\|dog]]                                                           | LG  |
+| [[rangoric-srd/monsters/celestial-creatures/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/Owl\|owl]]                                                           | LG  |
+| [[rangoric-srd/monsters/celestial-creatures/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/Giant Fire Beetle\|giant fire beetle]]                               | NG  |
+| [[rangoric-srd/monsters/celestial-creatures/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/Porpoise\|porpoise (1)]]                                             | NG  |
+| [[rangoric-srd/monsters/celestial-creatures/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/Badger\|badger]]                                                     | CG  |
+| [[rangoric-srd/monsters/celestial-creatures/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/Monkey\|monkey]]                                                     | CG  |
+| [[rangoric-srd/monsters/fiendish-creatures/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/dire-animals/Dire Rat\|dire rat]]                                       | LE  |
+| [[rangoric-srd/monsters/fiendish-creatures/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/Raven\|raven]]                                                          | LE  |
+| [[rangoric-srd/monsters/fiendish-creatures/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/monstrous-centipedes/Monstrous Centipede\|monstrous centipede, Medium]] | NE  |
+| [[rangoric-srd/monsters/fiendish-creatures/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/monstrous-scorpions/Monstrous Scorpion\|monstrous scorpion, Small]]     | NE  |
+| [[rangoric-srd/monsters/fiendish-creatures/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/Hawk\|hawk]]                                                            | CE  |
+| [[rangoric-srd/monsters/fiendish-creatures/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/monstrous-spiders/Monstrous Spider\|monstrous spider, Small]]           | CE  |
+| [[rangoric-srd/monsters/fiendish-creatures/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/Octopus\|octopus (1)]]                                                  | CE  |
+| [[rangoric-srd/monsters/fiendish-creatures/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/snakes/Viper Snake\|snake, Small viper]]                                | CE  |
 
 1 _May be summoned only into an aquatic or watery environment._

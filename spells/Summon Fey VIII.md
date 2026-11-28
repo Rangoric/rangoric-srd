@@ -41,8 +41,8 @@ As _[[rangoric-srd/spells/Summon Fey I|summon fey I]]_, except you can summon on
 
 **Table: Summon Fey (8th Level)** ^table-summon-fey-8
 
-| 8th Level                                                                                                                                            | Alignment |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [[rangoric-srd/monsters/Fey-born Creature\|Fey-born]] [[rangoric-srd/monsters/Dragonne\|dragonne]]                                                   | CG        |
-| [[rangoric-srd/monsters/Half-Fey Creature\|Half-fey]] [[rangoric-srd/monsters/monstrous-scorpion/Monstrous Scorpion, Huge\|Huge monstrous scorpion]] | CN        |
-| [[rangoric-srd/monsters/Shadow-born Creature\|Shadow-born]] [[rangoric-srd/monsters/Chaos Beast\|chaos beast]]                                       | CE        |
+| 8th Level                                                                                                                                             | Alignment |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [[rangoric-srd/monsters/Fey-born Creature\|Fey-born]] [[rangoric-srd/monsters/Dragonne\|dragonne]]                                                    | CG        |
+| [[rangoric-srd/monsters/Half-Fey Creature\|Half-fey]] [[rangoric-srd/monsters/monstrous-scorpions/Monstrous Scorpion, Huge\|Huge monstrous scorpion]] | CN        |
+| [[rangoric-srd/monsters/Shadow-born Creature\|Shadow-born]] [[rangoric-srd/monsters/Chaos Beast\|chaos beast]]                                        | CE        |

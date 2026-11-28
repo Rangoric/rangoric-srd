@@ -11,6 +11,6 @@ tags: [rangoric, rangoric/feat, racial]
 
 Your vocal chords are especially tough and allow you to croak more often.
 
-**Prerequisites**: [[rangoric-srd/monsters/boggard/Boggard|Boggard]], [[rangoric-srd/monsters/boggard/Boggard#^terrifying-croak|terrifying croak]].
+**Prerequisites**: [[rangoric-srd/monsters/boggards/Boggard|Boggard]], [[rangoric-srd/monsters/boggards/Boggard#^terrifying-croak|terrifying croak]].
 
-**Benefit**: You gain one extra use of [[rangoric-srd/monsters/boggard/Boggard#^terrifying-croak|terrifying croak]] per hour. If your recharge time is less than 1 hour, you instead gain an extra use each time the ability recharges.
+**Benefit**: You gain one extra use of [[rangoric-srd/monsters/boggards/Boggard#^terrifying-croak|terrifying croak]] per hour. If your recharge time is less than 1 hour, you instead gain an extra use each time the ability recharges.

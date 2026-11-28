@@ -12,4 +12,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “black flame knives”, on the Special Attacks line.
 
-A vrolikai can manifest daggers made of crystallized black flames in each of its four hands as a free action. These weapons function as +1 daggers that bestow one permanent negative level on a successful hit. It attacks at +17 vs Fortitude, and a miss negates the negative level, although on a critical hit it hits automatically. The attack bonus is Charisma-based. The [[rangoric-srd/monsters/demon/Vrolikai|vrolikai]] has it.
+A vrolikai can manifest daggers made of crystallized black flames in each of its four hands as a free action. These weapons function as +1 daggers that bestow one permanent negative level on a successful hit. It attacks at +17 vs Fortitude, and a miss negates the negative level, although on a critical hit it hits automatically. The attack bonus is Charisma-based. The [[rangoric-srd/monsters/demons/Vrolikai|vrolikai]] has it.

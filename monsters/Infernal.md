@@ -75,7 +75,7 @@ At will - [[rangoric-srd/spells/Animate Dead|animate dead]], [[rangoric-srd/spel
 
 1/day - [[rangoric-srd/spells/Fire Storm|fire storm]], [[rangoric-srd/spells/Hellball|hellball]] (epic spell), [[rangoric-srd/spells/Implosion|implosion]], [[rangoric-srd/spells/Meteor Swarm|meteor swarm]].
 
-Summon Fiend (Sp): An infernal can summon four [[rangoric-srd/monsters/demon/Balor|balors]] or four [[rangoric-srd/monsters/devil/Pit Fiend|pit fiends]] per day (lawful infernals summon pit fiends, and chaotic infernals summon balors).
+Summon Fiend (Sp): An infernal can summon four [[rangoric-srd/monsters/demons/Balor|balors]] or four [[rangoric-srd/monsters/devils/Pit Fiend|pit fiends]] per day (lawful infernals summon pit fiends, and chaotic infernals summon balors).
 
 Abomination Traits: Immune to polymorphing, [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|petrification]], and other form-altering attacks; not subject to [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]], ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]], or ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]], or death from massive damage; immune to mind-affecting effects; [[rangoric-srd/monsters/abilities/Resistance|fire resistance]] 20; [[rangoric-srd/monsters/abilities/Resistance|cold resistance]] 20; [[rangoric-srd/spells/Nondetection|nondetection]]; [[rangoric-srd/spells/True Seeing|true seeing]] at will; [[rangoric-srd/monsters/abilities/Blindsight|blindsight]] 500 ft.; telepathy out to 1,000 ft.
 

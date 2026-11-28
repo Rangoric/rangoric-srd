@@ -12,4 +12,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “shattering blow”, on the Special Qualities line.
 
-A slag giant who makes a full attack against a metal or stone object or structure deals double damage. The [[rangoric-srd/monsters/giant/Slag Giant|slag giant]] has it.
+A slag giant who makes a full attack against a metal or stone object or structure deals double damage. The [[rangoric-srd/monsters/giants/Slag Giant|slag giant]] has it.

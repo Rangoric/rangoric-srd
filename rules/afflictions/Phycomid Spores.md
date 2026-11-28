@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/affliction]
 
 # Phycomid Spores
 
-A disease; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the spores of the [[rangoric-srd/monsters/fungus/Phycomid|phycomid]]; a disease whose course runs as fast as a poison's, and which like a poison burns out after a time.
+A disease; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the spores of the [[rangoric-srd/monsters/fungi/Phycomid|phycomid]]; a disease whose course runs as fast as a poison's, and which like a poison burns out after a time.
 
 - **Type**: disease, injury or ingested
 - **Attack**: +5 vs Fortitude

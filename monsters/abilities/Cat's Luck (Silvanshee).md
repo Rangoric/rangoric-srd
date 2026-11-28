@@ -12,4 +12,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “cat's luck”, on the Special Qualities line.
 
-A silvanshee adds its Charisma modifier as a luck bonus to all its defenses. Once per day as a standard action, it can also grant this bonus to one ally within 30 feet for 10 minutes. The [[rangoric-srd/monsters/agathion/Silvanshee|silvanshee]] has it.
+A silvanshee adds its Charisma modifier as a luck bonus to all its defenses. Once per day as a standard action, it can also grant this bonus to one ally within 30 feet for 10 minutes. The [[rangoric-srd/monsters/agathions/Silvanshee|silvanshee]] has it.

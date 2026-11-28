@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/affliction]
 
 # Pit Fiend Venom
 
-A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the [[rangoric-srd/monsters/devil/Pit Fiend|pit fiend]]'s bite.
+A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the [[rangoric-srd/monsters/devils/Pit Fiend|pit fiend]]'s bite.
 
 - **Type**: poison, injury
 - **Attack**: +22 vs Fortitude

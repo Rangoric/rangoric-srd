@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +2
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Multiweapon Fighting|Multiweapon Fighting]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (shobhad longrifle)
 - **Environment**: Cold deserts or mountains
-- **Organization**: Solitary, pair, raiding party (3–19), or clan (20 or more plus 1 sergeant of 3rd–4th level per 10 adults and 1 leader of 5th–7th level), plus mounts (use statistics for [[rangoric-srd/monsters/dinosaur/Ankylosaurus|ankylosaurus]]).
+- **Organization**: Solitary, pair, raiding party (3–19), or clan (20 or more plus 1 sergeant of 3rd–4th level per 10 adults and 1 leader of 5th–7th level), plus mounts (use statistics for [[rangoric-srd/monsters/dinosaurs/Ankylosaurus|ankylosaurus]]).
 - **Challenge Rating**: 4
 - **Treasure**: NPC gear (hide armor, 2 longswords, 2 javelins, shobhad longrifle with 20 bullets, other treasure)
 - **Alignment**: Usually neutral

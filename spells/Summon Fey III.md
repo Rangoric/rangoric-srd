@@ -49,4 +49,4 @@ As _[[rangoric-srd/spells/Summon Fey I|summon fey I]]_, except you can summon on
 | -------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | [[rangoric-srd/monsters/Fey-born Creature\|Fey-born]] [[rangoric-srd/monsters/Leopard\|leopard]]                                 | CG        |
 | [[rangoric-srd/monsters/Half-Fey Creature\|Half-fey]] [[rangoric-srd/monsters/Giant Bombardier Beetle\|giant bombardier beetle]] | CN        |
-| [[rangoric-srd/monsters/Shadow-born Creature\|Shadow-born]] [[rangoric-srd/monsters/dire-animal/Dire Rat\|dire rat]]             | CE        |
+| [[rangoric-srd/monsters/Shadow-born Creature\|Shadow-born]] [[rangoric-srd/monsters/dire-animals/Dire Rat\|dire rat]]            | CE        |

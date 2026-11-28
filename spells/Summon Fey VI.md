@@ -44,11 +44,11 @@ As _[[rangoric-srd/spells/Summon Fey I|summon fey I]]_, except you can summon on
 
 **Table: Summon Fey (6th Level)** ^table-summon-fey-6
 
-| 6th Level                                                                                                           | Alignment |
-| ------------------------------------------------------------------------------------------------------------------- | --------- |
-| [[rangoric-srd/monsters/Fey-born Creature\|Fey-born]] [[rangoric-srd/monsters/dire-animal/Dire Boar\|dire boar]]    | CG        |
-| [[rangoric-srd/monsters/Fey-born Creature\|Fey-born]] [[rangoric-srd/monsters/whale/Orca\|orca whale]]              | CG        |
-| [[rangoric-srd/monsters/Half-Fey Creature\|Half-fey]] [[rangoric-srd/monsters/dire-animal/Dire Ape\|dire ape]]      | CN        |
-| [[rangoric-srd/monsters/Half-Fey Creature\|Half-fey]] [[rangoric-srd/monsters/snake/Snake, Huge Viper\|Huge viper]] | CN        |
-| [[rangoric-srd/monsters/Shadow-born Creature\|Shadow-born]] [[rangoric-srd/monsters/barghest/Barghest\|barghest]]   | CE        |
-| [[rangoric-srd/monsters/Shadow-born Creature\|Shadow-born]] [[rangoric-srd/monsters/Ettercap\|ettercap]]            | CE        |
+| 6th Level                                                                                                            | Alignment |
+| -------------------------------------------------------------------------------------------------------------------- | --------- |
+| [[rangoric-srd/monsters/Fey-born Creature\|Fey-born]] [[rangoric-srd/monsters/dire-animals/Dire Boar\|dire boar]]    | CG        |
+| [[rangoric-srd/monsters/Fey-born Creature\|Fey-born]] [[rangoric-srd/monsters/whales/Orca\|orca whale]]              | CG        |
+| [[rangoric-srd/monsters/Half-Fey Creature\|Half-fey]] [[rangoric-srd/monsters/dire-animals/Dire Ape\|dire ape]]      | CN        |
+| [[rangoric-srd/monsters/Half-Fey Creature\|Half-fey]] [[rangoric-srd/monsters/snakes/Snake, Huge Viper\|Huge viper]] | CN        |
+| [[rangoric-srd/monsters/Shadow-born Creature\|Shadow-born]] [[rangoric-srd/monsters/barghests/Barghest\|barghest]]   | CE        |
+| [[rangoric-srd/monsters/Shadow-born Creature\|Shadow-born]] [[rangoric-srd/monsters/Ettercap\|ettercap]]             | CE        |

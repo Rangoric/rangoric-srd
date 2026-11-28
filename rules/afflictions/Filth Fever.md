@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/affliction]
 
 # Filth Fever
 
-A disease; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. [[rangoric-srd/monsters/dire-animal/Dire Rat|Dire rats]] and [[rangoric-srd/monsters/Otyugh|otyughs]] spread it. Those injured while in filthy surroundings might also catch it.
+A disease; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. [[rangoric-srd/monsters/dire-animals/Dire Rat|Dire rats]] and [[rangoric-srd/monsters/Otyugh|otyughs]] spread it. Those injured while in filthy surroundings might also catch it.
 
 - **Type**: disease, injury
 - **Attack**: +2 vs Fortitude

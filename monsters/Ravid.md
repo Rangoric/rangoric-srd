@@ -66,7 +66,7 @@ A ravid is about 7 feet long and weighs about 75 pounds.
 
 ### Combat
 
-Ravids fight only in self-defense. A ravid itself is not very powerful but is always accompanied by at least one [[rangoric-srd/monsters/animated-object/Animated Object|animated object]] that defends it.
+Ravids fight only in self-defense. A ravid itself is not very powerful but is always accompanied by at least one [[rangoric-srd/monsters/animated-objects/Animated Object|animated object]] that defends it.
 
 **Positive Energy Lash (Su)**: A ravid can make a touch attack or hit with a claw or tail slap attack to infuse a target with positive energy. The energy produces an unpleasant tingle in living creatures, and against undead foes (even incorporeal ones) it deals 2d10 points of damage.
 

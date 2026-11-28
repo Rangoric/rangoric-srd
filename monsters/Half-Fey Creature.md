@@ -65,7 +65,7 @@ The half-fey also appear as a player race: see [[rangoric-srd/races/Half-Fey|Hal
 
 ### Sample Half-Fey
 
-This example uses a [[rangoric-srd/monsters/goblin/Goblin|goblin]] as the base creature.
+This example uses a [[rangoric-srd/monsters/goblins/Goblin|goblin]] as the base creature.
 
 **Half-Fey/Half-Goblin**
 

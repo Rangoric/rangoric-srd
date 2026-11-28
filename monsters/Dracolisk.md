@@ -57,4 +57,4 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: —
 - **Level Adjustment**: —
 
-[[rangoric-srd/monsters/half-dragon/Half-Dragon|Half-dragons]] are only rarely the result of dragons mating with other creatures—most are the result of strange magical experiments. In most cases, a successful creation breeds true with others of its kind, as with the dreaded dracolisk.
+[[rangoric-srd/monsters/half-dragons/Half-Dragon|Half-dragons]] are only rarely the result of dragons mating with other creatures—most are the result of strange magical experiments. In most cases, a successful creation breeds true with others of its kind, as with the dreaded dracolisk.

@@ -91,7 +91,7 @@ Immunities (Ex): Demiliches are immune to cold, electricity, polymorph, and mind
 
 ### Creating a Demilich
 
-“Demilich” is a template that can be added to any [[rangoric-srd/monsters/lich/Lich|lich]]. It uses all the lich’s statistics and special abilities except as noted here. A demilich’s form is concentrated into a single portion of its original body, usually its skull. Part of the process of becoming a demilich includes the incorporation of costly gems into the retained body part; see Creating Soul Gems, below.
+“Demilich” is a template that can be added to any [[rangoric-srd/monsters/liches/Lich|lich]]. It uses all the lich’s statistics and special abilities except as noted here. A demilich’s form is concentrated into a single portion of its original body, usually its skull. Part of the process of becoming a demilich includes the incorporation of costly gems into the retained body part; see Creating Soul Gems, below.
 
 Size: Medium-size and Large liches become Diminutive demiliches, Huge liches become Small demiliches, Gargantuan liches become Medium-size demiliches, and Colossal liches become Large demiliches.
 

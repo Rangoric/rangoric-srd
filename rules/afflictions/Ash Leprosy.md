@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/affliction]
 
 # Ash Leprosy
 
-A disease; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is carried by the [[rangoric-srd/monsters/giant/Ash Giant|ash giant]], whose attacks expose any creature they strike to it. The attack bonus is Constitution-based.
+A disease; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is carried by the [[rangoric-srd/monsters/giants/Ash Giant|ash giant]], whose attacks expose any creature they strike to it. The attack bonus is Constitution-based.
 
 - **Type**: disease, injury
 - **Attack**: +13 vs Fortitude

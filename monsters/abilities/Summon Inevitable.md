@@ -12,4 +12,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Spell-Like]] (Sp). In a stat block_: “summon inevitable”, on the Special Attacks line.
 
-Once per day, four axiomites may join hands to summon a single [[rangoric-srd/monsters/inevitable/Zelekhut|zelekhut]] inevitable as a full-round action. The [[rangoric-srd/monsters/Axiomite|axiomite]] has it.
+Once per day, four axiomites may join hands to summon a single [[rangoric-srd/monsters/inevitables/Zelekhut|zelekhut]] inevitable as a full-round action. The [[rangoric-srd/monsters/Axiomite|axiomite]] has it.

@@ -207,7 +207,7 @@ _Traits_: A boggard has the following traits (unless otherwise noted in a creatu
 
 - A swim speed of 30 feet.
 
-- _Swamp Stride_, _Sticky Tongue_ and _Terrifying Croak_, as described in the [[rangoric-srd/monsters/boggard/Boggard|boggard]]'s entry.
+- _Swamp Stride_, _Sticky Tongue_ and _Terrifying Croak_, as described in the [[rangoric-srd/monsters/boggards/Boggard|boggard]]'s entry.
 
 - Except where otherwise noted, boggards speak Boggard.
 

@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/affliction]
 
 # Giant Tarantula Venom
 
-A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the [[rangoric-srd/monsters/spider/Giant Tarantula|giant tarantula]]'s bite.
+A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the [[rangoric-srd/monsters/spiders/Giant Tarantula|giant tarantula]]'s bite.
 
 - **Type**: poison, injury
 - **Attack**: +14 vs Fortitude

@@ -44,8 +44,8 @@ As _[[rangoric-srd/spells/Summon Fey I|summon fey I]]_, except you can summon on
 
 **Table: Summon Fey (4th Level)** ^table-summon-fey-4
 
-| 4th Level                                                                                                                  | Alignment |
-| -------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [[rangoric-srd/monsters/Fey-born Creature\|Fey-born]] [[rangoric-srd/monsters/archon/Lantern Archon\|lantern archon]]      | CG        |
-| [[rangoric-srd/monsters/Half-Fey Creature\|Half-fey]] [[rangoric-srd/monsters/dire-animal/Dire Weasel\|dire weasel]]       | CN        |
-| [[rangoric-srd/monsters/Shadow-born Creature\|Shadow-born]] [[rangoric-srd/monsters/dire-animal/Dire Badger\|dire badger]] | CE        |
+| 4th Level                                                                                                                   | Alignment |
+| --------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [[rangoric-srd/monsters/Fey-born Creature\|Fey-born]] [[rangoric-srd/monsters/archons/Lantern Archon\|lantern archon]]      | CG        |
+| [[rangoric-srd/monsters/Half-Fey Creature\|Half-fey]] [[rangoric-srd/monsters/dire-animals/Dire Weasel\|dire weasel]]       | CN        |
+| [[rangoric-srd/monsters/Shadow-born Creature\|Shadow-born]] [[rangoric-srd/monsters/dire-animals/Dire Badger\|dire badger]] | CE        |

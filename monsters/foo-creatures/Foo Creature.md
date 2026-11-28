@@ -8,7 +8,7 @@ tags: [rangoric, rangoric/monster]
 
 # Foo Creature
 
-Foo creatures are benevolent guardian spirits that hail originally from the Outer Plane of [[rangoric-srd/rules/planes/Nirvana|Nirvana]], where they spend their days cavorting in the idyllic wilds or aiding that realm’s inhabitants, particularly the [[rangoric-srd/monsters/agathion/Agathion|agathions]], in their work. Yet while they come from Nirvana, foo creatures are often encountered on the Material Plane as well, for they are favorite conjurations of many cultures and religions.
+Foo creatures are benevolent guardian spirits that hail originally from the Outer Plane of [[rangoric-srd/rules/planes/Nirvana|Nirvana]], where they spend their days cavorting in the idyllic wilds or aiding that realm’s inhabitants, particularly the [[rangoric-srd/monsters/agathions/Agathion|agathions]], in their work. Yet while they come from Nirvana, foo creatures are often encountered on the Material Plane as well, for they are favorite conjurations of many cultures and religions.
 
 Countless species of foo creatures exist—for if an animal dwells upon the Material Plane, it is certain that somewhere in the vast wilds of Nirvana its spiritual double frolics and plays. Nonetheless, certain foo creatures are more common than others, and the most often encountered of all are dogs and lions.
 

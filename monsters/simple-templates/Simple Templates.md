@@ -15,9 +15,9 @@ All simple templates have two categories of changes. The “quick rules” prese
 ## The Simple Templates
 
 - [[rangoric-srd/monsters/simple-templates/Advanced Creature|Advanced Creature]]
-- [[rangoric-srd/monsters/celestial-creature/Alternate Celestial Creature|Alternate Celestial Creature]]
+- [[rangoric-srd/monsters/celestial-creatures/Alternate Celestial Creature|Alternate Celestial Creature]]
 - [[rangoric-srd/monsters/simple-templates/Entropic Creature|Entropic Creature]]
-- [[rangoric-srd/monsters/fiendish-creature/Alternate Fiendish Creature|Alternate Fiendish Creature]]
+- [[rangoric-srd/monsters/fiendish-creatures/Alternate Fiendish Creature|Alternate Fiendish Creature]]
 - [[rangoric-srd/monsters/simple-templates/Giant Creature|Giant Creature]]
 - [[rangoric-srd/monsters/simple-templates/Resolute Creature|Resolute Creature]]
 - [[rangoric-srd/monsters/simple-templates/Young Creature|Young Creature]]
@@ -42,9 +42,9 @@ These give a creature a class’s key features without adding class levels; how 
 
 Some creatures have simple templates of their own, in their notes:
 
-- [[rangoric-srd/monsters/ogre/Giantkin Ogre|Giantkin Ogre]] (an inherited template with rebuild rules only)
-- [[rangoric-srd/monsters/ogre/Pickin Ogre|Pickin Ogre]]
-- [[rangoric-srd/monsters/ogre/Shaggra Ogre|Shaggra Ogre]]
-- [[rangoric-srd/monsters/ogre/Thicken Ogre|Thicken Ogre]]
-- [[rangoric-srd/monsters/vampire/Addle-Minded|Addle-Minded]] (vampire minions)
-- [[rangoric-srd/monsters/vampire/Repeatedly Drained|Repeatedly Drained]] (vampire minions)
+- [[rangoric-srd/monsters/ogres/Giantkin Ogre|Giantkin Ogre]] (an inherited template with rebuild rules only)
+- [[rangoric-srd/monsters/ogres/Pickin Ogre|Pickin Ogre]]
+- [[rangoric-srd/monsters/ogres/Shaggra Ogre|Shaggra Ogre]]
+- [[rangoric-srd/monsters/ogres/Thicken Ogre|Thicken Ogre]]
+- [[rangoric-srd/monsters/vampires/Addle-Minded|Addle-Minded]] (vampire minions)
+- [[rangoric-srd/monsters/vampires/Repeatedly Drained|Repeatedly Drained]] (vampire minions)

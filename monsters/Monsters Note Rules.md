@@ -10,6 +10,8 @@ tags: [rangoric, rangoric/note-rules]
 
 What the notes in `monsters` look like. The whole-SRD rules are in the [README](../README.md#note-rules); Sweep and the "Check notes" workflow check both.
 
+Subfolders are named in the plural (`devils/`, `dwarves/`); a word whose plural is the same keeps it (`drow/`, `lizardfolk/`, `clockwork/`). A group note keeps its own name (`devils/Devil`).
+
 ## monster
 
 | Key                 | Required | Values         |

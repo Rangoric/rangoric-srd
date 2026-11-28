@@ -9,7 +9,7 @@ tags: [rangoric, rangoric/overview]
 ## Psionic Monsters
 
 [[rangoric-srd/monsters/Aboleth, Psionic|Aboleth, Psionic]]  
-[[rangoric-srd/monsters/astral-construct/Astral Construct (Monster)|Astral Construct]]  
+[[rangoric-srd/monsters/astral-constructs/Astral Construct (Monster)|Astral Construct]]  
 [[rangoric-srd/monsters/Blue|Blue]]  
 [[rangoric-srd/monsters/Brain Mole|Brain Mole]]  
 [[rangoric-srd/monsters/Caller in Darkness|Caller in Darkness]]  
@@ -126,7 +126,7 @@ Powers that can’t be augmented, or that are manifested at their normal minimum
 Some creatures may have particular powers that are manifested at a higher or lower level than their normal manifester level. In such cases, the manifester level is given in the parenthetical information following the power name.
 
 - [[rangoric-srd/monsters/Aboleth, Psionic|Aboleth, Psionic]]
-- [[rangoric-srd/monsters/astral-construct/Astral Construct (Monster)|Astral Construct (Monster)]]
+- [[rangoric-srd/monsters/astral-constructs/Astral Construct (Monster)|Astral Construct (Monster)]]
 - [[rangoric-srd/monsters/Blue|Blue]]
 - [[rangoric-srd/monsters/Brain Mole|Brain Mole]]
 - [[rangoric-srd/monsters/Caller in Darkness|Caller in Darkness]]

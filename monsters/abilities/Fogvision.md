@@ -12,4 +12,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “fogvision”, on the Special Qualities line.
 
-A mist drake can see normally through any form of natural or magical mist, fog, or precipitation. The [[rangoric-srd/monsters/drake/Mist Drake|mist drake]] has it.
+A mist drake can see normally through any form of natural or magical mist, fog, or precipitation. The [[rangoric-srd/monsters/drakes/Mist Drake|mist drake]] has it.

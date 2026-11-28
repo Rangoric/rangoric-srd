@@ -118,9 +118,9 @@ Certain creatures are created by adding a template to an existing creature. A te
 
 ##### Acquired and Inherited Templates
 
-Some templates can be added to creatures anytime. Templates such as these are referred to as acquired templates, indicating that the creature did not always have the attributes of the template. Some, like the [[rangoric-srd/monsters/lich/Lich|lich]], are the result of a creature’s choice and desire to transform; others, like the [[rangoric-srd/monsters/ghost/Ghost|ghost]], are the result of an external force acting upon it (when a tormented person dies and becomes a ghost, for example).
+Some templates can be added to creatures anytime. Templates such as these are referred to as acquired templates, indicating that the creature did not always have the attributes of the template. Some, like the [[rangoric-srd/monsters/liches/Lich|lich]], are the result of a creature’s choice and desire to transform; others, like the [[rangoric-srd/monsters/ghosts/Ghost|ghost]], are the result of an external force acting upon it (when a tormented person dies and becomes a ghost, for example).
 
-Other templates, known as inherited templates, are part of a creature from the beginning of its existence. Creatures are born with these templates, such as the [[rangoric-srd/monsters/half-dragon/Half-Dragon|half-dragon]] and [[rangoric-srd/monsters/half-fiend/Half-Fiend|half-fiend]] templates, or created with them, and have never known life without them.
+Other templates, known as inherited templates, are part of a creature from the beginning of its existence. Creatures are born with these templates, such as the [[rangoric-srd/monsters/half-dragons/Half-Dragon|half-dragon]] and [[rangoric-srd/monsters/half-fiends/Half-Fiend|half-fiend]] templates, or created with them, and have never known life without them.
 
 It’s possible for a certain kind of template to be of either type.
 

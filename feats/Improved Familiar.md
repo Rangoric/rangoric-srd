@@ -14,29 +14,29 @@ Prerequisites: Ability to acquire a new familiar, compatible alignment, sufficie
 
 Benefit: When choosing a familiar, the creatures listed below are also available to the spellcaster. Alternatively, the spellcaster may choose a familiar from the standard list that also has the [[rangoric-srd/monsters/Fey-born Creature|fey-born]] template. The spellcaster may choose a familiar with an alignment up to one step away on each of the alignment axes (lawful through chaotic, good through evil).
 
-| Familiar                                                           | Alignment       | Arcane Spellcaster Level |
-| ------------------------------------------------------------------ | --------------- | ------------------------ |
-| [[rangoric-srd/monsters/inevitable/Arbiter\|Arbiter inevitable]]   | Lawful Neutral  | 7th                      |
-| [[rangoric-srd/monsters/devil/kytons/Augur Kyton\|Augur kyton]]    | Lawful Evil     | 7th                      |
-| [[rangoric-srd/monsters/Brownie\|Brownie]]                         | Neutral         | 7th                      |
-| [[rangoric-srd/monsters/daemons/Cacodaemon\|Cacodaemon daemon]]    | Neutral Evil    | 7th                      |
-| [[rangoric-srd/monsters/angel/Angel, Cassisian\|Cassisian angel]]  | Neutral Good    | 7th                      |
-| [[rangoric-srd/monsters/qlippoth/Cythnigot\|Cythnigot qlippoth]]   | Chaotic Evil    | 7th                      |
-| [[rangoric-srd/monsters/dire-animal/Dire Rat\|Dire rat]]           | Neutral         | 3rd                      |
-| Entropic monkey (a)                                                | Chaotic Neutral | 3rd                      |
-| Formian worker                                                     | Lawful Neutral  | 7th                      |
-| Imp                                                                | Lawful Evil     | 7th                      |
-| [[rangoric-srd/monsters/azata/Lyrakien\|Lyrakien azata]]           | Chaotic Good    | 7th                      |
-| [[rangoric-srd/monsters/gremlin/Nuglub\|Nuglub gremlin]]           | Chaotic Evil    | 7th                      |
-| [[rangoric-srd/monsters/aeons/Paracletus\|Paracletus aeon]]        | Neutral         | 7th                      |
-| [[rangoric-srd/monsters/sprite/Pixie\|Pixie]]                      | Neutral Good    | 8th                      |
-| Pseudodragon                                                       | Neutral Good    | 7th                      |
-| Quasit                                                             | Chaotic Evil    | 7th                      |
-| Resolute owl (a)                                                   | Lawful Neutral  | 3rd                      |
-| Shocker lizard                                                     | Neutral         | 5th                      |
-| [[rangoric-srd/monsters/agathion/Silvanshee\|Silvanshee agathion]] | Neutral Good    | 7th                      |
-| Stirge                                                             | Neutral         | 5th                      |
-| [[rangoric-srd/monsters/proteans/Voidworm\|Voidworm protean]]      | Chaotic Neutral | 7th                      |
+| Familiar                                                            | Alignment       | Arcane Spellcaster Level |
+| ------------------------------------------------------------------- | --------------- | ------------------------ |
+| [[rangoric-srd/monsters/inevitables/Arbiter\|Arbiter inevitable]]   | Lawful Neutral  | 7th                      |
+| [[rangoric-srd/monsters/devils/kytons/Augur Kyton\|Augur kyton]]    | Lawful Evil     | 7th                      |
+| [[rangoric-srd/monsters/Brownie\|Brownie]]                          | Neutral         | 7th                      |
+| [[rangoric-srd/monsters/daemons/Cacodaemon\|Cacodaemon daemon]]     | Neutral Evil    | 7th                      |
+| [[rangoric-srd/monsters/angels/Angel, Cassisian\|Cassisian angel]]  | Neutral Good    | 7th                      |
+| [[rangoric-srd/monsters/qlippoth/Cythnigot\|Cythnigot qlippoth]]    | Chaotic Evil    | 7th                      |
+| [[rangoric-srd/monsters/dire-animals/Dire Rat\|Dire rat]]           | Neutral         | 3rd                      |
+| Entropic monkey (a)                                                 | Chaotic Neutral | 3rd                      |
+| Formian worker                                                      | Lawful Neutral  | 7th                      |
+| Imp                                                                 | Lawful Evil     | 7th                      |
+| [[rangoric-srd/monsters/azatas/Lyrakien\|Lyrakien azata]]           | Chaotic Good    | 7th                      |
+| [[rangoric-srd/monsters/gremlins/Nuglub\|Nuglub gremlin]]           | Chaotic Evil    | 7th                      |
+| [[rangoric-srd/monsters/aeons/Paracletus\|Paracletus aeon]]         | Neutral         | 7th                      |
+| [[rangoric-srd/monsters/sprites/Pixie\|Pixie]]                      | Neutral Good    | 8th                      |
+| Pseudodragon                                                        | Neutral Good    | 7th                      |
+| Quasit                                                              | Chaotic Evil    | 7th                      |
+| Resolute owl (a)                                                    | Lawful Neutral  | 3rd                      |
+| Shocker lizard                                                      | Neutral         | 5th                      |
+| [[rangoric-srd/monsters/agathions/Silvanshee\|Silvanshee agathion]] | Neutral Good    | 7th                      |
+| Stirge                                                              | Neutral         | 5th                      |
+| [[rangoric-srd/monsters/proteans/Voidworm\|Voidworm protean]]       | Chaotic Neutral | 7th                      |
 
 (a) Or other entropic or resolute animal from the standard familiar list.
 

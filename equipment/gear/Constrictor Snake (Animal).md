@@ -13,6 +13,6 @@ tags: [rangoric, rangoric/gear]
 
 These Medium reptiles are found chiefly in warm climates. Somewhat aggressive, constrictors squeeze their prey to death before consuming it. Due to their size, these snakes are less popular for traveling spellcasters, but they can be quite helpful in a laboratory.
 
-The animal is described in [[rangoric-srd/monsters/snake/Constrictor Snake|Constrictor Snake]].
+The animal is described in [[rangoric-srd/monsters/snakes/Constrictor Snake|Constrictor Snake]].
 
 Price 5 gp; Weight 60 lb.

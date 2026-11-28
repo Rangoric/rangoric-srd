@@ -29,23 +29,23 @@ _Conjuration (Summoning) \[see text for summon monster I\]_
 
 This spell functions like [[rangoric-srd/spells/Summon Monster I|summon monster I]], except that you can summon one creature from the 3rd-level list, 1d3 creatures of the same kind from the 2nd-level list, or 1d4+1 creatures of the same kind from the 1st-level list.
 
-| 3rd Level                                                                                                                                                            |     |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| [[rangoric-srd/monsters/celestial-creature/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/Bear, Black\|black bear]]                                         | LG  |
-| [[rangoric-srd/monsters/celestial-creature/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/Bison\|bison]]                                                    | NG  |
-| [[rangoric-srd/monsters/celestial-creature/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/dire-animal/Dire Badger\|dire badger]]                            | CG  |
-| [[rangoric-srd/monsters/celestial-creature/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/Hippogriff\|Hippogriff]]                                          | CG  |
-| [[rangoric-srd/monsters/elemental/Elemental\|Elemental, Small (any)]]                                                                                                | N   |
-| [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/Ape\|ape]]                                                           | LE  |
-| [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/dire-animal/Dire Weasel\|dire weasel]]                               | LE  |
-| [[rangoric-srd/monsters/hell-hound/Hell Hound\|Hell hound]]                                                                                                          | LE  |
-| [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/snake/Constrictor Snake\|snake, constrictor]]                        | LE  |
-| [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/Boar\|boar]]                                                         | NE  |
-| [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/dire-animal/Dire Bat\|dire bat]]                                     | NE  |
-| [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/monstrous-centipede/Monstrous Centipede\|monstrous centipede, Huge]] | NE  |
-| [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/Crocodile\|crocodile]]                                               | CE  |
-| [[rangoric-srd/monsters/demon/Dretch\|Dretch (demon)]]                                                                                                               | CE  |
-| [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/snake/Viper Snake\|snake, Large viper]]                              | CE  |
-| [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/Wolverine\|wolverine]]                                               | CE  |
+| 3rd Level                                                                                                                                                              |     |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| [[rangoric-srd/monsters/celestial-creatures/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/Bear, Black\|black bear]]                                          | LG  |
+| [[rangoric-srd/monsters/celestial-creatures/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/Bison\|bison]]                                                     | NG  |
+| [[rangoric-srd/monsters/celestial-creatures/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/dire-animals/Dire Badger\|dire badger]]                            | CG  |
+| [[rangoric-srd/monsters/celestial-creatures/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/Hippogriff\|Hippogriff]]                                           | CG  |
+| [[rangoric-srd/monsters/elementals/Elemental\|Elemental, Small (any)]]                                                                                                 | N   |
+| [[rangoric-srd/monsters/fiendish-creatures/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/Ape\|ape]]                                                            | LE  |
+| [[rangoric-srd/monsters/fiendish-creatures/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/dire-animals/Dire Weasel\|dire weasel]]                               | LE  |
+| [[rangoric-srd/monsters/hell-hounds/Hell Hound\|Hell hound]]                                                                                                           | LE  |
+| [[rangoric-srd/monsters/fiendish-creatures/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/snakes/Constrictor Snake\|snake, constrictor]]                        | LE  |
+| [[rangoric-srd/monsters/fiendish-creatures/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/Boar\|boar]]                                                          | NE  |
+| [[rangoric-srd/monsters/fiendish-creatures/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/dire-animals/Dire Bat\|dire bat]]                                     | NE  |
+| [[rangoric-srd/monsters/fiendish-creatures/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/monstrous-centipedes/Monstrous Centipede\|monstrous centipede, Huge]] | NE  |
+| [[rangoric-srd/monsters/fiendish-creatures/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/Crocodile\|crocodile]]                                                | CE  |
+| [[rangoric-srd/monsters/demons/Dretch\|Dretch (demon)]]                                                                                                                | CE  |
+| [[rangoric-srd/monsters/fiendish-creatures/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/snakes/Viper Snake\|snake, Large viper]]                              | CE  |
+| [[rangoric-srd/monsters/fiendish-creatures/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/Wolverine\|wolverine]]                                                | CE  |
 
 1 _May be summoned only into an aquatic or watery environment._

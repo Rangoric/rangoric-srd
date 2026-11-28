@@ -75,7 +75,7 @@ Psi-Like **Abilities:** At will - [[rangoric-srd/powers/Brain Lock|brain lock]] 
 
 Spell-Like **Abilities:** At will - [[rangoric-srd/spells/Deeper Darkness|deeper darkness]], [[rangoric-srd/spells/Desecrate|desecrate]], [[rangoric-srd/spells/Detect Good|detect good]], [[rangoric-srd/spells/Dispel Good|dispel good]] (+10), [[rangoric-srd/spells/Teleport, Greater|greater teleport]] (self plus 50 pounds of objects only), [[rangoric-srd/spells/Magic Circle against Good|magic circle against good]] (+8 vs Will), [[rangoric-srd/spells/Unholy Blight|unholy blight]] (+9 vs Will). Caster level 9th. The attack bonuses are Charisma-based.
 
-Summon Demon (Sp): Once per day a cerebrilith can attempt to summon 4d6 [[rangoric-srd/monsters/demon/Dretch|dretches]] or another cerebrilith with a 35% chance of success. This ability is equivalent to a 4th-level spell.
+Summon Demon (Sp): Once per day a cerebrilith can attempt to summon 4d6 [[rangoric-srd/monsters/demons/Dretch|dretches]] or another cerebrilith with a 35% chance of success. This ability is equivalent to a 4th-level spell.
 
 Outsider Traits: A cerebrilith cannot be raised, reincarnated or resurrected (though a [[rangoric-srd/spells/Limited Wish|limited wish]], [[rangoric-srd/spells/Wish|wish]], [[rangoric-srd/spells/Miracle|miracle]], or [[rangoric-srd/spells/True Resurrection|true resurrection]] spell can restore life). It has darkvision out to 60 feet.
 

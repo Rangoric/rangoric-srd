@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/affliction]
 
 # Nereid Poison
 
-A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the poison of the [[rangoric-srd/monsters/nymph/Nereid|nereid]].
+A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the poison of the [[rangoric-srd/monsters/nymphs/Nereid|nereid]].
 
 - **Type**: poison, contact
 - **Attack**: +13 vs Fortitude

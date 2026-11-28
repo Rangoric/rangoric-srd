@@ -12,4 +12,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “divine insight”, on the Special Qualities line.
 
-A draconal adds its Charisma bonus as an insight bonus to Armor Class. The [[rangoric-srd/monsters/agathion/Draconal|draconal]] has it.
+A draconal adds its Charisma bonus as an insight bonus to Armor Class. The [[rangoric-srd/monsters/agathions/Draconal|draconal]] has it.

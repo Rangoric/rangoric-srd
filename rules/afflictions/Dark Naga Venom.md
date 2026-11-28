@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/affliction]
 
 # Dark Naga Venom
 
-A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the [[rangoric-srd/monsters/naga/Dark Naga|dark naga]].
+A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the [[rangoric-srd/monsters/nagas/Dark Naga|dark naga]].
 
 - **Type**: poison, injury
 - **Attack**: +9 vs Fortitude

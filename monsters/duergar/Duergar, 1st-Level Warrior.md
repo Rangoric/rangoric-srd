@@ -28,7 +28,7 @@ treasure: "NPC Gear (chainmail, heavy steel shield, warhammer, light crossbow [2
 alignment: "Often lawful evil"
 advancement: "By character class"
 level-adjustment: "+1"
-group: "[[rangoric-srd/monsters/dwarf/Dwarf|Dwarf]]"
+group: "[[rangoric-srd/monsters/dwarves/Dwarf|Dwarf]]"
 status: draft
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/monster]

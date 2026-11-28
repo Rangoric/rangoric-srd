@@ -58,7 +58,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: —
 - **Level Adjustment**: —
 
-The devilbound creature above is a devilbound sorcerer, a human with 13 levels of [[rangoric-srd/classes/Sorcerer|sorcerer]], bound to a [[rangoric-srd/monsters/devil/Pit Fiend|pit fiend]].
+The devilbound creature above is a devilbound sorcerer, a human with 13 levels of [[rangoric-srd/classes/Sorcerer|sorcerer]], bound to a [[rangoric-srd/monsters/devils/Pit Fiend|pit fiend]].
 
 A devilbound creature has made a bargain with a devil, promising a service and its soul in exchange for infernal power. The specific service depends on the devil's type and motivations, but always furthers the interests of Hell.
 
@@ -90,48 +90,48 @@ Breaking a contract with a devil is difficult and dangerous. Furthermore, as lon
 
 **Special Attacks**: The creature gains the [[rangoric-srd/monsters/abilities/Summon|summon]] universal monster ability and can summon a devil once per day with a 100% chance of success. The devil remains for 1 hour. The creature's caster level or Hit Dice, whichever is higher, determines the most powerful kind of devil it can summon and the effective spell level of this ability, according to the following table.
 
-| Caster Level | Devil                                                                  | Spell Level |
-| ------------ | ---------------------------------------------------------------------- | ----------- |
-| 3rd          | [[rangoric-srd/monsters/devil/Lemure\|Lemure]]                         | 2nd         |
-| 9th          | [[rangoric-srd/monsters/devil/Bearded Devil (Barbazu)\|Bearded devil]] | 5th         |
-| 11th         | [[rangoric-srd/monsters/devil/Erinyes\|Erinyes]]                       | 6th         |
-| 13th         | [[rangoric-srd/monsters/devil/Bone Devil (Osyluth)\|Bone devil]]       | 7th         |
-| 15th         | [[rangoric-srd/monsters/devil/Barbed Devil (Hamatula)\|Barbed devil]]  | 8th         |
-| 17th         | [[rangoric-srd/monsters/devil/Ice Devil (Gelugon)\|Ice devil]]         | 9th         |
+| Caster Level | Devil                                                                   | Spell Level |
+| ------------ | ----------------------------------------------------------------------- | ----------- |
+| 3rd          | [[rangoric-srd/monsters/devils/Lemure\|Lemure]]                         | 2nd         |
+| 9th          | [[rangoric-srd/monsters/devils/Bearded Devil (Barbazu)\|Bearded devil]] | 5th         |
+| 11th         | [[rangoric-srd/monsters/devils/Erinyes\|Erinyes]]                       | 6th         |
+| 13th         | [[rangoric-srd/monsters/devils/Bone Devil (Osyluth)\|Bone devil]]       | 7th         |
+| 15th         | [[rangoric-srd/monsters/devils/Barbed Devil (Hamatula)\|Barbed devil]]  | 8th         |
+| 17th         | [[rangoric-srd/monsters/devils/Ice Devil (Gelugon)\|Ice devil]]         | 9th         |
 
 **[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]**: The creature gains the following spell-like abilities, depending on the kind of devil it is bound to. The creature uses its Hit Dice or caster level, whichever is higher, as the caster level for its spell-like abilities. Attack bonuses are based on the creature's Intelligence, Wisdom, or Charisma, whichever is highest.
 
-**[[rangoric-srd/monsters/devil/Accuser Devil|Accuser]]**: 3/day—_[[rangoric-srd/spells/Clairaudience-Clairvoyance|clairaudience/clairvoyance]]_, _[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only), _[[rangoric-srd/spells/Summon Swarm|summon swarm]]_
+**[[rangoric-srd/monsters/devils/Accuser Devil|Accuser]]**: 3/day—_[[rangoric-srd/spells/Clairaudience-Clairvoyance|clairaudience/clairvoyance]]_, _[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only), _[[rangoric-srd/spells/Summon Swarm|summon swarm]]_
 
-**[[rangoric-srd/monsters/devil/Barbed Devil (Hamatula)|Barbed]]**: 3/day—_[[rangoric-srd/spells/Hold Monster|hold monster]]_
+**[[rangoric-srd/monsters/devils/Barbed Devil (Hamatula)|Barbed]]**: 3/day—_[[rangoric-srd/spells/Hold Monster|hold monster]]_
 
-**[[rangoric-srd/monsters/devil/Bearded Devil (Barbazu)|Bearded]]**: 3/day—_[[rangoric-srd/spells/Dimension Door|dimension door]]_, _[[rangoric-srd/spells/Rage|rage]]_
+**[[rangoric-srd/monsters/devils/Bearded Devil (Barbazu)|Bearded]]**: 3/day—_[[rangoric-srd/spells/Dimension Door|dimension door]]_, _[[rangoric-srd/spells/Rage|rage]]_
 
-**[[rangoric-srd/monsters/devil/Belier Devil|Belier]]**: 3/day—_[[rangoric-srd/spells/Charm Monster|charm monster]]_
+**[[rangoric-srd/monsters/devils/Belier Devil|Belier]]**: 3/day—_[[rangoric-srd/spells/Charm Monster|charm monster]]_
 
-**[[rangoric-srd/monsters/devil/Bone Devil (Osyluth)|Bone]]**: 3/day—_[[rangoric-srd/spells/Fly|fly]]_, _[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only)
+**[[rangoric-srd/monsters/devils/Bone Devil (Osyluth)|Bone]]**: 3/day—_[[rangoric-srd/spells/Fly|fly]]_, _[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only)
 
-**[[rangoric-srd/monsters/devil/Contract Devil|Contract]]**: 3/day—_[[rangoric-srd/spells/Bestow Curse|bestow curse]]_, _[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_, _[[rangoric-srd/spells/Locate Creature|locate creature]]_
+**[[rangoric-srd/monsters/devils/Contract Devil|Contract]]**: 3/day—_[[rangoric-srd/spells/Bestow Curse|bestow curse]]_, _[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_, _[[rangoric-srd/spells/Locate Creature|locate creature]]_
 
-**[[rangoric-srd/monsters/devil/Drowning Devil|Drowning]]**: 3/day—_[[rangoric-srd/spells/Hydraulic Push|hydraulic push]]_,_[[rangoric-srd/spells/Water Breathing|water breathing]]_
+**[[rangoric-srd/monsters/devils/Drowning Devil|Drowning]]**: 3/day—_[[rangoric-srd/spells/Hydraulic Push|hydraulic push]]_,_[[rangoric-srd/spells/Water Breathing|water breathing]]_
 
-**[[rangoric-srd/monsters/devil/Erinyes|Erinyes]]**: 3/day—_[[rangoric-srd/spells/Fear|fear]]_ (single target), _[[rangoric-srd/spells/Unholy Blight|unholy blight]]_
+**[[rangoric-srd/monsters/devils/Erinyes|Erinyes]]**: 3/day—_[[rangoric-srd/spells/Fear|fear]]_ (single target), _[[rangoric-srd/spells/Unholy Blight|unholy blight]]_
 
-**[[rangoric-srd/monsters/devil/Handmaiden Devil|Handmaiden]]**: 3/day—_[[rangoric-srd/spells/Black Tentacles|black tentacles]]_; 1/day—_[[rangoric-srd/spells/True Seeing|true seeing]]_
+**[[rangoric-srd/monsters/devils/Handmaiden Devil|Handmaiden]]**: 3/day—_[[rangoric-srd/spells/Black Tentacles|black tentacles]]_; 1/day—_[[rangoric-srd/spells/True Seeing|true seeing]]_
 
-**[[rangoric-srd/monsters/devil/Horned Devil (Cornugon)|Horned]]**: 3/day—_[[rangoric-srd/spells/Dispel Good|dispel good]]_, _[[rangoric-srd/spells/Fireball|fireball]]_
+**[[rangoric-srd/monsters/devils/Horned Devil (Cornugon)|Horned]]**: 3/day—_[[rangoric-srd/spells/Dispel Good|dispel good]]_, _[[rangoric-srd/spells/Fireball|fireball]]_
 
-**[[rangoric-srd/monsters/devil/Host Devil|Host]]**: 3/day—_[[rangoric-srd/spells/Dimension Door|dimension door]]_, _[[rangoric-srd/spells/Fly|fly]]_
+**[[rangoric-srd/monsters/devils/Host Devil|Host]]**: 3/day—_[[rangoric-srd/spells/Dimension Door|dimension door]]_, _[[rangoric-srd/spells/Fly|fly]]_
 
-**[[rangoric-srd/monsters/devil/Ice Devil (Gelugon)|Ice]]**: 3/day—_[[rangoric-srd/spells/Cone of Cold|cone of cold]]_, _[[rangoric-srd/spells/Ice Storm|ice storm]]_
+**[[rangoric-srd/monsters/devils/Ice Devil (Gelugon)|Ice]]**: 3/day—_[[rangoric-srd/spells/Cone of Cold|cone of cold]]_, _[[rangoric-srd/spells/Ice Storm|ice storm]]_
 
-**[[rangoric-srd/monsters/devil/Immolation Devil|Immolation]]**: 3/day—_[[rangoric-srd/spells/Fire Shield|fire shield]]_,_[[rangoric-srd/spells/Fireball|fireball]]_
+**[[rangoric-srd/monsters/devils/Immolation Devil|Immolation]]**: 3/day—_[[rangoric-srd/spells/Fire Shield|fire shield]]_,_[[rangoric-srd/spells/Fireball|fireball]]_
 
-**[[rangoric-srd/monsters/devil/Imp|Imp]]**: 3/day—_[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only), _[[rangoric-srd/spells/Polymorph|polymorph]]_ (self only, same size as base creature)
+**[[rangoric-srd/monsters/devils/Imp|Imp]]**: 3/day—_[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only), _[[rangoric-srd/spells/Polymorph|polymorph]]_ (self only, same size as base creature)
 
-**[[rangoric-srd/monsters/devil/Nemesis Devil|Nemesis]]**: 3/day—_[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Scorching Ray|scorching ray]]_; 1/day—_[[rangoric-srd/spells/Blasphemy|blasphemy]]_
+**[[rangoric-srd/monsters/devils/Nemesis Devil|Nemesis]]**: 3/day—_[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Scorching Ray|scorching ray]]_; 1/day—_[[rangoric-srd/spells/Blasphemy|blasphemy]]_
 
-**[[rangoric-srd/monsters/devil/Pit Fiend|Pit Fiend]]**: 3/day—quickened _[[rangoric-srd/spells/Fireball|fireball]], [[rangoric-srd/spells/Invisibility|invisibility]]_; 1/day—_[[rangoric-srd/spells/Blasphemy|blasphemy]]_
+**[[rangoric-srd/monsters/devils/Pit Fiend|Pit Fiend]]**: 3/day—quickened _[[rangoric-srd/spells/Fireball|fireball]], [[rangoric-srd/spells/Invisibility|invisibility]]_; 1/day—_[[rangoric-srd/spells/Blasphemy|blasphemy]]_
 
 **Abilities**: Adjust the base creature's ability scores according to the kind of devil it is bound to.
 

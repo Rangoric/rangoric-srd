@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/affliction]
 
 # Centipede Swarm Venom
 
-A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of a [[rangoric-srd/monsters/centipede/Centipede Swarm|centipede swarm]].
+A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of a [[rangoric-srd/monsters/centipedes/Centipede Swarm|centipede swarm]].
 
 - **Type**: poison, injury
 - **Attack**: +3 vs Fortitude

@@ -11,6 +11,6 @@ tags: [rangoric, rangoric/feat, racial]
 
 Your undead form ignores the limits of mortal physiology.
 
-**Prerequisites**: [[rangoric-srd/monsters/ghoul/Ghoul|Ghoul]].
+**Prerequisites**: [[rangoric-srd/monsters/ghouls/Ghoul|Ghoul]].
 
 **Benefit**: You are treated as one size smaller for the purpose of calculating penalties for squeezing, and gain a +2 competence bonus on Escape Artist checks. If you possess 10 or more Hit Dice, this bonus increases to +4.

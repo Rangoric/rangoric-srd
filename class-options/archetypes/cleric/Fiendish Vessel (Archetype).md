@@ -34,7 +34,7 @@ For the purposes of feats that affect channel energy, this ability counts as cha
 
 This ability replaces [[rangoric-srd/classes/Cleric#^cleric-channel-energy|channel energy]].
 
-**Fiendish Familiar**: At 3rd level, a fiendish vessel's patron rewards her with a fiendish servant. The fiendish vessel gains an [[rangoric-srd/monsters/devil/Imp|imp]], [[rangoric-srd/monsters/demon/Quasit|quasit]], or [[rangoric-srd/monsters/daemons/Cacodaemon|cacodaemon]] familiar based on the patron she worships. This ability is identical to the [[rangoric-srd/classes/Wizard|wizard]]'s [[rangoric-srd/classes/Wizard#^wizard-arcane-bond|arcane bond]] with a [[rangoric-srd/classes/Wizard#^familiar-basics|familiar]] and the [[rangoric-srd/feats/Improved Familiar|Improved Familiar]] feat, using the fiendish vessel's character level in place of the wizard level.
+**Fiendish Familiar**: At 3rd level, a fiendish vessel's patron rewards her with a fiendish servant. The fiendish vessel gains an [[rangoric-srd/monsters/devils/Imp|imp]], [[rangoric-srd/monsters/demons/Quasit|quasit]], or [[rangoric-srd/monsters/daemons/Cacodaemon|cacodaemon]] familiar based on the patron she worships. This ability is identical to the [[rangoric-srd/classes/Wizard|wizard]]'s [[rangoric-srd/classes/Wizard#^wizard-arcane-bond|arcane bond]] with a [[rangoric-srd/classes/Wizard#^familiar-basics|familiar]] and the [[rangoric-srd/feats/Improved Familiar|Improved Familiar]] feat, using the fiendish vessel's character level in place of the wizard level.
 
 This tiny fiend acts like a perverse, manifest moral compass. Furthermore, this familiar can act as a living divine focus and unholy symbol for her spellcasting if the fiendish vessel so desires, which means that when she uses her channel evil ability, its burst can be centered on the familiar instead, as long as that familiar is within 30 feet and line of sight. A fiendish vessel's familiar tends to be fawning and subservient to the fiendish vessel. Should her familiar die, the fiendish vessel's patron replaces the familiar with an identical one within 1 week, without the need for a special ritual. Furthermore, the fiendish familiar gains the following special abilities beyond the standard familiar special abilities.
 
@@ -44,7 +44,7 @@ _Fiendish Divination (Sp)_: At 9th level, the fiendish vessel can use a more pow
 
 _Extra Divination (Sp)_: At 13th level, the fiendish vessel can gain intelligence from her patron more often each day. She can use fiendish divination up to 3 times per day.
 
-**Fiendish Summoning**: When casting _[[rangoric-srd/spells/Summon Monster I|summon monster]]_ spells, a fiendish vessel is limited to summoning [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature|fiendish creatures]] and evil outsiders of the same alignment as her patron.
+**Fiendish Summoning**: When casting _[[rangoric-srd/spells/Summon Monster I|summon monster]]_ spells, a fiendish vessel is limited to summoning [[rangoric-srd/monsters/fiendish-creatures/Fiendish Creature|fiendish creatures]] and evil outsiders of the same alignment as her patron.
 
 ## Fiendish Patrons
 

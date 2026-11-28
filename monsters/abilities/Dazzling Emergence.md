@@ -12,4 +12,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “dazzling emergence”, on the Special Attacks line.
 
-During a surprise round, a desert drake can use Dazzling Display as a standard action. The [[rangoric-srd/monsters/drake/Desert Drake|desert drake]] has it.
+During a surprise round, a desert drake can use Dazzling Display as a standard action. The [[rangoric-srd/monsters/drakes/Desert Drake|desert drake]] has it.

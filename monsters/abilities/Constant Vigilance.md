@@ -12,4 +12,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “constant vigilance”, on the Special Qualities line.
 
-An arbiter gains a +4 bonus to recognize and disbelieve illusions created by creatures with the chaotic subtype or possessing the chaotic descriptor. The [[rangoric-srd/monsters/inevitable/Arbiter|arbiter]] has it.
+An arbiter gains a +4 bonus to recognize and disbelieve illusions created by creatures with the chaotic subtype or possessing the chaotic descriptor. The [[rangoric-srd/monsters/inevitables/Arbiter|arbiter]] has it.

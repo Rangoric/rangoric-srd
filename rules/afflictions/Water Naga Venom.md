@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/affliction]
 
 # Water Naga Venom
 
-A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the [[rangoric-srd/monsters/naga/Water Naga|water naga]].
+A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the [[rangoric-srd/monsters/nagas/Water Naga|water naga]].
 
 - **Type**: poison, injury
 - **Attack**: +9 vs Fortitude

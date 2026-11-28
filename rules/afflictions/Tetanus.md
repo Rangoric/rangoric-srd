@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/affliction]
 
 # Tetanus
 
-A disease; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is spread by the [[rangoric-srd/monsters/golem/Junk Golem|junk golem]]'s slam. The attack bonus is Constitution-based.
+A disease; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is spread by the [[rangoric-srd/monsters/golems/Junk Golem|junk golem]]'s slam. The attack bonus is Constitution-based.
 
 - **Type**: disease, injury
 - **Attack**: +2 vs Fortitude

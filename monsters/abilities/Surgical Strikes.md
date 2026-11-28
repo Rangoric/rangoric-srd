@@ -12,4 +12,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “surgical strikes”, on the Special Attacks line.
 
-An interlocutor's claws threaten a critical hit on a roll of 19–20. On a successful critical hit, that claw deals 2d6 bleed damage rather than 1d6. The [[rangoric-srd/monsters/devil/kytons/Interlocutor Kyton|interlocutor kyton]] has it.
+An interlocutor's claws threaten a critical hit on a roll of 19–20. On a successful critical hit, that claw deals 2d6 bleed damage rather than 1d6. The [[rangoric-srd/monsters/devils/kytons/Interlocutor Kyton|interlocutor kyton]] has it.

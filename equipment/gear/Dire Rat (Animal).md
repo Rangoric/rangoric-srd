@@ -13,6 +13,6 @@ tags: [rangoric, rangoric/gear]
 
 These Small animals are vicious scavengers in the wild. However, dire rats raised in captivity can be trained as loyal pets and protectors. Pet dire rats do not have filth fever.
 
-The animal is described in [[rangoric-srd/monsters/dire-animal/Dire Rat|Dire Rat]].
+The animal is described in [[rangoric-srd/monsters/dire-animals/Dire Rat|Dire Rat]].
 
 Price 5 gp; Weight 50 lb.

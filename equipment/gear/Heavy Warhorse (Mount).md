@@ -15,6 +15,6 @@ A horse (other than a pony) is suitable as a mount for a human, dwarf, elf, half
 
 Warhorses and warponies can be ridden easily into combat. Light horses, ponies, and heavy horses are hard to control in combat.
 
-The animal is described in [[rangoric-srd/monsters/horse/Warhorse, Heavy|Warhorse, Heavy]].
+The animal is described in [[rangoric-srd/monsters/horses/Warhorse, Heavy|Warhorse, Heavy]].
 
 Price 400 gp; Weight —.

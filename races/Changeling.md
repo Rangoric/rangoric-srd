@@ -16,7 +16,7 @@ Perks:
 - +2 Wisdom
 - +2 Charisma
 - -2 Constitution
-- Hag Racial Trait: A changeling inherits one of the following racial traits, depending on her mother's hag type: [[rangoric-srd/races/racial-traits/Hulking Changeling|Hulking Changeling]] ([[rangoric-srd/monsters/hag/Annis|annis]]), [[rangoric-srd/races/racial-traits/Green Widow|Green Widow]] ([[rangoric-srd/monsters/hag/Green Hag|green hag]]), or [[rangoric-srd/races/racial-traits/Sea Lungs|Sea Lungs]] ([[rangoric-srd/monsters/hag/Sea Hag|sea hag]]).
+- Hag Racial Trait: A changeling inherits one of the following racial traits, depending on her mother's hag type: [[rangoric-srd/races/racial-traits/Hulking Changeling|Hulking Changeling]] ([[rangoric-srd/monsters/hags/Annis|annis]]), [[rangoric-srd/races/racial-traits/Green Widow|Green Widow]] ([[rangoric-srd/monsters/hags/Green Hag|green hag]]), or [[rangoric-srd/races/racial-traits/Sea Lungs|Sea Lungs]] ([[rangoric-srd/monsters/hags/Sea Hag|sea hag]]).
 - Claws: Changelings' fingernails are hard and sharp, granting them two claw attacks (1d4 points of damage each; see [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^natural-weapons|natural weapons]]).
 - Natural Armor: Changelings have a +1 natural armor bonus.
 - Darkvision: Changelings can see in the dark up to 60 feet; see [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] for how it works.

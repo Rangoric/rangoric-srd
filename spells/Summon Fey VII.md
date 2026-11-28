@@ -41,11 +41,11 @@ As _[[rangoric-srd/spells/Summon Fey I|summon fey I]]_, except you can summon on
 
 **Table: Summon Fey (7th Level)** ^table-summon-fey-7
 
-| 7th Level                                                                                                        | Alignment |
-| ---------------------------------------------------------------------------------------------------------------- | --------- |
-| [[rangoric-srd/monsters/Fey-born Creature\|Fey-born]] [[rangoric-srd/monsters/dire-animal/Dire Lion\|dire lion]] | CG        |
-| [[rangoric-srd/monsters/Fey-born Creature\|Fey-born]] [[rangoric-srd/monsters/Ravid\|ravid]]                     | CG        |
-| [[rangoric-srd/monsters/Half-Fey Creature\|Half-fey]] [[rangoric-srd/monsters/Cloaker\|cloaker]]                 | CN        |
-| [[rangoric-srd/monsters/Half-Fey Creature\|Half-fey]] [[rangoric-srd/monsters/Grick\|grick]]                     | CN        |
-| [[rangoric-srd/monsters/Shadow-born Creature\|Shadow-born]] [[rangoric-srd/monsters/Achaierai\|achaierai]]       | CE        |
-| [[rangoric-srd/monsters/Shadow-born Creature\|Shadow-born]] [[rangoric-srd/monsters/Belker\|belker]]             | CE        |
+| 7th Level                                                                                                         | Alignment |
+| ----------------------------------------------------------------------------------------------------------------- | --------- |
+| [[rangoric-srd/monsters/Fey-born Creature\|Fey-born]] [[rangoric-srd/monsters/dire-animals/Dire Lion\|dire lion]] | CG        |
+| [[rangoric-srd/monsters/Fey-born Creature\|Fey-born]] [[rangoric-srd/monsters/Ravid\|ravid]]                      | CG        |
+| [[rangoric-srd/monsters/Half-Fey Creature\|Half-fey]] [[rangoric-srd/monsters/Cloaker\|cloaker]]                  | CN        |
+| [[rangoric-srd/monsters/Half-Fey Creature\|Half-fey]] [[rangoric-srd/monsters/Grick\|grick]]                      | CN        |
+| [[rangoric-srd/monsters/Shadow-born Creature\|Shadow-born]] [[rangoric-srd/monsters/Achaierai\|achaierai]]        | CE        |
+| [[rangoric-srd/monsters/Shadow-born Creature\|Shadow-born]] [[rangoric-srd/monsters/Belker\|belker]]              | CE        |

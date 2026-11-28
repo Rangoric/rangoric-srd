@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/affliction]
 
 # Ascomoid Spores
 
-A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the poison of the [[rangoric-srd/monsters/fungus/Ascomoid|ascomoid]]'s spores.
+A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the poison of the [[rangoric-srd/monsters/fungi/Ascomoid|ascomoid]]'s spores.
 
 - **Type**: poison, inhaled
 - **Attack**: +6 vs Fortitude

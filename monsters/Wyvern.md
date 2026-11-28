@@ -61,7 +61,7 @@ Wyverns are nasty, brutish, and violent reptilian beasts akin to more powerful d
 
 Wyverns are territorial creatures. Though they occasionally hunt in small groups for large prey, they are generally solitary creatures, hunting in areas ranging in size from 100 to 200 square miles. Wyverns have been known to fight to the death among themselves for the right to hunt a territory rich with prey.
 
-Although constantly hungry and prone to mayhem, a wyvern that can be befriended (usually through a delicate combination of flattery, intimidation, food, and treasure) becomes a powerful ally. They often serve giants and monstrous humanoids as guardians, and some lizardfolk and [[rangoric-srd/monsters/boggard/Boggard|boggard]] tribes even use them as mounts, although such arrangements are quite costly in terms of food and gold, for few are the wyverns who would willingly serve as steeds for lesser creatures for long.
+Although constantly hungry and prone to mayhem, a wyvern that can be befriended (usually through a delicate combination of flattery, intimidation, food, and treasure) becomes a powerful ally. They often serve giants and monstrous humanoids as guardians, and some lizardfolk and [[rangoric-srd/monsters/boggards/Boggard|boggard]] tribes even use them as mounts, although such arrangements are quite costly in terms of food and gold, for few are the wyverns who would willingly serve as steeds for lesser creatures for long.
 
 A wyvern is about 16 feet in length, half of which is tail. The average wyvern weighs 2,000 pounds. Its body is dark brown to gray, and its wingspan is about 20 feet.
 

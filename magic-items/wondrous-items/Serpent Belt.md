@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Serpent Belt
 
-This belt's wearer gains a +4 bonus on defenses against [[rangoric-srd/rules/Afflictions#Poison|poison]]s and a +2 bonus on [[rangoric-srd/skills/Escape Artist|Escape Artist]] checks. In addition, once per day on command, the belt can be animated as a venomous snake or [[rangoric-srd/monsters/snake/Constrictor Snake|constrictor snake]] that obeys the animator's spoken commands for up to an hour. If the animated snake is slain or moves 100 feet away from the animator, the snake reverts into belt form.
+This belt's wearer gains a +4 bonus on defenses against [[rangoric-srd/rules/Afflictions#Poison|poison]]s and a +2 bonus on [[rangoric-srd/skills/Escape Artist|Escape Artist]] checks. In addition, once per day on command, the belt can be animated as a venomous snake or [[rangoric-srd/monsters/snakes/Constrictor Snake|constrictor snake]] that obeys the animator's spoken commands for up to an hour. If the animated snake is slain or moves 100 feet away from the animator, the snake reverts into belt form.
 
 Faint transmutation; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Beast Shape I|beast shape I]]_, _[[rangoric-srd/spells/Neutralize Poison|neutralize poison]]_, _[[rangoric-srd/spells/Summon Nature’s Ally II|summon nature's ally II]]_; Price 9,000 gp; Cost 4,500 gp; Weight 1 lb.

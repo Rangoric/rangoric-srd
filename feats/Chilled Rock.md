@@ -11,6 +11,6 @@ tags: [rangoric, rangoric/feat, racial]
 
 You can transfer the cold of your body to the rocks you throw.
 
-**Prerequisites**: [[rangoric-srd/feats/Born of Frost|Born of Frost]], [[rangoric-srd/monsters/giant/Frost Giant|frost giant]].
+**Prerequisites**: [[rangoric-srd/feats/Born of Frost|Born of Frost]], [[rangoric-srd/monsters/giants/Frost Giant|frost giant]].
 
 **Benefit**: Any items you throw with your [[rangoric-srd/monsters/abilities/Rock Throwing|rock throwing]] ability are chilled by your touch, dealing an additional 1d6 points of cold damage.

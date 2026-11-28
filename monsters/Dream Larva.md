@@ -48,7 +48,7 @@ Base Attack: +40; CMB: +57 (+61 grapple, +59 sunder); CMD: 70 (72 vs. sunder, ca
 Attack: Bite +56 (4d8+16)melee     
 Full Attack: Bite +56 (4d8+16) melee, 1 gore +51 (4d6+8) melee, 4 pincers +53 (4d6+8) melee, 4 claws +53 (4d6+8) melee     
 Space/Reach: 10 ft./10 ft.      
-Special Attacks: Worst nightmare, [[rangoric-srd/monsters/abilities/Grab|improved grab]], sending, spell-like abilities, summon [[rangoric-srd/monsters/nightshade/Nightwalker|nightwalker]]     
+Special Attacks: Worst nightmare, [[rangoric-srd/monsters/abilities/Grab|improved grab]], sending, spell-like abilities, summon [[rangoric-srd/monsters/nightshades/Nightwalker|nightwalker]]     
 Special Qualities: Abomination traits, sonic immunity, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 15 (good weapons, lawful weapons, sleepwalker-forged weapons), [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 15, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 44, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 15/ Good and Epic or Lawful and Epic      
 Defenses: Fort 41, Ref 35, Will 39      
 Abilities: Str 42, Dex 17, Con 29, Int 16, Wis 24, Cha 36      
@@ -79,7 +79,7 @@ Improved Grab (Ex): If the dream larva hits with a claw or pincer, it deals norm
 
 Sending (Su): Grappled victims may be physically sent into a nightmare, at the dream larva’s option, on the dream larva’s next action after establishing the grapple. Victims are attacked at +33 vs Will, and on a hit are apparently swarmed by thousands of worms making up the dream larva’s body. The victim is actually cast into a shrieking maelstrom of dream where it can take no actions but observe. The victim physically returns 2d4 rounds later, apparently ejected from the dream larva’s body (but appearing even if the dream larva has left or is otherwise absent). The victim of the nightmare has taken 4d6 points of temporary Wisdom [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]], but is otherwise free to act on the round it returns. If the victim takes more Wisdom damage than it has points of Wisdom, the extra points are instead treated as temporary Constitution damage. The attack bonus is Charisma-based.
 
-Summon Nightwalker (Sp): Five times per day, a dream larva can summon a [[rangoric-srd/monsters/nightshade/Nightwalker|nightwalker]].
+Summon Nightwalker (Sp): Five times per day, a dream larva can summon a [[rangoric-srd/monsters/nightshades/Nightwalker|nightwalker]].
 
 Abomination Traits: Immune to polymorphing, [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|petrification]], and other form-altering attacks; not subject to [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]], ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]], or ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]], or death from massive damage; immune to mind-affecting effects; [[rangoric-srd/monsters/abilities/Resistance|fire resistance]] 20; [[rangoric-srd/monsters/abilities/Resistance|cold resistance]] 20; [[rangoric-srd/spells/Nondetection|nondetection]]; [[rangoric-srd/spells/True Seeing|true seeing]] at will; [[rangoric-srd/monsters/abilities/Blindsight|blindsight]] 500 ft.; telepathy out to 1,000 ft.
 

@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/affliction]
 
 # Imp Venom
 
-A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the [[rangoric-srd/monsters/devil/Imp|imp]]'s sting; its attack bonus includes the imp's +2 racial bonus.
+A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the [[rangoric-srd/monsters/devils/Imp|imp]]'s sting; its attack bonus includes the imp's +2 racial bonus.
 
 - **Type**: poison, injury
 - **Attack**: +3 vs Fortitude

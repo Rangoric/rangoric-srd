@@ -20,7 +20,7 @@ Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^h
 
 #### Combat
 
-A psionic duergar does not possess the spell-like abilities of [[rangoric-srd/monsters/dwarf/Dwarf|standard duergars]]. Instead, it has psi-like abilities.
+A psionic duergar does not possess the spell-like abilities of [[rangoric-srd/monsters/dwarves/Dwarf|standard duergars]]. Instead, it has psi-like abilities.
 
 Psi-Like **Abilities:**1/day - [[rangoric-srd/powers/Expansion|expansion]], [[rangoric-srd/powers/Powers G to P|invisibility]]. These abilities are as the power (or spell) manifested by a psion (or sorcerer) of the duergar’s Hit Dice (minimum 3rd level) and affect only the duergar and whatever he carries.
 

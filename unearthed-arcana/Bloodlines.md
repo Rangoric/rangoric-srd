@@ -113,7 +113,7 @@ Each description below includes some basic information to help the player and ga
 
 ### Celestial
 
-A character with a celestial bloodline can trace her heritage to beings of the Upper Planes, much like an [[rangoric-srd/monsters/planetouched/Aasimar|aasimar]] or [[rangoric-srd/monsters/celestial-creature/Celestial Creature|celestial creature]]. Most [[rangoric-srd/monsters/angel/Angel|angels]], [[rangoric-srd/monsters/archon/Archon|archons]], guardinals, and eladrins have the ability to interbreed with [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|humanoids]], and examples of celestial creatures descending from the heavens to live with mortals often appear in myth and legend. Descendants of such relationships often have silver or golden hair, a proud bearing, or a piercing stare.
+A character with a celestial bloodline can trace her heritage to beings of the Upper Planes, much like an [[rangoric-srd/monsters/planetouched/Aasimar|aasimar]] or [[rangoric-srd/monsters/celestial-creatures/Celestial Creature|celestial creature]]. Most [[rangoric-srd/monsters/angels/Angel|angels]], [[rangoric-srd/monsters/archons/Archon|archons]], guardinals, and eladrins have the ability to interbreed with [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|humanoids]], and examples of celestial creatures descending from the heavens to live with mortals often appear in myth and legend. Descendants of such relationships often have silver or golden hair, a proud bearing, or a piercing stare.
 
 **Celstial Bloodline Traits**
 
@@ -145,7 +145,7 @@ A character with a celestial bloodline can trace her heritage to beings of the U
 
 ### Demon
 
-A character with a demon bloodline has one or more ancestors of [[rangoric-srd/monsters/demon/Demon|demonic origin]]. The most common source of such a bloodline is a [[rangoric-srd/monsters/demon/Succubus|succubus]], but any demon capable of taking [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|humanoid]] form might be responsible for the character's unusual traits. Characters with a demon bloodline may bear some minor characteristic reminiscent of such an ancestor: sinister glowing eyes, a faint smell of brimstone, or a love of brutality.
+A character with a demon bloodline has one or more ancestors of [[rangoric-srd/monsters/demons/Demon|demonic origin]]. The most common source of such a bloodline is a [[rangoric-srd/monsters/demons/Succubus|succubus]], but any demon capable of taking [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|humanoid]] form might be responsible for the character's unusual traits. Characters with a demon bloodline may bear some minor characteristic reminiscent of such an ancestor: sinister glowing eyes, a faint smell of brimstone, or a love of brutality.
 
 **Demon Bloodline Traits**
 
@@ -177,7 +177,7 @@ A character with a demon bloodline has one or more ancestors of [[rangoric-srd/m
 
 ### Devil
 
-For a character with a devil bloodline, an [[rangoric-srd/monsters/devil/Erinyes|erinyes]] is often the source. However, other [[rangoric-srd/monsters/devil/Devil|devils]] with the ability to use a polymorph effect, such as [[rangoric-srd/monsters/devil/Ice Devil (Gelugon)|gelugons]] or [[rangoric-srd/monsters/devil/Pit Fiend|pit fiends]], have been known to consort with mortals. A character with this bloodline may also possess tiny horns or unusually sharp teeth.
+For a character with a devil bloodline, an [[rangoric-srd/monsters/devils/Erinyes|erinyes]] is often the source. However, other [[rangoric-srd/monsters/devils/Devil|devils]] with the ability to use a polymorph effect, such as [[rangoric-srd/monsters/devils/Ice Devil (Gelugon)|gelugons]] or [[rangoric-srd/monsters/devils/Pit Fiend|pit fiends]], have been known to consort with mortals. A character with this bloodline may also possess tiny horns or unusually sharp teeth.
 
 **Devil Bloodline Traits**
 
@@ -268,7 +268,7 @@ In times long past, [[rangoric-srd/monsters/chromatic-dragons/Blue Dragon|blue d
 
 ### Dragon, Brass
 
-Bards tell a popular tale of a lost desert traveler encountering a friendly woman who nurses him back to health before putting him on the path home. in the tale, this helpful individual turns out to be a powerful [[rangoric-srd/monsters/metallic-dragons/Brass Dragon|brass dragon]] who merely wants someone to talk to, and who, many months later, gives birth to a [[rangoric-srd/monsters/half-dragon/Half-Dragon|half-dragon]] child. The descendants of this chance encounter are often talkative and friendly.
+Bards tell a popular tale of a lost desert traveler encountering a friendly woman who nurses him back to health before putting him on the path home. in the tale, this helpful individual turns out to be a powerful [[rangoric-srd/monsters/metallic-dragons/Brass Dragon|brass dragon]] who merely wants someone to talk to, and who, many months later, gives birth to a [[rangoric-srd/monsters/half-dragons/Half-Dragon|half-dragon]] child. The descendants of this chance encounter are often talkative and friendly.
 
 **Brass Dragon Bloodline Traits**
 
@@ -332,7 +332,7 @@ When the playful copper dragon meets a like-minded creature, a long-term friends
 
 ### Dragon, Gold
 
-[[rangoric-srd/monsters/metallic-dragons/Gold Dragon|Gold dragons]] occasionally take more than a passing interest in mortals. Thanks to their ability to polymorph, some leave a lasting reminder of their presence in the form of a [[rangoric-srd/monsters/half-dragon/Half-Dragon|half-dragon]] child. Even many generations later, this draconic blood can manifest in the form of bloodline traits. Descendants of a gold dragon tend to get along well with other good-aligned creatures, displaying uncommon grace and courtesy.
+[[rangoric-srd/monsters/metallic-dragons/Gold Dragon|Gold dragons]] occasionally take more than a passing interest in mortals. Thanks to their ability to polymorph, some leave a lasting reminder of their presence in the form of a [[rangoric-srd/monsters/half-dragons/Half-Dragon|half-dragon]] child. Even many generations later, this draconic blood can manifest in the form of bloodline traits. Descendants of a gold dragon tend to get along well with other good-aligned creatures, displaying uncommon grace and courtesy.
 
 **Gold Dragon Bloodline Traits**
 
@@ -365,7 +365,7 @@ When the playful copper dragon meets a like-minded creature, a long-term friends
 
 ### Dragon, Green
 
-In certain rare instances, [[rangoric-srd/monsters/chromatic-dragons/Green Dragon|green dragons]] have been known to take control of (rather than simply devour) small enclaves of forest-dwelling humanoids. Some of those humanoids later give birth to [[rangoric-srd/monsters/half-dragon/Half-Dragon|half-dragon]] offspring, creating bloodlines that last centuries. Descendants of a green dragon are often voracious and belligerent, picking fights with little or no provocation.
+In certain rare instances, [[rangoric-srd/monsters/chromatic-dragons/Green Dragon|green dragons]] have been known to take control of (rather than simply devour) small enclaves of forest-dwelling humanoids. Some of those humanoids later give birth to [[rangoric-srd/monsters/half-dragons/Half-Dragon|half-dragon]] offspring, creating bloodlines that last centuries. Descendants of a green dragon are often voracious and belligerent, picking fights with little or no provocation.
 
 **Green Dragon Bloodline Traits**
 
@@ -491,11 +491,11 @@ Similar to but less specific than a [[#Genie, Djinni|djinni bloodline]] (see bel
 | 20th            | Air elemental affinity +2 (1)                                   | [[rangoric-srd/feats/Flyby Attack\|Flyby Attack]]               |
 
 1.  You gain the indicated bonus on all Deception, Persuasion, Intimidation, and Performance checks made to interact with air elementals.
-2.  As the [[rangoric-srd/monsters/elemental/Air Elemental|air elemental]] special ability.
+2.  As the [[rangoric-srd/monsters/elementals/Air Elemental|air elemental]] special ability.
 
 ### Elemental, Earth
 
-Creatures that bear a bloodline of [[rangoric-srd/monsters/elemental/Earth Elemental|elemental earth]] feel a sense of gravity and stability that ties them to the stones of the world. They have a palpable sense of inertia about them, which sometimes manifests as a slowness to take action.
+Creatures that bear a bloodline of [[rangoric-srd/monsters/elementals/Earth Elemental|elemental earth]] feel a sense of gravity and stability that ties them to the stones of the world. They have a palpable sense of inertia about them, which sometimes manifests as a slowness to take action.
 
 **Earth Elemental Bloodline Traits**
 
@@ -513,11 +513,11 @@ Creatures that bear a bloodline of [[rangoric-srd/monsters/elemental/Earth Eleme
 | 20th            | Earth elemental affinity +2 (1)                                     | [[rangoric-srd/feats/Improved Sunder\|Improved Sunder]]             |
 
 1.  You gain the indicated bonus on all Deception, Persuasion, Intimidation, and Performance checks made to interact with earth elementals.
-2.  As the [[rangoric-srd/monsters/elemental/Earth Elemental|earth elemental]] special ability.
+2.  As the [[rangoric-srd/monsters/elementals/Earth Elemental|earth elemental]] special ability.
 
 ### Elemental, Fire
 
-Those who bear [[rangoric-srd/monsters/elemental/Fire Elemental|elemental fire]] within their veins are often high-strung and quick-tempered. Their eyes often seem to glow like embers, and their skin may take on a reddish hue.
+Those who bear [[rangoric-srd/monsters/elementals/Fire Elemental|elemental fire]] within their veins are often high-strung and quick-tempered. Their eyes often seem to glow like embers, and their skin may take on a reddish hue.
 
 **Fire Elemental Bloodline Traits**
 
@@ -538,7 +538,7 @@ Those who bear [[rangoric-srd/monsters/elemental/Fire Elemental|elemental fire]]
 
 ### Elemental, Water
 
-The bloodline of [[rangoric-srd/monsters/elemental/Water Elemental|elemental water]] is most common among the water-breathing races, but it also manifests among sailors and fishermen, and even the occasional character with no link whatsoever to oceans, seas, or large lakes. Such characters are often independent minded, and generally don't live in any one place for very long.
+The bloodline of [[rangoric-srd/monsters/elementals/Water Elemental|elemental water]] is most common among the water-breathing races, but it also manifests among sailors and fishermen, and even the occasional character with no link whatsoever to oceans, seas, or large lakes. Such characters are often independent minded, and generally don't live in any one place for very long.
 
 **Water Elemental Bloodline Trait**
 
@@ -560,7 +560,7 @@ The bloodline of [[rangoric-srd/monsters/elemental/Water Elemental|elemental wat
 
 ### Fey
 
-Every culture tells stories of [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|fey]] creatures taking mortal lovers, so it's no surprise that individuals display fey bloodlines from time to time. Regardless of whether it descended from a [[rangoric-srd/monsters/nymph/Dryad|dryad]], [[rangoric-srd/monsters/nymph/Nymph|nymph]], [[rangoric-srd/monsters/Satyr|satyr]], or other kind of fey, a creature with a fey bloodline often has a personality that is both aloof and carefree.
+Every culture tells stories of [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|fey]] creatures taking mortal lovers, so it's no surprise that individuals display fey bloodlines from time to time. Regardless of whether it descended from a [[rangoric-srd/monsters/nymphs/Dryad|dryad]], [[rangoric-srd/monsters/nymphs/Nymph|nymph]], [[rangoric-srd/monsters/Satyr|satyr]], or other kind of fey, a creature with a fey bloodline often has a personality that is both aloof and carefree.
 
 **Fey Bloodline Traits**
 
@@ -591,7 +591,7 @@ Every culture tells stories of [[rangoric-srd/monsters/Monster Types, Sybtypes, 
 
 ### Genie, Djinni
 
-Though few sages put much stock in myths that humanoids and genies share a common ancestor, there is no denying that the races are very similar in form. Characters with a [[rangoric-srd/monsters/genie/Djinni|djinni]] bloodline are often haughty but display great guile.
+Though few sages put much stock in myths that humanoids and genies share a common ancestor, there is no denying that the races are very similar in form. Characters with a [[rangoric-srd/monsters/genies/Djinni|djinni]] bloodline are often haughty but display great guile.
 
 **Djinni Bloodline Traits**
 
@@ -622,7 +622,7 @@ Though few sages put much stock in myths that humanoids and genies share a commo
 
 ### Genie, Efreeti
 
-Characters with the bloodline of the [[rangoric-srd/monsters/genie/Efreeti|efreet]] are most likely descended from slaves of that terrible and powerful race. They typically have reddish skin and a cruel disposition, and may display tiny horns or bronze-colored eyes.
+Characters with the bloodline of the [[rangoric-srd/monsters/genies/Efreeti|efreet]] are most likely descended from slaves of that terrible and powerful race. They typically have reddish skin and a cruel disposition, and may display tiny horns or bronze-colored eyes.
 
 **Efreeti Bloodline Traits**
 
@@ -653,7 +653,7 @@ Characters with the bloodline of the [[rangoric-srd/monsters/genie/Efreeti|efree
 
 ### Genie, Janni
 
-As natural wanderers of the Material Plane, the only thing surprising about [[rangoric-srd/monsters/genie/Janni|janni]] bloodlines may be that there aren't more of them. A creature who bears the janni bloodline tends to be a couple inches taller than normal for his race, standing with a proud and regal posture. He may also share the janni's nomadic behavior.
+As natural wanderers of the Material Plane, the only thing surprising about [[rangoric-srd/monsters/genies/Janni|janni]] bloodlines may be that there aren't more of them. A creature who bears the janni bloodline tends to be a couple inches taller than normal for his race, standing with a proud and regal posture. He may also share the janni's nomadic behavior.
 
 **Janni Bloodline Traits**
 
@@ -669,7 +669,7 @@ As natural wanderers of the Material Plane, the only thing surprising about [[ra
 
 ### Giant
 
-In ages past, giants mingled more freely with smaller humanoids. Today, the evidence of such relationships is rare at best. Characters with bloodlines of the lesser evil giants ([[rangoric-srd/monsters/giant/Hill Giant|hill]], [[rangoric-srd/monsters/giant/Frost Giant|frost]], and [[rangoric-srd/monsters/giant/Fire Giant|fire]]) may be the result of voluntary or involuntary breeding with the greatfolk. Bloodlines of [[rangoric-srd/monsters/giant/Stone Giant|stone]], [[rangoric-srd/monsters/giant/Cloud Giant|cloud]], or [[rangoric-srd/monsters/giant/Storm Giant|storm]] giants, on the other hand, are more likely the results of long-ago alliances between those races and the ancient nobility of the world. In any event, characters bearing giant bloodlines tend to be massive for their race, and often share characteristics (skin and hair color, attitudes, and such) with their ancestor.
+In ages past, giants mingled more freely with smaller humanoids. Today, the evidence of such relationships is rare at best. Characters with bloodlines of the lesser evil giants ([[rangoric-srd/monsters/giants/Hill Giant|hill]], [[rangoric-srd/monsters/giants/Frost Giant|frost]], and [[rangoric-srd/monsters/giants/Fire Giant|fire]]) may be the result of voluntary or involuntary breeding with the greatfolk. Bloodlines of [[rangoric-srd/monsters/giants/Stone Giant|stone]], [[rangoric-srd/monsters/giants/Cloud Giant|cloud]], or [[rangoric-srd/monsters/giants/Storm Giant|storm]] giants, on the other hand, are more likely the results of long-ago alliances between those races and the ancient nobility of the world. In any event, characters bearing giant bloodlines tend to be massive for their race, and often share characteristics (skin and hair color, attitudes, and such) with their ancestor.
 
 An intermediate bloodline can only be taken for cloud giants, fire giants, frost giants, stone giants, and storm giants. A major bloodline can only be taken for storm giants.
 
@@ -783,7 +783,7 @@ An intermediate bloodline can only be taken for cloud giants, fire giants, frost
 
 ### Hag
 
-Many [[rangoric-srd/monsters/hag/Hag|hags]] have the ability to change their appearance, making it possible for them to interact with creatures of other races. Though horrible to contemplate, some use this ability to lure in mates, in the hopes that the offspring can help them further their evil plots. The descendants of a hag tend to be strong but ugly, and often share their ancestor's love of schemes.
+Many [[rangoric-srd/monsters/hags/Hag|hags]] have the ability to change their appearance, making it possible for them to interact with creatures of other races. Though horrible to contemplate, some use this ability to lure in mates, in the hopes that the offspring can help them further their evil plots. The descendants of a hag tend to be strong but ugly, and often share their ancestor's love of schemes.
 
 **Hag Bloodline Traits**
 
@@ -799,7 +799,7 @@ Many [[rangoric-srd/monsters/hag/Hag|hags]] have the ability to change their app
 
 ### Lycanthrope
 
-When he isn't murdering innocent townsfolk, the typical [[rangoric-srd/monsters/lycanthrope/Lycanthrope|lycanthropic]] character may enjoy an almost entirely normal social life — even having a family. While the offspring of an afflicted lycanthrope might not share the curse itself, the bloodline might still pass its characteristics down the generations, allowing later descendants to display some of the lycanthrope's attributes. Regardless of the original animal stock, the carriers of lycanthropic bloodlines tend to share similar characteristics, including a feral stare and an overabundance of body hair.
+When he isn't murdering innocent townsfolk, the typical [[rangoric-srd/monsters/lycanthropes/Lycanthrope|lycanthropic]] character may enjoy an almost entirely normal social life — even having a family. While the offspring of an afflicted lycanthrope might not share the curse itself, the bloodline might still pass its characteristics down the generations, allowing later descendants to display some of the lycanthrope's attributes. Regardless of the original animal stock, the carriers of lycanthropic bloodlines tend to share similar characteristics, including a feral stare and an overabundance of body hair.
 
 **Lycanthrope Bloodline Traits**
 
@@ -832,7 +832,7 @@ Horrid tales describe the fate of innocents carried away from their homes by mar
 
 ### Ogre
 
-A character with [[rangoric-srd/monsters/ogre/Ogre|ogre]] blood is most likely the result of raids on humanoid settlements, but may also derive from the more intelligent and magically gifted race of ogre mages (in fact, all intermediate ogre bloodlines are actually ogre mage bloodlines). These characters may appear clumsy and brutish, but they can possess a high degree of cunning.
+A character with [[rangoric-srd/monsters/ogres/Ogre|ogre]] blood is most likely the result of raids on humanoid settlements, but may also derive from the more intelligent and magically gifted race of ogre mages (in fact, all intermediate ogre bloodlines are actually ogre mage bloodlines). These characters may appear clumsy and brutish, but they can possess a high degree of cunning.
 
 **Ogre Bloodline Traits**
 
@@ -886,7 +886,7 @@ Whether as allies, tyrants, or objects of reverence, [[rangoric-srd/monsters/Tit
 
 ### Troll
 
-Though the origin of such a bloodline is almost too hideous to contemplate, there are nonetheless a few creatures who display a certain [[rangoric-srd/monsters/troll/Troll|trollish]] fortitude. Such characters tend to bear many scars from old wounds, and are often ferocious in attitude.
+Though the origin of such a bloodline is almost too hideous to contemplate, there are nonetheless a few creatures who display a certain [[rangoric-srd/monsters/trolls/Troll|trollish]] fortitude. Such characters tend to bear many scars from old wounds, and are often ferocious in attitude.
 
 **Troll Bloodline Traits**
 
@@ -908,7 +908,7 @@ Though the origin of such a bloodline is almost too hideous to contemplate, ther
 
 ### Vampire
 
-The [[rangoric-srd/monsters/vampire/Vampire|vampire's]] powers of persuasion have led more than one weak-willed humanoid into its deadly clutch of intimacy. Though it seems impossible that any child could result from such a union, tales of humanoids possessing some of the vampire's physical and mental prowess abound. These pale, haunted creatures are inevitably cloaked in mystery and deception, for even good aligned descendants of vampires fear retribution from those mistaking them for the undead.
+The [[rangoric-srd/monsters/vampires/Vampire|vampire's]] powers of persuasion have led more than one weak-willed humanoid into its deadly clutch of intimacy. Though it seems impossible that any child could result from such a union, tales of humanoids possessing some of the vampire's physical and mental prowess abound. These pale, haunted creatures are inevitably cloaked in mystery and deception, for even good aligned descendants of vampires fear retribution from those mistaking them for the undead.
 
 **Vampire Bloodline Traits**
 

@@ -47,7 +47,7 @@ Base Attack: +28; CMB: +40 (+42 bull rush, +42 sunder); CMD: 57 (59 vs. bull rus
 Attack: Spinning blade +43 (2d6+12/19-20 (plus 1d6 on critical)) or electricity ray +35 ranged touch    
 Full Attack: 2 spinning blades +43 (2d6+12/19-20(plus 1d6 on critical)) melee, 2 slams +35 melee (2d6+6), shocking touch +35 melee touch (2d6+6); or electricity ray +35 ranged touch (10d6 electricity), 6 spikes +30 ranged (2d6+12) (120 ft. range increment)    
 Space/Reach: 5 ft./5 ft.     
-Special Attacks: Rend 4d6+18, sonic blast, spell-like abilities, summon [[rangoric-srd/monsters/golem/Iron Golem|iron golem]]     
+Special Attacks: Rend 4d6+18, sonic blast, spell-like abilities, summon [[rangoric-srd/monsters/golems/Iron Golem|iron golem]]     
 Special Qualities: Abomination traits, magic immunity, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|construct traits]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 15, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 34, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/chaotic and epic and adamantine    
 Skills: [[rangoric-srd/skills/Athletics|Athletics]] +53 (+65 jumping)    
 **Unspent Skill Points**: 38
@@ -75,7 +75,7 @@ Spell-Like Abilities: Caster level 22nd. The attack bonuses are Charisma-based.
 
 At will - [[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]], [[rangoric-srd/spells/Displacement|displacement]] (+8 vs Will), [[rangoric-srd/spells/Invisibility, Greater|greater invisibility]] (+9 vs Will), [[rangoric-srd/spells/Ethereal Jaunt|ethereal jaunt]].
 
-Summon Iron Golem (Sp): An anaxim can summon an [[rangoric-srd/monsters/golem/Iron Golem|iron golem]] up to four times per day.
+Summon Iron Golem (Sp): An anaxim can summon an [[rangoric-srd/monsters/golems/Iron Golem|iron golem]] up to four times per day.
 
 Abomination Traits: Immune to polymorphing, [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|petrification]], and other form-altering attacks; not subject to [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]], ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]], or ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]], or death from massive damage; immune to mind-affecting effects; [[rangoric-srd/monsters/abilities/Resistance|fire resistance]] 20; [[rangoric-srd/monsters/abilities/Resistance|cold resistance]] 20; [[rangoric-srd/spells/Nondetection|nondetection]]; [[rangoric-srd/spells/True Seeing|true seeing]] at will; [[rangoric-srd/monsters/abilities/Blindsight|blindsight]] 500 ft.; telepathy out to 1,000 ft.
 

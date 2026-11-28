@@ -24,4 +24,4 @@ A demon lord is a powerful, unique demon that rules a layer of the Abyss. All de
 - [[rangoric-srd/monsters/abilities/Summon|Summon Demon]] (Sp): three times per day as a swift action, a demon lord can summon any demon or combination of demons whose total combined CR is 20 or lower. This otherwise works like the summon universal monster rule with a 100% chance of success, and counts as a 9th-level spell effect.
 - [[rangoric-srd/monsters/abilities/Telepathy|Telepathy]] 300 feet.
 
-[[rangoric-srd/monsters/demon/Dagon|Dagon]], [[rangoric-srd/monsters/demon/Koschei|Koschei]] and [[rangoric-srd/monsters/demon/Pazuzu|Pazuzu]] have it.
+[[rangoric-srd/monsters/demons/Dagon|Dagon]], [[rangoric-srd/monsters/demons/Koschei|Koschei]] and [[rangoric-srd/monsters/demons/Pazuzu|Pazuzu]] have it.

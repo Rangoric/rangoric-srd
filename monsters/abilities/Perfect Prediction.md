@@ -12,4 +12,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “perfect prediction”, on the Special Attacks and Special Qualities lines.
 
-A lhaksharut gains an insight bonus to AC equal to its Wisdom bonus. The [[rangoric-srd/monsters/inevitable/Lhaksharut|lhaksharut]] has it.
+A lhaksharut gains an insight bonus to AC equal to its Wisdom bonus. The [[rangoric-srd/monsters/inevitables/Lhaksharut|lhaksharut]] has it.

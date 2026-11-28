@@ -58,7 +58,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: —
 - **Level Adjustment**: —
 
-The fungal creature above is a fungal [[rangoric-srd/monsters/nymph/Nymph|nymph]].
+The fungal creature above is a fungal [[rangoric-srd/monsters/nymphs/Nymph|nymph]].
 
 A fungal creature is an animate plant with the appearance of a living creature. It grows from spores implanted in the dead body of a host creature, and takes on the host creature's basic form and many of that creature's abilities. It retains none of the memories of the creature it grew from, yet it instinctively knows how to use the abilities it inherited from its host. How exactly this is possible is a question that continues to befuddle scholars. The leading theory is that the spores' precise modeling of their host succeeds in capturing some of the creature's physiology—essentially copying its mind—but that for some reason the departure of the creature's spirit or soul upon death prevents the spores from copying the memories as well.
 
@@ -66,7 +66,7 @@ Fungal creatures are often content to sit in quiet contemplation, absorbing the 
 
 Fungal creatures have the general appearance of the base creatures from which they spawned, but their skin is pale fungus rather than flesh and blood. Mushroom caps and shelf fungi sprout from a fungal creature's body, along with fungal gills to deliver the fungal creature's spores. As with many types of fungi, a fungal creature's flesh is poisonous, and any creature that ingests any part of a fungal creature's body risks infection by its spores (as described in the create spawn ability and the fungal spores poison below).
 
-The fungal nymph presented here is built using the [[rangoric-srd/monsters/nymph/Nymph|nymph]]. See the nymph for rules on this creature's blinding beauty, inspiration, spells, stunning glance, unearthly grace, and wild empathy abilities.
+The fungal nymph presented here is built using the [[rangoric-srd/monsters/nymphs/Nymph|nymph]]. See the nymph for rules on this creature's blinding beauty, inspiration, spells, stunning glance, unearthly grace, and wild empathy abilities.
 
 Fungal creatures speak Common, Sylvan and Undercommon.
 

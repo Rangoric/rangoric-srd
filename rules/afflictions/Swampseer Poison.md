@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/affliction]
 
 # Swampseer Poison
 
-A poison named for the [[rangoric-srd/monsters/boggard/Boggard Swampseer|boggard swampseers]]; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]].
+A poison named for the [[rangoric-srd/monsters/boggards/Boggard Swampseer|boggard swampseers]]; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]].
 
 - **Type**: poison, ingested
 - **Attack**: +8 vs Fortitude

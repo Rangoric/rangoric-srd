@@ -26,19 +26,19 @@ This spell functions like [[rangoric-srd/spells/Summon Nature’s Ally I|summon 
 
 When you use a summoning spell to summon an air, chaotic, earth, evil, fire, good, lawful, or water creature, it is a spell of that type.
 
-| 5th Level                                                                                   |
-| ------------------------------------------------------------------------------------------- |
-| [[rangoric-srd/monsters/arrowhawk/Arrowhawk\|Arrowhawk, adult]]                             |
-| [[rangoric-srd/monsters/Bear, Polar\|Bear, polar (animal)]]                                 |
-| [[rangoric-srd/monsters/dire-animal/Dire Lion\|Dire lion]]                                  |
-| [[rangoric-srd/monsters/dinosaur/Elasmosaurus\|Elasmosaurus (1) (dinosaur)]]                |
-| [[rangoric-srd/monsters/elemental/Elemental\|Elemental, Large (any)]]                       |
-| [[rangoric-srd/monsters/Griffon\|Griffon]]                                                  |
-| [[rangoric-srd/monsters/genie/Janni\|Janni (genie)]]                                        |
-| [[rangoric-srd/monsters/Rhinoceros\|Rhinoceros (animal)]]                                   |
-| [[rangoric-srd/monsters/Satyr\|Satyr (CN; with pipes)]]                                     |
-| [[rangoric-srd/monsters/snake/Constrictor Snake, Giant\|Snake, giant constrictor (animal)]] |
-| [[rangoric-srd/monsters/sprite/Nixie\|Nixie (sprite)]]                                      |
-| [[rangoric-srd/monsters/tojanida/Tojanida\|Tojanida, adult (1)]]                            |
-| [[rangoric-srd/monsters/whale/Orca\|Whale, orca (1) (animal)]]                              |
-| 1 _May be summoned only into an aquatic or watery environment._                             |
+| 5th Level                                                                                    |
+| -------------------------------------------------------------------------------------------- |
+| [[rangoric-srd/monsters/arrowhawks/Arrowhawk\|Arrowhawk, adult]]                             |
+| [[rangoric-srd/monsters/Bear, Polar\|Bear, polar (animal)]]                                  |
+| [[rangoric-srd/monsters/dire-animals/Dire Lion\|Dire lion]]                                  |
+| [[rangoric-srd/monsters/dinosaurs/Elasmosaurus\|Elasmosaurus (1) (dinosaur)]]                |
+| [[rangoric-srd/monsters/elementals/Elemental\|Elemental, Large (any)]]                       |
+| [[rangoric-srd/monsters/Griffon\|Griffon]]                                                   |
+| [[rangoric-srd/monsters/genies/Janni\|Janni (genie)]]                                        |
+| [[rangoric-srd/monsters/Rhinoceros\|Rhinoceros (animal)]]                                    |
+| [[rangoric-srd/monsters/Satyr\|Satyr (CN; with pipes)]]                                      |
+| [[rangoric-srd/monsters/snakes/Constrictor Snake, Giant\|Snake, giant constrictor (animal)]] |
+| [[rangoric-srd/monsters/sprites/Nixie\|Nixie (sprite)]]                                      |
+| [[rangoric-srd/monsters/tojanidas/Tojanida\|Tojanida, adult (1)]]                            |
+| [[rangoric-srd/monsters/whales/Orca\|Whale, orca (1) (animal)]]                              |
+| 1 _May be summoned only into an aquatic or watery environment._                              |

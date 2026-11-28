@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/class-option]
 
 _A [[rangoric-srd/classes/Druid#^druid-archetypes|druid]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
-Troll furies combine a druid's love of natural balance with a single-minded devotion to the welfare of the [[rangoric-srd/monsters/troll/Troll|troll]] tribe. The troll fury archetype is available only to trolls. Trolls require a lot of prey to keep fed, and if their hunting grounds are upset by incursions of other monsters, civilized deforestation, or careless trolls who eat more than they need, a troll tribe can find itself without a sustainable food source.
+Troll furies combine a druid's love of natural balance with a single-minded devotion to the welfare of the [[rangoric-srd/monsters/trolls/Troll|troll]] tribe. The troll fury archetype is available only to trolls. Trolls require a lot of prey to keep fed, and if their hunting grounds are upset by incursions of other monsters, civilized deforestation, or careless trolls who eat more than they need, a troll tribe can find itself without a sustainable food source.
 
 Troll furies take the long view on sustainability, protecting the trolls' territory from gluttonous trolls and outsiders alike, and even hunting down tribal enemies when necessary. Holding themselves aloof from the rest of troll society, troll furies command great respect and can rally a region's trolls quickly to deal with threats to their existence and the health of their environment.
 

@@ -13,4 +13,4 @@ The animal’s devotion to its master allows it to stand against unnatural force
 
 **Prerequisites**: [[rangoric-srd/classes/Druid#^druid-animal-companion|Animal companion]], [[rangoric-srd/classes/Druid#^animal-companion-devotion|devotion]] special ability.
 
-**Benefit**: The animal companion gains a +2 morale bonus on defenses against spells, spell-like abilities and supernatural abilities of aberrations, outsiders and undead. The animal companion is immune to the unnatural aura ability that some undead creatures (such as [[rangoric-srd/monsters/wraith/Wraith|wraiths]]) have.
+**Benefit**: The animal companion gains a +2 morale bonus on defenses against spells, spell-like abilities and supernatural abilities of aberrations, outsiders and undead. The animal companion is immune to the unnatural aura ability that some undead creatures (such as [[rangoric-srd/monsters/wraiths/Wraith|wraiths]]) have.

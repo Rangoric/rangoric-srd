@@ -20,4 +20,4 @@ Whether by magic or a curse of your blood, some part of you is more beast than m
 - **Predator’s Leap (Ex)**: You can make a running jump without the [[rangoric-srd/skills/Athletics#Jumping|running start]] it normally needs.
 - **Wild Instinct (Ex)**: You gain a +2 bonus on initiative checks and a +2 bonus on [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks.
 
-**Special**: A character that has contracted [[rangoric-srd/monsters/lycanthrope/Lycanthrope|lycanthropy]] can take this feat without having to meet the prerequisites.
+**Special**: A character that has contracted [[rangoric-srd/monsters/lycanthropes/Lycanthrope|lycanthropy]] can take this feat without having to meet the prerequisites.
