@@ -8,6 +8,7 @@ Every departure from the source rules, newest first. One line each, with links t
 
 | Date | Change | Rangoric note | Source | Why |
 | --- | --- | --- | --- | --- |
+| 2026-11-28 | Spell list cleanup (LC 1): the class spell lists fill their 64 blank Brief Descriptions, link each spell instead of the "Spells A to B" index notes, add hardening, blacklight and maddening scream to the Sorcerer and Wizards list, and give the X marker to every spell whose note has an XP component (and only those). Controlled fireball, line in the sand, mantle of calm, phantom blood and thunderstomp link the classes they name. | [[rangoric-srd/spells/Sorcerer and Wizards Spell List\|Sorcerer and Wizards Spell List]] (see [[LC Batch 1 Changes]]) | | [[Spell List Cleanup]] LC 1 |
 | 2026-11-28 | Poison in the affliction block (MP 1) | [[rangoric-srd/magic-items/weapon-abilities/Death Oath\|Death Oath]] (see [[MP Batch 1 Changes]]) | | [[Monster Poisons]] MP 1 |
 | 2026-11-28 | Poison in the affliction block (MP 1) | [[rangoric-srd/monsters/Alchemunculus\|Alchemunculus]] (see [[MP Batch 1 Changes]]) | | [[Monster Poisons]] MP 1 |
 | 2026-11-28 | Disease in the affliction block (MP 1) | [[rangoric-srd/monsters/Brain Mole\|Brain Mole]] (see [[MP Batch 1 Changes]]) | | [[Monster Poisons]] MP 1 |
