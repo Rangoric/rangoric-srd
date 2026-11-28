@@ -70,6 +70,8 @@ Faerie dragons avoid combat when they can, and refrain from inflicting damage un
 
 ### Faerie Dragons by Age
 
+The Challenge Rating given is for a wyrmling. For an older faerie dragon, add its spellcasting level to find a working Challenge Rating, lowering it if the dragon is surprised or unprepared.
+
 **Table: Faerie Dragons by Age** ^table-faerie-dragons-by-age
 
 | Age          | Hit Dice (hp) | Color         | AC          | Attack Bonus | Fort Defense | Ref Defense | Will Defense | Breath Weapon Attack | SR  |
@@ -106,7 +108,7 @@ Faerie dragons avoid combat when they can, and refrain from inflicting damage un
 | Wyrm         | 14  | 19  | 13  | 15  | 17  | 15  | 14     | 13     |
 | Great Wyrm   | 14  | 19  | 13  | 15  | 17  | 15  | 16     | 14     |
 
-**Breath Weapon (Su)**: A faerie dragon has one type of breath weapon—a cloud of euphoric gas. The gas attacks the Fortitude of anyone caught in the cloud, and those it hits are struck with a euphoria that causes them to wander around blissfully for 3d4 minutes. During that time, the victim is unable to attack, cast spells, or defend themselves (treat as [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]]). While in the state of euphoria, the victim can make an Intelligence check each round against a DC of 10 + the breath weapon's attack bonus to keep his mind on the situation. If a check fails, the victim is unaware of events that may occur during the remaining duration of the breath weapon’s effect.
+**Breath Weapon (Su)**: A faerie dragon has one type of breath weapon—a cloud of euphoric gas, 10 feet in radius per age category. The dragon is immune to its own breath. The gas attacks the Fortitude of anyone caught in the cloud, and those it hits are struck with a euphoria that causes them to wander around blissfully for 3d4 minutes. During that time, the victim is unable to attack, cast spells, or defend themselves (treat as [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]]). While in the state of euphoria, the victim can make an Intelligence check each round against a DC of 10 + the breath weapon's attack bonus to keep his mind on the situation. If a check fails, the victim is unaware of events that may occur during the remaining duration of the breath weapon’s effect.
 
 **Natural Invisibility (Su)**: Faerie dragons are equally comfortable being visible or invisible. A faerie dragon can attack and use its special abilities while invisible and not be revealed. Faerie dragons can become [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] at will as a free action.
 

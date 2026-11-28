@@ -26,3 +26,5 @@ _Uncommon:_ Alden lives on a small island in the middle of the bog near the Bott
 _Rare: Doorways_ to the Outer Planes can be found here, but most exist in the Pit, keeping many unwanted planar visitors from gaining easy access to the Twilight Lands.
 
 _Obscure:_ The door to the Bottomless Pit is heavily enchanted and also protected by a huge earth elemental that will not let anyone out unless Alden accompanies them.
+
+_Obscure:_ A node lies somewhere in the Pit. Whoever finds it and stays there long enough can perform the ritual for a [[rangoric-srd/races/prestige-races/Prestige Races|prestige race]].

@@ -35,6 +35,8 @@ When fey creatures create _doorways_, they often charge fey guardians (and somet
 
 The process of creating a _fey road_ with adjoining _doorways_ also enlists the service of a [[rangoric-srd/monsters/Doorway Guardian|doorway guardian]] to protect the route from accidental, unwanted, or unauthorized travelers. As a secondary layer of protection, many creators also add a method of activation. (See [[rangoric-srd/rules/Fey Roads and Doorways#Methods of Opening Doorways|Methods of Opening Doorways]] below.)
 
+Once made, a _doorway_ stays where it is. Only Alden, the Keeper of Doors of the [[rangoric-srd/flavor/the-fey-realm/places/Bottomless Pit|Bottomless Pit]], can latch onto a _doorway_ and move it, and only when he is directed to.
+
 **Crossroads:** “_Crossroads_” is a misnomer applied to _doorways_ that open onto roads with both endpoints on the same mortal world. These _doorways_ get their name from the x-shaped bluish-glowing shadows seen on the ground by eyes gifted with the [[rangoric-srd/feats/Second Sight (Feat)|Second Sight]] feat or those casting the 0-level spell _[[rangoric-srd/spells/Detect Doorway|detect doorway]]_.
 
 ### Locations for Fey Doorways

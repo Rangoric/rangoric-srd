@@ -45,7 +45,7 @@ Given the strong feelings that draw a fey to champion an Aspect of Nature, it is
 
 ### How the Aspects Link
 
-Each element sits between two seasons and two times of day; each time of day also links the two creature aspects beside it. An aspect can change to any aspect linked to it by a line.
+Each element sits between two seasons and two times of day; each time of day also links the two creature aspects beside it. An aspect can change to any aspect linked to it by a line. Drawn out, the eight seasons and elements form the outer ring; between each pair of elements, the season lies on the outer arc and the time of day on the inner one, and the four creature aspects sit in the middle, between the times of day.
 
 ```mermaid
 graph TD
@@ -107,4 +107,4 @@ Often described as the “calm before the storm,” these abilities allow charac
 
 **Effective/Ineffective Spells:** A spell cast by a character with this ability gains a bonus point of damage per die. A subsequent spell of equal spell level (or multiple lower level spells adding up to the same spell level) is cast ineffectively, doing one point of damage less per die.
 
-**Practiced/Amateur Spellcasting:** Practiced spells or spell types are so well known to the caster that he casts them as if he were one spellcasting level higher with respect to damage, ranges, etc. Conversely, his knowledge is lacking with an appropriate reverse spell type, which he casts as if he were one level lower in experience. This benefit cannot be gained if the caster avoids or never uses the amateur spells or spell types.
+**Practiced/Amateur Spellcasting:** Practiced spells or spell types are so well known to the caster that he casts them as if he were one spellcasting level higher with respect to damage, ranges, etc. Conversely, his knowledge is lacking with an appropriate reverse spell type, which he casts as if he were one level lower in experience. This benefit cannot be gained if the caster avoids or never uses the amateur spells or spell types. The spell types are tied to the aspect taken: Aspect of the Fire (Ash), for example, is practiced at fire spells and amateur at cold spells. For other aspects, the GM and player choose them together.

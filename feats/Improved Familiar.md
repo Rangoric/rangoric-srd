@@ -29,6 +29,7 @@ Benefit: When choosing a familiar, the creatures listed below are also available
 | [[rangoric-srd/monsters/azata/Lyrakien\|Lyrakien azata]]           | Chaotic Good    | 7th                      |
 | [[rangoric-srd/monsters/gremlin/Nuglub\|Nuglub gremlin]]           | Chaotic Evil    | 7th                      |
 | [[rangoric-srd/monsters/aeons/Paracletus\|Paracletus aeon]]        | Neutral         | 7th                      |
+| [[rangoric-srd/monsters/sprite/Pixie\|Pixie]]                      | Neutral Good    | 8th                      |
 | Pseudodragon                                                       | Neutral Good    | 7th                      |
 | Quasit                                                             | Chaotic Evil    | 7th                      |
 | Resolute owl (a)                                                   | Lawful Neutral  | 3rd                      |

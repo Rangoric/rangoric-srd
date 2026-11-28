@@ -57,13 +57,15 @@ _Magic sand_ is an arcane substance refined from the crystallized soil of a dese
 
 The properties and uses of _magic sand_ are quite broad, whether it is used in the fey realm or the mortal worlds. Its definite and rumored powers are noted below, and in the _[[rangoric-srd/spells/Harvest Magic Sand|harvest magic sand]]_ spell. ^magic-sand
 
-- Using _magic sand_ (whether on its own or as _fey dust_) always incurs a slightly random effect. Whenever it is in use, the GM rolls on [[#^table-magic-sand-wild-characteristics|Table: Magic Sand Wild Characteristics]] and invokes the random effect it gives.
+- Using _magic sand_ (whether on its own or as _fey dust_) always incurs a slightly random effect. Whenever it is in use, the GM rolls on [[#^table-magic-sand-wild-characteristics|Table: Magic Sand Wild Characteristics]] and invokes the random effect it gives. There is no separate save against these side effects (the GM has the final say); treat _magic sand_ as a material metamagic.
 - _Magic sand_ is most commonly used as a universal spell component by the fey; in fact, the [[rangoric-srd/feats/Fey Magic|Fey Magic]] feat makes it usable as a component for any spell.
 - Using _magic sand_ as a spell component always adds +1 per die of the spell effect, whether it is damage or healing or the number of creatures affected. If there are no dice in the spell’s effects, it adds +1 per spell level to the DC to resist the spell’s effects.
 - Adding one ounce of _magic sand_ per spell level in addition to the normal spell components imbues the spell with the effects of either [[rangoric-srd/feats/Empower Spell|Empower Spell]] or [[rangoric-srd/feats/Spell Penetration|Spell Penetration]].
 - In mortal worlds, _magic sand_ can be worth up to 100 gp per ounce (5d20, depending on region and local supply and demand). In the fey realm, _magic sand_ is sold for up to 100 sp per ounce (5d20).
 - _Magic sand_ can be used to make magic items. _[[rangoric-srd/magic-items/dusts/Fey Dusts|Fey dusts]]_ are the most common sand-derived items. Rumors and legends suggest some fey craftsmen can forge very strong and very magical glass weapons and armors out of _magic sand_, though few have ever been seen.
 - Mortal wizards use _magic sand_ as a universal component in making magic items. Each ounce of _magic sand_ can be used instead of 150 gp worth of gems or other rare materials. It cannot be used to form the item itself unless one makes _fey dust_ or other magical dusts and powders. Using the sand generally reduces the time to create an item by up to 25% (5% per ounce used).
+- Refining _magic sand_ costs experience points as creating a magic item does.
+- _Optional rule_: to keep _magic sand_ from being abused, a character can carry no more than one pound of it per caster level.
 
 #### Magic Sand Wild Characteristics
 
