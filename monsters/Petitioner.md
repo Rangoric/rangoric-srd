@@ -18,8 +18,8 @@ special-attacks: "—"
 special-qualities: "Darkvision 60 ft., petitioner traits, immunity to mind-affecting effects"
 defenses: "Fort 14, Ref 13, Will 10"
 abilities: "Str 11, Dex 10, Con 13, Int 10, Wis 11, Cha 10"
-skills: "Craft (any two) +5, Perception +5, Sense Motive +5, Stealth +5, Theology +5"
-skill-ranks: "Craft (any two) 2, Perception 2, Sense Motive 2, Stealth 2, Theology 2"
+skills: "Background (any two crafts) +5, Perception +5, Sense Motive +5, Stealth +5, Theology +5"
+skill-ranks: "Background (any two crafts) 2, Perception 2, Sense Motive 2, Stealth 2, Theology 2"
 feats: "Toughness"
 environment: "Any (Outer Planes)"
 organization: "Solitary, pair, group (3–12), or army (13 or more)"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., petitioner traits, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
 - **Defenses**: Fort 14, Ref 13, Will 10
 - **Abilities**: Str 11, Dex 10, Con 13, Int 10, Wis 11, Cha 10
-- **Skills**: [[rangoric-srd/skills/Craft|Craft]] (any two) +5, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +5, [[rangoric-srd/skills/Theology|Theology]] +5
+- **Skills**: [[rangoric-srd/skills/Background|Background]] (any two crafts) +5, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +5, [[rangoric-srd/skills/Theology|Theology]] +5
 - **Feats**: [[rangoric-srd/feats/Toughness|Toughness]]
 - **Environment**: Any (Outer Planes)
 - **Organization**: Solitary, pair, group (3–12), or army (13 or more)

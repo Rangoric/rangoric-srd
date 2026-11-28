@@ -77,4 +77,4 @@ A typical cephalophore stands 10 to 15 feet tall and weighs 4,000 pounds. Cephal
 
 A cephalophore is constructed from a single block of marble weighing at least 4,000 pounds and costing 3,500 gp.
 
-CL 11th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Animate Objects|animate objects]]_, _[[rangoric-srd/spells/Daze Monster|daze monster]]_, _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, _[[rangoric-srd/spells/Resurrection|resurrection]]_, creator must be caster level 11th; Skill [[rangoric-srd/skills/Craft|Craft]] (sculpture) DC 20; Price 33,500 gp; Cost 18,500 gp.
+CL 11th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Animate Objects|animate objects]]_, _[[rangoric-srd/spells/Daze Monster|daze monster]]_, _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, _[[rangoric-srd/spells/Resurrection|resurrection]]_, creator must be caster level 11th; Skill [[rangoric-srd/skills/Background|Background]] (sculpting) DC 20; Price 33,500 gp; Cost 18,500 gp.

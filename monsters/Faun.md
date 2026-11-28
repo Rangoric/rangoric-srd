@@ -17,7 +17,7 @@ special-attacks: "Panpipes, spell-like abilities"
 special-qualities: "Low-light vision, damage reduction 2/cold iron"
 defenses: "Fort 12, Ref 16, Will 15"
 abilities: "Str 14, Dex 16, Con 13, Int 11, Wis 14, Cha 17"
-skills: "Acrobatics +8, Deception +9, Fieldcraft +4, Perception +8, Performance (wind instruments) +11, Sense Motive +7, Stealth +9"
+skills: "Acrobatics +8, Deception +9, Fieldcraft +4, Perception +8, Performance (wind instruments) +14, Sense Motive +7, Stealth +9"
 skill-ranks: "Acrobatics 2, Deception 3, Fieldcraft 2, Perception 3, Performance (wind instruments) 8, Sense Motive 2, Stealth 3"
 feats: "Point Blank Shot, Weapon Finesse"
 environment: "Temperate forests"
@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 2/cold iron
 - **Defenses**: Fort 12, Ref 16, Will 15
 - **Abilities**: Str 14, Dex 16, Con 13, Int 11, Wis 14, Cha 17
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Deception|Deception]] +9, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Performance|Performance]] (wind instruments) +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +9
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Deception|Deception]] +9, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Performance|Performance]] (wind instruments) +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +9
 - **Feats**: [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
 - **Environment**: Temperate forests
 - **Organization**: Solitary, pair, or band (3–8)

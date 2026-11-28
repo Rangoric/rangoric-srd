@@ -61,6 +61,6 @@ The ill-tempered “river horse” has a well-earned reputation for hostility, d
 
 ### Combat
 
-**Capsize (Ex)**: A hippopotamus can overturn a boat of its size or smaller by ramming it as a charge attack and making a CMB check. The DC of this check is 25 or the result of the boat captain's Profession (sailor) check, whichever is higher.
+**Capsize (Ex)**: A hippopotamus can overturn a boat of its size or smaller by ramming it as a charge attack and making a CMB check. The DC of this check is 25 or the result of the boat captain's Background (sailor) check, whichever is higher.
 
 **Sweat (Ex)**: A hippo's reddish sweat protects it from nonlethal damage from hot environments, and grants it a +2 racial bonus on defenses against nonmagical disease.

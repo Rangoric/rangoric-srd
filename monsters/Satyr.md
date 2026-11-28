@@ -17,7 +17,7 @@ special-attacks: "Pipes, spell-like abilities"
 special-qualities: "Low-light vision, damage reduction 5/cold iron"
 defenses: "Fort 14, Ref 18, Will 18"
 abilities: "Str 14, Dex 15, Con 15, Int 12, Wis 14, Cha 19"
-skills: "Deception +15, Fieldcraft +7, Imitation +9, Intimidation +9, Nature +10, Perception +18, Performance (wind instruments) +19, Persuasion +15, Stealth +17"
+skills: "Deception +15, Fieldcraft +7, Imitation +9, Intimidation +9, Nature +10, Perception +18, Performance (wind instruments) +22, Persuasion +15, Stealth +17"
 skill-ranks: "Deception 8, Fieldcraft 2, Imitation 2, Intimidation 2, Nature 6, Perception 9, Performance (wind instruments) 15, Persuasion 8, Stealth 8"
 feats: "Dodge, Mobility, Skill Focus (Perception), Weapon Finesse"
 environment: "Temperate forests"
@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron
 - **Defenses**: Fort 14, Ref 18, Will 18
 - **Abilities**: Str 14, Dex 15, Con 15, Int 12, Wis 14, Cha 19
-- **Skills**: [[rangoric-srd/skills/Deception|Deception]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7, [[rangoric-srd/skills/Imitation|Imitation]] +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Nature|Nature]] +10, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Performance|Performance]] (wind instruments) +19, [[rangoric-srd/skills/Persuasion|Persuasion]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +17
+- **Skills**: [[rangoric-srd/skills/Deception|Deception]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7, [[rangoric-srd/skills/Imitation|Imitation]] +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Nature|Nature]] +10, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Performance|Performance]] (wind instruments) +22, [[rangoric-srd/skills/Persuasion|Persuasion]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +17
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
 - **Environment**: Temperate forests
 - **Organization**: Solitary, pair, band (3–6), orgy (7–11), or troop (6–11)
@@ -97,7 +97,7 @@ Satyr characters possess the following racial traits.
 
 - Racial Hit Dice: A satyr begins with eight levels of [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|fey]], which provide 8d6 Hit Dice, a base attack bonus of +4, and base saving throw bonuses of Fort +2, Ref +6, and Will +6.
 
-- Racial Skills: A satyr’s fey levels give it skill points equal to 8 x (6 + Int modifier). Its class skills are [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Nature|Nature]], [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Performance|Performance]], and [[rangoric-srd/skills/Stealth|Stealth]]. Satyrs have a +4 racial bonus on Stealth, Perception, and Performance checks.
+- Racial Skills: A satyr’s fey levels give it skill points equal to 8 x (6 + Int modifier). Its class skills are [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Nature|Nature]], [[rangoric-srd/skills/Perception|Perception]], and [[rangoric-srd/skills/Stealth|Stealth]]. Satyrs have a +4 racial bonus on Stealth, Perception, and Performance checks.
 
 - Racial Feats: A satyr’s fey levels give it four feats. A satyr receives [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception) as a bonus feat.
 

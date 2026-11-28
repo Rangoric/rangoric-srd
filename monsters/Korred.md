@@ -17,8 +17,8 @@ special-attacks: "Animated hair, stunning laugh, rock throwing (100 ft.), spell-
 special-qualities: "Low-light vision, stone stride, damage reduction 5/cold iron, spell resistance 15"
 defenses: "Fort 14, Ref 18, Will 17"
 abilities: "Str 19, Dex 17, Con 14, Int 12, Wis 14, Cha 13"
-skills: "Acrobatics +12, Craft (rope) +10, Craft (sculpture) +10, Deception +10, Perception +14, Performance (dance) +10, Stealth +16"
-skill-ranks: "Acrobatics 6, Craft (rope) 6, Craft (sculpture) 6, Deception 6, Perception 9, Performance (dance) 6, Stealth 6"
+skills: "Acrobatics +12, Background (ropemaking) +10, Background (sculpting) +10, Deception +10, Perception +14, Performance (dance) +10, Stealth +16"
+skill-ranks: "Acrobatics 6, Background (ropemaking) 6, Background (sculpting) 6, Deception 6, Perception 9, Performance (dance) 6, Stealth 6"
 feats: "Dodge, Mobility, Skill Focus (Perception)"
 environment: "Temperate forests"
 organization: "Solitary, pair, or gang (3–6)"
@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], stone stride, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 15
 - **Defenses**: Fort 14, Ref 18, Will 17
 - **Abilities**: Str 19, Dex 17, Con 14, Int 12, Wis 14, Cha 13
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Craft|Craft]] (rope) +10, [[rangoric-srd/skills/Craft|Craft]] (sculpture) +10, [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Performance|Performance]] (dance) +10, [[rangoric-srd/skills/Stealth|Stealth]] +16
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Background|Background]] (ropemaking) +10, [[rangoric-srd/skills/Background|Background]] (sculpting) +10, [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Performance|Performance]] (dance) +10, [[rangoric-srd/skills/Stealth|Stealth]] +16
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
 - **Environment**: Temperate forests
 - **Organization**: Solitary, pair, or gang (3–6)

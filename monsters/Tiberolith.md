@@ -73,4 +73,4 @@ Its stone body is filled with an acidic blue alchemical liquid that channels ele
 
 A tiberolith is created from three stone slabs (2,500 pounds each). They're bound with plant matter or sinew treated with unguents costing at least 7,000 gp.
 
-CL 12th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Acid Fog|acid fog]]_, _[[rangoric-srd/spells/Limited Wish|limited wish]]_, _[[rangoric-srd/spells/Stone Shape|stone shape]]_, creator must be at least caster level 11th; Skill [[rangoric-srd/skills/Craft|Craft]] (sculptures) or [[rangoric-srd/skills/Craft|Craft]] (stonemasonry) DC 18; Price 48,000 gp; Cost 24,000 gp.
+CL 12th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Acid Fog|acid fog]]_, _[[rangoric-srd/spells/Limited Wish|limited wish]]_, _[[rangoric-srd/spells/Stone Shape|stone shape]]_, creator must be at least caster level 11th; Skill [[rangoric-srd/skills/Background|Background]] (sculpting) or [[rangoric-srd/skills/Background|Background]] (stonemasonry) DC 18; Price 48,000 gp; Cost 24,000 gp.

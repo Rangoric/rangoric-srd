@@ -17,8 +17,8 @@ special-attacks: "Constrict (1d6+5), poison, spell-like abilities"
 special-qualities: "Darkvision 60 ft., tremorsense 30 ft., scorpion empathy +10, undersized weapons"
 defenses: "Fort 18, Ref 21, Will 19"
 abilities: "Str 20, Dex 15, Con 21, Int 10, Wis 14, Cha 11"
-skills: "Athletics +17, Craft (any one) +8, Fieldcraft +15, Perception +14, Sense Motive +7, Society +5, Stealth +10"
-skill-ranks: "Athletics 5, Craft (any one) 5, Fieldcraft 10, Perception 5, Sense Motive 2, Society 2, Stealth 5"
+skills: "Athletics +17, Background (any one craft) +8, Fieldcraft +15, Perception +14, Sense Motive +7, Society +5, Stealth +10"
+skill-ranks: "Athletics 5, Background (any one craft) 5, Fieldcraft 10, Perception 5, Sense Motive 2, Society 2, Stealth 5"
 feats: "Dodge, Improved Initiative, Lightning Reflexes, Mobility, Vital Strike"
 environment: "Warm deserts"
 organization: "Solitary, pair, patrol (3–5 plus 2–4 giant scorpions), or cult (6–14 plus 3–6 temple guardians of 3rd level, 1 cleric or oracle leader of 6th level, and 4–9 giant scorpions)"
@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 30 ft., [[rangoric-srd/monsters/abilities/Scorpion Empathy|scorpion empathy]] +10, [[rangoric-srd/monsters/abilities/Undersized Weapons|undersized weapons]]
 - **Defenses**: Fort 18, Ref 21, Will 19
 - **Abilities**: Str 20, Dex 15, Con 21, Int 10, Wis 14, Cha 11
-- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +17, [[rangoric-srd/skills/Craft|Craft]] (any one) +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +15, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Society|Society]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +10
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +17, [[rangoric-srd/skills/Background|Background]] (any one craft) +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +15, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Society|Society]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +10
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
 - **Environment**: Warm deserts
 - **Organization**: Solitary, pair, patrol (3–5 plus 2–4 giant scorpions), or cult (6–14 plus 3–6 temple guardians of 3rd level, 1 cleric or oracle leader of 6th level, and 4–9 giant scorpions)

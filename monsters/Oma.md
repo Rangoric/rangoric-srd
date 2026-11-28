@@ -63,7 +63,7 @@ A typical oma is 150 feet long and weighs 250 tons.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Capsize|Capsize]] (Ex)**: An oma can attempt to capsize a ship or other vehicle by ramming it as a charge attack and attempting a combat maneuver check. The DC of this check is 25, or the result of the captain's Profession (sailor) check, whichever is higher. For each size category the ship is larger than the oma, the oma takes a cumulative -10 penalty on this combat maneuver check.
+**[[rangoric-srd/monsters/abilities/Capsize|Capsize]] (Ex)**: An oma can attempt to capsize a ship or other vehicle by ramming it as a charge attack and attempting a combat maneuver check. The DC of this check is 25, or the result of the captain's Background (sailor) check, whichever is higher. For each size category the ship is larger than the oma, the oma takes a cumulative -10 penalty on this combat maneuver check.
 
 **[[rangoric-srd/monsters/abilities/Carrier|Carrier]] (Ex)**: A creature swallowed whole by an oma can forgo attempts to cut itself out and instead attempt a DC 20 Reflex check (1d20 + Reflex save bonus) on its turn. Success allows the creature to move into the creature's larger second stomach, where it can ride safely for an indefinite period without taking damage. When a passenger wishes to leave, it can cut its way free using the normal rules, or attempt an additional DC 20 Reflex check to be safely excreted in a square adjacent to the oma. An oma's carrier stomach can hold up to one Gargantuan creature (or twice as many creatures of the next smallest size: two Huge creatures, four Large, and so on). At its option, an oma can choose to forgo the normal bite damage of swallowing whole, but not the acid damage of the first stomach.
 

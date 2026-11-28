@@ -18,8 +18,8 @@ special-attacks: "Agonized wail (+8 vs Will), baleful gaze (+8 vs Fortitude), ba
 special-qualities: "Darkvision 60 ft., low-light vision, damage reduction 5/-, immunity to electricity, petrification and poison, resistance to acid 5, cold 10, fire 10 and sonic 5"
 defenses: "Fort 22, Ref 20, Will 16"
 abilities: "Str 20, Dex 17, Con 27, Int 14, Wis 8, Cha 21"
-skills: "Acrobatics +11, Deception +15, Fieldcraft +10, Intimidation +13, Nature +9, Perception +9, Perform (string) +17, Sense Motive +9, Stealth +9"
-skill-ranks: "Acrobatics 7, Deception 7, Fieldcraft 4, Intimidation 0, Nature 4, Perception 7, Perform (string) 12, Sense Motive 7, Stealth 7"
+skills: "Acrobatics +11, Deception +15, Fieldcraft +10, Intimidation +13, Nature +9, Perception +9, Performance (string instruments) +20, Sense Motive +9, Stealth +9"
+skill-ranks: "Acrobatics 7, Deception 7, Fieldcraft 4, Intimidation 0, Nature 4, Perception 7, Performance (string instruments) 12, Sense Motive 7, Stealth 7"
 feats: "Combat Casting, Diehard, Endurance, Great Fortitude, Hover, Iron Will, Lightning Reflexes, Toughness"
 environment: "Any"
 organization: "Solitary"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity, petrification and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 5, cold 10, fire 10 and sonic 5
 - **Defenses**: Fort 22, Ref 20, Will 16
 - **Abilities**: Str 20, Dex 17, Con 27, Int 14, Wis 8, Cha 21
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Deception|Deception]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Nature|Nature]] +9, [[rangoric-srd/skills/Perception|Perception]] +9, Perform (string) +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +9
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Deception|Deception]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Nature|Nature]] +9, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Performance|Performance]] (string instruments) +20, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +9
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Toughness|Toughness]]
 - **Environment**: Any
 - **Organization**: Solitary

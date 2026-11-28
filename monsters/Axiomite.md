@@ -18,8 +18,8 @@ special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 60 ft., regeneration 5 (chaotic or magic), crystalline dust form, damage reduction 10/chaotic, immunity to disease, electricity and mind-affecting effects, resistance to cold 10 and fire 10, spell resistance 19"
 defenses: "Fort 16, Ref 21, Will 24"
 abilities: "Str 21, Dex 19, Con 16, Int 21, Wis 20, Cha 20"
-skills: "Acrobatics +8, Craft (any one) +18, Fieldcraft +18, Knowledge +15, Mysticism +18, Perception +18, Persuasion +18, Sense Motive +18, Stealth +17, Theology +18"
-skill-ranks: "Acrobatics 1, Craft (any one) 10, Fieldcraft 10, Knowledge 7, Mysticism 10, Perception 10, Persuasion 10, Sense Motive 10, Stealth 10, Theology 10"
+skills: "Acrobatics +8, Background (any one craft) +18, Fieldcraft +18, Knowledge +15, Mysticism +18, Perception +18, Persuasion +18, Sense Motive +18, Stealth +17, Theology +18"
+skill-ranks: "Acrobatics 1, Background (any one craft) 10, Fieldcraft 10, Knowledge 7, Mysticism 10, Perception 10, Persuasion 10, Sense Motive 10, Stealth 10, Theology 10"
 feats: "Dodge, Empower Spell-Like Ability (order's wrath), Improved Initiative, Iron Will, Mobility"
 environment: "Any (lawful plane)"
 organization: "Solitary, pair, or team (3–12)"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (chaotic or magic), [[rangoric-srd/monsters/abilities/Crystalline Dust Form|crystalline dust form]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/chaotic, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease, electricity and mind-affecting effects, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 19
 - **Defenses**: Fort 16, Ref 21, Will 24
 - **Abilities**: Str 21, Dex 19, Con 16, Int 21, Wis 20, Cha 20
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Craft|Craft]] (any one) +18, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +18, [[rangoric-srd/skills/Knowledge|Knowledge]] +15, [[rangoric-srd/skills/Mysticism|Mysticism]] +18, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Persuasion|Persuasion]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +18, [[rangoric-srd/skills/Stealth|Stealth]] +17, [[rangoric-srd/skills/Theology|Theology]] +18
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Background|Background]] (any one craft) +18, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +18, [[rangoric-srd/skills/Knowledge|Knowledge]] +15, [[rangoric-srd/skills/Mysticism|Mysticism]] +18, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Persuasion|Persuasion]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +18, [[rangoric-srd/skills/Stealth|Stealth]] +17, [[rangoric-srd/skills/Theology|Theology]] +18
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Empower Spell-Like Ability|Empower Spell-Like Ability]] (order's wrath), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]]
 - **Environment**: Any (lawful plane)
 - **Organization**: Solitary, pair, or team (3–12)

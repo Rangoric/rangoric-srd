@@ -106,6 +106,6 @@ This example uses a 5th-level human fighter as the base creature. Its CMD includ
 - **Special Qualities**: [[rangoric-srd/classes/Druid#^druid-woodland-stride|Woodland stride]]
 - **Defenses**: Fort 17, Ref 13, Will 12
 - **Abilities**: Str 16, Dex 15, Con 16, Int 12, Wis 12, Cha 14
-- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +3, [[rangoric-srd/skills/Craft|Craft]] (weaponsmithing) +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Investigation|Investigation]] +6, [[rangoric-srd/skills/Nature|Nature]] +5, [[rangoric-srd/skills/Perception|Perception]] +10
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +3, [[rangoric-srd/skills/Background|Background]] (weaponsmithing) +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Investigation|Investigation]] +6, [[rangoric-srd/skills/Nature|Nature]] +5, [[rangoric-srd/skills/Perception|Perception]] +10
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (scimitar), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (scimitar)
 - **Challenge Rating**: 8

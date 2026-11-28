@@ -66,6 +66,6 @@ Typical sea serpents are 60 feet in length and weigh 4,500 pounds, but their upw
 
 ### Combat
 
-**Capsize (Ex)**: A sea serpent can attempt to capsize a boat or ship of its size or smaller by ramming it as a charge attack and making a combat maneuver check. The DC of this check is 25 or the result of the boat captain's Profession (sailor) check, whichever is higher.
+**Capsize (Ex)**: A sea serpent can attempt to capsize a boat or ship of its size or smaller by ramming it as a charge attack and making a combat maneuver check. The DC of this check is 25 or the result of the boat captain's Background (sailor) check, whichever is higher.
 
 **Elusive (Su)**: Sea serpents have long been the stuff of maritime legends, but despite countless attempts to hunt them, they are rarely encountered unless they wish it. As a full-round action while in water, a sea serpent can move up to its run speed (300 ft.) without leaving any trace of its passing (identical in effect to a _[[rangoric-srd/spells/Pass without Trace|pass without trace]]_). An elusive sea serpent gains a +40 circumstance bonus to its Stealth check. In addition, except when in combat, a sea serpent is considered to be under the effects of a _[[rangoric-srd/spells/Nondetection|nondetection]]_ spell. Both of these spell effects are at caster level 20th and cannot be dispelled.

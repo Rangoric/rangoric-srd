@@ -73,4 +73,4 @@ Tupilaqs must be created in secrecy—if any other person discovers the tupilaq 
 
 ### Construction
 
-CL 8th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, _[[rangoric-srd/spells/Keen Edge|keen edge]]_, _[[rangoric-srd/spells/Locate Creature|locate creature]]_, creator must be caster level 8th, creation must be done in complete secrecy; Skill [[rangoric-srd/skills/Craft|Craft]] (scrimshaw) DC 20; Price 21,000 gp; Cost 10,875 gp.
+CL 8th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, _[[rangoric-srd/spells/Keen Edge|keen edge]]_, _[[rangoric-srd/spells/Locate Creature|locate creature]]_, creator must be caster level 8th, creation must be done in complete secrecy; Skill [[rangoric-srd/skills/Background|Background]] (scrimshaw) DC 20; Price 21,000 gp; Cost 10,875 gp.

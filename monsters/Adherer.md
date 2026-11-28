@@ -17,8 +17,8 @@ special-attacks: "Grab (Large)"
 special-qualities: "Darkvision 60 ft., adhesive, damage reduction 5/-, spell resistance 14"
 defenses: "Fort 13, Ref 17, Will 15"
 abilities: "Str 14, Dex 16, Con 15, Int 4, Wis 13, Cha 11"
-skills: "Athletics +10, Craft (cloth) +3, Craft (traps) +1, Perception +5, Stealth +11"
-skill-ranks: "Athletics 5, Craft (cloth) 3, Craft (traps) 1, Perception 1, Stealth 1"
+skills: "Athletics +10, Background (weaving) +3, Background (trapmaking) +1, Perception +5, Stealth +11"
+skill-ranks: "Athletics 5, Background (weaving) 3, Background (trapmaking) 1, Perception 1, Stealth 1"
 feats: "Agile Maneuvers, Combat Reflexes"
 environment: "Any temperate or underground"
 organization: "Solitary, gang (2–5), or nest (6–12)"
@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Adhesive|adhesive]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 14
 - **Defenses**: Fort 13, Ref 17, Will 15
 - **Abilities**: Str 14, Dex 16, Con 15, Int 4, Wis 13, Cha 11
-- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Craft|Craft]] (cloth) +3, [[rangoric-srd/skills/Craft|Craft]] (traps) +1, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +11
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Background|Background]] (weaving) +3, [[rangoric-srd/skills/Background|Background]] (trapmaking) +1, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +11
 - **Feats**: [[rangoric-srd/feats/Agile Maneuvers|Agile Maneuvers]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]]
 - **Environment**: Any temperate or underground
 - **Organization**: Solitary, gang (2–5), or nest (6–12)

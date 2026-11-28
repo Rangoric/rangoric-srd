@@ -71,4 +71,4 @@ Tophets stand 10 feet tall and weigh 3,000 pounds.
 
 ### Construction
 
-CL 12th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_, _[[rangoric-srd/spells/Endure Elements|endure elements]]_, creator must be caster level 12th; Skill [[rangoric-srd/skills/Craft|Craft]] (sculptures) DC 20; Price 45,000 gp; Cost 23,500 gp.
+CL 12th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_, _[[rangoric-srd/spells/Endure Elements|endure elements]]_, creator must be caster level 12th; Skill [[rangoric-srd/skills/Background|Background]] (sculpting) DC 20; Price 45,000 gp; Cost 23,500 gp.

@@ -18,8 +18,8 @@ special-attacks: "Drowning touch (+4 vs Fortitude), enchanting music (+9 vs Will
 special-qualities: "Low-light vision, amphibious, transparency, treasure form, damage reduction 5/cold iron"
 defenses: "Fort 15, Ref 19, Will 18"
 abilities: "Str 10, Dex 17, Con 15, Int 12, Wis 14, Cha 21"
-skills: "Athletics +18, Deception +17, Nature +10, Perception +17, Perform (sing) +10, Perform (string) +21, Persuasion +9, Sense Motive +14, Sleight of Hand +10, Society +6, Stealth +15"
-skill-ranks: "Athletics 11, Deception 9, Nature 6, Perception 11, Perform (sing) 6, Perform (string) 17, Persuasion 1, Sense Motive 11, Sleight of Hand 4, Society 2, Stealth 9"
+skills: "Athletics +18, Deception +17, Nature +10, Perception +17, Performance (sing) +13, Performance (string instruments) +24, Persuasion +9, Sense Motive +14, Sleight of Hand +10, Society +6, Stealth +15"
+skill-ranks: "Athletics 11, Deception 9, Nature 6, Perception 11, Performance (sing) 6, Performance (string instruments) 17, Persuasion 1, Sense Motive 11, Sleight of Hand 4, Society 2, Stealth 9"
 feats: "Dodge, Improved Initiative, Weapon Finesse, Weapon Focus (slam), Skill Focus (Perception)"
 environment: "Cold or temperate water (waterfalls)"
 organization: "Solitary"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Transparency|transparency]], [[rangoric-srd/monsters/abilities/Treasure Form|treasure form]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron
 - **Defenses**: Fort 15, Ref 19, Will 18
 - **Abilities**: Str 10, Dex 17, Con 15, Int 12, Wis 14, Cha 21
-- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Deception|Deception]] +17, [[rangoric-srd/skills/Nature|Nature]] +10, [[rangoric-srd/skills/Perception|Perception]] +17, Perform (sing) +10, Perform (string) +21, [[rangoric-srd/skills/Persuasion|Persuasion]] +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +10, [[rangoric-srd/skills/Society|Society]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +15
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Deception|Deception]] +17, [[rangoric-srd/skills/Nature|Nature]] +10, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Performance|Performance]] (sing) +13, [[rangoric-srd/skills/Performance|Performance]] (string instruments) +24, [[rangoric-srd/skills/Persuasion|Persuasion]] +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +10, [[rangoric-srd/skills/Society|Society]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +15
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
 - **Environment**: Cold or temperate water (waterfalls)
 - **Organization**: Solitary

@@ -65,4 +65,4 @@ Symbols of power but also of gluttony, taotiehs are guardian constructs formed o
 
 ### Construction
 
-CL 14th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, _[[rangoric-srd/spells/Limited Wish|limited wish]]_, _[[rangoric-srd/spells/Plane Shift|plane shift]]_, creator must be caster level 14th; Skill [[rangoric-srd/skills/Craft|Craft]] (sculpture) or [[rangoric-srd/skills/Craft|Craft]] (stonemasonry) DC 25; Price 105,000 gp; Cost 55,000 gp.
+CL 14th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, _[[rangoric-srd/spells/Limited Wish|limited wish]]_, _[[rangoric-srd/spells/Plane Shift|plane shift]]_, creator must be caster level 14th; Skill [[rangoric-srd/skills/Background|Background]] (sculpting) or [[rangoric-srd/skills/Background|Background]] (stonemasonry) DC 25; Price 105,000 gp; Cost 55,000 gp.

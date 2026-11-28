@@ -19,8 +19,8 @@ special-attacks: "—"
 special-qualities: "Alternate form, amorphous, resilient, scent, telepathy 100 ft., tremorsense 60 ft."
 defenses: "Fort 21, Ref 21, Will 21"
 abilities: "Str 12, Dex 15, Con 15, Int 16, Wis 15, Cha 14"
-skills: "Athletics +10, Craft (any one) +15, Deception +20, Fieldcraft +11, Imitation +21 (+23 acting)*, Intimidation +2, Knowledge skill (any one) +21, Perception +16, Persuasion +6"
-skill-ranks: "Athletics 6, Craft (any one) 9, Deception 15, Fieldcraft 6, Imitation 15, Intimidation 0, Knowledge skill (any one) 15, Perception 8, Persuasion 1"
+skills: "Athletics +10, Background (any one craft) +15, Deception +20, Fieldcraft +11, Imitation +21 (+23 acting)*, Intimidation +2, Knowledge skill (any one) +21, Perception +16, Persuasion +6"
+skill-ranks: "Athletics 6, Background (any one craft) 9, Deception 15, Fieldcraft 6, Imitation 15, Intimidation 0, Knowledge skill (any one) 15, Perception 8, Persuasion 1"
 feats: "Blind-Fight, Combat Reflexes, Dodge, Improved Initiative, Mobility, Skill Focus (Perception)"
 environment: "Underground"
 organization: "Solitary"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Alternate Form|Alternate form]], amorphous, resilient, [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft.
 - **Defenses**: Fort 21, Ref 21, Will 21
 - **Abilities**: Str 12, Dex 15, Con 15, Int 16, Wis 15, Cha 14
-- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Craft|Craft]] (any one) +15, [[rangoric-srd/skills/Deception|Deception]] +20, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +11, [[rangoric-srd/skills/Imitation|Imitation]] +21 (+23 acting)\*, [[rangoric-srd/skills/Intimidation|Intimidation]] +2, [[rangoric-srd/skills/Knowledge|Knowledge skill]] (any one) +21, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Persuasion|Persuasion]] +6
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Background|Background]] (any one craft) +15, [[rangoric-srd/skills/Deception|Deception]] +20, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +11, [[rangoric-srd/skills/Imitation|Imitation]] +21 (+23 acting)\*, [[rangoric-srd/skills/Intimidation|Intimidation]] +2, [[rangoric-srd/skills/Knowledge|Knowledge skill]] (any one) +21, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Persuasion|Persuasion]] +6
 - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
 - **Environment**: Underground
 - **Organization**: Solitary

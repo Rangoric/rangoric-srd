@@ -18,8 +18,8 @@ special-attacks: "—"
 special-qualities: "Low-light vision, amphibious"
 defenses: "Fort 13, Ref 11, Will 11"
 abilities: "Str 10, Dex 12, Con 10, Int 13, Wis 13, Cha 11"
-skills: "Athletics +8, Craft (any one) +6, Fieldcraft +6, Perception +3"
-skill-ranks: "Athletics 5, Craft (any one) 2, Fieldcraft 2, Perception 2"
+skills: "Athletics +8, Background (any one craft) +6, Fieldcraft +6, Perception +3"
+skill-ranks: "Athletics 5, Background (any one craft) 2, Fieldcraft 2, Perception 2"
 feats: "Weapon Focus (longspear)"
 environment: "Temperate or warm aquatic"
 organization: "Solitary, band (2–10), tribe (11–30 plus 2 fighter sergeants of 1st–3rd level and 1 cleric leader of 3rd–6th level), company (2–4), or patrol (11–20 plus 2 3rd-level sergeants and 1 leader of 3rd–6th level)"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]]
 - **Defenses**: Fort 13, Ref 11, Will 11
 - **Abilities**: Str 10, Dex 12, Con 10, Int 13, Wis 13, Cha 11
-- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Craft|Craft]] (any one) +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Perception|Perception]] +3
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Background|Background]] (any one craft) +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Perception|Perception]] +3
 - **Feats**: [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longspear)
 - **Environment**: Temperate or warm aquatic
 - **Organization**: Solitary, band (2–10), tribe (11–30 plus 2 fighter sergeants of 1st–3rd level and 1 cleric leader of 3rd–6th level), company (2–4), or patrol (11–20 plus 2 3rd-level sergeants and 1 leader of 3rd–6th level)

@@ -18,8 +18,8 @@ special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision"
 defenses: "Fort 14, Ref 11, Will 14"
 abilities: "Str 12, Dex 10, Con 12, Int 13, Wis 13, Cha 11"
-skills: "Animal Handling +6, Athletics +9, Craft (any one) +7, Fieldcraft +7, Perception +7, Persuasion +6, Sense Motive +7, Stealth +6"
-skill-ranks: "Animal Handling 3, Athletics 5, Craft (any one) 3, Fieldcraft 3, Perception 3, Persuasion 3, Sense Motive 3, Stealth 3"
+skills: "Animal Handling +6, Athletics +9, Background (any one craft) +7, Fieldcraft +7, Perception +7, Persuasion +6, Sense Motive +7, Stealth +6"
+skill-ranks: "Animal Handling 3, Athletics 5, Background (any one craft) 3, Fieldcraft 3, Perception 3, Persuasion 3, Sense Motive 3, Stealth 3"
 feats: "Mounted Combat, Ride-By Attack"
 environment: "Any oceans"
 organization: "Solitary, company (2–5), squad (6–11), or band (12–21 plus 2–16 dolphins)"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]
 - **Defenses**: Fort 14, Ref 11, Will 14
 - **Abilities**: Str 12, Dex 10, Con 12, Int 13, Wis 13, Cha 11
-- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Craft|Craft]] (any one) +7, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Persuasion|Persuasion]] +6, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +6
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Background|Background]] (any one craft) +7, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Persuasion|Persuasion]] +6, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +6
 - **Feats**: [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Ride-By Attack|Ride-By Attack]]
 - **Environment**: Any oceans
 - **Organization**: Solitary, company (2–5), squad (6–11), or band (12–21 plus 2–16 dolphins)

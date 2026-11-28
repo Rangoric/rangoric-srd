@@ -63,7 +63,7 @@ A mandragora rarely strays far from its lair amid tangled roots or vines, but wh
 
 When mandragora poison is mixed with its thick, gooey, sap-like blood and 1,000 gp worth of alchemical reagents, the resulting fluid can be used as a focus for the _[[rangoric-srd/spells/Scrying|scrying]]_ spell. The fluid only lasts for the duration of the spell's casting time and resulting effects but the subject of the spell takes a –4 penalty to its Will Defense against it.
 
-A mandrake root that is growing on or near a demon's corpse or ichor has a 2% chance of awakening as a mandragora within a day of first absorbing the tainted material. A creature that wants to create a mandragora can do so with alchemy; the process requires a day of work, a mandrake root, several pints of ichor or the body of a demon of CR 6 or above, and a successful DC 25 Craft (alchemy) check. The newly created mandragora is hostile, even to its creator.
+A mandrake root that is growing on or near a demon's corpse or ichor has a 2% chance of awakening as a mandragora within a day of first absorbing the tainted material. A creature that wants to create a mandragora can do so with alchemy; the process requires a day of work, a mandrake root, several pints of ichor or the body of a demon of CR 6 or above, and a successful DC 25 Background (alchemy) check. The newly created mandragora is hostile, even to its creator.
 
 Mandragoras speak Abyssal and Common.
 

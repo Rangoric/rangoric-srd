@@ -88,7 +88,7 @@ A light load for a _silver steed_ is anything up to 1,000 pounds; a medium load 
 
 ## Construction
 
-The body of a silver steed is built from pure silver, and requires a successful [[rangoric-srd/skills/Craft|Craft]] (armor or weapon smithing) check to assemble its body (DC 20). A silver steed costs 120,000 gp to create, which includes 25,000 gp for the body. Gems used for healing the steed must be purchased separately. The spirit that powers the golem is typically summoned from the Elemental Plane of Air.
+The body of a silver steed is built from pure silver, and requires a successful [[rangoric-srd/skills/Background|Background]] (armorsmithing or weaponsmithing) check to assemble its body (DC 20). A silver steed costs 120,000 gp to create, which includes 25,000 gp for the body. Gems used for healing the steed must be purchased separately. The spirit that powers the golem is typically summoned from the Elemental Plane of Air.
 
 CL 16th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Fly|fly]]_, _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, _[[rangoric-srd/spells/Limited Wish|limited wish]]_, _[[rangoric-srd/spells/Polymorph Any Object|polymorph any object]]_; Cost 120,000 gp + 2,400 XP (the ritual drains the XP).
 
