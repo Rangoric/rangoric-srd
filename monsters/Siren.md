@@ -17,8 +17,8 @@ special-attacks: "Bardic performance, siren's song, sneak attack +2d6, spell-lik
 special-qualities: "Darkvision 60 ft., low-light vision, immunity to mind-affecting effects"
 defenses: "Fort 17, Ref 21, Will 16"
 abilities: "Str 10, Dex 17, Con 12, Int 14, Wis 19, Cha 21"
-skills: "Acrobatics +7, Perception +15, Perform (sing) +13, Society +10, Stealth +14"
-skill-ranks: "Acrobatics 1, Perception 8, Perform (sing) 8, Society 5, Stealth 8"
+skills: "Acrobatics +7, Perception +15, Performance (sing) +16, Society +10, Stealth +14"
+skill-ranks: "Acrobatics 1, Perception 8, Performance (sing) 8, Society 5, Stealth 8"
 feats: "Dodge, Flyby Attack, Lightning Reflexes, Weapon Finesse"
 environment: "Temperate or warm hills"
 organization: "Solitary or flight (2–7)"
@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
 - **Defenses**: Fort 17, Ref 21, Will 16
 - **Abilities**: Str 10, Dex 17, Con 12, Int 14, Wis 19, Cha 21
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Perception|Perception]] +15, Perform (sing) +13, [[rangoric-srd/skills/Society|Society]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +14
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Performance|Performance]] (sing) +16, [[rangoric-srd/skills/Society|Society]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +14
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
 - **Environment**: Temperate or warm hills
 - **Organization**: Solitary or flight (2–7)

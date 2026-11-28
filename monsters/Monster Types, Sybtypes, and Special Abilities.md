@@ -377,7 +377,7 @@ _Features_: A dragon has the following features.
 
 - Good Fortitude, Reflex, and Will saves.
 
-- Skill points equal to 6 + Int modifier (minimum 1) per Hit Die. Class skills: [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Appraise|Appraise]], [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Craft|Craft]], [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Emulation|Emulation]], [[rangoric-srd/skills/Fieldcraft|Fieldcraft]], [[rangoric-srd/skills/Intimidation|Intimidation]], every [[rangoric-srd/skills/Knowledge|Knowledge]] skill, [[rangoric-srd/skills/Linguistics|Linguistics]], [[rangoric-srd/skills/Mysticism|Mysticism]], [[rangoric-srd/skills/Medicine|Medicine]], [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Persuasion|Persuasion]], [[rangoric-srd/skills/Sense Motive|Sense Motive]], [[rangoric-srd/skills/Stealth|Stealth]].
+- Skill points equal to 6 + Int modifier (minimum 1) per Hit Die. Class skills: [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Emulation|Emulation]], [[rangoric-srd/skills/Fieldcraft|Fieldcraft]], [[rangoric-srd/skills/Intimidation|Intimidation]], every [[rangoric-srd/skills/Knowledge|Knowledge]] skill, [[rangoric-srd/skills/Mysticism|Mysticism]], [[rangoric-srd/skills/Medicine|Medicine]], [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Persuasion|Persuasion]], [[rangoric-srd/skills/Sense Motive|Sense Motive]], [[rangoric-srd/skills/Stealth|Stealth]].
 
 _Traits_: A dragon possesses the following traits (unless otherwise noted in the description of a particular kind).
 
@@ -445,7 +445,7 @@ _Features_: A fey has the following features.
 
 - Good Reflex and Will saves.
 
-- Skill points equal to 6 + Int modifier (minimum 1) per Hit Die. Class skills: [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Craft|Craft]], [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Emulation|Emulation]], [[rangoric-srd/skills/Escape Artist|Escape Artist]], [[rangoric-srd/skills/Imitation|Imitation]], [[rangoric-srd/skills/Nature|Nature]], [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Performance|Performance]], [[rangoric-srd/skills/Persuasion|Persuasion]], [[rangoric-srd/skills/Sense Motive|Sense Motive]], [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]], [[rangoric-srd/skills/Society|Society]], [[rangoric-srd/skills/Stealth|Stealth]].
+- Skill points equal to 6 + Int modifier (minimum 1) per Hit Die. Class skills: [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Emulation|Emulation]], [[rangoric-srd/skills/Escape Artist|Escape Artist]], [[rangoric-srd/skills/Imitation|Imitation]], [[rangoric-srd/skills/Nature|Nature]], [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Persuasion|Persuasion]], [[rangoric-srd/skills/Sense Motive|Sense Motive]], [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]], [[rangoric-srd/skills/Society|Society]], [[rangoric-srd/skills/Stealth|Stealth]].
 
 _Traits_: A fey possesses the following traits (unless otherwise noted in a creature’s entry).
 
@@ -525,7 +525,7 @@ _Features_: A humanoid has the following features (unless otherwise noted in a c
 
 - One good save, usually Reflex.
 
-- Skill points equal to 2 + Int modifier (minimum 1) per Hit Die, or by character class. Class skills for a humanoid without a character class: [[rangoric-srd/skills/Animal Handling|Animal Handling]], [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Craft|Craft]], [[rangoric-srd/skills/Fieldcraft|Fieldcraft]], [[rangoric-srd/skills/Medicine|Medicine]], [[rangoric-srd/skills/Profession|Profession]]. A humanoid with a character class uses its class’s list instead; one with both racial Hit Dice and a class adds these to its class’s list.
+- Skill points equal to 2 + Int modifier (minimum 1) per Hit Die, or by character class. Class skills for a humanoid without a character class: [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Fieldcraft|Fieldcraft]], [[rangoric-srd/skills/Medicine|Medicine]]. A humanoid with a character class uses its class’s list instead; one with both racial Hit Dice and a class adds these to its class’s list.
 
 _Traits_: A humanoid possesses the following traits (unless otherwise noted in a creature’s entry).
 
@@ -663,7 +663,7 @@ _Features_: A monstrous humanoid has the following features.
 
 - Good Reflex and Will saves.
 
-- Skill points equal to 4 + Int modifier (minimum 1) per Hit Die. Class skills: [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Animal Handling|Animal Handling]], [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Craft|Craft]], [[rangoric-srd/skills/Fieldcraft|Fieldcraft]], [[rangoric-srd/skills/Intimidation|Intimidation]], [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Stealth|Stealth]].
+- Skill points equal to 4 + Int modifier (minimum 1) per Hit Die. Class skills: [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Fieldcraft|Fieldcraft]], [[rangoric-srd/skills/Intimidation|Intimidation]], [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Stealth|Stealth]].
 
 _Traits_: A monstrous humanoid possesses the following traits (unless otherwise noted in a creature’s entry).
 
@@ -831,7 +831,7 @@ _Features_: An outsider has the following features.
 
 - Two good saving throws, usually Reflex and Will.
 
-- Skill points equal to 6 + Int modifier (minimum 1) per Hit Die. Class skills: [[rangoric-srd/skills/Craft|Craft]], [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Sense Motive|Sense Motive]], [[rangoric-srd/skills/Stealth|Stealth]], [[rangoric-srd/skills/Theology|Theology]]. An outsider also has four more class skills that fit its nature, given in its entry.
+- Skill points equal to 6 + Int modifier (minimum 1) per Hit Die. Class skills: [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Sense Motive|Sense Motive]], [[rangoric-srd/skills/Stealth|Stealth]], [[rangoric-srd/skills/Theology|Theology]]. An outsider also has four more class skills that fit its nature, given in its entry.
 
 _Traits_: An outsider possesses the following traits (unless otherwise noted in a creature’s entry).
 

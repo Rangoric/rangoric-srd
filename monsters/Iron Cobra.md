@@ -71,7 +71,7 @@ Iron is the most common material for these creations, but some crafters prefer m
 
 ### Combat
 
-An iron cobra's body is built from 100 pounds of magically treated materials (typically iron). Creating the body requires a DC 15 [[rangoric-srd/skills/Craft|Craft]] (armor), Craft (blacksmithing), Craft (carpentry, for darkwood cobras only), or Craft (weapons) check.
+An iron cobra's body is built from 100 pounds of magically treated materials (typically iron). Creating the body requires a DC 15 [[rangoric-srd/skills/Background|Background]] (armorsmithing), Background (blacksmithing), Background (carpentry) (for darkwood cobras only), or Background (weaponsmithing) check.
 
 CL 7th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Animate Objects|animate object]]_, _[[rangoric-srd/spells/Discern Location|discern location]]_, _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_; Price 4,000 gp (iron), 5,000 gp (darkwood), 8,000 gp (cold iron), 10,000 gp (mithral), or 20,000 gp (adamantine); Cost 2,000 gp (iron), 2,500 gp (darkwood), 4,000 gp (cold iron), 5,000 gp (mithral), or 10,000 gp (adamantine).
 

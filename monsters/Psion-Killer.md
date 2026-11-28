@@ -73,6 +73,6 @@ Immunity to Psionics (Ex): Psion-killers completely resist psionic effects that 
 
 ### Construction
 
-A psion-killer’s body is constructed from massive blocks of quartz crystal with a total weight of at least 5,000 pounds and costing at least 8,000 gp. Assembling the body requires a DC 20 [[rangoric-srd/skills/Craft|Craft]] (sculpting) check or a DC 20 Craft (stonemasonry) check.
+A psion-killer’s body is constructed from massive blocks of quartz crystal with a total weight of at least 5,000 pounds and costing at least 8,000 gp. Assembling the body requires a DC 20 [[rangoric-srd/skills/Background|Background]] (sculpting) check or a DC 20 Background (stonemasonry) check.
 
 ML 16th; [[rangoric-srd/feats/Craft Psionic Construct|Craft Psionic Construct]], [[rangoric-srd/powers/Bend Reality|bend reality]], [[rangoric-srd/powers/Dispel Psionics|dispel psionics]], [[rangoric-srd/powers/Fabricate, Psionic|fabricate]], [[rangoric-srd/powers/Mind Seed|mind seed]], manifester must be at least 16th level; Price 150,000 gp; Cost 79,000 gp + 5,680 XP.

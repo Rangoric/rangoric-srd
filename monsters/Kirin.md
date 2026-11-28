@@ -18,8 +18,8 @@ special-attacks: "Breath weapon (15-ft. cone, 5d6 fire damage, +8 vs Reflex; a m
 special-qualities: "Darkvision 60 ft., detect evil, low-light vision, scent, telepathy 100 ft., resistance to cold 10, electricity 30 and fire 10, spell resistance 18"
 defenses: "Fort 20, Ref 22, Will 20"
 abilities: "Str 20, Dex 23, Con 18, Int 18, Wis 21, Cha 23"
-skills: "Acrobatics +20, Perception +17, Perform (sing) +15, Persuasion +15, Sense Motive +14, Society +13"
-skill-ranks: "Acrobatics 13, Perception 9, Perform (sing) 8, Persuasion 6, Sense Motive 6, Society 6"
+skills: "Acrobatics +20, Perception +17, Performance (sing) +18, Persuasion +15, Sense Motive +14, Society +13"
+skill-ranks: "Acrobatics 13, Perception 9, Performance (sing) 8, Persuasion 6, Sense Motive 6, Society 6"
 feats: "Combat Casting, Eschew Materials, Flyby Attack, Hover, Iron Will, Weapon Focus (gore)"
 environment: "Any"
 organization: "Solitary or pair"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect evil, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10, electricity 30 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 18
 - **Defenses**: Fort 20, Ref 22, Will 20
 - **Abilities**: Str 20, Dex 23, Con 18, Int 18, Wis 21, Cha 23
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +20, [[rangoric-srd/skills/Perception|Perception]] +17, Perform (sing) +15, [[rangoric-srd/skills/Persuasion|Persuasion]] +15, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14, [[rangoric-srd/skills/Society|Society]] +13
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +20, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Performance|Performance]] (sing) +18, [[rangoric-srd/skills/Persuasion|Persuasion]] +15, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14, [[rangoric-srd/skills/Society|Society]] +13
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (gore)
 - **Environment**: Any
 - **Organization**: Solitary or pair

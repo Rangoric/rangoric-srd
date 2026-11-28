@@ -73,4 +73,4 @@ Unlike most constructs, a terra-cotta soldier carries within its form a spark of
 
 ### Construction
 
-CL 9th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Animate Objects|animate objects]]_, _[[rangoric-srd/spells/Cat’s Grace|cat's grace]]_, _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, _[[rangoric-srd/spells/Keen Edge|keen edge]]_, creator must be caster level 9th; Skill [[rangoric-srd/skills/Craft|Craft]] (pottery) or [[rangoric-srd/skills/Craft|Craft]] (sculptures) DC 14; Price 19,500 gp; Cost 10,000 gp.
+CL 9th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Animate Objects|animate objects]]_, _[[rangoric-srd/spells/Cat’s Grace|cat's grace]]_, _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, _[[rangoric-srd/spells/Keen Edge|keen edge]]_, creator must be caster level 9th; Skill [[rangoric-srd/skills/Background|Background]] (pottery) or [[rangoric-srd/skills/Background|Background]] (sculpting) DC 14; Price 19,500 gp; Cost 10,000 gp.

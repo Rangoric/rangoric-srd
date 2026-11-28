@@ -18,8 +18,8 @@ special-attacks: "Sneak attack +3d6, web (+18 ranged, DC 23, 14 hp), poison, spe
 special-qualities: "Darkvision 60 ft., change shape (giant spider; vermin shape I), spider empathy +21, swift shapechanger, damage reduction 10/cold iron and magic, immunity to poison"
 defenses: "Fort 20, Ref 23, Will 24"
 abilities: "Str 22, Dex 19, Con 22, Int 15, Wis 17, Cha 24"
-skills: "Acrobatics +14, Athletics +29 (+37 with spider legs), Deception +19, Perception +18, Perform (string) +10, Persuasion +18, Sense Motive +15, Stealth +19"
-skill-ranks: "Acrobatics 7, Athletics 20, Deception 9, Perception 12, Perform (string) 5, Persuasion 8, Sense Motive 9, Stealth 12"
+skills: "Acrobatics +14, Athletics +29 (+37 with spider legs), Deception +19, Perception +18, Performance (string instruments) +13, Persuasion +18, Sense Motive +15, Stealth +19"
+skill-ranks: "Acrobatics 7, Athletics 20, Deception 9, Perception 12, Performance (string instruments) 5, Persuasion 8, Sense Motive 9, Stealth 12"
 feats: "Dodge, Improved Critical (bite), Improved Iron Will, Iron Will, Mobility, Power Attack, Spring Attack"
 environment: "Temperate mountain valleys"
 organization: "Solitary or cult (2–6 plus 2–8 spiders of various sizes)"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (giant spider; vermin shape I), [[rangoric-srd/monsters/abilities/Spider Empathy|spider empathy]] +21, [[rangoric-srd/monsters/abilities/Swift Shapechanger|swift shapechanger]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron and magic, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to poison
 - **Defenses**: Fort 20, Ref 23, Will 24
 - **Abilities**: Str 22, Dex 19, Con 22, Int 15, Wis 17, Cha 24
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +29 (+37 with spider legs), [[rangoric-srd/skills/Deception|Deception]] +19, [[rangoric-srd/skills/Perception|Perception]] +18, Perform (string) +10, [[rangoric-srd/skills/Persuasion|Persuasion]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +19
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +29 (+37 with spider legs), [[rangoric-srd/skills/Deception|Deception]] +19, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Performance|Performance]] (string instruments) +13, [[rangoric-srd/skills/Persuasion|Persuasion]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +19
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Spring Attack|Spring Attack]]
 - **Environment**: Temperate mountain valleys
 - **Organization**: Solitary or cult (2–6 plus 2–8 spiders of various sizes)

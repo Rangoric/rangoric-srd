@@ -145,4 +145,4 @@ The sample juggernaut is keyed to the domains of Death and War—a juggernaut de
 
 A juggernaut's body must be created from 20,000 gp worth of clay, crystal, metal, stone, wood, or bone.
 
-CL 13th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Magic Weapon, Greater|greater magic weapon]]_, _[[rangoric-srd/spells/Imbue with Spell Ability|imbue with spell ability]]_, _[[rangoric-srd/spells/Make Whole|make whole]]_, _[[rangoric-srd/spells/Stone Shape|stone shape]]_, creator must be caster level 10th; Skill [[rangoric-srd/skills/Craft|Craft]] (carpentry, sculptures, or stonemasonry); Price 140,000 gp; Cost 80,000 gp.
+CL 13th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Magic Weapon, Greater|greater magic weapon]]_, _[[rangoric-srd/spells/Imbue with Spell Ability|imbue with spell ability]]_, _[[rangoric-srd/spells/Make Whole|make whole]]_, _[[rangoric-srd/spells/Stone Shape|stone shape]]_, creator must be caster level 10th; Skill [[rangoric-srd/skills/Background|Background]] (carpentry, sculpting, or stonemasonry); Price 140,000 gp; Cost 80,000 gp.

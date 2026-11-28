@@ -17,8 +17,8 @@ special-attacks: "Banishing swipe, glaring ray, radiant feathers, spell-like abi
 special-qualities: "Darkvision 60 ft., detect evil, detect magic, low-light vision, peace (50 ft.), immunity to ability damage, ability drain, disease, fire, negative energy, petrification, poison and sleep, resistance to acid 10, cold 10 and electricity 10, spell resistance 29"
 defenses: "Fort 32, Ref 27, Will 24"
 abilities: "Str 34, Dex 16, Con 27, Int 16, Wis 19, Cha 23"
-skills: "Acrobatics +7, Arcana +33, Dungeoneering +21, Fieldcraft +14, Knowledge +15, Medicine +14, Perception +27, Perform (sing) +19, Persuasion +26"
-skill-ranks: "Acrobatics 7, Arcana 27, Dungeoneering 15, Fieldcraft 7, Knowledge 9, Medicine 7, Perception 20, Perform (sing) 13, Persuasion 17"
+skills: "Acrobatics +7, Arcana +33, Dungeoneering +21, Fieldcraft +14, Knowledge +15, Medicine +14, Perception +27, Performance (sing) +22, Persuasion +26"
+skill-ranks: "Acrobatics 7, Arcana 27, Dungeoneering 15, Fieldcraft 7, Knowledge 9, Medicine 7, Perception 20, Performance (sing) 13, Persuasion 17"
 feats: "Combat Expertise, Combat Reflexes, Dodge, Flyby Attack, Hover, Improved Disarm, Improved Initiative, Iron Will, Mobility, Multiattack, Snatch, Wingover"
 environment: "Warm deserts or mountains"
 organization: "Solitary"
@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect evil, detect magic, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], peace (50 ft.), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to ability damage, ability drain, disease, fire, negative energy, petrification, poison and sleep, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, cold 10 and electricity 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 29
 - **Defenses**: Fort 32, Ref 27, Will 24
 - **Abilities**: Str 34, Dex 16, Con 27, Int 16, Wis 19, Cha 23
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Arcana|Arcana]] +33, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +21, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14, [[rangoric-srd/skills/Knowledge|Knowledge]] +15, [[rangoric-srd/skills/Medicine|Medicine]] +14, [[rangoric-srd/skills/Perception|Perception]] +27, Perform (sing) +19, [[rangoric-srd/skills/Persuasion|Persuasion]] +26
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Arcana|Arcana]] +33, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +21, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14, [[rangoric-srd/skills/Knowledge|Knowledge]] +15, [[rangoric-srd/skills/Medicine|Medicine]] +14, [[rangoric-srd/skills/Perception|Perception]] +27, [[rangoric-srd/skills/Performance|Performance]] (sing) +22, [[rangoric-srd/skills/Persuasion|Persuasion]] +26
 - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Snatch|Snatch]], [[rangoric-srd/feats/Wingover|Wingover]]
 - **Environment**: Warm deserts or mountains
 - **Organization**: Solitary

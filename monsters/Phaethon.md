@@ -21,8 +21,8 @@ special-attacks: "Fiery touch, fiery overrun, spell-like abilities, improved gra
 special-qualities: "Abomination traits, immunity to fire, vulnerability to cold, oozelike immunities, regeneration 25 (lawful weapons, cold-forged weapons), fast healing 25, SR 46, DR 15/epic lawful and epic"
 defenses: "Fort 58, Ref 52, Will 53"
 abilities: "Str 58, Dex 25, Con 36, Int 8, Wis 18, Cha 39"
-skills: "Athletics +89 (+125 jumping), Craft (metalworking, stoneworking) +64, Society +64, Perception +75, Investigation +64, Stealth +60"
-skill-ranks: "Athletics 62, Craft (metalworking, stoneworking) 62, Investigation 62, Perception 62, Society 62, Stealth 62"
+skills: "Athletics +89 (+125 jumping), Background (blacksmithing, stonemasonry) +64, Society +64, Perception +75, Investigation +64, Stealth +60"
+skill-ranks: "Athletics 62, Background (blacksmithing, stonemasonry) 62, Investigation 62, Perception 62, Society 62, Stealth 62"
 feats: "Cleave, Great Cleave, Great Fortitude, Improved Initiative, Iron Will, Lightning Reflexes, Power Attack, Skill Focus (Perception), Sunder, Weapon Focus (slam)"
 epic-feats: "Blinding Speed (x5), Epic Toughness (x3), Epic Weapon Focus (slam), Epic Will, Superior Initiative"
 environment: "Any"
@@ -52,7 +52,7 @@ Special Attacks: Fiery touch, fiery overrun, spell-like abilities, [[rangoric-sr
 Special Qualities: Abomination traits, immunity to fire, [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to cold]], oozelike immunities, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 25 (lawful weapons, cold-forged weapons), [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 25, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 46, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 15/epic lawful and epic      
 Defenses: Fort 58, Ref 52, Will 53      
 Abilities: Str 58, Dex 25, Con 36, Int 8, Wis 18, Cha 39      
-Skills: [[rangoric-srd/skills/Athletics|Athletics]] +89 (+125 jumping), [[rangoric-srd/skills/Craft|Craft]] (metalworking, stoneworking) +64, [[rangoric-srd/skills/Investigation|Investigation]] +64, [[rangoric-srd/skills/Perception|Perception]] +75, [[rangoric-srd/skills/Society|Society]] +64, [[rangoric-srd/skills/Stealth|Stealth]] +60     
+Skills: [[rangoric-srd/skills/Athletics|Athletics]] +89 (+125 jumping), [[rangoric-srd/skills/Background|Background]] (blacksmithing, stonemasonry) +64, [[rangoric-srd/skills/Investigation|Investigation]] +64, [[rangoric-srd/skills/Perception|Perception]] +75, [[rangoric-srd/skills/Society|Society]] +64, [[rangoric-srd/skills/Stealth|Stealth]] +60     
 **Unspent Skill Points**: 62
 Feats: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), Sunder, [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam)      
 Epic Feats: [[rangoric-srd/feats/Blinding Speed|Blinding Speed]] (x5), [[rangoric-srd/feats/Epic Toughness|Epic Toughness]] (x3), [[rangoric-srd/feats/Epic Weapon Focus|Epic Weapon Focus]] (slam), [[rangoric-srd/feats/Epic Will|Epic Will]], [[rangoric-srd/feats/Superior Initiative|Superior Initiative]]      

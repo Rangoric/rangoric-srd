@@ -74,4 +74,4 @@ A wickerman is a towering wicker statue with a cage in its chest. Inanimate ones
 
 A wickerman is created from 12,000 pounds of wicker and rare wood costing 10,000 gp. Activating the wickerman requires sacrificing a living humanoid inside its chest cage. Sacrificing a creature is an evil act.
 
-CL 14th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Fire Seeds|fire seeds]]_, _[[rangoric-srd/spells/Wall of Fire|wall of fire]]_, _[[rangoric-srd/spells/Warp Wood|warp wood]]_, creator must be caster level 12th; Skill [[rangoric-srd/skills/Craft|Craft]] (carpentry) or [[rangoric-srd/skills/Craft|Craft]] (sculptures) DC 15; Price 110,000 gp; Cost 60,000 gp.
+CL 14th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Fire Seeds|fire seeds]]_, _[[rangoric-srd/spells/Wall of Fire|wall of fire]]_, _[[rangoric-srd/spells/Warp Wood|warp wood]]_, creator must be caster level 12th; Skill [[rangoric-srd/skills/Background|Background]] (carpentry) or [[rangoric-srd/skills/Background|Background]] (sculpting) DC 15; Price 110,000 gp; Cost 60,000 gp.

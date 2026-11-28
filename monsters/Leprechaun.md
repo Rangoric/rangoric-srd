@@ -17,8 +17,8 @@ special-attacks: "Spell-like abilities"
 special-qualities: "Low-light vision, leprechaun magic, damage reduction 5/cold iron, spell resistance 13"
 defenses: "Fort 12, Ref 17, Will 16"
 abilities: "Str 7, Dex 16, Con 13, Int 14, Wis 15, Cha 16"
-skills: "Deception +10, Escape Artist +10, Nature +9, Perception +17, Perform (comedy) +8, Perform (dance) +8, Sense Motive +9, Sleight of Hand +14, Stealth +14"
-skill-ranks: "Deception 4, Escape Artist 4, Nature 4, Perception 4, Perform (comedy) 3, Perform (dance) 3, Sense Motive 4, Sleight of Hand 4, Stealth 4"
+skills: "Deception +10, Escape Artist +10, Nature +9, Perception +17, Performance (comedy) +11, Performance (dance) +11, Sense Motive +9, Sleight of Hand +14, Stealth +14"
+skill-ranks: "Deception 4, Escape Artist 4, Nature 4, Perception 4, Performance (comedy) 3, Performance (dance) 3, Sense Motive 4, Sleight of Hand 4, Stealth 4"
 feats: "Improved Initiative, Weapon Finesse"
 environment: "Temperate forests"
 organization: "Solitary, pair, band (3–6), or family (7–10)"
@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Leprechaun Magic|leprechaun magic]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 13
 - **Defenses**: Fort 12, Ref 17, Will 16
 - **Abilities**: Str 7, Dex 16, Con 13, Int 14, Wis 15, Cha 16
-- **Skills**: [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +10, [[rangoric-srd/skills/Nature|Nature]] +9, [[rangoric-srd/skills/Perception|Perception]] +17, Perform (comedy) +8, Perform (dance) +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +14
+- **Skills**: [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +10, [[rangoric-srd/skills/Nature|Nature]] +9, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Performance|Performance]] (comedy) +11, [[rangoric-srd/skills/Performance|Performance]] (dance) +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +14
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
 - **Environment**: Temperate forests
 - **Organization**: Solitary, pair, band (3–6), or family (7–10)

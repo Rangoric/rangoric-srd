@@ -17,8 +17,8 @@ special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, stormsight, storm aura (100 ft.), immunity to electricity and sonic"
 defenses: "Fort 24, Ref 22, Will 19"
 abilities: "Str 26, Dex 17, Con 21, Int 12, Wis 16, Cha 13"
-skills: "Acrobatics +13, Perception +20, Perform (sing) +8, Sense Motive +10"
-skill-ranks: "Acrobatics 7, Perception 14, Perform (sing) 4, Sense Motive 4"
+skills: "Acrobatics +13, Perception +20, Performance (sing) +8, Sense Motive +10"
+skill-ranks: "Acrobatics 7, Perception 14, Performance (sing) 4, Sense Motive 4"
 feats: "Critical Focus, Dodge, Improved Critical (bite), Improved Critical (claw), Improved Initiative, Iron Will, Power Attack"
 environment: "Any hills or mountains"
 organization: "Solitary"
@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Stormsight|stormsight]], [[rangoric-srd/monsters/abilities/Storm Aura|storm aura]] (100 ft.), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and sonic
 - **Defenses**: Fort 24, Ref 22, Will 19
 - **Abilities**: Str 26, Dex 17, Con 21, Int 12, Wis 16, Cha 13
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Perception|Perception]] +20, Perform (sing) +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Perception|Perception]] +20, [[rangoric-srd/skills/Performance|Performance]] (sing) +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10
 - **Feats**: [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]]
 - **Environment**: Any hills or mountains
 - **Organization**: Solitary

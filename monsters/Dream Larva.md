@@ -21,8 +21,8 @@ special-attacks: "Worst nightmare, improved grab, sending, spell-like abilities,
 special-qualities: "Abomination traits, sonic immunity, regeneration 15 (good weapons, lawful weapons, sleepwalker-forged weapons), fast healing 15, SR 44, DR 15/ Good and Epic or Lawful and Epic"
 defenses: "Fort 41, Ref 35, Will 39"
 abilities: "Str 42, Dex 17, Con 29, Int 16, Wis 24, Cha 36"
-skills: "Athletics +59 (+79 jumping), Craft (dreamweaving) +46, Escape Artist +46, Arcana +46, Perception +50, Persuasion +58, Investigation +46, Sense Motive +50, Stealth +46"
-skill-ranks: "Arcana 40, Athletics 40, Craft (dreamweaving) 40, Escape Artist 40, Investigation 40, Perception 40, Persuasion 40, Sense Motive 40, Stealth 40"
+skills: "Athletics +59 (+79 jumping), Background (dreamweaving) +46, Escape Artist +46, Arcana +46, Perception +50, Persuasion +58, Investigation +46, Sense Motive +50, Stealth +46"
+skill-ranks: "Arcana 40, Athletics 40, Background (dreamweaving) 40, Escape Artist 40, Investigation 40, Perception 40, Persuasion 40, Sense Motive 40, Stealth 40"
 feats: "Cleave, Combat Reflexes, Flyby Attack, Great Cleave, Improved Sunder, Power Attack, Quicken Spell-Like Ability, Weapon Focus (pincers), Weapon Focus (gore), Weapon Focus (bite), Weapon Focus (claw)"
 epic-feats: "Epic Toughness, Epic Weapon Focus (pincers), Epic Weapon Focus (claw)"
 environment: "Any"
@@ -52,7 +52,7 @@ Special Attacks: Worst nightmare, [[rangoric-srd/monsters/abilities/Grab|improve
 Special Qualities: Abomination traits, sonic immunity, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 15 (good weapons, lawful weapons, sleepwalker-forged weapons), [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 15, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 44, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 15/ Good and Epic or Lawful and Epic      
 Defenses: Fort 41, Ref 35, Will 39      
 Abilities: Str 42, Dex 17, Con 29, Int 16, Wis 24, Cha 36      
-Skills: [[rangoric-srd/skills/Arcana|Arcana]] +46, [[rangoric-srd/skills/Athletics|Athletics]] +59 (+79 jumping), [[rangoric-srd/skills/Craft|Craft]] (dreamweaving) +46, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +46, [[rangoric-srd/skills/Investigation|Investigation]] +46, [[rangoric-srd/skills/Perception|Perception]] +50, [[rangoric-srd/skills/Persuasion|Persuasion]] +58, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +50, [[rangoric-srd/skills/Stealth|Stealth]] +46     
+Skills: [[rangoric-srd/skills/Arcana|Arcana]] +46, [[rangoric-srd/skills/Athletics|Athletics]] +59 (+79 jumping), [[rangoric-srd/skills/Background|Background]] (dreamweaving) +46, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +46, [[rangoric-srd/skills/Investigation|Investigation]] +46, [[rangoric-srd/skills/Perception|Perception]] +50, [[rangoric-srd/skills/Persuasion|Persuasion]] +58, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +50, [[rangoric-srd/skills/Stealth|Stealth]] +46     
 **Unspent Skill Points**: 80
 Feats: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Quicken Spell-Like Ability|Quicken Spell-Like Ability]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (pincers), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (gore), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)      
 Epic Feats: [[rangoric-srd/feats/Epic Toughness|Epic Toughness]], [[rangoric-srd/feats/Epic Weapon Focus|Epic Weapon Focus]] (pincers), [[rangoric-srd/feats/Epic Weapon Focus|Epic Weapon Focus]] (claw)     

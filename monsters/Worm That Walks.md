@@ -18,8 +18,8 @@ special-attacks: "Discorporate, grab (Large), squirming embrace"
 special-qualities: "Blindsight 30 ft., darkvision 60 ft., fast healing 14, worm that walks traits, arcane bond (staff), summoner's charm (6 rounds), damage reduction 15/-, immunity to critical hits, disease, paralysis, poison and sleep"
 defenses: "Fort 21, Ref 22, Will 23"
 abilities: "Str 8, Dex 18, Con 17, Int 20, Wis 12, Cha 10"
-skills: "Acrobatics +20, Arcana +21, Craft (alchemy) +21, Dungeoneering +21, Intimidation +13, Mysticism +21, Perception +22, Sense Motive +9, Stealth +12, Theology +21"
-skill-ranks: "Acrobatics 13, Arcana 13, Craft (alchemy) 13, Dungeoneering 13, Intimidation 10, Mysticism 13, Perception 10, Sense Motive 0, Stealth 0, Theology 13"
+skills: "Acrobatics +20, Arcana +21, Background (alchemy) +21, Dungeoneering +21, Intimidation +13, Mysticism +21, Perception +22, Sense Motive +9, Stealth +12, Theology +21"
+skill-ranks: "Acrobatics 13, Arcana 13, Background (alchemy) 13, Dungeoneering 13, Intimidation 10, Mysticism 13, Perception 10, Sense Motive 0, Stealth 0, Theology 13"
 feats: "Arcane Armor Training, Combat Casting, Combat Reflexes, Craft Magic Arms and Armor, Craft Wondrous Item, Diehard, Dodge, Improved Initiative, [[rangoric-srd/feats/Armor Proficiency (Light)|Armor Proficiency (Light)]], Scribe Scroll, Toughness, Weapon Finesse"
 environment: "Any"
 organization: "Solitary"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 14, [[rangoric-srd/monsters/Worm That Walks#^worm-that-walks-traits|worm that walks traits]], [[rangoric-srd/classes/Wizard#^wizard-arcane-bond|arcane bond]] (staff), summoner's charm (6 rounds), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/-, immunity to critical hits, disease, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]], poison and sleep
 - **Defenses**: Fort 21, Ref 22, Will 23
 - **Abilities**: Str 8, Dex 18, Con 17, Int 20, Wis 12, Cha 10
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +20, [[rangoric-srd/skills/Arcana|Arcana]] +21, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +21, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +21, [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Mysticism|Mysticism]] +21, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +12, [[rangoric-srd/skills/Theology|Theology]] +21
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +20, [[rangoric-srd/skills/Arcana|Arcana]] +21, [[rangoric-srd/skills/Background|Background]] (alchemy) +21, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +21, [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Mysticism|Mysticism]] +21, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +12, [[rangoric-srd/skills/Theology|Theology]] +21
 - **Feats**: [[rangoric-srd/feats/Arcane Armor Training|Arcane Armor Training]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Armor Proficiency (Light)|Armor Proficiency (Light)]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
 - **Environment**: Any
 - **Organization**: Solitary

@@ -17,8 +17,8 @@ special-attacks: "Night terrors (+3 vs Will), poison, traps, web (+8 ranged, DC 
 special-qualities: "Darkvision 120 ft., low-light vision, regeneration 5 (good spells and weapons, silver), fear (60 ft., +3 vs Will), frightful presence (30 ft., +3 vs Will), illusion resistance, protection from good, feign death (+3 vs Will), spider empathy +7, damage reduction 5/good or silver"
 defenses: "Fort 16, Ref 16, Will 16"
 abilities: "Str 14, Dex 21, Con 17, Int 8, Wis 15, Cha 12"
-skills: "Acrobatics +13, Athletics +14, Craft (trapmaking) +11, Intimidation +5, Perception +9, Stealth +15"
-skill-ranks: "Acrobatics 5, Athletics 9, Craft (trapmaking) 9, Intimidation 0, Perception 4, Stealth 3"
+skills: "Acrobatics +13, Athletics +14, Background (trapmaking) +11, Intimidation +5, Perception +9, Stealth +15"
+skill-ranks: "Acrobatics 5, Athletics 9, Background (trapmaking) 9, Intimidation 0, Perception 4, Stealth 3"
 feats: "Great Fortitude, Improved Initiative"
 environment: "Temperate forests"
 organization: "Solitary, pair, or nests (3–6 plus 2–6 giant spiders)"
@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (good spells and weapons, silver), [[rangoric-srd/monsters/abilities/Fear|fear]] (60 ft., +3 vs Will), [[rangoric-srd/monsters/abilities/Frightful Presence|frightful presence]] (30 ft., +3 vs Will), [[rangoric-srd/monsters/Nightmare Creature#^illusion-resistance|illusion resistance]], protection from good, [[rangoric-srd/monsters/Nightmare Creature#^feign-death|feign death]] (+3 vs Will), [[rangoric-srd/monsters/abilities/Spider Empathy|spider empathy]] +7, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/good or silver
 - **Defenses**: Fort 16, Ref 16, Will 16
 - **Abilities**: Str 14, Dex 21, Con 17, Int 8, Wis 15, Cha 12
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Craft|Craft]] (trapmaking) +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +15
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Background|Background]] (trapmaking) +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +15
 - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
 - **Environment**: Temperate forests
 - **Organization**: Solitary, pair, or nests (3–6 plus 2–6 giant spiders)

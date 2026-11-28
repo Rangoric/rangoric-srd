@@ -18,8 +18,8 @@ special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, protective aura, uncanny dodge, change shape (alter self), damage reduction 10/evil, immunity to acid, cold and petrification, resistance to electricity 10 and fire 10, spell resistance 25"
 defenses: "Fort 26, Ref 23, Will 21"
 abilities: "Str 26, Dex 19, Con 21, Int 18, Wis 18, Cha 23"
-skills: "Acrobatics +26, Craft (any one) +22, Intimidation +24, Perception +28, Persuasion +24, Sense Motive +22, Stealth +22, Theology +22"
-skill-ranks: "Acrobatics 19, Craft (any one) 15, Intimidation 15, Perception 19, Persuasion 15, Sense Motive 19, Stealth 15, Theology 15"
+skills: "Acrobatics +26, Background (any one craft) +22, Intimidation +24, Perception +28, Persuasion +24, Sense Motive +22, Stealth +22, Theology +22"
+skill-ranks: "Acrobatics 19, Background (any one craft) 15, Intimidation 15, Perception 19, Persuasion 15, Sense Motive 19, Stealth 15, Theology 15"
 feats: "Cleave, Great Fortitude, Improved Initiative, Iron Will, Power Attack, Toughness, Weapon Focus (warhammer), Skill Focus (Perception)"
 environment: "Any good-aligned plane"
 organization: "Solitary, pair, or squad (3–6)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], protective aura, uncanny dodge, [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (alter self), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/evil, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, cold and petrification, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 25
 - **Defenses**: Fort 26, Ref 23, Will 21
 - **Abilities**: Str 26, Dex 19, Con 21, Int 18, Wis 18, Cha 23
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +26, [[rangoric-srd/skills/Craft|Craft]] (any one) +22, [[rangoric-srd/skills/Intimidation|Intimidation]] +24, [[rangoric-srd/skills/Perception|Perception]] +28, [[rangoric-srd/skills/Persuasion|Persuasion]] +24, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +22, [[rangoric-srd/skills/Stealth|Stealth]] +22, [[rangoric-srd/skills/Theology|Theology]] +22
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +26, [[rangoric-srd/skills/Background|Background]] (any one craft) +22, [[rangoric-srd/skills/Intimidation|Intimidation]] +24, [[rangoric-srd/skills/Perception|Perception]] +28, [[rangoric-srd/skills/Persuasion|Persuasion]] +24, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +22, [[rangoric-srd/skills/Stealth|Stealth]] +22, [[rangoric-srd/skills/Theology|Theology]] +22
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (warhammer), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
 - **Environment**: Any good-aligned plane
 - **Organization**: Solitary, pair, or squad (3–6)

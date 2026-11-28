@@ -54,4 +54,4 @@ An animated object can be made permanent with the [[rangoric-srd/feats/Craft Con
 | [[rangoric-srd/monsters/animated-objects/Animated Object, Gargantuan\|Gargantuan]] | 9   | 40,000 gp | 20,000 gp |
 | [[rangoric-srd/monsters/animated-objects/Animated Object, Colossal\|Colossal]]     | 11  | 60,000 gp | 30,000 gp |
 
-CL 11th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Animate Objects|animate objects]]_, _[[rangoric-srd/spells/Permanency|permanency]]_; Skill [[rangoric-srd/skills/Mysticism|Mysticism]] or appropriate [[rangoric-srd/skills/Craft|Craft]] skill; Price by size (above); Cost half the price.
+CL 11th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Animate Objects|animate objects]]_, _[[rangoric-srd/spells/Permanency|permanency]]_; Skill [[rangoric-srd/skills/Mysticism|Mysticism]] or appropriate craft [[rangoric-srd/skills/Background#Making Things|Background]]; Price by size (above); Cost half the price.

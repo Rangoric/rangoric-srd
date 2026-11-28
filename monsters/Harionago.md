@@ -17,7 +17,7 @@ special-attacks: "Bleed (5), infectious laughter, paralysis (1d4+1 rounds, +13 v
 special-qualities: "Darkvision 60 ft., channel resistance +2, damage reduction 10/magic, undead traits"
 defenses: "Fort 20, Ref 19, Will 22"
 abilities: "Str 19, Dex 20, Con —, Int 15, Wis 17, Cha 22"
-skills: "Deception +20, Imitation +23, Intimidation +16, Perception +20, Performance (sing) +10, Sense Motive +20, Society +5, Stealth +22"
+skills: "Deception +20, Imitation +23, Intimidation +16, Perception +20, Performance (sing) +13, Sense Motive +20, Society +5, Stealth +22"
 skill-ranks: "Deception 11, Imitation 14, Intimidation 7, Perception 14, Performance (sing) 5, Sense Motive 14, Society 3, Stealth 14"
 feats: "Combat Reflexes, Improved Critical (claw), Improved Critical (hair barb), Improved Initiative, Improved Natural Attack (hair barb), Multiattack, Weapon Finesse"
 environment: "Any land"
@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +2, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
 - **Defenses**: Fort 20, Ref 19, Will 22
 - **Abilities**: Str 19, Dex 20, Con —, Int 15, Wis 17, Cha 22
-- **Skills**: [[rangoric-srd/skills/Deception|Deception]] +20, [[rangoric-srd/skills/Imitation|Imitation]] +23, [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Perception|Perception]] +20, [[rangoric-srd/skills/Performance|Performance]] (sing) +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +20, [[rangoric-srd/skills/Society|Society]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +22
+- **Skills**: [[rangoric-srd/skills/Deception|Deception]] +20, [[rangoric-srd/skills/Imitation|Imitation]] +23, [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Perception|Perception]] +20, [[rangoric-srd/skills/Performance|Performance]] (sing) +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +20, [[rangoric-srd/skills/Society|Society]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +22
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw), [[rangoric-srd/feats/Improved Critical|Improved Critical]] (hair barb), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Natural Attack|Improved Natural Attack]] (hair barb), [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
 - **Environment**: Any land
 - **Organization**: Solitary

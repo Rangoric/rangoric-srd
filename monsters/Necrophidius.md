@@ -75,4 +75,4 @@ A typical necrophidius is 10 feet long and weighs 200 pounds.
 
 A necrophidius's body consists of a human skull and the skeletal remains of a constrictor snake, all treated with rare oils and powders worth 1,000 gp.
 
-CL 10th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Cat’s Grace|cat's grace]]_, _[[rangoric-srd/spells/Daze Monster|daze monster]]_, _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, _[[rangoric-srd/spells/Ghoul Touch|ghoul touch]]_, creator must be caster level 7th; Skill [[rangoric-srd/skills/Craft|Craft]] (sculpture) or [[rangoric-srd/skills/Medicine|Medicine]] DC 15; Price 7,500 gp; Cost 4,250 gp.
+CL 10th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Cat’s Grace|cat's grace]]_, _[[rangoric-srd/spells/Daze Monster|daze monster]]_, _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, _[[rangoric-srd/spells/Ghoul Touch|ghoul touch]]_, creator must be caster level 7th; Skill [[rangoric-srd/skills/Background|Background]] (sculpting) or [[rangoric-srd/skills/Medicine|Medicine]] DC 15; Price 7,500 gp; Cost 4,250 gp.

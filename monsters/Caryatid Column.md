@@ -77,4 +77,4 @@ A caryatid column stands 7 feet tall and weighs 1,500 pounds. Caryatid columns a
 
 A caryatid column's body is carved from a single 2,000-pound block of stone, such as granite or marble. The stone must be of exceptional quality, and costs 2,000 gp.
 
-CL 9th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Geas, Lesser|lesser geas]]_, _[[rangoric-srd/spells/Polymorph|polymorph]]_, _[[rangoric-srd/spells/Shatter|shatter]]_, caster must be at least 9th level; Skill [[rangoric-srd/skills/Craft|Craft]] (sculpting) or [[rangoric-srd/skills/Craft|Craft]] (stonemasonry) DC 15; Price 12,000 gp; Cost 7,000 gp.
+CL 9th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Geas, Lesser|lesser geas]]_, _[[rangoric-srd/spells/Polymorph|polymorph]]_, _[[rangoric-srd/spells/Shatter|shatter]]_, caster must be at least 9th level; Skill [[rangoric-srd/skills/Background|Background]] (sculpting) or [[rangoric-srd/skills/Background|Background]] (stonemasonry) DC 15; Price 12,000 gp; Cost 7,000 gp.

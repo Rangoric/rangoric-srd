@@ -17,8 +17,8 @@ special-attacks: "Spell-like abilities"
 special-qualities: "Low-light vision, damage reduction 5/cold iron, spell resistance 12"
 defenses: "Fort 11, Ref 16, Will 14"
 abilities: "Str 7, Dex 18, Con 12, Int 14, Wis 15, Cha 17"
-skills: "Acrobatics +8, Animal Handling +4, Athletics –2 (–6 jumping), Craft (any one) +6, Deception +7, Escape Artist +8, Perception +8, Sense Motive +6, Stealth +16 (+20 in forest)"
-skill-ranks: "Acrobatics 1, Animal Handling 1, Athletics 0, Craft (any one) 1, Deception 1, Escape Artist 1, Perception 1, Sense Motive 1, Stealth 1"
+skills: "Acrobatics +8, Animal Handling +4, Athletics –2 (–6 jumping), Background (any one craft) +6, Deception +7, Escape Artist +8, Perception +8, Sense Motive +6, Stealth +16 (+20 in forest)"
+skill-ranks: "Acrobatics 1, Animal Handling 1, Athletics 0, Background (any one craft) 1, Deception 1, Escape Artist 1, Perception 1, Sense Motive 1, Stealth 1"
 feats: "Dodge, Improved Initiative, Weapon Finesse"
 environment: "Temperate forests or plains"
 organization: "Solitary, gang (2–5), or band (7–12)"
@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 12
 - **Defenses**: Fort 11, Ref 16, Will 14
 - **Abilities**: Str 7, Dex 18, Con 12, Int 14, Wis 15, Cha 17
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +4, [[rangoric-srd/skills/Athletics|Athletics]] –2 (–6 jumping), [[rangoric-srd/skills/Craft|Craft]] (any one) +6, [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +8, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +16 (+20 in forest)
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +4, [[rangoric-srd/skills/Athletics|Athletics]] –2 (–6 jumping), [[rangoric-srd/skills/Background|Background]] (any one craft) +6, [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +8, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +16 (+20 in forest)
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
 - **Environment**: Temperate forests or plains
 - **Organization**: Solitary, gang (2–5), or band (7–12)

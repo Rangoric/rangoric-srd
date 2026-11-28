@@ -17,8 +17,8 @@ special-attacks: "Traps, web (+6 ranged, DC 15, hp 4), poison"
 special-qualities: "Darkvision 60 ft., low-light vision, spider empathy +7"
 defenses: "Fort 16, Ref 14, Will 16"
 abilities: "Str 14, Dex 17, Con 17, Int 6, Wis 15, Cha 8"
-skills: "Athletics +14, Craft (trapmaking) +8, Perception +9, Stealth +7"
-skill-ranks: "Athletics 9, Craft (trapmaking) 7, Perception 4, Stealth 1"
+skills: "Athletics +14, Background (trapmaking) +8, Perception +9, Stealth +7"
+skill-ranks: "Athletics 9, Background (trapmaking) 7, Perception 4, Stealth 1"
 feats: "Great Fortitude, Improved Initiative"
 environment: "Temperate forests; warm forests"
 organization: "Solitary, pair, nest (3–6 plus 2–8 giant spiders), or troupe (1–2 plus 2–4 Medium monstrous spiders)"
@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], spider empathy +7
 - **Defenses**: Fort 16, Ref 14, Will 16
 - **Abilities**: Str 14, Dex 17, Con 17, Int 6, Wis 15, Cha 8
-- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Craft|Craft]] (trapmaking) +8, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +7
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Background|Background]] (trapmaking) +8, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +7
 - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
 - **Environment**: Temperate forests; warm forests
 - **Organization**: Solitary, pair, nest (3–6 plus 2–8 giant spiders), or troupe (1–2 plus 2–4 Medium monstrous spiders)
