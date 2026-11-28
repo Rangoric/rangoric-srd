@@ -694,6 +694,76 @@ def table_links(rel, body):
             if ROW.match(line) for m in TABLE_LINK.finditer(line)]
 
 
+SPELL_ABBR = {'Sor/Wiz': 'Sorcerer and Wizards', 'Wiz': 'Sorcerer and Wizards', 'Psy': 'Psychic', 'Wit': 'Witch',
+              'Clr': 'Cleric', 'Brd': 'Bard', 'Hun': 'Hunter', 'Occ': 'Occultist', 'Drd': 'Druid', 'Mes': 'Mesmerist',
+              'Inq': 'Inquisitor', 'Spi': 'Spiritualist', 'Mag': 'Magus', 'Sha': 'Shaman', 'Med': 'Medium',
+              'Alc': 'Alchemist Formula', 'Sum': 'Summoner', 'Rgr': 'Ranger', 'SumU': 'Unchained Summoner',
+              'Blr': 'Bloodrager', 'Pal': 'Paladin', 'Apl': 'Antipaladin', 'Tot': 'Totem Mage'}
+SPELL_LIST = re.compile(r'spells/(.+?)(?: Spell List| List)\.md')
+SPELL_LINK = re.compile(r'\[\[rangoric-srd/spells/([^\]\\|]+)\\\|([^\]]*)\]\]\s*(?:\(([^)]*)\))?')
+SPELL_INDEX = re.compile(r'Spells [A-Z](?: to [A-Z])?')
+SPELL_LEVEL = re.compile(r'#+\s*(\d+)(?:st|nd|rd|th)?-Level')
+SPELL_NOTES = None   # spell name -> ({list: level}, has XP), read once
+
+
+def spell_notes():
+    global SPELL_NOTES
+    if SPELL_NOTES is None:
+        SPELL_NOTES = {}
+        for rel in files:
+            if not (rel.startswith('spells/') and rel.endswith('.md') and rel.count('/') == 1):
+                continue
+            fm = split(read(rel))[0] or ''
+            if not re.search(r'^srd-type: "?spell"?\s*$', fm, re.M):
+                continue
+            def items(key):
+                m = re.search(r'^%s:\n((?:[ \t]+- .*\n?)+)' % key, fm + '\n', re.M)
+                return re.findall(r'- "?([^"\n]+)"?', m.group(1)) if m else []
+            levels = {}
+            for x in items('level'):
+                m = re.match(r'(.+?)\s*(\d+)$', x)
+                if m and m.group(1) in SPELL_ABBR:
+                    levels[SPELL_ABBR[m.group(1)]] = int(m.group(2))
+            SPELL_NOTES[rel[len('spells/'):-3]] = (levels, any('XP' in c for c in items('components')))
+    return SPELL_NOTES
+
+
+def spell_list(rel, body):
+    """A class spell list's slips (Spell List Cleanup, LC 1): a blank Brief Description, a link to an index note, a
+    spell missing from the list (or level) its note's `level` names or on a list its `level` doesn't name, and an X
+    marker that doesn't match the note's XP component."""
+    m = SPELL_LIST.fullmatch(rel)
+    if not m:
+        return []
+    cls, notes, out, on_list, level = m.group(1), spell_notes(), [], {}, None
+    for line in strip_code(body).split('\n'):
+        h = SPELL_LEVEL.match(line) or re.match(r'#+\s*(0)-Level', line)
+        if h:
+            level = int(h.group(1))
+            continue
+        if not ROW.match(line):
+            continue
+        row = [c.strip() for c in re.split(r'(?<!\\)\|', line.strip())[1:-1]]
+        for lk in SPELL_LINK.finditer(line):
+            target, label, marker = lk.group(1), lk.group(2), (lk.group(3) or '').split()
+            if SPELL_INDEX.fullmatch(target):
+                out.append(f'spell list links an index note: {label} -> {target}')
+                continue
+            on_list.setdefault(target, set()).add(level)
+            if row and not row[-1]:
+                out.append(f'spell list row has no Brief Description: {target}')
+            if target in notes:
+                xp = 'X' in marker or label.endswith('(X)')
+                if xp != notes[target][1]:
+                    out.append(f'spell list X marker doesn\'t match the note\'s XP component: {target}')
+                if cls not in notes[target][0]:
+                    out.append(f'spell on the list but its level doesn\'t name {cls}: {target}')
+    for spell, (levels, _) in sorted(notes.items()):
+        if cls in levels and levels[cls] not in on_list.get(spell, set()):
+            out.append(f'spell missing from the list at level {levels[cls]}: {spell}')
+    return out
+
+
 def rule_problems(rel, data, body):
     """The note's problems against the written rules, in the checker's words (also its sweep-issues lines)."""
     if exempt(rel):
@@ -704,6 +774,7 @@ def rule_problems(rel, data, body):
     out += regeneration_unnamed(rel, data, body)
     out += old_affliction(rel, body)
     out += alignment_tags(data)
+    out += spell_list(rel, body)
     if 'all' in README_RULES:
         apply_table(README_RULES['all']['keys'], data, out)
     if 'all' in folder:
