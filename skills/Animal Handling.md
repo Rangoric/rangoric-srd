@@ -4,7 +4,7 @@ section: "Skills"
 key-ability: "Cha"
 status: draft
 pi-review: 2026-10-22
-tags: [rangoric, rangoric/skill, background]
+tags: [rangoric, rangoric/skill, flavor]
 ---
 
 # Animal Handling

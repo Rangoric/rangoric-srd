@@ -12,7 +12,6 @@ tags: [rangoric, rangoric/overview]
 
 - [[rangoric-srd/skills/Emulation|Emulation]]
 - [[rangoric-srd/skills/Engineering|Engineering]]
-- [[rangoric-srd/skills/Linguistics|Linguistics]]
 - [[rangoric-srd/skills/Medicine|Medicine]]
 - [[rangoric-srd/skills/Meditation|Meditation]]
 - [[rangoric-srd/skills/Mysticism|Mysticism]]

@@ -4,14 +4,14 @@ section: "Skills"
 key-ability: "Cha"
 status: draft
 pi-review: 2026-10-22
-tags: [rangoric, rangoric/skill, background]
+tags: [rangoric, rangoric/skill, flavor]
 ---
 
 # Performance
 
 Performance covers entertaining an audience. It was Perform.
 
-Like Craft, Knowledge, and Profession, Performance is actually a number of separate skills. You could have several Performance skills, each with its own ranks, each purchased as a separate skill.
+Like Background and Knowledge, Performance is actually a number of separate skills. You could have several Performance skills, each with its own ranks, each purchased as a separate skill.
 
 Each of the nine categories of the Performance skill includes a variety of methods, instruments, or techniques, a small list of which is provided for each category below.
 
