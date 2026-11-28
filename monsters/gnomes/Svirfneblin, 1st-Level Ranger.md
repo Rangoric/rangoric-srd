@@ -18,8 +18,8 @@ special-attacks: "Favored enemy (dwarf +2), +1 to attack vs. dwarven and reptili
 special-qualities: "Darkvision 120 ft., low-light vision, stonecunning, track, wild empathy +0, spell resistance 12"
 defenses: "Fort 16, Ref 16, Will 12"
 abilities: "Str 13, Dex 15, Con 14, Int 10, Wis 10, Cha 8"
-skills: "Craft (alchemy) +6, Dungeoneering +4, Fieldcraft +4 (+5 tracking), Medicine +4, Perception +6, Stealth +12 (+14 underground)"
-skill-ranks: "Craft (alchemy) 3, Dungeoneering 1, Fieldcraft 1, Medicine 1, Perception 1, Stealth 1"
+skills: "Background (alchemy) +6, Dungeoneering +4, Fieldcraft +4 (+5 tracking), Medicine +4, Perception +6, Stealth +12 (+14 underground)"
+skill-ranks: "Background (alchemy) 3, Dungeoneering 1, Fieldcraft 1, Medicine 1, Perception 1, Stealth 1"
 feats: "Toughness"
 environment: "Any underground"
 organization: "Solitary, company (2–4), squad (5–20 plus 1 leader of 3rd–6th level and 2 sergeants of 3rd level), or band (30–50 plus 1 sergeant of 3rd level per 20 adults, 5 lieutenants of 5th level, 3 captains of 7th level, and 2–5 Medium earth elementals)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], stonecunning, track, wild empathy +0, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 12
 - **Defenses**: Fort 16, Ref 16, Will 12
 - **Abilities**: Str 13, Dex 15, Con 14, Int 10, Wis 10, Cha 8
-- **Skills**: [[rangoric-srd/skills/Craft|Craft]] (alchemy) +6, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +4, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4 (+5 tracking), [[rangoric-srd/skills/Medicine|Medicine]] +4, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +12 (+14 underground)
+- **Skills**: [[rangoric-srd/skills/Background|Background]] (alchemy) +6, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +4, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4 (+5 tracking), [[rangoric-srd/skills/Medicine|Medicine]] +4, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +12 (+14 underground)
 - **Feats**: [[rangoric-srd/feats/Toughness|Toughness]]
 - **Environment**: Any underground
 - **Organization**: Solitary, company (2–4), squad (5–20 plus 1 leader of 3rd–6th level and 2 sergeants of 3rd level), or band (30–50 plus 1 sergeant of 3rd level per 20 adults, 5 lieutenants of 5th level, 3 captains of 7th level, and 2–5 Medium earth elementals)

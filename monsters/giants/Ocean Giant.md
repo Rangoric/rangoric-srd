@@ -18,8 +18,8 @@ special-attacks: "Conch focus, rock throwing (110 ft.), spell-like abilities"
 special-qualities: "Low-light vision, amphibious, resistance to cold 30 and electricity 30"
 defenses: "Fort 28, Ref 18, Will 20"
 abilities: "Str 40, Dex 11, Con 25, Int 12, Wis 15, Cha 18"
-skills: "Athletics +24, Fieldcraft +14, Intimidation +17, Nature +11, Perception +24, Performance (wind) +13"
-skill-ranks: "Athletics 6, Fieldcraft 9, Intimidation 10, Nature 7, Perception 19, Performance (wind) 9"
+skills: "Athletics +24, Fieldcraft +14, Intimidation +17, Nature +11, Perception +24, Performance (wind instruments) +16"
+skill-ranks: "Athletics 6, Fieldcraft 9, Intimidation 10, Nature 7, Perception 19, Performance (wind instruments) 9"
 feats: "Augment Summoning (with conch), Combat Reflexes, Critical Focus, Improved Bull Rush, Improved Initiative, Iron Will, Lightning Reflexes, Martial Weapon Proficiency (trident), Power Attack, Vital Strike, Weapon Focus (trident)"
 environment: "Any oceans"
 organization: "Solitary, gang (2–5), family (2–5 plus 35% noncombatants and 1 druid or sorcerer of 4th–7th level)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 30 and electricity 30
 - **Defenses**: Fort 28, Ref 18, Will 20
 - **Abilities**: Str 40, Dex 11, Con 25, Int 12, Wis 15, Cha 18
-- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +24, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +17, [[rangoric-srd/skills/Nature|Nature]] +11, [[rangoric-srd/skills/Perception|Perception]] +24, [[rangoric-srd/skills/Performance|Performance]] (wind) +13
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +24, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +17, [[rangoric-srd/skills/Nature|Nature]] +11, [[rangoric-srd/skills/Perception|Perception]] +24, [[rangoric-srd/skills/Performance|Performance]] (wind instruments) +16
 - **Feats**: [[rangoric-srd/feats/Augment Summoning|Augment Summoning]] (with conch), [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Martial Weapon Proficiency|Martial Weapon Proficiency]] (trident), [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (trident)
 - **Environment**: Any oceans
 - **Organization**: Solitary, gang (2–5), family (2–5 plus 35% noncombatants and 1 druid or sorcerer of 4th–7th level)

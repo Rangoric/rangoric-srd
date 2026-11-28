@@ -74,4 +74,4 @@ Created from a massive quantity of the purest mithral, this golem is a thing of 
 
 ### Construction
 
-CL 18th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Animate Objects|animate objects]]_, _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, _[[rangoric-srd/spells/Haste|haste]]_, _[[rangoric-srd/spells/Polymorph Any Object|polymorph any object]]_, _[[rangoric-srd/spells/Wish|wish]]_, creator must be caster level 18th; Skill [[rangoric-srd/skills/Craft|Craft]] (sculpture) DC 25; Price 250,000 gp; Cost 150,000 gp.
+CL 18th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Animate Objects|animate objects]]_, _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, _[[rangoric-srd/spells/Haste|haste]]_, _[[rangoric-srd/spells/Polymorph Any Object|polymorph any object]]_, _[[rangoric-srd/spells/Wish|wish]]_, creator must be caster level 18th; Skill [[rangoric-srd/skills/Background|Background]] (sculpting) DC 25; Price 250,000 gp; Cost 150,000 gp.

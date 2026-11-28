@@ -18,8 +18,8 @@ special-attacks: "Command giants, runes, spark shower, spell-like abilities"
 special-qualities: "Low-light vision, immunity to cold, electricity and fire"
 defenses: "Fort 25, Ref 16, Will 30"
 abilities: "Str 41, Dex 11, Con 28, Int 14, Wis 23, Cha 18"
-skills: "Acrobatics +15, Athletics +15 (+23 jumping), Craft (any one) +25, Perception +29, Society +12"
-skill-ranks: "Acrobatics 12, Athletics 0, Craft (any one) 20, Perception 20, Society 7"
+skills: "Acrobatics +15, Athletics +15 (+23 jumping), Background (any one craft) +25, Perception +29, Society +12"
+skill-ranks: "Acrobatics 12, Athletics 0, Background (any one craft) 20, Perception 20, Society 7"
 feats: "Awesome Blow, Critical Focus, Improved Bull Rush, Improved Critical (longsword), Improved Vital Strike, Iron Will, Power Attack, Quick Draw, Staggering Critical, Vital Strike"
 environment: "Cold mountains"
 organization: "Solitary, pair, patrol (3–6), squad (7–12), or company (13–30 plus 2–4 fighters or rogues of 2nd–4th level, 1 oracle or sorcerer of 5th–8th level, 1 ranger or monk commander of 5th–6th level, 10–20 yetis, 1–4 cloud giants, 8–12 frost giants, 10–16 stone giants, 4–8 lamia matriarchs, and 1–2 adult blue dragons)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, electricity and fire
 - **Defenses**: Fort 25, Ref 16, Will 30
 - **Abilities**: Str 41, Dex 11, Con 28, Int 14, Wis 23, Cha 18
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +15 (+23 jumping), [[rangoric-srd/skills/Craft|Craft]] (any one) +25, [[rangoric-srd/skills/Perception|Perception]] +29, [[rangoric-srd/skills/Society|Society]] +12
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +15 (+23 jumping), [[rangoric-srd/skills/Background|Background]] (any one craft) +25, [[rangoric-srd/skills/Perception|Perception]] +29, [[rangoric-srd/skills/Society|Society]] +12
 - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (longsword), [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Staggering Critical|Staggering Critical]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
 - **Environment**: Cold mountains
 - **Organization**: Solitary, pair, patrol (3–6), squad (7–12), or company (13–30 plus 2–4 fighters or rogues of 2nd–4th level, 1 oracle or sorcerer of 5th–8th level, 1 ranger or monk commander of 5th–6th level, 10–20 yetis, 1–4 cloud giants, 8–12 frost giants, 10–16 stone giants, 4–8 lamia matriarchs, and 1–2 adult blue dragons)

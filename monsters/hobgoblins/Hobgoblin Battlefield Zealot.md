@@ -18,8 +18,8 @@ special-attacks: "Channel negative energy 3/day (+3 vs Will, 1d6), rebuke undead
 special-qualities: "Darkvision 60 ft."
 defenses: "Fort 17, Ref 12, Will 15"
 abilities: "Str 14, Dex 14, Con 15, Int 8, Wis 15, Cha 10"
-skills: "Craft (alchemy) +3, Medicine +10, Mysticism +3, Stealth +5"
-skill-ranks: "Craft (alchemy) 1, Medicine 5, Mysticism 1, Stealth 3"
+skills: "Background (alchemy) +3, Medicine +10, Mysticism +3, Stealth +5"
+skill-ranks: "Background (alchemy) 1, Medicine 5, Mysticism 1, Stealth 3"
 feats: "Combat Casting, Improved Channel, Power Attack, Weapon Focus (bastard sword)"
 environment: "Temperate hills"
 organization: "Solitary, or with other hobgoblins (see Hobgoblin)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft.
 - **Defenses**: Fort 17, Ref 12, Will 15
 - **Abilities**: Str 14, Dex 14, Con 15, Int 8, Wis 15, Cha 10
-- **Skills**: [[rangoric-srd/skills/Craft|Craft]] (alchemy) +3, [[rangoric-srd/skills/Medicine|Medicine]] +10, [[rangoric-srd/skills/Mysticism|Mysticism]] +3, [[rangoric-srd/skills/Stealth|Stealth]] +5
+- **Skills**: [[rangoric-srd/skills/Background|Background]] (alchemy) +3, [[rangoric-srd/skills/Medicine|Medicine]] +10, [[rangoric-srd/skills/Mysticism|Mysticism]] +3, [[rangoric-srd/skills/Stealth|Stealth]] +5
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Improved Channel|Improved Channel]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bastard sword)
 - **Environment**: Temperate hills
 - **Organization**: Solitary, or with other hobgoblins (see [[rangoric-srd/monsters/hobgoblins/Hobgoblin|Hobgoblin]])

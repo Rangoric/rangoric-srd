@@ -17,8 +17,8 @@ special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 120 ft., low-light vision, kneecapper, damage reduction 5/cold iron, spell resistance 13"
 defenses: "Fort 13, Ref 17, Will 12"
 abilities: "Str 13, Dex 18, Con 15, Int 8, Wis 9, Cha 12"
-skills: "Acrobatics +10, Athletics +9, Craft (traps) +9, Intimidation +8, Perception +9, Stealth +14"
-skill-ranks: "Acrobatics 3, Athletics 5, Craft (traps) 7, Intimidation 3, Perception 3, Stealth 3"
+skills: "Acrobatics +10, Athletics +9, Background (trapmaking) +9, Intimidation +8, Perception +9, Stealth +14"
+skill-ranks: "Acrobatics 3, Athletics 5, Background (trapmaking) 7, Intimidation 3, Perception 3, Stealth 3"
 feats: "Step Up, Toughness, Weapon Focus (claw)"
 environment: "Any underground or urban"
 organization: "Solitary, pair, or mob (3–6)"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Kneecapper|kneecapper]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 13
 - **Defenses**: Fort 13, Ref 17, Will 12
 - **Abilities**: Str 13, Dex 18, Con 15, Int 8, Wis 9, Cha 12
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Craft|Craft]] (traps) +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +14
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Background|Background]] (trapmaking) +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +14
 - **Feats**: [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
 - **Environment**: Any underground or urban
 - **Organization**: Solitary, pair, or mob (3–6)

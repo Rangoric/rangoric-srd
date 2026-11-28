@@ -18,8 +18,8 @@ special-attacks: "—"
 special-qualities: "—"
 defenses: "Fort 12, Ref 14, Will 14 (+2 vs. fear)"
 abilities: "Str 10, Dex 15, Con 10, Int 9, Wis 10, Cha 10"
-skills: "Acrobatics +3 (–1 when jumping), Animal Handling +5, Athletics +5, Craft (leather) +5, Craft (traps) +7, Fieldcraft +9, Medicine +6, Nature +3, Perception +7, Stealth +13"
-skill-ranks: "Acrobatics 1, Animal Handling 3, Athletics 2, Craft (leather) 3, Craft (traps) 5, Fieldcraft 6, Medicine 3, Nature 1, Perception 4, Stealth 2"
+skills: "Acrobatics +3 (–1 when jumping), Animal Handling +5, Athletics +5, Background (leatherworking) +5, Background (trapmaking) +7, Fieldcraft +9, Medicine +6, Nature +3, Perception +7, Stealth +13"
+skill-ranks: "Acrobatics 1, Animal Handling 3, Athletics 2, Background (leatherworking) 3, Background (trapmaking) 5, Fieldcraft 6, Medicine 3, Nature 1, Perception 4, Stealth 2"
 feats: "Deadly Aim, Skill Focus (Fieldcraft)"
 environment: "Warm plains"
 organization: "Solitary, or with other halflings (see Halfling)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: —
 - **Defenses**: Fort 12, Ref 14, Will 14 (+2 vs. fear)
 - **Abilities**: Str 10, Dex 15, Con 10, Int 9, Wis 10, Cha 10
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +3 (–1 when jumping), [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Craft|Craft]] (leather) +5, [[rangoric-srd/skills/Craft|Craft]] (traps) +7, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +9, [[rangoric-srd/skills/Medicine|Medicine]] +6, [[rangoric-srd/skills/Nature|Nature]] +3, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +13
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +3 (–1 when jumping), [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Background|Background]] (leatherworking) +5, [[rangoric-srd/skills/Background|Background]] (trapmaking) +7, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +9, [[rangoric-srd/skills/Medicine|Medicine]] +6, [[rangoric-srd/skills/Nature|Nature]] +3, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +13
 - **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Fieldcraft)
 - **Environment**: Warm plains
 - **Organization**: Solitary, or with other halflings (see [[rangoric-srd/monsters/halflings/Halfling|Halfling]])

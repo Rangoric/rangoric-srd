@@ -18,8 +18,8 @@ special-attacks: "Breath weapon (30-ft. cone, 4d6 cold and blinded for 1d6 round
 special-qualities: "Darkvision 60 ft., see invisibility, snow vision, ice staff, icewalking, damage reduction 10/magic, immunity to cold, spell resistance 18, vulnerable to fire"
 defenses: "Fort 18, Ref 18, Will 18"
 abilities: "Str 17, Dex 13, Con 16, Int 16, Wis 13, Cha 18"
-skills: "Animal Handling +9, Arcana +8, Craft (alchemy) +11, Deception +19, Imitation +9, Intimidation +17, Mysticism +8, Perception +20, Persuasion +9, Sense Motive +6, Stealth +9 (+13 in snow)"
-skill-ranks: "Animal Handling 5, Arcana 2, Craft (alchemy) 5, Deception 11, Imitation 4, Intimidation 10, Mysticism 2, Perception 14, Persuasion 2, Sense Motive 4, Stealth 5"
+skills: "Animal Handling +9, Arcana +8, Background (alchemy) +11, Deception +19, Imitation +9, Intimidation +17, Mysticism +8, Perception +20, Persuasion +9, Sense Motive +6, Stealth +9 (+13 in snow)"
+skill-ranks: "Animal Handling 5, Arcana 2, Background (alchemy) 5, Deception 11, Imitation 4, Intimidation 10, Mysticism 2, Perception 14, Persuasion 2, Sense Motive 4, Stealth 5"
 feats: "Blind-Fight, Combat Casting, Great Fortitude, Skill Focus (Deception, Perception)"
 environment: "Cold forests or plains"
 organization: "Solitary, patrol (1 plus 1 winter wolf), or coven (3 hags of any type)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., see invisibility, [[rangoric-srd/monsters/abilities/Snow Vision|snow vision]], [[rangoric-srd/monsters/abilities/Ice Staff|ice staff]], [[rangoric-srd/monsters/abilities/Icewalking|icewalking]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 18, vulnerable to fire
 - **Defenses**: Fort 18, Ref 18, Will 18
 - **Abilities**: Str 17, Dex 13, Con 16, Int 16, Wis 13, Cha 18
-- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +9, [[rangoric-srd/skills/Arcana|Arcana]] +8, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +11, [[rangoric-srd/skills/Deception|Deception]] +19, [[rangoric-srd/skills/Imitation|Imitation]] +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +17, [[rangoric-srd/skills/Mysticism|Mysticism]] +8, [[rangoric-srd/skills/Perception|Perception]] +20, [[rangoric-srd/skills/Persuasion|Persuasion]] +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +9 (+13 in snow)
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +9, [[rangoric-srd/skills/Arcana|Arcana]] +8, [[rangoric-srd/skills/Background|Background]] (alchemy) +11, [[rangoric-srd/skills/Deception|Deception]] +19, [[rangoric-srd/skills/Imitation|Imitation]] +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +17, [[rangoric-srd/skills/Mysticism|Mysticism]] +8, [[rangoric-srd/skills/Perception|Perception]] +20, [[rangoric-srd/skills/Persuasion|Persuasion]] +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +9 (+13 in snow)
 - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception, Perception)
 - **Environment**: Cold forests or plains
 - **Organization**: Solitary, patrol (1 plus 1 winter wolf), or coven (3 hags of any type)

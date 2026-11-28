@@ -17,8 +17,8 @@ special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 120 ft., low-light vision, unluck (20 ft.), damage reduction 2/cold iron, spell resistance 7"
 defenses: "Fort 10, Ref 13, Will 14"
 abilities: "Str 3, Dex 13, Con 11, Int 10, Wis 14, Cha 6"
-skills: "Animal Handling +2, Craft (traps) +4, Deception +2, Engineering +2, Perception +6 (+2 Listening), Stealth +17"
-skill-ranks: "Animal Handling 1, Craft (traps) 1, Deception 1, Engineering 1, Perception 1, Stealth 1"
+skills: "Animal Handling +2, Background (trapmaking) +4, Deception +2, Engineering +2, Perception +6 (+2 Listening), Stealth +17"
+skill-ranks: "Animal Handling 1, Background (trapmaking) 1, Deception 1, Engineering 1, Perception 1, Stealth 1"
 feats: "Improved Initiative, Toughness, Weapon Finesse"
 environment: "Warm hills"
 organization: "Solitary, pair, mob (3–12), or infestation (13–20 with 1–3 druids of 1st–3rd level, 1 fighter leader of 2nd–4th level, 2–8 trained stirges, and 2–5 trained baboons)"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], unluck (20 ft.), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 2/cold iron, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 7
 - **Defenses**: Fort 10, Ref 13, Will 14
 - **Abilities**: Str 3, Dex 13, Con 11, Int 10, Wis 14, Cha 6
-- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +2, [[rangoric-srd/skills/Craft|Craft]] (traps) +4, [[rangoric-srd/skills/Deception|Deception]] +2, [[rangoric-srd/skills/Engineering|Engineering]] +2, [[rangoric-srd/skills/Perception|Perception]] +6 (+2 Listening), [[rangoric-srd/skills/Stealth|Stealth]] +17
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +2, [[rangoric-srd/skills/Background|Background]] (trapmaking) +4, [[rangoric-srd/skills/Deception|Deception]] +2, [[rangoric-srd/skills/Engineering|Engineering]] +2, [[rangoric-srd/skills/Perception|Perception]] +6 (+2 Listening), [[rangoric-srd/skills/Stealth|Stealth]] +17
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
 - **Environment**: Warm hills
 - **Organization**: Solitary, pair, mob (3–12), or infestation (13–20 with 1–3 druids of 1st–3rd level, 1 fighter leader of 2nd–4th level, 2–8 trained stirges, and 2–5 trained baboons)

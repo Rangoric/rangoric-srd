@@ -79,4 +79,4 @@ A typical glass golem is 10 feet tall and weighs 2,500 pounds.
 
 ### Construction
 
-CL 10th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Animate Objects|animate objects]]_, _[[rangoric-srd/spells/Flame Strike|flame strike]]_, _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, _[[rangoric-srd/spells/Spell Turning|spell turning]]_, creator must be caster level 10th; Skill [[rangoric-srd/skills/Craft|Craft]] (sculptures) DC 17; Price 33,000 gp (glass), 39,400 gp (stained glass); Cost 17,000 gp (glass golem), 20,200 gp (stained glass golem).
+CL 10th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Animate Objects|animate objects]]_, _[[rangoric-srd/spells/Flame Strike|flame strike]]_, _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, _[[rangoric-srd/spells/Spell Turning|spell turning]]_, creator must be caster level 10th; Skill [[rangoric-srd/skills/Background|Background]] (sculpting) DC 17; Price 33,000 gp (glass), 39,400 gp (stained glass); Cost 17,000 gp (glass golem), 20,200 gp (stained glass golem).

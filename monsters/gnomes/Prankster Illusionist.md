@@ -18,8 +18,8 @@ special-attacks: "+1 on attack rolls against goblinoid and reptilian humanoids"
 special-qualities: "Low-light vision, defensive training (+4 dodge bonus to AC vs. giants), arcane bond (raven), extended illusions (+5 rounds)"
 defenses: "Fort 17, Ref 16, Will 20 (+2 vs. illusions)"
 abilities: "Str 6, Dex 14, Con 16, Int 18, Wis 14, Cha 12"
-skills: "Acrobatics +12, Appraise +12, Arcana +17, Athletics –2 (–11 jumping), Craft (sculptures) +14, Mysticism +17, Nature +10, Perception +9, Perform (oratory) +6, Society +10, Stealth +11"
-skill-ranks: "Acrobatics 5, Appraise 5, Arcana 10, Athletics 0, Craft (sculptures) 7, Mysticism 10, Nature 3, Perception 4, Perform (oratory) 2, Society 3, Stealth 2"
+skills: "Acrobatics +12, Appraise +12, Arcana +17, Athletics –2 (–11 jumping), Background (sculpting) +14, Mysticism +17, Nature +10, Perception +9, Performance (oratory) +6, Society +10, Stealth +11"
+skill-ranks: "Acrobatics 5, Appraise 5, Arcana 10, Athletics 0, Background (sculpting) 7, Mysticism 10, Nature 3, Perception 4, Performance (oratory) 2, Society 3, Stealth 2"
 feats: "Combat Casting, Craft Wand, Craft Wondrous Item, Dodge, Empower Spell, Improved Initiative, Scribe Scroll, Spell Focus (illusion)"
 environment: "Temperate hills"
 organization: "Solitary, or with other gnomes (see Gnome)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/races/Gnome#^defensive-training|defensive training]] (+4 dodge bonus to AC vs. giants), [[rangoric-srd/classes/Wizard#^wizard-arcane-bond|arcane bond]] (raven), [[rangoric-srd/class-options/arcane-schools/Illusion School|extended illusions]] (+5 rounds)
 - **Defenses**: Fort 17, Ref 16, Will 20 (+2 vs. illusions)
 - **Abilities**: Str 6, Dex 14, Con 16, Int 18, Wis 14, Cha 12
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Appraise|Appraise]] +12, [[rangoric-srd/skills/Arcana|Arcana]] +17, [[rangoric-srd/skills/Athletics|Athletics]] –2 (–11 jumping), [[rangoric-srd/skills/Craft|Craft]] (sculptures) +14, [[rangoric-srd/skills/Mysticism|Mysticism]] +17, [[rangoric-srd/skills/Nature|Nature]] +10, [[rangoric-srd/skills/Perception|Perception]] +9, Perform (oratory) +6, [[rangoric-srd/skills/Society|Society]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +11
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Appraise|Appraise]] +12, [[rangoric-srd/skills/Arcana|Arcana]] +17, [[rangoric-srd/skills/Athletics|Athletics]] –2 (–11 jumping), [[rangoric-srd/skills/Background|Background]] (sculpting) +14, [[rangoric-srd/skills/Mysticism|Mysticism]] +17, [[rangoric-srd/skills/Nature|Nature]] +10, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Performance|Performance]] (oratory) +6, [[rangoric-srd/skills/Society|Society]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +11
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Craft Wand|Craft Wand]], [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Empower Spell|Empower Spell]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (illusion)
 - **Environment**: Temperate hills
 - **Organization**: Solitary, or with other gnomes (see [[rangoric-srd/monsters/gnomes/Gnome|Gnome]])

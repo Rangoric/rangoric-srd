@@ -66,7 +66,7 @@ Although the practice has fallen out of favor in modern times, the ancients of c
 
 ### Combat
 
-An iron golem’s body is sculpted from 5,000 pounds of pure iron, smelted with rare tinctures and admixtures costing at least 10,000 gp. Assembling the body requires a DC 20 [[rangoric-srd/skills/Craft|Craft]] (armorsmithing) check or a DC 20 Craft (weaponsmithing) check.
+An iron golem’s body is sculpted from 5,000 pounds of pure iron, smelted with rare tinctures and admixtures costing at least 10,000 gp. Assembling the body requires a DC 20 [[rangoric-srd/skills/Background|Background]] (armorsmithing) check or a DC 20 Background (weaponsmithing) check.
 
 CL 16th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], [[rangoric-srd/spells/Cloudkill|cloudkill]], [[rangoric-srd/spells/Geas-Quest|geas/quest]], [[rangoric-srd/spells/Limited Wish|limited wish]], caster must be at least 16th level; Price 150,000 gp; Cost 80,000 gp + 5,600 XP.
 

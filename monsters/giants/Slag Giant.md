@@ -18,8 +18,8 @@ special-attacks: "Rock throwing (120 ft.)"
 special-qualities: "Low-light vision, rock catching, shattering blow, resistance to fire 30"
 defenses: "Fort 21, Ref 16, Will 14"
 abilities: "Str 27, Dex 12, Con 19, Int 10, Wis 12, Cha 10"
-skills: "Craft (armor) +12, Craft (weapons) +12, Intimidation +8, Perception +9"
-skill-ranks: "Craft (armor) 9, Craft (weapons) 9, Intimidation 5, Perception 5"
+skills: "Background (armorsmithing) +12, Background (weaponsmithing) +12, Intimidation +8, Perception +9"
+skill-ranks: "Background (armorsmithing) 9, Background (weaponsmithing) 9, Intimidation 5, Perception 5"
 feats: "Improved Sunder, Lightning Reflexes, Martial Weapon Proficiency (warhammer), Power Attack, Weapon Focus (warhammer)"
 environment: "Warm mountains or underground"
 organization: "Solitary, pair, mining expedition (3–7), or tribe (5–20 plus 25% noncombatants and 1 cleric, or 1 fighter of 4th to 6th level plus 1–3 giant frilled lizards)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], [[rangoric-srd/monsters/abilities/Shattering Blow|shattering blow]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 30
 - **Defenses**: Fort 21, Ref 16, Will 14
 - **Abilities**: Str 27, Dex 12, Con 19, Int 10, Wis 12, Cha 10
-- **Skills**: [[rangoric-srd/skills/Craft|Craft]] (armor) +12, [[rangoric-srd/skills/Craft|Craft]] (weapons) +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Perception|Perception]] +9
+- **Skills**: [[rangoric-srd/skills/Background|Background]] (armorsmithing) +12, [[rangoric-srd/skills/Background|Background]] (weaponsmithing) +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Perception|Perception]] +9
 - **Feats**: [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Martial Weapon Proficiency|Martial Weapon Proficiency]] (warhammer), [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (warhammer)
 - **Environment**: Warm mountains or underground
 - **Organization**: Solitary, pair, mining expedition (3–7), or tribe (5–20 plus 25% noncombatants and 1 cleric, or 1 fighter of 4th to 6th level plus 1–3 giant frilled lizards)

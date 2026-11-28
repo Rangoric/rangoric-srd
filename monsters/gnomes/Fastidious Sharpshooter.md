@@ -18,8 +18,8 @@ special-attacks: "+1 on attack rolls against goblinoid and reptilian humanoids, 
 special-qualities: "Low-light vision, bravery +2, defensive training (+4 dodge bonus to AC vs. giants), armor training 2"
 defenses: "Fort 19, Ref 15, Will 14 (+2 vs. illusions, +2 vs. fear)"
 abilities: "Str 10, Dex 16, Con 16, Int 8, Wis 14, Cha 12"
-skills: "Perception +10, Profession (soldier) +8, Sense Motive +7"
-skill-ranks: "Perception 5, Profession (soldier) 6, Sense Motive 2"
+skills: "Perception +10, Background (soldier) +8, Sense Motive +7"
+skill-ranks: "Perception 5, Background (soldier) 6, Sense Motive 2"
 feats: "Deadly Aim, Fleet, Improved Critical (light crossbow), Point Blank Shot, Precise Shot, Rapid Reload, Rapid Shot, Weapon Focus (light crossbow), Weapon Specialization (light crossbow)"
 environment: "Temperate hills"
 organization: "Solitary, or with other gnomes (see Gnome)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +2, [[rangoric-srd/races/Gnome#^defensive-training|defensive training]] (+4 dodge bonus to AC vs. giants), [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 2
 - **Defenses**: Fort 19, Ref 15, Will 14 (+2 vs. illusions, +2 vs. fear)
 - **Abilities**: Str 10, Dex 16, Con 16, Int 8, Wis 14, Cha 12
-- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Profession|Profession]] (soldier) +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Background|Background]] (soldier) +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7
 - **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Fleet|Fleet]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (light crossbow), [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Rapid Reload|Rapid Reload]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (light crossbow), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (light crossbow)
 - **Environment**: Temperate hills
 - **Organization**: Solitary, or with other gnomes (see [[rangoric-srd/monsters/gnomes/Gnome|Gnome]])

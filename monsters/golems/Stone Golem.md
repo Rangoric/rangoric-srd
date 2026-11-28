@@ -70,7 +70,7 @@ Like most golems, a stone golem cannot speak and makes no sound other than the g
 
 Stone golems are formidable opponents, being physically powerful and difficult to harm.
 
-A stone golem’s body is chiseled from a single block of hard stone, such as granite, weighing at least 3,000 pounds. The stone must be of exceptional quality, and costs 5,000 gp. Assembling the body requires a DC 17 [[rangoric-srd/skills/Craft|Craft]] (sculpting) check or a DC 17 Craft (stonemasonry) check.
+A stone golem’s body is chiseled from a single block of hard stone, such as granite, weighing at least 3,000 pounds. The stone must be of exceptional quality, and costs 5,000 gp. Assembling the body requires a DC 17 [[rangoric-srd/skills/Background|Background]] (sculpting) check or a DC 17 Background (stonemasonry) check.
 
 CL 14th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], [[rangoric-srd/spells/Antimagic Field|antimagic field]], [[rangoric-srd/spells/Geas-Quest|geas/quest]], [[rangoric-srd/spells/Slow|slow]], [[rangoric-srd/spells/Symbol of Stunning|symbol of stunning]], caster must be at least 14th level; Price 90,000 gp; Cost 50,000 gp + 3,400 XP.
 

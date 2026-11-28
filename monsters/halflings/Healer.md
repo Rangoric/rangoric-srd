@@ -18,8 +18,8 @@ special-attacks: "—"
 special-qualities: "Summon familiar (toad)"
 defenses: "Fort 16, Ref 15, Will 21 (+2 vs. fear)"
 abilities: "Str 6, Dex 13, Con 10, Int 12, Wis 14, Cha 12"
-skills: "Acrobatics +3 (–1 when jumping), Appraise +4, Athletics +0, Fieldcraft +8, Linguistics +3, Medicine +19, Nature +13, Perception +4, Profession (herbalist) +14, Society +8"
-skill-ranks: "Acrobatics 2, Appraise 3, Athletics 2, Fieldcraft 3, Linguistics 2, Medicine 14, Nature 9, Perception 2, Profession (herbalist) 10, Society 4"
+skills: "Acrobatics +3 (–1 when jumping), Appraise +4, Athletics +0, Fieldcraft +8, Linguistics +3, Medicine +19, Nature +13, Perception +4, Background (herbalist) +16, Society +8"
+skill-ranks: "Acrobatics 2, Appraise 3, Athletics 2, Fieldcraft 3, Linguistics 2, Medicine 14, Nature 9, Perception 2, Background (herbalist) 10, Society 4"
 feats: "Brew Potion, Great Fortitude, Iron Will, Scribe Scroll, Skill Focus (Medicine)"
 environment: "Warm plains"
 organization: "Solitary, or with other halflings (see Halfling)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Adept|Summon familiar]] (toad)
 - **Defenses**: Fort 16, Ref 15, Will 21 (+2 vs. fear)
 - **Abilities**: Str 6, Dex 13, Con 10, Int 12, Wis 14, Cha 12
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +3 (–1 when jumping), [[rangoric-srd/skills/Appraise|Appraise]] +4, [[rangoric-srd/skills/Athletics|Athletics]] +0, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8, [[rangoric-srd/skills/Linguistics|Linguistics]] +3, [[rangoric-srd/skills/Medicine|Medicine]] +19, [[rangoric-srd/skills/Nature|Nature]] +13, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Profession|Profession]] (herbalist) +14, [[rangoric-srd/skills/Society|Society]] +8
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +3 (–1 when jumping), [[rangoric-srd/skills/Appraise|Appraise]] +4, [[rangoric-srd/skills/Athletics|Athletics]] +0, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8, [[rangoric-srd/skills/Linguistics|Linguistics]] +3, [[rangoric-srd/skills/Medicine|Medicine]] +19, [[rangoric-srd/skills/Nature|Nature]] +13, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Background|Background]] (herbalist) +16, [[rangoric-srd/skills/Society|Society]] +8
 - **Feats**: [[rangoric-srd/feats/Brew Potion|Brew Potion]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Medicine)
 - **Environment**: Warm plains
 - **Organization**: Solitary, or with other halflings (see [[rangoric-srd/monsters/halflings/Halfling|Halfling]])

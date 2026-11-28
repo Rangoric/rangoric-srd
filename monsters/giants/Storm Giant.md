@@ -18,8 +18,8 @@ special-attacks: "Spell-like abilities"
 special-qualities: "Low-light vision, rock catching, militant, water breathing, immunity to electricity"
 defenses: "Fort 27, Ref 18, Will 23"
 abilities: "Str 39, Dex 14, Con 23, Int 16, Wis 20, Cha 15"
-skills: "Acrobatics +18, Athletics +22, Craft (any one) +13, Intimidation +20, Perception +27, Performance (sing) +12, Sense Motive +24"
-skill-ranks: "Acrobatics 13, Athletics 5, Craft (any one) 7, Intimidation 15, Perception 19, Perform (sing) 6, Sense Motive 16"
+skills: "Acrobatics +18, Athletics +22, Background (any one craft) +13, Intimidation +20, Perception +27, Performance (sing) +12, Sense Motive +24"
+skill-ranks: "Acrobatics 13, Athletics 5, Background (any one craft) 7, Intimidation 15, Perception 19, Performance (sing) 6, Sense Motive 16"
 feats: "Awesome Blow, Cleave, Combat Reflexes, Improved Bull Rush, Improved Critical (greatsword), Improved Sunder, Improved Vital Strike, Iron Will, Power Attack, Vital Strike"
 environment: "Any warm"
 organization: "Solitary or family (2–5 plus 1 sorcerer or cleric of 7th–10th level, 1–2 rocs, 2–6 griffons, and 2–8 sharks)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], militant, [[rangoric-srd/monsters/abilities/Water Breathing|water breathing]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity
 - **Defenses**: Fort 27, Ref 18, Will 23
 - **Abilities**: Str 39, Dex 14, Con 23, Int 16, Wis 20, Cha 15
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +18, [[rangoric-srd/skills/Athletics|Athletics]] +22, [[rangoric-srd/skills/Craft|Craft]] (any one) +13, [[rangoric-srd/skills/Intimidation|Intimidation]] +20, [[rangoric-srd/skills/Perception|Perception]] +27, [[rangoric-srd/skills/Performance|Performance]] (sing) +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +24
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +18, [[rangoric-srd/skills/Athletics|Athletics]] +22, [[rangoric-srd/skills/Background|Background]] (any one craft) +13, [[rangoric-srd/skills/Intimidation|Intimidation]] +20, [[rangoric-srd/skills/Perception|Perception]] +27, [[rangoric-srd/skills/Performance|Performance]] (sing) +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +24
 - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (greatsword), [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
 - **Environment**: Any warm
 - **Organization**: Solitary or family (2–5 plus 1 sorcerer or cleric of 7th–10th level, 1–2 rocs, 2–6 griffons, and 2–8 sharks)

@@ -72,4 +72,4 @@ Bone golems are most often crafted as guardians of tombs—and sometimes formed 
 
 ### Construction
 
-CL 9th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, _[[rangoric-srd/spells/Limited Wish|limited wish]]_, _[[rangoric-srd/spells/Telekinesis|telekinesis]]_, and either _[[rangoric-srd/spells/Animate Dead|animate dead]]_ or _[[rangoric-srd/spells/Animate Objects|animate objects]]_, creator must be at least caster level 9th; Skill [[rangoric-srd/skills/Craft|Craft]] (sculpture) or [[rangoric-srd/skills/Medicine|Medicine]] DC 15; Price 41,000 gp; Cost 21,000 gp.
+CL 9th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, _[[rangoric-srd/spells/Limited Wish|limited wish]]_, _[[rangoric-srd/spells/Telekinesis|telekinesis]]_, and either _[[rangoric-srd/spells/Animate Dead|animate dead]]_ or _[[rangoric-srd/spells/Animate Objects|animate objects]]_, creator must be at least caster level 9th; Skill [[rangoric-srd/skills/Background|Background]] (sculpting) or [[rangoric-srd/skills/Medicine|Medicine]] DC 15; Price 41,000 gp; Cost 21,000 gp.

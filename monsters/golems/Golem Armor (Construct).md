@@ -95,7 +95,7 @@ A creature encased within golem armor gains the better of either its or the gole
 
 ## Construction
 
-The physical form of a suit of golem armor is built from pure mithral, and requires a successful Craft (armorsmithing) check (DC 25). If wings are attached, the DC for the check is 30. Two diamonds (worth 10,000 gp each) are placed in its eye sockets. Its face is sculpted to the creator’s liking. The total cost of creating a suit of golem armor is 150,000 gp.
+The physical form of a suit of golem armor is built from pure mithral, and requires a successful Background (armorsmithing) check (DC 25). If wings are attached, the DC for the check is 30. Two diamonds (worth 10,000 gp each) are placed in its eye sockets. Its face is sculpted to the creator’s liking. The total cost of creating a suit of golem armor is 150,000 gp.
 
 The creator must summon a spirit to power the golem from the Elemental Plane of Air. It is possible to work out prior arrangements with these spirits, although most casters elect to force them, unwilling, into the golem.
 

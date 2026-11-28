@@ -77,4 +77,4 @@ Carrion golems are made from the partially decayed parts of numerous dead creatu
 
 ### Construction
 
-CL 7th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Animate Dead|animate dead]]_, _[[rangoric-srd/spells/Contagion|contagion]]_, _[[rangoric-srd/spells/False Life|false life]]_, _[[rangoric-srd/spells/Gentle Repose|gentle repose]]_, _[[rangoric-srd/spells/Geas, Lesser|lesser geas]]_, creator must be caster level 7th; Skill [[rangoric-srd/skills/Craft|Craft]] (leather) or [[rangoric-srd/skills/Medicine|Medicine]] DC 13; Price 10,500 gp; Cost 5,500 gp.
+CL 7th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Animate Dead|animate dead]]_, _[[rangoric-srd/spells/Contagion|contagion]]_, _[[rangoric-srd/spells/False Life|false life]]_, _[[rangoric-srd/spells/Gentle Repose|gentle repose]]_, _[[rangoric-srd/spells/Geas, Lesser|lesser geas]]_, creator must be caster level 7th; Skill [[rangoric-srd/skills/Background|Background]] (leatherworking) or [[rangoric-srd/skills/Medicine|Medicine]] DC 13; Price 10,500 gp; Cost 5,500 gp.

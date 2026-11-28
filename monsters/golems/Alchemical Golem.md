@@ -72,4 +72,4 @@ This golem is a walking alchemical nightmare, capable of inflicting all manner o
 
 ### Construction
 
-CL 10th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, _[[rangoric-srd/spells/Gentle Repose|gentle repose]]_, _[[rangoric-srd/spells/Major Creation|major creation]]_, _[[rangoric-srd/spells/Resist Energy|resist energy]]_, _[[rangoric-srd/spells/Telekinesis|telekinesis]]_, creator must be caster level 10th; Skill [[rangoric-srd/skills/Craft|Craft]] (alchemy) DC 20; Price 33,000 gp; Cost 18,000 gp.
+CL 10th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, _[[rangoric-srd/spells/Gentle Repose|gentle repose]]_, _[[rangoric-srd/spells/Major Creation|major creation]]_, _[[rangoric-srd/spells/Resist Energy|resist energy]]_, _[[rangoric-srd/spells/Telekinesis|telekinesis]]_, creator must be caster level 10th; Skill [[rangoric-srd/skills/Background|Background]] (alchemy) DC 20; Price 33,000 gp; Cost 18,000 gp.

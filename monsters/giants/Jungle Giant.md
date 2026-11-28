@@ -18,8 +18,8 @@ special-attacks: "—"
 special-qualities: "Low-light vision, rock catching, spell storing, warding tattoos, archery expert, immunity to disease and poison"
 defenses: "Fort 19, Ref 23, Will 17"
 abilities: "Str 26, Dex 19, Con 19, Int 10, Wis 14, Cha 11"
-skills: "Athletics +12, Craft (bows) +8, Fieldcraft +10, Perception +15, Stealth +12 (+20 in forests)"
-skill-ranks: "Athletics 0, Craft (bows) 5, Fieldcraft 5, Perception 10, Stealth 13"
+skills: "Athletics +12, Background (bowmaking) +8, Fieldcraft +10, Perception +15, Stealth +12 (+20 in forests)"
+skill-ranks: "Athletics 0, Background (bowmaking) 5, Fieldcraft 5, Perception 10, Stealth 13"
 feats: "Deadly Aim, Improved Critical (longbow), Improved Precise Shot, Point Blank Shot, Precise Shot, Rapid Shot, Skill Focus (Stealth), Weapon Focus (longbow)"
 environment: "Warm forests"
 organization: "Solitary, hunting party (2–9 plus 1–3 girallons), or tribe (10–40, plus 35% noncombatants, 1–3 druids or sorcerers of 2nd–5th level, 1 ranger or barbarian of 3rd–7th level, and 2–8 girallons)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], [[rangoric-srd/monsters/abilities/Spell Storing|spell storing]], [[rangoric-srd/monsters/abilities/Warding Tattoos|warding tattoos]], [[rangoric-srd/monsters/abilities/Archery Expert|archery expert]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease and poison
 - **Defenses**: Fort 19, Ref 23, Will 17
 - **Abilities**: Str 26, Dex 19, Con 19, Int 10, Wis 14, Cha 11
-- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12, [[rangoric-srd/skills/Craft|Craft]] (bows) +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +12 (+20 in forests)
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12, [[rangoric-srd/skills/Background|Background]] (bowmaking) +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +12 (+20 in forests)
 - **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (longbow), [[rangoric-srd/feats/Improved Precise Shot|Improved Precise Shot]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longbow)
 - **Environment**: Warm forests
 - **Organization**: Solitary, hunting party (2–9 plus 1–3 girallons), or tribe (10–40, plus 35% noncombatants, 1–3 druids or sorcerers of 2nd–5th level, 1 ranger or barbarian of 3rd–7th level, and 2–8 girallons)

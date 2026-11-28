@@ -18,8 +18,8 @@ special-attacks: "Earth mastery, metalmorph, stone curse, spell-like abilities"
 special-qualities: "Darkvision 60 ft., tremorsense 60 ft., telepathy 100 ft., stone glide, immunity to electricity"
 defenses: "Fort 20, Ref 14, Will 18"
 abilities: "Str 20, Dex 13, Con 19, Int 14, Wis 14, Cha 15"
-skills: "Appraise +14, Athletics +25, Craft (gemcutting) +14, Deception +14, Engineering +14, Mysticism +14, Perception +14, Sense Motive +14"
-skill-ranks: "Appraise 9, Athletics 17, Craft (gemcutting) 9, Deception 9, Engineering 9, Mysticism 9, Perception 9, Sense Motive 9"
+skills: "Appraise +14, Athletics +25, Background (gemcutting) +14, Deception +14, Engineering +14, Mysticism +14, Perception +14, Sense Motive +14"
+skill-ranks: "Appraise 9, Athletics 17, Background (gemcutting) 9, Deception 9, Engineering 9, Mysticism 9, Perception 9, Sense Motive 9"
 feats: "Combat Casting, Greater Bull Rush, Improved Bull Rush, Improved Initiative, Power Attack, Quicken Spell-Like Ability (glitterdust)"
 environment: "Any (Elemental Plane of Earth)"
 organization: "Solitary, pair, company (3–6), or band (7–12)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., stone glide, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity
 - **Defenses**: Fort 20, Ref 14, Will 18
 - **Abilities**: Str 20, Dex 13, Con 19, Int 14, Wis 14, Cha 15
-- **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +25, [[rangoric-srd/skills/Craft|Craft]] (gemcutting) +14, [[rangoric-srd/skills/Deception|Deception]] +14, [[rangoric-srd/skills/Engineering|Engineering]] +14, [[rangoric-srd/skills/Mysticism|Mysticism]] +14, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14
+- **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +25, [[rangoric-srd/skills/Background|Background]] (gemcutting) +14, [[rangoric-srd/skills/Deception|Deception]] +14, [[rangoric-srd/skills/Engineering|Engineering]] +14, [[rangoric-srd/skills/Mysticism|Mysticism]] +14, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Greater Bull Rush|Greater Bull Rush]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Quicken Spell-Like Ability|Quicken Spell-Like Ability]] (glitterdust)
 - **Environment**: Any (Elemental Plane of Earth)
 - **Organization**: Solitary, pair, company (3–6), or band (7–12)
