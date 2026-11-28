@@ -33,7 +33,7 @@ Deadly even with nothing in her hands, a brawler eschews using the [[rangoric-sr
 
 ###### Class Skills
 
-The brawler’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Animal Handling|Animal Handling]] (Cha), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] (Int), [[rangoric-srd/skills/Escape Artist|Escape Artist]] (Dex), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Investigation|Investigation]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), and [[rangoric-srd/skills/Society|Society]] (Int).
+The brawler’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] (Int), [[rangoric-srd/skills/Escape Artist|Escape Artist]] (Dex), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Investigation|Investigation]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), and [[rangoric-srd/skills/Society|Society]] (Int).
 
 **Skill Points at Each Level**: 4 + Int modifier.
 

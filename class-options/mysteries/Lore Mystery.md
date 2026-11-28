@@ -12,7 +12,7 @@ tags: [rangoric, rangoric/class-option]
 
 _An [[rangoric-srd/classes/Oracle#^oracle-mystery|oracle mystery]]._ The shaman’s [[rangoric-srd/class-options/spirits/Lore Spirit|lore spirit]] shares its name; a character with both must choose matching ones (see the shaman’s [[rangoric-srd/classes/Shaman#^shaman-spirit|spirit]]).
 
-**Class Skills**: An oracle with the lore mystery adds [[rangoric-srd/skills/Appraise|Appraise]] and all [[rangoric-srd/skills/Knowledge|Knowledge skills]] to her list of class skills.
+**Class Skills**: An oracle with the lore mystery adds all [[rangoric-srd/skills/Knowledge|Knowledge skills]] to her list of class skills.
 
 **Bonus Spells**: _[[rangoric-srd/spells/Identify|identify]]_ (2nd), _[[rangoric-srd/spells/Tongues|tongues]]_ (4th), _[[rangoric-srd/spells/Locate Object|locate object]]_ (6th), _[[rangoric-srd/spells/Legend Lore|legend lore]]_ (8th), _[[rangoric-srd/spells/Contact Other Plane|contact other plane]]_ (10th), _[[rangoric-srd/spells/Owl’s Wisdom, Mass|mass owl's wisdom]]_ (12th), _[[rangoric-srd/spells/Vision|vision]]_ (14th), _[[rangoric-srd/spells/Moment of Prescience|moment of prescience]]_ (16th), _[[rangoric-srd/spells/Time Stop|time stop]]_ (18th).
 

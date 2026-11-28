@@ -33,7 +33,7 @@ The kineticist class isn’t the [[rangoric-srd/psionics/Psion|psion]]’s kinet
 
 ###### Class Skills
 
-The kineticist’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Craft|Craft]] (Int), [[rangoric-srd/skills/Emulation|Emulation]] (Cha), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Investigation|Investigation]] (Int), [[rangoric-srd/skills/Medicine|Medicine]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Profession|Profession]] (Wis), and [[rangoric-srd/skills/Stealth|Stealth]] (Dex). Her [[rangoric-srd/class-options/elements/Elements|element]] adds two more.
+The kineticist’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Emulation|Emulation]] (Cha), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Investigation|Investigation]] (Int), [[rangoric-srd/skills/Medicine|Medicine]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), and [[rangoric-srd/skills/Stealth|Stealth]] (Dex). Her [[rangoric-srd/class-options/elements/Elements|element]] adds two more.
 
 **Skill Points at Each Level**: 4 + Int modifier.
 

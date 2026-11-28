@@ -33,7 +33,7 @@ There are those who take a different path when pursuing the arcane arts, reachin
 
 ###### Class Skills
 
-The unchained summoner’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Animal Handling|Animal Handling]] (Cha), [[rangoric-srd/skills/Emulation|Emulation]] (Cha), [[rangoric-srd/skills/Engineering|Engineering]] (Int), all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int), and [[rangoric-srd/skills/Mysticism|Mysticism]] (Int).
+The unchained summoner’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Emulation|Emulation]] (Cha), [[rangoric-srd/skills/Engineering|Engineering]] (Int), all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int), and [[rangoric-srd/skills/Mysticism|Mysticism]] (Int).
 
 **Skill Points at Each Level**: 2 + Int modifier.
 

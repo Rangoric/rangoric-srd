@@ -31,7 +31,7 @@ Within the purity of the elements and the order of the wilds lingers a power bey
 
 ###### Class Skills
 
-The druid’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Animal Handling|Animal Handling]] (Cha), [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Investigation|Investigation]] (Int), [[rangoric-srd/skills/Medicine|Medicine]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Nature|Nature]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), and [[rangoric-srd/skills/Society|Society]] (Int).
+The druid’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Investigation|Investigation]] (Int), [[rangoric-srd/skills/Medicine|Medicine]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Nature|Nature]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), and [[rangoric-srd/skills/Society|Society]] (Int).
 
 **Skill Points at Each Level**: 4 + Int modifier.
 

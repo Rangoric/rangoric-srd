@@ -42,7 +42,7 @@ To qualify to become a spellsinger, a character must fulfill all the following c
 
 ###### Class Skills
 
-The spellsinger’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] (Int), [[rangoric-srd/skills/Engineering|Engineering]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Nature|Nature]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Performance|Performance]] (Cha), [[rangoric-srd/skills/Society|Society]] (Int), and [[rangoric-srd/skills/Theology|Theology]] (Int).
+The spellsinger’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] (Int), [[rangoric-srd/skills/Engineering|Engineering]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Nature|Nature]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Society|Society]] (Int), and [[rangoric-srd/skills/Theology|Theology]] (Int).
 
 **Skill Points at Each Level**: 4 + Int modifier.
 

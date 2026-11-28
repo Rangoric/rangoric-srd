@@ -12,7 +12,7 @@ tags: [rangoric, rangoric/class-option]
 
 _An [[rangoric-srd/classes/Oracle#^oracle-mystery|oracle mystery]]._
 
-**Class Skills**: An oracle with the ancestor mystery adds [[rangoric-srd/skills/Linguistics|Linguistics]] and all [[rangoric-srd/skills/Knowledge|Knowledge skills]] to her list of class skills.
+**Class Skills**: An oracle with the ancestor mystery adds all [[rangoric-srd/skills/Knowledge|Knowledge skills]] to her list of class skills.
 
 **Bonus Spells**: _[[rangoric-srd/spells/Unseen Servant|unseen servant]]_ (2nd), _[[rangoric-srd/spells/Spiritual Weapon|spiritual weapon]]_ (4th), _[[rangoric-srd/spells/Heroism|heroism]]_ (6th), _[[rangoric-srd/spells/Spiritual Ally|spiritual ally]]_ (8th), _[[rangoric-srd/spells/Telekinesis|telekinesis]]_ (10th), _[[rangoric-srd/spells/Heroism, Greater|greater heroism]]_ (12th), _[[rangoric-srd/spells/Ethereal Jaunt|ethereal jaunt]]_ (14th), _[[rangoric-srd/spells/Vision|vision]]_ (16th), _[[rangoric-srd/spells/Astral Projection|astral projection]]_ (18th).
 

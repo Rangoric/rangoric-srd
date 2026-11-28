@@ -74,7 +74,7 @@ All of the following are class features of the dwarf paragon class.
 
 **Weapon and Armor Proficiency:** Dwarf paragons are proficient with all simple and martial weapons, with light, medium, and heavy armor, and with shields (but not with tower shields).
 
-**Craft Expertise (Ex):** A dwarf paragon's [[rangoric-srd/races/Dwarf|craftsman]] bonus on [[rangoric-srd/skills/Craft|Craft]] checks related to stone or metal items increases by his dwarf paragon level. ^dwarf-paragon-craft-expertise
+**Craft Expertise (Ex):** A dwarf paragon's [[rangoric-srd/races/Dwarf|craftsman]] bonus on [[rangoric-srd/skills/Background#Making Things|Background]] checks to make things related to stone or metal items increases by his dwarf paragon level. ^dwarf-paragon-craft-expertise
 
 **Improved Stonecunning (Ex):** At 1st level, a dwarf paragon's [[rangoric-srd/races/Dwarf#^dwarf-stonecunning|stonecunning]] bonus on [[rangoric-srd/skills/Investigation|Investigation]] checks to notice unusual stonework increases to +4. The range at which he receives an automatic Investigation check for coming near an example of unusual stonework increases to 20 feet. Also, he always knows which way is north while underground. ^dwarf-paragon-improved-stonecunning
 

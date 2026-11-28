@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class]
 
 This prestige class directly reflects the teachings and standards of a school of herbalism. While not always embracing the religious nature of druidism, herbalists have a sharply honed respect for nature and a broad knowledge and understanding of nature, its cycles, and the balances between plants and animals.
 
-Herbalists of this class are neither common herbalists nor common students of the school—they are the advanced students who carry the message of Nature’s Gifts in Balance throughout the world. They are also learned in secrets of erlcana beyond the grasp of most self-taught or tutored herbalists (meaning NPC experts or those with random ranks of Profession (herbalist)).
+Herbalists of this class are neither common herbalists nor common students of the school—they are the advanced students who carry the message of Nature’s Gifts in Balance throughout the world. They are also learned in secrets of erlcana beyond the grasp of most self-taught or tutored herbalists (meaning NPC experts or those with random ranks of Background (herbalist)).
 
 Herbalists practise [[rangoric-srd/rules/alchemy-and-herbalism/Herbalism|herbalism]] (see [[rangoric-srd/rules/alchemy-and-herbalism/Alchemy and Herbalism|Alchemy and Herbalism]]).
 
@@ -32,9 +32,9 @@ Herbalists practise [[rangoric-srd/rules/alchemy-and-herbalism/Herbalism|herbali
 
 To qualify to become an herbalist, a character must fulfill all the following criteria.
 
-**Skills**: [[rangoric-srd/skills/Profession|Profession]] (herbalist) 5 ranks. (It is highly recommended that characters place one or two skill points each level into their Profession (herbalist) skill in order to meet the prerequisites of many feats gained in this prestige class.)
+**Skills**: [[rangoric-srd/skills/Background|Background]] (herbalist) 5 ranks. (It is highly recommended that characters place one or two skill points each level into their Background (herbalist) skill in order to meet the prerequisites of many feats gained in this prestige class.)
 
-**Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Profession (herbalist)).
+**Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Background (herbalist)).
 
 **Special**: [[rangoric-srd/classes/Druid#^druid-nature-sense|Nature sense]] (the druid’s ability).
 

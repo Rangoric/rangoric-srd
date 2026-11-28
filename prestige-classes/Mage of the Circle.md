@@ -28,7 +28,7 @@ Over the centuries, fey spellcasters deigned to teach others their unorthodox ma
 
 To qualify to become a mage of the circle (abbreviated Moc), a character must fulfill all the following criteria.
 
-**Skills**: [[rangoric-srd/skills/Arcana|Arcana]] 5 ranks, [[rangoric-srd/skills/Lore|Lore (fey)]] 5 ranks.
+**Skills**: [[rangoric-srd/skills/Arcana|Arcana]] 5 ranks, [[rangoric-srd/skills/Background|Background (fey)]] 5 ranks.
 
 **Feats**: [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Fey Magic|Fey Magic]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]].
 
@@ -36,7 +36,7 @@ To qualify to become a mage of the circle (abbreviated Moc), a character must fu
 
 ###### Class Skills
 
-The mage of the circle’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Craft|Craft]] (Int), [[rangoric-srd/skills/Lore|Lore]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), and [[rangoric-srd/skills/Nature|Nature]] (Int).
+The mage of the circle’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), and [[rangoric-srd/skills/Nature|Nature]] (Int).
 
 **Skill Points at Each Level**: 4 + Int modifier.
 

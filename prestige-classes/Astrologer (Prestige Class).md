@@ -28,9 +28,9 @@ An astrologer watches the night sky from her observatory and reads in the stars 
 
 To qualify to become a astrologer, a character must fulfill all the following criteria.
 
-**Skills**: [[rangoric-srd/skills/Lore|Lore]] (astrology) 5 ranks.
+**Skills**: [[rangoric-srd/skills/Background|Background]] (astrology) 5 ranks.
 
-**Feats**: [[rangoric-srd/feats/Astrologer (Feat)|Astrologer]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Lore (astrology)).
+**Feats**: [[rangoric-srd/feats/Astrologer (Feat)|Astrologer]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Background (astrology)).
 
 **Spells**: Able to call at least two 5th-level [[rangoric-srd/rules/star magic/Star Magic#^constellations|constellations]].
 
@@ -38,7 +38,7 @@ To qualify to become a astrologer, a character must fulfill all the following cr
 
 ###### Class Skills
 
-The astrologer’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Craft|Craft]] (Int), all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), and [[rangoric-srd/skills/Profession|Profession]] (Wis).
+The astrologer’s class skills (and the key ability for each skill) are all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int) and [[rangoric-srd/skills/Mysticism|Mysticism]] (Int).
 
 **Skill Points at Each Level**: 2 + Int modifier.
 

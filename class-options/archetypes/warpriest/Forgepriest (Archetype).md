@@ -23,7 +23,7 @@ Armorers of exquisite skill, forgepriests take inspiration from their deity to p
 
 **Smith's Spells**: A forgepriest adds the following spells to his [[rangoric-srd/classes/Warpriest#^warpriest-spells|spell list]]: 1st—_jury rig_, _[[rangoric-srd/spells/Shield|shield]]_; 2nd—_[[rangoric-srd/spells/Heat Metal|heat metal]]_, _[[rangoric-srd/spells/Shatter|shatter]]_; 3rd—_[[rangoric-srd/spells/Keen Edge|keen edge]]_, _[[rangoric-srd/spells/Quench|quench]]_, _[[rangoric-srd/spells/Versatile Weapon|versatile weapon]]_; 4th—_[[rangoric-srd/spells/Wreath of Blades|wreath of blades]]_; 5th—_[[rangoric-srd/spells/Fabricate|fabricate]]_, _[[rangoric-srd/spells/Major Creation|major creation]]_; 6th—_[[rangoric-srd/spells/Mage’s Sword|mage's sword]]_.
 
-**Forge Mastery (Ex)**: At 2nd level, the forgepriest adds a bonus equal to half his level to all [[rangoric-srd/skills/Craft|Craft]] checks to make metal items, armor, and weapons. (This benefit is gained from the altered version of blessings, above.)
+**Forge Mastery (Ex)**: At 2nd level, the forgepriest adds a bonus equal to half his level to all [[rangoric-srd/skills/Background#Making Things|Background]] checks to make metal items, armor, and weapons. (This benefit is gained from the altered version of blessings, above.)
 
 **Bonus Feats**: A forgepriest can select [[rangoric-srd/feats/Feats Item Creation|item creation feats]] in addition to combat feats when he gains a bonus feat. This ability alters [[rangoric-srd/classes/Warpriest#^warpriest-bonus-feats|bonus feats]].
 

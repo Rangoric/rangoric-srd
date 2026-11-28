@@ -28,7 +28,7 @@ The following prestige class opens the world of mirror magic to those who pursue
 
 To qualify to become a reflecting master, a character must fulfill all the following criteria.
 
-**Skills**: [[rangoric-srd/skills/Arcana|Arcana]] 7 ranks, [[rangoric-srd/skills/Craft|Craft (alchemy)]] 7 ranks, [[rangoric-srd/skills/Craft|Craft (mirrors)]] 7 ranks.
+**Skills**: [[rangoric-srd/skills/Arcana|Arcana]] 7 ranks, [[rangoric-srd/skills/Background|Background (alchemy)]] 7 ranks, [[rangoric-srd/skills/Background|Background (mirrormaking)]] 7 ranks.
 
 **Spellcasting**: Able to cast a divine or arcane spell of 4th level or higher.
 

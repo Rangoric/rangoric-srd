@@ -24,7 +24,7 @@ _A [[rangoric-srd/classes/Monk#^monk-archetypes|monk]] [[rangoric-srd/class-opti
 
 Some monks wander the world in humility to learn and to share wisdom and philosophy from their teachers with those they meet, often aiding those who are in need. A wanderer has the following class features.
 
-**Class Skills**: The wanderer adds [[rangoric-srd/skills/Persuasion|Persuasion]], [[rangoric-srd/skills/Society|Society]], [[rangoric-srd/skills/Linguistics|Linguistics]], and [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] to his list of class skills.
+**Class Skills**: The wanderer adds [[rangoric-srd/skills/Persuasion|Persuasion]], [[rangoric-srd/skills/Society|Society]], and [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] to his list of class skills.
 
 **Far Traveler (Ex)**: At 1st level, the wanderer gains either one additional language known or proficiency in one exotic or martial weapon. At 4th level and every four levels thereafter, the wanderer may gain an additional language known or may retrain her weapon proficiency from this ability to a different exotic or martial weapon. This ability replaces the [[rangoric-srd/classes/Monk#^monk-bonus-feat|bonus feat]] gained at 1st level.
 

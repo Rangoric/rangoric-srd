@@ -12,4 +12,4 @@ tags: [rangoric, rangoric/racial-trait]
 
 **Race**: [[rangoric-srd/races/Human|Human]]. **Replaces**: skilled.
 
-Humans born in rural areas are used to hard labor. They gain a racial bonus equal to half their character level to any one [[rangoric-srd/skills/Craft|Craft]] or [[rangoric-srd/skills/Profession|Profession]] skill, and once per day they may ignore an effect that would cause them to become [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]] or [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhausted]].
+Humans born in rural areas are used to hard labor. They gain a racial bonus equal to half their character level to any one craft or profession [[rangoric-srd/skills/Background|Background]], and once per day they may ignore an effect that would cause them to become [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]] or [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhausted]].

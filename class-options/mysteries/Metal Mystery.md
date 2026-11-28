@@ -12,7 +12,7 @@ tags: [rangoric, rangoric/class-option]
 
 _An [[rangoric-srd/classes/Oracle#^oracle-mystery|oracle mystery]]._
 
-**Class Skills**: An oracle with the metal mystery adds [[rangoric-srd/skills/Appraise|Appraise]], [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Engineering|Engineering]], [[rangoric-srd/skills/Intimidation|Intimidation]], and [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] to her list of class skills.
+**Class Skills**: An oracle with the metal mystery adds [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Engineering|Engineering]], [[rangoric-srd/skills/Intimidation|Intimidation]], and [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] to her list of class skills.
 
 **Bonus Spells**: _[[rangoric-srd/spells/Lead Blades|lead blades]]_ (2nd), _[[rangoric-srd/spells/Heat Metal|heat metal]]_ (4th), _[[rangoric-srd/spells/Keen Edge|keen edge]]_ (6th), _[[rangoric-srd/spells/Versatile Weapon|versatile weapon]]_ (8th), _[[rangoric-srd/spells/Major Creation|major creation]]_ (metal items only) (10th), _[[rangoric-srd/spells/Wall of Iron|wall of iron]]_ (12th), _[[rangoric-srd/spells/Statue|statue]]_ (metal statue instead of iron) (14th), _[[rangoric-srd/spells/Repel Metal or Stone|repel metal or stone]]_ (16th), _[[rangoric-srd/spells/Iron Body|iron body]]_ (18th).
 

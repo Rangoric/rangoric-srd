@@ -12,4 +12,4 @@ tags: [rangoric, rangoric/racial-trait]
 
 **Race**: [[rangoric-srd/races/Ifrit|Ifrit]]. **Replaces**: spell-like ability.
 
-Not all ifrits are descended from efreet—some instead descend from azers or even salamanders. Such ifrits gain a +2 racial bonus on [[rangoric-srd/skills/Craft|Craft]] checks to make armor and weapons and on defenses against [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigue]] and [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhaustion]].
+Not all ifrits are descended from efreet—some instead descend from azers or even salamanders. Such ifrits gain a +2 racial bonus on [[rangoric-srd/skills/Background#Making Things|Background]] checks to make armor and weapons and on defenses against [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigue]] and [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhaustion]].

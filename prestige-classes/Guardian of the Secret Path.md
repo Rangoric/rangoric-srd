@@ -42,7 +42,7 @@ To qualify to become a guardian of the secret path, a character must fulfill all
 
 ###### Class Skills
 
-The guardian of the secret path’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Craft|Craft]] (Int), all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int), [[rangoric-srd/skills/Linguistics|Linguistics]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), and [[rangoric-srd/skills/Profession|Profession]] (Wis).
+The guardian of the secret path’s class skills (and the key ability for each skill) are all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), and [[rangoric-srd/skills/Perception|Perception]] (Wis).
 
 **Skill Points at Each Level**: 2 + Int modifier.
 

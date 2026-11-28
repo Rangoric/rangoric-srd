@@ -23,7 +23,7 @@ Perks:
 - Illusion Resistance: +2 racial bonus on defenses against illusions.
 - Keen Senses: +2 racial bonus on [[rangoric-srd/skills/Perception|Perception]] checks.
 - Low-Light Vision: Gnomes have [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|low-light vision]]. ^gnome-low-light-vision
-- Obsessive: +2 racial bonus on one [[rangoric-srd/skills/Craft|Craft]] or [[rangoric-srd/skills/Profession|Profession]] skill of the gnome’s choice.
+- Obsessive: +2 racial bonus on one craft or profession [[rangoric-srd/skills/Background|Background]] of the gnome’s choice.
 - Weapon Familiarity: Gnomes treat any weapon with the word “gnome” in its name as a martial weapon.
 
 Languages:
@@ -150,7 +150,7 @@ Bundles of alternate traits for gnomes of a particular background.
 - **Aquatic Gnome**: Travelers beneath the waves in wood and shell chariots pulled by domesticated sea creatures. [[rangoric-srd/races/racial-traits/Aquatic Race Traits|Aquatic Race Traits]], with a swim speed of 20 feet. [[rangoric-srd/races/racial-traits/Well-Traveled|Well-Traveled]]. Hatred is against goblinoids only. No obsessive and no keen senses.
 - **Arctic Gnome**: Travelers of the ice and snow in enclosed sleds pulled by woolly mammoths. [[rangoric-srd/races/racial-traits/Cold Endurance|Cold Endurance]]. +2 racial bonus on [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks. No obsessive.
 - **Desert Gnome**: Traders who run fortified posts around wells and oases, and pay for the wells desert dwarves dig. [[rangoric-srd/races/racial-traits/Heat Endurance|Heat Endurance]]. +2 racial bonus on [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Persuasion|Persuasion]], and [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks. No keen senses and no obsessive.
-- **Jungle Gnome**: River folk whose towns are boats tied together across a river, with a toll for passing vessels. Hatred is against goblinoids only. No defensive training. +2 racial bonus on [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Craft|Craft]] (shipbuilding), and [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks. No keen senses and no obsessive.
+- **Jungle Gnome**: River folk whose towns are boats tied together across a river, with a toll for passing vessels. Hatred is against goblinoids only. No defensive training. +2 racial bonus on [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Background|Background]] (shipmaking), and [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks. No keen senses and no obsessive.
 
 **Subraces from the monster entry.** The [[rangoric-srd/monsters/gnomes/Gnome#Subraces|monster Gnome]]'s subraces; each has the gnome's traits except as noted. The svirfneblin is a race of its own, the [[rangoric-srd/races/Svirfneblin|svirfneblin]].
 

@@ -36,13 +36,13 @@ To qualify to become a fae-walker (abbreviated Fwk), a character must fulfill al
 
 **Base Attack Bonus**: +4.
 
-**Skills**: [[rangoric-srd/skills/Lore|Lore (fey)]] 5 ranks, [[rangoric-srd/skills/Stealth|Stealth]] 5 ranks.
+**Skills**: [[rangoric-srd/skills/Background|Background (fey)]] 5 ranks, [[rangoric-srd/skills/Stealth|Stealth]] 5 ranks.
 
 **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]].
 
 ###### Class Skills
 
-The fae-walker’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Escape Artist|Escape Artist]] (Dex), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Imitation|Imitation]] (Int), [[rangoric-srd/skills/Investigation|Investigation]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Performance|Performance]] (Cha), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] (Dex), and [[rangoric-srd/skills/Stealth|Stealth]] (Dex).
+The fae-walker’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Escape Artist|Escape Artist]] (Dex), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Imitation|Imitation]] (Int), [[rangoric-srd/skills/Investigation|Investigation]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] (Dex), and [[rangoric-srd/skills/Stealth|Stealth]] (Dex).
 
 **Skill Points at Each Level**: 6 + Int modifier.
 

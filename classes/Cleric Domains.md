@@ -102,7 +102,7 @@ Add [[rangoric-srd/skills/Nature|Nature]] to your list of cleric class skills.
 ##### Artifice Domain
 
 **Note: Non-Core, From [[rangoric-srd/divine/Divine|Divine Section]]**  
-Granted Power: Gain +4 bonus on Craft checks. The character casts conjuration (creation) spells at +1 caster level. (Those with access to both the Artifice and Creation domains cast conjuration \[creation\] spells at +3 caster level.)
+Granted Power: Gain +4 bonus on Background checks to make things. The character casts conjuration (creation) spells at +1 caster level. (Those with access to both the Artifice and Creation domains cast conjuration \[creation\] spells at +3 caster level.)
 
 ###### Artifice Domain Spells
 

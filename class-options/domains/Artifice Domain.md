@@ -22,7 +22,7 @@ You can repair damage to objects, animate objects with life, and create objects 
 
 **Dancing Weapons (Su)**: At 8th level, you can give a weapon touched the _[[rangoric-srd/magic-items/weapon-abilities/Dancing|dancing]]_ special weapon quality for 4 rounds. You can use this ability once per day at 8th level, and an additional time per day for every four levels beyond 8th.
 
-**Granted Power**: Gain +4 bonus on Craft checks. The character casts conjuration (creation) spells at +1 caster level. (Those with access to both the Artifice and Creation domains cast conjuration \[creation\] spells at +3 caster level.)
+**Granted Power**: Gain +4 bonus on Background checks to make things. The character casts conjuration (creation) spells at +1 caster level. (Those with access to both the Artifice and Creation domains cast conjuration \[creation\] spells at +3 caster level.)
 
 ## Domain Spells
 

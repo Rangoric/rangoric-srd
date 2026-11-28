@@ -36,7 +36,7 @@ To qualify to become a star magus, a character must fulfill all the following cr
 
 ###### Class Skills
 
-The star magus’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Craft|Craft]] (Int), all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), and [[rangoric-srd/skills/Profession|Profession]] (Wis).
+The star magus’s class skills (and the key ability for each skill) are all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int) and [[rangoric-srd/skills/Mysticism|Mysticism]] (Int).
 
 **Skill Points at Each Level**: 2 + Int modifier.
 

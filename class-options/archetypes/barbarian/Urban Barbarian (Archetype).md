@@ -21,7 +21,7 @@ Every barbarian knows that city life can soften the spirit and the body, but som
 
 **Weapon and Armor Proficiency**: An urban barbarian is not proficient with medium armor ([[rangoric-srd/classes/Barbarian#^barbarian-weapon-and-armor-proficiency|weapon and armor proficiency]]).
 
-**Skills**: An urban barbarian does not gain [[rangoric-srd/skills/Animal Handling|Animal Handling]] (Cha), [[rangoric-srd/skills/Nature|Nature]] (Int), or [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis) as class skills; instead, she gains [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), [[rangoric-srd/skills/Society|Society]] (Int), [[rangoric-srd/skills/Linguistics|Linguistics]] (Int), and [[rangoric-srd/skills/Profession|Profession]] (Wis) as class skills.
+**Skills**: An urban barbarian does not gain [[rangoric-srd/skills/Nature|Nature]] (Int) or [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis) as class skills; instead, she gains [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha) and [[rangoric-srd/skills/Society|Society]] (Int) as class skills.
 
 **Crowd Control (Ex)**: At 1st level, an urban barbarian gains a +1 bonus on attack rolls and a +1 dodge bonus to AC when adjacent to two or more enemies. In addition, her movement is not impeded by crowds, and she gains a bonus equal to 1/2 her barbarian level on [[rangoric-srd/skills/Intimidation|Intimidation]] checks to influence crowds. This ability replaces [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]].
 

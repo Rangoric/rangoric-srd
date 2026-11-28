@@ -34,7 +34,7 @@ To qualify to become a fey prankster (abbreviated Fpk), a character must fulfill
 
 **Character Level**: 3rd.
 
-**Skills**: [[rangoric-srd/skills/Arcana|Arcana]] 1 rank, [[rangoric-srd/skills/Lore|Lore (fey)]] 1 rank.
+**Skills**: [[rangoric-srd/skills/Arcana|Arcana]] 1 rank, [[rangoric-srd/skills/Background|Background (fey)]] 1 rank.
 
 **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] ([[rangoric-srd/skills/Perception|Perception]]), [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]].
 
@@ -42,7 +42,7 @@ To qualify to become a fey prankster (abbreviated Fpk), a character must fulfill
 
 ###### Class Skills
 
-The fey prankster’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Engineering|Engineering]] (Int), [[rangoric-srd/skills/Escape Artist|Escape Artist]] (Dex), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Imitation|Imitation]] (Int), [[rangoric-srd/skills/Investigation|Investigation]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Performance|Performance]] (Cha), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] (Dex), and [[rangoric-srd/skills/Stealth|Stealth]] (Dex).
+The fey prankster’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Engineering|Engineering]] (Int), [[rangoric-srd/skills/Escape Artist|Escape Artist]] (Dex), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Imitation|Imitation]] (Int), [[rangoric-srd/skills/Investigation|Investigation]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] (Dex), and [[rangoric-srd/skills/Stealth|Stealth]] (Dex).
 
 **Skill Points at Each Level**: 6 + Int modifier.
 
