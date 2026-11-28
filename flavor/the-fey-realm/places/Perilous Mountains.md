@@ -8,13 +8,13 @@ tags: [rangoric, rangoric/flavor, flavor]
 
 # Perilous Mountains
 
-The Perilous Mountains range contains the tallest mountains in all of FaerieLand. These peaks are also the greatest source of precious metals and gems. This region fares well under the rule of its king, known as “Goldentouch” because of his uncanny ability to find precious materials. The region has been catapulted into the upper echelons of FaerieLand politics due to its financial successes despite its ruler’s political handicaps. The king was once a servant, but due to his skill at finding precious metals and gems, he bought his freedom and eventually worked his way to the upper political circles within the Perilous Mountains before being elected ruler of this region.
+The Perilous Mountains range contains the tallest mountains in all of FaerieLand. These peaks are also the greatest source of precious metals and gems. This region fares well under the rule of King Kerigan, also known as “Goldentouch” because of his uncanny ability to find precious materials. The region has been catapulted into the upper echelons of FaerieLand politics due to its financial successes despite its ruler’s political handicaps. The king was once a servant, but due to his skill at finding precious metals and gems, he bought his freedom and eventually worked his way to the upper political circles within the Perilous Mountains before being elected ruler of this region.
 
 **Distance:** Distant (DC 25)
 
 **Regional Seat:** Minestooth Tower
 
-**Regent:** The king called Goldentouch
+**Regent:** King Kerigan “Goldentouch”
 
 **Prominent Features:** [[rangoric-srd/flavor/the-fey-realm/places/Endless Caverns|Endless Caverns]], Minestooth Tower
 

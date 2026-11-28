@@ -23,8 +23,8 @@ The Holly King is vastly more approachable than Old Man Winter and far more reli
 
 _Common:_ The Holly King has a warm and inviting personality, but he is secretive about the work that goes on in his workshops. Guests are warmly welcomed, but are only allowed into certain buildings.
 
-_Uncommon:_ The Holly King uses numerous magic items to accomplish his Yule Gifting celebration, including the only ancient fey magic ritual currently in use.
+_Uncommon:_ The Holly King uses numerous magic items to accomplish his Yule Gifting celebration, including using the only ancient fey magic ritual currently in use—Zurlein’s Boon.
 
 _Rare:_ Contrary to common belief, the Holly King enlists many of his workshop staff to help him during the gifting.
 
-_Obscure:_ His faerie foster mother abducted the infant Claus from his cradle and saved him from starvation, as the rest of his birth family died of plague around him on some mortal world.
+_Obscure:_ The faerie Zurlein abducted the infant Claus from his cradle and saved him from starvation, as the rest of his birth family died of plague around him on some mortal world.

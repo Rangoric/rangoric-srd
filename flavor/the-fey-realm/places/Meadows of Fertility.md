@@ -16,7 +16,7 @@ Fertility rites often take place in the meadows and fields of mortal worlds, and
 
 **Regional Seat:** The Satyr Camp
 
-**Regent:** The satyr king
+**Regent:** King Mnish
 
 **Prominent Features:** The Satyr Camp
 
@@ -28,6 +28,6 @@ _Common:_ The largest and most exhilarating holiday celebrations happen in the S
 
 _Uncommon:_ Leaving the Satyr Camp can be one of the most difficult things to do, since every hedonistic desire can be quenched at a moment’s notice.
 
-_Rare:_ The satyr king is a true satyr who received the throne of the region from Faerie Queen Maeve. [[rangoric-srd/monsters/Greater Satyr|Korreds]] and [[rangoric-srd/monsters/Lesser Satyr|fauns]] are young races that only recently joined their satyr brothers in the Meadows of Fertility.
+_Rare:_ King Mnish is a true satyr who received the throne of the region from Faerie Queen Maeve. [[rangoric-srd/monsters/Greater Satyr|Korreds]] and [[rangoric-srd/monsters/Lesser Satyr|fauns]] are young races that only recently joined their satyr brothers in the Meadows of Fertility.
 
 _Obscure:_ -

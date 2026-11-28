@@ -15,7 +15,7 @@ Fabled to be the _doorway_ that leads to the Oasis of Sorrows, this _sideroad_ i
 
 **Region:** [[rangoric-srd/flavor/the-fey-realm/places/Sands of Time|Sands of Time]]
 
-**Personalities:** The doorway guardian
+**Personalities:** Guvendi the Doorway Guardian
 
 **_Legends & Lore_**
 

@@ -15,7 +15,7 @@ The name of this regional seat belies its true beauty, as the House on Stilts is
 
 **Region:** [[rangoric-srd/flavor/the-fey-realm/places/Eerie Swamps|Eerie Swamps]]
 
-**Personalities:** The queen of the Eerie Swamps
+**Personalities:** Queen Garilil
 
 **_Legends & Lore_**
 

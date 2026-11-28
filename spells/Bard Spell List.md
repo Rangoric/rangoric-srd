@@ -504,7 +504,6 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Dispel Magic, Greater\|Dispel Magic, Greater]]:       | As dispel magic, but +20 on check.                                                                                                                                                               |
 | [[rangoric-srd/spells/Dream\|Dream]]:                                       | Sends message to anyone sleeping.                                                                                                                                                                |
 | [[rangoric-srd/spells/Energy Bubbles\|Energy Bubbles]] (M):                 | Cone of bubbles bursts for 1d4/level energy damage (max 15d4).                                                                                                                                   |
-| [[rangoric-srd/spells/Eon of Sleep\|Eon of Sleep]] (M):                     | Puts the subject to sleep for years.                                                                                                                                                             |
 | [[rangoric-srd/spells/False Vision\|False Vision]] (M):                     | Fools scrying with an illusion.                                                                                                                                                                  |
 | [[rangoric-srd/spells/Foe to Friend\|Foe to Friend]]:                       | Redirect an enemy creature's attack.                                                                                                                                                             |
 | [[rangoric-srd/spells/Frozen Note\|Frozen Note]]:                           | Paralyzes creatures listening to your song.                                                                                                                                                      |
@@ -539,6 +538,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Vengeful Outrage\|Vengeful Outrage]]:                 | Target is compelled to destroy one enemy.                                                                                                                                                        |
 | [[rangoric-srd/spells/Village Veil\|Village Veil]]:                         | You throw an illusion over an area to make creatures that view or interact with it believe it has suffered some great catastrophe or calamity that renders it utterly worthless for their needs. |
 | [[rangoric-srd/spells/Whip of Centipedes\|Whip of Centipedes]]:             | Create a whip made of poisonous centipedes.                                                                                                                                                      |
+| [[rangoric-srd/spells/Zurlein’s Eon of Sleep\|Zurlein’s Eon of Sleep]] (M): | Puts the subject to sleep for years.                                                                                                                                                             |
 
 ##### 6th-Level Bard Spells
 
