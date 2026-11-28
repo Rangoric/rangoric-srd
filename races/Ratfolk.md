@@ -19,7 +19,7 @@ Perks:
 - Darkvision: Ratfolk can see in the dark up to 60 feet; see [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] for how it works.
 - Rodent Empathy: +4 racial bonus on [[rangoric-srd/skills/Animal Handling|Animal Handling]] checks made to influence rodents.
 - Swarming: Ratfolk are used to living and fighting communally, and are adept at swarming foes for their own gain and their foes' detriment. Up to two ratfolk can share the same square at the same time. If two ratfolk in the same square attack the same foe, they are considered to be [[rangoric-srd/combat/Combat Modifiers#Flanking|flanking]] that foe as if they were in two opposite squares.
-- Tinker: +2 racial bonus on [[rangoric-srd/skills/Craft|Craft]] (alchemy), [[rangoric-srd/skills/Perception|Perception]], and [[rangoric-srd/skills/Emulation|Emulation]] checks.
+- Tinker: +2 racial bonus on [[rangoric-srd/skills/Background|Background]] (alchemy), [[rangoric-srd/skills/Perception|Perception]], and [[rangoric-srd/skills/Emulation|Emulation]] checks.
 
 Languages:
 

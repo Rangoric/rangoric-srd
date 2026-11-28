@@ -28,7 +28,7 @@ Characters who become fey guardians often seek to share the knowledge, gifts, an
 
 To qualify to become a fey guardian (abbreviated Fgd), a character must fulfill all the following criteria.
 
-**Skills**: [[rangoric-srd/skills/Arcana|Arcana]] 9 ranks, [[rangoric-srd/skills/Lore|Lore (fey)]] 9 ranks, [[rangoric-srd/skills/Theology|Theology]] 2 ranks.
+**Skills**: [[rangoric-srd/skills/Arcana|Arcana]] 9 ranks, [[rangoric-srd/skills/Background|Background (fey)]] 9 ranks, [[rangoric-srd/skills/Theology|Theology]] 2 ranks.
 
 **Feats**: [[rangoric-srd/feats/Fey Magic|Fey Magic]], any two [[rangoric-srd/feats/Feats Overview#Metamagic Feats|metamagic feats]].
 
@@ -38,7 +38,7 @@ To qualify to become a fey guardian (abbreviated Fgd), a character must fulfill 
 
 ###### Class Skills
 
-The fey guardian’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Craft|Craft]] (Int), [[rangoric-srd/skills/Lore|Lore]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), and [[rangoric-srd/skills/Nature|Nature]] (Int).
+The fey guardian’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), and [[rangoric-srd/skills/Nature|Nature]] (Int).
 
 **Skill Points at Each Level**: 4 + Int modifier.
 

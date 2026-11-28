@@ -21,7 +21,7 @@ _A [[rangoric-srd/classes/Magus#^magus-archetypes|magus]] [[rangoric-srd/class-o
 
 The strong emphasis on wizards within elven culture influences how even non-wizard elves see themselves. Many elven magi do not consider themselves masters of a blend of martial and magical talents, but rather a sub-category of wizards who study the effect of physical movement and techniques upon spellcasting ability. They believe their ability to cast spells while fighting is an outgrowth of the concept of the "spell dance," which itself is just another kind of wizardry. A spell dancer has the following class features.
 
-**Class Skills**: A spell dancer adds [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex) and [[rangoric-srd/skills/Performance|Performance (dance)]] (Cha) to his list of [[rangoric-srd/classes/Magus#Class Skills|class skills]], and removes [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha) and [[rangoric-srd/skills/Animal Handling|Animal Handling]] (Cha).
+**Class Skills**: A spell dancer adds [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex) to his list of [[rangoric-srd/classes/Magus#Class Skills|class skills]], and removes [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha).
 
 **Spell Dance (Su)**: At 1st level, a spell dancer gains the ability to expend 1 point from his [[rangoric-srd/classes/Magus#^magus-arcane-pool|arcane pool]] as a swift action to gain a +10 enhancement bonus to his movement rate and a +2 dodge bonus to Armor Class against attacks of opportunity provoked by moving through threatened spaces for 1 minute. For every four levels beyond 1st, the spell dancer gains another +10 enhancement bonus to movement and +2 to AC against attacks of opportunity provoked from movement.
 

@@ -32,9 +32,9 @@ Black alchemists practise [[rangoric-srd/rules/alchemy-and-herbalism/Alchemy|alc
 
 To qualify to become a black alchemist, a character must fulfill all the following criteria.
 
-**Skills**: [[rangoric-srd/skills/Craft|Craft]] (alchemy) 5 ranks; [[rangoric-srd/skills/Craft|Craft]] (any one of the following: blacksmith, carpentry, gemcutting, leatherworking, pottery, sculpture, stonemasonry) 1 rank. It is also highly recommended that characters put one or two skill points each level into their Craft (alchemy) skill, in order to meet the prerequisites of many feats gained in this prestige class.
+**Skills**: [[rangoric-srd/skills/Background|Background]] (alchemy) 5 ranks; [[rangoric-srd/skills/Background|Background]] (any one of the following crafts: blacksmithing, carpentry, gemcutting, leatherworking, pottery, sculpting, stonemasonry) 1 rank. It is also highly recommended that characters put one or two skill points each level into their Background (alchemy) skill, in order to meet the prerequisites of many feats gained in this prestige class.
 
-**Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Craft (alchemy)).
+**Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Background (alchemy)).
 
 **Spellcasting**: Ability to cast 2nd-level spells.
 

@@ -68,7 +68,7 @@ All of the following are class features of the alchemist.
 
 **Alchemy (Su)**: Alchemists are not only masters of creating mundane alchemical substances such as alchemist’s fire and smokesticks, but also of fashioning magical potion-like extracts in which they can store spell effects. In effect, an alchemist prepares his spells by mixing ingredients into a number of extracts, and then “casts” his spells by drinking the extract. When an alchemist creates an extract or bomb, he infuses the concoction with a tiny fraction of his own magical power—this enables the creation of powerful effects, but also binds the effects to the creator. ^alchemist-alchemy
 
-When using [[rangoric-srd/skills/Craft|Craft]] (alchemy) to create an alchemical item, an alchemist gains a competence bonus equal to his class level on the Craft (alchemy) check. In addition, an alchemist can use Craft (alchemy) to identify potions as if using _[[rangoric-srd/spells/Detect Magic|detect magic]]_. He must hold the potion for 1 round to make such a check. ^alchemist-alchemy-2
+When using [[rangoric-srd/skills/Background|Background]] (alchemy) to create an alchemical item, an alchemist gains a competence bonus equal to his class level on the Background (alchemy) check. In addition, an alchemist can use Background (alchemy) to identify potions as if using _[[rangoric-srd/spells/Detect Magic|detect magic]]_. He must hold the potion for 1 round to make such a check. ^alchemist-alchemy-2
 
 An alchemist can create three special types of magical items—extracts, bombs, and mutagens. Bombs are explosive splash weapons, and mutagens are transformative elixirs that the alchemist drinks to enhance his physical abilities—both of these are detailed in their own sections below. ^alchemist-alchemy-3
 
@@ -116,7 +116,7 @@ The discoveries are listed in [[rangoric-srd/class-options/discoveries/Discoveri
 
 **Persistent Mutagen (Su)**: At 14th level, the effects of a mutagen last for 1 hour per level. ^alchemist-persistent-mutagen
 
-**Instant Alchemy (Ex)**: At 18th level, an alchemist can create alchemical items with almost supernatural speed. He can create any alchemical item as a full-round action if he succeeds at the [[rangoric-srd/skills/Craft|Craft]] (alchemy) check and has the appropriate resources at hand to fund the creation. He can apply poison to a weapon as an immediate action. ^alchemist-instant-alchemy
+**Instant Alchemy (Ex)**: At 18th level, an alchemist can create alchemical items with almost supernatural speed. He can create any alchemical item as a full-round action if he succeeds at the [[rangoric-srd/skills/Background|Background]] (alchemy) check and has the appropriate resources at hand to fund the creation. He can apply poison to a weapon as an immediate action. ^alchemist-instant-alchemy
 
 **Grand Discovery (Su)**: At 20th level, the alchemist makes a grand discovery. He immediately learns two normal discoveries, but also learns a third discovery chosen from the list below, representing a truly astounding alchemical breakthrough of significant import. For many alchemists, the promise of one of these grand discoveries is the primary goal of their experiments and hard work. ^alchemist-grand-discovery
 

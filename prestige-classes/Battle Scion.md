@@ -38,7 +38,7 @@ To qualify to become a battle scion, a character must fulfill the criteria given
 
 ######## Class Skills
 
-The battle scion’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Animal Handling|Animal Handling]] (Cha), [[rangoric-srd/skills/Athletics|Athletics]] (Str), and [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha).
+The battle scion’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Athletics|Athletics]] (Str) and [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha).
 
 **Skill Points at Each Level:** 2 + Int modifier.
 

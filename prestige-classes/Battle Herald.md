@@ -32,13 +32,13 @@ To qualify to become a battle herald, a character must fulfill all the following
 
 **Base Attack Bonus**: +4.
 
-**Skills**: [[rangoric-srd/skills/Persuasion|Persuasion]] 5 ranks, [[rangoric-srd/skills/Intimidation|Intimidation]] 5 ranks, [[rangoric-srd/skills/Performance|Performance]] (oratory) 5 ranks, [[rangoric-srd/skills/Profession|Profession]] (soldier) 2 ranks.
+**Skills**: [[rangoric-srd/skills/Persuasion|Persuasion]] 5 ranks, [[rangoric-srd/skills/Intimidation|Intimidation]] 5 ranks, [[rangoric-srd/skills/Performance|Performance]] (oratory) 5 ranks, [[rangoric-srd/skills/Background|Background]] (soldier) 2 ranks.
 
 **Special**: [[rangoric-srd/classes/Cavalier#^cavalier-challenge|Challenge]] and [[rangoric-srd/classes/Bard#^inspire-courage|inspire courage]] class features.
 
 ###### Class Skills
 
-The battle herald’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Animal Handling|Animal Handling]] (Cha), [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Engineering|Engineering]] (Int), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Investigation|Investigation]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), [[rangoric-srd/skills/Society|Society]] (Int), and [[rangoric-srd/skills/Tactics|Tactics]] (Int).
+The battle herald’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Engineering|Engineering]] (Int), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Investigation|Investigation]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), [[rangoric-srd/skills/Society|Society]] (Int), and [[rangoric-srd/skills/Tactics|Tactics]] (Int).
 
 **Skill Points at Each Level**: 4 + Int modifier.
 

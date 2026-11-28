@@ -183,7 +183,7 @@ Each Rangoric race priced with the trait costs above. A race note carries its to
 
 **Aasimar (15 RP, level adjustment +1).** Outsider (native, tied to a good-aligned plane) 3, darkvision included; Medium 0; normal speed 0; flexible (+2 Wis, +2 Cha) 2; standard languages 0. _Defense_: Celestial Resistance 3. _Feat and skill_: Skill Bonus ([[rangoric-srd/skills/Persuasion|Persuasion]]) 2, Skill Bonus (Perception) 2. _Magical_: greater spell-like ability (_daylight_, 3rd level) 3.
 
-**Svirfneblin (26 RP, level adjustment +1).** Humanoid (gnome) 0; Small 0; slow speed −1; mixed weakness (−2 Str, +2 Dex, +2 Wis, −4 Cha) −2; standard languages 0. _Defense_: greater Defensive Training 4, greater Lucky (Fortunate) 4, greater spell resistance 3. _Feat and skill_: Skill Bonus (Craft (alchemy)) 2, Skill Bonus (Perception) 2, Stonecunning 1, Underground Sneak 5. _Magical_: Svirfneblin Magic 2. _Offense_: Hatred 1, Weapon Familiarity 1. _Senses_: darkvision 120 ft. 3, low-light vision 1.
+**Svirfneblin (26 RP, level adjustment +1).** Humanoid (gnome) 0; Small 0; slow speed −1; mixed weakness (−2 Str, +2 Dex, +2 Wis, −4 Cha) −2; standard languages 0. _Defense_: greater Defensive Training 4, greater Lucky (Fortunate) 4, greater spell resistance 3. _Feat and skill_: Skill Bonus (Background (alchemy)) 2, Skill Bonus (Perception) 2, Stonecunning 1, Underground Sneak 5. _Magical_: Svirfneblin Magic 2. _Offense_: Hatred 1, Weapon Familiarity 1. _Senses_: darkvision 120 ft. 3, low-light vision 1.
 
 ## Building a Faerie
 

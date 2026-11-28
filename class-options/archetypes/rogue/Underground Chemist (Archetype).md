@@ -18,7 +18,7 @@ _A [[rangoric-srd/classes/Rogue#^rogue-archetypes|rogue]] [[rangoric-srd/class-o
 
 Underground chemists are part of the fetid underbelly of the alchemical world. While underground chemists can't hold a candle to dedicated alchemists, their use of alchemical substances and potions makes them tricky and dangerous.
 
-**Chemical Weapons (Ex)**: At 2nd level, an underground chemist is able to retrieve an alchemical item as if drawing a weapon. She adds her Intelligence modifier to damage dealt with [[rangoric-srd/combat/Combat Special Attacks#Throw Splash Weapon|splash weapons]], including any splash damage. She adds 1/2 her level to [[rangoric-srd/skills/Craft|Craft]] (alchemy) checks. This ability replaces [[rangoric-srd/classes/Rogue#^rogue-evasion|evasion]].
+**Chemical Weapons (Ex)**: At 2nd level, an underground chemist is able to retrieve an alchemical item as if drawing a weapon. She adds her Intelligence modifier to damage dealt with [[rangoric-srd/combat/Combat Special Attacks#Throw Splash Weapon|splash weapons]], including any splash damage. She adds 1/2 her level to [[rangoric-srd/skills/Background|Background]] (alchemy) checks. This ability replaces [[rangoric-srd/classes/Rogue#^rogue-evasion|evasion]].
 
 **Precise Splash Weapons (Ex)**: At 4th level, an underground chemist can deal [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|sneak attack]] damage with [[rangoric-srd/combat/Combat Special Attacks#Throw Splash Weapon|splash weapons]]. The attack must be her first attack in that round, must qualify to be a sneak attack (such as an attack against a flat-footed target), and must be directed at a creature rather than a square. This ability replaces the [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] gained at 4th level.
 

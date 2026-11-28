@@ -12,7 +12,7 @@ tags: [rangoric, rangoric/class-option]
 
 _An [[rangoric-srd/classes/Oracle#^oracle-mystery|oracle mystery]]._ The shaman’s [[rangoric-srd/class-options/spirits/Battle Spirit|battle spirit]] shares its name; a character with both must choose matching ones (see the shaman’s [[rangoric-srd/classes/Shaman#^shaman-spirit|spirit]]).
 
-**Class Skills**: An oracle with the battle mystery adds [[rangoric-srd/skills/Animal Handling|Animal Handling]], [[rangoric-srd/skills/Engineering|Engineering]], [[rangoric-srd/skills/Intimidation|Intimidation]], [[rangoric-srd/skills/Investigation|Investigation]], and [[rangoric-srd/skills/Perception|Perception]] to her list of class skills.
+**Class Skills**: An oracle with the battle mystery adds [[rangoric-srd/skills/Engineering|Engineering]], [[rangoric-srd/skills/Intimidation|Intimidation]], [[rangoric-srd/skills/Investigation|Investigation]], and [[rangoric-srd/skills/Perception|Perception]] to her list of class skills.
 
 **Bonus Spells**: _[[rangoric-srd/spells/Enlarge Person|enlarge person]]_ (2nd), _[[rangoric-srd/spells/Fog Cloud|fog cloud]]_ (4th), _[[rangoric-srd/spells/Magic Vestment|magic vestment]]_ (6th), _[[rangoric-srd/spells/Wall of Fire|wall of fire]]_ (8th), _[[rangoric-srd/spells/Righteous Might|righteous might]]_ (10th), _[[rangoric-srd/spells/Bull’s Strength, Mass|mass bull's strength]]_ (12th), _[[rangoric-srd/spells/Control Weather|control weather]]_ (14th), _[[rangoric-srd/spells/Earthquake|earthquake]]_ (16th), _[[rangoric-srd/spells/Storm of Vengeance|storm of vengeance]]_ (18th).
 

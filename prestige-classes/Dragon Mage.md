@@ -22,7 +22,7 @@ Unlike many other prestige classes, the benefits gained from advancing as a drag
 
 To qualify to become a dragon mage, a character must fulfill all the following criteria.
 
-**Skills**: [[rangoric-srd/skills/Mysticism|Mysticism]] 10 ranks, [[rangoric-srd/skills/Arcana|Arcana]] 7 ranks, [[rangoric-srd/skills/Lore|Lore (dragons)]] 7 ranks.
+**Skills**: [[rangoric-srd/skills/Mysticism|Mysticism]] 10 ranks, [[rangoric-srd/skills/Arcana|Arcana]] 7 ranks, [[rangoric-srd/skills/Background|Background (dragons)]] 7 ranks.
 
 **Spellcasting**: Ability to cast 1st-level spells.
 

@@ -23,7 +23,7 @@ The community guardian is chosen to protect and succor the weak and innocent wit
 
 **Recommended Mysteries**: [[rangoric-srd/class-options/mysteries/Ancestor Mystery|ancestor]], [[rangoric-srd/class-options/mysteries/Life Mystery|life]], [[rangoric-srd/class-options/mysteries/Lore Mystery|lore]], [[rangoric-srd/class-options/mysteries/Nature Mystery|nature]].
 
-**Class Skills**: A community guardian adds [[rangoric-srd/skills/Society|Society]] (Int), [[rangoric-srd/skills/Linguistics|Linguistics]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), and [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis) to her list of [[rangoric-srd/classes/Oracle#Class Skills|class skills]]. These replace the additional class skills from her [[rangoric-srd/classes/Oracle#^oracle-mystery|mystery]].
+**Class Skills**: A community guardian adds [[rangoric-srd/skills/Society|Society]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), and [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis) to her list of [[rangoric-srd/classes/Oracle#Class Skills|class skills]]. These replace the additional class skills from her [[rangoric-srd/classes/Oracle#^oracle-mystery|mystery]].
 
 **Bonus Spells**: _[[rangoric-srd/spells/Bless Water|bless water]]_ (2nd), _[[rangoric-srd/spells/Consecrate|consecrate]]_ (4th), _[[rangoric-srd/spells/Remove Disease|remove disease]]_ (6th), _[[rangoric-srd/spells/Hallow|hallow]]_ (10th), _[[rangoric-srd/spells/Heroes’ Feast|heroes' feast]]_ (12th). These bonus spells replace the oracle's [[rangoric-srd/classes/Oracle#^oracle-mystery|mystery]] bonus spells from these levels.
 

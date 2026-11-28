@@ -34,9 +34,9 @@ Red alchemists practise [[rangoric-srd/rules/alchemy-and-herbalism/Alchemy|alche
 
 To qualify to become a red alchemist, a character must fulfill all the following criteria.
 
-**Skills**: [[rangoric-srd/skills/Craft|Craft]] (alchemy) 5 ranks, [[rangoric-srd/skills/Profession|Profession]] (brewer) 1 rank, any one [[rangoric-srd/skills/Craft|Craft]] skill 1 rank.
+**Skills**: [[rangoric-srd/skills/Background|Background]] (alchemy) 5 ranks, [[rangoric-srd/skills/Background|Background]] (brewer) 1 rank, any one craft [[rangoric-srd/skills/Background#Making Things|Background]] 1 rank.
 
-**Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Craft (alchemy)).
+**Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Background (alchemy)).
 
 **Spellcasting**: Ability to cast 2nd-level spells.
 

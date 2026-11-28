@@ -36,7 +36,7 @@ To qualify to become a faerie hunter (abbreviated Fhn), a character must fulfill
 
 **Base Attack Bonus**: +5.
 
-**Skills**: [[rangoric-srd/skills/Lore|Lore (fey)]] 2 ranks.
+**Skills**: [[rangoric-srd/skills/Background|Background (fey)]] 2 ranks.
 
 **Feats**: [[rangoric-srd/feats/Mite Fighter|Mite Fighter]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]].
 
@@ -44,7 +44,7 @@ To qualify to become a faerie hunter (abbreviated Fhn), a character must fulfill
 
 ###### Class Skills
 
-The faerie hunter’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Animal Handling|Animal Handling]] (Cha), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Investigation|Investigation]] (Int), [[rangoric-srd/skills/Lore|Lore]] (Int), [[rangoric-srd/skills/Medicine|Medicine]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Nature|Nature]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), and [[rangoric-srd/skills/Stealth|Stealth]] (Dex).
+The faerie hunter’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Investigation|Investigation]] (Int), [[rangoric-srd/skills/Medicine|Medicine]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Nature|Nature]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), and [[rangoric-srd/skills/Stealth|Stealth]] (Dex).
 
 **Skill Points at Each Level**: 2 + Int modifier.
 

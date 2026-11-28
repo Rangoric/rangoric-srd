@@ -38,7 +38,7 @@ To qualify to become a totem mage, a character must fulfill all the following cr
 
 ###### Class Skills
 
-The totem mage’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Animal Handling|Animal Handling]] (Cha), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Nature|Nature]] (Int), and [[rangoric-srd/skills/Perception|Perception]] (Wis).
+The totem mage’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Nature|Nature]] (Int), and [[rangoric-srd/skills/Perception|Perception]] (Wis).
 
 **Skill Points at Each Level**: 4 + Int modifier.
 

@@ -12,7 +12,7 @@ tags: [rangoric, rangoric/class-option]
 
 _An [[rangoric-srd/classes/Oracle#^oracle-mystery|oracle mystery]]._ The shaman’s [[rangoric-srd/class-options/spirits/Stone Spirit|stone spirit]] shares its name; a character with both must choose matching ones (see the shaman’s [[rangoric-srd/classes/Shaman#^shaman-spirit|spirit]]).
 
-**Class Skills**: An oracle with the stone mystery adds [[rangoric-srd/skills/Appraise|Appraise]], [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Fieldcraft|Fieldcraft]], and [[rangoric-srd/skills/Intimidation|Intimidation]] to her list of class skills.
+**Class Skills**: An oracle with the stone mystery adds [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Fieldcraft|Fieldcraft]], and [[rangoric-srd/skills/Intimidation|Intimidation]] to her list of class skills.
 
 **Bonus Spells**: _[[rangoric-srd/spells/Magic Stone|magic stone]]_ (2nd), _[[rangoric-srd/spells/Stone Call|stone call]]_ (4th), _[[rangoric-srd/spells/Meld into Stone|meld into stone]]_ (6th), _[[rangoric-srd/spells/Wall of Stone|wall of stone]]_ (8th), _[[rangoric-srd/spells/Stoneskin|stoneskin]]_ (10th), _[[rangoric-srd/spells/Stone Tell|stone tell]]_ (12th), _[[rangoric-srd/spells/Statue|statue]]_ (14th), _[[rangoric-srd/spells/Repel Metal or Stone|repel metal or stone]]_ (16th), _[[rangoric-srd/spells/Clashing Rocks|clashing rocks]]_ (18th).
 

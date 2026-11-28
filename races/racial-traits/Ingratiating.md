@@ -12,4 +12,4 @@ tags: [rangoric, rangoric/racial-trait]
 
 **Race**: [[rangoric-srd/races/Halfling|Halfling]]. **Replaces**: keen senses and sure-footed (its Acrobatics and Athletics bonus; the Stealth bonus stays).
 
-Halflings often survive at the whims of larger, more aggressive races. Because of this, they go out of their way to make themselves more useful, or at least entertaining, to larger folk. Halflings with this racial trait gain a +2 bonus on [[rangoric-srd/skills/Performance|Performance]] checks, and Performance is always a class skill for them. They also gain a +2 bonus on [[rangoric-srd/skills/Craft|Craft]] and [[rangoric-srd/skills/Profession|Profession]] checks.
+Halflings often survive at the whims of larger, more aggressive races. Because of this, they go out of their way to make themselves more useful, or at least entertaining, to larger folk. Halflings with this racial trait gain a +2 bonus on [[rangoric-srd/skills/Performance|Performance]] checks, and Performance is always a class skill for them. They also gain a +2 bonus on [[rangoric-srd/skills/Background|Background]] checks with a craft or profession.

@@ -21,7 +21,7 @@ _A [[rangoric-srd/classes/Swashbuckler#^swashbuckler-archetypes|swashbuckler]] [
 
 Not known for their flashy entrances or for standing out in a crowd, a daring infiltrator uses stealth, disguise, and ruthless guile to pursue her goals. Some of these swashbucklers work to undermine evil organizations, while others are master thieves or mysterious assassins.
 
-**Class Skills**: A daring infiltrator adds [[rangoric-srd/skills/Imitation|Imitation]] (Int) and [[rangoric-srd/skills/Stealth|Stealth]] (Dex) to her list of [[rangoric-srd/classes/Swashbuckler#Class Skills|class skills]] and removes [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha) and [[rangoric-srd/skills/Performance|Performance]] (Cha) from it. This alters the swashbuckler's class skill list.
+**Class Skills**: A daring infiltrator adds [[rangoric-srd/skills/Imitation|Imitation]] (Int) and [[rangoric-srd/skills/Stealth|Stealth]] (Dex) to her list of [[rangoric-srd/classes/Swashbuckler#Class Skills|class skills]] and removes [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha) from it. This alters the swashbuckler's class skill list.
 
 **Bonus Feats**: In addition to combat feats, a daring infiltrator's [[rangoric-srd/classes/Swashbuckler#^swashbuckler-bonus-feats|bonus feats]] at 2nd, 10th, and 18th level can come from the following list: [[rangoric-srd/feats/Antagonize|Antagonize]], [[rangoric-srd/feats/Cosmopolitan|Cosmopolitan]], [[rangoric-srd/feats/Disarming Threat Deed|Disarming Threat]], Prodigy, and [[rangoric-srd/feats/Skill Focus|Skill Focus]]. This alters the bonus feat class ability.
 

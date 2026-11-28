@@ -34,13 +34,13 @@ To qualify to become a knight of the fey, a character must fulfill all the follo
 
 **Base Attack Bonus**: +4.
 
-**Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] 1 rank, [[rangoric-srd/skills/Lore|Lore (fey)]] 2 ranks, [[rangoric-srd/skills/Persuasion|Persuasion]] 1 rank, [[rangoric-srd/skills/Society|Society]] 2 ranks.
+**Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] 1 rank, [[rangoric-srd/skills/Background|Background (fey)]] 2 ranks, [[rangoric-srd/skills/Persuasion|Persuasion]] 1 rank, [[rangoric-srd/skills/Society|Society]] 2 ranks.
 
 **Feats**: [[rangoric-srd/feats/Armor Proficiency (Heavy)|Armor Proficiency (Heavy)]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Power Attack|Power Attack]].
 
 ###### Class Skills
 
-The knight of the fey’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Animal Handling|Animal Handling]] (Cha), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Lore|Lore]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), and [[rangoric-srd/skills/Society|Society]] (Int).
+The knight of the fey’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), and [[rangoric-srd/skills/Society|Society]] (Int).
 
 **Skill Points at Each Level**: 2 + Int modifier.
 

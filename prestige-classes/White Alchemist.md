@@ -34,9 +34,9 @@ White alchemists practise [[rangoric-srd/rules/alchemy-and-herbalism/Alchemy|alc
 
 To qualify to become a white alchemist, a character must fulfill all the following criteria.
 
-**Skills**: [[rangoric-srd/skills/Craft|Craft]] (alchemy) 5 ranks, [[rangoric-srd/skills/Medicine|Medicine]] 1 rank, [[rangoric-srd/skills/Profession|Profession]] (apothecary or herbalist) 5 ranks.
+**Skills**: [[rangoric-srd/skills/Background|Background]] (alchemy) 5 ranks, [[rangoric-srd/skills/Medicine|Medicine]] 1 rank, [[rangoric-srd/skills/Background|Background]] (apothecary or herbalist) 5 ranks.
 
-**Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Craft (alchemy)).
+**Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Background (alchemy)).
 
 **Spellcasting**: Ability to cast 2nd-level spells.
 

@@ -18,7 +18,7 @@ Perks:
 - -4 Strength
 - -2 Constitution
 - Armor: Kobolds have a +1 natural armor bonus.
-- Crafty: +2 racial bonus on [[rangoric-srd/skills/Craft|Craft]] (trapmaking), [[rangoric-srd/skills/Investigation|Investigation]], [[rangoric-srd/skills/Perception|Perception]] and [[rangoric-srd/skills/Profession|Profession]] (miner) checks. Craft (trapmaking) and [[rangoric-srd/skills/Stealth|Stealth]] are always class skills for a kobold.
+- Crafty: +2 racial bonus on [[rangoric-srd/skills/Background|Background]] (trapmaking), [[rangoric-srd/skills/Investigation|Investigation]], [[rangoric-srd/skills/Perception|Perception]] and [[rangoric-srd/skills/Background|Background]] (miner) checks. Background (trapmaking) and [[rangoric-srd/skills/Stealth|Stealth]] are always class skills for a kobold.
 - Darkvision: Kobolds can see in the dark up to 60 feet; see [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] for how it works.
 - Light Sensitivity: Kobolds have [[rangoric-srd/rules/Special Abilities and Conditions#Light Sensitivity|light sensitivity]].
 
@@ -83,11 +83,11 @@ A kobold can take any of these in place of the traits they replace (see [[rangor
 
 **Racial variants.** A variant's ability scores take the place of the kobold's.
 
-- **Earth Kobold**: Earth traits turned toward evil: less emotional than other kobolds, and cunning with trickery and traps. [[rangoric-srd/races/racial-traits/Earth Race Traits|Earth Race Traits]]. −2 Strength, −2 Constitution: stronger, though less agile, than other kobolds. +4 racial bonus on [[rangoric-srd/skills/Craft|Craft]] (trapmaking) checks related to stonework traps.
+- **Earth Kobold**: Earth traits turned toward evil: less emotional than other kobolds, and cunning with trickery and traps. [[rangoric-srd/races/racial-traits/Earth Race Traits|Earth Race Traits]]. −2 Strength, −2 Constitution: stronger, though less agile, than other kobolds. +4 racial bonus on [[rangoric-srd/skills/Background|Background]] (trapmaking) checks related to stonework traps.
 - **Aquatic Kobold**: Undersea miners whose broad tails make them exceptional swimmers. [[rangoric-srd/races/racial-traits/Aquatic Race Traits|Aquatic Race Traits]], with a swim speed of 40 feet.
 - **Arctic Kobold**: Miners who tap geothermal vents for heat. [[rangoric-srd/races/racial-traits/Cold Endurance|Cold Endurance]]. −2 Strength, +2 Dexterity, −2 Constitution, −2 Wisdom: stronger than other kobolds, but weaker of will.
-- **Desert Kobold**: Scavengers who hide in the forgotten corners of oasis settlements and trading posts. [[rangoric-srd/races/racial-traits/Heat Endurance|Heat Endurance]]. −4 Strength, +2 Dexterity, −2 Wisdom: hardier than other kobolds, but weak-willed. No light sensitivity. +2 racial bonus on [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks. Crafty gives no bonus on Profession (miner) checks: desert kobolds don't mine.
-- **Jungle Kobold**: Calmer, more generous kobolds living in ancient ruins on clouded mountain peaks. −4 Strength, +2 Dexterity, −2 Intelligence. Altitude Adaptation: jungle kobolds don't suffer altitude sickness and are always considered [[rangoric-srd/rules/Wilderness, Weather, and Environment#Mountain Travel|acclimated]] to high altitudes. +2 racial bonus on [[rangoric-srd/skills/Athletics|Athletics]] checks to climb, adding their Dexterity modifier instead of their Strength modifier. Crafty gives no bonus on Craft (trapmaking) or Profession (miner) checks.
+- **Desert Kobold**: Scavengers who hide in the forgotten corners of oasis settlements and trading posts. [[rangoric-srd/races/racial-traits/Heat Endurance|Heat Endurance]]. −4 Strength, +2 Dexterity, −2 Wisdom: hardier than other kobolds, but weak-willed. No light sensitivity. +2 racial bonus on [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks. Crafty gives no bonus on Background (miner) checks: desert kobolds don't mine.
+- **Jungle Kobold**: Calmer, more generous kobolds living in ancient ruins on clouded mountain peaks. −4 Strength, +2 Dexterity, −2 Intelligence. Altitude Adaptation: jungle kobolds don't suffer altitude sickness and are always considered [[rangoric-srd/rules/Wilderness, Weather, and Environment#Mountain Travel|acclimated]] to high altitudes. +2 racial bonus on [[rangoric-srd/skills/Athletics|Athletics]] checks to climb, adding their Dexterity modifier instead of their Strength modifier. Crafty gives no bonus on Background (trapmaking) or Background (miner) checks.
 
 ### Class Bonuses
 

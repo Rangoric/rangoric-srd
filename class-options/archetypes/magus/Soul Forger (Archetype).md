@@ -31,7 +31,7 @@ The soul forger has learned the skill of infusing the raw magical essence of his
 
 **Spellstrike (Su)**: A soul forger may use [[rangoric-srd/classes/Magus#^magus-spellstrike|this ability]] only when wielding his bonded weapon.
 
-**Master Smith (Ex)**: A soul forger adds his magus class level on [[rangoric-srd/skills/Craft|Craft]] checks to manufacture armor, shields, and weapons. This bonus applies on skill checks required when using [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]].
+**Master Smith (Ex)**: A soul forger adds his magus class level on [[rangoric-srd/skills/Background#Making Things|Background]] checks to manufacture armor, shields, and weapons. This bonus applies on skill checks required when using [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]].
 
 At 7th level, a soul forger uses the 1/10 gp value of armor, shields, and weapons to determine how much time it takes to craft mundane items, and he requires only half the normal amount of time to enchant magical arms and armor. This ability replaces [[rangoric-srd/classes/Magus#^magus-knowledge-pool|knowledge pool]].
 

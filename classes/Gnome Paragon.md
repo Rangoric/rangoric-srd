@@ -80,7 +80,7 @@ For example, a 2nd-level wizard/3rd-level gnome paragon's caster level is 2nd fo
 
 This increased caster level affects only spells that the character can cast; it does not give him access to higher-level spells or more spells per day.
 
-**Keen Senses (Ex):** A gnome paragon's racial bonus on [[rangoric-srd/skills/Perception|Perception]] checks, and on the [[rangoric-srd/skills/Craft|Craft]] skill he chose for [[rangoric-srd/races/Gnome|obsessive]], increases to +4. ^gnome-paragon-keen-senses
+**Keen Senses (Ex):** A gnome paragon's racial bonus on [[rangoric-srd/skills/Perception|Perception]] checks, and on the craft [[rangoric-srd/skills/Background#Making Things|Background]] he chose for [[rangoric-srd/races/Gnome|obsessive]], increases to +4. ^gnome-paragon-keen-senses
 
 **Mirror Image (Sp):** At 2nd level, a gnome paragon gains the ability to cast [[rangoric-srd/spells/Mirror Image|mirror image]] once per day as a spell-like ability with a caster level equal to his gnome paragon level. ^gnome-paragon-mirror-image
 

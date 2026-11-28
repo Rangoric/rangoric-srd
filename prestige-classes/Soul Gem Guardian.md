@@ -46,7 +46,7 @@ To qualify to become a soul gem guardian, a character must fulfill all the follo
 
 ###### Class Skills
 
-The soul gem guardian’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Animal Handling|Animal Handling]] (Cha) and [[rangoric-srd/skills/Athletics|Athletics]] (Str).
+The soul gem guardian’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Athletics|Athletics]] (Str).
 
 **Skill Points at Each Level**: 2 + Int modifier.
 

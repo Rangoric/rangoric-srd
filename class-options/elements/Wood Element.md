@@ -14,7 +14,7 @@ _An [[rangoric-srd/class-options/elements/Elements|element]] a [[rangoric-srd/cl
 
 Kineticists who focus on the concept of wood as an element are known as phytokineticists. Phytokineticists share a strong bond with the [[rangoric-srd/rules/Planes#The Fey Realm|fey realm]] and channel the power of primordial life. As there is no Elemental Plane of Wood, the phytokineticist draws upon pockets of vital energy that form when the Elemental Planes grind against the borders of the fey realm.
 
-**Class Skills**: A phytokineticist adds [[rangoric-srd/skills/Animal Handling|Animal Handling]] and [[rangoric-srd/skills/Nature|Nature]] to her list of class skills.
+**Class Skills**: A phytokineticist adds [[rangoric-srd/skills/Nature|Nature]] to her list of class skills.
 
 **Kinetic Blasts and Defense**: Simple blasts: [[rangoric-srd/class-options/wild-talents/Positive Blast|positive blast]], [[rangoric-srd/class-options/wild-talents/Wood Blast|wood blast]]. Composite blasts: [[rangoric-srd/class-options/wild-talents/Autumn Blast|autumn blast]], [[rangoric-srd/class-options/wild-talents/Positive Admixture|positive admixture]], [[rangoric-srd/class-options/wild-talents/Spring Blast|spring blast]], [[rangoric-srd/class-options/wild-talents/Summer Blast|summer blast]], [[rangoric-srd/class-options/wild-talents/Verdant Blast|verdant blast]], [[rangoric-srd/class-options/wild-talents/Winter Blast|winter blast]]. Defense: [[rangoric-srd/class-options/wild-talents/Flesh of Wood|flesh of wood]].
 

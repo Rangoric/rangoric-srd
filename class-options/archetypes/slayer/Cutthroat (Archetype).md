@@ -19,7 +19,7 @@ _A [[rangoric-srd/classes/Slayer#^slayer-archetypes|slayer]] [[rangoric-srd/clas
 
 Street-smart and extremely resourceful, cutthroats stalk city streets and alleyways, preying on those unfortunate enough to catch their eye. More opportunists than careful planners, they don't care who they rob or kill, and take advantage of whatever circumstances put them near a suitable target.
 
-**Class Skills**: A cutthroat adds [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha) and [[rangoric-srd/skills/Linguistics|Linguistics]] (Int) to his list of [[rangoric-srd/classes/Slayer#Class Skills|class skills]], and removes [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] (Int) and [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis).
+**Class Skills**: A cutthroat adds [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha) to his list of [[rangoric-srd/classes/Slayer#Class Skills|class skills]], and removes [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] (Int) and [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis).
 
 **Street Stalker (Ex)**: At 1st level, a cutthroat selects the [[rangoric-srd/skills/Acrobatics|Acrobatics]] or [[rangoric-srd/skills/Society|Society]] skill, or [[rangoric-srd/skills/Athletics|Athletics]] checks to climb. Once selected, this cannot be changed. When in urban environments, the cutthroat adds 1/2 his slayer level (minimum 1) to checks attempted with this skill. This ability replaces [[rangoric-srd/classes/Slayer#^slayer-track|track]].
 

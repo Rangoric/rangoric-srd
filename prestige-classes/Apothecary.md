@@ -34,7 +34,7 @@ To qualify to become an apothecary, a character must fulfill all the following c
 
 **Abilities**: Wisdom 12 (minimum for casting limited spell repertoire).
 
-**Skills**: [[rangoric-srd/skills/Medicine|Medicine]] 1 rank; [[rangoric-srd/skills/Profession|Profession]] (herbalist) 1 rank, [[rangoric-srd/skills/Profession|Profession]] (apothecary) 5 ranks.
+**Skills**: [[rangoric-srd/skills/Medicine|Medicine]] 1 rank; [[rangoric-srd/skills/Background|Background]] (herbalist) 1 rank, [[rangoric-srd/skills/Background|Background]] (apothecary) 5 ranks.
 
 ###### Class Skills
 
@@ -46,9 +46,9 @@ The apothecary’s class skills (and the key ability for each skill) are [[rango
 
 | Level | Bonus Feat                                                                                               | 0   | 1st | 2nd |
 | ----- | -------------------------------------------------------------------------------------------------------- | --- | --- | --- |
-| 1st   | [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Profession (apothecary))                                | —   | —   | —   |
+| 1st   | [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Background (apothecary))                                | —   | —   | —   |
 | 2nd   | [[rangoric-srd/feats/Craft Herbal Restoratives\|Craft Herbal Restoratives]]                              | 2/1 | —   | —   |
-| 3rd   | [[rangoric-srd/feats/Reciprocal Knowledge\|Reciprocal Knowledge]] (Medicine and Profession (apothecary)) | 3/1 | 1/1 | —   |
+| 3rd   | [[rangoric-srd/feats/Reciprocal Knowledge\|Reciprocal Knowledge]] (Medicine and Background (apothecary)) | 3/1 | 1/1 | —   |
 | 4th   | [[rangoric-srd/feats/Diagnosis\|Diagnosis]]                                                              | 4/2 | 2/1 | 1/1 |
 | 5th   | [[rangoric-srd/feats/Craft Toxins\|Craft Toxins]]                                                        | 5/3 | 3/2 | 2/1 |
 
@@ -74,8 +74,8 @@ These spells carry “Apo” levels.
 
 If a character had a spellcasting class before she became an apothecary, she foregoes advancement in that class while she studies and walks the path of the apothecary.
 
-**Bonus Feats**: At 1st level and at every level thereafter, apothecaries gain a bonus feat tied to their talents, taught in a specific order: 1st, [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Profession (apothecary)); 2nd, [[rangoric-srd/feats/Craft Herbal Restoratives|Craft Herbal Restoratives]]; 3rd, [[rangoric-srd/feats/Reciprocal Knowledge|Reciprocal Knowledge]] (Medicine and Profession (apothecary)); 4th, [[rangoric-srd/feats/Diagnosis|Diagnosis]]; 5th, [[rangoric-srd/feats/Craft Toxins|Craft Toxins]]. An apothecary must still meet all feat prerequisites to use it. ^apothecary-bonus-feats
+**Bonus Feats**: At 1st level and at every level thereafter, apothecaries gain a bonus feat tied to their talents, taught in a specific order: 1st, [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Background (apothecary)); 2nd, [[rangoric-srd/feats/Craft Herbal Restoratives|Craft Herbal Restoratives]]; 3rd, [[rangoric-srd/feats/Reciprocal Knowledge|Reciprocal Knowledge]] (Medicine and Background (apothecary)); 4th, [[rangoric-srd/feats/Diagnosis|Diagnosis]]; 5th, [[rangoric-srd/feats/Craft Toxins|Craft Toxins]]. An apothecary must still meet all feat prerequisites to use it. ^apothecary-bonus-feats
 
 _Important:_ These feats are in addition to the feats a character of any class gets as she rises in level. The apothecary is not limited to the list given here when choosing those feats.
 
-**Skill Restrictions**: Any skill points earned while learning this prestige class go first to [[rangoric-srd/skills/Profession|Profession]] (apothecary) and then to [[rangoric-srd/skills/Medicine|Medicine]]. Those two skills must be at the maximum allowed per level before skill points can be placed among other skills. ^apothecary-skill-restrictions
+**Skill Restrictions**: Any skill points earned while learning this prestige class go first to [[rangoric-srd/skills/Background|Background]] (apothecary) and then to [[rangoric-srd/skills/Medicine|Medicine]]. Those two skills must be at the maximum allowed per level before skill points can be placed among other skills. ^apothecary-skill-restrictions

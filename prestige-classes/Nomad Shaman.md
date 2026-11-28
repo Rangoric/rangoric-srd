@@ -38,7 +38,7 @@ To qualify to become a nomad shaman, a character must fulfill all the following 
 
 ###### Class Skills
 
-The nomad shaman’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Animal Handling|Animal Handling]] (Cha), [[rangoric-srd/skills/Craft|Craft]] (Int), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), and [[rangoric-srd/skills/Profession|Profession]] (Wis).
+The nomad shaman’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), and [[rangoric-srd/skills/Perception|Perception]] (Wis).
 
 **Skill Points at Each Level**: 4 + Int modifier.
 

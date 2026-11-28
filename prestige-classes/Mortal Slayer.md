@@ -34,13 +34,13 @@ To qualify to become a mortal slayer (abbreviated Msl), a character must fulfill
 
 **Base Attack Bonus**: +6.
 
-**Skills**: [[rangoric-srd/skills/Lore|Lore (fey)]] 5 ranks, [[rangoric-srd/skills/Lore|Lore (folk tales)]] 5 ranks.
+**Skills**: [[rangoric-srd/skills/Background|Background (fey)]] 5 ranks, [[rangoric-srd/skills/Background|Background (folk tales)]] 5 ranks.
 
 **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Quick Draw|Quick Draw]].
 
 ###### Class Skills
 
-The mortal slayer’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Animal Handling|Animal Handling]] (Cha), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Investigation|Investigation]] (Int), [[rangoric-srd/skills/Lore|Lore]] (Int), [[rangoric-srd/skills/Medicine|Medicine]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Nature|Nature]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), and [[rangoric-srd/skills/Stealth|Stealth]] (Dex).
+The mortal slayer’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Investigation|Investigation]] (Int), [[rangoric-srd/skills/Medicine|Medicine]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Nature|Nature]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), and [[rangoric-srd/skills/Stealth|Stealth]] (Dex).
 
 **Skill Points at Each Level**: 2 + Int modifier.
 
@@ -71,7 +71,7 @@ All of the following are class features of the mortal slayer prestige class.
 
 **Unfurl the Mortal Coil (Su)**: With an unarmed touch attack, a mortal slayer can send disruptive energies into a non-fey foe. On a hit, the energies attack the target creature’s Fortitude at +5 + prestige class level. If that attack hits, it takes 2d6 points of Constitution [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]]. One minute later, the energies attack the target creature’s Fortitude again, with the same attack bonus, as they dissipate in a glowing yellowish vapor flowing out of the target’s mouth. If the second attack hits, the target creature takes an additional 2d6 points of Constitution damage. This supernatural ability is usable once per week at 8th level, and twice per week at 10th level. ^mortal-slayer-unfurl-the-mortal-coil
 
-**Fey Glade (Su)**: Upon reaching 9th level, the mortal slayer is able to create a _fey glade_ during the burial of a fallen fey creature. A _fey glade_ doubles the natural healing of fey creatures staying in it, although it does not work for mortals. If a faerie hunter enters a _fey glade_, she takes 1d4 points of damage per round she remains in the glade. A _fey glade_ is 10 yards in diameter, plus an additional 5 yards per HD of the fallen creature. A _fey glade_ is identifiable by the lush vegetation and fragrant wildflowers growing in it; the vegetation, regardless of other surroundings, matches that native to the buried creature’s homelands. A successful [[rangoric-srd/skills/Lore|Lore (fey)]] check (DC 15) is needed to confirm its presence without entering. ^mortal-slayer-fey-glade
+**Fey Glade (Su)**: Upon reaching 9th level, the mortal slayer is able to create a _fey glade_ during the burial of a fallen fey creature. A _fey glade_ doubles the natural healing of fey creatures staying in it, although it does not work for mortals. If a faerie hunter enters a _fey glade_, she takes 1d4 points of damage per round she remains in the glade. A _fey glade_ is 10 yards in diameter, plus an additional 5 yards per HD of the fallen creature. A _fey glade_ is identifiable by the lush vegetation and fragrant wildflowers growing in it; the vegetation, regardless of other surroundings, matches that native to the buried creature’s homelands. A successful [[rangoric-srd/skills/Background|Background (fey)]] check (DC 15) is needed to confirm its presence without entering. ^mortal-slayer-fey-glade
 
 **Seal Doorway (Su)**: At 10th level, mortal slayers gain the supernatural ability to close a fey [[rangoric-srd/rules/Fey Roads and Doorways#Doorways|doorway]] to the fey realm, removing an avenue for more mortals to come there. Where a [[rangoric-srd/rules/Fey Roads and Doorways#Fey Roads|fey road]] has an opening to a mortal world, the mortal slayer can make the fey road one-way, preventing any passage into the fey realm. In melee this takes a move action, and it provokes attacks of opportunity if performed in a threatened space. ^mortal-slayer-seal-doorway
 

@@ -38,13 +38,13 @@ To qualify to become a faerier (abbreviated Frr), a character must fulfill all t
 
 **Skills**: [[rangoric-srd/skills/Performance|Performance]] 5 ranks, [[rangoric-srd/skills/Persuasion|Persuasion]] 5 ranks, [[rangoric-srd/skills/Sense Motive|Sense Motive]] 5 ranks.
 
-**Knowledge**: [[rangoric-srd/skills/Lore|Lore (fey)]] 5 ranks, [[rangoric-srd/skills/Nature|Nature]] 5 ranks, or a [[rangoric-srd/classes/Bard#^bardic-knowledge|bardic knowledge]] bonus of +6.
+**Knowledge**: [[rangoric-srd/skills/Background|Background (fey)]] 5 ranks, [[rangoric-srd/skills/Nature|Nature]] 5 ranks, or a [[rangoric-srd/classes/Bard#^bardic-knowledge|bardic knowledge]] bonus of +6.
 
 **Spellcasting**: Able to cast spells or use magic devices.
 
 ###### Class Skills
 
-The faerier’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Imitation|Imitation]] (Int), [[rangoric-srd/skills/Lore|Lore]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Nature|Nature]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), and [[rangoric-srd/skills/Stealth|Stealth]] (Dex).
+The faerier’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Imitation|Imitation]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Nature|Nature]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), and [[rangoric-srd/skills/Stealth|Stealth]] (Dex).
 
 **Skill Points at Each Level**: 4 + Int modifier.
 
