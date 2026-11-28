@@ -39,6 +39,8 @@ Headings, in order:
 | `srd-type` | yes      | `overview` |
 | `section`  | yes      | `Spells`   |
 
+A class spell list (the `Spell List` notes and the Alchemist Formula List) has a Brief Description on every row, written from the spell note; links each spell's own note, never an index note such as Spells A to B; holds every spell whose `level` names its class, at that level, and none whose `level` doesn't (the `Wiz` rows count for Sorcerer and Wizards); and marks X exactly where the spell's note has an XP component. "Check notes" checks these.
+
 ## Failing notes
 
 ![[rangoric-srd/spells/Spells Index.base#Failing]]
