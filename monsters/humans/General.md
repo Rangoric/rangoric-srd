@@ -17,8 +17,8 @@ special-attacks: "Weapon training (polearms +2, bows +1)"
 special-qualities: "Bravery +3, armor training 3"
 defenses: "Fort 21, Ref 16, Will 15 (+3 vs. fear)"
 abilities: "Str 18, Dex 12, Con 14, Int 14, Wis 10, Cha 10"
-skills: "Animal Handling +9, Dungeoneering +6, Engineering +10, Fieldcraft +4, Intimidation +13, Perception +10, Persuasion +5, Profession (soldier) +14, Sense Motive +5, Society +4"
-skill-ranks: "Animal Handling 5, Dungeoneering 1, Engineering 5, Fieldcraft 1, Intimidation 10, Perception 7, Persuasion 2, Profession (soldier) 9, Sense Motive 2, Society 2"
+skills: "Animal Handling +9, Dungeoneering +6, Engineering +10, Fieldcraft +4, Intimidation +13, Perception +10, Persuasion +5, Background (soldier) +16, Sense Motive +5, Society +4"
+skill-ranks: "Animal Handling 5, Dungeoneering 1, Engineering 5, Fieldcraft 1, Intimidation 10, Perception 7, Persuasion 2, Background (soldier) 9, Sense Motive 2, Society 2"
 feats: "Combat Expertise, Combat Reflexes, Disruptive, Dodge, Improved Vital Strike, Lunge, Mobility, Spellbreaker, Spring Attack, Vital Strike, Weapon Focus (glaive), Weapon Specialization (glaive), Whirlwind Attack"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Fighter#^fighter-bravery|Bravery]] +3, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 3
 - **Defenses**: Fort 21, Ref 16, Will 15 (+3 vs. fear)
 - **Abilities**: Str 18, Dex 12, Con 14, Int 14, Wis 10, Cha 10
-- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +9, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +6, [[rangoric-srd/skills/Engineering|Engineering]] +10, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Persuasion|Persuasion]] +5, [[rangoric-srd/skills/Profession|Profession]] (soldier) +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Society|Society]] +4
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +9, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +6, [[rangoric-srd/skills/Engineering|Engineering]] +10, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Persuasion|Persuasion]] +5, [[rangoric-srd/skills/Background|Background]] (soldier) +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Society|Society]] +4
 - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Disruptive|Disruptive]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spellbreaker|Spellbreaker]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (glaive), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (glaive), [[rangoric-srd/feats/Whirlwind Attack|Whirlwind Attack]]
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/humans/Human|Human]])

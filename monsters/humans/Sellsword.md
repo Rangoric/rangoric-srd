@@ -17,8 +17,8 @@ special-attacks: "Weapon training (heavy blades +1)"
 special-qualities: "Bravery +2, armor training 2"
 defenses: "Fort 20, Ref 15, Will 16 (+2 vs. fear)"
 abilities: "Str 16, Dex 14, Con 16, Int 10, Wis 12, Cha 8"
-skills: "Animal Handling +8, Dungeoneering +5, Fieldcraft +10, Intimidation +7, Perception +8, Profession (soldier) +5"
-skill-ranks: "Animal Handling 3, Dungeoneering 2, Fieldcraft 6, Intimidation 5, Perception 4, Profession (soldier) 2"
+skills: "Animal Handling +8, Dungeoneering +5, Fieldcraft +10, Intimidation +7, Perception +8, Background (soldier) +7"
+skill-ranks: "Animal Handling 3, Dungeoneering 2, Fieldcraft 6, Intimidation 5, Perception 4, Background (soldier) 2"
 feats: "Cleave, Improved Critical (bastard sword), Improved Initiative, Improved Iron Will, Iron Will, Power Attack, Toughness, Vital Strike, Weapon Focus (bastard sword), Weapon Specialization (bastard sword)"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Fighter#^fighter-bravery|Bravery]] +2, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 2
 - **Defenses**: Fort 20, Ref 15, Will 16 (+2 vs. fear)
 - **Abilities**: Str 16, Dex 14, Con 16, Int 10, Wis 12, Cha 8
-- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +8, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Profession|Profession]] (soldier) +5
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +8, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Background|Background]] (soldier) +7
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bastard sword), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bastard sword), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (bastard sword)
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/humans/Human|Human]])

@@ -18,8 +18,8 @@ special-attacks: "—"
 special-qualities: "—"
 defenses: "Fort 9, Ref 11, Will 13"
 abilities: "Str 8, Dex 13, Con 9, Int 11, Wis 10, Cha 14"
-skills: "Animal Handling +5, Deception +6, Perform (dance) +7, Perform (sing, string instruments) +6, Persuasion +10, Sense Motive +4, Society +5, Theology +4"
-skill-ranks: "Animal Handling 1, Deception 1, Perform (dance) 4, Perform (sing, string instruments) 3, Persuasion 5, Sense Motive 1, Society 2, Theology 1"
+skills: "Animal Handling +5, Deception +6, Performance (dance) +10, Performance (sing, string instruments) +9, Persuasion +10, Sense Motive +4, Society +5, Theology +4"
+skill-ranks: "Animal Handling 1, Deception 1, Performance (dance) 4, Performance (sing, string instruments) 3, Persuasion 5, Sense Motive 1, Society 2, Theology 1"
 feats: "Dodge, Skill Focus (Persuasion)"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: —
 - **Defenses**: Fort 9, Ref 11, Will 13
 - **Abilities**: Str 8, Dex 13, Con 9, Int 11, Wis 10, Cha 14
-- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Deception|Deception]] +6, Perform (dance) +7, Perform (sing, string instruments) +6, [[rangoric-srd/skills/Persuasion|Persuasion]] +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +4, [[rangoric-srd/skills/Society|Society]] +5, [[rangoric-srd/skills/Theology|Theology]] +4
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Deception|Deception]] +6, [[rangoric-srd/skills/Performance|Performance]] (dance) +10, [[rangoric-srd/skills/Performance|Performance]] (sing, string instruments) +9, [[rangoric-srd/skills/Persuasion|Persuasion]] +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +4, [[rangoric-srd/skills/Society|Society]] +5, [[rangoric-srd/skills/Theology|Theology]] +4
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Persuasion)
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/humans/Human|Human]])

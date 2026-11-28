@@ -18,8 +18,8 @@ special-attacks: "Wild shape 3/day, rebuke earth creatures, turn air creatures (
 special-qualities: "Nature bond (Earth domain), nature sense, trackless step, wild empathy +10, woodland stride, immunity to poison, resistance to acid 10"
 defenses: "Fort 18, Ref 15, Will 21 (+4 vs. fey and plant-targeted effects)"
 abilities: "Str 17, Dex 10, Con 14, Int 8, Wis 20, Cha 13"
-skills: "Acrobatics +4, Animal Handling +6, Athletics +6, Craft (woodworking) +6, Fieldcraft +18, Mysticism +4, Nature +9, Perception +13, Society +5"
-skill-ranks: "Acrobatics 1, Animal Handling 2, Athletics 3, Craft (woodworking) 4, Fieldcraft 10, Mysticism 2, Nature 7, Perception 5, Society 3"
+skills: "Acrobatics +4, Animal Handling +6, Athletics +6, Background (carpentry) +6, Fieldcraft +18, Mysticism +4, Nature +9, Perception +13, Society +5"
+skill-ranks: "Acrobatics 1, Animal Handling 2, Athletics 3, Background (carpentry) 4, Fieldcraft 10, Mysticism 2, Nature 7, Perception 5, Society 3"
 feats: "Augment Summoning, Lightning Reflexes, Lunge, Power Attack, Spell Focus (conjuration), Vital Strike"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Druid#^druid-nature-bond|Nature bond]] (Earth domain), [[rangoric-srd/classes/Druid#^druid-nature-sense|nature sense]], [[rangoric-srd/classes/Druid#^druid-trackless-step|trackless step]], [[rangoric-srd/classes/Druid#^druid-wild-empathy|wild empathy]] +10, [[rangoric-srd/classes/Druid#^druid-woodland-stride|woodland stride]], [[rangoric-srd/classes/Druid#^druid-venom-immunity|immunity to poison]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10
 - **Defenses**: Fort 18, Ref 15, Will 21 (+4 vs. fey and plant-targeted effects)
 - **Abilities**: Str 17, Dex 10, Con 14, Int 8, Wis 20, Cha 13
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +4, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Craft|Craft]] (woodworking) +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +18, [[rangoric-srd/skills/Mysticism|Mysticism]] +4, [[rangoric-srd/skills/Nature|Nature]] +9, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Society|Society]] +5
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +4, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Background|Background]] (carpentry) +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +18, [[rangoric-srd/skills/Mysticism|Mysticism]] +4, [[rangoric-srd/skills/Nature|Nature]] +9, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Society|Society]] +5
 - **Feats**: [[rangoric-srd/feats/Augment Summoning|Augment Summoning]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (conjuration), [[rangoric-srd/feats/Vital Strike|Vital Strike]]
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/humans/Human|Human]])

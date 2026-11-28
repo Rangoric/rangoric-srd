@@ -17,8 +17,8 @@ special-attacks: "—"
 special-qualities: "Bravery +1"
 defenses: "Fort 15, Ref 11, Will 11 (+1 vs. fear)"
 abilities: "Str 17, Dex 13, Con 14, Int 10, Wis 12, Cha 8"
-skills: "Animal Handling +6, Fieldcraft +5, Intimidation +3, Perception +5, Profession (drover) +5, Sense Motive +1"
-skill-ranks: "Animal Handling 3, Fieldcraft 1, Intimidation 1, Perception 3, Profession (drover) 2, Sense Motive 2"
+skills: "Animal Handling +6, Fieldcraft +5, Intimidation +3, Perception +5, Background (drover) +7, Sense Motive +1"
+skill-ranks: "Animal Handling 3, Fieldcraft 1, Intimidation 1, Perception 3, Background (drover) 2, Sense Motive 2"
 feats: "Improved Initiative, Rapid Reload, Skill Focus (Animal Handling, Perception)"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Fighter#^fighter-bravery|Bravery]] +1
 - **Defenses**: Fort 15, Ref 11, Will 11 (+1 vs. fear)
 - **Abilities**: Str 17, Dex 13, Con 14, Int 10, Wis 12, Cha 8
-- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +3, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Profession|Profession]] (drover) +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +1
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +3, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Background|Background]] (drover) +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +1
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Rapid Reload|Rapid Reload]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Animal Handling, Perception)
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/humans/Human|Human]])

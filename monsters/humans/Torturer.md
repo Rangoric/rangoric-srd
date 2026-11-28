@@ -17,13 +17,13 @@ special-attacks: "—"
 special-qualities: "Bravery +1"
 defenses: "Fort 16, Ref 12, Will 15 (+1 vs. fear)"
 abilities: "Str 18, Dex 13, Con 14, Int 8, Wis 12, Cha 10"
-skills: "Craft (traps) +4, Dungeoneering +3, Intimidation +14, Medicine +6, Perception +11, Persuasion +7, Profession (torturer) +19, Sense Motive +11"
-skill-ranks: "Craft (traps) 2, Dungeoneering 1, Intimidation 13, Medicine 2, Perception 7, Persuasion 3, Profession (torturer) 17, Sense Motive 7"
-feats: "Exotic Weapon Proficiency (whip), Improved Grapple, Improved Unarmed Strike, Intimidating Prowess, Scorpion Style, Skill Focus (Persuasion, Profession [torturer])"
+skills: "Background (trapmaking) +4, Dungeoneering +3, Intimidation +14, Medicine +6, Perception +11, Persuasion +7, Background (torturer) +20, Sense Motive +11"
+skill-ranks: "Background (trapmaking) 2, Dungeoneering 1, Intimidation 13, Medicine 2, Perception 7, Persuasion 3, Background (torturer) 17, Sense Motive 7"
+feats: "Exotic Weapon Proficiency (whip), Improved Grapple, Improved Unarmed Strike, Intimidating Prowess, Scorpion Style, Skill Focus (Persuasion, Background [torturer])"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
 challenge-rating: 5
-treasure: "NPC gear (combat gear: vials of acid (2), alchemist's fire (2), greenblood oil (2 doses), tanglefoot bags (2); other gear: +1 banded mail, +1 heavy flail, masterwork whip, masterwork torturer's tools (+5 competence bonus on Profession [torturer] checks))"
+treasure: "NPC gear (combat gear: vials of acid (2), alchemist's fire (2), greenblood oil (2 doses), tanglefoot bags (2); other gear: +1 banded mail, +1 heavy flail, masterwork whip, masterwork torturer's tools (+5 competence bonus on Background [torturer] checks))"
 alignment: "Neutral evil"
 advancement: "By character class"
 level-adjustment: "—"
@@ -48,12 +48,12 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Fighter#^fighter-bravery|Bravery]] +1
 - **Defenses**: Fort 16, Ref 12, Will 15 (+1 vs. fear)
 - **Abilities**: Str 18, Dex 13, Con 14, Int 8, Wis 12, Cha 10
-- **Skills**: [[rangoric-srd/skills/Craft|Craft]] (traps) +4, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +3, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Medicine|Medicine]] +6, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Profession|Profession]] (torturer) +19, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11
-- **Feats**: [[rangoric-srd/feats/Exotic Weapon Proficiency|Exotic Weapon Proficiency]] (whip), [[rangoric-srd/feats/Improved Grapple|Improved Grapple]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Scorpion Style|Scorpion Style]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Persuasion, Profession \[torturer\])
+- **Skills**: [[rangoric-srd/skills/Background|Background]] (trapmaking) +4, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +3, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Medicine|Medicine]] +6, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Background|Background]] (torturer) +20, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11
+- **Feats**: [[rangoric-srd/feats/Exotic Weapon Proficiency|Exotic Weapon Proficiency]] (whip), [[rangoric-srd/feats/Improved Grapple|Improved Grapple]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Scorpion Style|Scorpion Style]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Persuasion, Background \[torturer\])
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/humans/Human|Human]])
 - **Challenge Rating**: 5
-- **Treasure**: NPC gear (combat gear: vials of acid (2), alchemist's fire (2), greenblood oil (2 doses), tanglefoot bags (2); other gear: +1 banded mail, +1 heavy flail, masterwork whip, masterwork torturer's tools (+5 competence bonus on Profession \[torturer\] checks))
+- **Treasure**: NPC gear (combat gear: vials of acid (2), alchemist's fire (2), greenblood oil (2 doses), tanglefoot bags (2); other gear: +1 banded mail, +1 heavy flail, masterwork whip, masterwork torturer's tools (+5 competence bonus on Background \[torturer\] checks))
 - **Alignment**: Neutral evil
 - **Advancement**: By character class
 - **Level Adjustment**: —

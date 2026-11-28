@@ -17,9 +17,9 @@ special-attacks: "—"
 special-qualities: ""
 defenses: "Fort 11, Ref 10, Will 13"
 abilities: "Str 11, Dex 10, Con 12, Int 10, Wis 13, Cha 9"
-skills: "Animal Handling +8, Craft (carpentry) +5, Medicine +5, Nature +4, Profession (farmer) +9, Society +4"
-skill-ranks: "Animal Handling 4, Craft (carpentry) 2, Medicine 1, Nature 1, Profession (farmer) 6, Society 1"
-feats: "Skill Focus (Animal Handling, Profession [farmer])"
+skills: "Animal Handling +8, Background (carpentry) +5, Medicine +5, Nature +4, Background (farmer) +11, Society +4"
+skill-ranks: "Animal Handling 4, Background (carpentry) 2, Medicine 1, Nature 1, Background (farmer) 6, Society 1"
+feats: "Skill Focus (Animal Handling, Background [farmer])"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
 challenge-rating: "1/2"
@@ -48,8 +48,8 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**:
 - **Defenses**: Fort 11, Ref 10, Will 13
 - **Abilities**: Str 11, Dex 10, Con 12, Int 10, Wis 13, Cha 9
-- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +8, [[rangoric-srd/skills/Craft|Craft]] (carpentry) +5, [[rangoric-srd/skills/Medicine|Medicine]] +5, [[rangoric-srd/skills/Nature|Nature]] +4, [[rangoric-srd/skills/Profession|Profession]] (farmer) +9, [[rangoric-srd/skills/Society|Society]] +4
-- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Animal Handling, Profession \[farmer\])
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +8, [[rangoric-srd/skills/Background|Background]] (carpentry) +5, [[rangoric-srd/skills/Medicine|Medicine]] +5, [[rangoric-srd/skills/Nature|Nature]] +4, [[rangoric-srd/skills/Background|Background]] (farmer) +11, [[rangoric-srd/skills/Society|Society]] +4
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Animal Handling, Background \[farmer\])
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/humans/Human|Human]])
 - **Challenge Rating**: 1/2

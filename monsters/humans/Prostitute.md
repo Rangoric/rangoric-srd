@@ -17,9 +17,9 @@ special-attacks: "Sneak attack +1d6"
 special-qualities: "Trapfinding +1, finesse training"
 defenses: "Fort 11, Ref 14, Will 12"
 abilities: "Str 8, Dex 14, Con 13, Int 12, Wis 10, Cha 17"
-skills: "Acrobatics +6, Deception +11, Imitation +9, Perception +5, Perform (act) +8, Perform (dance) +8, Persuasion +8, Profession (courtesan) +8, Sense Motive +5, Sleight of Hand +7, Society +5"
-skill-ranks: "Acrobatics 1, Deception 4, Imitation 5, Perception 2, Perform (act) 4, Perform (dance) 4, Persuasion 2, Profession (courtesan) 4, Sense Motive 2, Sleight of Hand 2, Society 1"
-feats: "Skill Focus (Deception, Profession [courtesan])"
+skills: "Acrobatics +6, Deception +11, Imitation +9, Perception +5, Performance (act) +11, Performance (dance) +11, Persuasion +8, Background (courtesan) +9, Sense Motive +5, Sleight of Hand +7, Society +5"
+skill-ranks: "Acrobatics 1, Deception 4, Imitation 5, Perception 2, Performance (act) 4, Performance (dance) 4, Persuasion 2, Background (courtesan) 4, Sense Motive 2, Sleight of Hand 2, Society 1"
+feats: "Skill Focus (Deception, Background [courtesan])"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
 challenge-rating: 1
@@ -48,8 +48,8 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Rogue#^rogue-trapfinding|Trapfinding]] +1, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]]
 - **Defenses**: Fort 11, Ref 14, Will 12
 - **Abilities**: Str 8, Dex 14, Con 13, Int 12, Wis 10, Cha 17
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Deception|Deception]] +11, [[rangoric-srd/skills/Imitation|Imitation]] +9, [[rangoric-srd/skills/Perception|Perception]] +5, Perform (act) +8, Perform (dance) +8, [[rangoric-srd/skills/Persuasion|Persuasion]] +8, [[rangoric-srd/skills/Profession|Profession]] (courtesan) +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +7, [[rangoric-srd/skills/Society|Society]] +5
-- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception, Profession \[courtesan\])
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Deception|Deception]] +11, [[rangoric-srd/skills/Imitation|Imitation]] +9, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Performance|Performance]] (act) +11, [[rangoric-srd/skills/Performance|Performance]] (dance) +11, [[rangoric-srd/skills/Persuasion|Persuasion]] +8, [[rangoric-srd/skills/Background|Background]] (courtesan) +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +7, [[rangoric-srd/skills/Society|Society]] +5
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception, Background \[courtesan\])
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/humans/Human|Human]])
 - **Challenge Rating**: 1

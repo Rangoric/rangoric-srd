@@ -18,8 +18,8 @@ special-attacks: "Bardic performance 9 rounds/day (countersong, distraction, fas
 special-qualities: "Bardic knowledge +1, versatile performance (wind)"
 defenses: "Fort 11, Ref 15, Will 14 (+4 vs. bardic performance, language-dependent, and sonic)"
 abilities: "Str 10, Dex 14, Con 13, Int 8, Wis 12, Cha 17"
-skills: "Acrobatics +5, Animal Handling +8, Deception +7, Perception +5, Perform (wind) +8, Persuasion +8, Sense Motive +5, Sleight of Hand +7, Society +4, Stealth +5"
-skill-ranks: "Acrobatics 3, Animal Handling 2, Deception 1, Perception 1, Perform (wind) 6, Persuasion 2, Sense Motive 1, Sleight of Hand 2, Society 2, Stealth 3"
+skills: "Acrobatics +5, Animal Handling +8, Deception +7, Perception +5, Performance (wind instruments) +11, Persuasion +8, Sense Motive +5, Sleight of Hand +7, Society +4, Stealth +5"
+skill-ranks: "Acrobatics 3, Animal Handling 2, Deception 1, Perception 1, Performance (wind instruments) 6, Persuasion 2, Sense Motive 1, Sleight of Hand 2, Society 2, Stealth 3"
 feats: "Point Blank Shot, Precise Shot"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Bard|Bardic knowledge]] +1, [[rangoric-srd/classes/Bard#^bard-versatile-performance|versatile performance]] (wind)
 - **Defenses**: Fort 11, Ref 15, Will 14 (+4 vs. bardic performance, language-dependent, and sonic)
 - **Abilities**: Str 10, Dex 14, Con 13, Int 8, Wis 12, Cha 17
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +8, [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Perception|Perception]] +5, Perform (wind) +8, [[rangoric-srd/skills/Persuasion|Persuasion]] +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +7, [[rangoric-srd/skills/Society|Society]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +5
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +8, [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Performance|Performance]] (wind instruments) +11, [[rangoric-srd/skills/Persuasion|Persuasion]] +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +7, [[rangoric-srd/skills/Society|Society]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +5
 - **Feats**: [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]]
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/humans/Human|Human]])

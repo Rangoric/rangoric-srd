@@ -17,9 +17,9 @@ special-attacks: "Hand of the apprentice (7/day)"
 special-qualities: "Arcane bond (raven familiar)"
 defenses: "Fort 13, Ref 13, Will 16"
 abilities: "Str 10, Dex 13, Con 12, Int 18, Wis 14, Cha 8"
-skills: "Appraise +12, Arcana +12, Craft (alchemy) +15, Dungeoneering +10, Mysticism +12, Perception +6, Profession (herbalist) +10, Society +10"
-skill-ranks: "Appraise 5, Arcana 5, Craft (alchemy) 8, Dungeoneering 3, Mysticism 5, Perception 1, Profession (herbalist) 3, Society 3"
-feats: "Brew Potion, Combat Casting, Defensive Combat Training, Scribe Scroll, Skill Focus (Craft [alchemy])"
+skills: "Appraise +12, Arcana +12, Background (alchemy) +15, Dungeoneering +10, Mysticism +12, Perception +6, Background (herbalist) +12, Society +10"
+skill-ranks: "Appraise 5, Arcana 5, Background (alchemy) 8, Dungeoneering 3, Mysticism 5, Perception 1, Background (herbalist) 3, Society 3"
+feats: "Brew Potion, Combat Casting, Defensive Combat Training, Scribe Scroll, Skill Focus (Background [alchemy])"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
 challenge-rating: 4
@@ -48,8 +48,8 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Wizard#^wizard-arcane-bond|Arcane bond]] (raven familiar)
 - **Defenses**: Fort 13, Ref 13, Will 16
 - **Abilities**: Str 10, Dex 13, Con 12, Int 18, Wis 14, Cha 8
-- **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +12, [[rangoric-srd/skills/Arcana|Arcana]] +12, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +15, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +10, [[rangoric-srd/skills/Mysticism|Mysticism]] +12, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Profession|Profession]] (herbalist) +10, [[rangoric-srd/skills/Society|Society]] +10
-- **Feats**: [[rangoric-srd/feats/Brew Potion|Brew Potion]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Defensive Combat Training|Defensive Combat Training]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Craft \[alchemy\])
+- **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +12, [[rangoric-srd/skills/Arcana|Arcana]] +12, [[rangoric-srd/skills/Background|Background]] (alchemy) +15, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +10, [[rangoric-srd/skills/Mysticism|Mysticism]] +12, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Background|Background]] (herbalist) +12, [[rangoric-srd/skills/Society|Society]] +10
+- **Feats**: [[rangoric-srd/feats/Brew Potion|Brew Potion]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Defensive Combat Training|Defensive Combat Training]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Background \[alchemy\])
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/humans/Human|Human]])
 - **Challenge Rating**: 4

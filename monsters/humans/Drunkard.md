@@ -17,8 +17,8 @@ special-attacks: "—"
 special-qualities: ""
 defenses: "Fort 17, Ref 10, Will 9"
 abilities: "Str 13, Dex 11, Con 14, Int 10, Wis 9, Cha 8"
-skills: "Animal Handling +4, Athletics +5, Intimidation +5, Profession (choose one) +3"
-skill-ranks: "Animal Handling 2, Athletics 1, Intimidation 3, Profession (choose one) 3"
+skills: "Animal Handling +4, Athletics +5, Intimidation +5, Background (choose one profession) +7"
+skill-ranks: "Animal Handling 2, Athletics 1, Intimidation 3, Background (choose one profession) 3"
 feats: "Great Fortitude, Improved Bull Rush, Power Attack"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**:
 - **Defenses**: Fort 17, Ref 10, Will 9
 - **Abilities**: Str 13, Dex 11, Con 14, Int 10, Wis 9, Cha 8
-- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +4, [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Profession|Profession]] (choose one) +3
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +4, [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Background|Background]] (choose one profession) +7
 - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]]
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/humans/Human|Human]])

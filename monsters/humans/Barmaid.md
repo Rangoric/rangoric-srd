@@ -17,8 +17,8 @@ special-attacks: "—"
 special-qualities: "—"
 defenses: "Fort 10, Ref 11, Will 9"
 abilities: "Str 10, Dex 12, Con 11, Int 10, Wis 9, Cha 13"
-skills: "Perception +4, Perform (dance) +3, Profession (barmaid) +4, Profession (cook) +3, Sleight of Hand +2"
-skill-ranks: "Perception 2, Perform (dance) 3, Profession (barmaid) 1, Profession (cook) 3, Sleight of Hand 1"
+skills: "Perception +4, Performance (dance) +6, Background (barmaid) +5, Background (cook) +7, Sleight of Hand +2"
+skill-ranks: "Perception 2, Performance (dance) 3, Background (barmaid) 1, Background (cook) 3, Sleight of Hand 1"
 feats: "Catch Off-Guard, Throw Anything"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: —
 - **Defenses**: Fort 10, Ref 11, Will 9
 - **Abilities**: Str 10, Dex 12, Con 11, Int 10, Wis 9, Cha 13
-- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +4, Perform (dance) +3, [[rangoric-srd/skills/Profession|Profession]] (barmaid) +4, [[rangoric-srd/skills/Profession|Profession]] (cook) +3, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +2
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Performance|Performance]] (dance) +6, [[rangoric-srd/skills/Background|Background]] (barmaid) +5, [[rangoric-srd/skills/Background|Background]] (cook) +7, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +2
 - **Feats**: [[rangoric-srd/feats/Catch Off-Guard|Catch Off-Guard]], [[rangoric-srd/feats/Throw Anything|Throw Anything]]
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/humans/Human|Human]])
@@ -60,7 +60,7 @@ tags: [rangoric, rangoric/monster]
 
 A barmaid is a [[rangoric-srd/monsters/humans/Human|human]] with 2 levels of [[rangoric-srd/classes/Commoner|commoner]]. Barmaids are serving wenches, dancing girls, and even harried cooks in inns and taverns throughout the cities and towns of the world. Although usually young, some barmaids are older goodwives working in the family business.
 
-A barmaid might also be used as a farmer's, fisherman's, or shopkeep's wife, or any type of servant, whether in an inn or a noble's manor. Changing a barmaid's Profession skills can create any type of servant needed. Profession (courtesan) creates an inexperienced prostitute, or simply a serving girl who works in a brothel.
+A barmaid might also be used as a farmer's, fisherman's, or shopkeep's wife, or any type of servant, whether in an inn or a noble's manor. Changing a barmaid's profession Backgrounds can create any type of servant needed. Background (courtesan) creates an inexperienced prostitute, or simply a serving girl who works in a brothel.
 
 While skilled in improvised weapons, changing a barmaid's feats can create a servant with other useful skills. Alertness or Skill Focus (Perception) makes a barmaid good at overhearing conversations, while a barmaid working in a dangerous dive might carry a concealed dagger and have the Improved Unarmed Strike and Weapon Finesse feats.
 

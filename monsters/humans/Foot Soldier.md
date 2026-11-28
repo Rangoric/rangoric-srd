@@ -17,8 +17,8 @@ special-attacks: "—"
 special-qualities: "—"
 defenses: "Fort 12, Ref 11, Will 10"
 abilities: "Str 15, Dex 12, Con 11, Int 8, Wis 10, Cha 9"
-skills: "Craft (weapons) +3, Fieldcraft +1, Profession (soldier) +4"
-skill-ranks: "Craft (weapons) 1, Fieldcraft 1, Profession (soldier) 2"
+skills: "Background (weaponsmithing) +3, Fieldcraft +1, Background (soldier) +6"
+skill-ranks: "Background (weaponsmithing) 1, Fieldcraft 1, Background (soldier) 2"
 feats: "Step Up, Toughness"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: —
 - **Defenses**: Fort 12, Ref 11, Will 10
 - **Abilities**: Str 15, Dex 12, Con 11, Int 8, Wis 10, Cha 9
-- **Skills**: [[rangoric-srd/skills/Craft|Craft]] (weapons) +3, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +1, [[rangoric-srd/skills/Profession|Profession]] (soldier) +4
+- **Skills**: [[rangoric-srd/skills/Background|Background]] (weaponsmithing) +3, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +1, [[rangoric-srd/skills/Background|Background]] (soldier) +6
 - **Feats**: [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Toughness|Toughness]]
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/humans/Human|Human]])

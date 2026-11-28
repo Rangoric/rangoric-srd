@@ -18,8 +18,8 @@ special-attacks: "—"
 special-qualities: "—"
 defenses: "Fort 10, Ref 14, Will 13"
 abilities: "Str 10, Dex 12, Con 9, Int 11, Wis 8, Cha 14"
-skills: "Animal Handling +13, Athletics +5, Fieldcraft +3, Perception +10, Persuasion +9, Profession (falconer) +7, Society +7"
-skill-ranks: "Animal Handling 8, Athletics 2, Fieldcraft 1, Perception 8, Persuasion 4, Profession (falconer) 4, Society 4"
+skills: "Animal Handling +13, Athletics +5, Fieldcraft +3, Perception +10, Persuasion +9, Background (falconer) +8, Society +7"
+skill-ranks: "Animal Handling 8, Athletics 2, Fieldcraft 1, Perception 8, Persuasion 4, Background (falconer) 4, Society 4"
 feats: "Lightning Reflexes, Mounted Combat, Skill Focus (Animal Handling, Perception)"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: —
 - **Defenses**: Fort 10, Ref 14, Will 13
 - **Abilities**: Str 10, Dex 12, Con 9, Int 11, Wis 8, Cha 14
-- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +13, [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +3, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Persuasion|Persuasion]] +9, [[rangoric-srd/skills/Profession|Profession]] (falconer) +7, [[rangoric-srd/skills/Society|Society]] +7
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +13, [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +3, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Persuasion|Persuasion]] +9, [[rangoric-srd/skills/Background|Background]] (falconer) +8, [[rangoric-srd/skills/Society|Society]] +7
 - **Feats**: [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Animal Handling, Perception)
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/humans/Human|Human]])

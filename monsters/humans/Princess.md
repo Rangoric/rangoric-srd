@@ -17,8 +17,8 @@ special-attacks: "—"
 special-qualities: "—"
 defenses: "Fort 13, Ref 16, Will 16"
 abilities: "Str 9, Dex 16, Con 10, Int 12, Wis 8, Cha 12"
-skills: "Animal Handling +8, Deception +13, Escape Artist +4, Imitation +13, Intimidation +13, Perception +8, Perform (dance) +10, Perform (string) +10, Persuasion +13, Sense Motive +5, Sleight of Hand +4, Society +10, Stealth +4"
-skill-ranks: "Animal Handling 4, Deception 9, Escape Artist 1, Imitation 9, Intimidation 9, Perception 6, Perform (dance) 6, Perform (string) 6, Persuasion 9, Sense Motive 3, Sleight of Hand 1, Society 6, Stealth 1"
+skills: "Animal Handling +8, Deception +13, Escape Artist +4, Imitation +13, Intimidation +13, Perception +8, Performance (dance) +10, Performance (string instruments) +10, Persuasion +13, Sense Motive +5, Sleight of Hand +4, Society +10, Stealth +4"
+skill-ranks: "Animal Handling 4, Deception 9, Escape Artist 1, Imitation 9, Intimidation 9, Perception 6, Performance (dance) 6, Performance (string instruments) 6, Persuasion 9, Sense Motive 3, Sleight of Hand 1, Society 6, Stealth 1"
 feats: "Dodge, Mobility, Two-Weapon Defense, Two-Weapon Fighting, Weapon Finesse"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: —
 - **Defenses**: Fort 13, Ref 16, Will 16
 - **Abilities**: Str 9, Dex 16, Con 10, Int 12, Wis 8, Cha 12
-- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +8, [[rangoric-srd/skills/Deception|Deception]] +13, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +4, [[rangoric-srd/skills/Imitation|Imitation]] +13, [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Perception|Perception]] +8, Perform (dance) +10, Perform (string) +10, [[rangoric-srd/skills/Persuasion|Persuasion]] +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +4, [[rangoric-srd/skills/Society|Society]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +4
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +8, [[rangoric-srd/skills/Deception|Deception]] +13, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +4, [[rangoric-srd/skills/Imitation|Imitation]] +13, [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Performance|Performance]] (dance) +10, [[rangoric-srd/skills/Performance|Performance]] (string instruments) +10, [[rangoric-srd/skills/Persuasion|Persuasion]] +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +4, [[rangoric-srd/skills/Society|Society]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +4
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Two-Weapon Defense|Two-Weapon Defense]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/humans/Human|Human]])

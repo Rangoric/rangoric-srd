@@ -18,8 +18,8 @@ special-attacks: "Bardic performance 10 rounds/day (countersong, distraction, fa
 special-qualities: "Bardic knowledge +1, versatile performance (act)"
 defenses: "Fort 12, Ref 14, Will 13 (+4 vs. bardic performance, language-dependent, and sonic)"
 abilities: "Str 8, Dex 13, Con 12, Int 14, Wis 10, Cha 15"
-skills: "Appraise +6, Arcana +7, Deception +11, Imitation +8, Intimidation +6, Mysticism +8, Perception +4, Perform (act, dance) +8, Perform (sing) +7, Persuasion +8, Sense Motive +5, Society +9"
-skill-ranks: "Appraise 1, Arcana 2, Deception 6, Imitation 3, Intimidation 1, Mysticism 3, Perception 1, Perform (act, dance) 3, Perform (sing) 2, Persuasion 3, Sense Motive 2, Society 4"
+skills: "Appraise +6, Arcana +7, Deception +11, Imitation +8, Intimidation +6, Mysticism +8, Perception +4, Performance (act, dance) +8, Performance (sing) +7, Persuasion +8, Sense Motive +5, Society +9"
+skill-ranks: "Appraise 1, Arcana 2, Deception 6, Imitation 3, Intimidation 1, Mysticism 3, Perception 1, Performance (act, dance) 3, Performance (sing) 2, Persuasion 3, Sense Motive 2, Society 4"
 feats: "Skill Focus (Deception), Spell Focus (enchantment), Weapon Finesse"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Bard|Bardic knowledge]] +1, [[rangoric-srd/classes/Bard#^bard-versatile-performance|versatile performance]] (act)
 - **Defenses**: Fort 12, Ref 14, Will 13 (+4 vs. bardic performance, language-dependent, and sonic)
 - **Abilities**: Str 8, Dex 13, Con 12, Int 14, Wis 10, Cha 15
-- **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +6, [[rangoric-srd/skills/Arcana|Arcana]] +7, [[rangoric-srd/skills/Deception|Deception]] +11, [[rangoric-srd/skills/Imitation|Imitation]] +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Mysticism|Mysticism]] +8, [[rangoric-srd/skills/Perception|Perception]] +4, Perform (act, dance) +8, Perform (sing) +7, [[rangoric-srd/skills/Persuasion|Persuasion]] +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Society|Society]] +9
+- **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +6, [[rangoric-srd/skills/Arcana|Arcana]] +7, [[rangoric-srd/skills/Deception|Deception]] +11, [[rangoric-srd/skills/Imitation|Imitation]] +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Mysticism|Mysticism]] +8, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Performance|Performance]] (act, dance) +8, [[rangoric-srd/skills/Performance|Performance]] (sing) +7, [[rangoric-srd/skills/Persuasion|Persuasion]] +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Society|Society]] +9
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception), [[rangoric-srd/feats/Spell Focus|Spell Focus]] (enchantment), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/humans/Human|Human]])

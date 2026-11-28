@@ -17,8 +17,8 @@ special-attacks: "Weapon training (spears +1)"
 special-qualities: "Bravery +2, armor training 1"
 defenses: "Fort 16, Ref 15, Will 13 (+2 vs. fear)"
 abilities: "Str 16, Dex 16, Con 13, Int 8, Wis 12, Cha 10"
-skills: "Animal Handling +12, Craft (weapons) +3, Fieldcraft +5, Profession (soldier) +5"
-skill-ranks: "Animal Handling 8, Craft (weapons) 1, Fieldcraft 1, Profession (soldier) 3"
+skills: "Animal Handling +12, Background (weaponsmithing) +3, Fieldcraft +5, Background (soldier) +6"
+skill-ranks: "Animal Handling 8, Background (weaponsmithing) 1, Fieldcraft 1, Background (soldier) 3"
 feats: "Mounted Archery, Mounted Combat, Ride-By Attack, Skill Focus (Animal Handling), Spirited Charge, Trample, Weapon Focus (lance), Weapon Specialization (lance)"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Fighter#^fighter-bravery|Bravery]] +2, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1
 - **Defenses**: Fort 16, Ref 15, Will 13 (+2 vs. fear)
 - **Abilities**: Str 16, Dex 16, Con 13, Int 8, Wis 12, Cha 10
-- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +12, [[rangoric-srd/skills/Craft|Craft]] (weapons) +3, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Profession|Profession]] (soldier) +5
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +12, [[rangoric-srd/skills/Background|Background]] (weaponsmithing) +3, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Background|Background]] (soldier) +6
 - **Feats**: [[rangoric-srd/feats/Mounted Archery|Mounted Archery]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Ride-By Attack|Ride-By Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Animal Handling), [[rangoric-srd/feats/Spirited Charge|Spirited Charge]], [[rangoric-srd/feats/Trample|Trample]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (lance), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (lance)
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/humans/Human|Human]])

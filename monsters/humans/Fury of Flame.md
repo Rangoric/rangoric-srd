@@ -18,8 +18,8 @@ special-attacks: "Wild shape 6/day, rebuke fire creatures, turn water creatures 
 special-qualities: "A thousand faces, nature bond (Fire domain), nature sense, trackless step, wild empathy +13, woodland stride, immunity to poison, resistance to fire 20"
 defenses: "Fort 23, Ref 17, Will 25 (+4 vs. fey and plant-targeted effects)"
 abilities: "Str 20, Dex 12, Con 15, Int 10, Wis 18, Cha 8"
-skills: "Acrobatics +5, Animal Handling +7, Athletics +9, Fieldcraft +23, Medicine +12, Mysticism +11, Nature +11, Perception +15, Perform (oratory) +5, Society +7"
-skill-ranks: "Acrobatics 1, Animal Handling 3, Athletics 1, Fieldcraft 16, Medicine 5, Mysticism 8, Nature 8, Perception 8, Perform (oratory) 2, Society 4"
+skills: "Acrobatics +5, Animal Handling +7, Athletics +9, Fieldcraft +23, Medicine +12, Mysticism +11, Nature +11, Perception +15, Performance (oratory) +5, Society +7"
+skill-ranks: "Acrobatics 1, Animal Handling 3, Athletics 1, Fieldcraft 16, Medicine 5, Mysticism 8, Nature 8, Perception 8, Performance (oratory) 2, Society 4"
 feats: "Combat Casting, Empower Spell, Greater Spell Focus (evocation), Natural Spell, Power Attack, Spell Focus (evocation), Toughness, Vital Strike"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Druid#^druid-a-thousand-faces|A thousand faces]], [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]] ([[rangoric-srd/class-options/domains/Fire Domain|Fire domain]]), [[rangoric-srd/classes/Druid#^druid-nature-sense|nature sense]], [[rangoric-srd/classes/Druid#^druid-trackless-step|trackless step]], [[rangoric-srd/classes/Druid#^druid-wild-empathy|wild empathy]] +13, [[rangoric-srd/classes/Druid#^druid-woodland-stride|woodland stride]], [[rangoric-srd/classes/Druid#^druid-venom-immunity|immunity to poison]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 20
 - **Defenses**: Fort 23, Ref 17, Will 25 (+4 vs. fey and plant-targeted effects)
 - **Abilities**: Str 20, Dex 12, Con 15, Int 10, Wis 18, Cha 8
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +23, [[rangoric-srd/skills/Medicine|Medicine]] +12, [[rangoric-srd/skills/Mysticism|Mysticism]] +11, [[rangoric-srd/skills/Nature|Nature]] +11, [[rangoric-srd/skills/Perception|Perception]] +15, Perform (oratory) +5, [[rangoric-srd/skills/Society|Society]] +7
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +23, [[rangoric-srd/skills/Medicine|Medicine]] +12, [[rangoric-srd/skills/Mysticism|Mysticism]] +11, [[rangoric-srd/skills/Nature|Nature]] +11, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Performance|Performance]] (oratory) +5, [[rangoric-srd/skills/Society|Society]] +7
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Empower Spell|Empower Spell]], [[rangoric-srd/feats/Greater Spell Focus|Greater Spell Focus]] (evocation), [[rangoric-srd/feats/Natural Spell|Natural Spell]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (evocation), [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/humans/Human|Human]])

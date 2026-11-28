@@ -17,9 +17,9 @@ special-attacks: "Bardic performance 9 rounds/day (countersong, distraction, fas
 special-qualities: "Bardic knowledge +1, versatile performance (oratory)"
 defenses: "Fort 11, Ref 15, Will 12 (+4 vs. bardic performance, language-dependent, and sonic)"
 abilities: "Str 10, Dex 14, Con 12, Int 13, Wis 8, Cha 17"
-skills: "Deception +8, Imitation +10, Intimidation +8, Perception +4, Perform (act) +8, Perform (oratory) +11, Persuasion +11, Sense Motive +11, Sleight of Hand +7, Society +7, Stealth +6"
-skill-ranks: "Deception 2, Imitation 4, Intimidation 2, Perception 2, Perform (act) 4, Perform (oratory) 7, Persuasion 5, Sense Motive 9, Sleight of Hand 2, Society 3, Stealth 1"
-feats: "Dodge, Skill Focus (Perform [Oratory])"
+skills: "Deception +8, Imitation +10, Intimidation +8, Perception +4, Performance (act) +11, Performance (oratory) +14, Persuasion +11, Sense Motive +11, Sleight of Hand +7, Society +7, Stealth +6"
+skill-ranks: "Deception 2, Imitation 4, Intimidation 2, Perception 2, Performance (act) 4, Performance (oratory) 7, Persuasion 5, Sense Motive 9, Sleight of Hand 2, Society 3, Stealth 1"
+feats: "Dodge, Skill Focus (Performance [oratory])"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
 challenge-rating: 1
@@ -48,8 +48,8 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Bard|Bardic knowledge]] +1, [[rangoric-srd/classes/Bard#^bard-versatile-performance|versatile performance]] (oratory)
 - **Defenses**: Fort 11, Ref 15, Will 12 (+4 vs. bardic performance, language-dependent, and sonic)
 - **Abilities**: Str 10, Dex 14, Con 12, Int 13, Wis 8, Cha 17
-- **Skills**: [[rangoric-srd/skills/Deception|Deception]] +8, [[rangoric-srd/skills/Imitation|Imitation]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Perception|Perception]] +4, Perform (act) +8, Perform (oratory) +11, [[rangoric-srd/skills/Persuasion|Persuasion]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +7, [[rangoric-srd/skills/Society|Society]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +6
-- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perform \[Oratory\])
+- **Skills**: [[rangoric-srd/skills/Deception|Deception]] +8, [[rangoric-srd/skills/Imitation|Imitation]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Performance|Performance]] (act) +11, [[rangoric-srd/skills/Performance|Performance]] (oratory) +14, [[rangoric-srd/skills/Persuasion|Persuasion]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +7, [[rangoric-srd/skills/Society|Society]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +6
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Performance \[oratory\])
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/humans/Human|Human]])
 - **Challenge Rating**: 1

@@ -17,9 +17,9 @@ special-attacks: "Bardic performance 24 rounds/day (countersong, distraction, fa
 special-qualities: "Bardic knowledge +3, lore master 1/day, versatile performance (oratory, string)"
 defenses: "Fort 12, Ref 17, Will 14 (+4 vs. bardic performance, language-dependent, and sonic)"
 abilities: "Str 12, Dex 14, Con 10, Int 13, Wis 8, Cha 18"
-skills: "Acrobatics +10, Deception +18, Linguistics +5, Mysticism +10, Perception +8, Perform (oratory) +13, Perform (sing) +13, Perform (string) +18, Persuasion +18, Sense Motive +13, Sleight of Hand +11, Society +9, Stealth +10"
-skill-ranks: "Acrobatics 5, Deception 11, Linguistics 1, Mysticism 6, Perception 6, Perform (oratory) 9, Perform (sing) 9, Perform (string) 14, Persuasion 11, Sense Motive 11, Sleight of Hand 6, Society 5, Stealth 5"
-feats: "Extra Performance, Point Blank Shot, Precise Shot, Skill Focus (Perform [String])"
+skills: "Acrobatics +10, Deception +18, Linguistics +5, Mysticism +10, Perception +8, Performance (oratory) +16, Performance (sing) +16, Performance (string instruments) +21, Persuasion +18, Sense Motive +13, Sleight of Hand +11, Society +9, Stealth +10"
+skill-ranks: "Acrobatics 5, Deception 11, Linguistics 1, Mysticism 6, Perception 6, Performance (oratory) 9, Performance (sing) 9, Performance (string instruments) 14, Persuasion 11, Sense Motive 11, Sleight of Hand 6, Society 5, Stealth 5"
+feats: "Extra Performance, Point Blank Shot, Precise Shot, Skill Focus (Performance [string instruments])"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
 challenge-rating: 5
@@ -48,8 +48,8 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Bard|Bardic knowledge]] +3, [[rangoric-srd/classes/Bard#^bard-lore-master|lore master]] 1/day, [[rangoric-srd/classes/Bard#^bard-versatile-performance|versatile performance]] (oratory, string)
 - **Defenses**: Fort 12, Ref 17, Will 14 (+4 vs. bardic performance, language-dependent, and sonic)
 - **Abilities**: Str 12, Dex 14, Con 10, Int 13, Wis 8, Cha 18
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Deception|Deception]] +18, [[rangoric-srd/skills/Linguistics|Linguistics]] +5, [[rangoric-srd/skills/Mysticism|Mysticism]] +10, [[rangoric-srd/skills/Perception|Perception]] +8, Perform (oratory) +13, Perform (sing) +13, Perform (string) +18, [[rangoric-srd/skills/Persuasion|Persuasion]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +11, [[rangoric-srd/skills/Society|Society]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +10
-- **Feats**: [[rangoric-srd/feats/Extra Performance|Extra Performance]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perform \[String\])
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Deception|Deception]] +18, [[rangoric-srd/skills/Linguistics|Linguistics]] +5, [[rangoric-srd/skills/Mysticism|Mysticism]] +10, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Performance|Performance]] (oratory) +16, [[rangoric-srd/skills/Performance|Performance]] (sing) +16, [[rangoric-srd/skills/Performance|Performance]] (string instruments) +21, [[rangoric-srd/skills/Persuasion|Persuasion]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +11, [[rangoric-srd/skills/Society|Society]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +10
+- **Feats**: [[rangoric-srd/feats/Extra Performance|Extra Performance]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Performance \[string instruments\])
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/humans/Human|Human]])
 - **Challenge Rating**: 5

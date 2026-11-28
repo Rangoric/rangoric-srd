@@ -18,8 +18,8 @@ special-attacks: "—"
 special-qualities: "—"
 defenses: "Fort 14, Ref 14, Will 19"
 abilities: "Str 8, Dex 11, Con 10, Int 13, Wis 10, Cha 14"
-skills: "Appraise +10, Deception +14, Intimidation +12, Perception +2, Perform (wind) +8, Persuasion +17, Sense Motive +12, Society +16, Theology +7"
-skill-ranks: "Appraise 6, Deception 9, Intimidation 9, Perception 2, Perform (wind) 4, Persuasion 11, Sense Motive 9, Society 12, Theology 3"
+skills: "Appraise +10, Deception +14, Intimidation +12, Perception +2, Performance (wind instruments) +11, Persuasion +17, Sense Motive +12, Society +16, Theology +7"
+skill-ranks: "Appraise 6, Deception 9, Intimidation 9, Perception 2, Performance (wind instruments) 4, Persuasion 11, Sense Motive 9, Society 12, Theology 3"
 feats: "Combat Expertise, Fleet, Iron Will, Skill Focus (Knowledge [local], Persuasion)"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: —
 - **Defenses**: Fort 14, Ref 14, Will 19
 - **Abilities**: Str 8, Dex 11, Con 10, Int 13, Wis 10, Cha 14
-- **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +10, [[rangoric-srd/skills/Deception|Deception]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Perception|Perception]] +2, Perform (wind) +8, [[rangoric-srd/skills/Persuasion|Persuasion]] +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12, [[rangoric-srd/skills/Society|Society]] +16, [[rangoric-srd/skills/Theology|Theology]] +7
+- **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +10, [[rangoric-srd/skills/Deception|Deception]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Perception|Perception]] +2, [[rangoric-srd/skills/Performance|Performance]] (wind instruments) +11, [[rangoric-srd/skills/Persuasion|Persuasion]] +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12, [[rangoric-srd/skills/Society|Society]] +16, [[rangoric-srd/skills/Theology|Theology]] +7
 - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Fleet|Fleet]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Knowledge \[local\], Persuasion)
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/humans/Human|Human]])

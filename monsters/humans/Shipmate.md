@@ -17,9 +17,9 @@ special-attacks: "—"
 special-qualities: ""
 defenses: "Fort 13, Ref 11, Will 12"
 abilities: "Str 13, Dex 13, Con 12, Int 8, Wis 10, Cha 9"
-skills: "Acrobatics +5, Athletics +5, Craft (ships) +3, Fieldcraft +4, Perception +4, Profession (fisherman) +4, Profession (sailor) +8"
-skill-ranks: "Acrobatics 1, Athletics 1, Craft (ships) 1, Fieldcraft 1, Perception 1, Profession (fisherman) 2, Profession (sailor) 6"
-feats: "Dodge, Skill Focus (Profession [sailor])"
+skills: "Acrobatics +5, Athletics +5, Background (shipmaking) +3, Fieldcraft +4, Perception +4, Background (fisherman) +6, Background (sailor) +10"
+skill-ranks: "Acrobatics 1, Athletics 1, Background (shipmaking) 1, Fieldcraft 1, Perception 1, Background (fisherman) 2, Background (sailor) 6"
+feats: "Dodge, Skill Focus (Background [sailor])"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
 challenge-rating: "1/2"
@@ -48,8 +48,8 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**:
 - **Defenses**: Fort 13, Ref 11, Will 12
 - **Abilities**: Str 13, Dex 13, Con 12, Int 8, Wis 10, Cha 9
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Craft|Craft]] (ships) +3, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Profession|Profession]] (fisherman) +4, [[rangoric-srd/skills/Profession|Profession]] (sailor) +8
-- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Profession \[sailor\])
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Background|Background]] (shipmaking) +3, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Background|Background]] (fisherman) +6, [[rangoric-srd/skills/Background|Background]] (sailor) +10
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Background \[sailor\])
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/humans/Human|Human]])
 - **Challenge Rating**: 1/2
@@ -62,7 +62,7 @@ A shipmate is a [[rangoric-srd/monsters/humans/Human|human]] with 1 level of [[r
 
 Shipmates can be used as low-level marines, rivermen, bargefolk, or even swamp rats living in stilt-houses.
 
-Replacing a shipmate's Dodge feat with Athletic reduces his AC and CMD by 1, but increases his Climb and Swim skills by 2 each. Replacing his Profession (fisherman) skill with ranks in Linguistics or a Knowledge skill creates a sailor who has traveled the world and has knowledge of distant lands or languages.
+Replacing a shipmate's Dodge feat with Athletic reduces his AC and CMD by 1, but increases his Climb and Swim skills by 2 each. Replacing his Background (fisherman) skill with ranks in Linguistics or a Knowledge skill creates a sailor who has traveled the world and has knowledge of distant lands or languages.
 
 On board a ship, shipmates might serve as crew for a variety of characters: eight shipmates could work for an evil slaver (CR 6), a seagoing traveling merchant (CR 7), a marauding viking (CR 8), or a pirate captain and her first mate (CR 12).
 

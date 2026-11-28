@@ -18,8 +18,8 @@ special-attacks: "Intense spells (+6 damage)"
 special-qualities: "Arcane bond (ring of protection +1), immunity to fire (120 points), resistance to fire 30"
 defenses: "Fort 19, Ref 21, Will 22"
 abilities: "Str 10, Dex 14, Con 14, Int 22, Wis 9, Cha 12"
-skills: "Acrobatics +18, Arcana +21, Athletics +5, Craft (alchemy) +19, Engineering +19, Fieldcraft +4, Mysticism +19, Perception +12, Sense Motive +4, Society +14, Stealth +12, Theology +19"
-skill-ranks: "Acrobatics 13, Arcana 12, Athletics 2, Craft (alchemy) 10, Engineering 10, Fieldcraft 2, Mysticism 10, Perception 10, Sense Motive 2, Society 5, Stealth 7, Theology 10"
+skills: "Acrobatics +18, Arcana +21, Athletics +5, Background (alchemy) +19, Engineering +19, Fieldcraft +4, Mysticism +19, Perception +12, Sense Motive +4, Society +14, Stealth +12, Theology +19"
+skill-ranks: "Acrobatics 13, Arcana 12, Athletics 2, Background (alchemy) 10, Engineering 10, Fieldcraft 2, Mysticism 10, Perception 10, Sense Motive 2, Society 5, Stealth 7, Theology 10"
 feats: "Combat Casting, Craft Wondrous Item, Dodge, Greater Spell Focus (evocation), Improved Initiative, Iron Will, Lightning Reflexes, Maximize Spell, Point Blank Shot, Scribe Scroll, Spell Focus (evocation)"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Wizard#^wizard-arcane-bond|Arcane bond]] (ring of protection +1), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire (120 points), [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 30
 - **Defenses**: Fort 19, Ref 21, Will 22
 - **Abilities**: Str 10, Dex 14, Con 14, Int 22, Wis 9, Cha 12
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +18, [[rangoric-srd/skills/Arcana|Arcana]] +21, [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +19, [[rangoric-srd/skills/Engineering|Engineering]] +19, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Mysticism|Mysticism]] +19, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +4, [[rangoric-srd/skills/Society|Society]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +12, [[rangoric-srd/skills/Theology|Theology]] +19
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +18, [[rangoric-srd/skills/Arcana|Arcana]] +21, [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Background|Background]] (alchemy) +19, [[rangoric-srd/skills/Engineering|Engineering]] +19, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Mysticism|Mysticism]] +19, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +4, [[rangoric-srd/skills/Society|Society]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +12, [[rangoric-srd/skills/Theology|Theology]] +19
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Greater Spell Focus|Greater Spell Focus]] (evocation), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Maximize Spell|Maximize Spell]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (evocation)
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/humans/Human|Human]])

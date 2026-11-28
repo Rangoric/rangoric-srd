@@ -17,8 +17,8 @@ special-attacks: "—"
 special-qualities: "—"
 defenses: "Fort 11, Ref 11, Will 14"
 abilities: "Str 10, Dex 10, Con 11, Int 13, Wis 12, Cha 10"
-skills: "Animal Handling +5, Athletics +5, Medicine +10, Perception +8, Perform (sing) +5, Profession (midwife) +5, Sense Motive +5, Theology +5"
-skill-ranks: "Animal Handling 2, Athletics 2, Medicine 6, Perception 3, Perform (sing) 1, Profession (midwife) 1, Sense Motive 3, Theology 1"
+skills: "Animal Handling +5, Athletics +5, Medicine +10, Perception +8, Performance (sing) +5, Background (midwife) +5, Sense Motive +5, Theology +5"
+skill-ranks: "Animal Handling 2, Athletics 2, Medicine 6, Perception 3, Performance (sing) 1, Background (midwife) 1, Sense Motive 3, Theology 1"
 feats: "Endurance, Iron Will, Skill Focus (Medicine, Perception)"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: —
 - **Defenses**: Fort 11, Ref 11, Will 14
 - **Abilities**: Str 10, Dex 10, Con 11, Int 13, Wis 12, Cha 10
-- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Medicine|Medicine]] +10, [[rangoric-srd/skills/Perception|Perception]] +8, Perform (sing) +5, [[rangoric-srd/skills/Profession|Profession]] (midwife) +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Theology|Theology]] +5
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Medicine|Medicine]] +10, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Performance|Performance]] (sing) +5, [[rangoric-srd/skills/Background|Background]] (midwife) +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Theology|Theology]] +5
 - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Medicine, Perception)
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/humans/Human|Human]])

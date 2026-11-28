@@ -17,9 +17,9 @@ special-attacks: "—"
 special-qualities: ""
 defenses: "Fort 15, Ref 11, Will 16"
 abilities: "Str 9, Dex 11, Con 10, Int 12, Wis 14, Cha 10"
-skills: "Animal Handling +5, Deception +8, Intimidation +5, Linguistics +6, Perception +10, Perform (comedy) +6, Perform (oratory) +6, Profession (barkeep) +13, Sense Motive +10, Sleight of Hand +5, Society +9"
-skill-ranks: "Animal Handling 2, Deception 5, Intimidation 2, Linguistics 2, Perception 5, Perform (comedy) 2, Perform (oratory) 2, Profession (barkeep) 9, Sense Motive 5, Sleight of Hand 2, Society 5"
-feats: "Great Fortitude, Quick Draw, Rapid Reload, Skill Focus (Profession [barkeep])"
+skills: "Animal Handling +5, Deception +8, Intimidation +5, Linguistics +6, Perception +10, Performance (comedy) +6, Performance (oratory) +6, Background (barkeep) +15, Sense Motive +10, Sleight of Hand +5, Society +9"
+skill-ranks: "Animal Handling 2, Deception 5, Intimidation 2, Linguistics 2, Perception 5, Performance (comedy) 2, Performance (oratory) 2, Background (barkeep) 9, Sense Motive 5, Sleight of Hand 2, Society 5"
+feats: "Great Fortitude, Quick Draw, Rapid Reload, Skill Focus (Background [barkeep])"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
 challenge-rating: 3
@@ -48,8 +48,8 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**:
 - **Defenses**: Fort 15, Ref 11, Will 16
 - **Abilities**: Str 9, Dex 11, Con 10, Int 12, Wis 14, Cha 10
-- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Deception|Deception]] +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Linguistics|Linguistics]] +6, [[rangoric-srd/skills/Perception|Perception]] +10, Perform (comedy) +6, Perform (oratory) +6, [[rangoric-srd/skills/Profession|Profession]] (barkeep) +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +5, [[rangoric-srd/skills/Society|Society]] +9
-- **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Rapid Reload|Rapid Reload]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Profession \[barkeep\])
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Deception|Deception]] +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Linguistics|Linguistics]] +6, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Performance|Performance]] (comedy) +6, [[rangoric-srd/skills/Performance|Performance]] (oratory) +6, [[rangoric-srd/skills/Background|Background]] (barkeep) +15, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +5, [[rangoric-srd/skills/Society|Society]] +9
+- **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Rapid Reload|Rapid Reload]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Background \[barkeep\])
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/humans/Human|Human]])
 - **Challenge Rating**: 3
@@ -62,7 +62,7 @@ A barkeep is a [[rangoric-srd/monsters/humans/Human|human]] with 4 levels of [[r
 
 Barkeeps are used to trouble in their establishments, for drink often brings out the worst in their customers, and most barkeeps are used to facing down and intimidating drunks and bullies. For times when words fail, a good barkeep keeps a weapon beneath the bar, and is not afraid to use it.
 
-Changing a barkeep's Profession skill to (innkeep) creates an innkeeper, possibly with Diplomacy instead of Intimidate, and his Perform skills changed to other Profession skills, such as cook.
+Changing a barkeep's profession Background to innkeep creates an innkeeper, possibly with Diplomacy instead of Intimidate, and his Performance skills changed to other profession Backgrounds, such as cook.
 
 An average barkeep has four barmaids on staff, with two guards or street thugs working as bouncers (CR 6). A barkeep might also be found swapping stories over a pint with a shopkeep (CR 4) or guard officer (CR 5).
 

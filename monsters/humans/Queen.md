@@ -17,8 +17,8 @@ special-attacks: "—"
 special-qualities: "—"
 defenses: "Fort 16, Ref 17, Will 24"
 abilities: "Str 8, Dex 12, Con 10, Int 12, Wis 14, Cha 16"
-skills: "Animal Handling +6, Deception +14, Intimidation +18, Linguistics +5, Perception +21, Perform (dance) +9, Perform (sing) +9, Perform (string) +9, Persuasion +24, Sense Motive +23, Society +16"
-skill-ranks: "Animal Handling 2, Deception 8, Intimidation 16, Linguistics 1, Perception 14, Perform (dance) 5, Perform (sing) 5, Perform (string) 5, Persuasion 16, Sense Motive 22, Society 12"
+skills: "Animal Handling +6, Deception +14, Intimidation +18, Linguistics +5, Perception +21, Performance (dance) +12, Performance (sing) +12, Performance (string instruments) +12, Persuasion +24, Sense Motive +23, Society +16"
+skill-ranks: "Animal Handling 2, Deception 8, Intimidation 16, Linguistics 1, Perception 14, Performance (dance) 5, Performance (sing) 5, Performance (string instruments) 5, Persuasion 16, Sense Motive 22, Society 12"
 feats: "Defensive Combat Training, Improved Initiative, Improved Iron Will, Iron Will, Skill Focus (Perception, Persuasion, Sense Motive)"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: —
 - **Defenses**: Fort 16, Ref 17, Will 24
 - **Abilities**: Str 8, Dex 12, Con 10, Int 12, Wis 14, Cha 16
-- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Deception|Deception]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +18, [[rangoric-srd/skills/Linguistics|Linguistics]] +5, [[rangoric-srd/skills/Perception|Perception]] +21, Perform (dance) +9, Perform (sing) +9, Perform (string) +9, [[rangoric-srd/skills/Persuasion|Persuasion]] +24, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +23, [[rangoric-srd/skills/Society|Society]] +16
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Deception|Deception]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +18, [[rangoric-srd/skills/Linguistics|Linguistics]] +5, [[rangoric-srd/skills/Perception|Perception]] +21, [[rangoric-srd/skills/Performance|Performance]] (dance) +12, [[rangoric-srd/skills/Performance|Performance]] (sing) +12, [[rangoric-srd/skills/Performance|Performance]] (string instruments) +12, [[rangoric-srd/skills/Persuasion|Persuasion]] +24, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +23, [[rangoric-srd/skills/Society|Society]] +16
 - **Feats**: [[rangoric-srd/feats/Defensive Combat Training|Defensive Combat Training]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception, Persuasion, Sense Motive)
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/humans/Human|Human]])

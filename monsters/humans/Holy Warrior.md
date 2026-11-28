@@ -17,8 +17,8 @@ special-attacks: "Smite evil (3/day, +2 attack and AC, +7 damage), spell-like ab
 special-qualities: "Aura of courage (10 ft.), divine grace +2, aura of good, channel positive energy (+5 vs Will, 4d6), divine bond (weapon +1), lay on hands (3d6, 5/day), mercies (fatigued, dazed), immunity to disease and fear, special mount, remove disease 1/week"
 defenses: "Fort 18, Ref 17, Will 16"
 abilities: "Str 14, Dex 17, Con 12, Int 10, Wis 8, Cha 14"
-skills: "Animal Handling +10, Craft (armor) +4, Craft (weapons) +4, Medicine +4, Perception +4, Persuasion +6, Sense Motive +4, Society +4, Theology +4"
-skill-ranks: "Animal Handling 4, Craft (armor) 1, Craft (weapons) 1, Medicine 2, Perception 2, Persuasion 1, Sense Motive 2, Society 1, Theology 1"
+skills: "Animal Handling +10, Background (armorsmithing) +4, Background (weaponsmithing) +4, Medicine +4, Perception +4, Persuasion +6, Sense Motive +4, Society +4, Theology +4"
+skill-ranks: "Animal Handling 4, Background (armorsmithing) 1, Background (weaponsmithing) 1, Medicine 2, Perception 2, Persuasion 1, Sense Motive 2, Society 1, Theology 1"
 feats: "Deadly Aim, Manyshot, Point Blank Shot, Power Attack, Rapid Shot"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Paladin#^paladin-aura-of-courage|Aura of courage]] (10 ft.), [[rangoric-srd/classes/Paladin#^paladin-divine-grace|divine grace]] +2, [[rangoric-srd/classes/Paladin|aura of good]], [[rangoric-srd/classes/Paladin#^paladin-channel-positive-energy|channel positive energy]] (+5 vs Will, 4d6), [[rangoric-srd/classes/Paladin#^paladin-divine-bond|divine bond]] (weapon +1), [[rangoric-srd/classes/Paladin#^paladin-lay-on-hands|lay on hands]] (3d6, 5/day), [[rangoric-srd/classes/Paladin#^paladin-mercy|mercies]] ([[rangoric-srd/class-options/mercies/Fatigued (Mercy)|fatigued]], [[rangoric-srd/class-options/mercies/Dazed (Mercy)|dazed]]), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease and fear, [[rangoric-srd/classes/Paladin#^paladin-special-mount|special mount]], [[rangoric-srd/classes/Paladin#^paladin-remove-disease|remove disease]] 1/week
 - **Defenses**: Fort 18, Ref 17, Will 16
 - **Abilities**: Str 14, Dex 17, Con 12, Int 10, Wis 8, Cha 14
-- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +10, [[rangoric-srd/skills/Craft|Craft]] (armor) +4, [[rangoric-srd/skills/Craft|Craft]] (weapons) +4, [[rangoric-srd/skills/Medicine|Medicine]] +4, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Persuasion|Persuasion]] +6, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +4, [[rangoric-srd/skills/Society|Society]] +4, [[rangoric-srd/skills/Theology|Theology]] +4
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +10, [[rangoric-srd/skills/Background|Background]] (armorsmithing) +4, [[rangoric-srd/skills/Background|Background]] (weaponsmithing) +4, [[rangoric-srd/skills/Medicine|Medicine]] +4, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Persuasion|Persuasion]] +6, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +4, [[rangoric-srd/skills/Society|Society]] +4, [[rangoric-srd/skills/Theology|Theology]] +4
 - **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Manyshot|Manyshot]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]]
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/humans/Human|Human]])

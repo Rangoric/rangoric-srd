@@ -18,8 +18,8 @@ special-attacks: "—"
 special-qualities: "—"
 defenses: "Fort 11, Ref 12, Will 13"
 abilities: "Str 10, Dex 12, Con 10, Int 11, Wis 8, Cha 13"
-skills: "Animal Handling +5, Engineering +4, Fieldcraft +5, Linguistics +4, Perception +3, Perform (dance) +5, Persuasion +11, Sense Motive +4, Society +7, Theology +4"
-skill-ranks: "Animal Handling 1, Engineering 1, Fieldcraft 3, Linguistics 1, Perception 1, Perform (dance) 2, Persuasion 7, Sense Motive 2, Society 4, Theology 1"
+skills: "Animal Handling +5, Engineering +4, Fieldcraft +5, Linguistics +4, Perception +3, Performance (dance) +8, Persuasion +11, Sense Motive +4, Society +7, Theology +4"
+skill-ranks: "Animal Handling 1, Engineering 1, Fieldcraft 3, Linguistics 1, Perception 1, Performance (dance) 2, Persuasion 7, Sense Motive 2, Society 4, Theology 1"
 feats: "Lightning Reflexes, Skill Focus (Persuasion), Toughness"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: —
 - **Defenses**: Fort 11, Ref 12, Will 13
 - **Abilities**: Str 10, Dex 12, Con 10, Int 11, Wis 8, Cha 13
-- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Engineering|Engineering]] +4, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Linguistics|Linguistics]] +4, [[rangoric-srd/skills/Perception|Perception]] +3, Perform (dance) +5, [[rangoric-srd/skills/Persuasion|Persuasion]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +4, [[rangoric-srd/skills/Society|Society]] +7, [[rangoric-srd/skills/Theology|Theology]] +4
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Engineering|Engineering]] +4, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Linguistics|Linguistics]] +4, [[rangoric-srd/skills/Perception|Perception]] +3, [[rangoric-srd/skills/Performance|Performance]] (dance) +8, [[rangoric-srd/skills/Persuasion|Persuasion]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +4, [[rangoric-srd/skills/Society|Society]] +7, [[rangoric-srd/skills/Theology|Theology]] +4
 - **Feats**: [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Persuasion), [[rangoric-srd/feats/Toughness|Toughness]]
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/humans/Human|Human]])
