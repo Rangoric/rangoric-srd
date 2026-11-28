@@ -28,7 +28,7 @@ Alignment: Any chaotic.
 
 Level: Character level 5th.
 
-Skills: [[rangoric-srd/skills/Craft|Craft]] (alchemy) 1 rank, [[rangoric-srd/skills/Psionics (Skill)|Psionics]] 1 rank.
+Skills: [[rangoric-srd/skills/Background|Background]] (alchemy) 1 rank, [[rangoric-srd/skills/Psionics (Skill)|Psionics]] 1 rank.
 
 Psionics: Must have a power point reserve of at least 1 power point.
 

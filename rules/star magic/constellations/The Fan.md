@@ -30,10 +30,10 @@ _[[rangoric-srd/rules/star magic/Star Magic|Constellation]]_
 - **Casting Time**: 1 standard action
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature
-- **Duration**: 1 week or until its next Profession check
+- **Duration**: 1 week or until its next Background check with a profession
 - **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
-The target's next [[rangoric-srd/skills/Profession|Profession]] check for a week's work earns 1 gp per point of the check's result.
+The target's next [[rangoric-srd/skills/Background#Working at a Profession|Background]] check with a profession for a week's work earns 1 gp per point of the check's result.
 
 **Higher call levels**: Each call level above 3rd adds 5 sp per point of the result: at the 7th call level, the target earns 3 gp per point.

@@ -24,7 +24,7 @@ _Alignment:_ Lawful good.
 
 _Base Attack Bonus:_ +7.
 
-_Skills:_ [[rangoric-srd/skills/Craft|Craft]] (armorsmithing) or Craft (weaponsmithing) 7 ranks.
+_Skills:_ [[rangoric-srd/skills/Background|Background]] (armorsmithing) or Background (weaponsmithing) 7 ranks.
 
 _Feats:_ [[rangoric-srd/feats/Armor Proficiency (Heavy)|Armor Proficiency (heavy)]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (warhammer).
 
@@ -63,7 +63,7 @@ _Value:_ To any character other than a faith scion who meets the above requireme
 
 _Initial Abilities:_ When first acquired, the _Hammer of the Dwarffather_ functions as a +2 adamantine warhammer. Anyone who wields it, whether a faith scion or not, also benefits from the Craft bonus and lore of souls ability (see below).
 
-_Craft Bonus (Ex):_ The owner of the _Hammer of the Dwarffather_ gains a +5 insight bonus on all [[rangoric-srd/skills/Craft|Craft]] checks related to stone or metal.
+_Craft Bonus (Ex):_ The owner of the _Hammer of the Dwarffather_ gains a +5 insight bonus on all [[rangoric-srd/skills/Background#Making Things|Background]] checks to make things related to stone or metal.
 
 This bonus increases by an additional +1 for every faith scion class level gained, including 1st level.
 

@@ -138,7 +138,7 @@ Magic items, unless otherwise noted, take damage as nonmagical items of the same
 
 ##### Repairing Magic Items
 
-Some magic items take damage over the course of an adventure. It costs no more to repair a magic item with the Craft skill than it does to repair its nonmagical counterpart. The make whole spell also repairs a damaged—but not completely broken—magic item.
+Some magic items take damage over the course of an adventure. It costs no more to repair a magic item with the craft Background than it does to repair its nonmagical counterpart. The make whole spell also repairs a damaged—but not completely broken—magic item.
 
 ##### Intelligent Items
 

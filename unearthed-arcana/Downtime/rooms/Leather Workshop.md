@@ -19,4 +19,4 @@ tags: [rangoric, rangoric/downtime-room]
 - **Time**: 16 days
 - **Size**: 4-10 squares
 
-This workshop includes a sturdy table, stool, vats, drying racks, and tools designed for turning raw hides into leather. The Leather Workshop counts as masterwork artisan's tools for up to three people creating leather goods with skills such as [[rangoric-srd/skills/Craft|Craft]] (leather) and [[rangoric-srd/skills/Craft|Craft]] (shoes).
+This workshop includes a sturdy table, stool, vats, drying racks, and tools designed for turning raw hides into leather. The Leather Workshop counts as masterwork artisan's tools for up to three people creating leather goods with skills such as [[rangoric-srd/skills/Background|Background]] (leatherworking) and [[rangoric-srd/skills/Background|Background]] (cobbling).

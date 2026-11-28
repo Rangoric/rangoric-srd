@@ -10,7 +10,7 @@ tags: [rangoric, rangoric/skill, core]
 
 # Engineering
 
-Engineering covers how mechanical things work: traps, locks and their workings, clockwork, [[rangoric-srd/rules/Siege Engines|siege engines]], and how to jam, rig or take them apart. It took in Disable Device and the engineering half of Knowledge (architecture and engineering). Picking a lock is [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]]; building a trap or siege engine is [[rangoric-srd/skills/Craft|Craft]]; buildings and other structures are Dungeoneering.
+Engineering covers how mechanical things work: traps, locks and their workings, clockwork, [[rangoric-srd/rules/Siege Engines|siege engines]], and how to jam, rig or take them apart. It took in Disable Device and the engineering half of Knowledge (architecture and engineering). Picking a lock is [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]]; building a trap or siege engine is [[rangoric-srd/skills/Background#Making Things|Background]]; buildings and other structures are Dungeoneering.
 
 ## Mechanisms
 

@@ -3,7 +3,7 @@ srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Armor Special Ability"
 caster-level: 7
-prerequisites: "9 ranks in Craft (armorsmithing), stoneskin"
+prerequisites: "9 ranks in Background (armorsmithing), stoneskin"
 price: "+500 gp per application for light armor, +1,000 gp for medium armor, +2,000 gp for heavy armor"
 status: draft
 pi-review: 2026-11-11
@@ -16,4 +16,4 @@ Armor with this quality gains a +2 bonus versus a specific type of special quali
 
 _Example:_ A fighter wants to make his plate armor more resistant to vorpal weapons. He has a suit of full plate armor created that has been hardened three times versus slashing attacks. If he’s subjected to a critical hit by a vorpal blade while wearing his new armor, he now gets a +10 bonus (+4 for his armor and +6 from hardening) to his defense against the effects (an attack at +5). Versus a piercing or bludgeoning weapon, he would only have a +4 bonus to that defense.
 
-CL 7th; 9 ranks in [[rangoric-srd/skills/Craft|Craft]] (armorsmithing), _[[rangoric-srd/spells/Stoneskin|stoneskin]]_; Price +500 gp per application for light armor, +1,000 gp for medium armor, +2,000 gp for heavy armor.
+CL 7th; 9 ranks in [[rangoric-srd/skills/Background|Background]] (armorsmithing), _[[rangoric-srd/spells/Stoneskin|stoneskin]]_; Price +500 gp per application for light armor, +1,000 gp for medium armor, +2,000 gp for heavy armor.

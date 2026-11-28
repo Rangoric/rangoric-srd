@@ -318,7 +318,7 @@ Prerequisites: Divine rank 6, Int 29.
 
 Benefit: As a full-round action, the deity can create one or more simple, nonmagical objects with a total weight of up to 50 pounds per divine rank, or with a total volume of 10 cubic feet per rank. If the deity uses this ability on a divinely morphic plane or within its own godly realm, double the volume and weight the deity can create. If the deity’s realm is located on a divinely morphic plane, triple the volume and weight the deity can create there.
 
-Notes: For purposes of this ability, a simple object can have no moving parts more complex than a door hinge and must be composed of a single material. The material can be no more valuable than iron (1 sp per pound). Once created, the objects are permanent and nonmagical. If the deity has the appropriate [[rangoric-srd/skills/Craft|Craft]] skill, the deity can make a Craft check when creating the item to make it a masterwork item.
+Notes: For purposes of this ability, a simple object can have no moving parts more complex than a door hinge and must be composed of a single material. The material can be no more valuable than iron (1 sp per pound). Once created, the objects are permanent and nonmagical. If the deity has the appropriate craft [[rangoric-srd/skills/Background#Making Things|Background]], the deity can make a Background check to make things when creating the item to make it a masterwork item.
 
 Suggested Portfolio Elements: Crafts, creation.
 
@@ -981,7 +981,7 @@ Suggested Portfolio Elements: Death, supreme.
 
 ##### Master Crafter
 
-Prerequisites: 20 ranks in two different [[rangoric-srd/skills/Craft|Craft]] skills.
+Prerequisites: 20 ranks in two different craft [[rangoric-srd/skills/Background#Making Things|Background]]s.
 
 Benefit: Any object the deity creates is treated as a masterwork item, but uses the base item price (not the masterwork price) to determine time and cost required to create it. Any item the deity creates also has twice the hit points it would normally have, and its break DC is increased by +10. These benefits apply to walls, doors, and other components of buildings the deity creates, as well as smaller items.
 

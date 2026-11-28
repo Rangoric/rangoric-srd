@@ -15,8 +15,8 @@ tags: [rangoric, rangoric/downtime-room]
 
 - **Create**: 8 Goods, 7 Labor (300 gp)
 - **Earnings**: gp, Goods, or Influence +8
-- **Benefit**: counts as masterwork artisan's tools for one [[rangoric-srd/skills/Craft|Craft]] or [[rangoric-srd/skills/Profession|Profession]] skill
+- **Benefit**: counts as masterwork artisan's tools for one craft or profession [[rangoric-srd/skills/Background|Background]]
 - **Time**: 16 days
 - **Size**: 8-16 squares
 
-This includes a table, chair, and appropriate masterwork artisan's tools for one [[rangoric-srd/skills/Craft|Craft]] or [[rangoric-srd/skills/Profession|Profession]] skill you choose when you build the room. For example, if intended for a carpenter, it has clamps, saws, nails, hammers, and a sturdy worktable. Up to three people can use the room at a time.
+This includes a table, chair, and appropriate masterwork artisan's tools for one craft or profession [[rangoric-srd/skills/Background|Background]] you choose when you build the room. For example, if intended for a carpenter, it has clamps, saws, nails, hammers, and a sturdy worktable. Up to three people can use the room at a time.

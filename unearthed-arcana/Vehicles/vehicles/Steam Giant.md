@@ -15,7 +15,7 @@ cmb: "+4"
 cmd: "14"
 ramming-damage: "4d8"
 propulsion: "alchemical (10 squares of alchemical engines; hardness 8, hp 200)"
-driving-check: "Arcana or Craft (alchemy) +10 to the DC"
+driving-check: "Arcana or Background (alchemy) +10 to the DC"
 forward-facing: "one side of the square vehicle space"
 driving-device: "two levers used to move the legs"
 driving-space: "a single 5-ft.-by-5-ft. square that contains the two levers that serve as the steam giant's driving device; these levers are located on the third (top) deck of the vehicle"
@@ -45,7 +45,7 @@ tags: [rangoric, rangoric/vehicle]
 - **CMD**: 14
 - **Ramming damage**: 4d8
 - **Propulsion**: alchemical (10 squares of alchemical engines; hardness 8, hp 200)
-- **Driving check**: [[rangoric-srd/skills/Arcana|Arcana]] or [[rangoric-srd/skills/Craft|Craft]] (alchemy) +10 to the DC
+- **Driving check**: [[rangoric-srd/skills/Arcana|Arcana]] or [[rangoric-srd/skills/Background|Background]] (alchemy) +10 to the DC
 - **Forward facing**: one side of the square vehicle space
 - **Driving device**: two levers used to move the legs
 - **Driving space**: a single 5-ft.-by-5-ft. square that contains the two levers that serve as the steam giant's driving device; these levers are located on the third (top) deck of the vehicle

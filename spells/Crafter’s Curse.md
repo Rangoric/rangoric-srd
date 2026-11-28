@@ -35,4 +35,4 @@ _Transmutation \[Curse\]_
 - **Defense**: Will
 - **Spell Resistance**: Yes
 
-The target of _crafter's curse_ takes a –5 penalty on all Craft skill checks while the spell lasts.
+The target of _crafter's curse_ takes a –5 penalty on all craft Background checks while the spell lasts.

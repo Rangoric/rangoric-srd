@@ -1,7 +1,7 @@
 ---
 srd-type: "feat"
 section: "Feats"
-prerequisites: "Character level 3rd, Skill Focus (Craft (alchemy) or Profession (herbalist)), any one item creation feat."
+prerequisites: "Character level 3rd, Skill Focus (Background (alchemy) or Background (herbalist)), any one item creation feat."
 status: draft
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, item-creation]
@@ -9,7 +9,7 @@ tags: [rangoric, rangoric/feat, item-creation]
 
 # Crisis Creation
 
-**Prerequisites**: Character level 3rd, [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Craft (alchemy) or Profession (herbalist)), any one [[rangoric-srd/feats/Feats Overview#Item Creation Feats|item creation feat]].
+**Prerequisites**: Character level 3rd, [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Background (alchemy) or Background (herbalist)), any one [[rangoric-srd/feats/Feats Overview#Item Creation Feats|item creation feat]].
 
 **Benefit**: You have the ability to create items in an emergency. This can be used in either of two ways:
 

@@ -11,4 +11,4 @@ tags: [rangoric, rangoric/trait]
 
 **Category**: [[rangoric-srd/traits/Character Traits#Social Traits|social trait]].
 
-You were trained to harvest all parts of an animal with care and precision. You gain a +1 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] on [[rangoric-srd/skills/Profession|Profession]] (tanner) or Profession (trapper) checks, and you may make these checks as if you were trained in the skill even if you have no ranks. Additionally, you do not risk poisoning yourself whenever you handle or apply poison taken from a venomous creature.
+You were trained to harvest all parts of an animal with care and precision. You gain a +1 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] on [[rangoric-srd/skills/Background|Background]] (tanner) or Background (trapper) checks, and you may make these checks as if you were trained in the skill even if you have no ranks. Additionally, you do not risk poisoning yourself whenever you handle or apply poison taken from a venomous creature.

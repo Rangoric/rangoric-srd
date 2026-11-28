@@ -4,7 +4,7 @@ section: "Magic Items"
 item-type: "Specific Weapon"
 aura: "Moderate transmutation"
 caster-level: 7
-prerequisites: "Craft Magic Arms and Armor, magic weapon, creator must have 5 ranks in Craft (weapons)"
+prerequisites: "Craft Magic Arms and Armor, magic weapon, creator must have 5 ranks in Background (weaponsmithing)"
 price: "7,320 gp"
 cost: "3,820 gp"
 status: draft
@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This +1 rapier has the nondescript, clean lines of a practice foil. The wielder can spend 1 [[rangoric-srd/classes/Swashbuckler#^swashbuckler-panache|panache]] point as a swift action to give the rapier the _[[rangoric-srd/magic-items/weapon-abilities/Bane (Weapon Special Ability)|bane]]_ special ability for 1 round, and can pick any subtype of humanoids as the designated foe.
 
-Moderate transmutation; CL 7th; Craft Magic Arms and Armor, _[[rangoric-srd/spells/Magic Weapon|magic weapon]]_, creator must have 5 ranks in [[rangoric-srd/skills/Craft|Craft]] (weapons); Price 7,320 gp; Cost 3,820 gp.
+Moderate transmutation; CL 7th; Craft Magic Arms and Armor, _[[rangoric-srd/spells/Magic Weapon|magic weapon]]_, creator must have 5 ranks in [[rangoric-srd/skills/Background|Background]] (weaponsmithing); Price 7,320 gp; Cost 3,820 gp.

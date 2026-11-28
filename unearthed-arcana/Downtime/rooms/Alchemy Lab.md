@@ -19,4 +19,4 @@ tags: [rangoric, rangoric/downtime-room]
 - **Time**: 16 days
 - **Size**: 8-16 squares
 
-This room aids you when you're attempting [[rangoric-srd/skills/Craft|Craft]] (alchemy) checks, researching new alchemist formulae, and performing similar alchemical tasks. Up to three people can use the room at a time.
+This room aids you when you're attempting [[rangoric-srd/skills/Background|Background]] (alchemy) checks, researching new alchemist formulae, and performing similar alchemical tasks. Up to three people can use the room at a time.

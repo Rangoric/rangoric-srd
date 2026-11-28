@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/magic-item]
 
 # Engineer's Workgloves
 
-These durable canvas and leather gloves imbue the wearer with an instinctive knowledge of mechanical devices. The wearer also gains a +5 competence bonus on [[rangoric-srd/skills/Craft|Craft]] and [[rangoric-srd/skills/Engineering|Engineering]] checks made to repair or understand mechanical devices.
+These durable canvas and leather gloves imbue the wearer with an instinctive knowledge of mechanical devices. The wearer also gains a +5 competence bonus on [[rangoric-srd/skills/Background#Making Things|Background]] and [[rangoric-srd/skills/Engineering|Engineering]] checks made to repair or understand mechanical devices.
 
 Once per day, the wearer may touch a device and instantly analyze it, learning its purpose and general method of operation, as well as diagnosing any acute malfunctions of the device, but not its magical powers or additional non-mechanical effects. For example, she could touch a pressure plate and understand that stepping on it would trigger a wall scythe trap attacking that square and that the trap resets automatically, but not that the trap includes a _+1 flaming scythe_ coated in poison.
 

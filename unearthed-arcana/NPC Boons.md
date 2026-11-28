@@ -34,7 +34,7 @@ While users of divine magic are often regarded simply as healers, their wisdom a
 
 **Skill**: Favorable introductions to contacts in a local church, providing a PC a +2 bonus on [[rangoric-srd/skills/Persuasion|Persuasion]] checks made to influence members of that specific church.
 
-**Skill**: Proves especially knowledgeable in mysterious alchemical techniques, granting a PC a +4 bonus on one [[rangoric-srd/skills/Craft|Craft]] (alchemy) check made to create an alchemical item.
+**Skill**: Proves especially knowledgeable in mysterious alchemical techniques, granting a PC a +4 bonus on one [[rangoric-srd/skills/Background|Background]] (alchemy) check made to create an alchemical item.
 
 **Unique**: Can brew 4 unique potions that instantly heal the disease filth fever.
 
@@ -62,9 +62,9 @@ Although not usual famous or wealthy, commoners have a wide variety of skills an
 
 **Favor**: Provides room and prepares an elaborate feast in a PC's honor.
 
-**Favor**: Provides a 50% discount on a high quality, non-magical item made using one of his Craft skills.
+**Favor**: Provides a 50% discount on a high quality, non-magical item made using one of his craft Backgrounds.
 
-**Skill**: Freely uses his highest [[rangoric-srd/skills/Craft|Craft]] or [[rangoric-srd/skills/Profession|Profession]] skill for the PC for a month of service (perhaps crewing a vehicle or ship, tending to a rare plant, or training an animal) .
+**Skill**: Freely uses his highest craft or profession [[rangoric-srd/skills/Background|Background]] for the PC for a month of service (perhaps crewing a vehicle or ship, tending to a rare plant, or training an animal) .
 
 **Skill**: Shares rural remedies, granting the PC a +2 bonus when using [[rangoric-srd/skills/Medicine|Medicine]] to treat diseases.
 
@@ -80,9 +80,9 @@ Skilled craftsmen, professionals, and learned members of society regularly have 
 
 **Favor**: Can find a seller to buy any non-magic item or a buyer for any magic item.
 
-**Skill**: Grants access to an exceptionally well outfitted workspace, granting a PC a +4 bonus on a specific [[rangoric-srd/skills/Craft|Craft]] or [[rangoric-srd/skills/Profession|Profession]] check.
+**Skill**: Grants access to an exceptionally well outfitted workspace, granting a PC a +4 bonus on a specific [[rangoric-srd/skills/Background|Background]] check with a craft or profession.
 
-**Skill**: Teaches a PC a trick of the trade, granting a perpetual +1 bonus on one [[rangoric-srd/skills/Craft|Craft]] or [[rangoric-srd/skills/Profession|Profession]] check that the PC and expert share.
+**Skill**: Teaches a PC a trick of the trade, granting a perpetual +1 bonus on one [[rangoric-srd/skills/Background|Background]] check with a craft or profession that the PC and expert share.
 
 **Unique**: Obtains membership in a regional guild, providing a PC with a 10% discount on a certain kind of goods in a wide region.
 

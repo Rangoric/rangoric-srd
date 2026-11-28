@@ -30,7 +30,7 @@ Knowing about a kind of magic (its traditions, its history, the creatures tied t
 | 20               | Draw a diagram to allow dimensional anchor to be cast on a magic circle spell. Requires 10 minutes. No retry. This check is made secretly so you do not know the result.                                               |
 | 30 or higher     | Understand a strange or unique magical effect, such as the effects of a magic stream. Time required varies. No retry.                                                                                                  |
 
-Learning a spell from a spellbook or scroll, and preparing a spell from a borrowed spellbook, are checks of caster level + Int instead; see [[rangoric-srd/spells/Arcane Magic#Adding Spells to a Wizard’s Spellbook|Arcane Magic]]. Mysticism’s unlocks make them faster. Quick identification of alchemical substances and potions is [[rangoric-srd/skills/Craft|Craft]] (alchemy).
+Learning a spell from a spellbook or scroll, and preparing a spell from a borrowed spellbook, are checks of caster level + Int instead; see [[rangoric-srd/spells/Arcane Magic#Adding Spells to a Wizard’s Spellbook|Arcane Magic]]. Mysticism’s unlocks make them faster. Quick identification of alchemical substances and potions is [[rangoric-srd/skills/Background|Background]] (alchemy).
 
 **Epic Spells**: Casting an epic spell takes a Mysticism check against the spell’s Casting DC; see [[rangoric-srd/epic/Developing Epic Spells|Developing Epic Spells]].
 

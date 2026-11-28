@@ -16,6 +16,6 @@ Learning two related skills enhances your abilities to use both skills more effe
 
 **Pairings**: Some pairs of skills give a perk as well as the bonus.
 
-- **Craft (alchemy) and Profession (brewer)**: You add +1 to the DC of any [[rangoric-srd/rules/Afflictions#^ingested-poison|ingested poison]] you create.
+- **Background (alchemy) and Background (brewer)**: You add +1 to the DC of any [[rangoric-srd/rules/Afflictions#^ingested-poison|ingested poison]] you create.
 
 This feat is part of [[rangoric-srd/rules/alchemy-and-herbalism/Alchemy and Herbalism|alchemy and herbalism]].

@@ -13,8 +13,8 @@ tags: [rangoric, rangoric/trait]
 
 You have a knack for one kind of work or study, but other tasks are harder for you to accomplish.
 
-**Benefit:** Choose one specific [[rangoric-srd/skills/Craft|Craft]], [[rangoric-srd/skills/Knowledge|Knowledge]], or [[rangoric-srd/skills/Profession|Profession]] skill. You gain a +1 bonus on checks using the specified skill.
+**Benefit:** Choose one specific craft or profession [[rangoric-srd/skills/Background|Background]], or one [[rangoric-srd/skills/Knowledge|Knowledge]] skill. You gain a +1 bonus on checks using the specified skill.
 
-**Drawback:** You take a -2 penalty on all other checks using the same skill ([[rangoric-srd/skills/Craft|Craft]], [[rangoric-srd/skills/Knowledge|Knowledge]], or [[rangoric-srd/skills/Profession|Profession]], based on the skill chosen).
+**Drawback:** You take a -2 penalty on all other checks using the same skill ([[rangoric-srd/skills/Background|Background]] or [[rangoric-srd/skills/Knowledge|Knowledge]], based on the skill chosen).
 
 **Roleplaying Ideas:** Characters with this trait often see themselves as elite artists or experts rather than mere professionals, and they might regard their chosen vocation or study as more useful or interesting than other tasks.

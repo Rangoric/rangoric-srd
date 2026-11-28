@@ -33,4 +33,4 @@ _Illusion (Figment) \[Mind-Affecting\]_
 - **Defense**: Will
 - **Spell Resistance**: Yes
 
-This spell functions as the _major creation spell_, except as noted above and the object created is a semi-real phantasm. The object attacks the Will of any creature that interacts with it, and a miss causes the object to cease to exist. A gnome casting this spell may make a Mysticism check in place of any Craft check required to make a complex item.
+This spell functions as the _major creation spell_, except as noted above and the object created is a semi-real phantasm. The object attacks the Will of any creature that interacts with it, and a miss causes the object to cease to exist. A gnome casting this spell may make a Mysticism check in place of any Background check to make things required to make a complex item.

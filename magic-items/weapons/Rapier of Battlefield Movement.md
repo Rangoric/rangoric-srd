@@ -4,7 +4,7 @@ section: "Magic Items"
 item-type: "Specific Weapon"
 aura: "Moderate transmutation"
 caster-level: 7
-prerequisites: "Craft Magic Arms and Armor, freedom of movement, creator must have 10 ranks in Craft (weapons)"
+prerequisites: "Craft Magic Arms and Armor, freedom of movement, creator must have 10 ranks in Background (weaponsmithing)"
 price: "30,320 gp"
 cost: "15,350 gp"
 status: draft
@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This _+2 rapier_ has elegant lines and a stylish basket hilt. The wielder of this weapon gains a +5 competence bonus on [[rangoric-srd/skills/Acrobatics|Acrobatics]] checks made to move through an enemy's threatened area or through its space. As a swift action after hitting with a melee attack using this weapon, the wielder can spend 1 [[rangoric-srd/classes/Swashbuckler#^swashbuckler-panache|panache]] point to move 10 feet without provoking attacks of opportunity.
 
-Moderate transmutation; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]_, creator must have 10 ranks in Craft (weapons); Price 30,320 gp; Cost 15,350 gp.
+Moderate transmutation; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]_, creator must have 10 ranks in Background (weaponsmithing); Price 30,320 gp; Cost 15,350 gp.

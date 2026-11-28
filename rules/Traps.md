@@ -8,7 +8,7 @@ tags: [rangoric, rangoric/overview]
 
 ## Traps
 
-**Types of Traps**: A trap can be either mechanical or magic in nature. Mechanical traps include pits, arrow traps, falling blocks, water-filled rooms, whirling blades, and anything else that depends on a mechanism to operate. A mechanical trap can be constructed by a PC through successful use of the [[rangoric-srd/skills/Craft|Craft]] (trapmaking) skill (see Designing a Trap, below, and the skill description).
+**Types of Traps**: A trap can be either mechanical or magic in nature. Mechanical traps include pits, arrow traps, falling blocks, water-filled rooms, whirling blades, and anything else that depends on a mechanism to operate. A mechanical trap can be constructed by a PC through successful use of the [[rangoric-srd/skills/Background|Background]] (trapmaking) skill (see Designing a Trap, below, and the skill description).
 
 Magic traps are further divided into spell traps and magic device traps. Magic device traps initiate spell effects when activated, just as wands, rods, rings, and other magic items do. Creating a magic device trap requires the [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]] feat (see Designing a Trap and the feat description).
 
@@ -84,7 +84,7 @@ A reset element is the set of conditions under which a trap becomes ready to tri
 
 ###### Repairing and Resetting Mechanical Traps
 
-Repairing a mechanical trap requires a [[rangoric-srd/skills/Craft|Craft]] (trapmaking) check against a DC equal to the one for building it. The cost for raw materials is one-fifth of the trap’s original market price. To calculate how long it takes to fix a trap, use the same calculations you would for building it, but use the cost of the raw materials required for repair in place of the market price.
+Repairing a mechanical trap requires a [[rangoric-srd/skills/Background|Background]] (trapmaking) check against a DC equal to the one for building it. The cost for raw materials is one-fifth of the trap’s original market price. To calculate how long it takes to fix a trap, use the same calculations you would for building it, but use the cost of the raw materials required for repair in place of the market price.
 
 Resetting a trap usually takes only a minute or so. For a trap with a more difficult reset method, you should set the time and labor required.
 
@@ -496,7 +496,7 @@ Its curse, as an [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictio
 
 ##### Designing a Trap
 
-**Mechanical Traps**: Simply select the elements you want the trap to have and add up the adjustments to the trap’s Challenge Rating that those elements require (see Table: CR Modifiers for Mechanical Traps) to arrive at the trap’s final CR. From the CR you can derive the DC of the [[rangoric-srd/skills/Craft|Craft]] (trapmaking) checks a character must make to construct the trap.
+**Mechanical Traps**: Simply select the elements you want the trap to have and add up the adjustments to the trap’s Challenge Rating that those elements require (see Table: CR Modifiers for Mechanical Traps) to arrive at the trap’s final CR. From the CR you can derive the DC of the [[rangoric-srd/skills/Background|Background]] (trapmaking) checks a character must make to construct the trap.
 
 **Magic Traps**: As with mechanical traps, you don’t have to do anything other than decide what elements you want and then determine the CR of the resulting trap (see Table: CR Modifiers for Magic Traps). If a player character wants to design and construct a magic trap, he must have the [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]] feat. In addition, he must be able to cast the spell or spells that the trap requires—or, failing that, he must be able to hire an NPC to cast the spells for him.
 
@@ -657,19 +657,19 @@ A magic device trap takes one day to construct per 500 gp of its cost.
 
 A spell trap has a cost only if the builder must hire an NPC spellcaster to cast it.
 
-###### Craft DCs for Mechanical Traps
+###### Making DCs for Mechanical Traps
 
-Once you know the Challenge Rating of a trap determine the [[rangoric-srd/skills/Craft|Craft]] (trapmaking) DC by referring to the table and the modifiers given below.
+Once you know the Challenge Rating of a trap determine the [[rangoric-srd/skills/Background|Background]] (trapmaking) DC by referring to the table and the modifiers given below.
 
-| Trap CR | Base Craft (Trapmaking) DC |
-| ------- | -------------------------- |
-| 1–3     | 20                         |
-| 4–6     | 25                         |
-| 7–10    | 30                         |
+| Trap CR | Base Background (trapmaking) DC |
+| ------- | ------------------------------- |
+| 1–3     | 20                              |
+| 4–6     | 25                              |
+| 7–10    | 30                              |
 
-| Additional Components | Modifier to Craft (Trapmaking) DC |
-| --------------------- | --------------------------------- |
-| Proximity trigger     | +5                                |
-| Automatic reset       | +5                                |
+| Additional Components | Modifier to Background (trapmaking) DC |
+| --------------------- | -------------------------------------- |
+| Proximity trigger     | +5                                     |
+| Automatic reset       | +5                                     |
 
-**Making the Checks**: To determine how much progress a character makes on building a trap each week, that character makes a Craft (trapmaking) check. See the Craft skill description for details on Craft checks and the circumstances that can affect them.
+**Making the Checks**: To determine how much progress a character makes on building a trap each week, that character makes a Background (trapmaking) check. See [[rangoric-srd/skills/Background#Making Things|Background]] for details on making things and the circumstances that can affect them.

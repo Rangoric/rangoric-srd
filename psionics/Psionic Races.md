@@ -40,7 +40,7 @@ tags: [rangoric, rangoric/overview]
 
 ### Duergar
 
-The psionic duergar is the psionic version of the [[rangoric-srd/races/Duergar|duergar]] race, which has the duergar's racial traits. It differs from the race in these ways: psi-like abilities and Naturally Psionic in place of the spell-like abilities; stonecunning, a dodge bonus against giants, and bonuses on Appraise and Craft checks related to stone or metal; a +1 racial bonus on Perception; no +2 Wisdom; and no Aklo among its bonus languages.
+The psionic duergar is the psionic version of the [[rangoric-srd/races/Duergar|duergar]] race, which has the duergar's racial traits. It differs from the race in these ways: psi-like abilities and Naturally Psionic in place of the spell-like abilities; stonecunning, a dodge bonus against giants, and bonuses on Appraise and Background checks to make things related to stone or metal; a +1 racial bonus on Perception; no +2 Wisdom; and no Aklo among its bonus languages.
 
 - \+2 Constitution, -4 Charisma
 
@@ -73,7 +73,7 @@ The psionic duergar is the psionic version of the [[rangoric-srd/races/Duergar|d
 
 ^duergar-light-sensitivity
 
-- Duergar have a +4 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks and a +1 racial bonus on [[rangoric-srd/skills/Perception|Perception]]checks. They have a +2 racial bonus on [[rangoric-srd/skills/Appraise|Appraise]] and [[rangoric-srd/skills/Craft|Craft]] checks that are related to stone or metal.
+- Duergar have a +4 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks and a +1 racial bonus on [[rangoric-srd/skills/Perception|Perception]]checks. They have a +2 racial bonus on [[rangoric-srd/skills/Appraise|Appraise]] and [[rangoric-srd/skills/Background#Making Things|Background]] checks to make things that are related to stone or metal.
 
 - Automatic Languages: Common, Dwarven, Undercommon. Bonus Languages: Draconic, Giant, Goblin, Orc, Terran.
 

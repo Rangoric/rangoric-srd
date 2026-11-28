@@ -69,7 +69,7 @@ Applying poison to a weapon or a single piece of ammunition is a standard action
 
 ### Making Poison
 
-A poison can be made with [[rangoric-srd/skills/Craft|Craft]] (alchemy). The DC to make a poison is 10 + its attack bonus. Making a poison as a potion adds +10 to the DC. Rolling a natural 1 on the check while making a poison exposes the crafter to it (this doesn’t use up the poison), unless the crafter has poison use. Which poisons alchemists and herbalists can make with their skills, and the [[rangoric-srd/feats/Craft Toxins|Craft Toxins]] feat for the rest, are in [[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Toxins|toxins]]. ^making-poison
+A poison can be made with [[rangoric-srd/skills/Background|Background]] (alchemy). The DC to make a poison is 10 + its attack bonus. Making a poison as a potion adds +10 to the DC. Rolling a natural 1 on the check while making a poison exposes the crafter to it (this doesn’t use up the poison), unless the crafter has poison use. Which poisons alchemists and herbalists can make with their skills, and the [[rangoric-srd/feats/Craft Toxins|Craft Toxins]] feat for the rest, are in [[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Toxins|toxins]]. ^making-poison
 
 ### Poison Immunities
 
@@ -95,7 +95,7 @@ Each drug is given in these lines:
 - **Effect**: How long the drug lasts, and what it does.
 - **Damage**: The ability damage it deals.
 
-**Making Drugs**: A drug can be made with [[rangoric-srd/skills/Craft|Craft]] (alchemy). The DC to make a drug is 10 + its addiction attack bonus. Rolling a natural 1 on the check while making a drug exposes the crafter to it. ^making-drugs
+**Making Drugs**: A drug can be made with [[rangoric-srd/skills/Background|Background]] (alchemy). The DC to make a drug is 10 + its addiction attack bonus. Rolling a natural 1 on the check while making a drug exposes the crafter to it. ^making-drugs
 
 **Drunkenness**: Alcohol can be abused too. A character can drink a number of alcoholic drinks equal to 1 + twice his Constitution modifier; each drink past that leaves him [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1 hour. Particularly exotic or strong alcohol can be treated as a drug, and a character who regularly abuses alcohol might in time develop a moderate addiction. ^drunkenness
 

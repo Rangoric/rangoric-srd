@@ -78,7 +78,7 @@ The army's size determines not only how many individual units exist in the army,
 
 **Consumption**: This is how many Build Points (BP) an army consumes each week (unlike most kingdom expenses, this cost is per week, not per month), representing the cost to feed, hydrate, arm, train, care for, and pay the units. An army's base Consumption is equal to its ACR divided by 2 (minimum 1). If you fall behind on paying the army's Consumption, reduce its Morale by 2; this penalty ends when you catch up on the army's pay.
 
-**Commander**: This entry lists the army's commander and the commander's Charisma modifier, ranks in [[rangoric-srd/skills/Profession|Profession]] (soldier), and [[rangoric-srd/feats/Leadership|Leadership]] score. The commander must be able to communicate with the army (possibly using _[[rangoric-srd/spells/Message|message]]_ spells and similar magical forms of communication) in order to give orders or provide a bonus on the army's rolls.
+**Commander**: This entry lists the army's commander and the commander's Charisma modifier, ranks in [[rangoric-srd/skills/Background|Background]] (soldier), and [[rangoric-srd/feats/Leadership|Leadership]] score. The commander must be able to communicate with the army (possibly using _[[rangoric-srd/spells/Message|message]]_ spells and similar magical forms of communication) in order to give orders or provide a bonus on the army's rolls.
 
 ## Battle Phases
 
@@ -230,17 +230,17 @@ The Mass Combat Army Sheet has a space to record information about the commander
 
 **Charisma Modifier**: This lists the commander's Charisma modifier. It is added to the army's Morale checks.
 
-**Profession (soldier)**: This is the commander's ranks in [[rangoric-srd/skills/Profession|Profession]] (soldier). Divide the number of ranks by 5 (minimum 0) and add that number to the army's Morale checks.
+**Background (soldier)**: This is the commander's ranks in [[rangoric-srd/skills/Background|Background]] (soldier). Divide the number of ranks by 5 (minimum 0) and add that number to the army's Morale checks.
 
 **Leadership**: The commander's character level + Charisma modifier. If the commander is a monster, use HD instead of character level. If the commander has the Leadership feat, increase this value by 3. This number is a prerequisite for some boons.
 
 ### Boons
 
-This lists the boons the commander knows (see below). A commander's maximum number of boons known is 1, plus 1 for every 5 ranks in [[rangoric-srd/skills/Profession|Profession]] (soldier). A new or unexceptional commander might know no boons at first, but can gain them from victories in battle. If you're a kingdom leader acting as a commander, you automatically have one boon appropriate to your leadership role (see below).
+This lists the boons the commander knows (see below). A commander's maximum number of boons known is 1, plus 1 for every 5 ranks in [[rangoric-srd/skills/Background|Background]] (soldier). A new or unexceptional commander might know no boons at first, but can gain them from victories in battle. If you're a kingdom leader acting as a commander, you automatically have one boon appropriate to your leadership role (see below).
 
 The commander must be active with the army to grant a bonus on Morale checks or a boon to the army. Being active requires spending at least 3 days per week with the army. An army without a commander (whether because the commander is dead or because she isn't spending enough time with the army) loses 1 Morale per week. You may offset this loss by doubling the army's Consumption that week.
 
-If you have an army without a commander and you have no commanders available to fill that role, you may promote a unit from the army to be an unexceptional commander. This commander has a +0 Charisma modifier, 0 ranks in [[rangoric-srd/skills/Profession|Profession]] (soldier), and a Leadership score based on the level or HD of a typical unit in that army.
+If you have an army without a commander and you have no commanders available to fill that role, you may promote a unit from the army to be an unexceptional commander. This commander has a +0 Charisma modifier, 0 ranks in [[rangoric-srd/skills/Background|Background]] (soldier), and a Leadership score based on the level or HD of a typical unit in that army.
 
 Boons are special abilities a commander grants to an army. Most of these boons affect the rolls and statistics for battles, and the commander must be present at the battle to provide their benefit. A commander grants the army all the boons she knows (she doesn't have to select just one).
 
@@ -268,7 +268,7 @@ Boons are special abilities a commander grants to an army. Most of these boons a
 
 ### Kingdom Leader Commanders
 
-If you have a kingdom leadership role (Ruler, High Priest, Grand Diplomat, and so on), you may take the role of an army commander. To determine your bonus on Morale checks and the maximum number of boons you can know, use either one-fifth your ranks in [[rangoric-srd/skills/Profession|Profession]] (soldier) or one-sixth your character level, whichever is higher (minimum 1). As with other commanders, you must remain active with the army to grant your commander bonus on Morale checks, and must be at the battle to provide tactics and bonuses.
+If you have a kingdom leadership role (Ruler, High Priest, Grand Diplomat, and so on), you may take the role of an army commander. To determine your bonus on Morale checks and the maximum number of boons you can know, use either one-fifth your ranks in [[rangoric-srd/skills/Background|Background]] (soldier) or one-sixth your character level, whichever is higher (minimum 1). As with other commanders, you must remain active with the army to grant your commander bonus on Morale checks, and must be at the battle to provide tactics and bonuses.
 
 Your leadership role determines what boons you automatically know (even if you don't meet the Leadership requirements for those boons). If a role lists multiple boons, you must choose one when you become a commander. (Others may be gained in the normal manner).
 

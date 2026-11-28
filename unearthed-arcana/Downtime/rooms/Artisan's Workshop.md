@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/downtime-room]
 
 - **Create**: 9 Goods, 9 Labor (360 gp)
 - **Earnings**: gp, Goods, or Influence +10
-- **Benefit**: counts as masterwork artisan's tools for one [[rangoric-srd/skills/Craft|Craft]] skill
+- **Benefit**: counts as masterwork artisan's tools for one craft [[rangoric-srd/skills/Background#Making Things|Background]]
 - **Time**: 20 days
 - **Size**: 8-16 squares
 

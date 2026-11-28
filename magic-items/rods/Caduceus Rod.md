@@ -4,7 +4,7 @@ section: "Magic Items"
 item-type: "Rod"
 aura: "Strong conjuration and transmutation"
 caster-level: 12
-prerequisites: "Craft Rod, breath of life, deep slumber, heroism, universal formula, creator must have 10 ranks in Craft (alchemy)"
+prerequisites: "Craft Rod, breath of life, deep slumber, heroism, universal formula, creator must have 10 ranks in Background (alchemy)"
 price: "142,000 gp"
 cost: "71,000 gp"
 status: draft
@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/magic-item]
 
 # Caduceus Rod
 
-Two entwined wooden snakes run the length of this laurel rod, which is capped with a pair of brass wings. Its possessor gains a +5 insight bonus on [[rangoric-srd/skills/Craft|Craft]] (alchemy) checks and a +1 insight bonus on attack and damage rolls with alchemical items, alchemists' [[rangoric-srd/classes/Alchemist#^alchemist-bomb|bombs]] included. Held in hand, the rod can be invoked five times per day for one of the following boons, each a 6th-level spell-like ability.
+Two entwined wooden snakes run the length of this laurel rod, which is capped with a pair of brass wings. Its possessor gains a +5 insight bonus on [[rangoric-srd/skills/Background|Background]] (alchemy) checks and a +1 insight bonus on attack and damage rolls with alchemical items, alchemists' [[rangoric-srd/classes/Alchemist#^alchemist-bomb|bombs]] included. Held in hand, the rod can be invoked five times per day for one of the following boons, each a 6th-level spell-like ability.
 
 _Awaken_: The rod wakes all sleeping creatures in a 40-foot-radius burst centered on the wielder. Creatures in the burst are immune to sleep effects for 1 minute.
 
@@ -26,4 +26,4 @@ _Revive_: The wielder targets a creature within 40 feet with an [[rangoric-srd/f
 
 _Slumber_: As _[[rangoric-srd/spells/Deep Slumber|deep slumber]]_, except that it affects a 20-foot-radius burst centered on the wielder, can affect up to 20 HD of creatures and has an attack bonus of +9. The wielder is unaffected and can exclude up to four other targets.
 
-Strong conjuration and transmutation; CL 12th; [[rangoric-srd/feats/Craft Rod|Craft Rod]], _[[rangoric-srd/spells/Breath of Life|breath of life]]_, _[[rangoric-srd/spells/Deep Slumber|deep slumber]]_, _[[rangoric-srd/spells/Heroism|heroism]]_, _[[rangoric-srd/spells/Universal Formula|universal formula]]_, creator must have 10 ranks in [[rangoric-srd/skills/Craft|Craft]] (alchemy); Price 142,000 gp; Cost 71,000 gp.
+Strong conjuration and transmutation; CL 12th; [[rangoric-srd/feats/Craft Rod|Craft Rod]], _[[rangoric-srd/spells/Breath of Life|breath of life]]_, _[[rangoric-srd/spells/Deep Slumber|deep slumber]]_, _[[rangoric-srd/spells/Heroism|heroism]]_, _[[rangoric-srd/spells/Universal Formula|universal formula]]_, creator must have 10 ranks in [[rangoric-srd/skills/Background|Background]] (alchemy); Price 142,000 gp; Cost 71,000 gp.

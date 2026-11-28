@@ -34,4 +34,4 @@ _Transmutation_
 - **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
-The target is struck by inspiration and gains a +5 luck bonus on its next Craft skill check.
+The target is struck by inspiration and gains a +5 luck bonus on its next craft Background check.

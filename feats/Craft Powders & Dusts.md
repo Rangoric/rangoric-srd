@@ -1,7 +1,7 @@
 ---
 srd-type: "feat"
 section: "Feats"
-prerequisites: "Craft (alchemy) 4 ranks or Profession (herbalist) 3 ranks, Skill Focus in the same skill."
+prerequisites: "Background (alchemy) 4 ranks or Background (herbalist) 3 ranks, Skill Focus in the same skill."
 status: draft
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, item-creation]
@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, item-creation]
 
 You can create near-magical powders and dusts such as silentscent and locksbane.
 
-**Prerequisites**: [[rangoric-srd/skills/Craft|Craft]] (alchemy) 4 ranks or [[rangoric-srd/skills/Profession|Profession]] (herbalist) 3 ranks, [[rangoric-srd/feats/Skill Focus|Skill Focus]] in the same skill.
+**Prerequisites**: [[rangoric-srd/skills/Background|Background]] (alchemy) 4 ranks or [[rangoric-srd/skills/Background|Background]] (herbalist) 3 ranks, [[rangoric-srd/feats/Skill Focus|Skill Focus]] in the same skill.
 
 **Benefit**: You can create alchemical or herbal powders, provided you meet the prerequisites. Crafting and purifying powders and dusts takes 12 hours plus the creation DC of the item in hours. Each dust’s base price equals its caster level + DC x 75 gp. To create such substances, the creator must expend 2% (1/50) of the item’s base price in XP and use up raw materials costing 30% of the base price. (The savings alchemy or herbalism give other item creation feats, in [[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Related Feats & Skill Adjustments|Related Feats & Skill Adjustments]], are already part of this feat.)
 

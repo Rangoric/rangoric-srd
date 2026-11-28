@@ -85,7 +85,7 @@ You must create or prepare an item to handle the magic you intend to instill wit
 
 **Tasks**
 
-**Forge a New Vessel**: [[rangoric-srd/skills/Craft|Craft]] (item's type) DC 15 + item's caster level
+**Forge a New Vessel**: [[rangoric-srd/skills/Background|Background]] (item's type) DC 15 + item's caster level
 
 **Mystical Preparations**: [[rangoric-srd/skills/Mysticism|Mysticism]] DC 15 + item's caster level
 
@@ -178,7 +178,7 @@ One or more elements of your item's design are particularly difficult to execute
 
 **Blueprint and Plan**: [[rangoric-srd/skills/Engineering|Engineering]] DC 25
 
-**Rely on Your Craftsmanship**: [[rangoric-srd/skills/Craft|Craft]] (item's type) DC 20 + item's caster level
+**Rely on Your Craftsmanship**: [[rangoric-srd/skills/Background|Background]] (item's type) DC 20 + item's caster level
 
 **Results**
 
@@ -278,7 +278,7 @@ A sudden surge of energy builds up within your item, threatening to damage or de
 
 **Channel into Your Body**: Fortitude DC 20 + item's caster level
 
-**Divert to Another Item**: [[rangoric-srd/skills/Craft|Craft]] (item's type) DC 20 + item's caster level
+**Divert to Another Item**: [[rangoric-srd/skills/Background|Background]] (item's type) DC 20 + item's caster level
 
 **Results**
 
@@ -316,7 +316,7 @@ Some of the most important components of your item are extremely fragile.
 
 **Tasks**
 
-**Reinforce Design**: [[rangoric-srd/skills/Craft|Craft]] (item's type) DC 15 + item's caster level
+**Reinforce Design**: [[rangoric-srd/skills/Background|Background]] (item's type) DC 15 + item's caster level
 
 **Use a Delicate Touch**: [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] DC 15 + item's caster level
 
@@ -516,7 +516,7 @@ You suddenly realize that you don't have enough stock of an important ingredient
 
 **Tasks**
 
-**Improvise a Substitution**: [[rangoric-srd/skills/Craft|Craft]] (alchemy) DC 30
+**Improvise a Substitution**: [[rangoric-srd/skills/Background|Background]] (alchemy) DC 30
 
 **Search for More**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] DC 25
 
@@ -578,7 +578,7 @@ Partway through the creation process, you notice a flaw in the item's physical d
 
 **Disassemble and Adjust**: [[rangoric-srd/skills/Engineering|Engineering]] DC 30
 
-**Turn to Your Advantage**: [[rangoric-srd/skills/Craft|Craft]] (item's type) DC 20 + item's caster level
+**Turn to Your Advantage**: [[rangoric-srd/skills/Background|Background]] (item's type) DC 20 + item's caster level
 
 **Results**
 
@@ -691,7 +691,7 @@ During a stage of the item's creation in a natural setting, a rare wonder of nat
 
 **Tasks**
 
-**Reflect on the Wonder's Beauty**: [[rangoric-srd/skills/Craft|Craft]] (item's type) DC 20 + item's caster level
+**Reflect on the Wonder's Beauty**: [[rangoric-srd/skills/Background|Background]] (item's type) DC 20 + item's caster level
 
 **Show Respect for Nature**: [[rangoric-srd/skills/Nature|Nature]] DC 20 + item's caster level
 
@@ -711,7 +711,7 @@ Otherworldly beings are tampering with your item's creation in an attempt to ass
 
 **Tasks**
 
-**Alter Construction Accordingly**: [[rangoric-srd/skills/Craft|Craft]] (item's type) DC 20 + item's caster level
+**Alter Construction Accordingly**: [[rangoric-srd/skills/Background|Background]] (item's type) DC 20 + item's caster level
 
 **Respectfully Redirect Their Efforts**: [[rangoric-srd/skills/Persuasion|Persuasion]] DC 20 + item's caster level
 

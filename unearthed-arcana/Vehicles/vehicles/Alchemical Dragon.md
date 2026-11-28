@@ -15,7 +15,7 @@ cmb: "+8"
 cmd: "18"
 ramming-damage: "8d8"
 propulsion: "alchemical (6 squares of alchemical engines in the middle of the ship; hardness 8, hp 120)"
-driving-check: "Craft (alchemy) or Arcana +10 to the DC"
+driving-check: "Background (alchemy) or Arcana +10 to the DC"
 forward-facing: "the ship's forward"
 driving-device: "steering wheel"
 driving-space: "the nine squares around the steering wheel that sits at the front of the ship"
@@ -44,7 +44,7 @@ tags: [rangoric, rangoric/vehicle]
 - **CMD**: 18
 - **Ramming damage**: 8d8
 - **Propulsion**: alchemical (6 squares of alchemical engines in the middle of the ship; hardness 8, hp 120)
-- **Driving check**: [[rangoric-srd/skills/Craft|Craft]] (alchemy) or [[rangoric-srd/skills/Arcana|Arcana]] +10 to the DC
+- **Driving check**: [[rangoric-srd/skills/Background|Background]] (alchemy) or [[rangoric-srd/skills/Arcana|Arcana]] +10 to the DC
 - **Forward facing**: the ship's forward
 - **Driving device**: steering wheel
 - **Driving space**: the nine squares around the steering wheel that sits at the front of the ship

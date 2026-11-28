@@ -213,7 +213,7 @@ The following secondary class features are based on features of the other base c
 
 A character who chooses alchemist as his secondary class gains the following secondary class features.
 
-**Alchemy**: At 3rd level, he adds his character level as a competence bonus on all [[rangoric-srd/skills/Craft|Craft]] (alchemy) checks and can use [[rangoric-srd/skills/Craft|Craft]] (alchemy) to identify potions.
+**Alchemy**: At 3rd level, he adds his character level as a competence bonus on all [[rangoric-srd/skills/Background|Background]] (alchemy) checks and can use [[rangoric-srd/skills/Background|Background]] (alchemy) to identify potions.
 
 **Bombs**: At 7th level, he gains the ability to create a number of bombs per day equal to his Intelligence modifier + 1/2 his character level. The bombs deal damage as an alchemist of his character level, but since he doesn't have the alchemist's throw anything class feature, he doesn't add his Intelligence modifier to the damage.
 

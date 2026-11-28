@@ -1,7 +1,7 @@
 ---
 srd-type: "feat"
 section: "Feats"
-prerequisites: "Craft (traps) 5 ranks."
+prerequisites: "Background (trapmaking) 5 ranks."
 status: draft
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
@@ -11,6 +11,6 @@ tags: [rangoric, rangoric/feat]
 
 You have an instinct for waiting until just the right moment to spring a hazard or trap.
 
-**Prerequisites**: [[rangoric-srd/skills/Craft|Craft]] (traps) 5 ranks.
+**Prerequisites**: [[rangoric-srd/skills/Background|Background]] (trapmaking) 5 ranks.
 
 **Benefit**: When you trigger a [[rangoric-srd/rules/Traps|trap]] by hand against opponents, it gains either a +2 circumstance bonus on melee attack rolls or a +2 circumstance bonus on its attacks against defenses.

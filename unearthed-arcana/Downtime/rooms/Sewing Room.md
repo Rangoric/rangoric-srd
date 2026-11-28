@@ -15,8 +15,8 @@ tags: [rangoric, rangoric/downtime-room]
 
 - **Create**: 8 Goods, 7 Labor (300 gp)
 - **Earnings**: gp, Goods, or Influence +10
-- **Benefit**: counts as masterwork artisan's tools for one [[rangoric-srd/skills/Craft|Craft]] skill
+- **Benefit**: counts as masterwork artisan's tools for one craft [[rangoric-srd/skills/Background#Making Things|Background]]
 - **Time**: 16 days
 - **Size**: 6-12 squares
 
-A Sewing Room is used for designing heraldry and making cloth garments, tapestries, blankets, carpets, linens, and other textiles. It contains a loom; a spinning wheel; tapestry frames; shelves for fabric; worktables; and tools for spinning, weaving, and sewing. Up to three people can use the room at once; gaining the benefit of masterwork artisan's tools for skills such as [[rangoric-srd/skills/Craft|Craft]] (cloth) and [[rangoric-srd/skills/Craft|Craft]] (clothing), and for related skills such as [[rangoric-srd/skills/Craft|Craft]] (baskets).
+A Sewing Room is used for designing heraldry and making cloth garments, tapestries, blankets, carpets, linens, and other textiles. It contains a loom; a spinning wheel; tapestry frames; shelves for fabric; worktables; and tools for spinning, weaving, and sewing. Up to three people can use the room at once; gaining the benefit of masterwork artisan's tools for skills such as [[rangoric-srd/skills/Background|Background]] (weaving) and [[rangoric-srd/skills/Background|Background]] (tailoring), and for related skills such as [[rangoric-srd/skills/Background|Background]] (basketweaving).

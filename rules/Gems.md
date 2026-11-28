@@ -77,7 +77,7 @@ These values are based on naturally occurring gemstones. If the PCs are on the h
 
 ## Disguising and Detecting a Gem’s Value
 
-This is a use of [[rangoric-srd/skills/Craft|Craft (alchemy)]].
+This is a use of [[rangoric-srd/skills/Background|Background (alchemy)]].
 
 Less than ethical alchemists have discovered that their arts permit them to alter the appearance of gems enough to make them appear to be much more valuable than they are. In reaction to this development, responsible practitioners have developed methods to test gems for such trickery, and to more surely establish the value of these precious minerals.
 

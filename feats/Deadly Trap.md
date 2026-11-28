@@ -1,7 +1,7 @@
 ---
 srd-type: "feat"
 section: "Feats"
-prerequisites: "Craft (traps) 8 ranks, Fieldcraft 8 ranks."
+prerequisites: "Background (trapmaking) 8 ranks, Fieldcraft 8 ranks."
 status: draft
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/feat]
@@ -11,6 +11,6 @@ tags: [rangoric, rangoric/feat]
 
 Your traps are especially deadly, either through their increased accuracy or the viciousness of their blades and bludgeons.
 
-**Prerequisites**: [[rangoric-srd/skills/Craft|Craft]] (traps) 8 ranks, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] 8 ranks.
+**Prerequisites**: [[rangoric-srd/skills/Background|Background]] (trapmaking) 8 ranks, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] 8 ranks.
 
 **Benefit**: If you make a trap that makes an attack roll, you can either raise its critical multiplier by 1 (×2 becomes ×3, and so on) or give it a +4 bonus on rolls to confirm a critical hit.

@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/magic-item]
 
 # Gloves of Shaping
 
-These soft leather gloves are constantly encrusted with clay between the fingers and allow the reshaping of otherwise durable materials. The wearer can shape objects with hardness 8 or lower (stone, wood, leather, and so on) as if it were soft clay. While it's possible to rapidly make crude shapes (shaping roughly 1 cubic foot of material per round), creating fine detail or moving parts requires additional time and an appropriate [[rangoric-srd/skills/Craft|Craft]] check, at the GM's discretion.
+These soft leather gloves are constantly encrusted with clay between the fingers and allow the reshaping of otherwise durable materials. The wearer can shape objects with hardness 8 or lower (stone, wood, leather, and so on) as if it were soft clay. While it's possible to rapidly make crude shapes (shaping roughly 1 cubic foot of material per round), creating fine detail or moving parts requires additional time and an appropriate [[rangoric-srd/skills/Background#Making Things|Background]] check to make things, at the GM's discretion.
 
 Materials with more than 8 points of hardness are still affected, though not so dramatically. The wearer may treat these materials as having half as much hardness when attempting to damage or reshape them. For instance, a steel bar normally has 10 points of hardness, but the wearer of the gloves may treat it as having hardness 5, and shape it with woodworking tools.
 

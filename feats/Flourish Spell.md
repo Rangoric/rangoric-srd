@@ -1,7 +1,7 @@
 ---
 srd-type: "feat"
 section: "Feats"
-prerequisites: "Profession (herbalist) 9 ranks, ability to cast 3rd-level spells."
+prerequisites: "Background (herbalist) 9 ranks, ability to cast 3rd-level spells."
 status: draft
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, metamagic]
@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, metamagic]
 
 Your understanding of plants and herbs allows you to redirect spell energies into the healing and restoration of any plant.
 
-**Prerequisites**: [[rangoric-srd/skills/Profession|Profession]] (herbalist) 9 ranks, ability to cast 3rd-level spells.
+**Prerequisites**: [[rangoric-srd/skills/Background|Background]] (herbalist) 9 ranks, ability to cast 3rd-level spells.
 
 **Benefit**: Just as clerics and paladins can redirect spell slots into healing spells, you can change the effects of any abjuration, conjuration, enchantment, evocation, or transmutation spells and force the energy into a plant to speed it through seasonal growth and changes. Any original effects of the spell are negated in favor of the energy’s use in reviving and affecting plant tissues.
 

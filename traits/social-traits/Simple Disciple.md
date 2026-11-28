@@ -11,4 +11,4 @@ tags: [rangoric, rangoric/trait]
 
 **Category**: [[rangoric-srd/traits/Character Traits#Social Traits|social trait]].
 
-You picked up skill in a craft or a profession during your time at a monastery. You gain a +1 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] on checks with a [[rangoric-srd/skills/Profession|Profession]] or [[rangoric-srd/skills/Craft|Craft]] skill of your choice.
+You picked up skill in a craft or a profession during your time at a monastery. You gain a +1 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] on checks with a craft or profession [[rangoric-srd/skills/Background|Background]] of your choice.

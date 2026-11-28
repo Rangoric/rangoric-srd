@@ -1,7 +1,7 @@
 ---
 srd-type: "feat"
 section: "Feats"
-prerequisites: "Craft (alchemy) 6 ranks, Endurance, Craft Chymicals, Craft Wondrous Item."
+prerequisites: "Background (alchemy) 6 ranks, Endurance, Craft Chymicals, Craft Wondrous Item."
 status: draft
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, item-creation]
@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, item-creation]
 
 You can create alchemical and magical items beyond those possible by magic or alchemy alone.
 
-**Prerequisites**: [[rangoric-srd/skills/Craft|Craft]] (alchemy) 6 ranks, [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Craft Chymicals|Craft Chymicals]], [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]].
+**Prerequisites**: [[rangoric-srd/skills/Background|Background]] (alchemy) 6 ranks, [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Craft Chymicals|Craft Chymicals]], [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]].
 
 **Benefit**: You can create miscellaneous creations of alchemy unavailable to magic (or Craft Wondrous Item) or alchemy alone. Effectively, this feat allows you to create any new and wondrous alchemagical items, provided they are not arms and armor, wands, staves, rods, potions, or rings. The proof that an item is an alchana rather than just a miscellaneous magical item is this—its effects or usefulness are not canceled by _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_ spells.
 

@@ -1,7 +1,7 @@
 ---
 srd-type: "feat"
 section: "Feats"
-prerequisites: "Profession (herbalist) 9 ranks, Craft Powders & Dusts, ability to cast 3rd-level spells."
+prerequisites: "Background (herbalist) 9 ranks, Craft Powders & Dusts, ability to cast 3rd-level spells."
 status: draft
 pi-review: 2026-11-10
 tags: [rangoric, rangoric/feat, item-creation]
@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, item-creation]
 
 You can create swathes by placing magics within living plants or grafting them onto magical items.
 
-**Prerequisites**: [[rangoric-srd/skills/Profession|Profession]] (herbalist) 9 ranks, [[rangoric-srd/feats/Craft Powders & Dusts|Craft Powders & Dusts]], ability to cast 3rd-level spells.
+**Prerequisites**: [[rangoric-srd/skills/Background|Background]] (herbalist) 9 ranks, [[rangoric-srd/feats/Craft Powders & Dusts|Craft Powders & Dusts]], ability to cast 3rd-level spells.
 
 **Benefit**: You can add a living swathe of plants onto enchanted clothing or items or places and embed magics within the swathe to enhance and alter the existing magic or to add in new, nature-related magics or druid spells. The swathes act like _bracers, cloaks,_ or other garments that hold spells and grant supernatural abilities while being worn.
 

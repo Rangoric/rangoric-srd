@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/kingdom-building]
 - **BP**: 52
 - **Lot**: 2
 - **Discount**: [[rangoric-srd/unearthed-arcana/Kingdom Building/buildings/Caster's Tower (Building)|Caster's Tower]], [[rangoric-srd/unearthed-arcana/Kingdom Building/buildings/Library (Building)|Library]], [[rangoric-srd/unearthed-arcana/Kingdom Building/buildings/Magic Shop (Building)|Magic Shop]]
-- **Settlement**: Lore +2, Productivity +1, Society +2; increase Lore bonus by 2 for questions relating to one [[rangoric-srd/skills/Knowledge|Knowledge]] or [[rangoric-srd/skills/Profession|Profession]] skill
+- **Settlement**: Lore +2, Productivity +1, Society +2; increase Lore bonus by 2 for questions relating to one [[rangoric-srd/skills/Knowledge|Knowledge]] or profession [[rangoric-srd/skills/Background#Working at a Profession|Background]]
 
 An institution of higher learning.

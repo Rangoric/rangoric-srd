@@ -11,4 +11,4 @@ tags: [rangoric, rangoric/trait]
 
 **Category**: [[rangoric-srd/traits/Character Traits#Social Traits|social trait]].
 
-You spent time working under artisans, or your parents were artisans who were particularly skilled at their trade. You gain a +2 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] on a single [[rangoric-srd/skills/Craft|Craft]] skill (your choice).
+You spent time working under artisans, or your parents were artisans who were particularly skilled at their trade. You gain a +2 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] on a single craft [[rangoric-srd/skills/Background#Making Things|Background]] (your choice).

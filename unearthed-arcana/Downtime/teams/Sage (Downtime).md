@@ -19,4 +19,4 @@ tags: [rangoric, rangoric/downtime-team]
 - **Time**: 4 days
 - **Size**: 1 person
 
-A sage is a person with extensive knowledge in one or more related areas who can advise you about his areas of expertise. A typical sage is a 3rd-level expert with 3 ranks each in skills such as [[rangoric-srd/skills/Appraise|Appraise]], [[rangoric-srd/skills/Knowledge|Knowledge]], [[rangoric-srd/skills/Linguistics|Linguistics]], [[rangoric-srd/skills/Profession|Profession]], and [[rangoric-srd/skills/Mysticism|Mysticism]].
+A sage is a person with extensive knowledge in one or more related areas who can advise you about his areas of expertise. A typical sage is a 3rd-level expert with 3 ranks each in skills such as [[rangoric-srd/skills/Appraise|Appraise]], [[rangoric-srd/skills/Knowledge|Knowledge]], [[rangoric-srd/skills/Linguistics|Linguistics]], [[rangoric-srd/skills/Background|Background]] (any profession), and [[rangoric-srd/skills/Mysticism|Mysticism]].

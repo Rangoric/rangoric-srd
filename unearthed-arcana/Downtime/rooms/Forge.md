@@ -19,4 +19,4 @@ tags: [rangoric, rangoric/downtime-room]
 - **Time**: 20 days
 - **Size**: 8-16 squares
 
-A Forge includes a hearth, an anvil, a slack tub, metalworking tools, and other appropriate materials for shaping iron and other metals. A Forge counts as artisan's tools for up to three people working on metalworking skills such as [[rangoric-srd/skills/Craft|Craft]] (armor) and [[rangoric-srd/skills/Craft|Craft]] (weapons).
+A Forge includes a hearth, an anvil, a slack tub, metalworking tools, and other appropriate materials for shaping iron and other metals. A Forge counts as artisan's tools for up to three people working on metalworking skills such as [[rangoric-srd/skills/Background|Background]] (armorsmithing) and [[rangoric-srd/skills/Background|Background]] (weaponsmithing).

@@ -6,7 +6,7 @@ aliases:
   - "Laced, Substance"
 aura: "Moderate transmutation"
 caster-level: 7
-prerequisites: "Craft Magic Arms and Armor, 1 rank in Craft (alchemy)"
+prerequisites: "Craft Magic Arms and Armor, 1 rank in Background (alchemy)"
 price: "+1,000 gp"
 status: draft
 pi-review: 2026-11-11
@@ -19,4 +19,4 @@ Weapons that possess this enchantment are loaded with various harmful substances
 
 Once depleted, the substance reservoirs must be carefully replenished, requiring 1d3 minutes per substance type to reload.
 
-Moderate transmutation; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], 1 rank in [[rangoric-srd/skills/Craft|Craft]] (alchemy); Price +1,000 gp.
+Moderate transmutation; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], 1 rank in [[rangoric-srd/skills/Background|Background]] (alchemy); Price +1,000 gp.

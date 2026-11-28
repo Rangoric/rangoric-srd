@@ -19,4 +19,4 @@ tags: [rangoric, rangoric/downtime-team]
 - **Time**: 0 days
 - **Size**: 5 people
 
-Laborers are unskilled workers who carry out basic orders. In most cases, their work is physical labor, though you may recruit laborers for specialized tasks such as begging for your thieves' guild, being professional mourners for your cult, or filling out the cast of a theater performance. They are typically 1st-level commoners with no ranks in [[rangoric-srd/skills/Craft|Craft]] or [[rangoric-srd/skills/Profession|Profession]].
+Laborers are unskilled workers who carry out basic orders. In most cases, their work is physical labor, though you may recruit laborers for specialized tasks such as begging for your thieves' guild, being professional mourners for your cult, or filling out the cast of a theater performance. They are typically 1st-level commoners with no ranks in [[rangoric-srd/skills/Background|Background]].

@@ -16,7 +16,7 @@ Students of the arcane discovered long ago that gems could be used as components
 
 At its core, jewel magic revolves around the combination of alchemy and magic to attune gems to various magical energies and imbue them with magical effects. Jewel mages can use these magical gems to affect spells both arcane and divine, just as metamagic feats can be used to affect both arcane and divine spells.
 
-The process of altering a gem prior to applying a [[rangoric-srd/prestige-classes/Jewel Mage|jewel mage]] class technique to it involves both a [[rangoric-srd/skills/Craft|Craft (alchemy)]] check and a [[rangoric-srd/skills/Craft|Craft (gemcutting)]] check. The DCs for these checks are listed under the appropriate class feature descriptions. If either of these checks fails, the gem is ruined beyond salvaging.
+The process of altering a gem prior to applying a [[rangoric-srd/prestige-classes/Jewel Mage|jewel mage]] class technique to it involves both a [[rangoric-srd/skills/Background|Background (alchemy)]] check and a [[rangoric-srd/skills/Background|Background (gemcutting)]] check. The DCs for these checks are listed under the appropriate class feature descriptions. If either of these checks fails, the gem is ruined beyond salvaging.
 
 ## Attunements
 
