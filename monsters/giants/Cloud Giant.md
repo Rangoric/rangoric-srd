@@ -18,8 +18,8 @@ special-attacks: "Rock throwing (140 ft.), spell-like abilities"
 special-qualities: "Low-light vision, scent, rock catching, oversized weapon"
 defenses: "Fort 26, Ref 16, Will 20"
 abilities: "Str 35, Dex 13, Con 23, Int 12, Wis 16, Cha 12"
-skills: "Athletics +19, Craft (any one) +10, Intimidation +26, Perception +17, Performance (string instruments) +8, Persuasion +9"
-skill-ranks: "Athletics 4, Craft (any one) 6, Intimidation 22, Perception 11, Perform (string instruments) 4, Persuasion 5"
+skills: "Athletics +19, Background (any one craft) +10, Intimidation +26, Perception +17, Performance (string instruments) +8, Persuasion +9"
+skill-ranks: "Athletics 4, Background (any one craft) 6, Intimidation 22, Perception 11, Performance (string instruments) 4, Persuasion 5"
 feats: "Awesome Blow, Cleave, Great Cleave, Improved Bull Rush, Improved Overrun, Intimidating Prowess, Iron Will, Power Attack"
 environment: "Temperate mountains"
 organization: "Solitary, gang (2–5), family (2–5 plus 35% noncombatants plus 1 sorcerer or cleric of 4th–7th level and 2–5 griffons), tribe (6–20 plus 1 sorcerer or cleric oracle of 7th–12th level and 2–5 griffons), or band (6–9 plus 1 sorcerer or cleric of 4th–7th level plus 2–5 griffons or 2–8 dire lions)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], oversized weapon
 - **Defenses**: Fort 26, Ref 16, Will 20
 - **Abilities**: Str 35, Dex 13, Con 23, Int 12, Wis 16, Cha 12
-- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +19, [[rangoric-srd/skills/Craft|Craft]] (any one) +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +26, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Performance|Performance]] (string instruments) +8, [[rangoric-srd/skills/Persuasion|Persuasion]] +9
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +19, [[rangoric-srd/skills/Background|Background]] (any one craft) +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +26, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Performance|Performance]] (string instruments) +8, [[rangoric-srd/skills/Persuasion|Persuasion]] +9
 - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]]
 - **Environment**: Temperate mountains
 - **Organization**: Solitary, gang (2–5), family (2–5 plus 35% noncombatants plus 1 sorcerer or cleric of 4th–7th level and 2–5 griffons), tribe (6–20 plus 1 sorcerer or cleric oracle of 7th–12th level and 2–5 griffons), or band (6–9 plus 1 sorcerer or cleric of 4th–7th level plus 2–5 griffons or 2–8 dire lions)

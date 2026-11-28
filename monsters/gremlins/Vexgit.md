@@ -17,8 +17,8 @@ special-attacks: "Speedy sabotage, wrecking crew, spell-like abilities"
 special-qualities: "Darkvision 120 ft., low-light vision, damage reduction 5/cold iron, spell resistance 12"
 defenses: "Fort 12, Ref 13, Will 13"
 abilities: "Str 6, Dex 13, Con 14, Int 12, Wis 13, Cha 11"
-skills: "Appraise +2, Athletics +13, Craft (traps) +5, Engineering +9, Perception +5, Stealth +13 (+17 in metal or stony areas, +9 when moving)"
-skill-ranks: "Appraise 1, Athletics 12, Craft (traps) 1, Engineering 1, Perception 1, Stealth 1"
+skills: "Appraise +2, Athletics +13, Background (trapmaking) +5, Engineering +9, Perception +5, Stealth +13 (+17 in metal or stony areas, +9 when moving)"
+skill-ranks: "Appraise 1, Athletics 12, Background (trapmaking) 1, Engineering 1, Perception 1, Stealth 1"
 feats: "Skill Focus (Engineering), Toughness, Weapon Finesse"
 environment: "Any underground or urban"
 organization: "Solitary, pair, mob (3–12), or infestation (13–20 with 1–3 sorcerers of 1st–3rd level, 1 rogue leader of 2nd–4th level, 2–14 trained dire rats, 2–5 trained venomous snakes, and 1–3 rat swarms)"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 12
 - **Defenses**: Fort 12, Ref 13, Will 13
 - **Abilities**: Str 6, Dex 13, Con 14, Int 12, Wis 13, Cha 11
-- **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +2, [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Craft|Craft]] (traps) +5, [[rangoric-srd/skills/Engineering|Engineering]] +9, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +13 (+17 in metal or stony areas, +9 when moving)
+- **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +2, [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Background|Background]] (trapmaking) +5, [[rangoric-srd/skills/Engineering|Engineering]] +9, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +13 (+17 in metal or stony areas, +9 when moving)
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Engineering), [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
 - **Environment**: Any underground or urban
 - **Organization**: Solitary, pair, mob (3–12), or infestation (13–20 with 1–3 sorcerers of 1st–3rd level, 1 rogue leader of 2nd–4th level, 2–14 trained dire rats, 2–5 trained venomous snakes, and 1–3 rat swarms)

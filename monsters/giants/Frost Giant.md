@@ -18,8 +18,8 @@ special-attacks: "Rock throwing (120 ft.)"
 special-qualities: "Low-light vision, rock catching, immunity to cold, vulnerability to fire"
 defenses: "Fort 24, Ref 13, Will 16"
 abilities: "Str 29, Dex 9, Con 20, Int 10, Wis 14, Cha 11"
-skills: "Athletics +13, Craft (any one) +7, Intimidation +7, Perception +10, Stealth +2 (+6 in snow)"
-skill-ranks: "Athletics 1, Craft (any one) 4, Intimidation 4, Perception 5, Stealth 4"
+skills: "Athletics +13, Background (any one craft) +7, Intimidation +7, Perception +10, Stealth +2 (+6 in snow)"
+skill-ranks: "Athletics 1, Background (any one craft) 4, Intimidation 4, Perception 5, Stealth 4"
 feats: "Cleave, Great Cleave, Improved Overrun, Improved Sunder, Martial Weapon Proficiency (greataxe), Power Attack, Skill Focus (Stealth)"
 environment: "Cold mountains"
 organization: "Solitary, gang (3–5), band (6–12 plus 35% noncombatants and 1 adept or cleric of 1st–2nd level), raiding party (6–12 plus 35% noncombatants, 1 adept or sorcerer of 3rd–5th level, 1–4 winter wolves, and 2–3 ogres), tribe (21–30 plus 1 adept, cleric, or sorcerer of 6th–7th level; 1 barbarian or ranger jarl of 7th–9th level; and 15–36 winter wolves, 13–22 ogres, and 1–2 young white dragons), or hunting/raiding party (6–9 plus 35% noncombatants plus 1 adept or sorcerer of 3rd-5th level plus 2–4 winter wolves and 2–3 ogres)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, vulnerability to fire
 - **Defenses**: Fort 24, Ref 13, Will 16
 - **Abilities**: Str 29, Dex 9, Con 20, Int 10, Wis 14, Cha 11
-- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Craft|Craft]] (any one) +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +2 (+6 in snow)
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Background|Background]] (any one craft) +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +2 (+6 in snow)
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Martial Weapon Proficiency|Martial Weapon Proficiency]] (greataxe), [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
 - **Environment**: Cold mountains
 - **Organization**: Solitary, gang (3–5), band (6–12 plus 35% noncombatants and 1 adept or cleric of 1st–2nd level), raiding party (6–12 plus 35% noncombatants, 1 adept or sorcerer of 3rd–5th level, 1–4 winter wolves, and 2–3 ogres), tribe (21–30 plus 1 adept, cleric, or sorcerer of 6th–7th level; 1 barbarian or ranger jarl of 7th–9th level; and 15–36 winter wolves, 13–22 ogres, and 1–2 young white dragons), or hunting/raiding party (6–9 plus 35% noncombatants plus 1 adept or sorcerer of 3rd-5th level plus 2–4 winter wolves and 2–3 ogres)

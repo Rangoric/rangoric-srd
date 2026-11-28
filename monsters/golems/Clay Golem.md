@@ -64,7 +64,7 @@ A clay golem cannot speak or make any vocal noise.
 
 ### Combat
 
-A clay golem’s body must be sculpted from a single block of clay weighing at least 1,000 pounds, treated with rare oils and powders worth 1,500 gp. Creating the body requires a DC 15 [[rangoric-srd/skills/Craft|Craft]] (sculpting) check or a DC 15 Craft (pottery) check.
+A clay golem’s body must be sculpted from a single block of clay weighing at least 1,000 pounds, treated with rare oils and powders worth 1,500 gp. Creating the body requires a DC 15 [[rangoric-srd/skills/Background|Background]] (sculpting) check or a DC 15 Background (pottery) check.
 
 CL 11th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], [[rangoric-srd/spells/Animate Objects|animate objects]], [[rangoric-srd/spells/Commune|commune]], [[rangoric-srd/spells/Resurrection|resurrection]], caster must be at least 11th level; Price 40,000 gp; Cost 21,500 gp + 1,540 XP.
 

@@ -18,8 +18,8 @@ special-attacks: "Bomb 7/day (2d6+3 fire and catch fire, +5 vs Reflex, 10-ft. ra
 special-qualities: "Darkvision 60 ft., alchemy (alchemy crafting +4, identify potions), discoveries (explosive bomb, sipping pet), poison use, swift alchemy, resistance to fire 4"
 defenses: "Fort 15, Ref 18, Will 12 (+2 against poison)"
 abilities: "Str 8, Dex 18, Con 13, Int 16, Wis 12, Cha 6"
-skills: "Acrobatics +8, Animal Handling +12, Athletics +3, Craft (alchemy) +10, Perception +8, Stealth +16"
-skill-ranks: "Acrobatics 1, Animal Handling 1, Athletics 1, Craft (alchemy) 4, Perception 4, Stealth 1"
+skills: "Acrobatics +8, Animal Handling +12, Athletics +3, Background (alchemy) +10, Perception +8, Stealth +16"
+skill-ranks: "Acrobatics 1, Animal Handling 1, Athletics 1, Background (alchemy) 4, Perception 4, Stealth 1"
 feats: "Brew Potion, Mounted Archery, Mounted Combat, Throw Anything"
 environment: "Temperate forest and plains (usually coastal regions)"
 organization: "Solitary, or with other goblins (see Goblin)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Alchemist#^alchemist-alchemy|alchemy]] (alchemy crafting +4, identify potions), [[rangoric-srd/classes/Alchemist#^alchemist-discovery|discoveries]] ([[rangoric-srd/class-options/discoveries/Explosive Bomb (Discovery)|explosive bomb]], [[rangoric-srd/class-options/archetypes/alchemist/Winged Marauder (Archetype)|sipping pet]]), [[rangoric-srd/classes/Alchemist#^alchemist-poison-use|poison use]], [[rangoric-srd/classes/Alchemist#^alchemist-swift-alchemy|swift alchemy]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 4
 - **Defenses**: Fort 15, Ref 18, Will 12 (+2 against poison)
 - **Abilities**: Str 8, Dex 18, Con 13, Int 16, Wis 12, Cha 6
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +12, [[rangoric-srd/skills/Athletics|Athletics]] +3, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +10, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +16
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +12, [[rangoric-srd/skills/Athletics|Athletics]] +3, [[rangoric-srd/skills/Background|Background]] (alchemy) +10, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +16
 - **Feats**: [[rangoric-srd/feats/Brew Potion|Brew Potion]], [[rangoric-srd/feats/Mounted Archery|Mounted Archery]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Throw Anything|Throw Anything]]
 - **Environment**: Temperate forest and plains (usually coastal regions)
 - **Organization**: Solitary, or with other goblins (see [[rangoric-srd/monsters/goblins/Goblin|Goblin]])

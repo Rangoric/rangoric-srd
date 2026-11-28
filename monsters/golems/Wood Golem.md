@@ -62,7 +62,7 @@ A wood golem is carved from rare woods, assembled into a roughly humanoid body w
 
 ### Combat
 
-The pieces of a wood golem are assembled from blocks of fine wood and sprinkled with rare powders and crushed herbs worth at least 300 gp. Creating the body requires a DC 17 [[rangoric-srd/skills/Craft|Craft]] (carpentry) check.
+The pieces of a wood golem are assembled from blocks of fine wood and sprinkled with rare powders and crushed herbs worth at least 300 gp. Creating the body requires a DC 17 [[rangoric-srd/skills/Background|Background]] (carpentry) check.
 
 CL 7th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Alarm|alarm]]_, _[[rangoric-srd/spells/Animate Objects|animate objects]]_, _[[rangoric-srd/spells/Cat’s Grace|cat's grace]]_, _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, _[[rangoric-srd/spells/Limited Wish|limited wish]]_, caster must be at least 12th level; Price 19,300 gp; Cost 8,800 gp.
 

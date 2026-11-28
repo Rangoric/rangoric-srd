@@ -18,8 +18,8 @@ special-attacks: "+1 on attack rolls against goblinoid and reptilian humanoids, 
 special-qualities: "Low-light vision, defensive training (+4 dodge bonus to AC vs. giants), bloodline arcana (+50% duration on polymorph spells), gnome magic"
 defenses: "Fort 13, Ref 12, Will 16 (+2 vs. illusions)"
 abilities: "Str 12, Dex 13, Con 14, Int 8, Wis 10, Cha 18"
-skills: "Craft (alchemy) +5, Deception +8, Emulation +8, Imitation +5, Perception +2"
-skill-ranks: "Craft (alchemy) 3, Deception 1, Emulation 1, Imitation 1, Perception 2"
+skills: "Background (alchemy) +5, Deception +8, Emulation +8, Imitation +5, Perception +2"
+skill-ranks: "Background (alchemy) 3, Deception 1, Emulation 1, Imitation 1, Perception 2"
 feats: "Eschew Materials, Iron Will, Spell Focus (transmutation)"
 environment: "Temperate hills"
 organization: "Solitary, or with other gnomes (see Gnome)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/races/Gnome#^defensive-training|defensive training]] (+4 dodge bonus to AC vs. giants), [[rangoric-srd/class-options/bloodlines/Aberrant Bloodline|bloodline arcana]] (+50% duration on polymorph spells), [[rangoric-srd/races/Gnome|gnome magic]]
 - **Defenses**: Fort 13, Ref 12, Will 16 (+2 vs. illusions)
 - **Abilities**: Str 12, Dex 13, Con 14, Int 8, Wis 10, Cha 18
-- **Skills**: [[rangoric-srd/skills/Craft|Craft]] (alchemy) +5, [[rangoric-srd/skills/Deception|Deception]] +8, [[rangoric-srd/skills/Emulation|Emulation]] +8, [[rangoric-srd/skills/Imitation|Imitation]] +5, [[rangoric-srd/skills/Perception|Perception]] +2
+- **Skills**: [[rangoric-srd/skills/Background|Background]] (alchemy) +5, [[rangoric-srd/skills/Deception|Deception]] +8, [[rangoric-srd/skills/Emulation|Emulation]] +8, [[rangoric-srd/skills/Imitation|Imitation]] +5, [[rangoric-srd/skills/Perception|Perception]] +2
 - **Feats**: [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (transmutation)
 - **Environment**: Temperate hills
 - **Organization**: Solitary, or with other gnomes (see [[rangoric-srd/monsters/gnomes/Gnome|Gnome]])

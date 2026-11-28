@@ -18,8 +18,8 @@ special-attacks: "+1 on attack rolls against goblinoid and reptilian humanoids, 
 special-qualities: "Low-light vision, defensive training (+4 dodge bonus to AC vs. giants), improved uncanny dodge, trap sense +2, fast movement, damage reduction 2/—"
 defenses: "Fort 22, Ref 14, Will 15 (+4 vs. spells and spell-like or supernatural abilities, +2 vs. illusions)"
 abilities: "Str 20, Dex 13, Con 20, Int 13, Wis 10, Cha 10"
-skills: "Acrobatics +5, Athletics +10, Craft (ships) +5, Fieldcraft +10, Intimidation +5, Linguistics +3, Nature +10, Perception +12, Profession (sailor) +5"
-skill-ranks: "Acrobatics 1, Athletics 2, Craft (ships) 1, Fieldcraft 7, Intimidation 2, Linguistics 2, Nature 6, Perception 9, Profession (sailor) 1"
+skills: "Acrobatics +5, Athletics +10, Background (shipmaking) +5, Fieldcraft +10, Intimidation +5, Linguistics +3, Nature +10, Perception +12, Background (sailor) +6"
+skill-ranks: "Acrobatics 1, Athletics 2, Background (shipmaking) 1, Fieldcraft 7, Intimidation 2, Linguistics 2, Nature 6, Perception 9, Background (sailor) 1"
 feats: "Combat Expertise, Greater Trip, Improved Trip, Power Attack"
 environment: "Temperate hills"
 organization: "Solitary, or with other gnomes (see Gnome)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/races/Gnome#^defensive-training|defensive training]] (+4 dodge bonus to AC vs. giants), [[rangoric-srd/classes/Barbarian#^barbarian-improved-uncanny-dodge|improved uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] +2, [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/classes/Barbarian#^barbarian-damage-reduction|damage reduction]] 2/—
 - **Defenses**: Fort 22, Ref 14, Will 15 (+4 vs. spells and spell-like or supernatural abilities, +2 vs. illusions)
 - **Abilities**: Str 20, Dex 13, Con 20, Int 13, Wis 10, Cha 10
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Craft|Craft]] (ships) +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Linguistics|Linguistics]] +3, [[rangoric-srd/skills/Nature|Nature]] +10, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Profession|Profession]] (sailor) +5
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Background|Background]] (shipmaking) +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Linguistics|Linguistics]] +3, [[rangoric-srd/skills/Nature|Nature]] +10, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Background|Background]] (sailor) +6
 - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Greater Trip|Greater Trip]], [[rangoric-srd/feats/Improved Trip|Improved Trip]], [[rangoric-srd/feats/Power Attack|Power Attack]]
 - **Environment**: Temperate hills
 - **Organization**: Solitary, or with other gnomes (see [[rangoric-srd/monsters/gnomes/Gnome|Gnome]])

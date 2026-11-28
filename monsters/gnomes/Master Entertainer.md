@@ -18,8 +18,8 @@ special-attacks: "+1 on attack rolls against goblinoid and reptilian humanoids"
 special-qualities: "Low-light vision, defensive training (+4 dodge bonus to AC vs. giants)"
 defenses: "Fort 13, Ref 16, Will 17 (+2 vs. illusions)"
 abilities: "Str 7, Dex 12, Con 10, Int 12, Wis 10, Cha 16"
-skills: "Acrobatics +14, Athletics –2 (–6 jumping), Craft (painting) +10, Deception +11, Emulation +16, Escape Artist +9, Imitation +9, Perception +2, Perform (comedy) +16, Perform (dance) +11, Perform (wind) +8, Sense Motive +5, Sleight of Hand +14, Society +9"
-skill-ranks: "Acrobatics 10, Athletics 0, Craft (painting) 6, Deception 5, Emulation 10, Escape Artist 5, Imitation 3, Perception 2, Perform (comedy) 12, Perform (dance) 7, Perform (wind) 4, Sense Motive 2, Sleight of Hand 10, Society 5"
+skills: "Acrobatics +14, Athletics –2 (–6 jumping), Background (painting) +10, Deception +11, Emulation +16, Escape Artist +9, Imitation +9, Perception +2, Performance (comedy) +19, Performance (dance) +14, Performance (wind instruments) +11, Sense Motive +5, Sleight of Hand +14, Society +9"
+skill-ranks: "Acrobatics 10, Athletics 0, Background (painting) 6, Deception 5, Emulation 10, Escape Artist 5, Imitation 3, Perception 2, Performance (comedy) 12, Performance (dance) 7, Performance (wind instruments) 4, Sense Motive 2, Sleight of Hand 10, Society 5"
 feats: "Lightning Reflexes, Point Blank Shot, Quick Draw, Rapid Shot, Weapon Focus (dagger)"
 environment: "Temperate hills"
 organization: "Solitary, or with other gnomes (see Gnome)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/races/Gnome#^defensive-training|defensive training]] (+4 dodge bonus to AC vs. giants)
 - **Defenses**: Fort 13, Ref 16, Will 17 (+2 vs. illusions)
 - **Abilities**: Str 7, Dex 12, Con 10, Int 12, Wis 10, Cha 16
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Athletics|Athletics]] –2 (–6 jumping), [[rangoric-srd/skills/Craft|Craft]] (painting) +10, [[rangoric-srd/skills/Deception|Deception]] +11, [[rangoric-srd/skills/Emulation|Emulation]] +16, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +9, [[rangoric-srd/skills/Imitation|Imitation]] +9, [[rangoric-srd/skills/Perception|Perception]] +2, Perform (comedy) +16, Perform (dance) +11, Perform (wind) +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +14, [[rangoric-srd/skills/Society|Society]] +9
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Athletics|Athletics]] –2 (–6 jumping), [[rangoric-srd/skills/Background|Background]] (painting) +10, [[rangoric-srd/skills/Deception|Deception]] +11, [[rangoric-srd/skills/Emulation|Emulation]] +16, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +9, [[rangoric-srd/skills/Imitation|Imitation]] +9, [[rangoric-srd/skills/Perception|Perception]] +2, [[rangoric-srd/skills/Performance|Performance]] (comedy) +19, [[rangoric-srd/skills/Performance|Performance]] (dance) +14, [[rangoric-srd/skills/Performance|Performance]] (wind instruments) +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +14, [[rangoric-srd/skills/Society|Society]] +9
 - **Feats**: [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (dagger)
 - **Environment**: Temperate hills
 - **Organization**: Solitary, or with other gnomes (see [[rangoric-srd/monsters/gnomes/Gnome|Gnome]])

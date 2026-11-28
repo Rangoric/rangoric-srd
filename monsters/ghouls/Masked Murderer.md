@@ -17,8 +17,8 @@ special-attacks: "Bardic performance 24 rounds/day (move action; countersong, di
 special-qualities: "Darkvision 60 ft., channel resistance +2, bardic knowledge +4, haunting refrain (+4 to demoralize, -2 penalty on defenses against bard's fear effects), secrets of the grave, undead traits"
 defenses: "Fort 18, Ref 19, Will 21 (+4 vs. necromantic effects)"
 abilities: "Str 15, Dex 17, Con —, Int 17, Wis 14, Cha 22"
-skills: "Arcana +16, Deception +19, Imitation +19, Intimidation +19, Perception +15, Performance (oratory) +14, Performance (percussion) +19, Persuasion +19, Society +20, Theology +15 (+19 to identify undead creatures and their abilities)"
-skill-ranks: "Arcana 10, Deception 10, Imitation 10, Intimidation 10, Perception 10, Performance (oratory) 8, Performance (percussion) 13, Persuasion 10, Society 14, Theology 9"
+skills: "Arcana +16, Deception +19, Imitation +19, Intimidation +19, Perception +15, Performance (oratory) +17, Performance (percussion instruments) +22, Persuasion +19, Society +20, Theology +15 (+19 to identify undead creatures and their abilities)"
+skill-ranks: "Arcana 10, Deception 10, Imitation 10, Intimidation 10, Perception 10, Performance (oratory) 8, Performance (percussion instruments) 13, Persuasion 10, Society 14, Theology 9"
 feats: "Ability Focus (paralysis), Combat Casting, Improved Initiative, Weapon Finesse, Weapon Focus (claw)"
 environment: "Any land"
 organization: "Solitary, or with other ghouls (see Ghoul)"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +2, [[rangoric-srd/classes/Bard#^bardic-knowledge|bardic knowledge]] +4, [[rangoric-srd/class-options/archetypes/bard/Dirge Bard (Archetype)|haunting refrain]] (+4 to demoralize, -2 penalty on defenses against bard's [[rangoric-srd/monsters/abilities/Fear|fear]] effects), [[rangoric-srd/class-options/archetypes/bard/Dirge Bard (Archetype)|secrets of the grave]], [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
 - **Defenses**: Fort 18, Ref 19, Will 21 (+4 vs. necromantic effects)
 - **Abilities**: Str 15, Dex 17, Con —, Int 17, Wis 14, Cha 22
-- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +16, [[rangoric-srd/skills/Deception|Deception]] +19, [[rangoric-srd/skills/Imitation|Imitation]] +19, [[rangoric-srd/skills/Intimidation|Intimidation]] +19, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Performance|Performance]] (oratory) +14, [[rangoric-srd/skills/Performance|Performance]] (percussion) +19, [[rangoric-srd/skills/Persuasion|Persuasion]] +19, [[rangoric-srd/skills/Society|Society]] +20, [[rangoric-srd/skills/Theology|Theology]] +15 (+19 to identify undead creatures and their abilities)
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +16, [[rangoric-srd/skills/Deception|Deception]] +19, [[rangoric-srd/skills/Imitation|Imitation]] +19, [[rangoric-srd/skills/Intimidation|Intimidation]] +19, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Performance|Performance]] (oratory) +17, [[rangoric-srd/skills/Performance|Performance]] (percussion instruments) +22, [[rangoric-srd/skills/Persuasion|Persuasion]] +19, [[rangoric-srd/skills/Society|Society]] +20, [[rangoric-srd/skills/Theology|Theology]] +15 (+19 to identify undead creatures and their abilities)
 - **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (paralysis), [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
 - **Environment**: Any land
 - **Organization**: Solitary, or with other ghouls (see [[rangoric-srd/monsters/ghouls/Ghoul|Ghoul]])

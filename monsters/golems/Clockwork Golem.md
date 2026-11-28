@@ -75,4 +75,4 @@ Forged from thousands of gears, the clockwork golem is a precision creation. In 
 
 ### Construction
 
-CL 15th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Animate Objects|animate objects]]_, _[[rangoric-srd/spells/Blade Barrier|blade barrier]]_, _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, _[[rangoric-srd/spells/Grease|grease]]_, _[[rangoric-srd/spells/Telekinesis|telekinesis]]_, creator must be caster level 15th; Skill [[rangoric-srd/skills/Craft|Craft]] (clocks) or [[rangoric-srd/skills/Craft|Craft]] (locks) DC 20; Price 120,000 gp; Cost 65,000 gp.
+CL 15th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Animate Objects|animate objects]]_, _[[rangoric-srd/spells/Blade Barrier|blade barrier]]_, _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, _[[rangoric-srd/spells/Grease|grease]]_, _[[rangoric-srd/spells/Telekinesis|telekinesis]]_, creator must be caster level 15th; Skill [[rangoric-srd/skills/Background|Background]] (clockmaking) or [[rangoric-srd/skills/Background|Background]] (locksmithing) DC 20; Price 120,000 gp; Cost 65,000 gp.

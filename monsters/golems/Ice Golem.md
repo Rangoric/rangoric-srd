@@ -65,7 +65,7 @@ Ice golems cannot speak, and move with the sound of cracking and popping ice. An
 
 ### Combat
 
-An ice golem's body must be constructed from a single block of ice weighing at least 1,000 pounds. The ice is treated with magical powders and unguents worth at least 500 gp. Creating the body requires a DC 17 [[rangoric-srd/skills/Craft|Craft]] (sculptures) check.
+An ice golem's body must be constructed from a single block of ice weighing at least 1,000 pounds. The ice is treated with magical powders and unguents worth at least 500 gp. Creating the body requires a DC 17 [[rangoric-srd/skills/Background|Background]] (sculpting) check.
 
 CL 12th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Chill Touch|chill touch]]_, _[[rangoric-srd/spells/Cone of Cold|cone of cold]]_, _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, _[[rangoric-srd/spells/Ice Storm|ice storm]]_, _[[rangoric-srd/spells/Resist Energy|resist energy]]_ (cold), caster must be at least 12th level; Price 18,500 gp; Cost 9,500 gp.
 

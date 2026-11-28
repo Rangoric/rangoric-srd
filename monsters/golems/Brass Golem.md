@@ -77,4 +77,4 @@ Implacable automatons of elemental fire and extraplanar brass, brass golems stan
 
 ### Construction
 
-CL 17th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, _[[rangoric-srd/spells/Incendiary Cloud|incendiary cloud]]_, _[[rangoric-srd/spells/Limited Wish|limited wish]]_, _[[rangoric-srd/spells/See Invisibility|see invisibility]]_, creator must be caster level 17th; Skill [[rangoric-srd/skills/Craft|Craft]] (armor) or [[rangoric-srd/skills/Craft|Craft]] (blacksmithing) DC 22; Price 180,000 gp; Cost 100,000 gp.
+CL 17th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, _[[rangoric-srd/spells/Incendiary Cloud|incendiary cloud]]_, _[[rangoric-srd/spells/Limited Wish|limited wish]]_, _[[rangoric-srd/spells/See Invisibility|see invisibility]]_, creator must be caster level 17th; Skill [[rangoric-srd/skills/Background|Background]] (armorsmithing) or [[rangoric-srd/skills/Background|Background]] (blacksmithing) DC 22; Price 180,000 gp; Cost 100,000 gp.

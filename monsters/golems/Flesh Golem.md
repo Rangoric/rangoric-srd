@@ -68,7 +68,7 @@ Although most flesh golems are mindless, there are persistent rumors of unusual 
 
 The pieces of a flesh golem must come from normal human corpses that have not decayed significantly. Assembly requires a minimum of six different bodies - one for each limb, the torso (including head), and the brain. In some cases, more bodies may be necessary. Special unguents and bindings worth 500 gp are also required. Note that creating a flesh golem requires casting a spell with the evil descriptor.
 
-Assembling the body requires a DC 13 [[rangoric-srd/skills/Craft|Craft]] (leatherworking) check or a DC 13 [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] check.
+Assembling the body requires a DC 13 [[rangoric-srd/skills/Background|Background]] (leatherworking) check or a DC 13 [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] check.
 
 CL 8th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], [[rangoric-srd/spells/Animate Dead|animate dead]], [[rangoric-srd/spells/Bull’s Strength|bull’s strength]], [[rangoric-srd/spells/Geas-Quest|geas/quest]], [[rangoric-srd/spells/Limited Wish|limited wish]], caster must be at least 8th level; Price 20,000 gp; Cost 10,500 gp + 780 XP.
 

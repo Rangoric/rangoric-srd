@@ -18,8 +18,8 @@ special-attacks: "—"
 special-qualities: "—"
 defenses: "Fort 11, Ref 15, Will 13 (+2 vs. fear)"
 abilities: "Str 6, Dex 16, Con 9, Int 10, Wis 12, Cha 13"
-skills: "Acrobatics +5, Athletics +2 (–2 jumping), Craft (cook) +6, Fieldcraft +2, Nature +2, Perception +10, Profession (fisherman) +6, Society +2"
-skill-ranks: "Acrobatics 2, Athletics 1, Craft (cook) 3, Fieldcraft 1, Nature 2, Perception 6, Profession (fisherman) 3, Society 2"
+skills: "Acrobatics +5, Athletics +2 (–2 jumping), Background (cook) +6, Fieldcraft +2, Nature +2, Perception +10, Background (fisherman) +8, Society +2"
+skill-ranks: "Acrobatics 2, Athletics 1, Background (cook) 3, Fieldcraft 1, Nature 2, Perception 6, Background (fisherman) 3, Society 2"
 feats: "Point Blank Shot, Skill Focus (Perception)"
 environment: "Warm plains"
 organization: "Solitary, or with other halflings (see Halfling)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: —
 - **Defenses**: Fort 11, Ref 15, Will 13 (+2 vs. fear)
 - **Abilities**: Str 6, Dex 16, Con 9, Int 10, Wis 12, Cha 13
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +2 (–2 jumping), [[rangoric-srd/skills/Craft|Craft]] (cook) +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +2, [[rangoric-srd/skills/Nature|Nature]] +2, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Profession|Profession]] (fisherman) +6, [[rangoric-srd/skills/Society|Society]] +2
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +2 (–2 jumping), [[rangoric-srd/skills/Background|Background]] (cook) +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +2, [[rangoric-srd/skills/Nature|Nature]] +2, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Background|Background]] (fisherman) +8, [[rangoric-srd/skills/Society|Society]] +2
 - **Feats**: [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
 - **Environment**: Warm plains
 - **Organization**: Solitary, or with other halflings (see [[rangoric-srd/monsters/halflings/Halfling|Halfling]])

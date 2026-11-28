@@ -18,8 +18,8 @@ special-attacks: "Heated rock, pole fighting -4, rock throwing (120 ft.)"
 special-qualities: "Low-light vision, rock catching, immunity to fire, vulnerability to cold"
 defenses: "Fort 29, Ref 16, Will 20"
 abilities: "Str 29, Dex 13, Con 25, Int 12, Wis 16, Cha 10"
-skills: "Athletics +22, Craft (armor) +9, Intimidation +20, Perception +23, Profession (soldier) +9"
-skill-ranks: "Athletics 10, Craft (armor) 5, Intimidation 17, Perception 17, Profession (soldier) 5"
+skills: "Athletics +22, Background (armorsmithing) +9, Intimidation +20, Perception +23, Background (soldier) +10"
+skill-ranks: "Athletics 10, Background (armorsmithing) 5, Intimidation 17, Perception 17, Background (soldier) 5"
 feats: "Cleave, Great Cleave, Greater Overrun, Improved Initiative, Improved Overrun, Improved Sunder, Iron Will, Power Attack, Smoking Boulder, Step Up, Weapon Focus (glaive)"
 environment: "Warm mountains"
 organization: "Solitary, or with other fire giants (see Fire Giant)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, vulnerability to cold
 - **Defenses**: Fort 29, Ref 16, Will 20
 - **Abilities**: Str 29, Dex 13, Con 25, Int 12, Wis 16, Cha 10
-- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +22, [[rangoric-srd/skills/Craft|Craft]] (armor) +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +20, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Profession|Profession]] (soldier) +9
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +22, [[rangoric-srd/skills/Background|Background]] (armorsmithing) +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +20, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Background|Background]] (soldier) +10
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Greater Overrun|Greater Overrun]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Smoking Boulder|Smoking Boulder]], [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (glaive)
 - **Environment**: Warm mountains
 - **Organization**: Solitary, or with other fire giants (see [[rangoric-srd/monsters/giants/Fire Giant|Fire Giant]])

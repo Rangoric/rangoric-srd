@@ -75,4 +75,4 @@ Coral golems are constructs made entirely of colonies of living coral drawn from
 
 A coral golem's body is made of a healthy colony of living coral weighing at least 1,000 pounds, infused with rare organic substances and minerals worth 3,500 gp.
 
-CL 11th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Animate Objects|animate object]]_, _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, _[[rangoric-srd/spells/Keen Edge|keen edge]]_, _[[rangoric-srd/spells/Limited Wish|limited wish]]_, _[[rangoric-srd/spells/Water Breathing|water breathing]]_, creator must be caster level 11th; Skill [[rangoric-srd/skills/Craft|Craft]] (sculpture) DC 15; Price 57,500 gp; Cost 30,500 gp.
+CL 11th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Animate Objects|animate object]]_, _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, _[[rangoric-srd/spells/Keen Edge|keen edge]]_, _[[rangoric-srd/spells/Limited Wish|limited wish]]_, _[[rangoric-srd/spells/Water Breathing|water breathing]]_, creator must be caster level 11th; Skill [[rangoric-srd/skills/Background|Background]] (sculpting) DC 15; Price 57,500 gp; Cost 30,500 gp.

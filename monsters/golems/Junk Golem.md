@@ -79,4 +79,4 @@ Junk golems are assembled from trash and spare parts, and often leave trails of 
 
 A junk golem's body is made up of 250 pounds of assorted rubbish with 200 gp of spare metal and copper wire.
 
-CL 7th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/False Life|false life]]_, _[[rangoric-srd/spells/Geas, Lesser|lesser geas]]_, _[[rangoric-srd/spells/Minor Creation|minor creation]]_, _[[rangoric-srd/spells/Rusting Grasp|rusting grasp]]_, creator must be caster level 7th; Skill [[rangoric-srd/skills/Craft|Craft]] (sculpture); Price 10,200 gp; Cost 5,200 gp.
+CL 7th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/False Life|false life]]_, _[[rangoric-srd/spells/Geas, Lesser|lesser geas]]_, _[[rangoric-srd/spells/Minor Creation|minor creation]]_, _[[rangoric-srd/spells/Rusting Grasp|rusting grasp]]_, creator must be caster level 7th; Skill [[rangoric-srd/skills/Background|Background]] (sculpting); Price 10,200 gp; Cost 5,200 gp.

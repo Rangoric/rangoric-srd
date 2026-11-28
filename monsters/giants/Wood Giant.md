@@ -18,8 +18,8 @@ special-attacks: "Spell-like abilities"
 special-qualities: "Low-light vision, rock catching"
 defenses: "Fort 19, Ref 18, Will 17"
 abilities: "Str 20, Dex 21, Con 17, Int 14, Wis 15, Cha 12"
-skills: "Acrobatics +11, Athletics +14 (+18 jumping), Fieldcraft +8, Nature +8, Perception +11, Profession (farmer) +8, Stealth +7 (+11 in forests)"
-skill-ranks: "Acrobatics 3, Athletics 6, Fieldcraft 3, Nature 3, Perception 6, Profession (farmer) 3, Stealth 3"
+skills: "Acrobatics +11, Athletics +14 (+18 jumping), Fieldcraft +8, Nature +8, Perception +11, Background (farmer) +8, Stealth +7 (+11 in forests)"
+skill-ranks: "Acrobatics 3, Athletics 6, Fieldcraft 3, Nature 3, Perception 6, Background (farmer) 3, Stealth 3"
 feats: "Deadly Aim, Iron Will, Point Blank Shot, Precise Shot, Rapid Shot"
 environment: "Temperate forests"
 organization: "Solitary, gang (2–4), hunting party (5–9, plus 1–4 dire wolves), or clan (10–40, plus 35% noncombatants, 1–3 druids or witches of 2nd–4th level, 1 ranger chieftain of 3rd–7th level, 4–10 dire wolves, and 2–8 giant eagles)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]]
 - **Defenses**: Fort 19, Ref 18, Will 17
 - **Abilities**: Str 20, Dex 21, Con 17, Int 14, Wis 15, Cha 12
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +14 (+18 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8, [[rangoric-srd/skills/Nature|Nature]] +8, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Profession|Profession]] (farmer) +8, [[rangoric-srd/skills/Stealth|Stealth]] +7 (+11 in forests)
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +14 (+18 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8, [[rangoric-srd/skills/Nature|Nature]] +8, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Background|Background]] (farmer) +8, [[rangoric-srd/skills/Stealth|Stealth]] +7 (+11 in forests)
 - **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]]
 - **Environment**: Temperate forests
 - **Organization**: Solitary, gang (2–4), hunting party (5–9, plus 1–4 dire wolves), or clan (10–40, plus 35% noncombatants, 1–3 druids or witches of 2nd–4th level, 1 ranger chieftain of 3rd–7th level, 4–10 dire wolves, and 2–8 giant eagles)

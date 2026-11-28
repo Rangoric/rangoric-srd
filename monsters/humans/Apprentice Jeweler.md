@@ -18,9 +18,9 @@ special-attacks: "—"
 special-qualities: "—"
 defenses: "Fort 10, Ref 12, Will 12"
 abilities: "Str 8, Dex 15, Con 11, Int 12, Wis 10, Cha 9"
-skills: "Appraise +5, Craft (jewelry) +8, Emulation +3, Engineering +6, Perception +4, Persuasion +3, Society +5"
-skill-ranks: "Appraise 1, Craft (jewelry) 4, Emulation 1, Engineering 1, Perception 1, Persuasion 1, Society 1"
-feats: "Run, Skill Focus (Craft [jewelry])"
+skills: "Appraise +5, Background (jewelcrafting) +8, Emulation +3, Engineering +6, Perception +4, Persuasion +3, Society +5"
+skill-ranks: "Appraise 1, Background (jewelcrafting) 4, Emulation 1, Engineering 1, Perception 1, Persuasion 1, Society 1"
+feats: "Run, Skill Focus (Background [jewelcrafting])"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
 challenge-rating: "1/3"
@@ -49,8 +49,8 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: —
 - **Defenses**: Fort 10, Ref 12, Will 12
 - **Abilities**: Str 8, Dex 15, Con 11, Int 12, Wis 10, Cha 9
-- **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +5, [[rangoric-srd/skills/Craft|Craft]] (jewelry) +8, [[rangoric-srd/skills/Emulation|Emulation]] +3, [[rangoric-srd/skills/Engineering|Engineering]] +6, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Persuasion|Persuasion]] +3, [[rangoric-srd/skills/Society|Society]] +5
-- **Feats**: [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Craft \[jewelry\])
+- **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +5, [[rangoric-srd/skills/Background|Background]] (jewelcrafting) +8, [[rangoric-srd/skills/Emulation|Emulation]] +3, [[rangoric-srd/skills/Engineering|Engineering]] +6, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Persuasion|Persuasion]] +3, [[rangoric-srd/skills/Society|Society]] +5
+- **Feats**: [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Background \[jewelcrafting\])
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/humans/Human|Human]])
 - **Challenge Rating**: 1/3

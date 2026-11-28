@@ -73,4 +73,4 @@ Fossil golems are often used to guard caverns and other natural fortifications. 
 
 ### Construction
 
-CL 15th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Flesh to Stone|flesh to stone]]_, _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, _[[rangoric-srd/spells/Limited Wish|limited wish]]_, _[[rangoric-srd/spells/Stone Shape|stone shape]]_, creator must be at least caster level 15th; Skill [[rangoric-srd/skills/Craft|Craft]] (sculpture) or [[rangoric-srd/skills/Medicine|Medicine]] DC 20; Price 125,000 gp; Cost 65,000 gp.
+CL 15th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Flesh to Stone|flesh to stone]]_, _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, _[[rangoric-srd/spells/Limited Wish|limited wish]]_, _[[rangoric-srd/spells/Stone Shape|stone shape]]_, creator must be at least caster level 15th; Skill [[rangoric-srd/skills/Background|Background]] (sculpting) or [[rangoric-srd/skills/Medicine|Medicine]] DC 20; Price 125,000 gp; Cost 65,000 gp.

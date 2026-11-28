@@ -77,4 +77,4 @@ A blood golem is an animate mass of living blood. It can creep about in liquid f
 
 A blood golem's body must be constructed from the fresh blood of approximately 20 Medium creatures and alchemical fluids worth at least 500 gp.
 
-CL 7th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Animate Dead|animate dead]]_, _[[rangoric-srd/spells/Bleed|bleed]]_, _[[rangoric-srd/spells/Cure Critical Wounds|cure critical wounds]]_, _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, creator must be caster level 12th; Skill [[rangoric-srd/skills/Craft|Craft]] (alchemy) DC 17; Price 22,500 gp; Cost 11,500 gp.
+CL 7th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Animate Dead|animate dead]]_, _[[rangoric-srd/spells/Bleed|bleed]]_, _[[rangoric-srd/spells/Cure Critical Wounds|cure critical wounds]]_, _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, creator must be caster level 12th; Skill [[rangoric-srd/skills/Background|Background]] (alchemy) DC 17; Price 22,500 gp; Cost 11,500 gp.

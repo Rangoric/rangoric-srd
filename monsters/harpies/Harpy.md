@@ -17,8 +17,8 @@ special-attacks: "Captivating song"
 special-qualities: "Darkvision 60 ft."
 defenses: "Fort 14, Ref 17, Will 16"
 abilities: "Str 12, Dex 15, Con 10, Int 7, Wis 12, Cha 17"
-skills: "Acrobatics +12, Deception +7, Intimidation +7, Perception +7, Performance (song) +5"
-skill-ranks: "Acrobatics 7, Deception 1, Intimidation 1, Perception 3, Performance (song) 4"
+skills: "Acrobatics +12, Deception +7, Intimidation +7, Perception +7, Performance (sing) +8"
+skill-ranks: "Acrobatics 7, Deception 1, Intimidation 1, Perception 3, Performance (sing) 4"
 feats: "Dodge, Flyby Attack, Great Fortitude, Skill Focus (Deception)"
 environment: "Temperate marshes"
 organization: "Solitary, pair, or flight (3–12)"
@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft.
 - **Defenses**: Fort 14, Ref 17, Will 16
 - **Abilities**: Str 12, Dex 15, Con 10, Int 7, Wis 12, Cha 17
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Perception|Perception]] +7, Performance (song) +5
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Performance|Performance]] (sing) +8
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception)
 - **Environment**: Temperate marshes
 - **Organization**: Solitary, pair, or flight (3–12)

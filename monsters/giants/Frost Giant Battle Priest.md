@@ -18,8 +18,8 @@ special-attacks: "Channel negative energy 5/day (+6 vs Will, 4d6), might of the 
 special-qualities: "Low-light vision, rock catching, icicle 9/day (1d6+3), immunity to cold, vulnerability to fire"
 defenses: "Fort 29, Ref 17, Will 26"
 abilities: "Str 34, Dex 8, Con 18, Int 13, Wis 23, Cha 14"
-skills: "Athletics +17, Craft (armor) +10, Intimidation +15, Mysticism +7, Perception +30, Stealth +1 (+5 in snow), Theology +14"
-skill-ranks: "Athletics 2, Craft (armor) 6, Intimidation 10, Mysticism 3, Perception 21, Stealth 3, Theology 10"
+skills: "Athletics +17, Background (armorsmithing) +10, Intimidation +15, Mysticism +7, Perception +30, Stealth +1 (+5 in snow), Theology +14"
+skill-ranks: "Athletics 2, Background (armorsmithing) 6, Intimidation 10, Mysticism 3, Perception 21, Stealth 3, Theology 10"
 feats: "Brew Potion, Cleave, Combat Casting, Craft Magic Arms and Armor, Craft Wand, Great Cleave, Improved Sunder, Lightning Reflexes, Martial Weapon Proficiency (battleaxe), Power Attack, Vital Strike, Weapon Focus (battleaxe)"
 environment: "Cold mountains"
 organization: "Solitary, or with other frost giants (see Frost Giant)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], [[rangoric-srd/class-options/domains/Water Domain|icicle]] 9/day (1d6+3), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, vulnerability to fire
 - **Defenses**: Fort 29, Ref 17, Will 26
 - **Abilities**: Str 34, Dex 8, Con 18, Int 13, Wis 23, Cha 14
-- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +17, [[rangoric-srd/skills/Craft|Craft]] (armor) +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +15, [[rangoric-srd/skills/Mysticism|Mysticism]] +7, [[rangoric-srd/skills/Perception|Perception]] +30, [[rangoric-srd/skills/Stealth|Stealth]] +1 (+5 in snow), [[rangoric-srd/skills/Theology|Theology]] +14
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +17, [[rangoric-srd/skills/Background|Background]] (armorsmithing) +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +15, [[rangoric-srd/skills/Mysticism|Mysticism]] +7, [[rangoric-srd/skills/Perception|Perception]] +30, [[rangoric-srd/skills/Stealth|Stealth]] +1 (+5 in snow), [[rangoric-srd/skills/Theology|Theology]] +14
 - **Feats**: [[rangoric-srd/feats/Brew Potion|Brew Potion]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], [[rangoric-srd/feats/Craft Wand|Craft Wand]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Martial Weapon Proficiency|Martial Weapon Proficiency]] (battleaxe), [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (battleaxe)
 - **Environment**: Cold mountains
 - **Organization**: Solitary, or with other frost giants (see [[rangoric-srd/monsters/giants/Frost Giant|Frost Giant]])

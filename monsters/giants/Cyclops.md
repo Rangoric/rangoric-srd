@@ -18,8 +18,8 @@ special-attacks: "—"
 special-qualities: "Low-light vision, ferocity, flash of insight"
 defenses: "Fort 19, Ref 12, Will 14"
 abilities: "Str 21, Dex 8, Con 15, Int 10, Wis 13, Cha 8"
-skills: "Fieldcraft +6, Intimidation +9, Perception +12, Profession (soothsayer) +10"
-skill-ranks: "Fieldcraft 2, Intimidation 7, Perception 2, Profession (soothsayer) 7"
+skills: "Fieldcraft +6, Intimidation +9, Perception +12, Background (soothsayer) +12"
+skill-ranks: "Fieldcraft 2, Intimidation 7, Perception 2, Background (soothsayer) 7"
 feats: "Cleave, Great Cleave, Improved Bull Rush, Power Attack, Skill Focus (Perception)"
 environment: "Any temperate or tropical"
 organization: "Solitary or conclave (2–6) or tribe (7–18)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], flash of insight
 - **Defenses**: Fort 19, Ref 12, Will 14
 - **Abilities**: Str 21, Dex 8, Con 15, Int 10, Wis 13, Cha 8
-- **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Profession|Profession]] (soothsayer) +10
+- **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Background|Background]] (soothsayer) +12
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
 - **Environment**: Any temperate or tropical
 - **Organization**: Solitary or conclave (2–6) or tribe (7–18)

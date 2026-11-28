@@ -77,4 +77,4 @@ A cannon golem's internal workings are a mechanical labyrinth; its extradimensio
 
 ### Construction
 
-CL 17th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, _[[rangoric-srd/spells/Limited Wish|limited wish]]_, _[[rangoric-srd/spells/Plane Shift|plane shift]]_ or _[[rangoric-srd/spells/Secret Chest|secret chest]]_, creator must be caster level 17th; Skill [[rangoric-srd/skills/Craft|Craft]] (siege engine) and [[rangoric-srd/skills/Engineering|Engineering]] DC 25; Price 200,000 gp; Cost 105,000 gp.
+CL 17th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, _[[rangoric-srd/spells/Limited Wish|limited wish]]_, _[[rangoric-srd/spells/Plane Shift|plane shift]]_ or _[[rangoric-srd/spells/Secret Chest|secret chest]]_, creator must be caster level 17th; Skill [[rangoric-srd/skills/Background|Background]] (siegecraft) and [[rangoric-srd/skills/Engineering|Engineering]] DC 25; Price 200,000 gp; Cost 105,000 gp.

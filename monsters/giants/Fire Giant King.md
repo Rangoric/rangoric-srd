@@ -18,8 +18,8 @@ special-attacks: "Combat style (two-handed weapon), favored enemy (animals +2, d
 special-qualities: "Low-light vision, evasion, rock catching, favored terrain (mountain +4, underground +2), hunter's bond (companions), swift tracker, track +5, wild empathy +12, woodland stride, immunity to fire, vulnerability to cold"
 defenses: "Fort 36, Ref 20, Will 24"
 abilities: "Str 39, Dex 7, Con 30, Int 13, Wis 18, Cha 14"
-skills: "Athletics +28, Craft (armor) +9, Intimidation +30, Mysticism +17, Perception +38, Society +14, Stealth +7"
-skill-ranks: "Athletics 11, Craft (armor) 5, Intimidation 25, Mysticism 13, Perception 31, Society 10, Stealth 10"
+skills: "Athletics +28, Background (armorsmithing) +9, Intimidation +30, Mysticism +17, Perception +38, Society +14, Stealth +7"
+skill-ranks: "Athletics 11, Background (armorsmithing) 5, Intimidation 25, Mysticism 13, Perception 31, Society 10, Stealth 10"
 feats: "Cleave, Endurance, Great Cleave, Improved Bull Rush, Improved Critical (greatsword), Improved Initiative, Improved Natural Armor, Improved Overrun, Improved Sunder, Iron Will, Power Attack, Skill Focus (Perception), Track, Vital Strike, Weapon Focus (greatsword)"
 environment: "Warm mountains"
 organization: "Solitary, or with other fire giants (see Fire Giant)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Ranger#^ranger-evasion|evasion]], [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|favored terrain]] (mountain +4, underground +2), [[rangoric-srd/classes/Ranger#^ranger-hunters-bond|hunter's bond]] (companions), [[rangoric-srd/classes/Ranger#^ranger-swift-tracker|swift tracker]], [[rangoric-srd/classes/Ranger|track]] +5, [[rangoric-srd/classes/Ranger|wild empathy]] +12, [[rangoric-srd/classes/Ranger#^ranger-woodland-stride|woodland stride]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, vulnerability to cold
 - **Defenses**: Fort 36, Ref 20, Will 24
 - **Abilities**: Str 39, Dex 7, Con 30, Int 13, Wis 18, Cha 14
-- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +28, [[rangoric-srd/skills/Craft|Craft]] (armor) +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +30, [[rangoric-srd/skills/Mysticism|Mysticism]] +17, [[rangoric-srd/skills/Perception|Perception]] +38, [[rangoric-srd/skills/Society|Society]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +7
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +28, [[rangoric-srd/skills/Background|Background]] (armorsmithing) +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +30, [[rangoric-srd/skills/Mysticism|Mysticism]] +17, [[rangoric-srd/skills/Perception|Perception]] +38, [[rangoric-srd/skills/Society|Society]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +7
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (greatsword), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Natural Armor|Improved Natural Armor]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Track|Track]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (greatsword)
 - **Environment**: Warm mountains
 - **Organization**: Solitary, or with other fire giants (see [[rangoric-srd/monsters/giants/Fire Giant|Fire Giant]])

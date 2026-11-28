@@ -18,8 +18,8 @@ special-attacks: "Alchemical weapon (swift action), bomb 14/day (4d6+2 fire, +6 
 special-qualities: "Darkvision 60 ft., alchemy (alchemy crafting +8, identify potions), alternate racial features, discoveries (concussive bomb [4d4+2 sonic plus deafness], fast bombs, precise bombs [2 squares], smoke bomb, stink bomb), mutagen (+4/-2, +2 natural, 80 minutes), swift alchemy"
 defenses: "Fort 19, Ref 20, Will 12"
 abilities: "Str 12, Dex 18, Con 16, Int 14, Wis 10, Cha 8"
-skills: "Arcana +11, Craft (alchemy) +15, Emulation +6, Engineering +8, Medicine +7, Mysticism +13, Nature +11, Perception +16"
-skill-ranks: "Arcana 6, Craft (alchemy) 10, Emulation 4, Engineering 3, Medicine 4, Mysticism 8, Nature 6, Perception 13"
+skills: "Arcana +11, Background (alchemy) +15, Emulation +6, Engineering +8, Medicine +7, Mysticism +13, Nature +11, Perception +16"
+skill-ranks: "Arcana 6, Background (alchemy) 10, Emulation 4, Engineering 3, Medicine 4, Mysticism 8, Nature 6, Perception 13"
 feats: "Point Blank Shot, Precise Shot, Throw Anything, Toughness, Weapon Focus (bomb)"
 environment: "Temperate hills"
 organization: "Solitary, or with other hobgoblins (see Hobgoblin)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Alchemist#^alchemist-alchemy|alchemy]] (alchemy crafting +8, identify potions), alternate racial features, [[rangoric-srd/classes/Alchemist#^alchemist-discovery|discoveries]] ([[rangoric-srd/class-options/discoveries/Concussive Bomb (Discovery)|concussive bomb]] \[4d4+2 sonic plus deafness\], [[rangoric-srd/class-options/discoveries/Fast Bombs (Discovery)|fast bombs]], [[rangoric-srd/class-options/discoveries/Precise Bombs (Discovery)|precise bombs]] \[2 squares\], [[rangoric-srd/class-options/discoveries/Smoke Bomb (Discovery)|smoke bomb]], [[rangoric-srd/class-options/discoveries/Stink Bomb (Discovery)|stink bomb]]), [[rangoric-srd/classes/Alchemist#^alchemist-mutagen|mutagen]] (+4/-2, +2 natural, 80 minutes), [[rangoric-srd/classes/Alchemist#^alchemist-swift-alchemy|swift alchemy]]
 - **Defenses**: Fort 19, Ref 20, Will 12
 - **Abilities**: Str 12, Dex 18, Con 16, Int 14, Wis 10, Cha 8
-- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +11, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +15, [[rangoric-srd/skills/Emulation|Emulation]] +6, [[rangoric-srd/skills/Engineering|Engineering]] +8, [[rangoric-srd/skills/Medicine|Medicine]] +7, [[rangoric-srd/skills/Mysticism|Mysticism]] +13, [[rangoric-srd/skills/Nature|Nature]] +11, [[rangoric-srd/skills/Perception|Perception]] +16
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +11, [[rangoric-srd/skills/Background|Background]] (alchemy) +15, [[rangoric-srd/skills/Emulation|Emulation]] +6, [[rangoric-srd/skills/Engineering|Engineering]] +8, [[rangoric-srd/skills/Medicine|Medicine]] +7, [[rangoric-srd/skills/Mysticism|Mysticism]] +13, [[rangoric-srd/skills/Nature|Nature]] +11, [[rangoric-srd/skills/Perception|Perception]] +16
 - **Feats**: [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Throw Anything|Throw Anything]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bomb)
 - **Environment**: Temperate hills
 - **Organization**: Solitary, or with other hobgoblins (see [[rangoric-srd/monsters/hobgoblins/Hobgoblin|Hobgoblin]])
@@ -71,4 +71,4 @@ A hobgoblin bombardier speaks Aklo, Common, Goblin, and Sylvan.
 
 **Alchemist extracts prepared** (CL 8th): 3rd—_[[rangoric-srd/spells/Fly|fly]]_, _[[rangoric-srd/spells/Haste|haste]]_; 2nd—_[[rangoric-srd/spells/Barkskin|barkskin]]_, _[[rangoric-srd/spells/Cat’s Grace|cat's grace]]_, _[[rangoric-srd/spells/False Life|false life]]_, _[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Resist Energy|resist energy]]_; 1st—_[[rangoric-srd/spells/Bomber’s Eye|bomber's eye]]_, _[[rangoric-srd/spells/Expeditious Retreat|expeditious retreat]]_, _[[rangoric-srd/spells/Shield|shield]]_, _[[rangoric-srd/spells/True Strike|true strike]]_ (2).
 
-**Alternate Racial Features (Ex)**: The bombardier has the [[rangoric-srd/races/racial-traits/Engineer|engineer]] racial trait in place of [[rangoric-srd/monsters/hobgoblins/Hobgoblin|sneaky]], granting him a +2 bonus on Craft (alchemy) and Engineering checks. He has the [[rangoric-srd/races/class-bonuses/Hobgoblin Alchemist (Class Bonus)|hobgoblin’s alchemist class bonus]], granting him four additional uses of his bomb ability each day.
+**Alternate Racial Features (Ex)**: The bombardier has the [[rangoric-srd/races/racial-traits/Engineer|engineer]] racial trait in place of [[rangoric-srd/monsters/hobgoblins/Hobgoblin|sneaky]], granting him a +2 bonus on Background (alchemy) and Engineering checks. He has the [[rangoric-srd/races/class-bonuses/Hobgoblin Alchemist (Class Bonus)|hobgoblin’s alchemist class bonus]], granting him four additional uses of his bomb ability each day.

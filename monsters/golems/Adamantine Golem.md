@@ -72,4 +72,4 @@ Made using one of the hardest and most precious substances, the adamantine golem
 
 ### Construction
 
-CL 20th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Crushing Hand|crushing hand]]_, _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, _[[rangoric-srd/spells/Heal (Spell)|heal]]_, _[[rangoric-srd/spells/Stoneskin|stoneskin]]_, _[[rangoric-srd/spells/Wish|wish]]_, creator must be caster level 20th; Skill [[rangoric-srd/skills/Craft|Craft]] (sculpture) DC 35; Price 600,000 gp; Cost 350,000 gp.
+CL 20th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Crushing Hand|crushing hand]]_, _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, _[[rangoric-srd/spells/Heal (Spell)|heal]]_, _[[rangoric-srd/spells/Stoneskin|stoneskin]]_, _[[rangoric-srd/spells/Wish|wish]]_, creator must be caster level 20th; Skill [[rangoric-srd/skills/Background|Background]] (sculpting) DC 35; Price 600,000 gp; Cost 350,000 gp.
