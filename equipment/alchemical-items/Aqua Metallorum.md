@@ -7,7 +7,7 @@ magical: false
 aura: "No aura"
 cl: "1st"
 prerequisites:
-  - "At least one rank in Craft (alchemy)"
+  - "At least one rank in Background (alchemy)"
 dc: "20"
 price: "50 gp/quart"
 status: draft
@@ -23,6 +23,6 @@ Aqua metallorum is the primary base for high-end alchemical creations such as el
 
 Aqua metallorum is the most easily identified of alchemical aquas—it has the same silvery sheen as mercury. It is also the most difficult base to create, and successfully creating aqua metallorum is when most masters consider an apprentice to have gained some true understanding of alchemy (and allow said apprentice to graduate out of making bases and polishes and commonplace items).
 
-**Construction**: No aura; CL 1st; At least one rank in [[rangoric-srd/skills/Craft|Craft]] (alchemy); DC: 20; Price: 50 gp/quart
+**Construction**: No aura; CL 1st; At least one rank in [[rangoric-srd/skills/Background|Background]] (alchemy); DC: 20; Price: 50 gp/quart
 
 An item of the alchemical and herbal catalog ([[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Item Categories and Definitions|categories]]); its entry follows the [[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Catalog Template|catalog template]].

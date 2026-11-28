@@ -8,7 +8,7 @@ magical: false
 aura: "No aura"
 cl: "2nd"
 prerequisites:
-  - "Profession (herbalist)"
+  - "Background (herbalist)"
   - "Craft Herbal Restoratives"
 dc: "13"
 price: "25 gp/oz"
@@ -25,6 +25,6 @@ New day tea, while an herbal restorative meant for tired guards and watchmen, ha
 
 Each ounce of tea leaves can brew up to five pots of tea (16 oz. each), and the herb can be sold pre-brewed or cold at 1gp/4 ounces of hot or cold tea.
 
-**Construction**: No aura; CL 2nd; [[rangoric-srd/skills/Profession|Profession]] (herbalist), [[rangoric-srd/feats/Craft Herbal Restoratives|Craft Herbal Restoratives]]; DC: 13; Price: 25 gp/oz.
+**Construction**: No aura; CL 2nd; [[rangoric-srd/skills/Background|Background]] (herbalist), [[rangoric-srd/feats/Craft Herbal Restoratives|Craft Herbal Restoratives]]; DC: 13; Price: 25 gp/oz.
 
 An item of the alchemical and herbal catalog ([[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Item Categories and Definitions|categories]]); its entry follows the [[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Catalog Template|catalog template]].

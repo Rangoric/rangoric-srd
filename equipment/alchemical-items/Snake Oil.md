@@ -24,4 +24,4 @@ A poison; how afflictions work, and what each line means, is in [[rangoric-srd/r
 - **Effect**: on a hit, 1 point of nonlethal damage; on a miss, the imbiber instead heals 1d6 points of nonlethal damage
 - **Cure**: 1 miss
 
-[[rangoric-srd/skills/Craft|Craft]] (alchemy) DC 20; Price 20 gp; Weight —.
+[[rangoric-srd/skills/Background|Background]] (alchemy) DC 20; Price 20 gp; Weight —.

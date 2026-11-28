@@ -7,7 +7,7 @@ magical: false
 aura: "No aura"
 cl: "See above"
 prerequisites:
-  - "Craft (alchemy)"
+  - "Background (alchemy)"
   - "Create Alchana"
 dc: "See above"
 price: "See above"
@@ -42,6 +42,6 @@ Siege salts were created specifically for castle siege combat, or more particula
 | Fog              | 5   | 20  | 1,000 gp/1 pound | 10,000 gp/20 pounds |
 | Slumber          | 5   | 20  | 1,000 gp/1 pound | 10,000 gp/20 pounds |
 
-**Construction**: No aura; CL See above; [[rangoric-srd/skills/Craft|Craft]] (alchemy), [[rangoric-srd/feats/Create Alchana|Create Alchana]]; DC: See above; Price: See above
+**Construction**: No aura; CL See above; [[rangoric-srd/skills/Background|Background]] (alchemy), [[rangoric-srd/feats/Create Alchana|Create Alchana]]; DC: See above; Price: See above
 
 An item of the alchemical and herbal catalog ([[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Item Categories and Definitions|categories]]); its entry follows the [[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Catalog Template|catalog template]].

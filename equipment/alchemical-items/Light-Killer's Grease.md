@@ -18,6 +18,6 @@ When combined correctly, this black, tarry mass absorbs light. It must be applie
 
 Once applied, the grease remains potent for 1 hour. Removing the grease is a full-round action that requires a gallon of water or another suitable washing liquid; otherwise, the visual marks can be removed, ending the effect, but the smell remains for the full duration.
 
-Crafting _light-killer's grease_ requires a successful DC 15 [[rangoric-srd/skills/Craft|Craft]] (alchemy) check.
+Crafting _light-killer's grease_ requires a successful DC 15 [[rangoric-srd/skills/Background|Background]] (alchemy) check.
 
-[[rangoric-srd/skills/Craft|Craft]] (alchemy) DC 15; Price 25 gp.
+[[rangoric-srd/skills/Background|Background]] (alchemy) DC 15; Price 25 gp.

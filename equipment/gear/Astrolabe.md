@@ -11,6 +11,6 @@ tags: [rangoric, rangoric/gear]
 
 # Astrolabe
 
-This device consists of a flat disc upon which two other discs are mounted. The mounted discs can rotate on a central axis, allowing them to spin and move as days pass. The bottom disc represents the latitude of the user; the upper disc represents the sky, and is filled with astronomical features. Anyone can be shown how to use an astrolabe at night to determine the date and time (which takes 1 minute). An astrolabe grants a +2 circumstance bonus on [[rangoric-srd/skills/Society|Society]] and [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks to navigate in the wilderness (and on [[rangoric-srd/skills/Profession|Profession]] (sailor) checks to navigate at sea).
+This device consists of a flat disc upon which two other discs are mounted. The mounted discs can rotate on a central axis, allowing them to spin and move as days pass. The bottom disc represents the latitude of the user; the upper disc represents the sky, and is filled with astronomical features. Anyone can be shown how to use an astrolabe at night to determine the date and time (which takes 1 minute). An astrolabe grants a +2 circumstance bonus on [[rangoric-srd/skills/Society|Society]] and [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks to navigate in the wilderness (and on [[rangoric-srd/skills/Background|Background]] (sailor) checks to navigate at sea).
 
 Price 1,000 gp; Weight 6 lb.

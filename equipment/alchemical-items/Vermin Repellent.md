@@ -19,4 +19,4 @@ This vile-smelling white paste keeps vermin at bay if spread on your skin. Norma
 
 Vermin repellent counts as a strong scent, allowing creatures with the scent ability to detect it at a greater range.
 
-**Construction**: [[rangoric-srd/skills/Craft|Craft]] (alchemy) DC 20; Price 5 gp.
+**Construction**: [[rangoric-srd/skills/Background|Background]] (alchemy) DC 20; Price 5 gp.

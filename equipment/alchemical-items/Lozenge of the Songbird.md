@@ -14,4 +14,4 @@ tags: [rangoric, rangoric/alchemical-item]
 
 This honey-coated candy is made of soothing reagents. If eaten, it takes 1 round to begin working, then grants a +2 alchemical bonus on all [[rangoric-srd/skills/Performance|Performance]] (sing) checks for 1 hour.
 
-[[rangoric-srd/skills/Craft|Craft]] (alchemy) DC 25; Price 50 gp.
+[[rangoric-srd/skills/Background|Background]] (alchemy) DC 25; Price 50 gp.

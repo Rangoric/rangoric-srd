@@ -8,7 +8,7 @@ magical: false
 aura: "Moderate evocation"
 cl: "8th"
 prerequisites:
-  - "Craft (weaponsmithing)"
+  - "Background (weaponsmithing)"
   - "Create Alchana"
 dc: "25"
 price: "10,000 gp + cost of weapon"
@@ -27,7 +27,7 @@ While it appears to be normal iron when set in bars, it is after forging and tem
 
 Bloodiron is expensive but treasured by rangers (whose favored enemies now have even more reason to fear them) or folk plagued regularly by particular types of monsters. After all, if your garrison’s job is to defend the pass from the annual orc horde out of the higher mountains, having bloodiron weapons to use against them is crucial.
 
-**Construction**: Moderate evocation; CL 8th; [[rangoric-srd/skills/Craft|Craft]] (weaponsmithing), [[rangoric-srd/feats/Create Alchana|Create Alchana]]; DC: 25; Market Price: 10,000 gp + cost of weapon
+**Construction**: Moderate evocation; CL 8th; [[rangoric-srd/skills/Background|Background]] (weaponsmithing), [[rangoric-srd/feats/Create Alchana|Create Alchana]]; DC: 25; Market Price: 10,000 gp + cost of weapon
 
 **Bloodiron Weapons** While it’s certainly possible to find or buy ingots of bloodiron with their barrels of temperants, it is more likely that a treasure hoard will hold a bloodiron weapon. Roll percentile dice twice on the table below to determine which bloodiron weapons are found and which creatures they were forged to kill.
 

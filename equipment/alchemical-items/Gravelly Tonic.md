@@ -14,4 +14,4 @@ tags: [rangoric, rangoric/alchemical-item]
 
 This tonic is sludgy, and its scent resembles the tang of iron shavings. Drinking gravelly tonic causes your voice to deepen and become more grating for 1 hour, granting you a +5 alchemical bonus on [[rangoric-srd/skills/Intimidation|Intimidation]] checks.
 
-[[rangoric-srd/skills/Craft|Craft]] (alchemy) DC 25; Price 50 gp.
+[[rangoric-srd/skills/Background|Background]] (alchemy) DC 25; Price 50 gp.

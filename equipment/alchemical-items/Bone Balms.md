@@ -8,7 +8,7 @@ magical: false
 aura: "Faint abjuration"
 cl: "See above"
 prerequisites:
-  - "Craft (alchemy)"
+  - "Background (alchemy)"
   - "Craft Chymicals or Craft Unguents"
   - "resist energy"
 dc: "See above"
@@ -40,6 +40,6 @@ The bone balms are placed in leather pouches and squeezed and then smeared along
 | Ice/Cold       | 11  | 25  | 340 gp/2 oz. bag | 5,400 gp/4 pounds |
 | Lightning      | 12  | 27  | 375 gp/2 oz. bag | 5,900 gp/4 pounds |
 
-**Construction**: Faint abjuration; CL See above; [[rangoric-srd/skills/Craft|Craft]] (alchemy), [[rangoric-srd/feats/Craft Chymicals|Craft Chymicals]] or [[rangoric-srd/feats/Craft Unguents|Craft Unguents]], _resist energy_; DC: See above; Price: See above
+**Construction**: Faint abjuration; CL See above; [[rangoric-srd/skills/Background|Background]] (alchemy), [[rangoric-srd/feats/Craft Chymicals|Craft Chymicals]] or [[rangoric-srd/feats/Craft Unguents|Craft Unguents]], _resist energy_; DC: See above; Price: See above
 
 An item of the alchemical and herbal catalog ([[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Item Categories and Definitions|categories]]); its entry follows the [[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Catalog Template|catalog template]].

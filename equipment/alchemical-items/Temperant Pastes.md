@@ -33,6 +33,6 @@ Temperant pastes are packed tightly into wooden tubes (though Type II comes in a
 | IV: Metal & Refined Minerals | 8   | 25  | 325 gp/2 oz. tube | 13,200 gp/5 pounds |
 | V: Stone & Raw Ores          | 11  | 28  | 400 gp/2 oz. tube | 15,200 gp/5 pounds |
 
-**Prerequisites**: [[rangoric-srd/skills/Craft|Craft]] (alchemy), [[rangoric-srd/feats/Create Alchana|Create Alchana]], [[rangoric-srd/feats/Perfect Materials|Perfect Materials]]
+**Prerequisites**: [[rangoric-srd/skills/Background|Background]] (alchemy), [[rangoric-srd/feats/Create Alchana|Create Alchana]], [[rangoric-srd/feats/Perfect Materials|Perfect Materials]]
 
 An item of the alchemical and herbal catalog ([[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Item Categories and Definitions|categories]]); its entry follows the [[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Catalog Template|catalog template]].

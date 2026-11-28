@@ -7,7 +7,7 @@ magical: false
 aura: "No aura"
 cl: "3rd"
 prerequisites:
-  - "At least one rank in Craft (alchemy)"
+  - "At least one rank in Background (alchemy)"
 dc: "17"
 price: "2,000 gp/2 oz. “firepot”"
 status: draft
@@ -23,6 +23,6 @@ Contained in a small hand-sized (5” diameter) clay pot with an airtight lid, s
 
 While hardly as flashy or combat-ready as many alchemical creations, sophic fire is a highly useful and desirable item. If the jar is cracked or the lid is not sealed tight, the chymical gel within the pot dries out into a hard resin that is then only useful as spell components for fire-based spells (1d3 spells).
 
-**Construction**: No aura; CL 3rd; At least one rank in [[rangoric-srd/skills/Craft|Craft]] (alchemy); DC: 17; Price: 2,000 gp/2 oz. “firepot”
+**Construction**: No aura; CL 3rd; At least one rank in [[rangoric-srd/skills/Background|Background]] (alchemy); DC: 17; Price: 2,000 gp/2 oz. “firepot”
 
 An item of the alchemical and herbal catalog ([[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Item Categories and Definitions|categories]]); its entry follows the [[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Catalog Template|catalog template]].

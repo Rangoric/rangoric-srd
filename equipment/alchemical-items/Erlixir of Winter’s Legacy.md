@@ -6,7 +6,7 @@ category: ["Erlcana"]
 magical: false
 cl: "17th"
 prerequisites:
-  - "Profession (herbalist)"
+  - "Background (herbalist)"
   - "Create Erlcana"
 dc: "35"
 price: "104,000 gp; Cost to Create: 52,000 gp"
@@ -44,6 +44,6 @@ The Erlixir of Winter’s Legacy comes in a small black ceramic bottle with a hu
 
 \*: Refer to the [[rangoric-srd/monsters/lycanthropes/Lycanthrope|lycanthrope]] template and the [[rangoric-srd/monsters/Kin o’ the Green|kin o’ the green]] template for details to add about these new templates in effect on the person’s now revived form.
 
-**Construction**: CL 17th; [[rangoric-srd/skills/Profession|Profession]] (herbalist), [[rangoric-srd/feats/Create Erlcana|Create Erlcana]]; DC: 35; Market Price: 104,000 gp; Cost to Create: 52,000 gp
+**Construction**: CL 17th; [[rangoric-srd/skills/Background|Background]] (herbalist), [[rangoric-srd/feats/Create Erlcana|Create Erlcana]]; DC: 35; Market Price: 104,000 gp; Cost to Create: 52,000 gp
 
 An item of the alchemical and herbal catalog ([[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Item Categories and Definitions|categories]]); its entry follows the [[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Catalog Template|catalog template]].

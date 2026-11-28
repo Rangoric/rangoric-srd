@@ -13,6 +13,6 @@ tags: [rangoric, rangoric/gear]
 
 If you drink antitoxin, you get a +5 alchemical bonus on Fortitude Defense against poison for 1 hour.
 
-It can be made by a character with the [[rangoric-srd/skills/Craft|Craft]] (alchemy) skill.
+It can be made by a character with the [[rangoric-srd/skills/Background|Background]] (alchemy) skill.
 
 Price 50 gp per vial; Weight —.

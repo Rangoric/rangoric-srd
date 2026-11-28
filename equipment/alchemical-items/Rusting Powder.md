@@ -16,4 +16,4 @@ This flaky brown powder derived from rust monster fluids causes iron and similar
 
 Rusting powder is sold in a paper tube; you apply it by tearing the ends off the tube and blowing the flakes into the target device. Rusting powder does not affect gold, silver, copper, bronze, brass, or mithral, but easily affects iron, steel, and adamantine.
 
-[[rangoric-srd/skills/Craft|Craft]] (alchemy) DC 30; Price 60 gp.
+[[rangoric-srd/skills/Background|Background]] (alchemy) DC 30; Price 60 gp.

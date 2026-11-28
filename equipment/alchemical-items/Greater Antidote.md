@@ -8,7 +8,7 @@ magical: false
 aura: "No aura"
 cl: "12th"
 prerequisites:
-  - "Craft (alchemy) or Profession (herbalist)"
+  - "Background (alchemy) or Background (herbalist)"
   - "Craft Herbal Restoratives or Brew Ingestibles"
 dc: "25"
 price: "1,800 gp/4 oz"
@@ -28,6 +28,6 @@ An advanced version of [[rangoric-srd/equipment/alchemical-items/Universal Antiv
 
 This liquid comes in a gold-threaded leathern pouch like an elixir or a paste, and its thickness demands it be squeezed into the mouth. However, once inside the warm mouth it becomes less viscous and flows easily down the throat, even if the victim is unconscious.
 
-**Construction**: No aura; CL 12th; [[rangoric-srd/skills/Craft|Craft]] (alchemy) or [[rangoric-srd/skills/Profession|Profession]] (herbalist), [[rangoric-srd/feats/Craft Herbal Restoratives|Craft Herbal Restoratives]] or [[rangoric-srd/feats/Brew Ingestibles|Brew Ingestibles]]; DC: 25; Price: 1,800 gp/4 oz.
+**Construction**: No aura; CL 12th; [[rangoric-srd/skills/Background|Background]] (alchemy) or [[rangoric-srd/skills/Background|Background]] (herbalist), [[rangoric-srd/feats/Craft Herbal Restoratives|Craft Herbal Restoratives]] or [[rangoric-srd/feats/Brew Ingestibles|Brew Ingestibles]]; DC: 25; Price: 1,800 gp/4 oz.
 
 An item of the alchemical and herbal catalog ([[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Item Categories and Definitions|categories]]); its entry follows the [[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Catalog Template|catalog template]].

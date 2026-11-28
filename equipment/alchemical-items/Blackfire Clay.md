@@ -17,4 +17,4 @@ This pliant black clay is always pleasantly warm to the touch. Working blackfire
 
 Blackfire clay only produces heat, never light, smoke, or odor. The clay emits warmth for 1 hour before hardening into an unusable lump. A newly created brick of blackfire clay is composed of 10 blocks.
 
-[[rangoric-srd/skills/Craft|Craft]] (alchemy) DC 20; Price 20 gp; Weight 10 lb.
+[[rangoric-srd/skills/Background|Background]] (alchemy) DC 20; Price 20 gp; Weight 10 lb.

@@ -7,7 +7,7 @@ magical: false
 aura: "No aura"
 cl: "5th"
 prerequisites:
-  - "At least one rank in Craft (alchemy)"
+  - "At least one rank in Background (alchemy)"
 dc: "20"
 price: "16 gp/ ½ oz"
 status: draft
@@ -23,6 +23,6 @@ The acid within this tiny leathern vial interacts violently with oil-coated meta
 
 Locked doors subjected to lockblight may no longer have a lock mechanism, though the deadbolts may still be in place—reduce the DC to open said door by 2. If this acid is squeezed out on a metallic construct or animated object, it attacks their Fortitude at +5, and on a hit they suffer 1d4 points of damage.
 
-**Construction**: No aura; CL 5th; At least one rank in [[rangoric-srd/skills/Craft|Craft]] (alchemy); DC: 20; Price: 16 gp/ ½ oz.
+**Construction**: No aura; CL 5th; At least one rank in [[rangoric-srd/skills/Background|Background]] (alchemy); DC: 20; Price: 16 gp/ ½ oz.
 
 An item of the alchemical and herbal catalog ([[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Item Categories and Definitions|categories]]); its entry follows the [[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Catalog Template|catalog template]].

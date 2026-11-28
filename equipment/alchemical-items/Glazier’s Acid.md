@@ -7,7 +7,7 @@ magical: false
 aura: "No aura"
 cl: "1st"
 prerequisites:
-  - "At least one rank in Craft (alchemy)"
+  - "At least one rank in Background (alchemy)"
 dc: "12"
 price: "50 gp"
 status: draft
@@ -23,6 +23,6 @@ This is a low-level acid attuned to silicates—in other words, this acid affect
 
 Glazier’s acid is most commonly identified by its 2-ounce wooden bottles and its acrid smell of oranges.
 
-**Construction**: No aura; CL 1st; At least one rank in [[rangoric-srd/skills/Craft|Craft]] (alchemy); DC: 12; Price: 50 gp
+**Construction**: No aura; CL 1st; At least one rank in [[rangoric-srd/skills/Background|Background]] (alchemy); DC: 12; Price: 50 gp
 
 An item of the alchemical and herbal catalog ([[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Item Categories and Definitions|categories]]); its entry follows the [[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Catalog Template|catalog template]].

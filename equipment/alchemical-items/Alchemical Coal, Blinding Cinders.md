@@ -16,4 +16,4 @@ A [[rangoric-srd/races/Kobold|kobold]] who chews and swallows this alchemically 
 
 This jagged bit of dusty red coal allows a [[rangoric-srd/races/Kobold|kobold]] to breathe a 30-foot line of coarse cinders. The breath weapon deals 1d6 points of fire damage and blinds creatures in the area for 1 round. The cinders attack each creature’s Reflex at +5; on a miss, it takes half damage and is not [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]].
 
-[[rangoric-srd/skills/Craft|Craft]] (alchemy) DC 25; Price 100 gp.
+[[rangoric-srd/skills/Background|Background]] (alchemy) DC 25; Price 100 gp.

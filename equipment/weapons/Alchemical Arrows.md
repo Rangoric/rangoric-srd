@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/weapon]
 
 _Ammunition (5) for bows._ Cost 50 gp; Dmg 1 (S), 1 (M); Critical x2; Range Increment ½ distance; Weight 1 lb.; Type Bludgeoning or piercing. ^stats
 
-The heads of these arrows are made from a pointed glass vial. The vial is made from a thin glass designed to break upon impact. A successful ranged touch attack accomplishes this goal, as well as dealing 1 point of damage. The vial may be filled with one of a wide variety of alchemical substances. A [[rangoric-srd/skills/Craft|Craft]] (alchemy) check must be made with a DC of 18 to properly create an alchemical arrow. It has half the normal range increment. There is no chance to recover a missed arrow, as it breaks upon impacting anything.
+The heads of these arrows are made from a pointed glass vial. The vial is made from a thin glass designed to break upon impact. A successful ranged touch attack accomplishes this goal, as well as dealing 1 point of damage. The vial may be filled with one of a wide variety of alchemical substances. A [[rangoric-srd/skills/Background|Background]] (alchemy) check must be made with a DC of 18 to properly create an alchemical arrow. It has half the normal range increment. There is no chance to recover a missed arrow, as it breaks upon impacting anything.
 
 **Table: Alchemical Arrows**
 

@@ -14,4 +14,4 @@ tags: [rangoric, rangoric/alchemical-item]
 
 If you drink a vial of this foul-tasting, milky tonic, you gain a +5 alchemical bonus on Fortitude Defense against disease for the next hour. If already infected, the disease rolls twice (without the +5 bonus) when it attacks you that day and takes the worse result.
 
-[[rangoric-srd/skills/Craft|Craft]] (alchemy) DC 25; Price 50 gp/vial.
+[[rangoric-srd/skills/Background|Background]] (alchemy) DC 25; Price 50 gp/vial.

@@ -7,7 +7,7 @@ magical: false
 aura: "Faint conjuration"
 cl: "2nd"
 prerequisites:
-  - "At least one rank in Craft (alchemy)"
+  - "At least one rank in Background (alchemy)"
 dc: "14"
 price: "25 gp/8 oz. flask"
 status: draft
@@ -23,6 +23,6 @@ Aqua clarissima is a chymical in the alchemist’s laboratory, used as the base 
 
 Aqua clarissima can be identified by any alchemist by smell or sight (DC 10), as it smells of violets and has a translucent light blue color.
 
-**Construction**: Faint conjuration; CL 2nd; At least one rank in [[rangoric-srd/skills/Craft|Craft]] (alchemy); DC: 14; Price: 25 gp/8 oz. flask
+**Construction**: Faint conjuration; CL 2nd; At least one rank in [[rangoric-srd/skills/Background|Background]] (alchemy); DC: 14; Price: 25 gp/8 oz. flask
 
 An item of the alchemical and herbal catalog ([[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Item Categories and Definitions|categories]]); its entry follows the [[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Catalog Template|catalog template]].

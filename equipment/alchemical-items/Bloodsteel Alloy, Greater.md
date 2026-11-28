@@ -8,7 +8,7 @@ magical: false
 aura: "Moderate evocation"
 cl: "9th"
 prerequisites:
-  - "Craft (weaponsmithing)"
+  - "Background (weaponsmithing)"
   - "Create Alchana"
 dc: "27"
 price: "15,000 gp + cost of weapon"
@@ -27,6 +27,6 @@ Greater bloodsteel is [[rangoric-srd/equipment/alchemical-items/Bloodsteel Alloy
 - Greater bloodsteel weapons effect only a single race of creature—ettins instead of giants, red dragons instead of just chromatic dragons, pit fiends instead of just evil outsiders, etc.
 - If used against a character race (human, elf, dwarf, etc.), greater bloodsteel weapons incur their effects on particular bloodlines (i.e. a hated foe and his relatives), not the entire race.
 
-**Construction**: Moderate evocation; CL 9th; [[rangoric-srd/skills/Craft|Craft]] (weaponsmithing), [[rangoric-srd/feats/Create Alchana|Create Alchana]]; DC: 27; Market Price: 15,000 gp + cost of weapon
+**Construction**: Moderate evocation; CL 9th; [[rangoric-srd/skills/Background|Background]] (weaponsmithing), [[rangoric-srd/feats/Create Alchana|Create Alchana]]; DC: 27; Market Price: 15,000 gp + cost of weapon
 
 An item of the alchemical and herbal catalog ([[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Item Categories and Definitions|categories]]); its entry follows the [[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Catalog Template|catalog template]].

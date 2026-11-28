@@ -9,7 +9,7 @@ magical: false
 aura: "No aura"
 cl: "14th"
 prerequisites:
-  - "Craft (alchemy)"
+  - "Background (alchemy)"
   - "Create Greater Alchana"
 dc: "34"
 price: "4,800 gp/gallon"
@@ -52,7 +52,7 @@ The temperant bath takes its time in altering the composition and strength of an
 | -------------- | --- | --- | --------------- | -------------------- |
 | Major          | 14  | 34  | 4,800 gp/gallon | 48,000 gp/20 gallons |
 
-**Prerequisites**: [[rangoric-srd/skills/Craft|Craft]] (alchemy), [[rangoric-srd/feats/Create Greater Alchana|Create Greater Alchana]]
+**Prerequisites**: [[rangoric-srd/skills/Background|Background]] (alchemy), [[rangoric-srd/feats/Create Greater Alchana|Create Greater Alchana]]
 
 **Temperant Cascades** When an item is exposed to more than one temperant bath during its existence, it is said to have undergone a temperant cascade. There are some rules and restrictions to a cascade:
 

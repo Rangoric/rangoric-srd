@@ -12,8 +12,8 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Invisible Ink, Simple
 
-Invisible ink is a staple of spies, rebels, and secret societies everywhere. Messages written with invisible ink only become visible under specific circumstances. Revealing the secret message with the proper triggering agent is a full-round action per page of text. A successful [[rangoric-srd/skills/Craft|Craft]] (alchemy) check reveals the message without the proper trigger and takes 1 hour (the DC varies by ink quality).
+Invisible ink is a staple of spies, rebels, and secret societies everywhere. Messages written with invisible ink only become visible under specific circumstances. Revealing the secret message with the proper triggering agent is a full-round action per page of text. A successful [[rangoric-srd/skills/Background|Background]] (alchemy) check reveals the message without the proper trigger and takes 1 hour (the DC varies by ink quality).
 
 This ink is keyed to a single, fairly common trigger, such as heat or vinegar (DC 20 to reveal without the trigger).
 
-[[rangoric-srd/skills/Craft|Craft]] (alchemy) DC 15; Price 2 gp.
+[[rangoric-srd/skills/Background|Background]] (alchemy) DC 15; Price 2 gp.
