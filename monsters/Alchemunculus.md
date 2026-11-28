@@ -71,7 +71,7 @@ Alchemunculi tend to hide and leap out at any foes who threaten their creators, 
 
 **Spider Climb (Ex)**: Due to various adhesives within the chymicals for its construction, alchemunculi can move as if under the effects of a _[[rangoric-srd/spells/Spider Climb|spider climb]]_ at will and they move at their full speed, not half speed as per the spell.
 
-**Poison (Ex)**: The alchemunculus’ claws seep an alchemical toxin: injury, +0 vs Fortitude, initial damage [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nausea]] for 1 minute, secondary damage sleep for 1d4 minutes.
+**Poison (Ex)**: The alchemunculus’ claws seep an alchemical toxin: Claw—injury; _attack_ +0 vs Fortitude; _frequency_ 1/minute for 2 minutes; _initial effect_ [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1 minute; _secondary effect_ asleep for 1d4 minutes; _cure_ 1 miss.
 
 ### Construction
 

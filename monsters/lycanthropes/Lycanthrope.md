@@ -137,7 +137,7 @@ Changing form is a standard action. If the change is involuntary, the character 
 
 An afflicted character who eats a sprig of belladonna (also called wolfsbane) within 1 hour of a lycanthrope’s attack makes the curse attack the character again at +10 vs Fortitude, and a miss shakes off the affliction. If a healer administers the herb, use the character’s Fortitude Defense or 10 + the healer’s [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] modifier, whichever is higher. The character gets only one chance, no matter how much belladonna is consumed. The belladonna must be reasonably fresh (picked within the last week).
 
-However, fresh or not, belladonna is toxic. It attacks the character at +3 vs Fortitude, and on a hit the character takes 1d6 points of Strength damage. One minute later, it attacks again at +3, and on a hit the character takes an additional 2d6 points of Strength damage.
+However, fresh or not, [[rangoric-srd/rules/afflictions/Belladonna (Poison)|belladonna]] is toxic.
 
 A [[rangoric-srd/spells/Remove Disease|remove disease]] or [[rangoric-srd/spells/Heal (Spell)|heal]] spell cast by a cleric of 12th level or higher also cures the affliction, provided the character receives the spell within three days of the lycanthrope’s attack.
 

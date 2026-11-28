@@ -74,7 +74,7 @@ In animal form, wererats avoid combat, preferring to use their dire rat shape fo
 
 **Curse of Lycanthropy (Su)**: Any humanoid or giant hit by a wererat’s bite attack in animal or hybrid form is attacked at +5 vs Fortitude, and on a hit contracts lycanthropy.
 
-**Disease (Ex)**: Filth fever; bite, +2 vs Fortitude, incubation period 1d3 days, damage 1d3 Dex and 1d3 Con. The attack bonus is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Ex)**: [[rangoric-srd/rules/afflictions/Filth Fever|Filth Fever]]: Bite—injury; _attack_ +2 vs Fortitude; _onset_ 1d3 days; _frequency_ 1/day; _effect_ 1d3 Dex damage and 1d3 Con damage; _cure_ 2 consecutive misses. The attack bonus is Constitution-based.
 
 **Rat Empathy (Ex)**: Communicate with rats and dire rats, and +4 racial bonus on Charisma-based checks against rats and dire rats.
 

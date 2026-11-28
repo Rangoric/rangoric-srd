@@ -19,11 +19,11 @@ If the named individual is killed by one of these weapons, his soul is drawn int
 
 Whenever the oath taker for a particular weapon is killed, that weapon permanently disappears, and all remaining weapons in the set gain a cumulative +1 luck bonus to damage. For instance, if two oath takers died, the remaining weapons would each receive a +2 luck bonus to damage. Death oath weapons that have disappeared do not reappear if their oath takers are resurrected. In addition, other benefits accrue after a certain number of oath takers are killed. These effects are cumulative, and initiate whenever the weapon scores a critical hit. See the table below for details.
 
-| Oath Takers Killed | Additional Effect                                                                    |
-| ------------------ | ------------------------------------------------------------------------------------ |
-| 3 or more          | [[rangoric-srd/rules/Afflictions#Poison\|Poison]] (+8 vs Fortitude, 1d6 Str/1d6 Str) |
-| 6 or more          | _[[rangoric-srd/spells/Dimensional Anchor\|Dimensional anchor]]_ (+9 vs Will)        |
-| 9                  | Death (+12 vs Fortitude; on a miss, still 3d6+19 points of additional damage)        |
+| Oath Takers Killed | Additional Effect                                                                                                                                                     |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3 or more          | [[rangoric-srd/rules/Afflictions#Poison\|Poison]] (injury; _attack_ +8 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Str; _cure_ 3 consecutive misses) |
+| 6 or more          | _[[rangoric-srd/spells/Dimensional Anchor\|Dimensional anchor]]_ (+9 vs Will)                                                                                         |
+| 9                  | Death (+12 vs Fortitude; on a miss, still 3d6+19 points of additional damage)                                                                                         |
 
 If the last oath taker for a weapon in a set is killed, the weapon vanishes, leaving the oath forever unfulfilled. If the oath can no longer be accomplished due to the death of the targeted individual by other means, the weapons still remain and receive their full powers until all oath takers have passed away.
 

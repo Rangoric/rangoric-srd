@@ -36,6 +36,10 @@
 - Base Attack/Grapple: 3.5's "Base Attack/Grapple" line (any spacing or bold) and its `base-attack-grapple` key
   are gone (Adopting CMB and CMD; Atropal and Chichimec CMB, 2026-11-27): a stat block has Base Attack, CMB
   and CMD instead (OLD_GRAPPLE).
+- Old afflictions: every poison and disease is in the affliction block (Monster Poisons, MP 1, 2026-11-28), so no
+  note says "initial damage", "secondary damage" or "incubation period", or gives 3.5's pair of ability damages
+  ("1d6 Con/1d6 Con"), in its text outside code and comments (OLD_AFFLICTION). A bomb's or a spell's "initial
+  damage" (NOT_AFFLICTIONS) isn't an affliction.
 - Slips: a changed note's text, outside code and comments, has no doubled full stop that isn't part of an ellipsis or
   a ../ path ("60 ft..") and no ",," (Small Text Fixes, 2026-11-26; SLIPS). The Changelog is exempt. Doubled words and
   spaces before punctuation have right-as-written cases, so they stay in the workshop's scan.
@@ -502,6 +506,22 @@ def regeneration_unnamed(rel, data, body):
     return [f'regeneration names nothing: {m.group(0)}' for m in REGEN_UNNAMED.finditer(text)]
 
 
+OLD_AFFLICTION = re.compile(r'\b(?:initial|secondary)\s+damage\b|\bincubation\s+period\b'
+                            r'|\b\d+(?:d\d+)?\s+(?:Str|Dex|Con|Int|Wis|Cha)\s*/\s*\d+(?:d\d+)?\s+(?:Str|Dex|Con|Int|Wis|Cha)\b',
+                            re.I)
+NOT_AFFLICTIONS = {'class-options/discoveries/Sticky Bomb (Discovery).md', 'spells/Greater Iron Shards.md'}
+
+
+def old_affliction(rel, body):
+    """3.5's poison or disease format left in a note (Monster Poisons, MP 1): Afflictions' affliction block replaced
+    it, and its old reading rule is gone."""
+    if rel in NOT_AFFLICTIONS:
+        return []
+    text = re.sub(r'<!--.*?-->|%%.*?%%', '', strip_code(body), flags=re.S)
+    return [f"3.5's affliction format (use the affliction block: Afflictions): {' '.join(m.group(0).split())}"
+            for m in OLD_AFFLICTION.finditer(text)]
+
+
 ALIGNMENT = {'Chaotic': 'chaotic', 'Lawful': 'lawful', 'Good': 'good', 'Evil': 'evil'}
 
 
@@ -682,6 +702,7 @@ def rule_problems(rel, data, body):
     folder = folder_rules(rel)
     data = {k: v for k, v in data.items() if k not in ('sweep', 'sweep-issues')}
     out += regeneration_unnamed(rel, data, body)
+    out += old_affliction(rel, body)
     out += alignment_tags(data)
     if 'all' in README_RULES:
         apply_table(README_RULES['all']['keys'], data, out)

@@ -128,7 +128,7 @@ White is the most common hair color among drow, but almost any pale shade is pos
 
 Drow usually coat their arrows with a potent venom.
 
-**Poison (Ex)**: An opponent hit by a drow’s poisoned weapon is attacked at +3 vs Fortitude, and on a hit falls [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]]. After 1 minute, the poison attacks the subject again at +3 vs Fortitude, and on a hit it remains unconscious for 2d4 hours. A typical drow carries 1d4–1 doses of drow knockout poison. Drow typically coat arrows and crossbow bolts with this poison, but it can also be applied to a melee weapon. Drow have [[rangoric-srd/races/racial-traits/Poison Use|poison use]], so they never risk poisoning themselves when applying it. Since this poison is not a magical effect, drow and other elves are susceptible to it.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Drow Poison|Drow Poison]]: Weapon—injury; _attack_ +3 vs Fortitude; _frequency_ 1/minute for 2 minutes; _initial effect_ [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]] for 1 minute; _secondary effect_ unconscious for 2d4 hours; _cure_ 1 miss. A typical drow carries 1d4–1 doses of drow knockout poison. Drow typically coat arrows and crossbow bolts with this poison, but it can also be applied to a melee weapon. Drow have [[rangoric-srd/races/racial-traits/Poison Use|poison use]], so they never risk poisoning themselves when applying it. Since this poison is not a magical effect, drow and other elves are susceptible to it.
 
 Drow characters use the [[rangoric-srd/races/Drow|drow]] race, which has their racial traits, alternate racial traits, level adjustment and paragon class.
 

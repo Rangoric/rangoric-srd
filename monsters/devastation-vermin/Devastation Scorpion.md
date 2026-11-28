@@ -58,6 +58,6 @@ Improved Grab (Ex): To use this ability, the devastation scorpion must hit with 
 
 Squeeze (Ex): A devastation scorpion that gets a hold on a Gargantuan or smaller opponent automatically deals damage with both claws and its sting.
 
-Poison (Ex): Sting, +85 vs Fortitude; initial and secondary damage 2d12 temporary Str.
+Poison (Ex): Sting—injury; _attack_ +85 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d6 Str; _cure_ 3 consecutive misses.
 
 Skills: Devastation scorpions receive a +4 racial bonus on [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Stealth|Stealth]], and [[rangoric-srd/skills/Perception|Perception]] checks.

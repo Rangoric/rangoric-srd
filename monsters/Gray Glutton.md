@@ -61,7 +61,7 @@ Treasure: None   
 
 A gray glutton attacks anything psionic, or anything that stands in its way of tracking down new psionic prey. Of course, a gray glutton has to eat - and eat a lot to feed its bulk - so when not on the scent it will attack any living creature. It always breaks off attacks against nonpsionic foes if psionic prey is an option. The only creatures it refuses to eat are elves (and it dislikes the taste of dwarves). No challenge seems too extreme to it, even if that means bulling into the center of a powerful party of manifesters.
 
-Null Psionic Exhalation (Su): As a free action, a gray glutton can breathe forth a cloud of pale blue translucent gas into an adjacent 10-foot cube. The gas is psionically poisonous; the initial damage is 1d4 power points, and the secondary damage is 3d4 power points (+8 vs Fortitude). Affected psionic characters and creatures subtract the lost power points from their reserves.
+Null Psionic Exhalation (Su): As a free action, a gray glutton can breathe forth a cloud of pale blue translucent gas into an adjacent 10-foot cube. The gas is psionically poisonous: inhaled; _attack_ +8 vs Fortitude; _frequency_ 1/minute for 2 minutes; _initial effect_ 1d4 power points; _secondary effect_ 3d4 power points; _cure_ 1 miss. Affected psionic characters and creatures subtract the lost power points from their reserves.
 
 The attack bonus is Constitution-based.
 

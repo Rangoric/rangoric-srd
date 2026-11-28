@@ -67,7 +67,7 @@ Brain moles eat small insects when they can’t get psionic energy.
 
 Brain moles hunger for psionic energy. They hide in loose dirt and detritus on forest floors, watching for the approach of psionic creatures with their detect psionics power. When a suitable target comes in range, the brain moles then attack with their power leech ability. The moles remain hidden as long as possible. If threatened, they use aversion and mind thrust to discourage attackers, using their bite only as a last resort.
 
-Cascade Flu (Ex): Disease-bite; −1 vs Fortitude, incubation period one day, damage psionic cascade (every time an afflicted character manifests a power, she must make a DC 16 Concentration check; on a failed check, a psionic cascade is triggered \[see Psionic Maladies\]). The attack bonus is Constitution-based.
+Cascade Flu (Ex): [[rangoric-srd/monsters/abilities/Disease|Disease]], bite—injury; _attack_ −1 vs Fortitude; _onset_ 1 day; _frequency_ 1/day; _effect_ psionic cascade (every time an afflicted character manifests a power, she must make a DC 16 Concentration check; on a failed check, a psionic cascade is triggered \[see Psionic Maladies\]); _cure_ 2 consecutive misses. The attack bonus is Constitution-based.
 
 Psi-Like **Abilities:** At will - [[rangoric-srd/powers/Detect Psionics|detect psionics]], [[rangoric-srd/powers/Power Leech|power leech]] (ML 5th, +4 vs Will); 3/day - [[rangoric-srd/powers/Aversion (Power)|aversion]] (+2 vs Will), [[rangoric-srd/powers/Mind Thrust|mind thrust]] (+1 vs Will). Manifester level 1st. The attack bonuses are Charisma-based.
 

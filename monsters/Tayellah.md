@@ -63,7 +63,7 @@ A tayellah’s natural weapons are treated as epic for the purpose of overcoming
 
 #### Combat
 
-Poison (Ex): Sting, +29 vs Fortitude; initial and secondary Damage 2d10 temporary Con. The attack bonus is Constitution-based.
+Poison (Ex): Sting—injury; _attack_ +29 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d6 Con; _cure_ 3 consecutive misses. The attack bonus is Constitution-based.
 
 Pounce (Ex): If a tayellah leaps upon a foe during the first round of combat, it can make a full attack even if it has already taken a move action.
 

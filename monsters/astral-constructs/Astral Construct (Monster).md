@@ -83,7 +83,7 @@ Improved Swim: The astral construct is streamlined and sharklike, and gains a sw
 
 Muscle (Ex): The astral construct gains a +4 bonus to its Strength score.
 
-Poison Touch (Ex): If the astral construct hits with a melee attack, the poison attacks the target’s Fortitude (attack bonus 1/2 astral construct’s HD + astral construct’s Cha modifier), and on a hit it takes 1 point of Constitution damage. One minute later, the poison attacks again, and on a hit the target takes 1d2 points of Constitution damage.
+Poison Touch (Ex): If the astral construct hits with a melee attack, the poison attacks the target: injury; _attack_ 1/2 astral construct’s HD + astral construct’s Cha modifier vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1 Con; _cure_ 1 miss.
 
 Pounce (Ex): If the astral construct charges a foe, it can make a full attack.
 
