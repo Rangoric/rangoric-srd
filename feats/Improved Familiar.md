@@ -12,7 +12,7 @@ This feat allows spellcasters to acquire a new familiar from a nonstandard list,
 
 Prerequisites: Ability to acquire a new familiar, compatible alignment, sufficiently high level (see below).
 
-Benefit: When choosing a familiar, the creatures listed below are also available to the spellcaster. The spellcaster may choose a familiar with an alignment up to one step away on each of the alignment axes (lawful through chaotic, good through evil).
+Benefit: When choosing a familiar, the creatures listed below are also available to the spellcaster. Alternatively, the spellcaster may choose a familiar from the standard list that also has the [[rangoric-srd/monsters/Fey-born Creature|fey-born]] template. The spellcaster may choose a familiar with an alignment up to one step away on each of the alignment axes (lawful through chaotic, good through evil).
 
 | Familiar                                                           | Alignment       | Arcane Spellcaster Level |
 | ------------------------------------------------------------------ | --------------- | ------------------------ |

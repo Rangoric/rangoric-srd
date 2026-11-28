@@ -8,7 +8,7 @@ tags: [rangoric, rangoric/overview]
 
 ## Spells
 
-## Telekinesis - Zone of Truth
+## Telekinesis - Zurlein’s Eon of Sleep
 
 - [[rangoric-srd/spells/Tactical Acumen|Tactical Acumen]]
 - [[rangoric-srd/spells/Tail Current|Tail Current]]
@@ -259,3 +259,4 @@ tags: [rangoric, rangoric/overview]
 - [[rangoric-srd/spells/Youthful Appearance|Youthful Appearance]]
 - [[rangoric-srd/spells/Zone of Silence|Zone of Silence]]
 - [[rangoric-srd/spells/Zone of Truth|Zone of Truth]]
+- [[rangoric-srd/spells/Zurlein’s Eon of Sleep|Zurlein’s Eon of Sleep]]

@@ -7,7 +7,7 @@ tags: [rangoric, rangoric/flavor, flavor]
 
 # To Market, To Market…
 
-_“I should swear on my honor and knowledge as a scholar that never was there such a place as the FaerieLand Market. Wares and deals only metaphorical in our mortal worlds can be had for a song, in some cases literally…”_
+_“I should swear on my honor and knowledge as a scholar that never was there such a place as the FaerieLand Market. Wares and deals only metaphorical in our mortal worlds can be had for a song, in some cases literally…”_ —Merle of Endswick, Dabbler in All Matters Arcane
 
 _If ever your characters get the chance to walk among the stalls and tents of FaerieLand’s Market, prepare yourself for the wildest variety of shops and wares ever set before mortals. Of the most stable and well-known vendors and wares are the following:_
 

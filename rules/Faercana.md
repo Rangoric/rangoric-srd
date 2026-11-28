@@ -12,6 +12,8 @@ The arcana that mortal wizards study are nothing compared to fey magics and faer
 
 ## Magical Power Sources
 
+_The water flowing in this river passes by us on its way to the ocean. Once in the ocean, some of the water turns to mist and vapor, returning to the sky to form clouds. From the clouds it will fall as rain to fill the rivers of the world once again. Such is the flow of the Sands of Time._ —Merle of Endswick
+
 It seems strange to some mortals that fey spellcasters would want or even need sources from which to draw magical power. After all, they and their home realm are so suffused with magic… and that is the reason the fey often use power sources. Whereas mortal sorcerers pull magic from the very air around them or from within themselves, magic to faeries and their ilk is life; to haphazardly pull magic could possibly harm the land or someone they know, so some rely more on power sources.
 
 Magical power sources work very much like spell components, although each of the standard fey power sources has its quirks and benefits (as well as drawbacks). The three most common sources that fey use to manipulate magic are the Breath of Life, true names, and magic sand.

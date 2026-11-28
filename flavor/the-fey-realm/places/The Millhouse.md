@@ -15,14 +15,14 @@ Though far from unique in function within the borders of FaerieLand, this mill i
 
 **Region:** [[rangoric-srd/flavor/the-fey-realm/places/Fields of Gold|The Fields of Gold]]
 
-**Personalities:** The grist-miller; the sawyer
+**Personalities:** Huerick, the Grist-Miller, Silkirk the Sawyer
 
 **_Legends & Lore_**
 
 _Common:_ The Millhouse is a flurry of activity, a cacophony of noise, and the best place to find milled materials with which to build wooden structures.
 
-_Uncommon:_ The sawyer welcomes visitors, and will often fulfill special orders without hesitation.
+_Uncommon:_ Silkirk welcomes visitors, and will often fulfill special orders without hesitation.
 
-_Rare:_ With the assistance of the grist-miller, one can grind grain from the fields into a highly nutritious golden flour which, when baked into a loaf of bread, can sustain a mortal for one week. Convincing the miller to help is the challenge.
+_Rare:_ With the assistance of Huerick the miller, one can grind grain from the fields into a highly nutritious golden flour which, when baked into a loaf of bread, can sustain a mortal for one week. Convincing the miller to help is the challenge.
 
 _Obscure:_ -

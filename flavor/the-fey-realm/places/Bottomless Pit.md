@@ -15,14 +15,14 @@ This cave complex is more than merely a deep hole in the ground. It actually ser
 
 **Region:** [[rangoric-srd/flavor/the-fey-realm/places/Badlands|The Badlands]]
 
-**Personalities:** The Keeper of Doors; an earth elemental guardian
+**Personalities:** Alden, the Keeper of Doors; Burakh, an earth elemental guardian
 
 **_Legends & Lore_**
 
 _Common:_ The door to the Bottomless Pit is carved into the face of a rock and hidden with illusory magics.
 
-_Uncommon:_ The Keeper of Doors lives on a small island in the middle of the bog near the Bottomless Pit.
+_Uncommon:_ Alden lives on a small island in the middle of the bog near the Bottomless Pit.
 
 _Rare: Doorways_ to the Outer Planes can be found here, but most exist in the Pit, keeping many unwanted planar visitors from gaining easy access to the Twilight Lands.
 
-_Obscure:_ The door to the Bottomless Pit is heavily enchanted and also protected by a huge earth elemental that will not let anyone out unless the Keeper accompanies them.
+_Obscure:_ The door to the Bottomless Pit is heavily enchanted and also protected by a huge earth elemental that will not let anyone out unless Alden accompanies them.

@@ -12,9 +12,9 @@ Located deep beneath the Faerie Forest, the Fungal Forest is a subterranean coun
 
 **Distance:** Remote (DC 30)
 
-**Regional Seat:** The ruling clan of the Daoine Sidhe
+**Regional Seat:** Clan Dubgaradh of the Daoine Sidhe
 
-**Regent:** The clan’s king
+**Regent:** King Dubgaradh
 
 **Prominent Features:** [[rangoric-srd/flavor/the-fey-realm/places/The Hovel of Durbin|The Hovel of Durbin]]
 

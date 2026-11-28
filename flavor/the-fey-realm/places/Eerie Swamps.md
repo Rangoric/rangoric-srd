@@ -18,7 +18,7 @@ The waters of the Eerie Swamps are fed by the snowmelt flowing in the Rushing Ri
 
 **Regional Seat:** [[rangoric-srd/flavor/the-fey-realm/places/House on Stilts|The House on Stilts]], [[rangoric-srd/flavor/the-fey-realm/places/The Floating Court|The Floating Court]]
 
-**Regent:** Disputed—the king or the queen
+**Regent:** Disputed—King Eylwor or Queen Garilil
 
 **Prominent Features:** [[rangoric-srd/flavor/the-fey-realm/places/The Floating Court|The Floating Court]], [[rangoric-srd/flavor/the-fey-realm/places/House on Stilts|The House on Stilts]]
 

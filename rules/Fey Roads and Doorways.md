@@ -107,7 +107,7 @@ _Doorways_ connect to _fey roads_, the permanent magical thoroughfares built by 
 
 **Backroads:** _Backroads_ are _fey roads_ that connect two points within a mortal world. They end in _doorways_ that are often called _crossroads_ for their ‘x’ shape.
 
-**_Fey Roads_:** _Fey roads_, by definition, are the roads that connect points within the fey realm. Normally, this also means that _fey roads_ only connect points within the fey realm proper or within its shadowed reaches, but not from one to the other. _Fey roads_ are entered through _doorways_ that resemble blue-glowing archways. The inhabitants of the shadowed reaches do not want to be easily found by the rest of the fey, so _fey roads_ built by them do not always connect with the rest of the roads in the fey realm.
+**_Fey Roads_:** _Fey roads_, by definition, are the roads that connect points within the fey realm. Normally, this also means that _fey roads_ only connect points within the fey realm proper or within its shadowed reaches, but not from one to the other. _Fey roads_ are entered through _doorways_ that resemble blue-glowing archways. The inhabitants of the shadowed reaches do not want to be easily found by the rest of the fey, so _fey roads_ built by them do not always connect with the rest of the roads in the fey realm. (_Since I have not traveled to the shadowed reaches except to spirit through on my way to or from the fey realm, I have no notes on the destinations these roads do connect, nor have I confirmed this information._ —Merle)
 
 **Ley Lines:** Since the dawn of time, the fey have traveled across the surface of mortal worlds and to the fey realm via _fey roads_. In mortal lands, the use of these roads by all creatures has created a residual magical effect some mortals have researched and tried to use. Some fey-aware mortals suggest _ley lines_ could be deteriorated _backroads_ or even destroyed remnants of _fey roads_. The most anyone has been able to do is trace the routes of these lines to locate their endpoints at fey _doorways_. This is best achieved by casting _[[rangoric-srd/spells/Detect Magic|detect magic]]_ and searching for a dim aura.
 
@@ -161,7 +161,7 @@ Each region and site of the fey realm gives its distance and DC (see its [[rango
 
 ## Escaping the Fey Realm
 
-Contrary to popular belief, the fey realm never tries to trap people in its boundaries. The land responds to the desires of its inhabitants and manipulates travel to achieve its “masters’” wishes.
+Contrary to popular belief (_and what you may derive from information previously given_—Merle) the fey realm never tries to trap people in its boundaries. The land responds to the desires of its inhabitants and manipulates travel to achieve its “masters’” wishes.
 
 Stories of people being forever trapped in the fey realm are more warnings than truths. The message is simple— learn the ways of the fey realm or forever be a slave to it and its inhabitants. When people step off of their paths, they take their fate into their own hands and risk greater perils than those they would normally have faced. Upon a visitor’s arrival, the land itself builds and opens a path appropriate for the visitor—be it filled with flowers for a group of children or wrought with magic and monsters for a group of adventurers. The fey realm itself does not desire to capture anyone—it merely manifests the desires brought to it.
 

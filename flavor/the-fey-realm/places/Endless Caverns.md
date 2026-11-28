@@ -15,7 +15,7 @@ The Endless Caverns riddle the mountains of FaerieLand and all the ground beneat
 
 **Region:** [[rangoric-srd/flavor/the-fey-realm/places/Perilous Mountains|Perilous Mountains]]
 
-**Personalities:** The king called Goldentouch
+**Personalities:** King Kerigan “Goldentouch”
 
 **_Legends & Lore_**
 

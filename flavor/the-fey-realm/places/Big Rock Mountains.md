@@ -14,7 +14,7 @@ Too precarious and riddled with faults and cracks to properly mine, the Big Rock
 
 **Regional Seat:** Halls of the Fallen
 
-**Regent:** The king of the Halls of the Fallen
+**Regent:** King Griakolg
 
 **Prominent Features:** [[rangoric-srd/flavor/the-fey-realm/places/Crystal Cave|The Crystal Cave]]
 

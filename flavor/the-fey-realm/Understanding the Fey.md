@@ -7,6 +7,8 @@ tags: [rangoric, rangoric/flavor, flavor]
 
 # Understanding the Fey
 
+_A short treatise by Merle of Endswick._
+
 In a world vastly different than our own, we should expect that its inhabitants would be equally different. Thus, it is not unforeseen that the fey mindset is quite foreign to what we mortals deem normal.
 
 ## Movement

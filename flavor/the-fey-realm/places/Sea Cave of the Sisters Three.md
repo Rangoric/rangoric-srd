@@ -25,6 +25,6 @@ _Common:_ The Sisters Three will let you through their caves to the top of the c
 
 _Uncommon:_ The Three Witches have hidden a cache of powerful magic and great treasure somewhere in their cave.
 
-_Rare:_ Once a year, the Sisters Three journey to the Crystal Cave seeking more information for their transmutations. It is rumored that the Crystal-keeper is their cousin.
+_Rare:_ Once a year, the Sisters Three journey to the Crystal Cave seeking more information for their transmutations. It is rumored that Liorah, the Crystal-keeper, is their cousin.
 
 _Obscure:_ The hidden cache of wealth conceals a _doorway_ to a room within Baba Yaga’s Hut.
