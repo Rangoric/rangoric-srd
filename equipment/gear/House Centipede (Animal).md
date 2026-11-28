@@ -13,6 +13,6 @@ tags: [rangoric, rangoric/gear]
 
 These creatures come in many forms, from the lighter-colored 20-legged variety to the darker 300-legged variety. Typically, these arthropods are what pass for pets in the slums, but the young and eccentric often search for the best specimens to serve as familiars. Centipedes employed as familiars have an Intelligence score and lose the mindless trait.
 
-The animal is described in [[rangoric-srd/monsters/centipede/House Centipede|House Centipede]].
+The animal is described in [[rangoric-srd/monsters/centipedes/House Centipede|House Centipede]].
 
 Price 1 cp; Weight 3 oz.

@@ -48,7 +48,7 @@ Base Attack: +33; CMB: +50 (+52 bull rush); CMD: 63 (65 vs. bull rush, can't be 
 Attack:  Touch +49 (2d6 Con drain/19-20) melee touch   
 Full Attack:  2 touches +49 (2d6 Con drain/19-20) melee touch, eye ray +30 (negative level damage/19-20) ranged touch     
 Space/Reach:  10 ft/10 ft.     
-Special Attacks:  Constitution [[rangoric-srd/monsters/abilities/Ability Damage and Drain|drain]], [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] (2d4 negative levels, +49 vs Fortitude), spell-like abilities, summon [[rangoric-srd/monsters/nightshade/Nightcrawler|nightcrawler]]     
+Special Attacks:  Constitution [[rangoric-srd/monsters/abilities/Ability Damage and Drain|drain]], [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] (2d4 negative levels, +49 vs Fortitude), spell-like abilities, summon [[rangoric-srd/monsters/nightshades/Nightcrawler|nightcrawler]]     
 Special Qualities: Abomination traits, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]], [[rangoric-srd/combat/Combat Special Attacks#Turn or Rebuke Undead|rebuke/command undead]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 20 (good weapons, living weapons), [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 42, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 15/good and epic and silver, negative energy aura     
 Defenses: Fort 32, Ref 36, Will 53     
 Abilities:  Str 43, Dex 15, Con -, Int 28, Wis 22, Cha 42     
@@ -83,7 +83,7 @@ Energy Drain (Su): When the atropal hits with a ranged touch attack (a ray of da
 
 Regeneration (Ex): Good weapons and sentient (or otherwise living) weapons cause an atropal’s regeneration to stop functioning for 1 round.
 
-Summon Nightcrawler (Sp): Five times per day an atropal can summon a [[rangoric-srd/monsters/nightshade/Nightcrawler|nightcrawler]].
+Summon Nightcrawler (Sp): Five times per day an atropal can summon a [[rangoric-srd/monsters/nightshades/Nightcrawler|nightcrawler]].
 
 Abomination Traits: Immune to polymorphing, [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|petrification]], and other form-altering attacks; not subject to [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]], ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]], or ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]], or death from massive damage; immune to mind-affecting effects; [[rangoric-srd/monsters/abilities/Resistance|fire resistance]] 20; [[rangoric-srd/monsters/abilities/Resistance|cold resistance]] 20; [[rangoric-srd/spells/Nondetection|nondetection]]; [[rangoric-srd/spells/True Seeing|true seeing]] at will; [[rangoric-srd/monsters/abilities/Blindsight|blindsight]] 500 ft.; telepathy out to 1,000 ft.
 

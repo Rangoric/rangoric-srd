@@ -12,4 +12,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “guarded”, on the Special Qualities line.
 
-A lampad adds her Charisma modifier as a deflection bonus to her Armor Class. The [[rangoric-srd/monsters/nymph/Lampad|lampad]] has it.
+A lampad adds her Charisma modifier as a deflection bonus to her Armor Class. The [[rangoric-srd/monsters/nymphs/Lampad|lampad]] has it.

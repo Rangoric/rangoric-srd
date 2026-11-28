@@ -69,7 +69,7 @@ Doorway guardians prefer a peaceful existence watching over a specific _fey road
 
 **Bad Luck of the Fey (Sp)**: If a doorway guardian is killed, the character landing the killing blow is cursed with extremely bad luck. Once per day, at the GM’s discretion, any roll must be rerolled, with the least of the two results being used as the number rolled.
 
-**Summon Lesser Jabberwock (Ex)**: Once per day, a doorway guardian can summon a [[rangoric-srd/monsters/jabberwock/Lesser Jabberwock|lesser jabberwock]] with a 75% chance of success. This ability has a duration of 1 hour and in all other ways works identically to a standard _[[rangoric-srd/spells/Summon Monster I|summon monster]]_ spell.
+**Summon Lesser Jabberwock (Ex)**: Once per day, a doorway guardian can summon a [[rangoric-srd/monsters/jabberwocks/Lesser Jabberwock|lesser jabberwock]] with a 75% chance of success. This ability has a duration of 1 hour and in all other ways works identically to a standard _[[rangoric-srd/spells/Summon Monster I|summon monster]]_ spell.
 
 **[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^incorporeal|Incorporeal]]**: Doorway guardians can be harmed only by other incorporeal creatures or by corporeal attacks of +2 or better magic weapons, or magic. There is, however, a 50% chance that the doorway guardian will ignore any damage from a corporeal source. Doorway guardians can pass through solid objects at will and they always move silently. Their incorporeal touch attacks pass through armor but still inflict damage on corporeal and incorporeal foes alike.
 

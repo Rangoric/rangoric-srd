@@ -23,6 +23,6 @@ A poison; how afflictions work, and what each line means, is in [[rangoric-srd/r
 - **Attack**: +4 vs Fortitude
 - **Onset**: 10 minutes
 - **Frequency**: 1/minute for 6 minutes
-- **Effect**: 1d2 Str damage; [[rangoric-srd/monsters/lycanthrope/Lycanthrope#Lycanthropy as an Affliction|lycanthropy]] contracted in the past hour attacks the target once more, and is cured if it misses
+- **Effect**: 1d2 Str damage; [[rangoric-srd/monsters/lycanthropes/Lycanthrope#Lycanthropy as an Affliction|lycanthropy]] contracted in the past hour attacks the target once more, and is cured if it misses
 - **Cure**: 1 miss
 - **Price**: 100 gp

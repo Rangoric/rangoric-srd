@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/affliction]
 
 # Tumor Infestation
 
-A disease; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is carried by the [[rangoric-srd/monsters/ooze/Hungry Flesh|hungry flesh]]. Anyone who dies from it turns into a hungry flesh 1d4 hours later.
+A disease; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is carried by the [[rangoric-srd/monsters/oozes/Hungry Flesh|hungry flesh]]. Anyone who dies from it turns into a hungry flesh 1d4 hours later.
 
 - **Type**: disease, injury
 - **Attack**: +7 vs Fortitude

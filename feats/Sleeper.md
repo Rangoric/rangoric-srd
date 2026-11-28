@@ -11,6 +11,6 @@ tags: [rangoric, rangoric/feat, racial]
 
 By seeking solace in the grave, you are able to recuperate more quickly.
 
-**Prerequisites**: [[rangoric-srd/feats/Warren Digger|Warren Digger]], [[rangoric-srd/monsters/ghoul/Ghoul|ghoul]].
+**Prerequisites**: [[rangoric-srd/feats/Warren Digger|Warren Digger]], [[rangoric-srd/monsters/ghouls/Ghoul|ghoul]].
 
 **Benefit**: You heal 1 hit point per 10 minutes as long as you are surrounded by at least 5 feet of dirt or stone on all sides and take no actions.

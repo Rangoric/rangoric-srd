@@ -62,7 +62,7 @@ For example, a [[rangoric-srd/monsters/Mummy|mummy]] normally has a natural armo
 
 A mature adult [[rangoric-srd/monsters/chromatic-dragons/Red Dragon|red dragon]] has a natural armor bonus of +24. This gives it DR 4/-, and its natural armor bonus is reduced by 4 points to +20 (making its AC 28). The dragon’s existing damage reduction is 10/magic, so the two damage reduction values remain separate.
 
-Finally, a [[rangoric-srd/monsters/giant/Frost Giant|frost giant]] has a +9 natural armor bonus, so it gains DR 1/- from natural armor. The chain shirt it wears gives it an additional DR 2/-. If the frost giant were a 7th-level barbarian, the barbarian class levels would give it DR 1/-. These three values add up to DR 4/-. The giant’s AC would be 20 (10, +8 natural armor bonus, +2 chain shirt).
+Finally, a [[rangoric-srd/monsters/giants/Frost Giant|frost giant]] has a +9 natural armor bonus, so it gains DR 1/- from natural armor. The chain shirt it wears gives it an additional DR 2/-. If the frost giant were a 7th-level barbarian, the barbarian class levels would give it DR 1/-. These three values add up to DR 4/-. The giant’s AC would be 20 (10, +8 natural armor bonus, +2 chain shirt).
 
 **Table: Natural Armor and Damage Reduction**
 

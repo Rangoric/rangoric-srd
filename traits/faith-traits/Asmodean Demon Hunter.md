@@ -13,4 +13,4 @@ tags: [rangoric, rangoric/trait]
 
 **Category**: [[rangoric-srd/traits/Character Traits#Religion Traits|religion trait]].
 
-Raised in a church of Asmodeus or another archdevil (whether or not you are currently a follower), you've focused your indoctrinated fervor primarily on the elimination of demons. You gain a +3 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] on [[rangoric-srd/skills/Theology|Theology]] checks about [[rangoric-srd/monsters/demon/Demon|demons]] and a +2 trait bonus on Will Defense against mind-affecting spells and effects from demons.
+Raised in a church of Asmodeus or another archdevil (whether or not you are currently a follower), you've focused your indoctrinated fervor primarily on the elimination of demons. You gain a +3 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] on [[rangoric-srd/skills/Theology|Theology]] checks about [[rangoric-srd/monsters/demons/Demon|demons]] and a +2 trait bonus on Will Defense against mind-affecting spells and effects from demons.

@@ -12,4 +12,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “unearthly grace”, on the Special Qualities line.
 
-A nereid adds her Charisma bonus as a deflection bonus to her Armor Class and CMD if she wears no armor. The [[rangoric-srd/monsters/nymph/Nereid|nereid]] has it.
+A nereid adds her Charisma bonus as a deflection bonus to her Armor Class and CMD if she wears no armor. The [[rangoric-srd/monsters/nymphs/Nereid|nereid]] has it.

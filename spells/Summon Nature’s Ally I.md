@@ -42,14 +42,14 @@ A summoned monster cannot summon or otherwise conjure another creature, nor can 
 
 The spell conjures one of the creatures from the 1st-level list on the accompanying Summon Nature’s Ally table. You choose which kind of creature to summon, and you can change that choice each time you cast the spell. All the creatures on the table are neutral unless otherwise noted.
 
-| 1st Level                                                                |
-| ------------------------------------------------------------------------ |
-| [[rangoric-srd/monsters/dire-animal/Dire Rat\|Dire Rat]]                 |
-| [[rangoric-srd/monsters/Eagle\|Eagle (animal)]]                          |
-| [[rangoric-srd/monsters/Monkey\|Monkey (animal)]]                        |
-| [[rangoric-srd/monsters/Octopus\|Octopus (1) (animal)]]                  |
-| [[rangoric-srd/monsters/Owl\|Owl (animal)]]                              |
-| [[rangoric-srd/monsters/Porpoise\|Porpoise (1) (animal)]]                |
-| [[rangoric-srd/monsters/snake/Viper Snake\|Snake, Small viper (animal)]] |
-| [[rangoric-srd/monsters/Wolf\|Wolf (animal)]]                            |
-| 1 _May be summoned only into an aquatic or watery environment._          |
+| 1st Level                                                                 |
+| ------------------------------------------------------------------------- |
+| [[rangoric-srd/monsters/dire-animals/Dire Rat\|Dire Rat]]                 |
+| [[rangoric-srd/monsters/Eagle\|Eagle (animal)]]                           |
+| [[rangoric-srd/monsters/Monkey\|Monkey (animal)]]                         |
+| [[rangoric-srd/monsters/Octopus\|Octopus (1) (animal)]]                   |
+| [[rangoric-srd/monsters/Owl\|Owl (animal)]]                               |
+| [[rangoric-srd/monsters/Porpoise\|Porpoise (1) (animal)]]                 |
+| [[rangoric-srd/monsters/snakes/Viper Snake\|Snake, Small viper (animal)]] |
+| [[rangoric-srd/monsters/Wolf\|Wolf (animal)]]                             |
+| 1 _May be summoned only into an aquatic or watery environment._           |

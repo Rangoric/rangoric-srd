@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/class-option]
 
 _A [[rangoric-srd/classes/Hunter#^hunter-archetypes|hunter]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
-A feral hunter has forged a bond with nature that's so strong that she doesn't merely channel the aspects of animals—she actually becomes an animal herself. Though she lacks an [[rangoric-srd/classes/Hunter#^hunter-animal-companion|animal companion]], a feral hunter is in tune with the beast lurking within her flesh and spirit, and lives in a near-wild state of being. A feral hunter often resembles a [[rangoric-srd/monsters/lycanthrope/Lycanthrope|lycanthrope]], but her power comes from her own nature and is not influenced by moonlight or silver.
+A feral hunter has forged a bond with nature that's so strong that she doesn't merely channel the aspects of animals—she actually becomes an animal herself. Though she lacks an [[rangoric-srd/classes/Hunter#^hunter-animal-companion|animal companion]], a feral hunter is in tune with the beast lurking within her flesh and spirit, and lives in a near-wild state of being. A feral hunter often resembles a [[rangoric-srd/monsters/lycanthropes/Lycanthrope|lycanthrope]], but her power comes from her own nature and is not influenced by moonlight or silver.
 
 **Solitary**: Unlike most hunters, a feral hunter does not gain an animal companion.
 

@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/affliction]
 
 # Violet Venom
 
-A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the preserved venom of the [[rangoric-srd/monsters/fungus/Violet Fungus|violet fungus]].
+A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the preserved venom of the [[rangoric-srd/monsters/fungi/Violet Fungus|violet fungus]].
 
 - **Type**: poison, contact
 - **Attack**: +3 vs Fortitude

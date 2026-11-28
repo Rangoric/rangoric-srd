@@ -8,7 +8,7 @@ tags: [rangoric, rangoric/flavor, flavor]
 
 # Cliffs of Madness
 
-Seafarers who find themselves trapped between impassable cliffs and precariously rocky shoals may be near the shores of FaerieLand. The rocky outcroppings are the favorite locations on which [[rangoric-srd/monsters/sprite/Nixie|nixies]] and [[rangoric-srd/races/Merfolk|merfolk]] sun themselves, unwittingly (or perhaps purposefully) coaxing unwitting sailors to their dooms.
+Seafarers who find themselves trapped between impassable cliffs and precariously rocky shoals may be near the shores of FaerieLand. The rocky outcroppings are the favorite locations on which [[rangoric-srd/monsters/sprites/Nixie|nixies]] and [[rangoric-srd/races/Merfolk|merfolk]] sun themselves, unwittingly (or perhaps purposefully) coaxing unwitting sailors to their dooms.
 
 **Distance:** Distant (DC 20)
 

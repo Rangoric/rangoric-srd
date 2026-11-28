@@ -48,7 +48,7 @@ Base Attack: +27; CMB: +39 (+41 bull rush); CMD: 57 (59 vs. bull rush, can't be 
 Attack: Primary wing buffet +39 (2d6+12) melee     
 Full Attack: 2 primary wing buffets +39 (2d6+12) melee, 6 secondary wing buffets +37 (1d6+6) melee, tail slam +37 (1d6+6 plus Cha drain) melee     
 Space/Reach: 5 ft./5 ft.      
-Special Attacks: Spell-like abilities, summon [[rangoric-srd/monsters/elemental/Air Elemental|air elemental]], [[rangoric-srd/monsters/abilities/Ability Damage and Drain|Charisma drain]]      
+Special Attacks: Spell-like abilities, summon [[rangoric-srd/monsters/elementals/Air Elemental|air elemental]], [[rangoric-srd/monsters/abilities/Ability Damage and Drain|Charisma drain]]      
 Special Qualities: Abomination traits, [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 10, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 33, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/ good and epic, electricity immunity      
 Defenses: Fort 32, Ref 32, Will 27      
 Abilities: Str 34, Dex 25, Con 24, Int 12, Wis 14, Cha 30      
@@ -73,7 +73,7 @@ At will - [[rangoric-srd/spells/Darkness|darkness]], [[rangoric-srd/spells/Telek
 
 3/day - [[rangoric-srd/spells/Invisibility, Greater|greater invisibility]], [[rangoric-srd/spells/Control Weather|control weather]], [[rangoric-srd/spells/Call Lightning|call lightning]], [[rangoric-srd/spells/Lightning Bolt|lightning bolt]], [[rangoric-srd/spells/Chain Lightning|chain lightning]], [[rangoric-srd/spells/Wail of the Banshee|wail of the banshee]].
 
-Summon Air Elemental (Sp): Three times per day a chichimec can summon an elder [[rangoric-srd/monsters/elemental/Air Elemental|air elemental]].
+Summon Air Elemental (Sp): Three times per day a chichimec can summon an elder [[rangoric-srd/monsters/elementals/Air Elemental|air elemental]].
 
 Charisma Drain (Su): This effect permanently reduces a living opponent’s Charisma score by 2 points when the chichimec hits with a tail slam, or 4 points on a critical hit. The chichimec heals 10 points of damage, or 20 on a critical hit, whenever it drains Charisma, gaining any excess as temporary hit points. These temporary hit points last a maximum of 1 hour. The drain attacks Fortitude at +23; on a miss, only 1 point of Charisma is drained and the chichimec heals 5 points of damage. The attack bonus is Charisma-based.
 

@@ -37,4 +37,4 @@ Level Adjustment: +2 (see [[rangoric-srd/monsters/Monsters as Races#^level-adjus
 
 ### Description
 
-The ogre is built as an example race and described no further; what ogres are like, and their size, is in the monster [[rangoric-srd/monsters/ogre/Ogre|Ogre]] entry.
+The ogre is built as an example race and described no further; what ogres are like, and their size, is in the monster [[rangoric-srd/monsters/ogres/Ogre|Ogre]] entry.

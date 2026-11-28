@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/affliction]
 
 # Emperor Cobra Venom
 
-A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the [[rangoric-srd/monsters/snake/Emperor Cobra|emperor cobra]]'s bite.
+A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the [[rangoric-srd/monsters/snakes/Emperor Cobra|emperor cobra]]'s bite.
 
 - **Type**: poison, injury
 - **Attack**: +7 vs Fortitude

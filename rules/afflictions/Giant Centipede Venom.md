@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/affliction]
 
 # Giant Centipede Venom
 
-A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the [[rangoric-srd/monsters/monstrous-centipede/Monstrous Centipede, Medium|giant centipede]]'s bite.
+A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the [[rangoric-srd/monsters/monstrous-centipedes/Monstrous Centipede, Medium|giant centipede]]'s bite.
 
 - **Type**: poison, injury
 - **Attack**: +3 vs Fortitude

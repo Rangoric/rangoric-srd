@@ -58,7 +58,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: —
 - **Level Adjustment**: —
 
-The divine guardian above is a divine guardian [[rangoric-srd/monsters/hydra/Hydra|hydra]].
+The divine guardian above is a divine guardian [[rangoric-srd/monsters/hydras/Hydra|hydra]].
 
 A divine guardian is a creature chosen by the gods to guard a sacred site of the faith. Blessed with eternal life (or damned, some might say), a divine guardian spends untold centuries in the service of its deity, tirelessly and deathlessly defending its charge from any who would seek to desecrate it.
 

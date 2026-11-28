@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/affliction]
 
 # Gray Pox
 
-A disease; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. A frightening disease that causes weakness, gray splotches on the skin, and eventual catatonia; the halberd of a [[rangoric-srd/monsters/demon/Schir|schir]] carries it. The attack bonus is Constitution-based.
+A disease; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. A frightening disease that causes weakness, gray splotches on the skin, and eventual catatonia; the halberd of a [[rangoric-srd/monsters/demons/Schir|schir]] carries it. The attack bonus is Constitution-based.
 
 - **Type**: disease, injury
 - **Attack**: +5 vs Fortitude

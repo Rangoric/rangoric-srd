@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, racial]
 
 After years spent digging up graves, you are able to move through dirt almost as easily as a fish through water.
 
-**Prerequisites**: [[rangoric-srd/monsters/ghoul/Ghoul|Ghoul]].
+**Prerequisites**: [[rangoric-srd/monsters/ghouls/Ghoul|Ghoul]].
 
 **Benefit**: You gain a burrow speed of 10 feet through earth, sand, or soil.
 

@@ -216,7 +216,7 @@ Campaigns that include evil necromancers or groups of undead as antagonists can 
 
 ###### Skeletal Minion
 
-A 1st-level necromancer using this variant can begin play with an undead minion (a human warrior [[rangoric-srd/monsters/skeleton/Skeleton|skeleton]]). Obtaining this minion takes 24 hours and uses up magical materials that cost 100 gp.
+A 1st-level necromancer using this variant can begin play with an undead minion (a human warrior [[rangoric-srd/monsters/skeletons/Skeleton|skeleton]]). Obtaining this minion takes 24 hours and uses up magical materials that cost 100 gp.
 
 This creature is a loyal servant that follows the necromancer's commands and accompanies her on adventures if desired. If the skeletal minion is destroyed, the necromancer suffers no ill effects and may replace it by performing a ceremony identical to the one that allowed her to obtain her first servant.
 

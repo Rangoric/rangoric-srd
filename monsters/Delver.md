@@ -69,7 +69,7 @@ A delver expecting trouble may honeycomb an area with tunnels, leaving most clos
 
 **Corrosive Slime (Ex)**: A delver produces a mucuslike slime that contains a highly corrosive substance. The slime is particularly effective against stone.
 
-A delver’s mere touch deals 2d6 points of acid damage to organic creatures or objects. Against metallic creatures or objects, a delver’s slime deals 4d8 points of damage, and against stony creatures (including [[rangoric-srd/monsters/elemental/Earth Elemental|earth elementals]]) or objects it deals 8d10 points of damage. A slam attack by a delver leaves a patch of slime that deals 2d6 points of damage on contact and another 2d6 points of damage in each of the next 2 rounds. A large quantity (at least a quart) of water or weak acid, such as vinegar, washes off the slime.
+A delver’s mere touch deals 2d6 points of acid damage to organic creatures or objects. Against metallic creatures or objects, a delver’s slime deals 4d8 points of damage, and against stony creatures (including [[rangoric-srd/monsters/elementals/Earth Elemental|earth elementals]]) or objects it deals 8d10 points of damage. A slam attack by a delver leaves a patch of slime that deals 2d6 points of damage on contact and another 2d6 points of damage in each of the next 2 rounds. A large quantity (at least a quart) of water or weak acid, such as vinegar, washes off the slime.
 
 An opponent’s armor and clothing dissolve and become useless immediately if the slime hits the wearer at +12 vs Reflex. Weapons that strike a delver also dissolve immediately if the slime hits the wielder at +12 vs Reflex.
 

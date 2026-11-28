@@ -12,4 +12,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “heat stone”, on the Special Qualities line.
 
-Whenever a brijidine uses her meld into stone, soften earth and stone, spike stones, stone shape, or wall of stone spell-like abilities, she can have the affected stone radiate intense heat for 1 minute. Any creature within 5 feet of the stone takes 1d6 fire damage per round. The [[rangoric-srd/monsters/azata/Brijidine|brijidine]] has it.
+Whenever a brijidine uses her meld into stone, soften earth and stone, spike stones, stone shape, or wall of stone spell-like abilities, she can have the affected stone radiate intense heat for 1 minute. Any creature within 5 feet of the stone takes 1d6 fire damage per round. The [[rangoric-srd/monsters/azatas/Brijidine|brijidine]] has it.

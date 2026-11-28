@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/affliction]
 
 # Bone Devil Venom
 
-A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the [[rangoric-srd/monsters/devil/Bone Devil (Osyluth)|bone devil]]'s sting.
+A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the [[rangoric-srd/monsters/devils/Bone Devil (Osyluth)|bone devil]]'s sting.
 
 - **Type**: poison, injury
 - **Attack**: +10 vs Fortitude

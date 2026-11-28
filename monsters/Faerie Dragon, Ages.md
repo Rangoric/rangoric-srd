@@ -60,7 +60,7 @@ The faerie dragon is a chaotic good sub-family of the [[rangoric-srd/monsters/Ps
 
 Faerie dragons communicate with each other telepathically up to a range of two miles. All faerie dragons also speak Draconic, Sylvan, and the Sylvan dialect of Fae. Faerie dragons are most at home in the forests of the fey realm, but when found in the mortal worlds they favor the densely wooded forests in temperate, tropical, and subtropical regions.
 
-Faerie dragons are impulsive creatures that will stop at nothing to play a practical joke. Faerie dragons love fresh fruit (especially apples) and pastries. It is the quickest way to their hearts, but once you are out of good things to eat, they normally leave. [[rangoric-srd/monsters/sprite/Grig|Grigs]], [[rangoric-srd/monsters/sprite/Pixie|pixies]], and true [[rangoric-srd/monsters/sprite/Sprite|sprites]] enjoy the company of faerie dragons and frequently live with them or are found in their company.
+Faerie dragons are impulsive creatures that will stop at nothing to play a practical joke. Faerie dragons love fresh fruit (especially apples) and pastries. It is the quickest way to their hearts, but once you are out of good things to eat, they normally leave. [[rangoric-srd/monsters/sprites/Grig|Grigs]], [[rangoric-srd/monsters/sprites/Pixie|pixies]], and true [[rangoric-srd/monsters/sprites/Sprite|sprites]] enjoy the company of faerie dragons and frequently live with them or are found in their company.
 
 According to legend, the first faerie dragon had its origins with the conception and birth of a pseudodragon in the fey realm. Many fey beings have had faerie dragon companions at one time or another, and a rare few wizards have had them as familiars.
 

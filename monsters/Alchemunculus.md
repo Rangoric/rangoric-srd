@@ -83,7 +83,7 @@ On the dawn of the fourth day, other substances are gathered from the creator or
 
 The creation of the alchemunculus is only completed by the creator casting _[[rangoric-srd/spells/Summon Monster I|summon monster I]]_ upon the sealed mold on the eighth day of the process. The ritual drains 50 XP and 1d4 hp from the caster/creator, and the alchemist must succeed on a [[rangoric-srd/skills/Craft|Craft]] (alchemy) check (DC 22) for the alchemunculus to be viable and whole. The mold is opened and, if all is successful, the alchemunculus emerges to begin its servitude with its creator.
 
-There are rumors of greater alchemunculi, crafted by high practitioners of alchemy with far greater abilities and powers. The most oft-repeated tale mentions an alchemunculus that acts like a [[rangoric-srd/monsters/lich/Lich|lich]]’s phylactery to store the soul of its deceased master (or become fully possessed by him) until such time as it can alchemically or magically have its master restored.
+There are rumors of greater alchemunculi, crafted by high practitioners of alchemy with far greater abilities and powers. The most oft-repeated tale mentions an alchemunculus that acts like a [[rangoric-srd/monsters/liches/Lich|lich]]’s phylactery to store the soul of its deceased master (or become fully possessed by him) until such time as it can alchemically or magically have its master restored.
 
 ### Alchemunculus Familiars
 

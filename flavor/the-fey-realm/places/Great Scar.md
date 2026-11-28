@@ -23,6 +23,6 @@ _Common:_ If you are not careful, the land itself will move you toward the Great
 
 _Uncommon:_ Equipment from all ages litters the area immediately surrounding the Great Scar. [[rangoric-srd/races/Bogie|Bogies]] constantly sift through the rummage, leaving little of value behind.
 
-_Rare:_ Near a river that runs to the Fungal Forest is the largest lair of [[rangoric-srd/monsters/jabberwock/Jabberwock|jabberwock]] in all of FaerieLand.
+_Rare:_ Near a river that runs to the Fungal Forest is the largest lair of [[rangoric-srd/monsters/jabberwocks/Jabberwock|jabberwock]] in all of FaerieLand.
 
-_Obscure:_ The Queen of Air and Darkness breeds [[rangoric-srd/monsters/jabberwock/Greater Jabberwock|greater jabberwock]] in the bowels of the Great Scar for use in her attacks against the Twilight Lands.
+_Obscure:_ The Queen of Air and Darkness breeds [[rangoric-srd/monsters/jabberwocks/Greater Jabberwock|greater jabberwock]] in the bowels of the Great Scar for use in her attacks against the Twilight Lands.

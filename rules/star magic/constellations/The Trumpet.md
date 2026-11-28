@@ -40,6 +40,6 @@ _[[rangoric-srd/rules/star magic/Star Magic|Constellation]]_
 - **Defense**: None
 - **Spell Resistance**: No
 
-A note rings out across the planes, and within 1 round 1d6 [[rangoric-srd/monsters/demon/Hezrou|hezrou]] appear in the area, eager for battle. They attack the creatures you point them at and kill as many as they can. If you call them when no battle is under way, they attack you, your companions and everyone else nearby until they are slain.
+A note rings out across the planes, and within 1 round 1d6 [[rangoric-srd/monsters/demons/Hezrou|hezrou]] appear in the area, eager for battle. They attack the creatures you point them at and kill as many as they can. If you call them when no battle is under way, they attack you, your companions and everyone else nearby until they are slain.
 
 When the battle ends, you face each surviving hezrou in a contest of wills: you each roll 1d20 + your Will save bonus. A hezrou that loses departs. One that wins stays and kills everything in its path until it is slain.

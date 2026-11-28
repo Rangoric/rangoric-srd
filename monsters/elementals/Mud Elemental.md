@@ -1,0 +1,29 @@
+---
+srd-type: "monster"
+section: "Monsters"
+group: "[[rangoric-srd/monsters/elementals/Elemental|Elemental]]"
+status: draft
+pi-review: 2026-11-24
+tags: [rangoric, rangoric/monster]
+---
+
+# Mud Elemental
+
+- [[rangoric-srd/monsters/elementals/Mud Elemental, Small|Mud Elemental, Small]]
+- [[rangoric-srd/monsters/elementals/Mud Elemental, Medium|Mud Elemental, Medium]]
+- [[rangoric-srd/monsters/elementals/Mud Elemental, Large|Mud Elemental, Large]]
+- [[rangoric-srd/monsters/elementals/Mud Elemental, Huge|Mud Elemental, Huge]]
+- [[rangoric-srd/monsters/elementals/Mud Elemental, Greater|Mud Elemental, Greater]]
+- [[rangoric-srd/monsters/elementals/Mud Elemental, Elder|Mud Elemental, Elder]]
+
+Mud elementals speak Terran.
+
+- **Environment**: Any land or water (Elemental Plane of Earth)
+- **Organization**: Solitary, pair, or gang (3–8)
+- **Treasure**: None
+
+### Combat
+
+**[[rangoric-srd/monsters/abilities/Earth Glide|Earth Glide]] (Ex)**: A burrowing mud elemental can pass through dirt, gravel, or other loose or porous solid matter as easily as a fish swims through water. It cannot use this ability to pass through a solid barrier such as a stone or brick wall. Its burrowing leaves behind no tunnel or hole, nor does it create any ripple or other sign of its presence. A _[[rangoric-srd/spells/Move Earth|move earth]]_ spell cast on an area containing a burrowing mud elemental flings the elemental back 30 feet, and the spell attacks its Fortitude at +5, stunning it for 1 round on a hit.
+
+**[[rangoric-srd/monsters/abilities/Entrap|Entrap]] (Ex)**: The mud from an elemental's entrap ability can be washed away in 1d3 rounds of immersion in water.

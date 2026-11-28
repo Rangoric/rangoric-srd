@@ -22,9 +22,9 @@ _Necromancy \[Evil\]_
 
 This spell functions like [[rangoric-srd/spells/Create Undead|create undead]], except that you can create more powerful and intelligent sorts of undead: shadows, wraiths, spectres, and devourers. The type or types of undead you can create is based on your caster level, as shown on the table below.
 
-| Caster Level   | Undead Created                                  |
-| -------------- | ----------------------------------------------- |
-| 15th or lower  | [[rangoric-srd/monsters/shadow/Shadow\|Shadow]] |
-| 16th–17th      | [[rangoric-srd/monsters/wraith/Wraith\|Wraith]] |
-| 18th–19th      | [[rangoric-srd/monsters/Spectre\|Spectre]]      |
-| 20th or higher | [[rangoric-srd/monsters/Devourer\|Devourer]]    |
+| Caster Level   | Undead Created                                   |
+| -------------- | ------------------------------------------------ |
+| 15th or lower  | [[rangoric-srd/monsters/shadows/Shadow\|Shadow]] |
+| 16th–17th      | [[rangoric-srd/monsters/wraiths/Wraith\|Wraith]] |
+| 18th–19th      | [[rangoric-srd/monsters/Spectre\|Spectre]]       |
+| 20th or higher | [[rangoric-srd/monsters/Devourer\|Devourer]]     |

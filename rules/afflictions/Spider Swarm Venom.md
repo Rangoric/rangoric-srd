@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/affliction]
 
 # Spider Swarm Venom
 
-A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of a [[rangoric-srd/monsters/spider/Spider Swarm|spider swarm]].
+A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of a [[rangoric-srd/monsters/spiders/Spider Swarm|spider swarm]].
 
 - **Type**: poison, injury
 - **Attack**: +1 vs Fortitude

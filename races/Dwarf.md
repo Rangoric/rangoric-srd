@@ -145,7 +145,7 @@ Bundles of alternate traits for dwarves of a particular background.
 - **Desert Dwarf**: Masters of finding water and digging wells, with the wealth and power that brings. +2 Constitution, +2 Wisdom, −2 Dexterity. [[rangoric-srd/races/racial-traits/Heat Endurance|Heat Endurance]]. No stonecunning and no craftsman. Hatred is against reptilian humanoids (such as kobolds and lizardfolk) and dragons (including half-dragons), in place of orcs and goblinoids. Defensive training is against dragons in place of giants. +2 racial bonus on [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] and [[rangoric-srd/skills/Profession|Profession]] (miner) checks.
 - **Jungle Dwarf**: Explorers, pathfinders and traveling merchants who live aboveground. Low-light vision in place of darkvision. No stonecunning and no craftsman. +2 bonus on [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] and [[rangoric-srd/skills/Nature|Nature]] checks, and +2 on [[rangoric-srd/skills/Perception|Perception]] checks.
 
-**Subraces from the monster entry.** The [[rangoric-srd/monsters/dwarf/Dwarf#Subraces|monster Dwarf]]'s subraces; each has the dwarf's traits except as noted.
+**Subraces from the monster entry.** The [[rangoric-srd/monsters/dwarves/Dwarf#Subraces|monster Dwarf]]'s subraces; each has the dwarf's traits except as noted.
 
 - **Deep Dwarf**: Leaner dwarves of the far underground, standoffish with non-dwarves, with a reddish tinge to their skin, large washed-out blue eyes, and hair from bright red to straw blond. Hardy gives +3 in place of +2. Darkvision out to 90 feet. [[rangoric-srd/rules/Special Abilities and Conditions#Light Sensitivity|Light sensitivity]].
 

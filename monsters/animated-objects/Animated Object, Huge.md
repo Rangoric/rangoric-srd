@@ -1,0 +1,59 @@
+---
+srd-type: "monster"
+section: "Monsters"
+group: "[[rangoric-srd/monsters/animated-objects/Animated Object|Animated Object]]"
+size: "Huge"
+creature-type: "Construct"
+hit-dice: "8d10+40 (84 hp)"
+initiative: "–1"
+speed: "20 ft. (4 squares); 30 ft. legs, 40 ft. multiple legs, 60 ft. wheels"
+armor-class: "13 (–2 size, –1 Dex, +6 natural), touch 7, flat-footed 13"
+base-attack: "+6"
+cmb: "+13"
+cmd: "22"
+attack: "Slam +9 melee (2d6+7)"
+full-attack: "Slam +9 melee (2d6+7)"
+space-reach: "15 ft./10 ft. (long) 15 ft./15 ft. (tall)"
+special-attacks: "See text"
+special-qualities: "Construct traits, darkvision 60 ft., low-light vision; also see text"
+defenses: "Fort 12, Ref 11, Will 7"
+abilities: "Str 20, Dex 8, Con —, Int —, Wis 1, Cha 1"
+skills: "Athletics +16"
+skill-ranks: "Athletics 8"
+feats: "—"
+environment: "Any"
+organization: "Solitary"
+challenge-rating: 5
+treasure: "None"
+alignment: "Always neutral"
+advancement: "—"
+level-adjustment: "—"
+status: draft
+pi-review: scanned 2026-10-15
+tags: [rangoric, rangoric/monster]
+---
+
+# Animated Object, Huge
+
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]]
+- **Hit Dice**: 8d10+40 (84 hp)
+- **Initiative**: –1
+- **Speed**: 20 ft. (4 squares); 30 ft. legs, 40 ft. multiple legs, 60 ft. wheels
+- **Armor Class**: 13 (–2 size, –1 Dex, +6 natural), touch 7, flat-footed 13
+- **Base Attack**: +6; **CMB**: +13; **CMD**: 22
+- **Attack**: Slam +9 melee (2d6+7)
+- **Full Attack**: Slam +9 melee (2d6+7)
+- **Space/Reach**: 15 ft./10 ft. (long) 15 ft./15 ft. (tall)
+- **Special Attacks**: See text
+- **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct traits]], darkvision 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]; also see text
+- **Defenses**: Fort 12, Ref 11, Will 7
+- **Abilities**: Str 20, Dex 8, Con —, Int —, Wis 1, Cha 1
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +16
+- **Feats**: —
+- **Environment**: Any
+- **Organization**: Solitary
+- **Challenge Rating**: 5
+- **Treasure**: None
+- **Alignment**: Always neutral
+- **Advancement**: —
+- **Level Adjustment**: —

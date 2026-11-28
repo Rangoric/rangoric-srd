@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/affliction]
 
 # Snake Venom
 
-A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the [[rangoric-srd/monsters/snake/Snake, Medium Viper|venomous snake]]'s bite.
+A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the [[rangoric-srd/monsters/snakes/Snake, Medium Viper|venomous snake]]'s bite.
 
 - **Type**: poison, injury
 - **Attack**: +3 vs Fortitude

@@ -1,0 +1,30 @@
+---
+srd-type: "monster"
+section: "Monsters"
+status: draft
+pi-review: 2026-11-17
+tags: [rangoric, rangoric/monster]
+---
+
+# Angel
+
+Angels are a race of celestials, beings who live on the good-aligned Outer Planes.
+
+Angels can be of any good alignment. Regardless of their alignment, angels never lie, cheat, or steal. They are impeccably honorable in all their dealings and often prove the most trustworthy and diplomatic of all the celestials.
+
+All angels are blessed with comely looks, though their actual appearances vary widely.
+
+Angels speak Celestial, Infernal, and Draconic, though they can speak with almost any creature because of their truespeech.
+
+### Combat
+
+In combat, most angels make full use of their mobility and their ability to attack at a distance.
+
+Angels have the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^angel|angel subtype]]: darkvision and low-light vision, immunity to acid, cold and petrification, resistance to electricity and fire, a bonus on defenses against poison, a protective aura, and truespeech.
+
+- [[rangoric-srd/monsters/angels/Angel, Cassisian|Angel, Cassisian]]
+- [[rangoric-srd/monsters/angels/Angel, Movanic Deva|Angel, Movanic Deva]]
+- [[rangoric-srd/monsters/angels/Angel, Monadic Deva|Angel, Monadic Deva]]
+- [[rangoric-srd/monsters/angels/Angel, Astral Deva|Angel, Astral Deva]]
+- [[rangoric-srd/monsters/angels/Angel, Planetar|Angel, Planetar]]
+- [[rangoric-srd/monsters/angels/Angel, Solar|Angel, Solar]]

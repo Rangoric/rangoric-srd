@@ -113,17 +113,17 @@ As agathions are intensely proud of their beastlike shapes, summoners who insult
 
 Agathions are immune to electricity and petrification. They have resistance to cold 10 and sonic 10, and a +4 racial bonus on saving throws against poison. They are vulnerable to unholy weapons.
 
-**[[rangoric-srd/monsters/agathion/Avoral|Avoral]]**: Often bound to serve as spies and scouts, avorals delight in the challenge of such activities when bound, as long as the cause is just and worthy of their attention. They hate being confined, so evil-aligned or neutral-aligned binders typically use imprisonment as punishment or coercion.
+**[[rangoric-srd/monsters/agathions/Avoral|Avoral]]**: Often bound to serve as spies and scouts, avorals delight in the challenge of such activities when bound, as long as the cause is just and worthy of their attention. They hate being confined, so evil-aligned or neutral-aligned binders typically use imprisonment as punishment or coercion.
 
-**[[rangoric-srd/monsters/agathion/Cetaceal|Cetaceal]]**: Protectors of good aquatic races, cetaceals are often called and bound by good spellcasters for protection of aquatic territories and to serve as ambassadors or emissaries. Unscrupulous binders often make deals with cetaceals on dry land, only letting them roam the water when a bargain for service is reached.
+**[[rangoric-srd/monsters/agathions/Cetaceal|Cetaceal]]**: Protectors of good aquatic races, cetaceals are often called and bound by good spellcasters for protection of aquatic territories and to serve as ambassadors or emissaries. Unscrupulous binders often make deals with cetaceals on dry land, only letting them roam the water when a bargain for service is reached.
 
-**[[rangoric-srd/monsters/agathion/Draconal|Draconal]]**: Powerful, haughty, and removed from mortal affairs, these direct agents of the gods are often aggravating to deal with once bound. Patient pursuers of long-term plans, many draconals seek to wait out mortal spellcasters rather than bargain for their services. Those who wish to bind and use the power of a draconal must be epically powerful and have perfect timing, know the draconal's true name, or be lucky enough to have plans running in concert with the agathion's goals.
+**[[rangoric-srd/monsters/agathions/Draconal|Draconal]]**: Powerful, haughty, and removed from mortal affairs, these direct agents of the gods are often aggravating to deal with once bound. Patient pursuers of long-term plans, many draconals seek to wait out mortal spellcasters rather than bargain for their services. Those who wish to bind and use the power of a draconal must be epically powerful and have perfect timing, know the draconal's true name, or be lucky enough to have plans running in concert with the agathion's goals.
 
-**[[rangoric-srd/monsters/agathion/Leonal|Leonal]]**: Coveted as bound protectors and hunters, leonals are often straightforward in their negotiations with binders. They desire simple (and good) goals, as well as definitive terms for release from their obligations.
+**[[rangoric-srd/monsters/agathions/Leonal|Leonal]]**: Coveted as bound protectors and hunters, leonals are often straightforward in their negotiations with binders. They desire simple (and good) goals, as well as definitive terms for release from their obligations.
 
-**[[rangoric-srd/monsters/agathion/Silvanshee|Silvanshee]]**: Curious but cautious, silvanshees are often bound as familiars by neutral good spellcasters. Sometimes large groups of them are summoned and bound by powerful spellcasters to serve as spies and scouts, especially in cities where they can meld into cat populations.
+**[[rangoric-srd/monsters/agathions/Silvanshee|Silvanshee]]**: Curious but cautious, silvanshees are often bound as familiars by neutral good spellcasters. Sometimes large groups of them are summoned and bound by powerful spellcasters to serve as spies and scouts, especially in cities where they can meld into cat populations.
 
-**[[rangoric-srd/monsters/agathion/Vulpinal|Vulpinal]]**: These foxlike agathions deal with those who bind them into service with an outspoken friendliness. They often bluntly state their dissatisfaction with their current fate in the most diplomatic terms, frequently accompanied by a smile and a wink. They prefer to be used as messengers and emissaries in the service of good, and if bound for any other purpose, they trick their way into the resolution of their bargains as quickly as possible.
+**[[rangoric-srd/monsters/agathions/Vulpinal|Vulpinal]]**: These foxlike agathions deal with those who bind them into service with an outspoken friendliness. They often bluntly state their dissatisfaction with their current fate in the most diplomatic terms, frequently accompanied by a smile and a wink. They prefer to be used as messengers and emissaries in the service of good, and if bound for any other purpose, they trick their way into the resolution of their bargains as quickly as possible.
 
 ### Angels
 
@@ -131,17 +131,17 @@ All angels have numerous immunities and damage resistances, allowing them to tra
 
 Angels are immune to acid, cold, and petrification effects. They also have resistance to electricity 10 and fire 10.
 
-**[[rangoric-srd/monsters/angel/Angel, Astral Deva|Astral Deva]]**: Astral devas are the messengers of the gods of good—or, if one were to be cynical, the gossips of the heavens. The appropriate gift for an astral deva is knowledge of a place it cannot reach: a rival temple, the location of evil cultists, or some other evil that has a direct bearing on the Material Plane.
+**[[rangoric-srd/monsters/angels/Angel, Astral Deva|Astral Deva]]**: Astral devas are the messengers of the gods of good—or, if one were to be cynical, the gossips of the heavens. The appropriate gift for an astral deva is knowledge of a place it cannot reach: a rival temple, the location of evil cultists, or some other evil that has a direct bearing on the Material Plane.
 
-**[[rangoric-srd/monsters/angel/Angel, Cassisian|Cassisian]]**: The weakest sort of angels, cassisians serve as the messengers of more powerful angels, and frequently serve good spellcasters on the Material Plane as familiars. Formed from the souls of pious soldiers, they are often simply appeased with gifts that allow them to join the fray against evil creatures.
+**[[rangoric-srd/monsters/angels/Angel, Cassisian|Cassisian]]**: The weakest sort of angels, cassisians serve as the messengers of more powerful angels, and frequently serve good spellcasters on the Material Plane as familiars. Formed from the souls of pious soldiers, they are often simply appeased with gifts that allow them to join the fray against evil creatures.
 
-**[[rangoric-srd/monsters/angel/Angel, Monadic Deva|Monadic Deva]]**: Watchers of the Ethereal Plane and the Elemental Planes, monadic devas usually serve those who summon them only in purposes that deal with their duties on those planes. Stubborn in their causes, they demand outrageous gifts of servitude toward their own lofty goals.
+**[[rangoric-srd/monsters/angels/Angel, Monadic Deva|Monadic Deva]]**: Watchers of the Ethereal Plane and the Elemental Planes, monadic devas usually serve those who summon them only in purposes that deal with their duties on those planes. Stubborn in their causes, they demand outrageous gifts of servitude toward their own lofty goals.
 
-**[[rangoric-srd/monsters/angel/Angel, Movanic Deva|Movanic Deva]]**: Soldier angels who often patrol the Positive Energy Plane, Negative Energy Plane, and Material Plane, these devas battle undead and the strange creatures that hunt the hungry void. When summoned to the Material Plane, they serve as forthright soldiers for the cause of good, and are appeased with gifts that allow them greater power to hunt undead and sceaduinar.
+**[[rangoric-srd/monsters/angels/Angel, Movanic Deva|Movanic Deva]]**: Soldier angels who often patrol the Positive Energy Plane, Negative Energy Plane, and Material Plane, these devas battle undead and the strange creatures that hunt the hungry void. When summoned to the Material Plane, they serve as forthright soldiers for the cause of good, and are appeased with gifts that allow them greater power to hunt undead and sceaduinar.
 
-**[[rangoric-srd/monsters/angel/Angel, Planetar|Planetar]]**: As the leaders of celestial armies, planetars seek knowledge and information regarding the plans of their infernal foes. Providing valuable data regarding the movement of evil forces, the locations of caches of evil weapons, or the locations of portals to the netherworld gives the binder a +2 Charisma bonus when dealing with planetars.
+**[[rangoric-srd/monsters/angels/Angel, Planetar|Planetar]]**: As the leaders of celestial armies, planetars seek knowledge and information regarding the plans of their infernal foes. Providing valuable data regarding the movement of evil forces, the locations of caches of evil weapons, or the locations of portals to the netherworld gives the binder a +2 Charisma bonus when dealing with planetars.
 
-**[[rangoric-srd/monsters/angel/Angel, Solar|Solar]]**: The greatest warriors of goodness, solars do not typically treat directly with mortals. To summon a solar and bargain with it, a wizard must destroy an item of great evil in the solar's name, crush a powerful evil in the world, or offer an evil relic as part of the summoning.
+**[[rangoric-srd/monsters/angels/Angel, Solar|Solar]]**: The greatest warriors of goodness, solars do not typically treat directly with mortals. To summon a solar and bargain with it, a wizard must destroy an item of great evil in the solar's name, crush a powerful evil in the world, or offer an evil relic as part of the summoning.
 
 ### Archons
 
@@ -149,15 +149,15 @@ As creatures of law and good, archons seek order, justice, and the protection of
 
 All archons are immune to electricity and petrification attacks, and all have DR 10/evil. The _magic circle_ used to summon them is made of powdered silver.
 
-**[[rangoric-srd/monsters/archon/Hound Archon|Hound]]**: Disciplined soldiers and vigilant sentinels, hound archons are valiant defenders of all that is good and holy. They value movement and swift yet thoughtful action, and delight in crushing evil; therefore, the best sacrifices when summoning a hound archon are magical shields imbued with holy power, ensorcelled rings or boots that grant swift or unfettered movement, or weaponry of great power.
+**[[rangoric-srd/monsters/archons/Hound Archon|Hound]]**: Disciplined soldiers and vigilant sentinels, hound archons are valiant defenders of all that is good and holy. They value movement and swift yet thoughtful action, and delight in crushing evil; therefore, the best sacrifices when summoning a hound archon are magical shields imbued with holy power, ensorcelled rings or boots that grant swift or unfettered movement, or weaponry of great power.
 
-**[[rangoric-srd/monsters/archon/Lantern Archon|Lantern]]**: The least of the archons, lantern archons are friendly, and their greatest ambition is to see the cause of good advanced. To gain their favor, one should engage in a week's worth of charity or make a sincere offering worth 100 gp to a good cause in the name of Heaven.
+**[[rangoric-srd/monsters/archons/Lantern Archon|Lantern]]**: The least of the archons, lantern archons are friendly, and their greatest ambition is to see the cause of good advanced. To gain their favor, one should engage in a week's worth of charity or make a sincere offering worth 100 gp to a good cause in the name of Heaven.
 
-**[[rangoric-srd/monsters/archon/Shield Archon|Shield]]**: Solid, stoic, and often defensive even in personality, shield archons are highly skeptical of those who attempt to bind them, but if they can work in the defense of the common good or opposed to the machinations of fiends, they commonly ask their binder to care for and protect a shrine or temple as a gift for their service.
+**[[rangoric-srd/monsters/archons/Shield Archon|Shield]]**: Solid, stoic, and often defensive even in personality, shield archons are highly skeptical of those who attempt to bind them, but if they can work in the defense of the common good or opposed to the machinations of fiends, they commonly ask their binder to care for and protect a shrine or temple as a gift for their service.
 
-**[[rangoric-srd/monsters/archon/Star Archon|Star]]**: Brilliant, wise, and constantly strategizing the protection of Heaven or the defeat of the forces of evil, star archons often chafe under the bindings of mortal spellcasters. Negotiations often devolve into the star archon blasting his binder for shortsightedness and wasting the archon's time. Star archons demand outrageous gifts even when the cause is just. Only when the archon's and the binder's goals work in close concert are the gifts the archon demands nearly attainable.
+**[[rangoric-srd/monsters/archons/Star Archon|Star]]**: Brilliant, wise, and constantly strategizing the protection of Heaven or the defeat of the forces of evil, star archons often chafe under the bindings of mortal spellcasters. Negotiations often devolve into the star archon blasting his binder for shortsightedness and wasting the archon's time. Star archons demand outrageous gifts even when the cause is just. Only when the archon's and the binder's goals work in close concert are the gifts the archon demands nearly attainable.
 
-**[[rangoric-srd/monsters/archon/Trumpet Archon|Trumpet]]**: Mighty warriors and messengers, trumpet archons are the leaders of Heaven's strike forces and the heralds of gods. To gain their favor, one must prove worthy of their presence; rather than making offerings of things, trumpet archons ask for sacrifices of service and time, and any binder who offers an exchange of services—and intends to keep her word—gains a +2 Charisma bonus. Those who renege on their bonds see their fortunes begin to vanish, and take a –2 Charisma penalty when dealings with good extraplanar creatures until they set matters right.
+**[[rangoric-srd/monsters/archons/Trumpet Archon|Trumpet]]**: Mighty warriors and messengers, trumpet archons are the leaders of Heaven's strike forces and the heralds of gods. To gain their favor, one must prove worthy of their presence; rather than making offerings of things, trumpet archons ask for sacrifices of service and time, and any binder who offers an exchange of services—and intends to keep her word—gains a +2 Charisma bonus. Those who renege on their bonds see their fortunes begin to vanish, and take a –2 Charisma penalty when dealings with good extraplanar creatures until they set matters right.
 
 ### Azatas
 
@@ -167,15 +167,15 @@ Except for lillends, azatas have DR overcome by cold iron and evil weapons. They
 
 The _magic circle_ needed to summon an azata is made of cold iron.
 
-**[[rangoric-srd/monsters/azata/Bralani|Bralani]]**: Bralani azatas are fierce and wild, and constantly seek to prove themselves in battle or in contests of wits. If a wizard suggests a game of strength, wits, or dexterity that the bralani has not played, or develops a new one for the bralani to take back to Elysium, he receives a +2 Charisma bonus when negotiating with the azata.
+**[[rangoric-srd/monsters/azatas/Bralani|Bralani]]**: Bralani azatas are fierce and wild, and constantly seek to prove themselves in battle or in contests of wits. If a wizard suggests a game of strength, wits, or dexterity that the bralani has not played, or develops a new one for the bralani to take back to Elysium, he receives a +2 Charisma bonus when negotiating with the azata.
 
-**[[rangoric-srd/monsters/azata/Brijidine|Brijidine]]**: Lovers of fire, poetry, and spicy food, a brijidine can be successfully wooed with rare (and fireproof) scrolls of poetry or a gourmet spicy dish. Binders should be aware, however, that brijidine have exotic, expensive, and particular tastes.
+**[[rangoric-srd/monsters/azatas/Brijidine|Brijidine]]**: Lovers of fire, poetry, and spicy food, a brijidine can be successfully wooed with rare (and fireproof) scrolls of poetry or a gourmet spicy dish. Binders should be aware, however, that brijidine have exotic, expensive, and particular tastes.
 
-**[[rangoric-srd/monsters/azata/Ghaele|Ghaele]]**: Ghaeles are strong hunters, courtly and knightly, and pursue great foes. Offering them evidence of the binder's mighty hunts (at least 3 CR higher than the binder), or summoning them to a locale where they can pursue dragons or fiends provides a Charisma bonus to the caster.
+**[[rangoric-srd/monsters/azatas/Ghaele|Ghaele]]**: Ghaeles are strong hunters, courtly and knightly, and pursue great foes. Offering them evidence of the binder's mighty hunts (at least 3 CR higher than the binder), or summoning them to a locale where they can pursue dragons or fiends provides a Charisma bonus to the caster.
 
-**[[rangoric-srd/monsters/azata/Lillend|Lillend]]**: The most artistic of the azatas, lillends love stories, histories, tales, poems, and songs. Offerings to summoned lillends include original songs, performances, or other art forms; they also adore magical instruments.
+**[[rangoric-srd/monsters/azatas/Lillend|Lillend]]**: The most artistic of the azatas, lillends love stories, histories, tales, poems, and songs. Offerings to summoned lillends include original songs, performances, or other art forms; they also adore magical instruments.
 
-**[[rangoric-srd/monsters/azata/Lyrakien|Lyrakien]]**: Musicians among the azata, lyrakien can be persuaded to service with gifts of wondrous musical instruments and rare bits of music—especially fey music.
+**[[rangoric-srd/monsters/azatas/Lyrakien|Lyrakien]]**: Musicians among the azata, lyrakien can be persuaded to service with gifts of wondrous musical instruments and rare bits of music—especially fey music.
 
 ### Daemons
 
@@ -211,37 +211,37 @@ The great weakness of demons is a _[[rangoric-srd/magic-items/weapon-abilities/H
 
 All demons are immune to electricity and poison effects. Many have other resistances based on their forms and chaotic natures.
 
-**[[rangoric-srd/monsters/demon/Babau|Babau]]**: Any sacrifice for a babau must involve an intelligent creature, which the demon must be allowed to rend and utterly destroy.
+**[[rangoric-srd/monsters/demons/Babau|Babau]]**: Any sacrifice for a babau must involve an intelligent creature, which the demon must be allowed to rend and utterly destroy.
 
-**[[rangoric-srd/monsters/demon/Balor|Balor]]**: Balors do not come when summoned, and actively resist calls. Only the offer of a bound CR 15 lawful or good outsider, or a helpless paladin or cleric of 15th level or higher, dims their rage at being snatched from their home. Even thus placated, they will surely seek revenge unless the mortal they face demonstrates a greater power.
+**[[rangoric-srd/monsters/demons/Balor|Balor]]**: Balors do not come when summoned, and actively resist calls. Only the offer of a bound CR 15 lawful or good outsider, or a helpless paladin or cleric of 15th level or higher, dims their rage at being snatched from their home. Even thus placated, they will surely seek revenge unless the mortal they face demonstrates a greater power.
 
-**[[rangoric-srd/monsters/demon/Dretch|Dretch]]**: As the slave labor of the infinite Abyss, the lot of the dretch would be pitiable if the creature weren't so contemptible. The best sacrifice for a dretch is the promise that it can spend at least a third of its time in servitude resting.
+**[[rangoric-srd/monsters/demons/Dretch|Dretch]]**: As the slave labor of the infinite Abyss, the lot of the dretch would be pitiable if the creature weren't so contemptible. The best sacrifice for a dretch is the promise that it can spend at least a third of its time in servitude resting.
 
-**[[rangoric-srd/monsters/demon/Glabrezu|Glabrezu]]**: These treacherous demons peddle in secrets that destroy, and to bring them to the Material Plane as interested negotiators, the caster must know secrets that can destroy influential families, bring down nations, or otherwise befoul the bedrock of society.
+**[[rangoric-srd/monsters/demons/Glabrezu|Glabrezu]]**: These treacherous demons peddle in secrets that destroy, and to bring them to the Material Plane as interested negotiators, the caster must know secrets that can destroy influential families, bring down nations, or otherwise befoul the bedrock of society.
 
-**[[rangoric-srd/monsters/demon/Hezrou|Hezrou]]**: Expensive poisons and powerful potions worth at least 500 gp can pique the interest of these toadlike demons.
+**[[rangoric-srd/monsters/demons/Hezrou|Hezrou]]**: Expensive poisons and powerful potions worth at least 500 gp can pique the interest of these toadlike demons.
 
-**[[rangoric-srd/monsters/demon/Marilith|Marilith]]**: Either powerful magic weapons (+2 enchantment or greater) or the promise of the command of armies of cults can lure a marilith; any offer less than this earns the caster a –6 penalty on the Charisma check.
+**[[rangoric-srd/monsters/demons/Marilith|Marilith]]**: Either powerful magic weapons (+2 enchantment or greater) or the promise of the command of armies of cults can lure a marilith; any offer less than this earns the caster a –6 penalty on the Charisma check.
 
-**[[rangoric-srd/monsters/demon/Kalavakus|Kalavakus]]**: These horned demons almost always barter for slaves in return of their services.
+**[[rangoric-srd/monsters/demons/Kalavakus|Kalavakus]]**: These horned demons almost always barter for slaves in return of their services.
 
-**[[rangoric-srd/monsters/demon/Nabasu|Nabasu]]**: These demons love nothing more than devouring or enslaving humanoids so they can grow fatter and stronger.
+**[[rangoric-srd/monsters/demons/Nabasu|Nabasu]]**: These demons love nothing more than devouring or enslaving humanoids so they can grow fatter and stronger.
 
-**[[rangoric-srd/monsters/demon/Nalfeshnee|Nalfeshnee]]**: These demons love knowledge, especially that within their specialties of manipulation and greed. Nalfeshnees bargain knowledge for knowledge, but never give more than they gain.
+**[[rangoric-srd/monsters/demons/Nalfeshnee|Nalfeshnee]]**: These demons love knowledge, especially that within their specialties of manipulation and greed. Nalfeshnees bargain knowledge for knowledge, but never give more than they gain.
 
-**[[rangoric-srd/monsters/demon/Omox|Omox]]**: These slimy demons enjoy the destruction of beautiful things. For their services, they often take “gifts” that involve the destruction of beautiful things—in particular an attractive young man or woman as sacrifice.
+**[[rangoric-srd/monsters/demons/Omox|Omox]]**: These slimy demons enjoy the destruction of beautiful things. For their services, they often take “gifts” that involve the destruction of beautiful things—in particular an attractive young man or woman as sacrifice.
 
-**[[rangoric-srd/monsters/demon/Quasit|Quasit]]**: Even more pathetic than the dretch, the quasit seeks only the assurance that it can return to the Abyss when its task is complete.
+**[[rangoric-srd/monsters/demons/Quasit|Quasit]]**: Even more pathetic than the dretch, the quasit seeks only the assurance that it can return to the Abyss when its task is complete.
 
-**[[rangoric-srd/monsters/demon/Shadow Demon|Shadow Demon]]**: The shadow demon asks merely for the shell of a beautiful person to wear for the duration of its servitude. It does not care whether that shell is pure or impure.
+**[[rangoric-srd/monsters/demons/Shadow Demon|Shadow Demon]]**: The shadow demon asks merely for the shell of a beautiful person to wear for the duration of its servitude. It does not care whether that shell is pure or impure.
 
-**[[rangoric-srd/monsters/demon/Shemhazian|Shemhazian]]**: These powerful demons serve mortal spellcasters for only one price—when their service is done, they get to kill and devour the binder. This makes attempts to control them very rare. Sometimes they demand the life of the binder's family or friends as well.
+**[[rangoric-srd/monsters/demons/Shemhazian|Shemhazian]]**: These powerful demons serve mortal spellcasters for only one price—when their service is done, they get to kill and devour the binder. This makes attempts to control them very rare. Sometimes they demand the life of the binder's family or friends as well.
 
-**[[rangoric-srd/monsters/demon/Succubus|Succubus]]**: The primary joy of the succubus is in destroying innocence and love; offering a child, virgin, or a beloved family member of the caster suffices to gain the interest of the succubus.
+**[[rangoric-srd/monsters/demons/Succubus|Succubus]]**: The primary joy of the succubus is in destroying innocence and love; offering a child, virgin, or a beloved family member of the caster suffices to gain the interest of the succubus.
 
-**[[rangoric-srd/monsters/demon/Vrock|Vrock]]**: The vrock loves to despoil and befoul things of great beauty. Artwork worth at least 250 gp or a living, intelligent creature to destroy are equally desirable sacrifices. As their dance of ruin attack is more powerful the more vrocks are involved, they are often conjured and bribed in groups.
+**[[rangoric-srd/monsters/demons/Vrock|Vrock]]**: The vrock loves to despoil and befoul things of great beauty. Artwork worth at least 250 gp or a living, intelligent creature to destroy are equally desirable sacrifices. As their dance of ruin attack is more powerful the more vrocks are involved, they are often conjured and bribed in groups.
 
-**[[rangoric-srd/monsters/demon/Vrolikai|Vrolikai]]**: These transformed nabasus hate being summoned to the Material Plane, believing their time there is over and they are meant for greater things. When summoned, they typically ask for twice the normal amount in gifts. These demands are often accompanied by outrageous, sometimes impossible demands. They can eventually be reasoned with, but only when binders demonstrate power over them.
+**[[rangoric-srd/monsters/demons/Vrolikai|Vrolikai]]**: These transformed nabasus hate being summoned to the Material Plane, believing their time there is over and they are meant for greater things. When summoned, they typically ask for twice the normal amount in gifts. These demands are often accompanied by outrageous, sometimes impossible demands. They can eventually be reasoned with, but only when binders demonstrate power over them.
 
 ### Devils
 
@@ -253,31 +253,31 @@ Note that all devils are immune to fire and poison; the blasted landscapes of th
 
 Additionally, one can enhance summoning for specific kinds of devils by appealing to those devils' specific natures.
 
-**[[rangoric-srd/monsters/devil/Accuser Devil|Accuser Devil]]**: Popular among conjurers and summoners as spies and infiltrators, accuser devils often forgo haggling on gifts for their services, as the information they gain is worth more than any gift of treasure the binder can offer.
+**[[rangoric-srd/monsters/devils/Accuser Devil|Accuser Devil]]**: Popular among conjurers and summoners as spies and infiltrators, accuser devils often forgo haggling on gifts for their services, as the information they gain is worth more than any gift of treasure the binder can offer.
 
-**[[rangoric-srd/monsters/devil/Barbed Devil (Hamatula)|Barbed Devil]]**: Extraordinarily jealous of their duties and even more so of their time, barbed devils may grudgingly accept offers of rare treasures and gems worth more than 2,000 gp, with the usual +2 Charisma bonus to summoning—but only when the task takes less than 24 hours to complete. If the service takes any longer, the binder takes a –2 Charisma penalty.
+**[[rangoric-srd/monsters/devils/Barbed Devil (Hamatula)|Barbed Devil]]**: Extraordinarily jealous of their duties and even more so of their time, barbed devils may grudgingly accept offers of rare treasures and gems worth more than 2,000 gp, with the usual +2 Charisma bonus to summoning—but only when the task takes less than 24 hours to complete. If the service takes any longer, the binder takes a –2 Charisma penalty.
 
-**[[rangoric-srd/monsters/devil/Bearded Devil (Barbazu)|Bearded Devil]]**: The best way to attract the eye of a bearded devil is to offer a restrained victim for its bloody use, so that it might painfully murder its target.
+**[[rangoric-srd/monsters/devils/Bearded Devil (Barbazu)|Bearded Devil]]**: The best way to attract the eye of a bearded devil is to offer a restrained victim for its bloody use, so that it might painfully murder its target.
 
-**[[rangoric-srd/monsters/devil/Belier Devil|Belier Devil]]**: These massive masterminds are rarely summoned to the Material Plane, but when they are, they often try to finagle their way out of such circumstances as quickly as possible.
+**[[rangoric-srd/monsters/devils/Belier Devil|Belier Devil]]**: These massive masterminds are rarely summoned to the Material Plane, but when they are, they often try to finagle their way out of such circumstances as quickly as possible.
 
-**[[rangoric-srd/monsters/devil/Bone Devil (Osyluth)|Bone Devil]]**: These devils adore secrets and infernal lore, and those who provide hellish tomes or evidence of influential mortal vices gain a +2 Charisma bonus on their summoning checks.
+**[[rangoric-srd/monsters/devils/Bone Devil (Osyluth)|Bone Devil]]**: These devils adore secrets and infernal lore, and those who provide hellish tomes or evidence of influential mortal vices gain a +2 Charisma bonus on their summoning checks.
 
-**[[rangoric-srd/monsters/devil/Erinyes|Erinyes]]**: As the spirits of corrupted angels, erinyes are bitter and rage against the heavens. To entice an erinyes, offer it a significant holy item for it to despoil, or the cleric of a good-aligned god to ravish and ruin.
+**[[rangoric-srd/monsters/devils/Erinyes|Erinyes]]**: As the spirits of corrupted angels, erinyes are bitter and rage against the heavens. To entice an erinyes, offer it a significant holy item for it to despoil, or the cleric of a good-aligned god to ravish and ruin.
 
-**[[rangoric-srd/monsters/devil/Handmaiden Devil|Handmaiden Devil]]**: Deals made with handmaiden devils are often extremely hard bargains. They typically ask for the unthinkable, such as the lives of innocent children—the younger the better.
+**[[rangoric-srd/monsters/devils/Handmaiden Devil|Handmaiden Devil]]**: Deals made with handmaiden devils are often extremely hard bargains. They typically ask for the unthinkable, such as the lives of innocent children—the younger the better.
 
-**[[rangoric-srd/monsters/devil/Horned Devil (Cornugon)|Horned Devil]]**: As the elite of Hell's armies, horned devils value strength and daunting power; anyone who offers them an intimidating weapon enchanted to +2 or better gains the +2 Charisma bonus.
+**[[rangoric-srd/monsters/devils/Horned Devil (Cornugon)|Horned Devil]]**: As the elite of Hell's armies, horned devils value strength and daunting power; anyone who offers them an intimidating weapon enchanted to +2 or better gains the +2 Charisma bonus.
 
-**[[rangoric-srd/monsters/devil/Ice Devil (Gelugon)|Ice Devil]]**: As the schemers and planners of Hell's devils, laboring in their personal machinations, gelugons are extraordinarily difficult to summon. However, casters willing to offer an exchange of services—one in which the caster is likely to see the short end of the deal—may earn a Charisma bonus. Those who renege on their bargains with gelugons often learn what it means to displease Hell.
+**[[rangoric-srd/monsters/devils/Ice Devil (Gelugon)|Ice Devil]]**: As the schemers and planners of Hell's devils, laboring in their personal machinations, gelugons are extraordinarily difficult to summon. However, casters willing to offer an exchange of services—one in which the caster is likely to see the short end of the deal—may earn a Charisma bonus. Those who renege on their bargains with gelugons often learn what it means to displease Hell.
 
-**[[rangoric-srd/monsters/devil/Immolation Devil|Immolation Devil]]**: These devils often ask for lands on the Material Plane as gifts. If such lands are granted, they use these places to launch attacks on neighbors, further expanding the territory of Hell.
+**[[rangoric-srd/monsters/devils/Immolation Devil|Immolation Devil]]**: These devils often ask for lands on the Material Plane as gifts. If such lands are granted, they use these places to launch attacks on neighbors, further expanding the territory of Hell.
 
-**[[rangoric-srd/monsters/devil/Imp|Imp]]**: Imps prefer small and bloody sacrifices that show the binder's desire to do evil—for instance, a heart torn from a living dove grants a +2 Charisma modifier on the summoning check.
+**[[rangoric-srd/monsters/devils/Imp|Imp]]**: Imps prefer small and bloody sacrifices that show the binder's desire to do evil—for instance, a heart torn from a living dove grants a +2 Charisma modifier on the summoning check.
 
-**[[rangoric-srd/monsters/devil/Lemure|Lemure]]**: Lemures prefer reminders of their former lives, and so the best offering is food or pornography.
+**[[rangoric-srd/monsters/devils/Lemure|Lemure]]**: Lemures prefer reminders of their former lives, and so the best offering is food or pornography.
 
-**[[rangoric-srd/monsters/devil/Pit Fiend|Pit Fiend]]**: Pit fiends, the greatest of all the non-noble devils in Hell, are rarely tempted to answer a summons; when called, most of them come to see the stupidity or the arrogance that brought them to the Material Plane before snatching the wizard away for an eternity of torment. Only the greatest of promises, such as a noble offering the enslavement of an entire empire, a priest offering the destruction of holy relics, or an antipaladin pledging the delivery of a helpless and noteworthy angel for the pit fiend's pleasure, might induce the pit fiend into service.
+**[[rangoric-srd/monsters/devils/Pit Fiend|Pit Fiend]]**: Pit fiends, the greatest of all the non-noble devils in Hell, are rarely tempted to answer a summons; when called, most of them come to see the stupidity or the arrogance that brought them to the Material Plane before snatching the wizard away for an eternity of torment. Only the greatest of promises, such as a noble offering the enslavement of an entire empire, a priest offering the destruction of holy relics, or an antipaladin pledging the delivery of a helpless and noteworthy angel for the pit fiend's pleasure, might induce the pit fiend into service.
 
 ### Elementals and Genies
 
@@ -287,29 +287,29 @@ In general, one summons an elemental for brute work and combat, and a genie for 
 
 Genies seek and value power, though they are more brash and boastful than most. It is said the best way to secure the attentions of a genie is to speak its true name, and to offer it aid in battles against its political enemies—a wise conjurer researches the inner battles of geniekind before summoning a genie, or else is prepared to cow the genie with strong magic.
 
-**[[rangoric-srd/monsters/elemental/Air Elemental|Air Elemental]]**: When summoning an air elemental, inscribe the _magic circle_ with diamond powder, and release the elemental only once it has acquiesced to the caster's power. This costs an additional 2,000 gp but adds +4 to the Charisma check.
+**[[rangoric-srd/monsters/elementals/Air Elemental|Air Elemental]]**: When summoning an air elemental, inscribe the _magic circle_ with diamond powder, and release the elemental only once it has acquiesced to the caster's power. This costs an additional 2,000 gp but adds +4 to the Charisma check.
 
 **[[rangoric-srd/monsters/Belker|Belker]]**: These dull-witted creatures enjoy expensive incense and exotic green woods that create heavy smoke.
 
 **[[rangoric-srd/monsters/Crysmal|Crysmal]]**: Unlike other elementals, crysmals do bargain, but agree to a binder's demands only if offered a substantial amount of crystal, which they use for reproduction.
 
-**[[rangoric-srd/monsters/genie/Djinni|Djinni]]**: Tomes of knowledge or powerful wondrous items tempt djinn and grant the caster a +2 bonus on the Charisma check.
+**[[rangoric-srd/monsters/genies/Djinni|Djinni]]**: Tomes of knowledge or powerful wondrous items tempt djinn and grant the caster a +2 bonus on the Charisma check.
 
-**[[rangoric-srd/monsters/elemental/Earth Elemental|Earth Elemental]]**: Prepare the summoning chamber with swirling wind- and air-based spells to prevent the elemental from touching the floor. Maintaining this state for 5 rounds demonstrates the binder's superiority over the elemental, and grants a +4 bonus on the Charisma check.
+**[[rangoric-srd/monsters/elementals/Earth Elemental|Earth Elemental]]**: Prepare the summoning chamber with swirling wind- and air-based spells to prevent the elemental from touching the floor. Maintaining this state for 5 rounds demonstrates the binder's superiority over the elemental, and grants a +4 bonus on the Charisma check.
 
-**[[rangoric-srd/monsters/genie/Efreeti|Efreeti]]**: These warlike creatures value weapons with enhancement bonuses of at least +2 and scrolls of 4th-level or higher spells; these provide a +2 bonus on the binder's Charisma check. Efreet also appreciate attractive humanoid slaves, which give a +1 bonus on the binder's Charisma check for every 10 slaves offered.
+**[[rangoric-srd/monsters/genies/Efreeti|Efreeti]]**: These warlike creatures value weapons with enhancement bonuses of at least +2 and scrolls of 4th-level or higher spells; these provide a +2 bonus on the binder's Charisma check. Efreet also appreciate attractive humanoid slaves, which give a +1 bonus on the binder's Charisma check for every 10 slaves offered.
 
-**[[rangoric-srd/monsters/elemental/Fire Elemental|Fire Elementals]]**: When summoning a fire elemental, enclose the casting chamber with stone, remove flammable materials from the room, and prepare a _magic circle_ and spells to protect against fire. Keeping large blocks of ice in the room saps the elemental's power and cows it into submission more quickly, giving the caster a +4 bonus on the Charisma check to trap the elemental.
+**[[rangoric-srd/monsters/elementals/Fire Elemental|Fire Elementals]]**: When summoning a fire elemental, enclose the casting chamber with stone, remove flammable materials from the room, and prepare a _magic circle_ and spells to protect against fire. Keeping large blocks of ice in the room saps the elemental's power and cows it into submission more quickly, giving the caster a +4 bonus on the Charisma check to trap the elemental.
 
 **Ice Elemental**: Binders use actual fire, fire spells, protections against cold, and sometimes even fire creatures to keep ice elementals at bay during summoning. An ice elemental often yields to its binder as soon as serious melting occurs.
 
 **[[rangoric-srd/monsters/Invisible Stalker|Invisible Stalker]]**: The tactics used to bind invisible stalkers are similar to those used for binding air elementals. Unlike many elementals, invisible stalkers bargain for their services, which is why they are often summoned by mortal spellcasters.
 
-**[[rangoric-srd/monsters/genie/Janni|Janni]]**: The weakest of the genies, the jann are also proud and prone to insult. Gifts of rich fabrics, gems, or jewelry worth 1,000 gp or more soften their outlook and give the conjurer a +2 bonus on her Charisma check.
+**[[rangoric-srd/monsters/genies/Janni|Janni]]**: The weakest of the genies, the jann are also proud and prone to insult. Gifts of rich fabrics, gems, or jewelry worth 1,000 gp or more soften their outlook and give the conjurer a +2 bonus on her Charisma check.
 
 **Lightning Elemental**: Lightning elementals are similar to air elementals in that the same bindings work on them, though binders would do well to reinforce such bindings and themselves with protections against electrical damage.
 
-**[[rangoric-srd/monsters/genie/Marid|Marid]]**: Capricious and unpredictable, marids love performance and art—providing them artwork worth 1,000 gp or playing a DC 30 [[rangoric-srd/skills/Performance|Performance]] (any) piece (whether performed by the binder or his ally) piques their interest long enough for the conjurer to gain a +2 Charisma bonus.
+**[[rangoric-srd/monsters/genies/Marid|Marid]]**: Capricious and unpredictable, marids love performance and art—providing them artwork worth 1,000 gp or playing a DC 30 [[rangoric-srd/skills/Performance|Performance]] (any) piece (whether performed by the binder or his ally) piques their interest long enough for the conjurer to gain a +2 Charisma bonus.
 
 **Magma Elemental**: Magma elementals are composite elemental creatures, taking some aspects from earth elementals and fire elementals. Unsurprisingly, a mix of binding strategies from those two types of elementals often keeps these savage things at bay.
 
@@ -319,25 +319,25 @@ Genies seek and value power, though they are more brash and boastful than most. 
 
 **Sandman**: Subtle and craftier than other elementals, these creatures nearly always bargain with their binder, but are arrogant and headstrong. Even after their task is done, they voluntarily remain on the Material Plane to wreak as much havoc as possible.
 
-**[[rangoric-srd/monsters/genie/Shaitan|Shaitan]]**: As the most dense and brash of the genies, shaitans like games of chance and physical skill best of all. Should the caster offer services in exchange for a throw of the dice or a wrestling match—and go through with the offer—he'll receive a +2 bonus on his Charisma check.
+**[[rangoric-srd/monsters/genies/Shaitan|Shaitan]]**: As the most dense and brash of the genies, shaitans like games of chance and physical skill best of all. Should the caster offer services in exchange for a throw of the dice or a wrestling match—and go through with the offer—he'll receive a +2 bonus on his Charisma check.
 
 **[[rangoric-srd/monsters/Thoqqua|Thoqqua]]**: Natives of the harsh landscape where the Planes of Fire and Earth collide, thoqquas are dangerous creatures to summon and bind, and typically rage against their confines, even when properly bound. Those wishing to bind a thoqqua frequently use mephit intermediaries, as those creatures seem to understand thoqquas enough to calm them.
 
-**[[rangoric-srd/monsters/elemental/Water Elemental|Water Elemental]]**: When summoning a water elemental, remove sources of water from the room and prepare a bonfire. A ring of fire around the _magic circle_ exposes the elemental to its hated enemy the instant it appears on the Material Plane, distracting it long enough for the binder to seize control. This is an opposed Will check, granting a +1 bonus to the caster for each large fire in the room; success grants a +4 bonus on the Charisma check.
+**[[rangoric-srd/monsters/elementals/Water Elemental|Water Elemental]]**: When summoning a water elemental, remove sources of water from the room and prepare a bonfire. A ring of fire around the _magic circle_ exposes the elemental to its hated enemy the instant it appears on the Material Plane, distracting it long enough for the binder to seize control. This is an opposed Will check, granting a +1 bonus to the caster for each large fire in the room; success grants a +4 bonus on the Charisma check.
 
 ### Inevitables
 
 Originally created by the [[rangoric-srd/monsters/Axiomite|axiomites]] as an unflinching army to fight the chaotic proteans, inevitables used to fight an explicit war against those creatures but now wage an indirect war against them. Most inevitables fight this war by tracking down and rectifying egregious violations of law. Incorruptible in its mission, when bound by a being who wishes to subvert it, an inevitable often waits the binder out. Inevitables simply refuse to deal with binders who wish to use them against their designed and decreed purpose.
 
-**[[rangoric-srd/monsters/inevitable/Arbiter|Arbiter]]**: Arbiters are the scouts and spies of the inevitables, and are typically bound to serve as familiars to lawful spellcasters, especially those who fight the taint of protean chaos.
+**[[rangoric-srd/monsters/inevitables/Arbiter|Arbiter]]**: Arbiters are the scouts and spies of the inevitables, and are typically bound to serve as familiars to lawful spellcasters, especially those who fight the taint of protean chaos.
 
-**[[rangoric-srd/monsters/inevitable/Kolyarut|Kolyarut]]**: As the enforcers of bargains, kolyaruts can be bound into service to enforce a bargain. The binder needs to beware, though—if she fails to keep a bargain with a kolyarut, she can quickly become the subject of its punishment. Kolyaruts never bargain with known breakers of such agreements.
+**[[rangoric-srd/monsters/inevitables/Kolyarut|Kolyarut]]**: As the enforcers of bargains, kolyaruts can be bound into service to enforce a bargain. The binder needs to beware, though—if she fails to keep a bargain with a kolyarut, she can quickly become the subject of its punishment. Kolyaruts never bargain with known breakers of such agreements.
 
-**[[rangoric-srd/monsters/inevitable/Lhaksharut|Lhaksharut]]**: Concerned with keeping the various planes separate, lhaksharuts often make deals with mortal spellcasters working in concert with those goals. They are always willing to destroy links between planes, but sometimes agree to let a gateway stay open and serve as its protector as long as such a mission serves its primary function in some way. They never work against the separation of the planes.
+**[[rangoric-srd/monsters/inevitables/Lhaksharut|Lhaksharut]]**: Concerned with keeping the various planes separate, lhaksharuts often make deals with mortal spellcasters working in concert with those goals. They are always willing to destroy links between planes, but sometimes agree to let a gateway stay open and serve as its protector as long as such a mission serves its primary function in some way. They never work against the separation of the planes.
 
-**[[rangoric-srd/monsters/inevitable/Marut|Marut]]**: Maruts hunt those who artificially extend their lives though powerful magic. They bargain with binders who call them for the express purpose of hunting down such a creature. All other bindings are stubbornly ignored, even under duress.
+**[[rangoric-srd/monsters/inevitables/Marut|Marut]]**: Maruts hunt those who artificially extend their lives though powerful magic. They bargain with binders who call them for the express purpose of hunting down such a creature. All other bindings are stubbornly ignored, even under duress.
 
-**[[rangoric-srd/monsters/inevitable/Zelekhut|Zelekhut]]**: Zelekhuts often answer the call of binders who wish to use them to search out and even execute those who seek to evade justice.
+**[[rangoric-srd/monsters/inevitables/Zelekhut|Zelekhut]]**: Zelekhuts often answer the call of binders who wish to use them to search out and even execute those who seek to evade justice.
 
 ### Proteans
 

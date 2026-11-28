@@ -58,7 +58,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: —
 - **Level Adjustment**: —
 
-The broken soul above is a broken soul [[rangoric-srd/monsters/azata/Lillend|lillend]].
+The broken soul above is a broken soul [[rangoric-srd/monsters/azatas/Lillend|lillend]].
 
 A broken soul is torment and pain made manifest. Tortured to the extremes of both physical and mental endurance, and then taken beyond those barriers, a broken soul gains extraordinary reserves of fortitude and resilience as well as the ability to inflict a measure of its own terrible suffering on others.
 

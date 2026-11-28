@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/affliction]
 
 # Purple Pox
 
-A disease; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is spread by the spores of the [[rangoric-srd/monsters/fungus/Myceloid|myceloid]].
+A disease; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is spread by the spores of the [[rangoric-srd/monsters/fungi/Myceloid|myceloid]].
 
 - **Type**: disease, inhaled or injury
 - **Attack**: +5 vs Fortitude

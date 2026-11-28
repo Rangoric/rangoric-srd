@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/affliction]
 
 # Guardian Naga Venom
 
-A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the [[rangoric-srd/monsters/naga/Guardian Naga|guardian naga]].
+A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the [[rangoric-srd/monsters/nagas/Guardian Naga|guardian naga]].
 
 - **Type**: poison, injury or contact
 - **Attack**: +11 vs Fortitude

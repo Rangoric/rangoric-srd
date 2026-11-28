@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/affliction]
 
 # Ghost Scorpion Venom
 
-A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the [[rangoric-srd/monsters/scorpion/Ghost Scorpion|ghost scorpion]]'s sting.
+A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the [[rangoric-srd/monsters/scorpions/Ghost Scorpion|ghost scorpion]]'s sting.
 
 - **Type**: poison, injury
 - **Attack**: +3 vs Fortitude

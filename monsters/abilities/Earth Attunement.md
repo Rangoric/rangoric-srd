@@ -12,4 +12,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “earth attunement”, on the Special Qualities line.
 
-A cliff giant has tremorsense 30 feet when standing on unworked stone or natural earth. Nature is a class skill for cliff giants. The [[rangoric-srd/monsters/giant/Cliff Giant|cliff giant]] has it.
+A cliff giant has tremorsense 30 feet when standing on unworked stone or natural earth. Nature is a class skill for cliff giants. The [[rangoric-srd/monsters/giants/Cliff Giant|cliff giant]] has it.

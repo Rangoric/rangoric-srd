@@ -24,7 +24,7 @@ These forms of possession carry great risk for the caster. She has no way to sur
 
 _Possession_ follows rules like those of _magic jar_ and _marionette possession_, with a few key differences. It doesn’t displace the host’s soul when the possessor seizes control of a creature’s body. And the caster doesn’t die instantly if her body is out of the spell’s range when she is ejected: the range of _possession_ is only how far the caster can be from her intended target when she casts it. Once ejected, the caster’s soul snaps back to her body from any distance, as long as it is on the same plane.
 
-**Incorporeal Possession**: [[rangoric-srd/monsters/ghost/Ghost|Ghosts]], shadow demons and similar creatures don’t have physical bodies; they are disembodied souls. They use the rules below for how their mental characteristics interact with their hosts’ physical forms. Such a creature merges with the host’s body and is unharmed when ejected. Creatures that use _magic jar_ can often use _possession_ instead.
+**Incorporeal Possession**: [[rangoric-srd/monsters/ghosts/Ghost|Ghosts]], shadow demons and similar creatures don’t have physical bodies; they are disembodied souls. They use the rules below for how their mental characteristics interact with their hosts’ physical forms. Such a creature merges with the host’s body and is unharmed when ejected. Creatures that use _magic jar_ can often use _possession_ instead.
 
 ## Mental Abilities
 

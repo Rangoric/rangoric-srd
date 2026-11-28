@@ -11,6 +11,6 @@ tags: [rangoric, rangoric/gear]
 
 # Gorthek Saddle
 
-This unusual seat is designed so that an [[rangoric-srd/monsters/orc/Orc|orc]] handler can sit astride a [[rangoric-srd/monsters/Gorthek|gorthek]] mount. Large leather straps loop around the beast's chest and neck to hold the seat in place. The saddle includes straps that drape over the orc's shoulders to help her stay mounted during violent collisions.
+This unusual seat is designed so that an [[rangoric-srd/monsters/orcs/Orc|orc]] handler can sit astride a [[rangoric-srd/monsters/Gorthek|gorthek]] mount. Large leather straps loop around the beast's chest and neck to hold the seat in place. The saddle includes straps that drape over the orc's shoulders to help her stay mounted during violent collisions.
 
 Price 50 gp; Weight 75 lb.

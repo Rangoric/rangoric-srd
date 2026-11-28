@@ -25,10 +25,10 @@ This spell functions like [[rangoric-srd/spells/Summon Nature’s Ally I|summon 
 
 When you use a summoning spell to summon an air, chaotic, earth, evil, fire, good, lawful, or water creature, it is a spell of that type.
 
-| 8th Level                                                               |
-| ----------------------------------------------------------------------- |
-| [[rangoric-srd/monsters/dire-animal/Dire Shark\|Dire shark (1)]]        |
-| [[rangoric-srd/monsters/Roc\|Roc]]                                      |
-| [[rangoric-srd/monsters/salamander/Salamander\|Salamander, noble (NE)]] |
-| [[rangoric-srd/monsters/tojanida/Tojanida\|Tojanida, elder]]            |
-| 1 _May be summoned only into an aquatic or watery environment._         |
+| 8th Level                                                                |
+| ------------------------------------------------------------------------ |
+| [[rangoric-srd/monsters/dire-animals/Dire Shark\|Dire shark (1)]]        |
+| [[rangoric-srd/monsters/Roc\|Roc]]                                       |
+| [[rangoric-srd/monsters/salamanders/Salamander\|Salamander, noble (NE)]] |
+| [[rangoric-srd/monsters/tojanidas/Tojanida\|Tojanida, elder]]            |
+| 1 _May be summoned only into an aquatic or watery environment._          |

@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/affliction]
 
 # Fungal Rot
 
-A disease; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the disease of the [[rangoric-srd/monsters/ooze/Slime Mold|slime mold]]'s slam.
+A disease; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the disease of the [[rangoric-srd/monsters/oozes/Slime Mold|slime mold]]'s slam.
 
 - **Type**: disease, contact
 - **Attack**: +6 vs Fortitude

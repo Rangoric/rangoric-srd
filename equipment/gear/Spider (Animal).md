@@ -13,6 +13,6 @@ tags: [rangoric, rangoric/gear]
 
 These Tiny spiders have red bodies and black legs. They are hunting spiders, so they do not cast webs, though they are poisonous.
 
-The animal is described in [[rangoric-srd/monsters/monstrous-spider/Monstrous Spider, Tiny|Monstrous Spider, Tiny]].
+The animal is described in [[rangoric-srd/monsters/monstrous-spiders/Monstrous Spider, Tiny|Monstrous Spider, Tiny]].
 
 Price 25 gp; Weight 8 oz.

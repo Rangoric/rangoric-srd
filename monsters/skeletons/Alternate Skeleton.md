@@ -1,0 +1,120 @@
+---
+srd-type: "monster"
+section: "Monsters"
+group: "[[rangoric-srd/monsters/skeletons/Skeleton|Skeleton]]"
+status: draft
+pi-review: 2026-11-23
+tags: [rangoric, rangoric/monster]
+---
+
+# Alternate Skeleton
+
+Skeletons are the animated bones of the dead, brought to unlife through foul magic. While most skeletons are mindless automatons, they still possess an evil cunning imparted to them by their animating force—a cunning that allows them to wield weapons and wear armor.
+
+This is the second version of the skeleton template; the first is [[rangoric-srd/monsters/skeletons/Skeleton|Skeleton]]. Its sample is the [[rangoric-srd/monsters/skeletons/Human Skeleton|human skeleton]].
+
+### Creating a Skeleton
+
+“Skeleton” is an acquired template that can be added to any corporeal creature (other than an undead) that has a skeletal system (referred to hereafter as the base creature).
+
+**Challenge Rating**: Depends on Hit Dice, as follows:
+
+| HD    | CR  |
+| ----- | --- |
+| 1/2   | 1/6 |
+| 1     | 1/3 |
+| 2–3   | 1   |
+| 4–5   | 2   |
+| 6–7   | 3   |
+| 8–9   | 4   |
+| 10–11 | 5   |
+| 12–14 | 6   |
+| 15–17 | 7   |
+| 18–20 | 8   |
+
+**Alignment**: Always neutral evil.
+
+**Type**: The creature’s type changes to [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead]]. It retains any subtype except for alignment subtypes (such as good) and subtypes that indicate kind (such as giant). It does not gain the augmented subtype. It uses all the base creature’s statistics and special abilities except as noted here.
+
+**Armor Class**: Natural armor bonus changes as follows:
+
+| Skeleton Size   | Natural Armor Bonus |
+| --------------- | ------------------- |
+| Tiny or smaller | +0                  |
+| Small           | +1                  |
+| Medium or Large | +2                  |
+| Huge            | +3                  |
+| Gargantuan      | +6                  |
+| Colossal        | +10                 |
+
+**Hit Dice**: A skeleton drops any HD gained from class levels and changes racial HD to d8s. Creatures without racial HD are treated as if they have 1 racial HD. If the creature has more than 20 Hit Dice, it can’t be made into a skeleton by the _[[rangoric-srd/spells/Animate Dead|animate dead]]_ spell. A skeleton uses its Cha modifier (instead of its Con modifier) to determine bonus hit points.
+
+**Defenses**: Base save bonuses are Fort 11/3 HD, Ref 11/3 HD, and Will 11/2 HD + 2.
+
+**Defensive Abilities**: A skeleton loses the base creature’s defensive abilities and gains [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 5/bludgeoning and immunity to cold. It also gains all of the standard immunities and traits possessed by undead creatures ([[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]).
+
+**Speed**: A winged skeleton can’t use its wings to fly. If the base creature flew magically, so can the skeleton. All other movement types are retained.
+
+**Attacks**: A skeleton retains all the natural weapons, manufactured weapon attacks, and weapon proficiencies of the base creature, except for attacks that can’t work without flesh. A creature with hands gains one claw attack per hand; the skeleton can strike with each of its claw attacks at its full attack bonus. A claw attack deals damage depending on the skeleton’s size (see [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^natural-weapons|Natural Attacks by Size]]). If the base creature already had claw attacks with its hands, use the skeleton claw damage only if it’s better.
+
+**Special Attacks**: A skeleton retains none of the base creature’s special attacks.
+
+**Abilities**: A skeleton’s Dexterity increases by +2. It has no Constitution or Intelligence score, and its Wisdom and Charisma scores change to 10.
+
+**BAB**: A skeleton’s base attack bonus is equal to 3/4 of its Hit Dice.
+
+**Skills**: A skeleton loses all skill ranks possessed by the base creature and gains none of its own.
+
+**Feats**: A skeleton loses all feats possessed by the base creature and gains [[rangoric-srd/feats/Improved Initiative|Improved Initiative]] as a bonus feat.
+
+**Special Qualities**: A skeleton loses most special qualities of the base creature. It retains any extraordinary special qualities that improve its melee or ranged attacks.
+
+**Environment**: Any, usually the same as base creature.
+
+**Organization**: Any.
+
+**Treasure**: Generally none, although sometimes a skeleton’s creator arms it with magical armor or weapons.
+
+### Variant Skeletons
+
+Numerous variant skeletons exist, such as those whose bones burn with an unending fire and those who drip with gore and reassemble themselves over time. Both of these variant skeletons can be created using _[[rangoric-srd/spells/Animate Dead|animate dead]]_, but they count as twice their normal number of Hit Dice per casting. Once controlled, they count normally against the controller’s limit.
+
+Perhaps the most dangerous variant skeleton, though, is the [[rangoric-srd/monsters/skeletons/Skeletal Champion|skeletal champion]]. This skeleton retains its intellect, and often any class levels it possessed in life. A skeletal champion cannot be created with _[[rangoric-srd/spells/Animate Dead|animate dead]]_—these potent undead only arise under rare conditions similar to those that cause the manifestation of ghosts or via rare and highly evil rituals.
+
+Each of the following skeleton types modifies the base skeleton in a few key ways. Except as noted, these variations can be stacked with one another—it’s possible to have a bloody burning skeletal champion.
+
+#### Bloody Skeleton
+
+A bloody skeleton is coated in a slick layer of blood and gore infused with negative energy. This gore allows the skeleton to reform and heal itself. In addition to the changes for the skeleton template, make the following adjustments to the base creature.
+
+**Challenge Rating**: As a normal skeleton + 1.
+
+**Fast Healing**: A bloody skeleton has [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] equal to 1 per 2 Hit Dice it possesses (minimum 1).
+
+**Defenses**: A bloody skeleton gains [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4.
+
+**Abilities**: A bloody skeleton’s Charisma is 14.
+
+**Special Qualities**: A bloody skeleton gains the deathless special quality.
+
+**Deathless (Su)**: A bloody skeleton is destroyed when reduced to 0 hit points, but it returns to unlife 1 hour later at 1 hit point, allowing its fast healing thereafter to resume healing it. A bloody skeleton can be permanently destroyed if it is destroyed by positive energy, if it is reduced to 0 hit points in the area of a _[[rangoric-srd/spells/Bless|bless]]_ or _[[rangoric-srd/spells/Hallow|hallow]]_ spell, or if its remains are sprinkled with a vial of holy water.
+
+#### Burning Skeleton
+
+A burning skeleton is surrounded by an aura of flames that deals fire damage to those it strikes. In addition to the changes for the skeleton template, make the following adjustments to the base creature.
+
+**Challenge Rating**: As a normal skeleton + 1.
+
+**Aura**: Burning skeletons possess a fiery aura.
+
+**Fiery Aura (Ex)**: Creatures adjacent to a burning skeleton take 1d6 points of fire damage at the start of their turn. Anyone striking a burning skeleton with an unarmed strike or natural attack takes 1d6 points of fire damage.
+
+**Defensive Abilities**: Burning skeletons lose their immunity to cold but gain immunity to fire. A burning skeleton gains vulnerability to cold damage.
+
+**Melee Attacks**: A burning skeleton’s melee attacks (including both those made with a natural weapon and those made with a manufactured weapon) deal an additional 1d6 points of fire damage.
+
+**Abilities**: A burning skeleton’s Charisma is 12.
+
+**Special Qualities**: A burning skeleton gains fiery death.
+
+**Fiery Death (Su)**: A burning skeleton explodes into a burst of flame when it dies. Anyone adjacent to the skeleton when it is destroyed takes 1d6 points of fire damage per 2 Hit Dice the skeleton possessed (minimum 1d6). The burst attacks Reflex (attack bonus 1/2 the skeleton’s Hit Dice + the skeleton’s Cha bonus), and a miss halves this damage.

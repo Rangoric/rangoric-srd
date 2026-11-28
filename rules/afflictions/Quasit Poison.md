@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/affliction]
 
 # Quasit Poison
 
-A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the [[rangoric-srd/monsters/demon/Quasit|quasit]]'s claws; its attack bonus includes the quasit's +2 racial bonus.
+A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the [[rangoric-srd/monsters/demons/Quasit|quasit]]'s claws; its attack bonus includes the quasit's +2 racial bonus.
 
 - **Type**: poison, injury
 - **Attack**: +3 vs Fortitude

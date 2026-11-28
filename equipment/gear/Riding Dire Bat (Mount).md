@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/gear]
 
 Considered to be the fastest nonmagical transport in cavernous underground realms, dire bats are domesticated in captivity to serve as riding animals. Stables that accommodate these massive creatures are only commonly found in cities built in larger underground caverns, owing to the greater space required for training and exercise, though the outriders of some subterranean races fly them almost to the surface. These creatures require [[rangoric-srd/equipment/gear/Saddle, Exotic Riding|exotic saddles]] to ride.
 
-The animal is described in [[rangoric-srd/monsters/dire-animal/Dire Bat|Dire Bat]].
+The animal is described in [[rangoric-srd/monsters/dire-animals/Dire Bat|Dire Bat]].
 
 Price 300 gp; Weight 400 lb.

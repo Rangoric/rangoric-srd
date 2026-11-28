@@ -40,7 +40,7 @@ _Cloying Gloom Blast_: Three times per day, the shadow lord can unleash a 30-foo
 
 **Spell-Like Abilities**: A shadow lord gains the following spell-like abilities, with a caster level equal to its Hit Dice: at will—_[[rangoric-srd/spells/Ray of Sickening|ray of sickening]]_; 3/day—_[[rangoric-srd/spells/Shadow Conjuration|shadow conjuration]]_, _[[rangoric-srd/spells/Shadow Step|shadow step]]_; 1/day—_[[rangoric-srd/spells/Shadow Conjuration, Greater|greater shadow conjuration]]_ (if the shadow lord has 11 or more Hit Dice), _[[rangoric-srd/spells/Shadow Walk|shadow walk]]_.
 
-A creature created with _[[rangoric-srd/spells/Shadow Conjuration|shadow conjuration]]_ or _greater shadow conjuration_ that would normally have a [[rangoric-srd/monsters/celestial-creature/Celestial Creature|celestial]] or [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature|fiendish]] template (such as a bear) instead gains the [[rangoric-srd/monsters/Shadow Creature|shadow creature]] template.
+A creature created with _[[rangoric-srd/spells/Shadow Conjuration|shadow conjuration]]_ or _greater shadow conjuration_ that would normally have a [[rangoric-srd/monsters/celestial-creatures/Celestial Creature|celestial]] or [[rangoric-srd/monsters/fiendish-creatures/Fiendish Creature|fiendish]] template (such as a bear) instead gains the [[rangoric-srd/monsters/Shadow Creature|shadow creature]] template.
 
 **Special Qualities (Su)**: A shadow lord gains the following special quality.
 

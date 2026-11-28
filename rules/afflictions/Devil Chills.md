@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/affliction]
 
 # Devil Chills
 
-A disease; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. [[rangoric-srd/monsters/devil/Bearded Devil (Barbazu)|Barbazu]] and [[rangoric-srd/monsters/devil/Pit Fiend|pit fiends]] spread it.
+A disease; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. [[rangoric-srd/monsters/devils/Bearded Devil (Barbazu)|Barbazu]] and [[rangoric-srd/monsters/devils/Pit Fiend|pit fiends]] spread it.
 
 - **Type**: disease, injury
 - **Attack**: +4 vs Fortitude

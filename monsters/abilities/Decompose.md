@@ -12,4 +12,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “decompose”, on the Special Qualities line.
 
-A slain globster decays into a mass of goo in the span of 24 hours. However, the corpse retains the creature's stench aura for 1d10 days after its death. The [[rangoric-srd/monsters/ooze/Globster|globster]] has it.
+A slain globster decays into a mass of goo in the span of 24 hours. However, the corpse retains the creature's stench aura for 1d10 days after its death. The [[rangoric-srd/monsters/oozes/Globster|globster]] has it.

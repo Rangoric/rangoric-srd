@@ -14,4 +14,4 @@ _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special
 
 As a swift action, the creature chooses one evil target it can see to smite, as the smite evil of a [[rangoric-srd/classes/Paladin|paladin]] of the same level as its Hit Dice: it adds its Charisma bonus (if any) on attack rolls and its Hit Dice on damage rolls against that target. The smite persists until the target is dead or the creature rests.
 
-The half-celestial template ([[rangoric-srd/monsters/half-celestial/Alternate Half-Celestial|Alternate Half-Celestial]]) and the celestial creature simple template ([[rangoric-srd/monsters/celestial-creature/Alternate Celestial Creature|Alternate Celestial Creature]]) grant it once per day.
+The half-celestial template ([[rangoric-srd/monsters/half-celestials/Alternate Half-Celestial|Alternate Half-Celestial]]) and the celestial creature simple template ([[rangoric-srd/monsters/celestial-creatures/Alternate Celestial Creature|Alternate Celestial Creature]]) grant it once per day.

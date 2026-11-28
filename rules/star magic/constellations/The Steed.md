@@ -36,6 +36,6 @@ _[[rangoric-srd/rules/star magic/Star Magic|Constellation]]_
 - **Defense**: None
 - **Spell Resistance**: No
 
-You call up one steed per 2 caster levels. Each is a [[rangoric-srd/monsters/horse/Warhorse, Heavy|heavy warhorse]] with 10 Hit Dice and the [[rangoric-srd/monsters/celestial-creature/Celestial Creature|celestial]] template, fully saddled and harnessed, and carries one rider. Together they make one journey to a single destination you choose when they set out, covering a mile each minute, and then vanish. If every rider is good, the steeds fight beside them and help in other ways if needed.
+You call up one steed per 2 caster levels. Each is a [[rangoric-srd/monsters/horses/Warhorse, Heavy|heavy warhorse]] with 10 Hit Dice and the [[rangoric-srd/monsters/celestial-creatures/Celestial Creature|celestial]] template, fully saddled and harnessed, and carries one rider. Together they make one journey to a single destination you choose when they set out, covering a mile each minute, and then vanish. If every rider is good, the steeds fight beside them and help in other ways if needed.
 
 **Higher call levels**: The steeds stay 1 hour after the journey for each call level above 7th.

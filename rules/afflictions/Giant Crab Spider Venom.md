@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/affliction]
 
 # Giant Crab Spider Venom
 
-A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the [[rangoric-srd/monsters/spider/Giant Crab Spider|giant crab spider]]'s bite.
+A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the [[rangoric-srd/monsters/spiders/Giant Crab Spider|giant crab spider]]'s bite.
 
 - **Type**: poison, injury
 - **Attack**: +4 vs Fortitude

@@ -12,4 +12,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “siphon”, on the Special Attacks line.
 
-Any creature bitten by a coloxus is attacked at +13 vs Fortitude, and on a hit takes 1d4 points of Charisma damage. A coloxus heals itself of 5 points of damage for every point of Charisma damage it deals. The attack bonus is Constitution-based. The [[rangoric-srd/monsters/demon/Coloxus|coloxus]] has it.
+Any creature bitten by a coloxus is attacked at +13 vs Fortitude, and on a hit takes 1d4 points of Charisma damage. A coloxus heals itself of 5 points of damage for every point of Charisma damage it deals. The attack bonus is Constitution-based. The [[rangoric-srd/monsters/demons/Coloxus|coloxus]] has it.

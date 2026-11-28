@@ -12,4 +12,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “lycanthropic empathy (bears and dire bears)”, on the Special Qualities line.
 
-In any form, natural [[rangoric-srd/monsters/lycanthrope/Lycanthrope|lycanthropes]] can communicate and empathize with animals related to their animal form. They can use [[rangoric-srd/skills/Persuasion|Persuasion]] to alter such an animal's attitude, and when so doing gain a +4 racial bonus on the check. Afflicted lycanthropes only gain this ability in animal or hybrid form.
+In any form, natural [[rangoric-srd/monsters/lycanthropes/Lycanthrope|lycanthropes]] can communicate and empathize with animals related to their animal form. They can use [[rangoric-srd/skills/Persuasion|Persuasion]] to alter such an animal's attitude, and when so doing gain a +4 racial bonus on the check. Afflicted lycanthropes only gain this ability in animal or hybrid form.

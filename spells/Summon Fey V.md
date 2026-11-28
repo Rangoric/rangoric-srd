@@ -44,11 +44,11 @@ As _[[rangoric-srd/spells/Summon Fey I|summon fey I]]_, except you can summon on
 
 **Table: Summon Fey (5th Level)** ^table-summon-fey-5
 
-| 5th Level                                                                                                                | Alignment |
-| ------------------------------------------------------------------------------------------------------------------------ | --------- |
-| [[rangoric-srd/monsters/Fey-born Creature\|Fey-born]] [[rangoric-srd/monsters/dire-animal/Dire Wolf\|dire wolf]]         | CG        |
-| [[rangoric-srd/monsters/Fey-born Creature\|Fey-born]] [[rangoric-srd/monsters/formian/Formian Warrior\|formian warrior]] | CG        |
-| [[rangoric-srd/monsters/Half-Fey Creature\|Half-fey]] [[rangoric-srd/monsters/Ankheg\|ankheg]]                           | CN        |
-| [[rangoric-srd/monsters/Half-Fey Creature\|Half-fey]] [[rangoric-srd/monsters/dire-animal/Dire Bat\|dire bat]]           | CN        |
-| [[rangoric-srd/monsters/Shadow-born Creature\|Shadow-born]] [[rangoric-srd/monsters/Allip\|allip]]                       | CE        |
-| [[rangoric-srd/monsters/Shadow-born Creature\|Shadow-born]] [[rangoric-srd/monsters/Griffon\|griffon]]                   | CE        |
+| 5th Level                                                                                                                 | Alignment |
+| ------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [[rangoric-srd/monsters/Fey-born Creature\|Fey-born]] [[rangoric-srd/monsters/dire-animals/Dire Wolf\|dire wolf]]         | CG        |
+| [[rangoric-srd/monsters/Fey-born Creature\|Fey-born]] [[rangoric-srd/monsters/formians/Formian Warrior\|formian warrior]] | CG        |
+| [[rangoric-srd/monsters/Half-Fey Creature\|Half-fey]] [[rangoric-srd/monsters/Ankheg\|ankheg]]                            | CN        |
+| [[rangoric-srd/monsters/Half-Fey Creature\|Half-fey]] [[rangoric-srd/monsters/dire-animals/Dire Bat\|dire bat]]           | CN        |
+| [[rangoric-srd/monsters/Shadow-born Creature\|Shadow-born]] [[rangoric-srd/monsters/Allip\|allip]]                        | CE        |
+| [[rangoric-srd/monsters/Shadow-born Creature\|Shadow-born]] [[rangoric-srd/monsters/Griffon\|griffon]]                    | CE        |

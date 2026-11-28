@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/affliction]
 
 # Snake Swarm Venom
 
-A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the many bites of the [[rangoric-srd/monsters/swarm/Venomous Snake Swarm|venomous snake swarm]].
+A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the many bites of the [[rangoric-srd/monsters/swarms/Venomous Snake Swarm|venomous snake swarm]].
 
 - **Type**: poison, injury
 - **Attack**: +5 vs Fortitude

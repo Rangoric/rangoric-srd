@@ -20,6 +20,6 @@ This staff is constructed from thousands of carefully prepared spiderwebs packed
 
 - _[[rangoric-srd/spells/Spider Climb|Spider climb]]_ (1 charge)
 - _[[rangoric-srd/spells/Web|Web]]_ (1 charge)
-- Summon spider (as _[[rangoric-srd/spells/Summon Monster III|summon monster III]]_, but only summons 1d3 [[rangoric-srd/monsters/monstrous-spider/Monstrous Spider, Medium|giant spiders]]; 2 charges)
+- Summon spider (as _[[rangoric-srd/spells/Summon Monster III|summon monster III]]_, but only summons 1d3 [[rangoric-srd/monsters/monstrous-spiders/Monstrous Spider, Medium|giant spiders]]; 2 charges)
 
 Moderate conjuration and transmutation; CL 8th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], [[rangoric-srd/feats/Craft Staff|Craft Staff]], _[[rangoric-srd/spells/Spider Climb|spider climb]]_, _[[rangoric-srd/spells/Summon Monster III|summon monster III]]_, _[[rangoric-srd/spells/Web|web]]_; Price 30,200 gp; Cost 15,400 gp; Weight 5 lbs.

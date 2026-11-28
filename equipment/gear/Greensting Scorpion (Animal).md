@@ -13,6 +13,6 @@ tags: [rangoric, rangoric/gear]
 
 Typically found in forested areas, these Tiny scorpions sport pincers too small to be dangerous to anything larger than an insect, but they still possess a poisonous stinger. Sometimes they are kept as pets or serve as familiars. Greensting scorpions employed as familiars have an Intelligence score and lose the mindless trait.
 
-The animal is described in [[rangoric-srd/monsters/scorpion/Greensting Scorpion|Greensting Scorpion]].
+The animal is described in [[rangoric-srd/monsters/scorpions/Greensting Scorpion|Greensting Scorpion]].
 
 Price 15 gp; Weight 9 oz.

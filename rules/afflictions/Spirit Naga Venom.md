@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/affliction]
 
 # Spirit Naga Venom
 
-A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the [[rangoric-srd/monsters/naga/Spirit Naga|spirit naga]].
+A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the [[rangoric-srd/monsters/nagas/Spirit Naga|spirit naga]].
 
 - **Type**: poison, injury
 - **Attack**: +10 vs Fortitude

@@ -21,4 +21,4 @@ Each advodaza chooses one cleric domain and gains the domain spells (5th level a
 - **[[rangoric-srd/class-options/domains/War Domain|War Domain]]**: _[[rangoric-srd/spells/Divine Power|divine power]]_, _[[rangoric-srd/spells/Flame Strike|flame strike]]_, _[[rangoric-srd/spells/Magic Vestment|magic vestment]]_, _[[rangoric-srd/spells/Magic Weapon|magic weapon]]_, _[[rangoric-srd/spells/Spiritual Weapon|spiritual weapon]]_
 - **[[rangoric-srd/class-options/domains/Weather Domain|Weather Domain]]**: _[[rangoric-srd/spells/Call Lightning|call lightning]]_, _[[rangoric-srd/spells/Fog Cloud|fog cloud]]_, _[[rangoric-srd/spells/Ice Storm|ice storm]]_, _[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]_, _[[rangoric-srd/spells/Sleet Storm|sleet storm]]_
 
-The [[rangoric-srd/monsters/devil/Nemesis Devil|nemesis devil]] has it.
+The [[rangoric-srd/monsters/devils/Nemesis Devil|nemesis devil]] has it.

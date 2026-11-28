@@ -12,4 +12,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “speed surge”, on the Special Qualities line.
 
-Three times per day as a swift action, a spire drake can draw on its draconic reserves for a boost of strength and speed, allowing it to take an additional move action in that round. The [[rangoric-srd/monsters/drake/Spire Drake|spire drake]] has it.
+Three times per day as a swift action, a spire drake can draw on its draconic reserves for a boost of strength and speed, allowing it to take an additional move action in that round. The [[rangoric-srd/monsters/drakes/Spire Drake|spire drake]] has it.

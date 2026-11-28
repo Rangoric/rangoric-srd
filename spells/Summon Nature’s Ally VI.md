@@ -25,17 +25,17 @@ This spell functions like [[rangoric-srd/spells/Summon Nature’s Ally I|summon 
 
 When you use a summoning spell to summon an air, chaotic, earth, evil, fire, good, lawful, or water creature, it is a spell of that type.
 
-| 6th Level                                                                       |
-| ------------------------------------------------------------------------------- |
-| [[rangoric-srd/monsters/dire-animal/Dire Bear\|Dire bear]]                      |
-| [[rangoric-srd/monsters/elemental/Elemental\|Elemental, Huge (any)]]            |
-| [[rangoric-srd/monsters/Elephant\|Elephant (animal)]]                           |
-| [[rangoric-srd/monsters/Girallon\|Girallon]]                                    |
-| [[rangoric-srd/monsters/dinosaur/Megaraptor\|Megaraptor (dinosaur)]]            |
-| [[rangoric-srd/monsters/Octopus, Giant\|Octopus, giant (1) (animal)]]           |
-| [[rangoric-srd/monsters/sprite/Pixie\|Pixie* (sprite) (NG; no special arrows)]] |
-| [[rangoric-srd/monsters/salamander/Salamander\|Salamander, average (NE)]]       |
-| [[rangoric-srd/monsters/whale/Baleen Whale\|Whale, baleen (1)]]                 |
-| [[rangoric-srd/monsters/xorn/Xorn\|Xorn, average]]                              |
-| \* _Can’t cast irresistible dance_                                              |
-| 1 _May be summoned only into an aquatic or watery environment._                 |
+| 6th Level                                                                        |
+| -------------------------------------------------------------------------------- |
+| [[rangoric-srd/monsters/dire-animals/Dire Bear\|Dire bear]]                      |
+| [[rangoric-srd/monsters/elementals/Elemental\|Elemental, Huge (any)]]            |
+| [[rangoric-srd/monsters/Elephant\|Elephant (animal)]]                            |
+| [[rangoric-srd/monsters/Girallon\|Girallon]]                                     |
+| [[rangoric-srd/monsters/dinosaurs/Megaraptor\|Megaraptor (dinosaur)]]            |
+| [[rangoric-srd/monsters/Octopus, Giant\|Octopus, giant (1) (animal)]]            |
+| [[rangoric-srd/monsters/sprites/Pixie\|Pixie* (sprite) (NG; no special arrows)]] |
+| [[rangoric-srd/monsters/salamanders/Salamander\|Salamander, average (NE)]]       |
+| [[rangoric-srd/monsters/whales/Baleen Whale\|Whale, baleen (1)]]                 |
+| [[rangoric-srd/monsters/xorns/Xorn\|Xorn, average]]                              |
+| \* _Can’t cast irresistible dance_                                               |
+| 1 _May be summoned only into an aquatic or watery environment._                  |

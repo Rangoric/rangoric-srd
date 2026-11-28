@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/affliction]
 
 # Titan Centipede Venom
 
-A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the [[rangoric-srd/monsters/centipede/Titan Centipede|titan centipede]]'s bite.
+A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the [[rangoric-srd/monsters/centipedes/Titan Centipede|titan centipede]]'s bite.
 
 - **Type**: poison, injury
 - **Attack**: +14 vs Fortitude

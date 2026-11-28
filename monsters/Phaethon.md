@@ -48,7 +48,7 @@ Base Attack: +62; CMB: +90 (+94 grapple); CMD: 107   
 Attack: pseudopod slam +85 (4d8+24 plus fire damage) melee     
 Full Attack: 8 pseudopod slams +85 (4d8+24 plus fire damage) melee      
 Space/Reach: 20 ft./10 ft.      
-Special Attacks: Fiery touch, fiery overrun, spell-like abilities, [[rangoric-srd/monsters/abilities/Grab|improved grab]], [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]], summon [[rangoric-srd/monsters/elemental/Fire Elemental|elder fire elemental]]      
+Special Attacks: Fiery touch, fiery overrun, spell-like abilities, [[rangoric-srd/monsters/abilities/Grab|improved grab]], [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]], summon [[rangoric-srd/monsters/elementals/Fire Elemental|elder fire elemental]]      
 Special Qualities: Abomination traits, immunity to fire, [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to cold]], oozelike immunities, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 25 (lawful weapons, cold-forged weapons), [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 25, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 46, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 15/epic lawful and epic      
 Defenses: Fort 58, Ref 52, Will 53      
 Abilities: Str 58, Dex 25, Con 36, Int 8, Wis 18, Cha 39      
@@ -81,7 +81,7 @@ At will - [[rangoric-srd/spells/Fireball|fireball]], [[rangoric-srd/spells/Fire 
 
 1/day - [[rangoric-srd/spells/Scrying|scrying]]. 
 
-Summon Elder Fire Elemental (Sp): Phaethons can summon up to ten [[rangoric-srd/monsters/elemental/Fire Elemental|elder fire elementals]] per day.
+Summon Elder Fire Elemental (Sp): Phaethons can summon up to ten [[rangoric-srd/monsters/elementals/Fire Elemental|elder fire elementals]] per day.
 
 Abomination Traits: Immune to polymorphing, [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|petrification]], and other form-altering attacks; not subject to [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]], ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]], or ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]], or death from massive damage; immune to mind-affecting effects; [[rangoric-srd/monsters/abilities/Resistance|fire resistance]] 20; [[rangoric-srd/monsters/abilities/Resistance|cold resistance]] 20; [[rangoric-srd/spells/Nondetection|nondetection]]; [[rangoric-srd/spells/True Seeing|true seeing]] at will; [[rangoric-srd/monsters/abilities/Blindsight|blindsight]] 500 ft.; telepathy out to 1,000 ft.
 

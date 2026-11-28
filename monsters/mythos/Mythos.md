@@ -49,4 +49,4 @@ The Mythos creatures are alien beings from beyond the stars, from other dimensio
 - [[rangoric-srd/monsters/mythos/Child of Yog-Sothoth|Child of Yog-Sothoth]]
 - [[rangoric-srd/monsters/mythos/Colour-Blighted Creature|Colour-Blighted Creature]]
 
-Elsewhere: the [[rangoric-srd/monsters/ghoul/Ghast|ghast]] (with the ghouls), [[rangoric-srd/monsters/demon/Dagon|Dagon]] (a demon lord), the [[rangoric-srd/races/Deep One Hybrid|deep one hybrid]] race, and the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^great-old-one|Great Old One]] and [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^deep-one|deep one]] subtypes.
+Elsewhere: the [[rangoric-srd/monsters/ghouls/Ghast|ghast]] (with the ghouls), [[rangoric-srd/monsters/demons/Dagon|Dagon]] (a demon lord), the [[rangoric-srd/races/Deep One Hybrid|deep one hybrid]] race, and the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^great-old-one|Great Old One]] and [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^deep-one|deep one]] subtypes.

@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, racial]
 
 You and an ally each sink a claw into your foe—then all you have to do is pull.
 
-**Prerequisites**: [[rangoric-srd/monsters/abilities/Rend|Rend]], [[rangoric-srd/monsters/troll/Troll|troll]].
+**Prerequisites**: [[rangoric-srd/monsters/abilities/Rend|Rend]], [[rangoric-srd/monsters/trolls/Troll|troll]].
 
 **Benefit**: Whenever you and an ally who has this feat are both threatening the same creature, you must hit the target with at least one of your claw attacks to use your [[rangoric-srd/monsters/abilities/Rend|rend]] ability.
 

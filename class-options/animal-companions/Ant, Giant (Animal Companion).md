@@ -13,7 +13,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Ant, Giant
 
-_An [[rangoric-srd/class-options/animal-companions/Animal Companions|animal companion]] that a [[rangoric-srd/classes/Druid#^druid-animal-companion|druid]] can choose in place of a base creature ([[rangoric-srd/monsters/giant-ant/Giant Ant|giant ant]])._
+_An [[rangoric-srd/class-options/animal-companions/Animal Companions|animal companion]] that a [[rangoric-srd/classes/Druid#^druid-animal-companion|druid]] can choose in place of a base creature ([[rangoric-srd/monsters/giant-ants/Giant Ant|giant ant]])._
 
 - **Size**: Small
 - **Speed**: 30 ft., climb 20 ft.

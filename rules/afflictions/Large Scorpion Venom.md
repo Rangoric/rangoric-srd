@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/affliction]
 
 # Large Scorpion Venom
 
-A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is also the venom of the [[rangoric-srd/monsters/monstrous-scorpion/Monstrous Scorpion, Large|giant scorpion]]'s sting.
+A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is also the venom of the [[rangoric-srd/monsters/monstrous-scorpions/Monstrous Scorpion, Large|giant scorpion]]'s sting.
 
 - **Type**: poison, injury
 - **Attack**: +7 vs Fortitude

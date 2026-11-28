@@ -17,6 +17,6 @@ Considered to be the fastest nonmagical transport in cavernous underground realm
 
 Combat-trained riding dire bats are used by scouts and militaries for war.
 
-The animal is described in [[rangoric-srd/monsters/dire-animal/Dire Bat|Dire Bat]].
+The animal is described in [[rangoric-srd/monsters/dire-animals/Dire Bat|Dire Bat]].
 
 Price 450 gp; Weight 450 lb.

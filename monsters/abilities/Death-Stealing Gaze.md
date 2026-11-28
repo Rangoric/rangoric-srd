@@ -12,4 +12,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “death-stealing gaze”, on the Special Attacks line.
 
-1 permanent negative level, 30 ft., +17 vs Fortitude. Creatures slain by these negative levels become juju zombies under the vrolikai's control. The attack bonus is Charisma-based. The [[rangoric-srd/monsters/demon/Vrolikai|vrolikai]] has it.
+1 permanent negative level, 30 ft., +17 vs Fortitude. Creatures slain by these negative levels become juju zombies under the vrolikai's control. The attack bonus is Charisma-based. The [[rangoric-srd/monsters/demons/Vrolikai|vrolikai]] has it.
