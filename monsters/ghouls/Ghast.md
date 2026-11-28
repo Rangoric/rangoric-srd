@@ -63,7 +63,7 @@ Although these creatures look just like their lesser kin, they are far more dead
 
 ### Combat
 
-**Ghoul Fever (Su)**: [[rangoric-srd/rules/Afflictions#Disease|Disease]] - bite, +5 vs Fortitude, incubation period 1 day, damage 1d3 Con and 1d3 Dex. The attack bonus is Charisma-based.
+**[[rangoric-srd/rules/afflictions/Ghoul Fever|Ghoul Fever]] (Su)**: [[rangoric-srd/monsters/abilities/Disease|Disease]], bite—injury; _attack_ +5 vs Fortitude; _onset_ 1 day; _frequency_ 1/day; _effect_ 1d3 Con and 1d3 Dex damage; _cure_ 2 consecutive misses. The attack bonus is Charisma-based.
 
 **Paralysis (Ex)**: Those hit by a ghast’s bite or claw attack are attacked at +5 vs Fortitude, and on a hit are [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] for 1d4+1 rounds. Even elves can be affected by this paralysis. The attack bonus is Charisma-based.
 

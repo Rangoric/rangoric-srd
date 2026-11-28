@@ -54,7 +54,7 @@ tags: [rangoric, rangoric/monster]
 - **Alignment**: Usually neutral
 - **Advancement**: 97-288 HD (Colossal)
 
-Breath Weapon (Su): Cone of poisonous gas, 80 feet, as a free action every 1d4 rounds, initial damage 3d6 temporary Con, secondary damage 2d6 temporary Con, +48 vs Fortitude; a miss halves. The attack bonus is Constitution-based.
+Breath Weapon (Su): Cone of poisonous gas, 80 feet, as a free action every 1d4 rounds, 3d6 Con damage, +48 vs Fortitude; a miss halves. The attack bonus is Constitution-based.
 
 Magic Immunity (Ex): An iron colossus is immune to all magical and supernatural effects, except as follows. An electricity effect restores 1 hit point to the iron colossus for each 3 points of damage it would otherwise deal.
 

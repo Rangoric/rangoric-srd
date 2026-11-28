@@ -146,14 +146,6 @@ A creature can suffer from several insanities at once. A creature afflicted by a
 
 A healer can help a poisoned character with the [[rangoric-srd/actions/Treat Poison|Treat Poison]] action and a diseased one with the [[rangoric-srd/actions/Treat Disease|Treat Disease]] action, both [[rangoric-srd/actions/First Aid|First Aid]] actions. Spells end afflictions as their own notes say.
 
-## Initial and Secondary Damage
-
-Some poisons and diseases are still written the older way, without a frequency or cure. They work as follows.
-
-**Poisons with initial and secondary damage**: A failed save when the poison is contracted deals its initial damage. One minute later, the poison attacks again (whatever the first result), a failed save deals its secondary damage, and the poison ends. Ability damage marked with an asterisk (\*) is drain instead. Paralysis from such a poison lasts 2d6 minutes, and unconsciousness 1d3 hours, unless noted otherwise. ^initial-and-secondary-damage
-
-**Diseases with an incubation period and damage**: The incubation period is the onset, the damage is the effect, the frequency is 1/day and the cure is 2 consecutive misses, unless the disease says otherwise. ^incubation-and-damage
-
 ## Sample Afflictions
 
 Each of these has a note of its own with its full entry; the lists gather them from the [[rangoric-srd/rules/afflictions/Afflictions Index.base|Afflictions Index]]. Where the effect says “see note”, the note has more.

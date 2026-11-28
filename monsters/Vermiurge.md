@@ -70,4 +70,4 @@ Concealing Aura (Ex): Its aura of doom constantly provides a vermiurge with nine
 
 Frightful Presence (Su): This ability takes effect automatically when the vermiurge first engages its aura of doom. It affects only opponents with fewer Hit Dice or levels than the creature has. It attacks the affected creature at +38 vs Will, and on a hit it becomes [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]]. Success indicates that the target is immune to that creature’s frightful presence for one day. The attack bonus is Charisma-based.
 
-Poison (Ex): Sting or bite, +34 vs Fortitude; initial Damage 1d6 temporary Con, secondary Damage 2d6 temporary Con. The attack bonus is Constitution-based.
+Poison (Ex): Sting or bite—injury; _attack_ +34 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Con; _cure_ 3 consecutive misses. The attack bonus is Constitution-based.

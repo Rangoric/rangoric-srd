@@ -54,6 +54,6 @@ tags: [rangoric, rangoric/monster]
 - **Alignment**: Always neutral
 - **Advancement**: None
 
-Poison (Ex): Bite, +83 vs Fortitude; initial and secondary damage 2d12 temporary Dex.
+Poison (Ex): Bite—injury; _attack_ +83 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d6 Dex; _cure_ 3 consecutive misses.
 
 Skills: Devastation centipedes receive a +8 racial bonus on [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Stealth|Stealth]], and [[rangoric-srd/skills/Perception|Perception]] checks.

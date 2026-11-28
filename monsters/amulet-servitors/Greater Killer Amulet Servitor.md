@@ -71,7 +71,7 @@ A greater killer amulet servitor, like its lesser cousin, concentrates all of it
 
 **Constrict (Ex):** A successfully grappled foe takes 2d10+12 points of constriction damage.
 
-**[[rangoric-srd/rules/Afflictions#Poison|Poison]] (Ex):** The poison in a greater killer amulet servitor’s horn is extremely deadly. Injury, +11 vs Fortitude, initial and secondary damage 1d8 Con.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: The poison in a greater killer amulet servitor’s horn is extremely deadly. Horn—injury; _attack_ +11 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d3 Con; _cure_ 2 consecutive misses.
 
 **_Haste_ (Sp):** Once per combat as a free action, a greater killer amulet servitor may cast _[[rangoric-srd/spells/Haste|haste]]_ upon itself as if cast by a sorcerer of level equal to the construct’s Hit Dice.
 

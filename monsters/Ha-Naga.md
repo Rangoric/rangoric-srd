@@ -71,6 +71,6 @@ Improved Grab (Ex): To use this ability, the ha-naga must hit with its coil whip
 
 Constrict (Ex): A ha-naga deals 4d6+12 points Damage with a successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] attack against Huge or smaller opponents.
 
-Poison (Ex): Sting, +21 vs Fortitude; initial and secondary Damage 2d8 temporary Con.  The attack bonus is Constitution-based.
+Poison (Ex): Sting—injury; _attack_ +21 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d6 Con; _cure_ 3 consecutive misses.  The attack bonus is Constitution-based.
 
 Spells: Ha-nagas can cast spells as 21st-level sorcerers, and can also cast [[rangoric-srd/spells/Cleric Spell List|cleric spells]] and spells from the domains of [[rangoric-srd/class-options/domains/Chaos Domain|Chaos]] and [[rangoric-srd/class-options/domains/Evil Domain|Evil]] as [[rangoric-srd/spells/Sorcerer and Wizards Spell List|arcane spells]] (attack bonus +23 + spell level). The attack bonus is Charisma-based.
