@@ -38,7 +38,7 @@ When you use a summoning spell to summon an air, chaotic, earth, evil, fire, goo
 | [[rangoric-srd/monsters/dire-animal/Dire Ape\|Dire ape]]                       |
 | [[rangoric-srd/monsters/dire-animal/Dire Boar\|Dire boar]]                     |
 | [[rangoric-srd/monsters/dire-animal/Dire Wolverine\|Dire wolverine]]           |
-| [[rangoric-srd/monsters/Monsters E to F\|Elemental, Medium (any)]]             |
+| [[rangoric-srd/monsters/elemental/Elemental\|Elemental, Medium (any)]]         |
 | [[rangoric-srd/monsters/salamander/Salamander\|Salamander, flamebrother (NE)]] |
 | [[rangoric-srd/monsters/Sea Cat\|Sea cat (1)]]                                 |
 | [[rangoric-srd/monsters/shark/Shark\|Shark, Huge (1) (animal)]]                |

@@ -29,7 +29,7 @@ Epic Dragon Age Categories
 
 #### Combat
 
-Epic dragons share all the combat characteristics of [[rangoric-srd/monsters/Monsters Dr to Dw|standard dragons]]. Even wyrmling epic dragons are Huge, however, and are capable of making tail sweep and crush attacks. Although there is no size category larger than Colossal, the oldest epic dragons have a greater reach and deal more damage with their attacks than other Colossal dragons, as shown on the Epic Dragon Face and Reach and Epic Dragon Attacks tables below. In addition, the breath weapon of the oldest epic dragons is a larger cone than most Colossal dragons possess. The size modifier for these dragons remains -8.
+Epic dragons share all the combat characteristics of [[rangoric-srd/monsters/Dragon, True|standard dragons]]. Even wyrmling epic dragons are Huge, however, and are capable of making tail sweep and crush attacks. Although there is no size category larger than Colossal, the oldest epic dragons have a greater reach and deal more damage with their attacks than other Colossal dragons, as shown on the Epic Dragon Face and Reach and Epic Dragon Attacks tables below. In addition, the breath weapon of the oldest epic dragons is a larger cone than most Colossal dragons possess. The size modifier for these dragons remains -8.
 
 Epic Dragon Space and Reach
 

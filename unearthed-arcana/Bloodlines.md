@@ -145,7 +145,7 @@ A character with a celestial bloodline can trace her heritage to beings of the U
 
 ### Demon
 
-A character with a demon bloodline has one or more ancestors of [[rangoric-srd/monsters/demon/Demon|demonic origin]]. The most common source of such a bloodline is a [[rangoric-srd/monsters/Monsters Da to De|succubus]], but any demon capable of taking [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|humanoid]] form might be responsible for the character's unusual traits. Characters with a demon bloodline may bear some minor characteristic reminiscent of such an ancestor: sinister glowing eyes, a faint smell of brimstone, or a love of brutality.
+A character with a demon bloodline has one or more ancestors of [[rangoric-srd/monsters/demon/Demon|demonic origin]]. The most common source of such a bloodline is a [[rangoric-srd/monsters/demon/Succubus|succubus]], but any demon capable of taking [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|humanoid]] form might be responsible for the character's unusual traits. Characters with a demon bloodline may bear some minor characteristic reminiscent of such an ancestor: sinister glowing eyes, a faint smell of brimstone, or a love of brutality.
 
 **Demon Bloodline Traits**
 
@@ -177,7 +177,7 @@ A character with a demon bloodline has one or more ancestors of [[rangoric-srd/m
 
 ### Devil
 
-For a character with a devil bloodline, an [[rangoric-srd/monsters/devil/Erinyes|erinyes]] is often the source. However, other [[rangoric-srd/monsters/devil/Devil|devils]] with the ability to use a polymorph effect, such as [[rangoric-srd/monsters/Monsters Da to De|gelugons]] or [[rangoric-srd/monsters/devil/Pit Fiend|pit fiends]], have been known to consort with mortals. A character with this bloodline may also possess tiny horns or unusually sharp teeth.
+For a character with a devil bloodline, an [[rangoric-srd/monsters/devil/Erinyes|erinyes]] is often the source. However, other [[rangoric-srd/monsters/devil/Devil|devils]] with the ability to use a polymorph effect, such as [[rangoric-srd/monsters/devil/Ice Devil (Gelugon)|gelugons]] or [[rangoric-srd/monsters/devil/Pit Fiend|pit fiends]], have been known to consort with mortals. A character with this bloodline may also possess tiny horns or unusually sharp teeth.
 
 **Devil Bloodline Traits**
 
@@ -799,7 +799,7 @@ Many [[rangoric-srd/monsters/hag/Hag|hags]] have the ability to change their app
 
 ### Lycanthrope
 
-When he isn't murdering innocent townsfolk, the typical [[rangoric-srd/monsters/Monsters K to L|lycanthropic]] character may enjoy an almost entirely normal social life — even having a family. While the offspring of an afflicted lycanthrope might not share the curse itself, the bloodline might still pass its characteristics down the generations, allowing later descendants to display some of the lycanthrope's attributes. Regardless of the original animal stock, the carriers of lycanthropic bloodlines tend to share similar characteristics, including a feral stare and an overabundance of body hair.
+When he isn't murdering innocent townsfolk, the typical [[rangoric-srd/monsters/lycanthrope/Lycanthrope|lycanthropic]] character may enjoy an almost entirely normal social life — even having a family. While the offspring of an afflicted lycanthrope might not share the curse itself, the bloodline might still pass its characteristics down the generations, allowing later descendants to display some of the lycanthrope's attributes. Regardless of the original animal stock, the carriers of lycanthropic bloodlines tend to share similar characteristics, including a feral stare and an overabundance of body hair.
 
 **Lycanthrope Bloodline Traits**
 
