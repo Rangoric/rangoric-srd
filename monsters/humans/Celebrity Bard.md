@@ -17,8 +17,8 @@ special-attacks: "Bardic music 30 rounds/day (countersong, dirge of doom, distra
 special-qualities: "Bardic knowledge +5, jack-of-all-trades (use any skill), lore master 2/day, versatile performance (act, dance, sing)"
 defenses: "Fort 16, Ref 20, Will 18 (+4 vs. bardic performance, language-dependent, and sonic)"
 abilities: "Str 8, Dex 14, Con 14, Int 12, Wis 10, Cha 22"
-skills: "Emulation +26, Linguistics +5, Mysticism +15, Perception +10, Perform (act) +20, Perform (dance) +20, Perform (sing) +20, Sense Motive +5, Sleight of Hand +10, Stealth +15"
-skill-ranks: "Emulation 15, Linguistics 1, Mysticism 15, Perception 7, Perform (act) 16, Perform (dance) 16, Perform (sing) 16, Sense Motive 2, Sleight of Hand 5, Stealth 10"
+skills: "Emulation +26, Linguistics +5, Mysticism +15, Perception +10, Performance (act) +23, Performance (dance) +23, Performance (sing) +23, Sense Motive +5, Sleight of Hand +10, Stealth +15"
+skill-ranks: "Emulation 15, Linguistics 1, Mysticism 15, Perception 7, Performance (act) 16, Performance (dance) 16, Performance (sing) 16, Sense Motive 2, Sleight of Hand 5, Stealth 10"
 feats: "Arcane Strike, Craft Wondrous Item, Greater Spell Penetration, Skill Focus (Emulation), Spell Penetration, Vital Strike, Weapon Finesse"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Bard|Bardic knowledge]] +5, [[rangoric-srd/classes/Bard#^bard-jack-of-all-trades|jack-of-all-trades]] (use any skill), [[rangoric-srd/classes/Bard#^bard-lore-master|lore master]] 2/day, [[rangoric-srd/classes/Bard#^bard-versatile-performance|versatile performance]] (act, dance, sing)
 - **Defenses**: Fort 16, Ref 20, Will 18 (+4 vs. bardic performance, language-dependent, and sonic)
 - **Abilities**: Str 8, Dex 14, Con 14, Int 12, Wis 10, Cha 22
-- **Skills**: [[rangoric-srd/skills/Emulation|Emulation]] +26, [[rangoric-srd/skills/Linguistics|Linguistics]] +5, [[rangoric-srd/skills/Mysticism|Mysticism]] +15, [[rangoric-srd/skills/Perception|Perception]] +10, Perform (act) +20, Perform (dance) +20, Perform (sing) +20, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +15
+- **Skills**: [[rangoric-srd/skills/Emulation|Emulation]] +26, [[rangoric-srd/skills/Linguistics|Linguistics]] +5, [[rangoric-srd/skills/Mysticism|Mysticism]] +15, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Performance|Performance]] (act) +23, [[rangoric-srd/skills/Performance|Performance]] (dance) +23, [[rangoric-srd/skills/Performance|Performance]] (sing) +23, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +15
 - **Feats**: [[rangoric-srd/feats/Arcane Strike|Arcane Strike]], [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Greater Spell Penetration|Greater Spell Penetration]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Emulation), [[rangoric-srd/feats/Spell Penetration|Spell Penetration]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/humans/Human|Human]])

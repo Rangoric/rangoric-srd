@@ -17,8 +17,8 @@ special-attacks: "—"
 special-qualities: "—"
 defenses: "Fort 11, Ref 11, Will 11"
 abilities: "Str 13, Dex 13, Con 12, Int 9, Wis 8, Cha 10"
-skills: "Animal Handling +7, Craft (armor) +3, Craft (weapons) +3, Society +3"
-skill-ranks: "Animal Handling 3, Craft (armor) 1, Craft (weapons) 1, Society 1"
+skills: "Animal Handling +7, Background (armorsmithing) +3, Background (weaponsmithing) +3, Society +3"
+skill-ranks: "Animal Handling 3, Background (armorsmithing) 1, Background (weaponsmithing) 1, Society 1"
 feats: "Mounted Combat, Skill Focus (Animal Handling)"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: —
 - **Defenses**: Fort 11, Ref 11, Will 11
 - **Abilities**: Str 13, Dex 13, Con 12, Int 9, Wis 8, Cha 10
-- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +7, [[rangoric-srd/skills/Craft|Craft]] (armor) +3, [[rangoric-srd/skills/Craft|Craft]] (weapons) +3, [[rangoric-srd/skills/Society|Society]] +3
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +7, [[rangoric-srd/skills/Background|Background]] (armorsmithing) +3, [[rangoric-srd/skills/Background|Background]] (weaponsmithing) +3, [[rangoric-srd/skills/Society|Society]] +3
 - **Feats**: [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Animal Handling)
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/humans/Human|Human]])

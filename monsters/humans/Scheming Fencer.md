@@ -18,8 +18,8 @@ special-attacks: "Weapon training (light blades +2, bows +1)"
 special-qualities: "Bravery +3, armor training 3"
 defenses: "Fort 20, Ref 20, Will 16 (+3 vs. fear)"
 abilities: "Str 16, Dex 23, Con 14, Int 13, Wis 10, Cha 8"
-skills: "Acrobatics +17, Athletics +15, Deception +10, Perform (sing) +5, Sense Motive +9, Society +5"
-skill-ranks: "Acrobatics 8, Athletics 9, Deception 8, Perform (sing) 1, Sense Motive 6, Society 1"
+skills: "Acrobatics +17, Athletics +15, Deception +10, Performance (sing) +5, Sense Motive +9, Society +5"
+skill-ranks: "Acrobatics 8, Athletics 9, Deception 8, Performance (sing) 1, Sense Motive 6, Society 1"
 feats: "Combat Expertise, Critical Focus, Double Slice, Improved Critical (rapier), Improved Disarm, Improved Two-Weapon Fighting, Iron Will, Sickening Critical, Two-Weapon Fighting, Two-Weapon Rend, Weapon Finesse, Weapon Focus (rapier), Weapon Specialization (rapier)"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Fighter#^fighter-bravery|Bravery]] +3, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 3
 - **Defenses**: Fort 20, Ref 20, Will 16 (+3 vs. fear)
 - **Abilities**: Str 16, Dex 23, Con 14, Int 13, Wis 10, Cha 8
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +17, [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Deception|Deception]] +10, Perform (sing) +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Society|Society]] +5
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +17, [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Performance|Performance]] (sing) +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Society|Society]] +5
 - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Double Slice|Double Slice]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (rapier), [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Improved Two-Weapon Fighting|Improved Two-Weapon Fighting]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Sickening Critical|Sickening Critical]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Two-Weapon Rend|Two-Weapon Rend]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (rapier), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (rapier)
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/humans/Human|Human]])

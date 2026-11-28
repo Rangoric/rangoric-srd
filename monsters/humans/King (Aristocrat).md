@@ -18,8 +18,8 @@ special-attacks: "—"
 special-qualities: "—"
 defenses: "Fort 16, Ref 14, Will 20"
 abilities: "Str 8, Dex 11, Con 10, Int 14, Wis 10, Cha 14"
-skills: "Animal Handling +6, Deception +10, Intimidation +10, Linguistics +9, Perception +11, Perform (dance) +6, Perform (oratory) +10, Persuasion +21, Sense Motive +13, Society +15, Theology +8"
-skill-ranks: "Animal Handling 3, Deception 5, Intimidation 7, Linguistics 4, Perception 7, Perform (dance) 1, Perform (oratory) 5, Persuasion 14, Sense Motive 14, Society 10, Theology 3"
+skills: "Animal Handling +6, Deception +10, Intimidation +10, Linguistics +9, Perception +11, Performance (dance) +6, Performance (oratory) +10, Persuasion +21, Sense Motive +13, Society +15, Theology +8"
+skill-ranks: "Animal Handling 3, Deception 5, Intimidation 7, Linguistics 4, Perception 7, Performance (dance) 1, Performance (oratory) 5, Persuasion 14, Sense Motive 14, Society 10, Theology 3"
 feats: "Great Fortitude, Iron Will, Skill Focus (Perception, Persuasion), Vital Strike, Weapon Focus (longsword)"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: —
 - **Defenses**: Fort 16, Ref 14, Will 20
 - **Abilities**: Str 8, Dex 11, Con 10, Int 14, Wis 10, Cha 14
-- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Linguistics|Linguistics]] +9, [[rangoric-srd/skills/Perception|Perception]] +11, Perform (dance) +6, Perform (oratory) +10, [[rangoric-srd/skills/Persuasion|Persuasion]] +21, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Society|Society]] +15, [[rangoric-srd/skills/Theology|Theology]] +8
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Linguistics|Linguistics]] +9, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Performance|Performance]] (dance) +6, [[rangoric-srd/skills/Performance|Performance]] (oratory) +10, [[rangoric-srd/skills/Persuasion|Persuasion]] +21, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Society|Society]] +15, [[rangoric-srd/skills/Theology|Theology]] +8
 - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception, Persuasion), [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longsword)
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/humans/Human|Human]])

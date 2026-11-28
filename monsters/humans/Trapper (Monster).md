@@ -17,8 +17,8 @@ special-attacks: "Favored enemy (animals +2)"
 special-qualities: "Favored terrain (woods +2), hunter's bond (badger animal companion), track +2, wild empathy +4"
 defenses: "Fort 15, Ref 16, Will 12"
 abilities: "Str 14, Dex 15, Con 12, Int 10, Wis 13, Cha 10"
-skills: "Animal Handling +6, Athletics +10, Craft (traps) +9, Fieldcraft +8 (+10 to follow tracks), Medicine +8, Perception +7, Profession (trapper) +8, Stealth +8"
-skill-ranks: "Animal Handling 3, Athletics 5, Craft (traps) 6, Fieldcraft 4, Medicine 4, Perception 3, Profession (trapper) 5, Stealth 3"
+skills: "Animal Handling +6, Athletics +10, Background (trapmaking) +9, Fieldcraft +8 (+10 to follow tracks), Medicine +8, Perception +7, Background (trapper) +10, Stealth +8"
+skill-ranks: "Animal Handling 3, Athletics 5, Background (trapmaking) 6, Fieldcraft 4, Medicine 4, Perception 3, Background (trapper) 5, Stealth 3"
 feats: "Deadly Aim, Dodge, Endurance, Mobility, Point Blank Shot, Track"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|Favored terrain]] (woods +2), [[rangoric-srd/classes/Ranger#^ranger-hunters-bond|hunter's bond]] (badger animal companion), [[rangoric-srd/classes/Ranger#^ranger-track|track]] +2, [[rangoric-srd/classes/Ranger#^ranger-wild-empathy|wild empathy]] +4
 - **Defenses**: Fort 15, Ref 16, Will 12
 - **Abilities**: Str 14, Dex 15, Con 12, Int 10, Wis 13, Cha 10
-- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Craft|Craft]] (traps) +9, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8 (+10 to follow tracks), [[rangoric-srd/skills/Medicine|Medicine]] +8, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Profession|Profession]] (trapper) +8, [[rangoric-srd/skills/Stealth|Stealth]] +8
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Background|Background]] (trapmaking) +9, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8 (+10 to follow tracks), [[rangoric-srd/skills/Medicine|Medicine]] +8, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Background|Background]] (trapper) +10, [[rangoric-srd/skills/Stealth|Stealth]] +8
 - **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Track|Track]]
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/humans/Human|Human]])

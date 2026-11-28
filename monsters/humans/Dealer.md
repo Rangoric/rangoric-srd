@@ -17,9 +17,9 @@ special-attacks: "Sneak attack +2d6"
 special-qualities: "Evasion, danger sense +1, rogue talent (combat trick), trapfinding +1, finesse training (dagger)"
 defenses: "Fort 12, Ref 15, Will 12"
 abilities: "Str 12, Dex 15, Con 12, Int 14, Wis 8, Cha 14"
-skills: "Appraise +6, Craft (alchemy) +12, Deception +12, Engineering +6, Escape Artist +9, Imitation +10, Intimidation +9, Perception +6, Profession (herbalist) +6, Sense Motive +6, Sleight of Hand +9, Society +9, Stealth +9"
-skill-ranks: "Appraise 1, Craft (alchemy) 7, Deception 6, Engineering 1, Escape Artist 4, Imitation 7, Intimidation 4, Perception 4, Profession (herbalist) 1, Sense Motive 4, Sleight of Hand 4, Society 4, Stealth 4"
-feats: "Improved Initiative, Quick Draw, Skill Focus (Craft [alchemy], Deception), Weapon Focus (dagger)"
+skills: "Appraise +6, Background (alchemy) +12, Deception +12, Engineering +6, Escape Artist +9, Imitation +10, Intimidation +9, Perception +6, Background (herbalist) +9, Sense Motive +6, Sleight of Hand +9, Society +9, Stealth +9"
+skill-ranks: "Appraise 1, Background (alchemy) 7, Deception 6, Engineering 1, Escape Artist 4, Imitation 7, Intimidation 4, Perception 4, Background (herbalist) 1, Sense Motive 4, Sleight of Hand 4, Society 4, Stealth 4"
+feats: "Improved Initiative, Quick Draw, Skill Focus (Background [alchemy], Deception), Weapon Focus (dagger)"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
 challenge-rating: 3
@@ -48,8 +48,8 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Rogue#^rogue-evasion|Evasion]], [[rangoric-srd/classes/Rogue#^rogue-trap-sense|danger sense]] +1, [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (combat trick), [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +1, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]] (dagger)
 - **Defenses**: Fort 12, Ref 15, Will 12
 - **Abilities**: Str 12, Dex 15, Con 12, Int 14, Wis 8, Cha 14
-- **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +6, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +12, [[rangoric-srd/skills/Deception|Deception]] +12, [[rangoric-srd/skills/Engineering|Engineering]] +6, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +9, [[rangoric-srd/skills/Imitation|Imitation]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Profession|Profession]] (herbalist) +6, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +9, [[rangoric-srd/skills/Society|Society]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +9
-- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Craft \[alchemy\], Deception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (dagger)
+- **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +6, [[rangoric-srd/skills/Background|Background]] (alchemy) +12, [[rangoric-srd/skills/Deception|Deception]] +12, [[rangoric-srd/skills/Engineering|Engineering]] +6, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +9, [[rangoric-srd/skills/Imitation|Imitation]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Background|Background]] (herbalist) +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +9, [[rangoric-srd/skills/Society|Society]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +9
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Background \[alchemy\], Deception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (dagger)
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/humans/Human|Human]])
 - **Challenge Rating**: 3

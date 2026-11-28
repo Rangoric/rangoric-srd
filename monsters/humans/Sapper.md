@@ -18,8 +18,8 @@ special-attacks: "—"
 special-qualities: "—"
 defenses: "Fort 11, Ref 14, Will 14"
 abilities: "Str 8, Dex 12, Con 10, Int 16, Wis 11, Cha 9"
-skills: "Acrobatics +9, Arcana +11, Athletics +7, Craft (alchemy) +11, Engineering +14, Escape Artist +9, Perception +8, Society +11, Stealth +12"
-skill-ranks: "Acrobatics 5, Arcana 5, Athletics 5, Craft (alchemy) 5, Engineering 8, Escape Artist 5, Perception 5, Society 5, Stealth 8"
+skills: "Acrobatics +9, Arcana +11, Athletics +7, Background (alchemy) +11, Engineering +14, Escape Artist +9, Perception +8, Society +11, Stealth +12"
+skill-ranks: "Acrobatics 5, Arcana 5, Athletics 5, Background (alchemy) 5, Engineering 8, Escape Artist 5, Perception 5, Society 5, Stealth 8"
 feats: "Lightning Reflexes, Point Blank Shot, Skill Focus (Knowledge [engineering], Stealth)"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: —
 - **Defenses**: Fort 11, Ref 14, Will 14
 - **Abilities**: Str 8, Dex 12, Con 10, Int 16, Wis 11, Cha 9
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Arcana|Arcana]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +7, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +11, [[rangoric-srd/skills/Engineering|Engineering]] +14, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +9, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Society|Society]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +12
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Arcana|Arcana]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +7, [[rangoric-srd/skills/Background|Background]] (alchemy) +11, [[rangoric-srd/skills/Engineering|Engineering]] +14, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +9, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Society|Society]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +12
 - **Feats**: [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Knowledge \[engineering\], Stealth)
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/humans/Human|Human]])

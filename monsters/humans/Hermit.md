@@ -17,8 +17,8 @@ special-attacks: "Wild shape 2/day"
 special-qualities: "Resist nature's lure, nature bond (owl animal companion), nature sense, trackless step, wild empathy +8, woodland stride"
 defenses: "Fort 17, Ref 13, Will 20 (+4 vs. fey and plant-targeted effects)"
 abilities: "Str 8, Dex 10, Con 13, Int 14, Wis 18, Cha 12"
-skills: "Acrobatics +10, Animal Handling +11, Athletics +4, Dungeoneering +5, Fieldcraft +19, Linguistics +5, Medicine +16, Mysticism +6, Nature +12, Perception +10, Profession (gardener) +10, Profession (herbalist) +10, Society +10"
-skill-ranks: "Acrobatics 7, Animal Handling 7, Athletics 2, Dungeoneering 3, Fieldcraft 11, Linguistics 3, Medicine 11, Mysticism 1, Nature 7, Perception 3, Profession (gardener) 5, Profession (herbalist) 5, Society 5"
+skills: "Acrobatics +10, Animal Handling +11, Athletics +4, Dungeoneering +5, Fieldcraft +19, Linguistics +5, Medicine +16, Mysticism +6, Nature +12, Perception +10, Background (gardener) +11, Background (herbalist) +11, Society +10"
+skill-ranks: "Acrobatics 7, Animal Handling 7, Athletics 2, Dungeoneering 3, Fieldcraft 11, Linguistics 3, Medicine 11, Mysticism 1, Nature 7, Perception 3, Background (gardener) 5, Background (herbalist) 5, Society 5"
 feats: "Blind-Fight, Combat Casting, Craft Wand, Natural Spell, Skill Focus (Fieldcraft)"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Druid#^druid-resist-natures-lure|Resist nature's lure]], [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]] (owl animal companion), [[rangoric-srd/classes/Druid#^druid-nature-sense|nature sense]], [[rangoric-srd/classes/Druid#^druid-trackless-step|trackless step]], [[rangoric-srd/classes/Druid#^druid-wild-empathy|wild empathy]] +8, [[rangoric-srd/classes/Druid#^druid-woodland-stride|woodland stride]]
 - **Defenses**: Fort 17, Ref 13, Will 20 (+4 vs. fey and plant-targeted effects)
 - **Abilities**: Str 8, Dex 10, Con 13, Int 14, Wis 18, Cha 12
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +4, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +19, [[rangoric-srd/skills/Linguistics|Linguistics]] +5, [[rangoric-srd/skills/Medicine|Medicine]] +16, [[rangoric-srd/skills/Mysticism|Mysticism]] +6, [[rangoric-srd/skills/Nature|Nature]] +12, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Profession|Profession]] (gardener) +10, [[rangoric-srd/skills/Profession|Profession]] (herbalist) +10, [[rangoric-srd/skills/Society|Society]] +10
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +4, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +19, [[rangoric-srd/skills/Linguistics|Linguistics]] +5, [[rangoric-srd/skills/Medicine|Medicine]] +16, [[rangoric-srd/skills/Mysticism|Mysticism]] +6, [[rangoric-srd/skills/Nature|Nature]] +12, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Background|Background]] (gardener) +11, [[rangoric-srd/skills/Background|Background]] (herbalist) +11, [[rangoric-srd/skills/Society|Society]] +10
 - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Craft Wand|Craft Wand]], [[rangoric-srd/feats/Natural Spell|Natural Spell]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Fieldcraft)
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/humans/Human|Human]])

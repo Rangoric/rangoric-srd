@@ -18,8 +18,8 @@ special-attacks: "Sneak attack +2d6, debilitating injury"
 special-qualities: "Evasion, danger sense +1, uncanny dodge, rogue talents (major magic, minor magic), trapfinding +2, finesse training (rapier)"
 defenses: "Fort 11, Ref 16, Will 12"
 abilities: "Str 8, Dex 14, Con 10, Int 13, Wis 12, Cha 18"
-skills: "Deception +14, Emulation +11, Engineering +9, Imitation +11, Medicine +3, Perception +8, Perform (sing) +9, Persuasion +11, Sense Motive +8, Sleight of Hand +9, Society +8, Stealth +9"
-skill-ranks: "Deception 6, Emulation 4, Engineering 4, Imitation 6, Medicine 2, Perception 4, Perform (sing) 5, Persuasion 4, Sense Motive 4, Sleight of Hand 4, Society 4, Stealth 4"
+skills: "Deception +14, Emulation +11, Engineering +9, Imitation +11, Medicine +3, Perception +8, Performance (sing) +12, Persuasion +11, Sense Motive +8, Sleight of Hand +9, Society +8, Stealth +9"
+skill-ranks: "Deception 6, Emulation 4, Engineering 4, Imitation 6, Medicine 2, Perception 4, Performance (sing) 5, Persuasion 4, Sense Motive 4, Sleight of Hand 4, Society 4, Stealth 4"
 feats: "Combat Expertise, Improved Feint, Skill Focus (Deception)"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Rogue#^rogue-evasion|Evasion]], [[rangoric-srd/classes/Rogue#^rogue-trap-sense|danger sense]] +1, [[rangoric-srd/classes/Rogue#^rogue-uncanny-dodge|uncanny dodge]], [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]] ([[rangoric-srd/class-options/rogue-talents/Major Magic (Rogue Talent)|major magic]], [[rangoric-srd/class-options/rogue-talents/Minor Magic (Rogue Talent)|minor magic]]), [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +2, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]] (rapier)
 - **Defenses**: Fort 11, Ref 16, Will 12
 - **Abilities**: Str 8, Dex 14, Con 10, Int 13, Wis 12, Cha 18
-- **Skills**: [[rangoric-srd/skills/Deception|Deception]] +14, [[rangoric-srd/skills/Emulation|Emulation]] +11, [[rangoric-srd/skills/Engineering|Engineering]] +9, [[rangoric-srd/skills/Imitation|Imitation]] +11, [[rangoric-srd/skills/Medicine|Medicine]] +3, [[rangoric-srd/skills/Perception|Perception]] +8, Perform (sing) +9, [[rangoric-srd/skills/Persuasion|Persuasion]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +8, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +9, [[rangoric-srd/skills/Society|Society]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +9
+- **Skills**: [[rangoric-srd/skills/Deception|Deception]] +14, [[rangoric-srd/skills/Emulation|Emulation]] +11, [[rangoric-srd/skills/Engineering|Engineering]] +9, [[rangoric-srd/skills/Imitation|Imitation]] +11, [[rangoric-srd/skills/Medicine|Medicine]] +3, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Performance|Performance]] (sing) +12, [[rangoric-srd/skills/Persuasion|Persuasion]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +8, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +9, [[rangoric-srd/skills/Society|Society]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +9
 - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Improved Feint|Improved Feint]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception)
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/humans/Human|Human]])

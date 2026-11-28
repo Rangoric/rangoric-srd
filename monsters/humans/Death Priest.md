@@ -18,8 +18,8 @@ special-attacks: "Channel negative energy 4/day (+7 vs Will, 5d6), hand of the a
 special-qualities: "Aura, death's embrace"
 defenses: "Fort 21, Ref 16, Will 21"
 abilities: "Str 8, Dex 15, Con 18, Int 10, Wis 19, Cha 12"
-skills: "Craft (alchemy) +6, Intimidation +7, Medicine +10, Perception +10, Theology +12"
-skill-ranks: "Craft (alchemy) 3, Intimidation 3, Medicine 3, Perception 3, Theology 9"
+skills: "Background (alchemy) +6, Intimidation +7, Medicine +10, Perception +10, Theology +12"
+skill-ranks: "Background (alchemy) 3, Intimidation 3, Medicine 3, Perception 3, Theology 9"
 feats: "Combat Casting, Command Undead, Greater Spell Focus (necromancy), Improved Channel, Improved Initiative, Spell Focus (necromancy)"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Cleric#^cleric-aura|Aura]], [[rangoric-srd/class-options/domains/Death Domain|death's embrace]]
 - **Defenses**: Fort 21, Ref 16, Will 21
 - **Abilities**: Str 8, Dex 15, Con 18, Int 10, Wis 19, Cha 12
-- **Skills**: [[rangoric-srd/skills/Craft|Craft]] (alchemy) +6, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Medicine|Medicine]] +10, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Theology|Theology]] +12
+- **Skills**: [[rangoric-srd/skills/Background|Background]] (alchemy) +6, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Medicine|Medicine]] +10, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Theology|Theology]] +12
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Command Undead (Feat)|Command Undead]], [[rangoric-srd/feats/Greater Spell Focus|Greater Spell Focus]] (necromancy), [[rangoric-srd/feats/Improved Channel|Improved Channel]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (necromancy)
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/humans/Human|Human]])

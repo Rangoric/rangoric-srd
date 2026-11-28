@@ -18,8 +18,8 @@ special-attacks: "—"
 special-qualities: "Nature bond (Weather domain), nature sense, wild empathy +2, woodland stride"
 defenses: "Fort 15, Ref 11, Will 14"
 abilities: "Str 17, Dex 13, Con 14, Int 8, Wis 12, Cha 10"
-skills: "Animal Handling +5, Athletics +5, Fieldcraft +7, Medicine +5, Nature +1, Perception +5, Profession (sailor) +5, Society +3"
-skill-ranks: "Animal Handling 2, Athletics 2, Fieldcraft 3, Medicine 1, Nature 2, Perception 1, Profession (sailor) 3, Society 1"
+skills: "Animal Handling +5, Athletics +5, Fieldcraft +7, Medicine +5, Nature +1, Perception +5, Background (sailor) +6, Society +3"
+skill-ranks: "Animal Handling 2, Athletics 2, Fieldcraft 3, Medicine 1, Nature 2, Perception 1, Background (sailor) 3, Society 1"
 feats: "Dodge, Shield Focus"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Druid#^druid-nature-bond|Nature bond]] (Weather domain), [[rangoric-srd/classes/Druid#^druid-nature-sense|nature sense]], [[rangoric-srd/classes/Druid#^druid-wild-empathy|wild empathy]] +2, [[rangoric-srd/classes/Druid#^druid-woodland-stride|woodland stride]]
 - **Defenses**: Fort 15, Ref 11, Will 14
 - **Abilities**: Str 17, Dex 13, Con 14, Int 8, Wis 12, Cha 10
-- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7, [[rangoric-srd/skills/Medicine|Medicine]] +5, [[rangoric-srd/skills/Nature|Nature]] +1, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Profession|Profession]] (sailor) +5, [[rangoric-srd/skills/Society|Society]] +3
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7, [[rangoric-srd/skills/Medicine|Medicine]] +5, [[rangoric-srd/skills/Nature|Nature]] +1, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Background|Background]] (sailor) +6, [[rangoric-srd/skills/Society|Society]] +3
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Shield Focus|Shield Focus]]
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/humans/Human|Human]])
