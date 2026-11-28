@@ -3,7 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "rage-power"
 class: ["Barbarian", "Skald"]
-level: 16
+level: 12
 status: draft
 pi-review: 2026-11-06
 tags: [rangoric, rangoric/class-option]
