@@ -11,6 +11,6 @@ tags: [rangoric, rangoric/gear]
 
 # Obsession Log
 
-Gnomes use these small books to record information about their obsessions. When a gnome consults her obsession log (taking 1 minute), she gains a +2 circumstance bonus on the next [[rangoric-srd/skills/Craft|Craft]] or [[rangoric-srd/skills/Profession|Profession]] check she makes, as long as that skill was the one chosen for her [[rangoric-srd/races/Gnome|obsessive racial trait]].
+Gnomes use these small books to record information about their obsessions. When a gnome consults her obsession log (taking 1 minute), she gains a +2 circumstance bonus on the next [[rangoric-srd/skills/Background|Background]] check with a craft or profession she makes, as long as that skill was the one chosen for her [[rangoric-srd/races/Gnome|obsessive racial trait]].
 
 Price 25 gp; Weight 1 lb.

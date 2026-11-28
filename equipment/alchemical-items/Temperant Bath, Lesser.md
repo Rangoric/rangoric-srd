@@ -12,7 +12,7 @@ magical: false
 aura: "No aura"
 cl: "12th"
 prerequisites:
-  - "Craft (alchemy)"
+  - "Background (alchemy)"
   - "Create Greater Alchana"
 dc: "30"
 price: "4,200 gp/gallon"
@@ -63,7 +63,7 @@ _Temperant Bath, Resistant_: These baths—which can be made for any of the five
 | Lesser—Pliant    | 12  | 30  | 4,200 gp/gallon | 42,000 gp/20 gallons |
 | Lesser—Resistant | 12  | 30  | 4,200 gp/gallon | 42,000 gp/20 gallons |
 
-**Prerequisites**: [[rangoric-srd/skills/Craft|Craft]] (alchemy), [[rangoric-srd/feats/Create Greater Alchana|Create Greater Alchana]]
+**Prerequisites**: [[rangoric-srd/skills/Background|Background]] (alchemy), [[rangoric-srd/feats/Create Greater Alchana|Create Greater Alchana]]
 
 **Temperant Cascades** When an item is exposed to more than one temperant bath during its existence, it is said to have undergone a temperant cascade. There are some rules and restrictions to a cascade:
 

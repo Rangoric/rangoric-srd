@@ -7,7 +7,7 @@ magical: false
 aura: "No aura"
 cl: "4th"
 prerequisites:
-  - "At least one rank in Craft (alchemy)"
+  - "At least one rank in Background (alchemy)"
 dc: "18"
 price: "15 gp/2 oz. flask"
 status: draft
@@ -23,6 +23,6 @@ Aqua permanens is one of the more important chymicals in an alchemists’ labora
 
 Aqua permanens is easily spotted—it is a dark green liquid with a cloudy suspension of liquid metal (appearing like aqua metallorum) within it—though it has no scent whatsoever. Some people deliberately use the scarring effect—they carve a pattern in the flesh and pour an ounce per six-inch square of open wound to sear in a tattoo with a slight metallic sheen to its lines. (While some might actively choose to tattoo themselves this way, it’s most often used by slavers to mark “new acquisitions.”)
 
-**Construction**: No aura; CL 4th; At least one rank in [[rangoric-srd/skills/Craft|Craft]] (alchemy); DC: 18; Market Price: 15 gp/2 oz. flask
+**Construction**: No aura; CL 4th; At least one rank in [[rangoric-srd/skills/Background|Background]] (alchemy); DC: 18; Market Price: 15 gp/2 oz. flask
 
 An item of the alchemical and herbal catalog ([[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Item Categories and Definitions|categories]]); its entry follows the [[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Catalog Template|catalog template]].

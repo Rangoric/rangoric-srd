@@ -8,7 +8,7 @@ magical: false
 aura: "No aura"
 cl: "As per chymical or powder"
 prerequisites:
-  - "Craft (bowmaking or glassblowing)"
+  - "Background (bowmaking or glassblowing)"
 dc: "15"
 price: "Cost of chymical/powder + 1 gp/sling bullet or bottle-bolt, 2 gp/fork arrow"
 status: draft
@@ -29,6 +29,6 @@ Chymissiles are missile weapons containing alchemical substances. They come in a
 
 Assuming that the chymical in question can be contained within a glass bead or the powder compacted into a chalky tablet, any chymicals or powders that do not need to be ingested are usable in Chymissiles. If a chymical requires more than one ounce to elicit effects, it cannot be used for chymissiles. Assume the grenade-like weapons’ splash effect may occur with liquid chymissiles, but reduce the splash radius to 2 feet, not 5 feet.
 
-**Construction**: No aura; CL As per chymical or powder; [[rangoric-srd/skills/Craft|Craft]] (bowmaking or glassblowing); DC: 15; Market Price: Cost of chymical/powder + 1 gp/sling bullet or bottle-bolt, 2 gp/fork arrow
+**Construction**: No aura; CL As per chymical or powder; [[rangoric-srd/skills/Background|Background]] (bowmaking or glassblowing); DC: 15; Market Price: Cost of chymical/powder + 1 gp/sling bullet or bottle-bolt, 2 gp/fork arrow
 
 An item of the alchemical and herbal catalog ([[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Item Categories and Definitions|categories]]); its entry follows the [[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Catalog Template|catalog template]].

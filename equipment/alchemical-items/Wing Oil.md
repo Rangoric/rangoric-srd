@@ -14,4 +14,4 @@ tags: [rangoric, rangoric/alchemical-item]
 
 Tengus mix special salves to protect their feathers from the elements. This one-ounce vial of wing oil gives a feathered creature a +1 bonus on all defenses against the effects of cold weather. Its effects last 24 hours.
 
-[[rangoric-srd/skills/Craft|Craft]] (alchemy) DC 20; Price 1 gp.
+[[rangoric-srd/skills/Background|Background]] (alchemy) DC 20; Price 1 gp.

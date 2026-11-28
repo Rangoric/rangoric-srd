@@ -26,7 +26,7 @@ An Elixir of Demihumankind instills permanent biological changes in the imbiber,
 
 - _Dwarvenkind_: +2 racial bonus to defenses vs. either poisons or spells, darkvision; height drops by 2d6 inches; facial hair sprouts
 - _Elvenkind_: Low-light vision and +2 racial bonus to defenses vs. enchantments; weight drops by 10% and ears elongate out to slight points aligned with cheekbones.
-- _Gnomekind_: Low-light vision and +2 racial bonus on [[rangoric-srd/skills/Perception|Perception]] and [[rangoric-srd/skills/Craft|Craft]] (alchemy) checks; height drops by 3d6 inches; base speed reduced to 20 feet.
+- _Gnomekind_: Low-light vision and +2 racial bonus on [[rangoric-srd/skills/Perception|Perception]] and [[rangoric-srd/skills/Background|Background]] (alchemy) checks; height drops by 3d6 inches; base speed reduced to 20 feet.
 - _Halflingkind_: +1 racial bonus on all defenses, +1 Dexterity and -2 Strength, height drops by 2d8 inches
 - _Humankind_: 1 extra feat and four extra skill points (as if imbiber were a 1st level human); height rises by 1d6 inches but character must age as a human
 - _Orckind_: +1 Strength and darkvision, -1 Charisma; lower canine teeth extend to tusks, nose flattens to unmistakeable orcish snout.

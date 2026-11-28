@@ -15,6 +15,6 @@ When you throw a tanglefoot bag at a creature (as a ranged touch attack with a r
 
 A creature that is glued to the floor (or unable to fly) can break free by making a DC 17 Strength check or by dealing 15 points of damage to the goo with a slashing weapon. A creature trying to scrape goo off itself, or another creature assisting, does not need to make an attack roll; hitting the goo is automatic, after which the creature that hit makes a damage roll to see how much of the goo was scraped off. Once free, the creature can move (including flying) at half speed. A character capable of spellcasting who is bound by the goo must make a DC 15 [[rangoric-srd/rules/Concentration (Check)|Concentration check]] to cast a spell. The goo becomes brittle and fragile after 2d4 rounds, cracking apart and losing its effectiveness. An application of universal solvent to a stuck creature dissolves the alchemical goo immediately.
 
-It can be made by a character with the [[rangoric-srd/skills/Craft|Craft]] (alchemy) skill.
+It can be made by a character with the [[rangoric-srd/skills/Background|Background]] (alchemy) skill.
 
 Price 50 gp; Weight 4 lb.

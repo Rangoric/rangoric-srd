@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/alchemical-item]
 
 Similar to but weaker than a [[rangoric-srd/equipment/gear/Sunrod|sunrod]], this stick glows like a candle when struck and lasts for 12 hours.
 
-[[rangoric-srd/skills/Craft|Craft]] (alchemy) DC 20; Price 1 gp; Weight 1 lb.
+[[rangoric-srd/skills/Background|Background]] (alchemy) DC 20; Price 1 gp; Weight 1 lb.

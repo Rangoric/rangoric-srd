@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/alchemical-item]
 
 This glue is stored as two flasks of syrupy liquid. When mixed together and allowed to cure, they form a strong bond. The glue is sufficient to coat 1 square foot of surface, or (because of waste, spills, and inaccurate mixing) up to 20 smaller applications of approximately 2 square inches each. The glue is tacky after 1 minute and fully cured after 1 hour. Pulling apart a large glued surface (at least 1 square foot) requires a DC 20 Strength check for tacky glue or DC 25 for cured glue. Pulling apart a small glued surface (anything less than 1 square foot) is a DC 15 Strength check for tacky glue or DC 20 for cured glue.
 
-[[rangoric-srd/skills/Craft|Craft]] (alchemy) DC 20; Price 20 gp; Weight 1/2 lb.
+[[rangoric-srd/skills/Background|Background]] (alchemy) DC 20; Price 20 gp; Weight 1/2 lb.

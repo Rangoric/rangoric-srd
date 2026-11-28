@@ -8,7 +8,7 @@ magical: false
 aura: "No aura"
 cl: "2nd"
 prerequisites:
-  - "At least one rank in each Craft (alchemy) and Profession (herbalist)"
+  - "At least one rank in each Background (alchemy) and Background (herbalist)"
   - "Craft Powders & Dusts"
 dc: "13"
 price: "400 gp/4 oz. pouch (3-4 oz powder and 1 oz. aqua)"
@@ -25,6 +25,6 @@ Doorjamb powder, or just “doorjam” after the sticky substance that it create
 
 Obviously, this item works differently than the standard alchemical or herbal powders, but only by its delivery system. This material used to be carried separately, then carefully poured out beneath doors before adding the aqua. This new form has made the item far more popular and useful for rogues, adventurers and spies alike.
 
-**Construction**: No aura; CL 2nd; At least one rank in each [[rangoric-srd/skills/Craft|Craft]] (alchemy) and [[rangoric-srd/skills/Profession|Profession]] (herbalist), [[rangoric-srd/feats/Craft Powders & Dusts|Craft Powders & Dusts]]; DC: 13; Price: 400 gp/4 oz. pouch (3-4 oz powder and 1 oz. aqua)
+**Construction**: No aura; CL 2nd; At least one rank in each [[rangoric-srd/skills/Background|Background]] (alchemy) and [[rangoric-srd/skills/Background|Background]] (herbalist), [[rangoric-srd/feats/Craft Powders & Dusts|Craft Powders & Dusts]]; DC: 13; Price: 400 gp/4 oz. pouch (3-4 oz powder and 1 oz. aqua)
 
 An item of the alchemical and herbal catalog ([[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Item Categories and Definitions|categories]]); its entry follows the [[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Catalog Template|catalog template]].

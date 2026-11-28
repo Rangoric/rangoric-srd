@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/alchemical-item]
 
 This sacred oil, infused with aromatic spices and distilled holy water, may be applied to a creature while casting a harmless divine spell with a range of touch, increasing the casting time to a full-round action but also increasing the caster's effective caster level by +1 for that spell.
 
-[[rangoric-srd/skills/Craft|Craft]] (alchemy) DC 20; Price 25 gp; Weight 1 lb.
+[[rangoric-srd/skills/Background|Background]] (alchemy) DC 20; Price 25 gp; Weight 1 lb.

@@ -14,4 +14,4 @@ tags: [rangoric, rangoric/alchemical-item]
 
 Favored by young rakes and others of means, this is a crystalline powder resembling salt. Mixed with water, it makes a fizzing cocktail that eliminates the effects of a hangover within 10 minutes of drinking it.
 
-[[rangoric-srd/skills/Craft|Craft]] (alchemy) DC 20; Price 1 gp.
+[[rangoric-srd/skills/Background|Background]] (alchemy) DC 20; Price 1 gp.

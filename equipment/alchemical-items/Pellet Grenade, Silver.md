@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Pellet Grenade, Silver
 
-This variant of a fuse grenade has most of the black powder replaced with metal pellets. When it explodes, it deals 1d6 points of bludgeoning damage, 1d6 points of piercing damage, and 1d6 points of fire damage in a 10-foot-radius burst (+5 vs Reflex; a miss halves). A typical pellet grenade uses iron pellets, but they can instead be packed with silver, cold iron, or adamantine, bypassing damage reduction as appropriate to that material type. Like ammunition, the pellets are destroyed after one use. Crafting a pellet grenade is a DC 25 [[rangoric-srd/skills/Craft|Craft]] (alchemy) check.
+This variant of a fuse grenade has most of the black powder replaced with metal pellets. When it explodes, it deals 1d6 points of bludgeoning damage, 1d6 points of piercing damage, and 1d6 points of fire damage in a 10-foot-radius burst (+5 vs Reflex; a miss halves). A typical pellet grenade uses iron pellets, but they can instead be packed with silver, cold iron, or adamantine, bypassing damage reduction as appropriate to that material type. Like ammunition, the pellets are destroyed after one use. Crafting a pellet grenade is a DC 25 [[rangoric-srd/skills/Background|Background]] (alchemy) check.
 
-[[rangoric-srd/skills/Craft|Craft]] (alchemy) DC 25; Price 70 gp; Weight 1 lb.
+[[rangoric-srd/skills/Background|Background]] (alchemy) DC 25; Price 70 gp; Weight 1 lb.

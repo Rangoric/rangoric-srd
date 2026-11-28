@@ -17,8 +17,8 @@ This fingerless leather glove includes four small pouches sewn along the knuckle
 
 Together, the four vials hold 1 dose of poison or ground minerals; there is no effect unless all four are full.
 
-**Dust Knuckle Vials (4)**: Price 5 gp, [[rangoric-srd/skills/Craft|Craft]] (alchemy) DC 15.
+**Dust Knuckle Vials (4)**: Price 5 gp, [[rangoric-srd/skills/Background|Background]] (alchemy) DC 15.
 
-**Diamond Dust Vials**: Price 25 gp, [[rangoric-srd/skills/Craft|Craft]] (alchemy) DC 25. Each of these vials is filled with finely ground mineral crystals. When you shatter a vial with your punch, the dust attacks the Reflex of the target you hit at +10, and on a hit it fails to shield its eyes and is blinded for 1 round.
+**Diamond Dust Vials**: Price 25 gp, [[rangoric-srd/skills/Background|Background]] (alchemy) DC 25. Each of these vials is filled with finely ground mineral crystals. When you shatter a vial with your punch, the dust attacks the Reflex of the target you hit at +10, and on a hit it fails to shield its eyes and is blinded for 1 round.
 
-[[rangoric-srd/skills/Craft|Craft]] (alchemy) DC 20; Price 25 gp; Weight 1/2 lb.
+[[rangoric-srd/skills/Background|Background]] (alchemy) DC 20; Price 25 gp; Weight 1/2 lb.

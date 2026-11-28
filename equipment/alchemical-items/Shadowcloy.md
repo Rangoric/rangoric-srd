@@ -18,4 +18,4 @@ tags: [rangoric, rangoric/alchemical-item]
 
 This thin black liquid is stored in airtight flasks because it evaporates quickly when exposed to air. Its cloying vapors cling to a target, obscuring vision for a short period of time. You can throw a shadowcloy flask as a [[rangoric-srd/monsters/abilities/Splash|splash weapon]] with a range increment of 10 feet. A direct hit means the target treats the ambient light as one category darker than normal, with a creature already in natural darkness treating it as supernatural darkness. This effect lasts for 1 round. A thrown shadowcloy flask has no effect on adjacent creatures or if it misses.
 
-[[rangoric-srd/skills/Craft|Craft]] (alchemy) DC 20; Price 25 gp; Weight 1 lb.
+[[rangoric-srd/skills/Background|Background]] (alchemy) DC 20; Price 25 gp; Weight 1 lb.

@@ -17,4 +17,4 @@ Also known as “alchemist's ice,” this sealed jar of crystalline blue fluid i
 
 Not the siege ammunition [[rangoric-srd/equipment/siege-engines/Liquid Ice (Siege Ammunition)|liquid ice]], a different thing with the same name.
 
-[[rangoric-srd/skills/Craft|Craft]] (alchemy) DC 25; Price 40 gp/flask; Weight 2 lb.
+[[rangoric-srd/skills/Background|Background]] (alchemy) DC 25; Price 40 gp/flask; Weight 2 lb.

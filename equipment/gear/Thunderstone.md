@@ -15,6 +15,6 @@ You can throw this stone as a ranged attack with a range increment of 20 feet. W
 
 Since you don’t need to hit a specific target, you can simply aim at a particular 5-foot square. Treat the target square as AC 5.
 
-It can be made by a character with the [[rangoric-srd/skills/Craft|Craft]] (alchemy) skill.
+It can be made by a character with the [[rangoric-srd/skills/Background|Background]] (alchemy) skill.
 
 Price 30 gp; Weight 1 lb.

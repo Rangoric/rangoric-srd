@@ -7,7 +7,7 @@ magical: false
 aura: "No aura"
 cl: "1st"
 prerequisites:
-  - "At least one rank in Craft (alchemy)"
+  - "At least one rank in Background (alchemy)"
 dc: "11"
 price: "12 gp/8 oz. flask"
 status: draft
@@ -23,6 +23,6 @@ Within the d20 game context, aqua regia is an odd creation that allows near-inst
 
 Aqua regia has a scent very similar to aqua clarissima, and could be mistaken as such if not for its translucent purple hue (DC 12 for alchemists’ identification) or the easily missed scent of lilacs beneath the smell of violets.
 
-**Construction**: No aura; CL 1st; At least one rank in [[rangoric-srd/skills/Craft|Craft]] (alchemy); DC: 11; Price: 12 gp/8 oz. flask
+**Construction**: No aura; CL 1st; At least one rank in [[rangoric-srd/skills/Background|Background]] (alchemy); DC: 11; Price: 12 gp/8 oz. flask
 
 An item of the alchemical and herbal catalog ([[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Item Categories and Definitions|categories]]); its entry follows the [[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Catalog Template|catalog template]].

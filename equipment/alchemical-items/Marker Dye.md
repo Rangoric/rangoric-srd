@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/alchemical-item]
 
 This dye (available in several colors) creates an obvious stain wherever it is splashed. Washing has no effect for the first 72 hours (though magic can erase it), but it fades completely after 2 weeks. You can throw it as a [[rangoric-srd/combat/Combat Special Attacks#Throw Splash Weapon|splash weapon]].
 
-[[rangoric-srd/skills/Craft|Craft]] (alchemy) DC 15; Price 15 gp; Weight 1 lb.
+[[rangoric-srd/skills/Background|Background]] (alchemy) DC 15; Price 15 gp; Weight 1 lb.

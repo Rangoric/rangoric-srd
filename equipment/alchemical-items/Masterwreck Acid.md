@@ -7,7 +7,7 @@ magical: false
 aura: "No aura"
 cl: "2nd"
 prerequisites:
-  - "At least one rank in Craft (alchemy)"
+  - "At least one rank in Background (alchemy)"
 dc: "14"
 price: "80 gp/ounce"
 status: draft
@@ -23,6 +23,6 @@ This acid could be a normal polishing agent in a blacksmith’s shop, though it 
 
 Many mages’ guilds have outlawed this substance and actively hunt and persecute any who sell this, so it is very hard to find (and thus more expensive). In fact, the guilds leave an open bounty on both those using this acid and those selling it to deter anyone from considering such activity.
 
-**Construction**: No aura; CL 2nd; At least one rank in [[rangoric-srd/skills/Craft|Craft]] (alchemy); DC: 14; Price: 80 gp/ounce
+**Construction**: No aura; CL 2nd; At least one rank in [[rangoric-srd/skills/Background|Background]] (alchemy); DC: 14; Price: 80 gp/ounce
 
 An item of the alchemical and herbal catalog ([[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Item Categories and Definitions|categories]]); its entry follows the [[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Catalog Template|catalog template]].

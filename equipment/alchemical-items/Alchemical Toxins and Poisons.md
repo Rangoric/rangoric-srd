@@ -26,6 +26,6 @@ The herbs of the [[rangoric-srd/equipment/herbs/Herbs|herbal catalog]] that are 
 
 ## Core Poisons
 
-The core poisons that [[rangoric-srd/skills/Craft|Craft]] (alchemy) or [[rangoric-srd/skills/Profession|Profession]] (apothecary or herbalist) can make without the [[rangoric-srd/feats/Craft Toxins|Craft Toxins]] feat ([[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Toxins|Toxins]]).
+The core poisons that [[rangoric-srd/skills/Background|Background]] (alchemy) or [[rangoric-srd/skills/Background|Background]] (apothecary or herbalist) can make without the [[rangoric-srd/feats/Craft Toxins|Craft Toxins]] feat ([[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Toxins|Toxins]]).
 
 ![[rangoric-srd/equipment/alchemical-items/Toxins Index.base#Core poisons]]

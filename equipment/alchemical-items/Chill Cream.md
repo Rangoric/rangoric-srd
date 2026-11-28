@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/alchemical-item]
 
 This sticky light blue paste grows pleasantly cool to the touch whenever it is exposed to light. Spreading a dose on your face and hands takes a full-round action and grants you a +2 alchemical bonus on defenses against [[rangoric-srd/rules/Wilderness, Weather, and Environment#Heat Dangers|hot weather]]. In areas of bright light this bonus increases to +4, while in areas of dim light or darkness it is negated. A dose of chill cream lasts for 1 hour after being applied. A newly crafted bottle of chill cream holds 5 doses.
 
-[[rangoric-srd/skills/Craft|Craft]] (alchemy) DC 15; Price 15 gp; Weight 1 lb.
+[[rangoric-srd/skills/Background|Background]] (alchemy) DC 15; Price 15 gp; Weight 1 lb.

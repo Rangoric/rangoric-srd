@@ -17,4 +17,4 @@ When preparing a spell, you can grind the spell's material components and mix th
 
 Woad paint is sold in small, concentrated blocks (costing 60 gp each) that must be ground into paste on a wooden or stone pallet with a small amount of water and material spell components. A typical kit contains a pallet and 5 blocks of paint. One block produces enough paint for 10 component designs or one stilled spell design. Woad paint has no benefit for a non-spellcaster.
 
-[[rangoric-srd/skills/Craft|Craft]] (alchemy) DC 30; Price 300 gp; Weight 1 lb.
+[[rangoric-srd/skills/Background|Background]] (alchemy) DC 30; Price 300 gp; Weight 1 lb.

@@ -8,7 +8,7 @@ magical: false
 aura: "No aura"
 cl: "7th"
 prerequisites:
-  - "Craft (alchemy)"
+  - "Background (alchemy)"
   - "Craft Unguents"
 dc: "21"
 price: "210 gp/oz"
@@ -25,6 +25,6 @@ Blackout oil douses normal and magical flames and lights upon contact, making it
 
 Blackout oil is commonly packaged in one-ounce glass globes for use as hand- or sling-propelled grenades (use grenade-like missiles rules), though it can also be purchased in glass or metal vials and poured out. Many richer cities use blackout oil to douse fires if conventional methods fail to stop them.
 
-**Construction**: No aura; CL 7th; [[rangoric-srd/skills/Craft|Craft]] (alchemy), [[rangoric-srd/feats/Craft Unguents|Craft Unguents]]; DC: 21; Price: 210 gp/oz.
+**Construction**: No aura; CL 7th; [[rangoric-srd/skills/Background|Background]] (alchemy), [[rangoric-srd/feats/Craft Unguents|Craft Unguents]]; DC: 21; Price: 210 gp/oz.
 
 An item of the alchemical and herbal catalog ([[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Item Categories and Definitions|categories]]); its entry follows the [[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Catalog Template|catalog template]].

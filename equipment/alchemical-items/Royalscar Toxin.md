@@ -8,7 +8,7 @@ magical: false
 aura: "No aura"
 cl: "5th"
 prerequisites:
-  - "At least one rank in Craft (alchemy) or Profession (herbalist)"
+  - "At least one rank in Background (alchemy) or Background (herbalist)"
 dc: "22"
 price: "120 gp/0.25 oz"
 affliction-type: "poison"
@@ -37,6 +37,6 @@ This poison is often used on arrows. The assassins’ guild uses it, not so much
 - **Frequency**: 1/minute for 2 minutes
 - **Effect**: [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] for 1d4 hours/1d2 Con drain
 
-**Construction**: No aura; CL 5th; At least one rank in [[rangoric-srd/skills/Craft|Craft]] (alchemy) or [[rangoric-srd/skills/Profession|Profession]] (herbalist); DC: 22; Price: 120 gp/0.25 oz.
+**Construction**: No aura; CL 5th; At least one rank in [[rangoric-srd/skills/Background|Background]] (alchemy) or [[rangoric-srd/skills/Background|Background]] (herbalist); DC: 22; Price: 120 gp/0.25 oz.
 
 An item of the alchemical and herbal catalog ([[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Item Categories and Definitions|categories]]); its entry follows the [[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Catalog Template|catalog template]].

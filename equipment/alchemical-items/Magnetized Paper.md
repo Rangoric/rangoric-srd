@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/alchemical-item]
 
 These specially charged sheets of parchment come in packages of seven. Each attempt at the [[rangoric-srd/skills/Linguistics#Automatic Writing|automatic writing]] occult skill unlock that uses a sheet adds 5% to the chance of producing meaningful writing, and uses up the sheet; only one sheet can be used per attempt.
 
-[[rangoric-srd/skills/Craft|Craft]] (alchemy) DC 15; Price 11 gp; Weight 1 lb.
+[[rangoric-srd/skills/Background|Background]] (alchemy) DC 15; Price 11 gp; Weight 1 lb.

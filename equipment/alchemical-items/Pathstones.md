@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/alchemical-item]
 
 Similar to [[rangoric-srd/equipment/gear/Sunrod|sunrods]], these small white pebbles are alchemically treated so that they shed a soft light once activated by striking them together. The glow is faint—just barely enough to illuminate the stone. Though not bright enough to serve as an effective light source, they can be placed in patterns to create messages or laid out in a path, marking it for others to follow.
 
-[[rangoric-srd/skills/Craft|Craft]] (alchemy) DC 25; Price 50 gp; Weight 1 lb.
+[[rangoric-srd/skills/Background|Background]] (alchemy) DC 25; Price 50 gp; Weight 1 lb.

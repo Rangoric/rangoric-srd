@@ -11,6 +11,6 @@ tags: [rangoric, rangoric/gear]
 
 # Copy of a Key
 
-An artisan can make a working copy of a key in an hour (making a duplicate that looks exactly like the original requires a skilled smith, a DC 25 [[rangoric-srd/skills/Craft|Craft]] check, and 1 day).
+An artisan can make a working copy of a key in an hour (making a duplicate that looks exactly like the original requires a skilled smith, a DC 25 [[rangoric-srd/skills/Background#Making Things|Background]] check to make things, and 1 day).
 
 Price 1 gp; Weight —.

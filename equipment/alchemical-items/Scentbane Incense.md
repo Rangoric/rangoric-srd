@@ -14,4 +14,4 @@ tags: [rangoric, rangoric/alchemical-item]
 
 Scentbane incense is a form of [[rangoric-srd/equipment/gear/Smokestick|smokestick]] that also blocks most scents. As long as the smoke lasts, creatures with the [[rangoric-srd/monsters/abilities/Scent|scent]] special ability must make [[rangoric-srd/skills/Perception|Perception]] checks, opposed by the [[rangoric-srd/skills/Stealth|Stealth]] checks of any creatures within the smoke, to use scent to locate creatures within the smoke. If a creature remains in scentbane incense for 5 rounds or more, the smoke clings to it for 1 round after it leaves, making it similarly difficult to find by scent during that time.
 
-[[rangoric-srd/skills/Craft|Craft]] (alchemy) DC 20; Price 80 gp.
+[[rangoric-srd/skills/Background|Background]] (alchemy) DC 20; Price 80 gp.

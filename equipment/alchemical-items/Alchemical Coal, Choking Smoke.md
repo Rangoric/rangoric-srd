@@ -18,4 +18,4 @@ A [[rangoric-srd/races/Kobold|kobold]] who chews and swallows this alchemically 
 
 This crumbling chunk of chalky white coal allows a [[rangoric-srd/races/Kobold|kobold]] to breathe a 15-foot cone of foul vapor that deals 1d6 points of acid damage and [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickens]] a creature for 1d4 rounds. The smoke attacks each creature’s Reflex at +5; on a miss, it takes half damage and is not sickened.
 
-[[rangoric-srd/skills/Craft|Craft]] (alchemy) DC 20; Price 50 gp.
+[[rangoric-srd/skills/Background|Background]] (alchemy) DC 20; Price 50 gp.
