@@ -30,6 +30,6 @@ If a salamander has damage reduction, its natural weapons are treated as magic w
 
 1/day - [[rangoric-srd/spells/Dispel Magic|dispel magic]], [[rangoric-srd/spells/Summon Monster VII|summon monster VII]] (Huge fire elemental).
 
-**Skills**: Salamanders have a +4 racial bonus on [[rangoric-srd/skills/Craft|Craft]] (blacksmithing) checks.
+**Skills**: Salamanders have a +4 racial bonus on [[rangoric-srd/skills/Background|Background]] (blacksmithing) checks.
 
 **Feats**: Salamanders have the [[rangoric-srd/feats/Multiattack|Multiattack]] feat even though they do not have the requisite three natural weapons.

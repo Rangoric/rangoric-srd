@@ -18,8 +18,8 @@ special-attacks: "Bardic performance 12 rounds/day (countersong, distraction, fa
 special-qualities: "Bardic knowledge +2, hold breath, versatile performance (percussion)"
 defenses: "Fort 17, Ref 16, Will 14 (+4 vs. bardic performance, language-dependent, and sonic)"
 abilities: "Str 18, Dex 12, Con 15, Int 9, Wis 8, Cha 14"
-skills: "Acrobatics +14, Athletics +16, Intimidation +15, Perception +8, Perform (percussion) +11"
-skill-ranks: "Acrobatics 6, Athletics 9, Intimidation 10, Perception 6, Perform (percussion) 9"
+skills: "Acrobatics +14, Athletics +16, Intimidation +15, Perception +8, Performance (percussion instruments) +14"
+skill-ranks: "Acrobatics 6, Athletics 9, Intimidation 10, Perception 6, Performance (percussion instruments) 9"
 feats: "Dazzling Display, Intimidating Prowess, Weapon Focus (club)"
 environment: "Temperate swamps"
 organization: "Solitary, or with other lizardfolk (see Lizardfolk)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Bard#^bardic-knowledge|Bardic knowledge]] +2, [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]], [[rangoric-srd/classes/Bard#^bard-versatile-performance|versatile performance]] (percussion)
 - **Defenses**: Fort 17, Ref 16, Will 14 (+4 vs. bardic performance, language-dependent, and sonic)
 - **Abilities**: Str 18, Dex 12, Con 15, Int 9, Wis 8, Cha 14
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +16, [[rangoric-srd/skills/Intimidation|Intimidation]] +15, [[rangoric-srd/skills/Perception|Perception]] +8, Perform (percussion) +11
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +16, [[rangoric-srd/skills/Intimidation|Intimidation]] +15, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Performance|Performance]] (percussion instruments) +14
 - **Feats**: [[rangoric-srd/feats/Dazzling Display|Dazzling Display]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (club)
 - **Environment**: Temperate swamps
 - **Organization**: Solitary, or with other lizardfolk (see [[rangoric-srd/monsters/lizardfolk/Lizardfolk|Lizardfolk]])

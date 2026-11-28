@@ -18,8 +18,8 @@ special-attacks: "Spell-like abilities"
 special-qualities: "Low-light vision, amphibious, wild empathy +14, damage reduction 5/cold iron, spell resistance 12"
 defenses: "Fort 11, Ref 16, Will 14"
 abilities: "Str 7, Dex 16, Con 13, Int 12, Wis 13, Cha 18"
-skills: "Animal Handling +6, Athletics +10, Craft (any one) +5, Deception +9, Escape Artist +8, Perception +6, Performance (sing) +8, Sense Motive +5, Stealth +12"
-skill-ranks: "Animal Handling 2, Athletics 9, Craft (any one) 1, Deception 2, Escape Artist 2, Perception 2, Performance (sing) 4, Sense Motive 1, Stealth 2"
+skills: "Animal Handling +6, Athletics +10, Background (any one craft) +5, Deception +9, Escape Artist +8, Perception +6, Performance (sing) +11, Sense Motive +5, Stealth +12"
+skill-ranks: "Animal Handling 2, Athletics 9, Background (any one craft) 1, Deception 2, Escape Artist 2, Perception 2, Performance (sing) 4, Sense Motive 1, Stealth 2"
 feats: "Weapon Finesse"
 environment: "Temperate water"
 organization: "Gang (2–4), band (6–11), or tribe (20–80)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], wild empathy +14, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 12
 - **Defenses**: Fort 11, Ref 16, Will 14
 - **Abilities**: Str 7, Dex 16, Con 13, Int 12, Wis 13, Cha 18
-- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Craft|Craft]] (any one) +5, [[rangoric-srd/skills/Deception|Deception]] +9, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +8, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Performance|Performance]] (sing) +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +12
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Background|Background]] (any one craft) +5, [[rangoric-srd/skills/Deception|Deception]] +9, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +8, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Performance|Performance]] (sing) +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +12
 - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
 - **Environment**: Temperate water
 - **Organization**: Gang (2–4), band (6–11), or tribe (20–80)

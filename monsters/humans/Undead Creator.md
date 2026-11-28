@@ -18,8 +18,8 @@ special-attacks: "Channel negative energy (+7 vs Will, 8/day)"
 special-qualities: "Darkvision 60 ft., see invisibility, arcane bond (rat), life sight (10 feet, 11 rounds/day), resistance to fire 30"
 defenses: "Fort 20, Ref 16, Will 20"
 abilities: "Str 10, Dex 12, Con 16, Int 20, Wis 8, Cha 14"
-skills: "Acrobatics +5, Arcana +19, Craft (alchemy) +19, Dungeoneering +13, Engineering +13, Intimidation +7, Medicine +4, Mysticism +19, Nature +13, Perception +4, Society +13, Theology +18"
-skill-ranks: "Acrobatics 1, Arcana 11, Craft (alchemy) 11, Dungeoneering 5, Engineering 5, Intimidation 2, Medicine 2, Mysticism 11, Nature 5, Perception 2, Society 5, Theology 10"
+skills: "Acrobatics +5, Arcana +19, Background (alchemy) +19, Dungeoneering +13, Engineering +13, Intimidation +7, Medicine +4, Mysticism +19, Nature +13, Perception +4, Society +13, Theology +18"
+skill-ranks: "Acrobatics 1, Arcana 11, Background (alchemy) 11, Dungeoneering 5, Engineering 5, Intimidation 2, Medicine 2, Mysticism 11, Nature 5, Perception 2, Society 5, Theology 10"
 feats: "Brew Potion, Combat Casting, Command Undead, Craft Wondrous Item, Greater Spell Focus (necromancy), Improved Channel, Improved Initiative, Iron Will, Scribe Scroll, Spell Focus (necromancy), Toughness"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., _[[rangoric-srd/spells/See Invisibility|see invisibility]]_, [[rangoric-srd/classes/Wizard#^wizard-arcane-bond|arcane bond]] (rat), [[rangoric-srd/class-options/arcane-schools/Necromancy School|life sight]] (10 feet, 11 rounds/day), [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 30
 - **Defenses**: Fort 20, Ref 16, Will 20
 - **Abilities**: Str 10, Dex 12, Con 16, Int 20, Wis 8, Cha 14
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Arcana|Arcana]] +19, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +19, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +13, [[rangoric-srd/skills/Engineering|Engineering]] +13, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Medicine|Medicine]] +4, [[rangoric-srd/skills/Mysticism|Mysticism]] +19, [[rangoric-srd/skills/Nature|Nature]] +13, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Society|Society]] +13, [[rangoric-srd/skills/Theology|Theology]] +18
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Arcana|Arcana]] +19, [[rangoric-srd/skills/Background|Background]] (alchemy) +19, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +13, [[rangoric-srd/skills/Engineering|Engineering]] +13, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Medicine|Medicine]] +4, [[rangoric-srd/skills/Mysticism|Mysticism]] +19, [[rangoric-srd/skills/Nature|Nature]] +13, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Society|Society]] +13, [[rangoric-srd/skills/Theology|Theology]] +18
 - **Feats**: [[rangoric-srd/feats/Brew Potion|Brew Potion]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Command Undead (Feat)|Command Undead]], [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Greater Spell Focus|Greater Spell Focus]] (necromancy), [[rangoric-srd/feats/Improved Channel|Improved Channel]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (necromancy), [[rangoric-srd/feats/Toughness|Toughness]]
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/humans/Human|Human]])

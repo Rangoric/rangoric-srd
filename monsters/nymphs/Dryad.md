@@ -17,8 +17,8 @@ special-attacks: "Spell-like abilities"
 special-qualities: "Low-light vision, tree meld, wild empathy, woodcraft, damage reduction 5/cold iron, tree dependent"
 defenses: "Fort 15, Ref 19, Will 17"
 abilities: "Str 10, Dex 19, Con 13, Int 14, Wis 15, Cha 18"
-skills: "Animal Handling +10, Athletics +9, Craft (sculpture) +11, Escape Artist +13, Fieldcraft +8, Nature +11, Perception +11, Stealth +16"
-skill-ranks: "Animal Handling 3, Athletics 6, Craft (sculpture) 6, Escape Artist 8, Fieldcraft 3, Nature 6, Perception 6, Stealth 8"
+skills: "Animal Handling +10, Athletics +9, Background (sculpting) +11, Escape Artist +13, Fieldcraft +8, Nature +11, Perception +11, Stealth +16"
+skill-ranks: "Animal Handling 3, Athletics 6, Background (sculpting) 6, Escape Artist 8, Fieldcraft 3, Nature 6, Perception 6, Stealth 8"
 feats: "Great Fortitude, Weapon Finesse, Skill Focus (Stealth)"
 environment: "Temperate forests"
 organization: "Solitary, pair, or grove (3–8)"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Tree Meld|tree meld]], wild empathy, [[rangoric-srd/monsters/abilities/Woodcraft|woodcraft]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron, tree dependent
 - **Defenses**: Fort 15, Ref 19, Will 17
 - **Abilities**: Str 10, Dex 19, Con 13, Int 14, Wis 15, Cha 18
-- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Craft|Craft]] (sculpture) +11, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +13, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8, [[rangoric-srd/skills/Nature|Nature]] +11, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +16
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Background|Background]] (sculpting) +11, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +13, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8, [[rangoric-srd/skills/Nature|Nature]] +11, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +16
 - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
 - **Environment**: Temperate forests
 - **Organization**: Solitary, pair, or grove (3–8)
@@ -78,4 +78,4 @@ Shy, intelligent, and resolute, dryads are as elusive as they are alluring—the
 
 **Wild Empathy (Su)**: This works like the druid's wild empathy class feature, except the dryad has a +6 racial bonus on the check. Dryads with druid levels add this racial modifier to their wild empathy checks.
 
-**[[rangoric-srd/monsters/abilities/Woodcraft|Woodcraft]] (Ex)**: A dryad has a +6 racial bonus to Craft checks involving wood, and is always treated as if she had masterwork artisan's woodworking tools when making such checks.
+**[[rangoric-srd/monsters/abilities/Woodcraft|Woodcraft]] (Ex)**: A dryad has a +6 racial bonus to Background checks to make things involving wood, and is always treated as if she had masterwork artisan's woodworking tools when making such checks.

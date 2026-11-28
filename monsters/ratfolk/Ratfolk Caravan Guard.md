@@ -18,8 +18,8 @@ special-attacks: "Combat style (archery), favored enemy (magical beasts +2), swa
 special-qualities: "Low-light vision, favored terrain (desert +2), hunter's bond (animal companion, riding rat), [[rangoric-srd/races/racial-traits/Surface Sprinter|surface sprinter]], track +2, wild empathy +4"
 defenses: "Fort 15, Ref 17, Will 13"
 abilities: "Str 12, Dex 17, Con 12, Int 10, Wis 14, Cha 10"
-skills: "Animal Handling +10, Athletics +6, Craft (alchemy) +2, Dungeoneering +5, Emulation +2, Fieldcraft +9, Nature +5, Perception +11, Society +5, Stealth +14"
-skill-ranks: "Animal Handling 4, Athletics 2, Craft (alchemy) 2, Dungeoneering 2, Emulation 2, Fieldcraft 4, Nature 2, Perception 6, Society 2, Stealth 4"
+skills: "Animal Handling +10, Athletics +6, Background (alchemy) +5, Dungeoneering +5, Emulation +2, Fieldcraft +9, Nature +5, Perception +11, Society +5, Stealth +14"
+skill-ranks: "Animal Handling 4, Athletics 2, Background (alchemy) 2, Dungeoneering 2, Emulation 2, Fieldcraft 4, Nature 2, Perception 6, Society 2, Stealth 4"
 feats: "Endurance, Point Blank Shot, Precise Shot, Rapid Shot, Track"
 environment: "Warm deserts or urban"
 organization: "Solitary, or with other ratfolk (see Ratfolk)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|favored terrain]] (desert +2), [[rangoric-srd/classes/Ranger#^ranger-hunters-bond|hunter's bond]] (animal companion, riding rat), [[rangoric-srd/races/racial-traits/Surface Sprinter|surface sprinter]], [[rangoric-srd/classes/Ranger#^ranger-track|track]] +2, [[rangoric-srd/classes/Ranger#^ranger-wild-empathy|wild empathy]] +4
 - **Defenses**: Fort 15, Ref 17, Will 13
 - **Abilities**: Str 12, Dex 17, Con 12, Int 10, Wis 14, Cha 10
-- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +2, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +5, [[rangoric-srd/skills/Emulation|Emulation]] +2, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +9, [[rangoric-srd/skills/Nature|Nature]] +5, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Society|Society]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +14
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Background|Background]] (alchemy) +5, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +5, [[rangoric-srd/skills/Emulation|Emulation]] +2, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +9, [[rangoric-srd/skills/Nature|Nature]] +5, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Society|Society]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +14
 - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Track|Track]]
 - **Environment**: Warm deserts or urban
 - **Organization**: Solitary, or with other ratfolk (see [[rangoric-srd/monsters/ratfolk/Ratfolk|Ratfolk]])

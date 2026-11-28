@@ -18,8 +18,8 @@ special-attacks: "Channel positive energy 7/day (+6 vs Will, 5d6), swarming, reb
 special-qualities: "Darkvision 60 ft., agile feet (7/day), aura of protection (+1 deflection, energy resistance 5, 9 rounds/day), +10 base speed from Travel domain, freedom of movement (9 rounds/day)"
 defenses: "Fort 22, Ref 15, Will 22"
 abilities: "Str 10, Dex 10, Con 14, Int 12, Wis 18, Cha 14"
-skills: "Appraise +5, Craft (alchemy) +3, Emulation +4, Medicine +12, Perception +6, Persuasion +14, Sense Motive +14, Theology +9"
-skill-ranks: "Appraise 1, Craft (alchemy) 2, Emulation 0, Medicine 5, Perception 0, Persuasion 9, Sense Motive 7, Theology 5"
+skills: "Appraise +5, Background (alchemy) +6, Emulation +4, Medicine +12, Perception +6, Persuasion +14, Sense Motive +14, Theology +9"
+skill-ranks: "Appraise 1, Background (alchemy) 2, Emulation 0, Medicine 5, Perception 0, Persuasion 9, Sense Motive 7, Theology 5"
 feats: "Extra Channel, Great Fortitude, Improved Initiative, Selective Channeling, Toughness"
 environment: "Warm deserts or urban"
 organization: "Solitary, or with other ratfolk (see Ratfolk)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/class-options/domains/Travel Domain|agile feet]] (7/day), [[rangoric-srd/class-options/domains/Protection Domain|aura of protection]] (+1 deflection, energy [[rangoric-srd/monsters/abilities/Resistance|resistance]] 5, 9 rounds/day), +10 base speed from [[rangoric-srd/class-options/domains/Travel Domain|Travel domain]], [[rangoric-srd/class-options/domains/Travel Domain|freedom of movement]] (9 rounds/day)
 - **Defenses**: Fort 22, Ref 15, Will 22
 - **Abilities**: Str 10, Dex 10, Con 14, Int 12, Wis 18, Cha 14
-- **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +5, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +3, [[rangoric-srd/skills/Emulation|Emulation]] +4, [[rangoric-srd/skills/Medicine|Medicine]] +12, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Persuasion|Persuasion]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14, [[rangoric-srd/skills/Theology|Theology]] +9
+- **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +5, [[rangoric-srd/skills/Background|Background]] (alchemy) +6, [[rangoric-srd/skills/Emulation|Emulation]] +4, [[rangoric-srd/skills/Medicine|Medicine]] +12, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Persuasion|Persuasion]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14, [[rangoric-srd/skills/Theology|Theology]] +9
 - **Feats**: [[rangoric-srd/feats/Extra Channel|Extra Channel]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Selective Channeling|Selective Channeling]], [[rangoric-srd/feats/Toughness|Toughness]]
 - **Environment**: Warm deserts or urban
 - **Organization**: Solitary, or with other ratfolk (see [[rangoric-srd/monsters/ratfolk/Ratfolk|Ratfolk]])

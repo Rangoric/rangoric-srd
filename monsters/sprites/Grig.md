@@ -17,7 +17,7 @@ special-attacks: "Fiddle, spell-like abilities"
 special-qualities: "Low-light vision, damage reduction 5/cold iron, spell resistance 16"
 defenses: "Fort 11, Ref 16, Will 13"
 abilities: "Str 5, Dex 18, Con 13, Int 10, Wis 13, Cha 14"
-skills: "Acrobatics +12, Athletics –3 (+12 jumping), Escape Artist +8, Perception +5, Performance (string instruments) +6, Stealth +16"
+skills: "Acrobatics +12, Athletics –3 (+12 jumping), Escape Artist +8, Perception +5, Performance (string instruments) +9, Stealth +16"
 skill-ranks: "Acrobatics 1, Athletics 0, Escape Artist 1, Perception 1, Performance (string instruments) 3, Stealth 1"
 feats: "Dodge"
 environment: "Temperate forests"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 16
 - **Defenses**: Fort 11, Ref 16, Will 13
 - **Abilities**: Str 5, Dex 18, Con 13, Int 10, Wis 13, Cha 14
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Athletics|Athletics]] –3 (+12 jumping), [[rangoric-srd/skills/Escape Artist|Escape Artist]] +8, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Performance|Performance]] (string instruments) +6, [[rangoric-srd/skills/Stealth|Stealth]] +16
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Athletics|Athletics]] –3 (+12 jumping), [[rangoric-srd/skills/Escape Artist|Escape Artist]] +8, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Performance|Performance]] (string instruments) +9, [[rangoric-srd/skills/Stealth|Stealth]] +16
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]]
 - **Environment**: Temperate forests
 - **Organization**: Solitary, gang (2–5), band (6–11), or tribe (20–80)

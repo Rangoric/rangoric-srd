@@ -18,8 +18,8 @@ special-attacks: "—"
 special-qualities: "Darkvision 60 ft., bravery +1, armor training 1, crafty, light sensitivity"
 defenses: "Fort 14, Ref 15, Will 11 (+1 vs. fear)"
 abilities: "Str 10, Dex 18, Con 10, Int 13, Wis 10, Cha 8"
-skills: "Craft (trapmaking) +3, Dungeoneering +8, Intimidation +6, Perception +2, Profession (miner) +2, Stealth +13"
-skill-ranks: "Craft (trapmaking) 2, Dungeoneering 4, Intimidation 4, Perception 2, Profession (miner) 1, Stealth 2"
+skills: "Background (trapmaking) +6, Dungeoneering +8, Intimidation +6, Perception +2, Background (miner) +6, Stealth +13"
+skill-ranks: "Background (trapmaking) 2, Dungeoneering 4, Intimidation 4, Perception 2, Background (miner) 1, Stealth 2"
 feats: "Combat Expertise, Improved Dirty Trick, Weapon Finesse, Weapon Focus (rapier), Weapon Specialization (rapier)"
 environment: "Temperate underground or deep forest"
 organization: "Solitary, or with other kobolds (see Kobold)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +1, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1, [[rangoric-srd/races/Kobold|crafty]], [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
 - **Defenses**: Fort 14, Ref 15, Will 11 (+1 vs. fear)
 - **Abilities**: Str 10, Dex 18, Con 10, Int 13, Wis 10, Cha 8
-- **Skills**: [[rangoric-srd/skills/Craft|Craft]] (trapmaking) +3, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Perception|Perception]] +2, [[rangoric-srd/skills/Profession|Profession]] (miner) +2, [[rangoric-srd/skills/Stealth|Stealth]] +13
+- **Skills**: [[rangoric-srd/skills/Background|Background]] (trapmaking) +6, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Perception|Perception]] +2, [[rangoric-srd/skills/Background|Background]] (miner) +6, [[rangoric-srd/skills/Stealth|Stealth]] +13
 - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Improved Dirty Trick|Improved Dirty Trick]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (rapier), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (rapier)
 - **Environment**: Temperate underground or deep forest
 - **Organization**: Solitary, or with other kobolds (see [[rangoric-srd/monsters/kobolds/Kobold|Kobold]])

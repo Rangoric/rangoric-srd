@@ -18,8 +18,8 @@ special-attacks: "Sneak attack +1d6, swarming"
 special-qualities: "Darkvision 60 ft., evasion, rogue talents (combat trick), trapfinding +1, finesse training"
 defenses: "Fort 11, Ref 16, Will 9"
 abilities: "Str 10, Dex 17, Con 13, Int 16, Wis 8, Cha 10"
-skills: "Acrobatics +8, Appraise +8, Athletics +5 (+1 jumping), Craft (alchemy) +5, Dungeoneering +7, Emulation +7, Engineering +11, Escape Artist +8, Perception +6, Sleight of Hand +8, Society +7, Stealth +12"
-skill-ranks: "Acrobatics 2, Appraise 2, Athletics 2, Craft (alchemy) 2, Dungeoneering 1, Emulation 4, Engineering 5, Escape Artist 2, Perception 4, Sleight of Hand 2, Society 1, Stealth 2"
+skills: "Acrobatics +8, Appraise +8, Athletics +5 (+1 jumping), Background (alchemy) +8, Dungeoneering +7, Emulation +7, Engineering +11, Escape Artist +8, Perception +6, Sleight of Hand +8, Society +7, Stealth +12"
+skill-ranks: "Acrobatics 2, Appraise 2, Athletics 2, Background (alchemy) 2, Dungeoneering 1, Emulation 4, Engineering 5, Escape Artist 2, Perception 4, Sleight of Hand 2, Society 1, Stealth 2"
 feats: "Improved Initiative, Weapon Finesse, Weapon Focus (dagger)"
 environment: "Warm deserts or urban"
 organization: "Solitary, or with other ratfolk (see Ratfolk)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Rogue#^rogue-evasion|evasion]], [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]] ([[rangoric-srd/class-options/rogue-talents/Combat Trick (Rogue Talent)|combat trick]]), [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +1, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]]
 - **Defenses**: Fort 11, Ref 16, Will 9
 - **Abilities**: Str 10, Dex 17, Con 13, Int 16, Wis 8, Cha 10
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Appraise|Appraise]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +5 (+1 jumping), [[rangoric-srd/skills/Craft|Craft]] (alchemy) +5, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +7, [[rangoric-srd/skills/Emulation|Emulation]] +7, [[rangoric-srd/skills/Engineering|Engineering]] +11, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +8, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +8, [[rangoric-srd/skills/Society|Society]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +12
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Appraise|Appraise]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +5 (+1 jumping), [[rangoric-srd/skills/Background|Background]] (alchemy) +8, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +7, [[rangoric-srd/skills/Emulation|Emulation]] +7, [[rangoric-srd/skills/Engineering|Engineering]] +11, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +8, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +8, [[rangoric-srd/skills/Society|Society]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +12
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (dagger)
 - **Environment**: Warm deserts or urban
 - **Organization**: Solitary, or with other ratfolk (see [[rangoric-srd/monsters/ratfolk/Ratfolk|Ratfolk]])

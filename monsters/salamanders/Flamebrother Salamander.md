@@ -21,8 +21,8 @@ special-attacks: "Constrict 1d4 plus 1d6 fire, heat, improved grab"
 special-qualities: "Darkvision 60 ft., immunity to fire, vulnerability to cold"
 defenses: "Fort 16, Ref 15, Will 16"
 abilities: "Str 12, Dex 13, Con 14, Int 14, Wis 15, Cha 13"
-skills: "Craft (blacksmithing) +9, Perception +12, Stealth +12"
-skill-ranks: "Craft (blacksmithing) 4, Perception 4, Stealth 4"
+skills: "Background (blacksmithing) +9, Perception +12, Stealth +12"
+skill-ranks: "Background (blacksmithing) 4, Perception 4, Stealth 4"
 feats: "Multiattack, Skill Focus (Perception)"
 environment: "Elemental Plane of Fire"
 organization: "Solitary, pair, or cluster (3–5)"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: Darkvision 60 ft., immunity to fire, [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to cold]]
 - **Defenses**: Fort 16, Ref 15, Will 16
 - **Abilities**: Str 12, Dex 13, Con 14, Int 14, Wis 15, Cha 13
-- **Skills**: [[rangoric-srd/skills/Craft|Craft]] (blacksmithing) +9, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +12
+- **Skills**: [[rangoric-srd/skills/Background|Background]] (blacksmithing) +9, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +12
 - **Unspent Skill Points**: 28
 - **Feats**: [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
 - **Environment**: Elemental Plane of Fire

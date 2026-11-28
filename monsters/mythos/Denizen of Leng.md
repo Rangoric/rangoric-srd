@@ -18,8 +18,8 @@ special-attacks: "Sneak attack +5d6, spell-like abilities"
 special-qualities: "Darkvision 60 ft., planar fast healing 5, no breath, unusual anatomy, immunity to poison, resistance to cold 30 and electricity 30, spell resistance 19"
 defenses: "Fort 21, Ref 21, Will 16"
 abilities: "Str 14, Dex 18, Con 19, Int 18, Wis 17, Cha 21"
-skills: "Deception +24, Emulation +18, Engineering +14, Imitation +10 (+16 as humanoid), Intimidation +10, Knowledge +17, Mysticism +12, Perception +16, Persuasion +8, Profession (sailor) +8, Sense Motive +16, Sleight of Hand +17, Stealth +17"
-skill-ranks: "Deception 14, Emulation 10, Engineering 7, Imitation 4, Intimidation 4, Knowledge 10, Mysticism 5, Perception 10, Persuasion 2, Profession (sailor) 1, Sense Motive 10, Sleight of Hand 10, Stealth 10"
+skills: "Deception +24, Emulation +18, Engineering +14, Imitation +10 (+16 as humanoid), Intimidation +10, Knowledge +17, Mysticism +12, Perception +16, Persuasion +8, Background (sailor) +9, Sense Motive +16, Sleight of Hand +17, Stealth +17"
+skill-ranks: "Deception 14, Emulation 10, Engineering 7, Imitation 4, Intimidation 4, Knowledge 10, Mysticism 5, Perception 10, Persuasion 2, Background (sailor) 1, Sense Motive 10, Sleight of Hand 10, Stealth 10"
 feats: "Dodge, Mobility, Weapon Finesse, Skill Focus (Deception, Persuasion)"
 environment: "Any land"
 organization: "Solitary, gang (2–5), or crew (6–15)"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., planar [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, [[rangoric-srd/monsters/abilities/No Breath|no breath]], unusual anatomy, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 30 and electricity 30, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 19
 - **Defenses**: Fort 21, Ref 21, Will 16
 - **Abilities**: Str 14, Dex 18, Con 19, Int 18, Wis 17, Cha 21
-- **Skills**: [[rangoric-srd/skills/Deception|Deception]] +24, [[rangoric-srd/skills/Emulation|Emulation]] +18, [[rangoric-srd/skills/Engineering|Engineering]] +14, [[rangoric-srd/skills/Imitation|Imitation]] +10 (+16 as humanoid), [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Knowledge|Knowledge]] +17, [[rangoric-srd/skills/Mysticism|Mysticism]] +12, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Persuasion|Persuasion]] +8, [[rangoric-srd/skills/Profession|Profession]] (sailor) +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +17
+- **Skills**: [[rangoric-srd/skills/Deception|Deception]] +24, [[rangoric-srd/skills/Emulation|Emulation]] +18, [[rangoric-srd/skills/Engineering|Engineering]] +14, [[rangoric-srd/skills/Imitation|Imitation]] +10 (+16 as humanoid), [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Knowledge|Knowledge]] +17, [[rangoric-srd/skills/Mysticism|Mysticism]] +12, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Persuasion|Persuasion]] +8, [[rangoric-srd/skills/Background|Background]] (sailor) +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +17
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception, Persuasion)
 - **Environment**: Any land
 - **Organization**: Solitary, gang (2–5), or crew (6–15)

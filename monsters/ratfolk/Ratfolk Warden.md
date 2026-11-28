@@ -18,8 +18,8 @@ special-attacks: "Swarming, weapon training (flails +1)"
 special-qualities: "Darkvision 60 ft., bravery +1, armor training 1"
 defenses: "Fort 17, Ref 14, Will 12 (+1 vs. fear)"
 abilities: "Str 14, Dex 15, Con 14, Int 14, Wis 10, Cha 8"
-skills: "Animal Handling +4, Athletics +8, Craft (alchemy) +4, Dungeoneering +7, Emulation +1, Engineering +7, Fieldcraft +7, Intimidation +7, Perception +2"
-skill-ranks: "Animal Handling 2, Athletics 3, Craft (alchemy) 2, Dungeoneering 2, Emulation 2, Engineering 2, Fieldcraft 4, Intimidation 5, Perception 2"
+skills: "Animal Handling +4, Athletics +8, Background (alchemy) +7, Dungeoneering +7, Emulation +1, Engineering +7, Fieldcraft +7, Intimidation +7, Perception +2"
+skill-ranks: "Animal Handling 2, Athletics 3, Background (alchemy) 2, Dungeoneering 2, Emulation 2, Engineering 2, Fieldcraft 4, Intimidation 5, Perception 2"
 feats: "Combat Expertise, Improved Disarm, Improved Trip, Sharptooth, Weapon Focus (flail), Weapon Specialization (flail)"
 environment: "Warm deserts or urban"
 organization: "Solitary, or with other ratfolk (see Ratfolk)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +1, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1
 - **Defenses**: Fort 17, Ref 14, Will 12 (+1 vs. fear)
 - **Abilities**: Str 14, Dex 15, Con 14, Int 14, Wis 10, Cha 8
-- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +4, [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +4, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +7, [[rangoric-srd/skills/Emulation|Emulation]] +1, [[rangoric-srd/skills/Engineering|Engineering]] +7, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Perception|Perception]] +2
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +4, [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Background|Background]] (alchemy) +7, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +7, [[rangoric-srd/skills/Emulation|Emulation]] +1, [[rangoric-srd/skills/Engineering|Engineering]] +7, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Perception|Perception]] +2
 - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Improved Trip|Improved Trip]], [[rangoric-srd/feats/Sharptooth|Sharptooth]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (flail), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (flail)
 - **Environment**: Warm deserts or urban
 - **Organization**: Solitary, or with other ratfolk (see [[rangoric-srd/monsters/ratfolk/Ratfolk|Ratfolk]])

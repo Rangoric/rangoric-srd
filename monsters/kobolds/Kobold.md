@@ -18,8 +18,8 @@ special-attacks: "—"
 special-qualities: "Darkvision 60 ft., crafty, light sensitivity"
 defenses: "Fort 12, Ref 11, Will 9"
 abilities: "Str 9, Dex 13, Con 10, Int 10, Wis 9, Cha 8"
-skills: "Craft (trapmaking) +6, Perception +5, Stealth +5"
-skill-ranks: "Craft (trapmaking) 3, Perception 1, Stealth 0"
+skills: "Background (trapmaking) +6, Perception +5, Stealth +5"
+skill-ranks: "Background (trapmaking) 3, Perception 1, Stealth 0"
 feats: "Skill Focus (Perception)"
 environment: "Temperate underground or deep forest"
 organization: "Solitary, gang (2–4), nest (5–30 plus equal number of noncombatants, 1 sergeant of 3rd level per 20 adults, and 1 leader of 4th–6th level), tribe (31–300 plus 35% noncombatants, 1 sergeant of 3rd level per 20 adults, 2 lieutenants of 4th level, 1 leader of 6th–8th level, and 5–16 dire rats), band (10–100 plus 100% noncombatants plus 1 3rd-level sergeant per 20 adults and 1 leader of 4th–6th level), or warband (10–24 plus 2–4 dire weasels)"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., crafty, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
 - **Defenses**: Fort 12, Ref 11, Will 9
 - **Abilities**: Str 9, Dex 13, Con 10, Int 10, Wis 9, Cha 8
-- **Skills**: [[rangoric-srd/skills/Craft|Craft]] (trapmaking) +6, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +5
+- **Skills**: [[rangoric-srd/skills/Background|Background]] (trapmaking) +6, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +5
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
 - **Environment**: Temperate underground or deep forest
 - **Organization**: Solitary, gang (2–4), nest (5–30 plus equal number of noncombatants, 1 sergeant of 3rd level per 20 adults, and 1 leader of 4th–6th level), tribe (31–300 plus 35% noncombatants, 1 sergeant of 3rd level per 20 adults, 2 lieutenants of 4th level, 1 leader of 6th–8th level, and 5–16 dire rats), band (10–100 plus 100% noncombatants plus 1 3rd-level sergeant per 20 adults and 1 leader of 4th–6th level), or warband (10–24 plus 2–4 dire weasels)
@@ -111,7 +111,7 @@ Kobolds like to attack with overwhelming odds - at least two to one - or tricker
 
 They begin a fight by slinging bullets, closing only when they can see that their foes have been weakened. Whenever they can, kobolds set up ambushes near trapped areas.
 
-**Crafty (Ex)**: Craft (trapmaking) and Stealth are always class skills for a kobold.
+**Crafty (Ex)**: Background (trapmaking) and Stealth are always class skills for a kobold.
 
 ### Kobold Characters
 

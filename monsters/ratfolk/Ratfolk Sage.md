@@ -18,8 +18,8 @@ special-attacks: "Swarming"
 special-qualities: "Darkvision 60 ft., arcane bond (staff), forewarned"
 defenses: "Fort 16, Ref 15, Will 18"
 abilities: "Str 6, Dex 14, Con 13, Int 20, Wis 14, Cha 10"
-skills: "Appraise +15, Arcana +12, Athletics +6, Craft (alchemy) +7, Linguistics +15, Mysticism +15, Perception +4, Society +12, Stealth +13, Theology +12"
-skill-ranks: "Appraise 7, Arcana 4, Athletics 0, Craft (alchemy) 2, Linguistics 7, Mysticism 7, Perception 0, Society 4, Stealth 4, Theology 4"
+skills: "Appraise +15, Arcana +12, Athletics +6, Background (alchemy) +10, Linguistics +15, Mysticism +15, Perception +4, Society +12, Stealth +13, Theology +12"
+skill-ranks: "Appraise 7, Arcana 4, Athletics 0, Background (alchemy) 2, Linguistics 7, Mysticism 7, Perception 0, Society 4, Stealth 4, Theology 4"
 feats: "Craft Wondrous Item, Great Fortitude, Improved Initiative, Scribe Scroll, Spell Penetration, Toughness"
 environment: "Warm deserts or urban"
 organization: "Solitary, or with other ratfolk (see Ratfolk)"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Wizard#^wizard-arcane-bond|arcane bond]] (staff), [[rangoric-srd/class-options/arcane-schools/Divination School|forewarned]]
 - **Defenses**: Fort 16, Ref 15, Will 18
 - **Abilities**: Str 6, Dex 14, Con 13, Int 20, Wis 14, Cha 10
-- **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +15, [[rangoric-srd/skills/Arcana|Arcana]] +12, [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +7, [[rangoric-srd/skills/Linguistics|Linguistics]] +15, [[rangoric-srd/skills/Mysticism|Mysticism]] +15, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Society|Society]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +13, [[rangoric-srd/skills/Theology|Theology]] +12
+- **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +15, [[rangoric-srd/skills/Arcana|Arcana]] +12, [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Background|Background]] (alchemy) +10, [[rangoric-srd/skills/Linguistics|Linguistics]] +15, [[rangoric-srd/skills/Mysticism|Mysticism]] +15, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Society|Society]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +13, [[rangoric-srd/skills/Theology|Theology]] +12
 - **Feats**: [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]], [[rangoric-srd/feats/Spell Penetration|Spell Penetration]], [[rangoric-srd/feats/Toughness|Toughness]]
 - **Environment**: Warm deserts or urban
 - **Organization**: Solitary, or with other ratfolk (see [[rangoric-srd/monsters/ratfolk/Ratfolk|Ratfolk]])

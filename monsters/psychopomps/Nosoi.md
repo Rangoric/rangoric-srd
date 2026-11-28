@@ -18,8 +18,8 @@ special-attacks: "Haunting melody, spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, spiritsense, change shape (raven or songbird [same statistics], beast shape II), spirit touch, damage reduction 2/adamantine, immunity to death effects, disease and poison, resistance to cold 10 and electricity 10"
 defenses: "Fort 12, Ref 16, Will 14"
 abilities: "Str 8, Dex 16, Con 12, Int 11, Wis 13, Cha 16"
-skills: "Acrobatics +17, Perception +10, Profession (scribe) +7, Sense Motive +1, Society +6, Stealth +17, Theology +6"
-skill-ranks: "Acrobatics 7, Perception 5, Profession (scribe) 4, Sense Motive 2, Society 3, Stealth 3, Theology 3"
+skills: "Acrobatics +17, Perception +10, Background (scribe) +9, Sense Motive +1, Society +6, Stealth +17, Theology +6"
+skill-ranks: "Acrobatics 7, Perception 5, Background (scribe) 4, Sense Motive 2, Society 3, Stealth 3, Theology 3"
 feats: "Weapon Finesse, Skill Focus (Perception)"
 environment: "Any (a neutral-aligned plane: Purgatory)"
 organization: "Solitary, pair, or group (3–15)"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], spiritsense, [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (raven or songbird \[same statistics\], beast shape II), spirit touch, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 2/adamantine, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to death effects, disease and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and electricity 10
 - **Defenses**: Fort 12, Ref 16, Will 14
 - **Abilities**: Str 8, Dex 16, Con 12, Int 11, Wis 13, Cha 16
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +17, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Profession|Profession]] (scribe) +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +1, [[rangoric-srd/skills/Society|Society]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +17, [[rangoric-srd/skills/Theology|Theology]] +6
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +17, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Background|Background]] (scribe) +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +1, [[rangoric-srd/skills/Society|Society]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +17, [[rangoric-srd/skills/Theology|Theology]] +6
 - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
 - **Environment**: Any (a neutral-aligned plane: [[rangoric-srd/rules/planes/Purgatory|Purgatory]])
 - **Organization**: Solitary, pair, or group (3–15)
