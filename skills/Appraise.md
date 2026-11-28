@@ -4,7 +4,7 @@ section: "Skills"
 key-ability: "Int"
 status: draft
 pi-review: scanned 2026-10-15
-tags: [rangoric, rangoric/skill, background]
+tags: [rangoric, rangoric/skill, flavor]
 ---
 
 # Appraise

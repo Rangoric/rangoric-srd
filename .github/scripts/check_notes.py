@@ -66,6 +66,11 @@
   the Changelog are exempt. The gods the SRD uses are in divine/Pantheons.
 - Letter lists: monsters/ has no hand-kept list "Monsters <letter>..." or "All Monsters" (Monster Letter Lists as
   Bases, LB 1, 2026-11-28; LETTER_LIST): Monsters Index.base lists every monster. Fails anywhere.
+- Background subjects: Craft, Profession and Lore are one flavor skill, Background, and Perform is Performance
+  (Background Skill, BG 1, 2026-11-28), so a changed note's text has no "Craft (x)", "Profession (x)", "Lore (x)" or
+  "Perform (x)" subject, and every Background (x) and Performance (x) subject is on its note's list: Background's
+  Subjects lists and Performance's categories. A placeholder ("any one craft", "chosen at creation") isn't checked,
+  nor is an ability, a DC or a tag in brackets ("Bardic Lore (Ex)", "Monster Lore (major)"). The Changelog is exempt (BACKGROUND).
 - Marks: a note marked `sweep: failing` lists its problems in `sweep-issues`; a listed problem is a warning, one
   not listed still fails. A marked note with no problems left, or a listed issue that's gone, is a warning. A note
   added by the change (--added) can't be marked.
@@ -663,6 +668,48 @@ def setting_names(rel, body):
                               for m in SETTING.finditer(text)))
 
 
+BACKGROUND = {
+    'old': re.compile(r'\b(Craft|Profession|Lore|Perform)(?:\]\])?\s?\(([^()\n]{1,80})\)'),
+    'new': re.compile(r'\b(Background|Performance)(?:\]\])?\s?\(([^()\n]{1,80})\)'),
+    'noise': re.compile(r'^(Int|Wis|Cha|Str|Dex|Con|Intelligence.*|Wisdom.*|Charisma.*|Ex|Su|Sp|M|M F|E|Quality|'
+                        r'Investigator Talent|Exploit|Hex|major|minor|DC \d+|(Int|Wis|Cha); .*)$'),
+    'split': re.compile(r',\s*(?:and |or )?|\s+or\s+|\s+and\s+'),
+    'placeholder': re.compile(r'^(any|all|choose|chosen|your|one|two|three|several|the|its|item|determined|varies)\b'
+                              r'|\b(craft|crafts|profession|professions|lore)$', re.I),
+}
+
+
+def background_lists():
+    """Background's Subjects lists and Performance's categories (Background Skill, BG 1)."""
+    bg = read('skills/Background.md') if 'skills/Background.md' in files else ''
+    subj = bg.split('## Subjects', 1)[1].split('\n## ', 1)[0] if '## Subjects' in bg else ''
+    perf = read('skills/Performance.md') if 'skills/Performance.md' in files else ''
+    return ({m.lower() for m in re.findall(r'^- \*\*([^*]+)\*\*:', subj, re.M)},
+            {m.lower() for m in re.findall(r'^- ([A-Z][a-z]+(?: instruments)?) \(', perf, re.M)})
+
+
+def background_subjects(rel, body):
+    """Old Craft, Profession, Lore and Perform subjects, and Background and Performance subjects not on their note's
+    list (Background Skill, BG 1). The Changelog is exempt."""
+    if rel == 'Changelog.md' or not BACKGROUND_LISTS[0]:
+        return []
+    text = re.sub(r'<!--.*?-->|%%.*?%%', '', strip_code(body), flags=re.S)
+    text = re.sub(r'\[\[[^\]|]*\\?\|', '[[', text)
+    out = []
+    for m in BACKGROUND['old'].finditer(text):
+        if not BACKGROUND['noise'].match(m.group(2).strip()):
+            out.append(f'{m.group(1)} ({m.group(2)}) is Background or Performance now (see skills/Background)')
+    for m in BACKGROUND['new'].finditer(text):
+        if BACKGROUND['noise'].match(m.group(2).strip()):
+            continue
+        listed = BACKGROUND_LISTS[0] if m.group(1) == 'Background' else BACKGROUND_LISTS[1]
+        for part in BACKGROUND['split'].split(m.group(2)):
+            part = re.sub(r'^usually ', '', part.strip().strip('*_'), flags=re.I)
+            if part and not BACKGROUND['placeholder'].search(part) and part.lower() not in listed:
+                out.append(f'{m.group(1)} subject not on its note\'s list: {part}')
+    return list(dict.fromkeys(out))
+
+
 LETTER_LIST = re.compile(r'monsters/(Monsters [A-Z][a-z]?( to [A-Z][a-z]?)?|All Monsters)\.md')
 
 
@@ -806,6 +853,7 @@ def yaml_item(s):
 problems, warnings = [], []
 marks = {}   # rel -> its problems, for --baseline
 LANGUAGES = table_languages()
+BACKGROUND_LISTS = background_lists()
 
 for rel in sorted(f for f in files if f.endswith('.md')):
     if FOLDER and not rel.startswith(FOLDER.rstrip('/') + '/'):
@@ -835,6 +883,7 @@ for rel in sorted(f for f in files if f.endswith('.md')):
     links.extend(f'{rel}: {p}' for p in setting_names(rel, body))
     links.extend(f'{rel}: {p}' for p in two_skill_feat(rel, body))
     links.extend(f'{rel}: {p}' for p in languages(rel, body))
+    links.extend(f'{rel}: {p}' for p in background_subjects(rel, body))
     marked = data.get('sweep') == 'failing'
     listed = data.get('sweep-issues') or []
     listed = [str(x) for x in listed] if isinstance(listed, list) else [str(listed)]

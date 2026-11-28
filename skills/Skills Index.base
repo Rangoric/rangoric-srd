@@ -34,12 +34,12 @@ views:
       - property: file.name
         direction: ASC
   - type: table
-    name: Background skills
+    name: Flavor skills
     filters:
       and:
         - file.hasTag("rangoric/skill")
         - note.status != "replaced"
-        - file.hasTag("background")
+        - file.hasTag("flavor")
     order:
       - file.name
       - key-ability

@@ -2,10 +2,9 @@
 srd-type: "skill"
 section: "Skills"
 key-ability: "Int"
-trained-only: true
 status: draft
 pi-review: 2026-10-22
-tags: [rangoric, rangoric/skill, background]
+tags: [rangoric, rangoric/skill, flavor]
 ---
 
 # Linguistics
@@ -39,7 +38,7 @@ Languages work as follows.
 - You start at 1st level knowing one or two languages (based on your race), plus an additional number of languages equal to your starting Intelligence bonus.
 - Every second rank you have in Linguistics (2nd, 4th, 6th, and so on) also gives you a new language that you can speak.
 - There are no checks to speak a language. You either know it or you don’t.
-- A literate character (anyone but a barbarian who has not spent skill points to become literate) can read and write any language she speaks. Each language has an alphabet, though sometimes several spoken languages share a single alphabet.
+- Every character can read and write any language they speak. Each language has an alphabet, though sometimes several spoken languages share a single alphabet.
 
 **Table: Common Languages and Their Alphabets**
 

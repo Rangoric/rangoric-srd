@@ -58,7 +58,7 @@ tags: [rangoric, rangoric/feat]
 
 Notes can add `games: [rogue-like, auto-battler]`.
 
-Topic tags go in the same `tags` list, lowercase and with no prefix, such as `core`, `background`, `knowledge` and `magic` on skills. Rule text capitalizes them ("Knowledge skills", "a Core skill"). The [[Tag Register]] lists every tag, the note that defines it and how many notes carry it.
+Topic tags go in the same `tags` list, lowercase and with no prefix, such as `core`, `flavor`, `knowledge` and `magic` on skills. Rule text capitalizes them ("Knowledge skills", "a Core skill"). The [[Tag Register]] lists every tag, the note that defines it and how many notes carry it.
 
 ## Decisions to make
 
