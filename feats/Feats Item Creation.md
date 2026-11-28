@@ -1,7 +1,7 @@
 ---
 srd-type: "overview"
 section: "Feats"
-status: base
+status: draft
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
@@ -10,11 +10,6 @@ tags: [rangoric, rangoric/overview]
 
 ## Item Creation
 
-- [[rangoric-srd/feats/Brew Potion|Brew Potion]]
-- [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]]
-- [[rangoric-srd/feats/Craft Rod|Craft Rod]]
-- [[rangoric-srd/feats/Craft Staff|Craft Staff]]
-- [[rangoric-srd/feats/Craft Wand|Craft Wand]]
-- [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]]
-- [[rangoric-srd/feats/Forge Ring|Forge Ring]]
-- [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]]
+Every feat with the tag _item-creation_ (see [[rangoric-srd/feats/Feats Overview#Item Creation Feats|Item Creation Feats]]), from the [[rangoric-srd/feats/Feats Index.base|Feats Index]]:
+
+![[rangoric-srd/feats/Feats Index.base#item-creation]]

@@ -3,7 +3,7 @@ srd-type: "feat"
 section: "Feats"
 status: draft
 pi-review: scanned 2026-10-15
-tags: [rangoric, rangoric/feat, item-creation]
+tags: [rangoric, rangoric/feat, item-creation, psionic-item-creation]
 ---
 
 # Craft Dorje
