@@ -159,6 +159,46 @@ views:
       - property: file.name
         direction: ASC
   - type: table
+    name: general
+    filters:
+      and:
+        - file.hasTag("rangoric/feat")
+        - not:
+            - file.hasTag("item-creation")
+            - file.hasTag("metamagic")
+            - file.hasTag("stare")
+            - file.hasTag("style")
+            - file.hasTag("critical")
+            - file.hasTag("teamwork")
+            - file.hasTag("performance")
+            - file.hasTag("epic")
+            - file.hasTag("divine")
+            - file.hasTag("wild")
+            - file.hasTag("psionic")
+            - file.hasTag("metapsionic")
+            - file.hasTag("psionic-item-creation")
+            - file.hasTag("spelltouched")
+            - file.hasTag("shadetouched")
+            - file.hasTag("sign")
+    order:
+      - file.name
+      - prerequisites
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: psionic-item-creation
+    filters:
+      and:
+        - file.hasTag("rangoric/feat")
+        - file.hasTag("psionic-item-creation")
+    order:
+      - file.name
+      - prerequisites
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
     name: Failing
     filters:
       and:

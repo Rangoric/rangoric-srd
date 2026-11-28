@@ -30,6 +30,8 @@ Headings, in order:
 | `srd-type` | yes      | `overview` |
 | `section`  | yes      | `Feats`    |
 
+A feat overview lists feats by embedding a [[rangoric-srd/feats/Feats Index.base|Feats Index]] view, not by a written list. A list of a few feats that share no tag may stay written.
+
 ## Failing notes
 
 ![[rangoric-srd/feats/Feats Index.base#Failing]]
